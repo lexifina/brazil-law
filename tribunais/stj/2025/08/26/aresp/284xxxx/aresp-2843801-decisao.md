@@ -1,0 +1,49 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CARLOS AUGUSTO ROCHA BRITO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/11/2024.
+Concluso ao gabinete em: 5/3/2025.
+Ação: de manutenção cumulada com reintegração de posse ajuizada pelo agravante em desfavor de PAVIBLOCO PREMOLDADOS EM CONCRETO LTDA, por alegado esbulho possessório.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE MANUTENÇÃO CUMULADA COM REINTEGRAÇÃO NA POSSE COM PEDIDO DE LIMINAR. SENTENÇA DE IMPROCEDÊNCIA. MANUTENÇÃO DO DECISUM. INCONFORMISMO INFUNDADO DO AUTOR. AUSÊNCIA DE PROVAS ACERCA DO ESBULHO ALEGADO, QUE OBSTA A PROTEÇÃO POSSESSÓRIA. COMPROVADA EDIÇÃO DE DECRETOS PELA PREFEITURA MUNICIPAL DE JAPERI DECLARANDO A UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO DE TERRENOS NO REFERIDO MUNICÍPIO. TERMOS DE PERMISSÃO DE USO FIRMADOS ENTRE O MUNICÍPIO E A EMPRESA APELADA, TENDO COMO OBJETO OS REFERIDOS LOTES DESAPROPRIADOS. OCUPAÇÃO DO LOCAL PELA EMPRESA QUE NÃO É INJUSTA. PRETENSÃO DO APELANTE QUE SE VOLTA CONTRA OS DECRETOS MENCIONADOS, DEVENDO SER MANIFESTADA EM FACE DO MUNICÍPIO. APELANTE QUE NÃO COMPROVOU ILEGALIDADE QUE POSSA SER ATRIBUÍDA À APELADA. HONORÁRIOS RECURSAIS. RECURSO A QUE SE NEGA PROVIMENTO.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 7º, 9º, 10, 141, 341, 489, § 1º, IV e 492, do CPC; arts. 15, 16, 17, da Lei nº 3.365/1941.
+O agravante aponta contradições no acórdão acerca das seguintes questões: falta de consideração dos fatos constantes da petição inicial; ii) julgamento extra petita; iii) violação dos princípios o contraditório e da ampla defesa; iv) julgamento contrário às provas dos autos.
+Aponta deficiência de fundamentação do acórdão, haja vista que não foi comprovada a data das intervenções nos terrenos, quem as promoveu e o local exato, ensejando violação do art. 341 do CPC. Ressalta que, a contestação da recorrida não impugnou esses fatos, o que presume a veracidade de suas alegações.
+Argumenta, ainda, que o acórdão não considerou a necessidade de ação de imissão na posse, violando os artigos 15, 16 e 17 da Lei de Desapropriações.
+Requer, ao final, o provimento do recurso especial para reformar o acórdão estadual, para julgar procedentes os pedidos iniciais, de forma alternativa, a retorno dos autos ao TJRJ para novo julgamento.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+No que diz respeito às contradições apontadas no acórdão recorrido, da leitura das razões do recurso especial, constata-se que a parte agravante sequer aponta violação do art. 1.022 do CPC, o que importa a inviabilidade do recurso especial, nesse ponto, ante a incidência da Súmula 284/STF.
+De fato, a Súmula 284/STF estabelece que para que um recurso especial seja considerado admissível, é imprescindível que a parte recorrente comprove a violação do dispositivo legal federal invocado no recurso, estabelecendo uma associação direta entre os fundamentos do acórdão recorrido e os artigos mencionados. Nesse sentido: AgInt no AREsp 2.158.801/RJ, Quarta Turma, DJe 6/11/2023; e AgInt no REsp n. 1.974.581/RS, Terceira Turma, DJe 17/8/2022.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, verifica-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada. É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte.
+Além disso, o acórdão estadual ao dirimir a controvérsia, fundamentou a ausência de esbulho possessório e ocupação injusta do terreno pela empresa agravada, consoante extrai-se da seguinte passagem:
+A decisão atacada traz consigo todos os elementos indispensáveis à sua perfeita inteligência. Ali se explicou os motivos pelos quais foi negado provimento ao recurso do ora embargante. Refira-se trecho:
+"Com efeito, o ônus de provar a posse é daquele que pleiteia a sua reintegração, na forma do art. 373, I, CPC, devendo o julgador fundamentar sua convicção nos elementos trazidos aos autos, a fim de considerar provados pelo demandante a posse anterior, o esbulho e a perda da posse.
+Na hipótese ora em análise, restou comprovada a edição do Decreto nº 1.230/04 e do Decreto nº 1.926/11, pela Prefeitura Municipal de Japeri, para declarar a utilidade pública para fins de desapropriação de terrenos no referido Município, consistentes em lotes das quadras 08 e 09 e das quadras 07, 10, 20, 21, 22, 23, 24, 25 e 26, respectivamente. Posteriormente, foram firmados Termos de Permissão de Uso entre a empresa apelada e o Município de Japeri (fls. 214/219) tendo como objeto os referidos lotes.
+Para que seja caracterizado esbulho, é necessário que a ocupação seja injusta, o que não ocorreu no caso em análise. A ocupação realizada pela empresa apelada é decorrente dos referidos Decretos editados pelo Município de Japeri, conforme inclusive reconhecido pelo próprio apelante.
+A pretensão do apelante é voltada contra os Decretos que ensejaram os Termos de Permissão de Uso lavrados entre a Prefeitura Municipal de Japeri e a empresa apelada, permitindo sua ocupação pela demandada e, assim, deve ser manifestada em face do Município de Japeri e não em face da empresa apelada.
+Eventual discussão acerca de qualquer ilegalidade referente aos mencionados decretos deve ser manifestada pela via própria em face da Municipalidade.
+Não restou comprovada qualquer ilegalidade que possa ser atribuída à parte apelada.
+Em verdade, em que pese o apelante tenha juntado diversas fotografias quando da propositura da demanda, que indicariam o esbulho e a turbação sofridos, não restou devidamente comprovada a data em que foram realizadas as intervenções nos terrenos, quem promoveu essas intervenções e, ainda, qual o local em que efetivamente foram realizadas as intervenções, em qual das quadras dos lotes que foram desapropriados." (e-STJ, fls. 1099-1100).
+Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado. No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da ausência de prequestionamento
+Por outro lado, verifica-se que o acórdão recorrido não decidiu acerca da matéria contida nos arts. 7º, 9º, 10, 141, 341 e 492, do CPC; arts. 15, 16, 17, da Lei nº 3.365/1941., indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ. Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Da fundamentação deficiente
+Cumpre anotar, que a Súmula 284/STF estabelece que para que um recurso especial seja considerado admissível, é imprescindível que a parte recorrente comprove a violação do dispositivo legal federal invocado no recurso, estabelecendo uma associação direta entre os fundamentos do acórdão recorrido e os artigos mencionados.
+No entanto, na hipótese em análise, essa correlação não foi devidamente estabelecida, uma vez que os argumentos invocados não guardam relação direta com os artigos mencionados. Nesse sentido: AgInt no AREsp 1.947.682/SP, Terceira Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, Quarta Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas
+Demais disso, alterar o decidido no acórdão impugnado, no que se refere a alegada existência de posse injusta e esbulho possessório, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 13% sobre o valor atualizado da causa (e-STJ fls. 1065) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE MANUTENÇÃO CUMULADA COM REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE PROVAS DO ESBULHO. IMOVEL DECLARADO DE UTILIDADE PÚBLICA PARA FINS DE DESAPROPRIAÇÃO DE TERRENOS NO MUNICÍPIO. AUSÊNCIA DE COMPROVAÇÃO DA ILEGALIDADE DA OCUPAÇÃO DA ÁREA PELA AGRAVADA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de manutenção cumulada com reintegração de posse.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se fala r em violação do art. 489 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
