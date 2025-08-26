@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONARDO MARCIO ALFREDO e JORGE HANNAS SALIM JUNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+"EMENTA: HABEAS CORPUS. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. NULIDADE. INOBSERVÂNCIA DO RITO PREVISTO NO ART. 514 DO CPP. PREJUÍZO NÃO DEMONSTRADO. CONSTRANGIMENTO LEGAL INEXISTENTE. ORDEM DENEGADA. - A inobservância do rito processual previsto no art. 514 do Código de Processo Penal, que prevê a notificação para defesa preliminar, configura nulidade de natureza relativa, exigindo a demonstração de prejuízo concreto para a defesa. - A anulação do ato processual está condicionada à comprovação de efetivo prejuízo pela parte, em observância ao princípio pas de nullité sans grief, previsto no artigo 563 do CPP, não sendo suficiente a mera alegação de prejuízo presumido. - Ordem denegada."
+A defesa requer "a concessão da presente ordem de habeas corpus para que seja trancada a Ação Penal dos autos nº: Número: 5000236-26.2022.8.13.0625, processada pela Emérita 1ª Vara Criminal e da Infância e da Juventude da Comarca de São João del Rei, em relação aos Pacientes, vez que foram violados direitos fundamentais dos pacientes, bem como o procedimento adotado ao caso foi, foi divergente ao determinado no CPP" (e-STJ fls. 2-14).
+A liminar foi indeferida (e-STJ fls. 46-47).
+As informações foram prestadas (e-STJ fls. 53-87).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 92-96).
+É o relatório.
+Decido.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do writ, uma vez que "é reiterada a orientação jurisprudencial desta Corte no sentido de que a decretação da nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo à luz do art. 563 do Código de Processo Penal, ex vi do princípio pas de nullité sans grief, o que não ocorreu no caso em debate" (AgRg no HC n. 822.930/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/9/2023, DJe de 13/9/2023).
+Ademais, como bem destacado pelo Ministério Público Federal em seu parecer, "conforme esclarecem informações requisitadas (e-STJ, fls. 53/54), a denúncia fora precedida de procedimento investigatório criminal, sendo hipótese de incidência da Súmula 330/STJ" (e-STJ fl. 96 ).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
