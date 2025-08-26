@@ -1,0 +1,16 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 1.116-1.136) interposto contra acórdão no qual foi estabelecido que a revisão do ato de anistia deve observar o prazo decadencial previsto no art. 54 da Lei n. 9.784/1999.
+À fl. 1.149, o recurso foi sobrestado em razão do reconhecimento, pelo Supremo Tribunal Federal, da repercussão geral acerca da matéria no Tema n. 839 do STF.
+Com a finalização do julgamento da controvérsia relativa ao Tema n. 839 do STF, foram os autos encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fl. 1.155).
+O órgão julgador exerceu o juízo de retratação em acórdão assim ementado (fls. 1.168-1.269):
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANULAÇÃO DE ANISTIA POLÍTICA CONFERIDA COM BASE NA PORTARIA 1.104/1964. JUÍZO DE RETRATAÇÃO EXERCIDO EM RAZÃO DO TEMA 839 DO STF. DECADÊNCIA AFASTADA. CAUSA DE PEDIR REMANESCENTE. CANCELAMENTO DO ATO DE ANISTIA SEM APRECIAÇÃO DA COMISSÃO DE ANISTIA. NULIDADE. INCOMPETÊNCIA DO GRUPO DE TRABALHO INTERMINISTERIAL. PRECEDENTES.
+1. Trata-se de processo devolvido pela Vice-Presidência do STJ para análise de hipótese de retratação, conforme previsão do art. 1.030, II, do CPC/2015.
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 817.338-RG/DF, submetido à sistemática da repercussão geral, paradigma do Tema 839, fixou a seguinte tese: "No exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria nº 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas".
+3. Em razão do referido julgado, o Superior Tribunal de Justiça adequou a sua jurisprudência e passou a entender que "de acordo com a orientação do Pretório Excelso, ocorrendo violação direta do art. 8º da ADCT, é possível a anulação do ato de anistia pela administração pública, mesmo quando decorrido o prazo decadencial contido na Lei n. 9.784/1999" (MS 19.070/DF, Rel. p/ acórdão Ministro Og Fernandes, Primeira Seção, DJe de 27/03/2020). Logo, é imperativa a aplicação do Tema n. 839, a fim de afastar a decadência. Precedentes.
+4. A jurisprudência desta Corte está consolidada no sentido de é causa de nulidade a ausência de participação da Comissão de Anistia no procedimento de revisão de anistia política. Precedentes.
+5. Juízo de retratação exercido em relação aos acórdãos constantes às fls. 1.087/1.098 e 1.149/1.152, para torna-los sem efeito. Decadência afastada. Segurança concedida pela pretensão remanescente.
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questões, fica prejudicado o recurso extraordinário de fls. 1.116-1.136 , em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
