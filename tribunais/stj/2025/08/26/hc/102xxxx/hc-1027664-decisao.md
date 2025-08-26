@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de WESLEY LEANDRO DA SILVA PEREIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSDTIÇA DO ESTADO DE GOIÁS assim ementado:
+EMENTA : DIREITO PENAL . APELAÇÃO CRIMINAL . RECEPTAÇÃO DOLOSA . DOSIMETRIA DA PENA . INDENIZAÇÃO POR DANOS MATERIAIS. SUBSTITUIÇÃO DA PENA. RECURSO PARCIALMENTE PROVIDO.
+Consta dos autos que o paciente foi condenado à pena de 8 (oito) meses de reclusão, em regime semiaberto, pela prática do delito capitulado no art. 180, caput, do Código Penal.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a condenação do paciente por receptação dolosa fundamentou-se na presunção de que ele tinha ciência da origem ilícita dos bens, sem efetiva comprovação dessa consciência.
+Alega que o ônus de comprovar os fatos cabe à acusação, e não ao réu, conforme o sistema acusatório, e que o Ministério Público não conseguiu produzir elementos suficientes para comprovar a hipótese acusatória.
+Argumenta que as provas produzidas confirmam apenas que o paciente foi encontrado na posse dos objetos, sem qualquer indício de que ele tinha conhecimento da origem espúria dos bens.
+Defende que o paciente adquiriu os produtos por R$ 100,00 (cem reais), sem suspeitar de sua origem ilícita, acreditando tratar-se de produtos de posse legítima do filho e irmão das vítimas.
+Subsidiariamente, considera que as provas produzidas permitem a desclassificação do delito para a modalidade culposa da receptação, prevista no art. 180, § 3º do Código Penal, pois o paciente poderia ter desconfiado da procedência ilícita dos bens, caracterizando, no máximo, sua negligência.
+Requer, em suma, a absolvição do paciente, ou, subsidiariamente, a desclassificação da conduta para a modalidade culposa de receptação.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação para afastar a tese de absolvição e desclassificação:
+Ocorre que, além da ausência de prova da aquisição, não é razoável que o apelante tenha adquirido um forno elétrico e um botijão de gás, bens de considerável valor, de um indivíduo praticamente desconhecido, sem documentação e por um preço bem inferior ao de mercado, sem que efetivamente soubesse da origem espúria do bem. Ademais, o condutor do flagrante relatou que o apelante alegou ter comprado os itens de um "indivíduo desconhecido", e não de alguém vinculado à vítima, o que enfraquece a tese de erro de tipo ou boa-fé apresentada pela defesa.
+ ..
+Adiante, o apelante refuta com veemência a possibilidade de inversão do ônus da prova. Entendo pode conter certa atecnia na expressão, porém não na prática, pois o que de fato ocorre no crime de receptação, é que o acusado flagrado na posse do bem é oportunizado a demonstrar a origem lícita da aquisição ou a conduta culposa. Não se trata, portanto, de efetiva inversão do ônus da prova, mas da oportunidade apresentar uma contra prova, de modo a refutar, de forma eficaz e concreta, a autoria delitiva. Isto não ocorreu no caso em tela, prevalecendo, assim, o ônus, que é da acusação, em demonstrar a prática delitiva.
+ ..
+Do mesmo modo, não há espaço para a desclassificação do crime para a forma culposa, vez que os argumentos expendidos pela defesa, não conduzem a tal conclusão. Especialmente tendo em vista a constatação de que o réu adquiriu os objetos de uma pessoa estranha, por um preço muito inferior ao valor de mercado, não logrando demonstrar a compra de boa-fé. Nesse sentido, a falta de verossimilhança da alegação e, notadamente, a ausência de informações específicas referentes à aquisição, como o nome do vendedor, o local da transação, comprovantes de pagamento, configura importante lacuna em sua narrativa.
+Reitero que, no crime de receptação dolosa simples (CP, artigo 180, caput), o mero fato de o objeto, proveniente de origem criminosa, ter sido apreendido em poder do apelante gera a presunção de responsabilidade delitiva. Nesse aspecto, a simples alegação do desconhecimento da procedência ilícita, não elide o acervo probatório idoneamente constituído.
+ ..
+Como o apelante não logrou demonstrar a licitude da posse, resta demonstrada, ao revés, a consciência de sua procedência espúria, impondo-se, assim, a manutenção do decreto condenatório pelo delito de receptação dolosa (fls. 11/14).
+Na espécie, pelo trecho do julgado acima transcrito, verifica-se que a instância de origem, depois de minuciosa análise dos fatos e provas produzidos nos autos, concluiu pela existência de elementos concretos a ensejar a condenação do paciente e, para concluir em sentido diverso, acolhendo as teses absolutória e desclassificatória, seria necessário o revolvimento de todo o conjunto fático-probatório, providência inadmissível na via estreita do habeas corpus.
+Ademais, a jurisprudência do STJ firmou-se no sentido de que, no crime de receptação, cabe à defesa apresentar a prova acerca da origem lícita do bem ou da conduta culposa, sem que se possa falar em inversão do ônus da prova.
+Nesse sentido, vale citar os seguintes julgados desta Corte: AgRg no HC n. 953.457/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/2/2025; AREsp n. 2.450.021/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AREsp n. 2.494.251/DF, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 4/12/2024; AgRg no HC n. 860.366/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/8/2024; HC n. 903.346/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 27/3/2025; HC n. 903.346/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 27/3/2025).
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
