@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DANIELLI PRATTI PEREIRA DA SILVA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/09/2024.
+Concluso ao gabinete em: 25/07/2025.
+Ação: de obrigação de fazer cumulada com compensação por danos morais, ajuizada pela agravante, em face de AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL LTDA., na qual requer a mudança do plano de saúde para a modalidade individual, sem prazo de carência, mantendo o valor pago mensalmente.
+Sentença: julgou improcedente o pedido.
+Acórdão: negaram provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO - PROCESSO CIVIL - PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE - EXPOSIÇÃO SUFICIENTE DA IRRESIGNAÇÃO - REJEIÇÃO - MÉRITO - CONSUMIDOR - PLANO DE SAÚDE - DEMISSÃO SEM JUSTA CAUSA - MANUTENÇÃO DO PLANO DURANTE O PRAZO DE REMISSÃO - CANCELAMENTO POSTERIOR - CONDUTA LEGÍTIMA - INTELIGÊNCIA DO ARTIGO 30, DA LEI Nº 9.656/98 - RECURSO CONHECIDO E IMPROVIDO - HONORÁRIOS RECURSAIS. Preliminar de violação ao princípio da dialeticidade: 1. As razões recursais, embora sucintas, são capazes de demonstrar o inconformismo da construtora com a r. sentença, haja vista que sustenta, expressamente, a necessidade de reforma com base na sustentada necessidade de manutenção do plano de saúde. 2. Preliminar rejeitada. Mérito: 1. O prazo mínimo para manutenção da cobertura - 6 (seis) meses e 24 (vinte e quatro) dias - foi respeitado pela operadora de saúde, que, como visto, manteve os serviços por extensão de inatividade por mais de (16) dezesseis meses após a demissão de seu marido. 2. O prazo de manutenção da cobertura não extrapolou o máximo previsto em Lei, qual seja, de 24 (vinte e quatro) meses, o que afasta as alegações recursais de que se criou uma legítima expectativa de que o plano de saúde seria mantido de forma indeterminada. 3. A própria legislação, da qual a parte apelante não alega desconhecimento, indica o prazo máximo de obrigatoriedade de manutenção da cobertura por extensão, circunstância que, é capaz de refutar o argumento de que foi surpresada com o cancelamento do plano de saúde. 4. Recurso conhecido e improvido. Condenação do apelante ao pagamento de honorários recursais. (e-STJ fls. 333-333)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 4, III, 6, IV, 39, V, do CDC; 30 e §§ da Lei 9.656/98, bem como dissídio jurisprudencial. Aduz violação à boa fé objetiva na relação de consumo, tendo em vista que não houve prévia notificação prévia quanto ao término do prazo contratual. Aduz que foi violado o dever de informação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 4, III, 6, IV, 39, V, do CDC, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão relativa a tais artigos perpetrada pelo Tribunal de origem. Ressalte-se que as teses acerca da necessidade de comunicação prévia ao consumidor sobre a rescisão unilateral do contrato e da suposta violação do dever de informação não foram objeto de debate no referido acórdão.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o seguinte fundamento utilizado pelo TJ/ES (e-STJ fls. 323-324):
+O documento de fl. 13 - termo de homologação de rescisão do contrato de trabalho - demonstra que o marido da apelante laborou na empresa estipulante do plano de saúde entre 01/04/2013 e 11/12/2014, ou seja, por 20 (vinte) meses e 11 (onze) dias.
+Com a subsunção do caso concreto à norma, tem-se que o prazo máximo que a operadora de saúde tinha a obrigação de manter a cobertura seria de 6 (seis) meses e 24 (vinte e quatro) dias, equivalente a um terço do tempo trabalhado pelo titular, período em que se presume a assistência por força da legislação pertinente.
+Segundo a narrativa da autora, a interrupção da prestação dos serviços ocorreu aproximadamente 16 (dezesseis) meses após a rescisão do contrato de trabalho de seu cônjuge.
+Assim, o prazo mínimo para manutenção da cobertura - 6 (seis) meses e 24 (vinte e quatro) dias - foi respeitado pela operadora de saúde, que, como visto, manteve os serviços por extensão de inatividade por mais de (16) dezesseis meses após a demissão de seu marido.
+Porém, o prazo de manutenção da cobertura não extrapolou o máximo previsto em Lei, qual seja, de 24 (vinte e quatro) meses, o que afasta as alegações recursais de que se criou uma legítima expectativa de que o plano de saúde seria mantido de forma indeterminada.
+Note-se que no caso em tela, a própria legislação, da qual a parte apelante não alega desconhecimento, indica o prazo máximo de obrigatoriedade de manutenção da cobertura por extensão, circunstância que, é capaz de refutar o argumento de que foi surpresada com o cancelamento do plano de saúde.
+Ultrapassado o prazo legal, não pode a operadora de saúde, salvo nas hipóteses previstas na própria legislação, ser compelida a manter, indefinidamente, cobertura assistencial por extensão. Nesse sentido:  ..
+Desse modo, visto que a pretensão deduzida pela autora não encontra respaldo legal, deve subsistir a r. sentença de primeiro grau que julgou improcedentes os pedidos iniciais.
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, Quarta Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, Terceira Turma, DJe de 11/4/2024.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 329) para 17% (dezessete por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
