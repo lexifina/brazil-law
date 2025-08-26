@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUAN SANTANA SANTOS contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta nos autos que o paciente foi preso preventivamente em 23 de março de 2020, teve nova prisão decretada em 10 de abril de 2023 e está recolhido desde 18 de março de 2024, somando mais de 577 dias de prisão preventiva.
+Sobreveio sentença penal condenatória que impôs ao paciente a pena de 6 anos, 10 meses e 15 dias de reclusão em regime inicial semiaberto, como incurso nos crimes capitulados no artigo 157, §2º, incisos II e V, e §2º-A, inciso I, do Código Penal.
+A defesa interpôs recurso de apelação, autuado em 31 de outubro de 2024, que permanece sem julgamento.
+Sustenta a Defesa que a prisão preventiva do paciente, que já ultrapassa 577 dias, é manifestamente ilegal diante do excesso de prazo para julgamento da apelação interposta.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+A liminar foi indeferida às fls. 119-120.
+Informações prestadas às fls. 125-127. O Ministério Público Federal, às fls. 132-138, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Quanto à alegação de excesso de prazo no julgamento de recurso de apelação, extrai-se das informações colhidas dos autos que em 29/05/2019, a denu"ncia foi oferecida pela suposta prática do crime previsto no artigo 157, §2º, II e V, e §2º-A, inciso I, do Co"digo Penal, e recebida em 07/08/2019, pelo Jui"zo da 5ª Vara Criminal da Comarca da Capital, que determinou a prisa o preventiva do paciente. O mandado foi cumprido em 18/03/2024. Na sentença proferida em 13/06/2024, o paciente restou condenado a"s penas de 06 (seis) anos, 10 (dez) meses e 15 (quinze) dias de reclusa o, em regime inicialmente semiaberto, e pagamento de 16 (dezesseis) dias-multa, no valor unita"rio mi"nimo legal. A defesa do paciente interpo s apelaça o em 22/06/2024.
+Ressalte-se que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo. É preciso registrar que a jurisprudência desta Corte de Justiça sufraga o entendimento de que o excesso de prazo para julgamento da apelação deve ser analisado com base na quantidade de pena aplicada no caso concreto.
+Ilustrativamente:
+"A configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida consoante os critérios de razoabilidade, em razão das peculiaridades do caso concreto.Ademais, eventual excesso de prazo deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória."(AgRg no RHC n. 197.741/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024.)
+"A jurisprudência desta Corte Superior é firme em assinalar que as elevadas penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no julgamento dos incidentes processuais. Como os agravantes foram condenados a elevadas penas, o prazo para a tramitação dos recursos deverá ser proporcional à complexidade dos fatos. Ausência de constrangimento ilegal" (AgRg no HC n. 899.092/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+E os seguintes precedentes: (AgRg no HC n. 800.181/MS, Quinta turma, relator Ministro Reyn aldo Soares da Fonseca, DJe de 24/3/2023), (AgRg no HC n. 687.840/MS, sexta turma, relatora Ministra Laurita Vaz, DJe de 19/12/2022); (AgRg no RHC n. 200.160/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma DJe de 18/9/2024.)
+Portanto, não me afigura desproporcional o tempo para julgamento do recurso de apelação, não se vislumbrando, pois, qualquer ilegalidade flagrante no presente caso, apta a ensejar a concessão da ordem.
+Ante o exposto, denego a ordem. Expeça, contudo, recomendação ao Tribunal de origem para que imprima maior celeridade no julgamento do recurso de apelação.
+Publique-se. Intimem -se.
+EMENTA
