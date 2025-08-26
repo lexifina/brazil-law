@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO SOARES DA SILVA para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que foi proferida em desfavor do recorrente decisão prolatada pelo juízo de execução penal que afastou a tese de impenhorabilidade e deferiu o bloqueio mensal de 1/4 do saldo da conta do pecúlio para o fim do cumprimento da pena de multa que lhe foi imposta.
+Inconformado, o recorrente interpôs agravo em execução penal, ao final desprovido pelo Tribunal recorrido.
+O recurso especial, protocolado às fls. 69-75, foi interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, alegando-se ter havido violação ao artigo 50, parágrafo 2º do Código Penal e 833, inciso IV, do Código de Processo Civil, eis que a penhora recai sobre valor alegadamente impenhorável e imprescindível ao sustento do recorrente.
+Requer, ao fim, a cassação do acórdão prolatado para que seja cancelada a penhora determinada.
+Decisão de admissibilidade à fl. 93.
+O Ministério Público Federal, às fls. 101-106, opinou pelo conhecimento e desprovimento do recurso especial.
+É o relatório. DECIDO.
+A questão foi enfrentada da seguinte forma pelo Tribunal recorrido:
+"A irresignação não comporta acolhida. Com efeito, o recorrente, devidamente citado, não efetuou o pagamento da multa, tampouco se manifestou sobre a impossibilidade de fazê-lo (fls. 18/19 dos autos originários). Diante disso, o Ministério Público formulou pedido de desconto mensal no valor de 1/4 (um quarto) da remuneração auferida pelo executado (fl. 33 dos autos originários), o que foi deferido pelo MM. Juízo a quo na r. decisão agravada, litteris:  ..  Fls. 37/40: Indefiro o pedido de impenhorabilidade da Defensoria, tendo em vista que é possível a penhora do valor correspondente a 1/4 do pecúlio do sentenciado, nos termos dos artigos 29, § 2º, 168 e 170 da L.E.P. e 50, § 1º, do Código Penal. Fls. 33: Defiro a penhora mensal de 1/4 dos valores dos vencimentos que o sentenciado receber mensalmente até a quitação total do valor da multa.  ..  fls. 30/31. In casu, o agravante encontra-se em cumprimento da pena privativa de liberdade em razão da condenação transitada em julgado na ação penal nº 1507415-63.2021.8.26.0344 cf. certidão de multa penal de fl. 09. O artigo 170 da LEP prevê que "quando a pena de multa for aplicada cumulativamente com pena privativa da liberdade, enquanto esta estiver sendo executada, poderá aquela ser cobrada mediante desconto na remuneração do condenado (artigo 168)". Assim, agiu com acerto o MM. Juízo a quo ao deferir a penhora a 1/4 (um quarto) do saldo da conta pecúlio do agravante, conforme disposto no artigo 168, I, da LEP1. Ainda que não se tenha nos autos a informação de qual fora o valor percebido mensalmente, a limitação a 1/4 (um quarto) do montante total satisfaz tal lacuna com proporcionalidade. Nesta linha de intelecção é o posicionamento desta C. Câmara. Ressalte-se, pois oportuno, que não se aplica ao presente caso o disposto no art. 833 do CPC, ante a hipótese expressa em lei específica, isto é, o art. 170 c.c. 168, I, da LEP, nos termos da jurisprudência desta E. Corte3. Logo, forçosa a conclusão de que a r. decisão agravada não comporta reparos."
+A decisão deve ser mantida. Primeiramente, a aplicação das regras contidas nos artigos 170 e 168 da Lei de Execução Penal, por serem normas especiais em relação àquelas previstas pelo Código de Processo Civil, devem prevalecer na hipótese, o que afasta a aplicabilidade das disposições contidas no art. 833 do CPC.
+Ademais, é certo que para que fosse possível avaliar a condição financeira do recorrente, a fim de avaliar a proporcionalidade da medida e eventual comprometimento de sua subsistência, seria imprescindível proceder ao reexame das provas produzidas, o que encontra óbice na Súmula 7 do STJ.
+Em sentido semelhante:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. EXECUÇÃO DA PENA DE MULTA. PENHORA DE PECÚLIO PARA PAGAMENTO DE MULTA. ARTS. 170 E 168 DA LEI DE EXECUÇÃO PENAL (LEP). HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a penhora de pecúlio do paciente para execução de pena de multa, conforme arts. 168 e 170 da Lei de Execução Penal.
+2. O paciente foi condenado à pena privativa de liberdade e ao pagamento de 1.400 dias-multa, totalizando R$ 59.564,40 (cinquenta e nove mil, quinhentos e sessenta e quatro reais e quarenta centavos), pela prática do crime de roubo. A execução da multa incluiu a penhora de bens, inclusive pecúlio, no limite de 1/4 da remuneração do sentenciado.
+3. A defesa alega a impenhorabilidade do pecúlio, argumentando que possui natureza jurídica de verba alimentar, assistencial e social.
+II.QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se é possível a penhora de pecúlio do condenado para pagamento de pena de multa, considerando a alegação de impenhorabilidade por sua natureza alimentar.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do Superior Tribunal de Justiça não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+6. A penhora de até 1/4 do pecúlio para pagamento de multa é permitida pelos arts. 168 e 170 da Lei de Execução Penal, não se aplicando o art. 833 do CPC, em razão do princípio da especialidade.
+7. A verificação da condição de vulnerabilidade econômica do apenado exigiria revisão de provas, o que é inviável em habeas corpus, conforme a Súmula 7/STJ. (HC 867832/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe em 16/12/2024).
+Por fim, estando o acórdão recorrido em harmonia com o posicionamento desta Corte Superior, incide, na hipótese, o impedimento da Súmula n. 83 deste Sodalício.
+Logo, impossível aceder com o recorrente.
+Ante o exposto, com fulcro no art. 255, parágrafo §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
