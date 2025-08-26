@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ANDRE SOARES TAVARES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO - TJES no julgamento do Habeas Corpus Criminal n. 5006748-90.2025.8.08.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante no dia 24/3/2025, convertida a custódia em prisão preventiva, pela suposta prática do crime tipificado no art. 33 da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (fls. 62/63):
+"Ementa: DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE ENTORPECENTES. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. REQUISITOS DO ART. 312 DO CPP. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus Criminal, com pedido liminar, impetrado contra decisão do Juízo da 2ª Vara Criminal de Anchieta/ES, que manteve a prisão preventiva decretada nos autos da Ação Penal nº 00000057-36.2025.8.08.0004, em que o paciente responde por suposta prática do crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei 11.343/2006). Sustenta-se a ausência dos requisitos legais da prisão cautelar e pleiteia-se a concessão da liberdade provisória, com ou sem aplicação das medidas alternativas do art. 319 do CPP.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em avaliar a legalidade e a adequação da manutenção da prisão preventiva do paciente diante dos fundamentos invocados pela autoridade coatora, especialmente quanto à presença dos requisitos dos arts. 312 e 313 do Código de Processo Penal.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva somente se justifica quando presentes, de forma cumulativa, os requisitos do art. 312 do CPP (fumus comissi delicti e periculum libertatis) e as hipóteses autorizadoras do art. 313 do mesmo diploma legal.
+4. No caso, a materialidade e indícios de autoria encontram-se evidenciados pela prisão em flagrante do paciente e pela apreensão de significativa quantidade de entorpecentes (maconha, haxixe e ecstasy), além de balanças de precisão e materiais utilizados para o embalo das drogas, o que sustenta o fumus comissi delicti.
+5. A gravidade concreta da conduta, aliada ao risco de reiteração delitiva e à necessidade de garantia da ordem pública, justifica o periculum libertatis, atendendo ao fundamento legal para a custódia cautelar
+6. A manutenção da prisão preventiva foi devidamente fundamentada pela autoridade judicial, inclusive ao ser reavaliada, observando-se a ausência de modificação do contexto fático- processual.
+7. A existência de condições pessoais favoráveis ao paciente, como primariedade e residência fixa, não possui força suficiente para afastar a prisão preventiva quando esta se encontra concretamente fundamentada.
+8. O habeas corpus não comporta análise aprofundada da matéria probatória, sendo o juízo natural competente para exame de mérito da imputação penal.
+IV. DISPOSITIVO E TESE
+9. Ordem denegada.
+Tese de julgamento:
+1. A prisão preventiva pode ser mantida quando presentes os requisitos dos arts. 312 e 313 do CPP, com fundamentação concreta baseada na gravidade em concreto do delito e na necessidade de garantir a ordem pública.
+2. A apreensão de variedade e quantidade expressiva de entorpecentes, somada à presença de apetrechos utilizados na atividade ilícita, configura situação suficiente a demonstrar periculum libertatis.
+3. Condições pessoais favoráveis do acusado não impedem a custódia cautelar quando esta estiver suficientemente justificada.
+Dispositivos relevantes citados: CPP, arts. 312, 313 e 319; Lei 11.343/2006, art. 33, caput.
+Jurisprudência relevante citada: STJ, AgRg-HC 898.138/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, DJE 29/11/2024; STJ, RHC nº 142.431/RS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 18.05.2021; TJCE, HC 0635174-13.2022.8.06.0000, Rel. Des. Francisco Jaime Medeiros Neto, j. 28/09/2022."
+Nas razões do presente recurso, sustenta que não estão presentes os requisitos estabelecidos no art. 312 do Código de Processo Penal - CPP para a imposição da prisão preventiva, decretada com fundamento unicamente na quantidade e variedade de drogas apreendidas (maconha, haxixe e ecstasy).
+Aduz circunstâncias pessoais do acusado que seriam favoráveis à substituição do seu encarceramento por medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+É o relatório.
+Decido.
+O recurso não deve ser conhecido.
+Isso porque no Habeas Corpus n. 1.024.443/ES, ainda em trâmite nesta Corte Superior, foi formulada idêntica pretensão em favor do ora recorrente, desafiando o mesmo acórdão proferido pelo TJES no HC n. 5006748-90.2025.8.08.0000.
+Mesmo considerado que o recurso ordinário constitucional seja a via adequada para apreciar o aventado constrangimento ilegal, uma vez constatada a reiteração de writ anterior, tendo em vista a identidade de partes, de pedido e de causa petendi, é o caso de se reconhecer a litispendência.
+Convém ainda ressaltar que não se admite, nesta Corte, o processamento de mais de um habeas corpus (ou de seu recurso) em desfavor do mesmo ato coator, sob pena de violação ao princípio da unirrecorribilidade.
+A propósito, os seguintes julgados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1. RECURSO NÃO CONHECIDO. MERA REITERAÇÃO DO HC 837.242/SP. PENDÊNCIA DE JULGAMENTO DO REGIMENTAL. IRRELEVÂNCIA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A pendência do julgamento do agravo regimental interposto contra a decisão proferida no Habeas Corpus n. 837.242/SP não tem o condão de descaracterizar a constatação de que o presente recurso se trata de mera reiteração. De fato, a reiteração se verifica pela repetição dos pedidos e a indicação do mesmo ato coator - Habeas Corpus nº 2061064-74-23.2022.8.26.0000. Dessa forma, não é possível conhecer do recurso em habeas corpus.
+- "O fato de a defesa haver buscado, por dois meios distintos - habeas corpus autônomo (já conhecido e denegado, repita-se) e posterior recurso especial - obter manifestação desta Corte Superior sobre a mesma tese, evidencia abuso do direito de litigar, o que acarreta um desnecessário gasto de recursos humanos e uma odiosa perda de tempo do órgão judicante, que já se vê sobrecarregado pela grande quantidade de feitos distribuídos e julgados diariamente." (AgRg no REsp n. 2.025.772/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/4/2023, DJe de 26/4/2023.).
+2. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 184.017/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. REQUISITOS DA PRISÃO PREVENTIVA. AUSÊNCIA DE CONTEMPORANEIDADE DA CUSTÓDIA CAUTELAR. PRISÃO DOMICILIAR. FILHA MENOR. EXTENSÃO DE BENEFÍCIOS CONCEDIDOS AOS CORRÉUS. REITERAÇÃO DE PEDIDOS. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. COMPLEXIDADE DO FEITO. ILEGALIDADE MANIFESTA. AUSÊNCIA. NEGATIVA DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. AGRAVO DESPROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+2. As questões relativas aos requisitos da prisão preventiva, ausência de contemporaneidade da prisão, prisão domiciliar e extensão de benefícios concedidos aos corréus já foram devidamente analisadas por esta Corte, nos autos do RHC n. 183.547/RS, interposto pelo ora recorrente, impugnando a mesma decisão de prisão preventiva, decretada nos autos da Ação Penal n. 5009110-02.2022.8.21.0132/RS, tendo o recurso sido desprovido por decisão prolatada em 22/8/2023, configurando, portanto, reiteração de pedido, sendo inviável o seu enfrentamento por mais uma vez, visto que se cuida de matéria julgada.
+3. A "aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (AgRg no AgRg no HC n. 818.875/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+4. No caso em exame, embora o agravante esteja preso cautelarmente desde 21/12/2022, as peculiaridades do caso demonstram a complexidade do processo, tendo em vista o vulto da organização criminosa investigada, a pluralidade de réus (mais de 40 investigados) com representantes distintos e a necessidade de realização de inúmeras diligências, bem como a apreciação de diversos pedidos formulados pelas defesas dos réus. Outrossim, a denúncia já foi oferecida e o feito está em fase de notificação dos réus para a apresentação de defesa.
+5. De outro lado, "em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva" (AgRg no HC n. 837.182/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 183.090/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do STJ, não conheço do rec urso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
