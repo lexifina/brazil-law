@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por KOHLER PRODUTOS PARA COZINHAS E BANHEIROS LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/05/2025.
+Concluso ao gabinete em: 07/08/2025.
+Ação: André Luis Galle Dal Prá propôs ação de indenização por dano material e moral contra Kohler Brasil, I-Sea Group e Zanata Comércio de Equipamentos e Serviços Náuticos Ltda, alegando que o gerador de sua embarcação, objeto de recall, não foi devolvido em pleno funcionamento, requerendo a condenação ao fornecimento de um novo gerador e indenização por danos morais.
+Sentença: julgou procedentes em parte os pedidos formulados por André Luis Galle Dal Prá, condenando as rés ao fornecimento de um novo gerador ao requerente, modelo 5EKD, e ao pagamento das custas processuais e honorários advocatícios, na proporção de 30% para o autor e 70% para as rés.
+Acórdão: do TJ/SC decidiu, por unanimidade, conhecer do recurso do autor e negar-lhe provimento; conhecer em parte do recurso da ré Glide e, nesta extensão, negar-lhe provimento; conhecer e negar provimento aos apelos das rés Kohler e Zanata, nos termos da seguinte ementa (e-STJ fl. 623):
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO - DANO MATERIAL E MORAL. VICIO OCULTO EM GERADOR DE EMBARCAÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DOS LITIGANTES. CONTRARRAZÕES. SUSCITADA A AUSÊNCIA DE DIALETICIDADE NO APELO DO AUTOR. INOCORRÊNCIA. RAZÕES RECURSAIS QUE COMBATEM A FUNDAMENTAÇÃO LANÇADA NA SENTENÇA. CONHECIMENTO DO RECURSO QUE SE IMPÕE. RECURSO DA RÉ GLIDE. PRELIMINAR DE ILEGITIMIDADE PASSIVA. QUESTÃO DEVIDAMENTE EXAMINADA E RECHAÇADA EM DECISÃO SANEADORA. PRONUNCIAMENTO JUDICIAL IMPUGNADO POR AGRAVO DE INSTRUMENTO JULGADO POR ESTA CORTE DE JUSTIÇA. COISA JULGADA. IMPOSSIBILIDADE DE REDISCUSSÃO. APELO NÃO CONHECIDO NO PONTO. APELOS DAS RÉS KOHLER E ZANATA. AVENTADA DECADÊNCIA DO DIREITO DO AUTOR. INSUBSISTÊNCIA. EQUIPAMENTO OBJETO DE RECALL QUE SEQUER APRESENTAVA DEFEITOS ANTES DO ENVIO À ASSISTÊNCIA TÉCNICA. PRAZO DE GARANTIA LEGAL JÁ ESCOADO. IRRELEVÂNCIA. VÍCIO OCULTO RECONHECIDO PELA PRÓPRIA FABRICANTE. TEORIA DA VIDA ÚTIL DO PRODUTO. MÉRITO. SUSTENTADA AUSÊNCIA DE NEXO DE CAUSALIDADE ENTRE OS DANOS APRESENTADOS NO GERADOR E O RECALL REALIZADO. INSUBSISTÊNCIA. PEÇA QUE FOI RECOLHIDA PARA REALIZAÇÃO DO RECALL E NÃO FOI RESTITUÍDA EM PLENO FUNCIONAMENTO. RESPONSABILIDADE DOS FORNECEDORES EM DEVOLVER O PRODUTO EM PERFEITAS CONDIÇÕES PARA USO OU ENTÃO, SUBSTITUÍ-LO POR UM DE IGUAL NATUREZA. PARTE RÉ QUE NÃO LOGROU ÊXITO EM DESCONSTITUIR OS FATOS NARRADOS A PEÇA PORTAL (ART. 373, II, DO CPC). SENTENÇA MANTIDA. APELO DO AUTOR. SUSCITADA A OCORRÊNCIA DE DANO MORAL PASSÍVEL DE SER INDENIZADO. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL CAPAZ DE ATINGIR DIREITO DA PERSONALIDADE E JUSTIFICAR A COMPENSAÇÃO PECUNIÁRIA VISADA. SENTENÇA MANTIDA. SUCUMBÊNCIA RECÍPROCA QUE É DEVIDA. ARBITRAMENTO DE HONORÁRIOS RECURSAIS. RECURSO DO AUTOR CONHECIDO E DESPROVIDO. APELO DA RÉ GLIDE CONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO. RECURSOS DAS RÉS KOHLER E ZANATA CONHECIDOS E DESPROVIDOS.
+Embargos de Declaração: opostos pelas rés foram rejeitados.
+Recurso especial: alega violação dos arts. 944 do CC e 18, parágrafo primeiro, inciso I, do CDC. Argumenta que a condenação na entrega de um gerador novo representa enriquecimento ilícito do apelado em detrimento das requeridas, pois a indenização deve ser medida pela extensão do dano.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à possibilidade de se determinar a entrega um novo gerador ao autor, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente (e-STJ fl. 622).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
