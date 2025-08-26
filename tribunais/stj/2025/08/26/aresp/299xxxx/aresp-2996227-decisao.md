@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por DIEGO DO NASCIMENTO SOUZA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0005455-92.2017.8.11.0025.
+No recurso especial, a defesa apontou como violados os arts. 563 do Código de Processo Penal e 157, caput, do Código Penal (fls. 296/305).
+Inadmitido o recurso na origem (fls. 314/315), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 318/322).
+O Ministério Público Federal emitiu parecer opinando pelo não provimento do agravo (fls. 347/354).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, observo que o reclamo não comporta conhecimento, visto que a pretensão defensiva, de fato, esbarra na Súmula 7/STJ.
+Logo de início, anoto que, ao alegar violação dos arts. 563 do CPP e 157, caput, do CP, busca a defesa, ao fim de tudo, alcançar a pretendida desclassificação da conduta para o delito de furto simples. Todavia, as instâncias ordinárias concluíram, a partir da moldura fática apurada nos autos, pela efetiva configuração do delito de tentativa de roubo qualificado pelo resultado lesão corporal grave. Eis os termos em que a questão fora enfrentada no acórdão recorrido (fls. 278/281 - grifo nosso):
+ ..
+Na espécie, muito embora o juízo singular não tenha feito menção expressa aos vídeos das câmeras de monitoramento, percebe-se que o magistrado apreciou a tese defensiva de desclassificação delitiva, fundamentando sua rejeição em outros elementos de prova constantes nos autos, em especial o depoimento judicial da vítima e as declarações extrajudiciais da testemunha Sidney Munhoz Sanches, as quais foram suficientes para formar seu convencimento da subsunção da conduta à figura prevista no art. 157, § 3º, do Código Penal.
+Ademais, a questão confunde-se com o mérito recursal, porquanto a preliminar apresentada tem por objetivo, em última análise, a reavaliação das provas para fins de desclassificação do delito, matéria que será devidamente enfrentada no pedido de desclassificação.
+Nesse contexto, não se verifica qualquer ilegalidade, sobretudo porque a sentença condenatória encontra-se devidamente motivada, com expressa análise da tese defensiva, ainda que com base em elementos probatórios diversos daquele indicado pela defesa.
+ ..
+No mérito, a defesa pleiteia a desclassificação do crime de roubo qualificado pelo resultado de lesão corporal grave para o delito de furto simples, na modalidade tentada, ao argumento de que a violência empregada pelo agente incidiu apenas sobre a coisa.
+O pleito é improcedente.
+ ..
+Na hipótese sub judice, o conjunto probatório demonstra, de forma inequívoca, que o apelante, ao tentar subtrair a bolsa da vítima, empregou violência física contra ela, caracterizando o crime de roubo.
+Ao ser inquirida em juízo, a vítima Ilma Alexandre da Silva relatou que estava pilotando sua motocicleta quando o apelante, em outra motocicleta, "pareou com a sua moto, enrolou a mão em sua bolsa e começou a puxá-la, até que se desequilibrou e perdeu o controle do veículo, vindo a colidir em um carro que estava parado na via". Declarou também que sua vida mudou significativamente após o ocorrido, passando a fazer uso contínuo de medicação para ansiedade, além de não conseguir realizar tarefas domésticas simples, como lavar louça ou limpar a casa, devido às lesões sofridas.
+A narrativa da vítima é corroborada pela declaração extrajudicial da testemunha Sidney Munhoz Sanches, que presenciou o fato e afirmou que o apelante "puxou a bolsa diversas vezes, até que ao puxar com mais força a vítima se desequilibrou e bateu no veículo estacionado" (sic, id. 205499193, p. 95).
+Em outras palavras, a prova revela que a vítima conduzia sua motocicleta em via pública, foi sorrateiramente abordada pelo apelante em outra moto, que passou a executar ato extremamente perigoso, puxando a bolsa pendurada nos ombros dela, por diversas vezes, escalando a força física empregada, chegando ao ponto de fazê-la perder o equilíbrio e controle da motocicleta.
+Interrogado em juízo, o apelante confessou a autoria delitiva, alegando que segurou na alça da bolsa enquanto a vítima pilotava a motocicleta, afirmando que sua intenção era apenas pegar o objeto, sem causar dano à integridade física dela. Relatou que, ao perceber que não conseguiu arrancar a bolsa, soltou-a imediatamente.
+Embora o apelante tenha colocado a mão sobre a bolsa da vítima, e não diretamente nela, a situação retratada nos autos está longe de mera violência contra o objeto, notadamente porque a força física empregada repercutiu sobre o corpo da vítima, causando o desequilíbrio da motocicleta e a colisão com outro veículo parado.
+Mesmo que o apelante alegue em seu interrogatório que "não tinha intenção de causar dano à integridade física da vítima" e que "soltou a bolsa imediatamente ao perceber que não conseguiria arrancá-la", não há dúvidas de que a violência empregada na ação causou lesões graves, o que caracteriza o crime de roubo, independentemente da intenção declarada pelo agente.
+O Laudo de Exame de Corpo de Delito atestou que Ilma Alexandre "foi submetida a cirurgia de urgência para o controle de hemorragia interna causada pela ruptura do baço, lesão que resultou perigo de vida", bem assim que a ação gerou longo processo de recuperação com afastamento das ocupações habituais por mais de 30 (trinta) dias (id. 205499193, p. 123), circunstância que ratifica a tipificação na figura prevista no art. 157, § 3º, inciso I, do Código Penal.
+Diante desse contexto, não há como se reconhecer, como quer fazer crer a defesa, que houve apenas violência contra a coisa. Ao revés, a conduta do apelante amolda-se perfeitamente ao tipo penal do roubo qualificado pelo resultado de lesão corporal grave.
+ ..
+Nesse contexto, infere-se que a Corte de origem, soberana na análise aprofundada das provas, apontou elementos idôneos e judicializados para demonstrar que a conduta do apelante amolda-se perfeitamente ao tipo penal do roubo qualificado pelo resultado de lesão corporal grave (fl. 281).
+Assim, para afastar a conclusão do acórdão recorrido e entender pela desclassificação da conduta para o crime de furto simples, como pretende a defesa, seria necessário o reexame do acervo fático-probatório dos autos, providência descabida em recurso especial, por força da Súmula 7/STJ. Nesse sentido: REsp n. 2.099.187/SP, de minha relatoria, Sexta Turma, DJEN de 26/6/2025; e AREsp n. 2.556.933/DF, Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025.
+Aliás, esta também é a opinião do parecerista (fl. 351 - grifo nosso):
+ ..
+Ora, se nas instâncias ordinárias comprovou-se, de forma inequívoca, que o agravante, ao tentar subtrair a bolsa da vítima, empregou violência física contra ela para a obtenção do bem, evidencia-se a configuração do crime de roubo, e não do delito de furto simples. De qualquer modo, inviável analisar as alegações defensivas sobre os fatos apurados sem, antes, revolver o conjunto fático-probatório, vedado em sede de recurso especial, a teor da Súmula 7/STJ.
+ ..
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE ROUBO QUALIFICADO PELO RESULTADO LESÃO CORPORAL GRAVE. PLEITO DE DESCLASSIFICAÇÃO PARA FURTO SIMPLES. INVIABILIDADE. PRETENSÃO QUE ESBARRA NA SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
