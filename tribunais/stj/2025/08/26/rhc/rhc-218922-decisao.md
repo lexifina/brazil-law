@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JOAO GABRIEL BRANDAO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDONIA no HC nº 0802847-79.2025.8.22.0000.
+Depreende-se dos autos que a parte recorrente teve a prisão preventiva decretada pela suposta prática dos crimes previstos nos arts. 4º, alínea "a", da Lei n. 1.521/51, art. 146, parágrafo 1º, do CP, art. 147, caput, do CP, art. 158, caput, c/c parágrafo 1º, do CP, por 50 vezes, art. 1º da Lei n. 9.613/98 e art. 2º, caput, §§2º e 3º, da Lei n. 12.850/13.
+Na hipótese, a defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar.
+Aduz que o juízo de primeiro grau não se desincumbiu do ônus de reavaliar a necessidade de manutenção da prisão preventiva, na forma do art. 316, parágrafo único do Código de Processo Penal.
+Defende, ainda, a ausência de fundamentação adequada para afastar adequadamente a adequação de imposição de medidas cautelares diversas da prisão, nos termos do art. 319 do CPP.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Acórdão denegatório da decisão da autoridade impetrada às fls. 219-239.
+Parecer do MPF às fls. 321-326, onde se manifesta pelo desprovimento do recurso.
+É o relatório. DECIDO.
+Inicialmente, no que diz respeito à alegação de violação ao art. 316, parágrafo único do CPP, observo que tal questão constitui tese que não foi enfrentada pela Corte de origem.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Nesse sentido:
+" ..  4. Eventual aplicação dos institutos de arrependimento posterior ou eficaz e desistência voluntária deve ser previamente examinada pelas instâncias originárias, sob pena de indevida supressão de instância.  .. " (AgRg no HC n. 755.804/TO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 15/12/2022).
+Assinalo que para se considerar o tema tratado pela instância ordinária é necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado.
+No mais, cinge-se a controvérsia à verificação da existência ou não das condições aptas a justificarem a manutenção da prisão preventiva.
+Do acórdão proferido pelo Tribunal impetrado que denegou a ordem é possível observar que apontou todos os elementos aptos a justificarem a manutenção da segregação cautelar, em especial a gravidade concreta do delito, eis que apurado durante as investigações que o paciente seria líder de organização criminosa que impunha violência como forma de garantir sucesso nas empreitadas ilegais, inclusive por meio de coação das vítimas e testemunhas, tudo a revelar a adequação e proporcionalidade da medida como forma de garantia da ordem pública e para a conveniência da instrução criminal, atendidos, ainda, os demais requisitos objetivos previstos nos artigos 312 e 313 do CPP.
+A decisão, devidamente fundamentada, portanto, deve ser mantida, eis que alinhada à jurisprudência deste Tribunal Superior. Veja-se:
+RECURSO EM HABEAS CORPUS. OPERAÇÃO HEXAGRAMA. POLICIAIS MILITARES E CIVIS. ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO PASSIVA. EXPLORAÇÃO ILEGAL DE JOGOS DE AZAR. MANUTENÇÃO DA PRISÃO PREVENTIVA. AUSÊNCIA DE CONTEMPORANEIDADE. DESPROPORCIONALIDADE DA MEDIDA. SUPRESSÃO DE INSTÂNCIA. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA.  ..  . INDEFERIMENTO DO PLEITO. ILEGALIDADE. NÃO CONFIGURAÇÃO. SUBSTITUIÇÃO POR MEDIDAS DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. As teses atinentes à ausência de contemporaneidade dos fatos que acarretaram a manutenção da cautela extrema e de desproporcionalidade da medida - tanto em razão da pandemia da Covid-19 quanto pelo regime inicial de cumprimento de pena a ser fixado em caso de eventual condenação - não foram analisadas no acórdão recorrido, circunstância que inviabiliza seu exame nesta oportunidade, por configurar supressão de instância.
+2. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 254, 255 e 256 do Código de Processo Penal Militar, c/c os arts. 315 e 282, I e II, do Código de Processo Penal, com as alterações dispostas pela Lei n. 13.964/2019.
+3. São idôneos os motivos exarados para a imposição da cautela extrema, pois evidenciam a gravidade concreta da conduta em tese perpetrada e o risco de reiteração delitiva, diante da noticiada existência deorganização criminosa bem estruturada, com a participação de policiais militares e civis, voltada à exploração de jogos de azar.
+ ..  14. Os elementos mencionados pelas instâncias ordinárias denotam o risco de reiteração delitiva e, por conseguinte, evidenciam a insuficiência e a inadequação da substituição da custódia provisória por cautelares diversas, porquanto tais medidas não se prestariam a evitar o cometimento de novas infrações penais (art. 282, I, do CPP).
+15. Recurso conhecido em parte e não provido.. (RHC 152086/MG, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/04/2022, DJE em 25/04/2022).
+Ressalte-se que não há que se falar em ausência de contemporaneidade, pois tal conceito não diz respeito ao decurso do prazo contado da decretação da medida, mas sim à manutenção dos motivos que a ensejaram. Neste sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. MANUTENÇÃO. RECURSO DESPROVIDO.
+I. Caso em exame
+(..) 7. A alegação de ausência de contemporaneidade não se sustenta, pois a contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva, não ao momento da prática criminosa.
+8. A substituição da prisão preventiva por prisão domiciliar depende da comprovação inequívoca de grave doença e impossibilidade de tratamento no sistema prisional, o que não foi demonstrado nos autos.
+IV. Dispositivo e tese
+9. Recurso desprovido. (AgRg no HC 970185/PR, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/03/2025)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
