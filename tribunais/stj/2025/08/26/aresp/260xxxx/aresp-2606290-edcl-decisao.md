@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS ALBERTO MARTINS (fls. 3.083/3.088) à decisão assim resumida (fl. 3.068):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. Agravo em recurso especial não conhecido.
+O embargante alega a ocorrência dos vícios previstos no art. 619 do Código de Processo Penal, pugnando pelo saneamento, inclusive com a atribuição de efeitos infringentes ao julgado.
+Diz que houve omissão do julgado quanto à: a) impugnação suficiente dos fundamentos da decisão que inadmitiu o recurso especial; b) aplicação do princípio da instrumentalidade das formas e da ampla defesa; c) análise da matéria infraconstitucional levantada; d) flexibilização da exigência de cotejo analítico em matéria penal; e e) ausência de fundamentação sobre o pedido de reconsideração e a existência de precedentes mais favoráveis.
+Alega a ocorrência dos vícios previstos no art. 619 do Código de Processo Penal, pugnando pelo saneamento, inclusive com a atribuição de efeitos infringentes ao julgado.
+Apresenta na Petição n. 667.963/2025 (fls. 3.096/3.099) novos embargos de declaração.
+É o relatório.
+De início, quanto aos embargos de declaração opostos em fls. 3.096/3.099, o recurso não pode ser conhecido.
+Inicialmente, não conheço dos embargos de declaração constante da Petição n. 667.963/2025 (fls. 3.096/3.099), em razão da preclusão consumativa que se operou com a interposição do primeiro recurso, constante da Petição n. 660.984/20025, ora em apreciação.
+Nos termos da jurisprudência desta Corte, na hipótese de interposição de dois recursos contra a mesma decisão e pela mesma parte, apenas o primeiro pode ser conhecido, tendo em vista a preclusão consumativa, o que veda a interposição simultânea de mais de um recurso (AgRg no HC n. 906.380/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/8/2024 - grifo nosso).
+Passo a análise dos primeiros embargos de declaração (fls. 3.083/3.088), cuja pretensão não merece ser acolhida.
+Por oportuno, trago à colação os seguintes excertos da decisão embargada (fls. 3.069/3.070 - grifo nosso):
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) ausência de cabimento para análise de alegação de contrariedade à Constituição Federal; b) Súmula 284/STF; c) Súmula 283/STF; d) ausência de cotejo analítico; e e) Súmula 7/STJ.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente aos seguintes óbices: a) ausência de cabimento para análise de alegação de contrariedade à Constituição Federal; b) Súmula 284/STF; e c) Súmula 283/STF.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Ademais, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Por último, não demonstrou, em suas razões recursais, que teria realizado no recurso especial o cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática entre os acórdãos confrontados e a aplicação divergente dos dispositivos indicados como violados.
+Ao que se observa, os presentes embargos de declaração buscam, na verdade, rediscutir com intuito infringente questões já decididas pela decisão recorrida, providência incompatível com a via eleita, inexistindo vício - ambiguidade, obscuridade, contradição ou mesmo omissão - sobre o qual se devesse pronunciar em sede de embargos declaratórios, não se podendo atribuir-lhe o defeito de omissa, ambígua, obscura ou a existência de erro, só porque dispôs contrariamente às pretensões do embargante.
+Ademais, cumpre ressaltar que o Magistrado não está obrigado a se pronunciar acerca de toda e qualquer alegação levantada pelas partes, mas apenas sobre aquela considerada suficiente para alterar a decisão, o que foi feito.
+Ante o exposto, rejeito os embargos de declaração. Julgo prejudicada a análise da Petição n. 667.963/2025 (fls. 3.096/3.099).
+Publique-se
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA.
+Embargos de declaração rejeitados. Prejudicada a análise da Petição n. 667.963/2025.
