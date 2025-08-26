@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEONARDO SANTOS DE SOUZA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado às penas de 52 anos e 10 meses de reclusão em regime fechado e de pagamento de 4.520 dias-multa, como incurso nas sanções dos arts. 33 e 35 da Lei n. 11.343/2006; 16 da Lei n. 10.826/2003; e 288 do Código Penal.
+A Corte estadual deu parcial provimento ao recurso de apelação do ora paciente para absolvê-lo da prática dos delitos previstos nos arts. 16 da Lei n. 10.826/2003 e 288 do Código Penal.
+O impetrante sustenta que o acórdão recorrido carece de fundamentação adequada na dosimetria da pena, especialmente ao fixar a pena-base no máximo legal e aplicar a fração máxima na causa de aumento, violando o princípio da individualização da pena.
+Alega que a decisão não considerou devidamente as circunstâncias judiciais, utilizando apenas a culpabilidade para justificar a pena elevada, sem abordar outros aspectos como conduta social, personalidade, motivos e consequências do crime.
+Afirma que a majoração da pena foi desproporcional, não havendo fundamentação concreta para justificar o aumento na primeira fase da dosimetria, o que contraria a jurisprudência do Superior Tribunal de Justiça.
+Defende que a fração de aumento de 2/3 aplicada na última etapa do cálculo das penas deve ser reduzida para 1/6, conforme precedentes do Superior Tribunal de Justiça, devido à falta de motivação específica para tal incremento.
+Aponta identidade fático-processual com corréus beneficiados por redimensionamento da pena nesta Corte Superior, pleiteando extensão dos benefícios deferidos nos autos do AREsp n. 1.879.508/RJ e HC n. 931.670/RJ, nos termos do art. 580 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a redução das penas-base ao mínimo legal e a aplicação da fração mínima de 1/6 para a causa de aumento de pena nos delitos de tráfico e associação para fins de tráfico.
+Indeferido o pedido de liminar, prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou, caso dele se conheça, pela denegação da ordem.
+É o relatório.
+Em consulta ao sistema processual do Superior Tribunal de Justiça, constata-se que se encontra em tramitação, nesta Corte Superior, o AREsp n. 1.883.170/RJ (2021/0138101-4).
+Contudo, a jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recurso e habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da singularidade ou unirrecorribilidade, não se podendo provocar a apreciação da mesma instância por diferentes meios de modo simultâneo.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. Hipótese em que houve a interposição de recurso especial na origem e, na sequência, do respectivo agravo, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.633/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024 - grifo próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MEDIDAS CAUTELARES. CONSTRANGIMENTO ILEGAL. SUPRESSÃO DE INSTÂNCIA. PEDIDO SUBSIDIÁRIO. INOVAÇÃO RECURSAL. INADMISISBILIDADE. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não bastasse o mencionado entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame constata-se que o presente habeas corpus tramita em paralelo ao recurso especial interposto em face do acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade.
+ ..
+5. Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no HC n. 880.190/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024 - grifo próprio.)
+Na mesma direção: AgRg no HC n. 887.255/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024; AgRg no HC n. 831.891/PB, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023; e AgRg no HC n. 848.280/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Por fim, registro que a eventual complementariedade entre as alegações formuladas no recurso especial e na impetração, ainda que o mérito daquele recurso não tenha sido apreciado, não modifica a conclusão exposta, sendo inviável a dupla impugnação de um mesmo acórdão em preservação dos limites de exercício da jurisdição.
+Ainda, anoto que inexiste prejuízo para a parte interessada, uma vez que, caso houvesse sido constada ilegalidade flagrante, a ordem teria sido concedida de ofício mesmo na hipótese de não se conhecer do recurso.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça , não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
