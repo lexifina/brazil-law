@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 532):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA - DECLARAÇÃO DE UTILIDADE PÚBLICA PARA INSTALAÇÃO DE REDE TRANSMISSÃO DE ENERGIA ELÉTRICA - SENTENÇA PROCEDENTE - FIXAÇÃO DE INDENIZAÇÃO - RECURSO - INSURGÊNCIA QUANTO AO TERMO INICIAL DOS JUROS MORATÓRIOS - PLEITO DE INCIDÊNCIA A PARTIR DO TRÂNSITO EM JULGADO - APLICAÇÃO DA SÚMULA Nº 70 DO STJ - SOCIEDADE DE ECONOMIA MISTA A QUAL NÃO SE APLICA A PARTE FINAL DO ARTIGO 15-B DO DEC.-LEI Nº 3.365/1941 - MODIFICAÇÃO - CORREÇÃO MONETÁRIA - MATÉRIA DE ORDEM PÚBLICA PASSÍVEL DE CONHECIMENTO DE OFÍCIO - MODIFICAÇÃO DO ÍNDICE PARA APLICAÇÃO DO IPCA-E - PRECEDENTES - PEDIDO PARA QUE O LEVANTAMENTO DOS VALORES SEJA CONDICIONADO AO CUMPRIMENTO DO DISPOSTO NO ARTIGO 34 DO DEC-LEI 3.365/1941 - INAPLICABILIDADE ÀS SERVIDÕES ADMINISTRATIVAS - PRECEDENTES - RECURSO PARCIALMENTE PROVIDO E, SENTENÇA MODIFICADA EM PARTE, DE OFÍCIO.
+Em suas razões de recurso especial, sustenta ofensa aos artigos 34 e 40 do Decreto-Lei nº 3.365/41 e dissídio jurisprudencial, sob os seguintes argumentos: (a) A negativa de vigência ao artigo 34 do Decreto-Lei nº 3.365/41, ao não condicionar o levantamento de valores à comprovação dos requisitos encartados no referido dispositivo legal, sob o fundamento de não haver transferência de propriedade e não se tratar de desapropriação, mas servidão; (b) A jurisprudência é firme ao exigir a comprovação também aos casos de servidão e não apenas para desapropriações.
+Por fim, pugna pelo arbitramento de honorários advocatícios sucumbenciais recursais (fls. 617-618).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 658-660.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A Corte de origem, ao resolver a controvérsia, assim consignou (fl. 540):
+Por fim, sobre condicionar o levantamento dos valores ao cumprimento do disposto no artigo 34 do Decreto-Lei nº 3.365/1941 , considerando que o caso se trata de servidão administrativa, esta Corte tem 3  entendido que, por não haver transferência da propriedade como na desapropriação, inexiste a necessidade do cumprimento de tal norma  ..
+Nos termos do artigo 40 do Decreto-lei 3.365/1941, o expropriante poderá constituir servidões, mediante indenização na forma desta lei.
+Dessa forma, no caso, verifico que o acórdão recorrido destoa da orientação desta Corte, segundo a qual são aplicáveis as exigências do art. 34 do Decreto-lei 3.365/1941 para as servidões.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE INSTITUIÇÃO DE SERVIDÃO DE PASSAGEM. ART. 34 DO DECRETO-LEI Nº 3.365/41. APLICABILIDADE.
+I - Considerando que na presente ação o direito à indenização não se figura como matéria controversa e sendo aquela baseada no referido Decreto-Lei, deve-se concluir pela aplicação também do art. 34 do mesmo diploma legal, no sentido de ser imprescindível para a liberação da indenização, a prova da propriedade e de quitação de dívidas fiscais que incidam sobre o bem, assim como a publicação de editais visando ao conhecimento por terceiros.
+II - Reconhecido o dever de indenizar, cabe ao particular a prova da propriedade, bem como da quitação das dívidas fiscais e publicação de editais, sem o que não poderá levantar o depósito indenizatório.
+III - Recurso especial provido. (REsp n. 693.643/SP, relator Ministro Francisco Falcão, Primeira Turma, julgado em 7/4/2005, DJ de 16/5/2005, p. 260.)
+PROCESSUAL CIVIL E ADMINISTRATIVO - AÇÃO DE INSTITUIÇÃO DE SERVIDÃO DE PASSAGEM - ART. 34 DO DECRETO-LEI N. 3365/41 APLICÁVEL, NA ESPÉCIE.
+Estando toda a ação de instituição de servidão de passagem arrimada no Decreto-lei n. 3365/41, inexistente outro concluir, senão aquele de que inevitável o aplicar, in casu, da regra contida no art. 34 do Decreto-lei expropriatório.
+Assim, imprescindível à liberação do quantum indenizatório, a prova da propriedade e de quitação de dívidas fiscais que recaiam sobre o bem, e ainda, a publicação de editais, para conhecimento de terceiros.
+Recurso especial conhecido e provido, para que sejam observadas, in totum, as regras impostas pelo art. 34 do Decreto-lei n. 3365/41, no que tange ao levantamento do depósito indenizatório, concernente à ação de instituição de servidão de passagem. (REsp n. 237.745/SP, relator Ministro Paulo Medina, Segunda Turma, julgado em 28/5/2002, DJ de 10/2/2003, p. 176.)
+Cita-se ainda a seguinte decisão monocrática: REsp n. 1.937.462, Ministra Regina Helena Costa, DJe de 02/08/2022.
+Por fim, não há se falar em arbitramento de honorários recursais, tendo em vista que "os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais", o que ocorreu na hipótese, tendo o acórdão proferido pela Corte de origem deixado de arbitrar honorários recursais em razão do parcial provimento do recurso de apelação (fl. 542).
+A propósito:
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO DE OPOSIÇÃO. HONORÁRIOS ADVOCATÍCIOS. HONORÁRIOS RECURSAIS. AUSÊNCIA DE AUTONOMIA OU INDEPENDÊNCIA. DESARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de oposição.
+2. Os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais. Precedentes.
+3. Recurso especial conhecido e provido, para afastar a condenação do recorrente ao pagamento de honorários sucumbenciais. (REsp n. 2.188.992/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/5/2025, DJEN de 23/5/2025.)
+Ante o exposto, dou parcial provimento ao recurso especial para reconhecer a aplicabilidade do art. 34 do Decreto-lei 3.365/1993 à hipótese.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INSTITUIÇÃO DE SERVIDÃO DE PASSAGEM. ART. 34 DO DECRETO-LEI Nº 3.365/41. APLICABILIDADE. HONORÁRIOS RECURSAIS. AUSÊNCIA DE FIXAÇÃO ANTERIOR. INCABÍVEIS. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
