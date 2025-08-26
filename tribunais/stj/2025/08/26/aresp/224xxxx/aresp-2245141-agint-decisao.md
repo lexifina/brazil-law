@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto por MINISTÉRIO PÚBLICO FEDERAL (MPF) contra decisão que não conheceu do AREsp por falta de impugnação específica à Súmula 7/STJ pela decisão que inadmitiu o recurso especial do MPF e quanto aos óbices aplicados para inadmitir o recurso especial do IBAMA.
+A parte agravante sustenta: (i) haver impugnado a Súmula 7/STJ, ao consignar que o recurso não visava ao reexame de matéria fática ou probatória, evidenciando "que ao Superior Tribunal de Justiça cabia apenas o reconhecimento da tese apresentada no sentido de que "a possibilidade de recomposição da área degradada in natura não exclui a obrigação de indenizar os danos ambientais intercorrentes/interinos/intermediários  ..  cabível quando o dano ultrapassa os limites do tolerável"" (fls. 2.212/2.213); e, como custos legis, de que (ii) o IBAMA afirmou a ausência de fundamentação e que "o recurso especial se fundamento em questionamentos de violações a preceitos legais e não tão somente a súmulas de tribunais  ..  afastando a incidência da Súmula 518 do STJ" (fl. 2.214), a natureza argumentação da alegação de violação do art. 225 da CFRB e nulidade do acórdão por omissões não sanadas.
+Sem impugnação.
+É o relatório. Decido.
+Tendo em vista que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Assinale-se que " o  princípio da unirrecorribilidade não veda a interposição de um único recurso para impugnar mais de uma decisão. E não há, na legislação processual, qualquer impedimento a essa prática, não obstante seja incomum" (REsp n. 1.628.773/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/5/2019, DJe de 24/5/2019).
+Após nova análise processual, diante da argumentação apresentada pela agravante, verifica-se a necessidade de reconsideração das decisões agravadas, a de fls. 2.141-2.143 e a de fls. 2.144-2.146, tornando-as sem efeitos.
+Ante o exposto, exerço o juízo de retratação, para reconsiderar as decisões de fls. 2.141-2.143 e 2.144-2.146, tornando-as sem efeitos (art. 259, § 6º, RISTJ c.c. art. 1.021, § 2º, do CPC/2015), julgando prejudicado o agravo interno.
+Publique-se. Intimem-se.
+EMENTA
