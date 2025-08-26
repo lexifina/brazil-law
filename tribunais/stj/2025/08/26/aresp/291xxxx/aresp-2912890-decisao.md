@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ZENILDA BEZERRA DA SILVA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/2/2025.
+Concluso ao gabinete em: 9/5/2025.
+Ação: compensatória pelos danos morais, ajuizada por ZENILDA BEZERRA DA SILVA, em face de BRASKEM S/A.
+Sentença: extinguiu o processo, com resolução de mérito, para julgar improcedente a pretensão da parte agravante, condenando-a ao pagamento das custas e dos honorários, estes fixados em 10% sobre o valor atualizado da causa, porém, por se encontrar a parte agravante amparada sob os benefícios da justiça gratuita, determinou que a obrigação decorrente do ônus de sucumbência fique suspensa, pelo prazo de 05 (cinco) anos, observando-se o disposto no artigo 98, § 3º, CPC. (e-STJ fls. 1138-1146)
+Acórdão: conheceu parcialmente da Apelação interposta pela parte agravante e, na parte conhecida, negou-lhe provimento, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PARTE AUTORA QUE ALEGA TER SIDO ATINGIDA DIRETAMENTE PELO DESASTRE SOCIOAMBIENTAL OCORRIDO NOS BAIRROS DO PINHEIRO, BEBEDOURO E MUTANGE. DEMANDANTE QUE POSSUÍA VÍNCULO EMPREGATÍCIO COM ESTABELECIMENTO LOCALIZADO NAS ÁREAS AFETADAS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA. PRELIMINAR CONTRARRECURSAL DE AUSÊNCIA DE DIALETICIDADE. NÃO ACOLHIDA. RECURSO QUE ATACA AS RAZÕES DE DECIDIR DO PRONUNCIAMENTO JURISDICIONAL. TESE DE NULIDADE DE SENTENÇA POR CERCEAMENTO DE DEFESA. REJEITADA. LIVRE CONVENCIMENTO DO JUIZ. POSSIBILIDADE DE JULGAMENTO ANTECIPADO DO MÉRITO. DESNECESSIDADE DE PRODUÇÃO DA PROVA ORAL REQUERIDA PELA PARTE AUTORA E DA INVERSÃO DO ÔNUS PROBATÓRIO. RESPONSABILIDADE POR DANO AMBIENTAL QUE É OBJETIVA E EMBASADA NA TEORIA DO RISCO INTEGRAL, MAS NÃO DISPENSA O NEXO CAUSAL. LIAME DE CAUSALIDADE ENTRE A ALTERAÇÃO DO LOCAL DE TRABALHO DA PARTE AUTORA E A ATIVIDADE DA EMPRESA MINERADORA NÃO CONFIGURADO. SUPOSTO DANO EXPERIMENTADO PELA PARTE AUTORA QUE SE CONFIGURA APENAS E TÃO SOMENTE COMO DESDOBRAMENTOS DE UMA CADEIA DE ACONTECIMENTOS, ESTANDO EM POSIÇÃO DISTANTE DAS CONDUTAS E DANOS DIRETOS E IMEDIATOS. AUSÊNCIA DE CAUSA NECESSÁRIA, DIRETA E IMEDIATA A CONFIGURAR O NEXO DA CAUSALIDADE PARA A RESPONSABILIDADE CIVIL. MANUTENÇÃO DA IMPROCEDÊNCIA DOS PEDIDOS FORMULADOS NA INICIAL. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NÃO PROVIDO. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS." (e-STJ fls. 1204-1205)
+Embargos de Declaração: opostos, pela parte agravante, foram rejeitados. (e-STJ fls. 1240-1259)
+Recurso especial: alega violação dos arts. 6º, 369, 373, § 1º, 1.022, I, II, CPC, 186, 927, CC, 14, § 1º, Lei 6.938/81, 6º, VIII, 17, Lei 8.078/90. Além de negativa de prestação jurisdicional, sustenta que: i) houve violação ao direito ao acesso à justiça, ao contraditório e ao devido processo legal, na medida em que a parte recorrente foi impedida da produção probatória; e, ii) caso fosse permitida a produção das provas regularmente, já teria sido possível comprovar o nexo de causalidade e os danos suportados pela parte recorrente; e, iii) a responsabilidade civil por dano ambiental independe de culpa e tem como pressuposto apenas o evento danoso e o nexo de causalidade, sendo irrelevante a atitude do causador, aplicando-se, ainda, a inversão do ônus da prova. (e-STJ fls. 1265-1275)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 6º, 369, 373, § 1º, CPC, 186, 927, CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 14, § 1º, Lei 6.938/81, 6º, VIII, 17, Lei 8.078/90, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "apesar da parte agravante ter requerido a oitiva do representante legal da parte agravada e de testemunhas, as quais sequer foram indicadas, inexiste a necessidade das referidas provas serem produzidas", assim também de que "não há o nexo de causalidade necessário à configuração da responsabilidade civil, mantendo-se a improcedência do pedido de compensação pelos danos morais", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor atualizado da causa (e-STJ fl. 1223) para 17%, observada a concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO COMPENSATÓRIA POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação compensatória por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial não conhecido.
