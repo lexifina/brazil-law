@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE ICATU à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. CARGO COMISSIONADO. FÉRIAS E DÉCIMO TERCEIRO SALÁRIO. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 373, II, do CPC, no que concerne à indevida inversão do ônus da prova determinada no aresto objurgado, porquanto cabia à parte adversa, e não ao ente estatal, a demonstração da falta de pagamento das verbas pleiteadas. Argumenta:
+O acórdão recorrido violou expressamente o artigo 373, II, do Código de Processo Civil, ao inverter indevidamente o ônus da prova em prejuízo do recorrente, exigindo que o Município de Icatu demonstrasse o pagamento das verbas pleiteadas pelo recorrido, quando, na realidade, o ônus da prova incumbia ao autor da ação.
+ ..
+O recorrido ajuizou ação de cobrança sem apresentar qualquer documento que comprovasse a inexistência do pagamento das verbas trabalhistas reclamadas. Não houve qualquer extrato bancário, contracheque ou qualquer outra prova documental que evidenciasse a suposta ausência de pagamento por parte do Município.
+Apesar disso, o Tribunal de origem atribuiu ao Município a obrigação de provar um fato negativo, ou seja, a inexistência de débito, o que contraria princípios processuais básicos e entendimento consolidado do Superior Tribunal de Justiça (fls. 120-121).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+A controvérsia da presente demanda cinge-se à análise do direito ou não do recorrido em receber o pagamento do 13º salário e as férias referente ao período em que exerceu o cargo em comissão no Município de Icatu/MA.
+ ..
+De mais a mais, verifica-se que o apelado comprovou, por meio das portarias de nomeação e extratos bancár ios (IDs 34607083, 34607084, 34607085, 34607086 e 34607087), que exerceu cargo em comissão, assim sendo, caberia ao apelante demonstrar a existência de fatos impeditivos, modificativos ou extintivos do direito do recorrido (art. 373, II, do CPC), ou seja, o efetivo pagamento das férias com o acréscimo de um terço e do 13º salário, ônus do qual não se desincumbiu.
+ ..
+Desse modo, não deve ser alterada a sentença de procedência dos pedidos contidos na peça inicial (fls. 81-84, grifos meus).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que: "A tese recursal está fundada em premissa fática totalmente dissociada daquela estabelecida no aresto impugnado, o que atrai a aplicação do óbice da súmula 284/STF" (AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022).
+Confiram-se ainda os seguintes julgados: REsp n. 1.690.156/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10.2017; AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/4/2021; AgInt no AREsp n. 1.815.228/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 17/8/2021; AgInt no AREsp n. 931.169/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/4/2017; AgRg no REsp n. 1.015.938/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/9/2014.
+Ademais, considerando os supracitados trechos do aresto objurgado, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise sobre a verificação da distribuição do ônus probatório das partes pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ" (AgInt no AREsp n. 2.490.617/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13/6/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 22/11/2024; REsp n. 2.164.369/CE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/11/2024; AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no REsp n. 2.019.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/8/2024; EDcl no AgInt no AREsp n. 1.993.580/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 2/5/2024; AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
