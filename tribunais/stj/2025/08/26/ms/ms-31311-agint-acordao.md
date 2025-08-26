@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 20/08/2025 a 26/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. TRANCAMENTO DE AÇÃO PENAL. CRIME AMBIENTAL. RECEBIMENTO DA DENÚNCIA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE ILEGALIDADE MANIFESTA OU TERATOLOGIA. REITERAÇÃO INDEVIDA DE DISCUSSÃO ENCERRADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Mercúrio Alimentos S.A. contra a decisão monocrática que indeferiu liminarmente a petição inicial de mandado de segurança por ausência de direito líquido e certo e inadequação da via eleita.
+2. A empresa sustenta a existência de constrangimento ilegal em razão do recebimento de denúncia pelo Juízo da Vara Única de Santa Maria do Pará (PA) na Ação Penal n. 0800261-22.2022.8.14.0057, na qual lhe é imputada a prática do crime previsto no art. 54 da Lei n. 9.605/1998. Alega que a imputação penal estaria fundada exclusivamente no acionamento da luz indicadora de mau funcionamento (LIM) do sistema veicular, sem prova técnica da emissão efetiva de poluentes acima dos limites legais. Também aponta contradição na decisão agravada quanto à aplicação simultânea das Súmulas n. 267 e 268 do STF.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) definir se há ilegalidade manifesta ou ausência de justa causa para o trancamento da ação penal pela via excepcional do mandado de segurança; (ii) verificar se há erro material ou contradição na fundamentação da decisão agravada quanto à aplicação das Súmulas n. 267 e 268 do STF.
+III. RAZÕES DE DECIDIR
+4. O trancamento da ação penal por meio de mandado de segurança somente é admitido em caráter excepcional, quando demonstradas, de forma inequívoca, a atipicidade da conduta, a ausência de justa causa ou a presença de causa extintiva da punibilidade, o que não se verifica no caso concreto.
+5. A denúncia descreve, ainda que de forma sintética, conduta que, em tese, amolda-se ao tipo penal do art. 54 da Lei de Crimes Ambientais, havendo elementos mínimos de autoria e indícios de materialidade, o que afasta a possibilidade de trancamento prematuro da persecução penal.
+6. A análise da suficiência probatória ou do acerto do juízo de admissibilidade da acusação exige reexame de fatos e provas, providência incompatível com a cognição sumária do mandado de segurança.
+7. Não há contradição na aplicação conjunta das Súmulas n. 267 e 268 do STF, uma vez que a menção à Súmula n. 268 foi feita por analogia, com o intuito de evidenciar o exaurimento das vias recursais no rito do mandado de segurança originário.
+8. A jurisprudência consolidada do STJ veda o uso do mandado de segurança como sucedâneo recursal e rejeita a reiteração de impetrações com o mesmo objeto já definitivamente apreciado, ainda que sem trânsito em julgado formal.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. O mandado de segurança somente é cabível para trancar ação penal quando demonstradas, de forma inequívoca, a atipicidade da conduta, a ausência de justa causa ou a existência de causa extintiva da punibilidade. 2. O recebimento da denúncia com descrição mínima dos fatos e indícios de autoria e materialidade afasta, por si só, a possibilidade de trancamento da ação penal por via mandamental. 3. A aplicação por analogia da Súmula n. 268 do STF é legítima para evidenciar o exaurimento das vias recursais em mandado de segurança, sem configurar contradição com a Súmula n. 267 do STF. 4. O uso sucessivo de mandado de segurança para rediscutir matéria já apreciada é incabível, ainda que não haja trânsito em julgado material da decisão anterior".
+Dispositivos relevantes citados: CF/1988, art. 5º, LXIX; CPC, art. 300; Lei n. 12.016/2009, arts. 1º e 10; Lei n. 9.605/1998, art. 54.
+Jurisprudência relevante citada: STF, Súmulas n. 267 e 268; STJ, AgInt no MS n. 22.882/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 6/9/2017; STJ, MS n. 27.348/DF, relator Ministro Og Fernandes, relator para o acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 17/5/2023; STJ, AgInt nos EDcl no MS n. 30.496/DF, relator Ministro João Otávio de Noronha, julgado em 29/5/2025.
+RELATÓRIO
+Trata-se de agravo interno interposto por MERCÚRIO ALIMENTOS S.A. contra a decisão monocrática que indeferiu liminarmente a inicial do mandado de segurança sob o fundamento de ausência de direito líquido e certo, bem como de inadequação da via eleita para o controle jurisdicional pretendido.
+A agravante reitera a tese de que estaria sofrendo constrangimento ilegal decorrente do recebimento da denúncia na Ação Penal n. 0800261-22.2022.8.14.0057, instaurada pelo Juízo da Vara Única de Santa Maria do Pará (PA), na qual lhe é imputada a prática do crime previsto no art. 54 da Lei n. 9.605/1998 (Lei de Crimes Ambientais), por suposta emissão de poluentes atmosféricos.
+Alega, em suma, que o prosseguimento da persecução penal configuraria violação de direito líquido e certo, uma vez que a denúncia teria sido recebida com base exclusivamente no acionamento da luz indicadora de mau funcionamento (LIM) do sistema veicular de controle de emissões, sem que houvesse prova técnica da efetiva emissão de poluentes acima dos limites legais.
+Sustenta ainda a existência de contradição na decisão agravada quanto à aplicação simultânea das Súmulas n. 267 e 268 do STF, afirmando que tais hipóteses seriam excludentes entre si.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, reiterando o entendimento de que não há demonstração de flagrante ilegalidade, abuso de poder ou teratologia a justificar o manejo da ação mandamental (fls. 249-252).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. TRANCAMENTO DE AÇÃO PENAL. CRIME AMBIENTAL. RECEBIMENTO DA DENÚNCIA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE ILEGALIDADE MANIFESTA OU TERATOLOGIA. REITERAÇÃO INDEVIDA DE DISCUSSÃO ENCERRADA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto por Mercúrio Alimentos S.A. contra a decisão monocrática que indeferiu liminarmente a petição inicial de mandado de segurança por ausência de direito líquido e certo e inadequação da via eleita.
+2. A empresa sustenta a existência de constrangimento ilegal em razão do recebimento de denúncia pelo Juízo da Vara Única de Santa Maria do Pará (PA) na Ação Penal n. 0800261-22.2022.8.14.0057, na qual lhe é imputada a prática do crime previsto no art. 54 da Lei n. 9.605/1998. Alega que a imputação penal estaria fundada exclusivamente no acionamento da luz indicadora de mau funcionamento (LIM) do sistema veicular, sem prova técnica da emissão efetiva de poluentes acima dos limites legais. Também aponta contradição na decisão agravada quanto à aplicação simultânea das Súmulas n. 267 e 268 do STF.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) definir se há ilegalidade manifesta ou ausência de justa causa para o trancamento da ação penal pela via excepcional do mandado de segurança; (ii) verificar se há erro material ou contradição na fundamentação da decisão agravada quanto à aplicação das Súmulas n. 267 e 268 do STF.
+III. RAZÕES DE DECIDIR
+4. O trancamento da ação penal por meio de mandado de segurança somente é admitido em caráter excepcional, quando demonstradas, de forma inequívoca, a atipicidade da conduta, a ausência de justa causa ou a presença de causa extintiva da punibilidade, o que não se verifica no caso concreto.
+5. A denúncia descreve, ainda que de forma sintética, conduta que, em tese, amolda-se ao tipo penal do art. 54 da Lei de Crimes Ambientais, havendo elementos mínimos de autoria e indícios de materialidade, o que afasta a possibilidade de trancamento prematuro da persecução penal.
+6. A análise da suficiência probatória ou do acerto do juízo de admissibilidade da acusação exige reexame de fatos e provas, providência incompatível com a cognição sumária do mandado de segurança.
+7. Não há contradição na aplicação conjunta das Súmulas n. 267 e 268 do STF, uma vez que a menção à Súmula n. 268 foi feita por analogia, com o intuito de evidenciar o exaurimento das vias recursais no rito do mandado de segurança originário.
+8. A jurisprudência consolidada do STJ veda o uso do mandado de segurança como sucedâneo recursal e rejeita a reiteração de impetrações com o mesmo objeto já definitivamente apreciado, ainda que sem trânsito em julgado formal.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. O mandado de segurança somente é cabível para trancar ação penal quando demonstradas, de forma inequívoca, a atipicidade da conduta, a ausência de justa causa ou a existência de causa extintiva da punibilidade. 2. O recebimento da denúncia com descrição mínima dos fatos e indícios de autoria e materialidade afasta, por si só, a possibilidade de trancamento da ação penal por via mandamental. 3. A aplicação por analogia da Súmula n. 268 do STF é legítima para evidenciar o exaurimento das vias recursais em mandado de segurança, sem configurar contradição com a Súmula n. 267 do STF. 4. O uso sucessivo de mandado de segurança para rediscutir matéria já apreciada é incabível, ainda que não haja trânsito em julgado material da decisão anterior".
+Dispositivos relevantes citados: CF/1988, art. 5º, LXIX; CPC, art. 300; Lei n. 12.016/2009, arts. 1º e 10; Lei n. 9.605/1998, art. 54.
+Jurisprudência relevante citada: STF, Súmulas n. 267 e 268; STJ, AgInt no MS n. 22.882/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 6/9/2017; STJ, MS n. 27.348/DF, relator Ministro Og Fernandes, relator para o acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 17/5/2023; STJ, AgInt nos EDcl no MS n. 30.496/DF, relator Ministro João Otávio de Noronha, julgado em 29/5/2025.
+VOTO
+A controvérsia consiste em verificar se há ilegalidade manifesta ou ausência de justa causa para o trancamento da ação penal por meio da via excepcional do mandado de segurança, bem como se haveria erro material ou contradição na fundamentação da decisão agravada quanto ao cabimento do remédio constitucional.
+A tese recursal, embora exposta de forma técnica, não infirma os fundamentos da decisão agravada.
+Com efeito, a jurisprudência deste Tribunal é pacífica no sentido de que o trancamento da ação penal por meio de mandado de segurança somente é admissível quando demonstrada, de forma inequívoca:
+a) a atipicidade da conduta;
+b) a ausência de justa causa; ou
+c) a presença de causa extintiva da punibilidade.
+Fora dessas hipóteses, a análise sobre a suficiência probatória ou a validade do juízo de admissibilidade da acusação deve ocorrer no curso regular da ação penal, com observância plena ao contraditório e à ampla defesa.
+No caso concreto, a denúncia apresentada descreve, ainda que sinteticamente, conduta que, em tese, amolda-se ao tipo penal do art. 54 da Lei n. 9.605/1998, havendo, portanto, elementos mínimos de autoria e indícios de materialidade. Essa circunstância, por si só, afasta a possibilidade de trancamento antecipado da persecução penal.
+Ademais, a pretensão deduzida exige reexame de fatos e provas, providência incompatível com a cognição sumária e documental do mandado de segurança.
+No tocante à alegada contradição quanto à aplicação simultânea das Súmulas n. 267 e 268 do STF, não se constata a mácula apontada. A referência à Súmula n. 268  que dispõe que "não cabe mandado de segurança contra decisão judicial com trânsito em julgado"  foi feita por analogia, com o exclusivo propósito de evidenciar que todas as vias recursais cabíveis no rito próprio do mandado de segurança originário foram exauridas.
+A decisão agravada, nesse sentido, consignou o que se segue (fls. 201-202):
+Ainda que não se trate formalmente de decisão com trânsito em julgado material, a da Súmula n. 268 do STF  que consagra o entendimento de que "não cabe mandado de segurança contra decisão judicial com trânsito em julgado"  aplica-se, por analogia, às hipóteses em que se exaurem todas as vias recursais cabíveis no rito próprio do mandado de segurança originário.
+Na mesma linha, nos termos da Súmula n. 267 do STF e da jurisprudência pacífica do STJ, o mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido seu manejo contra ato judicial passível de recurso.
+Tal compreensão encontra amparo em precedentes do STJ e do STF, que entendem que é incabível o uso do mandado de segurança como sucedâneo recursal quando esgotadas as instâncias ordinárias, circunstância que, mutatis mutandis, também se verifica no caso em exame.
+Não se trata, pois, de afirmação de coisa julgada em sentido estrito, mas da constatação de que a controvérsia jurídica deduzida na nova impetração já foi definitivamente apreciada por esta Corte, não se admitindo sua reiteração pela via mandamental.
+Essa compreensão é compatível com a jurisprudência do STJ, que repudia o uso sucessivo de mandados de segurança para reabrir discussão já encerrada, ainda que sem trânsito em julgado formal.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. TERCEIRO PREJUDICADO. CIÊNCIA DA DECISÃO JUDICIAL. OCORRÊNCIA. SÚMULA 202/STJ. INAPLICABILIDADE. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. SÚMULA 267/STF. CASO CONCRETO EM QUE NÃO RESTAM EVIDENCIADAS MANIFESTA ILEGALIDADE OU TERATOLOGIA NO ACÓRDÃO RECORRIDO. DESCABIMENTO DO MANDAMUS.
+1. O enunciado da Súmula 202 do STJ socorre apenas o terceiro que não teve condições de tomar ciência da decisão que lhe prejudicou, com a consequente impossibilidade de utilizar-se do recurso no prazo legal, situação que não ocorre na hipótese dos autos.
+2. Nos termos da Súmula 267/STF e da jurisprudência pacífica do STJ, o mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido o seu manejo contra ato judicial passível de recurso.
+3. Apenas excepcionalmente esta Corte admite o uso do mandamus, quando o ato judicial é eivado de ilegalidade, teratologia ou abuso de poder, o que não se verifica na espécie. 4.Agravo interno não provido. (AgInt no MS n. 22.882/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 6/9/2017, DJe de 14/9/2017.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. TERCEIRO PREJUDICADO. CIÊNCIA DA DECISÃO JUDICIAL. OCORRÊNCIA. SÚMULA 202/STJ. INAPLICABILIDADE. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. SÚMULA 267/STF. CASO CONCRETO EM QUE NÃO RESTAM EVIDENCIADAS MANIFESTA ILEGALIDADE OU TERATOLOGIA NO ACÓRDÃO RECORRIDO. DESCABIMENTO DO MANDAMUS. 1. "O enunciado da Súmula 202 do STJ socorre apenas o terceiro que não teve condições de tomar ciência da decisão que lhe prejudicou, com a consequente impossibilidade de utilizar-se do recurso no prazo legal, situação que não ocorre na hipótese dos autos" (AgInt no MS 22.882/DF, Rel. Ministro Og Fernandes, Corte Especial, DJe 14/09/2017).
+2. Nos termos da Súmula 267/STF e da jurisprudência pacífica do STJ, o mandado de segurança não pode ser utilizado como sucedâneo recursal, sendo descabido o seu manejo contra ato judicial passível de recurso.
+3. Apenas excepcionalmente esta Corte admite o uso do mandamus, quando o ato judicial é eivado de ilegalidade, teratologia ou abuso de poder, o que não se verifica na espécie.
+4. Agravo interno não provido. (AgInt no RMS n. 63.165/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023, destaquei.)
+Assim, consoante sedimentada jurisprudência do Superior Tribunal de Justiça, o cabimento de mandado de segurança contra ato judicial exige a demonstração clara de sua flagrante ilegalidade ou teratologia.
+A propósito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. CABIMENTO DE RECURSO. SÚMULA N. 267 DO STF. INCIDÊNCIA.
+1. "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (Súmula n. 267 do STF).
+2. O mandado de segurança não é sucedâneo de recurso, sendo imprópria sua impetração contra decisão judicial passível de impugnação prevista em lei, consoante o disposto na Súmula n. 267 do STF.
+3. Não é cabível mandado de segurança contra ato jurisdicional dos órgãos fracionários ou de relator do STJ, salvo se evidenciada flagrante ilegalidade ou teratologia.
+4. Quando a decisão impugnada não revela teratologia, mas demonstra a perfeita consonância com a jurisprudência do STJ de que o mandado de segurança não é meio adequado para reformar decisão judicial de natureza definitiva, como a proferida em agravo regimental, não podendo ser usado como sucedâneo recursal, sob pena de se desnaturar sua finalidade, ensejando a denegação da segurança.
+5. Mandado de segurança denegado. (MS n. 27.348/DF, relator Ministro Og Fernandes, relator para o acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 17/5/2023, DJe de 9/6/2023.)
+Direito processual civil. Agravo interno. Mandado de segurança contra ato judicial. Inexistência de ilegalidade ou teratologia. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que indeferiu liminarmente a inicial do mandado de segurança, sob alegação de inexistência de ilegalidade ou teratologia no ato judicial impugnado.
+2. O impetrante alegou que o processo deveria ser suspenso ou extinto sem exame de mérito, em razão da retirada do autor da demanda mediante cassação da procuração outorgada a seu patrono, e que a autoridade estaria forçando a tramitação do processo.
+3. O ato apontado como coator indeferiu pedido de tutela de urgência por ausência de probabilidade do direito, conforme art. 300 do Código de Processo Civil.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o mandado de segurança é cabível contra ato judicial que indeferiu pedido de tutela de urgência, na ausência de flagrante ilegalidade ou teratologia.
+III. Razões de decidir
+5. O cabimento de mandado de segurança contra ato judicial exige demonstração clara de flagrante ilegalidade ou teratologia, o que não se verifica no caso em questão.
+6. O agravo interno não prospera, pois a decisão agravada fundamentou adequadamente o indeferimento liminar do mandado de segurança.
+IV. Dispositivo e tese
+8. Agravo interno desprovido. Tese de julgamento: "1. O mandado de segurança não é cabível contra ato judicial, salvo em casos de flagrante ilegalidade ou teratologia. 2. A decisão que indefere a tutela de urgência por ausência dos requisitos previstos no art. 300 do CPC não apresenta ilegalidade ou teratologia".
+Dispositivos relevantes citados: CF/1988, art. 5º, LIV; CPC, arts. 76, 300, 485, VI; Lei n. 12.016/2009, art. 10.
+Jurisprudência relevante citada: STF, Súmula n. 267; STJ, MS n. 27.348/DF, relator Ministro Og Fernandes, relator para o acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 17/5/2023; STJ, AgRg no MS n. 18.496/MS, relator Ministro Felix Fischer, Corte Especial, julgado em 28/ 6/2012. (AgInt nos EDcl no MS n. 30.496/DF, relator Ministro João Otavio de Noronha, julgado em em 29/5/2025, DJEN de 3/6/2025.)
+Na linha dos precedentes citados, verifica-se que o ato apontado como coator não se reveste de nenhuma ilegalidade ou teratologia, tendo sido devidamente fundamentado e está em perfeita sintonia com os precedentes desta Corte.
+Assim, o agravo interno não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
