@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HERCULES JOSE DA SILVA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o recurso especial.
+O Agravante foi condenado à pena de 07 (sete) anos, 01 (um) mês e 06 (seis) dias de reclusão, além do pagamento de 18 (dezoito) dias-multa, em regime semiaberto, por crimes previstos no art. 337-A, inciso I, do CP e art. 1º, inciso I, da Lei 8.137/90.
+A Corte Regional inadmitiu o recurso especial, com fundamento na Súmula 7/STJ, por considerar que o pleito absolutório demandaria o revolvimento de fatos e provas.
+No presente agravo em recurso especial, o agravante alega que não há necessidade de reexame de provas, mas apenas de correta aplicação da lei ao caso, especialmente quanto ao reconhecimento do concurso formal e à redução da pena-base. Sustenta que todos os requisitos de admissibilidade foram cumpridos, que houve pré-questionamento e que a negativa de seguimento configurou cerceamento do direito de acesso ao STJ, pleiteando a admissão e processamento do recurso de agravo, para reforma da decisão agravada e apreciação do mérito do recurso especial pela Corte Superior (fls. 2886/2913).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 2938/2941).
+É o relatório. DECIDO.
+O presente agravo não merece conhecimento, porquanto o agravante não logrou atacar especificamente todos os fundamentos da decisão de inadmissibilidade proferida pela Corte Regional.
+Com efeito, a análise das razões recursais evidencia que o agravante limitou-se a impugnar genericamente o óbice da Súmula 7/STJ, sem apresentar argumentação específica que demonstrasse a desnecessidade de revolvimento fático-probatório para o deslinde da controvérsia.
+Esta técnica recursal deficiente impede o conhecimento do agravo, nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+O princípio da dialeticidade recursal exige que o recorrente enfrente, de modo específico e fundamentado, todos os argumentos deduzidos na decisão impugnada, demonstrando concretamente os equívocos apontados.
+Paralelamente, constato grave vício na fundamentação do recurso especial originário, na medida em que o ora agravante não indicou precisamente qual dispositivo de lei federal teria sido violado para justificar seu pleito de redução de pena.
+A petição recursal limitou-se a formular pedido genérico de redução da sanção penal, sem apontar os fundamentos jurídicos específicos que embasariam tal pretensão, configurando manifesta deficiência na fundamentação.
+Tal omissão atrai a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", aplicável, por analogia, ao recurso especial.
+Conforme jurisprudência pacífica do Superior Tribunal de Justiça, a ausência de indicação expressa e específica do dispositivo de lei federal tido como violado, configura deficiência de fundamentação que atrai a incidência da Súmula n. 284/STF, e obsta o conhecimento do recurso especial.
+No mesmo sentido: AgRgno AREsp n. 2.128.153/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior; AgRg no AREsp n. 2.124.569/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT); AgRg no AREsp n.1.977.864/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca).
+Ademais, ainda que fossem superados os óbices anteriores, o pleito de redução de pena formulado pelo agravante demandaria necessariamente o reexame das circunstâncias fáticas e probatórias dos autos, especialmente no que se refere à análise das circunstâncias judiciais do art. 59 do Código Penal e eventual aplicação de atenuantes, o que encontraria óbice na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+No mais, a dosimetria da pena constitui atividade eminentemente fática, que demanda a valoração das provas coligidas aos autos e das circunstâncias específicas do caso concreto. Esta Corte Superior, de função nomofilácica, não se presta ao reexame de questões dessa natureza, salvo quando configurada manifesta ilegalidade.
+No caso dos autos, não vislumbro erro grosseiro ou manifesta ilegalidade na aplicação da pena pelo Tribunal de origem que justificasse a intervenção desta Corte Superior.
+Ante o exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo ú nico, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+ EMENTA
