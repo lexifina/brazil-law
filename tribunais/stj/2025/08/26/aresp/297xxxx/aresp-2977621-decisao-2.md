@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por STEFANI VALQUIRIA PEREIRA SANTOS contra decisão de fls. 611-613 do Tribunal de origem.
+Consta dos autos que a recorrente foi condenada pelo crime previsto no artigo 171, caput, e §4º, do Código Penal, às penas de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e 22 (vinte e dois) dias-multa (fls. 392-405).
+O Tribunal de origem manteve a condenação (fls. 516-525).
+A defesa apresentou recurso especial, alegando violação ao artigo 226 do Código de Processo Penal. Afirma que o reconhecimento pessoal é nulo, por não observar os requisitos legais (fls. 533-539).
+O recurso não foi admitido, com fundamento na Súmula n. 7/STJ (fls. 611-613).
+Em agravo em recurso especial, a defesa sustentou que não se aplica o entendimen to sumular ao caso em questão (fls. 620-625).
+Parecer do Ministério Público Federal, no sentido de não conhecimento dos agravos em recurso especial (fls. 678-692):
+PENAL. PROCESSUAL PENAL. AGRAVOS EM RECURSOS ESPECIAIS. ESTELIONATO. GOLPE DO BILHETE PREMIADO. AGRAVOS EM RESP"S QUE NÃO IMPUGNAM TODAS AS BARREIRAS DE ADMISSIBILIDADE RECURSAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182/STJ. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. RECONHECIMENTO PESSOAL. ART. 226 DO CPP OBSERVADO. AUSÊNCIA DE ILEGALIDADE. CONDENAÇÕES TAMBÉM BASEADAS NOUTRAS PROVAS. PRISÃO DOMICILIAR. AUSÊNCIA DE DEMONSTRAÇÃO DA IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS. REGIME INICIAL MAIS GRAVOSO. MAUS ANTECEDENTES. LEGALIDADE. PARECER PELO NÃO CONHECIMENTO DO ARESP, PARA SE MANTER INADMITIDO O RESP. ALTERNATIVAMENTE, PELO NÃO PROVIMENTO DO RESP.
+É o relatório.
+Na decisão de inadmissibilidade, o Tribunal local aplicou o art. 1.029 do Código de Processo Civil e a Súmula n. 7/STJ, nesses termos (fls. 612-613):
+ ..  Com efeito, o recurso especial foi interposto sem a fundamentação necessária, consoante determina o artigo 1.029 do Código de Processo Civil, o que afasta a possibilidade da sua admissão.
+ ..  Ademais, incide ao caso a Súmula nº 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre as questões de direito federal sem antes apurar os elementos de fato.
+A agravante, por sua vez, referoi-se à decisão de inadmissibilidade com as seguintes alegações (fl. 624):
+ ..  Observe-se que a decisão agravada deixou de admitir o recurso especial interposto nos autos, em virtude da suposta incidência do impeditivo recursal, o que não ocorre no caso em apreço.
+ ..  No entanto, o presente apelo extremo leva à cognição desta Corte Superior deslizes judiciais de cunho estritamente jurídico, os quais, através do simples cotejo entre o acórdão objurgado e as razões recursais, são imediatamente percebidos pelo julgador. Veja que, no fundamento do REsp por nós interposto, constou-se, contextualmente, o panorama fático obtemperado nos autos - sem, de longe, esbarrar na Súmula 7 deste STJ -, com o rigor da aplicação do direito - negativa de vigência aos comandos legais: artigo 68 do Código Penal. Com isso, não há plena identidade entre os julgados indicados pela Presidência da Seção de Direito Criminal do TJSP e o caso em tela, motivo pelo qual o Recurso Especial deve ser conhecido.
+Verifica-se, portanto, que não houve impugnação específica à incidência da Súmula n. 7/STJ ao caso. A recorrente se limitou a afirmar de forma genérica que bastaria o exame entre o acórdão e as razões recursais para viabilizar o conhecimento e provimento do recurso. Dessa forma, permanece a inadmissibilidade do recurso especial.
+Mais especificamente, pontue-se que no acórdão de fls. 516-525, a prova produzida, inclusive no tocante ao reconhecimento do artigo 226 do Código de Processo Penal, foi validada pela Corte local. Apesar desse cenário, a recorrente não apontou especificamente como os fundamentos utilizados pelo Tribunal a quo violaram a lei federal.
+Ainda, a agravante não demonstrou, de forma objetiva e específica, como seria possível desconstituir as conclusões do Tribunal local sem o reexame de provas, haja vista que a condenação também foi embasada em outras provas, além do reconhecimento.
+Desse modo, como o agravo não superou os entraves pontuados pelo juízo a quo , incide ao caso em comento a Súmula n. 182/STJ:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL NÃO PROVIDO.  ..  É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ. (AgRg no AREsp n. 2.176.543/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/03/2023, DJe de 29/03/2023.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do egrégio Superior Tribunal de Justiça , não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
