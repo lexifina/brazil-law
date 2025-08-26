@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. A concessão da ordem foi fundamentada, de modo suficiente, na nulidade da prova obtida por violação do domicílio.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, ainda que para prequestionamento, conforme precedentes.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão assim ementado (fl. 135):
+HABEAS CORPUS.  TRÁFICO  DE  DROGAS.  ILICITUDE  DA  PROVA  OBTIDA  NA  RESIDÊNCIA.  VIOLAÇÃO  DE  DOMICÍLIO.  OCORRÊNCIA.  AUSÊNCIA  DE  INVESTIGAÇÕES  PRÉVIAS  E  DE  ELEMENTOS  CONCRETOS  QUE  INDICASSEM  A  OCORRÊNCIA  DE  CRIME  NO  INTERIOR  DA  RESIDÊNCIA.  FALTA  DE  REGISTRO  DA  AUTORIZAÇÃO  DE  ENTRADA  NO  DOMICÍLIO  PELO  ACUSADO.
+  1.  Nos  crimes  permanentes,  tal  como  o  tráfico  de  drogas,  o  estado  de  flagrância  prolonga-se  no  tempo,  o  que,  todavia,  não  é  suficiente,  por  si  só,  para  justificar  busca  domiciliar  desprovida  de  mandado  judicial,  exigindo-se  a  demonstração  de  indícios  mínimos  de  que,  naquele  momento,  dentro  da  residência,  se  está  ante  uma  situação  de  flagrante  delito.
+2.  Conforme  entendimento  firmado  por  esta  Corte,  o simples patrulhamento dos policiais,  desacompanhado  de  outros  elementos  preliminares  indicativos  de  crime,  não  legitima  o  ingresso  de  policiais,  no  domicílio,  sem  autorização  judicial,  pois  ausente,  nessas  situações,  a  justa  causa  para  a  medida.
+3.  Na  espécie,  não  foram  realizadas  investigações  prévias  nem  indicados  elementos  concretos  que  confirmassem  o  crime  de  tráfico  de  drogas,  dentro  da  residência,  não  sendo  suficiente,  por  si  só,  a reação de nervosismo do réu com a abordagem policial.
+4.  As  regras  de  experiência  e  o  senso  comum  não  conferem  verossimilhança  à  afirmação  de  que  o  acusado  teria  autorizado,  livre  e  voluntariamente,  o  ingresso  em  seu  próprio  domicílio,  franqueando  a  formação  de  prova  incriminatória.  Cabe  aos  agentes  estatais  demonstrar,  de  modo  inequívoco,  que  o  consentimento  foi  livremente  prestado,  ou  que  havia ,  em  curso ,  na  residência ,  uma  clara  situação  de  crime  permanente.  No  caso,  não  houve  documentação  desse  consentimento,  seja  por  escrito,  por  testemunhas  ou  por  registro  de  áudio-vídeo.
+5.  Habeas corpus concedido, para reconhecer a nulidade das provas colhidas pelo ingresso em domicílio, sem mandado judicial, e absolver o paciente do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A parte embargante afirma a ocorrência de omissão no julgado, articulando que não foi enfrentado o princípio da unirrecorribilidade das decisões judiciais, de forma que deve ser atribuído efeito infringente para que não se conheça da ordem.
+Aduz, ainda, que não há ilegalidade na busca domiciliar.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. A concessão da ordem foi fundamentada, de modo suficiente, na nulidade da prova obtida por violação do domicílio.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, ainda que para prequestionamento, conforme precedentes.
+6. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+Inicialmente, destaca-se que a jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recursos e habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL E IMPETRAÇÃO DE HABEAS CORPUS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. Hipótese em que houve a interposição de recurso especial na origem e, na sequência, do respectivo agravo, e a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 918.633/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, grifo próprio.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PRECEDENTES DO STF E STJ. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. MEDIDAS CAUTELARES. CONSTRANGIMENTO ILEGAL. SUPRESSÃO DE INSTÂNCIA. PEDIDO SUBSIDIÁRIO. INOVAÇÃO RECURSAL. INADMISISBILIDADE. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Não bastasse o mencionado entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame constata-se que o presente habeas corpus tramita em paralelo ao recurso especial interposto em face do acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade.
+ ..
+5. Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no HC n. 880.190/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024, grifo próprio.)
+No entanto, é inviável o acolhimento da pretensão recursal, porque, conforme registrado no acórdão embargado, observada a possibilidade da concessão da ordem de ofício, prevista no art. 647-A do CPP, mostra-se necessário o reconhecimento da ilicitude da busca domiciliar.
+Observa-se, a propósito, o que constou no voto condutor do acórdão recorrido (fls. 139-140):
+Conforme  entendimento  firmado  por  esta  Corte,  o mero patrulhamento policial,  desacompanhado  de  outros  elementos  preliminares  indicativos  de  crime,  não  legitima  a abordagem, nem sequer  o  ingresso  de  policiais  no  domicílio  indicado.
+ ..
+No caso,  não  foram  realizadas  investigações  prévias  nem  indicados  elementos  concretos  que  confirmassem  o  crime  de  tráfico  de  drogas,  dentro  da  residência,  não  sendo  suficiente,  por  si  só,  o  nervosismo  do suspeito  ou  mesmo  seu  comportamento  no  momento  da  abordagem,  como  na  espécie.
+ ..
+Nesse  contexto,  é  de  ser  reconhecida  a  ilicitude  na  apreensão  da  droga,  suficiente  ao  reconhecimento  da  nulidade  de  todos  os  atos  a  posteriori,  pela  teoria  dos  frutos  da  árvore  envenenada,  devendo  ser  mantida  a  decisão  agravada  por  seus  próprios  fundamentos.
+A jurisprudência desta Corte sedimentou-se no entendimento de que " a s circunstâncias que antecederem a violação do domicílio devem evidenciar, de modo satisfatório e objetivo, as fundadas razões que justifiquem tal diligência e a eventual prisão em flagrante do suspeito, as quais, portanto, não podem derivar de simples desconfiança policial, apoiada, v. g., em mera atitude "suspeita", ou na fuga do indivíduo em direção a sua casa diante de uma ronda ostensiva, comportamento que pode ser atribuído a vários motivos, não, necessariamente, o de estar o abordado portando ou comercializando substância entorpecente" (HC n. 598.051/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021).
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ademais, não cabe "a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl no AgRg no AREsp n. 2.597.307/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024; e EDcl no AgRg no AREsp n. 2.487.334/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024).
+Ainda, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
