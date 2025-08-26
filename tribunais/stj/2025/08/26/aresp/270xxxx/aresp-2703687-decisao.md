@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDIANO SILVA DO NASCIMENTO, contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu o recurso especial, em virtude de afronta à Súmula n. 283, STF e n. 7, STJ.
+Consoante se extrai dos autos, a parte agravante foi condenada pela prática do delito previsto no art. 33, caput, da Lei n . 11.343/06.
+O Tribunal de origem, em decisão unânime, negou provimento ao apelo defensivo.
+No recurso especial, interposto com fulcro no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, o insurgente alega, além de dissídio jurisprudencial, afronta ao previsto nos arts. 386, inciso VII, e 155, ambos do Código de Processo Penal. Subsidiariamente, no que tange à fase dosimétrica, persegue o afastamento da valoração negativa das circunstâncias judiciais, ou ao menos a diminuição do patamar de recrudescimento adotado.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas n. 283, STF e n. 7, STJ.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Foram apresentadas contrarrazões e o Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial e, se conhecido, pelo desprovimento dos recursos especiais.
+É o relatório. DECIDO.
+No caso vertente, ao que se depreende das razões do recurso de agravo, a parte recorrente não impugnou os fundamentos adotados pela Vice-Presidência do Tribunal de origem na decisão agravada.
+Verifica-se que a defesa não argumentou especificamente de que forma não demandaria incursão no acervo fático-probatório dos autos a revisão das premissas fixadas pelo Tribunal de origem.
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 do Superior Tribunal de Justiça.
+Nesse sentido, confiram-se:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. BUSCA PESSOAL E DOMICILIAR. FUNDADAS SUSPEITAS. CONSENTIMENTO DOS MORADORES. CRIME PERMANENTE. INVIOLABILIDADE DE DOMICÍLIO. ILICITUDE PROBATÓRIA AFASTADA. AUSÊNCIA DE NULIDADE PELO NÃO FORNECIMENTO DO "AVISO DE MIRANDA. INEXISTÊNCIA DE PREJUÍZO. SÚMULAS 7 E 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme a jurisprudência desta Corte Superior no sentido de que não há falar em violação ao art. 5º, XI, da Constituição Federal ou ao art. 240 do CPP quando o ingresso em domicílio decorre de fundada suspeita de crime permanente e do consentimento dos moradores, como se verificou na hipótese dos autos.
+2. A alegação de ausência de justa causa para a busca pessoal não se sustenta, haja vista que, conforme assentado no acórdão recorrido, houve denúncia anônima indicando tráfico de drogas e posterior confirmação do próprio acusado sobre a existência de entorpecentes em sua residência, o que corrobora a legitimidade da atuação policial.
+3. Inexiste nulidade por ausência de cientificação do direito ao silêncio ("aviso de Miranda") quando verificado nos autos que o réu foi advertido de seus direitos em sede policial e judicial, não havendo demonstração de prejuízo concreto, tratando-se, ademais, de nulidade relativa que não restou configurada no caso concreto.
+4. As teses de nulidade da busca domiciliar, da busca pessoal e de ausência de observância do "aviso de Miranda" demandariam reexame do conjunto fático-probatório delineado pelas instâncias ordinárias, providência vedada nesta instância superior (Súmula 7/STJ).
+5. Ainda que a parte alegue, no agravo regimental, que o agravo em recurso especial enfrentou os fundamentos da decisão de inadmissão, verifica-se que não houve impugnação específica e analítica dos óbices apontados, o que atrai a incidência da Súmula 182 do STJ.
+6. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.607.956/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+A orientação desta Corte Superior é no sentido de que, "para que haja a transposição do óbice da Súmula n. 7, STJ, o agravo precisa demonstrar em que medida as teses não exigem a alteração do quadro fático delineado pelo Tribunal local, não bastando a assertiva genérica de que não incide o óbice aplicado pelo Tribunal de origem, além da impossibilidade de renovação recursal nesse momento" (AREsp 2670224 / PA, QUINTA TURMA, de minha relatoria, DJe 08/10/2024).
+Nessa toada, não observou a parte recorrente que, "para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local" (AgRg no AREsp n. 2.664.398/GO, Quinta Turma, relatora Ministra Daniela Teixeira, DJEN de 3/1/2025).
+No mais, o agravante não demonstrou, de modo efetivo e concreto, a impossibilidade de aplicação das Súmula n. 283, STF, e tampouco que houve demonstração de que teria sido cumprido o requisito do dissídio jurisprudencial.
+Recordo, neste contexto, que a decisão de inadmissibilidade do recurso especial não é formada por capítu los autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Ante o exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
