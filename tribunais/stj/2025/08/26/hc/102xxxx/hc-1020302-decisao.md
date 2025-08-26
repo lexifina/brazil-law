@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Habeas Corpus com pedido de liminar impetrado em favor de VALDECIR LONGHI JUNIOR, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta da impetração que o paciente se encontra preso preventivamente em razão da suposta prática dos crimes previstos nos arts. 158, caput, e 163, parágrafo único, II e IV, do Código Penal, e que a prisão preventiva foi decretada com base na gravidade concreta da conduta e na reincidência específica do paciente, que possui condenações anteriores por tentativa de homicídio e lesão corporal.
+Alega o impetrante que a decisão que denegou o Habeas Corpus anteriormente impetrado é manifestamente ilegal, pois mantém a prisão preventiva sem fundamentação concreta e individualizada, violando o art. 312 do Código de Processo Penal e o art. 93, IX, da Constituição Federal.
+Afirma que a gravidade abstrata do delito e a reincidência não justificam a prisão preventiva, sendo necessário demonstrar risco atual e concreto.
+Assevera que o paciente possui condições pessoais favoráveis, como trabalho lícito, residência fixa e filhos menores, o que afastaria o risco à ordem pública, à instrução criminal ou à aplicação da lei penal.
+Destaca que a prisão preventiva é medida excepcional e desproporcional na espécie, havendo possibilidade de substituição por medidas cautelares alternativas, previstas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e inaudita altera pars, a imediata concessão da medida cautelar, para: suspender os efeitos da decisão coatora proferida pela 4ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná que denegou a ordem de Habeas Corpus e, consequentemente, determinar a imediata soltura do paciente.
+Pleiteia a concessão da ordem para revogar a prisão preventiva do paciente, com eventual aplicação de medidas cautelares diversas. Alternativamente, solicita que o juízo de primeiro grau seja compelido a reapreciar, fundamentadamente, a necessidade da custódia cautelar.
+A liminar foi indeferida e as informações foram prestadas. Instado a se pronunciar, o Ministério Público Federal opinou pelo não conhecimento ou denegação da ordem, em parecer assim ementado (fl. 90):
+HABEAS CORPUS. DIREITO PENAL. EXTORSÃO. DANO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. CIRCUNSTÂNCIAS DO DELITO. HISTÓRICO CRIMINAL DO RÉU. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. 1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. 2. Não é possível conhecer da impetração, na hipótese em que não estiver instruída com todos os documentos necessários à exata compreensão da controvérsia, pois compete à parte impetrante a correta instrução dos autos, conforme entendimento do STJ. 3. Não é ilegal a prisão preventiva decretada para garantia da ordem pública quando evidenciada a periculosidade social do agente, aferida a partir das circunstâncias do delito e do seu histórico criminal, que registra outras condenações penais também pela prática de crimes violentos. 4. Parecer pelo não conhecimento do habeas corpus. Se conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+O writ não comporta conhecimento.
+Com efeito, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, sendo dever da defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+In casu, não houve a juntada do inteiro teor do decreto prisional. Assim, diante da deficiência na instrução do feito, mostra-se inviável a análise da impetração.
+A propósito:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. RECEPTAÇÃO, USO DE DOCUMENTO FALSO, PORTE ILEGAL DE ARMA DE FOGO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO . INSTRUÇÃO DEFICIENTE. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. INOCORRÊNCIA. TRÂMITE REGULAR. RAZOABILIDADE. PENA DE 9 ANOS DE RECLUSÃO. RECURSO CONCLUSO PARA RELATÓRIO E VOTO EM 11/9/2019. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO. RECOMENDAÇÃO DE CELERIDADE.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. Impossível a análise dos fundamentos da prisão preventiva, pois os autos estão deficientemente instruídos ante a ausência do acórdão da impetração originária que examinou a questão, documento essencial para análise da aventada ilegalidade.
+ ..
+6. Habeas corpus não conhecido. Determinação de recomendação ao Tribunal Regional Federal da 1ª Região para que imprima celeridade no julgamento da Apelação n. 0000406-33.2017.4.01.3307.
+(HC n. 445.235/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/11/2019, DJe de 9/12/2019, grifei).
+Registre-se, ainda, que "O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante" (AgRg no HC n. 783.393/SP, Quinta Turma, relatora Ministra Daniela Teixeira, julgado em 05/03/2024, DJe de 10/04/2024).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
