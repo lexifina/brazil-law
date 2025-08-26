@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Allan Celio da Cunha, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que denegou o Habeas Corpus criminal n. 5146239-04.2025.8.21.7000/RS, mantendo a prisão preventiva do paciente, imposta pelo Juízo da 2ª Vara Criminal da comarca de Passo Fundo/RS, pela suposta prática do crime de associação para o tráfico de drogas.
+Neste writ, sustenta a defesa que a fundamentação para a prisão preventiva é genérica, e não individualiza a necessidade da medida para o paciente, violando o § 1º do art. 315 do Código de Processo Penal, além de não demonstrar risco concreto à ordem pública (fls. 4/5).
+Argumenta que a decisão judicial utiliza a prisão anterior do paciente como justificativa para nova prisão preventiva, sem indicar fatos supervenientes que evidenciem risco adicional concreto, o que seria uma antecipação de pena, vedada pelo § 2º do art. 313 do CPP (fls. 5/6).
+Ressalta, ainda, que a Corte estadual introduziu fundamentos novos e autônomos para justificar a manutenção da prisão preventiva, prática que seria inconstitucional e violaria o devido processo legal (fls. 6/8).
+Por fim, pontua a ausência de contemporaneidade dos fatos, pois os elementos indiciários são anteriores à prisão em flagrante, sem demonstração de reiteração delitiva ou risco iminente à ordem pública (fl. 9).
+Requer, assim, a concessão da ordem para revogar a prisão preventiva ou, subsidiariamente, substituí-la por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal (fl. 10).
+É o relatório.
+Infere-se dos autos que a prisão preventiva não decorreu apenas do fato de o paciente estar custodiado, mas dos elementos colhidos na investigação que o apontaram como líder da organização criminosa denominada "FIRMA", voltada à venda de drogas pelo aplicativo WhatsApp (fls. 40/42), evidenciando a associação dos investigados para a prática do tráfico.
+A medida constritiva foi corroborada pela Corte estadual, aos seguintes fundamentos (fls. 24/25):
+De efeito, do relatório de investigação juntado aos autos, depreende-se a existência de uma organização criminosa estruturada e voltada para o tráfico de entorpecentes, com divisão de tarefas claramente delineada. Foi destacada a presença, no celular do paciente, de fotos de armas e de grandes quantidades de dinheiro. Além disso, foram localizadas mensagens de centenas de usuários que realizam pedidos no terminal telefônico de uso de Allan e vários comprovantes PIX.
+Nesse cenário social e probatório, é evidente que a liberdade do paciente deixaria latente a falsa noção da impunidade e serviria de estímulo para idêntica conduta, fazendo avançar a intranquilidade que os crimes dessa natureza vêm gerando na sociedade como um todo. Daí por que inevitável a conclusão sobre a necessidade da custódia para acautelar a ordem pública.
+Importa ressaltar, ainda, que, diversamente do alegado pela defesa, o Tribunal de origem não agregou fundamentos novos à decisão preventiva, mas apenas reforçou, de forma clara e fundamentada, os elementos já apontados pelo Magistrado de primeiro grau.
+Nesse sentido: HC n. 426.950/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/2/2018, DJe de 26/2/2018.
+Do mesmo modo, não procede a alegação de ausência de contemporaneidade. A Corte estadual afastou essa tese ao consignar que a prisão do paciente e dos demais investigados foi decretada tão somente quando reunidos os pressupostos autorizadores da medida extrema, após a análise dos dados extraídos do aparelho celular de Allan, ocasião em que foram identificadas imagens e áudios relacionados à prática delitiva (fl. 25).
+A corroborar: AgRg no HC n. 1.015.173/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PREVENTIVA. FUNDAMENTAÇÃO COMPLETA. VENDA DE ENTORPECENTES PELO WHATSAPP. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Inicial indeferida liminarmente.
