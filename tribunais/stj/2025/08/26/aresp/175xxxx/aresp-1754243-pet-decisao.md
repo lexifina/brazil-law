@@ -1,0 +1,11 @@
+DECISÃO
+JOSÉ LUIZ FERNANDES ALVES, por meio de petição avulsa, junta atestado médico, informa a necessidade de intervenção cirúrgica no dia 26/8/2025 e requer a retirada temporária do equipamento de monitoração eletrônica.
+Esta Corte não tem competência para decretar prisão preventiva ou aplicar cautelares previstas no art. 319 do CPP a réu que não possua foro por prerrogativa de função, tampouco para reexaminar medidas de coação fixadas pelo Juízo de primeiro grau ou substituídas em habeas corpus, quando reputadas ilegais ou desproporcionais.
+Admitir tal hipótese equivaleria a outorgar a esta instância a incumbência de revisar, em meio a mais de um milhão de feitos, todas as cautelares impostas em processos aqui já julgados (ou em curso), o que inviabilizaria a dinâmica de funcionamento desta Corte e de suas atribuições constitucionais.
+É do Juízo criminal que fixou cautelares ao réu, ou da autoridade responsável por sua fiscalização, a competência para reavaliá-las e decidir pedidos de revogação ou substituição das medidas, ainda que exista o registro de habeas corpus ou recursos perante as Cortes Superiores.
+Para viabilizar a análise do pedido quando os autos principais não estão na origem, deve ser formado instrumento apartado, instruído pela defesa com documentos pertinentes ao seu exame (denúncia, decreto prisional, decisões que substituíram a cautela extrema, sentença, acórdão e demais atos judiciais que tenham alterado a condenação etc.).
+Este Superior Tribunal tem legitimidade e é o juiz natural para decidir o recurso constitucional interposto pela parte (REsp ou AREsp), e não para reexaminar cautelares, salvo quando, como decorrência do próprio julgamento nesta jurisdição, se mostre necessário revogá-las, como, por exemplo, nos casos de absolvição.
+Não verifico a possibilidade de conhecer o pedido incident al, porque não relacionado ao objeto do AREsp, ou determinar, de ofício, alguma providência, pois a defesa não esclareceu se formulou o requerimento diretamente ao Juiz responsável pela fiscalização da cautelar nem situação de eventual negativa de prestação jurisdicional.
+À vista do exposto, não conheço da Pet 00721320/2025.
+Publique-se e intimem-se.
+EMENTA
