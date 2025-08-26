@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ALINE ALVES PACHECO contra acórdão assim ementado (fl. 117):
+AGRAVO REGIMENTAL - Não conhecimento de Habeas Corpus, por se tratar de mera reiteração - AGRAVO DESPROVIDO.
+A recorrente teve sua prisão preventiva decretada em 27/10/2021, no contexto da prática de roubo, previsto no art. 157 do Código Penal, ficando foragida até a data de sua prisão, ocorrida em 15/3/2025.
+O Juízo de primeiro grau indeferiu o pedido de revogação da prisão preventiva, considerando a ausência de comprovação de residência fixa e ocupação lícita, além da prática do delito durante a vigência de medidas cautelares diversas da prisão.
+O Tribunal de origem, por sua vez, negou provimento ao agravo regimental, alegando tratar-se de mera reiteração de pedido anteriormente analisado, sem alteração fática relevante.
+Sustenta a parte recorrente, em suma, que a prisão preventiva imposta não se sustenta por ausência dos requisitos legais dos artigos 312 e 313 do Código de Processo Penal.
+Argumenta que possui residência fixa, ocupação lícita e que jamais se furtou à aplicação da lei penal, alegando, outrossim, que a gravidade abstrata do crime imputado não é fundamento idôneo para a custódia cautelar, sendo necessário elementos concretos e atuais para justificar o periculum libertatis.
+Além disso, aduz que a negativa da prisão domiciliar contraria o entendimento do STF no Habeas Corpus coletivo n. 143.641/SP, que reconhece o direito à substituição da prisão preventiva por domiciliar a mães de filhos menores.
+Requer, ao final, o provimento deste recurso para revogar a prisão preventiva, com a substituição por prisão domiciliar, nos termos do art. 318, IV, do CPP; subsidiariamente, a aplicação de medidas cautelares diversas da prisão (art. 319 do CPP).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso ordinário, nos termos da seguinte ementa (fl. 149):
+Recurso ordinário em habeas corpus. Roubo. Preventiva. Periculum libertatis configurado. Recorrente permaneceu foragida por vários anos. Risco de reiteração delitiva. Fundamentação idônea. Constrangimento ilegal não evidenciado. Parecer pelo não provimento do recurso ordinário.
+Na origem, o Processo n. 1501485-25.2021.8.26.0357, oriundo da Vara Única de Mirante do Paranapanema/SP, encontra-se na fase de apresentação de alegações finais, conforme informações processuais extraídas do site do TJ/SP em 21/8/2025.
+É o relatório. Decido.
+A Constituição da República assegura no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Extrai-se do acórdão recorrido (fl. 118):
+ ..  Aqui vale salientar que a paciente teve sua prisão preventiva decretada em 27/10/2021, tendo sido presa efetivamente apenas no dia 17/03/2025.
+Mais uma vez alega ser mãe de uma criança menor e cardiopata.
+Constata-se, todavia, que referido assunto já foi apreciado tanto na Vara de Origem, quanto por esta Câmara no Habeas Corpus 2065528-78.2022.8.26.0000, onde a paciente já requereu sob os mesmos fundamentos sua liberdade.
+Ainda que seja novo impetrante, o fundamento é o mesmo e já foi decidido por este Tribunal, não havendo qualquer situação fática que altere tal entendimento.
+Conforme mencionado pelo representante ministerial, a acusada é contumaz na prática de crimes contra o patrimônio, cometeu a infração penal em questão durante a vigência de medidas cautelares diversas da prisão, concedida em outro feito (processo nº 1502036-39.2019.8.26.0530).
+Além disso, está sendo processada e foi condenada definitivamente pela prática de crimes patrimoniais  ..
+Como visto, ressaltou-se que a ré, ora recorrente, "é contumaz na prática de crimes contra o patrimônio, cometeu a infração penal em questão durante a vigência de medidas cautelares diversas da prisão, concedida em outro feito", não havendo falar-se em inidoneidade do decreto prisional.
+""Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade". (RHC n. 107.238/GO, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019)" (AgRg no RHC n. 207.771/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+"A prisão preventiva encontra-se fundamentada em dados concretos extraídos dos autos, especialmente a gravidade da conduta praticada, o modus operandi, a reiteração criminosa e a situação de foragido do agravante, evidenciando risco concreto à ordem pública e à aplicação da lei penal." (AgRg no HC n. 997.561/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 21/5/2025), consoante esposado à fl. 54.
+Noutro lado , " s ão inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves." (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Ademais, " a  jurisprudência do Superior Tribunal de Justiça reconhece a impossibilidade de concessão de prisão domiciliar quando o crime envolve violência ou grave ameaça, mesmo que a ré seja mãe de criança menor de 12 anos." (AgRg no HC n. 995.174/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025).
+"A substituição da prisão preventiva por prisão domiciliar não é cabível, pois a conduta imputada envolve violência, configurando exceção prevista no art. 318-A, inciso I, do Código de Processo Penal." (AgRg no HC n. 981.183/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/4/2025, DJEN de 13/5/2025), destacando-se, ainda, que "não existe qualquer comprovação de que a filha da acusada está desamparada, constando dos autos que ela estaria residindo com a sua avó, conforme mencionado na decisão de fls. 241/242, o que torna inviável a substituição da prisão preventiva por prisão domiciliar" (fl. 54).
+Diante do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
