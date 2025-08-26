@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ALEXSANDRO GUEDES DO NASCIMENTO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu o recurso especial.
+O agravante foi condenado pela prática dos crimes tipificados no art. 157, § 2º, incisos I e II, por três vezes, na forma dos arts. 29, caput, e 70, todos do Código Penal, bem como no art. 157, § 3º, segunda figura, na forma dos arts. 14, inciso II, 29, caput, todos do Código Penal, às penas de 19 (dezenove) anos, 11 (onze) meses e 06 (seis) dias de reclusão, em regime inicial fechado, além do pagamento de 45 (quarenta e cinco) dias-multa, pelo mínimo unitário legal (fls. 762-773).
+O Tribunal local deu parcial provimento ao recurso defensivo e desclassificou a conduta prevista no art. 157, § 3º, segunda figura, para aquela prevista no art. 157, § 2º, incisos I e II, c/c art. 14, inciso II, do Código Penal, e afastou o concurso material, aplicando a regra da continuidade delitiva entre todos os crimes, resultando a pena final em 09 (nove) anos e 02 (dois) meses de reclusão e pagamento de 21 (vinte e um) dias-multa, no valor unitário mínimo legal (fls. 934-952).
+O agravante interpôs recurso especial com fundamento no art. 105, inciso III, "a", da Constituição Federal, apontando negativa de vigência aos arts. 18, inciso I, 29, § 1º, e 33, § 2º, alínea "b", todos do Código Penal, já que não ficou comprovado o dolo do recorrente, houve participação de menor importância e há necessidade de fixação de regime inicial semiaberto (fls. 978-998).
+O recurso foi inadmitido na origem por incidência da Súmula n. 7, STJ e 283, STF (1079-1081).
+No presente agravo, a defesa sustenta, em síntese, que o recurso especial deveria ter sido admitido, tendo em vista o preenchimento de todos os requisitos de admissibilidade recursal (fls. 1103-1122).
+O Ministério Público Federal se manifestou pelo não conhecimento do agravo em recurso especial, afirmando que o recorrente não impugnou especificamente os fundamentos da decisão agravada, incidindo a Súmula n. 182, STJ (fls. 1183-1185).
+É o relatório. DECIDO.
+Verifico que, no agravo, o recorrente não rechaçou os fundamentos de inadmissão do apelo especial.
+Com efeito, de acordo com iterativa jurisprudência desta Corte, inadmitido o recurso especial por incidência do óbice da Súmula n. 7, STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.849.678/SE, relator Ministro Og Fernandes, Sexta Turma, julgado em 17/6/2025, DJEN de 3/7/2025.).
+Noutros termos, para que se considere adequadamente impugnada a Súmula n. 7, STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local (AgRg no AREsp n. 2.664.398/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+No caso, o agravante não cumpriu tal determinação, o que inviabiliza o conhecimento do agravo.
+Ademais, o agravante também não impugnou especificadamente todos os fundamentos da decisão que inadmitiu o recurso especial, vale dizer, a impossibilidade de incidência, no caso, da Súmula n. 283, STF.
+Conforme precedentes desta Corte, a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo em recurso especial, nos termos do art. 932, inciso III, do Código de Processo Civil, e da Súmula n. 182, STJ (AgRg no AREsp n. 2.931.500/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 5/8/2025, DJEN de 12/8/2025.).
+Entretanto, ainda que assim não fosse, o recurso especial do agravante não poderia ser conhecido.
+A respeito da alegada negativa de vigência do art. 18, inciso I, do Código Penal, verifico que a matéria sobre a ausência do dolo não foi debatida no acórdão recorrido, e a defesa não interpôs embargos de declaração visando ao prequestionamento. Logo, inviável a esta Corte se debruçar sobre a questão em razão dos óbices das Súmulas n. 282 e 356, STF.
+Relativamente à apontada afronta ao art. 29, § 1º, do Código Penal, a instância anterior entendeu não ser cabível o reconhecimento da participação de menor importância do agravante com base nos seguintes fundamentos (fl. 942):
+" ..  A propósito, também não é o caso de reconhecimento da participação de menor importância, uma vez que a conduta consistente em auxiliar na condução e fuga dos comparsas demonstra que sua atuação foi relevante e imprescindível para o sucesso da empreitada criminosa. Assim, nada existe nos autos no sentido de que a participação do apelante na empreitada criminosa tenha sido de menor importância. Ao reverso, restou demonstrado que sua cooperação foi essencial para a execução e consumação dos crimes de roubo  .. ".
+Desta forma, para que fosse possível acolher o pleito da defesa, fatalmente seria imprescindível o reexame das provas, o que não se admite no recurso especial.
+Neste sentido:
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LATROCÍNIO TENTADO E CORRUPÇÃO DE MENORES. PROVAS. ILICITUDE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DOSIMETRIA DA PENA. BIS IN IDEM. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. CAUSA DE DIMINUIÇÃO DA PENA. TENTATIVA. ITER CRIMINIS. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+ ..
+9. A recusa do reconhecimento da participação de menor importância implicaria o revolvimento do acervo fático-probatório, pois as instâncias ordinárias avaliaram a gravidade da conduta e a participação da agravante com base nas provas dos autos, o que é vedado em recurso especial pela Súmula n. 7 do STJ.
+ .. "
+(AgRg no REsp n. 2.057.402/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.);
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. HOMICÍDIO. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. CULPABILIDADE EXACERBADA. CONSEQUÊNCIAS NEGATIVAS. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. IMPOSSIBILIDADE. CONFISSÃO. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE RECONHECIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+6. Na espécie, o Tribunal entendeu que a ré participou ativamente da empreitada criminosa, não havendo que se falar em participação de menor importância.
+7. A alteração da conclusão alcançada no acórdão demandaria amplo revolvimento do conjunto fático-probatório carreado aos autos, o que é inviável em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+ .. "
+(AgRg no REsp n. 1.905.926/AC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025 ).
+Por fim, mantida a pena definitiva acima de 08 (oito) anos de reclusão, é inviável a adoção de regime inicial semiaberto, nos termos do art. 33, § 2º, inciso I, do Código Penal.
+Ante o exposto, não conheço do agravo em recurso especial , nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
