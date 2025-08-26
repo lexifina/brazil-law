@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, mantendo a validade das provas obtidas mediante ingresso em domicílio sem mandado judicial.
+2. O agravante alega que a fuga não é suficiente para caracterizar fundadas razões para ingresso no domicílio e pleiteia a nulidade das provas decorrentes da alegada violação de domicílio.
+II. Questão em discussão
+3. A discussão consiste em saber se a fuga do réu para dentro do imóvel ao avistar policiais configura justa causa para busca domiciliar sem mandado judicial.
+III. Razões de decidir
+4. No caso, os policias estavam em patrulhamento e receberam informações acerca do crime de tráfico de drogas e posse de armas de fogo (fuzil e revólver). Os policiais se dirigiram ao local. O recorrente ao abrir o portão, notou a presença dos policiais, fugiu para os fundos do imóvel e jogou no chão invólucro, que se verificou tratar de um tablete de maconha embalado e pronto para o comércio.
+5. A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça admite o ingresso em domicílio sem mandado judicial quando há fundadas razões, como a fuga do réu ao avistar policiais.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: A fuga do réu para dentro do imóvel, ao verificar a aproximação dos policiais, configura justa causa para busca domiciliar sem mandado.
+Dispositivos relevantes citados: CR/1988, art. 5º, XI.
+Jurisprudência relevante citada: STF, RE 1.491.517, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 14.10.2024; STF, RE 1.492.256, Rel. Min. Alexandre de Moraes, Tribunal Pleno, julgado em 17.02.2025; STJ, AgRg no AREsp n. 2.878.632/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/05/2025.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  DANIEL DOS SANTOS DA SILVA contra  a  decis ão ( fls.  417/421)  que  negou provimento ao recurso especial.
+Em síntese, o agravante alega que a fuga não é suficiente para caracterizar fundadas razões para ingresso no domicílio.
+Pleiteia a reconsideração da decisão agravada ou a submissão do agravo ao órgão colegiado para que seja reconhecida a nulidade das provas decorrentes da alegada violação de domicílio.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, mantendo a validade das provas obtidas mediante ingresso em domicílio sem mandado judicial.
+2. O agravante alega que a fuga não é suficiente para caracterizar fundadas razões para ingresso no domicílio e pleiteia a nulidade das provas decorrentes da alegada violação de domicílio.
+II. Questão em discussão
+3. A discussão consiste em saber se a fuga do réu para dentro do imóvel ao avistar policiais configura justa causa para busca domiciliar sem mandado judicial.
+III. Razões de decidir
+4. No caso, os policias estavam em patrulhamento e receberam informações acerca do crime de tráfico de drogas e posse de armas de fogo (fuzil e revólver). Os policiais se dirigiram ao local. O recorrente ao abrir o portão, notou a presença dos policiais, fugiu para os fundos do imóvel e jogou no chão invólucro, que se verificou tratar de um tablete de maconha embalado e pronto para o comércio.
+5. A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça admite o ingresso em domicílio sem mandado judicial quando há fundadas razões, como a fuga do réu ao avistar policiais.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: A fuga do réu para dentro do imóvel, ao verificar a aproximação dos policiais, configura justa causa para busca domiciliar sem mandado.
+Dispositivos relevantes citados: CR/1988, art. 5º, XI.
+Jurisprudência relevante citada: STF, RE 1.491.517, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 14.10.2024; STF, RE 1.492.256, Rel. Min. Alexandre de Moraes, Tribunal Pleno, julgado em 17.02.2025; STJ, AgRg no AREsp n. 2.878.632/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/05/2025.
+VOTO
+A  irresignação  não  prospera.
+A  decisão  agravada restou fundamentada nos seguintes termos:
+ ..
+No que concerne à busca domiciliar, este Tribunal, no bojo do HC 598.051/SP (relator Ministro Rogerio Schietti Cruz), fixou a tese de que o ingresso em domicílio desautorizado exige a comprovação de fundadas razões (justa causa) evidenciadas pelo contexto fático anterior. Na mesma linha, o Tema 280 do Supremo Tribunal Federal, que ancora a licitude da entrada forçada em domicílio em fundadas razões, a serem devidamente justificadas a posteriori.
+O Tribunal a quo assim decidiu:
+ ..  De início, a defesa sustenta serem ilícitas as provas obtidas mediante alegada violação de domicílio.
+Sem razão, contudo.
+No APFD, o condutor do flagrante, Roberto Mauro Alves de Almeida, narrou:
+"(..); QUE o depoente e equipe estavam em patrulhamento e receberam denúncia de que uma pessoa estaria realizando tráfico de drogas e estaria de posse de armas de fogo, tais quais, um fuzil e um revólver na Rua Reginaldo Cassiano Campos, 42; QUE diligenciaram ao local e chegando lá, bateram no portão, e o autor ao abrir o portão, notou a presença policial e saiu correndo para os fundos, jogando no chão um invólucro, porém o mesmo foi abordado e identificado como sendo DANIEL DOS SANTOS DA SILVA; QUE o invólucro dispensado por ele se tratava de um tablete de maconha embalado e pronto para o comércio; (..)".
+Portanto, a diligência realizada na casa de Daniel dos Santos ocorreu após o recebimento de denúncia anônima pela Polícia dando conta de que um indivíduo estaria na posse de entorpecentes e armas de fogo, tendo o réu evadido da abordagem, de forma que o contexto fático autorizava perfeitamente a busca domiciliar, diante das fundadas razões de que ali se encontravam drogas e artefatos bélicos (art. 240, §1º, CPP).
+Em situação semelhante, já decidiu o Superior Tribunal de Justiça:  ..  (AgRg no HC n. 786.579/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, D Je de 21/3/2023.)
+Ademais, tratando-se de tipos plurinucleares e considerando que as condutas imputadas na denúncia foram as de "manter em depósito" e "guardar" (drogas e armas), ambos os crimes narrados são de natureza permanente, o que coloca o agente em constante estado de flagrância.
+Assim, rejeito a preliminar. ..  (grifamos)
+Na hipótese, o que se colhe da decisão é que o recorrente empreendeu fuga diante dos policiais.
+Sobre o tema, houve evolução da jurisprudência, que passou a admitir o ingresso no domicílio diante da fuga. Destaca-se:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FLAGRANTE. DOMICÍLIO COMO EXPRESSÃO DO DIREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. FUGA PARA O INTERIOR DO DOMICÍLIO. FUNDADAS RAZÕES. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 5º, XI, da Constituição Federal consagrou o direito fundamental à inviolabilidade do domicílio, ao dispor que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+2. O Supremo Tribunal Federal definiu, em repercussão geral (Tema 280), que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010). No mesmo sentido, neste STJ: REsp n. 1.574.681/RS.
+3. No caso, policiais militares obtiveram denúncia anônima a respeito de um indivíduo estar fazendo uso de drogas em frente a um imóvel. Os agentes, então, se dirigiram até o local indicado, onde visualizaram o réu fumando um cigarro de maconha, momento em que emitiram uma ordem de parada. O acusado, no entanto, ao perceber a presença dos policiais, se evadiu para o interior da residência, o que motivou o ingresso imediato dos agentes em seu domicílio.
+4. A respeito da possibilidade de ingresso imediato em domicílio em situação na qual o indivíduo foge para o interior do imóvel ao avistar a guarnição policial, o Plenário do Supremo Tribunal Federal, em julgamento de dois embargos de divergência, firmou a tese de que "a fuga para o interior do imóvel ao perceber a aproximação dos policiais militares, que realizavam patrulhamento de rotina na região, evidencia a existência de fundadas razões para a busca domiciliar" (RE 1.492.256 AgR-EDv-AgR, Rel. Min. Edson Fachin, Red. Acd. Min. Alexandre de Moraes, Tribunal Pleno, j. 17/2/2025). No mesmo sentido: RE 1.491.517 AgR-EDv, Rel. Min. Cármen Lúcia, Tribunal Pleno, j. 14/10/2024.
+5. Para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser dessa causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+6. A instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas.
+7. Por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que a utilização supletiva dos elementos relativos à natureza e à quantidade de drogas apreendidas, na terceira fase da dosimetria, para fins de afastamento do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa, exatamente como ocorreu na espécie.
+8. Agravo regimental não provido. (AgRg no AgRg no AREsp n. 2.705.491/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2025, DJEN de 19/5/2025. - grifamos)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. NOVEL ORIENTAÇÃO DA SUPREMA CORTE. TENTATIVA DE FUGA AO AVISTAR POLICIAIS. SÚMULA N. 7/STJ. INAPLICABILIDADE. ELEMENTOS CONSIGNADOS NO ACÓRDÃO DE APELAÇÃO. MERA REVALORAÇÃO DE FATOS E PROVAS. SÚMULA N. 83/STJ. INAPLICABILIDADE. PRECEDENTES HODIERNOS NO SENTIDO DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+1. O Supremo Tribunal Federal, em recentes julgados, decidiu que a fuga do réu para dentro do imóvel, apontado em denúncia anônima como local de traficância, ao verificar a aproximação dos policiais, é causa suficiente para autorizar a busca domiciliar sem mandado judicial.
+2. A decisão impugnada foi reconsiderada, em atenção ao princípio da segurança jurídica, conferindo à questão em análise conforme decisões recentes do STF no Tema n. 280 da repercussão geral, em casos similares.
+3. A consideração exclusiva de elementos do acórdão de apelação e da sentença condenatória - com o seu devido sopesamento com o entendimento desta Corte e o do STF -, configuram revaloração de fatos e provas, procedimento legal não obstado pelo enunciado da Súmula n. 7/STJ.
+4. Havendo precedentes atuais e consonantes com a decisão agravada, não há como se alegar infringência ao enunciado da Súmula n. 83/STJ.
+IV. Dispositivo e tese
+6. Agravo regimental provido para restabelecer a decisão condenatória nos autos da ação penal.
+Tese de julgamento: "A fuga do réu para dentro do imóvel, ao verificar a aproximação dos policiais, configura justa causa para busca domiciliar sem mandado."
+Dispositivos relevantes citados: CR/1988, art. 5º, XI.
+Jurisprudência relevante citada: STF, RE 1.491.517, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 14.10.2024; STF, RE 1.492.256, Rel. Min. Alexandre de Moraes, Tribunal Pleno, julgado em 17.02.2025. (AgRg no AREsp n. 2.878.632/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/5/2025, DJEN de 20/5/2025. - grifamos)
+Portanto, a partir das premissas fáticas estabelecidas nas instâncias ordinárias, cuja revisão implicaria em revolvimento probatório, se observa a compatibilidade da diligência com os parâmetros jurisprudenciais atuais fixados para a sua validade.
+Ante o exposto, nego provimento ao recurso especial.  .. .
+O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto, o que não ocorreu no caso, notadamente tendo em vista, inclusive, a indicação de julgados anteriores aos citados na decisão agravada.
+Dessa  forma,  n a  ausência  de  argumento  relevante  que  infirme  as  razões  consideradas  no  julgado  ora  agravado,  que  está  em  sintonia  com  a  jurisprudência  desta  Corte  Superior  de  Justiça,  deve  ser  mantida  a  decisão  impugnada.
+Ante o  exposto,  nego  provimento  ao  agravo  regimental.
+É o voto.
