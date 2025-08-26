@@ -1,0 +1,51 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 444-445):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA.
+1. Nos termos do art. 66 do CPC e do art. 105, I, letra "d", da Constituição Federal, a configuração do conflito de competência pressupõe que duas ou mais autoridades judiciárias, submetidas a tribunais diversos, declarem-se competentes ou incompetentes para processar e julgar determinado processo. Precedentes.
+2. Inexistindo decisões conflitantes dos Juízos suscitados, não se revela caracterizado o conflito de competência.
+Agravo interno improvido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 5º, caput, XXII, XXXV e LIV, e 60, § 4º, IV, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Argumenta que o acórdão recorrido, ao manter o não conhecimento do conflito por entender que não haveria decisões conflitantes no caso, desconsiderou o fato de que as Justiças Estadual e do Trabalho estariam regulando a posse e os efeitos dominiais sobre a mesma área física (ainda que sobre registros diferentes), comprometendo a previsibilidade e a estabilidade das relações jurídicas.
+Aduz que "a decisão da Justiça do Trabalho assegura a imissão na posse de um imóvel que a Justiça Estadual havia declarado pertencer a outro titular", situação que "submete o bem a regimes jurídicos distintos e inconciliáveis, sem qualquer coordenação entre os juízos", ensejando violação ao direito de propriedade (fl. 462).
+Assevera que o julgado impugnado concluiu pelo não conhecimento do conflito com base apenas nas informações dos próprios juízos suscitados, obstando o pleno exercício do seu direito de acesso à jurisdição, pois privou-lhe de demonstrar a existência de decisões contraditórias de eficácia possessória em relação a uma mesma área física determinada.
+Afirma que houve violação à cláusula da unidade da jurisdição tendo em vista que foram mantidas decisões contraditórias sobre o mesmo bem, oriundas de ramos distintos do Poder Judiciário.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660 do STF, fixou-se a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+Na hipótese, o exame do alegado desrespeito do art. 5º, LIV, da CF dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 445-446 - grifos do original):
+A irresignação recursal não merece prosperar.
+Na espécie, a decisão agravada não conheceu do conflito de competência em razão dos seguintes fundamentos (fls. 416-417):
+A jurisprudência desta Corte Superior é firme no sentido de que, "para a caracterização de conflito de competência, nos termos do art. 66 do NCPC (art. 115, do CPC/73), faz-se necessário que dois ou mais juízos se declarem competentes ou incompetentes para o processamento e julgamento de uma mesma demanda, ou divirjam a respeito da reunião ou da separação de processos" (AgInt no CC n. 149.955/RS, relator Ministro Marco Buzzi, Segunda Seção, julgado em 26/4/2017, DJe de 3/5/2017)
+ ..
+Na hipótese dos autos, verifica-se que não há decisões conflitantes entre juízos diversos, motivo pelo qual não há conflito a ser dirimido.
+A propósito, confira-se o seguinte trecho da informação prestada pelo JUÍZO DE DIREITO DA 8ª VARA DOS FEITOS CÍVEIS DE SALVADOR (BA) (fl. 405):
+Esclareço, de forma categórica, que não há qualquer conflito positivo ou negativo de competência entre este Juízo e o Tribunal Regional do Trabalho da 5ª Região. As decisões proferidas referem-se a imóveis distintos:
+- Este Juízo revogou a ordem de imissão na posse sobre o imóvel de matrícula 8.010, reconhecendo que foi erroneamente atingido pela decisão liminar anterior;
+- A 34ª Vara do Trabalho, por sua vez, determinou a imissão na posse do imóvel de matrícula 8.010 ao seu legítimo proprietário, que o adquiriu em hasta pública trabalhista.
+A tentativa do suscitante de caracterizar conflito de competência revela-se, assim, mais uma estratégia processual abusiva, que busca artificialmente prolongar situação jurídica insustentável, em detrimento do direito de propriedade de terceiro de boa-fé, cuja legitimidade foi amplamente demonstrada e reconhecida.
+ ..
+Com efeito, destaca-se que a decisão agravada está em plena consonância com a jurisprudência desta Corte Superior, uma vez que o STJ adota o posicionamento de que "não há falar em conflito de competência quando inexistem nos autos decisões conflitantes dos juízos suscitados" (AgInt no CC n. 192.147/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 20/8/2024, DJe de 23/8/24).
+3. Ademais, no julgamento do RE n. 956.302-RG, a Suprema Corte firmou o entendimento de que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+A referida orientação foi consolidada no Tema n. 895 do STF, nos seguintes termos:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso dos autos, a apreciação da apontada ofensa ao art. 5º, XXXV, da CF demandaria o exame de norma infraconstitucional, qual seja, o art. 66 do Código de Processo Civil, motivo pelo qual se aplica a conclusão do STF no Tema n. 895.
+Do mesmo modo, trata-se de entendimento firmado na sistemática da repercussão geral e, portanto, de observância cogente (art. 1.030, I, a, do CPC).
+4. A controvérsia dos autos cinge-se à questão da existência, ou não, de decisões conflitantes entre juízos diversos para autorizar o conhecimento do conflito de competência suscitado, tendo esta Corte Superior se manifestado desta maneira (fls. 416-417):
+A jurisprudência desta Corte Superior é firme no sentido de que, "para a caracterização de conflito de competência, nos termos do art. 66 do NCPC (art. 115, do CPC/73), faz-se necessário que dois ou mais juízos se declarem competentes ou incompetentes para o processamento e julgamento de uma mesma demanda, ou divirjam a respeito da reunião ou da separação de processos" (AgInt no CC n. 149.955/RS, relator Ministro Marco Buzzi, Segunda Seção, julgado em 26/4/2017, DJe de 3/5/2017)
+ ..
+Na hipótese dos autos, verifica-se que não há decisões conflitantes entre juízos diversos, motivo pelo qual não há conflito a ser dirimido.
+Desse modo, a matéria ventilada depende do exame do art. 66 do CPC, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, inviabilizando a admissão do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso, seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte: "Para simples reexame de prova não cabe recurso extraordinário".
+Em caso semelhante, assim já decidiu o STF:
+EMENTA: SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. REANÁLISE DA LEGISLAÇÃO DE REGÊNCIA: INVIABILIDADE. 1. O Superior Tribunal de Justiça, com fundamento no art. 66 do Código de Processo Civil, consignou o não cabimento do conflito de competência, o que afasta a viabilidade do recurso extraordinário, ante a impossibilidade de análise da legislação infraconstitucional de regência. 2. Agravo regimental a que se nega provimento.
+(ARE 1315663 AgR-segundo, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 21-06-2022, PROCESSO ELETRÔNICO DJe-144 DIVULG 20-07-2022 PUBLIC 21-07-2022)
+5. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário, no tocante à suscitada ofensa ao art. 5º, XXXV e LIV, da Constituição Federal e, quanto às demais teses, com fundamento no art. 1.030, V, do CPC, não o admito.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. APONTADA OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. DIREITO PROCESSUAL CIVIL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
