@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de KILDER CRISTIAN DE SOUZA, condenado pelo Tribunal do Júri por homicídio qualificado consumado, tentativa de homicídio qualificado e corrupção de menores, à pena de 22 anos e 6 meses de reclusão, posteriormente reduzida a 18 anos pelo Tribunal de Justiça de Minas Gerais em grau de apelação (Processo n. 0088642-98.2017.8.13.0394, da 1ª Vara Criminal e da Infância e da Juventude da comarca de Manhuaçu/MG).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que, em 21/8/2024, julgou improcedente a Revisão Criminal n. 1.0000.24.452641-4/000 (fls. 333/344).
+Alega-se que o paciente foi condenado injustamente, e que a revisão criminal foi instruída com provas novas consistentes, incluindo declarações da vítima sobrevivente, a qual reconheceu ter mentido por sofrer ameaças e afirmou que o paciente não participou do crime; declaração de corréu e cunhado da vítima assumindo a autoria dos disparos; e declarações de testemunhas confirmando a inocência do paciente. Apesar disso, o Tribunal de Justiça julgou improcedente a revisão criminal, entendendo que as declarações não foram colhidas em procedimento de justificação criminal. Em recurso especial, a defesa sustentou violação do art. 621, II e III, do Código de Processo Penal, mas o recurso não foi admitido.
+Requer-se a concessão da ordem determinar o prosseguimento do recurso especial, ou subsidiariamente, a anulação da condenação com base nas novas provas, absolvendo-se o paciente. Subsidiariamente, pede-se a concessão da ordem para que o Superior Tribunal de Justiça, de ofício, determine a produção de justificação criminal, viabilizando o contraditório das provas novas apresentadas.
+É o relatório.
+É manifestamente descabido o presente writ .
+Para destrancar o recurso especial inadmitido na origem, há o agravo em recurso especial, e o habeas corpus não se presta a tal papel.
+Além disso, a dita prova nova apresentada pela defesa ao Tribunal estadual não foi considerada suficiente para alterar a condenação, e o habeas corpus não admite reexame aprofundado de matéria fático-probatória.
+Sem contar que, nos termos da jurisprudência desta Corte, "quando se trata de revisão criminal, para que novas informações sobre o fato, quando provenientes de testemunhas, possam ser consideradas elementos de prova, os depoimentos devem ser prestados sob o manto do contraditório e da ampla defesa, por meio da justificação criminal (AgRg no RHC n. 112.310/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/08/2019, DJe 30/08/2019) - AgRg no HC n. 913.176/CE, Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/12/2024, DJEN de 10/12/2024.
+Por fim, incumbe à defesa promover na origem o procedimento de justificação judicial.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO CONSUMADO. HOMICÍDIO QUALIFICADO TENTADO. CORRUPÇÃO DE MENORES. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. PROVAS NOVAS. OUTRAS VERSÕES DOS FATOS. NECESSIDADE DE PRÉVIA JUSTIFICAÇÃO JUDICIAL. INCUMBÊNCIA DA DEFESA. REVOLVIMENTO DE FATOS E PROVAS. MANIFESTO DESCABIMENTO DO WRIT.
+Petição inicial indeferida liminarmente.
