@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração no agravo regimental opostos contra acórdão da Sexta Turma que manteve a condenação por tráfico de drogas, afastando a minorante do tráfico privilegiado com base na quantidade de droga apreendida e no modus operandi, que indicavam envolvimento com organização criminosa.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a quantidade de droga apreendida e o modus operandi são suficientes para afastar a aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas.
+3. Outro ponto consiste em verificar se o acórdão embargado se omitiu em apreciar a tese de que o acusado é pessoa dedicada a atividades criminosas, considerando que a quantidade de drogas foi considerada na primeira fase da dosimetria da pena para exasperar a pena-base e, na terceira, para afastar o tráfico privilegiado.
+III. Razões de decidir
+3. A decisão de manter o afastamento da minorante do tráfico privilegiado foi fundamentada com base não apenas na quantidade de droga apreendida, mas também nas circunstâncias da prática delitiva, destacando-se o modus operandi empregado.
+4. Não há omissão no acórdão embargado, pois as questões relevantes foram decididas com a devida fundamentação, não sendo necessário rebater individualmente todos os argumentos apresentados.
+IV. Dispositivo e tese
+6. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A quantidade de droga apreendida e o modus operandi podem ser considerados para afastar a aplicação da minorante do tráfico privilegiado. 2. O reexame de elementos fático-probatórios é inviável na via do habeas corpus".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; CF/1988, art. 105, I, "e".
+Jurisprudência relevante citada: STJ, AgRg no HC n. 573.735/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021; STJ, AgRg no HC n. 610.106/PR, rel. Min. Felix Fischer, Quinta Turma, julgado em 23/02/2021.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  no  agravo  regimental  opostos  por CARLOS ERICK DOMINGUES DE SENA  ao  acórdão  da  Sexta  Turma  desta  Corte  Superior  assim  ementado  (fls.  190-191):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se alegava constrangimento ilegal pela não aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas.
+2. O Tribunal de Justiça do Estado do Rio Grande do Sul manteve a condenação do agravante por tráfico de drogas, afastando a minorante do tráfico privilegiado com base na quantidade de droga apreendida e no modus operandi, que indicavam envolvimento com organização criminosa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a quantidade de droga apreendida e o modus operandi são suficientes para afastar a aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas.
+III. Razões de decidir
+4. A decisão de afastar a minorante do tráfico privilegiado foi fundamentada na quantidade significativa de droga apreendida e no modus operandi, que indicam envolvimento com organização criminosa.
+5. A revisão do acórdão demandaria o reexame dos elementos fático-probatórios, o que é inviável na via estreita do habeas corpus.
+6. Não se verificou flagrante ilegalidade que justificasse a concessão de habeas corpus de ofício.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: 1. A quantidade de droga apreendida e o modus operandi podem ser considerados para afastar a aplicação da minorante do tráfico privilegiado. 2. O reexame de elementos fático-probatórios é inviável na via do habeas corpus.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; CF/1988, art. 105, I, "e".
+Jurisprudência relevante citada: STJ, AgRg no HC n. 573.735/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021; STJ, AgRg no HC n. 610.106/PR, rel. Min. Felix Fischer, Quinta Turma, julgado em 23/02/2021.
+Nos presentes aclaratórios, o embargante aponta a existência de omissão, conforme alegado à fl. 203
+afora o pedido de reconhecimento do tráfico privilegiado constava do Habeas Corpus e do Agravo Regimental posteriormente apresentado, pedido de análise da ilegalidade constante da decisão combatida por afronta ao Tema 712 do STF que prescreve: As circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena.
+Requer  o  acolhimento  dos  presentes  aclaratórios  para  que  a  omissão  apontada  seja  sanada  e,  por  conseguinte,  seja  dado  provimento  ao  agravo  regimental  interposto.
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração no agravo regimental opostos contra acórdão da Sexta Turma que manteve a condenação por tráfico de drogas, afastando a minorante do tráfico privilegiado com base na quantidade de droga apreendida e no modus operandi, que indicavam envolvimento com organização criminosa.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a quantidade de droga apreendida e o modus operandi são suficientes para afastar a aplicação da minorante do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas.
+3. Outro ponto consiste em verificar se o acórdão embargado se omitiu em apreciar a tese de que o acusado é pessoa dedicada a atividades criminosas, considerando que a quantidade de drogas foi considerada na primeira fase da dosimetria da pena para exasperar a pena-base e, na terceira, para afastar o tráfico privilegiado.
+III. Razões de decidir
+3. A decisão de manter o afastamento da minorante do tráfico privilegiado foi fundamentada com base não apenas na quantidade de droga apreendida, mas também nas circunstâncias da prática delitiva, destacando-se o modus operandi empregado.
+4. Não há omissão no acórdão embargado, pois as questões relevantes foram decididas com a devida fundamentação, não sendo necessário rebater individualmente todos os argumentos apresentados.
+IV. Dispositivo e tese
+6. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A quantidade de droga apreendida e o modus operandi podem ser considerados para afastar a aplicação da minorante do tráfico privilegiado. 2. O reexame de elementos fático-probatórios é inviável na via do habeas corpus".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; CF/1988, art. 105, I, "e".
+Jurisprudência relevante citada: STJ, AgRg no HC n. 573.735/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 27/04/2021; STJ, AgRg no HC n. 610.106/PR, rel. Min. Felix Fischer, Quinta Turma, julgado em 23/02/2021.
+VOTO
+Nos  termos  do  art.  619  do  Código  de  Processo  Penal,  os  embargos  de  declaração  destinam-se  a  suprir  eventual  omissão,  afastar  obscuridade,  eliminar  contradição  ou  ambiguidade  existentes  no  julgado.
+A  obtenção  de  efeitos  infringentes  somente  é  possível,  excepcionalmente,  nos  casos  em  que,  reconhecida  a  existência  de  um  dos  defeitos  indicados  no  supramencionado  dispositivo  legal,  a  alteração  do  julgado  seja  consequência  inarredável  da  correção  do  referido  vício,  bem  como  nas  hipóteses  de  erro  material  ou  equívoco  manifesto  que,  por  si  sós,  sejam  suficientes  para  a  inversão  do  julgado.
+No  caso,  o  embargante ,  em  sua  argumentação,  não  demonstra  a  ocorrência  de  nenhuma  das  hipóteses  legais  ensejadoras  dos  embargos  declaratórios.
+Vê-se que a quaestio juris foi solucionada no acórdão embargado em conformidade com a legislação aplicável e a orientação jurisprudencial desta Corte, no sentido de que a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi afastada pelo Tribunal de origem com o entendimento de que o réu se dedicava a atividades criminosas, com base não apenas na quantidade de droga apreendida, mas também nas circunstâncias da prática delitiva, destacando-se o modus operandi empregado.
+Com  efeito,  foi  expressa  mente  consignado  no  decisum  atacado:
+Na hipótese, o Tribunal estadual manteve o afastamento da minorante do tráfico privilegiado consignando (fl. 95; grifamos):
+Referida posição - que restou consagrada na 8ª Turma -, manteve a sentença quanto ao ponto, deixando de aplicar a minorante, por considerar que o tráfico de 276 quilos de "maconha" e a utilização de "batedores", constituem elementos aptos a evidenciar o envolvimento dos apelantes (ora embargantes) com organização criminosa voltada para o tráfico transnacional de entorpecentes. E diante de tal entendimento, deu parcial provimento aos recursos, em menor extensão, estabelecendo a pena, definitivamente, em 7 anos e 7 meses de reclusão. Ainda, o voto prevalente, promoveu a readequação da pena de multa e estabeleceu o regime semiaberto para o início do cumprimento de pena, consignando, no que tange à detração, que o tempo de prisão processual deve ser considerado quando da análise da possibilidade de progressão para o regime menos gravoso, análise afeta ao Juízo da Execução.
+2. Deliberação
+Analisadas as divergentes compreensões, tenho firme que deve prevalecer o voto divergente, mantendo-se o julgamento da 8ª Turma. Nessa linha, por compartilhar do mesmo entendimento e considerar que a análise efetivada exauriu a questão, nada há a acrescentar, razão pela qual peço vênia para destacar fundamentos do voto divergente, que contém o exame do essencial para o deslinde dos presentes embargos.
+Com efeito, é irrefutável que organizações criminosas não confiam carga vultosa a agentes com quem não mantém vínculo, de modo que a interação dos embargantes com o crime organizado é inconteste. Tal entendimento está alinhado com o que vêm decidindo os Tribunais Superiores e, também, com julgados da 4ª Seção desta Corte, a exemplo daqueles transcritos no voto condutor do acórdão embargado.
+Desse modo, levando em conta a vedação contida no § 4º do art. 33 da Lei 11.343/2006, inaplicável a minorante relativa ao tráfico privilegiado.
+Conforme destacado na decisão impugnada, a causa de diminuição prevista no §4.º do art. 33 da Lei n. 11.343/2006 foi afastada com o entendimento de que o agravante se dedicava a atividades criminosas com base, além da significativa quantidade de droga apreendida (276kg de maconha), nas circunstâncias da prática delitiva, destacando-se, o modus operandi empregado.
+Nesse contexto, não é possível desconstituir a conclusão das instâncias ordinárias sobre a dedicação do acusado à atividade criminosa e, por conseguinte, reconhecer a causa de diminuição de pena prevista no art. 33, §4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. IMPOSSIBILIDADE. AUSÊNCIA DE CONFISSÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI. PACIENTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é no sentido de que a confissão do acusado, quando utilizada para a formação do convencimento do julgador, deve ser reconhecida na dosagem da pena como circunstância atenuante, nos termos do art. 65, III, "d", do CP, mesmo quando eivada de teses defensivas, descriminantes ou exculpantes. Inteligência da Súmula 545/STJ (Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal).
+2. No caso dos autos, o Tribunal local consignou que, ao contrário do que alega a defesa, o paciente não confessou a prática delitiva.
+Assim, tendo em vista que o paciente não confessou o delito de tráfico de entorpecentes, não há como reconhecer a atenuante da confissão 3. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+4. As instâncias de origem, com base nas provas dos autos, as instâncias ordinárias formaram sua convicção com base nos elementos fáticos constantes dos autos para afastar a aplicação da redutora do art. 33, § 4º, da Lei de Drogas, por entender que o pacientes se dedicava ao tráfico de forma habitual, tendo em vista as circunstâncias do delito - além das quantidade da droga apreendida, que não é inexpressiva - 218 kg de maconha, 39 kg de skank, 3,4 kg de haxixe, mas também no modus operandi do delito, que envolveu 3 agentes que atuaram com divisão de tarefas, presença de batedores, o que indica o envolvimento do paciente com organização criminosa voltada ao tráfico de entorpecentes. Dessa forma, a Corte de origem se convenceu de que a paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional. Desconstituir tais assertivas demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+5. Agravo regimental não provido (AgRg no HC n. 983.290/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/04/2025, DJEN de 23/04/2025; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO ART. 33, § 4º, DA LEI 11.343/2006 AFASTADA MEDIANTE FUNDAMENTAÇÃO CONCRETA. REVISÃO DO JULGADO. IMPOSSIBILIDADE DE REEXAME DE PROVAS NA VIA ELEITA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA.
+1. No caso, a minorante do § 4º do art. 33 da Lei n. 11.343/2006 foi afastada com fundamento não apenas na quantidade e natureza da droga apreendida (394kg de maconha), mas também em outros elementos dos autos, como o uso de batedor e rádio comunicador, os quais, conforme o livre convencimento motivado do magistrado, evidenciariam a dedicação à atividade criminosa.
+2. A revisão do acórdão, de modo a possibilitar a concessão da causa especial de diminuição da pena, é providência que demandaria inevitavelmente o reexame dos elementos fático-probatórios, providência vedada na via estreita do habeas corpus.
+3. Agravo regimental desprovido (AgRg no HC n. 887.077/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/08/2024, DJe de 22/08/2024).
+Ademais,  conforme  a  jurisprudência  desta  Corte  Superior,  não  há  obrigatoriedade  de  o  julgador  refutar  individualmente  todos  os  argumentos  apresentados  pelo  impetrante,  sendo  suficiente  a  resolução  da  controvérsia  apresentada  nas  teses  capazes  de  influir  no  resultado  do  julgamento.
+Confira-se:
+PENAL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  CRIME  CONTRA  O  SISTEMA  FINANCEIRO  NACIONAL.  PECULATO.  LAVAGEM  DE  DINHEIRO.  ORGANIZAÇÃO  CRIMINOSA.  OMISSÃO  E  OBSCURIDADE  NO  ACÓRDÃO  EMBARGADO.  NÃO  OCORRÊNCIA.  REITERAÇÃO  DE  PEDIDOS.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  Nos  termos  do  art.  619  do  Código  de  Processo  Penal,  é  cabível  a  oposição  de  embargos  de  declaração  quando  no  julgado  houver  ambiguidade,  obscuridade,  contradição  ou  omissão.
+2.  Não  há  omissão/obscuridade  no  acórdão  embargado,  pois  as  matérias  foram  decididas  com  a  devida  e  clara  fundamentação,  com  fulcro  na  jurisprudência  consolidada  do  Superior  Tribunal  de  Justiça.
+3.  Esta  Corte  Superior,  em  julgamento  colegiado,  concluiu  i)  não  ter  ocorrido  a  negativa  de  prestação  jurisdicional  por  violação  do  acórdão  recorrido  ao  art.  619  do  CPP,  além  da  ii)  inocorrência  da  inépcia  da  denúncia,  bem  como  pela  iii)  existência  de  justa  causa  para  o  prosseguimento  da  ação  penal  e  que  iv)  alterar  a  conclusão  do  Tribunal  de  origem  acerca  da  suficiência  do  lastro  probatório  a  embasar  a  denúncia,  no  presente  caso,  demandaria  maior  incursão  no  conjunto  fático-probatório  dos  autos.
+4.  Com  efeito,  "o  julgador  não  é  obrigado  a  rebater,  um  a  um,  todos  os  argumentos  das  partes,  bastando  que  resolva  a  situação  que  lhe  é  apresentada  sem  se  omitir  sobre  os  fatores  capazes  de  influir  no  resultado  do  julgamento."  (AgRg  no  AREsp  n.  2.222.222/MT,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  7/2/2023,  DJe  de  13/2/2023).
+5.  Não  se  prestam  os  embargos  de  declaração  para  a  rediscussão  do  aresto  recorrido,  menos  ainda  em  nível  infringente,  revelado  mero  inconformismo  com  o  resultado  do  julgamento.
+6.  Embargos  de  declaração  rejeitados  (EDcl  no  AgRg  no  RHC  n.  170.844/PE,  relator  Ministro  Jesuíno  Rissato  (Desembargador  Convocado  do  TJDFT),  Sexta  Turma,  julgado  em  09/04/2024,  DJe  de  12/04/2024,  grifamos).
+Logo,  os  presentes  embargos  de  declaração  foram  opostos  com  o  inequívoco  intento  de  viabilizar  novos  debates  a  respeito  de  temas  já  decididos,  o  que  sabidamente  não  se  coaduna  com  a  sua  finalidade  integrativa:
+PROCESSUAL  PENAL.  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  EM  HABEAS  CORPUS.  TRÁFICO  DE  ENTORPECENTES.  ASSOCIAÇÃO  PARA  O  TRÁFICO.  OMISSÃO  NÃO  CONFIGURADA.  CONTRADIÇÃO.  NÃO  OCORRÊNCIA.  CONTRAFACTUAL  INTERNO.  REDISCUSSÃO  DO  MÉRITO.  IMPOSSIBILIDADE.
+1.  Nos  termos  do  art.  619  do  Código  de  Processo  Penal,  o  recurso  de  embargos  de  declaração  destina-se  a  suprir  omissão,  afastar  ambiguidade,  esclarecer  obscuridade  ou  eliminar  contradição  existentes  no  julgado,  não  sendo  cabível  para  rediscutir  matéria  já  suficientemente  decidida.
+2.  Percebe-se  que  há  uma  insatisfação  da  parte  quanto  ao  resultado  do  julgamento  e  a  pretensão  de  modificá-lo  por  meio  de  instrumento  processual  nitidamente  inábil  à  finalidade  almejada,  o  que  não  pode  ser  admitido.
+(..).
+4.  Embargos  de  declaração  não  acolhidos  (EDcl  no  RHC  n.  88.642/RS,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  05/05/2020,  DJe  de  11/05/2020).
+Ante  o  exposto,  rejeito  os  embargos  declaratórios.
+É  o  voto.
