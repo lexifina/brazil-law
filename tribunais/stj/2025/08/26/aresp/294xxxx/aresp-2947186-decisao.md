@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da incidência das Súmulas 7/STJ e 284 /STF.
+É o relatório. Decido.
+Inicialmente, verifica-se que, diante da ausência de procuração e/ou cadeia completa de substabelecimento conferindo poderes a quem subscreveu o agravo em recurso especial, devidamente certificada pela Secretaria Judiciária, o agravante foi intimado a regularizar a sua representação processual (e-STJ fl. 863).
+Contudo, da análise dos documentos juntados, vê-se que a parte recorrente apresentou substabelecimento com data posterior à do protocolo do Agravo em RESp, o que impede o conhecimento do referido recurso, tendo em vista que se faz necessário que a outorga de poderes tenha sido realizada em data anterior à sua interposição.
+Nesse sentido, a Súmula 115/STF dispõe que "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+Quanto ao tema, "a jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anter ior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)" (AgInt no AREsp n. 2.426.293/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024 18/3/2025, DJe de 28/2/2024).
+Cite-se, ainda, o seguinte julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL DEFICIENTE. INTIMAÇÃO PARA SANAR O VÍCIO. JUNTADA DE PROCURAÇÃO COM DATA ATUALIZADA. NÃO CABIMENTO. REGULARIZAÇÃO POSTERIOR. INVIABILIDADE. PRECLUSÃO. IRREGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. SÚMULA 115/STJ. PROVIMENTO NEGADO.
+1. Intimada para apresentar procuração ou cadeia completa de substabelecimento conferindo poderes ao advogado que subscreveu o recurso especial, a parte recorrente deixou de atender à diligência, acostando procuração que não evidenciava sua capacidade postulatória no momento da interposição do recurso.
+2. A correção de irregularidade na representação processual depende da juntada de instrumento de mandato com outorga de poderes a quem subscreve o recurso na data da sua interposição ou em data anterior. Incidência da Súmula 115 do Superior Tribunal de Justiça (STJ).
+3. Para o STJ, não é possível a regularização de representação processual após o prazo de 5 dias assinalado no art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, devido à preclusão consumativa. Por mais razão ainda, deve ser reconhecida a incidência da preclusão sobre as alegações trazidas apenas em petições protocoladas após o esgotamento do prazo recursal.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.097.014/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 3/6/2025, DJEN de 11/6/2025, com grifos nossos.)
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. PODERES OUTORGADOS EM DATA POSTERIOR À INTERPOSIÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA 115/STJ. AGRAVO NÃO CONHECIDO.
