@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por JEAN MARCOS SILVA contra  acórdão  prolatado  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Originalmente, o recorrente foi condenado como incurso no art. 121, § 2º, incisos I e IV, do Código Penal à pena de 14 (catorze) anos de reclusão, em regime inicial fechado (fls. 28-58).
+O Tribunal de origem, por maioria, julgou improcedente a revisão criminal (fls. 209-236).
+Nas  razões  do  recurso  especial (fls. 251-274),  interposto  com  fundamento  no  art.  105,  inciso  III,  alínea  s "a" e "c",  da  Constituição  da  República,  a  parte  recorrente  sustenta  a violação aos arts. 155 e 593, inciso III, alínea "d", ambos do Código de Processo Penal e ao arts. 59, 63 e 68, todos do Código Penal. Requer,  por  fim,  o conhecimento e o provimento do recurso a fim de que o recorrente seja absolvido e, subsidiariamente, postula o afastamento da agravante da reincidência.
+Apresentadas as contrarrazões (fls. 278-625), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior (fls. 291-293).
+O Ministério Público Federal apresentou  manifestação  pelo  desprovimento do  recurso  especial  (fls.  307-314).
+É  o  relatório. DECIDO.
+Conforme relatado, nas razões do recurso especial, a Defesa pleiteia, em síntese, a absolvição do recorrente, uma vez que a condenação teria se dado de forma contrária à prova dos autos e, subsidiariamente, requer o afastamento da atenuante da reincidência, tendo em vista que a condenação anterior se deu pelo art. 28, caput, da Lei n. 11.343/2006.
+Entretanto, a despeito dos judiciosos argumentos apresentados pelo recorrente, tenho que o recurso especial merece parcial conhecimento.
+Inicialmente, quanto à interposição com fulcro na alínea "c" do inciso III do art. 105 da Constituição Federal, há insuficiência de fundamentação.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIFAMAÇÃO. REJEIÇÃO DA QUEIXA-CRIME. AUSÊNCIA DE DOLO ESPECÍFICO. FALTA DE JUSTA CAUSA PARA A AÇÃO PENAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DESPROVIMENTO DO RECURSO.  ..
+6. O recorrente não demonstrou adequadamente o dissídio jurisprudencial, limitando-se à mera transcrição de ementas, sem apresentar cotejo analítico entre o acórdão recorrido e o paradigma, em desacordo com os requisitos exigidos para a admissibilidade do recurso especial.
+7. A falta de indicação expressa do dispositivo legal objeto do suposto dissídio interpretativo inviabiliza o conhecimento do recurso especial com fundamento na alínea "c" do art. 105, III, da Constituição Federal, conforme entendimento consolidado do STJ e aplicação, por analogia, da Súmula 284/STF.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.  ..
+(III) A demonstração do dissídio jurisprudencial exige cotejo analítico entre os acórdãos comparados, não sendo suficiente a mera transcrição de ementas.
+(IV) O recurso especial fundado na alínea "c" do permissivo constitucional deve indicar expressamente o dispositivo legal objeto da divergência interpretativa, sob pena de inadmissibilidade.  ..  (AgRg no AREsp n. 2.567.162/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.)
+Presente, portanto, o óbice da Súmula n. 284, STF, por analogia.
+No mais, para delimitar a controvérsia no tocante ao pleito de absolvição, colaciono os fundamentos utilizados pelo Tribunal de origem para afastar a hipótese de decisão contrária às provas dos autos (fl. 225):
+Ressai evidente que as provas produzidas no curso da Ação Penal deram respaldo à conclusão condenatória final lançada pelo Conselho de Sentença.
+E mais, não é possível se desconsiderar que em julgamento perante o Tribunal do Júri aos jurados são apresentadas diversas teses, podendo cada um deles optar pela que entender correta, não podendo a decisão ser alterada pela simples alegação de que ela seja contrária às provas dos autos.
+O fato de concretamente a Defesa não se conformar com a escolha condenatória efetivada pelos senhores jurados não implica cassação da decisão ou a declaração da absolvição.
+Conforme se depreende  dos  excertos  acima  colacionados,  o  Tribunal  de  origem  declinou, a partir de análise motivada do caderno processual, as  razões  pelas  quais  concluiu  que  os pleitos recursais não mereciam guarida.
+A revisão dos fundamentos acima elencados, para se concluir de modo diverso, como pretende a Defesa, demandaria  profundo  revolvimento  do  material  fático-probatório  dos  autos,  procedimento  inviável  na via eleita pelo insurgente, pois é assente  nesta  Corte  Superior de Justiça que  as  premissas  fáticas  firmadas  nas  instâncias  ordinárias  não  podem  ser  modificadas  no  âmbito  do recurso especial,  nos  termos  da  Súmula  n.  7, STJ,  segundo  a  qual  "a  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial."
+No mesmo sentido: "É inviável a reavaliação da suficiência de provas na via do recurso especial, nos termos da Súmula 7/STJ." (AgRg no AREsp n. 2.861.613/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+No que toca ao pedido de afastamento da agravante da reincidência, em função de haver condenação anterior pela conduta prevista no art. 28 da Lei n. 11.343/2006, entendo que a matéria deve ser conhecida; porém, no mérito, o recurso deve ser improvido.
+De fato, ainda que a atual jurisprudência entenda que a condenação anterior pelo art. 28 da Lei n. 11.343/2006 não tenha o condão de configurar reincidência, torna-se impossível, em sede da estreita via da revisão criminal, modificar o quantum da reprimenda.
+Entre as matérias suscitadoras da revisão criminal não se encontra a superveniente modificação da jurisprudência.
+Logo, o recurso especial não merece provimento, tendo em conta que se fundamenta em matéria inadmissível de ser ventilada na via eleita.
+Nesse sentido, a jurisprudência do STJ:
+DIREITO PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. ART. 12, CAPUT, DA LEI N. 10.826/2003. NULIDADE BUSCA. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. AUSÊNCIA DE PROVAS NOVAS. APLICAÇÃO RETROATIVA DE NOVO ENTEDIMENTO JURISPRUDENCIAL. IMPOSSIBILIDADE. PRETENSÃO ABSOLUTÓRIA. ALEGADA ATIPICIDADE DA CONDUTA. REDUZIDA QUANTIDADE DE MUNIÇÕES. DESACOMPANHADAS DE ARMA DE FOGO. APREENSÃO NO CONTEXTO DE OUTRO CRIME. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. BENEFÍCIO DO ARTIGO 33, § 4º, DA LEI N. 11.343/2006. INCIDÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME  ..
+5. O STJ consolidou o entendimento de que a mudança de orientação jurisprudencial não constitui fundamento idôneo para a propositura de revisão criminal, em respeito à segurança jurídica e ao princípio tempus regit actum.  ..  (AgRg no AREsp n. 2.824.444/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+Dessa feita, estando o acórdão prolatado pelo Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568, STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, conheço parcialmente do recurso especial e, na parte conhecida, nego-lhe provimento, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
