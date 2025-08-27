@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interno contra decisão de minha lavra (fls. 667-669) que conheceu do agravo para negar provimento ao recurso especial interposto pela ora recorrente.
+O Tribunal de origem negou provimento à Apelação n. 5032513-46.2022.4.04.7200/SC, em acórdão assim ementado (fl. 541):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. MENOR APRENDIZ. CONTRIBUINTE OBRIGATÓRIO NA CATEGORIA DE EMPREGADO.
+1. O menor aprendiz, apesar de possuir contrato especial de trabalho, é considerado segurado obrigatório na categoria de empregado para efeito da incidência da contribuição previdenciária.
+2. O contrato especial firmado pelo empregador com o aprendiz não se confunde com o contrato com o menor assistido, regulado pelo Decreto-Lei nº 2.318 /86.
+3. O art. 6º, II, da IN nº 971/09, e o art. 5º, II, da IN nº 2.110/22, ao disporem que o aprendiz, maior de 14 anos e menor de 24 anos, deve contribuir na qualidade de segurado empregado, mantiveram-se contidos pelo balizamento legal.
+Nas razões do apelo nobre, a parte recorrente alega ofensa ao art. 4.º, § 4.º, do Decreto-Lei n. 2.318/1986.
+Aduz, em síntese, que "é notório que não há qualquer distinção entre "menor assistido" e "menor aprendiz", sendo ambos programas vinculados aos mesmos propósitos e regras MUITO parecidas (com a diferença de que um é a evolução e a recepção constitucional do outro) " (fl. 557).
+Sustenta que "deve ser modificado v. Acórdão que não reconheceu a não incidência de contribuição previdenciária e a terceiros sobre os valores pagos aos menores aprendizes, devendo ser provido o presente Recurso Especial" (fl. 566).
+Contrarrazões às fls. 598-607.
+O recurso especial não foi admitido (fls. 612-615).
+Agravo em recurso especial às fls. 626-637.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 661-664).
+Na decisão de fls. 667-669, conheci do agravo para negar provimento ao recurso especial.
+Neste agravo interno, a parte agravante alega que o apelo nobre deve "ser provido para reconhecer o direito de a agravante não efetuar o recolhimento da Contribuição Social sobre a Folha de Salários, da Contribuição ao RAT/SAT e das Contribuições devidas a Terceiros sobre os valores pagos aos menores na condição especial de aprendiz" (fl. 683).
+Não foi apresentada resposta ao recurso.
+É o relatório.
+Decido.
+Sobre a questão controvertida nestes autos, a Primeira Seção deste Tribunal Superior decidiu afetar os REsp n. 2.191.479 e 2.191.694 à sistemática dos recursos repetitivos (Tema n. 1342), com o fim de definir:
+ ..  se a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal, inclusive as adicionais Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e as contribuições a terceiros.
+Outrossim, há determinação de suspensão "de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ".
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+No mesmo sentido, v.g.:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA AFETADA. TEMA 1.305/STJ. SOBRESTAMENTO DO PROCESSO ATÉ O EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO. RECURSO ACOLHIDO.
+1. A questão debatida nos autos, qual seja, "definir: a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS; b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.305/STJ), dos Recursos Especiais 2.176.897/DF, 2.176.896/DF e 2.184.221/DF, relatora Ministra Regina Helena Costa. Na ocasião, foi determinada a suspensão do trâmite de todos os processos pendentes que tenham por objeto a matéria jurídica afetada, nos termos do art. 1.037, II, do Código de Processo Civil (CPC).
+2. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores e determinar a devolução dos autos à origem com a devida baixa, para que, após a publicação do acórdão dos recursos excepcionais representativos da controvérsia, o Tribunal local proceda nos termos do art. 1.040 e seguinte do CPC.
+(EDcl no AgInt no AgInt no AREsp n. 1.696.293/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, RECONSIDERO a decisão agravada, tornando-a sem efeito, para JULGAR PREJUDICADO o agravo em recurso especial e, com fundamento no art. 256-L, inciso I, do RISTJ, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1342 do STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. MENOR APRENDIZ. CONTROVÉRSIA AFETADA PARA JULGAMENTO SOB O RITO DOS REPETITIVOS. TEMA N. 1342 DO STJ. DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS . DECISÃO AGRAVADA RECONSIDERADA PARA, TORNANDO-A SEM EFEITO, JULGAR PREJUDICADA A ANÁLISE DO RECURSO, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
