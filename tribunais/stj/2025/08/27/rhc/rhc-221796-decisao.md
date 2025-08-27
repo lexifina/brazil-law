@@ -1,0 +1,23 @@
+DECISÃO
+Guilherme Meireles Correa interpõe recurso ordinário contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais, que denegou o Habeas Corpus n. 1.0000.25.201312-3/000, assim ementado (fl. 219):
+HABEAS CORPUS CRIMINAL - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - PRESENÇA DOS PRESSUPOSTOS DOS ARTIGOS 312 E 313, INCISO I, DO CPP - GARANTIA DA ORDEM PÚBLICA - PACIENTE REINCIDENTE ESPECÍFICO - RISCO DE REITERAÇÃO DELITIVA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+- Demonstrada a existência de indícios de autoria e materialidade delitivas, a prisão preventiva deve ser decretada, nos termos do artigo 312 do CPP, se houver necessidade cautelar.
+- A garantia da ordem pública tem a finalidade de impedir que o agente solto continue a delinquir, acautelando-se, pois, o meio social.
+- Considerando a existência de denúncia anônima anterior à prisão em flagrante do paciente, bem como a quantidade de drogas apreendidas, a saber, 78 pinos de cocaína, com massa de 84,41g, e 07 buchas de maconha, com massa de 46,83g, além da quantia de R$ 600,00 (seiscentos reais) em notas pequenas, resta evidenciada a necessidade da prisão preventiva do paciente para a garantia da ordem pública.
+- Tendo em vista que o paciente é reincidente específico, ostentando condenações transitadas em julgado pelo crime de tráfico de drogas e receptação, é necessária a manutenção da sua prisão preventiva para evitar o risco de reiteração delitiva.
+- Ordem denegada.
+Consta dos autos que o recorrente foi preso em flagrante pela suposta prática do tráfico de drogas, conforme o art. 33, caput, da Lei n. 11.343/2006.
+Alega ser usuário de drogas e que estava no local para comprar maconha, sendo surpreendido pela polícia que lhe imputou a propriedade da droga apreendida. Argumenta que a decisão de converter sua prisão em flagrante em preventiva carece de fundamentação adequada, violando o art. 5º, LXVIII, da Constituição Federal, que autoriza a concessão de habeas corpus em casos de coação ilegal.
+Destaca que a Constituição Federal, em seu art. 93, IX, exige que todas as decisões judiciais sejam fundamentadas, sob pena de nulidade, reforçado pelo art. 315 do Código de Processo Penal, que determina que a decisão de prisão preventiva deve ser motivada e fundamentada com base em fatos concretos.
+O recorrente cita jurisprudência do Superior Tribunal de Justiça, que estabelece que afirmações de periculosidade abstrata, sem atos concretos, não justificam a prisão preventiva. Defende que a prisão preventiva deve ser exceção, sendo necessária apenas quando demonstrada sua indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal.
+Sustenta que a prisão preventiva não é a única medida possível, podendo ser substituída por outras medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Requer a concessão da ordem para expedição de alvará de soltura, permitindo que aguarde o julgamento do processo em liberdade, com a possibilidade de aplicação de medidas cautelares alternativas.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado encontra-se fundamentada no fato de que é reincidente específico, ostentando condenações transitadas em julgado pelo crime de tráfico de drogas e receptação, sendo necessária a manutenção da sua prisão preventiva para evitar o risco de reiteração delitiva.
+Como se vê, a imposição da prisão preventiva encontra-se adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais, registrando condenações extintas, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Em face do exposto, com fulcro no art. 210 do RISTJ, nego provimento ao recurso ordinário.
+Publiqu e-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso ordinário improvido.
