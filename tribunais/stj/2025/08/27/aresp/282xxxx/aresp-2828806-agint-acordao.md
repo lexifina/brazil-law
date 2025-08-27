@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ERRO MÉDICO. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL. DANO MORAL. PRETENSÕES RECURSAIS QUE DEMANDAM O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É firme no âmbito desta Corte Superior o entendimento no sentido de que os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias.
+2. O julgamento da causa sem a produção da prova solicitada pela parte não é capaz de atrair a pecha de nulidade por cerceamento de defesa quando o julgador entender que o feito encontra-se devidamente instruído, estando presentes os elementos suficientes à formação do convencimento.
+3. A revisão das conclusões do acórdão recorrido acerca da ausência do alegado cerceamento de defesa e do dano moral demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MAÍSA LOPES DA SILVA contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 1.082):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ERRO MÉDICO. APELAÇÃO CÍVEL. 1. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL. 2. DANO MORAL. 3. PRETENSÕES RECURSAIS QUE DEMANDAM O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 1.090-1.103), a agravante argumenta que a decisão monocrática (e-STJ, fls. 1.082-1.086) não deu o devido desfecho ao presente caso. Para tanto, alega a inaplicabilidade da Súmula n. 7/STJ, pois a controvérsia não demanda a reanalise do acervo fático-probatório, mas sim o exame da questão jurídica.
+Reitera, no mais, os argumentos do apelo especial.
+Requer, por fim, a reconsideração da decisão monocrática.
+Não foram apresentadas as impugnações.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ERRO MÉDICO. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL. DANO MORAL. PRETENSÕES RECURSAIS QUE DEMANDAM O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É firme no âmbito desta Corte Superior o entendimento no sentido de que os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias.
+2. O julgamento da causa sem a produção da prova solicitada pela parte não é capaz de atrair a pecha de nulidade por cerceamento de defesa quando o julgador entender que o feito encontra-se devidamente instruído, estando presentes os elementos suficientes à formação do convencimento.
+3. A revisão das conclusões do acórdão recorrido acerca da ausência do alegado cerceamento de defesa e do dano moral demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela agravante não são capazes de ilidir as conclusões da deliberação unipessoal.
+Conforme-se extrai da análise dos autos, o recurso especial outrora interposto pela ora agravante apresentou duas teses para a apreciação deste Superior Tribunal, quais sejam, o cerceamento de defesa e a existência do dano moral.
+Quanto ao cerceamento de defesa, é firme no âmbito desta Corte Superior o entendimento no sentido de que os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias.
+Nessa perspectiva, o julgamento da causa sem a produção da prova solicitada pela parte não é capaz de atrair a pecha de nulidade por cerceamento de defesa quando o julgador entender que o feito encontra-se devidamente instruído, estando presentes os elementos suficientes à formação do convencimento.
+Na hipótese dos autos, a Corte de origem, à luz das provas dos autos, afastou a tese de cerceamento de defesa por entender que a prova técnica pericial consistia no meio apto para demonstrar o ou não a existência do alegado erro médico. Pontuou, ainda, que a prova oral pleiteada não poderia desconstituir a validade do laudo pericial.
+Veja-se (e-STJ, fls. 918-920):
+Em primeiro lugar, não há cerceamento de defesa pela ausência de produção de prova oral. A prova técnica pericial é o meio apto a demonstrar ou não a existência de erro médico e, deste modo, a produção de prova pericial era meio suficiente para que o julgador pudesse formar o seu convencimento motivado.
+Nestes casos, assim entende este E. Tribunal de Justiça de São Paulo e esta Colenda 4ª Câmara de Direito Público, a saber:
+ ..
+A prova oral, desta maneira, não poderia desconstituir a validade do laudo pericial formado que, como se verá abaixo, é hígido, tornando-se meio apto a balizar a formação do convencimento do julgador. A prova de ter sido orientada ou não sobre a possibilidade de fratura oculta não é necessária, mesmo porque, como se verá na análise do mérito, não houve dano a justificar o arbitramento da indenização de dano moral ou de lucros cessantes.
+À vista disso, não há como afastar a incidência da Súmula n. 7/STJ, porquanto a adoção de entendimento diverso sobre a inexistência do cerceamento de defesa demandaria a incursão ao acervo fático-probatório, medida indevida na esfera especial.
+Ilustrativamente (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ALEGADO CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. LABOR RURAL ANTES DE 12 (DOZE) ANOS DE IDADE NÃO RECONHECIDO PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE NA VIA ESPECIAL. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. A Corte a quo concluiu, quanto à alegada tese de cerceamento de defesa, que o juízo de primeiro grau possibilitou a produção de prova testemunhal e documental, tendo apenas alcançado conclusão diversa dos interesses da parte agravante. Assim, a pretensão de reavaliar a necessidade ou suficiência das provas produzidas demandaria indevida incursão no acervo fático-probatório, obstada na via especial pela Súmula n. 7 do STJ.
+2. Registra-se que " a  jurisprudência desta Corte Superior é assente no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento" (AgInt no AREsp n. 2.120.272/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.).
+3. Segundo entendimento desta Corte Superior, a existência de óbice processual impedindo o conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do mesmo tema. Nesse sentido:
+AgInt no AREsp n. 2.370.268/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023; AgInt no REsp n. 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.578.737/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Idêntico tratamento deve ser dado à tese do dano moral.
+Isso porque a Corte de origem, apreciando as provas dos autos, não acolheu a tese do dano moral em razão da adequação da conduta adotada ao momento pela UPA do Jaçanã e da ausência de conduta médica incorreta na referida unidade de saúde.
+Confira-se (e-STJ, fls. 925-927):
+Conforme antedito, alega a autora que a responsabilidade da demandada decorre da negligência em realizar os exames corretos e dar o seu exato diagnóstico, colocando sua vida em risco. O laudo pericial, entretanto, foi conclusivo em afirmar que a conduta adotada pela UPA do Jaçanã foi àquela devida naquele momento. Veja-se (fls. 721/724):
+ ..
+Desta forma, conforme constatado pela perícia, a conduta médica adotada foi a adequada àquele momento, não sendo observado nenhum desvio no raio x de quadril a justificar uma conduta diversa da UPA do Jaçanã. E, mesmo assim não fosse, em relação ao pedido de arbitramento de indenização por danos morais ou pagamento de lucros cessantes, faltariam elementos para a condenação dos réus.
+Em relação à indenização por danos morais, importante salientar que se deve diferenciar a dor e angústia advinda do acidente automobilístico em si, com as escoriações e fratura posteriormente descoberta, da eventual dor e angústia dos exames realizados na UPA do Jaçanã e do diagnóstico lá informado. E, além de não ter havido houve conduta médica incorreta, como acima delineado, confere-se que a autora foi atendida na UPA do Jaçanã no dia 18/11/2020 e, no dia posterior, 19/11/2020, procurou atendimento no hospital de Guarulhos, tendo ali descoberto a fratura no acetábulo. Ou seja, não poderia exsurgir da ordem dos fatos por si só a existência de dano moral apenas por não ter sido constatado no dia 18/11/2020 a referida fratura, mesmo porque no dia seguinte foi descoberta a fratura e devidamente tratada. A indenização por dano moral exige a caracterização de lesão à integridade psíquica ou outro direito da personalidade, o que não ficou demonstrado no presente caso. A autora, como bem constatou a perícia, foi tratada com a prática médica usual, não se cogitando de conduta indevida pelos réus.
+Nesse ponto, é inviável o afastamento do enunciado da Súmula n. 7/STJ, pois a revisão do julgado quanto à conclusão alcançada pela Corte de origem sobre a inexistência do dano moral importa, necessariamente, o reexame de provas, o que é vedado em âmbito de recurso especial.
+Tendo em vista, então, que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
