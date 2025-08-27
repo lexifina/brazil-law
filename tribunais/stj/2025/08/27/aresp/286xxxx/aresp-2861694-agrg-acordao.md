@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇ ÕES. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, fundamentando-se na impossibilidade de reexame do conjunto fático-probatório, conforme Súmula 7 do STJ, e na adequação da dosimetria da pena, considerando a culpabilidade e as consequências do crime.
+2. O agravante foi condenado pelo delito de inserção de dados falsos em sistema de informações, previsto no art. 313-A do Código Penal. A defesa alegou violação aos artigos 156, 381, III, e 386, VII, do Código de Processo Penal, além do art. 59 do Código Penal, e requereu a absolvição pela inexistência de prova do dolo, ou, subsidiariamente, o afastamento da valoração negativa das circunstâncias judiciais por ocorrência de bis in idem.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a condenação do agravante por inserção de dados falsos em sistema de informações pode ser mantida diante da alegação de insuficiência de provas e se a dosimetria da pena importou em bis in idem.
+III. Razões de decidir
+4. A decisão agravada aplicou corretamente a Súmula 7 do STJ, ao não admitir a rediscussão de provas, uma vez que a materialidade, autoria e dolo foram comprovados por meio de provas documentais e depoimentos.
+5. A exasperação da pena-base, quanto à culpabilidade, não configura bis in idem, pois foi fundamentada na sofisticada premeditação da empreitada delitiva e nas consequências do crime, que extrapolam o mero prejuízo ao erário.
+6. A decisão recorrida demonstrou que a fixação da pena foi justa e proporcional, fundamentando o seu aumento em elementos concretos que extrapolam as elementares do tipo penal.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A Súmula 7 do STJ impede o reexame de provas em recurso especial. 2. A exasperação da pena-base pode ser fundamentada em elementos concretos que extrapolem as elementares do tipo penal, sem configurar bis in idem".
+Dispositivos relevantes citados: CP, art. 313-A; CPP, arts. 156, 381, III, 386, VII; CP, art. 59.
+Jurisprudência relevante citada: STJ, Súmula 7.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Hamilton Bernardes contra decisão que negou provimento ao recurso especial. A decisão recorrida fundamentou-se na impossibilidade de reexame do conjunto fático-probatório, conforme Súmula 7 do STJ, e na adequação da dosimetria da pena, considerando a culpabilidade e as consequências do crime (e-STJ fls. 1679-1689).
+O recorrente alegou insuficiência de provas para a condenação, argumentando que a condenação se baseou em suposições e que não há prova concreta de que o réu tenha inserido dados falsos no sistema do INSS. Sustentou que a utilização de sua senha não é prova cabal de autoria e que as senhas eram trocadas entre servidores. Ademais, afirmou que nenhum dos beneficiários o apontou como responsável pela obtenção do benefício fraudulento.
+Quanto à dosimetria da pena, o recorrente argumentou que a valoração negativa da culpabilidade e das consequências do crime configura bis in idem, pois não há dados concretos que justifiquem a exasperação da pena. Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma, a fim de que seja conhecido o recurso especial e acolhida a pretensão de absolvição ante a insuficiência da prova para a condenação, ou, subsidiariamente, o redimensionamento da pena-base no mínimo legal, afastando-se a valoração negativa das circunstâncias judiciais.
+O Ministério Público Federal destacou que a pretensão de reforma do acórdão recorrido exigiria o reexame do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ. Além disso, argumentou que a dosimetria da pena foi devidamente fundamentada com base em dados concretos, considerando a sofisticada premeditação da empreitada delitiva e os prejuízos sistêmicos causados, que extrapolam o mero prejuízo ao erário, afetando a credibilidade e a sustentabilidade do sistema previdenciário (fls. 1726-1730).
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇ ÕES. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, fundamentando-se na impossibilidade de reexame do conjunto fático-probatório, conforme Súmula 7 do STJ, e na adequação da dosimetria da pena, considerando a culpabilidade e as consequências do crime.
+2. O agravante foi condenado pelo delito de inserção de dados falsos em sistema de informações, previsto no art. 313-A do Código Penal. A defesa alegou violação aos artigos 156, 381, III, e 386, VII, do Código de Processo Penal, além do art. 59 do Código Penal, e requereu a absolvição pela inexistência de prova do dolo, ou, subsidiariamente, o afastamento da valoração negativa das circunstâncias judiciais por ocorrência de bis in idem.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a condenação do agravante por inserção de dados falsos em sistema de informações pode ser mantida diante da alegação de insuficiência de provas e se a dosimetria da pena importou em bis in idem.
+III. Razões de decidir
+4. A decisão agravada aplicou corretamente a Súmula 7 do STJ, ao não admitir a rediscussão de provas, uma vez que a materialidade, autoria e dolo foram comprovados por meio de provas documentais e depoimentos.
+5. A exasperação da pena-base, quanto à culpabilidade, não configura bis in idem, pois foi fundamentada na sofisticada premeditação da empreitada delitiva e nas consequências do crime, que extrapolam o mero prejuízo ao erário.
+6. A decisão recorrida demonstrou que a fixação da pena foi justa e proporcional, fundamentando o seu aumento em elementos concretos que extrapolam as elementares do tipo penal.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A Súmula 7 do STJ impede o reexame de provas em recurso especial. 2. A exasperação da pena-base pode ser fundamentada em elementos concretos que extrapolem as elementares do tipo penal, sem configurar bis in idem".
+Dispositivos relevantes citados: CP, art. 313-A; CPP, arts. 156, 381, III, 386, VII; CP, art. 59.
+Jurisprudência relevante citada: STJ, Súmula 7.
+VOTO
+A decisão agravada está assim fundamentada (e-STJ fls. 1681-1689):
+O agravante foi condenado pelo delito de inserção de dados falsos em sistema de informações, previsto no art. 313-A do Código Penal. A defesa alega violação aos artigos 156, 381, III, e 386, VII, do Código de Processo Penal, além do art. 59 do Código Penal, e requereu a absolvição do agravante pela inexistência de prova do dolo, e subsidiariamente, requer o afastamento da valoração negativa das circunstâncias judiciais por ocorrência de bis in idem.
+Quanto à alegação de ausência de provas, a jurisprudência desta Corte é firme no sentido de que o recurso especial não se presta à reapreciação de elementos fático-probatórios, devendo o recorrente delimitar com precisão os contornos jurídicos da tese invocada e demonstrar que sua análise prescinde de nova incursão nos fatos da causa, partindo das premissas fáticas já estabelecidas pelo acórdão recorrido.
+Para que o recurso especial ultrapasse o óbice previsto na Súmula n. 7 do STJ, é necessário que a controvérsia jurídica possa ser resolvida com base nas premissas fáticas já fixadas pelas instâncias ordinárias, sem necessidade de reexame do conjunto probatório. Alegações genéricas de ofensa à norma federal, dissociadas de uma demonstração clara de que os fatos relevantes para o deslinde da controvérsia estão devidamente consolidados no acórdão recorrido, não afastam a incidência da referida súmula.
+Ou seja, deve haver demonstração que a controvérsia se restringe à interpretação jurídica de normas; explicar que não há necessidade de revolvimento da moldura fática definida pelas instâncias ordinárias; e indicar precisamente quais premissas fáticas são imutáveis. Não basta alegar genericamente que a análise é jurídica ou interpretativa.
+No caso, o agravante sustenta que houve insuficiência de provas para a condenação, argumenta que a condenação se baseou em suposições e que não há prova concreta de que o réu tenha inserido dados falsos no sistema do INSS.
+Já a decisão recorrida pelo recurso especial, assentou que a materialidade, autoria e dolo foram comprovados por meio de provas documentais e depoimentos, destacando que o réu agiu para a concessão fraudulenta de benefícios previdenciários, conforme fundamentação do acórdão recorrido (e-STJ fls. 1390-1398).
+O acórdão recorrido destacou que a atuação do recorrente foi demonstrada por meio de robusta prova documental, notadamente os relatórios de auditoria do sistema do INSS, que registraram o uso de seu login de servidor autorizado para realizar as inserções fraudulentas que resultaram na concessão de benefícios previdenciários indevidos (..)
+Nessa questão, as instâncias ordinárias são soberanas na avaliação dos fatos e das provas e chegar à conclusão diversa daquela encontrada na origem demandaria reexame de fatos e provas. Logo, a decisão das instâncias ordinárias no sentido de que a autoria e materialidade delitivas estão comprovadas é insuscetível de modificação nesta Corte.
+O recorrente busca, na verdade, rediscutir a avaliação das provas realizadas pelas instâncias ordinárias, ao alegar insuficiência de provas. No entanto, a decisão recorrida já estabeleceu que as provas documentais e testemunhais são suficientes para comprovar a autoria e o dolo do réu. A tentativa de desqualificar essas provas implica em reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+Dessa forma, constata-se que o recurso especial, quanto ao pedido de absolvição por ausência de provas, veicula pretensão que pressupõe o reexame do conjunto fático-probatório fixado pelas instâncias ordinárias, o que atrai, de forma inequívoca, a incidência do enunciado da Súmula n. 7 do STJ.
+(..)
+Dessa forma, constata-se que o recurso especial, quanto ao pedido de absolvição pela suposta ausência de provas, veicula pretensão que pressupõe o reexame do conjunto fático-probatório fixado pelas instâncias ordinárias, o que atrai, de forma inequívoca, a incidência do enunciado da Súmula n. 7 do STJ.
+Quanto ao argumento de na dosimetria da pena, a decisão bis in idem recorrida assim justificou a exasperação da pena (fls. 1397):
+(..)
+A exasperação da pena-base, quanto à culpabilidade, não configura bis in idem. O Tribunal de origem fundamentou o desvalor da referida circunstância na "sofisticada premeditação da empreitada delitiva " (e-STJ fl. 1397), considerando a complexa "teia de fraudes que envolveram o delito" (e-STJ fl. 1392). Tal fundamentação não se confunde com os elementos intrínsecos ao tipo penal pois evidencia um maior grau de reprovabilidade da conduta, que extrapolou a mera inserção de dados falsos para se organizar em um esquema criminoso complexo e estruturado, o que denota planejamento e audácia superiores ao comum para o delito.
+De igual modo, a valoração negativa das consequências do crime foi devidamente justificada e não se mostra inerente ao tipo penal. O acórdão ressaltou que a conduta causou " prejuízos sistêmicos " e potencial de comprometer " a concessão de benefícios previdenciários às gerações futuras" (e-STJ fl. 1396), além de gerar "repercussão negativa das condutas criminosas na imagem da Administração Pública, mais especificamente da Previdência Social Brasileira" (e-STJ fl. 1397). Tais fundamentos extrapolam o mero prejuízo ao erário, para alcançar um dano à credibilidade e à sustentabilidade do sistema previdenciário como um todo.
+Verifica-se que a decisão está correta ao negar o recurso, pois aplicou a jurisprudência consolidada do STJ (Súmula 7) ao não admitir a rediscussão de provas. Além disso, demonstrou que a fixação da pena foi proporcional, fundamentando o seu aumento em elementos concretos que extrapolam as elementares do tipo penal, afastando-se a alegação de bis in idem.
+Por isso, conclui-se que o recurso deixa de apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado. Em suma, a decisão agravada deve ser mantida por seus próprios fundamentos, razão pela qual nego provimento ao agravo regimental.
+É o voto.
