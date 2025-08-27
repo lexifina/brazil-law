@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito PROCESSUAL penal. Agravo regimental NO HABEAS CORPUS. Tráfico de drogas. Busca PESSOAL E domiciliar. FUNDADAS RAZÕES. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, mantendo a condenação por tráfico de drogas. A defesa alega que a condenação se baseou em prova obtida por busca domiciliar ilegal.
+2. O Tribunal de origem refutou a tese de violação de domicílio, afirmando que a busca domiciliar foi justificada por flagrante delito, após apreensão de drogas em posse do agravante em via pública e confissão de armazenamento de entorpecentes em sua residência.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca domiciliar sem mandado judicial foi justificada por fundadas razões de flagrante delito, conforme exigido pelo Supremo Tribunal Federal no RE n. 603.616 (Tema 280/STF).
+4. A defesa questiona a validade da busca domiciliar, alegando ausência de apreensão de drogas na revista pessoal e falta de documentação da autorização do morador para a entrada dos policiais.
+III. Razões de decidir
+5. A decisão impugnada foi mantida com base na existência de fundadas razões para a busca domiciliar, considerando a apreensão de drogas em posse do agravante em via pública, em local próximo a sua residência, e sua confissão de armazenamento de entorpecentes em sua residência.
+6. A tentativa de fuga do agravante ao receber ordem de parada dos policiais reforçou a justificativa para a busca domiciliar sem mandado judicial.
+7. A alegação de ausência de apreensão de drogas na revista pessoal não foi aceita, pois demandaria reexame do conteúdo fático probatório, o que é inadmissível na via eleita.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "A busca domiciliar sem mandado judicial é válida quando há fundadas razões de flagrante delito."
+Dispositivos relevantes citados: CR/1988, art. 5º, XI.
+Jurisprudência relevante citada: STF, RE 603.616, Rel. Min. Gilmar Mendes, julgado em 05.11.2015; STJ, AgRg no HC 953.426/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 26.02.2025; STJ, AgRg no HC 857.177/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14.05.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EVERTON SANTANA DE JESUS (ou EVERTON DE JESUS NASCIMENTO) de decisão na qual não conheci do habeas corpus - mantida a condenação pelo delito de tráfico de drogas.
+A defesa insiste na tese de que a condenação do agravante se lastreou unicamente na prova colhida por meio de busca domiciliar ilegal.
+Pontua que "o auto de apreensão somente faz menção à apreensão de 23 papelotes de cocaína, o que leva a concluir que nada foi apreendido na revista pessoal ou que a quantidade apreendida na residência foi menor, devendo-se, na dúvida, adotar a interpretação mais favorável ao réu, no sentido de que nada foi apreendido na revista pessoal."
+Reafirma a flagrante ilegalidade na busca domiciliar dado que: "a) a confissão informal e não documentada não autoriza a busca domiciliar com dispensa de mandado, notadamente quando inexiste nexo de causalidade entre a alega apreensão em via pública e a dispensa de mandado; b) inexiste documentação da alegada autorização do morador; e c) a apreensão ulterior de entorpecente não convalida o ato ilegal."
+Requer a reconsideração da decisão impugnada a fim de que o réu seja absolvido, diante da invalidade do conjunto probatório.
+É o relatório.
+EMENTA
+Direito PROCESSUAL penal. Agravo regimental NO HABEAS CORPUS. Tráfico de drogas. Busca PESSOAL E domiciliar. FUNDADAS RAZÕES. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, mantendo a condenação por tráfico de drogas. A defesa alega que a condenação se baseou em prova obtida por busca domiciliar ilegal.
+2. O Tribunal de origem refutou a tese de violação de domicílio, afirmando que a busca domiciliar foi justificada por flagrante delito, após apreensão de drogas em posse do agravante em via pública e confissão de armazenamento de entorpecentes em sua residência.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca domiciliar sem mandado judicial foi justificada por fundadas razões de flagrante delito, conforme exigido pelo Supremo Tribunal Federal no RE n. 603.616 (Tema 280/STF).
+4. A defesa questiona a validade da busca domiciliar, alegando ausência de apreensão de drogas na revista pessoal e falta de documentação da autorização do morador para a entrada dos policiais.
+III. Razões de decidir
+5. A decisão impugnada foi mantida com base na existência de fundadas razões para a busca domiciliar, considerando a apreensão de drogas em posse do agravante em via pública, em local próximo a sua residência, e sua confissão de armazenamento de entorpecentes em sua residência.
+6. A tentativa de fuga do agravante ao receber ordem de parada dos policiais reforçou a justificativa para a busca domiciliar sem mandado judicial.
+7. A alegação de ausência de apreensão de drogas na revista pessoal não foi aceita, pois demandaria reexame do conteúdo fático probatório, o que é inadmissível na via eleita.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "A busca domiciliar sem mandado judicial é válida quando há fundadas razões de flagrante delito."
+Dispositivos relevantes citados: CR/1988, art. 5º, XI.
+Jurisprudência relevante citada: STF, RE 603.616, Rel. Min. Gilmar Mendes, julgado em 05.11.2015; STJ, AgRg no HC 953.426/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 26.02.2025; STJ, AgRg no HC 857.177/GO, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14.05.2024.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+O Pleno do Supremo Tribunal Federal, no exame do RE n. 603.616 (Tema 280/STF), reconhecido como de repercussão geral, assentou que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados" (Rel. Ministro GILMAR MENDES, julgado em 5/11/2015).
+No caso, o Tribunal de origem refutou a tese de violação de domicílio nos seguintes termos:
+Feito esse breve adendo sobre a natureza permanente do crime de tráfico de entorpecentes, infere-se da denúncia, que em , às 20h, os policiais 21/05/2023 realizavam patrulhamento no bairro Loyola, Lagarto/SE, quando resolveram abordar uma motocicleta Honda, tipo POP, cor vermelha, placa policial OER-0508. Após emissão do sinal sonoro da viatura, o condutor da motocicleta empreendeu fuga, mas foi contido. No transcurso da diligência, a polícia procedeu à busca pessoal e encontrou 06 (seis) papelotes de substância análoga a cocaína e a quantia de R$ 45,00 (quarenta e cinco reais). Além disso, o abordado afirmou que estava vendendo entorpecentes na região e que guardava mais em sua residência. Diante da informação, os policiais deslocaram-se à casa do réu e encontraram uma bolsa plástica preta com 23 (vinte e três) papelotes de cocaína, R$ 61,00 (sessenta e um reais) e um aparelho celular de marca Philco, cor rosa. É de registrar que os policiais, nas fases inquisitiva e judicial, confirmam toda a narrativa esposada na denúncia de que o réu empreendeu fuga ao receber ordem de parada em via pública, mas acabou interceptado. Na sequência, a polícia encontrou papelotes de cocaína e dinheiro trocado na abordagem pessoal, como também em sua residência, depois do então suspeito informar que guardava mais drogas no citado imóvel. Por outro lado, frise-se que as versões opostas trazidas pelo réu só evidenciam o juízo de certeza formado na sentença que reconheceu como legítima a busca domiciliar em razão do flagrante antecedente. Digo "versões opostas" porque, na fase policial, disse que adquiriu 15 (quinze) papelotes por R$200,00 (duzentos reais), até ser abordado pela polícia na posse da droga. Contudo, na fase judicial, negou transportar entorpecentes e que não sabia da origem da droga apreendida em sua residência. No particular, os interrogatórios do réu se mostraram isolados, enquanto os depoimentos dos agentes de segurança foram coerentes e harmônicos entre si em convergência com o acervo probatório legítimo que observou o devido processo legal. Com efeito, a ordem de parada dos policiais direcionada ao condutor de motocicleta, em via pública, que empreendeu fuga até ser interceptado; a abordagem pessoal do réu que evidenciou o porte de papelotes de cocaína e dinheiro trocado; a declaração do réu no transcurso da diligência de guardar mais entorpecentes em sua residência, o que foi constatado pela guarnição em seguida; os esclarecimentos da condição de traficante do réu por seu próprio irmão que, segundo os depoimentos judiciais dos policiais, franqueou a entrada da polícia na residência; e a natureza permanente do crime de tráfico de entorpecentes; demonstraram o comércio ilícito de entorpecentes no imóvel do réu fato que embasa as fundadas razões para justificar a busca domiciliar, nos termos do inciso XI do artigo 5º da Constituição Federal.
+Como se verifica, as decisões impugnadas - sentença e acórdão de apelação - foram uníssonas em afirmar que houve prévia apreensão da droga na posse do agravante, em via pública, próximo a sua residência, o que motivou a busca domiciliar.
+Segundo consta, o agravante estava na condução de uma motocicleta, quando deixou de obedecer ordem de parada sonora dos policiais e empreendeu fuga, justificando sua abordagem e revista pessoal, quando foram recolhidos 6 papelotes de cocaína, e houve a confissão de que estaria armazenando mais drogas em sua residência.
+Logo, diante da notícia do flagrante de delito de tráfico de drogas, em local próximo à residência do acusado, corroborada pela prévia apreensão de entorpecentes com ele em via pública, acrescida da tentativa de emprender fuga para evitar o flagrante, não há como negar a presença de fundadas razões para a medida de urgência.
+Nesse sentido: AgRg no HC n. 953.426/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025; AgRg no HC n. 857.177/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024.
+Por fim, vale anotar que o acolhimento da tese defensiva sobre a não apreensão de drogas na revista pessoal - o que supostamente desconstituiria a versão policial apresentada no flagrante - demandaria o reexame do conteúdo fático probatório dos autos, providência inadmissível na via eleita.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
