@@ -1,0 +1,12 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar para a suspensão de medidas cautelares, impetrado para Armando Saraiva Maia, alega-se coação ilegal em relação ao acórdão proferido pelo Tribunal de Justiça do Estado do Ceará.
+O paciente foi denunciado pelos delitos previstos nos arts. 129, § 1º, II, e 163, parágrafo único, I, do Código Penal, e art. 305 do Código de Trânsito Brasileiro, em decorrência de acidente de trânsito com lesão corporal, dano qualificado e abandono do local. Sua prisão preventiva foi decretada em razão da não localização para citação, sendo posteriormente revogada pelo juízo de origem, que, contudo, impôs diversas medidas cautelares, dentre elas a monitoração eletrônica com recolhimento domiciliar noturno aos finais de semana e feriados, e a proibição de frequentar locais que promovam o consumo de bebida alcoólica.
+A petição expõe a existência de constrangimento ilegal, sustentando a defesa, em síntese, que não há nos autos elementos que justifiquem a cautelar de proibição de frequentar locais que comercializem bebida alcoólica, pois não se apurou consumo de álcool pelo paciente no momento dos fatos. Sustenta, ainda, que o uso de tornozeleira eletrônica com recolhimento domiciliar é desproporcional diante da inexistência de periculum libertatis, reconhecida expressamente pelo próprio magistrado de primeiro grau.
+Alega, também, que o acórdão impugnado teria inovado na fundamentação ao acrescentar, de forma inédita, referência a outro processo criminal, utilização da evasão do local como circunstância desfavorável e justificativa para a proibição relacionada a bebidas alcoólicas, em violação à jurisprudência do egrégio Superior Tribunal de Justiça que veda a inserção de fundamentos novos no julgamento de habeas corpus.
+Assim, o pedido especifica-se na concessão da ordem para determinar a revogação das referidas medidas cautelares, mantendo-se apenas aquelas estritamente necessárias e adequadas ao caso concreto.
+É o relatório. Decido.
+Em ordem jurídica, em consulta ao sistema processual eletrônico desta Corte, verifica-se a prévia interposição do RHC 221222/CE pelo ora paciente, também relativo ao HC n. 0626092-50.2025.8.06.0000, no qual se busca a revogação das referidas medidas cautelares. Tratando-se, pois, de reiteração de pedido anterior, o habeas corpus não deve ser conhecido.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
