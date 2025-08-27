@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE SALARIAL DE 84,32%. POSSIBILIDADE DE SUPRESSÃO DESSE ÍNDICE QUE VISAVA CORRIGIR DEFASAGEM SALARIAL, COM BASE EM SUA ABSORÇÃO POR REAJUSTES POSTERIORES. PRECEDENTES. RAZÕES DE AGRAVO QUE NÃO INFIRMAM A DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame: 1. Agravo Interno interposto contra decisão que conheceu parcialmente do Recurso Especial e, nessa extensão, negou-lhe provimento.
+II. Questão em discussão: 2. Saber se os fundamentos da decisão agravada foram infirmados pelos agravantes.
+III. Razões de decidir: 3. Os fundamentos da decisão recorrida não foram infirmados pelos agravantes.
+IV. Dispositivo: 4. Recurso desprovido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão de fls. 12.638/12.646, por meio da qual o então relator, Ministro Herman Benjamin, conheceu parcialmente do Recurso Especial e, nessa extensão, negou-lhe provimento.
+Em síntese, a decisão recorrida assenta: (a) a ausência de omissão no acórdão recorrido; (b) o viés constitucional das questões relativas à competência da justiça trabalhista em detrimento da competência da justiça federal, assim como da alegada violação ao art. 6º da LINDB; (c) a aplicação da Súmula 7/STJ, quanto à ausência da ADUFC (Sindicato dos Docentes das Universidades Federais do Estado do Ceará) na lide, e, por fim, no que diz com o mérito, (d) afirma que o acórdão recorrido adotou entendimento consolidado neste STJ, segundo o qual a Administração pode reestruturar a composição remuneratória de seus servidores, resguardada a irredutibilidade de vencimentos, uma vez que o ordenamento jurídico não contempla o direito adquirido a regime de remuneração.
+O Acórdão impugnado tem a seguinte ementa:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REAJUSTE DE 84,32%. VANTAGEM CONCEDIDA POR DECISÃO JUDICIAL TRANSITADA EM JULGADO. SUPRESSÃO. VIOLAÇÃO À COISA JULGADA. NÃO CONFIGURAÇÃO. BENEFÍCIO DE JUSTIÇA GRATUITA. PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO DE HIPOSSUFICIÊNCIA.
+Em suas razões, os recorrentes reprisam todos os seus argumentos sustentando, em suma, que é equivocado o entendimento de que o art. 6º da LINDB, por ser matéria constitucional, não pode ser trazido em REsp, além de insistir na competência da justiça federal e na violação dos arts. 485, I e IV, 330, II e 509, II, do CPC/2015.
+Não houve contrarrazões.
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE SALARIAL DE 84,32%. POSSIBILIDADE DE SUPRESSÃO DESSE ÍNDICE QUE VISAVA CORRIGIR DEFASAGEM SALARIAL, COM BASE EM SUA ABSORÇÃO POR REAJUSTES POSTERIORES. PRECEDENTES. RAZÕES DE AGRAVO QUE NÃO INFIRMAM A DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame: 1. Agravo Interno interposto contra decisão que conheceu parcialmente do Recurso Especial e, nessa extensão, negou-lhe provimento.
+II. Questão em discussão: 2. Saber se os fundamentos da decisão agravada foram infirmados pelos agravantes.
+III. Razões de decidir: 3. Os fundamentos da decisão recorrida não foram infirmados pelos agravantes.
+IV. Dispositivo: 4. Recurso desprovido.
+VOTO
+Sem razão os agravantes.
+Os fundamentos da decisão recorrida estão muito bem postos e assim se resumem:
+1. Omissões: inexistem, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas, sim, de inconformismo com o resultado do acórdão, que foi contrário aos interesses dos insurgentes.
+2. Viés constitucional: a solução da controvérsia, a respeito da eventual competência da Justiça do Trabalho em detrimento da competência da Justiça Federal, passa pela interpretação das regras estabelecidas nos arts. 109 e 114 da CF, o que é inviável de análise na presente via (AgInt no REsp 1.916.908/RN, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 14/10/2022), assim como também acontece com o art. 6º da LINDB (AgInt no REsp 2.066.957/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023; AgInt no AREsp 704.489/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 23/8/2017).
+3. Ausência da ADUFC na lide: a Corte de origem consignou, com base no acervo fático-probatório, que não se pode estender a legitimidade passiva à ADUFC apenas pelo fato de esta ter composto o polo ativo da demanda de n. 0106600-65.1990.5.07.0005 e ser a beneficiária de eventual multa estabelecida pela Justiça do Trabalho, bem como porque a questão abordada neste feito se refere a fato ulterior à instituição do Regime Jurídico Único, qual seja, a legitimidade da descontinuidade do pagamento do percentual de 84,32% em face das reestruturações recebidas, a qual não produzirá efeitos para a ADUFC, mas, sim, para seus servidores/pensionistas. Assim, a revisão de tal entendimento esbarra no óbice da Súmula 7/STJ.
+4. Quanto ao mérito: o acórdão ora recorrido encontra-se em consonância com a jurisprudência desta Corte Superior, a qual se firmou no sentido da possibilidade de supressão de índice que visava corrigir defasagem salarial, com base em sua absorção por reajustes posteriores Com essa compreensão: AgInt no REsp 2.096.073/CE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 06/03/2024; AgInt no REsp 1.916.908/RN, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 14/10/2022; AgInt nos EDcl no REsp 1.790.213/PE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 25/3/2021; AgInt no AREsp 638.178/RO, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 29/8/2019; AgRg no AgRg no REsp 1.435.137/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 01/06/2015; AgInt no REsp 1.531.241/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/4/20170.
+Do exposto, não tendo as razões dos recorrentes infirmado tais fundamentos, nego provimento ao Agravo Interno.
