@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LÍGIA MARIA MARCOVICZ PERGHER, contra inadmissão, na origem, do recurso especial fundamentado no art. 105, a, III, da CF, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 758):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. APOSENTADORIA ESPECIAL. COMISSÁRIO DE BORDO. TRABALHO EXERCIDO SOB PRESSÃO ATMOSFÉRICA ANORMAL. ESPECIALIDADE RECONHECIDA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REQUISITOS NÃO PREENCHIDOS. HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+1. Trabalho exercido por aeronauta, em condições de pressão atmosférica anormal, seja hiperbárica ou hipobárica, se enquadra na definição de labor especial para fins de concessão de aposentadoria especial.
+2. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+3. Não tem direito à aposentadoria especial ou por tempo de serviço/contribuição o segurado que, mediante a soma do tempo judicialmente reconhecido com o tempo computado na via administrativa, não possuir tempo suficiente e implementar os demais requisitos para a concessão do benefício.
+4. Verba honorária majorada em razão do comando inserto no § 11 do art. 85 do CPC/2015.
+Opostos embargos de declaração, foram estes rejeitados, conforme aresto assim sumariado (fl. 785):
+EMBARGOS DE DECLARAÇÃO. REQUISITOS. ALEGAÇÃO DE OMISSÃO. REDISCUSSÃO DO MÉRITO. DESATENDIMENTO ÀS HIPÓTESES DO ARTIGO 1.022 DO CPC. REDISCUSSÃO DO JULGADO. DESCABIMENTO.
+1. Os embargos de declaração tem cabimento contra qualquer decisão e objetivam esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material.
+2. São descabidos os embargos declaratórios quando buscam meramente rediscutir, com intuito infringente, o mérito da decisão impugnada, providência incompatível com a via eleita.
+3. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, devendo ser atacada pelo meio processual idôneo, e não pela via estreita dos embargos de declaração. Omissão inexistente.
+4. Possibilidade de conversão de tempo de serviço comum em especial pelo fator 0,71, somente em relação a períodos anteriores à vigência da Lei nº 9.032/95 5. Em face da discussão acerca de eventual prequestionamento e considerando a disciplina do art. 1.025 do CPC/2015, os elementos que a parte suscitou nos embargos de declaração serão considerados como prequestionados mesmo com sua rejeição, desde que tribunal superior considere que houve erro, omissão, contradição ou obscuridade. Ou seja, o novo CPC acabou por consagrar expressamente a tese do prequestionamento ficto, na linha de como o STF pacificou entendimento por meio do verbete sumular 356.
+Em seu recurso especial de fls. 792-804, sustenta a parte recorrente violação ao art. 57, da Lei nº 8.213/91, na medida em que o acórdão recorrido desconsiderou a contagem do tempo especial de 20 anos para o período trabalhado na TAM, como aeronauta, em razão da exposição à pressão atmosférica anormal, com aplicação do Código 1.1.6, do Anexo I do Decreto nº 83.080/79.
+O Tribunal de origem, às fls. 811-818, inadmitiu o recurso especial sob o seguinte fundamento:
+A pretensão não merece trânsito, pois o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83 (não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida), que se aplica também ao permissivo do artigo 105, inciso III, alínea a, da Constituição Federal.
+Nesse sentido:
+(..)
+Em seu agravo, às fls. 826-840, a parte agravante argumenta que os precedentes citados na decisão de inadmissão do Recurso Especial são inaplicáveis, pois não aborda a questão específica do tempo especial de 20 anos, sendo necessário o reconhecimento da ilegalidade do artigo 261 do Decreto 2.172/97, que aumentou o tempo para 25 anos.
+É o relatório.
+De pronto, verifico a existência dos requisitos extrínsecos de admissibilidade relativos à regularidade formal do agravo em recurso especial interposto e à tempestividade.
+No entanto, quanto aos requisitos intrínsecos, entendo que não houve ataque específico no tocante ao fundamento apresentado na decisão de inadmissibilidade do recurso especial, qual seja, a incidência da Súmula 83/STJ, uma vez que o acórdão impugnado harmoniza-se com a jurisprudência consolidada nesta Corte.
+Tem-se que, das razões apresentadas no agravo, deixou-se de apontar precedentes aptos e contemporâneos à finalidade pretendida de demonstrar que o entendimento exposto na referida decisão não está pacificado no sentido do acórdão recorrido, ou que os precedentes utilizados não se aplicam, sob razões fundantes, ao caso sob exame.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide, à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, PARÁGRAFO ÚNICO, DO RISTJ, E ENUNCIADO DA SÚMULA N . 182/STJ. AGRAVO NÃO CONHECIDO.
