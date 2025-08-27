@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPI. EMPRESA ATACADISTA DE PRODUTOS DE HIGIENE PESSOAL E PERFUMARIA. EQUIPARAÇÃO A ESTABELECIMENTO INDUSTRIAL. INCIDÊNCIA DO IMPOSTO NA REVENDA DE MERCADORIAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. INCOMPETÊNCIA DO STJ PARA ANÁLISE DE MATÉRIA CONSTITUCIONAL EM RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Não se configura negativa de prestação jurisdicional quando o acórdão recorrido aborda as questões essenciais para o deslinde da controvérsia de forma clara e fundamentada, sendo que o julgamento desfavorável ao interesse da parte não se confunde com vício de fundamentação.
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que não lhe cabe, na via especial, a análise de violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por LOGIS COMERCIO ATACADISTA DE COSMETICOS LTDA. contra decisão monocrática da lavra do eminente Ministro Herman Benjamin (fls. 458-464), à época relator do caso, que negou provimento ao Recurso Especial por ela interposto, assinalando que a matéria versada no apelo nobre careceria do exame de dispositivos constitucionais, providência incabível no âmbito deste Superior Tribunal de Justiça.
+No presente Agravo Interno (fls. 470-489), pugna-se, preliminarmente, pelo sobrestamento do Recurso Especial e remessa dos autos ao Supremo Tribunal Federal para análise de questão constitucional prejudicial, nos termos do art. 1.031, §2º, do CPC, citando precedentes do STJ e do STF. No mérito, reitera a existência de fundamentos autônomos de violação à lei federal, notadamente aos arts. 4º da Lei nº 7.798/89 e 51, II, do CTN, alegando impossibilidade de dupla exigência do IPI e ilegalidade da definição de sujeito passivo por lei ordinária ou decreto. Argumenta, ainda, que a equiparação configura bitributação e violação aos arts. 47, II, "a", e 49 do CTN, e que houve efetiva nulidade do acórdão por negativa de prestação jurisdicional (arts. 489 e 1.022 do CPC).
+Ao final, requereu a reconsideração da decisão monocrática ou a submissão do feito ao colegiado.
+O prazo para contrarrazões transcorreu in albis.
+É o relatório.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPI. EMPRESA ATACADISTA DE PRODUTOS DE HIGIENE PESSOAL E PERFUMARIA. EQUIPARAÇÃO A ESTABELECIMENTO INDUSTRIAL. INCIDÊNCIA DO IMPOSTO NA REVENDA DE MERCADORIAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. INCOMPETÊNCIA DO STJ PARA ANÁLISE DE MATÉRIA CONSTITUCIONAL EM RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Não se configura negativa de prestação jurisdicional quando o acórdão recorrido aborda as questões essenciais para o deslinde da controvérsia de forma clara e fundamentada, sendo que o julgamento desfavorável ao interesse da parte não se confunde com vício de fundamentação.
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que não lhe cabe, na via especial, a análise de violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+VOTO
+Conheço do agravo interno, eis que presentes os requisitos de admissibilidade.
+No mérito, a irresignação da Agravante não merece prosperar.
+Inicialmente, não se verifica a apontada negativa de prestação jurisdicional. Conforme já assentado no decisum combatido, o Tribunal de origem abordou as questões essenciais para o deslinde da controvérsia de forma clara e fundamentada. A ausência de manifestação sobre determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional. A Corte regional examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em ofensa aos arts. 489, § 1º, e 1.022 do CPC.
+Sobre o tema, trago à colação o seguinte julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 14/9/2021)
+Sobre a questão de fundo, o aresto objurgado consignou:
+"(..)
+Assim, Cinge-se a controvérsia a saber se é válido o Decreto nº 8.393/2015, que reincluiu produtos noAnexo III da Lei nº 7.798/89, permitindo a equiparação a industrial de empresas atacadistas que comercializamdeterminados produtos de higiene pessoal e perfumaria.
+Nos termos do artigo 153, inciso IV, da Constituição Federal de 1988, cabe à União Federal instituir oImposto sobre Produtos Industrializados. Confira-se o teor do dispositivo:Art. 153. Compete à União instituir impostos sobre:
+(..)
+Percebe-se, portanto, que a matriz constitucional do IPI não está precisamente no ato deindustrialização, e sim na operação negocial que envolva produto industrializado, o que torna perfeitamente possívela incidência do imposto mesmo nas etapas da cadeia econômica em que o produto não tenha sido submetido anovo processo de industrialização, devendo ser respeitada a técnica da não cumulatividade (art. 153, IV, da CF).
+Desse modo, a realização de novo processo de industrialização pelo sujeito passivo em cada etapa dacadeia econômica não é condição para a ocorrência do fato gerador do IPI, conforme vem reconhecendo ajurisprudência do Superior Tribunal de Justiça:
+(..)
+Assim, de acordo com as normas gerais fixadas pelo CTN, pode o legislador estabelecer, pormeio de lei ordinária, as hipóteses de estabelecimentos que, para fins de sujeição ao IPI, consideram-seequiparados a industrial, isto é, situações em que o sujeito passivo, embora não realize qualquer ato deindustrialização, recebe o mesmo tratamento tributário conferido ao estabelecimento industrial para fins decontrole e incidência do imposto.
+Não por outra razão, o artigo 24, inciso III, do Decreto nº 7.212/2010 (Regulamento do IPI) mencionacomo contribuintes do IPI, dentre outros, o estabelecimento equiparado a industrial, no que se refere aos fatosgeradores relativos aos produtos que dele saírem e aos decorrentes de atos que praticar. Oportuno, no ponto,transcrever o teor do dispositivo regulamentar:
+(..)
+Por isso, não assiste razão à impetrante no que tange à alegação de que a equiparação dosestabelecimentos atacadistas a estabelecimento industrial, para fins de incidência do IPI, demandaria a edição de leicomplementar, pois, conforme visto, tal equiparação não está sujeita ao princípio da reserva de lei complementar.
+Nessa ordem de ideias, o artigo 7º da Lei nº 7.798/89 equiparou ao industrial os estabelecimentosatacadistas que adquirirem de estabelecimentos industriais, ou dos estabelecimentos equiparados a industrialindicados em seus incisos, os produtos relacionados no Anexo III da Lei. Confira-se, no ponto, a íntegra dodispositivo legal:
+(..)" (grifo original)
+Verifica-se que, embora sejam citados os arts. 4º da Lei 7.798/1989 e 47, II, "a", c/c 49 do CTN, a vexata quaestio foi solucionada, principalmente, à luz do art. 153, IV, da CF/1988, cujo reexame é inviável nesta via, já que não compete ao STJ a análise de dispositivos constitucionais. Nesse contexto, o Superior Tribunal de Justiça possui entendimento no sentido de que não lhe cabe, na via especial, a análise de violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal.
+Confiram-se os precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS. (..) 3. Inviável o exame de possível ofensa a dispositivo constitucional, ainda que para prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal. 4. Embargos de declaração rejeitados. (EDcl no AgInt nos EREsp n. 1.955.367/CE, relator Ministro Og Fernandes, Corte Especial, julgado em 21/5/2024, DJe de 27/5/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. VERIFICAÇÃO DA EXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC. MATÉRIA NÃO IMPUGNÁVEL EM EMBARGOS DE DIVERGÊNCIA. REJULGAMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. (..) 3. Não cabe a esta corte se manifestar, ainda que para efeito de prequestionamento, acerca de suposta afronta a artigos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal. Agravo interno improvido. (AgInt nos EREsp n. 2.028.234/SC, rel. Min. Humberto Martins, Corte Especial, DJe de 4/3/2024)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
