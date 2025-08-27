@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. A concessão do habeas corpus foi fundamentada, de modo suficiente, na conclusão de que, no caso concreto, houve desvirtuamento na atuação dos guardas municipais, reconhecendo a nulidade probatória.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra acórdão assim ementado (fls. 529-530):
+HABEAS CORPUS. TRÁFICO DE DROGAS. GUARDAS CIVIS MUNICIPAIS. BUSCA PESSOAL. PRISÃO EM FLAGRANTE. ATUAÇÃO DESVINCULADA DE SUAS ATRIBUIÇÕES CONSTITUCIONAIS. RECONHECIMENTO DA ILICITUDE DAS PROVAS. ABSOLVIÇÃO. ORDEM CONCEDIDA, COM EFEITOS EXTENSIVOS.
+1. No julgamento do HC n. 830.530/SP (relator Ministro Rogerio Schietti Cruz), julgado em 27/9/2023, publicado em 4/10/2023, a Terceira Seção desta Corte, consolidando o entendimento firmado anteriormente no REsp n. 1.977.119/SP, decidiu que a guarda municipal, embora integre o sistema de segurança pública, conforme afirmado pelo Supremo Tribunal Federal, na ADPF n. 995, não possui as funções típicas da Polícia Militar, nem as investigativas próprias da Polícia Civil, devendo sua atuação se limitar à proteção de bens, serviços e instalações do município.
+2. Destacou-se no referido julgado, de igual modo, que " ..  salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários, o que não se confunde com permissão para desempenharem atividades ostensivas ou investigativas típicas das polícias militar e civil para combate da criminalidade urbana ordinária em qualquer contexto".
+3. No caso, os guardas municipais estavam em patrulhamento em local conhecido pelo tráfico de drogas quando avistaram dois homens "manuseando algo no chão", sobre uma blusa. Com a chegada da viatura, ambos fugiram para sentidos opostos. Realizada a abordagem pessoal, nada de ilícito foi encontrado com os réus, em "ato contínuo, os guardas municipais recolheram 326 porções de "cocaína" sobre a blusa de moletom estendida na calçada, as quais estavam sendo manuseadas pelos acusados". Somente após a realização de revista pessoal, em típica atividade de polícia ostensiva, os guardas municipais localizaram o entorpecente.
+4. Não se constata, na espécie, "relação clara, direta e imediata com a necessidade de proteger a integridade dos bens e instalações ou assegurar a adequada execução dos serviços municipais", mas o "nítido desvirtuamento na atuação dos guardas municipais", sobressaindo-se, de acordo com a jurisprudência desta Corte, a flagrante ilegalidade da prisão em flagrante por ausência de justa causa à sua realização por guardas municipais.
+5. Habeas corpus concedido para reconhecer a nulidade probatória e, por conseguinte, absolver o paciente da imputação trazida na denúncia (art. 386, II e VII, do CPP), determinando sua soltura imediata, se encarcerado e se por outro motivo não estiver preso, com extensão dos efeitos ao corréu, nos termos do art. 580 do CPP.
+A parte embargante afirma a ocorrência de vício no julgado, articulando o seguinte (fl. 553):
+A contradição reside no fato de que, em seguida, afirmou-se a ilegalidade da atuação dos guardas municipais, ante a suposta ausência de flagrante, não obstante tenha o venerando acórdão descrito justamente uma clara situação de cometimento de crime, visível aos agentes públicos:
+(..)
+Assim, tem-se que os guardas municipais estavam em patrulhamento nas ruas da cidade, como agentes de segurança pública que são, quando viram, num ponto de venda de drogas, dois indivíduos manuseando algo no chão e, ao perceberem a chegada da viatura, saíram em fuga. Ora, o "algo" não poderia ser outra coisa, diante desse quadro fático - local de venda de drogas e fuga imediata dos indivíduos - senão drogas, o que indica situação de flagrância e, assim, de permissão para a pronta atuação de qualquer do povo. E não há na Constituição Federal ou em qualquer lei vigente em nosso país proibição às Guardas Municipais de passarem em patrulhamento em região conhecida pelos gestores da segurança pública como sendo ponto de venda de drogas.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. A concessão do habeas corpus foi fundamentada, de modo suficiente, na conclusão de que, no caso concreto, houve desvirtuamento na atuação dos guardas municipais, reconhecendo a nulidade probatória.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso dos autos, é inviável o acolhimento da pretensão recursal, uma vez que o acórdão embargado concluiu pela ocorrência de desvirtuamento da função dos guardas municipais, ao argumento de que estes não estavam atuando na proteção do patrimônio público municipal.
+Vale destacar que, por meio dos embargos de declaração, este juízo não está autorizado a fazer nova incursão na lide e revalorar aspectos já detidamente tratados na decisão antecedente. Com efeito, neste momento processual, cinge-se à apreciação do caso nos exatos limites autorizados pelo recurso oposto pela parte.
+A pretensão do embargante, de que as situação autorizaria a abordagem policial, configura mera tentativa de rediscutir os fundamentos do acórdão, finalidade que não se coaduna com a natureza dos embargos de declaração.
+Ressalvo, contudo, meu ponto de vista quanto ao tema de fundo do habeas corpus, por entender que as circunstâncias fáticas apresentadas configurariam fundadas razões a justificar a atuação policial.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
