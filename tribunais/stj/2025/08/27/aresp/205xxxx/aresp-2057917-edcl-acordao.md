@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por CLAUDIO BENITO ANTUNES RIBEIRO contra acórdão da Segunda Turma do STJ, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DIALETICIDADE. FALTA DE INTIMAÇÃO. SUPRIMENTO. NULIDADE. AUSÊNCIA. IMPROBIDADE. DESVIO DE DIÁRIAS E USO DE RECURSOS ESTATAIS PARA VEICULAÇÃO DE PROPAGANDA POLÍTICA PESSOAL. DOLO E DANO EVIDENCIADOS. CONTINUIDADE TIPICO-NORMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. A manifestação superveniente da parte neste agravo interno acerca da incidência do Tema n. 1.199/STF ao caso afasta eventual nulidade da falta de sua intimação anterior, após o julgamento da tese.
+2. Ausente a impugnação adequada da decisão da origem de inadmissão do recurso especial, o respectivo agravo não deve ser conhecido.
+3. A redação atual da Lei de Improbidade Administrativa mantém a punibilidade da veiculação de publicidade de natureza personalista, com recursos do erário.
+4. Caso em que a origem verificou, à luz do amplo conjunto probatório, a ocorrência de fraudes na percepção de diárias de viagem, cujos valores eram destinados à produção e veiculação de propaganda política. Além disso, recursos do erário, inclusive policiais militares, eram usados para o objetivo.
+5. Agravo interno desprovido (fl. 7.537).
+A parte embargante sustenta, em síntese, haver omissões quanto à indispensabilidade da oportunidade de manifestação específica do réu sobre a incidência da nova Lei de Improbidade aos autos, a impugnação específica das razões da inadmissão do feito na origem e a ausência de dolo e dano.
+Contesta o enquadramento da conduta no art. 11, XII, da Lei n. 8.249/1992, na medida em que não teria contribuído com os atos de publicidade e enaltecimento pessoal do corréu.
+Defende, por fim, a nulidade do julgado ou a declaração de atipicidade das imputações.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+4. Embargos de declaração rejeitados.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser desprovido, constando, expressamente, que:
+A decisão monocrática não conheceu do agravo contra a inadmissão do recurso especial na origem por ausência de dialeticidade e afastou a incidência do Tema n. 1.199/STF ao caso.
+Quanto à falta de intimação para manifestação acerca da tese do Supremo, este agravo interno supre eventual vício procedimental, na medida em que a parte, adequadamente, discute a aplicação da nova Lei de Improbidade neste caso, permitindo sua análise. Assim, resta suprida a ausência de manifestação anterior.
+ ..
+No que diz respeito ao não conhecimento do agravo em recurso especial, entendo pela manutenção da decisão agravada, na medida em que os fundamentos da decisão da origem pela inadmissibilidade do recurso especial efetivamente não foi adequadamente impugnada.
+Por fim, acerca do Tema n. 1.199/STF, a origem afirmou de forma inconteste, à luz de depoimentos e provas documentais, que os réus coagiam servidores comissionados a assumirem formalmente o recebimento de diárias de viagens que nunca realizaram, de forma concomitante à assinatura da folha de ponto, embora os valores fossem retirados por terceiro, superior hierárquico dos supostos viajantes.
+Além disso, foram apontadas diversas propagandas políticas, positivas e negativas, criadas e veiculadas com recursos estatais, inclusive os valores desviados das diárias acima apontadas, de responsabilidade dos mesmos réus.
+Constam dados, inclusive, de relatórios de envio das correspondências e declarações sobre o uso de policiais militares para envelopamento e entrega dos documentos apócrifos, até mesmo na presença dos réus (fls. 4890-4958).
+Indiscutível, portanto, a presença do dolo e do dano nas condutas, sendo viável seu enquadramento típico no art. 11, XII, da redação atual da Lei de Improbidade.
+No que tange especificamente à participação do embargante nas ações de promoção pessoal, convém esclarecer ter constado do acórdão de origem, conforme a imputação do autor, a seguinte narrativa (fls. 4.896-4.935, grifei):
+ROBERTO REQUIÃO DE MELLO E SILVA. na condição de Governador do Estado do Paraná, e com auxílio de CLÁUDIO BENITO ANTUNES RIBEIRO e MAURO SERGIO TRAUCZINSKI ROCHA, utilizando dinheiro ilícito angariado com o pagamento irregular de valores de diárias (Fato 01), teria determinado a emissão e envio de diversas correspondências, ora de cunho auto promocional, ora de cunha ofensivo, a diversas autoridades em toda a pais, configurando assim dano ao erário e atentado contra os princípios da Administração Pública.
+A inicial do Ministério Público veia acompanhada de diverso material probatório angariado junto no próprio Estado, em procedimento administrativo antes instaurado (sindicância).
+Na inicial foi ainda pormenorizado cada um dos atos em que se subsumiria a qualificação jurídica elegida pelo "parquet" na acusação.
+ ..
+Na época, era público que o então governador pretendia candidatar-se à Presidencia da República, e daí iniciou a antecipada e mal fadada pré-campanha informal.
+Nesse desiderato contou com o auxílio de CLAUDIO BENITO ANTUNES RIBEIRO e MAURO SERGIO TRAUCZINSKI ROCHA, os quais faziam a cooptação de de funcionários (inclusive policiais militares), a auxiliarem na empreitada promocional.
+ ..
+Indubitável, portanto (a partir dos depoimentos incriminadores documentados nos autos, mesmo que provenientes de procedimento administrativo no âmbito do próprio Executivo, mas que valem sim como prova, conforme alhures fundamentado), que houve sim o envio de correspondências escusas; que essas correspondências partiam sim do governo estadual, porém, não eram oficiais e nem tinham timbre; que foi sim utilizada a força de trabalho de servidores e até de policiais militares no trabalho de etiquetar, selar e enviar as tais correspondências; que se chegou a forjar inclusive os remetentes de algumas correspondências e, por fim, que os réus ROBERTO REQUIÃO DE MELLO E SILVA (então governador), CLÁUDIO BENITO ANTUNES RIBEIRO e MAURO SÉRGIO TRAUCZINSKI ROCHA estavam diretamente envolvidos com o envio dessas correspondências.
+Desse modo, a conduta imputada ao embargante está diretamente associada ao ato de promoção pessoal, como pressuposto e origem dos recursos, bem como no efetivo manejo de pessoas e materiais públicos na atividade. Essa compreensão da origem foi mantida em sucessivos aclaratórios e também nos embargos infringentes, dos quais cito apenas a ementa, por brevidade (fl. 6.010):
+ ..  FATO 02: UTILIZAÇÃO DO ERÁRIO PARA O FINANCIAMENTO DE ATOS DE AUTOPROMOÇÃO E DE DEPRECIAÇÃO DE ADVERSÁRIOS POLÍTICOS. DIVERGÊNCIA QUE REMONTA NÃO SÓ À COMPROVAÇÃO DOS FATOS COMO TAMBÉM À PRÓPRIA ADEQUAÇÃO DESTES AO TIPO DE IMPROBIDADE QUE LHES FORA ATRIBUÍDO. EXTENSO NÚMERO DE DEPOIMENTOS E DOCUMENTOS QUE COMPROVAM A INSTITUIÇÃO DE UMA GIGANTESCA ESTRUTURA DE ESTADO COM O ÚNICO PROPÓSITO DE EXALTAR A PESSOA ENTÃO POR DETRÁS DA GOVERNADORIA E DETRATAR AQUELES QUE LHE OPUNHAM EM IDEIAS OU NA POLÍTICA PARTIDÁRIA. FLAGRANTE VIOLAÇÃO AOS PRINCÍPIOS DA MORALIDADE, DA IMPESSOALIDADE E DA LEGALIDADE, ENTRE OUTROS, USO DA ESTRUTURA BUROCRÁTICA PARA INTUITOS EGOÍSTICOS E PERSONALISTAS. EFEITOS DANOSOS QUE NÃO SE LIMITAM ÀS ESFERAS MORAL E PATRIMONIAL DOS SUPOSTOS ATINGIDOS, VINDO, POR VIAS DIVERSAS, A REPERCUTIR SOBRE BENS E DIREITOS MATERIAIS E IMATERIAIS DO ESTADO E DE TODA A COLETIVIDADE, SENDO INEGÁVEL A LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PERSEGUIR SUA REPARAÇÃO CIVIL E POLÍTICO-ADMINISTRATIVA. RETIDÃO DO VOTO VENCEDOR TAMBÉM QUANTO A ESSA SEGUNDA IMPUTAÇÃO. EMBARGOS DESPROVIDOS. INFRINGENTES CONHECIDOS E DESPROVIDOS.
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; e EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
