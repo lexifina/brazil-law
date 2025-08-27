@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PREVCOR IPANEMA S.A. contra decisão de minha lavra, em que não conheci do recurso especial, com fulcro na Súmula 83 do STJ (e-STJ fls. 186/191).
+Sustenta a parte embargante que a decisão embargada partiu da suposta premissa de que o título executivo teria indicado que os juros aplicados seriam de 1% ao mês, para, assim, aplicar a orientação jurisprudencial desta Corte.
+Alega, no entanto, que o Tribunal de origem silenciou sobre "a premissa fática adotada de que título tivera previsto que os juros seriam de 1% (hum por cento)", mesmo após a oposição de embargos de declaração, violando o art. 1.022, II, do CPC.
+Requer o acolhimento dos embargos de declaração "para reconhecer que a 11ª Câmara de Direito Privado do Rio de Janeiro foi omissa ao não indicar que trecho da sentença exequenda fixa os juros em 1% (hum por cento) ao mês, tendo violado o artigo 1022, II do Código de Processo Civil" (e-STJ fl. 197).
+Intimada, a parte embargada formulou impugnação, postulando a manutenção do decisum (e-STJ fls. 201/210).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, constato que a decisão embargada deixou de analisar a alegação de ofensa ao art. 1.022, II, do CPC, arguida na peça recursal de e-STJ fls. 103/114, omissão que passo a suprir.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, como se lê:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da controvérsia.
+Na hipótese dos autos, a parte recorrente, ora embargante, apontou nulidade por negativa de prestação jurisdicional, sob a alegação de que o Tribunal Fluminense se negou a integrar o acórdão com "a indicação do trecho do título judicial no qual constaria, supostamente a condenação ao pagamento de juros de mora de 1% (hum por cento) ao mês" (e-STJ fl. 408).
+Consta dos autos que a Corte local, em agravo de instrumento, manteve a rejeição de impugnação ao cumprimento de sentença, no qual se debatida a possibilidade de modificação dos juros de mora aplicáveis ao cômputo da condenação.
+Para tanto, atestou expressamente que a sentença exequenda "acolheu o pedido do autor para condenar o réu ao pagamento do valor inadimplido, em cuja petição inicial constou expressamente o acréscimo de juros moratórios de 1% (um por cento) ao mês, conforme entendimento consolidado" (e-STJ fl. 31).
+Provocado nos embargos de declaração acerca da alegação de que "a parte dispositiva da sentença não fixa os juros em 1%, não faz menção a petição inicial da Agravada e mais, foi de procedência parcial" (e-STJ fl. 35), o Tribunal a quo, no julgado integrativo, assim se pronunciou (e-STJ fl. 58):
+O acórdão tratou de todas as questões relevantes, possui conteúdo harmônico e é dotado de premissas lógicas, impassível de dúvida quanto à sua real interpretação.
+A pretendida aplicação da taxa SELIC para fins de atualização da condenação ofende à coisa julgada.
+A reiterada alegação do embargante foi rejeitada.
+O embargante pretende, em verdade, a modificação do julgado, o que não se admite.
+Portanto, ausentes os requisitos do art. 1022 do Código de Processo Civil.
+Ante o exposto, voto no sentido de conhecer e negar provimento ao recurso.
+Nesse cenário, a insurgência do recorrente se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre o ponto omisso apontado pela ora embargante , no sentido de que a parte dispositiva da sentença exequenda não faz menção à previsão de juros de mora à razão de 1% ao mês, tampouco ao teor da peça inicial acerca da questão, a despeito de arguida a questão nos embargos de declaração ali opostos (e-STJ fl. 35).
+Com efeito, é de suma importância a verificação da referida tese, visto que foi a partir de tal premissa que o Tribunal estadual julgou e rejeitou o recurso ali interposto.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", ao prescrever:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Assim, à luz no novel regramento processual, as questões trazidas à instância excepcional podem ser examinadas e decididas à luz dos dispositivos tidos por violados, desde que versem acerca de questão exclusivamente de direito e, por óbvio, não imponham a esta Corte a análise ou reexame de elementos fático-probatórios dos autos.
+No entanto, a exegese do art. 1.025 do CPC/2015 "é aquela compatível com a missão constitucional atribuída ao Superior Tribunal de Justiça, isto é, a de uniformizar a interpretação das leis federais em grau recursal nas causas efetivamente decididas pelos Tribunais da República (CR, art. 105, III), não podendo, portanto, sofrer modificação por legislação infraconstitucional" (REsp 1.670.149/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 13/03/2018, DJe 22/03/2018).
+No caso concreto, entretanto, o acolhimento das razões do especial com o fito de analisar a peça inicial e o dispositivo da sentença prolatada no feito originário demandaria incursão no acervo fático-probatório dos autos, o que é vedado na via do apelo especial, ante o óbice da Súmula 7 do STJ.
+Assim, configurada a negativa de prestação jurisdicional, e não sendo possível analisar a matéria omissa nesta via especial, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pela Corte de origem, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. ACOLHIDA EM PARTE NA DECISÃO RECORRIDA. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA MATÉRIA OMITIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada violação ao art. 1.022, II, do CPC apresentada pela recorrente, ora agravada, nas razões do recurso especial, verifica-se que a decisão hostilizada foi clara e precisa ao concluir, após análise dos autos, que o Tribunal de origem incorreu em negativa de prestação jurisdicional, tendo em vista que deixou de se manifestar acerca de pontos relevantes para a solução da controvérsia e apresentados pela parte agravada em sede de embargos de declaração.
+2. Os trechos do acórdão do Tribunal de origem apresentados nas razões desse agravo interno não são suficientes para suprir as omissões arguidas pela recorrente, ora agravada, em sede de recurso especial.
+3. Nessas circunstâncias, a outra conclusão não se chega senão a de que os autos devem retornar ao Juízo a quo para novo julgamento dos aclaratórios, a fim de que sejam sanadas as omissões apontadas.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.801.878/RJ, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/10/2021, DJe de 7/10/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. EMBARGOS DE TERCEIRO JULGADOS PROCEDENTES. DETERMINAÇÃO DE PENHORA PARCIAL SOBRE IMÓVEL. PRESERVAÇÃO DA MEAÇÃO DO CÔNJUGE. INDIVISIBILIDADE DO BEM ARGUIDA PELO EXEQUENTE. OMISSÃO CARACTERIZADA. VIOLAÇÃO AO ART. 1.022 DO CPC DE 2015. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Hipótese em que o Tribunal de origem, não obstante provocado, deixou de se manifestar sobre a indivisibilidade do imóvel penhorado, de modo a não comportar a alienação judicial da fração ideal de 50%, correspondente à meação do cônjuge que não participou do negócio jurídico que gerou o título executivo, mas apenas da integralidade do bem, com a reserva do valor correspondente à meação. Configuração de omissão relevante.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 1.683.696/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 24/5/2021, DJe de 30/6/2021).
+Registro, por fim, que a tese da parte embargada, de que, independentemente da taxa de juros aplicável, "o caso dos autos possui a particularidade de já existir a convenção regulatória de incidência de juros de mora no percentual de 1% para débitos oriundos de faturas de eletricidade" (e-STJ fl. 209), também não versa sobre matéria exclusivamente de direito a permitir seu exame na via especial, pois reclama, de igual modo, o reexame de elementos fático-probatórios dos autos.
+Com essas considerações, ACOLHO os embargos de declaração, COM EFEITOS INFRINGENTES, para, suprindo a omissão apontada, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHECER do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos pelo ora recorrente e sane o vício de integração ora identificado.
+Publique-se. Intimem-se.
+EMENTA
