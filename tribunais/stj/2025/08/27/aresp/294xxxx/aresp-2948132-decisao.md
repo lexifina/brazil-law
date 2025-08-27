@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por VILMA APARECIDA DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na Reclamação n. 2107172-30.2024. 8.26.000 assim ementado (fl. 699):
+RECLAMAÇÃO MANEJO CONTRA V. ACÓRDÃO PROLATADO PELA C. TURMA DE UNIFORMIZAÇÃO DO SISTEMA DOS JUIZADOS ESPECIAIS DE SÃO PAULO (QUE POR SUA VEZ MANTEVE R. SENTENÇA DE PROCEDÊNCIA PROFERIDA CONTRA O RECLAMANTE definição da base de cálculo de quinquênios e sexta-parte) - ALEGAÇÃO DE CONTRARIEDADE À ORIENTAÇÃO JURISPRUDENCIAL DO C. ÓRGÃO ESPECIAL (TEMA Nº 40, IRDR Nº 0018263-85.2020) DECISÃO RECLAMADA QUE TRATA DE QUESTÃO DIVERSA DAQUELA RETRATADA NO IRDR 40 (definição da base de cálculo do adicional de qualificação) - RECLAMANTE QUE, NA HIPÓTESE, UTILIZA-SE DO EXPEDIENTE COMO SUCEDÂNEO DE RECURSO - AUSENTES OS PRESSUPOSTOS DE ADMISSIBILIDADE DA MEDIDA PRETENDIDO REEXAME DO MÉRITO NO FEITO ORIGINÁRIO QUE DEMANDA REANÁLISE DE ELEMENTOS FÁTICO-PROBATÓRIOS E REVISÃO DE SOLUÇÃO JÁ ESTABILIZADA - INVIABILIDADE NA ESTRITA VIA ELEITA - RECLAMAÇÃO EXTINTA.
+Os embargos de declaração opostos foram rejeitados (fls. 737-745).
+Nas razões do apelo nobre, interposto com fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante aponta violação do art. 1.022, inciso II, do Código de Processo Civil, alegando que o acórdão recorrido deixou de apreciar importante argumento ventilado, especificamente, a fixação de honorários sucumbenciais.
+Menciona, ainda, ofensa aos arts. 85, § 3º, e 927, inciso III, do CPC, argumentando que o acórdão recorrido não fixou honorários sucumbenciais, apesar de a Fazenda Pública ter sido parte sucumbente na reclamação, não observando a tese vinculante do Tema n. 1076 do STJ.
+Requer, assim, o provimento do recurso especial (fls. 754-767).
+Contrarrazões ao recurso especial às fls. 773-781.
+No exame de admissibilidade na origem, o recurso especial foi inadmitido, por apresentar imprecisão na fundamentação, não apontando concretamente a violação de dispositivo de lei federal e falhando em identificar a controvérsia infraconstitucional. Além disso, a análise do recurso exigiria reexame de elementos fático-probatórios, o que contraria a Súmula n. 7 do STJ, que veda o reexame de provas em recurso especial (fls. 802-803).
+Razões do agravo em recurso especial (fls. 809-815).
+Contraminuta ao agravo (fls. 820-822).
+É o relatório. Decido.
+Constatadas as condições para o conhecimento do agravo, passo à análise do recurso especial.
+Na origem, a reclamação busca a cassação do acórdão da Turma de Uniformização, que determinou a inclusão do Adicional de Qualificação na base de cálculo dos adicionais temporais, contrariando precedentes vinculantes do Órgão Especial do Tribunal de Justiça de São Paulo. Alega-se que a decisão viola a orientação do IRDR n. 40 e do MS n. 2160813-79.2014.8.26.0000, que proíbem tal inclusão.
+O Tribunal a quo extinguiu o feito sem resolução do mérito, por inadequação da medida, pois não se enquadra nas hipóteses regimentais ou legais que a viabilizam, ao fundamento de que o Estado de São Paulo utilizou a reclamação como sucedâneo recursal, buscando reexame de mérito e de provas, o que é inviável na via eleita.
+Inicialmente, quanto à falta de manifestação alegada, não procedem os argumentos de que não houve pronunciamento sobre os pontos relatados como omissos, pois o Tribunal de origem expressou a seguinte motivação (fl. 739):
+Segundo a embargante, sendo ela parte beneficiária da decisão impugnada na reclamação, vindo aos autos se manifestar, deve seu patrono receber os honorários pelo trabalho despendido.
+É certo que a Reclamação, com sua nova redação dada pelo Novo Código de Processo Civil, tem natureza de ação, e instituiu o contraditório obrigatório e tornou imprescindível citação do beneficiário do ato reclamado (artigo 989, inciso III).
+Sendo assim, a reclamação tomou novo rito, tornando possível a condenação do sucumbente ao pagamento dos respectivos honorários, conforme parâmetros legais.
+Contudo, não cabem honorários em Reclamação decorrente de ação originária do Juizado Especial.
+Como se percebe, ao contrário da tese defendida pela parte ora recorrente, o Tribunal de origem efetivamente enfrentou a omissão alegada e fundamentou no sentido de que a reclamação, agora com natureza de ação, exige contraditório e citação do beneficiário, permitindo condenação em honorários. No entanto, não são devidos honorários em reclamações originárias de Juizado Especial.
+Logo, constata-se que a alegada afronta ao art. 1.022 do CPC não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia dos autos de forma fundamentada e sem omissões, com a apreciação de todos os argumentos relevantes os quais poderiam infirmar a conclusão adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. FUNDAMENTO INATACADO. DEFICIÊNCIA. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. ACÓRDÃO CONFORME A JURISPRUDÊNCIA DO STJ. PARALISAÇÃO DO PROCESSO. RESPONSABILIDADE. VERIFICAÇÃO. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.655.010/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/12/2024, DJEN de 3/2/2025.)
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA DE VÍCIOS. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. SERVIDOR PÚBLICO CELETISTA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. TEMA N. 163 DO STF. ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. Em relação aos arts. 489 e 1.022 do CPC, deve-se ressaltar que o acórdão recorrido não possui omissão ou ausência de prestação jurisdicional suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente como resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável.
+ ..
+6. Agravo interno desprovido. (AgInt no REsp n. 2.035.216/RN, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+Com efeito, é importante ressaltar que o Tribunal não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. A propósito, confiram-se os seguintes julgados: AgInt no AREsp n. 1.793.376/AL, relator Ministro Gurgel de Faria, Primeira Turma, DJe 30/3/2022 e AREsp n. 1.621.544/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe 13/5/2020.
+Não se vislumbram, portanto, a alegada omissão e a negativa de prestação jurisdicional.
+Entretanto, quanto a fixação de honorários sucumbenciais em reclamação, ainda que proveniente de Juizado Especial, a decisão recorrida não guarda consonância com a jurisprudência desta Corte Superior, que entende ser cabível o pagamento de verba honorária neste caso.
+Nessa senda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECLAMAÇÃO CONTRA ACÓRDÃO PROLATADO POR TURMA RECURSAL. ART. 988, II, DO NCPC. ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO. CABIMENTO. HONORÁRIOS SUCUMBENCIAIS. RECLAMAÇÃO. RELAÇÃO ANGULARIZADA. JUIZADO ESPECIAL. VERBA CABÍVEL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A existência de premissa equivocada na decisão impõe o acolhimento de embargos de declaração para sanar o erro material.
+2. São cabíveis honorários advocatícios em reclamação na hipótese em que angularizada a relação processual.
+3. A circunstância de a reclamação ter sido ajuizada contra acórdão prolatado pelo Juizado Especial não inviabiliza a imposição da verba honorária.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt nos EDcl nos EDcl no AREsp n. 2.429.334/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/12/2024, DJEN de 10/12/2024.)
+Ante o exposto, com fundamento no art. 932 do CPC, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos à origem para fixação da verba honorária.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ALEGADA OFENSA AO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. RECLAMAÇÃO CONTRA DECISÃO DE JUIZADO ESPECIAL. FIXAÇÃO DE VERBA HONORÁRIA DE SUCUMBÊNCIA. CABIMENTO. PRECEDENTE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL .
