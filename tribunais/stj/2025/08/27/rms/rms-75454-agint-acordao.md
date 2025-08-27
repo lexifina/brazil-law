@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. OCORRÊNCIA DE ERRO MATERIAL E DE INEXATIDÃO ARITMÉTICA NOS CÁLCULOS DE PRECATÓRIO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. FALTA DE REGULARIZAÇÃO DO PREPARO. DESERÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 187 DO STJ.
+I - Na origem, trata-se de mandado de segurança, objetivando reconhecer a ocorrência de erro material e de inexatidão aritmética nos cálculos de precatório, e determinada a correção e pagamento do crédito remanescente, por meio de pagamento complementar nos autos do precatório original. No Tribunal a quo, denegou-se a segurança.
+II - O recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, assim como se observou irregularidade na representação processual.
+III - A parte, embora regularmente intimada para sanar o referido vício, oportu nidade em que juntou documentos relativos à representação processual, mas deixou de regularizar o preparo. Dessa forma, o recurso não foi devida e oportunament e preparado, incidindo, na espécie, o disposto na Súmula n. 187/STJ.
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de mandado de segurança, objetivando reconhecer a ocorrência de erro material e de inexatidão aritmética nos cálculos de precatório, e determinada a correção e pagamento do crédito remanescente, por meio de pagamento complementar nos autos do precatório original. No Tribunal a quo, denegou-se a segurança.
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso em mandado de segurança fundamentado no art. 5º, LXIX, da Constituição Federal e da Lei Nacional n. 12.016/2009, visando reformar acórdão do Tribunal de Justiça do Estado de Tocantins, assim ementado:
+MANDADO DE SEGURANÇA. IMPETRAÇÃO ADMITIDA. ART. 5º, I, DA LEI Nº 12.016/2009. PRECATÓRIO. REQUERIDA ATUALIZAÇÃO DO CÁLCULO ENTRE A ATUALIZAÇÃO DESTE E EFETIVO PAGAMENTO. RESOLUÇÃO Nº 303/2019 CNJ. PORTARIA Nº 1.894/2023 DO TJTO. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+1 . Vislumbra-se ser comportável a via mandamental para a discussão apresentada. Isto porque está-se diante de ato do qual não cabe recurso administrativo com efeito suspensivo, nos termos do art. 5º, I, da Lei nº 12.016/2009.
+2. Ademais, é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que cabe a impetração de Mandado de Segurança contra ato da Presidência de Tribunal, porquanto os atos do Presidente que disponham sobre o processamento dos precatórios possuem caráter administrativo (STJ - AgRg no R Esp: 1288572 AM 2011/0253219-7, Relator: Ministro Napoleão Nunes Maia Filho, Data de Julgamento: 18/10/2016). Acrescente-se que, nos termos do RITJTO (art. 7º, I, "g"), compete ao Tribunal Pleno processar e julgar, originariamente, "os mandados de segurança contra atos do próprio Tribunal de Justiça e de seu Presidente". Preliminar afastada.
+3. Com efeito, a legislação sobre o tema admite a revisão dos cálculos do Precatório, desde que tal pretensão esteja relacionada à incorreção material ou à utilização de critérios em descompasso com a lei ou com o título executivo judicial, bem como sejam antes de seu pagamento ao credor.
+4 . Do compulsar detido dos autos, não se observa, na hipótese, nenhuma ocorrência de erro ou inexatidão material no cálculo que possa justificar a correção ora pugnada pela parte impetrante. Na conformidade do que restou estabelecido pelo citado art. 1º-E, da Lei n. 9.494/97, "as contas elaboradas para aferir o valor dos precatórios somente são passíveis de revisão pelo Presidente do Tribunal antes de seu pagamento ao credor". Portanto, efetuado o pagamento, não há que se falar em revisão de cálculos.
+6. No presente caso, após o último prazo para impugnação, que se deu em 09/08/2023 (após a ciência das partes), o alvará judicial foi expedido em 15/08/2023, com o efetivo pagamento ocorrido na data de 16/08/2023. Ou seja, não fugiu-se da razoabilidade, nem houve violação há qualquer preceito normativo sobre à questão.
+7. Esclareça-se, ainda, que a pretensão da parte impetrante implica em atualização de cálculos infinita, pois a cada pagamento, seria necessária uma nova atualização, dada a impossibilidade de se efetuar o depósito na mesma data em que os cálculos foram atualizados, porquanto o procedimento a ser seguido é obrigatório, burocrático, envolvendo partes, servidores, magistrado, banco. Ou seja, a cada pagamento surgiria a necessidade de novo cálculo, eternizando, deste modo, o sistema de pagamento dos precatórios.
+8. Segurança denegada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do Recurso em Mandado de Segurança."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+É pacífico na jurisprudência dos tribunais superiores que a ausência de juntada do comprovante de pagamento das custas recursais no momento da interposição do recurso não implica, por si só, a inadmissibilidade do recurso, desde que o pagamento tenha sido efetivamente realizado dentro do prazo legal, conforme ocorreu no presente caso.
+O Código de Processo Civil de 2015 consagra a primazia da decisão de mérito, priorizando a instrumentalidade das formas e vedando formalismos excessivos que inviabilizem a análise da controvérsia, nos termos do artigo 1.007, § 4º, do CPC/2015, que demonstra a intenção do legislador em mitigar a rigidez formal na exigência do preparo, garantindo à parte a possibilidade de sanar eventuais vícios que não comprometam a higidez processual.
+ ..
+Também importa destacar que, nos termos do artigo 277 do CPC/2015, nenhum ato processual será declarado nulo se não houver demonstração de prejuízo para a parte adversa ou para o regular andamento do feito. No caso em tela, a ausência de prejuízo é manifesta, pois o pagamento das custas foi realizado dentro do prazo recursal, inexistindo qualquer intenção de protelação ou inadimplência por parte da recorrente.
+O princípio da instrumentalidade das formas exige que as formalidades processuais sejam interpretadas de maneira a garantir a efetividade da prestação jurisdicional, sem comprometer o direito da parte de ver seu recurso analisado. Dessa forma, a exigência de comprovação simultânea ao ato de interposição do recurso não pode se sobrepor à comprovação efetiva e tempestiva do pagamento.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. OCORRÊNCIA DE ERRO MATERIAL E DE INEXATIDÃO ARITMÉTICA NOS CÁLCULOS DE PRECATÓRIO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. FALTA DE REGULARIZAÇÃO DO PREPARO. DESERÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 187 DO STJ.
+I - Na origem, trata-se de mandado de segurança, objetivando reconhecer a ocorrência de erro material e de inexatidão aritmética nos cálculos de precatório, e determinada a correção e pagamento do crédito remanescente, por meio de pagamento complementar nos autos do precatório original. No Tribunal a quo, denegou-se a segurança.
+II - O recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, assim como se observou irregularidade na representação processual.
+III - A parte, embora regularmente intimada para sanar o referido vício, oportu nidade em que juntou documentos relativos à representação processual, mas deixou de regularizar o preparo. Dessa forma, o recurso não foi devida e oportunament e preparado, incidindo, na espécie, o disposto na Súmula n. 187/STJ.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Por meio da análise do recurso de Maria Helena Bispo Varanda, verifica-se que o recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, assim como se observou irregularidade na representação processual.
+A parte, embora regularmente intimada para sanar o referido vício, manifestou-se às fls. 511/516, oportunidade em que juntou documentos relativos à representação processual, mas deixou de regularizar o preparo.
+Dessa forma, o recurso não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
