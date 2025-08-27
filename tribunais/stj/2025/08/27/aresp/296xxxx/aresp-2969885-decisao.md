@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo de SERGIO ROBERTO MAECAVA e FABRICIO DA SILVA SOUSA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 0734815-98.2023.8.07.0003.
+Consta dos autos que o agravante Sérgio Roberto foi condenado pela prática do delito tipificado no 155, § 4º, incisos I e IV, do Código Penal (furto qualificado), à pena de 1 ano de reclusão, em regime inicial semiaberto, e 5 dias-multa (fl. 438).
+O agravante Fabrício foi condenado pela prática do delito tipificado no 155, § 4º, incisos I e IV, do Código Penal (furto qualificado), à pena de 10 meses e 20 dias de reclusão, em regime inicial semiaberto, e 4 dias-multa (fl. 440)
+Recurso de apelação interposto pela defesa foi desprovido (fl. 657). O acórdão ficou assim ementado:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. FURTO QUALIFICADO TENTADO. DOSIMETRIA. ANÁLISE DESFAVORÁVEL DOS ANTECEDENTES E DA CONDUTA SOCIAL MANTIDA. REINCIDÊNCIA. REGIME SEMIABERTO MANTIDO. GRATUIDADE DE JUSTIÇA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. I. CASO EM EXAME 1. Apelação criminal interposta contra sentença que condenou os apelantes pelo crime de furto qualificado tentado. A defesa busca o afastamento dos maus antecedentes e da valoração negativa da conduta social, além da alteração do regime prisional para o aberto e a concessão de gratuidade de justiça. II. QUESTÃO EM DISCUSSÃO 2. Há três questões em discussão: (i) verificar a validade da valoração dos antecedentes criminais de um dos apelantes; (ii) analisar a negativação da conduta social de ambos os apelantes; e (iii) definir a adequação do regime semiaberto para o cumprimento da pena. III. RAZÕES DE DECIDIR 3. Mantém-se a valoração negativa dos antecedentes, uma vez que a certidão utilizada ainda está em execução, bem como porque a jurisprudência não limita a consideração de antecedentes ao prazo quinquenal da reincidência.A conduta social desfavorável de ambos os apelantes deve ser mantida, uma vez que cometeram o crime enquanto cumpriam pena, o que demonstra desapreço ao processo de ressocialização. 5. O regime inicial semiaberto é mantido, em razão da reincidência dos apelantes e das circunstâncias judiciais desfavoráveis. 6. O pedido de concessão da gratuidade da Justiça deve ser feito ao Juízo da Execução, o qual é competente para verificar a condição de hipossuficiência do condenado. IV. DISPOSITIVO E TESE 7. Recurso desprovido. Tese de julgamento 8. O prazo quinquenal da reincidência não se aplica para a valoração dos antecedentes criminais. 9. A prática de novo delito durante o cumprimento de pena justifica a negativação da conduta social. 10. O regime semiaberto é adequado para reincidentes, mesmo que a pena seja inferior a 4 anos." (fls. 648/649)
+Em sede de recurso especial (fls. 684/698), a defesa apontou violação aos arts. 33, §§ 2º e 3º, do CP, porque o TJDFT manteve regime mais gravoso apenas em razão da reincidência.
+Em seguida, a defesa apontou violação ao 59, do CP, porque o tribunal manteve a exasperação da reprimenda por valorar negativamente a conduta dos agravantes, que cometeram o crime possuindo ações penais em curso.
+Requerem o afastamento da valoração negativa, na primeira fase da dosimetria, e a fixação de regime inicial aberto.
+Contrarrazões do MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS (fls. 710/713).
+O recurso especial foi inadmitido no TJDFT em razão de óbice da Súmula n. 83 do STJ (fls. 719/721).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 733/749).
+Contraminuta do Ministério Público (fl. 757).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo conhecimento do agravo para desprover o recurso especial (fls. 783/785).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao art. 59, do CP, o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS manteve a pena nos seguintes termos do voto do relator:
+"Quanto à conduta social, a sentença considerou desfavorável tendo em vista que o apelante praticou o crime durante o cumprimento de pena por delito anterior, enquanto gozava de benefícios da execução da pena, conforme relatório da execução penal (ID 62050495). Registre-se que, em relação à conduta social, deve-se ter em conta o registro de caminhada de vida do agente, o seu comportamento, de forma que cometer outro delito enquanto ainda estava em cumprimento de pena demonstra nítido desrespeito com o processo de ressocialização e total inobservância das diretrizes da lei de execução penal, descreditando a fé nela depositada pelo Poder Judiciário e pela sociedade como um todo." (fl. 654).
+Extrai-se do trecho acima que o acórdão recorrido não considerou a existência de ações penais em curso, mas sim o fato de os réus estarem em cumprimento de pena quando do cometimento do crime, para manter a elevação da pena-base.
+A dissociação entre a tese recursal e a fundamentação do acórdão recorrido faz surgir o fechamento da Súmula n. 284, do STF.
+O entendimento posto no acórdão recorrido, ademais, encontra amparo na jurisprudência desta Corte:
+DIREITO PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. CONDUTA SOCIAL. NEGATIVAÇÃO EM RAZÃO DA PRÁTICA DE NOVO CRIME DURANTE O CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO IDÔNEA. JURISPRUDÊNCIA CONSOLIDADA. INEXISTÊNCIA DE BIS IN IDEM COM A AGRAVANTE DA REINCIDÊNCIA. FUNDAMENTOS DIVERSOS. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto pelo Ministério Público de Minas Gerais contra o acórdão do Tribunal de Justiça de Minas Gerais que afastou a valoração negativa da conduta social na dosimetria da pena, em razão da prática de novo crime durante o cumprimento de pena por crime anterior, sob o argumento de evitar bis in idem.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se é válida a valoração negativa da conduta social do réu na dosimetria da pena, quando fundamentada na prática de crime durante o cumprimento de pena anterior.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça admite a valoração negativa da conduta social quando o agente pratica novo crime enquanto cumpre pena por delito anterior, considerando que tal fato demonstra comportamento social inadequado.
+4. No caso concreto, o Tribunal de origem considerou que o recorrido cometeu nova infração penal enquanto cumpria pena por outro delito, o que configuraria reincidência.
+5. A decisão recorrida encontra-se em dissonância dos precedentes desta Corte, que reconhecem como idônea a fundamentação da valoração negativa da conduta social com base na prática de infração durante o cumprimento de pena.
+IV. Dispositivo e tese
+6. Recurso provido.
+Tese de julgamento: "A prática de novo crime durante o cumprimento de pena por crime anterior justifica a valoração negativa da conduta social, sem configurar bis in idem em relação à agravante da reincidência, pois os fundamentos são distintos".
+Dispositivos relevantes citados: Código Penal, art. 59; Código Penal, art. 63.Jurisprudência relevante citada: STJ, AgRg no HC 556.444/DF, Rel. Min. Sebastião Reis Júnior, DJe 24/8/2020; STJ, AgRg no AREsp n. 2.276.637/PR, Rel. Min. Ribeiro Dantas, DJe 28/4/2023, STJ, AREsp n. 2.633.799/MG, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 6/12/2024.
+(REsp n. 2.211.187/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+Sobre a violação ao art. 33, §§ 2º e 3º, do CP, o TJDFT manteve o regime semiaberto aos agravantes, nos seguintes termos do voto do relator:
+"De igual modo, correto o regime inicial semiaberto para o cumprimento de pena, pois, embora a reprimenda seja inferior a 4 (quatro) anos, o apelante é reincidente e há três circunstâncias judiciais em seu desfavor (alínea "b" do § 2º e § 3º do art. 33 do CP).
+ ..  correto o regime inicial semiaberto para o cumprimento de pena, pois, embora a reprimenda seja inferior a 4 (quatro) anos, o apelante é reincidente e há 2 circunstâncias judiciais em seu desfavor (alínea "b" do § 2º e § 3º do art. 33 do CP)" (fls. 655/656)
+Extrai-se dos trechos acima que o regime inicial mais gravoso foi estabelecido tendo em conta a reincidência dos agravantes e múltiplas circunstâncias judiciais negativas.
+Tanto a reincidência, quanto as circunstâncias negativas, por si sós, podem autorizar a fixação de regime mais gravoso. Nesse sentido:
+DIREITO PENAL. AGRAVOS EM RECURSO ESPECIAL. PLEITO DE RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. CIRCUNSTÂNCIA IDONEAMENTE AFASTADA PELA ORIGEM. PEDIDO DE FIXAÇÃO DO REGIME INICIAL ABERTO. RÉU REINCIDENTE. CIRCUNSTÂNCIA QUE IMPÕE O SEMIABERTO COMO REGIME MAIS BRANDO POSSÍVEL. RECURSOS CONHECIDOS E DESPROVIDOS.
+1. Agravos em recurso especial interpostos contra decisão que inadmitiu os recursos especiais, no qual os recorrentes alegam violação ao art. 33, §2º, b), e ao art. 65, III, d), do Código Penal, buscando, respectivamente, a fixação de regime de cumprimento de pena menos gravoso e o reconhecimento da confissão qualificada como circunstância atenuante.
+2. O Tribunal de Justiça negou provimento às apelações criminais interpostas pelos réus, mantendo as condenações e o regime inicial semiaberto, em razão da reincidência.
+3. A questão em discussão consiste em saber se a condição de reincidente dos réus impede a fixação de regime prisional mais brando que o semiaberto, mesmo quando a pena é inferior a quatro anos.
+4. Outra questão em discussão é se a confissão qualificada do réu pode ser reconhecida como circunstância atenuante, mesmo quando o réu nega a autoria do delito.
+5. A condição de reincidente dos réus justifica a fixação do regime inicial semiaberto, conforme o art. 33, §2º, b, do Código Penal
+6. A confissão qualificada não pode ser reconhecida no caso em que a Corte de Origem destacou que, embora o réu tenha admitido sua presença no estabelecimento comercial e a retirada de mercadorias, negou veementemente a autoria do delito ao afirmar que agiu apenas como intermediário a pedido do primeiro apelante, sem conhecimento da fraude. À luz do contexto narrado na origem, o acusado não admitiu a prática criminosa e buscou se eximir da própria configuração típica ao atribuir o dolo da conduta exclusivamente a terceiro. Logo, não é caso de incidência da Súmula n. 545 deste STJ, porque houve verdadeira negativa de autoria, logicamente incompatível com a confissão, ainda que qualificada.
+7. A revisão da dosimetria da pena em recurso especial é vedada, salvo em casos de manifesta desproporcionalidade, o que não se verifica nos autos.
+8. Agravo conhecido para negar provimento aos recursos especiais.
+(AREsp n. 2.304.155/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 26/12/2024.)
+ ..  A presença de circunstâncias judiciais desfavoráveis autoriza a manutenção do regime prisional inicial semiaberto, mais gravoso sequente, nos termos do artigo 33, §§ 2º e 3º, do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 915.006/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 19/8/2024.)
+O entendimento do acórdão condenatório, portanto, encontra amparo na jurisprudência consolidada desta Corte.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
