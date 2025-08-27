@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VALÉRIO VALDRIGHI, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/2/2025.
+Concluso ao gabinete em: 21/8/2025.
+Ação: declaratória de nulidade de títulos de crédito, ajuizada por PRICILA DE CAMARGO SOARES, em face de VALÉRIO VALDRIGHI.
+Sentença: acolheu a matéria processual sustentada em sede de contestação e julgou o feito extinto, condenando ALCEU REINALDO SOARES e JOSÉ ALENCAR DE CAMARGO SOARES ao pagamento das custas e dos honorários, os quais foram fixados em 10% sobre o valor da causa, notando-se o diferimento de custas para o final, o que teve confirmação pelo V. Acórdão de fl. 381-386. (e-STJ fl. 396-401)
+Acórdão: deu provimento à Apelação interposta por ALCEU REINALDO SOARES e JOSÉ ALENCAR DE CAMARGO SOARES, nos termos da seguinte ementa:
+"DIREITO CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. 1. Alegação de nulidade de notas promissórias em razão de falsidade de assinatura. Inicialmente, não há se falar em coisa julgada. Matéria ventilada pela autora em outro feito (embargos de terceiro) que não possui relação com a causa de pedir aqui deduzida. 2. Não se cogita, ainda, de prescrição. Questão relativa à inexigibilidade de títulos por falsidade de assinatura que leva à nulidade de negócio jurídico. Matéria de ordem pública que não se sujeita à prescrição. Inteligência dos arts. 168 e 169 do Código Civil. Precedentes do Superior Tribunal de Justiça. 3. Necessidade de perícia para averiguar alegada falsidade da assinatura e fraude na emissão das notas promissórias. Prova expressamente requerida pela autora, oportuna e justificadamente. Possibilidade, ainda, de prova técnica indireta, máxime pois já realizada pelas partes. Cerceamento de defesa caracterizado. Sentença anulada. Determinação de retorno dos autos à origem a fim de que seja realizada a prova pertinente. RECURSO DA AUTORA PROVIDO." (e-STJ fl. 477)
+Embargos de Declaração: opostos, por ALCEU REINALDO SOARES e JOSÉ ALENCAR DE CAMARGO SOARES, foram rejeitados. (e-STJ fls. 548-552)
+Recurso especial: alega violação dos arts. 485, V, 502, 508, CPC, 168, 205, CC, sustentando que: i) é preciso reconhecer a existência de coisa julgada com relação à pretensão deduzida em juízo pela parte recorrida; e, ii) embora não tenha a parte recorrida alegado especificamente na inicial dos embargos de terceiro que o de cujus não teria assinado as notas promissórias, bem como que nunca teria recebido o dinheiro, o fato não afasta a incidência da coisa julgada material na hipótese; e, iii) é totalmente possível que a regularidade do título seja passível de discussão em sede de embargos de terceiro; e, iv) a pretensão da parte recorrida em ver reconhecida a fantasiosa nulidade (simulação) do título que embasa a execução movida pela parte recorrente esbarra no óbice intransponível da coisa julgada material, uma vez que a sentença de mérito proferida nos autos dos embargos de terceiro opostos (processo nº 925/2009 - 2009.005195-3) reconheceu a corresponsabilidade de PRICILA DE CAMARGO SOARES pela dívida, bem como que esta deriva de negócio jurídico regular. (e-STJ fls. 508-530)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 485, V, 502, 508, CPC, 168, CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 205, CC, indicado como violado, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que os embargos de terceiro, já julgados, versaram sobre a manutenção de penhora sobre a meação pertencente à PRICILA DE CAMARGO SOARES, imóvel de matrícula nº 2.975, e em momento algum foi discutido naqueles autos a regularidade dos títulos objeto de execução, até porque tal não seria mesmo possível em embargos de terceiro, por isso o quanto decidido naquele processo não faz coisa julgada em relação à discussão que se desenvolve acerca da autenticidade das assinaturas lançadas nas notas promissórias objeto desta ação declaratória, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULOS DE CRÉDITO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória de nulidade de títulos de crédito.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca do dispositivo legal indicado como violado impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
