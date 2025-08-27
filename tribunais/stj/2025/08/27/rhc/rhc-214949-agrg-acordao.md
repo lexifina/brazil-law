@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto contra a decisão que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante.
+2. A prisão preventiva foi decretada com base na gravidade concreta da conduta delituosa, evidenciada pelo modus operandi do crime de homicídio, premeditado e executado com golpes de faca.
+3. A fundamentação da prisão preventiva está baseada na gravidade concreta da infração penal e na necessidade de garantir a ordem pública, conforme entendimento pacífico do Superior Tribunal de Justiça.
+4. A existência de condições pessoais favoráveis, como primariedade e residência fixa, não infirma a necessidade da prisão cautelar se não tiverem relação com os motivos determinantes da medida.
+5. A imposição de medidas cautelares diversas da prisão seria insuficiente para garantir a ordem pública contra os riscos que a liberdade do agravante representa.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAILTON SILVA DE JESUS contra a decisão de fls. 262-264, que negou provimento ao recurso ordinário em habeas corpus.
+Nas razões do recurso, a defesa alega que a decisão agravada merece ser reformada, uma vez que o decreto prisional teria sido fundamentado de forma genérica, sem explicitar a real necessidade da medida.
+A defesa sustenta que, a despeito da gravidade do crime em abstrato, as circunstâncias concretas do delito não revelariam "indistinta violência ou brutalidade a ensejar a manutenção da custódia em garantia da ordem pública, porquanto o modus operandi em nada difere dos próprios aos crimes de homicídio".
+Argumenta que a desproporcionalidade da prisão preventiva seria evidenciada pela constatação de que o agravante é primário e tem residência fixa, razão pela qual seriam suficientes, no caso, medidas cautelares do art. 319 do Código de Processo Penal.
+Ao final, requer a reconsideração da decisão agravada e, caso assim não se entenda, a submissão do recurso ao colegiado, com o consequente provimento.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto contra a decisão que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante.
+2. A prisão preventiva foi decretada com base na gravidade concreta da conduta delituosa, evidenciada pelo modus operandi do crime de homicídio, premeditado e executado com golpes de faca.
+3. A fundamentação da prisão preventiva está baseada na gravidade concreta da infração penal e na necessidade de garantir a ordem pública, conforme entendimento pacífico do Superior Tribunal de Justiça.
+4. A existência de condições pessoais favoráveis, como primariedade e residência fixa, não infirma a necessidade da prisão cautelar se não tiverem relação com os motivos determinantes da medida.
+5. A imposição de medidas cautelares diversas da prisão seria insuficiente para garantir a ordem pública contra os riscos que a liberdade do agravante representa.
+6. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme consta da decisão agravada, a prisão preventiva do recorrente foi decretada nos seguintes termos (fls. 13-14):
+A regular situação de flagrância em que foi surpreendido o autuado torna certa a materialidade delitiva, indiciando também a autoria, ambas mencionadas nos relatos colhidos neste auto de prisão. Os fatos apresentam gravidade concreta, porquanto o custodiado em termo de interrogatório policial afirmou ter realizado os golpes que ceifaram a vida da vítima. O contexto dos elementos narrados no auto de prisão em flagrante demonstra especial periculosidade, tornando necessária a constrição cautelar para garantia da ordem pública. Desse modo, a prisão provisória encontra amparo na necessidade de se acautelar a ordem pública, prevenindo-se a reiteração delitiva e buscando também assegurar o meio social e a própria credibilidade dada pela população ao Poder Judiciário. Ressalto que o(s) delito(s) imputado(s) comina(m), abstratamente, pena privativa de liberdade máxima maior que 4 (quatro) anos de reclusão (exigência do inciso I do art. 313 do CPP). Ante todas as circunstâncias fáticas acima delineadas, as medidas cautelares alternativas à prisão (art. 319, do CPP) não se mostram, por ora, suficientes e adequadas para acautelar os bens jurídicos previstos no inciso I, do art. 282, do Código Processual, sendo de todo recomendável a manutenção da segregação como único instrumento que atende às peculiaridades do caso concreto. Diante do exposto, presentes todos os requisitos ensejadores da custódia cautelar, CONVERTO EM PREVENTIVA A PRISÃO EM FLAGRANTE DE Railton Silva de Jesus, com fundamento nos arts. 282, § 6º, 310, inciso II, 312 e 313, todos do CPP. (grifo próprio.)
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois o recorrente, de modo premeditado, "adquiriu uma faca e, quando com eles bebiam, investiu fatalmente contra a vida de um deles" (fl. 241).
+Essas circunstâncias, uma vez que evidenciam a gravidade concreta da conduta delituosa, justificam a imposição da prisão cautelar como meio de assegurar a ordem pública. É pacífico o entendimento do Superior Tribunal de Justiça de que não se configura constrangimento ilegal quando a segregação preventiva é decretada nas razões do modus operandi empregado na prática do delito.
+Sobre o tema:
+PROCESSUAL PENAL E PENAL. RECURSO HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO CONCRETA. FUGA. MODUS OPERANDI. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA. RECURSO HABEAS CORPUS CONHECIDO EM PARTE E IMPROVIDO.
+1. Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.
+2. Apresentada fundamentação concreta para a decretação da prisão preventiva, consubstanciada na fuga do recorrente e no modus operandi do delito, descrita pela frieza e a premeditação demonstradas na conduta do autuado, que, ao sair em perseguição à vítima, se apossou de uma faca da casa de outrem, conferem ao crime especial gravidade. Além disso, a ousadia exibida, ao executar o homicídio em frente à casa da vítima, reforça a periculosidade do autuado e sustenta a necessidade da decretação de sua prisão preventiva, como forma de garantir a ordem pública, bem como em que os acusados perseguiram a vítima até a casa dela e, ali, após a encurralarem, o autuado lhe desferiu um único, mas mortal, golpe.
+Ouvindo os gritos de socorro de seu filho, a mãe saiu à janela e foi injuriada pelo autuado e pelo outro agressor, não há que se falar em ilegalidade do decreto de prisão preventiva.
+3. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+4. Recurso em habeas corpus conhecido em parte, e nessa extensão, improvido.
+(RHC n. 93.224/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 6/3/2018, DJe de 14/3/2018.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; e AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Dessa forma, o agravante não trouxe motivos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
