@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO TRABALHISTA. AGENTE COMUNITÁRIO DE SAÚDE. ENTE MUNICIPAL. ADICIONAL DE INSALUBRIDADE. NÃO CONHECIMENTO DO RECURSO ESPECIAL. SÚMULA N. 284/STF. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de reclamação trabalhista ajuizada por agente comunitário de saúde contra ente municipal visando o pagamento de parcelas trabalhistas devidas. Na sentença, o pedido foi julgado parcialmente procedente. No Tribunal de origem, foi negado provimento a ambos os recursos das partes, inaltera da a sentença. Opostos embargos de declaração, foram rejeitados. Interposto recurso especial, foi inadmitido pela presidência do Tribunal de Justiça de Pernambuco (TJPE). O recorrente interpõe agravo em recurso especial, o qual é conhecido pelo presidente do Superior Tribunal de Justiça (STJ), todavia, a decisão monocrática não conhece o recurso especial.
+II - Aplica-se ao caso, portanto, o óbice da Súmula n. 284/STF, tendo em vista a dissociação das razões recursais com os fundamentos utilizados no aresto impugnado, tendo a parte recorrente não impugnado, de forma específica, os seus fundamentos. Nesse sentido: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+III -Ademais, a revisão, quanto à comprovação ou não do direito do autor nos autos, demandaria necessariamente a análise dos fatos e provas colacionados nas instâncias inferiores, o que é vedado ante a incidência da Súmula n. 7 deste Tribunal.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão do Presidente do Superior Tribunal de Justiça que não conheceu do recurso especial interposto.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 373, I, do CPC, no que concerne ao ônus da prova sobre os fatos constitutivos do direito da parte recorrida, haja vista que não foi demonstrado nos autos o inadimplemento das verbas pleiteadas.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+A decisão recorrida, por sua vez, foi devidamente impugnada pelo Recorrente, ora Agravante, uma vez que este rebateu especificamente os fundamentos da decisão impugnada, quando da interposição do recurso especial, demonstrando a violação à legislação federal em debate, pelo fato do TJPE não ter considerado que o ônus de provar o direito requerido, recaia sobre o Autor, e não sobre o Réu.
+ ..
+Ademais, apenas para que não restem dúvidas de que o Agravante impugnou especificamente a decisão recorrida, cumpre ressaltar que a Edilidade transcreveu no Recurso Especial a legislação federal que estava sendo violada e o trecho da decisão que violou os dispositivos
+ ..
+Em contrarrazões ao agravo, a parte recorrida afirma:
+ ..
+Insta repisar que a parte ré continua buscando o reexame de prova, o que não merece acolhimento, com base na Súmula 07 do STJ
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO TRABALHISTA. AGENTE COMUNITÁRIO DE SAÚDE. ENTE MUNICIPAL. ADICIONAL DE INSALUBRIDADE. NÃO CONHECIMENTO DO RECURSO ESPECIAL. SÚMULA N. 284/STF. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de reclamação trabalhista ajuizada por agente comunitário de saúde contra ente municipal visando o pagamento de parcelas trabalhistas devidas. Na sentença, o pedido foi julgado parcialmente procedente. No Tribunal de origem, foi negado provimento a ambos os recursos das partes, inaltera da a sentença. Opostos embargos de declaração, foram rejeitados. Interposto recurso especial, foi inadmitido pela presidência do Tribunal de Justiça de Pernambuco (TJPE). O recorrente interpõe agravo em recurso especial, o qual é conhecido pelo presidente do Superior Tribunal de Justiça (STJ), todavia, a decisão monocrática não conhece o recurso especial.
+II - Aplica-se ao caso, portanto, o óbice da Súmula n. 284/STF, tendo em vista a dissociação das razões recursais com os fundamentos utilizados no aresto impugnado, tendo a parte recorrente não impugnado, de forma específica, os seus fundamentos. Nesse sentido: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+III -Ademais, a revisão, quanto à comprovação ou não do direito do autor nos autos, demandaria necessariamente a análise dos fatos e provas colacionados nas instâncias inferiores, o que é vedado ante a incidência da Súmula n. 7 deste Tribunal.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A deficiência na fundamentação recursal fica comprovada quando o recorrente não indica qual dispositivo de lei federal foi violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+O Tribunal de origem manifestou-se nos seguintes termos:
+Caberia, destarte, ao município apontado como inadimplente demonstrar nos autos o pagamento dos valores cobrados, a fim de se desincumbir da obrigação. Vale dizer, a teor do art. 373, II, do CPC/2015, é ônus do réu constituir prova dos fatos impeditivos, modificativos e extintivos do direito do autor, e, não o tendo feito, deve arcar com o pagamento das verbas salariais reclamadas, em face do reconhecimento da procedência do pedido inaugural.
+A parte autora juntou à peça inaugural documentos capazes de constituir o seu direito, notadamente pela demonstração do vínculo com o demandado e diversos contracheques que evidenciam o não pagamento das férias, acrescidas do terço constitucional, e 13º salário.
+A parte demandada, outrossim, não trouxe aos autos quaisquer elementos probatórios aptos a desconstituírem a tese autoral.
+Ressalte-se que a apelante tem toda a facilidade administrativa e operacional para trazer aos autos documentos que comprovem a quitação das verbas pleiteadas nos autos, no entanto, não o fez.
+ ..
+Impende ressaltar que o reconhecimento nesta ocasião acerca da inexistência de pagamento das verbas pleiteadas na exordial não afasta a possibilidade de a fazenda pública, antes mesmo do trânsito em julgado, comprovar o efetivo pagamento das verbas mediante os instrumentos aqui referidos de modo a evitar eventual pagamento em duplicidade (fls. 658-659).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+O recorrente afirma que o Tribunal de Justiça de Pernambuco violou o artigo 373, inciso I, do CPC que trata do ônus da prova, contudo, extrai-se do teor do acórdão transcrito que o Tribunal Estadual afirmou expressamente o dever processual do ente municipal de apresentar os fatos impeditivos, modificativos e extintivos do direito do autor.
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, Dje de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Em conformidade, afirma-se, na decisão colegiada, que a parte autora juntou à peça inaugural documentos capazes de constituir o seu direito, o que vai de encontro à alegação do recorrente segundo a qual não houve a comprovação do direito autoral.
+Portanto, a revisão quanto à comprovação ou não do direito do autor nos autos demandaria necessariamente a análise dos fatos e provas colacionados nas instâncias inferiores, o que é vedado ante a incidência da Súmula n. 7 deste Tribunal.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
