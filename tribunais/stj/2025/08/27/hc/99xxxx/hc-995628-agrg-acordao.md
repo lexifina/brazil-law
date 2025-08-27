@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+A GRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE APLICAÇÃO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. IMPOSSIBLIDADE DE ANÁLISE NA VIA ELEITA POR DEMANDAR EXAME APROFUNDADO DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem negou a aplicação da causa especial de diminuição da pena prevista no § 4º do artigo 33 da Lei n. 11.343/2006, considerando que, de acordo com as provas constantes dos autos, o paciente se dedicava a atividades criminosas, de modo que ele não preencheria os requisitos para a referida diminuição. A modificação dessa conclusão demanda o revolvimento de matéria fática, o que é vedado em habeas corpus.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROBSON DANTAS MONTEIRO contra decisão de minha la vra, na qual não conheci da impetração, em virtude da impossibilidade de análise aprofundada das provas no via eleita.
+No presente recurso, a defesa alega que busca apenas a revaloração probatória com base em fatos incontroversos.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do recurso a julgamento no órgão colegiado, para a concessão da ordem com a aplicação do redutor da pena previsto no § 4º do artigo 33 da Lei n. 11.343/2006.
+É o relatório.
+EMENTA
+A GRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE APLICAÇÃO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. IMPOSSIBLIDADE DE ANÁLISE NA VIA ELEITA POR DEMANDAR EXAME APROFUNDADO DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem negou a aplicação da causa especial de diminuição da pena prevista no § 4º do artigo 33 da Lei n. 11.343/2006, considerando que, de acordo com as provas constantes dos autos, o paciente se dedicava a atividades criminosas, de modo que ele não preencheria os requisitos para a referida diminuição. A modificação dessa conclusão demanda o revolvimento de matéria fática, o que é vedado em habeas corpus.
+2. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O Tribunal de origem, ao manter o afastamento do redutor da pena referente ao tráfico privilegiado, assentou:
+" ..  Não aplico a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/06, visto que, de acordo com os "prints" trazidos pela Informação de Polícia Judiciária n.699955/2024.0010077-DPF/PDE/SP, o réu praticava habitualmente a venda de drogas, em específico o haxixe derivado da Cannabis sativa, no valor de R$ 25,00 (vinte e cinco reais) a R$ 35,00 (trinta e cinco reais) por grama. Há diversos diálogos anexados, dentre eles a conversa datada de 05.02.24 com "Alemão Príncipe", um dia antes do flagrante, que comprova que o réu estava no Paraguai coma finalidade de comprar drogas para revender em São Paulo, pois ele relata que precisava comprar umas "caminhadas", que já tinha 200 g (duzentos gramas) de entorpecente encomendado e que, chegando na cidade, iria postar a mercadoria para "os amigos ficarem cientes" (Id n. 308011358 fls. 29-58)." (fl. 27)
+Assim, constata-se que o Tribunal de origem negou a aplicação da causa especial de diminuição da pena prevista no § 4º do artigo 33 da Lei n. 11.343/2006, considerando que, de acordo com as provas constantes dos autos, o paciente se dedicava a atividades criminosas, de modo que ele não preencheria os requisitos para a referida diminuição. A modificação dessa conclusão demanda o revolvimento de matéria fática, o que é vedado em habeas corpus.
+Nesse sentido, os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. DETRAÇÃO PENAL. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+2. No caso, o Tribunal de origem afastou o redutor por entender que as circunstâncias do delito e as provas colhidas em juízo denotam a habitualidade delitiva do paciente no tráfico de drogas, pois, além dos cerca de 138 kg de maconha, foram apreendidas anotações relativas ao comércio espúrio junto aos entorpecentes.. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+3. O tema relativo à alteração do regime prisional pela detração penal, nos termos do art. 387, § 2º, do Código de Processo Penal, não foi debatido na Corte de origem, o que impede sua análise diretamente por este Tribunal Superior.
+4. Agravo regimental não provido.
+(AgRg no HC n. 902.562/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PACIENTE QUE NÃO SE TRATA DE TRAFICANTE EVENTUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O redutor da pena inserto no § 4º do art. 33 da Lei de Drogas foi afastado em decorrência dos elementos fáticos apurados na instrução processual, que demostraram que o agente dedicava-se à atividade criminosa a partir de circunstâncias concretas evidenciadas nos autos além da quantidade de droga apreendida. No ponto, destacou-se que foram apreendidos os entorpecentes e os petrechos, parte dos quais apresentavam resquícios de cocaína e maconha, além de dinheiro, bem como das fotografias de drogas e das mensagens encontradas no aparelho celular do agravante, com pedidos de compra de entorpecente por terceiros, indicando que não o fazia pela primeira vez. A modificação desse entendimento demandaria o exame aprofundado de provas, o que é vedado na estreita via do habeas corpus.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 877.618/SP, de minha relatoria, Quinta Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
