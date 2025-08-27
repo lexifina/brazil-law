@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Dosimetria da pena. Critério de exasperação. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Estadual contra decisão monocrática que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+2. O agravado foi condenado em primeira instância por porte ilegal de arma de fogo de uso restrito, com pena fixada em 4 anos e 9 meses de reclusão. O Tribunal de origem reduziu a pena para 3 anos, 6 meses e 21 dias de reclusão.
+3. O recurso especial foi inadmitido na origem com base na Súmula n. 7 do STJ, e o agravo em recurso especial foi conhecido para não se conhecer do recurso especial, em razão da Súmula n. 83 do STJ.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o critério utilizado para a exasperação da pena na primeira fase da dosimetria, baseado no termo médio dividido pelo número de circunstâncias judiciais, é adequado e proporcional.
+III. Razões de decidir
+5. O juízo de origem não implicou desproporcionalidade na fixação da pena-base, sendo fundamentado e adequado à imposição da reprimenda.
+6. A dosimetria da pena insere-se no âmbito do juízo de discricionariedade do julgador, revisável apenas em caso de inobservância dos parâmetros legais ou flagrante desproporcionalidade.
+7. A jurisprudência do STJ não reconhece direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base, desde que o critério adotado seja devidamente justificado.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A dosimetria da pena deve observar a discricionariedade motivada do julgador, respeitando os critérios de razoabilidade e proporcionalidade. 2. Não há direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base, desde que o critério adotado seja devidamente justificado.".
+Dispositivos relevantes citados: CP, art. 59; CP, art. 68; Lei n. 10.826/2003, art. 16, §1º, IV.
+Jurisprudência relevante citada: STJ, Súmula 83; STJ, AgRg no AREsp 1.577.063.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA contra decisão monocrática de minha relatoria que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+Em primeira instância, o agravado VITOR BORGES DOS SANTOS foi condenado como incurso no art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, à pena de 04 (quatro) anos e 09 (nove) meses de reclusão, em regime inicial fechado, além de 16 (dezesseis) dias-multa, no valor unitário mínimo legal (fls. 170-177).
+O Tribunal de origem, por unanimidade, deu parcial provimento à apelação interposta pela defesa, de modo a reduzir a pena para 03 (três) anos, 06 (seis) meses e 21 (vinte e um) dias de reclusão, inalteradas as demais determinações da sentença (fls. 244-282).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal. Em suas alegações recursais, sustentou violação aos arts. 59, inciso II, e 68, ambos do Código Penal. Alegou que o método utilizado na dosimetria da pena fere a sistemática adotada pelo STJ (fls. 287-299).
+O recurso especial foi inadmitido na origem, em razão do óbice da Súmula n. 7, STJ (fls. 316-317).
+Interposto agravo em recurso especial (fls. 323-331), conheceu-se do agravo para não se conhecer do recurso especial, diante do óbice da Súmula n. 83, STJ (fls. 423-426).
+Por meio do presente regimental, o agravante repisou os argumentos apresentados no agravo anterior, pugnando pelo conhecimento e provimento do recurso especial interposto (fls. 432-445).
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Dosimetria da pena. Critério de exasperação. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Estadual contra decisão monocrática que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+2. O agravado foi condenado em primeira instância por porte ilegal de arma de fogo de uso restrito, com pena fixada em 4 anos e 9 meses de reclusão. O Tribunal de origem reduziu a pena para 3 anos, 6 meses e 21 dias de reclusão.
+3. O recurso especial foi inadmitido na origem com base na Súmula n. 7 do STJ, e o agravo em recurso especial foi conhecido para não se conhecer do recurso especial, em razão da Súmula n. 83 do STJ.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o critério utilizado para a exasperação da pena na primeira fase da dosimetria, baseado no termo médio dividido pelo número de circunstâncias judiciais, é adequado e proporcional.
+III. Razões de decidir
+5. O juízo de origem não implicou desproporcionalidade na fixação da pena-base, sendo fundamentado e adequado à imposição da reprimenda.
+6. A dosimetria da pena insere-se no âmbito do juízo de discricionariedade do julgador, revisável apenas em caso de inobservância dos parâmetros legais ou flagrante desproporcionalidade.
+7. A jurisprudência do STJ não reconhece direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base, desde que o critério adotado seja devidamente justificado.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A dosimetria da pena deve observar a discricionariedade motivada do julgador, respeitando os critérios de razoabilidade e proporcionalidade. 2. Não há direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base, desde que o critério adotado seja devidamente justificado.".
+Dispositivos relevantes citados: CP, art. 59; CP, art. 68; Lei n. 10.826/2003, art. 16, §1º, IV.
+Jurisprudência relevante citada: STJ, Súmula 83; STJ, AgRg no AREsp 1.577.063.
+VOTO
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão que não conheceu do recurso especial, que merece ser mantida por seus próprios fundamentos.
+O Ministério Público Estadual insurge-se contra o critério utilizado para a exasperação da pena do recorrido na primeira fase da dosimetria, qual seja, o do termo médio dividido pelo número de circunstâncias judiciais.
+Na hipótese, contudo, a pretensão recursal encontra óbice na Súmula n. 83, STJ.
+O juízo realizado pelo Tribunal de origem não implicou desproporcionalidade na fixação da pena-base, tratando-se de sistemática concretamente fundamentada e adequada à imposição da reprimenda.
+Colaciono o seguinte excerto do acórdão (fls. 255-256 e 264):
+"Acerca da dosimetria da pena, entende-se ser devida a incidência de critério dosimétrico mais proporcional, de modo a considerar a média aritmética entre a pena máxima e a pena mínima abstratamente previstas no tipo penal como o patamar máximo que a pena-base pode alcançar, sendo devida a readequação da sanção mínima nesses termos.
+A partir desse raciocínio, caso todas as circunstâncias judiciais do art. 59 do CP sejam valoradas negativamente, a pena-base será fixada na média aritmética entre os limites abstratos da sanção penal. Do contrário, a segunda fase de aplicação da pena pode não ter nenhuma eficácia, visto que não poderá superar o patamar máximo fixado em abstrato, à luz do entendimento sumulado do STJ, materializado no enunciado de nº 231.
+A respeito do tema em voga, revela-se oportuno trazer à baila o teor do julgamento do AgRg no Agravo em Recurso Especial nº 1.577.063, em qual a Corte Cidadã reafirmou orientação jurisprudencial no sentido de que não existem parâmetros legais aritméticos para a fixação da pena-base, devendo esta ser estabelecida conforme o princípio da discricionariedade motivada e dos critérios da razoabilidade e da proporcionalidade. Conforme bem salientado no bojo do voto proferido pelo eminente Ministro Nefi Cordeiro, Relator do feito em comento, haja vista a ausência de determinação legal expressa acerca de eventual critério matemático a ser empregado para a fixação da pena-base, ou para a aplicação de circunstâncias atenuantes e agravantes, caberá ao Julgador, dentro do âmbito da discricionariedade motivada e atento às balizas da razoabilidade e proporcionalidade, fixar o patamar que melhor se amolde à espécie.  ..
+Destarte, no caso do crime de porte ilegal de arma de fogo de uso restrito (art. 16, §1º, IV, da Lei nº 10.826/03), o termo médio entre as penas mínima e máxima cominadas é de 04 (quatro) anos e 06 (seis) meses. Subtraindo deste valor a pena mínima, 03 (três) anos, encontra-se o intervalo de 01 (um) ano e 06 (seis) meses, o qual, dividido por 08 (oito), que corresponde ao número de circunstâncias judiciais, resulta em valor equivalente a 02 (dois) meses e 07 (sete) dias a cada circunstância considerada negativa."
+Consigno que a dosimetria da pena se insere no âmbito do juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, o que somente é passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+A jurisprudência deste Tribunal Superior é firme no sentido de que não há direito subjetivo a critério rígido ou puramente matemático para a exasperação da pena-base. Em regra, afasta-se a tese de desproporcionalidade em casos de aplicação de frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre os limites mínimo e máximo do tipo, admitido outro critério, desde que devidamente justificado.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. HOMICÍDIO QUALIFICADO. CIRCUNSTÂNCIAS FÁTICAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há direito subjetivo ou obrigatoriedade do julgador na adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas, ou mesmo outro valor" (AgRg no HC n. 903.386/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+2. A dosimetria da pena foi realizada levando em consideração o contexto fático do caso concreto, e alterar a conclusão demandaria reexame de fatos e provas, o que é incompatível com o habeas corpus.
+3. Agravo regimental improvido."
+(AgRg no HC n. 919.758/PE, relator Ministro Og Fernandes, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+Assim, o acórdão recorrido está consonante com o entendimento desta Corte Superior, impedindo, pois, o conhecimento do recurso nos moldes da Súmula n. 83, STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
