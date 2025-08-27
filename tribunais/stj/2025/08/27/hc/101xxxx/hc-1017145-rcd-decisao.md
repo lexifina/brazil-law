@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão que indeferiu o pedido liminar, protocolado por CARLOS ALEXANDRE SANTOS DA SILVA.
+Em seu arrazoado, alega a superveniência de fato novo que intensifica a tutela de urgência requerida. Conta que os recursos extraordinários manejados pela defesa tiveram seguimento negado, implicando na exaustão de todas as vias impugnativas, estando iminente o trânsito em julgado da condenação e a consequente execução definitiva da pena.
+Sustenta que o recurso em sentido estrito e o de apelação foram julgados por desembargador não prevento, em afronta ao princípio do juiz natural.
+Requer a suspensão imediata dos efeitos dos acórdãos proferidos no recurso em sentido estrito e na apelação criminal nos autos n. 0501241-86.2020.8.05.0146, até o julgamento final deste habeas corpus, com o objetivo de impedir a eventual execução da pena baseada em decisões nulas por incompetência funcional do relator, a fim de resguardar o direito de liberdade do paciente, evitando constrangimento ilegal irreparável.
+É o relatório.
+Decido.
+Em consulta ao processo criminal aqui em análise, observa-se que a defesa interpôs recurso especial contra ambos os acórdãos aqui referidos, proferidos no Recurso em Sentido Estrito e na Apelação Criminal n. 0501241-86.2020.8.05.0146, em clara violação ao princípio da unirrecorribilidade.
+Com efeito, "não é cabível a impetração de habeas corpus concomitantemente com interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade" (AgRg no HC n. 549.368/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/12/2019).
+Vale registrar que " a  violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato.  ..  verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas, seja pela utilização da via recursal concomitantemente ao ajuizamento de ação autônoma de impugnação, seja pela impugnação do mesmo ato em duas vias autônomas diferentes  .. ." (AgRg no HC n. 899.454/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+Ademais, verifica-se que a questão aqui suscitada não foi arguida nas razões dos referidos recursos especiais.
+Quanto ao ponto, vale consignar que " d e acordo com a jurisprudência firmada por esta Corte de Justiça e pelo Supremo Tribunal Federal, eventual nulidade pela inobservância da regra de prevenção não é absoluta, mas relativa, cujo reconhecimento está condicionado à alegação no momento processual oportuno e à demonstração do prejuízo suportado pela parte, sob pena de preclusão." (HC n. 225.316/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 24/9/2013, DJe de 9/10/2013).
+"Nos termos da Súmula 706/STF, é relativa a nulidade decorrente da inobservância da competência penal por prevenção, a qual deve ser arguida oportuna e tempestivamente, sob pena de preclusão." (STF, RHC 127757, Relator(a): TEORI ZAVASCKI, Segunda Turma, julgado em 02-06-2015, PROCESSO ELETRÔNICO DJe-116 DIVULG 17-06-2015 PUBLIC 18-06-2015).
+In casu, como dito, a defesa só passou a apontar a nulidade no presente writ, tendo a questão sido alcançada pela preclusão.
+Diante do exposto, rejeito o pedido de reconsideração e não conheço do presente habeas corpus.
+Publique-se. Intime-se.
+EMENTA
