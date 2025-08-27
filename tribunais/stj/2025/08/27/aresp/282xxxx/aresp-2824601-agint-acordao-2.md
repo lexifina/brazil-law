@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AÇÃO DE RESCISÃO DE CONTRATO. CONTRATO ADMINISTRATIVO. COMPRA E VENDA DE IMÓVEL. RESILIÇÃO UNILATERIAL DO CONTRATO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO ADMINISTRATIVO. AÇÃO DE RESCISÃO DE CONTRATO. CONTRATO ADMINISTRATIVO. COMPRA E VENDA DE IMÓVEL. RESILIÇÃO UNILATERIAL DO CONTRATO. VONTADE DO PARTICULAR. AUSÊNCIA DE PREVISÃO CONTRATUAL. IMPOSSIBILIDADE.
+1. Os contratos decorrentes de participação em edital de licitação pública configuram- se em contrato administrativo e são regidos pelo Princípio da Supremacia do Interesse Público.
+2. O art. 78 da Lei nº 8.666/93 lista os motivos que podem ensejar a rescisão do contrato administrativo, sendo o termo rescisão utilizado de forma genérica.
+3. Não há previsão na Lei nº 8.666/93 para rescisão unilateral do contrato pelo particular sem que tenha havido o inadimplemento do contrato por parte do Poder Público, uma vez que a resilição unilateral por vontade do contratante somente é possível se houver previsão a respeito em cláusula contratual ou no edital de licitação. Precedentes.
+4. Cláusula contratual que estabelece as consequências resultantes da rescisão do contrato não pode ser interpretada de forma ampliativa a fim de permitir a resilição unilateral do contrato, a despeito de não haver previsão expressa nesse sentido.
+5. Havendo o inadimplemento do contrato, o pedido de resolução deve ser formulado pela parte lesada e não pelo inadimplente (art. 475 do CC).
+6. Recurso conhecido e provido.
+Na petição de agravo interno, a parte agravante se insurge quanto aos pontos que foram objeto da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AÇÃO DE RESCISÃO DE CONTRATO. CONTRATO ADMINISTRATIVO. COMPRA E VENDA DE IMÓVEL. RESILIÇÃO UNILATERIAL DO CONTRATO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou sobre as matérias que são objeto do recurso especial, com base nos seguintes fundamentos:
+ ..
+Certo é que, consoante dispõe o art. 54 da Lei nº 8.666/93, os contratos administrativos são regidos por suas cláusulas, sendo assim, somente se houvesse autorização expressa no contrato para a resilição unilateral por vontade do contratante, é que o pedido inicial poderia ser deferido. Assinaladas essas premissas, observa-se não haver previsão para a resilição unilateral no contrato em questão. Acerca da rescisão contratual, constam da escritura pública de compra e venda as seguintes estipulações (ID 54469510
+ ..
+As cláusulas V e VIII acima são repetições do disposto nos itens 45 , d.4, e 54 do Capítulo XII do Edital licitatório (ID 54469511, p. 23). Ao fundamentar a sentença para concluir pela possibilidade de resilição unilateral do contrato, entendeu o nobre Juiz de origem que a cláusula VIII da escritura de compra e venda e Item 54 do Edital Licitatório trariam tal permissão. Ocorre, contudo, que a referida cláusula prevê apenas as consequências da rescisão do contrato, não instituindo a possibilidade de resilição por vontade unilateral do contratante. As disposições trazidas no contrato não são autônomas entre e si e, desse modo, devem ser interpretadas em consonância com todas as disposições do contrato. Sendo assim, não se pode chegar ao entendimento de que seria possível a resilição por vontade do contratante por mera inferência de cláusula que dispõe sobre a rescisão do contrato, pois, como dito anteriormente, há diversas situações que podem levar à rescisão do pacto, devendo-se observar o contrato e a norma legal a fim de verificar as possibilidades para tanto.
+ ..
+No mais, e como indicado pela apelante, havendo o inadimplemento cabe ao contratado e não só ao contratante decidir pela rescisão do contrato, sendo tal questão verificada tanto na cláusula V do contrato, como no que dispõe o art. 475 do Código Civil, eis que a resolução pelo inadimplemento do contrato deve ser pleiteada pela parte lesada e não pelo inadimplente.
+ ..
+Assim, não havendo disposição contratual acerca da possibilidade de rescisão do contrato administrativo por vontade do particular, não há como deferir o pedido inicial. No caso, a resilição do contrato depende da anuência da Terracap ao pedido (art. 79, inciso II, da Lei nº 8.666/93), contudo, essa já demonstrou não ter interesse no distrato contratual. Desta feita, e não tendo os autores demonstrado o inadimplemento das cláusulas contratuais por parte do Poder Público ou a existência de cláusula que permita a extinção do contrato por ausência de interesse na manutenção do negócio por parte dos autores, não se afigura possível o deferimento da rescisão contratual. Sendo assim, deve a sentença ser reformada a fim de que os pedidos iniciais sejam rejeitados.
+ ..
+A parte agravante apresenta as seguintes alegações em confronto com a decisão monocrática:
+ ..
+A decisão agravada não enfrentou o cerne da controvérsia sob a ótica da violação direta aos artigos mencionados: i. Art. 54 da Lei 8.666/93, ao afastar a aplicação supletiva do direito privado aos contratos administrativos. ii. Art. 474 do CC, ao desconsiderar a existência de cláusula resolutiva expressa no contrato e no edital. iii. Art. 421-A do CC, ao desconsiderar o princípio da autonomia privada contratual. iv. Art. 78, I da Lei 8.666/93, que prevê a rescisão nos casos de inadimplemento.
+ ..
+Os artigos 472, 475 e 478 do Código Civil asseguram o direito potestativo de resolução do contrato pelo inadimplemento da outra parte, estabelecendo que, em caso de resolução, a parte lesada seja compensada pelas arras, conforme previsão do art. 418 do Código Civil. Trata-se de matéria de estrita legalidade e não requer reavaliação fático-probatória, mas tão somente a aplicação correta da norma pertinente. A jurisprudência do STJ confirma que contratos, mesmo administrativos, podem ser rescindidos unilateralmente quando há previsão na legislação civil. Vejamos:
+ ..
+O art. 54 da Lei nº 8.666/1993 aplica supletivamente disposições do Código Civil aos contratos administrativos. Logo, é plenamente válida a aplicação dos arts. 472 e 475 ao presente contrato. Ao contrário do entendimento adotado no acórdão recorrido, que tratou o contrato como uma obrigação perene, desconsiderando a liberdade contratual assegurada pela legislação civil, o que destoa do princípio fundamental da autonomia privada.
+IV.3. O DESRESPEITO AO EDITAL E À ESCRITURA PÚBLICA O r. acórdão recorrido ignorou que a cláusula de rescisão unilateral está prevista expressamente no edital e na escritura, conforme permite o art. 41 da Lei 8.666/1993. Negar este direito como fez o acórdão recorrido implica negar a força normativa das cláusulas pactuadas, violando, portanto, o art. 474 do Código Civil, que endossa que cláusulas resolutivas expressas operam de pleno direito. Assim, não se trata de reavaliação de provas, mas sim da interpretação e correta interpretação da acima indicada legislação federal, o que é argumento legitimo por meio da via recursal utilizada, conforme entendimento jurisprudencial supracitado.
+ ..
+Não cabe a esta Corte a atribuição de reexaminar fatos e provas já analisados na origem, sob pena de desvirtuar sua função constitucional de Corte de Precedentes. Desta forma, incide, quanto a estas alegações, o enunciado n. 7 da Súmula do STJ, segundo a qual: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
