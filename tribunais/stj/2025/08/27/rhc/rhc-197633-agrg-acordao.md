@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Uso de algemas. Nulidade do auto de prisão em flagrante. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, no qual se alegava nulidade do auto de prisão em flagrante devido ao uso indevido de algemas, em violação à Súmula Vinculante nº 11 do STF.
+2. O recorrente foi preso em flagrante por suposto cometimento de delito previsto no art. 33 da Lei nº 11.343/2006, durante cumprimento de mandado de busca e apreensão, alegando que a prisão e as provas obtidas são nulas devido ao uso injustificado de algemas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o uso de algemas, sem justificativa plausível, durante a prisão em flagrante, configura nulidade do auto de prisão e das provas obtidas, conforme a Súmula Vinculante nº 11 do STF.
+III. Razões de decidir
+4. A parte agravante não impugnou especificamente os fundamentos da decisão agravada, limitando-se a repetir as razões do recurso em habeas corpus.
+5. A decisão agravada concluiu que o uso de algemas foi devidamente justificado pela autoridade policial, com base na necessidade de garantir a segurança dos policiais e do próprio preso, não havendo nulidade a ser reconhecida.
+6. A Súmula Vinculante nº 11 do STF não impede o uso de algemas, mas exige justificativa no caso concreto, o que foi atendido no presente caso.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. O uso de algemas deve ser justificado no caso concreto, conforme a Súmula Vinculante nº 11 do STF. 2. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo regimental".
+Dispositivos relevantes citados: CF/1988, art. 5º, LXVIII; CPP, art. 647 e 648, VI; Lei nº 11.343/2006, art. 33.
+Jurisprudência relevante citada: STF, Súmula Vinculante nº 11.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOAO LUIS ROSESTOLATO ARAUJO contra decisão da minha lavra às fls. 105-107 que negou provimento ao recurso ordinário em habeas corpus.
+Consta dos autos o recorrente foi preso em flagrante em razão do suposto cometimento do delito previsto no art. 33 da lei nº 11.343/2006. Narra que a prisão se deu no contexto de cumprimento de mandado de busca e apreensão no imóvel em que se encontrava e que padece de nulidade, bem como todas as provas obtidas a partir da medida de busca e apreensão, em razão da violação à Súmula Vinculante nº 11 do STF, uma vez que no momento da diligência fora algemado sem qualquer justificativa plausível. Requer, no mérito, a concessão da ordem, a fim de que lhe seja concedido salvo conduto, bem como seja declarado nulo o auto de prisão em flagrante e todas as provas provenientes de tal medida.
+Neste agravo regimental de fls. 112-114 a parte insurgente limita-se a repisar as razões do recurso em habeas corpus manejado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Uso de algemas. Nulidade do auto de prisão em flagrante. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, no qual se alegava nulidade do auto de prisão em flagrante devido ao uso indevido de algemas, em violação à Súmula Vinculante nº 11 do STF.
+2. O recorrente foi preso em flagrante por suposto cometimento de delito previsto no art. 33 da Lei nº 11.343/2006, durante cumprimento de mandado de busca e apreensão, alegando que a prisão e as provas obtidas são nulas devido ao uso injustificado de algemas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o uso de algemas, sem justificativa plausível, durante a prisão em flagrante, configura nulidade do auto de prisão e das provas obtidas, conforme a Súmula Vinculante nº 11 do STF.
+III. Razões de decidir
+4. A parte agravante não impugnou especificamente os fundamentos da decisão agravada, limitando-se a repetir as razões do recurso em habeas corpus.
+5. A decisão agravada concluiu que o uso de algemas foi devidamente justificado pela autoridade policial, com base na necessidade de garantir a segurança dos policiais e do próprio preso, não havendo nulidade a ser reconhecida.
+6. A Súmula Vinculante nº 11 do STF não impede o uso de algemas, mas exige justificativa no caso concreto, o que foi atendido no presente caso.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. O uso de algemas deve ser justificado no caso concreto, conforme a Súmula Vinculante nº 11 do STF. 2. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo regimental".
+Dispositivos relevantes citados: CF/1988, art. 5º, LXVIII; CPP, art. 647 e 648, VI; Lei nº 11.343/2006, art. 33.
+Jurisprudência relevante citada: STF, Súmula Vinculante nº 11.
+VOTO
+Nas razões do recurso, a parte agravante não impugnou especificamente os fundamentos da decisão agravada, que passo a reproduzir naquilo que interessa à espécie e adoto como razões de decidir:
+"Cinge-se a controvérsia acerca da existência de nulidade do auto de prisão em flagrante, em razão da violação ao disposto na Súmula Vinculante nº 11 do STF.
+O Tribunal impetrado valeu-se dos seguintes fundamentos para justificar a denegação da ordem:
+"Alega o Impetrante a Nulidade do Flagrante e dos elementos dele derivados, em razão do uso desnecessário de algemas, em violação à Súmula Vinculante nº 11 do STF. Razão não lhe assiste. O Habeas Corpus é Ação Constitucional prevista no inciso LXVIII do art. 5º da Constituição, destinada a coibir qualquer ilegalidade ou abuso de poder que ameace o direito de locomoção. Nesse sentido, o art. 647 do Código de Processo Penal dispõe que será concedida ordem de Habeas Corpus toda vez que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na liberdade de ir e vir, salvo nos casos de punição disciplinar. O inciso VI do art. 648 do Código de Processo Penal autoriza o reconhecimento da Nulidade do processo, pela via do Habeas Corpus, desde que o vício seja manifesto e evidente. No caso, todavia, não há se falar em nulidade manifesta, a ser reconhecida pela via estreita do Habeas Corpus. A autoridade apontada como coatora, no dia 21.02.2024, indeferiu o pleito defensivo, não reconhecendo a Nulidade do Flagrante, consignando que a Autoridade Policial justificou o uso de algemas, assim como não foram apresentadas provas de eventual abuso praticado (doc. 12). Verifica-se, portanto, que a r. Decisão encontra-se devidamente fundamentada, em consonância com o art. 93, IX, da CF/88, tendo a autoridade apontada como coatora declinado, de forma clara, as razões que levaram ao indeferimento do pleito defensivo. Acerca do uso de algemas, a Súmula Vinculante nº 11 do STF dispõe que "só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado". In casu, o Paciente João Luis Rosestolato Araujo, durante a Audiência de Custódia (P Je Mídias), narrou não ter oferecido resistência à Prisão, alegando, contudo, que teria permanecido algemado de 15h00min até 20h00min. Afirmou que, na ocasião, estava acompanhado somente pelos PM"s e, posteriormente, teria realizado ligação para o genitor, que atua como Advogado. Por outro lado, a Autoridade Policial, em Ofício (doc. 13), consignou que, para garantia da ordem e segurança, assim como pela integridade física dos Policiais e do Paciente, João teria sido algemado no momento de "voz de prisão", por volta de 17h40min, sendo encaminhado à Unidade Prisional, por volta de 20h00min. Ressaltou, assim, a inexistência de qualquer abuso ou violência, nestes termos: "(..) A ação aconteceu na tarde de 25/10/2024, sendo que a formalização teve início exatamente às 17:40hs, conforme denota dos autos. Por praxe policial, garantia da ordem e segurança, integridade física dos policiais e do próprio flagrado, além da natureza do crime, João foi algemado no momento da "voz de prisão", ou seja, pouco antes das 17:40hs (tarde de quarta), sendo, , após findo todo feito de formalização, imediatamente encaminhado ao Presídio de Guaxupé-Guaranésia, por volta 20hs. Portanto, permaneceu sob custódia da Polícia Civil em Muzambinho/MG, estritamente durante o tempo necessário para a formalização de sua prisão em flagrante e consequente encaminhamento (viagem) e entrega ao Presídio de Guaxupé-Guaranésia, pelos investigadores - pouco mais de duas horas - não havendo qualquer ato de abuso, violência ou excesso, muito menos algemação desnecessária por longa período, mas zelo, prudência e responsabilidade para com os fatos e circunstâncias."
+Como se sabe, o teor da Súmula Vinculante nº 11 do STF não impede o uso das algemas, mas condiciona a adoção de tal medida à demonstração, no caso concreto, dos fundamentos que a justifiquem.
+No caso dos autos, como se vê do trecho transcrito, o policial que efetivou o flagrante justificou adequadamente o uso das algemas na necessidade do resguardo da segurança tanto dos policiais quanto do acautelado, não se vislumbrando qualquer tipo de nulidade.
+Ante o exposto, nego provimento ao recurso. "
+Com efeito, na hipótese vertente, compulsando detidamente as razões do regimental, em respeito ao princípio da dialeticidade verifico que a parte agravante se limitou a repisar as razões do recurso e deixou de apresentar irresignação clara, específica e pormenorizada em face dos fundamentos adotados na decisão agravada, a qual concluiu pelo desprovimento do recurso ordinário em habeas corpus interposto ante o acerto do julgado no acórdão recorrido.
+Ante o exposto, inevidente qualquer ilegalidade, nego provimento ao agravo regimental.
+É como voto.
