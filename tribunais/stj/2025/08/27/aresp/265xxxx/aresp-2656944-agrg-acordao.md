@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos do entendimento desta Corte Superior, a premeditação do crime e a quantidade de objetos subtraídos justificam a valoração negativa da culpabilidade e das circunstâncias do crime. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça permite a consideração de condenações anteriores transitadas em julgado como maus antecedentes, mesmo que extintas há mais de cinco anos, não configurando reincidência.
+3. A aplicação cumulativa das causas de aumento de pena foi fundamentada de maneira concreta e idônea, conforme exigido pela Súmula n. 443 do STJ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LEONILDO DA SILVA REIS contra a decisão que conheceu do agravo em recurso especial para não conhecer do recurso.
+O agravante foi condenado, pelo crime tipificado no art. 157, § 2º, II, V e § 2º-A, I, do Código Penal, às penas de 12 anos e 6 meses de reclusão em regime fechado e de pagamento de 60 dias-multa, o que foi confirmado pelo Tribunal de origem.
+A defesa interpôs recurso especial com amparo no art. 105, III, a, da Constituição Federal, o qual não foi admitido na origem.
+Contra a decisão de inadmissão foi interposto agravo em recurso especial (fls. 1.136-1.143), do qual se conheceu para não se conhecer do recurso (fls. 1.165-1.171).
+Nas razões deste agravo regimental, o recorrente reitera as alegações do recurso anterior (fls. 1.177-1.185).
+Pugna, ao final, pelo conhecimento e provimento do recurso.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos do entendimento desta Corte Superior, a premeditação do crime e a quantidade de objetos subtraídos justificam a valoração negativa da culpabilidade e das circunstâncias do crime. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça permite a consideração de condenações anteriores transitadas em julgado como maus antecedentes, mesmo que extintas há mais de cinco anos, não configurando reincidência.
+3. A aplicação cumulativa das causas de aumento de pena foi fundamentada de maneira concreta e idônea, conforme exigido pela Súmula n. 443 do STJ.
+4. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+A respeito da dosimetria da pena, o acórdão recorrido está assim fundamentado (fls. 1.099-1.100):
+No presente caso, o Juízo Singular, de forma fundamentada e com base na prova dos autos, reconheceu como desfavoráveis 3 circunstâncias judiciais do Art. 59: culpabilidade, antecedentes e circunstâncias do crime. Transcrevo esse ponto específico da sentença:
+1ª fase: Em observância às circunstâncias judiciais previstas no art. 59, CP, verifico que a culpabilidade é censurável, em face da premeditação do crime, eis que houve planejamento antecipado da ação criminosa, com aluguel de um veículo (caminhonete Ford F4000), deslocamento de um dos assaltantes de Teresina/PI até a cidade de Buriticupu/MA tão somente com a finalidade de praticar o roubo (CLEDISON), além da consecução de uma casa para o depósito dos objetos postais roubados. Os antecedentes são amplamente desfavoráveis, eis que existem contra ele anteriores condenações criminais com trânsito em julgado (conforme Ficha de Admissão de Preso - Id. 732331482, págs. 201/203). Quanto às circunstâncias do crime, considero que são bastante desfavoráveis, em face da elevada quantidade de objetos postais subtraídos, dentre as quais uma imensa quantidade de CNH"s. Em relação às demais circunstâncias, não há nada a ser considerado e/ou valorado diante das provas obtidas nos autos. A defesa, em suas razões recursais, não trouxe qualquer argumento com capacidade para alterar as consistentes fundamentações do Juízo Singular, quanto às circunstâncias judiciais (CP, Art. 59). Id. 342765660, p. 15.
+A simples leitura das passagens acima transcritas evidencia que este Tribunal Revisor encampou a fundamentação da sentença concernente à análise das circunstâncias judicias empreendidas pelo juízo de origem, tendo tido, inclusive, o cuidado de esclarecer que a defesa não trouxe aos autos argumento com potencial para infirmar as conclusões da sentença quanto ao ponto específico. Em resumo, a Turma reconheceu que os argumentos expostos pelo juiz sentenciante, relacionados à análise das circunstâncias judiciais desfavoráveis ao réu, não merecem alteração, ante a inexistência de bis in idem ou qualquer outra irregularidade. Ademais, o planejamento do roubo constitui fundamentação idônea à majoração da pena-base em virtude da maior reprovabilidade da conduta delituosa.
+Conforme consignado na decisão agravada, as instâncias ordinárias concluíram que houve a premeditação do delito e que a ação criminosa implicou a subtração de elevada quantidade de objetos postais, justificando a valoração negativa da culpabilidade do agente e das circunstâncias do crime.
+De fato, "a premeditação refere-se à acentuada culpabilidade do agente, a qual indica maior desvalor da conduta e merece resposta estatal mais severa, quando da realização da dosimetria da pena" (AgRg no HC n. 980.061/PI, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025).
+Ademais, nos termos do entendimento desta Corte Superior, o valor e a natureza dos bens subtraídos são fatores que indicam maior reprovabilidade da conduta a ensejar a exasperação da pena-base. A propósito: HC n. 857.136/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024; e AgRg no HC n. 734.200/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 18/8/2022.
+Por sua vez, quanto aos maus antecedentes, o Tribunal de origem destacou que o Juízo de origem não reconheceu a ocorrência da agravante da reincidência, mas tão somente a circunstância judicial dos maus antecedentes, que não se submete ao período depurador, nos termos do entendimento desta Corte Superior. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVANTE CONDENADO POR ROUBO MAJORADO. REDUÇÃO DO QUANTUM DA PENA-BASE. PRAZO DEPURADOR. ANTECEDENTES. AUSENTE ILEGALIDADE. RECRUDESCIMENTO DA PENA BASILAR. ARMA BRANCA. POSSIBILIDADE. NOVATIO LEGIS. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, as condenações anteriores transitadas em julgado e extintas há mais de cinco anos da data do novo delito, embora não configurem reincidência, diante do período depurador previsto no art. 64, I, do Código Penal, podem ser utilizadas para caracterizar maus antecedentes.
+2. A Corte de origem, ao aplicar a novatio legis in mellius, justificou a exasperação da pena-base pelo uso de arma branca, o que está de acordo com a jurisprudência desta Corte Superior, de modo que não há ilegalidade a ser reconhecida, pois a justificativa concreta não denota inidoneidade.
+3. Mantém-se a decisão atacada quando o agravante não traz, no âmbito do regimental, novos fundamentos capazes de alterar o entendimento anteriormente firmado.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.293.248/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/2/2024, DJe de 4/3/2024.)
+Por fim, quanto à fração de aumento aplicada pela existência do concurso de pessoas e da restrição de liberdade da vítima, assim dispôs a Corte local (fl. 1.079):
+No que toca à terceira fase da dosimetria, também não há que se falar em redução da fração de aumento pela aplicação das majorantes previstas no art. 157, § 2º, II e IV, do CP, uma vez que o patamar de 1/2 (um meio) foi adotado levando em conta "o risco à vida e integridade física do motorista do caminhão, bem como o terror vivenciado por ele, que ficou sob a mira de um revólver apontado para sua cabeça por cerca de 40 minutos".
+O entendimento desta Corte Superior é de que "o aumento na terceira fase de aplicação da pena do crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443 do STJ).
+Assim, não há ilegalidade no acórdão impugnado, o qual fundamentou o cúmulo das majorantes de maneira idônea.
+Nesse sentido (grifo próprio):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. MAJORANTES. AUMENTOS SUCESSIVOS. MOTIVAÇÃO CONCRETA E IDÔNEA. SÚMULA N. 443 DO STJ. CONCURSO FORMAL. CONFIGURAÇÃO. ÚNICO EVENTO. VIOLAÇÃO DE PATRIMÔNIOS DE DIFERENTES VÍTIMAS. DUAS INFRAÇÕES. AUMENTO DE 1/6. ADEQUAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgador, diante do concurso de majorantes, deve apresentar fundamentação concreta e idônea, conforme o art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ, ao não optar por aplicar o único aumento - causa mais gravosa - previsto na regra do art. 68, parágrafo único, do CP, opção mais benéfica ao réu.
+2. No caso, houve o incremento de 1/2, em virtude do concurso de agentes e da restrição de liberdade da vítima, e, sucessivamente, de 2/3, em razão do uso de arma de fogo. Para tanto, houve fundamentos concretos e válidos, a saber: a) concurso de cinco agentes, b) uso de vários veículos automotores, inclusive de grande porte, com aparato tecnológico para bloqueio de sinal do rastreador do caminhão roubado, c) uso de arma de fogo, d) ofendido teve suas mãos e pés amarrados, foi transportado para vários locais e, em dado momento, ao ser puxado, caiu e machucou nariz e lábio e e) o agredido teve sua liberdade restringida por várias horas, das 6h às 15h. Portanto, correto o procedimento adotado na origem.
+3. O roubo perpetrado com violação de patrimônios de diferentes vítimas, ainda que num único evento, configura a literalidade do concurso formal de crimes, e não apenas de crime único, como na espécie. Precedentes.
+4. Segundo a jurisprudência desta Corte, o concurso formal de duas infrações enseja o aumento de 1/6 sobre a reprimenda. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.786.372/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2025, DJEN de 19/5/2025.)
+PROCESSUAL PENAL . AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. APLICAÇÃO CUMULATIVA DE CAUSAS DE AUMENTO DE PENA. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a condenação do agravante por roubo majorado, com aplicação cumulativa das causas de aumento de pena previstas no art. 157, §§ 2º, II e V, e 2º-A, I, do Código Penal.
+2. De acordo com a Súmula n. 443 do STJ, o aumento da pena exige fundamentação concreta além da mera indicação do número de majorantes.
+3. Inexiste ilegalidade quando, ao recrudescer a pena na terceira fase, o magistrado utiliza fundamentação concreta, desenvolvida com base na análise do fato delituoso, expressando que "o réu agiu em concurso com outros elementos, interceptando a trajetória do caminhão dirigido pela vítima, além disso, também restringiu a liberdade da vítima  por aproximadamente 25 minutos , o que agrava ainda mais a reprovabilidade da conduta, sem esquecer do emprego de arma de fogo".
+4. Agravo regimental improvido.
+(AgRg no HC n. 918.855/SP, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
