@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.751-1.756) opostos à decisão desta relatoria que negou provimento ao agravo (fls. 1.746-1.748).
+A parte embargante sustenta que "As Agravantes sustentaram, em todos os momentos, que o acórdão recorrido reduziu o percentual da cláusula penal contratual para 10% sem qualquer motivação específica, ou seja, com base em entendimento padronizado da Câmara Julgadora, contrariando frontalmente:  ..  A decisão embargada não examinou essa omissão relevante do acórdão de origem, incorrendo, assim, também em omissão própria, o que impõe sua integração" (fls. 1.752-1.753).
+Aduz ainda que houve omissão quanto à divergência jurisprudencial colacionada, pois "Tal questão não foi analisada na decisão embargada, que aplicou de forma indistinta a Súmula 7 também à alínea "c", sem sequer considerar os fundamentos de dissídio jurisprudencial invocados" (fl. 1.753).
+Por fim, assevera que "o Tribunal de origem modificou indevidamente o parâmetro contratual da cláusula penal, mantendo o percentual de 10%, mas aplicando-o sobre os valores efetivamente pagos pelo promitente comprador, e não sobre o valor global do contrato, como acordado" (fl. 1.754).
+Impugnação apresentada (fls. 1.760-1.763), com pedido de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência no julgado dos vícios mencionados, o que não se evidencia no caso em exame.
+Com efeito, a decisão embargada não padece de nenhuma omissão, pois os óbices das Súmulas n. 5 e 7 do STJ foram aplicados sob o fundamento de que o percentual de retenção da multa contratual no valor de 10% das parcelas pagas se deu após a análise do contrato pela Corte de origem, a qual ressaltou que tal percentual foi acordado entre os litigantes na "cláusula décima primeira, parágrafo sexto, item "a" (ID 42450960)" (fl. 1.550).
+No mais, consignou-se que a aplicação destes óbices impediria a análise dos dissídios colacionados pela parte, tendo em vista que "esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem" (AgInt no REsp n. 1.813.528/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 5/11/2019).
+Relativamente à alegação de que "o Tribunal de origem modificou indevidamente o parâmetro c ontratual da cláusula penal, mantendo o percentual de 10%, mas aplicando-o sobre os valores efetivamente pagos pelo promitente comprador, e não sobre o valor glo bal do contrato, como acordado", trata-se de verdadeira inovação recursal.
+Cumpre asseverar, ainda, apenas a título de esclarecimento, que a parte embargante sequer aleg ou, nas razões do apelo nobre, violação do art. 1.022 do CPC/2015 sob o fundamento de omissão da Corte de origem quanto aos parâmetros contratuais da cláusula penal supostamente revisados, não podendo referida omissão ser conhecida por este Tribunal igualmente por esta razão.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Indefiro o pedido da parte embargada, de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Publique-se e intimem-se.
+ EMENTA
