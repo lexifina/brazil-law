@@ -1,0 +1,351 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.AGRAVO INTERNO CÍVEL 0727528-90.2023.8.07.0001AGRAVANTE(S)DATY MANUELA DANTAS SILVAAGRAVADO(S)EIXINHO L 212 NORTE COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA e 2MD EMPREENDIMENTOS LAVA JATO LTDARelatorDesembargador ALVARO CIARLINI
+ Acórdão Nº2040336
+
+EMENTA
+
+AGRAVO INTERNO EM APELAÇÃO. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. REQUISITOS NÃO PREENCHIDOS. RENDA MENSAL BRUTA. PARÂMETRO OBJETIVO. RECURSO DESPROVIDO.
+
+1. Hipótese de impugnação à decisão monocrática, proferida pelo relator, que indeferiu o requerimento de gratuidade de justiça formulado pela ora agravante em suas razões de apelação.
+
+2. A finalidade da gratuidade de justiça consiste em garantir que pessoas notoriamente menos favorecidas economicamente tenham amplo acesso ao Poder Judiciário. 2.1. A concessão desse benefício exige a efetiva demonstração da necessidade da medida, que não deve ser concedida apenas com amparo na alegada presunção de hipossuficiência.
+
+3. A Resolução nº 271, de 22 de maio de 2023, editada pela Defensoria Pública do Distrito Federal, fixa como parâmetro para caracterizar a hipossuficiência da parte o recebimento de renda mensal até o valor correspondente a 5 (cinco) salários mínimos. 3.1. Saliente-se que à mingua de outros critérios objetivos para atestar a mencionada hipossuficiência econômica, a escolha do aludido ato normativo infralegal encontra respaldo no art. 4º da LINDB.
+
+4. Os documentos anexados aos presentes autos evidenciam que a recorrente recebe remuneração mensal bruta em valor aproximado de R$ 20.000,00 (vinte mil reais), e, líquida, em montante superior a R$ 9.000,00 (nove mil reais), quantias que ultrapassam o limite de 5 (cinco) salários mínimos previsto na Resolução nº 271, de 22 de maio de 2023, editada pela Defensoria Pública do Distrito Federal, ora adotada como parâmetro.
+
+5. Embora o montante referente à renda mensal líquida recebida pela recorrente também seja superior ao mencionado limite, é preciso ressaltar que o parâmetro a ser utilizado para aferir a situação de hipossuficiência é o valor da remuneração bruta. 5.1. A remuneração mensal líquida depende dos descontos compulsórios e facultativos que recaem sobre a folha de pagamento e podem variar mês a mês. Assim, adotar esta última como parâmetro geraria variações e insegurança, deturpando a avaliação da efetiva capacidade econômica da parte.
+
+6. A despeito do conteúdo da norma prevista no art. 1021, § 3º, do Código de Processo Civil, que veda ao relator limitar-se à reprodução dos fundamentos expostos na decisão monocrática agravada para negar provimento ao agravo interno, há casos que impõem a manutenção dos aludidos fundamentos, diante da ausência alterações na situação fática ou jurídica em exame ou de inovação em relação aos argumentos articulados pela recorrente.
+
+7. Agravo interno conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALVARO CIARLINI - Relator, RENATO RODOVALHO SCUSSEL - 1º Vogal e FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal, sob a Presidência do Senhor Desembargador HECTOR VALVERDE SANTANNA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 08 de Setembro de 2025
+
+Desembargador ALVARO CIARLINIRelator
+
+RELATÓRIO
+
+Trata-se de agravo interno (Id. 74018804) interposto por Daty Manuela Dantas Silva contra a decisão monocrática, proferida por este Relator (Id. 73636734), que indeferiu o requerimento de gratuidade de justiça formulado pela ora agravante em suas razões de apelação e concedeu o prazo de 5 (cinco) dias para o recolhimento e comprovação do valor referente ao preparo recursal, de acordo com a regra prevista no art. 99, § 7º, do CPC.
+
+Inicialmente a recorrente interpôs apelação (Id. 73180851) contra a sentença (Id. 73180847) proferida pelo Juízo da 3ª Vara Cível da Circunscrição Judiciária de Brasília, que julgou o pedido parcialmente procedente.
+
+A petição do aludido recurso não foi instruída com a guia de recolhimento do valor referente ao preparo recursal e o respectivo comprovante de pagamento, em razão da formulação de requerimento de gratuidade de justiça nas razões recursais.
+
+Por meio do despacho referido no Id. 73359251 foi concedido o prazo de 5 (cinco) dias para que a recorrente apresentasse os comprovantes de seus rendimentos recentes, extratos bancários atualizados, declarações enviadas à RFB ou elementos de prova suplementares que permitissem subsidiar o exame da alegada situação de hipossuficiência econômica.
+
+A recorrente juntou aos presentes autos os documentos que entendeu pertinentes para subsidiar o exame do requerimento aludido (Id. 73600236).
+
+Sobreveio a decisão monocrática referida no Id. 73636734, ora impugnada, por meio da qual foi indeferido o requerimento de gratuidade de justiça formulado pela recorrente.
+
+Destacou-se, na oportunidade, dentre outros fundamentos, que as rendas mensais tanto bruta quanto líquida recebidas pela recorrente ultrapassam o limite de 5 (cinco) salários mínimos previsto na Resolução no 271, de 22 de maio de 2023, editada pela Defensoria Pública do Distrito Federal.
+
+Em suas razões de agravo interno (Id. 69973275) a agravante reafirma que não tem condições de custear as despesas do processo sem prejuízo da subsistência de seu núcleo familiar.
+
+Reitera que os documentos previamente anexados são suficientes para comprovar a alegada situação de hipossuficiência econômica, devendo ser utilizado como critério, para essa finalidade, não apenas o valor bruto da remuneração mensal recebida pela devedora, mas também as despesas comprovadas nos autos do processo, como alugueres, condomínio, escola, plano de saúde e parcelas referentes a negócio jurídico de mútuo celebrado com a finalidade de financiamento imobiliário.
+
+Destaca, nesse sentido, a existência de gastos excepcionais e de dívidas variadas que autorizam o enquadramento da recorrente na posição jurídica de hipossuficiente.
+
+Requer, portanto, o provimento do agravo interno para que seja reformada a decisão monocrática agravada, com o subsequente deferimento da gratuidade de justiça em favor da recorrente.
+
+Não foram anexados nos autos outros documentos por ocasião do oferecimento das presentes razões recursais e também não foram oferecidas contrarrazões pela parte adversa.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALVARO CIARLINI - Relator
+O agravo interno merece ser conhecido, nos moldes da regra prevista no art. 1021 do CPC, pois se encontram preenchidos os pressupostos extrínsecos e intrínsecos, sendo tempestivo e apropriado à espécie.
+
+A questão submetida ao conhecimento deste Egrégio Tribunal de Justiça consiste em examinar a possibilidade de deferimento, em favor da recorrente, da gratuidade de justiça.
+
+A despeito das alegações articuladas nas razões de agravo interno, não há qualquer justificativa jurídica que possa ensejar a pretendida reforma da decisão monocrática ora recorrida.
+
+A finalidade da gratuidade de justiça consiste em garantir que pessoas notoriamente menos favorecidas economicamente tenham amplo acesso ao Poder Judiciário.
+
+A regra prevista no art. 5º, inc. LXXIV, da Constituição Federal, enuncia que a concessão desse benefício exige a efetiva demonstração da necessidade da medida, que não deve ser concedida apenas com amparo na alegada presunção de hipossuficiência. A esse respeito também houve a normatização do tema no art. 99, § 2º, do CPC.
+
+Assim, deve ser examinado concretamente se o requerimento de gratuidade é realmente justificado pela hipossuficiência da parte.
+
+A propósito, examinem-se as seguintes ementas da lavra deste Egrégio Tribunal de Justiça:
+
+“AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL E DIREITO PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. COMPROVAÇÃO. HIPOSSUFICIÊNCIA ECONÔMICA.
+
+1. Os artigos 98 a 102 do novo Código de Processo Civil disciplinam a gratuidade de justiça, estabelecendo, inclusive os requisitos para sua concessão. As referidas normas, contudo, devem ser interpretadas em consonância com o artigo 5º, LXXIV, da Constituição da República, que é norma hierarquicamente superior e que determina a efetiva comprovação da necessidade daqueles que pleitearem o benefício.
+
+2. Havendo elementos que indiquem que a parte não dispõe de condições financeiras para arcar as custas do processo e honorários de advogado, sem prejuízo próprio ou de sua família, o benefício da gratuidade de justiça deve ser deferido.
+
+3. Agravo de Instrumento provido.”
+
+(Acórdão nº 1069355, 07116426420178070000, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 24/1/2018)
+
+(Ressalvam-se os grifos)
+
+“PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE ARREMATAÇÃO CUMULADA COM INDENIZAÇÃO. GRATUIDADE DE JUSTIÇA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA DA PARTE PARA O CUSTEIO DAS DESPESAS PROCESSUAIS. BENEFÍCIO CONCEDIDO.
+
+1. Para obter a gratuidade de justiça, deve a parte demonstrar situação econômica desfavorável, na forma do art. 5º, inc. LXXIV, da Constituição Federal.
+
+2. Evidenciado nos autos que o pagamento das custas processuais e dos honorários advocatícios poderá comprometer a subsistência da agravante e de sua família, o deferimento da gratuidade de justiça é medida que se impõe.
+
+3. Agravo de Instrumento conhecido e provido. Unânime.”
+
+(Acórdão nº 996161, 20160020180765AGI, Relator: FÁTIMA RAFAEL, 3ª Turma Cível, data de julgamento: 15/2/2017)
+
+(Ressalvam-se os grifos)
+
+A Resolução nº 271, de 22 de maio de 2023, editada pela Defensoria Pública do Distrito Federal, fixa como parâmetro para caracterizar a hipossuficiência da parte o recebimento de renda mensal até o valor correspondente a 5 (cinco) salários mínimos. Saliente-se que à mingua de outros critérios objetivos para atestar a mencionada hipossuficiência econômica, a escolha do aludido ato normativo infralegal encontra respaldo no art. 4º da LINDB.
+
+Os documentos anexados aos presentes autos, notadamente os demonstrativos de pagamento referidos no Id. 73600255, no Id. 73600256 e no Id. 73600258, relativos aos meses de abril, maio e junho de 2025, evidenciam que a recorrente ocupa o cargo de técnico judiciário do Tribunal Regional Federal da 1ª Região e recebe remuneração mensal bruta em valor aproximado de R$ 20.000,00 (vinte mil reais), e, líquida, em montante superior a R$ 9.000,00 (nove mil reais), quantias que ultrapassam o limite de 5 (cinco) salários mínimos previsto na Resolução nº 271, de 22 de maio de 2023, editada pela Defensoria Pública do Distrito Federal, ora adotada como parâmetro.
+
+A declaração enviada pela recorrente à RFB (Id. 73600243) corrobora o recebimento, no ano-calendário de 2024, de “rendimentos tributáveis” em montante superior a R$ 200.000,00 (duzentos mil reais).
+
+Embora o valor referente à renda mensal líquida recebida pela recorrente também seja superior ao mencionado limite, é preciso ressaltar que o parâmetro a ser utilizado para aferir a situação de hipossuficiência é o valor da remuneração bruta.
+
+A remuneração mensal líquida depende dos descontos compulsórios e facultativos que recaem sobre a folha de pagamento e podem variar mês a mês. Assim, adotar esta última como parâmetro geraria variações e insegurança, deturpando a avaliação da efetiva capacidade econômica da parte.
+
+A esse respeito atente-se ao teor das seguintes ementas promanadas deste Egrégio Sodalício:
+
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. RESOLUÇÃO Nº 271/2023. DEFENSORIA PÚBLICA DO DISTRITO FEDERAL. REQUISITOS NÃO PREENCHIDOS. RECURSO DESPROVIDO.
+
+1. A hipótese em exame consiste em avaliar o preenchimento do requisito referente à hipossuficiência econômica autorizadora do deferimento da gratuidade de justiça em favor do recorrente.
+
+2. A finalidade da gratuidade de justiça consiste em garantir o amplo acesso à Jurisdição às pessoas notoriamente menos favorecidas economicamente. 2.1. As normas previstas no art. 5º, inc. LXXIV, da Constituição Federal e no art. 99, § 2º, do CPC, enunciam que a concessão desse benefício exige a efetiva demonstração de necessidade da medida, que não deve ser concedida apenas com amparo na alegada presunção de hipossuficiência. 2.2. Assim, deve ser examinado concretamente se o requerimento de gratuidade é realmente justificado pela hipossuficiência da parte.
+
+3. A Resolução nº 271, de 22 de maio de 2023, editada pela Defensoria Pública do Distrito Federal, fixa como parâmetro para a caracterização da hipossuficiência da parte o recebimento de renda mensal até o valor correspondente a 5 (cinco) salários mínimos. 3.1. À mingua de outros critérios objetivos para atestar a mencionada hipossuficiência econômica, a escolha do aludido ato normativo infralegal encontra respaldo na regra prevista no art. 4º da LINDB.
+
+4. No caso em deslinde não foram trazidos aos autos os elementos probatórios suficientes no sentido de que o recorrente não dispõe de recursos financeiros para o custeio das despesas do processo, não estando evidenciada, por conseguinte, a afirmada situação de hipossuficiência econômica.
+
+5. Mesmo que o montante dos proventos mensais líquidos recebido pelo agravante seja inferior ao teto estabelecido pelo ato normativo em referência, é preciso ressaltar que o parâmetro a ser utilizado para aferir a situação de hipossuficiência é o valor da remuneração bruta. 5.1. A remuneração mensal líquida depende dos descontos compulsórios e facultativos que recaem sobre a folha de pagamento e podem variar mês a mês. 5.2. Assim, adotar esta última como parâmetro geraria variações e insegurança, deturpando a avaliação da efetiva capacidade econômica da parte.
+
+6. Também não foi demonstrada de modo satisfatório, na situação concreta, a existência de despesas extraordinárias além daquelas decorrentes de gastos habituais e voluntários.
+
+7. Recurso conhecido e desprovido.”
+
+(Acórdão 2015703, 0714046-10.2025.8.07.0000, Relator: ALVARO CIARLINI, 2ª Turma Cível, data de julgamento: 25/6/2025)
+
+(Ressalvam-se os grifos)
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. RENDIMENTOS SUPERIORES AO LIMITE OBJETIVO ADOTADO. RESOLUÇÃO DA DEFENSORIA PÚBLICA DO DISTRITO FEDERAL. AUSÊNCIA DE COMPROVAÇAO DA INSUFICIÊNCIA DE RECURSOS. DECISÃO MANTIDA.
+
+I. CASO EM EXAME
+
+1. Agravo de instrumento interposto contra decisão que indeferiu o pedido de gratuidade de justiça formulado nos autos de cumprimento de sentença individual, derivado de ação coletiva.
+
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se a parte agravante faz jus ao benefício da gratuidade de justiça, à luz de seus rendimentos mensais e da ausência de alteração significativa em sua situação econômica entre o ajuizamento da ação e o pedido de gratuidade.
+
+III. RAZÕES DE DECIDIR
+
+3. A declaração de hipossuficiência possui presunção relativa, podendo ser afastada por prova em sentido contrário, como autorizado pelo art. 99, § 3º, do CPC.
+
+4. Os contracheques e dados do Portal da Transparência demonstram remuneração bruta bem superior a cinco salários-mínimos, parâmetro previsto na Resolução nº 271/2023 da DPU, o que afasta a presunção de insuficiência.
+
+5. O recolhimento regular das custas iniciais ao tempo da propositura do cumprimento de sentença, sem alegação de pobreza, somado à inexistência de modificação relevante na condição financeira e curto espaço de tempo decorrido até o pedido, desautoriza o deferimento posterior do benefício.
+
+6. A jurisprudência é pacífica no sentido de que a gratuidade de justiça somente é devida quando demonstrada a impossibilidade de arcar com os encargos processuais sem prejuízo do sustento próprio e familiar.
+
+IV. DISPOSITIVO E TESE
+
+7. Agravo de Instrumento conhecido e desprovido.
+
+Tese de julgamento: “1. A percepção de rendimentos brutos superiores a cinco salários-mínimos justifica a negativa de gratuidade de justiça. 2. O recolhimento anterior das custas sem alegação de hipossuficiência e desacompanhada de qualquer demonstração de alteração substancial na situação econômica, enfraquece o pleito formulado em momento posterior.”
+
+(Acórdão 2024483, 0717391-81.2025.8.07.0000, Relator: JOSE FIRMO REIS SOUB, 8ª Turma Cível, data de julgamento: 22/7/2025)
+
+(Ressalvam-se os grifos)
+
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. RESOLUÇÃO Nº 271/2023. DEFENSORIA PÚBLICA DO DISTRITO FEDERAL. REQUISITOS AUSENTES. RECURSO DESPROVIDO.
+
+1. A presente hipótese consiste em examinar o preenchimento do requisito da hipossuficiência econômica autorizadora do deferimento da gratuidade de justiça em benefício do ora recorrente.
+
+2. A finalidade da gratuidade de justiça consiste em possibilitar o amplo acesso à jurisdição às pessoas notoriamente menos favorecidas economicamente. 2.1. O art. 5º, inc. LXXIV, da Constituição Federal, e o art. 99, § 2º, do CPC, preceituam que a concessão desse benefício exige a efetiva demonstração da necessidade da medida, que não pode ser deferida com suporte na alegada presunção de hipossuficiência. 2.2. Por essa razão é atribuição do Juízo singular examinar concretamente se o requerimento de gratuidade é realmente justificado pela hipossuficiência da parte.
+
+3. A Resolução nº 271, de 22 de maio de 2023, editada pela Defensoria Pública do Distrito Federal, fixa como parâmetro para a caracterização da parte como hipossuficiente o recebimento de renda mensal correspondente a até 5 (cinco) salários-mínimos.
+
+4. Convém ressaltar que o parâmetro a ser utilizado para aferir a situação de hipossuficiência é o valor da remuneração bruta. A remuneração líquida depende dos descontos compulsórios e facultativos que recaem sobre a folha de pagamento e podem variar mês a mês. Assim, adotar esta última como parâmetro geraria variações e insegurança, deturpando a avaliação da efetiva capacidade econômica da parte. 4.1. No caso em deslinde a recorrente recebe remuneração mensal bruta que totaliza o montante de R$ 22.292,96 (vinte e dois mil, duzentos e noventa e dois reais e noventa e seis centavos). 4.2. Essa situação, portanto, é suficiente para atestar a inexistência da alegada hipossuficiência econômica.
+
+5. Recurso conhecido e desprovido.”
+
+(Acórdão nº 1814591, 07490810220238070000, Relator: ALVARO CIARLINI, 2ª Turma Cível, data de julgamento: 7/2/2024)
+
+(Ressalvam-se os grifos)
+
+“AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA FINANCEIRA. AUSÊNCIA DE COMPROVAÇÃO. INDEFERIMENTO.
+
+1. A Resolução nº 140, de 24 de junho de 2015, da Defensoria Pública do Distrito Federal, define como parâmetro para a constatação de hipossuficiência financeira o recebimento de remuneração bruta até 5 (cinco) salários mínimos.
+
+2. O fato de ser a quantia líquida recebida ser inferior ao valor bruto supracitado, em virtude da obtenção de mútuo bancário, não é suficiente para demonstrar a hipossuficiência econômica da agravante.
+
+3. Recurso conhecido e desprovido.”
+
+(Acórdão nº 1128623, 07142977220188070000, Relatora: FÁTIMA RAFAEL, Relator designado: ALVARO CIARLINI, 3ª Turma Cível, data de julgamento: 3/10/2018)
+
+(Ressalvam-se os grifos)
+
+“DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. CRITÉRIOS. SITUAÇÃO DE HIPOSSUFICIÊNCIA NÃO COMPROVADA.
+
+1. O benefício da assistência judiciária tem previsão no art. 98 e seguintes do CPC, e decorre do direito constitucional de acesso à Justiça.
+
+2. A declaração de hipossuficiência de pessoa natural tem presunção relativa de veracidade, podendo ser afastada apenas nos casos em que existe nos autos, alguma circunstância que comprove a capacidade financeira do requerente.
+
+3. A lei não estabeleceu parâmetros objetivos para a concessão do benefício da gratuidade da justiça, devendo a aferição ser feita caso a caso, a partir da alegação e efetiva comprovação de peculiar situação de impossibilidade financeira da parte requerente.
+
+4. Com intuito de preservar a isonomia, entendo por suficiente os critérios adotados pela Defensoria Pública do Distrito Federal, previstos na Resolução n. 140/2015, que disciplina, como critério objetivo de hipossuficiência, o recebimento de renda mensal bruta de até 05 salários-mínimos.
+
+5. No presente caso, de acordo com os contracheques anexados nos autos originários, verifica-se que a parte agravante possui o recebimento mensal bruto no valor superior a R R$9.200,00 (nove mil e duzentos reais), e após todos os descontos realizados, remanesce a quantia líquida no valor superior a R$ 3.600,00 (três mil e seiscentos reais).
+
+6. Além disso, ainda é possível analisar que o valor líquido do agravante é reduzido devido aos diversos empréstimos bancários contraídos espontaneamente, não servindo para comprovar a condição de hipossuficiência.
+
+7. Desse modo, cumpre-se destacar que o autor percebe renda mensal superior a 05 salários-mínimos, ficando afastada a probabilidade de provimento do recurso.
+
+8. Logo, considera-se aplicável o parâmetro objetivo previsto na Resolução n. 140/2015 da Defensoria Pública do Distrito Federal acima referido.
+
+9. Agravo de Instrumento conhecido e desprovido.”
+
+(Acórdão nº 1908025, 0720741-14.2024.8.07.0000, Relatora: ANA MARIA FERREIRA DA SILVA, 3ª Turma Cível, data de julgamento: 15/8/2024)
+
+(Ressalvam-se os grifos)
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA ECONÔMICA NÃO COMPROVADA. PRESUNÇÃO RELATIVA. RECURSO CONHECIDO E DESPROVIDO.
+
+I. CASO EM EXAME
+
+1. Agravo de instrumento interposto contra decisão que indeferiu pedido de gratuidade de justiça em ação submetida ao rito ordinário. A agravante alegou ausência de condições financeiras para arcar com despesas processuais, presunção legal de veracidade da declaração de hipossuficiência, necessidade de considerar a renda líquida, bem como a existência de diversos empréstimos. Requereu, liminarmente, a concessão de efeito suspensivo e, no mérito, a reforma da decisão agravada. O pedido liminar foi indeferido e não houve contrarrazões.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em verificar se estão presentes os requisitos legais para concessão da gratuidade de justiça à parte agravante, à luz da comprovação de hipossuficiência econômica.
+
+III. RAZÕES DE DECIDIR
+
+3. A gratuidade de justiça somente pode ser concedida à parte que comprove não possuir condições de arcar com os custos do processo sem prejuízo do sustento próprio ou de sua família.
+
+4. A Resolução n. 271/2023 da Defensoria Pública do Distrito Federal estabelece como parâmetro a renda familiar bruta mensal de até cinco salários-mínimos para configuração de hipossuficiência.
+
+5. A agravante aufere renda bruta mensal de R$ 9.966,58, valor superior ao limite previsto na Resolução, afastando a presunção de hipossuficiência.
+
+6. A ausência de comprovação da renda familiar total inviabiliza a aferição adequada da hipossuficiência.
+
+7. A existência de empréstimos não configura, por si só, causa suficiente para concessão do benefício, por tratar-se de endividamento voluntário.
+
+8. A presunção de veracidade da declaração de hipossuficiência tem natureza relativa (juris tantum) e pode ser afastada diante de provas em sentido contrário.
+
+IV. DISPOSITIVO E TESE
+
+9. Recurso conhecido e desprovido.
+
+Tese de julgamento:
+
+1. A concessão da gratuidade de justiça exige a comprovação de hipossuficiência econômica, não sendo suficiente a mera declaração unilateral da parte.
+
+2. O critério de renda bruta familiar mensal superior ao limite fixado pela Resolução n. 271/2023 da DPDF afasta a presunção de hipossuficiência.
+
+3. O endividamento voluntário não justifica, por si só, a concessão da gratuidade de justiça.”
+
+(Acórdão 2021273, 0717651-61.2025.8.07.0000, Relatora: SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, 6ª Turma Cível, data de julgamento: 16/7/2025)
+
+(Ressalvam-se os grifos)
+
+“AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REAJUSTE. LEI N.º 5.106/2013. PREJUDICIALIDADE EXTERNA. AÇÃO RESCISÓRIA. INDEFERIMENTO DA MEDIDA LIMINAR. GRATUIDADE E JUSTIÇA. RENDA BRUTA SUPERIOR A CINCO SALÁRIOS MÍNIMOS. REVOGAÇÃO. TEMA 864/STF. PRECLUSÃO. DILAÇÃO DE PRAZO PARA APRESENTAÇÃO DE CÁLCULOS. INDEFERIDO. TAXA SELIC. APLICAÇÃO A PARTIR DA VIGÊNCIA DA EMENDA CONSTITUCIONAL 113/2021. INCIDÊNCIA SOBRE O VALOR CONSOLIDADO DA DÍVIDA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1. O art. 969 do Código de Processo Civil dispõe que a propositura da Ação Rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória. 1.1. Se não houve a concessão de tutela para atribuir efeito suspensivo, a Ação Rescisória não obsta os cumprimentos individuais de sentença.
+
+2. O art. 98 do Código de Processo Civil confere à pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios o direito à gratuidade da justiça. Esta Turma tem considerado 5 (cinco) salários mínimos, em renda bruta, como o limite razoável para concessão da benesse, mesmo parâmetro utilizado na Defensoria Pública. 2.1. Demonstrado nos autos que a remuneração bruta do agravado supera esse patamar, a gratuidade de justiça deve ser revogada.
+
+3. No julgamento da Apelação interposta nos autos n.º 0032335-90.2016.8.07.0018, foi estabelecido que o Tema 864/STF se refere à revisão geral da remuneração dos servidores públicos, não havendo identidade com a Lei Distrital 5.106/2013, que trata de reajuste salarial específico e escalonado. 3.1. As teses que fulminariam a exigibilidade do título exequendo encontram-se preclusas, visto que já expressamente debatidas e refutadas nos autos da Ação Coletiva que ensejou o presente Cumprimento Individual de Sentença.
+
+4. O art. 535 do Código de Processo Civil garante à Fazenda Pública o prazo de 30 (trinta) dias úteis para apresentar impugnação, devendo, nesse prazo, apresentar os cálculos que entender devidos.
+
+5. A Emenda Constitucional n.º 113/2021, publicada em 09/12/2021, estabeleceu, em seu art. 3º, que nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente. 5.1. Assim, a partir da entrada em vigor da Emenda (09 de dezembro de 2021), a atualização do débito a ser adimplido pelos entes públicos deverá seguir o regramento da taxa Selic.
+
+6. A Resolução n.º 303, de 18 de dezembro de 2019, do Conselho Nacional de Justiça, indica a forma de atualização da conta do precatório não tributário, de modo que a taxa Selic deverá incidir após a consolidação do crédito principal atualizado monetariamente.
+
+7. O valor do débito deve ser corrigido monetariamente e aplicados juros de mora até novembro/2021. Em seguida, deve ser aplicada a taxa Selic sobre o valor consolidado.
+
+8. Recurso conhecido e parcialmente provido.”
+
+(Acórdão 2020953, 0709178-86.2025.8.07.0000, Relator: EUSTÁQUIO DE CASTRO, 8ª Turma Cível, data de julgamento: 15/7/2025)
+
+(Ressalvam-se os grifos)
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. MANTIDA A DECISÃO. INDEFERIMENTO. RECURSO CONHECIDO E DESPROVIDO.
+
+I. CASO EM EXAME
+
+1. Trata-se de agravo de instrumento interposto contra decisão proferida pelo Juízo da 20ª Vara Cível de Brasília-DF, que indeferiu o pedido de gratuidade de justiça.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em saber se o agravante faz jus ao benefício da gratuidade de justiça, considerando os documentos apresentados e a alegada insuficiência de recursos.
+
+III. RAZÕES DE DECIDIR
+
+3. A concessão da gratuidade de justiça exige comprovação da insuficiência de recursos, nos termos do art. 5º, LXXIV, da CF e do art. 99, § 2º, do CPC, cabendo ao magistrado avaliar a condição econômica do requerente.
+
+4. A declaração de hipossuficiência goza de presunção relativa, podendo ser afastada caso existem elementos nos autos que evidenciem a inexistência de debilidade financeira. A Resolução nº 271/2023 da Defensoria Pública do Distrito Federal estabelece como parâmetro objetivo para concessão da gratuidade de justiça a renda familiar bruta de até cinco salários-mínimos, critério adotado pelo Tribunal de Justiça do Distrito Federal e Territórios.
+
+5. No caso concreto, os documentos juntados aos autos demonstram que a agravante aufere renda mensal bruta bem superior à média da população brasileira e as alegações de endividamento, empréstimos e despesas hodiernas não lhe conferem o direito à gratuidade da justiça, porquanto as dívidas foram contraídas voluntariamente e revertidas a seu favor.
+
+IV. DISPOSITIVO E TESE
+
+7. Recurso conhecido e não provido.
+
+Tese de julgamento: "1. A concessão da gratuidade de justiça exige comprovação da insuficiência de recursos, cabendo ao juiz avaliar a condição econômica do requerente à luz dos elementos apresentados. 2. A presunção de hipossuficiência decorrente da declaração de pobreza é relativa e pode ser afastada mediante prova em contrário."
+
+(Acórdão 2013061, 0706811-89.2025.8.07.0000, Relator: CARLOS PIRES SOARES NETO, 1ª Turma Cível, data de julgamento: 18/6/2025)
+
+(Ressalvam-se os grifos)
+
+“DIREITO PROCESSUAL CIVIL E LEI Nº 1.060/1950. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. CONCESSÃO INDEFERIDA NA ORIGEM. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+
+I. Caso em exame
+
+1. O recurso. Agravo de instrumento interposto contra decisão que indeferiu o pedido de concessão dos benefícios da gratuidade de justiça, bem como determinou o recolhimento das custas iniciais.
+
+II – Questão em discussão
+
+2. A questão em discussão consiste em aferir se a agravante faz jus à gratuidade de justiça, considerando sua alegação de hipossuficiência financeira derivada da insuficiência de recursos.
+
+III – Razões de decidir
+
+3. Na forma do art. 99, § 2º, do CPC, pode o julgador denegar o benefício da gratuidade de justiça quando, diante das provas apresentadas nos autos, restar demonstrado que a parte postulante não se encontra em estado de hipossuficiência.
+
+4. Considerando as peculiaridades do caso concreto, conforme análise detida dos autos, verificou-se dos extratos bancários juntados aos autos que a agravante recebe uma renda líquida mensal de R$8.018,00 (oito mil e dezoito reais), condição que afasta seu principal argumento de que receberia uma renda mensal líquida menor que 5 (cinco) salários mínimos. Assim, nesse contexto, constata-se que a recorrente não se encaixa nos parâmetros ou critérios previstos na Resolução nº 140/15 da Defensória Pública do Distrito Federal, que estabelece a hipossuficiência daqueles que percebem renda bruta não superior a 05 (cinco) salários-mínimos.
+
+5. Assim, dos elementos de informação constantes dos autos denotam que a parte agravante possui condições econômicas/financeiras que não se coaduna com a alegada hipossuficiência, condição que infirma a presunção derivada da declaração exibida em juízo.
+
+IV. Dispositivo e tese
+
+6. Recurso desprovido.
+
+Tese de julgamento: A gratuidade de justiça deve ser indeferida quando ausentes elementos hábeis que sustentem a insuficiência de recursos exigidos para o deferimento do benefício da assistência judiciária.”
+
+(Acórdão 2013410, 0715031-76.2025.8.07.0000, Relator: ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 18/6/2025)
+
+(Ressalvam-se os grifos)
+
+Não é demais destacar que o Código de Processo Civil prevê a vedação, ao Relator, da reprodução dos fundamentos alinhados na decisão monocrática agravada para negar provimento ao agravo interno (art. 1021, § 3º).
+
+Reforça-se, contudo, que os argumentos ora articulados pela agravante, em relação à pretendida gratuidade de justiça, consistem em singela reprodução daqueles suscitados nas razões de apelação e já foram submetidos ao exame deste Relator.
+
+Assim, por não haver alterações na situação fática ou jurídica em exame, nem mesmo em relação aos argumentos formulados pela recorrente, devem ser mantidos os fundamentos expostos na decisão monocrática ora recorrida.
+
+Diante do exposto merece ser integralmente mantida a decisão monocrática por meio da qual este Relator indeferiu o requerimento de gratuidade de justiça.
+
+Caso o presente recurso seja desprovido pela Egrégia 2ª Turma Cível, com a subsequente manutenção da decisão monocrática ora agravada, fica reafirmada a ordem de recolhimento e comprovação, nestes autos, no prazo de 5 (cinco) dias, do valor referente ao preparo recursal, com a advertência de que o descumprimento da aludida determinação ensejará o não conhecimento do recurso de apelação.
+
+Feitas essas considerações, conheço e nego provimento ao agravo interno.
+
+É como voto.
+
+O Senhor Desembargador RENATO RODOVALHO SCUSSEL - 1º Vogal Com o relatorO Senhor Desembargador FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
