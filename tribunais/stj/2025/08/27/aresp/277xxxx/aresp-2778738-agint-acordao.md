@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 4323-4340) interposto pelo MUNICÍPIO DE MARINGÁ contra decisão por mim proferida (fls. 4316-4319), que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ, diante da ausência de impugnação a fundamento da inadmissão do recurso especial (Súmula n. 7 do STJ).
+O recurso especial foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, na Apelação Cível n. 0010820-06.2022.8.16.0190, assim ementado (4072-4073):
+DIREITO ADMINISTRATIVO E CIVIL. AÇÃO DE COBRANÇA. CONTRATO ADMINISTRATIVO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PRAZO PRESCRICIONAL QUINQUENAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. QUESTIONAMENTO DA VALIDADE DO CONTRATO. LESÃO À LEGÍTIMA EXPECTATIVA DO CONTRATADO PELA ADMINISTRAÇÃO PÚBLICA. ACTIO NATA. PRETENSÃO NÃO PRESCRITA. AUSÊNCIA DE INÉRCIA DO CREDOR.
+a) Cuida-se de apelação interposta contra sentença que julgou improcedente ação de cobrança promovida por Advogado contratado diretamente pelo Município de Maringá, declarada a prescrição sobre a pretensão de cobrança.
+b) Verifica-se que, excepcionalmente, o prazo prescricional em desfavor do Credor-Advogado foi interrompido pela tramitação de ação de improbidade administrativa, questionando o Ministério Público, justamente a validade contratual, de modo que até o trânsito em julgado da decisão do Superior Tribunal de Justiça, subsistia, realmente, a pretensão anulatória do contrato administrativo.
+d) Isto é, não havia certeza quanto à exigibilidade da remuneração prevista no contrato, que poderia ser anulado judicialmente. Até o trânsito em julgado da ação de improbidade, declarada regular a contratação, não há "inércia do credor" imputável ao Autor-Advogado desta demanda, punível pelo instituto da prescrição.
+e) Ao requerimento administrativo realizado em 2010, foi oposta condição de encerramento definitivo da ação que questionava a validade do contrato administrativo em termos de improbidade. O Município não pode agir contraditoriamente, violando legítima expectativa do contratado.
+A parte agravante sustenta, em síntese, ter impugnado todos os fundamentos da decisão agravada, demonstrando que a matéria em discussão envolve exclusivamente questão de direito, sem necessidade de revolvimento probatório.
+Foi apresentada resposta ao agravo interno (fls. 4345-4360).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Nos termos da decisão agravada, o agravo em recurso especial não foi conhecido porque deixou de ser impugnada a incidência da Súmula n. 7 do STJ, fundamento este utilizado pelo Tribunal de Justiça do Estado do Paraná para não admitir o apelo nobre. Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ. (AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ ..
+Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No que diz respeito à Súmula n. 7 do STJ, a parte agravante asseverou, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório, consoante se nota a seguir (fl. 4.266):
+O foco do processamento do RESP reside em averiguar a violação da legislação federal que rege a matéria prescricional e respectiva divergência jurisprudencial - única e exclusivamente - no que diz respeito à criação judicial de causa suspensiva dos prazos prescricionais pelo mero ajuizamento de ação civil pública que lhe questionara a legalidade da contratação do causídico via inexigibilidade de licitação.
+Portanto, o processamento do recurso especial passa longe da necessidade do reexame fático-probatório, devendo se debruçar única e exclusivamente sobre o exame da violação da legislação federal, em razão da criação judicial de hipótese de suspensão dos prazos prescricionais e respectiva ausência de submissão da questão à teoria subjetiva da "actio nata".
+Com efeito, o processamento do recurso especial não encontra óbice na Súmula 07 do STJ, merecendo admissibilidade e processamento.
+Por tal motivo, merece o presente recurso especial, ser conhecido por esta E. Corte do STJ - Superior Tribunal de Justiça, e ao final provido para o fim de reformar o acórdão proferido pelo TJPR - Tribunal de Justiça do Estado do Paraná.
+Dessa forma, não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC /2015). A propósito:
+ ..
+Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles. (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+ ..
+A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021). Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
