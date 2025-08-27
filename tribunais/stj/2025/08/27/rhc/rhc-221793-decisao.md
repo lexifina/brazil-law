@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por EDUARDO GUILHERME ATANAZIO MARIANO CUNHA - preso preventivamente pela prática, em tese, do crime de homicídio qualificado -, impugnando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.25.264085-9/000).
+Busca o recorrente a revogação da prisão cautelar imposta a ele pelo Juízo da 2ª Vara Criminal e de Execuções Penais da comarca de Nova Lima/MG (Autos n. 5006682-90.2025.8.13.0188), aos argumentos de ausência de fundamentação idônea e dos requisitos necessários para a manutenção da prisão preventiva. Subsidiariamente,  pede  a  substituição  da  custódia  preventiva  por  medidas  cautelares  alternativas.
+Sem contrarrazões.
+É o relatório.
+O presente recurso em habeas corpus é manifestamente inadmissível.
+Isso porque consta das certidões de fls. 80 e 81 que o recurso não obedeceu aos procedimentos legais que lhe são atinentes, porquanto interposto diretamente no Superior Tribunal de Justiça, quando deveria, em verdade, ter sido apresentado no Tribunal de Justiça.
+Com efeito, a interposição do recurso ordinário em habeas corpus deve ser feita perante o Tribunal prolator do acórdão impugnado, que remeterá o feito a esta Corte Superior. A propósito: AgRg no RHC n. 201.519/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/9/2024.
+Além disso, não consta, nos presentes autos, instrumento procuratório outorgado pelo recorrente.
+A ausência de procuração atrai o verbete da Súmula 115/STJ, segundo a qual, na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos. Nesse sentido: AgRg no RHC n. 208.297/RS, Ministro Otavio de Almeida Toledo (Desembargador convocado do TJ/SP), Sexta Turma, DJEN 9/5/2025; e AgRg no RHC n. 201.519/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/9/2024.
+Sem contar que o recurso ordinário em habeas corpus deve ser instruído com as peças necessárias para confirmação da efetiva ocorrência do constrangimento ilegal, cabendo ao recorrente o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas.
+Nesse sentido, cito: AgRg no HC n. 702.560/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/2/2022; e RHC n. 134.960/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 7/10/2021.
+In casu, o recorrente não juntou cópia de documentos capazes de demonstrar a situação fático-processual, como, por exemplo, o decreto prisional, o que inviabiliza a análise das alegações suscitadas. É evidente a deficiência na instrução do feito.
+Por fim, tem-se que, na via eleita, não há como dirimir a tese de negativa de autoria nem a de ausência de provas das condutas criminosas, pois, em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva. Nesse sentido: AgRg no HC n. 920.036/AM, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/2/2025; e AgRg no RHC n. 197.281/MG, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 23/10/2024.
+À vista do exposto, não conheço deste recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. RECURSO INTERPOSTO DIRETAMENTE NESTA CORTE E SEM PROCURAÇÃO NOS AUTOS DO RECORRENTE. SÚMULA 115/STJ. INADMISSIBILIDADE. PRECEDENTES. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. ÔNUS DO RECORRENTE. FALTA DE PEÇAS ESSENCIAIS. INVIABILIDADE DE VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. NEGATIVA DE AUTORIA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+Recurso em habeas corpus não conhecido.
