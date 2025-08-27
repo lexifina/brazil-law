@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182/STJ. ABSOLVIÇÃO. AUTORIA. SUPRESSÃO INSTÂNCIA. SUPERAÇÃO SÚMULA N. 231/STJ. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência que indeferiu liminarmente habeas corpus.
+II. Questão em discussão
+2. A discussão consiste em saber se o agravo regimental pode ser conhecido quando a Defesa não ataca especificamente os fundamentos da decisão agravada, em desrespeito ao princípio da dialeticidade.
+3. Outra questão é saber se é cabível habeas corpus substitutivo de recurso próprio, especialmente quando não há flagrante ilegalidade no ato judicial impugnado.
+III. Razões de decidir
+4. A Defesa não apresentou argumentos novos no agravo regimental, limitando-se a reiterar razões já rejeitadas, o que inviabiliza o conhecimento do recurso, conforme a Súmula n. 182/STJ.
+5. O Superior Tribunal de Justiça pacificou o entendimento de que não cabe habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica na presente hipótese.
+6. A tese de absolvição por insuficiência de provas não foi apreciada pelo Tribunal de origem, impedindo o conhecimento por esta Corte, sob pena de supressão de instância.
+7. A fixação da pena abaixo do mínimo legal, superando a Súmula n. 231/STJ, não é cabível, conforme reafirmado pela Terceira Seção do Superior Tribunal de Justiça e pelo Supremo Tribunal Federal.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. O agravo regimental deve atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento. 2. Não cabe habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. 3. A fixação da pena abaixo do mínimo legal não é permitida, conforme a Súmula n. 231/STJ.
+Dispositivos relevantes citados: CPP, art. 386, IV e VII; STJ, Súmula 231; STJ, Súmula 182.
+Jurisprudência relevante citada: STJ, AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 08/04/2024, DJe de 11/04/2024; STJ, AgRg no AREsp n. 2.819.312/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/03/2025, DJEN de 26/03/2025; STJ, AgRg no HC n. 876.301/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 05/03/2025, DJEN de 12/03/2025; STJ, AgRg no REsp n. 2.163.206/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ELLYSSON PEREIRA DE SOUSA (fls. 197/205) contra a Decisão da Presidência (fls. 193/195) que indeferiu liminarmente o habeas corpus.
+Consta dos autos que o agravante foi condenado, em primeira instância, como incurso no art. 157, caput, por duas vezes, na forma do art. 71, ambos do Código Penal, às penas de 04 (quatro) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 11 (onze) dias-multa.
+Irresignada, a Defesa interpôs apelação, e o Tribunal de origem negou provimento ao recurso, nos termos da ementa (fl. 178): APELAÇÃO CRIMINAL - Roubo (artigo 157, caput, do Código Penal). Sentença Condenatória mantida. Penas bem fixadas. Particularidades do caso que impõem a manutenção do regime fechado. Recurso não provido.
+Em razões recursais, sustenta a Defesa que infere-se do cenário probatório que há um sério comprometimento da apuração das provas acusatórias em juízo, donde se autoriza a aplicação do princípio da presunção de não-culpabilidade que desemboca no in dubio pro reo (fl. 201).
+Alternativamente, entende que a pena deve ser fixada abaixo do mínimo legal e convertida em restritiva de direitos.
+Requer a reconsideração da decisão agravada ou a submissão do agravo ao órgão colegiado para que seja o agravante absolvido, com fundamento no art. 386, inciso IV ou VII, do CPP ou, alternativamente, que a pena seja fixada abaixo do mínimo legal e convertida em restritiva de direitos.
+O Ministério Público Federal, em sede de contrarrazões, manifestou-se pelo não provimento do agravo regimental (fls. 225/227).
+Certifica-se o decurso de prazo para resposta do Ministério Público do Estado de São Paulo (fl. 236).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182/STJ. ABSOLVIÇÃO. AUTORIA. SUPRESSÃO INSTÂNCIA. SUPERAÇÃO SÚMULA N. 231/STJ. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO. I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência que indeferiu liminarmente habeas corpus.
+II. Questão em discussão
+2. A discussão consiste em saber se o agravo regimental pode ser conhecido quando a Defesa não ataca especificamente os fundamentos da decisão agravada, em desrespeito ao princípio da dialeticidade.
+3. Outra questão é saber se é cabível habeas corpus substitutivo de recurso próprio, especialmente quando não há flagrante ilegalidade no ato judicial impugnado.
+III. Razões de decidir
+4. A Defesa não apresentou argumentos novos no agravo regimental, limitando-se a reiterar razões já rejeitadas, o que inviabiliza o conhecimento do recurso, conforme a Súmula n. 182/STJ.
+5. O Superior Tribunal de Justiça pacificou o entendimento de que não cabe habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica na presente hipótese.
+6. A tese de absolvição por insuficiência de provas não foi apreciada pelo Tribunal de origem, impedindo o conhecimento por esta Corte, sob pena de supressão de instância.
+7. A fixação da pena abaixo do mínimo legal, superando a Súmula n. 231/STJ, não é cabível, conforme reafirmado pela Terceira Seção do Superior Tribunal de Justiça e pelo Supremo Tribunal Federal.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. O agravo regimental deve atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento. 2. Não cabe habeas corpus substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. 3. A fixação da pena abaixo do mínimo legal não é permitida, conforme a Súmula n. 231/STJ.
+Dispositivos relevantes citados: CPP, art. 386, IV e VII; STJ, Súmula 231; STJ, Súmula 182.
+Jurisprudência relevante citada: STJ, AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 08/04/2024, DJe de 11/04/2024; STJ, AgRg no AREsp n. 2.819.312/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/03/2025, DJEN de 26/03/2025; STJ, AgRg no HC n. 876.301/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 05/03/2025, DJEN de 12/03/2025; STJ, AgRg no REsp n. 2.163.206/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.
+VOTO
+Registre-se que a Defesa, nas razões do agravo regimental, não apresentou argumentos novos para desconstituir a decisão agravada, limitando-se a reiterar os fundamentos do habeas corpus, já examinados e rejeitados na decisão monocrática.
+A relação jurídico-processual rege-se pelo princípio da dialeticidade, cabendo à parte, insatisfeita com o provimento jurisdicional, demonstrar seu desacerto, sob pena de não conhecimento do recurso.
+Logo, inafastável a incidência da Súmula n. 182/STJ, que assim dispõe: É inviável o agravo do art. 545 do CPC que deixa de atacar especifica mente os fundamentos da decisão agravada.
+Nestes termos, ante a inobservância do princípio da dialeticidade, o presente agravo não comporta conhecimento.
+Ademais, esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/03/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou a orientação de que não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Min. Sebastião Reis Júnior, julgado em 10/06/2020).
+Não se verifica flagrante ilegalidade na espécie.
+No tocante ao mérito, constata-se que a decisão agravada está fundamentada nos seguintes termos (fls. 193/195 - grifamos):
+ ..  A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Além do mais, não há como reconhecer a presença de manifesta ilegalidade quanto à matéria relativa à absolvição do paciente diante da insuficiência de prova da autoria delitiva pois, do que consta dos autos, não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. PEDIDO NÃO CONHECIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus foi impetrado contra acórdão já transitado em julgado. Diante dessa situação, o writ não deve ser conhecido, pois foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+2. Não há manifesta ilegalidade na dosimetria a reclamar a concessão da ordem, pois a tese suscitada não foi analisada pela Corte local, motivo pelo qual incabível o exame de tal questão, de forma originária, por este Sodalício, sob pena de indevida supressão de instância.
+3. Agravo regimental não provido. (AgRg no HC n. 888.166/SP, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 21/06/2024.)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNGIBILIDADE RECURSAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FALTA DE JUSTA CAUSA. BIS IN IDEM NA DOSIMETRIA. APLICAÇÃO DE REGIME MAIS BRANDO. MATÉRIAS NÃO APRECIADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. WRIT ORIGINÁRIO NÃO CONHECIDO. CONDENAÇÃO TRANSITADA EM JULGADO. CABIMENTO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Petição recebida como agravo regimental, em homenagem ao princípio da fungibilidade, tendo em vista ausência de previsão legal de pedido de reconsideração. Precedentes.
+2. As teses suscitadas pela defesa (violação de domicílio, bis in idem na dosimetria da pena e necessidade de alteração do regime prisional) não foram objeto de exame no acórdão impugnado, o que impede o conhecimento dos temas diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+3. Não há ilegalidade na decisão do Tribunal de origem que não conheceu do writ originário manejado como substitutivo de revisão criminal. Isso porque a impetração de habeas corpus após o trânsito em julgado da condenação e com a finalidade de desconstituir sentença condenatória definitiva é indevida, sobretudo quando a análise das teses constantes do writ substitutivo demandam revolvimento fático-probatório.
+4 . Agravo regimental desprovido. (RCD no HC n. 904.224/AM, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22.6.2023; AgRg no HC n. 899.551/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29.4.2024; AgRg no HC n. 897.496/MS, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 23.4.2024; AgRg no HC n. 879.253/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 21.3.2024; AgRg no HC n. 882.227/RJ, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 18.32024.
+Em relação à tese de fixação da pena abaixo do mínimo legal, superando a Súmula n. 231/STJ, a Terceira Seção reafirmou seu entendimento sobre o tema por ocasião do julgamento dos Recursos Especiais n. 1.869.764/MS, 2.052.085/TO e 2.057.181/SE, decidindo que "a incidência de circunstância atenuante não pode reduzir a pena abaixo do mínimo legal, conforme o entendimento vinculante do Supremo Tribunal Federal no Tema 158 da repercussão geral" (DJe de 18.09.2024).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+A tese de absolvição do agravante, diante da insuficiência de provas de autoria delitiva, não foi apreciada no acórdão impugnado (fls. 177/182), pelo Tribunal de origem, não podendo esta Corte de Justiça dela conhecer, sob pena de indevida supressão de instância.
+Confira-se:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+ ..
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 08/04/2024, DJe de 11/04/2024).
+No tocante à fixação da pena abaixo do mínimo legal, tem-se que o entendimento firmado na Súmula n. 231/STJ permanece válido e foi reafirmado pela Terceira Seção deste Superior Tribunal, por ocasião do julgamento dos Recursos Especiais n. 2.052.085/TO, n. 2.057.181/SE e n. 1.869.764/MS, sob o rito dos recursos repetitivos, em sessão realizada em 14/08/2024.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ART. 140, § 3º DO CP. PLEITO DE SUPERAÇÃO DA SÚMULA N. 231, STJ. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte possui o entendimento de que é inviável a redução da pena abaixo do mínimo legal, em razão da presença de circunstância atenuante, conforme dispõe a Súmula n. 231 do Superior Tribunal de Justiça.
+2. A tese defensiva já foi amplamente analisada e rejeitada em âmbito superior, sendo reafirmada tanto pelo STJ, em sede de recurso repetitivo (Tema 190), quanto pelo Supremo Tribunal Federal, em repercussão geral (Tema 158), com o entendimento de que o critério trifásico de individualização da pena previsto no artigo 68 do Código Penal impede a fixação de penas abaixo do patamar mínimo abstratamente cominado. (REsp n. 2.168.870/AL, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 26/12/2024.)
+3. Agravo regimental não provido. (AgRg no AREsp n. 2.819.312/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/03/2025, DJEN de 26/03/2025 - grifamos)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. MAJORANTE DO EMPREGO DE ARMA DE FOGO. RECONHECIMENTO PELA ORIGEM. REVOLVIMENTO PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA. SEGUNDA FASE. PATAMAR MÍNIMO LEGAL. SÚMULA N. 231 DO STJ. APLICABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. As instâncias de origem deixaram expressamente registrado que o emprego de arma foi comprovado pela prova oral, sendo aplicável a majorante em questão.
+2. Tal entendimento está alinhado com a jurisprudência da Terceira Seção desta Corte Superior, no julgamento do EREsp n. 961.863/RS, no sentido de que é prescindível a apreensão e a perícia da arma para a aplicação da causa de aumento prevista para o crime de roubo, se comprovada a sua utilização por outros elementos probatórios, como no caso em tela.
+3. Considerado comprovado pela jurisdição ordinária o uso da arma de fogo, e não a utilização de simulacro, além de ser desnecessária a apreensão e perícia do artefato, revisar a conclusão das instâncias de origem relativa ao efetivo uso de arma de fogo demandaria reanálise do conjunto fático-probatório dos autos, o que é vedado na via do habeas corpus.
+4. Não é possível, na segunda fase da dosimetria, a redução da pena a patamar abaixo do mínimo previsto no tipo penal em decorrência de circunstâncias atenuantes, por ser necessária a observância dos parâmetros definidos pelo legislador.
+5. O entendimento, retratado na Súmula n. 231 do STJ, permanece válido, tendo sido reafirmado pela Terceira Seção do Superior Tribunal de Justiça no julgamento dos REsps n. 1.869.764/MS, 2.052.085/TO e 2.057.181/SE, realizado em 14/8/2024.
+6. Agravo regimental improvido. (AgRg no HC n. 876.301/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 05/03/2025, DJEN de 12/03/2025 - grifamos)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ART. 289 E 307 DO CÓDIGO PENAL. CRIMES DE MOEDA FALSA E FALSA IDENTIDADE. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. PENA-BASE NO MÍNIMO LEGAL. HIGIDEZ DA SÚMULA N. 231/STJ. OVERRULING. INOCORRÊNCIA. QUESTÃO RECENTEMENTE ENFRENTADA PELA TERCEIRA. SEÇÃO. OBSERVÂNCIA AO PRINCÍPIO DA COLEGIALIDADE. MANUTENÇÃO DO APENAMENTO IMPOSTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Com arrimo na interpretação sistemática do art. 927, III e IV, do CPC (teoria dos precedentes vinculantes), c/c o art. 3º do CPP e na necessária preservação ao republicano princípio da colegialidade, esta Corte de uniformização tem mantido a higidez normativa da Súmula n. 231/STJ, mantida pela Terceira Seção quando do julgamento do REsp 1898764/MS, em linha com anteriores manifestações do próprio Superior Tribunal de Justiça no REsp n. 1.117.068/PR (Tema Repetitivo n. 190) e do Supremo Tribunal Federal no RE n. 597.270/RS (Tema de Repercussão Geral n. 158).
+2. À luz do subjacente critério trifásico de individualização da pena preconizado por Nelson Hungria e positivado no art. 68 do CP, é cediço que não se permite ao julgador, na primeira e segunda fase da da dosimetria, extrapolar os limites mínimo e máximo abstratamente cominados para a aplicação da sanção penal ao sentenciado.
+3. Na hipótese, a Corte de origem afastou o pleito residual de redução do apenamento imposto, aquém do mínimo legal, conquanto a incidência das circunstâncias atenuantes da menoridade relativa e da confissão espontânea, por força da ainda válida dicção da Súmula n. 231/STJ.
+4. A jurisprudência desta Corte Superior assentou que, em sede de recurso especial, é incabível para apreciação de teses relacionadas a violações de dispositivos e princípios constitucionais, sob pena de usurpação da competência do STF. Precedentes.
+5. Agravo regimental não provido. (AgRg no REsp n. 2.163.206/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024 - grifamos)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
