@@ -1,0 +1,8 @@
+DECISÃO
+Por meio de petição apresentada à fl. 883, HAPVIDA ASSISTÊNCIA MÉDICA S.A. manifesta sua renúncia ao direito em que se funda a ação (embargos à execução), com a resolução do mérito nos termos do art. 487, III, "c ", do CPC.
+Na oportunidade, informou ter aderido à transação extraordinária de que tratam o art. 22 da Lei n. 14.973/2024, a Portaria Normativa AGU n. 150/2024 e o Edital de Transação por Adesão n. 1/2024, ressaltando que a renúncia estaria condicionada à efetiva celebração de transação acerca dos débitos da ação, a ser formalizada com a PGF/AGU, juntando, aos autos, instrumento de procuração que outorga, ao advogado subscritor da peça, o poder especial para renunciar à pretensão formulada (fls. 884/891).
+Considerando a limitação apontada, a possibilidade de autocomposição de forma consensual e a concordância de ambas as partes, determinei a suspensão do feito pelo prazo apontado pela agência reguladora (90 dias).
+Na sequência, à fl . 930 , a ANS comunicou que a empresa cumpriu os requisitos de validade da adesão e que a transação foi devidamente deferida, manifestando sua anuência com o pedido de extinção do feito com resolução de mérito, consoante fora requerido inicialmente pela parte autora.
+Ante o exposto, com base no art. 487, III, c, do CPC/2015, c/c o art. 34,IX, do RISTJ, HOMOLOGO o ato de renúncia e EXTINGO o processo, com resolução do mérito, devendo os autos retornar ao juízo de origem para que sejam examinados os desdobramentos desta homologação, inclusive acerca das despesas processuais e dos honorários advocatícios.
+Publique-se. Intimem-se.
+EMENTA
