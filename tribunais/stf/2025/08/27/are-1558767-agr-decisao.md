@@ -1,0 +1,47 @@
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. PREJUÍZO DO AGRAVO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. INCIDÊNCIA. PARCELAS DE VALE-TRANSPORTE E DO AUXÍLIO ALIMENTAÇÃO PAGAS PELO EMPREGADOR A PARTIR DE DESCONTO SOFRIDO PELO EMPREGADO. TEMA 1.415 DE REPERCUSSÃO GERAL. VALORES DESCONTADOS NA FOLHA DE PAGAMENTO DO TRABALHADOR A TÍTULO DE COPARTICIPAÇÃO EM ASSISTÊNCIA MÉDICA E ODONTOLÓGICA E PREVIDÊNCIA PRIVADA. NATUREZA JURÍDICA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. POTENCIAL OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO PARCIALMENTE DESPROVIDO. DEVOLUÇÃO DO FEITO À ORIGEM QUANTO À QUESTÃO REMANESCENTE SUBMETIDA À REPERCUSSÃO GERAL (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+
+    DECISÃO: Trata-se de agravo interno contra decisão monocrática que negou seguimento ao agravo em recurso extraordinário.
+
+    O polo agravante sustenta, em apertada síntese, a inexistência de óbices ao conhecimento do recurso extraordinário, mormente em razão do reconhecimento da repercussão geral do Tema 1.415.
+
+    À luz dos argumentos tecidos, RECONSIDERO a decisão agravada, tornando-a sem efeito, JULGO PREJUDICADO o agravo interno e, ato contínuo, passo ao reexame do agravo em recurso extraordinário.
+
+    Nesse viés, friso se tratar de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado pela alínea “a” do permissivo constitucional, contra acórdão que assentou:
+
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. SAT/RAT E TERCEIROS. DESCONTO DE VALE-ALIMENTAÇÃO/REFEIÇÃO, VALE TRANSPORTE, ASSISTÊNCIAS MÉDICA E ODONTOLÓGICA E PREVIDÊNCIA PRIVADAS. REMUNERAÇÃO DO EMPREGADO. INCIDÊNCIA. TEMA 1.174/STJ.
+
+    1. A contribuição previdenciária patronal e as contribuições ao SAT/RAT e a terceiros incidem sobre o valor bruto das remunerações pagas, devidas ou creditadas aos segurados empregados (art. 22, I, da Lei nº 8.212/91).
+
+    2. Ao julgar o Tema 1.174 dos recursos repetitivos, o STJ decidiu que ‘As parcelas relativas ao vale-transporte, vale-refeição/alimentação, plano de assistência à saúde (auxílio-saúde, odontológico e farmácia), ao Imposto de Renda retido na fonte (IRRF) dos empregados e à contribuição previdenciária dos empregados, descontadas na folha de pagamento do trabalhador, constituem simples técnica de arrecadação ou de garantia para recebimento do credor, e não modificam o conceito de salário ou de salário contribuição, e, portanto, não modificam a base de cálculo da contribuição previdenciária patronal, do SAT e da contribuição de terceiros’.”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, violação aos arts. 5º, inc. II; 37, caput; 93, inc. IX; 150, inc. I; e 195, inc. I, alínea “a”, da Constituição Federal.
+
+    O Tribunal a quo inadmitiu o recurso extraordinário, por entender que a ofensa à Constituição Federal, caso existente, seria indireta.
+
+    É o relatório. DECIDO.
+
+    Ab initio, esta Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93, inciso IX, da Constituição Federal, não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pelas partes, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento, exatamente como se verificou no caso em tela (AI 791.292-RG-QO, Plenário, Rel. Min. Gilmar Mendes, DJe de 13/8/2010, Tema 339).
+
+    Outrossim, emana que, para ultrapassar o entendimento do Tribunal a quo acerca da base de cálculo da contribuição em tela, à luz da natureza jurídica dos valores descontados na folha de salário dos trabalhadores a título de coparticipação em assistência médica e odontológica e de previdência privada, é mister examinar a legislação infraconstitucional, incabível em sede de apelo extremo, porquanto a afronta ao texto constitucional, se existente, seria meramente indireta. Assim, cito:
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. BASE DE CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL E DAS CONTRIBUIÇÕES DESTINADAS AO SEGURO ACIDENTE DO TRABALHO E RISCO AMBIENTAL DO TRABALHO (SAT/RAT) E A TERCEIROS. INCLUSÃO DO IMPOSTO DE RENDA DA PESSOA FÍSICA E DA CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO E DO TRABALHADOR AVULSO, RETIDOS NA FONTE. LEI 8.212/1991. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA À CONSTITUIÇÃO FEDERAL QUE, SE EXISTENTE, SERIA APENAS INDIRETA. AUSÊNCIA DE REPERCUSSÃO GERAL.” (ARE 1.376.970, Plenário, Rel. Min. Luiz Fux - Presidente, DJe 21/6/2022, processo paradigma do Tema 1.221 de repercussão geral)
+
+    “Agravo regimental em embargos de declaração em recurso extraordinário. Tributário. Contribuição previdenciária patronal. Base de cálculo. Imposto de renda retido na fonte e contribuição previdenciária do empregado. Análise de legislação infraconstitucional. Violação reflexa. Impossibilidade. 1. Para superar a compreensão do Tribunal de origem (mormente quanto à premissa de que os valores concernentes à retenção a título de imposto de renda e de contribuição previdenciária do empregado compõem a remuneração desse) e acolher a pretensão recursal, seria necessário reexaminar a causa à luz da legislação infraconstitucional (legislação trabalhista, Lei nº 8.212/91 e legislação do IRPJ), o que não se admite em sede de recurso extraordinário. 2. Agravo regimental não provido, com imposição de multa de 1% (art. 1.021, § 4º, do CPC).” (RE 1.354.411-ED-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe 29/4/2022)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.355.717-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 7/3/2022)
+
+    Por fim, quanto à controvérsia acerca da incidência da contribuição previdenciária patronal sobre as parcelas de vale-transporte e do auxílio alimentação pagas pelo empregador a partir de desconto sofrido pelo empregado, consigne-se que a matéria foi submetida ao regime da repercussão geral (Tema 1.415, ARE 1.370.843, Min. André Mendonça), de modo a ser imperiosa a devolução do feito à Corte a quo, para observância da sistemática da repercussão geral, segundo norma processual vigente.
+
+    Ex positis, RECONSIDERO a decisão monocrática agravada, ao passo em que julgo PREJUDICADO o agravo interno, DESPROVEJO PARCIALMENTE o agravo em recurso extraordinário, ex vi artigo 932, inciso VIII, do Código de Processo Civil, c/c o artigo 21, § 1º, do Regimento Interno do STF, e, quanto à matéria remanescente, submetida à sistemática da repercussão geral, determino a DEVOLUÇÃO do presente feito ao Tribunal de origem, ex vi artigo 328, parágrafo único, do Regimento Interno do STF, na redação da Emenda Regimental 21/2007.
+
+    Publique-se.
+
+    Brasília, 27 de agosto de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
