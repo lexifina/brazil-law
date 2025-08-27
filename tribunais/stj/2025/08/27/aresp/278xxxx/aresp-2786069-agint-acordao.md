@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE. MULTA DE TRÂNSITO. REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA. NÃO COMPROVAÇÃO DO PAGAMENTO. ACOLHIMENTO DA IMPUGNAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação declaratória de nulidade de autos infracionais de multas de trânsito e repetição de indébito. Na sentença o cumprimento de sentença foi extinto após o acolhimento da impugnação da Fazenda. No Tribunal a quo, a sentença foi mantida. Interposto recurso especial, foi inadmitido pelo Tribunal de origem. Por fim, este Tribunal Superior conheceu do agravo em recurso especial para não conhecer do recurso principal. Opostos embargos de declaração, a parte é intimada para complementar sus razões, tendo em vista a nítida feição de agravo interno do recurso apresentado.
+II - A parte, em seu agravo interno, renuncia ao fundamento recursal referente à comprovação do dissídio jurisprudencial, reconhecendo, assim, a insuficiência na apresentação da similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como da presença de soluções jurídicas diversas para a situação. Ademais, alcançar conclusão diversa daquela firmada pela Corte de origem, quanto à comprovação do pagamento das multas indevidas, demandaria a incursão nos fatos e provas juntados aos autos, o que é expressamente vedado pelo entendimento sumulado deste Tribunal Superior (Súmula n.7/STJ).
+III - Agravo interno improvido.
+RELATÓRIO
+Complementadas as razões, trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Sendo assim, não há necessidade de reexame fático-probatório, o que se busca é afastar a necessidade de comprovar o pagador para fazer jus a repetição de indébito, quando a quitação é fato incontroverso e a responsabilidade pelo pagamento é da proprietária do veículo, até porque, mesmo que as multas tenham sido pagas por um terceiro, este passa a ter direito ao reembolso em face do proprietário, por ter pagado em seu nome dívida de terceiro, por força do art. 305 do CC - O terceiro não interessado, que paga a dívida em seu próprio nome, tem direito a reembolsar-se do que pagar; mas não se sub-roga nos direitos do credor.
+- sendo assim, não efetivar o reembolso do valor anulado ao proprietário, restringe o direito deste terceiro pagador em se reembolsar do valor perante ao proprietário, valendo dizer que o terceiro pagador não detém legitimidade para ingressar em face da municipalidade para discutir direito sobre infrações aplicadas pelo art. 257, § 3º do CTB, por não ser o proprietário e nem o condutor, pois trata-se de multa administrativa, não cometida na condução do veículo.
+ ..
+A Agravante reconhece que, no despacho denegatório, se concluiu pela falta de demonstração formal do dissídio jurisprudencial, embora esteja plenamente satisfeito os requisitos, nesse cenário, renuncia ao fundamento recursal apoiado na alínea "c", a fim de concentrar o inconformismo exclusivamente na alínea "a", ou seja, na alegada afronta a dispositivos de lei federal (CPC e outras leis de regência).
+ ..
+A parte agravada deixou de se manifestar quanto aos termos do agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE. MULTA DE TRÂNSITO. REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA. NÃO COMPROVAÇÃO DO PAGAMENTO. ACOLHIMENTO DA IMPUGNAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação declaratória de nulidade de autos infracionais de multas de trânsito e repetição de indébito. Na sentença o cumprimento de sentença foi extinto após o acolhimento da impugnação da Fazenda. No Tribunal a quo, a sentença foi mantida. Interposto recurso especial, foi inadmitido pelo Tribunal de origem. Por fim, este Tribunal Superior conheceu do agravo em recurso especial para não conhecer do recurso principal. Opostos embargos de declaração, a parte é intimada para complementar sus razões, tendo em vista a nítida feição de agravo interno do recurso apresentado.
+II - A parte, em seu agravo interno, renuncia ao fundamento recursal referente à comprovação do dissídio jurisprudencial, reconhecendo, assim, a insuficiência na apresentação da similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como da presença de soluções jurídicas diversas para a situação. Ademais, alcançar conclusão diversa daquela firmada pela Corte de origem, quanto à comprovação do pagamento das multas indevidas, demandaria a incursão nos fatos e provas juntados aos autos, o que é expressamente vedado pelo entendimento sumulado deste Tribunal Superior (Súmula n.7/STJ).
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte, em seu agravo interno, renuncia ao fundamento recursal referente à comprovação do dissídio jurisprudencial, reconhecendo, assim, a insuficiência na apresentação da similitude fática entre o aresto impugnado e os acórdãos paradigmas, bem como da presença de soluções jurídicas diversas para a situação.
+Por fim, quanto à suposta violação de lei federal, o recurso especial não merece conhecimento diante da incidência da Súmula n. 7/STJ no caso. O Tribunal de origem, ao julgar o recurso de apelação, valeu-se do acervo fático-probatório para concluir que a parte não comprovou o pagamento das multas, o que obstaria a restituição dos valores por ela pretendida:
+ ..
+Consoante se depreende da documentação acostada aos autos eletrônicos, constata-se que a requerente não cumpriu integralmente com o quanto determinado na decisão colegiada, que determinou o prosseguimento do feito em liquidação de sentença, eis que a empresa permaneceu inerte quando provocada a apresentar os aludidos comprovantes de pagamento.
+Nesse sentido, consigne-se que a parte autora juntou aos autos, apenas os extratos completos de multa que indicam a respectiva quitação do montante tido como indevido, mas não fez prova de que teria suportado essas quantias.
+ ..
+Alcançar conclusão diversa daquela firmada pela Corte de origem demandaria a incursão nos fatos e provas juntados aos autos, o que é expressamente vedado pelo entendimento sumulado deste Tribunal Superior.
+Em conformidade, em seu recurso especial, o agravante alega a violação de diversos artigos do Código de Trânsito Brasileiro (CTB), quais sejam: arts. 286, § 2º, 282, § 3º e art. 271, §13. Todavia, a comprovação judicial, quanto ao pagamento das multas, é requisito para pleitear os direitos assegurados em tais dispositivos, ou seja, a restituição dos valores e a repetição do indébito.
+Portanto, não se vislumbra, no caso, a violação dos dispositivos de lei federal alegada pelo agravante, de modo que o objeto do recurso especial recai sobre a comprovação do pagamento das multas, o que exige o reexame probatório vedado pela incidência da Súmula n.7/STJ.
+Ante o exposto, não havendo razões para modifi car a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
