@@ -1,0 +1,18 @@
+DECISÃO
+O presente writ, impetrado em benefício de WERIKA MARIA DA SILVA - cumprindo pena privativa de liberdade em regime semiaberto (PEC n. 0412656-67.2024.8.07.0015) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Agravo de Execução Penal n. 0721863-28.2025.8.07.0000), comporta pronto acolhimento.
+Com efeito, busca a impetração a concessão de prisão domiciliar à paciente, cumprindo pena definitiva na execução que tramita perante o Juízo de Direito da Vara de Execuções Penais do Distrito Federal, ao argumento de que as circunstâncias apuradas pelos assistentes sociais da Seção Psicossocial da VEP demonstram a necessidade de concessão de prisão domiciliar humanitária à paciente, a fim de conferir efetividade aos princípios da dignidade da pessoa humana e da proteção integral da criança (fl. 5).
+De fato, do atento exame dos autos, observa-se que há comprovação da imprescindibilidade da mãe aos cuidados da menor (6 anos), pois consta do estudo psicossocial que o relato dos entrevistados indicou a genitora como a única referência familiar de  ..  motivada a cuidar da criança. Apesar de  ..  estar acolhida na casa da tia paterna, a família não tem interesse em permanecer com a criança. Além disso,  ..  apresenta abalo emocional por estar distante da genitora e chora todos os dias (fl. 102).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO MINISTERIAL FEDERAL. PRISÃO DOMICILIAR. MÃE DE MENORES DE 12 ANOS. CABÍVEL. PACIENTE QUE CUMPRE PENA NO REGIME FECHADO. NÃO IMPEDIMENTO. CRIME DESTITUÍDO DE VIOLÊNCIA OU GRAVE AMEAÇA (TRÁFICO DE DROGAS). AUSÊNCIA DE FALTAS DISCIPLINARES GRAVES. NÃO INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. IMPRESCINDIBILIDADE DOS CUIDADOS MATERNOS. RECURSO IMPROVIDO.
+1- A jurisprudência desta Corte tem se orientado no sentido de que deve ser dada uma interpretação extensiva tanto ao julgado proferido pelo Supremo Tribunal Federal no Habeas Corpus coletivo n. 143.641, que somente tratava de prisão preventiva de mulheres gestantes ou mães de crianças de até 12 anos, quanto ao art. 318-A do Código de Processo Penal, para autorizar também a concessão de prisão domiciliar às rés em execução provisória ou definitiva da pena, ainda que em regime fechado (Rcl n. 40.676/SP, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 1º/12/2020)  ..  (RHC n. 145.931/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16/3/2022.).
+2- Apesar da literalidade da lei (art.117, III, da LEP) abarcar somente a hipótese de regime aberto para a concessão da prisão domiciliar, o objetivo da norma (interpretação finalística da norma, que vai além da literal, segundo a Hermenêutica Jurídica), é de se atender o melhor interesse da criança, sendo cabível, portanto, a prisão domiciliar em regimes diversos do aberto, desde que seja feita a ponderação do risco com a conduta e a personalidade da presa.
+ ..
+4- Agravo regimental improvido.
+(AgRg no AgRg no HC n. 964.990/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 7/5/2025 - grifo nosso).
+Em face do exposto, concedo liminarmente a ordem impetrada para determinar que a paciente, em cumprimento de pena em regime semiaberto, seja autorizada a permanecer em prisão domiciliar, com possibilidade de trabalhar, a fim de se fazer presente aos cuidados da menor da qual é genitora.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PRISÃO DOMICILIAR. CONDENAÇÃO DEFINITIVA. GENITORA DE UMA CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE COMPROVADA POR RELATÓRIO PSICOSSOCIAL. CONCESSÃO DA ORDEM QUE SE IMPÕE.
+Ordem liminarmente concedida.
