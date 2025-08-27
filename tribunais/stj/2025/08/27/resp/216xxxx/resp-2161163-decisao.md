@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto com base no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (fl. 306):
+AGRAVO DE INSTRUMENTO. Ação de usucapião. Insurgência contra decisão que determinou a juntada de formal de partilha e inclusão dos demais herdeiros no polo passivo, entre outras determinações. Hipótese que não se enquadra no rol taxativo do artigo 1.015 do CPC. Ausência de situação que autorize a mitigação da taxatividade do dispositivo legal (Tema 998 do STJ; REsp 1696396/MT e REsp 1704520/MT). Recurso não conhecido.
+Os embargos de declaração foram rejeitados (fls. 321-324).
+No recurso especial (fls. 331-350), o recorrente indica dissídio jurisprudencial e contrariedade ao art. 1.015, II, VII e VIII, do CPC/2015, argumentando que a decisão interlocutória de primeira instância, objeto do recurso, seria passível de exame imediato, pois:
+(a) "o presente caso enquadra-se perfeitamente nos incisos II, VII e VIII de referido dispositivo legal, por se tratar de decisão que não só afeta o mérito do processo, pois entende que outros personagens devem se manifestar no processo, assim como versa sobre a inclusão, despropositada, de outros personagens no polo ativo do feito - e não no polo passivo como constou dos acórdãos -, ou seja, versa-se sobre exclusão de litisconsorte, ou mesmo de rejeição de limitação de litisconsórcio processual" (fls. 344-345),
+(b) "ao entender que a posse adveio de sua genitora, e não de seu genitor, tal como disposto alhures, e ainda determinou a juntada de formal de partilha do falecimento do genitor ou da genitora, o que não restou cristalino no r. despacho objeto do agravo, e inclusão dos filhos de sua genitora no polo ATIVO da ação, o r. Juízo inaugural, claramente, analisou o mérito da ação, sem, contudo proferir sentença meritória, autorizando-se, assim, a interposição do Agravo de Instrumento com base no inciso II, do artigo 1.015 do CPC" (fl. 345), e
+(c) "há de se salientar que, apesar do inciso VII, do artigo 1.015 do CPC, prever apenas a exclusão de litisconsorte, na mesma esteira a respectiva determinação de inclusão de litisconsorte deve ser autorizado, em festejo aos princípios da congruência e da isonomia" (fl. 345).
+O recurso foi admitido na origem (e-STJ fls. 417-419).
+É o relatório.
+Decido.
+Com efeito, o dispositivo legal que se afirma violado não guarda relação de pertinência com a questão dos autos, sendo certo que a determinação de que o recorrente apresente o formal de partilha nos autos da demanda de usucapião do imóvel descrito na inicial e inclua os demais herdeiros na referida lide, entre outras especificações, não evidencia matéria de mérito a ensejar a aplicação do art. 1.015, II, do CPC/2015.
+Incide, na espécie, a Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IRRESIGNAÇÃO FORMULADA GENERICAMENTE. SÚMULA 284/STF. INCIDÊNCIA. VALOR INDENIZATÓRIO. REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. DATA DA CITAÇÃO. DPVAT. DEDUÇÃO DOS VALORES INDENIZATÓRIOS. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. APLICAÇÃO POR ANALOGIA.
+ ..
+4. Na forma da jurisprudência, "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (STJ AgRg no AREsp 144.399/RS, Rel. Ministro Humberto Martins, Segunda Turma ,DJe 18/6/2012.)
+5.Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.343.812/RJ, Relator Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019.)
+Além disso, o Tribunal de origem, a despeito dos aclaratórios opostos, não debateu o conteúdo do art. 1.015, II, VII e VIII, do CPC/2015 sob o ponto de vista da parte recorrente. Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+A Corte a quo não conheceu do agravo de instrumento da parte recorrente, assentando que não era o caso de mitigar a taxatividade do rol do art. 1.015 do NCPC, visto que não há falar em inutilidade do julgamento da matéria ao final, tampouco em urgência da controvérsia. A Corte de apelação acrescentou ainda que as teses jurídicas suscitadas nas razões do agravo de instrumento podiam ser deduzidas na apelação.
+Confira-se o seguinte trecho (fl. 308):
+Oportuno enfatizar, ademais, que embora o rol do artigo 1.015 do Código de Processo Civil seja de taxatividade mitigada (Tema 998, STJ; REsp 1696396/MT e REsp 1704520/MT), não se verifica nos autos urgência capaz de autorizar o conhecimento do recurso, isto porque não haverá inutilidade na apreciação da matéria em eventual recurso de apelação, nos termos do artigo 1.009, § 1º, do Código de Processo Civil.
+A respeito de tal razão de decidir, suficiente para manter o acórdão recorrido, a parte recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
