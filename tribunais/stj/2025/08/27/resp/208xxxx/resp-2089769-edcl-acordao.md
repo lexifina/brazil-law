@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TEMA 69/STF. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. ICMS ANTECIPADO. APLICAÇÃO. MODULAÇÃO DOS EFEITOS. MARCO TEMPORAL PARA REPETIÇÃO DO INDÉBITO. DATA DO RECOLHIMENTO INDEVIDO. QUESTIONAMENTO ACERCA DA COMPETÊNCIA DO TRIBUNAL LOCAL PARA A APLICAÇÃO DO PRECEDENTE EXARADO PELO SUPREMO TRIBUNAL FEDERAL. TESE CONSTITUCIONAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por GR DISTRIBUIDORA LTDA. ao acórdão prolatado por esta Segunda Turma (e-STJ, fls. 933-950), assim ementado:
+Recurso Especial interposto por GR Distribuidora Ltda.
+TRIBUTÁRIO E PROCESSO CIVIL. RECURSO ESPECIAL. TEMA 69 DO STF. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. ICMS ANTECIPADO. APLICAÇÃO. MODULAÇÃO DOS EFEITOS. MARCO TEMPORAL PARA REPETIÇÃO INDÉBITO. DATA DO RECOLHIMENTO INDEVIDO. QUESTIONAMENTO ACERCA DA COMPETÊNCIA DO TRIBUNAL LOCAL PARA A APLICAÇÃO DO PRECEDENTE EXARADO PELO SUPREMO TRIBUNAL FEDERAL. TESE CONSTITUCIONAL. INCOMPETÊNCIA DESSE SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal de origem, ao decidir a controvérsia, afirmou que, no RE 574.706/PR, julgado sob o regime do art. 1.036 do CPC, o Plenário do STF assentou que o ICMS não compõe a base de cálculo para fins de incidência do PIS e da Cofins, tendo em vista que a arrecadação do ICMS não se enquadra entre as fontes de financiamento da seguridade social previstas nas Constituição, pois não representa faturamento ou receita, mas apenas ingresso de caixa ou trânsito contábil a ser totalmente repassado ao fisco estadual, e, interpretando o aludido julgado do STF, firmado sob o regime da repercussão geral, dele extraiu a exegese, sob o enfoque constitucional, de que o ICMS a ser excluído da base de cálculo do PIS e da COFINS é aquele destacado nas notas fiscais, concluindo, assim, que o acórdão recorrido não desbordara da tese jurídica firmada pela Suprema Corte.
+2. A insurgência do recorrente não merece guarida, pois não obstante alegue uma suposta violação à legislação infraconstitucional, verifica-se que a pretensão asseverada no apelo extremo tem como intuito proceder uma revisão em precedente vinculante firmado pelo Supremo Tribunal Federal. Nesse sentido é evidente a impossibilidade de exame da questão na presente quadra recursal, porquanto não cabe ao Superior Tribunal de Justiça, e sim ao próprio Pretório Excelso, dirimir eventuais dúvidas surgidas quando da aplicação das decisões exaradas por aquela Corte Suprema em sede de repercussão geral ou em controle concentrado, sobretudo porque o artigo 105, inciso III, alínea "a", da Constituição Federal, assevera que a competência do Superior Tribunal de Justiça, em recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Dessa forma, a resolução da questão controvertida com amparo na interpretação e na aplicação de precedentes constitucionais, como a ocorrida na hipótese em tela, inviabiliza o conhecimento da controvérsia pelo Superior Tribunal de Justiça, na via estreita do recurso especial.
+3. Recurso Especial não conhecido.
+Nas razões recursais, a embargante aponta omissão no julgado recorrido, afirmando que não foi realizada a diferenciação entre o ICMS destacado e o antecipado para fins de análise da modulação dos efeitos do Tema 69/STF.
+Sendo assim, requer o acolhimento destes aclaratórios.
+Impugnação às fls. 970-973 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TEMA 69/STF. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. ICMS ANTECIPADO. APLICAÇÃO. MODULAÇÃO DOS EFEITOS. MARCO TEMPORAL PARA REPETIÇÃO DO INDÉBITO. DATA DO RECOLHIMENTO INDEVIDO. QUESTIONAMENTO ACERCA DA COMPETÊNCIA DO TRIBUNAL LOCAL PARA A APLICAÇÃO DO PRECEDENTE EXARADO PELO SUPREMO TRIBUNAL FEDERAL. TESE CONSTITUCIONAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, forem detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, o julgado prolatado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. ERRO MATERIAL. CORREÇÃO.
+I - O cabimento de Embargos de Declaração, consoante o disposto no art. 1.022 do Código de Processo Civil, é restrito às hipóteses de obscuridade, contradição ou omissão na decisão embargada, bem como para correção de erro material.
+II - Embargos de declaração acolhidos para corrigir erro material.
+(EDcl nos EDcl no AgInt no AREsp n. 2.496.225/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+(EDcl no AgInt no AREsp n. 2.358.586/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Na hipótese dos autos, a insurgente alega a existência de omissão no aresto proferido por esta Segunda Turma.
+Todavia, examinando o acórdão recorrido, verifica-se não haver vício passível de ser sanado por meio do julgamento dos embargos de declaração em análise, visto que ficou devidamente fundamentada a conclusão acerca da impossibilidade de conhecimento da tese defendida no recurso especial interposto pela recorrente, qual seja, a impossibilidade de o Tribunal de origem aplicar a modulação dos efeitos do Tema 69/STF, considerando a natureza constitucional do debate e a indevida usurpação da competência atribuída ao Supremo Tribunal Federal.
+Desse modo, constata-se que a irresignação nada mais é do que mero inconformismo da recorrente com o deslinde da controvérsia, não servindo os embargos de declaração como instrumento de reforma do julgado combatido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
