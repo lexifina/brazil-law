@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DA PARAÍBA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, que inadmitiu o recurso especial dirigido em oposição ao acórdão prolatado no julgamento da Apelação n. 0000487-79.2011.8.15.0231.
+A Corte a quo, por unanimidade de votos dos integrantes de sua Quarta Câmara Cível, negou provimento ao referido apelo, em acórdão cuja ementa é a seguir transcrita (fls. 89-90):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. RECOLHIMENTO ANTECIPADO DAS DILIGÊNCIAS DOS OFICIAIS DE JUSTIÇA. OBRIGAÇÃO DO ENTE ESTATAL. SÚMULA N.º 190 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE PAGAMENTO. CANCELAMENTO DA DISTRIBUIÇÃO. MANUTENÇÃO DA SENTENÇA DE EXTINÇÃO DO PROCESSO SEM APRECIAÇÃO DO MÉRITO. DESPROVIMENTO DO RECURSO.
+- As despesas processuais assumidas por terceiros, como aquelas destinadas à locomoção dos oficiais de justiça, não estão abrangidas pela isenção de que trata o artigo 39 da Lei n.º 6.830/1980, uma vez que esses terceiros são estranhos à relação jurídica travada em juízo, não sendo razoável onerá-los em lugar do ente fazendário, verdadeiro interessado na efetivação da diligência.
+- Nos termos da Súmula n.º 190 do STJ: "Na execução fiscal, processada perante a justiça estadual, cumpre a fazenda pública antecipar o numerário destinado ao custeio das despesas com o transporte dos oficiais de justiça".
+- Não sendo realizado o pagamento das despesas processuais no prazo assinalado, será cancelada a distribuição do feito e, consequente, extinção do processo sem resolução do mérito.
+Os embargos de declaração opostos ao aresto supra (fls. 119-124) foram rejeitados (fls. 134-143).
+Nas razões do recurso especial denegado (fls. 145-153), interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente sustentou violação dos seguintes dispositivos legais:
+(i) art. 1.022, inciso II, do CPC, por omissão do acórdão recorrido em não enfrentar questões relevantes para o julgamento, mesmo após a oposição de embargos de declaração;
+(ii) arts. 9º; 10; 290; e 321, todos do CPC, ao não reconhecer como necessária a intimação da Fazenda antes da extinção da execução; e
+(iii) arts. 37; 39; e 40, §§ 2º e 3º, da Lei n. 6.830/80, por não observar o procedimento de suspensão e arquivamento sem baixa do curso executivo.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+Em exame de prelibação, a Corte de origem não admitiu o recurso especial interposto (fls. 158-161), por considerar que:
+(i) a alegação de violação do art. 1.022, inciso II, do CPC/2015 não confere trânsito ao recurso, pois a intenção do recorrente é rediscutir o julgado desfavorável; e
+(ii) o acórdão impugnado harmoniza-se com a jurisprudência consolidada na Corte Superior, impedindo a remessa do apelo nobre à instância ad quem, ante o óbice da Súmula n. 83 do STJ.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgad o contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+Na espécie, a parte agravante cingiu-se a sustentar que "primeiro, quanto à aplicação da mencionada Súmula 83, esta não pode ser motivo de inadmissão do REsp, pois, como visto acima, estaria o Tribunal Local usurpando a competência deste STJ. Segundo, o Estado/Recorrente frisou que houve ofensa a diversos dispositivos legais,  ..  não se trata tão somente da questão das diligências dos oficiais de justiça" (fl. 172).
+Entretanto, tais argumentos não são suficientes para configurar impugnação concreta à Súmula n. 83 do STJ, a qual demanda a indicação de julgados contemporâneos ou posteriores àqueles mencionados na decisão agravada e que tenham sido proferidos em moldura fático-jurídica semelhante.
+Com efeito, " p ara impugnar corretamente a Súmula n. 83 do STJ, deve a parte demonstrar que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo em recurso especial" (AgInt no AREsp n. 2.595.695/MA, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/2/2025, DJEN de 24/2/2025; sem grifos no original).
+Essa circunstância é suficiente para justificar o não conhecimento do Agravo de fls. 1415-1445 em sua integralidade. É que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial, que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Nesse sentido, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe 30/11/2018.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nessa senda:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, este Superior Tribunal de Justiça possui entendimento no sentido de que: " a  Súmula 83 do STJ é de possível aplicação tanto pela alínea a quanto pela alínea c do permissivo constitucional" (AgInt no AREsp n. 1.900.711/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS: INEXISTÊNCIA DE OMISSÃO E INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA QUANTO AO SEGUNDO FUNDAMENTO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
