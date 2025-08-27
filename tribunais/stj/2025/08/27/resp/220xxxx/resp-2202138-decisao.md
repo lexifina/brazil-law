@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEX SANDRO ELIAS, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o recorrente foi condenado como incurso no artigo 33, § 4º, da Lei nº 11.343/2006, à pena de 4 (quatro) anos e 2 (dois) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 417 (quatrocentos e dezessete) dias-multa, no mínimo legal.
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por alegada violação ao art. 33, § 4º, da Lei nº 11.343/2006.
+A Vice-Presidência do Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal.
+O Tribunal de origem, mediante cotejo de fatos e de provas, afastou a pretensão defensiva de aplicação da fração máxima de diminuição atinente ao privilégio legal (fls. 467-368):
+"Ademais, não há como desprezar a quantidade e a natureza altamente deletéria das drogas (42,7g cocaína) que o apelante vendeu e mantinha em depósito na ocasião, a qual poderia ser individualizada em até 2135 (duas mil cento e trinta e cinco) porções. É o que se extrai da resposta ao Ofício 3/2013, expedido pela Terceira Câmara Criminal, em que a a Diretoria de Análises Laboratoriais Forenses apresentou estimativa da quantidade de droga para uma porção  ..  Assim, a natureza e a quantidade de entorpecentes, as declarações dos policiais militares e de usuário de drogas e a apreensão de montante em espécie revelam a dedicação de Alex Sandro Elias (vulgo "Cabeça") no tráfico de drogas, situação que impossibilitaria o reconhecimento da minorante prevista no § 4º do art. 33 da Lei n. 11.343/06. Entretanto, considerando que a supracitada causa de diminuição restou admitida e inexiste recurso do Ministério Público nesse particular, mantém-se inalterada a fração de diminuição de 1/6 (um sexto) aplicada pelo Magistrado a quo, em respeito ao princípio do non reformatio in pejus".
+Nesta linha de intelecção, entende esta Corte Superior que "a quantidade e a natureza das drogas podem ser utilizadas para modular a fração do tráfico privilegiado, desde que não tenham sido valoradas na primeira fase da dosimetria da pena, conforme entendimento consolidado pela Terceira Seção desta Corte" (AgRg no REsp 1977793 / SP, QUINTA TURMA, de minha relatoria, DJe 20/12/2024), como se verifica no caso em apreço.
+De rigor, portanto, invocar a Súmula nº 83 desta Corte Superior, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Isso porque o recorrente "não demonstrou a inaplicabilidade da Súmula n. 83 do STJ, pois não apresentou precedentes contemporâneos que evidenciassem a desarmonia do julgado com o entendimento jurisprudencial do STJ" (AREsp 2714789 / BA, QUINTA TURMA, de minha relatoria, DJEN 17/02/2025).
+De mais a mais, tenho que "a revisão da fração redutora demandaria reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial pela Súmula 7/STJ" (AREsp n. 2.235.197/MG, QUINTA TURMA, Rel. Ministra Daniela Teixeira, julgado em 26/11/2024, DJEN de 4/12/2024).
+Ante o exposto, não conheço do recurso especial, nos termos do art. 255, §4o, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
