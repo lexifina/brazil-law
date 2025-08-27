@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ e da ausência de comprovação do dissídio jurisprudencial (fls. 99-101).
+O acórdão recorrido encontra-se assim ementado (fl. 25):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE ATIVOS FINANCEIROS. Decisão de primeiro grau que deferiu pedido de reiteração automática de ordens de bloqueio de valores em nome da agravante (funcionalidade conhecida como "teimosinha"), além de pesquisa pelo sistema SNIPER. Inconformismo. TEIMOSINHA. Execução que segue o interesse do credor. Ferramenta desenvolvida para o Sistema SISBAJUD que prestigia o princípio da máxima efetividade da execução, sem violar direitos dos executados. Precedentes deste E. TJSP. PESQUISA JUNTO AO SNIPER. Possibilidade. Sistema de pesquisa implementado e regulamentado por este E. Tribunal de Justiça, conforme Comunicado conjunto nº 680/2022, da Presidência e da Corregedoria Geral da Justiça do TJSP. Precedentes desta C. Corte. PRINCÍPIO DA MÁXIMA EFETIVIDADE. A despeito do deferimento de penhora da metade ideal de imóvel, fato é que a baixa liquidez do ativo recomenda a continuidade dos atos executivos, sob pena de se prolongar, ainda mais, a injusta espera da parte exequente para a percepção de seus créditos. Crédito que, em virtude do tempo, já se aproxima dos R$ 400.000,00. Decisão mantida. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (fls. 46-61), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega dissídio jurisprudencial e violação dos arts. 797 e 805 do CPC/2015.
+Aponta ofensa ao princípio da menor onerosidade da execução, aduzindo que, "na busca pela satisfação da execução, o operador do direito, neste caso o juiz, deve sempre buscar em suas decisões, meios que não prejudiquem de forma excessiva o executado, mas que também não deixem de satisfazer, de forma material, o direito ferido do exequente" (fl. 56).
+Assevera que é "evidente a desnecessidade da realização de pesquisas através do sistema SNIPER e penhora de ativos financeiros na modalidade SISBAJUD em nome da Recorrente, uma vez que estas poderão acabar acarretando transtornos imensuráveis à sua atividade afrontando, portanto, o princípio da menor onerosidade ao devedor" (fl. 57).
+Acrescenta, ainda, que "a Exequente, ora Recorrida, não apresenta motivos suficientes para rastrear e localizar operações financeiras da Recorrente, nem mesmo indícios, para além da necessidade de encontrar patrimônio para saldar o crédito exequendo" (fl. 60).
+Ao final, requer o provimento do recurso para "o fim de reformar o v. acórdão, como medida de direito e justiça" (fl. 61).
+No agravo (fls. 105-119), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 122-127).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem concluiu que (fl. 31):
+Na presente demanda, a adoção de referidos mecanismos tem por escopo a satisfação de cumprimento de sentença, que, à data da propositura, em janeiro de 2020, já indicava valor de R$ 189.059,19. Hoje, o valor da dívida é de aproximados R$ 400.000,00, conforme se vê de fls. 247 da origem.
+O que se extrai, portanto, é que estado de inadimplência apenas se avoluma com o passar dos anos, sendo realmente necessária a adoção de medidas enérgicas para a concretização do título executivo.
+Finalmente, a despeito do deferimento de penhora da metade ideal de imóvel, fato é que a baixa liquidez do ativo recomenda a continuidade dos atos executivos, sob pena de se prolongar, ainda mais, a injusta espera da parte exequente para a percepção de seus créditos.
+Modificar o entendimento do acórdão impugnado quanto à necessidade de penhora pelo Sistema SISBAJUD, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
