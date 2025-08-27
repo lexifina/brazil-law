@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. VIOLAÇÃO DE DOMICÍLIO. NULIDADE. INOCORRÊNCIA. FUNDADAS RAZÕES. CRIME PERMANENTE. PROVA LÍCITA. DESCLASSIFICAÇÃO. ART. 28 DA LEI N. 11.343/2006. INVIABILIDADE. REEXAME DE FATOS E PROVAS. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Considerando a natureza permanente do delito em questão e a presença da justa causa para o ingresso dos agentes de polícia no imóvel, não há que se falar em ilegalidade na ação policial, tendo em vista que o contexto fático anterior à prisão demonstrava a existência de fortes indícios da prática do tráfico de entorpecentes.
+2. Existindo elementos indicativos externos da prática de crime permanente no local a autorizar o ingresso domiciliar, mostra-se desnecessário prévio mandado de busca e apreensão.
+3. A desclassificação do crime de tráfico de drogas para o de porte para consumo pessoal exige reanálise do conjunto fático-probatório, vedado nesta sede (Súmula n. 7 do STJ).
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em recurso especial interposto por JAQUELAINE DO PRADO FERREIRA contra decisão por mim proferida, no sentido de não conhecer do recurso especial.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 804-808, a saber:
+1. Trata-se de recurso especial interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, nos autos da Apelação Criminal n º 0043552-28.2023.8.16.0021.
+2. A recorrente foi condenada pela prática do crime de tráfico de drogas à pena de 07 (sete) anos, 05 (cinco) meses e 25 (vinte e cinco) dias de reclusão, em regime inicialmente fechado e 749 (setecentos e quarenta e nove) dias-multa, porque, no dia 10.09.2020, guardava, para fins de tráfico, 54g de maconha em quatro porções, além de um "kit cadeia" com aproximadamente 78g da droga e fumo (fls. 404/432).
+3. O Tribunal a quo deu parcial provimento ao apelo da defesa para reduzir a pena da recorrente para 06 (seis) anos e 05 (cinco) meses de reclusão, em regime fechado, e 642 (seiscentos e quarenta e dois) dia-multa, nos termos da seguinte ementa (fl. 643/657):  ..
+4. Os embargos de declaração foram rejeitados (fls. 697/699).
+5. A defesa interpôs o presente recurso especial, sob a alegação de negativa de vigência aos artigos 157 do Código de Processo Penal, Art. 28 § 2º c. c Art. 33 § 3º, da Lei 11.343/2006 (fls. 752/766).
+6. O recurso especial foi admitido pela Corte de origem (fls. 788/791).
+Ao final, o Parquet opinou pelo não conhecimento ou não provimento do recurso especial (e-STJ fl. 808).
+Na sequência, este Relator não conheceu do recurso especial (e-STJ fls. 811-814).
+Daí o presente agravo regimental, em que a agravante pugna pelo provimento do recurso especial interposto (e-STJ fls. 819-826).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. VIOLAÇÃO DE DOMICÍLIO. NULIDADE. INOCORRÊNCIA. FUNDADAS RAZÕES. CRIME PERMANENTE. PROVA LÍCITA. DESCLASSIFICAÇÃO. ART. 28 DA LEI N. 11.343/2006. INVIABILIDADE. REEXAME DE FATOS E PROVAS. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Considerando a natureza permanente do delito em questão e a presença da justa causa para o ingresso dos agentes de polícia no imóvel, não há que se falar em ilegalidade na ação policial, tendo em vista que o contexto fático anterior à prisão demonstrava a existência de fortes indícios da prática do tráfico de entorpecentes.
+2. Existindo elementos indicativos externos da prática de crime permanente no local a autorizar o ingresso domiciliar, mostra-se desnecessário prévio mandado de busca e apreensão.
+3. A desclassificação do crime de tráfico de drogas para o de porte para consumo pessoal exige reanálise do conjunto fático-probatório, vedado nesta sede (Súmula n. 7 do STJ).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar.
+Preliminarmente, é cabível registrar, quanto à decisão monocrática proferida, acerca das reiteradas manifestações desta Corte no sentido de que "não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental" (AgRg no RHC n. 147.556/MT, Ministra LAURITA VAZ, Sexta Turma, DJe 25/6/2021).
+Nesse sentido, confiram-se ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONCESSÃO DO WRIT POR DECISÃO MONOCRÁTICA DO RELATOR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADO. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO (ART. 12 DA LEI N. 10.826/2003). PEQUENA APREENSÃO DE MUNIÇÃO (3 MUNIÇÕES DO TIPO OGIVAL CALIBRE 12), DESACOMPANHADA DE ARMA DE FOGO. BEM JURÍDICO. INCOLUMIDADE PÚBLICA PRESERVADA. PERIGO NÃO CONSTATADO. INEXISTÊNCIA DE POTENCIALIDADE LESIVA. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE.
+1. A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante. III - Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral (AgRg no HC n 654.429/SP, Ministro Felix Fischer, Quinta Turma, DJe 7/6/2021).
+ ..
+4. Agravo regimental improvido
+(AgRg no HC 536.663/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada não descurou do princípio da colegialidade, visto que visualizou situação abarcada pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal (aplicável também ao recurso em habeas corpus, por força do art. 246 do RISTJ), que autoriza o Relator a decidir o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+ ..
+4. Agravo regimental não provido
+(AgRg no RHC 147.759/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+Avançando, não obstante os argumentos constantes do agravo regimental interposto, tenho que inexistem motivos para a reforma da decisão ora agravada.
+Conforme consignado naquela oportunidade, o Tribunal de origem entendeu, de forma motivada, que existem provas efetivas da participação da agravante no crime em questão e, especificamente sobre a alegada nulidade da busca domiciliar, manifestou-se nos termos seguintes (e-STJ fls. 647-648):
+A par disso, quanto à aventada violação de domicílio, fácil concluir, a partir das provas angariadas, que as defesas técnicas e os apenados visam, em razões de recurso, criar panorama violador de direitos e garantias constitucionais, o qual, em verdade, não restou comprovado.
+Isso porque, diferentemente do alegado pela defesa, não há que se falar em violação de direito fundamental (inviolabilidade do domicílio dos inculpados), pois, no caso vertente, em que pese inexistisse mandado judicial, e diferentemente do asseverado pela defesa técnica, estava-se diante de hipótese de flagrante delito, o que autoriza o referido ingresso, consoante se extrai do disposto nos artigos 244, 301 e 303, todos do CPP.
+Nesse sentido, ninguém desconhece que o crime de tráfico de drogas, na modalidade "ter em depósito", é delito permanente, em que o estado de flagrância se prolonga no tempo (TJPR - Quarta Câmara Criminal - Apelação Crime nº 0000168-36.2020.8.16.0048 - Rel. Desembargador DOMINGOS THADEU RIBEIRO DA FONSECA - Julg. 18/01/2021 ), sendo certo que, consoante se extrai da dinâmica da abordagem policial efetivada pelos agentes públicos , havia fundada suspeita (STJ - Sexta Turma - Agravo Regimental no Habeas Corpus nº 597923/SP - Rel. Ministro NEFI CORDEIRO - Julg. 20/20/2020) de que, de fato, no interior da casa do réu Matheus estava sendo perpetrado o delito do art. 33, caput, da Lei nº 11.343 /2006, em virtude da análise concomitante de diversos elementos, quais sejam, (i) visualização de um indivíduo, já conhecido do meio policial pela prática de crimes patrimoniais, na porta de uma residência, o qual, ao perceber a presença da equipe policial empreendeu fuga, vindo, inclusive, a pular muros, (ii) verificação de que referido indivíduo deixou a porta do imóvel aberta , imóvel este que não possuía muros e tinha 2  acesso direto à via pública; (iii) ida dos policiais até a porta e constatação de que havia entorpecente disposto na sala e (iv) visualização de que na casa estava a inculpada Jaquelaine já bastante 3  conhecida no meio policial, inclusive pelo tráfico de drogas. - destaquei.
+Observa-se que, in casu, as instâncias ordinárias concluíram pela licitude das provas, destacando que a abordagem policial foi realizada após a visualização de um indivíduo, conhecido do meio policial, na porta da residência, que correu ao perceber a guarnição e deixou a porta do imóvel aberta, de onde os policiais puderam ver os entorpecentes.
+Constata-se, portanto, que a diligência policial não foi arbitrária, mas decorreu de coleta progressiva de elementos que levaram, de forma válida, à conclusão segura de ocorrência de crime permanente.
+Conforme já consignado na decisão agravada, o Tribunal de origem entendeu que a ação policial estava amparada em fundadas razões, devidamente justificadas a posteriori, indicativas de que naquele local ocorria situação de flagrante
+Em relação ao pedido de desclassificação da conduta delitiva, o Tribunal de origem, a quem cabe a análise das questões fático-probatórias dos autos, reconheceu, de forma fundamentada, a existência de elementos de prova suficientes para embasar o decreto condenatório pela prática do crime mais grave.
+A análise da pretensão trazida pela recorrente (sob o argumento de que não foi apresentada fundamentação idônea para a condenação pelo referido tipo penal) igualmente reclamaria reavaliação de todo o conjunto fático e probatório, providência inadmissível nesta via.
+Ademais, conforme consignado na decisão agravada, a eventual condição de usuária não é obstáculo ao reconhecimento da figura criminosa de maior gravidade, notadamente porque tais pessoas corriqueiramente comercializam drogas para a manutenção do vício.
+Para infirmar o que restou decidido pelo Tribunal de origem, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+É cediço que "o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal" (AgRg no AREsp n. 2.409.008/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024).
+Nesse contexto, a decisão agravada deve ser mantida, uma vez que permanece a validade dos fundamentos que a sustentam e não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
