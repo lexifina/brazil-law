@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CHARLES GOMES DE BARROS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, no âmbito da Revisão Criminal n. 0803038-82.2025.8.02.0000.
+Sustentam os impetrantes que acórdão que julgou parcialmente procedente a ação revisional, deixando, contudo, de aplicar a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, bem como de reconhecer a atipicidade da conduta quanto ao porte ilegal de arma de fogo, incide em grave erro.
+Alegam que a fixação da pena-base para o crime de tráfico de drogas ocorreu com fundamento em elementos genéricos ou inidôneos, e que a pena aplicada para o delito de porte ilegal de arma foi fixada no máximo legal sem fundamentação concreta.
+Argumentam que o paciente preenche os requisitos para o reconhecimento do tráfico privilegiado e que a arma foi encontrada em sua residência, o que afastaria a tipificação de porte (fls. 2/23).
+O acórdão impugnado manteve condenação e a pena-base do tráfico de drogas em 10 anos, ressaltando a gravidade concreta da conduta, a expressiva quantidade e variedade de drogas apreendidas, o emprego de arma de fogo e indícios veementes de reiteração delitiva.
+Afastou a aplicação do tráfico privilegiado, diante de provas de que o paciente exercia papel de liderança no tráfico local e indicando que o paciente foi preso em cumprimento de mandado de prisão temporária, além de possuir outras condenações por crimes da mesma natureza em outra unidade da federação.
+Indeferiu a desclassificação do porte para posse, justificando estar comprovado que o paciente empunhava a arma fora da residência.
+Apenas redimensionou a pena pelo crime de porte ilegal de arma, reduzindo-a de 4 anos para 2 anos e 6 meses de reclusão, diante da ausência de fundamentação idônea para a fixação no máximo legal (fls. 24/35).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ, por se tratar de habeas corpus substitutivo de recurso próprio, ressaltando que a revisão criminal é via excepcional e exige demonstração inequívoca de contrariedade ao texto legal ou às provas dos autos, cabendo ao requerente fornecer os elementos indispensáveis à comprovação dos fatos alegados.
+É o relatório. DECIDO.
+Inicialmente, cumpre registrar que, em consonância com a orientação consolidada do Supremo Tribunal Federal e deste Superior Tribunal de Justiça, o habeas corpus não deve ser utilizado como substitutivo de recurso próprio, ressalvada a possibilidade de concessão da ordem de ofício apenas nos casos de flagrante ilegalidade, abuso de poder ou teratologia, o que não se verifica na hipótese.
+No caso concreto, o acórdão impugnado examinou detidamente todas as alegações defensivas, mantendo a pena-base do crime de tráfico de drogas acima do mínimo legal com fundamento em elementos concretos extraídos dos autos  gravidade da conduta, elevada quantidade e variedade de entorpecentes, emprego de arma de fogo e indicativos veementes de reiteração delitiva.
+Além disso, afastou o reconhecimento do tráfico privilegiado com base em provas do papel de liderança do paciente na atividade criminosa e na existência de outras condenações pela mesma espécie delitiva.
+Quanto ao crime de porte ilegal de arma de fogo, a Corte estadual registrou prova segura de que o artefato foi portado e empunhado fora da residência, em contexto de tentativa de reação à abordagem policial, afastando a tese de desclassificação para posse (fls. 31/36).
+Não se identifica, na decisão impugnada, qualquer mácula que revele teratologia ou ilegalidade manifesta.
+Com efeito, a peça inaugural limita-se a reiterar teses já exaustivamente apreciadas e devidamente afastadas pela instância precedente, cuja fundamentação se mostra sólida, coerente e alinhada à jurisprudência consolidada desta Corte e do Supremo Tribunal Federal.
+Ademais, tratando-se de matéria apreciada em revisão criminal, impõe-se lembrar que tal ação constitui via restrita, cabível apenas nas hipóteses taxativamente previstas no art. 621 do Código de Processo Penal, e que o ônus da prova acerca de circunstâncias aptas a desconstituir a coisa julgada recai integralmente sobre o requerente, que deve instruir o pedido com elementos objetivos e suficientes para comprovar as alegações.
+Veja-se: "o cabimento da revisão criminal ocorre em situações excepcionais, não se prestando a servir como uma segunda apelação, sob pena de relativizar sobremaneira a garantia da coisa julgada e da segurança jurídica" (AgRg no AREsp n. 1846669/SP, rel. Ministro Felix Fischer, Quinta Turma, julgado em 1º/6/2021, DJe 7/6/2021).
+No presente caso, não se trouxe aos autos qualquer prova nova ou documento apto a infirmar as conclusões adotadas pelo Tribunal estadual.
+Dessa forma, ausente ilegalidade flagrante, não há falar em concessão da ordem.
+Ante o exposto, não conheço d o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
