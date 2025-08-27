@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRECATÓRIO. ATUALIZAÇÃO DE VALOR RESIDUAL. RESOLUÇÃO N. 303/2019 CNJ. PORTARIA N. 1.894/2023 DO TJTO. PAGAMENTO EFETUADO. ALEGADA OMISSÃO. OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: mandado de segurança impetrado pelo ora Agravado contra ato apontado ilegal atribuído à Desembargadora Presidente do Tribunal de Justiça do Estado do Tocantins, pleiteando a expedição de precatório complementar, ante a ocorrência de erro e inexatidão material nos cálculos.
+2. O Tribunal de origem denegou a segurança, sob o fundamento de ausência de erro material, inexatidão aritmética ou necessidade de substituição de índices de atualização dos cálculos.
+3. Nesta Corte, decisão que deu provimento ao recurso ordinário em mandado de segurança.
+4. Hipótese de reconhecimento de vício no julgado pois , embora o Tribunal de origem tenha se manifestado sobre a atualização do crédito entre a data da expedição do precatório e o pagamento, não supriu as demais omissões apontadas ao não apreciar o laudo pericial no tocante aos erros materiais alegados, inclusive quanto à competência dos cálculos e à aplicação dos índices de correção monetária e juros (matéria de ordem pública); e ao não se pronunciar sobre o pedido de reunião dos processos.
+5. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO TOCANTINS contra decisão monocrática de minha relatoria que deu provimento ao recurso ordinário em mandado de segurança (fls. 624-627).
+Nas razões recursais, a parte agravante defende a reforma da decisão ora impugnada, pelos seguintes argumentos (fls. 633-644):
+Ao contrário do que restou sustentado na decisão ora agravada, o acordão proferido pela Corte de origem (fls. 552-553, e-STJ), não padece de vício do julgamento, pois denegou a segurança por ausência do alegado direito líquido e certo e, corretamente, rejeitou os embargos de declaração ao constatar que não havia omissão, contradição e obscuridade a serem sanadas no decisum.
+Da leitura do aludido acórdão, constata-se que, ao rejeitar os embargos de declaração opostos pela impetrante, o Tribunal Pleno concluiu que a embargante pretendia, na verdade, a rediscussão da matéria, já julgada de maneira inequívoca e sem os vícios apontados nos aclaratórios, desejo, todavia, que não está em harmonia com a natureza e a função dos embargos declaratórios.
+É nítida a pretensão do insurgente de que sejam revistos os cálculos da contadoria relativos ao precatório expedido em seu favor, contudo, consoante exaustivamente frisado pela Corte de piso, a atualização dos valores prevista em lei e nos regulamentos pertinentes foi realizada, não havendo mais que se falar em alteração do montante que lhe é devido.
+Admitir a procedência da pretensão da impetrante, ora agravada, configura concordar que a atualização do precatório se dê diariamente, em dissonância com a Resolução 482/CNJ.
+Apresentada contraminuta (fls. 649-657).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRECATÓRIO. ATUALIZAÇÃO DE VALOR RESIDUAL. RESOLUÇÃO N. 303/2019 CNJ. PORTARIA N. 1.894/2023 DO TJTO. PAGAMENTO EFETUADO. ALEGADA OMISSÃO. OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: mandado de segurança impetrado pelo ora Agravado contra ato apontado ilegal atribuído à Desembargadora Presidente do Tribunal de Justiça do Estado do Tocantins, pleiteando a expedição de precatório complementar, ante a ocorrência de erro e inexatidão material nos cálculos.
+2. O Tribunal de origem denegou a segurança, sob o fundamento de ausência de erro material, inexatidão aritmética ou necessidade de substituição de índices de atualização dos cálculos.
+3. Nesta Corte, decisão que deu provimento ao recurso ordinário em mandado de segurança.
+4. Hipótese de reconhecimento de vício no julgado pois , embora o Tribunal de origem tenha se manifestado sobre a atualização do crédito entre a data da expedição do precatório e o pagamento, não supriu as demais omissões apontadas ao não apreciar o laudo pericial no tocante aos erros materiais alegados, inclusive quanto à competência dos cálculos e à aplicação dos índices de correção monetária e juros (matéria de ordem pública); e ao não se pronunciar sobre o pedido de reunião dos processos.
+5. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+6. Agravo interno desprovido.
+VOTO
+Não obstante os combativos argumentos da p arte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão impugnada, que merece ser mantida.
+Na origem, trata-se de mandado de segurança impetrado por HAMILTON JOSÉ DIAS contra ato apontado ilegal atribuído à Desembargadora Presidente do Tribunal de Justiça do Estado do Tocantins, pleiteando a expedição de precatório complementar, ante a ocorrência de erro e inexatidão material nos cálculos.
+Inicialmente, alegam os Agravantes que " ..  Ao contrário do que restou sustentado na decisão ora agravada, o acordão proferido pela Corte de origem (fls. 552-553, e-STJ), não padece de vício do julgamento, pois denegou a segurança por ausência do alegado direito líquido e certo e, corretamente, rejeitou os embargos de declaração ao constatar que não havia omissão, contradição e obscuridade a serem sanadas no decisum" (fl. 636).
+O Tribunal de origem denegou a segurança, sob o fundamento de ausência de erro material, inexatidão aritmética ou necessidade de substituição de índices de atualização dos cálculos, ao decidir que:
+Com efeito, não desconheço a possibilidade da expedição de precatório complementar, todavia, esta deve se limitar aos casos de erro material, inexatidão aritmética ou substituição de índices de atualização, o que não reflete o disposto nos presentes autos. Precedentes STF: ADI 1.098/SP.
+Em detida análise, vejo que a expedição do precatório se deu em 25/8/2023 e a atualização do cálculo em 23/06/2023, ou seja, no segundo mês subsequente, sem nenhuma paralisação, conforme se observa nos autos do Precatório nº 0006352- 97.2020.8.27.2700.
+Outrossim, o cálculo juntado em era o atualizado do dia 23/06/2023 (referente ao mês de junho e ainda válido até o quinto dia útil do mês seguinte), já que a taxa SELIC é aplicada mensalmente, não tendo que se falar em valores pró rata.
+Logo, não há que se falar em diferenças nos valores do precatório expedido em nome do Impetrante, uma vez que o levantamento ocorreu num prazo razoável, proporcional aos trâmites legais e burocráticos que permeiam a expedição e o adimplemento do precatório.
+Por oportuno, esclareço que a questão já foi analisada pelo Conselho Nacional de Justiça - CNJ, que, no pedido de providências nº 0004240- 95.2019.2.00.0000, instaurado pela Ordem dos Advogados do Brasil solicitando aos Presidentes dos Tribunais de Justiça que promovessem a regular e tempestiva liquidação dos precatórios aos seus credores, estabeleceu o seguinte:
+ ..
+A título de ilustração, destaco a RESOLUÇÃO CSJT Nº 314/2021, que também dispõe sobre precatórios, no âmbito da Justiça do Trabalho, a qual considerou como razoável o prazo máximo 60 (sessenta) dias a contar da data em que não haja nenhum impedimento para a realização do pagamento, ou seja, após o último prazo para impugnação, que no presente caso se deu em 18/08/2023 (com a ciência expressa do Estado) e o alvará foi expedido em 25/08/2023.
+ ..
+Ao final, pondero que eventual concessão da ordem impetrada acarretaria numa atualização infinita dos cálculos, eternizando o precatório, uma vez que a cada pagamento seria necessária nova atualização, não sendo possível efetuar o depósito na mesma data em que os cálculos são atualizados, em razão da participação obrigatória das partes, servidores, magistrado e instituição financeira.
+À cabo dessas considerações e não tendo o Impetrante comprovado o seu direito líquido e certo, por meio de prova pré-constituída, é de ser denegada a ordem.
+Por todo o exposto, voto no sentido de conhecer da presente ação mandamental e DENEGAR A SEGURANÇA. (fls. 461-463).
+O Tribunal de origem rejeitou os embargos de declaração ao concluir que o embargante não logrou " ..  êxito em demonstrar a presença de um dos vícios previstos no art. 1.022 do CPC" (fl. 546).
+Conforme disposto na decisão agravada, embora o Tribunal de origem tenha se manifestado sobre a atualização do crédito entre a data da expedição do precatório e o pagamento, não supriu as demais omissões apontadas ao não apreciar o laudo pericial no tocante aos erros materiais alegados, inclusive quanto à competência dos cálculos e à aplicação dos índices de correção monetária e juros (matéria de ordem pública); e ao não se pronunciar sobre o pedido de reunião dos processos.
+Salienta-se que, ainda que o órgão julgador não esteja obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, é certo que devem ser analisados aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+In casu, os pontos suscitados são relevantes para a resolução da controvérsia, pois, na eventualidade de serem acolhidos, podem modificar a conclusão do julgamento. Nesse contexto, diante das omissões supraindicadas, impõe-se a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos. Prejudicados os demais temas.
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
