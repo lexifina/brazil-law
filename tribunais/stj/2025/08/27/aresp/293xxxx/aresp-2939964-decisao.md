@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo interposto por PHILIPS MEDICAL SYSTEMS LTDA., contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, e desafia acórdão assim ementado (e-STJ fl. 1.075):
+APELAÇÃO CÍVEL. LICITAÇÕES E CONTRATOS ADMINISTRATIVOS. PREGÃO PRESENCIAL. AQUISIÇÃO DE EQUIPAMENTO MÉDICO-HOSPITALAR. TOMÓGRAFO COMPUTADORIZADO. ESPECIFICAÇÃO TÉCNICA. OBSERVÂNCIA. AUSÊNCIA DE NULIDADE. MANUTENÇÃO DA SENTENÇA.
+- Residindo a controvérsia na correta interpretação do fator de potência indicado em manual de equipamento eletrônico de alta complexidade, deve prevalecer a conclusão do laudo pericial produzido na seara administrativa, na medida em que não foi promovida prova técnica judicial apta a infi rmar aquele laudo, ônus que incumbia à parte autora, nos termos do art. 373, inc. I, do CPC.
+- Caso em que a informação contida no manual do equipamento, o qual está devidamente registrado na ANVISA, refere-se à potência máxima nominal, que é a potência solicitada para a aquisição das imagens, e não à potência de saída do gerador, que é aquela exigida no edital.
+APELAÇÃO CÍVEL DESPROVIDA.
+Embargos de declaração rejeitados (e-STJ fls. 1.152/1.155).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação dos arts. 12 e 13 da Lei n. 6.360/1976, art. 10, IV e XVI, da Lei n. 6.437/1977, 273, § 1º e § 1º-B, I, do CP e 85 do CPC, argumentando, em síntese, que "a ANVISA, autoridade reguladora sanitária, confirmou por meio de ofícios e depoimentos oficiais que a potência do equipamento registrado (36kW) divergia da potência ofertada no momento da licitação (40kW), caracterizando uma violação normativa" (e-STJ fl. 1.186) e que qualquer alegação técnica proveniente de profissionais do hospital, sem a devida base normativa e regulatória, carece de validade e de legitimidade para contradizer dados oficiais fornecidos pela agência reguladora competente.
+Sustenta, ainda, que a verba honorária foi fixada em valor exorbitante, devendo ser minorada e arbitrada por equidade.
+Contrarrazões às e-STJ fls. 1.216/1.251 e 1.253/1.264.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 1.268/1.272).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fls. 1.282/1.311), é o caso de examinar o recurso especial.
+Cuida-se, na origem, de ação ordinária ajuizada pela ora recorrente visando a declaração de nulidade do ato administrativo de adjudicação do objeto licitado em pregão presencial (tomógrafo computadorizado), ao argumento de que o equipamento oferecido pela empresa vencedora não possui as características exigidas no edital, tampouco observa as regras estabelecidas pela ANVISA.
+Julgada improcedente a ação, a recorrente interpôs apelação, assim decidida pelo Tribunal de origem (e-STJ fls. 1.078/1.079):
+À reforma da sentença, nos termos do relatório, argumenta que, consoante a prova judicial produzida, o equipamento tem saída nominal de 36KW, sendo a sua utilização proibida pela ANVISA.
+A discussão é eminentemente probatória, sendo caso de manutenção da sentença, motivo pelo qual, a teor do art. 282, §2º, do CPC, em atenção ao princípio da primazia da resolução do mérito, deixo de analisar a preliminar processual de perda de objeto da ação suscitada em contrarrazões.
+A matéria a ser enfrentada foi objeto de análise quando do julgamento do objeto do Agravo de Instrumento 70064193915, de minha relatoria, devendo ser destacado que a situação fática não sofreu alteração desde então, na medida em que, neste julgamento, validou-se a prova produzida na seara administrativa, igualmente na sentença, não sendo a indigitada prova infirmada pela prova judicial produzida pela parte autora, ônus que lhe incumbia, nos termos do art. 373, inc. I, do CPC.
+Segundo a apelante, o manual do tomógrafo computadorizado Toshiba, registrado na ANVISA, contém a seguinte informação:
+(5) De acordo com o modo operação:
+- operação contínua - Adequado para conexão contínua de alimentação de energia elétrica no estado de espera e para cargas especificadas, em uma tensão máxima nominal de 36 KW.
+Por outro lado, conforme o parecer técnico que embasou a decisão que indeferiu o recurso administrativo (evento 3, PROCJUDIC4), a informação contida no manual do equipamento, o qual está devidamente registrado na ANVISA, refere-se à potência máxima nominal, que é a potência solicitada para a aquisição das imagens, e não à potência de saída do gerador, que é de 42 kW, de acordo com documentos apresentados pela licitante (evento 3, PROCJUDIC4). Os técnicos ressaltaram, ainda, que a exigência do edital refere-se à potência de saída, e não à nominal.
+Como se observa, reside a controvérsia na correta interpretação do fator de potência indicado em manual de equipamento eletrônico de alta complexidade, devendo prevalecer o entendimento adotado na decisão administrativa, pois é o único substrato técnico probatório constante dos autos, o qual, como dito acima, deveria ter sido infirmado pela parte autora mediante produção de laudo técnico, todavia, nada veio aos autos nesse sentido.
+O memorando elaborado pela ANVISA (evento 3, PROCJUDIC3), trazido pela parte autora, não altera essa conclusão, pois fala em potência nominal; assim, não pode ser utilizado como parâmetro. Tão pouco a jurisprudência no Tribunal de Justiça do Paraná referida pela autora, a qual não aborda a potência de saída, sendo forçoso consignar ainda, que eventual desregulagem daquele aparelho poderia implicar em conclusão errônea. É dizer: a potência de saída correta somente poderia ser infirmada mediante laudo pericial do equipamento objeto desta ação.
+Por oportuno, colaciono os termos da sentença, de lavra do em. Juíza de Direito Miroslava do Carmo Mendonça, a qual apreciou a prova produzida adequadamente:
+O Pregão Presencial n.º 024/2014, Processo Administrativo n.º 1206/2014, promovido pela Fundação requerida, objetivava a aquisição de aparelhos tomógrafo computadorizado a equipamento de endoscopia, destinada ao Hospital ABOSCO, sendo processado pelo tipo menor preço. conforme regem as Leis n.º 10.520/2002 e 8.666/93. Com relação ao primeiro item, cerne da controvérsia da demanda, o edital (fls. 44/79) assim fez previsão quanto às características do bem:
+"TOMÓGRAFO COMPUTADORIZADA HELICOIDAL MULTISLICE DE 16 CANAIS Características Mínimas:
+Gantri:
+Deve possuir abertura mínima de gantry: 70 cm;
+A faixa de angulação mínima:  /- 30º;
+O tempo de corte total (360º): 0,75 segundos ou menor:
+A capacidade para aquisição helical deve ser contínua e sem interrupção: mínima 100 segundos;
+Capacidade de estudos helicoidais com gantry angulado;
+Conjunto Tubo e Gerador:
+Potência do gerador de no mínimo: 40KW:
+Faixa de corrente do tubo: 10 a 300 mA;
+Faixa mínima de KV de tubo: 80 a 130 KV;
+Capacidade térmica do anodo de no mínimo 4.0 MHU; Capacidade de resfriamento do tubo de no mínimo 860 KHU/min.;
+Comprimento volumétrico: mínimo 180 cm livre de metais;
+ .. ." (Grifei).
+Cumpre destacar que o procedimento administrativo sujeita-se ao princípio da vinculação ao instrumento convocatório, corolário lógico do princípio da legalidade que norteia a Administração Pública. Isso significa dizer que todas as decisões tomadas no âmbito da licitação devem ocorrer amparadas e em conformidade com o edital que a instrui, afim de preservar os interessados de eventual discricionariedade do Poder Público.
+Posto isso, verifica-se que a proposta da requerida CANON MEDICAL SYSTEMS DO BRASIL LTDA. consistiu no equipamento de tomógrafo computadorizado identificado pelo modelo "Alexion Advance Edition TSX-034A", registrado perante a ANVISA sob o n.º 80047300169 ( s. 228/243). Nesse sentido, importa consignar que a demandada sagrou-se vencedora do certame, tendo oferecido a menor proposta, no montante de R$ 810.000,00 (oitocentos e dez mil reais), ao passo que a requerente atingiu tão somente o lance de R$ 819.000,00 (oitocentos e dezenove mil reais), conforme consta na Ata n.º 14 do Pregão (fls. 245/248).
+Naquela oportunidade, empresa requerente já apresentou suas irresignações quanto à capacidade do gerador do tomógrafo oferecido pela vencedora, apontando que o equipamento não possui registro para a capacidade informada.
+Inobstante, o Hospital ABOSCO emitiu parecer técnico aferindo que a potência do gerador era de 42KW, estando de acordo com a exigência do edital (fl. 250).
+Por tal razão, a Comissão de Licitação rejeitou o recurso administrativo da ora autora, conforme consta na Ata n.º 25/14 (fl. 257), acolhendo o parecer técnico realizado pelo Hospital beneficiado com o equipamento.
+Ademais, verifica-se que a parte autora não logrou êxito em demonstrar a ocorrência de qualquer causa de nulidade do certame em questão. Tal ônus era de sua incumbência, por força do artigo 373, I, do CPC, ao qual atribui ao autor da ação a demonstração dos elementos constitutivos de seu direito.
+Veja-se que, não apenas o parecer técnico realizado administrativamente pelo Hospital ABOSCO, nos autos do procedimento do Pregão, indica que a potência do gerador do equipamento supera ao valor mínimo previsto no edital, mas também o Manual de Operação do tomógrafo apresentado pela ANVISA. O documento apresentado pela Agência em resposta ao Ofício (fls. 591/592), disponível para consulta em seu sítio eletrônico, indica que o modelo em questão possui gerador com potência de 42KW.
+A parte autora confunde as características do bem, apontando que o tomógrafo possui potência máxima nominal de 36KW. No entanto, esta qualidade não foi objeto de previsão editalícia e não se confunde com a capacidade do gerador do equipamento.
+(..)
+Por isso, não há incompatibilidade do produto oferecido com as informações divulgadas pelo edital. Outrossim, as decisões da Comissão de Licitação, acerca da homologação da requerida como vencedora do certame e de indeferimento do recurso administrativo da autora, não se revelam ilegais ou sujeitas à anulação, pois proferidas em conformidade com o instrumento do Pregão.
+Assim, a conclusão é que foram observados os requisitos técnicos exigidos no instrumento licitatório, ausente qualquer ilegalidade que implica em nulidade do ato administrativo que promoveu a adjudicação do objeto contratado.
+Nesse cenário, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração, mas do reexame dos elementos de convicção postos no processos e de nova interpretação do edital de licitação, providências sabidamente incompatíveis com a via estreita do apelo nobre, em face do teor das Súmulas 5 e 7 desta Corte, respectivamente.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. LICITAÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. EMPREITADA POR PREÇO GLOBAL. SERVIÇOS E QUANTITATIVOS NAO PREVISTOS NO EDITAL. MANUTENÇÃO DO EQUÍLIBRIO ECONOMICO-FINANCEIRO. REVOLVIMENTO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+ ..
+3. A controvérsia suscitada foi analisada pela Corte local essencialmente com base no conjunto fático e probatório constante dos autos, e também na interpretação de cláusulas constantes no instrumento convocatório e no contrato administrativo firmado entre a pessoa jurídica e o ente público.
+4. Desse modo, verificar o cumprimento ou não do contrato e sua dimensão demanda o exame das cláusulas contratuais e do contexto fático-probatório, o que é impossível, na via recursal especial, ante o óbice das Súmulas 5 e 7 do STJ.
+5. Recurso Especial não conhecido
+(REsp n. 1.770.439/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 04/12/2018, DJe 04/02/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LICITAÇÃO. PREGÃO ELETRÔNICO. ALEGADA OFENSA AOS ARTS. 3º E 48, I, DA LEI 8.666/93. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PROCEDIMENTO LICITATÓRIO. OBSERVÂNCIA, PELA ADMINISTRAÇÃO, DAS REGRAS DO EDITAL. REEXAME. IMPOSSIBILIDADE. SÚMULAS 7 E 5/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III. Tendo o Tribunal de origem, à luz da prova dos autos, decidido que, no caso, a Administração Pública observou, estritamente, as regras do ato convocatório da licitação, rever o entendimento demandaria o reexame de matéria fática e do edital que regulou a contratação pública, atraindo os óbices das Súmulas 7 e 5 do STJ, respectivamente.
+IV. Agravo Regimental improvido.
+(AgRg no REsp n. 1.378.697/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 1/3/2016, DJe de 14/3/2016.)
+Em relação à verba honorária, o acórdão recorrido assentou a seguinte fundamentação (e-STJ fl. 1.080):
+Por conseguinte, ao cabo, deve ser mantido o percentual fixado a título de honorários advocatícios, pois arbitrado de acordo com o Tema 1076 do STJ, devidamente observados os parâmetros do art. 85 §2º, do CPC, em especial, a natureza e importância da causa (prova de complexa produção) e o tempo exigido para o ser serviço (a ação foi ajuizada no ano de 2014). Portanto, adequado o percentual de 20% sobre o valor da causa (R$ 810.000,00).
+A parte não infirmou o fundamento adotado pela Corte local, tendo se limitado a defender a fixação da verba honorária por equidade, ao argumento de que o montante arbitrado na origem mostra-se exorbitante. Essa circunstância atrai a incidência da Súmula 283 do STF.
+Por fim, convém registrar: "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
