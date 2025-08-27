@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, para impugnar acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos, em síntese, que a defesa do recorrido interpôs agravo em execução, cuja preliminar foi acolhida pelo Tribunal de Justiça de origem para declarar nulo o Procedimento Administrativo Disciplinar instaurado, por ausência de defesa técnica.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, o recorrente alega violação aos arts. 3º, 315, §2º, VI, do Código de Processo Penal; ao art. 50, VII, da Lei 7.210/84, bem como ao artigo 489, §1º, VI, do Código de Processo Civil.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+É o relatório. DECIDO.
+Nos termos da Súmula n. 533 do Superior Tribunal de Justiça, para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.
+Registre-se que, apesar de a defesa técnica ter sido exercida por analista técnico-jurídico no procedimento administrativo , o apenado foi assistido, na audiência de justificação, pela Defensoria Pública, prestigiando-se o contraditório e a ampla defesa, como consectários do devido processo legal (fls. 142-145).
+Logo, ao declarar a nulidade do Procedimento Administrativo Disciplinar e, por conseguinte, da decisão que reconheceu a prática de falta grave, diante da ausência de defesa técnica, o acórdão recorrido destoa do entendimento da Corte, merecendo reforma.
+Com efeito, a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), não sendo o caso de se anular a decisão proferida pelo juízo de primeira instância.
+A propósito, o Superior Tribunal de Justiça já decidiu que "o Supremo Tribunal Federal, no julgamento do RE n. 972598, fixou a tese de que a oitiva do condenado pelo Juízo da execução penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio procedimento administrativo disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena" (AgRg no AgRg no HC n. 657.509/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 15/12/2021).
+Consoante assentado no precedente vinculante do Supremo Tribunal Federal (Tema 941), "o procedimento judicial conta com mais e maiores garantias que o procedimento administrativo. Esta a razão pela qual a decisão administrativa sempre pode ser revista judicialmente, prevalecendo, sempre, a decisão judicial sobre a administrativa".
+Ante o exposto, dou provimento ao recurso especial para restabelecer o reconhecimento da falta grave.
+Publique-se. Intimem-se.
+EMENTA
