@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE SÃO PAULO, contra a decisão, de e-STJ fls. 241/244, na qual não conheci do agravo em recurso especial porque não impugnados todos os fundamentos da decisão agravada.
+Nas razões deste recurso (e-STJ fls. 250/254), a parte agravante sustenta: "Quanto à negativa em relação à "Súmula 7 do STJ", houve específica e fundamentada impugnação em tópico próprio, tratando das razões para reforma da decisão de inadmissibilidade, diante evidente desnecessidade de reexame da matéria fática ou probatória, sendo suficiente a moldura fática delineada no acórdão estadual" (e-STJ fl. 251). Ao final, requer a reconsideração da decisão agravada ou, caso contrário, o provimento do recurso pelo colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 258/265).
+Exerço o juízo de retratação.
+Inicialmente, compulsando atentamente os autos, verifica-se que a parte agravante sustentou o afastamento do óbice previsto na Súmula 7 do STJ de forma fundamentada e suficiente, razão pela qual deve ser reconsiderada a decisão agravada.
+Passo, doravante, a novo exame do recurso.
+Trata-se de agravo interposto pelo ESTADO DE SÃO PAULO, contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 136):
+MANDADO DE SEGURANÇA - ITCMD - Pretensão ao recolhimento do imposto de acordo com o valor venal lançado pela Municipalidade para a cobrança do IPTU - Possibilidade - Decreto nº 55.002/2009 que, sob o auspício de regulamentar a Lei Estadual nº 10.705/2000, acaba majorando, por via inadequada, o tributo - Ofensa ao artigo 150, inciso I, da CF, e aos artigos 97 e 99 do CTN - Revisão da base de cálculo, por meio de processo administrativo de arbitramento - Impossibilidade - Medida que excede os estreitos limites do mandado de segurança - Precedentes - Por se tratar de matéria de ordem pública, possível a exclusão da possibilidade de arbitramento - R. Sentença mantida.
+Recurso oficial improvido, com observação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 158/164).
+No recurso especial (e-STJ fls. 169/190), o recorrente aponta dissídio jurisprudencial e violação dos arts. 2º, 10º, 141º, e 492º do CPC, e à ratio decidendi da Súmula 45 do STJ. Alega que, ao conceder vantagem não postulada na origem, o acórdão recorrido afronta o princípio da congruência e a vedação de reformatio in pejus.
+Indica, também, divergência e ofensa aos arts. 38, 97, IV, 142 e 148 do CTN. Em síntese, sustenta que a base de cálculo do ITCMD é o valor venal do imóvel, o qual não necessariamente se verifica naquele fixado para fins de IPTU, o que autoriza arbitramento quando constatada incompatibilidade entre o montante declarado pelo sujeito passivo e o valor de mercado do bem.
+As contrarrazões não foram oferecidas.
+O recurso especial não foi admitido (art. 1.030, V do CPC/2015) em razão da insuficiência da argumentação para infirmar as conclusões do acórdão recorrido, da ausência de violação aos dispositivos apontados como violados, da incidência das Súmulas 7 do STJ e 280 do STF, bem como da inadequada demonstração da divergência jurisprudencial (e-STJ fls. 196/198), o que ensejou o presente agravo em recurso especial (e-STJ fls. 204/216).
+A contraminuta não foi apresentada.
+O Ministério Público Federal opinou pelo conhecimento do agravo para não se conhecer do recurso especial (e-STJ fls. 234/238).
+É o relatório.
+Na origem, cuida-se de mandado de segurança cuja ordem foi concedida para "para reconhecer o direito da parte impetrante de recolher o Imposto de Transmissão Causa Mortis e Doação sobre o valor venal dos bens transmitidos pela sucessão que serviu de base de cálculo para o lançamento do IPTU, para todos os fins de direito, sem prejuízo da Administração Tributária Estadual instaurar procedimento administrativo de arbitramento da base de cálculo, caso não concorde com o valor declarado pelo contribuinte" (e-STJ fl. 103).
+O Tribunal de origem manteve a sentença.
+Pois bem.
+A Primeira Seção desta Corte afetou para julgamento na sistemática de recursos repetitivos a seguinte questão: "Definir se a prerrogativa do fisco de arbitrar a base de cálculo do ITCMD decorre diretamente do CTN ou está sujeita às normas específicas da Unidade da Federação" (Tema 1.371 do STJ).
+Na oportunidade, determinou-se a suspensão de todos os processos que versem sobre a matéria em que tenham sido interpostos recurso especial ou agravo em recurso especial.
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal d e origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp n. 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 5/2/2016; AgRg no AgRg no AREsp n. 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp n. 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp n. 1.588.019/GO, rel. Ministra Regina Helena Costa, DJe 17/3/2016; REsp n. 1.533.443/RS, rel. Ministro Benedito Gonçalves, DJe 17/3/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto:
+(I) RECONSIDERO a decisão de e-STJ fls. 241/244, tornando-a sem efeito; e,
+(II) DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
