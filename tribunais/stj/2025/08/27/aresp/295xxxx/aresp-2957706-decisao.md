@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDNA IZABEL HERNANDES GUIMARÃES, EGYDIO FRANCISCO HERNANDES, ELENIR FÁTIMA HERNANDES VENTURA e ELIETE MARIA HERNANDEZ GUIMARÃES (EDNA e outros) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 257/264).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a e c, da CF, EDNA e outros alegaram ofensa aos arts. 485, IV, 489, § 1º, IV e VI, 513, 523, 783, 934, 935 e 1.022, II, todos do NCPC, além de divergência jurisprudencial. Sustentaram que (1) o aresto recorrido foi omisso, porque não se manifestou acerca de sua ilegitimidade para a demanda, pois há cobrança de dívida de sua genitora, falecida antes da propositura da ação; (2) o acórdão foi contraditório ao reconhecer a ausência de título executivo a permitir sua distribuição, mas mesmo assim admitiu sua distribuição e suspensão do cumprimento de sentença, sem que estivessem preenchidos os pressupostos de seu desenvolvimento válido; (3) o aresto impugnado ainda foi omisso, uma vez que eles não foram intimados da respectiva sessão de julgamento, seja presencial, telepresencial ou virtual; (4) as partes e advogados não foram intimados a respeito da data do julgamento ou da forma como os causídicos dele poderiam participar; e, (5) a ausência de título executivo impede a execução, o que acarreta a nulidade do cumprimento de sentença.
+Foram apresentadas contrarrazões (e-STJ, fls. 200/208).
+Da assertiva de existência de omissão e contradição no aresto recorrido
+EDNA e outros alegaram ofensa aos arts. 489, § 1º, IV e VI e 1.022, II, do NCPC. Sustentaram que (1) o aresto recorrido foi omisso, porque não se manifestou acerca de sua ilegitimidade para a demanda, pois há cobrança de dívida de sua genitora, falecida antes da propositura da ação; (2) o acórdão foi contraditório ao reconhecer a ausência de título executivo a permitir sua distribuição, mas mesmo assim admitiu sua distribuição e suspensão do cumprimento de sentença, sem que estivessem preenchidos os pressupostos de seu desenvolvimento válido; e, (3) o aresto impugnado ainda foi omisso, uma vez que eles não foram intimados da respectiva sessão de julgamento, seja presencial, telepresencial ou virtual.
+A Corte local, ao analisar os embargos de declaração deixou de apreciar temas referentes acerca da ilegitimidade dos agravantes para a demanda, pois há cobrança de dívida de sua genitora, falecida antes da propositura da ação, sobre a contradição que existe ao se reconhecer a ausência de título executivo a permitir sua distribuição, mas mesmo assim ser admissível a distribuição e suspensão do cumprimento de sentença, sem que estivessem preenchidos os pressupostos de seu desenvolvimento válido e a respeito da ausência de intimação da sessão de julgamento, seja presencial, telepresencial ou virtual.
+É condição sine qua non ao conhecimento do especial que as questões de direito ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à recorrente.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO PROFERIDO EM APELAÇÃO. OMISSÃO VERIFICADA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Recurso especial provido.
+(REsp n. 2.005.719/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/2/2023, DJe de 2/3/2023)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Ante o exposto, CONHEÇO do agravo para conhecer em parte do recurso especial e, nesta extensão, DAR-LHE PROVIMENTO a fim de determinar o retorno dos autos ao Tribunal de Justiça de São Paulo para que se analisem as questões trazidas nos embargos de declaração, como entender de direito, prejudicadas as demais questões.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. OMISSÃO. CONTRADIÇÃO. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONFIGURAÇÃO. AGRAVO CONHECIDO E RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, PROVIDO.
