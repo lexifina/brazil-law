@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC/2015, (b) aplicação da Súmula n. 7 do STJ e (c) falta de comprovação do dissídio jurisprudencial (fls. 703-716).
+O acórdão recorrido está assim ementado (fl. 636):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. TRANSPORTE COLETIVO. ACIDENTE OCORRIDO NO INTERIOR DO COLETIVO. NEXO CAUSAL CONFIGURADO ENTRE A CONDUTA DO PREPOSTO DA CONCESSIONÁRIA NA DIREÇÃO DO VEÍCULO E A LESÃO DA PASSAGEIRA. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇAO DAS PARTES. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DO SERVIÇO CONFIGURADA. VIOLAÇÃO DA CLÁUSULA DE INCOLUMIDADE DO CONTRATO DE TRANSPORTE. DANOS MORAIS CONFIGURADOS E RAZOABILIDADE DA INDENIZAÇÃO ARBITRADA. APLICAÇÃO DA SÚMULA Nº 343, DESTE TRIBUNAL DE JUSTIÇA. PRECEDENTES. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 665-669).
+Nas razões do recurso especial (fls. 680-694), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, do CPC e 278, § 1º, da Lei n. 6.404/1976 e 265 do CC, alegando que "o consórcio não tem personalidade jurídica própria. Responsabilidade é um atributo exclusivo de pessoas  ..  o consórcio não tem personalidade jurídica  ..  é preciso observar que no contrato plurilateral estabelecido entre as sociedades empresárias consorciadas fica claro que não há responsabilidade do consórcio não havendo qualquer menção ao mesmo  ..  não há previsão legal ou contratual que leve à conclusão de que o consórcio possa ser responsável pelos atos praticados por seus consorciados" (fl. 688-692),
+(ii) art. 1.022, II, do CPC, por entender que, "ao deixar de se manifestar acerca de pontos sobre os quais foi instado a fazê-lo, por meio de embargos de declaração, o órgão colegiado ad quem violou o inciso II do Artigo 1.022 do Código de Processo Civil , que obrigava a suprir a omissão" (fl. 693).
+Não foram oferecidas contrarrazões (fl. 698).
+O agravo (fls. 721-729) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 733).
+É o relatório.
+Decido.
+Quanto à apontada violação do art. 1.022 do Código de Processo Civil, cumpre dizer que, além de o Tribunal ter enfrentado toda a matéria pertinente à controvérsia, a pretensão deduzida nos embargos de declaração opostos pela parte recorrente, longe de demonstrar qualquer omissão, contradição ou obscuridade, objetiva, na verdade, rediscutir causa devidamente solucionada.
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu de modo fundamentado a matéria controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da parte não configura nenhum dos vícios do art. 489, § 1º, III, do CPC/2015, tampouco configura hipótese de cabimento dos aclaratórios.
+O TJRJ, ao analisar as provas constantes dos autos, entendeu que "a solidariedade entre o consórcio e suas consorciadas, e a consequente legitimidade passiva do consórcio Apelante, encontra fundamento no artigo 33, inciso V, da Lei nº 8.666/93  ..  há que se reconhecer que a Autora comprovou o fato constitutivo de seu direito  ..  assim sendo, no caso em exame, trata-se de responsabilidade objetiva fundada na cláusula de incolumidade do passageiro". Confira-se o seguinte excerto (fls. 637-639):
+A pretensão visa tutelar os direitos dos usuários diante das empresas consorciadas, o que atrai a incidência do artigo 28, §3º, do Código de Defesa do Consumidor, que estabelece: "As sociedades consorciadas são solidariamente responsáveis pelas obrigações decorrentes deste Código".
+Ressalte-se que a solidariedade entre o consórcio e suas consorciadas, e a consequente legitimidade passiva do consórcio Apelante, encontra fundamento no artigo 33, inciso V, da Lei nº 8.666/93, que prevê o regime de solidariedade mesmo na fase de execução do contrato, caso tenha sido permitido que na licitação houvesse a participação de empresas em consórcio, valendo citar ainda os artigos 19 e 25, da Lei nº 8.987/95.
+ ..
+Dessa forma, há que se reconhecer que a Autora comprovou o fato constitutivo de seu direito, ônus que lhe cabia a teor do disposto no art. 373, inciso I, do Código de Processo Civil, notadamente a condição de passageira diante dos documentos anexados e a verossimilhança de suas alegações, que revelam coerência com a data e local do acidente.
+Assim sendo, no caso em exame, trata-se de responsabilidade objetiva fundada na cláusula de incolumidade do passageiro, conforme os artigos 730, 734, 735 e 927, ambos do Código Civil:
+  ..
+Desta forma, diante da violação ao dever de segurança no fornecimento do serviço público da Concessionária, configurada está a falha na prestação do serviço.
+A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória dos autos, atraindo a Súmula n. 7/STJ.
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
