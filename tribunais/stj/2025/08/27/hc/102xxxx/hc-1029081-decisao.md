@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LEONARDO JOSE COSTA BARBOSA, em que se aponta como autoridade coatora a Quarta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (HC n. 2212887-27.2025.8.26.0000) - fl. 141:
+Habeas Corpus. Crimes previstos nos artigos 33, "caput", e 35, ambos da Lei n. 11.343/06, c/c o artigo 2º, § 1º, da Lei n. 8.072/90, c/c o artigo 69, do Código Penal, além do artigo 12 da Lei nº 10.826/2003. Pedido de revogação da prisão preventiva do paciente. Subsidiariamente, sejam aplicadas medidas cautelares diversas. Impossibilidade. Decisão devidamente fundamentada na gravidade concreta dos delitos. Necessária manutenção da prisão preventiva para garantia da ordem pública, bem como para conveniência da instrução criminal e aplicação da lei penal. Constrangimento ilegal não configurado. Ordem denegada.
+Consta dos autos que o paciente foi preso em flagrante e teve sua prisão convertida em preventiva, por suposta prática dos delitos descritos no art. 33, caput, da Lei n. 11.343/2006 e no art. 12 da Lei n. 10.826/2003.
+A defesa sustenta que o paciente é primário, possui residência fixa e trabalho lícito, sendo auxiliar de enfermagem há mais de 5 anos (fls. 3/4).
+Afirma que a quantidade de drogas apreendida é ínfima, sendo 135,96 g de maconha e 0,58 g de haxixe, e que a arma de fogo encontrada estava quebrada e era de um amigo (fl. 5).
+Alega que não há indícios de que o paciente integre organização criminosa e que a prisão preventiva é desnecessária, podendo ser substituída por medidas cautelares alternativas (fls. 5/6).
+Requer a revogação da prisão preventiva e a concessão de liberdade provisória, ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão (fls. 7/8).
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da gravidade concreta do delito, destacada a quantidade de droga e o fato de também ter sido apreendida uma arma de fogo de uso permitido (fl. 93).
+Ora, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao magistrado vincular seu decisum a fatores reais de cautelaridade.
+Ora, do atento exame dos autos, observo que, além de não terem sido apontados elementos concretos que denotem a necessidade da medida excepcional, as circunstâncias pessoais do imputado (primariedade e ausência de antecedentes) e da prisão em flagrante, em que foram apreendidos 135,96 g de maconha e 0,58 g de haxixe, em crime cometido sem violência ou grave ameaça, demonstram a suficiência de medidas alternativas à prisão, pois este Superior Tribunal consolidou o entendimento de que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Ante o exposto, concedo liminarmente a ordem para revogar a prisão cautelar imposta ao paciente, devendo o magistrado aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação do réu.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. (135,96 G DE MACONHA E 0,58 G DE HAXIXE). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO FLAGRANTE E PESSOAIS DO IMPUTADO QUE DENOTAM A SUFICIÊNCIA DE MEDIDAS ALTERNATIVAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
