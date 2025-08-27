@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Atenuante de violenta emoção. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu o agravo em recurso especial, visando à aplicação da atenuante de violenta emoção prevista no art. 65, inciso III, alínea c, do Código Penal.
+2. O Tribunal de origem rejeitou o pleito, pois não houve reconhecimento de ato injusto contra o autor pelos jurados, além de não ter havido pedido expresso de reconhecimento da circunstância atenuante durante os debates em plenário do Júri.
+3. O recurso especial foi inadmitido com base na Súmula 7 do STJ, que impede o reexame de provas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível aplicar a atenuante de violenta emoção sem reavaliar as provas do processo, especialmente quanto à possível provocação injusta da vítima.
+III. Razões de decidir
+5. A ausência de impugnação adequada dos fundamentos da decisão anterior impede o conhecimento do agravo, conforme o princípio da dialeticidade.
+6. Alegações genéricas não são suficientes para contestar a decisão que inadmite o recurso especial, sendo necessário que a impugnação seja clara, específica e fundamentada.
+7. O agravante não apresentou argumentos consistentes para afastar a aplicação da Súmula 7 do STJ, nem demonstrou que sua tese poderia ser analisada sem revisar as provas do caso.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "A impugnação de decisão que inadmite recurso especial com base na Súmula 7 do STJ deve ser clara, específica e bem fundamentada, não sendo suficiente alegações genéricas".
+Dispositivos relevantes citados: Código Penal, art. 65, III, c; CPC, art. 932, III; Regimento Interno do STJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016; STJ, AgRg no REsp 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; STJ, AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por NEWEGTON HENRIQUE DE LIMA VIEIRA contra decisão que não conheceu o agravo em recurso especial.
+Conforme se extrai dos autos, o agravante foi condenado nas sanções do art. 121, § 2º, inciso II (motivo fútil), do Código Penal, à pena de 12 (doze) anos, em regime inicial fechado, concedido o direito de recorrer em liberdade (fls. 753-757).
+Em segunda instância, o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS conheceu o apelo, e por unanimidade, negou-lhe provimento (fls. 901-908). Em seguida, novo acórdão conheceu e rejeitou embargos declaratórios (fls. 929-937).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou que houve negativa de vigência do artigo 65, inciso III, alínea c, do Código Penal, pois o Tribunal de origem, ante fundamentação inidônea, deixou de aplicar a atenuante genérica mencionada.
+Por fim, a Defesa pleiteou a reforma do acórdão recorrido, para que seja aplicada na segunda fase da dosimetria da pena a atenuante genérica descrita no artigo 65, III, alínea c, "ter o agente cometido o crime sob violenta emoção, provocada por ato injusto da vítima", com o consequente redimensionamento da pena.
+Apresentadas as contrarrazões (fls. 956-960), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise acerca da aplicação, no caso concreto, da atenuante prevista no artigo 65, inciso III, alínea "c", do Código Penal, implicariam em revolvimento fático-probatório (fls. 965-967).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 971-974).
+O Ministério Público Federal apresentou parecer pelo não conhecimento agravo em recurso especial, embasando o parecer na súmula 182 do STJ (fls. 994-996).
+Agravo em recurso especial não conhecido (fls. 1000-1003).
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Atenuante de violenta emoção. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu o agravo em recurso especial, visando à aplicação da atenuante de violenta emoção prevista no art. 65, inciso III, alínea c, do Código Penal.
+2. O Tribunal de origem rejeitou o pleito, pois não houve reconhecimento de ato injusto contra o autor pelos jurados, além de não ter havido pedido expresso de reconhecimento da circunstância atenuante durante os debates em plenário do Júri.
+3. O recurso especial foi inadmitido com base na Súmula 7 do STJ, que impede o reexame de provas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível aplicar a atenuante de violenta emoção sem reavaliar as provas do processo, especialmente quanto à possível provocação injusta da vítima.
+III. Razões de decidir
+5. A ausência de impugnação adequada dos fundamentos da decisão anterior impede o conhecimento do agravo, conforme o princípio da dialeticidade.
+6. Alegações genéricas não são suficientes para contestar a decisão que inadmite o recurso especial, sendo necessário que a impugnação seja clara, específica e fundamentada.
+7. O agravante não apresentou argumentos consistentes para afastar a aplicação da Súmula 7 do STJ, nem demonstrou que sua tese poderia ser analisada sem revisar as provas do caso.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "A impugnação de decisão que inadmite recurso especial com base na Súmula 7 do STJ deve ser clara, específica e bem fundamentada, não sendo suficiente alegações genéricas".
+Dispositivos relevantes citados: Código Penal, art. 65, III, c; CPC, art. 932, III; Regimento Interno do STJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016; STJ, AgRg no REsp 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; STJ, AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+VOTO
+Presentes os pressupostos, conheço do agravo regimental.
+Verifico que a pretensão consiste na aplicação da atenuante relativa a influência de violenta emoção, prevista no art. 65, inciso III, alínea c, do Código Penal.
+No entanto, o tribunal de origem rejeitou o pleito, porque, para o reconhecimento da atenuante, exige-se o reconhecimento de ato injusto contra o autor, o que não foi acolhido pelos jurados, além de não ter havido pedido expresso de reconhecimento da circunstância atenuante pleiteada durante os debates em plenário do júri.
+Assim pontuou o acórdão:
+"(..) Tem-se dos autos que o Conselho de Sentença não acolheu a tese defensiva de que o homicídio foi praticado sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, rechaçando o privilégio previsto no artigo 121, §1º, do CP.
+Sabe-se que o privilégio, disposto no art. 121, § 1o, do CP não se confunde com a atenuante prevista no art. 65, inciso III, alínea "c", do CP, visto que, no homicídio privilegiado, o sujeito está dominado pela excitação dos seus sentimentos (ódio, desejo de vingança, amor exacerbado, ciúme intenso) e foi injustamente provocado pela vítima, momentos antes de tirar-lhe a vida. As duas grandes diferenças entre o privilégio e a atenuante (art. 65, III, c, do CP) são as seguintes: a) para o privilégio exige a lei que o agente esteja dominado pela violenta emoção e não meramente influenciado , como mencionado no caso da atenuante; b) determina a causa de diminuição de pena que a reação à injusta provocação da vítima se dê logo em seguida, enquanto a atenuante nada menciona nesse sentido (NUCCI, Guilherme de Souza. Código Penal Comentado. 19 ed. Rio de Janeiro: Forense, 2019, p. 741).
+Assim, apesar das diferenças entre a causa de diminuição e a atenuante, exige-se, para o reconhecimento desta, a comprovação de ato injusto da vítima contra o autor, o que não foi acolhido pelos jurados, além de não haver pedido expresso de reconhecimento da circunstância atenuante ora pleiteada durante os debates. (..). "
+No caso vertente, o Tribunal de origem inadmitiu o recurso especial sob o pálio que seria necessário reavaliar as provas do processo, óbice consolidado pela Súmula 7 do STJ.
+No mesmo sentido é a jurisprudência desse Tribunal Superior:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÃO DO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. OMISSÃO INEXISTENTE. RECONHECIMENTO DE HOMICÍDIO PRIVILEGIADO. REVOLVIMENTO DAS PROVAS. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA DA PENA. VIOLAÇÃO DO ART. 59 DO CP. MONTANTE DE EXASPERAÇÃO DA PENA-BASE. DESPROPORCIONALIDADE NÃO VERIFICADA. ATENUANTE. ART. 65, III, "C", DO CÓDIGO PENAL - CP. NECESSIDADE DO REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Quanto à pretensão de reconhecimento da atenuante prevista no art. 65, III, "c", do CP, também inafastável a incidência da Súmula n. 7 do STJ, uma vez que, para se concluir de modo diverso da Corte originária, seria necessário o revolvimento fático-probatório, o que é vedado nesta via. 5. Agravo regimental desprovido. (AgRg no AREsp n. 1.816.197/PR, Quinta Turma, Relator Ministro Joel Ilan Paciornik, Dje de 06/05/2022)."
+Não obstante, no agravo em recurso especial, a parte agravante limitou-se a repetir os mesmos argumentos do recurso anterior, sem rebater de forma clara os motivos pelos quais o tribunal inadmitiu recurso especial.
+O agravante não apresentou argumentos consistentes para afastar a aplicação da Súmula 7, nem demonstrou que sua tese poderia ser analisada sem revisar as provas do caso, especialmente quanto à possível provocação injusta da vítima que teria influenciado seu estado emocional e motivado sua conduta.
+Alegações genéricas não são suficientes para contestar a decisão. A impugnação deve ser clara, específica e bem fundamentada, o que não aconteceu neste caso.
+Sobre o tema, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016, grifei).
+De acordo com o artigo 932, III, do CPC, e o artigo 253, parágrafo único, I, do Regimento Interno do STJ, o agravo não deve ser conhecido quando não enfrenta todos os pontos da decisão anterior.
+Assim, com base na Súmula 182 do STJ, o agravo não deve ser conhecido, já que o agravante não atacou de forma adequada os fundamentos da decisão, o que inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+Exemplificativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO. (..)
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ. 2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (in casu, Súmula 182 do STJ e 284 do STF), incidindo, portanto, o óbice da Súmula 182 do STJ. (..) (AgRg no AREsp n. 2.405.874 /SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/10/2023, DJe de 24/10/2023).
+Desse modo, conforme conclusão adotada na decisão agravada, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
