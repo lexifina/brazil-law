@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO ADMINISTRADORA DE CONSÓRCIOS LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na interpretação de cláusulas contratuais e do conjunto fático-probatório dos autos e na incidência das Súmulas n. 5 e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme certidão à fl. 545.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação nos autos de ação de anulação de negócio jurídico c/c reparação de danos emergentes e lucros cessantes c/c indenização por danos morais.
+O julgado foi assim ementado (fls. 390-393):
+APELAÇÃO 1 - ADMINISTRADORA DE CONSÓRCIOS EMENTA: APELAÇÃO CÍVEL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C REPARAÇÃO DE DANOS EMERGENTES E LUCROS CESSANTES C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DA RÉ. PRELIMINAR DE CERCEAMENTO DE DEFESA AFASTADA. PROVA ORAL QUE NÃO TERIA O CONDÃO DE INTERFERIR NO JULGAMENTO. PROVA DOCUMENTAL QUE DEVE SER APRESENTADA JUNTO À CONTESTAÇÃO. JUNTADA DE EVENTUAIS DOCUMENTOS ACESSÍVEIS APÓS A CONTESTAÇÃO QUE É POSSÍVEL A QUALQUER TEMPO. ART. 434 E 435 DO CPC. MÉRITO. CONTRATO DE CONSÓRCIO. CONTEMPLAÇÃO. RECUSA NA LIBERAÇÃO DO CRÉDITO. ALEGAÇÃO DE QUE O IMÓVEL INDICADO PELA CONSORCIADA APRESENTA RISCO DE GARANTIA. MOTIVAÇÃO ILEGÍTIMA. AUSÊNCIA DE CRITÉRIOS OBJETIVOS E PREESTABELECIDOS NO CONTRATO DE ADESÃO E NO REGULAMENTO DO CONSÓRCIO. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ART. 6º, INC. III DO CDC. FALHA NA PRESTAÇÃO DE SERVIÇO. RESCISÃO CONTRATUAL POR CULPA DA APELANTE. ADEMAIS, MOTIVO APRESENTADO QUE NÃO REPRESENTA RISCO DE GARANTIA PER SE. PLEITO EM CONTRARRAZÕES DE CONDENAÇÃO EM MULTA POR LITIGÂNCIA DE MÁ-FÉ. DESCABIMENTO. RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos: 422 do Código Civil, pois a negativa na liberação da carta de crédito se deu em relação a um imóvel específico e não baseada em motivos subjetivos.
+Sustenta que o Tribunal de origem divergiu ao entender abusiva a cláusula contratual que prevê a recusa do bem caso a Administradora julgue não atender aos seus critérios de avaliação comercial e patrimonial é abusiva, enquanto o Tribunal de Justiça de São Paulo entendeu lícita e suficiente a cláusula nos mesmos termos (Acórdão de apelação n. 1004754-51.2021.8.26.0577).
+Requer o provimento do recurso especial para que seja reconhecida a violação do art. 422 do Código Civil e seja reformado o acórdão recorrido a fim de que seja julgada totalmente improcedente a ação, respeitando os termos do contrato firmado entre as partes.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser conhecido por não atender aos requisitos formais necessários e que deve ser desprovido por incompatibilidade com o ordenamento jurídico vigente, além de requerer a majoração dos honorários de sucumbência (fls. 488-497).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de anulação de negócio jurídico c/c reparação de danos emergentes e lucros cessantes c/c indenização por danos morais em que a parte autora pleiteou a anulação do negócio jurídico, a indenização por danos morais no valor de R$ 20.000,00 e a reparação de danos emergentes no importe de R$ 179.476,50.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente a pretensão deduzida na petição inicial, declarando rescindidos os contratos de consórcio firmados entre as partes e condenando a instituição financeira ré a promover o ressarcimento integral dos valores despendidos pela empresa autora, em parcela única, nos termos da fundamentação.
+A Corte estadual manteve a sentença, reformando-a apenas para condenar a ré ao pagamento de indenização por danos morais no importe de R$ 10.000,00.
+I - Art. 422 do Código Civil
+No recurso especial, a parte recorrente alega que a negativa na liberação da carta de crédito se deu em relação a um imóvel específico e não baseada em motivos subjetivos, como entendeu o acórdão recorrido.
+A Corte estadual concluiu que a recusa na liberação do crédito ofende o contrato e só pode ser imputada à requerida, uma vez que a autora não tinha ciência dos requisitos específicos exigidos do imóvel a fim de que fosse aceito como garantia.
+Rever tal entendimento encontra óbice na incidência das Súmulas n. 5 e 7 do STJ.
+II - Divergência jurisprudencial
+Sustenta que o Tribunal de origem divergiu ao decidir que a cláusula contratual que prevê a recusa do bem caso a Administradora julgue não atender aos seus critérios de avaliação comercial e patrimonial é abusiva, enquanto o Tribunal de Justiça de São Paulo entendeu lícita e suficiente a cláusula nos mesmos termos.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
