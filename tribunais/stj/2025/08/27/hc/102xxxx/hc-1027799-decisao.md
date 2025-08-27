@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de HENRIQUE DA SILVA ALVES - condenado por tráfico de drogas (512 g de maconha, 775 g de cocaína, 0,87 g de MDMA, 65 g de ecstasy e 1,18 g de crack - fl. 60) e associação para o tráfico a 10 anos e 8 meses de reclusão, 1.599 dias-multa -, que ataca o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 21/52), não comporta processamento.
+Com efeito, busca a impetração a desclassificação da conduta para posse de entorpecentes para uso pessoal (art. 28 da Lei n. 11.343/2006), ou, subsidiariamente, a revisão da dosimetria - na condenação proferida na Ação Penal n. 1509174-57.2022.8.26.0302 (fls. 69/89, da 2ª Vara Criminal da comarca de Jaú/SP) -, aos seguintes argumentos:
+a) insuficiência probatória quanto ao tráfico, sustentando que a prova produzida na instrução não foi suficiente para demonstrar, de forma inequívoca, a destinação comercial da droga supostamente apreendida em poder do paciente (fl. 7);
+b) cumprimento dos requisitos para incidência da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), na fração máxima de 2/3, aduzindo que inexiste prova efetiva e autônoma que demonstre vínculo permanente com organização criminosa ou dedicação habitual ao tráfico (fl. 12); e
+c) consequentemente, com a redução da pena, o abrandamento do regime inicial e a substituição por restritivas de direitos.
+Sem pedido liminar.
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois:
+a) a pretensão de desclassificação para posse de entorpecentes para uso pessoal (art. 28 da Lei n. 11.343/2006) não pode ser conhecida, pois não foi apreciada pela Corte estadual no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância (RCD no HC n. 963.130/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025). Além disso, a pretensão demandaria reexame de provas (AgRg no AREsp n. 2.730.742/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/8/2025, DJEN de 20/8/2025), inviável na via eleita; e
+b) correto indeferimento de incidência da causa de diminuição de pena do tráfico privilegiado, por dedicação a atividades criminosas (fls. 49/50), evidenciada pela condenação por associação para o tráfico (AgRg nos EDcl no AREsp n. 2.393.844/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2025, DJEN de 25/2/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
