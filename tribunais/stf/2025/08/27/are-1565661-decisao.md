@@ -1,0 +1,37 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. IMPUTAÇÃO DOS DELITOS DE HOMICÍDIO DUPLAMENTE QUALIFICADO POR EMPREGO DE MEIO CRUEL E RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA, NA FORMA TENTADA; INCÊNCIO EM LOCAL HABITADO; E AMEAÇA, EM CONCURSO MATERIAL. PRIMEIRO JULGAMENTO ANULADO POR DECISÃO DESTE COLEGIADO, QUE DEU PROVIMENTO AO APELO DO MINISTÉRIO PÚBLICO. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO RELATIVA AO CRIME DE AMEAÇA. APELANTE NOVAMENTE SUBMETIDO A JULGAMENTO PERANTE O TRIBUNAL DO JÚRI PELOS CRIMES CONTRA A VIDA E DE INCÊNCIO. PARCIAL PROCEDÊNCIA DA PRETENSÃO PUNITIVA ESTATAL. CONDENAÇÃO APENAS PELA TENTATIVA DE HOMICÍDIO, QUALIFICADO TÃO SOMENTE PELO MOTIVO CRUEL. RECURSO DEFENSIVO. PEDIDOS: 1) REDUÇÃO DA PENA-BASE; 2) APLICAÇÃO DA FRAÇÃO MÁXIMA DE REDUÇÃO DE PENA PELA TENTATIVA; 3) GRATUIDADE DA JUSTIÇA.
+
+    I. Dosimetria. Pedido de redução da pena-base que merece prosperar, mas não ao mínimo legal. Afasta-se, na espécie, o desvalor conferido aos motivos do crime, porque evidenciado bis in idem ao se cotejar a fundamentação contida no édito condenatório com o posterior reconhecimento da circunstância agravante prevista no artigo 61, inciso II, alínea “ f”, do Código Penal. Presença, no entanto, de outras circunstâncias judiciais negativas que justificaram o distanciamento da pena-base do seu mínimo legal. Possibilidade, inclusive, de o Tribunal agregar novos argumentos, integrando a sentença, desde que não haja, como no presente caso, agravamento das reprimendas. Precedentes. Culpabilidade exacerbada. Maior reprovabilidade da conduta. Crime cometido por policial civil contra vítima, com quem mantinha relacionamento amoroso. Agentes de segurança que, na prática de crimes, devem ser julgados com maior rigor do que as demais pessoas, pois o combate à criminalidade insere-se nas suas funções. Graves circunstâncias do crime. Escolha do local do delito. Réu que tinha pleno conhecimento de que a filha e a mãe da vítima moravam no imóvel situado embaixo da residência do casal, local onde ateou fogo na vítima, deixando-a trancada, colocando também em risco a incolumidade física das moradoras do andar de baixo. Filha da vítima, com 15 (quinze) anos de idade, ademais, que foi quem presenciou a mãe com o corpo queimado, tendo sido a responsável por prestar-lhe socorro, destrancando-a e impedindo a consumação do delito, o que não pode ser considerado como indiferente penal, dado o elevado trauma provocado à menor. Conduta social do apelante extremamente reprovável. Ex-companheira do acusado que narrou em Plenário o seu histórico de agressividade, afirmando que ao longo do relacionamento que com ele mantivera fora agredida física e verbalmente. Pena redimensionada, considerando o afastamento de uma das circunstâncias judiciais valoradas na sentença. Ausência de frações fixas a serem observadas. Princípio da individualização da pena. A lei penal reserva ao juiz considerável arbítrio na valorização das circunstâncias, ou seja, é o exercício de um poder discricionário, desde que, logicamente, respeitados os limites mínimo e máximo cominados no preceito secundário da norma, o qual somente é passível de revisão no caso de inobservância aos parâmetros legais ou de flagrante desproporcionalidade. Entendimento de acordo com a jurisprudência pacífica do STJ, segundo a qual "é permitido ao julgador mensurar com discricionariedade o quantum de aumento da pena a ser aplicado, desde que seja observado o princípio do livre convencimento motivado" (HC 359.055/SC, Rei. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 09/08/2016, DJe 24/08/2016).
+
+    II. Tentativa. Manutenção da fração eleita, de metade. O patamar adotado na sentença monocrática encontra justificativa no fato de que o apelante logrou percorrer todo o iter criminis planejado, ao atear fogo na vítima, deixando-a, ainda, trancada no interior da residência, de modo a impedi-la de buscar socorro. Crime que somente não alcançou a consumação graças a pronta atuação da filha da vítima, que, dormindo na casa debaixo, foi acordada pelos gritos de desespero da mãe e estava em poder de uma chave do imóvel, vindo a prestar socorro imediato com a ajuda de vizinhos.
+
+    III. Gratuidade da justiça. O pagamento das custas do processo é consectário lógico da sucumbência, previsto no artigo 804 do Código de Processo Penal, competindo, eventual isenção, também, ao Juízo da Execução Penal. Recurso ao qual se dá parcial provimento.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, III, 5º, III, XXXVII, XXXVIII, "a", XLI, LIII LIV. LV e LVI, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, nos termos da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. SÚMULA 279 DO STF. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 2. Ausência de omissão ao dever de fundamentar (AI 791.292 QO-RG, Rel. Min. Gilmar Mendes, Tema 339 da Repercussão Geral). 3. Agravo regimental a que se nega provimento” (ARE nº 1.053.745/MT-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 16/05/2018).
+
+    “Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Matéria criminal. Tribunal do júri. Nulidades. Absolvição. Ausência de prequestionamento. Incidência das Súmulas nº 282 e 356 da Corte. Negativa de prestação jurisdicional (CF, art. 93, IX). Não ocorrência. Ofensa reflexa ao texto constitucional. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. A jurisdição foi prestada, na espécie, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente, tendo o Tribunal a quo explicitado suas razões de decidir, não havendo falar, portanto, em ofensa ao art. 93, inciso IX, da Constituição. 3. Conclusão em sentido diverso daquele do acórdão recorrido demandaria, na espécie, a análise da legislação infraconstitucional e o reexame aprofundado do conjunto fático-probatório dos autos, o que é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF. 4. Agravo regimental a que se nega provimento” (ARE nº 1.126.439/SP-ED-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 17/10/2018).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 27 de agosto de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
