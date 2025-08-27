@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da impossibilidade de apreciar alegação de ofensa a dispositivo constitucional no âmbito do recurso especial e da incidência das Súmulas n. 7 do STJ e 282 e 356 do STF (fls. 789-791).
+O acórdão recorrido encontra-se assim ementado (fl. 110):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. PENHORA. RENDIMENTOS IMÓVEL. ÚNICA FONTE DE RENDA DO EXECUTADO. AUSÊNCIA DE COMPROVAÇÃO. ÔNUS DO EXECUTADO. ART. 373, INCISO II, CPC. DECISÃO MANTIDA. AGRAVO INTERNO. PREJUDICADO.
+1. Nos termos do art. 373, inciso II, do CPC, incumbe ao executado comprovar o fato alegado na impugnação à penhora, ou seja, que os valores penhorados são sua única fonte de renda.
+2. A simples alegação, sem qualquer elemento de prova, não ampara a pretensão do agravante.
+3. Agravo de instrumento conhecido e não provido. Agravo interno prejudicado.
+Os embargos de declaração foram rejeitados (fls. 307-315).
+Nas razões do recurso especial (fls. 331-356), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 5º, LV, da CF, 9º, 10º e 373 do CPC, destacando que "a ausência de apreciação da necessidade de produção de prova complementar pelas instâncias inferiores viola os princípios da ampla defesa, do contraditório e do devido processo legal" (fl. 354),
+(b) arts. 373, II, e 833, IV, do CPC, o 9º e 10º, caput e § 3º, da Lei n. 10.741/2003, sustentando, em síntese, que "demonstrou, de forma clara e inequívoca, que os aluguéis do imóvel em questão são indispensáveis para sua subsistência, caracterizando, assim, a impossibilidade de penhora desses valores" (fl. 343).
+Argumenta que "os Sistemas SISBAJUD e RENAJUD ATESTAM SUA INSUFICIÊNCIA FINANCEIRA" (fl. 343) e que "possui 78 anos de idade, conforme prova nos autos de origem (doc. idId 67344966), o qual sabidamente não mais possui condições de trabalhar, tampouco possuindo outros bens" (fl. 344), e
+(c) art. 799, II, do CPC/2015, afirmando que "reconhecendo o acórdão recorrido que não houve a devida intimação da esposa do Recorrente/Executado, sobre a penhora dos aluguéis do imóvel cito à QNM 22 Conjunto L Lote 17 - Ceilândia Norte/DF, devem os acórdãos também sob esse prisma serem anulados para, reconhecida a flagrante violação ao devido processo legal e ao princípio do contraditório" (fl. 353).
+No agravo (fls. 799-815), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 823).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A tese de violação dos arts. 9º, 10º e 373 do CPC, sob o fundamento de cerceamento de defesa, não foi analisada pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Ainda que assim não fosse, para acolher as razões recursais e reconhecer que teria havido ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal, demandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+A alegação de contrariedade aos arts. 9º e 10º, caput e § 3º, da Lei n. 10.741/2003 não foi apreciada pela Corte local, o que atrai a aplicação da Súmula n. 211 do STJ.
+Quanto aos arts. 373, II, e 833, IV, do CPC,, a Corte de origem reconheceu que "é ônus do agravante comprovar a impenhorabilidade alegada, nos termos do art. 373, inciso II, do Código de Processo Civil. Outrossim, cabe destacar, que a análise do conjunto probatório revela que o devedor não comprovou que o valor dos aluguéis são sua única fonte de renda" (fls. 117-118) e que "foi contraditório ao afirmar na impugnação à penhora, bem como nas razões do agravo de instrumento que não recebia aposentadoria, sendo que nas razões do agravo interno afirmou ser aposentado e auferir um salário mínimo. Ainda, não juntou nenhum documento que comprovasse o recebimento da aposentadoria mencionada" (fl. 118).
+Destacou que "as consultas efetivadas (SISBAJUD E RENAJUD) não comprovam, por si só, que o executado dependa dos aluguéis penhorados para manter a própria sobrevivência por serem sua única fonte de renda. Muito antes da penhora, o agravante se qualificou como aposentado em sede de contestação (ID 66869285, na origem), bem como indicou o imóvel para ser constrito, o que indica, que o imóvel poderia servir para o pagamento da dívida" (fl. 118).
+Consignou ainda que "poderia o agravante ter juntado os extratos bancários que provassem que a sua única renda é a advinda dos aluguéis. Porém, não o fez" (l. 119).
+Modificar o entendimento do acórdão impugnado e afastar a conclusão de que o executado/agravante não se desincumbiu de seu ônus processual, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por outro lado, o conteúdo do art. 799, II, do CPC não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Além do mais, o TJDF reconheceu que "posteriormente, foi lavrado o termo de penhora dos direitos aquisitivos do imóvel (ID 71926125, na origem). Nota-se que foi expedido mandado de intimação para a esposa do agravante, MARIA DE LOURDES SOARES DA SILVA, acerca da penhora dos direitos aquisitivos do imóvel supracitado (ID 80871438, na origem), porquanto o executado/agravante é casado em regime universal de bens. Contudo, todas as diligências restaram infrutíferas. Comprova-se pela certidão juntada ao ID 176020655 dos autos originários, que foi determinada nova expedição de mandado de intimação para a esposa do agravante, a fim de que se manifeste acerca da avaliação do imóvel, bem como da penhora determinada sobre os direitos aquisitivos. No entanto, até o presente momento, não houve o retorno do mandado" (fl.124).
+Verifica-se que não houve impugnação dos referidos fundamentos do acórdão recorrido. Incide, portanto, a Súmula n. 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo .
+Publique-se e intimem-se.
+EMENTA
