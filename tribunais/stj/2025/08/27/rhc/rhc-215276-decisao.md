@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por CAUA MOREIRA RODRIGUES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O Tribunal de Justiça de Minas Gerais denegou a ordem de habeas corpus, mantendo a prisão preventiva decretada em desfavor do recorrente, pela suposta prática do crime tipificado no art. 33 da Lei 11.343/2006.
+Consta dos autos que o paciente foi preso em flagrante delito no dia 24 de março de 2025, pela suposta prática do crime tipificado no art. 33, caput, da Lei 11.343/2006 (tráfico de drogas).
+Segundo a narrativa fática, um usuário de entorpecentes procurou a Polícia Militar, relatando ter sido vítima de ameaças com arma de fogo por parte de traficante no local conhecido como "boca da Macumba", tendo entregue dinheiro para aquisição de drogas, mas sendo coagido a se retirar do local sem receber o produto.
+O Juízo de primeiro grau converteu a prisão em flagrante em preventiva, fundamentando a decisão na gravidade concreta da conduta, na quantidade expressiva de entorpecentes apreendida, e na necessidade de garantir a ordem pública.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de Minas Gerais, alegando a ausência dos requisitos autorizadores da prisão preventiva e postulando a concessão da ordem ou, subsidiariamente, a substituição da custódia por medidas cautelares diversas previstas no art. 319 do CPP.
+O Tribunal de origem denegou a ordem, consignando que a manutenção da prisão preventiva se encontra devidamente fundamentada, diante da gravidade concreta da conduta, revelada pela suposta atuação hostil do paciente que, em tese, valeu-se de arma de fogo artesanal para ameaçar um usuário de drogas. Ressaltou que as condições pessoais favoráveis do agente não garantem o direito à liberdade provisória, quando presentes os requisitos do art. 312 do CPP, sendo incabível a substituição por medidas cautelares diversas, diante da insuficiência destas para o caso concreto (fls. 218/222).
+No presente recurso em habeas corpus, a defesa reitera os argumentos expendidos no habeas corpus originário, sustentando a ilegalidade da prisão preventiva e postulando a concessão da ordem ou a substituição da custódia por medidas menos gravosas (fls. 231/236).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 374/377).
+É o relatório. DECIDO.
+O recurso ordinário em habeas corpus não merece provimento.
+No caso, a prisão preventiva encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta.
+No ponto, consta do acórdão hostilizado:
+"Consta dos autos que policiais militares realizavam patrulhamento, quando um usuário de drogas os abordou e noticiou que foi até local conhecido como "boca da Macumba" para comprar drogas, mas, quando entregou o dinheiro para o vendedor, esse lhe apontou uma arma de fogo e determinou que fosse embora.
+Diante de tais informações, os policiais deslocaram-se para o local, onde realizaram campana e visualizaram, supostamente, o paciente, Cauã, pegando pinos de cocaína dentro de uma sacola e recebendo dinheiro de determinada pessoa, ou seja, realizando típica mercancia de drogas.
+Nesse contexto, os militares abordaram o paciente e com ele foram localizadas, em tese, 19 buchas de maconha (31,6 g), 156 pinos de cocaína (193,4 g). Ademais, os policiais, por meio da utilização de cão farejador, supostamente localizaram, nos entulhos próximos, uma arma de fogo de fabricação artesanal e munições de calibre 45.
+ ..
+As drogas localizadas (19 buchas de maconha -pesando 31,6 g -156 pinos de cocaína -com massa de 193,4 g) comprovam que a sua quantidade e natureza não são desconsideráveis.
+Ademais, somada às drogas fracionadas e à constatação da suposta mercancia de drogas, foi localizada a arma de fogo artesanal, em tese, utilizada pelo paciente para a prática do delito de tráfico e para, no caso, ameaçar o usuário de drogas.
+Assim, o contexto fático da prisão -qual seja, um usuário que tentava comprar drogas do paciente foi por ele supostamente ameaçado com uma arma de fogo, sendo que Cauã ficou com o dinheiro do usuário -demonstra a suposta atuação hostil do paciente, que, em tese, durante a transação da substância ilícita, valeu-se de arma de fogo artesanal para ameaçar um usuário de drogas.
+Verifica-se, portanto, o suposto modo de atuação do paciente é mais gravoso que o usual ao crime em análise. Logo, os elementos contidos nos autos demonstram possibilidade de dedicação do paciente à atividade criminosa e indicam, ao menos por ora, gravidade concreta da conduta, não sendo possível se falar em desproporcionalidade da medida cautelar.
+Embora o paciente seja primário e possua bons antecedentes, é pacífico na doutrina e na jurisprudência que as eventuais condições pessoais favoráveis do agente não obstam sua segregação provisória, desde que essa se manifeste necessária nos termos do art. 312 do Código de Processo Penal, como no caso dos autos.
+Igualmente, no caso concreto, é incabível a substituição da prisão por alguma outra medida cautelar, conforme disposto no artigo 282, §6º, do CPP, pois, além de estarem presentes os requisitos da restrição da liberdade, as circunstâncias específicas narradas acima demonstram a insuficiência de tais medidas." (fls. 220/222).
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar, para a garantia da ordem pública.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha).
+A essa altura, condições pessoais favoráveis, mesmo quando devidamente comprovadas, não são aptas, isoladamente, a afastarem a custódia, se há nos autos elementos suficientes a demonstrar a sua necessidade, como é o caso.
+Também não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Assim, como já apontado inicialmente, a prisão preventiva do recorrente encontra-se devidamente fundamentada, com base em elementos concretos que demonstram a necessidade da custódia para garantia da ordem pública e para evitar a reiteração delitiva.
+O acórdão recorrido analisou adequadamente os elementos dos autos, concluindo pela manutenção da medida extrema, com base em fundamentação idônea e suficiente.
+As circunstâncias específicas do caso - emprego de arma de fogo, ameaças a usuários, quantidade expressiva de drogas e organização do esquema de tráfico - justificam a custódia preventiva e afastam a possibilidade de substituição por medidas menos gravosas.
+Ante o expos to, de acordo com o artigo 34, inciso XVIII, alínea "b", do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
