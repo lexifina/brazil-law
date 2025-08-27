@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA AURILEDA ROCHA BARREIRA e OUTRAS contra a decisão, de e-STJ fls. 656/661, em que neguei provimento ao recurso ordinário, considerando o entendimento do STJ de que: a) a Lei estadual n. 14.969/2011, que alterou a redação da Lei n. 13.439/2004, estabeleceu nova sistemática de quantificação do valor do prêmio por desempenho fazendário devido aos aposentados e pensionistas, correspondente à quantia proporcional ao percentual do valor dos proventos por ela recebido. Assim, havendo implementação de aposentadoria/pensão de maneira proporcional ao tempo de serviço, com vencimentos, por consequência proporcionais, as gratificações e vantagens posteriormente agregadas a tais vencimentos devem obedecer ao mesmo critério utilizado para sua concessão, qual seja, a observância da proporcionalidade, sendo certo que a exclusão dos proventos de aposentadoria de valores ou verba remuneratória considerada ilegal ou inconstitucional não maltrata a garantia de irredutibilidade dos vencimentos; b) os valores indevidamente pagos por força de decisão judicial precária posteriormente revogada são passíveis de devolução, não havendo que falar em boa-fé a amparar a não devolução.
+A parte embargante alega que a decisão foi omissa quanto à alegação de que "a alteração na forma de cálculo do Prêmio por Desempenho Fiscal (PDF) recebido pelas aposentadas, proporcionalizando-o de acordo com o percentual aplicado aos seus proventos de aposentadoria, implicou na redução do valor nominal global do benefício previdenciário, havendo flagrante violação ao princípio constitucional da irredutibilidade de vencimentos, insculpido no art. 37, inc. XV da Constituição Federal" (e-STJ fl. 666).
+Busca a manifestação expressa acerca dos arts. 37, XV, e 194, IV, da Constituição Federal.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, não assiste razão ao embargante.
+Com efeito, fic ou explicitamente consignado na decisão ora embargada que a exclusão, dos proventos de aposentadoria, de valores ou verba remuneratória considerada ilegal ou inconstitucional não maltrata a garantia de irredutibilidade dos vencimentos.
+Assim, não há nenhuma omissão a ser sanada quanto ao mérito da quaestio.
+Ainda, nos termos da Súmula 356 do STF, a mera oposição de embargos declaratórios neste Tribunal já preenche o requisito do prequestionamento para fins de interposição de recurso extraordinário.
+Por fim, registre-se que o inconformismo com o resultado da lide não pode servir de argumento à interposição continuada de recursos, como ocorre na presente hipótese, especialmente diante da ausência de vícios no julgado.
+Ante o exposto, REJEITO os embargos de declaração.
+Intimem-se. Publique-se.
+EMENTA
