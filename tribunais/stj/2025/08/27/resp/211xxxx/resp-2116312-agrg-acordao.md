@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. QUEIXA-CRIME. DISPONIBILIZAÇÃO DE VÍDEO POR MEIO DE QR CODE. PREJUÍZO NÃO DEMONSTRADO. ACESSO AO CONJUNTO PROBATÓRIO OPORTUNIZADO. CONTRADITÓRIO E AMPLA DEFESA RESPEITADOS. AUSÊNCIA DE ILEGALIDADE NO MÉTODO DE DISPONIBILIZAÇÃO DA MÍDIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPR OVIDO.
+1. A disponibilização do vídeo por meio de "QR code" pela parte adversa não padeceu de qualquer nulidade, principalmente considerando-se que não houve óbice para que as partes acessassem ao seu conteúdo.
+2. Não foi demonstrado, no caso concreto, qualquer prejuízo à defesa do recorrente com a disponibilização do vídeo por meio de "QR code" que direciona o usuário à página da internet em que o vídeo se encontra publicado, tendo sido respeitados os direitos das partes, notadamente ao contraditório e à ampla defesa.
+4. Para infirmar o que restou decidido pelo Tribunal de origem, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em recurso especial interposto por ORLANDO MORANDO JUNIOR contra decisão por mim proferida, no sentido de não conhecer do recurso especial.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 1024-1028, a saber:
+Trata-se de recurso especial interposto por Orlando Morando Júnior, com fundamento no art. 105-III-a da Constituição, contra o acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento a sua apelação.
+Consta nos autos que Luiz Marinho apresentou queixa-crime em face de Orlando Morando Júnior, então Prefeito Municipal de São Bernardo do Campo/SP, uma vez que este teria proferido inúmeras ofensas contra o querelante, tipificando os crimes de calúnia, injúria e difamação. A queixa- crime foi oferecida perante o Tribunal de Justiça do Estado de São Paulo, no entanto a Corte afastou o foro por prerrogativa de função, determinando a remessa dos autos ao Juízo de São Bernardo do Campo/SP.
+O Juiz de Direito julgou improcedente a queixa com relação aos crimes de calúnia e difamação e entendeu que remanesceria o crime de injúria.
+Determinou, em consequência, a redistribuição dos autos para o Juizado Especial Criminal, para o julgamento do crime de injúria, de menor potencial ofensivo.
+Ambas as partes apelaram ao Tribunal de Justiça do Estado de São Paulo, tendo a Corte negado provimento ao recurso do querelante e dado parcial provimento ao recurso do querelado, nos termos da seguinte ementa (fls. 808 /809):  ..
+Neste recurso especial, o recorrente afirma que o acórdão negou vigência aos arts. 158-A, 158-B e 564-IV do Código de Processo Penal. Assevera que o querelante não tomou as providências necessárias para fornecer ao juízo os meios adequados de acesso ao conjunto probatório, uma vez que o vídeo, que demonstra a materialidade delitiva, foi introduzido em página de rede social pelo próprio querelante, sem prova de publicação pelo querelado. Acrescenta que a mídia não foi juntada aos autos ou depositada em cartório.
+Sustenta que "o Querelante é o responsável pela "divulgação" das palavras tidas como ofensivas em sua própria página. Em vez de fornecer ao juízo meios idôneos de acesso à mídia, juntando-a em cartório, limitou-se a indicar, no bojo da inicial, um QR Code que leva, surpreendentemente, a seu próprio canal na plataforma YouTube. Dito de outro modo, a acusação não comprova a publicação pelo Querelado, o que é de sua exclusiva responsabilidade." (fls. 836).
+Conclui que não há prova suficiente para o prosseguimento da ação penal, porque não há evidências seguras da materialidade delitiva.
+Pede a anulação da ação penal desde o início.
+O recurso especial foi admitido na origem (fls. 929).
+Ao final, o Parquet opinou pelo não provimento do recurso especial (e-STJ fl. 1028).
+Na sequência, este Relator não conheceu do recurso especial (e-STJ fls. 1030-1034).
+Daí o presente agravo regimental, em que o agravante pugna pelo provimento do recurso especial interposto (e-STJ fls. 1038-1053).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. QUEIXA-CRIME. DISPONIBILIZAÇÃO DE VÍDEO POR MEIO DE QR CODE. PREJUÍZO NÃO DEMONSTRADO. ACESSO AO CONJUNTO PROBATÓRIO OPORTUNIZADO. CONTRADITÓRIO E AMPLA DEFESA RESPEITADOS. AUSÊNCIA DE ILEGALIDADE NO MÉTODO DE DISPONIBILIZAÇÃO DA MÍDIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPR OVIDO.
+1. A disponibilização do vídeo por meio de "QR code" pela parte adversa não padeceu de qualquer nulidade, principalmente considerando-se que não houve óbice para que as partes acessassem ao seu conteúdo.
+2. Não foi demonstrado, no caso concreto, qualquer prejuízo à defesa do recorrente com a disponibilização do vídeo por meio de "QR code" que direciona o usuário à página da internet em que o vídeo se encontra publicado, tendo sido respeitados os direitos das partes, notadamente ao contraditório e à ampla defesa.
+4. Para infirmar o que restou decidido pelo Tribunal de origem, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar.
+Preliminarmente, é cabível registrar, quanto à decisão monocrática proferida, acerca das reiteradas manifestações desta Corte no sentido de que "não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental" (AgRg no RHC n. 147.556/MT, Ministra LAURITA VAZ, Sexta Turma, DJe 25/6/2021).
+Nesse sentido, confiram-se ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONCESSÃO DO WRIT POR DECISÃO MONOCRÁTICA DO RELATOR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADO. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO (ART. 12 DA LEI N. 10.826/2003). PEQUENA APREENSÃO DE MUNIÇÃO (3 MUNIÇÕES DO TIPO OGIVAL CALIBRE 12), DESACOMPANHADA DE ARMA DE FOGO. BEM JURÍDICO. INCOLUMIDADE PÚBLICA PRESERVADA. PERIGO NÃO CONSTATADO. INEXISTÊNCIA DE POTENCIALIDADE LESIVA. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE.
+1. A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante. III - Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral (AgRg no HC n 654.429/SP, Ministro Felix Fischer, Quinta Turma, DJe 7/6/2021).
+ ..
+4. Agravo regimental improvido
+(AgRg no HC 536.663/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada não descurou do princípio da colegialidade, visto que visualizou situação abarcada pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal (aplicável também ao recurso em habeas corpus, por força do art. 246 do RISTJ), que autoriza o Relator a decidir o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+ ..
+4. Agravo regimental não provido
+(AgRg no RHC 147.759/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+Avançando, não obstante os argumentos constantes do agravo regimental interposto, tenho que inexistem motivos para a reforma da decisão ora agravada.
+Conforme consignado naquela oportunidade, o Tribunal de origem, analisando os elementos fáticos probatórios colacionados aos autos, manifestou-se nos termos seguintes sobre a nulidade suscitada pela defesa (e-STJ fls. 725-727):
+Ainda, no tocante à alegação de inidoneidade do método de fornecimento da mídia, verifica-se que a questão também já foi enfrentada por esta C. 8ª Câmara no julgamento do Habeas Corpus nº 2194243-75.2021.8.26.0000, oportunidade em que restou consignado que:
+"O querelante narrou que as supostas ofensas perpetradas pelo paciente teriam ocorrido durante transmissão ao vivo pela rede social Facebook, razão pela qual declinou, na inicial, o QR Code para acesso ao respectivo vídeo no qual consta o pronunciamento do paciente durante o evento descrito na denúncia.
+A indicação do QR Code permite o acesso ao conteúdo do vídeo, conforme conferido pela i. Magistrado, pelo d. Procurador de Justiça e, agora, por este Relator.
+Não bastasse, o querelante transcreveu na exordial as ofensas, em tese, proferidas pelo paciente, restando, portanto, assegurado o exercício do contraditório e da ampla defesa. Salienta-se que o fato de o QR Code direcionar à página do Youtube do querelante, não é apto a justificar o trancamento da ação penal, até porque o aludido atalho direciona ao local onde está armazenado o respectivo vídeo, como forma de demonstrar o conteúdo das manifestações expostas pelo paciente em transmissão ao vivo, não se olvidando, como bem observou o i. Julgador, que a defesa "não apontou concretamente em que consistiu o vício quanto à higidez, fiabilidade e integridade do vídeo mantido nos servidores do Google e do Youtube" (fls. 86).
+Vale frisar que vigora no processo penal ampla liberdade probatória, que permite às partes se valerem de meios de prova nominados (previstos expressamente em lei processual) ou inominados.
+Neste ponto, peço vênia para reiterar o argumento do i. Procurador de Justiça no sentido de que "a disponibilização da prova via link ou QR Code vem sendo largamente utilizada em processos eletrônicos, como reflexo da inevitável evolução tecnológica, sem que tal iniciativa implique prejuízo ao direito de acesso à prova, uma das consequências da amplitude de defesa" (fls. 148)."
+O mesmo entendimento vale para a alegada ausência de prova da cadeia de custódia da prova, uma vez que não houve impugnação da defesa sobre o conteúdo das expressões contidas no vídeo e transcritas na inicial acusatória, não havendo qualquer suspeita de edição ou manipulação indevida da prova, sendo certo que o próprio querelado admitiu ter proferido as expressões citadas por ocasião de sua live em rede social.
+Ressalte-se, ademais, que, em caso paradigmático, o C. Superior Tribunal de Justiça concluiu que "a violação da cadeia de custódia não implica, de maneira obrigatória, a inadmissibilidade ou a nulidade da prova colhida, devendo eventuais irregularidades serem sopesadas com os demais elementos produzidos na instrução criminal, de modo a avaliar a confiabilidade da prova inquinada" (HC n. 653.515/RJ, rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. em 23/11/2021).
+Assim, como bem observado pelo magistrado a quo, as irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável.
+Es pecificamente sobre a alegada nulidade, reitero os fundamentos lançados na decisão agravada (e-STJ fls. 1032-1033):
+A matéria ora trazida à lume, como se observa dos autos, foi devida e adequadamente apreciada em duas instâncias no Tribunal de origem, tendo sido validamente rejeitados os argumentos suscitados pela defesa.
+Diante desses adequados fundamentos, não se vislumbra, no caso em exame, qualquer ilegalidade apta a justificar o acolhimento do pedido defensivo.
+Ademais, não foi demonstrado, no caso concreto, qualquer prejuízo à defesa do recorrente com a disponibilização do vídeo por meio de "QR code" que direciona o usuário à página da internet em que o vídeo se encontra publicado.
+Não constato qualquer ilegalidade no método de disponibilização da mídia, vez que foram respeitados os direitos das partes, notadamente ao contraditório e à ampla defesa.
+Destarte, não obstante a discordância do recorrente, a disponibilização do vídeo pela parte adversa não padeceu de qualquer nulidade, principalmente considerando-se que não houve óbice para que as partes acessassem ao seu conteúdo.
+Assiste razão ao Ministério Público Federal quando destaca que, no presente caso, "o Tribunal de Justiça afirma que não houve nenhuma irregularidade na produção das provas na ação penal. Assim como afirma o acórdão, o próprio querelado admitiu que proferiu as palavras citadas no vídeo em questão e não houve qualquer suspeita de edição ou manipulação indevida da prova"(e-STJ fl. 1028).
+Para infirmar o que restou decidido pelo Tribunal de origem, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em sede de recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+Observa-se que, in casu, as instâncias ordinárias concluíram pela licitude das provas, destacando que a disponibilização do vídeo pela parte adversa não padeceu de qualquer nulidade, principalmente considerando-se que não houve óbice para que as partes acessassem ao seu conteúdo.
+Não foi demonstrado, no caso concreto, qualquer prejuízo à defesa do recorrente com a disponibilização do vídeo por meio de "QR code" que direciona o usuário à página da internet em que o vídeo se encontra publicado.
+Destarte, não constato qualquer ilegalidade no método de disponibilização da mídia, vez que foram respeitados os direitos das partes, notadamente ao contraditório e à ampla defesa.
+Para infirmar o que restou decidido pelo Tribunal de origem, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+É cediço que "o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal" (AgRg no AREsp n. 2.409.008/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024).
+Nesse contexto, a decisão agravada deve ser mantida, uma vez que permanece a validade dos fundamentos que a sustentam e não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
