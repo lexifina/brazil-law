@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/08/2025 a 27/08/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Convém esclarecer, que conforme a jurisprudência deste Superior Tribunal, caracteriza-se o erro material como aquele perceptível de plano e de forma evidente, derivado de simples erro de cálculo aritmético ou inexatidão material, e não relativo a critérios e elementos de julgamento (EDcl no AgInt no REsp 1.750.573/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe de 26/8/2021).
+3. Os efeitos dos embargos declaratórios são limita dos, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão. No caso dos autos, não se constata no acórdão ora embargado o alegado vício relacionado a erro material, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+4. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA COELBA contra acórdão da Segunda Turma do STJ, assim ementado (fls. 932-933):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ICMS. ISENÇÃO. CONDIÇÃO DE BENEFICIÁRIO. ISENÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO 280 DA SÚMULA DO STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada violação ao art. 1.022 do CPC, verifica-se que a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o necessário reexame da matéria fático-probatória dos autos, bem como a análise dos documentos que instruem os autos de origem, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+3. Infere-se dos autos que, quanto ao direito de permanecer usufruindo do benefício fiscal, implicaria, necessariamente, a interpretação da previsão disposta no Regulamento do ICMS Bahia  Decreto 13.780/2012, analisado pelo acórdão recorrido. Sendo assim, para se chegar à conclusão diversa da que chegou a Corte Estadual, seria imprescindível a interpretação da legislação local, o que é inadmissível nesta via, consoante dispõe a Súmula 280 do STF.
+4. A análise do dissídio jurisprudencial, pela alínea c do permissivo constitucional, fica prejudicada quando for aplicado óbice processual ao recurso especial pela alínea a, no que tange à mesma matéria.
+5. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 948-962):
+Diante disso, por discordar do posicionamento do Eminente Relator, a Neoenergia COELBA interpôs Agravo Interno, em razão das violações:
+1. Ao art. 1.022, III do Código de Processo Civil, uma vez que o Egrégio Tribunal de Justiça do Estado da Bahia deixou de observar os aspectos da condição da Neoenergia COELBA como agente de arrecadação do ICMS, como da própria legitimidade ativa para instituição do imposto;
+2. Ao entendimento consolidado do Colendo Superior Tribunal de Justiça acerca da ilegitimidade passiva das concessionárias de energia elétrica em pleitos de natureza tributária (repetição do indébito, declaração de inexistência de relação jurídico- tributária ou anulatória de lançamento) e
+3. Ao artigo 179 do Código Tributário Nacional, o dispositivo da legislação federal prevê expressamente que a isenção será efetivada pela autoridade competente quando atendido os requisitos dispostos em lei, contexto em que a Neoenergia COELBA, caso o benefício não seja concedido ao consumidor, terá, obrigatoriamente, que cobrar o ICMS nas faturas de energia elétrica.
+Nesse sentido, foi interposto Agravo em Recurso Especial, impugnando, de forma específica, todos os itens que fundamentaram a inadmissão do Recurso Especial, quais sejam: a) Inaplicabilidade da Súmula 280/STF e b) Inaplicabilidade da Súmula 7/STJ e c) Violação ao art. 1.022 do CPC.
+Verifica-se, com a leitura do acórdão, que incorrem em erros materiais as alegações de aplicabilidade da Súmula 7 do STJ, bem como da falta de vícios na decisão recorrida, estritamente genérica, e que não enfrenta os temas trazidos em sede de Agravo em Recurso Especial interposto pela Neoenergia COELBA. Por tal razão, cabíveis os presentes aclaratórios.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Convém esclarecer, que conforme a jurisprudência deste Superior Tribunal, caracteriza-se o erro material como aquele perceptível de plano e de forma evidente, derivado de simples erro de cálculo aritmético ou inexatidão material, e não relativo a critérios e elementos de julgamento (EDcl no AgInt no REsp 1.750.573/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe de 26/8/2021).
+3. Os efeitos dos embargos declaratórios são limita dos, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão. No caso dos autos, não se constata no acórdão ora embargado o alegado vício relacionado a erro material, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+4. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+Convém esclarecer, que conforme a jurisprudência deste Superior Tribunal, caracteriza-se o erro material como aquele perceptível de plano e de forma evidente, derivado de simples erro de cálculo aritmético ou inexatidão material, e não relativo a critérios e elementos de julgamento (EDcl no AgInt no REsp n. 1.750.573/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe de 26/8/2021).
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício relacionado a erro material, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno não deveria ser provido, constando, expressamente, que:
+ ..  2 - Da incidência da Súmula 7 do STJ e, por analogia, da Súmula 280 do STF
+Ademais, em relação à alegada violação ao art. 179 do CTN, verifica-se que, nos termos do trecho do acórdão acima destacado, para o Tribunal de origem chegar à conclusão acerca dos requisitos e condições para a concessão do benefício de isenção pleiteada, fez-se imperioso o exame da documentação acostada nos autos, levando em consideração os fatos e circunstâncias relacionados à matéria. Vejamos (fls. 417- 421):
+Relativamente ao direito de permanecer usufruindo do benefício da isenção fiscal, extrai-se dos autos que não houve qualquer alteração na natureza jurídica da Associação de produtores rurais recorrente que tem por fim o bombeamento de águas para irrigação, assegurando-se-lhe a manutenção da isenção na forma disciplinada expressamente no art. 264, IV, a, do Regulamento do ICMS BAHIA - Decreto 13780/2012, cujo texto originário se transcreve in verbis:
+ ..
+Contudo, tal alteração em nada repercutiu na Associação apelante. A partir de então, tem-se a isenção do ICMS em estabelecimento de produtor rural sobre o consumo total da energia destinada a irrigação foi estendida às entidades sem fins lucrativos que possuam termo de delegação ou convênio firmado com a Companhia de Desenvolvimento dos Vales do São Francisco - CODEVASF, e às instituições cadastradas como "produtor rural" junto ao Ministério da Agricultura, Pecuária e Abastecimento que utilizem energia elétrica para irrigação, desde que essas se recadastrem junto à empresa fornecedora de eletricidade, declarando a destinação da energia elétrica a ser consumida como sendo para fins de irrigação.
+Conclui-se, portanto, que dita alteração legislativa em nada alcançou a recorrente, eis que não modificou a condição do produtor rural para fruição da isenção, com já anteriormente assegurado.
+Nos autos, observo que a Associação recorrente protocolou em 26.3.2015 Processo Administrativo (PAF) de nº 13215120159, junto a Secretaria da Fazenda do Estado da Bahia-SEFAZ, alegando não necessitar de recadastramento exigido pela COELBA, para ser mantida isenção do ICMS, haja vista que não se alterou sua condição de produtor rural.
+Dessa forma, uma vez que, no presente caso, a inversão do julgado implicaria, necessariamente, o reexame do acervo fático-probatório dos autos, torna-se inviável a via escolhida.
+ ..
+Outrossim, infere-se dos autos que, quanto ao direito de permanecer usufruindo do benefício fiscal, implicaria, necessariamente, a interpretação da previsão disposta no Regulamento do ICMS Bahia - Decreto 13.780 /2012, analisado pelo acórdão recorrido (fls. 417- 419, grifo nosso):
+Relativamente ao direito de permanecer usufruindo do benefício da isenção fiscal, extrai-se dos autos que não houve qualquer alteração na natureza jurídica da Associação de produtores rurais recorrente que tem por fim o bombeamento de águas para irrigação, assegurando-se-lhe a manutenção da isenção na forma disciplinada expressamente no art. 264, IV, a, do Regulamento do ICMS BAHIA - Decreto 13780/2012, cujo texto originário se transcreve in verbis:
+CAPÍTULO VI
+DA ISENÇÃO
+Art. 264. São isentas do ICMS, podendo ser mantido o crédito fiscal relativo às entradas e aos serviços tomados vinculados a essas operações ou prestações:
+I - as saídas de bens destinados a utilização ou a guarda em outro estabelecimento da mesma empresa, quando efetuadas por estabelecimento de empresa concessionária de serviço público de energia elétrica (Conv. AE 05/72);
+II - as saídas de mercadorias para fins de assistência a vítimas de calamidade pública, bem como nas prestações de serviços de transporte daquelas mercadorias, desde que o estado de calamidade tenha sido declarado por ato expresso do Poder Executivo Federal, Estadual ou Municipal, sendo as saídas decorrentes de doações a entidades governamentais ou a entidades assistenciais reconhecidas de utilidade pública e que atendam aos seguintes requisitos (Conv. ICM 26/75):
+a) não distribuam qualquer parcela do seu patrimônio ou de suas rendas, a título de lucro ou de participação em seus resultados;
+b) apliquem integralmente, no País, os seus recursos, na manutenção dos objetivos institucionais;
+c) mantenham escrituração de suas receitas e despesas, em livros revestidos de formalidades capazes de assegurar sua exatidão;
+III - as saídas de (Conv. ICM 44/75): a) ovos, nas operações internas; b) pintos de um dia;
+IV - os fornecimentos de energia elétrica para consumo em estabelecimento de produtor rural (Conv. ICMS 76/91):
+a) sobre o consumo total da energia destinada a irrigação, com a condição de que os produtores rurais que utilizarem energia elétrica para irrigação se recadastrem junto à empresa fornecedora de eletricidade, declarando a destinação da energia elétrica a ser consumida como sendo para fins de irrigação;
+b) até 100 kwh, quando destinada a outros fins;
+Cediço que, em 2014, através do Decreto 15.661, de 01/11/2014 (publicado em 18/11/2014), a alínea "a" do inciso IV do art. 264 do Regulamento do ICMS BAHIA (Decreto 13.780/2012) acima reproduzido passou a vigorar com a seguinte redação:
+Art. 264 ..
+IV - os fornecimentos de energia elétrica para consumo em estabelecimento de produtor rural (Conv. ICMS 76/91):
+a) sobre o consumo total da energia destinada a irrigação, com a condição de que os produtores rurais, as entidades sem fins lucrativos que possuam termo de delegação ou convênio firmado com a Companhia de Desenvolvimento dos Vales do São Francisco (CODEVASF) e as instituições cadastradas como produtor junto ao Ministério da Agricultura, Pecuária e Abastecimento que utilizarem energia elétrica para irrigação se recadastrem junto à empresa fornecedora de eletricidade, declarando a destinação da energia elétrica a ser consumida como sendo para fins de irrigação; Sendo assim, para se chegar à conclusão diversa da que chegou a Corte Estadual, seria imprescindível a interpretação da legislação local, o que é inadmissível nesta via, consoante dispõe a Súmula 280 do STF.
+ ..
+3 - Da divergência jurisprudencial
+De outra parte, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea do permissivo a constitucional impedem a análise recursal pela alínea , ficando prejudicada a c apreciação do dissídio jurisprudencial referente ao mesmos dispositivos de lei federal apontados como violados ou à tese jurídica (fls. 935-.
+Nota-se, portanto, que a irresignação contra o suposto erro material da decisão embargada, na verdade, refere-se à insatisfação em relação ao resultado do julgado, não podendo ser corrigido a qualquer momento.
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; e EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
