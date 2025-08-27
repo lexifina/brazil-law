@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se embargos de declaração opostos por MATHEUS MARTINS GAMBARDELA e FERNANDA BRAZÃO GAMBARDELA contra decisão unipessoal que, a par de conhecer do agravo, conheceu e negou provimento ao recurso especial que interpuseram, nos termos da seguinte ementa (e-STJ fl. 1516):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA C/C SUSPENSÃO DOS EFEITOS DO LEILÃO E NULIDADE DE CLÁUSULA CONTRATUAL. VALOR DA ARREMATAÇÃO INFERIOR A 50% DA AVALIAÇÃO. PREÇO VIL. CARACTERIZADO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação anulatória c/c suspensão dos efeitos do leilão e nulidade de cláusula contratual.
+2. É entendimento do STJ que, muito embora o art. 27, § 2º, da Lei 9.514/97 autorize a venda do imóvel em segundo leilão pelo valor da dívida, a arrematação não poderá ser realizada por preço vil, assim considerado aquele inferior a 50% (cinquenta por cento) do valor de avaliação, sob pena de causar um prejuízo exagerado em desfavor do devedor fiduciante.
+3. Agravo conhecido. Recurso especial conhecido e não provido.
+Nas razões do presente recurso, afirma a parte embargante que a decisão embargada teria sido omissa quanto ao pedido de conversão da anulação do leilão em perdas e danos.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, a despeito das alegações ora aduzidas pela parte embargante, o que se verifica é que a decisão embargada foi devidamente clara e fundamentada acerca da incidência da Súmula 568/STJ, considerando a consonância do acórdão recorrido com o entendimento dominante sobre o tema nesta Corte Superior no sentido de que "muito embora o art. 27, § 2º, da Lei n. 9.514/97 autorize a venda do imóvel em segundo leilão pelo valor da dívida, a arrematação não poderá ser realizada por preço vil, assim considerado aquele inferior a 50% do valor de avaliação, sob pena de causar um prejuízo exagerado em desfavor do devedor fiduciante" (AREsp 2.818.110/SC, Terceira Turma, DJEN de 23/4/2025; AgInt no AREsp 2.538.428/SP, Quarta Turma, DJe de 3/10/2024; AgInt nos EDcl no REsp 1.931.921/SP, Terceira Turma, DJe de 25/11/2021; AgInt no AREsp 1.829.885/SP, Quarta Turma, DJe de 17/6/2021), não havendo que falar, portanto, em omissão do decisum.
+Cumpre frisar que, no que se refere ao pedido de conversão da anulação do leilão em perdas e danos (e-STJ fl. 1393), verificou-se a ausência de fundamentação apta a ensejar a análise do pleito deduzido pela parte ora embargante.
+Outrossim, apenas a título de reforço argumentativo, constata-se, também, a deficiência de fundamentação, ante a ausência de indicação dos dispositivos de lei que teriam sido violados pelo aresto recorrido no ponto, bem como que o Tribunal Regional de 3ª Região não decidiu acerca do referido pedido da parte embargante, restando ausente o devido prequestionamento, o que atrai a aplicação das Súmulas 284/STF e 211/STJ, respectivamente.
+Na verdade, a pretexto de omissão, verifica-se que a parte embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada na decisão embargada e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração rejeitados.
