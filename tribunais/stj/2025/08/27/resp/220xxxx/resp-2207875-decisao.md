@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 468):
+BANCÁRIO. RESTITUIÇÃO DE VALORES. Sentença de improcedência. RESPONSABILIDADE DAS INSTITUIÇÕES FINANCEIRAS. Descabimento. Simples possibilidade de abertura de conta corrente que não guarda relação com o prejuízo sofrido, oriundo de ação direta da apelante, não havendo nexo de causalidade entre a existência das contas e o ilícito experimentado. Inaplicável ao caso o enunciado de súmula nº 479 do STJ. Sentença confirmada nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Apelação desprovida. Honorários majorados.
+Em suas razões (fls. 474-497), a parte recorrente aponta dissídio jurisprudencial, violação do art. 14 do CDC e desrespeito à Súmula n. 479/STJ, porque (fls. 488-495 - grifos no recurso):
+Apesar de os Recorridos não terem participação direta na aplicação do golpe, falharam na prestação dos serviços na medida em que possibilitaram a abertura de conta corrente para estelionatários, mediante apresentação de documentos roubados ou falsos.
+Os Recorridos jamais conseguiram comprovar a regularidade das contas recebedoras dos valores.
+ ..
+Ao falhar na prestação dos serviços, os Bancos, além de beneficiarem os criminosos, impedem as vítimas de identificar os verdadeiros responsáveis pelas fraudes ocorridas.
+ ..
+Incontroverso é que houve vício no serviço prestado, já que a fraude somente pode ser concluída em razão da falha na prestação do serviço dos Recorrentes que jamais comprovaram qualquer das excludentes de sua responsabilidade, nem a regularidade de sua conduta.
+Contrarrazões apresentadas (fls. 500-517).
+O recurso foi admitido na origem (fls. 519-521).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal a quo adotou os fundamentos da sentença segundo os quais (fls. 469-470 - grifos no acórdão):
+ ..  inexiste nexo etiológico entre as condutas do Bancos Bradesco, Fibra e Arbi e o evento danoso sob escrutínio. Com efeito, nota-se pelo exame dos autos que tais instituições financeiras são meras detentoras das contas correntes titularizadas pelos fraudadores, inexistindo qualquer irregularidade na prestação de serviços financeiros pelos requeridos. Acrescenta-se a isso o fato de que as operações impugnadas foram conscientemente realizadas pela autora, funcionando os réus apenas como intermediadores de operação cuja essência, ao menos a princípio, até a própria requerente considerava legítima. Ora, não podem os demandados ser responsabilizados por ter exatamente a conduta que deles se espera, que é a de oferecer ao solvens uma forma de pagar e ao accipiens uma maneira de receber. Impende ressaltar ainda que os Bancos não integraram o negócio fraudulento, não elaboraram o esquema de pirâmide contra o qual se insurge e tampouco garantiram a idoneidade do negócio jurídico, sendo a mera prestação de serviços financeiros insuficiente para induzir a responsabilização dos requeridos em tela. O que se percebe, a bem da verdade, é que todo o imbróglio decorre de culpa exclusiva da consumidora vítima e de terceiros  ..
+Modificar o entendimento do acórdão impugnado quanto à culpa exclusiva da recorrente e de terceiros, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANO MORAL. ART. 400, I, DO CPC. SÚMULAS 282 E 356 DO STF. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS. SÚMULA 479 DO STJ. CULPA EXCLUSIVA DA VÍTIMA E DE TERCEIRO. REVISÃO DE FATOS E PROVAS. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça perfilha o entendimento de que se faz necessária a comprovação da existência de nexo de causalidade entre as atividades desempenhadas pela instituição financeira e o dano experimentado pela parte consumidora, excluindo-se a responsabilidade do banco em caso de fato exclusivo da vítima ou de terceiro, situação de força maior ou caso fortuito externo. Precedentes.
+2. No caso dos autos, o Tribunal de origem concluiu que não houve falha na prestação do serviço bancário, uma vez que não houve indicação de protocolo de atendimento ou print das telas aptos a comprovar o contato pelo site, que no boleto pago constam como pagador e beneficiário pessoas física e jurídica estranhas à relação negocial e que a negociação se desenvolveu por canal de comunicação não disponibilizado pelo banco nas informações disponíveis no site.
+3. A modificação do entendimento quanto à culpa exclusiva da vítima e de terceiro pelas transações bancárias demandaria o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.390.493/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/5/2025, DJEN de 5/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. CARTÃO DE CRÉDITO. USO DE CARTÃO COM CHIP E SENHA PESSOAL. AUSÊNCIA DE RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. REVISÃO. IMPOSSIBILIDADE. REFORMA DO ACÓRDÃO QUE DEMANDA REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ.
+ ..
+2. O Tribunal de origem, com base no acervo fático-probatório, atestou a ausência de nexo causal e de comprovação da fraude, não estando configurada a responsabilidade objetiva do instituição financeira. Incidência da súmula n. 83/STJ, uma vez que o acórdão recorrido está em consonância com a jurisprudência do STJ.
+3. A jurisprudência desta Corte é firme no sentido de não se poder rever o entendimento exarado no Tribunal de origem quanto à eventual ausência de responsabilidade civil objetiva e em razão da ausência de nexo causal, ante o óbice da Súmula n. 7/STJ, pois seria necessária nova incursão no acervo fático-probatório. Precedentes.
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.869.356/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+Por fim, quanto ao suposto desrespeito à Súmula n. 479/STJ, cumpre salientar que não cabe ao STJ apreciar violação de súmula em recurso especial, pois o enunciado não se insere no conceito de lei federal, incidindo no caso a Súmula n. 518/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
