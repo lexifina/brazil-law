@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ HENRIQUE ELIAS DOS SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0710390-47.2022.8.07.0001 (fls. 348/374).
+No recurso especial, requer-se a absolvição do recorrente por ausência de provas e a redução da pena-base (fl. 400).
+Apresentadas as contrarrazões, o Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7 e 83/STJ (fls. 413/415).
+O Ministério Público Federal apresentou parecer opinando pelo não provimento do Agravo (fls. 447/451).
+É o relatório.
+O agravo em recurso especial preenche os requisitos de admissibilidade.
+No que concerne à alegada violação da lei federal, consiste basicamente em pedido de absolvição por insuficiência probatória, já que o dispositivo legal supostamente violado seria o artigo 386, inciso V do Código de Processo Penal.
+Analisando o acórdão combatido, observa-se que a Corte de origem concluiu que o agravante praticou a conduta típica da qual foi acusado, e a pretensão defensiva é de apenas de rever isso, sem nenhuma outra tese jurídica, para afastar a condenação.
+Assim, para se acolher a tese apresentada no recurso especial, imprescindível seria a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante na Súmula 7/STJ.
+Quanto ao apenamento, esclareço que o legislador não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria e que, de fato, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade
+O controle do apenamento por parte do Superior Tribunal de Justiça, portanto, é um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+No caso dos autos, o apenamento base foi feito com a seguinte fundamentação (fls. 357/360 - grifo nosso):
+ ..
+Na primeira fase, a magistrada considerou desfavoráveis os antecedentes penais e a circunstância do artigo 42 da LAT e acresceu 1 (um) ano à pena-base, por cada circunstância judicial negativa, fixando a reprimenda inicial em 7 (sete) anos de reclusão.
+Os maus antecedentes, de fato, devem permanecer, a teor das seguintes certidões criminais:
+- autos nº 2017.03.1.016448-5, art. 180, CP, com pena de 1 ano de reclusão, em regime inicial semiaberto, com trânsito em julgado em 28/09/2018 (ID 42755297); e
+- autos nº 2017.07.1.003026-2, art. 155, § 4º, inc. IV, do CP, pena de 3 anos e 1 mês de reclusão, em regime inicial semiaberto, com trânsito em julgado em 07/12/2018 (ID42755303).
+No que se refere à natureza e à quantidade de droga, segundo o art. 42 da Lei 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente."
+A natureza e a diversidade dos entorpecentes, portanto são critérios idôneos para dosar as penas nos crimes de tráfico de drogas, conforme o disposto no art. 42 da Lei n. 11.343/2006.  ..
+Na hipótese, a quantidade de droga apreendida é expressiva e justifica o aumento da pena-base. Foram apreendidos 16,37g (dezesseis gramas e trinta e sete centigramas) de droga altamente letal que, segundo informações periciais, eram suficientes para produzir 163 porções (cento e sessenta e três porções). Como bem pontuado na sentença, o crack "(..) possui um efeito devastador, gerando uma verdadeira legião de zumbis, dispostos a praticar delitos patrimoniais para manter o vício e, em razão disso, tem sido causa de efeitos severamente nocivos à sociedade, trazendo caos e fomentando a vulneração da saúde e da segurança ao meio social,  ..
+Tocante ao acréscimo conferido, a Defesa pede seja reduzido para o patamar de 1/6 (um sexto) da pena mínima, ou seja, 8 (oito) meses, sob o argumento de que o acréscimo carece de fundamentação idônea.
+Com efeito, o pedido não pode ser acolhido.
+Com relação à quantidade de aumento, sabe-se que não há um parâmetro rígido para se fixar a pena-base. A quantidade de de aumento fica a critério da discricionariedade motivada do magistrado, notadamente pelo princípio da individualização da pena
+ ..
+Contudo, diante de manifesta ilegalidade, impõe-se a concessão de habeas corpus de ofício.
+Com efeito, para o crime de tráfico de drogas, a quantidade/natureza de entorpecente apreendido, 16,37 g de crack, é normal à espécie, não sendo fundamento hábil a justificar a exasperação da pena. Na hipótese, verifica-se excesso de rigor punitivo por parte das instâncias ordinárias.
+Nesse sentido, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, consoante o disposto no artigo 42 da Lei 11.343/2006. No presente caso, há desproporção no aumento da pena-base, pois, os fundamentos exarados, quais sejam, a natureza dos entorpecentes, considerando a pouca quantidade apreendidos, refletem elementos ínsitos ao crime, existindo, portanto, flagrante ilegalidade a justificar a concessão da ordem de ofício (HC n. 705.536/SC, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 25/2/2022 - grifo nosso).
+Desta forma, deve ser decotado o 1 ano acrescido à pena base em face das circunstâncias do artigo 42 da Lei n. 11.343/2006, a qual passa a ser de 6 anos de reclusão, sobre a qual deve incidir o aumento de 1/6 em face da reincidência reconhecida, sendo a pena definitiva fixada em 7 anos de reclusão, mais pagamento de 700 dias-multa.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial. Concedo habeas corpus, de ofício, para afastar a valoração negativa do vetor judicial da quantidade/natureza da droga apreendida, redimensionando as penas privativa de liberdade e pecuniária, nos termos da presente decisão.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PLEITO PARA ABSOLVIÇÃO. INVIABILIDADE DE ALTERAÇÃO. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. EXASPERAÇÃO DA PENA-BASE. FRAÇÃO DE AUMENTO. DISCRICIONARIEDADE DO JUÍZO ORDINÁRIO. PRESENÇA DE MANIFESTA ILEGALIDADE. PENA-BASE EXASPERADA COM SUPORTE EM FUNDAMENTO INIDÔNEO. QUANTIDADE E NATUREZA DA DROGA APREENDIDA NORMAIS À ESPÉCIE. 16,37 G DE CRACK. HABEAS CORPUS CONCEDIDO DE OFÍCIO. PENAS PRIVATIVA DE LIBERDADE E PECUNIÁRIA REDIMENSIONADAS.
+Agravo conhecido para negar provimento ao recurso especial. Concedido habeas corpus, de ofício, nos termos do dispositivo.
