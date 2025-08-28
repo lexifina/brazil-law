@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, conflito de competência suscitado pelo MM. Juiz de Direito da 1ª Vara da Fazenda Pública de Piracicaba/SP, nos autos da ação trabalhista ajuizada por Isabela Vitti, objetivando a integração ao salário do prêmio assiduidade instituído pela Lei Municipal n. 3.966/95, além de outras verbas trabalhistas.
+O TRT da 15ª Região, suscitado, declinou da competência para processamen to e julgamento do feito, arrazoando que (fls. 34-35):
+Na hipótese, a pretensão da reclamante se refere, de fato, a parcela de natureza administrativa, qual seja: reflexos do prêmio assiduidade instituído pela Lei Municipal n. 3.966/95.
+No mesmo sentido, há precedentes envolvendo o Município de Piracicaba, como o processo n. 0011708-66.2023.5.15.0012, de relatoria da Juíza Luciana Mares Nasr, e o processo de n. 0011693-97.2023.5.15.0012, de minha relatoria.
+Por tais razões, declara-se a incompetência material da Justiça do Trabalho para julgar o pedido de integração ao salário do prêmio assiduidade instituído pela Lei Municipal n. 3.966/95.
+O MM. Juiz de Direito da 1ª Vara da Fazenda Pública de Piracicaba/SP, suscitou o conflito de competência, registrando ser "incontroverso o vínculo celetista existente entre a parte autora (Professora de Ensino Fundamental) e o Município de Piracicaba, contrato de trabalho regido pela CLT (fls.29), tanto que é esta relação jurídica que fundamenta os pedidos da inicial" (fl. 1).
+O Ministério Público Federal apresentou parecer às fls. 64-66, opinando pela competência da Justiça Trabalhista.
+É o relatório. Decido.
+Presentes os pressupostos de admissibilidade, conheço do conflito de competência, nos termos do art. 105, I, "d", da Constituição Federal. Verifico a possibilidade de julgar o conflito de competência em epígrafe, de plano e monocraticamente, com fulcro no art. 955, parágrafo único, II, do Código de Processo Civil, e no art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, considerando que o Relator pode "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+No caso em exame, depreende-se dos documentos acostados aos autos que a relação jurídica estabelecida entre as partes é de natureza trabalhista.
+À luz do sólido entendimento da 1ª Seção deste STJ, segundo o qual compete à Justiça do Trabalho processar e julgar reclamação trabalhista ajuizada por servidores públicos municipais contratado sob o regime celetista.
+Na mesma linha de compreensão:
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. AÇÃO TRABALHISTA. CAUSA DE PEDIR. VÍNCULO CELETISTA COM MUNICÍPIO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+2. Após a Emenda Constitucional 45, de 31.12.2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+3. O STF, porém, ao examinar a questão nos autos da ADI 3.395/DF, em 5.4.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+4. Portanto, se o vínculo firmado entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (estadual ou federal), ao passo que, se o vínculo trabalhista for regido pela CLT, caberá à Justiça laboral.
+5. In casu, na esteira do Parecer do MP, o regime estatutário não chegou a ser implantado no Município reclamado em razão da declaração de inconstitucionalidade de lei complementar municipal que estabeleceu tal regime.
+6. Agravo Interno não provido.
+(AgInt no CC n. 185.318/GO, relator Ministro Herman Benjamin, Primeira Seção, julgado em 30/8/2022, DJe de 5/9/2022.)
+Este Superior Tribunal de Justiça vem decidindo conforme as seguintes decisões monocráticas: CC 198861, Ministra Regina Helena Costa, DJe 02/08/2023; CC 193340, Ministro Paulo Sérgio Domingues, DJe 12/04/2023; CC 170702, Ministro Og Fernandes, DJe 31/03/2020.
+Isso posto, com fulcro no art. 34, XXII, do RISTJ, ACOLHO O CONFLITO DE COMPETÊNCIA e declaro competente para apreciar e julgar a demanda em questão o TRIBUNAL REGIONAL DO TRABALHO DA 15ª REGIÃO, susc itado.
+Nos termos do art. 64, §4º, do Código de Processo Civil, as decisões proferidas pelo Juízo incompetente devem ser preservadas até que outra seja proferida, se for o caso, pelo juízo competente.
+Publique-se e comunique-se.
+EMENTA
