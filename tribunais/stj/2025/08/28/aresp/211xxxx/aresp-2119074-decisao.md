@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por ESPÓLIO DE SYLVIO MENDES AMADO, contra decisão que inadmitiu o recurso especial em razão das Súmulas n. 7 e 83 do STJ (fls. 974-976).
+O acórdão recorrido encontra-se assim ementado (fl. 678):
+APELAÇÕES CÍVEIS - AÇÃO DE COBRANÇA - PRELIMINARES DE SENTENÇA ULTRA PETITA, FALTA DE INTERESSE DE AGIR, INÉPCIA DA INICIAL E NULIDADE DA DECISÃO - AFASTADAS - MÉRITO - COMPRA E VENDA DE IMÓVEL - CONTRATO QUE PREVÊ O PAGAMENTO DE IPTU APÓS A ESCRITURA PÚBLICA - DIREITO A RESTITUIÇÃO DOS VALORES PAGOS - INADIMPLEMENTO CONTRATUAL - CLÁUSULA PENAL DEVIDA - LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA - DECISÃO MANTIDA - RECURSOS IMPROVIDOS. Denota-se que para configurar uma decisão ultra petita, é necessário que o magistrado ultrapasse os limites dos pedidos, ou seja, o julgador concede a tutela jurisdicional pedida, contudo, a excede. Afasto a alegada ofensa ao artigo 535, II, do Código de Processo Civil, porquanto o magistrado singular, ainda que implicitamente, examinou e decidiu todas as questões suscitadas, de tal modo que se impunha a rejeição dos aclaratórios. Correto o entendimento do magistrado, pois a cláusula III.6 do contrato estabelece que o domínio e a posse do imóvel seriam do vendedor até a concretização do contrato e a assinatura da escritura pública. Desta feita, enquanto o imóvel permanecia na posse do requerente, este era o responsável pelo pagamento dos tributos. No tocante à cláusula penal, convém esclarecer que é um instituto disciplinado nos artigos 408 a 416 do Código Civil, na qual consiste em pacto acessório, por meio do qual os contratantes, previamente, convencionam uma penalidade para as hipóteses de inadimplemento - total ou parcial - do contrato. Em relação a aplicação de multa por litigância de má-fé, entendo pela não configuração. Isto porque, não restou caracterizado que a requerente tenha praticado qualquer das condutas prevista no artigo 17 do Código de Processo Civil, mesmo porque utilizaram-se dos meios legais para a defesa de direitos.
+Os embargos de declaração foram rejeitados (fls. 705-708).
+A parte recorrida interpôs recurso especial e agravo nos próprios autos, provido para determinar o retorno dos autos à origem para que fosse sanada omissão (Aresp 917.428/MS).
+Houve novo julgamento dos embargos de declaração, acolhidos sem efeitos infringentes (fls. 871-873).
+Os subsequentes aclaratórios foram rejeitados (fls. 897-900 e 927-930).
+Nas razões do recurso especial (fls. 933-944), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação dos arts. 114, 115 e 116, I e II, do CTN alegando que (fls. 938-941):
+O acórdão recorrido entendeu por manter decisão do juízo "a quo" que condenou a recorrida ao pagamento do IPTU a partir da escritura formalizada em 11/03/2011, no entanto, contraditoriamente, deixou de condená-la pelo valor devido ao ano de 2011, eis que este teria vencido em janeiro e a escritura somente em março.
+Em que pesem os fundamentos apresentados, tem-se que o acórdão deve ser reformado, uma vez que ao excluir o ano de 2011, o Tribunal de origem claramente viola os limites objetivos do CTN e na CF, não considerando o fato gerador do imposto e seu exercício com base no ano fiscal.
+Como se sabe o IPTU, que tem por base de cálculo o ano fiscal, que é o termo usado para designar um período de um ano, no qual é feito o registro contábil das movimentações. No Brasil, o ano fiscal obrigatoriamente começa em 1º de janeiro e termina em 31 de dezembro.
+ ..
+No caso do IPTU, ele é composto por dois elementos: temporal e espacial. O fato gerador temporal se dá no momento da apuração do tributo, no caso o 1º dia do ano subsequente.
+Todavia, embora o lançamento se concretize no dia 1º de janeiro de cada exercício, a data de vencimento da prestação poderá ocorrer em outra data, como cota única, ou em parcelas mensais, trimestrais ou semestrais, todas vencíveis durante o decorrer do exercício. Deste modo, tendo o contribuinte o direito de pagar o imposto em datas posteriores durante todo o ano vigente, nos moldes adotados por cada Município.
+Por critério temporal deve-se entender o momento em que a ocorrência do fato de repercussão jurídica é relevante, competindo à lei ordinária a sua fixação.
+No IPTU, o critério temporal é verificado no primeiro dia de janeiro de cada ano.
+ ..
+Relativamente ao IPTU, deve-se considerar que se trata de imposto com lançamento automático e periodicidade anual, cujo fato gerador é a propriedade, domínio ou posse do imóvel que se inicia no dia 1º de janeiro de cada ano e tem seu vencimento no mesmo ano.
+Ou seja, não há razão jurídica que ampare a decisão do Tribunal de origem, uma vez que a discussão acerca da responsabilidade do pagamento pela compradora se inicia no ato da escritura definitiva o que se deu em 11/03/2011 e, se o IPTU equivale ao ano de forma integral, o pagamento desta deveria ser proporcional.
+Nesse contexto, o e. Tribunal se confunde quanto a correta aplicação da lei tributária no que tange a cobrança do IPTU.
+No agravo (fls. 978-992), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 996-1.012).
+É o relatório.
+Decido.
+A Corte estadual decidiu a matéria controvertida nos seguintes termos (fl. 683):
+O apelante sustenta que a sentença é contraditória, pois em determinado momento ficou estabelecido que os impostos incidentes sobre o imóvel eram de responsabilidade da apelada, porém o decisum deixou de condenar ao pagamento proporcional do IPTU de 2011.
+Não há contrariedade na sentença, pois o magistrado singular foi claro ao esclarecer que " ..  verifica-se que a escritura definitiva se deu em 11/03/2011, de modo que a partir desta data os impostos passaram a ser de responsabilidade da REQUERIDA, o que por óbvio exclui o IPTU referente ao ano de 2011, vencido em janeiro daquele ano."(f. 566).
+Desse modo, correto o entendimento do magistrado, pois a cláusula III.6 do contrato (fls. 14-19) estabelece que o domínio e a posse do imóvel seriam do vendedor até a concretização do contrato e a assinatura da escritura pública. Desta feita, enquanto o imóvel permanecia na posse do requerente, este era o responsável pelos impostos.
+Assim, como o IPTU vence em janeiro, e somente no mês de março de 2011 foi obtida a escritura definitiva, a empresa Santa Fé Construtora Ltda, ora apelante, somente passou a responsável pelo tributo do próximo ano, ou seja, a partir de 2012.
+A parte invocou os arts. 114, 115 e 116, I e II, do CTN para sustentar que a outra parte deveria ser condenada ao pagamento proporcional do IPTU, a partir do momento da formalização da escritura.
+Ocorre que os dispositivos legais invocados não são aptos para dar suporte à tese defendida, tampouco a parte logrou demonstrar de que forma a Corte estadual teria negado vigência a tais artigos de lei. Dessa forma, incide no caso a Súmula n. 284 do STF a impedir o seguimento do especial.
+Apesar de também fundamentar o especial na alínea "c" do permissivo constitucional, a parte não demonstrou a divergência jurisprudencial, por meio da indicação de acórdãos paradigmas e o cotejo analítico.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
