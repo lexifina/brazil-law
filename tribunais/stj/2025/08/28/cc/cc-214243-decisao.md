@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, conflito de competência suscitado pelo Tribunal Regional do Trabalho da 20ª Região, nos autos da ação trabalhista ajuizada por Alisson Santos Santana, objetivando o reconhecimento do vínculo empregatício e o consequente recebimento de verbas trabalhistas.
+O MM. Juiz de Direito da 1ª Vara Cível e Criminal de Nossa Senhora da Glória/SE, reconheceu sua incompetência sob fundamento de que "o Reclamante postula parcelas salariais de natureza celetista, incluindo a expedição de guias para levantamento de valores a título de seguro desemprego, multa fundiária (FGTS) e etc. Assim, imperiosa a incidência da tese fixada pelo Supremo Tribunal Federal quando da apreciação do tema 1143, qual seja: A Justiça Comum é competente para julgar ação ajuizada por servidor celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa" (fl. 84).
+O TRT da 20ª Região, por sua vez, suscitou o conflito de competência registrando o seguinte (fl. 103):
+Tendo havido o pronunciamento da Vara do Trabalho de Nossa Senhora da Glória, no processo de n.0001641-55.2024.5.20.0016, em relação às mesmas partes e pedidos, no sentido da incompetência absoluta e considerando que a Justiça Comum Estadual também já declinou de sua competência para apreciar a presente demanda, suscita-se o Conflito Negativo de Competência, com fulcro nos arts. 66, inciso II do CPC e 804, "b", da CLT, e determina-se a remessa dos autos ao E. Superior Tribunal de Justiça, nos termos do art. 105, inciso I, "d", da CR/88.
+O Ministério Público Federal apresentou parecer às fls. 142-146 , opinando pela competência da Justiça Estadual.
+É o relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda Primeira Seção.
+No caso em exame, depreende-se dos documentos acostados aos autos que a relação jurídica estabelecida entre as partes é de natureza trabalhista.
+À luz do sólido entendimento da 1ª Seção deste STJ, segundo o qual compete à Justiça do Trabalho processar e julgar reclamação trabalhista ajuizada por servidores públicos municipais contratado sob o regime celetista.
+Na mesma linha de compreensão:
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. AÇÃO TRABALHISTA. CAUSA DE PEDIR. VÍNCULO CELETISTA COM MUNICÍPIO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A determinação da competência para o processo e o julgamento das demandas envolvendo direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+2. Após a Emenda Constitucional 45, de 31.12.2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+3. O STF, porém, ao examinar a questão nos autos da ADI 3.395/DF, em 5.4.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+4. Portanto, se o vínculo firmado entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (estadual ou federal), ao passo que, se o vínculo trabalhista for regido pela CLT, caberá à Justiça laboral.
+5. In casu, na esteira do Parecer do MP, o regime estatutário não chegou a ser implantado no Município reclamado em razão da declaração de inconstitucionalidade de lei complementar municipal que estabeleceu tal regime.
+6. Agravo Interno não provido.
+(AgInt no CC n. 185.318/GO, relator Ministro Herman Benjamin, Primeira Seção, julgado em 30/8/2022, DJe de 5/9/2022.)
+Este Superior Tribunal de Justiça vem decidindo conforme as seguintes decisões monocráticas: CC 198861, Ministra Regina Helena Costa, DJe 02/08/2023; CC 193340, Ministro Paulo Sérgio Domingues, DJe 12/04/2023; CC 170702, Ministro Og Fernandes, DJe 31/03/2020.
+Isso posto, com fulcro no art. 34, XXII, do RISTJ, ACOLHO O CONFLITO DE COMPETÊNCIA e declaro competente para apreciar e julgar a demanda em questão o TRIBUNAL REGIONAL DO TRABALHO DA 20ª REGIÃO , susc itante .
+Nos termos do art. 64, §4º, do Código de Processo Civil, as decisões proferidas pelo Juízo incompetente devem ser preservadas até que outra seja proferida, se for o caso, pelo juízo competente.
+Publique-se e comunique-se.
+EMENTA
