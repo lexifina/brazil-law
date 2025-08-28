@@ -1,0 +1,77 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - CASSI contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 811 e-STJ):
+RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE. SEGUROS. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANO MORAL. FORNECIMENTO DE MEDICAMENTO. IMUNOGLOBULINA HUMANA. ESCLEROSE MÚLTIPLA. UTILIZAÇÃO OFF LABEL DO FÁRMACO. IMPRESCINDÍVEL PARA CONSERVAÇÃO DA SAÚDE DO PACIENTE. ENTENDIMENTO FIRMADO NO ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DA CORTE SUPERIOR. SÚMULA 83 DO STJ. ALTERAÇÃO DAS CONCLUSÕES DO ÓRGÃO JULGADOR. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. RECURSO NÃO ADMITIDO.
+Opostos embargos de declaração pela parte adversa, esses foram rejeitados (fls. 918-921 e-STJ).
+Em suas razões de recurso especial (fls. 835-854 e-STJ), a parte recorrente aponta violação ao artigo 10, I e §13, I e II da Lei n. 9.656/1998, sustentando, em suma, a legalidade da negativa de cobertura do medicamento prescrito - imunoglobulina humana - diante ausência de previsão no rol de procedimentos e eventos obrigatórios da ANS para a patologia que acomete a parte recorrida e da falta de comprovação da eficácia do tratamento à luz da medicina baseada em evidências. Defende, ainda, que o acórdão recorrido está em desacordo com os EREsp 1.886.929/SP e EREsp 1.889.704/SP, especialmente no que se refere à necessidade de comprovação da eficácia do tratamento ou recomendação da CONITEC para o custeio de tratamentos não previstos no rol da ANS.
+Não foram apresentadas contrarrazões.
+Em sede de juízo provisório de admissibilidade (fls. 967-969 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) incidência da Súmula 83/STJ; e b) aplicação da Súmula 7/STJ.
+Daí o agravo (fls. 984-1.001 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 1.084-1.090 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal à verificação acerca da legalidade da negativa pela operadora do plano de saúde de procedimento médico requerido pelo segurado, sob a alegação de não estar previsto no rol de procedimentos da ANS.
+No caso em tela, o Tribunal a quo manteve a sentença condenatória, quanto à obrigação de fazer, sob a seguinte fundamentação (fls. 809-810 e-STJ):
+Adianto que estou filiado ao posicionamento no qual, em havendo previsão de cobertura do medicamento no rol da ANS, ainda que para doença diversa (off label), incumbe ao médico assistente prescrever o tratamento adequado ao paciente, conforme as peculiaridades do quadro apresentado.
+A negativa de cobertura de tratamento previsto no rol da ANS, como houve no caso dos autos, sob a justificativa de que inexiste estudo acerca dos benefícios do uso do medicamento para o quadro de saúde da parte autora, representaria inegável ingerência na ciência médica, em prejuízo da segurada.
+Assim, considerando que o medicamento em testilha integra o Rol da ANS, ainda que sua indicação seja para tratamento de imunodeficiências primárias, a negativa de cobertura mostra-se indevida.
+Ao plano de saúde demandado não é dado recusar a cobertura de medicamento prescrito pelo médico assistente, a quem compete decidir acerca do melhor tratamento a ser preconizado ao paciente.
+Por evidente que a busca pelo tratamento da enfermidade da parte segurada, por meio de métodos mais sofisticados, eficientes e modernos, deve se sobrepor a quaisquer outras considerações.
+Por conseguinte, a parte autora conseguiu fazer prova suficiente, mediante laudo médico que descreve, de forma detalhada, o quadro clínico que lhe acomete, acerca da necessidade e da urgência no tratamento que lhe foi prescrito, especialmente pela refratariedade às terapias usuais para Esclerose Múltipla (evento 1, ATESTMED5).
+Nada obstante, a meu juízo, realizado o tratamento com base na ordem judicial, não pode haver outro veredicto de fundo senão o de confirmação da tutela antecipada.
+Observa-se, assim, que a Corte de origem, ao manter a sentença de procedência do pedido inicial, decidiu de acordo com a jurisprudência desta Corte Superior que considera abusiva a recusa do plano de saúde de custear medicamento prescrito pelo médico, mesmo que em caráter experimental ou fora das hipóteses previstas na bula (off-label), pois não compete à operadora definir o diagnóstico ou tratamento para a moléstia coberta pelo plano.
+Sobre o tema, os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. MEDICAMENTO. IMUNOGLOBULINA HUMANA. USO ENDOVENOSO. DOENÇA DO NEURÔNIO MOTOR. NEGATIVA DE COBERTURA. CUSTEIO. OBRIGATORIEDADE. ENTIDADE DE AUTOGESTÃO. RELAÇÃO DE CONSUMO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Discute-se nos autos acerca da obrigatoriedade de custeio do medicamento - imunoglobulina humana, para uso endovenoso - deve ser custeado pelo plano de saúde para tratamento de Doença do Neurônio Motor que acomete o beneficiário.
+2. A medicação intravenosa ou injetável que necessite de supervisão direta de profissional habilitado em saúde não é considerada como tratamento domiciliar - é de uso ambulatorial ou espécie de medicação assistida.
+3. Considera-se abusiva a recusa do plano de saúde quanto à cobertura de medicamento prescrito pelo médico assistente, ainda que em caráter experimental ou fora das hipóteses previstas na bula (off label). Precedentes.
+4. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta do indispensável prequestionamento. Incidência, por analogia, do disposto na Súmula nº 282/STF.
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 2.175.022/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)  grifou-se
+DIREITO CIVIL. AGRAVO INTERNO. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO OFF-LABEL. AGRAVO PARCIALMENTE CONHECIDO E DESPROVIDO.
+I. Caso em exame
+1. Ação de obrigação de fazer em que a parte autora, diagnosticada com neoplasia de mama bilateral, pleiteia o fornecimento do medicamento Lynparza (olaparibe) pela operadora do plano de saúde.
+2. O Juízo de primeiro grau julgou procedente o pedido inicial, condenando a operadora do plano de saúde a custear o tratamento. O Tribunal de origem manteve a decisão, considerando devido o fornecimento do medicamento.
+II. Questão em discussão
+3. Há três questões em discussão: (i) saber se é abusiva a negativa de cobertura pela operadora do plano de saúde do medicamento prescrito, ainda que se trate de fármaco off-label, não previsto no rol da ANS; (ii) saber se houve cerceamento de defesa ao não ser permitida a realização de prova técnica; e (iii) saber se há violação do art. 10, § 13, da Lei n. 9.656/1998.
+III. Razões de decidir
+4. A Súmula n. 7 do STJ terá incidência quanto à produção de outras provas, quando o tribunal de origem afasta a alegação de cerceamento de defesa, por terem sido consideradas suficientes as provas apresentadas.
+5. A Súmula n. 182 do STJ terá incidência quando não é impugnado o fundamento de capítulo autônomo de decisão monocrática.
+6. O acórdão recorrido está em sintonia com a jurisprudência do STJ que considera abusiva a negativa de cobertura pela operadora do medicamento prescrito, ainda que se trate de fármaco off-label, e que o plano de saúde tem o dever de cobrir fármacos antineoplásicos.
+(Súmula n. 83 do STJ)
+IV. Dispositivo e tese
+7. Agravo interno parcialmente conhecido e desprovido.
+Tese de julgamento: "1. A revisão de provas para afastar a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova técnica requerida é inviável em recurso especial, conforme a Súmula n. 7 do STJ. 2. Incide a Súmula n. 182 do STJ quando não for impugnado o fundamento de capítulo autônomo de decisão monocrática. 3. Aplica-se a Súmula n. 83 do STJ quando o tribunal de origem impõe à operadora do plano de saúde o dever de cobrir fármacos antineoplásicos, independentemente da natureza taxativa ou exemplificativa do rol da ANS e do uso off-label".
+Dispositivos relevantes citados: Lei n. 9.656/1998, art. 10, §§ 4º e 13; Lei n. 14.454/2022.Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.778.523/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/3/2025; STJ, AgInt no REsp n. 2.174.659/DF, relator Ministro Carlos Cini Marchionatti, Terceira Turma, julgado em 17/2/2025; STJ, AgInt nos EREsp n. 2.117.477/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 11/12/2024.
+(AgInt no AREsp n. 2.654.885/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/5/2025, DJEN de 8/5/2025.)  grifou-se
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. FALTA DE PREQUESTIONAMENTO. FORNECIMENTO DE MEDICAMENTO. NEGATIVA INDEVIDA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir 2. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+3. A jurisprudência do STJ considera abusiva a recusa do plano de saúde de custear medicamento prescrito pelo médico, mesmo que em caráter experimental ou fora das hipóteses previstas na bula (off-label), pois não compete à operadora definir o diagnóstico ou tratamento para a moléstia coberta pelo plano.
+4. Não cabe recurso especial fundado em ofensa a verbete sumular, conforme a Súmula n. 518 do STJ, e a parte agravante não demonstrou o dissídio jurisprudencial necessário para o conhecimento do recurso pela alínea "c" do art. 105, III, da CF.
+III. Dispositivo 5. Agravo interno desprovido.
+Tese de julgamento: "1. É abusiva a recusa do plano de saúde em custear medicamento prescrito pelo médico, mesmo que em caráter experimental ou fora das hipóteses previstas na bula (off-label).
+"Jurisprudência relevante citada: STJ, AgInt no REsp 2.037.487/SP, Rel. Min. Humberto Martins, Terceira Turma, julgado em 26/2/2024;
+STJ, AgInt no AREsp 1.653.706/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020; STJ, AgInt no AREsp 1.964.268/DF, Rel. Min. Raul Araújo, Quarta Turma, julgado em 12/6/2023.
+(AgInt no REsp n. 2.142.211/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/2/2025, DJEN de 21/2/2025.)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE PROCEDIMENTO MÉDICO. DESCABIMENTO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 10 DA LEI 9.656/98. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STF. AGRAVO DESPROVIDO.
+1. A Segunda Seção do STJ, ao julgar os EREsps 1.889.704/SP e 1.886.929/SP, concluiu pela possibilidade de custeio de tratamento não constante no rol da ANS, nos seguintes termos: "4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS".
+2. No caso concreto, o eg. Tribunal estadual concluiu expressamente que o procedimento médico - "infusão via endovenosa da Imunoglobulina Humana" - para tratamento do menor ora agravado, acometido com "Síndrome de Landau-Kleffner" (epilepsia afasia) -, é imprescindível à manutenção de sua saúde, sendo devida a cobertura pela ora agravante, apesar de o procedimento não constar do rol da ANS.
+3. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83/STJ, aplicável ao recurso especial tanto pela alínea a como pela alínea c do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.000.396/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO. NÃO CABIMENTO. OBSERVÂNCIA AO PRINCÍPIO DA UNICIDADE OU UNIRRECORRIBILIDADE RECURSAL. RECONHECIMENTO DA PRECLUSÃO CONSUMATIVA QUANTO AO SEGUNDO RECURSO. FORNECIMENTO DE MEDICAMENTO CONSIDERADO EXPERIMENTAL (OFF-LABEL). ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. MAJORAÇÃO DE HONORÁRIOS INDEVIDA. AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível o conhecimento do segundo agravo interno interposto, pois, em observância ao princípio da unicidade ou unirrecorribilidade recursal, só se admite um recurso contra uma única decisão judicial, salvo os embargos de declaração e o recurso extraordinário. Em ocasião anterior assentou-se nesta Corte que "é manifestamente incabível o segundo e o terceiro recursos interpostos pela mesma parte, contra a mesma decisão, em razão da preclusão consumativa e do princípio da unirrecorribilidade" (AgInt no RE nos EDcl no AgInt no REsp 1.701.567/PE, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/05/2019, DJe 24/05/2019).
+2. O acórdão recorrido está em sintonia com o entendimento firmado pelo Superior Tribunal de Justiça segundo o qual é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Consoante dispõe a Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.943.693/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+Logo, deve ser mantido o acórdão recorrido, aplicando-se a orientação prevista no enunciado 83/STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por fim, tendo em vista a fixação dos honorários sucumbenciais no percentual máximo estabelecido no § 2º do art. 85 do CPC, deixo de majorá-los nesta oportunidade.
+Publique-se.
+Intimem-se.
+EMENTA
