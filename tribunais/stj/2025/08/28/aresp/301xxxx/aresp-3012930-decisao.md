@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo (fls. 777/784) manejado por Rassini-NHK Autopeças Ltda, desafiando decisão da vice-Presidência do Tribunal Regional Federal da 3ª Região (fls. 772/776), pela qual, no tocante ao apontado malferimento ao art. 28 da Lei 8.212/91, foi negado seguimento ao apelo raro, com fulcro no art. 1.030, I, b, do CPC, visto que o aresto regional se encontra alinhado ao Tema 1.174/STJ (As parcelas relativas ao vale-transporte, vale-refeição/alimentação, plano de assistência à saúde (auxílio-saúde, odontológico e farmácia), ao Imposto de Renda retido na fonte (IRRF) dos empregados e à contribuição previdenciária dos empregados, descontadas na folha de pagamento do trabalhador, constituem simples técnica de arrecadação ou de garantia para recebimento do credor, e não modificam o conceito de salário ou de salário contribuição, e, portanto, não modificam a base de cálculo da contribuição previdenciária patronal, do SAT e da contribuição de terceiros); e, em relação ao art. 557 do CPC/73, a insurgência recursal excepcional foi inadmitida.
+Nas razões de agravo em recurso especial, sustenta-se, em resumo, que "os pagamentos envolvendo vale-transporte não integram o salário e o salário-de-contribuição, visto que no âmbito da relação de trabalho o salário é a retribuição dos serviços prestados pelo empregador  sic . Em outros termos, a base de cálculo da contribuição social previdenciária engloba apenas as parcelas incorporáveis ao salário do empregado" (fl. 782).
+Sem contraminuta (fl. 787).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Da leitura atenta da petição de fls. 777/784, ressai nítido que o agravo em recurso especial versa sobre a matéria em relação à qual o apelo raro teve seu seguimento negado.
+Ora, consoante o disposto no art. 1.030, § 2º, do Código de Processo Civil, o recurso cabível contra a decisão que nega seguimento a recurso especial, com base no art. 1.030, I, b, do aludido diploma legal, é o agravo interno.
+Dessa forma, por ter sido a decisão ora agravada publicada já na vigência do atual Código de Processo Civil, mostra-se manifestamente incabível o manejo do recurso previsto no artigo 1.042 do CPC, sendo inviável a aplicação do princípio da fungibilidade.
+A propósito, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL EM RAZÃO DA CONFORMIDADE DO ACÓRDÃO RECORRIDO COM TESE FIRMADA SOB O REGIME DE JULGAMENTO DE RECURSOS REPETITIVOS. INTERPOSIÇÃO DE AGRAVO (ART. 1.042 DO CPC). NÃO CABIMENTO. ERRO GROSSEIRO. INAPLICABILIDADE DOS PRINCÍPIOS DA FUNGIBILIDADE E DA INSTRUMENTALIDADE DAS FORMAS. PROVIMENTO NEGADO.
+1. O Código de Processo Civil (CPC), no § 2º do art. 1.030, é expresso ao determinar que cabe o agravo interno previsto no seu art. 1.021 contra a decisão que nega seguimento a recurso especial interposto contra acórdão conformado a entendimento do Superior Tribunal de Justiça fixado sob o regime de julgamento de recursos repetitivos.
+2. A interposição de agravo em recurso especial, ao invés de agravo interno, configura erro grosseiro, uma vez que, ante a disposição expressa do CPC, inexiste dúvida objetiva acerca da insurgência cabível, não sendo possível a aplicação da fungibilidade recursal ou instrumentalidade das formas.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.501.829/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO RECURSO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. ART. 1.030, § 2º, DO CPC. CABIMENTO DE AGRAVO INTERNO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O agravo em recurso especial interposto contra decisão que nega seguimento ao recurso especial, com base em acórdão em conformidade com entendimento firmado em regime de repercussão geral ou de recursos repetitivos, deve ser impugnado por meio de agravo interno, conforme art. 1.030, § 2º, do CPC.
+2. A interposição de agravo em recurso especial, ao invés de agravo interno, configura erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade recursal.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.631.067/AM, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 19/3/2025, DJEN de 25/3/2025.)
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
