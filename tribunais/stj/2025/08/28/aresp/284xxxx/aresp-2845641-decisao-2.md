@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por JOSEANE ALVES DA SILVA (fls. 3582-3587) contra decisão que inadmitiu o seu recurso especial (fls. 3538-3540) manejado em face de acórdão de caráter condenatório proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+A defesa sustenta a ausência de materialidade, ante a não apreensão de entorpecentes em poder da recorrente. Alternativamente, requer o reconhecimento da causa de diminuição da pena prevista no art. 33, §4º, da Lei 11.343/06.
+Contraminuta apresentada às fls. 3618-3623.
+O Ministério Público Federal às fls. 3682-3685 manifestou-se pelo não conhecimento do agravo.
+É o relatório. DECIDO.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando as Súmulas n. 7, STJ, 282 e 356, STF, não tendo o recorrente logrado êxito em superar o óbice através do agravo.
+O direito processual é regido pelo princípio da dialeticidade, segundo o qual os recursos devem impugnar concreta e especificamente os fundamentos suficientes para manter a íntegra da decisão recorrida, demonstrando, ponto a ponto, os motivos de eventual desacerto do julgado contestado.
+Na espécie, entretanto, verifico que o agravante não enfrentou adequadamente os fundamentos que ensejaram a incidência do óbice apontado pelo Tribunal de origem para inadmitir o apelo nobre. Ainda que tenha trazido argumentos em relação à reanálise das provas, se omitiu quanto ao óbice das Súmulas n. 282 e 256, STF.
+Sobre o ponto, manifestou-se o agravante (fls. 3586-3587):
+Ao contrário do que alega o Tribunal a quo toda a matéria ventilada restou devidamente prequestionada, conforme se verifica das peças juntadas pela defesa.
+Segundo o entendimento dessa corte, considerar-se também pré- questionados, os fundamentos adotados nas razões de apelação e desprezados no julgamento do respectivo recurso, desde que, interposto o recurso especial, sejam reiterados nas contrarrazões da parte vencedora.
+E todos os fundamentos adotados tanto nas razões da apelação, quanto nas razões do recurso especial, foram reiterados nas contrarrazões do Ministério Público, logo, não há que se falar em ausência de prequestionamento.
+Verifica-se, portanto, que houve superficial manifestação quanto ao ponto impugnado, não sendo suficiente para infirmar a incidência da súmula e afastar a ausência de prequestionamento evidenciada.
+Desse modo, não havendo impugnação específica de um único fundamento da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior. Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS INATACADOS. SÚMULA N. 182 DO STJ. INCIDÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA N. 7 DO STJ. APLICAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. Incide a Súmula n. 182 do STJ se a parte deixa de impugnar especificamente os fundamentos da decisão agravada. 2. Para afastar o óbice da Súmula n. 7 do STJ, a parte recorrente deve demonstrar, de forma clara e objetiva, mediante o desenvolvimento de argumentação hábil, a desnecessidade de reexame de fatos e provas para a aferição de violação de dispositivo de lei federal. 3. Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ. 4. Agravo regimental desprovido. (AgRg no AREsp 1823881/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 20/4/2021, DJe 26/4/2021, destaquei.)
+Ante o exposto, com fundamento no art. 253, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
