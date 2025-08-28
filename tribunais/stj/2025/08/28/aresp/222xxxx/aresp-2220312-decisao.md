@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAIKON JOHN NUNUS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de indicação do artigo violado, na falta de cotejo analítico e na incidência das Súmulas n. 284 do STF e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Requer o conhecimento e provimento do presente agravo em recurso especial.
+Na contraminuta, a parte agravada aduz que o agravo não merece conhecimento, pois o recurso especial não possui fundamentação jurídica adequada, além de apresentar efeito meramente protelatório. Requer a aplicação de multa por litigância de má-fé (fls. 805-816).
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base nos seguintes fundamentos:
+a) incidência da Súmula n. 284 do STF, pois a parte agravante não demonstrou, de forma clara e precisa, como se deu a violação dos dispositivos infraconstitucionais arrolados;
+b) não comprovação da divergência jurisprudencial;
+c) incidência da Súmula n. 7 do STJ, o que também prejudicou a análise do especial no tocante à alínea c do permissivo constitucional.
+Nas razões recursais, porém, a parte agravante limitou-se a afirmar que, à fl. 20 do agravo, demonstrou a violação dos arts. 560 e 1.200 do CC e que, à fl. 33 da peça recursal, realizou o devido cotejo analítico (fl. 786).
+Já no que diz respeito à aplicação da Súmula n. 7 do STJ, limitou-se a sustentar que o que busca é "uma revaloração das provas apresentadas no sentido de que tratem de comprovação da posse injusta, o que foi indicado de forma expressa no acórdão recorrido, o que por sua vez, afasta a aplicação da Súmula 7 do Superior Tribunal de Justiça" (fl. 787).
+Nesse contexto, verifica-se que a parte agravante não refutou, de forma clara e específica, os fundamentos da decisão de admissibilidade proferida na origem.
+Registre-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar genericamente que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Caberia ao agravante, no agravo em recurso especial, demonstrar que a análise das teses jurídicas referentes aos dispositivos apontados como violados -arts. 560 e 1.200 - não demandaria reexame de fatos e provas dos autos, o que não ocorreu.
+Além disso, segundo entendimento do STJ, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à incidência da Súmula 7 do STJ e à ausência de comprovação da divergência jurisprudencial. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+O mesmo entendimento se aplica ao dissídio jurisprudencial, pois caberia ao agravante expor como ocorrera a divergência jurisprudencial no caso concreto, o que, todavia, não demonstrou nas razões do agravo.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
