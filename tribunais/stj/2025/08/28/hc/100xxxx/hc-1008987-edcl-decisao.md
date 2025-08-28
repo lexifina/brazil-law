@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por E. F. de M e K. B. L. de M, contra decisão monocrática que não conheceu do habeas corpus (fls. 146-151).
+Os embargantes sustentam, em suma, que a decisão monocrática estaria eivada de erro material e contradição, uma vez que a apresentação de laudo técnico assinado por engenheiro agrônomo referente ao cultivo caseiro seria desnecessário no caso concreto, pois os pacientes já realizam o cultivo da planta desde 2020. Alegam que a apresentação de tal documento não é exigência respaldada nos precedentes dos Tribunais superiores, razão pela qual pugnam pelo acolhimento dos embargos de declaração, a fim de que seja concedido o salvo-conduto almejado (fls. 96-103).
+É o relatório. DECIDO.
+Conforme relatado, os embargantes sustentam, em síntese, que haveria erro material e contradição na decisão monocrática que não conheceu do habeas corpus, pois laudo técnico assinado por engenheiro agrônomo referente ao cultivo caseiro seria desnecessário no caso concreto.
+Da análise dos autos, não entrevejo, todavia, contradição ou erro material a serem sanados.
+Como se sabe, os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+A matéria foi devidamente apreciada na decisão monocrática de forma exauriente e nos estritos limites de cognição do habeas corpus, oportunidade em restou consignado que o laudo técnico agronômico emitido e assinado por engenheiro agrônomo é peça essencial para a análise do pedido apresentado pela defesa, o que está em consonância com os julgados da Quinta e da Sexta Turma do Superior Tribunal de Justiça, os quais foram devidamente colacionados da decisão questionada.
+Como se vê, as alegações dos embargantes, em verdade, não se relacionam com suposta contradição, mas buscam a rediscussão do julgado por via oblíqua, providência inviável em sede de aclaratórios, porque trazem questões, obviamente, afastadas pelos fundamentos apresentados no julgado embargado (EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 23/3/2022, DJe de 25/3/2022).
+Por fim, verifico que a defesa, na petição n. 00720167/2025 (fls. 107-152), protocolada após a oposição dos embargos de declaração, juntou aos autos nova documentação, a qual não constava na instrução do writ, que não foi devidamente instruído com a documentação necessária à análise do feito e que ensejou a decisão de não conhecimento impugnada. Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame 1. Agravo regimental interposto contra decisão que não conheceu de recurso em habeas corpus, em razão da ausência de instrução adequada, notadamente pela falta de juntada da denúncia, essencial para a compreensão da controvérsia.
+II. Questão em discussão 2. A questão em discussão consiste em saber se a ausência de juntada da denúncia no momento da impetração do habeas corpus impede o conhecimento do recurso, considerando a necessidade de prova pré-constituída.
+3. Outra questão em discussão é se as condutas imputadas aos denunciados configuram crime eleitoral, atraindo a competência da Justiça Eleitoral.
+III. Razões de decidir 4. A decisão agravada foi mantida, pois a defesa não se desincumbiu do ônus de instruir devidamente o feito, sendo a juntada da denúncia extemporânea e insuficiente para suprir a deficiência inicial.
+5. A análise dos fatos indicou que as infrações não tiveram por finalidade a obtenção de vantagem eleitoral, afastando a competência da Justiça Eleitoral.
+6. A jurisprudência estabelece que a competência da Justiça Eleitoral só se configura quando há violação ao bem jurídico tutelado pelo direito eleitoral, o que não se verificou no caso.
+IV. Dispositivo e tese 7. Agravo regimental não provido.
+Tese de julgamento: "1. A ausência de instrução adequada no habeas corpus, com a falta de documentos essenciais, impede o conhecimento do recurso. 2. A competência da Justiça Eleitoral não se configura sem a demonstração de violação ao bem jurídico tutelado pelo direito eleitoral".
+Dispositivos relevantes citados: Código Eleitoral, art. 299.
+Jurisprudência relevante citada: STJ, RCD no HC n. 860.640/RJ, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023; STJ, AgRg no HC n. 837.638/CE, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023; STJ, AgRg no HC n. 827.576/MG, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 28/8/2023.
+(AgRg no RHC n. 186.698/GO, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025, grifei )
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
