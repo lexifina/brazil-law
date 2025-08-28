@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARLON DO PRADO e VINICIUS ALVES DE MELLO contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+O apelo nobre, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, buscava a reforma de acórdão proferido em sede de Apelação Criminal, que manteve a condenação dos recorrentes por crimes de roubo majorado, extorsão e receptação. As teses centrais do Recurso Especial versavam sobre a nulidade do reconhecimento pessoal, por violação ao art. 226 do Código de Processo Penal, e o afastamento da majorante do emprego de arma de fogo.
+Extrai-se dos autos que o Tribunal de origem inadmitiu o recurso especial com base no seguinte fundamento: ausência de cotejo analítico (fls. 875/876).
+Agravo em recurso especial às fls. 900/906 e contraminuta do Ministério Público estadual às fls. 909/923.
+Parecer do Ministério Público Federal - MPF pelo desprovimento do recurso (fls. 948/950).
+E o relatório. DECIDO.
+O recurso não merece ser conhecido.
+A jurisprudência desta Corte Superior é firme e consolidada no sentido de que, para a admissão do Agravo em Recurso Especial, é ônus do agravante impugnar, de maneira específica, pormenorizada e efetiva, todos os fundamentos que sustentaram a decisão de inadmissibilidade do apelo nobre na origem.
+Este dever processual, que emana do princípio da dialeticidade recursal, está positivado no art. 932, III, do Código de Processo Civil, e no art. 253, parágrafo único, I, do Regimento Interno desta Corte. A sua inobservância acarreta a incidência, por analogia, do verbete da Súmula n.º 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+No caso concreto, a decisão do Tribunal de Justiça de São Paulo foi clara ao inadmitir o Recurso Especial com base na Súmula 83/STJ, que dispõe: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.".
+Para superar tal óbice, não bastava ao agravante simplesmente repetir as teses de mérito de seu recurso ou alegar genericamente que a matéria é de direito. A impugnação específica ao fundamento da Súmula 83/STJ exigia um esforço argumentativo direcionado a demonstrar, inequivocamente, o desacerto do Tribunal de origem ao concluir pela sintonia entre o acórdão recorrido e a jurisprudência desta Corte.
+Isso poderia ser feito, por exemplo, por meio da técnica da distinção (distinguishing), apontando as peculiaridades fáticas ou jurídicas do caso concreto que o afastariam dos precedentes que fundamentam a jurisprudência dominante, ou, ainda, pela demonstração de que o entendimento jurisprudencial invocado já foi superado (overruling) por julgados mais recentes deste Tribunal.
+Contudo, ao analisar as razões do presente agravo, verifica-se que a defesa não se desincumbiu desse ônus. A argumentação apresentada é uma mera reiteração das teses de mérito do Recurso Especial, focada na suposta violação ao art. 226 do CPP, sem, contudo, enfrentar o fundamento central da decisão agravada. Não há, em suas razões, qualquer desenvolvimento analítico que busque demonstrar por que o acórdão recorrido estaria, na verdade, em dissonância com a jurisprudência do STJ, ou por que os precedentes desta Corte não se aplicariam à hipótese dos autos.
+A ausência de um ataque direto e efetivo ao fundamento da Súmula 83/STJ torna a impugnação genérica e deficiente, o que equivale à sua completa ausência, impedindo o conhecimento do agravo.
+Ante o exposto, com fundamento nos arts. 932, III, do CPC, e 253, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
