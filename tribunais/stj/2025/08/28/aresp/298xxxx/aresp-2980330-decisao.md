@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por WILLIAN DA ROLT contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESTADO DE SANTA CATARINA que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 0001388-44.2019.8.24.0028.
+Consta dos autos que a parte agravante foi condenada às penas de 05 (cinco) anos de reclusão, em regime semiaberto, e 500 (quinhentos) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Em segunda instância, o Tribunal de origem negou provimento ao recurso de apelação interposto pela Defesa, em acórdão assim ementado (fls. 945):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS (LEI N. 11.343/2006, ART. 33, CAPUT). SENTENÇA CONDENATÓRIA. RECURSO DO RÉU. ABSOLVIÇÃO. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. PRISÃO EM FLAGRANTE. PALAVRAS DOS AGENTES POLICIAIS CORROBORADAS PELAS DEMAIS PROVAS. CONDENAÇÃO MANTIDA. DOSIMETRIA. CAUSA ESPECIAL DE REDUÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. NÃO PREENCHIMENTO DOS REQUISITOS SUBJETIVOS. DEDICAÇÃO CRIMINOSA DEMONSTRADA PELOS ELEMENTOS DE PROVA. IMPOSSIBILIDADE DE APLICAÇÃO DA BENESSE. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a parte alega violação do art. 33, §4º, da Lei n. 11.343/2006 ao argumento de que o recorrente preenche os requisitos para a incidência do tráfico privilegiado.
+Contrarrazões apresentadas às fls. 970-975.
+O Tribunal a quo inadmitiu o apelo especial com base em fundamento devidamente impugnado pela parte agravante (fls. 978-979).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (fls. 1.031-1.037).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No que interessa à solução da controvérsia, tem-se que o Colegiado de origem declinou as seguintes razões (fl. 943, grifamos):
+2 Tráfico privilegiado Sucessivamente, pleiteou a concessão do tráfico privilegiado (Lei n. 11.343/2006, art. 33, § 4º).
+Para fazer jus à causa especial de diminuição da pena, o agente deve preencher, cumulativamente, três requisitos, a saber: a) ser primário; b) possuir bons antecedentes; e c) não se dedicar às atividades criminosas nem integrar organização criminosa.
+Com efeito, in casu, é inviável a concessão da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 pretendida pelo acusado, porquanto a prova dos autos evidencia que sua conduta criminosa não ocorria de forma isolada, conquanto seja primário e não registre antecedentes.
+Sobreleva notar que as circunstâncias do caso concreto demonstram que o acusado estava se dedicando ao narcotráfico. Nesse sentido, a considerável quantidade de droga apreendida (989,29 g de maconha) juntamente com o fato de ter sido localizado da residência do réu uma balança de precisão e um caderno com anotações características do comércio de drogas, evidenciam a dedicação às atividades criminosas.
+Como se vê, a causa de diminuição prevista no § 4º do art. 33 da Lei de Drogas foi afastada com o entendimento de que o recorrente se dedicava a atividades criminosas com base em elementos concretos dos autos, tais como a quantidade expressiva de droga encontrada, além da balança de precisão e das anotações típicas de traficância.
+Nesse contexto, não é possível desconstituir a conclusão da Jurisdição ordinária quanto à dedicação do acusado à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÃO DE USO PERMITIDO. ART. 12, CAPUT, DA LEI N. 10.826/2003. PRETENSÃO ABSOLUTÓRIA. ALEGADA ATIPICIDADE DA CONDUTA. REDUZIDA QUANTIDADE DE MUNIÇÕES. DESACOMPANHADAS DE ARMA DE FOGO. APREENSÃO NO CONTEXTO DE OUTRO CRIME. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. BENEFÍCIO DO ARTIGO 33, § 4º, DA LEI N. 11.343/2006. INCIDÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+6. No presente caso, verifica-se que os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação do recorrente à atividade criminosa (tráfico de drogas), o que justifica o afastamento da redutora do art. 33, § 4º, da Lei n. 11.343/2006.
+Assim, para se acolher a tese de que ele não se dedica a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula n. 7/STJ.
+7. Agravo regimental não provido.
+(AgRg no REsp n. 2.198.115/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025, grifamos)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO TRÁFICO PRIVILEGIADO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. DECISÃO DA CORTE A QUO QUE É CONSOANTE À JURISPRUDÊNCIA DESTE TRIBUNAL. SÚMULA 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, o Tribunal local entendeu estarem presentes elementos probatórios que evidenciam a prática de crime, pelo agravante, de modo reiterado, em razão da apreensão de vultuosa quantidade de entorpecentes, de natureza variada, além de balanças de precisão e anotações relativas ao comércio de material estupefaciente.
+2. Assim, incide o óbice descrito no enunciado de Súmula n. 7 desta Corte em relação à aplicação do redutor, visto que o Tribunal Estadual se valeu de premissas fáticas do caso concreto que evidenciavam que o acusado se dedicava à prática de crimes, de modo que a reversão de tal conclusão demanda ampla imersão no arcabouço probatório, o que é inviável na via do recurso especial.
+3. Ademais, a pretensão recursal encontra óbice nos termos do verbete sumular n. 83 desta Corte, porquanto a jurisprudência deste Tribunal vai no sentido de serem suficientes ao afastamento do tráfico privilegiado os motivos esposados no acórdão combatido, porquanto denotam a dedicação do agente à prática de atividades criminosas, conforme ressaltado pelos julgados transcritos.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.525.894/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/3/2025, DJEN de 18/3/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
