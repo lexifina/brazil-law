@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de divergência em recurso especial ou em agravo em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Relator Ministro RICARDO VILLAS BÔAS CUEVA , assim ementado (fl. 625):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITOCIVIL. AÇÃO DE RESCISÃO CONTRATUAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 299 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DESISTÊNCIA DE PROMESSA DE COMPRA E VENDA. RETENÇÃO DE 10% a 25% DOS VALORES PAGOS. JURISPRUDÊNCIA DO STJ. CONFORMIDADE DA CONCLUSÃO DO TRIBUNAL DE ORIGEM.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. É admitida a flutuação do percentual da retenção pelo vendedor entre 10% (dez por cento) a 25% (vinte e cinco por cento) do total da quantia paga nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador. Precedentes.
+3. Agravo interno não provido.
+A parte embargante defende que o acórdão recorrido contrariou o seguinte julgado: REsp n. 1.723.519/SP, SEGUNDA SEÇÃO, Relatora Ministra MARIA ISABEL GALLOTTI, DJe de 02/10/2019. Alega que "a Segunda Seção reafirmou o seu entendimento de 2012, ao determinar que o percentual de retenção nestes casos é, em regra, 25% dos valores pagos pelos adquirentes.  ..  Os julgados da Segunda Seção são precedentes qualificados, pois possui origem colegiada (3ª e 4ª turmas julgando em conjunto) e em julgamento estendido (maior quantidade de ministros), cuja observância deve ser obrigatória, nos termos do artigo 927 do CPC" (fl. 639).
+Pede a reforma do acórdão embargado (fls. 643-644).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da TERCEIRA TURMA, e o REsp n. 1.723.519/SP, SEGUNDA SEÇÃO, Relatora Ministra MARIA ISABEL GALLOTTI, DJe de 02/10/2019.
+O acórdão recorrido afastou a possibilidade de retenção pela parte recorrente de 25% dos valores pagos pela parte contrária, pois, "como se pode observar no trecho do acórdão de segundo grau acima transcrito, houve sim a exposição de motivo bastante para a redução da sanção contratual, qual seja, a impossibilidade de se acumular a cláusula penal com a retenção das arras" (fl. 628) o que reduziu o percentual da retenção, diante da análise das cláusulas contratuais consideradas abusivas . Por outro lado, o paradigma da SEGUNDA SEÇÃO, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial) trata de rescisão unilateral de contrato de promessa de compra e venda por parte de promitente comprador, sem cuidar de eventual cumulação indevida de cláusula penal com retenção das arras (suposto bis in idem).
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ademais, o acórdão embargado foi proferido no corrente ano, enquanto o paradigma decorreu de julgamento ocorrido em 2019, não se podendo falar em divergência atual.
+Por fim, o indispensável confronto analítico não foi realizado, sendo certo que a embargante reproduziu tão somente a ementa do paradigma, deixando de reproduzir trechos do respectivo acórdão com o propósito de compará-los com o texto do acórdão embargado.
+Quanto a outros precedentes citados na petição recursal (cf. fls. 640-643) , a embargante igualmente não realizou o confronto analítico, se limitando a reproduzir ementas. Igualmente não juntou o inteiro teor de tais julgados.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
