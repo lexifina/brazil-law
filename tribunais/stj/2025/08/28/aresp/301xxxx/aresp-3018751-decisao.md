@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo manejado por Companhia de Saneamento do Paraná -Sanepar contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (fl. 496):
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO MANTIDA PELA SANEPAR (ETE ). ALEGAÇÃO DE MAU CHEIRO PROVENIENTE DOSÃO JORGE TRATAMENTO DE ESGOTO NA REGIÃO. SENTENÇA IMPROCEDENTE. PRELIMINAR DE ILEGITIMIDADE ATIVA SUSCITADA EM CONTRARRAZÕES. TEORIA DA ASSERÇÃO. RECURSO PELA PARTE AUTORA. RESPONSABILIDADE CIVIL AMBIENTAL. EMISSÃO DE MAU CHEIRO PELA ETE DE FORMA IRREGULAR IMPLICANDO EM POLUIÇÃO ATMOSFÉRICA. REQUERENTE QUE COMPROVOU QUE À EPOCA DOS FATOS RESIDIA PRÓXIMO A ETE. DANO MORAL CONFIGURADO. INDENIZAÇÃO DEVIDA. SENTENÇA REFORMADA. PEDIDO PARCIALMENTE PROCEDENTE. RECURSO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 542/547).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 373, II, 489, §1º, IV e VI, 926, e 1.022, II, do CPC, bem como aos arts. 186, 884 e 927, do CC.
+Sustenta, em resumo: (I) negativa de prestação jurisdicional (II) inexistência de nexo causal entre a operação da estação de tratamento com a alegada (e não comprovada) poluição ambiental, o que afastaria o dever de indenizar e (III) necessidade de delimitação da área geográfica tida como afetada pela operação da ETE, a fim de que seja considerado apenas o raio de 550 metros de distância dos endereços visitados pelo expert.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, IV e VI e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outro lado, a instância ordinária, após detida análise do acervo probatório constante dos autos, reconheceu a existência de nexo causal, assentando estar suficientemente demonstrado que a estação de tratamento de esgoto era responsável pela emissão de odores e poluição atmosférica que atingiam diretamente a área em que se encontra a residência da parte agravada, circunstância que ensejou a condenação ao pagamento de indenização por danos morais.
+A propósito, o julgado a quo restou assim alicerçado (fls. 510/512):
+Desta forma, demonstrado que a Estação de Tratamento São Jorge emite mau cheiro que afeta a região vizinha, e não tendo a requerida comprovado que os gases são emitidos em índices que não afetam a dignidade da pessoa humana, ônus que lhe competia (art. 373, II CPC), configurada a falha na prestação de serviços que gera o dano alegado pela parte autora.
+No tocante a extensão da área afetada, a ata notarial lavrada pelo Tabelião Edson Aparecido Villa de Carvalho, informa que ela está localizada na Rodovia dos Minérios, Km 10, sendo possível perceber o cheiro nos seguintes endereços próximos:
+(a) Rodovia dos Minérios, km 11, nº 1500
+(b) Rua Professor Antonio Rodrigues Dias
+Relata que tendo como referência a Rua Professor Antônio Rodrigues Dias "A estação da SANEPAR fica do lado esquerdo do início da referida rua, e do lado direito está situado o Motel Black Stallion. A partir daquele ponto, e cerca de 1 km acima ainda podia se notar o cheiro de esgoto (mov. 1.5, fls. 01)".
+Ante a impossibilidade de visitar todas as casas da região, o perito trabalhou por amostragem, visitando os seguintes endereços (mov. 1112.8).
+(a) Rua Antônio Rodrigues Dias, nº 1306, 1353, 1416, 1428, 1512, 1513
+(b) Rua Ida Bonfim Alcântara, nº 102
+(c) Rua Teodoro Pinto de Lara nº 55, 68, 74, 151, 242
+(d) Rua Amantino Pereira de Azevedo, nº 67, 100, 264
+(e) Rodovia dos Minérios, nº 1500, 1504
+(f) Rua João Moleira, nº 97 1
+(g) Rua Joaquim Krieger, nº 583
+Tendo o perito reconhecido que o mau cheiro seria sentido no entorno da ETE, e sendo os endereços visitados próximos, devem ser considerados, bem como os demais nas proximidades da estação de tratamento até um limite de 1km. Porém, é indispensável que o autor comprove que reside no local desde a época dos fatos.
+In casu, para comprovar a residência nas imediações da ETE, a parte autora juntou comprovante de residência com data de setembro de 2013, demonstrando que reside à Rua Leonardo Kleina, 108, em Almirante Tamandaré/PR.
+Em consulta ao verifica-se que o endereço é próximo da estação de tratamento google maps (está dentro do raio de 1km - aproximadamente 500 metros):
+ ..
+Assim, passa-se à análise do alegado dano moral.
+Caracteriza-se o dano moral como "a privação ou diminuição daqueles bens que têm um valor precípuo na vida do homem e que são a paz, a tranquilidade de espírito, a liberdade individual, a integridade individual, a integridade física, a honra e os demais sagrados afetos, classificando- se desse modo, em dano que afeta a parte social do patrimônio moral (honra, reputação, etc.) e dano que molesta a parte afetiva do patrimônio moral (dor, tristeza, saudade, etc.), dano moral que provoca direta ou indiretamente dano patrimonial (cicatriz deformante, etc.) e dano moral puro (dor, tristeza, etc.)" (CAHALI, Y. S.. Dano Moral. 2. ed. São Paulo: RT, 1998. p. 20).
+Os referidos danos podem ser entendidos, em linhas gerais, como a dor - decorrente da violação, física ou moral, de um direito não patrimonial. Para alguns autores trata-se da violação de direitos da personalidade (direito ao nome - a imagem - a dignidade - a honra - etc).
+No que tange a hipótese dos autos, apurou-se que a Estação de Tratamento emite mau cheiro (odor semelhante ao de "ovo podre"), que embora tenha entrado em funcionamento em dezembro de 2004, somente em 2017 foram feitas melhorias para reduzir o cheiro que, no entanto, não resolveu o problema, de modo que não há como afastar o alegado dano, considerando que o mau cheiro certamente gerou angústia e sofrimento aos moradores da região, havendo, ainda, violação ao direito de um ambiente ecologicamente equilibrado (art. 225, caput, 25, da Constituição Federal), o que também é passível de indenização.
+Para a fixação da indenização o quantum deve ser arbitrado segundo os critérios da, razoabilidade e da proporcionalidade, levando em consideração as condições sociais e econômicas do ofendido e do ofensor e a extensão/repercussão do dano, não podendo ser irrisório tampouco fonte de enriquecimento sem causa, exercendo função reparadora do prejuízo e de prevenção da reincidência da conduta lesiva.
+ ..
+Com relação à capacidade econômica das partes, o requerente litiga sob as benesses da gratuidade da justiça. Por outro lado, a requerida é concessionária de serviço público com capacidade econômica notória.
+Merece ressalva, contudo, o fato de que a parte autora não comprovou residir no mesmo endereço durante todo o período de operação da ETE ou que o mau cheiro teria lhe causado danos à sua saúde.
+Assim, observando as peculiaridades do caso concreto e os parâmetros da razoabilidade e proporcionalidade, fixa-se a indenização por danos morais em R$ 2.000,00 (dois mil reais). O referido montante deverá ser corrigido monetariamente pela média dos índices INPC/IGP-DI desde o arbitramento, nos termos da Súmula 362/STJ e acrescido de juros de mora de 1% (um por cento) ao mês desde a citação.
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+A corroborar o proposto acima:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ÁGUA E ESGOTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO. VIOLAÇÃO DO ART. 1022 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE FALHA NA PRESTAÇÃO DE SERVIÇO DECORRENTE DA EMISSÃO DE ODORES PROVENIENTES DA UNIDADE DE TRATAMENTO DE ESGOTO. PROVAS CONSTANTES NOS AUTOS QUE DEMONSTRAM A EXISTÊNCIA DE NEXO CAUSAL E CONSIDERA COMO FATOR DETERMINANTE DO MAU CHEIRO O LANÇAMENTO DE ESGOTO DOMÉSTICO NO RIO BARIGUI SEM O DEVIDO SANEAMENTO. RESPONSABILIDADE CIVIL CARACTERIZADA. ACÓRDÃO RECORRIDO FUNDAMENTADO NAS PROVAS DOS AUTOS. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola os arts. 489 e 1.022 do CPC.
+Jurisprudência do Superior Tribunal de Justiça.
+2. Na hipótese dos autos, a Corte de origem reconheceu o dever de indenizar porquanto concluiu existir nexo de causalidade entre os danos alegadamente suportados pela agravante e a qualidade dos serviços prestados pela agravada, bem como havia nos autos parâmetros para tanto, uma vez que constatado como fator determinante do mau cheiro o lançamento de esgoto doméstico no rio Palmital sem o devido saneamento.
+3. Nesse contexto, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de asseverar que restou comprovada a ausência de responsabilidade da recorrente na espécie, bem como revisar o valor fixado a título de dano moral, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4 . Agravo interno não provido.
+(AgInt no REsp n. 2.036.615/PR, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
