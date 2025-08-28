@@ -1,0 +1,13 @@
+DECISÃO
+DENILSON PEREIRA REIS e ERINEI SANTOS DE JESUS agravam de decisão que inadmitiu o processamento do seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, que negou provimento à apelação defensiva.
+Em suas razões, afirma a defesa que o caso prescinde do reexame de provas, mas apenas de sua valoração, situação que afasta a incidência da Súmula n. 7 do STJ, notadamente porque "os elementos probatórios juntados aos autos sofrem de fragilidade quanto à autoria delitiva do fato típico, tendo em vista que os depoimentos judiciais que serviram de base à condenação dos réus são justamente por "ouvir dizer", não tendo sido apontada uma fonte confiável quanto à origem destas informações".
+Não foi apresentada contraminuta ao agravo em recurso especial. Ouvido, o Ministério Público Federal se manifestou pelo conhecimento do agravo e pelo não conhecimento do recurso especial (fls. 1.648-1.654).
+Decido.
+A decisão de inadmissibilidade proferida na origem não merece reparos. De fato, no especial, a pretensão dos insurgentes esbarra na impossibilidade de se reexaminar provas, máxime porque há, no acórdão proferido pelo Tribunal de origem, a seguinte afirmação peremptória (fl. 1.428, destaquei):
+ ..
+Feitos tais registros, cumpre assinalar que, a partir dos depoimentos testemunhais anteriormente citados, resta claro que, no caso sob julgamento, o reconhecimento da tese de autoria do crime imputado aos Apelantes não pode ser considerado "manifestamente contrário à prova dos autos", vez que, durante a instrução criminal, foram produzidos elementos probatórios que corroboram a referida tese, o que descarta a possibilidade de inexistência de um substrato mínimo para a condenação, devendo, por isso, ser respeitada a soberania dos veredictos do Tribunal do Júri.
+Em situações similares aos dos autos, esta Corte tem compreendido, até mesmo para se manter ou não a pronúncia, que " a  pronúncia do agente deve ser mantida, pois se extrai da decisão de primeira instância e do acórdão que a confirmou a existência de prova judicializada para amparar a submissão do réu a julgamento pelo Tribunal do Júri" (AgRg no AREsp 2508987 / MG, relator Ministro Rogerio Schietti, DJe 30/8/2024).
+Logo, é inviável, pela via escolhida, infirmar conclusão do acórdão de que havia provas que pudessem subsidiar a condenação do insurgente, porquanto seria necessário o reexame de provas, a atrair, portanto, incidência da Súmula n. 7 do STJ.
+À vista do exposto, com fundamento no art. 34, XVIII, "b", conheço do agravo em recurso especial para negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
