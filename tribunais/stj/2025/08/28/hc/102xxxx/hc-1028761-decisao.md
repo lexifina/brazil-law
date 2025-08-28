@@ -1,0 +1,14 @@
+DECISÃO
+LUAN PEREIRA DE ARAUJO alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que cassou o livramento condicional a ele concedido em primeiro grau.
+Segundo a defesa, o preso do regime semiaberto preencheu os requisitos objetivos e subjetivos para a antecipação direta da liberdade, razão pela qual busca a concessão da ordem por esta Corte, para o restabelecimento do benefício.
+Aduz que, "no momento em que foi concedido o LC", a falta grave registrada no boletim informativa estava reabilitada "há mais de um ano,  .. , sendo que aquela ocorrência mostrou-se isolada no histórico prisional do paciente" (fl. 3). Explica que o reeducando também estava reabilitada de falta média desde 4/2/2025 e desenvolver atividades voltadas aos estudos e trabalho interno na unidade.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, pois a pretensão defensiva é contrária à jurisprudência desta Corte.
+Conforme o entendimento já manifestado pelo colegiado, a prática de falta disciplinar grave, muito embora não interrompa a contagem do prazo para fins de livramento condicional, impede a concessão do benefício por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena.
+O paciente registra a prática de faltas disciplinares grave e média. Desde a antiga redação do art. 83, III, do CP, não havia "período específico de aferição do requisito subjetivo, de modo que o bom comportamento carcerário deve ser analisado em todo o tempo de execução da pena" (REsp n. 1.744.684/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/8/2018, DJe de 24/8/2018).
+Mesmo com as alterações promovidas pela Lei n. 13.964/2019, prevalece a mesma compreensão, conforme a tese jurídica fixada pela Terceira Seção desta Corte no Tema Repetitivo n. 1.161, uma vez que "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+Não há ilegalidade ou abuso de poder no ato judicial apontado como coator.
+Apesar das alegações apresentadas no habeas corpus, a exigência de "comportamento satisfatório" durante toda a execução da pena, é proporcional à extensão do benefício. Seria inconsistente permitir que um reeducando do regime semiaberto, com histórico de mau comportamento, obtenha o livramento condicional quando nem sequer preenchia os requisitos para ser transferido regime aberto, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
