@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se recurso especial interposto por CILENE PAES DE AVILA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 23/10/2023.
+Concluso ao Gabinete em: 8/5/2025.
+Ação: declaratória de inexigibilidade de débito c/c compensação de danos morais, ajuizada pela recorrente, em desfavor de TELEFÔNICA BRASIL S.A, em virtude de suposta inscrição indevida de seu nome, por dívidas já prescritas, em cadastros de órgãos de proteção ao crédito.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de declarar inexigíveis os débitos descritos, em razão do reconhecimento da prescrição da pretensão, bem como de determinar a exclusão do nome da autora dos referidos cadastros. Na oportunidade, condenou unicamente a recorrente ao pagamento das custas processuais e honorários advocatícios, estes fixados no percentual de 10% (dez por cento) do valor da causa.
+Acórdão: deu parcial provimento à apelação interposta pela recorrente, a fim de redistribuir a responsabilidade pelo pagamento das verbas sucumbenciais. Na ocasião, considerando a sucumbência recíproca, condenou a recorrida ao pagamento dos honorários advocatícios devidos ao patrono da recorrente, no valor de R$ 1.300,00 (mil e trezentos reais), montante este fixado por equidade; e condenou a recorrente ao pagamento dos honorários advocatícios devidos ao patrono da recorrida, estes fixados em 10% (dez por cento) do proveito econômico obtido com a não condenação ao pagamento da compensação por danos morais pleiteada. O acórdão foi assim ementado:
+APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO - PLATAFORMA SERASA LIMPA NOME - Inexigibilidade do débito, por força de prescrição, já reconhecida em primeiro grau, com determinação de exclusão do apontamento - Recurso exclusivo da parte autora - DANOS MORAIS - Não configuração - Plataforma "Serasa Limpa Nome" que não se confunde com cadastro de inadimplentes - Cobrança de valores indevidos sem que o nome da apelante tenha, todavia, sido inserido no rol de inadimplentes mantido pelos órgãos de proteção ao crédito - Situação incapaz de gerar sofrimento ou humilhação justificadora da compensação - SUCUMBÊNCIA RECÍPROCA - Distribuição da responsabilidade pelo pagamento das custas processuais e honorários advocatícios a ambas as partes - Recurso parcialmente provido (e-STJ fl. 318).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a violação do art. 85, § 8º-A, do CPC, bem como dissídio jurisprudencial. Sustenta que o acórdão recorrido não observou a tabela da OAB quando da fixação dos honorários advocatícios.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+De acordo com a jurisprudência perfilhada pela Terceira Turma, o juízo a quo não está vinculado aos valores estabelecidos pela tabela da OAB para fixação dos honorários advocatícios, uma vez que esta possui caráter meramente referencial. Nesse sentido: REsp 2.193.531/SP, Terceira Turma, DJe 5/5/2025; AgInt no REsp 2.160.930/SP, Terceira Turma, DJe 20/2/2025; e AgInt no REsp 2.131.493/DF, Terceira Turma, DJe 22/11/2024.
+Nessa perspectiva, tendo em vista a consonância entre o entendimento firmado neste STJ e o acórdão recorrido, aplica-se a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor do pedido compensatório (e-STJ fl. 323) para 12% (doze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C COMPENSAÇÃO DE DANOS MORAIS. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. TABELA DA ORDEM DOS ADVOGADOS DO BRASIL. NATUREZA NÃO VINCULANTE. SÚMULA 568/STJ.
+1. Ação declaratória de inexigibilidade de débito c/c compensação de danos morais.
+2. O juízo a quo não está vinculado aos valores estabelecidos pela tabela da OAB para fixação dos honorários advocatícios, uma vez que esta possui caráter meramente referencial. Precedentes.
+3. Recurso especial conhecido e não provido.
