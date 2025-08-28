@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MILER DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 96):
+EMENTA: HABEAS CORPUS - REALIZAÇÃO DE JUSTIFICAÇÃO CRIMINAL - INEXISTÊNCIA DE LESÃO OU AMEAÇA DE LESÃO À LIBERDADE DE LOCOMOÇÃO - VIA INADEQUADA - ORDEM NÃO CONHECIDA. A ação direta de Habeas Corpus é uma via estreita que visa salvaguardar o indivíduo de atos ilegais ou de abuso de poder que restrinja ou ameace restringir a sua liberdade de locomoção. Ordem não conhecida.
+No recurso ordinário, sustenta a defesa que "os Tribunais Superiores já exararam entendimento de que o Habeas Corpus é cabível nos casos em que se pretende questionar decisão que indeferiu pedido de justificação judicial com objetivo de produção de novas provas para posterior ajuizamento de revisão criminal, como é o caso dos autos." (e-STJ fl. 114)
+Requer, ao final, seja cassada a decisão que indeferiu a justificação criminal (decisão de 1º grau), com a possibilidade de determinar a oitiva da vítima e da testemunha na origem.
+É o relatório. Decido.
+As disposições previstas no art. 64, inciso III, e no art. 202, ambos do Regimento Interno do Superior Tribunal de Justiça, bem como no art. 1º do Decreto-Lei n. 552/1969, não impedem o relator de decidir liminarmente o mérito do habeas corpus e do recurso em habeas corpus, nas hipóteses em que a pretensão se conformar com súmula ou com jurisprudência consolidada dos Tribunais Superiores ou a contrariar.
+De fato, a ciência posterior do Parquet, "longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido" (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Assim, "para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica" (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Conforme relatado, o recorrente pugna, em síntese, pela possibilidade de justificação criminal para nova oitiva da vítima e da testemunha. No entanto, o mandamus não foi conhecido pelo Tribunal estadual, que considerou incabível a impetração de habeas corpus (inexistência de direito de locomoção).
+Contudo, embora o writ não possa ser utilizado como sucedâneo de instrumento processual previsto na legislação pátria, tem-se que não se pode deixar de analisar eventual existência de constrangimento ilegal.
+Na espécie, a proteção ao direito de liberdade da pessoa humana está presente no pleito defensivo, pois, busca-se, ao fim e ao cabo, desconstituir sentença penal transitada em julgado. Dessa forma, não se pode tolher o paciente de impugnar eventual ilegalidade por meio de habeas corpus.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. JUSTIFICAÇÃO CRIMINAL INDEFERIDA. OITIVA DE TESTEMUNHAS. AGRAVO IMPROVIDO.
+1. A jurisprudência pacífica do Superior Tribunal de Justiça estabelece que a justificação criminal tem como finalidade a obtenção de prova nova para embasar eventual revisão criminal, não podendo ser utilizada para reabrir a instrução processual, arrolar novas testemunhas ou reinquirir aquelas já ouvidas, salvo quando houver prova inédita que justifique a revisão do julgado.
+3. Agravo regimental improvido.
+(AgRg no HC n. 982.258/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+Ante o exposto, dou parcial provimento ao recurso ordinário, apenas para determinar que o Tribunal de Justiça do Estado de Minas Gerais examine, como entender de direito, o mérito do Habeas Corpus lá impetrado.
+Publique-se. Intimem-se.
+EMENTA
