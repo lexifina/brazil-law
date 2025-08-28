@@ -1,0 +1,56 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA NACIONAL em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. O agravo regimental não traz argumentos capazes de alterar o entendimento anteriormente firmado, veiculando mero inconformismo com o que se decidiu, razão por que deve ser mantida a decisão monocrática proferida.
+2. Decisão agravada em consonância com a jurisprudência deste Tribunal.
+3. Agravo regimental a que se nega provimento. (fl. 1.053)
+Opostos embargos de declaração, foram rejeitados (fls. 1.068/1.071).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 1.022, II, do CPC; 124, I, do CTN; 50 do Código Civil; e 30, IX, da Lei 8.212/1991.
+Contrarrazões às fls. 1.109/1.121.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Decido.
+No presente caso, observo que a Corte de origem negou provimento ao agravo de instrumento, consoante os seguintes fundamentos:
+O agravo regimental não traz argumentos capazes de alterar o entendimento anteriormente firmado.
+Após detida leitura da peça recursal, o que se constata é que não há nenhum argumento a infirmar a peça recorrida, na medida em que os fundamentos de seu recurso inicial foram devidamente abordados e afastados pela decisão ora agravada:
+(..)
+Verifico que o crédito tributário, objeto de cobrança na execução fiscal em apenso, foi constituído por meio de Notificação Fiscal de Lançamento de Débito  NFLD, oriundo de lançamento de ofício (auto de infração) de débitos previdenciários. Assim, não houve, no presente caso, simples inadimplemento do tributo, mas omissão das informações devidas por parte do contribuinte.
+Todavia, observo, pela alteração do contrato social, juntado à fls. 02/06 do Anexo I, em apenso ao presente feito, que o administrador da empresa a partir de 24.09.2004 é o sócio Reginaldo Mansur Teixeira, não havendo comprovação de que Cláudio Alberto da Cunha Santos tenha participado da administração da empresa no período da dívida (03/2003 a 01/2007). (..)
+Deve ser mantida, portanto, a decisão agravada, porquanto o que se pretende, ao fim, é a rediscussão de matéria enfrentada, com a consequente modificação do que já decidido. (fl. 1.051)
+A parte recorrente apontou omissão nos embargos de declaração perante o tribunal de origem, defendendo, essencialmente, que:
+Inicialmente, em consulta a base de dados da Receita Federal do Brasil, alimentada pelos próprios contribuintes por meio de suas Declarações de Imposto de Renda, verifica-se que os irmãos Reginaldo Mansur Teixeira e Roger Mansur Teixeira, bem como a esposa (Kátia Helena Duarte Teixeira) e filhos (Roger Duarte Teixeira e Caroline Duarte Teixeira) deste último, declaram que residem no mesmo endereço (doc. 47).
+E para nossa surpresa, qual é o endereço residencial declarado por eles  O famigerado e onipresente Rua dos Pracinhas de Botucatu, nº 251, Botucatu/SP, mesmo endereço da maioria das empresas do grupo.
+Não basta que a maioria das empresas do grupo tenham sua sede nesse endereço. Todas as pessoas físicas que o dirigem também co-habitam no local.
+Ora, resta patente e notório que apesar de possuírem personalidades jurídicas distintas, o que existe na verdade é uma unidade familiar que dirige todo o Grupo Vale do Sol.
+Verifica-se também que as pessoas físicas que comandam o grupo possuem amplos poderes para gerir e administrar os bens, assuntos e interesses uns dos outros.
+Tais afirmações pode ser comprovadas pelos seguintes documentos:
+ ..
+A norma do art. 124 do Código Tributário Nacional trata de responsabilidade tributária, muito embora esteja localizada entre as normas gerais do capítulo que regula a sujeição passiva tributária.
+O art. 124 cuida de duas espécies de responsabilidade tributária, quais sejam, a responsabilidade solidária de fato (inciso I) e a de direito (inciso II).
+Os grupos societários são formados com o objetivo de atender ás necessidades do desenvolvimento dos processos de produção e pesquisa, racionalizando a exploração empresarial, baixando custos e aumentando os lucros. Logicamente, há interesse de toda e qualquer pessoa jurídica integrante de grupo econômico nos atos de qualquer outra integrante, principalmente nos que beneficiem todo o agrupamento.
+Com mais impacto ainda repetimos a afirmação final acima quando tratamos de grupos econômicos que se valem de confusão patrimonial, gerencial e financeira, e ainda os grupos de fato. Nestes grupos, os atos de um, principalmente na seara tributária, são de total interesse das outras empresas agrupadas.
+Nos grupos econômicos, o interesse comum vincula as empresas agrupadas por circunstâncias externas formadoras de solidariedade, provenientes da consciência de grupo, das necessidades que interligam as empresas participantes.
+Desta forma, o interesse comum é justificado pela unidade de direção ou controle, com objetivos finais idênticos de todos os entes agrupados. Há claro aproveitamento das pessoas jurídicas que formam o grupo econômico com as atividades desempenhadas por qualquer delas, pois agem por coordenação ou subordinação.
+ ..
+Quando houver confusão patrimonial entre pessoas jurídicas  assim caracterizada nas de empresas com os mesmos sócios, sediadas em endereços próximos ou idênticos  há também evidente comunhão de interesses entre as empresas envolvidas, vale dizer, há verdadeiro interesse comum no sentido mais puro da expressão.
+Eis a razão pela qual se pode afirmar indubitavelmente: a confusão de patrimônios de empresas ligadas por vínculos societários (identidade de sócios, objeto social e estabelecimentos comerciais) não apenas é elemento caracterizador do grupo econômico, como também aponta para a existência de interesse comum entre elas. Afinal, um só interesse há: a da empresa "de fato", que é o grupo econômico.
+ ..
+Ao serem constituídas e administradas pelos mesmos sócios por tempo suficiente à constituição de diversos créditos tributários até hoje em cobrança, ao serem sediadas em endereços idênticos ou vizinhos, e ao atuarem no mesmo ramo empresarial de transporte de passageiros, não apenas se constata a existência de grupo econômico (aqui chamado de "Grupo Vale do Sol") como também da clara confusão patrimonial entre elas.
+Estão, pois, conforme demonstrado, todas as pessoas nominadas no petitório indeferido e agravado, envolvidas num mesmo novelo, devendo ser reconsiderada a decisão monocrática proferida. (fls. 1.061/1.065 - Grifo nosso)
+Ao rejeitar os embargos de declaração, o Tribunal de origem, assentou que "não é em sede de embargos de declaração o momento próprio para perquirir-lhe o acerto ou desacerto que passível de discussão em via recurso próprio perante superior instância" (fl. 1.069).
+Como se vê, tem-se caracterizada infringência aos arts. 489, § 1º, IV, e 1.022, II, do CPC.
+Ora, "conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida" (REsp 1.819.062/RJ, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/2/2020, DJe de 13/2/2020).
+A propósito, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. NECESSIDADE DE IDENTIFICAÇÃO DOS ATOS DE INFRAÇÃO À LEI OU AOS ATOS CONSTITUTIVOS E DE QUEM OS PRATICOU. QUESTÃO RELEVANTE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A controvérsia tem por objeto acórdão que deferiu o redirecionamento em Execução Fiscal sob estes fundamentos: a) no pedido de Falência da empresa devedora, consta que o agravante ocupava o cargo de diretor da empresa, o que evidencia a responsabilidade tributária nos termos do art. 135, III, do CTN; b) a dissolução irregular é situação que autoriza o redirecionamento;
+c) há confissão da instituição financeira de se apresentam indícios de infrações administrativas e/ou penais; d) em processo anterior, contendo as mesmas partes, foi mantido o entendimento que redirecionou outro processo.
+2. Contra o referido julgamento, opuseram-se Embargos de Declaração para discutir os seguintes vícios: a) omissão e contradição quanto à impossibilidade de equiparar a Falência à dissolução irregular da empresa, bem como em relação ao fato de que, no Agravo de Instrumento 1410191-85.2018.8.12.0000, com as mesmas partes, afastou-se o redirecionamento justamente porque a Falência não implicava dissolução irregular; b) omissão a respeito da ausência de demonstração de dolo ou da prática de atos de infração à lei ou ao contrato social, praticados pelo seu diretor, ônus esse da Fazenda Pública, na medida em que seu nome não esta indicado na CDA.
+3. Embora a Falência não constitua hipótese de dissolução irregular da empresa, tal fato, por si só, não autoriza a conclusão de que o redirecionamento é incabível. Isso porque a dissolução irregular (não presente quando se trata de decretação de Falência) é apenas uma das hipóteses que autorizam o redirecionamento. Nada impede, por exemplo, que se identifique a prática de crimes falimentares ou de atos ilícitos de outra natureza.
+4. No caso dos autos, essa foi a premissa fixada no Tribunal de origem. De fato, o órgão colegiado justificou o redirecionamento porque "há confissão da própria instituição financeira quanto à existência de indícios da ocorrência de infrações administrativas e/ou penais, conforme observa-se às fls. 117-120" (fl. 281. e-STJ).
+5. A esse respeito, a posição veiculada no voto vencido, e expressamente devolvida à apreciação do colegiado por meio da oposição de Embargos de Declaração, é de que o referido relatório poderia identificar infrações, mas em momento algum as imputaria ao diretor contra o qual foi deferido o redirecionamento.
+6. A ausência de valoração desse ponto, pela posição majoritária (que deferiu o redirecionamento) configura omissão, pois é relevante identificar, como parece óbvio, não apenas a existência de atos de infração à lei ou aos atos constitutivos, como principalmente o responsável por eles.
+7. Agravo conhecido para se conhecer do Recurso Especial e dar-lhe parcial provimento para reconhecer, neste momento, a violação do art. 1.022 do CPC. Deverão os autos retornar ao Tribunal de origem para novo julgamento dos Embargos de Declaração (AREsp n. 1.623.517/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/6/2020, DJe de 21/8/2020 - Grifo nosso)
+A princípio, os argumentos suscitados pela recorrente revelam-se essenciais para o correto deslinde da controvérsia e são insuscetíveis de exame por esta Corte, por demandar a apreciação de elementos fático-probatórios e/ou que acarretariam indevida supressão de instância recursal.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para, anulando o acórdão que rejeitou os embargos de declaração, determinar o retorno dos autos ao Tribunal de origem para sanar concretamente todos os vícios apontados.
+Intimem-se.
+EMENTA
