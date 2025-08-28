@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ADILCIO CADORIN, com fundamento na sua intempestividade.
+Sustenta a parte agravante, em síntese, a dispensa da comprovação requerida pela origem na situação dos autos, bem como estar consignado na própria decisão agravada a ocorrência da suspensão de prazos locais no período.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, à luz da atual redação do art. 1.003, § 6º, do CPC/2015, passo à análise do recurso especial.
+O acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA foi assim ementado:
+APELAÇÕES CÍVEIS E REEXAME NECESSÁRIO. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. PROCEDÊNCIA PARCIAL NA ORIGEM. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. AUSÊNCIA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. PRELIMINAR DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CARACTERIZAÇÃO. INCONSTITUCIONALIDADE DA LEI N. 8.429/92 AFASTADA. APLICABILIDADE DA LEI N. 8.429/92 AOS PREFEITOS MUNICIPAIS. PRECEDENTES DO STJ. MÉRITO. PROMOÇÃO PESSOAL CARACTERIZADA. LOGOMARCA E SLOGAN DIVULGADOS COM DINHEIRO PÚBLICO NO MUNICÍPIO DE LAGUNA. LESÃO AO ERÁRIO E VIOLAÇÃO AOS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA COMPROVADOS. CARACTERIZAÇÃO DE ATOS DE IMPROBIDADE ADMINISTRATIVA PREVISTOS NO ART. 10, CAPUT, E NO ART. 11, I, DA LEI N. 8.429/92. MANUTENÇÃO DAS SANÇÕES APLICADAS. RECURSOS CONHECIDOS E DESPROVIDOS. REMESSA NECESSÁRIA DESPROVIDA.
+Os embargos de declaração foram rejeitados.
+Os autos foram baixados para juízo de conformação ao Tema 1.199/STF, tendo sido afirmada a convergência entre o julgado e a tese vinculante, com seguimento negado ao recurso especial no ponto, mantido em agravo interno não conhecido na origem.
+Sustenta a parte recorrente, em síntese: i) existência de omissões insuperáveis no acórdão recorrido, que não apreciou a tese de que os informativos publicitários alcançaram sua finalidade pública e função legal, e não houve dano ao erário (art. 1.022, I, do CPC/2015); e ii) aplicação desproporcional das sanções, considerando a baixa lesividade da conduta e inexistência de proveito patrimonial, violando o critério de dosimetria das penas (art. 12, parágrafo único, da Lei n. 8.429/1992).
+Na origem, o Ministério Público de Santa Catarina ajuizou ação civil pública por improbidade administrativa contra Adilcio Cadorin, Nelsoli Rogério Rodrigues e Celso Dorvalino Deucher, alegando que Adilcio utilizou logomarca e slogan de campanha em obras e materiais da prefeitura, promovendo sua imagem pessoal com recursos públicos (fls. 473-489).
+A sentença condenou Adilcio e Celso ao ressarcimento de R$ 14.762,50, suspensão dos direitos políticos por cinco anos e multa equivalente ao dano, além de declarar nulo o contrato com o Diário Brusquense (fls. 1628-1629).
+O Tribunal manteve a sentença, destacando a promoção pessoal e a violação aos princípios da administração pública, conforme art. 10, caput, e art. 11, I, da Lei n. 8.429/92 (fls. 1632-1652). No recurso especial, Adilcio argumenta violação ao art. 1.022, I, do CPC/2015, e ao art. 12, parágrafo único, da Lei n. 8.429/92, alegando omissões no acórdão e desproporcionalidade das sanções aplicadas (fls. 1691-1699).
+Quanto aos vícios de fundamentação, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (fl. 1648, grifei):
+Em que pese os serviços de publicidade terem sido prestados, vislumbra-se que o conteúdo publicado não possuía caráter educativo, informativo ou social, conforme determina o § 1º do art. 37 da CF/88. Assim, o dinheiro público utilizado para realização da promoção pessoal do apelante Adilcio Cadorin deve ser ressarcido, diante da evidente ausência de interesse público dos serviços prestados.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Acerca do dano e do dolo, a origem estabeleceu, com base nas provas colhidas, a existência de contrato falso de produção de peças gráficas entre a Prefeitura e ex-funcionário da empresa de impressão, que teria servido apenas para justificar pagamentos feitos ao particular responsável pela diagramação dos informativos com teor personalista. Transcrevo (fl. 1647):
+Dessa forma, plenamente demonstrado pelo conjunto probatório que os Recorrentes agiram com o objetivo de promover pessoalmente a imagem do Prefeito Municipal à época dos fatos, o apelante Adilcio Cadorin, tendo, inclusive, celebrado contrato falso de prestação de serviços de publicidade para remunerar o apelante Celso Dorvalino Deucher, pessoa responsável pela elaboração dos informativos publicitários.
+Manuseando os autos, constata-se que os atos ímprobos praticados pelos Apelantes causaram dano ao erário, pois a logomarca e informativos foram impressos com dinheiro público (notas de empenho), conforme explanado nos quadros I e II constantes na exordial (fls. 22/23).
+Desse modo, a conduta segue punível perante a atual Lei de Improbidade.
+Acerca das penas aplicadas, elas foram fixadas no grau mínimo do art. 12, II, da LIA, sendo compatíveis com o atual ordenamento, não havendo evidente desproporcionalidade em sua fixação. No ponto, o recurso incorre no óbice da Súmula 7/STJ.
+Isso posto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nã o sendo caso de má-fé, descabe a incidência de honorários de sucumbência em ação civil pública, inclusive a título recursal.
+Intimem-se.
+EMENTA
