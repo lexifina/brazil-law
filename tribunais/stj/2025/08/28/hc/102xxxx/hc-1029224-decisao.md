@@ -1,0 +1,15 @@
+DECISÃO
+FELIPE OLIVEIRA DE JESUS alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - preso em flagrante, em 8/7/82025, após ser surpreendido na posse de 90 unidades de skank -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+ ..
+Entendo ser o caso de fazer a análise os custodiados isoladamente, começando por FELIPE OLIVEIRA DE JESUS. Há robustos indícios de autoria delitiva e prova da materialidade sendo, neste momento, a conversão da prisão em flagrante em preventiva a medida mais adequada. Verifica-se que as medidas cautelares diversas da prisão previstas no Código de Processo Penal não se mostrariam adequadas e suficientes para conter a atitude criminosa do custodiado, pois, ainda que se diga que o crime foi cometido sem uso de violência ou grave ameaça contra pessoa, suas ações penais em concurso demonstram que a prática do tráfico de drogas é contumaz, fazendo como meio de vida, sendo que a manutenção da prisão se presta tanto para a garantia da ordem pública, quanto para impedir a reiteração criminosa. Note-se que o custodiado é reincidente específico (fls. 51/54), onde, mesmo assim, após o cumprimento da pena, voltou a delinquir, denotando personalidade voltada à prática delituosa. Restando, assim, preenchido o pressuposto do inciso II do art. 313 do Código de Processo Penal para a decretação da custódia preventiva. Tal situação indica a concreta predisposição do acusado à prática criminosa.  ..  (fl, 94)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar ser o paciente reincidente específico.
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 789.267/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe de 25/5/2023.)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
