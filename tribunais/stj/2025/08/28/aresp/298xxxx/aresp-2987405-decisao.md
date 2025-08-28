@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por BANCO DO BRASIL S/A, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 691-692, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA AJUIZADO EM FACE DO BANCO DO BRASIL S/A. AÇÃO CIVIL PÚBLICA N.º 94.0008514-1. CÉDULA DE CRÉDITO RURAL. 1. SUSPENSÃO DO PROCESSO. TEMA N.º 1.169/STJ. NÃO CABIMENTO. 2. PLEITO DE REALIZAÇÃO DE PERÍCIA. AUSÊNCIA DE INTERESSE RECURSAL. PROVA DEFERIDA EM PRIMEIRO GRAU.3. ÍNDICE DE CORREÇÃO MONETÁRIA. MANUTENÇÃO DOS ÍNDICES DETERMINADOS NA SENTENÇA QUE JULGOU A AÇÃO CIVIL PÚBLICA.4. JUROS MORATÓRIOS. IMPOSSIBILIDADE DE APLICAÇÃO DO REGRAMENTO DO ARTIGO 1º- F, DA LEI Nº 9.494/97 À INSTITUIÇÃO FINANCEIRA. DECISÃO PROFERIDA NO RESP. 1.319.232/DF DO STJ.5. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO NA FASE DE CONHECIMENTO. 6. ABATIMENTO DA LEI 8.088/1990. AUSÊNCIA DE COMPROVAÇÃO DA . ADERÊNCIA PELO MUTUÁRIO. 7 DEMAIS MATÉRIAS SUSCITADAS EM SEDE DE RECURSO QUE NÃO PODEM SER CONHECIDAS DIANTE DA AUSÊNCIA DE ANÁLISE NA DECISÃO AGRAVADA. RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO.
+1. Não se justifica a suspensão do feito, por força da decisão exarada no Tema n.º 1.169, do Superior Tribunal de Justiça, quando não houver controvérsia a respeito da necessidade de liquidação prévia da sentença coletiva.
+2. Carece a parte de interesse recursal se a prova pericial já foi deferida em primeiro grau.
+3. O índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança, foi o BTN no percentual de 41,28%. Precedentes específicos do STJ.
+4. De acordo com a recente decisão proferida no Resp. 1.319.232, "(..)o recurso da UNIÃO aproveita ao BACEN porque ambos tem em comum o fato de se enquadrarem no conceito de "Fazenda Pública", a que se dirige o critério de juros de mora contido no art. 1º-F da Lei 9.494/97 (e-STJ fl. 2.621). Não obstante, considerando que o ora embargante é constituído na forma de sociedade de economia mista, não é cabível estender em seu favor, automaticamente, os efeitos do julgamento do recurso interposto apenas pela UNIÃO. (..)" (EDcl nos EREsp 1.319.232, Rel. Min. NANCY ANDRIGHI, julgado em 13/02/2020).
+5. É assente o entendimento do Superior Tribunal de Justiça, no sentido de que o termo inicial dos juros moratórios é a citação na fase de conhecimento da ação civil pública.
+6. No caso dos autos, a instituição se limita a falar sobre a existência do abatimento, deixando de comprovar que houve a opção pelo mutuário, de modo que não consta no título qualquer previsão nesse sentido.
+7. Não se conhece de questões não tratadas na decisão agravada, sob pena de supressão de instância e violação do princípio do duplo grau de jurisdição.
+Agravo de Instrumento conhecido em parte e parcialmente provido.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 777, e-STJ.
+Nas razões de recurso especial (fls. 789-801, e-STJ), a parte recorrente aponta violação aos arts. 240 e 503 do Código de Processo Civil e 405 do Código Civil.
+Sustenta, em síntese: a) omissão acerca da aplicação dos juros de mora, defendendo que devem incidir a partir da citação na ação de liquidação e cumprimento de sentença, e não na ação civil pública; b) a correção monetária deve seguir os índices aplicáveis aos débitos judiciais da Justiça Federal, conforme a coisa julgada.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 820-821, e-STJ).
+É o relatório.
+Decido.
+1. O Supremo Tribunal Federal, no Recurso Extraordinário nº 1.445.162/DF, reconheceu a repercussão geral da questão constitucional discutida no título exequendo ("critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança", questão cadastrada como Tema STF 1.290).
+Segue a ementa do julgado:
+RECURSO EXTRAORDINÁRIO. CRITÉRIO DE REAJUSTE DOSALDODEVEDOR DAS CÉDULAS DE CRÉDITO RURAL, NO MÊS DE MARÇODE1990, NAS QUAIS PREVISTA A INDEXAÇÃO AOS ÍNDICES DACADERNETADE POUPANÇA. REPERCUSSÃO GERAL RECONHECIDA.
+1. Revela especial relevância, na forma do art. 102, § 3º, da CONSTITUIÇÃO FEDERAL, definir o critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, cujos contratos estabelecem a indexação aos índices da caderneta de poupança.
+2. Repercussão geral da m atéria reconhecida, nos termos do art. 1.035 do CPC.(RE 1445162 RG, Relator(a): ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 09-02-2024, PROCESSO ELETRÔNICO DJe-033 DIVULG 22-02-2024 PUBLIC 23-02-2024)
+Ressalta-se que, em decisão singular publicada no DJe 11.3.2024, o Relator desse recurso, Ministro Alexandre de Moraes, decretou a suspensão do processamento de " ..  todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos.  .. ".
+Colhe-se dos autos que o presente feito deriva de liquidação de sentença coletiva proferida na Ação Civil Pública nº. 94.0008514-1, movida pelo Ministério Público Federal perante a 3ª Vara Federal do Distrito Federal, a qual versa sobre a devolução das diferenças pagas pelos mutuários de Cédulas de Crédito Rural.
+Verifica-se, portanto, que a presente execução se inclui entre as alcançadas pela suspensão mencionada, impondo-se, assim, o retorno dos autos à Corte de origem, onde ficarão sobrestados até a publicação da tese de repercussão geral.
+2. Do exposto, determina-se a restituição dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso até o julgamento definitivo do Recurso Extraordinário n.º 1.445.162 (Tema STF 1.290),quanto, então, deverá ser observado o disposto nos artigos 1.039 a 1.041 do CPC/2015 .
+Publique-se.
+Intimem-se.
+EMENTA
