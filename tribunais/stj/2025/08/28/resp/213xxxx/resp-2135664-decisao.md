@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto por JOSÉ KLEBER DE SANTANA FONSECA contra acórdão assim ementado:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA DE AÇÃO CONDENATÓRIA DE ATOS DE IMPROBIDADE ADMINISTRATIVA. INDÍCIOS DE FRAUDE À EXECUÇÃO E DE SIMULAÇÃO DE NEGÓCIO JURÍDICO. DETERMINAÇÃO DE BLOQUEIO VIA SISBAJUD E DE PESQUISA PATRIMONIAL. MANUTENÇÃO DA DECISÃO. RECURSO IMPROVIDO.
+1. Agravo de instrumento interposto pelo particular em face de decisão proferida nos autos de cumprimento de sentença condenatória de atos de improbidade administrativa, a qual considerando fortes indícios de fraude à execução entre o réu (ora agravante) e sua ex-companheira, no que se refere à simulação de compra e venda de imóvel, deferiu o pedido de bloqueio via SISBAJUD, no montante de R$ 32.201,57, bem como a pesquisa patrimonial, acaso não seja localizado numerário suficiente nas contas da mesma.
+2. No caso em apreço, a fraude à execução reconhecida na origem lastreia-se na tese de que o executado e sua ex-cônjuge simularam um empréstimo, para assim evitar o bloqueio do produto da venda do imóvel a terceiros de boa-fé.
+3. A tese defendida pelo MPF - e acolhida pelo juízo de origem - é de que o executado e a sua antiga companheira simularam um empréstimo, para assim evitar o bloqueio do produto da venda do imóvel a terceiros de boa-fé, em 18/10/2016, menos de dois meses após o início da fase de cumprimento de sentença. A alienação do imóvel no curso da execução tornou o executado insolvente, e os pagamentos feitos, da forma como foram, somados às informações de que seria o verdadeiro titular da Lotérica, apontam para uma tentativa de blindagem patrimonial.
+4. Os elementos constantes dos autos corroboram a plausibilidade jurídicas das alegações vertidas pelo Ministério Público Federal, no que diz respeito à realização de manobras para, a partir do esvaziamento patrimonial do executado, inviabilizar e frustrar a satisfação do crédito exequendo, utilizando-se da estratégia de simulação.
+5. Agravo de instrumento improvido.
+Os embargos de declaração foram rejeitados, tendo em vista a ausência de vícios a serem sanados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação aos arts. 141, 49, 927, III, do CPC, sustentando que houve julgamento extra petita e equívoco na presunção da alegada simulação (fl. 1.628).
+É o relatório.
+Decido.
+Impende destacar que os dispositivos apontados como violados não foram objeto de apreciação pelo Tribunal de origem, razão que atrai o óbice da Súmula 211/STJ.
+Oportuno ressaltar que, apesar da oposição dos embargos de declaração, a parte recorrente não alegou violação ao art. 1.022 do CPC, a fim de que sua irresignação fosse apreciada ainda na origem.
+Com efeito, este STJ possui o entendimento segundo o qual "para a admissão do prequestionamento ficto, previsto no art. 1.025 do CPC, é necessário não só que haja a oposição dos embargos de declaração na Corte a quo como também a indicação, no recurso especial, da ofensa ao art. 1.022 do CPC/2015" (STJ, AgInt no AREsp 2.077.732/MG, Rel. Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, DJe de 28/09/2023).
+De relevo, oportuno registrar que "não há julgamento extra petita, pois "(..) o recurso de apelação é dotado de efeito devolutivo, permitindo ao tribunal o conhecimento da matéria impugnada, podendo adotar o enquadramento jurídico que entender de direito à solução da lide, não se encontrando limitado nem pelos fundamentos jurídicos adotados na sentença nem pelos suscitados pelas partes" (AgInt no AREsp 1420862/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 03/09/2019, DJe de 10/09/2019)" (AgInt no REsp n. 1.723.146/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2022, DJe de 1/7/2022).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
