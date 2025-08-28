@@ -1,0 +1,28 @@
+DECISÃO
+Wasty de Castro Sousa da Costa opõe embargos de declaração à decisão de fls. 276/279, assim resumida:
+AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. CRIME CONTRA A HONRA. AÇÃO PENAL PRIVADA. ART. 44 DO CPP. PROCURAÇÃO COM PODERES ESPECIAIS. IRREGULARIDADE. INEXISTÊNCIA. MENÇÃO AO FATO CRIMINOSO PELA INDICAÇÃO DO ARTIGO DE LEI OU DO NOMEM JURIS DO CRIME. SUFICIÊNCIA.
+Agravo conhecido para dar parcial provimento ao recurso especial.
+A parte embargante aponta, em síntese, a existência de omissão na decisão embargada, consubstanciada na ausência de sua intimação, na qualidade de recorrida, para apresentar contrarrazões ao recurso especial e ao agravo em recurso especial interpostos pela parte querelante. Sustenta que tal vício acarreta nulidade absoluta por violação dos princípios constitucionais do contraditório e da ampla defesa (fls. 285/294).
+A embargada apresentou impugnação às fls. 314/323.
+Opina o Ministério Público Federal pelo acolhimento dos embargos de declaração (fls. 332/335).
+É o relatório.
+Assiste razão à parte embargante.
+Estou de acordo com o bem pontuado pela nobre parecerista.
+Verifica-se que a parte ora embargante não foi intimada, na origem, para apresentar contrarrazões, nos termos do art. 1.030 do Código de Processo Civil, o que destoa da orientação jurisprudencial deste Tribunal Superior, razão pela qual adoto como razão de decidir o bem- lançado parecer ministerial, pois em conformidade com a orientação que tem sido estabelecida por esta Corte (fls. 333/334 - grifo nosso):
+ ..  O embargante alega que, "não consta no juízo a quo nem nesse juízo nenhuma intimação da Recorrida no Recurso Especial e Agravada no Agravo em Recurso Especial, WASTY DE CASTRO SOUSA DA COSTA, ora Embargante, seja pessoalmente ou por seu advogado constituido, para apresentar suas contrarrazões ao Recurso Especial e ao Agravo em Recurso Especial, o que caracteriza nulidade absoluta em virtude da violação ao princípio constitucional do contraditório." (fl. 286 e-STJ).
+Com razão a embargante.
+A ausência de intimação para apresentar contrarrazões ao recurso especial pode gerar nulidade processual. Isso porque a falta dessa intimação viola os princípios do contraditório e da ampla defesa, assegurados pela Constituição. A parte recorrida tem o direito de ser comunicada sobre o recurso e ter a oportunidade de apresentar sua defesa. O artigo 1.030 do NCPC é claro ao afirmar que, ipsis litteris:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+(..)
+A Certidão de ID nº 46283798, presente na página 221 e-STJ datada de 03 de maio de 2023 intima o(s) recorrido(s) a apresentar contrarrazões ao(s) recurso(s) interposto(s). No entanto, a Recorrida Wasty de Castro, ora Embargante, sequer consta como parte no processo, sendo o Ministério Público do Distrito Federal e Territórios o único recorrido mencionado. A partir desse momento, todos os demais atos constam apenas intimação do Ministério Público.
+Portanto, a falta de intimação para contrarrazões no Recurso Especial impede que a parte recorrida exerça seu direito de defesa, contestando os argumentos apresentados no recurso especial. Nesse mesmo sentido:  ..
+De fato, no caso concreto, o vício processual é incontroverso, pois a ora embargante não foi formalmente intimada para apresentar contrarrazões ao recurso especial e ao agravo em recurso especial, constando apenas o Ministério Público do Distrito Federal e Territórios como intimado. Tal falha compromete a higidez do procedimento e a validade dos atos subseque ntes.
+Verifica-se, ademais, que o prejuízo é evidente, considerando o teor da decisão de fls. 276/279 sem que a embargante tivesse a oportunidade de se manifestar contra o recurso da parte adversa, o que afronta diretamente os princípios do contraditório e da ampla defesa.
+Por outro lado, não prospera a alegação de ciência inequívoca, fundada no mero acesso dos advogados ao processo eletrônico, pois tal circunstância não substitui a intimação formal, indispensável para a contagem de prazos e para a preservação da segurança jurídica. Também não há falar em nulidade de algibeira, visto que o vício somente gerou prejuízo concreto após a decisão monocrática desfavorável, tendo a nulidade sido arguida no primeiro momento processualmente cabível.
+Sobre o tema, já decidiu esta Corte Superior que a intimação para a apresentação de contrarrazões é condição de validade da decisão que causa prejuízo à parte (REsp n. 1.653.146/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/9/2017, DJe de 14/9/2017).
+Em situações semelhantes: HC n. 803.333/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023 e AgInt no AREsp n. 1.560.536/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/12/2020, DJe de 1/2/2021.
+Pelas considerações expostas, acolho os presentes embargos, com efeitos infringentes, para declarar nula a decisão proferida às fls. 276/279 e determinar o retorno dos autos à origem, a fim de que seja aberto prazo para a parte querelada, ora embargante, oferecer contrarrazões ao recurso especial e ao agravo em recurso especial, nos termos da presente fundamentação.
+Publique-se.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INTIMAÇÃO DA PARTE QUERELADA PARA APRESENTAR CONTRARRAZÕES AO RECURSO ESPECIAL. PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA. NULIDADE PROCESSUAL CONFIGURADA. PREJUÍZO EVIDENTE. ACOLHIMENTO DO PARECER MINISTERIAL.
+Embargos de declaração acolhidos nos termos da fundamentação.
