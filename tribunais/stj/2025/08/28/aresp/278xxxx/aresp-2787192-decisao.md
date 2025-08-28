@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se  de  agrav  o  em  recurso  especial  interposto  pelo CONSELHO REGIONAL DE ENGENHARIA E AGRO NOMIA DO PARANÁ,  contra  inadmissão,  na  origem,  de  recurso  especial  fundamentado  na alínea "a" do  inciso  III  do  artigo  105  da  Constituição  Federal,  manejado  contra  acórdão  do  TRIBUNAL  REGIONAL FEDERAL DA 4ª REGIÃO,  assim  ementado  (fl.  176):
+ADMINISTRATIVO. AÇÃO PELO PROCEDIMENTO COMUM. CREA. ATIVIDADE BÁSICA. INSTALAÇÃO E MANUTENÇÃO DE APARELHOS DE AR CONDICIONADO. REGISTRO. INEXIGIBILIDADE. HONORÁRIOS. MAJORAÇÃO.
+1. O critério legal para a obrigatoriedade de registro perante os conselhos profissionais é determinado pela atividade básica ou pela natureza dos serviços prestados pela empresa. A empresa que tem como atividade básica a instalação e manutenção de aparelhos de ar condicionado não guarda, nos termos da Lei 5.194/66, relação com o exercício profissional da engenharia. Precedentes desta Corte.
+2. Possibilidade de arbitramento de honorários por equidade quando for irrisório o proveito econômico ou o valor da causa.
+3. Ainda que a tabela de honorários da OAB seja mera recomendação, não vinculando sequer os advogados e com maior razão o Poder Judiciário, esta Turma vem entendo por prestigiá-la em caso de o valor não ser desproporcional para a questão em exame.
+4. Hipótese em que majorada a condenação ao pagamento de honorários advocatícios de sucumbência.
+Não foram opostos embargos de declaração.
+Em  seu  recurso  especial  de  fls.  184-189,  sustenta  o  recorrente  violação  do s  arts.  7º, alínea "g", da Lei nº 5.194/66 e 1º, da Lei nº 6.839/80, uma vez que o acórdão determinou a inexigibilidade de registro no CREA-PR e a dispensa da contratação de engenheiro como responsável técnico. Ar gumenta que as atividades previstas no objeto social da empresa enquadram-se no escopo de fiscalização do CREA-PR, justificando a obrigatoriedade de registro e a presença de responsável técnico habilitado.
+O  Tribunal  de  origem,  às  fls.  210-216,  não  admitiu  o  recurso  especial  sob  o  fundamento  da  incidência  da  Súmula  n.  7/STJ.
+  Em  seu  agravo,  às  fls.  1073-1080,  o  agravante argumenta que houve "error in judicando" por parte do acórdão recorrido, decorrente de equívoco na valoração das provas, o que resultou na aplicação incorreta da lei.
+É  o  relatório.
+A  insurgência  não  pode  ser  conhecida.
+De  início,  verifica-se  que  não  foi  impugnada  a  integralidade  da  fundamentação  da  decisão  agravada,  porquanto  o  agravante  não  infirmou  suficientemente  o  fundamento  utilizado  para  a  inadmissão  do  seu  recurso  especial.
+Em  verdade,  a  decisão  monocrática  que  negou  a  subida  do  apelo  raro,  ora  agravada,  assentou-se  no  fundamento  da  incidência  do  enunciado  7  da  Súmula  do  STJ,  em  razão  da  contenda  demandar  reexame  fático  e  probatório  dos  autos.
+Todavia,  no  seu  agravo,  a  parte  limitou-se  a  afirmar  que "para afirmar ou negar que a empresa deva ter registro no CREA-PR, necessariamente será preciso interpretar a legislação vigente em conjunto com os documentos, analisando a qualificação jurídica dada ao fato" (fl. 226 ) , argumentação essa que não refuta o óbice da Súmula 7/STJ.
+Logo,  o  fundamento  da  decisão  agravada,  à  míngua  de  impugnação  específica  e  pormenorizada,  permanece  hígido,  produzindo  todos  os  efeitos  no  mundo  jurídico.
+Assim,  ao  deixar  de  infirmar  o  fundamento  do  juízo  de  admissibilidade  realizado  pelo  Tribunal  de  origem,  o  agravante  fere  o  princípio  da  dialeticidade  e  atrai  a  incidência  da  previsão  contida  nos  artigos  932,  inciso  III,  do  Código  de  Processo  Civil,  e  253,  parágrafo  único,  inciso  I,  do  Regimento  Interno  do  STJ,  no  sentido  de  que  não  se  conhece  de  agravo  em  recurso  especial  que  "não  tenha  impugnado  especificamente  todos  os  fundamentos  da  decisão  recorrida".  Também  incide  à  espécie,  a  exegese  do  enunciado  182  da  Súmula  do  STJ,  que  reza:  "é  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".  Nesse  sentido:
+TRIBUTÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  DE  INADMISSIBILIDADE.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+4.  A  falta  de  efetivo  combate  de  quaisquer  dos  fundamentos  da  decisão  que  inadmitiu  o  recurso  especial  impede  o  conhecimento  do  respectivo  agravo,  consoante  preceituam  os  arts.  253,  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  e  932,  III,  do  Código  de  Processo  Civil  e  a  Súmula  182  do  STJ.
+5.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  n.  2.419.582/SP,  rel.  Min.  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  14/3/2024)
+Ante  o  exposto,  com  fundamento  no  artigo  253,  parágrafo  único,  inciso  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  agravo  em  recurso  especial .
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSO CIVIL .  AGRAVO  EM  RECURSO  ESPECIAL  QUE  NÃO  COMBATEU  O  FUNDAMENTO  DA  DECISÃO  AGRAVADA.  DESCUMPRIMENTO  DO  PRINCÍPIO  DA  DIALETICIDADE.  INCIDÊNCIA  DOS  ARTS.  932,  III,  DO  CPC,  253,  P.  Ú,  I,  DO  RISTJ,  E  SÚMULA  182/STJ.  AGRAVO  NÃO  CONHECIDO.
