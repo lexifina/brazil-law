@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, ação rescisória ajuizada por CLAUDIA MARIA DE SOUSA, com fundamento no art. 966, VIII c/c §2º, II, do CPC, visando rescindir acórdão proferido pelo STJ no julgamento do RMS 57.314/GO.
+Na petição inicial da ação rescisória, a parte autora afirma que "a decisão que se visa rescindir é teratológica, visto que demonstra erro de fato verificável do exame dos autos, tendo em vista que a admissibilidade do Recurso Ordinário feita nos moldes dos requisitos de admissibilidade de Recurso Especial. Ademais, cumpre ressaltar que a decisão em comento, nos termos do §2º, inciso II, em que pese não se tratar de decisão de mérito, pode ser rescindida por impedir admissibilidade do recurso correspondente" (fl. 5).
+Na contestação a parte ré pugnou pela improcedência da rescisória (fls. 52-58).
+Réplica oferecida pela autora às fls. 80-86 .
+O feito foi a mim atribuído em 25/11/2023.
+É o relatório.
+A presente demanda não merece prosperar.
+No caso, a decisão indicada como rescindenda não conheceu do recurso ordinário em razão da incidência da Súmula 283/STF, aplicada por analogia.
+Entendimento que foi mantido pela Primeira Turma, conforme demonstra a ementa do julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido. (grifos acrescidos).
+A jurisprudência do STJ é firme no sentido de sua incompetência para o conhecimento e julgamento de ação rescisória quando o acordão dito como rescindendo não adentrou o mérito da causa.
+No caso dos autos, o acórdão rescindendo se limitou a manter a decisão que não conheceu do recurso ordinário ante o óbice da Súmula 283/STF, aplicada por analogia, o que inviabiliza o manejo da presente ação rescisória.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ACÓRDÃO RESCINDENDO QUE NÃO ENFRENTA O MÉRITO DA DEMANDA. CABIMENTO DE EMBARGOS INFRINGENTES. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - O primeiro requisito essencial que se põe ao cabimento da ação rescisória é que ela impugne uma decisão de mérito, vale dizer, "toda a decisão judicial (sentença em sentido estrito, acórdão ou decisão interlocutória) que faça juízo sobre a existência ou a inexistência ou o modo de ser da relação de direito material objeto da demanda" (REsp n. 784.799/PR, relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 17/12/2009, DJe 2/2/2010).
+III - Na hipótese, tendo o acórdão ora rescindendo se limitado a analisar o cabimento ou não dos embargos infringentes, não se mostra viável o manejo da presente ação rescisória.
+IV - Agravo interno improvido (AgInt na AR n. 7.393/SE, relator Ministro Francisco Falcão, Primeira Seção, julgado em 29/8/2023, DJe de 31/8/2023, grifos acrescidos).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL À DISPOSITIVO DE LEI. ACÓRDÃO RESCINDENDO. AUSÊNCIA DE MANIFESTAÇÃO SOBRE AS NORMAS JURÍDICAS PROCESSUAIS. IMPOSSIBILIDADE DE ANÁLISE EM AÇÃO RESCISÓRIA. OFENSA À COISA JULGADA. INTEMPESTIVIDADE DOS ACLARATÓRIOS. MATÉRIA NÃO IMPUGNADA NO MOMENTO OPORTUNO. SUCEDÂNEO RECURSAL. INVIABILIDADE. TEMPESTIVIDADE, ADEMAIS, DOS ACLARATÓRIOS. ERRO DE FATO. EXISTÊNCIA DE CONTROVÉRSIA E DE PRONUNCIAMENTO JUDICIAL SOBRE A QUESTÃO. AÇÃO RESCISÓRIA IMPROCEDENTE.
+(..).
+4. A ação rescisória não é remédio processual adequado para rediscutir o juízo de admissibilidade do recurso especial. Precedentes: AgRg na AR 4.346/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 10/04/2013, DJe 07/06/2013; AR 3.097/DF, Rel. Min. Paulo de Tarso Sanseverino, Segunda Seção, DJe de 16/06/2011.
+5. Não há falar em ocorrência de erro de fato (art. 485, IX, do CPC/73), porquanto a questão da legitimidade passiva e responsabilidade da União foi objeto de controvérsia entre as partes, bem como de decisão pelo acórdão rescindendo. A Segunda Turma concluiu que a União, não tendo celebrado contrato ou convênio com a parte Autora, não tinha legitimidade para responder àquela ação de cobrança, por não ser responsável pelos débitos cobrados, que haveriam de ser exigidos apenas dos entes públicos encarregados de gerir os recursos destinados aos serviços de saúde e de controlar a emissão de Autorizações de Internação Hospitalar - AIH. Não houve erro de fato, mas decisão que rechaçou a tese, em sentido contrário, da autora.
+6. Ação rescisória improcedente (AR n. 4.496/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 18/2/2020, DJe de 28/2/2020).
+O entendimento jurisprudencial do STJ é o de que "a ação rescisória não é o meio adequado para corrigir suposta injustiça da sentença, apreciar má interpretação dos fatos, reexaminar as provas produzidas ou complementá-las" (STJ, AR 3.991/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 06/08/2012).
+Ressalte-se, por fim, que a pequena incorreção na designação do recurso no texto da decisão monocrática que se pretende rescindir não a invalida, pois nota-se, claramente, que houve julgamento do recurso ordinário interposto pela autora, tendo a decisão singular sido integralmente confirmada pelo agravo interno interposto.
+Ante o exposto, julgo extinto o presente processo sem resolução de mérito, nos termos do art. 34, XVIII, do RISTJ . Condeno a autora ao pagamento de honorários advocatícios, em favor do réu, fixados em R$ 2.000,00 (dois mil reais), com fundamento no art. 85, § 2º, do CPC.
+Intimem-se.
+EMENTA
