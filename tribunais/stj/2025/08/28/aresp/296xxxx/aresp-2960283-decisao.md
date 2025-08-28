@@ -1,0 +1,56 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. HOMICÍDIO. CONDENAÇÃO. APELO DA DEFESA. PRELIMINAR DE NULIDADE OCORRIDA EM PLENÁRIO. CONDUTA PARCIAL DO JUIZ DE PRIMEIRO GRAU NÃO CARACTERIZADA. MÉRITO. DECISÃO MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. NÃO VERIFICAÇÃO. VEREDICTO QUE ENCONTRA APOIO NO CONJUNTO PROBATÓRIO. SOBERANIA DO SINÉDRIO POPULAR. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS. DECOTE DE ALGUNS VETORES NEGATIVOS DO ART. 59 DO CP. PROVIMENTO PARCIAL.
+Não se vislumbrando a caracterização de parcialidade na condução da Sessão de julgamento pelo Juiz Presidente, tampouco a ocorrência de influência indevida no ânimo dos jurados, descabe falar em nulidade.
+Os elementos mencionados pelo apelante como utilizados para caracterizar a sua periculosidade já eram acessíveis ao corpo de jurados, porquanto encartados nos autos.
+A leitura, pelo juiz, de depoimentos prestados anteriormente para fins de confirmação, com a submissão do depoente a perguntas da acusação e defesa, não caracteriza parcialidade ou induzimento à confirmação da autoria delitiva.
+Não se tratando de exclusiva prova testemunhal por ouvir dizer, havendo outros elementos que, concatenados, dão suporte à decisão do Júri não há se falar na nulidade do julgamento.
+Se o Conselho de Sentença optou por uma das versões apresentadas, amparado pelo acervo probatório, não há que se falar em decisão manifestamente contrária à prova dos autos, devendo ser mantida, em respeito ao Princípio da Soberania Popular do Júri.
+Havendo circunstâncias judiciais valoradas indevidamente como negativas, cabível o respectivo decote, com o devido redimensionamento da pena. (e-STJ fls. 651/652)
+A defesa aponta a violação dos arts. 478 e 212 do CPP, alegando, em síntese, que a leitura dos depoimentos prestados na fase inquisitorial em juízo tornam ilícita a prova. Sustenta que a inquirição das testemunhas primeiramente e diretamente pelo magistrado também configura nulidade.
+Contrarrazões às e-STJ fls. 816/822.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 861/863.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O TJPB afastou as nulidades alegadas pela defesa pelos seguintes fundamentos:
+Inicialmente, o apelante sustenta a nulidade ocorrida durante a Sessão de Julgamento pelo Júri, sob a alegação de que o Juiz Presidente atuou de forma parcial ao emitir palavras negativas e conduzir os depoimentos com a intenção de criar uma imagem, para os jurados, de que ele é uma pessoa perigosa.
+Aduz, ainda, que o Juiz Presidente do Júri, inclusive teria se mostrado irritado, quando passou a comunicar aos jurados que a testemunha Emília Pessoa Barbosa não compareceu em plenário porque tinha viajado para a Itália com medo do apelante, situação que deixou o corpo de jurados temeroso.
+Nesse ponto, cumpre assentar que o alegado temor da testemunha Emília Pessoa Barbosa já constava nos autos do processo, porquanto na audiência de instrução ela prestou a seguinte declaração:
+"Eu tô com medo, porque ele tá solto, eu não o conheço, eu sou uma pessoa que eu trabalho, eu acordo cedo, eu tô em parada de ônibus, entendeu  Eu tô exposta, lá no setor, porque eu não saí do bairro, eu continuo no mesmo bairro. " (Depoimento disponível no Pje Mídias).
+Considerando que o citado temor já constava documentado nos autos, acessível aos jurados, descabe presumir que ficaram temeroso tão somente em razão de o Magistrado ter feito tal menção durante a Sessão de julgamento, dentro do contexto das considerações a respeito da adoção de medidas pelo não comparecimento da testemunha.
+Por conseguinte, a alegação de outras nulidades decorrentes da condução da sessão do julgamento não prospera.
+Aduz o apelante que o Juiz teria se utilizado de gíria não contida na denúncia, bem como realizado perguntas e se valido de expressões com a finalidade de assentar a sua periculosidade perante os jurados.
+Da análise de todos os depoimentos colhidos na sessão de julgamento e na audiência de instrução (disponíveis no Pje Mídias), extrai-se que, ao inquirir as testemunhas e declarante, o juiz adotou a praxe de ler os depoimentos por elas anteriormente prestados, seguindo-se da indagação se o depoente confirmava as declarações e partindo-se para a formulação de perguntas.
+Com efeito, não há regramento que proíba a leitura em juízo de declarações prestadas na esfera policial, especialmente quando o depoimento não se restringe à confirmação daquelas e é possível a participação efetiva da defesa, como ocorreu no caso, não havendo de se falar, portanto, na caracterização de nulidade.
+ ..
+Ao contrário do que afirma o apelante, não se observou que durante a colheita dos depoimentos o Magistrado induziu os depoentes a se limitar a prestar ou confirmar declarações de que ele seria o autor do delito.
+Importa destacar, ainda, que, durante a sessão do júri, os jurados eram instados sobre a existência de eventuais perguntas aos depoentes.
+Ademais, a menção à prática de outros delitos atribuídos ao apelante não pode ser considerada como emissão de juízo de valor negativo para fins de influenciar o ânimo do júri, porquanto as informações correspondentes já constavam nos autos. Inclusive, os delitos citados no plenário tinham correlação com o homicídio objeto dos presentes autos.
+Em relação a gíria "X9", mencionada pelo juiz durante a leitura da denúncia, não há nenhuma irregularidade, pois, apesar de não escrita na peça, é coerentemente extraída do contexto fático narrado na exordial e se trata de expressão cujo significado é popularmente conhecido.
+Dito isso, após a análise detida das mídias, não se vislumbrou conduta parcial do magistrado que, inclusive, presidiu a audiência de instrução e relembrou as oitivas colhidas.
+Quanto à discordância com o pedido de arquivamento formulado inicialmente pelo Ministério Público, para além de não ser elemento hábil a caracterizar a imparcialidade, cumpre mencionar que a decisão foi proferida por outro magistrado (id. 18488841 - Pág. 80).
+Não se mostra despiciente relembrar que, nos termos do entendimento jurisprudencial predominante, "para o reconhecimento de nulidades ocorridas ao longo da ação penal, deve ser demonstrado o efetivo prejuízo" (STJ, HC n. 557.224/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/8/2022, D Je de 19/8/2022).
+Dessa forma, por não vislumbrar que o veredicto dos jurados foi maculado por impressões indevidas, não há nulidades a ser reconhecidas, de modo que REJEITO a preliminar arguida. (e-STJ fls. 655/659)
+Observa-se que o entendimento do TJPB está em conformidade com a jurisprudência desta Corte, firme no sentido de que não configura nulidade processual a mera leitura, em juízo, de declarações e depoimentos prestados em fase inquisitorial, uma vez que franqueada às partes a formulação de perguntas para questionar a dinâmica dos fatos em audiência (ut, AgRg nos EDcl no AgRg no AREsp n. 2.513.135/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 15/8/2025.).
+Ainda nessa linha:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. NULIDADES. LEITURA DE DEPOIMENTO ANTERIOR. AUSÊNCIA DE VEDAÇÃO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INDEFERIMENTO DE PERGUNTA PARA COIBIR PRÁTICA DE ATO ATENTATÓRIO À DIGNIDADE . AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental em recurso em habeas corpus interposto contra decisão monocrática que negou provimento ao recurso ordinário em habeas corpus, sob o fundamento de ausência de demonstração de efetivo prejuízo, conforme o princípio pas de nullité sans grief.
+2. O agravante alega nulidade da audiência de instrução e julgamento, sustentando que a leitura do depoimento da vítima na fase inquisitorial induziu a confirmação de declarações anteriores, e que houve cerceamento de defesa ao ser impedido de questionar a vítima sobre o conhecimento de seu marido acerca dos fatos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a leitura do depoimento prestado pela vítima na fase inquisitorial e a intervenção do magistrado na audiência de instrução e julgamento configuram nulidade processual e cerceamento de defesa.
+III. Razões de decidir
+4. A leitura de depoimento prestado em sede policial não configura nulidade da prova ou do ato processual, desde que não haja comprovação de efetivo prejuízo para a parte.
+5. A intervenção do magistrado na audiência para garantir a observância das disposições da Lei n. 14.245/2021, que visa proteger a dignidade da vítima, não caracteriza cerceamento de defesa, especialmente quando a defesa teve oportunidade de formular questionamentos.
+6. A decretação de nulidade processual exige a demonstração de efetivo prejuízo, o que não foi comprovado no caso em análise.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. A leitura de depoimento prestado em sede policial não configura nulidade processual na ausência de comprovação de prejuízo. 2. A intervenção do magistrado para proteger a dignidade da vítima não caracteriza cerceamento de defesa quando a defesa tem oportunidade de formular questionamentos. 3. A decretação de nulidade processual exige a demonstração de efetivo prejuízo."
+Dispositivos relevantes citados: CPP, art. 204, parágrafo único; CPP, art. 563; Lei n. 14.245/2021.Jurisprudência relevante citada: STJ, AgRg no HC 858.214/MG, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024. (AgRg no RHC n. 198.541/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 25/4/2025.)
+Também não procede a alegação de violação do art. 212 do CPP, porquanto é assente nesta Corte Superior que a inquirição de testemunhas pelo magistrado não gera nulidade sem demonstração de prejuízo concreto, como no caso . A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. AUDIÊNCIA DE INSTRUÇÃO NA FASE DA PRONÚNCIA. INQUIRIÇÃO DAS TESTEMUNHAS PELO MAGISTRADO. NULIDADE AFASTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Continua sendo possível ao magistrado indagar as testemunhas durante a instrução, diante do impulso oficial do processo. Com efeito, a jurisprudência desta Corte de Justiça, no sentido de que a inquirição das testemunhas pelo Juiz, antes que seja oportunizada às partes a formulação das perguntas, com a inversão da ordem prevista no art. 212 do Código de Processo Penal, constitui nulidade relativa, que exige a demonstração do efetivo prejuízo, conforme o disposto no art. 563 do mesmo Estatuto, para que seja alcançada a anulação do ato (AgRg no RHC n. 148.274/SC, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 15/6/2021, DJe 25/6/2021)" (AgRg no HC n. 787.903/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+2. Agravo regimental desprovido. (AgRg no HC n. 782.231/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 22/6/2023.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
