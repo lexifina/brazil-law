@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+4. Denota-se que todos os fundamentos relevantes para formação da livre convicção do magistrado no que se refere a ilegitimidade passiva da ISA Energia foram analisados de forma exauriente pelo E. TJSP. 5. Atente-se que as teses jurídicas ventiladas pela AAFC e pela FESP em seus Recursos Especiais são as mesmas aduzidas na fase de conhecimento e recursal, tendo sido analisadas e refutadas, ainda que implicitamente, quando do julgamento das Apelações e dos Embargos de Declaração. 6. Outrossim, é certo que o julgador não está obrigado a se manifestar sobre todas questões trazidas pelas partes, mas tão somente aquelas suficientes para formar o seu livre convencimento. 7. Dessa forma, ainda que se admita que o Tribunal a quo não tenha sido expresso quanto à responsabilidade integral e exclusiva da FESP (o que ocorreu), cumpre destacar que, ao adotar determinada tese, o julgador afastou, por corolário, as demais teses defendidas pela insurgente. Tal circunstância não configura omissão nem ausência de prestação jurisdicional, mas apenas a rejeição implícita de fundamentos que, segundo o convencimento do juízo, não se mostraram relevantes e suficientes para o deslinde da controvérsia.
+ ..
+11. Diante do exposto, resta demonstrado que a r. decisão monocrática incorreu em relevantes omissões, notadamente quanto à exaustiva fundamentação apresentada pelo E. TJSP sobre a ilegitimidade passiva da ISA Energia e à ausência de responsabilidade desta pelos atos praticados exclusivamente pela FESP, evidenciada, inclusive, pelo documento de fl. 502, que afasta qualquer interpretação de responsabilização da Embargante. 12. Posto isto, requer o recebimento e provimento dos presentes Embargos de Declaração, com atribuição de efeitos infringentes, nos termos do art. 1.022, II, CPC, para sanar as omissões apontadas e reconhecer que: (i) o TJSP analisou todos os fundamentos relevantes apresentados pelas Embargadas no que se refere à ilegitimidade passiva da ISA Energia; (ii) o julgador não está obrigado a se manifestar sobre todas as questões trazidas pelas partes, mas apenas sobre aquelas suficientes para formar o seu livre convencimento; e (iii) o documento de fl. 502 comprova que o ato tido como ilícito, que ensejou o ajuizamento da demanda coletiva, foi praticado exclusivamente pela FESP, não podendo a ISA Energia ser responsabilizada.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+Assiste razão aos recorrentes, no que toca à alegada violação ao artigo 1022, II do CPC. O Estado de São Paulo e a AAFC apresentaram questões jurídicas relevantes:
+ ..
+Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou devidamente as questões, limitando-se a proferir decisão genérica, sem a devida apreciação. E, de fato, na própria decisão de admissibilidade o Desembargador Presidente da Seção de Direito Público anota, corretamente, a omissão:
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Eventuais erros materiais da decisão, constantes no seu relatório ou em trechos que não fazem parte da fundamentação, em nada alteram o julgado, uma vez que não importam nenhum prejuízo à parte.
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
