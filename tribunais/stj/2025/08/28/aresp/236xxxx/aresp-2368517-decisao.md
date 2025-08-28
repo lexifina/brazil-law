@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PD&S PROCESSAMENTO DE DADOS EIRELI EPP contra a decisão que inadmitiu o recurso especial com fundamento na ausência de prequestionamento dos arts. 4º, 6º, 277 e 283 do Código de Processo Civil, aplicando ao caso as Súmulas n. 211 do STJ e 282 e 356 do STF; na falta de impugnação do fundamento basilar do acórdão recorrido, que é o inciso II do § 1º do art. 189 da Lei n. 11.101/2005, com a redação dada pela Lei n. 14.112/2020; e na consonância entre o acórdão recorrido e o entendimento do Superior Tribunal de Justiça (Súmula n. 83).
+Nas razões do agravo, a parte alega o seguinte:
+a) os arts. 4º e 6º do Código de Processo Civil foram prequestionados, pois a matéria contida neles foi abordada e decidida pelo acórdão recorrido, que rejeitou a aplicação da primazia do julgamento de mérito;
+b) os arts. 277 e 283 do Código de Processo Civil também foram prequestionados, pois a matéria referente à instrumentalidade das formas e ao aproveitamento dos atos processuais foi decidida pelo acórdão recorrido, que rejeitou a validade do ato processual;
+c) a Súmula n. 211 do STJ não se aplica ao caso, pois a matéria foi apreciada pelo Tribunal a quo, e o art. 1.025 do Código de Processo Civil prevê o prequestionamento ficto;
+d) a Súmula n. 282 do STF não incide na espécie, visto que a questão federal foi ventilada na decisão recorrida, e o art. 1.025 do Código de Processo Civil admite o prequestionamento ficto;
+e) a Súmula n. 356 do STF também não se aplica ao caso, já que as normas foram objeto de embargos de declaração, devendo o recurso ser admitido quanto às demais violações invocadas;
+f) não há necessidade de interposição pela alínea c do permissivo constitucional, pois o recurso especial ataca a interpretação dada pelo acórdão recorrido à norma federal;
+g) a Súmula n. 83 do STJ, de igual modo, não se aplica ao caso, pois o recurso especial não foi interposto com fundamento na alínea c e não há orientação firmada pelo STJ no mesmo sentido da decisão recorrida.
+Na contraminuta, a parte agravada aduz que o recurso especial não merece acolhimento, pois não houve impugnação específica dos fundamentos do acórdão recorrido; além disso, a legislação falimentar é expressa ao estipular o recurso correto a ser utilizado, tratando-se de erro grosseiro.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio de Janeiro em apelação nos autos de habilitação de crédito.
+O acórdão recorrido foi assim ementado (fls. 555-566):
+FALÊNCIA. HABILITAÇÃO DE CRÉDITO. SENTENÇA. IMPUGNAÇÃO POR MEIO DE APELAÇÃO CÍVEL. INADEQUAÇÃO DA VIA ELEITA. LEI ESPECIAL QUE PREVÊ O AGRAVO DE INSTRUMENTO COMO MEIO ADEQUADO PARA A IMPUGNAÇÃO. 1. Trata-se de apelação cível em face de sentença que julgou Habilitação de Crédito em sede falimentar. 2. O art. 189, §1º, II da Lei 11.101/2005, com a redação da Lei 14.112/2020, veio para colocar uma pá de cal em eventuais dúvidas insistentes sobre o recurso que deve ser manejado. Pelo que, não é o nomen iuris - sentença ou decisão - que determina, mas a expressa previsão na lei especial. Fato é que, seja antes ou depois de homologação de QGC, não há previsão de apelação como recurso cabível na espécie. 3. De toda sorte, o caso não trata da hipótese do art. 10, §6º da LRF, visto que não há QGC homologado. 4. Cabe notar que o princípio da unirrecorribilidade ou singularidade recursal não permite que a escolha do recurso cabível recaia no conteúdo do que se busca impugnar, pelo que o agravo é manejável mesmo nos casos de extinção sem julgamento de mérito. 5. Não é aplicável a fungibilidade diante de um erro grosseiro; e não há que eventualmente suscitar boa-fé processual, notadamente porque o Julgador não levou a erro só porque consta sentença no ato impugnado. 6. RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos foram negados (fls. 594-598).
+No recurso especial, a parte alega violação dos seguintes artigos:
+a) 4º, 6º, 10, 188, 277, 283, 932, 1.009 e 1.015, XIII, do Código de Processo Civil, porque o acórdão recorrido não aplicou corretamente os princípios da primazia do julgamento de mérito, da instrumentalidade das formas e do aproveitamento dos atos processuais, além de não conceder oportunidade para sanar o vício; e
+b) 189, II, da Lei n. 11.101/2005, pois o acórdão recorrido interpretou equivocadamente a norma ao não conhecer da apelação.
+Requer o provimento do recurso para que se anule o acórdão recorrido e se conheça da apelação no mérito.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece acolhimento, pois a legislação falimentar é expressa ao estipular o recurso correto a ser utilizado, tratando-se de erro grosseiro, e não houve impugnação específica dos fundamentos do acórdão recorrido (fls. 709-719).
+É o relatório. Decido.
+Na origem, trata-se de ação pela qual a ora agravante pretende a reclassificação, na recuperação judicial da agravada, de seu crédito para extraconcursal. O feito foi recebido como habilitação de crédito retardatária.
+O Juízo de primeiro grau não acolheu o pedido, mantendo a classificação como concursal.
+A PD&S interpôs apelação, porém o TJRJ não conheceu do recurso por entender cabível agravo de instrumento, com base no art. 189, § 1º, II, da LRF, com a redação da Lei n. 14.112/2020.
+Os embargos declaratórios foram rejeitados e sobreveio o recurso especial.
+O procedimento de habilitação de crédito retardatária tem natureza jurídica de ação de conhecimento e sua extinção é feita por sentença declaratória.
+Entretanto, diferente do que prevê o CPC, a Lei n. 11.101/2005 disciplinou, de forma diversa, o recurso cabível da decisão que julga as habilitações, prevendo o recurso de agravo de instrumento, consoante o art. 17:
+Art. 17. Da decisão judicial sobre a impugnação caberá agravo.
+Parágrafo único. Recebido o agravo, o relator poderá conceder efeito suspensivo à decisão que reconhece o crédito ou determinar a inscrição ou modificação do seu valor ou classificação no quadro-geral de credores, para fins de exercício de direito de voto em assembléia-geral.
+Nessa linha, considerando que a adequação é um dos pressupostos de admissibilidade, interposto recurso diverso do previsto na legislação especial, caracteriza-se erro grosseiro, inviabilizando seu conhecimento pelo princípio da fungibilidade recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO . IMPUGNAÇÃO. RECURSO CABÍVEL. FUNGIBILIDADE. DÚVIDA OBJETIVA . INEXISTÊNCIA. DECISÃO RECORRIDA NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ . DECISÃO MANTIDA.
+1. A jurisprudência desta Corte é firme no sentido de que a existência de previsão legal expressa impede a aplicação do princípio da fungibilidade, pois afasta a dúvida objetiva e impõe o reconhecimento de erro grosseiro pela utilização de meio processual inadequado. Precedentes .
+2. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea c quanto na alínea a do permissivo constitucional.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.351.839/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/11/2019, DJe de 12/11/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - PEDIDO DE HABILITAÇÃO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. Nos termos do art. 17 da Lei 11.101/05, contra a decisão judicial sobre impugnação de crédito caberá recurso de agravo. Havendo expressa disposição de lei, constitui erro grosseiro, insuscetível de aplicação do princípio da fungibilidade, a interposição de recurso diverso. Aplicação da Súmula 83/STJ.
+2. Agravo interno desprovido. (AgInt no AREsp n. 1.512.820/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/11/2019, DJe de 27/11/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. IMPUGNAÇÃO. RECURSO CABÍVEL. FUNGIBILIDADE. DÚVIDA OBJETIVA. INEXISTÊNCIA. DECISÃO RECORRIDA NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte é firme no sentido de que a existência de previsão legal expressa impede a aplicação do princípio da fungibilidade, pois afasta a dúvida objetiva e impõe o reconhecimento de erro grosseiro pela utilização de meio processual inadequado. Precedentes.
+2. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea c quanto na alínea a do permissivo constitucional.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.351.839/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/11/2019, DJe de 12/11/2019.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO PARCIAL DAS QUESTÕES DISCUTIDAS NO RECURSO ESPECIAL. APLICAÇÃO DA PRECLUSÃO CONSUMATIVA E DA COISA JULGADA. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. PREVISÃO EXPRESSA NA LEI DO RECURSO CABÍVEL. ERRO GROSSEIRO.
+1. Aplicam-se os institutos da preclusão consumativa e da coisa julgada à questão autônoma não impugnada nas razões do agravo em recurso especial, em obediência ao princípio da dialeticidade.
+2. Configura erro grosseiro a interposição de recurso contrário ao expressamente previsto na lei, o que inviabiliza a aplicação do princípio da fungibilidade recursal, como no caso de interposição de apelação ao invés de agravo contra decisão que julga o incidente de impugnação de pedido de habilitação de crédito no processo falimentar.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 219.866/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/3/2016, DJe de 28/3/2016.)
+Ressalte-se que o TJRJ consignou que o quadro geral de credores ainda não havia sido homologado, o que impede a interposição da ação autônoma, na forma do art. 10, § 6º, da Lei n. 11.101/2005.
+Dessa forma, verifica-se que o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, incidindo na espécie as Súmulas n. 83 e 569 do STJ.
+Quanto aos demais artigos tidos como violados - 4º, 6º, 277 e 283 do CPC -, não foram sequer mencionados no acórdão recorrido e nos embargos declaratórios.
+Por isso, falta ao recurso especial o requisito do prequestionamento da tese recursal. Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+Incide, na espécie, portanto, a Súmula n. 211 do STJ: "Inadmissível recurso especial quanto a questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Da mesma sorte, aplica-se ai caso, por analogia, a Súmula n. 282 do STF, que versa sobre o óbice decorrente da falta de prequestionamento: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Além disso, a parte recorrente não demonstrou a correlação dessas suas alegações com os fundamentos do acórdão recorrido de que, "quanto ao princípio da fungibilidade, vide dois requisitos: "(i) dúvida objetiva acerca de qual o recurso manejável; (ii) inexistência de erro grosseiro na interposição de um recurso pelo outro". Ora, a lei especial - Lei 11.101/05 - é clara e, por isso, afasta por completo o preenchimento desses dois requisitos" (fl. 563).
+Assim, está prejudicada a compreensão da controvérsia trazida a esta Corte, pois as razões recursais estão dissociadas dos fundamentos expostos no acórdão recorrido, o que atrai a incidência da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DO ÓBICE APONTADO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. A alegação dissociada da realidade fática delineada no acórdão recorrido caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+2. O especial que não impugna fundamento do acórdão recorrido suficiente por si só para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF, aplicada por analogia.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.515.228/RS, relator Ministro Antonio Carlos Ferrerira, Quarta Turma, julgado em em 19/8/2024, DJe de 22/8/2024.)
+Por fim, quanto à divergência jurisprudencial, por estar o acórdão em consonância com o entendimento desta Corte, aplica-se ao caso o óbice da S úmula 83 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Sem condenação em honorários recursais, já que não houve condenação na instância originária.
+Publique-se. Intimem-se.
+EMENTA
