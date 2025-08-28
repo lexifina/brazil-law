@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por TRANSLOG TRANSPORTE E LOGISTICA EIRELI - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 1ª Vara Empresarial, de Recuperação de Empresas e de Falências de Fortaleza/CE, no qual se processa a tutela cautelar antecedente ao pedido de recuperação judicial da suscitante (Processo nº 0239513- 09.2024.8.06.0001), e o r. juízo da 10º Vara do Trabalho de Natal/RN, onde tramita a reclamação trabalhista n.º 0000430-72.2024.5.21.0010, aforada por CLEYSON SOARES DA SILVA.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos constritivos nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, o qual, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando sobrestar o ato executório determinado pelo r. Juízo laboral e, no mérito, a declaração de competência do r. juízo universal. (fls. 2/15)
+Às fls. 201/203, este signatário deferiu, em parte, o pedido liminar.
+Prestadas as informações (fls. 212/215), o MPF ofertou parecer pelo não conhecimento do incidente. (fls. 216/221)
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568 /STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça1. para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, envolvendo, de um lado, o Juízo da Recuperação2. Judicial e, de outro, o Juízo Laboral, no qual tramita execução trabalhista movida contra sociedade recuperanda, o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e/ou expropriação que, de alguma forma, afetem o patrimônio envolvido no processo de soerguimento.
+Após o deferimento do processamento da recuperação judicial, é do juízo da recuperação a competência para analisar o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+Nesse sentido, confiram-se: Agint no EDCl no CC 174.322/SP, Rel. Min. Nancy Andrighi, DJe de 14/6/2021; Agint no CC 172707/SP, Rel. Min. Luis Felipe Salomão, DJe de 02/10/2020; Agint no CC 152.280/GO, Rel. Min. Paulo de Tarso Sanseverino, DJe de 14/8/2018; CC 120.454/SP, Rel. Min. Maria Isabel Gallotti, DJe de 30/4/2012.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c3. Súmula 568/STJ conheço do presente incidente e, por conseguinte, declaro a competência do r. juízo da 1ª Vara Empresarial, de Recuperação de Empresas e de Falências de Fortaleza/CE, nos termos da fundamentação supracitada.
+Publique-se. Intimem-se.
+EMENTA
