@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LEDVANCE BRASIL COMÉRCIO DE PRODUTOS ELETRÔNICOS E SISTEMAS DE ENERGIA LTDA., contra decisão de minha lavra, constante às e-STJ fls. 990/992, em que não conheci do agravo em recurso especial por entender incabível o agravo do art. 1.042 do CPC contra decisão que nega seguimento a recurso especial, com base na aplicação de tese firmada em sede de recurso repetitivo.
+A embargante argumenta que o recurso especial foi inadmitido, portanto cabível seria o agravo, conforme interposto. Aduz, ainda, que o Tema 504 do STJ não transitou em julgado, de modo que não caberia, à decisão, negar seguimento ao recurso especial.
+Sem impugnação (e-STJ fl. 1.020).
+Passo a decidir.
+Os embargos de declaração devem atender aos seus requisitos: suprir omissão, contradição, obscuridade ou ambiguidade, podendo, ainda, ser utilizado para corrigir eventual erro material.
+No presente caso, a decisão de admissibilidade, ante a aplicação do Tema 504 do STJ, entendeu: "o único recurso cabível contra a decisão que nega seguimento ao recurso especial é o agravo interno a ser julgado pela Corte de origem, não sendo admitida a interposição de novo recurso especial ou agravo contra a decisão colegiada que, em juízo de adequação, mantém o acórdão anterior", e não admitiu o recurso especial (e-STJ fl. 897).
+Conforme consignado na decisão embargada, quando da publicação da citada decisão agravada, já estava em vigência o art. 1.030, § 2º, do CPC, que prevê, expressamente, o cabimento do agravo interno contra a decisão que nega seguimento ao recurso especial ante a conformidade do acórdão recorrido, com entendimento do Supremo Tribunal Federal exarado sob o regime dos recursos repetitivos.
+A despeito do dispositivo da decisão agravada constar "não admito o recurso especial", percebe-se tratar-se de um equívoco, visto que a decisão que analisou a admissibilidade do recurso especial fundamentou-se no sentido do não conhecimento do recurso, em razão da aplicação do Tema 504 do STJ.
+Cabe acrescentar que, ainda que superado o supracitado entendimento, o recurso especial não prosperaria, pois o fundamento basilar da decisão que negou seguimento ao recurso especial consiste na coincidência entre o acórdão do Tribunal regional e o precedente do STJ firmado em sede de recurso repetitivo (Tema 504), sendo certo que todas as demais argumentações trazidas no agravo referem -se à inaplicabilidade deste precedente obrigatório, inclusive no tocante à apontada necessidade de sobrestamento do feito, que também busca, ao fim e ao cabo, afastar a tese jurídica fixada no Tema 504 do STJ, motivo por que o agravo não merece ser conhecido.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
