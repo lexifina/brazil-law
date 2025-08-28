@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S. A. contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 735 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que as pretensões da agravante não possuem relação com a matéria do recurso especial, requerendo a manutenção da decisão que negou seguimento ao agravo em recurso especial (fls. 142-144).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de obrigação de fazer com pedido de tutela de urgência.
+O julgado foi assim ementado (fl. 41):
+Agravo de instrumento. Plano de saúde. Decisão que suspendeu o andamento do incidente de cumprimento de decisão concessiva da tutela provisória de urgência. Inconformismo. Cabimento. Requisitos para a concessão da tutela provisória analisados em recursos anteriores. A realização de prova pericial não desconstitui a presença dos requisitos necessários à concessão da tutela de urgência e o dever de cobertura do tratamento prescrito pelo médico assistente. Determinação de cumprimento da decisão concessiva da tutela provisória de urgência. Agravo provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) art. 300 do CPC, pois ausentes os requisitos autorizadores da concessão da tutela de urgência;
+b) art. 35-C da Lei n. 9.656/1998, porquanto o quadro de saúde não configura emergência; e
+c) art. 10, § 13, da Lei n. 9.656/1998, visto que inexiste urgência para realização do procedimento.
+Sustenta que o Tribunal de origem divergiu do TJDFT quanto à realização de prova pericial e sobre os termos da RN 424 da ANS e a possibilidade das operadoras questionarem a pertinência de cirurgias solicitadas a fim de constatar a real necessidade do seu custeio; e do STJ ao decidir que a operadora de plano de saúde deve custear tratamento não previsto no rol da ANS, indicando os acórdãos divergentes EREsp 1.886.929-SP e EREsp 1.889.704-SP.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando a obrigatoriedade do cumprimento da obrigação até a realização da prova pericial.
+Nas contrarrazões, a parte recorrida aduz que as questões trazidas pela recorrente estão superadas e preclusas, requerendo a manutenção do acórdão recorrido (fls. 117-119).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer com pedido de tutela de urgência em que a parte autora pleiteou a autorização dos procedimentos e insumos integrais indicados pelo médico.
+A Corte estadual reformou a decisão monocrática para restabelecer o andamento do incidente no que diz respeito à concessão da tutela provisória de urgência.
+I - Arts. 300 do CPC, 10, § 13, e 35-C da Lei n. 9.656/1998
+No recurso especial, a parte recorrente alega ausentes os requisitos autorizadores da concessão da tutela de urgência, devendo ser afastada a obrigatoriedade do cumprimento da obrigação até a realização da prova pericial.
+A Corte estadual concluiu que a necessidade da intervenção cirúrgica está devidamente justificada pelo cirurgião que acompanha a parte agravada e a realização de perícia médica não altera a concessão da tutela, conforme julgamentos anteriores, que analisaram a presença dos requisitos autorizadores da liminar.
+Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Dessa forma, constata-se que, em razão da natureza instável da decisão, a qual pode ser ou não confirmada em julgado definitivo, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+A propósito, vejam-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1.Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula nº 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3.O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula nº 7 do STJ.
+4.Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5.Agravo interno não provido. (AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. CLÁUSULA COMPROMISSÓRIA. JUÍZO ARBITRAL. INCOMPETÊNCIA. LEGITIMIDADE. REEXAME. SÚMULA N. 7/STJ. TUTELA DE URGÊNCIA. SÚMULAS N. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1.Mesmo em contrato que preveja a arbitragem, é possível a execução judicial de confissão de dívida certa, líquida e exigível que constitua título executivo nos termos do art. 585, inciso II, do Código de Processo Civil, haja vista que o juízo arbitral é desprovido de poderes coercitivos. Precedente do STJ.(REsp n. 1.373.710/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2015, DJe de 27/4/2015.)
+2.Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3.A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+4.Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+Ademais, conforme já relatado, o Tribunal de origem, ao analisar os elementos fáticos dos autos, concluiu pela reforma da decisão agravada para restabelecer o andamento do incidente quanto à concessão da tutela provisória de urgência, por considerar presentes os requisitos para concessão da tutela, conforme julgamentos anteriores dos agravos de instrumento n. 2105628-41.2023.8.26.0000 e 2218780-67.2023.8.26.000, destacando que a realização de perícia médica não desconstitui a presença dos requisitos necessários à concessão da tutela pleiteada.
+Nesse contexto, rever as conclusões do acórdão impugnado demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Nessa linha: AgInt no AREsp n. 1.826.601/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022; AgInt nos EDcl no AREsp n. 1.558.047/SC, relator Ministro Raul Araújo, Quarta Turma, julgados em 15/8/2022, DJe de 26/8/2022; e AgInt no AREsp n. 1.919.487/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.
+II - Divergência Jurisprudencial
+Com relação ao alegado dissídio jurisprudencial, a incidência de óbices sumulares quanto à interposição pela alínea a do permissivo constitucional impede ao conhecimento do recurso especial pela alínea c sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.946.896/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/8/2024, DJe de 2/9/2024; AgInt no AREsp n. 2.529.047/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/202422 , DJe de 22/8/2024; AREsp n. 2.264.084/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/8/2024, DJe de 9/8/2024; AgInt no AREsp n. 2.501.742/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
