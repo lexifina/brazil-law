@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso ordinário interposto por MAURICIO PALU, com fundamento no art. 105, II, a, da Constituição Federal, contra decisão proferida por Desembargador relator do Tribunal de Justiça do Estado do Paraná, que não conheceu do habeas corpus, por inadequação da via eleita (fls. 633-639).
+Em suas razões recursais, a parte recorrente pretende o provimento do presente recurso ordinário, para desconstituir ato emanado de processo administrativo disciplinar que culminou na aplicação da penalidade de suspensão, sob o argumento de que o indeferimento do pedido de instauração de incidente de insanidade mental configurou cerceamento de defesa.
+É o relatório.
+Passo a decidir.
+Conforme relatado, o recorrente interpôs recurso ordinário contra decisão monocrática proferida por Desembargador do Tribunal de origem, que não conheceu do habeas corpus, por inadequação da via eleita.
+Nos termos do art. 105, II, a, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, em recurso ordinário, "os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e territórios, quando denegatória a decisão".
+Dessa forma, nos termos da jurisprudência desta Corte, não cabe recurso ordinário em habeas corpus contra decisão monocrática proferida por relator do Tribunal de origem, por ausência de esgotamento de instância, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada, o que não se verifica na situação em apreço.
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DE RELATOR NO TJ/SP. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA. CABIMENTO DE RECURSO NA ORIGEM. AUSÊNCIA DE ILEGALIDADE FLAGRANTE PARA ENSEJAR A CONCESSÃO DA ORDEM DE OFÍCIO. EXECUÇÃO DE ALIMENTOS. INTIMAÇÃO PARA PAGAR O DÉBITO. INEXISTÊNCIA DE DECRETO DE PRISÃO SEM PRÉVIO EXAME DAS JUSTIFICATIVAS APRESENTADAS PARA O INADIMPLEMENTO DA OBRIGAÇÃO ALIMENTAR. INADIMPLEMENTO DAS TRÊS PARCELAS ANTERIORES AO AJUIZAMENTO DA EXECUÇÃO E DAS QUE VENCERAM NO CURSO DA AÇÃO. INCIDÊNCIA DA SÚMULA Nº 309 DO STJ. ADUZIDA INCAPACIDADE FINANCEIRA PARA O ADIMPLEMENTO DA OBRIGAÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE AFERIÇÃO EM HABEAS CORPUS. PAGAMENTO PARCIAL DA PENSÃO NÃO AFASTA O DECRETO DE
+PRISÃO. PRECEDENTES. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. A teor do art. 105, II, alínea a, da CF, compete ao Superior Tribunal de Justiça julgar, em recurso ordinário, os habeas corpus decididos em última instância pelos Tribunais Regionais e de Justiça, quando a decisão for denegatória, não merecendo ser ele conhecido quando desafia decisão monocrática de relator do Tribunal de origem. Precedentes.
+1.1. A ausência de ilegalidade flagrante ou de teratologia na decisão agravada impossibilita a concessão da ordem de ofício.
+1.2. Não há ilegalidade na decisão que indefere o writ na origem, pois ainda não foi decretada a prisão civil nem sequer houve o exame das justificativas apresentadas para o inadimplemento da obrigação alimentar pelo Juízo da execução.
+2. Além disso, o decreto de prisão proveniente da execução de alimentos na qual se visa o recebimento integral das três parcelas anteriores ao ajuizamento da ação e das que vencerem no seu curso não será ela ilegal. Inteligência da Súmula nº 309 do STJ e precedentes.
+3. A verificação da incapacidade financeira do alimentante demanda dilação probatória, não se mostrando o writ a via adequada para tal fim. Precedentes.
+4. A jurisprudência dominante do STJ segue no sentido de que o não pagamento integral das parcelas alimentares devidas autoriza a prisão civil do devedor de alimentos. Precedentes.
+5. Recurso ordinário não provido (RHC n. 95.852/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/4/2018, DJe de 19/4/2018).
+Não fosse o suficiente, a impetração visa desconstituir ato emanado de processo administrativo disciplinar que culminou na aplicação da penalidade de 30 dias de suspensão do cargo de técnico administrativo do Tribunal de Justiça do Estado do Paraná, sob o argumento de que o indeferimento do pedido de instauração de incidente de insanidade mental configurou cerceamento de defesa.
+Assim, não se verificando situação em que o impetrante sofre ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder, nos termos do que dispõe o art. 5º, LXVIII, da Constituição Federal, incabível o ajuizamento de habeas corpus.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO HABEAS CORPUS. PRETENSÃO DE TRANCAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. INEXISTÊNCIA DE RISCO OU AMEAÇA AO DIREITO DE LOCOMOÇÃO. DESCABIMENTO DO WRIT.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Sem que haja risco ou ameaça à liberdade de locomoção, revela-se descabida a impetração de habeas corpus. Precedentes: AgRg no HC 391.220/SP, Relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/5/2017; REsp 1.639.643/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJe 18/4/2017; e AgInt no HC 361.699/MG, Relator Ministro Moura Ribeiro, Terceira Turma, DJe 20/10/2016.
+3. Agravo interno não provido (AgInt no HC n. 750.533/PI, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/10/2022, DJe de 26/10/2022).
+Isso posto, com fundamento no art. 932, III, do CPC e no art. 34, XVIII, a do RISTJ, não conheço do recurso ordinário.
+Intimem-se.
+EMENTA
