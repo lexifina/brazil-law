@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão do TJSP assim ementado (fl. 358):
+APELAÇÃO - PLANO DE SAÚDE - Rescisão Unilateral Imotivada - Plano Coletivo Empresarial (Falso Coletivo - 3 Vidas beneficiárias da mesma família) - Sentença que julgou procedente a manutenção do contrato com base na existência de menor em tratamento de TEA com base no Tema 1.082 do C. STJ - Insurgência da Operadora - Pretensão de que seja reconhecida a legalidade do cancelamento com base no contrato avençado - Não acolhimento - Sentença que deve ser mantida no tocante ao resultado do julgamento, bem como quanto à fundamentação relativa ao Tema 1.082, todavia, é de rigor a complementação de sua fundamentação, até mesmo para fins de dar o devido enfrentamento às irresignações da Operadora - Cancelamento Unilateral do Falso Coletivo Empresarial (4 vidas familiares) que deve seguir as previsões normativas do art. 13, parágrafo único, II, da Lei 9.656/98, tendo em vista o nítido caráter familiar da avença (4 vidas) - Precedentes - Inobservância dos requisitos legais pela Operadora - Ausência de motivação para a rescisão orquestrada pela Operadora - Violação dos Princípios da Boa-Fé Objetiva e da Função Social do Contrato - Precedentes - Existência de menor em tratamento multidisciplinar necessário à sua saúde e ao seu bem-estar - Possibilidade de aplicação subsidiária do Tema 1.082 no caso concreto, como já fundamentado pelo Juízo Singular em relação a este tópico - Sentença Mantida, com complementação da fundamentação - Julgamento Mantido - RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 766-769).
+Nas razões apresentadas (fls. 377-387), a recorrente indica ofensa à Lei n. 9.656/1998, pois a legislação referida "proíbe a suspensão e rescisão unilateral apenas dos contratos individuais. Portanto, essa vedação não se aplica aos contratos coletivos ou empresariais, como no caso em questão" (fls. 383-384).
+Aponta contrariedade aos arts. 422 e 478 do CC/2002, 5º, XXXVI, da CF e 6º da LINDB, porque "as cláusulas contratuais são claras e inequívocas e, por serem de conhecimento prévio, não violam o princípio da boa-fé contratual. Ademais, a previsão contratual que permita a rescisão é esperada, até porque, tratando-se de um contrato com prazo indeterminado é imperioso a existência de uma cláusula que prevê a possibilidade de término da avença imotivadamente, por qualquer uma das partes, desde que respeitado um aviso prévio, como ocorreu no presente caso" (fl. 385).
+O recurso foi admitido na origem (fls. 784-786).
+É o relatório.
+Decido.
+Inviável a análise de ofensa a dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da competência da Suprema Corte.
+A propósito: AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.
+Com relação à tese de contrariedade à Lei n. 9.656/1998, a parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada pela Corte a quo.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante a Súmula n. 284/STF, aplicada por analogia ao caso.
+A fim de descaracterizar o abuso de cláusula de rescisão unilateral do contrato de saúde, na modalidade falso coletivo, a recorrente apontou violação dos arts. 422 e 478 do CC/2002 e 6º da LINDB.
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido, porque nada dispõem a respeito dos requisitos da rescisão unilateral mencionada, tampouco do procedimento de comunicação da vontade da operadora saúde relativa ao desinteresse na continuidade do vinculo contratual.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+O Tribunal de origem não debateu o conteúdo do arts. 422 e 478 do CC/2002 e 6º da LINDB sob o ponto de vista da parte recorrente, a despeito dos aclaratórios opostos.
+Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+E ainda, não tendo a parte impugnado o conteúdo normativo do art. 13, parágrafo único, II, da Lei n. 9.656/1998, que serviu de justificativa para a Corte a quo declarar o abuso do plano de saúde no referente à rescisão imotivada da avença (cf. fls. 361-362), aplicável a Súmula n. 283/STF ao caso em análise.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
