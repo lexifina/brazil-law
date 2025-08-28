@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por DENIS DAVI PEREIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 5027558-78.2024.8.24.0064 (fls. 101/105).
+Nas razões do especial, alegou a defesa que a decisão do Tribunal local violou os arts. 119 e 120 do Código de Processo Penal, pois considera irrelevante a condição de terceiro de boa-fé, requisito central estabelecido pelo legislador federal para a restituição. Afirma que o agravante tem direito à restituição do bem apreendido na prática de tráfico de drogas, tendo em vista que ele não possui qualquer ligação com a atividade criminosa. Requer a reforma do acórdão recorrido, para que seja deferida a restituição da motocicleta de sua propriedade (fls. 113/119).
+O recurso não foi admitido (fls. 134/137). Daí o presente agravo (fls. 145/150).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para não se conhecer do recurso especial (fls. 193/197).
+É o relatório.
+O agravo é admissível e deve ser conhecido, porquanto impugna adequadamente os fundamentos da decisão recorrida.
+Todavia, melhor sorte não tem o recurso especial.
+Inicialmente, cabe observar que as razões do recurso especial não atacam todos os fundamentos do acórdão recorrido, o que atrai a incidência da Súmula 282/STF: é inadmissível o recurso extraordinário se a decisão recorrida se baseia em mais de um fundamento suficiente e o recurso não abrange todos eles.
+No caso em análise, um dos fundamentos para indeferir o pedido de restituição do bem foi o seguinte (fl. 103): desse modo, verifica-se que a não restituição do bem, no panorama atual, encontra amparo no art. 118 do Código de Processo Penal, segundo o qual, "antes de transitar em julgado a sentença final, as coisas apreendidas não poderão ser restituídas enquanto interessarem ao processo". Isso porque, embora já tenha havido o julgamento em primeira instância, a sentença foi desafiada por recursos de apelação, pendendo, assim, o respectivo trânsito em julgado.
+A ausência de impugnação de fundamento autônomo do acórdão é impeditivo para o conhecimento do recurso especial (AgRg nos EDcl no AREsp n. 2.521.305/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025).
+De outra parte, também incide ao caso dos autos o óbice da Súmula 7/STJ, tendo em vista que o acolhimento da pretensão recursal dependeria de se considerar presente a boa-fé do recorrente e a inexistência de seu vínculo com o fato criminoso. Quanto ao ponto, o Tribunal local asseverou (fl. 103): também é pertinente pontuar que o ora apelante se limitou a aduzir a tese de depósito do bem para conserto na oficina do réu da ação penal, porém, nenhuma prova a esse respeito veio aos autos, tampouco Sérgio, responsável pela condução da motocicleta utilizada para o transporte da droga, ratificou essa circunstância quando exerceu o contraditório e a ampla defesa.
+Assim, a pretensão de reexame de matéria fático-probatória não enseja recurso especial, conforme a Súmula n. 7 do STJ (AgRg no AREsp n. 2.756.335/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/5/2025, DJEN de 13/5/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial (art. 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. RESTITUIÇÃO DE COISA APREENDIDA. RAZÕES RECURSAIS QUE NÃO ATACAM FUNDAMENTO SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO. SÚMULA 283/STF. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
