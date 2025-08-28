@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-fls. 331-332):
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. AGRAVO INTERNO. JULGAMENTO PELO RELATOR. DECISÃO MONOCRÁTICA. DESENVOLVIMENTO, COM FUNDAMENTAÇÃO E DISPOSITIVO (PER RELATIONEM). ADOÇÃO DOS FUNDAMENTOS E DOS DISPOSITIVOS DA SENTENÇA, O PARECER JUSTIFICADO DO MPE E OS ARGUMENTOS LANÇADOS NAS PEÇAS RECURSAIS. NULIDADE INEXISTENTE. JURISPRUDÊNCIAS PACIFICADAS PELO SUPREMO TRIBUNAL FEDERAL, SEDIMENTADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA E SOLIDIFICADAS PELOS TRIBUNAIS ESTADUAIS. REPETIÇÃO DOS ARGUMENTOS. MATÉRIAS JÁ CONHECIDAS E TRATADAS POR FORTES JULGADOS DOS TRIBUNAIS SUPERIORES E DOS TRIBUNAIS ESTADUAIS. DECISÃO MONOCRÁTICA MANTIDA.
+I - O uso da motivação per relationem, também denominada de motivação aliunde, motivação por referência, motivação referenciada, motivação por remissão ou motivação remissiva, a qual o relator adota, na sua decisão, fundamentos contidos na sentença, parecer do membro do MPE, dos argumentos contidos nas peças recursais, jurisprudências, precedentes, Súmulas, Súmulas Vinculantes dos Tribunais Superiores. Acórdãos dos Tribunais Estaduais ou de decisões pacificadas e calcificadas pelas Câmaras Isoladas Cíveis. O Ministro do STF que jamais deixará de ser um ícone, o Mestre Aires de Britto reafirmou que o Judiciário deve ser proativo, neutro e apartidário. E disse que a justiça brasileira pode adotar o processo de otimização (rendimento ótimo, criando condições favoráveis e gestão eficiente dos processos) e o tempo de duração dos processos judiciais, desde que haja bom senso da sociedade e vontade dos juízes. Ora, otimizar significa julgar sem entraves e obstáculos. O uso da técnica monocrática traduz inúmeros vieses na administração dos processos: a superação de indicadores negativos; quebra dos gargalos das fases processuais; novas texturas dos processos; identificação das falhas; e resultados eficientes. O cidadão brasileiro quer que o seu processo seja decidido. Seja favorável ou não. É uma conquista do Estado Democrático de Direito. E jamais provocará quebras, contorcionismos, quiasmas, feridas profundas no artigo 93, inciso IX, da Bíblia Republicana Constitucional.
+II - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao julgar monocraticamente o recurso de apelação, impõe o desprovimento do recurso.
+III - Agravo interno desprovido.
+Os embargos de declaração foram rejeitados (fls. 392-413).
+No recurso especial (fls. 415-432), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alega violação dos arts. 489, § 1º, IV e V, 1.021, § 3º, 1.022, II, e 1.026, § 2º, do CPC/2015.
+Sustenta a ocorrência de negativa de prestação jurisdicional, uma vez que o Tribunal de origem deixou de enfrentar os argumentos apresentados relativos à necessidade de reparação de ato ilícito, apesar de reconhecida a falha na prestação de serviço, devendo ser fixada indenização por dano moral.
+Afirma que o acórdão recorrido possui fundamentação genérica, pois apenas reproduziu a decisão monocrática do relator no recurso de apelação.
+Defende a condenação indevida ao pagamento de multa processual por suposto manejo de recurso protelatório.
+Ao final, requer o provimento do recurso para anular o acórdão recorrido, a fim de que sejam supridos os vícios apontados.
+Foram apresentadas contrarrazões (fls. 764-771).
+O recurso foi admitido na origem, nos termos da decisão de fls. 773-776.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, notadamente sobre a configuração de dano moral indenizável por cobrança indevida.
+É pacífico nesta Corte Superior o entendimento de que não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatados os vícios apontados pela parte agravante e considerando tanto a necessidade de prequestionamento das questões quanto a impossibilidade de incursão fático-probatória em sede especial, os autos devem retornar ao Tribunal a quo.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação. Por conseguinte, AFASTO a multa do art. 1.026, § 2º, do CPC.
+Publique-se e intimem-se.
+EMENTA
