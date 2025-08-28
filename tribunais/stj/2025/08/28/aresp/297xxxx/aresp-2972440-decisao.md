@@ -1,0 +1,21 @@
+DECISÃO
+JOSE HENRIQUE SILVA SANTOS agrava de decisão que não admitiu seu recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia (Apelação Criminal n. 0506788-57.2020.8.05.0001).
+Consta dos autos que o agravante foi condenado a 7 anos de reclusão, em regime fechado, mais multa, pela prática dos crimes de tráfico de drogas e porte ilegal de arma de fogo.
+Nas razões do recurso especial, a defesa pede a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se não provimento do agravo em recurso especial.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Tribunal de origem entendeu pela não aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, nos seguintes termos (fls. 367-368, grifei):
+Assim, o fato de ter sido expedido mandado de prisão em desfavor do Réu (em outro Estado da Federação), por si só, não enseja o afastamento da mencionada minorante, pois não restou demonstrada a existência de condenação pretérita transitada em julgado.
+No entanto, remanesce motivação válida apta a ensejar a exclusão do aludido redutor, uma vez que, conforme entendimento assente no Superior Tribunal de Justiça, a apreensão de armas e munições em contexto de tráfico de drogas é elemento concreto que afasta o reconhecimento do tráfico privilegiado. Nesse sentido:
+ ..
+Por conseguinte, o modus operandi da ação criminosa (com a apreensão de cocaína e crack fracionadas em diversas porções, além de arma de fogo e munições) denota a dedicação do Réu à atividade criminosa, evidenciando que não se trata de traficante eventual.
+No caso, a instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, noticiou o modus operandi da empreitada criminosa, "com a apreensão de cocaína e crack fracionadas em diversas porções, além de arma de fogo e munições" (fl. 368).
+Vale ressaltar que, de acordo com a jurisprudência deste Superior Tribunal, "Podem ser considerados como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições -especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando, de modo fundamentado, ficar evidenciado o envolvimento do agente com organização criminosa" (AgRg no HC n. 749.116/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 28/10/2022, destaquei).
+Assim, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que o recorrente se dedicaria a atividades criminosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ.
+Portanto, fica afastada a apontada violação legal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
