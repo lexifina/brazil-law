@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da consonância com entendimento firmado em sede de recurso repetitivo (Temas n. 24, 25 e 27) e da incidência das Súmulas n. 5 e 7 do STJ (fls. 298-303).
+O acórdão recorrido encontra-se assim ementado (fls. 256-257):
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. RENEGOCIAÇÃO. CERCEAMENTO DE DEFESA. AUSÊNCIA DE TÍTULO LÍQUIDO, CERTO E EXIGÍVEL. CDC. REVISÃO. CONTRATOS ORIGINÁRIOS. POSSIBILIDADE. JUROS REMUNERATÓRIOS. PRICE. IOF. EXCESSO DE EXECUÇÃO. ENCARGOS DA MORA. DESCARACTERIZAÇÃO DA MORA. REPETIÇÃO DO INDÉBITO.
+1. A cédula de crédito bancário, por possuir natureza de título executivo, pode aparelhar a ação executiva, independentemente de trata-se de crédito fixo ou de crédito rotativo, desde que preenchidos os requisitos legais no sentido de restar especificada a promessa de pagamento de dívida certa, líquida e exigível. (REsp 1.291.575/PR), o que ocorreu nos caso concreto.
+2. É entendimento deste Tribunal que o julgamento antecipado da lide não configura cerceamento de defesa, eis que desnecessária a realização de prova pericial quando os documentos anexados aos autos são suficientes para o deslinde da questão, como no caso dos autos.
+3. A aplicação do Código de Defesa do consumidor nas relações de financiamento bancário não é regra de aplicação automática, porquanto não tendo o mutuário comprovado o atendimento dos pressupostos aludidos no inc. VIII do art. 6º da Lei nº 8.078/90.
+4. O princípio da autonomia da vontade não encontra restrição no contrato de adesão porque nele permanece a garantia à liberdade de aderir ou não às estipulações padronizadas.
+5. Cabível a revisão de contratos bancários, ainda que depois de renegociados, em sede de embargos à execução, desde que comprovada a relação entre os contratos pretéritos e o título objeto da ação de execução, bem como a juntada dos contratos anteriores aos autos, cujo ônus é do embargante, o que ocorreu nos autos.
+6. As limitações fixadas pelo Dec. nº 22.626/33, relativas à taxa de juros remuneratórios de 12% ao ano, não são aplicadas aos contratos firmados com instituições financeiras. Ademais, somente é possível a limitação da taxa de juros remuneratórios quando comprovada a discrepância em relação à taxa média do BACEN para as operações da mesma espécie, o que não é o caso dos autos.
+7 A utilização da Tabela Price como técnica de amortização não implica em capitalização de juros, eis que não há previsão para a incidência de juros sobre juros. Tal prática somente ocorre quando verificada a ocorrência de "amortização negativa", que ocorre quando a prestação mensal não quita sequer a parcela referente aos juros, o que não restou comprovado nos autos.
+8. Sendo incontroverso o inadimplemento do contratante, não pode, agora, alegar excesso de execução em razão de que, sobre o saldo devedor inadimplido, se deu a incidência de ônus contratuais previamente pactuados.
+9. Conforme entendimento firmado pelo STJ no julgamento do REsp nº 1.061.530/RS, nos contratos bancários é vedado ao julgador conhecer de ofício da abusividade das cláusulas contratuais.
+10. A 2ª Seção do STJ, no julgamento do REsp nº 1.061.530, consolidou entendimento no sentido de que o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora e, em consequência, devem ser afastados seus consectários legais. Todavia, a aplicação desse entendimento ao caso concreto exige, para afastar os consectários da mora, que seja cabalmente comprovado que a onerosidade excessiva causou o inadimplemento do contrato, o que não ocorreu no caso concreto.
+11. Ausente a concreta comprovação de qualquer abusividade/irregularidade, não há que se falar em repetição do indébito.
+12. Apelação parcialmente provida e embargos à execução desprovidos.
+Nas razões do recurso especial (fls. 270-291), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega dissídio jurisprudencial e violação da Súmula n. 297 do STJ e dos arts. 373, I, do CPC, 3º, § 2º, e 42, parágrafo único, do CDC.
+Apontam cerceamento de defesa, aduzindo que, "não tendo sido conferida às partes a produção de provas, e diante da sua indispensabilidade para o deslinde do feito, não se pode aceitar que a lide seja julgada antecipadamente, devendo ser cassadas as R. Decisões outrora proferidas" (fl. 209).
+Defendem a incidência do CDC e a limitação dos juros remuneratórios à taxa média de mercado, ressaltando que, "quando o percentual pactuado é superior à taxa média do Bacen, deve ocorrer a revisão da taxa presente no contrato" (fl. 282).
+Asseveram que, "em face de ter havido a cobrança de diversos encargos ilegais no período de normalidade contratual, havendo a revisão das decisões anteriormente proferidas nesta lide, requerem os Recorrentes, por consequência, seja declarada a descaracterização da mora, bem como sejam extirpados do cálculo os encargos moratórios correspondentes" (fl. 288).
+Pleiteiam a devolução dos valores indevidamente cobrados em dobro, pois "quando o consumidor é cobrado em quantia indevida, ele tem direito à repetição do indébito por valor igual ao dobro do excesso" (fl. 289).
+Ao final, requerem "a reforma do V. Acórdão com a declaração de possibilidade de condenação da Recorrida à repetição de indébito em dobro" (fl. 223).
+No agravo (fls. 313-319), afirma a presença dos requisitos de admissibilidade do especia l.
+Contraminuta não apresentada (fl. 324).
+É o relatório.
+Decido.
+De início, cumpre salientar que é incabível recurso especial fundado em alegação de ofensa a verbete sumular, por não se enquadrar no conceito de lei federal, segundo estabelecido na Súmula n. 518 do STJ.
+Quanto à Tabela Price, à pretensão de revisão da taxa de juros remuneratórios e à descaracterização da mora, a parte não indica qual dispositivo de lei federal teria sido violado, o que caracteriza deficiência na fundamentação, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Quanto à alegada violação do art. 42, parágrafo único, do CDC, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+No que se refere à incidência do CDC ao caso, concluiu o Colegiado de origem (fl. 248):
+A aplicação das disposições da lei nº 8.078/90, que instituiu o Código de Defesa do Consumidor - CDC, às relações contratuais firmadas com as instituições financeiras não comporta maiores discussões em face do disposto na Súmula 297 do STJ: "O código de defesa do consumidor é aplicável às instituições financeiras".
+Assim, tendo sido favorável a decisão recorrida quanto a esta parte, não há interesse recursal no pedido.
+No que diz respeito à suscitada ofensa ao art. 373, I, do CPC, o Tribunal a quo assim se manifestou (fl. 246):
+É entendimento deste Tribunal que o julgamento antecipado da lide não configura cerceamento de defesa, eis que desnecessária a realização de prova pericial quando os documentos anexados aos autos são suficientes para o deslinde da questão, como no caso dos autos.
+Modificar o entendimento do TJRS, sobre a ausência de cerceamento de defesa e a inexistência de prejuízos decorrentes do julgamento antecipado da lide, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida em sede de recurso especial, a teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
