@@ -1,0 +1,11 @@
+DECISÃO
+LEANDRO MATA DOS SANTOS agrava, às fls. 1.173-1.185, de decisão que inadmitiu o processamento do seu recurso especial interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro .
+Em suas razões, afirma a defesa que o caso prescinde do reexame de provas, mas apenas de sua valoração, situação que afasta a incidência da Súmula n. 7 do STJ. Além disso, afirma que "não há decisão da Corte Especial ou de qualquer outro órgão deste e. STJ responsável pela uniformização da jurisprudência decidindo a questão de maneira dominante, o que afasta por completo a incidência da supramencionada súmula n. 83 ao caso em apreço" (fl. 1.178).
+Apresentada contraminuta ao agravo em recurso especial (fls. 1.193-1.197), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do recurso ou, caso conhecido, pelo seu não provimento (fls. 1.412-1.426).
+Decido.
+Conforme a pacífica orientação desta Corte, a ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula 182 do STJ, inviabilizando o conhecimento do agravo em recurso especial.
+No caso, observa-se que o recurso especial do insurgente foi obstado pela incidência da Súmula n. 83 do STJ. Em relação a isso, restringiu-se o insurgente a afirmar, de modo genérico, que não haveria decisão da Corte Especial ou de qualquer outro Órgão deste Superior Tribunal, responsável pela uniformização da jurisprudência, que pudesse subsidiar a aplicação do referido óbice sumular.
+Contudo, " n ão basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo  .. , deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido" (AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020). Vale dizer, a parte deve expor, com particularidade, em que medida a alteração do entendimento adotado pelo Tribunal de origem não estaria em desacordo com a orientação desta Corte.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
