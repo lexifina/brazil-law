@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE ANCHIETA, com fundamento na intempestividade.
+Em suas razões recursais, a parte agravante sustenta que "o próprio sistema judicial eletrônico (PJe) disponibilizou o prazo fatal para a interposição do recurso como sendo o dia 20/02/2024, motivo pelo qual o Município deixou de informar os feriados que afetam o Tribunal de Justiça do Espírito Santo  ..  sendo o sistema processual eletrônico de exclusiva responsabilidade do próprio Tribunal de Justiça, não se pode admitir que qualquer falha que haja seja atribuída às partes" (fls. 1.907-1.908).
+Assevera, ainda, que "os feriados estaduais e federais ocorridos entre o lapso recursal são todos conhecidos pelo Egrégio Tribunal de Justiça, porquanto publicados através dos Atos Normativos nº 673/2023 e 220/2022" (fl. 1.908).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+No caso, a intimação da parte recorrente foi expedida no dia 21/11/2023 (terça-feira) e o sistema registrou ciência pelo recorrente no dia 01/12/2023 (sexta-feira-). Assim, o prazo recursal iniciou em 04/12/2023 (segunda-feira) e se findou em 16/02/2024 (sexta- feira). O recurso especial foi interposto somente dia 20/2/2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, contados em dobro, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Na forma da jurisprudência desta Corte, a comprovação da ocorrência de feriado local ou a suspensão do expediente forense, na origem, deve ocorrer no momento de sua interposição.
+Contudo, a Corte Especial do Superior Tribunal de Justiça acolheu a QO no AREsp 2.638.376/MG, no sentido de "aplicar os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+Dessa forma, intimei a parte agravante, a fim de comprovar eventual suspensão ou interrupção do prazo processual (fl. 1.938). A parte, contudo, apresentou apenas os documentos de suspensão de prazos desta Corte e do Supremo Tribunal Federal.
+Registre-se que, de acordo com a jurisprudência deste Tribunal, "embora o equívoco na indicação do termo final do prazo recursal, quando decorrente exclusivamente de informação fornecida pelo sistema eletrônico do Tribunal, não possa ser atribuído à parte recorrente, a mera apresentação, nas razões recursais, de captura de tela de página extraída da internet não se mostra suficiente para comprovar a falha do sistema, conforme já assentado pelo Superior Tribunal de Justiça" (AgRg no REsp n. 2.140.987/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025, grifo nosso). No mesmo sentido: AgInt no AREsp n. 2.457.246/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/10/2024, DJe de 28/10/2024.
+Ademais, de acordo com a jurisprudência desta Corte, "os recursos interpostos na instância de origem, ainda que direcionados ao Superior Tribunal de Justiça, observam o calendário de funcionamento do Tribunal local, não sendo possível a utilização dos feriados e suspensões previstos em portaria ou no Regimento Interno desta Corte, os quais nem sempre coincidem com os da Justiça estadual" (AgInt no AREsp n. 2.303.471/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, grifo nosso)
+Portanto, intempestiva a interposição do agravo em recurso especial.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior
+Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
