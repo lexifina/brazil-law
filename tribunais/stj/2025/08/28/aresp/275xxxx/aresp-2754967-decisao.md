@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCOS ANTONIO LEITE contra a decisão do Tribunal de origem que inadmitiu o recurso especial por entender aplicáveis as Súmulas n. 7 do STJ e 283 do STF (fls. 1.795-1.797).
+Nas razões do presente agravo em recurso especial, argumenta a defesa que a decisão atacada merece ser reformada.
+Aduz não incidir a Súmula n. 283 do STF, pois presente fundamentação suficiente e impugnação dos fundamentos do acórdão.
+Sustenta também que não se trata de reexame de prova, mas de incorreta aplicação dos dispositivos indicados como violados, razão de defender ser cabível a revaloração da prova.
+Aborda, ainda, aspectos relacionados ao mérito da causa e reitera questões deduzidas no recurso especial.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada (fls. 1.822-1.825).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 1.845):
+AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. INSUFICIÊNCIA DA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA - SÚMULA 182/STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. NÃO OCORRÊNCIA. CRIME PRATICADO APÓS A LEI N. 12.234/2010. PARECER PELO NÃO PROVIMENTO DO RECURSO.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação dos seguintes fundamentos: ausência de impugnação a todos fundamentos do acórdão recorrido (Súmula n. 283 do STF) e análise que exigiria o reexame de fatos e provas, atraindo o óbice da Súmula n. 7 do STJ.
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, os fundamentos referidos, não bastando para tanto que a parte recorrente mencione cada um deles, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto ao óbice referido na Súmula n. 7 do STJ, que a alegação genérica sobre a desnecessidade de que sejam reexaminados os fatos e as provas é insuficiente para o efetivo enfrentamento da decisão recorrida, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.030.508/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024; AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigiria o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, pois o agravante deixou de impugnar o óbice previsto na Súmula n. 283 do STF.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Roge rio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Ademais, não há manifesta ilegalidade a justificar a concessão da ordem de ofício, pois não houve a superação do lapso prescricional entre os marcos interruptivos previstos no CPP:
+Ocorre que, como descrito pelo recorrente, o crime foi cometido em data posterior à vigência da Lei nº 12.234/2010, de modo que a prescrição não pode ter por termo inicial data anterior à da denúncia ou queixa (art. 110, §1º, do Código Penal).
+Assim, nota-se que entre o recebimento da denúncia (1/4/2022), a publicação da sentença condenatória (18/4/2023) e a data atual não se passaram mais de 3 (três) anos, prazo prescricional aplicável ao caso em tela.
+Por fim, registra-se que, nos termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
