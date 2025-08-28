@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por GAFISA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 375):
+Agravo de Instrumento. Cobrança. Cumprimento provisório de sentença. Insurgência contra decisão que fixou multa de 20% sobre o valor atualizado da execução, por ato atentatório à dignidade da justiça. Ocorrência de preclusão temporal com relação à aplicação da multa. Inteligência dos arts. 505 e 507 do Código de Processo Civil. Valor que da multa que deve ser reduzido ao patamar de 10% sobre o valor atualizado da execução, com possibilidade de majoração para o teto máximo fixado, em caso de novo descumprimento de ordem judicial. Indicação de fração ideal de imóvel à penhora. Discordância da exequente. Ausência de liquidez imediata. Recusa legítima. Execução que deve ser realizada no interesse do credor. Inteligência do art. 797 do CPC. Intimação pessoal a respeito da aplicação da multa. Desnecessidade. Agravante que tinha ciência inequívoca do decidido. Precedentes do STJ. Decisão mantida. RECURSO PARCIALMENTE PROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte agravante aduz violação dos arts. 774, V, 805 e 847, § 1º, I, do Código de Processo Civil.
+Sustenta, em síntese, que a falta da intimação pessoal da agravante para o pagamento impede a aplicação da multa do art. 774, parágrafo único, do CPC. Alega que a medida é desproporcional e que o bem ofertado à penhora deve ser aceito por ser o meio menos gravoso ao executado.
+Foram oferecidas contrarrazões (fls. 413-424).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 425-428), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 442-452).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Verifica-se, inicialmente, que a decisão ora agravada obstou o trânsito do recurso especial por dois fundamentos: negou seguimento ao recurso especial, conforme art. 1.030, I, "b", do CPC, em razão da incidência da tese fixada no Tema n. 536 do STJ, e, ao mesmo tempo, deixou de admiti-lo devido à ausência de violação dos arts. 774, V, 805 e 847, § 1º, I, do CPC e à incidência da Súmula n. 7 do STJ.
+Em razão da decisão híbrida que tanto inadmitiu o recurso especial como negou-lhe seguimento, cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma em recurso repetitivo, a ser exercido por meio de agravo interno dirigido àquela Corte.
+Nesse sentido, cito:
+2. À questão da legitimidade/interesse da CEF foi negado seguimento ao recurso especial em razão de aplicação dos Temas n. 50/STJ e 51/STJ, enquanto à alegação de afronta aos arts. 489 e 1.022 do CPC o apelo nobre foi inadmitido.
+3. Nos casos em que a admissibilidade latu sensu tem híbrida fundamentação, com aplicação de entendimento firmado em recurso repetitivo a um dos pontos do recurso, cabe às Cortes Superiores apenas a análise da questão remanescente (que não teve aplicado o precedente paradigma vinculante), porquanto de competência da Corte de origem eventual análise de (in)conformidade do acórdão recorrido com oentendimento firmado no paradigma, por meio de agravo interno dirigido àquela corte, não cabendo ao Tribunal Superior a análise da referida questão. Precedentes. (AgInt no AREsp n. 1.840.822/MT, relator Ministro Humberto Martins, Terceira Turma, DJe de 3/11/2023.)
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal. (AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+Portanto, passo à análise dos fundamentos da inadmissão, quais sejam, ausência de violação dos arts. 774, V, 805 e 847, § 1º, I, do CPC e incidência da Súmula n. 7 do STJ.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 774, V, 805 e 847, § 1º, I, do CPC, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7/STJ.
+Alterar o decidido no acórdão impugnado, no que se refere à presença dos requisitos para aplicação de multa por ato atentatório à dignidade da justiça, à adequação do valor fixado nos termos do art. 774, parágrafo único, do CPC, bem como à liquidez do bem cuja penhora foi recusada, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. DEFERIMENTO. DESCUMPRIMENTO. ASTREINTES. VALOR. REVISÃO. IMPOSSIBILIDADE. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. RECONHECIMENTO. MULTA. AFASTAMENTO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. A verificação do cabimento e do valor da multa cominatória, em recurso especial, é possível apenas em casos excepcionalíssimos, diante da manifesta exorbitância do valor ou de flagrante impossibilidade de cumprimento da medida, o que não se verifica no caso dos autos.
+4. Na hipótese, o tribunal de origem concluiu que restou caracterizado o ato atentatório à dignidade da justiça que atrai a aplicação de multa, nos termos do art. 774, V, parágrafo único, do Código de Processo Civil de 2015.
+5. No caso em apreço, o reexame das premissas adotadas pela Corte estadual demandaria o reexame da matéria fático-probatória dos autos, atraindo a aplicação do óbice da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.130.551/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO. DECISÃO DE ADMISSIBILIDADE HÍBRIDA. IMPOSSIBILIDADE DE ANÁLISE DO APELO QUANTO À INCIDÊNCIA DO TEMA N. 536/STJ (INTIMAÇÃO DO DEVEDOR). MATÉRIAS REMANESCENTES. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. PROPORCIONALIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
