@@ -1,0 +1,8 @@
+DECISÃO
+Em petição conjunta, acostada às fls. 921-922, e-STJ, as requerentes ATVOS AGROINDUSTRIAL S. A., ATVOS AGROINDUSTRIAL PARTICIPAÇÕES S. A., PONTAL AGROPECUÁRIA S. A., RIO CLARO AGROINDUSTRIAL S. A., USINA CONQUISTA DO PONTAL S. A., AGRO ENERGIA SANTA LUZIA S. A., BRENCO - COMPANHIA BRASILEIRA DE ENERGIA RENOVÁVEL, DESTILARIA ALCÍDIA S. A. e USINA ELDORADO S. A., agravantes/recorridas, juntamente com MACHADO MEYER,SENDACZ E OPICE ADVOGADOS, recorrente/agravada, manifestaram expressamente a intenção de desistir dos recursos interpostos, respectivamente, agravo (art. 1.042 do CPC/2015), acostado às fls. 727-743, e-STJ, e recurso especial, acostado às fls. 504-521, e-STJ, requerendo, ainda, ao final, a imediata certificação do trânsito em julgado da decisão homologatória das desistências com a consequente baixa dos autos à origem e posterior arquivamento.
+Todavia, o pedido não pôde ser analisado, tendo em vista a ausência nos presentes autos de cadeia completa de procurações outorgadas aos advogados das agravantes/recorridas, com poderes específicos para desistir.
+Intimadas (fl. 925, e-STJ), as agravantes regularizaram a representação (fls. 928-1180, e-STJ).
+Assim, encontram-se cumpridas as formalidades dos artigos 104 e 105 do NCPC.
+Do exposto, com base no art. 998 do CPC, e no art. 34, IX, do RISTJ, homologa-se o pedido de desistência do agravo (art. 1.042 do CPC/2015), acostado às fls. 727-743, e-STJ, e do recurso especial, acostado às fls. 504-521, e-STJ, para que surta os efeitos jurídicos, julgando extintos ambos os procedimentos recursais. Certifique-se, de imediato, o trânsito em julgado desta decisão e, posteriormente, dê-se a baixa dos autos à origem.
+Publique-se. Intimem-se.
+EMENTA
