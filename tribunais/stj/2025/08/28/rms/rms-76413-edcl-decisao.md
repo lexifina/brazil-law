@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Neo Consultoria e Administração de Benefícios Ltada à decisão de fls. 3.075/3.084, que negou provimento ao recurso ordinário sob o fundamento de que inexiste nos autos prova pré-constituída do direito alegado no subjacente writ.
+Sustenta a parte embargante a existência de omissão no julgado quanto ao mérito da impetração. Isso porque (fl. 3.091):
+Dentre as ilegalidades suscitadas, cabe o destaque pela não observância do caráter público e vinculante dos pedidos de esclarecimentos publicados pela própria Administração Pública no portal do certame licitatório, sendo este o ponto nodal o qual, permissa venia, a r. decisão restou omissa e contraditória, dando azo a presente oposição destes declaratórios.
+De igual modo, assevera que a decisão embargada padece de contraição, na medida em que se ampara em afirmação que "não condiz com a realidade fática, afinal, todas as licitantes tomaram conhecimento dos termos do pedido de esclarecimento, ao passo que as respostas foram tempestivamente anexadas ao sítio oficial de compras do Estado de Santa Catarina (e-lic)" (fl. 3.092).
+E complementa (fls. 3.092/3.091):
+A contradição é mais latente ao passo que o documento apresentado foi extraído do próprio Portal de Compras (e-lic. sc. gov. br), que é o sítio de compras oficial do Embargado, Estado de Santa Catarina, mais precisamente da aba esclarecimentos, conteúdo acerca do qual todas as licitantes têm acesso e, portanto, tinham conhecimento do conteúdo das respostas aos pedidos de esclarecimentos. E como visto, nenhuma das partes nega a existência do pedido de esclarecimento, tampouco sua publicidade.
+Se já não restasse incontroversa a publicidade dos esclarecimentos concedidos, basta a demonstração de seu acesso público por meio do Portal de Compras de Santa Catarina, até mesmo sem necessidade de login. Basta acessar https://e-lic. sc. gov. br/portal/Mural. aspx e seguir com a pesquisa do número do processo, PE-0214/2023, conforme consta em edital e terá acesso a todas as informações e documentos já colacionados na exordial, como edital, recursos, decisões administrativas e, entre eles, constam os pedidos de esclarecimentos com a sua data de publicação. Vejamos a resposta a "Pergunta 10" exaustivamente debatida nos autos:
+ ..
+Portanto, não há nenhuma dúvida sobre o caráter oficial dos documentos juntados na exordial, todos eles foram retirados do próprio portal, podendo ser acessado por todas as licitantes ou mesmo terceiros a qualquer momento, sendo contraditório o r. decisum ao afirmar que seus conteúdos não foram efetivamente comprovados serem de conhecimento de todos os licitantes.
+Requer, assim, o acolhimento dos aclaratórios com efeitos modificativos.
+Impugnação às fls. 3.107/3.116.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignadas no aresto hostilizado as razões pelas quais a pretensão do impetrante, ora embargante, não encontra amparado na prova pré-constituída contida nos autos, a saber (fls. 3.082/3.084):
+Das razões recursais acima transcritas extrai-se que a insurgência da impetrante, ora recorrente, ampara-se na premissa jurídica de que os esclarecimentos prestados no bojo do pregão em tela, em resposta à sua consulta - a respeito do conteúdo do item 18 do checklist de avaliação ("Demonstrar relatórios WEB") -, e que teriam caráter vinculante, eram de conhecimento de todos os licitantes (fls. 2.677/2.680).
+Todavia, de maneira diversa, entendeu a Corte estadual que tal premissa não seria correta, uma vez que "os concorrentes não tinham prévia ciência dos questionamentos impostos pela comissão da avaliação na prova conceito" (fl. 2.566).
+Sucede que os documentos de fls. 260 e 263/273, por carecerem de indicação idônea de sua natureza oficial, não se prestam a afastar a conclusão adotada pelo Sodalício local acerca da ausência de publicidade daqueles mencionados esclarecimentos, o que fragiliza a tese da parte recorrente.
+Nesse sentido, mutatis mutandis:
+ ..
+De fato, conquanto aduza a parte recorrente que tal documentação teria sido extraída diretamente da plataforma oficial disponibilizada pelo próprio Ente Licitante, a documentação em tela não autoriza que tal assertiva seja acolhida de forma indene de dúvidas, o que, por si só, afasta a liquidez e certeza do direito pleiteado no presente writ.
+Outro não foi o entendimento adotado no parecer do Ministério Público Federal, in litteris (fl. 3.026):
+Além disso, somente por meio de análise técnica e aprofundado exame do acervo probatório constante nos autos do certame licitatório seria possível concluir pela procedência ou não das alegações da impetrante/recorrente, tornando insuscetível o remédio constitucional que exige pré-constituição das provas. Como se sabe, o mandado de segurança possui como requisito inafastável a comprovação inequívoca do direito líquido e certo, inexistindo, nessa via, a dilação probatória.
+Nessa linha de ideias, diante da ausência de comprovação de que os esclarecimentos prestados no bojo do pregão em tela, a respeito do conteúdo do item 18 do checklist de avaliação ("Demonstrar relatórios WEB"), eram efetivamente de conhecimento de todos os licitantes, fica prejudicado o exame das teses recursais.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
