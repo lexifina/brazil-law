@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Consta dos autos que, em sede de embargos de declaração, o Tribunal Regional Federal da 3ª Região reconheceu o direito do recorrido a realização de acordo de não-persecução penal, caso preenchidos os requisitos legais.
+Irresignado, o Ministério Público Federal apresentou o presente recurso especial, pugnando pela não aplicação da Lei de regência aos processos em trâmite quando de sua entrada em vigor.
+Admitido o recurso (fls. 564-567).
+Parecer do Ministério Público Federal (fls. 581-584) pelo não provimento do recurso.
+É o relatório. DECIDO.
+O recurso não reúne condições de provimento. Os autos devem ser encaminhados para análise de viabilidade de celebração de acordo de não persecução penal.
+Prevê o art. 28-A. do CPP, que: "Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime", mediante o cumprimento de condições a serem ajustadas entre as partes.
+O Supremo Tribunal Federal, ao julgar o leading case, no HC n.185.913/DF, fixou tese vinculante segundo a qual "É cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado".
+Na esteira do sobredito julgamento, a Terceira Seção deste STJ, ao julgar o Tema Repetitivo 1098, fixou entendimento no sentido de que:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CÓDIGO DE PROCESSO PENAL. NORMA DE CONTEÚDO HÍBRIDO (PROCESSUAL E PENAL). POSSIBILIDADE DE APLICAÇÃO RETROATIVA A PROCESSOS EM CURSO NA DATA DA ENTRADA EM VIGOR DA LEI 13.964/2019, DESDE QUE AINDA NÃO TRANSITADA EM JULGADO A CONDENAÇÃO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+1. Recurso representativo de controvérsia, para atender ao disposto no art. 1.036 e seguintes do CPC/2015 e na Resolução STJ n. 8/2008.
+2. Delimitação da controvérsia: "(im)possibilidade de acordo de não persecução penal posteriormente ao recebimento da denúncia".
+3. TESE: 3.1 - O Acordo de Não Persecução Penal constitui um negócio jurídico processual penal instituído por norma que possui natureza processual, no que diz respeito à possibilidade de composição entre as partes com o fim de evitar a instauração da ação penal, e, de outro lado, natureza material em razão da previsão de extinção da punibilidade de quem cumpre os deveres estabelecidos no acordo (art. 28-A, § 13, do Código de Processo Penal - CPP).
+3.2 - Diante da natureza híbrida da norma, a ela deve se aplicar o princípio da retroatividade da norma penal benéfica (art. 5º, XL, da CF), pelo que é cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigor da Lei n. 13.964/2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado da condenação.
+3.3 - Nos processos penais em andamento em 18/09/2024 (data do julgamento do HC n. 185.913/DF pelo Plenário do Supremo Tribunal Federal), nos quais seria cabível em tese o ANPP, mas ele não chegou a ser oferecido pelo Ministério Público ou não houve justificativa idônea para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, manifestar-se motivadamente acerca do cabimento ou não do acordo no caso concreto.
+3.4 - Nas investigações ou ações penais iniciadas a partir de 18/09/2024, será admissível a celebração de ANPP antes do recebimento da denúncia, ressalvada a possibilidade de propositura do acordo, no curso da ação penal, se for o caso.
+ ..
+(REsp n. 1.890.344/RS, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 23/10/2024, DJe de 28/10/2024.)
+Fixadas as premissas acima, verifico que o requerente atende aos pressupostos legais do benefício, porque (i) o crime pelo qual foi condenado não envolveu violência ou grave ameaça ; (ii) a pena mínima cominada ao tipo penal é inferior a 4 (quatro) anos; (iii) o requerente não é reincidente em crime doloso e (iv) é possível a confissão formal do acusado.
+Pelo exposto, nego provimento ao recurso, devendo ser cumpridas as determinações constantes do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
