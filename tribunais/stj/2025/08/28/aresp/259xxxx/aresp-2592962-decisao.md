@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por DAMAR CURSOS TÉCNICOS LTDA contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (fls. 172-173 e-STJ):
+EMENTA- APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. INADIMPLÊNCIA DO ALUNO INFERIOR A 90 DIAS. CANCELAMENTO DO CONTRATO. ABUSIVIDADE DA INSTITUIÇÃO DE ENSINO, NOS TERMOS DO ART. 6º DA LEI 9.870/99. DANO MORAL CONFIGURADO. RECURSO PROVIDO. DECISÃO UNÂNIME.
+1. A inadimplência inferior a 90 (noventa) dias não autoriza aplicar-se ao aluno sanções que se consubstanciem em descumprimento do contrato por parte da entidade de ensino (v. art. 6º da Lei 9.870/99). Bloquear o acesso ao conteúdo do curso nesse contexto caracteriza prática abusiva, sendo cabível a pretensão indenizatória.
+2. O valor da indenização deve atender aos requisitos necessários para sua fixação, quais sejam: a capacidade das partes, a potencialidade do dano e sua repercussão, sem perder de norte o princípio da razoabilidade. Considerados estes elementos, arbitra-se a quantia de R$ 2.000,00 (dois mil reais).
+Opostos embargos de declaração, esses foram rejeitados (fls. 195-201 e-STJ).
+Em suas razões de recurso especial (fls. 210-215 e-STJ), a parte recorrente aponta violação aos seguintes dispositivos legais:
+(i) artigo 1.022, II, do Código de Processo Civil, sustentando a existência de omissão no acórdão recorrido acerca da matéria suscitada nos embargos de declaração; e
+(ii) artigos 371 do CPC; e 6º da Lei n. 9.870/1999, sustentando, em suma, a ausência de materialização de qualquer conduta prevista no art. 6º da Lei n. 9.870/1999, diante da hipótese de resolução contratual, e não mero inadimplemento.
+Contrarrazões às fls. 220-228 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 234-236 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação ao art. 1.022 do CPC/15; e b) aplicação dos óbices das Súmulas 5 e 7 do STJ.
+Daí o agravo (fls. 237-244 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 246-248 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022, II, do CPC/2015 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Alegou a parte recorrente que o acórdão impugnado restou omisso acerca da matéria suscitada nos embargos de declaração, relativa à ausência de aplicação da norma inserida no art. 6º da Lei n. 9.870/1999, diante da hipótese de resolução contratual.
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente das questões essenciais ao deslinde da controvérsia. Confira-se (fls. 169-170 e-STJ):
+A autora propôs Ação de Indenização por Danos Morais, por entender que a sua situação de inadimplência foi exposta ao público pela ré, que retirou o seu nome do livro de frequência e bloqueou o acesso às informações do curso.
+Cumpre esclarecer, inicialmente, que o caso será apreciado à luz do Código do Consumidor, pois a relação mantida entre as partes é de consumo, na forma do disposto nos arts. 2º e 3º, CDC.
+Ao analisar os documentos juntados, observa-se que a ré conseguiu demonstrar a existência do débito em relação a 2 (duas) parcelas, o que também foi admitido pela parte autora.
+Nesse sentido, a cláusula sétima, parágrafo quarto, do contrato de prestação de serviços (ID 4138856) prevê o cancelamento automático do ajuste em caso de inadimplemento de qualquer parcela por mais de 60 (sessenta) dias.
+Ocorre que tal exigência está em desconformidade com o art. 6º da Lei n. 9.870/99, adiante transcrito:
+"Art. 6º São proibidas a suspensão de provas escolares, a retenção de documentos escolares ou a aplicação de quaisquer outras penalidades pedagógicas por motivo de inadimplemento, sujeitando-se o contratante, no que couber, às sanções legais e administrativas, compatíveis com o Código de Defesa do Consumidor, e com os arts. 177 e 1.092 do Código Civil Brasileiro, caso a inadimplência perdure por mais de noventa dias" (grifou-se).
+Portanto, o atraso no pagamento inferior a 90 (noventa) dias não autoriza aplicar-se ao aluno sanções que se consubstanciem em descumprimento do contrato por parte da entidade de ensino. Bloquear o acesso ao conteúdo do curso nesse contexto caracteriza prática abusiva, sendo cabível a pretensão indenizatória.
+Mostra-se completamente exangue - e sem qualquer força persuasiva - o argumento de que o dano moral ficou provado na hipótese ora submetida ao voluntário crivo da revisão. É que, em casos do tipo, a responsabilização resulta da singela circunstância de o fato contundir com direito da personalidade do lesado (damnum in re ipsa), tudo como aqui se passou.
+Para além disso, ficou, igualmente, esclarecido que o dano sofrido adveio de atitude exclusiva da apelada, contrária aos legítimos interesses da apelante, inexistindo, na espécie, qualquer excludente de responsabilidade que possa beneficiar o agente causador, nenhuma relevância assumindo, ainda, a alardeada adoção de providências com vista a diminuir as consequências do fato danoso, porquanto seu ato produziu efeitos danosos imediatos.
+Presentes estão, assim, os pressupostos da responsabilidade, a saber: a ação lesiva, o dano moral e o nexo causal, sendo certo que, uma vez constatada a indevida invasão na esfera moral da parte recorrida, o direito à compensação (ou, se for o caso, à reparação), deve ser chamado a depor.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA , julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação ao artigo 1.022, inc. II, do CPC/15.
+2. No mérito, cinge-se a pretensão recursal à verificação acerca da ocorrência de responsabilidade civil no caso dos autos.
+Como visto acima, o Tribunal de origem entendeu restarem comprovados os requisitos legais para configuração do dever de indenização, sob o fundamento essencial de que "presentes estão, assim, os pressupostos da responsabilidade, a saber: a ação lesiva, o dano moral e o nexo causal, sendo certo que, uma vez constatada a indevida invasão na esfera moral da parte recorrida, o direito à compensação (ou, se for o caso, à reparação), deve ser chamado a depor".
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo acerca da comprovação da ocorrência de responsabilidade civil na espécie, demandaria o reexame das provas dos autos, juízo obstado pela Súmulas 5 e 7 do STJ.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. RESPONSABILIDADE CIVIL. RESCISÃO CONTRATUAL. SERVIÇOS EDUCACIONAIS. EXPEDIÇÃO DE DIPLOMA. DEMORA EXCESSIVA. ENTREGA TARDIA. DANO MORAL CARACTERIZADO. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VALOR INDENIZATÓRIO. REVISÃO. SÚMULA Nº 7/STJ.
+1. No caso, rever a conclusão do tribunal local acerca do dano moral decorrente da demora excessiva na expedição do diploma de curso superior, bem como do valor indenizatório fixado demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.767.213/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. RESPONSABILIDADE CIVIL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. PROPAGANDA ENGANOSA. NÃO CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu que os informes publicitários se referiam adequadamente ao curso ministrado - Engenharia Eletrônica com ênfase em Automação industrial -, não havendo falar em engano por parte do consumidor que recebeu diploma de bacharelado em engenharia eletrônica, de modo que a resistência do CREA em efetuar o registro como engenheiro de automação industrial não pode ser reputada como de responsabilidade da agravada.
+3. A pretensão de alterar o entendimento sobre a inexistência de propaganda enganosa, considerando as circunstâncias do caso concreto, demandaria a análise de matéria fático-probatória, o que é vedado nesta via recursal.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.090.393/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
