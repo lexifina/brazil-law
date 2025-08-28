@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Odair Jose Rosa, apontando-se como autoridade coatora o Juiz da 3ª Vara Criminal da comarca de Contagem/MG (Processo n. 0183713-05.2017.8.13.0079 - fls. 5/14).
+Narram os autos que o paciente foi condenado pelos arts. 12 e 16 da Lei n. 10.826/2003 à pena de 6 anos, 1 mês e 15 dias de reclusão, em regime fechado. Em recurso de apelação, foi reconhecida a extinção da punibilidade em relação ao delito do art. 12, caput, da Lei n. 10.826/2003, reduzindo a condenação a 4 anos e 6 meses de reclusão, além do pagamento de 15 dias-multa, em regime fechado (fls. 6).
+O writ foi inicialmente impetrado no Tribunal estadual que, conforme decisão de fls. 45/47, declinou da competência para esta Corte.
+O impetrante sustenta que o paciente tem direito ao abrandamento do regime inicial de cumprimento de pena, considerando a pena aplicada e o fato de a gravidade em abstrato da conduta não constituir fundamentação idônea para a fixação do regime fechado.
+Requer, então, a concessão da ordem para estabelecer o regime semiaberto.
+É o relatório.
+Este writ é manifestamente inadmissível.
+Com efeito, o habeas corpus foi manejado como sucedâneo de revisão criminal e como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 11/12/2023).
+De toda maneira, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação dos óbices constatados.
+Com efeito, na hipótese, a pena-base foi fixada acima do mínimo legal e, conforme a jurisprudência desta Corte Superior, inexiste ilegalidade na fixação do regime inicial fechado quando há exasperação da pena-base em virtude de circunstância judicial desfavorável e a condenação excede 4 anos de reclusão (AgRg no HC n. 761.800/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/10/2022).
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CPP. SUPOSTA ILEGALIDADE NA FIXAÇÃO DO REGIME INICIAL FECHADO. IMPROCEDÊNCIA. REGIME ADEQUADO. PENA SUPERIOR A 4 ANOS, CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
