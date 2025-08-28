@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ESTADO DO PARANÁ contra a decisão de fls. 1.222-1.225, que indeferiu liminarmente os embargos de divergência, determinando, após o transcurso do prazo recursal, a remessa dos autos para redistribuição a um dos Ministros que compõem a Primeira Seção, a fim de que seja analisado o recurso à luz do paradigma oriundo da Segunda Turma do STJ.
+Em suas razões, a parte embargante sustenta que a decisão embargada omitiu-se quanto à majoração dos honorários advocatícios recursais, conforme determina o art. 85, caput, § 11, do CPC, visto que, com a interposição de embargos de divergência em recurso especial tem início novo grau recursal, razão pela qual é cabível a majoração dos honorários sucumbenciais.
+As contrarrazões não foram apresentadas, conforme certidões de fls. 1.243, 1.244, 1.245, 1.246, 1.247, 1.248, 1.249, 1.250, 1.251, 1.252, 1.253, 1.254, 1.255, 1.256, 1.257, 1.258, 1.259, 1.260, 1.261 e 1.262.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+De fato, é cabível a majoração dos honorários recursais quando do julgamento dos embargos de divergência.
+No caso em apreço, muito embora, já tenham sido julgados os embargos de divergência perante o seu cabimento diante da Corte Especial, levando em consideração os acórdãos paradigma oriundos da própria Corte Especial e da Terceira Turma, o julgamento da irresignação ainda não se findou. Diante dos acórdãos paradigma oriundos da Segunda Turma cuja uniformização depende do julgamento dos presentes embargos de divergência perante a Primeira Seção, ao final deste será apreciada a possibilidade de majoração dos honorários recursais.
+Oposto um único recurso de embargos de divergência, ainda que apreciado por 2 órgãos distintos (Corte Especial e Seção), os honorários recursais serão passíveis de apenas uma majoração. Ou seja, m esmo que o recurso percorra dois órgãos colegiados diferentes, não se trata de dois recursos distintos, mas sim de um único recurso com tramitação interna, o que impede a duplicação da verba honorária.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
