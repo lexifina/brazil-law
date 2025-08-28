@@ -1,0 +1,16 @@
+DECISÃO
+CLEILTON DA CONCEIÇÃO ALMEIDA, por meio da petição de fls. 497-498, requer a extensão dos efeitos da decisão em que concedi a ordem ao paciente Eduardo Augusto Rodrigues dos Santos Neves para tornar sem efeito a decisão que decretou sua prisão preventiva.
+A defesa destaca que "o corréu Cleilton da Conceição Almeida, igualmente denunciado nos mesmos autos da ação penal de origem, não foi incluído na impetração, conquanto se encontre em idêntica situação fático-jurídica, submetido às mesmas circunstâncias que ensejaram o reconhecimento da ilegalidade pelo Egrégio Tribunal" (fl. 497).
+Em decisão posterior (fls. 485-491), o Juiz de Direito da Vara Única da Comarca de Dores do Indaiá indeferiu pedido similar de outros corréus, argumentando que a situação de CLEILTON seria distinta da de Eduardo, uma vez que a fundamentação da prisão preventiva do peticionante baseou-se em elementos concretos, incluindo sua condição de foragido desde a decretação da prisão preventiva, não comparecimento à audiência de instrução e julgamento e existência de mandado de prisão em aberto.
+Requer a concessão da extensão da ordem, nos moldes do art. 580 do CPP.
+Decido.
+Apesar das alegações do requerente, observo que não é possível a extensão dos efeitos da decisão em seu favor.
+A situação dos réus não é idêntica, conforme informado pelo Juízo de Primeiro Grau. A análise dos autos indica que, diferentemente do corréu Eduardo, cuja prisão preventiva foi revogada devido à ausência de fundamentação idônea, a custódia cautelar do peticionante estaria lastreada em elementos concretos e individualizados que justificariam a manutenção da medida.
+Sobre a prisão do peticionante, o Juízo de Primeiro Grau consignou (fls. 488):
+ ..
+Quanto a Cleilton da Conceição Almeida, este acusado encontra-se em condição de foragido desde a decretação de sua prisão preventiva (ID 10463064523). A documentação processual demonstra que não foi possível localizá-lo para a citação pessoal e, mesmo com a presença de suas defensoras na audiência de instrução e julgamento (ID 10489309776), o réu optou por não comparecer ao ato, evidenciando uma clara e deliberada intenção de se furtar à aplicação da lei penal. Sua condição de foragido, associada à gravidade do crime pela qual foi denunciado, torna a manutenção da prisão preventiva absolutamente indispensável para assegurar o resultado útil do processo e garantir que, uma vez capturado, o acusado não volte a delinquir ou a se evadir. As certidões de antecedentes (FAC e CAC, IDs 10488569253, 10488561330) confirmam sua participação no crime em questão, bem como a existência de um mandado de prisão em aberto que corrobora a necessidade da custódia.
+O artigo 580 do Código de Processo Penal não se aplica quando a decisão se funda em motivos de caráter exclusivamente pessoal ou em vícios de fundamentação que não se replicam nas decisões dos corréus. No caso, a decisão favorável a Eduardo baseou-se na ausência de fundamentação adequada, situação que não se verifica em relação a CLEILTON, cuja prisão está amparada em elementos concretos.
+Assim, não houve o necessário atendimento da identidade fático-processual exigida pelo art. 580 do Código de Processo Penal.
+À vista do exposto, indefiro o pedido de extensão.
+Publique-se e intimem-se
+EMENTA
