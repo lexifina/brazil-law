@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por JULIANO DA SILVA RABELO, contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+O agravante foi condenado à pena de 13 (treze) anos e 8 (oito) meses de reclusão, além de 688 (seiscentos e oitenta e oito) dias-multa, pela p rática dos crimes previstos nos artigos 33, caput, da Lei nº 11.343/03 (tráfico de drogas); 180, inciso I, do Código Penal (receptação qualificada); e 16, caput, da Lei nº 10.826/03 (posse de arma de uso restrito).
+O Tribunal de origem confirmou a sentença condenatória, afastando as alegações defensivas de nulidade por invasão de domicílio e insuficiência probatória.
+Em recurso especial, a defesa sustentou violação ao art. 157, § 1º, do Código de Processo Penal, alegando invalidade do consentimento para ingresso domiciliar. O recurso foi inadmi tido pela Corte de origem, ante a necessidade de revolvimento fático-probatório (fls. 556/577).
+No presente agravo, a defesa insurge-se contra a aplicação da Súmula nº 7/STJ, argumentando que a controvérsia seria eminentemente jurídica (fls. 603/606).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo ou, subsidiariamente, pelo seu desprovimento fls. 647/652).
+É o relatório. DECIDO.
+Inicialmente, verifico que o agravo não merece conhecimento.
+A jurisprudência consolidada desta Corte estabelece que os recursos devem impugnar, de forma específica e fundamentada, todos os fundamentos da decisão combatida. Não bastam alegações genéricas sobre a inadmissibilidade ou mera reiteração do mérito da controvérsia.
+No caso, o agravante limitou-se a afirmar genericamente a não incidência da Súmula nº 7/STJ, sem apresentar argumentação específica e individualizada capaz de infirmar os fundamentos da decisão agravada.
+Tal conduta processual acarreta a aplicação analógica da Súmula nº 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+O agravante limitou-se a afirmar, de forma genérica, que a menção aos dispositivos constitucionais teria função "meramente complementar", sem demonstrar, de modo específico e fundamentado, por que tal argumento seria inconsistente.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão de origem, o que não ocorreu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca; e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi.
+Outrossim, a Corte Especial deste Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. Nesse sentido: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso especial, por meio de impugnação específica de cada um deles (AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik; e AgRg no AREsp 1.682.769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
