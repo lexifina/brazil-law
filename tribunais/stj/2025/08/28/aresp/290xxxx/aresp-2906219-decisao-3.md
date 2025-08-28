@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por THAYLON GABRIEL ROSA DA SILVA BRIZOLA e WILLIAM CRISTIAN MARIANO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que não admitiu o recurso especial com fundamento na Súmula 7 do STJ .
+Alega a defesa (fls. 4437-4451) que a decisão merece reparo, considerando que o recurso manejado não buscou a reanálise de provas, mas sim sua revaloração.
+No mérito, pugna pelo provimento do recurso para que sejam absolvidos os requerentes com fundamento na ausência de provas que autorizem a condenação.
+Contraminuta em agravo especial constante das fls. 4460-4464.
+O Ministério Público Federal ofertou parecer opinando pelo conhecimento do agravo e não provimento do recurso especial (fls. 4528-4536).
+É o relatório. DECIDO.
+Entendo que, no agravo, os recorrentes rechaçaram os fundamentos de inadmissão do apelo especial.
+Todavia, o recurso especial não deve ser conhecido, uma vez que, como bem fundamentado pela Corte de origem, a impossibilidade de seguimento do recurso se deu com base na incidência da Súmula n. 7, STJ.
+Observo, no ponto, que, no que concerne à Súmula n. 7, STJ, embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos.
+Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador.
+A propósito:
+É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016) (AgRg no AREsp n. 2.153.967/TO, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 23/6/2023);
+Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 1.713.116/PI, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 8/8/2022).
+Deste modo, rever a conclusão a que soberanamente chegou o Tribunal de origem importaria revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7, STJ.
+O Tribunal de Justiça apresentou fundamentada decisão, inclusive com a demonstração de imagens, prints e documentos, que indicam a responsabilização dos agravantes (fls. 3923-4007).
+Deste modo, rever a conclusão a que soberanamente chegou o Tribunal de origem importaria revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7, STJ.
+Por fim, convém acentuar que o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva.
+O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
