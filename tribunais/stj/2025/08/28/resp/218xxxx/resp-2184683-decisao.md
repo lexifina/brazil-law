@@ -1,0 +1,14 @@
+DECISÃO
+ERVESON DA COSTA NERES, com fundamento no art. 105, III, "a", da CF, interpõe recurso especial contra acórdão do Tribunal de origem, para alegar a violação do art. 387, § 2º, do CPP, uma vez que o acórdão recorrido "se absteve de considerar o tempo de prisão provisória cumprido  ..  para fins de determinação do regime inicial de cumprimento da pena privativa de liberdade" (fl. 381).
+Decido.
+Não verifico a possibilidade de conhecer o recurso especial, por falta de de interesse recursal. Mesmo com a detração do período de prisão provisória, seria mantido o regime inicial fechado, ante o registro de circunstância do art. 59 do CP desfavorável e a reincidência do réu.
+A sentença condenou o denunciado "por infração ao artigo 155, caput, do Código Penal e artigo 16, §1º, IV, da Lei nº 10.826/03, na forma do artigo 69 do Código Penal" (fl. 325). O Tribunal de origem readequou as penas para "04 (quatro) anos, 10 (dez) meses e 06 dias de reclusão e pagamento de 24 (vinte e quatro) dias-multa" (fl. 333).
+O acórdão recorrido registrou circunstância judicial do art. 59 do CP desfavorável (fl. 360) e que "o regime mais gravoso mostra-se adequado em razão da reincidência específica do sentenciado além da desfavorabilidade na primeira etapa dosimétrica" (fl. 369).
+O Tribunal de origem explicou: "não se procedeu à detração  .. , pois, já expedida a guia de recolhimento provisória  sendo  o Juízo das Execuções  ..  competente para também decidir, quando o caso, sobre soma ou unificação de penas" (fls. 368-369).
+Em relação ao modo inicial de cumprimento da pena, a situação do sentenciado não seria modificada. Assim, não é útil ou necessário interpor recurso especial para discutir a violação federal, pois "a detração penal não altera o regime inicial de cumprimento da pena quando há circunstâncias judiciais desfavoráveis e reincidência, conforme precedentes do STJ" (AgRg no AREsp n. 2.433.480/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025).
+Não se verifica o interesse de agir, uma vez que "detração penal não altera o regime inicial de cumprimento da pena quando há circunstâncias judiciais desfavoráveis e reincidência" (RHC n. 208.881/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/2/2025, DJEN de 10/3/2025.)
+Mesmo com a detração penal, o apenado seria recolhido ao regime fechado para resgatar o restante da condenação. É mais favorável aos seus interesses a aplicação da detração penal pelo Juiz da VEC, para fins de progressão ao regime semiaberto (ou aberto) e outros benefícios.
+À vista do exposto, não conheço do recurso especial.
+Nada há a prover em relação à petição de fls. 427-432, uma vez que o recurso especial constitui peça de natureza técnica, com objeto definido no ato de sua interposição, sendo vedada a inovação em manifestações subsequentes.
+Publique-se e intimem-se.
+EMENTA
