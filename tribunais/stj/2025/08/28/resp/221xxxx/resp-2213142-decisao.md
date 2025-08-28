@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE ANTONIO GUIDUGLI contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos do Agravo em Execução Penal n. 0012133-07.2024.8.26.0496.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial (e-STJ fls. 335/336):
+Trata-se de recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+EMENTA: DIREITO PENAL. AGRAVO EM EXECUÇÃO PENAL. RETIFICAÇÃO DO CÁLCULO DE PENAS. RECURSO DESPROVIDO. I. Caso em Exame Agravo em Execução Penal interposto por José Antonio Guidugli Júnior contra decisão que indeferiu pedido de retificação de cálculos de pena. O agravante foi condenado por delitos do Código de Trânsito Brasileiro, com indulto concedido para um dos crimes. Alega erro nos cálculos de pena que desconsiderou tempo já cumprido antes do indulto na elaboração do cálculo. II. Questão em Discussão 2. A questão em discussão consiste em determinar se o tempo de pena cumprido pelo agravante, antes da concessão do indulto, deve ser considerado no cálculo para progressão de regime. III. Razões de Decidir 3. O juiz de origem corretamente indeferiu o pedido de retificação, pois o período cumprido pelo crime indultado não pode ser utilizado para compor o cálculo de liquidação das penas remanescentes. 4. Permitir o uso do tempo de prisão do crime indultado para abater outras penas criaria um "crédito" indevido, o que não é permitido. IV. Dispositivo e Tese 5. Recurso desprovido. Tese de julgamento: 1. Penas indultadas não podem ser usadas para abater penas remanescentes. 2. Correta a interrupção no cálculo de penas. Legislação Citada: Código de Trânsito Brasileiro, art. 302, §1º, III, art. 312. Código Penal, art. 69, art. 76. Jurisprudência Citada: TJSP, Agravo de Execução Penal 0009533-47.2023.8.26.0496, Rel. Sérgio Coelho, 9ª Câmara de Direito Criminal, j. 22.07.2024. TJSP, Agravo de Execução Penal 0008456- 66.2024.8.26.0496, Rel. Francisco Bruno, 10ª Câmara de Direito Criminal, j. 17.02.2025.
+Sustenta o recorrente, em síntese, que o acórdão contrariou o art. 76 do CP, na medida em que desconsiderou período de pena já cumprido para fins de cálculo de benefício pelo delito mais grave, em razão da concessão de indulto do delito menos grave, razão pela qual requer retificação do cálculo de pena, "de modo a considerar o tempo de efetivo cumprimento da pena desde seu ingresso no estabelecimento prisional, afastando a interpretação in malam partem no sentido de que referido período serviu para obtenção do indulto com base no Decreto Presidencial de 2022 que, frisa-se, não ostenta referida previsão" (e-STJ, fl. 316).
+Contrarrazões pela manutenção da decisão (e-STJ, fls. 320-324).
+Ao se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ fls. 335/337).
+É o relatório.
+Decido.
+Verifica-se que essas questões já foram suscitadas no HC n. 988.508/SP, cuja ordem foi denegada por decisão de minha lavra já confirmada pelo colegiado da Sexta Turma por ocasião do julgamento do agravo regimental em 4/6/2025.
+Dessa forma, o presente recurso constitui mera reiteração de pedido formulado em habeas corpus anteriormente distribuído, providência vedada pela jurisprudência desta Corte Superior. No mesmo sentido, destaco os seguintes precedentes:
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. REITERAÇÃO DE TESES JÁ APRECIADAS EM ANTERIOR IMPETRAÇÃO. NÃO CONHECIMENTO. I. CASO EM EXAME
+1. Recurso especial interposto por JONATAS VICENTE DE OLIVEIRA contra acórdão que deu parcial provimento ao apelo defensivo.
+2. Alega o recorrente violação do art. 68 e 157, § 2º, do CP. Requer o conhecimento e provimento do recurso para que seja reduzido o aumento a 1/3 na terceira fase da dosimetria, pelo concurso de majorantes do roubo, nos termos da Súmula n. 443/STJ. II. QUESTÃO EM DISCUSSÃO
+3. Determinar se há fundamento para o conhecimento e o provimento do recurso especial. III. RAZÕES DE DECIDIR
+4. As teses apresentadas neste recurso especial já foram apreciadas pela Corte em habeas corpus conexo (HC n. 771.957/SP), não havendo espaço para nova apreciação em respeito aos princípios da coisa julgada e da segurança jurídica.
+IV. RECURSO NÃO CONHECIDO.
+(REsp n. 2.076.363/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. OBJETO DISCUTIDO EM ARESP JULGADO ANTERIORMENTE. REITERAÇÃO. AGRAVO IMPROVIDO.
+1. A ocorrência do trânsito em julgado do ato objeto da impetração torna inviável a apreciação do pedido nesta instância superior.
+2. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+3. No caso, o pedido formulado na presente ação foi objeto de apreciação no AREsp n. 2.601.519, do qual não se conheceu, ocasionando o trânsito em julgado da condenação aqui tratada. Após essa data, foi impetrado o presente writ, versando sobre as mesmas questões objeto do recurso especial.
+4. Nesse contexto, tem-se que a apreciação anterior do Superior Tribunal de Justiça em outros autos impede a realização de novo exame da questão, ante o princípio da unirrecorribilidade das decisões e da indevida reiteração de pedidos.
+5. Eventual revisão criminal deverá ser manejada perante a instância competente para a análise do pleito, qual seja, o Tribunal local.
+6. Agravo regimental improvido.
+(AgRg no HC n. 923.521/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 15/10/2024, DJe de 21/10/2024.)
+Diante do exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
