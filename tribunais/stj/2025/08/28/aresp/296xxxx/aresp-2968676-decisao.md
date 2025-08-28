@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 284 do STF (fls. 540-541).
+O acórdão recorrido assim foi ementado (fl. 509):
+RECURSO DE APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). IRDR N.º 28. SENTENÇA IMPROCEDÊNCIA.
+1. Trata-se de apelação interposta pelo autor em face da sentença que jugou improcedente seus pedidos de revisão contratual e indenização por danos morais, versando contrato de cartão de crédito consignado e operações de empréstimo mediante saque do limite de crédito atrelado ao cartão.
+2. Rejeita-se a preliminar de não conhecimento por afronta ao princípio da dialeticidade arguida pela ré, havendo suficiente e adequado enfrentamento aos fundamentos da sentença nas razões recursais da parte autora.
+3. No mérito, a controvérsia consiste em apurar a regularidade da contratação do cartão de crédito com reserva de margem consignável, sustentando a instituição financeira ré a validade do negócio e o pleno cumprimento do dever de informação.
+4. Efetiva comprovação da contratação e da ciência do consumidor acerca da contratação apresentada pela instituição financeira. A nulidade do contrato ou a sua readequação em empréstimo consignado depende de prova robusta do vício do negócio jurídico, ou da inobservância do dever de informação. Ausência de provas destas alegações.
+5. A incidência da legislação consumerista não exime a parte da comprovação mínima de suas alegações. A instituição financeira comprovou a efetiva contratação, demonstrando a inexistência de vícios no negócio jurídico e de ato ilícito a demandar a responsabilidade da instituição financeira.
+6. Inteligência dos artigos 6º, VIII, e 14 do CDC, artigos 166 e 167 do CC, artigo 373, II, do CPC.
+7. RECURSO DE APELAÇÃO DESPROVIDO.
+No recurso especial (fls. 523-529), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou ofensa aos arts. 927, III, e 1.022, II, parágrafo único, I, do CPC.
+Alegou que o acórdão recorrido estaria omisso quanto à aplicação das teses fixadas no IRDR n. 28 do TJRS, as quais, em seu entendimento, seriam plenamente aplicáveis ao caso concreto.
+Sustentou que a decisão teria violado norma infraconstitucional e lhe causado grave prejuízo, uma vez que não conseguiu converter o contrato de cartão de crédito consignado em empréstimo pessoal consignado, tampouco obteve a compensação de valores, a restituição do indébito ou a reparação por dano extrapatrimonial decorrente dos descontos indevidos em sua folha de pagamento do INSS, pois teria sido induzido a erro no momento da contratação do empréstimo.
+Ao final, requereu o provimento do recurso, com vistas à anulação do acórdão recorrido.
+Foram apresentadas contrarrazões (fls. 534-537).
+No agravo (fls. 552-555), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 563-567).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 503-506):
+ ..  Consta dos autos termo de adesão ao serviço de cartão de crédito consignado e instrumento de contratação de empréstimo (evento 13, CONTR2 e evento 7, OUT5), firmados presencialmente em 07/10/2015, bem como faturas de cobrança que evidenciam efetiva utilização do serviço de cartão de crédito para realização de saques do limite de crédito disponível e para compras no comércio -  evento 7, OUT6 .
+ ..  Em que pese não ser escolha vantajosa ao consumidor a contratação do cartão de crédito consignado para utilização do limite de crédito rotativo, no caso da parte autora, verifica-se que o produto foi efetivamente contratado e utilizado para realização de saques e não apenas como um empréstimo pessoal consignado.
+ ..  Ademais, a parte ré desincumbiu-se do ônus que lhe competia, nos termos do art. 373, inciso II, do CPC, juntando o contrato de adesão de cartão de crédito consignado, que apresenta clara intenção de contratação do cartão, com a informação ao consumidor da pactuação.
+ ..  A indicação de que a contratação é de cartão de crédito consignado é clara e repetida em cada um dos documentos acostados pelo Banco. Desta forma, a declaração de nulidade do contrato de adesão do cartão de crédito consignado - renda mensal consignável - não pode ser efetivada com a simples afirmação de que a intenção era de contratar empréstimo consignado, deve vir acompanhada de prova robusta de um dos vícios do negócio jurídico para a sua nulidade, especialmente considerando que o autor contratou o cartão em outubro de 2015 e ajuizou a demanda somente em julho de 2023, após realizar diversos saques sobre o limite do crédito rotativo atrelado ao cartão.
+Da análise dos documentos acostados pela instituição financeira, não se observa vício que invalide o negócio jurídico. A instituição financeira observou o seu dever de informação, contendo os contratos as cláusulas essenciais à modalidade do pacto. Não vislumbro provas de que o contrato de cartão de crédito consignado foi pactuado mediante simulação, ou indução do consumidor a erro, ou ainda vício do consentimento. O vício do negócio jurídico deveria ter sido amplamente comprovado para que o contrato fosse passível de nulidade ou de conversão. Ausente a prova, inviável a pretensão de nulidade e de conversão do contrato.
+Inicialmente, verifica-se a ausência de oposição de embargos declaratórios, não havendo falar, portanto, em ofensa ao art. 1.022 do CPC. Assim, estando as razões do recurso dissociadas do que decidido na origem, é inadmissível o inconformismo por deficiência na sua fundamentação, atraindo a incidência da Súmula n. 284 do STF.
+Outrossim, quanto à alegada afronta ao art. 927, III, do CPC, a fundamentação recursal apresentada também é deficiente, pois o recorrente não desenvolveu argumentação analítica capaz de demonstrar, de forma clara, objetiva e precisa, de que modo o dispositivo teria sido violado. Inafastável a Súmula n. 284 do STF.
+Ademais, modificar a conclusão alcançada pelo acórdão recorrido quanto à regularidade da contratação e à ausência de vício demandaria reexame do conjunto fático-probatório, providência vedada em recurso especial pela Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como a concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
