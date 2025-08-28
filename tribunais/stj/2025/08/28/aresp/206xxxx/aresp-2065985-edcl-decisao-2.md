@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, embargos de declaração opostos por LEVI RODRIGUES VIEIRA contra a decisão que reconheceu a atipicidade da conduta dos demais réus e julgou extinta a ação civil pública.
+O embargante sustenta, em síntese, que:
+Fez-se, assim, necessário o comparecimento do ora Embargante para pugnar a Vossa Excelência para que haja a aplicabilidade do disposto no referido art. 1.005, do CPC, manifestando-se acerca do aproveitamento da decisão de extinção da punibilidade, julgada em relação aos agravantes Cléber e Ednéia, também em relação ao mesmo, assim esclarecendo/aclarando referido ponto que entende-se, data máxima vênia, obscuro no r. Julgado, pronunciando-se essa E.Corte em relação a ponto em relação ao qual caberia fazer (fl. 5.715).
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO apresentou impugnação aos declaratórios (fls. 5.791-5.806).
+É o relatório. Decido.
+A pretensão merece acolhida.
+Com efeito, a decisão embargada concluiu que:
+ ..  consoante análise fática já realizada pelo tribunal competente, os atos foram praticados de forma culposa, o que descaracteriza a improbidade administrativa e justifica a aplicação imediata ao presente caso da nova legislação, conforme tese fixada pelo Supremo Tribunal Federal (Tema n. 1.199), segundo a qual, "a nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente" (fl. 5.681).
+De relevo, que, na origem, todos os réus responderam a ação com base na mesma imputação, sem que houvesse peculiaridades na atuação de cada um deles. Desta forma, necessária a atribuição do pretendido efeito expansivo, de modo que seja reconhecida a atipicidade da conduta também ao embargante. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. RESSARCIMENTO AO ERÁRIO. VALOR INCONTROVERSO. SOLIDARIEDADE. DESNECESSIDADE.
+1. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+2. No caso dos autos, o Ministério Público, na sua petição inicial da ação de improbidade, quantificou expressamente o montante individualizado a título de diárias, destinado ao ressarcimento ao erário, havendo pedido claro nesse sentido.
+3. Sem revisitar nenhuma prova, é possível individualizar a proporção do dano que a agravante causou, de modo a autorizar a superação da Súmula 7 do STJ, para limitar o montante a ser ressarcido pela recorrente ao valor indicado pelo MP/MG, aplicando o efeito expansivo aos litisconsortes passivos que receberam idêntica condenação.
+4. Agravo interno parcialmente provido. Concessão de efeito expansivo (AgInt nos EDcl no AREsp n. 2.309.192/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 10/6/2025, DJEN de 25/6/2025).
+ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. CONDENAÇÃO COM BASE NO ART. 11, I, DA LIA. APLICAÇÃO DO TEMA 1.199/STF. RECURSO PROVIDO.
+1. Sob o regime de repercussão geral, o Supremo Tribunal Federal (STF) concluiu pela aplicabilidade da Lei 14.230/2021 aos processos inaugurados antes de sua vigência e ainda sem trânsito em julgado. Extensão das conclusões havidas acerca da aplicabilidade da Lei 14.230/2021 às condenações com base no caput do art. 11 da Lei 8.429/1992 ou nos revogados incisos I e II do mesmo artigo, sem que os fatos configurem uma das novas hipóteses previstas na atual redação do art. 11 da LIA, ou seja, quando configurada a atipicidade da conduta.
+2. Caso concreto em que os atos tidos como ímprobos não configuram nenhuma das hipóteses previstas nos remanescentes incisos do art. 11 da Lei de Improbidade Administrativa. Atipicidade que se deve estender ao litisconsorte passivo, diante do efeito expansivo do recurso (art. 1.005 do CPC).
+3. Agravo interno a que se dá provimento para dar provimento ao recurso especial, julgando improcedentes os pedidos formulados na ação contra o ora agravante; estendida a improcedência ao corréu (AgInt no AREsp n. 753.912/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/6/2024, DJe de 10/6/2024).
+Isso posto, acolho os embargos de declaração, com efeitos modificativos, para aplicar o efeito expansivo da extinção da punibilidade dos demais réus ao embargante.
+Intimem-se.
+EMENTA
