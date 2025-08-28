@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se recurso especial interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 22/07/2024.
+Concluso ao gabinete em: 30/04/2025
+Ação: cominatória ajuizada por METALVAC METALIZAÇÃO E ALTO VÁCUO LTDA. - EIRELI e outros em face de SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, visando a reativação do plano de saúde da autora Isa Spivack, após diagnóstico de carcinoma, e a emissão de boletos para pagamento.
+Sentença: julgou parcialmente procedente a ação, declarando válida a rescisão contratual, mas determinando a manutenção do plano de saúde para a beneficiária Isa Spivack até que receba alta médica, desde que a contratante arque integralmente com a contraprestação devida.
+Acórdão: Negaram provimento ao recurso, nos termos da seguinte ementa:
+"APELAÇÃO PLANO DE SAÚDE. Relação de consumo. Rescisão de contrato entre plano de saúde e estipulante. Sentença que determinou a continuidade do tratamento dispensado à Autora / Apelada. Rescisão de contrato que não pode ser oposta à consumidora diagnosticada com extenso carcinoma in situ de alto grau. Indicação de mastectomia e ressecção do linfonodo em ambas as mamas. Impossibilidade de prejuízo aos tratamentos já iniciados. Aplicação do entendimento firmado pelo Tema 1.082 do Colendo Superior Tribunal de Justiça. Recurso desprovido."
+Embargos de Declaração: opostos por Metalvac Metalização e Alto Vácuo Ltda. - EIRELI foram acolhidos.
+Recurso especial: alega violação dos artigos 30 da Lei nº 9.656/1998, 135, 188 I, 757, 765 do Código Civil e art. 39, VIII e 54, §4º do Código de Defesa do Consumidor. Sustenta que o acórdão recorrido contrariou jurisprudência dominante do Superior Tribunal de Justiça quanto à legalidade da recusa de operadoras de planos de saúde de comercializarem planos individuais por atuarem apenas no segmento de planos coletivos.
+RELATADO O PROCESSO, DECIDE-SE
+- Da manutenção do contrato de plano de saúde na constância de tratamento
+de saúde
+A Corte de origem, ao julgar o recurso de apelação interposto pela recorrente, concluiu o seguinte (e-STJ fls. 278/279):
+"Incontroverso que a Apelada firmou contrato de plano de saúde empresarial para membros integrantes da mesma entidade familiar, e que em 07/12/2023 solicitou junto a Ré o cancelamento do seu contrato, sendo este pedido formalizado junto a Operadora Re. Ocorre que a beneficiária Iza, havia realizado o exame de mamografia em outubro/2023, e o exame antomopatologico, com o resultado no dia 08/12/2023 obteve o surpreendente diagnóstico de extenso carcinoma in situ de alto grau, o que ensejou o início de diversos tratamento com indicação de mastectomia e ressecção do linfonodo em ambas as mamas.
+Considerada a existência de tratamentos em curso, é inadmissível se falar em rescisão contratual em relação à beneficiária Isa Spivack, ainda que se tenha preenchido os requisitos contratuais.
+Oportuno anotar a tese firmada pelo Superior Tribunal de Justiça quando do julgamento do tema repetitivo 1.082 no sentido de que "A operadora, mesmo após o exercício regular do direito à rescisão unilateral de plano coletivo, deverá assegurar a continuidade dos cuidados assistenciais prescritos a usuário internado ou em pleno tratamento médico garantidor de sua sobrevivência ou de sua incolumidade física, até a efetiva alta, desde que o titular arque integralmente com a contraprestação devida." G. N., hipótese que se alinha integralmente ao caso concreto.
+Diante destas circunstâncias, mostra-se irrelevante a fundamentação para a rescisão do contrato, se com base no artigo 30 ou 31 da Lei 9.656/98, conquanto deve ser concluído o tratamento a que se submete a Apelada, tal como decidido pela sentença hostilizada."
+Da leitura dos trechos acima, verifica-se que a decisão proferida pelo Tribunal local decidiu em consonância com a jurisprudência desta Corte Superior de Justiça no sentido de que "é inviável a rescisão unilateral de contrato de plano de saúde individual ou coletivo, pela operadora, durante o período em que o beneficiário estiver submetido a tratamento médico garantidor de sua sobrevivência e/ou incolumidade física" (AgInt no REsp 1890669/SP, Quarta Turma, julgado em 08/03/2021, DJe 26/03/2021; AgInt no REsp 1891954/SP, Terceira Turma, julgado em 25/05/2021, DJe 10/06/2021; AgInt no AREsp 1732452/SP , Terceira Turma, DJe 19/10/2022; e AgInt nos EDcl no AREsp 1693496 / SP, Quarta Turma, DJe 24/11/2022).
+Nesse sentido, o Tema 1082 do STJ "A operadora, mesmo após o exercício regular do direito à rescisão unilateral de plano coletivo, deverá assegurar a continuidade dos cuidados assistenciais prescritos a usuário internado ou em pleno tratamento médico garantidor de sua sobrevivência ou de sua incolumidade física, até a efetiva alta, desde que o titular arque integralmente com a contraprestação devida."
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 223) para 15%,
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. PLANO DE SAÚDE COLETIVO. RESCISÃO. CONSTÂNCIA DE TRATAMENTO DE SAÚDE. RESCISÃO UNILATERAL INDEVIDA. SÚMULA 568/STJ.
+1. Ação cominatória.
+2. É inviável a rescisão unilateral de contrato de plano de saúde individual ou coletivo, pela operadora, durante o período em que o beneficiário estiver submetido a tratamento médico garantidor de sua sobrevivência e/ou incolumidade física. Precedentes.
+3. Recurso especial conhecido e desprovido.
