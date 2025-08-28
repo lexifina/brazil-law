@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MESQUITA NETO ADVOGADOS contra decisão de minha lavra, constante de e-STJ fls. 722/729, que , em juízo de reconsideração, conheci em parte de seu recurso especial e, nessa extensão, neguei-lhe provimento em razão das Súmulas 7 e 211 do STJ.
+A embargante argumenta que a decisão embargada padeceria de omissão, pelo seguinte (e-STJ fls. 736/737):
+(..) a r. decisão embargada incorre em omissão ao não esclarecer porque pretendeu que a referida matéria fosse prequestionada em cenário no qual o vício de ilegalidade nasceu com o próprio acórdão recorrido, do qual não havia mais possibilidade de sequer opor Embargos de Declaração e encerra inconformismo com o acórdão Regional, não vício sanável.
+Tal ponto é inegavelmente imprescindível para a correta apreciação da prestação jurisdicional, pois a negativa de apreciação desse tema implica negativa de acesso ao judiciário, na medida em que a única possibilidade de a Embargante ver tal tema apreciado e reformado era por meio de seu apelo especial.
+Por fim cumpre ainda esclarecer que a decisão ora embargada incorreu em outra omissão, demandando integração pelos presentes aclaratórios.
+Ora, como é sabido, o Recurso Especial interposto assim o foi com base na demonstração de ofensa à lei federal, mas também em relação à divergência jurisprudencial entre o v. acórdão recorrido e os acórdãos proferidos na Apelação Cível nº 5060421-43.2015.4.04.7000, relativamente a possibilidade de condenação fazendária ao pagamento da verba honorária, bem como em relação ao acórdão proferido no Recurso Especial nº 978.510/SP, o qual expressamente entendeu que a redução de verba honorária sem pedido da parte incorre em error in procedendo.
+No entanto, a r. decisão agravada nada dispôs sobre os paradigmas invocados, incorrendo em clara e inegável omissão, merecendo, portanto, mais essa integração pelos presentes aclaratórios.
+Sem contraminuta.
+Passo a decidir.
+Os embargos de declaração devem atender aos seus requisitos: suprir omissão, contradição, obscuridade ou ambiguidade, podendo, ainda, ser utilizado para corrigir eventual erro material.
+Na hipótese, não há vícios formais a serem corrigidos.
+Na decisão embargada, restou expresso, de forma clara e coerente, que é "pacífica a jurisprudência do STJ no sentido de que a condenação em honorários de sucumbência deve observar o princípio da causalidade, sendo, outrossim, impossível revisar, em sede de recurso especial, o juízo efetuado nas instâncias ordinárias acerca da atribuição subjetiva da responsabilidade pela necessidade de ajuizamento da demanda, em face da vedação constante da Súmula 7 do STJ" (e-STJ fl. 728).
+Evidentemente, o mesmo impedimento que se aplica ao recurso especial manejado com base na alínea "a" do permissivo constitucional também se aplica ao recurso especial manejado com base na alínea "c" daquele permissivo.
+De outro lado, em relação à caracterização de atendimento ao requisito do prequestionamento, tem-se que a oposição de eventuais embargos de declaração, na segunda instância, é imprescindível mesmo na hipótese em que se busca, com o recurso especial, a correção de alegado vício extra petita do julgado.
+À guisa de mera ilustração:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO PELO STF EM REPERCUSSÃO GERAL. TEMA N. 554/STF. RECURSO ESPECIAL. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA SURGIDO NO SEGUNDO ACÓRDÃO DA CORTE DE ORIGEM. TESE PROCESSUAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 282/STF. INCIDÊNCIA.
+1. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei n. 11.672/2008. Precedente: Questão de Ordem no Ag n. 1.154.599/SP, rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+2. Na espécie, o Juízo local negou seguimento ao recurso especial no tocante à pretensão de ilegalidade do Fator Acidentário de Prevenção - FAP, ancorando-se no entendimento firmado pelo STF quando do julgamento do Recurso Extraordinário n. 677.725/RS - Tema n. 554/STF.
+3. Nesse panorama, fica prejudicada a análise da matéria do presente apelo nobre, inclusive em relação à indicada violação ao art. 535 do CPC, tendo em vista ser coincidente com aquela discutida no julgado paradigmático - Tema n. 554/STF.
+4. Inviável o conhecimento do recurso especial quando o Tribunal de origem não examinou a tese recursal de cunho processual fundada em que existiria um segundo julgamento extra petita advindo do acórdão que julgou os primeiros aclaratórios opostos, tampouco foram opostos os competentes embargos de declaração perante a Corte local a fim de suscitar omissão quanto a tal ponto. Incidência da Súmula n. 282/STF.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp 2.080.019/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/02/2025, DJEN 20/02/2025).
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
