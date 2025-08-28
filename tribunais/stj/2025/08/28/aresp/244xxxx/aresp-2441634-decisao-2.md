@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso es pecial interposto por MERCEDES-BENZ DO BRASIL LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de violação dos arts. 31 da Lei n. 9.656/1998 e 884 do CC e na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão originário do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento de recurso de agravo de instrumento nos autos de processo em fase de liquidação de sentença.
+O julgado foi assim ementado (fl. 60):
+AGRAVO DE INSTRUMENTO. Insurgência contra decisão que homologou o cálculo inicial apresentado. Razão assiste ao agravante. Laudo que foi retificado pelo perito, que reconheceu o equívoco cometido, em razão de erroneamente incluir por duas vezes o valor de contribuição mensal do funcionário. Valor que nunca foi pago diretamente pelo funcionário à operadora do plano de saúde, mas sim descontado de sua folha de pagamento, sendo repassado pela empregadora a totalidade por vida para o plano. Assim, as planilhas fornecidas pelas executadas faziam referencia ao total por vida. Decisão reformada. Recurso a que se dá provimento.
+O recorrente opôs embargos de declaração, rejeitados nos seguintes termos (fl. 123):
+EMBARGOS DE DECLARAÇÃO. Alegação de omissão. Inexistência. Caráter infringente. Nos embargos de declaração é incabível o reexame da decisão. Embargante que pretende mudar o teor do julgado a seu contento. Desnecessidade de prequestionamento. Embargos rejeitados.
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 31 da Lei n. 9.656/1998 e 884 do CC.
+Afirma que o acórdão recorrido estabeleceu como devido pelo agravado, a título de prêmio mensal do plano de saúde, um valor inferior ao praticado para os funcionários da ativa, contrariando a norma que exige o pagamento integral.
+Destaca que a decisão recorrida homologou valores constantes de prova pericial produzida na fase de liquidação de sentença, porém se baseou em laudo que não contabilizou a cota-parte paga pelo agravado, identificando apenas aquela subsidiada pela agravante, fixando valor menor.
+Argumenta que a decisão recorrida contraria o art. 31 da Lei n. 9.656/1998 ao estabelecer tratamento diferenciado para os planos de saúde de funcionários ativos e de inativos, além de violar a coisa julgada e proporcionar ao agravado enriquecimento ilícito em detrimento da agravante, afrontando também o art. 884 do CC.
+Requer, assim, o provimento do recurso para que se anule o acórdão que considerou o segundo laudo pericial juntado na instância ordinária, que não representa o real valor devido pelo recorrido a título de mensalidade do plano de saúde.
+É o relatório. Decido.
+O recurso não merece prosperar.
+A controvérsia diz respeito à aplicação dos arts. 31 da Lei n. 9.656/1998 e 884 do CPC, considerando a homologação pelo Tribunal de origem de valor devido pelo ora recorrido a título de prêmio mensal de plano de saúde.
+Ressalte-se que o recurso tem origem em liquidação de sentença condenatória transitada em julgado que compeliu a ora agravante a manter o plano de saúde do agravado e de sua beneficiária mediante assunção pelo agravado do pagamento da integralidade do prêmio, que deveria ser objeto de liquidação.
+Em liquidação de sentença, realizou-se perícia, cuja conclusão levou à homologação do valor do prêmio a ser custeado pelo agravado.
+A questão foi objeto de decisão no acórdão recorrido da seguinte forma (fls. 59-62, destaquei):
+ ..
+O perito as fls. 154/156 dos autos de origem solicitou às requeridas a juntada de diversos documentos, a fim de que pudesse calcular o montante desembolsado pela ex-empregadora do autor, com cada vida mantida no plano de saúde.
+Em que pese a ciência de que o autor teria que arcar com a cota parte que antes era assumida por sua empregadora, nos documentos apresentados pelas requeridas o montante apurado por vida já representava essa soma, uma vez que os funcionários não fazem pagamentos diretos à operadora do plano, eles recebem desconto em folha de pagamento e a empregadora repassa o total para o plano.
+Assim, o primeiro laudo realizado pelo perito encontrava-se errado, pois além do valor apurado, que já representava a cota parte da empregadora e mais o que era descontado de seu holerite, o expert somou novamente o valor que ele pagava mediante desconto em folha, duplicando assim o valor de sua contribuição.
+Desse modo, quando dado provimento ao primeiro agravo de instrumento, para analise pelo perito da impugnação, o expert reconheceu o erro conforme esclarecimentos prestados as fls. 462/463 dos autos de origem, com claro trecho explicando o erro cometido: "Assiste razão a Ilustre Patrona da Exequente. Houve equívoco por parte da perícia ao somar a cota parte descontada do Exequente com a cota parte paga pela ex-empregadora..", e por fim concluindo que: "Assim sendo, em janeiro de 2021, apurou-se a mensalidade devida pelo Exequente no valor de 955,03.." (grifos meus).
+Assim, o presente recurso comporta acolhimento, para homologar o cálculo de fls. 368/408 com as retificações realizadas as fls. 461/464, fixando como valor devido pelo exequente a título de prêmio mensal do plano de saúde aqueles indicados na tabela de fl. 463, sendo que, para janeiro/2021, correspondia o prêmio mensal ao valor de R$955,03.
+Posto isto, dá-se provimento ao recurso do exequente.
+Na sequência, a ora recorrente opôs embargos declaratórios, que foram rejeitados.
+A questão infraconstitucional relativa à violação de uma das teses arguidas (art. 884 do CC) não foi objeto de debate no acórdão recorrido; apesar disso, não foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema.
+A mesma sorte segue a alegada violação do art. 31 da Lei 9.656/1998, em relação à não observância da paridade entre funcionários da ativa e aposentados, uma vez que não foi objeto de análise pelas instâncias ordinárias.
+Inexistindo referido debate na instância antecedente, o recurso especial não comporta conhecimento ante a incidência analógica da Súmula n. 282 do STF.
+Ainda que não incidente referido óbice, o cotejo entre o acórdão recorrido e o argumento recursal evidencia que a agravante pretende o reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7.
+Conforme destacado acima, o acórdão recorrido afirmou expressamente que, no primeiro laudo confeccionado em liquidação de sentença, "o expert somou novamente o valor que ele pagava mediante desconto em folha, duplicando assim o valor de sua contribuição". Dessa forma, homologou o laudo pericial retificado, deixando claro que, no valor estabelecido, estavam inclusas as cotas-partes do ex-empregado e da empregadora.
+Portanto, o enfrentamento da questão exige não somente o exame das provas periciais realizadas nos autos de origem mas também o enfrent amento das alegações e documentos apresentados pelas partes litigantes que fundamentaram a conclusão do perito, demandando, necessariamente, o reexame de provas.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
