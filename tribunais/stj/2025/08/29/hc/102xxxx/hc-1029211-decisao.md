@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de FRANCISCO SIQUEIRA contra suposto ato coator praticado pelo Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, mais o pagamento de 622 dias-multa, como incurso nas penas do art. 33, caput, c.c. o art. 40, inciso V, ambos da Lei n. 11.343/06.
+O Tribunal a quo negou provimento ao apelo defensivo, nos termos da seguinte ementa:
+TRÁFICO DE DROGAS. Acusados que sequer se insurgiram contra a condenação. Transporte interestadual de 87,350 kg de maconha, consistentes em tijolos prensados. Inaplicabilidade da causa redutora. Recursos não providos.. (e-STJ, fl. 18)
+Neste writ pretende o impetrante o abrandamento do regime prisional para o semiaberto, nos termos das Súmulas 718 e 719 do STF.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Pretende o impetrante o abrandamento do regime prisional diante do quantum da pena.
+O Tribunal de origem se posicionou da seguinte forma:
+"Passa-se, pois, à análise das penas.
+As básicas foram fixadas 1/3 acima do mínimo legal, considerada "a grande quantidade de drogas apreendidas, suficientes para o preparo de cerca de cem mil porções individuais, além da natureza altamente nociva", em observância ao disposto no artigo 42 da Lei 11.343/2006, resultando em 06 anos e 08 meses de reclusão, e 666 dias-multa, para cada um.
+Na segunda fase, reconhecida a confissão espontânea, foram reduzidas em 1/5, resultando em 05 anos e 04 meses de reclusão, e 532 dias- multa, para cada um.
+Reconhecido o tráfico interestadual, houve aumento de 1/6, perfazendo 06 anos, 02 meses e 20 dias de reclusão, e 622 dias-multa, para cada um.
+ ..
+O regime inicial de cumprimento de pena mais adequado para este caso concreto é o fechado, considerada a gravidade concreta da conduta, especialmente a quantidade de drogas e o transporte interestadual, incabível, ainda, a substituição da sanção reclusiva por restritiva de direitos." (e-STJ, fls. 19-20)
+Quanto ao regime prisional, a " jurisprudência desta Corte é uníssona no sentido de que a existência de circunstâncias judiciais desfavoráveis justifica a imposição de regime inicial mais gravoso do que o inicialmente indicado pelo quantum da pena aplicada, nos termos do art. 33, § 3º, do Código Penal" (AgRg no REsp n. 2.177.348/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Embora o paciente seja primário e a pena tenha sido estabelecida a pena em patamar superior a 4 anos e não excedente a 8 anos de reclusão, o regime fechado mostra-se adequado para o início do cumprimento da sanção imposta, em razão da valoração negativa de circunstância judicial (quantidade e natureza das drogas - 87,350kg), nos termos dos art. 33 do CP c.c. o art. 42 da Lei n. 11.343/2006.
+Cito precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO DELITO. NATUREZA E QUANTIDADE DE ENTORPECENTE APREENDIDO. AUSÊNCIA DE ILEGALIDADE NA FRAÇÃO DE AUMENTO OPERADA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. CIRCUNSTÂNCIAS APURADAS NOS AUTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NA VIA ELEITA. PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. MONTANTE DA PENA E CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PRECEDENTES. SANÇÕES INALTERADAS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.  ..
+4. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+6. Como assentado pelas instâncias de origem, o acervo probatório colhidos nos autos denota a dedicação do paciente a atividade criminosa, porquanto ficou apurado que o paciente figura na condição de gerente do tráfico, exercendo participação importante em organização criminosa destinada a tal finalidade.
+7. Desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Precedentes.
+8. Quanto ao regime prisional, a existência de circunstância judicial desfavorável, a qual embasou a exasperação da basilar, justifica a fixação do regime prisional mais gravoso, nos termos do art. 33, §§ 2º e 3º, do Código Penal. Precedentes.
+9. Ante a manutenção da pena nos patamares fixados pelo acórdão impugnado, é inviável a substituição da pena privativa de liberdade por restritiva de direitos, ante a vedação prevista no art. 44 do Código Penal.
+10. Agravo regimental não provido. (AgRg no HC n. 882.757/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
+HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS. INVASÃO DE DOMICÍLIO. FUNDADAS RAZÕES. JUSTA CAUSA. COMPROVAÇÃO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO APLICAÇÃO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. REGIME FECHADO. NATUREZA E DIVERSIDADE DE ENTORPECENTES APREENDIDOS.
+1. Consoante entendimento desta Corte, "nos crimes permanentes, tal como o tráfico de drogas, o estado de flagrância se protrai no tempo, o que, todavia, não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial, exigindo-se a demonstração de indícios mínimos de que, naquele momento, dentro da residência, está diante de situação de flagrante delito" (RHC 134.894/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021.) 2. As instâncias ordinárias concluíram que os agentes públicos (policiais) tinham fundadas suspeitas da prática de crime na casa do acusado, tendo em vista que, ao avistar os policiais, dispensou na rua uma sacola contendo diversos eppendorfs de cocaína (63gr), evadindo-se para o interior de sua residência.
+3. As circunstâncias que antecederam o ingresso dos policiais no domicílio do acusado evidenciaram, de modo objetivo, as fundadas razões que justificaram o ingresso no imóvel em que se residia o paciente, não se constatando, portanto, ilicitude das provas obtidas.
+4. O indeferimento da minorante do tráfico se deu não apenas diante da natureza e expressiva quantidade de entorpecentes apreendidos (na mochila, 63,0g de cocaína distribuídos em 314 eppendorfs; e, dentro da residência, mais 255,0g de cocaína, uma balança de precisão, um liquidificador com resquícios de droga, R$128,00 em espécie e uma arma de fogo municiada), mas também pelas circunstâncias do fato, diante das informações de que o paciente é "gerente do tráfico" local.
+5. Quanto ao regime de cumprimento de pena imposto, a natureza e a quantidade dos entorpecentes encontrados justificam a imposição do regime prisional mais severo, sem que tal medida constitua constrangimento ilegal.
+6. Habeas corpus denegado.(HC n. 683.211/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 5/10/2021, DJe de 11/10/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
