@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 47):
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. FORMA DE CÁLCULO. PRETENSÃO CONTRÁRIA AO TÍTULO JUDICIAL EXEQUENDO. ASTREINTES. OBJETIVOS DA MEDIDA. VALOR EXORBITANTE. ALTERADO. AGRAVO PARCIALMENTE PROVIDO.
+1. Em fase de cumprimento de sentença, deve-se ater ao que fora previamente estabelecido no título exequendo. Havendo desconexão entre o determinado na sentença originária e a forma de cálculo pleiteada pela executada, não assiste razão ao abatimento de valores proposto pela executada.
+2. A função das astreintes não é penalizar a parte que descumpre a ordem, mas garantir a efetividade do comando judicial. Não se trata, pois, de medida reparatória ou compensatória, mas de instrumento de caráter coercitivo, visando compelir o devedor a satisfazer a obrigação determinada no decisum.
+3. No presente caso, fora estabelecida multa de R$ 1.500,00 (mil e quinhentos reais) por dia, em caso de descumprimento do conteúdo da decisão agravada. Tal valor mostra-se exorbitante, posto que em apenas 5 dias de atraso a multa consistiria em mais de 20% (vinte por cento) do
+montante discutido. Mostra-se justificável a redução do quantum fixado para R$ 300,00 (trezentos reais) por dia em caso de descumprimento da obrigação imposta.
+4. Agravo de instrumento parcialmente provido.
+Embargos de declaração rejeitados.
+Decisão determinando a devolução dos autos ao Órgão julgador do TRF4, em razão do julgamento do Tema 1170/STF (fls. 95-97).
+Juízo negativo de retratação. Veja-se ementa (fl. 108):
+AGRAVO DE INSTRUMENTO. JUÍZO DE RETRATAÇÃO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. SERVIDOR PÚBLICO. JUROS DE MORA. TEMA 1170 DO STF. AUSÊNCIA DE OFENSA. MATÉRIA DIVERSA.
+1. No caso dos autos, a taxa de juros de mora não foi objeto da decisão agravada, que tratou exclusivamente da obrigação de fazer referente à retificação do valor das rubricas correspondentes às FCs incorporadas.
+2. A alegação da FURG sobre a taxa de juros de mora foi efetuada somente em sede de embargos de declaração nesta instância recursal, e demonstra nítido caráter protelatório, pois a matéria não é objeto do cumprimento de sentença originário, que discute somente a obrigação de
+fazer.
+3. Assim, não é caso de retratação pelo Tema 1.170 do STF.
+O recorrente alega violação dos arts. 927, III, § 1º e 932, V, b, do CPC/2015, sustentando que "em se tratando de matéria de ordem pública, cognoscível de ofício pelo órgão jurisdicional e não sujeito a regra da vedação da reformatio in pejus ou ao instituto da preclusão, bem como por se tratar de matéria de cunho eminentemente processual, o capítulo da sentença proferido em desfavor do ente público relativamente aos juros de mora, independiam de recurso voluntário para ser conhecido e modificado, para que determinasse a incidência da nova legislação, em observância ao princípio tempus regit actum" (fl.81).
+Argumenta que "a mora aplicável na espécie não merece continuar atrelada ao percentual fixo de 1% ao mês. A partir da Lei n.º 11.960/2009/Lei 12.703/12, quando a Taxa Selic for inferior a 8,5% ao ano, a taxa de juros deve se constituir em percentual sobre a mesma" (fl.81) e que " a decisão recorrida deixa de seguir o Tema STF 810" (fl.82).
+Requer seja reconhecido que o tema juros de mora é matéria de ordem pública, podendo ser conhecido de ofício e que não representa reformatio in pejus, bem como não está sujeito ao instituto da preclusão.
+Contrarrazões às fls.88-92.
+Juízo positivo de admissibilidade às fls. 118-119.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+No caso dos autos, evidencia-se que os artigos 927, III, § 1º e 932, V, b, do CPC/2015 e a tese a eles vinculada não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. INCLUSÃO DOS SÓCIOS NA CDA. PRESUNÇÃO DE LEGITIMIDADE. ACÓRDÃO DE ORIGEM EM CONFORMIDADE COM A ORIENTAÇÃO FIRMADA SOB A ÓTICA DOS RECURSOS REPETITIVOS. TEMA 103/STJ. NECESSIDADE DE PRÉVIO PROCEDIMENTO ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STF. PROVIMENTO NEGADO.
+1. É pacífico o entendimento, inclusive sob o regime dos recursos repetitivos, de que "se a execução for ajuizada apenas contra a pessoa jurídica, mas o nome do sócio constar da CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN" (REsp 1.104.900/ES, Tema 103, Relatora Ministra Denise Arruda, DJe 1º/4/2009).
+2. Dissentir das conclusões adotadas pelo Tribunal de origem acerca da presunção de legitimidade dos sócios na presente hipótese demandaria, a toda evidência, o reexame de conteúdo fático-probatório dos autos, o que é vedado em recurso especial, a teor da Súmula 7 do STJ.
+3. A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2039191/MA, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/06/2023, Dje de 29/06/2023) (grifei)
+SERVIDOR PÚBLICO FEDERAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARTS. 41, 61, 63 E 76 DA LEI N. 8.112/1990. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DO VERBETE SUMULAR N. 211/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DO ENUNCIADO SUMULAR N. 283/STF. OFENSA A DISPOSITIVO DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE EXAME NA VIA ESPECIAL. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126/STJ. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do estatuto processual civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada, fundamentadamente, e reconhecida a violação ao art. 1.022 do referido codex, o que não ocorreu no caso em análise.
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+V - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a analisar eventual ofensa a dispositivo constitucional ou razões recursais baseadas em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+VI - O fundamento constitucional que embasou o acórdão recorrido não foi impugnado por meio de Recurso Extraordinário, circunstância que atrai o óbice da Súmula n. 126/STJ.
+VII - Assente a compreensão deste Superior Tribunal segundo a qual a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt no REsp 1984872/CE, Rela. Ministra Regina Helena Costa, Primeira Turma, julgado em 19/06/2023, Dje de 22/06/2023) (grifei).
+Ademais, além de mencionados genéricamente, tais dispositivos não contêm o comando normativo apto a sustentar a tese defendida no recurso especial, o que faz, ainda, incidir à hipótese, o teor da Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. AUSÊNCIA DE COMANDO NORMATIVO DOS ARTIGOS APONTADOS. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
