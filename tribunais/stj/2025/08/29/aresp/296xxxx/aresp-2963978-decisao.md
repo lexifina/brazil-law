@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DAVID GOUVEA TORRES ZAMBELI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - INCLUSÃO INDEVIDA EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - DANOS MORAIS RECONHECIDOS - QUANTUM INDENIZATÓRIO - RAZOABILIDADE E PROPORCIONALIDADE - CRITÉRIOS OBSERVADOS - MAJORAÇÃO DESNECESSÁRIA - Inexistindo parâmetros objetivos para a fixação da indenização por danos morais, deve o julgador observar a razoabilidade e a proporcionalidade, atentando para o seu caráter punitivo, sem, contudo, ensejar enriquecimento ilícito, critérios que, quando observados, obstam a majoração vindicada (fl. 279).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 944 do CC, no que concerne à necessidade de majoração do valor arbitrado a título de indenização por danos morais por negativação indevida, sob o fundamento de que o quantum fixado é irrisório e não atende os parâmetros legais. Traz a seguinte argumentação:
+Extrai do acordão em combate que o valor fixado de danos morais é irrisório, retando sua majoração.
+Ora, é incontroverso que houve negativação indevida do nome do recorrente por mais de cinco anos por falha na prestação de serviço da recorrida.
+Diante de tal lógica, é evidente o desgaste do recorrente ao tomar conhecimento do fato, obstando de realizar compra a crédito em todo território nacional, por vasto período.
+No entanto, o valor fixado pelo acordão à título de indenização por danos morais - R$ R$ 3.000,00 (três mil reais), não atende os critérios do fato em tela, nem da jurisprudência aplicável, sendo irrisório, carecendo, portanto, de reforma para majorá-lo.
+O acordão ofendeu o disposto no art. art. 944 do Código Civil, vejamos:
+ ..
+O valor fixado no acordão, portanto, é contrário ao disposto no art. 944 do CC/02 e a jurisprudência do STJ que, a título de exemplo, fixou indenização em R$ 15.000,00 (quinze mil reais) em caso idêntico: AgInt no AREsp n. 2.148.579/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.
+ ..
+Por fim, a narrativa do acordão da existência de outra negativação legitima preexistente é improcedente, pois se não trata de negativações preexistentes. As negativações do Itaú são posteriores a negativação do recorrido. Vejamos o extrato de negativação ( Documento nº5) (fls. 443- 444).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Dessa forma, ponderadas as peculiaridades do caso concreto, sobretudo a existência de outras duas negativações posteriores ao apontamento objeto da lide, (doc. ordem 5) hei por bem manter o quantum indenizatório em R$3.000,00 (três mil reais), como decidido pelo juiz de primeira instância, por se mostrar razoável e atender às finalidades ressarcitória e punitiva, balizadas pelo princípio da proporcionalidade, sem proporcionar à vítima enriquecimento ilícito, além de corresponder aos valores adotados por esta Câmara, em situações análogas (fl. 283).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
