@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PEDRO PAULO DE OLIVEIRA JÚNIOR e por SANDRA GUIRÃO MIRANDA DE OLIVEIRA contra a decisão que inadmitiu o recurso especial por constatar-se ausente a violação dos arts. 489 e 1.022 do CPC, por não ter sido demonstrada a violação dos arts. 18 do CPC, 422 e 1.201 do CC e por incidir no caso a Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação declaratória de nulidade de averbações em matrícula de imóvel.
+O julgado foi assim ementado (fls. 477-481):
+APELAÇÃO CÍVEL. Ação declaratória de nulidade de averbações em matrícula de imóvel. Busca o autor nulidade de averbações decorrentes de ação de usucapião indevidamente aforada pelos réus, conforme reconhecido em ação judicial anterior, bem como que a nulidade se estenda à escritura de compra e venda. Sentença de parcial procedência, afastada a anulação de escritura de compra e venda. Irresignação dos réus. Preliminares de falta de interesse de agir e ilegitimidade passiva rejeitadas. Alegação dos requeridos de prescrição afastada. Nulidade da averbação decorrente de decisão judicial, averbações posteriores nulas por arrastamento. Princípio da continuidade registral. Sentença de parcial procedência mantida. Recurso não provido.
+Os embargos de declaração foram opostos e rejeitados (fls. 497-500).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 18 do CPC, porque o recorrido não possui legitimidade ativa para postular a anulação dos atos jurídicos em discussão;
+b) 422 e 1.201 do CC, pois os recorrentes são terceiros de boa-fé e adquiriram o imóvel regularmente; e
+c) 489 e 1.022 do CPC, porquanto houve omissão e contradição no acórdão recorrido ao não enfrentar todos os argumentos deduzidos no processo.
+Sustenta que o Tribunal de origem divergiu do entendimento do TJMG, que entende que a propriedade adquirida pelo terceiro de boa-fé deve ser mantida, conforme acórdão paradigma (TJ-MG - AC: 10362030248805001 MG), ao decidir que a nulidade das averbações posteriores à primeira averbação de aquisição do imóvel pela usucapião compromete a validade de todas as subsequentes.
+Requer o provimento do recurso para que se reconheça a ilegitimidade ativa do recorrido e a condição de terceiro de boa-fé dos recorrentes, a sua posse e propriedade do bem adquirido regularmente, com a preservação do título dominial e respectivo registro imobiliário, e julgar improcedente a ação.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de nulidade de averbações em matrícula de imóvel em que a parte autora pleiteou a declaração de nulidade de todas as averbações contidas na matrícula de n. 125.630, lavrada pelo 1º CRI da comarca, e, por conseguinte, a nulidade de toda a tábula.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedente o pedido inicial, com a sucumbência recíproca, cada parte arcará com suas próprias despesas processuais, além de honorários definidos a partir de sua sucumbência na demanda.
+A Corte estadual manteve integralmente a sentença recorrida.
+Preliminarmente, quanto à alegada ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, sob o argumento de que o Tribunal de origem teria sido omisso ao não apreciar o que foi disposto nos embargos de declaração, verifica-se que a insurgência não prospera.
+Isso porque a parte agravante, ao se limitar a apontar genericamente a ausência de manifestação sobre os dispositivos legais mencionados, não indicou, de forma clara e precisa, qual ponto específico teria permanecido omisso e contraditório no acórdão proferido nos embargos de declaração.
+Ademais, deixou de demonstrar a relevância da análise das referidas normas e nem sequer indicou as teses jurídicas que teria sustentado anteriormente. Assim, diante da ininteligibilidade da matéria infraconstitucional suscitada, incide, no ponto, o óbice da Súmula n. 284 do STF.
+I - Arts. 18 do CPC, 422 e 1.201 do CC
+No recurso especial, a parte agravante sustenta que o recorrido carece de legitimidade ativa para pleitear a anulação dos atos jurídicos discutidos nos autos, alegando que os agravantes, na condição de terceiros de boa-fé, adquiriram o imóvel de forma regular, razão pela qual haveria afronta ao disposto no art. 18 do CPC.
+Ademais, argumentam que o acórdão recorrido, ao admitir a anulação dos atos jurídicos em detrimento do direito de terceiros de boa-fé, reiterou os fundamentos já adotados na decisão de primeiro grau. Afirmam que a aquisição do imóvel foi realizada por terceiros que desconheciam eventual vício ou impedimento, o que atrairia a proteção conferida pelo art. 1.201 do CC, segundo o qual a posse é considerada de boa-fé quando o possuidor ignora o vício ou obstáculo que inviabilize a aquisição da coisa.
+Por fim, alega a violação do art. 422 do CC, ao destacar que os negócios jurídicos devem ser pautados pelos princípios da boa-fé e da probidade.
+A Corte estadual concluiu que os réus possuem legitimidade passiva, pois o pleito é de anulação de matrícula e documento particular, pelo qual os ora apelantes adquiriram o imóvel dos réus Elizeu Borges de Andrade e Maria Helena Rodrigues de Andrade, e que há nítido interesse de agir, já que houve decisão judicial declarando a nulidade da aquisição do imóvel pela usucapião.
+Confira-se trecho do acórdão recorrido (fl. 479):
+Os réus possuem legitimidade passiva, pois o pleito é de anulação de matrícula e documento particular, pelo qual os ora apelantes adquiriram o imóvel dos réus Elizeu Borges de Andrade e Maria Helena Rodrigues de Andrade.
+Há nítido interesse de agir, já que houve decisão judicial declarando a nulidade da aquisição do imóvel pela usucapião e na matrícula não houve a atualização. O resto diz respeito ao mérito.
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à ilegitimidade ativa foi devidamente analisada pela Corte estadual que concluiu que os réus possuem legitimidade passiva e que há nítido interesse de agir, não havendo vício que possa nulificar o acórdão recorrido.
+Dessa forma, alterar o entendimento do Tribunal a quo demandaria reexame do acervo probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ. Por conseguinte, é incabível a pretensão recursal que visa rediscutir matéria eminentemente fática já solucionada pelas instâncias ordinárias (AgInt no AREsp n. 2.602.061/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Cumpre destacar que o Tribunal de origem manteve integralmente os fundamentos jurídicos expostos na sentença, sendo certo que a parte agravante deixou de impugnar aspecto essencial da controvérsia, notadamente quanto ao registro de bem imóvel que, de forma inequívoca, já fora objeto de declaração judicial de nulidade.
+Confira-se trecho de sentença recorrida (fl. 358):
+É inequívoco que o registro de operação aquisitiva de bem imóvel já foi objeto de declaração judicial de nulidade.
+Nesse contexto, evidencia-se a ausência de impugnação específica aos fundamentos determinantes da decisão, razão pela qual incide, na espécie, a Súmula n. 283 do Supremo Tribunal Federal (AgInt nos EDcl no REsp n. 1.865.620/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/5/2025, DJEN de 2/6/2025).
+No que se refere à interposição do recurso pela alínea c do permissivo constitucional, a análise fica prejudicada, visto que o óbice da Súmula n. 7 do STJ quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 2% sobre o valor de R$ 1.000,00 fixado no Tribunal de origem, os honorários advocatícios em desfavor da parte ora recorrente, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
