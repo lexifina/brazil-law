@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MAANAIM ENGENHARIA CONSTRUTORA E INCORPORADORA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. RESCISÃO CONTRATUAL. MULTA PENAL. RETENÇÃO DE VALORES PAGOS. TAXAS DE IPTU. MANUTENÇÃO DA SENTENÇA.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 32-A da Lei nº 13.786/18, no que concerne à aplicação da cláusula penal no valor atualizado do contrato, trazendo a seguinte argumentação:
+O v. acordão que entendeu pela não aplicação da incidência da cláusula penal sobre o valor atualizado do contrato se está em patente VIOLAÇÃO à previsão contida artigo 32-A, II, da Lei nº 13.786.2018.
+Isso porque, a referida lei, vigente à época da assinatura da cessão do contrato, prevê, na hipótese de resolução contratual por fato imputado ao consumidor adquirente, caberá cláusula penal 10% (dez por cento) do valor atualizado do contrato
+ ..
+O dispositivo legal acima transcrito está em absoluta consonância com a cessão de direito firmada em 25.01.2024 que, em sua CLÁUSULA QUARTA, prevê expressamente a aplicação de no artigo 32-A , II, da lei do distrato, em caso de rescisão contratual.
+Veja que aqui, não haverá necessidade de qualquer reanálise de fatos ou provas, eis que o fato de que houve cessao ao contrato em 25.01.2024, é FATO INCONTROVERSO, já reconhecido nas instancias inferiores.
+Em sentido lógico, ao dar causa ao desfazimento da obrigação, a recorrida sujeitou-se à cláusula penal constante na cessão de direito que ela mesmo assinou, devendo pagar o valor na exata proporção que constou na cessão de direito.
+Ora nobres julgadores, na data da assinatura da cessão de direito do contrato, já estava vigente a Lei nº 13.786/2018 (lei de distrato), a qual prevê as retenções devidas (fls. 283/284).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 32-A, II, da Lei nº 13.786/18, no que concerne ao direito de retenção de cláusula penal de 10% sobre o valor atualizado do contrato, trazendo a seguinte argumentação:
+Assim, merece reforma o v. acordão para determinar a CORRETA APLICAÇÃO DO ARTIGO 32-A, II, da LEI 13.786.2018, POSSIBILITIANDO A RETENÇAO A TITULO DE CLAUSULA PENAL DE 10% SOBRE O VALOR ATUALIZADO DO CONTRATO.
+Portanto, em razão da culpa exclusiva da recorrida, pela rescisão contratual, faz-se necessário discorrer a respeito dos valores de devolução, considerando os DESCONTOS, à luz do TERMO ADITIVO e da LEI Nº 13.786/2018 e a farta e recente jurisprudência acerca do tema.
+Ante o exposto, merece reforma o v. acordão para que seja determinada que a retenção de 10% (dez por cento) a título de cláusula penal incida sobre o VALOR ATUALIZADO DO CONTRATO, conforme determinação contratual (item 1.5, alínea "b") e legal (artigo 32-A, Lei nº 13.786/2018) (fl. 285).
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 32-A, IV, da Lei nº 13.786/18, no que concerne ao direito de retenção dos valores referentes ao IPTU durante a posse exercida no terreno negociado, trazendo a seguinte argumentação:
+Contudo, merece reforma o v. acordão para que seja determinada a retenção do IPTU durante o período de posse exercida pela recorrida, desde a assinatura do contrato até o trânsito em julgado da r. sentença.
+ ..
+In casu, ao contrário do que consignado, a posse do imóvel, ainda que precária, foi transmitida à promitente compradora, ora recorrida, em razão da assinatura do contrato de compra e venda, nos termos da cláusula vigésima nona, SENDO QUE A PARTIR DAÍ, A RECORRIDA JÁ PODERIA TER EDIFICADO O SEU LOTE, CASO QUISESSE!!
+Conforme cessão de direito do contrato, restou clara a aplicação do artigo 32-A, IV, da Lei 13.786.2018, o qual imputa a responsabilidade pelo pagamento do IPTU ao comprador (fls. 285/287).
+Quanto à quarta controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 140 do CPC, no que concerne ao dever funcional do magistrado em aplicar a lei expressa sobre a hipótese dos autos, o que não ocorreu no caso concreto, trazendo a seguinte argumentação:
+Reza o artigo 140 do Código de Processo Civil que o juiz não pode se eximir de julgar o conflito, ainda que não exista lei expressa prevendo aquela hipótese verificada nos autos, alegando lacuna ou obscuridade do ordenamento jurídico.
+De igual modo e com mais razão, não pode o magistrado deixar de aplicar a lei quando a situação de fato é clara a demonstrar a ocorrência da hipótese prevista pelo legislador.
+Poderá, sim, o juiz deixar de aplicar a lei vigente caso conclua que a situação fática não retrata a previsão legal, o que não é o caso dos autos. Do mesmo modo poderá deixar de aplicar a lei, declarando-a inconstitucional, o que também não foi o caso dos autos. Nos demais casos está o juiz obrigado a aplicar a lei.
+ ..
+Nesse contexto, o relator deixou de aplicar a Lei nº 13.786/2018, no que tange:
+a) Possibilidade de retenção da fruição (artigo 32-A, I) b) Aplicação da cláusula penal sobre o valor atualizado do contrato (artigo 32-A, II) c) Possibilidade retenção dos encargos moratórios (artigo 32-A, III) d) Possibilidade de devolução parcelada da restituição ao adquirente (artigo 32-A, §1º) (fls. 289/291).
+É o relatório.
+Decido.
+Quanto às controvérsias, incidem as Súmulas n. 282/STF e 356/STF, porquanto as questões não foram examinadas pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+Isto é, o colegiado não analisou nem decidiu sobre as controvérsias aelgadas no recurso especial. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O Tribunal de origem não se manifestou sobre a alegação de preclusão do direito a pleitear nova produção de provas após o juízo saneador, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (AgInt no AREsp n. 2.700.152/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.974.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.646.591/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AREsp n. 2.645.864/AL, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.732.642/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgRg no REsp n. 2.142.363/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025; AgRg no AREsp n. 2.402.126/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; REsp n. 2.009.683/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no REsp n. 1.933.409/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 19/12/2024; AgRg no AREsp n. 1.574.507/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
