@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de FLORESMARES PEREIRA DA SILVA - condenado como incurso no crime de homicídio qualificado -, em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás (Apelação Criminal n. 226542-04.2001.8.09.0166), não comporta processamento.
+Busca a impetração, em suma, a concessão da ordem, reconhecendo-se a ilegalidade da redução meramente simbólica da pena, a fim de aplicar corretamente a atenuação de 1/12 (um doze avos) pela confissão qualificada, redimensionando a reprimenda definitiva do paciente para 12 anos de reclusão; e, em consequência, a declaração de extinção da punibilidade do paciente, pela ocorrência da prescrição da pretensão punitiva da pena em concreto, nos termos do art. 107, IV, c/c art. 109, II, e art. 110, todos do Código Penal (fl. 20).
+Contudo, o habeas corpus foi manejado como sucedâneo de revisão criminal e como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para processar o presente pedido.
+Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como, por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 11/12/2023).
+Sem contar que, ausente ilegalidade flagrante, deve prevalecer a discricionariedade do julgador no momento da dosimetria da pena.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CPP. DOSIMETRIA DA PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO. PREVALÊNCIA DA DISCRICIONARIEDADE DO JULGADOR.
+Inicial indeferida liminarmente.
