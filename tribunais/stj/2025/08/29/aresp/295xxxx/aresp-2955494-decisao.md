@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Regina Westhelle Muller contra decisão que não admitiu o recurso especial manejado, com base nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 456).
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VAZAMENTO DE ÁGUA EM UNIDADE AUTÔNOMA DE EDIFÍCIO. DANOS EM EQUIPAMENTOS DO ELEVADOR E SALÃO DE FESTAS. SENTENÇA DE PROCEDÊNCIA. MANUTENÇÃO. 1. A apelante postula afastar a decisão do juízo singular que lhe condenou a ressarcir o Condomínio por danos no salão de festas e no elevador, os quais tiveram origem em vazamento de água do seu apartamento. Diz que não há nexo de causalidade entre os eventos danosos e o vazamento de água da sua unidade. No entanto, nos termos do art. 373, I, do CPC, o apelado comprovou a ocorrência dos fatos, com laudo técnico e prova testemunhal, e o nexo entre seus danos e o vazamento com origem no imóvel da ré. Devem prevalecer tanto o laudo técnico que apontou as peças que deveriam ser substituídas no elevador, quanto o orçamento do autor para os serviços do salão de festas, pois descreveu todos os serviços que devem ser feitos, o que não se percebe naquele juntado pela recorrente. 2. Por unanimidade, NEGARAM PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados (fls. 479-482).
+Nas razões do recurso especial, a agravante alega, além de divergência jurisprudencial, violação ao art. 373, inciso I, do Código de Processo Civil.
+Sustenta que há vários elementos de prova que demonstram que a conclusão do Tribunal de origem foi incorreta ao lhe imputar a responsabilidade pelos danos. Tais provas teriam sido desconsideradas pelo acórdão.
+Aduz que houve indevida inversão do ônus da prova.
+Contrarrazões juntadas às fls. 565-589.
+A não admissão do recurso na origem, por deserção, ensejou a interposição do presente agravo.
+Impugnação juntada às fls. 638-641.
+Assim delimitada a controvérsia, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+De plano, verifico que não foi realizado o preparo adequado do recurso especial. Isso, porque, no ato de interposição do recurso especial, a agravante juntou aos autos documento insuficiente para comprovar o pagamento da guia (fl. 504).
+Instada pelo Tribunal de origem a realizar o pagamento em dobro (fl. 553), a agravante se limitou a juntar o comprovante referente à primeira guia, sem, contudo, promover o pagamento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+Assim, o recurso especial deve ser considerado deserto, estando correta a decisão que não admitiu seu processamento.
+De toda forma, ainda que superado o requisito indicado, incide o óbice da Súmula 7 do STJ no caso dos autos, conforme passo a demonstrar.
+Trata-se de ação indenizatória movida pelo condomínio agravado contra a agravante, em razão de prejuízos causados ao sistema de elevador e ao salão de festas do condomínio, por vazamento oriundo do apartamento da agravante.
+Em relação ao salão de festas, assim se posicionou o Tribunal de origem sobre as provas:
+O reconhecimento do nexo de causalidade ente o vazamento no imóvel da demandada e o dano no salão de festas, o qual está no pavimento térreo da mesma torre do Condomínio, é confirmada pela posição dos imóveis.
+O objeto do recurso é o valor (R$ 6.800,00) do orçamento juntado com a inicial (Evento 1, doc. "Out12"origem), tendo em vista que a recorrente apontou custo inferior para o serviço, nos termos do orçamento do Evento 34, doc. "out2", origem, no montante de R$ 4.200,00.
+Primeiro, comparando as descrições do serviços que apresentaram, aquele orçado pelo Condomínio, além de detalhar com precisão o trabalho que será realizado, inclui material para arrumar o shaft e para o conserto do móvel danificado, os quais não foram contemplados no orçamento da recorrente.
+Segundo, é possibilitado ao demandante escolher o prestador de serviços de acordo com a sua conveniência e confiabilidade, não tendo obrigação de realizar o trabalho por meio daquele indicado pela ré.
+Terceiro, as fotos anexadas com a inicial (docs. "foto6", "foto7", "foto8", "foto9"e "foto10") demonstram o quando avariado ficou o espaço, tendo em vista o longo período em que perdurou o vazamento (superando os trinta dias, na fala das testemunhas) (fl. 451, grifou-se).
+Em síntese, o acórdão concluiu que houve a comprovação dos elementos necessários à responsabilização civil da agravante, tendo afastado sua impugnação ao orçamento sob o fundamento de que o orçamento alternativo, apresentado pela agravante, não inclui todos os serviços pleiteados.
+Por sua vez, quanto ao elevador, assim se posicionou o Tribunal de origem:
+A controvérsia aqui é se a água que vazou do imóvel da apelante percorreu caminho suficiente para depositar no poço do elevador da torre, acarretando danos no equipamento.
+(..)
+Conforme bem apontado, não há prova nos autos de que, no mesmo período em que os fatos ocorreram, existia outro vazamento ou evento externo capaz de gerar, ou ao menos contribuir, para o acúmulo de água que, depois, gerou dano ao elevador.
+Com o longo período do vazamento, em grau de intensidade crescente, é plausível entender que o solo encharcou de tal forma que a água "caminhou" e, sendo o poço do elevador área de depósito, ali acumulou. Ainda, não ficou demonstrado que era recorrente acumular água naquele elevador, e mais, apenas nele foi constatado o problema, ao lado nada ocorreu.
+Assim, a fala da testemunha Luiz Carlos, mencionando "a impossibilidade da água do vazamento ter chegado ao poço do elevador", também não é prova suficiente para afastar o que alega o autor. Primeiro, porque não é dotado de conhecimento técnico suficiente para amparar o que afirmou. Segundo, porque, nos termos do art. 373, I, do CPC, o autor fez prova suficiente dos eventos com o laudo de vistoria da empresa de manutenção com quem tem contrato para tais serviços (Evento 1, doc. "laudo11", origem), bem como provou o pagamento (Evento 22, doc. "nfiscal2", origem) (fls. 451 e 454, grifou-se ).
+Portanto, amparado em ampla análise das provas, o Tribunal reconheceu a responsabilidade da agravante em relação aos danos causados ao condomínio.
+Nesse cenário, acolher as alegações da agravante de que houve análise insuficiente da prova, que o depoimento da testemunha Luiz Carlos foi desconsiderado, que o alagamento seria impossível ou que o orçamento estaria excessivo é providência que demandaria o reexame dos fatos e provas dos autos, violando a Súmula 7 do STJ.
+Por fim, destaco que "a incidência de óbices sumulares processuais inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal", ficando, portanto, prejudicado o exame da divergência jurisprudencial (AgInt no REsp n. 1.900.682/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/3/2021, DJe de 6/4/2021).
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de arbitrar honorários de recurso, pois a condenação a respeito já alcança o teto legal (fl. 377), vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do art. 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
