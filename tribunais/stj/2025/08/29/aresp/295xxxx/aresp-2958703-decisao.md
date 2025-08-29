@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE ITAJUÍPE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+RECURSO DE APELAÇÃO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART 37 § 4º DO CPC. LEI 4.230/2021 QUE NÃO EXCLUIU A NATUREZA CIVIL DOS ATOS DE IMPROBIDADE. TEMA 1199 DE REPERCUSSÃO GERAL. OMISSÃO DO MUNICÍPIO NA PRESTAÇÃO DE CONTAS DO EXERCÍCIO FINANCEIRO DO ANO 2013.. AUSÊNCIA DE PROVA DE DOLO ESPECÍFICO. INTELIGÊNCIA DA LEI 4.230/2021 QUE REVOGOU ART. 11, II DA LEI 8.429/92. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA ORIGEM. APELO IMPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 11, V, da Lei n. 8.429/1992, no que concerne ao reconhecimento de dolo específico em ação da improbidade administrativa, no caso de conduta omissiva de gestor público que não regularizou a prestação de contas do exercício financeiro de 2013, tampouco reprogramou os saldos do Fundo Municipal de Assistência Social, trazendo a seguinte argumentação:
+O Magistrado a quo ressaltou a necessidade da comprovação do dolo específico para a configuração de improbidade administrativa.
+Contudo, destaca-se que, no caso em apreço, o dolo específico resta evidenciado pela conduta omissiva do apelado, que, na qualidade de gestora municipal, deixou de regularizar a prestação de contas relativo ao exercício financeiro do ano de 2013, para o cofinanciamento para os programas, serviços e benefícios relacionados ao desenvolvimento da política de Assistência Social do município com recursos do referido fundo.
+A omissão da recorrida, ao não promover as devidas providências para a regularização das contas públicas, demonstra claramente a intenção de burlar os princípios da administração pública, comprometendo o regular funcionamento da política de assistência social no município (fl. 242).
+Desta forma, inegável o dolo da recorrida haja vista a ausência da prestação de contas referente aos recursos repassados pelo Governo do Estado para o Fundo Municipal de Assistência Social, e da reprogramação dos saldos para o exercício seguinte quando esta estava obrigada a fazê-lo na condição de gestora municipal (fl. 243).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Do acima exposto se depreende que caberia à parte Apelante comprovar a existência de dolo no caso concreto, em atenção ao dispositivo legal retro mencionado.
+Porém, conforme já apurado pelo juízo de origem em sede de sentença, não foram colacinados elementos que comprovassem a existência do dolo específico em obter proveito ou benefício indevido (fl. 225).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido, quanto à existência ou não do elemento subjetivo apto a caracterizar a existência de ato de improbidade administrativa, exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "O Tribunal de origem, com fundamento no acervo fático-probatório carreado aos autos, concluiu estar presente o dolo na conduta da parte recorrente. Desconstituir essa premissa implicaria, necessariamente, incursão nos fatos e nas provas dos autos, providência inviável na via especial ante o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ)" (AgInt no AREsp n. 1.049.756/MT, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/12/2024, DJEN de 13/12/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 1.563.757/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.484.811/SP, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024; EDcl nos EDcl no REsp n. 1.788.624/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2024; AgInt no REsp n. 1.767.529/TO, relator Ministro Og Fernandes, Segunda Turma, DJe de 13/12/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
