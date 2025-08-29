@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de SINVAL ANTONIO PEREIRA - condenado como incurso no crime de homicídio qualificado (Ação Penal n. 105.16.035618-1) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, não comporta processamento (Apelação Criminal n. 1.0105.16.035618-1/003).
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Conselho de Sentença da comarca de Governador Valadares/MG, ao argumento de que a única condenação do paciente foi utilizada tanto como maus antecedentes quanto como agravante da reincidência, configurando bis in idem. A impetrante solicita a correção da pena, fixando-a no mínimo legal e considerando a condenação apenas na segunda fase da dosimetria (fl. 9).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal de origem registrou que os antecedentes do acusado são desfavoráveis, pois ostenta 03 condenações que transitaram em julgado antes dos fatos em comento (CAC -fl. 298/301), sendo uma delas considerada na segunda fase, a título de reincidência, e as demais na primeira fase (fl. 15 - grifo nosso ).
+E como bem destacou a decisão de origem, a Súmula 241 do STJ não se aplica à hipótese em apreço, haja vista não cuidar a hipótese dos autos de dupla valoração de uma mesma condenação (fl. 15).
+Com efeito, a jurisprudência do Superior Tribunal de Justiça permite a utilização de condenações distintas para majorar a pena-base e agravar a pena, não configurando bis in idem (REsp n. 2.076.726/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/6/2025, DJEN de 11/6/2025).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. MAUS ANTECEDENTES. MULTIRREINCIDÊNCIA. CONDENAÇÕES DIVERSAS CONSIDERADAS NA PRIMEIRA E SEGUNDA FASES. SÚMULA 241/STF. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
