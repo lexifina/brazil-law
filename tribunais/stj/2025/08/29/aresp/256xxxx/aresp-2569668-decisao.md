@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por ROGER AUGUSTO GOULART SIQUEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 711):
+PLANO DE SAÚDE. NEGATIVA DE PROCEDIMENTO. PROSTATOVESICULECTOMIA RADICAL ROBÓTICA. NOTA TÉCNICA 407/2021 - NAT-JUS/SP. NÃO HÁ MAIOR EFICÁCIA DO MÉTODO COMUM. NÃO COMPROVAÇÃO DE CONTRAINDICAÇÃO ESPECÍFICA DO MÉTODO COMUM. DEVER DE COBERTURA RESTRITO AO MÉTODO COMUM. VALOR EXCEDENTE QUE DEVE SER ARCADO PELO PRÓPRIO PACIENTE. RECURSO PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 1.753-1.757).
+No recurso especial, o agravante alega que o acórdão estadual contrariou as disposições contidas nos arts. 47, 44, §3º, 51, I e IV, do CDC. Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.768-1.777).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.779-1.781 ), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.798-1.805).
+As decisões que não conheceram do presente agravo foram sucessivamente tornadas sem efeito (fls. 1.831-1.832 e 1.881-1.882).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Conforme se extrai dos autos, os arts. 4º, 44, §3º, 47 e 51, incisos I e IV, do Código de Defesa do Consumidor, apontados como violados, e a tese a eles vinculada não foram prequestionados, incidindo o óbice das Súmulas 211/STJ e 282/STF.
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020).
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à excepcional segurança ou eficácia do procedimento requerido frente ao método comum, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. ACÓRDÃO RECORRIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. PLANO DE SAÚDE. ROL TAXATIVO. COBERTURA EXCEPCIONAL. POSSIBILIDADE. ANÁLISE DOS CRITÉRIOS. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. A Segunda Seção do STJ definiu os seguintes parâmetros para que se reconheça, em hipóteses excepcionais e restritas, a obrigação de a operadora de plano de saúde cobrir eventos e procedimentos não previstos no rol da ANS: "1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo; 2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado à lista; 3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extrarrol; 4 - não havendo substituto terapêutico ou estando esgotados os procedimentos do Rol da ANS, pode haver, a título de excepcionalidade, a cobertura do tratamento indicado pelo médico ou odontólogo-assistente, desde que (i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e NatJus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS" (EREsp n. 1.886.929/SP, relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 8/6/2022, DJe de 3/8/2022).
+4. A Segunda Seção recentemente firmou o entendimento sobre a impossibilidade de aplicação retroativa da Lei n. 14.454/2022, cuja vigência coincidiu com sua publicação, ocorrida em 22/9/2022. Nesse sentido: Recurso Especial n. 2.037.616/SP, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/4/2024, DJe de 8/5/2024.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+5.1. No caso concreto, rever o entendimento da Corte local sobre a presença dos critérios definidos na Lei n. 14.454/2022 para mitigar a taxatividade do rol da ANS exigiria o reexame dos fatos e das provas dos autos, bem como a revisão das cláusulas contratuais.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.160.762/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados pelo Tribunal de origem para 18% sobre o valor atualizado da causa, observada a concessão de gratuidade de justiça.
+Publique-se. Intime-se.
+ EMENTA
