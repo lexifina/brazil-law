@@ -1,0 +1,3 @@
+Art. 23-A. Caso a atribuição e a responsabilidade diferenciada dispostas nos incisos II, IV e VI do art. 22 desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderão ser atribuídas a ele as Funções Comissionadas Educacionais correspondentes.
+§ 1º As funções comissionadas de que trata este artigo são as previstas nas Tabelas 5, 7 e 11 da alínea "c" do Anexo III da Lei nº 21.792, de 2023, com o valor e o símbolo equivalentes aos das gratificações de que trata esta Lei.
+§ 2º O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da Lei nº 21.792, de 2023.
