@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DOUGLAS RUBENS COLACO DOS SANTOS contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ.
+Nas razões do agravo, a defesa argumenta que o recurso especial deveria ter sido admitido, pois a matéria discutida no recurso é estritamente de direito, não pretende o reexame de provas, mas sim a revaloração das provas, o que é admitido e afasta a incidência da Súmula n. 7 do STJ (fls. 328-341).
+A parte recorrente aborda, ainda, aspectos relacionados ao mérito da causa e reitera questões deduzidas no recurso especial, uma vez que, em suma, configurada a violação do art. 118, § 2º, da LEP, por não ter sido a regressão de regime precedida de audiência de justificação perante o Juízo da Execução Penal. Ademais, negada vigência aos arts. 50, VI, e 39, II, da LEP, ao ter se reconhecido como falta grave um episódio isolado.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 367):
+AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL POR ÓBICE DA SÚMULA N. 7/STJ. EXECUÇÃO PENAL. FALTA GRAVE. ALEGADA ATIPICIDADE DA CONDUTA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ.
+- A ausência de impugnação específica ao fundamento da decisão recorrida, ônus da parte recorrente, atrai a incidência da Súmula n. 182 do STJ.
+Pelo não conhecimento do Agravo em Recurso Especial.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+O recurso especial tem como objetivo obter a modificação da decisão que reconheceu falta grave no curso da execução penal em seu desfavor.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de aprofundado sobre os fatos e provas dos autos, sobre se válida a oitiva perante a autoridade administrativa para o reconhecimento da falta grave, assim como sobre a existência de provas suficientes ao reconhecimento da falta e a sua gradação, providência vedada em recurso especial.
+Vejam-se, a propósito, os seguintes excertos da manifestação do Ministério Público Federal sobre o ponto, aqui acolhidos como razão de decidir (fl. 369):
+Nas razões do Agravo, sustentou-se, genericamente, que não há incidência da Súmula n. 7/STJ, porém não se demonstrou, concretamente, como, a partir dos fatos incontroversos constantes do Acórdão proferido na Apelação, sem a necessidade de amplo reexame de elemento dos autos, seria possível considerar nula a decisão combatida.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Em situação semelhante à do presente feito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. OITIVA JUDICIAL. DESNECESSIDADE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR REGULAR. CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS. REGRESSÃO DE REGIME. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. PRECEDENTES.
+1. Segundo entendimento consolidado no Superior Tribunal de Justiça, é desnecessária a realização de audiência de justificação judicial para apuração de falta grave, desde que haja procedimento administrativo disciplinar regularmente instaurado e conduzido, assegurando-se o contraditório e a ampla defesa, com a participação de advogado constituído ou defensor público nomeado.
+2. No caso, o agravante foi devidamente ouvido no âmbito administrativo, acompanhado de defesa técnica, não havendo regressão de regime.
+3. A alegação de ausência de provas suficientes e o pleito de desclassificação para falta de natureza média demandariam reexame aprofundado do conjunto fático-probatório, providência incompatível com a via estreita do habeas corpus.
+4. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+5. Agravo regimental não provido.
+(AgRg no HC n. 1.004.901/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/6/2025, DJEN de 10/6/2025, grifei.)
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada ta mbém pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
