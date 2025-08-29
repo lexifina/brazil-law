@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo, interposto por MUNICIPIO DE TABOAO DA SERRA da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o recurso especial dirigido contra o acórdão prolatado no Agravo de Instrumento n. 106353-93.2024.8.26.0000. Transcrevo a ementa (fl. 67):
+AGRAVO DE INSTRUMENTO. Ação de execução de título extrajudicial. Decisão que admitiu a sub-rogação da Municipalidade no preço da arrematação pela existência de débitos de IPTU sobre o imóvel arrematado, limitando-o até a data da homologação da arrematação. Inconformismo da parte exequente. Alegação de que para o cálculo a ser apresentado, para fins de sub-rogação do preço, deve se dar até o registro da carta de arrematação no CRI competente, considerando o longo período de tramitação dos embargos à arrematação. Desacolhimento. A sub-rogação do preço deverá ser efetivada e calculada até a data da arrematação. Inteligência dos artigos 130 do Código Tributário Nacional e 903, caput, do Código de Processo Civil. Decisão mantida. Recurso desprovido.
+Rejeitaram-se os embargos de declaração (fls. 80-84).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente afirma que os arts. 489, § 1º, inciso IV, 1.022, inciso II, 903, caput, do CPC e 130 do CTN foram violados.
+Argumenta (fls. 90-98):
+Não penetraram na questão crucial invocada nos embargos de declaração, qual seja o cálculo do IPTU incidente sobre o imóvel arrematado em leilão judicial, a ser apresentado pela Municipalidade de Taboão da Serra, para fins de sub-rogação do preço, deve se dar até o registro da carta de arrematação no CRI competente, considerando o longo período de tramitação dos embargos à arrematação; a assunção da posse indireta do bem pelo arrematante, bem como a aquisição da propriedade não decorre da assinatura do auto de arrematação, mas apenas após o julgamento dos embargos à arrematação.
+ ..
+Ao que se verifica do texto contido no venerando acórdão recorrido, a tese central é a de que a sub-rogação no preço da arrematação em relação ao crédito privilegiado de IPTU que incide sobre o imóvel arrematado, determinada no artigo 130 do Código Tributário Nacional, tem como termo final a data da arrematação, tendo em vista o teor do artigo 903, "caput" do Código de Processo Civil, que define que, com a assinatura do auto de arrematação, tal ato resta perfeito e acabado.
+ ..
+Há se ressalvar que a sub-rogação no preço da arrematação deveria ter como termo final o registro da carta de arrematação no Cartório de Registro de Imóveis competente, considerando o longo tempo entre a arrematação ocorrida em 2012 e o trânsito em julgado dos embargos à arrematação, que somente ocorreu em junho de 2018.
+Nesse contexto, em face da desproporcional demora nos atos processuais relacionados ao julgamento dos embargos à arrematação, em prestígio à segurança jurídica e ao princípio da confiança que deve nortear os atos processuais, deve-se afastar a responsabilidade da arrematante pelas dívidas condominiais anteriores ao desfecho do referido incidente provocado pelo próprio executado.
+ ..
+Nesse sentido, resta claro que os fatos geradores ocorridos depois da arrematação judicial e antes da expedição da respectiva carta também devem ser objeto de sub-rogação, pois, em nosso modesto entender há ilegitimidade do arrematante por tais créditos, já que a qualidade de vencedor do certame que não transfere a propriedade naquele ato, que advirá somente após a expedição da carta e registro do título.
+Ao final, requer o provimento do recurso especial (fls. 101-102):
+i) seja reconhecida a violação ao artigo 1.022, II do Código de Processo Civil, para o fim de que decretem a nulidade do venerando acórdão que julgou os embargos de declaração, para que outro seja proferido, enfrentando a matéria suscitada naquele recurso eliminando a negativa de prestação jurisdicional acima apontada, e caso assim não entendam
+(ii) para que o recurso especial seja provido a fim de que seja reformado o venerando aresto objurgado, ante a violação literal aos artigos 130 do CTN e 903, "caput" do CPC, para o fim de que se declare que o cálculo a ser apresentado pela Municipalidade de Taboão da Serra, para fins de sub-rogação do preço, já deferida, deve se dar até o registro da carta de arrematação no CRI competente, com o que se fará a mais lidima justiça.
+O Tribunal a quo não admitiu o recurso especial (fls. 105-107), o que ensejou a interposição do agravo de fls. 110-121.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+O Tribunal de origem enfrentou expressamente a questão relativa ao termo final da sub-rogação no preço da arrematação, no julgamento do agravo de instrumento (fls. 66-69), embora contrariamente aos interesses da parte ora agravante. Portanto, inexiste omissão, razão pela qual não há falar em ofensa aos arts. 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil. Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Ao decidir a controvérsia, o Tribunal de origem anotou (fls. 68-69):
+Em outras palavras, uma vez que o arrematante assumiu a posse indireta do imóvel com a assinatura do auto de arrematação, sendo esta aquisição considerada perfeita e irretratável, ele é considerado sujeito passivo para o pagamento do IPTU desde a data da arrematação.
+Destarte, a sub-rogação do preço deverá ser efetivada e calculada até a data da arrematação.
+Quanto ao mérito, a irresignação tampouco comporta acolhida. Ora, o acórdão recorrido decidiu em conformidade com a jurisprudência do Superior Tribunal de Justiça, segundo a qual o arrematante é responsável pelo pagamento de IPTU de imóvel adquirido em hasta pública desde a data da lavratura do auto de arrematação, ainda que expedida a respectiva carta em data posterior.
+Nessa linha:
+TRIBUTÁRIO. IPTU E TLP. IMÓVEL ADQUIRIDO EM HASTA PÚBLICA. RESPONSABILIDADE DO ARREMATANTE DESDE A ARREMATAÇÃO. DATA DA IMISSÃO NA POSSE. INDIFERENÇA.
+1. A partir da assinatura do auto de arrematação caracteriza-se a propriedade em favor do arrematante, a quem incumbe tomar as providências necessárias à consolidação desse status. Precedentes.
+2. " ..  a regra contida no art. 130, parágrafo único, do CTN não afasta a responsabilidade do arrematante no que concerne aos débitos de IPTU posteriores à arrematação, ainda que postergada a respectiva imissão na posse" (AgInt no REsp n. 1.921.489/RJ, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2023).
+3. Desde a expedição do auto de arrematação devidamente assinado pelo juiz, pelo leiloeiro e pelo arrematante, é este último o responsável pelo pagamento dos tributos relativos ao imóvel arrematado.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.689.401/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IPTU. RESPONSABILIDADE DO ARREMATANTE POR DÉBITOS POSTERIORES À ARREMATAÇÃO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Verifica-se que o entendimento adotado pelo Tribunal de Origem não está em consonância com a jurisprudência desta Corte Superior, que reconhece a responsabilidade do arrematante pelo pagamento de IPTU de imóvel adquirido em hasta pública desde a data da lavratura do auto de arrematação, ainda que expedida a respectiva carta em data posterior. Precedentes.3. Agravo interno não provido.
+(AgInt no REsp n. 2.077.160/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU. RESPONSABILIDADE DO ARREMATANTE POR DÉBITOS POSTERIORES À ARREMATAÇÃO.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece a responsabilidade do arrematante pelo pagamento de IPTU de imóvel adquirido em hasta pública desde a data da lavratura do auto de arrematação, ainda que postergada a expedição da respectiva carta e a imissão na posse do imóvel.
+2. Agravo Interno não provido.
+(AgInt no REsp n. 2.124.896/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por tratar-se, na origem, de recurso interposto de decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. IPTU. RESPONSABILIDADE DO ARREMATANTE DESDE A ARREMATAÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
