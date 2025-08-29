@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JANAÍNA BRITO contra decisão que inadmitiu seu recurso especial (fls. 2190/2192).
+A agravante foi condenada em primeira instância pelos crimes de tráfico de drogas, associação para o tráfico e receptação. A pena imposta foi de 9 anos e 4 meses de reclusão, em regime inicial fechado, e 1.400 dias-multa.
+Inconformada, a defesa interpôs apelação, alegando insuficiência probatória para a condenação, baseada unicamente em depoimentos policiais e no histórico criminal da recorrente, e buscando a absolvição ou, subsidiariamente, a revisão da dosimetria da pena e o reconhecimento do tráfico privilegiado.
+O Tribunal de Justiça negou provimento à apelação, mantendo a sentença condenatória. O acórdão assentou que o mandado de busca e apreensão foi válido, baseado em investigação policial extensa, corroborada por campanas, monitoramentos e interceptações telefônicas autorizadas judicialmente. As mensagens de WhatsApp foram consideradas legítimas, sem comprovação de manipulação. A materialidade e autoria dos crimes foram comprovadas por depoimentos policiais, imagens, documentos, laudos periciais e flagrante delito. Os pedidos subsidiários foram rejeitados pela ausência dos requisitos para o tráfico privilegiado e pela proporcionalidade das penas.
+Contra essa decisão, a recorrente interpôs recurso especial com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao artigo 202 do Código de Processo Penal. A defesa reiterou a insuficiência de provas, sustentando que a condenação se baseou apenas nos testemunhos policiais e no histórico criminal da recorrente e pugnou pela absolvição (fls.2199/2128).
+O recurso especial foi inadmitido por demandar reexame de fatos e provas, o que é vedado pela Súmula 7, STJ.
+A recorrente, então, interpôs agravo contra a decisão de inadmissibilidade do recurso especial ( fls.22171/2222).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo não conhecimento do agravo interposto por Janaína Brito, argumentando erro grosseiro na interposição de agravo de instrumento e pela não refutação específica do óbice da Súmula 7, STJ.
+É o relatório. DECIDO.
+O recurso de agravo é tempestivo.
+Quanto à impugnação dos fundamentos da decisão agravada, a decisão de inadmissibilidade do recurso especial baseou-se na Súmula 7, STJ, que veda o reexame de fatos e provas em sede de recurso especial. A agravante, em suas razões, limitou-se a efetuar alegação genérica e não não rebateu de forma efetiva e específica o óbice da Súmula 7, STJ, que exige que a parte demonstre que, para a alteração do entendimento da instância de origem, não é necessário o reexame de fatos e provas.
+O Superior Tribunal de Justiça tem entendimento consolidado de que a ausência de impugnação específica dos fundamentos da decisão agravada atrai a incidência da Súmula 182 do STJ, que dispõe: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada".
+Conforme a jurisprudência desta Corte, "Para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa."
+No caso em tela, a agravante não logrou demonstrar que a análise da tese recursal de absolvição por insuficiência de provas seria possível sem o revolvimento do conjunto fático-probatório, conforme exigido pela Súmula 7, STJ.
+Portanto, o agravo não preenche o requisito da impugnação específica, inviabilizando seu conhecimento.
+Ante o exposto, não conheço do agravo interposto por JANAÍNA BRITO, com base no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
