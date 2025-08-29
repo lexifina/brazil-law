@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS, sob fundamento de que o acórdão recorrido se encontra em sintonia com o entendimento jurisprudencial da Corte com relação a intimação do Ministério Público, incidindo o óbice da Súmula 83/STJ; "a revisão do entendimento adotado pelo órgão colegiado local, quanto à aplicabilidade da Teoria do Fato Consumado" encontra óbice na Súmula 7/STJ, bem como, tratando-se de questão de índole constitucional, inviável o manejo do recurso especial.
+No recurso especial interposto com fulcro no art. 105, inciso III, alínea a, da Constituição Federal, o recorrente aponta a violação aos arts. 6º, §§ 1º e 2º, da LINDB; arts. 1º e 12, caput, da Lei 12.016/2019; art. 53, V, da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional - LDB), sustentando:
+(i) a impossibilidade de aplicação da teoria do fato consumado para resguardar situação precária;
+(ii) que o impetrante não demonstrou que a tramitação simplificada, mesmo frontalmente contrária ao edital, foi formalmente negada e, à míngua de tal prova, não se tem como caracterizado ato coator hábil a autorizar a concessão da ordem mandamental;
+(iii) que a decisão judicial que determinou a revalidação automática do diploma do impetrante na modalidade simplificada extrapolou os limites legais, ao invadir o mérito do ato administrativo de natureza nitidamente acadêmica, violando o princípio constitucional da autonomia universitária.
+Sobreveio juízo negativo de admissibilidade, ensejando o presente agravo.
+Parecer do Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+No caso, o Tribunal de origem asseverou que:
+Em síntese, o Pleno do Tribunal de Justiça do Estado do Tocantins fixou o seguinte entendimento no julgamento do Incidente de Assunção de Competência nº 0000009-48.2022.8.27.2722:
+a) As universidades gozam de liberdade (autonomia) para dispor acerca da revalidação de diplomas expedidos por universidades estrangeiras, não podendo lhes serem impostas a adoção do procedimento simplificado, quando estas, gozando de sua autonomia didático-científica e administrativa, garantida pela Constituição Federal, preveem a impossibilidade de fazê-lo;
+b) Aplica-se a teoria do fato consumado aos processos cujas decisões liminares foram exaradas antes de 30/6/2022, preservando, assim, o tão caro princípio da segurança jurídica.
+(TJ-TO, Incidente de assunção de competência nos autos da remessa necessária cível nº 0000009-48.2022.8.27.2722, Rel. EURÍPEDES LAMOUNIER, GAB. DO DES. EURÍPEDES LAMOUNIER, julgado em 18/11/2022)
+ ..
+Como se vê, os integrantes deste Tribunal firmaram o entendimento de que a abertura de processo de revalidação de diplomas obtidos em instituições de ensino estrangeiras é uma prerrogativa da universidade pública brasileira, cuja instauração depende da análise de conveniência e oportunidade decorrente da já referenciada autonomia universitária, impossibilitando ao Poder Judiciário de intervir na análise do mérito administrativo.
+Contudo, no mesmo julgado ficou decidido que deve ser aplicada a teoria do fato consumado aos processos cujas decisões liminares foram exaradas antes de 30 de junho de 2022.
+ ..
+Segundo se depreende dos autos originários, o pedido de tutela de urgência foi indeferido, ao contrário do apontamento consignado pela própria autoridade impetrada, que permitiu a continuidade do requerente no certame, com exame da documentação pela forma simplificada, mediante análise documental.
+Inicialmente, com relação a alegada violação aos arts. 6º, §§ 1º e 2º, da Lei de Introdução às Normas do Direito Brasileiro, esta Corte entende que o dispositivo da LINDB tem natureza eminentemente constitucional, por reproduzir princípios da Constituição, cuja competência revisora é do Supremo Tribunal Federal (AgInt no AREsp n. 2.357.440/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/11/2023, DJe de 1/12/2023; AgInt no REsp n. 2.066.957/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/9/2023, DJe de 21/9/2023; e AgInt no AREsp n. 2.214.326/MA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Dessa maneira, não cabe a esta Corte, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência, conforme dispõe o art. 102, III, a, da Constituição Federal.
+Ainda, conforme jurisprudência deste STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto.
+Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, em que pese as alegações do recorrente, observo que os dispositivos legais indicados como violado, não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidindo, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Ademais, a alteração da conclusão do Tribunal de origem, acerca da existência ou não do direito líquido e certo do impetrante, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intime-se.
+EMENTA
