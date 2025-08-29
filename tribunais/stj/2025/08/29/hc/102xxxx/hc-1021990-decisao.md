@@ -1,0 +1,43 @@
+DECISÃO
+FABIO DE JESUS ROCHA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2194096- 10.2025.8.26.0000.
+A defesa pretende a soltura do paciente - preso preventivamente pela suposta prática dos crimes previstos nos arts. 121, 148, §2º e 155, do CP - sob o argumento de que a segregação cautelar carece de fundamentação idônea.
+Subsidiariamente, requereu a substituição da prisão preventiva por medidas cautelares pessoais menos gravosas.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 530-534).
+Decido.
+I. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juízo singular assim fundamentou a decretação da prisão preventiva (fls. 407-408):
+Os elementos informativos colhidos pela Autoridade Policial sugerem que o denunciado sequestrou e tentou matar a vítima Naiara Diane da Silva, sua ex-namorada, somente não atingindo o seu intento criminoso por circunstâncias alheias à sua vontade. Após, teria furtado os bens da ofendida. A prova da materialidade delitiva e os indícios veementes de autoria vertem das oitivas coligidas - em especial da vítima -, do laudo pericial nº 167823/2025 (fls. 70/73), dos relatórios das investigações e das demais circunstâncias fáticas. Caracterizado, pois, o fumus commissi delicti.
+No tocante ao periculum libertatis (art. 312, primeira parte, do Código de Processo Penal), a jurisprudência do Supremo Tribunal Federal tem reafirmado a compatibilidade com o texto constitucional, em especial com a garantia do estado de inocência, da prisão cautelar para garantia da ordem pública, reconhecendo a idoneidade da fundamentação que demonstre "a periculosidade do agente, a gravidade do delito e o fundado receio de reiteração delitiva." (HC 144.904-AgR, 2ª Turma, rel. Min. Ricardo Lewandowski, j. 20.02.2018, D Je 01.03.2018).
+Descortino a gravidade do crime, concretamente aferida das circunstâncias do caso concreto e nitidamente excedente da normalidade ínsita às descrições típicas das condutas. Cuida-se de empreitada criminosa levada a efeito mediante violência exercida com emprego de arma de fogo contra vítima do sexo feminino, cenário que, para além do potencial intimidatório, acentua o risco à incolumidade física da vítima e sugere disposição ao confronto violento. Desse entendimento não discrepa o Tribunal de Justiça paulista:
+ ..
+Reputo ainda que a segregação cautelar se prestará a afiançar a aplicação da lei penal. O agente se afastou intencionalmente do distrito da culpa, com o objetivo de obstruir a persecução criminal do Estado, impedindo a execução da pena imposta em eventual sentença condenatória.
+O Tribunal de origem, a seu turno, manteve a decisão de primeiro grau nos termos a seguir (fl. 17, destaquei):
+Colhe-se dos principais que, a despeito da verificada primariedade (fls. 146/147, origem), os delitos em testilha teriam sido cometidos "por motivo torpe" e mediante "recurso que impossibilitou a defesa" da ofendida, a qual, após ter sido conduzida para "um trecho sem iluminação e próximo de um matagal", sofreu "múltiplos ferimentos produzidos por arma de fogo, 04 (quatro) no braço direito, 05 (cinco) no abdômen e 1 na região das costas"; não bastasse, o paciente teria furtado a "bolsa da vítima na qual essa guardava documentos, roupas, cosméticos e seu telefone celular". No curso do processo, "Após passar por diversas cirurgias, a vítima não resistiu aos ferimentos causados pelos tiros que a alvejaram e veio à óbito". Tais circunstâncias revelam, prima facie, a gravidade concreta da conduta em comento e a inoperância de alternativas ao encarceramento no contexto sub iudice.
+Frise-se que as questões atinentes à violência de gênero, em quaisquer de suas modalidades (artigo 7º, da Lei de nº 11.340/2006, dentre outras), devem ser tratadas com a mais ampla e efetiva proteção possíveis. O que está em jogo é, no mais das vezes, a vida e integridade física/psíquica da vítima, bens cuja tutela é de imperiosa e indiscutível importância. Não se pode, de modo algum, esperar que o pior aconteça para que o Estado Juiz intervenha, pois, na esmagadora maioria dos casos, as ameaças, constrangimentos e agressões ocorrem de modo velado, dentro da própria residência, onde, frequentemente, somente o próprio algoz e a vítima são testemunhas do malfeito.
+Na hipótese, são idôneos os motivos elencados no decisum combatido, pois evidenciam a gravidade concreta da conduta em tese perpetrada: o paciente teria conduzido a vítima para um trecho sem iluminação e próximo de um matagal, causando-lhe múltiplos ferimentos produzidos por arma de fogo, 4 no braço direito, 5 no abdômen e 1 na região das costas, ainda tendo furtado a bolsa da vítima, na qual essa guardava documentos, roupas, cosméticos e seu telefone celular.
+No curso do processo, conforme acima exposto, "após passar por diversas cirurgias, a vítima não resistiu aos ferimentos causados pelos tiros que a alvejaram e veio à óbito."
+Segundo a orientação deste Superior Tribunal, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar.
+A esse respeito, destaco os seguintes precedentes:
+ ..
+2. O decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade dos acusados que agiram com peculiar modus operandi, visto que o crime foi cometido mediante o concurso de pessoas, por motivo fútil e com recurso que dificultou a defesa da vítima, contra quem foram desferidos diversos golpes de facão e barra de ferro em direção à sua cabeça.
+3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Recurso não provido.
+(RHC n. 104.138/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019, grifei)
+ ..
+2. A prisão preventiva está adequadamente fundamentada na espécie, tendo em vista que as circunstâncias concretas do delito evidenciam a necessidade da constrição cautelar para a garantia da ordem pública, pela periculosidade do Recorrente, considerando-se, sobretudo, o modus operandi dos delitos. Precedentes.
+3. No caso, o recorrente é o suposto mandante do homicídio, movido por vingança, por um desentendimento anterior com a vítima, tendo sido efetuados vários disparos sem chance de defesa, por meio de emboscada.
+4. As condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema. 5. Recurso ordinário desprovido. (RHC n. 100.877/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/10/2018, destaquei).
+Além disso, a fuga do paciente logo após a suposta prática do crime é concreto indicativo de risco à aplicação da lei penal.
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do paciente.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+Nesse sentido:
+ ..
+5. Demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n.º 12.403/2011.
+6. Ordem de habeas corpus denegada.
+(HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020)
+Ainda, de acordo com a jurisprudência deste Superior Tribunal, "a presença de condições pessoais favoráveis ao agente, como primariedade e bons antecedentes, não representam óbice, por si sós, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela" (HC n. 571.208/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJ 28/9/2020).
+II. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
