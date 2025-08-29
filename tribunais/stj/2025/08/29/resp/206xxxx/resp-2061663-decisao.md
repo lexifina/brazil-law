@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial e de agravo em recurso especial interpostos por Daniel Beraldi dos Santos, com fundamento na alínea a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 0014823-70.2018.8.26.0576 (fls. 1.515/1.535).
+Apontou a defesa a nulidade das interceptações telefônicas realizadas durante as investigações, pela ausência de fundamentação adequada e pela captação de conversas mesmo após expirado o prazo estabelecido. Requereu, ainda, a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Ao final da peça recursal, requereu o provimento do recurso, com o reconhecimento da ilicitude das interceptações telefônicas realizadas e remessa ao primeiro grau para prolação de nova sentença sem a utilização das referidas provas ou, alternativamente, a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com o redimensionamento da pena (fls. 1.569/1.570).
+Oferecidas contrarrazões (fls. 1.642/1.665), o recurso especial foi parcialmente admitido na origem (fls. 1.669/1.671).
+Em face da decisão que admitiu parcialmente o recurso especial, o recorrente formulou o presente agravo em recurso especial.
+Contraminuta às fls. 1.706/1.722.
+A Procuradoria-Geral da República opinou pelo não conhecimento do recurso especial (fls. 1.753/1.761).
+É o relatório.
+De início, quanto ao agravo interposto, ressalto que não cabe este tipo de recurso contra decisão que admite parcialmente recurso especial, uma vez que, em razão da admissão parcial do reclamo, este subirá a esta Corte, ocasião em que se procederá ao refazimento do juízo de admissibilidade da íntegra do recurso. Aplicam-se, por analogia, as Súmulas 292 e 528/STF.
+No que se refere à tese de nulidade das interceptações pela ausência de fundamentação adequada e pela captação de conversas mesmo após expirado o prazo estabelecido, destaco a manifestação do Tribunal de origem sobre o ponto (fl. 1.524 - grifo nosso):
+ ..
+O pedido de nulidade quanto às interceptações telefônicas tampouco se sustenta. Alega-se que não estas teriam sido determinadas independentemente da existência de investigação prévia, além do que teriam sido realizadas sucessivas prorrogações e renovações, fato que geraria nulidade absoluta.
+Denota-se, contudo, dos presentes autos que a garantia aos princípios constitucionais do contraditório e da ampla defesa aos ora apelantes foi devidamente observada.
+Pontue-se, ademais, que embora o art. 5º da Lei n. 9.296/1996 preveja o prazo de 15 dias, prorrogável por igual período, para a interceptação telefônica, a Jurisprudência é pacífica no sentido da possibilidade de outras prorrogações, desde que seja justificada a necessidade de período maior de sua duração em decorrência das investigações.
+Não se cogita, pois, de nulidade da prova colhida, em razão de ter sido obtida em momento posterior, quando já teria se escoado o prazo legal previsto em lei para a interceptação, uma vez não haver impedimento para a ocorrência de sucessivas prorrogações.
+ ..
+A partir do excerto colacionado, não constato ilegalidade na forma como operado o referido meio de obtenção de prova, uma vez que o entendimento adotado pelo Tribunal de origem se coaduna com a tese firmada pelo STF no RE n. 625.263/PR em sede de repercussão geral (Tema n. 661).
+Consoante a tese fixada, a interpretação conferida ao art. 5º da Lei n. 9.296/1996 é no sentido da possibilidade de renovação do pedido de interceptação, por sucessivos períodos de 15 dias, desde que comprovada a indispensabilidade do meio de prova.
+Na espécie, tal como reconhecido na origem, a autorização da interceptação e das prorrogações contou com decisão judicial suficientemente fundamentada, razão pela qual não se cogita de mácula a invalidar a diligência investigativa.
+De igual modo, reputo idônea a fundamentação utilizada para o afastamento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Nesse particular, destaco a fundamentação utilizada pelo Juízo de primeiro grau (fl. 1.245 - grifo nosso):
+ ..
+É inaplicável a regra prevista no artigo 33, § 4º, da Lei Antidrogas devido ao conjunto probatório formado, no sentido de que os acusados se dedicavam a atividades criminosas e fazem do tráfico de drogas seu meio de vida, bem como integravam organização criminosa, associando-se entre si e com outras pessoas, de forma estruturada, visando o abastecimento de entorpecentes no Município de Mirassol, com divisão de tarefas, obtendo direta ou indiretamente vantagem patrimonial em decorrência de sua participação.
+ ..
+Depreende-se que o sentenciante elencou uma série de evidências que, analisadas conjuntamente, resultaram na convicção de que o recorrente se dedica a atividades criminosas, a inviabilizar a incidência da causa de diminuição de pena.
+Nesse sentido, foi explicitado que a atuação se dava de forma estruturada, visando o abastecimento de entorpecentes na localidade, com divisão de tarefas. De se ver, portanto, que o afastamento da causa de diminuição de pena se operou em razão do envolvimento reiterado do recorrente com o tráfico de entorpecentes, a evidenciar a dedicação a atividades criminosas.
+Logo, não verifico ilegalidade na conclusão alcançada pelo Tribunal de origem ao afastar a causa de diminuição de pena, uma vez que esposadas as razões pelas quais configurada a dedicação a atividades criminosas, óbice à incidência do benefício postulado. A corroborar, o REsp n. 2.028.648/BA, da minha relatoria, Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025.
+Quanto à insurgência relacionada à suposta caracterização de bis in idem na dosimetria da pena, a reprimenda não merece reparos.
+Nesse sentido, o art. 42 da Lei n. 11.343/2006 estabelece que o juiz considerará na fixação da pena, dentre outros critérios, a natureza e a quantidade da substância ou do produto.
+E diferentemente das razões recursais, não houve dupla valoração da mesma circunstância em prejuízo do acusado. Destaco, nesse particular, que inexiste ilegalidade na utilização da quantidade e natureza das drogas para exasperação da pena-base e no afastamento da minorante com fundamento na dedicação a atividades criminosas, evidenciada pelo quantum de drogas e outros elementos concretos da conduta delituosa.
+Nessa linha, o REsp n. 2.157.325/RS, da minha relatoria, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025.
+Dessa forma, apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, distintos daqueles utilizados para a não incidência da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, é caso de negar-se provimento ao recurso, sem que se possa cogitar de redimensionamento da pena.
+Ante o exposto, nego provimento ao recurso especial e não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AGRAVO INTERPOSTO EM RAZÃO DA ADMISSIBILIDADE PARCIAL DO RECURSO ESPECIAL. NÃO CABIMENTO. APLICAÇÃO ANALÓGICA DAS SÚMULAS 292 E 528, AMBAS DO STF. VIOLAÇÃO DO ART. 5º DA LEI N. 9.296/1996 E DO ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO ADEQUADA DA INTERCEPTAÇÃO E DAS PRORROGAÇÕES. ALEGAÇÃO DE BIS IN IDEM . QUANTIDADE DE DROGA APREENDIDA UTILIZADA PARA EXASPERAR A PENA-BASE E AFASTAR CAUSA DE DIMINUIÇÃO. AUSÊNCIA DE DUPLA VALORAÇÃO. TRÁFICO PRIVILEGIADO. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ELEMENTOS CONCRETOS EXTRAÍDOS DE CONVERSAS TELEFÔNICAS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+Recurso especial improvido. Agravo em recurso especial não conhecido.
