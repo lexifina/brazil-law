@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Manoel Luis de Araujo, condenado pela prática do delito descrito no art. 306 do Código de Trânsito Brasileiro, à pena de 6 meses de detenção, em regime semiaberto, além de 10 dias-multa.
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo, em razão do julgamento da Apelação Criminal n. 1500836- 70.2022.8.26.0019.
+Requer-se a concessão da ordem para (fl. 13):
+Liminarmente, e com a máxima urgência, que seja deferida a ordem de Habeas Corpus para suspender a execução da pena no regime semiaberto imposto ao Paciente MANOEL LUIS DE ARAUJO, determinando-se, desde já, que o cumprimento da pena ocorra em prisão domiciliar com monitoramento eletrônico ou, subsidiariamente, em regime aberto com monitoramento eletrônico, até o julgamento final do presente writ. Ou converter a pena privativa de liberdade imposta ao Paciente em restritivas de direitos, na forma da lei, em razão de sua grave condição de saúde (portador de HIV), de sua comprovada inserção social e laborativa, e por ser a medida socialmente mais recomendada, nos termos do artigo 44 do Código Penal. A medida liminar é imperiosa para evitar a iminente coação ilegal e o risco irreparável à saúde e à vida do Paciente;
+É o relatório.
+Este writ é manifestamente inadmissível.
+Isso porque o impetrante não se desincumbiu do ônus de instruir suficientemente o habeas corpus com cópia completa do acórdão de apelação, peça essencial para a verificação da verossimilhança das alegações.
+Afora isso, o habeas corpus foi manejado como sucedâneo de revisão criminal e, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Sobre o tema, há prec edentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como, por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Ademais, consoante jurisprudência desta Corte Superior, o não cabimento do writ substitutivo de revisão criminal é corroborado quando o impetrante não indica que as razões de pedir estão previstas em alguma das hipóteses do art. 621 do CPP, como no presente caso (HC n. 829.748/GO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/12/2023).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. INSTRUÇÃO DEFICIENTE. ÔNUS QUE COMPETE AO IMPETRANTE. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CPP. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
