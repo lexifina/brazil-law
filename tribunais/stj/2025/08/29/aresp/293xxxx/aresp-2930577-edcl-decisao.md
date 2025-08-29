@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 808):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A embargante alega que há omissão no julgado. Aduz que não foi observado "(..) que a Embargante, no Agravo em Recurso Especial da Peça n. 170, enfrentou os argumentos da decisão de inadmissibilidade do recurso especial ao demonstrar a inaplicabilidade da Súmula n. 280 do STF e a desnecessidade de análise de matéria constitucional, já que o recurso especial versa sobre violações a legislações federais." (fl. 820). Conclui que "(..), não restam dúvidas que a Embargante enfrentou todos os fundamentos da decisão denegatória de admissibilidade de seu recurso especial, o que atrai o conhecimento do agravo em recurso especial." (fl. 822).
+Com impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há omissão no julgado porque enfrentou todos os fundamentos da decisão de não admissão do seu recurso especial.
+Todavia, tem-se que razão não lhe assiste.
+De fato, conforme entendimento desta Corte Superior, há omissão quando, embora oportunamente provocado, deixa o órgão julgador de analisar matéria relevante para o deslinde da causa, não se falando no vício quando, mesmo sem que seja examinado individualmente cada um dos argumentos suscitados, há manifestação clara e fundamentada acerca de todas as questões relevantes para a solução da controvérsia.
+Nesse contexto, não há falar no defeito indicado, visto que a decisão embargada, de modo expresso, claro e fundamentado, assentou a ausência de impugnação a dois dos fundamentos da decisão de não admissão do recurso especial (fundamentação constitucional do acórdão recorrido e incidência da Súmula 280/STF), a impedir o conhecimento do agravo, na forma dos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+Ora, veja-se que os trechos apontados pela parte nestes aclaratórios a fim de demonstrar que teria impugnado todos os fundamentos da decisão obstativa, em verdade, não cumprem o propósito.
+Com efeito, a decisão de não admissão do recurso especial assentou que a controvérsia foi resolvida pelo colegiado com base em princípios constitucionais, sendo que, no ponto, a parte tão somente aduziu no seu agravo em recurso especial que o apelo nobre versa sobre violações a legislações federais. Quanto à Súmula 280/STF, foi consignado que "(..) o julgamento da lide à luz de legislação local, obsta o cabimento dos recursos, com base na Súmula nº 280 do STF, (..)." (fl. 690), é dizer, que o colegiado de origem também decidiu o caso a partir de legislação local, ao que a embargante - então agravante - aduziu que "(..) em nenhum momento suscitou ofensa à legislação local, (..)" (fl. 718). Ocorre que, a bem de ver, tais assertivas não impugnam os argumentos daquela decisão.
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1022 DO CPC/2015. EMBARGOS REJEITADOS.
