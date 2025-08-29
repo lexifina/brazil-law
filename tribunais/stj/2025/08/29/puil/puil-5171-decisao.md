@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado pelo ESTADO DE RONDÔNIA, com fundamento no art. 18, § 3º, da Lei 12.153/2009, contra acórdão proferido pela 2ª TURMA RECURSAL DO TJ/RO assim ementado:
+RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. PROTESTO INDEVIDO. DÉBITO PAGO. RESPONSABILIDADE. DANO MORAL CONFIGURADO. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. 1. O protesto indevido de débito devidamente quitado pelo contribuinte causa abalo moral indenizável, que não se desfaz pela emissão posterior da carta de anuência. 2. Recurso a que se nega provimento.
+Nas suas razões, a parte requerente alega que houve afronta à Súmula 385 do STJ e ao que decidido no Recurso Especial 1.386.424/MG (Tema Repetitivo 922), argumentando que a própria parte autora juntou aos autos extrato de negativação constando outros lançamentos pretéritos em cadastro de inadimplentes.
+Impugnação às e-STJ fls. 119/126, alegando-se a intempestividade e, no mérito, pugnando pelo seu desprovimento.
+É o relatório.
+Registre-se, inicialmente, que a alegação de intempestividade não merece acolhimento.
+Com efeito, no âmbito da Turma Nacional de Uniformização dos Juizados Especiais Federais, há previsão de prazo de 15 (quinze) dias, a contar da data da intimação do acórdão recorrido, para a apresentação do PUIL (art. 12, do Regimento Interno da Turma Nacional de Uniformização dos Juizados Especiais Federais), aplicável por analogia no presente caso.
+Nesse sentido: PUIL 2100/DF, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 24/05/2021.
+Quanto à questão de fundo, cumpre consignar que, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade a súmula do Superior Tribunal de Justiça.
+No caso dos autos, o Tribunal de origem concluiu que "a Súmula 385 do STJ só se aplica aos cadastros em órgãos arquivistas (de proteção ao crédito), não incluindo protesto de títulos. E no caso versado o protesto foi irregular, também não havendo que se falar em carta de anuência. O protesto por si causou o dano imaterial ao recorrido, porque ilegítimo" (e-STJ fl. 86).
+Ocorre que o STJ já teve oportunidade de analisar tal interpretação restritiva, por ocasião do julgamento do Tema 922, conforme se verifica na ementa do REsp 1.386.424/MG:
+RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. DANO MORAL. NÃO CARACTERIZADO. INSCRIÇÃO INDEVIDA COMANDADA PELO SUPOSTO CREDOR. ANOTAÇÕES ANTERIORES. SÚMULA 385/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula 385/STJ).
+3. Embora os precedentes da referida súmula tenham sido acórdãos em que a indenização era buscada contra cadastros restritivos de crédito, o seu fundamento - "quem já é registrado como mau pagador não pode se sentir moralmente ofendido por mais uma inscrição do nome como inadimplente em cadastros de proteção ao crédito", cf. REsp 1.002.985-RS, rel. Ministro Ari Pargendler - aplica-se também às ações voltadas contra o suposto credor que efetivou a inscrição irregular.
+4. Hipótese em que a inscrição indevida coexistiu com quatorze outras anotações que as instâncias ordinárias verificaram constar em nome do autor em cadastro de inadimplentes.
+5. Recurso esp ecial a que se nega provimento. (REsp n. 1.386.424/MG, relator Ministro Paulo de Tarso Sanseverino, relatora para acórdão Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 27/4/2016, DJe de 16/5/2016.) (Grifos acrescidos).
+Assim, considerando que a parte autora, conforme mesmo admite, tinha anotações de restrição de crédito contemporâneas àquelas discutidas nos autos, evidencia-se a improcedência do seu pedido.
+Ante o exposto, julgo procedente o pedido de uniformização, para julgar improcedente o pedido deduzido na ação de reparação por danos morais ajuizada pela parte requerida.
+Publique-se. Intime-se.
+EMENTA
