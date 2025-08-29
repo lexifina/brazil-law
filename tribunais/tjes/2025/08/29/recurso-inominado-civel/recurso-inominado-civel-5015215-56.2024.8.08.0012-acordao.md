@@ -1,0 +1,118 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5015215-56.2024.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO DO BRASIL SA
+RECORRIDO: TAIS NEGREIROS FERRAZ VIEIRA
+RELATOR(A):
+PAULO ABIGUENEM ABIB
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA: RECURSO INOMINADO. CÓDIGO DE DEFESA DO CONSUMIDOR. FALHA NA PRESTAÇÃO DE SERVIÇOS. EMPRÉSTIMO CONSIGNADO NÃO CONTRATADO. GOLPE. DANOS MORAIS CONFIGURADOS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+1. PRESSUPOSTOS DE ADMISSIBILIDADE
+
+Tem-se recurso inominado contra sentença. O Recurso é cabível, tempestivo e o preparo foi realizado dentro do prazo legal. Preenchidos os pressupostos de admissibilidade, recebo o recurso no regular efeito previsto no art. 43 da Lei 9.099/95.
+
+2. RELATÓRIO
+
+Trata-se de ação de declaração de inexistência de débito cumulada com devolução em dobro de valores e indenização por danos morais, em que a parte autora, ora recorrida, afirma que vem sofrendo descontos em seu benefício previdenciário de valores referentes a empréstimo consignado não contratado. Assim, requer a restituição dos valores descontados e a indenização por danos morais.
+
+Por outro lado, o recorrente
+defende que a transação foi feita por meio do aplicativo, pelo celular; aduz que não houve falha de segurança; requer a improcedência total dos pedidos iniciais.
+
+Em sede de sentença (ID 13460321), integrada pelos embargos de declaração (ID 13460334) foram julgados procedentes os pedidos autorais, sob o seguinte dispositivo:
+
+“Isto posto, na forma do art. 487, inciso I, do CPC, confirmo a tutela deferida no ID 47937582, e JULGO PROCEDENTES os pedidos iniciais para:
+
+DECLARAR A NULIDADE das OPERAÇÕES/CONTRATO sob os n° 159026913; 158683158; 158538129; 158467338;
+
+CANCELAR os descontos realizados pela ré na conta da autora;
+
+DECLARAR A NULIDADE do contrato de abertura de conta corrente n° 46.326-4, agência 3480-0, com seu consequente cancelamento.
+
+DECLARAR A INEXISTÊNCIA de todos e quaisquer débitos decorrentes da abertura da citada conta.
+
+CONDENAR a ré à restituição, em dobro, dos valores descontados no benefício previdenciário, devidamente atualizados e acrescidos de juros legais desde a data de cada desconto;
+
+CONDENAR a ré ao pagamento de indenização por danos morais no valor de R$3.000,00 (três mil reais), corrigido monetariamente e acrescido de juros legais a partir da publicação desta sentença.”
+
+Irresignado, a parte recorrente apresentou recurso inominado (ID 13460329) almejando que seja reformada a sentença e julgado improcedente os pedidos expostos em sede de inicial.
+
+Verifica-se que não foram apresentadas as contrarrazões.
+
+É o breve relatório. Passo a decidir.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+3. VOTO
+
+Em sede preliminar, a recorrente requer a concessão de efeito suspensivo ao recurso, a fim de obstar os efeitos da decisão atacada. Nesse sentido, entendo pelo seu indeferimento, uma vez que o duplo efeito (suspensivo e devolutivo) é cabível apenas para evitar risco irreparável para a parte Recorrente, nos termos do artigo 43 da Lei nº 9099/95, circunstância não verificada, tampouco demonstrada no caso concreto.
+
+No mérito, após debruçar-me sobre as questões trazidas ao conhecimento deste colegiado, concluo que a sentença deve ser mantida por seus próprios fundamentos. Nesse sentido, o Enunciado nº 11 deste Colegiado Recursal assevera que “a sentença poderá ser mantida pelos seus próprios fundamentos, a teor do que dispõe o artigo 46 da lei 9099/95, sem a necessidade de nova fundamentação jurídica”.
+
+Embora seja desnecessária nova fundamentação, vale trazer à luz que têm sido comum esse tipo de demanda perante o poder judiciário deste Estado, pelo que se trata de questão possível de ser julgada pelas regras da experiência (Art. 5º, da Lei 9.099/95), sem, é claro, descuidar de analisar o conjunto probatório.
+
+Cabe ressaltar que a relação jurídica objeto da presente demanda é de consumo, aplicando-se as disposições do Código de Defesa do Consumidor, inclusive no que tange à inversão do ônus da prova e responsabilidade objetiva da recorrente, conforme previsto, respectivamente, nos artigos 6º, inciso VIII e 14, ambos do CDC. Todavia, o caso em questão revela típica relação de consumo, a Recorrente como como fornecedora de serviços e o Recorrido como consumidor, respectivamente, na forma dos arts. 2º e 3º do CDC, devendo ser este, em especial, o diploma legal aplicável.
+
+O sistema de responsabilidade civil adotado pelo Código de Defesa do Consumidor é a responsabilidade objetiva (contratual e extracontratual) que se funda na teoria do risco da atividade: a existência do dano e do nexo de causalidade entre o fato e o dano impõem ao fornecedor o dever de indenizar (CDC, art. 6º, inciso VI e arts. 12 a 25). Assim, em havendo responsabilização da Recorrente, a sua responsabilidade civil é objetiva, baseada na teoria do risco do negócio profissional que empreende, como mencionado acima, conforme prevê o art. 14, do Código de Defesa do Consumidor.
+
+No caso em tela, a parte recorrida aduz que nunca firmou contrato de empréstimo junto ao recorrente.
+
+Nesse sentido, o caso em questão, que se trata de ação declaratória negativa, em que o consumidor nega a contratação do cartão de crédito consignado, incumbe ao fornecedor comprovar a existência e origem do débito. Contudo, no presente caso, o Banco recorrente, ora recorrente, não trouxe nenhum documento idôneo capaz de comprovar a legitimidade da contratação do referido cartão de crédito.
+
+O banco recorrente não apresentou contrato assinado pela parte recorrida, não restando comprovada relação jurídica entre as partes referente ao contrato de cartão de crédito consignado.
+
+Coaduno com o entendimento do magistrado
+a quo
+de que restou evidenciada a fraude perpetrada por terceiros em relação ao contrato, que se utilizaram de artimanhas para vincular empréstimo indesejados.
+
+Em casos tais, apesar de o fato de terceiro (golpe) e a contribuição da vítima muitas vezes serem elementos importantes na cadeia causal, a responsabilidade objetiva do fornecedor de serviços decorre da falha de segurança, o que caracteriza falha na prestação do serviço (art. 4º, II, d c/c 6º, I e 12, §1º, CDC) e impõe o dever de indenizar pelos danos decorrentes do fortuito interno (Súmula 479/STJ), conforme jurisprudência do c. STJ e do eg. TJES:
+
+“APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - GOLPE DA FALSA CENTRAL TELEFÔNICA - RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA - SÚMULA 479 DO STJ - FORTUITO INTERNO – RECURSO PROVIDO. 1.A instituição financeira responde pelos danos causados por fraudes ou delitos praticados por terceiros em seu âmbito de atuação, uma vez que consistem em risco próprio do seu empreendimento. 2. É dever das instituições financeiras verificar a idoneidade das movimentações realizadas nas contas dos clientes, utilizando-se de meios que possibilitem a identificação e o resguardo contra fraudes, notadamente contra transações que refogem ao perfil dos correntistas. Precedentes. 3. Falha no sistema de segurança da Casa bancária considerando que: a) o golpista ligou do próprio número telefônico que consta no verso do cartão de crédito e possuía os dados da correntista; b) as transferências via pix foram realizadas de forma atípica ao perfil da correntista, deixando os saldos das contas bancárias negativos ou zerados. 4. Quanto aos danos morais, reputam-se caracterizados, notadamente em razão do evidente degaste suportado pela correntista que contatou administrativamente a agência bancária para comunicar o golpe e solicitar o estorno dos valores, mas não obteve êxito, sendo obrigada a recorrer ao Poder Judiciário para tanto. Razoável e proporcional aos contornos fáticos expostos o quantum de R$ 5.000,00 (cinco mil reais), considerando ainda a reprovabilidade da conduta da Instituição Financeira, e seu evidente porte econômico. 5. Recurso provido. Sentença reformada para julgar procedente em parte o pedido autoral. (Classe: APELAÇÃO CÍVEL, Número: 5001905-24.2022.8.08.0021, Magistrado: ELIANA JUNQUEIRA MUNHOS FERREIRA, Órgão julgador: 4ª Câmara Cível, Data: 30/Nov/2023.
+
+EMENTA: DIREITO CIVIL E DO CONSUMIDOR. APELAÇÃO CÍVEL. PRELIMINARES DE AUSÊNCIA DE DIALETICIDADE E ILEGITIMIDADE PASSIVA AD CAUSAM REJEITADAS. MÉRITO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. GOLPE DO MOTOBOY. RESPONSABILIDADE CIVIL. DEVER DE SEGURANÇA. FALHA NA PRESTAÇÃO DE SERVIÇOS. AUSÊNCIA DE DEVER DE CUIDADO POR PARTE DO CONSUMIDOR AO ENTREGAR DADOS SENSÍVEIS E CARTÃO MAGNÉTICO A TERCEIROS. CULPA CONCORRENTE CARACTERIZADA. RECURSO CONHECIDO E DESPROVIDO. (...) III.VII.
+In casu, denota-se flagrante imprudência do Recorrido em deliberadamente entregar o plástico do cartão de crédito a um desconhecido (motoboy) que passaria em sua residência para realizar a coleta do cartão de crédito e senhas pessoais, não podendo, portanto, ser eximido de culpa, denotando-se, por outro lado, a negligência do Recorrente ao não identificar a atipicidade das movimentações financeiras, através de mecanismos internos próprios aptos a impedir ou minorar os danos em razão da fraude perpetrada, concorrendo, portanto, ambas as partes em culpa para o surgimento do evento danoso objeto do presentes autos
+. III.VIII.
+Uma vez conjugada a imprudência do consumidor final em entregar o Cartão de Crédito a terceiros e a negligência da Instituição Financeira de não criar mecanismos para impedir e bloquear as ações criminosas que movimentam transações financeiras atípicas e que destoam sobremaneira dos gastos usuais de seus clientes, resta acertada a conclusão da Sentença que reconheceu a culpa concorrente
+. III.IX. A Jurisprudência do Egrégio Superior Tribunal de Justiça, somente afasta a concorrência de culpas, nestas hipóteses, relacionada à condenação exclusiva da respectiva instituição bancária, em se tratando de consumidor hipervulnerável, o que não se revelou ser o caso dos autos, uma vez que o Recorrente se qualifica como empresário e, ao tempo da perpetração do golpe contra si, ostentava 59 (cinquenta e nove) anos de idade. Precedentes. III.X. Recurso conhecido e desprovido. Honorários Advocatícios majorados para 15% (quinze por cento). (Classe: APELAÇÃO CÍVEL, Número: 0011801-17.2019.8.08.0011, Magistrado: NAMYR CARLOS DE SOUZA FILHO, Órgão julgador: 2ª Câmara Cível, Data: 07/Aug/2023)”
+
+Nesses termos, no tocante a indenização por danos morais, entendo por mantê-la nos moldes fixados pelo juízo
+a quo
+, vez estarmos diante de conduta que lesionou a parte recorrida, situação que é suficiente para gerar indenização pelo abalo sofrido. Entendo que a indenização por danos morais arbitrada (R$ 3.000,00) se apresenta justa e suficiente, em montante condizente com a gravidade da conduta do recorrente, com a extensão dos danos experimentados pela parte recorrida e com a capacidade econômica das partes, objetivando, assim, amenizar a dor e o sofrimento da recorrida, sem lhes causar enriquecimento indevido, não descuidando do caráter pedagógico, no sentido de induzir a recorrente a adotar uma postura mais diligente na prestação dos seus serviços.
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e, no mérito,
+NEGO-LHE PROVIMENTO
+, mantendo a sentença intocada, por seus próprios fundamentos. Condeno o recorrente ao pagamento de custas e honorários advocatícios, fixados em 20% sobre o valor da condenação, na forma do art. 85, §2º do Código de Processo Civil e art. 55 da Lei nº. 9.099/95.
+
+JOHANNA R. DE NAZARETH
+
+Juíza Leiga
+
+O Sr. Juiz de Direito Relator Dr. PAULO ABIGUENEM ABIB
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO a minuta
+de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+PAULO ABIGUENEM ABIB
+
+Relator
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
