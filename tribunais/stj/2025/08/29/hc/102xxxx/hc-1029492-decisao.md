@@ -1,0 +1,12 @@
+DECISÃO
+EDUARDO VEIGA DO NASCIMENTO alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A Defesa aponta a existência de erro material na fixação da fração de progressão de regime das penas impostas ao paciente. Afirma que incidiu fração única de 60% para todos os delitos, comuns e hediondos, além da consideração da reincidência do apenado.
+Requer a retificação do cálculo das penas, pois o erro material na execução não se sujeita à preclusão ou à coisa julgada.
+Decido.
+O habeas corpus não está instruído com os documentos imprescindíveis ao seu processamento. Não consta cópia da decisão do Juiz da VEC que examinou os cálculos penais e nem a guia de execução, com a especificação da fração aplicada. Também não foi juntado o acórdão proferido no agravo em execução pelo Tribunal de Justiça (5735717- 81.2024.8.09.0000). O vício impede a constatação da aventada ilegalidade.
+É "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023, destaquei). À vista do exposto, indefiro liminarmente o processamento deste habeas corpus, com fundamento no art. 210 do RISTJ.
+Ressalte-se que a defesa invoca a coisa julgada, quando, ao que parece, houve indevida reiteração de pedido. O Tribunal de Justiça não tem competência para reformar seus próprios acórdãos, e a matéria em exame já havia sido "enfrentada pela Segunda Câmara Criminal  ..  em 16/12/2024, que reconheceu, em sede de agravo em execução penal (5735717- 81.2024.8.09.0000), a reincidência específica do agravante, e determinou a aplicação do percentual de 60%, previsto no inciso VII do art. 112 da LEP".
+Assim, a medida cabível seria a impugnação do acórdão em questão, e não a impetração de novo habeas corpus, pois também a "jurisprudência desta Corte Superior é firme no sentido de não possibilitar a rediscussão da matéria, via habeas corpus, quando já formulados e analisados pedidos idênticos, acerca dos mesmos fundamentos, de matéria já analisada neste Tribunal .. , por se tratar de reiteração de pedido" (AgRg no HC n. 839.421/MS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
