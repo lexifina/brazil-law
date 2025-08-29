@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROSANJELA VIEIRA BERCI no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5047782-98.2025.8.24.0000).
+Consta nos autos que a paciente foi presa em flagrante, no dia 26 de março de 2025, pelo crime tipificado no art. 33, caput, da Lei n. 11.343/2006, após policiais militares encontrarem 508,4g (quinhentos e oito gramas e quatro decigramas) de cocaína, 10 comprimidos de ecstasy e duas balanças de precisão em posse de uma corré, que teria retirado os entorpecentes da residência da paciente.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 51):
+HABEAS CORPUS. PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA. APURAÇÃO DA SUPOSTA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS. CONCESSÃO DE PRISÃO DOMICILIAR. NÃO ACOLHIMENTO. IMPRESCINDIBILIDADE DA PRESENÇA MATERNA NÃO DEMONSTRADA. DELITO SUPOSTAMENTE PRATICADO NO INTERIOR DA MORADIA. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM DENEGADA.
+Sustenta a defesa que a paciente é mãe de uma filha menor de 12 anos e que a prisão domiciliar deveria ser concedida, conforme o art. 318, V, do Código de Processo Penal, uma vez que o crime não foi praticado com violência ou grave ameaça, nem contra a filha.
+Argumenta que a decisão que denegou a ordem se baseou em fundamentos genéricos e na gravidade abstrata do crime, sem comprovação de risco à menor.
+Alega que a paciente possui condições pessoais favoráveis, sendo primária, com bons antecedentes, residência e emprego fixo.
+Afirma que a imprescindibilidade dos cuidados maternos é presumida, conforme entendimento jurisprudencial.
+No mérito e liminarmente, a defesa requer a revogação da prisão preventiva e a concessão da prisão domiciliar com monitoramento eletrônico, além da expedição de alvará de soltura.
+Indeferida a liminar (e-STJ fls. 54/55) e prestadas as informações (e-STJ fls. 59/65 e 69/187), manifestou-se o Ministério Público Federal, nesta instância, pelo não conhecimento da ordem (e-STJ fl. 191/193).
+É o relatório.
+Decido.
+Inicialmente, destaco que a legalidade da prisão preventiva da paciente foi analisada, aos 12/6/2025, por ocasião do julgamento do RHC n. 217.775/SC, do qual extraio os seguintes trechos:
+Como se vê, não há falar em decisum desprovido de fundamentação, pois as instâncias ordinárias invocaram a gravidade da conduta, porquanto foi apreendida a quantidade de "508,4g (quinhentos e oito gramas e quatro decigramas) de substância "análoga à "cocaína", 10 (dez) comprimidos do entorpecente conhecido como "ecstasy" (e-STJ fl. 65), sendo acrescentado que foram encontradas duas balanças de precisão. Portanto, a prisão cautelar está amparada na necessidade de garantia da ordem pública.
+Passo a analisar o pedido de prisão domiciliar, por ter a paciente filha menor de 12 anos.
+Com o advento da Lei n. 13.257/2016, o art. 318 do Código de Processo Penal passou a permitir ao juiz a substituição da prisão cautelar pela domiciliar quando o agente for "mulher com filho de até 12 (doze) anos de idade incompletos":
+Art. 318. Poderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for:
+I - maior de 80 (oitenta) anos;
+II - extremamente debilitado por motivo de doença grave;
+III - imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência;
+IV - gestante;
+V - mulher com filho de até 12 (doze) anos de idade incompletos;
+VI - homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+Sobre o tema, o colegiado da Suprema Corte, por ocasião do julgamento do Habeas Corpus Coletivo n. 143.641/SP, concluiu que a norma processual (art. 318, IV e V) alcança a todas as mulheres presas, gestantes, puérperas, ou mães de crianças e deficientes sob sua guarda, relacionadas naquele writ, bem ainda todas as outras em idêntica condição no território nacional.
+Ao conceder o habeas corpus, a Suprema Corte lembrou que o art. 318 do Código de Processo Penal (que permite a prisão domiciliar da mulher gestante ou mãe de filhos com até 12 anos incompletos) foi instituído para adequar a legislação brasileira a um compromisso assumido internacionalmente pelo Brasil nas Regras de Bangkok. Essa alteração no CPP foi dada pelo Estatuto da Primeira Infância (Lei n. 13.257/2016).
+Posteriormente, sobreveio a Lei n. 13.769/2018, de 9/12/2018, introduzindo os arts. 318-A e 318-B no Código de Processo Penal:
+Art. 318-A. A prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que:
+I - não tenha cometido crime com violência ou grave ameaça a pessoa;
+II - não tenha cometido o crime contra seu filho ou dependente.
+Art. 318-B. A substituição de que tratam os arts. 318 e 318-A poderá ser efetuada sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 deste Código.
+Efetivamente, a novel legislação estabelece para o juiz um poder-dever de substituir a prisão preventiva por domiciliar de gestante, mãe de criança menor de 12 anos e mulher responsável por pessoa com deficiência, sempre que apresentada prova idônea do requisito estabelecido na norma (art. 318, parágrafo único), ressalvadas as exceções legais.
+Todavia, a normatização de apenas duas das exceções não afasta a efetividade do que foi decidido pelo Supremo no Habeas Corpus n. 143.641/SP, nos pontos não alcançados pela nova lei. O fato de o legislador não ter inserido outras exceções na lei não significa que o magistrado esteja proibido de negar o benefício quando se deparar com casos excepcionais.
+Deve prevalecer a interpretação teleológica da lei, assim como a proteção aos valores mais vulneráveis. Com efeito, naquilo que a lei não regulou, o precedente da Suprema Corte deve continuar sendo aplicado, pois uma interpretação restritiva da norma pode representar, em determinados casos efetivo risco direto e indireto à criança ou ao deficiente, cuja proteção deve ser integral e prioritária.
+No caso, colho do acórdão recorrido (e-STJ fl. 21):
+Aplicadas essas balizas no caso em estudo, a paciente não preenche os requisitos para concessão da prisão domiciliar.
+Rememora-se a gravidade do cenário flagrado pelos policiais, a despeito da ausência de apreensão de drogas na residência da paciente:
+"(i) Policiais Militares: Narraram que após a prisão de uma terceira chamada Nilva a guarnição recebeu informações indicando que a conduzida Rosanjela tinha entorpecentes no seu imóvel. Ato contínuo, passaram a diligenciar nas redondezas e receberam outra informação de que uma terceira tinha ido até o imóvel da conduzida Rosanjela para retirar as drogas que lá estavam pois ela tinha tomado conhecimento da prisão em flagrante da comparsa Nilva. Em seguida, tomaram conhecimento de que foi a conduzida Cristiane que foi até imóvel da conduzida Rosanjela quem retirou o entorpecente e lograram êxito em abordá- la, tendo Cristiane confirmado a informação e dito que tinha recebido R$100,00 para retirar o entorpecente do imóvel. Logo depois, efetuaram a prisão em flagrante das duas conduzidas pela prática do crime de tráfico de drogas. Ao final, contaram que a conduzida Rosanjela responde pelo vulgo "Tempestade";  .. " (resumo dos depoimentos, conforme transcrito na decisão que converteu a prisão em flagrante em preventiva - evento 36 dos autos 5004654- 17.2025.8.24.0036).
+Tudo aquilo, em tese, acontecia na presença da filha menor da paciente, a demonstrar, por ora, não apenas a sua intensa vinculação com o narcotráfico, mas também a sua completa irresponsabilidade, na condição de genitora, para com a criação e educação da criança.
+Frisa-se que, além do suposto crime ter se dado no âmbito domiciliar, a filha menor, aparentemente, acabava, ainda que de modo indireto, participando do contexto danoso no qual a própria mãe a inseria.
+Assim, não há que se falar em prisão domiciliar, pelo fato de as circunstâncias concretas do caso denotarem uma situação extremamente excepcional: o suposto crime ocorreu no âmbito domiciliar e a filha menor, aparentemente, acabava, ainda que de modo indireto, participando do contexto danoso no qual a própria mãe a inseria.
+A propósito do tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E DE RECEPTAÇÃO. INDEFERIMENTO DE PRISÃO DOMICILIAR. AGRAVANTE GENITORA DE MENORES DE 12 ANOS. HIPÓTESE EXCEPCIONAL. UTILIZAÇÃO DA RESIDÊNCIA PARA AS PRÁTICAS CRIMINOSAS. JURISPRUDÊNCIA DO STJ.
+1. O Supremo Tribunal Federal, no julgamento do Habeas Corpus coletivo n. 143.641/SP, sob relatoria do eminente Ministro Ricardo Lewandowiski, entendeu ser possível a substituição da segregação cautelar pela prisão domiciliar, sem prejuízo da aplicação concomitante das medidas cautelares previstas no art. 319 do CPP, para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas.
+2. No caso, "embora a paciente seja comprovadamente mãe de três crianças menores de 12 (doze) anos de idade,  ..  A prática do delito de tráfico de drogas ocorreu na própria residência (onde havia, em depósito, 39g de crack, embaladas e prontas para a distribuição, e 20g de maconha)", e onde também "foram encontrados 9 (nove) aparelhos celulares, uma balança de precisão, cartões, além de uma bicicleta proveniente de furto" (fl. 9), configurando-se, assim, situação excepcionalíssima que impede a concessão do benefício em apreço, consoante a jurisprudência desta Corte.
+3. Agravo regimental improvido.
+(AgRg no HC n. 895.401/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Diante do exposto, conheço em parte do habeas corpus, para, nesta extensão, denegar a ordem.
+Publique-se. Intimem-se.
+EMENTA
