@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado, com fulcro na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 546):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Irresignação em face da decisão que deferiu o pedido de desconsideração da personalidade jurídica da devedora para inclusão dos sócios. Descabimento. Questão preliminar. Oposição ao julgamento virtual. Inadmissibilidade. Ausente possibilidade de sustentação oral. Inexistência de prejuízo. Mérito. Relação de consumo. Ausência de indicação de bens à penhora no cumprimento de sentença. Apresentação genérica de imóveis de titularidade da pessoa jurídica apenas em embargos de declaração opostos pelos agravantes contra a decisão impugnada. Meio inadequado para contrariar o aludido decisório. Patrimônio indisponível da pessoa jurídica em razão de ação civil pública. Desconsideração da personalidade jurídica. Aplicação da teoria menor. Inteligência do art. 28, § 5º, CDC. Recurso improvido.
+Nas razões do recurso especial, os agravantes alegam que o acórdão violou o art. 28, § 5º, do Código de Defesa do Consumidor.
+Segundo o recurso especial, o acórdão autorizou a desconsideração da personalidade jurídica da sociedade Pamplona Urbanismo Ltda., com base na teoria menor, sem o preenchimento dos requisitos legais, visto que ela possui patrimônio e não está em recuperação judicial ou falência.
+Em contrarrazões, os agravados afirmam que o cumprimento de sentença tramita há quatro anos e até o momento não foi penhorado nenhum ativo. Além disso, a sociedade estaria desviando bens em favor dos sócios.
+O recurso especial não foi admitido por incidência da Súmula 7 do STJ e pelo fundamento de que houve mera alusão a dispositivos no recurso especial.
+No agravo interposto contra tal decisão, os agravantes negam os óbices. Por sua vez, em contraminuta, os agravados retomam as teses já apresentadas.
+Assim delimitada a controvérsia, passo à análise do recurso.
+Ao se manifestar sobre a desconsideração da personalidade jurídica, assim se manifestou o acórdão na origem:
+Ocorre que foram várias as tentativas de descobrir patrimônio da empresa codevedora "Pamplona" passível de excussão que restaram infrutíferas, conforme descrito às f. 90/92 dos autos do cumprimento.
+A indicação genérica de imóveis da pessoa jurídica apenas em embargos de declaração opostos pelos agravantes à decisão ora impugnada (f. 154/170 dos autos principais) não se afigura como meio adequado para contrariar o aludido decisório.
+Observa-se que nos autos da execução houve determinação do Juízo de indicação pelas devedoras de bens suscetíveis de penhora (f. 99 dos autos do cumprimento) e diante da ausência de indicação houve a fixação de multa por ato atentatório (f. 187/189), cuja possibilidade de aplicação já havia sido alvitrada na decisão anterior, confirmada por esta Câmara em acórdão sob minha relatoria.
+Inclusive, no mesmo julgamento se reconheceu a impossibilidade de obrigar os exequentes a aceitarem a indicação de imóveis que estão indisponíveis por força de decisão exarada em Ação Civil Pública.
+(..)
+Cumpre repisar que a falta de indicação de bens suficientes à satisfação do crédito, nos autos da execução e na condição de livres e desembaraçados, revela-se como óbice incontornável ao ressarcimento dos prejuízos causados ao consumidor, circunstância a autorizar, portanto, o alcance de bens de terceiros, no caso os sócios da devedora (fls. 548-550, grifou-se).
+Verifica-se que o Tribunal de origem concluiu que, no patrimônio da executada, não existem bens livres passíveis de penhora, havendo óbice incontornável ao ressarcimento dos prejuízos causados aos consumidores , de modo que acolher a tese do recurso no sentido de que há patrimônio penhorável é medida que exigiria o reexame dos fatos e provas dos autos, providência vedada pela Súmula 7 do STJ.
+Além disso, o art. 28, § 5º, do CDC não exige a concessão de recuperação judicial ou decretação de falência como requisitos para a desconsideração da personalidade jurídica, o que atrai a incidência da Súmula 284 do STF quanto ao ponto.
+Em face do exposto, nego provim ento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
