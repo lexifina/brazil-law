@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interno interposto por T.M. CONSULTORIA EMPRESARIAL LTDA. contra decisão monocrática proferida pela Presidência do STJ, que aplicou a Súmula 182 do STJ (fls. 482-483).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS assim ementado (fl. 314):
+APELAÇÃO CÍVEL. DIREITO EMPRESARIAL E PROCESSUAL CIVIL. PEDIDO DE FALÊNCIA DEDUZIDO NA VIGÊNCIA DO DECRETO-LEI Nº 7.661/1945. SENTENÇA QUE EXTINGUIU O FEITO SEM RESOLUÇÃO DO MÉRITO POR AUSÊNCIA DE CONDIÇÃO DA AÇÃO. INSURGÊNCIA RECURSAL DA EMPRESA CREDORA. ARGUMENTO DE NULIDADE DE SENTENÇA POR ERROR IN PROCEDENDO DO JUÍZO SENTENCIANTE, QUE NÃO TERIA POSSIBILITADO AO CREDOR SANAR O VÍCIO APONTADO. REJEITADO. IDENTIFICAÇÃO DO RECEBEDOR DA NOTIFICAÇÃO DO PROTESTO QUE CONSTITUI REQUISITO PARA O PEDIDO FALIMENTAR. ART. 10 DO DECRETO-LEI Nº 7.661/1945 (ANTIGA LEI DE FALÊNCIAS). SÚMULA Nº 361/STJ. PRECEDENTES DO STJ. APELANTE QUE FOI DEVIDAMENTE INTIMADA PARA SE MANIFESTAR SOBRE A AUSÊNCIA DE IDENTIFICAÇÃO DO RECEBEDOR DO PROTESTO, EM VIOLAÇÃO AO ART. 10 DO DECRETO-LEI Nº 7.661/1945. EMPRESA QUE, APESAR DE TER ATRAVESSADO PETIÇÃO NOS AUTOS DEPOIS DE INTIMADA, NÃO CORRIGIU O VÍCIO. PRECLUSÃO. JUÍZO QUE OBSERVOU O CONTRADITÓRIO E A AMPLA DEFESA DA PARTE APELANTE. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. HONORÁRIOS RETIFICADOS.
+Embargos de declaração rejeitados (fl. 371):
+EMBARGOS DE DECLARAÇÃO. JULGADO QUE MANTEVE INCÓLUME A SENTENÇA VERGASTADA. TESE DE OMISSÃO QUANTO A PEDIDO DE SUSPENSÃO DO PROCESSO QUE PRECEDERIA A JUNTADA DOS DOCUMENTOS FALTANTES AO PEDIDO FALIMENTAR. REJEITADO. EMBARGANTE QUE FOI INTIMADA A SE MANIFESTAR ESPECIFICAMENTE SOBRE OS PRESSUPOSTOS PROCESSUAIS DA AÇÃO E NÃO SUPRIU OS VÍCIOS. INEXISTÊNCIA DE OMISSÃO. ALEGAÇÃO DE QUE O ACÓRDÃO NÃO TERIA CONSIDERADO QUE A SÚMULA Nº 361/STJ NÃO INCIDIRIA AO CASO. AFASTADA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO QUANTO AO PONTO DE INFLEXÃO. VIA DOS ACLARATÓRIOS QUE NÃO SE PRESTA À INOVAÇÃO RECURSAL TAMPOUCO À REDISCUSSÃO DA MATÉRIA. ACÓRDÃO QUE ENFRENTOU ADEQUADAMENTE A INSURGÊNCIA RECURSAL. MANUTENÇÃO. RECURSO CONHECIDO E NÃO ACOLHIDO.
+No presente agravo interno, sustenta a parte agravante que (fl. 489):
+ ..  a decisão agravada não merece prosperar, pois, da análise do Agravo em Recurso Especial, de forma contrária ao que foi aduzido na decisão agravada, verifica-se que houve impugnação específica ao óbice da Súmula nº 07/STJ. Isso porque a Agravante enfrentou, de maneira minuciosa e fundamentada, todos os argumentos utilizados pela decisão de inadmissão do Recurso Especial, especialmente no que se refere à suposta necessidade de revolvimento do acervo fático-probatório.
+Pugna, por fim, cas o não seja reconsid erada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Não foram apresentadas contrarrazões (fl. 512).
+É, no essencial, o relatório.
+Assiste razão à parte agravante quanto à necessidade de afastamento da Súmula 182/STJ, porquanto houve impugnação específica de todos os fundamentos da decisão agravada.
+Assim, reconsidero a decisão de fls. 482-483 , que não conheceu do agravo em recurso especial, e dou provimento ao agravo interno.
+Retornem conclusos os autos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. RECONSIDERAÇÃO. IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. AGRAVO INTERNO PROVIDO.
