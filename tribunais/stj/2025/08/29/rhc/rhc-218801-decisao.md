@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por NICOLAS LAUANDER MASCATI SILVA, com pedido liminar, contra acórdão proferido pelo TRIBUNAL DE MINAS GERAIS.
+O recorrente foi preso em flagrante no dia 24/4/2025 pela prática, em tese, do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A prisão em flagrante foi convertida em prisão preventiva pelo Juízo de origem, sob a justificativa de garantir a ordem pública, devido à quantidade expressiva de drogas apreendidas e à periculosidade do réu, ora recorrente.
+O TJ/MG denegou a ordem de habeas corpus lá ajuizada, mantendo a prisão preventiva.
+Sustenta a parte recorrente que a decisão que decretou a prisão preventiva do é genérica e não apresenta elementos concretos que justifiquem a medida extrema.
+Argumenta que o paciente é primário, possui bons antecedentes e residência fixa, e que a quantidade de drogas apreendida não é suficiente para obstar sua liberdade.
+Alega ainda que a prisão preventiva afronta os princípios constitucionais da presunção de inocência e do devido processo legal, e que medidas cautelares alternativas seriam suficientes para garantir os objetivos da prisão preventiva.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva com a aplicação de medidas cautelares alternativas.
+A liminar foi indeferida, e as informações prestadas.
+O Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 834):
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PRESENÇA DOS REQUISITOS DESCRITOS NO ART. 312, CPP. GRAVIDADE CONCRETA DA CONDUTA. CIRCUNSTÂNCIAS DA PRISÃO. EXPRESSIVA QUANTIDADE DE ENTORPECENTES APREENDIDOS, DENTRE OS QUAIS ESTÁ O CRACK, DROGA DE ALTÍSSIMO PODER DEVASTADOR. RÉU QUE, BENEFICIADO COM A SUBSTITUIÇÃO DA PRISÃO CAUTELAR POR OUTRAS MEDIDAS, EM PROCESSO CRIMINAL ANTERIOR, VOLTOU A PRATICAR O DELITO DE TRÁFICO DE DROGAS. REAL POSSIBILIDADE DE REITERAÇÃO CRIMINOSA. TOTAL DESCASO COM A JUSTIÇA. PARECER PELO DESPROVIMENTO DO RECURSO.
+Na origem, Processo n. 5004582-05.2025.8.13.0693, conforme informações processuais extraídas do site do TJ/MG em 27/8/2025, os autos foram conclusos para julgamento nessa mesma data.
+É o relatório. Decido.
+A Constituição da República assegura, no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O Tribunal de origem assim se manifestou (fls. 395-396):
+ ..  na residência onde o Paciente se encontrava, foi localizada expressiva quantidade de entorpecentes, de natureza variada (uma porção sólida e doze unidades da substância crack, com massa total de 499,17g, e três buchas da substância maconha, com peso de 4,30g), confirmando, ao menos a priori, as suspeitas de que praticava a mercancia ilícita.
+Nesse cenário, por vislumbrar que a quantidade expressiva de drogas demonstra a gravidade concreta do delito e que o autuado não comprovou a residência fixa na comarca, nem o exercício de trabalho lícito, indicando que vem se valendo da traficância para fins de subsistência, não restam dúvidas acerca da periculosidade e do risco concreto de reiteração, tornando-se imperiosa a restrição da liberdade para garantia da ordem pública. ..
+Extrai-se da decisão que decretou a prisão cautelar (fl. 196):
+ ..  Nessa senda, a propensão criminosa dos autuados restaram demonstradas pelas circunstâncias em que os fatos se deram, o que permite sacrificar o direito individual do cidadão, em favor do interesse social de garantia da ordem pública, de modo a resguardar a sociedade do risco de que, em liberdade, os agentes voltem a cometer novos crimes, mormente, o tráfico de drogas. A segregação cautelar dos autuados não infringe o princípio da presunção de inocência, por ter caráter meramente cautelar, e justifica-se, obviamente, pela periculosidade concreta da conduta, ante a grande quantidade de drogas apreendidas - mais de 400g de crack e 03 (três) buchas de maconha, aliada apreensão de duas balanças de precisão e saquinhos plásticos. Portanto, é razoável crer que o perigo gerado pelo estado de liberdade dos imputados e a manutenção da ordem pública são motivos suficientes a justificar a medida cautelar, estando presentes, desta forma, os requisitos do art. 312 do CPP. ..
+Como se vê, descaracteriza-se a alegação indevida de inidoneidade do decreto prisional, haja vista a quantidade de drogas apreendidas, em destaque acima.
+"O Supremo Tribunal Federal já concluiu que "mostra-se idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela quantidade, variedade e natureza da droga apreendida" (HC n. 210.563 AgR, relator Nunes Marques, Segunda Turma, julgado em 9/5/2022, DJe 6/6/2022)" (AgRg no HC n. 972.161/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Noutra vertente, " s ão inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves." (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Diante do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
