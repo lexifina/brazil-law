@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO PARANÁ, contra a decisão que não conheceu do agravo em recurso especial interposto pela parte adversa.
+Nas razões recursais, a parte agravante defende que há de se majorar a verba honoraria, nos termos do art. 85, § 11, do CPC.
+Passo a decidir.
+Exerço o juízo de retratação em relação à decisão de e-STJ fls. 1.350/1.357, unicamente para promover a condenação dos ora agravados ao pagamento de honorários recursais.
+Com efeito, segundo o § 11 do art. 85 do CPC/2015, "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+A Corte Especial do STJ estabeleceu os seguintes requisitos, simultaneamente, para a majoração da verba honorária sucumbencial: a) decisão recorrida publicada a partir de (quando entrou em vigor o novo Código de 18/3/2016 Processo Civil); b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 7/3/2019).
+Na hipótese, em relação ao primeiro agravo em recurso especial (e-STJ fls. 1.100/1.116) interposto pelos ora agravados, de fato, deveria ter sido majorada a verba honorária.
+Ante o exposto, exerço o juízo de retratação para que, na decisão de e-STJ fls. 1.350/1.357, conste expressamente a condenação dos ora agravados em honorários recursais, nos seguintes termos: "Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça."
+Publique-se. Intimem-se.
+EMENTA
