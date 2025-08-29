@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo BANCO DO BRASIL SA, com fundamento na incidência , por analogia, das Súmulas 282 e 356 do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo, passo à análise do recurso especial, que não merece prosperar.
+Cuida-se de recurso especial interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - LEGITIMIDADE PASSIVA - PASE P - ADMINISTRADOR DE CONTAS - TEMA 1150 STJ. O STJ tem entendimento consolidado através do Tema 1150, quanto à legitimidade passiva do Banco do Brasil em demandas que visam a discutir desfalques nos valores relativos ao Pasep (fl. 519).
+Nas razões do recurso especial, a parte recorrente esclarece o funcionamento do PASEP e discorre sobre a legislação acerca das valorizações aplicadas às contas individuais.
+Aponta violação ao art. 4º, XII do Decreto 9.978/2019, ao argumento de que a ação visa substituir os índices oficiais de remuneração do PASEP, sendo a legitimidade passiva da União.
+Defende que o Banco do Brasil não possui competência para definir índices de correção monetária e taxa de juros nas contas do PIS/PASEP, sendo tal atribuição do Conselho Diretor do Fundo, vinculado à União.
+O Tribunal de origem dirimiu a controvérsia com os seguintes fundamentos:
+Cinge-se a controvérsia em aferir se o Agravante é parte legítima passiva para figurar na ação proposta pela Agravada, que visa ao reconhecimento da aplicação incorreta da correção monetária e juros de mora sobre os valores do Pasep.
+A discussão acerca da legitimidade do Agravante para figurar em ações da mesma natureza da presente demanda, foi objeto de análise pelo STJ, que firmou a tese através do tema repetitivo n. 1150:
+i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa;
+ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil; e
+iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao Pasep.
+Saliente-se não ser necessária a inclusão da União no polo passivo, porquanto o Agravante é o gestor direto do Pasep, nos moldes do art. 5º, da Lei Complementar n. 8, de 3.12.1970, in verbis:
+Art. 5º - O Banco do Brasil S. A., ao qual competirá a administração do Programa, manterá contas individualizadas para cada servidor e cobrará uma comissão de serviço, tudo na forma que for estipulada pelo Conselho Monetário Nacional.
+Logo, é inquestionável a legitimidade do Agravante para figurar no polo passivo da ação, eis que a pretensão da Agravada é discutir os desfalques nos valores provenientes do Pasep.
+Conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, o art. 4º, XII do Decreto 9.978/2019 não foi objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão.
+Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Ademais, a Corte de origem consignou que é inquestionável a legitimidade passiva do ora agravante, eis que a pretensão recursal é discutir os desfalques nos valores provenientes do Pasep, anotando que o Banco do Brasil é gestor direto do Pasep, a teor do art. 5º da LC 8 de 1970.
+Constata-se, portanto, a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Por fim, importante destacar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados -, nos termos do art. 541, parágrafo único, do CPC/1973; e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Ademais, os mesmos óbices impedem o conhecimento do apontado dissídio jurisprudencial. Nesse sentido, "o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial" (AgInt no AREsp 1.372.011/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 30/8/2019).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
