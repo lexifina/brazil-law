@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 441):
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TRANSCURSO DE MENOS DA METADE DO PRAZO ANTES DO PRIMEIRO MARCO INTERRUPTIVO. EXECUÇÃO PROPOSTA ANTES DE TRANSCORRIDOS 5 ANOS. SENTENÇA CASSADA. RECURSO PROVIDO.
+O recorrente alega violação do artigo 489, § 1º, inciso VI, do CPC/2015, ao argumento de que a Corte de origem deixar de seguir jurisprudência invocada pela parte para fins de reconhecimento da correta contagem do prazo prescricional, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Quanto às questões de fundo, sustenta ofensa aos artigos 9º do Decreto Federal nº 20.910/1932 , sob os seguintes argumentos: (a) erro na interpretação do artigo 9º do Decreto Federal nº 20.910/1932, que prevê que a prescrição interrompida recomeça a correr pela metade do prazo; (b) necessidade de observância dos preceitos contidos na Súmula 383/STF.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 472-474.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A questão debatida nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.033), e foi assim delimitada:
+"Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas" (REsps 1.801.615/SP e 1.774.204/RS, relator Ministro Raul Araújo).
+Nesse sentido, segundo a sistemática dos recursos repetitivos, prevista nos arts. 1.036 a 1.041 do CPC/2015, uma vez reconhecida a existência de repercussão geral pelo Supremo Tribunal Federal, ou afetado recurso especial como repetitivo por esta Corte Superior, impõe-se a suspensão do processo até o julgamento do tema.
+Julgado o tema e publicado o acórdão paradigma, o Tribunal de origem deverá negar seguimento aos recursos se o acórdão recorrido coincidir com a orientação do Tribunal Superior, ou então reexaminar o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a tese firmada em sede de repercussão geral ou recurso repetitivo, nos termos do art. 1.040 do CPC/2015.
+Ante todo o exposto, julgo prejudicado o presente recurso especial e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos, e em observância aos arts. 1.030 e 1.040 do CPC/2015: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; ou b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. TEMA REPETITIVO 1.033/STJ. SUSPENSÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PREJUDICADO.
