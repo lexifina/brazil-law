@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 466):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O agravante sustenta que "Com o devido respeito, no agravo em recurso especial o Agravante impugnou especificamente todos os pontos da r. decisão denegatória, inclusive teceu fundamentação vasta demonstrando que o caso em apreço se trata exclusivamente da matéria legal violada" (fl. 477).
+Com impugnação.
+É o relatório. Decido.
+De início, em razão de ter havido, nas razões do agravo anterior, a impugnação específica de todos os pontos da decisão de origem, que inadmitiu o recurso especial, exerço o juízo de retratação facultado pelo art. 259 do Regimento Interno desta Corte, e torno sem efeito a decisão de fls. 466-467.
+Nesse contexto, passo à análise do recurso especial.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No recurso especial, o recorrente alega violação dos artigos 489, § 1º, IV e 1.022 do CPC/2015, ao fundamento de que "o Tribunal a quo não se pronunciou sob o fato trazido neste recurso, de que o cumprimento de sentença está sendo realizado de forma diversa da que está prevista no título, em flagrante ofensa a coisa julgada" (fl. 363).
+Quanto às questões de fundo, sustenta, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos legais: (a) artigos 489, III, 491, I, II, §§ 1º e 2º, 502 e 503, § 1º, I a III, do CPC/2015, ao argumento de que "o V. Acórdão recorrido não observou e nem enfrentou, que o momento da atualização monetária e o valor do ressarcimento ao erário deveria considerar a data em que efetivamente DESEMBOLSO ocorreu  ..  Assim, atualizar a planilha com base na data de emissão da nota fiscal (forma apresentada pelo Ministério Público) ofende a coisa julgada, pois fixou termo inicial para correção diverso daquele que constou no título judicial" (fl. 358); e (b) artigo 509 do CPC/2015, tendo em vista que, no cumprimento de sentença dos autos, "não é o caso de simples cálculos aritméticos, e, ainda, que necessitará de prévio procedimento de liquidação com a determinação de perícia judicial se necessário, conforme havia sido consignado na sentença condenatória" (fl. 363).
+Contudo, a pretensão não merece prosperar.
+Com efeito, afasta-se a alegada violação dos artigos 489, § 1º, IV e 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito à alegação de ofensa aos artigos 489, III, 491, I, II, §§ 1º e 2º, 502 e 503, § 1º, I a III, e 509 do CPC/2015, o acórdão recorrido consignou o seguinte (fls. 312-313):
+ ..  O apontamento é, de fato, unilateral. Mas não poderia ser diferente, pois compete ao exequente apontar o quantum debeatur.
+Se com ele não concordar a parte contrária, deve impugná-lo, trazendo, de seu lado, novo cálculo, com correção de eventuais desvios.
+Agravante, no entanto, apesar de evidenciar descontentamento com a conta em si (excesso de execução), limitou-se a invocar a nulidade da cobrança.
+A tese, como se vê, lastreia-se em suposta irregularidade quanto ao termo inicial para incidência da correção monetária. Segundo entende, o cálculo deveria levar em conta a data do efetivo desembolso e não da emissão das notas fraudulentas.
+Ora, se isso é verdade, então não se antevê questionamento quanto à legitimidade da cobrança senão ao valor dela oriundo, como já antecipado.
+A questão, portanto, não envolve discussão sobre a necessidade ou não de liquidar a sentença, mas sobre o "excesso de execução" eventualmente constante no cálculo apresentado pelo agravado.
+Inadmissível condicionar o embate à tese da necessidade de se instaurar procedimento de arbitramento.
+Com isso, escapou o agravante de seu verdadeiro encargo processual no sentido de especificar de imediato ".. o valor que entende correto, apesentando demonstrativo discriminado e atualizado de seu cálculo." (art. 525, § 4º, CPC).
+Embora haja observação na sentença quanto à ulterior liquidação do prejuízo aferido ".. a ser apurado em liquidação de sentença..", despiciendo assumir o expediente, uma vez que já é possível extrair dos autos todos os elementos necessários para tal apuração.
+Sendo a dívida facilmente aferível por meio de cálculo aritmético (art. 509, § 2º, CPC), qualquer procedimento voltado a liquidá-la representaria ofensa ao princípio da economia processual.
+Como bem observado na r. decisão agravada:
+"Como se infere, pretende a impugnante o reconhecimento da inexigibilidade do título executivo judicial, sendo necessário, primeiramente, sua liquidação."
+"No entanto, apesar do título executivo judicial prever, de fato, a necessidade de liquidação dos valores (fls. 132/142), é certo que "Quando a apuração do valor depender apenas de cálculo aritmético, o credor poderá promover, desde logo, o cumprimento da sentença", nos termos do artigo 509, § 2º, do Código de Processo Civil."
+"No presente caso, nota-se que a condenação pecuniária pode ser obtida por meio de meros cálculos aritméticos, sendo totalmente desnecessário, para se alcançar o quantum debeatur, a instauração de procedimento de liquidação do julgado."
+"Mesmo que assim não fosse, "a liquidação por forma diversa da estabelecida na sentença não ofende a coisa julgada" (súmula 344 do STJ)."
+"Ademais, por meio de relatório contábil do CAEX (Centro de Apoio Técnico), a parte exequente apresentou a memória de cálculo (fls. 04/06) pormenorizada do que entende devido, cabendo à parte executada sua impugnação específica, o que não houve."
+"Sem embargo, "Incumbe também ao réu manifestar-se precisamente sobre as alegações de fato constantes da petição inicial, presumindo-se verdadeiras as não impugnadas", na forma do artigo 341 do Código de Processo Civil."
+"Não obstante, o cálculo apresentado pela parte exequente está correto, em especial, atendo-se aos parâmetros fixados na sentença (título executivo judicial)."
+"Destarte, de rigor a improcedência dos pedidos." (fl. 263)
+De mais a mais, não se cogita da realização de Perícia, com prejuízo ao andamento da fase executória, gerando despesas e expedientes desnecessários às partes.
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Sobre o dissídio jurisprudencial alegado, tem-se que, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Assim, resta prejudicado o dissídio jurisprudencial alegado.
+Ante o exposto, torno sem efeito a decisão de fls. 466-467 e conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTIGOS 489, § 1º, IV E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. CONHEÇO DO AGRAVO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
