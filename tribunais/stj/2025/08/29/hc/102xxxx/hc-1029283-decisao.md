@@ -1,0 +1,25 @@
+DECISÃO
+DANIEL DA SILVA RODRIGUES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. º 2195632-56.2025.8.26.0000.
+Consta dos autos que o paciente está preso desde 14/4/2025 pela suposta prática do crime descrito no art. 157, § 2º, II e V, e § 2-A, II, do Código Penal.
+A defesa postula a revogação da prisão preventiva decretada em desfavor do paciente.
+Sustenta a ocorrência de excesso de prazo da medida cautelar.
+Afirma que a prisão provisória é desnecessária e que o único indício de autoria delitiva consiste em reconhecimento fotográfico realizado, em seu entender, em desconformidade com o procedimento descrito no art. 226 do CPP.
+Decido.
+I. Supressão de instância
+De plano, registro que, em relação à alegada nulidade do reconhecimento fotográfico e à ausência de provas acerca da autoria delitiva, o habeas corpus não pode ser conhecido.
+Deveras, por se tratar de questão diretamente ligada aos fatos e aos elementos concretos que porventura justifiquem a ação dos agentes estatais, é necessário que haja o prévio debate (prévia apreciação) pelas instâncias ordinárias, as quais possuem amplo espectro cognitivo que permitiria, por isso mesmo, imiscuir-se no próprio contexto fático, providência essencial para o deslinde da controvérsia.
+No caso, a nulidade apontada, que até poderia resvalar no édito prisional, não foi nem sequer tangenciada pelo Tribunal de origem, que nada tratou a respeito da matéria, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Registro, por oportuno, que tal matéria deveria haver sido suscitada perante o Juízo competente no prazo oportuno, até para possibilitar às instâncias ordinárias, soberanas na análise de provas como referido alhures, um pronunciamento seguro sobre a questão, de modo que é vedada, portanto, a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+II. Manutenção da prisão preventiva
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, as instâncias ordinárias apontou a "gravidade concreta dos fatos, na medida que o paciente, em comparsaria com outros quatro envolvidos, subtraiu para proveito comum, mediante grave ameaça exercida com emprego de arma de fogo e restrição de liberdade da vítima, diversos produtos do gênero alimentício, avaliados em R$ 13.377,77 e, ainda, junto dos demais acusados, obrigou a vítima, que conduzia veículo automotor, a mover-se ao banco do passageiro, conduzindo-a até a comunidade de Heliópolis, oportunidade em que começaram a transferir a carga do veículo Montana para um Fiat Fiorino, que pertence a um dos acusados, sendo, após a ação, a vítima libertada."
+Essas circunstâncias justificam, por ora, a custódia cautelar, de modo a afastar, ainda, a possibilidade imposição de medidas cautelares alternativas. Nessa perspectiva, esta Corte já decidiu em processo similar que a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020).
+Ademais, os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades. Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+Na hipótese, é possível verificar que se trata de procedimento complexo, com quatro réus. Além disso, observo que a prisão preventiva do paciente foi decretada há 4 meses .
+Diante do exposto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+III. Dispositivo
+À vista do exposto, conheço parcialmente do habeas corpus e, nesta extensão, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
