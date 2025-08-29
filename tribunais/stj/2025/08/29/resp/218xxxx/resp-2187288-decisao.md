@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADSON HIGINO SOARES contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Informam os autos que o recorrente foi condenado, em primeiro grau, à pena de 3 anos e 9 meses de reclusão, além de 13 dias-multa, pela prática do crime de furto qualificado, previsto no art. 155, § 4º, inciso II, do Código Penal (fls. 167-175).
+Em segunda instância, o Tribunal de origem, por unanimidade, conheceu do recurso de Apelação para dar-lhe parcial provimento, reduzindo a pena para 2 anos, 8 meses e 15 dias de reclusão, além de 13 dias-multa, mantendo a condenação pelo crime de furto qualificado (fls. 304-316).
+Nas razões do recurso especial (fls. 324-332), interposto com fundamento no art. 105, inciso III, alínea a, da Constituição da República, Adson Higino Soares sustenta a violação ao artigo 59, do Código Penal, alegando que a não restituição do bem não constitui fundamentação idônea para valorar negativamente as consequências do crime, por ser inerente ao tipo penal. Requer, por fim, o conhecimento e provimento do recurso a fim de que seja reduzida a pena-base imposta.
+Apresentadas as contrarrazões (fls. 336-339), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior (fls. 342-344).
+O Ministério Público Federal apresentou parecer pelo provimento do recurso (fls. 359-363).
+É o relatório. DECIDO.
+Nas razões do recurso especial, a Defesa pleiteia o reconhecimento da violação ao art. 59, do Código Penal e com isso o afastamento da exasperação da pena-base do crime de furto, pois a ausência de restituição da coisa subtraída é inerente ao tipo e por isso não pode fundamentar a aplicação da vetorial das consequências do crime.
+Acerca da controvérsia, assim se manifestou a Corte de origem (fls. 310-311):
+"Prefacialmente, registro que o meu entendimento é no sentido de que as consequências do delito realmente devem ser consideradas como desfavoráveis nos casos em que a res furtiva não for restituída à vítima, causando a ela prejuízo material.
+A verdade é que um dano patrimonial nem sempre é consequência lógica do delito de furto, uma vez que os bens furtados podem ou não ser restituídos à vítima do crime patrimonial, o que não pode ser desconsiderado quando da valoração da referida baliza judicial.
+Portanto, entendo que a não recuperação da res não é circunstância inerente ao crime de roubo, pois diante da não restituição do bem a vítima sofreu um prejuízo maior do que se houvesse a restituição do que foi roubado.
+Assim, em casos onde a res não é recuperada, ou apenas parcialmente recuperada, as consequências do crime devem, efetivamente, ser consideradas como circunstância negativa na primeira fase da dosimetria da pena, justificando o aumento da pena base.
+Lado outro, vejo como exacerbado o quantum de aumento de pena fixado em razão das duas basilares negativas, assim, tenho que deve incidir, em sua pena-base, a fração de 1/8 de aumento, para cada circunstância negativa, patamar, este, que, a meu ver, atende à reprovabilidade e prevenção do crime. Assim, procedo com a redução da pena-base para 02 (dois) anos, 06 (seis) meses de reclusão, e 12 (doze) dias-multa."
+Esta Corte possui firme entendimento no sentido de que a dosimetria da pena se insere em juízo de discricionariedade do magistrado, observado o livre convencimento motivado, sendo passível de revisão somente em caso de flagrante ilegalidade ou desproporcionalidade (AgRg no HC n. 869.056/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023.).
+Acontece que o entendimento da Corte local contrariou a jurisprudência deste STJ, segundo a qual "A não devolução, à vítima, dos bens furtados é elemento intrínseco do tipo penal do crime de furto, de maneira que não pode ser utilizado para justificar a exasperação da pena-base a título de circunstância judicial negativa (consequências do crime)." (AgRg no Ag 1.139.707/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/06/2016, DJe 01/08/2016).
+Em reforço:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. BEM NÃO RESTITUÍDO. PREJUÍZO INERENTE AO TIPO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O fato de não ter havido restituição da res furtivae à vítima é elemento integrante do tipo - furto - e, por conseguinte, é motivação inidônea para a exasperação da pena-base por valoração negativa do vetorial consequências do crime (ut, AgRg no REsp n. 1.757.377/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/5/2019 .
+2. Agravo regimental não provido."
+(AgRg no REsp n. 2.198.745/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025.)
+" ..
+3. A jurisprudência do Superior Tribunal de Justiça considera inadequado valorar negativamente as consequências do crime com fundamento na não restituição dos bens à vítima, pois esse fator é inerente ao próprio tipo penal do furto, não constituindo circunstância autônoma para justificar a exasperação da pena-base.
+ .. "
+(REsp n. 2.165.648/PA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Assim, estando o acórdão prolatado pelo Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, imperativa é sua reforma para o ajuste da dosimetria.
+Feitas essas considerações, passo ao redimensionamento da pena. Na primeira fase, subsiste apenas a circunstância judicial desfavorável dos maus antecedentes. Mantida a fração de aumento fixada pelo Tribunal de origem, estabeleço a pena-base em 2 (dois) anos e 3 (três) meses de reclusão, além de 11 (onze) dias-multa.
+Na segunda fase, conservo o aumento de 1/12 (um doze avos), resultando em pena provisória de 2 (dois) anos, 5 (cinco) meses e 7 (sete) dias de reclusão e 11 (onze) dias-multa.
+Ausentes causas de aumento ou diminuição na terceira fase, torno definitiva a reprimenda em 2 (dois) anos, 5 (cinco) meses e 7 (sete) dias de reclusão, e 11 (onze) dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, redimensionando a pena do réu para 02 (dois) anos, 05 (cinco) meses e 07 (sete) dias de reclusão, além de 11 (onze) dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO PELO USO DE ARMA DE FOGO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. DANO PSICOLÓGICO SOFRIDO PELA VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. CAUSA DE AUMENTO DE PENA PELO EMPREGO DE ARMA DE FOGO. REVALORAÇÃO DAS CIRCUNSTÂNCIAS FÁTICAS. POSSIBILIDADE. PRESCINDIBILIDADE DE APREENSÃO E PERÍCIA DO ARMAMENTO. SUFICIÊNCIA DAS PROVAS PRODUZIDAS. PRECEDENTES. SÚMULA N. 568/STJ. REDUÇÃO DE FRAÇÃO DESSA MAJORANTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356, AMBAS DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DESPROVIDO.
