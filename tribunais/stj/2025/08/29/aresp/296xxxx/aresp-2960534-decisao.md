@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE AUGUSTO D AVILA LIMA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que deu parcial provimento à apelação interposta para reduzir a pena do agravante para 05 anos e 06 meses de reclusão, mantidos, no mais, os demais termos da sentença.
+A parte agravante, às fls. 551-558, sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto.
+Contraminuta às fls. 565/566.
+O Ministério Público Federal às fls. 580-584 manifestou-se pelo não conhecimento do agravo e, caso conhecido, pelo desprovimento do recurso especial.
+É o relatório. DECIDO.
+Tendo em conta os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial .
+Nada obstante entendo ser impossível conhecer do recurso com fulcro na Súmula n. 83 deste Superior Tribunal de Justiça.
+Nas razões do recurso especial, defende o agravante a desproporcionalidade da fração utilizada para reduzir a reprimenda imposta em razão do reconhecimento da atenuante da confissão espontânea.
+De início, releva frisar o entendimento desta Corte Superior no sentido de que a escolha do patamar a ser observado para modular a pena não se prende a rígidos critérios meramente matemáticos, possuindo o julgador certa margem de discricionariedade, sempre pautada nos princípios da razoabilidade, da proporcionalidade e da individualização da pena.
+Embora usualmente adotada a fração de 1/6 ou 1/8 para a modulação da pena, nada impede que o juiz, a depender das circunstâncias do caso concreto, adote fração maior ou menor, desde que o faça de for fundamentada.
+No caso, sobre a questão, assim se manifestou o Tribunal recorrido:
+Na primeira fase, a pena foi fixada 6 meses acima do mínimo legal em razão dos maus antecedentes. No caso, não há reparo a ser feito, pois o réu registra quatro condenações definitivas anteriores (processos nº 001/2.12.0092099-4, 001/2.16.0063631-2, 001/2.16.0063635-5, 001/2.17.0041362-5) conforme certidão acostada aos autos originários. Na segunda fase, em que pese não haja recurso defensivo no ponto, verifico que a parcial confissão do réu em juízo deve ser reconhecida. A jurisprudência firmou-se no sentido de que "o réu faz jus à atenuante da confissão espontânea quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (AgRg no REsp n. 2.071.163/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023). Assim, cabível o reconhecimento da atenuante, pela qual, considerando se cuidar de confissão parcial e qualificada, reduzo a pena-base em 1/12, chegando à pena provisória de 4 anos, 1 mês e 15 dias de reclusão. Na terceira fase, presente a majorante do concurso de pessoas, aumento a pena em 1/3, totalizando a pena definitiva em 5 anos e 6 meses de reclusão, mantidas as demais disposições sentenciais.
+Com efeito, acerca da atenuante da confissão espontânea, prevista no art. 65, inciso III, alínea "d" do Código Penal, este Tribunal editou o enunciado nº 545 da súmula de seu entendimento predominante que possui a seguinte redação: "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+No entanto, a despeito disso, a atenuante, quando constatada a sua ocorrência no caso concreto, pode ser modulada, com base em adequada fundamentação.
+Veja-se:
+ ..  A jurisprudência do Superior Tribunal de Justiça reconhece como adequada a aplicação da fração de 1/12 para os casos de confissão qualificada  ..  (AgRg no AgRg no HC 855152/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 30/09/2024, DJe em 03/10/2024).
+Destarte, o entendimento adotado pela Corte de origem se alinha ao posicionamento prevalente neste Tribunal Superior, não cabendo o conhecimento do recurso especial, em razão do óbice da Súmula 83, STJ.
+Logo, impossível aceder com a parte recorrente.
+Ante o exposto, com fundamento no art. 253, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
