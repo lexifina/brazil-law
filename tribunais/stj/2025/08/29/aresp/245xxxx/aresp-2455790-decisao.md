@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por CONCESSIONÁRIA ROTA DAS BANDEIRAS S.A. contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 1.065):
+Processual Civil. Nulidade de sentença. Cerceamento de prova. Inocorrência. Preliminar afastada.
+Ação ordinária. Contrato de concessão de rodovias. Queda do rating soberano e, consequentemente, do rating da autora como emissora de infraestrutura. Revisão contratual. Descabimento. Situação sob vigência da Lei Federal 8.987/95. Risco da atividade atribuído à concessionária, a quem incumbe captar, aplicar e gerir os recursos financeiros necessários (artigos 2º, II e 31, VIII, ambos da LF 8.987/95). Condições contratuais atendidas, mantido o equilíbrio econômico-financeiro (art. 10). Improcedência da ação que se mantém. Critério para verba honorária. Fixação por apreciação equitativa. Recurso provido em parte.
+Embargos de declaração rejeitados (e-STJ fls. 1.150/1.157).
+Juízo de conformação com o Tema 1.076 do STJ realizado em aresto com a seguinte ementa (e-STJ fl. 1.337):
+Ação ordinária. Contrato de concessão de rodovias. Revisão contratual. Ação improcedente. Critério para verba honorária. Regência pelo Tema 1.076/STJ. Adequação que se faz. Recurso desprovido.
+No recurso especial obstaculizado, a parte recorrente apontou,
+Aclaratórios rejeitados (e-STJ fls. 1.354/1.358).
+No recurso especial obstacularizado, a parte insurgente apontou ofensa aos seguintes dispositivos legais:
+(a) art. 489, § 1º, IV e 1.022, do Código de Processo Civil, porque, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre questões relevantes ao deslinde da controvérsia;
+(b) arts. 355, I, 369 e 464, § 1º, I, do CPC, aduzindo que apenas a redução do risco do país é notória, sendo imprescindível a produção de prova técnica para se reconhecer as causas e as consequências do rebaixamento de sua nota de risco do "rating", a fim de aferir se estariam dentro do grau aceitável ou a existência de alteração extraordinária a possibilitar o reequilíbrio econômico-financeiro do contrato;
+(c) art. 65, II, "d", da Lei n. 8.666/1993, sustentando que a cláusula contratual indicada se refere a risco ordinário e, no caso, se trata de evento extraordinário e para o qual não concorreu ou teve atuação, devendo ser reconhecida a ruptura das condições inicialmente pactuadas e a aplicação da referida legislação;
+(d) art. 371 do CPC, pois desconsiderou provas nos autos, as quais comprovam que o rebaixamento do "rating" decorreu exclusivamente da conjuntura econômica e política do País; e
+(e) art. 85, §§ 2º e 11, do CPC, alegando a desproporcionalidade da majoração dos honorários recursais após o juízo de conformação, porque o acréscimo passou de R$ 5.000,00 para aproximadamente R$ 800.000,00, alcançando o percentual máximo sem nenhuma justificativa.
+Contrarrazões às e-STJ fls. 1.430/1.458, em que se sustenta a incidência das Súmulas 5 e 7 do STJ e, se superado este ponto, a ausência de ofensa aos dispositivos legais apontados como contrariados.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 1.561/1.563).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fls. 1.566/1.644), é o caso de examinar o recurso especial.
+Verifica-se que assiste, em parte, razão ao recorrente em relação à ofensa ao art. 1.022 do CPC/2015.
+De fato, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre as alegações i) de haver, nos autos, provas a demonstrar que o rebaixamento do "rating" estava ligado exclusivamente à conjuntura do País, sendo inviável a utilização, para respaldar a conclusão do julgado, de relatório que não tem relação com a questão trazida na demanda, ii) da existência de outra cláusula no contrato que possibilitaria o reequilíbrio econômico-financeiro no caso específico tratado no caso.
+É certo que o magistrado, desde que amparado em fundamentação suficiente, não está obrigado a responder a todos os argumentos suscitados pela parte.
+Todavia, na espécie, constata-se que a Corte de origem manteve-se silente sobre questão relevante, a despeito de ter sido oportunamente provocada mediante aclaratórios.
+Assim, a ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 1.022 do CPC, para que a questão levantada pela recorrente seja apreciada pelo Tribunal de Justiça, à luz do caso concreto e dos elementos de convicção presentes nos autos, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO NO ACÓRDÃO CONFIGURADA. ANÁLISE DE QUESTÕES EMINENTEMENTE FÁTICAS EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO IMPROVIDO.
+1. Reconhecida a existência de omissão no acórdão recorrido e referindo-se o vício a questões eminentemente fáticas, impõe-se o retorno dos autos à Corte de origem para novo julgamento, tendo em vista a impossibilidade de esta Corte Superior adentrar a análise do acervo fático-probatório dos autos.
+2. Agravo interno improvido. (AgInt no AREsp 1149082/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação".
+3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1695486/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, por violação ao art. 1.022 do CPC de 2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos pelo recorrente às e-STJ fls. 1.129/.1.149 e sane o vício de integração ora identificado. Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
