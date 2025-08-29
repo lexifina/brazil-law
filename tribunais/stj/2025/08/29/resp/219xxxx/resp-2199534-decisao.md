@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por ODONTOLOGIA SCS LTDA., com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fls. 306):
+TRIBUTÁRIO. IRPJ E CSLL COM ALÍQUOTA REDUZIDA. "SERVIÇOS HOSPITALARES". CLÍNICA ODONTOLÓGICA.
+1. Tratando-se de clínica odontológica, o entendimento  rmado por esta Corte em sede de incidente de assunção de competência é de que "As atividades de clínica odontológica não se enquadram no conceito de serviços hospitalares para efeitos de redução na alíquota de tributos, constante do artigo 5, § 1º, inciso III, da Lei 9.249/95." IAC 5050534-39.2022.4.04.0000/RS
+2. Remessa oficial provida.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ fls. 337).
+Nas suas razões, a recorrente aponta violação dos arts. 15, § 1º, III, "a" e 20 da Lei n. 9.249/1995, além de divergência jurisprudencial.
+No mérito, alega, em resumo, que a sua atividade empresarial preenche os requisitos de serviços hospitalares e dos demais requisitos legais, conforme conceito já delimitado pelo Superior Tribunal de Justiça.
+Defende, ainda, que a decisão recorrida divergiu de diversos entendimentos sobre a matéria, já pacificados em outros Tribunais Regionais Federais e pelo Superior Tribunal de Justiça.
+Em juízo de retratação, a Corte de origem manteve o julgamento realizado pela Primeira Turma daquele Tribunal. Eis a ementa (e-STJ fl. 470):
+TRIBUTÁRIO. RETRATAÇÃO. TEMA 217/STJ.
+1. Tema 217/STJ: "Para fins do pagamento dos tributos com as alíquotas reduzidas, a expressão "serviços hospitalares", constante do artigo 15, § 1º, inciso III, da Lei 9.249/95, deve ser interpretada de forma objetiva (ou seja, sob a perspectiva da atividade realizada pelo contribuinte), devendo ser considerados serviços hospitalares "aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde", de sorte que, "em regra, mas não necessariamente, são prestados no interior do estabelecimento hospitalar, excluindo-se as simples consultas médicas, atividade que não se identifica com as prestadas no âmbito hospitalar, mas nos consultórios médicos"".
+2. Não há divergência entre a tese firmada no Incidente de Assunção de Competência nº 5050534-39.2022.4.04.0000/RS e o Tema STJ 217.
+Contrarrazões apresentadas às e-STJ fls. 435/444.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial devido ao óbice da Súmula 7 do STJ (e-STJ fls. 501/502).
+Passo a decidir.
+Cuidam os autos, na origem, de mandado de segurança com o objetivo de autorizar a impetrante a recolher o IRPJ e a CSLL nos percentuais de 8% e 12%, respectivamente, sobre a receita bruta auferida pela atividade específica de prestação de serviços tipicamente hospitalares.
+O juízo de primeiro grau concedeu a segurança.
+O Tribunal de origem, ao examinar o recurso do Fazenda Nacional , deu-lhe provimento, nos seguintes termos (e-STJ fls. 304/305):
+A parte impetrante tem atuação na área odontológica, conforme se constata do documentação acostada aos autos, sobretudo o Comprovante de Inscrição e de Situação Cadastral e o contrato social:
+(..)
+O artigo 15, § 1º, inciso III, alínea "a", da Lei nº 9.249/1995 estabelece, como alíquota padrão do IRPJ, o percentual de 8%. A prestação de serviços, por sua vez, é tributada à alíquota de 32%, à exceção dos "serviços hospitalares e de auxílio diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas, desde que a prestadora destes serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa". Ou seja, os serviços hospitalares e de auxílio diagnóstico, dentre outros, sujeitam-se à alíquota padrão.
+Após alguma oscilação, a jurisprudência deste Tribunal passou a decidir no sentido que as empresas que atuam em serviços relacionados com a odontologia não podem ser equiparadas àquelas que prestam serviços hospitalares, não se aplicando a elas a orientação do Tema 217 do STJ.
+Em recente decisão, proferida em sede de Incidente de Assunção de Competência, a 1ªSeção desta Corte assim decidiu:
+(..)
+O artigo 927 do CPC é expresso quanto à determinação de que os Tribunais devem observar (i) as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (ii) os enunciados de súmula vinculante; (iii) os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos; (iv) os enunciados das súmulas do Supremo Tribunal Federal em matéria constitucional e do Superior Tribunal de Justiça em matéria infraconstitucional; e (v) a orientação do plenário ou do órgão especial aos quais estiverem vinculados.
+Portanto, é o caso de prover a remessa oficial, para o fim de denegar a segurança postulada.
+Pois bem.
+Cinge-se a controvérsia recursal a saber se a ora recorrente, pessoa
+jurídica dedicada à prestação de serviços de odontologia, enquadrar-se-ia na expressão "serviços hospitalares" constante do art. 15, § 1º, III, "a", da Lei n. 9.249/1995, de sorte a que lhe fosse reconhecido o direito à tributação privilegiada de IRPJ e da CSLL prevista no referido diploma legal.
+Orienta-se, a jurisprudência do STJ, no sentido de que as pessoas jurídicas dedicadas à prestação de serviços de odontologia, por não estarem incluídas na lista de empresas aptas à tributação privilegiada do IRPJ e da COFINS, nos termos do art. 15, III, "a", da Lei n. 9.249/1995, não fazem jus ao benefício tributário, sendo indevido, ademais, alargar esse rol mediante interpretação extensiva.
+Nesse diapasão:
+PROCESSUAL CIVIL. RECLAMAÇÃO. AJUIZAMENTO CONTRA ACÓRDÃO DE TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL E CONTRA DECISÃO DA PRESIDÊNCIA DA TNU QUE NÃO ADMITIU O INCIDENTE DE UNIFORMIZAÇÃO. INADEQUAÇÃO.
+1. Cuida-se de Reclamação, contra decisão proferida pela Turma Nacional de Uniformização, que não conheceu do Pedido de Uniformização fundado no art. 18, § 3º, da Lei 12.153/2009, por entender que a parte recorrente não teria demonstrado a existência de jurisprudência consolidada e majoritária em sentido favorável à sua tese.
+2. In casu, é incabível o manejo da reclamação como sucedâneo recursal, como se nota no caso concreto, não havendo nenhuma mácula à competência ou decisum do STF ou STJ. Assim, verifica-se que a Reclamação ajuizada com base no art. 988 do CPC/2015 pressupõe a demonstração de que o Tribunal de origem negou, de forma expressa, a autoridade de decisão proferida pela Corte ad quem (o que não se constata no presente caso), sob pena de banalizar o instrumento processual como mero sucedâneo recursal destinado a trazer ao STJ o rejulgamento da causa (AgInt na Rcl 34.655/DF, Rel. Min. Nancy Andrighi, Segunda Seção, DJe 13.4.2018; AgRg na Rcl 29.701/RJ, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 19.12.2017; RCD na Rcl 15.161/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 18/12/2013; AgInt na Rcl 33.772/SP, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 4.10.2017; AgRg na Rcl 14.113/SP, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 15/3/2016; AgInt na Rcl 35.831/PR, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 4/4/2019).
+3. Ainda que assim não fosse, cabe ainda registrar que na decisão em repetitivo de controvérsia não se abarcaram os serviços odontológicos, de modo que até a mesmo a utilização do incidente de resolução de demandas repetitivas também não prosperaria, ante a disparidade das decisões. Observa-se que, segundo exara a jurisprudência do Superior Tribunal de Justiça, a realização de atividades de tratamento odontológico não se enquadraria no conceito de serviços hospitalares, uma vez que a isenção não comportaria interpretação extensiva (AgRg nos EREsp 1.168.663/RS, Rel. Ministro Humberto Martins, Primeira Seção, DJe 2/8/2013).
+4. Reclamação não conhecida.
+(Rcl 38.894/SC, Rel. Ministro HERMAN BENHJAMIN, PRIMEIRA SEÇÃO, julgado em 12/02/2020, publicado DJe 07/05/2020).
+TRIBUTÁRIO. IRPJ. CSLL. SERVIÇOS HOSPITALARES. CONCEITO. CLÍNICAS ODONTOLÓGICAS. NÃO ENQUADRAMENTO. DIREITO À ALÍQUOTA REDUZIDA. AUSÊNCIA.
+1. Orienta-se a jurisprudência do STJ no sentido de que as pessoas jurídicas dedicadas à prestação de serviços de odontologia, por não estarem incluídas na lista de empresas aptas à tributação privilegiada do IRPJ e da COFINS, nos termos do art. 15, III, "a", da Lei n. 9.249/1995, não fazem jus ao benefício tributário da alíquota reduzida, sendo indevido, ademais, alargar esse rol mediante interpretação extensiva.
+2. Agravo interno desprovido.
+(AgInt no AgInt no REsp 2068126/SC, de minha relatoria, PRIMEIRA TURMA, julgado em 27/05/2024, DJe 06/06/2024).
+Aplicável, portanto, na hipótese, a Súmula 83 do STJ.
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e/ou "c" do permissivo constitucional.
+Registre-se, por fim, que a análise do contrato social da ora agravante, de modo a concluir-se, eventualmente, pela prestação concomitante de outros serviços passíveis de enquadramento como "hospitalares", demandaria o revolvimento do quadro probatório fixado nas instâncias ordinárias, providência incabível em sede de recurso especial (Súmulas 5 e 7 do STJ).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
