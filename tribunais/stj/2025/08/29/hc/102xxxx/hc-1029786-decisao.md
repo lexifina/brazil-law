@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIANO LEME ROCHA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Narra a Defesa que a prisão preventiva do paciente foi decretada em 15 de maio de 2025, por suposta prática dos delitos descritos nos arts. 129, § 9º, e 148 do Código Penal, por ter causado lesões de natureza leve em sua companheira e mantido-a em cárcere privado.
+No presente writ, alega que a decisão que decretou a prisão preventiva é inidônea e carece de fundamentação, tendo sido baseada em certidões de antecedentes e em alegações inexistentes de reincidência de desentendimentos entre o casal, além de não considerar a residência fixa do paciente.
+Afirma que a própria vítima solicitou audiência especial, indicando que o paciente não representa perigo à sua integridade física ou psicológica, e que as medidas cautelares diversas da prisão já aplicadas são suficientes.
+Sustenta que a decisão violou o art. 93, IX, da Constituição Federal e o art. 315 do Código de Processo Penal, por falta de motivação adequada.
+A Defesa destaca que o paciente possui condições pessoais favoráveis, como residência fixa e trabalho lícito, além de ser responsável pelo sustento de suas duas filhas.
+Requer a revogação da prisão preventiva e a concessão de liberdade provisória, com a expedição de alvará de soltura.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não estão suficientemente instruídos. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há, sequer, cópia do inteiro teor do acórdão impugnado.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE EXAME. RECURSO NÃO PROVIDO. 1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante. 2. De acordo com a orientação jurisprudencial emanada por esta Corte, "não se coaduna com o remédio heroico o propósito de "busca" de informações a respeito da situação do réu, quando não fornecidos sequer elementos mínimos que possam demonstrar a plausibilidade das razões suscitadas. " (AgRg no HC 289.502/MA, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 01/04/2014, DJe de 07/04/2014). 3. Agravo regimental não provido. (AgRg no HC n. 783.393/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 10/4/2024.)
+Ante o exposto, com fulcro no art . 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
