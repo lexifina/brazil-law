@@ -1,0 +1,65 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de recurso extraordinário (e-doc. n° 103), fundado na letra “a” do permissivo constitucional, interposto contra acórdão com a seguinte ementa (e-doc. n° 82):
+
+    “TRIBUTÁRIO. PIS E COFINS. INCLUSÃO DO ICMS NA BASE DE CÁLCULO. IMPOSSIBILIDADE. REPETIÇÃO. MODULAÇÃO. 1. A jurisprudência do Supremo Tribunal Federal reconheceu a inconstitucionalidade da inclusão do ICMS destacado na base de cálculo do PIS e da COFINS, visto aquela parcela não se encontrar inserida dentro do conceito de faturamento ou receita bruta, mesmo entendimento adotado pela jurisprudência desse Tribunal Regional Federal da 3ª Região. 2. A exclusão do ICMS da base de cálculo das contribuições em comento decorre da ausência de natureza jurídica de receita ou faturamento daquela parcela, uma vez que apenas representa o ingresso de valores no caixa da pessoa jurídica, que é obrigada a repassá-los ao Estado-membro. 3. A superveniência da Lei nº 12.973/2014, que alargou o conceito de receita bruta, não tem o condão de alterar o entendimento sufragado pelo STF já que se considerou, naquela oportunidade, a inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS, pois o ICMS não se encontra inserido no conceito de faturamento ou de receita bruta, destacando-se que, em relação à definição da parcela do ICMS a ser extirpada da base de cálculo das contribuições em comento, em 13.05.2021 o Supremo Tribunal Federal julgou os embargos de declaração opostos pela União, ficando indene de dúvidas que é o ICMS destacado que deve ser excluído da base de cálculo do PIS e da COFINS. 4. Reconhecido o direito à exclusão do ICMS destacado nas notas fiscais da base de cálculo do PIS e da COFINS, e, respeitando-se a prescrição quinquenal, é direito do contribuinte a repetição dos valores recolhidos indevidamente, conforme os termos delineados a seguir, observada a prescrição quinquenal e a modulação dos efeitos do RE n.º 574.706, cuja produção haverá de se dar a partir de 15.3.2017, ressalvadas as ações judiciais e administrativas protocoladas até a referida data, em que foi proferido o julgamento. 5. É necessário o trânsito em julgado da decisão para que se proceda à compensação dos valores recolhidos indevidamente, nos termos do artigo 170-A, do Código Tributário Nacional. 6. A compensação deverá ser realizada nos termos do art. 74 da Lei nº 9.430/96 com as modificações perpetradas pelas Leis nºs 10.637/02 e 13.670/2018. Precedentes do STJ. 7. A taxa SELIC é o índice aplicável para a correção monetária, cujo termo inicial é a data do pagamento indevido. Precedentes do STJ. 8. Remessa oficial, tida por interposta, e apelação da União providas em parte’’
+
+    Opostos Embargos de Declaração, foram parcialmente acolhidos. O acórdão ficou assim ementado (e-doc. n° 96):
+
+    DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ICMS NA BASE DE CÁLUCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. RECURSO EXTRAORDINÁRIO Nº 574.706 (TEMA DE REPERCUSSÃO GERAL 69). MODULAÇÃO DOS EFEITOS. MARCO TEMPORAL. FATOS GERADORES OCORRIDOS A PARTIR DE 16.03.2017. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO EMBARGADO. VÍCIO EXISTENTE. 1. Trata-se de embargos de declaração opostos pela União contra o acórdão que, por unanimidade, deu parcial provimento à apelação e à remessa necessária. O acórdão embargado aplicou ao caso concreto o entendimento firmado pelo Supremo Tribunal Federal — STF no âmbito do Recurso Extraordinário — RE nº 574.706 (Tema de Repercussão Geral 69) , reconhecendo devida a exclusão do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação — ICMS da base de cálculo da Contribuição para o Programa de Integração Social — PIS e da Contribuição para Financiamento da Seguridade Social — COFINS. A decisão colegiada assegurou ao contribuinte a compensação do montante indevidamente pago a partir da data de 16/03/2017. 2. O Supremo Tribunal Federal vem se manifestando quanto à inteligência do marco temporal a ser considerado para a exclusão do ICMS da base de cálculo da Contribuição ao PIS e da COFINS. Pelo menos em quatro decisões monocráticas, os eminentes Ministros do Supremo Tribunal Federal confirmaram que a modulação dos efeitos da decisão proferida no âmbito do Recurso Extraordinário — RE nº 574.706 (Tema de Repercussão Geral 69) considerou a ocorrência do fato gerador. 3. No caso concreto, a e. Terceira Turma desta Corte Federal considerou apenas a data do pagamento do tributo como paradigma temporal para a modulação dos efeitos da decisão que reconheceu como devida a exclusão do ICMS da base de cálculo da Contribuição ao PIS e da COFINS. 4. Portanto, o acórdão embargado deve ser integrado por meio do julgamento dos embargos de declaração opostos, para limitar o direito à compensação dos valores pagos indevidamente a título de ICMS contidos na base de cálculo da Contribuição ao PIS e da COFINS aos fatos geradores ocorridos a partir de 16.03.2017, à luz da modulação dos efeitos estabelecida no âmbito do Recurso Extraordinário — RE nº 574.706 (Tema de Repercussão Geral 69). 5. Embargos de declaração parcialmente acolhidos.
+
+    No recurso extraordinário (e-doc. n° 103), a Fazenda Nacional alega violação ao artigo 5º, LXIX, da CF e as súmulas 269 e 271 do STF.
+
+    Aduz que tratando-se de indébitos tributários com datas de recolhimento anteriores à impetração, os valores pretéritos devem ser cobrados em ação própria.
+
+    Argumenta que há inadequação da via mandamental para se pleitear a restituição de indébito, pois o mandado de segurança não é substituto de ação de cobrança (Súmula 269/STF) e não produz efeitos patrimoniais pretéritos (Súmula 271/STF).
+
+      Decido.
+
+    A irresignação merece prosperar.
+
+    Compulsados os autos, verifica-se que o Tribunal de origem entendeu possível a restituição tributária, por meio do regime de precatórios, também em relação a período anterior à data de impetração do presente mandado de segurança (e-doc. n° 82 e 96).
+
+    De início, registre-se que o Supremo Tribunal Federal firmou compreensão no sentido de que os pagamentos devidos pelas Fazendas Públicas em razão de decisão judicial devem se dar mediante a expedição de precatório ou de requisição de pequeno valor, conforme o valor da condenação, nos termos do art. 100 da Constituição Federal.
+
+    Nesse sentido, vide os seguintes precedentes de ambas as Turmas:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. PAGAMENTO INDEVIDO. CONCESSÃO DE MANDADO DE SEGURANÇA. RESTITUIÇÃO DE VALORES DEVIDOS. NECESSIDADE DE PRECATÓRIO. ART. 100 DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 1.388.631/SP-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 23/8/22 — grifo nosso).
+
+    “Agravo regimental em embargos de declaração em recurso extraordinário com agravo. 2. Direito Tributário. 3. Débitos da Fazenda Pública oriundos de decisão concessiva de mandado de segurança devem ser pagos pelo regime de precatório. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negado provimento ao agravo regimental, sem majoração da verba honorária, por se tratar de mandado de segurança” (ARE nº 1.350.473/PR-ED-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 20/5/22).
+
+    Corrobora esse entendimento o seguinte julgado:
+
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. CONCESSÃO DE MANDADO DE SEGURANÇA. VALORES DEVIDOS. EXCLUSÃO DO REGIME DE PRECATÓRIO. LESÃO AOS PRECEITOS FUNDAMENTAIS DA ISONOMIA, DA IMPESSOALIDADE E OFENSA AO DEVIDO PROCESSO CONSTITUCIONAL. ATRIBUIÇÃO DE EFEITO VINCULANTE À ORIENTAÇÃO JURISPRUDENCIAL SOBRE A MATÉRIA. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL JULGADA PROCEDENTE. 1. Apesar de ter sido dirimida a controvérsia judicial no julgamento do Recurso Extraordinário n. 889.173 (Relator o Ministro Luiz Fux, Plenário virtual, DJe 14.8.2015), a decisão proferida em recurso extraordinário com repercussão geral não estanca, de forma ampla e imediata, situação de lesividade a preceito fundamental resultante de decisões judiciais: utilidade da presente arguição de descumprimento de preceito fundamental. 2. Necessidade de uso de precatórios no pagamento de dívidas da Fazenda Pública, independente de o débito ser proveniente de decisão concessiva de mandado de segurança, ressalvada a exceção prevista no § 3º do art. 100 da Constituição da República (obrigações definidas em leis como de pequeno valor). Precedentes. 3. Arguição de descumprimento de preceito fundamental julgada procedente” (ADPF nº 250/DF, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 27/9/19 – grifo nosso).
+
+    Ainda no mesmo sentido vão os precedentes a seguir: ARE nº 1.354.543/RS, de minha relatoria, DJe de 1º/12/21; RE nº 956.707/SP, Rel. Min. Roberto Barroso, DJe de 29/4/16; RE nº 952.746/SP, Rel. Min. Ricardo Lewandowski, DJe de 14/2/18.
+
+    De outro giro, a jurisprudência desta Suprema Corte é pacífica no sentido de que a ordem judicial proferida em sede de mandado de segurança não alcança pagamentos referentes a parcelas anteriores à sua impetração, possuindo efeitos patrimoniais somente a partir dessa data, nos termos dos enunciados sumulares 269 e 271 do STF:
+
+    “O mandado de segurança não é substitutivo de ação de cobrança” (Súmula nº 269/STF).
+
+    “Concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria” (Súmula nº 271/STF).
+
+    Nesse sentido, colaciono os seguintes precedentes:
+
+    “EMENTA: EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. RESTITUIÇÃO DO INDÉBITO TRIBUTÁRIO RECONHECIDO EM SEDE DE MANDADO DE SEGURANÇA POR MEIO DE PRECATÓRIO. POSSIBILIDADE, UNICAMENTE EM RELAÇÃO AOS VALORES DEVIDOS A CONTAR DA IMPETRAÇÃO. 1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015. 2. No Tema 1262 da repercussão geral, o PLENÁRIO do SUPREMO TRIBUNAL FEDERAL fixou a seguinte tese: ‘Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal’. 3. O ora embargante sustenta que, a partir desse precedente, o SUPREMO passou a admitir a restituição, por precatório, de valores anteriores à impetração do mandado de segurança. 4. No tema 1262, discutiu-se essencialmente a compatibilidade da restituição administrativa com o art. 100 da Constituição, entendendo-se pela inconstitucionalidade de tal modo de adimplemento dos débitos da Fazenda Pública. 5. Em nenhum momento o precedente do Tema 1262 revoga as clássicas orientações das Súmulas 269 e 271 do SUPREMO TRIBUNAL FEDERAL. 6. A restituição por precatório no âmbito de mandado de segurança já foi expressamente admitida por esta CORTE no Tema 831 da repercussão geral, apenas quanto aos valores entre a data da impetração e a efetiva implementação da ordem concessiva. 7. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento” (RE nº 1.480.775/SP-ED, Relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 12/6/24 — grifo nosso).
+
+    “Agravo regimental em embargos de declaração em recurso extraordinário. Constitucional e tributário. Mandado de segurança. Sentença declaratória do direito à compensação de indébito tributário. Valores pretéritos, anteriores à impetração. Impossibilidade. Súmulas nºs 269 e 271 do STF. Vício sanável. Possibilidade de superação. Aplicação do art. 1.029, § 3º, do CPC. 1. De acordo com a pacífica jurisprudência da Suprema Corte, a ordem judicial proferida em sede de mandado de segurança não alcança pagamentos referentes a parcelas anteriores a sua impetração, possuindo efeitos patrimoniais somente a partir dessa data, nos termos dos Enunciados Sumulares nºs 269 e 271 do STF. 2. (...). 4. Agravo regimental não provido” (RE nº 1.516.899/SP-ED-AgR, Segunda Turma, de minha relatoria, DJe de 13/12/24 — grifo nosso).
+
+    Na mesma direção: RE nº 1.498.449/SP, Rel. Min. André Mendonça, DJe de 27/6/24.
+
+    Ante o exposto, dou provimento ao recurso extraordinário para assentar que, judicialmente, os efeitos patrimoniais em relação a período pretérito à impetração do mandado de segurança devem ser reclamados “pela via (...) própria” (Súmula nº 271), não se admitindo “o uso de mandado de segurança como substitutivo de ação de cobrança” (Súmula nº 269/STF).
+
+    Sem condenação em honorários, nos termos da Súmula 512 do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 29 de agosto de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
