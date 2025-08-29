@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/RS, assim ementado (fl. 138):
+AGRAVO INTERNO EM AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SERVIDOR PÚBLICO. ESTADO DO RIO GRANDE DO SUL. URV. HONORÁRIOS DO CUMPRIMENTO DE SENTENÇA. PRECLUSÃO AFASTADA.
+- Ausente preclusão, porquanto a decisão que referiu inexistirem os honorários em fase de cumprimento de sentença foi prolatada antes da apresentação da impugnação pelo ente público, e esse meio de defesa enseja o pagamento de honorários advocatícios pela Fazenda Pública, a teor do disposto no art. 85, §7º, do CPC.
+NEGARAM PROVIMENTO AO AGRAVO INTERNO.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489 e 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito da preclusão do pedido de fixação de honorários advocatícios executivos.
+Quanto às questões de fundo, sustenta ofensa aos artigos 503, 505 e 507 do CPC/2015, sob os seguintes argumentos: (a) o não arbitramento de honorários no cumprimento de sentença é questão preclusa, dada a inércia da parte autora em interpor recurso; e (b) inaplicabilidade do artigo 85, §7º do CPC/2015, uma vez que se trata de honorários de cumprimento oriundos de ação coletiva.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 206-210.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação dos artigos 489, §1º, IV, e 1.022, II, do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito à alegação de ofensa aos artigos 503, 505 e 507 do CPC/2015, o voto condutor do acórdão recorrido consignou o seguinte (fl. 136-137):
+No julgamento do agravo de instrumento, reconheci a preclusão da questão, " porquanto já havia decisão, nestes autos, afastando a fixação de honorários advocatícios na fase executiva".
+No entanto, quando do julgamento do agravo interno interposto pela parte exequente, verifiquei que ao proferir a decisão monocrática anteriormente citada não foi levado em consideração que a apresentação de impugnação ao cumprimento de sentença pelo Estado ensejava nova análise da questão relativa ao arbitramento de honorários advocatícios, conforme preconiza o art. 85, § 7º, do Código de Processo Civil.
+Assim, entendi - e mantenho o entendimento -, na casuística não se configura a preclusão quanto à fixação da verba honorária.
+Recordo que se cuida de cumprimento individual de sentença coletiva, proveniente da ação coletiva nº 001/1.05.0269892-0, ajuizada pelo SINDJUS, relativa ao pagamento do saldo remanescente dos juros de mora devidos aos servidores do Poder Judiciário por força do pagamento administrativo da URV.
+Ao receber a inicial o juízo a quo indeferiu o pedido de fixação de honorários. Posteriormente, depois de apresentada impugnação ao cumprimento de sentença, arbitrou a verba honorária em 20% do valor do débito.
+Assim, ausente preclusão, porquanto a decisão que referiu inexistirem os honorários em fase de cumprimento de sentença foi prolatada antes da apresentação da impugnaç ão pelo ente público, e esse meio de defesa enseja o pagamento de honorários advocatícios pela Fazenda Pública, a teor do disposto no art. 85, §7º, do CPC, in verbis:
+ ..
+Portanto, a decisão que fixou os honorários no cumprimento de sentença após a impugnação do Estado não é obstada por decisão anterior que refere não existirem honorários no cumprimento de sentença, porque, como referi, à época da decisão anterior, ainda não havia sido apresentada a impugnação do ente público.
+Ocorre que a parte recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula n. 283/STF.
+Ainda que assim não fosse, cumpre observar que a alteração do entendimento fixado pelo Tribunal de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. HONORÁRIOS ADVOCATÍCIOS NA EXECUÇÃO DE SENTENÇA. CABIMENTO. ART. 85, § 7º, DO CPC/2015. PRECLUSÃO AFASTADA. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ao concluir pela ausência de preclusão no tocante ao momento de fixação dos honorários advocatícios, a Corte estadual formou seu entendimento com base no acervo fático-probatório dos autos, cuja revisão é inviável no Superior Tribunal de Justiça ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Afasta-se, assim, a ideia de simples valoração da prova.
+2. Consoante o entendimento do STJ, dispensa-se a fixação de honorários advocatício s previstos no art. 85, § 7º, do CPC/2015 quando a execução não tiver sido impugnada e cujo pagamento ocorrer por precatório. No entanto, oferecida resistência à execução da sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade. Precedente: AgInt no REsp 1.814.321/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 19.12.2019. Na mesma linha, cito decisões monocráticas: REsp 1.880.935, Rel. Min. Benedito Gonçalves, DJe de 10.8.2020; REsp 1.883.585, Rel. Min. Francisco Falcão, D Je 17.8.2020; R Esp 1.694.543, Rel. Min. Napoleão Nunes Maia Filho, DJe de 18.5.2020; REsp 1.765.745, Rel. Min. Francisco Falcão, DJe de 14.2.2020.
+3. Agravo Interno não provido. (AgInt no REsp n. 2.108.828/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/4/2024, DJe de 2/5/2024.) (grifei).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. CASUÍSTICA QUE AFASTA A OCORRÊNCIA DE PRECLUSÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
