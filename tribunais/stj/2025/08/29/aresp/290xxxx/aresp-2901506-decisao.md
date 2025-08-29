@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE DECISÃO HOMOLOGATÓRIA DE TRANSAÇÃO FIRMADA NA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL, LASTREADA EM CÉDULAS DE CRÉDITO BANCÁRIO.
+Decisão que reconheceu a ausência de garantia quanto aos créditos perseguidos nesta demanda e indeferiu os pedidos de levantamento das penhoras e de proibição de novas constrições até o leilão dos bens. Inconformismo dos devedores. Parcial acolhimento. Pronunciamento judicial impugnado devidamente fundamentado. Documentos apresentados indicam que as cédulas de crédito bancário, objeto da execução, foram previamente garantidas pelos imóveis indicados à penhora, cuja avaliação, à primeira vista, se mostrou suficiente à satisfação da dívida. Observância do disposto no artigo 835, § 3º, do CPC. Incabível a ampliação das medidas constritivas antes da liquidação dos bens dados (e livremente aceitos) em garantia fiduciária. De rigor o levantamento/desbloqueio das outras constrições realizadas nos autos nº 0051646-45.2020.8.26.0100, com exceção da penhora dos recebíveis do coexecutado que excederem o valor de cinquenta salários-mínimos, embora fosse ocaso, pois o recurso é exclusivo do banco exequente. Incabível a condenação das partes ao pagamento de multa por litigância de má-fé. Ausentes as condutas previstas no artigo 80 do Estatuto Processual Civil. Decisão reformada.
+RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração por ambas as partes, foram eles rejeitados.
+Alegou-se, no especial, violação dos artigos 1.022, 937 e 835, § 3º, do Código de Processo Civil sob os argumentos de que o acórdão local é omisso, que a ausência de publicação da pauta de julgamento o torna nulo e que, além de os imóveis dados em garantia da dívida terem valores inferiores a ela, os referidos bens também seriam objeto de penhoras diversas, o que autorizaria sua rejeição ou ampliação da penhora a outros bens.
+Parecer da D. Procuradoria de Justiça pelo não conhecimento do recurso (e-STJ, fls. 886/889).
+Satisfeitos os requisitos de admissibilidade, conheço do agravo e passo ao exame do recurso especial.
+Esta Corte tem entendimento de que, ainda que se trate de julgamento virtual, é indispensável a publicação da pauta de julgamento com pelo menos 5 (cinto) dias de antecedência, sem o que há nulidade, mormente no caso em que foi dado parcial provimento ao recurso da parte contrária.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE PUBLICAÇÃO DA PAUTA DE JULGAMENTO. PREJUÍZO. NULIDADE DO JULGADO. AGRAVO INTERNO PROVIDO.
+1. Conforme expressamente dispõem os artigos 934 e 935 do Código de Processo Civil de 2015, é necessária a publicação da pauta de julgamento no órgão oficial, sendo que entre a data de publicação e a da sessão de julgamento decorrerá, pelo menos, o prazo de cinco dias.
+2. A ausência de publicação da pauta de julgamento, ainda que na modalidade virtual, acarreta nulidade do julgado, notadamente quando a omissão causa prejuízo ao recorrente.
+3. Agravo interno provido.
+(AgInt no AREsp n. 2.103.074/SP, relator Ministro Marco Buzzi, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 14/5/2024, DJe de 5/9/2024.)
+O fato de não haver previsão legal para a sustentação oral no recurso de agravo de instrumento não é, por si só, causa para se afastar a nulidade, porquanto a atuação do advogado inclui outros meios para o exercício do patrocínio.
+Em face do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, dar provimento a ele para declarar nulo o julgamento, determinando o retorno dos autos ao Tribunal local a fim de que, após a publicação da pauta de julgamento, nos termos dos artigos 934 e 935 do Código de Processo Civil, aquele órgão reaprecie o recurso, como entender de direito. Prejudicadas as demais questões.
+Intimem-se.
+EMENTA
