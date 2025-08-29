@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por DARCY PALOMA PINTO contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 742):
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. MOTORISTA DE CAMINHÃO. PENOSIDADE. IAC Nº 5. INAPLICABILIDADE.
+A lei em vigor quando da prestação dos serviços define a configuração do tempo como especial ou comum, o qual passa a integrar o patrimônio jurídico do trabalhador, como direito adquirido.
+Até 28.4.1995 é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29.4.1995 é necessária a demonstração da efetiva exposição, de forma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; a contar de 06.5.1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica.
+O caráter especial do trabalho exercido por motorista de caminhão ou ônibus estava previsto no Decreto nº 53.831/64 (Código 2.4.4), Decreto nº 72.771/73 (Quadro II do Anexo) e Decreto nº 83.080/79 (Anexo II, código 2.4.2). Após a extinção da especialidade por enquadramento profissional, somente é possível reconhecer a atividade de motorista de caminhão como especial, se houver prova de que foi exercida em condições insalubres, perigosas ou penosas.
+A tese fixada no julgamento do Incidente de Assunção de Competência nº 5 deste Tribunal Regional Federal, que admitiu a possibilidade de realização de prova pericial para instruir a alegação de penosidade do trabalho de motoristas e cobradores de ônibus, não se estende aos motoristas de caminhão, consoante exclusão expressa na decisão que admitiu aquele incidente.
+Nas razões de seu recurso especial, a parte recorrente alega ofensa aos arts. 1.022 e 926 do Código de Processo Civil (CPC), por ter havido negativa de prestação jurisdicional e "a possibilidade de extensão do entendimento firmado no IAC nº 5 também aos motoristas de caminhão; ou seja: se há prova de que a atividade de motorista de caminhão é penosa, mesmo após a edição da Lei 9.032/95, é possível o reconhecimento da atividade com contagem diferenciada" (fl. 780).
+A parte adversa não apresentou contrarrazões (fl. 862).
+O recurso foi admitido na origem (fls. 869/870).
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.307), e foi assim delimitada:
+"Definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995" (REsp 2.166.208/RS e REsp 2.164.7 24/RS, relator Ministro Gurgel de Faria).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
