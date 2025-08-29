@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, recurso especial interposto por FRAGA, BEKIERMAN E CRISTIANO - ADVOGADOS. contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO. CÍVEL EXECUÇÃO FISCAL. ITCMD. DOAÇÃO. JUÍZO SINGULAR QUE JULGOU EXTINTO O PROCESSO COM RESOLUÇÃO DO MÉRITO, PELA OCORRÊNCIA DA DECADÊNCIA. TRIBUTO SUJEITO A LANÇAMENTO POR DECLARAÇÃO. INCONTROVERSA A DATA DA CIÊNCIA PELO SUJEITO ATIVO DA INAÇÃO DO SUJEITO PASSIVO. PROCEDIMENTO ADMINISTRATIVO DE COBRANÇA SOMENTE INSTAURADO QUANDO ULTRAPASSADO O LUSTRO PRESCRICIONAL. INCONFORMISMO DA FAZENDA ESTADUAL. HONORÁRIOS ADVOCATÍCIOS QUE DEVE SER REDUZIDOS PARA R$ 5.000,00. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente alega a irrisoriedade dos honorários advocatícios, requerendo sua majoração com fundamento no art. 20, §§ 3º e 4º, do CPC/1973.
+Contrarrazões apresentadas ás fls. 514-525.
+É o relatório.
+Passo a decidir.
+Inicialmente, conforme decidido pelo Plenário do Superior Tribunal de Justiça, em sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Dessa forma, no caso, aplica-se o Código de Processo Civil de 1973.
+No caso, o Tribunal de origem reduziu o valor arbitrado a título de honorários advocatícios, com amparo nos seguintes fundamentos (fl. 310 - grifo nosso):
+No que tange aos honorários advocatícios, contudo, merece retoque a sentença, pois arbitrou a verba sem atentar para os parâmetros do artigo 20, §§ 3º e 4º, do Código de Processo Civil, não devendo ser feita qualquer remissão aos percentuais previstos no § 3º ou ao valor da causa. Neste sentido, consolidou-se a jurisprudência do STJ, em sede de recurso especial representativo de controvérsia (REsp nº 1155125/MG - Rel. Min. Castro Meira - julg. 10/03/2010).
+A causa não possui natureza complexa nem demandou maiores dificuldades aos patronos das partes, razão por que razoável arbitrar os honorários de advogado em R$5.000,00 (cinco mil reais).
+Ante o exposto, voto no sentido de dar parcial provimento ao recurso tão somente para reduzir os honorários advocatícios para R$ 5.000,00, mantendo os demais termos da sentença vergastada.
+O entendimento consolidado nesta Corte é o de que, em regra, não é cabível a alteração da verba honorária arbitrada na origem com base no § 4º do art. 20 do CPC/1973, tendo em vista a necessidade de revisão do acervo fático-probatório dos autos, salvo quando for possível verificar, de plano, a irrisoriedade ou exorbitância do valor estipulado.
+Na espécie, o Tribunal de origem, atento às circunstâncias a que se refere o § 3º do art. 20 do anterior diploma processual civil, aplicável ao caso, fixou a verba honorária em R$ 5.000,00 (cinco mil reais), em meados de 2015. Assim, ante a ausência de flagrante inadequação do quantum estipulado a título de honorários sucumbenciais, o recurso especial não pode ser conhecido, em razão do óbice contido na Súmula 7/STJ.
+Em igual sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. TEMPO DE SERVIÇO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. JUROS DE MORA. TERMOS INICIAL E FINAL. PREQUESTIONAMENTO AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. REEXAME. IMPOSSIBILIDADE. MARCO FINAL DA VERBA HONORÁRIA: DECISÃO CONCESSIVA DO BENEFÍCIO.
+1. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, o óbice da Súmula 83 do STJ, citando precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido acerca dos juros de mora.
+2. Carecendo o recurso requisito indispensável do prequestionamento, incidem os óbices das Súmulas 282 e 356 do STF, uma vez que a questão relativa ao termo inicial e final dos juros de mora não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+3. Não se admite o recurso especial para reapreciar honorários advocatícios fixados por equidade, nos termos do art. 20, § 4º, do CPC/1973), ante o óbice da Súmula 7 do STJ, exceto quando quantificados em valor flagrantemente irrisório ou exorbitante, o que não é o caso dos autos.
+4. Quanto ao marco final da verba honorária, a orientação jurisprudencial do STJ é a de que, em matéria previdenciária, deve ser a data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas. Incidência da Súmula 111 do STJ à espécie.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.624.564/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/6/2025, DJEN de 25/6/2025 - grifo nosso).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROFERIDA NA VIGÊNCIA DO CPC/1973. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. VALOR ARBITRADO. REVISÃO. NECESSIDADE DE REEXAME DE ELEMENTOS FÁTICOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015." (EAREsp n. 1.255.986/PR, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/3/2019, DJe de 6/5/2019.)
+2. Rever a conclusão do Tribunal de origem acerca do valor dos honorários advocatícios implicaria o necessário reexame de fatos e provas, providência descabida no âmbito do recurso especial. Incidência da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.133.660/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025 - grifo nosso).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/1973, como dispõe o Enunciado administrativo 7/STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Intimem-se.
+EMENTA
