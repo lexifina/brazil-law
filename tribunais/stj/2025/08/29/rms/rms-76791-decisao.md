@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Iedo dos Reis Soriano contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 274):
+Mandado de Segurança. Policial Militar inativo. Reclassificação funcional. Preliminares. Decadência rejeitada. Mérito. Pretensão de promoção ao posto de Tenente PM com vencimentos de Capitão PM. Impossibilidade. A graduação de Subtenente PM não foi extinta, tendo sido expressamente reincluída na escala hierárquica pela Lei Estadual nº 11.356/2009. Ausência de comprovação de participação no Curso de Aperfeiçoamento de Sargentos (CAS) e no Curso de Formação de Oficiais Auxiliares Policiais Militares (CFOAPM), requisitos essenciais para o ingresso no Quadro de Oficiais. Incabível promoção de servidor aposentado com base em circunstância posterior ao ato de aposentação. Inexistência de direito líquido e certo. Segurança denegada.
+Nas razões recursais alega-se que tendo a graduação do recorrente sido suprimida por força de dispositivo legal (Lei 7.145/1997), ele deveria ter sido reclassificado para o Posto de 1º Tenente PM, com os proventos calculados sobre o posto imediatamente superior, qual seja, Capitão PM.
+Requer-se, ao final, seja conhecido e provido o presente recurso no sentido de reformar o acórdão recorrido, para assegurar o seu direito líquido e certo de ser promovido ao posto de 1º TENENTE PM, e consequentemente, revisado seus proventos a fim de que sejam calculados com base no posto de CAPITÃO PM quanto na inatividade.
+Com contrarrazões.
+O Ministério Público Federal, às fls. 573-580, manifestou-se pelo "desprovimento do Recurso Ordinário em mandado de segurança".
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+A pretensão do recorrente, manifestada via mandado de segurança impetrado contra ato atribuído ao Secretário da Administração do Estado da Bahia - SAEB, cingia-se à condenação do ente público a garantir o direito do impetrante à promoção ao posto de 1º Tenente PM, com os respectivos vencimentos calculados com base no posto de Capitão PM.
+Ao denegar a segurança, o Tribunal de origem registrou que (fls. 277-279):
+ ..
+No presente caso, contrariamente ao que pleiteia o impetrante, sua alegação de extinção do cargo de Subtenente PM não procede, uma vez que a Lei Estadual nº 11.356/2009 revogou a norma que determinava tal extinção (art. 4º da Lei nº 7.145/1997) e expressamente reincluiu na escala hierárquica as graduações de Praças, inclusive ampliando o número de cargos de Subtenente PM de 352 vagas em 2009 para 992 vagas em 2011, conforme demonstrado nos documentos apresentados pela Procuradoria do Estado.
+Isto porque, conforme demonstrado pelo Estado da Bahia, a graduação de Subtenente PM não foi extinta, tendo sido expressamente reincluída na escala hierárquica pela Lei Estadual nº 11.356/2009, que inclusive ampliou o número de vagas para esta graduação de 352 em 2009 para 992 em 2011.
+O art. 8º da Lei 11.356/2009 estabeleceu expressamente que os Praças que alcançarem a graduação de 1º Sargento e possuírem 30 anos ou mais de serviço na data da inatividade terão seus proventos calculados com base na remuneração de 1º Tenente, independentemente de promoção à graduação de Subtenente:
+ ..
+Registre-se que o benefício para o militar que vai à reserva remunerada está ligado apenas ao valor dos proventos e não a uma movimentação vertical na carreira.
+Ademais, não há nos autos comprovação de que o impetrante tenha participado do Curso de Aperfeiçoamento de Sargentos (CAS) e do Curso de Formação de Oficiais Auxiliares Policiais Militares (CFOAPM), requisitos essenciais para o ingresso no Quadro de Oficiais iniciado pelo posto de 1º Tenente PM/BA.
+Vale ressaltar que o CAS era requisito para que o candidato pudesse se matricular no CFOAPM, sendo este último que habilitaria o policial à promoção para o Posto de Tenente, desde que cumpridos os demais requisitos e obtida a classificação necessária.
+Incabível, portanto, a pretensão do impetrante de ter seus proventos reajustados na carreira, mesmo estando na inatividade e utilizando para isso o rótulo de "reclassificação", com vistas a obter um avanço vertical na estrutura hierárquica da corporação, passando de 1º Sargento PM/BA para 1º Tenente PM/BA, e, como consequência, ter seus proventos calculados com base na remuneração de Capitão PM/BA.
+Não há promoção de servidor aposentado com base em circunstância posterior ao ato de aposentação. A transposição vertical na carreira ocorre com aqueles que estão em atividade, considerando critérios preexistentes previstos em lei.
+ ..
+O detido exame das razões do recurso ordinário, contudo, evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir tais fundamentos, ou seja, não impugnou especificamente as razões de decidir que, por si só, respaldam o resultado do julgamento proferido pela Corte de origem, o que conduz ao não conhecimento da insurgência recursal face a incidência da Súmula 283/STF.
+A propósito:
+A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido (AgRg no RMS 30.555/MG, Sexta Turma, relator Ministro OG FERNANDES, DJe 1º/8/2012).
+Nesse mesmo sentido: AgInt no RMS 55.110/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 1/3/2018; AgInt nos EDcl no RMS 37.967/MT, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 13/10/2017.
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO. INCIDÊNCIA ANALÓGICA DA SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
