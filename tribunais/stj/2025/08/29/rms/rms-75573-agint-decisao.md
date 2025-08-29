@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de reconsideração/agravo interno interposto pelo Ministério Público Federal em face de decisão que deu provimento ao recurso ordinário em mandado de segurança ao concluir pela legitimidade passiva do Secretário de Estado da Administração e pela aplicação do limite de 30% dos rendimentos líquidos nos descontos em folha de pagamento a título de empréstimos consignados realizados por servidor público militar estadual.
+Alega o agravante que "existe Lei Estadual n. 16.898/2010 (art. 5º, caput) que rege a matéria" e que "o fato de o Secretário de Estado da Administração do Estado de Goiás ter aplicado o art. 5º da Lei Estadual n. 16.898/2010 e, consequentemente, negado suprimir empréstimo consignado da remuneração do recorrente não significa que houve abuso de poder ou ilegalidade, porquanto a decisão da autoridade dita coatora está devidamente embasada juridicamente".
+Por fim, afirma que "os precedentes mencionados na decisão ora recorrida não se amoldam ao caso em tela" e que "a decisão ora recorrida é dissonante da atual jurisprudência do Superior Tribunal de Justiça".
+É o relatório.
+Tratando-se de servidor público militar estadual, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, nos descontos em folha de pagamento a título de empréstimos consignados, deve ser observado o limite de 30% dos seus rendimentos líquidos.
+No que se refere aos militares do Estado de Goiás, contudo, a legislação estadual estabelece expressamente a limitação da margem consignável em 35% da remuneração bruta, deduzidas as verbas de caráter transitório e os descontos obrigatórios, nos termos do art. 5º da Lei Estadual n. 16.898/2010.
+Conforme entendimento firmado por esta Corte, "O Estado detém a competência administrativa para editar normas que versem sobre a política de remuneração de seus servidores, ante o princípio da autonomia estadual conferida pela Carta Magna" (RMS n. 31.713/AC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2015, DJe de 11/9/2015).
+Nesse sentido, "o Estado de Goiás tem autonomia para legislar a respeito de questões concernentes aos seus servidores públicos, não havendo ilegalidade na fixação de margem consignável sobre a remuneração bruta de servidor público" (RMS n. 76.707, Ministra Regina Helena Costa, DJEN de 05/08/2025).
+Dessa forma, considerando-se que, na espécie, o recorrente não comprovou que sua margem consignável extrapolou os 35% (trinta e cinco por cento) de sua remuneração bruta, conforme previsão legal aplicável ao caso, deve ser reconsiderada a decisão agravada para que seja negado provimento ao recurso ordinário, mantendo-se o acórdão recorrido.
+Ante o exposto, reconsidero a decisão de fls. 191-194 para negar provimento ao recurso ordinário.
+Publique-se.
+Intime-se.
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR ESTADUAL. LIMITAÇÃO LEGAL DE MARGEM CONSIGNÁVEL. LEI ESTADUAL Nº 16.898/2010. APLICAÇÃO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO ORDINÁRIO IMPROVIDO.
