@@ -1,0 +1,39 @@
+DECISÃO
+RAPHAEL ANTUNES DE CARVALHO alega sofrer coação ilegal diante de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que denegou a ordem no HC n. 1411361-82.2024.8.12.0000.
+O paciente foi denunciado, pela prática dos crimes de homicídio qualificado e tentativa de homicídio, e teve sua prisão preventiva decretada.
+A defesa pede a revogação da prisão preventiva do acusado ou sua substituição pelas cautelares dispostas no art. 319 do CPP. Para tanto, argumenta que a decisão que decretou sua segregação cautelar não observou os requisitos legais previstos no art. 312 do Código de Processo P enal.
+Afirma que houve ilegalidade na citação por edital diante de irregularidades na localização do réu.
+Ressalta que o paciente não teve ciência efetiva das condições impostas na decisão que lhe concedeu liberdade provisória, pois "não estava acompanhado de advogado no momento, e a certidão lavrada pelo Sr. Oficial de Justiça informa expressamente que o cumprimento do ato não foi possível, tendo em vista que o paciente já se encontrava posto em liberdade" (fl. 9).
+Assevera haver excesso de prazo na prisão processual, que perdura mais de um ano.
+Decido.
+O avanço para julgamento in limine de questões pacificadas pelo colegiado - com lastro no art. 34, XVIII, "c", e XX, do Regimento Interno deste Superior Tribunal e no enunciado sumular n. 568 desta Corte de Justiça - está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas. Nesse sentido: AgRg no HC n. 894.234/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+O Juízo processante assim indeferiu o pedido de revogação da prisão preventiva (fls. 392-393, destaquei):
+Por não ter sido localizado para ser citado pessoalmente, foi por edital, tendo contra si suspensos o processo e o curso do prazo prescricional, bem como decretada a prisão preventiva.
+Ressalto que foi procurado por diversas vezes para ser citado pessoalmente (f. 361, 420, 422, 431, 442, 449 e 457 daqueles autos), aliás nunca vi a Justiça criminal procurar um acusado tantas vezes como ocorreu neste processo em diversos endereços fornecidos pela promotoria através do sistema próprio de pesquisa.
+Se não bastasse foi-lhe concedida a liberdade provisória (autos nº 0010149-12.2019.8.12.0800), tendo se comprometido a comparecer a todos os atos do processo e informar eventual mudança de endereço. Veja-se que a decisão que o colocou em liberdade SERVIU DE ALVARÁ DE SOLTURA e fixadas duas condições:
+a) Comparecer nos atos do processo, e,
+b) informar mudança de endereço.
+Nada foi cumprido, aliás sumiu, sendo preso noutro Estado, caracterizado, portanto, a fuga, pressuposto básico para justificar a prisão preventiva para assegurar a aplicação da lei penal.
+Portanto, descumpriu as condições fixadas em juízo, o que evidencia a necessidade da manutenção da prisão.
+No mais, o argumento de que responde processo na 14a. Vara Cível por danos materiais e morais não afasta a intenção de fuga criminal e, porque como se sabe, em processo dessa natureza as intimações são encaminhadas a apenas os advogados.
+Quanto aos comprovantes de residência apresentados e como informado pelo próprio requerente, está morando com sua sogra, tratando-se de local diferente do constante dos demais documentos juntados. Ainda, a comprovação de trabalho de f. 11-3 refere-se ao período de maio e julho de 2013.
+Outrossim, a denúncia foi oferecida no mês de dezembro de 2021, portanto permaneceu foragido por anos, o que reforça a necessidade da prisão para assegurar a aplicação da lei penal.
+Em arremate, trata-se de fato de extrema gravidade, estando presentes os requisitos dos artigos 312 e 313 do CPP.
+O Tribunal de origem manteve a decisão de primeira instância, nestes termos (fls. 489-490, grifei):
+Inicialmente, cumpre notar que o paciente tinha plena consciência da existência - ao menos - de investigação criminal contra si, eis que prestou declarações na fase inquisitiva, aos 15 de dezembro de 2019, tendo sido posteriormente colocado em liberdade por ocasião da audiência de custódia.
+A despeito disso, o acusado permaneceu inerte durante mais de 04 (quatro) anos, mudou-se de endereço e de profissão, e, inobstante as inúmeras tentativas de localização, sem qualquer informação sobre seu paradeiro, o acusado apenas foi encontrado em outro Estado da Federação.
+Diante desse contexto, as evidências são no sentido de que o paciente tinha pleno conhecimento da persecução penal contra si e buscou meios de se escamotear das decisões do Poder Judiciário, impedindo ou retardando a aplicação da lei penal.
+ ..
+O caso em apreço enquadra-se perfeitamente na situação descrita, eis que o paciente cometeu os delitos e fugiu para não responder pelas consequências de seus atos, situação que perdurava até recentemente.
+Com efeito, é nítida a intenção do paciente de não colaborar com a justiça e evitar a todo custo a aplicação da lei penal. Vê-se que o paciente, até este momento, não deu nenhuma demonstração de que pretende colaborar com a aplicação da lei, muito menos que pretende ser julgado, pois apenas "compareceu" em virtude do cumprimento do mandado de prisão.
+Assim sendo, não há que se falar em nulidade da citação editalícia e ilegalidade do decreto prisional cautelar.
+Como se depreende do acórdão, a despeito das inúmeras tentativas de localização, o réu, mesmo ciente do processo, pois prestou declarações na fase inquisitiva e foi colocado em liberdade na audiência de custódia, evitou sua citação pessoal, descumpriu as medidas cautelares impostas durante a mencionada audiência e passou à condição de foragido, razão pela qual foi feito seu chamamento por edital e foi decretada sua prisão preventiva.
+Esse entendimento está em conformidade com a jurisprudência desta Corte, segundo a qual "a citação por edital é válida quando o réu se encontra em local incerto e não sabido" (AgRg no AREsp n. 2.812.555/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/3/2025, DJEN de 25/3/2025)
+Ademais, "O art. 366 do CPP prevê a suspensão do processo e do prazo prescricional quando o réu não é encontrado para citação pessoal e há citação por edital" (AgRg no RHC n. 200.256/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024).
+Com efeito, "O descumprimento das medidas cautelares alternativas e a condição de foragido do acusado justificam a manutenção da prisão preventiva para garantir a ordem pública e a aplicação da lei penal" (AgRg no RHC n. 203.592/PI, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025).
+O Juízo de primeira instância registra que, na ocasião da audiência de custódia, em que o acusado foi colocado em liberdade, ele se comprometeu a cumprir as condições impostas, o que afasta a alegação de que ele não teve ciência efetiva delas. Pontua ainda que as tentativas frustradas de localização do ora paciente decorreram do não cumprimento da medida relativa a ele manter seu endereço atualizado, o que denota violação do princípio da boa-fé processual, positivado no art. 565 do CPP.
+Nesse contexto, "a parte não pode exigir o reconhecimento de nulidade processual a que tenha dado causa (art. 565 do Código de Processo Penal -CPP)" (AgRg no AREsp n. 2.339.982/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+Por fim, as teses de ausência de advogado na ocasião em que as medidas cautelares foram impostas ao réu e de excesso de prazo na prisão preventiva não foram debatidas no acórdão recorrido, o que impede o exame direto por esta Corte, sob pena de indevida supressão de instância.
+À vista do exposto, denego a ordem, in limine
+Publique-se e intimem-se.
+EMENTA
