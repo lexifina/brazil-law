@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por G. A. L. RIOS & CIA LTDA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, inciso III, alíneas "a", da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 310):
+APELAÇÃO CÍVEL. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. PRELIMINAR DE REORGANIZAÇÃO DA DIGITALIZAÇÃO DO FEITO. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO PAS DE NULITTÉ SANS GRIEF. INEXISTÊNCIA DE NULIDADE. MÉRITO. AUSÊNCIA DA LICENÇA AMBIENTAL. ÁREA DE PROTEÇÃO. DANO CONFIGURADO. CESSAÇÃO DE ATIVIDADES. NECESSIDADE DE PLANO DE RECUPERAÇÃO DE ÁREA DEGRADADA. RECURSO NÃO PROVIDO.
+1. A preliminar de necessidade de reorganização da digitalização dos autos não deve prosperar, haja vista que não foi demonstrado prejuízo causado às partes, aplicando-se o princípio do pas de nulitté sans grief.
+2. No mérito, cinge-se a controvérsia a análise de eventual responsabilidade civil da Apelante por causar dano ambiental em razão de exercer atividade de mineração sem a respectiva licença em Área de Proteção Ambiental.
+3. Assim, analisando as provas documentais acostadas aos autos, entendo que a sentença não merece reparos, posto que configurado o dano ambiental na hipótese. O Relatório de Fiscalização Ambiental (ID 50262624 e 50262625), elaborado após visita técnica aos empreendimentos situados na Área de Proteção Ambiental de Pedra do Cavalo (ID 50262212), demonstra que o empreendimento utilizava alumínio em barra, que não possuía licença ambiental necessária e também confirma a localização na Área de Proteção Ambiental de Pedra do Cavalo.
+4. Ademais, como consectário lógico da constatação do dano ambiental causado por uma atividade potencialmente poluidora, persiste também a exigência de elaboração e apresentação do Plano de Recuperação de Áreas Degradadas (PRAD).
+5. Apelo não provido.
+Embargos de Declaração rejeitados.
+Nas razões do recurso especial, a agravante alega violação do art. 14, §1º, da Lei n. 6.938/81, aduzindo que a teleologia do aludido dispositivo exige a prova concreta do dano, não se concebendo a imposição de PRAD por dano presumido.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Cinge-se a controvérsia a verificação da responsabilidade civil da agravante por causar dano ambiental em razão de exercer atividade de mineração sem licença ambiental em Área de Proteção Ambiental.
+Dito isso, no que tange à alegada violação do art. 14, §1º, da Lei n. 6.938/81, sob o argumento de que, no caso, inexiste prova de degradação do meio ambiente causada por suas atividades, extrai-se do acórdão recorrido a seguinte fundamentação (fls. 313-320):
+ ..
+Defende que inexistem provas nos autos de que tenha exercido suas atividades em Área de Preservação Ambiental (APA), esclarecendo que "o local onde estabelecido à Apelante dista 41km, ou seja, quarenta e um mil metros".
+Alude que, ausente a prova de degradação ao meio ambiente, resta impossível o cumprimento da obrigação de fazer consistente em aplicar o plano de recuperação de áreas degradas (PRAD), sendo esta inexequível.
+ ..
+Sobre o tema, o art. 9, IV, da Lei 6.938/1981 estabelece que o licenciamento de atividades potencialmente poluidoras é instrumento da Política Nacional do Meio Ambiente:
+Art 9º - São instrumentos da Política Nacional do Meio Ambiente:
+(..)
+IV - o licenciamento e a revisão de atividades efetiva ou potencialmente poluidoras;
+Já o art. 14, §1º, da lei n. 6.938/81 prevê que a responsabilidade civil por dano ambiental é objetiva, garantindo a reparação do dano independentemente da verificação de culpa:
+ ..
+Nessa esteira, ao contrário do quanto alegado pela Apelante, a prova documental acostada aos autos, em especial o Relatório de Fiscalização Ambiental (ID 50262624 e 50262625), elaborado após visita técnica aos empreendimentos situados na Área de Proteção Ambiental de Pedra do Cavalo (ID 50262212), demonstra que o empreendimento utilizava alumínio em barra para a fabricação de esquadrias de alumínio, que não possuía licença ambiental necessária e também confirma a localização na Área de Proteção Ambiental de Pedra do Cavalo, haja vista que a fiscalização foi realizada especificamente em empreendimentos da APA e que as coordenadas geográficas foram especificadas no relatório.
+Ressalte-se que os fatos foram verificados em 2006, antes da obtenção de licença temporária pela empresa, que somente iniciou o respectivo processo em 2007, já se encontrando em atividade irregular antes da tentativa de regularização. Ademais, a obtenção posterior de Licença Simplificada (ID 50262871), em 2009, não convalida ilícito ambiental anteriormente causado.
+ ..
+Dos julgados colacionados, resta claro que o relatório de fiscalização elaborado pelo órgão competente goza de presunção de legitimidade e veracidade. In casu, foi verificado o uso de barras de alumínio pelo empreendimento, sem a devida licença ambiental e em Área de Proteção Ambiental, conforme relatório do Centro de Recursos Ambientais (CRA), evidenciando-se o dano ambiental.
+Da leitura dos autos, observa-se que a Ação Civil Pública foi instaurada a partir dos elementos colhidos no bojo do Inquérito Civil n. 54/2006, após auto de infração que apontou operação irregular de atividade de mineração na Área de Proteção Ambiental de Pedra do Cavalo, sem a devida licença de operação (ID 50262636), o que confirma, em maior medida, a sentença primeva.
+Ademais, como consectário lógico da constatação do dano ambiental causado por uma atividade potencialmente poluidora, persiste também a exigência de elaboração e apresentação do Plano de Recuperação de Áreas Degradadas.
+No entanto, os fundamentos do acórdão combatido, em destaque, não foram combatidos nas razões do recurso especial, especialmente, acerca da existência de prova documental acostada aos autos, elaborada após a visita técnica aos empreendimentos situados na Área de Proteção Ambiental de Pedra do Cavalo, demonstrando que o empreendimento utilizava alumínio em barra para a fabricação de esquadrias de alumínio, que não possuía licença ambiental necessária.
+Dessa forma, à míngua da devida impugnação, preserva-se incólume o fundamento aplicado no decisum vergastado, que se mostra capaz, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não o impugnou. Incide ao caso a Súmula n. 283 do STF. Nesse sentido: AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019; e AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/06/2021.
+Ademais, os argumentos apresentados no apelo especial estão dissociados daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284 do Supremo Tribunal Federal. Nesse sentido: AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019; e AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/06/2021.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. ATIVIDADE EXECUTADA SEM LICENÇA AMBIENTAL. DEGRADAÇÃO DO MEIO AMBIENTE. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. ARGUMENTAÇÃO DISSOCIADA DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
