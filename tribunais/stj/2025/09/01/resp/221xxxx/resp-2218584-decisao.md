@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial, interposto por ASSOCIAÇÃO ASSISTENCIAL DE SAÚDE SUPLEMENTAR-CRUZ AZUL SAÚDE, com fulcro na alínea "a" do permissivo constitucional, objetando-se decisão, tomada pelo eg. Tribunal de Justiça do Estado de São Paulo, em acórdão assim ementado (e-STJ, fls. 1584):
+PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. FORNECIMENTO DO MEDICAMENTO MAVENCLAD (CLADRIBINA ORAL). Sentença de procedência.
+Insurgência da demandada. AFASTAMENTO DA CONDENAÇÃO AO CUSTEIO DO MEDICAMENTO.
+Descabimento. Relação contratual estabelecida entre as partes que se sujeita aos ditames do CDC (Súmula nº 100/TJSP e Súmula 608/STJ). Comprovada a necessidade e pertinência do medicamento indicado para o tratamento da demandante, que foi diagnosticada com esclerose múltipla remitente recorrente. Recusa ilegal, sendo devida a cobertura do medicamento indicado. Inteligência da Súmula 102 do TJSP. Exclusão de obrigatoriedade de custeio de medicamentos de uso domiciliar que deve se restringir aqueles comuns em geral, e não ao caso em tela, em que previsto medicamento específico para tratamento de moléstia grave. Medicina e indústrias farmacêuticas que têm evoluído para reduzir a necessidade de tratamento no âmbito hospitalar, mesmo para casos graves. Precedentes. Sentença mantida. Apelação desprovida. Honorários majorados.
+Em seu recurso especial (e-STJ, fls. 1592-1605), o recorrente alega violação aos arts. 10, inciso VI, da Lei nº 9.656/98 e 422 do Código Civil. Em resumo, a tese recursal sustenta que a decisão do tribunal a quo violou dispositivos legais e jurisprudenciais ao obrigar a recorrente a fornecer um medicamento de uso domiciliar não previsto no rol da ANS, desconsiderando a legislação vigente e o contrato firmado entre as partes, o que configura afronta ao princípio do ato jurídico perfeito e à segurança jurídica.
+Contrarrazões ofertadas às fls. 1607-1634 (e-STJ).
+Este é o Relatório. Passo a decidir.
+A irresignação não comporta provimento.
+Com efeito, o Tribunal de Justiça, ao se manifestar sobre a responsabilidade da operadora em custear o medicamento MAVENCLAD, para o tratamento da esclerose múltipla que acomete a parte recorrida, assim dirimiu a controvérsia:
+"Pois bem.
+Incontroverso que a demandante é beneficiária de plano de saúde firmado com a demandada (fl.83), assim, as partes afiguram- se em uma típica relação de consumo, porque enquadrados nos artigos 2º e 3º do Código de Defesa do Consumidor. É o que também dispõe a Súmula nº 100 do TJSP e a Súmula 608, do C.STJ.
+Também não se discute o estado de saúde da beneficiária, que foi diagnosticada com esclerose múltipla remitente recorrente e nem que houve a indicação médica de terapia oral com o medicamento Mavenclad (princípio ativo Cladribina) (fls. 24/27). demandada ASSOCIAÇÃO ASSISTENCIAL DE SAÚDE SUPLEMENTAR CRUZ AZUL SAÚDE em custear o referido medicamento Mavenclad (princípio ativo Cladribina), alegando que não se trata de procedimento previsto no rol da ANS e nem consta do contrato celebrado e que não há obrigatoriedade de custeio de medicamento de uso domiciliar, salvo antineoplásicos e adjuvantes de tratamento antineoplásico.
+Pois bem.
+À luz do microssistema criado pelo CDC, afigura-se abusiva a negativa de custeio do medicamento indicado.
+A demandante demonstrou documentalmente (fls.24/27) que o medicamento Mavenclad (princípio ativo Cladribina) foi solicitado pelo seu médico, o qual detalhou os motivos pelos quais ele é o mais indicado para o tratamento da demandante.
+Ressalte-se que o médico assistente ressaltou não ser recomendável ao caso dela a utilização do medicamento Natalizumabe, o qual é associado ao efeito adverso grave e potencialmente letal de desenvolvimento de leucoencefalopatia multifocal progressiva (LMP) associada à infecção pelo vírus JC, salientando que a demandante apresenta anticorpo Anti-JC positivo, a evidenciar que ela possui elevado risco para o desenvolvimento de LMP.
+Acrescente-se que o medicamento Mavenclad (princípio ativo Cladribina) possui registro perante a ANVISA (fls. 81/82).
+Assim, mostra-se inequívoca a existência de indicação médica.
+Nesse passo, incabível a negativa de cobertura, uma vez que o material foi solicitado como instrumento mais adequado para a realização de procedimento cirúrgico necessário ao tratamento da paciente, negando-o, pois, nega-se o próprio objetivo do contrato, o que não pode ser admitido, sendo certo, ainda, que não pode o consumidor ser excluído dos avanços da medicina.
+Não deve ser admitida, da mesma forma, a interferência da prestadora de serviços de assistência médica na indicação prescrita pelo médico que assiste o paciente, principalmente em casos graves em que o tratamento demanda rápida avaliação.
+Não se desconhece que o tema debatido neste processo foi recentemente analisado pelo C. Superior Tribunal de Justiça no julgamento dos EREsps 1886929 e 1889704, que reconheceu que o rol de procedimentos previstos pela ANS é, em regra, taxativo.
+No entanto, o entendimento da Corte Superior, prevê, em situações excepcionais, a possibilidade de discussão judicial acerca da cobertura de procedimentos não arrolados, sendo este o caso dos autos.
+Com efeito, a Súmula nº 102 do TJSP dispõe que:
+"Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS." Vale anotar, ademais, que a Lei 14.454/2022 derrubou o rol taxativo da ANS e ampliou a cobertura dos procedimentos a serem autorizados pelos planos de saúde.
+Inclusive, deferir a pretensão não é ferir o princípio do mutualismo, como alega a demandada em suas razões. A função social do contrato, prevista no artigo 421 do Código Civil, atenua o pacta sunt servanda, quando se trata de interesse individual relacionado à dignidade da pessoa humana.
+Não se ignora que, conforme prevê o art. 10º da Lei nº 9.656/98, em regra, não é obrigatório o custeio de medicamentos de uso domiciliar, salvo antineoplásicos e adjuvantes de tratamento antineoplásico. Porém é certo a ratio de tal norma visa à exclusão tão somente de medicamentos comuns em geral, e não do medicamento em debate, o qual foi previsto para tratamento doença grave e incurável.
+Assim, seria um contrassenso com o objetivo da Lei nº 9.656/98, impedir o tratamento domiciliar de uma doença grave, obrigando o paciente a fazer uso de medicamento diverso do indicado por seu médico e em ambiente hospitalar.
+Por fim, não se pode ignorar que a evolução da medicina e da indústria farmacêutica tem reduzido a necessidade de tratamentos no âmbito hospitalar.
+Desse modo, mostra-se abusiva a recusa ao fornecimento do medicamento indicado."
+Com efeito "A jurisprudência da Corte tem reiteradamente reconhecido a aplicação da Súmula 83 quando o acórdão recorrido reflete entendimento pacificado sobre o fornecimento de medicamentos fora do rol da ANS, sobretudo em casos de esclerose múltipla e medicamento como Mavenclad" (AREsp n. 2.667.222/DF, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 9/6/2025, DJEN de 13/6/2025)..
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. PLANO DE SAÚDE. MEDICAMENTO. FUNDAMENTOS. IMPUGNAÇÃO. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF.
+1. As razões lançadas no agravo interno no que tange à inaplicabilidade do óbice sumular nº 7/STJ revelam-se dissociadas do que restou decidido na decisão agravada, a atrair a incidência, por analogia, da Súmula nº 284/STF, ante a deficiência de fundamentação.
+2. Discute-se nos autos acerca da obrigatoriedade de custeio do medicamento de uso domiciliar - Ocrelizumabe - pelo plano de saúde para tratamento de esclerose múltipla que acomete a beneficiária.
+3. O medicamento Ocrelizumabe prescrito pelo médico assistente para tratamento de esclerose múltipla consta da RN-ANS nº 465/2021 como medicamento de cobertura obrigatória para o tratamento da condição, de modo que se figura abusiva a recusa em custear a cobertura. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.747.620/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025 , DJEN de 3/4/2025 .)
+Ademais, em caso semelhante ao dos autos esta Corte entendeu que a negativa de fornecimento do medicamento MAVENCLAD, comprimido (Cladribrina), é abusiva. Nesse sentido: (AREsp n. 2.792.467, Ministro Antonio Carlos Ferreira, DJEN de de 05/03/2025 05/08/2024 .).
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 12% para 13% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
