@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por EDUARDO TADEU DE SOUZA ASSIS contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 1364 e-STJ):
+APELAÇÃO PLANO DE PREVIDÊNCIA PRIVADA AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO EFETIVO À DEMANDANTE MANUTENÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - No caso concreto, não foi verificada a rentabilidade das aplicações financeiras feitas pela entidade apelante, vez que não fora disponibilizada por ela tal informação (vide resposta ao quesito "x"), nem mesmo mencionado pela autora a partir de qual índice passou a ocorrer o alegado desequilíbrio econômico da carteira (vide resposta ao quesito "u"), situação essa que impediu que fosse verificada eventual disparidade concreta entre a rentabilidade contratada e aquela efetivamente auferida pelo Plano, não bastando considerar as aplicações existentes na atualizada, já que necessária a constatação no sentido de que o período concreto não poderia contribuir para a cobertura dos impactos econômicos atuais. - Não sendo conhecida a real situação atuarial da empresa apelante, não há como reconhecer o aludido desequilíbrio nas bases do contrato a ensejar a revisão contratual proposta, por não se saber se a efetiva rentabilidade obtida nas aplicações financeiras da autora foi efetivamente inferior ao aumento da perspectiva de vida atual, tampouco a efetiva possibilidade de insolvência do Plano, questões essa que deveriam ser apuradas de forma concreta e não de modo abstrato como ocorrido nos autos. - Restando claro que o quanto constatado pelo perito se baseou em circunstâncias causadas por desequilíbrio econômico momentâneo dos índices (IPCA e SELIC), provocado pelos impactos econômicos decorrentes da Pandemia, cujos prognósticos estão se modificando em face do aumento expressivo da taxa SELIC de 3,64% em 2021 para mais de 12% previstos para o ano de 2023, inviável a modificação das bases do contrato pretendida, ou o desfazimento do negócio jurídico, mormente quando não restaram aferidos os efetivos impactos atuariais em sua atividade empresária decorrentes da variação dos mencionados índices. RECURSO IMPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 1394/1397 e-STJ).
+Em suas razões de recurso especial (fls. 1.400/1.422 e-STJ), a parte recorrente aponta violação ao artigo 1.009, § 1º, do CPC, pela inexistência de preclusão da possibilidade de questionar o valor da causa atribuído pela parte recorrida à ação.
+Contrarrazões às fls. 1456/1466, e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 1.498/1.506 e-STJ), o Tribunal de origem inadmitiu o recurso especial sob o fundamento de que o artigo tido por violado não foi prequestionado.
+Daí o agravo (fls. 1.517/1. 524 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+É o relatório.
+Decide-se.
+O presente recurso merece prosperar.
+1. O art. 1.009, § 1º, do CPC prevê que "as questões resolvidas na fase de conhecimento, se a decisão a seu respeito não comportar agravo de instrumento, não são cobertas pela preclusão e devem ser suscitadas em preliminar de apelação, eventualmente interposta contra a decisão final, ou nas contrarrazões.".
+No caso em análise, foi proferido despacho saneador pelo Juízo de origem em que foi decidido matéria atinente ao valor da causa
+Tal matérias não está abrangidas no rol do art. 1.015 do CPC, de forma que não poderiam ser impugnadas pela via do agravo de instrumento.
+Nesse ponto, convém mencionar que o Superior Tribunal de Justiça, no Tema n. 988, definiu a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.".
+Na hipótese, porém, não se vislumbra urgência nas questões apreciadas no despacho saneador, de modo que o momento oportuno para impugná-las seria quando da interposição do recurso de apelação ou nas contrarrazões, o que foi feito pela recorrente.
+O entendimento do Superior Tribunal de Justiça é nesse sentido, senão vejamos:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO INTERLOCUTÓRIA SOBRE VALOR DA CAUSA. INAPLICABILIDADE DO TEMA N. 988 DO STJ. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, fundamentando-se na inaplicabilidade do Tema n. 988 do STJ, que mitiga a taxatividade do rol do art. 1.015 do CPC em casos de urgência.
+2. O Tribunal de origem não admitiu o agravo de instrumento contra decisão interlocutória que determinou a emenda da inicial para correção do valor da causa, por entender que tal hipótese não está prevista no art. 1.015 do CPC e não há urgência que justifique a mitigação da taxatividade.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se é cabível agravo de instrumento contra decisão interlocutória que versa sobre o valor da causa, à luz do art. 1.015 do CPC e do Tema n. 988 do STJ; (ii) saber se há urgência e risco de dano irreparável, argumentando que a decisão de emenda à inicial impede o recebimento da ação na origem, justificando a interposição do agravo de instrumento.
+III. Razões de decidir
+4. O entendimento do STJ é de que a tese firmada no Tema n. 988, que permite a mitigação da taxatividade do rol do art. 1.015 do CPC em casos de urgência, não se aplica a decisões interlocutórias sobre o valor da causa, pois a discussão da matéria em preliminar de apelação não traz prejuízo às partes.
+5. A urgência alegada pela parte agravante não se sustenta, uma vez que o julgamento do recurso diferido não causará prejuízo nem às partes nem ao processo, não havendo implicações diretas no procedimento ou na competência.
+6. A decisão agravada está em consonância com precedentes do STJ, que reiteram a inadmissibilidade do agravo de instrumento em tais hipóteses, conforme o art. 1.015 do CPC.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A tese firmada no Tema 988 do STJ, que mitiga a taxatividade do rol do art. 1.015 do CPC, não se aplica a decisões interlocutórias sobre o valor da causa. 2. A discussão sobre o valor da causa em preliminar de apelação não traz prejuízo às partes, não justificando a interposição de agravo de instrumento".
+Dispositivos relevantes citados: CPC/2015, art. 1.015.
+Jurisprudência relevante citada: STJ, REsp n. 1.696.396/MT, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5.12.2018; STJ, AgInt no AREsp n. 1.876.179/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11.4.2022; STJ, AgInt no RMS n. 59.734/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8.4.2019. (AgInt no AREsp 2239272/MT, Rel. Min. JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 23/06/2025, DJe 26/06/2025)
+Desse modo, deve o Tribunal de origem se manifestar sobre as questões preliminares suscitadas em grau de contrarrazões de apelação, posto que ausente a preclusão consumativa na hipótese. Registre-se que entendimento diverso importaria em supressão de instância, tendo em vista a falta do necessário prequestionamento.
+2. Ante o exposto, dou provimento ao recurso especial apenas para determinar a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que haja a análise e julgamento das questões preliminares suscitadas em grau de contrarrazões de apelação.
+Publique-se.
+Intimem-se.
+EMENTA
