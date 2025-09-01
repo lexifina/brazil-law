@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 649, DE 13 DE AGOSTO DE 2025
+Altera dispositivos da Instrução Normativa BCB nº 307, de 21 de setembro de 2022, que divulga procedimentos operacionais relacionados ao Sistema de Transferência de Reservas – STR, à conta Reservas Bancárias e à Conta de Liquidação, de que trata o Regulamento anexo à Resolução BCB nº 105, de 9 de junho de 2021.
+O Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos – Deban, no uso das atribuições conferidas pelo art. 23, inciso I, alínea “a” e pelo art. 112, inciso IV, alínea “a” do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em conta o disposto no Regulamento do Sistema de Transferência de Reservas – STR, da conta Reservas Bancárias e da Conta de Liquidação no Banco Central do Brasil, anexo à Resolução BCB nº 105, de 9 de junho de 2021,
+R E S O L V E :
