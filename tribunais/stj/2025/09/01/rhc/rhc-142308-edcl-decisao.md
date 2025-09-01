@@ -1,0 +1,13 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS opõe embargos de declaração contra a decisão de fls. 927-928, que julgou prejudicado o writ.
+O embargante relembra que, em 13/2/2023, o Juízo da 12ª Vara Federal da Seção Judiciário do Distrito Federal absolveu sumariamente os acusados nos autos da Ação Penal n. 1021215-97.2021.4.01.3400, sob o argumento de impossibilidade de "convalidação dos atos processuais e consequente nulidade das provas angariadas no juízo supostamente incompetente", motivo pelo qual esta relatoria julgou prejudicado este recurso em habeas corpus.
+O Parquet distrital salienta que "a conclusão de que a absolvição sumária dos acusados não importa em consequente prejudicialidade do habeas corpus", pois, "justamente em razão da fixação da competência preceder o reconhecimento de eventual constrangimento ilegal e consequente restituição de bens é que se torna imprescindível o pronunciamento definitivo dessa Corte Superior de Justiça sobre a competência judicial para a apreciação dos feitos afetos à Operação Falso Negativo,  ..  até mesmo para que seja reconhecida, ou não, a própria validade da r. sentença supracitada".
+O embargante requer "o conhecimento e provimento dos presentes embargos, a fim de aclarar a r. decisão recorrida e, ainda, para que seja viabilizado o processamento dos embargos de declaração que a este antecede, sob pena de violação ao inciso IV, do §1º, do art. 489 do CPC c/c art. 3º do CPP e inciso IX, do art. 93 da CFR/88".
+Pleiteia, ainda, que, "incidentalmente, seja determinada a suspensão de todos os efeitos da sentença e a tramitação de todos os processos atinentes à Operação Falso Negativo, com fulcro no poder geral de cautela, a fim de que sejam resguardadas as provas, a ação penal correlata e, especialmente, acautelados o presumível dano reverso, o interesse público e o ressarcimento ao erário, até que essa e. Corte Superior de Justiça se manifeste em definitivo sobre a competência jurisdicional para o julgamento de tais ações".
+Decido.
+Com razão o embargante.
+De fato, o juiz federal decidiu em cumprimento ao acórdão proferido por esta Corte Superior, o qual ainda está pendente de exame dos embargos de declaração então opostos.
+Ou seja, acolher os referidos aclaratórios poderia, ao menos em tese, reverter o resultado do julgamento e, com isso, cassar a decisão absolutória de primeiro grau, de modo que são os embargos que têm o condão de tornar prejudicada a decisão de primeiro grau, não o inverso.
+À vista do exposto, acolho os embargos de declaração para reconsiderar a decisão de fls. 927-928.
+Publique-se. Intimem-se.
+EMENTA
