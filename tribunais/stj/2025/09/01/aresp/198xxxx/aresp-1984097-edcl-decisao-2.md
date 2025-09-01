@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela Telefônica Brasil S.A. em face de decisão que, reconsiderando decisum anterior, conheceu do agravo para dar parcial provimento ao recurso especial interposto pela Companhia de Bebidas das Américas - AMBEV, a fim de que sejam incluí dos, na conta de liquidação, os expurgos inflacionários incidentes sobre a dívida exequenda.
+A embargante, em suas razões, aponta omissão em relação aos seguintes aspectos: (I) não foi levado em consideração que "referidos expurgos inflacionários já foram incluídos na conta atualizada da liquidação e que deverão ser decotados do novo cálculo a ser realizado" (fl. 1.048); (II) "a própria Exequente (AMBEV) postulou a atualização da indenização de acordo com os critérios previstos na Tabela de Cálculos vigente à época da elaboração dos cálculos, com fundamento no Provimento nº. 24/97." (fl. 1.049); e (III) "tratando-se de direito disponível, ao requerer a atualização do débito conforme o Provimento nº 24/97, a Embargada renunciou a eventual quantia que não estivesse contemplada naquele cálculo." (fl. 1.049).
+Pugna, pois, pelo acolhimento dos embargos de declaração, para sanar os vícios apontados, bem como para fins de prequestionamento do art. 5º, XXXVI, da Constituição Federal.
+Impugnação ofertada às fls. 1.069/1.075.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte em bargante.
+De acordo com o estatuído no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, a decisão embargada expôs os motivos pelos quais deu parcial provimento ao apelo especial da parte embargada. Confira-se (fls. 1.032/1.035):
+Quanto ao mais, assiste razão à parte agravante pois este Superior Tribunal de Justiça trilha o entendimento de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1.353.317/RS, rel. Ministro OG FERNANDES, Segunda Turma, DJe 9/8/2017).
+No mesmo sentido, destacam-se os seguintes arestos:
+ ..
+Na espécie, a Corte Regional asseverou (fl. 673):
+A Companhia de Bebidas das Américas - AMBEV (sucessora da Companhia Antártica Paulista Indústria Brasileira de Bebidas e Conexos) interpõe nova apelação, pugnando, desta vez, pela realização dos cálculos dos expurgos inflacionários conforme os critérios previstos na Resolução nº 267/2013. Sem razão a apelante. Como se vê, a parte embargada, em sua primeira apelação, pugnou pela inclusão dos expurgos inflacionários conforme os critérios previstos na Tabela de Cálculos vigente ao tempo da elaboração da conta judicial - Provimento nº 24 /97 (fl. 70), a E. Quinta Turma deferiu o pedido, determinando o retorno dos autos à Vara de origem para recálculo dos valores, e esta decisão não foi impugnada. Assim, a questão já foi definitivamente decidida e se encontra acobertada pela preclusão, não podendo ser reapreciada por este Tribunal. Ademais, o Perito Judicial elaborou os cálculos de fls. 389/391-vº de acordo com os critérios da decisão de fls. 214/vº.
+Nota-se que o acórdão recorrido destoa do entendimento desta Corte Superior, devendo ser reformado a fim de que sejam incluídos na conta de liquidação os expurgos inflacionários incidentes na espécie.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões no decisum embargado, traduzem, na verdade, inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC , impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no Ag Rg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ressalte-se, por fim, que não cabe a esta Corte examinar, no âmbito do recurso especial, nem sequer a título de prequestionamento, eventual violação a dispositivo constitucional, tarefa reservada ao Pretório Excelso.
+ANTE O EXPOSTO, rejeito os e mbargos de declaração.
+Publique-se.
+EMENTA
