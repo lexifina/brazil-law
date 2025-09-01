@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEX ALAN THEODORO DA SILVA e OUTROS em face de decisão que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 211 do STJ.
+Nas razões dos embargos de declaração, a parte agravante afirma que "a R. Decisão Monocrática embargada incorreu em omissão/contradição/obscuridade ao não se manifestar expressamente sobre a natureza de ordem pública da nulidade arguida (violação ao art. 942 do CPC), bem como ao aplicar o óbice do prequestionamento de forma genérica, desconsiderando que a nulidade foi amplamente arguida nas instâncias ordinárias, que vícios insanáveis não se sujeitam à preclusão, e que podem (tais vícios) ser conhecidos de ofício, independentemente de requerimento da parte" (fl. 808).
+Aduz que a questão da violação ao art. 942 do CPC/2015 foi devidamente ventilada nas instâncias ordinárias.
+Houve impugnação às fls. 814-825.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Com efeito, a decisão embargada assim se manifestou sobre o tema:
+Verifica-se que o conteúdo normativo do art. 942, do Código de Processo Civil não foi examinado pelo eg. Tribunal de origem, apesar da oposição de embargos de declaração na eg. Instância a quo.
+Consoante entendimento desta Corte, "para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto. Desatendido o requisito do prequestionamento, incide, no caso, a Súmula 211/STJ" (AgInt no AREsp 1.861.564/PR, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 9.9.2021); "Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese" (AgInt no AREsp 1.598.669/RJ, Relator Ministro MARCO BUZZI, Quarta Turma, DJe de 27.4.2020).
+Ressalte-se que "o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211); persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento" (AgInt no AREsp 1.098.633/MG, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 15.9.2017); "A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça" (AgInt no AREsp 562.067/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 1º.8.2017).
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art.
+105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Com efeito, é de rigor a oposição de embargos de declaração e, se mesmo após o respectivo julgamento, o eg. Tribunal permanecer omisso a quo quanto às matérias que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 1.022 do CPC/2015, o que não ocorreu no caso em exame. Nesse panorama, o recurso especial, no ponto, esbarra no óbice da Súmula 211/STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
