@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  HEROM INDUSTRIA E COMERCIO LTDA (EM RECUPERAÇÃO JUDICIAL),  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  nas  alíneas "a" e  "c"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São Paulo,  assim  ementado  (fl.  110,  e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE REINTEGRAÇÃO DE POSSE CONVERTIDA EM PERDAS E DANOS, FUNDADA EM CONTRATO DE ARRENDAMENTO MERCANTIL. Insurgência contra a r. decisão que, entendendo que as quantias localizadas através da ferramenta SISBAJUD e penhoradas (R$ 26.275,52) são irrisórias face ao crédito exequendo (R$ 476.016,44), ordenou o desbloqueio, expedindo-se mandado de levantamento em favor da executada. SIGNIFICÂNCIA DOS VALORES PENHORADOS. Não subsunção do caso à hipótese prevista no art. 836 do CPC. A quantia constrita, de R$ 26.275,52, não pode ser considerada irrisória, nem abstratamente, nem em relação ao montante exequendo, visto que corresponde a mais de 5,5% dele. Decisão reformada. RECURSO PROVIDO.
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta  ofensa  ao  art. 836, II e parágrafo único, CPC/15
+Sustenta,  em  síntese, que o valor bloqueado (R$26.275,52) das contas bancárias dos devedores é irrisório e, portanto, deve ser liberado.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  163/172,  e-STJ).  Contraminuta  às  fls.  175/187,  e-STJ.
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. O recorrente postula a liberação do valor bloqueado em suas contas bancárias alengado se tratar de valor irrisório.
+O Tribunal estadual se manifestou sobre o tema, conforme trecho que ora se transcreve (fls. 112, e-STJ):
+Delineada tal premissa, passo a examinar o fundamento declinado pela I. Magistrada de primeira instância ao decidir pelo desbloqueio, que é o de que a quantia penhorada é irrisória em relação ao crédito exequendo, aplicando-se o que prescreve o art. 836 do Código de Processo Civil.
+Todavia, data venia, reputo não haver subsunção do caso à aludida norma. A quantia constrita, de R$ 26.275,52, não pode ser considerada irrisória, nem abstratamente, nem em relação ao montante exequendo, visto que corresponde a mais de 5,5% dele. Além disso, não se pode admitir que a executada se beneficie por ter contraído dívida de elevado valor, nem se desconsiderar que, em razão da dimensão do débito, a probabilidade de localização de ativos financeiros a ele consideravelmente inferiores é grande, corroborando, pois, que a justa providência é entregá-los ao credor, no interesse do qual a execução se realiza (art. 797 da codificação instrumental).
+De fato, a jurisprudência deste E. Superior Tribunal de Justiça já se posicionou no sentido de que a inexpressividade do valor da penhora se comparado com o montante do débito não autoriza a liberação dos ativos financeiros encontrados, pois, ainda que mínimos, atenua o prejuízo do credor.
+Nesse sentido, confiram-se os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. BACENJUD. VALOR IRRISÓRIO. DESBLOQUEIO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte Superior firmou a compreensão de que não é válido o desbloqueio do valor penhorado pelo Sistema BacenJud, em razão da só inexpressividade frente ao total da dívida" (AgInt no REsp n. 1.959.668/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMa, julgado em 14/12/2021, DJe de 1/2/2022).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela possibilidade de constrição dos valores indicados. Entender de modo contrário demandaria nova análise dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.255.131/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023, sem destaque no original.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA RECONSIDERADA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. ALUGUÉIS E IMÓVEL. ALEGADA INEXPRESSIVIDADE DO VALOR PENHORADO. EXISTÊNCIA DE INTERESSE DO EXEQUENTE. RISCO À ATIVIDADE EMPRESARIAL. AUSÊNCIA DE INDICAÇÃO DE MEIOS MAIS EFICAZES E MENOS ONEROSOS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. O Tribunal estadual manteve a penhora de aluguéis e imóvel, consignando que o valor bloqueado não pode ser considerado ínfimo e será utilizado para amortizar a dívida, bem assim que os valores recebidos a título de aluguel "não se distinguem dos demais valores que compõem o patrimônio da executada; portanto, o acesso a ele igualmente não se diferencia dos demais modos empregados para atingir seus bens, sendo o dinheiro o primeiro no rol de preferência da penhora (art. 835, I, do CPC)".
+3. Esta Corte já decidiu que, "se, por um lado, a finalidade da penhora é a constrição de bens que garantam a execução, já que esta tem o fim de satisfazer o direito do credor, por outro lado, a inexpressividade do valor do bem em relação ao montante devido não impossibilita a penhora, porque o valor, ainda que mínimo, ameniza o prejuízo do exequente" (AgInt no REsp 1.380.626/SP, Relator Ministro Lázaro Guimarães, Desembargador convocado do TRF 5ª Região, Quarta Turma, DJe de 14.2.2018).
+4. Também é entendimento do Superior Tribunal de Justiça que, "por um lado, pelo princípio da efetividade da tutela executiva, o exequente tem direito à satisfação de seu crédito, sem a qual o processo não passa de mera ilusão; por outro lado, o art. 805 do Novo CPC, consagrando o princípio da efetividade da tutela executiva, impõe ao executado que, acaso alegue existir medida menos gravosa à execução, indique os meios mais eficazes e menos onerosos" (REsp 1.268.998/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.5.2017).
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.569.152/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 25/5/2020, DJe de 4/6/2020, sem destaque no original.)
+Incide, portanto, o óbice da Súmula n. 83/STJ.
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
