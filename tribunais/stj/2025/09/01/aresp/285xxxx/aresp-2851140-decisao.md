@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RODRIGO ROCHA BONADIA contra decisão desta relatoria, que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negou-lhe provimento.
+Nas razões dos aclaratórios (e-STJ, fls. 1.162-1.175), suscita-se a omissão do acórdão recorrido, uma vez que rejeitou os embargos de declaração opostos, afrontando os arts. 667 e 675 do Código Civil de 2002 e 489, §1º, IV, 1.022, I e II e 1.023, §2º, do Código de Processo Civil de 2015. Afirma que não houve o recebimento de valores por parte do embargante na condição de mandatário relacionado ao saldo do preço que foi objeto da nota promissória; e que foi demonstrado o cumprimento integral das obrigações atinentes ao encargo de mandatário.
+Foi apresentada impugnação (e-STJ, fls. 1.176-1.180).
+É o relatório.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer omissão ou contradição no julgado.
+Como se observa dos fundamentos do decisum, o Tribunal de origem, não houve cerceamento de defesa uma vez que foi determinada prova pericial contábil e que o recorrente, na qualidade de mandatário, não foi diligente na execução de seu mandato, conforme exigido pelo artigo 667 do Código Civil. Ele deu quitação integral ao negócio jurídico sem certificar-se de que o mandante havia recebido os valores, afirmando, ainda, que excetuando-se os montantes que o proprietário originário confessou ter recebido dos adquirentes, o valor remanescente à compra e venda do "Sítio Rocha" teve destino incerto. O recorrente não apresentou elementos aptos a conferir veracidade às suas alegações sobre a destinação dos valores.
+Nesse contexto, a alteração de tal entendimento demandaria o revolvimento do suporte fático-probatório dos autos, pretensão incompatível com a via do recurso especial, atraindo a incidência da Súmula 7/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+Dessa forma, as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Ante o exposto, rejeito os embargos de declaração nos moldes consignados.
+Publique-se.
+EMENTA
