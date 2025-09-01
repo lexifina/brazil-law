@@ -1,0 +1,55 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por FUNDACAO CENTRO ESTADUAL DE ESTATISTICAS, PESQUISAS E FORMACAO DE SERVIDORES PUBLICO DO RIO DE JANEIRO - CEPERJ, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 42e):
+AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. EXECUÇÃO DE SENTENÇA. INSERÇÃO NOS APONTAMENTOS FUNCIONAIS DA AUTORA DE TODOS OS DIREITOS ADVINDOS DE SUA INVESTIDURA NO CARGO PÚBLICO A PARTIR DE 30/03/2010, ASSIM COMO A CONTAGEM DE TRIÊNIOS E TEMPO DE APOSENTADORIA. DETERMINAÇÃO EM CONSONÂNCIA COM AS DETERMINAÇÕES JUDICIAIS PROFERIDAS NO PROCESSO ORIGINÁRIO. IMPOSSIBILIDADE DE RETIRAR DIREITOS DA RECORRIDA POR ERRO PERPETRADO PELA ADMINISTRAÇÃO PÚBLICA. MANUTENÇÃO DA DECISÃO. A decisão recorrida determinou que fosse comprovada a inserção nos apontamentos funcionais da autora de todos os direitos advindos de sua investidura no cargo público a partir de 30/03/2010, data da nomeação da 5ª colocada no certame que ocupou o seu lugar de origem, assim como a contagem de triênios e tempo de aposentadoria. Determinação judicial objeto deste recurso que está em consonância com o que foi anteriormente julgado, garantindo à agravada todos os efeitos jurídicos daí decorrentes, a saber, nomeação, posse, exercício e demais atos da vida funcional. Conhecimento e desprovimento do recurso.
+Opostos Embargos de Declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 502, 503, 505, 322, 324 e 492 do Código de Processo Civil, e 884 do Código Civil, alegando-se, em síntese, que "o v. acórdão, ao negar provimento ao recurso interposto, ultrapassa os limites da condenação, já expressamente definidos em sede de cumprimento do julgado, desrespeitando a coisa julgada" (fl. 86e).
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 242e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+- Da violação aos arts. 502, 503, 505, 322, 324 e 492 do CPC, e 884 do CC
+Acerca da ofensa aos arts 502, 503, 505, 322, 324 e 492 do CPC, e 884 do CC, em razão de violação à coisa julgada, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados.
+Dessarte, aplicável, por analogia, o enunciado da Súmula n. 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. EXPEDIÇÃO DE RPV/PRECATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. Não enfrentada no julgado impugnado tese referente ao artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.144.926/DF, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23.09.2024, DJe de 27.09.2024 - destaque meu).
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IRPJ. CSLL. APURAÇÃO DE 8% E 12% SOBRE A RECEITA BRUTA. SOCIEDADE MÉDICA. SERVIÇOS HOSPITALARES. SERVIÇOS PRESTADOS EM AMBIENTE DE TERCEIROS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. TEMA N. 217/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+ ..
+IV - De início, com relação à alegada violação dos arts. 942 e 1.000 do CPC, entendo que a matéria não foi suficientemente debatida no Tribunal de origem, não sendo observado o requisito de prequestionamento na interposição do recurso especial, deficiência recursal que atrai a aplicação das Súmulas n. 211 do STJ e ns. 282 e 356 do STF.
+ ..
+X - Agravo interno improvido.
+(AgInt no REsp n. 2.072.662/SC, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 30.09.2024, DJe de 02.10.2024 - destaque meu).
+Sublinhe-se, por oportuno, que a exigência do prequestionamento se impõe mesmo em relação às matérias de ordem pública, na linha do precedente deste Tribunal Superior, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESCRIÇÃO. OMISSÃO. NÃO OCORRÊNCIA. MATÉRIA ALHEIA AOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. OBSCURIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS DECLARATÓRIOS REJEITADOS COM APLICAÇÃO DE MULTA.
+ ..
+2. As matérias de ordem pública, mesmo passíveis de conhecimento de ofício pelas instâncias ordinárias, necessitam estar devidamente prequestionadas para ensejar o debate no âmbito do STJ.
+ ..
+5. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl no AgInt nos EREsp n. 1.946.950/PA, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 21.08.2024, DJe de 26.08.2024 - destaque meu).
+No mais, o tribunal de origem, soberano no exame dos elementos fáticos e probatórios constantes dos autos, concluiu que, "pela análise da sentença, da decisão monocrática e dos acórdãos  .. , verifica-se que a determinação judicial objeto deste recurso está em consonância com o que foi anteriormente julgado, garantindo à agravada todos os efeitos jurídicos daí decorrentes, a saber, nomeação, posse, exercício e demais atos da vida funcional" (fl. 48e).
+Outrossim, vale ressaltar que esta Corte firmou orientação no sentido de não ser possível, em recurso especial, rever o entendimento do tribunal de origem acerca do teor do título em execução, para aferir eventual ofensa à coisa julgada, à luz do enunciado da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO PÚBLICO DE TELEFONIA. COMPETÊNCIA RELATIVA DOS ÓRGÃOS FRACIONÁRIOS DO STJ. INÉRCIA. PRECLUSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DA COISA JULGADA. ACÓRDÃO BASEADO NOS FATOS E PROVAS DOS AUTOS. REVISÃO. SÚMULA 7 DO STJ.
+1. O STJ possui entendimento de que as normas do Regimento Interno que conferem atribuição aos seus órgãos fracionários versam competência relativa, e, portanto, prorrogável, devendo obrigatoriamente ser suscitadas no momento da distribuição do feito e antes do seu julgamento, sob pena de preclusão.
+2. No presente agravo interno, a parte agravante reitera a tese de negativa de prestação jurisdicional por parte do Tribunal de origem.
+Ocorre que o Tribunal de origem analisou a integralidade da demanda. Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos artigo 1.022 do CPC, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+3. Na hipótese dos autos, o Tribunal local, soberano na análise do conjunto fático-probatório dos autos, concluiu que não havia qualquer matéria de ordem pública a ser tratada, tampouco revelou-se a ocorrência de julgamento extra petita, bem como que a alegação acerca da violação da coisa julgada, sequer poderia ser conhecida, considerando a flagrante inovação recursal,. Com efeito, a revisão de tais fundamentos demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial em razão da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.533.156/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. NOVA PROVA TÉCNICA. OFENSA À TESE REPETITIVA. AUSÊNCIA. VIOLAÇÃO DA COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. A Corte local entendeu que a nova verificação contábil era necessária na fase de cumprimento de sentença porque a perícia realizada na fase cognitiva era inconclusiva e, por isso, inservível para fins de liquidação do julgado.
+3. A Corte paulista também reputou inaplicável a tese repetitiva definida pelo STJ no REsp 1.235.513/AL (DJe. 20/08/2012), pois a situação ali decidida "difere da questão em discussão nestes autos, não servindo como precedente", com ratio decidendi que não serve de parâmetro para o julgamento de outros casos, pelo que considerou presente o fenômeno do distinguishing, nos termos do artigo 489, § 1º, VI, do Código de Processo Civil/2015.
+4. Não há similitude fático-jurídica entre o julgado recorrido e o paradigma examinado sob o rito do art. 543-C do CPC/1973, visto que aquele precedente qualificado trata da inviabilidade de se arguir compensação de reajustes salariais de servidores civis beneficiados com aumentos das Lei 8.622/93 e 8.627/93, como causa extintiva ou modificativa da sentença passada em julgado, ao passo que o caso dos autos remete à necessidade de produção de nova prova pericial, com vistas a apurar o quantum debeatur, haja vista a natureza inconclusiva da prova pericial produzida na fase de conhecimento.
+5. A revisão da conclusão alvitrada nas instâncias ordinárias acerca da ausência de ofensa à coisa julgada formada no AgRg no REsp 1.447.252/SP e para entender que o valor depositado pelo executado, ora agravante, não serviu para garantir o juízo e permitir o processamento da impugnação ao cumprimento de sentença, mas como o valor que o devedor entende devido, constitui providência que esbarra no óbice da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.790.832/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/3/2022, DJe de 22/3/2022.)
+- Dispositivo
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
