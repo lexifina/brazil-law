@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO RECORRIDO. FUNDAMENTOS INATACADOS. SÚMULA N. 283 DO STF, POR ANALOGIA. EFEITOS DA REVELIA E JULGAMENTO EXTRA PETITA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação anulatória de sentença proferida em ação de usucapião, em cuja fase de cumprimento de sentença foi determinada a reintegração imediata do autor nas terras em litígio.
+2. Os fundamentos do acórdão recorrido, suficientes, por si sós, para manter a conclusão do julgado não foram objeto de impugnação, específica, nas razões do recurso especial, incidindo, à hipótese, o comando da Súmula n. 283 do STF, por analogia.
+3. A ausência de debate no Tribunal de origem acerca dos temas suscitados no recurso especial evidencia a falta de prequestionamento. Incidência dos óbices das Súmulas n. 282 e 356 do STF e 211 do STJ.
+4. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por FRANCISCO BEZERRA DOS SANTOS e outros (FRANCISCO e outros), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REINTEGRAÇÃO DE POSSE. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO DA SENTENÇA DA FASE DE CONHECIMENTO. CASO EM QUE HOUVE REVELIA. DESCABIMENTO (e-STJ, fl. 2.340).
+Os embargos de declaração opostos por FRANCISCO e outros foram rejeitados (e-STJ, fls. 2.461-2.467).
+Nas razões do presente recurso, FRANCISCO e outros alegaram, a par de divergência jurisprudencial, a violação dos arts. 114, 115, parágrafo único, 117, 231, V, 269, 319, II, 345, I e II, 346, 492, 506 e 1.005 do CPC, ao sustentarem (1) a necessidade da declaração de nulidade dos atos processuais posteriores à prolação da sentença, nos autos da ação anulatória proposta pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA (INCRA), com a desconstituição do seu trânsito em julgado, em razão da ausência de intimação de um dos corréus; (2) que não é cabível a aplicação dos efeitos da revelia, tendo em vista a existência de pluralidade de réus, e o oferecimento de contestação nos autos, bem como por versar o litígio sobre direito à moradia, que é indisponível. Ademais, estando o revel representado por advogado, os prazos contra ele fluirão da data da publicação do ato decisório; e (3) a ocorrência de julgamento extra petita em relação à determinação de reintegração de posse, uma vez que não houve pedido nesse sentido.
+Foram apresentadas contrarrazões (e-STJ, fls. 2.628-2.642).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO RECORRIDO. FUNDAMENTOS INATACADOS. SÚMULA N. 283 DO STF, POR ANALOGIA. EFEITOS DA REVELIA E JULGAMENTO EXTRA PETITA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação anulatória de sentença proferida em ação de usucapião, em cuja fase de cumprimento de sentença foi determinada a reintegração imediata do autor nas terras em litígio.
+2. Os fundamentos do acórdão recorrido, suficientes, por si sós, para manter a conclusão do julgado não foram objeto de impugnação, específica, nas razões do recurso especial, incidindo, à hipótese, o comando da Súmula n. 283 do STF, por analogia.
+3. A ausência de debate no Tribunal de origem acerca dos temas suscitados no recurso especial evidencia a falta de prequestionamento. Incidência dos óbices das Súmulas n. 282 e 356 do STF e 211 do STJ.
+4. Recurso especial não conhecido.
+VOTO
+O recurso não merece prosperar.
+Trata-se, originalmente, de ação anulatória de sentença proferida em ação de usucapião ajuizada pelo INCRA contra FRANCISCO e outros, cujo pedido foi julgado procedente pelo Juízo da 24ª Vara Federal da Seção Judiciária da Comarca de Parambu-CE, com a determinação da reintegração imediata do autor nas terras objeto da ação ora em discussão.
+Iniciado o cumprimento definitivo da sentença, foi determinada a desocupação das áreas em litígio, ocasião em que os corréus, ora insurgentes, afirmaram que seus patronos detectaram a ausência de intimação do Sr. FRANCISCO acerca do conteúdo da sentença, razão pela qual peticionaram nos autos apontando a existência de nulidade insanável e requerendo, por conseguinte, a desconstituição do trânsito em julgado e a reabertura do prazo recursal, o que, todavia, não foi deferido pelo Juízo da causa, tendo sido essa decisão confirmada pelo TRF5, no julgamento do agravo de instrumento interposto pelos ora recorrentes.
+(1) Da nulidade da sentença e dos atos posteriores
+Nas razões do recurso especial, FRANCISCO e outros defenderam, inicialmente, a nulidade dos atos processuais posteriores à prolação da sentença, nos autos da ação anulatória ajuizada pelo INCRA, com a desconstituição do seu trânsito em julgado, em razão da ausência de intimação de um dos corréus.
+Todavia, a par do reconhecimento da revelia do corréu, ao negar provimento ao agravo de instrumento interposto por FRANCISCO e outros, o Tribunal Regional assim consignou:
+Ademais, cuidando-se de pronunciamento transitado em julgado, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido. Dito de outra forma, a força da coisa julgada só poderá ser removida através de ação autônoma de impugnação de decisão judicial conducente à sua quebra, de modo que não cabe acolher-se em sede de cumprimento de sentença, sob a alegação de nulidade que teria ocorrido na fase de conhecimento, pretensão de desconstituição de seu trânsito em julgado e reabertura de prazo recursal (e-STJ, fl. 2.339).
+Ocorre que esses fundamentos, suficientes, por si sós, para manter a conclusão do julgado, não foram objeto de impugnação, específica, nas razões do recurso especial, incidindo, à hipótese, o óbice da Súmula n. 283 do STF, por analogia.
+(2) e (3) Dos efeitos da revelia e da ocorrência de julgamento extra petita
+Por sua vez, afirmaram que não é cabível a aplicação dos efeitos da revelia, tendo em vista a existência de pluralidade de réus e o oferecimento de contestação nos autos, bem como por versar o litígio sobre direito à moradia, que é indisponível. Ademais, estando o revel representado por advogado, os prazos contra ele fluirão da data da publicação do ato decisório.
+Aduziram, outrossim, a ocorrência de julgamento extra petita quanto à determinação de reintegração de posse, uma vez que não foi formulado pelo INCRA nenhum pedido nesse sentido.
+Impõe-se reconhecer, contudo, que essas questões, a despeito de suscitadas no agravo de instrumento e nos embargos de declaração opostos pelos ora insurgentes, não foram objeto de deliberação no Tribunal local, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incide, à espécie, os comandos das Súmulas n. 282 e 356 do STF, por analogia, e 211 do STJ.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
