@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AOS ARTS. 1.022 E 489 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. NOTA PROMISSÓRIA. AUSÊNCIA DE CIRCULAÇÃO. RELAÇÃO JURÍDICA NÃO COMPROVADA. MODIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal local examina e decide, de modo claro e objetivo, as questões que delimitaram a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Segundo orientação desta Corte, "As características ou princípios dos títulos de crédito - literalidade, autonomia e abstração - são passíveis de oposição quando a cártula é posta em circulação. Contudo, quando se trata de relação entre o credor original e seu devedor, é possível a arguição de exceções que digam respeito ao negócio jurídico que gerou o direito de crédito representado no título, porquanto a relação jurídica existente entre o devedor de nota promissória e seu credor contratual direto é regida pelo direito comum" (REsp 1.367.403/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, j. em 14/06/2016, DJe de 16/06/2016).
+3. O Tribunal de origem, analisando as circunstâncias do caso, consignou que, "tendo em vista que o negócio jurídico subjacente à emissão da nota promissória pode ser objeto de discussão judicial, já que não circulou; que tal título de crédito normalmente garante ou corporifica ele mesmo uma operação de crédito e que o emitente, ora apelado, alega que emitiu o título sob coação, caberia ao beneficiário, ora apelante, a demonstração da "causa debendi" válida, através de exibição do documentos aptos a comprovar a efetiva existência de relação jurídica subjacente entre as partes, o que não se vislumbra "in casu".
+4. A pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por GUSTAVO CHAIBUB GORAB, irresignado com a decisão monocrática proferida às fls. 693-697, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, sob os seguintes fundamentos: a) ausência de violação dos arts. 1.022 e 489 do Código de Processo Civil de 2015; e b) incidência da Súmula 7 do STJ, quanto à alegada ofensa aos arts. 371, 372, 373 e 449 do CPC/2015 e 151, 152 e 153 do Código Civil .
+Em suas razões (fls. 701-711. e-STJ), a parte agravante sustenta, em síntese, que, "De fato, o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, contudo quando deixa de apreciar aqueles fundamentos específicos que originam a violação às normas federais identificadas pelo Agravante no Recurso Especial interposto como cerne do objeto litigioso, incorre na ofensa reflexa também aos arts. 489 e 1.022 do CPC/2015, mesmo sem a invocação do princípio constitucional correspondente" (fl. 704, e-STJ).
+Aduz, também, que "exatamente o trecho do acórdão violador aos dispositivos 371, 372, 373, I, 449 e 1.023 do CPC, 151, 152 e 153 do CC, escolhido para reprodução na r. decisão monocrática de fls. 693/697, ora vergastada, é concludente de exatamente o oposto: a matéria é exclusivamente de direito, pois as decisões recorridas atribuem o ônus da prova indevidamente ao Agravante, quando é do Agravado" (fl. 706, e-STJ).
+Impugnação apresentada às fls. 714-735.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AOS ARTS. 1.022 E 489 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. NOTA PROMISSÓRIA. AUSÊNCIA DE CIRCULAÇÃO. RELAÇÃO JURÍDICA NÃO COMPROVADA. MODIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal local examina e decide, de modo claro e objetivo, as questões que delimitaram a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Segundo orientação desta Corte, "As características ou princípios dos títulos de crédito - literalidade, autonomia e abstração - são passíveis de oposição quando a cártula é posta em circulação. Contudo, quando se trata de relação entre o credor original e seu devedor, é possível a arguição de exceções que digam respeito ao negócio jurídico que gerou o direito de crédito representado no título, porquanto a relação jurídica existente entre o devedor de nota promissória e seu credor contratual direto é regida pelo direito comum" (REsp 1.367.403/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, j. em 14/06/2016, DJe de 16/06/2016).
+3. O Tribunal de origem, analisando as circunstâncias do caso, consignou que, "tendo em vista que o negócio jurídico subjacente à emissão da nota promissória pode ser objeto de discussão judicial, já que não circulou; que tal título de crédito normalmente garante ou corporifica ele mesmo uma operação de crédito e que o emitente, ora apelado, alega que emitiu o título sob coação, caberia ao beneficiário, ora apelante, a demonstração da "causa debendi" válida, através de exibição do documentos aptos a comprovar a efetiva existência de relação jurídica subjacente entre as partes, o que não se vislumbra "in casu".
+4. A pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não comporta provimento.
+Com efeito, não merece prosperar a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, pois, na leitura minudente do acórdão estadual, verifica-se que o eg. Tribunal estadual manifestou-se acerca dos temas pretendidos pela parte agravante, concluindo que não ficou comprovada a causa para emissão do título de crédito.
+Dessa forma, verifica-se que o Tribunal de origem abordou todos os pontos necessários à composição da lide, ofereceu conclusão conforme à prestação jurisdicional solicitada, encontra-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições.
+Salienta-se que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DO AUTOR.
+(..)
+2. Não constatada a alegada violação aos artigos 489, § 1º, inc. IV, e 1.022, inc. II, do CPC/15, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente, ainda que em sentido contrário a pretensão recursal.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp 1.378.786/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/03/2019, DJe de 15/03/2019).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO DE PRECEITO LEGAL. DISSÍDIO JURISPRUDENCIAL NÃO VERIFICADO.
+(..)
+2. Não se viabiliza o recurso especial pela indicada violação dos artigos 489 e 1.022 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente.
+(..)
+7. Agravo interno de fls. 720-730 não conhecido. Agravo interno de fls. 707-717 não provido."
+(AgInt no AREsp 1.270.355/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/03/2019, DJe de 19/03/2019).
+Noutro ponto, o Tribunal de origem, analisando as circunstâncias do caso, consignou que, "tendo em vista que o negócio jurídico subjacente à emissão da nota promissória pode ser objeto de discussão judicial, já que não circulou; que tal título de crédito normalmente garante ou corporifica ele mesmo uma operação de crédito e que o emitente, ora apelado, alega que emitiu o título sob coação, caberia ao beneficiário, ora apelante, a demonstração da "causa debendi" válida, através de exibição do documentos aptos a comprovar a efetiva existência de relação jurídica subjacente entre as partes, o que não se vislumbra "in casu", como se observa no trecho abaixo transcrito (fls. 446-451, e-STJ):
+"De proêmio, insta ponderar que não há se falar, como pretendido pelo apelante, em falta de fundamentação na r. sentença.
+Com efeito, a simples leitura da r. sentença demonstra ter sido ela fundamentada, o que afasta alegação em contrário.
+E não há confundir-se concisão com falta de fundame ntação.
+Nesse sentido, vem entendendo o STJ.:
+(..)
+Não bastasse isso, foram analisados os pontos alegados pelas partes e a eventual apresentação de documento novo, especificamente, o arquivamento do inquérito policial, não tem o condão de modificar o limite objetivo do pedido Ficam afastadas, pois, as alegações em pauta.
+Do Mérito
+A nota promissória é uma promessa incondicional e direta de pagamento feita pelo devedor ao seu credor, configurada em um título de crédito, no qual o emitente se obriga a pagar ao beneficiário ou à sua ordem, a soma em dinheiro constante da cártula.
+Por isso, a nota promissória é título de crédito autônomo e abstrato, possuindo, portanto, plena eficácia de título executivo, nos termos do art. 784, I do CPC/15.
+Por força dos princípios da autonomia e da abstração, a nota promissória posta em circulação desprende-se da causa que lhe deu origem, razão pela qual são inoponíveis ao terceiro portador de boa-fé as exceções pessoais eventualmente existentes entre o beneficiário original e o emitente.
+Por outro lado, quando a nota promissória ainda não houver circulado, como no caso dos autos, permanece atrelada à relação jurídica originária, autorizando a discussão da causa debendi.
+Neste sentido, precedente do C. STJ:
+(..)
+Acrescente-se que a nota promissória, quanto à natureza jurídica do crédito nela estampado, pode ser classificada como título de credito próprio, pois corporifica uma operação de crédito, como letra de câmbio, em contrapartida aos títulos de crédito impróprios, que normalmente não representam uma operação de crédito, como o cheque.
+Dessume-se dos autos que o apelante, atraído pela oportunidade de lucro fácil no mercado de "bitcoins", aliada à promessa de ausência de quaisquer riscos, realizou negócio jurídico ofertado por Marlon Gonzalez Motta, indicado pelo apelado.
+Ao anuir com o negócio envolvendo a compra de moeda digital, era dever do apelante avaliar as circunstâncias da transação, inclusive com relação à reputação do negociador, haja vista que, o risco da promessa de lucro que envolve todo investimento no mercado financeiro.
+De se notar que a comercialização se deu, exclusivamente, entre o apelante e Marlon, não havendo qualquer prova de participação direta do apelado na atividade fraudulenta.
+Sendo assim, diante da ausência das devidas cautelas, o demandante assumiu o risco do negócio com a compra de bitcoins, sendo descabida qualquer responsabilização do apelado.
+Ademais, a parte que realmente deflagrou o prejuízo financeiro sofrido pelo apelante sequer fez parte do processo, sendo que a simples indicação do golpista pelo apelado não pode implicar em sua responsabilização pelo pagamento de quantia que perdeu por falta de cautela do próprio apelante.
+Do contrário, "verbi gratia", seria o mesmo que admitir que o erro médico causado por profissional indicado por qualquer pessoa, seria suficiente para responsabilizá-la pela recomendação.
+É preciso frisar que o próprio apelante, beneficiário do crédito representado pela nota promissória, afirma que o embargante não participou diretamente da compra fraudulenta de "bitcoins", mas que somente assumiu o prejuízo causado pelo estelionatário Marlon Gonzalez Motta, a fim de não ter seu nome atrelado ao notório golpista.
+Contudo, não há qualquer prova nos autos que o apelado tenha anuído ao negócio realizado entre o apelante e Marlon, sequer com a intenção de assegurar o resultado rentável esperado pelo demandante.
+Também não há qualquer prova de que o apelado tenha auferido algum lucro com o malfado investimento perpetrado pelo demandante.
+Dessa forma, não parece razoável que tenha havido uma operação de crédito entre as partes, ensejadora da emissão de nota promissória pelo apelado em favor do apelante, sem qualquer documentação pertinente, como recibo ou comprovante de que seria o garantidor das operações financeiras.
+Portanto, tendo em vista que o negócio jurídico subjacente à emissão da nota promissória pode ser objeto de discussão judicial, já que não circulou; que tal título de crédito normalmente garante ou corporifica ele mesmo uma operação de crédito e que o emitente, ora apelado, alega que emitiu o título sob coação, caberia ao beneficiário, ora apelante, a demonstração da "causa debendi" válida, através de exibição do documentos aptos a comprovar a efetiva existência de relação jurídica subjacente entre as partes, o que não se vislumbra "in casu".
+(..)
+Por tais razões, não merece qualquer reforma a r. sentença objurgada.
+Por fim, diante do não provimento do recurso, majoram-se os honorários advocatícios fixando-os em 11% sobre o valor dado à causa, nos termos do art. 85, § 11 do Código de Processo Civil." (grifou-se)
+Segundo orientação desta Corte, "As características ou princípios dos títulos de crédito - literalidade, autonomia e abstração - são passíveis de oposição quando a cártula é posta em circulação. Contudo, quando se trata de relação entre o credor original e seu devedor, é possível a arguição de exceções que digam respeito ao negócio jurídico que gerou o direito de crédito representado no título, porquanto a relação jurídica existente entre o devedor de nota promissória e seu credor contratual direto é regida pelo direito comum" (REsp 1.367.403/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 14/06/2016, DJe de 16/06/2016).
+Nesse contexto, observa-se que o Tribunal de Justiça concluiu que a relação jurídica subjacente ao título não se sustenta, porquanto não há obrigação que ligue as partes. Assim, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREENCHIMENTO DA NOTA PROMISSÓRIA. ABUSO. INEXISTÊNCIA. AUSÊNCIA DE PRESCRIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto à existência de abuso no preenchimento da nota promissória e à ocorrência da prescrição, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.179.791/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Ademais, a incidência da Súmula 7/STJ, pela alínea "a", também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
