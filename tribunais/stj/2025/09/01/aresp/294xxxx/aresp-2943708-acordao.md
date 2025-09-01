@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL COMBINADA COM RESTITUIÇÃO DOS VALORES PAGOS. CONSÓRCIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. OFENSA AO DEVER DE INFORMAÇÃO. BOA-FÉ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Apesar de opostos embargos de declaração com a finalidade de sanar omissão, a recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil nas razões do especial, atraindo a incidência da Súmula nº 211/STJ.
+2. O Tribunal de origem, com base nas provas colacionadas ao processo, verificou que não houve violação do dever de informação ou da boa-fé quanto à assinatura do contrato. A modificação de tal fundamento demanda reexame de fatos e provas, o que é vedado em virtude da Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por MARIA LUCIA BARBOZA MONTEIRO contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"(..)
+Consórcio de imóvel Alegado pela autora ter aderido a cotas de consórcio mediante promessa de contemplação rápida Tese exposta na inicial que não se mostrou verossímil, mesmo que a ação verse sobre consumo e seja a autora hipossuficiente Impossibilidade de se aceitar a alegação de vício de consentimento, a legitimar a anulação ou resolução dos ventilados contratos.
+Consórcio para aquisição de imóvel Contratos firmados na vigência da Lei nº 11.795, de 8.10.2008, em vigor desde 6.2.2009, mais precisamente, em 15.10.2021 Restituição das parcelas pagas pelo consorciado desistente ou excluído que se dará de forma automática, isto é, por ocasião da contemplação ou no prazo de sessenta dias após o encerramento do grupo Aplicação dos arts. 22, 30 e 31 da mencionada lei Autora que não tem direito à restituição imediata das parcelas que pagou - Prevalência do prazo de trinta dias, consentido pela ré, após o encerramento do grupo.
+Consórcio para aquisição de imóvel Taxa de administração que representa a remuneração da administradora de consórcio pela formação, organização e administração do grupo até o encerramento deste, motivo pelo qual não deve ser restituída ao consorciado desistente - Art. 5º, § 3º, da Lei 11.795/2008 Percentual da taxa de administração, equivalente a 32,0%, previsto no ajuste, que não pode ser reputado como abusivo - Súmula 538 do STJ.
+Consórcio para aquisição de imóvel - Cláusula penal - Ressarcimento do prejuízo supostamente causado pelo consorciado desistente ou excluído - Abusividade - Desistência ou exclusão do consorciado do grupo que não configura infração contratual que implique a aplicação de cláusula penal - Ré que, ademais, não comprovou o efetivo prejuízo ocasionado a ela e ao grupo pela autora - Art. 53, § 2º, do CDC.
+Consórcio para aquisição de imóvel - Consorciado desistente ou excluído - Devolução dos valores pagos, abatidos apenas o fundo de reserva e a taxa de administração proporcional ao tempo de permanência da autora no grupo - Valores pagos que devem ser corrigidos de acordo com os parâmetros estabelecidos nos arts. 24 e 30 da Lei 11.795/2008 - Juros moratórios devidos no dia imediatamente seguinte ao prazo de trinta dias da data do encerramento do grupo Sentença reformada em parte Decretada a procedência parcial da ação - Apelo da ré parcialmente provido" (e-STJ fls. 248/249).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais, com as respectivas teses:
+(i) arts. 2º, 3º, 6º, III, 12 e 46 do Código de Defesa do Consumidor - pois há relação de consumo na hipótese narrada nos autos, a qual deve ser protegida pelo CDC, e
+(ii) art. 422 do Código Civil - porque houve violação do dever de informação por parte da fornecedora, o que ofende o princípio da boa-fé contratual.
+Apresentadas as contrarrazões (e-STJ fls. 273/276), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL COMBINADA COM RESTITUIÇÃO DOS VALORES PAGOS. CONSÓRCIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. OFENSA AO DEVER DE INFORMAÇÃO. BOA-FÉ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Apesar de opostos embargos de declaração com a finalidade de sanar omissão, a recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil nas razões do especial, atraindo a incidência da Súmula nº 211/STJ.
+2. O Tribunal de origem, com base nas provas colacionadas ao processo, verificou que não houve violação do dever de informação ou da boa-fé quanto à assinatura do contrato. A modificação de tal fundamento demanda reexame de fatos e provas, o que é vedado em virtude da Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 2º, 3º, 6º, III, 12 e 46 do Código de Defesa do Consumidor, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, nem sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+A despeito disso, não foi alegada a violação do art. 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+A propósito:
+"(..)
+A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp 1.834.881/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Além disso, no que concerne à alegada ofensa à boa-fé, o Tribunal de origem, à luz da prova dos autos, concluiu pela ausência de violação do dever de informação, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"2.1. Não se mostrou verossímil a alegação da autora de que aderiu a cotas de consórcio imobiliário, no valor de R$ 704.000,00, em outubro de 2021, em virtude de promessa de contemplação imediata (fl. 4).
+A autora juntou aos autos "Propostas de Participação em Grupo de Consórcio" (fls. 70, 73, 76, 79, 82, 85, 88), das quais constou com destaque, próximo à sua assinatura, o seguinte informe: "Declaro que não recebi promessa de contemplação fora das regras do Sistema de Consórcio".
+Ratificando essa declaração, a autora assinou "Termos de Pós- Venda", dos quais também constou, com destaque, a informação de que: "a empresa Tágide Administradora de Consórcios e seus representantes não comercializam cotas contempladas e/ou promessa de contemplação" (fls. 71, 74, 77, 80, 83, 86, 89).
+Acrescente-se que os "prints" das mensagens via WhatsApp apresentados pela autora não revelam que ela estava adquirindo cota contemplada (fls. 27/35), tampouco têm o poder de afastar a declaração constante da proposta de que ela não havia recebido proposta de carta contemplada
+Logo, não se pode aceitar a alegação de vício de consentimento (fl. 12), a legitimar a anulação ou resolução dos ventilados contratos, conseguintemente, a imediata devolução dos valores revertidos ao consórcio" (e-STJ fls. 250/251).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FORNECEDOR DO SERVIÇO. DEVER DE INFORMAÇÃO CLARA E ADEQUADA SOBRE O PRODUTO. PRETENDIDO AFASTAMENTO DA RESPONSABILIDADE. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ.
+1. A jurisprudência deste STJ é assente no sentido de que " ..  é ônus do fornecedor a demonstração de ter promovido a adequada e clara informação sobre seus produtos e serviços, bem como acerca dos riscos dali decorrentes, sob pena de lhe ser atribuída a responsabilidade pela inexatidão no exercício da autonomia da vontade por parte de seus usuários/consumidores (art. 6º, III, do CDC)" (REsp n. 1.908.549/SP, Rel. Ministro Moura Ribeiro, julgado em 17/10/2023, DJe de 19/10/2023).
+2. Não cabe, em recurso especial, reinterpretação de cláusulas contratuais e reexame de matéria fático-probatória (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 2.490.076/PR, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. RESCISÃO. LEGITIMIDADE PASSIVA ATESTADA. REVISÃO. SÚMULA 7/STJ. COMISSÃO DE CORRETAGEM. AUSÊNCIA DE INFORMAÇÃO. VALIDADE NÃO RECONHECIDA. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+2. Todos os integrantes da cadeia de consumo devem integrar o polo passivo da ação de rescisão contratual. A revisão da conclusão adotada pela instância originária esbarra na Súmula 7/STJ.
+3. Esta Corte Superior reconhece que a transferência da responsabilidade ao promitente comprador pelo pagamento de comissão de corretagem só deve ser mantida quando fornecidas todas as informações necessárias.
+4. Reconhecendo a Corte local a ausência de cumprimento do dever de informação, a modificação do entendimento fica impedida pela incidência da Súmula n. 7/STJ.
+5. Agravo interno desprovido" (AgInt no AREsp n. 2.598.152/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
