@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO DOS ARTIGOS 489, 1013 E 1.022 DO CPC. NÃO OCORRÊNCIA. CULPA CONCORRENTE DA VÍTIMA. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Modificar as conclusões do acórdão estadual em relação à culpa concorrente da vítima, requer, necessariamente, o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial, por esbarrar no impedimento da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por METIQ SOLUÇÕES COMERCIAIS LTDA. E OUTRA contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; e b) incidência do verbete 7 do STJ, ante a necessidade de reexame do acervo fático-probatório dos autos no que se refere à configuração de culpa concorrente da vítima.
+Nas razões do agravo interno, a parte agravante sustenta, em síntese, além da ocorrência de negativa de prestação jurisdicional, a não incidência do verbete 7 do STJ, ante a desnecessidade de reexame do acervo fático-probatório dos autos.
+A parte agravada não apresentou contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO DOS ARTIGOS 489, 1013 E 1.022 DO CPC. NÃO OCORRÊNCIA. CULPA CONCORRENTE DA VÍTIMA. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. Modificar as conclusões do acórdão estadual em relação à culpa concorrente da vítima, requer, necessariamente, o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial, por esbarrar no impedimento da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não colhe o recurso, visto que a parte recorrente não trouxe argumentos capazes de infirmar a decisão agravada.
+Com efeito, não prospera a alegação de ofensa aos arts. 489, § 1º, 1.013 e 1.022 do Código de Processo Civil, visto que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao almejado pela parte recorrente.
+Verifico que o Tribunal de origem decidiu a questão tratada na presente demanda de forma fundamentada, conforme se depreende da leitura do seguinte excerto do acórdão recorrido (fl. 1.059):
+"Em que pese a possibilidade de demonstração da culpa concorrente da vítima, nos termos do art. 945 do Código Civil, inexistem nos autos elementos que demonstrem que a vítima concorreu para o evento danoso, ônus que competia à parte demandada, na forma do art. 373, inc. II, do Código de Processo Civil.
+ ..
+Em verdade, extrai-se da sentença crime que a conduta imprudente do demandado condutor do veículo ocasionou o evento danoso que restou no óbito da vítima."
+A leitura dos fragmentos transcritos demonstra a falta de fundamento correto na alegação de contrariedade aos artigos 489, § 1º, 1.013 e 1.022 do CPC/2015, pois a matéria articulada nos embargos foi enfrentada pela Corte de origem.
+Nesse contexto, não me parece ter ocorrido ilegalidade na rejeição dos embargos. O Tribunal de origem manifestou-se de forma clara sobre as questões e os pontos a respeito dos quais devia emitir pronunciamento.
+Nenhum aspecto relevante para a solução da controvérsia deixou de ser examinado. A rejeição dos embargos, vale repetir, não representou, por si só, recusa de prestação da tutela jurisdicional adequada ao caso concreto, na medida em que a matéria neles ventilada foi enfrentada. Estão bem delimitadas, no acórdão recorrido, as premissas fáticas sobre as quais apoiada a convicção jurídica formada e foram feitos os esclarecimentos que, segundo os julgadores, pareceram necessários, tudo isso de modo fundamentado. Não há falar, portanto, em negativa de prestação jurisdicional, senão em discordância da ré com o resultado do julgamento, que lhe foi desfavorável. O acórdão recorrido apresenta fundamentos coerentes e ideias concatenadas.
+Não contém afirmações que se rechaçam ou proposições inconciliáveis. Existe, em suma, harmonia entre a motivação e a conclusão.
+Não constituem motivos para o reconhecimento de deficiência da prestação jurisdicional: (i) a recusa do julgador a enfrentar novamente matéria já decidida; (ii) a circunstância de o entendimento adotado no provimento judicial recorrido não ser o esperado pela parte; (iii) a ausência de menção expressa às normas jurídicas suscitadas pela parte; (iv) a falta de manifestação sobre aspectos que a parte considera importantes (em geral, benéficos às suas teses), se, no provimento judicial recorrido, houverem sido enfrentadas, ainda que mediante fundamentação concisa, as questões cuja resolução efetivamente influencia a solução da causa; (v) haver o julgador se negado a sanar contradição que não seja interna; e (vi) o fato de a decisão, ao acolher determinado argumento, não se reportar a todos os que lhe são contrários, os quais, em decorrência da lógica, são rejeitados. A finalidade dos embargos de declaração não é obter a revisão da decisão judicial ou a rediscussão da matéria nela abordada, mas aperfeiçoar a prestação jurisdicional, a fim de que seja clara e completa. O objetivo da jurisdição, de sua vez, é alcançar objetivamente a composição da lide (conflito de interesses), não discutir teses jurídicas nos moldes expostos pelas partes, como se fosse peça acadêmica ou trabalho doutrinário. Importante ressaltar que, se a fundamentação adotada pelo provimento judicial recorrido não se mostra suficiente ou correta na opinião da parte recorrente, isso não significa que ela não exista. Ausência de motivação não se confunde com fundamentação contrária ao interesse da parte. Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA DE POSSE. DECISÃO MONOCRÁTICA DA LAVRA DESTE RELATOR QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DO ORA AGRAVANTE. SUPOSTA VIOLAÇÃO AO ARTIGO 489 DO CPC DE 2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. APLICAÇÃO DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+2. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+ .. .
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.119.229/RJ, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/8/2022, DJe de 1/9/2022)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV E VI, E 1.022, II, PARÁGRAFO ÚNICO, II, DO CPC. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Inexiste violação do art. 489, § 1º, IV e VI, e 1.022, II, parágrafo único, II, do CPC quando o tribunal a quo examina as questões essenciais ao deslinde da demanda e decide, de modo objetivo, claro e motivado, sem incorrer em nenhum dos vícios previstos na referida norma processual e em negativa de prestação jurisdicional.
+2. Incidem as Súmulas n. 282 do STF e 211 do STJ quando a questão discutida no recurso não foi objeto de prequestionamento pela instância ordinária, não obstante a oposição de embargos de declaração.
+3. Aplicam-se as Súmulas n. 5 e 7 do STJ quando o acolhimento das teses defendidas no recurso especial exigir, necessariamente, a intepretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para sanar a obscuridade conhecer do agravo interno e negar-lhe provimento."
+(EDcl no AgInt no AREsp n. 2.156.716/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 2/12/2024, DJe de 5/12/2024).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO COLETIVA DE CONSUMO. TRANSPORTE. ACIDENTE. DANO MORAL COLETIVO. RECUPERAÇÃO FLUIDA (FLUID RECOVERY). DISTINÇÃO. APLICAÇÃO NA HIPÓTESE CONCRETA. DANOS INDIVIDUAIS. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação coletiva de consumo na qual é pleiteada a reparação dos danos morais e materiais decorrentes de falhas na prestação de serviços de transportes de passageiros que culminaram em dois acidentes, ocorridos em 13/03/2012 e 30/05/2012.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o
+decidido.
+3. O vício que autoriza a oposição dos embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ ou do STF.
+4. Embargos de declaração rejeitados."
+(EDcl no REsp 1741681/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/3/2019, DJe 22/3/2019).
+Assim, não vejo razão para anular o acórdão estadual.
+Por fim, as conc lusões do Tribunal estadual em relação à não configuração de culpa concorrente da vítima sucederam de fato da análise do conjunto fático-probatório carreado aos autos, o que se pode indubitavelmente verificar a partir da leitura dos fundamentos do acórdão estadual supramencionados.
+Nesse contexto, para se entender de forma diferente e acolher-se a pretensão contida no recurso, seria necessário o reexame dos elementos fático-probatórios dos autos, o que atrai o óbice da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
