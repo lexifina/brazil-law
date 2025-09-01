@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por INDÚSTRIA DE PRODUTOS ALIMENTÍCIOS CORY LTDA., contra decisão assim ementada (fl. 992):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO(S). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A parte embargante sustenta que a decisão contém vício de omissão e de erro material, aos seguintes argumentos: (a) existência de preclusão em relação ao juízo de admissibilidade; (b) que o único fundamento de inadmissão do recurso especial seria o óbice da Súmula n. 83/STJ, por entender que a Súmula n. 7/STJ não teria sido invocada como fundamento autônomo; (c) impugnação específica aos óbices aplicados pela Corte de Origem.
+Sem impugnação.
+É o relatório.
+Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+De início, no que tange à alegação de omissão quanto à existência de preclusão em relação ao juízo de admissibilidade, tal narrativa não merece lograr êxito, porquanto, conforme se depreende da decisão lançada às fls. 982, o decisum de fls. 965/966 tornou-se sem efeito, tendo sido submetido o presente agravo em recurso especial a um novo julgamento, sem qualquer vinculação aos fundamentos por ventura aplicados na decisão objurgada.
+Com efeito, a análise prévia dos requisitos de admissibilidade do AREsp e do REsp, efetuada pela Presidência do STJ, não vincula o exame mais detalhado do ministro relator.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ANÁLISE DE REQUISITOS DE ADMISSIBILIDADE. PRECLUSÃO. NÃO OCORRÊNCIA. OMISSÃO INEXISTENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ.
+1. A decisão da Presidência do STJ que confere efeitos modificativos a embargos de declaração para tornar sem efeito a decisão que não conheceu do agravo em recurso especial não vincula o relator para quem os autos são distribuídos, o qual procederá a um novo juízo de admissibilidade do recurso, podendo não conhecer daquele manifestamente inadmissível, porquanto não há preclusão (RISTJ, art. 34, XIII, "a").
+2. Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp n. 1.606.241/CE, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+No que se refere ao argumento de erro material, sob a alegação de que o único fundamento de inadmissão do recurso especial seria o óbice da Súmula n. 83/STJ, razão também não assiste ao embargante.
+A decisão de inadmissibilidade foi clara ao aplicar o óbice da Súmula n. 7/STJ em relação à tese do cerceamento do direito de defesa quanto à necessidade de produção de prova oral, conforme se percebe do trecho da fundamentação, a seguir transcrita (fls. 868/870):
+Ademais, nota-se que a tese de ocorrência de cerceamento de defesa - atrelada à alegação de inexigibilidade das contribuições previdenciárias sobre verbas de natureza indenizatória - foi rejeitada após exame detido das circunstâncias fáticas do caso concreto, conforme se vê deste excerto do acórdão:
+ ..
+Assim, não há como se conferir trânsito ao especial sob alegação de ocorrência de cerceamento de defesa em face da não produção de prova pericial. É assente na jurisprudência do Superior Tribunal de Justiça a faculdade conferida ao magistrado, considerando a matéria impugnada, de determinar ou não a realização da prova, por entendê-la desnecessária ou impertinente. E não cabe à instância superior revisitar a conclusão da instância ordinária quanto à necessidade ou não de produção de prova pericial, incidindo à espécie o entendimento consolidado na Súmula 7 do STJ , de seguinte teor: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Do acima exposto, tem-se que, efetivamente, não houve a impugnação a aplicação das Súmulas 7 e 83 do STJ, o que acarretou o não conhecimento do agravo.
+Desse modo, não há na decisão nenhuma situação que dê amparo ao recurso integrativo, estando evidente que a alegação de omissão e de erro material se caracteriza, em verdade, como mero inconformismo e intuito de rediscutir a controvérsia, propósitos estes para os quais não se prestam os aclaratórios.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL.INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DACONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não constatada a presença de nenhum vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. A parte embargante defende que não seria o caso de análise de provas,
+visto que a própria ementa do acórdão do Tribunal de origem consignou que, de "acordo com o estatuto social da autora, devidamente registrado, a embargante tem como objeto social "a indústria, comércio, exportação de móveis e compensados, importação de matérias-primas, maquinaria, material secundário e tudo mais concernente à indústria do mobiliário em geral, agricultura e pecuária em todas as suas modalidades, bem como, participarem outras empresas, como meio de realizar o objeto social ou para beneficiar-se de incentivos fiscais" (evento 1,CONTRSOCIAL3, fls. 4-5)"(fls. 562/563).
+4. Entendimento diverso, conforme pretendido, implicaria necessariamente o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+6. Os embargos de declaração não constituem instrumento adequado a rever entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de dispositivos constitucionais, mesmo que com vistas à interposição de recurso extraordinário.
+7. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.093.035/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. BENEFÍCIO DA JUSTIÇA GRATUITA. ANTERIOR INDEFERIMENTO. NOVO PEDIDO. CONDIÇÃO FINANCEIRA. ALTERAÇÃO. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado pelo embargante, na realidade, manifesta seu inconformismo com o desprovimento do agravo interno.
+3. "A jurisprudência deste Tribunal Superior firmou-se no sentido de que
+cabe ao requerente demonstrar a alteração de sua condição financeira para a obtenção da gratuidade da justiça quando o benefício não foi requerido perante as instâncias ordinárias, bem como nos casos em que a benesse tenha sido anteriormente indeferida, não bastando a mera declaração de hipossuficiência. (AgInt no REsp n. 1.951.005/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2021, DJe de15/12/2021.).
+4. No caso dos autos, o pleito foi indeferido no primeiro grau de jurisdição e não houve demonstração de que tenha havido alteração na situação financeira do embargante, sendo certo que a improcedência do pedido autoral, por si só, não justifica a concessão do benefício neste
+momento processual.
+5. Embargos de declaração rejeitados e pedido de concessão do benefício da justiça gratuita indeferido. (EDcl no AgInt no REsp n. 1.968.885/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+Assim , evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
