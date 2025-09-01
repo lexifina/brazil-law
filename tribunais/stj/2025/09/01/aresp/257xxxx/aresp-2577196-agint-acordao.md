@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NULIDADE DA INTIMAÇÃO. REVISÃO. SÚMULA N. 7/STJ. FASE DE LIQUIDAÇÃO PRÉVIA AO CUMPRIMENTO DE SENTENÇA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. Cinge-se a controvérsia à validade das intimações realizadas no cumprimento de sentença, impugnadas pelo banco em agravo de instrumento.
+2. Inexiste ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, sanou eventuais omissões e obscuridades contidas no acórdão recorrido.
+3. O Tribunal de origem assentou que o recorrente foi devidamente notificado da distribuição dos processos, conforme se verificou de sua própria petição inicial, no entanto, somente peticionou em apenas um desses requerendo a habilitação dos novos patronos, de modo que, se não requereu a habilitação no outro processo, não pode alegar a nulidade de intimação.
+4. Alterar a conclusão do Tribunal de origem quanto à eventual nulidade da intimação como requer o recorrente demandaria novo reexame de provas, esbarrando-se no óbice da Súmula n. 7/STJ.
+5. O Tribunal de origem assentou que foi necessária a fase de liquidação prévia, e só então, após este momento processual, seria possível que se procedesse à fase de cumprimento de sentença. Este fundamento, apto por si só a manter a decisão nesse ponto, não foi impugnado pelo recorrente, de modo que incide, por analogia, o óbice da Súmula n. 283/STF, "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por BANCO ITAUCARD S.A. contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 833):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. COBRANÇA. AUSÊNCIA DE INFORMAÇÃO ACERCA DO SUBSTABELECIMENTO DOS PODERES DO ADVOGADO. INTIMAÇÃO VÁLIDA AOS PATRONOS CONSTITUÍDOS NOS AUTOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REVISÃO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. FASE DE LIQUIDAÇÃO PRÉVIA AO CUMPRIMENTO DE SENTENÇA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283/STF. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE MANIFESTAÇÃO. PRECLUSÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283/STF. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 623-630):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE NULIDADE DA INTIMAÇÃO DO EXECUTADO POR FORÇA DO SUBSTABELECIMENTO ACOSTADO EM OUTRO INCIDENTE. INOCORRÊNCIA. INTIMAÇÃO DIRIGIDA AO ADVOGADO CONSTITUÍDO. AUSÊNCIA DE COMUNICAÇÃO DE REVOGAÇÃO OU SUBSTABELECIMENTO DO MANDATO ANTERIOR. INTIMAÇÃO PESSOAL DO DEVEDOR, NOS MOLDES DO 513, § 4º, DO CPC. DESNECESSIDADE. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. As intimações de todos os atos processuais devem ser dirigidas aos advogados constituídos nos autos, sob pena de nulidade dos atos praticados sem atendimento da regra processual, porque é notório o cerceamento do direito de defesa das partes.
+Ocorre que, no caso dos autos, não houve pedido expresso de substituição do patrono da parte agravante, não bastando para tanto a juntada de procuração e substabelecimento em outro incidente, quando não há informação específica de sua validade para ambos os processos.
+Logo, não sendo possível presumir que o advogado anterior já não representava a instituição financeira, não há nulidade na intimação do advogado habilitado.
+2. Não houve inércia do exequente, ora agravado, ao pugnar pelo cumprimento de sentença, mas sim a necessidade de aguardar a liquidação, da qual, inclusive, a parte executada, ora agravante, participou indicando assistente técnico e apresentação de quesitos (mov. 10.1).
+Após liquidado o julgado e iniciado o cumprimento de sentença, o devedor foi devidamente intimado através de seu procurador, não havendo o que se falar em nulidade.
+Os embargos de declaração opostos foram acolhidos em parte, entretanto sem efeitos infringentes (fls. 669-674).
+O Banco alega, nas razões do agravo interno, que houve falha no apensamento dos autos, o que resultou na continuidade da liquidação sem conhecimento do Banco, culminando na homologação de laudo, instauração de cumprimento de sentença e bloqueio de valores sem regular intimação.
+Argumenta que houve excesso de penhora, que não se confunde com excesso de execução, e que não houve decisão judicial sobre este ponto.
+O agravante requer, outrossim, o afastamento das Súmulas 83/STJ e 7/STJ, alegando que a decisão monocrática não considerou adequadamente as questões fáticas e legais apresentadas, assim como impugna a aplicação da Súmula 283/STF, uma vez que a regra da intimação pessoal após 1 ano do trânsito em julgado não foi observada, e que houve nulidade das intimações realizadas na pessoa de advogado sem poderes.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+As agravadas apresentaram contraminuta (fls. 865-886 e 888-906).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NULIDADE DA INTIMAÇÃO. REVISÃO. SÚMULA N. 7/STJ. FASE DE LIQUIDAÇÃO PRÉVIA AO CUMPRIMENTO DE SENTENÇA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. Cinge-se a controvérsia à validade das intimações realizadas no cumprimento de sentença, impugnadas pelo banco em agravo de instrumento.
+2. Inexiste ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, sanou eventuais omissões e obscuridades contidas no acórdão recorrido.
+3. O Tribunal de origem assentou que o recorrente foi devidamente notificado da distribuição dos processos, conforme se verificou de sua própria petição inicial, no entanto, somente peticionou em apenas um desses requerendo a habilitação dos novos patronos, de modo que, se não requereu a habilitação no outro processo, não pode alegar a nulidade de intimação.
+4. Alterar a conclusão do Tribunal de origem quanto à eventual nulidade da intimação como requer o recorrente demandaria novo reexame de provas, esbarrando-se no óbice da Súmula n. 7/STJ.
+5. O Tribunal de origem assentou que foi necessária a fase de liquidação prévia, e só então, após este momento processual, seria possível que se procedesse à fase de cumprimento de sentença. Este fundamento, apto por si só a manter a decisão nesse ponto, não foi impugnado pelo recorrente, de modo que incide, por analogia, o óbice da Súmula n. 283/STF, "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Cinge-se a controvérsia à validade das intimações realizadas no cumprimento de sentença, impugnadas pelo ITAÚ UNIBANCO S.A. em agravo de instrumento. O banco alegou que deveriam ter sido dirigidas ao novo procurador, conforme substabelecimento apresentado. O Tribunal, contudo, negou provimento ao recurso, por entender que não houve pedido expresso de substituição do patrono nos autos principais e que as intimações foram corretamente efetuadas.
+Consoante aludido na decisão agravada, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, sanou eventuais omissões e obscuridades contidas no acórdão recorrido e concluiu que não houve falha no apensamento dos processos, e que, quanto a eventual excesso de execução, o recorrente não se manifestou quanto aos atos processuais no momento adequado, ocorrendo a preclusão.
+A propósito, destaco trechos do acórdão que julgou os embargos de declaração que denotam tal entendimento (fls. 671-673).
+ ..
+E, na espécie, verifica-se que a parte embargante possui razão em parte.
+Alega o embargante que o acórdão proferido acabou incorrendo em omissão e obscuridade no que diz respeito à necessária tramitação conjunta dos incidentes, bem como à obrigatoriedade de apensamento dos processos, que não tendo sido realizada pela serventia foi capaz de legitimar a justa causa (juntada de instrumento procuratório apenas em um dos incidentes).
+Vejamos.
+O ato de apensar um processo consiste no procedimento da Secretaria ou Cartório em unir os autos de uma ação ou incidente processual, em razão de disposição legal, fazendo com que sua tramitação seja conjunta.
+No caso dos autos, nota-se que o cumprimento de sentença de parte ilíquida nº 0000454-79.1998.8.16.0017 e o cumprimento de sentença de parte líquida nº 0026726-51.2014.8.16.0017 possuem origem na sentença proferida nos autos físicos nº 826/98.
+No entanto, a ausência de apensamento dos incidentes parte ilíquida e liquida) (cumprimento de sentença de não foi capaz de gerar prejudicialidade ao cumprimento de sentença, tanto é que eles serão sentenciados em momentos distintos, uma vez que a parta líquida já foi extinta, por força da satisfação do crédito, no mov. 180.1 dos autos 0026726-51.2014.8.16.0017, na data de 27/11/2018.
+Ademais, da simples leitura da petição inicial acostada nos autos de nº 0026726-51.2014.8.16.0017, onde a parte embargante protocolizou a procuração e substabelecimento (mov. 191.1), verifica-se que foi informado sobre a distribuição dos dois incidentes (mov. 1.2 dos autos nº 0026726-51.2014.8.16.0017 ), in verbis:
+ ..
+Nesse contexto, como dito acima, por meio da leitura da petição inicial o embargante tinha acesso a informação clara sobre o cumprimento de sentença da parte ilíquida, mesmo assim decidiu juntar instrumento de procuração e substabelecimento, somente no cumprimento de sentença da parte líquida (mov. 191.1 dos autos nº 0026726-51.2014.8.16.0017), sem informar que a mudança estava sendo realizada nos dois incidentes.
+Conforme informado no acórdão embargado, o substabelecimento nos processos não pode ser realizado de maneira automática pelo cartório, por esta razão deve ser expressamente requerida pela parte interessada, o que não ocorreu no caso dos autos.
+ ..
+No mais, no que tange ao excesso de execução que a perícia foi realizada, o cálculo foi homologado (mov. 222.1) com início do cumprimento de sentença no mov. 233.1 e o devedor foi intimado (mov. 245.1 e 255), no entanto deixou transcorrer o prazo sem manifestação (mov. 258).
+Desta forma, conforme bem apontando pelo Magistrado a quo, "tal matéria deveria ter sido alegada em impugnação ao cumprimento de sentença, oportunidade que se encontra alcançada pela preclusão".
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, também não merece conhecimento o recurso especial acerca da suscitada violação dos arts. 7º, 8º, 9º, 10, 272, § 5º, 269, 274, 280, 282 e 283, 286, I, 152, 197 e 223 do CPC, em especial quanto à eventual nulidade da intimação dos procuradores estabelecidos e da necessidade de distribuição conjunta e por dependência dos processos de liquidação e de cumprimento de sentença.
+Ocorre que o Tribunal de origem assentou que o recorrente foi devidamente notificado da distribuição dos processos, conforme se verificou de sua própria petição inicial, no entanto, somente peticionou em apenas um desses requerendo a habilitação dos novos patronos, de modo que, se não requereu a habilitação no outro processo, não pode alegar a nulidade de intimação.
+Nesse sentido, cito:
+AGRAVO INTERNO. PETIÇÃO NO EXPEDIENTE AVULSO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROTOCOLIZAÇÃO APÓS CERTIFICAÇÃO DE TRÂNSITO EM JULGADO E BAIXA DOS AUTOS À ORIGEM PELA COORDENADORIA DE DIREITO PÚBLICO. EXAURIMENTO DA PRESTAÇÃO JURISDICIONAL NO QUE CABIA A ESTA CORTE SUPERIOR. NULIDADE DE INTIMAÇÃO DO ACÓRDÃO QUE JULGOU O AGRAVO INTERNO E DE TRÂNSITO EM JULGADO. NÃO OCORRÊNCIA.
+1. Inicialmente, registra-se que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Pretensão de anular o acórdão da Primeira Turma que, por unanimidade, negou provimento ao Agravo interno, formulada em expediente avulso, sob a alegação de "ausência de intimação do Advogado que assina, eletronicamente, o Agravo Interno". Insurgência apresentada intempestivamente, quando já encerrada a prestação jurisdicional em face do trânsito em julgado do decisum.
+3. Tendo ocorrido o trânsito em julgado do decisum, e, por consequência, exaurida a prestação jurisdicional, a interposição de recurso revela-se intempestiva e incabível. Precedentes.
+4. Afasta-se, ademais, a alegada nulidade do acórdão por ausência de intimação, porquanto, no caso, foi devidamente intimado um dos Advogados regularmente constituído nos autos e que atua no feito desde à origem, tanto é assim que pode exercer, a todo o tempo, o seu direito ao contraditório e à ampla defesa. Não há, pois, falar em nulidade seja da intimação do acórdão proferida no agravo interno, seja da certificação do trânsito em julgado daquele.
+5. A jurisprudência desta Corte firmou entendimento no sentido de ser válida a publicação feita em nome de qualquer dos advogados representantes da parte, mesmo que substabelecidos, desde que não haja pedido expresso de intimação exclusiva em nome de determinado patrono. Precedentes. Na hipótese, não há pedido expresso de intimação exclusiva em nome de um, ou de todos os Procuradores constituídos nos autos.
+6. Agravo interno não conhecido.
+(AgInt no AgInt no AREsp n. 1.526.806/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/9/2021, DJe de 30/9/2021.)
+Assim, estando o acórdão recorrido em consonância com a jurisprudência do STJ nesse ponto, incide o óbice da Súmula 83/STJ. Ademais, alterar a conclusão do Tribunal de origem quanto à eventual nulidade da intimação como requer o recorrente demandaria novo reexame de provas, esbarrando-se no óbice da Súmula 7/STJ.
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA INTIMAÇÃO DO JULGAMENTO DO RECURSO DE APELAÇÃO. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONFORMIDADE COM A ORIENTAÇÃO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Havendo vários advogados habilitados para o recebimento de intimações, é válida a intimação realizada na pessoa de apenas um deles. Precedentes.
+4. No caso dos autos, o órgão julgador decidiu não ocorrer nulidade porque "foi requerida a intimação concomitante, e não exclusiva"; e, nesse contexto, eventual conclusão em sentido contrário dependeria do reexame do acervo fático-probatório, o que não é adequado na via do especial, como enuncia a Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.161.847/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Também não merece conhecimento o recurso especial acerca da suscitada ofensa ao art. 513, § 4º, do CPC, em especial quanto à alegada ausência de intimação pessoal para pagamento após mais de um ano do trânsito em julgado com o consequente afastamento da multa e dos honorários.
+Ocorre que o Tribunal de origem assentou que foi necessária a fase de liquidação prévia, e só então, após este momento processual, seria possível que se procedesse à fase de cumprimento de sentença.
+Este fundamento, apto por si só a manter a decisão nesse ponto, não foi impugnado pelo recorrente, de modo que incide, por analogia, o óbice da Súmula 283/STF, "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. CUMPRIMENTO DE SENTENÇA COLETIVA. LIQUIDAÇÃO DE SENTENÇA COLETIVA. BENEFICIÁRIOS DOMICILIADOS EM OUTRO ESTADO DA FEDERAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo interno interposto contra decisão monocrática que não conheceu do recurso especial.
+II. Razões de decidir 2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+ ..
+III. Dispositivo 4. Agravo interno desprovido.
+(AgInt no REsp n. 2.111.960/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. OFENSA À COISA JULGADA NÃO CONFIGURADA. POSSIBILIDADE DE CUMPRIMENTO DE SENTENÇA SEM LIQUIDAÇÃO PRÉVIA. DECISÃO QUE NÃO FOI IMPUGNADA NO MOMENTO PROCESSUAL ADEQUADO. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. VALOR CORRETO QUE APENAS DEPENDIA DE CÁLCULOS ARITMÉTICOS. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. EXCESSO DE EXECUÇÃO NÃO EVIDENCIAD. MODIFICAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF, que assim dispõe:
+"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.341.993/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024.)
+Ainda no mesmo sentido, também não merece conhecimento o recurso especial quanto à suscitada violação do art. 854 do CPC, em especial acerca da alegação de que seria possível a impugnação à penhora via SISBAJUD em razão do excesso de execução pela capitalização de juros.
+Na oportunidade, o Tribunal de origem atestou que, mesmo intimado da realização da perícia, da homologação do cálculo e do cumprimento de sentença, o recorrente deixou o prazo transcorrer sem manifestação de sua parte, de modo que operou-se a preclusão, fundamento esse que não foi objeto de impugnação. Incide, portanto, também neste ponto, o óbice da Súmula 283/STF.
+Assim, não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
