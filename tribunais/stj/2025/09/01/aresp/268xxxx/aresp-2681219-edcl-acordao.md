@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Os presentes aclaratórios merecem acolhimento para sanar omissão quanto ao pedido de multa veiculado em contrarrazões ao agravo interno.
+2. A aplicação da multa prevista no art. 1.021, § 4º, do CPC, não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência qualificada do recurso, o que não ocorreu na hipótese.
+3. Embargos de declaração acolhidos.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração, opostos por Martha Filomena Leonel de Mattos, contra acórdão de fls. 709/712 (e-STJ), de relatoria deste signatário, que negou provimento ao agravo interno apresentado pela parte adversa.
+A decisão embargada consubstancia-se na seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL -AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS -DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃOCONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA. Os embargos de declaração, quando opostos contra decisão1. de inadmissibilidade do recurso especial na origem, não interrompem, em regra, o prazo para a interposição do agravo, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, o que não ocorre no caso dos autos. Precedentes. 2. Agravo interno desprovido.
+Nas razões dos presentes embargos de declaração (fls. 715/717, e-STJ), a embargante sustenta, em suma, que o acórdão foi omisso na apreciação do pedido constante da contraminuta do agravo interno, referente a aplicação da multa disposta no artigo 1.021, §4º, do CPC.
+Contrarrazões às fls. 721/725, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Os presentes aclaratórios merecem acolhimento para sanar omissão quanto ao pedido de multa veiculado em contrarrazões ao agravo interno.
+2. A aplicação da multa prevista no art. 1.021, § 4º, do CPC, não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência qualificada do recurso, o que não ocorreu na hipótese.
+3. Embargos de declaração acolhidos.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os embargos de declaração merecem acolhimento.
+1. Na hipótese, verifica-se que não houve pronunciamento acerca do pedido de aplicação da multa prevista no artigo 1.021, §4º, do CPC, veiculada em sede de contrarrazões ao agravo interno.
+No ponto, nos termos da jurisprudência consolidada desta Corte Superior, "a aplicação da multa prevista no art. 1.021, § 4º, do CPC, não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência qualificada do recurso" (AgInt nos EDcl no REsp n. 2.176.569/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/4/2025, DJEN de 10/4/2025.)
+No mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. AGRAVO DE INSTRUMENTO NA ORIGEM. AUSÊNCIA DE FIXAÇÃO. NÃO CABIMENTO. AUSÊNCIA DA CARÁTER PROTELATÓRIO. 1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em agravo de instrumento, objeto do presente recurso especial, com origem em decisão interlocutória, sem a prévia fixação de honorários. Nesse contexto, verifica-se que não há, nos autos, honorários advocatícios a serem majorados. 2. "A aplicação da multa prevista nos arts. 259, § 4º, do Regimento Interno do STJ e 1.021, § 4º, do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime" (EDcl nos EDcl no AgInt no RE nos EDcl no REsp 1763419/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/12/2019, DJe 13/12/2019). Agravo interno improvido. (AgInt no AREsp n. 2.791.152/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. CONTRATO DE COMPRA E VENDA. RESOLUÇÃO CONTRATUAL. CITAÇÃO. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MULTA. ARTIGO 1021 DO CPC. INAPLICABILIDADE. HONORÁRIOS. MAJORAÇÃO. DESCABIMENTO. 1. A negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. 2. No caso, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional. 3. É incabível a aplicação da multa prevista no § 4º do art. 1.021 do CPC, requerida nas contrarrazões, pois a referida penalidade não é automática, por não se tratar de mera decorrência lógica do não provimento do agravo interno em votação unânime 4. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido. 5. Agravo interno provido para reconsiderar a decisão agravada, conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 2.828.429/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/5/2025, DJEN de 19/5/2025.)
+No caso, o agravo interno foi interposto com o objetivo de esgotar a instância recursal, não restando configurada a sua manifesta inadmissibilidade ou improcedência apta a autorizar a fixação da multa.
+2. Ante o exposto, acolho os embargos de declaração, para sanar a omissão referente ao não cabimento da multa prevista no artigo 1.021, §4º, do CPC.
+É como voto.
