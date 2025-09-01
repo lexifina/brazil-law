@@ -1,0 +1,14 @@
+DECISÃO
+VALDICLEI BORGES OLIVEIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que não conheceu do HC n. 1.0000.25.245159-6/000.
+Consta dos autos que o paciente foi condenado pela prática do crime de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, com a consequente fixação de regime inicial mais brando e substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+O Tribunal de origem não conheceu do habeas corpus lá impetrado, em acórdão assim ementado (fl. 12):
+EMENTA: HABEAS CORPUS - CONDENAÇÃO TRANSITADA EM JULGADO - PEDIDO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO - EXISTÊNCIA DE AÇÃO PRÓPRIA - NÃO CONHECIMENTO DA IMPETRAÇÃO - CONSTRANGIMENTO ILEGAL A SER SANADO DE OFÍCIO - INEXISTÊNCIA. Devido às peculiaridades próprias da ação constitucional do habeas corpus, é inadmissível o abuso do aludido remédio constitucional para a discussão de matérias afetas à ação própria, como a revisão criminal. Inexistindo patente constrangimento ilegal no ato da autoridade apontada como coatora, não há como conceder habeas corpus de ofício.
+De fato, esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" ( AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, os impetrantes devem apresentar os pedidos de habeas corpus de forma adequada, direcionando-os à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar.
+Correto o Tribunal de origem, portanto, ao não conhecer do habeas corpus lá impetrado, sob o argumento de que "a sentença condenatória transitou em julgado no dia 24/01/2022  ..  Neste contexto, constata-se que o objeto do presente feito não se trata de matéria afeta a habeas corpus, mas sim de revisão criminal. E, devido às peculiaridades próprias da ação constitucional do habeas corpus, é inadmissível o abuso do remédio constitucional como sucedâneo de revisão criminal" (fl. 14).
+Ademais, uma vez que as matérias aqui aventadas não foram analisadas pelo Tribunal de origem, fica impossibilitada a apreciação dessas questões diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir-se na indevida supressão de instância.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
