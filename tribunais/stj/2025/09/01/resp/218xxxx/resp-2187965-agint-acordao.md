@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. INOVAÇÃO RECURSAL. VEDAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa aos arts. 489 e 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação das Súmulas 211 do STJ e 282 do STF, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada aos dispositivos de lei supostamente violados, mesmo após opostos embargos de declaração.
+4. O recurso especial não se presta para o reexame do contexto fático-probatório delineado no acórdão recorrido. Inteligência da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCIO PAVESE contra decisão, proferida às e-STJ fls. 303/305, que não conheceu do recurso especial, considerando a incidência das Súmulas 282 e 284 do STF e 7 do STJ.
+A parte agravante alega, em síntese, que não se aplicam os referidos óbices sumulares, pois existiram questões omissas no acórdão recorrido, houve prequestionamento das teses recursais, e a questão de fundo é exclusivamente de direito.
+Defende, ainda, o prequestionamento implícito.
+Impugnação às e-STJ fls. 874/879.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. INOVAÇÃO RECURSAL. VEDAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa aos arts. 489 e 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação das Súmulas 211 do STJ e 282 do STF, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada aos dispositivos de lei supostamente violados, mesmo após opostos embargos de declaração.
+4. O recurso especial não se presta para o reexame do contexto fático-probatório delineado no acórdão recorrido. Inteligência da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+VOTO
+Conforme registrado na decisão combatida, no que tange a alegada negativa de prestação jurisdicional, incide a Súmula 284 do STF quando a parte aponta no apelo nobre razões de forma genérica, sem explicitar a sua relevância para a solução da controvérsia a ser julgada, como ocorreu na espécie.
+Impende consignar que a tese da parte agravante, particularizando as questões supostamente omissas pelo acórdão recorrido, não pode ser analisada no presente agravo interno.
+Nas razões recursais do agravo interno, a parte recorrente sustenta que o Tribunal de origem foi omisso quanto às teses de que: (a) observância da coisa julgada estabelecida no título exequendo, o qual assegurou o recebimento das parcelas do benefício alimentação compreendidas entre janeiro de 1996 até a data em que efetivamente foi restabelecido o pagamento e não até a data da impetração, mormente porque não houve reforma da sentença de primeiro grau pelo Tribunal, no particular, sob pena de violação aos arts. 502 e 503, todos do CPC; e (b) vedação do enriquecimento sem causa na forma da Lei, conforme o que dispõe o art. 884 do Código Civil (e-STJ fls. 313/314).
+Contudo, em relação ao ponto, a parte ora agravante somente alegou nas razões do apelo nobre que "o Tribunal a quo não se manifestou expressamente sobre a tese suscitada, pugna-se pela declaração da nulidade do acórdão que julgou os declaratórios, por afronta ao disposto no art. 1.022, II, do CPC, remetendo-se os autos à instância de origem para que sejam sanados os pontos trazidos nos embargos de declaração, adotando-se, assim, posicionamento expresso sobre os temas, especialmente sobre a alegação de afronta aos arts. 502 e 503, ambos do Código de Processo Civil e art. 884 do Código Civil" (e-STJ fl. 254).
+Assim, em nenhum momento o ora agravante discutiu a omissão sobre as teses acima expostas no recurso especial.
+Esta Corte tem o entendimento de que é defeso examinar em sede de agravo interno argumentos não suscitados oportunamente pelas partes nas razões recursais, dada a inovação recursal e a preclusão consumativa. Nesse sentido, merecem destaque julgados desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO ACERCA DE DISPOSITIVO SUSCITADO NO AGRAVO INTERNO. CONFIGURAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. EMBARGARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Nas razões dos presentes aclaratórios, sustenta-se que a decisão embargada deixou de se manifestar acerca do art. 374, II e III, do CPC, suscitado no agravo interno. O dispositivo de fato não foi analisado na decisão embargada.
+2. Entretanto, da leitura do recurso especial, verifica-se que o art. 374, II e III, do CPC não foi alvo das razões recursais. Dessa forma, a alteração da argumentação apenas em sede de agravo interno caracteriza indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+3. Embargos de declaração acolhidos sem efeitos modificativos. (EDcl no AgInt no AREsp n. 2.099.824/RS, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 19/12/2022)  Grifos acrescidos .
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. DILIGÊNCIAS INFRUTÍFERAS. REVISÃO DAS CIRCUNSTÂNCIAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INOVAÇÃO DE TESE RECURSAL EM AGRAVO INTERNO. EXAME. IMPOSSIBILIDADE
+1. O Superior Tribunal de Justiça tem entendido que "requerimentos para realização de diligências que se mostraram infrutíferas em localizar o devedor ou seus bens não suspendem nem interrompem o prazo de prescrição intercorrente."
+2. A revisão da conclusão a que chegou o Tribunal de origem sobre a interrupção da prescrição demanda o reexame de fatos e provas, o que é vedado no âmbito do recurso especial. Súmula 7/STJ.
+3. Nos termos da jurisprudência desta Corte, "é vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa" (AgInt nos EDcl no REsp n. 1.949.934/MG, relator Ministro Gurgel de Faria, Primeira Turma, DJe 3/10/2022).
+4. Agravo interno improvido. (AgInt no AREsp n. 1.909.848/PR, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 30/11/2022)  Grifos acrescidos .
+Quanto ao argumento de enriquecimento sem causa, observa-se a ausência de prequestionamento. Incidência da Súmula 282 do STF.
+Nesse ponto, é digno de registro que "Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese" (AgInt REsp 2.147.387/PB, minha Relatoria, DJe 18/06/2025).
+Em outra quadra, extrai-se do aresto integrativo (e-STJ fls. 228/227):
+O acórdão explicitou que o feito de origem se refere a cumprimento individual de sentença coletiva proferida nos autos nº 32159/97 (0000491- 52.2011.8.07.0001), que condenou o Distrito Federal ao pagamento do benefício alimentação em atraso desde janeiro de 1996, data efetiva da supressão do direito, até a data em que efetivamente foi restabelecido o pagamento (ID 139800056). Ainda, o aresto mencionou que o acórdão dos autos nº 0000491-52.2011.8.07.0001, proferido pela 4ª Turma Cível do TJDFT, limitou a condenação à data da impetração do mandado de segurança nº 7.253/97 (ID 139800064): "Portanto, é devido o benefício alimentação desde a data em que foi suprimido até a da impetração do mandado de segurança nº 7.253/97, como, aliás, delimitou a sentença no capítulo sobre o interesse processual: "O objeto e o interesse, todavia, perduram, pois ainda persiste o interesse na condenação ao pagamento das parcelas não abarcadas pelo writ, quais sejam, entre a interrupção do pagamento e a data da impetração. Com tais razões, entendo haver perda apenas parcial do objeto, não sendo caso de extinção do processo sem análise do mérito."" Logo, o julgado concluiu que o mandado de segurança nº 7.253/97 foi impetrado em 28/04/1997, razão pela qual a condenação abarca o período de janeiro de 1996 até 1997.
+Pois bem.
+Infirmar as conclusões do Tribunal a quo, a fim de acolher a tese defendida pela parte recorrente - o "direito reconhecido no título do recebimento de auxílio alimentação das prestações em atraso desde janeiro/1996 (data da supressão do pagamento) até o dia em que efetivamente foi restabelecido o benefício" - esbarra no óbice da Súmula 7 do STJ.
+Por fim, embora não merecedor de acolhimento, o agravo interno não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
