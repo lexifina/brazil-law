@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União (Fazenda Nacional) com base no art. 105, III, a, da CF, em face de acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 277/278):
+APELAÇÃO. PROCEDIMENTO COMUM. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. DOAÇÃO DE BENS. GANHO DE CAPITAL. ACRÉSCIMO PATRIMONIAL. INEXISTÊNCIA. DOADOR.
+- A técnica de julgamento per relationem, utilizada no presente caso, atende ao disposto no art. 93, IX, da Constituição Federal, conferindo celeridade ao julgamento, sem comprometer a fundamentação da decisão judicial.
+- A questão foi devidamente apreciada pela Suprema Corte no ARE 1.387.761, no qual foi expressamente afirmado que o imposto sobre a renda incide sobre o acréscimo patrimonial disponível econômica ou juridicamente (RE 172.058, Rel. Min. Marco Aurélio). No caso da antecipação de legítima, não há, por parte do doador, acréscimo patrimonial disponível.
+- Precedentes jurisprudenciais: TRF 3ª Região, 4ª Turma, ApelRemNec - APELAÇÃO / REMESSA NECESSÁRIA - 5000962-19.2023.4.03.6108, Rel. Desembargador Federal ANDRE NABARRETE NETO, julgado em 27/08/2024, Intimação via sistema DATA: 27/08/2024 e TRF4, AC 5046749-75.2023.4.04.7100, SEGUNDA TURMA, Relatora MARIA DE FÁTIMA FREITAS LABARR RE, juntado aos autos em 17/04/2024.
+- A parte apelada tem razão quanto à majoração dos honorários advocatícios, sendo o percentual ajustado em 1% (um por cento), conforme artigo 85, §11, do CPC.
+- Apelação da União Federal não provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 311/321).
+Nas razões do especial, a parte agravante aponta violação aos arts. 489, 1.022, II, do CPC; 23, §1º, da Lei n. 9.532/1997; 43 do CTN. Sustenta, em síntese: (I) apesar dos aclaratórios, o Tribunal de origem omitiu-se sobre questões necessárias ao deslinde da controvérsia; (II) "incide Imposto de Renda sobre o ganho de capital auferido com a transferência de bem por herança, legado ou adiantamento de legítima, sempre que a operação se der por valor de mercado" (fl. 332).
+Contrarrazões às fls. 335/341.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, quanto à questão sobre a incidência ou não de Imposto de Renda Pessoa Física - IRPF sobre o ganho de capital na doação a título de adiantamento de legítima, verifica-se que, nos autos do RE 1.522.312/SC - Tema 1.391, o Supremo Tribunal Federal reconheceu a repercussão geral da referida matéria.
+Ora, em se descortinando a presença de tema submetido à sistemática da repercussão geral, impõe-se a necessária e prévia feitura de juízo de conformação pela Corte local, a fim de que reste exaurido o ofício judicante do Tribunal de origem, que só ocorrerá com o rejulgamento da apelação ou do agravo de instrumento a seu cargo, ou seja, por ocasião do juízo de retratação/conformação, ou mesmo manutenção, nos moldes
+desenhados nos arts. 1.040 e 1.041 do CPC.
+Essa orientação foi ratificada pela Primeira Turma do STJ, ao decidir que, "Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte" (AgInt no AgInt no REsp 1.603.061/SC, Rel.Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017).
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que for decidido pela Excelsa Corte.
+Publique-se.
+EMENTA
