@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de JOSUE OLIVEIRA SANTOS - condenado pela prática de homicídio qualificado nos autos da Ação Penal n. 0000914-39.2017.8.26.0238 -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Revisão Criminal n. 2279498-93.2024.8.26.0000), não comporta processamento.
+Busca a impetração, em suma, a revisão da dosimetria da pena, asseverando que não houve fundamentação idônea para o aumento da pena-base, tendo o magistrado a quo apenas listado as circunstâncias judiciais do artigo 59, sem ter embasado tal decisão em eventuais provas coligidas nos autos (fl. 6).
+Ocorre que é inviável a utilização da via eleita para revisar novamente a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, do atento exame dos autos, não se observa constrangimento ilegal capaz de justificar a superação do referido óbice, pois, no âmbito restrito do habeas corpus, a análise de suposta violação do art. 59 do Código Penal só é admitida nos casos em que haja flagrante ilegalidade na fixação da reprimenda, o que não se evidencia no caso em apreço, porquanto o recrudescimento da pena-base se encontra alicerçado em elementos concretos - consequências que extrapolam aquelas ínsitas ao tipo penal, tendo em vista que a vítima foi assassinada na frente de seu filho menor -, aplicando-se à hipótese a firme jurisprudência desta Casa no sentido da inviabilidade de profunda incursão no conjunto fático-probatório na via eleita e no sentido da prevalência da discricionariedade do julgador no momento da dosimetria da pena.
+Ante o exposto, indefiro liminarmente a inicial.
+Publiq ue-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO CONCRETA. DISCRICIONARIEDADE VINCULADA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Writ indeferido liminarmente.
