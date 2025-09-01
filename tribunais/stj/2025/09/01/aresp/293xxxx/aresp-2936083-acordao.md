@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. REVISÃO CONTRATUAL. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRECEDENTES.
+1. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. A Segunda Seção deste Tribunal Superior tem entendimento firmado no sentido de que a pretensão de nulidade de cláusula de reajuste de mensalidade de contrato de plano ou seguro de assistência à saúde ainda vigente, cumulada com a repetição do indébito, sujeita-se ao prazo prescricional trienal, pois a ação ajuizada funda-se no enriquecimento sem causa. Incidência do art. 206, § 3º, IV, do CC.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+"AGRAVO INTERNO EM APELAÇÃO. PLANO DE SAÚDE. CASSI. ENTE DE AUTOGESTÃO. NÃO INCIDÊNCIA DO CDC. SÚMULA N.º608 DO STJ. PRESCRIÇÃO DECENAL. TEMA N.º610 DO STJ. PRAZO TRIENAL PARA PRETENSÃO CONDENATÓRIA ADVINDA DA DECLARAÇÃO DE NULIDADE DA CLÁUSULA DE REAJUSTE. PREJUDICIAL REJEITADA. AUMENTOS ANUAIS, TÉCNICOS E ETÁRIOS. PACTO NÃO ADAPTADO À LEI N.º9.656/98. TEMAS N.º 1.016 E N.º952 DO STJ. RELAÇÃO JURÍDICA DE TRATO SUCESSIVO. POSSIBILIDADE DE REVISÃO APÓS ADVENTO DO ESTATUTO DO IDOSO. RESTITUIÇÃO SIMPLES DO VALOR PAGO A MAIOR, OBSERVADA A PRESCRIÇÃO TRIENAL. DECISÃO MANTIDA. RECURSO DESPROVIDO." (e-STJ fls. 579/581).
+Não foram opostos embargos de declaração.
+No recurso especial, a recorrente alega violação dos arts. 927, III, do CPC e 205 do CC.
+Defende que deve ser observada a prescrição decenal no presente caso.
+Com as contrarrazões (e-STJ fls. 617/633), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. REVISÃO CONTRATUAL. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRECEDENTES.
+1. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. A Segunda Seção deste Tribunal Superior tem entendimento firmado no sentido de que a pretensão de nulidade de cláusula de reajuste de mensalidade de contrato de plano ou seguro de assistência à saúde ainda vigente, cumulada com a repetição do indébito, sujeita-se ao prazo prescricional trienal, pois a ação ajuizada funda-se no enriquecimento sem causa. Incidência do art. 206, § 3º, IV, do CC.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa ao art. 927, III, do CPC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, nem sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO CONHECIDO COMO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGADA VIOLAÇÃO AOS ARTS. 26 E 29 DA LEI 10.931 E 789 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. ATRAÇÃO DO ENUNCIADO 282/STF. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO AO QUAL SE NEGA PROVIMENTO."
+(EDcl no REsp 1.789.134/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/11/2020, DJe de 3/12/2020 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido."
+(AgInt no AREsp 1.097.857/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/11/2017 - grifou-se).
+Ademais, verifica-se que o acórdão recorrido está em consonância com o entendimento desta Corte Superior.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE PLANO DE SAÚDE COLETIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REAJUSTE POR SINISTRALIDADE. PRESCRIÇÃO. MATÉRIA SUBMETIDA A RECURSO REPETITIVO. RESP Nº 1.361.182/RS e RESP Nº 1.360.969/RS. PRAZO PRESCRICIONAL TRIENAL. ART. 206, § 3º, IV, DO CC/02. ABUSIVIDADE NÃO
+CONSTATADA NA HIPÓTESE.
+1. Ação revisional do valor do prêmio de seguro saúde cumulada com pedido de reembolso das diferenças, na qual alegam abusividade dos reajustes anuais.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Nas relações jurídicas de trato sucessivo, quando não estiver sendo negado o próprio fundo de direito, pode o contratante, durante a vigência do contrato, a qualquer tempo, requerer a revisão de cláusula contratual que considere abusiva ou ilegal, seja com base em nulidade absoluta ou relativa. Porém, sua pretensão condenatória de repetição do indébito terá que se sujeitar à prescrição das parcelas vencidas no período anterior à data da propositura da ação, conforme o prazo prescricional aplicável.
+7. A pretensão de repetição do indébito somente se refere às prestações pagas a maior no período de três anos compreendidos no interregno anterior à data do ajuizamento da ação (art. 206, § 3º, IV, do CC/2002; art. 219, caput e § 1º, CPC/1973; art. 240, § 1º, do CPC/2015). Precedentes.
+8. Segundo a jurisprudência do STJ, é possível o reajuste de contratos de plano de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade. Precedentes.
+9. No plano de saúde coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+10. Agravo interno não provido." (AgInt no REsp nº 2.047.821/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. SINISTRALIDADE. AUSÊNCIA DE SIMILITUDE. DECISÃO. VIOLAÇÃO DO ART. 421 E 422 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. APLICAÇÃO. INSTITUTO DA SUPRESSIO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. DEVOLUÇÃO. VALORES PAGOS A MAIOR. PRAZO PRESCRICIONAL TRIENAL. ART. 206, § 3º, IV, DO CÓDIGO CIVIL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+2. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+3. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+4. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, que não há que se falar na aplicação do instituto da supressio, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+5. O Superior Tribunal de Justiça possui entendimento no sentido de que "Cuidando-se de pretensão de nulidade de cláusula de reajuste prevista em contrato de plano ou seguro de assistência à saúde ainda vigente, com a consequente repetição do indébito, a ação ajuizada está fundada no enriquecimento sem causa e, por isso, o prazo prescricional é o trienal de que trata o art. 206, § 3º, IV, do Código Civil de 2002." (REsp n. 1.361.182/RS, relator Ministro Marco Buzzi, relator para acórdão Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 10/8/2016, DJe de 19/9/201)
+6. Agravo interno desprovido." (AgInt no REsp nº 2.047.531/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SAÚDE SUPLEMENTAR. CLÁUSULA CONTRATUAL. MUDANÇA DE FAIXA ETÁRIA. PRESCRIÇÃO. PRAZO ÂNUO. INAPLICABILIDADE. PRAZO TRIENAL. RECURSO REPETITIVO. INDÉBITO. REPETIÇÃO SIMPLES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. A Segunda Seção do Superior Tribunal de Justiça consagrou o entendimento de que não incide a prescrição ânua (arts. 178, § 6º, II, do Código Civil de 1916 e 206, § 1º, II, do Código Civil de 2002) atinente às pretensões do segurado contra o segurador, ou a deste contra aquele, nas ações que discutem direitos oriundos de seguros saúde, pois tal avença se enquadra, na realidade, como espécie de plano privado de assistência à saúde, consoante previsão do art. 2º da Lei nº 10.185/2001. Precedente.
+2. A Segunda Seção deste Tribunal Superior tem entendimento firmado no sentido de que a pretensão de nulidade de cláusula de reajuste de mensalidade de contrato de plano ou seguro de assistência à saúde ainda vigente, cumulada com a repetição do indébito, sujeita-se ao prazo prescricional trienal, pois a ação ajuizada funda-se no enriquecimento sem causa. Incidência do art. 206, § 3º, IV, do CC.
+3. As hipóteses de reembolso do usuário de seguro saúde podem ser inseridas, para fins prescricionais, no gênero pretensão de ressarcimento de enriquecimento sem causa (art. 206, § 3º, IV, do CC), pois também visam, ao lado da repetição do indébito (ou restituição de valores indevidamente pagos), evitar o locupletamento ilícito da operadora, que lucraria ao reter arbitrariamente valores destinados ao contratante. Precedente da Quarta Turma.
+4. O pedido de repetição do indébito de forma simples não foi apreciado pela Corte de origem, atraindo a incidência da Súmula nº 282/STF. Assim, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da irresignação dessa tese jurídica, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+5. Embargos de declaração parcialmente acolhidos, nessa parte com efeitos infringentes, a fim de dar parcial provimento ao recurso especial, determinando o retorno dos autos para aplicar a prescrição trienal com base no recurso repetitivo." (EDcl no AgRg no REsp nº 1.560.239/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/12/2018, DJe de 6/12/2018).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
