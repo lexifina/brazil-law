@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ADHEMIR JERONIMO SANTOS DO NASCIMENTO, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que foi cassada a decisão na qual foi deferido o livramento condicional.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto o paciente já cumpriu 73% da pena e preenche os requisitos objetivos e subjetivos para o livramento condicional, mas teve o benefício indevidamente revogado pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Alega que a decisão se baseou na ausência de exame criminológico, o que contraria a jurisprudência consolidada, que admite o exame apenas em casos excepcionais e devidamente fundamentados.
+Argumenta que a decisão do Tribunal estadual não apresentou fundamentação idônea para exigir o exame criminológico, pois utilizou-se de argumentos genéricos sobre a gravidade dos crimes, o que não é suficiente para justificar a necessidade do exame.
+Afirma que a manutenção do paciente em regime semiaberto, apesar de já ter cumprido a maior parte da pena e ter bom comportamento carcerário, ofende os princípios da razoabilidade, da proporcionalidade e da ressocialização da pena, além de violar o princípio da presunção de inocência ao pressupor que o paciente cometerá novos delitos.
+Requer a concessão do livramento condicional ao paciente.
+A medida liminar foi indeferida.
+As informações foram devidamente prestadas.
+O Ministério Público Federal opinou pela concessão da ordem de ofício, em parecer assim sumariado (fl. 51):
+PENAL e PROCESSUAL PENAL. Habeas corpus substitutivo de recurso próprio. Inadmissão. Livramento condicional indeferido com base na impossibilidade de progressão direta do apenado do regime semiaberto ao livramento condicional. Fundamentação inidônea. Ausência de previsão no art. 83 do CP. Precedentes. Presença de ilegalidade. Não conhecimento do writ e, em seguida, concessão de uma ordem ex officio.
+É o relatório.
+Decido.
+A Constituição da República assegura, no art. 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de situação suscetível de habeas corpus.
+No caso, o Tribunal de origem deu provimento ao agravo em execução penal interposto pelo Ministério Público em acórdão assim ementado (fls. 9-10):
+Direito Penal . Execução Penal. Agravo Em Execução Penal. Livramento Condicional. Progressão per saltum. Inadequação. Recurso Provido.
+I. Caso em exame
+1. Agravo em execução interposto pelo Ministério Público contra decisão que concedeu livramento condicional ao apenado Adhemir Jerônimo Santos do Nascimento, condenado a 10 anos, 10 meses e 20 dias de reclusão por homicídio qualificado tentado (duas vezes), em concurso material.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a concessão de livramento condicional diretamente a partir do regime semiaberto, sem a devida transição e sem a realização de exame criminológico, diante da ausência de comprovação dos requisitos subjetivos exigidos pela Lei de Execução Penal.
+III. Razões de decidir
+3. A progressão de regime deve ser gradual, não sendo admitida a transição direta (per saltum) do regime semiaberto para o livramento condicional sem a devida avaliação da adequação do apenado às exigências legais.
+4. A ausência de exame criminológico e de elementos que demonstrem a aptidão do apenado para o retorno ao convívio social inviabiliza a concessão do benefício.
+5. A decisão agravada não observou o necessário equilíbrio entre o direito do apenado e o direito da coletividade à segurança.
+IV. Dispositivo e tese
+6. Recurso conhecido e provido para revogar a decisão que concedeu o livramento condicional, mantendo o apenado em regime semiaberto.
+Tese de julgamento: "1. A concessão de livramento condicional exige a observância de requisitos objetivos e subjetivos, sendo vedada a progressão direta do regime semiaberto para o livramento condicional sem adequada avaliação da aptidão do apenado. 2. A ausência de exame criminológico e de elementos concretos que demonstrem a capacidade de reintegração social do apenado impede a concessão do benefício."
+Todavia, a exigência de passagem por regime prisional intermediário como condição para o livramento condicional não encontra amparo no art. 83 do Código Penal, nem na jurisprudência consolidada do egrégio Superior Tribunal de Justiça, que admite a concessão direta do benefício a sentenciado quando preenchidos os requisitos legais.
+Para corroborar, cito os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO NAS INSTÂNCIAS ORDINÁRIAS. PROGRESSÃO PER SALTUM. FALTA GRAVE RECENTE QUE CONSTITUI FUNDAMENTO IDÔNEO PARA O INDEFERIMENTO DA BENESSE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018).
+2. Na hipótese, o indeferimento do pedido de livramento condicional foi mantido, pelo Tribunal de Justiça com fundamento na necessidade de o apenado experimentar por mais tempo o regime semiaberto ao qual foi recentemente progredido, assim como na existência de falta grave recente decorrente de cometimento de novo delito, enquanto cumpria pena.
+3. A jurisprudência desta Superior Corte de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+Precedentes: AgRg no HC n. 681.079/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/10/2021, DJe de 4/11/2021; AgRg no REsp 1.952.241/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 9/11/2021, DJe 12/11/2021; (RHC 116.324/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019.
+4. Isso não obstante, a jurisprudência desta Corte também é assente no sentido de que a prática de falta grave cometida durante a execução da pena impede a concessão do livramento condicional, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena.
+Nessa linha, em recente julgamento do Recurso Especial n. 1.970.217/MG (Relator Ministro RIBEIRO DANTAS, Terceira Seção, julgado em 24/5/2023, DJe de 1º/6/2023), na sistemática dos recursos representativos de controvérsia (Tema 1161), em sessão de 24/5/2023, a Terceira Seção desta Corte firmou tese no sentido de que "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal."
+5. No caso concreto, o executado interrompeu o cumprimento da pena em 12/08/2015, por abandono, ao não retornar da saída temporária, tendo sido recapturado em virtude de prisão em flagrante em 18/09/2018, sendo de se reconhecer que a falta grave homologada e somente reabilitada em 17/09/2019 perdurou pelo tempo durante o qual o apenado permaneceu evadido.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 872.027/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023,  gn .)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. NECESSIDADE DE VIVENCIAR O REGIME INTERMEDIÁRIO E FALTAS GRAVES ANTIGAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+1. Nos termos dos arts. 83 do Código Penal, 112 e 131 da Lei de Execuções Penais, para a concessão do benefício do livramento condicional, deve o apenado preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover ao próprio sustento de maneira lícita).
+2. O Superior Tribunal de Justiça consolidou entendimento segundo o qual a gravidade do delito, a longa pena a cumprir, as faltas graves antigas e a impossibilidade da chamada progressão per saltum de regime prisional não constituem fundamentos idôneos para o indeferimento dos benefícios da execução penal.
+3. Hipótese em que o Tribunal de origem adotou como óbice para a cassação do livramento condicional a necessidade de o apenado vivenciar primeiramente o regime intermediário e a existência de falta disciplinar em seu histórico prisional, cometida em período longínquo, o que consubstancia constrangimento ilegal no entendimento desta Corte Superior, passível da concessão da ordem, de ofício.
+4. Decisão monocrática que deve ser mantida, a fim de restabelecer o deferimento do benefício pelo Juízo de primeiro grau ao reeducando .
+5. Agravo regimental desprovido.
+(AgRg no HC n. 831.216/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023,  gn .)
+Tem-se, pois, que o indeferimento do livramento condicional com base na necessidade de adaptação progressiva ao convívio social representa exigência ilegal não prevista em lei.
+Por fim, como pontuou o magistrado da execução: "Os exames criminológicos já encontram-se nos autos (seq. 69), e foram favoráveis ao apenado. Verifica-se que o apenado preenche os requisitos subjetivos para a concessão do benefício, conforme TFD acostada aos autos, sem registro de faltas disciplinares nos últimos 12 meses" (fl. 16).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para restabelecer a decisão que deferiu ao paciente o benefício do livramento condicional.
+Publique-se.
+Intimem-se.
+EMENTA
