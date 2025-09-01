@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GILSON BELLO SILVA e OUTRO à decisão monocrática desta relatoria de fls. 486-489, que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões recursais, a parte embargante alega omissão na decisão impugnada, pois "há omissão na decisão embargada sobre a ausência de necessidade de reexame fático e probatório, com contexto fático que é incontroverso e impede o óbice da Súmula 7/STJ: a TERRACAP se recusou a receber os valores tidos como devidos pelos devedores, com indeferimento da consignação em pagamento com base em suposto pagamento a menor do que é cobrado pela credora. A questão é estritamente de mérito, tal como aventada no precedente colacionado acima e mencionado na decisão embargada, buscando apenas que haja o retorno dos autos à origem para que o processamento da ação de consignação em pagamento seja viabilizado, com posterior análise de mérito - ainda não promovida nos autos" (fls. 493-494).
+Houve impugnação dos embargos de declaração.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide em decorrência do mero descontentamento da parte com o resultado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015. INEXISTÊNCIA. NÍTIDO CARÁTER INFRINGENTE. EMBARGOS REJEITADOS.
+1. O juízo provisório de admissibilidade do recurso especial realizado pelo Tribunal de origem não vincula o Superior Tribunal de Justiça, a quem compete a apreciação definitiva dos pressupostos desse recurso. Precedente.
+2. O acórdão embargado não contém omissão, obscuridade ou contradição, uma vez que foi dirimida a questão pertinente ao litígio, limitando-se a parte embargante a utilizar os aclaratórios com o escopo de revisão do julgado, em manifesta pretensão infringente.
+3. A jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura negativa de prestação jurisdicional.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1737181/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO, MANTENDO A DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO ESPECIAL DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO. INSURGÊNCIA DO EXEQUENTE.
+1. Não ocorrentes as hipóteses insertas no art. 1022 do CPC, tampouco equívoco manifesto no julgado recorrido, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, por via dos quais se objetiva rediscutir a causa, já devidamente decidida.
+2. A contradição que autoriza os embargos de declaração é aquela interna ao acórdão, verificada entre a fundamentação do julgado e a sua conclusão, e não aquela que possa existir, por exemplo, com a prova dos autos, nem a que porventura exista entre a decisão e o ordenamento jurídico; menos ainda a que se manifeste entre o acórdão e a opinião da parte vencida.
+3. Não incidem honorários sucumbenciais recursais na hipótese, pois não há um "acréscimo de sucumbência no grau recursal" ante a interposição do recurso de agravo interno ou embargos de declaração, porquanto gravitam esses reclamos no mesmo nível recursal daqueles que promovem a abertura da instância, motivo pelo qual incabível a majoração estabelecida no art. 85, § 11 do NCPC.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 539.673/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+No caso dos autos, não há nenhum vício na decisão embargada.
+A propósito, confira-se a aludida fundamentação da decisão impugnada à qual consignou que na ação consignatória, a insuficiência do depósito realizado pelo devedor conduz ao julgamento de improcedência do pedido, pois o pagamento parcial da dívida não extingue o vínculo. E, a Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o pagamento das prestações deve ser discutido em sede de cumprimento de sentença, sendo, portanto, inadequada a ação de consignação em pagamento:
+O recurso especial tem origem em ação de consignação em pagamento ajuizada pelos ora agravantes em face da ora agravada, objetivando "consignar o valor devido pelos autores à Ré em cumprimento de decisão judicial com trânsito em julgado, cujo pagamento, segundo decisão judicial, está condicionado ao cumprimento de uma obrigação ainda não cumprida por parte da Ré" (fl. 2).
+A tese recursal consiste na alegação de que foram preenchidos os requisitos para a ação de consignação em pagamento ser julgada procedente.
+No presente caso, extrai-se do acórdão recorrido a seguinte fundamentação:
+Os Apelantes alegam, em síntese, que é cabível a ação de consignação em pagamento do valor decorrente de decisão judicial transitada em julgado, que suspendeu os pagamentos e, consequentemente, os encargos moratórios, até que a regularização da licença ambiental.
+Alegam que a recusa da Apelada ocorreu por não aceitar o pagamento do valor sem os encargos moratórios e o enfrentamento da questão referente ao valor devido é necessário para se definir se o valor depositado é integral ou não.
+Sem razão.
+A ação de consignação em pagamento é um instrumento jurídico que permite que o devedor ou terceiro quite uma dívida, depositando a quantia em juízo quando o credor se recusa injustificadamente a recebê-la ou a dar quitação.
+Ela ação regulamentada pelo Código Civil, em seus artigos 539 a 553. Para propor a ação de consignação em pagamento é necessário cumprir diversos requisitos.
+Primeiramente, a dívida deve ser clara, líquida e já vencida, o que significa que o valor deve ser bem definido, sem haver dúvidas quanto ao montante e a data de vencimento deve ter passado. Além disso, antes de ingressar com a ação, o devedor deve tentar pagar a dívida diretamente ao credor, nos termos da lei e do contrato, e é essencial que o credor recuse injustificadamente o pagamento ou a quitação.
+Da análise dos autos, verifica-se que os Apelantes optaram por propor a ação de consignação em pagamento, porque não concordam com o valor exigido pela Terracap. A empresa pública notificou os Autores para que pagassem R$ 1.385.541,85, incluindo juros e correção monetária, desde 2011. Os Autores, lado outro, argumentam que são devidos apenas R$ 159.123,79, alegando que não devem incorrer em juros de mora ou correção monetária devido ao não cumprimento da obrigação da Ré. Portanto, não estamos diante de um caso típico de consignação em pagamento.
+Conquanto seja possível aferir a recusa da parte credora, há controvérsia quanto ao valor devido, por isso a resolução da controvérsia passa pela análise da decisão transitada em julgado proferida no Processo n. 2006.01.1.1139204, que tem a seguinte redação:
+"Ante o exposto, DOU PROVIMENTO ao recurso para determinar a suspensão do pagamento das prestações devidas até que seja promovida a regularização do impasse relativo à licença ambiental, que viabilize a implantação de moradias no local. Durante o período não incidirá correção monetária prevista no contrato."
+Ocorre que, como fundamentado pelo Juiz a quo , o pagamento das prestações deve ser discutido em sede de cumprimento de sentença, sendo, portanto, inadequada a ação de consignação em pagamento.
+Destaca-se que o depósito feito pelos Autores não cobre o montante total devido, o que vai contra o artigo 544, IV, do Código de Processo Civil.
+A ação de consignação em pagamento tem o objetivo de quitar integralmente a obrigação por meio do pagamento, e, portanto, a procedência da ação depende do depósito completo da quantia devida. No entanto, os Autores realizaram o depósito de apenas R$ 159.123,79, que correspondem ao saldo devedor na época da decisão judicial.
+Portanto, dadas essas circunstâncias, fica claro que a ação de consignação em pagamento não é apropriada.
+O pedido deve ser julgado improcedente, pois não foi demonstrada a sua viabilidade e a questão deve ser tratada em cumprimento de sentença.
+Conclui-se que no presente caso, a ação de consignação em pagamento não atingiu sua finalidade, pois não viabilizou o desfazimento da relação jurídica de direito material por meio do depósito.
+A propósito:
+(..)
+Conclui-se que no presente caso, a pretensão de modificar o entendimento firmado, quanto à presença dos requisitos legais para a ação de consignação em pagamento, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+No mesmo sentido: (..)
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
