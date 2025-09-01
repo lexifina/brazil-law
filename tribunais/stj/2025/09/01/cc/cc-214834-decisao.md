@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se conflito negativo de competência entre o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE VALPARAÍSO DE GOIÁS - GO, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA DE EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS E CONFLITOS ARBITRAIS DE BRASÍLIA - DF, suscitado.
+Ação: execução de título extrajudicial ajuizada por CONDOMÍNIO DO CONJUNTO RESIDENCIAL 07 (CR-07) em desfavor de NAUDIELSON MENDES RIBEIRO, fundada em contrato de locação, no qual foi eleito o foro de Brasília - DF para dirimir as controvérsias dele resultantes.
+Manifestação do Juízo de Brasília - DF: reconheceu a abusividade da cláusula de eleição de foro e declinou da competência em favor do foro de domicílio das partes, situado em Valparaíso de Goiás - GO, nos termos do art. 63 do CPC, com a alteração dada pela Lei 14.879/2024.
+Manifestação do Juízo de Valparaíso de Goiás - GO: suscitou o presente conflito de competência, argumentando a inaplicabilidade da Lei 14.879/2024 às teses ajuizadas anteriormente a sua vigência.
+Parecer do MPF: deixou de opinar.
+RELATADO O PROCESSO, DECIDO.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Consoante assentado no julgamento do CC 206.933/SP (Segunda Seção, DJe 13/2/2025), aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024 (art. 2º).
+O estabelecimento desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial.
+Na hipótese, a ação que deu azo ao presente conflito foi ajuizada em 23/5/2024 (e-STJ fl. 15), portanto, previamente à entrada em vigor da Lei 14.879/2024, de modo que se mostra descabida a declinação, de ofício, da competência pelo juízo suscitado, com fundamento na nova redação do art. 63 do CPC.
+Assim, com razão o Juízo de Valparaíso de Goiás - GO ao afirmar a inaplicabilidade à espécie da nova legislação, impondo-se o reconhecimento da competência do juízo suscitado para o julgamento da demanda.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 2ª VARA DE EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS E CONFLITOS ARBITRAIS DE BRASÍLIA - DF.
+Publique-se. Intime-se. Oficiem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA NEGATIVO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 63, §§ 1º e 5º do CPC. ALTERAÇÃO DADA PELA LEI 14.879/2024. CLÁUSULA DE ELEIÇÃO DE FORO. AUSÊNCIA DE PERTINÊNCIA COM O DOMICÍLIO OU RESIDÊNCIA DAS PARTES OU COM O NEGÓCIO JURÍDICO. PRÁTICA ABUSIVA. DEMANDA AJUIZADA ANTES VIGÊNCIA DA NOVA LEI. IMPOSSIBILIDADE DE INCIDÊNCIA. ARTS. 14 E 43 DO CPC. APLICAÇÃO. DECLÍNIO DE OFÍCIO DA COMPETÊNCIA. INVIABILIDADE.
+1. Consoante a jurisprudência da Segunda Seção do STJ, aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024. O estabelecimento desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial. (CC 206.933/SP, DJe 13/2/2025)
+2. A ação que deu azo ao conflito foi ajuizada previamente à entrada em vigor da Lei 14.879/2024, circunstância que invalida o declínio de ofício da competência, pelo juízo suscitado, com fundamento na nova redação do art. 63 do CPC, tendo em vista que inaplicável à espécie.
+3. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 2ª VARA DE EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS E CONFLITOS ARBITRAIS DE BRASÍLIA - DF.
