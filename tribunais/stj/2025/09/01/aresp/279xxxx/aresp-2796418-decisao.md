@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GILMAR GARCIA DE SOUZA, DIRCEU SARTUNINO BEZERRA, ANTONIO FERREIRA DOS SANTOS contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: reivindicatória ajuizada por BISTEK - SUPERMERCADOS LTDA em face de GILMAR GARCIA DE SOUZA, DIRCEU SARTUNINO BEZERRA, ANTONIO FERREIRA DOS SANTOS.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta por BISTEK - SUPERMERCADOS LTDA, nos termos da seguinte ementa:
+Apelação. Princípio da dialeticidade. Reivindicatória. Prova pericial não valorada na sentença. Prova testemunhal. Propositura de ação de reintegração de posse. Natureza jurídica das ações possessória e reivindicatória.
+Comprovação da posse ir Justa. Ônus probatório. Requisitos da usucapião não comprovados.
+Demonstrada a pretensão da parte em alterar a decisão que lhe foi desfavorável, impugnando especificamente a questão decidida na sentença, não há ofensa ao princípio da dialeticidade.
+A prova testemunhai, sem consistência com os demais elementos de prova, destoando da prova pericial, não é suficiente para extinguir ou modificar o direito do autor da ação reivindicatória; os depoimentos pessoais das testemunhas são afirmações decorrentes das circunstâncias parciais construídas por cada uma em suas visões subjetivas, as quais dependem muito do ponto de vista emocional - isso significa que cada pessoa que observa uma situação constrói um mundo particular a respeito; por outro lado, a perícia é feita sobre fatos possíveis de serem mensurados objetivamente - os fatores da perícia se apoiam numa das dimensões das coisas, ou seres: altura, comprimento, largura, profundidade, tudo devidamente explicado, conforme os conceitos da ciência.
+A natureza jurídica das ações de reintegração de posse e reivindicatória são distintas, de forma que, o reconhecimento do direito de posse em favor dos posseiros, ainda que em face do proprietário, não impede a reivindicatória, baseando-se na propriedade; a primeira garante a posse direta, enquanto que a segunda, a reivindicatória, protege o direito de propriedade; por isso que a decisão garantindo a posse direta dos apelados não vincula o juiz da reivindicatória.
+É suficiente para a ação reivindicatória a constatação da posse; posse que impede o direito de propriedade do autor, sem causa jurídica a legitimar a posse do requerido; até mesmo em caso de posse defensável por interditos possessórios, não é obstáculo para o acolhimento do reivindicatório, prevalecendo o direito do proprietário; a noção de posse injusta para efeito reivindicatório, prevista no art. 1.228 do CC, é mais ampla que o conceito para fins possessórios do art. 1.200 do CC.
+Interpretando-se o sistema jurídico-processual, quanto ao ônus probatório, cumpre anotar que é inaceitável exigir do autor da reivindicatória a produção de prova de fato negativo, de provar que o possuidor não detém causa jurídica a justificar sua posse; por essa razão ao requerido da ação reivindicatório recai o ônus de provar uma causa jurídica a justificar sua posse, por ter melhores condições de produzi-la, aplicando-se a regra do § 1 o do Art. 373 do CPC.
+A não comprovação dos requisitos essenciais para usucapião, principalmente o interstício tempo de posse mansa e pacífica, impede a declaração de propriedade, como matéria defensiva em ação reivindicatória.
+Provimento do recurso para julgar procedente o pedido formulado e imitir o proprietário na posse de seu imóvel. (e-STJ fls. 708-709).
+Decisão de admissibilidade do TJ/RO: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) impossibilidade de análise de ofensa a dispositivos constitucionais por esta sede recursal; e
+ii) incidência da Súmula 7 do STJ quanto aos arts. 1.228, 1.238 e 1.239, do CC; e art. 479, do CPC.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) "o Recurso Especial somente se baseou em indicação de violação a dispositivos de lei federal e em nenhum momento alegou violação a texto constitucional" (e-STJ fl. 786); e
+ii) não se aplica a Súmula 7 do STJ quanto aos arts. 1.228, 1.238 e 1.239, do CC; e art. 479, do CPC.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) impossibilidade de análise de ofensa a dispositivos constitucionais por esta sede recursal.
+Cumpre consignar que a afirmação em agravo em recurso especial de que "o Recurso Especial somente se baseou em indicação de violação a dispositivos de lei federal e em nenhum momento alegou violação a texto constitucional" (e-STJ fl. 786) não se sustenta, haja vista a menção expressa em recurso especial de violação de dispositivo constitucional pelo acórdão do TJ/RO, assim descrito: "violou os artigos art. 479 CPC, art. 1228 caput do CC, 1238CC, art. 1239CC e art. 93 inc. IX da CF" (e-STJ fl. 744 - grifos nossos).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados em mais 3% (três por cento) sobre o valor da causa, devidos pelos recorrentes.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
