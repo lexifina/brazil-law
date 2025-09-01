@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.  RECURSO  PROTELATÓRIO.  ART.  1.026,  §  2º,  DO  CPC.  HIPÓTESES.  NÃO  CONFIGURAÇÃO.  MULTA.  INAPLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NÃO CABIMENTO.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  dos  embargos  de  declaração.
+3. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+4.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  IVCI CONSTRUTORA E INCORPORADORA LTDA e OUTRA  ao  acórdão  da Terceira Turma  que  não conheceu do seu recurso especial, nos  termos  da  seguinte  ementa:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL E IMOBILIÁRIO. AÇÃO DE RESILIÇÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. TAXA DE FRUIÇÃO. PERCENTUAL DE RETENÇÃO. ARBITRAMENTO INDEPENDENTE. LUCROS CESSANTES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA.  LITIGÂNCIA.  MÁ-FÉ.  RECURSO  PROTELATÓRIO.  DIGNIDADE DA JUSTIÇA. ATO ATENTATÓRIO. NÃO CARACTERIZAÇÃO.
+1. Ausente o prequestionamento, exigido até mesmo de questões de ordem pública, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. O Superior Tribunal de Justiça entende que a falta de prequestionamento obsta o conhecimento do recurso por qualquer das alíneas do permissivo constitucional.
+3. Não se configurando a prática de ato procrastinatório, atentatório à boa- fé processual ou à dignidade da Justiça, não tem aplicação a reprimenda legal.
+4. Recurso especial não conhecido."  (e-STJ  fl.  664).
+Em  suas  alegações,  as  embargante  s  sustentam  haver  contradição  no  acórdão,  alegando que a matéria relacionada à responsabilidade dos recorridos pelo pagamento de taxa de fruição foi arguida em todas as suas peças processuais, inclusive no seu recurso especial, e em todas as instâncias ordinárias, tendo lá sido discutida, o que é suficiente para que seja reconhecido o seu devido prequestionamento.
+Requerem o saneamento do vício indicado e o acolhimento dos embargos declaratórios com efeitos infringentes.
+A  impugnação  foi apresentada  às e-STJ  fls.  685/691, na qual se requer a imposição de multa pelo caráter protelatório dos embargos e a majoração dos honorários recursais.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.  RECURSO  PROTELATÓRIO.  ART.  1.026,  §  2º,  DO  CPC.  HIPÓTESES.  NÃO  CONFIGURAÇÃO.  MULTA.  INAPLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NÃO CABIMENTO.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  dos  embargos  de  declaração.
+3. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Verifica-se,  desde  logo,  que  o  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  embargos  de  declaração  enumerados  no  art.  1.022  do  Código  de  Processo  Civil:  obscuridade,  contradição,  omissão  ou  erro  material.
+A  controvérsia  foi  devidamente  solucionada  com  expressa  e  adequada  fundamentação  a  respeito  da falta de debate, até mesmo de modo implícito, pelo tribunal de origem, acerca da alegada ofensa ao artigo artigo 402 do Código Civil e da correspondente tese de que, no caso, a retenção dos 25% dos valores pagos refere-se unicamente aos danos emergentes, não alcançando a taxa de fruição, que tem natureza de lucros cessantes e que deve ser fixada mês a mês em percentual do valor do imóvel, desde a imissão na posse até a efetiva desocupação.
+Registrou-se, ademais, que as  embargantes  nem ao menos  opuseram  embargos  de  declaração  visando  obter  daquele  Tribunal  o  pronunciamento  a  respeito  desse  tema,  o  que  inviabiliza  o  recurso  especial  diante  da  falta  de  prequestionamento,  exigido até mesmo para questões de ordem pública,  conforme  o  óbice  das  Súmulas  nºs  282  e  356 /STF.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  sanar  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+No  mais,  a  jurisprudência  do  Superior  Tribunal  de  Justiça  possui  entendimento  pacífico  no  sentido  de  ser  cabível  a  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil  quando  presente  o  intuito  manifestamente  procrastinatório  na  oposição  de  declaratórios.
+Contudo,  o  não  conhecimento  ou  a  improcedência  dos  embargos  de  declaração  não  são  suficientes  para  a  condenação  automática  à  referida  penalidade,  devendo  ser  analisado  caso  a  caso  a  ocorrência  de  efetiva  intenção  protelatória,  o  que,  na  hipótese  em  exame,  não  se  deu  até  o  presente  momento.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  CONHECEU  DO  AGRAVO  PARA  NEGAR  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  DA  AGRAVANTE
+1.  A  Corte  de  origem  dirimiu  a  matéria  submetida  à  sua  apreciação,  manifestando-se  expressamente  acerca  dos  temas  necessários  à  integral  solução  da  lide,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade  no  aresto  recorrido,  não  se  verifica  a  ofensa  ao  artigo  1.022  do  CPC/15.
+2.  A  revisão  do  aresto  impugnado  no  sentido  pretendido  pela  parte  recorrente  exigiria  derruir  a  convicção  formada  nas  instâncias  ordinárias  sobre  a  correção  dos  cálculos  apresentados  pelo  perito.  Incidência  da  Súmula  7/STJ.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  em  afastar  a  aplicação  da  penalidade  de  multa  quando  manejado  o  recurso  previsto  em  lei,  sendo  a  conduta  de  per  si  insuficiente  para  demonstrar  o  intento  protelatório,  sobretudo  quando  não  há  reiteração  da  oposição  dos  aclaratórios.  Provimento  do  agravo  interno  no  presente  ponto.
+4.  Agravo  interno  parcialmente  provido,  tão  somente  para  afastar  a  multa  aplicada  à  agravante  com  base  no  art.  1.026,  §  2º,  do  CPC/2015."
+(AgInt  no  AREsp  2.221.249/RJ,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  DJe  2/5/2024).
+Registre-se,  ainda,  que  a  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou  o  entendimento  de  ser  incabível  a  majoração  dos  honorários  recursais  no  julgamento  do  agravo  interno  e  dos  embargos  de  declaração  oferecidos  pela  parte  que  teve  seu  recurso  integralmente  não  conhecido  ou  não  provido.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  PRINCÍPIO  DO  COLEGIADO.  VIOLAÇÃO.  INEXISTÊNCIA.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER.  PLANO  DE  SAÚDE.  MATERIAL  CIRÚRGICO.  RECUSA  INDEVIDA  DE  COBERTURA.  OFF  LABEL.  NÃO  OCORRÊNCIA.  REVISÃO.  SÚMULA  Nº  7/STJ.  MULTA.  NÃO  AUTOMÁTICA.  HONORÁRIOS.  MAJORAÇÃO.  IMPOSSIBILIDADE.
+1.  A  decisão  monocrática  do  relator  não  viola  o  princípio  da  colegialidade,  tendo  em  vista  a  possibilidade  de  submissão  do  julgado  ao  exame  do  órgão  colegiado  mediante  a  interposição  de  agravo  interno.
+2.  No  caso,  rever  o  entendimento  do  julgado  para  concluir  que  o  material  necessário  à  cirurgia  é  off  label  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+3.  A  Segunda  Seção  do  Superior  Tribunal  de  Justiça  já  decidiu  que  a  aplicação  da  multa  por  litigância  de  má-fé  não  é  automática,  visto  não  se  tratar  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.
+4.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou  o  entendimento  de  ser  incabível  a  majoração  dos  honorários  recursais  no  julgamento  do  agravo  interno  e  dos  embargos  de  declaração  oferecidos  pela  parte  que  teve  seu  recurso  integralmente  não  conhecido  ou  não  provido.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.223.781/DF,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  3/5/2023,  DJe  de  8/5/2023).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração,  com  a  advertência  de  que,  havendo  reiteração  de  embargos,  com  intuito  protelatório,  a  multa  prevista  no  art.  1.026  do  Código  de  Processo  Civil  será  aplicada.
+É  o  voto.
