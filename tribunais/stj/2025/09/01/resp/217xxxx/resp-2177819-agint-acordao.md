@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO INVERTIDA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. CONCORDÂNCIA DO CREDOR. VERBA HONORÁRIA. NÃO CABIMENTO.
+1. Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento, proferido pela Corte de origem impede a admissão do recurs o especial. Incide ao caso as Súmulas 283 e 284/STF.
+3. O STJ firmou entendimento no sentido de que, havendo execução invertida, situação na qual o devedor apresenta os cálculos para expedição de RPV e há a concordância do credor com o valor apresentado, não cabe a fixação de honorários advocatícios.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 95):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO INVERTIDA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. RECURSO NÃO PROVIDO.
+O agravante alega a inaplicabilidade dos óbices das Súmulas 283 e 284/STF indicados pela decisão monocrática e afirma que, no caso em análise, não se trata de execução invertida, sendo cabível a condenação do INSS ao pagamento de honorários
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO INVERTIDA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. CONCORDÂNCIA DO CREDOR. VERBA HONORÁRIA. NÃO CABIMENTO.
+1. Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento, proferido pela Corte de origem impede a admissão do recurs o especial. Incide ao caso as Súmulas 283 e 284/STF.
+3. O STJ firmou entendimento no sentido de que, havendo execução invertida, situação na qual o devedor apresenta os cálculos para expedição de RPV e há a concordância do credor com o valor apresentado, não cabe a fixação de honorários advocatícios.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Conforme consta da decisão agravada, o Tribunal de origem concluiu pela inviabilidade da fixação dos honorários advocatícios no caso dos autos, utilizando-se do seguinte fundamento (fls. 25-26, grifei):
+Quanto aos honorários de sucumbência, consigna-se que são devidos na fase de cumprimento de sentença, excetuado o caso de valor a ser requisitado por precatório não impugnado, e desde que não caracterizada a execução invertida. No caso de cumprimento complementar de sentença, tem-se entendido que deve seguir o mesmo raciocínio para as execuções sujeitas a RPVs. Ou seja, são devidos honorários em caso de execução suplementar, em virtude da atuação do advogado em busca do pagamento complementar a ser feito por meio de RPV, ainda que o adimplemento do principal tenha sido feito mediante expedição de precatório, mesmo que não tenha havido impugnação. (..)
+No caso em tela, porém, além de o exequente ter apresentado cálculos executivos complementares sem que tivesse sido oportunizado prazo para o INSS promover o cumprimento voluntário do julgado, a Autarquia expressamente anuiu aos cálculos do credor (processo 5001359-42.2015.4.04.7107/RS, evento 140, PET1). Tem-se, pois, caracterizada a situação chamada de execução invertida, donde não cabe a fixação de honorários executivos pretendidos pela autora.
+Nesse contexto, efetivamente, a fundamentação nele expendida não foi especificamente impugnada nas razões do apelo especial, o que caracteriza deficiência na argumentação recursal. Com efeito, à míngua da devida impugnação, preservam-se incólumes os fundamentos aplicados no decisum vergastado, que se mostram capazes, por si só, manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou.
+Inafastável, assim, os óbices das Súmulas 283 e 284/STF.
+Ademais, o entendimento expendido pelo Tribunal a quo se encontra em conformidade com a jurisprudência desta Corte Superior no sentido de que, na denominada "execução invertida", quando o executado apresenta os cálculos do benefício para, no caso de concordância do credor, não cabe a fixação de honorários advocatícios. Inteligência da Súmula 83/STJ.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO PARCIAL. ART. 85, § 7º, DO CPC. HONORÁRIOS APENAS SOBRE A PARCELA CONTROVERTIDA. AGRAVO IMPROVIDO.
+1. Os honorários devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa. Precedentes.
+2. Por um lado, o art. 85, §7º, do CPC, ao contrário do que afirmam os agravantes, não aponta qual deve ser a base de cálculo dos honorários no caso de impugnação parcial da Fazenda Pública, o que afasta a alegação de que está sendo contrariada a literalidade do dispositivo.
+3. Por outro lado, interpretação em sentido contrário possibilitaria aos credores criar excesso de execução de forma intencional, tão somente para forçar a Fazenda Pública a apresentar contradita e, com isso, serem favorecidos com honorários sobre todo o valor executado, ainda que a parcela controvertida seja ínfima.
+4. Com isso, seria criado, nessas hipóteses, um esdrúxulo dilema aos devedores sujeitos ao regime de precatórios: refutar uma execução excessiva com o propósito de evitar dano aos cofres públicos, mas sofrer um prejuízo maior a título de honorários; ou simplesmente deixar de contestar execução manifestamente excessiva a fim de impedir um prejuízo maior com a verba sucumbencial.
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.885.625/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2021, DJe de 1/6/2021.) (Grifei).
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. OBRIGAÇÃO DE PEQUENO VALOR. EXECUÇÃO INVERTIDA. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+I - Na origem, trata-se de agravo de instrumento, objetivando obstar os efeitos de decisão proferida em ação executiva em que busca o recebimento de valores os quais entendem devidos.
+II - Esta Corte firmou entendimento no sentido de que o cumprimento espontâneo da obrigação de pequeno valor, pelo ente público devedor, na chamada execução invertida, afasta a condenação em honorários de advogado. Precedentes: REsp 1675990/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 09/10/2017; AgInt no REsp 1473684/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 16/02/2017, DJe 23/02/2017; AgInt no AREsp 876.956/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/08/2016, DJe 08/09/2016.
+III - Agravo interno provido (AgInt no REsp 1604229/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/03/2018, DJe 21/03/2018).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA NÃO EMBARGADA. RPV. EXECUÇÃO PROMOVIDA ANTES DA INTIMAÇÃO DA FAZENDA PÚBLICA PARA O CUMPRIMENTO ESPONTÂNEO DA DECISÃO. HONORÁRIOS ADVOCATÍCIOS. INVIABILIDADE. PRECEDENTES.
+1. A teor da jurisprudência desta Corte "não é cabível a fixação de honorários advocatícios em Execução contra a Fazenda Pública não embargada, quando a parte dá início ao processo executivo antes de possibilitar o cumprimento espontâneo da obrigação pela Fazenda Pública" (AgInt no REsp 1.397.901/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 3/8/2017). Em igual sentido: REsp 1.532.486/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/8/2015.
+2. Agravo interno não provido (AgInt no AgInt no REsp 1.559.438/SC, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 21/8/2019) .
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
