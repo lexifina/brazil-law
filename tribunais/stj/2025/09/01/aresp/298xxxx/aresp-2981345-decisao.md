@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de IVANILDA ALVES DOS SANTOS contra decisão que inadmitiu recurso especial fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado da Paraíba (TJ-PB), assim ementado (fl. 144):
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. FINANCIAMENTO BANCÁRIO. TAXA DE JUROS ACIMA DA MÉDIA DE MERCADO. PROVA DA ABUSIVIDADE. ADEQUAÇÃO DA TAXA DE JUROS A MÉDIA DE MERCADO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+- Os juros remuneratórios devem observar a taxa média de mercado fixada pelo BACEN para o período da contratação, conforme entendimento sedimentado pelo STJ. No caso, os juros contratados encontram-se acima da taxa média de mercado, razão pela qual deve ser mantida a Sentença que determinou a adequação."
+Os embargos de declaração opostos pela recorrente foram rejeitados (fls. 175-179).
+Nas razões do recurso especial (fls. 181-200), a parte alega:
+(I) ofensa ao artigo 1.022, inciso I, do Código de Processo Civil, tendo em vista a persistência de omissão, a despeito da oposição de embargos de declaração;
+(II) dissídio jurisprudencial, com base em aresto paradigma oriundo do STJ (REsp n. 1.061.530/RS), sob a justificativa de que o acórdão recorrido e o acórdão julgador dos embargos de declaração "estão em dissonância com a orientação nº 2 do STJ, a qual determina que a mora deve ser descaracterizada, sendo reconhecida a existência de abusividade nos juros pactuados, tal qual ocorreu no presente caso" (fl. 189);
+(III) ofensa ao artigo 85, § 8º, do Código de Processo Civil, além de divergência jurisprudencial, pois a decisão ora combatida fixou os honorários de sucumbência em 15% sobre valor ilíquido e irrisório. Nesse contexto, argumenta que "o artigo 85, §8º-A, determina que nesses casos (de valores tão irrisórios), seja aplicado honorários de forma equitativa, considerando como parâmetros os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando- se o que for maior" (fl. 190).
+Contrarrazões apresentadas às fls. 203-210.
+Em juízo prévio de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre (decisão às fls. 214-216), dando ensejo ao manejo do presente agravo (fls. 218-222).
+Contraminuta oferecida às fls. 225-232.
+É o relatório. Decido.
+A irresignação comporta provimento no tocante à alegada violação do art. 1.022, inciso I, do CPC/2015.
+Na hipótese, verifica -se que o Tribunal a quo, não obstante provocado por embargos de declaração, deixou de examinar, de maneira fundamentada e consistente, a tese defendida pela ora recorrente relativa à aplicação do art. 85, § 8º, do CPC/2015, cujo teor dispõe sobre a fixação de honorários de sucumbência por equidade nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo.
+Com efeito, da leitura do acórdão recorrido (integrado pelo julgamento dos embargos de declaração), constata-se que a Corte de origem se manteve inerte no exame da referida matéria, a qual foi devidamente suscitada na apelação e nos embargos de declaração, sendo certo que, na via estreita do recurso especial, o ponto omisso não poderia ser analisado de plano, mormente em razão da ausência de prequestionamento e da impossibilidade de incursão no acervo fático-probatório dos autos.
+Além disso, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar, fundamentadamente, sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do Código de Processo Civil/2015, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente.
+Confira-se, por oportuno, os precedentes a seguir:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC. EXISTÊNCIA. NECESSIDADE DE RETORNO DOS AUTOS PARA REANÁLISE DA MATÉRIA REFERENTE A DISTRIBUIÇÃO DA SUCUMBÊNCIA.
+É necessário o retorno dos autos à instância de origem para a manifestação acerca dos pontos reputados como omissos e que supra as omissões apontadas e delimite os pedidos em que as partes saíram vencidas e vencedoras para a devida fixação dos honorários sucumbenciais.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.523.198/RJ, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 10/2/2025, DJEN de 14/2/2025, g.n.)
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. PROPRIEDADE INDUSTRIAL. NORMAS TÉCNICAS INTERNACIONAIS. ABNT-ISO. USO E COMERCIALIZAÇÃO POR TERCEIROS. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. VÍCIOS NÃO SANADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. A controvérsia dos autos resume-se a definir i) se os efeitos da coisa julgada formada em outras demandas, nas quais se assegurou à ora recorrida (TARGET) o direito de uso e comercialização das normas técnicas brasileiras editadas pela ABNT, abrangem também as normas NBR-ISO, e ii) se está caracterizada a hipótese de negativa de prestação jurisdicional.
+2. Na condição de membro fundador da International Organization for Standardization (ISO) e sendo a sua única e exclusiva representante no Brasil, seria um contrassenso imaginar que a ABNT, no processo de "nacionalização", ou melhor, de adaptação da norma técnica internacional protegida por direitos autorais em sua origem, destinada a estabelecer padrões de qualidade universais, iria modificar o seu conteúdo, ainda que esse processo não constitua mera tradução para o idioma nacional.
+3. Necessidade de levar em conta a circunstância de que se trata, na espécie, de atividade complexa regida por normas e contratos que transcendem o ordenamento jurídico nacional.
+4. Constatada a existência de vícios não sanados no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+5. Recurso especial provido."
+(REsp n. 2.128.203/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 21/5/2024, DJe de 24/5/2024, g.n.)
+"PROCESSO CIVIL. AGRAVO INTERNO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO RECONSIDERADA.
+1. A ausência de manifestação sobre questão relevante oportunamente arguida na via dos embargos de declaração evidencia omissão e, consequentemente, negativa de prestação jurisdicional e ofensa ao art. 1.022, II, do CPC de 2015, impondo-se a anulação do acórdão que julgou o recurso e a devolução dos autos ao tribunal de origem para que, em nova decisão, devidamente fundamentada, manifeste-se sobre os pontos omissos.
+2. Decisão agravada reconsiderada. Recurso especial conhecido e provido ante a violação do art. 1.022 do CPC."
+(AgInt no AREsp n. 2.353.356/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024, g.n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. OMISSÃO CONFIGURADA. VIOLAÇÃO AO ART. 1.022 DO CPC. DETERMINAÇÃO DE RETORNO À ORIGEM. ANÁLISE DA PRETENSÃO INDENIZATÓRIA. IMPOSSIBILIDADE DIANTE DA OMISSÃO. SÚMULA 7 E 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Deixando a Corte local de se manifestar sobre questão relevante, apontada em embargos de declaração que, em tese, poderiam alterar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.249.962/RO, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023, g.n.)
+Dessa forma, está caracterizada a alegada ofensa ao art. 1.022, inciso I, do Código de Processo Civil de 2015, ante a omissão da colenda Corte de origem em examinar fundamentadamente questão significativa para a solução da controvérsia.
+Finalmente, cumpre acrescentar que, em razão do reconhecimento da preliminar de negativa de prestação jurisdicional, fica prejudicado o exame das demais teses articuladas nas razões do apelo.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para determinar a remessa dos autos ao Tribunal de origem, para que novamente aprecie as razões dos embargos de declaração, como entender de direito.
+Publique-se.
+EMENTA
