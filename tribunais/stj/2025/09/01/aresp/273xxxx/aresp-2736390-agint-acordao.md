@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE.
+INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1.  A  Corte  de  origem  manifestou-se  expressamente  acerca  dos  temas  necessários  a  solução  da  controvérsia,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade ,  não  se  verifica  a  ofensa  ao  artigo  1.022  do  CPC/2015.
+2.  A reforma do acórdão recorrido, sobretudo na parte relativa à conclusão do não cabimento do reembolso na espécie - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROSANNE ANDRADE DE MELO GARCIA contra decisão monocrática de fls. 633-637 e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, fora interposto no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 410-411 e-STJ):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PLANO DE SAÚDE. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. REALIZAÇÃO DE PROCEDIMENTO PARTICULAR POR ESCOLHA DO CONSUMIDOR. NEGATIVA DE REEMBOLSO DE DESPESAS COM MÉDICOS NÃO CREDENCIADOS AO PLANO E DE LIVRE ESCOLHA DA GESTANTE. SENTENÇA DE IMPROCEDÊNCIA. PROVA DOS AUTOS DA EFETIVA COBERTURA DOS MATERIAIS E DESPESAS HOSPITALARES E EXISTÊNCIA DE PROFISSIONAIS HABILITADOS PARA A REALIZAÇÃO DO PARTO DA AUTORA. NÃO OCORRÊNCIA DE INTERNAÇÃO POR URGÊNCIA OU EMERGÊNCIA.
+1. A AÇÃO NÃO VISA DISCUTIR NEGATIVA DE REEMBOLSO INTEGRAL OU PARCIAL DAS DESPESAS. CASO PREVISTO NO CONTRATO OU A EXCEÇÃO QUANTO AS URGÊNCIAS E EMERGÊNCIAS. MAS SIM, DE COBERTURA PELO PLANO DAS DESPESAS COM EQUIPE MÉDICA PARTICULAR, À LIVRE ESCOLHA DA AUTORA, AINDA QUE CIENTE DA NÃO COBERTURA DE REEMBOLSO, AO ARGUMENTO DE QUE O PLANO DE SAÚDE NÃO DISPÕE DE MÉDICOS OBSTETRAS SUFICIENTES QUE REALIZAM PARTO NORMAL EM ÍNDICE SATISFATÓRIO COMPARADO ÀS CESARIANAS REALIZADAS.
+2. MATÉRIA QUE PRESCINDE PRODUÇÃO DE PROVA DA ALEGAÇÃO E QUE FICA A CARGO DO CONSUMIDOR, O QUE NÃO SE VERIFICA NOS AUTOS RESOLUÇÃO ANS Nº 368 TEVE O CONDÃO DE GARANTIR O ADEQUADO ACESSO À INFORMAÇÃO DAS BENEFICIÁRIAS DE PLANOS DE SAÚDE AOS NÚMEROS PERCENTUAIS DE CESÁREAS E DE PARTOS NORMAIS DE CADA OPERADORA DE SAÚDE QUE TRATA DE POLÍTICA GOVERNAMENTAL, CONTUDO, NÃO TEM CARÁTER VINCULATIVO ÀS DECISÕES JUDICIAIS, MUITO MENOS DISPENSA A COMPROVAÇÃO DO FATO DO QUAL SE ORIGINA O DIREITO ALEGADO, CONFORME PREVISÃO DO ARTIGO 373, I, DO CPC.
+3. INCIDÊNCIA DO ENUNCIADO 330, DESSE TRIBUNAL. PRECEDENTES. AUSÊNCIA DE COMPROVAÇÃO DE INCOMPETÊNCIA TÉCNICA, RECUSA DE REALIZAÇÃO DE PARTO NORMAL OU DIFICULDADE DE OBTENÇÃO DE ATENDIMENTO PELOS OBSTETRAS CREDENCIADOS NO PLANO RÉU.
+4. PEDIDOS DE REEMBOLSO QUE DEVEM OBSERVAR OS TERMOS DO CONTRATO CELEBRADO ENTRE AS PARTES E CONFORME O ART. 12, VI, DA LEI Nº 9.656/98, O QUE NÃO SE APLICA AOS PEDIDOS DA AUTORA.
+5. RECURSO QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 478-484 e-STJ).
+Em suas razões de recurso especial (fls. 486-494 e-STJ), a parte recorrente apontou violação ao art. 1.022, II, do Código de Processo Civil, além de dissídio jurisprudencial, sustentando a existência de omissão no acórdão recorrido acerca da matéria suscitada nos embargos de declaração, relativa à "principal tese jurídica suscitada pela recorrente, consubstanciada na ausência de médicos credenciados na operadora de saúde recorrida, em suas razões de apelação".
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 560-572 e-STJ), negou-se o processamento do recurso especial, sob o fundamento da inexistência de violação ao art. 1.022 do CPC, eis que suficiente a fundamentação do acórdão recorrido, e aplicação do óbice da Súmula 7/STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Sem contraminuta.
+Em julgamento monocrático (fls. 633-637 e-STJ), este signatário conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos: (i) inexistência de violação ao artigo 1.022 do CPC, eis que suficiente a fundamentação do acórdão recorrido; e (ii) aplicação do óbice da Súmula 7/STJ.
+Inconformada, a parte recorrente interpõe o presente agravo interno (fls. 641-645 e-STJ), insurgindo-se contra a negativa de provimento do recurso especial, reiterando a alegação de violação aos art. 1.022 do CPC e combatendo a aplicação do óbice da Súmula 7/STJ. Requer, ao final, a reforma da decisão recorrida.
+Impugnação às fls. 651-655 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE.
+INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1.  A  Corte  de  origem  manifestou-se  expressamente  acerca  dos  temas  necessários  a  solução  da  controvérsia,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade ,  não  se  verifica  a  ofensa  ao  artigo  1.022  do  CPC/2015.
+2.  A reforma do acórdão recorrido, sobretudo na parte relativa à conclusão do não cabimento do reembolso na espécie - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Revela-se correta  a  decisão  que  afastou  à  apontada  violação  ao  artigo  1.022, II,  do  CPC/2015.
+De  fato,  não  restou  configurada  a  negativa  de  prestação  jurisdicional.  Conforme  a  iterativa  jurisprudência  deste  Tribunal  superior,  deve  ser  afastada  a  alegação  de  ofensa  ao  artigo  1.022  do  CPC/2015  "na  medida  em  que  o  Tribunal  de  origem  dirimiu,  fundamentadamente,  as  questões  que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta  nos  autos,  não  se  podendo,  ademais,  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  ausência  de  prestação  jurisdicional"  (RCD  no  AREsp  1297701/RS,  Rel.  Ministro  SÉRGIO  KUKINA,  PRIMEIRA  TURMA,  julgado  em  07/08/2018,  DJe  13/08/2018).
+Alegou a parte recorrente que o acórdão impugnado restou omisso acerca da "principal tese jurídica suscitada pela recorrente, consubstanciada na ausência de médicos credenciados na operadora de saúde recorrida, em suas razões de apelação".
+No  entanto,  conforme  consignado  pela  decisão  agravada,  o  Tribunal  local  tratou  de  forma  adequada  e  suficiente  sobre  as questões essenciais ao deslinde da lide, pronunciando-se nos seguintes termos (fls. 412-414 e-STJ):
+No presente caso, a autora insiste em ter ressarcidas eis despesas com os médicos obstetras particulares que realizaram seu parto, ao argumento de que o índice de cesáreas realizadas pelos médicos credenciados ao plano, dão a legitimidade na sua recusa de tais profissionais e ao pedido de reembolso deis despesas com os profissionais.
+Portanto, a ação não visa discutir negativa de reembolso integral ou parcial das despesas, porventura, previsto no contrato ou a exceção quanto as urgências e emergências, mas sim, de cobertura pelo plano das despesas com equipe médica particular, à livre escolha da autora, ainda que ciente da não cobertura de reembolso, ao argumento de que o plano de saúde não dispõe de médicos obstetras suficientes que realizam parto normal em índice satisfatório comparado às cesarianas realizadas.
+Sabe-se que a jurisprudência do STJ indica que o reembolso pelo uso de serviços médicos fora da rede credenciada depende da comprovação de urgência ou de emergência.
+O artigo 12, inciso VI da Lei dos Planos de Saúde (Lei 9.656/1998), diz que o reembolso deve ocorrer em casos de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras e, que esse reembolso deve seguir de acordo com a relação de preços de serviços médicos e hospitalares praticados pelo respectivo  ou seja, o usuário deve arcar com a eventual diferença de valores se o serviço usado custar mais do que o plano pagaria por ele na rede credenciada.
+Não obstante, sequer é o caso dos autos, onde o argumento da autora ora apelante toma por base as informações quanto aos números de cesarianas e patos normais realizados de cada operadora, conforme disposto na Resolução n. 368 da ANS.
+Na questão, não se extrai dos autos a prova (necessária) de que tenha havido, de fato, negativa de realização de parto normal por qualquer médico indicado pelo plano réu para atendimento da autora. Muito menos afirmar que o percentual de cesárea maior do que o de parto "normal" se deve à escolha do médico e não da paciente.
+Na verdade, ao que se extrai dos autos, a ré disponibilizou lista de profissionais credenciados que realizavam o parto normal e a equipe médica particular foi escolha deliberada da autora. (..).
+Assim, não se tratando de caso de urgência e emergência, e havendo equipe médica credenciada para a realização do parto normal, conforme se extrai do ID 41137978, bem como, não comprovando a autora a negativa geral de todos os médicos credenciados para a realização do parto cesariana, não se justifica o reembolso das despesas, quando em contrariedade a previsão contratual. (..).
+Por fim, em nenhuma hipótese se verifica recusa injustificada praticada pela apelada, evidenciando o cumprimento do contrato no que se refere a cobertura de todas eis despesas com os materiais médicos, cirúrgicos e o local especializado para a realização do parto, em harmonia à boa-fé exigida nas relações contratuais.
+Como  visto,  as  teses  da parte  insurgente  foram  apreciadas  pelo  Tribunal  a  quo,  que  as  afastou  apontando  os  fundamentos  jurídicos  para  tal,  ainda  que  em  sentido  contrário  a  pretensão  recursal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Não há, portanto, a ocorrência de qualquer vício na decisão recorrida, motivo pelo qual deve ser afastada a suposta violação ao artigo 1.022 do CPC/2015.
+2. Ademais, a pretexto da alegação de vício de omissão no acórdão recorrido, observa-se que a pretensão recursal se cinge no cabimento do reembolso das despesas médicas efetuadas pela parte recorrente fora da rede credenciada.
+No entanto, conforme se depreende da fundamentação do acórdão recorrido acima transcrita, a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa à conclusão do não cabimento do reembolso na espécie - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
