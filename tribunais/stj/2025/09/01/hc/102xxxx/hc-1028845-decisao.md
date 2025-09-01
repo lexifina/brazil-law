@@ -1,0 +1,31 @@
+DECISÃO
+KLEBER DOUGLAS MARTINS MIRANDA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no HC n. 2201407-52.2025.8.26.0000.
+A defesa busca a revogação da prisão preventiva do paciente, com a imposição de cautelares alternativas, ao argumento, em síntese, de que não estariam presentes os requisitos necessários para a imposição da medida extrema, em especial, a contemporaneidade.
+Decido.
+De pronto, destaco que, em consulta aos assentamentos eletrônicos desta Corte Superior, verifiquei a anterior distribuição, em favor do ora paciente, do RHC n. 136.546/SP, no qual a legalidade do decreto preventivo ora impugnado já foi analisada, senão vejamos:
+No que se refere aos requisitos da custódia cautelar, observo que o Juízo de origem converteu a prisão em flagrante em preventiva com base na seguinte fundamentação (fls. 50-51; grifos diversos do original):
+ ..
+Como se vê, a custódia cautelar foi devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, sobretudo em razão do modus operandi do delito, revelador da perniciosidade social da ação. Com efeito, o Juízo processante, ao decretar a prisão preventiva, consignou que o Recorrente e outros agentes utilizaram-se de veículo para abordar e surpreender a vítima, que dirigia um caminhão, e, em seguida, restringiram sua liberdade mediante grave ameaça. Ato contínuo, ressaltou a reincidência específica do Acusado e a possibilidade de reiteração criminosa. Tais circunstâncias denotam a gravidade concreta da conduta, bem como a necessidade de evitar a reiteração delitiva a fim de garantir a ordem pública.
+Registre-se, ainda, que, consideradas as circunstâncias do fato em apuração e a necessidade de se impedir a prática de novos delitos, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas da prisão, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Assim, no que tange à análise da presença dos requisitos do art. 312 do CPP, à exceção, especificamente, da contemporaneidade, evidencia-se a impossibilidade de conhecimento deste writ, ante a reiteração de pedido.
+No tocante à aduzida ausência de contemporaneidade da medida, segundo a jurisprudência do STJ, o exame dessa alegação é feito não apenas com base no tempo entre os fatos e o decreto prisional como também pela permanência da cautelaridade ensejadora da medida.
+Os fundamentos que justificam a prisão preventiva são contemporâneos. O paciente permanece foragido há mais de 5 anos, circunstância que somente reforça seu propósito de evadir-se da ação estatal. A fuga perdura no tempo e constitui situação de flagrante contemporaneidade, pois o risco à aplicação da lei penal se renova diariamente, conforme assinalado pelo Tribunal de origem.
+A propósito:
+ ..
+5. "É pacífico o entendimento desta Corte que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal" (AgRg no HC n. 568.658/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe 13/8/2020).
+6. Sobre a contemporaneidade, "a Suprema Corte entende que diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal (AgR no HC n. 190.028, Ministra Rosa Weber, Primeira Turma, DJe11/2/2021)" (HC 661.801/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/6/2021, DJe 25/6/2021). Vale ressaltar, ademais, que a gravidade concreta dos delitos narrados, obstaculiza o esgotamento do periculum libertatis pelo simples decurso do tempo" (HC n. 741.498/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe de 29/6/2022).
+7. Consoante consignado pela Corte local, o acusado permaneceu foragido por cerca de treze anos, evidenciando sua intenção de se esquivar da responsabilização penal. Desse modo, não há se falar em ilegalidade flagrante a ser sanada nesta oportunidade, pois, nos moldes da jurisprudência deste Tribunal Superior, "a condição de foragido afasta a alegação de constrangimento ilegal, seja pela dita ausência de contemporaneidade, seja pelo apregoado excesso de prazo para encerramento da instrução criminal" (RHC n. 174.115/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/3/2023, DJe de 29/3/2023).
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 1.007.684/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025, destaquei)
+ ..
+6. A contemporaneidade da prisão preventiva está relacionada ao risco atual que a liberdade do réu representa, e não necessariamente à data do crime.
+7. Condições pessoais favoráveis do paciente não são suficientes para revogar a prisão preventiva quando há elementos que recomendam sua manutenção.
+IV. Dispositivo e tese
+8. Ordem denegada.
+Tese de julgamento: "1. A fuga do distrito da culpa e a ocultação do paradeiro do réu são fundamentos idôneos para a manutenção da prisão preventiva. 2. A contemporaneidade da prisão preventiva está relacionada ao risco atual à ordem pública e à instrução criminal, não à data do crime. 3. Condições pessoais favoráveis não garantem a revogação da prisão preventiva quando há elementos que recomendam sua manutenção."
+Dispositivos relevantes citados: CPP, art. 319; CPP, art. 386, IV.
+Jurisprudência relevante citada: STJ, AgRg no RHC 171.820/PR, Min. Laurita Vaz, Sexta Turma, DJe 20/4/2023; STJ, AgRg no HC 940.170/SP, Min. Daniela Teixeira, Quinta Turma, DJe 30/10/2024; STJ, AgRg no RHC 192.072/BA, Min. Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024; STF, HC 206.116-AgR, Min. Rosa Weber, Primeira Turma, DJe 18/10/2021.
+(HC n. 995.434/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025, grifei)
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
