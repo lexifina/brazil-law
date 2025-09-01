@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO. AUSENTE. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO DEFICIENTE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA Nº 284/STF.
+1. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Não sendo notória a divergência, e se nas razões de recurso especial não há indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+5. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por MARIA FLORISBELA PORTO DA SILVA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"Apelação cível. Ação monitória. Cumprimento de sentença. Gratuidade judiciária concedida à apelante. Cerceamento de defesa inocorrente, pois a não intimação do advogado substabelecido não acarretou prejuízo à recorrente. Como a apelada concordou expressamente com o cálculo do débito apresentado pelo credor, desnecessária se mostra qualquer discussão a respeito, sendo despicienda a remessa dos autos à contadoria ou a realização de perícia contábil. Impossibilidade de compensação, no caso concreto, diante da divergência a respeito da existência de valores a compensar e de seu montante. Decreto de extinção da execução afastado. Litigância de má-fé não configurada. Apelação parcialmente provida" (e-STJ fl. 945).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 987/992, 1008/1018, 1038/1045).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 18, 301, §3º, 313, §2º, II, 492, 494, I e II, 1.000 e 1.022, II, do Código de Processo Civil, 1.791 do Código Civil e 5º, XXXVI, da Constituição Federal.
+Sustenta que a apelação foi proposta por parte ilegítima, não cabendo a uma herdeira individualmente pleitear direito do espólio. Alega também que a decisão que determinou a compensação de créditos entre as partes está coberta pelo manto da coisa julgada e é imutável, já que não foi objeto de recurso na época própria.
+A recorrente também aponta nulidade processual por negativa de prestação jurisdicional, alegando que o acórdão recorrido não se manifestou sobre questões relevantes suscitadas nos embargos de declaração.
+Por fim, defende que houve decisão ultra petita, pois "o v. acórdão de fls. 854 e seguintes que julga inviável a compensação de créditos nestes autos reformando a decisão de fl. 744 ultrapassa o que foi pedido, ou seja, vai além dos limites do pedido constante na apelação" (e-STJ fl. 1.064).
+Sem as contrarrazões (e-STJ fl. 1.082), o recurso especial foi inadmitido, dando ensejo à interp osição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO. AUSENTE. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO DEFICIENTE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA Nº 284/STF.
+1. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Não sendo notória a divergência, e se nas razões de recurso especial não há indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+5. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Quanto ao art. 5º, XXXVI, da Constituição Federal, observa-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à tese da coisa julgada, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+Uma das teses da embargante é de que o acórdão não poderia ter impedido a compensação de valores, pois ela já havia sido admitida por decisão contra a qual não houve recurso, operando-se a preclusão. Ocorre que, nas suas razões da apelação, a ora embargada afirmou que foi deferida a compensação de valor que já havia sido descontado do cálculo em execução, e que essa ocorrência consistia em erro material, passível de correção a qualquer tempo. Julgando a apelação, a Câmara afirmou (fl. 856): "A esse respeito, observo que o valor incontroverso de R$82.837,95 devido na ação monitória (apurado na fl. 707) tem origem no cálculo da fl. 640, onde se observa o abatimento de quatro parcelas de Cz$100.000,00, a sugerir que as parcelas devidas em razão da condenação na ação indenizatória já foram compensadas neste feito. A circunstância foi considerada erro material nas razões da apelação". A decisão que, por erro material, determina a compensação de valores já abatidos não se submete à preclusão ou à coisa julgada. Por esse motivo, a Câmara decidiu que, diante da dúvida a respeito da existência de valores a compensar, é inviável determinar a compensação nestes autos, ressalvando que, em sendo apurado crédito em favor da ora embargante, esta poderá buscá-lo em outra via" (e-STJ fls. 1.015/1.016).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto à alegação de que a agravada Vania Gruhn Prola não seria parte legítima, o tribunal de origem se manifestou nos seguintes termos: "Anoto, de início, que a alegação de que a apelante não seria parte legítima para interpor apelação não foi deduzida nas contrarrazões, consistindo, portanto, em inovação recursal" . (e-STJ fl. 989)
+Tal fundamento, entretanto, não foi objeto de impugnação pela parte recorrente, atraindo a incidência, por analogia, da Súmula nº 283/STF: "É inadmissível o rec urso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confira-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.157.654/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+Ademais, a respeito da suposta coisa julgada sobre a decisão que autorizou a compensação, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COISA JULGADA. PRECLUSÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE PERTINÊNCIA TEMÁTICA. SÚMULA N. 284 DO STF. RECURSO PROVIDO.
+1. Não há violação à coisa julgada quando o Magistrado interpreta julgamento anterior para melhor definir seu alcance e extensão.
+2. "Para alterar as conclusões contidas no decisum, em relação à questão discutida estar acobertada pela coisa julgada, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ" (AgInt no REsp n. 1.369.455/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022).
+3. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.4. É firme a orientação do STJ de que a impertinência temática do dispositivo legal apontado como ofendido resulta na deficiência das razões do recurso especial, fazendo incidir a Súmula n. 284 do STF.
+5. Agravo interno provido para negar provimento ao recurso especial."
+(AgInt no REsp 1.827.910/BA, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 18/3/2025, DJEN de 7/4/2025 - grifou-se)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. SUBSTITUIÇÃO PELA TAXA SELIC. NÃO CABIMENTO. COISA JULGADA. OCORRÊNCIA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. NÃO PROVIMENTO.
+1. A reanálise do entendimento de que caracterizado a coisa julgada, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n. 7 do STJ.
+2. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 2.588.495/RS, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025 - grifou-se)
+De todo modo, é válido ressaltar que o tribunal de origem expressamente consignou que "a existência de eventual crédito em favor de Maria Florisbela nos autos da ação indenizatória deverá ser decidida naquele feito" (e-STJ fl. 951).
+Além disso, no que se refere à alegação de decisão ultra petita  , é oportuno assentar que as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PENHORA DE IMÓVEL. CÔNJUGE. INTIMAÇÃO. AUSÊNCIA. NULIDADE. INEXISTÊNCIA. MENOR ONEROSIDADE. PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF E 211/STJ. PRESCRIÇÃO INTERCORRENTE. SÚMULA N. 284/STF. NÃO PROVIMENTO.
+1. Não é omisso o acórdão que examina todas as questões que lhe foram propostas, embora em sentido contrário ao pretendido pela parte.
+2. "Se a penhora incide sobre bens imóveis, a ausência de intimação do cônjuge do executado não faz nula a penhora, mas sim a sua intimação. Precedentes." (AgRg nos EDcl no REsp 239.527/SP, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 18/8/2009, DJe 2/9/2009)
+3. Mesmo em relação às matérias de ordem pública, sobre as quais as instâncias ordinárias podem prover de ofício, exige-se o prequestionamento na instância especial.
+4. A ausência de indicação de dispositivo legal e do modo que teria sido violado pelo Tribunal de segundo grau ou de demonstração de divergência jurisprudencial a respeito de questão suscitada no recurso especial atrai a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.885.937/RJ, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021 - grifou-se)
+Quanto à tese do dissídio jurisprudencial, se a divergência não é notória e as razões de recurso especial não trazem a indicação de dispositivo de lei federal, com demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. SÚMULA 284/STF. APLICAÇÃO ANALÓGICA. CABIMENTO. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL EM QUE SE FUNDA O RECURSO. SÚMULA 284/STF. FALTA DE APONTAMENTO DO DISPOSITIVO LEGAL VIOLADO OU OBJETO DE INTERPRETAÇÃO DISSONANTE. SÚMULA 284/STF. DIVERGÊNCIA NOTÓRIA. NÃO OCORRÊNCIA. DANOS MORAIS. EXORBITÂNCIA NÃO EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É plenamente cabível a aplicação analógica, por esta Corte Superior, do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. A recorrente não indicou, no apelo especial, a alínea do dispositivo constitucional na qual se fundamenta o reclamo, circunstância que impede o seu conhecimento, segundo o teor do verbete sumular n. 284/STF.
+3. Para o cabimento do recurso especial, é imprescindível que sejam apontados, de forma clara, os preceitos legais objeto de ofensa ou interpretação dissentânea, sob pena de inadmissão. Incidência do enunciado n. 284 da Súmula da Suprema Corte.
+4. A divergência jurisprudencial apontada não é notória, razão pela qual não há falar em flexibilização da exigência de indicação do dispositivo legal objeto de interpretação dissonante.
+5. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a alteração do valor estabelecido pelas instâncias ordinárias, a título de danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo.
+6. No feito em análise, a quantia indenizatória não pode ser considerada exorbitante, de modo que a sua revisão demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+7. Agravo interno desprovido."
+(AgInt no AREsp 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/6/2021, DJe de 21/6/2021 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Prejudicados os pedidos formulados às e-STJ fls. 1.140/1.175.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
