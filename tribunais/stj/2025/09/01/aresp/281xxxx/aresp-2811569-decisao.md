@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CARLOS EDUARDO SEIXAS TINOCO CORREIA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea(s) "a", da Constituição Federal.
+Ação: declaratória de nulidade de contrato c/c pedido de extinção e restituição de valores, ajuizada pelo agravante, em face de JOSE BEN HUR DE ESCOBAR FERRAZ NETO e SOLANGE BALIEGO DE ESCOBAR FERRAZ, em razão de supostas ilegalidades em locação de imóvel por temporada.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+RECURSO - APELAÇÃO CÍVEL - LOCAÇÃO DE IMÓVEL POR TEMPORADA - AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM PEDIDO DE RESTITUIÇÃO DE VALORES PAGOS - AÇÃO E RECONVENÇÃO. Autor, locatário, que busca a declaração de nulidade do contrato ao fundamento de que os locadores incluíram no contrato diversas cláusulas excêntricas, equiparando-o, incorretamente, à locação de imóvel residencial, bem assim a devolução da quantia de R$ 317.500,00 ( trezentos e dezessete mil e quinhentos reais ) por ele paga a título de 04º ( quarto ) aluguel, caução e comissão de corretagem. Pretensão subsidiária de declaração de nulidade de específicas cláusulas consideradas ilegais e abusivas. Sentença que julgou a ação principal e reconvenção improcedentes, a fim de condenar o autor a pagar aos requeridos a quantia de R$ 228.146,09 ( duzentos e vinte e oito mil, cento e quarenta e seis reais e nove centavos ) a título de multa contratual por rescisão antecipada, reparos no imóvel e contas em aberto. Recurso de apelação do locatário autor, visando a reversão da sentença, o acolhimento integral dos pedidos iniciais e a rejeição da reconvenção. Julgado que deu solução adequada à lide, vez que não se vê ilegalidade no contrato ou nas cláusulas contratuais impugnadas nesta seara. Autonomia da vontade que deve prevalecer no caso, ausente a comprovação de qualquer vício de consentimento apto a macular o negócio jurídico, celebrado entre partes maiores e capazes. Improcedentes ação e reconvenção.
+Sentença mantida. Recurso de apelação do autor não provido, majorada a verba honorária sucumbencial da parte adversa, atento ao conteúdo do parágrafo 11 do artigo 85 do Código de Processo Civil.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) não foi demonstrada a violação dos dispositivos arrolados;
+ii) incidência das Súmulas 5 e 7, ambas do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) o cerne da controvérsia é a correta aplicação do art. 48 da Lei 8.245/91, que regula de forma imperativa os contratos de locação para temporada, impondo o prazo máximo de 90 dias;
+ii) a simples verificação da nulidade de cláusula contratual que contraria a lei não exige qualquer incursão no conjunto fático-probatório ou interpretação de cláusulas contratuais, mas sim a análise da violação direta a uma norma legal.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: incidência das Súmulas 5 e 7, ambas do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 3%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
