@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de petição incidental interposta por Adivaldo Aparecido Neves, em que ele requer o indulto da pena.
+O recorrente foi condenado a dois anos de reclusão, em regime aberto, por infração ao artigo 1º, inciso V, da Lei n. 8.137/90, decisão que transitou em julgado para o Ministério Público em fevereiro de 2022.
+O recorrente fundamenta seu pedido no Decreto n. 11.302, de 22 de dezembro de 2022, que concede indulto natalino às pessoas condenadas por crimes cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Argumenta que, na hipótese de concurso de crimes, deve ser considerada individualmente a pena máxima em abstrato relativa a cada infração penal, desde que não se trate de restrições previstas no artigo 7º do mesmo decreto.
+A petição destaca que a constitucionalidade do referido decreto foi reconhecida pelo Órgão Especial do Tribunal de Justiça de São Paulo e pelo Superior Tribunal de Justiça, que aplicou o decreto para extinguir penas quando o máximo em abstrato para cada uma delas não excede cinco anos. O recorrente cita jurisprudência do STJ que reforça a interpretação de que a soma ou unificação de penas não constitui óbice à concessão do indulto, desde que cumpridos os requisitos estabelecidos, como a inexistência de crime impeditivo e a condição de primariedade do condenado.
+Por fim, o recorrente requer a concessão do indulto previsto no artigo 5º do Decreto n. 11.302/2022 e a consequente extinção da punibilidade, alegando que o preenchimento dos requisitos para o indulto está cabalmente comprovado, e que relegar a apreciação ao Juízo das Execuções configuraria manifesta ilegalidade e violação ao princípio da liberdade de locomoção (e-STJ, fls. 1554-1560).
+É o relatório. Decido.
+Tratando-se de pedido novo, que não constitui o objeto do recurso submetido a julgamento do colendo Superior Tribunal de Justiça, esta Corte Superior não pode apreciá-lo diretamente, sob pena de supressão de instância e usurpação da competência do Juízo das Execuções Penais, nos termos do art. 192 da Lei n. 7.210/1984.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REDUÇÃO DE ICMS MEDIANTE FRAUDE À FISCALIZAÇÃO TRIBUTÁRIA. DOSIMETRIA. CAUSA DE AUMENTO (ART. 12, I, DA LEI N. 8.137/90). GRAVE DANO À COLETIVIDADE. EXPRESSIVIDADE DO MONTANTE SONEGADO. FUNDAMENTAÇÃO CONCRETA. INDULTO. IMPOSSIBILIDADE DE REQUERIMENTO DIRETAMENTE AO STJ. SUPRESSÃO DE INSTÂNCIAS. REGIMENTAL DESPROVIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Na terceira fase da dosimetria da pena, mostra-se cabível a incidência da majorante do art. 12, I, da Lei n. 8.137/90 (grave dano à coletividade), uma vez que a expressividade do montante sonegado - R$ 1.124.323,20 - justifica a aplicação da causa de aumento implica grave dano à coletividade.
+3. O Superior Tribunal de Justiça não pode apreciar pedido de indulto sem prévia manifestação das instâncias ordinárias, sob pena de supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 889.395/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025, grifou-se.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE COMETIDA NO REGIME ABERTO. REGRESSÃO CAUTELAR. LEGALIDADE. PEDIDO DE INSTRUÇÃO DO FEITO E CONCESSÃO DE INDULTO. INCOMPATIBILIDADE COM A VIA ESTREITA DO WRIT. TEMA NÃO SUBMETIDO OU ANALISADO NAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O motivo da regressão cautelar decorreu da notícia do cometimento de falta grave praticada pelo apenado no curso ao cumprimento no regime aberto, consubstanciada na prática de dois novos delitos, não havendo, nesse ponto, qualquer ilegalidade perpetrada pelas instâncias ordinárias.
+2. A via eleita não é a sede adequada para analisar a presença dos requisitos necessários para a concessão de indulto, por depender de dilação probatória, com a instrução e o aprofundado exame dos autos e ocorrências efetivadas ao longo da execução da pena.
+3. Além do mais, o pleito de análise da concessão de indulto ou comutação antes da regressão cautelar não foi objeto de análise no acórdão atacado. Assim, não se mostra possível a manifestação desta Corte Superior sobre esse pedido, sob pena de incorrer em indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 922.007/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024, grifou-se.)
+Por esses fundamentos, não conheço da petição retro.
+Publique-se. Intimem-se.
+EMENTA
