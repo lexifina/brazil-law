@@ -1,0 +1,145 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. COISA JULGADA. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, mantendo a inadmissão do recurso especial por ausência de ofensa aos arts. 489, § 1º, 1.022 e 1.025 do CPC/2015 e pela incidência das Súmulas n. 7 e 83 do STJ.
+2. O acórdão recorrido negou provimento ao agravo de instrumento, afirmando a inviabilidade de revisão dos índices de correção monetária e juros moratórios fixados em sentença transitada em julgado, sob pena de violação da coisa julgada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível alterar, na fase de cumprimento de sentença, os índices de correção monetária e juros moratórios estabelecidos no título executivo judicial, substituindo-os pela taxa SELIC, sem violar a coisa julgada.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que não é possível alterar, na fase de liquidação ou cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada.
+IV. Dispositivo e tese
+5 . Agravo interno desprovido.
+Tese de julgamento: "1. Não é possível alterar, na fase de cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada".
+Dispositivos relevantes citados: CPC/2015, art. 508 e CC/2002, art. 406.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.588.495/RS, Min. Moura Ribeiro, Terceira Turma, julgado em 17/2/2025; STJ, AgInt no REsp n. 2.042.830/RS, Min. Raul Araújo, Quarta Turma, julgado em 16/12/2024.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.454-1.521) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (fls. 1.406-1.411).
+Os embargos de declaração foram rejeitados (fls. 1.449-1.451).
+Em suas razões, a parte agravante alega que a aplicação da taxa SELIC a título de juros de mora, sem cumulação com nenhum outro fator de atualização monetária, não implica ofensa à "coisa julgada material do processo de origem, e qualquer outro dele derivado, pois, primeiramente, a coisa julgada material fixada em tal processo, a teor do que dispõe o 506 do código Civil de 2015, a coisa julgada material não pode prejudicar a terceiro, como no caso, a taxa de 1% ao mês, mais correção monetária pelo IGPM seriam mais gravosas que os juros legais (e correção monetária) equivalente a TAXA SELIC. E, em segundo lugar, porque, a teor do que fora disciplinado no Recurso Repetitivo com Tema 176, não há ofensa a coisa julgada a adequação do percentual de condenação ao que disciplina a legislação atual sobre os juros legais (e correção monetária)" (fl. 1.475).
+Argumenta ainda que não houve coisa julgada, nem preclusão consumativa sobre a matéria, pois a aplicabilidade da taxa SELIC nunca foi analisada no processo de conhecimento.
+Sustenta, em síntese, que a taxa SELIC deve ser aplicada sobre todo o cálculo do presente processo, em conformidade com a Lei n. 14.905/2024, ou ao menos a partir da edição dessa norma.
+Assevera que o acórdão proferido pela Corte de origem divergiu do atual entendimento desta Corte Superior.
+Insurge-se contra a incidência das Súmulas n. 7, 83 e 211 do STJ.
+Ao final, pede o provimento do recurso.
+A parte agravada apresentou impugnação (fls. 1.781-1.787), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. COISA JULGADA. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, mantendo a inadmissão do recurso especial por ausência de ofensa aos arts. 489, § 1º, 1.022 e 1.025 do CPC/2015 e pela incidência das Súmulas n. 7 e 83 do STJ.
+2. O acórdão recorrido negou provimento ao agravo de instrumento, afirmando a inviabilidade de revisão dos índices de correção monetária e juros moratórios fixados em sentença transitada em julgado, sob pena de violação da coisa julgada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível alterar, na fase de cumprimento de sentença, os índices de correção monetária e juros moratórios estabelecidos no título executivo judicial, substituindo-os pela taxa SELIC, sem violar a coisa julgada.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que não é possível alterar, na fase de liquidação ou cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada.
+IV. Dispositivo e tese
+5 . Agravo interno desprovido.
+Tese de julgamento: "1. Não é possível alterar, na fase de cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada".
+Dispositivos relevantes citados: CPC/2015, art. 508 e CC/2002, art. 406.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.588.495/RS, Min. Moura Ribeiro, Terceira Turma, julgado em 17/2/2025; STJ, AgInt no REsp n. 2.042.830/RS, Min. Raul Araújo, Quarta Turma, julgado em 16/12/2024.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 1.406-1.411):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e da incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 1.041/1.053).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 343):
+AGRAVO DE INSTRUMENTO. MANDATO. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO NÃO VERIFICADO. PRETENSÃO DE APLICAÇÃO DA TAXA SELIC AO VALOR DA CONDENAÇÃO. INVIABILIDADE. CÁLCULO APRESENTADO PELO AGRAVANTE EM DESCONFORMIDADE COM O TÍTULO EXECUTIVO TRANSITADO EM JULGADO. IMPOSSIBILIDADE DE DISCUSSÃO ACERCA DA INCIDÊNCIA DOS JUROS APLICADOS AO VALOR DA CONDENAÇÃO. OFENSA À COISA JULGADA. IMPENHORABILIDADE DOS HONORÁRIOS ADVOCATÍCIOS. CRÉDITO BUSCADO NO CUMPRIMENTO DE SENTENÇA QUE GUARDA RELAÇÃO COM A ATIVIDADE EXERCIDA PELO AGRAVANTE - PROCURADOR E CLIENTE - AUTORIZANDO A RELATIVIZAÇÃO DA IMPENHORABILIDADE, PREVISTA NO ART. 833, IV, DO CPC. PRECEDENTES DO 8º GRUPO CÍVEL.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração foram acolhidos em parte, sem alteração do julgado (e-STJ fls. 498/502).
+No recurso especial (e-STJ fls. 509/586), fundamentado no art. 105, III, "a" da CF, o recorrente aponta violação dos seguintes dispositivos legais:
+(I) arts. 489, § 1º, 1.022, II, parágrafo único, I e II, e 1.025 do CPC/2015, por ter havido negativa de prestação jurisdicional quanto às teses de inobservância aos arts. 322, § 1º, e 505 do CPC/2015, 406 do CC/2002, 13 da Lei n. 9.065/1995, 84, I e § 8º, da Lei n. 8.981/1995, 39, § 4º, da Lei n. 9.250/1995, 61, § 3º, da Lei n. 9.430/1996 e 30 da Lei n. 10.522/2002.
+(II) arts. 322, § 1º, e 505 do CPC/2015, 406 do CC/2002, 13 da Lei n. 9.065/1995, 84, I e § 8º, da Lei n. 8.981/1995, 39, § 4º, da Lei n. 9.250/1995, 61, § 3º, da Lei n. 9.430/1996 e 30 da Lei n. 10.522/2002, argumentando que (e-STJ fl. 536):
+No que se refere a JUROS DE MORA e CORREÇÃO MONETÁRIA, temos que mesmo que NÃO FIXADOS na fase de conhecimento, PODEM SER INCLUÍDOS E COBRADOS NA FASE DE CUMPRIMENTO, então se fixados COM PERCENTUAIS E ÍNDICES ILEGAIS, PODEM SER REAJUSTADOS E TRAZIDOS À LEGALIDADE. ISSO É DIREITO A IGUALDADE NO PROCESSO, NA VIDA E DECORRE DA CONSTITUIÇÃO E DO DIREITO NATURAL.
+NO PRESENTE CASO, CONSTOU NO DISPOSITIVO QUE ESSES ÍNDICES SE MANTERIAM ATÉ A DATA DO EFEITO PAGAMENTO, INDEPENDENTEMENTE DA LEI E DO MÊS DA SUA INCIDÊNCIA -TORNANDO-SE, PORTANTO, MERO REFERENCIAL, QUE DEVE OBEDECER AO MÊS DA LEI QUANDO DA SUA INCIDÊNCIA, E QUE, NO CASO, É A TAXA SELIC.
+O QUE IMPORTA DIZER TAMBÉM NÃO HAVER OFENSA À COISA JULGADA A POSTULAÇÃO LEGAL DE APLICAR A TAXA SELIC, como está a fazer o Agravante, posto que A COISA JULGADA ESTÁ NO DISPOSITIVO SENTENCIAL e NÃO LÁ PERDIDO ENTRE MOTIVOS E FATOS, OS QUAL NÃO FAZEM COISA JULGADA. CABERIA À PARTE RECORRIDA POSTULAR A SUA INCLUSÃO NO DISPOSITIVO, MAS NÃO O FEZ (sic - grifos no recurso).
+Sustenta que, de acordo com a jurisprudência do STJ, a taxa de juros prevista no art. 406 do CC/2002 é a SELIC, que inclui juros e correção monetária.
+Argumenta que não há violação da coisa julgada, pois constou do título apenas a incidência de "juros de mora" e, em se tratando de prestação de trato continuado, deve-se aplicar a legislação vigente no mês de regência. Alega ser ilegal a aplicação da taxa de juros de 1% (um por cento) ao mês.
+(III) arts. 85, § 14, e 833, IV e § 2º, do CPC/2015, defendendo o descabimento da manutenção de penhora de verba alimentar no rosto dos autos (honorários sucumbenciais de titularidade do profissional liberal autônomo). Sustentou, nesse contexto, a impossibilidade de utilização do critério "origem da dívida", em detrimento da natureza alimentar, como permissivo de relativização da norma aplicável ao caso em tela.
+No agravo (e-STJ fls. 1.066/1.150), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+(I) Não há falar em ofensa aos arts. 489, § 1º, 1.022, II, parágrafo único, I e II, e 1.025 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+A Corte estadual decidiu a matéria controvertida nos seguintes termos (e- STJ fl. 340):
+Ocorre que o cálculo apresentado pelo agravante está em desconformidade com os parâmetros adotados pela decisão transitada em julgado, a qual determinou a atualização do valor da condenação pelo IGP- M, não cabendo discussão acerca dos juros aplicados no valor da condenação, sob pena de ofensa à coisa julgada.
+No julgamento dos embargos de declaração, esclareceu (e-STJ fl. 499):
+O IGP-M é o índice que melhor mensura a oscilação sofrida pelos preços dos bens de consumo e de produção, de forma mensal, revelando-se um eficaz instrumento para se calcular o custo de vida da população e o poder aquisitivo da moeda. Sua aplicação ao crédito exequendo visa preservar, da melhor forma possível, o valor real da moeda, mantendo no tempo o poder de compra original, ou seja, sem acréscimo ou redução.
+Outrossim, a alegação da parte embargante de que se trata de obrigação de trato sucessivo dos juros de mora e da correção monetária, nos termos do art. 505 do CPC, não se aplicam ao caso, não havendo falar em violação ao princípio da legalidade, pois trata-se de matéria abarcada pela coisa julgada, logo, descabida a pretensão de aplicar o art. 406 do CC (grifei).
+Por conseguinte, descabe falar em vício do art. 1.022 do CPC/2015, estando o acórdão devidamente fundamentado.
+(II) O entendimento do Tribunal de origem está em consonância com a jurisprudência do STJ de que não é possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido no título exequendo para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA N. 182 DO STJ. FUNDAMENTOS ALTERADOS. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ÍNDICE APLICADO AOS JUROS DE MORA E CORREÇÃO MONETÁRIA. ART. 406 DO CÓDIGO CIVIL. TAXA SELIC. SUBSTITUIÇÃO. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Proceder à alteração, na fase de cumprimento de sentença, dos índices de correção monetária estabelecidos no título judicial configura violação da coisa julgada. Incidência da Súmula n. 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.606.648/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. DECISÃO MONOCRÁTICA. IMPRESTABILIDADE À COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada.
+2. Na hipótese, haja vista o título judicial consignar expressamente índices de correção monetária e de juros de mora, a sua substituição pela taxa SELIC - na fase de cumprimento de sentença - viola a coisa julgada.
+3. A jurisprudência do Superior Tribunal de Justiça, "interpretando o art. 1.043, incisos I e III, do CPC, firmou a orientação de que decisão monocrática não pode ser adotada como paradigma para fins de comprovação da divergência" (AgInt nos EAREsp 1.185.827/ES, Rel. o Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe 24/6/2021).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.551.197/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+E ainda: AgInt no AREsp n. 2.268.975/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023, AgInt no AgInt no AREsp n. 2.041.225/RJ, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023, AgInt no REsp n. 1.960.296/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023, AgInt nos EDcl no AREsp n. 2.163.752/RS, de minha relatoria, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022 e AgInt no AREsp n. 2.041.513/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.
+Em tais condições, incide a Súmula n. 568 do STJ, a impedir o seguimento do especial.
+Acrescente-se que não se discutiu na origem qual a taxa de juros a que se refere o art. 406 do CC, pois apenas houve a interpretação do título executivo. Dessa forma, em que pesem as alegações da parte, não ocorreu o prequestionamento do aludido dispositivo legal e das teses a ele relativas, incidindo também a Súmula n. 211 do STJ.
+Por fim, para alterar a conclusão da Corte estadual a respeito do que constou no título executivo, seria necessária análise de matéria fática, inviável em recurso especial ante o óbice da Súmula n. 7 do STJ.
+(III) No mais, a controvérsia trata da possibilidade de penhora de honorários sucumbenciais, diante da mitigação da regra de impenhorabilidade absoluta.
+Esta Corte Superior admite a flexibilização da impenhorabilidade dos honorários advocatícios a partir da verificação das peculiaridades do caso concreto. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. EXECUÇÃO. PENHORA DE CRÉDITO (HONORÁRIOS ADVOCATÍCIOS). RELATIVIZAÇÃO DA IMPENHORABILIDADE. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. É possível, excepcionalmente, a mitigação da impenhorabilidade prevista no artigo 833, inciso IV, do Código de Processo Civil - CPC/2015, desde que não haja prejuízo à subsistência digna da parte devedora e de sua família, consideradas as peculiaridades do caso e sempre orientando-se pelos princípios da proporcionalidade e da razoabilidade. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AR Esp n. 1.969.114/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, D Je 16/12/2022.)
+O TJRS, ao apreciar a questão, assim decidiu (e-STJ fl. 341):
+Com relação ao pedido de reconhecimento da impenhorabilidade dos honorários advocatícios, consigno que, em face das peculiaridades do caso concreto, na qual o crédito buscado pelo agravado tem relação com a atividade profissional do agravante, que era procurador do agravado, havendo apropriação indébita de valores pertencentes ao agravado nos autos da ação indenizatória movida contra a CRT, fica autorizada a relativização da impenhorabilidade prevista no art. 833, IV, do CPC, e é nesse sentido que o 8º Grupo Cível desta Corte (15ª Câmara Cível e 16ª Câmara Cível) vem decidindo acerca do pedido formulado pelo agravante, senão vejamos:
+AGRAVO DE INSTRUMENTO. MANDATOS. FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA DE HONORÁRIOS ADVOCATÍCIOS. As particularidades com caso, especialmente o fato de existir estreita relação entre o crédito buscado e a atividade profissional, autorizam a excepcional relativização da impenhorabilidade do art. 833, inc. IV, do CPC. RECURSO DESPROVIDO.(Agravo de Instrumento, Nº 51843884020238217000, Décima Sexta Câmara Cível, Tribunal de Justiça do RS, Relator: Jucelana Lurdes Pereira dos Santos, Julgado em: 24-08-2023)
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. MANDATOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PENHORA DE HONORÁRIOS PROFISSIONAIS. INOBSTANTE O ART. 833, INC. IV, DO CPC DISPONHA QUE OS VENCIMENTOS SÃO IMPENHORÁVEIS, E O CRÉDITO CONSTRITO DECORRA D E HONORÁRIOS ADVOCATÍCIOS, O CASO EM ANÁLISE APRESENTA PARTICULARIDADE, O QUAL DECORRE DE ILÍCITO (APROPRIAÇÃO INDEVIDA DE VALORES) PRATICADO PELO AGRAVANTE, O QUAL É DEMANDADO EM INÚMERAS AÇÕES/EXECUÇÃO EMBASADAS EM IDÊNTICA SITUAÇÃO, O QUE AUTORIZA A RELATIVIZAÇÃO DA IMPENHORABILIDADE DA VERBA ALIMENTAR (SÚMULA VINCULANTE Nº 47). REFORÇO DE PENHORA. CABIMENTO. AUSÊNCIA DE ELEMENTOS NOVOS, CAPAZES DE ALTERAR A CONVICÇÃO FIRMADA EM DECISÃO MONOCRÁTICA. AGRAVO INTERNO DESPROVIDO. UNÂNIME.(Agravo de Instrumento, Nº 51164919220238217000, Décima Quinta Câmara Cível, Tribunal de Justiça do RS, Relator: Carmem Maria Azambuja Farias, Julgado em: 16-08-2023)
+Dito isso, a decisão agravada não comporta reforma.
+Assim, a Corte estadual, ao analisar a situação peculiar dos autos, concluiu pela possibilidade de penhora dos valores recebidos pelo recorrente a título de honorários advocatícios, reputando necessária uma solução excepcional.
+O TJRS pontuou ainda que se está diante de um crédito gerado a partir do prejuízo causado pelo procurador, ora agravante, a seu cliente, agravado, que foi vítima de apropriação indébita.
+Dessarte, o acolhimento da pretensão recursal, de maneira a alterar a conclusão a que chegou o Tribunal originário, demandaria o revolvimento do conjunto fático-probatório e a análise das especificidades do caso, o que encontra óbice na Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+Cumpre assinalar que " o  art. 508 do CPC/2015 positiva a eficácia preclusiva da coisa julgada e o princípio do dedutível e do deduzido, enunciando que " t ransitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido"" (AgInt no AREsp n. 1.817.199/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/5/2021, DJe de 28/5/2021).
+Assim, em que pesem as alegações da parte, mesmo após a entrada em vigor da Lei n. 14.905/2024, a jurisprudência do STJ mantém-se firme no entendimento de que , na fase de liquidação ou cumprimento de sentença, não é possível alterar o critério estabelecido no título exequendo para a fixação dos juros de mora, pois isso acarretaria ofensa à coisa julgada.
+A propósito, confiram-se precedentes das duas Turmas que compõem a Segunda Seção desta Corte, proferidos na vigência da referida norma:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ÍNDICE APLICADO AOS JUROS DE MORA E CORREÇÃO MONETÁRIA. ART. 406 DO CÓDIGO CIVIL. TAXA SELIC. SUBSTITUIÇÃO. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. SÚMULA 83 DO STJ.
+1. Nos termos da jurisprudência pacífica desta Corte, mesmo após a entrada em vigor da Lei n. 14.905/2024, que alterou o art. 406 do CC para determinar a taxa SELIC como a taxa de juros aplicável, esta não pode ser aplicada aos casos em que o título executivo já previu outros índices, sob pena de violação da coisa julgada. Precedentes.
+2. Na hipótese dos autos, haja vista o título judicial consignar expressamente índices de correção monetária e de juros de mora, a sua substituição pela taxa SELIC, na fase de cumprimento de sentença, viola a coisa julgada.
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.767.941/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. COISA JULGADA. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, mantendo a inadmissão do recurso especial pela incidência das Súmulas n. 7 e 83 do STJ.
+2. O acórdão recorrido negou provimento ao agravo de instrumento, afirmando a inviabilidade de revisão dos índices de correção monetária e juros moratórios fixados em sentença transitada em julgado, sob pena de violação da coisa julgada.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é possível alterar, na fase de cumprimento de sentença, os índices de correção monetária e juros moratórios estabelecidos no título executivo judicial, substituindo-os pela taxa SELIC, sem violar a coisa julgada.
+III. Razões de decidir
+4. A jurisprudência do STJ estabelece que não é possível alterar, na fase de liquidação ou cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. Não é possível alterar, na fase de cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada".
+Dispositivos relevantes citados: CPC/2015, art. 508 e CC/2002, art. 406.Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.588.495/RS, Min. Moura Ribeiro, Terceira Turma, julgado em 17/2/2025; STJ, AgInt no REsp n. 2.042.830/RS, Min. Raul Araújo, Quarta Turma, julgado em 16/12/2024.
+(AgInt nos EDcl no AREsp n. 2.330.742/RS, de minha relatoria, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. SUBSTITUIÇÃO PELA TAXA SELIC. NÃO CABIMENTO. COISA JULGADA. OCORRÊNCIA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. NÃO PROVIMENTO.
+1. A reanálise do entendimento de que caracterizado a coisa julgada, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n. 7 do STJ.
+2. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.588.495/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DOS ÍNDICES DE JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA FIXADOS EM SENTENÇA COM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "A jurisprudência desta Corte Superior dispõe no sentido de não ser possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido, no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Súmula 568 do STJ" (AgInt no REsp 1.960.296/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13.3.2023, DJe de 16.3.2023).
+2. Conforme consignado no julgamento do Tema 176 dos Recursos Repetitivos, "o pagamento de juros moratórios é obrigação de trato sucessivo, que se renova mês a mês, devendo incidir a taxa prevista na lei vigente à época de seu vencimento, a menos que o título exequendo seja posterior ao novo regramento e estabeleça índice diverso."
+3. Caso concreto no qual a sentença exequenda, proferida em 2016, com trânsito em julgado, estabeleceu o índice de correção monetária e a incidência de juros moratórios, distintamente da Taxa Selic, já então prevista pelo ordenamento como a taxa de juros aplicável, nos termos do art. 406 do CC, conforme interpretação conferida desde 2008 pela Corte Especial do STJ e no julgamento dos Temas 99 e 176 dos Recursos Repetitivos. Por isso, é inviável a alteração do título na fase de cumprimento de sentença, sob pena de violação à coisa julgada.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.042.830/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+Apenas a título de esclarecimento, o Tema n. 176/STJ não se aplica ao caso, pois se refere especificamente aos casos em que o título judicial exequendo houver sido exarado antes da entrada em vigor do Código Civil de 2002, fixando os juros de mora em 0,5% ao mês, o que não é a hipótese dos autos.
+Por sua vez, o Tema n. 99/STJ, cuida dos casos de atualização da conta vinculada do FGTS, sem fazer menção à coisa julgada, da mesma forma que o Tema n. 112/STJ.
+Além disso, os demais julgados citados pela parte recorrente, entre os quais decisões monocráticas, não vinculam este Colegiado.
+Vale salientar que o AgInt nos EDcl no REsp 1.727.518/SP não cuida de hipótese em que o título judicial transitado em julgado definiu os índices de juros de mora e correção monetária.
+Também cabe ressaltar que a decisão monocrática de minha relatoria, exarada no AREsp 2.701. 559/RS deixou claro que naquele caso "o título executivo determinou a incidência dos juros legais, sem definir o índice aplicável a tal título" (grifei), o que não é o caso destes autos, em que o índice foi definido no título.
+Já no AgRg nos EDcl no AgRg no AREsp 573.927/DF, também de minha relatoria, a questão da coisa julgada não foi apreciada.
+Por fim, os precedentes do STF mencionados no recurso referem-se às relações tributárias de trato sucessivo, hipótese diversa da dos autos.
+Portanto, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravant e apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
