@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de KEVIN ALVES DE OLIVEIRA, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do Habeas Corpus n. 0074232-88.2025.8.16.0000.
+Consta nos autos que o paciente foi preso em flagrante pela prática do crime de tráfico de drogas (fl. 63). Apreendeu-se, no ato, aproximadamente 95 kg de maconha, 786 comprimidos de ecstasy (430 g), 3 balanças de precisão e uma seladora a vácuo para embalar drogas (fl. 15). Posteriormente, a prisão flagrancial foi convertida em preventiva (fls. 25/27).
+Impetrado habeas corpus, o Tribunal de Justiça conheceu parcialmente do writ e, nessa extensão, denegou a ordem, mantendo a prisão preventiva (fls. 11/17).
+Neste writ, a defesa alega que houve constrangimento ilegal na manutenção da prisão preventiva, por ausência de fundamentação concreta e desconsideração de elementos fáticos e jurídicos essenciais, como a coação moral irresistível por parte de um terceiro e a colaboração ativa do paciente com as autoridades (fls. 4/5).
+Sustenta que a quantidade de entorpecentes apreendidos, embora relevante, não foi devidamente ponderada com as condições pessoais do paciente e sua colaboração, tornando a prisão preventiva desproporcional (fl. 6).
+Destaca que a prisão preventiva deve ser a ultima ratio, e que medidas cautelares alternativas seriam suficientes para evitar a prática de novo crime, especialmente considerando a colaboração do paciente e sua não reincidência formal (fls. 7/8).
+Requer, inclusive liminarmente, a revogação da prisão preventiva do paciente ou a aplicação de medidas cautelares alternativas (fls. 9/10).
+É o relatório.
+Inicialmente, a alegada coação moral irresistível por parte de um terceiro e a colaboração ativa do paciente com as autoridades não foram apreciadas pelo Tribunal de Justiça, porque a pronta análise da matéria resultaria em indevida supressão de instância (fl. 14).
+Diante disso, o exame dessas matérias por esta Corte Superior encontra-se inviabilizado, também sob pena de indevida supressão de instância.
+Por outro lado, não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+No caso em tela, verifico que está devidamente justificada pela necessidade de garantir a ordem pública. Tal necessidade é evidenciada pela periculosidade social do acusado (estava usufruindo de liberdade provisória, também denunciado por tráfico de drogas, quando preso em flagrante - fls. 15 e 26) e pela quantidade da droga apreendida - aproximadamente 95 kg de maconha e 786 comprimidos de ecstasy (430 g), além de 3 balanças de precisão e uma seladora a vácuo para embalar drogas (fls. 15 e 26).
+Nesse sentido: AgRg no HC n. 949.350/SC, de minha relatoria, Sexta Turma, DJe 29/11/2024; AgRg no HC n. 875.093/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/3/2024; e AgRg no HC n. 876.906/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 14/3/2024.
+Assim, consideradas a reiteração delitiva e a gravidade dos fatos que recomendam a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, II, do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente a petição in icial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. COAÇÃO MORAL IRRESISTÍVEL. COLABORAÇÃO ATIVA DO ACUSADO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+Petição inicial indeferida liminarmente.
