@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.  Segundo a jurisprudência desta Corte Superior, a previsão contida no art. 10, inc. VII, da Lei n. 9.656/1998, não limita a cobertura em casos como o presente, em que a órtese craniana para plagiocefalia evita a própria intervenção cirúrgica. Incidência da Súmula 83 do STJ.
+2.  Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED DE JUNDIAÍ COOPERATIVA DE TRABALHO MÉDICO contra decisão monocrática de fls. 739-743 e-STJ, da lavra deste signatário, que negou provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 289-290 e-STJ):
+PLANO DE SAÚDE - Paciente menor (filha da autora), portadora de "braquicefalia severa" (deformidade craniana) - Pretensão ao reembolso, pela ré, das despesas relativas ao tratamento prescrito pelo médico assistente, com colocação de órtese craniana e sessões de fisioterapia, em clínica não credenciada - Sentença que reconheceu a obrigação da ré em reembolsar, integralmente, todas as despesas relacionadas ao tratamento Insurgência da ré - Não acolhimento - Recusa da ré em custear o procedimento de colocação de órtese craniana, sob a alegação de exclusão de cobertura contratual, por não constar no rol dos procedimentos obrigatórios instituídos pela ANS - Inadmissibilidade - Escolha do tipo de procedimento a ser realizado que não incumbe à operadora, mas ao corpo clínico responsável pelo tratamento do paciente - Inteligência da Súmula 102 deste E. Tribunal - Tratamento com a órtese a ser utilizada na paciente que é indispensável para corrigir a assimetria do crânio, garantindo à ela, o pleno desenvolvimento de suas funções, e para evitar futura cirurgia, com graves riscos à paciente - Precedentes do C. STJ e desta Corte - Ausência de comprovação de que haja outro tratamento equivalente, previsto no rol da ANS, que possa substituir aquele indicado na inicial - Reembolso das despesas com o tratamento que deverá ser feito de forma integral - Sentença mantida - Recurso desprovido.
+Nas razões do recurso especial (fls. 310-322 e-STJ), a parte insurgente apontou violação aos artigos 10, VII, §§ 4º, 12, 13 da Lei n. 9.656/1998; 3º e 4º da Lei n. 9.961/2000, além de dissídio jurisprudencial, sob o argumento, em suma, que o contrato de plano de saúde não prevê a cobertura de órteses e próteses não ligados ao ato cirúrgico, bem como que o procedimento não está previsto no rol taxativo da ANS.
+Apresentadas contrarrazões às fls. 335-363 e-STJ.
+Parecer do Ministério Público às fls. 370-373 e-STJ.
+Em decisão monocrática (fls. 1.029-1.032 e-STJ), este signatário negou provimento ao recurso especial, sob o fundamento da aplicação do óbice da Súmula 83/STJ.
+Inconformada, no presente agravo interno (fls. 746-755 e-STJ), a parte recorrente insurge-se contra a negativa de provimento ao recurso especial, combatendo o óbice da Súmula 83/STJ, sob o argumento, em suma, de que a orientação do Tribunal de origem não está em consonância com o entendimento deste Superior Tribunal de Justiça sobre o tema. Requer, ao final, a reforma da decisão agravada.
+Impugnação às fls. 772-782 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1.  Segundo a jurisprudência desta Corte Superior, a previsão contida no art. 10, inc. VII, da Lei n. 9.656/1998, não limita a cobertura em casos como o presente, em que a órtese craniana para plagiocefalia evita a própria intervenção cirúrgica. Incidência da Súmula 83 do STJ.
+2.  Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Com relação à aplicação do óbice da Súmula 83/STJ, deve ser mantida a decisão que negou provimento ao recurso especial.
+Conforme consignado pela decisão agravada, cinge-se a controvérsia recursal à verificação acerca da legalidade da negativa de cobertura de tratamento com órtese craniana.
+No caso em tela, a Corte local manteve a sentença condenatória, que julgou procedente o pedido inicial, sob a seguinte fundamentação (fls. 295-304 e-STJ):
+O relatório médico juntado aos autos (fls. 29/30), comprova que a menor, apresenta quadro de braquicefalia severa, e necessita de tratamento com utilização de órtese craniana confeccionada sob medida, para correção da anomalia que a acomete.
+A exclusão da cobertura afronta o princípio da boa-fé contratual, já que no momento da contratação a fornecedora acena com a perspectiva de dar cobertura aos tratamentos necessários ao paciente, inclusive os mais modernos, atraindo o consumidor, que, no entanto, se vê desprotegido quando necessita efetivamente de tratamento. A doença é coberta pelo plano, de forma que deve haver cobertura para todos os medicamentos necessários para tratar a paciente. Excluir a cobertura do tratamento com o fornecimento da órtese indicada, seria privar o autor de receber o acompanhamento adequado para a sua doença, que tem cobertura contratual.
+No que diz respeito a próteses e órteses, o artigo 10, VII da Lei 9.656/98, que dispõe sobre os planos de saúde, veda por norma cogente, a exclusão da cobertura de próteses, órteses e acessórios, quando ligadas ou indispensáveis ao próprio ato cirúrgico, conferindo obrigatoriedade ao fornecimento desses materiais. (..).
+No caso dos autos, o tratamento com a órtese a ser utilizada na paciente é indispensável, não possuindo finalidade estética, porquanto visa corrigir a assimetria do crânio, garantindo à infante, o pleno desenvolvimento de suas funções, e evitar futura cirurgia.
+Assim, embora a órtese não esteja associada diretamente a ato cirúrgico, ela é necessária para evitar que tal ato tenha, no futuro, de ser realizado, com grave risco para a paciente. E não há comprovação de que haja outro tratamento equivalente, previsto no rol da ANS, que possa substituir aquele indicado na inicial.
+A órtese é, portanto, inerente ao próprio procedimento, e indispensável para a obtenção de êxito do tratamento, razão pela qual é devida a cobertura pela operadora ré. (..).
+No caso dos autos, a órtese a ser utilizada na paciente é inerente ao próprio procedimento, e indispensável para a obtenção de êxito do tratamento.
+E esse entendimento está em consonância com a Lei nº 14.454, de 21 de setembro de 2022, que alterou a Lei nº 9.656/98, estabelecendo critérios que permitem a cobertura de exames ou tratamentos de saúde que não estão incluídos no Rol de Procedimentos e Eventos em Saúde Suplementar editados pela ANS: (..).
+Não se pode opor a vigente Resolução Normativa RN n. 465/2021 da ANS naquilo em que viola a Lei n. 8.078/90 (Súmula 608 STJ), quanto à devida prestação dos serviços contratados, a não ser que a Operadora demonstre que existe, para a cura ou atendimento do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol, consoante entendimento dos EREsp 1886929 e EREsp 1889704, o que não foi feito.
+Com efeito, sobre o tema, segundo a jurisprudência desta Corte Superior, a previsão contida no art. 10, inc. VII, da Lei n. 9.656/1998, não limita a cobertura em casos como o presente, em que o equipamento médico evita a própria intervenção cirúrgica.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE TRATAMENTO A MENOR. PLAGIOCEFALIA E BRAQUICEFALIA. COBERTURA DE ÓRTESE CRANIANA. SUBSTITUIÇÃO DE CIRURGIA. VIOLAÇÃO DO ART. 10, VII, DA LEI N. 9.656/1998. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A cobertura de órtese craniana (capacete ortopédico) indicada pelo médico assistente para tratamento de braquicefalia e plagiocefalia, com a finalidade de evitar cirurgia futura de crianças e recém-nascidos, não ofende o disposto no art. 10, VII, da Lei n. 9.656/1998.
+2. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+3. A incidência da Súmula n. 83 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.139.404/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ÓRTESE CRANIANA PARA TRATAMENTO DE BRAQUICEFALIA ASSIMÉTRICA POSICIONIAL. RECUSA DE COBERTURA INDEVIDA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer, fundada na indevida negativa de cobertura de órtese craniana para tratamento de braquicefalia.
+2. É abusiva a recusa de tratamento com órtese que substitui futura cirurgia. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.594.273/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. BRAQUICEFALIA E PLAGIOCEFALIA. TRATAMENTO. ÓRTESE CRANIANA. SUBSTITUIÇÃO DE CIRURGIA. CUSTEIO. OBRIGATORIEDADE. PROCEDIMENTO CIRÚRGICO. NECESSIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Discute-se nos autos acerca do custeio pelo plano de saúde de órtese craniana indicada para tratamento de braquicefalia e plagiocefalia.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido da obrigatoriedade de cobertura pelo plano de saúde de órtese craniana indicada para tratamento de braquicefalia e plagiocefalia, porquanto visa evitar cirurgia futura em recém-nascidos e crianças para a correção da deformidade.
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da necessidade de procedimento cirúrgico demandaria o reexame fático-probatório dos autos, encontrando óbice na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.111.676/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEMBOLSO DE DESPESAS MÉDICAS. ÓRTESE CRANIANA SUBSTITUTIVA DE CIRURGIA. OBRIGATORIEDADE DE CUSTEIO. SÚMULA 83/STJ. ÔNUS PROBATÓRIO E LIMITAÇÃO DE REEMBOLSO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Conforme entendimento desta Corte Superior, "a cobertura da órtese craniana indicada para o tratamento de braquicefalia e plagiocefalia posicional não encontra obstáculo nos artigos 10, VII, da Lei n. 9.656/98 e 20, §1º, VII da Resolução Normativa 428/2017 da ANS (atual 17, VII, da RN 465/2021), visto que, apesar de não estar ligada ao ato cirúrgico propriamente dito, sua utilização destina-se a evitar a realização de cirurgia futura para correção da deformidade, evitando consequências funcionais negativas em recém-nascidos e crianças" (REsp n. 1.893.445/SP, relatora a Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/4/2023, DJe de 4/5/2023). Incidência da Súmula 83/STJ.
+3. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, o que não ocorreu na presente hipótese (Súmulas n. 282 e 356/STF). Também não é o caso de se considerar a ocorrência do prequestionamento implícito.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.500.948/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+RECURSO ESPECIAL. PLANO DE SAÚDE. ROL DE PROCEDIMENTOS E EVENTOS DE COBERTURA MÍNIMA EM SAÚDE ELABORADO PELA ANS. PLAGIOCEFALIA E BRAQUICEFALIA. ÓRTESE SUBSTITUTIVA DE CIRURGIA CRANIANA. ART. 10, VII, DA LEI Nº 9.656/98. NÃO INCIDÊNCIA. COBERTURA DEVIDA.
+1. A cobertura da órtese craniana indicada para o tratamento de braquicefalia e plagiocefalia posicional não encontra obstáculo nos artigos 10, VII, da Lei n. 9.656/98 e 20, §1º, VII da Resolução Normativa 428/2017 da ANS (atual 17, VII, da RN 465/2021, visto que, apesar de não estar ligada ao ato cirúrgico propriamente dito, sua utilização destina-se a evitar a realização de cirurgia futura para correção da deformidade, evitando consequências funcionais negativas em recém-nascidos e crianças.
+2. Recurso especial a que se nega provimento.
+(REsp n. 1.893.445/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/4/2023, DJe de 4/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRÓTESE CRANIANA. SUBSTITUIÇÃO DE NEUROCIRURGIAS. OBRIGATORIEDADE DE CUSTEIO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Esta Corte tem entendimento de que "A lei estabelece que as operadoras de plano de saúde não podem negar o fornecimento de órteses, próteses e seus acessórios indispensáveis ao sucesso da cirurgia, como por exemplo a implantação de stents ou marcapassos em cirurgias cardíacas. Se o fornecimento de órtese essencial ao sucesso da cirurgia deve ser custeado, com muito mais razão a órtese que substitui esta cirurgia, por ter eficácia equivalente sem o procedimento médico invasivo do paciente portador de determinada moléstia" (REsp 1.731.762/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 28/5/2018).
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.006.252/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/3/2023, DJe de 31/3/2023.)
+Destarte, estando o acórdão recorrido em conformidade com a jurisprudência recente desta Corte Superior, aplica-se o óbice da Súmula 83/STJ.
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
