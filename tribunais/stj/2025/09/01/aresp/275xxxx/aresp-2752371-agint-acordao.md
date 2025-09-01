@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE, AMPARADA NAS SÚMULAS 07 E 83 DO STJ, NEGOU PROVIMENTO AO RECLAMO.
+INCONFORMISMO DA PARTE AGRAVANTE.
+1. Pelo simples cotejo das razões de decidir do acórdão recorrido, observa-se que as matérias alegadas pelo embargante foram examinadas pela Corte Estadual, razão pela qual não há, pela instância de origem, negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo quando se tratar de matéria de ordem pública. Precedentes.
+3. Na hipótese dos autos, o Tribunal de origem, ainda, concluiu que, além de haver indícios fraude à execução, a parte ora requerente não comprovou que a renda auferida com o alegado aluguel do bem estivesse sendo revertida à sua subsistência ou para a moradia da família. Dessa forma, a alteração da conclusão firmada pela Corte estadual, encontra óbice na Súmula 07 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por MALULY JUNIOR SOCIEDADE INDIVIDUAL DE ADVOCACIA e OUTRO, contra decisão monocrática proferida às fls. 343/347 (e-STJ), de lavra deste signatário, que, amparada nas Súmulas 07 e 83 do STJ, negou provimento ao reclamo.
+O apelo nobre desafia acórdão prolatado, em sede de agravo de instrumento, pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. INCIDENTE DE CUMPRIMENTO DE SENTENÇA. Ação condenatória. Cobrança. Decisão de: i) indeferimento da adjudicação do imóvel situado em Bragança Paulista em favor do exequente para quitação da dívida, ii) ordem de intimação do terceiro adquirente do imóvel situado na rua Dona Inácio Uchoa, 52, nesta Capital e iii) rejeição da alegação de impenhorabilidade do imóvel localizado na rua Dr. Francisco Malta Cardoso, 250, por constituir bem de família. Insurgência dos executados. - Imóvel oferecido em garantia pelos executados. Valor inferior ao crédito exequendo e ausência de liquidez. Tentativa de alienação em leilão judicial infrutífera. Matéria que já foi objeto de apreciação em ação cautelar de arresto. Pedido de nova avaliação do imóvel não submetido ao juízo a quo. Matéria não conhecida sob pena de supressão de instância. - Impenhorabilidade de imóvel locado para terceiro. Possibilidade da penhora já analisada em agravo precedente. Inexistência de prova de que a renda obtida com a locação é revertida para a subsistência do executado. - Imóvel que foi objeto de cessão de direitos a terceiro. Cessão ocorrida mais de dez anos depois do ajuizamento da fase de cumprimento de sentença e depois da sub-rogação do crédito exequendo pelos exequentes. Indícios de fraude. Intimação do cessionário adquirente do bem para oferecer embargos de terceiro. Decisão mantida. - Litigância de má-fé. Não caracterizada conduta temerária dos agravantes. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, DESPROVIDO.
+Foram opostos embargos de declaração, os quais restaram rejeitados.
+Em suas razões de recurso especial (fls. 230/252, e-STJ), os recorrentes apontaram ofensa aos artigos 373, 502, 507 e 1022 do CPC.
+Sustentaram, em preliminar, negativa de prestação jurisdicional pela instância de origem, porquanto houve: a) omissão sobre a arguição de nulidade da decisão agravada por cerceamento de defesa; e, b) contradição acerca da ausência de decisão anterior sobre a questão da impenhorabilidade do bem de família.
+Aduziram, no mérito: c) que não ocorreu preclusão quanto ao tema da impenhorabilidade do bem de família; e, d) ausência de devida fundamentação sobre os documentos colacionados pelos recorrentes.
+Contrarrazões (fls. 260/281, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, daí o presente reclamo.
+Contraminuta às fls. 311/324(e-STJ), sustentando o acerto do decisum hostilizado.
+Por decisão monocrática (fls. 343/347, e-STJ), foi negado provimento ao reclamo.
+Em suas razões (fls. 351/357, e-STJ), os insurgentes repisam os mesmos fundamentos em seu agravo interno, buscando a reconsideração da decisão ora agravada.
+Impugnação juntada às fls. 361/365 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE, AMPARADA NAS SÚMULAS 07 E 83 DO STJ, NEGOU PROVIMENTO AO RECLAMO.
+INCONFORMISMO DA PARTE AGRAVANTE.
+1. Pelo simples cotejo das razões de decidir do acórdão recorrido, observa-se que as matérias alegadas pelo embargante foram examinadas pela Corte Estadual, razão pela qual não há, pela instância de origem, negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo quando se tratar de matéria de ordem pública. Precedentes.
+3. Na hipótese dos autos, o Tribunal de origem, ainda, concluiu que, além de haver indícios fraude à execução, a parte ora requerente não comprovou que a renda auferida com o alegado aluguel do bem estivesse sendo revertida à sua subsistência ou para a moradia da família. Dessa forma, a alteração da conclusão firmada pela Corte estadual, encontra óbice na Súmula 07 do STJ.
+4. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+1. Preliminarmente, cumpre destacar que não há, pela instância de origem, negativa de prestação jurisdicional.
+Pelo simples cotejo das razões de decidir do acórdão, observa-se que as matérias alegadas pelo embargante foram examinadas pela Corte Estadual.
+Confira-se:
+Cabe ressaltar que o colegiado expôs com suficiente clareza o fundamento que levou ao desprovimento do recurso: "O imóvel oferecido em garantia pelos agravantes, localizado na Comarca de Bragança Paulista, tem valor inferior ao do crédito exequendo e restrita liquidez, conforme já analisado em sede de recurso de apelação interposto nos autos da ação cautelar de arresto (fls. 71/83)".
+Além disso, não se ressente o acórdão da nulidade ventilada pelos embargantes, na medida em que constou expressamente que "O pedido de nova avaliação do mesmo imóvel não foi formulado em primeiro grau, de sorte a inviabilizar a apreciação em sede recursal, por implicar supressão de instância. Em sentido diverso do que afirmam os agravantes, era deles o ônus de demonstrar que a excussão do bem dado em garantia era suficiente para satisfazer a execução, o que não ocorreu".
+No mais, o colegiado deixou bem claro que "Quanto ao imóvel objeto da matrícula nº 310.681 do 11º CRI da Capital, integrante do empreendimento denominado "The Buckingham", localizado na rua Dr. Francisco Malta Cardoso nº 250, a possibilidade de penhora já foi analisada por ocasião do julgamento do recurso de agravo de instrumento nº 2041900-94.2021.8.26.0000", sendo certo que "o agravante não comprovou que a renda obtida com a locação é revertida para sua subsistência, sobretudo porque o imóvel permaneceu desocupado por um longo período", fato que não socorre aos embargantes na defesa da tese de impenhorabilidade.
+É de constatar, como fecho, que o acórdão também analisou a questão em torno da cessão de direitos do imóvel localizado na rua Dona Inácio Uchoa, nº 52, objeto da matrícula 14.238 do 1º CRI da Capital e expôs conclusão de que "ao tempo da celebração da cessão de direitos do agravante sobre o imóvel em favor de Lourenço Maluly Cardoso, a execução já se arrastava há mais de dez anos e os agravados já tinham assumido a posição de exequentes. Desta forma, diante de indícios consistentes de fraude à execução, é indispensável dar oportunidade ao adquirente para manifestação".
+Não há, portanto, a alegada vicissitude de fundamentação.
+2. No mérito, a questão relativa à impenhorabilidade do bem, diante da alegação de constituir bem de família, restou examinada e afastada, por dois motivos, pela Corte Estadual (fl. 167, e-STJ):
+Quanto ao imóvel objeto da matrícula nº 310.681 do 11º CRI da Capital, integrante do empreendimento denominado "The Buckingham", localizado na rua Dr. Francisco Malta Cardoso nº 250, a possibilidade de penhora já foi analisada por ocasião do julgamento do recurso de agravo de instrumento nº 2041900-94.2021.8.26.0000, expresso o acórdão no sentido de que: "os executados tentam discutir novamente nestes autos questões que já foram debatidas e decididas no bojo da ação cautelar nº 1076275-42.2015.8.26.0100, onde o arresto sobre o imóvel de matrícula nº 310.681 e sua conversão em penhora para a garantia desta execução foi confirmada em sede recursal por esta mesma Câmara" (fl. 104).
+(..)
+Ainda que assim não o fosse, o agravante não comprovou que a renda obtida com a locação é revertida para sua subsistência, sobretudo porque o imóvel permaneceu desocupado por um longo período.
+O contexto fático do feito indica que, primeiro, o Tribunal local reconheceu a existência de preclusão da alegação - pois a mesma matéria já foi suscitada e afastada em outro recurso anterior -; e, segundo, que o recorrente não comprovou que a renda obtida com a locação do imóvel, no qual ele efetivamente não reside, é revertida para sua subsistência.
+Tem-se evidenciado, portanto, que a pretensão encontra, ao menos neste momento, encontra óbice nas Súmulas 07 e 83 do STJ.
+Vejamos.
+2.1. Nos termos da jurisprudência do Superior Tribunal de Justiça, opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo quando se tratar de matéria de ordem pública.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+1.1. Opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo em se tratando de matéria de ordem pública. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.090.622/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. IMÓVEL. BEM DE FAMÍLIA. QUESTÃO DECIDIDA ANTERIORMENTE. PRECLUSÃO. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A decisão agravada merece ser reconsiderada, pois prequestionado o tema referente à preclusão.
+2. Opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo tratando-se de matéria de ordem pública. Precedentes.
+3. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.403.350/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Incidência da Súmula 83 do STJ.
+2.2. Na hipótese dos autos, o Tribunal de origem, ainda, concluiu que, além de haver indícios fraude à execução, a parte ora requerente não comprovou que a renda auferida com o alegado aluguel do bem estivesse sendo revertida à sua subsistência ou para a moradia da família.
+Dessa forma, a alteração da conclusão firmada pela Corte estadual, encontra óbice na Súmula 07 do STJ.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO SOBRE DOCUMENTOS. SUSCITAÇÃO TARDIA. PRECLUSÃO. NULIDADE DE ALGIBEIRA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 256 DO STF. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. NÃO DEMONSTRAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 a hipótese em que o Tribunal de origem se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o deslinde da controvérsia, apreciando-a fundamentadamente, apontando as razões de seu convencimento, mas de forma contrária aos interesses da parte, como verificado na hipótese.
+2. A suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável, configura a chamada nulidade de algibeira, manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça.
+3. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento (Súmulas 282 e 356/STF).
+4. Nos termos da Súmula 486/STJ "É impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família".
+5. Na hipótese dos autos, o eg. Tribunal de origem concluiu que, além de haver indícios de ocultação de bens e valores com o objetivo de se esquivar da execução, a agravante não comprovou que a renda auferida com o alegado aluguel do bem - cujo contrato de locação apresentado foi firmado somente cerca de um mês após a prolação da decisão determinando a lavratura do termo de penhora - estivesse sendo revertida à sua subsistência ou para a moradia da família. A alteração de tal entendimento é obstada pela Súmula 7 desta Corte, pois demandaria o reexame do conjunto fático-probatório.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.020.698/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+De rigor, portanto, a manutenção da decisão ora agravada diante do completo exame da matéria à luz da jurisprudência desta Corte Superior.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
