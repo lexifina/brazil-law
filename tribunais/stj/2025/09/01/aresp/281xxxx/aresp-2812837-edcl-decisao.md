@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOÃO FRANCISCO MATARA e JOÃO FRANCISCO MATARA JUNIOR contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da ementa a seguir (fl. 427):
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. RECURSO ESPECIAL DE NATUREZA VINCULADA. ALEGAÇÕES DO RECURSO ESPECIAL CLARAS E SUFICIENTES. AUSÊNCIA. FUNDAMENTO DO ACÓRDÃO MANTIDO. INCIDÊNCIADA SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO."
+O embargante alega omissão e contradição ao argumento de que, "(..) a decisão se limitou a aplicar, genericamente, a Súmula 284/STF, sem, contudo, enfrentar de forma específica a tese central suscitada em sede de agravo em recurso especial: a ausência de interesse processual dos agravados, matéria de ordem pública, cognoscível de ofício em qualquer grau de jurisdição. Há, portanto, omissão quanto ao exame dessa questão, que não poderia ser afastada por suposta deficiência de fundamentação" (fls. 436/437); alega ainda que não pretende o reexame probatório, mas "(..) o que se pretende é o enquadramento jurídico dos fatos já incontroversos nos autos, o que não atrai a incidência da Súmula 7/STJ. Resta, portanto, omissão/erro de premissa na aplicação da súmula, que deve ser sanada".
+Requer a reforma da decisão embargada.
+A embargada apresentou impugnação às fls. 443/445.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há qualquer omissão ou contradição na decisão embargada, uma vez que esta foi devidamente fundamentada ao concluir pela incidência das Súmulas 284 do STF e 7 do STJ, conforme se verifica do trecho a seguir:
+"Verifica-se que, em relação à apontada ofensa ao art. 485, VI, do CPC, as alegações trazidas no recurso especial não são aptas a desconstituir os fundamentos da decisão agravada, a qual deve permanecer hígida.
+É de se ressaltar que, nos termos da jurisprudência desta Corte, o recurso especial possui natureza vinculada, sendo necessário para seu cabimento a demonstração, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida em conjunto com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF (AgInt no REsp 1.955.109/DF, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 08/09/2022).
+Incidência, na hipótese, da Súmula 284/STF.
+(..)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à ausência de "obrigatoriedade ou pré-requisito legal, de esgotamento de vias administrativas para propositura de ação de cobrança", bem como com relação à ausência de ato ilícito por parte do recorrido, ausência de comprovação de superfaturamento e regularidade das informações prestadas para o recebimento dos valores devidos, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ. Dissídio jurisprudencial prejudicado em razão do óbice das Súmulas 284 do STF e 7 do STJ."
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
