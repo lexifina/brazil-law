@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.
+1. O não enfrentamento, pela Corte de origem, de questão ventilada nos aclaratórios e imprescindível à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, autorizando o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Agravo conhecido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. CÉDULA DE CRÉDITO RURAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.
+I. SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA. TEMA 1.169 DO STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL. CHAMAMENTO AO PROCESSO DOS DEVEDORES SOLIDÁRIOS. PERÍCIA CONTÁBIL. MATÉRIAS SOBRE AS QUAIS OPEROU-SE A PRECLUSÃO CONSUMATIVA. QUESTÕES JÁ ANALISADAS EM DECISÕES PRETÉRITAS.
+II. EM OBSERVÂNCIA AOS ARTS. 2º E 3º DO CÓDIGO DE DEFESA DO CONSUMIDOR, EVIDENTE SE MOSTRA A EXISTÊNCIA DE RELAÇÃO DE CONSUMO ENTRE AS PARTES, TORNANDO-SE, PORTANTO, INDISCUTÍVEL A INCIDÊNCIA DA LEGISLAÇÃO SUPRA NA PRESENTE AÇÃO.
+III. DESNECESSIDADE DE COMPROVAÇÃO DO PAGAMENTO. ÔNUS DA PROVA TRANSFERIDO À INSTITUIÇÃO FINANCEIRA, QUE TEM MELHORES CONDIÇÕES DE DEMONSTRAR EVENTUAL FATO EXTINTIVO, MODIFICATIVO OU IMPEDITIVO DO DIREITO DA PARTE ADVERSA, POIS TEM EM SEU SISTEMA TODOS OS DOCUMENTOS CORRESPONDENTES DEVIDAMENTE ARQUIVADOS.
+IV. A ILEGALIDADE DA INCIDÊNCIA DO IPC, NO MÊS DE MARÇO DE 1990, COMO ÍNDICE DE CORREÇÃO MONETÁRIA, NAS CÉDULAS RURAIS VINCULADAS À CADERNETA DE POUPANÇA, É CONSOLIDADA A JURISPRUDÊNCIA DESTE TRIBUNAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA. NESTE SENTIDO, ENTENDE-SE COMO CORRETA A APLICAÇÃO, NO PERÍODO EM TELA, DO BTN - BÔNUS DO TESOURO NACIONAL, CORRESPONDENTE AO PERCENTUAL DE 41,28%. ASSIM, COM O FITO DE EVITAR-SE O ENRIQUECIMENTO ILÍCITO DO BANCO DEMANDADO, DEVE ESTE SER CONDENADO À DEVOLUÇÃO DA DIFERENÇA PAGA PELO REQUERENTE A TÍTULO DE CORREÇÃO MONETÁRIA, EM RAZÃO DA ADOÇÃO DO IPC, AO INVÉS DO BTN, NO MÊS EM QUESTÃO.
+V. DEFINIDO O "QUANTUM DEBEATUR", A SUA CORREÇÃO DEVE SER FEITA PELO IGP-M, ÍNDICE QUE MELHOR REFLETE AS PERDAS INFLACIONÁRIAS DO PERÍODO, NÃO HAVENDO FALAR NA INCIDÊNCIA DE INDEXADOR ADOTADO PELA JUSTIÇA FEDERAL.
+VI. JUROS DE MORA INCIDENTES A PARTIR DA CITAÇÃO DO DEVEDOR NO PROCESSO DE CONHECIMENTO DA AÇÃO CIVIL PÚBLICA QUANDO ESTA SE FUNDAR EM RESPONSABILIDADE CONTRATUAL, CUJO INADIMPLEMENTO JÁ PRODUZA A MORA, SALVO CONFIGURAÇÃO DA MORA EM MOMENTO ANTERIOR.
+AGRAVO CONHECIDO EM PARTE E DESPROVIDO NA PARTE EM QUE CONHECIDO. UNÂNIME." (e-STJ fls. 350/351).
+O recorrente aponta violação dos arts. 130, III, 132, 219, 373, II, 489, §1º, VI, 502, 509, II, 511, 927, III, 1.022, 1.025, e 1.037, II, do Código de Processo Civil, 93, "caput", 95, 97, e 98, § 2º, I, do Código de Defesa do Consumidor, 6º, "caput" e § 1º, da Lei de Introdução às Normas do Direito Brasileiro, bem como dissídio jurisprudencial.
+Alega que o Tribunal de origem, mesmo após a oposição de embargos de declaração, recusou-se a examinar argumentos relevantes para o desfecho da lide, quais sejam: (i) algumas das cédulas de crédito rural não deveriam ser objeto da execução, porque não estão abrangidas pelos elementos objetivos da sentença coletiva proferida em ação civil pública; (ii) para a apuração dos valores devidos, faz-se necessária a realização de perícia contábil; (iii) é preciso chamar ao processo a União e o Banco Central do Brasil, tendo em vista que foram condenados solidariamente na fase de conhecimento; e (iv) os juros de mora devem ser computados a partir da citação na fase de liquidação de sentença coletiva.
+Aponta a violação da coisa julgada, tendo em vista que algumas cédulas rurais não podem ser objeto de execução, seja porque venceram antes de março de 1990 (vigência do Plano Collor), seja porque já previam a aplicação do BTN como índice de atualização do saldo devedor, estando, portanto, fora dos elementos objetivos da sentença coletiva.
+Defende que a presente liquidação deve observar o procedimento comum, tendo em vista que tem como objeto sentença genérica proferida em ação civil pública.
+Postula a inclusão no polo passivo da União e do Banco Central do Brasil, pois foram condenados na fase de conhecimento de forma solidária com o recorrente.
+Questiona a inversão do ônus da prova e afirma que compete ao exequente provar não apenas a titularidade das cédulas de crédito rural, na vigência do Plano Collor, mas também o "pagamento/liquidação  dos títulos  existentes" (e-STJ fl. 460).
+Assinala que os juros de mora devem ser computados da citação na fase de cumprimento individual de sentença, e não da citação promovida na ação civil pública.
+Sem contrarrazões (e-STJ fl. 500).
+O recurso especial foi obstado na origem, o que deu ensejo à interposição deste agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.
+1. O não enfrentamento, pela Corte de origem, de questão ventilada nos aclaratórios e imprescindível à solução do litígio implica violação do art. 1.022 do Código de Processo Civil, autorizando o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Agravo conhecido para dar parcial provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial
+O recurso merece prosperar, em parte.
+Como visto, o recorrente aponta omissão do Tribunal de origem a respeito destas quatro teses: (i) algumas das cédulas de crédito rural não deveriam ser objeto da execução, porque não estão abrangidas pelos elementos objetivos da sentença coletiva proferida em ação civil pública; (ii) para a apuração dos valores devidos, faz-se necessária a realização de perícia contábil; (iii) é preciso chamar ao processo a União e o Banco Central do Brasil, tendo em vista que foram condenados solidariamente na fase de conhecimento; e (iv) os juros de mora devem ser computados a partir da citação na fase de liquidação de sentença coletiva.
+Em apelação, o Tribunal de origem rejeitou as teses "ii" e "iii" porque elas estavam preclusas, veja-se:
+"2. Competência da Justiça Federal e do chamamento ao processo dos devedores solidários
+Quando do julgamento do agravo de instrumento nº 70072673015, já restaram analisados os referidos pedidos, portanto, sobre a matéria, igualmente operou-se a preclusão.
+(..)
+3. Da perícia contábil
+No ponto, igualmente operou-se a preclusão." (e-STJ fls. 357/359).
+A parte, então, opôs embargos de declaração para que o Tribunal local se manifestasse sobre as duas outras alegações: a de que a execução de ao menos 3 (três) cédulas de crédito rural descumpria o título judicial formado na ação coletiva e a de que os juros de mora, neste caso, devem ser computados da citação promovida na execução.
+Em relação à tese sobre o termo a quo dos juros de mora, já se adianta que ela não é relevante para o julgamento do feito, pois a jurisprudência do STJ é firme no sentido de que "o termo inicial dos juros de mora é o da citação do processo de conhecimento em ações coletivas" (AgInt no REsp nº 1.751.379/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/12/2023, DJe de 15/12/2023).
+Em outros termos, referida tese não é capaz de alterar o resultado do julgamento, portanto.
+Contudo, o argumento de que 3 (três) das cédulas de crédito rural objeto da execução não se ajustam aos limites objetivos da sentença coletiva é relevante e, pois, deve ser objeto de manifestação expressa do Tribunal de origem.
+Assim, não tendo o tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do Código de Processo Civil, a fim de anular o acórdão recorrido para suprir a omissão existente. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JULGAMENTO MONOCRÁTICO. AUSÊNCIA DE NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME, PELO TRIBUNAL ESTADUAL, DE QUESTÃO SUSCITADA EM EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS QUE SE IMPÕE. DECISÃO AGRAVADA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte de Justiça entende que "a legislação processual permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt nos EDcl no REsp n. 1.936.474/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/2/2022 , DJe de 24/2/2022).
+2. O Tribunal estadual deixou de sanar omissão sobre questão suscitada em embargos de declaração, a qual é essencial para o deslinde da controvérsia, revelando-se medida salutar o retorno dos autos para que o órgão competente realize novo julgamento dos aclaratórios, com a devida apreciação da matéria nele levantada. 3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a regra do art. 489, § 1º, VI, do CPC/2015, segundo a qual o juiz, para deixar de aplicar enunciado de súmula, jurisprudência ou precedente invocado pela parte, deve demonstrar a existência de distinção ou de superação, somente se aplica às súmulas ou precedentes vinculantes, mas não às súmulas e aos precedentes apenas persuasivos" (REsp n. 1.698.774/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2020, DJe de 9/9/2020.
+(..)
+5. Agravo interno desprovido." (AgInt no AREsp 2.579.991/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 18/9/2024 - grifou-se)
+"AGRAVO INTERNO. RECURSO ESPECIAL. TRANSPORTE DE MEDICAMENTOS. LEI DO VALE-PEDÁGIO. ILEGITIMIDADE DE PARTE. ALEGAÇÃO DE QUE UMA DAS PARTES É MERA DISTRIBUIDORA. OFENSA AOS PRINCÍPIOS DA BOA-FÉ CONTRATUAL E DO NON VENIRE CONTRA FACTUM PROPRIUM. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL. PEDIDO SUCESSIVO DE ABATIMENTOS SOBRE A CONDENAÇÃO. AUSÊNCIA DE EXAME. ARTIGOS 489 E 1.022 DO CPC. OMISSÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas desde a contestação e reiteradas nos embargos de declaração opostos pela ora agravante, configurada está a ofensa aos artigos 489 e 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+(..)
+4. Agravo interno e recurso especial providos. Acórdão dos embargos de declaração cassado. Prejud icado o agravo em recurso especial interposto declaração cassado. Prejudicado o agravo em recurso especial interposto pelos autores." (AgInt no REsp 1.823.417/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 6/3/2023 - grifou-se)
+Ficam prejudicadas as demais questões suscitadas no recurso especial.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria acima especificada, como entender de direito.
+É o voto.
