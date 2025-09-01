@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Carlos Cini Marchionatti (Desembargador Convocado TJRS), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Tráfico de drogas. Ordem denegada.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor de acusado preso em flagrante por tráfico de entorpecentes e associação para o tráfico, com prisão convertida em preventiva.
+2. A defesa alega ausência de fundamentação idônea para a prisão preventiva.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do acusado está devidamente fundamentada e se há necessidade de sua manutenção para garantir a ordem pública e evitar a reiteração delitiva.
+III. Razões de decidir
+4. A decisão impugnada está devidamente fundamentada, com base em indícios razoáveis de autoria e participação nos crimes de tráfico e associação para o tráfico, justificando a necessidade da prisão cautelar.
+5. A instância de origem justificou a manutenção da prisão preventiva para garantir a ordem pública, considerando a gravidade concreta das condutas e o risco de reiteração delitiva.
+6. A análise do conjunto fático-probatório é incompatível com a via estreita do habeas corpus, que não admite dilação probatória.
+7. A jurisprudência do Tribunal Superior está em sintonia com a decisão recorrida, não havendo argumentos novos no agravo regimental que justifiquem a alteração da decisão.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A prisão preventiva está devidamente fundamentada quando baseada em indícios razoáveis de autoria e participação nos crimes, justificando a necessidade de garantir a ordem pública. 2. A análise do conjunto fático-probatório é incompatível com a via do habeas corpus, que não admite dilação probatória. 3. A manutenção da prisão preventiva é justificada pela gravidade concreta das condutas e risco de reiteração delitiva".
+Dispositivos relevantes citados: CF/1988, art. 5º, LVII; CPP, arts. 312 e 313, inciso I.
+Jurisprudência relevante citada: STJ, AgRg no HC 804.533/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/3/2023; STJ, AgRg no HC 659.003/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 30/3/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor de IVANILDO LOURENÇO DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2385207-20.2024.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante em 07 de novembro de 2024 pela suposta prática dos crimes de tráfico de entorpecentes e associação para o tráfico, previstos nos artigos 33 e 35 da Lei n. 11.343/2006 (fls. 89-92).
+A prisão foi convertida em preventiva em audiência de custódia realizada em 08 de novembro de 2024 (fls. 101-104).
+A defesa alega que a prisão preventiva foi decretada sem fundamentação idônea, baseada apenas na gravidade abstrata do delito, e que o paciente possui residência fixa, ocupação lícita e é primário, sem antecedentes criminais. Destaca ainda sua condição de saúde e a necessidade de cuidar de um filho menor com autismo (fls. 2-48).
+O pedido de liminar foi indeferido (fls. 113-114).
+Informações prestadas pela autoridade impetrada indicam que a prisão preventiva foi mantida para garantir a ordem pública e evitar a reiteração delitiva (fls. 120-121).
+O Ministério Público Federal apresentou parecer opinando pelo parcial conhecimento do habeas corpus impetrado e, na parte em que conhecido, pela denegação da ordem, destacando a idoneidade da fundamentação do decreto prisional e a presença dos requisitos dos arts. 312 e 313, inciso I, do Código de Processo Penal (fls. 168-172).
+O habeas corpus não foi conhecido (fls. 185-187).
+Nas razões de agravo, a defesa repisa os fatos e argumentos vertidos na inicial, reafirmando a necessidade de revogação da prisão preventiva e a aplicação de medidas cautelares diversas (fls. 192-205).
+Pede, ao final, o conhecimento e provimento do presente recurso, a fim de ser reformada a decisão atacada e a ordem de impetração concedida.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Tráfico de drogas. Ordem denegada.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor de acusado preso em flagrante por tráfico de entorpecentes e associação para o tráfico, com prisão convertida em preventiva.
+2. A defesa alega ausência de fundamentação idônea para a prisão preventiva.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do acusado está devidamente fundamentada e se há necessidade de sua manutenção para garantir a ordem pública e evitar a reiteração delitiva.
+III. Razões de decidir
+4. A decisão impugnada está devidamente fundamentada, com base em indícios razoáveis de autoria e participação nos crimes de tráfico e associação para o tráfico, justificando a necessidade da prisão cautelar.
+5. A instância de origem justificou a manutenção da prisão preventiva para garantir a ordem pública, considerando a gravidade concreta das condutas e o risco de reiteração delitiva.
+6. A análise do conjunto fático-probatório é incompatível com a via estreita do habeas corpus , que não admite dilação probatória.
+7. A jurisprudência do Tribunal Superior está em sintonia com a decisão recorrida, não havendo argumentos novos no agravo regimental que justifiquem a alteração da decisão.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A prisão preventiva está devidamente fundamentada quando baseada em indícios razoáveis de autoria e participação nos crimes, justificando a necessidade de garantir a ordem pública. 2. A análise do conjunto fático-probatório é incompatível com a via do habeas corpus, que não admite dilação probatória. 3. A manutenção da prisão preventiva é justificada pela gravidade concreta das condutas e risco de reiteração delitiva".
+Dispositivos relevantes citados: CF/1988, art. 5º, LVII; CPP, arts. 312 e 313, inciso I.
+Jurisprudência relevante citada: STJ, AgRg no HC 804.533/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/3/2023; STJ, AgRg no HC 659.003/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 30/3/2023.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+O provimento do agravo regimental é que busca a defesa a fim ver reformada a decisão monocrática para conceder a ordem do habeas corpus.
+Todavia, a decisão impugnada analisou de forma devidamente fundamentada os pontos apresentados e concluiu pela legalidade da decisão do Tribunal de origem, não havendo que se falar em reconhecimento da nulidade alegada.
+Além disso, conforme já esclarecido na decisão agravada, o habeas corpus foi impetrado contra acórdão, funcionando como substituto do recurso próprio.
+Reitero que a moldura fática do acórdão impugnado revela que as alegações da impetração não se sustentam, inexistindo ainda qualquer constrangimento ilegal apto a justificar a concessão da ordem.
+Reafirmo que a instância de origem, em atenção ao disposto no art. 93, inciso IX, da Constituição Federal, justificou de maneira fundamentada a necessidade de manutenção da prisão preventiva, em razão da necessidade de se garantir a ordem pública, ressaltando a acentuada gravidade concreta e lesividade das condutas delitivas praticadas pelo agravante, em conluio com outros corréus, em contexto de organização criminosa dedicada ao narcotráfico de forma profissional, com elevado grau de especialização das tarefas, e tendo em vista a apreensão de relevante quantidade de substância entorpecente, como se vê (fls. 60-63):
+" ..  Primeiramente, insta consignar que a r. decisão que decretou a prisão preventiva do Paciente, encontra-se devidamente fundamentada, atendendo perfeitamente ao quanto exigido pelo art. 93, IX, da Constituição Federal.
+Razão assiste à autoridade apontada como coatora ao decretar a prisão cautelar, afinal, consta da Manifestação do MINISTÉRIO PÚBLICO, que há indícios de que o Paciente estaria associado com JEFFERSON DONATO SILVA, WILLIAN DA SILVA DE JESUS, FILIPE ANTONIO DA SILVA FERREIRA, MARCONDES SINESIO DA SILVA, WELTON DE PAULA e IVANILDO LOURENÇO DA SILVA e outros indivíduos ainda não identificados para prática reiterada de crimes de tráfico de drogas, furto, receptação, roubo, porte ilegal de arma de fogo e outros, no âmbito da Lei nº 12.850/2013. Consta ainda, que o Paciente ".. recebia a arrecadação de outras "lojas" e a repassava para WELTON, que, por sua vez, entregava a MARCONDES, porém, em outras oportunidades repassava diretamente a MARCONDES, o que estaria comprovado pelo encontro de valores em sua residência .." (fls. 414/439 autos principais), no valor de R$ 10.072,00; além de uma máquina leitora de cartão magnético, diversos pequenos potes de plástico com tampa e saquinhos plásticos "zipados" (fls. 152/155 autos principais).
+Comprovada a materialidade dos crimes , há nos autos ao menos fortes indícios de ter o Paciente praticado as condutas a ele imputadas, considerando as provas até então produzidas. Assim, em juízo de cognição sumária, os fatos concretos indicam que se solto, o Paciente por certo tornará a delinquir, dando continuidade às atividades ilegais, mormente, por ser reincidente e ostentar maus antecedentes (fls. 162/165 autos principais). Portanto, a prisão preventiva se faz necessárias para assegurar a ordem pública, e evitar a reiteração delitiva, a conveniência da instrução criminal e a aplicação da lei penal. A medida é extrema sim, mas, no caso, necessária.
+O princípio constitucional do estado de inocência (art. 5º, LVII , da Constituição Federal) , não impedea prisão provisória do autor de crime, em defesa da própria sociedade, quando presente motivo que a justifique, como é o caso. Por conseguinte, presentes os requisitos necessários para a manutenção do decreto de prisão do Paciente , previstos no art. 312, Código de Processo Penal, não pode mesmo a prisão preventiva ser revogada. Pelos mesmos motivos acima delineados, as medidas cautelares diversas da prisão se mostram insuficientes ao caso.
+ ..
+Embora conste no Voto acima, que o Paciente e corréu LINILTON também estivessem sendo investigados pelos crimes de furto, receptação, roubo, porte ilegal de arma de fogo e outros, no âmbito da Lei nº 12.850/2013, verifica-se que com oferecimento da denúncia, aos 15.01.2025 (fls. 469/478 - autos principais), somente foram denunciados pelos crimes de tráfico de drogas e associação para o tráfico; mas é de perfeita aplicabilidade ao caso em tela, pois a situação, especificamente quanto ao pedido de revogação da prisão preventiva, no particular, é idêntica ao quanto sustentado em favor do corréu, eis que estão sendo acusados no mesmo caso, o que permite simplesmente ratificar o quanto acima consignado.
+Com relação ao pedido de prisão domiciliar, em razão do Paciente ter um filho com 12 anos de idade incompletos, portador de autismo, e sofrer de hipertensão arterial e diabetes, por ora, também não deve prosperar, pois ele não comprovou sua imprescindibilidade nos cuidados do menor e suas alegadas comorbidades, nos termos do Parecer da d. Procuradoria Geral de Justiça: ".. não há comprovação cabal da situação de extrema debilidade do paciente, conforme impõe o artigo 318, inciso II, do Código de Processo Penal. Como decorrência, as enfermidades indicadas não representaram óbice à prática criminosa do paciente. No mais, o sistema prisional tem profissionais de saúde, à disposição em diversos estabelecimentos prisionais e, quando é preciso, o tratamento médico pode ser realizado externamente. Logo, a presunção é de que o tratamento pode bem ser administrado no sistema penitenciário .." (fls. 88/89).
+Ante todo o exposto, DENEGO a presente ordem de habeas corpus, impetrada em favor de IVANILDO LOURENÇO DA SILVA, qualificado nos autos, devendo aguardar preso o destino da Ação Penal  .. ".
+Dessa forma, reconhecida a existência de fundamentação concreta e idônea, com menção à existência de indícios razoáveis da autoria ou participação do investigado nos crimes de tráfico e associação para o tráfico de drogas, com base no acervo probatório dos autos, de forma a caracterizar a legalidade da decisão e a necessidade da prisão cautelar, hipótese em que, a desconstituição das premissas fáticas, com o fim de reconhecer a nulidade da decisão, demandaria o revolvimento do conjunto fático-probatório, inadmissível pela via eleita.
+Vale dizer, não é possível discordar das instâncias ordinárias e concluir de forma diversa para afastar a conclusão de origem, porquanto ensejaria o necessário exame do conjunto fático-probatório, incompatível com a via estreita do habeas corpus, que não admite dilação probatória.
+Concluo, portanto, que a matéria restou devidamente debatida na decisão recorrida, nos limites da via eleita, de forma que não há falar em possível reversão do julgado.
+No mais, saliento que o entendimento veiculado pela Corte local encontra-se em sintonia com a jurisprudência deste Tribunal Superior. Nesse sentido:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REINCIDÊNCIA E MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. PRISÃO EM FLAGRANTE. BUSCAS PESSOAL E VEICULAR. NULIDADE. NÃO OCORRÊNCIA. CONFIRMAÇÃO DE DENÚNCIAS ESPECIFICADAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus substitutivo de recurso próprio e não verificou flagrante ilegalidade a ensejar a concessão da ordem de ofício.
+2. O paciente foi preso em flagrante, com aproximadamente 50g de cocaína, sendo reincidente e portador de maus antecedentes, com condenações anteriores por associação para o tráfico de drogas e tráfico de entorpecentes. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em analisar se o agravo regimental atende aos pressupostos de admissibilidade, para, assim, ser conhecido e, se o caso, provido. Outra questão é a análise da alegada nulidade da prisão em flagrante convertida em preventiva a ensejar a concessão da ordem de ofício. III. RAZÕES DE DECIDIR
+4. A jurisprudência consolidada do STJ e do STF não admite habeas corpus substitutivo de recurso próprio, salvo em caso de flagrante ilegalidade, o que não se verifica no presente caso.
+5. A prisão preventiva foi mantida com base em elementos concretos, considerando o flagrante do paciente na posse de expressiva quantidade de cocaína, o qual é reincidente e portador de maus antecedentes, justificando a necessidade de resguardar a ordem pública.
+6. As denúncias anônimas especificadas, fornecendo detalhes sobre as características, alcunha e veículo do suspeito, local e modus operandi da prática criminosa, foram confirmadas pelas diligências dos policiais, justificando as buscas pessoal e veicular e a prisão em flagrante.
+7. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, conforme art. 1.021, § 1º, do CPC e Súmula n. 182 do STJ.
+IV. AGRAVO REGIMENTAL NÃO CONHECIDO."
+(AgRg nos EDcl no HC n. 969.479/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 14/5/2025, DJEN de 21/5/2025).
+Verifico, por fim, que no presente agravo regimental não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, razão pela qual o ato judicial deve ser mantido por seus próprios fundamentos. Acerca do tema: AgRg no HC n. 804.533/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023; e AgRg no HC n. 659.003/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/3/2023.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
