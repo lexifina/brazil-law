@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por YURI RENATO DE OLIVEIRA STANTE em face de decisão de inadmissibilidade proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o agravante foi condenado pelo delito previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa, em regime inicial fechado.
+Interposto recurso de apelação, foi dado parcial provimento, aplicando a minorante do art. 33, parágrafo 4º, da Lei n. 11.343/2006, por ter verificado o preenchimento dos requisitos, redimensionando a pena para 2 (dois) anos de reclusão e pagamento de 200 (duzentos) dias-multa, em regime inicial aberto, substituída por duas penas restritivas de direitos, consistente em prestação de serviços à comunidade e prestação pecuniária de 1 (um) salário mínimo nacional. Ainda, foi revogada a prisão preventiva (fls. 713-736).
+Opostos embargos de declaração (fls. 748-757), foram desacolhidos (fls. 793-800).
+Irresignada, a defesa, com base no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interpôs recurso especial, alegando violação ao artigo 158-B do Código de Processo Penal, sob o fundamento de que a ausência de uma documentação detalhada sobre os procedimentos realizados desde a apreensão até o transporte compromete a integridade e autenticidade do vestígio. Alegou, ainda, a fragilidade das provas. Requereu a declaração de nulidade das provas obtidas em razão da quebra da cadeia de custódia ou a redução da pena aplicada (fls. 819-831).
+O Tribunal de origem inadmitiu o recurso especial com base na Súmula 7 desta Corte (fls. 848-849), pelo que foi interposto agravo (fls. 858-867), alegando, em concisa síntese, a inaplicabilidade da Súmula 7, pois a análise da questão não demandaria reexame de provas, apenas a aplicação correta do artigo 158-B do CPP. Afirma a existência de dissídio jurisprudencial, pois os Tribunais Superiores possuem entendimento consolidado de que a quebra da cadeia de custódia compromete a idoneidade da prova. Requer o provimento do agravo para que seja admitido o recurso especial.
+Contraminuta às fls. 875-877.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 901-904).
+É o relatório. DECIDO.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+Senão, vejamos.
+Acerca do alegado dissídio jurisprudencial, a parte recorrente não realizou o cotejo analítico, sendo que sequer transcreveu ementas de eventuais acórdãos paradigmas para argumentar sobre o entendimento jurisprudencial que pretende ver aplicado.
+No mesmo sentido ocorre em relação ao pleito de redução da pena, pois inexiste o apontamento do artigo supostamente violado, apenas um pedido genérico no final do recurso.
+Portanto, em tais pontos, o recurso especial é deficiente em sua fundamentação, por não se desincumbir a parte recorrente do referido ônus, o que impede a exata compreensão da controvérsia, com aplicação analógica da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do STJ que não conheceu do recurso especial, aplicando a Súmula n. 284 do STF, por deficiência de fundamentação.
+2. O recorrente não indicou quais dispositivos de lei federal teriam sido violados, nem fundamentou adequadamente o pedido de absolvição ou a aplicação do redutor do artigo 33, §4º, da Lei n. 11.343/06.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de indicação clara e precisa dos dispositivos legais violados e a deficiência de fundamentação do recurso especial impedem o seu conhecimento.
+III. Razões de decidir
+4. A ausência de indicação dos dispositivos de lei federal violados implica deficiência de fundamentação, incidindo a Súmula n. 284 do STF.
+5. Não é cabível recurso especial fundado em alegada violação de enunciado de súmula, conforme a Súmula n. 518 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "1. A ausência de indicação clara e precisa dos dispositivos legais violados implica deficiência de fundamentação do recurso especial. 2. Não é cabível recurso especial fundado em alegada violação de enunciado de súmula". Dispositivos relevantes citados: Lei n. 11.343/06, art. 33, §4º; CF /1988, art. 105, III, "a". Jurisprudência relevante citada: STF, Súmula 284; STJ, Súmula 518; STJ, AgRg no AREsp 2.105.869/BA, Rel. Min. Sebastião Reis Júnior, DJe 22; STJ, AgRg no 19/9/20 AREsp 2.128.151/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe 22/8/2022. (AgRg no AREsp n. 2.671.771/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 30 /10/2024.)
+Por conseguinte, no tocante à alegada quebra da cadeia de custódia, vejamos os fundamentos do Tribunal de origem, que, por meio do acórdão impugnado, afastou a alegada nulidade (fls. 727-728):
+Outrossim, razão não assiste ao recorrente no que tange à tese de que houve quebra da cadeia de custódia e que não há documentos a comprovar a apreensão da droga.
+ ..
+A cadeia de custódia, por se tratar do procedimento de documentação ininterrupta sobre a fonte de prova, visa a garantir a autenticidade e a integridade do objeto ou vestígio colhido, de modo a garantir não apenas que a mesma fonte de prova seja apresentada em Juízo, mas sobretudo que essa seja íntegra desde a sua colheita, isto é, não esteja maculada por adulterações ou pela diminuição de suas características, sob o risco de se tornar prova ilícita ( BADARÓ, Gustavoin Henrique. Processo penal. 9. ed. São Paulo: Thomson Reuters Brasil, 2021)
+ ..
+No caso em tela, não é possível afirmar que houve quebra da cadeia de custódia, porquanto os dados constantes nos autos permitem estabelecer de forma precisa a história cronológica da droga apreendida, não havendo indício da adulteração da fonte de prova, tampouco do procedimento de confecção do exame toxicológico e do laudo de perícia criminal.
+A substância foi apreendida na data de 05.01.2023 (mov. 1.2) e apresentada à autoridade policial na mesma data pelo policial militar Bryan Wesley Weng Dias, conforme registrado no Auto de Exibição e Apreensão (mov. 1.5), testando positivo para a maconha no Auto de Constatação Provisória de Droga confeccionado também no dia 05.01.2023, com a descrição da substância e os indivíduos designados como peritos constatadores (mov. 1.7).
+Também na data de 05.01.2023, a droga foi encaminhada ao Instituto de Criminalística do Estado do Paraná para a realização do exame toxicológico, identificada por meio do Lacre nº 0004544, conforme Ofício nº 11/2023/LGDS (mov. 82.1). O Laudo de Perícia Criminal - Exame de Substâncias Químicas foi devolvido em 08.02.2023, com o resultado positivo para cocaína, bem como a identificação do procedimento e métodos utilizados, além do perito responsável (mov. 83.1).
+Portanto, observa-se que o procedimento de documentação do tratamento da droga até confecção do exame definitivo foi devidamente respeitado.
+Nos termos do art. 158-A do Código de Processo Penal, considera-se cadeia de custódia o conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte.
+A configuração da quebra da cadeia de custódia pressupõe a existência de irregularidades no procedimento de colheita e conservação da prova, não demonstradas pelo recorrente.
+No caso, o agravante foi preso em flagrante por tráfico de drogas. Na ocasião, Policiais Militares estavam cumprindo mandado de busca e apreensão na residência de Yuri, tendo notado que ele estava no banheiro descartando alguns objetos no vaso sanitário, pelo que os agentes públicos "tiveram de realizar uma busca pormenorizada no local e no sistema de encanamento, para que, assim, lograssem êxito em encontrar os objetos descartados, os quais foram resgatados e identificados como sendo invólucros de cocaína, os quais totalizaram 16g (dezesseis gramas)", além de encontrarem cadernos com anotações, mais de três mil reais em dinheiro e dois pacotes contendo cápsulas transparentes (fl. 725).
+Desse modo, não há nulidade por quebra da cadeia de custódia, na medida em que, segundo as instâncias ordinárias, na mesma data do flagrante, o entorpecente foi apreendido, apresentado na Delegacia, realizado laudo provisório e encaminhado ao Instituto de Criminalística do Estado do Paraná, que confeccionou o laudo definitivo.
+No contexto dos autos, portanto, observo que não foi verificado vício capaz de anular as provas no atual momento processual, inexistindo demonstração de qualquer irregularidade.
+Afastar as conclusões do Tribunal de origem implica necessariamente a incursão no conjunto fático-probatório dos autos, o que revela a inadequação da pretensão recursal, em face do óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
