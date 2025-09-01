@@ -1,0 +1,16 @@
+DECISÃO
+CARLOS ALEXANDRE DE SANTANA FERREIRA sucita conflito de competência, em execução provisória de pena decorrente de condenação pelo Júri, diante do JUÍZO DE DIREITO DA 3ª VARA DO JÚRI DO FORO CENTRAL CRIMINAL DE SÃO PAULO - SP e do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Cinge-se a controvérsia estabelecida neste incidente processual a saber qual o juízo competente para execução penal provisória (decorrente de condenação pelo Tribunal do Júri ocorrida em São Paulo), notadamente porque foi determinado o recambiamento do réu, que se encontra preso preventivamente na Bahia, para o Estado de São Paulo.
+Ouvido, pronunciou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarada a competência do Tribunal de Justiça do Estado da Bahia, ora suscitado (fls. 94-97).
+Decido.
+Em que pese a manifestação do Ministério Público Federal, a jurisprudência desta Corte, com fundamento no art. 65 da Lei de Execuções Penais, firmou entendimento de que o Juízo competente para a execução penal é o indicado na lei local de organização judiciária do Juízo da condenação.
+No caso, embora o réu haja sido preso preventivamente na Bahia, sua constrição passou a ter, com a sua condenação pelo Júri, caráter de execução provisória (e imediata), conforme recente dicção do Supremo Tribunal Federal.
+Vale dizer, embora o sentenciado haja sido preso preventivamente na Bahia, onde fixou residência há alguns anos, tal circunstância não tem o condão de deslocar a competência para a execução (provisória), decorrente da necessidade de execução imediata da pena no casos de condenação pelo Tribunal do Júri. Nesse sentido é a pacífica orientação desta Corte:
+ ..  a Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória. (CC n. 161.783/DF, Rel. Ministra Laurita Vaz, DJe 14/12/2018).
+ ..
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes. (CC n. 148.926/RS, Rel. Ministro Reynaldo Soares da Fonseca, DJe 27/10/2016)
+Assim, o simples fato de o apenado vir a ser preso ou possuir domicílio em comarca distinta daquela em que ele foi condenado, não enseja o deslocamento automático da competência para a execução penal (definitiva ou provisória).
+Além disso, o pedido de não recambiamento do réu da Bahia para São Paulo deve ser dirigido ao Juízo de São Paulo, competente para essa avaliação e, também, para formular a necessária consulta ao Juízo da Bahia acerca da possibilidade de sua manutenção naquele local.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 3ª Vara do Júri do Foro Central Criminal de São Paulo - SP, para a execução provisória e para avaliar eventual pedido de não recambiamento do réu.
+Publique-se e intime-se. Dê-se ciência aos Juízos suscitados.
+EMENTA
