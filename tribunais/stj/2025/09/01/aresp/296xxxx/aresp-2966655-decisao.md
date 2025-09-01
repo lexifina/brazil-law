@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo de FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN contra decisão que inadmitiu recurso especial fundado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC), assim ementado (fl. 70):
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA QUE HOMOLOGOU O CÁLCULO APRESENTADO POR PERITO JUDICIAL E ACOLHEU, EM PARTE, A IMPUGNAÇÃO PARA RECONHECER A OCORRÊNCIA DE EXCESSO À EXECUÇÃO NO CÁLCULO OFERTADO PELO EXEQUENTE. INSURGÊNCIA DA FUNDAÇÃO EXECUTADA. ALEGADOS EQUÍVOCOS NOS CÁLCULOS REALIZADOS POR PERITO. DESCABIMENTO. RECORRENTE QUE, APÓS INTIMADA NA ORIGEM, CONCORDOU EXPRESSAMENTE COM O LAUDO PERICIAL. PRECLUSÃO. FALTA DE INTERESSE RECURSAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. AUSENCIA DO ELEMENTO SUBJETIVO DE DOLO, TAMPOUCO DEMONSTRAÇÃO DO INTUITO DE LESAR O DEVEDOR OU DE DESLEALDADE PROCESSUAL INEQUÍVOCA. RECLAMO NÃO CONHECIDO."
+Os embargos de declaração opostos pela recorrente foram rejeitados (fls. 98-100).
+Nas razões do recurso especial (fls. 108-113), a parte alega ofensa ao artigo 1.022, inciso II, do Código de Processo Civil, sob o argumento de que a Corte estadual incorreu em negativa de prestação jurisdicional.
+Nesse viés, sustenta que, "ao partir da premissa equivocada de que a recorrente teria concordado com o Laudo Pericial homologado na sentença do incidente de Impugnação, o c. órgão fracionário termina por se omitir quanto às questões pontualmente indicadas nas razões do Agravo, indicativas de que a decisão agravada vai de encontro à coisa julgada e dá azo ao enriquecimento sem causa pelo recorrido." (fl. 111).
+Contrarrazões apresentadas às fls. 126-131.
+Em juízo prévio de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre (decisão às fls. 144-145), dando ensejo ao manejo do presente agravo (fls. 153-159).
+É o relatório. Decido.
+A irresignação não prospera.
+Na hipótese, verifica-se que o Tribunal de Justiça do Estado de Santa Catarina (TJ-SC) dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Com efeito, o TJ-SC consignou que o agravo de instrumento interposto pela fundação recorrente - cujo objeto é a impugnação de cálculos executivos elaborados por perito judicial - carece de interesse recursal, tendo em vista a verificação, a partir da análise dos autos de origem, de expressa concordância das partes em relação ao laudo pericial supramencionado.
+Confira-se, a propósito, excerto do julgado recorrido (fls. 65-68):
+"Trata-se de agravo de instrumento interposto por Fundação Corsan dos Funcionários da Companhia Riograndense de Saneamento - Corsan contra decisão proferida no cumprimento de sentença proposto por Antonio Marques, que homologou o cálculo do perito judicial e acolheu parcialmente a impugnação, para reconhecer a ocorrência de excesso de execução no cálculo apresentado pela exequente/impugnado (evento 177, DESPADEC1). Embargos de declaração opostos pelo impugnado foram rejeitados, enquanto os do impugnante foram acolhidos (evento 195, DESPADEC1).
+A agravante Fundação Corsan dos Funcionários da Companhia Riograndense de Saneamento - Corsan, em 26/11/2012, apresentou impugnação ao cumprimento de sentença proposto por Antonio Marques, em razão de excesso à execução no importe de R$ 9.299,85 (evento 123, OUT4 a evento 123, OUT13)
+Após o acolhimento parcial da impugnação e ofertada apelação pela Fundação Corsan, este foi acolhido parcialmente em 16/2/2017 para "reconhecer a ofensa à coisa julgada em relação ao contrato n. 35216, com determinação de exclusão do saldo devedor" e "determinar a realização de novo cálculo, o qual deve incidir os demais encargos contratados nas avenças ns. 25181, 21948 e 18500" (evento 123, ACOR229 a evento 123, ACOR238).
+Após o retorno dos autos à origem em 5/11/2020 (evento 123, OUT317), determinou-se a intimação do perito "nomeado para realizar novo cálculo, incluindo-se desta vez também os encargos referentes aos contratos n. 25181, 21948 e 18500, e excluindo-se aquele de n. 35216" (evento 129, DESPADEC1).
+O laudo foi acostado em 15/10/2021 (evento 137, PET1), com manifestação de discordância por parte da fundação (evento 142, PET1) e concordância pelo exequente (evento 143, PET1).
+Intimado para esclarecimentos complementares (evento 145, DESPADEC1), o expert cumpriu a ordem (evento 148, PET1).
+O magistrado, então, afastou "a impugnação da executada quanto ao montante total concedido em relação ao contrato n. 18.500", tendo em vista que "o perito judicial agiu corretamente ao somar ao valor do bem (R$ 6.039,80) os encargos de Taxa de Administração (R$ 60,39) e IOF (R$ 81,48), conforme determinado no Acórdão do EVENTO 123, docs. 229-238" (evento 156, DESPADEC1).
+Manifestação das partes em 21/10/202 e 25/10/2022 (Eventos 161 e 162), com nova apresentação de laudo complementar (evento 163, PET1).
+A fundação, então, apresentou concordância com o citado laudo (evento 168, PET1).
+O exequente, por sua vez, "diante da concordância expressa de ambas as partes, postulou a homologação do cálculo pericial emitido, o qual define o valor total do crédito principal na data de 14 de outubro de 2021 em R$ 38.689,47" (evento 169, PET1).
+(..)
+Como se vê do evento 168, PET1, a Fundação Corsan manifestou expressa concordância com o cálculo do expert.
+Dessa forma, a referida anuência é incompatível com o ato de recorrer, operando-se, portanto, a preclusão lógica de seu direito e demonstrada a ausência de seu interesse recursal." (g.n.)
+Dessa forma, a temática relativa à concordância ou não da parte recorrente com o laudo pericial foi efetivamente apreciada na instância ordinária, a despeito de o entendimento adotado pela Corte de origem não estar em sintonia com a tese defendida no recurso especial.
+Efetivamente, o Superior Tribunal de Justiça é pacífico no sentido de não haver omissão, contradição ou obscuridade no julgado quando a controvérsia é resolvida de maneira sólida e fundamentada, de modo que apenas se deixa de adotar a tese da parte embargante. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1022, I, II, DO CPC. NÃO OCORRÊNCIA. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. FORMA CONTINUADA. PRAZO PRESCRICIONAL. TERMO A QUO. DATA DA RENÚNCIA DO MANDATO. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação dos arts. 489, § 1º, IV, e 1022, I, II, do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O termo a quo do prazo prescricional de ação de cobrança de prestação de serviços advocatícios, que se deu de forma continuada, será a data da renúncia do mandato. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.055.320/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INADMISSIBILIDADE.
+1. Embargos do devedor.
+2. Agravo interno interposto à decisão unipessoal que não conheceu do recurso especial.
+3. Não se viabiliza o recurso especial pela violação dos arts. 489, § 1º, e 1.022 do CPC, quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. O julgador não é obrigado a discorrer sobre todos os argumentos levantados pelas partes, mas sim decidir a contento, nos limites da lide que lhe foi proposta, fundamentando o seu entendimento de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto. Precedentes.
+4. Conforme jurisprudência desta Corte, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+5. É inadmissível o recurso especial quando o acórdão recorrido se sustenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+6. Não se conhece de recurso especial quando se faz necessário o reexame das circunstâncias fático-probatórias dos autos (Súmula 7/STJ).
+7. Agravo interno não provido."
+(AgInt no REsp n. 2.175.939/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
