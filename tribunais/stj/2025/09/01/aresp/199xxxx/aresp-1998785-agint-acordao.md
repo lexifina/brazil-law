@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 1.550):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284 /STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONHEÇO DO AGRAVO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O agravante alega, em síntese, obscuridade e contrariedade a respeito de sua caracterização como agente público para legitimar o prosseguimento da ação.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A irresignação não merece prosperar.
+Isso porque a decisão agravada conheceu do agravo em recurso especial para conhecer em parte do apelo especial e, nesta extensão, negar-lhe provimento, aos seguintes fundamentos: (a) inexistência de ofensa ao art. 1.022 do CPC/2015, porquanto o acórdão a quo manifestou-se de maneira clara e fundamentada a respeito das questões relevantes ao deslinde da controvérsia (e-STJ, fls. 1.287-1.290); (b) incidência do óbice contido na Súmula n. 284/STF no tocante aos arts. 2º e 3º da Lei n. 8.429/1992, em sua redação original, e à tese a eles vinculada, tendo em vista que o alegado pelo recorrente, ora agravante, sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão de origem, na medida em que figura no polo passivo da demanda o agente público (frise-se, pessoa física) que teria supostamente desempenhado a conduta ímproba narrada na exordial (realização de contrato com a Administração Pública, por meio de dispensa de licitação - fl. 1.290), situação que impede a exata compreensão da controvérsia deduzida; e (c) aplicação da Súmula n. 283/STF no ponto alusivo ao art. 23, I, da LIA, e às teses a ele vinculadas, porquanto não impugnado, especificamente, o fundamento do acórdão recorrido segundo o qual não haveria se falar em extinção integral do processo com base na prescrição, em virtude da configuração da justa causa para o recebimento da presente ação, diante da gravidade de eventuais condutas dolosas praticadas por João Bosco Drumond Andrade, e necessidade de prosseguimento do feito para apuração da real ocorrência do ato ímprobo, no decorrer da instrução processual, com a observância do contraditório e a ampla defesa, e oportunidade à parte ora agravada da produção das provas que entender pertinentes, visando ao esclarecimento dos fatos narrados na exordial (fl. 1.290).
+Ocorre que o agravante não impugnou, especificamente, nenhum dos referidos fundamentos, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgRg nos EAREsp 1.870.554/SP, relator Ministro Humberto Martins, Corte Especial, DJe 14/3/2023; AgInt no AREsp 2.215.294/PA, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 8/3/2023; AgInt no AREsp 2.158.581/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2022; AgInt no AgInt no REsp 1.914.726/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/12/2022; AgRg nos EAREsp 2.007.922/PR, relator Ministro Og Fernandes, Corte Especial, DJe 29/9/2022; AgInt no TP 3.879/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 2/6/2022; AgInt no AREsp 1.949.877/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe 12/4/2022.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
