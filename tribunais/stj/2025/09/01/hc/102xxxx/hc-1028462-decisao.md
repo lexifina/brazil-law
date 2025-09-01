@@ -1,0 +1,23 @@
+DECISÃO
+JOSE LUIS DAMASCENO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no Agravo em Execução n. 0004634-57.2025.8.26.0521.
+A defesa busca seja restabelecida a decisão proferida pelo Juízo da execução, que concedeu livramento condicional ao paciente, independentemente da realização de exame criminológico. Para tanto, argumenta, em síntese, que estaria preenchido o requisito subjetivo para tal fim.. Subsidiariamente, pugna para que o reeducando seja mantido em livramento condicional até ser submetido ao referido exame.
+Decido.
+O sentenciado cumpre pena privativa de liberdade de 5 anos, 3 meses e 13 dias de reclusão, com término da execução previsto para 11/4/2028.
+O Magistrado de origem concedeu livramento condicional ao paciente, decisão que foi cassada pelo Tribunal estadual, sob os seguintes fundamentos (fls. 18-20, destaquei):
+Da análise dos autos, observo que o agravante cumpre pena que supera os 5(cinco) anos de prisão, em regime fechado, pela prática de crime cometido com violência ou grave ameaça (roubo majorado) e tem ainda longa pena a cumprir (TCP previsto para 11/04/2028).
+Ademais, da análise do boletim informativo de fls. 263/266 da execução, verifica-se que, além de estar o agravante em regime
+fechado e de não ser adequada a passagem diretamente para o livramento condicional, há a anotação de uma falta disciplinar grave por abandono do cumprimento da pena (falta recentemente reabilitada em 11/04/2025, ou seja, poucos dias antes da concessão do livramento condicional), tudo a comprovar a alegação do agravante que afirma não ter restado comprovado o mérito necessário para a concessão da benesse.
+Evidente, pois, que a simples apresentação de um atestado de bom comportamento carcerário não é suficiente para assegurar o preenchimento do requisito subjetivo.
+Neste sentido o art. 83, parágrafo único, do Código Penal, que impõe a análise das condições pessoais para os condenados por crimes cometidos com violência ou grave ameaça. Vejamos:
+ ..
+Da análise do artigo supratranscrito, verifica-se que o cumprimento do requisito objetivo e o atestado de bom comportamento carcerário não são suficientes para comprovar o mérito necessário para fins de livramento condicional, que, ressalto, sequer é adequado para o condenado em cumprimento de pena em regime fechado, tendo em vista que a progressão deve ser gradual, conforme comprove o sentenciado o cumprimento do requisito subjetivo com a comprovação da assimilação da terapêutica penal, o que não restou comprovado nos autos.
+Ante o exposto, conheço o recurso de agravo em execução penal, e, no mérito, dou o provimento ao recurso para determinar o retorno do agravado ao regime fechado.
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores
+detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que a instância a queo ressaltou que o reeducando haveria cometido falta disciplinar de natureza grave, consistente em abandono do cumprimento da pena, recém habilitada, de modo a macular o preenchimento do requisito de ordem subjetiva.
+Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse pretendida.
+Por essas razões, não constato nenhuma ilegalidade no acórdão proferido pela Corte de origem, uma vez que o benefício em tela foi indeferido com base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
