@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se recurso especial interposto por MARÍLIA DE MELO FREITAS NARCISO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 1/4/2025.
+Concluso ao gabinete em: 28/5/2025.
+Ação: "cominatória (substituição de produtos) c/c danos morais" (e-STJ fl. 1), ajuizada por MARÍLIA DE MELO FREITAS NARCISO em face de JAGUAR LAND ROVER BRASIL, e PREMIUM RIO VEÍCULOS LTDA.
+Sentença: julgou parcialmente procedente a pretensão autoral para condenar as fornecedoras, "solidariamente, a substituírem o veículo LR RR SPORT 3.0 TD HSE (ZERO Km) conforme dispõe o Artigo 18, §1º, inciso I e 3º do Código de Defesa do Consumido, observando que a requerente deverá proceder a devolução do veículo adquirido, sob pena de ensejar o enriquecimento ilícito. (Art. 884 do Código Civil)" (e-STJ fl. 171).
+Acórdão: o TJ/SP deu parcial provimento às apelações interpostas por PREMIUM RIO e JAQUAR LAND ROVER a fim de reformar a sentença e julgar improcedentes os pedidos iniciais, nos termos da seguinte ementa:
+COMPRA E VENDA - Automóvel - Vício oculto - Ação de obrigação de fazer cumulada com indenização por danos morais proposta pela compradora - Sentença de parcial procedência - Apelo das rés - Preliminares rejeitadas - Relação de consumo - Defeitos surgidos no prazo de garantia - Reparação - Superação, em poucos dias, do prazo de 30 dias estabelecido no artigo 18, § 1º, do Código de Defesa do Consumidor - Desinteresse da compradora na retirada do veículo - Pedido de substituição do veículo - Descabimento - Problemas mecânicos que, embora com pequeno atraso, acabaram sendo solucionados - Vícios de qualidade do produto que não o tornam impróprio ou inadequado ao consumo a que se destina ou diminuem seu valor - Ação improcedente - Apelações parcialmente providas. (e-STJ fl. 284)
+Recurso especial: alega violação ao art. 18, § 1º, do CDC, uma vez que o acórdão estadual "relativizou o prazo estabelecido por lei, concluindo que, mesmo estando ultrapassado o período estabelecido na norma infra constitucional" (e-STJ fl. 299), bem como a existência de dissídio jurisprudencial. Requer, em síntese, a reforma do decisum.
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, dando azo à interposição do AREsp 2.706.474/SP, provido para determinar a conversão em especial (e-STJ fl. 436).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 7/STJ
+O acórdão estadual asseverou que inexiste controvérsia "acerca do reparo dos vícios e da disponibilidade do veículo para entrega em 4 de novembro de 2021" e que " o s defeitos apresentados e que ensejaram o encaminhamento do veículo à oficina não o tornaram, ao final, impróprio ou inadequado ao consumo ou diminuíram seu valor, requisitos previstos no artigo 18, caput  .. , do Código de Defesa do Consumidor" (e-STJ fls. 288-289).
+No ponto, alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial em razão do óbice da Súmula 7/STJ.
+Em idêntico sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. IMPUGNAÇÃO PARCIAL. POSSIBILIDADE. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS NO PRODUTO SANADOS EM PRAZO RAZOÁVEL. SUBSTITUIÇÃO DO BEM. MEDIDA DESPROPORCIONAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA PELA INTERPOSIÇÃO DE RECURSO PROTELATÓRIO INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, Relator o Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que, "salvo nas hipóteses específicas elencadas no § 3º do art. 18 do CDC, após o transcurso do prazo de 30 (trinta) dias sem que haja a efetiva correção do vício é que exsurge para o consumidor o direito potestativo de exigir, segundo a sua conveniência, alguma das seguintes providências: (i) a substituição do produto por outro da mesma espécie, em perfeitas condições de uso; (ii) a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos; ou (iii) o abatimento proporcional do preço" (AgInt no AREsp n. 2.197.121/RO, Relator Ministro Humberto Martins, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024).
+3. Na hipótese em exame, o Tribunal de origem, ao analisar os elementos probatórios que constam nos autos, concluiu ser incabível a substituição do automóvel, pois os vícios apresentados dizem respeito aos acessórios do veículo e não interferiram na funcionalidade do automóvel, acrescentando que os fornecedores do produto se dispuseram a substituir as peças em prazo razoável, o que não foi possível porque o agravante não autorizou a execução do serviço.
+4. A revisão desse entendimento não é cabível nesta via, tendo em vista o óbice na Súmula 7/STJ.
+5. A multa prevista no art. 1.021, § 4º, do CPC/2015 não é consequência automática do não conhecimento ou desprovimento agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do meio de impugnação para autorizar sua imposição, situação esta não configurada no caso.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.498.287/DF, Terceira Turma, DJe 13/11/2024) (grifou-se)
+Destarte, o recurso especial não ultrapassa a barreira da admissibilidade.
+- Da divergência jurisprudencial
+Consoante a jurisprudência desta Corte, a incidência da Súmula 7/STJ acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, Terceira Turma, DJe 13/03/2017 e AgInt no AREsp 1215736/SP, Quarta Turma, DJe 15/10/2018.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários, fixados anteriormente em 11% sobre o valor atualizado da causa (e-STJ fl. 290), para 12%, observada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE SUBSTITUIÇÃO DE PRODUTO. VÍCIOS SANADOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Ação de substituição de produto c/c indenização por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes.
+4. Recurso especial não conhecido.
