@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARCELO ZANON SIMÃO em face do acórdão de fls. 795-801, de seguinte ementa:
+AGRAVO INTERNO. RECURSO ESPECIAL. FALÊNCIA. HONORÁRIOS DE SÍNDICO. ART. 67 DO DECRETO-LEI N. 7.661/1945. DEVOLUÇÃO DE VALORES PAGOS A MAIOR. POSSIBILIDADE. PROVISORIEDADE DOS HONORÁRIOS.
+1. Não há se falar em violação aos arts. 489, VI, e 927, III, do Código de Processo Civil, quando o Tribunal de origem demonstra a distinção do caso em julgamento com relação aos precedentes invocados pela parte.
+2. O princípio da irrepetibilidade das verbas de natureza alimentar não é absoluto, devendo ser flexibilizado para viabilizar a restituição de valores em situações excepcionais, para obstar o enriquecimento sem causa, em especial quando os valores recebidos são provisórios e sujeitos à prestação de contas, como no caso dos autos.
+3. É possível se determinar a restituição dos valores recebidos antecipadamente pelo síndico da Massa Falida, quando superiores ao limite estabelecido no art. 67 do Decreto-Lei n. 7.661/1945, com vistas à adequação ao montante permitido.
+4. Agravo interno a que se nega provimento.
+Alega o embargante que houve omissão no acórdão recorrido, uma vez que ele não teria se debruçado sobre os pontos indicados em seu agravo interno.
+Reitera os termos do agravo interno, incluindo o caráter irrepetível da verba alimentar e a violação à boa-fé objetiva.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do Código de Processo Civil, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador.
+Não se prestam, portanto, à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+No presente caso, os pontos controvertidos foram minuciosamente analisados pelo acórdão embargado, não havendo omissão a ser sanado no julgado.
+Como assinalado no acórdão embargado (fls. 798-801):
+Conforme indicado na decisão agravada, não se verifica violação aos arts. 489, VI, e 927, III, do Código de Processo Civil no caso, pois o Tribunal de origem demonstrou a distinção do caso em julgamento com relação aos precedentes invocados pelo ora agravante.
+No que concerne à questão de fundo, reitero que o acórdão recorrido, ao afastar a tese de impossibilidade de repetição dos valores provisoriamente recebidos pelo Síndico da Massa Falida - em confronto com a legislação de regência -, não se distanciou da jurisprudência desta Corte Superior.
+Conforme já reconhecido em diversas oportunidades, o princípio da irrepetibilidade das verbas de natureza alimentar não é absoluto, devendo ser flexibilizado para viabilizar a restituição de valores em situações excepcionais, para obstar o enriquecimento sem causa, em especial quando os valores recebidos são provisórios e sujeitos à prestação de contas, como no caso dos autos.
+A propósito:
+RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. LEVANTAMENTO PELO CAUSÍDICO. POSTERIOR REDUÇÃO DO VALOR EM RESCISÓRIA. AÇÃO DE COBRANÇA. RESTITUIÇÃO DO EXCEDENTE. POSSIBILIDADE. IRREPETIBILIDADE DE ALIMENTOS E VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. FLEXIBILIZAÇÃO.. PRINCÍPIO DA RAZOABILIDADE. MÁXIMA EFETIVIDADE DAS DECISÕES JUDICIAIS.
+1. É possível e razoável a cobrança dos valores atinentes aos honorários advocatícios de sucumbência já levantados pelo causídico se a decisão que deu causa ao montante foi posteriormente rescindinda, inclusive com redução da verba.
+2. O princípio da irrepetibilidade das verbas de natureza alimentar não é absoluto e, no caso, deve ser flexibilizado para viabilizar a restituição dos honorários de sucumbência já levantados, tendo em vista que, com o provimento parcial da ação rescisória, não mais subsiste a decisão que lhes deu causa. Aplicação dos princípios da vedação ao enriquecimento sem causa, da razoabilidade e da máxima efetividade das decisões judiciais.
+3. Recurso especial provido.
+(REsp n. 1.549.836/RS, relator Ministro Ricardo Villas Bôas Cueva, relator para acórdão Ministro João Otávio de Noronha, Terceira Turma, julgado em17/5/2016, DJe de 6/9/2016.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VALORES RECEBIDOS INDEVIDAMENTE POR FORÇA DE DECISÃO JUDICIAL NÃO DEFINITIVA. REFORMA DA DECISÃO EM RECURSO ESPECIAL. CRITÉRIOS PARA IDENTIFICAÇÃO DA BOA-FÉ OBJETIVA. INEXISTÊNCIA DE COMPORTAMENTO AMPARADO PELO DIREITO NO CASO CONCRETO. POSSIBILIDADE DE RESTITUIÇÃO DOS VALORES ART. 46 DA LEI N. 8.112/90. NÃO APLICABILIDADE DA SÚMULA 7/STJ.
+1. O art. 46 da Lei n. 8.112/90 prevê a possibilidade de restituição dos valores pagos indevidamente aos servidores públicos. Trata-se de disposição legal expressa, não declarada inconstitucional e, portanto, plenamente válida.
+2. Esta regra, contudo, tem sido interpretada pela jurisprudência com alguns temperamentos, mormente em decorrência de princípios gerais do direito, como a boa-fé. A aplicação desse postulado, por vezes, tem impedido que valores pagos indevidamente sejam devolvidos.
+3. A boa-fé não deve ser aferida no real estado anímico do sujeito, mas sim naquilo que ele exterioriza. Em bom vernáculo, para concluir se o agente estava ou não de boa-fé, torna-se necessário analisar se o seu comportamento foi leal, ético, ou se havia justificativa amparada no direito. Busca-se, segundo a doutrina, a chamada boa-fé objetiva.
+4. Na análise de casos similares, o Superior Tribunal de Justiça tem considerado, ainda que implicitamente, um elemento fático como decisivo na identificação da boa-fé do servidor. Trata-se da legítima confiança ou justificada expectativa, que o beneficiário adquire, de que valores recebidos são legais e de que integraram em definitivo o seu patrimônio.
+5. É por esse motivo que, segundo esta Corte Superior, os valores recebidos indevidamente, em razão de erro cometido pela Administração Pública ou em decorrência de decisão judicial transitada em julgado e posteriormente reformada em ação rescisória, não devem ser restituídos ao erário. Em ambas as situações, eventual utilização dos recursos por parte dos servidores para a satisfação das necessidades materiais e alimentares é plenamente justificada. Objetivamente, a fruição do que foi recebido indevidamente está acobertada pela boa-fé, que, por sua vez, é consequência da legítima confiança de que os valores integraram em definitivo o patrimônio do beneficiário.
+6. Situação diferente - e por isso a jurisprudência do STJ permite a restituição - ocorre quando os valores são pagos aos servidores em decorrência de decisão judicial de característica precária ou não definitiva. Aqui não há presunção de definitividade e, se houve confiança neste sentido, esta não era legítima, ou seja, não era amparada pelo direito.
+7. Se não havia razão para que o servidor confiasse que os recursos recebidos integraram em definitivo o seu patrimônio, qualquer ato de disposição desses valores, ainda que para fins alimentares, salvo situações emergenciais e excepcionais, não pode estar acobertado pela boa-fé, já que, é princípio basilar, tanto na ética quanto no direito, ninguém pode dispor do que não possui.
+8. No caso dos autos, os valores que foram pagos aos servidores não são decorrência de erro de cálculo efetuado pela administração, mas sim de decisão judicial que ainda não havia transitado em julgado, e que foi posteriormente reformada. Ademais, em nenhum momento houve concordância da administração com a quantia que foi paga, o que demonstra que sempre houve controvérsia a respeito da titularidade.
+9. Se os agravantes utilizaram desses valores, sem possuir a legítima confiança de que lhes pertenciam, não há como identificar a boa-fé objetiva nessa conduta. Portanto, sendo a decisão judicial final desfavorável aos servidores, a devolução do que foi pago indevidamente se faz possível, nos termos do art. 46 da Lei n. 8.112/90.
+10. Vale ressaltar que concluir pela ausência de boa-fé objetiva dos agravantes não implica em violação da Súmula 7/STJ, pois em nenhum momento se negou ou alterou os fatos que foram consignados pela instância ordinária, eles apenas sofreram uma nova qualificação jurídica. Agravo regimental improvido.
+(AgRg no R Esp 1263480/CE, relator Ministro Humberto Martins, Segunda Turma, julgado em 01/09/2011, DJe 09/09/2011).
+Por fim, destaco que idêntica situação à hipótese dos autos já foi analisada pela Terceira Turma desta Corte, que manteve o acórdão do Tribunal de origem, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO. AUSÊNCIA. RESTITUIÇÃO DO VALOR RECEBIDO A MAIOR NO EXERCÍCIO DA FUNÇÃO DE SÍNDICO. POSSIBILIDADE FUNDADA NA APRECIAÇÃO FÁTICA DA CAUSA. SÚMULA 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. CARÊNCIA DE OFENSA AO ART. 1.022 DO NOVO CPC. INVIABILIDADE DE RECONHECIMENTO DO PREQUESTIONAMENTO FICTO. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual ou no ora agravado, portanto, inexistentes os requisitos para reconhecimento de ofensa ao art. 489, § 1º, VI, do novo CPC. O acórdão de origem e também a decisão desta relatoria dirimiram a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. O teor dos arts. 927, III, do CPC/2015 e 187 do Código Civil não foi objeto de apreciação no aresto estadual, mesmo após o julgamento dos embargos de declaração. Logo, nota-se a ausência de prequestionamento, a atrair a aplicação da Súmula 211/STJ.
+3. Prevalece "no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu no caso" (AgInt no AREsp 1.317.234/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/5/2020, DJe 21/5/2020).
+4. A possibilidade da restituição do valor recebido a maior pelo recorrente, na condição da atividade de síndico, bem como a especificação do respectivo montante, foi fundada na apreciação fática da causa (incidência da Súmula 7/STJ).
+5. Agravo interno desprovido.
+(AREsp n. 1587436/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/7/2020).
+Nas razões do presente recurso, o embargante não aponta verdadeira omissão no acórdão embargado, mas demonstra mera discordância quanto às conclusões ali adotadas.
+Em face do exposto, rejeito os embargos opostos.
+É como voto.
