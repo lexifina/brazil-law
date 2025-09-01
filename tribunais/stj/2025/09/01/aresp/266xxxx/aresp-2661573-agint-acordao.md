@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal a quo concluiu pela inexistência de caráter abusivo dos juros remuneratórios pactuados, considerando que não excederam, de forma exorbitante, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência do Superior Tribunal de Justiça. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LILIAN ALVES DE SOUZA contra decisão monocrática proferida por esta relatoria (e-STJ, fls. 641-644), que conheceu parcialmente do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+A fundamentação da decisão ora agravada consistiu no seguinte: a) descabimento da espécie recursal para atacar decisão denegatória de seguimento do recurso especial, fundamentada na conformidade do acórdão recorrido com tese firmada em recurso repetitivo (Tema 958); b) conformidade do acórdão recorrido com a jurisprudência desta Corte Superior, sobre a inexistência de significativa discrepância entre a taxa de juros remuneratórios pactuada e a taxa média de mercado; e c) incidência dos óbices das Súmulas 5 e 7 do STJ quanto à ausência de contratação e ausência de interesse na revisão da cobrança de comissão de permanência cumulada com outros encargos.
+Em suas razões recursais, a parte agravante alega, em síntese, inaplicabilidade das Súmulas 5, 7 e 83 do STJ no caso concreto.
+Devidamente intimada, a parte agravada não apresentou impugnação (e-STJ, fl. 660).
+É o relatório.
+EMENTA
+BANCÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ÍNDOLE ABUSIVA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal a quo concluiu pela inexistência de caráter abusivo dos juros remuneratórios pactuados, considerando que não excederam, de forma exorbitante, a taxa média de mercado. Nesse contexto, observa-se que a controvérsia foi decidida em conformidade com a jurisprudência do Superior Tribunal de Justiça. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+De início, fica prejudicada a pretensão recursal relativa à tese fixada para o Tema 958 dos Recursos Repetitivos, tópico da negativa de seguimento do recurso especial acerca do qual não houve conhecimento do agravo em recurso especial e que não foi devolvido no presente recurso de agravo interno.
+Quanto aos juros remuneratórios, cabe averiguar se o tão só fato de estes extrapolarem a taxa média praticada pelo mercado financeiro em operações de mesma espécie, no período de celebração do pacto, indicaria a existência de cobrança abusiva.
+Ao julgar o recurso representativo da controvérsia que pacificou a questão acerca da índole abusiva dos juros remuneratórios (REsp 1.061.530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe de 10/3/2009), a em. Min. Relatora consignou, no que toca ao parâmetro a ser considerado para inferir se os juros contratados são abusivos ou não, o seguinte:
+"Descartados índices ou taxas fixos, é razoável que os instrumentos para aferição da abusividade sejam buscados no próprio mercado financeiro.
+Assim, a análise da abusividade ganhou muito quando o Banco Central do Brasil passou, em outubro de 1999, a divulgar as taxas médias, ponderadas segundo o volume de crédito concedido, para os juros praticados pelas instituições financeiras nas operações de crédito realizadas com recursos livres (conf. Circular nº 2957, de 30.12.1999).
+(..)
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros.
+A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos."
+Vê-se, assim, que a circunstância de a taxa de juros remuneratórios, praticada pela instituição financeira, exceder a taxa média de mercado, não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras, tal como entendeu o eg. Tribunal de origem.
+Portanto, para considerar aviltantes os juros remuneratórios praticados, é imprescindível que se proceda à demonstração cabal de sua natureza abusiva, em cada caso específico.
+No caso dos autos, segundo os fatos definitivamente delineados no acórdão recorrido, o Tribunal de origem concluiu pela inexistência de significativa discrepância entre a taxa pactuada e a taxa média de mercado para operações da mesma espécie, considerando-se as peculiaridades envolvidas (e-STJ, fls. 469-470):
+"Inicialmente, no que pertine a aplicação dos juros remuneratórios, verifico que não restou evidenciada a abusividade da taxa estabelecida na avença firmada entre os litigantes, eis que da análise do contrato apresentado nos autos (movimentação nº 14, arquivo 04), vislumbro que os juros remuneratórios foram fixados em 1,94 % ao mês e 25,95% ao ano.
+Cumpre ressaltar que a jurisprudência dos tribunais pátrios tem preservado a taxa contratada, desde que não evidenciado o auferimento de vantagem excessiva à instituição bancária e que esteja em sintonia com o mercado financeiro.
+Releva salientar que a taxa de juros disponibilizada à época da contratação pelo Banco Central, para a modalidade "Aquisição de Veículo", no período informado, apresentava a média de mercado, no patamar de 1,86 % ao mês e de 24,81% ao ano ( https://www. bcb. gov. br ).
+Partindo dessa premissa, é possível identificar que o montante cobrado pelo banco recorrido naquele período (1,94% ao mês e de 25,95% ao ano) não revela abusividade diante da espécie de contrato celebrado entre as partes. Logo, não há falar em redução dos juros remuneratórios, pelo fato de não restar demonstrada a onerosidade em relação à taxa média praticada pelo mercado nas relações comerciais semelhantes à ora perscrutada."
+Desse modo, constata-se a conformidade do acórdão recorrido com a jurisprudência desta Corte, motivo pelo qual é inviável o provimento do recurso especial no tópico, nos termos da Súmula 83/STJ.
+Por fim, é inviável conhecer da pretensão recursal relativa à cobrança de comissão de permanência cumulada com outros encargos.
+Isso, pois o Tribunal de origem concluiu pela ausência de contratação nesse sentido e, por isso, de interesse da parte recorrente (e-STJ, fl. 470):
+"No tocante ao argumento de cumulação indevida da comissão de permanência e outros encargos, extrai-se do contrato que não há previsão da referida cumulação.
+Desta forma, inexistindo no pacto a cobrança da comissão de permanência, falta a consumidora/recorrente interesse de agir quanto a esse encargo."
+Portanto, a revisão do acórdão recorrido no tópico não prescindiria do reexame do instrumento contratual e das provas analisadas, providências manifestamente proibidas nesta instância, nos termos das Súmulas 5 e 7 do STJ.
+Inexistente o reconhecimento da cobrança indevida de valores, fica prejudicado o conhecimento da pretensão de restituição daqueles.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
