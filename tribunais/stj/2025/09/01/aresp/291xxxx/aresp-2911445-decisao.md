@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO MACHADO DE MELLO MAGARAO contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. SENTENÇA DE IMPROCEDÊNCIA, SOB O FUNDAMENTO DA FALTA DE INDICAÇÃO DO VALOR ENTENDIDO COMO CORRETO, E DA AUSÊNCIA DA APRESENTAÇÃO DE DEMONSTRATIVO DISCRIMINADO ATUALIZADO DO CÁLCULO, NOS TERMOS DO ARTIGO 917, § 4º, I, E 918, III DO CPC/2015. APELAÇÃO OBJETIVANDO A ANULAÇÃO DA R. SENTENÇA, PARA QUE A PETIÇÃO INICIAL DOS EMBARGOS À EXECUÇÃO SEJA ADMITIDA, AINDA QUE SEM OS CÁLCULOS EXIGIDOS NO ARTIGO 917, § 3º DO CPC, POR SE TRATAR DE PESSOA HIPOSSUFICIENTE, REQUERENDO A APELANTE QUE OS AUTOS SEJAM REMETIDOS AO CONTADOR JUDICIAL. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO NÃO ACOMPANHADA DE DEMONSTRATIVO DISCRIMINADO DOS VALORES INCONTROVERSOS E DO ALEGADO EXCESSO, NA FORMA PREVISTA NO ARTIGO 917, § 3º, DO CPC. RECURSO DESPROVIDO. Incumbe à embargante, nem sede de embargos à execução, apresentar demonstrativo de cálculo de débito, na forma do artigo 373, I, c/c 917, §4º, I e 918, III do CPC." (e-STJ, fl. 312)
+Nas razões do recurso especial, a parte alega, em síntese, que: (a) Por ser beneficiário da gratuidade de justiça, teria direito à elaboração de cálculos pela Contadoria Judicial para instruir os embargos à execução, conforme o artigo 98, § 1º, VII, do CPC, independentemente da complexidade dos cálculos; e (b) O acórdão recorrido violou o artigo 917, parágrafos 2º e 3º do CPC, ao exigir a apresentação de demonstrativo discriminado e atualizado do cálculo, sem considerar a hipossuficiência do recorrente e seu direito à assistência judiciária gratuita.
+Foram apresentadas contrarrazões às fls. 335-340 (e-STJ).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+Ab initio, da leitura dos autos, verifica-se que, de fato, assiste razão à parte recorrente.
+O Tribunal a quo, no acórdão recorrido, negou provimento ao recurso de apelação interposto pelo ora recorrente, fundamentando-se na ausência de apresentação de demonstrativo discriminado e atualizado do cálculo, conforme exigido pelo artigo 917, § 3º, do Código de Processo Civil.
+A Corte de origem entendeu que, mesmo sendo o recorrente patrocinado pela Defensoria Pública, não há violação aos princípios do contraditório e da ampla defesa, e que a remessa dos autos ao Contador Judicial para apuração de valores não é devida, pois isso violaria o regramento processual e comprometeria a celeridade e efetividade do processo executivo. Assim, a sentença de improcedência foi mantida, considerando que o ônus de apresentar o cálculo correto competia ao embargante.
+Confira-se, por oportuno, trechos do acórdão recorrido (e-STJ, fls. 313-315):
+"Na hipótese, o embargante requereu, em provas, a produção de prova pericial, alegando que se trata de hipótese de anatocismo e que lhe está sendo cobrado muito além do devido.
+Com arrimo no art. 917, §4º, inciso I do Código de Processo Civil, não apontado o valor correto ou não apresentado o demonstrativo, os embargos à execução serão liminarmente rejeitados, sem resolução de mérito, se o excesso de execução for o seu único fundamento. Trata-se de ônus atribuído ao embargante e a ausência do valor correto ou de memória de cálculo implicará na rejeição liminar dos embargos.
+Por decisão, proferida às fls. 98/99, o Juízo deixou de apreciar o pedido de reconhecimento de excesso de execução, ante a ausência de cálculos, na forma do art. 917, § 4º, II do CPC.
+Com efeito, uma vez não cumprida a exigência legal consistente na apresentação do demonstrativo do cálculo, discriminado e atualizado, não devem ser acolhidos os presentes embargos.
+ ..
+De fato, não se verifica violação dos princípios do contraditório e da ampla defesa, não sendo devida remessa dos autos ao Contador Judicial para apuração de valores, ainda que a parte esteja patrocinada pela Defensoria Pública, sob pena de violação indireta ao regramento processual e elisão do propósito maior, de celeridade e efetividade do processo executivo.
+Como se vê, deve ser mantida a r. sentença guerreada." (g.n.)
+No entanto, esta Corte consolidou jurisprudência no sentido de que a realização dos cálculos pela Contadoria Judicial é direito da parte beneficiada pela gratuidade da Justiça, independentemente de sua complexidade.
+Nessa linha são os seguintes precedentes desse e. Superior Tribunal de Justiça:
+"PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CÁLCULOS. CONTADORIA JUDICIAL. CONFERÊNCIA. POSSIBILIDADE. SUCUMBÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido, ao consignar ser o contabilista " ..  auxiliar do juízo e não das partes" (fl. 190e), contrariou entendimento consolidado na jurisprudência desta Corte segundo a qual, " ..  sendo os exequentes beneficiários da assistência judiciária gratuita, a lei lhes confere o direito de se valer da contadoria judicial para a elaboração da planilha de cálculo" (REsp 691.978/RS, Rel. Min. TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJ 22.08.2005).
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido."
+(AgInt nos EDcl no REsp n. 2.035.558/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/4/2024, DJe de 2/5/2024, g.n.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFICIÁRIO DA AJG. EXECUÇÃO DE SENTENÇA. REMESSA À CONTADORIA JUDICIAL PARA CONFECÇÃO DE CÁLCULOS. DIREITO DO BENEFICIÁRIO INDEPENDENTEMENTE DA COMPLEXIDADE.
+1. Esta Corte consolidou jurisprudência no sentido de que o beneficiário da assistência judiciária gratuita tem direito à elaboração de cálculos pela Contadoria Judicial, independentemente de sua complexidade. Precedentes.
+2. Recurso especial a que se dá provimento.
+(REsp n. 1.725.731/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/11/2019, DJe de 7/11/2019, g.n.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NS. 282 E 356 DO STF. BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. UTILIZAÇÃO DA CONTADORIA JUDICIAL. POSSIBILIDADE.
+1. O prequestionamento dos dispositivos legais tidos como violados constitui requisito indispensável à admissibilidade do recurso especial. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+2. A jurisprudência do STJ firmou-se no sentido de que a parte beneficiária da assistência judiciária gratuita tem direito a valer-se da contadoria judicial para a elaboração de planilhas de cálculos.
+3. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp n. 449.320/RS, relator Ministro João Otávio de Noronha, Segunda Turma, julgado em 27/6/2006, DJ de 3/8/2006, p. 242, g.n.)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para reconhecer o direito do recorrente de ter os cálculos necessários para a execução confeccionados pela contadoria judicial.
+Publique-se.
+EMENTA
