@@ -1,0 +1,49 @@
+DECISÃO
+T rata-se de agravo em recurso especial interposto por BANCO BMG S.A. contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"RECURSOS DE APELAÇÃO. DIREITO DO CONSUMIDOR. CRÉDITO DISPONIBILIZADO MEDIANTE A CONTRATAÇÃO DE CARTÃO DE CRÉDITO. SUSCITADA VIOLAÇÃO DO DEVER ANEXO DE INFORMAÇÃO. DESVANTAGEM EM RELAÇÃO A EMPRÉSTIMO CONSIGNADO. ACERVO PROBATÓRIO QUE NÃO CORROBORA RECEBIMENTO E UTILIZAÇÃO DO R. CARTÃO. CANCELAMENTO. DEVOLUÇÃO NA FORMA SIMPLES. REFORMA PARCIAL DA SENTENÇA." (fls. 912-920)
+Os embargos de declaração foram rejeitados. (fls. 957-961)
+Nas razões do recurso especial, a parte alega violação aos arts. 107, 186, 308, 368, 421 e 927 do Código Civil, e aos arts. 14, 27 e 42, parágrafo único, do Código de Defesa do Consumidor, sustentando em síntese, que:
+(a) A tese de violação aos artigos 107, 186, 308, 421 e 927 do Código Civil e aos artigos 14, 27 e 42, parágrafo único, do Código de Defesa do Consumidor teria sido fundamentada na alegação de que o acórdão recorrido desconsiderou a validade do contrato de cartão de crédito consignado, que teria sido celebrado de forma regular e com pleno conhecimento do consumidor sobre seus termos, não havendo, portanto, vício de consentimento ou falha na prestação de informações.
+(b) A violação ao artigo 368 do Código Civil teria sido sustentada pela rejeição da compensação de valores devidos entre as partes, que, segundo o recorrente, atenderia aos requisitos legais para extinção de obrigações recíprocas, promovendo a economia processual e evitando demandas excessivas.
+(c) A tese de dissídio jurisprudencial teria sido baseada na divergência entre o entendimento aplicado pelo Tribunal de Justiça do Estado do Amazonas e o Tribunal de Justiça da Paraíba em casos análogos, onde o primeiro teria considerado abusiva a contratação de cartão de crédito consignado, enquanto o segundo teria reconhecido a validade do contrato e a ausência de vício de consentimento, impedindo a devolução de valores e indenização por danos morais.
+Foram apresentadas contrarrazões. (fls. 998-1008)
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Passo a fundamentar e decidir.
+A irresignação não merece prosperar.
+De início, não procede a alegação de violação aos artigos 107, 186, 308, 421 e 927 do Código Civil e aos artigos 14, 27 e 42, parágrafo único, do Código de Defesa do Consumidor, uma vez que o acórdão guerreado, considerando o contexto fático e as provas carreadas aos autos, considerou que a recorrente não se desincumbiu do seu ônus de comprovar a efetiva entrega do cartão, sua utilização - mesmo para a realização dos saques - e nem mesmo as faturas dele advindas.
+A respeito da irregularidade da contratação do contrato subjacente ao processo em epígrafe, o Tribunal de origem se manifestou no seguinte sentido (fls. 918-919):
+"In casu, a parte autora defendera que almejava a contratação de empréstimo consignado, obtendo posteriormente a informação de que fora emitido cartão de crédito, o que ensejou a perpetuidade das cobranças. Nesse cenário, pleiteara o cancelamento do cartão, declaração de quitação de dívida, devolução em dobro dos valores descontados e compensação por danos morais.
+Embora a parte ré tenha acostado contrato no qual existe menção à emissão do citado cartão (doc. 365), não só tal prova deveria acompanhar a peça defensiva, sob pena de preclusão, como não corrobora a efetiva entrega do cartão, sua utilização - mesmo para a realização dos saques - e nem mesmo as faturas dele advindas.
+Ademais, instada em provas, a parte ré informara que não possuía outras provas a produzir (doc. 435). Importante consignar, ainda, que a decisão saneadora que determinara a inversão do ônus da prova restou preclusa (doc. 458).
+Infundada, portanto, a irresignação defensiva, devendo seguir incólume a conversão e revisão do negócio jurídico."
+Desse modo, verifica-se que para que fosse possível alterar a conclusão do acórdão de que não restou comprovada a "a regularidade do contrato e a efetiva contratação" e por isso a cobrança realizada é ilegal, nos moldes pretendidos pela parte ora agravante, seria imperioso rever fatos e provas, o que é vedado pela Súmula 7/STJ.
+Além disso, é cediço que, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Nesse mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE CONTRATUAL E RESTITUIÇÃO E INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. AUSÊNCIA DE INFORMAÇÕES CLARAS E PRECISAS. VIOLAÇÃO DO DEVER DE INFORMAÇÃO CONSTATADO. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO PREJUDICADO. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA N. 83 DO STJ.
+1. A reforma do julgado quanto à regularidade do contrato mostra-se inviável, pois seria necessário o revolvimento do conjunto fático-probatório bem como das cláusulas contratuais, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+2. A jurisprudência do STJ estabeleceu que, nas ações revisionais de contrato de empréstimo pessoal nas quais se discute a legalidade das cláusulas pactuadas, a contagem do prazo prescricional decenal tem início a partir da data da assinatura do contrato. Incidência da Súmula n. 83/STJ.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.668.346/MT, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 2/12/2024, DJEN de 5/12/2024 - sem grifo no original).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. REGRA DE INSTRUÇÃO. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. TEORIA FINALISTA. ABRANDAMENTO. SÚMULA N. 83 DO STJ. DEMONSTRAÇÃO DE HIPOSSUFICIÊNCIA TÉCNICA, JURÍDICA OU ECONÔMICA. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste negativa de prestação jurisdicional quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. A inversão do ônus da prova é realizada a critério do juiz e se caracteriza como regra de instrução e não regra de julgamento, motivo pelo qual a decisão judicial que a determina deve ocorrer, preferencialmente, antes da etapa instrutória, ou quando proferida em momento posterior, garantir a parte a quem foi imposto o ônus a oportunidade de apresentar suas provas.
+3. É possível a aplicação das normas de proteção ao consumidor à pessoa física ou jurídica que, mesmo não sendo destinatária final do produto ou serviço, tenha reconhecida sua situação de vulnerabilidade.
+4. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.223.089/SE, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 11/11/2024, DJe de 13/11/2024 - sem grifo no original).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DANO MORAL. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1815468/PB, Rel. MINISTRA MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+3. "Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1812345/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos."
+(AgInt no AREsp 1817343/SP, Rel. MINISTRO ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021 - g. n.)
+Por fim, no tocante à violação ao artigo 368 do Código Civil, também não merece reparo o acórdão recorrido, o qual consignou que os requisitos para a compensação de obrigações não estavam presentes no presente caso, uma vez que "considerando os pagamentos realizados pelo demandante e o valor disponibilizado pelo Banco, o juízo postergara apropriadamente para a liquidação de sentença o cálculo do valor a ser percebido pelo consumidor", nos termos fixados na sentença de primeiro grau.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
