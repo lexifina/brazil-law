@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. RECOLHIMENTO PRÉVIO. AUSÊNCIA. EMBARGOS NÃO CONHECIDOS.
+1. O recolhimento prévio da multa imposta com base no art. 1.021, § 5º, do CPC/2015 é pressuposto recursal objetivo de admissibilidade de qualquer impugnação recursal. Precedentes.
+2. Não merecem ser conhecidos os segundos embargos de declaração opostos pela mesma parte sem o depósito prévio do valor da multa aplicada.
+RELATÓRIO
+Trata-se de segundos embargos declaratórios opostos por MILDERA HUANCA MAMANI contra acórdão desta colenda Quarta Turma, assim ementado:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015 APLICADA NO ACÓRDÃO EMBARGADO. NECESSIDADE DE RECOLHIMENTO PRÉVIO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos do § 5º do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, à exceção da Fazenda Pública e do beneficiário da justiça gratuita, que farão o pagamento ao final.
+2. No caso, não comprovado o prévio recolhimento da multa aplicada no âmbito do agravo interno e não sendo a parte beneficiária da justiça gratuita, não é possível conhecer do recurso manejado.
+3. Embargos de declaração não conhecidos." (fl. 921)
+Em suas razões, a embargante pretende a concessão de efeitos modificativos, aduzindo ter havido omissão no acórdão embargado, nos seguintes termos: "1. Omissão quanto à análise do inadimplemento contratual e da conduta lesiva da parte embargada, devidamente comprovada nos autos, o que foi expressamente debatido pela Embargante em suas razões recursais. 2. Omissão quanto ao exame dos vícios na prestação dos serviços contratados e à quebra da boa-fé objetiva, fundamentos essenciais para o julgamento da demanda. 3. Contradição ao afirmar inexistência de impugnação específica dos fundamentos da decisão agravada, quando a Embargante enfrentou de forma clara e objetiva todos os pontos controvertidos, com expressa indicação das normas violadas e da jurisprudência aplicável. 4. Omissão quanto ao necessário enfrentamento dos dispositivos legais e constitucionais invocados, quais sejam:  Artigos 421-A, 422 e 475 do Código Civil;  Art. 489, §1º, IV e VI, e art. 1.022, I e II, do CPC;  Art. 5º, incisos XXXV, LIV e LV, da Constituição Federal" (fl. 936).
+Requer, por fim, a reforma do acórdão embargado e o prequestionamento de matéria constitucional.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. RECOLHIMENTO PRÉVIO. AUSÊNCIA. EMBARGOS NÃO CONHECIDOS.
+1. O recolhimento prévio da multa imposta com base no art. 1.021, § 5º, do CPC/2015 é pressuposto recursal objetivo de admissibilidade de qualquer impugnação recursal. Precedentes.
+2. Não merecem ser conhecidos os segundos embargos de declaração opostos pela mesma parte sem o depósito prévio do valor da multa aplicada.
+VOTO
+Os embargos de declaração não merecem ser conhecidos, em razão da ausência de recolhimento da multa aplicada, na espécie.
+Constata-se que a parte embargante deixou de recolher a multa aplicada em razão da interposição de recurso manifestamente inadmissível, prevista no art. 1.021, § 4º, do CPC.
+No acórdão embargado, a Quarta Turma do STJ não conheceu dos embargos de declaração anteriormente opostos tendo em vista a ausência de prévio recolhimento da multa prevista no § 4º do art. 1.021 do CPC/2015, aplicada por ocasião do não conhecimento do agravo interno interposto pela embargante.
+Com efeito, na dicção do art. 1.021, § 5º, do Código de Processo Civil de 2015, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer recurso, de modo que não se conhece desse meio de impugnação sem o pagamento da referida penalidade. A propósito:
+"PROCESSUAL CIVIL. TERCEIROS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS QUARTOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. AUSÊNCIA DE PAGAMENTO DA MULTA IMPOSTA. BENEFICIÁRIO DA JUSTIÇA GRATUITA. NOVOS DECLARATÓRIOS COM NÍTIDO INTUITO PROTELATÓRIO. REJEIÇÃO QUE SE IMPÕE. ART. 1.026, §§ 3º E 4º, DO CPC/2015. EMBARGOS REJEITADOS COM MAJORAÇÃO DA MULTA.
+1 . Nos termos do art. 1.026, § 3º, do CPC/2015, o não recolhimento da multa cominada com fundamento no mesmo dispositivo legal impede o conhecimento dos recursos manejados posteriormente.
+2. Nos termos do § 5º do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, exceção feita à Fazenda Pública e ao beneficiário da justiça gratuita, que farão o pagamento ao final.
+3. Embargos de declaração rejeitados, com majoração da multa para 10% sobre o valor atualizado da causa."
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EDcl nos EDcl nos EDcl no AREsp n. 1.010.535/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/2/2022, DJe de 21/2/2022)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. NECESSIDADE. NÃO COMPROVAÇÃO. INDEFERIMENTO. ART. 1.021, § 4º, DO CPC/2015. MULTA. APLICAÇÃO. RECOLHIMENTO PRÉVIO. AUSÊNCIA.
+(..)
+3. Nos termos do § 5º do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, exceção feita à Fazenda Pública e ao beneficiário da justiça gratuita que farão o pagamento ao final.
+4. Embargos de declaração não conhecidos, com baixa imediata dos autos."
+(EDcl no AgInt nos EDcl nos EDcl no AgInt nos EDcl no AREsp n. 831.803/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/10/2018, DJe de 26/10/2018)
+Além disso, conforme entendimento pacificado nesta Corte Superior, os segundos aclaratórios somente se prestam a impugnar o acórdão que julgou os primeiros embargos nesta instância. Dessa forma, mostra-se inconcebível, neste momento processual, a discussão de eventual vício existente no acórdão que julgou o agravo interno, uma vez que o prazo para a veiculação da insurgência já se extinguiu há muito por força da preclusão consumativa. Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. SEGUNDOS EMBARGOS DE DECLARAÇÃO. EFEITO INTERRUPTIVO. AUSÊNCIA. DECISÃO MANTIDA. FUNDAMENTO DIVERSO.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Os segundos embargos de declaração são servis para se veicular vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, porquanto o prazo para a respectiva impugnação extinguiu-se por força da preclusão consumativa" (EDcl nos EDcl nos EAg 884.487/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2017, DJe 20/02/2018).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.649.929/RS, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/3/2021, DJe de 26/3/2021, g.n.)
+Por fim, quanto ao prequestionamento de matéria constitucional, também não prospera a insurgência.
+Com efeito, não cabe oposição de embargos de declaração com a finalidade de prequestionar matéria, tampouco para pronunciamento sobre matéria constitucional, ressaltando-se que matéria constitucional deve ser apreciada na suprema instância, pois não é viável a análise de contrariedade a dispositivos constitucionais, nesta via recursal, o que implicaria usurpação de competência constitucionalmente atribuída ao eg. Supremo Tribunal Federal (CF, art. 102). Por isso mesmo, a jurisprudência desta Corte é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento, não podem ser acolhidos quando inexistentes as hipóteses previstas no art. 1.022 do Código de Processo Civil.
+Advirta-se a embargante de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de incidentes processuais manifestamente inadmissíveis ou protelatórios, ensejará, conforme o caso, a majoração da multa prevista no art. 1.021, § 4º, além da imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Ante o exposto, não se conhece dos presentes embargos de declaração.
+É como voto.
