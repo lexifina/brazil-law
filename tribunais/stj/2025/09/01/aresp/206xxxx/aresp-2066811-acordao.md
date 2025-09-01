@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXECUÇÃO. PENHORA. CONCURSO DE CREDORES. INSTAURAÇÃO. REEXAME. SÚMULA Nº 7/STJ.
+1.  Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Alterar o decidido no acórdão impugnado, que concluiu pela possibilidade de instauração do condurso de credores e a remessa dos valores depositados exige o reexame de fatos e provas, o que é vedado em recurso especial pelo óbice da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por FBP BANK INC. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, inc. III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de Instrumento - Execução de título extrajudicial - Requisição de valores depositados em feito diverso, para fins de instauração de concurso de preferências - Pleito de reforma, deduzido pelo terceiro interessado - Inadmissibilidade - Medida adequada à hipótese - Suspensão que não abrange medidas urgentes, tal como se verifica, no caso - Análise quanto à identidade das penhoras expressamente postergada pelo d. magistrado "a quo" - Impossibilidade, nesse passo, de pronunciamento sobre a questão, pena de supressão de instância - Ausência, ademais, de diferenciação entre os pedidos de penhora deduzidos nas execuções - Transferência bem determinada, com vistas à apuração de que trata o art. 909, do CPC - Decisão mantida - Recurso improvido" (e-STJ fl. 472).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 514/517).
+Nas razões do especial (e-STJ fls. 480/496), o recorrente aponta violação dos artigos 797, § único, 908 e 909 do CPC.
+Alega omissão quanto à interpretação dos arts. 797, § único, 908 e 909 do CPC, segundo os quais a análise da identidade de penhoras sobre o mesmo bem prescinde à instauração do incidente de credores.
+Sustenta que o acórdão recorrido desconsiderou por completo o procedimento e os requisitos para instauração de incidente de concurso de credores, ou seja, a existência de identidade entre as penhoras deferidas em favor do recorrente e recorrido e o juízo absolutamente competente para processamento do incidente.
+Apresentada  as contrarrazões, o recurso foi inadmitido. Daí o presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXECUÇÃO. PENHORA. CONCURSO DE CREDORES. INSTAURAÇÃO. REEXAME. SÚMULA Nº 7/STJ.
+1.  Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Alterar o decidido no acórdão impugnado, que concluiu pela possibilidade de instauração do condurso de credores e a remessa dos valores depositados exige o reexame de fatos e provas, o que é vedado em recurso especial pelo óbice da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhimento.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Alega a recorrente que o acórdão é omisso quanto à interpretação dos arts. 797, § único, 908 e 909 do CPC, segundo os quais a análise da identidade de penhoras sobre o mesmo bem prescinde à instauração do incidente de credores, bem como no que diz respeito ao Juízo competente para o processamento do aludido concurso.
+Com efeito, o Tribunal de Justiça do Estado de São Paulo esclareceu que
+"Foram sopesados, na fundamentação do decisum, todos os aspectos e dispositivos legais relevantes para o deslinde do recurso. Os fundamentos foram, expressa e claramente, alinhavados no acórdão que, portanto, não padece de qualquer omissão, sendo certo que a matéria atinente à incompetência do Juízo de origem para a instauração e processamento do concurso de credores sequer fora aventada pela recorrente em suas razões de reforma.
+Conveniente ainda observar que a valoração da prova e a aplicação da lei ao caso concreto são questões pertinentes à livre convicção do Juízo, sendo certo que os aclaratórios, opostos com fundamento na adoção de "premissas equivocadas" estão pautados, exclusivamente, na insurgência da parte recorrente em face do resultado do julgamento, o que denota que sua pretensão, em realidade, é de imprimir caráter infringente ao recurso, com vistas ao reexame de matéria que já fora objeto de adequada apreciação.
+Como cediço, tal caráter infringente somente é admissível quando decorrente de correção de erro material manifesto, suprimento de omissão ou para fins de sanar contradição, hipóteses estas ausentes no caso sub judice, consoante já esclarecido" (e-STJ fl. 516).
+Não há falar, portanto, em existência de omissão ou contradição apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Ademais, a Corte de origem manteve a decisão que determinou a possibilidade de instauração do regular concurso de credores, com base nos seguintes fundamentos:
+"Não observo, pelo teor da r. decisão agravada, inobservância à regra inserta no art. 314, do CPC, uma vez que, como bem observado pelo d. magistrado "a quo", trata-se de medida que visa evitar dano irreparável ao exequente, haja vista a nítida possibilidade de perecimento do direito em caso de autorização de levantamento dos valores na execução em trâmite na 30ª Vara Cível do Foro Central desta Comarca.
+É certo, outrossim, que não há se falar, por ora, em nova constrição em desrespeito à determinação de suspensão e, segundo se extrai do feito de origem, a análise quanto à identidade das penhoras restou postergada, nos seguintes termos:
+"No mais, por ocasião da instauração do concurso de credores será aferida com mais vagar a questão da penhora, ou seja, se de fato este juízo foi levado a erro no passado quando liberara a constrição ora impugnada." (fls. 2634 dos autos de origem)
+Tenho por descabido, nesse passo, o pronunciamento quanto à questão nesta seara, pena de supressão de instância, inexistindo prejuízo ao agravante.
+É certo, ademais, que dos pedidos de penhora deduzidos em ambas as execuções não se verifica diferenciação, de modo que agiu bem, o d. Juízo, ao determinar a transferência dos valores com vistas à apuração de que trata o art. 909, do Código de Processo Civil, causando, de fato, estranheza a discrepância entre as respostas apresentadas pela Ducoco Alimentos S/A em um e noutro feito" (e-STJ fls. 474/475).
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
