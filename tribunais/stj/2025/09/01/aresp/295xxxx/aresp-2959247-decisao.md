@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DIOGO MATIAS MEDEIROS contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/4/2025.
+Concluso ao gabinete em: 8/8/2025.
+Ação: de compensação por danos morais e indenização por danos materiais, proposta por DIOGO MATIAS MEDEIROS, contra TERNIUM BRASIL LTDA.
+Decisão interlocutória: indeferiu a inversão do ônus probatório no que concerne à qualificação de pescador do autor.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa (e-STJ fls. 432-433):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E DIREITO AMBIENTAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E EXTRAPATRIMONIAIS. VAZAMENTO DE GRANDES PROPORÇÕES DE FINOS DE CARVÃO QUE ATINGIU O CANAL SÃO FRANCISCO, OCASIONANDO UMA GRANDE MORTANDADE DE PEIXES E OUTROS SERES MARINHOS, ACARRETANDO A SUSPENSÃO DA ATIVIDADE LABORATIVA DE PESCADOR DA PARTE AUTORA, TRAZENDO ENORMES PREJUÍZOS À SUA SUBSISTÊNCIA E À DE SUA FAMÍLIA. DECISÃO QUE INDEFERIU A INVERSÃO DO ÔNUS DA PROVA DE SUA CONDIÇÃO DE PESCADOR À ÉPOCA DO EVENTO NARRADO. INCONFORMISMO DA PARTE AUTORA. PRETENSÃO AUTORAL QUE VISA A REFORMA DA DECISÃO FUNDAMENTADA NA SÚMULA 618 DO STJ E O PRINCÍPIO DA PRECAUÇÃO. RECURSO DESPROVIDO.
+1. Trata-se, na origem, de demanda indenizatória proposta em face da parte ré TERNIUM BRASIL LTDA em razão de supostos danos ambientais provocados ao Canal São Francisco em decorrência de vazamento de material poluidor, responsáveis por causar a mortandade de peixes no local, de modo a inviabilizar a atividade econômica pesqueira da parte autora e causando prejuízos a sua subsistência
+2. Em conhecimento da teoria do Risco Integral, a responsabilidade pelo dano ambiental seria objetiva, conforme previsto no art. 14, § 1º, da Lei n.º 6.938/1981, recepcionado pelo art. 225, §§ 2º e 3º, da Constituição da República, e tem como pressuposto a existência de uma atividade que implique em riscos para a saúde e ao meio ambiente.
+3. Para tanto, basta comprovar o nexo de causalidade entre uma atividade de risco ao meio ambiente e os danos dela decorrentes para, então, configurar a sua responsabilidade. Súmula nº 618 do STJ
+4. Contudo, apesar da inversão do ônus da prova não está desincumbido o autor de fazer prova mínima do fato constitutivo do direito alegado, uma vez que tal proteção é referente apenas aos fatos que causaram prejuízo de natureza ambiental.
+5. Nessa seara de proteção, não estaria englobada as provas que dizem respeito a sua intimidade e vida profissional, devendo, assim, a comprovação de sua condição de pescador, ao tempo do evento, seja pela própria parte produzida, mediante os documentos necessários e indispensáveis para tanto, conforme disposto no Artigo 373, I do Código de Processo Civil
+6. A inversão do ônus da prova é um remédio processual responsável por facilitar o acesso à justiça daqueles que não detêm, quando comparado a outra parte, instrumentos técnicos necessários ou facilidade na produção de provas, destacando a vulnerabilidade.
+7. Não sendo a hipótese de hipossuficiência, para fazer prova de sua própria atividade profissional, de sua condição de pescador, não seria justo e razoável imputar a terceiro o ônus de comprovar fato que diz respeito à esfera particular do autor. Precedentes Jurisprudenciais deste Tribunal de Justiça.
+Embargos de declaração: opostos pela parte agravante, foram rejeitados (e-STJ fls. 481-487).
+Recurso especial: alega violação dos arts. 357, III, 373 § 1º, 1.022, II, do CPC; 3º, 4º, 14 da Lei nº 6.938/81; 1º, 6º, VIII e 17 do CDC. A parte agravante sustenta omissão na apreciação das questões referentes à inversão do ônus da prova e ao reconhecimento da condição de pescador. Aduz, ainda, a necessidade de aplicação da Súmula 618 do STJ quanto à inversão do ônus probatório em demandas ambientais (e-STJ fls. 489-501).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, TerceiraTurma, DJe 02/02/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe 16/02/2018.
+No recurso especial, a parte recorrente alegou violação ao art. 1.022 do CPC, argumentando que o acórdão recorrido deixou de analisar as omissões apontadas em relação à necessária concessão da inversão do ônus da prova, eis que se trata de danos ambientais e o reconhecimento da condição de pescador.
+No caso em exame, verifica-se que o acórdão recorrido apreciou, de forma fundamentada e expressa, os pontos apontados como omissos, concluindo: i) que apesar da inversão do ônus da prova em matéria ambiental, cabe ao autor apresentar prova mínima do fato constitutivo de seu direito, especialmente quanto à sua condição de pescador à época do evento, a ser demonstrada por documentos próprios, o que não ocorreu na hipótese sob julgamento (e-STJ fl. 437-438); ii) que "Não sendo a hipótese de hipossuficiência, para fazer prova de sua própria atividade profissional, de sua condição de pescador, não seria justo e razoável imputar a terceiro o ônus de comprovar fato que diz respeito à esfera particular do autor" (e-STJ fl. 438) e iii) que a pretendida inversão do ônus da prova em relação a todos os pontos do processo configura inovação recursal, motivo pelo qual não se conheceu do recurso nesse ponto (e-STJ fl. 486).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de comprovação da condição de pescador do agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+-Da ausência de prequestionamento
+O acórdão recorrido não apreciou o conteúdo normativo dos artigos 3º, 4º e 14 da Lei 6.938/81, indicados como violados, tampouco o agravante suscitou tal omissão nos embargos de declaração que opôs.
+No particular, diante da ausência de decisão dos artigos tidos como violados e da ausência de embargos, é inviável conhecer do recurso especial, incidindo, por analogia, a Súmula 282/STF
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. PREQUESTIONAMENTO AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de compensação por danos morais e indenização por danos materiais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Alterar a conclusão do Tribunal de origem, que afastou a inversão do ônus da prova quanto à condição de pescador, demandaria o reexame do conjunto fático-probatório.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
