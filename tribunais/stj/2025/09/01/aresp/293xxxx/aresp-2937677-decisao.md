@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SEVERINO DA SILVA FERREIRA-ME contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado da Paraíba, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO. RECONHECIMENTO DA PRESCRIÇÃO. EXTINÇÃO DO PROCESSO COM RESOLUÇÃO DE MÉRITO. IRRESIGNAÇÃO. ALEGADA VIOLAÇÃO AO ART. 206, §1.º, II. B, DO CÓDIGO CIVIL. INOCORRÊNCIA. PRESCRIÇÃO ÂNUA. RECUSA DEVIDA. DESCUMPRIMENTO DE OBRIGAÇÕES PREVISTAS NA APÓLICE. DESPROVIMENTO DO APELO."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte alega violação aos arts. 206, § 1.º, II, do Código Civil e 926 do Código de Processo Civil, sustentando que o prazo prescricional para a pretensão do segurado contra o segurador inicia com a recusa da seguradora, em vez da ciência do sinistro, pois a violação do direito do segurado só ocorre com a negativa de indenização.
+Foram apresentadas contrarrazões às fls. 716-742 (e-STJ).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+No caso dos autos, o Tribunal de origem confirmou a prescrição da pretensão de indenização securitária, relativamente a danos causados por incêndio no estabelecimento da parte autora, ora recorrente, com fundamento na comunicação do sinistro à seguradora após o prazo prescricional ânuo.
+Conforme entendimento da Segunda Seção desta eg. Corte, a prescrição da pretensão reparatória decorrente de contrato de seguro possui como termo inicial a data da ciência inequívoca do dano segurado, ficando suspenso o prazo no período compreendido entre a comunicação do sinistro e a recusa de cobertura pela seguradora, à luz da Súmula 229/STJ.
+Nesse sentido:
+"CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. TERMO INICIAL DO PRAZO PRESCRICIONAL. CIÊNCIA INEQUÍVOCA DA INCAPACIDADE PELO SEGURADO. INTELIGÊNCIA DA SÚMULA 229/STJ. DECISÃO DO TRIBUNAL ESTADUAL EM HARMONIA COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção desta eg. Corte perfilha o entendimento de que "A prescrição da pretensão reparatória decorrente de contrato de seguro possui como termo inicial a data da ciência inequívoca da incapacidade do segurado. Fica suspenso o prazo no período compreendido entre a comunicação do sinistro e a recusa de cobertura pela seguradora, conforme estabelece a Súmula n. 229 do STJ" (AR 2.999/MG, Relator Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, julgado em 27/11/2013, DJe de 12/12/2013). Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp n. 2.746.794/MS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/4/2025, DJEN de 25/4/2025.)
+"CONTRATOS. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO POR INVALIDEZ. COBRANÇA DE INDENIZAÇÃO. PRESCRIÇÃO ANUAL. INÍCIO. CIÊNCIA DA INVALIDEZ. COMUNICAÇÃO DO SINISTRO À SEGURADORA. SUSPENSÃO DO PRAZO PRESCRICIONAL. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. "A prescrição da pretensão reparatória decorrente de contrato de seguro possui como termo inicial a data da ciência inequívoca da incapacidade do segurado. Fica suspenso o prazo no período compreendido entre a comunicação do sinistro e a recusa de cobertura pela seguradora, conforme estabelece a Súmula n. 229 do STJ. Em tal hipótese, não se dá a interrupção, mas tão somente a suspensão do prazo prescricional" (AR n. 2.999/MG, de minha relatoria, Segunda Seção, julgado em 27/11/2013, DJe de 12/12/2013).
+2. Essa orientação tem sido reiterada no âmbito desta Corte Superior. De fato, "o cômputo do prazo ânuo começa a correr da data em que o segurado teve ciência inequívoca da incapacidade laboral (Súmula 278/STJ), permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização (Súmula 229/STJ)" (AgRg no AgRg no REsp n. 1.279.143/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/4/2022, DJe de 26/4/2022).
+3. O Tribunal de origem entendeu que o termo inicial do prazo prescricional seria a data em que o segurado obteve ciência da recusa de cobertura, o que vai de encontro à jurisprudência desta Corte Superior.
+4. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp n. 1.972.673/RJ, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/3/2023, DJe de 31/3/2023.)
+Por fim, ainda que superado o entendimento acima declinado, o recurso especial não poderia ser conhecido, por ausência de impugnação a fundamento suficiente para manter incólume o acórdão recorrido, óbice da Súmula 283/STF, pois não foi combatido o motivo também apontado pelo Tribunal de origem, consistente no descumprimento da obrigação contratual em comunicar imediatamente o sinistro à seguradora, implicando perda do direito à indenização.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
