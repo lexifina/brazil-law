@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por IAMAN LAGARES DE OLIVEIRA, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o recorrente foi condenado como incurso no art. 33, caput, da Lei nº 11.343/2006, à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, no mínimo legal.
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por alegada violação ao art. 33, §4º, da Lei n.º 11.343/2006.
+A Vice-Presidência do Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+É o relatório. DECIDO.
+O recurso ora em análise não preenche requisito indispensável de admissibilidade recursal.
+No que concerne à alegada violação ao art. 33, §4º, da Lei n.º 11.343/06, tenho que o Juízo de primeiro grau reconheceu, no édito condenatório, providência que foi mantida em grau recursal, que se trata de recorrente que se dedica a atividades criminosas, haja vista que se trata de indivíduo que difundia a venda de entorpecentes nas mídias sociais a diversas pessoas, fazendo do crime o seu meio de vida.
+Colho trecho da fundamentação (fl. 301):
+"O acusado é primário e não possui antecedentes penais. No entanto, comprovado que o acusado fazia do tráfico de drogas seu meio de vida, considerando que vendia as drogas por redes sociais e já possuía considerável clientela, inclusive restringido a compra a determinada quantidade o que, conforme expendido, indica que o acusado já possuía influência no tráfico. Portanto, a prova demonstra que o acusado se dedicada às atividades criminosas, razão pela qual não deve ser beneficiado com o privilégio do art. 33, §4º, da Lei nº 11343/06.".
+Registro que este Tribunal possui entendimento sedimentado no sentido de que a apreensão de quantidade e variedade de entorpecentes, bem como a forma de acondicionamento e os apetrechos utilizados, além das condições do flagrante delito, são circunstâncias aptas a indicar a dedicação a atividades criminosas, de sorte a afastar o benefício do tráfico privilegiado (AgRg no AREsp 2676524/SP, QUINTA TURMA, de minha relatoria, DJEN 25/02/2025).
+Nesse contexto, é assente a jurisprudência desta Corte Superior no sentido de que "a modificação desse entendimento, com o objetivo de fazer incidir a causa de diminuição do tráfico privilegiado, exigiria aprofundado reexame probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7/STJ" (AgRg no AREsp n. 2.101.059/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/8/2023, DJe de 15/8/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228/MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Diante desse cenário, também não há se falar no alegado em bis in idem (fls. 491-494), pois, ao contrário do asseverado pela defesa, as instâncias ordinárias não se valeram da quantidade de drogas para elevar a pena na primeira fase da individualização da reprimenda e para denegar o redutor da pena. Como se viu dos transcritos, a conclusão de que o réu faz do tráfico de drogas o seu meio de vida decorreu do uso das próprias redes sociais p ara vender entorpecentes, tendo, inclusive, uma clientela considerável, circunstância que embasou a denegação do privilégio.
+Ante o exposto, não conheço do recurso especial, nos termos do art. 255, §4.º , inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
