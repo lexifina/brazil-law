@@ -1,0 +1,7 @@
+DECISÃO
+Às fls. 2.647-2.664 (e-STJ) a parte corré, ora agravada, SAMUEL TAU ZYMBERG, noticiou a celebração de acordo com a corré, ora agravante, AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., e a parte autora, ORIDES PIRANI FIORIN, juntou o instrumento assinado por todas as partes enviado para homologação nos autos do cumprimento de sentença 0027248-58.2025.8.26.0100, relativo ao processo originário do presente recurso, além dos comprovantes da satisfação das obrigações assumidas, requerendo a desistência de seu agravo em recurso especial, a qual foi homologada por decisão simultaneamente proferida nesta data.
+Em consulta ao site do Tribunal de origem, constata-se que o aludido acordo foi homologado pelo Juízo de primeiro grau e o processo foi extinto, com fundamento na satisfação das obrigações (art. 924, II, do CPC/2015), por sentença publicada em 18/8/2025.
+Nesse contexto, é evidente a perda superveniente do objeto recursal, notadamente quando já foram cumpridas as obrigações assumidas e o processo extinto, ficando, assim, prejudicado o conhecimento do agravo em recurso especial interposto pela ora agravante, AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., nos termos do art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial de AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., determinando a remessa dos autos ao Juízo de origem para as providências cabíveis.
+Publique-se.
+EMENTA
