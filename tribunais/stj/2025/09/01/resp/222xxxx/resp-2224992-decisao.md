@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão prolatado pelo Tribunal Regional Federal da 1ª Região.
+Depreende-se dos autos que o recorrido foi condenado à pena de 02 (dois) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, além do pagamento de 106 (cento e seis) dias-multa, cada qual fixado em 01 (um) salário mínimo, pela prática do delito previsto no art. 171, § 3º, do Código Penal (fls. 501-522).
+O Tribunal local deu provimento ao recurso de apelação defensivo para absolver o acusado das imputações que lhe foram dirigidas ao reconhecer a atipicidade material da conduta (fls. 612-652).
+Inconformado, o Ministério Público Federal interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, para alegar violação ao art. 386, inciso III, do Código de Processo Penal e art. 171, §3º, do Código Penal, ao argumento de que não se aplica o princípio da insignificância aos crimes praticados contra a administração pública.
+O Ministério Público Federal se manifestou pelo provimento do recurso especial (fls. 679-681).
+É o relatório. DECIDO.
+A controvérsia consiste no exame da aplicabilidade do princípio da insignificância ao delito previsto no art. 171, §3º, do Código Penal.
+Acerca da temática recursal, o Tribunal de origem assim dispôs (fl. 622):
+"In casu, os autos revelam que, apesar da conduta do Acusado subsumir-se, formalmente, ao tipo do art. 171, § 3º da Lei Penal Material - valores referentes ao seguro desemprego, ocasionando um prejuízo no valor de R$ 1.395,00 (mil, trezentos e noventa e cinco reais), deve ser considerada materialmente atípica, pois não se revestiu de lesividade suficiente para atingir o bem jurídico tutelado pela norma, sendo o caso de se reconhecer a aplicação do princípio da insignificância.
+Nesse sentido, a mínima ofensividade da conduta resta latente, uma vez que efetuada a suspensão dos pagamentos. Por sua vez, a ausência de periculosidade social da ação mostra-se ínsita ao tipo penal, uma vez que desprovido de violência ou grave ameaça. O reduzido grau de reprovabilidade do comportamento pode ser observado diante da ausência de qualquer elemento probatório que induza ser a Apelante contumaz autora na prática do crime em julgamento. Por fim, a inexpressividade da lesão jurídica é depreendida ante o ínfimo prejuízo aos cofres públicos (R$ 1.811,80), incapaz de comprometer as contas públicas."
+No caso concreto, o recorrido viabilizou que empregado, mediante o fraudulento encerramento da relação laboral, percebesse indevidamente parcelas do seguro-desemprego, ocasionando prejuízo ao Fundo de Amparo ao Trabalhador (FAT) e ao Fundo de Garantia do Tempo de Serviço (FGTS).
+É firme a jurisprudência desta Corte Superior no sentido de que "o princípio da insignificância é inaplicável aos crimes contra a Administração Pública" (Súmula n. 599/STJ). Não obstante isso, mesmo diante de ilícito perpetrado em detrimento de entidade pública, a Corte de origem superou tal orientação reconhecendo a atipicidade material da conduta.
+Deve prevalecer a orientação desta Corte Superior segundo a qual os crimes praticados contra a Administração Pública transcendem a mera lesão patrimonial, atingindo igualmente a moralidade administrativa, a fé pública e a probidade, bens jurídicos de indiscutível relevância social. Tal constatação afasta a alegada irrelevância da conduta e evidencia a imprescindibilidade da resposta penal, ainda que o prejuízo material não se revele expressivo.
+Corroboram:
+"DIREITO PENAL. RECURSO ESPECIAL. ESTELIONATO MAJORADO (ART. 171, § 3º, DO CP). RECEBIMENTO INDEVIDO DE AUXÍLIO EMERGENCIAL CONCOMITANTE COM DOAÇÃO PARA CAMPANHA ELEITORAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE AOS DELITOS COMETIDOS CONTRA A ADMINISTRAÇÃO PÚBLICA. SÚMULA N. 599/STJ. PRESENÇA DE JUSTA CAUSA. RECURSO PROVIDO.
+ ..
+6. O princípio da insignificância não se aplica aos crimes contra a Administração Pública, conforme entendimento consolidado na Súmula 599 do STJ, devido à ofensa ao patrimônio público, moral administrativa, fé pública e probidade administrativa.
+7. A conduta do recorrido, ao realizar doações para campanha eleitoral enquanto beneficiário de auxílio emergencial, revela-se grave e configura possível utilização fraudulenta de recursos públicos, justificando a continuidade da ação penal.
+8. A decisão do Tribunal a quo contrariou a interpretação firmada por este Superior Tribunal, ao aplicar indevidamente o princípio da insignificância.
+IV. Dispositivo e tese
+9. Recurso provido.
+Tese de julgamento: "1. O princípio da insignificância é inaplicável aos crimes contra a Administração Pública. 2. A conduta de receber indevidamente auxílio emergencial e realizar doações para campanha eleitoral justifica a continuidade da ação penal para apuração de possível conduta criminosa".
+Dispositivos relevantes citados: CP, art. 171, §3º; CP, art. 312;
+CPP, art. 386, III e VII. Jurisprudência relevante citada: STJ, Súmula 599; STJ, AgRg no AREsp 2.814.682/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 1º/4/2025, DJEN de 9/4/2025; STJ, HC n. 840.441/DF, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025."
+(REsp n. 2.205.460/AM, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO-FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. AGRAVO IMPROVIDO.
+ ..
+6. O princípio da insignificância não é aplicável aos crimes contra a administração pública, conforme Súmula 599 do STJ, mesmo diante do valor módico dos bens subtraídos.
+IV. Dispositivo e tese 7. Agravo improvido. Tese de julgamento: "1. O princípio da insignificância é inaplicável aos crimes contra a administração pública. 2. A subtração de objetos sob custódia implícita da administração pública por agente público caracteriza peculato-furto, não cabendo desclassificação para apropriação de coisa achada". Dispositivos relevantes citados: CP, art. 312; CP, art. 169, parágrafo único, II; CPP, art. 386, III e VII. Jurisprudência relevante citada: STJ, Súmula 599.
+(AgRg no AREsp n. 2.814.682/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/4/2025, DJEN de 9/4/2025
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO COMETIDO CONTRA A CAIXA ECONÔMICA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que não se aplica o princípio da insignificância quando se trata do delito previsto no art. 171, § 3º do CP, pois a conduta ofende não só o patrimônio público, mas também a moral administrativa e a fé pública. Precedentes.
+2. Acaso se entenda pela distinção do caso concreto em razão da vítima ser a CAIXA ECONÔMICA FEDERAL - CEF, também por outro motivo não seria aplicável o princípio da insignificância, qual seja, o valor do prejuízo que alcançou R$ 800,00 (oitocentos reais) no ano de 2010, superior ao salário mínimo de R$ 510,00 (quinhentos e dez reais) vigente ao tempo dos fatos. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.988.101/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+Assim, estando o acórdão prolatado pelo Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n.º 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema ".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para afastar a atipicidade material da conduta e determinar a devolução dos autos ao Tribunal de origem para que prossiga na avaliação da tese defensiva apresentada na apelação.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. ESTELIONATO CONTRA ENTIDADE DE DIREITO PÚBLICO. PRINCÍPIO DA INSIGNIFICÂNCIA. OFENSA AOS INTERESSES DA COLETIVIDADE, À MORAL ADMINISTRATIVA E FÉ PÚBLICA. INAPLICABILIDADE. USO DE DOCUMENTO FALSO. MAIOR REPROVABILIDADE DA CONDUTA E PERICULOSIDADE SOCIAL DA AÇÃO. SÚMULA N. 568, STJ. RECURSO DESPROVIDO.
