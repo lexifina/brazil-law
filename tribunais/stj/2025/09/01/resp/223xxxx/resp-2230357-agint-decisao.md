@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo interno interposto por SIDIA INSTITUTO DE CIENCIA E TECNOLOGIA contra decisão monocrática de minha relatoria que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182/STJ (fls. 534-539).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS cuja ementa guarda os seguintes termos (fl. 292):
+Apelação. Nulidade. Cerceamento de defesa. Prova pericial. Inutilidade. Designação audiência de instrução e julgamento. Alegações finais. Resposta de todos os argumentos. Desnecessidade. Provas. Fotografias. Acidente de trânsito. Conversão à esquerda. Desobediência. Regras de circulação. Ausência de distância e domínio do veículo. Culpa. Condutor. Automóvel de passeio. 1. Não há que se falar em cerceamento de defesa quando julgador retrocede de anterior posicionamento referente à realização de perícia, quando esta se mostrar inútil e as demais provas autorizarem o julgamento do feito, diante da demonstração da dinâmica do acidente. Ademais, a realização de audiência de instrução e julgamento com a oitiva dos envolvidos e concessão de prazo para apresentações de alegações finais é suficiente para o julgamento da demanda. 2. O Juiz não fica obrigado a examinar todos os argumentos deduzidos no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional. 3. O condutor de automóvel de passeio é responsável pelo acidente de trânsito quando deixar de ter domínio do veículo e de manter distância segura dos demais. 4. A conversão à esquerda, feita de forma aberta em curva lenta, com grande espaço para o motorista de automóvel menor, igualmente, realizar a mudança de direção, não pode ser tachada de ilegítima, devendo o motorista que causou a colisão arcar com o pagamento dos danos causados. 5. Apelação conhecida e desprovida.
+Rejeitados os embargos de declaração opostos (fls. 321/324).
+Nas razões do agravo interno, alega a agravante que não se aplica o óbice da Súmula n. 182/STJ, porquanto o agravo encontra-se adequadamente fundamentado.
+Sustenta, outrossim, que "o recurso se fundamentou em omissão dos Julgadores sobre as teses de defesa, cabendo aos I. Ministros, tão somente, verificar a existência de omissão e provimento do recurso com fundamento no art. 1.022, II, CPC/2015".
+Aduz que deve ser afastada a incidência da Súmula 7/STJ.
+Assevera que não se sustenta a incidência da Súmula 83 do STJ, uma vez que o recurso especial demonstrou de forma clara a divergência jurisprudencial existente sobre a matéria.
+Ressalta que o indeferimento imotivado de realização de perícia técnica é causa de cerceamento de defesa, e os julgadores a quo mantiveram-se silentes sobre o assunto, em ofensa aos arts. 369, 489 e 1.022 do CPC. Apontou divergência jurisprudencial.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a se manifestar, silenciou (fl. 569).
+É, no essencial, o relatório.
+Após atenta análise dos autos, verifica-se que assiste razão ao agravante quanto à não incidência da Súmula n. 182/STJ, tendo em vista que, nas razões do agravo de fls. 497-517, foi impugnado especificamente o fundamento da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal a quo.
+Ante o exposto, torno sem efeito a decisão de fls. 534-539 e julgo prejudicado o agravo interno.
+Determino a autuação do agravo como recurso especial, nos termos do art. 34, XVI, do RISTJ, para melhor exame da matéria, sem prejuízo de futuro reexame dos pressupostos de admissibilidade recursal.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
