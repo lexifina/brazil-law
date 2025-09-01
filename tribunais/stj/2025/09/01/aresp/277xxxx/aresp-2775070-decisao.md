@@ -1,0 +1,36 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HERTER CEREAIS LTDA contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/9/2024.
+Concluso ao gabinete em: 20/12/2024.
+Ação: de embargos à execução ajuizada por HERTER CEREAIS LTDA e OUTRO em face de CARLOS ALBERTO VERÍSSIMO DA COSTA, na qual requer a nulidade da execução por ausência das duplicatas originais. Alegam excesso de execução, sob o fundamento de que os juros moratórios devem incidir desde a citação válida e não desde o vencimento.
+Sentença: julgou improcedentes os embargos.
+Acórdão: negou provimento à apelação interposta por HERTER CEREAIS LTDA, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA. JUNTADA DE CÓPIA AUTENTICADA QUANDO DO AJUIZAMENTO DO FEITO EXECUTIVO. PRETENSÃO DA EMBARGANTE À EXTINÇÃO, DIANTE DA PRESCINDIBILIDADE DA APRESENTAÇÃO DO TÍTULO ORIGINAL. NECESSIDADE A FIM DE IMPEDIR A CIRCULAÇÃO. FALTA SANADA. HIPÓTESE EM QUE CONSTATADA A JUNTADA NOS AUTOS DO FEITO EXECUTIVO QUATRO MESES DEPOIS DA PROPOSITURA. SITUAÇÃO EM QUE A EMBARGANTE SEQUER IMPUGNA A EXISTÊNCIA DO DÉBITO. SENTENÇA DE IMPROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO MANTIDA. RECURSO DESPROVIDO. (e-STJ fl. 152).
+Recurso especial: alega violação dos arts. 887 do CC; e 85, 784 e 798, I, do CPC, sustentando, em síntese, i) a necessidade de instrução da petição inicial com o título executivo original, não cabendo regularização posterior e ii) o afastamento da condenação em honorários sucumbenciais por violação ao princípio da causalidade, porquanto fora reconhecido o vício do ajuizamento da execução, suprido posteriormente.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da juntada do título executivo original (Súmula 568 do STJ) e Do reexame de fatos e provas (Súmula 7 do STJ)
+A juntada da via original do título executivo extrajudicial é, em princípio, requisito essencial à formação válida do processo de execução, pois busca assegurar a autenticidade da cártula apresentada e afastar a hipótese de ter o título circulado, sendo, em regra, nula a execução fundada em cópias dos títulos (REsp n. 330.086/MG, Terceira Turma, DJ de 22/9/2003).
+A exigência de apresentação do original do título cambial em processo de execução justifica-se, portanto, pela possibilidade de sua circulação, impossibilitando uma nova execução lastreada no mesmo título de crédito.
+Nessa linha de intelecção, este Tribunal Superior já decidiu que, comprovada a não circulação do título ou que, por sua natureza, este não é hábil a circular, e, ainda, quando não houver dúvidas quanto à existência do título e do débito, a ação de execução pode, excepcionalmente, ser instruída por cópia reprográfica do título executivo extrajudicial em que fundamentada, prescindido da apresentação do documento original. A propósito: REsp n. 1.946.423/MA, Terceira Turma, DJe de 12/11/2021.; REsp n. 1.086.969/DF, Quarta Turma, DJe de 30/6/2015; REsp n. 820.121/ES, Terceira Turma, DJe de 5/10/2010; REsp n. 595.768/PB, Quarta Turma, DJ de 10/10/2005).
+Nesse sentido, o TJ/RS está em consonância com esta Corte Superior ao consignar pela regularidade processual, conforme trecho abaixo:
+No caso concreto, observo que na inicial executiva foi acostada, de fato, apenas a cópia autenticada da nota promissória (evento 3, PROCJUDIC1, p. 14-17).
+Entretanto, ao analisar os autos do processo executivo n. 076/1.14.0000562-1 - cujos autos físicos foram digitalizados, sendo autuado sob o n. 5000096-46.2014.8.21.0076, constato a devida juntada da nota promissória original (Processo n. 5000096-46.2014.8.21.0076, evento 3, PROCJUDIC1, p. 33-35). Necessário ressaltar que essa juntada ocorreu no início do processo executivo, precisamente em setembro de 2014.
+Portanto, ainda que não tenha sido anexado o título executivo original quando do ajuizamento da execução, que ocorreu em 13/05/2014, a falta foi sanada quatro meses depois. Portanto, totalmente descabida a pretensão da parte embargante, na medida em que o título original foi anexado no feito executivo, não havendo risco de circulação.
+Ademais, não se pode olvidar o fato de que a parte executada/embargante jamais contestou a existência do débito e nem arguiu a falsidade da assinatura ali aposta. (e-STJ fls. 150-151 - grifos nossos).
+Alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+- Da ausência de prequestionamento
+Da detida análise dos autos, verifica-se que o acórdão recorrido não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto à o afastamento da condenação em honorários sucumbenciais por violação ao princípio da causalidade, nos termos da alegada ofensa ao art. 85 do CPC, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Ressalto, por oportuno, que mencionada tese foi referida pela primeira vez, tão somente, na petição do Recurso Especial, caracterizando verdadeira inovação da tese de defesa e ausência de debate pelas instâncias ordinárias.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 3% (três por cento) sobre o valor da execução, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. EXECUÇÃO. JUNTADA DO ORIGINAL DO TÍTULO EXECUTIVO. REGULARIDADE PROCESSUAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. PREQUESTIONAMENTO. DISPOSITIVOS LEGAIS. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de embargos à execução.
+2. A juntada da via original do título executivo extrajudicial é, em princípio, requisito essencial à formação válida do processo de execução, visando a assegurar a autenticidade da cártula apresentada e a afastar a hipótese de ter o título circulado, sendo, em regra, nula a execução fundada em cópias dos títulos.
+3. A execução pode, excepcionalmente, ser instruída por cópia reprográfica do título extrajudicial em que fundamentada, prescindindo da apresentação do documento original, principalmente quando não há dúvida quanto à existência do título e do débito e quando comprovado que o mesmo não circulou.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
