@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por SEBASTIÃO AUGUSTO DOS REIS DE JESUS contra decisão do Tribunal de Justiça do Estado do Espírito Santo que inadmitiu o recurso especial.
+O juízo da execução concedeu ao recorrente a progressão para o regime aberto (fls. 116-119). Interposto agravo em execução, o recurso ministerial foi conhecido e provido, a fim de revogar a decisão agravada e determinar a realização do exame criminológico do reeducando (fls. 135-149).
+No recurso especial, interposto com fundamento no art. 105, III, c, da Constituição Federal, sustenta-se que o acórdão recorrido está em dissonância com o entendimento do Superior Tribunal de Justiça, no sentido de que a realização do exame criminológico exige fundamentação concreta, a partir de elementos concretos extraídos da execução penal. Requer-se o provimento do recurso, a fim de desobrigar o agravante de realizar o exame criminológico para fins de progressão ao regime mais benéfico.
+As contrarrazões foram apresentadas (fls. 173-177) e o recurso especial foi inadmitido pelo Tribunal de origem em razão da incidência do óbice da Súmula n. 83 do STJ (fls. 178-181).
+No agravo em recurso especial, a parte sustenta a não incidência do óbice apontado para a não admissibilidade do recurso especial, uma vez que os fundamentos utilizados não encontram respaldo na jurisprudência do STJ a respeito do tema.
+Foi apresentada contraminuta (fls. 190-192).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo conhecimento do agravo para dar provimento ao recurso especial (fls. 215-219), conforme a ementa a seguir:
+DIREITO PROCESSUAL PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. IRRETROATIVIDADE DA LEI Nº 14.843/2024 (NOVATIO LEGIS IN PEJUS). PARECER PELO CONHECIMENTO DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL. I. CASO EM EXAME
+1. O apenado foi condenado à pena de 03 anos e 06 meses de reclusão pela prática do delito de porte ilegal de arma de fogo. A Juíza de Direito da 2ª Vara Criminal de Viana/ES concedeu-lhe a progressão para o regime aberto, sem a realização de exame criminológico.
+2. O Tribunal de origem, ao dar provimento a agravo em execução penal interposto pelo Ministério Público estadual, cassou o benefício anteriormente deferido. A decisão fundamentou-se na nova redação dada pela Lei nº 14.843/2024 ao § 1º do art. 112 da Lei de Execução Penal (LEP), que tornou expressamente obrigatória a realização do exame criminológico para a progressão de regime.
+3. O Agravante, perante o Superior Tribunal de Justiça, pleiteia a reforma do julgado emanado da Corte de Justiça Capixaba, a fim de que lhe seja deferida a progressão ao regime prisional aberto, independentemente da realização de exame criminológico.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a Lei nº 14.843/2024, que alterou o art. 112, § 1º, da Lei de Execução Penal tornando obrigatória a realização do exame criminológico para progressão de regime, pode retroagir para disciplinar a execução de condenações relativas a delitos praticados antes de sua vigência.
+5. Adicionalmente, questiona-se a idoneidade da justificativa para a exigência do exame criminológico baseada na gravidade abstrata do delito ou na mera alteração legislativa, em vez de elementos da execução da pena.
+III. RAZÕES DA MANIFESTAÇÃO
+6. A alteração promovida pela Lei nº 14.843/2024 sobre a redação do art. 112, § 1º, da LEP, ao incrementar requisito para a concessão de progressão de regime, configura novatio legis in pejus, ou seja, uma lei nova mais gravosa.
+7. Conforme o entendimento consolidado na Corte Superior, tal alteração não retroage para disciplinar a execução de condenações relativas a delitos praticados antes da sua vigência, sob pena de contrariar o princípio constitucional da irretroatividade da lei penal mais gravosa (art. 5º, XL, da Constituição Federal e art. 2º do Código Penal).
+8. Mesmo em relação aos crimes cometidos na vigência da redação anterior do dispositivo legal, o exame criminológico não era requisito obrigatório para a progressão do regime prisional, sendo admitida sua determinação em hipóteses excepcionais, conforme as Súmulas nº 439/STJ e Súmula Vinculante nº 26.
+9. No presente caso, a excepcionalidade não foi demonstrada, valendo-se o acórdão recorrido tão somente da alteração legislativa para revogar a concessão da progressão de regime, sem apresentar elementos concretos da execução da pena que justificassem a exigência do exame.
+IV. CONCLUSÃO E TESE
+10. Manifestação pelo conhecimento do agravo para dar provimento ao recurso especial.
+Tese da manifestação: "1. A Lei n. 14.843/2024, que alterou o art. 112, § 1º, da Lei de Execução Penal para exigir o exame criminológico, constitui novatio legis in pejus e não retroage para disciplinar a execução de condenações relativas a delitos praticados antes de sua vigência. 2. A exigência do exame criminológico para a progressão de regime, em casos de delitos cometidos antes da Lei n. 14.843/2024, é excepcional e deve ser fundamentada em elementos concretos da execução da pena, e não na gravidade abstrata do delito ou na mera alteração legislativa.
+É o relatório. Decido.
+O agravo é tempestivo e refere-se aos fundamentos da decisão agravada. Passo, portanto, à análise do recurso especial.
+Conforme relatado, a defesa busca restabelecer a decisão do juízo da execução penal que concedeu a progressão de regime ao reeducando sem a exigência prévia do exame criminológico.
+Acerca da controvérsia, colhe-se do acórdão recorrido (fls. 141-144):
+A nova redação do art. 112 da Lei de execuções penais, conferida pela Lei n.º 14.843/2024, publicada em 11/04/2024, trouxe a obrigatoriedade da submissão do condenado a exame criminológico, para fins de progressão do regime prisional, anteriormente facultado ao juízo da execução, em casos excepcionais e de forma fundamentada, quando necessária sua confecção para a formação do convencimento.
+O art. 112 da LEP, assim dispõe em seu §1º:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+( )
+§1º Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão.
+Sabe-se que a realização do exame criminológico, que não é apenas uma avaliação psiquiátrica, resguarda a defesa da sociedade por buscar aferir o estado de temeridade do apenado, verificando sua real possibilidade de reingresso social. Assim sendo, ainda que adote boa conduta carcerária, é necessário avaliar a periculosidade do detento.
+Em suas razões recursais o Órgão Ministerial registra que "o exame criminológico favorece a individualização da pena ao proporcionar uma avaliação detalhada das características e circunstâncias específicas de cada indivíduo, uma vez que, por meio dessa análise, é possível identificar as necessidades, capacidades, histórico criminal e potencial de ressocialização de cada preso".
+Consta dos autos que o agravado foi condenado a pena de 03 (três) anos e 06 (seis) meses de reclusão, pela prática do crime de porte ilegal de arma de fogo de uso restrito.
+Na hipótese dos autos, verifica-se que a Magistrada proferiu a decisão vergastada em 29/05/2024, ou seja, em momento posterior à Lei nº. 14.843/2024 (publicada em 11/04/2024), de modo que a julgadora deveria observar a imposição da realização do exame criminológico antes de proceder à progressão do regime.
+Nesse sentido, a jurisprudência manifesta-se pela prevalência das normas procedimentais vigentes quando da apreciação do pedido de progressão de regime.
+ ..
+No mesmo sentido manifesta-se a douta Procuradoria de Justiça em seu judicioso parecer, ao consignar que "o exame criminológico, malgrado de utilização eventual, encontra-se em plena vigência no ordenamento jurídico pátrio através da Lei nº 14.843/2024 de 11 de abril de 2024 e constitui instrumento apto e constitucional, para analisar a condição subjetiva do condenado, buscando atender ao princípio da individualização da pena e, de igual forma, implementar uma execução penal mais precisa e eficaz".
+ ..
+Diante de todo exposto e, em conformidade com a douta Procuradoria de Justiça, conheço do agravo em execução penal, DANDO-LHE PROVIMENTO, a fim de revogar a decisão ora combatida e determinar a realização do exame criminológico do reeducando SEBASTIÃO AUGUSTO DOS REIS DE JESUS.  gn .
+Como se vê, o acórdão impugnado não está em consonância com a jurisprudência desta Corte, que se firmou no sentido de que " a  nova norma expressa no art. 112, § 1º, da LEP, não é de caráter procedimental, e, sim, de natureza penal, material, à medida que restringe um benefício da execução penal, qual seja, progressão de regime, ao tornar obrigatória a realização de exame criminológico, que antes era apenas facultativo, desde que bem fundamentado e, por consequência, tornar forçosamente mais moroso o exame dos requisitos para a progressão de regime. Sendo a nova de caráter material, somente pode incidir ao tempo do crime, ou seja, no momento em que a ação ou omissão for praticada (art. 4º do CP), salvo se forem mais benéficas ao executando, situação em que terão efeitos retroativos (art. 2º, parágrafo único, do CP) (HC n. 926.021, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/8/2024)" (AgRg no HC n. 955.775/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Com efeito, as alterações legislativas que modificam requisitos para a concessão de benefícios na execução penal, tornando-os mais rigorosos, têm natureza de direito material e, portanto, submetem-se ao princípio da irretroatividade da lei penal mais gravosa, previsto no art. 5º, XL, da Constituição Federal.
+A propósito:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 112, § 1º, DA LEP. NOVA REDAÇÃO CONFERIDA PELA LEI N. 14.843/2024. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. OBRIGATORIEDADE. NOVATIO LEGIS IN PEJUS. INAPLICABILIDADE, NO CASO. DELITO PRATICADO ANTES DA VIGÊNCIA DA NOVA LEI. PRECEDENTES
+Recurso especial improvido.
+(REsp n. 2.177.416/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025).
+DIREITO PENAL. AGRAVO REGIMENTAL. PROGRESSÃO DE REGIME PRISIONAL. EXAME CRIMINOLÓGICO. CONDENAÇÃO ANTERIOR À LEI N. 14.843/24. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, no qual se alegava violação aos arts. 112 da Lei de Execução Penal e 619 do Código de Processo Penal, em razão da não exigência de exame criminológico para progressão de regime prisional.
+2. O Tribunal de origem fundamentou sua decisão na redação do art. 112 da LEP vigente à época, destacando que o requisito subjetivo para a progressão de regime consiste na comprovação de boa conduta carcerária, atestada pelo diretor do estabelecimento prisional.
+3. A decisão monocrática considerou que a exigência do exame criminológico introduzida pela Lei n. 14.843/2024 não deve ser aplicada retroativamente às condenações anteriores à sua vigência, por configurar novatio legis in pejus.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a exigência de exame criminológico para progressão de regime prisional, introduzida pela Lei n. 14.843/2024, pode ser aplicada retroativamente a condenações anteriores à sua vigência.
+5. Outra questão em discussão é se houve negativa de prestação jurisdicional por parte do Tribunal de origem ao não enfrentar adequadamente os pontos suscitados nos embargos de declaração.
+III. Razões de decidir
+6. A exigência de exame criminológico introduzida pela Lei n. 14.843/2024 não pode ser aplicada retroativamente, pois configura novatio legis in pejus, em conformidade com o art. 5º, XL, da Constituição Federal.
+7. A jurisprudência desta Corte admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada, conforme a Súmula 439/STJ.
+8. O Tribunal de origem enfrentou todas as questões essenciais ao deslinde da controvérsia, não havendo negativa de prestação jurisdicional, pois o julgador não está obrigado a rebater cada um dos argumentos trazidos pela parte.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. A exigência de exame criminológico para progressão de regime prisional, introduzida pela Lei n. 14.843/2024, não pode ser aplicada retroativamente. 2. O exame criminológico é facultativo e depende de decisão motivada, conforme a Súmula 439/STJ. 3. Não há negativa de prestação jurisdicional quando o Tribunal de origem enfrenta todas as questões essenciais ao julgamento."
+Dispositivos relevantes citados: LEP, art. 112; CF/1988, art. 5º, XL; CPP, art. 619.Jurisprudência relevante citada: STJ, RHC 200670, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 20.08.2024; STJ, AgRg no HC 860682, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 11.12.2023.
+(AgRg no AREsp n. 2.182.026/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025)
+Ademais, a exigência automatizada de exame criminológico, sem análise do caso concreto, como no caso dos autos, contraria a jurisprudência consolidada deste Superior Tribunal de Justiça, cristalizada na Súmula 439: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer a decisão do juízo das execuções penais que concedeu a progressão de regime ao recorrente, sem a exigência de exame criminológico.
+Publique-se.
+Intimem-se.
+EMENTA
