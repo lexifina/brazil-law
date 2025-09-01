@@ -1,0 +1,11 @@
+DECISÃO
+Em petição de recurso em habeas corpus, com pedido de medida liminar para a revogação da prisão preventiva, interposto para Felipe Junio Aparecido Neri Lopes, alega-se coação ilegal em relação ao acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+O recorrente foi preso em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido a prisão posteriormente convertida em preventiva.
+A petição aponta a existência de constrangimento ilegal, sustentando que a decisão que decretou a prisão preventiva carece de fundamentação idônea, tendo se limitado a invocar a quantidade de droga apreendida como fundamento exclusivo da segregação, sem apresentar elementos concretos de que a liberdade do paciente representaria risco à ordem pública. Ressalta que o ingresso no domicílio foi ilegal, por ausência de mandado judicial e de fundadas razões que justificassem a medida, o que torna ilícitas as provas obtidas e prejudica o fumus comissi delicti necessário à prisão preventiva. Argumenta, ainda, que não há demonstração de que o entorpecente apreendido lhe pertencia, sendo o paciente primário, com residência fixa e ocupação lícita, além de pai de dois filhos menores de 12 anos de idade, circunstância que autoriza a substituição da custódia por prisão domiciliar, nos termos do art. 318, VI, do Código de Processo Penal.
+Assim, o pedido especifica-se na revogação da prisão preventiva, seja pelo reconhecimento da ilegalidade das provas colhidas, seja pela ausência dos requisitos do art. 312 do CPP , com ou sem aplicação de medidas cautelares diversas previstas no art. 319 do CPP, e, subsidiariamente, na substituição por prisão domiciliar, em atenção à condição pessoal do paciente.
+É o relatório. Decido.
+Em ordem jurídica, em consulta ao sistema processual eletrônico desta Corte, verifica-se a prévia interposição do HC 1025883/MG pelo ora recorrente, também relativo ao HC n. 1.0000.25.251022-7/000, no qual se busca a revogação da prisão preventiva. Tratando-se, pois, de reiteração de pedido anterior, o presente recurso em habeas corpus não deve ser conhecido.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
