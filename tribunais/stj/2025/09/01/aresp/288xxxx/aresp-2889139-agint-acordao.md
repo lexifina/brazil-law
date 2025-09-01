@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182/STJ, pois consignou a ausência de impugnação dos fundamentos da origem que obstou a subida do apelo nobre.
+2. O argumento utilizado na decisão recorrida para não conhecer do agravo em recurso especial não foi objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, §1º, do CPC.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por HAPVIDA ASSISTENCIA MEDICA S.A. contra decisão monocrática da Presidência do STJ por meio da qual apliquei a Súmula n. 182 do STJ.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fls. 445-447):
+APELAÇÃO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA. MENOR PORTADOR DE SÍNDROME DE DOWN, "  , ESQUIZOFRENIA, EPILEPSIA E TDAH. TRATAMENTO MULT1DISCIPLINAR. MÉTODO ABA. COBERTURA OBRIGATÓRIA. EXEGESE DA RESOLUÇÃO NORMATIVA ANS  . 539, DE 23 DE JUNHO DE 2022. INEXISTÊNCIA DE LIMITES PARA SESSÕES. OBRIGAÇÃO DOS TRATAMENTOS ADSTRITOS AOS PROFISSIONAIS DE SAÚDE. DANOS MORAIS. CONFIGURADOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. O CERNE DA CONTROVÉRSIA CINGE-SE EM ANALISAR A EXISTÊNCIA DE ABUSIVIDADE NA CONDUTA DA OPERADORA DE PLANO DE SAÚDE, QUE NÃO CONCEDEU AO BENEFICIÁRIO, MENOR PORTADOR DE SÍNDROME DE DOWN, DIAGNOSTICADO COM TRANSTORNO DE ESPECTRO AUTISTA (TEA), ESQUIZOFRENIA, EPILEPSIA E TRANSTORNO DE DÉFICIT DE ATENÇÃO E HIPERATIVIDADE (TDAH), AS SESSÕES TERAPÊUTICAS DE RECOMENDAÇÃO MÉDICA. 2. NA INICIAL DE FLS. 01/50, NARRA A PARTE AUTORA QUE O MENOR NASCEU COM SÍNDROME DE DOWN E, POSTERIORMENTE, FOI DIAGNOSTICADO COM OUTRAS ENFERMIDADES, UMA DELAS SENDO O TEA - TRANSTORNO DO ESPECTRO AUTISTA. DISCORRE QUE, EM CONSULTA MÉDICA, EM NOVEMBRO DE 2021, ALÉM DE SÍNDROME DE DOWN, EPILEPSIA E AUTISMO, APRESENTOU DISTÚRBIOS DE COMPORTAMENTO, INSÔNIA E DIFICULDADE DE APRENDIZAGEM, DESTACANDO-SE A NECESSIDADE DE ACOMPANHAMENTO MULTIDISCIPLINAR. 3; RELATA QUE O MÉDICO ACRESCENTOU MAIS UMA CID (CLASSIFICAÇÃO INTERNACIONAL DE DOENÇAS) AO QUADRO DO PACIENTE, QUAL SEJA, ESQUIZOFRENIA. ADUZ QUE, EM CONSULTA COM A NEUROPEDIATRA, FOI DETECTADA A NECESSIDADE DE AUMENTO DAS SESSÕES DE TERAPIA, BEM COMO DE SUAS ESPECIALIDADES VOLTADAS PARA O AUTISMO. ASSEVERA QUE O INÍCIO IMEDIATO DAS TERAPIAS MULTIDISCIPLINARES É IMPRESCINDÍVEL PARA O TRATAMENTO DO MENOR, IMPEDINDO O AGRAVAMENTO OU A REGRESSÃO DO SEU QUADRO CLÍNICO. NESSE CONTEXTO NARRA QUE, NA AUTORIZAÇÃO DA HAPVIDA, NÃO SÃO ESPECIFICADAS AS ESPECIALIZAÇÕES DAS TERAPIAS PRESCRITAS NO LAUDO MÉDICO, BEM COMO AS TERAPIAS DE PSICOPEDAGOGIA E TERAPIA ABA NÃO FORAM AUTORIZADAS. 4. INICIALMENTE, CUMPRE RESSALTAR QUE, EM RELAÇÃO Ã PRESTAÇÃO DE TRATAMENTO DE SAÚDE, O ENTENDIMENTO CONSOLIDADO NO C. SUPERIOR TRIBUNAL DE JUSTIÇA É NO SENTIDO DE QUE É ABUSIVA A NEGATIVA DE COBERTURA PELO PLANO DE SAÚDE DE PROCEDIMENTO, TRATAMENTO, MEDICAMENTO OU MATERIAL CONSIDERADO ESSENCIAL PARA PRESERVAR A SAÚDE E A VIDA DO PACIENTE. ADEMAIS, A CORTE SUPERIOR, NO JULGAMENTO DO AGRG NO ARESP 718634, ASSEVEROU POSSUIR ENTENDIMENTO DE QUE, HAVENDO COBERTURA PARA A DOENÇA, CONSEQUENTEMENTE DEVERÁ HAVER COBERTURA PARA PROCEDIMENTO OU MEDICAMENTO NECESSÁRIO PARA ASSEGURAR O TRATAMENTO DE DOENÇAS PREVISTAS NO REFERIDO PLANO. PRECEDENTES. 5. COM EFEITO, A RESOLUÇÃO NORMATIVA ANS Nº. 469/2021 (COM AS ALTERAÇÕES DA RN 543/2022) CONTEMPLA DIVERSOS PROCEDIMENTOS QUE VISAM ASSEGURAR A ASSISTÊNCIA MULTIDISCIPLINAR DOS BENEFICIÁRIOS PORTADORES DO TRANSTORNO DO ESPECTRO AUTISTA (TEA) E GARANTE A ESSES PACIENTES ACESSO A NÚMERO ILIMITADO DE SESSÕES COM PSICÓLOGOS, TERAPEUTAS OCUPACIONAIS E FONOAUDIÓLOGOS PARA O SEU TRATAMENTO, O QUE SE SOMA À COBERTURA ILIMITADA QUE JÁ ERA ASSEGURADA PARA AS SESSÕES COM FISIOTERAPEUTAS. 6. COMO É POSSÍVEL VERIFICAR NA EXPOSIÇÃO DE MOTIVOS  : 3/2022/DIPRO DA ANS É GARANTIDO AO PROFISSIONAL DE SAÚDE A PRERROGATIVA DE INDICAR A CONDUTA MAIS ADEQUADA DA PRÁTICA CLÍNICA, CONFORME SUA PREFERÊNCIA, APRENDIZAGEM, SEGURANÇA E HABILIDADES PROFISSIONAIS, TAL COMO A ABA (ANÁLISE APLICADA DO COMPORTAMENTO).
+Nas razões do agravo interno, o agravante aduz conclui-se que o manejo recursal lançado deve, em realidade, ser admitido, uma vez que o entendimento adotado pelo Tribunal a quo NÃO está em consonância com o entendimento do STJ, o que autoriza, de pronto, a subida dos autos à Corte Cidadã.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada apresentou contrarrazões (fls. 681-684).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182/STJ, pois consignou a ausência de impugnação dos fundamentos da origem que obstou a subida do apelo nobre.
+2. O argumento utilizado na decisão recorrida para não conhecer do agravo em recurso especial não foi objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, §1º, do CPC.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 182/STJ, pois consignou a ausência de impugnação dos fundamentos da origem que obstou a subida do apelo nobre (fl . 666):
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 83/STJ, Súmula 7/STJ (abusividade da recusa de cobertura de sessões de terapia especializada prescritas para o tratamento de transtorno do espectro autista), Súmula 5/STJ, não cabimento de REsp para reexame fático-probatório( inexistência de ato ilícito e a reparação de danos morais) e divergência não comprovada.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ, Súmula 7/STJ (abusividade da recusa de cobertura de sessões de terapia especializada prescritas para o tratamento de transtorno do espectro autista), não cabimento de REsp para reexame fático-probatório ( inexistência de ato ilícito e a reparação de danos morais) e divergência não comprovada.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial.
+Com efeito, o agravo interno não merece conhecimento, porquanto o fundamento utilizado na decisão recorrida para não conhecer do agravo em recurso especial - incidência da Súmula n. 182/STJ em razão da ausência de adequada impugnação - não foi objeto de impugnação nas razões recursais, as quais se limitaram a reiterar as alegações do recurso especial e do agravo em recurso especial.
+Desse modo, forçosa é a incidência do disposto nos arts. 932, III, e 1.021, § 1º, do CPC, segundo os quais não se conhece do recurso que não ataca especificamente os fundamentos da decisão recorrida nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ ..
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Assim, a ausência de impugnação do fundamento para não conhecimento do agravo em recurso especial faz incidir, novamente, na espécie, por analogia, os preceitos da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se estes julgados:
+II - Razões de agravo interno que apresentam combate genérico aos fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+(AgInt no AREsp n. 2.077.483/GO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/9/2022.)
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+(AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.)
+1. Segundo previsto no art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante atacar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 2.066.383/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/9/2022.)
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.960.887/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
