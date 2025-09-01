@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por JOSELIA FERREIRA MOREIRA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que negou provimento à apelação interposta pela agravante.
+A parte agravante às fls. 276-313 sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto.
+Contraminuta apresentada às fls. 326-330.
+O Ministério Público Federal às fls. 863-869 manifestou-se pelo desprovimento do agravo.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Nada obstante entendo ser impossível conhecer do recurso com fulcro na Súmula n. 7 e 83 deste Superior Tribunal de Justiça.
+Como se sabe, a inviolabilidade domiciliar constitui direito fundamental de estatura constitucional, de modo que a ninguém é permitido entrar em um domicílio sem o consentimento do morador, ressalvadas as estritas hipóteses estampadas na Carta Magna, quais sejam, flagrante delito, desastre, para prestar socorro, ou, durante o dia, por determinação judicial.
+Outrossim, o consentimento do morador para ingresso em sua residência, para que seja considerado válido, deve provir de um contexto que lhe permita expressar sua decisão sem pressões exteriores, de forma consciente e informada.
+Na hipótese, verifica-se que o Tribunal recorrido afastou a tese de nulidade das provas obtidas por meio de devassa domiciliar no fato de que o ingresso dos policiais se deu mediante regular cumprimento de mandado de busca e apreensão previamente emitido pelo juízo competente, o que constitui exceção expressamente prevista no art. 5º, inciso XI da Constituição Federal.
+O mandado foi cumprido na residência da agravante, na qual se encontrava a corré que admitiu possuir drogas armazenadas e, ato contínuo, levou os policiais até o imóvel onde estavam guardados os entorpecentes, o que, uma vez mais, não caracteriza incursão ilegal em imóvel alheio.
+Diante do cenário demonstrado, existindo fundadas razões, alicerçadas nas circunstâncias do caso concreto, aptas a indicarem a ocorrência de crime em flagrante, como na hipótese, emerge lícita a conduta dos agentes policiais que ingressam no domicílio, em razão da explícita exceção consignada na parte final do art. 5º, XI, da CF. Neste sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. INGRESSO DOMICILIAR. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário, mantendo a condenação do agravante por tráfico de drogas. A defesa busca o reconhecimento da nulidade das provas obtidas em flagrante, alegando ausência de fundadas razões para o ingresso domiciliar sem mandado judicial.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar a legalidade do ingresso domiciliar sem mandado judicial e a validade das provas obtidas em decorrência desse ato.
+III. Razões de decidir
+3. A decisão agravada analisou de forma fundamentada os elementos informativos, não vislumbrando ilegalidades flagrantes.
+4. O ingresso domiciliar foi justificado por fundadas razões, consistentes no flagrante do acusado ao dispensar drogas em frente à residência.
+5. A jurisprudência do STJ admite o ingresso sem mandado em casos de flagrante delito, especialmente em crimes de natureza permanente.
+6. A defesa técnica foi regularmente intimada e optou por não recorrer, não havendo nulidade processual.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido. (AgRg no RHC 193501/MS, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/10/2024).
+Assim, para infirmar o que restou decidido pelo Tribunal de origem, com o objetivo de reconhecer a suposta nulidade aventadas e a ilicitude das provas obtidas, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em sede de recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+Outrossim, defende a agravante em suas razões que a condenação pelo delito de associação para o tráfico foi indevida, eis que não demonstrados os elementos da estabilidade e permanência que devem caracterizar aquele tipo penal.
+Sobre a questão pontuou a Corte recorrida que tais requisitos puderam ser comprovados a partir da confissão da corré que admitiu a mercancia ilícita, tendo inclusive conduzido os policiais até o local de armazenamento das drogas. Salientou, ainda, que a quantidade e variedade de drogas apreendias, o encontro de balança de precisão e de embalagens para o preparo da venda dos entorpecentes seriam fatores aptos a caracterizar os elementos que permitem a tipificação do delito associativo.
+Como se sabe, o direito processual é regido pelo princípio da dialeticidade, segundo o qual os recursos devem impugnar concreta e especificamente os fundamentos suficientes para manterem a íntegra da decisão recorrida, demonstrando, ponto a ponto, os motivos do eventual desacerto do julgado contestado.
+Na espécie, entretanto, verifico que o agravante não enfrentou adequadamente os fundamentos que ensejaram a incidência do óbice apontado pelo Tribunal de origem para inadmitir o apelo nobre no que tange à caracterização do delito adrede mencionado.
+Embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tais quais descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador. A propósito:
+"É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016)" (AgRg no AREsp n. 2.153.967/TO, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 23/6/2023)
+"Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.713.116/PI, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 8/8/2022)
+Na hipótese, o que se percebe é que busca a agravante não somente a rediscussão jurídica atribuível à narrativa fática, mas sim a reavaliação do conteúdo probatório produzido, medida que encontra óbice no enunciado sumular nº 7 do STJ. No mesmo sentido:
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REVISÃO DOS FATOS E PROVAS QUE CONDUZIRAM À CONDENAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO IDÔNEA. REFORMATIO IN PEJUS. OCORRÊNCIA. FIXAÇÃO DA PENA DE MULTA. RECURSO PARCIALMENTE PROVIDO. I. CASO EM EXAME
+ ..  6. A análise das provas pelo Tribunal de origem foi considerada suficiente para a condenação, não havendo ofensa ao art. 386 do CPP, e a revisão das conclusões demandaria revolvimento fático-probatório, vedado pela Súmula 7 do STJ.
+ .. IV. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, A FIM DE RESTABELECER A PENA DE MULTA FIXADA NA SENTENÇA CONDENATÓRIA. (AREsp 2166092/RR, Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJe em 04/12/2024).
+Em consequência, demonstrada a adequada tipificação do delito associativo, afasta-se a possibilidade de aplicação do privilégio constante no art. 33, parágrafo 4º da lei nº 11.343/06, bem como impõe-se a manutenção do regime inicial de cumprimento de pena, sendo inviável a substituição da pena privativa de liberdade por restritivas de direitos, porquanto não preenchidos os critérios do art. 44 do Código Penal.
+Logo, impossível aceder com a recorrente.
+Ante o exposto, com fundamento no art. 253, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
