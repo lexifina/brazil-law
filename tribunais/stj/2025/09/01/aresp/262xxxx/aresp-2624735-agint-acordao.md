@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE RECURSAL. EXONERAÇÃO PLENA DA FIANÇA. REVISÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial por intempestividade. A parte agravante alega erro do Tribunal de Justiça de Minas Gerais ao bloquear o acesso à Resolução n. 458/2004, que comprovaria feriados locais e, consequentemente, a tempestividade do recurso.
+2. O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais em apelação nos autos de ação de cobrança.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a superveniência da Lei n. 14.939/2024, que caracteriza fato novo, é aplicável às situações não transitadas em julgado que discutam a tempestividade recursal; e (ii) saber se a exoneração da fiança deve ser plena, considerando a repactuação de valor e prazo de pagamento de débitos sem a participação do fiador.
+III. RAZÕES DE DECIDIR
+4. A superveniência da Lei n. 14.939/2024 caracteriza fato novo aplicável às situações não transitadas em julgado que discutam a tempestividade recursal, permitindo a superação da intempestividade.
+5. A Corte estadual concluiu que a desobrigação do fiador se limita à última parcela do acordo, não se estendendo às demais parcelas, conforme interpretação das cláusulas contratuais e do art. 39 da Lei n. 8.245/1991. A revisão da conclusão adotada na origem demandaria reexame de fatos e provas, o que é vedado em recurso especial, conforme as Súmulas n. 5 e 7 do STJ.
+6. A parte recorrente não rebateu o fundamento do acórdão recorrido, atraindo a incidência das Súmulas n. 283 e 284 do STF.
+7. A parte recorrente não atendeu aos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+IV. DISPOSITIVO E TESE
+8. Agravo interno desprovido.
+Tese de julgamento: "1. A superveniência de legislação que altera a contagem de prazos recursais pode ser aplicada a casos não transitados em julgado. 2. A revisão das conclusões adotadas na origem demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ. 3. A ausência de impugnação a fundamento suficiente do acórdão recorrido atrai a incidência das Súmulas n. 283 e 284 do STF. 4. A parte recorrente deve atender aos requisitos essenciais para a comprovação do dissídio jurisprudencial".
+Dispositivos relevantes citados: Código Civil, arts. 366, 819, 838, I, 844, § 1º; Lei n. 8.245/1991, art. 39.
+Jurisprudência relevante citada: STJ: Questão de Ordem no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgada em 5/2/2025; STJ, Súmulas n. 5 e 7; STF; Súmulas n. 283 e 284.
+RELATÓRIO
+Trata-se de agravo interno interposto por DALTON DORNAS FERREIRA contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do recurso em razão da sua intempestividade.
+A parte agravante alega que houve erro do Tribunal de Justiça de Minas Gerais ao bloquear o acesso à Resolução n. 458/2004, que comprova feriados locais nos dias 12, 13 e 14 de fevereiro de 2024 e demonstram a tempestividade do recurso.
+Requer a reconsideração da decisão ou que o Superior Tribunal de Justiça conheça do recurso especial e lhe dê provimento.
+As contrarrazões não foram apresentadas (fl. 524).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE RECURSAL. EXONERAÇÃO PLENA DA FIANÇA. REVISÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial por intempestividade. A parte agravante alega erro do Tribunal de Justiça de Minas Gerais ao bloquear o acesso à Resolução n. 458/2004, que comprovaria feriados locais e, consequentemente, a tempestividade do recurso.
+2. O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais em apelação nos autos de ação de cobrança.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a superveniência da Lei n. 14.939/2024, que caracteriza fato novo, é aplicável às situações não transitadas em julgado que discutam a tempestividade recursal; e (ii) saber se a exoneração da fiança deve ser plena, considerando a repactuação de valor e prazo de pagamento de débitos sem a participação do fiador.
+III. RAZÕES DE DECIDIR
+4. A superveniência da Lei n. 14.939/2024 caracteriza fato novo aplicável às situações não transitadas em julgado que discutam a tempestividade recursal, permitindo a superação da intempestividade.
+5. A Corte estadual concluiu que a desobrigação do fiador se limita à última parcela do acordo, não se estendendo às demais parcelas, conforme interpretação das cláusulas contratuais e do art. 39 da Lei n. 8.245/1991. A revisão da conclusão adotada na origem demandaria reexame de fatos e provas, o que é vedado em recurso especial, conforme as Súmulas n. 5 e 7 do STJ.
+6. A parte recorrente não rebateu o fundamento do acórdão recorrido, atraindo a incidência das Súmulas n. 283 e 284 do STF.
+7. A parte recorrente não atendeu aos requisitos essenciais para a comprovação do dissídio jurisprudencial, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+IV. DISPOSITIVO E TESE
+8. Agravo interno desprovido.
+Tese de julgamento: "1. A superveniência de legislação que altera a contagem de prazos recursais pode ser aplicada a casos não transitados em julgado. 2. A revisão das conclusões adotadas na origem demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ. 3. A ausência de impugnação a fundamento suficiente do acórdão recorrido atrai a incidência das Súmulas n. 283 e 284 do STF. 4. A parte recorrente deve atender aos requisitos essenciais para a comprovação do dissídio jurisprudencial".
+Dispositivos relevantes citados: Código Civil, arts. 366, 819, 838, I, 844, § 1º; Lei n. 8.245/1991, art. 39.
+Jurisprudência relevante citada: STJ: Questão de Ordem no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgada em 5/2/2025; STJ, Súmulas n. 5 e 7; STF; Súmulas n. 283 e 284.
+VOTO
+Consoante alegado pela parte nas razões recursais, a controvérsia debatida no agravo interno restringe-se à tempestividade do recurso.
+Registre-se que a superveniência da Lei n. 14.939/2024 caracteriza fato novo aplicável às situações não transitadas em julgado que discutam a tempestividade recursal (Questão de Ordem no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgada em 5/2/2025).
+Desse modo, considerando a apresentação de documento (fls. 539 e 542) que comprova a existência de feriado local, entendo ser caso de ultrapassar a intempestividade do recurso para novo exame de admissibilidade.
+No agravo em recurso especial, a parte agravante refuta o fundamento de inadmissibilidade do recurso especial de incidência da Súmula n. 7 do STJ.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça de Minas Gerais em apelação nos autos de ação de cobrança.
+O julgado foi assim ementado (fl. 312):
+APELAÇÃO CÍVEL - PRETENSÃO DE COBRANÇA - ALUGUÉIS E ACESSÓRIOS - EXONERAÇÃO DA FIANÇA - CONCESSÃO DA MORATÓRIA PELO LOCADOR AO LOCATÁRIO EM RAZÃO DO ALONGAMENTO DO TERMO - FIADOR DESOBRIGADO - MULTA MORATÓRIA CONTRATUAL - REDUÇÃO - NÃO CABIMENTO - INCORREÇÕES NO CÁLCULO - JUROS E MULTA - INCIDÊNCIA APENAS SOBRE O PRINCIPAL - ADIMPLEMENTO PARCIAL - NECESSIDADE DE ATUALIZAÇÃO. 1. Nos termos do artigo 838, inciso I, do Código Civil, o fiador ficará desobrigado quando, sem o seu consentimento, o locador conceder moratória ao locatário. 2. Para que seja configurada a moratória apta a extinguir a garantia, não é necessária uma compensação econômica, uma vez que o simples alongamento do termo, ainda que sem acréscimo no valor da dívida, já atrai uma situação desfavorável ao fiador, que permanecerá exposto por prazo superior ao inicialmente acordado, nisto residindo o agravamento do risco de inadimplemento. 3. Diante da interpretação restritiva da fiança (Código Civil, art. 819) e, considerando que a concessão de parcelamento e novo prazo para pagamento pelo locador, sem a anuência do garantidor, gera um agravamento do risco do garante (exposição prologada), resta configurada a moratória apta a desobrigar o fiador quanto aos termos do acordo. 4. O artigo 413 do Código Civil permite a redução equitativa da penalidade, quando a obrigação for cumprida em parte, ou quando o montante alcançar patamar manifestamente excessivo, considerando a natureza e a finalidade do negócio. Entretanto, já que o percentual da multa moratória não alcança patamar abusivo e considerando a praxe mercadológica adotada em contratos de locação, não há que se falar em excesso da penalidade capaz de ensejar a sua redução. 5. Os juros de mora e a multa contratual devem ser calculados separadamente, sem acréscimo de qualquer encargo, nos termos do contrato firmado entre as partes. 6. Assim como o valor da dívida, a parcela já adimplida pelo devedor também merece atualização monetária, já que representa mera recomposição da moeda.
+Os embargos de declaração opostos por Jéssica Oliveira Andrade foram assim rejeitados (fl. 359):
+Embargos de declaração. Omissão inexistente. Aplicação de multa. Possibilidade. Caráter protelatório. 1. Ausentes apontados vícios formais, não devem ser acolhidos os embargos, que não se prestam ao reexame do contexto fático-probatório. 2. Diante do caráter protelatório dos embargos declaratórios, impõe-se a aplicação da multa prevista no §2º do art. 1.026 do Código de Processo Civil.
+Os embargos de declaração opostos por Dalton Dornas Ferreira foram decididos nesses termos (fl. 405):
+Embargos de declaração - Obscuridade no acórdão - Existência - Condenação indevida - Esclarecimento. Constatado o vício de obscuridade no acórdão embargado, os embargos merecem acolhimento.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos art. 366, 819, 838, I, e 844, § 1, do Código Civil.
+Alega que a exoneração da fiança deve ser plena, pois houve repactuação de valor e prazo de pagamento de débitos sem a participação do recorrente.
+Afirma que a novação feita sem o consenso do fiador implica sua exoneração e que a concessão de moratória pelo credor desobriga o fiador.
+Transcreve ementa de julgado do Superior Tribunal de Justiça a fim de demonstrar que o Tribunal de origem divergiu de entendimento do STJ ao limitar a exoneração da fiança apenas à última parcela do acordo.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, julgando-se improcedentes os pedidos exordiais.
+As contrarrazões foram apresentadas (fls. 444-450).
+A controvérsia diz respeito à ação de cobrança em que a parte autora pleiteou o pagamento de aluguéis e acessórios inadimplidos, além de multa moratória sobre os valores devidos, dando à causa o valor de R$ 18.758,78.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando os réus ao pagamento de R$14.370,65.
+A Corte estadual deu parcial provimento à apelação de Dalton Dornas Ferreira, reconhecendo a exoneração parcial da fiança apenas quanto à última parcela do acordo celebrado entre locadora e locatária.
+No recurso especial, a parte recorrente alega que a exoneração da fiança deve ser plena, pois houve repactuação de valor e prazo de pagamento de débitos sem a participação do recorrente.
+A Corte estadual, soberana na análise dos fatos e provas dos autos e na interpretação de cláusulas contratuais, concluiu que a desobrigação do fiador se limita à última parcela do acordo do qual não participou, não se estendendo, entretanto, às demais parcelas não contempladas no acordo firmado entre as partes.
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que a exoneração da fiança deve ser plena, seria imprescindível o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ.
+Ademais, o Tribunal a quo fundamentou que a desobrigação do fiador não se estende às demais parcelas não contempladas no acordo firmado entre as partes, conforme teor do art. 39 da Lei n. 8.245/1991 de que a garantia da locação se estende até a efetiva devolução do imóvel.
+A parte recorrente, contudo, limitando-se a defender a exoneração da fiança pela não participação do fiador na repactuação dos débitos, em momento algum rebateu o fundamento do acórdão recorrido, suficiente para a manutenção do julgado, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
