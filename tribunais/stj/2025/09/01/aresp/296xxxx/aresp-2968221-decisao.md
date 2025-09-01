@@ -1,0 +1,54 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HOSPITAL E MATERNIDADE SAO JOSE contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/4/2025.
+Concluso ao gabinete em: 22/8/2025.
+Ação: indenização por danos estéticos e compensação por danos morais ajuizada por M. V. D. G. A. S. F. em face do agravante.
+Sentença: julgou improcedente o pedido inicial.
+Acórdão: deu parcial provimento à apelação interposta pela agravada, nos termos da ementa a seguir (e-STJ fls. 583-585):
+APELAÇÃO CÍVEL AÇÃO DE INDENIZAÇÃO POR DANOS ESTÉTICOS E DANOS MORAIS - ERRO MÉDICO - ALEGADA FALHA EM TRABALHO DE PARTO REALIZADO NO HOSPITAL E MATERNIDADE SÃO JOSÉ - LESÃO DE PLEXO BRAQUIAL EM RECÉM-NASCIDO - FETO EM POSIÇÃO PÉLVICA CIRCUNSTÂNCIAS PRÉVIAS DESFAVORÁVEIS QUE RECOMENDAVAM O PARTO NA MODALIDADE CESARIANA PORTARIA Nº 306/2016 DO MINISTÉRIO DA SAÚDE INSISTÊNCIA DE REALIZAÇÃO DE PARTO NORMAL QUE ACARRETARAM NA LESÃO AO BEBÊ ELEMENTOS CARREADOS AO FEITO QUE AUTORIZAM A CONCLUSÃO QUE HOUVE FALHA NO PROTOCOLO MÉDICO -DANOS ESTÉTICOS NÃO CONFIGURADOS - AUSÊNCIA DE COMPROVAÇÃO DE LESÃO VISÍVEL PASSÍVEL DE INDENIZAÇÃO À PARTE AUTORA - DANOS MORAIS DEVIDOS - FIXAÇÃO EM R$ 10.000,00 (DEZ MIL REAIS) - ESTIMATIVA EM FUNÇÃO DA GRAVIDADE DO DANO, DE SUA REPERCUSSÃO E DA CAPACIDADE ECONÔMICA DAS PARTES - SENTENÇA REFORMADA EM PARTE - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Embargos de Declaração: opostos pelo agravante, foram acolhidos parcialmente, conforme a seguinte ementa (e-STJ fls. 605-606):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS ESTÉTICOS E DANOS MORAIS - ERRO MÉDICO ALEGAÇÃO DE OMISSÃO E OBSCURIDADE SIMPLES REEXAME DA MATÉRIA IMPOSSIBILIDADE MERO INCONFORMISMO PREQUESTIONAMENTO FICTO - ART. 1.025 DO CPC/15 - ALEGAÇÃO DE ERRO MATERIAL - VÍCIO SANADO - EMBARGOS CONHECIDOS E PARCIALMENTE PROVIDOS - DECISÃO UNÂNIME.
+Recurso especial: alega violação dos arts. 489, IV; 1.014, e 1.022, todos do CPC; 14, § 4º, do CDC, e 4º da Lei 12.842/2013. Além de negativa de prestação jurisdicional, sustenta, além da preclusão, a excludente de responsabilidade do Hospital, sob o argumento de que, "Ao desconsiderar o contexto emergencial do atendimento e imputar responsabilidade com base em diretrizes administrativas genéricas, o acórdão contrariou o dispositivo" (e-STJ fl. 624).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da responsabilidade civil objetiva do hospital e da responsabilidade subjetiva do médico, diante de erro médico (e-STJ fls. 589-592), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 1.014 do CPC e 4º da Lei 12.842/2013, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Do reexame de fatos e provas
+O TJ/SE, ao analisar o recurso interposto pela agravada, concluiu o seguinte (e-STJ fls. 589-592):
+De início, cumpre salientar que o dano alegado é incontroverso, seja pelas provas documentais acostadas aos autos com as iniciais, seja em virtude da peça de contrarrazões não contradizer o trauma alegado.
+A ação/omissão, por sua vez, está pautada na conduta da médica de insistir em um procedimento (parto normal), quando a ultrassonografia médica apontava que o feto estava em posição pélvica.
+O nexo causal, se encontra no liame da ultrassonografia realizadas antes do parto (págs. 92/97), aos quais além de afirmar a posição pélvica do feto, atestam normalidade no desenvolvimento fetal.
+E não somente isso, mas além do conhecimento leigo/popular dos riscos estabelecidos em um parto normal em gestação em que o feto encontra-se em posição pélvica. O próprio Ministério da Saúde trata sobre tema, por meio da portaria nº 306/2016, em que Aprova as Diretrizes de Atenção à Gestante: a operação cesariana.
+A portaria apresenta que ipsis litteris "a operação cesariana é recomendada para gestantes com fetos em apresentação pélvica." E mais, o texto afirma que a versão cefálica externa é recomendada a partir de 36 semanas de idade gestacional, mediante termo de consentimento informado, ou seja, em momento anterior ao procedimento de parto.
+A versão cefálica externa (VCE) é uma manobra que consiste em deixar em apresentação cefálica (de cabeça pra baixo) um bebê que estava em apresentação pélvica (sentado) ou transversa (atravessado) na gravidez próxima ao termo (nono mês), aumentando as chances de um parto normal de um bebê cefálico.
+A portaria, ainda acrescenta que "Na situação de a mulher decidir por um parto pélvico vaginal, é recomendado que seja informada sobre o maior risco de morbidade e mortalidade perinatal e neonatal e que a assistência seja realizada por profissionais experientes na assistência ao parto pélvico, mediante termo de consentimento informado."
+Segundo do que consta nos autos, sobretudo no relatório de EVOLUÇÃO DE ENFERMAGEM da parturiente e do recém-nascido (pág. 263/264 e 271/272), que a requerente foi admitida no Hospital com apresentação cefálica (pélvica) e que o recém-nascido nasceu de parto natural pélvico e, devido a complicações no desenvolvimento normal do parto, foi necessária a realização de um corte na região do períneo da genitora. Consta ainda que o recém-nascido se apresentou sem choro e com movimentos respiratórios e reflexos diminuídos, onde foi necessária a entubação e transferência para o Hospital Santa Isabel, o que evidencia grave dano ao bebê no momento do parto.
+Acontece que já havia exames indicando que o feto se posição pélvica e nesses casos, como já dito, a encontrava na aludida Portaria do Ministério da Saúde recomenda a realização parto de cesariano.
+Por tal razão, o parto cesariano, uma vez contatadas a falta de desenvolvimento do parto normal, reduziria consideravelmente a ocorrência tanto transitória como permanente de lesão do plexo braquial, notadamente quando o feto não se encontra na posição ideal para o parto normal, como foi o caso aqui tratado (posição pélvica).
+Logo, a meu sentir, extrai-se que o corpo médico da maternidade não empregou os métodos e tratamentos mais adequados ao caso.
+Assim, inclino-me no sentido de que, efetivamente, a conduta do corpo médico da maternidade não foi a mais apropriada.
+Firmo tal convicção a partir dos termos da portaria do Ministério da Saúde supracitada e, sobretudo, porque há exames pré-natais, bem como 04 (quatro) ultrassonografias (págs. 92/97), os quais revelam que o bebê se encontrava em posição pélvica, de modo que era contraindicado, onde as chances de desenvolvimento do parto normal são menores e o rompimento da bolsa amniótica da mãe podem gerar sequelas graves, como é o caso dos autos.
+Observe-se, portanto, que os profissionais do hospital tinham pleno conhecimento que o feto estava em posição não indicada para a realização de parto normal, de maneira que ainda que o médico adote manobras no sentido de ajudar o bebê a encaixar-se na posição cefálica, é certo que tal pode acarretar riscos, os quais, infelizmente, se concretizaram na criança.
+Portanto, vejo como bem delineados a conduta do Estado e a ocorrência do dano, pois está constatado que a lesão ocorreu em função da insistência em realizar o parto normal e que, de fato, houve falha no emprego do método adequado ao caso ora tratado, exsurgindo o dever de indenizar.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 3% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS ESTÉTICOS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos estéticos e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
