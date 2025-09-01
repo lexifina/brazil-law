@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, ajuizado em favor de MATHEUS DE ALMEIDA ROMANELLI LOPES - condenado por incurso no art. 2º da Lei n. 12.850/201 3 e nos arts. 159, § 1º, e 146, § 1º, do Código Penal, às penas de 17 anos e 10 meses de reclusão e 6 meses de detenção, em regime inicial fechado, mais 38 dias-multa -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação n. 0012762-59.2018.8.19.0213), não comporta processamento.
+Com efeito, busca a impetração a concessão da ordem, ainda que de ofício, para a declaração da nulidade do reconhecimento pessoal, por violação do art. 226 do CPP, e da ausência de justa causa, reconhecendo-se a ilicitude de provas para fins de devolução dos autos à origem para produção probatória regular ou para a absolvição do paciente nos termos do art. 386, VII, do CPP (fl. 18).
+Ocorre que, em consulta ao sistema de informações processuais, verifiquei que a presente impetração foi ajuizada concomitantemente à interposição de agravo contra a decisão que inadmitiu o recurso especial interposto pela defesa, configurando, além de ofensa à unirrecorribilidade, utilização abusiva do writ, o que torna inadmissível a apreciação do pedido.
+Ademais, não se evidencia a apontada ilegalidade, considerando que, para desconstituir a convicção da Corte estadual quanto à existência de prova suficiente da autoria delitiva, imprescindível seria o reexame do acervo fático-probatório, providência inviável de se promover no rito célere e estreito do habeas corpus; e, quanto à alegada nulidade do reconhecimento pessoal, a questão nem sequer foi enfrentada pela Corte a quo, a atrair o óbice da supressão de instância.
+Pelo exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ARTS. 2º DA LEI N. 12.850/2013 E 159, § 1º, E 146, § 1º, DO CP. ABSOLVIÇÃO. NULIDADE DO RECONHECIMENTO PESSOAL E FRAGILIDADE PROBATÓRIA. IMPETRAÇÃO SIMULTÂNEA A AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Writ indeferido liminarmente.
