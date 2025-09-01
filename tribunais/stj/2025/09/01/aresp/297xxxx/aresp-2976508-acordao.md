@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. PLANO DE SAÚDE. COBERTURA. OMISSÃO. NÃO OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  Tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+3 . Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S/A contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Plano de saúde. Paciente que deu entrada em pronto- socorro, recomendada internação e realização de "tratamento endovascular com divisão em 2 etapas para minimizar risco de paraplegia". Autorização em parte concedida, recusados apenas materiais, e pelo seu custo. Alegação de que ainda deve ser cumprido o prazo de Cobertura Parcial Temporária, haja vista o autor ser portador de doença cardiovascular preexistente. Decorrido o prazo previsto em contrato para hipóteses de urgência, configurada no caso concreto. Dano moral existente. Indenização devida. Sentença mantida. Recurso desprovido." (e-STJ fl. 449).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 462/464).
+No recurso especial, a parte recorrente alega violação do art. 1.022 do Código de Processo Civil, pois o aresto foi omisso quanto ao art. 11 da Lei 9.656/1998 que "(..) garante que a cobertura de doenças preexistentes somente ocorrerá após o prazo de 24 meses. Em outras palavras, o dispositivo de Lei afirma que não haverá cobertura de doenças até o implemento deste termo" (e-STJ fl. 478).
+Aponta, ainda, afronta ao art. 11 da Lei nº 9.656/1998, sob o argumento de que
+"(..) a doença que atualmente aflige o autor não teria cobertura contratual, pelo prazo de 24 meses, para acesso leitos cirúrgicos, de UTI e demais procedimentos de alta complexidade.
+Não há neste contexto, irregularidade na negativa apresentada porquanto incumbe a Operadora a gestão adequada dos recursos dos beneficiários vinculados ao contrato, com atenção mutualismo contratual, o que inclui os prazos fixados para a carência." (e-STJ fl. 471).
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. PLANO DE SAÚDE. COBERTURA. OMISSÃO. NÃO OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  Tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+3 . Agravo conhecido para conhecer em parte do recurso especial e negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal recorrido manifestou-se expressamente quanto à cobertura do procedimento cirúrgico, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+"Consta dos autos de origem que o plano do autor foi contratado em 26 de outubro de 2022, com início de vigência no dia 26 de dezembro de 2022, na rede ambulatorial e hospitalar. Juntaram-se na origem os termos da proposta, da carteirinha expedida e do contrato (fls. 69/165).
+Consta ainda que, no dia 20 de outubro de 2023, o autor deu entrada no Pronto Socorro do Hospital São Camilo, então recomendada internação e realização de "tratamento endovascular com divisão em 2 etapas para minimizar risco de paraplegia" (fls. 65/68 da origem).
+Ainda conforme o mesmo relatório médico de fls. 65/68 da origem, embora a primeira etapa do procedimento cirúrgico tenha sido realizada com sucesso, "o paciente se encontra internado aguardando o segundo procedimento há mais de 4 semanas" e "a segunda etapa da cirurgia precisa ser realizada nessa internação, pois, como foi realizada a septoplastia da aorta, existe o risco de desestabilização do aneurisma de ilíaca com maior chance de ruptura".
+Nesse contexto, o médico cirurgião vascular do autor solicitou a análise do "pedido com urgência", mas, ao que consta, o procedimento não foi integralmente autorizado pela ré (fls. 166/167 da origem).
+Verdade que, quando da celebração do contrato de plano de saúde, o beneficiário declarou ter sofrido infarto e passado pela colocação de "stent" em dezembro de 2016, bem assim ser portador de doença cardiovascular (fls. 82/83 da origem). Outrossim, do contrato celebrado entre as partes também consta prazo de 24 meses de cobertura parcial temporária para as doenças preexistentes (fls. 87 da origem).
+A esse respeito, tem-se que, embora não se vede a previsão de carências em seguros e planos de saúde, bem observa Cláudia Lima Marques, com base em larga jurisprudência, que se trata de cláusula sob suspeita, exatamente porque, conforme o tempo fixado, retira do consumidor a eficácia do atendimento coberto, desequilibrando o ajuste e quebrando o dever de cuidado e lealdade com o parceiro contratual, imposto pelo princípio da boa-fé objetiva, em sua função supletiva (v. Contratos no CDC, 4a ed., RT, p. 854-857).
+De qualquer modo, e em princípio, decorridas "in casu" mais de 24 horas do início de vigência do plano do autor, ausente causa aparente para recusa do procedimento cirúrgico medicamente lhe indicado. Assim porque o prazo a respeito cogitável teoricamente é o previsto no artigo 12, inciso V, alínea "c" da Lei n. 9.656/98, segundo o qual, quando houver previsão de prazos de carência nos contratos de saúde, o prazo máximo será de 24 horas para a cobertura dos casos de urgência e emergência.
+Neste mesmo sentido, prevê a Súmula n. 103 deste Tribunal que "é abusiva a negativa de cobertura em atendimento de urgência e/ou emergência a pretexto de que está em curso período de carência que não seja o prazo de 24 horas estabelecido na Lei n. 9.656/98.".
+(..)
+Outrossim, a própria condição de oferta do plano refere, para os casos de urgência e emergência, apenas a carência de 24 horas (fls. 74 e 76 da origem).
+Quanto à previsão do § 1º do artigo 3º da Resolução n. 13 do CONSU, a hipótese de incidência de tal preceito é o atendimento de urgência ou emergência efetuado quando ainda pendente período de carência. Mas, se o período de carência já foi superado por se tratar de atendimento de urgência, que é de 24 horas nos termos das próprias tabelas juntadas, então a aplicação do dispositivo não parece se justificar.
+De se destacar ainda que, embora a agravante argumente nos autos que não há cobertura da cirurgia do agravado por ainda estar em curso prazo de carência para a cobertura de doença preexistente, no âmbito administrativo a operadora autorizou parcialmente a realização do procedimento vascular no beneficiário, tendo procedido à recusa apenas de materiais de alto custo (fls. 166/167 da origem) o que configura comportamento contraditório e aponta para a existência de indevida recusa com base em análise de custo- benefício para a empresa, em detrimento da saúde do consumidor".
+Agora, nesta oportunidade, não se entende que as razões do apelo infirmem os fundamentos do quanto consignado no julgamento do agravo de instrumento, especialmente tendo em vista que a apelante se limitou a reiterar a alegação de que o autor ainda deveria cumprir o prazo de Cobertura Parcial Temporária CPT.
+A negativa de cobertura, portanto, foi indevida." (e-STJ fls. 451/455-grifou-se).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+Ademais, dos excertos acima transcritos, registra-se não ser possível afastar a incidência da Súmula nº 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É o voto.
