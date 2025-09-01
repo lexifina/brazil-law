@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AUSÊNCIA. ACÓRDÃO PROFERIDO EM EMBARGOS DE DECLARAÇÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS NºS 283 E 284/STF.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. A ausência de impugnação a fundamento suficiente para manter o acórdão recorrido incólume atrai a incidência das Súmulas nºs 283 e 284/STF à espécie.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BANCO BRADESCO S.A.  contra  a  decisão  de  e-STJ  fls.  759/761 que  conheceu  do  agravo  para  conhecer  em parte  do  recurso  especial  e, nessa extensão, negar-lhe provimento em virtude da ausência de deficiência na prestação jurisdicional na origem, e da incidência das Súmulas nºs 283 e 284 do STF quanto à supressão de instância reconhecida no acórdão que julgou os embargos de declaração.
+Em  suas  razões (e-STJ fls. 451/458),  a  agravante  reitera a "a negativa de prestação jurisdicional, na medida em que há a possibilidade de aferir a exigibilidade e liquidez dos créditos em questão, com a produção de laudo pericial contábil" (e-STJ fl. 805).
+Afirma que as Súmulas nºs 283 e 284/STJ não tem aplicação no caso, por que
+"Basta que se verifique o exposto em seu agravo ao STJ (fl. e-STJ 699), reforçando o exposto em seu recurso especial, no sentido de que a "o pedido foi formulado desde a impugnação ao cumprimento de sentença e, mais, o cerceamento de defesa deveria ter sido reconhecido até mesmo de ofício, por constituir vício de nulidade com natureza de ordem pública, sendo certo que o Eg. TJPR, ao invés de simplesmente rejeitar a tese do Agravante, poderia (deveria) ter cassado a decisão originária, para determinar a produção da imprescindível perícia" (g.n.)." (e-STJ fl. 805).
+Aduz que
+"Por fim, a r. decisão também deve ser reformada, conhecendo e dando provimento a este agravo interno, quanto ao ponto da violação aos arts. 369 e 370, p. único, do CPC, e art. 884, do CC, pois ainda que tenha feito constado em relatório (e- STJ fl. 760), deixou de analisar a matéria" (e-STJ fl. 806).
+A  parte  contrária  apresentou  impugnação  .
+É  o  relatório.
+EMENTA
+  AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AUSÊNCIA. ACÓRDÃO PROFERIDO EM EMBARGOS DE DECLARAÇÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS NºS 283 E 284/STF.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. A ausência de impugnação a fundamento suficiente para manter o acórdão recorrido incólume atrai a incidência das Súmulas nºs 283 e 284/STF à espécie.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Conforme  expresso  na  decisão  atacada,  no tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, ao julgar os embargos de declaração, o Tribunal de Justiça manifestou-se expressamente quanto às questões suscitadas pelo ora recorrente, conforme se verifica do seguinte trecho do acórdão:
+"Especificamente no tocante ao eventual cerceamento de defesa, é certo que a parte Embargante 2 em momento algum nas razões do Agravo de Instrumento menciona a necessidade de realização de perícia contábil a fim de apurar eventuais créditos em seu favor existentes anteriormente ao pedido de recuperação judicial.
+Se eventual requerimento foi formulado no juízo de origem, a questão não foi novamente suscitada perante esta Corte de Justiça, de modo que não é possível analisar o pedido sob pena de supressão de instância ou, ainda, por evidente inovação recursal.
+Dessa forma, não há qualquer omissão no acórdão sobre a realização de perícia contábil, tampouco violação ao disposto nos artigos 369 e 370 do CPC/2015 ou do artigo 884 do Código Civil.
+Inclusive, acerca dos honorários sucumbenciais redistribuídos no acórdão, não se verifica omissão sobre a aplicação do entendimento do STJ, sobretudo porque a impugnação ao cumprimento de sentença foi parcialmente acolhida e, portanto, perfeitamente cabível a incidência dos honorários tais como fixados" (e-STJ fl. 438).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Na espécie, destaca-se que o banco sequer impugnou o fundamento do acórdão proferido em embargos de declaração, que não conheceu a matéria relativa ao cerceamento de defesa por entender que a análise da matéria ocasionaria supressão de instância ou inovação recursal o que atrai, na hipótese, a incidência, por analogia, das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+O banco recorrente sustenta que basta observar o que foi exposto em seu agravo ao STJ (fl. e-STJ 699), reiterando os argumentos do recurso especial, no sentido de que o pedido foi formulado desde a impugnação ao cumprimento de sentença. Além disso, afirma que o cerceamento de defesa deveria ter sido reconhecido até de ofício, por se tratar de nulidade de ordem pública. Alega que o Tribunal de Justiça do Paraná, em vez de simplesmente rejeitar a tese apresentada, poderia  e deveria  ter cassado a decisão originária para determinar a realização da perícia, considerada imprescindível.
+Contudo, para afastar a aplicação das Súmulas 283 e 284 do STF, não basta à parte recorrente alegar genericamente que a prova pericial foi requerida anteriormente.
+Se o Tribunal entende que a matéria não pode ser analisada no recurso por configurar supressão de instância, cabe ao recorrente demonstrar de forma clara a necessidade da prova pericial e explicar por que sua análise não implicaria essa supressão.
+A simples invocação de que se trata de matéria de ordem pública não é suficiente. É necessário comprovar o efetivo prejuízo decorrente da ausência da prova pericial e convencer o julgador de que a solução da controvérsia depende especificamente dela  e não das demais provas já constantes nos autos.
+Ressalta-se que o juiz é o destinatário das provas, e não cabe à parte impor a produção de determinada prova se já houver nos autos elementos suficientes à resolução da lide, como ocorre no caso.
+Alega que a decisão também deve ser reformada, com o conhecimento e provimento do presente agravo interno, no que se refere à apontada violação dos arts. 369 e 370, parágrafo único, do CPC, e do art. 884 do Código Civil, sob o argumento de que, embora a matéria tenha sido mencionada no relatório (e-STJ fl. 760), não foi objeto de análise no voto.
+Todavia, se de fato a decisão deixou de se manifestar sobre tais pontos, caberia ao banco recorrente a interposição de embargos de declaração, que é o meio processual adequado para suprir eventual omissão. Não o tendo feito, opera-se a preclusão quanto à matéria.
+ Desse modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decis ão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
