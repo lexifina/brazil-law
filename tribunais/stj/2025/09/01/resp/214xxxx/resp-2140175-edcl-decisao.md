@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Auto Posto Mucufa Ltda. contra decisão de fls. 739/746, que julgou prejudicada a análise do agravo em recurso especial e determinou a devolução dos autos ao Tribunal de origem para realização do juízo de conformação com os Temas 173/STJ e 1.093/STJ.
+A embargante sustenta que "A decisão embargada, ao remeter o caso ao Tema 1093/STJ sem considerar a distinção já feita e aceita pelo próprio TRF4 (na decisão de 22/04/2024), incorre em omissão e contradição sobre a real controvérsia jurídica posta no Recurso Especial" (fl. 751), além de incorrer "em flagrante contradição ao se referir ao presente feito como "agravo em recurso especial"" (fl. 750).
+Aberta a vista à embargada, decorreu in albis o prazo para impugnação (fl. 761).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Conforme dispõe o artigo 1.022 do CPC, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+No caso dos autos, não se verifica a ocorrência de obscuridade, contradição ou omissão.
+Com efeito, reconheceu-se, no decisum embargado, que a Corte de origem, ao solucionar a controvérsia dos autos, ancorou-se no entendimento proferido pelo STJ no REsp 903.394/AL - Tema 173.
+Além disso, registrou-se que, ao tempo em que o juízo de admissibilidade do apelo raro fora prolatado, esta Corte já havia afetado o para exame sob o rito dos recursos repetitivos o Tema 1.093 - REsp 1.894.741/RS.
+Nesse contexto, foi determinada a devolução dos autos à Corte de origem para realização do juízo de conformação do acórdão recorrido com os referidos precedentes vinculantes.
+No mais, esclareça-se, por oportuno, que o erro material "é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito, como a troca de uma legislação por outra, a consideração de data inexistente no processo ou uma inexatidão numérica; e não aquele que decorre de juízo de valor ou de aplicação de uma norma jurídica sobre o(s) fato(s) do processo" (REsp n. 1.021.841/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 7/10/2008, DJe de 4/11/2008).
+Posto isso, no tocante à questão embargada, a saber, existência de erro material na decisão de fls. 739/746 que fez constar, na parte dispositiva, como prejudicada a análise do agravo em recurso especial, os aclaratórios comportam acolhimento.
+Assim, é de se acolher os presentes embargos em razão do erro material referido, tão-somente para fazer constar que, onde se lê, na parte dispositiva do decisum embargado, "ANTE O EXPOSTO, julgo prejudicada a análise do agravo em recurso especial e determino a devolução dos autos ao Tribunal de origem, a fim de que seja observado o rito previsto no art. 1.030, I, b, e II, do CPC/2015, quanto aos referidos temas acima explicitados", leia-se "ANTE O EXPOSTO, julgo prejudicada a análise do recurso especial e determino a devolução dos autos ao Tribunal de origem, a fim de que seja observado o rito previsto no art. 1.030, I, b, e II, do CPC/2015, quanto aos referidos temas acima explicitados".
+ANTE O EXPOSTO, acolho os embargos declaratórios, a fim de corrigir o erro material apontado, sem efeitos modificativos, nos termos da fundamentação.
+Pub lique-se.
+EMENTA
