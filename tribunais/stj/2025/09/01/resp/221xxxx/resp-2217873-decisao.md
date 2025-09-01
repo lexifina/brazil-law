@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por SARAH COSTA DE ALMEIDA, fundamentado no art. 105, III, da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO AUTORA - PRETENSÃO - GRATUIDADE PROCESSUAL - JUÍZO - DETERMINAÇÃO - COMPROVAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA E DA REGULARIZAÇÃO DA PROCURAÇÃO - MEDIDA - OBJETIVO - OBSERVÂNCIA DAS RECOMENDAÇÕES DOS COMUNICADOS CG Nº 02/2017 E ENUNCIADO 5 DO COMUNICADO CG Nº 424/2024 - INTELIGÊNCIA AINDA DO ART. 139, III, DO CPC - AUTORA - INÉRCIA - JUÍZO INDEFERIMENTO DA PETIÇÃO INICIAL. DEMANDA MASSIFICADA - CAUSÍDICO - PROPOSITURA DE 6 AÇÕES DA MESMA NATUREZA EM NOME DA AUTORA - IMPOSIÇÃO AO PAGAMENTO DAS CUSTAS - POSSIBILIDADE - ENUNCIADO 15 DO COMUNICADO CG Nº 424/2024 - DEVER DE RECOLHIMENTO DAS CUSTAS, INCLUSIVE DAS ATINENTES AO APELO, SOB PENA DE INSCRIÇÃO NA DÍVIDA ATIVA - VEDAÇÃO À ANÁLISE DO PEDIDO DE GRATUIDADE PROCESSUAL DIANTE DA AUSÊNCIA DE CONFIRMAÇÃO DA PROCURAÇÃO - SENTENÇA - MANUTENÇÃO" (fls. 142/151).
+Em suas razões recursais, a parte alega violação aos arts. 105 e 319 do CPC, sustentando em síntese, que a procuração apresentada atende aos critérios estabelecidos pelo Código de Processo Civil, não havendo necessidade de nova procuração com firma reconhecida, e que a decisão de indeferimento da gratuidade de justiça foi arbitrária, desconsiderando a situação de hipossuficiência da recorrente.
+Foram apresentadas contrarrazões (fls. 181/191).
+É o relatório. Decido.
+No caso, o recurso especial discute a possibilidade de que o magistrado, ao perceber sinais de litigância temerária, solicite que a parte requerente inclua documentos para embasar suas alegações.
+O Tema Repetitivo 1.198 (REsp 2.021.665/MS) foi julgado em 13/03/2025, oportunidade na qual esta Corte Superior firmou tese jurídica nos seguintes termos: "Constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova".
+No caso dos autos, a Corte de origem manteve a sentença que determinou a extinção do feito, com base na seguinte fundamentação:
+"O comando para a regularizar a procuração adequa-se às orientações sobre as boas práticas na condução de tais demandas. O ato é consonante à atuação conferida ao magistrado na condução do processo, à luz art. 139, III, do CPC:
+O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe:
+III - prevenir ou reprimir qualquer ato contrário à dignidade da justiça e indeferir postulações meramente protelatórias;
+A providência era de fácil atendimento. Não justificou o descumprimento da diligência. Limitou-se a discorrer sobre a desnecessidade. A inércia possibilitou a extinção do feito.
+(..)
+Diante do contexto, inviabiliza-se a análise da gratuidade processual. Impõe-se o pagamento das custas iniciais pela causídica. A demanda possui contornos das previstas pelo Núcleo de Monitoramento dos Perfis de Demandas da Corregedoria Geral de Justiça da Corte. Em consulta ao Sistema de Automação da Justiça, a patrona Camila de Nicola propôs mais de 1.000 ações classificadas como "Procedimento Comum Cível Inclusão Indevida em Cadastro de Inadimplentes", sendo seis em nome da autora. Passível impor à banca o pagamento da sanção imposta, consoante enunciado 15 do Comunicado CG nº 424/2024:
+Nos termos do art. 104 do Código de Processo Civil, é cabível a responsabilização direta do advogado pelas custas, despesas e sanções processuais, inclusive por litigância de má-fé, nos casos em que a procuração e o desejo de litigar não forem ratificados pela parte autora, notadamente em cenário de litigância predatória." (e-STJ fls. 149 )
+No caso dos autos, verifica-se que a conclusão do Tribunal de origem considerou as particularidades da situação concreta apresentada, em consonância com o entendimento dominante sobre o tema nesta Corte Superior.
+Aplica-se, portanto, a Súmula 83 do STJ.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da necessidade de regularização da representação processual exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
