@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por FERNANDA LUZ SOARES com fulcro no art. 105, III, "a", da Constituição da República, em oposição a acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ, fls. 215 - 255):
+"DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ART. 304 C/C ART. 297, AMBOS DO CÓDIGO PENAL. USO DE DOCUMENTO FALSO. CARTEIRA DE IDENTIDADE DE TERCEIROS. ART. 171, § 3º, C/C ART. 14, II, AMBOS DO CP. ESTELIONATO MAJORADO. TENTADO. CAIXA ECONÔMICA FEDERAL. ABERTURA DE CONTA CORRENTE. EMPRÉSTIMO CONSIGNADO INDEVIDO. PRINCÍPIO DA CONSUNÇÃO ENTRE OS CRIMES DO ART. 304 C/C 297 E 171, §3º, TODOS DO CP, AFASTADA. MATERIALIDADE, AUTORIA E DOLO DO ART. 171, §3º, COMPROVADOS. CONDENAÇÃO MANTIDA. APELAÇÃO DA ACUSAÇÃO PROVIDA. CONDENAÇÃO PELA PRÁTICA DO CRIME DO ART. 304 C/C ART. 297, AMBOS DO CP. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. SÚMULA 231, DO STJ. CONTINUIDADE DELITIVA. PENA DE MULTA. REDUÇÃO DE OFÍCIO. REGIME ABERTO. SUBSTITUIÇÃO POR DUAS PENAS RESTRITIVAS DE DIREITOS. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE E PRESTAÇÃO PECUNIÁRIA.
+I. CASO EM EXAME
+1. Apelações da acusação e da defesa contra sentença que julgou parcialmente procedente a pretensão acusatória para adequar a capitulação do delito à descrição fática posta na denúncia, considerando-se, assim, praticado, em tese, apenas o delito de estelionato qualificado tentado, previsto no art. 171, § 3º, c/c art. 14, inciso II, ambos do Código Penal e condenar a ré pela prática do crime tipificado no artigo 171, § 3º, c/c art. 14, inciso II, ambos do Código Penal, à pena privativa de liberdade de 10 (dez) meses e 20 (vinte) dias de reclusão e à pena de 10 (dez) dias-multa.
+II. QUESTÕES EM DISCUSSÃO
+2. Discute-se nos autos: a) a absolvição quanto ao primeiro fato descrito na denúncia, tendo em vista a ausência de provas de uso do documento falso: b) a aplicação da atenuante da confissão espontânea; c) a redução da pena na fração máxima de 2/3 (dois terços) prevista no art. 14, parágrafo único, do Código Penal; d) a reforma da sentença para afastar o princípio da absorção; e) a condenação pela prática do crime previsto no art. 304 c/c o art. 297 do Código Penal (duas vezes), em concurso material com o estelionato tentado.
+III. RAZÕES DE DECIDIR
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de não se esgotando a potencialidade lesiva do documento de identidade com a prática do estelionato, não há espaço para a aplicação do princípio da consunção.
+2. Demonstrado nos autos que a acusada além de pleitear indevidamente empréstimo consignado, pleiteou a abertura da conta-corrente junto à Caixa Econômica Federal, impõe-se a condenação da ré pela prática do crime de uso de documento falso, por duas vezes, em continuidade delitiva.
+3. Comprovada a autoria, a materialidade e o elemento subjetivo exigido pelo tipo, e sendo inexistentes causas excludentes de ilicitude ou culpabilidade, impõe-se a manutenção da condenação da ré como incursa nas sanções do artigo 171, § 3º c/c art. 14, II, e do artigo 304, c/c artigo 297, todos do Código Penal.
+4 As circunstâncias que envolvem o fato apurado permitem verificar o dolo na conduta da ré, eis que demonstrado que agiu com vontade livre e consciente visando a abertura de conta corrente, o requerimento de empréstimo consignado para obter vantagem indevida em prejuízo da Caixa Econômica Federal.
+5. Atenuante da confissão espontânea reconhecida e mantida a pena fixada fixada na sentença, nos termos da súmula 231 do STJ.
+6. Quanto de redução da pena em face da minorante da tentativa confirmado, tendo em vista que no contexto dos fatos apurados o iter criminis aproximou-se da consumação.
+7. Pena de multa reduzida de ofício no delito de estelionato.
+8 A jurisprudência, no sentido de que o lapso de tempo superior a 30 (trinta) dias entre a consumação dos delitos impossibilita o reconhecimento da continuidade delitiva, permite flexibilização a depender do caso concreto.
+9. Regime de cumprimento da pena aberto mantido, em virtude da quantidade da pena imposta, inferior a 4 (quatro) anos, e por não haver reincidência, nos termos do artigo 33, § 2º, alínea c, do Código Penal.
+10. Aplicada pena que não supera 4 (quatro) anos de reclusão e atendidos os demais requisitos previstos no artigo 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritivas de direitos, as quais proporcionam um meio menos gravoso de cumprimento da pena.
+11. A conjugação das penas de prestação de serviços comunitários e prestação pecuniária é a que melhor atinge a finalidade da persecução criminal, porque exige do condenado esforço no sentido de contribuir com o interesse público, ao cooperar para a realização de várias obras assistenciais ou sociais, bem como possui o caráter retributivo ao dano causado.
+IV. DISPOSITIVO E TESE
+12. Apelação da acusação provida em parte, apelação da defesa improvida e, de ofício, reduzida a pena de multa no crime de estelionato.
+13. Princípio da consunção entre os crimes de estelionato majorado tentado e uso de documento falso afastado.
+14. Comprovados a materialidade, a autoria e do dolo no agir, bem como inexistentes causas excludentes da culpabilidade ou da ilicitude, impõe-se a condenação da ré pela prática dos crimes descritos no artigo 304 (uso de documento falso) e art. 171, §3º, c/c art. 14, II (estelionato majorado tentado), ambos do CP.
+15. Reconhecimento da atenuante da confissão espontânea.
+16. A pena não pode ser fixada abaixo do mínimo legal, nos termos da súmula 231 do STJ.
+17. Reconhecimento da continuidade delitiva nos crimes de uso de documento falso.
+18. Pena privativa de liberdade aumentada e pena de multa no crime de estelionato, reduzida, de ofício.
+19. Regime aberto e substituição da pena confirmados."
+Em seu recurso especial, a parte recorrente sustenta violação dos artigos 69, 171, §3º, 297 e 304 do Código Penal e dos artigos 155, 156, 315, §2º, II, 381, III, 387, II e III, 564, V, do Código de Processo Penal, argumentando, em síntese, que o uso de documento falso foi mero meio para a tentativa de estelionato, devendo por ser por este absorvido.
+Afirma que a denúncia narra explicitamente que o falso foi usado para abrir conta e, depois, tentar o empréstimo que seria creditado na mesma conta, de modo que o afastamento da consunção apoiou-se em hipótese abstrata - aptidão para outros delitos - sem evidências concretas, contrariando o dever de fundamentação.
+Com contrarrazões (e-STJ, fls. 252 - 263), o recurso especial foi inadmitido na origem (e-STJ, fls. 264 - 266 ), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do agravo ou, caso conhecido, pelo seu desprovimento (e-STJ, fls. 313 - 315).
+É o relatório.
+Decido.
+O agravo impugna adequadamente o fundamento da decisão agravada, devendo ser conhecidos. Passo, portanto, ao exame do recurso especial propriamente dito.
+No caso em apreço, a Corte de origem afastou a aplicação do princípio da consunção com os seguintes argumentos (e-STJ, fls. 218 - 219):
+"Princípio da consunção
+Para analisar a aplicabilidade do princípio da consunção deve ser verificada a potencialidade lesiva dos crimes praticados, na esteira do entendimento do STJ fixado em sua súmula de nº 17 - Quando o falso se exaure no estelionato, sem mais potencialidade lesiva é por este absorvido.
+No caso em exame, uma vez realizada tal análise, considero não ser caso de absorção do delito de uso de documento falso pelo estelionato. Com efeito, resta claro que o documento falso em questão, documento de identidade em nome de outrem, é apto a possibilitar a prática de muitos outros delitos, de modo que a potencialidade lesiva não se esgota apenas no estelionato indicado na denúncia.
+Tal potencialidade lesiva restou demonstrada durante a instrução do feito, conforme se depreende da informação prestada por Graziela Selau à Polícia Federal (processo 5012446- 11.2018.4.04.7100/RS, evento 3, INF2, p.1/4), dando conta nenhum dos meus documentos foram perdidos ou roubados, e sim foram alterados para tentativas de estelionato, com uma tentativa e realização na loja Renner, conforme no anexo enviado.
+Assim, não se esgotando a potencialidade lesiva do documento de identidade com a prática do estelionato, não há espaço para a aplicação do princípio da consunção.
+Na mesma linha, os seguintes precedentes do Superior Tribunal de Justiça, verbis:  ..
+Portanto, acolho a postulação do Ministério Público Federal e afasto a consunção do delito de uso de documento falso, consistente em Carteira de Identidade, com o crime de estelionato majorado tentado.
+No que tange ao pleito da acusação para condenação da ré pela prática do crime previsto no art. 304 c/c o art. 297 do Código Penal (duas vezes), em concurso material com o estelionato tentado, a questão será apreciada no contexto da análise das razões de apelação da defesa."
+Portanto, verifica-se que as instâncias ordinárias, mediante exauriente exame dos fatos e provas constantes dos autos, demonstraram a ausência de exaurimento da potencialidade lesiva da conduta de falso, de modo que a inversão do julgado, nos moldes em que pleiteado pelo recorrente, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+A corroborar:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ABSORÇÃO DO DELITO DE DOCUMENTO FALSO PELO DE ESTELIONATO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INTELIGÊNCIA DA SÚMULA 17/STJ. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo, rejeitando embargos de declaração. A defesa alega constrangimento ilegal pela não absorção do delito de uso de documento falso pelo de estelionato. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o crime de uso de documento falso deve ser absorvido pelo crime de estelionato, considerando a potencialidade lesiva do documento falsificado.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus é incabível como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+4. A potencialidade lesiva do documento falsificado não se exauriu com a prática do estelionato, podendo ser utilizado em outros delitos, afastando a aplicação do princípio da consunção.
+5. A análise do caso concreto desautoriza a revisão das conclusões das instâncias ordinárias sem incursão fático-probatória, inviável na via do habeas corpus.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+Tese de julgamento: "1. O habeas corpus não é cabível como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade. 2. A potencialidade lesiva do documento falsificado não se exaure com a prática de um único delito, afastando a aplicação do princípio da consunção".Dispositivos relevantes citados: CPP, art. 654, § 2º; Lei nº 14.836/2024.
+Jurisprudência relevante citada: STJ, AgRg no HC 895.777/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02.04.2024; STJ, AgRg no HC 864.465/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 18.03.2024; STF, HC 225896 AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, julgado em 15.05.2023."
+(AgRg nos EDcl no HC n. 963.449/DF, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DIVERGÊNCIA NÃO COMPROVADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Verifica-se que o agravante, nas razões do recurso especial, não apontou de maneira clara e objetiva o artigo de lei porventura violado pelo acórdão recorrido, incidindo o óbice contido na Súmula n. 284/STF.
+2. "As instâncias de origem concluíram que o uso de documento falso não teve sua potencialidade lesiva exaurida com o delito de estelionato, negando a aplicação do princípio da consunção, de modo que para chegar-se a conclusão diversa necessário seria o reexame do conjunto fático-probatório, o que é vedado na via do recurso especial, tendo em vista o óbice da Súmula 7 deste Superior Tribunal de Justiça" (AgRg no AREsp 920.661/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 23/10/2017).
+3. "A comprovação da divergência jurisprudencial constitui regra técnica cujo descumprimento caracteriza vício substancial insanável" (AgRg no REsp 1813396/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 27/8/2021).
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 1.954.037/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
