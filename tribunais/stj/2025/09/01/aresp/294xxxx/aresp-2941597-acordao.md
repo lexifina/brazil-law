@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. DESTINATÁRIO DAS PROVAS. MAGISTRADO. TEORIA DA IMPREVISÃO. APLICAÇÃO. MATÉRIAS FÁTICO-PROBATÓRIAS. REEXAME. INADMISSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, para decidir de modo integral a controvérsia posta.
+2. O destinatário final da prova é o juiz, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo a possibilidade de determinação de ofício ou indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do artigo 370 do Código de Processo Civil.
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da aplicabilidade da teoria da imprevisão demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+4. A subsistência de fundamento não impugnado, apto a manter a conclusão do aresto recorrido, impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+5. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por RJ - GIRATA COMÉRCIO DE HORTIFRUTIGRANJEIROS LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. Cerceamento de defesa. Inocorrência. Prova pericial desnecessária. Cédulas de crédito bancário que constituem título executivo extrajudicial. Súmula nº 14 deste E. Tribunal. Execução aparelhada com demonstrativo de débito que informa a evolução da dívida, atribuindo liquidez, certeza e exigibilidade à obrigação (art. 28, § 2º, da Lei nº 10.931/04). Validade da execução. Excesso de cobrança não demonstrado. Juros remuneratórios e capitalização de juros em período inferior a um ano que não são abusivos e/ou ilegais. Teoria da imprevisão. Não incidência no caso concreto, eis que o empréstimo foi realizado em agosto de 2020, e renegociado em outubro de 2021, quando já amplamente conhecidas as medidas de restrição ao comércio e à circulação de pessoas. Imprevisibilidade não caracterizada. Exegese do art. 478 do Código Civil. Execução válida, o que impõe o seu regular prosseguimento. Sucumbência recíproca. Descabimento. Embargado que decaiu de parte mínima do pedido. Inteligência do art. 86, parágrafo único, do CPC. Sentença mantida na íntegra.
+Recurso não provido" (e-STJ fl. 3.891).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 3.097/3.914).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 489, § 1º, IV, e 1.022, II, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios; e
+(ii) artigos 317 e 478 do Código Civil - por ter o Tribunal de origem deixado de aplicar a teoria da imprevisão em virtude da pandemia motivada pelo coronavírus.
+Contrarrazões às e-STJ fls. 3.930/3.949.
+O recurso foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. DESTINATÁRIO DAS PROVAS. MAGISTRADO. TEORIA DA IMPREVISÃO. APLICAÇÃO. MATÉRIAS FÁTICO-PROBATÓRIAS. REEXAME. INADMISSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, para decidir de modo integral a controvérsia posta.
+2. O destinatário final da prova é o juiz, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo a possibilidade de determinação de ofício ou indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do artigo 370 do Código de Processo Civil.
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da aplicabilidade da teoria da imprevisão demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+4. A subsistência de fundamento não impugnado, apto a manter a conclusão do aresto recorrido, impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+5. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Registra-se que o tribunal de origem se pronunciou expressamente acerca da desnecessidade da produção de prova pericial.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)" (AgInt no AREsp 2.205.438/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Registra-se que, mesmo à luz do artigo 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Ademais, é assente a jurisprudência desta Corte Superior no sentido de que a determinação da realização de provas, a qualquer tempo e sob o livre convencimento do magistrado, é uma faculdade deste, incumbindo-lhe sopesar sua necessidade e indeferir diligências inúteis, protelatórias ou desnecessárias.
+Dessa forma, o juízo acerca da produção da prova compete soberanamente às instâncias ordinárias, e o seu reexame, na estreita via do recurso especial, encontra, também, o óbice de que trata a Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DETERMINAÇÃO DE PRODUÇÃO DE PROVA DE OFÍCIO PARA COMPROVAÇÃO DE COMPETÊNCIA TERRITORIAL E LEGITIMIDADE DA PARTE. POSSIBILIDADE. PRECEDENTES. SÚMULAS 7 E 568 DO STJ. DECISÃO MANTIDA. AFASTAMENTO DA MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. RECURSO PARCIALMENTE PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Nos termos da jurisprudência desta Corte, o Código de Processo Civil de 2015, em seus artigos 370 e 371, manteve o princípio da persuasão racional, reafirmando que compete ao magistrado dirigir a instrução probatória. Assim, cabe ao juiz: (i) determinar, até mesmo de ofício, a produção das provas que entender necessárias ao julgamento de mérito, (ii) rejeitar as diligências inúteis ou protelatórias, e (iii) apreciar a prova, indicando os motivos de seu convencimento. Precedentes. Súmula 568 do STJ.
+3. Afastamento da majoração dos honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015.
+4. Agravo interno parcialmente provido" (AgInt no AREsp 2.129.029/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. NULIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PERÍCIA REALIZADA EM JUÍZO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de indenização por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa.
+Precedentes.
+4. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes ao cerceamento de defesa ante a necessidade de produção de prova pericial envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo interno no agravo em recurso especial não provido" (AgInt no AREsp 2.445.156/MS, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024 - grifou-se).
+Quanto à violação dos artigos 317 e 478 do Código Civil, o acórdão registra que, quando firmado o contrato, a recorrente já tinha conhecimento dos efeitos da pandemia, não se podendo falar em aplicação da teoria da imprevisão, nos seguintes termos:
+"(..) não há que se falar de incidência da teoria da imprevisão em razão das consequências negativas da Pandemia Covid-19, pois, muito embora os efeitos econômicos catastróficos dela decorrentes caracterizem a hipótese de fato imprevisível e extraordinário, no caso dos autos o contrato foi celebrado em agosto de 2020 e renegociado em outubro de 2021, cinco meses após o início da pandemia, quando já plenamente conhecidos da Apelante os seus efeitos na economia, em especial as medidas de restrição impostas ao comércio e à circulação de pessoas, não podendo invocar tais circunstâncias, portanto, para se esquivar do pagamento do débito ou pedir a sua revisão com base na teoria da imprevisão" (e-STJ fl. 3.895).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Não cabe a este Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Por fim, o Tribunal de origem afirmou, para negar provimento à apelação, que,
+"(..)
+Além de não impugnar especificadamente os encargos remuneratórios expressamente apontados no contrato e no demonstrativo de débito, a Apelante não se deu ao trabalho de apresentar planilha de débito dos valores que entendia correto, razão pela qual era o caso de rejeição liminar da eventual alegação de excesso de execução" (e-STJ fl. 3.894).
+Tais fundamentos, entretanto, não foram objeto de impugnação pela recorrente, atraindo a incidência, por analogia, da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confira-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 2.157.654/SP, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais já foram fixados em seu percentual máximo, por isso deixam de ser majorados, nos termos do artigo 85, §§ 2º e 11, do Código de Processo Civil.
+É o voto.
