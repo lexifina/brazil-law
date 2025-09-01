@@ -1,0 +1,16 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo que negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente pela prática do crime do art. 89 da Lei n. 8.666/93.
+A defesa aponta a violação dos arts. 619 do CPP e 59 do CP, alegando, em síntese, que o acórdão estadual foi omisso quanto ao agravamento da pena pelas circunstâncias judiciais da culpabilidade e motivos do crime, bem como sobre a desproporcionalidade no aumento da pena basilar. No mérito, sustenta as mesmas questões.
+Contrarrazões às e-STJ fls. 3.713/3.718.
+Manifestação do Ministério Público Federal às e-STJ fls. 3.756/3.757.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 34 anos, 1 mês e 15 dias de detenção, em regime semiaberto, pelo cometimento do crime do art. 89 da Lei n. 8.666/93.
+A defesa se insurge contra o agravamento da pena pelas circunstâncias judiciais da culpabilidade e motivos do crime, bem como sobre a desproporcionalidade no aumento da pena basilar.
+Sem razão, porquanto é assente nesta Corte que praticado o delito de fraude em licitação enquanto exercia o cargo de Prefeito Municipal, considera-se idônea a majoração da pena-base (ut, AgRg no AREsp n. 1.123.893/MG, relator Ministro Jorge Mussi, Quinta Turma, DJe de 29/11/2017).
+A tese de que houve bis in idem na dosimetria da pena em razão da avaliação desfavorável do vetor judicial da circunstâncias do crime não foi debatida pelo Tribunal a quo. Incidência da Súmula n. 211 do STJ.
+Assinala-se também que o aumento da pena basilar em 1 ano, 4 meses e 15 dias acima do mínimo legal pela existência de três vetores judiciais desfavoráveis não destoa da jurisprudência do Superior Tribunal de Justiça que tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas, neste último caso, que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade. Como consectário desse entendimento, esta Corte é assente que a valoração negativa de uma única vetorial pode justificar o aumento da pena-base até o seu máximo legal, desde que fun damentada circunstanciadamente em elementos do caso concreto e demonstrada a excessiva reprovabilidade da conduta em análise (ut, AgRg no AREsp n. 1.863.398/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 20/8/2025).
+Por fim, assinala-se que a tentativa de reversão do julgado a quo diante da insatisfação com o resultado do julgamento é circunstância que, na linha da jurisprudência desta Corte, não enseja o reconhecimento de violação ao disposto nos arts. 619 e 620 do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 932, II, do CPC, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
