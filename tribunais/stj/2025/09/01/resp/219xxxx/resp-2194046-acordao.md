@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO PROPOSTA CONTRA OPERADORA DE PLANO DE SAÚDE. RECUSA DE COBERTURA EM SITUAÇÃO DE EMERGÊNCIA. DANO MORAL. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso de apelação da parte autora, afastando a indenização por danos morais em razão de recusa de cobertura de internação de emergência por operadora de plano de saúde, sob alegação de carência contratual.
+2. A decisão de primeira instância havia reconhecido a abusividade da negativa de cobertura e deferido o pleito indenizatório por danos morais, decisão esta reformada pelo Tribunal de origem.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a recusa de cobertura de internação de emergência por operadora de plano de saúde, sob alegação de carência contratual, configura dano moral passível de indenização.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça possui entendimento consolidado de que a recusa indevida de cobertura em casos de urgência ou emergência enseja reparação po r dano moral, em razão do agravamento ou aflição psicológica do beneficiário.
+5. A negativa de cobertura, mesmo que baseada em cláusula de carência, é considerada abusiva quando impede o atendimento em situações de emergência, conforme jurisprudência do STJ.
+6. No caso concreto, a negativa de cobertura foi considerada abusiva, justificando a obrigação de compensar os danos morais sofridos pela parte recorrente.
+IV. Dispositivo
+7. Recurso provido para cassar o acórdão recorrido e restabelecer a sentença de 1º Grau, inclusive em relação às custas e honorários advocatícios.
+RELATÓRIO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Ação de indenização proposta contra operadora de plano de saúde. Recusa de cobertura internação de emergência. Alegação de carência. Abusividade reconhecida em ação precedente. Pleito indenizatório por danos morais deferido. Apelação interposta pela operadora de plano de saúde. Acolhimento. Danos morais não configurados. Mero inadimplemento contratual impassível de gerar o dever de indenizar. Internação da paciente autorizada mediante liminar. Ausência de prejuízo à saúde da autora. Pretensão indenizatória afastada. Sentença reformada, invertidos os ônus sucumbenciais. Recurso provido.
+Nas razões do recurso especial, a parte recorrente alegou que o acórdão recorrido violou os artigos 186 e 927 do Código Civil, ao não reconhecer a existência de dano moral decorrente da negativa de cobertura em situação de emergência médica, conforme entendimento consolidado na jurisprudência do STJ (e-STJ, fls. 210-221).
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, sustentando a inadmissibilidade do recurso especial com base nos Enunciados número 05 e número 07 do STJ (e-STJ, fls. 244-250).
+É o relatório.
+EMENTA
+CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO PROPOSTA CONTRA OPERADORA DE PLANO DE SAÚDE. RECUSA DE COBERTURA EM SITUAÇÃO DE EMERGÊNCIA. DANO MORAL. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso de apelação da parte autora, afastando a indenização por danos morais em razão de recusa de cobertura de internação de emergência por operadora de plano de saúde, sob alegação de carência contratual.
+2. A decisão de primeira instância havia reconhecido a abusividade da negativa de cobertura e deferido o pleito indenizatório por danos morais, decisão esta reformada pelo Tribunal de origem.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a recusa de cobertura de internação de emergência por operadora de plano de saúde, sob alegação de carência contratual, configura dano moral passível de indenização.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça possui entendimento consolidado de que a recusa indevida de cobertura em casos de urgência ou emergência enseja reparação po r dano moral, em razão do agravamento ou aflição psicológica do beneficiário.
+5. A negativa de cobertura, mesmo que baseada em cláusula de carência, é considerada abusiva quando impede o atendimento em situações de emergência, conforme jurisprudência do STJ.
+6. No caso concreto, a negativa de cobertura foi considerada abusiva, justificando a obrigação de compensar os danos morais sofridos pela parte recorrente.
+IV. Dispositivo
+7. Recurso provido para cassar o acórdão recorrido e restabelecer a sentença de 1º Grau, inclusive em relação às custas e honorários advocatícios.
+VOTO
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a", da Constituição Federal).
+O acórdão recorrido decidiu a controvérsia consignando que:
+"Em que pese a insatisfação da parte autora, a negativa da ré não foi apta a causar abalo psíquico ou ofensa a direitos de personalidade, não configurando danos morais. Embora ela tenha comprovado a indicação médica para a internação e a negativa da ré para tanto, tal fato se baseou em interpretação do contrato (que previa carência). O descumprimento contratual, reconhecido pelo judiciário após interpretação legal, não gera, por si só, o dano moral. São necessários fatos que se revistam de tal gravidade que superem o mero aborrecimento, que exorbitem a normalidade, o que não se verifica nos autos, pois a autora foi atendida após a concessão da liminar na ação de obrigação de fazer. Não há notícias de danos à saúde da criança. Assim, não há que se falar em indenização por danos morais." (e-STJ, fls. 203-204)
+No entanto, nota-se que o Tribunal de origem, no particular, destoa do entendimento do STJ segundo o qual " A  recusa indevida de cobertura, pela operadora de plano de saúde, nos casos de urgência ou emergência, enseja reparação a título de dano moral, em razão do agravamento ou aflição psicológica do beneficiário, ante a situação vulnerável em que se encontra" (AgInt no REsp 2.025.038/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023).
+Assim a pretensão do recorrente, de ver reconhecido o direito à indenização por danos morais, na hipótese de indevida recusa de cobertura em casos de urgência ou emergência, encontra guarida na jurisprudência deste Tribunal, do que são exemplos, o seguintes julgados (com destaque no que releva):
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER COM TUTELA PROVISÓRIA DE URGÊNCIA ANTECIPADA. PLANO DE SAÚDE. INSUFICIÊNCIA RENAL CRÔNICA E INS CORONARIANA. PRAZO DE CARÊNCIA. AFASTAMENTO. ATENDIMENTO DE URGÊNCIA/EMERGÊNCIA. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. DANO MORAL CARACTERIZADO. QUANTUM INDENIZATÓRIO. AUSÊNCIA DE EXORBITÂNCIA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A "cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência" (AgInt no REsp 1.815.543/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 15/10/2019, DJe de 6/11/2019). Incidência da Súmula 83 do STJ.
+2. "É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado" (Súmula 302/STJ).
+3. "A recusa indevida de cobertura, pela operadora de plano de saúde, nos casos de urgência ou emergência, enseja reparação a título de dano moral, em razão do agravamento ou aflição psicológica do beneficiário, ante a situação vulnerável em que se encontra" (AgInt no REsp 2.025.038/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023).
+4. No caso, mostra-se razoável o quantum fixado pela instância ordinária, a título de danos morais, correspondente a R$ 10.000,00 (dez mil reais), não havendo falar em condenação desproporcional com relação à extensão dos danos sofridos pela parte recorrida, que, conforme mencionado pelas instâncias ordinárias, suportou a negativa indevida de internação para tratamento de insuficiência renal crônica e INS Coronariana.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.673.337/PA, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/11/2024, DJEN de 29/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. 1. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. RESPONSABILIDADE CIVIL. RECUSA DE INTERNAÇÃO DA AUTORA. SITUAÇÃO DE EMERGÊNCIA. SÚMULAS 7 E 83 DESTA CORTE. 3. FIXAÇÃO DO VALOR INDENIZATÓRIO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A Corte local consignou que "o prazo de carência contratual não pode frustrar o direito do beneficiado ao atendimento emergencial" (e-STJ, fl. 510).
+2.1. Consoante jurisprudência desta Corte Superior, "configura abusividade a negativa de fornecimento de assistência médica em casos de urgência ou emergência durante o período de carência, sendo injusta a recusa da operadora" (AgInt no AREsp n. 2.589.825/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024).
+3. A alteração das conclusões adotadas pela Corte de origem quanto à responsabilidade solidária do plano de saúde, em razão da recusa de internação emergencial da autora, exige necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+4. O valor estabelecido a título de danos morais não pode ser considerado exorbitante (R$ 80.000,00 - oitenta mil reais), porquanto não supera 500 (quinhentos) salários mínimos, margem aceita pela atual jurisprudência do Superior Tribunal de Justiça como razoável em casos análogos, relativos à reparação dos danos morais decorrentes de morte do recém-nascido.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.697.927/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2024, DJe de 5/11/2024.)
+É abusiva a negativa pelo plano de saúde de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência, caracterizando injusta recusa de cobertura que enseja indenização por danos morais.(AgInt no AREsp n. 2.652.778/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Nessa linha, impõe-se reconhecer que, na espécie, foi abusiva a negativa de cobertura perpetrada pela recorrida, fato que dá azo à sua obrigação de compensar os danos morais sofridos pelo recorrente
+Manifesto meu voto, portanto, pelo conhecimento do presente recurso especial para dar provimento , reconhecendo a ilicitude da negativa de cobertura da internação emergencial da recorrente, reformar o acórdão recorrido, no que toca os danos morais, restabelecendo a sentença de 1º Grau, no particular, assim bem como em relação às custas e honorários advocatícios.
+É como voto.
