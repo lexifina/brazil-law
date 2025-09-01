@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 26/08/2025 a 01/09/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC. NÃO OCORRÊNCIA. RECONHECIMENTO DA ÍNDOLE ABUSIVA DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. SUCUMBÊNCIA E PRINCÍPIO DA CAUSALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não se verifica a alegada ofensa aos arts. 1.022 e 489 do CPC/2015, uma vez que o Tribunal Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas e, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+2. Não é possível, na via eleita, rever o entendimento firmado pelas instâncias ordinárias, para reconhecer o caráter abusivo de cláusulas em contrato securitário, sem o reexame de fatos, de provas e de cláusulas contratuais, providência s vedadas em recurso especial devido à incidência das Súmulas 5 e 7/STJ.
+3. Quanto à alegação de distribuição errônea do ônus da sucumbência e violação ao princípio da causalidade, verifica-se que tal questão não foi debatida no acórdão guerreado. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por ISABELLA LOPES FONTANARI PEDRO contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 312, e-STJ):
+AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. Justiça Gratuita à Coautora Quezia. Possibilidade. Prova de insuficiência de recursos na situação atual de pandemia. Contrato firmado com intermediação da instituição financeira e com pagamentos realizados por meio desta, que integrou, pois, a cadeia de fornecimento dos serviços negociais e, como consequência, perante o CDC, é parte passiva legítima "ad causam". Cláusula contratual expressa que dividia o valor da indenização pelo número de segurados e que não pode ser afastada sob alegação de que não foram as Autoras informadas. Sucumbência recíproca reconhecida e bem equacionada nos autos. RECURSO DAS AUTORAS PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram eles rejeitados (e-STJ, fls. 326-332).
+Nas razões do recurso especial, a parte sustenta, em síntese, que: (a) o Tribunal a quo não aplicou corretamente os artigos 47 e 51 do CDC, que determinam a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor e a nulidade de cláusulas abusivas. A recorrente sustentou que o contrato de seguro continha cláusulas abusivas que deveriam ser afastadas; (b) houve omissão por parte do Tribunal de origem ao não apreciar adequadamente os embargos de declaração, violando os artigos 1.022, I e II, e 489, § 1º, IV e § 2º, do CPC, que exigem que o julgador enfrente todos os argumentos deduzidos no processo; e (c) a decisão sobre a sucumbência violou o artigo 86, parágrafo único, do CPC e o princípio da causalidade, pois quem deu causa à ação deve arcar com a integralidade da sucumbência.
+Foram apresentadas contrarrazões às fls. 358-363 (e-STJ).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC. NÃO OCORRÊNCIA. RECONHECIMENTO DA ÍNDOLE ABUSIVA DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. SUCUMBÊNCIA E PRINCÍPIO DA CAUSALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não se verifica a alegada ofensa aos arts. 1.022 e 489 do CPC/2015, uma vez que o Tribunal Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas e, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+2. Não é possível, na via eleita, rever o entendimento firmado pelas instâncias ordinárias, para reconhecer o caráter abusivo de cláusulas em contrato securitário, sem o reexame de fatos, de provas e de cláusulas contratuais, providência s vedadas em recurso especial devido à incidência das Súmulas 5 e 7/STJ.
+3. Quanto à alegação de distribuição errônea do ônus da sucumbência e violação ao princípio da causalidade, verifica-se que tal questão não foi debatida no acórdão guerreado. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Inicialmente, rejeita-se a alegada violação aos arts. 1.022, I e II, e 489, § 1º, IV e § 2º, do CPC, uma vez que o eg. Tribunal de Justiça do Estado de São Paulo analisou os pontos essenciais ao deslinde da controvérsia dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO DA PRESIDÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. QUANTUM INDENIZATÓRIO. REVISÃO. PROPORCIONALIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+(..)
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.629.591/MT, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 11/11/2024, DJe de 13/11/2024 - g.n.)
+"CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. PLANO DE SAÚDE. OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. REEMBOLSO. LIMITAÇÃO À TABELA. OFENSA AO DEVER DE INFORMAÇÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. DANOS MORAIS. CONFIGURAÇÃO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+(..)
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.687.571/PA, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025 - g.n.)
+Avançando, melhor sorte não socorre o recurso no tocante à suscitada ofensa aos arts. 47 e 50 do Código de Defesa do Consumidor.
+Na hipótese, o Tribunal de origem afastou a alegação de índole abusiva das cláusulas contratuais ao considerar que a cláusula de divisão do capital segurado entre os sócios/diretores, prevista no contrato, foi aceita pela contratante no momento da celebração do seguro, sem impugnação quanto à sua constância.
+O acórdão destacou que a contratante, ao declarar a existência de dois sócios/diretores, concordou com a divisão do capital segurado, e que tal cláusula estava redigida de forma expressa, clara e destacada, sem vícios que pudessem invalidá-la (e-STJ, fl. 315):
+"Por fim, quanto ao valor da indenização, tem- se como fato incontroverso que, nos termos do que constou da r. sentença prolatada, que o contrato vigente entre as partes previa a divisão uniforme do capital segurado entre todos os sócios/diretores relacionados no contrato social ou no estatuto da empresa, sendo certo que a própria contratante original declarou, no momento da contratação, a existência de 2 (dois) sócios/diretores. Logo, o capital total segurado para o caso de morte deveria ser dividido por dois.
+Ora, tal cláusula não foi impugnada pelas Autoras quanto à sua constância no contrato firmado, que restou incontroversa, e, dessa forma, não podem alegar ignorância de que, justamente quanto ao valor da indenização devida, não foram alertadas sobre seu teor. Tratava-se da previsão número "1" do documento juntado pelas próprias Apelantes em sua petição inicial (e-fls. 15), redigida, então, de forma expressa, clara e destacada, sem vícios que possam invalidar tal cláusula." (g.n.)
+Nesse cenário, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o reexame fático-probatório dos autos, bem como a interpretação das cláusulas fixadas em contrato de seguro, o que é vedado em recurso especial em razão das Súmulas 5 e 7, ambas do eg. STJ. Nessa linha de intelecção, confiram-se:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. ACORDO HOMOLOGADO PELA JUSTIÇA FEDERAL. SÚMULAS 5 E 7/STJ. DISCUSSÃO ACERCA DA EXISTÊNCIA DE VÍCIO EM ACORDO HOMOLOGADO JUDICIALMENTE. AÇÃO ANULATÓRIA. COBRANÇA DE HONORÁRIOS CONTRATUAIS. AÇÃO PRÓPRIA. SÚMULA 568/STJ.
+1. Ação de compensação por danos morais.
+2. O propósito recursal consiste em decidir se (I) houve negativa de prestação jurisdicional; (II) o acordo firmado nos autos de ação civil pública, que tramita na Seção Judiciária de Alagoas, abrange os danos morais apontados pelo recorrente, (iii) há cláusula leonina no citado acordo e (iv) se é viável a retenção, a título de honorários, de 20% (vinte por cento) sobre o valor da causa, em virtude de possível descumprimento de contrato celebrado entre advogado e seu respectivo constituinte.
+3. A ausência de expressa indicação de obscuridade, omissão, erro material ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional. Incidência da Súmula 284/STF.
+4. A Corte de origem decidiu as questões acerca da ausência de interesse de agir do recorrente e da ausência de irregularidade na formalização do acordo com respaldo nas peculiaridades fático-probatórias dos autos. Pretensão recursal que demanda reexame de provas e de cláusula pactuada em acordo homologado judicialmente.
+5. Eventual alegação de vício em acordo homologado judicialmente deve ser deduzida por meio de ação anulatória. Súmula 568/STJ.
+6. Cabe ao recorrente discutir, em ação própria, a questão relativa aos honorários contratuais devidos pela parte ao seu patrono.
+8. Recurso especial parcialmente conhecido e, nessa extensão, não provido."
+(REsp n. 2.157.064/AL, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 13/11/2024, DJe de 27/11/2024 - g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PLANO DE SAÚDE. TRATAMENTO. LIMITAÇÃO DE COBERTURA. CLÁUSULA ABUSIVA. REVISÃO. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de modo preciso como teria ocorrido a violação legal. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+4. A jurisprudência desta Corte firmou-se no sentido de que, apesar da possibilidade de contrato de plano de saúde prever limitação aos direitos do consumidor, a exclusão do custeio dos meios necessários ao melhor tratamento clínico ou internação hospitalar evidencia abusividade.
+5. Não há como rever o entendimento firmado pelas instâncias ordinárias, para afastar o caráter abusivo da limitação de cobertura prevista no contrato de plano de saúde, sem o reexame de fatos, de provas e de cláusulas contratuais, providências vedadas em recurso especial devido à incidência das Súmulas nºs 5 e 7/STJ.
+6. Agravo interno não provido."
+(AgInt no AREsp n. 1.361.742/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1/4/2019, DJe de 10/4/2019, g.n.)
+Por fim, quanto à alegação de que o acórdão recorrido incorreu em erro no tocante à sucumbência, violando o artigo 86, parágrafo único, do CPC e o princípio da causalidade, verifica-se que lhe falta o requisito constitucional do prequestionamento.
+Com efeito, não existem elementos jurídicos no acórdão recorrido que possibilitem, na via recursal, apreciação envolvendo controvérsia com base nas teses em epígrafe.
+Em síntese, tais argumentos não se encontram contemplados na fundamentação expendida pelo Tribunal de origem para a solução da controvérsia. Ademais, a despeito da oposição dos embargos de declaração, não se vislumbra o efetivo prequestionamento, situação que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias.
+Incide, portanto, a Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula n. 211, Corte Especial, julgado em 1º/7/1998, DJ de 3/8/1998, p. 366.).
+Nessa linha:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COM PEDIDO CAUTELAR EM CARÁTER ANTECEDENTE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. CONCESSÃO DE MEDIDA LIMINAR. RECURSO ESPECIAL INCABÍVEL. SÚMULA 735/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA AFASTADA.
+1. Ação com pedido cautelar em caráter antecedente.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Afasta-se a multa do art. 1.026 do CPC quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+6. Recurso especial parcialmente conhecido e, nessa parte, provido."
+(REsp n. 2.209.427/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025, g.n.)
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. REINTEGRAÇÃO DE POSSE. DISCUSSÃO SOBRE DOMÍNIO. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. PROVA DA POSSE ANTERIOR. AUSÊNCIA. ESBULHO NÃO DEMONSTRADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a agravo em recurso especial.
+II. Questão em discussão
+2. Consiste em analisar se é possível discutir a titularidade do imóvel em ação possessória.
+III. Razões de decidir
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+4.  ..  "
+(AgInt no AREsp n. 2.794.925/TO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025, g.n.)
+Diante do exposto, com arrimo no art. 253, parágrafo único, II, a e b, do RI STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+É como voto.
