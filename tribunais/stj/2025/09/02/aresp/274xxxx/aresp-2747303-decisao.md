@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto por MUNICIPIO DE DIADEMA contra acórdão assim ementado (fl. 476):
+APELAÇÃO Mandado de segurança. Ato administrativo. Poder de polícia. Proibição do fornecimento de serviços de bronzeamento artificial. Extinção sem resolução do mérito. Descabimento. Caráter preventivo do pleito, ante a demonstração concreta das autuações levadas a efeito por outros entes municipais, sob o mesmo fundamento ao qual a autora pretende não se sujeitar. Inteligência do art. 1º, caput, da Lei Federal nº 12.016/09. Mérito. Vedação ao serviço de bronzeamento artificial disposta na RDC nº 56/2009 da Anvisa. Norma que consta infirmada por decisão proferida no âmbito da Justiça Federal, que suspendeu a eficácia da norma, em caráter ultra partes. Preponderância da livre iniciativa. Precedentes. Recurso provido.
+Os embargos de declaração foram rejeitados.
+Em sede de recurso especial, interposto com fulcro no art. 105, III, a e c, da Constituição Federal, alega violação ao art. 6º, I e VII da Lei 8080/90, aos arts. 6º, 7º e 8º da Lei 9.782/99 e ao art. 1º da Lei 12.016/09, bem como divergência jurisprudencial.
+Sobreveio juízo negativo de admissibilidade no seguinte sentido: a) quanto a alínea a pela ausência de maltrato às normas legais enunciadas e ofensa à Súmula 7/STJ; b) pela alínea c, por ausência de comprovação do dissídio jurisprudencial.
+Nas razões recursais, a agravante sustenta a inaplicabilidade do óbice da Súmula 7/STJ e a correta demonstração do dissídio jurisprudencial.
+Assevera, ainda, que "de forma correta, o RESP traz de forma até esquemática a completa demonstração da similitude fática e da divergência de interpretação jurídica sobre a mesma questão jurídica (fls. 488/489)"(fl. 553).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+In casu, recurso especial em apelação em mandado de segurança preventivo manejado para suspender ato de fiscalização contra serviço de bronzeamento artificial.
+O recurso foi provido pelo Tribunal de origem, nos seguintes termos:
+No que toca ao mérito, a despeito da competência outorgada à Agência Nacional de Vigilância Sanitária Anvisa para a normatização, controle e fiscalização de produtos, substâncias e serviços de interesse para a saúde (cf. artigo 2º, inciso III, da Lei Federal nº 9.782/99), a Resolução nº 56/2009, cujo artigo 1º veda em todo o território nacional o uso dos equipamentos para bronzeamento artificial, com finalidade estética, baseados na emissão de radiação ultravioleta, restou infirmada por decisão proferida pelo MM. Juízo da 24ª Vara Federal de São Paulo em ação coletiva manejada pelo Sindicato Patronal dos Empregadores em Empresas e Profissionais Liberais em Estética e Cosmetologia do Estado de São Paulo." (fl. 477-478).
+No tocante a alegação de violação ao art. 1º da Lei 12.016/09, por ser incabível mandado de segurança à lei em tese, considero que não houve interposição do writ para alegação de violação à legislação, mas manejo de remédio preventivo contra ato baseado no poder de polícia.
+Quanto à alegada afronta ao art. 6º, I e VII da Lei 8080/90 e aos arts. 6º, 7º e 8º da Lei 9.782/99, os referidos dispositivos legais não possuem comando normativo suficiente para embasar a tese do recorrente, atraindo a incidência, por analogia, da Súmula 284/STF.
+Nestes termos:
+TRIBUTÁRIO. PROCESSO CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO ESTATUTO PROCESSUAL. INEXISTÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. LEI COMPLEMENTAR N. 116/2003. ISSQN. LABORATÓRIO DE ANÁLISES CLÍNICAS. SUJEIÇÃO ATIVA TRIBUTÁRIA. TEMA N. 355 DOS RECURSOS ESPECIAIS REPETITIVOS. NECESSIDADE DE DISTINGUISHING.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Em relação aos arts. 3º, 4º, 6º, 7º, 8º, 506 e 1.039 do CPC/2015, a par da ausência de comando normativo suficiente para alterar a conclusão alcançada pelo tribunal a quo, a Recorrente não demonstrou, de maneira precisa, como tais violações teriam ocorrido, limitando-se a apontá-las de forma vaga, circunstâncias que atraem, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+IV - O Município competente para cobrar o ISSQN sobre serviço prestado pelos laboratórios de análises clínicas é o do local em que coletado o material a ser examinado, independentemente de os procedimentos laboratoriais serem executados em município diverso.
+Precedentes de ambas as Turmas de Direito Público.
+V - Inviável aplicar idêntica conclusão aos casos envolvendo contratos de leasing e às hipóteses de serviços prestados por laboratórios de análises clínicas, pois presente relevante dintinguishing entre ambas as atividades, para efeito de divisar o sujeito ativo do ISSQN.
+VI - Recurso Especial parcialmente conhecido e, nessa extensão, improvido.
+(REsp n. 2.030.087/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/8/2024, DJe de 28/8/2024).
+TRIBUTÁRIO. PROCESSO CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO ESTATUTO PROCESSUAL. INEXISTÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. LEI COMPLEMENTAR N. 116/2003. ISSQN. LABORATÓRIO DE ANÁLISES CLÍNICAS. SUJEIÇÃO ATIVA TRIBUTÁRIA. TEMA N. 355 DOS RECURSOS ESPECIAIS REPETITIVOS. NECESSIDADE DE DISTINGUISHING.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Em relação aos arts. 3º, 4º, 6º, 7º, 8º, 506 e 1.039 do CPC/2015, a par da ausência de comando normativo suficiente para alterar a conclusão alcançada pelo tribunal a quo, a Recorrente não demonstrou, de maneira precisa, como tais violações teriam ocorrido, limitando-se a apontá-las de forma vaga, circunstâncias que atraem, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+IV - O Município competente para cobrar o ISSQN sobre serviço prestado pelos laboratórios de análises clínicas é o do local em que coletado o material a ser examinado, independentemente de os procedimentos laboratoriais serem executados em município diverso.
+Precedentes de ambas as Turmas de Direito Público.
+V - Inviável aplicar idêntica conclusão aos casos envolvendo contratos de leasing e às hipóteses de serviços prestados por laboratórios de análises clínicas, pois presente relevante dintinguishing entre ambas as atividades, para efeito de divisar o sujeito ativo do ISSQN.
+VI - Recurso Especial parcialmente conhecido e, nessa extensão, improvido.
+(REsp n. 2.030.087/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/8/2024, DJe de 28/8/2024.)
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
