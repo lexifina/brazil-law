@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EXECUTIVA RECURSOS HUMANOS LTDA. em face de decisão, assim ementada (fl. 500):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DEIMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A embargante alega omissão quanto aos fatos comprovados e incontroversos nas instâncias inferiores e que revisão da conclusão do acórdão quanto ao quem deu causa ao ajuizamento da ação para fins de condenação em honorários advocatícios pelo princípio da causalidade demanda apenas revaloração jurídica, de modo que, por essa ótica, a impugnação à Súmula 7/STJ não dependeria da demonstração de que a revisão da tese jurídica não dependeria de reexame de provas, como disposto na decisão ora embargada.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Em conformidade com a orientação firmada pela Corte Especial no julgamento dos EAREsp n. 701.404/SC, basta a falta de impugnação específica de qualquer fundamento da decisão que inadmite o recurso especial para não se conhecer do AREsp.
+No ponto, a decisão ora embargada consignou (fl. 501):
+A respeito da impugnação à decisão de inadmissibilidade, a jurisprudência do STJ é pacífica no sentido de que " a  decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018), de modo que não se conhece do AREsp na falta de impugnação específica de qualquer fundamento da decisão que inadmite o recurso especial.
+No caso, a decisão da origem que inadmitiu o recurso especial aplicou o óbice da Súmula 7/STJ à pretensão recursal, uma vez que o órgão julgador, considerando as circunstâncias particulares do caso, determinou que, embora o cancelamento do débito tenha ocorrido após o ajuizamento a execução, a parte responde pelo pagamento dos honorários advocatícios, em observância ao princípio da causalidade, sob a premissa de ter sido ela quem deu causa ao ajuizamento da ação, explicando que a cobrança deu-se em razão de pendência causada pelo próprio contribuinte, "inabilitado para transmitir seus débitos previdenciários via DCTF Web, erroneamente declarados por GFIP". (fl. 466).
+E, no caso, a parte agravante cingiu-se a pugnar a tese de que basta a revaloração do contexto fático-probatório, para se concluir pela condenação da Fazenda Nacional ao pagamento da verba honorária.
+Desta forma, a decisão ora embargada dispôs (fl. 501, grifos nossos):
+No caso dos autos, as razões recursais não impugnam especificamente a decisão que inadmitiu o recurso especial pelo óbice da Súmula 7/STJ, quanto ao fundamento de que o Tribunal, com lastro no suporte fático, verificou, pelo princípio da causalidade, que a culpa pelo ajuizamento da execução foi da contribuinte.
+A jurisprudência do STJ entende que, para impugnar especificamente a Súmula 7/STJ, o agravante deve demonstrar de que maneira a análise da tese jurídica, considerando as premissas fixadas no acórdão, não dependeria do reexame de provas - o que não ocorreu.
+Na espécie, pois, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
