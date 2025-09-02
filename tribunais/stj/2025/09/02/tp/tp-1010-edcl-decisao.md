@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Estado de Mato Grosso do Sul contra a decisão de fl. 354, em que os embargos de declaração anteriormente interpostos foram julgados prejudicados, ao fundamento de que houve perda superveniente de objeto, em razão do trânsito em julgado do acórdão proferido nos autos do REsp 1.793.830/DF.
+A parte embargante alega, em resumo, que a decisão embargada é omissa, pois não enfrentou o ponto da manutenção do interesse recursal do Estado do Mato Grosso do Sul, considerando que o acórdão do Tribunal Regional Federal da 1ª Região permanece hígido, uma vez que houve apenas sobrestamento do julgamento do recurso especial.
+Impugnação apresentada às fls. 374/375, na qual o Banco Central do Brasil sustenta que não assiste razão ao embargante, pois a perda superveniente do objeto recursal implica a perda do interesse recursal, e que os novos aclaratórios apontam mero error in judicando ou inconformismo com a justiça da decisão, sem indicação de error in procedendo ou vício formal.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada julgou prejudicados os embargos de declaração de fls. 281-291, e-STJ, ao fundamento de que, por ter sido proferida decisão atingida pelo trânsito em julgado nos autos do REsp 1.793.830/DF (no bojo do qual consta o acórdão cujos efeitos se pretende suspender nesta sede), houve a perda superveniente do objeto do pedido de tutela provisória.
+Contudo, deixou de se manifestar sobre o teor da decisão proferida naqueles autos, que não julgou o recurso especial, mas deferiu parcialmente o requerimento incidental apresentado pela União, no sentido de sobrestar o julgamento do recurso especial do BACEN e determinar a remessa dos autos ao TRF da 1ª Região para que lá se examine a alegação de ausência de intimação.
+Ante o exposto, acolho os embargos de declaração para tornar sem efeito a decisão de fl. 354.
+Oportunamente, voltem-me os autos conclusos para novo julgamento dos embargos de declaração de fls. 281-291, e-STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIO CONFIGURADO. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA TORNAR NULA DECISÃO ANTERIOR.
