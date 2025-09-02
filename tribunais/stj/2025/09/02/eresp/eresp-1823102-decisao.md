@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por WILSON MAURI SCHMIDT JUNIOR contra acórdão proferido pela Primeira Turma desta Corte assim ementado (fl. 961):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. DIREITO AMBIENTAL. PREJUÍZO AO MEIO AMBIENTE. AUSÊNCIA DE DIREITO ADQUIRIDO. ÁREA DE PRESERVAÇÃO PERMANENTE. ART. 4º DA LEI N. 12.651/2012. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não há falar em direito adquirido à manutenção de situação que gere prejuízo ao meio ambiente. Precedentes.
+III - A 1ª Seção desta Corte, na assentada de 28.04.2021, sob a sistemática dos recursos especiais repetitivos (Tema n. 1.010), firmou tese segundo a qual "na vigência do novo Código Florestal (Lei n. 12.651/2012), a extensão não edificável nas Áreas de Preservação Permanente de qualquer curso d"água, perene ou intermitente, em trechos caracterizados como área urbana consolidada, deve respeitar o que disciplinado pelo ser art. 4º, caput, inciso I, alíneas a, b, c, d e e, a fim de assegurar a mais ampla garantia ambiental a esses espaços territoriais especialmente protegidos, e, por conseguinte, à coletividade".
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+Alega o embargante divergência jurisprudencial com os seguintes julgados da 1ª Seção:
+a) AgInt no AgInt no REsp 1.380.952, argumentando que "com a repercussão geral reconhecida, deve ser garantido a Corte de origem o juízo de conformação ou manutenção do acórdão local" (fl. 1030), bem como que " sendo o r. acórdão embargado afetado pelo Tema 1010, aos autos devem ser enviados ao Tribunal de origem para juízo de conformação ou manutenção do acórdão local" (fl. 1031).
+b) AgInt no REsp 1.585.225 e AgInt no REsp 1.591.870, ao fundamento de que "muito embora tratem da mesma situação fática (edificação residencial em área urbana de isso consolidado no Balneário Porto Figueira), apresentam solução jurídica diversa, respeitando as características históricas e cultuais da região, assegurando o meio ambiente ecologicamente equilibrado e permitindo a manutenção e do uso das residências tratadas" (fl. 1045) e que "decidiu-se que os r. acórdãos do TRF da 4ª Região não poderiam ser reformados em recurso especial, sob pena de usurpação de competência" (fl. 1048).
+É o relatório.
+O recurso não ultrapassa o juízo de conhecimento.
+Com efeito, o acórdão embargado decidiu em harmonia com o entendimento jurisprudencial atual desta Corte, que afasta a viabilidade jurídica de manutenção de construção irregular em área de preservação ambiental, independente de se tratar de área antropizada.
+Neste sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO AMBIENTAL. CONSTRUÇÃO DE EDIFICAÇÕES. CASA DE VERANEIO. MARGEM DE RIO. ÁREA DE PRESERVAÇÃO PERMANENTE. FATO CONSUMADO. INAPLICABILIDADE EM MATÉRIA AMBIENTAL. SÚMULA 613/STJ. ÁREA NON AEDIFICANDI.
+1. Não ocorreu ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A conclusão da instância ordinária dissentiu da iterativa jurisprudência desta Corte, consubstanciada na Súmula n. 613: "Não se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental".
+3. A APP é caracterizada como faixa de terreno onde é vedada a construção, cuja exploração econômica direta, desmatamento ou ocupação humana se dão de forma totalmente excepcional e em numerus clausus, somente nas hipóteses de utilidade pública, de interesse social ou de baixo impacto ambiental previstas nesta Lei, mediante rigoroso procedimento de licenciamento administrativo.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.769.681/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Nesse contexto, forçoso reconhecer a incidência do enunciado nº 168 da Súmula desta Corte, "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Ademais, nenhum dos paradigmas apontados aprecia o mérito da demanda, o que inviabiliza a admissão da divergência, conforme preconiza o enunciado 315 da Súmula do STJ: " N ão cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial"
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DIREITO AMBIENTAL. CONSTRUÇÃO IRREGULAR EM APP. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 168/STJ. RECURSO INDEFERIDO LIMINARMENTE.
