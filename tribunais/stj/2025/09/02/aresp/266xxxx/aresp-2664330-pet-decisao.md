@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de expediente avulso formado em favor de RAUL EMERSON GOMES MARTINS.
+No requerimento (fls. 1823-1836), a defesa postula, de forma imprópria, a concessão de habeas corpus de ofício para pleitos diversos, a saber: A aplicação do art. 387, § 2º, do Código de Processo Penal, com o cômputo da detração penal (art. 42 do Código Penal), a fim de reduzir o tempo de prisão domiciliar do Recorrente no cálculo do regime inicial de cumprimento da pena privativa de liberdade, fixando-a, ao final, em 3 anos e 2 meses de reclusão, em regime aberto; reconhecer a ilicitude das provas obtidas a partir da análise do aparelho celular do Recorrente, sem autorização judicial ou consentimento, com consequente reconhecimento da nulidade das provas derivadas (art. 157, § 1º, do CPP), por violação a normas constitucionais e legais sobre privacidade e inviolabilidade das comunicações; afastar a aplicação das teorias da fonte independente e da descoberta inevitável, à luz do próprio acórdão do TJCE, que reconhece a retratação das declarações em juízo e aponta possível prática de tortura, inviabilizando a incidência do art. 157, § 2º, do CPP; declarar a absolvição do Recorrente em relação aos delitos previstos no art. 157, § 2º, II e III, e § 2º-A, I, do Código Penal, bem como no art. 12 da Lei n. 10.826/2003, por ausência de provas quanto à autoria delitiva, com base no art. 386, incisos IV, V ou VII, do CPP, ou, subsidiariamente, determinar o desentranhamento das provas inadmissíveis, a nulidade da sentença e dos atos subsequentes, e a remessa dos autos para novo julgamento por Juízo Substituto, nos termos dos §§ 3º e 5º do art. 157 do CPP.
+É o breve relatório.
+Decido.
+Não se admite a formação de expediente apartado, com petição protocolada diretamente nos autos de agravo em recurso especial e desprovida de adequada identificação, previsão legal ou regimental que autorize tal medida.
+Cumpre registrar que o habeas corpus concedido de ofício constitui prerrogativa do julgador, a ser exercida quando, no exame do feito, identificar flagrante ilegalidade ou constrangimento ilegal evidente, não se tratando de providência que possa ser formalmente requerida pela parte, sob pena de desvirtuamento do instituto.
+Ante o exposto, indefiro o pedido, com fundamento no art. 210 e art. 255, § 4º, I, ambos do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
