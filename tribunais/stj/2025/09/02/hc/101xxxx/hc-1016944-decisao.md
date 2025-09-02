@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de VANDERLEI FERNANDES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Consta dos autos que, na ocasião do julgamento do agravo em execução penal interposto pelo Ministério Público, o Tribunal de origem cassou o livramento condicional concedido ao paciente e determinou a realização de exame criminológico, com base no seu histórico prisional, pois "condenado a pena total superior a 37 anos de reclusão em razão da prática de múltiplos delitos, dentre os quais crimes graves roubos majorados e tráfico de drogas" e na recente falta grave praticada (março/2024).
+O impetrante argumenta, em suma, que tal decisão seria desnecessária e injusta, pois o paciente já cumpria pena em livramento condicional e possuía bom comportamento carcerário, o que teria sido considerado pelo Juízo da execução ao entender desnecessário o exame criminológico.
+Alega que o paciente teria cumprido os requisitos objetivos e subjetivos à concessão do livramento condicional, conforme a Lei de Execução Penal.
+Assevera que a gravidade do crime já teria sido considerada na dosimetria da pena e no regime fixado, e que a determinação do exame apenas com base na gravidade configura bis in idem.
+Destaca que a demora na realização do exame criminológico o tornaria inválido, sendo indevida a manutenção do reeducando em regime mais gravoso apenas para a realização de tal procedimento.
+Requer, liminarmente, a suspensão da ordem de regressão ao regime fechado até o julgamento definitivo deste habeas corpus; no mérito, a confirmação da liminar e a concessão do livramento condicional, sem a necessidade de realização do exame criminológico.
+A liminar foi indeferida, e as informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+A Constituição da República assegura, no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+O Juízo da execução deferiu a progressão de regime com os seguintes termos (fl. 45):
+ ..  Limitando adequadamente o conteúdo do bom comportamento, leciona Mirabete: "A aferição do mérito porém se refere à conduta global do preso e dela faz parte um acréscimo na confiança depositada no mesmo e a possibilidade de atribuição de maiores responsabilidades para o regime de mais liberdade".1
+Neste caso, conforme cálculo, o sentenciado alcançou, objetivamente, direito ao livramento condicional e, conforme boletim informativo e atestado comprobatório de comportamento carcerário, possui boa conduta carcerária. Além disso, não recebeu parecer desfavorável na avaliação realizada. ..
+O Tribunal de origem, ao cassar a decisão acima, assim consignou (fls. 14-15):
+ ..  Ao que consta da r. decisão recorrida, o requisito objetivo para o livramento condicional já foi preenchido. Entretanto, no que se refere ao requisito subjetivo, a par do atestado de bom comportamento carcerário, não há demonstração suficientemente segura do mérito necessário ao gozo do livramento condicional, benefício de grande amplitude e vigilância diminuída, tornando imprescindível que se colha mais elementos acerca da absorção da terapêutica penal para o retorno ao convívio social.
+Com efeito, é patente a recorrência no meio ilícito por parte do agravado, condenado a pena total superior a 37 anos de reclusão em razão da prática de múltiplos delitos, dentre os quais crimes graves roubos majorados e tráfico de drogas.
+Resta ainda longa pena a cumprir cerca de 16 anos - com término previsto apenas para 23.11.2041 (fls. 21).
+Apresenta, ainda, falta grave recente (março/2024), o que deixa entrever falta de comprometimento e de senso de responsabilidade, tudo a roborar a necessidade de uma rigorosa análise acerca do preparo para o gozo do benefício. Cumpre destacar, embora reabilitada, não há limite temporal para consideração da infração disciplinar.
+ ..
+As circunstâncias apuradas são reveladoras de periculosidade e evidenciam a necessidade de rigor e cautela na concessão do benefício em apreço.
+Cumpre observar que, em sede de execução penal, vige o princípio "in dubio pro societate", daí a necessidade de avaliação cautelosa da evolução da pena e do mérito antes do deferimento de benefícios executórios, com a finalidade precípua de evitar a recidiva e proteger a coletividade de novas violações a bens jurídicos fundamentais.
+Desse modo, uma vez que a concessão se deu sem a adequada verificação dos requisitos, de rigor o provimento do agravo interposto, a fim de cassar o benefício concedido e determinar a realização de exame criminológico para melhor aferição do mérito do agravado para o livramento condicional. ..
+Como visto, o Tribunal do Estado, ao reformar a decisão singular, fundamentou com base na necessidade de uma melhor reavaliação do requisito subjetivo para a realização do exame criminológico, ao considerar a longa pena a cumprir por crimes com violência contra a pessoa (16 anos), bem como falta disciplinar recente (março/2024) do reeducando.
+Nesse contexto, encontra-se devidamente fundamentado o acórdão ora impugnado, em razão do não cumprimento do requisito subjetivo. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. TEMA REPETITIVO N. 1.161 DO STJ. FALTA DISCIPLINAR GRAVE RECENTE. REEXAME PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência desta Corte Superior, "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal". Tema repetitivo n. 1.161 do STJ.
+2. Caso concreto em que o Tribunal de origem, ante o cometimento de falta disciplinar grave recente, em que pese reabilitada, decidiu que não há como se concluir, com a certeza que o caso exige, que esteja o agravante engajado com a terapêutica penal, próximo da ressocialização.
+3. Impossível a alteração das premissas fáticas delineadas pelas instâncias de origem, pois que ensejam o reexame do conteúdo probatório dos autos, inadmissível em habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 902.352/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 10/6/2024, DJe de 20/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. FALTA GRAVE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA IMPRÓPRIA. AGRAVO DESPROVIDO.
+1. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia de motivação das decisões judiciais, expressa no art. 93, IX, da Constituição da República, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+2. Referido entendimento é objeto da Súmula n. 439/STJ, segundo a qual: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+3. A jurisprudência desta Corte firmou-se no sentido de que a gravidade abstrata dos delitos praticados, a longa pena a cumprir e a probabilidade de reincidência, por não serem elementos concretos relacionados ao comportamento do sentenciado durante a execução da pena, não justificam a determinação de realização de exame criminológico para aferir o preenchimento do requisito subjetivo para concessão de benefícios executórios.
+4. A Corte local decidiu em conformidade com o posicionamento adotado por este Tribunal Superior, eis que determinou a realização do exame criminológico com base em fundamentação idônea - existência de falta grave recente durante a execução da pena.
+5. De acordo com o Tema n. 1.161/STJ, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal." ((REsp n. 1.970.217/MG, deste Relator, relator, Terceira Seção, DJe de 1º/6/2023).
+6. O remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 900.796/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2024, DJe de 20/9/2024.)
+Por fim, a alegada demora na realização do exame criminológico não foi previamente debatida pelo Tribunal local, de modo que não pode ser apreciada por esta egrégia Corte , sob pena de indevida supressão de instância.
+Diante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
