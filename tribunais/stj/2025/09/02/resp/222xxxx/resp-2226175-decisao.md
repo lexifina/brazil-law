@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por VINÍCIUS GENÉZIO CUNHA NUNES e LEONARDO SILVA DOS ANJOS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE.
+Nas razões do especial (fls. 1025-1052), os recorrentes alegam violação ao art. 619 do Código de Processo Penal e aos artigos 1.022 e 1.025 do Código de Processo Civil, sustentando que o acórdão recorrido incorreu em omissão ao não se manifestar sobre questões essenciais ao deslinde da controvérsia, mesmo após a oposição de embargos de declaração. Aduzem, em síntese, que o Tribunal de origem deixou de observar a tese fixada pelo Supremo Tribunal Federal no Tema 1.003 da repercussão geral, que declarou a inconstitucionalidade do preceito secundário do art. 273 do Código Penal.
+A decisão de admissibilidade admitiu o recurso especial (fls. 1111-1115).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial e pela concessão de habeas corpus de ofício (fls. 1137-1142).
+É o relatório. DECIDO.
+O acórdão recorrido, ao aplicar a pena do crime de tráfico de drogas por analogia, divergiu do entendimento firmado pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário n. 979.962/RS (Tema n. 1.003), sob a sistemática da repercussão geral.
+Naquela oportunidade, a Suprema Corte assentou que, declarada a inconstitucionalidade do preceito secundário do art. 273 do Código Penal (com a redação da Lei n. 9.677/98), deve-se repristinar a redação original do dispositivo, que previa a pena de reclusão de 1 (um) a 3 (três) anos, e multa.
+Nesse mesmo sentido:
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. CRIME CONTRA A SAÚDE PÚBLICA E CRIME CONTRA AS RELAÇÕES DE CONSUMO. ART. 273, § 1º, § 1º-A E § 1º-B, I E III, DO CÓDIGO PENAL. ART. 7º, IX, DA LEI 8.137/90. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OMISSÃO NO ACÓRDÃO EMBARGADO. EMBARGOS ACOLHIDOS. I. CASO EM EXAME
+1. Embargos de declaração opostos por MARIANA TEIXEIRA DA TRINDADE e, em conjunto, por MARIA JOSÉ NOVELLI DELFINI e RENATO AUGUSTO DE ALMEIDA DELFINI, contra acórdão que deu provimento a recurso especial para readequar a pena imposta por infração ao art. 273, §§ 1º, 1º-A e 1º-B, I e III, do Código Penal. As embargantes alegam erro material e omissão quanto ao reconhecimento da prescrição da pretensão punitiva, em razão da readequação da pena para patamar inferior. O Ministério Público opinou pelo acolhimento dos embargos. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) determinar se houve omissão do acórdão quanto à análise da prescrição da pretensão punitiva após a readequação da pena; (ii) verificar se, nos termos dos arts. 107, IV, e 109, V, do Código Penal, está configurada a extinção da punibilidade pela prescrição. III. RAZÕES DE DECIDIR
+3. Os embargos de declaração são cabíveis para sanar omissão relevante, nos termos do art. 619 do Código de Processo Penal, especialmente quando a omissão compromete a análise integral da pretensão recursal e seus efeitos jurídicos.
+4. Uma vez reconhecida a inconstitucionalidade do preceito secundário do art. 273, § 1º-B, I, do Código Penal e readequada a pena ao patamar de 2 anos de reclusão, impõe-se a análise da prescrição da pretensão punitiva, nos termos do art. 109, V, do Código Penal.
+5. Considerando o prazo prescricional de 4 anos, nos termos do art. 109, V, do CP, e verificado o transcurso superior a esse prazo entre a publicação da sentença condenatória (01/09/2017) e a publicação do acórdão confirmatório da condenação (03/11/2021), impõe-se o reconhecimento da prescrição da pretensão punitiva.
+6. Constatado o vício de omissão e a efetiva ocorrência da prescrição, deve ser acolhido o pleito para extinguir a punibilidade dos embargantes, nos termos dos arts. 107, IV, e 109, V, do Código Penal. IV. DISPOSITIVO E TESE
+7. Embargos de declaração acolhidos.
+Tese de julgamento:
+1. A readequação da pena imposta, por força de decisão judicial que reconhece a inconstitucionalidade do preceito secundário do art. 273, § 1º-B, do Código Penal, impõe a reavaliação do prazo prescricional à luz da nova pena fixada.
+2. Verificado o transcurso do prazo prescricional entre marcos interruptivos definidos na lei penal, deve ser reconhecida a extinção da punibilidade pela prescrição da pretensão punitiva.
+3. A omissão quanto à análise da prescrição após a readequação da pena configura vício sanável em sede de embargos de declaração, nos termos do art. 619 do CPP.
+(EDcl no AREsp n. 2.229.393/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+Dessa forma, faz-se necessário o retorno dos autos ao Tribunal de origem, para que nova dosimetria da pena seja formulada, com base no preceito secundário estabelecido no art. 273 do Código Penal, com a redação da Lei n. 9.677/98.
+Ante o exposto, dou provimento ao recurso especial para, na forma da fundamentação retro, com determinação ao Tribunal de origem para que refaça a dosimetria da pena dos recorrentes com base no preceito secundário estabelecido no art. 273 do Código Penal, com a redação da Lei n. 9.677/98 .
+Publique-se. Intimem-se.
+EMENTA
