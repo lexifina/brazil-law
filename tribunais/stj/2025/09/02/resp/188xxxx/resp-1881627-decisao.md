@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por SYNGENTA PROTEÇÃO DE CULTIVOS LTDA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (fls. 546-556 e-STJ), assim ementado:
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - INSCRIÇÃO NA JUNTA COMERCIAL POR MAIS DE 14 A NOS - REGISTRO CANCELADO - REGISTRO REATIVADO A MENOS DE 02 (DOIS) ANOS - COMPROVADO O EXERCÍCIO DA ATIVIDADE EMPRESA NO PERÍODO DE CANCELAMENTO ADMINISTRATIVO - PROVA PERICIAL - DIVERGÊNCIA QUANTO AO OBJETO DA EMPRESA - MESMA CADEIA PRODUTIVA - GRUPO ECONÔMICO - RECURSO CONHECIDO E PROVIDO.
+Restou demonstrado nos autos pelos agravantes, que a empresa possuiu registro ativo perante a JUCEMAT de 20/03/2001 a 05/03/2015, ou seja, 14 anos, quando foi cancelado administrativamente, e que reativado em 2018.
+A prova pericial realizada no juízo primevo demonstrou que a empresa se manteve ativa e realizando de forma continua as suas atividades até os dias atuais, embora o cancelamento administrativo do registro perante a Junta Comercial.
+Sabe-se que mesmo o cancelamento administrativo perante a JUCEMAT, não implica na extinção da empresa, mas tem por sanção apenas a perda da proteção do seu nome empresarial.
+A prova técnica também revelou que os agravantes representam uma única massa patrimonial, possuem administração comum e identidade laboral, de modo que a recuperação de um está diretamente vinculada à recuperação do outro, estando umbilicalmente ligadas.
+Opostos embargos declaratórios (fls. 561-569 e-STJ), restaram desacolhidos na origem (fls. 663-677 e-STJ).
+Nas razões de recurso especial (fls. 761-775 e-STJ), alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal:
+(i) artigo 1º, 48 e 51 da Lei n. 11.101/05, arguindo que o devedor, ao tempo do pedido de recuperação judicial, não possuía registro da atividade empresarial há 2 (dois) anos - não cumprindo o requisito legal para processamento da medida.
+(ii) artigo 971 do CC, sustentando que os produtores rurais podem escolher o regime jurídico ao qual querem estar sujeitos (leis empresariais ou civilistas), mas não podem ficar com os bônus de ambos os regimes.
+Aduziu, por fim, a existência de dissídio jurisprudencial.
+Apresentadas contrarrazões (fls. 785-802 e-STJ), o apelo extremo foi admitido na origem (fls. 807-813 e-STJ).
+É o relatório.
+Decide-se.
+1. A controvérsia relativa ao registro empresarial do produtor rural e ao requisito temporal ao cabimento da recuperação judicial foi enfrentada por este STJ em julgamento submetido à sistemática dos recursos repetitivos, ocasião na qual restou firmada a seguinte tese:
+Tema/Repetitivo 1145/STJ: Ao produtor rural que exerça sua atividade de forma empresarial há mais de dois anos é facultado requerer a recuperação judicial, desde que esteja inscrito na Junta Comercial no momento em que formalizar o pedido recuperacional, independentemente do tempo de seu registro.
+Em relação à natureza do registro do empresário na Junta Comercial, extrai-se do voto proferido pelo relator do referido precedente, o e. Ministro LUIS FELIPE SALOMÃO:
+7. Na linha da doutrina, esta Corte já afirmou a natureza declaratória atribuída ao registro efetivado pelo empresário na Junta Comercial.  ..
+Seguindo os passos traçados no referido julgamento, somado aos delineamentos doutrinários apresentados, mostrou-se inadequado, ou infundado, conferir tratamento distinto à natureza jurídica da inscrição realizada pelo produtor rural.
+Com efeito, parece mesmo intuitivo que, nos termos da teoria da empresa, a qualidade de empresário rural também se verificará sempre que comprovado o exercício profissional da atividade econômica rural organizada para a produção ou a circulação de bens ou de serviços, independentemente da efetivação da inscrição na Junta Comercial.
+Nesse passo, como pontuou o Ministro Raul Araújo no voto condutor do REsp n. 1.800.032/MT, paradigma da matéria para a Quarta Turma, a inscrição no Registro Público será, tão somente, condição para a obtenção de melhores favores do ordenamento jurídico:
+Ora, se ele pode requerer inscrição, significa que o empreendedor rural, diferente do empreendedor econômico comum, está sempre em situação regular; não tem situação irregular. Se ele exerce atividade de produção de bens agrícolas, esteja inscrito ou não, tem situação regular, porque pode se inscrever ou não. Quando é que ele se inscreve  Se ele quiser obter melhores favores do ordenamento jurídico, ele se inscreve. Se não, se ele se contenta com o regime jurídico comum do Código Civil, não se inscreve. Mas ele está sempre regular, o que não acontece com o empresário comum, com o empreendedor comum, cuja inscrição é obrigatória para ele estar regular. Do contrário, ele está irregular.
+(REsp 1800032/MT, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/11/2019, DJe 10/02/2020)
+Seguindo por esse raciocínio, é possível afirmar que a inscrição do produtor rural na Junta Comercial, em vez de "transformá-lo" em empresário, acarreta sua sujeição ao regime empresarial, descortinando-se, então, uma série de benefícios e ônus de titularidade apenas para aqueles que se registram na forma preconizada no art. 968 do CC/2002.
+Em outras palavras, concluiu o judicioso voto apresentado à colenda Terceira Turma pelo Ministro Marco Aurélio Bellizze "que a inscrição no Registro Público de Empresas Mercantis não promove a constituição do empresário, tampouco é definidor, por si, da incidência do regime jurídico empresarial. Possui, sim, o condão de declarar a qualidade jurídica de empresário, conferindo-lhe status de regularidade" (REsp 1811953/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/10/2020, DJe 15/10/2020). Nessa linha pontuou:
+ ..
+Tanto parece ser essa a melhor compreensão que o art. 971 do diploma material civil, ao tratar da inscrição do sujeito que pratica atividade rural, já o nomeia empresário.
+Portanto, naquele julgado, em relação ao requisito de 2 (dois) anos de atividade empresarial (previsto no art. 48 da Lei n. 11.101/05), concluiu-se o seguinte:
+Destarte, o registro empresarial deve, sim, ser realizado antes da impetração da recuperação judicial (critério formal).
+Contudo, a comprovação da regularidade da atividade empresarial pelo biênio mínimo (art. 48 da Lei n. 11.101/2005) será aferida pela manutenção e continuidade do exercício profissional (critério material).  grifou-se
+Por fim, o voto condutor do aludido leading case fez referência também à escrituração contábil, mencionando a inovação legislativa sobre o tema, voltada especificamente ao produtor rural:
+9. Por oportuno, saliente-se a publicação da Lei n. 14.112/2020, que alterou a Lei n. 11.101/2005, reformulando o sistema de insolvência empresarial brasileiro, com previsão orientada à regulamentação da situação do produtor rural. Nesse rumo, confiram-se as previsões da recente legislação:
+Art. 48. Poderá requerer recuperação judicial o devedor que, no momento do pedido, exerça regularmente suas atividades há mais de 2 (dois) anos e que atenda aos seguintes requisitos, cumulativamente:
+ ..
+§ 2º No caso de exercício de atividade rural por pessoa jurídica, admite-se a comprovação do prazo estabelecido no caput deste artigo por meio da Escrituração Contábil Fiscal (ECF), ou por meio de obrigação legal de registros contábeis que venha a substituir a ECF, entregue tempestivamente.
+§ 3º Para a comprovação do prazo estabelecido no caput deste artigo, o cálculo do período de exercício de atividade rural por pessoa física é feito com base no Livro Caixa Digital do Produtor Rural (LCDPR), ou por meio de obrigação legal de registros contábeis que venha a substituir o LCDPR, e pela Declaração do Imposto sobre a Renda da Pessoa Física (DIRPF), e balanço patrimonial, todos entregues tempestivamente.
+§ 4º Para efeito do disposto no § 3º deste artigo, no que diz respeito ao período em que não for exigível a entrega de LCDPR, admitir-se-á a entrega de livro-caixa utilizado para a elaboração da DIRPF.
+§ 5º Para fins de atendimento ao disposto nos §§ 2º e 3º deste artigo, as informações contábeis relativas a receitas, a bens, a despesas, a custos e a dívidas deverão estar organizadas de acordo com a legislação e com o padrão contábil da legislação correlata vigente, bem como guardar obediência ao regime de competência e de elaboração de balanço patrimonial por contador habilitado.
+Dessarte, nos termos do dispositivo transcrito acima, caso o registro ocorra após o início de suas atividades, a comprovação do exercício dessas atividades pelo prazo mínimo exigido para o requerimento de recuperação poderá ser realizada nas formas especificadas nos §§ 2º ao 5º.  destaques no original
+Assim, estando o acórdão recorrido em consonância com o entendimento firmado por este STJ sobre o tema, deve ser negado provimento ao recurso especial.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao recurso especial.
+Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), pois inexistente condenação desde a origem no presente feito recursal.
+Publique-se.
+Intimem-se.
+EMENTA
