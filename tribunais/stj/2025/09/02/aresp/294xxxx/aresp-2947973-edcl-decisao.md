@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ADRIA AGROPECUÁRIA LTDA. em face de decisão, assim ementada (fl. 724):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DEIMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A embargante alega que a decisão padece de vício de omissão, ao argumento de não terem sido enfrentados minudentemente os argumentos suscitados nas razões recursais, e aduz que demonstrou a presença de omissão no acórdão recorrido sobre discussão trazida a respeito da alegação de inaplicabilidade do Tema de Repercussão Geral 796/STF.
+Sustenta (fl. 732):
+De fato, não se olvida que o acordão recorrido erigiu o precedente firmado no Tema 796 de Repercussão Geral para o deslinde da controvérsia. O fato é que a ora embargante, em seus primitivos aclaratórios, pretendeu suprimir teratológica omissão sobre a distinção que foi erigida entre o leading case e o caso em testilha, circunstância que também implicou na violação aos artigos 23 da Lei 9.249/95 e 37 do CTN.
+A despeito de provocado, o Tribunal a quo se valeu de um modelo protocolar e genérico de rejeição, que não examinou as particularidades do caso concreto, tampouco aplicou o que de direito a parte conclama, incidindo em nítida afronta ao artigo 1.022, inciso II e 489, § 1º, inciso IV do Código de Processo Civil.
+Impugnação a fls. 742/744.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, a decisão da origem inadmitiu o recurso especial por três fundamentos: (i) inexistência de violação do art. 1.022 do CPC/2015; (ii) o tribunal se valeu de fundamentação de natureza constitucional para dirimir a controvérsia; (iii) dissídio jurisprudencial não demonstrado nos moldes legais exigidos.
+No ponto, não se conheceu do AREsp uma vez verificada a falta de impugnação específica quanto ao óbice de que o acórdão adotou fundamentação de natureza constitucional para dirimir a controvérsia.
+Ora, em conformidade com a orientação firmada pela Corte Especial no julgamento dos EAREsp n. 701.404/SC, basta a falta de impugnação específica de qualquer fundamento da decisão que inadmite o recurso especial para não se conhecer do AREsp.
+No ponto, a decisão ora embargada consignou expressamente (fls. 724/725):
+A respeito da impugnação à decisão de inadmissibilidade, a jurisprudência do STJ é pacífica no sentido de que " a  decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018), de modo que não se conhece do AREsp na falta de impugnação específica de qualquer fundamento da decisão que inadmite o recurso especial.
+Desta forma, a decisão ora embargada dispôs (fl. 725, grifos nossos):
+No caso dos autos, as razões recursais não impugnam especificamente o óbice de que o acórdão adotou fundamentação de natureza constitucional para dirimir a controvérsia.
+Com efeito, a agravante, embora alegue violação de dispositivo de lei federal, apresenta razões confirmando que o acórdão recorrido decidiu a controvérsia com base no precedente firmado pelo STF no Tema n. 796, de Repercussão Geral, e aduzindo, em seu inconformismo, argumentação de cunho constitucional discutindo a interpretação dada à referida tese do STF.
+Assinale-se que não supre o princípio da dialeticidade, cumprindo- se com a impugnação específica, requisito legal de admissibilidade do AREsp, nos termos do disposto nos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ, a falta de confronto direto e pertinente contra o que pontualmente consta na decisão de inadmissibilidade, para fins de demonstrar o seu desacerto.
+Assim, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando, de forma clara, objetiva e concreta, o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+Na espécie, pois, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
