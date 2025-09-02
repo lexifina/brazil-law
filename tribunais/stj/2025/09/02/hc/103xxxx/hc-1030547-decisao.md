@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALTAIR BELINO PORTELLA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que, em razão da supost a prática da conduta descrita no art. 16, caput, da Lei n. 10.826/2003, o Tribunal de origem deu provimento ao recurso em sentido estrito interposto pelo Ministério Público estadual, para restabelecer a prisão preventiva do paciente, em acórdão (fls. 12-18).
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do paciente.
+Sustenta ausência de fundamentação para a segregação cautelar.
+Aduz que "O Recorrido, por sua vez, não representa risco concreto à ordem pública ou à ordem econômica, inexistindo, portanto, os pressupostos legais que autorizam a decretação da prisão preventiva" (fl. 6).
+Requer, ao final, a revogação da prisão preventiva ou a imposição de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta, haja vista que, em tese, ele foi flagrado transportando, sem autorização e em desacordo com determinação legal, no interior do veículo que conduzia, uma submetralhadora calibre 9mm, acompanhada de 15 (quinze) munições 9mm; não se olvidando o risco de reiteração criminosa, na medida em que a conduta em exame não é fato isolado na vida do paciente.
+Nesse sentido, o Tribunal local destacou que "Como se não bastasse, conforme bem salientado pelo representante do Ministério Público, alguns meses antes dos fatos ora noticiados, em 15/7/2024, o recorrido fora preso em flagrante pela prática do mesmo crime, "oportunidade em que restou abordado na posse de uma pistola, marca Taurus, modelo PT 140 G2A, calibre nominal .40 S&W, número de série SLW93847; com um carregador descartável tipo cofre; 13 cartuchos de calibre nominal .40 S&W e 05 cartuchos de calibre nominal .38 SPL" (Evento 1, INIC1, fl. 8, autos do RESE)" (fl. 16).
+Ademais, o Magistrado ressaltou que "A infração penal ora imputada, aliás, foi cometida enquanto Altair cumpria as condições do acordo de não persecução penal entabulado em razão do fato anterior, motivo pelo qual o Ministério Público, no bojo da execução n. 5030015-27.2024.8.24.0018, comunicou o Juízo sobre o descumprimento das condições do negócio jurídico processual a fim de rescindi-lo" (fl. 16).
+Tais circunstâncias demonstram a periculosidade do paciente, justificando a segregação cautelar para a garantia da ordem pública, diante do risco concreto de reiteração delitiva.
+Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta"" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017). (RHC 106.326/MG, Sexta turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei.)
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
