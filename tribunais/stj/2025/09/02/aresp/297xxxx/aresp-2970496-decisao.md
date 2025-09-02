@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALÔ EVENTOS LTDA. contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 211 do STJ e 282 e 356 do STF (fls. 111-113). Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que os argumentos da agravante não merecem guarida, devendo ser negado provimento ao presente recurso (fls. 127-131).
+O recurso especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em agravo de instrumento nos autos de ação de indenização.
+O julgado foi assim ementado (fls. 43-47):
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIVULGAÇÃO DE EVENTO. DECISÃO QUE DETERMINOU ÀS RÉS A APRESENTAÇÃO DE PROGRAMAÇÃO COM "BREAKS" COMERCIAIS DOS ANOS DE 2016 E 2017. RECURSO INTERPOSTO POR ELAS. ALEGADA IMPOSSIBILIDADE DE EXIBIÇÃO, POR EXCLUSÃO DOS SISTEMAS INTERNOS DAS DEMANDADAS. ACOLHIMENTO. EMISSORAS QUE POSSUEM O DEVER DE GUARDA DOS TEXTOS DOS PROGRAMAS VEICULADOS DURANTE SESSENTA DIAS. PRAZO QUE DECORREU HÁ MUITOS ANOS. AUSÊNCIA DO DEVER DE GUARDA DA GRADE DA PROGRAMAÇÃO ALUSIVA AO PERÍODO EM QUE HOUVE O SUPOSTO DESCUMPRIMENTO CONTRATUAL. IMPOSSIBILIDADE DE IMPOSIÇÃO DA EXIBIÇÃO. DECISÃO REFORMADA. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram decididos nesses termos (fls. 65-69):
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIVULGAÇÃO DE EVENTO. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE NA VIA PROCESSUAL ELEITA PELA PARTE. PEDIDO DE MANIFESTAÇÃO EXPRESSA SOBRE DISPOSITIVOS LEGAIS INVOCADOS PARA FINS DE PREQUESTIONAMENTO. DESNECESSIDADE. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 373, § 3º, II, do CPC, porquanto a inversão do ônus da prova foi deferida em decisão de saneamento, mas não foi observada pelo acórdão recorrido (fls. 72-82);
+b) 71, § 2º, da Lei n. 4.117/1962, visto que o prazo de guarda de documentos e textos de programas transmitidos por emissoras de televisão deve ser contado a partir do ajuizamento da ação, e não do término do contrato (fls. 72-82).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando-se a exibição dos documentos solicitados pela autora.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não preenche os requisitos procedimentais para ser admitido e/ou provido, sendo medida que se impõe o total indeferimento (fls. 104-110).
+É o relatório. Decido.
+O agravo não merece prosperar.
+Na origem, trata-se de ação de indenização por alegado descumprimento de contrato firmado entre as partes em que foi interposto agravo de instrumento contra decisão que afastou determinação judicial de primeira instância para apresentação de provas dos anos de 2016 e 2017 relativas ao contrato celebrado entre as partes, ao fundamento de que a ausência desses elementos pode servir para procedência ou não da ação judicial.
+Não merece prosperar a alegação de violação do artigo 373 do Código Civil e artigo 71 da Lei n. 4.117 de 1962, pois a distribuição do ônus da prova e sua apreciação cabem às instancias de primeiro e segundo graus, destinatárias da prova, ao analisarem o caso sub judice.
+Ressalte-se, a análise da prova produzida e a distribuição do ônus de sua produção encontram óbice em recurso especial.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. EMPREITADA. OMISSÃO. NÃO CONFIGURAÇÃO. ÔNUS DA PROVA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. LIVRE CONVENCIMENTO. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO. PARCIAL PROVIMENTO. NÃO CABIMENTO. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. PARCIAL CONHECIMENTO. NÃO PROVIMENTO.
+1. Não configurada a alegada omissão ou negativa de prestação jurisdicional, tendo em vista que houve manifestação suficiente acerca dos temas postos em discussão desde a origem.
+2. Cabe ao magistrado, com base no livre convencimento, a interpretação das provas constantes nos autos, assim como a necessidade da dilação probatória e as partes a ela obrigadas, desde respeitado o previsto legalmente e haja igualdade de condições das partes para a produção das provas.
+3. Somente é devida a majoração de honorários advocatícios de sucumbência quando, após 18.3.2016, não se conheça do recurso ou que ele seja integralmente desprovido, desde que haja referida condenação desde a origem.
+4. Não tendo sido preenchidos os requisitos dos arts. 1.029, § 1º, do CPC, e 255 do RISTJ inviabilizado o exame de dissídio interpretativo.
+5. Recurso especial conhecido em parte e, nessa extensão, não provido. (AREsp n. 1.699.563/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/6/2025, DJEN de 3/7/2025.)
+Destaque-se, a propósito, os fundamentos utilizados pela Corte local quanto à impossibilidade de exibição dos textos e programas veiculados pela emissora de televisão (fl. 45):
+No mérito, permanecem hígidos os fundamentos lançados quando da apreciação da liminar. Isso porque, nos termos do art. 71, §2º, do Código Brasileiro de Telecomunicações (Lei nº 4.117/62), aplicável à espécie, as emissoras deverão preservar em seus arquivos os textos dos programas por ela veiculados durante sessenta dias, senão vejamos:
+Art. 71. Toda irradiação será gravada e mantida em arquivo durante as 24 horas subsequentes ao encerramento dos trabalhos diários de emissora.
+(..)
+§ 2º As emissoras deverão conservar em seus arquivos os textos dos programas, inclusive noticiosos devidamente autenticados pelos responsáveis, durante 60 (sessenta) dias.
+Neste contexto, ainda que as rés tenham promovido a juntada de parte de comprovantes de veiculação de material de divulgação do evento produzido pela agravada (mov. 30.16/30. 27), não é razoável lhes imputar a obrigação de apresentação de outros descritivos de programação, por ter decorrido o prazo legal de guarda da documentação, já que transcorridos mais de sete anos desde a obrigação contratualmente assumida.
+A propósito, consoante o art. 400, II, do CPC , ao decidir o pedido de exibição de 1  documentos, o juiz apenas admitirá como verdadeiros os fatos que a parte pretendia provar caso a recusa apresentada pela parte contrária seja ilegítima, o que não se verifica na hipótese.
+Além disso, ao analisar os embargos de declaração opostos pelas demandadas (mov. 152.1), a douta Magistrada consignou o acolhimento dos "motivos aventados quanto a impossibilidade da " (mov. 170.1, p. 02). juntada dos documentos
+Assim, a imposição às agravadas de apresentação dos documentos solicitados pela requerente lhes acarreta ônus excessivo, já que não mais possuem a grade de programação dos breaks comerciais exibidos dos anos de 2016 a 2017, tratando-se, pois, de produção de prova impossível, o que não se pode admitir.
+Desse modo, para infirmar a conclusão do Tribunal de origem, seria necessário a interpretação de cláusulas contratuais e ainda o reexame do conjunto fático-probatório dos autos, o que não se admite em sede de recurso especial, consoante, respectivamente, as Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes do Superior Tribunal de Justiça: AgInt no AREsp n. 2.259.353/SP, Terceira Turma, DJe de 24/5/2023; AgInt no AREsp n. 1.347.639/SP, Terceira Turma, DJe de 19/2/2020; AgInt no AREsp n. 2.175.567/RS, Quarta Turma, DJe de 15/12/2022; e AgInt no AREsp n. 1.740.991/SP, Quarta Turma, DJe de 3/3/2021.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, deixo de majorar honorários recursais em razão de inexistência de pré-fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
