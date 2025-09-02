@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GILMAR ALVES DE SIQUEIRA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada, encontrando-se denunciado pela suposta prática da conduta descrita no "art. 121, § 2º, inciso II e IV do Código Penal" (fl. 21).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 14-19).
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do paciente.
+Sustenta falta de fundamentação para a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou a imposição de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta evidenciada pelo modus operandi da conduta, consistente em homicídio qualificado pelo motivo fútil e recurso que impossibilitou a defesa do ofendido; haja vista que, em tese, ele teria efetuado os disparos de arma de fogo, que resultaram na morte da vítima em plena via pública.
+Nesse sentido, o Juízo de primeiro grau destacou que "Embora o flagrado não possua condenações criminais com trânsito em julgado, constam registros de outras passagens criminais em seu desfavor, já arquivadas, circunstância que, somada à extrema gravidade concreta do delito ora apurado, homicídio praticado à luz do dia, em via pública, nas dependências de uma borracharia situada nas proximidades de uma avenida movimentada, evidenciam o risco real e concreto de reiteração delitiva" (fl.31).
+Tais circunstâncias demonstram a periculosidade do paciente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"No caso, o juízo bem fundamentou a decretação da prisão preventiva, lastreando-se na garantia da ordem pública, em razão da gravidade concreta dos crimes, evidenciada pelo modus operandi, vale dizer, homicídios qualificados "praticados mediante disparos de arma de fogo contra as vítimas, que se encontravam em via pública, donde emerge, ao que tudo indica, a motivação fútil e o recurso que teria dificultado, senão impossibilitado, a defesa das vítimas."" (AgRg no HC n. 911.304/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+"No caso, verifica-se que persistem as razões que justificaram o encarceramento cautelar do recorrente para assegurar a ordem pública, pois sua periculosidade está evidenciada no modus operandi do delito. Segundo consta, o paciente, sem motivo aparente, supostamente passou a provocar os ofendidos, aproximando seu veículo do deles e mostrando-lhes o dedo médio, e, diante do desprezo às suas provocações, hipoteticamente efetuou vários disparos de arma de fogo, em via pública, em direção ao veículo dos ofendidos. Dessa forma, é válida a prisão preventiva decretada para assegurar a ordem pública, em razão da periculosidade do agente evidenciada no modus operandi com que o crime fora praticado" (AgRg no HC n. 872.136/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
