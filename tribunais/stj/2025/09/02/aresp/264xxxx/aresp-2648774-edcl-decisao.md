@@ -1,0 +1,49 @@
+DECISÃO
+Embargos de declaração opostos por LUIZ GUSTAVO PORTELA EVANGELISTA ao decisum, de minha lavra, assim ementado (fl. 442):
+AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO. VIOLAÇÃO DOS ARTS. 157 E 240, § 1º, AMBOS DO CPP. INADMISSIBILIDADE. AUSÊNCIA DE COMANDO NORMATIVO SUFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DO ART. 44, § 3º, DO CP; IMPROCEDÊNCIA. ARESTO ATACADO QUE CONCLUIU QUE A SUBSTITUIÇÃO NÃO SERIA RECOMENDÁVEL. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. PRECEDENTE DESTA CORTE.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, improvido o recurso.
+Nas razões, o embargante alegou que a decisão padece de contradição, assim sintetizada (fl. 450 - grifo nosso):
+ ..
+3. Na decisão monocrática ora embargada, foi transcrito o seguinte trecho do voto condutor do acórdão do TJDFT, que enfrentou a questão da substituição da pena privativa de liberdade com os seguintes termos: "Como antes mencionado, a condenação do réu nos Autos n. 0716988- 04.2019.8.07.0007 decorreu da pratica do crime previsto no art. 14, da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso permitido) e, nestes autos, sua condenação decorreu do crime de posse irregular de arma de fogo de uso permitido (art. 12, da Lei nº 10.826/2003). Não obstante o réu não seja reincidente especifico, não é adequado a substituição da pena privativa de liberdade por restritiva de direitos, em razão do objeto jurídico tutelado ter sido violado novamente".
+4. Também na decisão ora embargada, para justificar a manutenção do acórdão do TJDFT, foi ressaltado que "Embora o art. 44, § 3º, do CP, admita a substituição da pena corporal por restritivas de direitos ao reincidente não especifico, é certo que a concessão da benesse com base nessa norma depende da conclusão de que a substituição seria socialmente recomendável".
+5. Ainda na decisão monocrática, consta a afirmação de que no acordão do TJDFT "há fundamentação concreta e bastante para a negativa da substituição, nos termos do art. 44, § 3º, do Código Penal - CP, amparada não só na reincidência do agente, mas também na aferição de que a medida não se mostra socialmente recomendável".
+6. Como se pode observar, o Excelentíssimo Ministro Sebastião Reis Júnior concluiu que o acórdão do TJDFT não mereceria reparo, pois na referida deliberação haveria fundamentação suficiente, uma vez teria sido demonstrado, concretamente, que a substituição da pena não seria socialmente recomendável.
+7. Entretanto, tal conclusão se revela contraditória, tendo em vista que o próprio trecho transcrito na decisão ora embargada revela que o Tribunal de origem jamais afirmou que a substituição da pena não seria socialmente recomendável.
+8. Pelo contrário, nos termos da mencionada transcrição, o único fundamento utilizado pelo TJDFT para negar a substituição da pena foi a existência de reincidência em crime contra o mesmo bem jurídico, sem qualquer ponderação acerca da recomendabilidade social da medida, o que não é admitido pela Terceira Seção do Superior Tribunal de Justiça, conforme entendimento firmado no AREsp n. 1.716.664/SP.
+ ..
+Pugnou, assim, pela supressão do vício apontado, inclusive com a atribuição de efeitos modificativos.
+É o relatório.
+Os aclaratórios são manifestamente improcedente.
+É nítido que a Corte de origem negou a substituição - na forma do art. 44, § 3º, do CP - por não considerá-la recomendável ao caso, notadamente porque firmou a sua inadequação à luz do fato de que o objeto jurídico tutelado pela norma penal foi violado novamente pelo embargante (fl. 352 - grifo nosso):
+ ..
+Como antes mencionado, a condenação do réu nos Autos n. 0716988- 04.2019.8.07.0007 decorreu da prática do crime previsto no art. 14, da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso permitido) e, nestes autos, sua condenação decorreu do crime de posse irregular de arma de fogo de uso permitido (art. 12, da Lei n. 10.826/2003).
+Não obstante o réu não seja reincidente específico, não é adequado a substituição da pena privativa de liberdade por restritiva de direitos, em razão do objeto jurídico tutelado ter sido violado novamente.
+ ..
+Não há, pois, falar em contradição.
+Acresço, ainda, que, mesmo que fosse possível acolher a premissa fática que respalda o pleito defensivo nesse tópico, qual seja, de que o acórdão da apelação carece de fundamento para vedar a benesse pretendida, não seria o caso de acolher o recurso nesse aspecto.
+Ora, o STJ tem competência para, conhecendo do recurso especial, julgar a causa, aplicando o direito à espécie. Isso porque não há como limitar as funções deste Tribunal aos termos de um modelo restritivo de prestação jurisdicional, compatível apenas com uma eventual Corte de Cassação.
+Sobre o tema:
+AGRAVO INTERNO NOS EMBARGOS DE DECLAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTINTA. PRESCRIÇÃO INTERCORRENTE. PRINCÍPIO DA CAUSALIDADE. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO EM DESFAVOR DO EXEQUENTE. APLICAÇÃO DO DIREITO À ESPÉCIE. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que se discute a base de cálculo dos honorários advocatícios sucumbenciais fixados em virtude de execução extinta por força da prescrição intercorrente.
+2. Nesses casos, conforme a jurisprudência do Superior Tribunal de Justiça, não é cabível a fixação de verba honorária em favor dos devedores diante do princípio da causalidade.
+3. "Aplicando o direito à espécie, na forma do art. 255, § 5º, parte final, do RISTJ, pode esta Corte manter a decisão recorrida (desprover o recurso) mediante a adoção, no tocante à mesma questão jurídica, de dispositivos legais e de fundamentos diversos dos apresentados anteriormente" (AgInt nos EDcl no AREsp n. 764.939/MS, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/5/2020, DJe de 6/5/2020).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.489.030/SP, Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A proibição de reformatio in pejus garante ao recorrente o direito de não ter sua situação agravada, direta ou indiretamente. Não obsta, entretanto, que o Tribunal, ao julgar a impugnação defensiva aplicando o Direito à espécie, encontre motivação própria, respeitados os limites da condenação imposta no juízo de origem, a imputação deduzida pelo órgão de acusação e a extensão cognitiva da sentença impugnada.
+2. No caso, o Tribunal de origem manteve a condenação do acusado pela prática do crime de apropriação indébita com a causa de aumento do exercício de ofício, emprego ou profissão. A situação do réu não foi direta ou indiretamente agravada, pois manteve-se a mesma pena imposta pela instância de origem.
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 1.619.927/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022 - grifo nosso).
+Logo, ainda que a Corte de origem tivesse ignorado o comando do art. 44, § 3º, do CP, seria o caso do STJ aplicá-lo, circunstância que resultaria na vedação da pena substitutiva, j á que esta Corte, em situação análoga, tem sinalizado que a substituição não se afigura recomendável:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA AS COMUNICAÇÕES. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. RÉU REINCIDENTE. MEDIDA ANTERIOR QUE NÃO SE MOSTROU SUFICIENTE. BIS IN IDEM NA UTILIZAÇÃO CONCOMITANTE DA REINCIDÊNCIA PARA EXASPERAR A PENA E NEGAR A SUBSTITUIÇÃO PRETENDIDA. INOCORRÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A defesa insurge-se contra a decisão monocrática que manteve o indeferimento da substituição da pena corporal por restritivas de direitos, conforme decidido na origem. Argumenta que a reincidência genérica não pode obstar o benefício, além de o acusado ter sido condenado à pena de pouco mais de 1 ano de detenção por crime sem violência ou grave ameaça. Sustenta, ainda, que há bis in idem na utilização dos antecedentes para exasperar a pena e para negar a substituição pretendida.
+2. Conforme consignado na decisão agravada, as instâncias ordinárias afastaram a substituição da pena privativa de liberdade por substitutiva de direitos em face da situação de reincidência do recorrente (existência de condenação definitiva anterior pelo crime de porte ilegal de munições). Além disso, registrou-se que o acusado praticou novo delito dois anos depois do decreto condenatório anterior definitivo, o que demonstra que as penas restritivas de direitos não se apresentaram adequadas à sua ressocialização.
+3. Dessa forma, verifica-se que há fundamentação concreta e bastante para a negativa da substituição, nos termos do art. 44, § 3º, do Código Penal - CP, amparada não só na reincidência do agente, mas também na aferição de que a medida não se mostra socialmente recomendável na hipótese .
+4. De mais a mais, " e sta Corte Superior já esclareceu não haver que se falar em "bis in idem quando a reincidência é empregada como fundamento para a dosimetria da pena, a fixação do regime prisional e a análise da substituição da pena restritiva de liberdade por restritiva de direitos, porquanto tais institutos são regidos por regramentos distintos" (AgRg no AREsp n. 1.358.292/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 3/12/2018) (AgRg no AREsp n. 2.026.815/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022).
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.104.379/RS, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/9/2024, DJe de 25/9/2024 - grifo nosso).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. IMPROCEDÊNCIA.
+Embargos de declaração rejeitados.
