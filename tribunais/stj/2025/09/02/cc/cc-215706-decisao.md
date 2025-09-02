@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo da Vara do Trabalho de Unaí/MG em desfavor do Juízo da Vara Federal com JEF Adjunto de Unaí/MG, nos autos da Ação de Indenização por danos morais ajuizada por Nevandir Araújo dos Santos contra a Fundação Nacional de Saúde (FUNASA) e a União Federal (AGU), objetivando a reparação por alegados danos à saúde decorrentes da exposição ao pesticida DDT e outros agentes químicos durante o período em que trabalhou como agente de saúde pública.
+A inicial foi distribuída no Juízo Federal, que declinou da competência para processar e julgar a causa, ao fundamento de que a demanda tem por objeto danos decorrentes de fatos ocorridos estritamente no âmbito do exercício de atividade profissional regida pelas normas celetistas. Argumentou que, conforme o art. 114, I e VI, da Constituição Federal, é competência da Justiça do Trabalho o processamento e julgamento de ações oriundas da relação de trabalho, mesmo que envolvam entes da administração pública (fls. 87-89)
+Por sua vez, o Juízo Trabalhista suscitou o presente conflito, tendo em vista que, conforme o posicionamento da Suprema Corte, a competência para julgar ações de indenização por danos morais e materiais decorrentes de acidente de trabalho envolvendo servidores públicos estatutários é da Justiça Comum, e não da Justiça do Trabalho. Assentou que a causa de pedir está amparada na responsabilidade objetiva do Estado e não em direitos tipicamente trabalhistas, e que a transposição para o regime estatutário afasta a competência da Justiça do Trabalho, conforme jurisprudência consolidada do STF e do TST (fls. 9-14).
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo o Juízo Federal da Vara do Juizado Especial Adjunto de Unaí - SJ/MG, o suscitado, a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Intimem-se. Publique-se.
+EMENTA
