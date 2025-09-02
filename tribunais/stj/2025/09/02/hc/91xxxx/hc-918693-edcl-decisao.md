@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por STENIUS LUCAS DE ARAUJO contra decisões de minha relatoria, às fls. 164/171 e 175/180.
+O embargante alega que não há falar em supressão de instância no que pertine ao afastamento da majorante do inciso IV do art. 40 da Lei n. 11.343/2006
+Pretende, assim, o acolhimento dos embargos, com efeitos modificativos.
+É o relatório.
+Decido.
+A conclusão trazida no acórdão embargado é clara: o TJGO não enfrentou a questão relativa ao afastamento da causa de aumento do art. 40, inciso III, da Lei n. 11.343/2006 a luz da apontada violação do princípio da correlação.
+O tema ora trazido não foi efetivamente debatido pelo Tribunal de origem, pelo que impedida esta Corte Superior de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Outrossim, mais uma vez: inviável o conhecimento da matéria suscitada apenas nos embargos de declaração, por constituir indevida inovação recursal.
+O embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+Ilustrativamente:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. 1. LEGITIMIDADE DO MINISTÉRIO PÚBLICO ESTADUAL. ERESP 1.327.573/RJ. 2. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. 3. ALEGADA PREJUDICIALIDADE DO RECURSO. NÃO VERIFICAÇÃO. ACÓRDÃO RECORRIDO HÍGIDO. AUSÊNCIA DE SUPRESSÃO DE INSTÂNCIA. 4. PROVA ILÍCITA RECONHECIDA PELA ORIGEM. INTERPOSIÇÃO DE RECURSO ESPECIAL. AUSÊNCIA DE TRÂNSITO EM JULGADO. RECURSO QUE NÃO POSSUI EFEITO SUSPENSIVO. RECURSO ESPECIAL 1.611.856/PR. REGIMENTAL JULGADO EM 7/2/2017. 5. PROVA ILÍCITA POR DERIVAÇÃO. RECONHECIMENTO. AUSÊNCIA DE PROVA INDEPENDENTE. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. 6. EMBARGOS REJEITADOS.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do Embargos de Divergência no Recurso Especial n. 1.327.573/RJ, de relatoria da Ministra Nancy Andrighi, reconheceu a legitimidade dos Ministérios Públicos Estaduais e do Distrito Federal e Territórios para recorrer no âmbito desta Corte, quando forem parte na ação apresentada na origem.
+2. Os embargos de declaração possuem fundamentação vinculada, dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+3. Quanto à alegação de que o presente recurso perdeu seu objeto, em virtude do acórdão proferido no HC 360.669/PR, esclareço que referido mandamus foi impetrado contra o acórdão proferido na origem, que não conheceu do HC 1519179-0, determinando-se à Corte local seu julgamento. Já o presente HC impugna acórdão proferido na origem, no HC n. 1476130-7, o qual permanece hígido, não havendo se falar, pois, em perda de objeto nem em supressão de instância.
+4. A decisão que reconheceu a ilicitude das interceptações telefônicas não depende de trânsito em julgado para produzir efeitos. Portanto, a interposição de recursos especial e extraordinário, os quais, como é cediço, não possuem efeito suspensivo, não inviabiliza que a decisão produza seus efeitos, inclusive sobre as provas derivadas. Outrossim, os agravos regimentais interpostos contra a decisão proferida no Recurso Especial n. 1.611.856/PR foram julgados em 7/2/2017, tendo a Quinta Turma negado provimento a ambos.
+5. A conclusão trazida no acórdão embargado é clara. As medidas de busca e apreensão, prisão temporária e condução coercitiva derivaram quase que por completo das interceptações consideradas ilícitas, não se verificando prova independente que desse subsídio à medida.
+Portanto, desnecessário transformar o acórdão proferido pelo STJ em um jogo de palavras, com o objetivo de se extrair a conclusão que melhor atenda aos interesses do embargado, haja vista não pairar dúvidas sobre o que efetivamente decidido. A mera irresignação com o entendimento apresentado na decisão, que negou provimento ao recurso em habeas corpus, não viabiliza a oposição dos aclaratórios. 6. Embargos de declaração rejeitados.
+(EDcl no HC n. 351.407/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/5/2017, DJe de 22/5/2017.)
+Diante do exposto, com fundamento no art. 263, §2º, do RISTJ, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
