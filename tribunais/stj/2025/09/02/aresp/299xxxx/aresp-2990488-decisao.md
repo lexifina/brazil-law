@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por OSVALDEMIR BATISTA DE MELLO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+Apelação Cível. Demarcatória. Perícia judicial. Venda ad corpus. Recurso improvido. Comprovado pela prova técnica que as delimitações das propriedades vizinhas foram feitas sob a supervisão dos órgãos públicos, tendo o autor adquirido o imóvel anos após a implementação dos empreendimentos, com os marcos estabelecidos, mesmo incorretos, separando os limites dos imóveis lindeiros, e comprovado que o autor adquiriu a propriedade na modalidade ad corpus, deve ser mantida as demarcações, julgando-se improcedente a pretensão autoral.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 500, § 1º, do CPC, no que concerne à ausência dos requisitos para a presunção de venda ad corpus, trazendo a seguinte argumentação:
+Inicialmente, nos termos do v. acórdão, cumpre destacar que o tribunal confirmou a sentença do juízo de origem e declarou a venda da área pela modalidade ad corpus, com fundamento em declaração com firma reconhecida de parte integrante no polo passivo da ação, e, portanto, interessada.
+Manifesto absurdo.
+O documento utilizado pelo juízo de origem como fundamentação da sentença se trata de simples declaração firmada por pessoa integrante do polo passivo da ação, o Sr. João Naconechny, parte evidentemente interessada no feito em razão do benefício direto com o indeferimento da ação.
+ ..
+Enfrenta-se evidente violação ao §1º, do art. 500, do CPC, o qual aduz se presumir que a venda foi realizada pela modalidade ad corpus quando a diferença encontrada não exercer um vigésimo da área total enunciada. Confere-se:
+ ..
+Vejam, Excelências: Presume-se a venda ad corpus quando a diferença de área encontrada não exceder um vigésimo da área enunciada. Dessa forma, tem-se que um vigésimo (1/20) corresponde a 5%.
+Logo, destaca-se que nos termos do Laudo pericial produzido nos autos (Id 82942484), os peritos engenheiros nomeados pelo juízo encontraram diferença de área de 6,86%; e 100% quanto a chácara 08-B-1.
+Ora, Excelências. A Conclusão da sentença VIOLA expressamente o dispositivo legal em trato - §1º, do art. 500, do CPC. Impossível por ser manifestamente contraria a Lei presumir venda ad corpus quando a diferença constatada é superior à 5% (um vigésimo) (fls. 1850/1851).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A tese recursal de que não pode ser reconhecida que a propriedade foi vendida na modalidade ad corpus, por ter sido tal informação prestada por declaração, caracterizando prova unilateral, desmerece acolhida, visto que o Sr. João Naconechny Junior confirmou sua declaração durante sua oitiva, sob o crivo do contraditório e da ampla defesa.
+Soma-se a isso o vasto conjunto probatório dos autos, que revela que a área adquirida pelo apelante foi alienada na forma em que foi apresentada, ou seja, com as delimitações já realizadas e implementações de área.
+Restando, portanto, comprovado que o apelante tinha conhecimento das divisas com limites e confrontações das propriedades, já bem delimitadas a mais de 16 anos, e que sua propriedade foi adquirida na modalidade ad corpus, a área reivindicada pelo apelante não lhe pertence, devendo ser mantida a sentença (fls. 1806).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
