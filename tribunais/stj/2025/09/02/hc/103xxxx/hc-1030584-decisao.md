@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALEXANDRO ALÉCIO ABREU, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Narra a Defesa que o paciente foi condenado à pena de 05(cinco) anos e 10(dez) meses ao regime semiaberto como incurso no artigo 33, caput, da Lei n. 11.343/06 e negado o direito de recorrer em liberdade, sob o argumento de que permanecem os fundamentos da custódia cautelar.
+No presente writ, a Defesa sustenta que há incompatibilidade entre a manutenção da prisão preventiva e a aplicação do regime semiaberto, pois a prisão preventiva visa neutralizar ameaças à ordem pública, enquanto o regime semiaberto permite convívio social extramuros.
+Afirma que o paciente possui condições pessoais favoráveis, como primariedade, atividade lícita, residência fixa e bons antecedentes.
+Requer a revogação da prisão preventiva para que o paciente possa recorrer em liberdade, subsiariamente, a substituição da prisão preventiva pelo monitoramento eletrônico, conforme art. 319, IX, do CPP .
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não estão suficientemente instruídos. D essa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há, sequer, cópia do inteiro teor do acórdão impugnado.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE EXAME. RECURSO NÃO PROVIDO. 1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante. 2. De acordo com a orientação jurisprudencial emanada por esta Corte, "não se coaduna com o remédio heroico o propósito de "busca" de informações a respeito da situação do réu, quando não fornecidos sequer elementos mínimos que possam demonstrar a plausibilidade das razões suscitadas. " (AgRg no HC 289.502/MA, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 01/04/2014, DJe de 07/04/2014). 3. Agravo regimental não provido. (AgRg no HC n. 783.393/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 10/4/2024.)
+Ante o exposto, com fulcro no art . 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
