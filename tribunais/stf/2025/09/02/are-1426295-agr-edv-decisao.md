@@ -1,0 +1,45 @@
+DECISÃO: Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma desta Corte, de Minha Relatoria, assim ementado:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Acordo de leniência que contém previsão expressa no sentido de fixar o valor do ressarcimento integral dos danos. 4. Vedação de se aplicarem as mesmas medidas, em razão da sobreposição fática entre ilícitos objeto de apuração por diferentes instituições públicas, sob pena de ofensa ao princípio constitucional da segurança jurídica e à noção de proporcionalidade da pena. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental.” (ARE 1426295 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 13.12.2024)
+
+    Sustenta-se, em síntese, a divergência existente entre o acórdão embargado e a orientação do Plenário do Supremo Tribunal Federal adotada no tema 1043 de repercussão geral, quanto à “utilização da colaboração premiada no âmbito civil, em ação civil pública por ato de improbidade administrativa movida pelo Ministério Público em face do princípio da legalidade (CF, art. 5º, II), da imprescritibilidade do ressarcimento ao erário (CF, art. 37, §§ 4º e 5º ) e da legitimidade concorrente para a propositura da ação (CF, art. 129, § 19º)”.
+
+    Alega que, ao julgar a tese de Repercussão Geral, o Plenário dessa Corte Superior decidiu pela constitucionalidade da utilização da colaboração premiada prevista na Lei 12.850/2013 no âmbito da ação civil pública por ato de improbidade administrativa movida pelo Ministério Público, estabelecendo que o colaborador não está isento de ressarcir integralmente o erário. (eDOC 66).
+
+    Assim, aduz que, ainda que o valor constante do instrumento consensual seja menor do que o dano sofrido, não haveria razão jurídica para que a empresa ficasse isenta de obrigação de ressarcimento integral de danos.
+
+    É o relatório.
+
+    Decido.
+
+    Segundo o Regimento Interno desta Corte (art. 330), cabem embargos de divergência da decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal, sendo indispensável o cotejo analítico para comprovar a dissonância de entendimentos.
+
+    Nesse sentido cito o seguinte precedente:
+
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso de Embargos de Divergência possui um pressuposto básico: demonstrar a existência de divergência jurisprudencial nesta CORTE sobre o tema em análise nos autos, por meio da indicação de precedentes paradigmas que atestem dissenso interpretativo com o acórdão impugnado. 2. Os recorrentes não se desincumbiram do ônus de comprovar, fundamentadamente, as circunstâncias que identifiquem ou assemelhem os casos confrontados, nos termos do art. 331 do RISTF. 3. Ausente o devido cotejo analítico, que demonstre a identidade ou a similitude entre o acórdão embargado e o único aresto proferido por esta CORTE, apontado como divergente, incabível o presente recurso. 4. Agravo Interno a que se nega provimento.” (ARE 1.441.261-AgR-ED-EDv-AgR/MG, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 14.11.2023)
+
+    No mesmo sentido: ARE 1.090.264-AgR-EDv-AgR/MG, Rel. Min. Dias Toffoli, Plenário, DJe 10.5.2021; ARE 911.542-AgR-ED-EDv-AgR/RN, Rel. Min. Rosa Weber, Plenário, DJe 7.2.2019; ARE 1.101.000-AgR-ED-EDv-AgR/PE, Rel. Min. Celso de Mello, Plenário, DJe 26.8.2019; ARE 1.241.897-AgR-ED-EDv-AgR/RR, de minha relatoria, Plenário, DJe 10.12.2020; ARE 1.090.934-ED-AgR-ED-EDv-AgR/PR, Rel. Min. Ricardo Lewandowski, Plenário, DJe 8.4.2021; dentre outros.
+
+    O paradigma apontado diz respeito à utilização da colaboração premiada, nos termos da Lei 12.850/2013, no âmbito civil, em ação civil pública por ato de improbidade administrativa movida pelo Ministério Público, de modo que o tema do ressarcimento ao dano ao erário é discutido tão somente a partir da perspectiva judicial, vide tese firmada em sede de repercussão geral:
+
+    É constitucional a utilização da colaboração premiada, nos termos da Lei 12.850/2013, no âmbito civil, em ação civil pública por ato de improbidade administrativa movida pelo Ministério Público, observando-se as seguintes diretrizes: (1) Realizado o acordo de colaboração premiada, serão remetidos ao juiz, para análise, o respectivo termo, as declarações do colaborador e cópia da investigação, devendo o juiz ouvir sigilosamente o colaborador, acompanhado de seu defensor, oportunidade em que analisará os seguintes aspectos na homologação: regularidade, legalidade e voluntariedade da manifestação de vontade, especialmente nos casos em que o colaborador está ou esteve sob efeito de medidas cautelares, nos termos dos §§ 6º e 7º do artigo 4º da referida Lei 12.850/2013; (2) As declarações do agente colaborador, desacompanhadas de outros elementos de prova, são insuficientes para o início da ação civil por ato de improbidade; (3) A obrigação de ressarcimento do dano causado ao erário pelo agente colaborador deve ser integral, não podendo ser objeto de transação ou acordo, sendo válida a negociação em torno do modo e das condições para a indenização; (4) O acordo de colaboração deve ser celebrado pelo Ministério Público, com a interveniência da pessoa jurídica interessada e devidamente homologado pela autoridade judicial; (5) Os acordos já firmados somente pelo Ministério Público ficam preservados até a data deste julgamento, desde que haja previsão de total ressarcimento do dano, tenham sido devidamente homologados em Juízo e regularmente cumpridos pelo beneficiado. (ARE 1175650, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 05/10/2023)
+
+    No presente caso, por sua vez, discute-se a possibilidade de reparação de danos na hipótese de sobreposição fática entre os ilícitos admitidos pelas colaboradoras perante a CGU/AGU e o objeto de apuração pela via judicial.
+
+    Portanto, verifica-se que a parte embargante deixou de demonstrar, de forma satisfatória, a similitude fática entre os paradigmas invocados e a presente hipótese, o que inviabiliza o conhecimento dos embargos de divergência:
+
+    “Agravo regimental em embargos de divergência em agravo regimental em recurso extraordinário. Processual. Não atendimento aos requisitos de admissibilidade dos embargos de divergência. Ausência de similitude fática e jurídica. Cotejo analítico deficiente. 1. A ausência de similitude fática e jurídica entre o acórdão embargado e o paradigma de divergência invocado, bem como a deficiência do cotejo analítico, obstam o seguimento do recurso de embargos de divergência. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do CPC, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (RE 1.272.437-AgR-EDv-AgR/SP, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 18.3.2022)
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. SUBSISTÊNCIA DA DECISÃO AGRAVADA. AUSÊNCIA DE DISSENSO JURISPRUDENCIAL. CARÁTER PROTELATÓRIO DO RECURSO. BAIXA IMEDIATA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II – Para os embargos de divergência serem cabíveis, é necessário que haja identidade entre a questão julgada pelo acórdão embargado e a decidida pelo acórdão paradigma, sendo incabível o recurso quando presentes distinções fáticas entre as situações. III – A jurisprudência deste Supremo Tribunal Federal é firme em não admitir embargos de divergência, quando o cotejo for feito entre um acórdão que tenha reconhecido a ausência de pressuposto de admissibilidade do recurso extraordinário e um aresto que tenha examinado o mérito de determinada questão constitucional. IV - Os embargos de divergência destinam-se a promover a uniformização da jurisprudência desta Corte. Não se prestam, pois, à mera revisão do acerto ou desacerto do acórdão embargado. V - Agravo regimental a que se nega provimento, com a determinação da certificação do trânsito em julgado do acórdão embargado e a imediata baixa dos autos à origem.” (ARE 1.361.019-AgR-EDv-AgR/SC, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 26.8.2022)
+
+    Ante o exposto, com fundamento no art. 330 e 331 do RI/STF, não admito os presentes embargos de divergência.
+
+    Publique-se.
+
+    Brasília, 2 de setembro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
