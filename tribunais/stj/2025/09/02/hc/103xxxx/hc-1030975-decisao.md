@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus , impetrado em nome de MARCOS ALEXANDRE VIANA SILVA - condenado por homicídio qualificado a 14 anos de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 9/15), comporta, de pronto, parcial acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria e a progressão de regime - referente à condenação proferida na Ação Penal n. 1511357-44.2024.8.26.0071 (fls. 88/90, da 1ª Vara Criminal da comarca de Bauru/SP) -, aos seguintes argumentos:
+a) indevido afastamento da atenuante da confissão espontânea, que teria resultado em exagero na fixação da pena, afirmando que o paciente é primário, sem antecedentes penais, e que confessou ser o autor dos golpes, tanto em sede policial quanto em juízo (fl. 6); e
+b) de satisfação de todos os requisitos objetivos e subjetivos (fl. 7) para progressão.
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento em relação à pretensão de concessão de progressão de regime, que não pode ser conhecida, pois não foi apreciada pela Corte estadual no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Entretanto, há ilegalidade na segunda fase da dosimetria, porque a Corte estadual fez referência à confissão parcial do paciente - descabida a incidência da confissão espontânea, pois, apesar de o réu ter admitido a autoria, o fez de forma parcial e distorcida, afirmando que se defendeu de agressões da vítima (fl. 14) -, o que enseja a incidência da atenuante prevista no art. 65, III, d, do Código Penal (Súmula 545/STJ).
+Necessário, então, redimensionar a pena imposta: mantida a penas-base fixada em 14 anos de reclusão (fl. 14). Na segunda fase, aplica-se a atenuante da confissão, na fração de 1/12 por ter sido parcial (AgRg no HC n. 882.377/SC, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 21/6/2024), passando a reprimenda para 12 anos e 10 meses de reclusão. Na terceira fase, sem alteração (fl. 89), resultando a pena definitiva em 12 anos e 10 meses de reclusão.
+Finalmente, considerando a pena fixada, tem-se que não há ilegalidade na fixação do regime inicial fechado, nos termos do art. 33, § 2º, a, do CP.
+Em razão disso, concedo liminarmente a ordem impetrada, em parte, apenas para redimensionar a pena imposta ao paciente para 12 anos e 10 meses de reclusão, mantido o regime inicial fechado, referente à condenação proferida na Ação Penal n. 1511357-44.2024.8.26.0071, da 1ª Vara Criminal da comarca de Bauru/SP.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. DOSIMETRIA. ILEGALIDADE NA SEGUNDA FASE. CONFISSÃO PARCIAL. INCIDÊNCIA DA ATENUANTE. NECESSIDADE DE REDIMENSIONAMENTO DA PENA. CONSTRANGIMENTO PARCIAL EVIDENCIADO.
+Ordem liminarmente concedida, em parte, nos termos do dispositivo.
