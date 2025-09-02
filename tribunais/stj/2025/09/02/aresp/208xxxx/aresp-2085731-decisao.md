@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL (PETROS) contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 7 e 211 do STJ, na falta de demonstração de ofensa aos arts. 371 do Código de Processo Civil e 93, IX, 195, § 5º, 201 e 202 da Constituição Federal e na ausência de comprovação da divergência jurisprudencial.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso especial é inadmissível, pois não houve prequestionamento das matérias, encontrando óbice nas Súmulas n. 7 e 211 do STJ. Requer a aplicação de multa por litigância de má-fé.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de ação ordinária de cobrança e de reconhecimento de aposentadoria integral.
+O julgado foi assim ementado (fls. 280-281):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. IMPUGNAÇÃO À FASE DE CUMPRIMENTO DE SENTENÇA. NECESSIDADE DE OBSERVÂNCIA DOS DITAMES CONSTANTES NO TÍTULO EXECUTIVO. RETIFICAÇÃO DO CÁLCULO POR PARTE DO PERITO REFERENTE ÀS CONTRIBUIÇÕES. INCLUSÃO DOS HONORÁRIOS ADVOCATÍCIOS DO VALOR DEVIDO. CORREÇÃO DO CÁLCULO. 1) Trata-se de agravo de instrumento interposto em face da decisão que julgou parcialmente procedente a impugnação à fase de cumprimento de sentença. 2) O regulamento e os respectivos artigos aplicáveis ao recálculo do benefício complementar do agravado restam definidos na sentença e no acórdão lançados na fase de conhecimento, sendo descabida a pretensão da parte agravante de incidência de normas regulamentares diversas, tal como o redutor etário previsto no artigo 41 do Regulamento Petros. 3) Relativamente aos valores referentes à contribuição Petros, considerando que o perito retificou o primeiro cálculo apresentado, conforme manifestação de fl. 212, não tendo a parte executada demonstrado que o equívoco subsiste, tendo apenas reiterado a suscinta argumentação já deduzida na origem, impõe-se o desacolhimento da impugnação a respeito. 4) Tangente aos honorários advocatícios incluídos no cálculo, a parte agravante se limitou a afirmar que "o perito acrescenta honorários ao valor da condenação, tendo sido informado na Ficha de Solicitação que tal verba não foi deferida", sem especificar a que honorários se refere, tampouco demonstrar que não é devido qualquer valor a título de verba honorária. Entretanto, em que pese as rasas razões recursais, os honorários advocatícios incluídos no cálculo dizem respeito aqueles fixados na fase de conhecimento (15% sobre o valor da condenação observado o disposto na Súmula nº 111 do STJ) e na fase executiva (R$ 1.500,00 - decisão prolatada em 12.04.2016 nos autos do processo nº 001/1.08.0306979-4), pelo que não há que se falar em indeferimento de honorários. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 363-370).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 371 do Código de Processo Civil, porquanto não houve apreciação adequada das provas constantes dos autos;
+b) 93, IX, da Constituição Federal, visto que a decisão recorrida carece de fundamentação;
+c) 195, § 5º, da Constituição Federal, pois não foi observada a necessidade de equilíbrio atuarial;
+d) 201 e 202 da Constituição Federal, porque não foram respeitadas as normas de previdência complementar.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, garantindo-se a correta aplicação das normas de previdência complementar e a exclusão dos honorários advocatícios indevidos.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial é inadmissível, pois não houve prequestionamento das matérias, encontrando óbice nas Súmulas n. 7 e 211 do STJ. Requer a aplicação de multa por litigância de má-fé.
+É o relatório. Decido.
+Passo, pois, à análise das proposições deduzidas.
+I - Art. 371 do CPC
+A alegada violação do art. 371 do CPC não merece prosperar, porquanto o Tribunal de origem apreciou, de forma clara e fundamentada, o conjunto probatório dos autos, segundo o princípio do livre convencimento motivado, não havendo falar em omissão ou ausência de valoração da prova.
+Ademais, a pretensão recursal de modificar a conclusão adotada demandaria reexame do contexto fático-probatório, providência inviável na via especial, em razão do óbice da Súmula n. 7 do STJ, sobretudo porque o regulamento e os dispositivos aplicáveis ao recálculo do benefício complementar, conforme afirmado no acordão, já foram definidos na fase de conhecimento, sendo incabível a incidência de normas regulamentares diversas, como o redutor etário previsto no art. 41 do Regulamento Petros, o que atrai também a incidência da Súmula n. 5 do STJ.
+II - Arts. 93, IX, 195, § 5º, 201 e 202 da CF
+Quanto ao argumento de violação de dispositivos da Constituição Federal, registre-se que está fora da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal (AgInt no REsp n. 2.129.315/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+III - Conclusão
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários recursais nos termos do art. 85, § 11, do CPC, por se tratar de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
