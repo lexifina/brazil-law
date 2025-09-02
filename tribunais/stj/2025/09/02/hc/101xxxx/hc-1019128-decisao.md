@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EMERSON DIAMANTINO DOS SANTOS PIRES apontando como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (Revisão Criminal n. 1417965-59.2024.8.12.0000).
+Consta dos autos que o paciente foi condenado definitivamente como incurso no art. 180, caput, do Código Penal à pena de 1 ano, 4 meses e 15 dias de reclusão, em regime semiaberto. Irresignada, a defesa ajuizou revisão criminal, a qual foi julgada nos termos da seguinte ementa (e-STJ fls. 14):
+REVISÃO CRIMINAL - CRIME DE RECEPTAÇÃO - PRELIMINAR DE NÃO CONHECIMENTO DA PGJ - ACOLHIMENTO - PLEITO ABSOLUTÓRIO EM RAZÃO DE INSUFICIÊNCIA PROBATÓRIA E ATIPICIDADE - TEMAS EXAUSTIVAMENTE APRECIADOS EM SEDE DE 1º E 2º GRAU - PREFACIAL ACOLHIDA.
+I - A revisão criminal não permite a rediscussão de matéria já analisada, com acuidade, nos mais diversos graus de jurisdição, pois não consiste numa segunda apelação, mas sim em instrumento que visa precipuamente desconstituir uma falha na prestação jurisdicional, nas hipóteses taxativamente elencadas no art. 621 do CPP. A revisional, portanto, não comporta integral conhecimento, tendo em vista que a pretensão de absolvição, constitue-se de tema exaustivamente discutido na sentença e em sede de recurso, tornando inviável sua reanálise.
+II - Preliminar acolhida, revisão criminal não conhecida.
+No presente mandamus, a defesa aduz, em síntese, que a condenação é ilegal, por ofensa ao art. 155 do Código de Processo Penal. No mais, afirma que os acusados não estavam indo para a Bolívia, mas sim para Campo Grande/MS. Sustenta também que a conduta é atípica por ausência de dolo específico. Conclui, assim, que a condenação é contrária às provas dos autos e que deve prevalecer o princípio do in dubio pro reo.
+Pugna, liminarmente, pela suspensão dos efeitos da condenação e, no mérito, pela nulidade da sentença ou pela absolvição do paciente.
+A liminar foi indeferida às e-STJ fls. 99-100, as informações foram prestadas às e-STJ fls. 103-109 e 117-126, e o Ministério Público Federal se manifestou, às e-STJ fls. 128-135, nos seguintes termos:
+HABEAS CORPUS. AÇÃO PENAL. RECEPTAÇÃO. PEDIDO DE ABSOLVIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. A revisão criminal não deve ser utilizada como uma segunda apelação, porquanto não se presta a propiciar a reapreciação das provas constantes dos autos.
+3. Inviável, na via exígua do habeas corpus, pleitear a absolvição por insuficiência de provas, ou a tipicidade da conduta por ausência de dolo . Para tanto, seria necessário dilação probatória, providência que não se coaduna com a natureza do presente remédio constitucional.
+4. A condenação do paciente baseou-se no relato dos policiais colhidos em juízo e nas circunstâncias do flagrante. Ressalte-se que foi reconhecida a confissão do paciente para a redução da pena.
+4. Parecer pelo não conhecimento do writ.
+É o relatório. Decido.
+De plano, verifico que os temas trazidos no presente habeas corpus não foram analisados pelo Tribunal de origem no acórdão impugnado, haja vista a "impossibilidade em realizar-se a "reapreciação" de matéria analisada à exaustão pelas diversas instâncias jurisdicionais". Destacou-se que "os requerimento citados no relatório são pretensões que coincidem com temas exaustivos e suficientemente debatidos, conforme consta expressamente na sentença e acórdão objurgados" (e-STJ fl. 17).
+Concluiu-se, assim, que (e-STJ fl. 17):
+Não se vislumbra, portanto, potencial afronta ao ordenamento jurídico ou eventual contrariedade à evidência dos autos, especialmente porque a revisional não é instruída com novas provas capazes de demonstrarem o error in judicando e assim conduzirem a absolvição do Revisionando por insuficiência de provas ou por reconhecimento de atipicidade da conduta, pois limita-se a indicar elementos já apreciados, visando, sobre eles, obter nova interpretação.
+Constato, portanto, que o acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior, que é no sentido de que " a  revisão criminal não pode ser utilizada como segunda apelação para reexame de fatos e provas, sem a apresentação de novas provas ou demonstração de erro técnico na decisão original". (AgRg no HC n. 830.391/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 20/8/2025, DJEN de 27/8/2025.)
+Dessa forma, não é possível conhecer do mérito da impetração, uma vez que os temas não foram examinados pelo Tribunal de origem no acórdão impugnado , e não há se falar em constrangimento ilegal pelo não exame das matérias pela Corte local, porquanto o entendimento assentado está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Pelo exposto, não conheço do habeas coprus.
+Publique-se.
+EMENTA
