@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por BL PARTICIPACOES SOCIETARIAS LTDA, contra decisão que não admitiu seu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 174-175, e-STJ):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE CÂMBIO. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR AO CASO. TAXA DE DESÁGIO. ABUSIVIDADE CONTRATUAL NÃO DEMONSTRADA. SENTENÇA MANTIDA.
+1. Inaplicabilidade do Código de Defesa do Consumidor. Muito embora  gure como  adora no referido instrumento contratual, fato é que o contrato em discussão teve por  nalidade fomentar atividade comercial. Da mesma forma, a alegada vulnerabilidade técnica ou jurídica em relação à instituição financeira apelada não foi comprovada nos autos.
+2. Abusividade contratual. Taxa de deságio. Tratando-se de contrato de câmbio, o eg. STJ possui entendimento paci cado de que o deságio incidente nos contratos de câmbio equivale à cobrança de juros remuneratórios. Caso dos autos em que a aventada abusividade não restou demonstrada.
+3. Comissão de permanência. Embargante-apelante limita-se a, genericamente, aventar a abusividade, sem o devido apontamento de sua ocorrência, não havendo que se falar em revisão quanto ao ponto. Não demonstrada a previsão da cobrança de comissão de permanência, tampouco a sua cobrança cumulada com encargos moratórios.
+4. Descaracterização da mora. Con gurada a mora da parte, são devidos os encargos decorrentes do inadimplemento contratual.
+5. Venda Casada. Não se extrai dos documentos acostados que a contratação dos demais serviços tenha sido imposta, tampouco sido colocada como condição para a pactuação do contrato de câmbio,  cando evidente pelos documentos colacionados que os contratos foram  rmados de modo independente um do outro.
+NEGARAM PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados, nos termos do acórdão de fls. 345-350, e-STJ.
+Nas razões do recurso especial (fls. 206-223, e-STJ), a parte recorrente aponta violação aos arts. 489, § 1º, e 1.022, II, do CPC/15.
+Afirma ter havido negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem, mesmo instado por embargos de declaração, não teria se manifestado adequadamente sobre a tese de aplicabilidade do Código de Defesa do Consumidor à hipótese, em razão da vulnerabilidade técnica da recorrente.
+Contrarrazões apresentadas às fls. 237-244, e-STJ.
+Em juízo de admissibilidade (fls. 249-251, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 260-267, e-STJ).
+Contraminuta apresentada às fls. 274-278, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A recorrente sustenta ter havido omissão e contradição no acórdão recorrido, pois este não teria se manifestado adequadamente sobre a tese da aplicabilidade do Código de Defesa do Consumidor ao caso, considerando a situação de vulnerabilidade da recorrente.
+Todavia, o vício não se configura. O Tribunal de origem, ao julgar a apelação (fls. 169-173, e-STJ) e os subsequentes embargos de declaração (fls. 196-198, e-STJ), apreciou de forma expressa e fundamentada o ponto essencial da controvérsia, conforme se demonstra.
+Quanto à inaplicabilidade do Código de Defesa do Consumidor, o acórdão assentou ter o contrato a finalidade de fomentar a atividade comercial e, principalmente, a não comprovação da vulnerabilidade técnica ou jurídica da parte. Veja-se (fl. 170, e-STJ):
+I - Inaplicabilidade do Código de Defesa do Consumidor.
+A recorrente aduz a necessidade de aplicação da legislação consumerista, pois ressalta ter sido apenas fiadora da operação, destacando a importância da aplicação mais benéfica das cláusulas, não detendo conhecimento técnico acerca do contrato de adesão. Todavia, não merece acolhimento o argumento. Muito embora figure como fiadora no referido instrumento contratual, fato é que o contrato em discussão teve por finalidade fomentar atividade comercial. Da mesma forma, a alegada vulnerabilidade técnica ou jurídica em relação à instituição financeira apelada não foi comprovada nos autos. Assim, vai desprovido o recurso no ponto.  grifou-se
+Não há, portanto, a contradição apontada. O acórdão reconheceu que os autores provaram a celebração do contrato e a realização dos pagamentos, mas entendeu que esses fatos não eram suficientes para comprovar o fato constitutivo do direito alegado: a suposta publicidade enganosa. A ausência de prova mínima referia-se ao ato ilícito imputado às rés, e não à existência da relação contratual em si.
+Também não houve omissão. O julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, tampouco mencionar todos os dispositivos legais apontados nas razões recursais, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão. Nesse sentido, os seguintes precedentes:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM COBRANÇA. CLÁUSULA DE CONVENÇÃO DE CONDOMÍNIO. ABUSIVIDADE. ACÓRDÃO RECORRIDO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. CORREÇÃO MONETÁRIA E JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. FIXAÇÃO DE OFÍCIO. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO. ..
+5. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes quando já tenha encontrado motivo suficiente para proferir a decisão, devendo apenas enfrentar as questões capazes de infirmar a conclusão adotada.
+IV. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp n. 2.702.809/GO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. ART. 1.022 DO CPC. MULTA CONTRATUAL. VALOR SUPERIOR À OBRIGAÇÃO PRINCIPAL. POSSIBILIDADE. PROPORCIONALIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E FATOS. SÚMULAS 5 E 7 DO STJ.
+1. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. Com efeito, não há necessidade de resposta a cada afirmação específica. (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023.)  ..
+(AgInt no AREsp n. 2.762.821/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+O acórdão recorrido aplicou a jurisprudência pacífica desta Corte ao decidir a controvérsia com fundamentação suficiente, sem necessidade de rebater minuciosamente todos os argumentos da parte. Tal alinhamento atrai o óbice da Súmula 83/STJ e afasta a alegada negativa de prestação jurisdicional.
+Além disso, o acórdão afastou a aplicação do Código de Defesa do Consumidor com base em uma premissa fática importante: a ausência de comprovação da vulnerabilidade da parte recorrente. Para infirmar tal entendimento e reconhecer a existência da vulnerabilidade, seria imprescindível uma nova incursão nas provas dos autos, providência vedada nesta instância excepcional, conforme jurisprudência consolidada na Súmula 7/STJ.
+2. Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Incabível a majoração dos honorários recursais (art. 85, § 11, do CPC), pois já foram fixados no patamar máximo legal pela instância de origem.
+Publique-se. Intimem-se.
+EMENTA
