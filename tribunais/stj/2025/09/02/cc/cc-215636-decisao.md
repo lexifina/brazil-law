@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito de competência, com pedido de liminar, suscitado por RICARDO BENETTI DE ARAU JO e OUTROS, tendo como suscitados, de um lado, o JUÍZO FEDERAL DA 1ª VARA CÍVEL DE SÃO PAULO - SJ/SP e de outro, o JUIZO DE DIREITO DA 1ª VARA CÍVEL DO FORO REGIONAL IX DE VILA PRUDENTE - SÃO PAULO/SP.
+Os suscitantes afirmam:
+"(..)
+O Suscitante Ricardo é possuidor do imóvel localizado na Rua Solidônio Leite, nº 2315, ap. 061, bloco 03, Vila Ivone, São Paulo/SP, por meio de Contrato de Compra e Venda firmado em 16 de setembro de 2014 com a Caixa Econômica Federal, registrado sob a Matrícula nº 143.589 no 6º Registro de Imóveis de São Paulo.
+(..)
+Ocorre que o Suscitante Ricardo não mais conseguiu adimplir com as parcelas em dia, porém, mesmo em meio às dificuldades, estava em tratativas com o banco - por telefone e pessoalmente - para negociação das parcelas vencidas para que pudessem reestabelecer o contrato.
+Contudo, conforme se observa pela matrícula do imóvel, em setembro de 2024, ficou sabendo que o banco havia consolidado a propriedade em seu nome e estava levando o imóvel a leilão nos dias 27 de janeiro e 03 de fevereiro de 2025.
+Desse modo, assim que ficou sabendo da situação, ajuizou a ação anulatória para discutir a validade do procedimento de consolidação da propriedade e dos leilões, por falta de intimação pessoal para os atos e pediu a concessão de liminar enquanto aguardava o julgamento, a fim de conseguir suspender os leilões antes que o imóvel fosse arrematado.
+A ação anulatória de nº 5002565-83.2025.4.03.6100 está em andamento na 1ª Vara Cível Federal de São Paulo desde 04/03/2025.
+Ocorre que, com o indeferimento da liminar na ação anulatória, os leilões foram realizados, culminando na arrematação do imóvel pelos suscitados.
+Por conseguinte, tal processo ainda está em andamento, sendo que está sendo discutida a validade dos atos expropriatórios por falta de intimação pessoal para purga da mora e do dia, hora e local do leilão, o que é fartamente sedimentado pelos Tribunais Superiores quanto a nulidade do procedimento diante a irregularidade nas intimações para tomada de conhecimento, que no caso em tela não cumpre tal requisito.
+Com isso, caso seja julgada procedente a ação, os leilões serão anulados e, consequentemente, afetará a ação de imissão na posse, uma vez que os atos subsequentes aos leilões serão anulados!
+Portanto, considerando a existência de causa anterior à arrematação e pendente de análise da ação anulatória, entende-se que os suscitantes não podem ser penalizados até que haja o trânsito em julgado da Ação Anulatória perante a 1ª VARA CÍVEL FEDERAL DE SÃO PAULO, tendo em vista a existência de relação de PREJUDICIALIDADE entre as demandas.
+(..)
+Os suscitantes tomaram conhecimento a respeito da ação de imissão na posse proposta pelo arrematante, Valter Tadeu da Silva, nº 1007028-04.2025.8.26.0009, através da intimação entregue pelo oficial de justiça.
+Assim que tomaram conhecimento a respeito do processo, apresentaram contestação. Naquela ocasião, ficaram sabendo a respeito da liminar que foi deferida (no dia 13/06/2025) para desocupação voluntária do imóvel, providência que deveria ser tomada no prazo de 60 dias. Dessa decisão, foi interposto agravo de instrumento.
+Na oportunidade, os suscitantes pugnaram pela suspensão e/ou revogação da decisão liminar, tendo em vista a manifesta PREJUDICIALIDADE EXTERNA HETEROGÊNEA, que deveria ter sido considerada diante da tramitação da Ação Anulatória de leilão no juízo federal (04/02/2025) ajuizada antes do ajuizamento da ação de imissão na posse (06/06/2025), demonstrando a necessidade de manutenção dos suscitantes na posse do imóvel e a suspensão da ação de imissão na posse até o julgamento definitivo (isto é, após o esgotamento das instâncias) da ação anulatória." (fls. 3/6 e-STJ).
+Nesse contexto, pleiteia, em liminar, que
+"A) Requer a concessão de TUTELA DE URGÊNCIA PARA SUSPENSÃO DA DECISÃO QUE DEFERIU A LIMINAR PARA IMISSÃO NA POSSE proferida no processo em trâmite perante a JUSTIÇA ESTADUAL (nº1007028-04.2025.8.26.0009) e da decisão proferida no Agravo de Instrumento (nº 2246092-47.2025.8.26.0000), assim, vedar o cumprimento do mandado - que logo será expedido, por ser medida de inteira justiça;" (fl. 23 e-STJ).
+É o relatório.
+DECIDO.
+O pedido liminar comporta acolhimento.
+A Segunda Seção, em situações como a dos autos, tem se orientado no sentido de que, embora não seja possível a reunião de processos em trâmite perante os Juízos Federal e Estadual, impõe-se a suspensão da ação de imissão na posse do bem, até o julgamento final do outro, com a finalidade de se evitar a prolação de decisões conflitantes.
+A propósito:
+"CONFLITO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. FINANCIAMENTO IMOBILIÁRIO. SFH. AÇÃO DE ANULAÇÃO DE ATO JURÍDICO CUMULADA COM REPETIÇÃO DE INDÉBITO. AÇÕES DE IMISSÃO E MANUTENÇÃO DE POSSE PROPOSTAS PERANTE A JUSTIÇA ESTADUAL E FEDERAL. POSSIBILIDADE DE DECISÕES CONFLITANTES. INTERPRETAÇÃO EXTENSIVA DO ART. 115 DO CPC. CONEXÃO. PREJUDICIALIDADE. SUSPENSÃO.
+1. A mera potencialidade ou risco de que sejam proferidas decisões conflitantes é suficiente para caracterizar o conflito de competência, consoante interpretação extensiva conferida por esta Corte ao disposto no artigo 115 do Código de Processo Civil.
+2. Os fundamentos das duas causas não se identificam, em que pese possa ser alegada a conexão, pois há que se reconhecer a existência de um vínculo substancial entre as duas demandas.
+3. Segundo o disposto no art. 109 da CF/88, a Justiça Federal é absolutamente competente para julgar ação em que a União, entidade autárquica ou empresa pública federal tenham interesse na condição de autoras, rés, assistentes ou oponentes. Inexistente essa condição, a reunião de ações para julgamento conjunto não é possível, pois a competência absoluta é improrrogável.
+4. Há que se reconhecer a existência de uma relação de prejudicialidade entre as demandas, autorizando a suspensão prevista no art. 265, IV, "a", do CPC.
+5. Agravo regimental provido" (AgRg no CC n. 112.956/MS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/4/2012, DJe de 2/5/2012- grifou-se.)
+"CONFLITO POSITIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA TRABALHISTA. DECISÕES CONFLITANTES. OBJETO COMUM. AÇÃO DE USUCAPIÃO. BEM ARREMATADO EM EXECUÇÃO TRABALHISTA. AÇÃO DE IMISSÃO NA POSSE DECORRENTE DA ARREMATAÇÃO DE MESMO IMÓVEL. PREJUDICIALIDADE HETEROGÊNEA. SUSPENSÃO.
+1. "Tramitando em Juízos diversos demandas que, tratando de questões fáticas e objetos assemelhados, apresentam-se suscetíveis de decisões conflitantes, sem que tenha qualquer dos juízos se declarado competente para apreciar a causa em curso perante o outro, mas exsurge a manifesta prática de atos que denotem implicitamente tal declaração, é de se pressupor a configuração do conflito positivo de competência na forma prevista no art. 115, inciso I, do CPC" (CC 39.063/PE, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 10/03/2004, DJ 29/03/2004). Precedente.
+2. Havendo conflito positivo de competência entre duas ações que versam sobre a mesma relação jurídica e tramitam em juízos diferentes, a existência de prejudicialidade heterogênea conduz à suspensão de um dos feitos. Precedentes.
+3. Conflito de competência conhecido para, mantendo a competência dos juízos suscitados para o processamento e julgamento das respectivas demandas, determinar a suspensão da imissão na posse em trâmite na 6ª Vara do Trabalho de Recife/PE" (CC n. 118.774/PE, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 12/3/2014, DJe de 20/3/2014- grifou-se.)
+Considerando-se as decisões proferidas pelos juízos suscitados e a jurisprudência supramencionada, revela-se, nesse juízo de cognição sumária, a probabilidade do direito invocado.
+De igual forma, o perigo de dano se mostra caracterizado em razão da iminência de realização de ato expropriatório em desfavor dos suscitantes determinado pelo Juízo estadual.
+Ante o exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, defere-se o pedido de liminar para o fim de sobrestar, nos autos da Ação de Imissão de Posse n.º 1007028-04.2025.8.26.0009 e do Agravo de Instrumento nº 2246092-47.2025.8.26.0000, quaisquer determinações expropriatórias em relação ao imóvel objeto do litígio, designando-se o JUÍZO FEDERAL DA 1ª VARA CÍVEL DE SÃO PAULO - SJ/SP para resolver, em caráter provisório, eventuais medidas urgentes, até ulterior deliberação deste relator.
+Oficie-se aos juízos suscitados, com urgência, comunicando e solicitando informações (art. 954 do CPC/2015).
+Após, ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
+EMENTA
