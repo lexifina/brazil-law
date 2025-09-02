@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO, contra acórdão assim ementado (fl. 113):
+Apelação - Execução Fiscal - Multa (parcelamento irregular do solo) - Exceção de pré-executividade - Nulidade de débito fiscal - O imóvel atrelado à exação foi objeto de esbulho possessório - Ausência de juridicidade a respaldar a cobrança em face do executado, pois este já não mais possui as faculdades de usar, gozar e dispor do imóvel - Precedentes deste Egrégio Tribunal de Justiça e desta E. 18ª Câmara de Direito Público - Sentença de extinção mantida - Recurso improvido.
+Os embargos de declaração foram rejeitados.
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, o recorrente alega violação ao art. 16, § 1º, da Lei 6.830/80. Em apertada síntese, aduz que a comprovação da "ilegitimidade passiva decorrente de suposta invasão do imóvel - dependia de imprescindível dilação probatória, incompatível - como dito - com o rito executivo, merecendo ser reformado o acórdão recorrido." (fl. 140).
+Sobreveio juízo negativo de admissibilidade, com fundamento na incidência  da Súmula  7/STJ e, por analogia, da Súmula 280/STF.
+Nas razões recursais, a parte agravante sustenta a inaplicabilidade das Súmula 7/STJ e 280/STF. Assevera, ainda, que:
+O presente recurso não poderia ter sido obstado pela incidência da súmula 7 do STJ. Isso porque em nenhum momento se pretende o reexame de provas e análise da legislação local. Ao contrário. O que se pretende é que haja a correta aplicação da Lei de Execução Fiscal, pois, é fato incontroverso que a discussão de matéria de mérito e que demanda dilação probatória necessita inexoravelmente da oposição dos embargos à execução fiscal, com prévia garantia do juízo. (fl. 184).
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+A municipalidade recorrente alega que o provimento da exceção de pré-executividade esbarra na necessidade de dilação probatória, o que afronta o comando normativo do art. 16, § 1º, da Lei de Execução Fiscal. Em outros termos, sustenta que a defesa do executado deveria ter utilizado dos embargos mediante prévia garantia da execução, não sendo cabível a exceção diante da necessidade de dilação probatória.
+A pretensão da parte recorrente relativa à violação do art. 16, § 1º, da Lei de Execução Fiscal encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador - no que tange a necessidade de dilação probatória e a consequente inviabilidade de manejo da exceção de pré-executividade - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Ademais, em que pese indicar o dispositivo legal violado art. 16, § 1º, da Lei de Execução Fiscal, não demonstra, de forma clara, que forma se consubstancia a alegada ofensa, o que caracteriza ausência de técnica própria indispensável à apreciação do recurso especial.
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Neste mesmo sentido:
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame. Dessa forma, fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como violados, deixa de demonstrar como tais dispositivos foram ofendidos. Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF. (AgInt no AREsp n. 2.241.098/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 27/9/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
