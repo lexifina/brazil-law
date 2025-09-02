@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fls. 561-562):
+RECURSO DE APELAÇÃO. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. AUTORA BENEFICIÁRIA DA AMIL. PEDIDO DE INTERNAÇÃO HOME CARE E INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA. ABUSIVIDADE. RELATÓRIOS MÉDICOS QUE DEMONSTRAM A REAL NECESSIDADE. PROTEÇÃO AO DIREITO CONSTITUCIONAL À SAÚDE. DIGNIDADE DA PESSOA HUMANA. ATO ILÍCITO CONFIGURADO. DANO MORAL DEVIDO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS CORRETAMENTE ARBITRADOS NA ORIGEM . RECURSO NÃO PROVIDO. SENTENÇA MANTIDA.
+1. O cerne da inconformidade em apreço reside no alegado desacerto da sentença que condenou o plano de saúde réu a custear, integralmente, as despesas provenientes do tratamento da autora na modalidade de home care, além de indenizar à apelada por danos morais em razão das peculiaridades do caso.
+2. Aplicabilidade das regras protetivas do Código de Defesa do Consumidor na relação jurídica existente entre as partes litigantes, uma vez que se enquadram nos conceitos de consumidor e fornecedor estabelecidos no referido Código, devendo, então, observar as normas de ordem pública que objetivam resguardar os direitos básicos consumeristas, nos termos dos artigos 5º, XXXII e 170, V, da Constituição da República.
+3. O plano de saúde tem por finalidade cobrir as despesas com o tratamento de doenças e, nesse aspecto, a seguradora não pode recusar a cobertura assistencial contratada, tampouco decidir qual o melhor tratamento para a autora, tarefa de competência da equipe médica assistente. Precedentes do STJ.
+4. A jurisprudência das Cortes Superiores tem se posicionado pelo reconhecimento da abusividade na negativa de tratamento médico pelos planos de saúde. Reiterados Precedentes do STJ.
+5. Do exame dos documentos e das circunstâncias apresentadas, resta demonstrado que a autora teve que suportar danos decorrentes da conduta lesiva da operadora.
+6. No que concerne ao quantum indenizatório, considerando os dissabores experimentados pela autora da demanda, com fulcro nos critérios da proporcionalidade e razoabilidade, cumpre ser mantida a indenização fixada na origem em R$ 10.000,00 (dez mil reais), suficiente para atender a dupla função da indenização por dano moral: compensatória e punitiva, parâmetro que encontra alicerce na jurisprudência dessa Egrégia Corte de Justiça.
+7. Os honorários advocatícios foram arbitrados na origem em devida atenção às regras processuais e entendimento jurisprudencial que regem a matéria, em 20% (vinte por cento) sobre o valor da condenação, o que se revela adequado à justa remuneração do causídico por sua atuação em primeira instância.
+8. Recurso de apelação não provido, preservando a sentença originária.
+É, no essencial, o relatório.
+Cuida-se de recursos nos quais se discute se é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, à luz da Lei n. 9.656/1998.
+A questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema n. 1.340), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+A propósito, cito a ementa da proposta de afetação:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PLANO DE SAÚDE. CLÁUSULA CONTRATUAL. CUSTEIO DE TRATAMENTO DOMICILIAR (HOME CARE). INDICAÇÃO MÉDICA.
+1. Delimitação da controvérsia: Definir se é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, à luz da Lei n. 9.656/1998.
+2. Afetação do recurso especial ao rito previsto nos arts. 1.036 e 1.037 do CPC de 2015 e 256 ao 256-X do RISTJ.
+(ProAfR no REsp n. 2.153.093/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/4/2025, DJEN de 6/5/2025.)
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Tema n. 1.340 pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+ EMENTA
