@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por ausência de ofensa aos artigos de lei apontados e incidência da Súmula n. 7/STJ (fls. 434-435).
+O acórdão recorrido está assim ementado (fls. 391-392):
+APELAÇÕES RECÍPROCAS. "Ação de rescisão contratual c. c. devolução de valores, lucros cessantes e danos morais". Irresignação de ambas as partes contra a r. sentença de parcial procedência.
+IMPUGNAÇÃO DE NEGÓCIO JURÍDICO. Alegação autoral de que foi induzido a erro pelo representante da empresa ré, que lhe vendeu uma cota de consórcio como se fosse financiamento. Pleito de anulação do contrato por vício, com a consequente devolução de valores, bem como a reparação por danos morais e materiais.
+PROVAS CARREADAS QUE CONFIRMAM AS ASSERTIVAS AUTORAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NA CONTESTAÇÃO. Houve demonstração de que o consumidor foi ludibriado no ato da contratação. As previsões contratuais não afastam o ato ilícito da ré quanto à oferta enganosa. Não é possível responsabilizar o autor, por haver garantia verbal de representante da ré. Áudios e diálogos de WhatsApp que não foram contrapostos ou impugnados de forma específica. Portanto, está presente a responsabilidade civil objetiva dos integrantes da cadeia de consumo, pelo risco da atividade. Dessa forma, era de rigor a anulação do contrato e a restituição da quantia paga, com acréscimos legais, sem a incidência das cláusulas ou da Lei de Consórcios.
+LUCROS CESSANTES NÃO COMPROVADOS. Ausência de qualquer elemento ainda que indiciário acerca de proposta para trabalhar com fretes e possíveis ganhos. Inexistência de provas suficientes para justificar a indenização vindicada. Ratificação da r. sentença neste ponto.
+DANOS MORAIS NÃO CONFIGURADOS. Autor que não diligenciou antes de assinar o contrato. Concorrência para parte do resultado. Desacordo que não se insere na lesão de direito da personalidade. Enunciado 159 do Conselho da Justiça Federal: "O dano moral, assim compreendido todo dano extrapatrimonial, não se caracteriza quando há mero aborrecimento inerente a prejuízo material". Precedentes desta Colenda Câmara.
+RECURSO DA EMPRESA RÉ PROVIDO EM PARTE, para afastar a compensação por danos morais.
+RECURSO ADESIVO AUTORAL DESPROVIDO.
+Nas razões do recurso especial (fls. 407-423), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 186 e 927 do CPC e 4º, VI, 6º, IV, e 14 do CDC, alegando que a parte recorrida cometeu ato ilícito ao enganar a parte recorrente, "a angústia experimentada pelo autor ultrapassa a esfera do mero dissabor, vez que o requerente deixou seu emprego, colocando em risco o sustento de sua família, na expectativa de ver o cumprimento das promessas que lhe foram feitas, o que não ocorreu" (fl. 414). Afirma que "É direito básico do consumidor a efetiva prevenção e reparação de danos morais decorrentes da prestação de serviços" (fl. 422).
+Foram oferecidas contrarrazões (fls. 426-433).
+O agravo (fls. 438-457) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 460-461).
+É o relatório.
+Decido.
+O TJSP, ao analisar as provas constantes dos autos, entendeu que, "respeitada a argumentação autoral e o entendimento do Egrégio Juízo a quo, inexiste o direito à compensação por danos morais  ..  no caso, o conjunto probatório é frágil e não demonstrou o dano sofrido". Confira-se o seguinte excerto (fls. 338-400):
+Se, por um lado, a conduta ilícita da empresa ensejou a anulação do contrato, é de se apontar que o autor não foi diligente na adesão. Eventual bonificação à parte ensejaria seu enriquecimento sem causa, uma vez que tinha a seu alcance os elementos necessários para se ver livre do negócio viciado a que aderiu.
+O dano moral somente se dá quando a parte sofre comprovado abalo em sua estima pessoal, com notório constrangimento na sua auto valoração. Isso não foi demonstrado no caso dos autos. Cabe ressaltar que o dano moral que gera o dever de indenizar é aquele que extravasa o campo dos meros aborrecimentos, percalços e pequenas ofensas.
+No caso, o conjunto probatório é frágil e não demonstrou o dano sofrido. Não há prova de que ela tenha sofrido problemas reflexos e causadores de grande constrangimento ou sofrimento. O mero incômodo e o desconforto de algumas circunstâncias em razão da vida em sociedade não servem para a concessão de indenização. O que gera direito à reparação, via de indenização, é o efetivo dano à imagem, constrangimento ou o sofrimento, o que não ocorreu no caso em julgamento.
+Conquanto possa ter ocorrido eventual decepção com os fatos, não se colige grave ferimento da personalidade moral que se traduz por sofrimento intenso, vultosa vergonha, dor psicológica, dentre outras agruras que, pela sua profundidade subjetiva, poderiam significar prejuízo a ser indenizado. De acordo com a doutrina de SILVIO DE SALVO VENOSA (Direito Civil: responsabilidade civil, 13. ed., Atlas, sem negritos originais, p. 47):
+(..)
+Frise-se que a demissão noticiada às fls. 128 consta expressamente como "DESPEDIDA SEM JUSTA CAUSA, PELO EMPREGADOR", o que não se coaduna com as alegações autorais e o texto da r. sentença. Ou seja, pela prova documental, o requerente foi demitido por opção de seu empregador, e não consta que ele tenha tomado a iniciativa de colocar fim ao contrato de trabalho.
+A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC.
+Publique-se e intimem-se.
+EMENTA
