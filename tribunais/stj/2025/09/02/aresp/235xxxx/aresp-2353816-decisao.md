@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto contra decisão que inadmitiu o recurso especial, sob os fundamentos de ausência de demonstração de violação do art. 1.022 do CPC, além da incidência da Súmula n. 7 do STJ (fls. 1.065-1.067).
+O acórdão recorrido restou assim ementado (fls. 1.014-1.015):
+EMBARGOS À EXECUÇÃO - Contrato de Compra e Venda de Ativos - Sentença de parcial procedência para acolher o pedido subsidiário de excesso de execução - Insurgências dos embargantes e do embargado - Nulidade da sentença - Pretensão de conexão das ações e julgamento conjunto - Análise do caderno processual permite concluir que foi determinada a conexão das ações Autos que foram reunidos perante o juízo da 13ª Vara do Foro Central e, o fato das ações não terem sido julgadas de forma conjunta em uma única sentença, não acarretou prejuízo processual, nem risco de decisões conflitantes, já que as ordens judicias proferidas na ação precedente foram consideradas para o exame desta demanda - Preliminar afastada - No mais, não se conhece do recurso dos embargantes - Razões genéricas - Pelo pressuposto da dialeticidade, as razões recursais devem efetivamente apontar o suposto equívoco da decisão recorrida, hábil a ensejar a sua reforma - Não deve ser conhecido o recurso cujas razões são incompatíveis e dissociadas da decisão impugnada ou que, a pretexto de impugnar as razões de decidir, o faz de maneira genérica - Matérias constantes da apelação que sequer impugnaram os fundamentos da r. sentença - Infringência aos artigos 1.010, II e III e art. 1.013, ambos do novo CPC - Preliminar de nulidade da sentença afastada, e, no mais, recurso dos embargantes não conhecido.
+Preliminar de Intempestividade - Embargos à Execução que foram distribuídos a juízo diverso - Erro escusável - Tempestividade - Não se reconhece como intempestivo os embargos à execução que, por mero equívoco da parte, foi distribuído a juízo diverso, mas dentro do prazo legal - Preliminar afastada - Excesso de execução - Não acolhimento - Prefacial que delimita o alcance da prestação jurisdicional - Não há que se falar em excesso de execução ao argumento de que a sentença se omitiu quanto a aplicação do disposto na cláusula 2.2. letra "g" do Contrato em substituição ao cláusula 2.2 "f", em razão da inadimplência, ante a ausência de pleito em sua peça inicial - Juros que realmente foram incorretamente aplicados - Sentença mantida - Preliminar afastada e recurso da embargada desprovido.
+Não se conhece do recurso dos embargantes e nega-se provimento ao recurso da embargada.
+Os embargos de declaração foram rejeitados (fls. 1.050-1.054).
+No recurso especial (fls. 1.029-1.041), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou violação dos arts. 231, § 1º, 917, § 2º, e 1.022, II, do CPC.
+Suscitou omissão, uma vez que o acórdão teria deixado de se manifestar sobre questões relevantes, especialmente quanto às alegações de (i) intempestividade dos embargos à execução, em razão da inobservância do prazo legal após o equívoco na distribuição inicial dos autos; (ii) equívoco no reconhecimento do excesso de execução, tendo em vista que o crédito originalmente indicado pela recorrente era, na realidade, inferior ao valor efetivamente devido, não se podendo, portanto, falar em excesso.
+Arguiu a tempestividade dos embargos à execução e a inexistência de excesso.
+Não foram apresentadas contrarrazões (fl. 1.057).
+No agravo (fls. 1.070-1.080), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 1.085-1.088).
+Juízo negativo de retratação (fl. 1.091).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022, II, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 1.024-1.026):
+ ..  É incontroverso nos autos que os embargos à execução, a despeito da tempestividade, foram protocolizados em feito diverso.
+Contudo, como bem ressalvou o magistrado "a quo" não há que se falar em intempestividade, por mero equívoco da parte que distribuiu em juízo diverso, mas dentro prazo legal os embargos à execução.
+ ..  O equívoco cometido pelo patrono dos embargantes de boa-fé, não deve assumir relevância suficiente para impedir a sua análise.
+Desse modo, afasta-se a preliminar de intempestividade dos embargos à execução e passa-se a análise da alegação de excesso de execução.
+ ..  Observa-se que em recurso a ora recorrente reconhece que equivocou-se ao aplicar novamente os juros de 0,6% sobre os valor das notas promissórias emitidas, já que estas já contemplavam esses juros até a data de sua emissão (fls. 952 item 23).
+Contudo, frisa que não há que se falar em excesso de execução ao argumento de que a sentença se omitiu quanto a aplicação do disposto na cláusula 2.2. letra "g" do Contrato em substituição ao cláusula 2.2 "f", em razão da inadimplência.
+Ora, como acima mencionado, a prefacial delimita a prestação jurisdicional e na leitura da Ação da Execução não se verifica qualquer pretensão da exequente ora apelante quanto a substituição da cláusula "f" pela cláusula "g", de modo que, embora haja previsão no contrato (fls.45), não existe pleito judicial na prefacial, logo, não há como magistrado determinar sua aplicação.
+Assim, nenhum reparo merece a sentença que reconheceu o excesso de execução e determinou o afastamento dos juros moratórios de 0,6% aplicados pelo embargado em sua planilha de cálculos apresentada na inicial de execução.
+Desse modo, não assiste razão à parte, pois o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+No mesmo sentido, não se verifica violação dos arts. 231, § 1º, e 917, § 2º, do CPC, uma vez que o Tribunal de origem assentou a tempestividade dos embargos à execução e reconheceu, com base nos elementos constantes dos autos, a ocorrência de excesso de execução, afastando os juros moratórios aplicados em desconformidade com a cláusula contratual.
+Nesse cenário, a revisão dos fundamentos do acórdão recorrido encontra impedimento nas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
