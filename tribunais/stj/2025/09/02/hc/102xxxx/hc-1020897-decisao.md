@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de NATANAEL AMARAL LIMA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS.
+Na inicial (fls. 2/22), trouxe a alegação de ilicitude da busca domiciliar que resultou na apreensão de entorpecentes. Apontou que a droga apreendida é de pequena quantidade e não justifica a manutenção da prisão preventiva.
+Neguei a liminar (fls. 138/139).
+Prestadas as informações (fls. 142/321 e 325/339), o Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem (fls. 343/347).
+É o relatório. DECIDO.
+A impetração investe contra acórdão proferido em habeas corpus. Substitui, pois, recurso próprio, o que lhe inviabiliza o conhecimento.
+A 3ª Seção, no HC 535.063/SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não há circunstância excepcional que recomende superar esse entendimento.
+O art. 5º, inciso XI, da Constituição Federal protege a "casa", exigindo, para a entrada de terceiros, alternativamente: a) consentimento do morador; b) flagrante delito; c) desastre; d) prestar socorro; e) durante o dia, por determinação judicial.
+Sobre a hipótese de flagrante delito, o Supremo firmou a tese de que: "(..) a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados" (RE 603616, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 05/11/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-093 DIVULG 09-05-2016 PUBLIC 10-05-2016).
+A inicial dá conta de que: i) a equipe policial recebeu notícia de que, no imóvel, haveria comércio de drogas; ii) a equipe policial procedeu a monitoramento e constatou que pessoas iam até o portão e, depois de breve contato com o morador, iam embora; iii) ao se aproximarem do portão, os policiais militares visualizaram, do lado de dentro, entorpecentes.
+Assim, o cenário fático trazido pela própria impetração aponta uma conjunção de fatores que, naquele contexto, sugeriu à equipe policial fundada razão de que se perfazia ilícito penal em estado de flagrância, circunstância apta a justificar o ingresso na residência.
+Em relação à prisão preventiva, depois de mencionar a hipótese do art. 313, inciso I, do Código de Processo Penal, bem como de descrever a existência de materialidade e de indícios de autoria, o Juízo de primeiro grau, em decisão que foi mantida pelo acórdão ora impugnado, destacou: i) aparente manutenção de atividade de tráfico de drogas na residência; ii) reincidência do ora paciente; iii) existência de outra ação penal por tráfico de drogas a que responde o ora paciente.
+Sobre a possibilidade de um decreto preventivo pautado no risco de reiteração, seja pela circunstância do fato, quer pelo histórico do agente, cita-se o seguinte precedente: "A reincidência e o risco de reiteração delitiva justificam a manutenção da prisão preventiva para a garantia da ordem pública" (AgRg no HC n. 995.174/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.).
+Nessa linha, o decidido pelas instâncias inferiores está de acordo com a orientação desta Corte e não comporta censura.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
