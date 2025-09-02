@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que, em razão da natureza constitucional da fundamentação do acórdão recorrido, não conheceu de recurso especial em que discute a exigibilidade do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, em operações interestaduais realizadas entre contribuintes do imposto, decorrente da diferença entre alíquotas adotadas entre os Estados de origem e de destino (ICMS-DIFAL).
+É o relatório necessário. Decido.
+Deferido o pedido de retirada do recurso da pauta de julgamento, a decisão agravada deve ser reconsidera, pois a Primeira Seção deste Tribunal decidiu afetar o REsp n. 2.133.933/DF e o REsp 2.025.997/DF à sistemática dos recursos repetitivos para o fim de definir tese a respeito da exigibilidade do ICMS-DIFAL, em operações interestaduais destinadas a consumidor final contribuinte do imposto, antes da entrada em vigor da Lei Complementar n. 190/2022 (Tema 1369).
+Nesse contexto, os autos devem retornar ao Tribunal de Justiça para o sobrestamento do recurso especial até o exercício do juízo de conformação pelo órgão julgador com a tese a ser definida pela Primeira Seção, no precedente qualificado.
+Ante o exposto, reconsidero a decisão agravada e determino a devolução dos autos ao Tribunal de Justiça do Estado do Rio de Janeiro, com a respectiva baixa, para que, após o exercício do juízo de conformação, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1.039, 1.040, incs. I e II, e 1.041 do CPC/2015). Ficam prejudicados o agravo interno e o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO RECONSIDERADA. TEMA A SER DEFINIDO PELA PRIMEIRA SEÇÃO EM PRECEDENTE QUALIFICADO. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSOS PREJUDICADOS.
