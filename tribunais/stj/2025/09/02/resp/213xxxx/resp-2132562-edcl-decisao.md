@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLAUDIO ANTONIO DOS SANTOS contra decisão que não conheceu o recurso especial, em razão da aplicação das Súmulas ns. 211 e 7 do STJ.
+Nos declaratórios, a parte embargada alega equívoco na decisão embargada pelos seguintes argumentos: (a) "a execução complementar só foi possível a partir das teses firmadas pelo Supremo Tribunal Federal nos temas 810, 1170 e 1361 a qual teve repercussão geral, e que desde o início do agravo de instrumento a parte autora prequestionou a matéria"; (b) "o recurso da recorrente não busca reexame da prova material produzida nos autos, mas tão somente a aplicação de dispositivo de Lei Federal, em razão de ter sido firmado o entendimento através do Tema 905 do STJ, e posteriormente julgada pelo STF no Tema 810"; e, (c) "deve ser reformada a decisão monocrática, cabe ao Superior Tribunal de Justiça, quando for verificado que o Tribunal Regional Federal da 4º não aplicou a tese firmada em recurso repetitivo ou de repercussão geral firmada pelos Tribunais Superiores, deve ser determinado o retorno dos autos para que seja determinado o juízo de retratação".
+Sem impugnação (fl. 555).
+É o relatório. Decido.
+De acordo com o que dispõe o artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, a parte embargante não apontou concretamente quaisquer dos vícios autorizadores da oposição do recurso manejado, mostrando-se deficiente a argumentação recursal em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica - com defesa apenas do mérito do recurso especial - sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+A ausência de tal demonstração enseja juízo negativo de admissibilidade dos embargos declaratórios, uma vez desatendido o disposto no art. 1.023 do CPC/2015, além de comprometer a compreensão da exata controvérsia a ser dirimida com o oferecimento dos aclaratórios, o que atrai a incidência da Súmula n. 284/STF, por analogia.
+Ante o exposto, não conheço os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
