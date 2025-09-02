@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo de LUCAS ANDRIEL SOARES LEIGUE, contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 7082462-34.2022.8.22.0001.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 148, § 2º, do CP, à pena de 2 anos de reclusão, em regime aberto.
+O recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CÁRCERE PRIVADO. SOFRIMENTO FÍSICO E PSICOLÓGICO. CONDENAÇÃO. CONJUNTO PROBATÓRIO HARMONIOSO. RECURSOS DEFENSIVOS DESPROVIDOS.
+I. CASO EM EXAME
+1. Apelação criminal interposta contra sentença que condenou os réus pela prática do crime de cárcere privado com agravante de sofrimento físico e psicológico (art. 148, §2º, do CP). As defesas pugnam pela absolvição, por falta de provas.
+II. QUESTÃO EM DISCUSSÃO
+1. Há uma questão em discussão: (i) verificar se as provas constantes nos autos são suficientes para embasar a condenação dos apelantes pelo crime de cárcere privado com sofrimento físico e psicológico.
+III. RAZÕES DE DECIDIR
+1. A condenação pelo crime de cárcere privado qualificado exige prova da privação da liberdade da vítima, mediante violência ou grave ameaça, por tempo juridicamente relevante, com imposição de sofrimento físico ou psicológico.
+2. O conjunto probatório, composto por boletim de ocorrência, depoimentos policiais e relatos consistentes da vítima, corroborados em juízo, evidencia a materialidade e autoria do crime imputado aos réus.
+3. As declarações dos policiais que efetuaram a prisão em flagrante e a condição da vítima, encontrada acorrentada e lesionada, corroboram a versão da acusação, afastando as teses defensivas de que os apelantes apenas auxiliaram uma vítima de assalto, isoladas e contraditórias, sem qualquer comprovação de que o suposto roubo tenha ocorrido.
+4. A jurisprudência é pacífica no sentido de que o tempo de privação da liberdade não precisa ser prolongado para caracterizar o delito, bastando a restrição por período juridicamente relevante e a comprovação do sofrimento infligido, como no caso em apreço.
+IV. DISPOSITIVO E TESE
+7. Recursos defensivos desprovidos. Tese de julgamento". 1. O crime de cárcere privado qualificado pelo sofrimento físico e psicológico consuma-se com a privação da liberdade da vítima por período juridicamente relevante, sendo irrelevante a duração exata da restrição. 2. A palavra da vítima, corroborada por elementos externos e depoimentos policiais, possui especial relevância probatória nos crimes cometidos em contexto de violência e clandestinidade. 3. A ausência de indícios concretos que desmintam a versão da vítima ou corroborem a tese defensiva justifica a manutenção da condenação, afastando a alegação de fragilidade das provas".
+No recurso especial, a defesa alega violação ao art. 155 do Código de Processo Penal, sustentando que o Tribunal de origem manteve a condenação baseada exclusivamente nos elementos informativos.
+Contrarrazões (fls. 665/675).
+O recurso foi inadmitido pelo TJ de origem em razão da intempestividade do recurso especial, conforme decisão de fl. 676.
+Interposto recurso de agravo, a defesa impugnou o referido óbice (fls. 679/687).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial (fls. 719/721).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise da admissibilidade do recurso especial.
+O recurso especial, no entanto, é intempestivo.
+Conforme se extrai de forma incontroversa dos autos, o patrono do recorrente teve ciência do acórdão recorrido, conforme registrado pelo sistema PJe, em 11/3/2025 (fl. 646).
+Dessa forma, o prazo recursal teve início em 12/3/2025, encerrando-se em 26/3/2025, nos termos do art. 798 do Código de Processo Penal (CPP), que estabelece a contagem contínua e peremptória dos prazos em matéria penal, sem interrupção por férias, domingos ou feriados.
+Embora o prazo para interposição do recurso especial seja previsto nos arts. 994, VI, 1.003, § 5º, e 1.029, todos do Código de Processo Civil (CPC), aplica-se, no caso, o disposto no art. 798 do CPP, por se tratar de matéria penal.
+Considerando que o recurso especial foi interposto apenas em 10/4/2025, resta evidente sua intempestividade, diante do transcurso do prazo legal.
+É certo que a Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que " a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso " (EAREsp n. 1.759.860/PI, rel. Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe 21/3/2022).
+Contudo, conforme já decidiu o STJ, "para a comprovação de possível indução a erro na contagem do prazo processual, é indispensável que haja nos autos documento que comprove a alegação da parte, como a indicação, na própria certidão de intimação, do prazo recursal fixado pelo Tribunal de origem. A apresentação de prints de tela ou a imagem de página extraída da internet e inserida na petição do recurso não são suficientes para se concluir que houve falha na prestação da informação pelo Tribunal" (AgRg no AREsp n. 2.354.546/BA, rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 30/11/2023, DJe 5/12/2023).
+No caso em tela, nos termos do precedente citado, observa-se que o agravante apenas apresentou capturas de tela (prints) com o intuito de comprovar a suposta observância do prazo recursal  o que, conforme a jurisprudência do STJ, é insuficiente. Ademais, as imagens trazidas aos autos indicam tão somente uma previsão genérica do sistema eletrônico quanto à data-limite para manifestação, o que não afasta o dever da parte de realizar a contagem dos prazos conforme a legislação processual aplicável.
+Para reforçar esse entendimento, colhe-se da jurisprudência do STJ:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. ALEGADO EQUÍVOCO DO SISTEMA ELETRÔNICO DO TRIBUNAL LOCAL (PROJUDI) NA INDICAÇÃO DO PRAZO FATAL. APRESENTAÇÃO DE MERO PRINT DE TELA. JUSTA CAUSA NÃO DEMONSTRADA. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 dias corridos, nos termos do art. 994, inciso VI, c/c os arts.
+1.003, § 5º e 1.029, todos do CPC, bem como do art. 798, do CPP.
+2. Na espécie, o recurso especial é manifestamente intempestivo, porquanto consta dos autos que a defesa foi devidamente intimada do decisum proferido pelo Tribunal a quo, no julgamento dos apelos defensivo e ministerial, em 17/10/2024 (quinta-feira), tendo interposto recurso especial somente em 18/11/2024 (segunda-feira), sem qualquer comprovação de suspensão do expediente forense no âmbito do Tribunal de origem.
+3. É firme a orientação deste Superior Tribunal no sentido de que, "em que pese o julgamento do EAREsp n. 1759860/PI, no qual a Corte Especial firmou entendimento segundo o qual a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso, é certo que a jurisprudência desta Corte Superior também firmou entendimento de que o referido equívoco deve ser comprovado por documento idôneo, apto a comprová-lo, não bastando mero print do sistema" (AgRg nos EDcl no AREsp n. 2.529.427/PR, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/6/2024, DJe 14/6/2024). Precedentes.
+4. Na hipótese dos autos, intimada para, no prazo de 5 dias, comprovar eventual suspensão, interrupção ou prorrogação do prazo para interposição do recurso especial, nos termos do artigo 1.003, § 6º, do CPC (e-STJ fl. 803), a defesa protocolou petição, alegando erro do sistema Projudi, mantido pelo Tribunal local, na indicação do prazo fatal, limitando-se a colacionar algumas capturas de tela do referido sistema (e-STJ fls. 807/808). Assim, não comprovado, por documento idôneo, o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido pelo Tribunal de origem, inviável o reconhecimento da tempestividade da irresignação.
+5. Ademais, como é cediço, o recurso especial é submetido a duplo juízo de admissibilidade, não estando esta Corte Superior vinculada às manifestações do Tribunal a quo acerca dos pressupostos recursais. Assim, o reconhecimento da tempestividade pela Corte de origem não vincula este Superior Tribunal, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial. Precedentes.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.870.040/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025.)
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
