@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravos contra decisões que não admitiram os recursos especiais interpostos por MARA SILVIA FELIPE DOS SANTOS e OUTROS e pelo MUNICÍPIO DE SÃO PAULO, ambos com fundamento na alínea a do permissivo constitucional, no qual se insurgiram contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 673):
+APELAÇÃO EMBARGOS À EXECUÇÃO DIFERENÇAS SALARIAIS DE OUTUBRO E DEZEMBRO DE 1994 E DE FEVEREIRO DE 1995 ALEGAÇÃO DE PRESCRIÇÃO NO QUE SE REFERE À PARCELA DE FEVEREIRO DE 1995 REJEIÇÃO EM RELAÇÃO ÀS DIFERENÇAS DE FEVEREIRO DE 1995 A EXECUÇÃO SÓ SE TORNOU POSSÍVEL APÓS A DECISÃO DESTA C. 4ª CÂMARA DE DIREITO PÚBLICO, TRANSITADA EM JULGADO EM 14/05/2014, EM QUE SE DEFINIU O ÍNDICE DE REAJUSTE APLICÁVEL (25,32%) CUMPRIMENTO DA SENTENÇA QUE FOI INSTAURADO EM 17/11/2014, DENTRO, PORTANTO, DO QUINQUÍDIO LEGAL HONORÁRIOS ADVOCATÍCIOS INCIDENTES SOBRE AS DIFERENÇAS SALARIAIS DE OUTUBRO E DEZEMBRO DE 1994 PRESCRIÇÃO CONFIGURADA VERBA HONORÁRIA QUE, NESSE CASO, JÁ PODERIA TER SIDO COBRADA DESDE 09/06/2004, COM O TRÂNSITO EM JULGADO DA DECISÃO DO STF QUE AFASTOU A SUCUMBÊNCIA RECÍPROCA E FIXOU HONORÁRIOS ADVOCATÍCIOS (DEVIDOS PELO MUNICÍPIO) EM 10% SOBRE O VALOR DA CONDENAÇÃO SENTENÇA DE PROCEDÊNCIA DOS EMBARGOS RECURSO PARCIALMENTE PROVIDO.
+Somente os embargos de declaração opostos pelos exequentes foram parcialmente acolhidos (e-STJ, fls. 690-694 e 704-708).
+No recurso especial, os recorrentes apontaram violação dos arts. 23 e 24 da Lei n. 8.906/94; 1º do Decreto n. 20.910/1932; e 502, 503, 505, 506, 507, 508 e 535, § 4º, do CPC.
+Informaram que o caso tratou de embargos à execução opostos pela Municipalidade de São Paulo, em que se discutia a prescrição da obrigação de pagar diferenças salariais referentes aos meses de outubro e dezembro de 1994 e fevereiro de 1995. A sentença de primeira instância havia reconhecido a prescrição da obrigação de pagar, mas os exequentes apelaram, buscando a reforma da decisão, sustentando que a obrigação foi proposta dentro do prazo prescricional.
+Esclareceram que se opuseram ao acórdão por manter a prescrição parcial dos honorários de sucumbência, apenas sobre parte da verba honorária, incidente sobre as diferenças de reajuste de outubro e dezembro de 1994.
+Frisaram que tal determinação do julgamento deve ser reformada, de modo a afastar a prescrição parcial dos honorários de sucumbência, tendo em vista o entendimento consolidado da jurisprudência quanto à indivisibilidade, autonomia e impossibilidade de fracionamento dessa parcela condenatória.
+Sustentaram que o título executivo determinou expressamente a prévia liquidação do julgado para definição do índice de reajuste a ser aplicado e apuração da quantia devida, bem como fixou a sucumbência de forma clara e precisa em percentual sobre o valor global e atualizado da condenação, com base no art. 20, § 4º, do CPC/1973, não havendo dúvidas quanto a unicidade e impossibilidade de divisão do montante relativo aos honorários.
+Destacaram que o prazo prescricional somente teve início com o encerramento da liquidação e trânsito em julgado dos embargos à execução de obrigação de fazer em 14/5/2014, pois a execução de pagar foi promovida em 17/11/2014, dessa forma não cabe a decretação de prescrição de parte da verba honorária.
+Enfatizaram que houve desrespeito ao 1º do Decreto n. 20.910/1932, ao ignorar que a liquidação do aresto obstou integralmente a fluência do lapso prescricional, abrangendo toda a quantia, e não apenas parte desta (parcela incidente sobre as diferenças de out/dez/1994). Requereram o provimento do recurso especial (e-STJ, fls. 711-731).
+Já o Município de São Paulo alegou violação aos arts. 1º e 8º do Decreto n. 20.910/32, 3º do Decreto-Lei n. 4.597/42, 202 do Código Civil e 924, V, do CPC/2015, sustentando que a execução proposta pela parte recorrida está integralmente prescrita, devido a sua omissão em ajuizá-la dentro do prazo prescricional previsto em lei, tendo em vista que a decisão do processo de conhecimento transitou em julgado em 15/06/2004.
+Nas razões do agravo, os agravantes impugnam os fundamentos das decisões denegatórias do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 779-793 e 772-777).
+Brevemente relatado, decido.
+Nota-se que uma das questões de direito debatida nestes autos foi afetada pela Primeira Seção como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC.
+Com efeito, a decisão de afetação, proferida, entre outras, na ProAfR no REsp n. 1.978.629/RJ, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 11/10/2022, DJe de 18/10/2022, no Tema n. 1.169/STJ, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO PELO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL COLETIVO. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DO JULGADO COLETIVO.
+1. Delimitação da controvérsia: "Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos".
+2. Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/09/2016), em conjunto com os REsp 1.985.037/RJ e 1.985.491/RJ.
+(ProAfR no REsp n. 1.978.629/RJ, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 11/10/2022, DJe de 18/10/2022.)
+Além disso, também deve ser levado em consideração o que já foi decidido no Tema n. 1.311/STJ, que fixou a seguinte tese: "O curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública não é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença".
+Veja-se a ementa do julgado:
+Ementa. Administrativo e processo civil. Tema 1.311. Recurso especial representativo de controvérsia. Cumprimento de sentença contra a fazenda pública. Ordem de implantar em folha de pagamento (obrigação de fazer) e condenação a pagar os valores até a implantação (obrigação de pagar quantia certa). Prescrição.
+Influência da obrigação de fazer na obrigação de pagar.
+I. Caso em exame
+1. Tema 1.311: recursos especiais (REsp ns. 2.057.984 e 2.139.074) afetados ao rito dos recursos repetitivos, relativos à prescrição das obrigações de pagar quantia certa pela fazenda pública, quando há determinação, no mesmo título executivo judicial, de implantar parcelas vincendas em folha de pagamento.
+II. Questão em discussão
+2. Saber se o curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença.
+III. Razões de decidir
+3. O cumprimento de sentença quanto à implantação em folha de pagamento não suspende ou interrompe a prescrição da obrigação de pagar quantia certa (REsp n. 1.340.444, Rel. Min. Humberto Martins, redator para o acórdão Min. Herman Benjamin, Corte Especial, julgado em 14/3/2019; EREsp n. 1.169.126, Rel. Min. Og Fernandes, Corte Especial, julgado 20/3/2019). As obrigações têm suficiente independência, de forma que o curso do prazo prescricional não é suspenso na pendência da implantação em folha de pagamento.
+IV. Dispositivo e tese
+4. Tese: O curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública não é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença.
+5. Caso concreto: dado provimento ao recurso especial, para extinguir o cumprimento de sentença.
+______
+Dispositivos relevantes citados: arts. 1º, 2º, 3º, 8º e 9º, do Decreto n. 20.910/1932; art. 100, caput e § 3º, da Constituição Federal; arts. 534 e 535 do CPC; art. 17 da Lei n. 10.259/2001 e art. 13 da Lei n. 12.153/2009.
+Jurisprudência relevante citada: STJ, REsp n. 1.340.444, Rel. Min. Humberto Martins, Redator para o acórdão Min. Herman Benjamin, Corte Especial, julgado em 14/3/2019; EREsp n. 1.169.126, Rel. Min. Og Fernandes, Corte Especial, julgado 20/3/2019.
+(REsp n. 2.057.984/CE, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 11/6/2025, DJEN de 16/6/2025.)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Veja o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos
+especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele
+permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por
+decisão fundamentada do Presidente do STJ.
+No tocante ao agravo em recurso especial do Município, de fls. 772-777 (e-STJ), fica prejudicada sua análise, tendo em vista a devolução dos autos à origem para o aguardo do julgamento do Tema n. 1.169/STJ. A solução a ser conferida ao caso poderá influenciar na pretensão da municipalidade, a justificar a inviabilidade da apreciação do mencionado recurso.
+Logo, é imperativa a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão recorrido em relação ao que vier a ser decidido pelo Superior Tribunal de Justiça sobre o Tema n. 1.169/STJ.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO COLETIVO. PRESCRIÇÃO PARCIAL DE VERBA HONORÁRIA. NECESSIDADE DE LIQUIDAÇÃO DO JULGADO. MATÉRIA. AFETADA AO RITO DOS RECURSOS REPETITIVOS. PROAFR NOS RESPS 1.985.037/RJ e 1.985.491/RJ). TEMA N 1.169/STJ. POSSIBILIDADE DE REFLEXOS NA PRETENSÃO DOS RECORRENTES. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
+.
