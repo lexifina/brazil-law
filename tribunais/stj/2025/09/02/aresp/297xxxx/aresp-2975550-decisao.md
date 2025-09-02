@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CLEOBULO INACIO DE ALBUQUERQUE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+AGRAVO INTERNO - NÃO EMENTA CONHECIMENTO DE AGRAVO DE INSTRUMENTO - PERDA DO OBJETO - AUSÊNCIA SUPERVENIENTE DO INTERESSE RECURSAL - RECURSO QUE NÃO TRAZ ARGUMENTOS APTOS À REFORMA DO ENTENDIMENTO DO RELATOR - DESPROVIMENTO DO . AGRAVO INTERNO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 1.015, IV, parágrafo único, do CPC, no sentido de que a decisão que nega a desconsideração da personalidade jurídica no incidente não possui natureza de sentença, mas sim de decisão interlocutória, sendo plenamente cabível o agravo de instrumento para fins de impugnação, trazendo a seguinte argumentação:
+Pois bem, a decisão combatida fundamenta que o agravo de instrumento não deve ser conhecido, uma vez que já sobreveio sentença no processo originário.
+No entanto, não há o que se falar em prejudicialidade do agravo de instrumento.
+O processo principal de cumprimento de sentença é o processo nº 0805174- 30.2016.8.15.0251 (trâmite na 4ª Vara Mista da Comarca de Patos/PB), o qual foi instaurado incidente de desconsideração da personalidade jurídica em autos apartados, mas anexo ao processo principal.
+O incidente da desconsideração da personalidade jurídica mesmo que autuados em apartados, o mes mo faz parte do processo principal de cumprimento de sentença.
+No momento que o Juízo de piso profere uma decisão no incidente negando a desconsideração da personalidade jurídica, automaticamente ele profere uma decisão interlocutória de mérito no processo principal de cumprimento de sentença.
+A movimentação "sentença" no incidente é apenas em razão do sistema PJE, mas ela não é de fato uma sentença, mas tão somente decisão interlocutória de mérito direcionada a ação principal.
+A decisão negativa proferida pelo Juízo de piso - processo nº 0805174- 30.2016.8.15.0251 (trâmite na 4ª Vara Mista da Comarca de Patos/PB) - no incidente de desconsideração da personalidade jurídica não põe fim a execução ou cumprimento de sentença, mas tão somente nega um pedido incidental aquele procedimento, motivo pelo qual o recurso cabível é o agravo de instrumento.
+Portanto, não há o que se falar em não conhecimento do agravo de instrumento por suposta "sentença" proferida nos autos originários (fls. 58-59).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Analisando os autos, observa-se que o Agravo de Instrumento restou prejudicado, em razão da prolação de sentença do processo em primeiro grau, conforme se depreende de consulta a movimentação processual.
+Com efeito, o julgamento da ação principal, de onde brotava o Agravo de Instrumento, traduz a impossibilidade do julgamento do presente recurso. Deve-se ter em mente que o pedido ora formulado pelo recorrente não mais terá qualquer sentido, pois ocorreu a perda do objeto da insurgência, restando prejudicada a sublevação, consoante assinala a doutrina processual (fls. 47, grifo meu)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
