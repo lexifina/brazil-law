@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CLOVIS SIMPLICIO DE JESUS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CIVIL. CONTRATOS. FORMAÇÃO. IMPUGNAÇÀO À ASSINATURA LANÇADA NO INSTRUMENTO CONTRATUAL. PROVA PERICIAL GRAFOTÉCNICA QUE CONCLUIU PELA ASSINATURA DO PRÓPRIO PUNHO DO AUTOR. AUSÊNCIA DE QUALQUER INDÍCIO DE FRAUDE. RELAÇÃO CONTRATUAL VÁLIDA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA. IMPROCEDÊNCIA. SANCIONAMENTO POR LITIGÂNCIA DE MÁ-FÉ (ART. 87, CPC) RECURSO IMPROVIDO, COM SANCIONAMENTO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 80 e 81 do CPC, no que concerne ao afastamento da condenação por litigância de má-fé, tendo em vista a ausência dos elementos caracterizadores da conduta, ou seja, dolo específico ou intenção deliberada de alterar a verdade dos fatos, trazendo a seguinte argumentação:
+A decisão recorrida violou os artigos 80 e 81 do Código de Processo Civil ao condenar o Recorrente por litigância de má- fé sem demonstrar os elementos subjetivos necessários à aplicação da penalidade, negando vigência aos dispositivos legais que regulam de forma criteriosa tal instituto.
+ ..
+A doutrina confirma a indispensabilidade do dolo específico para a caracterização da má-fé.
+ ..
+Não há nos autos qualquer demonstração de que sua conduta foi intencionalmente desleal ou voltada a alterar a verdade dos fatos, pressupostos que são indispensáveis para a aplicação da penalidade.
+Assim, ao condenar o recorrente à multa de 5% do valor da causa o v. Acórdão deixou de observar os parâmetros legais para configuração da litigância de má-fé, negando vigência aos artigos 80 e 81 do CPC e afrontando os princípios da proporcionalidade e do devido processo legal (fls. 333-334)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Considerando o fato de que a insistência da tese inicial de ausência de vínculo contratual contraria as provas amealhadas, que corroboram a existência de vínculo efetivo, resta demonstrada a ofensa da norma do art. 80, II e VII, do CPC, sendo o caso de sancionamento, na forma do art. 81, do mesmo dispositivo legal, no percentual de 5% sobre o valor atualizado da causa (R$12.019,96) (fl. 327).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em recurso especial" (REsp n. 2.167.205/SP, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 13/12/2024).
+Além disso, " A revisão dos critérios para fixação da multa por litigância de má fé demanda reexame de matéria fático-probatória, vedado pela Súmula 7/STJ." (AgInt nos EDcl no AREsp n. 2.568.765/MT, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+Confiram-se ainda os seguintes precedentes:AgInt nos EDcl no AREsp n. 2.563.993/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 14/11/2024; AgInt no AREsp n. 2.505.321/DF, relator Ministro Humberto Martins, Terceira Turma, DJe de 15/8/2024; AgInt no AREsp n. 2.179.308/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 15/8/2024; AgInt no AREsp n. 2.450.482/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/5/2024; AgInt no REsp n. 2.095.784/BA, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2024; AgInt no REsp n. 2.069.929/MG, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/12/2023; AgInt no REsp n. 2.073.178/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 28/9/2023; EDcl no AgInt nos EDcl no REsp n. 1.898.156/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/9/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
