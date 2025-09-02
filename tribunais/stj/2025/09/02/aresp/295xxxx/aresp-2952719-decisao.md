@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANA RIBEIRO GOMES e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. MULTA. AFASTAMENTO.
+1. A multa tem por objetivo a coerção na busca da efetividade da tutela. Não tem finalidade remuneratória da parte em favor da qual fora concedida a tutela. Desse modo, a condenação do ente público em multa justifica-se em determinados casos, a exemplo de quando há escancarado descumprimento da ordem, mas não em todos os casos indiscriminadamente.
+2. Tendo em conta o cumprimento da obrigação, afasta-se a fixação de multa (fl. 523).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 536, § 1º, do CPC, no que concerne à necessidade de se reconhecer a possibilidade de imposição de multa diária pelo descumprimento de decisão judicial, com a finalidade de se garantir a efetividade da decisão judicial. Traz a seguinte argumentação:
+O v. acórdão recorrido contrariou expressamente o art. 536, §1º, do CPC, que prevê a possibilidade de imposição de multa diária pelo descumprimento injustificado de decisão judicial, sempre que tal medida se mostrar necessária à efetivação da tutela específica.
+Nesse sentido, o entendimento manifestado no acórdão recorrido diverge da jurisprudência pacífica do Superior Tribunal de Justiça, que reafirma a natureza coercitiva das astreintes e sua essencialidade para garantir o cumprimento das decisões judiciais. A multa diária tem como objetivo compelir o devedor a cumprir a obrigação determinada judicialmente, sob pena de sofrer sanção pecuniária crescente.
+Assim, não é demasiado destacar que finalidade da pena de multa é induzir o devedor a cumprir a obrigação no prazo estipulado, evitando que a parte agravada seja prejudicada pela inércia do devedor, a qual necessitava do benefício assistencial. No presente caso, o reiterado descumprimento da decisão judicial demonstrou a necessidade da aplicação das astreintes, como forma de garantir a efetividade da tutela jurisdicional.
+A questão discutida no presente recurso é de extrema relevância, pois diz respeito à interpretação e aplicação do art. 536, §1º, do CPC, que trata da efetividade das decisões judiciais, uma vez que ao negar a vigência e contrariar a lei federal, violou segurança jurídica.
+Ressalta-se que a inclusão do benefício de prestação continuada somente foi implementada após a exasperação do valor da multa diária, o que demonstra a ineficácia das medidas coercitivas adotadas inicialmente, não justificando a simples exclusão (fls. 535- 536).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Ocorre que, conforme destacado pela Autarquia Previdenciária, apesar de implantado o benefício a destempo, é fato que a parte não teve prejuízos, porquanto todos os valores foram calculados com aplicação de juros e correção monetári a. Ou seja, a obrigação foi devidamente cumprida (fl. 520, grifo meu).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido (Súmula 283/STF).
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
