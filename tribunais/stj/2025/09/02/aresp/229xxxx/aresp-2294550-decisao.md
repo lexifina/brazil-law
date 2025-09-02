@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência dos óbices das Súmulas n. 5 e 7 do STJ (fls. 1.185/1.187).
+O acórdão recorrido encontra-se assim ementado (fl. 1.106):
+EMENTA: APELAÇÃO - AÇÃO ORDINÁRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA - PREVIDÊNCIA PRIVADA -PRELIMINAR - EXISTÊNCIA DE COISA JULGADA - REJEITAR- REAJUSTE DO BENEFÍCIO PREVIDENCIÁRIO - PARIDADE COM OS ÍNDICES - DISTRIBUIÇÃO DE SUPERÁVIT - INEXISTÊNCIA DE IRREGULARIDADE - PAGAMENTO DO BENEFÍCIO MÍNIMO - LEGALIDADE. A existência de reprodução de ação anteriormente ajuizada, com igualdade de partes, causa de pedir e pedido, faz ser necessária à extinção da ação mais nova, sem resolução do mérito, motivada pela existência de coisa julgada. Compulsando-se os autos, observa-se a presença de matéria coberta pela coisa julgada, devendo ser mantida a sentença que extinguiu parte da ação. Consoante decidido pelo Superior Tribunal de Justiça, no julgamento do REsp 1.564.070/MG, "nos planos de benefícios de previdência complementar administrados por entidade fechada, a previsão regulamentar de reajuste, com base nos mesmos índices adotados pelo Regime Geral de Previdência Social, não inclui a parte correspondente a aumentos reais". Sendo cumprida as exigências legais e regulamentares, não há que se falar em irregularidade no procedimento de distribuição de superávit adotado pelo plano de benefício, mormente porque não foi demonstrado qualquer prejuízo à parte autora.
+Os embargos de declaração foram rejeitados (fls. 1.135/1.141).
+Nas razões do recurso especial (fls. 1.144/1.157), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 20, § 3º, e 21 da LC n. 109/2001 e 46 da Lei n. 6.435/77, ao argumento de que "a metodologia adotada pela VALIA desborda completamente dos limites legais, eis que estabeleceu o pagamento de uma verba mínima com base no superávit técnico quando inexistia qualquer autorização legal para tanto" (fl. 1.150).
+No agravo (fls. 1.190/1.205), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 1.209/1.225.
+É o relatório.
+Decido.
+Quanto à violação dos arts. 20, § 3º, e 21 da LC 109/2001, bem como ao art. 46 da Lei 6.435/77, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284 do STF.
+Idêntico óbice se aplica quanto ao conhecimento do recurso pela alínea "c" do permissivo constitucional, haja vista que, no arrazoado, limitou-se o recorrente a fazer alusão genérica à LC 109/2001, sem observar a exigência da indicação do dispositivo legal (artigo de lei) ao qual teria sido atribuída interpretação divergente pela instância de origem. Incide , também no ponto, o óbice da Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo .
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
