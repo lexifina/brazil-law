@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e da ausência de demonstração do dissidio jurisprudencial (fls. 251-253).
+O acórdão recorrido encontra-se assim ementado (fl. 195):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO E PEDIDO DE TUTELA DE URGÊNCIA. EMPRÉSTIMO CONSIGNADO. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS INICIAIS. INSURGÊNCIA DA PARTE AUTORA EM RELAÇÃO À INDENIZAÇÃO POR DANOS MORAIS. CONTRATAÇÃO FRAUDULENTA. FALHA NA PRESTAÇÃO DE SERVIÇO. HIPÓTESE QUE NÃO CONFIGURA DANO MORAL PRESUMIDO. NECESSIDADE DE COMPROVAÇÃO DAS REPERCUSSÕES AOS DIREITOS PERSONALÍSSIMOS DA PARTE, COMO HONRA ATINGIDA OU PRIVAÇÕES DE QUALQUER NATUREZA. PARTE AUTORA QUE NÃO SE DESINCUMBIU DESSE ÔNUS. HIPÓTESE, ADEMAIS, EM QUE RECEBEU O VALOR CONTRATADO. DANO MORAL NÃO CONFIGURADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 213-214).
+Nas razões do recurso especial (fls. 226-233), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação do art. 489, § 1º, VI, do CPC, por negativa de prestação jurisdicional quanto ao precedente judicial apontado na peça recursal, destacando que "a Câmara recusou-se a reconhecer omissão sob o frágil argumento de que o precedente invocado não possui força vinculante, dispensando distinção, incorreu em negativa de prestação jurisdicional, com nulidade de decisão, pois impunha-se ao julgador realizar a fundamentação analítica de distinção para justificar conclusões diametralmente opostas em contextos fático-processuais idênticos" (fl. 230).
+No agravo (fls. 256-265), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 269-276).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 489 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação ao tema, o Tribunal de origem assim se manifestou (fl. 219):
+No acórdão, foi expressamente reconhecido, com fundamento no entendimento do Superior Tribunal de Justiça, que "os descontos no benefício previdenciário, reconhecidos como indevidos em razão de fraude por falsificação de assinatura, como no caso específico ", sendo indispensável a comprovação dedos autos, não configuram dano moral presumido repercussões nos direitos personalíssimos do consumidor, tais como lesão à honra ou privações de qualquer natureza.
+Além disso, restou reconhecido que, no presente caso, a parte autora não alegou concretamente nenhuma ofensa ou lesão à sua honra e personalidade apta a ensejar a indenização por danos morais. A par disso, os julgados apresentados nas razões do recurso de apelação não possuem força vinculante, razão pela qual não é necessária a demonstração de distinção ou superação, pois, como não há obrigatoriedade de observância, é possível a adoção de entendimento diverso.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 489 do CPC.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+No caso, a indicação do art. 489, §1º, VI, do CPC, não é suficiente para fundamentar a existência de divergência jurisprudencial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo e a concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
