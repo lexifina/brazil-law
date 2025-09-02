@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por LUCAS MATEUS DA SILVA, contra decisão monocrática da lavra do Ministro Presidente HERMAN BENJAMIN, que não conheceu do recurso, em razão da incidência da Súmula n. 182/STJ (e-STJ fls. 350/351).
+Em seu agravo regimental (e-STJ fls. 356/394), a parte recorrente alega que impugnou de maneira específica a não incidência da Súmula n. 7/STJ.
+Manifestação do Ministério Público Federal, às e-STJ fls. 407/410, pelo não conhecimento do agravo regimental.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 226):
+Apelação. Artigo 180, caput, do Código Penal. Absolvição por insuficiência de provas ou reconhecimento da atipicidade da conduta. Não cabimento. Conjunto probatório robusto, suficiente para sustentar o decreto condenatório nos moldes em que proferido. Conduta típica. Pedido subsidiário requerendo a desclassificação para o crime de receptação culposa. Impossibilidade. Pena e regime prisional aberto que não comportam alteração. Recurso defensivo não provido.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 291/297).
+Nas razões do recurso especial (e-STJ fls. 239/253), fundado na alínea a do permissivo constitucional, alega a parte recorrente violação do artigo 180, §3º, do CP e do artigo 386, incisos II e VII, do CPP. Sustenta a insuficiência probatória para a condenação. Aduz que não há provas de que o acusado adquiriu o celular ciente de ser produto de crime (e-STJ fls. 248).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O entendimento consolidado é que, no crime de receptação, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, conforme o art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova (AgRg no HC n. 984.097/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/5/2025, DJEN de 12/5/2025). Precedentes: AgRg no REsp n. 2.187.549/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025; AgRg no AREsp n. 2.795.204/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; AgRg no AREsp n. 2.551.668/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/3/2025, DJEN de 25/3/2025; REsp n. 2.038.876/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 23/12/2024.
+No presente caso, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime de receptação (e-STJ fls. 227/232).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, bem como do do dolo da conduta, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 350/351 e, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
