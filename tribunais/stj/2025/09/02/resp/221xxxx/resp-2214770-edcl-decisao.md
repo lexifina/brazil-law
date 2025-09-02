@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 374):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
+A embargante sustenta que a decisão embargada padece de omissão, sustentando: i) o acórdão de origem possui também fundamentação infraconstitucional; e, ii) houve impugnação específica a tal fundamentação no recurso especial, o que não foi apreciado pela decisão embargada.
+Destaca, ainda, o reconhecimento do caráter repetitivo da discussão dos autos e sua afetação ao Tema 1.364.
+Requer, além do saneamento dos vícios apontados, a suspensão do presente feito até que seja realizado o julgamento do Tema Repetitivo n. 1.364, que trata da mesma matéria aqui discutida.
+Sem impugnação.
+É o relatório.
+Consigna-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se a necessidade de sobrestamento, razão pela qual reconsidera-se a decisão de fls. 374-380.
+Com efeito, a questão discutida nos autos - Possibilidade de apuração de créditos de PIS /COFINS em regime não cumulativo sobre o valor do ICMS incidente sobre a operação de aquisição, à luz do disposto no art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/2023 - foi afetada para julgamento pelo rito dos recursos repetitivos, nos termos do art. 1037 do CPC/2015, nos autos do REsp 2150894/SC, do REsp 2150097/CE, do REsp 2150848/RS e do REsp 2151146/RS (Tema 1364/STJ), Rel. Min. Paulo Sérgio Domingues, tendo sido determinada a suspensão do processamento de todos os processos judiciais pendentes, individuais ou coletivos, que tramitem no território nacional, em primeiro e segundo graus de jurisdição e neste Superior Tribunal de Justiça, inclusive nos juizados especiais, que versem sobre a questão objeto deste repetitivo, conforme proposta do Sr. Ministro Relator.
+Desse modo, em observância ao princípio da economia processual, é possível ao relator determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, devendo tal recurso ser apreciado na forma prevista nos arts. 1040, incs. I e II, e 1041 do CPC /2015.
+Ante o exposto, exercendo o juízo de retratação, tornar sem efeito a decisão de fls. 374-380 (art. 259, §6º, do RISTJ, combinado com o §2º do art. 1021 do CPC/2015) e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECONSIDERAÇÃO. CRÉDITOS DE PIS/COFINS. REGIME NÃO CUMULATIVO. ICMS INCIDENTE SOBRE A OPERAÇÃO DE AQUISIÇÃO. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1364/STJ. DEVOLUÇÃO A ORIGEM.
