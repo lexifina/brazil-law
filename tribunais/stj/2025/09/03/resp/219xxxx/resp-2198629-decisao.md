@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLA CRISTINA NASCIMENTO TITO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (e-STJ fl. 100):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL FORMADO EM MANDADO DE SEGURANÇA COLETIVO. VANTAGENS PECUNIÁRIAS. DEDUÇÃO. POSSIBILIDADE. PROVIMENTO PARCIAL.
+I - Recai o presente agravo sobre liquidação individual do título formado nos autos do Mandado de Segurança Coletivo nº 0016159-73.2005.4.02.5101 (2005.51.01.016159-0), impetrado em 12.08.2005 e no qual foi reconhecido o direito à extensão da Vantagem Pecuniária Especial - VPE aos servidores inativos e pensionistas integrantes da Polícia Militar e do Corpo de Bombeiros Militar do antigo Distrito Federal em razão da vinculação jurídica estabelecida pela Lei nº 10.486-2002, nos termos do acórdão proferido pela Terceira Seção do Egrégio Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência n.º 1.121.981-RJ (DJe 20.06.2013).
+II - O título executivo formado nos autos do mandado de segurança coletivo não vedou qualquer dedução da Vantagem Pecuniária Especial - VPE com outras vantagens e gratificações, uma vez que limitou-se a apreciar a possibilidade de extensão da aludida rubrica aos servidores do antigo Distrito Federal em razão da vinculação jurídica estabelecida pela Lei nº 10.486-02, não estando eventual dedução em discussão, o que deve ser apurado individualmente com relação a cada substituído, e mormente se tratando de mandado de segurança, que não comporta dilação probatória.
+III - Inexiste violação à coisa julgada em examinar a possibilidade de dedução de outras vantagens recebidas pelo servidor no caso concreto, nos autos das execuções individuais, podendo ser alegada como matéria de defesa pela executada, como no caso em apreço.
+IV - É cabível a dedução da Vantagem Pecuniária Especial - VPE com outras vantagens recebidas em caráter privativo pelos militares do antigo Distrito Federal, pois o título determina o pagamento da vantagem pecuniária especial a fim de garantir a paridade de remuneração entre os militares do antigo e atual Distrito Federal.
+V - É certo que o mandado de segurança não pode ser substitutivo de ação de cobrança. Entretanto, não há óbice à restituição de valores vencidos a partir da impetração do "writ".
+VI - Recurso provido parcialmente.
+Rejeitados os aclaratórios (e-STJ fls. 155/164).
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV e VI, 502, 503, caput, 505, caput, 507, 508, 535, VI, e 1022, I e II, do CPC.
+Sustenta negativa de prestação jurisdicional, uma vez que não analisadas as seguintes omissões (e-STJ fl. 198):
+ ..  da interpretação da coisa julgada nos limites das questões debatidas e decididas (i); da aplicação ao caso dos autos de dispositivo específico para o cumprimento de sentença contra a Fazenda Pública (art. 535, inciso VI, do CPC), que prevalece sobre os demais e apenas autoriza a arguição da compensação, se a causa for posterior ao trânsito em julgado (ii); da compatibilidade das vantagens de natureza distintas (iii); da adequação do caso concreto ao Tema 476/STJ (iv), como já afirmado em recentes precedentes desse STJ, todos em sentido oposto ao do acórdão recorrido (v); e da existência de precedentes desse STJ em sentido oposto ao do acórdão recorrido (vi).
+Reitera, na sequência, a tese de preclusão da arguição de compensação nos moldes do Tema 476 do STJ.
+As contrarrazões não foram apresentadas.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 306.
+Passo a decidir.
+A irresignação recursal comporta acolhida no tocante às alegações de negativa de prestação jurisdicional.
+O art. 1.022 do CPC/2015 prevê que os embargos de declaração são cabíveis quando houver, na decisão judicial, omissão, contrariedade, obscuridade ou erro material:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão, contradição, obscuridade ou o erro material tem que ser patente e seu exame imprescindível para o enfrentamento da questão jurídica.
+No presente caso, assiste razão à parte ora recorrente, tendo em vista que o Tribunal de origem não se manifestou acerca de tema questionado no recurso integrativo, qual seja: preclusão da arguição de compensação nos moldes do Tema 476 do STJ.
+Assim, estando configurada a violação do art. 1.022 do CPC/2015, faz-se necessária a declaração de nulidade do aresto em que apreciados os embargos de declaração, para que o vício seja sanado pelo Tribunal de origem. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. INDUSTRIALIZAÇÃO POR ENCOMENDA. SERVIÇO DE ACABAMENTO DE CALÇADOS. MATÉRIA-PRIMA DE TERCEIRO. REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. LEGITIMIDADE AD CAUSAM. MATÉRIA RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO. RETORNO À ORIGEM.
+1. A controvérsia de fundo versa sobre pedido de repetição de indébito de ICMS cobrado sobre atividade de acabamento industrial de calçados por encomenda mediante fornecimento de matéria-prima pelo tomador do serviço.
+2. O recorrente alega que o acórdão recorrido violou o art. 1.022, II, do CPC/2015, por ter-se omitido sobre a legitimidade ativa da parte autora com base no art. 166 do CTN.
+3. De fato, houve omissão no aresto impugnado sobre a aplicação do art. 166 do CTN à espécie.
+4. O referido dispositivo repercute sobre a legitimidade ad causam para repetição de indébito de ICMS, razão pela qual constitui matéria relevante que não poderia deixar de ser enfrentada na instância de origem.
+5. Decerto a apelação interposta pelo recorrente não devolveu explicitamente esse tema ao Tribunal. Nada obstante, cuida-se de matéria de ordem pública, suscitada nos Embargos de Declaração e passível de conhecimento de ofício pelo órgão julgador, o que afasta falar em preclusão.
+6. Demais, a hipótese dos autos versa sobre repetição de ICMS, que é espécie de tributo indireto, porque recolhido sobre as receitas oriundas de cada encomenda, comportando repasse previsto em lei para o adquirente do serviço.
+Nesse caso, "como imposto indireto, tem aplicações, em princípio, o teor do art. 166 do CTN e o verbete 71 do STF, atualmente 546." (REsp 426.179/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 11/5/2004, DJ 20/9/2004). No mesmo sentido: AgRg no REsp 436.894/PR, Rel. Ministro José Delgado, Primeira Turma, julgado em 3/12/2002, DJ 17/2/2003; AgRg no Ag 449.146/SP, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 17/10/2002, DJ 4/11/2002.
+7. O acórdão atacado apenas aferiu a legitimidade ativa da autora com base na comprovação do recolhimento do tributo (fl. 295, e-STJ), deixando de perscrutar ou exigir a demonstração de assunção definitiva do ônus tributário sem acrescê-lo ao preço cobrado do destinatário da mercadoria industrializada.
+Não há como se confirmar a repetição de indébito sem a prévia superação, na origem, da condição exigida pelo art. 166 do CTN.
+8. Justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios.
+9. Recurso Especial provido. (REsp 1.693.918/RS, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 16/10/2017).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OCORRÊNCIA.
+1. Esta Corte Superior tem atribuído efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão. Nesse sentido: AgRg no AREsp 622.677/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1/4/2016; EDcl no AgRg no RESP 1.393.423/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 18/5/2016.
+2. No caso dos autos, constata-se que as instâncias ordinárias quedaram-se silentes acerca da questão oportunamente suscitada acerca da ilegalidade da instituição da substituição tributária por Decreto, o que torna impositivo o reconhecimento da ocorrência da omissão apontada nas razões do recurso especial.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão embargado e a decisão desta Corte que o precedeu e dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aclaratórios. (EDcl EDcl AgRg REsp 1.408.452/PE, Rel. Min. BENEDITO GONÇALVES, Primeiro Turma, DJe 20/06/2017).
+Fica prejudicada a análise da irresignação remanescente.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios e determinar o retorno dos autos ao Tribunal a quo a fim de que seja analisada a questão omitida, mencionada a cima.
+Publique-se. Intimem-se.
+EMENTA
