@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WINYCIUS GOMES DO NASCIMENTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO - TJSP, assim ementado (fl. 15):
+REVISÃO CRIMINAL TRÁFICO DE DROGAS - APLICAÇÃO DA MINORANTE PREVISTA NO ARTIGO 33, § 4º, DA LEI DE DROGAS - IMPOSSIBILIDADE - Inviável a concessão do redutor de pena em questão, em desfavor do peticionário porquanto a grande quantidade de droga apreendida, permitem a conclusão de que aquele se dedicava às atividades criminosas, obstando a configuração da figura "privilegiada" do crime de tráfico de drogas.
+ALTERAÇÃO DE REGIME DE CUMPRIMENTO DE PENA - INVIABILIDADE. De rigor a fixação do regime fechado para inicial cumprimento da pena se as circunstâncias do caso concreto, tamanha a quantidade de droga apreendida, qualquer outro regime não se mostraria recomendável
+Revisão conhecida e indeferida.
+O paciente foi condenado, pelo Juízo de primeiro grau, a 2 anos e 6 meses de reclusão, em regime inicial aberto, com aplicação do redutor do tráfico privilegiado, conforme o art. 33, § 4º, da Lei n. 11.343/2006.
+O Tribunal de Justiça, na apelação da acusação, reformou a sentença e afastou o redutor, fixando a pena final em 5 anos de reclusão, no regime inicial fechado, e 500 dias-multa.
+A revisão criminal foi indeferida por maioria, conforme a ementa acima.
+No presente writ, a impetrante sustenta, em suma, que o paciente é primário, possui bons antecedentes e não se dedica a atividades criminosas, sendo infundada a alegação de envolvimento com organização criminosa.
+Argumenta, ainda, que a quantidade de drogas apreendida não é exorbitante e que a decisão do Tribunal local foi baseada em subjetividades, contrariando a jurisprudência do Superior Tribunal de Justiça.
+Requer, liminarmente e no mérito, que seja reconhecida a aplicação da diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, com o consequente restabelecimento da sentença e cumprimento de pena em regime aberto.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal "pelo não conhecimento do habeas corpus substitutivo de recurso próprio" (fl. 264).
+É o relatório. Decido.
+A Constituição da República assegura no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Acerca da pretensão aqui trazida, assim se manifestou o Tribunal local no voto condutor (fls. 31 e 35):
+ ..  Conforme exposto no acordão  da apelação , o fundamento da dedicação a atividades criminosas é idôneo para afastar a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/06, visto que a benesse deve ser concedida ao chamado traficante eventual (ocasional) que praticou a conduta delitiva de forma isolada e não para os que fazem do tráfico um meio de vida, como ocorre nos presentes autos em que foi apreendida elevada quantidade de drogas com o apelante  56 (cinquenta e seis) eppendorfs contendo cocaína, com peso bruto aproximado de 85g (oitenta e cinco); 94 (noventa e quatro) porções de maconha, com peso bruto de 243g (duzentas e quarenta e três gramas); 10 (dez) pedras de crack, com peso bruto aproximado de 13g (treze gramas); e 15 porções de skunk, com peso bruto aproximado de 15g (quinze gramas)  evidenciando seu envolvimento com atividades criminosas.
+Neste caso, apesar da primariedade, impossível o reconhecimento do tráfico ocasional, previsto pelo § 4º do artigo 33 da Lei nº 11.343/06, ante a ausência de um de seus requisitos, qual seja o de não integrar organização criminosa.
+ ..
+Não é crível quem um traficante eventual, esporádico, esteja trazendo vultosa quantidade e natureza diversa de entorpecente, o que revela habitualidade criminosa, no comércio clandestino, eis que fazia da prática delitiva o seu meio de vida, a comprovar que ele não estava, por mero acaso, a praticar o crime de tráfico de entorpecentes.
+Assim, não deve incidir na espécie a aplicação da causa de diminuição prevista no § 4º, do artigo 33, § 33, da Lei de Drogas. ..
+Como visto, ressaltou-se não ser "crível quem  sic  um traficante eventual, esporádico, esteja trazendo vultosa quantidade e natureza diversa de entorpecente, o que revela habitualidade criminosa, no comércio clandestino, eis que fazia da prática delitiva o seu meio de vida, a comprovar que ele não estava, por mero acaso, a praticar o crime de tráfico de entorpecentes".
+Logo, comprovada a dedicação a atividades ilícitas, impossibilita-se a aplicação do benefício em apreço, consoante a jurisprudência desta egrégia Corte.
+"A decisão agravada está em consonância com a jurisprudência do Superior Tribunal de Justiça, uma vez que, presentes elementos que indiquem dedicação do agente a atividades criminosas, é inviável o reconhecimento da modalidade "privilegiada" do tráfico de drogas. Rever tais fundamentos, como requer a parte recorrente, importaria no revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ." (AgRg no AREsp n. 2.436.611/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2025, DJEN de 20/8/2025).
+"No caso em exame, o afastamento da causa de diminuição foi devidamente fundamentado na quantidade significativa de drogas apreendidas e nas circunstâncias da apreensão. Alterar o entendimento das instâncias ordinárias demandaria revolvimento fático-probatório, o que é incompatível com a via do habeas corpus." (AgRg no HC n. 1.013.723/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025).
+Diante do exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
