@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado em favor de LEONARDE GONCALVES TEIXEIRA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal: 1500525-21.2024.8.26.0630).
+Consta dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, no regime fechado, e 583 (quinhentos e oitenta e três) dias-multa, pela prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto houve violação ao princípio da proporcionalidade na primeira fase da aplicação da pena.
+Sustenta que "(..) o retorno da pena base ao seu mínimo é ato necessário e imprescindível, já que restou claro ser medida desproporcional de repressão face às evidências presentes nos autos" (fl. 5).
+Requer, ao final, a fixação da pena base no mínimo legal ou, alternativamente, o reconhecimento do tráfico privilegiado, a substituição da pena privativa de liberdade por restritiva de direitos, ou o estabelecimento de regime semiaberto, com a expedição de alvará de soltura em favor do paciente.
+A liminar foi indeferida (fls. 61/62).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 110/116).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, cumpre analisar as razões da impetração, para verificar a ocorrência de eventual ilegalidade manifesta a justificar a concessão do habeas corpus, de ofício.
+Passarei, assim, ao exame das razões deste writ.
+Busca-se na presente impetração: a fixação da pena-base no mínimo legal, a aplicação da minorante prevista no art. 33, § 4º, da Lei de drogas e a fixação do regime prisional menos gravoso.
+Com efeito, a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No tocante à pena-base, não há o que sindicar, pois fixada no mínimo cominado para o tipo penal em que restou condenado o paciente.
+De mais a mais, verifico ser inaplicável a minorante do tráfico, uma vez que o paciente possui maus antecedentes e é reincidente, elementos aptos a justificar o afastamento do benefício previsto no art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostra sua dedicação às atividades criminosas.
+Nesse sentido:
+" ..  6. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+7. Sendo a paciente portadora de maus antecedentes, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais, sendo certo que a utilização de tal vetor concomitantemente na primeira e terceira fase da dosimetria não enseja bis in idem. Precedentes" (AgRg no HC n. 835.740/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 5/10/2023 - Grifamos).
+Em reforço: AgRg no HC n. 753.181/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022 e AgRg no HC n. 733.090/SP, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 23/9/2022.
+Por fim, em razão da quantidade total da pena aplicada, caberia o abrandamento do regime inicial para o semiaberto. No entanto, diante da presença de reincidência múltipla, mesmo que a pena-base tenha sido reduzida no recurso de apelação para o patamar mínimo, não há ilegalidade na manutenção do regime fechado.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR EM CONCURSO FORMAL. DOSIMETRIA. PLEITOS DE REDUÇÃO DA PENA-BASE E DE ABRANDAMENTO DO REGIME PRISIONAL. IMPROCEDÊNCIA. MULTIRREINCIDÊNCIA DO RECORRENTE DEVIDAMENTE VALORADA.
+1. A Corte gaúcha dispôs que, efetivamente, da análise da certidão das fls. 73/76v, verifica-se que MARCOS PAULO já conta com quatro condenações definitivas, por crimes de tráfico ilícito de drogas, porte de drogas para consumo próprio e desacato e resistência, todas transitadas em julgado em momento anterior ao presente fato e sem que tivesse transcorrido o prazo depurador da recidiva, nada impedindo que parte delas seja aqui utilizada, então, como maus antecedentes, para recrudescer a basilar, e outra, na próxima fase, para fins de reincidência, conforme comando sentencial.  ..  Na segunda fase, corretamente reconhecida a agravante da reincidência, como acima já exposto, cada uma das penas foi acrescida de um mês, tornando-se provisória em 07 (sete) meses e 15 (quinze) dias de detenção.  ..  Quanto ao regime inicial de cumprimento da pena privativa de liberdade, deve ser mantido o semiaberto, imediatamente mais gravoso ao correspondente à pena aplicada, diante da recidiva reconhecida, conforme art. 33, § 2º, "c", do CP.
+2. Os fundamentos apresentados pelas instâncias ordinárias são robustos o suficiente para a preservação da exasperação da pena-base, porquanto constatada a sua multirreincidência, o que, por si só, justifica o agravamento da pena-base, bem como o regime inicial fixado .
+3.  ..  a existência de circunstâncias judiciais desfavoráveis, especialmente os maus antecedentes da apenada, utilizados para majorar a pena-base acima do mínimo legal (art. 59 do CP), bem como o fato da paciente ser reincidente, justifica a imposição de regime prisional intermediário  ..  (HC n. 422.916/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/4/2018).
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.826.197/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/5/2020, DJe de 19/5/2020.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada em sede de habeas corpus.
+Ante o exposto, denego o habeas corpus.
+Publique-se e Intime-se.
+EMENTA
