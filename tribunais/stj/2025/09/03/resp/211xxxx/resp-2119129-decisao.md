@@ -1,0 +1,32 @@
+DECISÃO
+Marfrig Global Foods S.A. interpôs recurso especial contra acórdão do Tribunal de Justiça do Mato Grosso que tem a seguinte ementa:
+APELAÇÕES  AÇÃO DE IMPROBIDADE ADMINISTRATIVA  CELEBRAÇÃO DE TERMO DE COMPROMISSO DE AJUSTAMENTO DE CONDUTA  HOMOLOGAÇÃO REJEITADA PELA CÂMARA. PRÁTICA DA SOCIEDADE EMPRESÁRIA EM CONLUIO COM AGENTES POLÍTICOS E PÚBLICOS, DE COOPTAR SERVIDORES PÚBLICOS, EM SENTIDO LATO, COM MANIFESTA FINALIDADE DE NÃO SE SUBMETER À EFETIVA FISCALIZAÇÃO DA ADMINISTRAÇÃO  ILEGALIDADE  CONDUTAS ÍMPROBAS  ARTIGO 11, CABEÇA, DA LEI Nº 8.429, DE 2 DE JUNHO DE 1992  CONSTATAÇÃO. EXASPERAÇÃO DAS SANÇÕES APLICADAS AOS COAPELADOS SATURNINO MASSON E MARFRIG ALIMENTOS S. A.  NECESSIDADE. DANO MORAL COLETIVO  ATO ILÍCITO PRATICADO PELA SOCIEDADE EMPRESÁRIA  DANO IMATERIAL À COLETIVIDADE  CONFIGURAÇÃO  FIXAÇÃO DO VALOR NO MONTANTE DE SETE MILHÕES DE REAIS  PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE  OBSERVAÇÃO. (e-STJ fls. 3649-3650)
+No recurso, a empresa alegar divergência jurisprudencial e violação dos arts. 355, I, 373, 942 e 1.022, II, do Código de Processo Civil e dos arts. 12, III, e 17, § 1º, da Lei n. 8.429/1992.
+Alega, em resumo: a técnica de julgamento ampliado foi mal aplicada; faria jus à homologação da transação firmada com o Ministério Público; houve cerceamento de sua defesa e as sanções aplicadas, em relação à violação ao art. 11 da Lei de Improbidade, não podem subsistir.
+Apresentadas contrarrazões (e-STJ fls. 4.258/4.275), o recurso especial foi admitido (e-STJ fls. 4.390/4.401).
+O MPF opina pelo provimento do recurso.
+É o relatório.
+O recurso deve ser provido.
+A condenação do demandante foi no art. 11, caput, da Lei de Improbidade em sua redação original, sendo que, nessas hipóteses, o STJ vem entendendo que:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. SUPERVENIÊNCIA DA LEI N. 14.230/2021. ABOLIÇÃO DE ATO ÍMPROBO. CONTINUIDADE TÍPICO-NORMATIVA. INEXISTÊNCIA. OMISSÃO RECONHECIDA. EFEITOS INFRINGENTES.
+1. A questão jurídica referente à aplicação da Lei n. 14.230/2021 - em especial, no tocante à necessidade da presença do elemento subjetivo dolo para a configuração do ato de improbidade administrativa e da aplicação dos novos prazos de prescrição geral e intercorrente - teve a repercussão geral julgada pelo Supremo Tribunal Federal (Tema 1.199 do STF).
+2. A despeito de ser reconhecida a irretroatividade da norma mais benéfica advinda da Lei n. 14.230/2021, que revogou a modalidade culposa do ato de improbidade administrativa, o STF autorizou a aplicação da lei nova, quanto a esse aspecto, aos processos ainda não cobertos pelo manto da coisa julgada.
+3. A Primeira Turma desta Corte Superior, no julgamento do AREsp 2.031.414/MG, em 09/05/2023, firmou a orientação de conferir interpretação restritiva às hipóteses de aplicação retroativa da LIA (com a redação da Lei n. 14.230/2021), adstrita aos atos ímprobos culposos não transitados em julgado, de acordo com a tese 3 do Tema 1.199 do STF.
+4. A Suprema Corte, em momento posterior, pelas suas duas Turmas e pelo Plenário, ampliou a aplicação da referida tese, compreendendo que também as alterações promovidas pela Lei n. 14.231/2021 ao art. 11 da Lei n. 8.249/1992 aplicar-se-iam aos atos de improbidade administrativa praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado.
+5. "Diante do novo cenário, a condenação com base em genérica violação de princípios administrativos, sem a tipificação das figuras previstas nos incisos do art. 11 da Lei n. 8.429/1992, ou, ainda, quando condenada a parte ré com base nos revogados incisos I e II do mesmo artigo, sem que os fatos tipifiquem uma das novas hipóteses previstas na atual redação do art. 11 da Lei de Improbidade Administrativa, remete à abolição da tipicidade da conduta e, assim, à improcedência dos pedidos formulados na inicial.
+" (EDcl nos EDcl no AgInt no AREsp 1.174.735/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/3/2024, DJe de 8/3/2024.).
+6. Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl nos EDcl nos EDcl nos EDcl no AgInt nos EREsp n. 1.841.968/MT, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 28/8/2024, DJe de 17/9/2024.)
+(Grifos acrescidos)
+No caso, não é possível manter a tipificação em nenhum inciso da nova redação do art. 11, da Lei de Improbidade, a resultar na improcedência do pedido na forma do art. 17, §11, daquela lei.
+Ainda nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE. CONDENAÇÃO COM FUNDAMENTO NO ART. 11, INCISO I, DA LEI N. 8.429/92. POLICIAL RODOVIÁRIO FEDERAL QUE LIBEROU INDEVIDAMENTE VEÍCULOS APREENDIDOS E SE VALEU DO PRESTÍGIO DO CARGO PARA UTILIZAR, DE FORMA GRATUITA E PARA FINS PARTICULARES, ÔNIBUS PERTENCENES A EMPRESAS TRNASPORTADORAS. ALTERAÇÕES PROMOVIDAS PELA LEI N. 14.230/21 NA LIA. APLICAÇÃO IMEDIATA AOS CASOS SEM CONDENAÇÃO TRANSITADA EM JULGADO. PRINCÍPIO DA CONTINUIDADE NORMATIVO-TÍPICA. INAPLICABILIDADE À ESPÉCIE.
+1. O Supremo Tribunal Federal firmou orientação segundo a qual as "alterações promovidas pela Lei 14.231/2021 ao art. 11 da Lei 8.249/1992 aplicam-se aos atos de improbidade administrativa praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado"(ARE 803.568 AgR-segundo-EDv-ED, Relator Ministro Luiz Fux, Relator para o acórdão Ministro Gilmar Mendes, Tribunal Pleno, julgado em 22/8/2023, DJe de 6/9/2023).
+2. A mesma linha de percepção foi adotada pela Primeira Turma do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp 2.380.545/SP, Relator Ministro Gurgel de Faria (sessão de 6/2/2024).
+3. Nada obstante a sua elevada reprovabilidade, não há correspondência entre a conduta imputada ao réu e as hipóteses elencadas no rol taxativo do art. 11 da LIA, com a nova redação dada pela Lei n. 14.230/2021, razão pela qual não se revela possível a aplicação do princípio da continuidade típico-normativa ao caso em testilha.
+4. Embargos de declaração acolhidos, para, de ofício, anular as decisões até então proferidas por esta Corte Superior e assentar a improcedência dos pedidos veiculados na exordial da subjacente ação civil pública.
+(EDcl no AgInt no AREsp n. 2.159.861/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024.) (grifos acrescidos)
+Diante do exposto, DOU PROVIMENTO ao recurso especial para julgar improcedente o pedido inicial.
+Sem honorários, por ausência de má-fé da parte autora.
+Publique-se. Intimem-se.
+EMENTA
