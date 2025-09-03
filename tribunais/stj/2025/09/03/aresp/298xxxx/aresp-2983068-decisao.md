@@ -1,0 +1,84 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por PASQUAL ARMAZÉNS GERAIS LTDA e OUTROS , em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1125, e-STJ):
+AÇÃO DE DEPÓSITO. DEPÓSITO EM ARMAZÉNS GERAIS. PRESCRIÇÃO ESPECÍFICA. DECRETO 1.102/1903. NORMA EM VIGOR. PRECEDENTES DO STJ. PRAZO TRIMESTRAL. APLICAÇÃO NA FASE DE EXECUÇÃO. SÚMULA 150 DO STF. Observado o prazo trimestral de prescrição da ação de depósito regulada pelo Decreto 1.102/1903, a paralisação do procedimento de cumprimento de sentença por desídia da parte exequente por período superior a tal prazo prescricional autoriza a declaração da prescrição intercorrente.
+Os embargos declaratórios opostos foram rejeitados (fls. 980-984, e-STJ).
+Nas razões do recurso especial (fls. 1057-1075, e-STJ), a parte insurgente apontou além de dissídio jurisprudencial violação aos seguintes artigos: a) 1.022 do CPC, por omissão na apreciação de temas postos a julgamento; b) 921, §5º e 924, inciso V, do CPC, ao argumento de que a extinção do feito deveria ter sido fundamentada na desídia do credor, e não na ausência de bens penhoráveis, para fins de condenação da parte recorrida ao pagamentos dos ônus sucumbenciais.
+Não houve contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 1125-1127, e-STJ), dando ensejo na interposição do presente agravo (fls. 1134-1141, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A parte insurgente alega violação aos artigos 1.022 do CPC, por omissão na apreciação de temas postos a julgamento. Sustenta, em síntese, que o Tribunal de origem não analisou adequadamente os temas suscitados nos embargos de declaração.
+Sustenta, em síntese, que "a Recorrente valeu-se em embargos de declaração para o fim de afastar o equivocado fundamento legal apontado no acórdão (artigo 921, §5º, CPC) para que outro fosse aplicado (artigo 924, inciso V, CPC), uma vez que a prescrição intercorrente deu-se, não pela ausência de bens penhoráveis do devedor e, sim, e exclusivamente, pela desídia da parte credora em adotar providências que foram determinadas pelo juízo local. Além disso, o Tribunal local deixou de analisar a aplicação do princípio da causalidade, o que imputaria à parte desidiosa (Recorrido) o ônus sucumbencial, inclusive quanto à fixação de honorários em favor da Recorrente e seu patrono" (fl. 1065, e-STJ).
+Acerca da controvérsia, o Tribunal local, em sede de aresto complementar, assim decidiu (fls. 981-982, e-STJ):
+A embargante diz que o acórdão incorre em vício de contradição, por ter reconhecido a prescrição intercorrente em face da desídia da parte autora, mas aplicou a disposição do artigo 921, §5º, do CPC, para desobriga-la de ônus sucumbenciais, dispositivo somente aplicável aos casos de prescrição intercorrente por ausência de bens penhoráveis.
+ ..
+A contradição é o vício que se verifica quando há incompatibilidade entre os fundamentos utilizados, ou entre eles e a decisão, conforme ensina Ernane Fidélis dos Santos no Manual de direito processual civil, 11. ed., São Paulo: Saraiva, 2006, vol. I, p. 675:
+ ..
+Não obstante, o embargante fala em contradição entre a tese acolhida no acórdão e aquela que ela está sustentando!
+Ora, a decisão adotada segue os fundamentos indicados, não havendo entre eles quaisquer disparidades. O entendimento da Turma Julgadora foi pelo cabimento da aplicação do artigo 921, §5º, do CPC, que está de acordo com precedentes deste Tribunal de Justiça:  ..
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação ao artigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, a parte insurgente alega vulneração ao artigo 921, §5º e 924, inciso V, do CPC , por aplicação incorreta ao caso concreto. Sustenta que a extinção do feito deveria ter sido fundamentada na desídia do credor, e não na ausência de bens penhoráveis, para fins de condenação da parte recorrida ao pagamentos dos ônus sucumbenciais.
+A jurisprudência desta Corte pacificou-se no sentido da aplicação do princípio da causalidade na hipótese de extinção do processo em razão do reconhecimento da prescrição intercorrente (art. 85, § 10, do CPC/15).
+Todavia, após a alteração promovida pela Lei nº 14.195/2021, publicada em 26/8/2021, que alterou o § 5º do art. 921 do CPC/15, não serão imputados quaisquer ônus às partes quando reconhecida a referida prescrição.
+Neste sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS SUCUMBENCIAIS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao recurso especial, mantendo a decisão que afastou a condenação ao pagamento de honorários sucumbenciais em caso de prescrição intercorrente.
+2. A parte agravante alega afronta aos arts. 85 e 921 do CPC/2015, sustentando que a prescrição intercorrente ocorreu por desídia da parte agravada e que a aplicação do art. 921, § 5º, do CPC/2015 se restringe a hipóteses de reconhecimento de ofício pelo magistrado.
+II. Questão em discussão
+3. A questão consiste em saber se, no caso de prescrição intercorrente, é cabível a condenação do exequente ao pagamento de honorários sucumbenciais, considerando o princípio da causalidade.
+III. Razões de decidir
+4. O entendimento jurisprudencial é de que, em caso de prescrição intercorrente, não se justifica a imposição de sucumbência ao exequente, pois a causalidade está relacionada a quem motivou o ajuizamento da execução, ou seja, o devedor inadimplente.
+5. Mesmo em casos de resistência do exequente ao reconhecimento da prescrição ou de desídia da parte credora durante o prazo prescricional, não se atribuem ao credor os ônus sucumbenciais, evitando-se beneficiar duplamente o devedor.
+6. A alteração legislativa promovida pela Lei n. 14.195/2021 reforça a não imputação de ônus às partes quando reconhecida a prescrição intercorrente.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. Em caso de prescrição intercorrente, não cabe a condenação do exequente ao pagamento de honorários sucumbenciais, em razão do princípio da causalidade. 2. A resistência do exequente ao reconhecimento da prescrição e sua inércia durante o prazo prescricional não alteram a aplicação do princípio da causalidade."
+Dispositivos relevantes citados: CPC/2015, arts. 85, § 2º, e 921, § 5º.Jurisprudência relevante citada: STJ, EAREsp n. 1.854.589/PR, relator Ministro Raul Araújo, Corte Especial, julgado em 9/11/2023;
+STJ, AgInt no AREsp n. 2.378.001/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2023; STJ, AgInt no REsp n. 2.100.639/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024.
+(AgInt nos EDcl no AgInt no REsp n. 2.072.952/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. HONORÁRIOS SUCUMBENCIAIS. PRESCRIÇÃO INTERCORRENTE. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a recurso especial, mantendo a condenação da parte executada ao pagamento de honorários sucumbenciais, mesmo após o reconhecimento da prescrição intercorrente em ação monitória.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se, em caso de prescrição intercorrente, é cabível a condenação do exequente ao pagamento de honorários sucumbenciais, considerando o princípio da causalidade.
+3. A parte agravante sustenta que a prescrição reconhecida foi de natureza material e que o princípio da sucumbência deve prevalecer, já que sua tese foi acolhida.
+III. Razões de decidir
+4. O Tribunal de origem concluiu que a fixação de honorários sucumbenciais em favor do devedor não é cabível, pois a ação teve causa na inadimplência do devedor, aplicando-se o princípio da causalidade.
+5. A jurisprudência do STJ é consolidada no sentido de que, em observância ao princípio da causalidade, não se justifica a imposição de sucumbência ao exequente em razão de prescrição intercorrente, pois quem deu causa ao ajuizamento da demanda foi o devedor inadimplente.
+6. A decisão agravada está em consonância com a Súmula 83 do STJ, que impede o conhecimento de recurso especial quando o acórdão recorrido está alinhado com a jurisprudência do Tribunal.
+IV. Dispositivo 7. Agravo interno não provido.
+(AgInt no AREsp n. 2.612.832/GO, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+Na hipótese dos autos, verifica-se que a execução foi extinta em razão da prescrição intercorrente. É o que se extrai do seguinte excerto do aresto recorrido (fls. 950, e-STJ):
+Porém, está certificado (evento 38) que o exequente/apelado foi intimado a apresentar cálculos atualizados em 27/07/21 (evento 36), não atendendo à intimação. Da data da intimação até a data de 25 de novembro de 2021 o feito ficou parado, por desídia dele. Apenas nesta data é que os cálculos foram apresentados. A paralisação foi de mais de três meses, pelo que reconheço ter ocorrido a prescrição intercorrente, já que o prazo prescricional aplicável é trimestral, conforme acima anotei.
+Feitas tais considerações, DOU PROVIMENTO AO AGRAVO DE INSTRUMENTO para declarar a prescrição intercorrente, julgando extinto o cumprimento de sentença com julgamento de mérito, sem ônus para as partes, na forma do artigo 921, §5º, do CPC.
+Em sede de embargos declaratórios, o aresto foi assim complementado (fls. 982-983, e-STJ):
+Ora, a decisão adotada segue os fundamentos indicados, não havendo entre eles quaisquer disparidades. O entendimento da Turma Julgadora foi pelo cabimento da aplicação do artigo 921, §5º, do CPC, que está de acordo com precedentes deste Tribunal de Justiça:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE MÚTUO E NOTA PROMISSÓRIA - PRESCRIÇÃO INTERCORRENTE - INÉRCIA DA PARTE EXEQUENTE VERIFICADA - ÔNUS DE SUCUMBÊNCIA - ARTIGO 921, §5º, CPC. I. A Súmula 150 do Supremo Tribunal Federal enuncia que "prescreve a execução no mesmo prazo de prescrição da ação". II. Deve ser mantido o reconhecimento da prescrição intercorrente quando verificada a inércia do credor em perseguir o crédito por prazo superior ao de prescrição do direito material vindicado. III. Conforme o artigo 921, §5º do CPC, as partes não serão condenadas ao pagamento de custas e honorários de advogado quando o magistrado julgar extinta a execução em razão da prescrição intercorrente. (TJMG - Apelação Cível 1.0024.03.938342-7/001, Relator(a): Des.(a) Nicolau Lupianhes Neto , 15ª CÂMARA CÍVEL, julgamento em 05/09/2024, publicação da súmula em 11/09/2024)
+EMENTA: EMBARGOS DE DECLARAÇÃO - REQUISITOS - ERRO MATERIAL, OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO - AUSÊNCIA - REDISCUSSÃO DE MÉRITO - IMPOSSIBILIDADE - RECURSO REJEITADO. São requisitos para a oposição de Embargos de Declaração que a decisão contenha erro material, omissão, obscuridade ou contradição. Ausentes tais requisitos, cabível a rejeição dos Embargos, pois estes não se prestam à rediscussão da causa. Conforme entendimento do c. STJ e de acordo com a nova redação do artigo 921, § 5º, do Código de Processo Civil (CPC), o reconhecimento da prescrição intercorrente e a consequente extinção do processo impedem a imputação de quaisquer ônus às partes, ainda que a matéria não tenha sido suscitada de ofício pelo magistrado. (TJMG - Embargos de Declaração-Cv 1.0000.23.169175-9/003, Relator(a): Des.(a) Wilson Benevides , 7ª CÂMARA CÍVEL, julgamento em 27/08/2024, publicação da súmula em 05/09/2024)
+EMENTA: APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PRINCÍPIO DA DIALETICIDADE - OFENSA PARCIAL - RECURSO NÃO CONHECIDO EM PARTE - PRESCRIÇÃO INTERCORRENTE - RECONHECIMENTO - HONORÁRIOS ADVOCATÍCIOS - INAPLICABILIDADE - INTELIGÊNCIA DO ARTIGO 921, § 5º, DO CPC - EXTINÇÃO DO FEITO SEM ÔNUS PARA AS PARTES. 1. Não se conhece da parte do recurso desassociada da matéria decidida na sentença, haja vista a ofensa ao princípio da dialeticidade. 2. Regra geral, a extinção do feito, com ou sem resolução do mérito, implica fixação de honorários advocatícios com fundamento na sucumbência ou na causalidade. 3. Após a vigência da Lei 14.195/2021, que modificou a redação do § 5º do artigo 921 do Código de Processo Civil, reconhecida a prescrição intercorrente, o feito executivo será extinto sem ônus para qualquer das partes. (TJMG - Apelação Cível 1.0000.24.176719- 3/001, Relator(a): Des.(a) Maria Cristina Cunha Carvalhais , 2ª CÂMARA CÍVEL, julgamento em 30/07/2024, publicação da súmula em 02/08/2024)
+Com efeito, é remansosa a jurisprudência desta Corte Superior no sentido de que a regra aplicável para a fixação de honorários sucumbenciais é a da data da sentença.
+Sendo assim, o disposto no novo § 5º do art. 921 do CPC/15, que afastou a condenação em honorários para as hipóteses de prescrição intercorrente, aplica-se apenas para decisões prolatadas após 26/08/2021, data de vigência da Lei 14.195/2021, que promoveu a referida alteração.
+No caso dos autos, o acórdão que reconheceu a prescrição intercorrente é posterior à vigência da lei 14.195/2021, de forma que o dispositivo deve ser aplicado, na hipótese.
+Desse modo, o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
