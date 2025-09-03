@@ -1,0 +1,95 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mas concedeu ordem de habeas corpus, de ofício, para afastar bis in idem e fixar a pena-base no mínimo legal e o regime inicial semiaberto.
+II. Questão em discussão
+2. A discussão consiste em saber se o recurso especial pode ser conhecido e se, constatado o bis in idem, seria obrigatória a valoração da quantidade e natureza da droga apreendida na primeira fase da dosimetria da pena.
+III. Razões de decidir
+3. Ausente prequestionamento, o recurso especial não comporta conhecimento (Súmulas n. 282 e 356/STF e n. 211/STJ).
+4. Cabe ao julgador, conforme discricionariedade motivada, de acordo com as peculiaridades do caso concreto, decidir em quais das fases a quantidade de droga apreendida será considerada para dosagem da pena.
+5. No caso, tendo em vista a elevada quantidade de droga apreendida (84,150 kg de maconha), entende-se adequado e proporcional afastar a valoração negativa na primeira fase da dosimetria, mantendo-se a modulação da causa de diminuição pela quantidade da droga apreendida.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: 1. A ausência de prequestionamento impede o conhecimento do recurso especial. 2. Cabe ao julgador, conforme discricionariedade motivada, de acordo com as peculiaridades do caso concreto, decidir em quais das fases a quantidade e natureza da droga apreendida será considerada para dosagem da pena.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º, e 42.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 849.305/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/09/2023; STJ, AgRg no HC 869.369/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 04/03/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JULIAN MATEUS DA LUZ contra a decisão (fls. 686/691) que não conheceu do recurso especial, mas concedeu ordem de habeas corpus, de ofício, para fixar a pena-base no mínimo legal e o regime inicial semiaberto.
+Em síntese, o agravante sustenta possibilidade de conhecimento do recurso especial e que, diante do bis in idem, deveria ser mantida a exasperação da pena-base a fim de permitir a compensação com a atenuante da confissão na segunda fase da dosimetria da pena, fixando-se, porém, a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 em 2/3 (dois terços).
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mas concedeu ordem de habeas corpus, de ofício, para afastar bis in idem e fixar a pena-base no mínimo legal e o regime inicial semiaberto.
+II. Questão em discussão
+2. A discussão consiste em saber se o recurso especial pode ser conhecido e se, constatado o bis in idem, seria obrigatória a valoração da quantidade e natureza da droga apreendida na primeira fase da dosimetria da pena.
+III. Razões de decidir
+3. Ausente prequestionamento, o recurso especial não comporta conhecimento (Súmulas n. 282 e 356/STF e n. 211/STJ).
+4. Cabe ao julgador, conforme discricionariedade motivada, de acordo com as peculiaridades do caso concreto, decidir em quais das fases a quantidade de droga apreendida será considerada para dosagem da pena.
+5. No caso, tendo em vista a elevada quantidade de droga apreendida (84,150 kg de maconha), entende-se adequado e proporcional afastar a valoração negativa na primeira fase da dosimetria, mantendo-se a modulação da causa de diminuição pela quantidade da droga apreendida.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: 1. A ausência de prequestionamento impede o conhecimento do recurso especial. 2. Cabe ao julgador, conforme discricionariedade motivada, de acordo com as peculiaridades do caso concreto, decidir em quais das fases a quantidade e natureza da droga apreendida será considerada para dosagem da pena.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º, e 42.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 849.305/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/09/2023; STJ, AgRg no HC 869.369/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 04/03/2024.
+VOTO
+Analisando os requisitos de admissibilidade do agravo regimental, verifico que a irresignação não prospera.
+A decisão agravada foi proferida nos seguintes termos:
+ ..
+Trata-se de recurso especial interposto por JULIAN MATEUS DA LUZ contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ na Apelação Criminal n. 000864-73.2020.8.16.017, assim ementado:
+EMENTA. TRÁFICO INTERESTADUAL DE ENTORPECENTES (ART. 33, CAPUT, C/C ART. 40, V, AMBOS DA LEI Nº 11.343/06). RECURSO DEFENSIVO PUGNANDO PELA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI Nº 11.343/06. SUBSIDIARIAMENTE, ALTERAÇÃO DO REGIME PARA CUMPRIMENTO INICIAL DA PENA. PARCIAL PROCEDÊNCIA. POSSIBILIDADE DE REDUÇÃO DA PENA NA TERCEIRA FASE. PRIMARIEDADE E BONS ANTECEDENTES. AUSÊNCIA DE DEMONSTRAÇÃO CONCRETA DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS E DE INTEGRAÇÃO A ORGANIZAÇÃO CRIMINOSA. CABÍVEL A APLICAÇÃO DA FRAÇÃO DE REDUÇÃO MÍNIMA. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA. TRANSPORTE ENTRE ESTADOS DA FEDERAÇÃO. INVIÁVEL A ALTERAÇÃO PARA REGIME MENOS GRAVE QUE O FECHADO. INTELIGÊNCIA DO ART. 33, §§ 2ª, "B", E 3º, DO CÓDIGO PENAL. SENTENÇA MODIFICADA EM PARTE. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a defesa alega violação aos artigos 33, § 4, e 42 da Lei n. 11.343/2006. Aduz, em síntese, que o Tribunal a quo modulou a minorante do art. 33, § 4º, da Lei n. 11.343/2006 em 1/6 diante da quantidade de droga apreendida. Sustenta a ocorrência de bis in idem, pois a quantidade e variedade da droga foi utilizada para exasperação da pena-base, também, para modulação da minorante. Pleiteia o reconhecimento do bis in idem, com a readequação da pena para fixar o regime inicial aberto.
+Contrarrazões a fls. 654/658 em que o MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ pleiteia a não admissão do recurso especial, por ausência de prequestionamento, e de ofício a readequação da dosimetria para fixar a pena-base no mínimo legal e manter a fração da minorante em 1/6.
+O recurso foi admitido (fls. 662/663).
+O Ministério Público Federal manifestou-se pelo provimento do recurso para fixar a fração de 2/3 da causa de diminuição, porém, com fixação do regime semiaberto (fls. 677/680).
+É o relatório.
+DECIDO.
+Não conheço do recurso especial, tendo em vista a ausência de prequestionamento ( Súmulas n. 282 e 356 do STF e 211 do STJ).
+Por outro lado, verifico a existência de flagrante ilegalidade, apta a ser corrigida por meio da concessão de Habeas Corpus, de ofício.
+Consta do acórdão:
+Logo, em que pese o entendimento do Magistrado a quo, o fato de o apelante transportar a droga entre Estados da Federação, mediante o recebimento de R$ 10.000 (dez mil reais), não implica no afastamento da redutora prevista no § 4º, do art. 33, da Lei nº 11.343/06, especialmente porque o apelante é primário (mov. 169.1), apresentando bons antecedentes, além de não haver indicação concreta de que faça do crime seu modo de vida ou mesmo de atuação em conjunto com organização criminosa.
+ ..
+Por outro lado, apesar de ser cabível a aplicação da referida causa de diminuição, é certo que deve ser fixada a menor fração redutora, no caso, 1/6 (um sexto), considerando as circunstâncias do caso em concreto, em especial a expressiva quantidade de entorpecente apreendido e o transporte interestadual.
+ ..
+Nesta perspectiva, diante da considerável quantidade de droga, in casu 84,150 Kg (oitenta e quatro quilos e cento e cinquenta gramas) (mov. 1.10), além do transporte interestadual, é cabível a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/06, porém à fração mínima de 1/6 (um sexto), por ser mais adequada às circunstâncias fáticas.
+ ..
+Na primeira fase, mantem-se a valoração negativa da quantidade e natureza da droga, permanecendo a pena-base em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase, diante da incidência da atenuante de confissão espontânea, mantem-se a redução em 1/6 (um sexto), resultando na pena intermediária de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na terceira fase, permanece a aplicação da causa de aumento em razão do tráfico interestadual (art. 40, V, da Lei nº 11.343/06), restando o em 05 (cinco) anos e 10 (dez) meses quantum de reclusão, e 583 (quinhentos e oitenta e três) dias-multa. Por outro lado, aplica-se a causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/06, restando a nova pena definitiva em 04 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, e 486 (quatrocentos e oitenta e seis) dias- multa.
+Por fim, nota-se que a detração penal foi observada na sentença (mov. 189.1 - fl. 17), não sendo capaz de influenciar no regime inicial de cumprimento da pena. Neste ponto, frise-se que, embora não se despreze o tempo em que o apelante permaneceu cautelarmente segregado, a existência de uma circunstância judicial desfavorável (natureza e quantidade de droga) impede o acolhimento deste tópico do recurso defensivo, considerando que, nos termos do artigo 33, § 3º, do Código Penal, deve ser observada para a fixação do regime inicial. Mantem-se, portanto, o regime fechado para o início do cumprimento da pena. ..
+Verifica-se que a quantidade da droga foi considerada para exasperar a pena-base e para modular a causa de diminuição na terceira fase.
+Ocorre que
+ A  Terceira Seção, no julgamento do HC n. 725.534/SP, Relator Ministro RIBEIRO DANTAS, realizado em 27/4/2022, DJe de 1º/6/2022, reafirmou seu posicionamento anterior, conforme estabelecido no ARE n. 666.334/AM, do Supremo Tribunal Federal, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido consideradas na primeira fase do cálculo da pena, o que configuraria o indevido bis in idem. (AgRg no AREsp n. 2.850.747/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 21/5/2025 - grifamos)
+Nesse contexto, cumpre afastar o bis in idem constatado. Observa-se que cabe ao julgador, conforme discricionariedade motivada, de acordo com as peculiaridades do caso concreto decidir em quais das fases a quantidade de droga apreendida será considerada para dosagem da pena.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. SENTENÇA QUE CONSIDEROU A QUANTIDADE DE DROGA PARA ELEVAR A PENA BÁSICA E MODULAR A MINORANTE DO § 4º DO ART. 33 DA LEI DA DROGAS. TRIBUNAL AFASTA A QUANTIDADE DE DROGA DA TERCEIRA FASE, DE MODO A CORRIGIR O BIS IN IDEM. ESCOLHA DE QUAL FASE UTILIZAR A CIRCUNSTÂNCIA REFERIDA. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em relação à minorante do tráfico privilegiado de drogas, a Terceira Seção do Superior Tribunal de Justiça firmou, no julgamento do Recurso Especial n. 1.887.511/SP, o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria.
+2. No caso, a instância ordinária observou tais preceitos, pois afastou a quantidade de droga erroneamente utilizada pelo Juízo de piso para modular a benesse referenciada quando já havia sido utilizada na primeira etapa dosimétrica, corrigindo o bis in idem operado em primeira instância.
+3. Ademais, justamente porque a escolha da fase da dosimetria em que a quantidade de droga será considerada está dentro da discricionariedade do julgador, não há obrigação de que a circunstância referida seja aposta, no caso, para modular a minorante prevista no § 4º do art. 33 da Lei de Drogas, como interpreta o órgão ministerial.
+4. Assim, o acórdão recorrido preferiu a utilização da quantidade de entorpecente apreendido na elevação da pena-base, não cabendo a esta Corte interferir em tal arbitrariedade, mormente quando, repito, não se verifica nenhuma violação à lei no procedimento realizado.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.575.816/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024 - grifamos)
+No caso em tela, tendo em vista a elevada quantidade de droga apreendida (84,150 Kg de "maconha") entende-se adequado e proporcional afastar a valoração negativa na primeira fase da dosimetria, mantendo-se a modulação da causa de diminuição pela quantidade da droga apreendida.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. DIMINUIÇÃO PREVISTA NO ART. 33, § 4º DA LEI 11.343/2006. APLICAÇÃO NA FRAÇÃO DE 1/6. POSSIBILIDADE. "MULA". TRANSPORTE DE MAIS DE CINCO QUILOS DE COCAÍNA. PLENO CONHECIMENTO DE ESTAR A SERVIÇO DO GRUPO CRIMINOSO. AGRAVO DESPROVIDO.
+1. Nos termos do que dispõe o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Na espécie, foi reconhecida a prática do tráfico privilegiado, considerando estarem preenchidos os requisitos autorizadores, todavia, a fração de diminuição imposta foi no patamar de 1/6, em razão de a agente, agindo na condição de mula para organização criminosa, transportava 5.730g de cocaína para outro país.
+3. O entendimento exposto encontra amparo na jurisprudência desta Corte Superior, no sentido de que, ainda que não integre a organização criminosa, o agente na condição de "mula" tem perfeita consciência de estar a serviço de grupo voltado para esse fim, razão pela qual é idônea a aplicação da fração de redução em patamar inferior ao máximo.
+4. Agravo regimental desprovido. (AgRg no HC n. 869.369/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024 - grifamos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE APLICOU A REDUTORA DO TRÁFICO PRIVILEGIADO. IRRESIGNAÇÃO MINISTERIAL. CONCLUSÃO DE QUE O ACUSADO SE DEDICAVA A ATIVIDADES CRIMINOSAS BASEADA EXCLUSIVAMENTE NA REALIZAÇÃO DE TRANPORTE INTERESTADUAL DE GRANDE QUANTIDADE DE ENTORPECENTES. FUNDAMENTO INIDÔNEO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO NÃO PROVIDO.
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu a ordem, de ofício, para aplicar o redutor do tráfico privilegiado ao ora agravado, na fração de 1/6.
+2. A revaloração dos critérios jurídicos concernentes à utilização e à formação da convicção do julgador não requer o reexame probatórios. Note-se que a análise dos fatos e fundamentos expressamente mencionados no acórdão recorrido não constitui reexame do contexto fático-probatório, mas valoração jurídica dos fatos já delineados pelas instâncias ordinárias.
+3. Esta Corte vem se manifestando no sentido de que o "mero transporte eventual ou esporádico de droga - ainda que em grandes quantidades -, sem outros elementos que evidenciem o envolvimento do agente com organização criminosa, não é suficiente para afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006" (AgRg no AREsp n. 2.321.950/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+4. No caso dos autos, o Tribunal local utilizou-se do fato de o paciente ter realizado transporte interestadual de elevada quantidade de entorpecente - 6,25 kg (seis quilos e vinte e cinco gramas) de cocaína - para negar a aplicação do benefício ao réu.
+Entretanto, da leitura dos autos, não se verifica a presença de outros elementos que permitam concluir com clareza a dedicação ao tráfico de forma habitual, revelando-se inidônea, em consequência, a motivação utilizada para a negativa do privilégio.
+5. Agravo regimental não provido. (AgRg no HC n. 849.305/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/9/2023, DJe de 26/9/2023. - grifamos)
+Assim, fixada a pena-base no mínimo legal, incidente a Súmula n. 231/STJ na segunda fase, mantém-se a pena fixada no acórdão recorrido, isto é, 4 anos, 10 meses e 10 dias de reclusão e 486 dias-multa. Porém, diante da quantidade da pena aplicada, fixada a pena-base no mínimo legal e ausente reincidência, o regime inicial deve ser o semiaberto.
+Ante o exposto, não conheço do recurso especial, mas diante da flagrante ilegalidade, concedo ordem de habeas corpus de ofício para fixar a pena-base no mínimo legal e o regime inicial semiaberto.  ..  (grifamos).
+O princípio da dialeticidade recursal impõe que a parte recorrente refute todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto, o que não ocorreu no caso.
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão impugnada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
