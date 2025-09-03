@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO para desafiar decisão de minha lavra, proferida às e-STJ fls. 709/715, em que não conheci do recurso especial, com base nos seguintes fundamentos: (I) ausência de ofensa do art. 1.022, II, do CPC/2015, (II) incidência das Súmulas 5 e 7 do STJ e (III) divergência jurisprudencial prejudicada.
+No presente agravo interno, a parte agravante sustenta que "a solução dessa questão depende exclusivamente da interpretação de dispositivos da Lei nº 10.260/2001, especialmente dos artigos 5º, inciso IV, e 6º-B, § 3º (..)" (e-STJ 725).
+Requer, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Sem impugnação.
+Passo a decidir.
+Diante dos argumentos trazidos no agravo interno, exerço juízo de retratação.
+Compulsando os autos, verifico que, no caso concreto, o Tribunal Regional decidiu em desacordo com o entendimento deste Sodalício que, com base no disposto no art. 6º-B, § 3º, da Lei n. 10.260/2001, concluiu pela impossibilidade de extensão da carência para médicos residentes quando o contrato de financiamento estudantil já tenha ingressado na fase de amortização da dívida.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIÇO PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO ESTUDANTIL FIES. RESIDÊNCIA MÉDICA. EXTENSÃO DE CARÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO. I -
+I - O contrato de financiamento estudantil (FIES), regido pela Lei 10.260/2001, é um instrumento cuja celebração e execução regem-se preponderantemente pelo regime de direito público, tendo suas principais cláusulas e fases previsão na lei.
+II - Em relação ao art. 6º-B, § 3º, da Lei 10.260/2001, a concessão do benefício da carência estendida e a suspensão do pagamento das parcelas em virtude da adesão a programa de residência médica pressupõem que a fase de carência esteja em curso ou ainda não tenha sido iniciada no momento do requerimento. Precedente da 1ª Turma.
+III - Reconhecimento que a extensão da carência para médicos residentes só é possível quando o contrato de financiamento estudantil não tiver ingressado na fase de amortização da dívida.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido. (AgInt no REsp n. 2.123.826/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 28/4/2025, DJEN de 7/5/2025.) (Grifos acrescidos).
+ADMINISTRATIVO E PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA CONFIGURADA. PEDIDO DE REABERTURA DO PRAZO DE CARÊNCIA PARA AMORTIZAÇÃO DO SALDO DEVEDOR DO CONTRATO DE FINANCIAMENTO ESTUDANTIL (FIES) EM RAZÃO DE APROVAÇÃO EM PROGRAMA DE RESIDÊNCIA MÉDICA. IMPOSSIBILIDADE. ART. 6º-B, § 3º, DA LEI 10.260/2001. RECURSO PROVIDO.
+1. Na origem, trata-se de ação judicial que objetiva a prorrogação da carência do contrato de financiamento estudantil (Fies) para viabilizar a suspensão da cobrança dos valores a serem amortizados, desde o início até a finalização do programa de residência médica, em razão do disposto no art. 6º-B, § 3º, da Lei 10.260/2001. Na sentença o pedido foi julgado procedente. No Tribunal a quo, as apelações foram desprovidas e a sentença foi mantida.
+2. No tocante à alegada ilegitimidade passiva do Banco do Brasil S.A., o Superior Tribunal de Justiça firmou entendimento em sentido oposto, pois a legitimidade "deriva da necessidade de tal instituição financeira concretizar a suspensão da cobrança das parcelas mensais, na hipótese de deferimento do pedido" (REsp 1.991.752/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2022, DJe de 19/12/2022).
+3. A alegação de violação do art. 422 do Código Civil não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+4. Em relação ao art. 6º-B, § 3º, da Lei 10.260/2001, a concessão do benefício da carência estendida e a suspensão do pagamento das parcelas em virtude da adesão a programa de residência médica pressupõem que a fase de carência esteja em curso ou ainda não tenha sido iniciada no momento do requerimento.
+5. Recursos especiais do FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO e do BANCO DO BRASIL SA providos. (REsp n. 2.011.690/PB, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/12/2024, DJEN de 4/2/2025.) (Grifos acrescidos).
+No caso concreto, o autor encaminhou o pedido de extensão de carência para o pagamento das parcelas do financiamento já na fase de amortização (e-STJ fl. 460), motivo pelo qual não possui direito à suspensão do financiamento do FIES até a conclusão da sua residência médica.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 709/715, tornando-a sem efeito, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, julgando improcedente o pedido inicial, nos termos expostos.
+Ficam invertidos os ônus sucumbenciais.
+Publique-se. Intimem-se.
+EMENTA
