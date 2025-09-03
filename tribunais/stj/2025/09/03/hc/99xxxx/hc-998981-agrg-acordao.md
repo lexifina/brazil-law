@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ACÓRDÃO CONDENATÓRIO TRANSITADO EM JULGADO. IMPOSSIBILIDADE DE PROCESSAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso é reconhecer a incompetência deste Tribunal para o processamento do pedido.
+2.Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+3.No caso concreto, o habeas corpus se insurge contra acórdão de apelação proferido em 22/10/2024, transitado em julgado, e a impetração efetuada em 24/4/2025, de modo que o writ se mostrou como substitutivo de revisão criminal.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RENATO COUTINHO CAMPOS interpõe agravo regimental contra a decisão de fls. 46-47, por meio da qual indeferi, liminarmente, seu habeas corpus.
+Suprida a falha documental que impedia o conhecimento do habeas corpus, em suas razões, argumenta a defesa do agravante : a) há constrangimento ilegal flagrante, o que afasta o óbice de se tratar de recurso substitutivo; b) violação do princípio do favor rei, pois o acórdão condenatório interpretou os mesmos elementos probatórios da sentença absolutória sem fundamento técnico suficiente; c) afronta à presunção de inocência, havendo o Tribunal atribuído ao acusado o ônus de provar sua inocência; d) reformatio in pejus indireta, pois o réu foi prejudicado sem possibilidade de intervir no debate recursal; e) ausência de prova mínima de materialidade e autoria, com condenação baseada exclusivamente em elementos indiciários frágeis.
+O Ministério Público Federal opinou pelo não provimento do agravo.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ACÓRDÃO CONDENATÓRIO TRANSITADO EM JULGADO. IMPOSSIBILIDADE DE PROCESSAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso é reconhecer a incompetência deste Tribunal para o processamento do pedido.
+2.Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+3.No caso concreto, o habeas corpus se insurge contra acórdão de apelação proferido em 22/10/2024, transitado em julgado, e a impetração efetuada em 24/4/2025, de modo que o writ se mostrou como substitutivo de revisão criminal.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Indeferi, liminarmente, o habeas corpus por dois motivos: a) por ser substitutivo de revisão criminal; b) por estar deficientemente instruído.
+Com o advento do agravo, a deficiência da instrução foi superada, mas o primeiro óbice persiste . Isso porque o habeas corpus se insurge contra acórdão de apelação proferido em 22/10/2024, transitado em julgado, como apontado pelo próprio agravante em sua inicial.
+O recorrente impetrou o HC em 24/4/2025, de modo que o writ se mostrou como substitutivo de revisão criminal.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do habeas corpus, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, nego provimento ao agravo regimental.
