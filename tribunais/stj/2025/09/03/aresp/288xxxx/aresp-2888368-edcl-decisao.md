@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COMPANHIA ENERGÉTICA DE PERNAMBUCO contra a decisão constante às e-STJ fls. 1.128/1.132, em que conheci do agravo para não conhecer do recurso especial, dando aplicação aos óbices descritos nas Súmulas 735 do STF e 7 do STJ.
+A embargante aponta erro material e omissões no julgado, porquanto: (i) o acórdão recorrido teria afrontado as normas que regulam o deferimento da medida de urgência; (ii) há necessidade de sobrestamento do feito, conforme o art. 926 do CPC, em razão da instauração de incidente de arguição de inconstitucionalidade no TJPE, para análise da constitucionalidade da Lei n. 860/2015 do Município de Ipubi, questão idêntica à tratada na presente ação; (iii) não incide no caso a Súmula 735 do STF, pois, no recurso especial, discute-se sobre a interpretação do art. 128 do CTN e de dispositivos da Lei n. 8.987/1995; (iv) afasta-se a aplicação da Súmula 7 do STJ, porque se discute sobre fatos incontroversos já postos nos autos; e (v) o apelo nobre também tem assento na alínea "c" do permissivo constitucional, o que foi demonstrado mediante cotejo analítico entre julgados proferidos por distintos tribunais pátrios.
+Sem impugnação da parte contrária.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, vícios inexistentes na espécie.
+Isso porque, na decisão embargada, registrei claramente descaber a interposição recurso especial com a finalidade de reformar decisões liminares de natureza cautelar ou antecipatória. Nesse sentido, citei a orientação estabelecida na Súmula 735 do STF, bem como dei aplicação ao teor da Súmula 7 do STJ, diante da impossibilidade de revisão do preenchimento ou não dos pressupostos necessários à concessão de medidas liminares sem reexame de provas.
+Constata-se que a insurgência da embargante, na verdade, não diz respeito à eventual deficiência de fundamentação do julgado, mas à insatisfação com o julgamento. A pretensão, de caráter meramente infringente, é de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero est es primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
