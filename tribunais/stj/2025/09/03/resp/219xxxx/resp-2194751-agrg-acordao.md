@@ -1,0 +1,190 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Carlos Cini Marchionatti (Desembargador Convocado TJRS), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Busca pessoal. Fundadas suspeitas. Exasperação da pena-base. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que, com fundamento na Súmula n. 568 do STJ, conheceu em parte do recurso especial e negou-lhe provimento. O agravante alega ilicitude da prova obtida por busca pessoal sem fundadas suspeitas e contesta a exasperação da pena-base.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a busca pessoal realizada foi amparada em fundadas suspeitas, conforme exigido pelo art. 244 do CPP, e se a exasperação da pena-base foi devidamente fundamentada.
+3. A questão também envolve a análise da possibilidade de redimensionamento da pena-base e fixação do regime inicial semiaberto, considerando as circunstâncias judiciais favoráveis ao réu.
+III. Razões de decidir
+4. O Tribunal de origem concluiu que a busca pessoal foi baseada em fundada suspeita, evidenciada pela atitude suspeita do réu em local conhecido por tráfico de drogas, não havendo ilegalidade na atuação policial.
+5. A exasperação da pena-base foi fundamentada na natureza e quantidade das drogas apreendidas, em conformidade com o art. 42 da Lei de Drogas e a jurisprudência do STJ.
+6. O recurso carece de prequestionamento quanto à tese de violação ao art. 33, §2º do CP, sendo inviável o conhecimento do apelo nobre nesse ponto, conforme as Súmulas n. 282 e 356 do STF.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A busca pessoal é legítima quando baseada em fundada suspeita, evidenciada por elementos concretos. 2. A exasperação da pena-base pode ser fundamentada na natureza e quantidade das drogas apreendidas, conforme o art. 42 da Lei de Drogas".
+Dispositivos relevantes citados: CPP, art. 244; Lei nº 11.343/06, art. 42; CP, art. 59.
+Jurisprudência relevante citada: STJ, HC 725.534/SP, Rel. Min. Ribeiro Dantas, Terceira Seção, julgado em 27.04.2022.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por BILLY JOE DE ALMEIDA JESUS contra decisão monocrática proferida às fls. 783/796, que, com fundamento Súmula n. 568 do STJ, conheceu em parte do recurso especial e negou-lhe provimento.
+No presente regimental, o agravante alega que a busca pessoal não foi amparada em fundadas suspeitas, sendo baseada apenas no nervosismo do réu, o que não é suficiente para justificar a diligência. Cita jurisprudência do STJ que rechaça buscas pessoais baseadas em intuição policial ou impressões subjetivas. A defesa contesta a exasperação da pena-base, afirmando que não houve moduladoras desfavoráveis para justificar o aumento. Sustenta ainda que o regime inicial deveria ser semiaberto, pois as circunstâncias judiciais foram favoráveis ao réu.
+Requer a anulação da sentença e absolvição do réu devido à ilicitude das provas. Alternativamente, o redimensionamento da pena base no mínimo legal e fixação do regime semiaberto.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Busca pessoal. Fundadas suspeitas. Exasperação da pena-base. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que, com fundamento na Súmula n. 568 do STJ, conheceu em parte do recurso especial e negou-lhe provimento. O agravante alega ilicitude da prova obtida por busca pessoal sem fundadas suspeitas e contesta a exasperação da pena-base.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a busca pessoal realizada foi amparada em fundadas suspeitas, conforme exigido pelo art. 244 do CPP, e se a exasperação da pena-base foi devidamente fundamentada.
+3. A questão também envolve a análise da possibilidade de redimensionamento da pena-base e fixação do regime inicial semiaberto, considerando as circunstâncias judiciais favoráveis ao réu.
+III. Razões de decidir
+4. O Tribunal de origem concluiu que a busca pessoal foi baseada em fundada suspeita, evidenciada pela atitude suspeita do réu em local conhecido por tráfico de drogas, não havendo ilegalidade na atuação policial.
+5. A exasperação da pena-base foi fundamentada na natureza e quantidade das drogas apreendidas, em conformidade com o art. 42 da Lei de Drogas e a jurisprudência do STJ.
+6. O recurso carece de prequestionamento quanto à tese de violação ao art. 33, §2º do CP, sendo inviável o conhecimento do apelo nobre nesse ponto, conforme as Súmulas n. 282 e 356 do STF.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A busca pessoal é legítima quando baseada em fundada suspeita, evidenciada por elementos concretos. 2. A exasperação da pena-base pode ser fundamentada na natureza e quantidade das drogas apreendidas, conforme o art. 42 da Lei de Drogas".
+Dispositivos relevantes citados: CPP, art. 244; Lei nº 11.343/06, art. 42; CP, art. 59.
+Jurisprudência relevante citada: STJ, HC 725.534/SP, Rel. Min. Ribeiro Dantas, Terceira Seção, julgado em 27.04.2022.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos:
+"Sobre a violação aos arts. 244 e 157, §1º, do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL manteve a condenação nos seguintes termos do voto do relator:
+"Inicialmente, argui a Defesa a ilicitude da prova obtida, ante a violação de domicílio e ausência de fundadas razões para a busca pessoal.
+Todavia, do exame dos autos, entendo que tal se confunde com o mérito e conjuntamente será analisada.
+Passo ao exame do mérito.
+Pugna, a Defesa, pela reforma da sentença, com a absolvição do acusado ante a insuficiência probatória.
+Por sua vez, o Ministério Público postula pela condenação do acusado nos termos do art. 16, §1º, inc. IV, da Lei nº 10.826/03, em concurso material com o delito de tráfico de drogas, afastando, assim, a majorante específica do art. 40, inc. IV, da Lei nº 11.343/06.
+Analisarei os recursos conjuntamente.
+1. Da materialidade. A materialidade dos crimes resta configurada pelo registro de ocorrência policial (fls. 40/46); pelo auto de prisão em flagrante (fl. 31); pelo auto de apreensão (fl. 48); pelo laudo de constatação da natureza da substância (fls. 54/59); pelo laudo pericial nº 196283/2018 (fl. 109), constantes do evento 3, PROCJUDIC1; pelo laudo pericial nº 196285/2018 (fl.02- evento 3, PROCJUDIC2); pelo laudo pericial nº 24366/2019, da Divisão de Balística Forense (fl. 47-evento 3, PROCJUDIC3 ), bem como pela prova oral apresentada durante a instrução do feito.
+2. Da autoria.
+Quanto à autoria, extrai-se da prova oral constante nos autos, a qual, para evitar desnecessária tautologia, transcrevo-os, na forma como sintetizados na sentença de lavra da eminente Juíza de Direito Patrícia Fraga Martins (evento 121, SENT1 ):
+"Sob o crivo do contraditório constitucional, o policial Rodrigo Braz dos Santos relatou que, na ocasião fatídica, realizavam serviço de patrulhamento na "Bom Jesus", região que "estava em guerra, com várias ocorrências". Referiu que, ao avistar a guarnição, o acusado mostrou-se nervoso, razão pela qual procederam à abordagem. Em seu poder, lograram encontrar "porções de drogas, algumas já fracionadas para venda, além de uma balança" e, salvo engano, um papel de plástico filme. Aduziu que o acusado trazia consigo também cerca de R$ 1.700,00 (um mil e setecentos reais) em espécie. Já em sua cintura, localizaram "uma pistola 9mm, carregada com munições". Acrescentou que, até então, não conhecia o réu, o qual não ofereceu qualquer justificativa para o material apreendido (evento 26 - VÍDEO2).
+Em iguais termos, foi o relato de seu colega de farda, Israel Reis Fontoura narrou que, em conhecido ponto de tráfico de drogas, avistaram o acusado em atitude suspeita, descrita a partir dos seguintes elementos "gurizão, nervoso, parado, sozinho". Em face disso, levaram a efeito a revista pessoal, localizando em seu poder cerca de R$ 1.700,00 (um mil e setecentos reais) e porções de entorpecentes. E, em sua cintura, havia uma arma de fogo acompanhada de um carregador prolongado. Questionado, disse não ser de praxe a apreensão de materiais destinados à separação da droga junto dos vendedores da substância, de modo que acredita que Billy seja um dos gerentes do tráfico (aba audiências).
+A testemunha de defesa Sandra Rosângela Campos dos Santos contou que comemorava seu aniversário no dia do fato, tendo presenciado o momento em que a "polícia entrou na casa da mãe dele e tirou ele de lá". Questionada, salientou não acompanhou a chegada dos policiais militares, "mas as sobrinhas dela e a irmã viram". Declarou que, na sequência, "deu um tumulto ali na frente, mas não ficou para olhar", porque estava cozinhando (evento 26 - VÍDEO4).
+O réu Billy Joe de Almeida Jesus refutou o cometimento do crime. Esclareceu que os policiais militares responsáveis pelo flagrante já haviam o submetido a 3 (três) ou 4 (quatro) abordagens truculentas em oportunidade anterior. Disse que "se encarnaram nele porque tinha passagem", sendo que, na ocasião, invadiram sua residência, o que foi presenciado por sua filha e esposa. Acrescentou que os agentes públicos exigiram que "desse uma porta" ou um "grandão", sob pena de levá-lo detido. Afirmou que, como não possuía as informações desejadas, foi conduzido ao 20º Batalhão de Polícia, momento em que visualizou as drogas e a arma enxertada. Relativamente ao dinheiro apreendido, aduziu que pertenciam à sua irmã e foram encontrados na residência desta, situada no mesmo pátio da sua e igualmente invadida (evento 102 - VÍDEO4)."
+2.1. Quanto ao crime de tráfico de drogas - 1º fato
+Assim, quanto à autoria, conforme prova oral constante nos autos, em que pese a negativa do acusado Billy Joe, afirmando que a droga apreendida não era sua, foi preso em flagrante na posse de 01 porção grande e 10 porções pequenas de cocaína, totalizando 28g, além de 01 pedra grande de cocaína e uma pedra pequena de crack, com peso de 16,80, associada à quantia de R$ 1.730,00, balança de precisão, e uma pistola 9mm,com numeração raspada, 01 carregador de pistola e 25 munições de mesmo calibre, intactas, conforme Ocorrência Policial, Auto de Prisão em flagrante.
+Por sua vez, as testemunhas arroladas pela acusação, os policiais militares, foram uníssonos em relatar que estavam em patrulhamento no Bairro Bom Jesus, em patrulhamento de rotina, quando avistaram o acusado, a aparentou "nervoso" ao visualizar a guanrição, motivo pelo qual o abordaram.
+O policial Rodrigo afirmou que "estava em guerra" o local, com várias ocorrências.
+No mesmo sentido foi o depoimento do policial Israel, acrescentando que o acusado gerou suspeita, sustentando que "gurizão, parado, nervoso, sozinho", motivo pelo qual realizaram a abordagem e, em revista pessoal fora apreendida as drogas e, na cintura do acusado, a pistola.
+Lado outro, a testemunha arrolada pela defesa afirmou que não presenciou a abordagem, apenas os policiais chegando na casa da mãe do acusado e lhe retirando de lá.
+E Billy Joe, negando as acusações, afirmou enxerto por parte dos policiais, e que estes o abordaram por ter passagens anteriores pela polícia.
+Primeiramente, conforme se extrai, não há falar em nulidade da prova obtida ante a ausência de fundadas razões para a busca pessoal ao acusado.
+Segundo Renato Brasileiro de Lima, a busca pessoal de natureza processual penal, regulamentada pelo art. 244 do Código de Processo Penal, deve ser determinada quando houver fundada suspeita de que alguém oculte consigo coisas achadas ou obtidas por meios criminosos, dentre outas de origem espúria. (LIMA, Renato Brasileiro de; Código de Processo Penal Comentado; 5ª ed.; JusPODIVM; p.741)
+Na espécie, a revista pessoal calcou-se em elementos concretos, que ensejaram fundadas suspeitas de que o increpado portava material ilícito.
+Isso porque os policiais estavam fazendo patrulhamento de rotina em local conhecido como ponto de tráfico de drogas quando avistaram o réu em via pública em atitude suspeita.
+Ademais, conforme mencionado pelo acusado em interrogatório, Billy Joe já era conhecido dos policiais de abordagens anteriores.
+(..)
+Ora, quando um policial desconfia de alguém, baseado em elementos concretos e seguros, como na espécie, a abordagem e revista pessoal é seu dever, pois o direito à privacidade cede diante de fundadas suspeitas de que o indivíduo porta, na ocasião, elemento que caracterize a materialidade de um delito.
+Portanto, estando o réu em via pública, em local conhecido como ponto de tráfico, e tendo os policiais suspeitado da atitude do réu naquele local, não há falar em nulidade da prova por ausência de fundadas suspeitas para a revista pessoal no acusado.
+Por sua vez, a tese do acusado de enxerto por parte dos policiais restou isolada.
+Nos termos do art. 156 do Código de Processo Penal, cabia ao réu demonstrar ao Juízo que os fatos ocorreram na forma como suscitou.
+Não foi o que ocorreu.
+Nesse contexto, rejeitar a validade do depoimento do policial ou reduzir o valor de seu testemunho, sem motivo justificado, seria comprometer a repressão do crime. Ademais, inexistem motivos para o policial falsear a verdade e, salvo prova em contrário, o depoimento dos agentes públicos merece crédito.
+ .. .
+A autoria, portanto, é certa sobre o réu.
+No que condiz ao elemento subjetivo do tipo de tráfico, para a sua configuração não é necessário que o réu seja visualizado comercializando entorpecentes, consumando-se o crime com o simples guardar para entrega a consumo a terceiros.
+Por essas razões, estando comprovado que o acusado trazia consigo os entorpecentes apreendidos, para fins de entrega a consumo de terceiros, é impositiva a manutenção da condenação pela incursão no tipo penal do art. 33 da Lei de Drogas." (fls. 654/657)
+O art. 244 do CPP dispõe que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+No caso dos autos, da análise do trecho colacionados, verifica-se que o Tribunal de origem concluiu que a fundada suspeita restou evidenciada. Conforme exposto no acórdão recorrido, a abordagem ocorreu "em local conhecido como ponto de tráfico de drogas quando avistaram o réu em via pública em atitude suspeita" (fl. 656), destacando, ainda, tratar-se de agente já conhecido no meio policial.
+Essas circunstâncias revelam que a busca pessoal não foi imotivada nem abusiva, como sustenta a defesa, mas baseada na fundada suspeita de que o recorrente estava na posse de material ilícito, não se vislumbrando qualquer ilegalidade na atuação dos policiais, uma vez que amparada em elementos concretos indiciários de flagrante delito.
+Com efeito, a jurisprudência desta Corte Superior é firme em reconhecer a legitimidade de abordagens policiais e subsequentes buscas pessoais em circunstâncias semelhantes às dos autos, consoante ilustram os precedentes a seguir (grifos acrescidos):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ADEQUAÇÃO TÍPICA COM LASTRO NA PROVA DOS AUTOS. BUSCA PESSOAL. FUNDADAS SUSPEITAS. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..
+4. A busca pessoal foi considerada legal, pois foi justificada pelas circunstâncias do flagrante, com o agravante abordado em local conhecido por tráfico de drogas, demonstrando comportamento evasivo e nervosismo.
+5. A quantidade e diversidade das drogas apreendidas, aliadas ao dinheiro encontrado, indicam destinação comercial, não sendo cabível a desclassificação para uso pessoal.
+6. A concessão de habeas corpus de ofício para desclassificar a conduta exige revolvimento probatório, o que é incompatível com a via do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo conhecido. Recurso Especial desprovido.
+Tese de julgamento: "1. A busca pessoal é lícita quando justificada por fundada suspeita. 2. A desclassificação de tráfico para uso pessoal exige análise probatória incompatível com habeas corpus. 3. A quantidade e diversidade de drogas apreendidas podem indicar destinação comercial."
+(AREsp n. 2.492.666/SP, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/3/2025, DJEN de 21/3/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA DEMONSTRADA. LEGALIDADE DA MEDIDA. INVIABILIDADE DO REEXAME DE FATOS E PROVAS NA VIA ELEITA. AUSÊNCIADE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, para a realização de busca pessoal, nos termos do art. 244 do Código de Processo Penal, exige-se a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, quando a medida for determinada no curso de busca domiciliar.
+2. Somado a isso, nas palavras do Ministro GILMAR MENDES, "se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública" (RHC 229.514/PE, julgado em 28/8/2023).
+3. Na hipótese, nos moldes da conclusão da Corte local, atesta-se a legalidade da busca pessoal, tendo em vista que as circunstâncias prévias à abordagem justificavam a fundada suspeita de que a paciente estaria na posse de elementos de corpo de delito, situação que se confirmou no decorrer da diligência policial. Com efeito, policiais militares realizavam patrulhamento de rotina, oportunidade na qual avistaram a acusada em atitude suspeita, que, ao perceber a aproximação da viatura, demonstrou inquietação, olhando para o lado e mantendo os braços junto ao corpo, apresentando bastante nervosismo, razão pela qual resolveram abordá-la, momento em que ela continuou com os braços rígidos junto ao corpo, escondendo os entorpecentes. Realizada a busca pessoal, os policiais encontraram, em seu poder 32 porções de cocaína em pó, com peso líquido de 15,97 gramas).
+4. Ademais, verificada justa causa para a realização da abordagem policial, tomando-se como base o quadro fático delineado pelas instâncias antecedentes, alcançar conclusão em sentido diverso demandaria o reexame do conjunto fático-probatório, incabível na via do habeas corpus (HC 230232 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 02-10-2023, PROCESSOELETRÔNICO DJe-s/n, DIVULG 06-10-2023, PUBLIC 09-10-2023).
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 873.881/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. NULIDADE DA BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 240, § 2º, do Código de Processo Penal -CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de drogas, objetos ou papéis que constituam corpo de delito.
+2. "O entendimento adotado pelo SUPREMO TRIBUNAL FEDERAL impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito. Precedentes" (AgRg no ARE 1.458.795, Relator para o acórdão Ministro Alexandre de Moraes, vencido Ministro Cristiano Zanin, DJe de 28/2/2024.
+3. A abordagem dos policiais somente ocorreu em razão de atitude suspeita do paciente, o qual demonstrou nervosismo ao avistá-los, situação autorizadora da abordagem, ante a ocorrência de fundada suspeita de que o mesmo estava cometendo algum ilícito, inexistindo assim, qualquer irregularidade no flagrante.
+4. Nesse contexto, a partir da leitura dos autos, verifica-se que foi constatada a existência de indícios prévios da prática da traficância, a autorizar a atuação policial, não havendo falar em nulidade da busca pessoal.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 194.151/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS. FLAGRANTE DELITO. FUNDADAS RAZÕES. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL DESPROVIDO.
+ ..
+6. Os agentes levaram em consideração, no momento da abordagem, a atitude suspeita, em razão do nervosismo ao avistar a guarnição, guardando rapidamente algum objeto no bolso do seu casaco, em um local conhecido como ponto de venda de entorpecentes, havendo assim fundadas razões para a abordagem, justificando a intervenção dos guardas e a licitude das provas obtidas.
+IV. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 2.066.667/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 6/1/2025.)
+No mesmo sentido, confiram-se precedentes do Supremo Tribunal Federal (grifos acrescidos):
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA PARA A ABORDAGEM DEVIDAMENTE COMPROVADA. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE DÁ PROVIMENTO.
+1. É incabível ao Poder Judiciário determinar ao Poder Executivo a imposição de providências administrativas como medida obrigatória para os casos de busca pessoal, sob o argumento de serem necessárias para evitar eventuais abusos, além de suspeitas e dúvidas sobre a legalidade da diligência.
+2. O entendimento adotado pelo SUPREMO TRIBUNAL FEDERAL impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito. Precedentes.
+3. A atitude suspeita do acusado e o nervosismo ao perceber a presença dos militares que realizavam patrulhamento de rotina em conhecido ponto de tráfico de drogas, evidenciam a existência de justa causa para a revista pessoal, que resultou na apreensão de diversas porções entorpecentes destinados à mercancia ilícita.
+4. Agravo Regimental e Recurso Extraordinário com Agravo a que se dá provimento.
+(ARE 1.467.500 AgR, Primeira Turma do Supremo Tribunal Federal, Relatora Min. Cármen Lúcia, Redator para o acórdão: Min. Alexandre de Moraes, Julgamento em 18/3/2024, DJe de 15/4/2024.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA PARA A ABORDAGEM DEVIDAMENTE COMPROVADA. TEMA 280 DA REPERCUSSÃO GERAL. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+I - O entendimento adotado pelo Supremo Tribunal Federal impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito. Precedentes.
+II - No caso ora em análise, os agentes públicos, ao patrulharem via que havia sido apontada por denúncia anônima como ponto de tráfico, depararam-se com o réu que, em atitude suspeita e demonstrando sinais de nervosismo ao avistar os policiais, mudou de direção com intenção de distanciar-se dos policiais.
+III - Na situação descrita, houve fundadas razões para a busca pessoal, que foram devidamente justificadas a posteriori, pois foram encontrados drogas e dinheiro na posse do réu, indicando a situação de flagrante delito.
+IV - Agravo regimental parcialmente provido, apenas para enviar os autos ao Superior Tribunal de Justiça para que proceda a análise de questões pendentes.
+(ARE 1.493.264 AgR, Relator Cristiano Zanin, Primeira Turma do Supremo Tribunal Federal, julgamento em 1/7/2024, DJe de 3/7/2024.)
+Desse modo, no quadro delineado nos autos, para desconstituir as conclusões das instâncias ordinárias a respeito da dinâmica dos eventos que levaram à abordagem policial, seria necessário revolvimento fático-probatório, procedimento vedado em sede de recurso especial, conforme Súmula n. 7 do STJ. A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. LEGALIDADE DA ABORDAGEM POLICIAL. FUNDADAS SUSPEITAS. RECURSO DESPROVIDO. I. CASO EM EXAME
+ ..
+6. A análise da Corte de origem verificou que os policiais tinham motivos concretos para suspeitar dos réus, confirmando a legalidade da busca pessoal/veicular e a validade das provas obtidas. A revisão dessa conclusão implicaria reexame de provas, vedado pela Súmula 7 do STJ.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.281.257/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. NULIDADE. INOCORRÊNCIA. FUNDADA SUSPEITA. JUSTA CAUSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INICIATIVA DO ÓRGÃO JULGADOR. AUSÊNCIA DE ILEGALIDADE FLAGRANTE . AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Verificada justa causa para a realização da abordagem policial, tomando-se como base o quadro fático delineado pelas instâncias antecedentes, alcançar conclusão em sentido diverso demandaria o reexame do conjunto fático-probatório, incabível na via do habeas corpus (HC n. 230232 AgR, Relator ANDRÉ MENDONÇA, Segunda Turma, julgado em 02/10/2023, PROCESSOELETRÔNICO D Je-s/n, DIVULG 06/10/2023, PUBLIC 09/10/2023).
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.700.601/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024.)
+Quanto à pena-base, o Tribunal a quo afirmou que
+"Conforme sentença, verifica-se que o réu, para o crime de tráfico de drogas, teve a pena basilar exasperada em 06 (seis) meses, ante a natureza da droga apreendida, nos termos do art. 59 do CP e 42 da Lei de Drogas.
+O art. 42 da Lei nº 11.343/06 estabelece que " O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Assim, é evidente que a natureza do entorpecente apreendido deve refletir na fixação da pena-base, não merecendo alteração na sentença no ponto, que as considerou, para a fixação da pena base." (fl. 659).
+Portanto, diferentemente do alegado pelo recorrente, a exasperação da pena-base foi devidamente fundamentada com base na quantidade de drogas apreendidas, o que está em consonância com a jurisprudência desta Corte Superior.
+É de se ressaltar que a Terceira Seção desta Corte, no julgamento do HC 725.534/SP, fixou a tese de que é possível a valoração da quantidade e natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sidos considerados na primeira fase do cálculo da pena (HC n. 725.534/SP, Relator Ministro RIBEIRO DANTAS, Terceira Seção, julgado em 27/4/2022, DJe de 1/6/2022). Nesse sentido (grifou-se):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO ILÍCITO DE ENTORPECENTES. NÃO CONHECIMENTO.
+AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em substituição a recurso próprio, visando à revisão da pena-base fixada em condenação por tráfico de drogas.
+2. O paciente foi condenado a 12 anos de reclusão, com pena posteriormente redimensionada para 9 anos e 27 dias, além de multa, por tráfico de drogas. A basilar foi exasperada em 10 (dez) meses, haja visa a quantidade de 128g de maconha apreendida.
+3. A defesa alega constrangimento ilegal, sustentando que a quantidade de droga não justifica a majoração da pena-base.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é cabível o habeas corpus em substituição ao recurso próprio e se a quantidade de droga apreendida justifica a majoração da pena-base.
+III. Razões de decidir
+5. O habeas corpus não é conhecido quando utilizado em substituição ao recurso legalmente previsto, salvo em casos de flagrante ilegalidade.
+6. A jurisprudência do STJ considera legítima a majoração da pena-base com base na quantidade e natureza da droga, conforme o art. 42 da Lei n. 11.343/2006.
+7. A decisão agravada foi mantida, pois a fundamentação para a majoração da pena-base encontra amparo na jurisprudência do STJ.
+IV. Dispositivo e tese 8. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não é cabível em substituição ao recurso próprio, salvo em casos de flagrante ilegalidade. 2. A quantidade e natureza da droga apreendida podem justificar a majoração da pena-base, conforme o art. 42 da Lei n. 11.343/2006."
+Dispositivos relevantes citados: CPP, art. 654, § 2º; Lei n. 11.343/2006, art. 42.Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, j. 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, j. 27.03.2020.
+(AgRg no HC n. 865.004/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. QUANTIDADE E VARIEDADE RELEVANTES (99 GRAMAS DE COCAÍNA E 26,7 GRAMAS DE MACONHA). AUSÊNCIA DE FLAGRANTE ILEGALIDADE. Agravo desprovido. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso próprio, impetrado em favor de condenado por tráfico de drogas e associação para o tráfico, visando redimensionar a pena-base.
+2. A defesa alega constrangimento ilegal na exasperação da pena-base em 1/4, com base na quantidade e natureza das drogas apreendidas (99g de cocaína e 26,7g de maconha), considerada desproporcional.
+3. O Tribunal de origem manteve a exasperação da pena, fundamentando-se na natureza e quantidade das drogas, conforme art. 42 da Lei n. 11.343/2006. II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a exasperação da pena-base, pela quantidade e natureza das drogas apreendidas, configura flagrante ilegalidade apta a justificar a concessão de habeas corpus de ofício. III. RAZÕES DE DECIDIR
+5. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+6. A exasperação da pena-base, fundamentada na quantidade e natureza das drogas, está em consonância com o art. 42 da Lei n. 11.343/2006 e não configura flagrante ilegalidade.
+7. A revisão da dosimetria da pena é discricionária do magistrado e só é passível de revisão em casos de manifesta ilegalidade ou teratologia.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 861.115/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+De plano, verifica-se que o Tribunal a quo não se manifestou acerca da tese de violação ao art. 33, §2º do CP, não tendo sido debatida a insurgência relativa à ilegalidade no regime prisional fixado.
+Dessa forma, o recurso carece do adequado e indispensável prequestionamento. Incidentes, por analogia, as Súmulas n. 282 (" é  inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 (" o  ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"), ambas do STF.
+Inviável, pois, o conhecimento do apelo nobre quanto ao ponto.
+Nesse sentido, confiram-se precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N.ºS 282 E 356, AMBAS DO STF. DECISÃO MANTIDA.
+I - Como se sabe, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Com efeito, constato que a matéria, da forma como trazida nas razões recursais, não foi objeto de debate na instância ordinária, o que inviabiliza a discussão da matéria em sede de recurso especial, por ausência de prequestionamento.
+III - Nos termos da jurisprudência deste Superior Tribunal, "Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo tribunal de origem e não foram opostos embargos de declaração para provocar sua análise" (AgRg nos EDcl nos EDcl no AREsp n. 1.727.976/DF, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 10/6/2022).
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.948.595/PB, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/10/2023, DJe de 6/11/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 171, § 3.º, DO CÓDIGO PENAL. PLEITO DE APLICAÇÃO DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356, AMBAS DA SUPREMA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito de concessão do Acordo de Não Persecução Penal não foi objeto de apreciação pela Corte de justiça de origem e não se opuseram embargos de declaração. Ausência de prequestionamento. Incidência das Súmulas n. 282/STF e 356/STF.
+2. In casu, quando do julgamento dos embargos de declaração, que ocorreu em 09/03/2020, a Lei n. 13.964/2019 já estava em vigor e a prestação jurisdicional não estava encerrada e, assim, não há falar em impossibilidade de levar o tema à apreciação da Corte a quo.
+3. E ainda que se trate de matéria de ordem pública, o requisito do prequestionamento se mostra indispensável a fim de evitar supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.065.090/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+Ante o exposto, conheço em parte o recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento." (fls. 783/796)
+Assim, se verifica que, no presente caso, o Tribunal de Justiça do Estado do Rio Grande do Sul manteve a condenação do recorrente, rejeitando a alegação de ilicitude da prova obtida por violação de domicílio e ausência de fundadas razões para a busca pessoal. O voto do relator destacou que a busca pessoal foi realizada com base em elementos concretos que geraram fundadas suspeitas de que o acusado portava material ilícito. A abordagem ocorreu em um local conhecido como ponto de tráfico de drogas, e o réu foi avistado em atitude suspeita, sendo já conhecido no meio policial. O Tribunal concluiu que a busca pessoal não foi imotivada nem abusiva, mas baseada na fundada suspeita de que o recorrente estava na posse de material ilícito, não havendo ilegalidade na atuação dos policiais. A jurisprudência do STJ reconhece a legitimidade de abordagens policiais e buscas pessoais em circunstâncias semelhantes, e para desconstituir as conclusões das instâncias ordinárias seria necessário revolvimento fático-probatório, vedado em recurso especial conforme Súmula n. 7 do STJ. Quanto à pena-base, o Tribunal afirmou que a exasperação foi fundamentada na natureza e quantidade da droga apreendida, conforme o art. 42 da Lei n. 11.343/06, estando em consonância com a jurisprudência do STJ. A Terceira Seção do STJ, no julgamento do HC 725.534/SP, fixou a tese de que é possível valorar a quantidade e natureza da droga para a fixação da pena-base e modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006. Por fim, o Tribunal não se manifestou sobre a tese de violação ao art. 33, §2º do CP, faltando o requisito do prequestionamento, tornando inviável o conhecimento do recurso especial quanto ao ponto, conforme as Súmulas n. 282 e 356 do STF.
+Ademais, no presente caso , se verifica que o agravo regimental é mera reiteração de argumentos já analisados na decisão agravada, sem qualquer fundamento novo apto a alterar a decisão do agravo em Recurso Especial.
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental.
