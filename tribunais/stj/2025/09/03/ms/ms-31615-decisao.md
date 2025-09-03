@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por LUANA TERESINHA PERDONA DA SILVA e PATRÍCIA RAMOS DA ROCHA apontando como autoridade coatora: i) o Juízo de Direito da 1ª Vara de Execuções Criminais de Caxias do Sul/RS; ii) o Juízo de Direito da 2ª Vara de Execuções Criminais de Caxias do Sul/RS; iii) o Juízo de Direito da 1ª Vara de Execução Criminal Regional de Sorocaba/SP; i) o Juízo de Direito da 2ª Vara Judicial da Comarca de Itapeva/SP.
+A impetração narra que as impetrantes se encontram reclusas na Penitenciária Feminina Madre Pelletier em Porto Alegre/RS. Ambas foram condenadas por sentença transitada em julgado na Comarca de Itapeva/SP, por crime supostamente realizado em ambiente virtual, sem nunca terem estado na cidade de Itapeva. A condenação gerou uma ordem de transferência para São Paulo, sob o entendimento de que o local da condenação seria o local para cumprimento da pena. No entanto, o Juízo de Itapeva/SP reconheceu a falta de estrutura para recebê-las e determinou que as Varas de Execução do Estado do Rio Grande do Sul fossem oficiadas para se manifestar sobre a possibilidade de acolhimento da execução penal.
+A impetração também afirma que os juízos gaúchos se omitiram em cumprir a determinação, alegando falta de competência sem analisar a questão principal. Simultaneamente, os juízos paulistas declinaram a competência entre si, resultando em uma ordem de transferência iminente sem que o direito das impetrantes de terem seu pleito analisado fosse respeitado.
+Requerem as impetrantes, liminarmente, a suspensão imediata da transferência para o Estado de São Paulo, alegando risco de dano irreparável ao vínculo com seus filhos menores. No mérito, pleiteiam a anulação da ordem de transferência, de modo a garantir às impetrantes o direito de terem seu pedido de permanência devidamente analisado pelo juízo que esta Corte Superior definir como competente.
+É o relatório.
+Decido.
+Segundo entendimento pacificado no Superior Tribunal de Justiça, o mandado de segurança impetrado contra ato praticado por magistrado integrante de Tribunal estadual deve ser direcionado à própria Corte à qual o juiz pertence, respeitando-se a hierarquia jurisdicional e a competência originária. Isso porque a competência originária do Superior Tribunal de Justiça para o julgamento de mandados de segurança está restrita às hipóteses previstas no artigo 105, inciso I, alínea b, da Constituição da República, que contempla apenas atos praticados por Ministros de Estado, comandantes das Forças Armadas ou autoridades vinculadas ao próprio STJ. Nessa linha, a Súmula 41 desta Corte Superior é categórica ao afirmar que o STJ não possui atribuição para processar e julgar, de forma originária, mandado de segurança impetrado contra ato de outros tribunais ou de seus respectivos órgãos, reafirmando os limites constitucionais da sua jurisdição.
+A propósito:
+ ..
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se o Superior Tribunal de Justiça tem competência originária para processar e julgar mandado de segurança contra ato de magistrado de tribunal estadual.
+III. RAZÕES DE DECIDIR
+3. O art. 105, I, "b", da Constituição Federal estabelece a competência originária do Superior Tribunal de Justiça apenas para mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes das Forças Armadas ou de autoridade do próprio Tribunal.
+4. A Súmula 41 do STJ dispõe expressamente que "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+5. A jurisprudência da Terceira Seção do STJ perfilha o entendimento de que a impetração contra ato jurisdicional de tribunal estadual deve ser dirigida ao próprio tribunal de origem, e não ao STJ.
+IV. RECURSO DESPROVIDO. (AgRg no MS n. 30.401/CE, relatora Ministra Daniela Teixeira, Terceira Seção, julgado em 12/2/2025, DJEN de 17/2/2025.)
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA DECISÃO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 105, I, "b", da Constituição Federal, esta Corte somente tem competência originária para conhecer de mandados de segurança impetrados contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+2. Agravo regimental não provido. (AgRg no MS n. 29.887/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 22/2/2024, DJe de 28/2/2024.)
+Diante do exposto, indefiro liminarmente o mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
