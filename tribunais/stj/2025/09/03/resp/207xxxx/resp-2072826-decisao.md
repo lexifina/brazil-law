@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA HENRIQUETA MONTEIRO RENNO, fundamentado no art. 105, III, "a" e "c", da CF, contra acórdão assim ementado (fl. 553):
+APELAÇÃO - Ação declaratória e de obrigação de fazer c. c restituição de valores. Plano de saúde coletivo. Reajustes por sinistralidade com aplicação da VCMH - Variação dos Custos Médicos Hospitalares e por mudança de faixa etária. Possibilidade. Previsão contratual. Sentença de improcedência. Insurgência da autora. Reajustes previstos em contrato que necessitam, contudo de apuração da base atuarial. Reajuste por mudança de faixa etária. Questão objeto de Recurso Repetitivo REsp nºs 1.716.113/DF, 1.726.285/SP, 1.715.798/RS e 1.873.377/SP (Temas 1016), no qual a Corte Superior estabeleceu a aplicabilidade das teses do Tema 952, com novos enunciados aprovados. Necessidade, contudo, de apuração dos índices de reajuste em sede de liquidação de sentença. Precedentes. Restituição simples dos valores pagos em excesso para o período. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 640-645).
+Em suas razões (fls. 676-698), a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, sob o argumento de que "a demanda versa sobre reajustes aplicados em plano de saúde por faixa etária, de rigor se mostrava a aplicação da tese firmada no Tema 610 deste c. STJ, estabelecida através de julgamento dos Recursos Especiais nº 1.360.969/RS e 1361182/RS. Todavia, no V. Acórdão sequer houve menção a tal precedente e, após ventilação de tal questão por meio dos competentes Declaratórios, houve sua rejeição sob justificativa genérica" (fls. 680);
+(ii) art. 927, III, do CPC/2015, uma vez que "a contenda dos litigantes jamais poderia ser julgada sem que houvesse análise de seus termos sob o estrito crivo do Tema 610 deste Superior Tribunal" (fl. 682).
+Contrarrazões apresentadas (fls. 651-671).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A controvérsia tem origem em reajustes por sinistralidade e faixa etária, tendo-se aplicado um percentual de 89,07 % em razão do ingresso na faixa etária dos 59 anos.
+A sentença julgou improcedente o pedido de revisão dos reajustes, sob o fundamento de que "os reajustes por faixa etária constam expressamente do contrato de forma clara e inteligível, não configuram onerosidade excessiva ao consumidor" (fl. 466) e de que "o reajuste por sinistralidade não se apresenta em percentual exagerado, capaz de prejudicar o consumidor e inexiste violação aos direitos previstos no Código de Defesa do Consumidor" (fl. 467).
+O Tribunal de origem reformou parcialmente a sentença, a fim de "determinar que os índices dos reajustes por faixa etária e por sinistralidade tenham apuração de percentual em fase de liquidação de sentença" (fl. 562). Ademais, determinou que eventual restituição dos valores pagos "deve  ..  ocorrer de forma simples e somente em relação a eventuais valores pagos a partir do ajuizamento da ação" (fl. 562).
+(I) Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação ao termo inicial da obrigação de restituir, o Tribunal de origem assim se manifestou (fls. 561-562):
+Quanto ao que foi pago a maior, caso seja constatado, prevalece nesta 6ª Câmara que a restituição deve ocorrer de forma simples e somente em relação a eventuais valores pagos a partir do ajuizamento da ação, porque neste momento que foi exteriorizada a discordância com a cobrança.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+(II) Observa-se que o Tema Repetitivo n. 610/STJ firmou a tese de que, "Na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista pre screve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002".
+O Tribunal de origem, porém, não declarou prescrição, apenas identificou o termo inicial da obrigação de restituir como aquele em "que foi exteriorizada a discordância com a cobrança" (fl. 562), razão pela qual o Tema Repetitivo n. 610/STJ, alegado pela parte, sequer era aplicável.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
