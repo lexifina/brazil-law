@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO EMBARGADO. DESNECESSIDADE DE REBATER, PONTO A PONTO, TODOS OS ARGUMENTOS. RAZÕES DE DECIDIR DEVIDAMENTE APRESENTADAS. MOTIVAÇÃO SATISFATÓRIA E SUFICIENTE. IMPOSSIBILIDADE DE REDISCUSSÃO EM EMBARGOS. MERO INCONFORMISMO DA PARTE COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+2. O órgão julgador não está obrigado a rebater, ponto a ponto, todos os argumentos trazidos pelos litigantes, sendo suficiente o enfrentamento das questões imprescindíveis ao julgamento.
+3. Não há qualquer situação a ensejar amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos declaratórios opostos contra acórdão de e-STJ fls. 856-861, em que foi desprovido o agravo regimental em julgado assim ementado:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME PATRIMONIAL. ILEGALIDADE DE INVASÃO DE DOMICÍLIO. INOCORRÊNCIA. DENÚNCIA COM DADOS ESPECÍFICOS DO RÉU. FUNDADA SUSPEITA CONFIGURADA. FLAGRANTE DELITO. PROVA LÍCITA. DOSIMETRIA. EXASPERAÇÃO PENA-BASE. CONSEQUÊNCIAS. VULTOSO PREJUÍZO. FUNDAMENTAÇÃO CONCRETA E ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO. 1. A denúncia de suspeito, quando acompanhada de outras informações específicas e verificáveis sobre referida pessoa e os fatos, é suficiente para legitimar a diligência policial de entrada em domicílio, não havendo ilegalidade na coleta da prova, notadamente em situação de flagrante delito. 2. A dosimetria da pena é sujeita a certa discricionariedade, porquanto se adequada às particularidades de cada caso concreto. Por isso, sua revisão no âmbito dos reclamos endereçados a esta Corte somente é cabível quando verificada a inobservância de parâmetros legais ou manifesta desproporcionalidade. 3. A exasperação da pena-base em razão das consequências foi justificada de forma concreta (vultoso prejuízo patrimonial), com lastro em dados não inerentes à estrutura do tipo penal. 4. Agravo regimental desprovido.
+No presente recurso, a parte embargante alega ter havido omissão na decisão embargada, aduzindo que não foi en frentada a tese de que "não foi realizado nenhum reconhecimento fotográfico ANTES da prisão de Raul" (e-STJ fl. 870). Além disso, argumenta que não houve explicação sobre "porque o valor da res furtiva, que foi restituída à vítima, no caso em concreto, se mostra exacerbada e merece maior reprovação (sic)" (e-STJ fl. 870). Requer o acolhimento do recurso para que seja sanado o vício apontado (e-STJ fls. 868-872).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO EMBARGADO. DESNECESSIDADE DE REBATER, PONTO A PONTO, TODOS OS ARGUMENTOS. RAZÕES DE DECIDIR DEVIDAMENTE APRESENTADAS. MOTIVAÇÃO SATISFATÓRIA E SUFICIENTE. IMPOSSIBILIDADE DE REDISCUSSÃO EM EMBARGOS. MERO INCONFORMISMO DA PARTE COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+2. O órgão julgador não está obrigado a rebater, ponto a ponto, todos os argumentos trazidos pelos litigantes, sendo suficiente o enfrentamento das questões imprescindíveis ao julgamento.
+3. Não há qualquer situação a ensejar amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar.
+Não vislumbro qualquer vício na decisão embargada.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+É cediço que o órgão julgador não está obrigado a rebater, ponto a ponto, todos os argumentos trazidos pelas partes, sendo suficiente o enfrentamento das questões imprescindíveis ao julgamento.
+A negativa de prestação jurisprudencial se configura apenas quando o Tribunal deixa de se manifestar sobre ponto que seria indubitavelmente necessário ao deslinde do litígio.
+Destarte, o julgador não é obrigado a rebater cada um dos argumentos aventados pela defesa ao proferir decisão no processo, bastando que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões da parte (AgRg no AREsp 1009720/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 25/4/2017, DJe de 5/5/2017).
+Na espécie , inexistem vícios a serem sanados no acórdão recorrido, percebendo-se, claramente, que os aclaratórios foram interpostos com o objetivo de rediscutir matéria já devidamente apreciada pelo colegiado.
+No caso em exame, o embargante alega que não foi enfrentada a tese de que "não foi realizado nenhum reconhecimento fotográfico ANTES da prisão de Raul" (e-STJ fl. 870). Além disso, argumenta que não houve explicação sobre o "porque o valor da res furtiva, que foi restituída à vítima, no caso em concreto, se mostra exacerbada e merece maior reprovação (sic)" (e-STJ fl. 870).
+Conforme consignado na decisão embargada, "a atuação policial se justifica pela existência de denúncia detalhada, acompanhada da completa qualificação do suspeito, e da localização dos bens subtraídos. A denúncia anônima acompanhada de outras circunstâncias verificáveis, é suficiente para legitimar a diligência policial, não havendo ilegalidade na coleta das provas, ainda mais quando configurada situação de flagrante delito" (e-STJ fl. 860).
+Além disso, ressaltou-se que "as instâncias ordinárias concluíram pela licitude das provas, destacando que a abordagem policial foi realizada no curso de investigação, algumas horas após a prática do delito patrimonial, tendo havido o reconhecimento fotográfico realizado pelas vítimas, demais do fato de que, por ocasião da abordagem, constatou-se que o réu se enco ntrava na posse dos bens subtraídos". (e-STJ fl. 859).
+Não houve menção, em momento algum, de que houve prévio reconhecimento fotográfico do réu pelas vítimas, tendo sido apenas apontada a realização de aludido procedimento para corroborar o envolvimento do recorrente na prática delitiva, aliado ao fato de que se encontrava na posse dos produtos subtraídos quando da abordagem policial.
+Ademais, é cediço que a restituição dos bens subtraídos não constitui, isoladamente, motivo suficiente para afastar a mensuração negativa das consequências do crime, já que o prejuízo se consuma com a inversão da posse da res furtiva (teoria da amotio), conforme consignado na decisão embargada.
+In casu, todos os argumentos apresentados no recurso especial foram enfrentados, interpretados e valorados por este julgador.
+Assim, observa-se que o embargante, irresignado com o conteúdo do decisum, pretende modificá-lo por esta via, o que, todavia, não é admissível por meio do recurso utilizado.
+Não há qualquer situação a ensejar amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de de claração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
