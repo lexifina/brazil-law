@@ -1,0 +1,37 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE SÃO PAULO - SP suscitou conflito negativo de competência indicando como suscitado o JUÍZO DE DIREITO DA 1ª VARA DE SÃO MATEUS - MA.
+O suscitado declinou a competência por entender que (fl. 77):
+Sabe-se que a citação é pressuposto processual de validade e desenvolvimento regular do processo.
+É cediço, também, que a ação contra massa falida deve ser proposta perante o juízo da falência, também conhecido como juízo universal da falência. Esse juízo é responsável por todas as questões relacionadas à massa falida, incluindo a liquidação de ativos e a distribuição do produto entre os credores.
+Como até a presente data não houve citação, não houve estabilização da lide, pelo que a competência absoluta, in ratione materiae, é do Juízo da Falência.
+Recebidos os autos, o suscitante consignou que (fls. 85-86):
+O fato de a parte ré não ter ainda sido citada à época da decretação da falência é indiferente para a aplicação da mencionada regra de competência. O pressuposto de fixação da competência é se tratar de demanda que já está sendo processada. Ou seja, o critério é a existência do processo.
+A citação não é pressuposto de existência do processo. Cuida-se de pressuposto de desenvolvimento válido, não de existência. O processo existe antes da citação. Não à toa, existem hipóteses de extinção do processo ainda que não efetivada a citação (a exemplo da improcedência liminar do pedido). Não haveria como extinguir o processo se ele não existisse. A citação completa a formação da relação jurídica processual, mas a existência do processo lhe antecede. Sobre a citação não ser pressuposto de existência do processo, leciona Cândido Rangel Dinamarco:
+ ..
+Se já há processo antes da citação, a demanda já estava sendo processada ao tempo da decretação da quebra, o que trai a regra de competência do art. 6º, § 1º, da Lei 11.101/2005.
+Por essas razões, suscito conflito negativo de competência. Remetam-se os autos ao Superior Tribunal de Justiça, com as homenagens de praxe.
+O Ministério Público Federal manifestou-se nos seguintes termos (fl. 102):
+CONFLITO DE COMPETÊNCIA. JUÍZO RECUPERACIONAL E JUÍZO CÍVEL. RECUPERAÇÃO JUDICIAL. AÇÃO DE CONHECIMENTO DE REPETIÇÃO DE INDÉBITO. COMPETÊNCIA DO JUÍZO CÍVEL. ARTIGO 6º, §1º, DA LEI Nº 11.101/2005. TERÁ PROSSEGUIMENTO NO JUÍZO NO QUAL ESTIVER SE PROCESSANDO A AÇÃO QUE DEMANDAR QUANTIA ILÍQUIDA.
+- Parecer pelo conhecimento do conflito, declarando-se a competência do JUÍZO DE DIREITO DA 1A VARA DE SÃO MATEUS - MA, o suscitado.
+É o relatório.
+Decido.
+Seguindo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+Na origem, Fran cisco de Assis Chagas Pinto ajuizou ação de repetição de indébito cumulada com danos morais e pedido de antecipação de tutela contra Banco Cruzeiro do Sul S.A., na comarca de São Mateus - MA.
+O suscitado declinou a competência por entender que o processo deveria prosseguir perante o Juízo falimentar da ré.
+Segundo decidido por esta Corte Superior, as ações que buscam apurar o crédito individual permanecem sendo processadas nos juízos em que iniciadas, não sendo atraídas, nessa condição, para o juízo da recuperação.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA - ARREMATAÇÃO - REPASSE DO PRODUTO DA VENDA AO JUÍZO COMPETENTE. PRECEDENTES.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente conflito de competência, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. É iterativo o entendimento do STJ, no sentido de que "compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento." (ut. CC 155.496/RJ, Rel. Min. Marco Aurélio Bellizze, DJe de 06/04/2020) Precedentes.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no CC n. 168.556/PR, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 28/9/2021, DJe de 1/10/2021.)
+AGRAVO INTERNO NO PEDIDO DE RECONSIDERAÇÃO NO CONFLITO DE COMPETÊNCIA. CONFLITO POSITIVO. SOCIEDADE CUJOS BENS ESTÃO SOB CONSTRIÇÃO DO JUÍZO FALIMENTAR. MEDIDAS DE CONSTRIÇÃO DETERMINADAS, TAMBÉM, PELO JUÍZO TRABALHISTA, DE BENS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. SUSTAÇÃO QUE SE IMPÕE. ARREMATAÇÃO DE IMÓVEL DE TITULARIDADE DA SUSCITANTE. DECISÃO DE EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO E DO MANDADO DE IMISSÃO DE POSSE POSTERIOR AO JULGADO QUE SUBMETEU A EMPRESA REQUERENTE A PROCESSO FALIMENTAR, BEM COMO POSTERIOR À DATA DE PROPOSITURA DO RESPECTIVO INCIDENTE. POSSIBILIDADE DE DESCONSTITUIÇÃO. CONFLITO CONHECIDO, COM DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR. QUESTÕES LEVANTADAS APENAS NO AGRAVO INTERNO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É iterativo o entendimento do STJ, no sentido de que compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento. Precedentes.
+2. Há que se deixar assente, ainda, que, a despeito de o art. 49 da Lei n. 11.101/2005 assegurar que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", deve ser garantido o direito de preferência do crédito nascido após o pedido de recuperação e, ao mesmo tempo, direcionar o pagamento desses créditos ao Juízo recuperacional que, ciente da não submissão dos referidos valores à recuperação judicial, deverá sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+ ..
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no RCD no CC n. 155.496/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 31/3/2020, DJe de 6/4/2020.)
+Assim, o Juízo da ação de conhecimento tem a competência para apurar o crédito, visando, se for o caso, futura remessa de certidão para habilitação no Juízo da Falência.
+Diante do exposto, CONHEÇO do conflito positivo de competência, a fim de DECLARAR COMPETENTE o JUÍZO DE DIREITO DA 1ª VARA DE SÃO MATEUS - MA para processar e julgar a ação de repetição de indébito cumulada com danos morais e pedido de antecipação de tutela (processo n. 0000505-88.2013.8.10.0128), ressalvada a competência do Juízo fa limentar para receber a certidão do valor líquido futuramente apurado para habilitação para decidir sobre a constrição de bens da falida.
+Publique-se e intimem-se.
+EMENTA
