@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por MARCEL CARVALHO SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Petição Criminal n. 1.0000.25.228446-8/000).
+Consta dos autos que o acusado foi preso em flagrante, em 18/5/2025, pela suposta prática dos delitos previstos no art. 150, § 1º, c/c o art. 331, c/c o art. 138, c/c o art. 140, todos do Código Penal.
+Impetrado habeas corpus perante o Tribunal de origem, da ordem não se conheceu, nos termos do acórdão assim ementado (e-STJ fls. 462/467):
+HABEAS CORPUS - CRIMES VIOLAÇÃO DE DOMICÍLIO E DESACATO (ARTS. 150, § 1º E 331, AMBOS DO CP) - PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA - REITERAÇÃO DO WRIT IMPETRADO ANTERIORMENTE - NÃO CONHECIMENTO - INTELIGÊNCIA DA SÚMULA Nº 53 DESTE TJMG - Nos termos da Súmula nº 53 deste TJMG, "não se conhece de pedido de "habeas corpus" que seja mera reiteração de anterior, já julgado.".
+Nas razões recursais, a defesa alega que "não tinha qualquer ciência da impetração do Habeas Corpus n. 1.0000.25.218872-7/000, protocolado de próprio punho pelo paciente Marcel Carvalho Santos" (e-STJ fl. 6).
+Sustenta que "o mérito do Habeas Corpus impetrado pela defesa não conversa com o Habeas Corpus protocolado de próprio punho pelo paciente Marcel Carvalho Santos, pois naquele as alegações são de nulidade insanável por indeferimento ao paciente do direito de entrevista pessoal" (e-STJ fl. 494).
+Defende que não há motivação concreta para a prisão preventiva do recorrente bem como estão ausentes os requisitos autorizadores da segregação cautelar elencados no art. 312 do Código de Processo Penal.
+Afirma que o acusado possui condições pessoais favoráveis.
+Aduz desproporcionalidade da medida extrema, porquanto o recorrente cumpriria pena de no máximo 4 anos.
+Defende ser possível a substituição da prisão pela medida cautelar de monitoração eletrônica.
+Assim, pugna:
+a) Demonstrada a distinção material entre os fundamentos, não se pode confundir ou reduzir o presente writ a mera repetição de pedido já analisado, razão pela qual não há que se falar na incidência da Súmula 53 do E. TJMG. Impõe-se, portanto, o regular conhecimento das razões ora apresentadas, para que, ao final, seja reconhecida a ilegalidade da prisão preventiva imposta ao paciente, com a consequente concessão da ordem de habeas corpus, em prestígio à liberdade e às garantias constitucionais fundamentais; b) Requer-se, dada a URGÊNCIA DA MATÉRIA AQUI VERSADA, seja dispensado o pedido de informações, com fulcro no § 2º, do artigo 654, do Código de Processo Penal, por estar a presente devidamente instruída, com cópia INTEGRAL do processo; c) Apontada a ofensa à liberdade do PACIENTE ora RECORRENTE, pois, somente ao final, importará em inaceitável e injusta manutenção da violação ao seu status libertatis, o deferimento da imediata revogação da prisão preventiva, REVOGANDO-SE, então a PRISÃO PREVENTIVA IMPINGIDA AO PACIENTE, LIMINARMENTE vez que restam ausentes às hipóteses constantes no "art. 312 do CPP", tendo em vista a coexistência do fumus boni juris e periculum in mora; d) Com fundamento no artigo 5º, inciso LXVIII, da Magna Carta, e nos artigos 647 e seguinte do Código de Processo Penal, requer-se, ao final, no trâmite regular do feito, após ouvida a Autoridade Coatora e douta Procuradoria de Justiça seja concedida em definitivo em favor de MARCEL CARVALHO DOS SANTOS, qualificado no preâmbulo, a presente ordem de Habeas Corpus, para o fim de se determinar a revogação da sua prisão preventiva; e) Alternativamente, caso não seja o entendimento dos Eméritos Ministros, pela revogação da prisão preventiva do paciente, roga-se pela aplicação das medidas cautelares diversas da prisão preventiva, com fulcro na Lei 12.403/2011; f) Registra-se, que o paciente se compromete a respeitar todas a medidas doravante lhe impostas, bem como a comparecer a todos os atos judiciais do processo em tela.
+É o relatório.
+Decido.
+No caso, verifica-se que as teses ventiladas pela defesa não foram debatidas pelo Tribunal de origem no acórdão ora impugnado , o que impede a análise pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
