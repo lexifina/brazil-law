@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  liminar,  impetrado  em  favor  de  PATRICK BENEDITO FELIX DE ALMEIDA,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS,  na  Apelação  Criminal  n.  735984-86.2024.8.07.0003.
+Consta  dos  autos  que  o  paciente  foi  condenado  à  pena de 4 (quatro) anos e 1 (um) mês de reclusão, em regime inicial fechado, além de 17 (dezessete) dias-multa, como incurso no art. 155, § 4º, inciso II, do Código Penal.
+O  Tribunal  de  origem  negou  provimento  ao  recurso  de  apelação  defensivo.
+Neste  writ,  a  impetrante  alega desproporcionalidade na exasperação da pena na primeira fase da dosimetria.
+Sustenta o afastamento da qualificadora prevista no artig o 155, § 4º, II, do Código Penal, tendo em vista a ausência de laudo pericial para comprovar a ocorrência da escalada na prática do crime de furto.
+Requer a concessão da ordem a fim de redimensionar a pena do paciente nos termos delineados na impetração.
+Informações  prestadas  às  fls.  265-268 e 275-310.
+O  Ministério  Público  Federal  opinou  pelo  não  conhecimento  do  writ  (fls.  312-321).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Além disso,
+a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Insta  asseverar que
+ n ão há direito do subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias, como no caso (AgRg no HC n. 820.316/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/06/2023, DJe de 23/06/2023).
+Contudo,  verifico  a  existência  de  ilegalidade  flagrante,  a  ensejar  a  concessão  da  ordem  de  ofício  por  esta  Corte  Superior,  por  força  do  art.  654,  §  2º,  do  Código  de  Processo  Penal.
+No  caso,  o  Tribunal  de  origem  manteve  a  qualificadora da escalada nos  seguintes  termos  (fls.  223-225):
+Em se tratando do furto de cabos de eletricidade, é fato notório que a res furtiva não se encontra em local de fácil acesso, pois, até mesmo por questões de segurança, os cabos elétricos se situam no alto dos postes de luz, sendo inviável a sua subtração sem que haja escalada.
+ ..
+Portanto, diante do objeto do furto e de sua inequívoca localização, é inviável acolher a tese para afastar a qualificadora de escalada.
+Cabe  destacar  que,  embora  a  incidência  das  qualificadoras  previstas  no  art.  155,  §  4.º,  I  e  II,  do  Código  Penal,  dependa,  em  regra,  da  confecção  de  laudo  pericial,  em  situações  excepcionais  é  possível  reconhecê-las,  mesmo  sem  a  produção  da  prova  técnica,  desde  que  devidamente  comprovado  o  rompimento  de  obstáculo  ou  a  escalada.
+Os  julgados  mais  recentes  desta  Corte  -  de  ambas  as  Turmas  que  compõem  a  Terceira  Seção,  frise-se  -  são  no  sentido  de  que,  conquanto  a  prova  técnica  seja  necessária,  excepcionalmente,  se  cabalmente  demonstrado  o  rompimento  de  obstáculo  ou  a  escalada  por  outros  elementos  probatórios,  o  exame  pericial  pode  ser  su prido.
+Nesse  rumo,
+não  se  afirma  que  em  todo  caso  a  perícia  seja  desnecessária,  tampouco  que  quaisquer  elementos  probatórios  sejam  suficientes  para  supri-la,  mas  apenas  que,  em  certas  hipóteses,  se  a  escalada  ou  o  rompimento  de  obstáculo  exsurgem  de  forma  nítida  e  indene  de  dúvidas,  a  condenação  pela  modalidade  qualificada  de  furto  pode  ser  mantida  (AgRg  no  HC  n.  797.935/SC,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  02/10/2023,  DJe  05/10/2023; grifgamos).
+ e xcepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial (AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021) (AgRg no AREsp n. 2.413.205/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023, grifamos).
+Enquadramento (processual) que, todavia, não se coaduna ao caso em apreço - hipótese de distinguishing -, pois, no aresto combatido, não há outros elementos de provas capazes de atestar que o delito foi praticado por meio de escalada, existindo apenas a presunção do julgador.
+Assim, somente nas hipóteses (excepcionais) em que "não houver", ou quando tenham "desaparecidos" os vestígios ou, ainda, quando as "circunstâncias do caso concreto" não mais permitirem sua análise (direta) por expert, tem reputado esta Corte - sob a égide do subjacente sistema da persuasão racional das provas, plasmado no art. 155, caput, do CPP - que outros elementos de convicção (a exemplo da prova testemunhal) podem, indiretamente, suprir-lhe a (justificada) falta.
+No caso, considerando que não se demonstrou o desaparecimento dos vestígios ou eventual excepcionalidade que justificasse a inexistência do exame pericial, a qualificadora da escalada deve ser decotada da dosimetria. Se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal não lhe supre a ausência, nos termos do art. 158 do Código de Processo Penal (AgRg no REsp n. 2.084.122/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023, grifamos).
+Tem-se por impositivo, portanto, o decote da qualificadora da escalada, disposta no art. 155, § 4º, II, do CP.
+Fixadas essas premissas passo a redimensionar a pena do paciente.
+Na  primeira  fase  de  aplicação  da  pena,  fixo  a  pena-base  em 01  (um)  ano  e 09 (nove) meses  de  reclusão  e  12  (doze)  dias-multa.
+Na segunda etapa, incide a agravante da reincidência, motivo pelo qual elevo a pena em 1/ 6 (um sexto), ficando a pena intermediária em 02 (dois) anos e 15 (quinze) dias de reclusão, e 14 (quatorze) dias-multa.
+Na  terceira  fase,  não há causas de aumento ou de diminuição. Assim, a sanção fica concretizada em 02 (dois) anos e 15 (quinze) dias de reclusão, e 14 (quatorze) dias-multa.
+Fica mantido o regime fechado, em razão do quantum de pena fixado, da reincidência e das circunstâncias judiciais valoradas negativamente.
+Ante  o  exposto,  não conheço do habeas corpus, mas concedo parcialmente a ordem, de ofício, para  afastar a incidência da qualificadora prevista no art. 155, § 4º, II, do CP,  e  redimensionar  a  pena  final  do  paciente,  nos  termos  desta  decisão.
+Publique-se.  Intimem-se.
+EMENTA
