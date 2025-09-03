@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o ESTADO DA BAHIA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA assim ementado (fl. 355):
+RECURSO. APELAÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA EM AÇÃO COLETIVA. SERVIDORA PÚBLICA ESTADUAL. CONVERSÃO DE VENCIMENTOS EM URV. LEGITIMIDADE ATIVA. CONSTATAÇÃO. COISA JULGADA COLETIVA ALCANÇA A TODOS OS SERVIDORES INTEGRANTES DA CATEGORIA. IRRELEVÂNCIA ACERCA DA CONDIÇÃO DE AFILIADO. JURISPRUDÊNCIA DO STJ. SENTENÇA ANULADA. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA O REGULAR PROCESSAMENTO. APELAÇÃO PROVIDA.
+I - Resta pacificado no STJ que a coisa julgada proveniente de ação coletiva alcança todos os servidores integrantes da categoria beneficiada, independentemente da condição de afiliados da referida entidade coletiva. Por esse motivo, deve-se reconhecer a legitimidade ativa do apelante para a execução individual de título judicial coletivo, sendo a reforma da sentença medida que se impõe.
+III - Deve-se cassar a sentença e determinar o regular prosseguimento do feito executivo no juízo de piso.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega haver violação do art. 535, II, Código de Processo Civil (CPC) porque, "por força de expressa disposição da sentença coletiva, apenas são beneficiários da decisão os servidores públicos afiliados ao Sindicado dos Trabalhadores em Educação do Estado da Bahia APLB" (fl. 374), sendo que "a parte recorrida não demonstrou ser afiliada à APLB, olvidando-se de comprovar condição essencial ao ajuizamento da execução individual" (fl. 375), não detendo, portanto, legitimidade para propor a execução.
+A parte adversa não apresentou contrarrazões (fl. 378).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A Corte de origem, ao apreciar a controvérsia, adotou a seguinte fundamentação (fls. 350/351):
+A apelante argumenta sua legitimidade ativa a despeito do douto a quo assim ter não reconhecido, sob o fundamento daquela não ser filiada ao Sindicato dos Trabalhadores em Educação do Estado da Bahia - APLB, demandante da ação coletiva nº 0076135- 02.2004.8.05.0001. De logo afasta-se a referida ilegitimidade ativa, haja vista que os efeitos da coisa julgada formada em processo coletivo estendem-se a todos os membros da categoria beneficiada pois, "Nos termos da jurisprudência do STJ, o ente sindical, na qualidade de substituto processual, detém legitimidade para atuar judicialmente na defesa dos interesses coletivos de toda a categoria que representa, sendo prescindível a relação nominal dos filiados e suas respectivas autorizações, nos termos da Súmula 629/STF." (AgInt no RECURSO ESPECIAL Nº 1.602.913 - SC, Relator MINISTRO HERMAN BENJAMIN, Segunda Turma, Data do Julgamento: 10 de novembro de 2016)
+ ..
+Assim, resta pacificado no STJ que a coisa julgada proveniente de ação coletiva alcança todos os servidores integrantes da categoria beneficiada, independentemente da condição de afiliados da referida entidade coletiva.
+Por esse motivo, deve-se reconhecer a legitimidade ativa da apelante para a execução individual de título judicial coletivo, de modo que a reforma da sentença é medida impositiva.
+A parte ora recorrente sustenta a ilegitimidade da parte recorrida para propor a execução, ao argumento de que o título coletivo transitou em julgado com limitação subjetiva de seu alcance (fl. 374), limitação essa que não alcança a parte ora recorrida.
+O art. 535, II, do CPC não foi apreciado pelo Tribunal de origem à luz da tese recursal constante das razões do recurso especial, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do Tribunal de origem sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
