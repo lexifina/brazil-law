@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS).
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE ENTORPECENTES. DOSIMETRIA DA PENA. MAJORAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DA MINORANTE DO TRÁFICO PRIVILEGIADO. BIS IN IDEM NÃO EVIDENCIADO. CONDIÇÃO DE "MULA". INOVAÇÃO RECURSAL. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que denegou a ordem, mantendo a pena fixada pelas instâncias ordinárias, sob o fundamento de que a dosimetria observara os critérios legais e a jurisprudência consolidada do STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a majoração da pena-base ocorreu sem fundamentação concreta, em desrespeito ao art. 93, IX, da CF/1988; e (ii) estabelecer se estariam presentes os requisitos legais para aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, afastada pelas instâncias ordinárias.
+III. RAZÕES DE DECIDIR
+3. A quantidade expressiva de droga apreendida - 528 kg de cocaína -, somada à sua alta nocividade, justifica a majoração da pena-base, nos termos do art. 42 da Lei de Drogas, que confere peso preponderante à natureza e à quantidade da substância.
+4. O modus operandi adotado pelo agravante, que incluiu o uso de aeronave em voo clandestino, tentativa de fuga e desobediência aos comandos da FAB, configura circunstância concreta apta a demonstrar maior reprovabilidade da conduta, legitimando a fixação da pena acima do mínimo legal.
+5. O afastamento da minorante do tráfico privilegiado se fundou em elementos distintos daqueles considerados na primeira fase da dosimetria, como a remuneração expressiva, R$ 148.000,00 (cento e quarenta e oito mil reais), o meticuloso planejamento, a tentativa de forjar álibi e dificultar rastreamento, demonstrando habitualidade delitiva e dedicação à atividade criminosa. Não se constata, portanto, o alegado bis in idem.
+6. A alegação de que o agravante atuaria como mero transportador ("mula") não foi deduzida na petição inicial do habeas corpus, constituindo indevida inovação recursal, nos termos da jurisprudência consolidada desta Corte.
+IV. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por LEANDRO MULLER DE PAULA contra decisão monocrática que denegou a ordem impetrada.
+Em suas razões, o agravante insiste na reforma da dosimetria. Considera desproporcional e desfundamentado o aumento da pena-base, argumentando que "a ausência de delimitação do critério adotado implica nulidade por deficiência de fundamentação, o que, por si só, impõe o provimento da ordem." (344).
+Considera que inexistem elementos aptos a afastar a privilegiadora, pois a quantidade de drogas, isoladamente, não seria fundamento válido, mormente por já ter sido utilizada na primeira fase. Além disso, sustenta estar "comprovado que o caso em apreço se trata da atividade denominada "mula"" (fl. 348)
+Busca o juízo de retratação ou rem essa do feito ao colegiado, "para readequar o quantum da pena, bem como reconhecer a causa de diminuição de pena do artigo 33, §4º, da Lei nº 11.343/06" (fl. 352).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE ENTORPECENTES. DOSIMETRIA DA PENA. MAJORAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DA MINORANTE DO TRÁFICO PRIVILEGIADO. BIS IN IDEM NÃO EVIDENCIADO. CONDIÇÃO DE "MULA". INOVAÇÃO RECURSAL. AGRAVO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que denegou a ordem, mantendo a pena fixada pelas instâncias ordinárias, sob o fundamento de que a dosimetria observara os critérios legais e a jurisprudência consolidada do STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a majoração da pena-base ocorreu sem fundamentação concreta, em desrespeito ao art. 93, IX, da CF/1988; e (ii) estabelecer se estariam presentes os requisitos legais para aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, afastada pelas instâncias ordinárias.
+III. RAZÕES DE DECIDIR
+3. A quantidade expressiva de droga apreendida - 528 kg de cocaína -, somada à sua alta nocividade, justifica a majoração da pena-base, nos termos do art. 42 da Lei de Drogas, que confere peso preponderante à natureza e à quantidade da substância.
+4. O modus operandi adotado pelo agravante, que incluiu o uso de aeronave em voo clandestino, tentativa de fuga e desobediência aos comandos da FAB, configura circunstância concreta apta a demonstrar maior reprovabilidade da conduta, legitimando a fixação da pena acima do mínimo legal.
+5. O afastamento da minorante do tráfico privilegiado se fundou em elementos distintos daqueles considerados na primeira fase da dosimetria, como a remuneração expressiva, R$ 148.000,00 (cento e quarenta e oito mil reais), o meticuloso planejamento, a tentativa de forjar álibi e dificultar rastreamento, demonstrando habitualidade delitiva e dedicação à atividade criminosa. Não se constata, portanto, o alegado bis in idem.
+6. A alegação de que o agravante atuaria como mero transportador ("mula") não foi deduzida na petição inicial do habeas corpus, constituindo indevida inovação recursal, nos termos da jurisprudência consolidada desta Corte.
+IV. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+VOTO
+O agravo regimental deve trazer argumentos novos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão recorrida pelos próprios fundamentos.
+Sobre a controvérsia, assim dispôs a decisão combatida (fls. 32-33):
+Ao reformar a dosimetria, o Tribunal de origem destacou a quantidade apreendida de cocaína - 528kg - e sua nocividade, tendo em vista que os danos "são muito maiores que os danos causados por outras substâncias entorpecentes, como a maconha ou o lança-perfume." Também apontou como circunstâncias negativas a logística e o meticuloso planejamento envolvidos, além do comportamento do piloto que, em voo clandestino, "desobedeceu aos comandos da FAB e empreendeu fuga, realizando pouso forçado, atitude que compromete severamente Não só a segurança do espaço aéreo brasileiro, mas também de terceiros que poderiam ser atingidos pelo pouso em local inapropriado".
+"A teor do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado." (AgRg no HC n. 905.164/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em , D Je de 20/6/2024).
+Para além disso, a utilização de aeronave em voo clandestino e a tentativa de fuga, descumprindo ordens da FAB, comprometendo a segurança do espaço aéreo brasileiro e expondo terceiros a risco, são circunstâncias que demonstram a especial gravidade da conduta, justificando o aumento da basilar.
+Quanto ao reconhecimento da minorante, melhor sorte não assiste ao paciente.
+No caso, a privilegiadora foi afastada tendo em vista todo um conjunto de fatores que indicariam que "a contribuição do apelante para a logística de distribuição do narcotráfico internacional não se deu de forma ocasional". Além do "expressivo investimento financeiro por parte da organização criminosa adjacente", consubstanciado na enorme quantidade apreendida de cocaína (528kg) e na remuneração acertada (R$ 148.000,00), o Tribunal também destacou a tentativa de se "forjar um álibi acaso fosse preso, bem como dificultar seu rastreamento terrestre acaso a trama delituosa viesse a ser desvelada pela polícia".
+Vê-se, portanto, que tais fatores não se confundem com as circunstâncias mais gravosas apontadas na primeira fase da dosimetria, não havendo falar em bis in idem.
+Deste modo, "Não é hipótese de revisão do quantum de aumento. Não constatada evidente desproporcionalidade entre o delito e a pena imposta, deve-se respeitar o arbítrio do julgador, a quem a lei confere certo grau de discricionariedade regrada, uma vez que não existe critério puramente objetivo para a dosimetria. Neste sentido: AgRg no HC n. 706.140/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em , D Je de .29/3/2022 6/4/2022.
+Ante o exposto, denego o habeas corpus.
+Não vislumbro motivo para conclusão diversa.
+Como se vê, na primeira fase, foram negativamente valoradas a quantidade e natureza da droga apreendida (528kg de cocaína), os elaborados arranjos feitos para movimentar a droga ("foi utilizada uma aeronave para a traficância, além de uma caminhonete com pessoas para resgatá-lo na mata" - fl. 331), e o comportamento do piloto - que não apenas estava em voo clandestino, como tentou evadir-se, desobedecendo comandos da FAB e colocando em risco o patrimônio e a vida dele e de terceiros.
+Na terceira etapa, foi destacado o investimento que a organização criminosa despendeu com o agravante, especialmente, diante da alta remuneração despendida aliada à quantidade de drogas, assim como a tentativa de se forjar um álibi e dificultar seu rastreamento terrestre. Fatores, que, repita-se: "não se confundem com as circunstâncias mais gravosas apontadas na primeira fase da dosimetria, não havendo falar em bis in idem".
+Por fim, quanto à alegada condição de mula do tráfico não será conhecida, porquanto não deduzida oportunamente na inicial, tratando-se de indevida inovação recursal.
+Conforme jurisprudência desta Corte Superior, "é vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso, inovando questões não suscitadas anteriormente" (AgRg no REsp n. 1.592.657/AM, relator Ministro Felix Fischer, Quinta Turma, DJe de 21/9/2016).
+Ante o exposto, conheço em parte do agravo e, nessa extensão, nego-lhe provimento .
+É o voto.
