@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Carlos Cini Marchionatti (Desembargador Convocado TJRS) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Execução penal. Agravo regimental no habeas corpus. Falta grave. ATRASO NO retorno de saída temporária. RECURSO improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegou constrangimento ilegal decorrente do reconhecimento de falta grave pelo atraso no retorno da saída temporária.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o atraso no retorno da saída temporária configura falta grave.
+III. Razões de decidir
+3. O atraso no retorno da saída temporária constitui falta grave, conforme entendimento consolidado desta Corte.
+4. A análise da ocorrência ou não da infração disciplinar e dos motivos que a justificariam demanda incursão na seara fático-probatória, incabível na via do habeas corpus.
+IV. Dispositivo e tese
+5. Agravo regimental improvido.
+Tese de julgamento: "1. O atraso no retorno da saída temporária configura falta grave. 2. A análise de justificativas para o não retorno demanda incursão na seara fático-probatória, inviável na via do habeas corpus".
+Dispositivos relevantes citados: LEP, art. 50, VI; LEP, art. 39, V.
+Jurisprudência relevante citada: STJ, RCD no HC n. 904.065/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024; STJ, AgRg no HC n. 739.994/RS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023; STJ, HC n. 390.313/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 6/11/2017; STJ, AgRg no HC n. 851.919/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023; STJ, AgRg no HC n. 748.272/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023; STJ, AgRg no HC n. 792.645/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto CLEBER ALBERTO SANTOS DA ROSA contra a decisão que não conheceu do habeas corpus.
+Nas razões recursais, o agravante sustenta a inexistência de falta grave, uma vez que "foi recapturado no mesmo dia horas depois do suposto prazo (não dando condições de retornar no mesmo dia a Colônia Penal). Sem mandado de prisão, pois este foi produzido no dia posterior (anexo) e não houve flagrante, pois foi preso em endereço que ele mesmo declarou e pela Policia Civil." (e-STJ, fl. 112).
+Requer, ao final, a submissão do feito à análise deste Órgão Colegiado, para que seja afastada a falta grave e alterado o regime para o aberto, considerando o tempo cumprido em regime mais gravoso.
+É o relatório.
+EMENTA
+Execução penal. Agravo regimental no habeas corpus. Falta grave. ATRASO NO retorno de saída temporária. RECURSO improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegou constrangimento ilegal decorrente do reconhecimento de falta grave pelo atraso no retorno da saída temporária.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o atraso no retorno da saída temporária configura falta grave.
+III. Razões de decidir
+3. O atraso no retorno da saída temporária constitui falta grave, conforme entendimento consolidado desta Corte.
+4. A análise da ocorrência ou não da infração disciplinar e dos motivos que a justificariam demanda incursão na seara fático-probatória, incabível na via do habeas corpus.
+IV. Dispositivo e tese
+5. Agravo regimental improvido.
+Tese de julgamento: "1. O atraso no retorno da saída temporária configura falta grave. 2. A análise de justificativas para o não retorno demanda incursão na seara fático-probatória, inviável na via do habeas corpus".
+Dispositivos relevantes citados: LEP, art. 50, VI; LEP, art. 39, V.
+Jurisprudência relevante citada: STJ, RCD no HC n. 904.065/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024; STJ, AgRg no HC n. 739.994/RS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023; STJ, HC n. 390.313/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 6/11/2017; STJ, AgRg no HC n. 851.919/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023; STJ, AgRg no HC n. 748.272/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023; STJ, AgRg no HC n. 792.645/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023.
+VOTO
+A irresignação não merece prosperar.
+Na origem, o Tribunal Estadual manteve a homologação da falta grave considerando o seguinte:
+"Colhe-se da decisão agravada (doc. 5, fl. 1):
+Consta dos autos que, durante o cumprimento da pena no regime semiaberto, o sentenciado supostamente praticou conduta definida como falta grave, tendo em vista que não retornou da saída temporária na data prevista (08/10/2024), foi recapturado posteriormente em 08/10/2024, em razão do cumprimento de mandado de prisão.
+Ouvido na audiência de justificação, o apenado afirmou que não retornou da saída temporária porque na noite anterior de sua prisão tomou medicamentos e dormiu até o momento em que foi preso pela polícia civil.
+Contudo, tal justificativa não pode ser acolhida, posto que o apenado não fez nenhum tipo de prova neste sentido.
+Conforme sintetizado no decisum e confirmado pela mídia da audiência de justificação (autos do SEEU, seq. 399.2), não há dúvidas de que o reeducando deixou de se apresentar no horário determinado para o retorno da saída temporária, uma vez que, além de ter voltado ao ergástulo por ter sido preso, também admitiu este fato ao ser ouvido em juízo.
+Com efeito, em que pese a discordância defensiva, tal conduta, segundo a jurisprudência do Superior Tribunal de Justiça, caracteriza falta grave. Veja-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. NÃO RETORNO DE SAÍDA TEMPORÁRIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Em consonância com o entendimento desta Corte Superior, o cometimento de falta grave pelo apenado: a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; b) autoriza a regressão de regime; e c) a perda de até 1/3 dos dias remidos. 2. Nos termos da jurisprudência desta Corte, o atraso no retorno da saída temporária configura falta grave (art. 50, VI, c/c o art. 39, V, da LEP). 3. Agravo regimental improvido. (STJ, AgRg no HC n. 770.314/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, D Je de 31/5/2023 - grifei).
+Também, desta Corte, inclusive em caso de retorno voluntário:
+AGRAVO EM EXECUÇÃO PENAL. FALTA GRAVE. HIPÓTESE DE "FUGA" (ART. 50, INC. II, DA LEI DE EXECUÇÃO PENAL). SAÍDA TEMPORÁRIA. RETORNO EXTEMPORÂNEO AO ESTABELECIMENTO PRISIONAL. JUSTIFICATIVA NÃO ACOLHIDA EM PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. HOMOLOGAÇÃO JUDICIAL INSURGÊNCIA DO INCIDENTADO. REEDUCANDO ASSISTIDO POR DEFENSOR PÚBLICO NAS DUAS ETAPAS. RESPEITADOS O CONTRADITÓRIO E A AMPLA DEFESA. CONTROLE DE LEGALIDADE EXERCIDO CORRETAMENTE PELO JUÍZO DE ORIGEM. VÍCIOS NÃO DETECTADOS. PLEITO SUBSIDIÁRIO. EXCLUSÃO OU REDUÇÃO DA PERDA DOS DIAS REMIDOS. PROVIMENTO QUE DEIXOU DE APLICAR A REVOGAÇÃO DE DIAS REMIDOS POR AUSÊNCIA DE REGISTRO NO PRONTUÁRIO DO APENADO. FALTA DE INTERESSE RECURSAL NO PONTO. NÃO CONHECIMENTO. DECISÃO PRESERVADA POR SEUS FUNDAMENTOS. 1. Para o Superior Tribunal de Justiça, "o atraso sem justificativa no retorno da saída temporária configura falta grave consistente em fuga do estabelecimento prisional, nos moldes do art. 50, II, da Lei n. 7.210/1984" (HC 175.254/RS, Rel. Min. Sebastião Reis Júnior, Sexta Turma, j. em 18-10-2011). 2. Não obstante o atraso na reapresentação do reeducando após usufruir de saída temporária tenha sido de 2 dia apenas, a legislação de regência não prevê prazo de tolerância, razão pela qual a justificativa ofertada deve ser plausível e comprovada. 3. O simples comparecimento voluntário não tem o condão de elidir a falta grave e suas consequências, sobretudo quando a justificativa apresentada não constitui circunstância excepcional, mas sim mero desajuste com a terapêutica penal. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO. (TJSC, Agravo de Execução Penal n. 5074971-55.2020.8.24.0023, do Tribunal de Justiça de Santa Catarina, rel. Alexandre d"Ivanenko, Quarta Câmara Criminal, j. 11-03-2021 - grifei).
+Logo, por não ter sido justificado o retorno extemporâneo ao ergástulo, inviável o afastamento da falta grave ou a desclassificação da conduta para falta média, uma vez que o fato pode caracterizar tanto a falta grave de fuga (LEP, art. 50, II) como a falta grave de desobedecer as ordens recebidas (LEP, art. 50, VI, c/c art. 39, V)." (e-STJ, fl. 15).
+Da leitura do trecho acima transcrito, depreende-se que o Tribunal de origem, de forma fundamentada, constatou a prática da falta disciplinar de natureza grave pelo apenado, relativamente ao atraso no retorno da saída temporária, estando, portanto, em consonância com a jurisprudência desta Corte Superior de Justiça:
+"PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. SAÍDA TEMPORÁRIA. ATRASO NO RETORNO. FALTA GRAVE. PEDIDO DE TRANSFERÊNCIA PARA CUMPRIMENTO DE PENA PRÓXIMO AO MEIO SOCIAL E FAMILIAR. AUSÊNCIA DE DIREITO ABSOLUTO DO RÉU. DECISÃO FUNDAMENTADA. TRANSFERÊNCIA TAMBÉM CONDICIONADA À EXISTÊNCIA DE VAGA NO LOCAL DE DESTINO. INTERESSE PÚBLICO.
+1. Em face do princípio da fungibilidade recursal, recebo o pedido de reconsideração como agravo regimental.
+2. Na hipótese, o agravante foi beneficiado com a saída temporária em 22/12/2023, passou as festividades de final de ano com sua família no Estado de Pernambuco, e não retornou ao final do prazo para cumprimento da pena em Avaré - SP, tendo o Juízo das execuções sustado cautelarmente o regime semiaberto e determinado a expedição de mandado de prisão.
+3. Configura falta grave o atraso no retorno da saída temporária, consoante previsão do art. 50, VI, c/c o art. 39, V, da LEP e, " E m consonância com o entendimento desta Corte Superior, o cometimento de falta grave pelo apenado: a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; b) autoriza a regressão de regime; e c) a perda de até 1/3 dos dias remidos". (AgRg no HC n. 770.314/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023).
+4. Nos termos da jurisprudência desta Corte Superior, a transferência do detento, de modo a cumprir pena em localidade próxima de seu meio social/familiar, além de pressupor vaga no local de destino, não se trata de direito absoluto, podendo o pleito ser indeferido pelas instâncias locais a partir de fundamentação idônea.
+No caso, tem-se que o pedido, embora posto junto às instâncias pretéritas, ainda não foi apreciado, de modo que não se observa constrangimento ilegal. Precedentes.
+5. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento."
+(RCD no HC n. 904.065/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REEDUCANDO QUE NÃO RETORNOU DA SAÍDA TEMPORÁRIA NA DATA APRAZADA. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. AGRAVO DESPROVIDO.
+1. O atraso no retorno da saída temporária configura falta grave consistente na execução das ordens recebidas (art. 50, da LEP).
+2. Tendo as instâncias ordinárias concluído, de modo fundamentado e com base em elementos concretos, que restou configurada a falta disciplinar de natureza grave, rever esse entendimento a fim de afastar a falta grave ou desclassificar a conduta para infração de natureza média ou leve demandaria incursão na seara fático-probatória, inviável na estreita via do habeas corpus.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 894.560/SC, de minha relatoria, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. NÃO RETORNO DE SAÍDA TEMPORÁRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, o atraso no retorno da saída temporária configura falta grave consistente na não execução das ordens recebidas (art. 50, VI, c/c o art. 39, V, da LEP). (HC n. 390.313/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 24/10/2017, DJe de 6/11/2017.)
+2. Agravo regimental improvido."
+(AgRg no HC n. 739.994/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+"HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. INOBSERVÂNCIA DO HORÁRIO ESTABELECIDO PARA RETORNO À UNIDADE PRISIONAL. FALTA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. ALEGAÇÃO DE NULIDADE. CERCEAMENTO DE DEFESA NÃO EVIDENCIADO. AUDIÊNCIA DO SENTENCIADO EM JUÍZO. PRESCINDIBILIDADE. OITIVA REALIZADA DURANTE O PAD COM A PRESENÇA DE DEFESA TÉCNICA. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. ORDEM DENEGADA.
+1. Não há falar em nulidade do processo administrativo disciplinar por contrariedade aos postulados do contraditório e da ampla defesa se restaram observadas as formalidades legais, com o acompanhamento do sentenciado por assistente jurídico, o qual, inclusive, participou da audiência.
+2. Necessidade de comprovação do prejuízo processual arguido para que constatado o alegado constrangimento ilegal.
+3. Pacificou a jurisprudência desta Corte ser desnecessária nova oitiva do condenado em juízo, se já realizada, com a presença de defesa técnica, durante o procedimento administrativo que apurou a falta disciplinar. Precedentes.
+4. Se as instâncias ordinárias concluíram fundamentadamente com base na lei de regência que os atos praticados configuram falta grave, a desclassificação para falta média ou leve ou o reconhecimento de sua atipicidade demandaria profunda incursão na seara fático-probatória, insuscetível de ser realizada na via estreita do writ.
+5. O atraso no retorno da saída temporária configura falta grave consistente na execução das ordens recebidas (art. 50, VI, c.c art. 39, V, da LEP).
+6. Ordem denegada."
+(HC n. 390.313/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 24/10/2017, DJe de 6/11/2017.)
+Cabe ressaltar que não se coaduna com a via estreita do habeas corpus o exame da tese de que não ocorreu a prática de falta grave, dada a necessidade, na espécie, de incursão na seara fático-probatória, incabível nesta sede.
+Do mesmo modo, a análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, também demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+Sobre o tema, confiram-se os precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESOBEDIÊNCIA. OITIVA JUDICIAL DO APENADO DO REGIME FECHADO. DESNECESSIDADE. PLEITO DE DESCLASSIFICAÇÃO PARA FALTA MÉDIA. REEXAME DE PROVAS. AGRAVO DESPROVIDO.
+1. Não se verifica ilegalidade na aplicação da falta grave, apurada por meio de processo administrativo disciplinar, com a individualização da conduta do reeducando, desobediência, enquadrada nos artigos 39, II e V e 50, VI, todos da Lei de Execução Penal.
+2. "A jurisprudência desta Corte tem se posicionado pela prescindibilidade da realização da audiência de justificação para homologação de falta grave, desde que a apuração da falta disciplinar tenha se dado em regular procedimento administrativo, no qual tenha sido assegurado ao apenado o contraditório e a ampla defesa" (AgRg no HC n. 533.904/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 28/10/2019).
+3. Na homologação da falta grave, não se exige nova ouvida judicial do condenado, quando a infração disciplinar foi devidamente apurada em procedimento administrativo no qual observados os postulados da ampla defesa e do contraditório, como na hipótese em apreço.
+4. A análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+5. Agravo regimental não provido."
+(AgRg no HC n. 851.919/SP, de minha relatoria, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. DESOBEDIÊNCIA. INEXIGIBILIDADE DE CONDUTA DIVERSA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA FALTA MÉDIA OU LEVE. REVOLVIMENTO DE PROVAS. VIA INADEQUADA. PERDA DOS DIAS REMIDOS. LIMITAÇÃO A 1 (UM DIA). DECISÃO DE 1º GRAU QUE NADA MENCIONA A RESPEITO DO TEMA. AUSÊNCIA DE INTERESSE DE AGIR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam que o reeducando violou os arts. 50, inc. VI, c/c o art. 39, inc. II, ambos da Lei de Execução Penal, cometendo ato de indisciplina quando desobedeceu ordem do agente penitenciário, na Unidade Prisional, ao se recusar a entrar no pavilhão.
+2. Revisar os elementos de prova para concluir pela atipicidade ou pela desclassificação da falta grave exigiria o revolvimento do contexto fático-probatório, procedimento incompatível com a estreita via do habeas corpus, na qual não se admite dilação probatória.
+3. Não há interesse de agir no que diz respeito à alegação defensiva quanto à perda dos dias remidos, não determinada pela Jurisdição Estadual.
+4. Agravo regimental a que se nega provimento."
+(AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE (POSSE DE APARELHO CELULAR E DESOBEDIÊNCIA). ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+3. Não há nenhuma ilegalidade na tipificação da conduta praticada pelo paciente como falta grave, notadamente porque, conforme assentado no procedimento administrativo disciplinar, o depoimento dos agentes penitenciários foi coeso a respeito do ato de indisciplina do ora paciente que, visto portando aparelho celular, recusou-se a entregá-lo aos servidores da penitenciária, quando solicitado a tanto, saindo rapidamente do local em direção ao pátio.
+4. A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave  .. . A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral. (HC 391.170/SP, Relator Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).
+5. Não há nada nos autos que corrobore o argumento defensivo de que não há provas suficientes para a condenação do paciente.
+6. Ainda que assim não fosse, a jurisprudência desta Corte tem-se orientado no sentido de que a eventual análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+7. Agravo regimental desprovido."
+(AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+Nesse contexto, não se vislumbra flagrante ilegalidade a ensejar a concessão da ordem, de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
