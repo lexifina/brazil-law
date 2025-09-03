@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão proferido pela Segunda Turma desta Corte, assim ementado (fl. 816):
+PROCESSO CIVIL. ENUNCIADO ADMINISTRATIVO 2/2016. AÇÃO RESCISÓRIA. PEDIDO PROCEDENTE. JULGAMENTO NÃO UNÂNIME. AUSÊNCIA DE INTERPOSIÇÃO DE EMBARGOS INFRINGENTES. NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DO ART. 530 DO CPC/1973; E DA SÚMULA 207/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO DESPROVIDO.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2/2016 desta Corte).
+2. Nos termos do art. 530 do CPC/1973: "Cabem embargos infringentes quando o acórdão não unânime houver reformado, em grau de apelação, a sentença de mérito, ou houver julgado procedente ação rescisória. Se o desacordo for parcial, os embargos serão restritos à matéria objeto da divergência."
+3. A Súmula 207 desta Corte, por sua vez, dispõe que: "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem."
+4. No caso, o Tribunal de origem julgou, por maioria, procedente a ação rescisória para arbitrar por equidade os honorários advocatícios em desfavor da Fazenda Pública Estadual. Assim, caberia à ora recorrente interpor os necessários embargos infringentes a fim de exaurir as instâncias ordinárias e viabilizar o conhecimento do presente recurso especial, providência da qual não se desincumbiu.
+5. Agravo interno desprovido.
+O recorrente, em suas razões, alega divergência em relação ao entendimento da Corte Especial, da Primeira, Segunda, Terceira, Quarta e Sexta Turmas. Para tanto, indica como paradigmas os acórdãos do Tema Repetitivo 1.076/STJ ( REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.618/SP, REsp 1.906.623/SP), do AgInt no REsp 1.814.371/SP, do AgInt no AREsp 2.635.379/SP, do REsp 1.708.238/SP, do AgRg no REsp 1.280.602/SP, do AgInt no REsp 1.931.953/PR e do AgRg no HC 801.775/SP.
+Cinge-se a alegada divergência à possibilidade de apreciação equitativa de honorários advocatícios em condenação da Fazenda Pública, nos termos do Tema Repetitivo 1.076/STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos e, sobretudo, do julgado trazido nas razões do recurso, observo que os embargos de divergência não reúnem condições de serem conhecidos, pois não atendem à estrita hipótese de cabimento do art. 1.043, III, do Código de Processo Civil.
+O recurso especial interposto pela parte nem sequer foi conhecido, por incidência da Súmula 207/STJ: "é inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem". A parte deixou de interpor embargos infringentes contra o acórdão não unânime que julgou procedente o pedido da ação rescisória para reduzir a verba honorária.
+O entendimento desta Corte, contudo, é de que "(..) não cabem embargos de divergência com a finalidade de discutir eventu al equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais" (AgInt nos EAREsp n. 1.924.581/MG, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023).
+O art. 1.043, III, do CPC prevê o cabimento de embargos de divergência, ainda que um dos acórdãos não tenha sido conhecido, mas desde que tenha apreciado a controvérsia. No caso em julgamento, o acórdão embargado não analisou o mérito do recurso e, muito menos, a controvérsia nele versada. Os embargos de divergência não servem para alterar ou reavaliar os critérios de conhecimento do recurso, passando-se ao mérito do recurso :
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O art. 1.043, III, do CPC estabelece caberem embargos de divergência quando um acórdão é de mérito e o outro não. Exige, contudo, que, neste último, tenha sido apreciada a controvérsia. No caso em julgamento, o acórdão embargado não conheceu do recurso especial, em razão do óbice da Súmula 7/STJ. Não houve apreciação da controvérsia propriamente dita; e nem do mérito recursal.
+2. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para ex trair conclusão diversa a respeito da incidência de óbices.
+3. Na aplicação do art. 1.022 do CPC, a constatação de ter, ou não, havido omissão ou deficiência na fundamentação do acórdão proferido na origem, em regra, demanda o exame das peculiaridades de cada caso concreto, não existindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+4. Agravo interno ao qual se nega provimento.
+(AgInt nos EAREsp n. 2.526.154/RS, de minha relatoria , Corte Especial, julgado em 18/6/2025, DJEN de 26/6/2025.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL.
+ACÓRDÃO EMBARGADO QUE NÃO JULGA O MÉRITO DA CONTROVÉRSIA. CORRETA INCIDÊNCIA DA SÚMULA 315/STJ.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ (AgInt nos EDcl nos EDv nos EREsp 1615774/MG, Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+2. Agravo regimental desprovido.
+(AgRg nos EDcl nos EDv nos EDcl no AREsp n. 2.203.366/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+Portanto, incide o óbice da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Em face do exp osto, indefiro liminarmente os embargos de divergência.
+Intimem-se.
+EMENTA
