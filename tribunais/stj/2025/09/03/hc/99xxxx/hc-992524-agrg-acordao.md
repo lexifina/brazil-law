@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. RAZÕES DA DECISÃO NÃO INFIRMADAS NO RECURSO INTERPOSTO. TERCEIRA FASE DA DOSIMETRIA. REDUÇÃO DO PATAMAR DE AUMENTO. INOVAÇÃO RECURSAL. AGRAVO NÃO CONHECIDO.
+1. A ordem foi denegada porque os elementos descritos pelas instâncias ordinárias para exasperar a pena-base (prática de violência física contra as vítimas, que já estavam subjugadas, além dos traumas físicos e psicológicos que suportaram) são idôneas, nos termos da jurisprudência desta Corte Superior, para valorar negativamente as circunstâncias e as consequências do crime.
+2. Além disso, destacou-se que a possibilidade de compensação integral da atenuante da confissão com a agravante da reincidência não foi previamente debatida pelo Tribunal a quo, por ausência de provocação no apelo defensivo, o que inviabiliza o exame da matéria por configurar supressão de instância.
+3. De toda forma, o decisum explicitou não haver flagrante ilegalidade na motivação exarada na sentença - que ressaltou a presença de duas agravantes e compensou uma delas com a circunstância atenuante -, por estar em consonância com o posicionamento consolidado na jurisprudência do STJ.
+4. Todavia, o agravante deixou de rebater a afirmação de que tanto a sentença quanto o acórdão combatidos decidiram na linha dos julgados deste Tribunal Superior. De fato, a defesa nem sequer colacionou precedentes em sentido contrário para justificar sua irresignação.
+5. A ausência de impugnação das razões da decisão agravada impede, nos termos da jurisprudência desta Corte Superior, o conhecimento do agravo interposto.
+6. A matéria relacionada à fração de aumento da pena, na terceira fase da dosimetria, não foi veiculada na inicial do habeas corpus e configurar, por isso mesmo, indevida inovação recursal, o que obsta seu conhecimento. Precedente.
+7. Agravo regimental não conhecido.
+RELATÓRIO
+JAQUELINE GONCALVES SIQUEIRA agrava de decisão em que deneguei o habeas corpus.
+No regimental, a defesa reitera a alegação de equívocos na dosimetria da pena, assim resumidos: a) "as instâncias ordinárias valoraram negativamente, simultaneamente, a culpabilidade, as circunstâncias e as consequências do crime com base nos mesmos elementos fáticos já utilizados para o aumento da pena na terceira fase (uso de arma de fogo, violência exacerbada, concurso de agentes, restrição da liberdade)" (fl. 1.356), o que configuraria indevido bis in idem; b) "a fração de 1/2 (metade)  na terceira fase da dosimetria  foi aplicada de forma genérica, sem individualização das causas de aumento nem fundamentação adequada quanto à gravidade concreta dos elementos" (fl. 1.356); c) "a compensação parcial da confissão com uma das agravantes ignorou a natureza preponderante da atenuante, conforme previsão legal expressa e consolidada jurisprudência desta Corte" (fl. 1.357).
+Postula a reconsideração da decisão combatida ou a submissão do feito ao órgão colegiado, para que conceda o habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. RAZÕES DA DECISÃO NÃO INFIRMADAS NO RECURSO INTERPOSTO. TERCEIRA FASE DA DOSIMETRIA. REDUÇÃO DO PATAMAR DE AUMENTO. INOVAÇÃO RECURSAL. AGRAVO NÃO CONHECIDO.
+1. A ordem foi denegada porque os elementos descritos pelas instâncias ordinárias para exasperar a pena-base (prática de violência física contra as vítimas, que já estavam subjugadas, além dos traumas físicos e psicológicos que suportaram) são idôneas, nos termos da jurisprudência desta Corte Superior, para valorar negativamente as circunstâncias e as consequências do crime.
+2. Além disso, destacou-se que a possibilidade de compensação integral da atenuante da confissão com a agravante da reincidência não foi previamente debatida pelo Tribunal a quo, por ausência de provocação no apelo defensivo, o que inviabiliza o exame da matéria por configurar supressão de instância.
+3. De toda forma, o decisum explicitou não haver flagrante ilegalidade na motivação exarada na sentença - que ressaltou a presença de duas agravantes e compensou uma delas com a circunstância atenuante -, por estar em consonância com o posicionamento consolidado na jurisprudência do STJ.
+4. Todavia, o agravante deixou de rebater a afirmação de que tanto a sentença quanto o acórdão combatidos decidiram na linha dos julgados deste Tribunal Superior. De fato, a defesa nem sequer colacionou precedentes em sentido contrário para justificar sua irresignação.
+5. A ausência de impugnação das razões da decisão agravada impede, nos termos da jurisprudência desta Corte Superior, o conhecimento do agravo interposto.
+6. A matéria relacionada à fração de aumento da pena, na terceira fase da dosimetria, não foi veiculada na inicial do habeas corpus e configurar, por isso mesmo, indevida inovação recursal, o que obsta seu conhecimento. Precedente.
+7. Agravo regimental não conhecido.
+VOTO
+De plano, observo que os motivos exarados na decisão recorrida não foram devidamente combatidos no agravo regimental.
+Com efeito, a ordem foi denegada porque os elementos descritos pelas instâncias ordinárias para exasperar a pena-base (prática de violência física contra as vítimas, que já estavam subjugadas, além dos traumas físicos e psicológicos que suportaram) são idôneas, nos termos da jurisprudência desta Corte Superior, para valorar negativamente as circunstâncias e as consequências do crime.
+Além disso, destacou-se que a possibilidade de compensação integral da atenuante da confissão com a agravante da reincidência não foi previamente debatida pelo Tribunal a quo, por ausência de provocação no apelo defensivo, o que inviabiliza o exame da matéria por configurar supressão de instância. De toda forma, o decisum explicitou não haver flagrante ilegalidade na motivação exarada na sentença - que ressaltou a presença de duas agravantes e compensou uma delas com a circunstância atenuante -, por estar em consonância com o posicionamento consolidado na jurisprudência do STJ.
+Todavia, neste recurso, o agravante deixou de rebater a afirmação de que tanto a sentença quanto o acórdão combatidos decidiram na linha dos julgados deste Tribunal Superior. De fato, a defesa nem sequer colacionou precedentes em sentido contrário para justificar sua irresignação.
+Fica inviabilizado, dessa forma, o exame do pleito. Nesse sentido:
+ ..
+1. O princípio da dialeticidade impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada. No caso, a Agravante não impugnou especificamente os fundamentos da decisão agravada, sem demonstrar o desacerto do decidido monocraticamente, com elementos de fato e razões de direito, na medida da decisão ora impugnada e, assim, impõe-se o não conhecimento do recurso.
+ ..
+4. Agravo regimental não conhecido.
+(AgRg no HC n. 522.303/MS, Rel. Ministra Laurita Vaz, 6ª T., DJe 1º/3/2021, grifei)
+Por fim, observo que a matéria relacionada à fração de aumento da pena, na terceira fase da dosimetria, não foi veiculada na inicial do habeas corpus e configurar, por isso mesmo, indevida inovação recursal, o que obsta seu conhecimento. A propósito:
+ ..  3. Não se admite inovação recursal em agravo regimental, sendo inviável a análise de tese jurídica não suscitada oportunamente na petição inicial do habeas corpus. Dispositivos relevantes citados: CPP, art. 244. Jurisprudência relevante citada: STJ, RHC n. 158.580/BA, Rel. Min. Rogerio Schietti Cruz, DJe 25.04.2022; STJ, AgRg no HC n. 967.107/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 12.03.2025, DJEN 19.03.2025.
+(AgRg no HC n. 947.046/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025.)
+À vista do exposto, não conheço do agravo regimental.
