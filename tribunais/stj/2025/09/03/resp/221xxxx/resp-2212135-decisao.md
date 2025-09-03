@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de recurso especial no qual se discute se a eficácia preclusiva da coisa julgada impede o ajuizamento de nova ação para pleitear a restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas bancárias declaradas ilegais ou abusivas em ação anterior.
+A questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema n. 1.268), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+Cito a questão submetida a julgamento: "Definir se a declaração de ilegalidade ou abusividade de tarifas e encargos em demanda anterior impede, sob a ótica da coisa julgada, o ajuizamento de nova demanda para requerer a repetição de juros remuneratórios não pleiteados na ação precedente."
+Logo, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que versam sobre a mesma controvérsia devem retornar à origem, dando ensejo à aplicação uniforme da tese vinculante.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Tema n. 1.268 pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Advirto às partes que, na esteira da jurisprudência desta Corte, a presente decisão possui recorribilidade limitada à demonstração da distinção, na forma do art. 1.037, §§ 9º e 10, inciso IV, do CPC, uma vez que não se conhecerá do agravo interno ou do pedido de reconsideração que pretender o julgamento deste recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
