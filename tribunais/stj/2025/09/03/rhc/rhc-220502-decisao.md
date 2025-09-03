@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por SÉRGIO DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, em 16/32020, o Juízo da execução reconheceu a prática de falta grave pelo recorrente, declarando a perda de 1/6 do tempo remido e determinando "o reinicio da contagem do prazo de cumprimento de pena para fins de progressão de regime a partir da data da última infração (08/12/2017)" (fls. 65-67).
+Impetrado habeas corpus na origem, não se conheceu da ordem, reconhecendo-se a ausência de ilegalidade flagrante e considerando-se a impetração como substitutiva de recurso próprio (fl. 120).
+A defesa sustenta que a sindicância foi conduzida por autoridade hierarquicamente subordinada aos servidores envolvidos no episódio, comprometendo a necessária imparcialidade do julgador (fl. 121).
+Argumenta que houve indeferimento imotivado da oitiva de testemunha arrolada pela defesa técnica, configurando cerceamento de defesa e nulidade absoluta (fl. 122).
+Aduz que a sanção disciplinar imposta ao recorrente decorreu exclusivamente de relatos dos agentes penitenciários, sem qualquer elemento corroborativo, violando o princípio do in dubio pro reo (fl. 124).
+Pondera que a Defensoria Pública não interpôs recurso contra a decisão homologatória, mesmo diante dos vícios patentes, caracterizando ineficácia da defesa técnica (fl. 127).
+Requer o conhecimento e provimento do presente recurso ordinário constitucional para reformar o acórdão recorrido e, consequentemente, conceder a ordem de habeas corpus, anulando-se a homologação da falta disciplinar grave reconhecida no P rocedimento n. 1.258/17-PNC (fl. 128).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 164-165).
+É o relatório.
+O Tribunal de origem não conheceu do habeas corpus lá impetrado, com a seguinte fundamentação (fls. 108-111):
+A autoridade, apontada como coatora, informou que "O paciente atualmente cumpre pena em regime fechado, referente a 05 execuções que possui a cumprir, com término de penas previsto para 24/01/2086. Quanto ao objeto do presente writ informo que o procedimento disciplinar foi regularmente instruído, com a oitiva do sentenciado acompanhado de advogado, nos termos do artigo n. 118, § 2º da LEP e ao final, o sentenciado foi condenado pela comissão sindicante pela falta disciplinar de natureza grave. Diante disso, em 16/03/2020 foi proferida decisão judicial reconhecendo a falta grave praticada em 08/12/2017, a perda de 1/6 dos dias remidos e o reinício da contagem do prazo para fins de benefícios. Ressalto, por oportuno, que o reinício da contagem do prazo de cumprimento da pena após a falta grave cometida pelo sentenciado segue Jurisprudência, inclusive, de ambas as Turmas do Egrégio Supremo Tribunal Federal (..) Acrescenta-se que o cogitado dispositivo não determina a oitiva judicial do sentenciado, mas visa prestigiar os princípios do devido processo legal e do contraditório, plenamente respeitados na espécie. Nesse sentido, aliás, já se pronunciou o Egrégio Tribunal de Justiça de São Paulo (..)".
+É caso de não conhecimento do presente habeas corpus.
+Isso porque, malgrado a possibilidade de admissão de habeas corpus para análise de questões relacionadas à execução penal, no caso da decisão que reconheceu a falta disciplinar de natureza grave e não interpôs o recurso adequado.
+Frise-se que se trata de pedid o de revisão de decisão que reconheceu o cometimento de falta grave em 2017, ou seja, há 08 (oito) anos.
+No processo administrativo, as testemunhas foram ouvidas, o paciente foi interrogado, e o Juízo de origem reconheceu o cometimento da falta grave.
+Ademais não se vislumbra qualquer nulidade no feito, que observou os ditames legais, não sendo demais ressaltar que, a todo tempo, o paciente foi assistido pela Defensoria Pública. O fato de a D. Defensoria Pública não recorrer, por si só, não leva à conclusão de que ocorreu cerceamento de defesa.
+Não se vislumbra, dessa forma, qualquer ilegalidade ou abuso de poder na decisão exarada a fls. 65/67, que justifique a concessão da ordem.
+O que se vê é que o causídico impetrou este habeas corpus como substitutivo de recurso próprio, sem a constatação de ilegalidade flagrante, o que não se mostra possível.
+Nesse sentido:
+ ..
+Ante o exposto, NÃO SE CONHECE da impetração.
+De fato, não se constata o cerceamento de defesa apontado, uma vez que o Tribunal de origem entendeu que o recorrente foi assistido pela Defensoria Pública em todas as fases do procedimento de apuração disciplinar. Nesse sentido: AgRg no HC n. 702.157/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/4/2023, DJe de 2/5/2023.
+Observa-se, ainda, que não prospera a alegação de nulidade quanto à deficiência de defesa técnica, tendo em vista o entendimento pacífico desta Corte Superior de que, nos termos da Súmula n. 523 do STF, o reconhecimento de eventual nulidade por deficiência técnica exige a comprovação de prejuízo, o que não ocorreu no caso.
+A propósito:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. FRAUDE EM LICITAÇÃO. ART. 89 DA LEI Nº 8.666/93. ALEGADA ABOLITIO CRIMINIS. INOCORRÊNCIA. REQUERIMENTO DE NULIDADE. AUSÊNCIA DE PREJUÍZO DEMONSTRADO. INSUFICIÊNCIA PROBATÓRIA. DOLO E DANO AO ERÁRIO NÃO COMPROVADOS. INVIABILIDADE DE REINCURSÃO FÁTICO-PROBATÓRIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto em face de decisão que negou provimento ao agravo em recurso especial. A parte agravante alega nulidades processuais, cerceamento de defesa pelo indeferimento de diligências probatórias e erro na dosimetria da pena, além de pleitear a aplicação da continuidade delitiva. Requer ainda a revisão do acórdão por suposta negativa de prestação jurisdicional.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) verificar se o indeferimento de diligências probatórias configura cerceamento de defesa; (ii) determinar é possível revisar as conclusões sobre a autoria e materialidade; e (iii) averiguar se é cabível o reexame de provas para a revisão da dosimetria da pena e da continuidade delitiva. III. RAZÕES DE DECIDIR
+3. O princípio pas de nullité sans grief, previsto no art. 563 do Código de Processo Penal, exige a comprovação de prejuízo para o reconhecimento de nulidade processual, sendo inviável a declaração de nulidade sem demonstração de efetivo prejuízo.
+4. O órgão julgador possui discricionariedade para indeferir provas consideradas irrelevantes, impertinentes ou protelatórias, desde que a decisão seja fundamentada, nos termos da jurisprudência pacífica desta Corte.
+5. A análise da autoria e da materialidade, assim como da quantidade de condutas típicas ocorridas para efeito de aplicação da regra do art. 71 do CPB, esbarra no óbice da Súmula nº 7 do STJ, pois exige o revolvimento fático-probatório, para o qual não se presta o recurso especial.
+6. A aplicação da continuidade delitiva em hipóteses similares, enquadrando tipicamente cada evento de irregular dispensa de licitação, encontra-se alinhada à jurisprudência desta corte.
+7. A jurisprudência desta Corte é pacífica no sentido de que, existente a narrativa fática pelo "parquet", não se mostra necessário o pedido expresso de aplicação da causa de aumento para que o magistrado enquadre os fatos à lei.
+8. É entendimento da Terceira Seção que " n ão houve abolitio criminis das condutas tipificadas nos arts. 90 e 96, I, da Lei n. 8.666/1993 pela Lei n. 14.133/2021, permanecendo sua criminalização nos arts. 337-F e 337-L, V, do CP" (AgRg no AREsp n. 2.035.619/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022)
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg nos EDcl no AREsp n. 2.510.777/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/12/2024, DJEN de 17/12/2024.)
+Por fim, verifica-se que a questão referente ao reconhecimento de falta grave, por exigir comprovação factual, excede os limites cognitivos do habeas corpus.
+A jurisprudência desta Corte Superior é pacífica nesse sentido (grifei):
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE . NECESSÁRIO REEXAME DE FATOS E PROVAS. PROVIDÊNCIA INVIÁVEL NA VIA ELEITA. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO .
+1. Como é de conhecimento, os Tribunais Superiores possuem pacífica jurisprudência no sentido de que a pretensão de absolvição por insuficiência probatória não pode ser apreciada na via estreita do habeas corpus, por demandar o exame aprofundado do conjunto fático-probatório dos autos, notadamente no bojo de condenação já transitada em julgado, assim como no caso dos autos.
+2. Na hipótese, o Tribunal de origem, a partir do conjunto probatórios dos autos, descreveu a conduta do paciente, que foi preso em flagrante na posse de 136 porções de crack e 7 porções de cocaína, devidamente acondicionadas para entrega e consumo de terceiros, ressaltando-se do voto condutor do acórdão de apelação que a defesa não trouxe aos autos qualquer elemento apto a comprovar a versão trazida pelo paciente, de que a sacola não fosse sua, ônus este que lhe incumbia, a teor do artigo 156 do Código de Processo Penal .
+3. Nesse panorama, o pleito absolutório, nos moldes pretendidos, não pode ser analisado pela via mandamental, pois depende de amplo exame do conjunto probatório, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos pré-constituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 907907/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/06/2024, DJe de 12/06/2024.)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
