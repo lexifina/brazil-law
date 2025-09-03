@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Carlos Cini Marchionatti (Desembargador Convocado TJRS) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental no habeas corpus. Execução penal. Progressão de regime. Requisito subjetivo. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava a progressão de regime prisional.
+2. O agravante cumpre pena por latrocínio e roubo majorado, com término previsto para 2041, e teve o pedido de progressão indeferido por não satisfazer o requisito subjetivo, apesar de ter cumprido o requisito objetivo.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que indeferiu a progressão de regime, baseada em exame criminológico com elementos desfavoráveis, é válida, mesmo diante do cumprimento do requisito temporal e de parecer psicológico favorável.
+III. Razões de decidir
+4. A decisão foi devidamente fundamentada, tendo em vista que indicou a inaptidão do reeducando para a progressão de regime com base em elementos desfavoráveis do exame criminológico.
+5. O entendimento desta Corte é de que o juiz das execuções pode considerar relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal, mesmo que o exame criminológico tenha parecer psicológico favorável.
+6. O habeas corpus não é a via adequada para reavaliar o exame criminológico, pois não permite a dilação probatória necessária para tal análise.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. O juiz das execuções pode negar a progressão de regime com base em elementos desfavoráveis do exame criminológico, mesmo que o parecer psicológico seja favorável. 2. O habeas corpus não é a via adequada para reavaliar o exame criminológico para a concessão de benefícios da execução penal".
+Dispositivos relevantes citados: Lei de Execução Penal, art. 112.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 426.201/SP, Rel. Min. Rogério Schietti, Sexta Turma, julgado em 5/6/2018; STJ, AgRg no HC n. 832.598/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 11/9/2023; STJ, AgRg no HC n. 850.452/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por IGOR HENRIQUE TALMELLI TAVEIRA contra decisão que não conheceu do habeas corpus.
+Nas razões recursais, o agravante sustenta que há flagrante ilegalidade na negativa da progressão do regime. Alega que negativa se deu com base em fundamentação genérica, sem elementos concretos e atualizados, e desconsiderou o laudo favorável subscrito pela psicóloga integrante da equipe técnica.
+Requer, ao final, o provimento do recurso, para que seja concedida a ordem antes pleiteada.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental no habeas corpus. Execução penal. Progressão de regime. Requisito subjetivo. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava a progressão de regime prisional.
+2. O agravante cumpre pena por latrocínio e roubo majorado, com término previsto para 2041, e teve o pedido de progressão indeferido por não satisfazer o requisito subjetivo, apesar de ter cumprido o requisito objetivo.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que indeferiu a progressão de regime, baseada em exame criminológico com elementos desfavoráveis, é válida, mesmo diante do cumprimento do requisito temporal e de parecer psicológico favorável.
+III. Razões de decidir
+4. A decisão foi devidamente fundamentada, tendo em vista que indicou a inaptidão do reeducando para a progressão de regime com base em elementos desfavoráveis do exame criminológico.
+5. O entendimento desta Corte é de que o juiz das execuções pode considerar relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal, mesmo que o exame criminológico tenha parecer psicológico favorável.
+6. O habeas corpus não é a via adequada para reavaliar o exame criminológico, pois não permite a dilação probatória necessária para tal análise.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. O juiz das execuções pode negar a progressão de regime com base em elementos desfavoráveis do exame criminológico, mesmo que o parecer psicológico seja favorável. 2. O habeas corpus não é a via adequada para reavaliar o exame criminológico para a concessão de benefícios da execução penal".
+Dispositivos relevantes citados: Lei de Execução Penal, art. 112.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 426.201/SP, Rel. Min. Rogério Schietti, Sexta Turma, julgado em 5/6/2018; STJ, AgRg no HC n. 832.598/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 11/9/2023; STJ, AgRg no HC n. 850.452/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024.
+VOTO
+A irresignação não merece prosperar.
+No caso dos autos, o Tribunal de origem confirmou a decisão do Juízo de primeiro grau que indeferiu o pedido de progressão de regime aos seguintes fundamentos:
+"O apenado resgata expiação de 24 anos, 05 meses e 10 dias, pela prática de latrocínio e roubo majorado, com término de cumprimento previsto para 17.02.2041. Ademais, registra infração disciplinar de natureza grave (fls. 105 e seguintes). O requisito objetivo necessário à progressão de regime foi superado, não havendo controvérsia acerca desse ponto.
+Por outro lado, não satisfez o requisito subjetivo, sobretudo quando se analisa detidamente os autos, como muito bem procedido na decisão origem, no bojo da qual constou que "Os relatos colhidos pela assistente social apontam que o sentenciado possui uma personalidade volúvel, sem freios morais evidentes, tendo sido facilmente convencido, à época do delito, a ingressar na residência da vítima para subtrair bens, resultando no falecimento da vítima por disparo de arma de fogo. Ademais, não há nos autos elementos que demonstrem evolução concreta da personalidade do reeducando, limitando-se suas declarações a um sentimento subjetivo de arrependimento, sem indicativos de mudança real de comportamento ou assimilação de valores éticos e morais" (fls. 112/114).
+Destarte, cristalino o demérito ao benefício, motivo pelo qual preserva-se a decisão ora vergastada.
+Ante o exposto, pelo meu voto, nego provimento ao recurso. " (e-STJ, fls. 15-16)
+Com efeito, embora o paciente tenha cumprido o requisito temporal para a progressão de regime, é firme nesta Corte Superior o entendimento segundo o qual "o julgador forma sua convicção pela livre apreciação da prova, de modo que, uma vez realizado o exame criminológico, não é possível suprimir dele a consideração de relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal" (AgRg no HC n. 426.201/SP, relator Ministro Rogério Schietti, Sexta Turma, julgado em 5/6/2018, DJe de 12/6/2018).
+Anotem-se, ainda, os seguintes precedentes:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO PREENCHIDO. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava a progressão de regime prisional para o semiaberto. O agravante cumpre pena de reclusão por tráfico ilícito de entorpecentes, com término de pena previsto para 2029.
+2. O pedido de progressão foi indeferido com base em exame criminológico que, apesar de parecer psicológico favorável, apresentou elementos desfavoráveis quanto à aptidão do reeducando para a progressão, conforme relatórios da Diretoria do Centro de Segurança e Disciplina e da Diretoria Técnica III.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que indeferiu a progressão de regime, baseada em exame criminológico com elementos desfavoráveis, é válida, mesmo diante do cumprimento do requisito temporal e de parecer psicológico favorável.
+III. Razões de decidir
+4. A decisão foi devidamente fundamentada, tendo em vista que indicou a inaptidão do reeducando para a progressão de regime com base em elementos desfavoráveis do exame criminológico.
+5. O entendimento desta Corte é de que o juiz das execuções pode considerar relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal, mesmo que o exame criminológico tenha parecer psicológico favorável.
+6. O habeas corpus não é a via adequada para reavaliar o exame criminológico, pois não permite a dilação probatória necessária para tal análise.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. O juiz das execuções pode negar a progressão de regime com base em elementos desfavoráveis do exame criminológico, mesmo que o parecer psicológico seja favorável. 2. O habeas corpus não é a via adequada para reavaliar o exame criminológico para a concessão de benefícios da execução penal".
+Dispositivos relevantes citados: Lei de Execução Penal, art. 112. Jurisprudência relevante citada: STJ, AgRg no HC n. 426.201/SP, Rel. Min. Rogério Schietti, Sexta Turma, julgado em 5/6/2018; STJ, AgRg no HC n. 832.598/SP, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 11/9/2023; STJ, AgRg no HC n. 823.985/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023; STJ, AgRg no HC n. 823.985/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/8/2023; STJ, AgRg no HC n. 426.201/SP, Rel. Min. Rogério Schietti, Sexta Turma, julgado em 5/6/2018." (AgRg no HC n. 959.273/SP, de minha relatoria, Quinta Turma, julgado em 19/2/2025, DJEN de 25/2/2025.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. ASPECTOS DESFAVORÁVEIS EXTRAÍDOS DO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. DESCONSTITUIR TAL ENTENDIMENTO IMPLICA REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Com as mudanças da Lei n. 10.792/2023, o exame criminológico, antes obrigatório, deixou de ser imprescindível para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação judicial, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ" (AgRg no HC n. 889.369/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+2. In casu, as instâncias ordinárias extraíram trechos desfavoráveis do exame criminológico para fundamentar o indeferimento da progressão de regime e do livramento condicional por ausência do requisito subjetivo. Tal providência encontra respaldo na jurisprudência desta Corte Superior. Precedentes.
+3. Desconstituir os fundamentos firmados pelas instâncias ordinárias, relativos ao não preenchimento do requisito subjetivo, implica revolvimento fático-probatório, providência vedada na via eleita.
+4. Agravo regimental desprovido, mantida a decisão agravada por seus próprios fundamentos." (AgRg no HC n. 850.452/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INSURGÊNCIA DEFENSIVA. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO E SAÍDA TEMPORÁRIA INDEFERIDAS. ASPECTOS DESFAVORÁVEIS EXAME CRIMINOLÓGICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+2. A noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021).
+3. A jurisprudência consolidada por esta Corte Superior de Justiça se orienta no sentido de que alguns aspectos negativos do parecer criminológico são suficientes para o indeferimento da progressão de regime. Idêntico raciocínio se aplica ao indeferimento do pleito de saída temporária.
+4. Situação em que a conclusão da Comissão Técnica de Classificação Penitenciária Masculina de Itajaí foi pelo indeferimento da progressão ao regime semiaberto.
+5. Agravo regimental desprovido." (AgRg no HC n. 853.000/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2023, DJe de 27/10/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO PARCIALMENTE FAVORÁVEL. REQUISITO SUBJETIVO NÃO PREENCHIDO. MOTIVAÇÃO IDÔNEA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Como é sabido, a execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos objetivo e subjetivo, conforme o disposto no art. 112 da Lei de Execução Penal.
+2. É certo que, para aferição do requisito subjetivo, nos termos da nova redação do artigo supramencionado, não mais se exige, de plano, a realização de exame criminológico, bastando, para tanto, o atestado de bom comportamento carcerário. Contudo, cabe ao Magistrado verificar o atendimento daquele requisito à luz do caso concreto, podendo, por isso, determinar a realização de exame criminológico, se entender necessário, ou mesmo negar o benefício, desde que o faça fundamentadamente.
+3. Na hipótese, não obstante a conclusão favorável do exame criminológico, o Tribunal de origem ratificou a decisão proferida pelo Juízo das Execuções Criminais, que indeferiu o pedido de progressão de regime com fundamento em elementos desfavoráveis do laudo psicológico que indicam mais cautela no processo de ressocialização do Apenado, no sentido de que tanto o relatório psicológico como o da assistência social apresentaram aspectos negativos da personalidade do Apenado, bem como dos vínculos familiares, no sentido de que "o sentenciado ainda se encontra em processo de reavaliação de valores e condutas", além de que "persiste dúvida razoável quanto à presença de elementos, características e circunstâncias que refletem sobre seus impulsos e sobre seu senso de responsabilidade, configurando obstáculo à pronta reintegração social", o que encontra amparo na jurisprudência desta Corte.
+4. A jurisprudência do Superior Tribunal de Justiça admite que o Juiz das Execuções Criminais lastreie sua conclusão sobre a falta do requisito subjetivo para a progressão de regime em elementos desfavoráveis dos laudos periciai s.
+5. O habeas corpus não é a via adequada para reavaliar o exame criminológico para a aferição do requisito subjetivo com o intuito de concessão do benefício da progressão de regime.
+6. Agravo regimental desprovido." (AgRg no HC n. 832.598/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+Vale acrescentar que o "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC n. 426.201/SP, relator Ministro Rogério Schietti, Sexta Turma, julgado em 5/6/2018, DJe de 12/6/2018).
+Noutro giro, o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária relativamente ao preenchimento do requisito subjetivo por parte do apenado.
+Assim, não se verifica flagrante ilegalidade no acórdão estadual apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
