@@ -1,0 +1,10 @@
+DECISÃO
+HAPVIDA ASSISTENCIA MEDICA S.A., por meio da Petição n. 01141716/2024 (fls. 41402-41411), informa que foi celebrado instrumento de transação entre as partes no qual está incluído o crédito objeto do presente processo.
+Nesse contexto, ressalta que, "conforme Parecer nº 00002/2024/ CGCE/SUBCOB/PGF/AGU, emitido em 08/11/2024, a renúncia ora pleiteada está CONDICIONADA propriamente à efetiva celebração da transação acerca dos débitos objeto desta ação" (fl. 41.402).
+Como sabido, a renúncia ao direito em que se funda a ação consubstancia ato unilateral daquele que a pratica, independente da anuência da parte contrária. Relacionada ao direito material, tal manifestação poderá ser exercida a qualquer tempo e grau de jurisdição, acarretando a extinção do feito com resolução de mérito (art. 487, inciso III, alínea c, do Código de Processo Civil).
+Por sua vez, "a ANS concorda com a renúncia manifestada pela HAPVIDA ASSISTENCIA MÉDICA S. A, requerendo sua homologação, com a extinção do presente feito com resolução de mérito, na forma do art. 487, inciso III, alínea "c", do Código de Processo Civil, e a ba ixa dos autos ao juízo de origem para que oportunamente seja requerida a conversão em renda" (fl. 41.417).
+Verifico que o procurador da autora possui poderes específicos para renunciar à pretensão pleiteada e que o caso trata de direitos disponíveis, de forma que, não existindo óbices, HOMOLOGO o pedido de renúncia do direito sobre o qual se funda a ação, julgando extinto o processo, com resolução do mérito, nos termos do art. 487, inciso III, alínea c, do Código de Processo Civil.
+Escoado o prazo recursal, certifique-se o trânsito em julgado e remetam-se os autos à origem para decisão a respeito das verbas de sucumbência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. PETIÇÃO NO RECURSO ESPECIAL. TRANSAÇÃO REGULAMENTADA PELA PORTARIA NORMATIVA AGU N. 150/2024, PORTARIA NORMATIVA PGF/AGU N. 67/2024 E EDITAL N. 1/2024/PGF/AGU. RENÚNCIA AO DIREITO EM QUE SE FUNDA A AÇÃO. HOMOLOGAÇÃO. PROCESSO EXTINTO COM RESOLUÇÃO DE MÉRITO. BAIXA DOS AUTOS PARA DECISÃO SOBRE AS VERBAS DE SUCUMBÊNCIA.
