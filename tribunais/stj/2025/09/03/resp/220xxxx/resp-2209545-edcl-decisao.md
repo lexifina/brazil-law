@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TRANSPANORAMA TRANSPORTES S.A., em face de decisão que indeferiu o pedido de tutela provisória, nos seguintes termos (fls. 892-893):
+Nos termos do art. 300 do CPC, a concessão de tutela provisória exige "elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo". Assim, para a concessão da tutela provisória, deverá haver a plausibilidade do direito alegado, que será avaliada em razão da elevada probabilidade de êxito do recurso, além da demonstração de um perigo de lesão grave ou de difícil ou impossível reparação.
+Na hipótese em exame, a requerente pretende seja atribuído efeito suspensivo à execução fiscal, mas não juntou aos autos qualquer documento que comprove as suas alegações, de modo que revela-se inviável a análise da plausibilidade do direito alegado.
+Ademais, verifica-se que o objeto do recurso especial interposto pela requerente limitou-se à alegada violação ao artigo 1.022 do Código de Processo Civil, tendo sido dado provimento ao apelo para determinar que o Tribunal de origem, de modo a suprir omissão reconhecida por esta Corte, julgue novamente os embargos de declaração lá opostos  recurso, aliás, não dotado pela lei de efeito suspensivo automático.
+Assim, a pretensão cautelar ora apresentada transborda ao objeto do presente recurso especial, cabendo o seu exame às instâncias ordinárias.
+Ante o exposto, o pedido de tutela provisória.
+A embargante alega que a ausência dos documentos comprobatórios é suprida com a presente petição, o que permite a análise da plausibilidade do pedido.
+Afirma que "os embargos permanecem em curso, com efeito suspensivo válido, e que a execução não pode prosseguir até que sejam apreciadas as matérias de mérito pelo Tribunal de origem, conforme determinação desta Corte" (fl. 901).
+Requer o acolhimento dos declaratórios para que haja a reapreciação da liminar, com a determinação de imediata suspensão da Execução Fiscal nº 0002106-81.2022.8.27.2702, inclusive quanto à execução da garantia, até o julgamento definitivo dos embargos.
+É o relatório.
+O recurso não comporta conhecimento.
+Consoante preceitua o artigo 1.022 do Código de Processo Civil, o recurso de embargos de declaração, medida processual de contornos bastante rígidos, tem como pressuposto a existência na decisão embargada de omissão, contradição, obscuridade ou erro material.
+Com efeito, nas razões dos embargos declaratórios, a recorrente pleiteia a complementação da petição de tutela provisória e a reapreciação do pedido liminar, não tendo apontado quais seriam as pechas de omissão, contradição interna, obscuridade ou erro material do acórdão embargado.
+Desse modo, tem-se por manifestamente deficiente a fundamentação do recurso integrativo, já que não delineia concretamente onde e como no acórdão recorrido se materializaria eventual vício processual, fato este a importar em não conhecimento do recurso aclaratório, ante a incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal, por analogia, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+De fato, "nos termos da jurisprudência do Superior Tribunal de Justiça, a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl na Rcl n. 42.281/SC, rel. Min. Afrânio Vilela, Primeira Seção, DJe de 7/5/2024). Na mesma linha de intelecção:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER UM DOS VÍCIOS DO ART. 1.022 DO CPC/2015. NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. ART. 1.023, CAPUT, DO CPC/2015. SÚMULA 284/STF. EMBARGOS NÃO CONHECIDOS.
+1. Os embargos de declaração são cabíveis apenas quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que são inadmissíveis para promover novo julgamento da causa.
+2. "A jurisprudência desta eg. Corte firmou-se no sentido de que a não indicação de um dos vícios previstos no art. 1.022 do CPC/2015, nos termos do exigido no art. 1.023, caput, do CPC/2015, inviabiliza a compreensão da controvérsia a ser sanada nos embargos de declaração, caracterizando deficiência de fundamentação (Súmula 284/STF)" (EDcl no AgInt no AREsp 837.383/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/05/2019, DJe de 24/05/2019).
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no REsp n. 1.734.412/PB, rel. Min. Raul Araújo, Quarta Turma, DJe de 27/3/2023)
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO INTEGRATIVO. INCIDÊNCIA DA SÚMULA N. 284/STF, POR ANALOGIA. NÃO CONHECIMENTO DOS DECLARATÓRIOS.
+1. Limitam-se as razões recusais a buscar revolver aspectos da demanda decidida na Corte Paulista pelo indeferimento da petição inicial de embargos à arrematação e que sequer chegaram a ser examinados neste Superior Tribunal de Justiça.
+2. No acórdão embargado não foi conhecido o agravo interno, por desatenção ao princípio da dialeticidade, inexistindo qualquer argumento do ora embargante quanto a essa motivação.
+3. A jurisprudência desta Corte Superior é firme no sentido de não merecer conhecimento a petição dos embargos declaratórios cuja deficiência na sua fundamentação dificulte o alcance da controvérsia. Incidência da Súmula n. 284/STF, por analogia.
+4. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EAREsp n. 526.387/SP, rel. Min. Jorge Mussi, Corte Especial, DJe de 3/8/2018)
+De mais a mais, a embargante não apresentou qualquer argumento apto a desconstituir a decisão de fls. 892-893.
+Apesar de terem sido juntados aos autos alguns documentos que demonstram o trâmite processual da execução fiscal e dos embargos à execução, não foi apresentada decisão da instância ordinária que tenha determinado o prosseguimento da execução, tendo a parte apenas alegado que houve pedido do embargado nesse sentido. Assim, resta mantida a inviabilidade da análise da plausibilidade do direito alegado, não estando demonstrado o perigo de lesão grave ou de difícil ou impossível reparação.
+Outrossim, conforme afirmado na decisão impugnada, a pretensão cautelar apresentada transborda ao objeto do presente recurso especial, cabendo o seu exame às instâncias ordinárias, não havendo, por ora, qualquer providência adicional a ser determinada por esta Corte Superior.
+Ressalte-se que eventual oposição de novos embargos declaratórios, com argumentação infundada e descabida , como a presente, será penalizada com aplicação da multa prevista no artigo 1.026, §2º, do Código de Processo Civil.
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se.
+Intime-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. DECLARATÓRIOS QUE NÃO APONTAM OS VÍCIOS DA DECISÃO RECORRIDA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. EMBAR GOS NÃO CONHECIDOS.
