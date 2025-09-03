@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. SAÍDA TEMPORÁRIA. INDEFERIMENTO. EXAME APROFUNDADO DE PROVAS. INCOMPATIBILIDADE COM A VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O benefício das saídas temporárias pressupõe o cumprimento de todos os requisitos previstos no art. 123 da LEP, requisitos que, de acordo com a Corte a quo, não foram preenchidos.
+2. É firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão sobre o não preenchimento do requisito subjetivo e a incompatibilidade do benefício de saídas temporárias com os objetivos da pena, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento esse incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental contra decisão na qual indeferi liminarmente o habeas corpus impetrado em favor de ALESSANDRO SOARES DA SILVA.
+No writ, sustentou a defesa fazer jus o paciente à concessão do benefício de saída temporária, nos termos do art. 122 da Lei de Execuções Penais, uma vez que está em regime semiaberto e já cumpriu 50% da sua pena, bem como ostenta bom comportamento carcerário, sem nenhuma falta disciplinar anotada. Destacou que, ao negar o benefício, a autoridade coatora criou requisito não previsto em lei, uma vez que argui a ausência de autocrítica.
+Em decisão acostada às e-STJ fls. 24/31, indeferi liminarmente o writ, motivando o presente agravo regimental.
+Em suas razões, a defesa assevera que "desconsiderou-se por completo o conjunto probatório favorável e os fundamentos objetivos que já haviam sustentado a decisão concessiva, negando-se ao paciente a continuidade no exercício do direito, sem que houvesse qualquer novo elemento concreto que justificasse a supressão do benefício" (e-STJ fl. 39).
+Argumenta que o "paciente foi avaliado por equipe multidisciplinar e demonstrou vínculo afetivo com a mãe, pessoa que visita regularmente desde 2018, demonstrando a existência de rede de apoio. No aspecto cognitivo, emocional e comportamental, o exame descreve capacidade crítica preservada, ausência de impulsividade exacerbada, interesse em reconstrução de trajetória social e motivação para permanência no convívio familiar (e-STJ fl. 40).
+Pugna, ao final, pelo provimento do recurso e concessão do benefício.
+É  o  relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. SAÍDA TEMPORÁRIA. INDEFERIMENTO. EXAME APROFUNDADO DE PROVAS. INCOMPATIBILIDADE COM A VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O benefício das saídas temporárias pressupõe o cumprimento de todos os requisitos previstos no art. 123 da LEP, requisitos que, de acordo com a Corte a quo, não foram preenchidos.
+2. É firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão sobre o não preenchimento do requisito subjetivo e a incompatibilidade do benefício de saídas temporárias com os objetivos da pena, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento esse incompatível com os estreitos limites da via eleita.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Sem razão o agravante.
+Inicialmente, cumpre-me registrar que a análise do pedido de concessão do benefício da saída temporária atrai a normatividade do art. 123 da Lei n. 7.210/1984, que assim dispõe:
+Art. 123. A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos:
+I - comportamento adequado;
+II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente;
+III - compatibilidade do benefício com os objetivos da pena.
+No caso dos autos, o Juízo da Vara de Execuções Penais da Comarca da Capital/RJ deferiu o pedido de saída temporária na modalidade de visitação à família, consignando, para tanto, que (e-STJ fls. 13/15):
+Não obstante parecer ministerial, verifica-se que o apenado está em regular cumprimento da pena em regime semiaberto, já tendo cumprido a fração ideal necessária para a concessão de saída temporária, na forma do artigo 123, II, da LEP.
+Além disso, o apenado está preso ininterruptamente desde julho de 2019, sem registros de faltas disciplinares e com comportamento carcerário adequado ao benefício, conforme TFD. Nesse sentido, os exames criminológicos da seq. 46.1 não apontam óbices à concessão do benefício, de modo que preenche o requisito subjetivo. Ressalta-se que o apenado comprova manter laços familiares, na forma que se extrai dos documentos acostados aos autos, preenchendo, também, o requisito subjetivo previsto no artigo 123, incisos I e III, da LEP.
+Quanto aos argumentos desfavoráveis de gravidade em abstrato do crime e longo período de pena a cumprir, há entendimento jurisprudencial de que esses argumentos não são suficientes a justificar o indeferimento do benefício, caso não sejam somados a outros dados concretos que demonstrem que o apenado não está apto a usufruir do benefício, o que não é o caso dos autos, uma vez que o apenado demonstrou bom comportamento carcerário. Destaque-se o entendimento jurisprudencial do nosso Tribunal de Justiça, consoante julgado a seguir:
+ ..
+Cumpre consignar que a pessoa a ser visitada é a mãe do apenado, conforme declaração de VPF da sequência 19.2, no seguinte endereço: Rua José Cordeiro, n. 139, Centro, Bom Jesus do Norte/ES. Além disso, sua mãe o visita regularmente desde 16/07/2018, conforme cópia da carteira de visitante.
+No que diz respeito às datas de saída, vale destacar que a Terceira Seção do Superior Tribunal de Justiça, no julgamento do Resp 1544036, sob o rito de repetitivo, alinhou seu entendimento à posição do Supremo Tribunal Federal, e decidiu pela possibilidade da concessão excepcional de  saídas automatizadas .
+O Tribunal de origem, por sua vez, cassou a decisão de primeiro grau e deu provimento ao agravo em execução interposto pelo Ministério Público, destacando que (e-STJ fls. 30/32):
+No mérito, entendo, com todas as vênias, que assiste razão ao Ministério Público, isso porque o artigo 123, incs. II e III, da Lei de Execuções Penais dispõe de modo claro que a autorização para as saídas temporárias somente pode ser concedida no caso de o benefício satisfazer alguns requisitos: cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e um 1/4 (um quarto), se reincidentes, compatível com os objetivos da pena.
+Assim dispõe o dispositivo legal referente à matéria em questão, in litteris:
+ Artigo 123 - A autorização será concedida por ato motivado do juiz da execução, ouvidos o Ministério Público e a administração penitenciária, e dependerá da satisfação dos seguintes requisitos:
+I - comportamento adequado;
+II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente;
+III - compatibilidade do benefício com os objetivos da pena.
+Em sendo assim, para que a autorização possa ser concedida, mister se faz seja avaliado se o benefício será compatível não só com os percentuais de tempo de cumprimento da pena, mas, principalmente, os objetivos a serem alcançados por essa mesma pena.
+E a Lei de Execuções Penais, ao introduzir no sistema prisional um conjunto de direitos assistenciais ao condenado, objetivou a sua reintegração gradual à sociedade, que se fortalece no processo de progressão de pena.
+Portanto, deve o Juízo da Vara de Execuções Penais, ao analisar o pedido de visitação à família, verificar se sua concessão está de acordo com o que dispõe a lei de execuções penais e, pelo menos, por ora, não estão presentes tais requisitos, por conta de o exame criminológico realizado no apenado, ora agravado, dando dele não demonstrar nenhum traço de arrependimento, narrando a conduta perpetrada sem transparecer ter desenvolvido autocrítica em relação ao fato ocorrido, ao declarar:  o problema sempre corre atrás de mim , sendo o homicídio um desses problemas.
+Declara, ademais, não ter se arrependido do que fez, por conta de a vítima ter tentado matá-lo em 03 (três) oportunidades, restando manifesto que não assume a responsabilidade sobre os atos praticados (homicídio qualificado e lesão corporal contra um policial militar, que presenciou, à época, os fatos, e correu atrás do ora agravado para prendê-lo, sendo, no entanto, agredido, por uma facada, uma das axilas).
+Por conseguinte, embora possa ter sido beneficiado com a progressão de regime, a fim de que seja aferida o seu senso de responsabilidade, tal benefício não lhe dá um  cheque em branco , para, automaticamente, ser-lhe concedido a benesse da visitação de periódica ao lar, uma vez não estando presentes os requisitos legais.
+O Superior Tribunal de Justiça vem decidindo no seguinte sentido, in litteris:
+ ..
+Em face do exposto, conheço do recurso ministerial e, no mérito, DOU-LHE PROVIMENTO, PARA REFORMAR a decisão do Juízo a quo, para indeferir o benefício de visita periódica ao lar.
+Nesse contexto, é indene a dúvidas que, na apreciação do pedido de saída temporária (visitação à família), deve haver a análise acerca do atendimento ao requisito previsto no inciso III do art. 123 da Lei de Execução Penal, que preceitua a necessidade de exame da compatibilidade dos benefícios com os objetivos da pena, o que, consoante se verifica dos trechos do acórdão acima colacionado, não foi vislumbrado no caso.
+Nada obstante, o fato de o condenado encontrar-se no regime semiaberto não é suficiente para garantir-lhe o benefício da saída temporária quando ausentes outras condições especificadas em lei.
+Nesse sentido, confiram-se os seguintes precedentes desta Corte:
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO E ROUBO CIRCUNSTANCIADO. DECISÃO DA VARA DE EXECUÇÃO. CONCESSÃO DE VISITA PERIÓDICA AO LAR. CASSAÇÃO DA DECISÃO NO TRIBUNAL. REQUISITOS DO ART. 123, III, DA LEP. CONCESSÃO DOS BENEFÍCIOS DE FORMA PROGRESSIVA. SÚMULA 83/STJ.
+1. Os benefícios inerentes à execução penal somente são deferidos de forma progressiva, comungando do mesmo escopo dos regimes carcerários. Desse modo, o benefício das saídas temporárias não deve ser deferido de forma automática, conjuntamente com a progressão ao regime semiaberto.
+2. Agravo regimental improvido. (AgRg no AREsp 683.107/RJ, relator o Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/8/2015, grifei.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRABALHO EXTRAMUROS. ART. 123, III, DA LEI N. 7.210/84. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES. FUNDAMENTAÇÃO. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça entende que a progressão ao regime semiaberto não obriga o Juiz das Execuções a deferir automaticamente o deferimento do trabalho extramuros, havendo que se avaliar o preenchimento dos requisitos do art. 123 da Lei n. 7.210/1984.
+2. A Juíza das Execuções, considerando o inciso III do art. 123 da Lei de Execução Penal - que preceitua a necessidade de análise da compatibilidade do benefício com os objetivos da pena e, portanto, com o propósito de ressocialização do indivíduo, buscado por meio de um sistema progressivo, em que as benesses são gradualmente fruídas na medida dos avanços alcançados pelo detento - concluiu, fundamentadamente, pela necessidade de um lapso maior entre a concessão do regime semiaberto e a autorização para trabalho externo, a fim de que o recorrente possa se " adaptar  à nova realidade paulatinamente", bem como haja condições, com o transcurso de um mínimo de tempo, de se colherem os elementos necessários à decisão sobre o referido benefício.
+3. Recurso não provido. (RHC 50.097/RJ, relator o Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2014, grifei.)
+PENAL. PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PROGRESSÃO AO REGIME SEMIABERTO. SAÍDAS TEMPORÁRIAS. ARTIGO 123, III, DA LEI N.º 7.210/84. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES. FUNDAMENTAÇÃO. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. NÃO PROVIMENTO DO RECURSO.
+1. A progressão ao regime semiaberto não traz como consequência automática o deferimento da benesse relativa às saídas temporárias, necessitando, para tanto, que o apenado satisfaça os requisitos elencados no artigo 123 da Lei n.º 7.210/84. In casu, o Juízo das execuções indeferiu o pleito fundamentadamente, eis que entendeu incompatível a benesse com os objetivos da reprimenda, em atenção ao inciso III do mencionado dispositivo legal.
+2. Recurso a que se nega provimento. (RHC 49.812/BA, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 19/11/2014, grifei.)
+É consabido que a execução penal, além de objetivar a efetivação e a implementação da condenação penal imposta ao sentenciado, busca também propiciar condições para a harmônica integração social daquele que sofre a ação punitiva estatal.
+A benesse em questão representa medida que visa à ressocialização do preso. Contudo, para fazer jus ao referido benefício, o apenado deve necessariamente cumprir todos os requisitos, consoante se depreende do disposto no caput do art. 123 da LEP; requisitos que, de acordo com a Corte a quo, não foram preenchidos.
+Ademais, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo e a incompatibilidade do benefício de saídas temporárias com os objetivos da pena, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. EXECUÇÃO PENAL. PROGRESSÃO PARA O REGIME SEMIABERTO. VISITA PERIÓDICA AO LAR E TRABALHO EXTRAMUROS. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 123, III, DA LEI N. 7.210/1984. ANÁLISE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm mais admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, não ocorrente no presente caso.
+2. Segundo a iterativa jurisprudência desta Corte, a progressão para o regime semiaberto não assegura automaticamente a obtenção do benefício da visita periódica ao lar.
+3. Na hipótese dos autos, as instâncias ordinárias apresentaram elementos concretos que justificam o indeferimento da saída temporária para fins de visita familiar e de trabalho extramuros, sobretudo a ausência de demonstração do requisito subjetivo do paciente, condenado por crimes graves, com longa pena a cumprir e que obteve progressão para o regime semiaberto há pouco tempo, recomendando maior cautela na concessão de saídas extramuros.
+4. A via estreita do writ não admite a dilação probatória necessária para desconstituir o entendimento da instância ordinária quanto ao não preenchimento do requisito subjetivo pelo apenado e à incompatibilidade do benefício de saídas temporárias com os objetivos da pena.
+5. Habeas corpus não conhecido. (HC 295.075/RJ, relator o Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 10/10/2014, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. LIMITES DA IMPETRAÇÃO. CONHECIMENTO. IMPOSSIBILIDADE. EXECUÇÃO PENAL. PROGRESSÃO PARA REGIME SEMIABERTO. VISITA PERIÓDICA AO LAR. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 123, III, DA LEI N. 7.210/1984. ANÁLISE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ ..
+2. Segundo a iterativa jurisprudência desta Corte, a progressão para o regime semiaberto não assegura automaticamente a obtenção do benefício da visita periódica ao lar.
+ ..
+4. A estreiteza da via eleita não admite a dilação probatória necessária para desconstituir o entendimento da instância ordinária sobre o não preenchimento do requisito subjetivo pelo apenado e a incompatibilidade do benefício de saídas temporárias com os objetivos da pena.
+5. Habeas corpus não conhecido. (HC 172.374/RJ, relator o Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 23/5/2013, grifei.)
+HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. VISITA À FAMÍLIA. ART. 123 DA LEI DE EXECUÇÃO PENAL. INDEFERIMENTO DEVIDAMENTE MOTIVADO NA AUSÊNCIA DO REQUISITO SUBJETIVO. REAVALIAÇÃO. SEDE IMPRÓPRIA. ORDEM DENEGADA.
+1. O Juízo das Execuções apresentou elementos concretos que justificam o indeferimento da saída temporária para fins de visita familiar, sobretudo a ausência de demonstração do requisito subjetivo do Paciente, condenado pelo crime de latrocínio e que obteve progressão para o regime semiaberto a pouco tempo, com término da pena previsto para 13 de outubro de 2026, recomendando maior cautela na concessão de saídas extramuros.
+2. A estreiteza da via eleita não admite a dilação probatória necessária para desconstituir o entendimento das instâncias ordinárias sobre o não preenchimento do requisito subjetivo pelo apenado e a incompatibilidade do benefício de saídas temporárias com os objetivos da pena.
+3. Ordem denegada. (HC 141.628/RJ, relatora a Ministra Laurita Vaz, Quinta Turma, DJe de 9/11/2009, grifei.)
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
