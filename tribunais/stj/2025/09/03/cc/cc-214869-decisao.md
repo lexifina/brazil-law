@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE LIMEIRA - SP (Juízo suscitante) e o JUÍZO FEDERAL DA 1ª VARA DO JUIZADO ESPECIAL DE LIMEIRA - SJ/SP (Juízo suscitado).
+O conflito decorre de ação previdenciária ajuizada por MARIA APARECIDA OLIVEIRA DE SOUZA em desfavor do Instituto Nacional do Seguro Social, em que objetiva a conversão de auxílio por incapacidade temporária em aposentadoria por invalidez (fls. 4/14).
+O JUÍZO FEDERAL DA 1ª VARA DO JUIZADO ESPECIAL DE LIMEIRA - SJ/SP, para quem a ação foi distribuída, se declarou incompetente para processar e julgar o processo porque "o fato gerador das suscitadas lesões que incapacitam a parte autora decorreu de acidente sofrido durante o expediente de trabalho em supermercado em 06/11/2022, consoante informado no laudo médico" (fl. 519).
+Por sua vez, o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE LIMEIRA - SP suscitou o presente conflito com os seguintes fundamentos (fls. 521/522):
+Trata-se de ação de conversão de auxílio-doença em aposentadoria por invalidez ajuizada por MARIA APARECIDA OLIVEIRA DE SOUZA em face do INSTITUTONACIONAL DO SEGURO SOCIAL - INSS, distribuída a esta 3ª Vara Cível de Limeira em 26 de junho de 2025.
+Analisando a petição inicial, observo que se pleiteia a conversão de benefício previdenciário por incapacidade, fundamentando-se o pedido em alegada incapacidade total e permanente da autora para o trabalho, decorrente de síndrome do manguito rotador no ombro direito, lumbago com ciática, dor lombar baixa e transtorno misto ansioso e depressivo.
+Da detida análise da causa de pedir e do pedido formulado, verifica-se que a demanda possui natureza estritamente previdenciária, não havendo qualquer menção na exordial de que a incapacidade tenha decorrido de acidente de trabalho ou doença profissional. A autora limita-se a postular a conversão de auxílio-doença previdenciário em aposentadoria por invalidez, sem estabelecer qualquer nexo causal entre sua condição incapacitante e atividade laboral.
+É consabido que, segundo jurisprudência pacífica do Colendo Superior Tribunal de Justiça, a competência para processar e julgar ações que discutem concessão de benefício previdenciário deve ser determinada em função do pedido e da causa de pedir constantes da petição inicial, não podendo ser alterada por elementos probatórios colhidos posteriormente no curso do processo, sob pena de configurar verdadeiro pré-julgamento da matéria.
+No caso concreto, embora constate-se no laudo pericial referência a acidente ocorrido durante expediente de trabalho, tal circunstância não tem o condão de alterar a natureza jurídica da demanda, que foi proposta exclusivamente sob o fundamento previdenciário comum, sem qualquer alegação de nexo causal acidentário, daí porque entendo inexistir motivo jurídico para a decisão declinatória de foro do Juízo Federal.
+Dessarte, como esta ação tem por causa de pedir moléstias não relacionadas ao labor, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA, para que dele conheça esta Colenda Seção e, ao final, que seja declarado competente para processar e julgar a ação o Juízo Federal da 1ª Vara do Juizado Especial Federal com sede em Limeira
+O Ministério Público Federal opinou pelo conhecimento do presente conflito, declarando-se competente o Juízo de Direito da 3ª Vara Cível de Limeira - SP, ora suscitante.
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+Segundo o pacífico entendimento desta Corte Superior de Justiça, o teor da petição inicial é elemento essencial ao deslinde do conflito, uma vez que a definição da competência decorre da verificação da causa de pedir e do pedido nela apresentados.
+No presente caso, não se extrai da peça inicial nenhuma menção à ocorrência de acidente de trabalho, ou evento a ele equiparado, a atrair a regra excepcional do art. 109, I, da Constituição Federal, a qual estabelece a competência da Justiça estadual para processar e julgar os processos relativos a acidente de trabalho.
+Na petição inicial é narrado que a autora encontra-se acometida de diversas moléstias incapacitantes total e permanentemente para o labor, fazendo, portanto, jus à aposentadoria por invalidez (fls. 4/14).
+Por se trata de ação pela qual se pretende a obtenção de benefício de natureza previdenciária, não decorrente de acidente de trabalho, ou de evento a ele equiparado, a competência para o deslinde da causa é da Justiça Federal, de acordo com o art. 109, I, da Constituição Federal, que estabelece:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Nesse mesmo sentido, confira-se o seguinte julgado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO PREVIDENCIÁRIA DE CONVERSÃO DE AUXÍLIO-DOENÇA EM APOSENTADORIA POR INVALIDEZ. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. JUÍZO SUSCITADO.
+ ..
+2. No caso concreto, não se extrai da petição inicial qualquer alusão à ocorrência de acidente laboral que, como causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça Estadual.
+ ..
+4. Conflito de Competência conhecido para declarar competente para o processamento do feito o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, o suscitado.
+(CC 164.335/MT, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/3/2019, DJe 12/6/2019, sem destaque no original.)
+Ante o exposto,  conheço do presente conflito para declarar a competência da Justiça Federal para processamento e julgamento do feito.
+Publique-se. Comunique-se.
+ EMENTA
