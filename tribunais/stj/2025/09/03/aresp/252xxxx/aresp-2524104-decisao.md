@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ESTADO DO CEARÁ se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 55):
+EMENTA: PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. RECURSO DE APELAÇÃO. NULIDADE DA CITAÇÃO DO EXECUTADO POR EDITAL. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. NECESSIDADE DE PRÉVIO ESGOTAMENTO DOS MEIOS REAIS DE LOCALIZAÇÃO DO EXECUTADO, NA FORMA ART. 8º. INC. III, DA LEI Nº. 6.830/80 C/C ART. 256, § 3º, DO CP/15. PRECEDENTES DO STJ E DO TJCE. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA CONFIRMADA.
+1. Cuida-se de apelação cível interposta em face da sentença que, nos autos de Embargos à Execução Fiscal, acolheu-os, declarando a nulidade da citação por edital e de todos os atos processuais posteriores à citação, realizados na Execução Fiscal.
+2. Conforme disposto no art. 341, parágrafo único do CPC, o Curador Especial é beneficiado com a isenção do ônus de impugnação especificada, exatamente por não ter contato com o executado, estando, portanto, impossibilitado de contrariar cada um dos fatos deduzidos na inicial como fundamento da pretensão do exequente, não havendo que se falar em julgamento extra petita por não ter sido arguida a nulidade da citação.
+3. Conforme jurisprudência do STJ, a citação editalícia é medida excepcional, somente sendo cabível quando esgotados meios reais de localização da parte demandada.
+4. In casu, a citação via correio não se efetivou em razão de "endereço insuficiente". Da mesma forma, a citação via oficial de justiça não se efetivou em virtude da não localização do número indicado no endereço constante na CDA, tendo, em seguida, sido determinada a citação da executada por edital, de maneira que não esgotados os meios reais de localização da executada.
+5. Apelo conhecido e desprovido. Sentença confirmada.
+Os embargos de declaração opostos foram rejeitados (fls. 100/105).
+A parte recorrente alega:
+(i) violação dos arts. 9º, 10 e 341 do Código de Processo Civil (CPC), porquanto a nulidade da citação por edital foi reconhecida sem que o Estado do Ceará tivesse oportunidade de se manifestar sobre o fundamento, em ofensa aos princípios do contraditório e da ampla defesa;
+(iii) afronta ao art. 492 do CPC, ao argumento de que houve julgamento extra petita, pois a nulidade da citação não foi arguida pela parte autora e foi reconhecida de ofício, sem previsão legal para tanto.
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 127/134).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de execução fiscal ajuizada pelo ESTADO DO CEARÁ contra a parte ora agravada que opôs embargos à execução alegando a nulidade da citação por edital, especialmente quanto ao prévio esgotamento dos meios reais de localização do executado antes da citação editalícia, o que foi acolhido pelo Juízo de primeiro grau.
+A violação dos arts. 9º, 10 e 341 do CPC e a tese de que o Estado do Ceará não teve a oportunidade de se manifestar sobre a nulidade da citação por edital, ofendendo os princípios do contraditório e da ampla defesa, não foram apreciados pelo Tribunal de origem.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+No que diz respeito à alegação de que a decisão é extra petita, a Corte estadual entendeu que (fls. 57/58):
+Consoante já relatado, o apelante insurge-se contra a sentença que acolheu os Embargos à Execução, declarando a nulidade da citação por edital e de todos os atos processuais posteriores à citação realizados na Execução Fiscal.
+Da análise dos autos, extrai-se da sentença recorrida (págs. 19/22) que, após a frustrada tentativa de citação da executada através da via postal e de Oficial de Justiça, foi determinada a sua citação por edital, tendo a executada deixado transcorrer o prazo legal in albis, razão pela qual foi nomeada a Defensoria Pública Estadual para exercer a curadoria especial.
+Inicialmente, no que se refere à alegação de nulidade da sentença ante afronta ao art. 492 do CPC (julgamento extra petita), verifica-se não assistir razão ao apelante neste ponto.
+Isso porque, é cediço que, conforme disposto no art. 341, parágrafo único do CPC, o Curador Especial é beneficiado com a isenção do ônus de impugnação especificada, exatamente por não ter contato com o executado, estando, portanto, impossibilitado de contrariar cada um dos fatos deduzidos na inicial como fundamento da pretensão do exquente. Assim, para preservar a integridade do contraditório e da ampla defesa, o legislador admitiu, em caráter excepcional, a impugnação genérica, cujo efeito é tornar controvertidos todos os fatos contitutivos do direito do executado.
+ ..
+Desta feita, não há que se falar em julgamento extra petita no caso em tela.
+De acordo com o entendimento firmado pelo Superior Tribunal de Justiça (STJ), não há julgamento extra petita quando o Tribunal local aprecia questão que decorre logicamente do pedido inicial, uma vez que ele deve ser interpretado de forma sistemática e contextual, considerando a pretensão deduzida como um todo. É exatamente essa a situação dos presentes autos.
+A propósito, colaciono os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. DISPOSITIVO DE LEI FEDERAL. INDICAÇÃO. AUSÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE. JULGAMENTO EXTRA PETITA E ULTRA PETITA. INEXISTÊNCIA.
+ ..
+6. Conforme o entendimento consolidado no STJ, não configura julgamento ultra petita ou extra petita, com violação do princípio da congruência ou da adstrição, o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente com base em toda a petição inicial.
+7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 1.933.262/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/10/2024, DJe de 16/10/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMINISTRATIVO. SENTENÇA EXTRA PETITA. NÃO OCORRÊNCIA. AUSÊNCIA DE OFENSA AOS ART. 1.022, II, PAR. ÚNICO, E 489, IV, DO CPC. SERVIDOR PÚBLICO MUNICIPAL. EXONERAÇÃO. PONTUAÇÃO E PROCEDIMENTO SIMPLIFICADO BASEADOS EM DECRETO QUE TERIA CONTRARIADO REGRAS ESPECÍFICAS PREVISTAS EM LEI COMPLEMENTAR LOCAL. INCIDÊNCIA DAS SÚMULAS 280/STF E 7/STJ.
+1. "O vício de julgamento extra petita não se vislumbra na hipótese em que o juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, procede à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu. Assim, o julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados pela parte contrária, sendo-lhe permitido proceder à interpretação lógico-sistemática da peça" (AgInt no AREsp n. 2.127.923/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.).
+2. A mera insatisfação com o conteúdo da decisão proferida não importa em violação dos artigos 1022, II, par. único, e 489, IV, do Código de Processo Civil. O fato de o Tribunal haver decidido o recurso de forma diversa da defendida nas razões do recurso, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação.
+3. A análise acerca do cumprimento do art. 20, § 3º, da Lei Complementar Municipal n. 001/2001 e da observância do procedimento legal aplicável à espécie, em que o servidor teria sido exonerado automaticamente, envolve o exame de legislação local bem como do conteúdo fático-probatório dos autos, o que é vedado nesta instância especial, a teor das Súmulas 280/STF e 7/STJ.
+4. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.588.346/SC, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
