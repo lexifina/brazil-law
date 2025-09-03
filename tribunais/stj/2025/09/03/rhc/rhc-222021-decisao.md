@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por NICOLAS ROBERTO AZEVEDO contra o acórdão n. 5195450-09.2025.8.21.7000 do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta que o recorrente foi preso em flagrante, em 03/04/2025, com posterior conversão da custódia em preventiva, em razão da suposta prática dos crimes de extorsão mediante sequestro, roubo majorado e associação criminosa.
+A Defesa, pugnando pelo relaxamento da prisão preventiva, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 23-24.
+Em suas razões, o recorrente sustenta, em suma, que: (i) o decreto prisional é genérico; (ii) a prisão cautelar não é contemporânea; e (iii) ocorre excesso de prazo para a formação da culpa.
+Requer, em liminar e no mérito, o relaxamento da prisão preventiva e, subsidiariamente, a sua substituição por cautelares alternativas.
+É o relatório.
+DECIDO.
+De início, destaco que
+(a)s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Portanto, passo a analisar diretamente o mérito do recurso.
+Sob pena de incorrer em indevida supressão de instância, esta Corte não pode conhecer das teses (i) e (ii) - eventual ilegitimidade da prisão preventiva nem da suposta ausência de contemporaneidade da custódia -, uma vez que esses temas não foram debatidos no acórdão impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+(..)
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+No  tocante  ao  alegado  excesso  de  prazo  para  a formação da culpa,  importante  registrar  que
+ ..  a  aferição  do  excesso  de  prazo  reclama  a  observância  da  garantia  da  duração  razoável  do  processo,  prevista  no  art.  5º,  LXXVIII,  da  Constituição  Federal.  Tal  verificação,  contudo,  não  se  realiza  de  forma  puramente  matemática.  Demanda,  ao  contrário,  um  juízo  de  razoabilidade,  no  qual  devem  ser  sopesadas  as  peculiaridades  da  causa  ou  quaisquer  fatores  que  possam  influir  na  tramitação  (HC  n.  541.104/SP,  rel.  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  18/02/2020,  DJe  de 27/02/2020).
+O Tribunal estadual registrou o seguinte sobre a tese que defende a desídia estatal (fls. 23-24; grifamos):
+ ..  Anoto, por primeiro, que a impetração vai conhecida apenas no que diz respeito à alegação de excesso de prazo na formação da culpa, porquanto as questões atinentes à legalidade e à necessidade da prisão para garantia da ordem pública já foram analisadas quando do julgamento do habeas corpus n. 5087411- 15.2025.8.21.7000, na sessão realizada por esta Câmara Criminal, em 22 de abril de 2025, tendo sido denegada a ordem, à unanimidade.
+ ..
+No caso presente, entretanto, não se evidencia o alegado constrangimento ilegal, na medida em que o paciente foi preso em flagrante em 3 de abril de 2025 (12.1) e esse, no dia subsequente, foi homologado, sendo a prisão convertida em preventiva (17.1), cuja revogação, cinco dias depois, foi indeferida pelo magistrado ( 39.1), sendo o paciente indiciado em 25 de junho (79.24).
+Mais, na mesma data juntado o relatório final pela autoridade policial, o Promotor de Justiça, em 2 de julho - mesmo dia em que efetivada a intimação eletrônica -, requereu à magistrada do Regime de Exceção da 2ª Vara Regional de Garantias de Porto Alegre, onde tramita o inquérito policial, que fossem adotadas, com urgência, "as providências necessárias para que este processo vá com intimação à Promotoria de Esteio", para onde já declinada a competência para o exame dos fatos, nos autos da Medida Cautelar n. 5095545- 76.2025.8.21.0001 (71.1). E sobrevindo, em 11 de julho, decisão noticiando que já houve a retificação da "Subseção de origem" no sistema, estando o feito vinculado à Comarca de Esteio, e que, tendo a intimação sido automaticamente direcionada à Promotoria de Sapucaia do Sul, caberia "à instituição ministerial, que providenciar, administrativamente, a redistribuição do feito ao órgão de execução competente", tem-se que foi expedida, no mesmo dia, intimação eletrônica ao Ministério Público (evento 92), sendo essa efetivada na segunda-feira, dia 21 de julho (evento 100), com o que não verifico desídia ou inércia por parte do juízo ou da acusação.
+Em tal contexto, se dilação há, não se situa no âmbito da extrapolação abusiva, com o que não há cogitar de excesso de prazo na formação da culpa.
+Daí por que voto por denegar a ordem.
+No caso, entendo que não há razão para reconhecer o alegado excesso de prazo pois  reputo  plausíveis  as  razões  consignadas  pela  instância  ordinária  para  afastar  a  tese  de  ocorrência  de  desídia  estatal,  até  porque  não  é  constatável  ofensa  ao  princípio  da  razoabilidade  na  formação  da  culpa,  mormente  se  considerado  o  tempo  concreto  de  prisão  preventiva  diante da  pena  abstrata  dos  delitos  pelos  quais  o paciente foi denunciado  (fl. 23) -  no  caso: extorsão mediante sequestro, roubo majorado e associação criminosa.
+Há de se considerar as peculiaridades do caso, sobretudo a dinâmica dos atos processuais informadas no acórdão impugnado, revelando que o feito tem sido impulsionado de modo célere.
+Por fim, apenas para fins de registro, tenho que, ao que parece, a ação penal tem seu trâmite regular, uma vez que, em consulta ao site do Tribunal de Justiça do Estado do Rio Grande do Sul, pude constatar que o Ministério Público ofereceu a denúncia e que, em 31/07/2025, a Magistrada de primeiro grau a recebeu, tomando em sequência as providências cabíveis para o desenrolar do processo.
+Ante o exposto, conheço parcialmente do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
