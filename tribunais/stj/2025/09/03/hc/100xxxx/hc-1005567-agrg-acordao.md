@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do acusado pela suposta prática de homicídio qualificado.
+2. O juízo de primeiro grau decretou a prisão preventiva com base na existência de outras ações penais em andamento contra o acusado e na complexidade do caso, envolvendo múltiplos réus e requerimentos probatórios.
+3. O Tribunal de origem manteve a prisão preventiva, destacando a ausência de excesso de prazo na instrução processual e a necessidade de garantir a ordem pública.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do acusado está devidamente fundamentada e se há excesso de prazo na instrução processual que justifique a concessão de habeas corpus.
+III. Razões de decidir
+5. A prisão preventiva foi fundamentada na necessidade de garantir a ordem pública, considerando a gravidade dos crimes imputados e o risco de reiteração delitiva.
+6. A alegação de excesso de prazo não se sustenta, pois a complexidade do caso e a atuação da defesa contribuíram para a demora na instrução processual.
+7. As condições pessoais favoráveis do acusado não são suficientes para afastar a necessidade da prisão preventiva, diante dos requisitos autorizadores presentes.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida para garantir a ordem pública quando há risco de reiteração delitiva e gravidade concreta dos fatos. 2. A complexidade do caso e a atuação da defesa podem justificar a demora na instrução processual, afastando a alegação de excesso de prazo".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 282, II.
+Jurisprudência relevante citada: STJ, AgRg no HC 823.916/PE, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024; STJ, AgRg no HC 833.150/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 7/5/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANT NIO GUSTAVO LIMA DE OLIVEIRA contra decisão de minha lavra, na qual deneguei a ordem de habeas corpus (fls. 123/127).
+Consta dos autos que o paciente está preso preventivamente pela suposta prática do delito capitulado no art. 121, § 2º, incisos II e IV, do Código Penal.
+Nas razões do presente recurso, a Defesa reitera as alegações apresentadas na inicial do habeas corpus quanto à ausência de fundamentação idônea e dos requisitos necessários para a prisão cautelar do acusado, além do excesso de prazo na prisão processual.
+Busca, assim, a reconsideração do decisum impugnado ou o provimento do agravo regimental pelo órgão Colegiado.
+Sem contrarrazões.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do acusado pela suposta prática de homicídio qualificado.
+2. O juízo de primeiro grau decretou a prisão preventiva com base na existência de outras ações penais em andamento contra o acusado e na complexidade do caso, envolvendo múltiplos réus e requerimentos probatórios.
+3. O Tribunal de origem manteve a prisão preventiva, destacando a ausência de excesso de prazo na instrução processual e a necessidade de garantir a ordem pública.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do acusado está devidamente fundamentada e se há excesso de prazo na instrução processual que justifique a concessão de habeas corpus.
+III. Razões de decidir
+5. A prisão preventiva foi fundamentada na necessidade de garantir a ordem pública, considerando a gravidade dos crimes imputados e o risco de reiteração delitiva.
+6. A alegação de excesso de prazo não se sustenta, pois a complexidade do caso e a atuação da defesa contribuíram para a demora na instrução processual.
+7. As condições pessoais favoráveis do acusado não são suficientes para afastar a necessidade da prisão preventiva, diante dos requisitos autorizadores presentes.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida para garantir a ordem pública quando há risco de reiteração delitiva e gravidade concreta dos fatos. 2. A complexidade do caso e a atuação da defesa podem justificar a demora na instrução processual, afastando a alegação de excesso de prazo".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 282, II.
+Jurisprudência relevante citada: STJ, AgRg no HC 823.916/PE, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024; STJ, AgRg no HC 833.150/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 7/5/2024.
+VOTO
+A irresignação não prospera.
+Com efeito, o recurso não apresenta argumento capaz de desconstituir os fundamentos que amparam a decisão ora impugnada, que deve ser integralmente mantida, in verbis (fls. 123/127; grifamos):
+A ordem deve ser denegada.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, apresentou as seguintes razões (fls. 11/13; grifamos): Conforme certidão de antecedentes criminais às fls. 12/14, o acusado responde a outras duas ações penais, uma pela prática de crime de homicídio qualificado e corrupção de menores, outra pelo cometimento do delito de roubo e corrupção de menores em continuidade delitiva, o que autoriza a incidência da Súmula 52 do TJCE: "Inquéritos e ações em andamento justificam a decretação da prisão preventiva para garantia da ordem pública nos termos do art. 312 do CPP, não se aplicando o enunciado sumular n.º 444 do STJ." Por fim, a ação penal apresenta complexidade relevante. Foi proposta contra 05 réus. Em audiências de instrução, há requerimentos probatórios da Defesa dos acusados. (..) Ou seja, a contemporaneidade da prisão preventiva se fundamenta na persistência dos motivos que a justificam, independentemente do tempo decorrido entre a decretação e o cumprimento do mandado de prisão. No caso dos autos, não houve alteração dos motivos que ensejaram o decreto de prisão preventiva do denunciado. Por fim, conforme precedentes do STF e do STJ, o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+O Tribunal de origem, por sua vez, manteve a segregação cautelar do acusado, consignando, in verbis (fls. 59/77; grifamos):
+Após cuidadosa avaliação do atual conjunto processual, constato que é inviável a análise de mérito da questão relativa ao alegado excesso de prazo para a conclusão da instrução, sob pena de incorrer em supressão de instância, considerando que a matéria não tenha sido previamente examinada na instância inicial junto ao pedido de relaxamento n.º0010132- 59.2025.8.06.0144. Além disso, a realização da audiência de continuação da instrução está prevista para breve, tendo o juízo impetrado já ordenado a definição da data para sua ocorrência, conforme registrado às fls. 681/682 e 686/687 dos autos do processo originário. Pois bem, em análise à sequência dos atos processuais mencionados, identifico que não há elemento capaz de indicar excesso de prazo na segregação cautelar, imputado à demora na instrução processual, pois os atos foram diligentemente praticados pelo magistrado responsável pela condução do processo, de forma que inexiste constrangimento ilegal capaz de ensejar ordem liberatória. Ademais, eventual mora processual pode ainda ser atribuída à complexidade da causa, dada a pluralidade de réus (05), representados por procuradores distintos. (..) O periculum libertatis, por sua vez, é evidenciado pela situação de perigo gerada pela conduta do acusado, que compromete a efetivação da pretensão punitiva. Sem falar que, a garantia da ordem pública tem, entre outros objetivos, o de prevenir a reiteração criminosa, protegendo a sociedade contra danos que transcendem a questão da liberdade do requerente. No que tange aos antecedentes de Antônio Gustavo Lima de Oliveira, constam em seu desfavor os seguintes procedimentos recentes: 0200230-23.2022.8.06.0300 (homicídio qualificado) e 0050950- 92.2021.8.06.0144 (roubo em concurso com corrupção de menor). Nesse contexto, a Súmula nº 52 do TJ/CE dispõe que "inquéritos e ações penais em curso justificam a decretação da prisão preventiva para garantia da ordem pública, nos termos do art. 312 do CPP, não se aplicando o enunciado da Súmula nº 444 do STJ". Nesse contexto, destaca-se outro fator que fundamenta a necessidade de segregação do paciente: a prevenção à reiteração criminosa, sustentada pelo histórico do suplicante.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, em virtude da , evidenciada especial reprovabilidade dos fatos partir das circunstâncias da prática delitiva aliado ao fato de que o acusado possui ações penais em andamento, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente: AGRAVO REGIMENTAL NO HABEAS CORPUS. ORDEM DENEGADA. FALTA DE NOVOS ARGUMENTOS. HOMICÍDIO QUALIFICADO. EXCESSO DEPRISÃO PREVENTIVA. GRAVIDADE CONCRETA. PRAZO. PECULIARIDADES DA DEMANDA. PENA COMINADA. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. O modus operandi do crime de homicídio qualificado, supostamente cometido mediante golpes de faca peixeira na vítima, por motivo fútil, após mera discussão em um bar, é bastante para evidenciar a gravidade concreta dos fatos e a acentuada periculosidade social do acusado, bem como para lastrear a medida cautelar mais onerosa, que lhe foi imposta.
+3. A existência de ações penais em curso, por crimes violentos, e a prévia condenação definitiva por delito contra a vida, ao cumprimento de mais de 10 anos de reclusão, apontam o risco concreto de reiteração delitiva e são aptas, de acordo com a orientação desta Corte, para amparar o cárcere preventivo do réu.
+(..) 7. Agravo regimental não provido.
+(AgRg no HC n. 823.916/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. MOTIVO FÚTIL. PERIGO COMUM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE EM CONCRETO DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. No caso, está evidente a imprescindibilidade da mantença da prisão preventiva para garantia da ordem pública, diante das graves circunstâncias do caso concreto (modus operandi) e do fundado risco de reiteração delitiva.
+3. O agravante, reincidente, teria tentado ceifar a vida da vítima, mediante golpes de faca na região da cabeça do ofendido, causando- lhe graves lesões, não se consumando o intento homicida por circunstâncias alheias a sua vontade.
+4. A prisão preventiva também justifica-se diante do risco de reiteração delitiva, porquanto o agravante é reincidente.
+5. Agravo regimental não provido. (AgRg no HC n. 833.150/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/5/2024, DJe de 10/5/2024).
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+Ademais, notório reconhecer que, diante da reiteração delitiva, as medidas cautelares diversas da prisão não são suficientes para impedir a prática de novas condutas penais e acautelar o meio social. Por derradeiro, a alegação de excesso de prazo na prisão processual não merece guarida.
+O homicídio possui um procedimento diferenciado e mais dilargado no CPP, diante da previsão de duas fases processuais, o que, por si só, já aumenta a complexidade dos feitos a ele submetidos, havendo a necessidade de uma maior elasticidade no que tange à interpretação da razoável duração do processo.
+No caso em comento, além do fator acima mencionado, constata-se, compulsando os autos originais, que se trata de feito de natureza complexa envolvendo cinco denunciados patrocinados por advogados distintos e que o retardamento na marcha processual teria decorrido da insistência da defesa na oitiva de testemunhas não localizadas, o que faz incidir a Súmula n. 64 do deste Tribunal, que apregoa: "Não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa".
+Observa-se das informações encaminhadas pelo Juízo de primeiro grau que o processo encontra-se aguardando nova data para audiência de instrução e julgamento em continuação.
+Desse modo, não havendo que se falar em ilegalidade manifesta e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, denego a ordem de habeas corpus, recomendando ao Juízo de origem a designação de nova data para audiência pendente de realização.
+Conforme ressaltado na decisão monocrática, as instâncias ordinárias apresentaram fundamentação idônea para a imposição da prisão cautelar do ora agravante como forma de resguardar a ordem pública, destacando-se a especial reprovabilidade dos fatos, o que encontra respaldo na jurisprudência do Superior Tribunal de Justiça.
+A alegação de excesso de prazo não merece guarida porque, além da complexidade da causa em debate, não houve o encerramento da instrução diante da insistência da defesa para oitiva de testemunhas não localizadas.
+Assim, por não terem sido declinados, nas razões recursais, fundamentos jurídicos que infirmem os motivos da decisão ora agravada, deve esse ato ser integralmente mantido por seus próprios termos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
