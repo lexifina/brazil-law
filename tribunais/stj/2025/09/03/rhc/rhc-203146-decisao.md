@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por JÚLIO CÉSAR DIMON contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o recorrente foi autuado pela Polícia Militar Ambiental em 1º de dezembro de 2023 por supostamente "destruir floresta nativa em área de 975m  (0,097ha) remanescente do Bioma Mata Atlântica, objeto especial de preservação, vegetação secundária em estágio médio de regeneração, sem autorização da autoridade ambiental competente", conforme se verifica às fls. 46. O Ministério Público de Santa Catarina ofereceu Acordo de Não Persecução Penal ao paciente.
+A defesa impetrou habeas corpus perante o Tribunal de origem, por meio do qual buscava o reconhecimento da insignificância penal da conduta e, liminarmente, o cancelamento da reunião de negociação do acordo de não persecução penal. A ordem foi denegada nos termos do acórdão de fls. 37.
+Conforme consta à fl. 37, o v. aresto recorrido restou assim ementado:
+HABEAS CORPUS. CRIME PREVISTO NO ART. 38-A DA LEI N. 9.605/1998. OFERECIMENTO DO ACORDO DE NÃO PERSECUÇÃO PENAL. PRETENSO RECONHECIMENTO DA ATIPICIDADE DA CONDUTA (INSIGNIFICÂNCIA). NÃO CONHECIMENTO DA PRETENSÃO. DEFESA QUE SE INSURGIU EM RELAÇÃO A ATO ATRIBUÍDO AO PROMOTOR DA 2ª PROMOTORIA DE JUSTIÇA DA COMARCA DE BRAÇO DO NORTE, QUE OFERECEU O ANPP AO PACIENTE. DISCRICIONARIEDADE CABÍVEL AO PARQUET QUE AFASTOU OS ARGUMENTOS LANÇADOS PELA DEFESA NO SENTIDO DE ARQUIVAR O FEITO. INDEPENDÊNCIA FUNCIONAL. ADEMAIS, TESE DE ATIPICIDADE AVENTADA QUE DEMANDA EXAME APROFUNDADO. INCOMPATIBILIDADE COM O PRESENTE WRIT. QUESTÃO TAMBÉM NÃO AVALIADA EXPRESSAMENTE PELO JUÍZO A QUO. RISCO DE SUPRESSÃO DE INSTÂNCIA. OUTROSSIM, HOMOLOGAÇÃO DO ANPP PERPETRADA APÓS A IMPETRAÇÃO DA PRESENTE AÇÃO. HABEAS CORPUS NÃO CONHECIDO.
+No presente recurso ordinário, o recorrente alega que a conduta praticada seria penalmente insignificante. Sustenta que não obteve vantagem pecuniária, não afetou ou expôs a perigo, de maneira grave, a saúde pública ou o meio ambiente, não causou danos a Unidade de Conservação, não utilizou métodos capazes de provocar destruição em massa, não atingiu espécies da fauna e flora rara ou ameaçada de extinção, e não colocou a biodiversidade local em risco.
+Aduz que (fl. 49) :
+ ..  a conduta do paciente foi minimamente ofensiva haja vista foram atingidos, parcialmente, 975m  (novecentos e setenta e cinco metros quadrados) (0,097Ha) de floresta nativa remanescente do Bioma Mata Atlântica. Frisa-se que a destruição foi apenas parcial, em típica atividade de roçagem e/ou raleio, pois as fotografias evidenciam a manutenção das árvores de copa mais grossa.
+Afirma que deveria o (fl. 49):
+ ..  Poder Judiciário averiguar a tipicidade da conduta a qual o Ministério Público propõe o acordo de não persecução penal. Do contrário, a atividade ficaria a bel prazer do Parquet, que poderia cometer atrocidades jurídicas sem ser fiscalizado.
+Assevera que o Projeto de Recuperação de Área Degradada aprovado pela autoridade ambiental sugeriu apenas o isolamento da área para regeneração natural como meio adequado, dispensando-se o plantio de quaisquer mudas.
+Salienta, ainda, que a conduta não seria dotada de periculosidade social e que o grau de reprovabilidade foi reduzido, considerando que na esfera administrativa aplicou-se multa em grau mínimo (R$ 5.000,00) com desconto de 90%, resultando em multa consolidada de R$ 500,00.
+Requer, liminarmente, o cancelamento da reunião de negociação do acordo de não persecução penal.
+No mérito, postula o provimento do recurso (fl. 52):
+ ..  para conceder-se a ordem de habeas corpus a fim de reconhecer a insignificância penal, por consequência, a atipicidade material da conduta, e, assim, anular o acordo de não persecução penal, promovendo-se a absolvição do recorrente e arquivamento da persecução penal.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso no parecer de fls. 70-72 assim ementado:
+RECURSO EM HABEAS CORPUS. CRIME AMBIENTAL. ART. 38-A, DA LEI N. 9.605/98. DEVASTAÇÃO DE 0,097 HA DE VEGETAÇÃO SECUNDÁRIA, EM ESTÁGIO MÉDIO DE REGENERAÇÃO, DO BIOMA DA MATA ATLANTICA. DESTRUIÇÃO DE VÁRIAS ESSENCIAS NATIVAS (CEDRO, VASSOURA, PALMITEIROS). PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO-APLICAÇÃO. CONDUTA TÍPICA. ANPP CELEBRADO NA ORIGEM. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+Não obstante os argumentos expendidos pela defesa, o recurso não merece prosperar, pois não há constrangimento ilegal a ser reparado pela via estreita do habeas corpus.
+De início, registro que os eventuais desdobramentos da negociação de acordo de não persecução penal são indiferentes ao mérito dessa impetração, pois é opção do investigado aceitar ou não o benefício que lhe seja proposto, não se podendo falar em ilegalidade.
+Quanto ao mérito, confira-se a manifestação do Ministério Público em segundo grau (fl. 26):
+In casu, conforme constatado no Relatório de Fiscalização (evento 1 dos autos originários) a área, em tese, devastada pelo Recorrente corresponde a 0,097ha (zero vírgula zero noventa e sete hectares) de vegetação secundária, em estágio médio de regeneração, do Bioma Mata Atlântica, não podendo ser considerado ínfimo o dano causado pela conduta delituosa.
+Por sua vez, no relatório de fiscalização (fl. 72) constatou-se que:
+A equipe de fiscalização ambiental, composta pela Sgt Daniela e Cb Miranda, durante atendimento de ocorrência cadastrada sob SADE n. 8818130, deslocou até a localidade de Mar Grosso, município de São Ludgero e constatou um desmatamento. Trata-se de um desmatamento em uma área de 0.097 ha, vegetação secundária em estágio média de regeneração, sendo destruídas com utilização de motosserra várias essências nativas, como cedro, vassoura, palmiteiros.
+Como se observa, a constatada eliminação da cobertura vegetal secundária em fase intermediária de regeneração pertencente ao Bioma Mata Atlântica, mediante emprego de motosserra para devastar diversas espécies autóctones, incluindo cedro, vassoura e palmiteiros, não permite classificação como desprezível para efeitos de incidência do princípio da bagatela.
+A aplicação do princípio da insignificância, como amplamente sabido, exige a constatação simultânea de quatro elementos: (i) ofensividade mínima do comportamento do sujeito ativo; (ii) ausência de periculosidade social do ato; (iii) grau diminuto de censurabilidade da conduta; e (iv) irrelevância do prejuízo jurídico causado.
+No caso, o comportamento do ora recorrente ocasionou prejuízo significativo ao ambiente protegido, evidenciando-se a censurabilidade da ação do indivíduo, o que afasta, de plano, a solução pretendida.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 30-A DA LEI 9.605/1998. ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA . IMPOSSIBILIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO IMPROVIDO.
+I . Caso em exame
+1. Agravo regimental interposto por Leandro da Silva Leite contra decisão do Tribunal Regional Federal da 3ª Região que inadmitiu recurso especial, pleiteando a aplicação do princípio da insignificância para absolvição do delito previsto no art. 38-A da Lei nº 9.605/98, alegando atipicidade material da conduta .
+II. Questão em discussão
+2. A questão em discussão consiste na aplicação do princípio da insignificância em crime ambiental, considerando a extensão do dano e a atipicidade material da conduta.
+III . Razões de decidir
+3. O agravo regimental é conhecido por ser tempestivo e indicar os fundamentos da decisão recorrida.
+4. A aplicação do princípio da insignificância requer a conjugação de conduta minimamente ofensiva, ausência de periculosidade do agente, reduzido grau de reprovabilidade do comportamento e lesão jurídica inexpressiva.
+5. A conduta do recorrente não se reveste de atipicidade material, considerando a área afetada inserida em bioma protegido e a ofensividade concreta da ação (grifamos).
+IV. Dispositivo e tese
+6 . Agravo improvido.
+(STJ - AgRg no AREsp: 2409879 SP 2023/0246970-9, Relator.: Ministra DANIELA TEIXEIRA, Data de Julgamento: 30/09/2024, T5 - QUINTA TURMA, Data de Publicação: DJe 02/10/2024)
+DIREITO PENAL E AMBIENTAL. AGRAVO REGIMENTAL. SUPRESSÃO DE VEGETAÇÃO NATIVA EM BIOMA MATA ATLÂNTICA. PRINCÍPIO DA INSIGNIFICÂNCIA . INAPLICABILIDADE. EXTENSÃO SIGNIFICATIVA DA ÁREA DESMATADA E PRESENÇA DE ESPÉCIE AMEAÇADA DE EXTINÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I . CASO EM EXAME
+1. Agravo regimental interposto contra decisão que afastou a aplicação do princípio da insignificância em crime ambiental relacionado à supressão de vegetação nativa no Bioma Mata Atlântica, em área de 1.122,38 m , com utilização de motosserras, atingindo espécie da flora ameaçada de extinção (Cedrela odorata). A defesa sustenta que a área desmatada seria insignificante para caracterizar ofensa ao bem jurídico tutelado .
+II. QUESTÃO EM DISCUSSÃO2. Há duas questões em discussão: (i) se a área desmatada (1.122,38 m ) e a conduta de supressão de vegetação em estágio de regeneração no Bioma Mata Atlântica, com uso de motosserras, podem ser consideradas de ínfima lesividade para fins de aplicação do princípio da insignificância; e (ii) se o fato de ter sido atingida espécie da flora nativa ameaçada de extinção impede o reconhecimento da atipicidade material da conduta .
+III. RAZÕES DE DECIDIR
+3. A aplicação do princípio da insignificância em crimes ambientais exige a conjugação de fatores como mínima ofensividade da conduta, ausência de periculosidade do agente, reduzido grau de reprovabilidade e lesão jurídica inexpressiva, o que não se verifica no caso concreto, dada a extensão da área desmatada (1.122,38 m ) e o fato de que a conduta atingiu espécie nativa ameaçada de extinção (Cedrela odorata) .
+4. A jurisprudência desta Corte é firme ao considerar inaplicável o princípio da insignificância quando a conduta causa lesão significativa ao meio ambiente, o que abrange não só a dimensão econômica, mas também o equilíbrio ecológico necessário para a preservação das condições de vida no planeta (AgRg no RHC 177.595/MS e AgRg no REsp 1.847 .810/PR). 5. As instâncias ordinárias afastaram corretamente a alegação de inexpressividade da lesão ambiental, fundamentando-se na extensão do dano e na relevância da flora atingida. Assim, não há elementos que justifiquem a reconsideração da decisão recorrida (grifamos) .
+IV. DISPOSITIVO6. Agravo regimental desprovido.
+(STJ - AgRg no REsp: 2129911 RS 2024/0086759-5, Relator.: Ministra DANIELA TEIXEIRA, Data de Julgamento: 08/10/2024, T5 - QUINTA TURMA, Data de Publicação: DJe 14/10/2024)
+Ante o exposto, com amparo n o art. 34, XVIII, b, do Regimento Interno do STJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
