@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de BRUNO JOSE DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 1.172.647-5).
+Consta nos autos que o paciente foi condenado à pena de 13 anos, 02 meses e 19 dias de reclusão, em regime inicial fechado, pela prática do crime de roubo majorado, tipificado no artigo 157, § 2º, incisos I, II e V, por duas vezes, em continuidade delitiva (artigo 71), todos do Código Penal, c/c o artigo 29, caput, do mesmo diploma legal.
+O impetrante sustenta que a condenação foi embasada exclusivamente em reconhecimento fotográfico realizado dois dias após os fatos, por apenas uma das vítimas, sem que houvesse qualquer outra prova que corroborasse a imputação, e que o reconhecimento fotográfico, isolado e posterior, não possui força probatória suficiente, conforme jurisprudência e entendimentos atuais, sendo indevidamente utilizado como único fundamento para a condenação penal.
+Alega que a única prova trazida pela autoridade coatora foi produzida na fase inquisitorial e está robustecida de contradições, já que a vítima/testemunha protegida disse na delegacia que só conseguiu visualizar com mais detalhes o assaltante que descreveu, e esse envolvido não é o paciente.
+Afirma que a condenação viola as garantias constitucionais do devido processo legal e da ampla defesa, bem como afronta o artigo 226 do Código de Processo Penal, que prevê a forma em que os reconhecimentos devem ser feitos, destacando que a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça reforça a nulidade da condenação fundamentada exclusivamente em reconhecimento fotográfico realizado em desacordo com o aludido dispositivo legal.
+Requer, liminarmente e no mérito, a concessão da ordem para anular a condenação do paciente ou, alternativamente, a sua absolvição integral por insuficiência probatória, aplicando-se o princípio in dubio pro reo. Subsidiariamente, a absolvição do delito ocorrido na residência de Adauto e a rejeição das valorações negativas ocorridas pelas circunstâncias judiciais das consequências do crime e da personalidade do agente, diante da ausência de conteúdo probatório pericial apto a ensejar tais valorações, bem como a modificação da fração de aumento pelo reconhecimento da continuidade delitiva, de metade para 1/6, considerando tratar-se de apenas duas infrações.
+A liminar foi indeferida (fls. 128/130).
+Foram prestadas as informações (fls. 137/140 e 143/147). O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 149/151).
+É o relatório.
+DECIDO.
+Pretende o Impetrante rediscutir matéria relacionada à condenação transitada em julgado em 14/08/2015 (fl. 138), apresentando verdadeira revisão criminal travestida de habeas corpus.
+Diante dessa situação não deve ser conhecido o writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, I, "e", da Constituição da República, competem ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Quanto ao ponto, cito os seguintes precedentes das Turmas que compõem a Terceira Seção desta Corte:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA.AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, compreendendo "não deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em9/8/2022, DJe de 15/8/2022). Na hipótese dos autos, a condenação do agravante transitou em julgado de há muito, com baixa definitiva ao Juízo de origem, tendo o acórdão sido proferido em março de 2013.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 846.952/RJ, Rel. Ministro Antonio Saldanha Palheiro, SextaTurma, julgado em 27/11/2023, DJe de 30/11/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. REGIME FECHADO.IMPETRAÇÃO CONTRA SENTENÇA COM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE.AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA.AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos.
+II - "O exame das alegações dos impetrantes se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal" (HC n. 483.065/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/11/2019).
+III - Ao Superior Tribunal de Justiça é vedado apreciar mandamus impetrado contra sentença transitada em julgado na instância ordinária, pois, nesse caso, haveria usurpação da competência do Tribunal de origem, nos termos dos artigos 105, inciso I, alínea "e", e artigo 108, inciso I, alínea "b", ambos da Constituição da República. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 832.975/PR, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+Portanto, não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado - o que não ocorreu na espécie.
+Da análise dos fundamentos constantes da decisão impugnada, constata-se que não há qualquer ilegalidade apta a legitimar a atuação de ofício desta Corte.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
