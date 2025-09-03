@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da Súmula n. 83 do STJ (fls. 438-443).
+O acórdão recorrido encontra-se assim ementado (fl. 268):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES PAGOS. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. PRETENSÃO DE DESFAZIMENTO DO PACTO POR PARTE DO PROMISSÁRIO COMPRADOR. ALEGAÇÃO DE AUSÊNCIA DE CONDIÇÕES FINANCEIRAS PARA REALIZAR O PAGAMENTO DAS PARCELAS DO CONTRATO. SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS, PARA RESCINDIR O CONTRATO E DETERMINAR A DEVOLUÇÃO DE 75% DOS VALORES PAGOS, ACRESCIDOS DE JUROS, A CONTAR DA CITAÇÃO. IRRESIGNAÇÃO DA DEMANDADA. Firme entendimento jurisprudencial do STJ no sentido de que é possível o promissário comprador, diante da impossibilidade financeira em honrar com as contraprestações devidas pelo contrato, buscar a sua resilição, unilateralmente, afastando-se a previsão contratual de irretratabilidade e irrevogabilidade (REsp 1.723.519/SP). Restituição de 75% dos valores pagos pelos autores que se mostra em consonância com o posicionamento adotado pelo STJ em casos de resolução unilateral (rescisão por culpa), sendo plenamente razoável sua aplicação ao caso em tela, embora retrate hipótese de resilição sui generis.
+Descabimento da retenção integral das arras, posto que o reconhecimento da possiblidade de retenção de parte das parcelas adimplidas - 10% do total -, serve como indenização pelas despesas e prejuízo imposto à promitente vendedora, afastando, assim, a perda das arras, sob pena de ocorrência de espécie de bis in idem.
+Juros que devem incidir a contar do trânsito em julgado, visto que, considerando que houve a resilição unilateral do contrato por parte dos promissários compradores, inexiste mora anterior do promitente vendedor. Precedente do STJ. Incidência da correção monetária a partir de cada desembolso, posto que se trata de mera recomposição do poder aquisitivo da moeda aviltada pela inflação.
+Reforma parcial da sentença que se impõe, para determinar os juros moratórios a contar do trânsito em julgado e correção monetária a partir de cada desembolso. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Os embargos de declaração foram rejeitados (fls. 328-334).
+Nas razões do recurso especial (fls. 355-372), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação do art. 63, § 4º, da Lei n. 4.591/1964 sustentando que, "nos casos de ocorrência de leilão e arrematação por valor inferior ao do imóvel, não há o que se falar em devolução de valores ao adquirente" (fl. 360).
+Afirma que o pedido de rescisão contratual ocorreu meses após a parte recorrida ter se tornado inadimplente, o que deu ensejo à ocorrência do leilão extrajudicial, conforme disposta no lei de incorporações imobiliárias.
+Sustenta que, diante da rescisão administrativa do contrato com o leilão extrajudicial do bem, houve perda do objeto quanto ao pedido de resilição do contrato, sendo devida a devolução de valores apenas no caso de haver saldo após o pagamento da dívida. Informa que, no caso, não houve saldo remanescente.
+Invoca as cláusulas de irrevogabilidade e irretratabilidade e alega que não há previsão legal que autorize o desfazimento do negócio pela parte inadimplente.
+Subsidiariamente, indica ofensa ao art. 418 do CC. Defende que as arras, de natureza indenizatória, devem ser excluídas do valor a ser devolvido ao comprador do bem.
+No agravo (fls. 461-469), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 475-478).
+É o relatório.
+Decido.
+O art. 63, § 4º, da Lei n. 4.591/1996, apontado como violado pela parte recorrente, tem a seguinte redação:
+Art. 63. É lícito estipular no contrato, sem prejuízo de outras sanções, que a falta de pagamento, por parte do adquirente ou contratante, de 3 prestações do preço da construção, quer estabelecidas inicialmente, quer alteradas ou criadas posteriormente, quando fôr o caso, depois de prévia notificação com o prazo de 10 dias para purgação da mora, implique na rescisão do contrato, conforme nêle se fixar, ou que, na falta de pagamento, pelo débito respondem os direitos à respectiva fração ideal de terreno e à parte construída adicionada, na forma abaixo estabelecida, se outra forma não fixar o contrato.
+ ..
+§ 4º Do preço que fôr apurado no leilão, serão deduzidas as quantias em débito, tôdas as despesas ocorridas, inclusive honorário de advogado e anúncios, e mais 5% a título de comissão e 10% de multa compensatória, que reverterão em benefício do condomínio de todos os contratantes, com exceção do faltoso, ao qual será entregue o saldo, se houver.
+A Corte estadual não examinou o conteúdo de tal dispositivo legal, de modo que o especial não pode ser conhecido por faltar o requisito do prequestionamento. Incide a Súmula n. 282 do STF no ponto.
+Em relação à retenção das arras, o Tribunal de origem concluiu que (fl. 277):
+Outrossim, melhor sorte não assiste a ora recorrente no que se refere à retenção integral das arras, posto que o reconhecimento da possiblidade de retenção de parte das parcelas adimplidas  .. , serve como indenização pelas despesas e prejuízo imposto à promitente vendedora, afastando, assim, a perda das arras, sob pena de ocorrência de espécie de bis in idem.
+Contudo, nas razões do especial a parte não impugnou o fundamento do acórdão recorrido de que haveria bis in idem se, além da retenção das parcelas adimplidas, houvesse a retenção das arras. Em tais condições, aplica-se a Súmula n. 283 do STF a impedir o seguimento do especial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
