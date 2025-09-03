@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da Súmula n. 735/STF (fls. 197-199).
+O acórdão recorrido encontra-se assim ementado (fl. 122):
+TUTELA PROVISÓRIA - Contrato Plano de saúde - Paciente diagnosticada com câncer de mama - Deferimento para determinar o custeio de criopreservação de óvulos - Dilação do prazo estabelecido na decisão (imediato), para o seu cumprimento - Descabimento - Urgência para a realização da terapia, não sendo razoável que a paciente aguarde, para ver seu tratamento realizado - Multa - Afastamento - Descabimento - "Astreinte" que guarda relação com a determinação do Juízo, incidindo apenas em caso de descumprimento Recurso improvido.
+Os embargos de declaração foram rejeitados (fls. 141-146).
+Nas razões do recurso especial (fls. 149-172), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou, além de conflito jurisprudencial, violação dos seguintes dispositivos:
+(i) arts. 498 e 1.022 do CPC, pois fica "ainda mais que evidente que também acarreta em nítida violação na ausência de análise de todos os argumentos aduzidos no processo e que são relevantes para evidenciar a imprescindibilidade de revisão do v. Acórdão recorrido para afastar a concessão da tutela de urgência da r. decisão agravada" (fl. 162).
+(ii) arts. 300 do CPC, e 10, § 13, da Lei n. 9.656/1998, isso porque a "r. decisão fundamentou o deferimento da liminar por entender que haveria cobertura para a patologia da parte adversa perante o plano de saúde e que o procedimento de criopreservação de óvulo indicado pelo médico assistente seria necessária, ainda que fosse extra rol da ANS, no entanto, desconsiderou-se a ausência de cumprimento dos requisitos necessários da Lei nº 9.656/98, bem como não se atentou sobre indicação de tratamento medicamentoso alternativo que possui previsão em rol da ANS, com autorização tanto da CONITEC como da ANVISA" (fl. 170).
+No agravo (fls. 202-219), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 222).
+É o relatório.
+Decido.
+A controvérsia tem origem em decisão que "deferiu o pedido de tutela de urgência para impor à ré o custeio imediato de criopreservação dos óvulos até a alta do tratamento quimioterápico prescrito à autora, para combate de câncer de mama, a partir de quando caberá a esta arcar com os eventuais custas, às suas expensas, se necessário for, sob pena de multa diária de R$ 500,00 (quinhentos reais), até o limite de R$ 20.000,00 (vinte mil reais)" (fls. 122-123).
+O agravo de instrumento interposto contra essa decisão foi desprovido.
+(I) Inexiste afronta aos arts. 489, § 1º, e 1.022, parágrafo único, II, do CPC/2015, quando o acórdão recorrido pronuncia-se, de forma clara, suficiente e fundamentada, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, o Tribunal de origem manifestou-se expressamente sobre necessidade do deferimento da tutela de urgência ao afirmar que "É sabido que muitas pacientes que são diagnosticadas com câncer e que necessitam se tratar com radioterapia ou quimioterapia podem ficar com sua função reprodutiva comprometida. Então, nessa hipótese, para aquelas que pretendem ser mães futuramente, deverão congelar seus óvulos antes de ser iniciado o tratamento contra a doença. Daí, irrelevante o planejamento quimioterápico.  ..  Quanto ao custeio da terapia, deve de ocorrer conforme determinado pelo magistrado, ao menos até que seja estabelecido o devido contraditório, após o que poderá, ele, rever tal determinação, se o caso" (fl. 124).
+Desse modo, não assiste razão à parte recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos art. 489 e 1.022 do CPC/2015.
+(II) Com relação arts. 300 do CPC, e 10, § 13, da Lei n. 9.656/1998, o recurso não merece acolhida.
+A jurisprudência do STJ não admite a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que negam ou deferem medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF no caso.
+No mais, a alteração das conclusões adotadas pela Corte de origem, no sentido de asseverar se estão presentes os requisitos autorizadores da tutela de urgência, demandaria necessariamente novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, conforme previsto na Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Deixo de majorar honorários advocatícios, pois não foram arbitrados na origem.
+Publique-se e intimem-se.
+EMENTA
