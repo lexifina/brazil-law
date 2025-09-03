@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA BAHIA, com respaldo na alínea "a" do permissivo constitucional contra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado (e-STJ fl. 166):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA JULGADA IMPROCEDENTE. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE FIXAÇÃO NO JUÍZO A QUO. INÉRCIA RECURSAL DO ENTE ESTATAL. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+O decisum farpeado não merece reforma, pois como sabido, para que a sentença a quo seja reformada em grau recursal, o interessado deve apresentar o competente recurso para fins de devolução da matéria a este Tribunal.
+Isso porque, in casu, o Juízo a quo determinou a intimação do Ente Estatal acerca de sentença, o qual mantendo-se inerte quanto a interpor o recurso adequado para requerer a de fixação dos honorários advocatícios, limitando- se a apresentar contrarrazões ao recurso da parte contrária.
+Impossibilidade de fixação dos honorários recursais.
+Recurso não provido.
+Nas suas razões, a parte recorrente aponta violação dos arts. 85, caput e § 1º, e 1.022, II, do CPC, sustentando negativa de prestação jurisdicional, uma vez que, "nos aclarato"rios alegou-se a omissa o do aco"rda o da Corte de origem no que tange a" fixac a o de honora"rios sucumbe ncia tendo em vista o na o provimento do recurso da parte Autora" (e-STJ fl. 179), vício não suprido.
+Aduz, na sequência, que, a despeito da extinção do feito em primeiro grau sem a citação da parte ré, " ..  direito a" percepc a o da verba sucumbencial surgiu quando, chamada a integrar a lide, o Estado apresentou contrarrazo es, expondo sua mate"ria de defesa" (e-STJ fl. 181).
+Pondera que a fixação dos honorários constitui pedido implícito, devendo ser conhecido de ofício pelo julgador.
+Ao fim, pleiteia a majoração dos honorários recursais, com espeque no art. 85, § 11, do CPC, nesta instância.
+Contrarrazões às e-STJ fls. 194/204.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 205/212.
+Passo a decidir.
+Em relação à alegada ofensa ao art. 1.022, II, do CPC, verifica-se que nem sequer foram opostos embargos de declaração contra o aresto hostilizado, situação que afasta eventual interesse recursal no ponto destacado. A propósito: AgRg no REsp 1.548.287/MG, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 06/10/2015, DJe 16/10/2015; AgRg no Ag 1.340.386/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 28/02/2012, DJe 07/03/2012.
+Doutro lado, de acordo com o entendimento deste STJ, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC , quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/03/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (AgInt nos EREsp 1.539.725/DF, rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 09/08/2017, DJe de 19/10/2017).
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO PARCIAL DA DECISÃO AGRAVADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ART. 1021, § 1º, DO CPC/2015 E ART. 259, § 2º, DO RISTJ. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. CABIMENTO. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. A decisão ora agravada não conheceu do recurso especial quanto à violação ao art. 1022 do CPC/2015 ao argumento de que  a jurisprudência desta Corte fixou-se no sentido de  não caber ao STJ, com vistas a examinar suposta ofensa ao art. 535 do CPC/73, aferir a existência ou não de omissão no Tribunal de origem acerca de matéria constitucional, sob pena de usurpação da competência do STF  (e-STJ fl. 446).
+2. Nas razões do presente agravo interno, contudo, o agravante não impugnou de forma específica referido fundamento, isto é, deixou de combater o não conhecimento do recurso especial em referido ponto.
+Logo, inviável o conhecimento do agravo interno, neste ponto, nos termos do art. 1021, § 1º, do CPC/2015 e do art. 259, § 2º, do RISTJ, ante o descumprimento do ônus da dialeticidade.
+3. A Segunda Seção deste Tribunal Superior, ao julgar o EREsp nº 1.539.725/DF, estabeleceu os seguintes requisitos para a fixação de honorários recursais: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;
+b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+4. No presente caso restaram preenchidos referidos requisitos, sendo devida a fixação dos honorários recursais em sede de agravo em recurso especial, nos termos do art. 85, § 11, do CPC/2015.
+5. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp 1861307/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/10/2021, DJe 25/10/2021)
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO ACERCA DA INVERSÃO DOS ÔNUS SUCUMBENCIAS. HONORÁRIOS RECURSAIS. DESCABIMENTO. EMBARGOS DECLARATÓRIOS DA UNIÃO ACOLHIDOS.
+1. A a fixação dos honorários advocatícios recursais é devida quando atendidos, cumulativamente, os seguintes pressupostos: (a) publicação da decisão recorrida na vigência do Código Fux, consoante o Enunciado Administrativo 7; (b) desprovimento ou não conhecimento do recurso; (c) a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; e (d) respeito aos percentuais previstos nos §§ 2o. e 3o. do art. 85 do Código Fux.
+2. No presente caso, não houve desprovimento do Recurso interposto, ausente, assim, um dos requisitos para a fixação dos honorários recursais.
+3. Embargos de Declaração da UNIAO acolhidos, a fim de inverter os ônus sucumbenciais, fixando-se os honorários em 10% sobre o valor atualizado da causa em favor da UNIÃO.
+(EDcl nos EDcl no AgInt no AREsp 1601277/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020)
+No caso, conforme relatado e como se verá a seguir, nem sequer foi fixada a verba honorária, descabendo a majoração de arbitramento inexistente.
+Quanto ao mais, com razão a parte recorrente.
+O STJ entende que, a despeito da improcedência dos pedidos iniciais com fulcro no art. 285-A do CPC/1973 ou no art. 332 do CPC/2015, a citação da parte ré para o apresentação de contrarrazões à apelação é apta a configurar a triangulação da relação processual e ensejar a fixação das verbas de sucumbência. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NULIDADE DE SENTENÇA. DESCABIMENTO. DEFESA APRESENTADA. HONORÁRIOS SUCUMBENCIAIS. CABIMENTO. SÚMULA Nº 568/STJ. CORREÇÃO MONETÁRIA. JUROS DE MORA. TERMO INICIAL. HONORÁRIOS RECURSAIS. NATUREZAS DISTINTAS. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. CONHECIMENTO DO RECURSO. IMPOSSIBILIDADE.
+1. A apresentação de contrarrazões pelo réu citado para responder à apelação possibilita a fixação de honorários advocatícios sucumbenciais caso o referido recurso não seja provido. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o termo inicial da correção monetária referente a honorários advocatícios fixados com base no valor da causa é a data do ajuizamento da ação e o termo inicial dos juros de mora é a data do trânsito em julgado.
+3. Os honorários recursais estão intrinsecamente ligados aos honorários de sucumbência previamente fixados, mas há clara distinção entre a natureza jurídica de cada um deles, de sorte que os julgados suscitados pela recorrente não têm aplicação na espécie.
+4. Estando as razões do agravo interno dissociadas do que decidido pelo relator, é inadmissível o inconformismo, tendo em vista a deficiência de fundamentação, conforme a incidência analógica da Súmula nº 284 do Supremo Tribunal Federal.
+5. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 2.307.301/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO DE APELAÇÃO E APRESENTAÇÃO DE CONTRARRAZÕES. TRIANGULAÇÃO DA RELAÇÃO PROCESSUAL. REFORMA DA SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA SUCUMBÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. No enfrentamento da matéria, a Corte a quo apresentou os seguintes fundamentos: "Não há que se falar em omissão quanto ao arbitramento de honorários de sucumbência suscitada pela ANAJUSTRA.
+O acórdão embargado deu procedência ao recurso de apelação para reformar a sentença, reconhecendo o interesse dos exequentes na execução, afastando a alegação de ausência de título executivo. No entanto, não há que se falar em condenação da União nas verbas de sucumbência, neste momento processual, considerado que foi apenas afastada a sentença de extinção do processo sem resolução do mérito, determinando o retorno do processo à 1ª instância para regular prosseguimento. Em outras palavras, o processo retornará ao Juízo de origem para análise das demais alegações, inclusive de mérito, suscitadas pela União em sua impugnação ao cumprimento de sentença".
+2. Nos termos da jurisprudência do STJ, quanto aos ônus sucumbenciais, ainda quando a parte não tenha dado causa à ação, a resistência à pretensão ocasiona a sua efetiva sucumbência, impondo a condenação ao pagamento de honorários advocatícios.
+3. In casu, o Fisco manifestou resistência ao apresentar contrarrazões (fls. 262- 267, e-STJ) ao recurso de Apelação que foi provido para reformar a sentença. Com efeito, havendo resistência da parte executada, os honorários advocatícios são devidos em função do princípio da sucumbência.
+4. Outrossim, inaugurada a fase recursal pela interposição de recurso de Apelação, a parte contrária é intimada obrigatoriamente para apresentar contrarrazões, passando a integrar a relação processual, de modo que passa a ser devido o pagamento de honorários advocatícios, em observância ao princípio da sucumbência.
+5. Entretanto, é inviável o arbitramento de honorários advocatícios de sucumbência, diretamente pelo Superior Tribunal de Justiça, com base no art. 85 do CPC/2015, sob pena de configurar supressão de grau de jurisdição e de desvirtuar a sua competência recursal.
+6. Consequentemente, devem os autos retornar ao TRF3 para que este proceda à análise das circunstâncias da causa e fixe os honorários advocatícios dentro da faixa estabelecida no art. 85 do CPC/2015.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.389.836/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/2/2024, DJe de 19/4/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA DE IMPROCEDÊNCIA TOTAL DO PEDIDO. CONTRARRAZÕES RECURSAIS. TRIANGULAÇÃO DA RELAÇÃO PROCESSUAL.
+1. Este Superior Tribunal possui entendimento de que, no recurso de apelação interposto contra sentença de improcedência total do pedido, com base no art. 285-A do CPC/1973, a citação do réu para o oferecimento de contrarrazões recursais constitui a triangulação da relação processual, o que faz surgir o direito à condenação em honorários de sucumbência.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.801.604/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/9/2019, DJe de 20/9/2019.)
+No mesmo sentido, as seguintes decisões monocráticas de integrantes da Primeira Turma: AgInt no REsp n. 1.983.779, Ministro Paulo Sérgio Domingues, DJEN de 03/06/2025; EDcl no REsp n. 2.083.381, Ministro Benedito Gonçalves, DJe de 11/06/2024; REsp n. 1.997.977, Ministra Regina Helena Costa, DJe de 06/02/2023.
+Ainda, a fixação de honorários constitui pedido implícito, devendo ser apreciado de ofício pelo órgão julgador. Ilustrativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. RECONHECIDA. ACOLHIMENTO DOS ANTERIORES DECLARATÓRIOS, COM EFEITOS INFRINGENTES, PARA AGREGAR CONDENAÇÃO. READEQUAÇÃO DOS ÔNUS SUCUMBENCIAIS. CABIMENTO. PEDIDO EXPRESSO DE HONORÁRIOS ADVOCATÍCIOS. DESNECESSIDADE. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Reconhece-se omissão do acórdão que, ao acolher anteriores declaratórios com efeitos modificativos, para agregar condenação em danos materiais, deixa de readequar os ônus da sucumbência.
+2. A readequação dos encargos de sucumbência é consequência natural do provimento do recurso, pois a distribuição das despesas processuais deve refletir o novo resultado do processo.
+3. A condenação nos honorários sucumbenciais decorre de previsão legal, sendo considerada um pedido implícito, devendo ser redimensionada no julgamento do recurso.
+4. Se a sentença foi prolatada sob a égide do CPC/1973, a fixação dos honorários advocatícios deve observar o regramento previsto no referido diploma processual.
+5. Havendo êxito total dos autores em ação indenizatória de danos materiais e morais decorrentes de defeito na prestação de serviços médicos, os ônus de sucumbência devem recair integralmente sobre a parte requerida.
+6. Considerando as circunstâncias específicas do caso concreto, os honorários advocatícios vão arbitrados em 20% sobre o valor da condenação, a teor do art. 20, § 3º, a, b e c, do CPC/1973.
+7. Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl nos EDcl no REsp n. 1.540.580/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/12/2024, DJEN de 5/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS FIXADOS NOS EMBARGOS À EXECUÇÃO. VERBA EXIGIDA EM CONJUNTO COM O DÉBITO PRINCIPAL. POSSIBILIDADE. PRESCRIÇÃO AFASTADA. ACÓRDÃO REFORMADO. AGRAVO INTERNO CONHECIDO EM PARTE E, NESTA EXTENSÃO, NÃO PROVIDO.
+1. O Tribunal estadual reconheceu a prescrição da pretensão, sob o fundamento de que cabia à parte exequente pleitear de forma expressa a execução dos honorários sucumbenciais arbitrados nos autos em apenso ao feito executivo (embargos à execução).
+2. Tratando-se de recebimento de honorários advocatícios de sucumbência fixados nos autos de embargos à execução, o valor é agregado ao restante da dívida, sem a necessidade de outro procedimento para exigi-lo. Inteligência do art. 85, § 13 do CPC.
+Precedentes do STJ.
+2.1. O cerne da questão sub judice é se houve, ou não, a ocorrência da prescrição. Embora o CPC/1973 não tivesse um dispositivo exatamente igual ao art. 85, § 13 do CPC, a jurisprudência e a doutrina já entendiam, à época, que os honorários compõem pedido implícito, passível de ser contemplado de ofício, ainda que não formulado pelas partes, posto decorrer da sucumbência 2.2. As instâncias de origem afirmaram, expressamente, que referida verba honorária foi incluída, em 9/11/1998, no cálculo do valor exequendo para ser exigida junto ao débito principal e que o devedor foi intimado para tomar ciência de tais cálculos em 10/2/2000.
+Assim, não há que se falar em prescrição, na hipótese.
+3. A questão relativa à ilegitimidade ativa não pode ser conhecida, pois além de se tratar de inovação recursal, operou-se a preclusão consumativa sobre o tema.
+4. "É defeso à Corte examinar em sede de agravo interno, argumentos não suscitados oportunamente pelas partes nas razões do recurso especial, dada a inovação recursal e a preclusão consumativa".
+(AgInt nos EDcl no AREsp 1919249 / SP, Rel Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, j. 24/6/2024).
+5. Agravo interno conhecido em parte e, nesta extensão, não provido.
+(AgInt no AREsp n. 2.318.129/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. CONSECTÁRIO LEGAL. NÃO CONFIGURAÇÃO DE REFORMATIO IN PEJUS OU JULGAMENTO EXTRA PETITA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. O STJ possui o entendimento de que a matéria relativa à verba honorária constitui pedido implícito, ou seja, cognoscível ex officio pelo órgão ad quem. Desse modo, quando a parte recorre quanto ao principal, este abrange também os consectários legais, entre eles os ônus sucumbenciais.
+3. Recurso Especial não provido.
+(REsp n. 1.721.244/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/2/2018, DJe de 2/8/2018.)
+Necessário, portanto, o retorno dos autos à Corte de origem para fixação da verba honorária.
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO a fim de determinar o retorno dos autos à Corte de origem para fixação dos honorários de sucumbência.
+Publique-se. Intimem-se.
+EMENTA
