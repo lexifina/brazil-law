@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FERREIRA COSTA & CIA LTDA., contra decisão de minha lavra, constante às e-STJ fls. 928/935, na qual, ao reconhecer a inexistência da alegada negativa de prestação jurisdicional e a inadequação da via processual eleita para revisar acórdão fundado em matéria de natureza constitucional, conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento. No referido recurso, a empresa recorrente impugna a cobrança do adicional de alíquota de 2% do ICMS destinado ao Fundo de Combate à Pobreza, incidente sobre operações de fornecimento de energia elétrica.
+Nas razões recursais (e-STJ fls. 941/944), a empresa embargante sustenta que a decisão ora impugnada padece de omissão, por não ter se pronunciado acerca do precedente firmado no julgamento do Tema 1.245 do STJ. Argumenta que, nesse julgado, o Superior Tribunal de Justiça tratou da adequada aplicação da modulação de efeitos de acórdão vinculante proferido pelo Supremo Tribunal Federal (Tema 69 do STF), razão pela qual não haveria impedimento para que essa análise fosse realizada no presente caso, especificamente à luz do entendimento firmado no Tema 745 do STF.
+A parte embargada apresentou impugnação (e-STJ fls. 953/956).
+É o relatório.
+Os embargos de declaração têm por finalidade sanar obscuridade, contradição, omissão ou erro material na decisão judicial, vícios que não se verificam no presente caso.
+Ao decidir pelo não conhecimento do recurso especial, fui claro ao consignar que o acórdão recorrido validou a cobrança do adicional de alíquota do ICMS destinado ao Fundo de Combate à Pobreza, com fundamento na interpretação de precedente vinculante da Suprema Corte (Tema 745 do STF), o que evidencia a natureza constitucional da fundamentação adotada.
+Com o intuito de prevenir a interposição de novos embargos meramente aclaratórios, que apenas retardariam a entrega efetiva da prestação jurisdicional, registro que o Tema 1.245 do STJ não guarda pertinência com a controvérsia ora examinada.
+No presente caso, o recurso especial nem sequer ultrapassou o juízo de admissibilidade, porquanto visa à revisão de acórdão fundado em matéria constitucional.
+Diversamente, no precedente repetitivo mencionado, a controvérsia central dizia respeito à norma de natureza processual, atinente ao cabimento de ação rescisória (art. 535, § 8º, do CPC), sendo que a aplicação do direito à espécie somente se deu depois de superado o juízo de admissibilidade.
+Verifica-se, portanto, que a insurgência manifestada pela embargante não decorre de eventual deficiência na fundamentação do acórdão, mas, sim, da interpretação jurídica que lhe foi desfavorável. Trata-se, então , de pretensão de caráter meramente infringente, incompatível com a estreita finalidade dos embargos de declaração.
+Todavia, à luz do princípio da boa-fé objetiva, não reputo os presentes embargos como manifestamente protelatórios, razão pela qual deixo de aplicar a multa processual prevista para tais hipóteses.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
