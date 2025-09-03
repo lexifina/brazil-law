@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI 11.343/2006. FRAÇÃO FIXADA NO PATAMAR MÍNIMO DE 1/6. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. DISCRICIONARIEDADE DO JULGADOR. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por TIAGO DOS SANTOS MARIANO contra decisão monocrática, por mim proferida, que conheceu do agravo para não conhecer do recurso especial (fls. 376/378).
+Nas razões do agravo regimental (fls. 385/393), a defesa sustenta que a controvérsia se limita à subsunção normativa da fração redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, não havendo necessidade de reexame fático-probatório. Alega ainda que a quantidade de droga não seria suficiente para justificar a fração mínima, pleiteando, ao final, a reconsideração da decisão agravada ou sua reforma pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI 11.343/2006. FRAÇÃO FIXADA NO PATAMAR MÍNIMO DE 1/6. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. DISCRICIONARIEDADE DO JULGADOR. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+O agravo é admissível e deve ser conhecido, porquanto impugna adequadamente os fundamentos da decisão recorrida. No entanto, não é possível conhecer do recurso especial, haja vista o óbice da Súmula 7/STJ.
+O acórdão recorrido, ao manter a fração de 1/6 referente à causa de diminuição de pena do tráfico privilegiado (§ 4º do art. 33 da Lei n. 11.343/2006), apresentou fundamentação expressa e circunstancial, nos seguintes termos (fls. 292/293):
+De fato, não obstante, o réu foi flagrado com quantidade razoável de entorpecentes, quais sejam centenas de porções de maconha, skunk, extase, cocaína, crack e K2, parte delas dotadas de poder extremamente deletério e viciante (cocaína, crack e K2). Logo, não seria condizente aplicar o redutor, muito menos em seu patamar máximo, tampouco intermediário, sendo correta e adequada a fração de aviltamento de 1/6 (um sexto) empregada pelo juízo monocrático, em virtude de, repita-se, inexistência de recurso da Acusação, pelo que se afasta o pleito defensivo de aplicação da benesse em seu patamar máximo.
+O Tribunal a quo considerou a diversidade e quantidade de drogas apreendidas para fins de modulação da minorante, o que é reconhecido como possível por esta Corte. A decisão local foi fundamentada de forma idônea, com base em elementos concretos dos autos, valorados na esfera de seu juízo discricionário. Nesse sentido: AgRg no HC n. 924.373/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/9/2024; AgRg no HC n. 875.035/MG, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 4/9/2024; AgRg no RHC n. 207.986/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/2/2025; e AgRg no AREsp n. 2.283.176/TO, minha relatoria, Sexta Turma, DJEN 18/3/2025.
+Cumpre destacar que, como a quantidade de drogas apreendida não foi utilizada para exasperar a pena-base imposta ao recorrente, mas sim considerada exclusivamente na terceira fase da dosimetria, para fins de modulação da fração redutora do § 4º do art. 33 da Lei n. 11.343/2006, tal procedimento encontra respaldo também na jurisprudência desta Corte (HC n. 725.534/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/ 6/2022).
+Por conseguinte, mostra-se inviável, na via estreita do recurso especial, proceder à revisão do juízo discricionário exercido pelas instâncias ordinárias, por implicar reexame do acervo fático-probatório dos autos, providência expressamente vedada pela Súmula 7/STJ.
+As demais pretensões recursais, como a fixação de regime inicial mais brando ou a substituição da pena, estão diretamente condicionadas à reforma da dosimetria, razão pela qual igualmente não prosperam.
+Portanto, o agravante não logrou êxito em demonstrar, em seu regimental, argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, a qual deve ser mantida in totum pelos seus próprios fundamentos.
+Ante o exposto, neg o provimento ao agravo regimental.
