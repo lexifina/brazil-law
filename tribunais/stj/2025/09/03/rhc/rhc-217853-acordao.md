@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS DELITOS EVIDENCIADA PELO MODUS OPERANDI. RÉU FORAGIDO. APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO AFASTAM O DECRETO PREVENTIVO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por DANIEL PINHEIRO GOIS - preso preventivamente e denunciado pela prática, em tese, do crime de homicídio qualificado tentado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO MARANHÃO (HC n. 0811610- 05.2025.8.10.0000).
+Busca o recorrente, em síntese, a revogação da prisão preventiva, ante a ausência de fundamentação idônea e dos requisitos necessários para a manutenção da constrição cautelar e, subsidiariamente, pleiteia a substituição da prisão provisória por medidas cautelares alternativas.
+Afirma que ostenta condições pessoais favoráveis, pois possui residência fixa, ocupação lícita, é primário e tem bons antecedentes.
+Liminar indeferida às fls. 522/523.
+Informações prestadas às fls. 525/538 e 539/552.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 557/574).
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS DELITOS EVIDENCIADA PELO MODUS OPERANDI. RÉU FORAGIDO. APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO AFASTAM O DECRETO PREVENTIVO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
+VOTO
+O recurso não merece provimento, pois não se verifica o alegado constrangimento ilegal.
+A propósito, ao de decretar a prisão preventiva, o Magistrado de primeiro grau considerou que (fl. 23):
+  No caso em apreço, a decretação da prisão cautelar do acusado revela- se, ao menos neste juízo preliminar, medida juridicamente admissível e necessária, diante da gravidade concreta dos fatos imputados e do modus operandi supostamente empregado na prática delitiva, o qual, em tese, evidencia traços de periculosidade social relevantes.
+Conforme se depreende da narrativa fática delineada na exordial acusatória, os fatos teriam ocorrido em via pública, no contexto de uma festividade carnavalesca, caracterizada por expressiva aglomeração de pessoas, o que, sob a ótica do Ministério Público, teria potencializado os riscos inerentes ao disparo de arma de fogo efetuado pelo acusado, circunstância que, em tese, configura situação de perigo comum  .
+Ao manter o claustro provisório decretado pelo Juízo de origem, o Tribunal local apresentou fundamentação baseada na gravidade concreta do delito e na necessidade de resguardar a ordem pública ao asseverar que (fl. 74):
+  Conforme ressaltado pelo Juízo de origem, o fato imputado ao paciente ocorreu em via pública, durante evento carnavalesco de grande aglomeração, circunstância que acentua o risco social da conduta. O disparo de arma de fogo foi realizado em meio a um ambiente coletivo, tendo atingido terceira pessoa na região do rosto, provocando lesão grave e exigindo cirurgia de urgência. A gravidade da conduta é, portanto, concreta e não meramente presumida. O modo como os fatos ocorreram também é revelador da periculosidade social do agente. Após desentendimento físico com outro indivíduo, o acusado teria se dirigido ao seu veículo, apanhado uma arma de fogo e retornado ao local para efetuar o disparo, comportamento que demonstra a ausência de controle inibitório e a deliberada decisão de empregar meio potencialmente letal em contexto de absoluta imprevisibilidade e risco à coletividade. A reação do agente não se limitou a um impulso momentâneo, mas envolveu um deslocamento, o uso de arma de fogo e a assunção consciente das consequências, ainda que o disparo não tenha atingido o alvo originalmente pretendido.  ..
+Observa-se, assim, que a fundamentação adotada pelas instâncias ordinárias se encontra em consonância com o posicionamento firmado pelo Superior Tribunal de Justiça, no sentido de que a gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo (AgRg no RHC n. 160.967/PA, Ministro João Otávio de Noronha, Quinta Turma, DJe de 15/8/2022).
+Extrai-se, ainda, dos autos que o recorrente, atualmente, encontra-se foragido (fl. 74), motivo pelo qual o decreto da prisão preventiva também se fundamentou na garantia da aplicação da lei penal.
+E, presentes nos autos elementos que demonstram que o recorrente é conhecedor da existência de processo e de mandado de prisão expedido em desfavor dele - uma vez que tentou participar de audiência de instrução por meio virtual -, não é crível que, se colocado em liberdade, vai comparecer aos demais atos processuais.
+Logo, demonstrado o periculum libertatis do recorrente, não se mostram suficientes para o caso em análise as medidas previstas no art. 319 do Código de Processo Penal, sendo certo, ainda, que eventuais condições pessoais deste não têm o condão de, por si sós, garantir a revogação do decreto prisional.
+Em arremate, vale registrar que a prisão preventiva é compatível com a presunção de inocência quando não assume natureza de antecipação de pena e está fundamentada em elementos concretos que indicam o "fumus comissi delicti" e o "periculum libertatis" (HC n. 820.718/RS, Ministra Daniela Teixeira, Quinta Turma, DJe de 23/12/2024).
+Ante todo o exposto, nego provimento ao recurso.
