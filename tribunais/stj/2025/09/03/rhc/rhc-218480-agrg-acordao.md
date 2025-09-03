@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ART. 33 DA LEI N. 11343/2006. PRISÃO PREVENTIVA. REINCIDÊNCIA ESPECÍFICA. RISCO DE REITERAÇÃO DELITIVA. TRÁFICO PRATICADO NAS IMEDIAÇÕES DE ESCOLAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. A prisão preventiva foi fundamentada na reincidência específica do agravante, que já possui condenação definitiva por tráfico de drogas, e na periculosidade evidenciada pela reiteração de condutas delitivas.
+3. A jurisprudência consolidada do Superior Tribunal de Justiça considera que a periculosidade do acusado, evidenciada pela reiteração de condutas delitivas, constitui fundamento idôneo para a decretação da prisão cautelar.
+4. A prática do delito nas imediações de duas escolas e em concurso de agentes evidencia a gravidade concreta da conduta delitiva, justificando a manutenção da custódia cautelar.
+5. A substituição da prisão preventiva por medidas cautelares diversas não se mostra suficiente para resguardar a ordem pública, dada a habitualidade da conduta delitiva do agravante.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regiment al interposto por LUCAS DE AMORIM MEDEIROS contra a decisão de fls. 424-426, que negou provimento ao recurso em habeas corpus para manter a prisão preventiva.
+Nas razões deste recurso, a defesa aduz que o decreto de prisão cautelar merece reforma porque carece de fundamentação idônea, baseando-se apenas na gravidade em abstrato do crime e no risco de reiteração delitiva.
+Aduz, ainda, a suficiência da substituição da custódia cautelar por medidas cautelares diversas.
+Requer a reconsideração da decisão para que seja revogada a prisão preventiva da parte agravante ou a submissão do recurso ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ART. 33 DA LEI N. 11343/2006. PRISÃO PREVENTIVA. REINCIDÊNCIA ESPECÍFICA. RISCO DE REITERAÇÃO DELITIVA. TRÁFICO PRATICADO NAS IMEDIAÇÕES DE ESCOLAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória, desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. A prisão preventiva foi fundamentada na reincidência específica do agravante, que já possui condenação definitiva por tráfico de drogas, e na periculosidade evidenciada pela reiteração de condutas delitivas.
+3. A jurisprudência consolidada do Superior Tribunal de Justiça considera que a periculosidade do acusado, evidenciada pela reiteração de condutas delitivas, constitui fundamento idôneo para a decretação da prisão cautelar.
+4. A prática do delito nas imediações de duas escolas e em concurso de agentes evidencia a gravidade concreta da conduta delitiva, justificando a manutenção da custódia cautelar.
+5. A substituição da prisão preventiva por medidas cautelares diversas não se mostra suficiente para resguardar a ordem pública, dada a habitualidade da conduta delitiva do agravante.
+6. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam nenhum equívoco na decisão recorrida.
+Conforme consta da decisão agravada, a prisão cautelar foi assim fundamentada (fl. 355, grifei):
+No caso, como mencionado acima, ambos os flagranteados estavam na posse de quantia expressiva de entorpecentes fracionados, sendo que LUCAS encontrava-se com 108 (cento e oito) pedras de substância análoga à crack, enquanto que MARLEY estava com 134 (cento e trinta e quatro) pedras do mesmo entorpecente.
+Como se não bastasse, embora, na Delegacia de Polícia, LUCAS tenha negado a prática delitiva, ele declarou ter sido preso do ano de 2019 a 2022, por tráfico de drogas, indicando que leva uma vida voltada à prática do referido crime.
+Aliás, em consulta aos autos nº. 0058901- 72.2019.8.13.0481 verifiquei que LUCAS já tem condenação definitiva pela prática de tráfico de drogas.
+A leitura do decreto prisional revela que, muito embora a quantidade de droga apreendida não seja expressiva, a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, em razão do risco efetivo de reiteração delitiva, pois, segundo consignado pelo Juízo de primeiro grau, o recorrente é reincidente específico, já tendo sido condenado pela prática de tráfico de drogas, além de a substância apreendida ser de natureza altamente perniciosa .
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça de que a periculosidade do acusado, evidenciada pela reiteração de condutas delitivas, constitui fundamento idôneo para a decretação da prisão cautelar, visando à garantia da ordem pública, como ocorre no caso em questão. Nesse sentido: AgRg no HC n. 837.919/TO, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC n. 856.044/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+Nesse contexto, esta Corte Superior de Justiça tem, reiteradamente, decidido, por ambas as Turmas que compõem a Terceira Seção, que "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Some-se a isso que, conforme consignado pela origem, o crime foi, em tese, praticado em concurso de agentes, tendo sido o delito praticado nas imediações de duas escolas, o que evidencia a gravidade concreta da conduta delitiva, inclusive com a eventual configuração de causa de aumento.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Na hipótese, o Juiz singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação idônea para decretar a prisão preventiva, ao salientar que o comércio de drogas era, em tese, realizado na quadra de uma escola e que o acusado possui condenação, sem trânsito em julgado, pela prática do delito de tráfico de drogas, bem como há o registro de outros inquéritos policiais instaurados contra ele.
+3. Essas circunstâncias revelam a periculosidade do agente, em razão da gravidade concreta dos fatos imputados e do risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+4. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+5. Agravo regimental não provido.
+(AgRg no HC n. 834.758/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/10/2023, DJe de 11/10/2023, grifei)
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
