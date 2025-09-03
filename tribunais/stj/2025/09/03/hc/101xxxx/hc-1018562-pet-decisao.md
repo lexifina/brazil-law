@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de petição incidental apresentada pelo impetrante às fls. 85/102, cujas razões reiteram os termos apresentados na inicial do writ, requerendo, ao final, o deferimento do habeas corpus (fl. 101), razão pela qual a recebo como pedido de reconsideração, em homenagem ao princípio da fungibilidade recursal.
+DECIDO.
+De plano, verifico que o presente mandamus foi impetrado em concomitância com os HC"s ns. 1.011.297/MG, 1.013.813/MG, 1.015.612/MG, 1.007.828/MG, dentre outros, todos em benefício do ora paciente, no qual, formula-se o mesmo pedido e fundamentado na mesma causa de pedir, tratando-se, portanto, a presente impetração de mera reiteração.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MATÉRIA JÁ SUSCITADA EM HABEAS CORPUS IMPETRADO ANTERIORMENTE. MERA REITERAÇÃO DE PEDIDO. AGRAVO NÃO PROVIDO.
+1. A simples leitura da decisão combatida deixa claro que este recurso foi interposto em favor do mesmo paciente do HC n. 746.321/SC, questiona o mesmo acórdão proferido pelo Tribunal de origem e apresenta pedido idêntico - revogação da prisão preventiva por ser incompatível com o regime fixado na sentença para início do cumprimento da pena (semiaberto).
+2. A análise do decisum proferido naqueles autos evidencia que, ao contrário do afirmado neste agravo, houve exame do mérito lá suscitado, tanto que foi denegada a ordem.
+3. Agravo não provido.
+(AgRg no RHC 166.833/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022).
+Além disso, tomando tão somente como exemplo, constata-se que o ora paciente já possui resultado de julgamento quanto à controvérsia nesta Instância Superior, como no HC n. 1.007.828/MG, de minha relatoria, em que foi discutida a mesma matéria objeto do presente mandamus, o que contraria frontalmente o princípio da unirrecorribilidade recursal, que veda a utilização simultânea mais de habeas corpus para impugnar o mesmo ato decisório (AgRg no HC n. 773.624/PI, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022; AgRg no RHC n. 185.320/RO, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025.).
+Como se não bastasse, consta das razões expostas no HC n. 1.007.828/MG que a razão para se tê-lo indeferido liminarmente é que os atos coatores, comuns a todas as impetrações em trâmite nesta Instância, consistem em decisão monocrática proferida por Desembargador relator que indeferiu o pedido liminar na origem, sem que se tenha constatação de manifesta ilegalidade apta a excepcionar essa regra, o que impede a apreciação por esta Corte Superior por ser vedada a atuação em supressão de instância.
+Ante o exposto, indefiro o pedido de reconsideração para manter a decisão que indeferiu liminarmente o habeas corpus, e determino à Secretaria deste Tribunal a imediata baixa dos presentes autos, nos termos do art. 34, incisos I e XX, do Regimento Interno do STJ.
+Publique-se e intimem-se.
+EMENTA
