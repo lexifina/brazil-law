@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por EDSON DA SILVA PEREIRA contra decisão que inadmitiu recurso especial, manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 725):
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ACIDENTE EM SERVIÇO CONFIGURADO. INVALIDEZ OU INCAPACIDADE DEFINITIVA PARA O SERVIÇO CASTRENSE NÃO DEMONSTRADAS. LEI Nº 6.880/80 NA SUA REDAÇÃO ORIGINAL. TEMPUS REGIT ACTUM. REFORMA. NÃO CABIMENTO. SENTENÇA MANTIDA. APELAÇÃO DO AUTOR DESPROVIDA.
+1. O presente caso deve ser analisado sob a perspectiva da Lei nº 6.880/80 na sua redação original, em observância ao princípio do tempus regit actum, haja vista que o licenciamento discutido nos autos ocorreu sob a disciplina normativa pretérita.
+2. Impende salientar que não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere ou não aprecia pedido de produção de nova prova pericial. O art. 130 do CPC consagra o princípio do livre convencimento motivado, de modo que cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. In casu, o próprio autor requereu o julgamento antecipado da lide e a União se manifestou no mesmo sentido, ao passo que o juízo de primeiro grau acatou o pedido autoral. Inexistente, portanto, a nulidade apontada.
+4. Com efeito, da conjugação do art.109 com o art. 108, III, ambos da Lei nº 6.880/80, em seus textos originais, depreende-se que o militar da ativa (de carreira e temporário), julgado incapaz definitivamente, será reformado com qualquer tempo de serviço. Portanto, se o militar temporário tem direito à reforma quando a incapacidade definitiva derivar do exercício de sua função (nexo causal), do mesmo modo também terá direito à reintegração para tratamento de saúde com direito a remuneração.
+5. In casu, restou comprovado que o autor sofreu acidente em serviço, conforme resultado de sindicância; a última inspeção de saúde realizada antes de seu desligamento, atestou a Aptidão do autor para o trabalho e não houve a realização de perícia do juízo. Incabível, portanto, a reforma, pois não comprovada a incapacidade definitiva para as atividades laborativas, requisito indispensável à concessão da reforma.
+6. Considerando que a situação em análise não se trata de causa de pequeno valor e de fato o valor estipulado na sentença de primeiro grau foi irrisório. Necessária, pois, a reforma da sentença para a fixação de honorários em 10% do valor da causa, nos termos do artigo 20 do CPC/1973.
+7. Apelação do Autor não provida. Apelação da União Provida. Sentença de primeiro grau parcialmente reformada.
+Embargos de declaração acolhidos em parte (e-STJ fls. 759/770).
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano:
+(i) violação dos arts. 50, inc. IV, "e", 82 e 84 da Lei n. 6.880/1980, em decorrência da ilegalidade do ato de exclusão, considerando a sua incapacidade, de forma que faz jus, no mínimo, à reintegração às fileiras militares como agregado/adido para fins de tratamento médico, sem prejuízo de seus vencimentos.
+(ii) violação do art. 106, inc. III, da Lei n. 6.880/1980, por ter sido reconhecido que o recorrente ficou mais de 2 anos na condição de adido/agregado, razão pela qual tem direito à reforma ex-officio.
+(iii) ilegalidade do parecer que declarou o recorrente apto para o serviço do Exército, ausência de especialidade dos médicos militares que compuseram a junta médica a qual declarou o recorrente apto para o serviço e impossibilidade de valoração da ata de inspeção de saúde que apontou a aptidão do recorrente, por não ter sido exarada por junta de inspeção de saúde em grau de recurso.
+Contrarrazões apresentadas (e-STJ fls. 845/846).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 847).
+Passo a decidir.
+Considerando que o fundamento da decisão de inadmissibilidade foi devidamente atacado, é o caso de examinar o recurso especial.
+Inicialmente, passo a apreciar as teses mencionadas no item (iii) do relatório.
+Sobre os argumentos suscitados, verifica-se que não houve indicação do dispositivo legal capaz de amparar o direito alegado, revelando, dessa forma, deficiência na fundamentação do recurso especial a atrair a Súmula 284 do STF.
+Neste sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO POPULAR. CERTIFICADO DE ENTIDADE BENEFICIENTE DE ASSISTÊNCIA SOCIAL - CEBAS. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO RECORRIDO E DE JULGAMENTO EXTRA PETITA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284 DO STF. INCIDÊNCIA.
+1. A ausência de indicação clara dos dispositivos legais tidos por malferidos, no tocante às alegações de omissão no acórdão recorrido e julgamento extra petita, demonstra vício na fundamentação do recurso, sendo aplicável o entendimento sumular n. 284/STF.
+2. Recurso especial não conhecido.
+(REsp 1.666.754/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018).
+Veja-se, ainda: AgInt no AREsp 1.191.205/SP, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 15/03/2018, DJe 22/03/2018; AgInt no REsp 1.613.285/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 20/02/2018, DJe 09/03/2018; AgInt no REsp 1.459.845/AL, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/06/2017, DJe 03/08/2017.
+Em relação à alegada violação dos arts. 50, inc. IV, "e", 82, 84 e 106, inc. III, da Lei n. 6.880/1980, extrai-se do acórdão recorrido que o Tribunal de origem decidiu a questão com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, especialmente em relação aos pareceres médicos e à alegada incapacidade temporária do autor , suporte cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+A suscitada divergência jurisprudencial não prospera, pois a parte recorrente não atendeu aos requisitos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, tendo em vista a ausência de similitude fática entre o acórdão combatido e os arestos apontados como paradigmas.
+Nesse sentido:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AOS ARTIGOS 489, § 1º, INCISOS III E IV, 1.022, INCISO II, AMBOS, DO CPC/2015. NÃO CARACTERIZAÇÃO. DISSENSO JURISPRUDENCIAL QUANTO À EXEGESE DO ARTIGO 97, INCISO I E II DO CTN. AUSÊNCIA DOS REQUISITOS PARA O SEU CONHECIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Para a caracterização da divergência jurisprudencial, não basta simples transcrição das ementas dos acórdãos confrontados, devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos os requisitos previstos no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ. Hipótese, ademais, em que não se verifica similitude fática entre os arestos confrontados, que se baseiam em premissas fáticas distintas.
+3. Agravo Interno não provido.
+(AgInt no AREsp 1.536.328/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 24/09/2020).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
