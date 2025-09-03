@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por EG QUALITY MEDIÇÕES INDUSTRIAIS LTDA. contra a decisão de fls. 600/603, que inadmitiu seu recurso especial, o qual foi interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (TJSP), que, em ação de tutela cautelar antecedente c/c pedido liminar para sustação de protesto, negou provimento ao seu recurso de apelação, mantendo a decisão que julgou procedente o pedido da parte autora, nos termos da seguinte ementa:
+APELAÇÃO Tutela Antecipada Antecedente. Vício Redibitório. Respeitável sentença de procedência.
+Apela a ré arguindo cerceamento de prova. Afastamento. Deferimento de produção de prova pericial e indeferimento de prova oral, justamente por entender que o ponto controvertido era técnico, tornando a oitiva de partes e testemunhas inútil para dirimi-lo.
+Apelante sustenta que os dispositivos para controle dimensionais de produtos foram fabricados de acordo com os projetos apresentados pela autora, bem como contaram com a participação dos seus técnicos e responsáveis durante todo o período de tratativa entre as empresas, e ainda que o perito tenha apontado a necessidade de alguns ajustes, não implica em inaptidão dos dispositivos.
+Produto que não estava apto para utilização pela autora no momento da entrega, e ainda que tenha sido enviado à ré para reparos por algumas vezes, por ocasião da última devolução os controles não se mostraram eficientes para o fim a que foram adquiridos. Perícia conclusiva que aponta falha na fabricação.
+Esclarecidos os pontos controvertidos pela perícia, a autora desincumbiu-se do ônus que lhe competia (Código de Processo Civil - artigo 373, I).
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, a recorrente, ora agravante, alega, em síntese, que o acórdão recorrido violou os arts. 355, 370, parágrafo único, 373 e 489 do Código de Processo Civil.
+Quanto à suposta ofensa ao art. 370, parágrafo único, sustenta que houve cerceamento de defesa, diante do indeferimento imotivado de pedido de produção de prova oral, o que comprometeu o direito à ampla defesa e ao contraditório, especialmente porque a prova testemunhal seria imprescindível para demonstrar a adequação dos dispositivos fabricados aos parâmetros fornecidos pela parte autora.
+Argumenta, também, que o acórdão recorrido julgou antecipadamente a lide sem que houvesse fundamento adequado para tanto, contrariando o disposto no art. 355 do CPC, e sem enfrentar de forma suficiente os argumentos relativos à imprescindibilidade da prova oral, violando o art. 489 do mesmo diploma.
+Além disso, teria sido desrespeitado o ônus da prova previsto no art. 373, inciso II, ao ser atribuída à recorrente a responsabilidade de demonstrar fatos impeditivos ou modificativos do direito da autora, sem que lhe fosse oportunizada a produção de todas as provas requeridas.
+Contrarrazões ao recurso especial às fls. 591/599.
+Assim, delimitada a controvérsia, passo a decidir.
+Em regra, as partes têm direito à produção de provas, ao contraditório e à ampla defesa. Esses direitos, contudo, não são absolutos. Tanto a Constituição quanto a legislação infraconstitucional estabelecem limites ao seu exercício, como se observa, por exemplo, no art. 371 do Código de Processo Civil.
+Dessa forma, é legítima a imposição de restrições à produção de provas quando estas forem consideradas protelatórias ou irrelevantes para o deslinde da controvérsia.
+Assim, a decisão que indefere a produção de provas desnecessárias ou meramente protelatórias está em conformidade com o ordenamento jurídico, desde que devidamente fundamentada, como ocorreu no caso em análise.
+Uma vez formada a convicção do magistrado com base nas provas constantes dos autos, não se justifica a produção de novas provas. Nessas circunstâncias, não há que se falar em cerceamento de defesa. Isso porque o próprio art. 370 do Código de Processo Civil estabelece que cabe ao juiz, de ofício ou a pedido da parte, determinar as provas necessárias para o julgamento do mérito, e, em seu parágrafo único, autoriza expressamente o indeferimento, mediante decisão fundamentada, de diligências consideradas inúteis ou meramente protelatórias.
+Nesse sentido, caminha a jurisprudência dessa Corte ao entender que:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. INTERDIÇÃO (INTERRUPÇÃO) DO FORNECIMENTO DE GÁS EM RESIDÊNCIA. OCORRÊNCIA DE DANO, DE PRECLUSÃO E DE CERCEAMENTO DE DEFESA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. PRESTAÇÃO JURISDICIONAL DEFICIENTE. NÃO OCORRÊNCIA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material. Rejeita-se a alegação de ofensa aos artigos 489 e 1.022 do Código de Processo Civil/2015.
+3. Há margem de discricionariedade na avaliação do julgador quanto à intensidade da conexão, presente sempre o escopo de se evitar, pela conveniência da reunião dos processos, decisões contraditórias/conflitantes/divergentes. Precedentes.
+4. O magistrado, se entender suficientes as provas existentes no processo e reputar dispensável a produção de outras provas, pode julgar antecipadamente o pedido, sem que isso implique cerceamento de defesa. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.743.654/GO, Minha Relatoria, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE IMAGEM. USO INDEVIDO. DANOS MORAIS. AUSÊNCIA DE PROVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REQUISIÇÃO DE DADOS AO PROVEDOR FACEBOOK. CRIAÇÃO DO PERFIL FALSO. INDEFERIMENTO DE PROVA. POSSIBILIDADE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. SÚMULA N. 83 DO STJ. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O entendimento deste Tribunal Superior é de que o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+3. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência do dever de indenizar. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.600.225/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/11/2021, DJe de 26/11/2021).
+Sobre a produção de provas, bem como sobre a autora, ora agravada, ter se desincumbindo do ônus que lhe competia, conforme art. 373 do CPC, entendeu o Tribunal de origem que:
+O recurso não comporta provimento.
+Não houve cerceamento de prova.
+O Juiz é o destinatário da prova e havendo elementos suficientes para a formação de seu convencimento, impõe-se o julgamento antecipado da lide.
+Não se configurou violação aos princípios do contraditório e da ampla defesa, pois o fato de o juiz haver determinado a especificação de provas não o inibe de verificar, posteriormente, que a matéria dispensava que se as produzisse em audiência.
+Aliás, em decisão saneadora (p. 324/325) o MM. Juiz fixou os pontos controvertidos, deferiu a produção de prova pericial e indeferiu a prova oral, justamente por entender que o ponto controvertido era técnico, tornando a oitiva de partes e testemunhas inútil para dirimir o litígio.
+Consta da petição inicial que a autora ajuizou tutela cautelar antecedente para sustação de protesto em razão de ter adquirido da empresa requerida dois dispositivos para controle dimensional de produtos, supostamente com defeito, e que por isso a requerida chegou a suspender as cobranças relativas à transação, mas acabou emitindo duplicatas apontadas a protesto (p.1-18).
+Autora procedeu à emenda da inicial requerendo a rescisão do pacto, devolução de valores pagos e baixa dos protestos (p. 171-194).
+De outra parte, a requerida afirma que a autora recebeu os equipamentos, apontou problemas de acordo com o relatório produzido por ela própria, deixou de efetuar os pagamentos e não os devolveu.
+Assim, a controvérsia versou sobre: se houve erro no dimensionamento das peças; se o alegado erro no dimensionamento se deu por culpa das especificações encaminhadas pela autora ou pela produção equivocada por parte da ré; e, possibilidade ou não da resolução do contrato com a devolução dos valores pagos.
+(..)
+Observa-se que, conforme respostas e conclusões do perito, de fato, houve falha na fabricação dos dispositivos por parte da ré.
+O produto não estava apto para utilização pela autora no momento da entrega, e ainda que tenha sido enviado à ré para reparos por algumas vezes, por ocasião da última devolução os controles ainda não se mostraram eficazes para o fim que foram adquiridos: falha no dispositivo 1 Frame 01-026-281-001-H", e outra " no dispositivo 2 Holder 01-118-281-001-F" (p. 432 perícia).
+(..)
+As questões de direito consistiram em verificar a existência de erro na produção das peças por parte da ré a fim de se aplicar a teoria do contrato não cumprido, rescindindo-se o pacto e tornando-se inexigíveis as cobranças.
+Sendo assim, esclarecidos os pontos controvertidos pela perícia, a autora desincumbiu-se do ônus que lhe competia, conforme dispõe o artigo 373, inciso I, do Código de Processo Civil, comprovando a existência de defeitos dos dispositivos que perduraram até realização da prova técnica.
+A respeitável sentença deu adequada solução ao litígio.
+Neste contexto, pelo meu voto, NEGA-SE PROVIMENTO ao recurso.
+Dessa forma, verifica-se que não houve cerceamento de defesa, uma vez que a decisão recorrida se fundamentou nos elementos constantes dos autos, especialmente na prova pericial produzida, que foi capaz de atestar que, de fato, houve falha na fabricação dos dispositivos, por parte da ré. O Tribunal concluiu, de forma motivada, que a prova pericial requerida era desnecessária ao deslinde da controvérsia. Assim, o indeferimento da produção da prova oral não violou o direito à ampla defesa.
+Ademais, conforme destacado pelo Tribunal de origem, a parte autora se desincumbiu do ônus de demonstrar os fatos constitutivos de seu direito, nos termos do art. 373, I, do CPC. Assim, o magistrado dispunha de elementos suficientes para formar seu convencimento e julgar antecipadamente a lid e, inexistindo, portanto, violação aos dispositivos legais apontados no recurso especial.
+Em face do exposto, nos termos da fundamentação supra, nego provimento ao agravo em recurso especial.
+Intimem-se as partes.
+EMENTA
