@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA TERESINHA DALLEMOLLE SCHREIBER contra decisão, de minha lavra, em que tornei sem efeito a decisão de e-STJ fls. 487/488 e conheci do agravo para não conhecer do recurso especial por ausência de cerceamento de defesa e pelo óbice da Súmula 7 do STJ (e-STJ fls. 527/534).
+Sustenta a embargante que o julgado omitiu-se quanto ao pedido de afastamento da exigência de devolução das parcelas recebidas de boa-fé pela segurada, a título de antecipação de tutela de benefício previdenciário. Isso porque, segundo defende, a tutela de urgência foi concedida antes do julgamento do Tema 692 do STJ, sendo certo que não pode ser exigida, pois tal tema ainda não transitou em julgado.
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 553).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão. No presente caso, não ocorreu nenhum dos vícios supracitados.
+Isso porque a vice-presidente do Tribunal de origem negou seguimento ao recurso especial, no tocante ao Tema 692 - "A reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos" -, com base no art. 1.030, I, do CPC, conforme se lê na e-STJ fl. 371, motivo pelo qual a matéria somente pode ser rediscutida em sede de agravo interno na origem, e não na via do recurso especial.
+Assim, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido :
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO DE INDENIZAÇÃO POR DANO MORAL, EM RAZÃO DE ATRASO NA CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. DANO NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, A, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, em razão da incidência das Súmula 283 e 284 do STF e 7 do STJ.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp 1558418/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/03/2021, DJe 26/03/2021).
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
