@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. PROVAS LÍCITAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus e não constatou a presença de teratologia a dar ensejo à concessão da ordem de ofício, no qual se alegava nulidade na busca pessoal e veicular.
+II. Questão em discussão
+2. A discussão consiste em saber se a busca pessoal e veicular realizada sem mandado judicial, mas com base em fundada suspeita, é válida.
+III. Razões de decidir
+3. A abordagem policial foi considerada regular, pois a fundada suspeita decorreu da visualização, por policiais que realizavam patrulhamento pela rodovia, dos ocupantes de automóvel fecharem os vidros do carro ao perceber a aproximação deles, o que resultou na localização de 03 (três) porções totalizando 1,970kg (um quilograma e novecentos e setenta gramas) de maconha.
+IV. Dispositivo e tese
+4. Agravo regimental não provido.
+Tese de julgamento: 1. A busca pessoal e veicular sem mandado judicial é válida quando baseada em fundada suspeita decorrente de comportamento suspeito e envolvimento do veículo em atividade criminosa.
+Dispositivos relevantes citados: CPP, art. 244; CPP, art. 157.
+Jurisprudência relevante citada: STJ, RHC 158.580/BA, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 25/04/2022.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por MATHEUS CHAVES DE ALMEIDA contra a decisão de (fls. 91/626) pela qual não foi conhecido do writ e não foi constatada a presença de teratologia ou de patente ilegalidade a dar ensejo à concessão da ordem de ofício.
+Nas razões recursais sustenta a Defensoria Pública a adequação do writ para o enfrentamento do mérito da impetração e repisa as alegações de ilicitude da prova em virtude da alegada ilegalidade na busca pessoal e veicular, porque não havia fundada suspeita a motivar a diligência (fls. 932/944).
+Pede, ao final, a submissão do agravo regimental ao Colegiado, para que seja conhecido e provido.
+Sem Contrarrazões do Ministério Público Estadual e Federal.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA. PROVAS LÍCITAS. AGRAVO REGIMENTAL NÃO PROVIDO.I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus e não constatou a presença de teratologia a dar ensejo à concessão da ordem de ofício, no qual se alegava nulidade na busca pessoal e veicular.
+II. Questão em discussão
+2. A discussão consiste em saber se a busca pessoal e veicular realizada sem mandado judicial, mas com base em fundada suspeita, é válida.
+III. Razões de decidir
+3. A abordagem policial foi considerada regular, pois a fundada suspeita decorreu da visualização, por policiais que realizavam patrulhamento pela rodovia, dos ocupantes de automóvel fecharem os vidros do carro ao perceber a aproximação deles, o que resultou na localização de 03 (três) porções totalizando 1,970kg (um quilograma e novecentos e setenta gramas) de maconha.
+IV. Dispositivo e tese
+4. Agravo regimental não provido.
+Tese de julgamento: 1. A busca pessoal e veicular sem mandado judicial é válida quando baseada em fundada suspeita decorrente de comportamento suspeito e envolvimento do veículo em atividade criminosa.
+Dispositivos relevantes citados: CPP, art. 244; CPP, art. 157.
+Jurisprudência relevante citada: STJ, RHC 158.580/BA, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 25/04/2022.
+VOTO
+O inconformismo não merece prosperar.
+A impetração não foi conhecida e não se constatou a presença de teratologia ou de patente ilegalidade que desse ensejo à concessão da ordem, de ofício, pelos seguintes fundamentos (fls. 921/926):
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC n. 180.365, Primeira Turma, rel. Min. Rosa Weber, julgado em 27/03/2020, e AgR no HC n. 147.210, Segunda Turma, rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC n. 535.063/SP, Terceira Seção, rel. Ministro Sebastião Reis Junior, julgado em 10/06/2020).
+Conforme exposto, este habeas corpus foi impetrado contra ato do Tribunal de origem que, após manter a condenação do paciente às penas de 05 (cinco) anos de reclusão, no regime inicial semiaberto, e pagamento de 500 (quinhentos) dias-multa, no piso, como incurso no art. 33, caput, da Lei de Drogas, rejeitou, por maioria de votos, os embargos infringentes que contra tal acórdão foram opostos.
+Informou a Corte de origem que as partes foram intimadas do acórdão, não havendo notícia nestes autos sobre o trânsito em julgado da condenação ou interposição dos recursos legalmente cabíveis.
+A melhor orientação, portanto, é de que esta impetração não deve ser conhecida porque não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Desse modo, o habeas corpus não deve ser conhecido. Entretanto, em observância ao art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo o qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção, passo ao exame acerca da existência de flagrante ilegalidade.
+A jurisprudência desta Corte vem se consolidando e evoluindo para estabelecer balizas bem delineadas para a realização das buscas pessoais e sua validade jurídica. No âmbito do julgamento do RHC n. 158.580/BA (relator Ministro Rogerio Schietti Cruz, DJe de 25/04/2022), a Sexta Turma desta Corte Superior de Justiça traçou requisitos mínimos para a validade de tal expediente.
+Nesse sentido, foi estabelecida a exigência de fundada suspeita para a realização da busca pessoal ou veicular sem mandado(justa causa) judicial,
+baseada em um juízo de probabilidade, descrita com a maior precisão possível, aferida de modo objetivo e devidamente justificada pelos indícios e circunstâncias do caso concreto - de que o indivíduo esteja na posse de drogas, armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência.
+Fixou-se também a exigência da chamada da medida, referibilidade ou seja, sua vinculação a uma das finalidades legais traçadas no art. 244 do CPP, notadamente quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar. O objetivo é impedir ,abordagens e revistas exploratórias (fishing expeditions) baseadas em suspeição genérica existente sobre indivíduos, atitudes ou situações. Por tal motivo, buscas pessoais praticadas como ou praxe dorotina policiamento ostensivo, com finalidade preventiva e motivação exploratória, não satisfazem tais exigências.
+No citado leading case, assentou-se que informações de fontes não (i) identificadas (como as denúncias anônimas) e (ii) intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta (como aquelas apoiadas exclusivamente no tirocínio policial, atitude suspeita ou nervosismo), não preenchem o standard probatório exigido.
+O encontro posterior (descoberta casual) de objetos ilícitos não convalida a busca realizada fora dos parâmetros assinalados para a exigência convalida da fundada suspeita, que deve ser prévia. A violação de tais parâmetros legais resulta na ilicitude das provas obtidas em decorrência da medida (art. 157 do ilicitude Código de Processo Penal), bem como daquelas que delas decorrerem em relação de causalidade (§ 1º do mesmo dispositivo).
+Ademais, anoto que, no HC n. 877.943/MS, de relatoria do Ministro Rogerio Schietti Cruz, foi definido que não chegam a denotar a fundada suspeita reações sutis como (i) olhar ou desvio de olhar, (ii) levantar ou sentar, (iii) andar ou parar de andar e (iv) mudar a direção ou o passo. Entretanto, no mesmo julgamento, considerou-se que
+fugir correndo repentinamente ao avistar uma guarnição policial não configura, por si só, flagrante delito, nem algo próximo disso para justificar que se excepcione a garantia constitucional da inviolabilidade domiciliar. Trata-se, todavia, de conduta intensa e marcante que consiste em fato objetivo - não meramente subjetivo ou intuitivo -, visível, controlável pelo Judiciário e que, embora possa ter outras explicações, no mínimo gera suspeita razoável, amparada em juízo de probabilidade, sobre a posse de objeto que constitua corpo de delito (conceito mais amplo do que situação de flagrante delito (grifamos).
+Em outros casos, como no AgRg no HC n. 846.939/SP, com relatoria para o acórdão do Ministro Rogerio Schietti Cruz, a evasão do ,acusado, avistado em ponto de tráfico de drogas em posse de uma sacola ao ver a guarnição policial também foi apta a considerar ultrapassado o mero subjetivismo e indicativo da existência de fundada suspeita de que a sacola contivesse substâncias entorpecentes e de que o réu estivesse na posse de mais objetos relacionados ao crime.
+No caso dos autos, acerca da abordagem do paciente pelos policiais, a Juíza de Direito sentenciante assim consignou (fls. 839/852 - grifamos):
+(..)
+Os Policiais Militares Abdul Hamid Sebba Neto, João Domingos Ferreira Neto e Gilvan Pereira dos Santos Júnior, ouvidos sob o crivo do contraditório, foram coerentes e harmônicos entre si e com os demais elementos de convicção jungidos aos autos, corroborando, assim, a descrição contida na exordial acusatória.
+Em sede judicial, os Policiais Militares afirmaram que no dia dos fatos estavam em patrulhamento pela Rodovia GO-319, pela região de Nova Fátima, próximo a Hidrolândia/GO, momento em que avistaram os acusados na condução de um veículo Hyundai/HB20, os quais apresentaram atitude suspeita ao perceber a presença da equipe policial.
+Os agentes militares esclareceram que, ao notarem a aproximação da guarnição, os acusados demonstraram nervosismo e fecharam os vidros do carro, fato que motivou suas abordagens. Afirmaram que, no veículo, sob o banco do passageiro dianteiro, foram encontrados dois tabletes de maconha, razão por que os conduziram ao distrito policial. Ressaltaram que nenhum dos acusados se mostrou surpreso com a presença do entorpecente no veículo.
+E o Tribunal de origem, por maioria de votos, manteve o afastamento da alegada ilicitude na busca pessoal e veicular ao fundamento de que não há se falar em nulidade quando o embargante ao avistar a polícia, fechou o vidro do veículo ao perceber a viatura policial que já se encontrava realizando patrulhamento de rotina ao avistar o embargante (fls. 878/888).
+No caso dos autos a ação dos policiais foi regular, necessária e urgente. A abordagem foi realizada com indicação de dado concreto sobre a existência de justa causa, autorizando a medida invasiva, vislumbrando-se a licitude da prova.
+Os policiais realizavam patrulhamento pela rodovia e notaram que os ocupantes do automóvel, ao perceberem a aproximação da viatura, fecharam os vidros do veículo, o que motivou a abordagem e busca pessoal e veicular, que resultou na localização de 03 (três) porções totalizando 1,970kg (um quilograma e novecentos e setenta gramas) de maconha, não tendo os ocupantes do carro esboçado estranhamento quando da localização do narcótico pelos policiais.
+Assim, lícita a abordagem e as buscas pessoais e veicular, pois calcadas em fundadas suspeitadas da ocorrência de crime.
+Neste panorama, é idônea a fundamentação apresentada pelas instâncias ordinárias para justificar a medida invasiva em questão, pois alinhada com a jurisprudência desta Corte Superior (grifamos):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADAS RAZÕES PARA A ABORDAGEM. FLAGRANTE DELITO. INEXISTÊNCIA DE ILEGALIDADE. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de Marcelo Zacarias dos Santos Junior, condenado à pena de 7 anos de reclusão em regime fechado e 700 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006. A defesa alega nulidade da busca pessoal/veicular realizada pela polícia, sustentando que não havia fundada suspeita que justificasse a abordagem e, por consequência, as provas derivadas da referida busca são ilícitas. II. QUESTÃO EM DISCUSSÃO
+2. A questão central consiste em verificar se a busca pessoal estava amparada por fundadas razões que configurassem justa causa, conforme o disposto no art. 244 do Código de Processo Penal, ou se houve violação aos direitos constitucionais do paciente, tornando as provas colhidas ilícitas.
+III. RAZÕES DE DECIDIR
+3. O Supremo Tribunal Federal, no julgamento do RE 603.616/RO (Tema 280), e o Superior Tribunal de Justiça, de forma reiterada, afirmam que a busca veicular é válida quando há fundada suspeita de que o veículo está sendo utilizado para a prática de crime, especialmente em situações de flagrante delito.
+4. No caso concreto, os policiais relataram que a atitude suspeita do paciente - ao avistar a viatura, esconder algo, fechar o vidro do carro e mudar o sentido de direção - justificou a abordagem. A posterior desobediência às ordens de parada e a subsequente apreensão de grande quantidade de entorpecentes corroboraram a legitimidade da ação policial.
+5. A jurisprudência desta Corte é pacífica ao reconhecer a validade da busca veicular quando há elementos objetivos que indiquem a ocorrência de crime, especialmente em situações de flagrante, como o tráfico de drogas, que é um crime permanente. Não houve abuso de poder ou ilegalidade na atuação policial.
+6. A revisão das conclusões fáticas apresentadas pelo Tribunal de origem demandaria dilação probatória, o que é inviável na via estreita do habeas corpus.
+IV. HABEAS CORPUS DENEGADO.
+(HC n. 830.537/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024.)
+Neste panorama, e ressaltado que se trata de habeas corpus impetrado contra acórdão que manteve a condenação criminal em sede de recurso de apelação, bem como não ser a via eleita adequada ao amplo exame e confrontação entre os elementos da prova, não se verifica teratologia ou patente ilegalidade a dar ensejo à concessão da ordem.
+Ante o exposto, não conheço do habeas corpus.
+Neste panorama, por não se constatar, das razões do agravo, motivo a se alterar a conclusão exposta na decisão recorrida, de que é imprópria a via eleita a se impugnar acórdão proferido em sede de apelação e de que não se constata teratologia ou patente ilegalidade a dar ensejo à concessão da ordem de ofício, o recurso não comporta provimento.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
