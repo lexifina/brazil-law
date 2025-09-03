@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROBERTO DA ROSA DE OLIVEIRA contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta nos autos que o paciente está preso preventivamente, pela suposta prática do crime de organização criminosa voltada ao tráfico de armas, drogas, extorsão e lavagem de dinheiro, conforme apurado na Operação Moratorium.
+Alega a Defesa que a prisão preventiva foi decretada sem fundamentação concreta, baseada apenas em seu histórico criminal e em alegações genéricas, sem individualização da conduta criminosa do paciente.
+Afirma que não há contemporaneidade entre os fatos imputados, ocorridos em 2023, e a decretação da prisão preventiva em 2025, o que configuraria constrangimento ilegal.
+Sustenta que não há imputação de crime praticado com violência ou grave ameaça, e que a participação do paciente estaria limitada à compra de armas, sem posição de mando na organização criminosa.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 890-891.
+Informações prestadas às fls. 896-898.
+O Ministério Público Federal em parecer, às fls. 902-906, manifestou-se pelo não conhecimento da ordem.
+É o relatório. DECIDO.
+No presente caso, a análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantia da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista a suposta participação do paciente em organização criminosa voltada para a prática de crimes de tráfico de drogas, comércio ilegal de armas de fogo, extorsões, agiotagem e lavagem de dinheiro, desempenhando o acusado a função de negociação de compra e venda de armas ilegais - fl. 784.
+Com efeito, se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de organização criminosa.
+Sobre o tema:
+"Esta Corte Superior é firme ao enfatizar que "a participação de agente em organização criminosa sofisticada, com divisão de tarefas definida, revela a habitualidade delitiva e justifica o decreto constritivo, como forma de interromper as atividades do grupo - mesmo que não haja indicação detalhada da atividade desempenhada por cada um, mas apenas menção à existência de sinais de que integram a estrutura delituosa"(AgRg no RHC n. 203.490/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 19/3/2025.)
+"A prisão preventiva do agravante foi decretada com fundamento na garantia da ordem pública, conveniência da instrução criminal e asseguração da aplicação da lei penal, estando devidamente fundamentada na gravidade concreta do delito e na periculosidade do agente, evidenciada pelo modus operandi do crime e sua vinculação a organização criminosa" (AgRg no RHC n. 209.794/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 19/3/2025).
+No mesmo sentido: AgRg no RHC n. 208.466/RS, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 19/3/2025; AgRg no RHC n. 208.625/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025 e AgRg no RHC n. 207.913/CE, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025.
+Outrossim, cabe pontuar que a jurisprudência desta Corte Superior não exige a completa individualização da conduta de cada suspeito na fase investigativa, bastando a demonstração de indícios de prática delitiva e da indispensabilidade das medidas. Nesse sentido: AgRg no RHC n. 203.724/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 11/3/2025 e AgRg no RHC n. 208.625/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 11/3/2025.
+Sobre a contemporaneidade, ressalta-se que ela diz respeito aos motivos ensejadores da prisão e não decurso do tempo da prática do fato ilícito.
+A propósito:
+"A contemporaneidade da prisão preventiva não está relacionada à data dos fatos tidos como delituosos, mas à subsistência da situação de risco que respalda a medida cautelar" (AgRg no HC n. 802.815/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 15/9/2023).
+"De fato, conforme entendimento jurisprudencial dos Tribunais Superiores, a contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da prisão e não ao momento da prática do fato ilícito" (AgRg no RHC n. 180.111/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 7/6/2023).
+In casu, como bem destacado pela corte de origem, "não se pode ignorar que pesa contra o paciente acusação relativa ao crime de organização criminosa. E, sobre o tópico, a Corte Cidadã já consignou, a própria natureza do delito de integrar organização criminosa, que configura crime permanente, além do inerente risco de reiteração delitiva, reforça a contemporaneidade do decreto prisional" - fl. 785.
+De fato, a própria natureza do delito de integrar organização criminosa, que configura crime permanente, além do inerente risco de reiteração delitiva, reforça a contemporaneidade do decreto prisional, porquanto sua regra comporta mitigação quando, ainda que mantido período de aparente conformidade com o Direito, a natureza do delito indicar a alta possibilidade de recidiva ou ante indícios de que ainda persistem atos de desdobramento da cadeia delitiva inicial (ou repetição de atos habituais), como no caso de pertencimento a organização criminosa.
+Nesse sentido :
+"Admite-se a mitigação da exigência de contemporaneidade quando se trata de crimes praticados no âmbito de organizações criminosas, cujas atividades se prolongam no tempo e revelam risco concreto à ordem pública" (AgRg no RHC n. 213.824/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 19/8/2025.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
