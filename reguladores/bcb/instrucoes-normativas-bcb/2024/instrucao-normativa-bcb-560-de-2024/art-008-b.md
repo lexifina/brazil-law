@@ -1,0 +1,3 @@
+Art. 8º-B Os passivos financeiros gerados pela transferência de ativo financeiro, conforme o art. 9º, inciso III, da Resolução CMN nº 4.966, de 2021, e o art. 9º, inciso III, da Resolução BCB nº 352, de 2023, devem ser classificados de acordo com o tratamento previsto na Seção III do Capítulo III dessas Resoluções: (Incluído pela Instrução Normativa nº 657, de 1º/9/2025.)
+I - na categoria valor justo no resultado, no caso do disposto no art. 33 e no art. 34, inciso II, alinea "a", dessas Resoluções; e (Incluído pela Instrução Normativa nº 657, de 1º/9/2025.)
+II - na categoria custo amortizado, nos demais casos. (Incluído pela Instrução Normativa nº 657, de 1º/9/2025.)
