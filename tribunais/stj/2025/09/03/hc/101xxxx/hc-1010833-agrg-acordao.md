@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. INCÊNDIO CULPOSO COM RESULTADO MORTE. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. MATÉRIA PROCESSUAL. AUSÊNCIA DE VIOLAÇÃO DO DIREITO DE IR E VIR DA PACIENTE. DEFERIMENTO DE DILIGÊNCIA REQUERIDA PELA ACUSAÇÃO. ALEGAÇÃO DE PRECLUSÃO E TUMULTO PROCESSUAL. INEVIDÊNCIA. PROVIDÊNCIA RELEVANTE À BUSCA DA VERDADE REAL. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE.
+Agravo regimental improvido.
+RELATÓRIO
+Trago a julgamento o agravo regimental de PATRICIA GOMES PINTO MANDARINO contra a decisão, de fls. 927/929, por meio da qual indeferi liminarmente pedido de habeas corpus, nestes termos :
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. AUSÊNCIA DE VIOLAÇÃO DO DIREITO DE IR E VIR DA PACIENTE. INCÊNDIO CULPOSO COM RESULTADO MORTE. DEFERIMENTO DE DILIGÊNCIA REQUERIDA PELA ACUSAÇÃO. ALEGAÇÃO DE PRECLUSÃO E TUMULTO PROCESSUAL. INEVIDÊNCIA. PROVIDÊNCIA RELEVANTE À BUSCA DA VERDADE REAL. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE..
+Writ indeferido liminarmente.
+Nas razões deste recurso, a agravante sustenta que a decisão impugnada diverge da jurisprudência do Superior Tribunal de Justiça, que admite a concessão de habeas corpus em situações de flagrante ilegalidade.
+A agravante reitera que, na ação penal em que se apura o crime de incêndio culposo com resultado morte, o Ministério Público deixou de apresentar os quesitos no prazo legal, mas, posteriormente, requereu a intimação do perito para elaboração de laudo complementar. Sustenta, nesse contexto, que o pedido é extemporâneo e que sua admissão, tanto pelo Juízo de origem quanto pelo Tribunal de Justiça, resultou em tumulto processual, em violação dos princípios da paridade de armas, do devido processo legal e da duração razoável do processo.
+Ressalta, ainda, que a busca pela verdade real não pode se sobrepor às garantias constitucionais e que a decisão recorrida, ao admitir a prática de atos fora do momento processual adequado, acabou por beneficiar indevidamente a acusação e comprometer a regularidade do procedimento.
+Busca a reconsideração da decisão ora questionada ou o provimento do agravo regimental para conceder a ordem pleiteada.
+Não abri prazo para contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. INCÊNDIO CULPOSO COM RESULTADO MORTE. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. MATÉRIA PROCESSUAL. AUSÊNCIA DE VIOLAÇÃO DO DIREITO DE IR E VIR DA PACIENTE. DEFERIMENTO DE DILIGÊNCIA REQUERIDA PELA ACUSAÇÃO. ALEGAÇÃO DE PRECLUSÃO E TUMULTO PROCESSUAL. INEVIDÊNCIA. PROVIDÊNCIA RELEVANTE À BUSCA DA VERDADE REAL. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar.
+Reitero que, além de ser inadmissível o habeas corpus como substitutivo de recurso especial, é certo que o remédio constitucional visa à garantia do direito à liberdade de locomoção previsto no artigo 5º, inciso XV da Constituição Federal, sendo cabível apenas quando houver violação ou ameaça, por ilegalidade ou abuso de poder, do status libertatis do indivíduo, nos termos do inciso LXVIII do citado dispositivo constitucional (AgRg no HC n. 377.084/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 23/5/2017, DJe de 12/6/2017.) Desse modo, mostra-se inadequada a utilização de habeas corpus para impugnar ato que não implique violação da liberdade de locomoção (AgRg no RHC n. 195.861/PB, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+Ademais, não há flagrante ilegalidade a ser reparada de ofício. Conforme dito, a providência impugnada na impetração foi fundamentada na prevalência do princípio da busca da verdade real, diante da relevância da medida para o adequado esclarecimento dos fatos e ausência de indício de caráter protelatório.
+A instância antecedente também afastou a alegação de preclusão, com base no art. 402 do Código de Processo Penal, que autoriza a formulação de requerimentos complementares pelas partes antes da apresentação das alegações finais. Destacou, ainda, o reconhecimento de falha atribuída à Secretaria do Juízo, que deixou de intimar o Ministério Público por meio eletrônico para apresentação de quesitos suplementares, circunstância que justificou o recebimento da manifestação processual reputada intempestiva.
+Importa lembrar que a decretação de nulidade de ato processual exige a demonstração de prejuízo concreto, sendo incabível a declaração de invalidade com fundamento exclusivamente em vício formal, dissociado de efetivo comprometimento da finalidade processual.
+No caso, reafirmo, não se evidenciou prejuízo à parte agravante decorrente da medida deferida, tampouco comprometimento da regularidade da instrução. Ao contrário, a diligência determinada é pertinente à elucidação da controvérsia penal, podendo, inclusive, beneficiar ambas as partes, razão pela qual não há falar em nulidade ou em violação de garantias processuais. A propósito, o seguinte precedente citado na decisão agravada: AgRg no RHC n. 196.027/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.
+Diante desse cenário, não prospera a pretensão de reforma do decisum recorrido a fim de conceder a ordem de habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
