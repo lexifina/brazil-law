@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RODRIGO RODRIGUES FILHO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, 14 e 16, caput e § 1º, I, da Lei n. 10.826/2003.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem.
+Neste habeas corpus, alega o impetrante ilegalidade da prisão diante da tortura policial sofrida pelo paciente no momento do flagrante, conforme laudos e provas constantes dos autos.
+Requer, assim, o relaxamento da prisão ou, alternativamente, a sua substituição por medidas cautelares do art. 319 do Código de Processo Penal.
+Liminar indeferida (e-STJ, fls. 84).
+Informações prestadas (e-STJ, fls. 91-103).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 137-148).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao denegar a ordem, consignou o seguinte acerca da nulidade suscitada pela defesa:
+"Conforme adiantado quando do exame do pleito liminar, não constato constrangimento ilegal a que esteja submetido, por ora, o paciente.
+Embora não ignore as alegações formuladas pelo impetrante acerca de suposta violência policial ocorrida por ocasião da prisão em flagrante, tais ponderações, ainda que revestidas de gravidade, não têm o condão de infirmar a legalidade da custódia cautelar ora impugnada.
+Consoante bem registrado pelo juízo de primeiro grau na audiência de custódia, "a violência relatada pelo flagrado na presente solenidade, que é reprovável e que será devidamente apurada, não possui o condão de nulificar a situação de flagrante que já estava consumada". Tal constatação demonstra que a alegação foi devidamente considerada pelas instâncias competentes, mas, à luz dos elementos então disponíveis, reputada insuficiente para comprometer a legalidade da prisão.
+Ademais, ainda que os relatos de eventuais abusos e ilegalidades durante a abordagem policial devam ser objeto de apuração própria  inclusive junto à Corregedoria, conforme já noticiado nos autos  , é certo que tais fatos, por si sós, não constituem fundamento jurídico apto a ensejar o relaxamento da prisão em sede de habeas corpus. Isso porque o juízo competente, plenamente ciente das circunstâncias, homologou o auto de prisão em flagrante e, ato contínuo, converteu a prisão em preventiva, em decisão devidamente motivada.
+Ressalto que a própria natureza sumária e célere do habeas corpus impede qualquer juízo aprofundado que dependa de dilação probatória, sendo incabível, nesse rito constitucional, a desconstituição da custódia com base em alegações cuja comprovação demanda instrução judicial plena.
+As alegações de violência policial, além de desprovidas de comprovação nos documentos constantes dos autos, são incompatíveis com os registros médicos subsequentes, sem prejuízo, evidentemente, de apuração em sede própria. Contudo, não há como reconhecer, nesta via estreita, nulidade capaz de contaminar a legalidade da prisão cautelar.
+ ..
+Assim, eventuais vícios ou abusos de autoridade devem ser apreciados dentro do contraditório judicial apropriado, mediante produção probatória ampla, não sendo possível, em sede de cognição sumaríssima, desconstituir a custódia baseada em elementos que ainda demandam instrução" (e-STJ, fls. 98-99)
+Quanto ao tema, cabe consignar ser incabível a análise questões relativas à agressão por parte dos policiais, na estreita via do habeas corpus, por demandar detido e profundo revolvimento fático-probatório dos autos. Nessa linha: AgRg no HC 605.702/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/9/2020, DJe 6/10/2020; RHC 114.233/RR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 31/8/2020; e AgRg no RHC 121.001/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/5/2020, DJe 2/6/2020.
+Ademais, como bem destacado no acórdão impugnado, os eventuais abusos e ilegalidades durante a abordagem policial deverão ser objeto de apuração própria junto à Corregedoria, conforme constante nos autos, e dentro do contraditório judicial apropriado, mediante produção probatória ampla, não sendo cabível a desconstituição da custódia cautelar por tais elementos.
+Portanto, constata-se que o tema será melhor elucidado durante a instrução processual, sendo inviável, neste momento, o acolhimento do pleito defensivo relativo à vícios na ação penal que está em curso. A propósito: (AgRg no HC n. 846.616/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023; (AgRg no HC n. 1.002.881/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
