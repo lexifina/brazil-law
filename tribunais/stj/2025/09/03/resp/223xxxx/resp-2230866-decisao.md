@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSUAL CIVIL - CUMPRIMENTO DE SENTENÇA - JUÍZO SUBSTITUTO - REDISTRIBUIÇÃO - DESCABIMENTO - TRANSFERÊNCIA - AUTORIZAÇÃO - REFORMA PARCIAL DO DECISUM. O juízo competente para o julgamento do cumprimento de sentença é aquele que proferiu a decisão exequenda (CPC, art. 516, inc. II), situação não modificada pela declaração de suspeição do magistrado responsável pela unidade judiciária. A fim de dar mais eficiência ao processo e em respeito aos princípios da economia e celeridade processual, pode o juiz substituto autorizar a transferência dos autos a seu acervo, enquanto perdurar os motivos da substituição, em analogia ao que ocorre neste Tribunal de Justiça (RITJSC, art. 37).
+O agravo de instrumento julgado pelo acórdão recorrido veiculava a seguinte tese: "A r. decisão agravada ofende as disposições normativas disciplinadas nos artigos 43, 516 inc. II do CPC porque a declaração de suspeição da Exma. Dra. Juíza de Direito não se confunde com declaração de incompetência do Juízo da 6a Vara Cível, devendo o processo permanecer naquela unidade jurisdicional" (fl. 4).
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 43; 141; 516, II; e 1022, I e II, do Código de Processo Civil. Sustenta que, declarada pelo Juiz a própria suspeição, os autos devem permanecer na mesma Vara a fim de ser julgado por algum dos Juízes Substitutos. Desse modo, o Tribunal não poderia ter determinado a remessa dos autos a outra Vara.
+Em face da relevância da matéria, determino a conversão do agravo em recurso especial.
+Intimem-se.
+EMENTA
