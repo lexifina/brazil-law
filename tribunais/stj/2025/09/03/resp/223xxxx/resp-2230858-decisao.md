@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto pela MAPFRE VIDA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE cuja ementa guarda os seguintes termos (fl. 485):
+CONSUMIDOR, RESPONSABILIDADE CIVIL E PROCESSUAL CIVIL. EMENTA APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. PLEITO DE PAGAMENTO DE INDENIZAÇÃO SECURITÁRIA. RECUSA DE COBERTURA. AUTOR PORTADOR DE CARCINOMA DE PELE DOS MEMBROS SUPERIORES. COMPROVAÇÃO DE INCAPACIDADE DEFINITIVA PARA O EXERCÍCIO DO TRABALHO. MODIFICAÇÃO DA COBERTURA PREVISTA NA AVENÇA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO (ART. 6º, III, DO CDC). CONFIGURAÇÃO DE MÁ-FÉ CONTRATUAL. DANOS MORAIS CONFIGURADOS. DEVER DE INDENIZAR QUE SE IMPÕE. SENTENÇA REFORMADA. CONHECIMENTO E PROVIMENTO DO RECURSO.
+Embargos de declaração rejeitados (fl. 513):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMENTA ALEGAÇÃO DE OBSCURIDADE E OMISSÃO NO ACÓRDÃO. INOCORRÊNCIA DE QUALQUER DOS VÍCIOS RELACIONADOS NO ART. 1.022 DO CPC. NARRATIVA DE VIOLAÇÃO A PRECEITOS INFRACONSTITUCIONAIS PARA ESCLARECER A MATÉRIA E PROMOVER PREQUESTIONAMENTO. OBJETIVO DE ADEQUAR O ACÓRDÃO A FORMA PRECONIZADA PELAS EMBARGANTES. INVIABILIDADE. EMBARGOS CONHECIDOS E DESPROVIDOS.
+No recurso especial, a parte recorrente alega violação dos arts. 457, 760, 765 e 781 do Código Civil.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 573-585). Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 586-590), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 603-610).
+O Ministro Paulo de Tarso Sanseverino determinou a devolução dos autos à origem, para sobrestamento, até julgamento do Tema n. 1.112/STJ.
+O TJRN, em novo julgamento, assim decidiu (fl. 640):
+PROCESSO CIVIL. CONSUMIDOR, APELAÇÃO CÍVEL. PROCESSO ENVIADO PELA VICE-PRESIDÊNCIA PARA O JUÍZO DE CONFORMAÇÃO, CONSOANTE A TESE 1.112 FIRMADA PELO STJ EM SEDE DE RECURSOS REPETITIVOS. CONTRATO DE SEGURO DE VIDA EM GRUPO. AUSÊNCIA DE COMUNICAÇÃO PELA SEGURADORA ACERCA DA ALTERAÇÃO DA COBERTURA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO, INSCULPIDO NO ART. 6º, III, DO CDC. RESPONSABILIDADE SOLIDÁRIA DAS COSSEGURADORAS. SITUAÇÃO DOS AUTOS QUE NÃO IMPÕE A INCIDÊNCIA DO QUE FOI ESTABELECIDO NO TEMA FIXADO PELO STJ. DISTINGUISHING MANUTENÇÃO DO ACÓRDÃO.
+Embargos de declaração rejeitados (fl. 657):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE CONTRADIÇÃO NO JULGADO. INOCORRÊNCIA DE QUALQUER DOS VÍCIOS RELACIONADOS NO ART. 1.022 DO CPC. REDISCUSSÃO DA MATÉ RIA. IMPOSSIBILIDADE PELA VIA ELEITA. PREQUESTIONAMENTO DA MATÉRIA. DESNECESSIDADE. INTELIGÊNCIA DO ART. 1.025 DO CPC. CONHECIMENTO E REJEIÇÃO DOS ACLARATÓRIOS.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, verifico que as razões veiculadas pela parte agravante mostram-se relevantes, razão pela qual o presente agravo deve ser convertido em recurso especial, a fim de possibilitar um melhor exame da controvérsia.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. SUCUMBENCIA. ATRIBUIÇÕES DE CADA UM OU O PERCENTUAL DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS A QUE FARIAM JUS. AGRAVO CONHECIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
