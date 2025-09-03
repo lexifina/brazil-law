@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos em face da decisão que determinou a devolução dos autos ao Tribunal de origem para aguardar o julgamento dos Recursos Especiais nº 2.153.672/SP e 2.167.050/SP, vinculados ao Tema Repetitivo nº 1.295/STJ.
+A parte embargante sustenta que não é o caso de devolução dos autos à origem, requerendo o julgamento e improvimento do recurso.
+É firme a orientação desta Corte de que a decisão que determina a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito dos recursos recebidos como representativos de controvérsia, não gera prejuízo às partes.
+Com efeito, a determinação de sobrestamento, com o efetivo retorno dos autos à Corte local, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não ocorreu no presente caso. Nesse sentido, confira-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA (ART. 85, §§ 2º E 8º DO CPC/15). TEMA 1.046. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE PERMANEÇA SOBRESTADO ATÉ O JULGAMENTO DO MÉRITO DOS RECURSOS RECEBIDOS COMO REPRESENTATIVOS DE CONTROVÉRSIA. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. INEXISTÊNCIA DE PREJUÍZO.
+1. "É firme a orientação desta Corte segundo a qual a decisão que determina a devolução dos autos para que, após publicado o acórdão relativo ao recurso repetitivo, o Recurso Especial seja novamente examinado pelo Tribunal de origem, não gera prejuízo à parte recorrente. Nesse contexto, a determinação de sobrestamento, com o efetivo retorno dos autos à Corte estadual, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não ocorre no caso dos autos" (AgInt nos EDcl no REsp 1.901.625/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3.5.2021, DJe de 1º.7.2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.941.205/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Em face do exposto, rejeito os embargos declaratórios.
+Intimem-se.
+EMENTA
