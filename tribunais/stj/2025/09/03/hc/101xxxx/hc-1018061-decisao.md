@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARIELI MORAES STORCK em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que a paciente se encontra acautelada preventivamente, em decorrência de conversão de prisão em flagrante ocorrida em 2/12/2024, como incursa, em tese, nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+O impetrante alega que a paciente sofre constrangimento ilegal em razão da negativa de substituição da prisão preventiva por prisão domiciliar.
+Afirma ser a paciente a única responsável pelos cuidados diários e acompanhamento médico de sua genitora, de quase 70 anos e acometida de doença grave, não havendo outros familiares aptos a prestar o auxílio necessário.
+Defende que o estudo social e laudos apresentados pela paciente constituem meio de prova lícito e legítimo, admitido pelo ordenamento jurídico.
+Requer, liminarmente e no mérito, a substituição da prisão preventiva por prisão domiciliar, com ou sem fixação de medidas cautelares alternativas.
+Por meio da decisão de fls. 1.286-1.287, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 1.290-1.296 e 1.300-1.478), bem como a manifestação do Ministério Público Federal, opinando pelo não conhecimento do habeas corpus (fls. 1.482-1.485).
+É o relatório.
+No que diz respeito ao benefício da prisão domiciliar, tem-se que, desde a vigência da Lei n. 12.403/2011, o Código de Processo Penal previa, no inciso III do seu art. 318, a hipótese de substituição da prisão preventiva pela domiciliar quando "imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência". Por sua vez, o inciso VI do mesmo dispositivo legal estabelece a possibilidade de substituição nos casos em que o homem seja o único responsável pelos cuidados de filho com até 12 anos de idade incompletos.
+Quanto ao benefício almejado, o Tribunal de origem assim dispôs (fls. 21-22, grifo próprio):
+O "parecer técnico social" apresentado não preenche os pressupostos de admissibilidade, visto não estar acompanhado de documento de identificação profissional a confirmar a habilitação da subscritora do parecer.
+Além disso, o parecer excede as atribuições da Assistente Social ao emitir opiniões, fazer recomendações e invocar legislação para dizer ao juízo sobre como deve proceder com o pedido de prisão domiciliar da paciente.
+O "laudo psicológico" também não está acompanhado de documento de identificação profissional a confirmar a habilitação da subscritora e incorre nos mesmos erros do parecer técnico ao fazer recomendações que excedem as atribuições da psicóloga.
+De qualquer forma, os novos documentos são insuficientes para infirmar a conclusão anterior sobre a impossibilidade da prisão domiciliar.
+Na impetração anterior restou consignado por esta Relatora (5034167- 41.2025.8.24.0000):
+No caso concreto, colhe-se do extenso rol de documentos anexados pela defesa (ev. 1 - Anexos 2 a 68), prova de que a genitora da paciente enfrenta contínuo tratamento para neoplasia maligna na mama e que Marieli se apresenta ao hospital como cuidadora e responsável legal da idosa.
+O diagnóstico é antigo (2023) e não há prova concreta sobre eventual e possível debilidade extrema atual, que a torne dependente de terceiro para a realização das tarefas e cuidados diários.
+Além disso, não há provas da imprescindibilidade da paciente ou da ausência de outros familiares que pudessem prestar o auxílio necessário.
+Frisa-se que a mera indicação de ser ela a responsável legal da idosa no registro hospitalar, não permite a presunção de ser ela imprescindível aos cuidados diários necessários.
+Para infirmar tal presunção, cita-se que os documentos anexados provam que mãe e filha residem em endereços diversos e que Marieli possui atividade profissional em outra cidade (Balneário Rincão), além de atividades educacionais em universidade local.
+Do mesmo modo a denúncia narra uma associação para o transporte de 154,5kg de crack/cocaína, originado da região de Florianópolis e com destino a Criciúma. Pela descrição dos fatos, Marieli esteve nesta Capital em 04.12.2024 e retornou para Criciúma apenas em 05.12.2024.
+O contexto, sem olvidar que ela ostenta a condição de reincidente específico (5006910- 82.2024.8.24.0030 - ev. 8), mostra que a rotina diária da paciente envolve atividades profissionais, educacionais e criminosas, todas em locais distante do endereço da genitora.
+A situação é incompatível com a alegação de imprescindibilidade e não permite o acolhimento do pleito de prisão domiciliar.
+Registra-se que os novos documentos apresentados não explicam como a paciente seria imprescindível aos cuidados da genitora, sendo que possui rotina totalmente incompatível com as obrigações em questão.
+Para piorar, a defesa reitera os documentos sobre a saúde da genitora, os quais, como analisados na impetração anterior, não são suficientes para atestar as atuais condições físicas da idosa.
+Não se olvida que a presença da filha seja importante para a mãe, no entanto, foi a própria Marieli que deixou o lar para realizar o transporte de 154,5kg de crack/cocaína, sujeitando-se aos rigores da lei.
+Verifica-se que a Corte regional entendeu que não ficou demonstrado que a paciente esteja inserida em alguma das hipóteses previstas no art. 318 do Código de Processo Penal, tampouco a sua imprescindibilidade nos cuidados com a mãe idosa.
+Tais fundamentos não autorizam a conversão da prisão preventiva em domiciliar. Ademais, alterar essa conclusão para comprovar os requisitos do art. 318 do CPP demandaria o reexame fático-probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. TRÁFICO INTERESTADUAL E ARMADO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. ART. 312 DO CPP. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém deve, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta da conduta delitiva, visto o recorrente ser suspeito de integrar associação armada voltada ao tráfico de drogas, bem já haver sido condenado por prática de tráfico.
+3. Consoante previsto no art. 318, III, do Código de Processo Penal, " p oderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for  ..  imprescindível aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência". Todavia, ao indeferir o pedido defensivo, o Juízo de primeira instância apontou que "é possível extrair da própria argumentação defensiva que o réu possui outros 9 (nove) irmãos e o curador de Ademir sequer seria Ailton, mas sim sua outra irmã, Maria Aparecida de Freitas Arruda. Deste modo, entendo não haver provas de que a presença de Ailton é imprescindível para os cuidados do irmão". Assim, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+4. Recurso não provido.
+(RHC n. 130.552/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/2/2021, DJe de 1º /3/2021 - grifo próprio.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
