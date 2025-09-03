@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL contra a decisão de minha lavra, constante às e-STJ fls. 1.345/1.358, em que, com base na Súmula 83 do STJ, conheci em parte do recurso especial do ente público e, nessa extensão, neguei-lhe provimento e dei parcial provimento ao recurso especial da empresa, "para afastar a limitação imposta pela superveniência da Lei n. 14.789/2023" (e-STJ fl. 1.357).
+Nas suas razões (e-STJ fls. 1.364/1.366), a embargante alega que a decisão ora impugnada incorreu em contradição e erro material, pois "a aplicação do novel diploma legislativo nem sequer estava em discussão, afinal a Lei é posterior ao ajuizamento da demanda, não integrando, pois, o objeto do pedido, e nem sequer foi discutida na instância de origem. Dessa maneira, o deferimento do pedido por esse fundamento além de se mostrar extra petita, configura supressão de instância" (e-STJ fl. 1.364).
+Afirma que, "em nenhum órgão colegiado desta corte superior, analisou o alcance da Lei de n. 14.789, o que, portanto, desautoriza o provimento monocrático do recurso do contribuinte, com fundamento na súmula 83 e mesmo no EREsp 1.517.492/PR , uma vez que esse julgado ocorreu em momento anterior à alteração legislativa, logo, a ela não se referiu" (e-STJ fl. 1.365).
+Sem impugnação pela parte embargada, conforme certificado à e-STJ fl. 1.164.
+Passo a decidir.
+O art. 1.024, § 2º, do CPC prescreve que os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e, nos termos do art. 1.022 do mesmo diploma legal, serão admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo haver vício de integração a ser sanado no decisum embargado que apreciou os recursos especiais de ambas as partes.
+De fato, como aduzido pela parte embargante, no que toca à Lei n. 14.789/2023, "a aplicação do novel diploma legislativo nem sequer estava em discussão, afinal a Lei é posterior ao ajuizamento da demanda, não integrando, pois, o objeto do pedido nem sequer foi discutida na instância de origem. Dessa maneira, o deferimento do pedido por esse fundamento, além de se mostrar extra petita, configura supressão de instância" (e-STJ fl. 1.364).
+Assim, considerando que esse argumento pode vir a modificar o julgado, deve ser anulada a decisão embargada para nova apreciação do feito.
+Ante o exposto, ACOLHO os embargos de declaração, COM EFEITOS INFRINGENTES, para tornar sem efeito a decisão embargada (e-STJ fls. 1.345/1.358).
+Após, retornem-me os autos conclusos para nova apreciação dos recursos especiais da FAZENDA NACIONAL e de ANDREETTA & CIA LTDA.
+Publique-se. Intimem-se.
+EMENTA
