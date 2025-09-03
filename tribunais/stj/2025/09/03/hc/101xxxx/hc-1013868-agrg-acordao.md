@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Cini Marchionatti (Desembargador Convocado TJRS), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. HABEAS CORPUS. Inépcia da denúncia e ausência de justa causa. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegava inépcia da denúncia e ausência de justa causa para o trancamento da ação penal.
+2. A defesa sustenta que a denúncia não individualizou a conduta do agravante, mencionando apenas sua presença no local dos fatos com o carro da ex-esposa, sem apresentar provas de sua participação nos crimes.
+3. Alega-se ainda violação ao contraditório e ampla defesa, além da inépcia da denúncia e ausência de justa causa.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a denúncia é inepta por não individualizar a conduta do agravante e se há ausência de justa causa para o prosseguimento da ação penal.
+III. Razões de decidir
+5. O trancamento da ação penal é medida excepcional, justificada apenas quando comprovadas, de plano, a atipicidade da conduta, a presença de causa de extinção de punibilidade, ou a ausência de indícios mínimos de autoria ou prova de materialidade.
+6. A denúncia descreveu adequadamente o fato criminoso, com todas as suas circunstâncias, possibilitando o exercício da ampla defesa, conforme exigido pelo art. 41 do Código de Processo Penal.
+7. A decisão impugnada analisou todos os pontos apresentados de forma devidamente fundamentada, não havendo ilegalidade ou abuso de poder flagrante que justifique o trancamento da ação penal.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. O trancamento da ação penal é medida excepcional, justificada apenas quando comprovadas, de plano, a atipicidade da conduta, a presença de causa de extinção de punibilidade, ou a ausência de indícios mínimos de autoria ou prova de materialidade. 2. A denúncia que descreve suficientemente as infrações imputadas preenche os requisitos do art. 41 do Código de Processo Penal, demonstrando justa causa para a ação penal.".
+Dispositivos relevantes citados: CPP, art. 41; CPP, art. 395, I.
+Jurisprudência relevante citada: STJ, AgRg no RHC 160.901/SP, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 07.06.2022; STJ, AgRg no RHC 179.078/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22.08.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RODRIGO SANTANDER TOSIN contra decisão de minha lavra, acostada às fls. 154-159, na qual não conheci do presente habeas corpus.
+Neste regimental, a Defesa reitera que a denúncia não individualizou a conduta do agravante, apenas mencionando que ele estaria no local com o carro da ex-esposa, sem apresentar provas de sua presença ou participação nos crimes (fls. 165-166, 178-179).
+Alega que a prisão preventiva foi decretada com base em indícios insuficientes. Sustenta inépcia da denúncia, violação ao contraditório e ampla defesa e ausência de justa causa, pois não houve individualização da participação do agravante nos crimes (fls. 166-167).
+Aduz que a decisão monocrática foi inadequada, pois não deveria ter julgado o mérito do habeas corpus de forma singular. Reafirma que a denúncia é inepta por não individualizar a conduta do agravante, o que inviabiliza o exercício da ampla defesa e do contraditório (fls. 169-170, 179-180).
+Requer, por fim, a reforma da decisão agravada para que a ordem de habeas corpus seja apreciada pela Turma Julgadora, visando o trancamento da ação penal por ausência de justa causa e inépcia da denúncia (fls. 185-186).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. HABEAS CORPUS. Inépcia da denúncia e ausência de justa causa. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegava inépcia da denúncia e ausência de justa causa para o trancamento da ação penal.
+2. A defesa sustenta que a denúncia não individualizou a conduta do agravante, mencionando apenas sua presença no local dos fatos com o carro da ex-esposa, sem apresentar provas de sua participação nos crimes.
+3. Alega-se ainda violação ao contraditório e ampla defesa, além da inépcia da denúncia e ausência de justa causa.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a denúncia é inepta por não individualizar a conduta do agravante e se há ausência de justa causa para o prosseguimento da ação penal.
+III. Razões de decidir
+5. O trancamento da ação penal é medida excepcional, justificada apenas quando comprovadas, de plano, a atipicidade da conduta, a presença de causa de extinção de punibilidade, ou a ausência de indícios mínimos de autoria ou prova de materialidade.
+6. A denúncia descreveu adequadamente o fato criminoso, com todas as suas circunstâncias, possibilitando o exercício da ampla defesa, conforme exigido pelo art. 41 do Código de Processo Penal.
+7. A decisão impugnada analisou todos os pontos apresentados de forma devidamente fundamentada, não havendo ilegalidade ou abuso de poder flagrante que justifique o trancamento da ação penal.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. O trancamento da ação penal é medida excepcional, justificada apenas quando comprovadas, de plano, a atipicidade da conduta, a presença de causa de extinção de punibilidade, ou a ausência de indícios mínimos de autoria ou prova de materialidade. 2. A denúncia que descreve suficientemente as infrações imputadas preenche os requisitos do art. 41 do Código de Processo Penal, demonstrando justa causa para a ação penal.".
+Dispositivos relevantes citados: CPP, art. 41; CPP, art. 395, I.
+Jurisprudência relevante citada: STJ, AgRg no RHC 160.901/SP, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 07.06.2022; STJ, AgRg no RHC 179.078/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22.08.2023.
+VOTO
+O agravo regimental não merece prosperar.
+Inicialmente, cumpre consignar que o artigo 932, III, do Código de Processo Civil, aplicável por força do artigo 3º do Código de Processo Penal, estabelece como incumbência do Relator "não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na mesma linha, o RISTJ, no artigo 34, "b", dispõe que o Relator pode decidir monocraticamente, negando provimento a recurso, quando contrário à jurisprudência dominante acerca do tema.
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Corte Especial, DJe 17/ 3/2016).
+A decisão monocrática proferida por Relator, portanto, em regra, não afronta o princípio da colegialidade, e nem mesmo o princípio do devido processo legal e tampouco configura cerceamento de defesa, quando todas as questões são amplamente debatidas.
+Certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando eventual vício suscitado pela parte agravante.
+Sobre o tema, cito os seguintes precedentes: AgRg no HC n. 831.827/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 799.404/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 29/6/2023.
+Prosseguindo, a controvérsia trazida na impetração consiste na verificação das alegadas inépcia da exordial acusatória e ausência de justa causa, com o consequente trancamento da ação penal.
+A decisão agravada, entretanto, analisou todos os pontos apresentados de forma devidamente fundamentada, devendo ser mantida.
+Com efeito, o trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+Por sua vez, nos termos do artigo 41 do Código de Processo Penal - CPP, a denúncia deve descrever o fato criminoso, com todas as suas circunstâncias, bem como a qualificação do acusado e a classificação do crime:
+"Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas."
+No entanto, da narrativa constante dos autos, verifica-se que o Ministério Público Estadual descreveu adequadamente o fato criminoso, com todas as suas circunstâncias, de maneira a possibilitar o exercício da ampla defesa.
+De acordo com o que se depreende da leitura da exordial acusatória, constata-se que o agravante é acusado por, supostamente, em conjunto com outros denunciados, todos torcedores do Palmeiras, ter atuado em emboscada a torcedores do Cruzeiro, ocasião na qual teriam atacado o ônibus da torcida rival, surpreendendo as vítimas, lançando objetos contundentes, como pedras e bolas de bilhar, contra os ônibus, assumindo o risco não apenas de danificar os coletivos, mas de causar a morte das pessoas que repousavam em seu interior (fl. 46).
+Consta ainda da denúncia, in verbis (fl. 46):
+"Além disso, lançaram diversos fogos de artifícios e objetos inflamáveis contra os veículos, com o fim de causar incêndio e, novamente, assumindo o risco de matar os ocupantes dos ônibus. Um dos veículos de transporte coletivo efetivamente foi incendiado.
+Ainda, os denunciados e os terceiros ainda não identificados, de modo simultâneo às condutas acima expostas, utilizaram pedaços de madeira e barras de ferro, bem como seus punhos e pés, para agredirem os ofendidos descritos nos dois primeiros parágrafos desta denúncia, causando neles lesões corporais.
+Em razão das agressões cometidas na emboscada, o ofendido José Vitor Miranda dos Santos faleceu em decorrência do traumatismo cranioencefálico suportado, conforme laudo de fls. 332/335 e imagens cadavéricas de fls. 642/643."
+De outro lado, destaca-se o seguinte trecho do acórdão impugnado a respeito dos temas aventados, in verbis (fl. 37 - grifei):
+"Acerca da alegação da defesa de inépcia da denúncia, nota-se que, conforme a exordial, o paciente estaria envolvido nas graves ações criminosas lá descritas, dentre elas, a morte de uma pessoa e a ofensa à integridade física de 15 pessoas, com assunção de risco do resultado homicida destas. Em relação aos indícios de autoria especificamente do paciente, foi apontado que este pertence à torcida organizada Mancha Alvi Verde, relacionada ao time de futebol Palmeiras, e, no dia dos fatos, foi ao local da emboscada à torcida rival (Máfia Azul, relacionada ao clube de futebol Cruzeiro) com o automóvel de sua esposa (fl. 1.221 dos autos de origem), a indicar, portanto, a participação nos delitos ali descritos.
+Tal informação foi extraída do relatório de investigação acostado aos autos (fls. 920/921 do processo de origem), segundo o qual foi constatado, por meio de leitura de placa, que o automóvel mencionado estava no horário e local dos fatos. À fl. 922, foram colacionadas fotografias do paciente que demonstram pertencer à torcida organizada Mancha Verde.
+A autoridade apontada como coatora, assim, recebeu a denúncia e, após a apresentação das respostas à acusação, ratificou o recebimento, sendo afastada a tese defensiva de inépcia da denúncia, por entender que esta preencheu os requisitos mínimos de prova de materialidade dos delitos e indícios de autoria, sobretudo diante dos relatórios de investigação acostados aos autos (fls. 2.124/2.126 da ação de origem)."
+De fato, as considerações trazidas pela Defesa para análise neste feito, referentes à negativa de autoria e não pertencimento à torcida organizada, são relativas à análise de mérito da causa, não caracterizando o perfunctório exame a título de aptidão da denúncia para seu recebimento e início do processo penal.
+Portanto, não sendo a denúncia inepta, ou seja, atendendo seu aspecto formal, assim como tendo sido identificada a presença dos pressupostos de existência e validade da relação processual quanto às condições para o exercício da ação penal, deve ser recebida, nos termos do artigo 41, c.c. o artigo 395, I, do CPP.
+Nesse sentido:
+"A denúncia que descreve suficientemente as infrações imputadas preenche os requisitos do art. 41 do Código de Processo Penal, demonstrando justa causa para a ação penal" (AgRg no AgRg no HC n. 943.220/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Outrossim, com relação à apreciação da justa causa, a liquidez do pleito formulado constitui requisito inafastável pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, uma vez que seu manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano.
+A propósito:
+" ..
+II - O trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, ou a ausência de indícios mínimos de autoria ou prova de materialidade. Na hipótese, consoante os fatos descritos na denúncia, bem como de acordo com o consignado no v. acórdão objurgado, não se pode concluir, com precisão inequívoca, que não existe a justa causa apta a possibilitar a continuidade da ação penal na origem.
+III - In casu, conforme reconhecido pelo eg. Tribunal a quo, ao contrário do que assevera o Agravante, a denúncia descreve de forma pormenorizada a conduta do acusado, a qual pode se amoldar ao delito a ele acometido, de forma que torna plausível a imputação e possibilita o exercício da ampla defesa, com todos os recursos a ela inerentes e sob o crivo do contraditório. Convém observar, ainda, que, ausente abuso de poder, ilegalidade flagrante ou teratologia, o exame da existência de materialidade delitiva ou de indícios de autoria demanda amplo e aprofundado revolvimento fático-probatório, incompatível com a via estreita do habeas corpus, que não admite dilação probatória, reservando-se a sua discussão ao âmbito da instrução processual.
+ ..
+Agravo regimental desprovido" (AgRg no RHC n. 160.901/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/6/2022, DJe de 20/6/2022).
+Corroborando o julgado acima: AgRg no RHC n. 178.583/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, julgado em 22/5/2023, DJe de 24/5/2023; RHC n. 155.784/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, julgado em 9/5/2023, DJe de 19/5/2023; AgRg no HC n. 776.399/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, julgado em 9/5/2023, DJe de 15/5/2023.
+Ademais, segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a presença de indícios mínimos de autoria, não sendo exigida a certeza, que a toda evidência somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de oferecimento da denúncia, o princípio da busca da verdade real.
+Assim, eventual desconstituição das premissas fáticas até o momento estabelecidas pelas instâncias de origem demandaria aprofundada dilação probatória, procedimento totalmente incompatível com a via eleita. Como consabido, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandam a incursão no acervo fático-probatório.
+A esse respeito:
+" ..
+1. Nos termos da jurisprudência desta Corte, "O trancamento da ação penal, na via estreita do habeas corpus, somente é possível, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito (AgRg no RHC n. 120.936/RN, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/6/2020, DJe 25/6/2020).
+ ..
+4. Nos termos da jurisprudência desta Corte, não se admite o revolvimento fático e probatório para o fim de identificação da ausência de justa causa, matéria essa que deve ser destinada ao exame meritório originário.  .. " (AgRg no RHC n. 167.526/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/9/2023, DJe de 15/9/2023).
+" ..
+4. O trancamento prematuro da ação penal somente é possível quando ficar manifesto, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade, ou ainda quando se mostrar inepta a denúncia por não atender comando do art. 41 do Código de Processo Penal.
+5. Conforme exaustivamente apontado pela Corte local, tem-se que, ao contrário do alegado, a inicial acusatória preenche todos os requisitos elencados no artigo 41 do CPP, pois delimita, de forma clara e precisa, a acusação que pesa sobre o recorrente e de que forma a responsabilidade penal lhe é atribuída, possibilitando o pleno exercício do contraditório e da ampla defesa, motivo pelo qual não há como determinar o prematuro trancamento da ação penal em tela. Assim, qualquer conclusão no sentido de inexistência de prova apta para embasar o ajuizamento da ação penal demanda o exame aprofundado de provas, providencia incabível no âmbito do habeas corpus. A propósito, mostra-se acertada a conclusão da Corte local, proferida em sede de habeas corpus, segundo a qual as teses defensivas são típicas do mérito da ação penal e, como tal, devem ser alegadas e enfrentadas no processo respectivo, especialmente na por ocasião da prolação da sentença, a qual, no caso, encontra-se pendente.
+6. Agravo regimental a que se nega provimento" (AgRg no RHC n. 179.078/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023).
+Por fim, no presente agravo regimental não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantido o ato judicial por seus próprios fundamentos. Acerca do tema:
+" ..
+1. É assente nesta Corte que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.  .. " (AgRg no HC n. 659.003/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023 ).
+Ante todo o exposto, nego provimento ao agravo regimental.
+É o voto.
