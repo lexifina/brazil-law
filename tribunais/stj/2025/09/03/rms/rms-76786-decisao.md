@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, interposto por RAMON RAMALHO DE QUEIROZ contra acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ fl. 156):
+MANDADO DE SEGURANÇA. AGENTE DE SEGURANÇA PENITENCIÁRIO. PROMOÇÃO VERTICAL. CLASSES. AUSÊNCIA DE CUMPRIMENTO DOS REQUISITOS LEGAIS DO PCCR. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO. DENEGAÇÃO DA SEGURANÇA.
+- A situação pessoal do autor, com o curso de pós graduação, permitiria seu enquadramento na Classe E, nos termos do art. 5º do PCCR, todavia, como previsto em lei, a progressão funcional está condicionada também à existência de vaga, prova constituída que não foi regularmente apresentada pela parte impetrante.
+O recorrente aponta violação dos princípios da igualdade e da isonomia, afirmando que o julgado recorrido teria tratado de forma desigual servidores que possuem as mesmas condições acadêmicas. Afirma ter direito líquido e certo à progressão vertical diante da comprovação de ter o curso de pós-graduação exigido pela norma de regência, bem como dos demais requisitos. Pondera, ainda, que a decisão administrativa teria desrespeitado o princípio da legalidade ao negar a progressão, mesmo diante do preenchimento das exigências legais.
+As contrarrazões não foram oferecidas.
+O Ministério Público Federal opinou pelo "não conhecimento do recurso ordinário", em face da incidência da Súmula 283 do STF (e-STJ fl. 201).
+Passo a decidir.
+O Tribunal de origem, por unanimidade, denegou a ordem. Transcrevo os fundamentos do voto condutor do acórdão recorrido (e-STJ fls. 159/162):
+Do cotejo dos autos, extrai-se que o(a) impetrante vindica a sua promoção para Classe E do plano de carreira de agente penitenciário, em progressão vertical, afirmando haver comprovado conclusão de graduação e pós-graduação lato sensu, cumprindo as exigências do art. 5º, inciso V, c/c art. 20 da Lei 11.359/2019.
+Pois bem. Disciplinando a carreira dos agentes penitenciários, foi editada a Lei 11.359/2019, criando-lhes o Plano de Cargos, Carreira e Remuneração - PCCR.
+As progressões, tanto vertical como horizontal, foram expressamente previstas no art. 18, ao estipular que "o crescimento na carreira será efetivado através de Progressão Funcional que corresponde à passagem do servidor de uma classe para outra ou de um nível de referência para outro, firmado na titulação, na aferição de conhecimentos e no desempenho no trabalho, com critérios definidos em documentos específicos (..)".
+No caso dos autos, o(a) autor(a) persegue a progressão vertical, estipulada entre as classes A e E, objetivando seu enquadramento na Classe E. Eis a regulamentação legal:
+Art. 19. A Progressão Funcional Vertical corresponde à passagem do servidor de uma classe para outra da mesma carreira, baseada em titulação de qualicação prossional após o estágio probatório, considerando-se o denido no art. 5º desta Lei.
+§ 1º A Progressão a que se refere o caput deste artigo dar-se-á da classe A para a classe B, após o interstício de 5 (cinco) anos de exercício, incluindo o Estágio Probatório, e para as classes subsequentes, sendo respeitado o interstício mínimo de 2 (dois) anos e a quantidade de vagas ofertadas em cada classe.
+§ 2 º A Progressão Vertical far-se-á mantendo o mesmo nível de referência em que se encontrava o servidor, quando da consecução do processo.
+Art. 20. A Progressão Funcional Vertical ocorrerá mediante requerimento do interessado ao Secretário de Estado da Administração, ao qual deverão ser anexados documentos comprobatórios de efetivação dos cursos.
+§ 1º Os documentos probatórios apresentados para alcance de uma Progressão Funcional não servirão como prova para progressão posterior."
+Pois bem. A situação pessoal do(a) autor(a), com o curso de pós graduação, de fato, permite o seu enquadramento para Classe E, nos termos do art. 5º do PCCR:
+Art. 5º O cargo a que se refere o artigo precedente é organizado em carreira, desdobrada em Classes de A a E, e em Níveis de Referências de um a sete, expressos em algarismos romanos (I, II, III, IV, V, VI, e VII), obedecendo aos seguintes critérios básicos:
+I - Classe A: os portadores com formação do ensino médio completo;
+II - Classe B: os portadores de curso em Nível Médio Completo, mais Curso de Aperfeiçoamento na área específica do cargo, com carga horária de 120 (cento e vinte) horas, ministrado pela Escola de Administração Penitenciária ou por instituição credenciada pelo Ministério da Educação (MEC);
+III - Classe C: os portadores de diploma ou certificado de Nível Médio Completo, mais cursos de aperfeiçoamento na área específica do cargo ou na área da segurança pública, devendo o somatório dos cursos atingir 240 (duzentos e quarenta) horas, reconhecidos por órgãos oficiais de qualquer ente da federação ou, por qualquer universidade ou faculdade pública que esteja no território nacional;
+IV - Classe D: os portadores de diploma de graduação reconhecido pelo Ministério da Educação; V - Classe E: os portadores de diploma de curso de Pós-Graduação lato sensu.
+Todavia, como previsto em lei, há um limitador de vagas ofertadas em cada classe, sendo 350 (trezentos e cinquenta) vagas para Classe E. Além disso, o art. 20, § 2º, determinou os critérios de desempate necessários para que o servidor faça jus a progressão funcional requerida, consistentes em:
+I - antiguidade na função de Agente de Segurança Penitenciária;
+II - maior tempo no serviço público;
+III - maior idade.
+Desta forma, além da aptidão à promoção com o cumprimento dos requisitos objetivos, o servidor candidato deve de alcançar posição dentro do número de vagas disponibilizadas na classe almejada.
+No caso dos autos, verifica-se que o impetrante, apesar de preencher o requisito da titulação mínima, não demonstrou, de plano, que estar classificado na seleção dentro das 350 vagas disponíveis para a Classe "E".
+Cumpre pontuar que a limitação no quantitativo de vagas disponíveis em cada classe da carreira não viola os princípios da legalidade e da isonomia, posto que, além de se encontrar prevista expressamente no Estatuto da carreira, era de pleno conhecimento de todos os Agentes Penitenciário participantes do processo seletivo.
+Outrossim, a referida limitação também não afronta o princípio da razoabilidade, uma vez que a Administração Pública deve obedecer a um planejamento orçamentário mínimo (dotação orçamentária) para ter condições de absorver o impacto financeiro no Erário decorrente das promoções, não se revelando viável a promoção funcional de servidores muito além do quantitativo de vagas previstos na lei.
+Em caso idêntico ao dos autos, já decidiu a 1ª Secção Especializada dessa Corte de Justiça:
+MANDADO DE SEGURANÇA. AGENTE PENITENCIÁRIO. PROGRESSÃO FUNCIONAL VERTICAL. PASSAGEM DO SERVIDOR DE UMA CLASSE PARA OUTRA DA MESMA CARREIRA. PREENCHIMENTO DOS REQUISITOS LEGAIS. DIREITO CONDICIONADO À EXISTÊNCIA DE VAGA. CONDIÇÃO NÃO DEMONSTRADA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA ESSENCIAL. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DA SEGURANÇA.
+1. O mandado de segurança é remédio processual destinado a coibir atos abusivos ou ilegais de autoridades públicas, protegendo o direito individual do cidadão diante do poder por elas exercido.
+2. Direito líquido e certo é aquele resultante de fato concreto e incontroverso, capaz de ser comprovado de plano, não podendo reclamar produção de provas ou interpretação de leis, pois com a petição inicial deve o impetrante trazer a prova indiscutível, completa e transparente de seu direito, não se admitindo presunções ou sustentação em interpretação de lei da forma a lhe interessar mais.
+3. Destarte, embora preenchidos os requisitos para progressão funcional, nos termos do art. 5º da Lei Estadual nº 11.359/2019, a concessão do pleito está condicionada à existência de vaga, prova constituída que não foi Denegação da segurança"regularmente apresentada pela autora. (TJPB, 0800603-17.2021.8.15.0000, Rel. Des. José Aurélio da Cruz, MANDADO DE SEGURANÇA CÍVEL, 1ª Seção Especializada Cível, juntado em 17/08/2021)
+Assim, considerando as razões acima apontadas, DENEGO A SEGURANÇA. É COMO VOTO.
+Pois bem.
+Antecipo que o recurso não comporta acolhimento.
+Conforme se verifica das razões recursais, a parte recorrente não impugnou especificamente, e de acordo com o princípio da dialeticidade, os fundamentos destacados do aresto recorrido:
+A situação pessoal do(a) autor(a), com o curso de pós graduação, de fato, permite o seu enquadramento para Classe E, nos termos do art. 5º do PCCR:
+ ..
+Todavia, como previsto em lei, há um limitador de vagas ofertadas em cada classe, sendo 350 (trezentos e cinquenta) vagas para Classe E. Além disso, o art. 20, § 2º, determinou os critérios de desempate necessários para que o servidor faça jus a progressão funcional requerida, consistentes em:
+I - antiguidade na função de Agente de Segurança Penitenciária;
+II - maior tempo no serviço público;
+III - maior idade.
+Desta forma, além da aptidão à promoção com o cumprimento dos requisitos objetivos, o servidor candidato deve de alcançar posição dentro do número de vagas disponibilizadas na classe almejada.
+No caso dos autos, verifica-se que o impetrante, apesar de preencher o requisito da titulação mínima, não demonstrou, de plano, que estar classificado na seleção dentro das 350 vagas disponíveis para a Classe "E".
+Cumpre pontuar que a limitação no quantitativo de vagas disponíveis em cada classe da carreira não viola os princípios da legalidade e da isonomia, posto que, além de se encontrar prevista expressamente no Estatuto da carreira, era de pleno conhecimento de todos os Agentes Penitenciário participantes do processo seletivo.
+Outrossim, a referida limitação também não afronta o princípio da razoabilidade, uma vez que a Administração Pública deve obedecer a um planejamento orçamentário mínimo (dotação orçamentária) para ter condições de absorver o impacto financeiro no Erário decorrente das promoções, não se revelando viável a promoção funcional de servidores muito além do quantitativo de vagas previstos na lei.
+De fato, na petição de recurso ordinário, a parte recorrente limita-se a afirmar que "a limitação de vagas  ..  fere de forma crassa o princípio da igualdade. Ou seja, pessoas com as mesmas condições de ocupação da classe funcional "E" estão sendo tratadas de forma desigual, a exemplo do recorrente, que comprovou possuir pós-graduação e teve seu pedido para classe E indeferido" (e-STJ fl. 180).
+Dessa forma, tem-se que a insurgência não merece ser conhecida, tendo em vista que esta Corte Superior firmou compreensão, inclusive no âmbito do recurso ordinário, de que a falta de combate a fundamento suficiente para manter o acórdão recorrido denota violação do princípio da dialeticidade e permite a aplicação das Súmulas 283 e 284 do STF, por analogia. Nesse sentido:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE DIALETICIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. A Corte Regional, ao julgar o Mandado de Segurança, denegou a ordem por entender que não há necessidade que justifique a impetração do mandamus quando já alcançado, administrativamente, o objeto da pretensão.
+2. Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, a recorrente não impugnou o fundamento acima mencionado no tocante à desnecessária impetração do Mandado de Segurança tendo em vista que a sua pretensão já havia sido alcançada pela via administrativa.
+3. Ao proceder dessa forma, não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, dentre as quais se destacar a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Incidência, por analogia, das Súmulas 283 e 284 do STF.
+4. Recurso em Mandado de Segurança não conhecido. (RMS 54.537/MG, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 18/10/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO DO TRIBUNAL DE JUSTIÇA DA BAHIA. REDUÇÃO DA VANTAGEM PESSOAL DE EFICIÊNCIA (VPE). PROCESSO ADMINISTRATIVO. NECESSIDADE DE HAVER CONHECIMENTO PRÉVIO.
+1. Trata-se de Agravo Interno em Recurso Ordinário em Mandado de Segurança provido para determinar à autoridade coatora que se abstenha de alterar o valor da Vantagem Pessoal de Eficiência da recorrente, garantindo a ampla defesa e o contraditório no processo administrativo.
+2. Consoante a Súmula 473/STF, a Administração, com fundamento no seu poder de autotutela, pode anular seus próprios atos, desde que ilegais. Ocorre que, quando tais atos produzem efeitos na esfera de interesses individuais, mostra-se necessária a prévia instauração de processo administrativo, garantindo-se a ampla defesa e o contraditório, nos termos dos arts. 5º, LV, da Constituição Federal, 2º da Lei 9.784/1999 e 35, II, da Lei 8.935/1994.
+3. Pacífica é a jurisprudência desta Corte no sentido de que "a Súmula 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido." (AgRg no RMS 30.555/MG, Rel. Min. Og Fernandes, Sexta Turma, DJe de 1º.8.2012).
+4. Deveria a parte ter rebatido os fundamentos determinantes dos julgados apontados como precedentes, com a demonstração de que eles não se aplicam ao caso concreto ou de que há julgados do STJ contemporâneos ou posteriores em sentido diverso. Tal situação caracteriza a ausência de impugnação específica dos fundamentos da decisão recorrida.
+5. Os argumentos expendidos não são suficientes para infirmar as conclusões do decisum, cuja fundamentação é adequada para lhe dar respaldo, tampouco ficou evidenciada a suposta afronta às normas legais enunciadas.
+6. Agravo Interno não provido. (AgInt no RMS 65.606/BA, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 06/04/2021).
+No mesmo sentido, as seguintes decisões monocráticas: RMS 65.985/PE, rel. Ministro REGINA HELENA COSTA, Primeira Turma, DJe 21/05/2021; e RMS 65.780/PE, rel. Ministro ASSUSETE MAGALHÃES, Segunda Turma, DJe 25/05/2021).
+Ante o exposto, com arrimo no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do recurso ordinário.
+Custas ex lege. Sem condenação ao pagamento de honorários advocatícios, nos termos da Súmula 105 do STJ.
+Publique-se. Intimem-se.
+EMENTA
