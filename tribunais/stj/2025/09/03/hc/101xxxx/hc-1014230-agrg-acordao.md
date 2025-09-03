@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA CONDENATÓRIA. LEGALIDADE DA BUSCA E APREENSÃO. COMPETÊNCIA TERRITORIAL. PEDIDO DE EXTENSÃO DOS EFEITOS DE OUTRO HABEAS CORPUS. PRETENSÃO JÁ ANALISADA. HABEAS CORPUS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Agravo regimental improvido.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por Paulo Marcio Ribeiro Santos - condenado nos termos dos arts. 33, caput, c/c o art. 40, I, IV, V e VII da Lei n. 11.343/2006 (tráfico internacional de drogas), por 46 vezes; no art. 35 c/c o art. 40, I, IV, V e VII da Lei n. 11.343/2006 (associação para o tráfico) - contra a decisão da minha lavra que indeferiu liminarmente o habeas corpus (fls. 990/992).
+Alega a parte agravante, em suma, que houve flagrante incompreensão das teses veiculadas na impetração pela decisão agravada, que não analisou adequadamente a nulidade da busca domiciliar e da prova colhida, em razão da ausência de estado de flagrante impróprio, do estado de flagrante ter-se dado fora do domicílio, não autorizando o ingresso no seu interior, e do constrangimento circunstancial na coleta do termo de consentimento para a busca, que põe dúvidas sobre a voluntariedade desse consentimento (fls. 997/999).
+Sustenta que a decisão agravada analisou apenas superficialmente a tese de nulidade da busca domiciliar, limitando-se a descrever os fundamentos do acórdão coator, sem se manifestar inequivocamente se adere ou não a essas razões. Argumenta que a incompatibilidade da ação policial com as balizas exigidas pelo Superior Tribunal de Justiça não foi devidamente considerada, especialmente em relação ao ônus do Estado de provar que o consentimento foi livre e voluntário, conforme jurisprudência recente (fls. 998/999).
+Aduz, ainda, que o termo de consentimento foi colhido após a prisão em flagrante do paciente e com grande número de policiais, o que não confere verossimilhança à afirmação de que o consentimento foi dado livremente (fls. 999).
+Pede o provimento deste agravo regimental, nos termos do habeas corpus impetrado, para reformar a decisão agravada e conceder a ordem, decretando a nulidade da busca domiciliar e das provas derivadas (fls. 999/1.000).
+Dispensas contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA CONDENATÓRIA. LEGALIDADE DA BUSCA E APREENSÃO. COMPETÊNCIA TERRITORIAL. PEDIDO DE EXTENSÃO DOS EFEITOS DE OUTRO HABEAS CORPUS. PRETENSÃO JÁ ANALISADA. HABEAS CORPUS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+De início, a defesa alega que a busca e apreensão realizada na residência do ora agravante foi ilegal, pois não havia estado de flagrante que justificasse a entrada sem mandado judicial. Argumenta que o consentimento para a busca foi obtido sob coação, o que invalida a voluntariedade do ato (fls. 12/13).
+Por seu turno, não merece reforma o acórdão a quo ao afirmar que o consentimento para a busca foi dado voluntariamente, com assinatura de testemunhas, afastando a alegação de coação (fls. 14/15). Destaca que a ação policial seguiu as balizas exigidas por este Superior Tribunal à época, não havendo ilegalidade na busca e apreensão (fl. 15).
+Nessa perspectiva: O Tribunal a quo entendeu que não houve ilegalidade flagrante, pois o ingresso na residência ocorreu mediante autorização escrita do morador, firmada também por duas testemunhas (HC n. 886.077/AL, da minha relatoria, Sexta Turma, DJEN de 21/5/2025.)
+Sustenta a defesa técnica a incompetência absoluta do Juízo Federal da Subseção Judiciária de Araguaína - TO, alegando que a competência deveria ser do Pará, onde ocorreu a apreensão d e drogas (fls. 12/13). Todavia, de maneira fundamentada, o acórdão defende a competência do Juízo de Araguaína - TO, com base na prevenção, pois foi o primeiro a adotar medidas cautelares relacionadas ao inquérito policial (fls. 19/20). Argumenta que a competência territorial ensejaria nulidade relativa, necessitando demonstração de prejuízo, o que não foi evidenciado na espécie (fls. 20).
+Nesse sentido: a competência territorial é relativa e se prorroga, não causando anulação do processo se não houver prejuízo, especialmente quando a modificação da competência foi provocada pelo próprio agravante (AgRg no HC n. 959.910/PR, Ministro Og Fernandes, Sexta Turma, DJEN de 19/5/2025.)
+Almeja-se, também, na impetração, a extensão dos efeitos concedidos em outro em favor de um codenunciado, Márcio César Trindade de Oliveira (fls. 13). Contudo, tal pleito foi considerado prejudicado, porque já apreciado em outra impetração (fls. 12/29).
+Nesse sentido, confiram-se: AgRg no HC n. 841.876/SP, Quinta Turma, Ministro Joel Ilan Paciornik, DJe 18/4/2024; AgRg no HC n. 838.171/MS, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024; e AgRg no HC n. 765.490/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/10/2022.
+Logo, não merece reforma o decisum agravado.
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
