@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO. AUSÊNCIA DE ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. DEMORA NA APRECIAÇÃO. CASO COMPLEXO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Há óbice processual à análise do habeas corpus quando impetrado na pendência de julgamento de embargos de declaração pelo Tribunal de origem, dada a ausência de esgotamento da instância ordinária (AgRg no HC n. 943.531/RJ, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, DJe 11/3/2025).
+2. A situação de pendência de julgamento dos embargos de declaração impede o exame da ocorrência ou não da prescrição, ainda que se trate de questão de ordem pública, sob pena de se suprimir instância, notadamente diante da falta de seu esgotamento.
+3. No caso concreto, o feito aguarda o julgamento dos embargos de declaração, enquanto, nos autos da apelação criminal, houve determinação de redistribuição ao colegiado competente, tendo em vista o trâmite dos embargos infringentes e de nulidade.
+4. Em relação à demora na apreciação do pedido formulado na origem, não se verifica motivo suficiente para reconhecer eventual constrangimento ilegal, visto que se trata de caso complexo, com diversos acusados e incidentes processuais, sobretudo considerando que está pendente apenas o julgamento dos embargos de declaração, a indicar que o feito tramita regularmente.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+HAROLDO FRANKLIN DE CARVALHO AUGUSTO DOS SANTOS interpõe agravo regimental contra decisão monocrática em que deneguei em parte o habeas corpus.
+O agravante sustenta, em síntese, a necessidade de reconhecimento da prescrição da pretensão punitiva, com base nos seguintes fundamentos: a) alegado impedimento ao exame da prescrição por questões de ordem pública; b) inaplicabilidade da regra do art. 34, XX, do RISTJ; c) necessidade de declaração da prescrição deve ser declarada de ofício, independentemente do julgamento dos embargos de declaração; e d) constrangimento ilegal decorrente da demora injustificada de mais de nove meses para apreciar pedido de prescrição, o que viola o princípio da duração razoável do processo.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO. AUSÊNCIA DE ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. DEMORA NA APRECIAÇÃO. CASO COMPLEXO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Há óbice processual à análise do habeas corpus quando impetrado na pendência de julgamento de embargos de declaração pelo Tribunal de origem, dada a ausência de esgotamento da instância ordinária (AgRg no HC n. 943.531/RJ, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, DJe 11/3/2025).
+2. A situação de pendência de julgamento dos embargos de declaração impede o exame da ocorrência ou não da prescrição, ainda que se trate de questão de ordem pública, sob pena de se suprimir instância, notadamente diante da falta de seu esgotamento.
+3. No caso concreto, o feito aguarda o julgamento dos embargos de declaração, enquanto, nos autos da apelação criminal, houve determinação de redistribuição ao colegiado competente, tendo em vista o trâmite dos embargos infringentes e de nulidade.
+4. Em relação à demora na apreciação do pedido formulado na origem, não se verifica motivo suficiente para reconhecer eventual constrangimento ilegal, visto que se trata de caso complexo, com diversos acusados e incidentes processuais, sobretudo considerando que está pendente apenas o julgamento dos embargos de declaração, a indicar que o feito tramita regularmente.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pelo agravante, entendo que não lhe assiste razão.
+De início, como assinalado pelo próprio paciente, "o feito se encontra aguardando o julgamento dos embargos de declaração de ID"s 24415131, 24420447 e 24423571, tramitando como os Embargos Infringentes e de Nulidade n. 0803476-24.2023.8.22.0000, enquanto nos autos de n. 0001251-74.2017.8.22.0000 (apelação criminal) houve determinação de redistribuição ao colegiado competente, tendo em vista o trâmite dos embargos infringentes e de nulidade" (fl. 8, destaquei).
+Tal situação impede o exame da ocorrência ou não da prescrição nesta oportunidade, ainda que se trate de questão de ordem pública, sob pena de se suprimir instância, notadamente diante da falta de seu esgotamento. No particular, esta Corte é firme em assinalar que "há óbice processual à análise do habeas corpus quando impetrado na pendência de julgamento de embargos de declaração pelo Tribunal de origem, dada a ausência de esgotamento da instância ordinária" (AgRg no HC n. 943.531/RJ, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJ SP, Dje 11/3/2025).
+Em relação à demora na apreciação do pedido formulado na origem, não verifico motivo suficiente para reconhecer eventual constrangimento ilegal, uma vez que se trata de caso complexo, com diversos acusados e incidentes processuais, sobretudo se levado em consideração que está pendente apenas o julgamento dos embargos de declaração, a indicar que o feito tramita regularmente.
+À vista do exposto, nego provimento ao agravo regimental.
