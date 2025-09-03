@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (1.834,5 G DE MACONHA). ART. 12 DA LEI 10.826/2003. ART. 180 DO CÓDIGO PENAL. TESE DE NULIDADE DA BUSCA DOMICILIAR. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 284/STF. PLEITOS DE ABSOLVIÇÃO E DE RECONHECIMENTO DE TRÁFICO PRIVILEGIADO. SÚMULA 7/STJ. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELA CORTE DE ORIGEM. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GILMAICO DE NOVAIS REIS contra a decisão por mim proferida, por meio da qual conheci do respectivo agravo, para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 320/323).
+Requer a parte agravante o afastamento do óbice aplicado (Súmula 7/STJ) para o pleito relativo à nulidade da busca domiciliar, bem como para sua absolvição pela insuficiência de provas, uma vez que sustenta ter impugnado todos os fundamentos da decisão recorrida. Quanto à aplicação da causa de redução de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006 o agravante apenas reiterou o aduzido no apelo especial (fls. 329/341).
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (1.834,5 G DE MACONHA). ART. 12 DA LEI 10.826/2003. ART. 180 DO CÓDIGO PENAL. TESE DE NULIDADE DA BUSCA DOMICILIAR. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 284/STF. PLEITOS DE ABSOLVIÇÃO E DE RECONHECIMENTO DE TRÁFICO PRIVILEGIADO. SÚMULA 7/STJ. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELA CORTE DE ORIGEM. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ.
+Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento. As razões apresentadas pela parte agravante não são suficientes para infirmar os fundamentos da decisão agravada.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+Verifica-se na decisão agravada que, no que se refere ao pleito de absolvição pela suposta nulidade de prova, o Tribunal de origem inadmitiu o apelo nobre em razão da deficiência dos fundamentos da insurgência, porque o agravante não demonstrou de que forma o acórdão recorrido teria violado a norma mencionada. Ocorre que a jurisprudência do STJ é uníssona no sentido da necessidade de se particularizar, no recurso especial, não só o artigo da lei violada, mas também o de realizar o cotejo entre a apontada violação, de forma a demonstrar como o acórdão recorrido teria incidido nesta violação. Incidiu, no caso, os óbices das Súmulas 83/STJ e 284/STF, tendo a decisão ora agravada perfilhado da mesma compreensão, quando da análise do agravo em recurso especial.
+Quanto a absolvição pela insuficiência de provas, seria necessário, de fato, o revolvimento probatório, consoante mencionado pela Corte de origem, sendo a via eleita inadequada em razão do óbice da Súmula 7/STJ.
+Quanto ao pleito para a aplicação da causa de redução de pena prevista no art. 33, §4º da Lei 11.343/2006, o acórdão de fls. 162/170 manteve a decisão de primeiro grau, afastando o redutor, ao justificar que o agravante se dedicava a atividades criminosas e exercia a traficância de forma habitual, evidenciando que fazia do tráfico seu meio de vida, além da consideração da elevada quantidade de drogas apreendida. Assim, para se acolher a tese de que o agravante não se dedica à atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, também seria necessário o revolvimento fático-probatório, vedado pela Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
