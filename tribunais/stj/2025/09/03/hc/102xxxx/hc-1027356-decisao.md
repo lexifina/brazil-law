@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de WELLINGTON PIRES NOVAIS - condenado como incurso no crime de tráfico de drogas (Apelação Criminal n. 1502017-64.2023.8.26.0248) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, não comporta processamento.
+Com efeito, busca a impetração a desclassificação do crime de tráfico de drogas para a conduta de posse destinada a consumo pessoal, ao fundamento de que há elementos nos autos que indicam a possibilidade de desclassificação da conduta imputada  ..  Isso porque WELLIGTON sempre negou as acusações sempre que ouvido; mediante contraditório, sustentou que os agentes públicos invadiram sua residência sem justificativa e ali encontraram porções de cocaína e crack destinadas ao seu consumo (fl. 17).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as circunstâncias da apreensão da droga, em contexto que demonstra a destinação ao comércio espúrio, pois os policiais, em diligências, surpreenderam o réu com porções de entorpecentes em sua residência, além de uma tentativa de fuga e danificação de celular por parte do corréu, demonstram que não há dúvida a ser resolvida em favor do paciente (fl. 26).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. INVIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
