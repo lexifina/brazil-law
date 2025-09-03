@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu do recurso especial e, no mérito, negou-lhe provimento em razão da incidência do enunciado de Súmula n. 7/STJ.
+2. O recorrente foi condenado por corrupção passiva, com pena redimensionada pelo Tribunal de Justiça do Estado do Rio Grande do Sul para 2 anos e 8 meses de reclusão, substituída por restritivas de direitos, além de 30 dias-multa.
+3. Embargos de declaração opostos contra o acórdão do Tribunal de origem foram desacolhidos, com reconhecimento do prequestionamento.
+4. Recurso especial interposto alegando violação aos artigos 59 e 65, III, "d", do Código Penal e à Súmula 545 do STJ, buscando o reconhecimento da atenuante da confissão espontânea e a neutralização das vetoriais da culpabilidade, circunstâncias e consequências.
+5. Nas razões do agravo regimental, a parte limitou-se a argumentar sobre a incidência da atenuante da confissão espontânea, sem impugnar especificamente outros fundamentos.
+II. QUESTÃO EM DISCUSSÃO
+6. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido quando a parte não impugna especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC e pela Súmula n. 182 do STJ.
+III. RAZÕES DE DECIDIR
+7. O agravo regimental não foi conhecido devido à ausência de impugnação específica dos fundamentos da decisão agravada, em conformidade com o art. 1.021, § 1º, do CPC e a Súmula n. 182 do STJ.
+8. A parte agravante não enfrentou de maneira adequada os motivos que negaram provimento ao pedido, limitando-se a reiterar argumentos já apresentados.
+IV. DISPOSITIVO E TESE
+9. Agravo regimental não conhecido.
+Tese de julgamento: "O agravo regimental não pode ser conhecido quando a parte não impugna especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC e pela Súmula n. 182 do STJ".
+Dispositivos relevantes citados: CPC, art. 1.021, § 1º; CP, arts. 59 e 65, III, "d".
+Jurisprudência relevante citada: STJ, AgRg no HC 933482 / SP, Rel. Min. Og Fernandes, Sexta Turma, julgado em 26/03/2025; STJ, AgRg no HC 954991 / SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 05/03/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão monocrática que conheceu do recurso especial e, no mérito, foi-lhe negado em razão da incidência do enunciado de Súmula n. 7/STJ (e-STJ fls. 517-525).
+O Tribunal de origem admitiu o recurso especial (e-STJ Fl. 487-491).
+A parte recorrente pugna pela reconsideração da decisão agravada ou pela apreciação da matéria pelo colegiado (e-STJ fls. 530-535).
+O Ministério Público manifestou-se pelo desprovimento do agravo (e-STJ Fl. 564-549).
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu do recurso especial e, no mérito, negou-lhe provimento em razão da incidência do enunciado de Súmula n. 7/STJ.
+2. O recorrente foi condenado por corrupção passiva, com pena redimensionada pelo Tribunal de Justiça do Estado do Rio Grande do Sul para 2 anos e 8 meses de reclusão, substituída por restritivas de direitos, além de 30 dias-multa.
+3. Embargos de declaração opostos contra o acórdão do Tribunal de origem foram desacolhidos, com reconhecimento do prequestionamento.
+4. Recurso especial interposto alegando violação aos artigos 59 e 65, III, "d", do Código Penal e à Súmula 545 do STJ, buscando o reconhecimento da atenuante da confissão espontânea e a neutralização das vetoriais da culpabilidade, circunstâncias e consequências.
+5. Nas razões do agravo regimental, a parte limitou-se a argumentar sobre a incidência da atenuante da confissão espontânea, sem impugnar especificamente outros fundamentos.
+II. QUESTÃO EM DISCUSSÃO
+6. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido quando a parte não impugna especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC e pela Súmula n. 182 do STJ.
+III. RAZÕES DE DECIDIR
+7. O agravo regimental não foi conhecido devido à ausência de impugnação específica dos fundamentos da decisão agravada, em conformidade com o art. 1.021, § 1º, do CPC e a Súmula n. 182 do STJ.
+8. A parte agravante não enfrentou de maneira adequada os motivos que negaram provimento ao pedido, limitando-se a reiterar argumentos já apresentados.
+IV. DISPOSITIVO E TESE
+9. Agravo regimental não conhecido.
+Tese de julgamento: "O agravo regimental não pode ser conhecido quando a parte não impugna especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC e pela Súmula n. 182 do STJ".
+Dispositivos relevantes citados: CPC, art. 1.021, § 1º; CP, arts. 59 e 65, III, "d".
+Jurisprudência relevante citada: STJ, AgRg no HC 933482 / SP, Rel. Min. Og Fernandes, Sexta Turma, julgado em 26/03/2025; STJ, AgRg no HC 954991 / SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 05/03/2025.
+VOTO
+O agravo regimental é tempestivo.
+Contudo, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos.
+O recorrente foi condenado a pena de 9 (nove) anos e 4 (quatro) meses de reclusão, além de 50 (cinquenta) dias-multa à razão de 1/10 do salário mínimo vigente à época dos fatos, pela prática do crime de corrupção passiva. Os fatos ocorreram nos dias 23 e 26 de maio de 2017.
+O acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul manteve a condenação por corrupção passiva, destacando a suficiência probatória, a relevância da palavra da vítima e a presença de todas as elementares do tipo penal. A pena foi redimensionada para 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, além de 30 (trinta) dias-multa. Segue a ementa (e-STJ Fl. 405-415):
+APELAÇÃO CRIMINAL. ART. 317, DO CP. CORRUPÇÃO PASSIVA. SECRETÁRIO DE SAÚDE DO MUNICÍPIO. SUFICIÊNCIA PROBATÓRIA. PALAVRA DA VÍTIMA. RELEVÂNCIA. DOLO DEMONSTRADO. PRESENÇA DE TODAS AS ELEMENTARES DO TIPO PENAL. DELITO FORMAL DE EFEITOS INSTANTÂNEOS. CONDENAÇÃO MANTIDA. DESCLASSIFICAÇÃO PARA O DELITO DE ESTELIONATO. IMPOSSIBILIDADE. ESPECIALIDADE. APENAMENTO. PENA-BASE. MOTIVOS DO CRIME. NEUTRALIZAÇÃO. QUANTUM DE AUMENTO. FRAÇÃO DE 1/6. ATENUANTE DA CONFISSÃO ESPONTÂNEA NÃO RECONHECIDA. MINORANTE DO ARREPENDIMENTO POSTERIOR. RECONHECIMENTO. VOLUNTARIEDADE. I - Materialidade e autoria delitiva devidamente comprovadas. O réu, na condição de funcionário público, ocupante do cargo de Secretário de Saúde, solicitou e recebeu, para si, diretamente, em razão de sua função, vantagem indevida, cobrada da vítima no montante de seis mil reais, a pretexto de garantir o agendamento de uma cirurgia a que esta última deveria se submeter. A vítima prontamente efetivou o pagamento ao réu, acreditando que ele, em razão de sua função, lhe garantiria a prestação de serviços públicos de saúde. II - A palavra da vítima alcança especial relevância no processo penal, ainda mais em delitos praticados "às ocultas", as quais devem ser efetivamente consideradas e constituem elemento suficiente de prova quando coerente e razoável no contexto, especialmente se amparada em outros elementos probatórios. III - O delito do art. 317, do CP, é classificado como de natureza formal e de efeitos instantâneos, já que se consuma com a mera solicitação da vantagem indevida, tratando-se o recebimento efetivo da vantagem como mero exaurimento do crime. IV - O acusado agiu com vontade livre e consciente de solicitar vantagem indevida à vítima, valendo-se da função pública por ele ocupada, conduta que tipifica a infração penal prevista no art. 317, do CP. V - Inviável a desclassificação para o delito de estelionato (art. 171, do CP), pois é a norma incriminadora do art. 317, do CP, que melhor se adéqua aos fatos ora em apreço, eis que, em termos de especialidade da norma aplicável, protege tanto o patrimônio da administração pública quanto a necessária probidade e honestidade que devem nortear a conduta do servidor público. VI - A "busca pelo lucro fácil" é questão abstrata e periférica ao tipo penal infringido, não justificando a exasperação da pena pela negativação dos motivos do crime. Mantida a negativação das vetoriais da culpabilidade, circunstâncias e consequências do crime. Apenamento revisto para observar o critério de 1/6 no cálculo da pena, conforme orientação do STJ. VII - O caso comporta a incidência da minorante do arrependimento posterior (art. 16, do CP), pois o acusado efetivamente restituiu à vítima a integralidade dos valores que lhe pertenciam. Dispensável, outrossim, que o agente tenha agido espontaneamente, bastando sua voluntariedade. Ausente celeridade, o que implica a incidência da fração mínima de 1/3. RECURSO PARCIALMENTE PROVIDO. POR MAIORIA.
+Contra esse acórdão foram opostos embargos de declaração, os quais não foram acolhidos. Houve o reconhecimento do prequestionamento (e-STJ Fl. 44 -446). Segue a ementa (e-STJ Fl. 447):
+EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO NÃO CONSTATADA. REDISCUSSÃO. INVIABILIDADE. NOTÓRIO PROPÓSITO DE PREQUESTIONAMENTO. O embargante, opondo-se ao entendimento adotado no decisum, pretendem rediscutir matéria já julgada, o que sabidamente é vedado nesta via recursal. Não se verificando qualquer vício na decisão colegiada, os embargos vão desacolhidos e prequestionada a matéria. EMBARGOS DESACOLHIDOS.
+A defesa interpôs recurso especial com base no artigo 105, III, "a", da Constituição Federal, alegando violação aos artigos 59 e 65, III, "d", do Código Penal, lém da Súmula 545 do Superior Tribunal de Justiça. Busca o reconhecimento da atenuante da confissão espontânea e a neutralização das vetoriais da culpabilidade, circunstâncias e consequências (e-STJ Fl. 456-467).
+Nas razões do agravo regimental, a parte limitou-se a argumentar tão somente em relação à incidência da atenuante da confissão esponstânea. Não houve impugnação específica quanto à culpabilidade, circunstâncias e consequências do crime, impugnadas no recurso especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+A parte agravante deixou de impugnar especificamente o fundamento do recurso especial acerca do óbice da Súmula 7 do Superior Tribunal de Justiça, em relação às circunstâncias judiciais desfavoráveis que foram fixadas no acórdão do Tribunal de origem.
+Na petição de agravo regimental constam somente os argumentos em relação ao óbice da Súmula 7 do STJ para a hipótese da confissão espontânea, inclusive o pedido é formulado nos seguintes termos (e-STJ Fl. 535):
+Provimento do Agravo Interno, reformando a decisão agravada, para fins de se reconhecer o direito do agravante à atenuante da confissão espontânea.
+Logo, considerando que o agravante não impugnou especificamente os fundamentos da decisão agravada, é inviável o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NAO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve por fundamento a impossibilidade de conhecimento do writ como substitutivo de recurso próprio.
+3. Nas razões do agravo regimental, porém, a parte agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+(..) 6. Agravo regimental não conhecido. (AgRg no HC 933482 / SP, Relator Ministro Og Fernandes, Sexta Turma, julgado em 26/03/2025, DJEN 31/03/2025)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. DEPOIMENTO DOS POLICIAIS QUE EFETUARAM O FLAGRANTE. VALIDADE. DESCLASSIFICAÇÃO DA CONDUTA. ART. 28 DA LEI DE DROGAS. REEXAME DE FATOS E PROVAS. INVIABILIDADE EM SEDE DE HABEAS CORPUS. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus com base nos seguintes fundamentos autônomos, incidentes sobre o mesmo e único capítulo da decisão agravada (desclassificação da conduta dos agravantes): (i) idoneidade da condenação dos réus com base em depoimentos dos policiais que efetuaram a prisão em flagrante; (ii) a pequena quantidade de droga apreendida, por si só, não enseja automática tipificação da conduta àquela prevista no art. 28 da Lei de Drogas; e (iii) inviabilidade de reexame do acervo fático-probatório, para fins de reconhecimento da desclassificação da conduta criminosa.
+2. No presente agravo regimental, a defesa não rebateu todos os óbices mencionados, concreta e especificamente, de acordo com a hipótese dos autos, limitando-se a reiterar exatamente a mesma argumentação apresentada na ação mandamental, com base no Tema n. 506 do Supremo Tribunal Federal - STF - matéria que sequer foi objeto da decisão agravada.
+3. Segundo a jurisprudência pacífica do Superior Tribunal de Justiça, a parte tem o dever de refutar "em tantos quantos forem os motivos autonomamente considerados para manter os capítulos decisórios objeto do agravo interno total ou parcial" (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+4. A ausência de impugnação de todos os fundamentos que inviabilizaram o exame do mandamus atrai a incidência da Súmula n. 182 do STJ. Precedentes.
+5 . Agravo regimental não conhecido. (AgRg no HC 954991 / SP, Relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/03/2025, DJEN 11/03/2025)
+No caso, como já exposto na decisão atacada pelo presente agravo regimental, o recurso especial foi na origem inadmitido pelos óbices previstos nas Súmula 7 e 83 do Superior Tribunal de Justiça. Além dos óbices anteriormente apontados, no contexto atual, também incidem os óbices da Súmula 182 do STJ e da Súmula 283 do STF, esta aplicável analogicamente ao recurso especial.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
