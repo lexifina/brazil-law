@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO, TRÁFICO DE DROGAS, POSSE ILEGAL DE ARMA DE FOGO, ACESSÓRIO E MUNIÇÃO. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM ATACADO. SÚMULA 182/STJ.
+1. Ausente a impugnação concreta do fundamento utilizado pela decisão agravada, tem aplicação a Súmula 182/STJ.
+2. Agravo regimental não conhecido, com determinação, nos termos do dispositivo.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS WILLY SANTOS DA SILVA contra decisão de minha lavra, na qual indeferi liminarmente a petição inicial de habeas corpus (fls. 414/417).
+Nesta via, a defesa sustenta que já não mais persistia o estado de flagrância por ocasião da apreensão do agravante (fl. 423) e que não estaria configurado o delito de tráfico de drogas (fl. 424).
+Pede, nesses termos, a retratação da decisão agra vada ou a submissão do feito ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO, TRÁFICO DE DROGAS, POSSE ILEGAL DE ARMA DE FOGO, ACESSÓRIO E MUNIÇÃO. RAZÕES QUE NÃO INFIRMARAM OS FUNDAMENTOS DO DECISUM ATACADO. SÚMULA 182/STJ.
+1. Ausente a impugnação concreta do fundamento utilizado pela decisão agravada, tem aplicação a Súmula 182/STJ.
+2. Agravo regimental não conhecido, com determinação, nos termos do dispositivo.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido, que foram assim expostos (fls. 415/417 - nosso grifo):
+Em relação ao suposto flagrante forjado, o exame acerca da ilegalidade na ação policial demandaria ampla dilação probatória, incompatível com a via eleita, o que somente será possível no curso do contraditório a ser conduzido pela autoridade judiciária, ressaltando-se dos autos que nem sequer há menção ao oferecimento, tampouco recebimento, de denúncia em desfavor do paciente (ver, nesse sentido, o AgRg no HC n. 923.995/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 29/8/2024).
+Ademais, a tese da ilegalidade da prisão do paciente, diante da aventada inocorrência do estado de flagrância, encontra-se superada, tendo em vista a superveniência de novo título a embasar a sua custódia cautelar, qual seja, o decreto de prisão preventiva.
+Nesse sentido, os seguintes julgados: AgRg no HC n. 914.341/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024; e AgRg no HC n. 990.792/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.
+Quanto às alegações de violação de domicílio e nulidade em razão do uso indevido de algemas, verifico que tais questões não foram nem sequer ventiladas no acórdão impugnado, tornando inadmissível seu exame inaugural perante esta Corte Superior, sob pena de indevida supressão de instância.
+Por outro lado, não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022 - grifo nosso).
+Vale ressaltar que a insuficiência das provas de autoria e materialidade quanto ao tipo penal não encontra espaço de análise na estreita via do habeas corpus (e seu respectivo recurso ordinário), por demandar exame fático-probatório. Ilustrativamente: AgRg no HC n. 777.911/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/11/2022.
+No que diz respeito aos requisitos da prisão preventiva, verifico que a decisão do Juízo de primeiro grau está baseada na gravidade em concreto da conduta, a qual envolve crime hediondo de homicídio, juntamente com tráfico de drogas e posse ilegal de arma de fogo, dentro de possível estrutura de organização criminosa voltada ao comentimento de tráfico de drogas, diante dos apetrechos apreendidos (fls. 85/86).
+Com efeito, a necessidade de minorar ou interromper a atuação do paciente em organização criminosa, ainda que de modo emergencial, demonstra o perigo que sua permanência em liberdade representa para a ordem pública (ver, nesse sentido, o AgRg na PET no HC n. 809.193/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Não bastasse isso, a conjugação do suposto tráfico com arma de fogo incrementa de forma relevante a gravidade da conduta (AgRg no HC n. 797.681/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/3/2023, DJe 28/3/2023).
+Neste recurso, cuja devolutividade está adstrita à decisão agravada, caberia ao agravante demonstrar o desacerto do julgado monocrático, apresentando elementos de fato e de direito suficientes e específicos - o que não se verifica nas razões recursais (fls. 423/425), que nem sequer infirmam minimamente os fundamentos da decisão.
+Com efeito, consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula 182/STJ (AgRg no AREsp n. 1.605.293/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/2/2020 - grifo nosso).
+Sendo assim, incide, no presente agravo regimental, a Súmula 182/STJ, de seguinte teor: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo regimental.
+Considerando, no entanto, os argumentos de que o agravante foi torturado por militares, com fotos juntadas aos autos demonstrando escoriações (fls. 427/432), determino que sejam encaminhadas cópias dos autos à Corregedoria da Polícia local e ao Ministério Público de Alagoas, para providências cabíveis.
