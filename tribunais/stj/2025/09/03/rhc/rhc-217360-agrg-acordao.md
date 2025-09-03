@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Carlos Cini Marchionatti (Desembargador Convocado TJRS) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental NO RECURSO EM HABEAS CORPUS. Organização criminosa. PRISÃO PREVENTIVA. PERICULOSIDDE DO AGENTE. GARANTIA DA ORDEM PÚBLICA. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante, acusado de integrar organização criminosa.
+2. O Tribunal estadual denegou a ordem, destacando a necessidade de prisão preventiva para resguardar a ordem pública, devido à periculosidade do agravante e sua participação em organização criminosa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante é necessária para garantir a ordem pública .
+III. Razões de decidir
+4. A manutenção da prisão preventiva é justificada pela necessidade de garantir a ordem pública, devido à periculosidade do agravante e sua participação em organização criminosa.
+5. A contemporaneidade da prisão preventiva é confirmada pela permanência dos requisitos de cautelaridade e pela gravidade dos fatos apurados.
+6. A aplicação de medidas cautelares diversas da prisão é considerada insuficiente para acautelar a ordem pública, dada a periculosidade do agravante.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. A prisão preventiva é necessária para garantir a ordem pública quando evidenciada a periculosidade do agravante e sua participação em organização criminosa. 2. A contemporaneidade da prisão preventiva deve considerar a permanência dos requisitos de cautelaridade e a gravidade dos fatos. 3. Medidas cautelares diversas da prisão são insuficientes quando a periculosidade do agravante compromete a ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 282, § 6º.
+Jurisprudência relevante citada: STF, RHC 122.182, Rel. Min. Luiz Fux, Primeira Turma, julgado em 19.08.2014; STJ, AgRg no HC 889.182/GO, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 20.05.2024; STJ, HC 890.683/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 23.04.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNO COELHO ALVES de decisão na qual não conheci do habeas corpus.
+A defesa insiste na desproporcionalidade da prisão cautelar, diante da pequena participação do agravante na organização criminosa. Destaca que "A imputação resume-se apenas em uma suposta troca de mensagens em um grupo de WhatsApp , em dizeres de pequena relevância penal".
+Argumenta também que "foi interrompida a atividade ilícita, com o aparente desmantelamento da organização criminosa, esvaziando-se a necessidade da prisão cautelar."
+Requer a colocação do agravante em liberdade.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO RECURSO EM HABEAS CORPUS. Organização criminosa. PRISÃO PREVENTIVA. PERICULOSIDDE DO AGENTE. GARANTIA DA ORDEM PÚBLICA. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante, acusado de integrar organização criminosa.
+2. O Tribunal estadual denegou a ordem, destacando a necessidade de prisão preventiva para resguardar a ordem pública, devido à periculosidade do agravante e sua participação em organização criminosa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante é necessária para garantir a ordem pública .
+III. Razões de decidir
+4. A manutenção da prisão preventiva é justificada pela necessidade de garantir a ordem pública, devido à periculosidade do agravante e sua participação em organização criminosa.
+5. A contemporaneidade da prisão preventiva é confirmada pela permanência dos requisitos de cautelaridade e pela gravidade dos fatos apurados.
+6. A aplicação de medidas cautelares diversas da prisão é considerada insuficiente para acautelar a ordem pública, dada a periculosidade do agravante.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. A prisão preventiva é necessária para garantir a ordem pública quando evidenciada a periculosidade do agravante e sua participação em organização criminosa. 2. A contemporaneidade da prisão preventiva deve considerar a permanência dos requisitos de cautelaridade e a gravidade dos fatos. 3. Medidas cautelares diversas da prisão são insuficientes quando a periculosidade do agravante compromete a ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 282, § 6º.
+Jurisprudência relevante citada: STF, RHC 122.182, Rel. Min. Luiz Fux, Primeira Turma, julgado em 19.08.2014; STJ, AgRg no HC 889.182/GO, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 20.05.2024; STJ, HC 890.683/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 23.04.2024.
+VOTO
+A defesa não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+O Tribunal estadual, ao denegar a ordem, consignou:
+"(..) Inicialmente deve ser enfatizado que a prisão do suplicante foi decretada como forma de resguardar a ordem pública, não sendo trazido à colação nenhum fato novo capaz de infirmar posicionamento anterior, persistindo, desta feita, os motivos que o nortearam. Compulsando minudentemente os presentes fólios, verifica-se que a prisão preventiva do requerente foi decretada, sob o argumento de que mesmo pertencia à organização criminosa Comando Vermelho (CV), no município de Monsenhor Tabosa-CE. Conforme diálogos extraídos de aparelhos celulares, depreende-se que o suplicante é conhecido pelo vulgo "PSICOTA" ou "FÉ" e seria integrante do grupo criminoso liderado por DOZE. Ressalte-se que, além de ter sido imputada ao requerente, a prática de ilícitos de natureza grave (integração de organização criminosa armada), registra reprováveis antecedentes criminais, uma vez que responde a processos pela prática de delitos previstos no Estatuto do Desarmamento e de homicídio, demonstrando, desta feita propensão à prática delituosa e desinteresse na sua ressocialização, estando presentes os motivos ensejadores da custódia preventiva, previstos no art. 312, do Código de Processo Penal. Portanto, a conduta social do requerente não é boa e denota personalidade voltada para o crime, onde, se posto em liberdade, provavelmente, voltará a cometer novos delitos como de fato já fez, resultando em prejuízo imensurável à ordem pública. Outrossim, é da jurisprudência consolidada dos Tribunais que mesmos nos casos de condições pessoais favoráveis, como a primariedade, os bons antecedentes, profissão lícita definida e domicílio certo, estes fatores por si só não são garantidores de eventual direito de responder ao processo em liberdade, quando os motivos que ensejaram a prisão cautelar são suficientes para respaldá-la. (..) Ademais, o fato do requerente ser suspeito de integrar bando criminoso ligado a umas das principais organizações criminosas de Fortaleza- CE (Comando Vermelho) é uma situação que não podemos fechar os olhos, se fazendo adequada e justificada a manutenção de sua prisão, a bem da ordem pública e também para desestruturar a aludida organização evitando a arregimentação de novos membros. (..) Pelas mesmas razões acima expendidas, verifico que é incabível, in casu, a substituição da prisão por outra medida cautelar, conforme disposto no artigo 282, § 6º, do Código de Processo Penal, pois, além de estarem presentes os requisitos do artigo 312 doCPP, as circunstâncias específicas narradas acima demonstram sua inadequação ao caso concreto. Destarte, a manutenção da clausura do incriminado é medida que se impõe para a cautelar o meio social de suas maléficas ações, bem como para preservar a credibilidade do Poder Judiciário como instrumento da ordem pública, não sendo verificada qualquer alteração na situação fática dos autos a ponto de autorizar a revogação da prisão preventiva, neste momento processual, permanecendo inalteradas as condições que autorizaram a decretação da prisão preventiva do requerente. Diante do exposto, pelos fundamentos acima alinhados, considerando parecer ministerial, indefiro a presente postulação por falta de amparo legal, mantendo o encarceramento provisório do suplicante, sob a forma de prisão preventiva, nos termos do art.312 do Código de Processo Penal. (..)"
+Como se verifica, não houve alteração fática alguma nos autos, sendo a prisão cautelar atual e necessária para resguardar a ordem pública, uma vez que é manifesta a periculosidade do agravante - integrante de organização criminosa nacionalmente conhecida.
+No ponto, vale anotar que o Supremo Tribunal Federal já se manifestou no sentido de que "a custódia cautelar visando a garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa" (RHC 122.182, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/8/2014).
+Outrossim, cumpre registrar que o exame da contemporaneidade deve ser feito não apenas com relação ao tempo entre os fatos e o decreto de prisão preventiva, mas também na necessidade da segregação e na permanência dos requisitos de cautelaridade. Logo, é atual a custódia preventiva, quando sendo graves os fatos apurados, é necessário o acautelamento da ordem pública, ameaçada pelo intensa atividade delitiva do grupo criminoso.
+No mesmo sentido: AgRg no HC n. 889.182/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe 22/5/2024; (HC n. 890.683/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024; DJe 30/4/2024.
+Nesse contexto, mostra-se insuficiente a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do agravante indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em , D Je ; HC 426.142/SP, Rel. Ministro15/03/2018 23/03/2018 JORGE MUSSI, QUINTA TURMA, julgado em , D Je ; e HC 400.411/SE,5/4/2018 16/4/2018 Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em , D Je 7/12/2017 .15/12/2017
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
