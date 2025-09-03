@@ -1,0 +1,87 @@
+DECISÃO
+MIGUEL MARTIN GUTIERREZ FILHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 3ª Região (Habeas Corpus n. 5011247-91.2025.4.03.0000).
+Consta dos autos que o paciente foi denunciado pela prática do crime previsto no art. 337-A, I, do Código Penal. A parte impetrou habeas corpus com o objetivo de trancar o processo, contudo, o Tribunal de origem denegou a ordem.
+A defesa pleiteia, por meio deste writ, o trancamento do processo ante a inépcia da inicial, visto que o réu foi denunciado apenas por ter sido diretor-presidente da empresa sem a descrição da prática delitiva.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem.
+Decido.
+No caso dos autos, a denúncia trouxe a seguinte narrativa (fls. 13-15, destaquei):
+No período dos fatos, no que pertine à empresa NOVA TELECOMUNICAÇÕES E ELETRICIDADE LTDA., inscrita no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda ("CNPJ") sob o número 01.145.971/0001-92, com sede na rua José Paulino, 2278, 2º andar, Vila Itapura, Campinas/SP. JOSÉ LUIZ DE TULLIO foi membro do Conselho de Administração já no ano de 2000 (p. 8 do Id 303987907) e posteriormente Diretor Geral a partir de 3/1/2005 (p. 46 do Id 303987907), ao passo que:
+- ROBERTO RODRIGUES DA SILVA foi nomeado Diretor Geral em 19/7 de 2000 (p. 8 do Id 303987907) e em 21/7/2001 (p. 16 do Id 303987907)
+- MIGUEL MARTIN GUTIERREZ FILHO foi nomeado Diretor Presidente em 6/8/2001 (p. 21 do Id 303987907) - AIRTON OLIVARI DE CASTRO foi nomeado Diretor Administrativo Financeiro em 1/4/2002 (p. 34 do Id 303987907) e posteriormente Diretor Geral em 1/10/2002 (p. 38 do Id 303987907).
+De acordo com os atos constitutivos da empresa, à diretoria executiva compete a administração dos negócios sociais em geral (cláusula 5.3 - p. 26 do id 277361223), sendo, portanto, eles, em seus respectivos períodos acima descritos, seja como Diretor Geral, Diretor Presidente ou Diretor Administrativo Financeiro, quem emitiam as ordens acerca das condutas ilícitas que serão narradas a seguir.
+E, de acordo com oitiva de AIRTON OLIVARI DE CASTRO  1 , mesmo quando JOSÉ LUIZ DE TULLIO era somente membro do Conselho de Administração, sua presença na empresa era diária e exercia ascendência e poder de supervisão em relação à Diretoria (tempo 6min20s do Id 306852639).
+Acusação
+Artigo 337-A do Código Penal
+Conforme procedimento administrativo, ao longo das competências 02/2000 a 10/2005, os acusados mencionados no tópico anterior, cada qual no período e gestão que a ele(s) competiu(ram), na administração da empresa NOVA TELECOMUNICAÇÕES E ELETRICIDADE LTDA., com cognição e liberdade volitiva, reduziram contribuição social previdenciária mediante omissão em documento de informações previsto pela legislação previdenciária de valores pagos a segurados empregados, autônomos ou a estes equiparados que lhe prestaram serviços.
+Mês a mês, a partir de fevereiro de 2000 e até outubro de 2005, os denunciados ordenaram pagamentos "extrafolha" a empregados e autônomos e, ao mesmo tempo, que se deixasse de apresentar esses valores em GFIP - Guia de Recolhimento do Fundo de Garantia do Tempo e Serviço, reduzindo-se, assim, base de cálculo para contribuições previdenciárias efetivamente devidas.
+Os tributos suprimidos foram apurados mediante confronto com valores constantes em folhas de pagamento, recibos de férias, rescisões de contrato de trabalho, livros diário e razão, guias de recolhimento da Previdência Social - GPS, GFIPs, sendo lavrado o Auto de Infração 35.775.301-1, no valor histórico de R$1.080.772,05 (p. 35 do Id 277361221), não havendo notícia de pagamento, parcelamento, ou qualquer outra causa de suspensiva de exigibilidade (p. 35 do Id 277361227 e p. 5 do Id 303987907).
+Os créditos foram definitivamente constituídos em 8/10/2020 (p. 29 do Id 277361227) - ref. PAF 10830.003910/2007-18.
+Ao serem identificados como responsáveis por terem reduzido os tributos acima descritos, JOSÉ LUIZ DE TULLIO, ROBERTO RODRIGUES DA SILVA, MIGUEL MARTIN GUTIERREZ FILHO e AIRTON OLIVARI DE CASTRO praticaram a conduta prevista no artigo 337-A, I, na forma do art. 71, ambos do Código Penal.
+Pelo exposto, o Ministério Público Federal requer seja recebida a denúncia, com citação para resposta, por escrito, no prazo de 10 (dez) dias, e posterior prosseguimento do processo nos termos do artigo 399 e seguintes do Código de Processo Penal até a final condenação, a qual deverá contemplar valor mínimo para reparação do dano, ouvindo-se as testemunhas a seguir relacionadas.
+O Tribunal de origem denegou o habeas corpus pelos seguintes fundamentos (fls. 86-92, grifei):
+No caso, nenhuma dessas hipóteses está presente de forma manifesta. O paciente, com outras pessoas, foi denunciado pela suposta prática do crime previsto no art. 337-A, I, do Código Penal (sonegação de contribuição previdenciária) porque, segundo a denúncia:
+Mês a mês, a partir de fevereiro de 2000 e até outubro de 2005, os denunciados ordenaram pagamentos "extrafolha" a empregados e autônomos e, ao mesmo tempo, que se deixasse de apresentar esses valores em GFIP - Guia de Recolhimento do Fundo de Garantia do Tempo e Serviço, reduzindo-se, assim, base de cálculo para contribuições previdenciárias efetivamente devidas.
+Os tributos suprimidos foram apurados mediante confronto com valores constantes em folhas de pagamento, recibos de ferias, rescisões de contrato de trabalho, livros diário e razão, guias de recolhimento da Previdência Social - GPS, GFIPs, sendo lavrado o Auto de Infração 35.775.301-1, no valor histórico de R$1.080.772,05 (p. 35 do Id 277361221), não havendo notícia de pagamento, parcelamento, ou qualquer outra causa de suspensiva de exigibilidade (p. 35 do Id 277361227 e p. 5 do Id 303987907).
+Os créditos foram definitivamente constituídos em 8/10/2020 (p. 29 do Id 277361227) - ref. PAF 10830.003910/2007-18.
+ ..
+No período dos fatos, no que pertine à empresa NOVA TELECOMUNICAÇÕES E ELETRICIDADE LTDA., inscrita no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda ("CNPJ") sob o número 01.145.971/0001-92, com sede na rua José Paulino, 2278, 2º andar, Vila Itapura, Campinas/SP.
+JOSÉ LUIZ DE TULLIO foi membro do Conselho de Administração já no ano de 2000 (p. 8 do Id 303987907) e posteriormente Diretor Geral a partir de 3/1/2005 (p. 46 do Id 303987907), ao passo que:
+ ..
+- MIGUEL MARTIN GUTIERREZ FILHO foi nomeado Diretor Presidente em 6/8/2001 (p. 21 do Id 303987907)
+ ..
+De acordo com os atos constitutivos da empresa, à diretoria executiva compete a administração dos negócios sociais em geral (cláusula 5.3 - p. 26 do id 277361223), sendo, portanto, eles, em seus respectivos períodos acima descritos, seja como Diretor Geral, Diretor Presidente ou Diretor Administrativo Financeiro, quem emitiam as ordens acerca das condutas ilícitas que serão narradas a seguir.
+Pois bem. Os impetrantes alegam que a denúncia é inepta e que não há justa causa para a ação penal. Sem razão, todavia.
+A constituição definitiva do crédito tributário prova a materialidade delitiva e, embora os impetrantes não tenham instruído o habeas corpus com cópia da Certidão Específica da Linha do Tempo do Quadro de Sócios e Administradores - QSA da Junta Comercial do Estado de São Paulo (JUCESP), a carteira de trabalho do paciente deixa claro que, entre 06.8.2001 e 15.4.2002, ele foi diretor-presidente da empresa Nova Telecomunicações e Eletricidade Ltda. (ID 324109041).
+Como parte dos créditos tributários suprimidos ocorreu nesse período, a posição então ocupada pelo paciente na empresa confere-lhe, em princípio, legitimidade passiva para a persecução penal, caracterizando os indícios suficientes de autoria a configurar justa causa.
+Com efeito, em crimes societários, não há necessidade de descrição detalhada na denúncia da conduta de cada acusado, sendo suficiente que a imputação recaia sobre aqueles que detinham poder de decisão sobre atos da empresa, de modo a permitir a ampla defesa e o contraditório. Nesse sentido:
+ ..
+Observo que, por ora, não se discute a certeza da imputação ou da autoria. Por isso, não há ilegalidade manifesta na decisão impugnada, da qual destaco (ID 324109053):
+Nos crimes cuja conduta é predominantemente intelectual, não há de se exigir minudente descrição das condições de tempo e espaço em que a ação se realizou. Por isso, é prescindível, nesses casos, a descrição individualizada da participação dos agentes envolvidos no fato.
+O dolo no crime mencionado na inicial é do tipo genérico, não específico, bastando o não recolhimento das contribuições para que se configure o delito.
+ ..  Na espécie, encontra-se devidamente demonstrada a ausência de recolhimento das contribuições, mediante a constituição definitiva do crédito tributário, razão pela qual evidencia-se, em tese, a conduta dolosa.
+Além disso, a denúncia contém exposição clara e objetiva dos fatos delituosos, com narração de todos os elementos essenciais e circunstanciais que lhes são inerentes, atendendo aos requisitos descritos no artigo 41 do Código de Processo Penal, o que permite ao réu o exercício pleno do direito de defesa assegurado pela Constituição Federal.
+Portanto, a despeito das alegações defensivas, entendo que não há que se falar em inépcia da peça inicial acusatória.
+As demais questões trazidas pelas defesas dos acusados demandam instrução probatória para sua melhor apreciação e serão devidamente analisadas no momento da prolação da sentença.
+A denúncia preenche os requisitos do art. 41 do Código de Processo Penal, pois expõe o fato criminoso, com todas as suas circunstâncias, qualificando os imputados e classificando o crime, de modo a permitir a ampla defesa. A certeza relativa à autoria (por todo o período da imputação) advirá do que se comprovar durante a instrução processual, cuja audiência já está designada, permitindo ao juiz natural do feito pronunciar-se a respeito.
+A propósito, destaco da manifestação do Ministério Público Federal (ID 324882975):
+Como se pode observar, a decisão impetrada é escorreita e afastou de forma clara e precisa todos os argumentos defensivos ora repisados nesta impetração, conforme reconhecido pelo ilustre relator em sua decisão de id. 324353716.
+Os demais argumentos defensivos dizem respeito ao próprio mérito da ação penal e também exigem dilação probatória, o que é incabível nesta via recursal.
+Nesse contexto, não se verificando teratologia ou ilegalidade da decisão impetrada, e tampouco o alegado constrangimento ilegal no prosseguimento da ação penal a ordem deve ser denegada.
+Posto isso, DENEGO A ORDEM de habeas corpus.
+Segundo reiterada jurisprudência desta Corte de Justiça, o trancamento prematuro do processo, sobretudo por meio do writ, é medida excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de exame valorativo do conjunto fático-probatório, a absoluta falta de justa causa, a ausência de lastro probatório mínimo de autoria ou de materialidade, a inépcia formal da inicial acusatória, a atipicidade da conduta ou causa de extinção da punibilidade.
+Ilustrativamente:
+ ..
+3. O trancamento da ação penal por ausência de justa causa exige comprovação, de plano, da atipicidade da conduta, da ocorrência de causa de extinção da punibilidade, da ausência de lastro probatório mínimo de autoria ou de materialidade, o que não se verifica na presente hipótese.
+4. Quanto à ausência de justa causa, concluiu o Tribunal de origem que "os fatos imputados, alicerçados em suporte probatório mínimo apto a ensejar a manutenção da medida cautelar, possui desfecho que depende da instrução criminal para melhor verificação, o que impede o trancamento da ação penal".
+5. Portanto, "infirmar a conclusão da instância ordinária, que entendeu pela existência de suporte probatório mínimo de autoria e materialidade, é revolvimento probatório, vedado na via do habeas corpus" (RHC n. 74.318/RJ, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/8/2016, DJe de 1º/9/2016).
+ ..
+8. Recurso ordinário desprovido.
+(RHC n. 115.913/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/11/2019)
+ ..
+2. A moldura fática delineada pelas instâncias ordinárias evidencia a presença de indícios suficientes da participação da acusada na atividade ilícita, até mesmo com o envolvimento de seu irmão adolescente na tentativa de ocultar drogas e destruir documentos.
+Logo, para rever esse entendimento, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.  ..
+(HC n. 510.012/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 9/9/2019)
+No caso em comento, em que a instrução penal nem sequer se iniciou - oportunidade em que a defesa terá a possibilidade de comprovar toda a sua sustentação -, não há falar em encerramento prematuro da persecução, porquanto os autos não exibem, de forma manifesta, um ou mais dos seus pressupostos.
+Conforme visto, réu, na condição de diretor-presidente, foi denunciado como incurso no art. 337-A, I, do CP, pois era responsável pela emissão de ordens a fim de determinar os "pagamentos "extrafolha" a empregados e autônomos e, ao mesmo tempo, que se deixasse de apresentar esses valores em GFIP - Guia de Recolhimento do Fundo de Garantia do Tempo e Serviço, reduzindo-se, assim, base de cálculo para contribuições previdenciárias efetivamente devidas" (fl. 70).
+Constou do julgado que (fl. 70):
+Os tributos suprimidos foram apurados mediante confronto com valores constantes em folhas de pagamento, recibos de ferias, rescisões de contrato de trabalho, livros diário e razão, guias de recolhimento da Previdência Social - GPS, GFIPs, sendo lavrado o Auto de Infração 35.775.301-1, no valor histórico de R$1.080.772,05 (p. 35 do Id 277361221), não havendo notícia de pagamento, parcelamento, ou qualquer outra causa de suspensiva de exigibilidade (p. 35 do Id 277361227 e p. 5 do Id 303987907).
+Ressalte-se que a documentação acostada aos autos consubstancia, segundo se verifica do julgado, indícios de autoria em relação ao acusado, sobretudo do auto de infração em que apurou a ausência de recolhimento das contribuições por suposta ordem do paciente, na condição de dir etor-presidente.
+Saliento que, nos termos da orientação deste Superior Tribunal, "O exame da suposta ausência de indícios suficientes da autoria delitiva demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus" (HC n. 554.114/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/3/2020).
+Nesse contexto, não identifico evidente coação ilegal que justifique a intervenção desta Corte e a interrupção prematura do processo.
+Ademais, para entender de forma diversa da origem e reconhecer a pretensa inépcia da inicial ou a falta de justa causa para a propositura da denúncia, indispensável seria o reexame dos fatos e provas produzidas, o que é incompatível com a via do habeas corpus.
+Ilustrativamente:
+ ..
+1. A jurisprudência desta Corte é no sentido de que o trancamento do inquérito policial e da ação penal é inviável na via do habeas corpus, visto demandar revolvimento de fatos e provas, principalmente quando as instâncias ordinárias, com suporte no conjunto fático-probatório dos autos, indicam lastro probatório mínimo de autoria e materialidade.
+2. O art. 41 do Código de Processo Penal determina que a denúncia deve conter a descrição da conduta criminosa, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas.
+3. No caso, o Tribunal de origem, no acórdão impugnado, destacou a existência de justa causa para a ação penal, pois a exordial acusatória descreveu claramente as condutas imputadas ao acusado, revelando lastro probatório mínimo e suficiente acerca dos indícios de autoria e materialidade para autorizar a deflagração do processo penal, o que impede o acolhimento do pleito de trancamento do processo-crime.
+4. Agravo regimental não provido.
+(AgRg no HC n. 732.038/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024, grifei.)
+ ..
+1. O trancamento da ação penal em habeas corpus situa-se no campo da excepcionalidade, somente cabível quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta supostamente praticada pelo acusado, seja da ausência de indícios de autoria e materialidade delitiva, ou ainda da incidência de causa de extinção de punibilidade.
+2. A denúncia narrou e individualizou a conduta da recorrente como sendo a de elaborar o edital com cláusulas anticoncorrenciais e afirmou que o fez em conjunto com os demais denunciados, ou seja, com o objetivo de beneficiar as empresas que venceram a licitação, de modo que a exigência da descrição suficiente da conduta, disposta no art. 41 do CPP, foi devidamente cumprida.
+3. Esta Corte Superior possui jurisprudência firmada no sentido de que a tese de insuficiência probatória não pode ser analisada pela via mandamental, pois demanda amplo exame do conjunto probatório, providência incompatível com os estreitos limites cognitivos do habeas corpus.
+ ..
+(AgRg no RHC n. 184.932/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024, grifei.)
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
