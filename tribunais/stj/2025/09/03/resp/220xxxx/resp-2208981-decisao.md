@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo SINDICATO DOS OFICIAIS DE JUSTICA E OFICIAIS DE JUSTICA AVALIADORES DO PARA - SINDOJUS-PA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ assim ementado (fl. 294):
+APELAÇÃO. AÇÃO ORDINÁRIA. OFICIAIS DE JUSTIÇA. RECONHECIMENTO DE DIREITO. VEÍCULO PARTICULAR. SER CONSIDERADO UTILIDADE PÚBLICA. INEXISTÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE DE IMPOR AO MUNICÍPIO A CRIAÇÃO DA NORMA. RECURSO CONHECIDO E DESPROVIDO.
+1. Depreende-se dos autos que o Apelante pretende o reconhecimento do direito dos oficiais de justiça de que os seus veículos particulares sejam considerados de utilidade pública.
+2. Todavia, a norma elaborada pelo CONTRAN não inclui tais veículos nessa condição e inexiste norma municipal nesse sentido.
+3. Ademais, não é possível que por meio de Ação Ordinária o município seja compelido a editar norma no interesse dos oficiais de justiça.
+4. Desse modo, não existem elementos que justifiquem a reforma da sentença.
+5. Recurso conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 322-329).
+Nas razões do recurso especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 24 e 29, VIII, do CTB, sustentando, em síntese, que (fls. 347-359):
+i) "o Código Brasileiro de Trânsito confere competência concorrente ao Munícipio para regulamentar sobre o trânsito, inclusive, vários dispositivos estabelecem as competências do órgão municipal";
+ii) "o Munícipio possui sim autonomia legislativa e regulamentar sobre o trânsito em seu território, podendo inclusive implantar medidas que visem a redução da circulação de veículos, a maior fluidez do trânsito, orientação do trafego, e fiscalização do cumprimento das normas";
+iii) o CONTRAN "tem como competência dizer quais os parâmetros de identificação dos veículos de utilidade pública (tipo de sinalização, marcação, etc.), mas não existe qualquer dispositivo que trate de qualquer exclusividade legislativa do CONTRAN, o que nem poderia, por se tratar de um conselho, que apenas tem competência regulamentadora";
+iv) "várias cidades, de vários estados do Brasil, já possuem legislação municipal regulando a possibilidade de os oficiais de Justiça terem a livre parada de seus veículos particulares e dispensa de sanções administrativas, enquanto estiverem cumprindo os mandados".
+Requer, assim, o provimento do recurso para "reconhecer os vícios e nulidades no acórdão e na sentença, pelos fundamentos expostos anteriormente, reformando seu mérito" (fl. 359).
+Contrarrazões apresentadas pelo não conhecimento ou improvimento do apelo nobre (fls. 380-399).
+O recurso foi admitido pelo Tribunal de origem (fls. 404-406).
+É o relatório. Decido.
+Na origem, trata-se de ação declaratória ajuizada pelo Sindicato dos Oficiais de Justiça e Oficiais de Justiça Avaliadores do Pará - SINDOJUS contra o Município de Belém, objetivando "seja declarado o direito de os oficiais de justiça terem seus veículos reconhecidos como de utilidade pública, quando forem utilizados para o cumprimento de ordens judiciais, conforme regra insculpida no Código de Trânsito Brasileiro", julgada improcedente (fls. 230-234).
+O Tribunal Estadual, ao negar provimento ao apelo do Sindicato, consignou a seguinte fundamentação (fls. 300-301):
+Contudo, a sentença guerreada negou o deferimento do pleito, tendo consignado que, de acordo com o art. 29, VIII, do CTB cabe ao CONTRAN estabelecer regras sobre veículos prestadores de serviços de utilidade pública.
+Além disso, esclareceu que o CONTRAN editou a Resolução n.º 268/2008, listando os veículos considerados como prestadores de serviço de utilidade pública (no art. 3º, §1º).
+Assim sendo, averiguo que, atualmente, a Resolução do CONTRAN não inclui os veículos dos oficiais de justiça na condição de "veículos prestadores de serviços de utilidade pública".
+Ademais, ainda que fosse possível norma municipal prevendo tal possibilidade, verifica-se que no município de Belém inexiste regulamento sobre essa questão.
+Portanto, é inviável o reconhecimento de direito quando inexiste norma regulamentadora e é inviável o manejo de Ação Ordinária para obrigar o Município de Belém a editar ato normativo sobre o assunto.
+Imperioso consignar que o autor, em sede de apelação trouxe requerimento ainda mais amplo do que consta na inicial, o que é inviável, até por respeito ao duplo grau de jurisdição.
+ ..
+Portanto, inexistindo norma que assegure o direito pleiteado, e a impossibilidade de impor ao município que edite norma no interesse dos oficiais de justiça, concluo por adequada a manutenção da sentença vergastada.
+De início, em relação à alegada violação do art. 24 do CTB, observa-se que o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou o conteúdo normativo do referido dispositivo legal, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+O recurso especial não trouxe a alegação de violação ao art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual. Nesse sentido: AgInt no REsp n. 2.076.255/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+Outrossim, quanto à aduzida tese de que "o Munícipio possui sim autonomia legislativa e regulamentar sobre o trânsito em seu território, podendo inclusive implantar medidas que visem a redução da circulação de veículos, a maior fluidez do trânsito, orientação do trafego, e fiscalização do cumprimento das normas" (fl. 354), a ofensa art. 29, VIII, do CTB foi meramente reflexa, sendo necessária a incursão em atos normativos infralegais (v.g., art. 3º, §1º, da Resolução n. 268/2008) para que haja possível modificação do entendimento da Corte de origem, o que é incabível na via do recurso especial.
+Nessa esteira, mutatis mutandis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. EXISTÊNCIA. PERT. PROGRAMA DE PARCELAMENTO. NECESSIDADE DE DESISTÊNCIA PRÉVIA AOS RECURSOS ADMINISTRATIVOS APENAS PREVISTA NA RESOLUÇÃO CGSN N. 138/2018. NORMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO QUANTO A ESTA MATÉRIA. ACLARATÓRIOS ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+ ..
+3. Com efeito, o STJ possui entendimento de que o Recurso Especial não constitui via adequada para a análise, sequer reflexa, de eventual ofensa às resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "Lei Federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal. Dessa forma, o Recurso Especial não merece conhecimento.
+ ..
+6. Embargos de Declaração acolhidos, atribuindo-se-lhes excepcionalmente efeitos modificativos, para prover o Agravo Interno do embargante e conhecer parcialmente do Recurso Especial da Fazenda Nacional, apenas em relação aos arts. 489 e 1.022, II do CPC/15, para, nessa extensão, negar-se-lhe provimento. (EDcl no AgInt nos EDcl no REsp n. 1.932.247/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2023, DJe 24/1/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO CABIMENTO DE RECURSO ESPECIAL ALEGANDO VIOLAÇÃO DE ATO INFRALEGAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+V - Em relação à questão de fundo, tem-se que a alegada violação de dispositivo de lei federal seria meramente reflexa. Assim porque a pretensão recursal esbarra na legalidade da Instrução Normativa n. 28/2020, ato normativo de natureza infralegal, o que implica a inviabilidade do recurso especial, haja vista que o conceito de tratado ou lei federal, inserto na alínea a do inciso III do art. 105 da Constituição Federal, deve ser considerado em seu sentido estrito.  ..
+VI - Agravo interno improvido. (AgInt no REsp n. 2.165.043/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Ante o exposto, com fundamento no art. 932 do CPC, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 1% (um por cento) sobre o valor já arbitrado (fl. 234), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFICIAIS DE JUSTIÇA. VEÍCULO PARTICULAR. UTILIDADE PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. NECESSIDADE DE INCURSÃO EM ATOS NORMATIVOS INFRALEGAIS. OFENSA MERAMENTE REFLEXA À LEI FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
