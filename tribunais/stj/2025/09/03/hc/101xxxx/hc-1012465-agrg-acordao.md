@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. COMPATIBILIZAÇÃO COM O REGIME SEMIABERTO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, utilizado como substitutivo de recurso próprio, para questionar a legalidade da prisão preventiva.
+2. A defesa sustenta que a prisão preventiva é incompatível com o regime semiaberto fixado na sentença.
+3.O Superior Tribunal de Justiça fixou o entendimento de que " a  fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória" (AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+4. A alegação de falta de contemporaneidade não foi examinada pelo Tribunal de origem, inviabilizando o exame pelo Superior Tribunal de Justiça.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANTÔNIO CARLOS ALVES MARCELINO JÚNIOR contra a decisão de fls. 167-171, que não conheceu do habeas corpus.
+Nas razões deste recurso, a defesa aduz que a decisão que decretou a prisão preventiva do agravante seria manifestamente ilegal, o que autorizaria a concessão da ordem, ainda que o habeas corpus tenha sido impetrado como substitutivo do recurso processualmente adequado.
+Sustenta que a revisão periódica do decreto prisional não poderia apenas reproduzir os mesmos motivos declinados em decisões anteriores para manter a prisão preventiva.
+Argumenta que a prisão preventiva seria incompatível com a definição do regime semiaberto para o início do cumprimento da pena privativa de liberdade e que a adequação do regime prisional durante a execução provisória não seria suficiente para descaracterizar o constrangimento ilegal na privação cautelar da liberdade.
+A despeito de o agravante estar foragido, alega que faltaria contemporaneidade à ordem de prisão preventiva.
+Ao final, requer o provimento do recurso, a fim de que seja reconhecida a ilegalidade da prisão preventiva do agravante.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. COMPATIBILIZAÇÃO COM O REGIME SEMIABERTO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, utilizado como substitutivo de recurso próprio, para questionar a legalidade da prisão preventiva.
+2. A defesa sustenta que a prisão preventiva é incompatível com o regime semiaberto fixado na sentença.
+3.O Superior Tribunal de Justiça fixou o entendimento de que " a  fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória" (AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+4. A alegação de falta de contemporaneidade não foi examinada pelo Tribunal de origem, inviabilizando o exame pelo Superior Tribunal de Justiça.
+5. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam haver nenhum equívoco na decisão recorrida.
+De início, constata-se que os requisitos da prisão preventiva já foram objeto de análise pelo STJ no RHC n. 209.416/SP, o qual foi improvido, tendo sido certificado o trânsito em julgado em 10/6/2025.
+No mais, a sentença condenatória manteve a prisão cautelar nos seguintes termos (fl. 48, grifei):
+Mantenho a segregação cautelar dos sentenciados que se encontram no cárcere (Luiz Fernando Godoy Pereira, Thiago Feitosa Garcia, David Fernandes da Silva, Maurício Paes de Oliveira e Luiz Carlos Lucas) bem como aqueles que contam com mandado de prisão preventiva expedido e ainda não cumprido (Antônio Carlos Alves Marcelino Júnior), posto que perduram os motivos ensejadores da prisão decretada, sobretudo, após encerramento do primeiro grau de jurisdição com proferimento de decisão de cunho condenatório.
+Expeçam-se guias de recolhimento provisórias em relação aos sentenciados encarcerados.
+Acerca da matéria, " e sta Corte Superior de Justiça tem entendimento no sentido de que a manutenção da segregação cautelar, quando da sentença condenatória, não requer fundamentação exaustiva, sendo suficiente a afirmação de que permanecem intactos os motivos ensejadores da custódia cautelar, desde que aquela anterior decisão esteja, de fato, fundamentada, como ocorreu na espécie" (AgRg no HC n. 754.327/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/9/2022, DJe de 21/9/2022).
+Como se observa, no presente caso, o Magistrado sentenciante afirmou explicitamente que persistem os fundamentos que ensejaram a prisão preventiva, tendo inclusive mencionado que o paciente está foragido, não havendo ilegalidade a ser sanada.
+Quanto à alegada incompatibilidade entre a prisão preventiva e o regime semiaberto fixado na sentença, o voto condutor do acórdão impugnado foi disposto nos seguintes termos (fls. 17-18 e 20, grifei):
+Noutro vértice, convém destacar que não há insuperável incompatibilidade entre a vedação do recurso em liberdade e a fixação do regime inicial intermediário, vez que persistem os requisitos legais que autorizam a manutenção da custódia cautelar. Ora, se por um lado não se pode negar ao réu a semiliberdade imposta no édito condenatório, por outro, não se deve olvidar da necessidade de garantir a ordem pública, exigindo-se, quando o sentenciado estiver em regime mais gravoso, mera adequação da custódia cautelar ao regime fixado na r. sentença condenatória. (..).
+ ..
+No caso dos autos, considerando que ANTONIO CARLOS segue foragido, estando pendente de cumprimento o mandado de prisão expedido em seu desfavor, não há qualquer ofensa à Súmula Vinculante nº 56, do Col. Supremo Tribunal de Federal. E, se vier a ser capturado, basta sua transferência para vaga adequada ao regime semiaberto, a fim de evitar qualquer constrangimento ilegal.
+Por fim, ao revés do que quer fazer crer a Defesa, anoto que é possível o cumprimento provisório da pena quando, como no caso dos autos, há a manutenção legítima da custódia cautelar do sentenciado após a prolação da r. sentença condenatória. (..).
+Acerca da matéria, o Supremo Tribunal Federal, em dezembro de 2024, posicionou-se no sentido da compatibilidade entre a prisão preventiva e a fixação do regime semiaberto, desde que a manutenção da segregação cautelar fosse suficientemente fundamentada. Destaca-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E DE PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO PREVENTIVA E A FIXAÇÃO DO REGIME SEMIABERTO. COMPATIBILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS.
+1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes.
+2. Na esteira do entendimento das instâncias anteriores e da decisão agravada, as circunstâncias concretas da prática do delito indicam, pelo modus operandi, a gravidade em concreto de delito e a fundada probabilidade de reiteração delitiva, a justificar o decreto prisional para resguardar a ordem pública, nos termos do art. 312 do CPP.
+3. A natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional. Precedentes.
+4. A Primeira Turma do Supremo Tribunal Federal "tem se orientado no sentido da compatibilidade entre a prisão preventiva e a fixação do regime semiaberto, desde que a decisão de manutenção da cautelar seja suficientemente fundamentada" (HC 239.692-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 09.5.2024).
+5. De acordo com as instâncias anteriores, o paciente está "em cumprimento de pena no regime semiaberto, porquanto possuem celas com distinção de regimes (fechado e semiaberto), além de benefícios inerentes ao regime intermediário, tais como saída temporária e trabalho externo".
+6. Agravo regimental conhecido e não provido.
+(HC n. 242.856-AgR, relator Ministro Flávio Dino, Primeira Turma, julgado em 16/12/2024, DJe de 19/12/2024.)
+No mesmo sentido: HC n. 240.152-AgR, relator Ministro Flávio Dino, Primeira Turma, julgado em 16/12/2024, DJe de 19/12/2024 e HC n. 248.326-AgR, relator Ministro Flávio Dino, Primeira Turma, julgado em 9/12/2024, DJe de 17/12/2024.
+Por sua vez, o Superior Tribunal de Justiça fixou entendimento de que " a  fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória" (AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Em idêntica direção: AgRg no RHC n. 194.672/MG, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, S exta Turma, julgado em 9/9/2024, DJe de 11/9/2024; AgRg no HC n. 887.437/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024; e REsp n. 2.139.829/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 12/3/2025.
+Registra-se que a compatibilização entre o regime da condenação e o cumprimento da prisão preventiva deve ocorrer com a expedição de guia de execução provisória da pena, pelo Juízo da execução.
+No caso, consoante se extrai do acórdão impugnado, o paciente está foragido, não tendo sido cumprido o mandado de prisão, motivo pelo qual, se vier a ser capturado, deverá ser expedida guia de execução pelo Juízo da VEC, a quem caberá unificar as penas, se for o caso, e compatibilizar a segregação cautelar com o regime prisional imposto na sentença, não havendo, portanto, ilegalidade a se reconhecer.
+Por outro lado, quanto à alegação de ausência de menção a aspectos contemporâneos para a manutenção da prisão, nota -se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Ademais, " q uando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Quanto à alegação de que o quantum de pena da condenação (4 anos) não permitiria a prisão preventiva, prevê o inciso I do art. 313 do CPP que será admitida a decretação da prisão preventiva nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos.
+Nesse contexto, o patamar de 4 anos contido na mencionada legislação se refere à pena máxima abstrata relativa ao tipo penal apurado, e não à pena fixada na condenação, não havendo ilegalidade a ser sanada.
+Dessa forma, o agravante não trouxe motivos aptos a determinar a reforma da decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
