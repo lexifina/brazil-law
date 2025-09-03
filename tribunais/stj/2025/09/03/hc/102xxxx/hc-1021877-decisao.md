@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de DANIEL SOUZA DA COSTA e JHONATA DA SILVA MARTINS - condenados como incursos no crime de tráfico de drogas (Ação Penal n. 0000321-32.2020.8.04.4501) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS (Apelação Criminal n. 0000321-32.2020.8.04.4501), não comporta acolhimento.
+Com efeito, busca a impetração a anulação da ação penal na qual os pacientes restaram condenados como incursos no crime de tráfico de drogas, ao argumento de nulidade da busca domiciliar realizada sem fundada suspeita.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, do atento exame dos autos, observa-se que a busca domiciliar que culminou com a deflagração da ação penal contra os pacientes se encontra consubstanciada em prévia denúncia específica e prévia investigação, constando do acórdão que a busca domiciliar foi motivada por denúncia anônima especificada que indicava com precisão que estaria chegando entorpecentes para o corréu Cleberval e, junto à informação, que um motoqueiro chamado Jhonata - vulgo Tarcísio - é quem fazia o recolhimento do dinheiro nas bocas, a mando do primeiro. Após diligências, descobriram que Jhonata era sempre visto com o adolescente Luiz Henrique, o qual também era envolvido com a traficância e, diante disso, procuraram Luiz Henrique, o qual afirmou que lhe pediram para guardar 02 (dois) quilos de maconha, mas que se recusou e declinou que a droga estaria com Daniel, ocasião em que se dirigiram até a residência dele e, após a autorização da genitora do mesmo, no quintal do imóvel acharam a referida droga (fl. 15 - grifo nosso).
+A propósito:
+ ..  A partir do quadro fático exposto no acórdão recorrido, lastreado em denúncia específica, fundada suspeita e consentimento da moradora, é inconteste a legalidade das provas obtidas com o ingresso em domicílio ( AgRg no AREsp 2.590.162/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 4/10/2024).
+ ..
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA DOMICILIAR. DENÚNCIA ESPECÍFICA E PRÉVIA INVESTIGAÇÃO . CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
