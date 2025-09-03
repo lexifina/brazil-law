@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSE ANTONIO PEREIRA DE SOUZA contra decisão de minha lavra, proferida às e-STJ fls. 728/731, em que dei provimento ao recurso especial da UNIÃO em virtude da caracterização de negativa de prestação jurisdicional.
+Aduz a parte embargante, sob o pretexto de omissão, que " ..  a pretendida interpretação conjunta dos títulos da ação coletiva 0006306- 43.2016.4.01.3400 e do RMS 25.841 foi, sim, analisada (e refutada) pelo v. acórdão do TRF4 (fls. 623/624, e-STJ) .. " (e-STJ fl. 736), bem como que " ..  a pretendida interpretação conjunta dos títulos é inócua. Isso porque o título que se executa na origem é o acórdão da ação coletiva n. 0006306-43.2016.4.01.3400, proferido pelo Tribunal Regional Federal da 1ª Região; e não o acórdão do RMS 25.841, proferido pelo Supremo Tribunal Federal" (e-STJ fl. 739).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, não ocorreu nenhum dos vícios supracitados.
+A decisão embargada foi clara ao entender que persistente omissão, a despeito do manejo dos declaratórios, acerca dos seguintes argumentos levantados pela ora embargada: " ..  incompleta interpretação do pedido formulado na Ação Coletiva que gerou o título objeto do Cumprimento de Sentença, uma vez que não analisado o conjunto da postulação - o que comprovaria que o alcance da ação coletiva se limitava aos juízes classistas inativados pela Lei no 6.903/81 e seus pensionistas - , acarretando vulneração aos arts. 5o e 322, §2o, do CPC" e " ..  incompatibilidade entre os limites da postulação da Ação Coletiva e a relação genérica de associados anexa à petição inicial, com desrespeito à boa-fé que deve imperar nas relações processuais, e consequente violação ao art. 8o do CPC" (e-STJ fl. 682).
+A constatação de vício decisório, oportuno destacar, não representa concordância com a matéria de fundo da tese suscitada pela parte que não teve integral resposta à sua defesa, tam pouco autoriza ingresso, nesta sede e neste momento processual, no mérito da controvérsia.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
