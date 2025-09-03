@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da não demonstração de violação do art. 1.022 do CPC/2015 e da incidência das Súmulas n. 7 e 83 do STJ (fls. 786-791).
+O acórdão recorrido encontra-se assim ementado (fl. 647 - grifo no julgado):
+Agravo Interno em Apelação. Ação Indenizatória. Autora que pugna pela restituição de valores retirados indevidamente de sua conta bancária sob a rubrica de empréstimo consignado, bem como indenização por dano moral. Sentença que julgou procedente o pedido. Apelo do réu. Aplicação do CDC. Dano, conduta e nexo de causalidade entre eles. Responsabilidade objetiva. Ausentes as excludentes do dever de indenizar. Decisão monocrática que negou provimento ao recurso. Agravo Interno interposto, na tentativa de reabrir discussão a respeito da matéria, pretendendo o agravante, a reforma da decisão sob a ótica que melhor lhe convém. DESPROVIMENTO DO AGRAVO INTERNO.
+Os embargos de declaração foram rejeitados (fls. 668-673).
+Nas razões do recurso especial (fls. 676-684), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação do art. 1.022, II, do CPC/2015, apontando omissão: (i) "sobre a necessária devolução, pela autora, ora recorrida, das quantias liberadas em função dos empréstimos anulados, a fim de evitar o enriquecimento sem justa causa da parte (art. 884 do CC) e, em sendo as partes ao mesmo tempo credoras e devedoras uma da outra, seja autorizada a compensação das verbas (art. 368 do CC), já que o valor a ser pago pela instituição financeira à recorrida pode ser abatido do crédito já liberado à titular" (fls. 682-683); e (ii) a respeito do "disposto no art. 406 do Código Civil, o qual, após recente alteração legislativa promovida pela Lei nº 14.905/20241, passou a prever expressamente, em seu § 1º, a incidência da Taxa SELIC como forma de correção dos débitos judiciais" (fls. 680-681 - grifos no recurso).
+No agravo (fls. 794-805), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 809-819).
+É o relatório.
+Decido.
+(I) Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese necessidade de "devolução  ..  das quantias liberadas em função dos empréstimos anulados", o Tribunal de origem manteve expressamente a sentença, que concluiu que os fraudadores, não a demandante, sacaram os valores do empréstimo concedido pelo banco recorrente. Veja-se (fl. 566 - grifei):
+Restou, portanto, inequívoca a falha na prestação do serviço, pois, sem a anuência da autora, terceiros utilizaram seus dados para realizarem empréstimos e saques em seu nome.
+Desse modo, não assiste razão à parte recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Observe-se que os fraudadores não integraram a presente demanda, razão pela qual não era cabível decidir sobre a obrigação de restituir.
+(II) No que se refere aos juros de mora, constata-se que esses foram fixados na sentença em 1% ao mês e a parte não se insurgiu contra o referido percentual na apelação, de modo que a questão encontra-se preclusa, não havendo de se falar em omissão quanto a esse ponto.
+Todavia, nos embargos de declaração oposto contra o acórdão recorrido, a parte recorrente alegou que "a recente alteração legislativa promovida pela Lei nº 14.905/2024, passou a prever expressamente, em seu § 1º, a incidência da Taxa SELIC como forma de correção dos débitos judiciais" (fl. 653).
+Tratando-se de direito novo, que entrou em vigor após o julgamento da apelação, caberia à Corte de origem se manifestar sobre a matéria no julgamento dos aclaratórios.
+Assim, constatada a omissão quanto a esse ponto, os autos devem retornar ao Tribunal de origem.
+Ante o exposto, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PARCIAL PROVIMENTO a fim de determinar o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos embargos de declaração de fls. 651-655, manifeste-se expressamente sobre a aplicação da Lei n. 14.905/2024 ao caso .
+Publique-se e intimem-se.
+ EMENTA
