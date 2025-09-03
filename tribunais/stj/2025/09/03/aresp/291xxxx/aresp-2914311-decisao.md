@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 83/STJ (fls. 692-697).
+O acórdão do TJMT traz a seguinte ementa (fls. 583-584):
+APELAÇÃO. OBRIGAÇÃO DE FAZER COM DANO MORAL. PLANO DE SAÚDE. MEDICAMENTO PARA USO DOMICILIAR. PREVISÃO DE EXCLUSÃO NO CONTRATO. AUSÊNCIA DE OBRIGAÇÃO DE FORNECIMENTO. JULGADOS DO STJ. SENTENÇA REFORMADA. RECURSO PROVIDO.
+"Na saúde suplementar, é lícita a exclusão do fornecimento de medicamentos prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde (tratamento domiciliar), salvo os antineoplásicos orais, a medicação assistida (home care) e os incluídos no rol da ANS para esse fim " (Aglnt no REsp n. 2.047.030/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Nas razões do especial (fls. 609-628), fundamentado no art. 105, III, "a" , da CF, a parte recorrente apontou ofensa:
+(i) aos arts. 35-C, I, da Lei n. 9.656/1998 e 422 do CC/2002, afirmando ser descabido limitar a cobertura de medicamento de uso domiciliar mencionado na inicial, uma vez que "é dever da Recorrida UNIMED NORTE DE MATO GROSSO - COOPERATIVA DE TRABALHO MÉDICO, fornecer assistência de modo abrangente e integral para com os aderentes de seus serviços, visto que, a previsão no rol da ANS é apenas exemplificativo, somado ainda ao que a norma infraconstitucional regulamenta" (fl. 620), e
+(ii) aos arts. 186 e 927 do CC/2002 e 14, caput, do CDC, sustentando que a recusa de cobertura ensejaria a reparação moral.
+Foram ofertadas contrarrazões (fls. 681-688).
+No agravo (fls. 704-721), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 753-759).
+É o relatório.
+Decido.
+A parte recorrente apontou violação dos arts. 35-C, I, da Lei n. 9.656/1998 e 422 do CC/2002, para sustentar a natureza exemplificativa do rol da ANS.
+Ocorre que tais dispositivos legais, isoladamente, não possuem o alcance normativo pretendido, porque nada dispõem a respeito da amplitude de cobertura dos planos de saúde, tampouco da natureza jurídica do rol da ANS.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 35-C, I, da Lei n. 9.656/1998, 186, 422 e 927 do CC/2002 e 14, caput, do CDC, sob o ponto de vista da parte recorrente.
+Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 do STF e 211 do STJ.
+E ainda, não tendo a parte impugnado o conteúdo normativo do art. 10, VI, da Lei n. 9.656/1998, que justificou a recusa de custeio (cf. fl. 588), aplicável a Súmula n. 283/STF.
+Conforme o entendimento desta Corte Superior, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+Do mesmo modo:
+DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES MELLITUS TIPO 1. BOMBA INFUSORA DE INSULINA. USO DOMICILIAR. AUTOADMINISTRAÇÃO. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. NEGATIVA LEGÍTIMA. AGRAVO INTERNO PROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. Conforme entendimento de ambas as Turmas que compõem a Segunda Seção do STJ, não há obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), por se tratar de equipamento de uso domiciliar.
+3. Agravo interno provido.
+(AgInt no REsp n. 1.933.209/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/6/2023, DJe de 19/6/2023.)
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO. USO DOMICILIAR. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. ANTICOAGULANTE. AUTOADMINISTRAÇÃO. NEGATIVA DE COBERTURA. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. Hipótese na qual, conforme expressamente consignado no acórdão recorrido, o contrato firmado pelas partes prevê a exclusão da cobertura de medicamentos para uso domiciliar, e o medicamento prescrito - anticoagulante - pode ser adquirido diretamente pelo paciente para autoadministração em seu ambiente domiciliar, não se afigurando indevida, portanto, a negativa de cobertura pelo plano de saúde.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.859.473/RJ, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/6/2023, DJe de 13/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO PARA USO DOMICILIAR. EXCLUSÃO DE COBERTURA LÍCITA. INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.124.296/GO, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/6/2023, DJe de 15/6/2023.)
+RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 282/STF. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. COBERTURA DE MEDICAMENTO DE USO DOMICILIAR NÃO LISTADO NO ROL DA ANS. CANABIDIOL PRATI-DONADUZZI. PRESCRIÇÃO QUE ATENDE AOS REQUISITOS DO § 13 DO ART. 10 DA LEI 9.656/1998.
+1. Ação de obrigação de fazer ajuizada em 06/01/2022, da qual foi extraído o presente recurso especial, interposto em 11/01/2023 e concluso ao gabinete em 23/05/2023.
+2. O propósito recursal é decidir sobre a obrigação de cobertura, pela operadora de plano de saúde, de medicamento de uso domiciliar não previsto no rol da ANS (Canabidiol Prati-Donaduzzi), cuja prescrição atende aos requisitos do § 13 do art. 10 da Lei 9.656/1998.
+3. Os argumentos invocados pela recorrente não demonstram como o Tribunal de origem ofendeu os dispositivos legais indicados, o que importa na inviabilidade do recurso especial (súmula 284/STF).
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súmula 282/STF).
+5. A Lei 9.656/1998, especificamente no que tange às disposições do inciso VI e do § 13, ambos do art. 10, deve ser interpretada de modo a harmonizar o sentido e alcance dos dispositivos para deles extrair a regra que prestigia a unidade e a coerência do texto legal.
+6. A regra que impõe a obrigação de cobertura de tratamento ou procedimento não listado no rol da ANS (§ 13) não alcança as exceções previstas nos incisos do caput do art. 10 da Lei 9.656/1998, de modo que, salvo nas hipóteses estabelecidas na lei, no contrato ou em norma regulamentar, não pode a operadora ser obrigada à cobertura de medicamento de uso domiciliar, ainda que preenchidos os requisitos do § 13 do art. 10 da Lei 9.656/1998.
+7. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp n. 2.071.955/RS, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 5/3/2024, DJe de 7/3/2024.)
+O TJMT, por não condenar a contraparte ao custeio do medicamento de uso domiciliar (fls. 586-589), seguiu tal entendimento.
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, observada a eventual gratuidade de justiça deferida na origem, nos termos do art. 98, § 3º, do NCPC.
+Publique-se e intimem-se.
+EMENTA
