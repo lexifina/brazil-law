@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MOISES HERCULANO DA SILVA apontando como coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 1515097-87.2025.8.26.0228).
+Consta dos autos que o paciente foi sentenciado, em primeiro grau, pela prática do crime descrito no art. 33 da Lei n. 11.343/2006, à pena de 8 anos e 4 meses de reclusão, em regime fechado, porquanto houve a apreensão de (e-STJ fl. 18):
+(a) 4.537 porções de cocaína, totalizando 2037 gramas; (b) 948 porções de Cocaína, sob a forma de "crack", totalizando 178,10 gramas; (c) 818 porções de Tetrahidrocannabinol, sob a forma conhecida vegetal Cannabis sativa L, vulgarmente conhecida como "maconha"; totalizando 681,70 gramas; (d) 15 comprimidos de MDATENANFETAMIN, vulgarmente conhecida por "ecstasy", totalizando 12,60 gramas; (e) 24 frascos de DICLOROMETANO (CLORETO DE METILENO), vulgarmente conhecida como "lança perfume", totalizando 240 mililitros; e (f) 60 gramas da substância MDMB-4EN-PINACA e 5F-ADB (maconha sintética).
+Impetrado habeas corpus perante a Corte local, a ordem foi denegada nos termos do acórdão de e-STJ fls. 9/14, assim ementado:
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ORDEM DENEGADA. I.
+Caso em Exame 1. Ordem de habeas corpus impetrada em favor de Moisés Herculano da Silva, alegando constrangimento ilegal por parte do Juiz da 32ª Vara Criminal da Comarca de São Paulo. O paciente foi preso em flagrante por tráfico de drogas, com a prisão convertida em preventiva após audiência de custódia. A defesa alega desnecessidade da custódia preventiva, destacando a primariedade do paciente e a ausência de violência no delito. II. Questão em Discussão 2. A questão em discussão consiste na análise da legalidade e necessidade da prisão preventiva do paciente, considerando a gravidade concreta do delito e a possibilidade de aplicação de medidas cautelares diversas da prisão. III. Razões de Decidir 3. A decisão de manter a custódia cautelar está fundamentada em elementos concretos, como a quantidade e variedade das drogas apreendidas, e a periculosidade do agente, conforme os artigos 312 e 313 do Código de Processo Penal. 4. A prisão preventiva visa garantir a ordem pública e a aplicação da lei penal, não violando o princípio da presunção de inocência, sendo adequada diante das circunstâncias do caso. IV. Dispositivo e Tese 5. Ordem denegada. Tese de julgamento: 1. A prisão preventiva é justificada pela gravidade concreta do delito e pela necessidade de garantir a ordem pública. 2. A primariedade e residência fixa do paciente não são suficientes para afastar a prisão preventiva diante dos elementos concretos apresentados.
+Nas razões do habeas corpus, sustenta a defesa ausência fundamentação idônea bem como dos requisitos autorizadores da medida constritiva elencados no art. 312 do Código de Processo Penal.
+Ressalta que o paciente possui condições pessoais favoráveis.
+Defende a aplicação de medidas cautelares diversas da prisão, elencadas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição do cárcere por medidas cautelares do art. 319 do Código de Processo Penal e a expedição de alvará de soltura.
+É o relatório.
+Decido.
+Como visto, insurge-se a defesa contra a prisão processual do paciente.
+De início, cumpre observar que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+No caso, confira-se o que consta da sentença condenatória ao manter a prisão preventiva do acusado (e-STJ fls. 23/24, grifei):
+ .. O réu era peça fundamental na distribuição em larga escala de vários tipos de entorpecentes. Estava associado a outras pessoas eis que recebia malas para guardar em sua casa semanalmente e depois, sob ordens de terceiros, avisado por mensagens, as entregava a terceiros.
+ ..
+Indefiro o apelo em liberdade porquanto subsistentes os pressupostos autorizadores da custódia cautelar preventiva. Diante de todos os fundamentos já expostos no que tange ao comportamento do réu, deve ser mantido no cárcere a fim da garantia da ordem pública.
+Entretanto, não obstante as razões declinadas, verifica-se que a parte impetrante não juntou aos autos o inteiro teor do d ecreto prisional, o que, a toda evidência, impede o exame das teses suscitadas.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, po r meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC n. 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC n. 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
