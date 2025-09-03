@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO CONTRA ACÓRDÃO CONCESSIVO DE HABEAS CORPUS. PRETENSÃO À DECRETAÇÃO DA PRISÃO PREVENTIVA. SÚMULA 7/STJ.
+1. A discussão sobre a suficiência das medidas cautelares adotadas na decisão recorrida ou a necessidade de prisão preventiva dependem, necessariamente, de reapreciação do acervo probatório, o que não é cabível em sede de recurso especi al.
+2. De igual forma, a alegada condição de foragido do réu, situação não claramente retratada pelas instâncias ordinárias, de forma circunstanciada e apta a evidenciar a tentativa de evasão da aplicação da lei penal, dependeria do reexame do acervo probatório.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão, por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial (fls. 509/511).
+Requer a parte agravante (fls. 513/527) o afastamento do óbice aplicado (Súmula 7/STJ), uma vez que sustenta que a pretensão recursal não visa ao reexame de provas, mas, sim, à revaloração jurídica dos fatos e fundamentos delineados pelas instâncias ordinárias, o que é perfeitamente cabível na via especial. Alega que não é desproporcional a prisão preventiva, para o caso concreto, e que o simples fato de o recorrido ter se mantido foragido após a decretação da sua prisão já justifica a sua segregação provisória. Alega violação dos arts. 312, 316 e 319 do Código de Processo Penal. Requer, ao final, a reforma da decisão agravada e o provimento do recurso especial, a fim de restabelecer a prisão preventiva de Rodrigo de Almeida Santos, ou, subsidiariamente, para que sejam aplicadas medidas cautelares diversas da prisão mais gravosas (fl. 526).
+Impugnação às fls. 536/537.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO CONTRA ACÓRDÃO CONCESSIVO DE HABEAS CORPUS. PRETENSÃO À DECRETAÇÃO DA PRISÃO PREVENTIVA. SÚMULA 7/STJ.
+1. A discussão sobre a suficiência das medidas cautelares adotadas na decisão recorrida ou a necessidade de prisão preventiva dependem, necessariamente, de reapreciação do acervo probatório, o que não é cabível em sede de recurso especi al.
+2. De igual forma, a alegada condição de foragido do réu, situação não claramente retratada pelas instâncias ordinárias, de forma circunstanciada e apta a evidenciar a tentativa de evasão da aplicação da lei penal, dependeria do reexame do acervo probatório.
+3. Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Em sede monocrática, assim me manifestei (fls. 510/511 - grifo no original):
+Assim se manifestou o Tribunal de origem para conceder o habeas corpus (fls. 386/388 - grifo nosso):
+Tenho que a prisão preventiva de RODRIGO DE ALMEIDA SANTOS se revela desnecessária.
+O Paciente encontra-se investigado por crimes cuja pena é de detenção, circunstância que revela a impossibilidade de aplicação do regime fechado (CP art. 33, caput). As penas cominadas nos arts. 55, da Lei nº 9.605/98 (detenção de 06 meses a 01 ano e multa) e 2º, da Lei nº 8.176/91 (detenção de 01 a 05 anos e multa) sugerem que, acaso sobrevenha condenação, há a possibilidade de substituição da pena corporal por penas restritivas de direito. Tanto indica a desproporcionalidade da medida cautelar adotada (CPP art. 282, II).
+O ato apontado coator, por seu turno, justifica a custódia preventiva na garantia da ordem pública e como providência indispensável à aplicação da lei penal. Não indica, contudo, fato que desaconselhe a manutenção do Paciente em liberdade, tendo em vista a futura aplicação da lei penal. Por outro lado, no que diz respeito à garantia da ordem pública, sustenta ser a prisão provisória o único meio de impedir prossiga o Paciente na exploração clandestina de ouro.
+Ocorre que medidas cautelares diversas da prisão - a proibição de frequência à área do Garimpo situado na zona rural de Cansanção-BA e o estabelecimento de fiança - mostram-se aptas a impedir possa o Paciente participar da atividade garimpeira, circunstância que torna incabível a prisão preventiva (CPP art. 310, II).
+Afasto, por conseguinte, a pretensão deduzida pelo Ministério Público Federal (cf. manifestação ID 324140664), no sentido de serem acrescidas as medidas cautelares de (i) comparecimento imediato em juízo, para informar e justificar suas atividades e, posteriormente, que se dê de forma mensal; (ii) proibição de frequência as áreas de Garimpo situadas na região de Santa Luz/BA, e; (iii) proibição de manter contato com JEOSAFA CARNEIRO DA SILVA e os investigados na OPERAÇÃO FRÍGIA, especialmente MAURO MARROQUIM, ERNANDES OLIVEIRA DA SILVA, FRANCISCO TADEU DE SÁ e JOÃO GENIVAL.
+Observo, por derradeiro, que a circunstância do Paciente impugnar a decisão que decretou sua prisão preventiva sem se apresentar ao Juízo Impetrado, por si só, não indica a necessidade da custódia preventiva para assegurar a aplicação da lei penal. Trata-se, ao invés, do regular exercício do direito de defesa.
+Reverter a decisão concessiva do habeas corpus importaria, necessariamente, no reexame do acervo fático-probatório, com o fim de aquilatar quais as medidas cautelares seriam apropriadas para o caso em análise.
+Como já decidido por esta Corte Superior, a reversão das premissas fáticas adotadas no acórdão concessivo de habeas corpus encontra óbice na Súmula 7 do STJ (AgRg no AREsp n. 1.774.571/MT, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª REGIÃO), Sexta Turma, julgado em, 25/5/2021, DJe de 31/5/2021).
+Com efeito, as questões relativas à suficiência das medidas cautelares adotadas na decisão recorrida ou à necessidade de prisão preventiva dependem, necessariamente, de reapreciação do acervo probatório, o que não é cabível em sede de recurso especial (AgRg no AREsp n. 1.848.731/MG, Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2021, DJe 20/9/2021).
+De igual forma, a aferição da situação de foragido do recorrido, com todas as circunstâncias da alegada fuga, dependeria de reexame das provas. O acórdão recorrido apenas refere que o réu não se apresentou em juízo, situação fática bastante distinta da fuga, da evasão para lugar incerto e não sabido com o intuito de impedir a aplicação da lei. Aqui, novamente, o recurso esbarra no óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
