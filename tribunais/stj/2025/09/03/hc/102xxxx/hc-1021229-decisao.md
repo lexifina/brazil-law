@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de HEIDER GONÇALVES DE ALMEIDA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o paciente foi denunciado e preso preventivamente pela suposta prática do delito tipificado no art. 121, §2º, I e IV, c/c art. 29, ambos do Código Penal.
+No presente writ, o impetrante sustenta que a decretação da prisão preventiva foi ilegal e sem justa causa, com base em fundamentação genérica e insuficiente.
+Argumenta que a denúncia se apoia exclusivamente no depoimento de uma testemunha sigilosa, sem corroboração por outras provas, e que não há indícios concretos de autoria e materialidade.
+Requer, assim, liminarmente e no mérito, a concessão da ordem para que seja concedida a liberdade provisória ao paciente, aplicando-se quaisquer das medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal.
+As informações foram prestadas (fls. 66-77).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 79-85), nos termos da seguinte ementa :
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA, INSUFICIÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE E INEXISTÊNCIA DE PERICULUM LIBERTATIS. DECISÃO FUNDAMENTADA NA GRAVIDADE CONCRETA DO DELITO, NA NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA E NA CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. ELEMENTOS CONCRETOS DOS AUTOS, TAIS COMO LAUDOS PERICIAIS, DEPOIMENTOS E REGISTROS DE CÂMERAS DE SEGURANÇA, CORROBORAM OS INDÍCIOS. INVIABILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO DIANTE DA GRAVIDADE E PERICULOSIDADE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório. Decido.
+De início, " é  incabível, na estreita via probatória do habeas corpus, a análise acerca da existência, assentada pelas instâncias ordinárias, tanto de prova da existência do crime quanto de indício de autoria suficiente para a decretação da segregação preventiva, por demandar detido e profundo revolvimento fático-probatório dos autos" (AgRg no HC n. 743.434/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/10/2022).
+No mais, a prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do artigo 312 do Código de Processo Penal.
+Consta a seguinte fundamentação da decisão que decretou a prisão preventiva do paciente (fls. 28-30):
+ ..
+Infere-se das investigações que os réus supostamente atuam na narcotraficância no bairro Novo Horizonte, neste Município. As testemunhas relatam que a vítima, em tese, traficava na mesma região que os denunciados, contudo possuía o hábito de trocar de "boca de fumo" com certa frequência e passar informações da "boca" anterior para a nova, gerando o descontentamento dos acusados.
+Consta dos autos que a vítima teria sido levada pelos denunciados Lucas, Arnaldo e Fábio até o "Bar do Ezequiel" para se encontrar com o codenunciado Bruno. Chegando ao bar, iniciou-se uma discussão entre eles, momento em que o denunciado Lucas, supostamente fazendo uso de arma cedida pelo corréu Heider, efetuou o primeiro disparo de arma de fogo enquanto a vítima estava de costas.
+As testemunhas informam que o crime foi praticado em via pública, em frente a um Bar, e que no momento havia diversas pessoas no local.
+Vale salientar que a chegada dos réus ao referido estabelecimento comercial foi captada por câmera de segurança, reforçando o acervo indiciário que sinaliza a autoria e a dinâmica narrada pelas testemunhas.
+Desta forma, a motivação delitiva e o pano de fundo do crime, que revelam o suposto envolvimento dos réus no tráfico de entorpecentes, são fatores que realçam a periculosidade dos denunciados, servindo a custódia como garantia da ordem pública.
+Outrossim, entendo que o fato de existirem testemunhas que condicionaram as suas declarações ao sigilo de suas identidades, registrando temerem por suas vidas, revela a conveniência da prisão preventiva para a instrução processual.
+Desta forma, fica clara a necessidade da prisão cautelar dos denunciados para o fim de garantir a ordem pública, em razão da motivação delitiva e do modus operandi do crime, que revelam a periculosidade social concreta.
+ ..
+Pelos fundamentos ora expostos, (..) acolho parecer Ministerial para DECRETAR a PRISÃO PREVENTIVA dos réus HEIDER GONÇALVES DE ALMEIDA, (..).
+Como visto, há fundamentação adequada à decretação da prisão preventiva, evidenciada na necessidade de garantir a ordem pública, face à gravidade concreta do delito, praticado em via pública, em plena luz do dia, diante de diversas pessoas, com emprego de arma de fogo e vinculação a disputa por tráfico de drogas.
+"Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do empregado na empreitada modus operandi delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022)" (AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024).
+"Nos termos de reiterada jurisprudência do Superior Tribunal de Justiça, é cabível a prisão para a garantia da ordem pública, quando se sabe que o delito de homicídio qualificado foi praticado em decorrência de disputa relacionada ao tráfico drogas." (HC n. 612.602/BA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Por fim, " t endo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Diante do exposto, denego a ordem em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
