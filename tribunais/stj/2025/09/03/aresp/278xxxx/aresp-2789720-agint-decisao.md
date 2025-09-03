@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial (fls. 295-296).
+Em suas razões (fls. 300-320), a parte agravante alega que impugnou os fundamentos da decisão agravada.
+Ao final, pede a reconsideração da decisão ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 324-334).
+É o relatório.
+Decido.
+Assiste razão à parte recorrente, motivo pelo qual reconsidero a decisão da Presidência e passo a novo exame do agravo em recurso especial.
+O acórdão recorrido está assim ementado (fl. 51):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. FASE DE CUMPRIMENTO DE SENTENÇA. VERBA HONORÁRIA. PATRONO QUE PRETENDE A INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA, SOBRE O BENEFÍCIO ECONÔMICO COM A CONDENAÇÃO DA AGRAVADA AO CUSTEIO DA CIRURGIA DE QUE NE CESSITOU COM URGÊNCIA. SENTENÇA QUE CONDENOU O RÉU NO PAGAMENTO DE HONORÁRIOS SOBRE O VALOR DA CONDENAÇÃO, QUE SE LIMITA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 8.000,00 (OITO MIL REAIS). TRATA-SE DE CUMPRIMENTO DE SENTENÇA, JÁ TRANSITADA EM JULGADO, QUE FIXOU COMO BASE DO PERCENTUAL DA VERBA SUCUMBENCIAL, O VALOR DA CONDENAÇÃO, E QUE, NO CASO, A ÚNICA CONDENAÇÃO HAVIDA PELA PARTE, REPRESENTA O MONTANTE A TÍTULO DE DANOS MORAIS, NÃO HAVENDO, PORTANTO, QUE SE FALAR EM APRESENTAÇÃO DOS COMPROVANTES DO VALOR TOTAL DA CIRURGIA PARA FINS DE CÁLCULO DA VERBA SUCUMBENCIAL. O PEDIDO DA INICIAL É OBRIGAÇÃO DE FAZER OU NÃO FAZER, DECORRENTE DE PREVISÃO CONTRATUAL, CUJO PEDIDO JULGADO PROCEDENTE, NÃO ACRESCENTARÁ NADA À SUA ESFERA PATRIMONIAL, INEXISTINDO QUALQUER PROVEITO ECONÔMICO ALÉM DAQUELE JÁ ESTABELECIDO EM CONTRATO. DESSE MODO, NADA HÁ QUE SE ALTERAR A DECISÃO INTERLOCUTÓRIA, VISTO QUE PROFERIDA EM ESTRITA OBSERVÂNCIA AO ACÓRDÃO TRANSITADO EM JULGADO.
+RECURSO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração foram rejeitados (fls. 106-109).
+Nas razões do recurso especial (fls. 111-130), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente apontou dissídio jurisprudencial e ofensa aos seguintes dispositivos legais:
+(a) art. 1.022, I, do CPC/2015, porque, apesar da oposição de embargos de declaração, não teria sido suprida a contradição existente no acórdão, consistente no fato de que, ao contrário do afirmado, "consta na sentença transitada em julgado quanto ao capítulo da condenação nos ônus de sucumbência, o comando para o pagamento dos honorários de advogado sobre a condenação na obrigação de fazer, sendo certo que o acórdão proferido para a apelação não modificou a sentença no particular" (fl. 120), e
+(b) art. 85, § 2º, do CPC/2015, pois os valores gastos com o tratamento de saúde é de fácil aferição e constitui proveito econômico do autor e, portanto, deve compor a base de cálculo dos honorários de sucumbência.
+Indicou julgado do STJ a fim de demonstrar a divergência de entendimentos.
+O recurso especial não foi admitido em virtude da aplicação da Súmula n. 7/STJ (fls. 213-216).
+No agravo (fls. 230-256), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 270-276).
+Examino as alegações.
+De início, não verifico ofensa ao art. 1.022, I, do CPC/2015.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Acerca do alegado, o TJRJ consignou que o título executivo fixou como base de cálculo da verba sucumbencial o valor da condenação que, a seu entender, corresponderia aos danos morais.
+Com efeito, a contradição que dá ensejo a embargos de declaração é a interna, isto é, entre proposições do próprio julgado - o que não se verifica - e não entre o julgado e as razões da parte.
+No mais, o Tribunal de origem concluiu que (fl. 53):
+Trata-se de cumprimento de sentença, já transitada em julgado, que fixou como base do percentual da verba sucumbencial, o valor da condenação, e que, no caso, a única condenação havida pela parte, representa o montante a título de danos morais, não havendo, portanto, que se falar em apresentação dos comprovantes do valor total da cirurgia para fins de cálculo da verba sucumbencial.
+Pretende o agravante rediscutir matéria preclusa, pois não ocorreu a interposição de embargos de declaração na sentença, ou qualquer discussão sobre a base de incidência da verba sucumbencial no caso fixada sobre o valor da condenação (danos morais) e não sobre o valor total dos gastos com o procedimento cirúrgico do agravado.
+Sobre o tema, por ocasião do julgamento do EREsp 462.742/SC, acórdão publicado no DJ de 24/03/2008, o STJ firmou entendimento, no sentido de que após o trânsito em julgado da sentença é inadmissível a discussão quanto a fixação e os parâmetros dos ônus sucumbenciais, sob pena de afronta aos princípios da preclusão e da coisa julgada.
+Por obvio, o pedido da inicial é obrigação de fazer ou não fazer, decorrente de previsão contratual, cujo pedido julgado procedente, não acrescentará nada à sua esfera patrimonial, inexistindo qualquer proveito econômico além daquele já estabelecido em contrato.
+Trata-se, na origem, de cumprimento de sentença referente aos honorários de sucumbência arbitrados em ação proposta com o fim de obter da seguradora a cobertura de transplante de rins e pâncreas que havia sido negada, bem como danos morais.
+No título executivo em cumprimento a ora agravada (AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A.) foi condenada a custear o tratamento, bem como a pagar indenização por danos morais. Os honorários advocatícios, por sua vez, foram arbitrados em 10% (dez por cento) da condenação.
+Nota-se que, embora tenha havido o pleito indenizatório, a demanda não possui apenas um conteúdo econômico imediato. Pretendeu o beneficiário, de modo primordial, garantir o seu tratamento, obrigando-se a operadora a arcar com todas as despesas necessárias, sendo a condenação por danos morais acessória a essa.
+Nesse sentido, a jurisprudência desta Corte é firme no sentido de que "O título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado a título de compensação do dano moral) deve ter a sucumbência calculada sobre ambas as obrigações a que foi condenada a operadora de plano de saúde" (REsp n. 1.765.691/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/10/2020, DJe 15/10/2020).
+A propósito, confira-se, ainda, o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MEDICAMENTO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR DA CONDENAÇÃO (CPC, ART. 85, § 2º). AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência firmada na Segunda Seção desta Corte é no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+2. No caso, o êxito da demanda revelou um conteúdo condenatório mensurável, englobando o valor integral despendido pela demandada com o custeio do tratamento negado, mais o reembolso dos valores pagos pelos autores, além da verba fixada a título de dano moral, de modo que os honorários advocatícios sucumbenciais devem ser fixados sobre o valor total da condenação, consoante a regra do art. 85, § 2º, do CPC/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.638.593/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Dessarte, com razão a parte recorrente porque, na hipótese, a condenação na obrigação de fazer revelou conteúdo mensurável, devendo a verba honorária ser fixada sobre o valor total da condenação, ou seja, sobre o valor do tratamento e dos danos morais.
+Ressalte-se que não há falar em afronta à coisa julgada, uma vez que do título executivo judicial consta que a verba honorária deve ser fixada sobre o valor da condenação.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão da Presidência desta Corte (fls. 295-296) e, em novo exame, CONHEÇO do agravo nos próprios autos e DOU PROVIMENTO ao recurso especial para determinar que os honorários de sucumbência incidam sobre o total da condenação nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
