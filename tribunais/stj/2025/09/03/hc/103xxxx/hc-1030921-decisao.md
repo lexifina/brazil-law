@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEONICE SANCHES DE BARROS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Depreende-se dos autos que a paciente se encontra presa, preventivamente, pela suposta prática do delito de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão de fls. 77-86.
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor da paciente.
+Sustenta a necessidade de substituição da prisão preventiva por domiciliar.
+Aduz que "Considerando que o alegado risco à instrução processual já se encontra superado pelo fim da instrução processual e que os documentos de estudo social juntados aos autos atestam a imprescindibilidade da presença da genitora para os cuidados de seu filho adolescente, portador de diagnóstico de esquizofrenia paranoide" (fl. 4).
+Aponta ausência de fundamentação para a prisão cautelar.
+Requer, ao final, a substituição da prisão preventiva por domiciliar ou a revogação da segregação cautelar mediante cautelares alternativas à prisão.
+É  o  relatório. DECIDO.
+Quanto à possibilidade de substituição da prisão preventiva por domiciliar, cumpre consignar que o Supremo Tribunal Federal, no julgamento do habeas corpus coletivo n. 143.641/SP, sob relatoria do em. Ministro Ricardo Lewandowski, entendeu ser possível a substituição da segregação cautelar pela prisão domiciliar, sem prejuízo da aplicação concomitante das medidas cautelares previstas no artigo 319 do CPP, para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas.
+Na hipótese, tenho que não é caso de concessão da benesse.
+No caso, embora a conduta em tese perpetrada não tenha sido cometida mediante grave ameaça ou violência, tampouco contra seus descendentes, enquadra-se o caso dos autos em situação excepcionalíssima que impede a concessão do benefício da prisão domiciliar, consoante a ressalva feita quando do julgamento do habeas corpus coletivo, pelo Pretório Excelso.
+Isso porque, conforme se depreende dos autos, a paciente já se encontrava em monitoramento eletrônico e, mesmo assim, dias após, teria voltado a se envolver com a traficância; circunstância apta a afastar a prisão domiciliar na hipótese.
+Nesse sentido, consta no acórdão hostilizado:
+Porém, considerando a dependência química do jovem e o envolvimento com o tráfico de drogas da sua genitora, a qual, inclusive, guardava variedade de tóxicos na própria casa, não me parece salutar a sua colocação em prisão domiciliar, mesmo porque, ela já se encontrava sob monitoramento eletrônico e, mesmo assim, dias após, voltou a se envolver com o comércio espúrio (fl. 85).
+Ilustrativamente:
+"Neste caso, a prisão domiciliar foi negada pelo fato de ter sido a agravante condenada novamente pelo mesmo fato após o cometimento do crime objeto deste mandamus e por ter descumprido medida cautelar anteriormente imposta, rompendo a tornozeleira eletrônica que lhe havia sido colocada, juntamente com a prisão domiciliar concedida no bojo da Ação Penal n. 5021229-92.2022.8.24.0008" (AgRg no HC n. 867.007/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+"No contexto, conquanto não se desconheça o teor da decisão prolatada no HC Coletivo n. 143.641/SP, bem como a regra do art. 318-A do CPP, no que, a rigor, a acusada se enquadraria, o fato é que tais fundamentos não podem servir como salvo-conduto permanente para toda e qualquer situação envolvendo mulheres que possuam filhos pequenos, devendo cada caso ser analisado conforme suas especificidades. Na espécie, verifica-se que a ora agravante teve a prisão preventiva decretada, porque foi presa em flagrante na posse de expressiva quantidade de drogas - 6.340kg de maconha - além de ter sido recentemente condenada por crime da mesma espécie, situação excepcionalíssima que impede a concessão do benefício" (AgRg no RHC n. 193.967/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+Por fim, no que toca à tese acerca de ausência de fundamentação da segregação cautelar, bem como no que se refere ao pedido de imposição de medidas cautelares alternativas; verifico que a quaestio não foi analisada pelo Tribunal de origem no acórdão hostilizado, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+"Sob pena de indevida supressão de instância, mostra-se inviável a manifestação desta Corte sobre questão não debatida pelo Tribunal de origem, como ocorre no caso, quanto ao pleito de aplicação de medidas cautelares alternativas" (AgRg no HC n. 874.145/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
