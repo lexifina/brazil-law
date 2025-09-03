@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 28/08/2025 a 03/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGADO EXCESSO DE PRAZO. NÃO CONSTATAÇÃO. RÉU FORAGIDO E OUTRAS CIRCUNSTÂNCIAS. AGRAVO REGIMENTAL NÃO PROVIDO, COM RECOMENDAÇÃO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do agravante, sob alegação de excesso de prazo para julgamento de apelação.
+2. O agravante foi condenado a penas de reclusão e detenção por violação ao artigo 1º da Lei nº 9.613/98 e ao artigo 329 do Código Penal, com manutenção do decreto de prisão preventiva.
+3. O agravante está foragido desde 14 de janeiro de 2022, oportunidade em que foi resgatado da Cadeia local por integrantes de organização criminosa fortemente armados, o que influenciou na tramitação do processo e no reconhecimento de eventual excesso de prazo. Além disso, a intimação do corréu, que também está foragido da Justiça, precisou ser realizada por edital, o que, por si só, já é o suficiente para dilatar os prazos processuais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condição de foragido do agravante e demais circunstâncias desenvolvidas no bojo do voto afastam a alegação de constrangimento ilegal por excesso de prazo no julgamento da apelação.
+III. Razões de decidir
+5. A condição de foragido do agravante afasta a alegação de constrangimento ilegal por excesso de prazo, conforme entendimento consolidado do Superior Tribunal de Justiça.
+6. O atraso no andamento processual foi influenciado por fatores alheios à desídia estatal, incluindo a fuga do agravante e renúncias de patronos do corréu.
+7. A apelação está em vias de ser julgada, não havendo mais que se falar em excesso de prazo.
+IV. Dispositivo e tese
+8. Agravo regimental não provido, com recomendação ao Desembargador relator .
+Tese de julgamento: 1. A condição de foragido do agravante afasta a alegação de constrangimento ilegal por excesso de prazo. 2. O atraso no andamento processual deve considerar as peculiaridades do caso, incluindo a fuga do réu e renúncias de defensores.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXXVIII; Lei nº 9.613/98, art. 1º; CP, art. 329.
+Jurisprudência relevante citada: STJ, AgRg no RHC 181.862/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 14/08/2023; STJ, AgRg no HC 917.881/MT, Rel. Min. Og Fernandes, Sexta Turma, DJEN de 02/12/2024; STJ, AgRg no HC 985.911/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 06/05/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PABLO RIBEIRO LOPES SANTOS contra decisão de minha lavra, por intermédio da qual deneguei a ordem de habeas corpus e exarei recomendação ao Desembargador relator (fls. 238-242).
+Em  suas  razões,  o  agravante  pede  que  tal  decisum  seja  revisto,  pois  entende  que,  diversamente  do  que  foi  ali  consignado,  é o caso de se revogar a sua prisão preventiva e, subsidiariamente, substituí-la por cautelares diversas.
+Argumenta, em suma, que ocorre excesso de prazo para o julgamento da apelação.
+Com  suporte  nessas  alegações,  pugna  pela  reconsideração  da  decisão  agravada  ou,  caso  assim  não  se  entenda,  pela  apreciação  do  agravo  regimental  pela  Sexta  Turma  do  Superior  Tribunal  de  Justiça,  com  o  provimento  do  recurso  e  a  concessão  da  ordem  pleiteada.
+A Defesa protocolou a Petição n. 643.051/2025 (fls. 260-278), por meio da qual pede reconsideração da decisão monocrática, reiterando a tese de excesso de prazo para o julgamento da apelação e informando que a apreciação da apelação restou adiado para o dia 14/08/2025, tendo em vista a quantidade elevada de sustentações orais já anotadas para a sessão do dia 1707/2025 (fl. 267).
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGADO EXCESSO DE PRAZO. NÃO CONSTATAÇÃO. RÉU FORAGIDO E OUTRAS CIRCUNSTÂNCIAS. AGRAVO REGIMENTAL NÃO PROVIDO, COM RECOMENDAÇÃO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a prisão preventiva do agravante, sob alegação de excesso de prazo para julgamento de apelação.
+2. O agravante foi condenado a penas de reclusão e detenção por violação ao artigo 1º da Lei nº 9.613/98 e ao artigo 329 do Código Penal, com manutenção do decreto de prisão preventiva.
+3. O agravante está foragido desde 14 de janeiro de 2022, oportunidade em que foi resgatado da Cadeia local por integrantes de organização criminosa fortemente armados, o que influenciou na tramitação do processo e no reconhecimento de eventual excesso de prazo. Além disso, a intimação do corréu, que também está foragido da Justiça, precisou ser realizada por edital, o que, por si só, já é o suficiente para dilatar os prazos processuais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a condição de foragido do agravante e demais circunstâncias desenvolvidas no bojo do voto afastam a alegação de constrangimento ilegal por excesso de prazo no julgamento da apelação.
+III. Razões de decidir
+5. A condição de foragido do agravante afasta a alegação de constrangimento ilegal por excesso de prazo, conforme entendimento consolidado do Superior Tribunal de Justiça.
+6. O atraso no andamento processual foi influenciado por fatores alheios à desídia estatal, incluindo a fuga do agravante e renúncias de patronos do corréu.
+7. A apelação está em vias de ser julgada, não havendo mais que se falar em excesso de prazo.
+IV. Dispositivo e tese
+8. Agravo regimental não provido, com recomendação ao Desembargador relator .
+Tese de julgamento: 1. A condição de foragido do agravante afasta a alegação de constrangimento ilegal por excesso de prazo. 2. O atraso no andamento processual deve considerar as peculiaridades do caso, incluindo a fuga do réu e renúncias de defensores.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXXVIII; Lei nº 9.613/98, art. 1º; CP, art. 329.
+Jurisprudência relevante citada: STJ, AgRg no RHC 181.862/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 14/08/2023; STJ, AgRg no HC 917.881/MT, Rel. Min. Og Fernandes, Sexta Turma, DJEN de 02/12/2024; STJ, AgRg no HC 985.911/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 06/05/2025.
+VOTO
+O inconformismo não prospera.
+Com efeito, este recurso interposto não apresenta argumento capaz de desconstituir os fundamentos que amparam a decisão ora impugnada, que deve ser integralmente mantida, in verbis (fls. 238-242; grifamos):
+No  tocante  ao  alegado  excesso  de  prazo  para  a formação da culpa,  importante  registrar  que
+ ..  a  aferição  do  excesso  de  prazo  reclama  a  observância  da  garantia  da  duração  razoável  do  processo,  prevista  no  art.  5º,  LXXVIII,  da  Constituição  Federal.  Tal  verificação,  contudo,  não  se  realiza  de  forma  puramente  matemática.  Demanda,  ao  contrário,  um  juízo  de  razoabilidade,  no  qual  devem  ser  sopesadas  as  peculiaridades  da  causa  ou  quaisquer  fatores  que  possam  influir  na  tramitação  (HC  n.  541.104/SP,  rel.  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  18/02/2020,  DJe  de 27/02/2020).
+A Magistrada de primeiro grau, ao prestar esclarecimentos, explicitou algumas particularidades acerca do andamento do processo. Dentre essas, consignou que a ordem de prisão contra o ora paciente foi mantida na sentença condenatória, uma vez que ele, preso em flagrante delito, foi resgatado da Cadeia local por integrantes de organização criminosa fortemente armados e se encontra foragido até os dias atuais (fl. 143; grifamos).
+O Tribunal estadual registrou o seguinte sobre a tese que defende a desídia estatal (fls. 146-149; grifamos):
+ ..  Nos autos da Ação Penal nº 1500202-75.2022.8.26.0536, da Primeira Vara Criminal da Comarca de Guarujá, o ora paciente foi condenado às penas de 04 (quatro) anos de reclusão e de 02 (dois) meses e 10 (dez) dias de detenção, no regime inicial semiaberto, e 13 (treze) dias-multa, por violação ao artigo 1º, caput, da Lei nº 9.613/98, e ao artigo 329, caput, na forma dos artigos 29, caput, e 69, todos do Código Penal, e absolvido da imputação da prática dos crimes previstos nos artigos 33, caput, e 35, caput, ambos da Lei nº 11.343/06, com fundamento no artigo 386, inciso VII, do Código de Processo Penal, negado o recurso em liberdade, ficando mantido o decreto de prisão preventiva (fls. 146).
+O corréu Roberto Prieto Filho, por sua vez, foi condenado às sanções de 20 (vinte) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, no regime fechado, e 2.346 (dois mil, trezentos e quarenta e seis) dias-multa, por incurso nos artigos 33, caput, e 35, caput, ambos da Lei Antidrogas, e no artigo 1º, caput, da Lei nº 9.613/98, na forma dos artigos 29, caput, e 69, ambos do Estatuto Repressivo, vedado recorrer em liberdade (fls. 147).
+Contra a sentença insurgiram-se as Defesas do ora paciente e de Roberto.
+O feito foi recebido nesta Casa aos 19 de julho de 2023 e distribuído aos 18 de agosto seguinte, com manifestação dos patronos dos pacientes, aos 23 e 24 de agosto subsequentes, de oposição ao julgamento virtual.
+Colhido o parecer da Procuradoria Geral de Justiça, o Relator, aos 23 de fevereiro de 2024, indeferiu o pedido liminar do corréu Roberto para declaração de nulidades apontadas.
+Encaminhado o feito ao Revisor, aos 22 de maio de 2024 foi ele remetido à Mesa para julgamento.
+Diante da renúncia do defensor constituído do corréu, Doutor Alberto de Amorim Michele, foi determinado pelo Relator, aos 10 de junho de 2024, a intimação do advogado Doutor Ahmad Lakis Neto, que foi substabelecido, para dar continuidade à defesa (fls. 147).
+Informado que o causídico substabelecido também havia renunciado, o Relator, aos 17 de julho de 2024, ordenou a intimação de Roberto para constituir novo patrono e, no silêncio, fosse-lhe nomeado defensor público ou dativo, com o retorno dos autos para o julgamento (fls. 148).
+Baixados os autos para cumprimento da decisão e considerando que Roberto estava foragido, foi expedido edital de intimação, tendo ele constituído novo defensor, que requereu o restabelecimento da tramitação da ação penal.
+Remetido o feito a este Tribunal, o novo patrono de Roberto requereu a reabertura da instrução, sob a alegação de que haveria fatos novos, sendo o pleito indeferido aos 02 de outubro de 2024.
+Contra essa decisão foi interposto agravo regimental, ao qual, em julgamento virtual finalizado aos 22 de janeiro de 2025, por unanimidade, foi negado provimento pela Décima Terceira Câmara de Direito Criminal (fls. 148).
+Não havendo registro de interposição de recurso, o feito foi enviado à Vara de origem aos 27 de fevereiro de 2025 e, observado o equívoco, devolvido a esta Casa aos 20 de março subsequente.
+Aos 04 de abril transato, em razão de permuta, houve alteração da relatoria do Desembargador Marcelo Semer para o Desembargador Rodrigues Torres (fls. 149).
+Conclusos os autos, iniciou-se o julgamento virtual aos 12 de maio último.
+Os defensores do paciente e do corréu postularam a suspensão do julgamento virtual com inclusão em sessão presencial ou por videoconferência, uma vez que já apresentada a oposição a tal forma de julgamento (fls. 149).
+Retirado o feito do julgamento virtual aos 14 de maio último, encontra-se concluso ao Revisor.
+No hipótese, com suporte nas informações processuais prestadas, entendo que, embora substancial o período entre a interposição do recurso apelação até o presente momento, entendo que não há razão para reconhecer o alegado excesso de prazo pois  plausíveis  as  razões  consignadas  pelas  instâncias  ordinárias  para  afastar  a  tese  de  ocorrência  de  desídia  estatal,  até  porque  não  é  constatável  ofensa  ao  princípio  da  razoabilidade  na  formação  da  culpa,  mormente  se  consideradas algumas peculiaridades do caso concreto:
+1) PABLO está foragido da Justiça desde 14 de janeiro de 2022;
+2) os autos estavam prontos para julgamento em 22 de maio de 2024, quando foram remetidos à Mesa para isso;
+3) sucessivas renúncias de patronos do corréu ROBERTO, que determinaram sua intimação por edital para constituir outro advogado, uma vez que também está foragido da Justiça;
+4) novo defensor do corréu requereu restabelecimento da tramitação da ação penal e pugnou pela reabertura da fase de instrução, o que foi indeferido em 02 de outubro de 2024. Interposto agravo regimental contra essa decisão, em 22 de janeiro de 2025, o recurso não foi provido.
+Pois bem. Afora todo esse importante atraso no andamento processual provocado pela defesa do corréu, é de se observar que, realmente, houve um equívoco por parte do Tribunal estadual ao remeter o feito a origem, em 27 fevereiro de 2025, mas que, em 20 de março de 2025, constatado o desacerto, os autos foram devolvidos à Corte a quo.
+Em 12 de maio corrente, o julgamento virtual da apelação foi iniciado. No entanto, diante da insistência dos defensores do paciente e do corréu para que a apreciação do recurso se desse em sessão presencial ou por videoconferência - uma vez que já havia sido protocolada oposição contra essa modalidade de julgamento -, o feito foi retirado de pauta e os autos foram conclusos ao Revisor.
+Em consulta ao site do Tribunal de Justiça do Estado de São Paulo, pude constatar nos autos da Ação Penal em comento (n. 1500202-75.2022.8. 26.0536) que, ao que parece, a apelação está na iminência de ser julgada, não havendo mais que se falar em excesso de prazo.
+Ademais,
+Estando o acusado foragido desde o início da ação penal, não há que se falar em constrangimento ilegal por excesso de prazo, pois esta Corte Superior de Justiça possui entendimento de que tal condição afasta a aludida coação (AgRg no RHC n. 181.862/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023) (AgRg no HC n. 917.881/MT, relator Ministro Og Fernandes, Sexta Turma, DJEN de 2/12/2024.) (AgRg no HC n. 985.911/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025; grifamos).
+A condição de foragido do agravante afasta a alegação de constrangimento ilegal por excesso de prazo. Precedentes" (AgRg no HC n. 737.815/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022). (AgRg no HC n. 883.775/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025; grifamos).
+Ante o exposto, denego a ordem de habeas corpus. Contudo, determino a remessa de cópia da presente decisão ao Desembargador relator da Apelação n. 1500202-75.2022.8.26.0536, com a recomendação de envidar esforços no sentido de garantir celeridade no julgamento do recurso.
+Conforme  ressaltado na  decisão  monocrática supra,  as instâncias ordinárias se valeram de fundamentação legítima para rejeitar a tese de que estaria ocorrendo excesso de prazo para o julgamento da apelação em virtude de desídia estatal.
+A propósito, mutatis mutandis:
+Ademais, no que tange à alegação de excesso de prazo, é imperioso destacar que "a fuga do paciente constitui obstáculo ao reconhecimento de constrangimento ilegal por excesso de prazo. Nesse sentido: "Estando o acusado foragido desde o início da ação penal, não há que se falar em constrangimento ilegal por excesso de prazo, pois esta Corte Superior de Justiça possui entendimento de que tal condição afasta a aludida coação" (AgRg no RHC n. 181.862/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023)" (AgRg no HC n. 917.881/MT, relator Ministro Og Fernandes, Sexta Turma, DJEN de 2/12/2024.) (AgRg no HC n. 985.911/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025; grifamos).
+A análise de eventual atraso no andamento processual não se pode deixar de observar as peculiaridades do feito, em que o réu deixou de comparecer aos autos, permanecendo em local incerto e não sabido, o que naturalmente acarretou certo atraso na tramitação do feito. Ademais, " a  condição de foragido do agravante afasta a alegação de constrangimento ilegal por excesso de prazo. Precedentes" (AgRg no HC n. 737.815/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022). (AgRg no HC n. 883.775/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025; grifamos).
+Por fim, anoto que, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, pude constatar que o recurso de apelação da Ação Penal em comento (n. 1500202-75.2022.8.26.0536) está em vias de ser apreciado, uma vez que há registros virtuais designando o dia 14/08/2025 para a realização do julgamento.
+Aliás, por intermédio da Petição n. 643.051/2025 (fls. 260-278), a própria Defesa, registrou à fl. 267 que, tendo em vista a quantidade elevada de sustentações orais já anotadas para a sessão do dia 17/07/2025, a apreciação da apelação se dará na sessão do dia 14/08/2025 (fl. 267).
+Logo, ao que parece, não há mais motivo para se falar em excesso de prazo.
+Ante o exposto, nego provimento ao agravo regimental, determinando remessa de cópia do presente acórdão ao Desembargador relator da Apelação n. 1500202-75.2022.8.26.0536, com a recomendação de envidar esforços no sentido de garantir celeridade no julgamento do recurso. Com a apreciação da petição de agravo regimental, resta prejudicada a análise do pedido de reconsideração de fls. 260-278.
+É o voto.
