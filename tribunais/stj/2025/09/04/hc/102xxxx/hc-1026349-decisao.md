@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JEFFERSON NOVAIS NEVES REZENDE, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0012662-44.2025.8.26.0996).
+Na inicial, a defesa informa que o paciente, durante o gozo de saída temporária, teria cometido falta disciplinar de natureza grave, consistente em violação do perímetro permitido, o que resultou na perda de 1/3 dos dias remidos (fls. 3-4).
+Alega que a conduta do paciente não se subsume a qualquer das faltas graves previstas nos arts. 50 a 52 da Lei de Execução Penal, sendo despida de periculosidade e ofensividade ao estabelecimento prisional, devendo ser classificada como falta disciplinar de natureza média, conforme o Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo (fls. 5-6).
+A defesa sustenta que a perda dos dias remidos deve ser limitada ao mínimo legal, em razão das circunstâncias judiciais favoráveis do art. 57 da Lei de Execução Penal (fls. 9).
+No mérito, requer a concessão da ordem de habeas corpus para cassar o acórdão estadual e restabelecer a decisão de primeira instância que reconheceu a infração disciplinar de natureza média. Subsidiariamente, caso mantida a falta de natureza grave, requer a limitação da perda dos dias remidos ao mínimo legal (fls. 10).
+As informações foram prestadas às fls. 86-89 e fls. 95-114.
+O Ministério Público Federal manifestou-se, às fls. 117-121, pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Primeiramente, verifica-se que o acórdão recorrido, após regular processo administrativo disciplinar, com as garantias do contraditório, da ampla defesa e do devido processo legal, impôs em desfavor do paciente infração disciplinar de natureza grave.
+No tocante ao pleito de absolvição, observa-se que as instâncias ordinárias assentaram que restou devidamente comprovada a prática da infração disciplinar, após ampla análise dos fatos e provas produzidos nos autos. Confiram-se alguns excertos referentes à apreciação do tema pelo Tribunal de origem (fls. 28-36):
+O comunicado de evento aponta que o agravado, durante a saída temporária, descumpriu o perímetro do monitoramento eletrônico por seis vezes, não permanecendo no endereço declarado entre as 20h32 e 20h36 do dia 23 de dezembro de 2024, entre as 03h51 e 03h56 do dia 26 de dezembro de 2024, entre as 04h30 e 05h00 do dia 29 de dezembro de 2024, entre as 00h01 e 00h02 do dia 30 de dezembro de 2024, entre as 19h05 e 21h54 do dia 01 de janeiro de 2025 e entre as 00h39 e 01h21 do dia 02 de janeiro de 2025 (fls. 21).
+Inquirido acerca do ocorrido, o sentenciado disse que saiu da unidade prisional e foi para Guaianases, na residência de sua esposa, onde permaneceu durante a saída temporária. Na noite de Natal, sua filha havia ingerido bebida alcóolica e alguns garotos queriam que ela entrasse em um veículo, por isso foi ajudá-la. Afirmou que nos outros dias saiu, mas não tinha conhecimento de que não poderia, tendo em vista que foi a primeira vez que utilizava tornozeleira eletrônica (fls. 30).
+ ..
+Conforme o artigo 146-C, inciso I, da Lei de Execução Penal, o agravado foi instruído acerca dos cuidados que deveria adotar com o equipamento eletrônico e do dever de cumprir as orientações, presumindo- se, assim, que tinha ciência das referidas regras.
+Como se vê, o agravado violou o perímetro do monitoramento eletrônico, por diversas vezes, assim, descumpriu as condições impostas para a benesse da saída temporária. Tal conduta revela a violação dos deveres de obediência ao servidor e de execução das ordens recebidas, revestindo-se de gravidade, sendo adequado, portanto, o reconhecimento de falta de natureza grave, com fundamento no artigo 50, inciso VI, da Lei de Execução Penal.
+Dos autos, portanto, não se afere qualquer ilegalidade.
+A falta grave foi devidamente fundamentada em análise provas, de forma que não há como se afastar ou mesmo desclassificar a imputação disciplinar na hipótese pelo Superior Tribunal de Justiça na via do habeas corpus.
+Nesse contexto, para modificar as decisões das instâncias ordinárias para absolver ou desclassificar a falta imputada ao paciente, seria necessária a aprofundada incursão no acervo fático-probatório produzido no processo disciplinar, providência, sabidamente, inviável na via estreita do habeas corpus ou do seu recurso ordinário, remédio de rito célere e que não admite dilação probatória.
+Nesse sentido:
+ ..
+1- O Superior Tribunal de Justiça consolidou entendimento no sentido de ser "desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica" (HC n. 333.233/SP, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 6/11/2015).
+2- O apenado, ao ser interrogado administrativamente, foi "ouvido na presença de Defensor da FUNAP, de modo que foi possibilitado exercer amplamente seu direito de defesa, tanto o é que sustentou sua justificativa para o ato, de modo que a defesa esteve atuante e presente em todos os momentos necessários do PAD, inclusive nas aludidas oitivas testemunhais.
+3- A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave (..). A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  ..  (HC n.º 391.170/SP, Rel. Min. NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).
+4- "O habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas"  ..  (AgRg no HC 560.935/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/06/2020, DJe 23/06/2020).
+5- A análise de que o fato praticado configura ou não infração disciplinar administrativa, seja de natureza leve, média ou grave, demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita.
+6- Agravo regimental não provido.
+(AgRg no HC n. 885.403/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DESOBEDIÊNCIA. FALTA GRAVE. PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVA. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. A não obediência às ordens recebidas dos agentes da unidade prisional constitui falta grave.
+2. Para modificar a decisão de origem, a fim de absolver o paciente em relação à falta disciplinar, seria necessário o reexame do acervo fático-probatório, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC n. 899.739/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+No que concerne à perda dos dias remidos, vale consignar que o entendimento desta Corte de Justiça é no sentido de que, reconhecida a prática de falta grave pelo apenado, é poder-dever do Juízo da Execução a aplicação dos consectários legais, inclusive a perda dos dias remidos, sendo objeto de análise discricionária apenas o quantum de dias a serem perdidos. Nesse sentido:
+ ..
+1. A partir da vigência da Lei n. 12.433/2011, que alterou a redação do art. 127 da Lei de Execução Penal, a penalidade consistente na perda de dias remidos pelo cometimento de falta grave passou a ter nova disciplina, não mais incidindo sobre a totalidade do tempo remido, mas apenas até o limite de 1/3 (um terço) desse montante, cabendo ao Juízo das Execuções, com certa margem de discricionariedade, aferir o quantum, levando em conta "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão", consoante o disposto no art. 57 da LEP.
+ ..
+3. Agravo regimental desprovido"
+(AgRg no HC n. 791.297/MG, Sexta Turma, Rel. Min. An tonio Saldanha Palheiro, DJe de 19/4/2023, grifei).
+ ..
+3. Quanto à perda dos dias remidos, com o advento da Lei n. 12.433, de 29 de junho de 2011, que alterou a redação do art. 127 da Lei n. 7.210/1984, a prática de falta grave no curso da execução implica em perda de até 1/3 (um terço) desses dias, devendo o Juízo das Execuções aplicar a fração cabível à espécie, de forma devidamente fundamentada, sendo a perda dos dias remidos medida impositiva, ficando no juízo de discricionariedade do Julgador circunscrito à fração da perda. Precedentes do STJ.
+ ..
+5. Recurso especial conhecido e provido"
+(REsp n. 1.960.812/RS, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 17/12/2021).
+Na hipótese, a fração de 1/6 aplicada para a perda dos dias remidos mostra-se adequada e proporcional aos fatos, conforme assentado pelo Tribunal de origem (fl. 119)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intim em-se.
+ EMENTA
