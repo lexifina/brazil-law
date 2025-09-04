@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 214):
+DIREITO CONSTITUCIONAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIREITOS HUMANOS. CONSEQUENCIAS DE SEGREGAÇÃO OFICIAL DOS PACIENTES ACOMETIDOS DE HANSENÍASE E DE SEUS FAMILIARES. IMPRESCRITIBILIDADE DO DIREITO DE AGIR.
+1. Parte autora descendente de pacientes portadores de hanseníase, compulsoriamente afastados dos convívios social e familiar.
+2. Descendente acolhida em instituição de caridade e lá mantida compulsoriamente, sem qualquer contato com os familiares.
+3. Consequência de políticas públicas sanitárias severas adotadas, em época pretérita, na qual ainda não havia medicação eficiente para controle do flagelo altamente contagioso da lepra.
+4. Situação de filhos afastados dos pais, por ação governamental federal impositiva, poderá, mediante o exame da prova substancial, comportar indenização por danos morais, na medida em que o direito de agir, em matéria de Direitos Humanos invioláveis, é imprescritível.
+5. Anulação da sentença que pronunciou a prescrição com base na Lei nº 11.520, de 19/09/2007 c/c art. 1º do Decreto nº 20.910/1932, com retorno dos autos à origem para reabertura da instrução probatória e consequente edição de nova sentença de mérito.
+6. Apelação à qual se dá provimento.
+Em suas razões (fls. 216/221), a parte recorrente alega, além da divergência jurisprudencial, violação aos arts. 1º do Decreto 20.910/1932 e 189 do Código Civil, sustentando que o acórdão recorrido desconsiderou a jurisprudência do Superior Tribunal de Justiça sobre a prescrição quinquenal em ações contra a Fazenda Pública.
+Requer o provimento do recurso especial a fim de conhecer a prescrição do direito material.
+Contrarrazões apresentadas às fls. 222/229.
+O recurso foi admitido na origem à fl. 230.
+Em petição de fl. 247, a União informa a inviabilidade de autocomposição nos presentes autos.
+É o relatório.
+O recurso não deve ser conhecido.
+Da análise dos autos, observa-se que o Tribunal Regional Federal da 4ª Região, ao afastar a prescrição dos autos, concluiu que a "situação de filhos afastados dos pais, por ação governamental federal impositiva, poderá, mediante o exame da prova substancial, comportar indenização por danos morais, na medida em que o direito de agir, em matéria de Direitos Humanos invioláveis, é imprescritível" (fl. 214). Confira-se, por oportuno, a fundamentação do acordão (fls. 211/212):
+De plano, cabe destacar que as políticas sanitárias concretizadas, ao longo de 50 (cinquenta) anos, desde a década de 30 até a década de 80 do Século XX, ocorreram por ação direta do Governo Federal.
+Já julguei, na 1ª Instância, muitas ações como a presente. Os casos envolvem as segregações ocorridas em relação aos internados na chamada Fazenda Itapuã, local nas imediações da Cidade de Porto Alegre, para onde eram levadas as pessoas acometidas de hanseníase, sendo afastadas, por completo, dos filhos e dos familiares, bem como de qualquer possibilidade de convívio social.
+São histórias humanas dramáticas, tanto para os egressos de tal sistema de segregação, quanto para os filhos que foram afastados de seus pais doentes, sendo colocados em instituições de caridade ou adotados por famílias estranhas.
+Podemos compreender que, naquela época, as pessoas e as autoridades, de modo geral, não sabiam como lidar com uma doença milenar assustadora - e altamente contagiosa - como a hanseníase. A doença vem aterrorizando os seres humanos desde tempos imemoriais, sendo a lepra, inclusive, citada em relatos de historiadores e arqueólogos, como um flagelo que facilmente se espalhava por populações inteiras.
+Na realidade, só recentemente, encontrou-se solução nas medicações eficientes da Medicina contemporânea. Hoje, de fato, é uma doença que pode ser facilmente tratada, na própria Rede Pública, e superada sem quaisquer sequelas. Mas, não se pode ignorar que, ao redor do mundo inteiro, até a 2ª Guerra Mundial, o quadro sanitário era bem diferente.
+Ausentes medicações eficientes, a sociedade humana encontrou, como alternativa, o afastamento dos doentes dos convívios familiar e social. Era o único modo de evitar a rápida propagação do flagelo altamente contagioso. Podemos entender tudo isso, mas é inarredável a questão consequente: como ficaram os aspectos psíquicos e emocionais das pessoas afetadas pela lepra, fossem elas os doentes, fossem elas seus familiares
+A essa indagação, o bom Direito nos oferece uma resposta: o alcance da condição humana e a correlata imprescritibilidade das ações que pretendem reparar os atos que a afetam negativamente.
+Compulsando os autos, observo que a nobre Juíza Federal, antes de pronunciar a prescrição, fez análise minuciosa dos dados disponíveis, avaliando a data de nascimento da autora, a data em que completou 16 anos de idade e, sobretudo, a data da edição da importante Lei nº 11.520/2007, a qual concedeu pensão especial às pessoas atingidas pela lepra que foram submetidas a isolamento e internação compulsórias até 31/12/1986.
+A princípio, a autora se enquadraria nesse perfil legal de pessoas compulsoriamente internadas por decorrência do mal contagioso que afligia seus pais. Sendo assim, ela teria, tecnicamente falando, à luz do Decreto nº 20.910/1932, até a data de 19/09/2012, para se movimentar, judicialmente, procurando a reparação de seus direitos subjetivos malferidos pela ação do Governo Federal.
+Contudo, pedindo toda a licença à eminente Magistrada Federal, entendo que estamos no âmbito muito específico de violação dos Direitos Humanos mais elementares, os quais merecem ser avaliados, superando-se a questão da prescrição.
+Saliento que, em absoluto, não estou aqui definindo qual deverá ser o julgamento de mérito, o qual ficará a cargo do(a) Magistrado(a) que, segundo seu livre convencimento racional, apreciará a prova substancial produzida pelas partes.
+Por decorrência, meu voto é, acolhendo os termos da apelação interposta pela autora, anular a sentença, para afastar a prescrição, determinando o retorno do feito à origem, com a reabertura da instrução probatória e consequente emissão de um julgamento do mérito propriamente dito.
+Ante o exposto, voto por dar provimento à apelação, anulando a sentença, com retorno dos autos à origem para que, superada a questão da prescrição, seja dado seguimento à instrução, prolatando nova sentença de mérito, propriamente dito.
+Da leitura das razões recursais, verifica-se a deficiência da fundamentação recursal, pois não foram refutados os fundamentos do acórdão para decidir pela imprescritibilidade do direito de agir em matéria de direitos humanos.
+Dessa forma, na espécie, tem incidência a Súmula n. 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A esse respeito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO. ATIVIDADE ESPECIAL. HABITUALIDADE E PERMANÊNCIA NÃO DEMONSTRADAS. INVERSÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULAS 283 E 284 DO STF. HONORÁRIOS RECURSAIS. LIMITE LEGAL. OBSERVÂNCIA.
+(..)
+2. Não se conhece de recurso especial que deixa de impugnar os fundamentos do acórdão recorrido. Incidência das Súmulas 283 e 284 do STF.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.725.968/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/4/2025, DJEN de 6/5/2025.) (grifos acrescidos).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. EMBARGOS À EXECUÇÃO FISCAL. PRAZO PARA APRESENTAÇÃO. INTIMAÇÃO DA PRIMEIRA PENHORA. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.839.440/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.) (grifos acrescidos).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. SERVIDOR. TESES RECURSAIS DISSOCIADAS DO TEOR DE DISPOSITIVOS ARROLADOS NO RECURSO E AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL. SÚMULA 284/STF. ÔNUS DA PROVA. ART. 373, I, DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO
+INTERNO DESPROVIDO.
+1. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido, trazendo alegações dissociadas do que foi decidido pelo Tribunal de origem. Incidência da Súmula 284 do Supremo Tribunal Federal.
+2. O entendimento no sentido do descumprimento, por parte do município recorrente, do pagamento de verbas trabalhistas ao recorrido, especificamente 13º salário e férias com o adicional adicional de 1/3, em razão do exercício da carga comissionada do Procurador-Geral no período de 2016 a 2020, atrai a aplicação da Súmula 7/STJ.3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.696.658/PE, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 19/3/2025, DJEN de 25/3/2025.) (grifos acrescidos).
+Passo seguinte, no que concerne ao dissídio jurisprudencial aventado na interposição pela alínea "c", observa-se que a parte recorrente não cumpriu os requisitos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, uma vez que apenas apontou os números dos julgados desta Corte Superior que, no seu entender, divergiram do entendimento adotado pelo Tribunal de origem, sem realizar o necessário cotejo analítico entre os paradigmas mencionados e o aresto recorrido, não restando evidenciadas as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Além disso, não houve a juntada de certidões ou cópias dos julgados apontados como divergentes, tampouco foi feita a indicação de repositório oficial ou credenciado onde se encontram publicados.
+Dessa forma, o recurso também não merece prosperar no ponto, como se depreende da leitura dos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. APELAÇÃO E REMESSA NECESSÁRIA. CONSELHO REGIONAL DE MEDICINA - CRM/ES. CREDENCIAMENTO. EXIGÊNCIA DE MÉDICO COM TÍTULO DE ESPECIALISTA EM PSIQUIATRIA. DISSÍDIO JURISPRUDENCIAL. ARTS. 17 E 18 DA LEI 3.268/1957. NECESSIDADE DE INTERPRETAÇÃO DE ATOS NORMATIVOS INFRALEGAIS. INADEQUAÇÃO DA VIA RECURSAL. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade, pelo próprio advogado, ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados, conforme art. 1.029, § 1º, do CPC/2015 e art. 255, §1º, do RISTJ - exige-se a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos, nos termos legais e regimentais, não bastando a mera transcrição de ementas, bem como da identidade fática entre os acórdãos confrontados, o que não ocorreu no caso.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.551.128/ES, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+PROCESSUAL CIVIL. CIVIL. OBRIGAÇÕES. AÇÃO OBJETIVANDO COBERTURA SECURITÁRIA DECORRENTE DE CONTRATO DE MÚTUO. SISTEMA FINANCEIRO DE HABITAÇÃO. SÚMULA N. 284 DO STF. FCVS. CONTRATOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+(..)
+II - De início, deve-se ressaltar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade, pelo próprio advogado, ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados -, nos termos do art. 1.029, § 1º, do CPC e art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos, nos termos legais e regimentais, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando a simples transcrição de ementas, sem realizar o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretação. Nesse sentido: STJ, AgInt no AREsp 1.145.301/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2018; STJ, AgInt no AREsp 1.290.738/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; STJ, AgRg nos EDcl no AREsp 1.447.962/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 7/10/2019.
+(..)
+VI - Agravo interno improvido.
+(AgInt no REsp n. 1.639.861/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso tenha havido fixação de honorários advocatícios na instância de origem, determino sua majoração em 10% do valor arbitrado, a teor do contido no § 11 do artigo 85 do Código de Processo Civil, com observância dos limites estabelecidos nos §§ 2º e 3º do mencionado dispositivo e de eventual isenção ou concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL E ADMINISTRATIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. INTERPOSIÇÃO PELA ALÍNEA "C" DO AUTORIZADOR CONSTITUCIONAL. DIVERGÊNCIA JURISPRUDENCIAL. ART. 1.029, §1º, DO CPC, E ART. 255/RISTJ. INOBSERVÂNCIA. RECURSO ESPECIAL NÃO CONHECIDO.
