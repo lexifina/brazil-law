@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por NICOLAS BRYAN HANEMANN, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA na Apelação Criminal n. 5004004-04.2024.8.24.0036/SC.
+No recurso especial, a defesa aponta a violação dos arts. 157, § 1º, e 240, § 1º, ambos do Código de Processo Penal, sob a tese de que a busca domiciliar foi nula (fls. 250/268).
+Ao final da peça recursal, requer o provimento da insurgência para que seja reconhecida a ilicitude das provas obtidas em decorrência do ingresso ilegal no domicílio do recorrente NICOLAS BRYAN HANEMANN, absolvendo-o com fundamento no artigo 386, inciso VII, do Código de Processo Penal (fl. 268).
+O recurso especial foi admitido na origem (fls. 277/280).
+O Ministério Público Federal opina pelo desprovimento do recurso, mas pela concessão de habeas corpus de ofício, para afastar as circunstâncias consideradas negativas na fixação da pena-base, redimensionando-se as penas (fls. 286/299).
+É o relatório.
+O Supremo Tribunal Federal, no julgamento do RE n. 603.616/RO (Tema 280 de repercussão geral), estabeleceu que o ingresso em domicílio sem mandado judicial só é lícito em situações de flagrante delito, desde que amparado em fundadas razões que sejam devidamente justificadas, ainda que a posteriori.
+Segundo o acórdão de origem, a busca domiciliar foi justificada pela presença de fundadas razões que legitimaram o ingresso dos policiais militares na residência. Especificamente, o Tr ibunal destacou que os policiais receberam denúncia anônima sobre o cultivo de plantas de maconha na residência e, ao chegarem ao local, visualizaram previamente as plantas de maconha do lado externo da casa, da própria via pública (fl. 240).
+O acórdão fundamentou que, embora ausente ordem judicial, a entrada forçada se justifica quando os policiais agem com base em fatores capazes de apontar a provável prática de crime no interior do imóvel. No caso concreto, a visualização prévia das plantas de maconha no terreno, somada ao contexto da denúncia sobre o cultivo, ofereceu o substrato objetivo para caracterizar crime permanente em flagrante delito (fls. 240/241).
+Assim, no caso em tela, as circunstâncias concretas indicadas nos autos são suficientes para justificar o ingresso domiciliar, já que era possível visualizar a prática delitiva a partir da rua, o que corroborou a denúncia. Confiram-se: AgRg no HC n. 991.470/GO, Ministro Ribeiro Dantas, Quinta Turma, DJEN de 8/5/2025; e AgRg no AREsp n. 2.839.109/SC, Ministro Messod Azulay Neto, Quinta Turma, DJEN de 30/4/2025.
+É o caso, pois, de incidir a Súmula 568/STJ.
+Por fim, deixo de conceder o habeas corpus de ofício pleiteado pelo MPF. Isto porque, segundo a jurisprudência desta Corte, a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito (AgRg no AREsp n. 864.464/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 30/5/2017). No caso, inexiste ilegalidade a ensejar a revisão de ofício.
+Em face do exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FUNDADAS RAZÕES DEMONSTRADAS. FLAGRANTE DELITO. PÉS DE MACONHA VISUALIZADOS DA RUA. DENÚNCIA PRÉVIA. ILEGALIDADE. AUSÊNCIA. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA.
+Recurso especial improvido.
