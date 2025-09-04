@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO SÉRGIO COIMBRA JUNIOR contra acórdão da 1ª Câmara Criminal do Tribunal de Justiça do Espírito Santo, no HC n. 5002124-95.2025.8.08.0000, assim ementado:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. PRISÃO PREVENTIVA. INEXISTÊNCIA DE ILEGALIDADE. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus, com pedido de liminar, impetrado em favor de Paulo Sérgio Coimbra Junior, sob alegação de constrangimento ilegal decorrente da manutenção de sua prisão preventiva e da ausência de justa causa para a ação penal. O impetrante sustenta que a denúncia baseia-se exclusivamente em depoimentos de testemunhas indiretas, sem provas materiais suficientes, e requer o trancamento da ação penal ou, subsidiariamente, a substituição da prisão por medidas cautelares diversas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se há justa causa para o prosseguimento da ação penal, diante da alegada insuficiência probatória; e (ii) avaliar a legalidade da prisão preventiva, considerando a suposta ausência dos requisitos do art. 312 do Código de Processo Penal.
+III. RAZÕES DE DECIDIR
+3. O trancamento da ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando demonstrada, de plano, a atipicidade da conduta, a ausência manifesta de autoria e materialidade delitivas ou a presença de causa extintiva de punibilidade.
+4. No caso concreto, os autos contêm indícios mínimos e suficientes de autoria e materialidade, incluindo depoimentos contextualizados com outros elementos de prova colhidos na investigação, afastando a alegação de ausência de justa causa para a persecução penal.
+5. A denúncia atende aos requisitos do art. 41 do Código de Processo Penal, descrevendo de forma clara a conduta imputada ao paciente, sua qualificação, a classificação do crime e o rol de testemunhas. 6. A prisão preventiva encontra-se devidamente fundamentada na garantia da ordem pública e na conveniência da instrução criminal, considerando a gravidade do delito e a suposta posição de liderança do paciente em organização criminosa voltada para o tráfico de drogas.
+7. A jurisprudência do Superior Tribunal de Justiça reconhece a necessidade da segregação cautelar para evitar a reiteração delitiva e assegurar a ordem pública, sendo insuficientes, no caso, medidas cautelares diversas da prisão.
+IV. DISPOSITIVO E TESE
+8. Ordem denegada.
+Tese de julgamento:
+1. O trancamento da ação penal por habeas corpus é cabível apenas quando evidenciada, de plano, a atipicidade da conduta, a ausência manifesta de indícios de autoria e materialidade ou a existência de causa extintiva de punibilidade.
+2. A denúncia que preenche os requisitos do art. 41 do Código de Processo Penal e apresenta indícios mínimos de autoria e materialidade autoriza a persecução penal.
+3. A prisão preventiva é medida excepcional, mas legítima quando fundamentada na garantia da ordem pública, na gravidade concreta do delito e no risco de reiteração criminosa.
+4. A substituição da prisão por medidas cautelares diversas exige a demonstração da sua suficiência, sendo inaplicável quando os elementos do caso concreto indicam a necessidade da segregação cautelar.
+Dispositivos relevantes citados: CPP, arts. 41, 312, 311 a 316.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no HC nº 659.006/RO, Rel. Min. Jesuíno Rissato, Quinta Turma, j. 22/02/2022, D Je 25/02/2022; STJ, AgRg no RHC nº 178431/BA, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 26/06/2023, D Je 29/06/2023. (e-STJ, fls. 10-11)
+Em seu arrazoado, o impetrante alega que a denúncia encontra-se baseada unicamente em depoimentos indiretos, de pessoas que não presenciaram o delito, em afronta ao art. 564, inciso IV, do Código de Processo Penal.
+Sustenta que não estão preenchidos os requisitos para a prisão preventiva.
+Pugna, liminarmente, pela revogação da prisão preventiva com aplicação de medida cautelar diversa.
+No mérito, pugna pelo trancamento da ação penal e, caso se entenda pelo seu prosseguimento, que seja revogada a prisão, com a imposição das medidas do art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido pela Vice-Presidência desta Corte (e-STJ, fls. 513-514).
+Foram prestadas informações (e-STJ, fls. 520-530 e 531-538).
+O Ministério Público opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (e-STJ, fls. 540-548).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Nos termos do entendimento consolidado desta Corte, o trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+Ademais, o reconhecimento da inexistência de justa causa para o prosseguimento da ação penal exige profundo exame do contexto probatórios dos autos, o que é inviável na via estreita do writ.
+Conforme relatado, o impetrante aponta ausência de justa causa para a ação penal, sob o argumento de que a denúncia encontra-se amparada exclusivamente em depoimentos indiretos.
+O Tribunal de Justiça do Espírito Santo afastou tal alegação sob o entendimento de que os depoimentos estão contextualizados com demais elementos colhidos na investigação.
+Certo é que para o oferecimento da denúncia basta que existam elementos que demonstrem a existência do fato e indícios de sua autoria e se as instâncias ordinárias reconheceram que as condutas imputadas ao recorrente, em princípio, se subsomem ao tipo previsto no art. 121, § 2º, inciso I, do Código Penal, porquanto presentes todas as elementares do crime de homicídio, verifica-se a existência de justa causa para o prosseguimento da ação penal.
+In casu, a peça acusatória não se encontra amparada unicamente em menções de terceiros e boatos, como aduz o impetrante, mas nas conclusões do procedimento investigativo, demonstrativo da existência de indícios de materialidade e autoria delitivas, o que é suficiente para se dar início à persecução penal, sendo que quaisquer outras controvérsias devem ser equacionadas no momento da instrução criminal.
+No tocante à prisão preventiva, extrai-se d o decreto constritivo que "o "pano de fundo" para o cometimento dos crimes está interconectado à atividades inerentes ao tráfico de drogas, e às desavenças oriundas entre facções criminosas rivais. Ademais, em consulta ao sistema judiciário "Infopen",  .. , verifica-se que os acusados são useiros e vezeiros de condutas criminosas, demonstrando que libertos ensejam em risco à garantia da ordem pública, e à aplicação da lei penal. Sendo assim, dada a gravidade da conduta empreendida, bem como atestada a presença dos requisitos autorizadores do art. 312, do Código de Processo Penal, decreto-lhes a prisão preventiva". (e-STJ, fl. 25).
+Verifica-se que a prisão preventiva do paciente encontra respaldo na necessidade de garantia da ordem pública diante da gravidade concreta da conduta e de sua periculosidade, evidenciada pelo seu pertencimento a facção criminosa e pela prática de delitos diversos ligados ao tráfico de drogas.
+O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão do modus operandi com que o crime fora praticado, como ocorreu no presente caso.
+Além disso, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe de 12/3/2019).
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do paciente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 81.745/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/6/2017, DJe 9/6/2017; RHC 82.978/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1º/6/2017, DJe 9/6/2017; HC 394.432/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 1º/6/2017, DJe 9/6/2017.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
