@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto por SANDRA LÚCIA PIANTINO LEMOS E OUTROS em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DEVEDOR SOLIDÁRIO. PRECLUSÃO. OUTORGA UXÓRIA. DESNECESSIDADE. RECURSO NÃO PROVIDO. 1. A exceção de pré-executividade, meio defensivo de origem doutrinária admitido pela jurisprudência, consiste na faculdade atribuída ao devedor de submeter ao conhecimento do Julgador, nos próprios autos da execução, e independentemente de penhora, embargos ou impugnação, matérias de ordem pública, suscetíveis de serem apreciadas de ofício, e que não exijam dilação probatória. 2. O interveniente, garantidor solidário, não se confunde com o avalista, nem com o fiador, sendo inaplicável, portanto, a disciplina sobre o aval, e, consequentemente, afastada a exigência de outorga uxória. 3. Em face da preclusão, no curso do processo, é vedado discutir matérias já julgadas (art. 507, CPC/15). 4. Recurso não provido.
+Opostos embargos de declaração, estes foram rejeitados às fls. 589-594.
+No recurso especial, alegam os agravantes que o acórdão violou os arts. 505 e 507 do Código de Processo Civil, visto que a alegação de nulidade da garantia foi deduzida pelo executado falecido, que não era parte legítima para tanto, conforme o art. 1.650 do Código Civil.
+Apontam violação ao art. 1.647, inciso III, do Código de Processo Civil, dado que a ausência de outorga uxória tornaria a garantia contratual nula.
+Contrarrazões às fls. 620-633.
+Assim, delimitada a controvérsia, passo a decidir.
+Cuida-se, na origem, de agravo de instrumento interposto em face de decisão interlocutória proferida pelo Juízo de primeira instância, que rejeitou a exceção de pré-executividade dos agravantes, que alegavam a nulidade do título executivo por ausência de outorga uxória.
+Em segunda instância, o TJMG entendeu, assim como o Juízo, que não havia que se falar em nulidade, tendo em vista que o executado (falecido e atualmente sucedido por seus herdeiros) figurou como garantidor solidário, e não como fiador ou avalista, razão pela qual não há nulidade por ausência de outorga uxória. Transcrevo (fls. 571-572):
+Conforme decidido majoritariamente pela jurisprudência, o interveniente, garantidor solidário, não se confunde com o avalista, nem com o fiador, sendo inaplicável, portanto, a disciplina sobre o aval, e, consequentemente, afastada a exigência de outorga uxória.
+Vale dizer, tratando-se do instituto da solidariedade, contratualmente previsto, não é exigida a outorga uxória, tampouco a renovação expressa da garantia, para fins de validação do compromisso.
+ ..
+No caso dos autos, a despeito das alegações da parte agravante, da análise do Termo de Acordo Extrajudicial (fls. 12/14 - origem), o de cujus não atuou apenas como mero avalista, mas como "garante e principal pagador responsabilizando-se solidariamente pelo cumprimento das obrigações assumidas pela devedora", confira-se:
+Além disso, o Tribunal de origem considerou que a matéria já havia sido apreciada pelo Juízo de primeira instância na sentença dos embargos à execução, razão pela qual estaria preclusa.
+Em face do acórdão, foi interposto recurso especial, que, de fato, não merece ser admitido.
+Inicialmente, quanto à alegação de contrariedade ao art. 1.647, inciso III, do CPC, verifico que os agravantes incorreram em erro material, tendo em visto que esse dispositivo nem mesmo existe no mencionado diploma. Nesse sentido, levando em consideração às razões expostas no recurso, entendo que os agravantes se referem, em verdade, ao mesmo dispositivo do Código Civil.
+Passando então à análise da suposta violação, constato que, no caso, o TJMG julgou em consonância com a jurisprudência deste Superior Tribunal de Justiça, que entende ser desnecessária a outorga marital/uxória quanto o cônjuge se obriga como devedor solidário, e não como fiador ou avalista:
+PROCESSUAL CIVIL E DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AUSÊNCIA DE OFENSA AOS ARTS. 489 E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. OUTORGA UXÓRIA. DESNECESSIDADE. DEVEDOR SOLIDÁRIO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+ ..
+3. Consoante o entendimento desta Corte, estabelecido, no acórdão estadual, que o cônjuge obrigou-se como devedor solidário, e não como fiador, torna-se impertinente a fundamentação adotada pela parte no sentido de se exigir a outorga uxória para se alcançar a eficácia plena da garantia (AgRg no AREsp 341.358/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/11/2015, DJe de 24/11/2015).
+4. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.617.120/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO MONITÓRIA. CÉDULA RURAL PIGNORATÍCIA. OUTORGA UXÓRIA. DESNECESSIDADE. DEVEDOR SOLIDÁRIO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. TRIBUNAL DE ORIGEM CONCLUIU PELA PRESENÇA DOS REQUISITOS ESSENCIAIS DE VALIDADE DO NEGÓCIO JURÍDICO. ALTERAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1."Consoante o entendimento desta Corte, estabelecido, no acórdão estadual, que o cônjuge obrigou-se como devedor solidário, e não como fiador, torna-se impertinente a fundamentação adotada pela parte no sentido de se exigir a outorga uxória para se alcançar a eficácia plena da garantia" (AgRg no AREsp 341.358/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/11/2015, DJe de 24/11/2015).
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.668.578/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/6/2020, DJe de 5/8/2020.)
+Em consequência, entendo prejudicado o recurso quanto à suposta violação aos arts. 505 e 507 do CPC.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
