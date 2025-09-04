@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de "Mandado de Segurança impetrado por FLORA MATUSA DINIZ MATEUS DOS SANTOS de atos atribuídos ao Ministro de Estado da Fazenda e ao Advogado Geral da União, consubstanciados nas Portarias Interministeriais MF/AGU n. 43, de 27 de dezembro de 2024, e 44, de 30 de dezembro de 2024, mediante as quais foram nomeados candidatos considerados aprovados em concurso público para o cargo efetivo de Procurador da Fazenda Nacional de 2ª Categoria, o que teria inobservado a classificação da impetrante que concorreu, sub judice, pelas cotas reservadas a pessoas negras (pretas e pardas)" (fl. 266).
+Da leitura da exordial do mandamus, é possível extrair que a parte impetrante formulou os seguintes pedidos (fl. 17):
+4. confirme o provimento liminar e conceda à impetrante a segurança no presente caso para determinar que as autoridades coatoras observem a ordem de classificação do certame realizado, em observância ao que decido pelo STF no Tema 784 de repercussão geral e do Enunciado 15 da Súmula do STF, bem como a convoque para a posse no cargo em comento, pois foi indevidamente preterida pelas Portaria Interministerial MF/AGU nº 43, de 27/12/2024, e Portaria Interministerial MF/AGU nº 44, de 30/12/2024 (atos coatores).
+4.1. Caso Vossa Excelência acolha o pedido subsidiário de reserva de vaga e de lotação posto no item 3.1 acima, que ele seja confirmado quando do julgamento final deste mandado de segurança;
+Às fls. 266/268, foi proferida decisão monocrática pela Presidência desta Corte Superior deferindo parcialmente o pedido liminar nos seguintes termos (fl. 268):
+ ..  defiro apenas em parte o pedido liminar deduzido pela impetrante a fim de determinar que as autoridades apontadas como coatoras adotem providências no sentido de reservar, por ora, a vaga no concurso público (em comento) correspondente à 55ª colocação e a consequente preferência na escolha de lotação em relação aos candidatos classificados em posição inferior.
+Às fls. 280/303, a autoridade coatora prestou informações.
+Contra a decisão monocrática, a UNIÃO interpôs agravo interno às fls. 304/309 e a particular apresentou contrarrazões ao agravo interno às fls. 313/345.
+Às fls. 365/372, o Ministério Público Federal apresentou parecer pela "extinção do processo sem julgamento de mérito, devendo a questão ser integralmente resolvida nos autos originários, os quais tramitam atualmente em 2º grau de jurisdição, ainda não transitado em julgado" (fl. 366).
+É o relatório.
+Analisando os presentes autos, verifico que, em razão da sentença exarada nos autos do processo 1031250-14.2024.4.01.3400, em trâmite na 20ª Vara Federal da Seção Judiciária do Distrito Federal/DF, foi expedida a Portaria Interministerial MF/AGU 48, de 25 de fevereiro de 2025, que nomeou a candidata para o cargo efetivo de Procurador da Fazenda Nacional de 2ª Categoria (fl. 330), tendo já sido juntado aos autos o termo de posse (fl. 333).
+Considerando que o pedido formulado na inicial do writ foi de observância da ordem de classificação no concurso com a devida convocação da candidata para a posse e, subsidiariamente, a reserva da vaga e lotação de posto, constato a perda de objeto do presente writ.
+Ante o exposto, julgo prejudicado o presente mandado de segurança haja vista que a candidata já alcançou a posse para o cargo de Procuradora da Fazenda Nacional em razão da decisão judicial exarada nos autos do processo 1031250-14.2024.4.01.3400.
+Julgo prejudicado o agravo interno de fls. 304/309.
+Publique-se. Intimem-se.
+EMENTA
