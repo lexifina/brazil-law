@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco do Brasil S.A., com base na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins assim ementado (fls. 812):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO POR ARBITRAMENTO. IMPUGNAÇÃO AO LAUDO PERICIAL. DEPÓSITO JUDICIAL COMO GARANTIA DO JUÍZO. TEMA 677 DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ). INCIDÊNCIA DE JUROS DE MORA E CORREÇÃO MONETÁRIA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos pelo Banco do Brasil S.A. foram rejeitados (fls. 812-814).
+Nas razões do recurso especial, o recorrente alega que o acórdão recorrido violou os arts. 927, §3º, e 1.022 do CPC.
+Sustenta que o acórdão não analisou adequadamente os embargos de declaração, a fim de enfrentar a contradição contida na decisão. Argumenta que o acórdão recorrido deixou de se manifestar sobre pontos essenciais para o deslinde da controvérsia, especialmente no que tange à aplicação do Tema 677 do STJ sem modulação de efeitos. O recorrente afirma que a omissão do acórdão embargado impede o prequestionamento das questões federais suscitadas, uma vez que não houve manifestação expressa sobre a limitação temporal da aplicação do Tema 677, o que seria essencial para garantir a segurança jurídica e evitar decisões contraditórias.
+Aduz que a modulação dos efeitos das decisões judiciais é essencial para garantir a segurança jurídica, e que o depósito judicial realizado em 2015 não deveria ser afetado pela revisão do Tema 677 do STJ.
+Divani Antônio França apresentou contrarrazões onde defende a não admissibilidade do recurso especial por manifesta inadequação e requer a aplicação de multa indenizatória por litigância de má-fé, no percentual não inferior a 20% sobre o valor da causa (fls. 837-840).
+Assim delimitada a controvérsia, passo à análise do recurso.
+Inicialmente, verifico que não merece prosperar o recurso especial interposto, por suposta violação ao artigo 1022 do CPC, uma vez que as questões mencionadas pelo banco agravante, relativas à manifestação expressa sobre a limitação temporal da aplicação do Tema 677, foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre a matéria, ainda que em sentido contrário à sua pretensão.
+O Tribunal Estadual, ao julgar o recurso, concluiu que o entendimento consolidado pelo STJ estabelece que o depósito judicial, ainda que realizado como garantia do juízo, não exime o devedor dos encargos moratórios previstos no título executivo, pois não constitui pagamento efetivo ao credor, e que não houve modulação de efeitos na revisão do Tema 677, implicando sua aplicação imediata a todas as demandas em curso, independentemente da data do depósito judicial.
+O acórdão recorrido decidiu em estrita conformidade com a nova tese fixada por esta Corte no Tema 677/STJ, ressaltando que naquele julgamento se deliberou expressamente pela não modulação dos efeitos (REsp 1.820.963/SP, Corte Especial, DJe 16/12/2022), atraindo, assim, ao caso, a aplicação da Súmula 83/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Sem honorários, uma vez que não houve arbitramento na origem.
+Intimem-se.
+EMENTA
