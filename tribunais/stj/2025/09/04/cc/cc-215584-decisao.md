@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO AUDITOR DA 2ª AUDITORIA DA JUSTIÇA MILITAR DO ESTADO DE MINAS GERAIS suscita conflito de competência, no bojo de termo circunstanciado, diante do JUIZO DE DIREITO DO JUIZADO ESPECIAL DE VISCONDE DO RIO BRANCO - MG.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de eventual medida judicial e procedimento instaurado pela suposta prática do uso indevido de uniforme, distintivo ou insígnia militares por civil.
+Ouvido, manifestou-se o Ministério Público Federal pelo conheccimento do conflito para que seja declarado competente o Juízo de Direito do Juizado Especial de Visconde do Rio Branco - MG, ora suscitado (fls. 43-45).
+Decido.
+Segundo a orientação desta Corte, "a Justiça Militar Estadual é competente para julgar militares integrantes das Polícias Militares e dos Corpos de Bombeiros, quando pratiquem crimes, na forma do art. 9º, do CPPM" (CC n. 162.399/MG, relator Ministro Reynaldo Soares da Fonseca, DJe 15/3/2019).
+No particular, destacou o Ministério Público Federal, lastreado na referida compreensão: " c onsoante dispõe o art. 125, § 4º, da CF, a Justiça Militar Estadual é competente para processar e julgar os crimes militares praticados apenas pelos militares estaduais. Portanto, a Justiça Militar Estadual é competente para julgar militares integrantes das Polícias Militares e dos Corpos de Bombeiros, quando pratiquem crimes, na forma do art. 9º, do CPPM" (fl. 45).
+No caso, infere-se dos autos que foi lavrado termo circunstanciado pela suposta prática, por indivíduo civil, de uso indevido de uniforme, distintivo ou insígnia militares. Em casos similares, esta Corte tem aplicado o entendimento consubstanciado no encunciado da Súmula n. 53 do STJ, segundo o qual "compete à Justiça Comum estadual processar e julgar civil acusado de prática de crime contra instituições militares estaduais".
+Correto, portanto, o Juízo sucitante, quando pontuou que " à  luz do próprio texto constitucional, o Superior Tribunal de Justiça firmou posição no sentido de que cabe à Justiça comum estadual o processamento e julgamento de civis acusados da prática de delitos contra instituições militares estaduais, entendimento este cristalizado na Súmula 53" (fl. 34).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito do Juizado Especial de Visconde do Rio Branco - MG, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
