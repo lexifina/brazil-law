@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OSMAR CARNEIRO DOS SANTOS, para impugnar a decisão proferida pelo Vice-Presidente do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, que não admitiu o recurso especial.
+Consta dos autos que o recorrente, no bojo do cumprimento de pena de 17 (dezessete) anos, 07 (sete) meses e 08 (oito) dias de reclusão, descumpriu uma das condições do livramento condicional, apresentando justificativa, o que foi acolhido pelo Juízo de primeiro grau, que manteve a benesse legal em favor do recorrente, sem oportunizar prévia manifestação do Ministério Público (fls. 183) .
+Interposto agravo em execução por parte do Parquet estadual, o Tribunal de origem deu provimento ao recurso, para anular a decisão que acolheu a justificativa apresentada pelo apenado, com determinação de que o Juízo da execução intime o Ministério Público para se manifestar previamente (fls. 179-197).
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por alegada violação aos arts. 112, §2º, da Lei de Execução Penal e 563 do Código de Processo Penal (201-210).
+Não admitido o recurso especial (fls. 219-222), a defesa interpôs o presente agravo em recurso especial (fls. 224-231).
+O Ministério Público Federal opinou pelo conhecimento e pelo desprovimento do agravo em recurso especial (fls. 2 68-270).
+É o relatório. DECIDO.
+Presentes os requisitos de admissibilidade, conheço do agravo em recurso especial.
+No que conc erne ao recurso especial interposto, tenho que, no caso vertente, os artigos tidos como violados no acórdão impugnado não foram objeto de expressa apreciação pela Corte de origem no acórdão recorrido, tampouco foram opostos os indispensáveis embargos declaratórios, de sorte que a alegada mácula aos dispositivos infraconstitucionais carece do necessário prequestionamento, o que impede o processamento do recurso especial, conforme súmulas 282 e 356 do STF.
+Nesta ordem de ideias, "a jurisprudência do STJ e do STF exige que o prequestionamento seja demonstrado por meio de pronunciamento expresso do Tribunal de origem sobre as teses jurídicas, o que não foi comprovado pelo agravante" (AgRg no AREsp 2598671 / RS, QUINTA TURMA, de minha relatoria, DJEN 20/12/2024).
+Na espécie, "a parte sequer opôs embargos de declaração com o fim de provocar a manifestação da turma julgadora, o que configuraria prequestionamento ficto nos termos do art. 1.025 do Código de Processo Civil. Logo, em razão da ausência de prévia discussão, o recurso especial não está apto à abertura de instância, incidindo o óbice da Súmula 282 do Supremo Tribunal Federal" (AgRg no AREsp 2269818 / MS, SEXTA TURMA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJEN 25/02/2025).
+E, ainda, mesmo em relação às questões de ordem pública, impõe-se o prequestionamento da matéria, consoante entendimento sedimentado desta Corte Superior (AgRg no AREsp n. 2.166.755/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2024, DJe de 3/10/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
