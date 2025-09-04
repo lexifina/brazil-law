@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu recurso especial no qual BORNHAUSEN E ZIMMER ADVOGADOS se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, prolatado na Apelação Cível n. 1522576-80.2014.8.26.0014/SP. Veja-se a ementa (fl. 249):
+RECURSO DE APELAÇÃO EXECUÇÃO FISCAL - DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL IMPOSTO SOBRE OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO ICMS EMBARGOS DO DEVEDOR ACOLHIDOS - ARQUIVAMENTO DA COBRANÇA TRIBUTÁRIA DETERMINADO EM PRIMEIRO GRAU DE JURISDIÇÃO INCONFORMISMO RECURSAL VOLUNTÁRIO INADEQUADO NÃO CONHECIMENTO.
+1. Não sobreveio a extinção do processo (execução fiscal), por meio do r. pronunciamento jurisdicional ora impugnado, com fundamento nos artigos 485 ou 487 do CPC/15, de sorte que o recurso cabível é o agravo de instrumento, nos termos do disposto no artigo 1.015, parágrafo único, do CPC/15.
+2. Extinção da referida cobrança tributária, na hipótese dos autos, no âmbito e por ocasião do julgamento dos respectivos embargos do devedor, processo nº 1000702-96.2014.8.26.0014, que tramitou perante a D. Vara das Execuções Fiscais da Comarca da Capital, conforme a certidão de fls. 148, sobrevindo o mero arquivamento da referida execução fiscal.
+3. Natureza interlocutória da r. decisão judicial ora impugnada, reconhecida, nos termos do artigo 203, § 2º, do CPC/15.
+4. Inaplicabilidade do princípio da fungibilidade recursal, por erro grosseiro, ante a ausência de dúvida objetiva no que se refere ao inconformismo adequado e cabível à hipótese concreta.
+5. Arquivamento da execução fiscal, determinado em Primeiro Grau de Jurisdição.
+6. Decisão, recorrida, ratificada.
+7. Recurso de apelação, apresentado, em nome próprio, pelos Advogados e representantes legais da pessoa jurídica executada, não conhecido.
+Os embargos de declaração foram rejeitados (fls. 277-283).
+No recurso especial, a agravante alega, em suas razões, ofensa aos arts. 85, §§ 3º e 5º, 489, inciso II, § 1º, e inciso VI, 924, caput e inciso III, 925, caput, 927, inciso III, e 1.022, incisos I e II, do CPC/2015. Afirma, inicialmente, que houve negativa de prestação jurisdicional. No mérito, sustenta que o Tribunal de origem arquivou a execução fiscal, sem a prolação de decisão autônoma e individual. Aduz que "os honorários de sucumbência devem ser fixados tanto nos Embargos à Execução Fiscal como na Execução Fiscal" (fl. 300). Por fim, defende ser cabível a fixação de honorários de sucumbência em desfavor da Fazenda Pública (fl. 304).
+Devidamente intimada, a agravada apresentou contrarrazões às fls. 316-328.
+O recurso não foi admitido na origem (fls. 333-334), o que ensejou a interposição do presente agravo às fls. 337-361.
+Contraminuta às fls. 366-370.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma adequada, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+De início, ressalto que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito,  n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+O acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. O que se denota é mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável. Portanto, não há ofensa ao art. 489 do Código de Processo Civil. Nesse sentido: AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1º/6/2023; AgInt no AREsp n. 2.172.041/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.
+No mais, o Tribunal de origem, ao dirimir a controvérsia, consignou (fls. 249-254; sem grifos no original):
+ ..
+O r. pronunciamento jurisdicional ora impugnado não determinou a extinção do processo (execução fiscal), com fundamento nos artigos 485 ou 487 do CPC/15, de sorte que o recurso cabível é o agravo de instrumento, consoante a regra do artigo 1.015, parágrafo único, do CPC/15 (STJ; R Esp. 1767663/SP; Rel. o Min. Herman Benjamin; Julgado em 13.11.18).
+ ..
+Ademais, sobreveio a extinção da execução fiscal, na hipótese dos autos, no âmbito e por ocasião do julgamento dos respectivos embargos do devedor, processo nº 1000702- 96.2014.8.26.0014, que tramitou perante a D. Vara das Execuções Fiscais da Comarca da Capital, conforme a certidão de fls. 148, sobrevindo o mero arquivamento da referida ação de cobrança.
+Em outras palavras, a determinação judicial de arquivamento está fundamentada no trânsito em julgado da r. sentença proferida nos referidos embargos do devedor, que extinguiu a execução fiscal.
+Daí porque, é induvidosa a natureza interlocutória da r. decisão judicial ora impugnada, nos termos do artigo 203, § 2º, do CPC/15.
+ ..
+A parte recorrente, no entanto, deixou de impugnar o fundamento acima transcrito e grifado, no sentido de que a determinação judicial de arquivamento está fundamentada no trânsito em julgado da sentença proferida nos embargos do devedor, que extinguiu a execução fiscal, e que tal decisão possui, em verdade, natureza interlocutória, não sendo, portanto, cabível nova condenação em honorários.
+Desse modo, incide o óbice da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). Nessa linha: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ademais, considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante revolvimento dos aspectos concretos da causa, o que é obstado, na via especial, em razão do óbice contido na Súmula n. 7 desta Corte.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA ANTECIPADA EM CARÁTER ANTECEDENTE. ADITAMENTO. TEMPESTIVIDADE. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. DISTRIBUIÇÃO. SÚMULAS N. 7, 83 E 211 DO STJ E 283 E 284 DO STF. MULTA DO ART. 1026, § 2º, DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. "A análise da pretensão recursal sobre a distribuição do ônus da sucumbência, aplicação do princípio da causalidade e o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial, ante o teor da Súmula 7/STJ" (AgInt no AREsp n. 1.254.829/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 30/9/2019).
+5. Não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC e a falta de prequestionamento nos casos em que as teses invocadas pela parte recorrente que não são debatidas pela corte a quo por concluir serem suficientes para a solução da controvérsia os fundamentos já utilizados pelo colegiado.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.656.159/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Assim, é inviável analisar a tese defendida no apelo nobre, pois é inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pela decisão impugnada.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por se tratar, na origem, de recurso interposto de decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ART. 105, INCISO III, ALÍNEA A, DA CF. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489, INCISOS II, § 1º, E VI, E 1.022, INCISOS I E II, DO CPC/2015. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. REVISÃO DE PREMISSAS FÁTICAS ESTABELECIDAS NA ORIGEM. NÃO CABIMENTO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
