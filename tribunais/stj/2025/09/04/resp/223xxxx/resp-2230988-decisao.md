@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se  de  agravo  s interpostos contra a inadmissão de  recursos  especiais. O s  apelos  extremos,  o primeiro  fundamentado  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal e o segundo somente na alínea "a" do permissivo constitucional,  insurgem-se  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  do Estado de São Paulo assim  ementado:
+"Agravo de instrumento - Execução de título extrajudicial - Decisão na qual o d. juízo indeferiu o pedido de inclusão da JBS S/A, suposta sucessora da devedora, no polo passivo do feito - Irresignação da credora (Massa Falida do Banco Santos S/A).
+Alegação de que houve sucessão empresarial camuflada - Consoante já decidido por esta Colenda Câmara em anterior agravo de instrumento, tirado do mesmo feito originário, "o eventual reconhecimento de que teria havido sucessão irregular ou camuflada depende da análise dos requisitos necessários para a configuração da desconsideração da personalidade jurídica, o que demanda incidente próprio, em observância aos princípios da ampla defesa e contraditório" (AI 2088897-67.2023, julgado aos 26/06/2023).
+A complexidade do enredo fático e a relevância das alegações da massa falida, inclusive no tocante à aplicabilidade, ou não, do entendimento proferido pelo Superior Tribunal de Justiça nos autos do Recurso Especial nº 1.973.783/SP, atraem a obrigatoriedade de instauração do incidente, a fim de se evitar tumulto processual e posterior arguição de nulidade.
+Eventual responsabilização da ora agravada pela dívida objeto da execução dependerá da comprovação do preenchimento dos requisitos legais para a desconsideração, no incidente próprio - Matéria já apreciada e decidida de forma definitiva nesta segunda instância, restando inviável sua reanálise nos moldes pretendidos - Comando judicial pretérito, no sentido da necessidade de instauração de incidente, que não foi observado pelas partes nem pelo d. Juízo "a quo", decerto em razão da tramitação tumultuada do feito em primeiro grau - Necessidade de observância do anteriormente decidido, a fim de se evitarem maior tumulto processual e futuras alegações de nulidade.
+Declara-se nulo e sem efeito o "decisum" agravado, prejudicada a análise do mérito recursal, com observação"  (e-STJ  fls.  946-947).
+Os embargos de declaração opostos na origem foram rejeitados.
+No  primeiro  recurso  especial  (e-STJ  fls.  983-992),  MASSA FALIDA DO BANCO SANTOS  S.A. aponta, além de divergência jurisprudencial,  violação  dos  seguintes  dispositivos  legais  com  as  respectivas  teses:
+a)  arts.  489,  §  1º,  IV e VI, e  1.022, parágrafo único, II,  do  Código  de  Processo  Civil  -  o  órgão  julgador  incorreu  em  negativa  de  prestação  jurisdicional  ao  deixar  de  enfrentar  os  questionamentos  formulados  nos  embargos  de  declaração, e
+b) arts. 507 e 508 do Código de Processos Civil - o acórdão recorrido considerou como definitiva uma decisão que ainda não transitou em julgado, violando assim os princípios da coisa julgada e da preclusão, e
+c) arts. 1.116 e 1.146 do Código Civil - a responsabilidade da JBS decorre da sucessão por incorporação e trespasse de estabelecimentos, o que dispensa a instauração do incidente de desconsideração da personalidade jurídica.
+No  segundo  recurso  especial  (e-STJ  fls.  1.026-1.050),  JBS S.A. aponta violação  dos  seguintes  dispositivos  legais  com  as  respectivas  teses:
+a) art. 276 do Código de Processo Civil - a nulidade da decisão do juízo singular que rejeitou o redirecionamento da execução não pode ser decretada em benefício da parte que deu causa ao vício, ao defender a desnecessidade de instauração do incidente de desconsideração da personalidade jurídica (IDPJ);
+b) art. 277 do Código de Processo Civil - a decisão do juízo singular, mesmo sem a formal instauração do IDPJ, mas com a dedução de argumentos e produção de provas, atingiu a sua finalidade sem causar prejuízo às partes, devendo ser aplicado, na espécie, o princípio da instrumentalidade das formas, e
+c) art. 282, §§ 1º e 2º, do Código de Processo Civil - não deve ser decretada a nulidade de atos processuais quando for possível decidir o mérito em favor da parte a quem aproveita a anulação.
+Apresentadas  as  contrarrazões  (e-STJ  fls.  1.213-1.234, 1.282-1.298, 1.300-1.307 e 1.315-1.333),  os  recursos  foram  inadmitidos  na  origem,  resultando  daí  os  presentes  agravos,  nos  quais  se  busca  o  processamento  dos  apelos  nobres.
+É  o  relatório.
+DECIDO.
+Verifica-se estarem presentes os pressupostos de admissibilidade dos agravos.
+Por tal motivo, e por entender que a matéria merece melhor exame, determino a sua reautuação como recursos especiais, nos termos do art. 34, XVI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
