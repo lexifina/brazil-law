@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAFAEL GALELI e por IVONETE SOARES DA SILVA BARBOSA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação do art. arrolado, na incidência da Súmula n. 7 do STJ e na ausência de similitude fática.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de indenização por danos materiais.
+O julgado foi assim ementado (fl. 320):
+INDENIZAÇÃO POR DANOS MATERIAIS. Troca da máquina de cartão de crédito/débito nos estabelecimentos das autoras. Valores das vendas posteriores realizadas na máquina (trocada) que foram creditadas em contas bancárias dos estelionatários. Relação de consumo. Incidência do CDC. Inexistência de responsabilidade da requerida. Ausência de falha na prestação dos serviços pela empresa ré. Culpa exclusiva das demandantes. Além de violar o dever de guarda dos equipamentos (para evitar a troca), deixaram de cumprir o dever de diligência, inerente à atividade empresarial, eis que uma simples conferência dos comprovantes emitidos pelas maquininhas bastava para que fosse constatada a fraude e evitado prejuízo. Dicção do art. 14, § 3º do CDC. Precedentes desta Corte. Sentença mantida. RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, as partes apontam, além de divergência jurisprudencial, violação do art. 14, caput, §§ 1º, 2º e 3º, do CDC.
+Aduz que houve falha na prestação de serviço da recorrida ao permitir o uso do nome fantasia das recorrentes por terceiros, facilitando a fraude.
+Alega que essa facilitação ilícita resultou na apropriação irregular de valores que legitimamente pertenciam às recorrentes, acarretando-lhes perdas significativas e prejuízos econômicos de grande relevância.
+Sustenta que o Tribunal de origem ao decidir que não houve responsabilidade da recorrida pela fraude divergiu do entendimento do Tribunal de Justiça do Rio de Janeiro e do Tribunal de Justiça de Goiás, que reconheceram a responsabilidade objetiva do fornecedor em casos semelhantes.
+Requerem o provimento do recurso para que se reforme o acórdão e condene a recorrida à indenização dos danos materiais.
+Contrarrazões apresentadas (fls. 363-367).
+É o relatório. Decido.
+Trata-se de ação de indenização por danos materiais em que as partes autoras pleitearam a condenação da recorrida ao ressarcimento do prejuízo material sofrido e a aplicação do CDC com a inversão do ônus da prova.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido inicial, entendendo pela culpa exclusiva dos autores e fixando honorários advocatícios.
+A Corte estadual manteve integralmente a sentença por seus fundamentos.
+I - Art. 14, caput, §§ 1º, 2º e 3º, do CDC
+No recurso especial, as partes recorrentes alegam que houve falha na prestação de serviço da recorrida ao permitir o uso do nome fantasia das recorrentes por terceiros, facilitando a fraude.
+A Corte estadual concluiu que não houve falha na prestação dos serviços pela empresa ré, imputando a culpa exclusivamente às autoras, que violaram o dever de guarda dos equipamentos e ausência de cumprir o dever de diligência mínima na conferência dos comprovantes emitidos, enquadrando a hipótese de excludente de responsabilidade prevista no artigo 14, § 3º, II, do CDC.
+Confira-se trecho do acórdão recorrido (fls. 323-325):
+Todavia, ao menos neste caso específico, ainda que considerado o Código Consumerista, não se pode olvidar o que estatui o teor de seu artigo 14, caput, combinado com o seu § 3º, inciso II: "O fornecedor de serviços só não será responsabilizado quando provar: (..) II - A culpa exclusiva do consumidor ou de terceiro."
+O cerne da questão é singelo e gira em torno da alegação da autora de que, na condição de contratante da ré, esta lhe disponibilizou maquininhas de cartão para recebimento de pagamentos no estabelecimento comercial, contudo, duas dessas máquinas foram trocadas por terceiro fraudador, sem que alguém das lojas percebessem. A partir daí, acrescenta que o terceiro fraudador abriu conta em seu nome, valendo-se da fragilidade do sistema da ré e desviou os pagamentos de que era destinatária, no período compreendido entre 11/03/2022 a 18/04/2022.
+Todavia, a autora confessou na petição inicial que todo imbróglio somente se deu porque involuntariamente violou o dever de guarda de um desses aparelhos (fls. 02, último parágrafo).
+Consoante se colhe do que fora colacionado pela autora, após a subtração das máquinas, novas contas foram abertas em nome dos estelionatários, sendo visível nos comprovantes emitidos pelas maquininhas que se tratava de endereço e CPF distintos dos autores (fls. 45/46 e 47).
+As autoras, portanto, além de violarem o dever de guarda dos equipamentos, deixaram que cumprir o dever de diligência, inerente à atividade empresarial, eis que uma simples conferência dos comprovantes emitidos pelas maquininhas bastava para que fosse constatada a fraude".
+Em acréscimo, a decisão perfilhada, indubitável que a requerida não possui qualquer responsabilidade pela fraude perpetrada, devendo a culpa ser imputada inteiramente às autoras, traduzindo-se o evento como verdadeiro caso fortuito externo.
+Ao contrário do que entendem as apelantes, o caso em testilha não se trata mera inclusão de terceiro desconhecido no cadastro das autoras.
+Na realidade ocorreu troca de máquinas de crédito em nome das autoras dentro de seu próprio estabelecimento comercial por máquinas pertencentes aos terceiros Leonardo Rodrigues de Jesus Siqueira e Letycia Aparecida da Silva ( conforme recibos de compras acostados às fls.47 e 49), que passaram a receber os créditos das transações entre as demandantes e seus clientes.
+Nesse contexto, a pretensão recursal exige o reexame do conjunto fático-probatório dos autos, especialmente quanto à dinâmica da fraude, à conduta das partes envolvidas e à alegada falha no sistema de segurança da recorrida. A análise da responsabilidade civil, nos moldes propostos, demanda incursão sobre elementos probatórios que foram valorados pelas instâncias ordinárias, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+II - Divergência jurisprudencial
+No tocante ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
