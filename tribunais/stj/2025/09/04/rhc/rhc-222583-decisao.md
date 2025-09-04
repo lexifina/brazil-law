@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por FRANCISCA FABIANA DE PAIVA OLIVEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende dos autos que a recorrente teve a prisão preventiva decretada pela suposta prática do delito de organização criminosa.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 68-85.
+Na hipótese, a defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a segregação cautelar da recorrente.
+Argumenta que "A Paciente está na iminência de ser presa. A qualquer momento a força policial adentrará sua casa e cumprirá a ordem judicial" (fl. 93).
+Aduz que "Os motivos ensejadores e sustentadores da decretação da prisão preventiva da Recorrente são frágeis. Não há elementos que a sustente" (fl. 93).
+Requer, ao final, a expedição de contramandado de prisão em favor da recorrente.
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente se considerada a gravidade concreta da conduta, haja vista que, em tese, a recorrente integraria organização criminosa voltada ao tráfico de drogas, constando nos autos que ela participaria da facção Guardiões do Estado (GDE), circunstância que demonstra a periculosidade da recorrente, justificando a segregação cautelar em seu desfavor.
+Sobre o tema:
+"A prisão preventiva foi considerada necessária para garantir a ordem pública, devido à gravidade concreta do delito e ao risco de reiteração delitiva, com base em elementos concretos que indicam a participação do agravante na organização criminosa" (AgRg no RHC n. 202.750/CE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Ademais, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso. Nesse sentido, confiram-se alguns precedentes: (AgRg no HC n. 948.505/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/12/2024, DJEN de 18/12/2024.)(AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023); (AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023); (AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022); (AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022);(AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022); (RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022); (AgRg no RHC n. 187.597/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.).
+Outrossim, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem à recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
