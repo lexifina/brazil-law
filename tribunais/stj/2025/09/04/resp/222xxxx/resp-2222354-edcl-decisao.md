@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ANSELMO DUARTE DA COSTA, MARIA DO CARMO DE LIMA, CRISLAINE DUARTE DA COSTA à decisão de fls. 953/954, que não conheceu do recurso.
+Sustenta a parte embargante:
+2 - No entanto, ao contrário do sustentado pelo Nobre Ministro em sua respeitável decisão, os Embargantes indicaram especificadamente que o Acórdão recorrido deu interpretação divergente a Súmula 609 deste Colendo Superior Tribunal.
+3 - Os Embargantes fizeram ainda o devido cotejo analítico da divergência, trazendo em seu recurso a integra do Acórdão recorrido, bem como do Acórdão Paradigma oriundo da Colenda Segunda Turma do Egrégio Tribunal de Justiça do Estado do Mato Grosso.
+4 - E mais, os Embargantes deixaram muito bem claro em seu recurso especial que ao decidir na forma do Venerando Acórdão paradigma, a Egrégia Segunda Turma analisou a mesma matéria alegada pelos Embargantes em seu recurso especial, qual seja, a falta de exigência por parte da instituição financeira de exames/relatórios/laudo ou até mesmo preenchimento de questionário de saúde prévios à contratação do contrato, aplicando corretamente o disposto na Súmula 609 deste Colendo Superior Tribunal de Justiça.
+ ..
+6 - E mais, no mesmo sentido do Acórdão paradigma, outros Tribunais Regionais Federais, bem como este Colendo Superior Tribunal de Justiça, consolidaram entendimento no sentido de que a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames prévios à contratação.
+7 - Por fim, registre - se que o Vice Presidente do Egrégio Tribunal Regional Federal da 3ª Região, admitiu o recurso especial, reconhecendo que o Superior Tribunal de Justiça já firmou entendimento no mesmo sentido da tese defendida pelos Embargantes em seu recurso especial, ou seja, a seguradora não pode negar cobertura securitária, sob a alegação de doença preexistente, se concretizou o seguro sem exigir exames prévios, citando para alicerçar sua admissão vários julgados deste Colendo Superior Tribunal de Justiça. Eis o teor da decisão neste particular: ..  - fls. 958/959.
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, inicialmente, que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+E, conforme consignado expressamente na decisão embargada incide a Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto, consigne que não é cabível recurso especial fundado na ofensa a enunciado de súmula dos tribunais, uma vez que ela não se enquadra no conceito de lei federal.
+Com efeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO. NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. RECURSO ESPECIAL FUNDADO EM VIOLAÇÃO A SÚMULA. NÃO CABIMENTO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA AFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Reitera-se que o recurso especial não é a via adequada para exame de eventual violação a súmula, tendo em vista só ser cabível contra decisão que contrarie ou negue vigência a tratado ou lei federal (alínea "a"), que julgue válido ato de governo local contestado em face de lei federal (alínea "b") ou que tenha dado a lei federal "interpretação divergente da que lhe haja atribuído outro tribunal" (alínea "c").
+3. O acolhimento da pretensão recursal requer o revolvimento da matéria de prova, providência inviável em sede de recurso especial em razão do óbice contido na Súmula 7/STJ.
+4. Agravo interno não provido AgInt nos EDcl no AREsp n. 1.885.229/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.11.2021.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
