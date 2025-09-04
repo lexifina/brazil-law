@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ATIVIA SERVICOS DE SAUDE S/A à decisão de fls. 339/340, que não conheceu do recurso.
+Sustenta a parte embargante:
+Ao contrário do que constou na r. decisão, o Recurso Especial interposto pela embargante indicou de forma clara os dispositivos legais tidos por violados, constando na petição recursal, por exemplo, ao artigo 105, "c" da CF/88 além de fundamentação detalhada e demonstração de violação literal desses dispositivos. Assim, houve omissão na análise do conteúdo efetivo da petição do Recurso Especial, que inviabilizou o conhecimento do recurso com base em uma premissa fática incorreta.
+ ..
+A decisão afirma que "a mera citação de artigo de lei não supre a exigência constitucional", entretanto, ignora que o recurso apontou violação direta de dispositivos federais específicos, com fundamentação articulada e dissídio jurisprudencial demonstrado.
+O reconhecimento da suposta deficiência contraria a própria jurisprudência da Corte que flexibiliza tal rigor formal quando há elementos suficientes para a compreensão da controvérsia e do cabimento do recurso, revelando uma contradição com o entendimento consolidado do STJ.
+A r. decisão julgou prejudicado o pedido de efeito suspensivo em razão do não conhecimento do recurso, sem enfrentar os fundamentos fáticos do periculum in mora e do fumus boni iuris trazidos na petição recursal e reforçados em petição autônoma. Trata-se de omissão relevante, pois impede o controle da legalidade da negativa de medida de urgência.
+ ..
+Ainda, não houve qualquer provocação à parte para suprir eventual ausência de indicação precisa dos dispositivos legais, conforme autoriza o art. 1.030, §2º do CPC, o que configura outra omissão relevante. (fls. 347/348).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide a Súmula n. 284/STF, pois, a despeito da parte embargante ter indicado o permissivo constitucional, deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Impende salientar que se mostra inviável a adequação posterior dos pressupostos processuais do recurso especial, pois tais requisitos necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Nesse sentido: AgRg no REsp n. 1.848.188/RS, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 19.2.2020 e AgRg no REsp n. 1.378.020/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 5.12.2014 .
+No mais, não prosperam os argumentos relacionados à concessão de tutela provisória, pois em conformidade com o que restou expressamente exarado na decisão embargada, com o não conhecimento do recurso, fica prejudicada a concessão de efeito suspensivo.
+Com efeito, de acordo com o que prevê o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos: fumus boni juris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido; e periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, repita-se, tendo em vista o não conhecimento do recurso, fica prejudicado o pedido de efeito suspensivo porquanto ausente o primeiro pressuposto, fumus boni juris.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fi m, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
