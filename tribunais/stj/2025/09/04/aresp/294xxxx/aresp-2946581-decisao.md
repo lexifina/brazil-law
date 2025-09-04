@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 159 e-STJ):
+"AGRAVO DE INSTRUMENTO - AÇÃO DE HABILITAÇÃO DE CRÉDITO - CRÉDITO COM PRIVILÉGIO ESPECIAL - ARTIGO 83, INC. IV DA LEI 11.101/2005 - RECUPERAÇÃO DEFERIDA ANTES DA REFORMA DA LEI - CLASSIFICAÇÃO COMO CRÉDITOS QUIROGRAFÁRIOS - IMPOSSIBILIDADE - FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA.
+- A pretensão à classificação do crédito representa exercício de autêntico direito material do credor recuperacional, razão pela qual não se lhe pode aplicar a sistemática introduzida pela Lei nº 14.112/2020, cuja vigência é posterior ao deferimento do plano, pena de infringir a garantia do direito adquirido. Inteligência do art. 2º, §1º da Lei 14.112/2020.
+- O valor da causa, está perfeitamente adequado para funcionar como base de cálculo da verba honorária, forçoso concluir que o valor dos honorários advocatícios sucumbenciais deve estar contido entre "o mínimo de dez e o máximo de vinte por cento" sobre o valor da causa, nos termos do artigo 85, §2º, do CPC"
+Os embargos de declaração opostos foram rejeitados (fl. 198 e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação aos arts. 41, III, e 83, IV, da Lei 11.101/2005 e art. 5º, §1º, da Lei 14.112/2020, sustentando a possibilidade de aplicação da lei nova, em relação à classificação de créditos, à recuperação judicial em curso.
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. 248/249 e-STJ.
+Agravo em recurso especial às fls. 257/281 e-STJ.
+Não houve contraminuta.
+Assim delimitada a controvérsia, passo a decidir.
+Sobre o tema versado nos autos, a jurisprudência desta Superior Tribunal de Justiça é no sentido de que, por se tratar de direito material, a questão relativa à classificação dos créditos não admite a aplicação da lei nova que tenha inovado sobre a classificação.
+Ilustrativamente:
+"DIREITO FALIMENTAR. RECURSO ESPECIAL. PEDIDO DE RESTITUIÇÃO. FALÊNCIA DECRETADA NA VIGÊNCIA DO DECRETO-LEI N. 7.661/1945. RETROATIVIDADE DO ART. 14 DA LEI N. 9.365/1996 QUE PREVIU A SUB-ROGAÇÃO AUTOMÁTICA DA FINAME NOS CRÉDITOS E GARANTIAS CONSTITUÍDOS EM FAVOR DO AGENTE FINANCEIRO, DECORRENTES DAS OPERAÇÕES DE REPASSE EM FINANCIAMENTO. IMPOSSIBILIDADE.
+1. O patrimônio do devedor constitui a garantia de seus credores, sendo que, com a falência, os bens que o integram são indistintamente objeto de arrecadação pelo síndico - definição do ativo - para que posteriormente venham a ser vendidos para pagamento dos credores. Ocorre que tal arrecadação por vezes abrange não só os bens de propriedade do devedor falido como, também, aqueles que se encontram na posse deste e cuja propriedade seja de outrem, surgindo o direito à restituição ao terceiro, corrigindo assim a definição do ativo que será devidamente executado.
+2. Segundo o STJ, a questão relativa à classificação dos créditos no processo falimentar não tolera a aplicação de lei nova que tenha diversificado nesse particular, pois a norma é de direito material.
+Precedentes.
+3. O art. 14 da Lei n. 9.635/1996 longe está de ostentar algum viés processual, haja vista que, além de tratar de sub-rogação, instituiu o benefício legal que acabou por, em verdade, alterar a natureza e o direito de determinados créditos no processo falimentar, afetando diretamente a ordem de pagamento dos credores na falência.
+4. No caso presente, o que pretende a autora com o pedido de restituição é ver seu direito de crédito obter tratamento privilegiado em relação a outros da mesma categoria, justamente por querer receber desde logo o que os demais ficarão sujeitos ao posterior rateio da falência, de acordo com o quadro geral.
+5. Ocorre que, antes disso, os ditos créditos foram objeto de contrato que previa o repasse nas condições e com a natureza e garantias reconhecidas à época, concretizando ato jurídico perfeito.
+Repare que, em verdade, os títulos legais conferidos ao crédito fazem parte do conteúdo do direito (é uma qualidade), como característica que lhe é intrínseca, de modo que sua alteração consubstancia alteração do próprio direito.
+6. Recurso especial provido" (REsp n. 1.166.781/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/6/2014, DJe de 15/8/2014.)
+"RECURSO ESPECIAL. FALÊNCIA. DIREITO INTERTEMPORAL. ART. 192 DA LF. N. 11.101/05. APLICAÇÃO DO DECRETO-LEI N. 7.661/45 ÀS FALÊNCIAS DECRETADAS ANTES DA NOVA LEI. ART. 186 DO CTN. EFICÁCIA DA NORMA NO TEMPO. NOVA CLASSIFICAÇÃO DO CRÉDITO TRIBUTÁRIO. NORMA MATERIAL. INAPLICABILIDADE ÀS FALÊNCIAS EM CURSO. RECURSO ESPECIAL PROVIDO" (REsp n. 1.096.674/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/12/2011, DJe de 1/2/2012.)
+"DIREITO FALIMENTAR. RECURSO ESPECIAL. HABILITAÇÃO DE CRÉDITO. FALÊNCIA AJUIZADA E DECRETADA NA VIGÊNCIA DO DECRETO-LEI N. 7.661/45 (ENCOL S/A). CRÉDITOS TRABALHISTAS. CLASSIFICAÇÃO. APLICAÇÃO DO ART. 83 DA LEI N. 11.101/05. LIMITAÇÃO A 150 (CENTO E CINQUENTA) SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE.
+1. Às falências ajuizadas e decretadas antes da vigência da Lei n. 11.101/05 aplica-se o Decreto-lei n. 7.661/45, nos termos do que dispõe o art. 192 do novo diploma falimentar.
+2. A norma instituidora da ordem de pagamento dos créditos no processo falimentar (art. 102 do Decreto-lei n. 7.661 e art. 83 da Lei n. 11.101/05) não possui nenhum viés processual. É norma de direito material, de modo que alterações legislativas que possam atingir os direitos nela previstos devem sofrer a contenção legal e constitucional que garante a higidez do direito adquirido, ato jurídico perfeito e coisa julgada.
+3. Os títulos legais de preferência não são uma espécie de acessórios aos direitos principais (o crédito com privilégio geral ou o garantido por hipoteca, por exemplo). Na verdade, fazem parte do conteúdo do direito (é uma qualidade), como característica que lhe é intrínseca, de modo que sua alteração consubstancia alteração no próprio direito. A mesma linha de raciocínio deve ser aplicada ao crédito trabalhista, de modo a se entender que a preferência desse crédito é questão de direito material.
+4. Com efeito, descabe a aplicação da nova classificação dos créditos trabalhistas, prevista no art. 83 da Lei n. 11.101/05, a falências pleiteadas e decretadas na vigência do Decreto-lei n. 7.661/45, seja porque a situação não é abarcada pelo que dispõe o art. 192 do novo diploma seja porque consubstanciaria aplicação retroativa de lei - o que vulnera o próprio direito material subjacente.
+5. Recurso especial provido" (REsp n. 1.284.736/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/12/2012, DJe de 15/3/2013.)
+Estando, pois, o acórdão recorrido em consonância com este entendimento, aplica-se a Súmula 568/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
