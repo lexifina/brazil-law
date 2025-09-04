@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BANCO VOLKSWAGEN S.A., contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 184-198, e-STJ):
+Apelação. Ação de exigir contas. Venda de veículo alienado fiduciariamente. Custos com leilão extrajudicial. Não comprovação. Despesas administrativas. Redução. Cobrança de honorários. Valor não estipulado na ação de busca e apreensão.
+Os embargos declaratórios foram rejeitados, nos termos do acórdão de fls. 210-215, e-STJ.
+Nas razões de recurso especial (fls. 217-249, e-STJ), a parte recorrente aponta violação aos arts. 489, §1º, IV, e 1.022, II, parágrafo único, II, do CPC. Sustenta, em síntese: a) omissão acerca da análise do fato notório de que as despesas do leilão foram comprovadas pela nota de leilão; b) erro de premissa ao entender que não estariam devidamente comprovadas as despesas do leilão, ainda que tais gastos estivessem expressamente previstos na nota de leilão.
+Contrarrazões apresentadas às fls. 291-299, e-STJ.
+Em juízo de admissibilidade (fls. 300-301, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 303-308, e-STJ).
+Contraminuta apresentada às fls. 351-355, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. O recorrente sustenta a tese de negativa de prestação jurisdicional sob duas alegações que, em essência, convergem para o mesmo ponto: o inconformismo com a valoração da prova documental.
+Primeiro, alega que o acórdão partiu de premissa fática equivocada, como se extrai do seguinte trecho do recurso especial (fl. 224, e-STJ):
+Dessa forma, o acórdão partiu de premissa equivocada ao entender que não estariam devidamente comprovadas as despesas do leilão, ainda que de fato tais gastos estivessem expressamente previstos na nota de leilão  .. , afinal, valor bruto do lance - valor líquido = valor dos custos do leilão.
+Em seguida, rotula a ausência de correção de tal premissa como omissão, pleiteando a declaração de nulidade do julgado por vício no julgamento dos embargos de declaração (fl. 225, e-STJ):
+O recorrente opôs embargos de declaração para que o Tribunal de origem pudesse se manifestar acerca de omissão da qual o acórdão da apelação era eivado, eis que ponto essencial ao deslinde da causa: o fato notório  ..  de que a prova das despesas do leilão se verifica da própria nota de leilão  .. .
+Ocorre que, conforme se verifica do acórdão recorrido (fls. 187-189, e-STJ), o Tribunal de Justiça enfrentou expressamente as questões, concluindo pela inexistência de documentos idôneos a legitimar a cobrança:
+Sobre as taxas e tarifas impugnadas, com razão a autora, pois somente são devidos os descontos devidamente comprovados.  ..
+Não foram apresentados quaisquer documentos que comprovem o pagamento das taxas e tarifas necessárias para venda do veículo em leilão, portanto a autora não pode arcar com as aludidas tarifas. Interpretação semelhante se aplica sobre as despesas processuais e administrativas no valor de R$5.048,03.  ..
+Dos fundamentos acima transcritos, verifica-se que a pretensão recursal é manifestamente improcedente, pois sobre as despesas com leilão o apelante não indica provas a legitimar os valores cobrados da apelada contidos na Nota de Venda em Leilão Público  .. .  grifou-se
+Portanto, não há falar em omissão, mas em inconformismo com a conclusão adotada, fundada na apreciação das provas. O julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, tampouco mencionar todos os dispositivos legais apontados nas razões recursais, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão. Nesse sentido:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM COBRANÇA. CLÁUSULA DE CONVENÇÃO DE CONDOMÍNIO. ABUSIVIDADE. ACÓRDÃO RECORRIDO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. CORREÇÃO MONETÁRIA E JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. FIXAÇÃO DE OFÍCIO. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO. ..
+5. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes quando já tenha encontrado motivo suficiente para proferir a decisão, devendo apenas enfrentar as questões capazes de infirmar a conclusão adotada.
+IV. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp n. 2.702.809/GO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. ART. 1.022 DO CPC. MULTA CONTRATUAL. VALOR SUPERIOR À OBRIGAÇÃO PRINCIPAL. POSSIBILIDADE. PROPORCIONALIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E FATOS. SÚMULAS 5 E 7 DO STJ.
+1. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. Com efeito, não há necessidade de resposta a cada afirmação específica. (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023.)  ..
+(AgInt no AREsp n. 2.762.821/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Uma vez que o Tribunal de origem se manifestou de forma clara e fundamentada sobre as questões essenciais para o deslinde da controvérsia, entregando a prestação jurisdicional de forma adequada, fica afastada a alegada violação dos arts. 489, § 1º, IV, e 1.022 do CPC.
+Além disso, conforme jurisprudência pacífica desta Corte, a contradição sanável pela via dos embargos de declaração é a interna ao julgado, ou seja, a que ocorre entre seus próprios fundamentos e o dispositivo, não se prestando tal recurso para corrigir eventual erro na apreciação da prova. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO NO JULGADO. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. ERRO MATERIAL. CORREÇÃO DE OFÍCIO. VIOLAÇÃO A ARTIGOS DO CPC/2015. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NÃO VERIFICADO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS SEM EFEITO INFRINGENTE.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. Cumpre assinalar que "a contradição sanável através dos embargos de declaração é aquela interna ao julgado, caracterizada por proposições inconciliáveis entre si, não tendo a ver com eventual discrepância do pronunciamento embargado com um parâmetro que lhe é externo (v.g. normas, provas, decisões proferidas em outros processos etc)" - (EDcl no REsp n. 1.849.678/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/2/2022, DJe de 17/2/2022).
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, é inviável o conhecimento da matéria não suscitada nas razões do recurso especial, constituindo indevida inovação recursal.
+4. Conforme entendimento desta Corte Superior, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (REsp n. 1.953.212/RJ, Relatora Ministra Nancy Andrighi, em 26/10/2021, DJe 3/11/2021).
+5. Embargos de declaração parcialmente acolhidos, para, de ofício, sanar erro material.
+(EDcl no AgInt nos EDcl no AREsp n. 805.152/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/3/2024, DJe de 8/3/2024.)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECORRIDA. AUSÊNCIA DE CONTRADIÇÃO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DA PROMITENTE COMPRADORA. DEVOLUÇÃO DOS VALORES PAGOS. AUSÊNCIA DE JUSTIFICATIVA IDÔNEA PARA REDUÇÃO DO PERCENTUAL DE RETENÇÃO. REFORMA DO ACÓRDÃO ESTADUAL QUE SE IMPÕE. AGRAVO INTERNO DESPROVIDO.
+1. A contradição que autoriza o manejo dos embargos de declaração é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada na própria decisão, não sendo capaz de ensejar a oposição dos aclaratórios eventual contradição entre a conclusão adotada e as provas constantes nos autos.
+2. Esta Corte de Uniformização possui entendimento consolidado no sentido de que, na rescisão de promessa de compra e venda de imóvel firmada antes da Lei n. 13.786/2018, por desistência imotivada do promitente comprador, o percentual de retenção a prevalecer é o de 25% (vinte e cinco por cento) sobre os valores pagos, a não ser que haja particularidade a justificar a redução do referido parâmetro.
+3. Na espécie, não houve motivação idônea a justificar o arbitramento, pelas instâncias ordinárias, do percentual de retenção em 10% (dez por cento) sobre os valores pagos, razão pela qual era mesmo necessária a reforma do aresto estadual.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.361.506/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+1.1. A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+2. Rever a conclusão do Tribunal de origem no sentido de que ficou demonstrada a responsabilidade do hospital pelos danos causados por acidente na sala de cirurgia, ante a responsabilidade de toda a equipe cirúrgica, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. A jurisprudência desta Corte Superior é no sentido de que a responsabilidade dos hospitais e clínicas é objetiva em relação aos danos causados por seus prepostos. Incidência da Súmula 83 do STJ.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial alegado. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.208.856/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)  grifou-se
+Como o acórdão que negou acolhimento aos embargos de declaração opostos pelo ora recorrente está em consonância com a jurisprudência desta Corte a respeito do descabimento dessa espécie recursal quando se aponta contradição externa, incide o óbice da Súmula 83/STJ.
+2. Do exposto, conheço do agrav o para não conhecer do recurso especial.
+N os termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98 , § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
