@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JORGE LUIZ BARBOSA JUNIOR (surpreendido na posse de 2,090 kg de cocaína e 293,4 g de haxixe, parte transportada em veículo sob sua posse e parte armazenada em apartamento por ele locado, onde também se encontravam seus filhos menores. A prisão em flagrante foi convertida em preventiva, fls. 92/102), no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DE PERNAMBUCO (Habeas Corpus n. 0000085-43.2025.8.17.9901).
+Alega-se, aqui, constrangimento ilegal decorrente da ausência de fundamentação idônea no decreto prisional, que seria baseado apenas na gravidade abstrata do crime e na expressiva quantidade de drogas apreendidas.
+Aduz-se que não estão presentes indícios suficientes de autoria, ressaltando que a prisão preventiva se mostra desnecessária e desproporcional, considerando as condições pessoais favoráveis do paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+Requer-se, no âmbito liminar e no mérito, a revogação da prisão preventiva, ressaltada a possibilidade de aplicação de medidas cautelares alternativas, conforme o art. 319 do Código de Processo Penal.
+Instado, o Ministério Público opinou pelo desprovimento do recurso (fls. 150/155).
+É o relatório.
+Prima facie, constato que não assiste razão ao recorrente.
+Com efeito, convém registrar que a prisão preventiva constitui medida de índole excepcional, admitida apenas quando presentes os requisitos do art. 312 do Código de Processo Penal. Na hipótese, a decisão de primeiro grau indicou elementos concretos que justificam a necessidade da segregação cautelar, notadamente a significativa quantidade e a variedade dos entorpecentes apreendidos (2,090 kg de cocaína e 293,4 g de haxixe ), além do modus operandi empregado, consistente na utilização de veículo e imóvel locado para o transporte e depósito da droga (fls. 92/102).
+Nesse sentido: HC n. 974.892/SP, de minha relatoria, Sexta Turma, DJEN 27/3/2025; AgRg no HC n. 947.800/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025; e AgRg no RHC n. 207.913/CE, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025.
+De outro lado, a alegação de violação do princípio da homogeneidade não merece prosperar. Não é possível, nesta fase processual, antecipar a pena a ser fixada em eventual sentença condenatória, tampouco presumir a aplicação de causa de diminuição ou de regime prisional mais brando. Como já decidiu esta Corte, a análise sobre a proporcionalidade da medida cautelar em comparação com eventual regime de cumprimento de pena definitiva constitui exercício de futurologia, incompatível com a via estreita do habeas corpus.
+Também não procede a tese de aplicação de medidas cautelares alternativas. O juízo de origem rechaçou expressamente sua adequação, destacando a insuficiência de tais providências diante da gravidade concreta do caso e da necessidade de resguardar a ordem pública. Esta Corte firmou entendimento de que a presença de fundamentos concretos torna inviável a substituição da prisão preventiva por medidas do artigo 319 do Código de Processo Penal (fl. 153).
+Ainda que o recorrente possua condições pessoais favoráveis, estas não têm o condão de, isoladamente, afastar a decretação da custódia preventiva, quando presentes os demais requisitos legais.
+Portanto, estando demonstrados a materialidade do delito, os indícios de autoria e a necessidade da prisão preventiva para garantia da ordem pública, não há falar em ilegalidade a ser sanada.
+Em face do exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. 2,090 KG DE COCAÍNA E 293,4 G DE HAXIXE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso em habeas corpus improvido.
