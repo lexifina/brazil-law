@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE PALMAS da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que inadmitiu recurso especial dirigido contra o acórdão prolatado na 1ª CÂMARA CÍVEL do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS na Apelação Cível n. 0007548-25.2014.8.27.2729. Eis a ementa (fls. 355-356):
+TRIBUTÁRIO E PROCESSO CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EMPRÉSTIMO JUNTO AO BANCO DE FOMENTO MUNICIPAL (BANCO DO POVO). CDA. INEXISTÊNCIA DA CERTEZA E LIQUIDEZ. INADEQUAÇÃO DA VIA ELEITA. APELO NÃO PROVIDO. SENTENÇA MANTIDA.
+1. O conceito de dívida ativa não tributária não autoriza a Fazenda Pública a se tornar credora de todo e qualquer débito, envolvendo apenas os créditos certos e líquidos, conforme disposição dos artigos 2º e 3º da Lei nº 6.830/80, e 39, parágrafo 2º, da Lei nº 4.320/64.
+2. A cobrança de valor referente a empréstimo obtido junto ao Banco de Fomento municipal (Banco do Povo), em razão de inadimplemento no pagamento, carece da liquidez e certeza necessárias para a inscrição em dívida ativa, devendo, por esta razão, submeter-se à via ordinária, para obtenção de um título judicial.
+3. Inviável a inscrição em dívida ativa e, por consequência, a cobrança do alegado crédito por meio de execução fiscal, ainda que a Lei nº 6.830/80 admita também a exigência de dívidas não tributárias.
+4. Recurso não provido. Sentença mantida.
+Não se opuseram embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação dos arts. 2º e 3º da Lei n. 6.830/1980 e do art. 39, § 2º, da Lei n. 4.320/1964, sustentando que o contrato de empréstimo se amolda ao conceito de crédito não tributário e que a execução fiscal é a via adequada para sua cobrança (fls. 367-368).
+Argumenta que a cobrança de dívida ativa não tributária por meio de execução fiscal é legal e está amparada pela Lei n. 6.830/1980 (Lei de Execuções Fiscais) e pelo Decreto n. 670/2013.
+Requer o provimento do recurso especial para reformar o acórdão recorrido e determinar o prosseguimento da execução fiscal.
+A parte adversa apresentou contrarrazões (fls. 394-401).
+Inadmitiu-se o recurso, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade, passo ao exame do recurso especial.
+O Tribunal de origem asseverou:
+Na espécie, vê-se que o executado firmou com o Banco do Povo Contrato de Empréstimo/Financiamento (Processo nº 2014002347).
+Em razão do inadimplemento, o débito foi inscrito em dívida ativa municipal conforme se depreende da CDAM nº 20140002077, no valor de R$ 7.351,54 (sete mil trezentos e cinquenta e um reais e cinquenta e quatro centavos).
+O Município recorrente assegura tratar-se, na espécie, de dívida não tributária, passível de execução pelo rito previsto na Lei 6.830/1980.
+Sobre a questão, imperioso colacionar o que dispõe a Lei nº 6.830/1980 (LEF):
+(..)
+Nessa seara, por mais abrangente que seja o conceito de dívida ativa não tributária alhures trasladado, não há razão para admitir que um valor supostamente devido a título de inadimplemento de empréstimo, como no presente caso, possa ser cobrado via Ação de Execução Fiscal.
+Merece registro que a concessão de empréstimos a particulares, como cediço, não constitui atividade finalística do Estado, razão pela qual os valores eventualmente inadimplidos, justamente por não possuírem as prerrogativas e os privilégios previstos na LEF, devem ser perquiridos na via ordinária.
+Como pontuado pelo julgador singular, os tribunais mostram-se mais criteriosos e limitadores na admissão da inscrição em dívida ativa de créditos de natureza não tributária, tendo em vista as preferências que usufruem no âmbito do procedimento executório, de modo que não se deve alargar as demarcações do que constitui dívida ativa.
+Ademais, merece assento também o fato de que a própria Lei Municipal nº 1.367, de 17.05.2005, prevê no art. 5º-A a forma de recuperação de créditos com prestações vencidas, depois de esgotados todos os meios disponíveis de cobrança administrativa, permitindo, inclusive, a renegociação da dívida nas condições que estipula.
+Essa Corte tem entendido não ser cabível o ajuizamento de Execução Fiscal, tratando-se de via inadequada, portanto, para ressarcimento ao erário público, assentando ser necessário o ajuizamento de ação ordinária por parte da Fazenda Pública, por meio de processo de conhecimento, assegurando-se o contraditório e a ampla defesa.
+(..)
+Coaduno, pois, com o entendimento lançado na sentença, notadamente quando o STJ já manifestou a impossibilidade de cobrança, por meio de execução fiscal, de créditos não tributários decorrentes de restituição de valores pagos pelo Estado, fazendo-se necessária a ação de conhecimento ordinária, a fim de que sejam garantidos o contraditório e a ampla defesa do administrado, para que, só então, em caso de procedência da demanda, o crédito obtenha a devida certeza e liquidez necessárias à inscrição em Dívida Ativa e à consequente execução fiscal.
+(..)
+Assim, uma vez que a Certidão de Dívida Ativa, objeto da presente execução, não preenche os requisitos de certeza e liquidez, essenciais ao título executivo, configura-se, portanto, a sua nulidade, nos exatos termos da conclusão a que chegou o juízo a quo.
+Constata-se dos pontos acima destacados que a verificação do preenchimento dos requisitos de validade da Certidão de Dívida (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do Recurso Especial ante o óbice da Súmula 7 do STJ.
+Nessa senda:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. CDA. VALIDADE. AMPLA DEFESA. PREJUÍZO. INEXISTÊNCIA. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação, por analogia, da Súmula 284 do STF.
+2. "(..) a nulidade da CDA não deve ser declarada à vista de meras irregularidades formais que não têm potencial para causar prejuízos à defesa do executado, visto que o sistema processual brasileiro é informado pelo princípio da instrumentalidade das formas" (AgInt no REsp n. 1.833.673/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/09/2021, DJe de 16/09/2021.)
+3. A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA), inclusive a respeito de suposta ausência de cálculo quanto à forma como se chegou aos valores consolidados, pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.854.930/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16/6/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 481, 586, 1.228 E 1.267 DO CÓDIGO CIVIL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. NULIDADE DA CDA. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. IPVA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. PREVISÃO EM LEI LOCAL. LEGITIMIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI ESTADUAL N. 14.937/2003. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento dos arts. 481, 586 e 1267 do Código Civil pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - No caso, rever o entendimento adotado pela Corte de origem, com o objetivo de acolher a pretensão recursal, para verificar a certeza e liquidez da CDA, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+IV - É firme o posicionamento deste Superior Tribunal, segundo o qual revela-se legítima a cobrança do IPVA sobre a figura do credor fiduciário caso haja previsão em lei estadual.
+V - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 2.003.321/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 5/10/2022.)
+Ademais, o acórdão recorrido decidiu a matéria referente à cobrança de crédito decorrente de inadimplemento de empréstimo no Banco do Povo a partir da interpretação de dispositivos de direito municipal, qual sejam, o Decreto n. 670/2013 e a Lei Municipal n. 1.367/2005. Nesse contexto, mostra-se inviável a sua revisão em recurso especial, nos termos da Súmula n. 280 do STF, aplicada por analogia: "Por ofensa a direito local não cabe recurso extraordinário." A propósito: AgInt no AREsp n. 2.381.851/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; REsp n. 1.894.016/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/9/2023, DJe de 19/10/2023.
+Conforme jurisprudência desta Corte Superior, a existência de óbice processual, impedindo o conhecimento de questão suscitada com base na alínea a do permissivo constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do mesmo tema. Precedentes do STJ: AgInt no AREsp n. 2.370.268/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023; AgInt no REsp n. 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 350), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. CONTRATO DE EMPRÉSTIMO. BANCO DO POVO. INADIMPLEMENTO. INSCRIÇÃO EM DÍVIDA ATIVA. INADEQUAÇÃO DA VIA ELEITA. SÚMULA N. 280 DO STF. CDA. VALIDADE. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
