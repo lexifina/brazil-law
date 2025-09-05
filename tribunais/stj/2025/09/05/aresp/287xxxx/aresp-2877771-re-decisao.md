@@ -1,0 +1,31 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 720):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO EFETIVA DE UM DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. CORRETA APLICAÇÃO DA SÚMULA 182/STJ. PRECEDENTES.
+1. Não se revela suficiente ao cumprimento do requisito da impugnação específica a argumentação de não incidência da Súmula 7/STJ, sem expor, contudo, em que medida seria possível examinar a pretensão de mérito sem incursão no acervo fático-probatório dos autos.
+2. Agravo regimental improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 735-738).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, pois o acórdão do STJ não conheceu do agravo em recurso especial com base no enunciado da Súmula n. 182 do STJ, mesmo após a defesa ter combatido adequadamente os fundamentos da decisão de inadmissão do recurso especial.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 722-723):
+De fato, não houve impugnação, de forma eficiente, de um dos fundamentos utilizados pelo Tribunal a quo para inadmitir o recurso especial, qual seja, a incidência da Súmula 7/STJ.
+A Corte estadual obstou a subida do apelo extremo por entender que a conclusão sobre o acerto ou desacerto do acórdão vergastado demandaria sensível incursão no acervo fático-probatório, de modo que se pudesse, circunstancialmente, aferir os alegados vícios no procedimento de reconhecimento pessoal e a sua valoração para a condenação do recorrente (fl. 616).
+O agravante, por seu turno, nas razões do agravo, ao atacar referido fundamento, utilizou argumentação genérica, limitando-se a mencionar a diferenciação entre revaloração e revolvimento fático, aduzindo tão somente que apelo especial não discute fatos ou provas, mas apenas roga à Corte Superior a correta valoração jurídica dos fatos que foram reconhecidos, expressamente debatidos e inadequadamente valorados pela segunda instância (fl. 629).
+Como se percebe, deixou de deduzir argumentos efetivamente concretos, aptos a evidenciar a desnecessidade de revolvimento fático do arcabouço probatório para o eventual acolhimento da pretensão trazida no especial: absolvição por falta de provas em razão de suposta nulidade do reconhecimento pessoal. E, nesse contexto, não há como negar a aplicação analógica da Súmula 182/STJ à espécie.
+Com efeito, não se revela suficiente ao cumprimento do requisito da impugnação específica a argumentação única de não incidência do apontado óbice, sem expor em que medida seria possível examinar a pretensão de mérito sem incursão no acervo fático-probatório dos autos.
+Ora, a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele atribuída e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário o revolvimento do acervo fático-probatório dos autos para a análise da insurgência. (AgInt no AREsp n. 2.141.230/SP, Ministro Herman Precedentes Benjamin, Segunda Turma, DJe 19/12/2022)
+Com efeito, para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.231.715/PB, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, DJe 14/4/2023).
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
