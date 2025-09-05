@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SERGIO CECILIO DE JESUS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta nos autos que o paciente encontra-se preso preventivamente há 90 dias, pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/06.
+A defesa sustenta a ausência de indícios de autoria e materialidade em relação a prática delituosa.
+Afirma a falta de fundamentação concreta e idônea para a segregação cautelar, defendendo que o paciente ostenta condições pessoais favoráveis.
+Argumenta, ainda, o excesso de prazo para a formação da culpa, eis que o acusado já se encontra preso preventivamente há 90 dias.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 37-39.
+Informações prestadas às fls. 44-48.
+O Ministério Público Federal em parecer, às fls. 52-60, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+In casu, a análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta da conduta atribuída, haja vista que, o paciente teria sido surpreendido pelos policiais praticando o crime de tráfico de drogas em sua própria residência, sob a luz do dia. Na ocasião, os agentes receberam informações detalhadas de que a residência do acusado era utilizada por ele e por outro corréu para o armazenamento e a comercialização de drogas. Diante dos fatos foi realizada a busca e apreensão no imóvel, onde foram apreendidos 156 gramas de cocaína, R$ 1.345,00 em espécie, uma balança de precisão, um telefone celular e um cartão de memória da câmera de segurança. Na sequência, a análise do telefone celular e do cartão de m emória da câmera de videomonitoramento da residência revelou imagens do paciente realizando a venda de entorpecentes a usuários bem como verificou-se que ele quem coordenava a venda de drogas efetuada pelo corréu - fl. 25.
+Sobre o tema:
+"A prisão preventiva foi mantida com base em elementos concretos, evidenciando a necessidade de garantia da ordem pública. A paciente foi flagrada, junto a outros envolvidos, com significativa quantidade de drogas e petrechos para o fracionamento e venda de entorpecentes em sua residência" (AgRg no HC n. 949.334/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 17/12/2024).
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Destacou, ainda, a decisão que decretou a segregação cautelar que o acusado possui ação penal em curso pela prática do mesmo delito, circunstância que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa - fl. 26.
+A propósito:
+"Justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública"(AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido: AgRg no HC n. 917.567/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024; AgRg no AREsp n. 2.451.465/PR, de minha relatoria, Quinta Turma, DJe de 13/8/2024 e AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024.
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+De mais a mais, quanto a alegada ausência de indícios de autoria e materialidade em relação a prática delituosa, bem como o excesso de prazo para a formação da culpa, da leitura do acórdão recorrido verifica-se que tais matérias não foram alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema:
+"O Tribunal de origem não analisou a matéria trazida pela defesa, o que impede a apreciação direta pelo STJ, sob pena de supressão de instância" (AgRg no RHC n. 211.183/PE, de minha relatoria, Quinta Turma, DJEN de 28/4/2025).
+"Não debatida a questão pela Corte de origem, é firme o entendimento de que fica obstada sua análise, em princípio, pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância e de violação dos princípios do duplo grau de jurisdição e do devido processo legal" (AgRg nos EDcl no HC n. 955.826/ES, relator Ministro Og Fernandes, Sexta Turma, DJEN de 12/3/2025).
+Por fim, ressalta-se que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
