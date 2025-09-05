@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por Severino Severo dos Santos, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado (fls. 111/112):
+DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL. INDENIZAÇÃO POR FÉRIAS E LICENÇAS ESPECIAIS NÃO GOZADAS. SERVIDOR PÚBLICO MILITAR INATIVO. RECONHECIMENTO DE DIREITO À CONVERSÃO EM PECÚNIA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Apelação Cível interposta por servidor público militar inativo contra sentença que julgou improcedente pedido de indenização por férias e licenças especiais não gozadas, ao fundamento de ausência de requerimento administrativo prévio e de comprovação de que o não gozo decorreu do interesse da Administração, bem como da inexistência de base normativa após a declaração de inconstitucionalidade do art. 49, IX, da Constituição Estadual (ADI 276/AL).
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se há prescrição quanto a parte do pedido de conversão de férias e licenças especiais não gozadas em pecúnia; (ii) estabelecer se o autor faz jus à conversão de férias e licenças especiais não usufruídas em indenização pecuniária após sua inatividade; (iii) determinar o marco inicial e o índice de incidência dos consectários legais. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STF (ARE 721.001/RJ - Tema 635) reconhece o direito do servidor público inativo à conversão em pecúnia de férias não usufruídas, como forma de evitar o enriquecimento sem causa da Administração Pública.
+4. A comprovação nos autos da existência de períodos aquisitivos não usufruídos por meio de certidão funcional emitida pela Polícia Militar do Estado de Alagoas constitui fato constitutivo do direito do autor (art. 373, I, CPC).
+5. A ausência de demonstração pela Administração Pública de fato impeditivo, modificativo ou extintivo do direito autoral atrai a aplicação do art. 373, II, do CPC, consolidando a pretensão indenizatória.
+6. Conforme entendimento jurisprudencial reiterado, presume-se que o não gozo de férias e licenças por servidor ativo decorre da necessidade do serviço.
+7. Reconhecida a prescrição quinquenal do pedido referente às férias vencidas em 2000 e ao período de 2001, diante do ajuizamento tardio da ação (Decreto nº 20.910/32).
+8. A indenização deve observar os critérios de atualização definidos pelo STF (RE 870.947) e STJ (Tema 905 - REsp 1.495.146/MG), aplicando-se a taxa SELIC a partir de 9 de dezembro de 2021, conforme EC nº 113/21.
+IV. DISPOSITIVO E TESE
+5. Recurso conhecido e parcialmente provido.
+Tese de julgamento: "1. O servidor público militar inativo faz jus à conversão em pecúnia de férias e licenças especiais não gozadas durante a atividade, como forma de evitar enriquecimento sem causa da Administração Pública. 2. Presume-se que a ausência de fruição decorreu da necessidade do serviço, cabendo à Administração o ônus da prova em sentido contrário. 3. A indenização devida por férias e licenças especiais não usufruídas está sujeita à prescrição quinquenal, com início na data de inatividade. 4. Os consectários legais devem seguir os critérios do Tema 905 do STJ, com incidência da SELIC a partir de 09/12/2021, conforme EC nº 113/21."
+Dispositivos relevantes citados: CF/1988, arts. 7º, XVII, e 39, § 3º; CPC, art. 373, I e II; EC nº 113/21, art. 3º; Decreto nº 20.910/32, art. 1º; Lei Estadual nº 5.346/1992, art. 98.
+Jurisprudência relevante citada: STF, ARE 721.001/RJ, rel. Min. Gilmar Mendes (Tema 635); STJ, R Esp 1.495.146/MG, rel. Min. Mauro Campbell Marques (Tema 905); TJAL, Apelação Cível nº 0718696-77.2021.8.02.0001, rel. Des. Orlando Rocha Filho.
+Sustenta a parte recorrente, além de dissídio jurisprudencial, violação ao art. 1º do Decreto n. 20.910/1932, ao argumento de que inexiste falar em prescrição quinquenal em relação aos períodos de férias não gozadas em virtude de terem sido suspensas pela Administração. Isso porque o termo inicial do prazo prescricional deve ser a data da aposentadoria e não a data da suspensão das referidas férias.
+Contrarrazões às fls. 141/149.
+Recurso admitido na origem (fls. 151/153).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Tira-se do acórdão recorrido a informação de que na subjacente demanda a parte autora, ora recorrente, "postula o pagamento de indenização por férias não gozadas, vencidas em 1989, 2000 e 2006, bem como pelas licenças especiais não usufruídas, relativas ao 3º, 4º, 5º e 6º quinquênios" (fl. 114).
+De igual modo, consta do acórdão recorrido que "no tocante às férias de 2000, observa-se que o servidor exercitou seu direito e depois houve a suspensão do período de afastamento remunerado" (fls. 115/116).
+A partir desse quadro, o Tribunal de origem entendeu que a pretensão autoral surgiu com a referida suspensão, motivo pelo qual, "quanto ao mencionado período de 2000, tem-se que  ela  se encontra prescrita, porquanto a presente ação foi ajuizada após o transcurso do lapso quinquenal" (fl. 116).
+Pois bem.
+A partir da interpretação dos arts. 1º e 3º do Decreto n. 20.910/1932 este Superior Tribunal editou a Súmula 85/STJ, segundo a qual " n as relações de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação".
+Dito de outra forma, "a prescrição sempre recairá sobre cada parcela inadimplida pela Administração, por negativa implícita ou explícita do direito" (REsp n. 1.783.975/RS, relator Ministro Herman Benjamin, Primeira Seção, DJe de 1/7/2021).
+Lado outro, a jurisprudência desta Corte também se orienta "no sentido de que o prazo prescricional para servidor pleitear ação indenizatória em virtude de férias não gozadas inicia-se com o implemento da aposentadoria (AgRg no AREsp n. 391.479/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/9/2014, DJe de 16/9/2014; AgRg no AREsp n. 186.543/BA, relator Ministro Og Fernandes, Segunda Turma, julgado em 26/11/2013, DJe de 3/12/2013.)" (AgInt no AREsp n. 1.543.016/PI, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/9/2022).
+In casu, extrai-se do acórdão recorrido que a Administração Pública em nenhum momento negou o direito da parte recorrente às férias do ano 2000, tendo ocorrido tão simplesmente a suspensão do gozo dessas férias.
+Destarte, também em relação ao referido período de férias, não tendo havido negativa prévia do direito, o prazo prescricional iniciou-se com a aposentadoria do servidor, como os demais períodos reconhecidos pela Corte estadual.
+ANTE O EXPOSTO , conheço do recurso especial e dou-lhe provimento para reformar parcialmente o acórdão recorrido, de modo a afastar a prejudicial de prescrição referente ao período de férias não gozadas do ano 2000.
+Publique-se.
+EMENTA
