@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JESSIELEN PASSOS DOS SANTOS, apontando-se como autoridade coatora o Tribunal de Justiça do Paraná, que denegou o HC n. 0032107-08.2025.8.16.0000.
+Verifica-se dos autos que a paciente está presa cautelarmente pela prática, em tese, dos delitos de tráfico ilícito de entorpecentes e de receptação e adulteração de sinal identificador de veículo automotor.
+Alega-se, em suma, no presente writ, que inexistem fundamentos idôneos a justificar a prisão preventiva e que a paciente é mãe de uma criança menor de 12 anos, o que permitiria a imposição de prisão domiciliar.
+Liminar deferida às fls. 67/69.
+Informações prestadas às fls. 75/80.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, porém, se conhecido, pela denegação da ordem (fls. 83/87).
+É o relatório.
+Em suma, pretende-se a revogação da prisão, por ausência de fundamentos idôneos, ou a conversão da prisão preventiva em prisão domiciliar em razão da existência de filhos menores de 12 anos.
+De início, infere-se dos autos que a prisão em flagrante da paciente foi convertida em preventiva, fundamentada na gravidade concreta da conduta (suposto tráfico internacional de drogas, aproximadamente 150 kg de maconha, mediante a utilização de veículo furtado ou roubado e provido de placas de identificação falsas), demonstrada pela periculosidade social da ré, isto é, nos termos do voto condutor do acórdão impugnado (fl. 45 - grifo nosso):
+ ..
+Compulsando os autos, observo, ainda, que a manutenção da custódia cautelar de ambos os indiciados afigura-se necessária à garantia da ordem pública, emergindo-se, daí, o "perigo gerado pelo estado de liberdade do s  suspeitos ", reclamado pelo art. 312, caput, in fine, do Código de Processo Penal, uma vez que os indiciados foram surpreendidos realizando o transporte (i) de vultosa quantidade de droga (consubstanciada em aproximadamente 150 quilogramas de maconha - cf. item 03 do auto de exibição e de apreensão constante da seq. 1.11); (ii) ao que tudo indica, a partir de região de fronteira internacional e (iii) mediante a utilização de um veículo furtado ou roubado e, ainda, (iv) provido de falsas placas de identificação, circunstâncias essas todas que, analisadas em conjunto, avultam, de sobremaneira, a gravidade concreta dos supostos delitos noticiados nesta senda e, ainda, estariam a apontar, em cognição sumária, para o possível envolvimento - ou ativa colaboração - dos indiciados com organização criminosa.
+ ..
+Da leitura atenta do voto condutor, denota-se que a prisão preventiva foi decretada com fundamento na garantia da ordem pública, em razão da gravidade concreta da conduta imputada à paciente, evidenciada pela apreensão de grande quantidade de entorpecentes (150 kg de maconha), em suposto tráfico internacional de drogas, mediante a utilização de veículo furtado ou roubado e provido de placas de identificação falsas.
+No entanto, no caso em análise, não se verifica fundamentação idônea para o indeferimento do benefício da prisão domiciliar, especialmente porque o motivo apontado pelo Tribunal a quo (qual seja, de que não há indicativo de que a paciente seja a única responsável pelos cuidados dos infantes - fl. 25), utilizado como óbice à concessão da benesse, não se enquadra nas hipóteses previstas nos incisos I e II do art. 318-A do CPP.
+Além disso, conforme a jurisprudência da Sexta Turma desta Corte Superior, nos termos do art. 318, V, do CPP, a indispensabilidade dos cuidados maternos para o filho menor de 12 anos é legalmente presumida (HC n. 478.138/PB, Ministra Laurita Vaz, Sexta Turma, DJe 25/6/2019), notadamente porque o benefício visa ao interesse do menor.
+Prevalece, assim, o princípio da proteção integral do menor.
+Nesse sentido: AgRg no REsp n. 2.026.547/PR, Ministra Laurita Vaz, Sexta Turma, DJe 15/3/2023; AgRg no REsp n. 2.101.494/SP, de minha relatoria, Sexta Turma, DJe 25/4/2024; e AgRg no HC n. 841.786/AP, de minha relatoria, Sexta Turma, DJe 6/6/2024.
+Ante o exposto, concedo a ordem a fim de substituir a prisão preventiva por prisão domiciliar, nos termos do art. 318, V, do Código de Processo Penal, a ser implementada pelo Magistrado singular, que poderá fixar outras cautelares, alertando-a de que, em caso de eventual descumprimento, a segregação provisória será imediatamente restabelecida (Autos n. 0010149-97.2025.8.16.0021).
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR DOMICILIAR. CABIMENTO. RÉ COM FILHOS MENORES DE DOZE ANOS DE IDADE. ARTS. 318, V, E 318-A DO CPP. PRESUNÇÃO DA IMPRESCINDIBILIDADE DOS CUIDADOS. PRECEDENTES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
