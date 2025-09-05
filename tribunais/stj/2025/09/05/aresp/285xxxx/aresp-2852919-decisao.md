@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo, interposto por SEST SERVIÇO SOCIAL DO TRANSPORTE, SENAT SERVICO NACIONAL DE APRENDIZAGEM DO TRANSPORTE, da decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o recurso especial dirigido contra o acórdão prolatado no Agravo de Instrumento n. 5029268-23.2022.4.03.0000. Veja-se a ementa (fl. 82):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PARAFISCAL DESTINADA A TERCEIROS. SISTEMA S. ILEGITIMIDADE. ENTENDIMENTO PACIFICADO. ASSISTÊNCIA. ART. 119, CPC. INTERESSE ECONÔMICO. RECURSO NÃO PROVIDO
+1. Os agravantes não possuem legitimidade para integrar o polo passivo da demanda na qual se discute a inexigibilidade de contribuições parafiscais destinadas a terceiro, vez que são apenas destinatários da exação, cabendo à União - através da Receita Federal do Brasil, Lei nº 11.457/07 - a fiscalização e arrecadação das contribuições. Precedentes dos Superior Tribunal de Justiça.
+2. Tampouco é o caso de ingresso na qualidade de assistente litisconsorcial ou simples, porquanto seu interesse na demanda é meramente econômico e não jurídico, como exigido no art. 119, CPC.
+3. Agravo de instrumento não provido.
+Opostos embargos de declaração, estes foram rejeitados (fls. 136-139).
+Recurso especial, interposto com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, alegando violação aos arts. 119, 124 e 996, parágrafo único, do Código de Processo Civil (fls. 154-176).
+Os recorrentes argumentam que, apesar de não serem sujeitos diretos da relação jurídico-tributária, são os verdadeiros credores das contribuições parafiscais, sendo titulares do direito à arrecadação do tributo.
+Sustentam que a União atua como substituto processual, enquanto o SEST e o SENAT são os substituídos, justificando sua intervenção como assistentes litisconsorciais.
+Defendem haver questão de substituição processual, em que a União está em posição de legitimação extraordinária, e o SEST e o SENAT são os substituídos. Citam o art. 18, parágrafo único, do CPC, que autoriza a assistência litisconsorcial em casos como o presente, destacando o interesse jurídico das entidades.
+Alegam que a decisão recorrida violou os arts. 119, 124 e 996, parágrafo único, do CPC ao indeferir seu pedido de ingresso no feito como assistentes litisconsorciais, bem como que possuem interesse jurídico na demanda, pois são diretamente afetados pelos efeitos da sentença a ser proferida.
+Afirmam que possuem capacidade tributária ativa, podendo realizar a cobrança das contribuições diretamente dos contribuintes, conforme disposição contida no art. 7º, § 1º, da Lei n. 8.706/1993, o que reforça seu interesse jurídico na demanda.
+Argumentam que a decisão de inexigibilidade da contribuição ou a redução da sua base de cálculo comprometerá a concretização dos objetivos institucionais das entidades, podendo representar o encerramento de suas atividades, o que evidencia seu interesse jurídico para intervir nos autos.
+Requerem a reforma da decisão recorrida e a autorização para o ingresso no polo passivo do feito como assistentes litisconsorciais.
+Apresentaram-se contrarrazões ao recurso especial (fls. 268-279).
+O recurso foi inadmitido na origem (fls. 281-284), o que ensejou a interposição do presente agravo (fls. 288-305).
+Contraminuta às fls. 308-321.
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos (fls. 282-283):
+Sobre o debate dos autos, a Primeira Seção do Superior Tribunal de Justiça, em julgamento de Embargos de Divergência (EREsp nº 1.619.954/SC), uniformizou a jurisprudência do Tribunal, afastando a legitimidade dos serviços sociais autônomos para constarem do polo passivo de ações judiciais nas quais se discutem a relação jurídico-tributária e/ou a repetição de indébito em que são partes o contribuinte e a União. Entendeu-se que, nesses casos, os serviços sociais são meros destinatários de subvenção econômica e, como pessoas jurídicas de direito privado, não participam diretamente da relação jurídico-tributária entre contribuinte e ente federado
+ ..
+Por outro lado, sem embargo da dicção do art. 119, § único, do CPC ("A assistência será admitida em qualquer procedimento e em todos os graus de jurisdição, recebendo assistente o processo no estado em que se encontre "), o STF mantém a sua jurisprudência no sentido de que é inviável a intervenção de terceiros no mandado de segurança (RExt-AgR-ED 1.046.278; DF; Segunda Turma; Rel. Min. Gilmar Mendes; DJE 06/11/2020; Pág. 102). Nesse sentido era o entendimento mesmo ao tempo do CPC anterior: RE nº 111.778/SP, Relator o Ministro Célio Borja, RTJ 123/722 - MS nº 24.414/DF, Relator o Ministro Cezar Peluso, Tribunal Pleno, DJ de 21/11/03, - MS nº 26.552/DF-AgR-AgR, Relator o Ministro Celso de Mello , Tribunal Pleno, DJe de 16/10/09 - RE 575.093/SP AgR, Rel. Ministro MARCO AURÉLIO, TRIBUNAL PLENO, DJe de 11/02/2011; MS nº 26.794/MS-AgR, Relator o Ministro Marco Aurélio, Tribunal Pleno, DJe de 1º/8/13 - MS 32.074/DF, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 05/11/2014.
+ ..
+Considerando ser esse o entendimento nos Tribunais Superiores, a pretensão de ingresso das entidades "terceiras" integrantes do chamado "Sistema S" é contrária à jurisprudência pacífica do STF e do STJ, que vem em prestígio do art. 24 da LMS.
+Verifica-se, portanto, que a pretensão recursal desafia o entendimento consolidado pelo STJ, o que inviabiliza também sua admissão com base no dissídio jurisprudencial (Súmula nº 83, STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação de que "o STF mantém a sua jurisprudência no sentido de que é inviável a intervenção de terceiros no mandado de segurança", bem como de que "a pretensão de ingresso das entidades "terceiras" integrantes do chamado "Sistema S" é contrária à jurisprudência pacífica do STF", conforme destacada acima.
+Por conseguinte, aplicam-se o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial do Superior Tribunal de Justiça firmou entendimento de que o provimento judicial que inadmite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Des sa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto de decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PARAFISCAL DESTINADA A TERCEIROS. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE ALGUNS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
