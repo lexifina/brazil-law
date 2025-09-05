@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de HENRIQUE PEDRO RIBEIRO RODRIGUES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso preventivamentepela suposta prática dos crimes previstos nos artigos 33 e 35 da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 12-18.
+No presente writ, a defesa sustenta que a prisão preventiva foi decretada sem fundamentação idônea, com base em elementos inerentes ao tipo penal, sem demonstrar o perigo concreto gerado pelo estado de liberdade do paciente, em afronta ao art. 312 do Código de Processo Penal.
+Alega que o paciente é primário, possui bons antecedentes e residência fixa, condições pessoais favoráveis que não foram devidamente valoradas.
+Afirma a possibilidade da aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, além de que o prognóstico de pena em caso de condenação seria favorável, com fixação de regime diverso do fechado, o que demonstra a desproporcionalidade da prisão preventiva.
+Requer a revogação da prisão preventiva, ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade e variedade de droga apreendida - Apreensão de (03 sacos de flor e 02 tijolos de maconha, pesando 3,26kg (três quilos e vinte e seis gramas), 55 porções e 01 barra de haxixe, pesando 750,7g Setecentos e cinquenta gramas e sete décimos de grama) , 06 canetas de THC, pesando 64,1g(sessenta e quatro gramas e um décimo de gramas).
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Quanto a afirmação de que em caso de condenação terá direito a regime diverso do fechado,a desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual.
+Nesse sentido:
+"Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado" (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
