@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por VILDO VIDAL DOS SANTOS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 97):
+ADMINISTRATIVO. SISTEMA FINANCEIRO DA HABITAÇÃO. QUITAÇÃO PELO FCVS.
+Uma vez pagas todas as prestações do financiamento, o saldo devedor remanescente dever ser quitado pelo FCVS.
+Os embargos de declaração opostos foram acolhidos (fl. 150):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. LEI Nº10.150/00.
+Para que seja possível a liquidação antecipada é necessário que o contrato tenha sido celebrado até 30 de dezembro de 1987, que possua cobertura do FCVS e que o mutuário esteja em dia com o pagamento das prestações na data do requerimento administrativo ou judicial.
+Em suas razões recursais, a parte recorrente aponta a violação ao art. 2º, § 3º, da Lei 10.150/2000, sustentando que o acórdão recorrido impôs requisitos não previstos em lei para a liquidação antecipada do contrato de financiamento habitacional, como a exigência de adimplência na data do requerimento administrativo ou judicial.
+Aduz que a lei não contempla tal exigência e que o direito à liquidação antecipada deve ser garantido desde que o contrato tenha sido firmado antes de 31/12/1987 e possua cobertura do Fundo de Compensação de Variações Salariais (FCVS).
+Requer o provimento do recurso especial para o fim de ser reformado o acórdão recorrido e ser declarada a quitação antecipada da dívida, com exoneração das prestações a partir de 7/10/2002 ou, alternativamente, a partir de 27/9/2000.
+Não foram apresentadas contrarrazões (fl. 172).
+O recurso foi admitido (fl. 180).
+Os autos foram redistribuídos, em 9/6/2014 (fl. 189), ao Ministro Napoleão Nunes Maia Filho, o qual determinou o sobrestamento do processo até o julgamento do Conflito de Competência 140.456/RS (fl. 190 ).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Trata-se de ação de rito ordinário ajuizada pela parte recorrente contra a Caixa Econômica Federal, objetivando a quitação antecipada do saldo devedor, em contrato de mútuo habitacional do Sistema Financeiro da Habitação (SFH) com cobertura do Fundo de Compensação das Variações Salariais (FCVS), conforme as disposições da Lei 10.150/2000.
+O Juízo de primeiro grau julgou improcedente o pedido (fls. 60/64) e o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO negou provimento ao apelo da parte autora, visto que ela já havia se beneficiado dos descontos previstos pela Lei 10.150/2000 e que, após a quitação antecipada da dívida, não poderia pretender a revisão das prestações, presumindo-se a aceitação dos valores cobrados até então (fls. (fls. 93/97).
+O Tribunal a quo acolheu os embargos de declaração para analisar a questão da liquidação antecipada à luz da Lei 10.150/2000, mas manteve o entendimento de que a adimplência na data do requerimento administrativo ou judicial seria requisito indispensável para a concessão do benefício. Eis pertinente trecho da decisão (fls. 148/150):
+No que se refere à liquidação antecipada, a Lei 10.150/00 estabeleceu uma série de requisitos, beneficiando os contratos de mútuo habitacional do SFH firmados com cobertura do FCVS que se adequassem à hipótese legal. O percentual de desconto depende da data do contrato. A jurisprudência vem acrescentando requisito lógico, que aplico integralmente, qual seja a adimplência do contrato à época do requerimento administrativo ou judicial, tendo em vista não ser transferível ao Fundo qualquer valor além do saldo residual.
+No caso presente, as partes firmaram contrato, em 30/10/1986, no qual ficou estabelecido o prazo de 264 meses para a amortização integral da divida. De acordo com as informações prestadas nos autos, a parte mutuária efetuou o pagamento dos encargos até outubro/2001.
+ ..
+Para que seja possível a liquidação antecipada, então é necessário que o contrato tenha sido celebrado até 30 de dezembro de 1987, que possua cobertura do FCVS e que o mutuário esteja em dia com o pagamento das prestações na data do requerimento administrativo ou judicial.
+No presente caso, o requerimento administrativo foi efetuado em 07/10/2002 e a presente ação proposta em março/2003.
+Destaco que as prestações exigíveis durante a vigência do contrato são de inteira responsabilidade do mutuário. Ademais, tenho entendimento d que é irretroativo o pedido.
+Em decorrência, configurada a inadimplência do autor, não tem o mesmo direito à liquidação antecipada nos termos da Lei nº 10.150/00, pois ausentes os requisitos legais.
+Sobre a matéria, o Superior Tribunal de Justiça firmou o entendimento de que, para que surja o direito à liquidação antecipada do contrato, nos termos dos arts. 2º e 3º da Lei 10.150/2000, devem ser observados três requisitos, quais sejam: (1) que o contrato tenha sido assinado até 31 de dezembro de 1987; (2) que tenha previsão de cobertura do saldo residual pelo FCVS; e (3) que as prestações tenham sido adimplidas até a data da edição da lei em questão.
+Assim, para ter direito à liquidação antecipada do contrato, nos termos da Lei 10.150/2000, os mutuários não necessitam quitar todas as prestações do contrato original, mas apenas aquelas em atraso até a data da edição da norma, ou seja, setembro de 2000.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SFH. QUITAÇÃO. LEI 10.150/2000. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Para esta Corte, a Lei 10.150/2000, ao prever a quitação do saldo devedor residual dos contratos, estabeleceu três condições: (a) previsão contratual de cobertura pelo fundo de compensação de variações salariais (FCVS); (b) contratação anterior a 31/12/1987; e (c) adimplência integral das parcelas devidas até então.
+2. Hipótese em que o Tribunal de origem expressamente afirma a existência de saldo a ser adimplido pelos mutuários, pendente de regularização, circunstância que afasta a aplicação da benesse conferida pela Lei 10.150/2000. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas.
+Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 182.467/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024, sem destaque no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SFH. COBERTURA SECURITÁRIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - Verifica-se que o acórdão recorrido encontra-se alinhado à jurisprudência desta Corte Superior, ao prever que a quitação do saldo residual do contrato é possível desde que atendidas às seguintes condições: previsão de cobertura pelo FCVS, contrato firmado antes de 31/12/1987 e adimplemento das prestações até então devidas. Nesse sentido: AgRg no REsp n. 1.205.374/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/9/2016, DJe de 11/10/2016; AgRg no AREsp n. 30.333/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, julgado em 8/9/2015, DJe de 22/9/2015; AgRg no REsp n. 1.539.379/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 3/9/2015, DJe de 17/9/2015; AgRg no REsp n. 1.368.630/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/3/2015, DJe de 25/3/2015.
+IV - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.505.808/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024, sem destaque no original.)
+Além disso, a liquidação antecipada da dívida não é automática, sendo imprescindível a apresentação de pedido administrativo à instituição financeira, a fim de que ela tome ciência da pretensão do mutuário.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO - SFH. AÇÃO REVISIONAL. LIQUIDAÇÃO ANTECIPADA DA DÍVIDA A PARTIR DE SETEMBRO DE 2000. LEI N. 10.150/2000. NECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARATÓRIOS. SÚMULA N. 211/STJ.
+1. ""Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula n. 211/STJ).
+2. O acórdão impugnado não emitiu nenhuma consideração quanto ao tema inserto no art. 42, parágrafo único, do Código de Defesa do Consumidor, e os recorrentes, ora agravantes, furtaram-se a manejar os imprescindíveis embargos de declaração.
+3. A liquidação antecipada da dívida, arrimada na Lei n. 10.150/2000, não é automática e prescinde de prévio requerimento junto ao agente financeiro, conforme sedimentado pelo Primeira Seção, no julgamento do REsp 1.133.769/RN à luz do art. 543-C do CPC (acórdão publicado no DJe em 18/12/2009).
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.403.234/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/3/2015, DJe de 27/3/2015.)
+No presente caso, o Tribunal de origem concluiu pela existência de saldo a ser adimplido pelos mutuários, pendente de regularização, tendo em vista que "a parte mutuária efetuou o pagamento dos encargos até outubro/2001" (fl. 148) e que "o requerimento administrativo foi efetuado em 07/10/2002 e a presente ação proposta em março/2003" (fl. 149), circunstância que afasta a aplicação da benesse conferida pela Lei 10.150/2000.
+A revisão dessa premissa, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
