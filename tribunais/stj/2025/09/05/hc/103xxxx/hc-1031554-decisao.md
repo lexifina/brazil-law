@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de DIONATAN DOS SANTOS LIMA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+DIREITO PENAL. AGRAVO EM EXECUÇÃO. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. REGIME SEMIABERTO. AUSÊNCIA DOS REQUISITOS DO ART. 117 DA LEP. EXPRESSIVO SALDO DE PENA. PROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+1. Agravo em execução interposto pelo Ministério Público contra decisão que deferiu ao apenado prisão domiciliar mediante monitoramento eletrônico, como forma de harmonização do cumprimento de pena no regime semiaberto.
+II. QUESTÃO EM DISCUSSÃO:
+1. Há duas questões em discussão: (i) a possibilidade de concessão de prisão domiciliar com monitoramento eletrônico a apenado em regime semiaberto; (ii) subsidiariamente, a necessidade de redução da zona de controle do monitoramento eletrônico, limitando-se à residência do apenado.
+III. RAZÕES DE DECIDIR:
+1. O apenado cumpre pena total de 11 anos, 8 meses e 15 dias de reclusão pela prática do delito de tráfico de drogas, com saldo remanescente superior a 5 anos e 6 meses.
+2. A decisão agravada não analisou o expressivo saldo de pena a cumprir e a gravidade do crime pelo qual o apenado foi condenado.
+3. Embora os Tribunais tenham feito uma leitura mais complacente sobre o alargamento das hipóteses de concessão de prisão domiciliar, as exceções são limitadas aos réus presos no regime aberto e, mais raramente, aos presos no regime semiaberto, observadas as hipóteses do art. 117 da LEP.
+4. É inviável a concessão da prisão domiciliar mediante monitoramento eletrônico com fundamento na Súmula n. 56 do STF sem observar o critério isonômico estabelecido no REsp 1710674/MG, que prioriza o sistema progressivo vigente.
+5. Ao deferir o benefício da prisão domiciliar, deve-se privilegiar os apenados há mais tempo inseridos no regime intermediário e/ou mais próximos da obtenção do regime aberto, não sendo possível a inclusão automática no programa de monitoramento de forma aleatória.
+IV. DISPOSITIVO E TESE:
+1. Recurso provido para revogar a decisão que concedeu a prisão domiciliar com monitoramento eletrônico ao apenado, determinando seu imediato recolhimento em casa prisional do regime semiaberto.
+Tese de julgamento: 1. A concessão de prisão domiciliar com monitoramento eletrônico a apenados em regime semiaberto deve observar as hipóteses do art. 117 da LEP e o critério isonômico que privilegia os apenados há mais tempo no regime ou mais próximos da progressão.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois deve ser autorizado o cumprimento da pena em prisão domiciliar mediante monitoramento eletrônico, considerando a inexistência de vaga em estabelecimento prisional compatível com o regime semiaberto, em observância à Súmula Vinculante n. 56.
+Por fim, afirma ser impossível que a situação seja solucionada pela implementação dos parâmetros previstos no RE n. 641.320/RS, pois subsistiria a inexistência de estabelecimento penal adequado, considerando, notadamente, a situação prisional caótica do Estado Rio Grande do Sul.
+Requer, em suma, o restabelecimento da prisão domiciliar.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Em síntese, ao deferir o benefício da prisão domiciliar, deve-se privilegiar os apenados há mais tempo inseridos no regime de pena intermediário e/ou mais próximos da obtenção do regime aberto, não sendo possível proceder à inclusão automática dos presos beneficiados no programa especial de monitoramento, de forma aleatória, sob pena de ocorrerem flagrantes injustiças entre os apenados, pois seria possível que um indivíduo, próximo de encerrar a execução de sua pena, permanecesse encarcerado, ao passo que outro, com saldo maior a cumprir e condenação mais recente, fosse posto em liberdade (fl. 12).
+O Supremo Tribunal Federal editou a Súmula Vinculante n. 56, segundo a qual "a falta de vagas em estabelecimento prisional não autoriza a manutenção do preso em regime mais gravoso, devendo-se observar, nessa hipótese, os parâmetros do RE 641.320/RS".
+A Terceira Seção do STJ, por sua vez, no julgamento do Tema Repetitivo n. 993, fixou a seguinte tese:
+"A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos da Súmula Vinculante nº 56, é imprescindível que a adoção de tal medida seja precedida das providências estabelecidas no julgamento do RE nº 641.320/RS, quais sejam: (i) saída antecipada de outro sentenciado no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de progredir; ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; e (iii) cumprimento de penas restritivas de direitos e/ou estudo aos sentenciados em regime aberto." (REsp n. 1.710.674/MG, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 3.9.2018).
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. AUSÊNCIA DE VAGAS. PROGRESSÃO AO REGIME ABERTO. INDEFERIMENTO DO BENEFÍCIO. CUMPRIMENTO EM PRESÍDIO ADEQUADO AO REGIME INTERMEDIÁRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal, nos termos da Súmula Vinculante n. 56, entende que "a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS".
+ ..
+3. No caso dos autos, todavia, não há razões suficientes para a excepcional colocação do reeducando no regime aberto, uma vez que o Tribunal de origem expressamente dispôs que ele já se encontra em estabelecimento penal compatível com o regime semiaberto. Assim, não há constrangimento ilegal a ser sanado, devendo ser mantida a decisão agravada por seus próprios fundamentos. Precedentes.
+4. Agravo regimental não provido. (AgRg no HC n. 785.131/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 17.3.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. ANTECIPAÇÃO. NÃO CUMPRIMENTO REQUISITO OBJETIVO. APENADO EM ESTABELECIMENTO ADEQUADO. SÚMULA VINCULANTE N. 56 DO STF. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme explicitado anteriormente, os parâmetros elencados pela Súmula Vinculante n. 56são de aplicação casuística pelo Juiz da VEC a depender de situação concreta e local de excesso de execução ou atentatória à dignidade do preso. Durante a pandemia, o Conselho Nacional de Justiça recomendou a antecipação da progressão de regime como medida excepcional de controle da evolução da Covid-19 entre as pessoas presas, em especial as integrantes do grupo de risco da doença.
+2. A afirmação geral da Defensoria Pública, de déficit de vagas no sistema prisional paulista, sem que o paciente esteja cumprindo pena em regime mais gravoso, não autoriza a saída antecipada do cárcere, à míngua de previsão legal.
+3. No caso, o apenado cumpre pena no regime semiaberto, em unidade penal adaptada no modo intermediário, e ainda não preencheu o requisito objetivo do art. 112 da LEP, ausente o direito à progressão ao regime aberto, ainda que de forma antecipada. Não consta nenhuma situação atentatória à sua dignidade para incidência da Súmula Vinculante n. 56 do STF.
+4. Agravo regimental não provido. Recomendação. (AgRg no HC n. 780.571/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 16.3.2023.)
+Na espécie, dos trechos supratranscritos verifica-se que o acórdão impugnado não destoa do entendimento desta Corte Superior, de que a inexistência de vaga em estabelecimento prisional adequado não autoriza a imediata liberação do apenado para a prisão domiciliar, sendo imprescindível que tal medida seja precedida das providências previstas no julgamento do RE N. 641.320/RS, conforme determina a Súmula Vinculante n. 56. Ademais, para infirmar essa razão de decidir do acórdão impugnado seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
