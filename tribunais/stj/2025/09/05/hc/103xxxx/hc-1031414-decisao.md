@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de SINEZIA PRATA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Revisão Criminal n. 0625664-68.2025.8.06.0000).
+Depreende-se dos autos que a ora paciente foi condenada à pena de 10 anos e 4 meses de reclusão, em regime inicial fechado, e 105 dias-multa, em razão da prática dos crimes previstos no art. 2º da Lei n. 12.850/2013 e nos arts. 157, § 2º, inciso II, e 171, ambos do Código Penal.
+Com o trânsito em julgado da condenação, a defesa ajuizou revisão criminal na origem, a qual mereceu conhecimento em parte e, nessa extensão, foi julgada improcedente, nos termos da ementa de e-STJ fls. 20/21:
+DIREITO PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL. ORGANIZAÇÃO CRIMINOSA, ESTELIONATO E ROUBO MAJORADO. ALEGAÇÃO DE NULIDADE DE BUSCA VEICULAR E DOMICILIAR. RECONHECIMENTO FOTOGRÁFICO. INVERSÃO NA ORDEM DOS ATOS PROCESSUAIS. AUSÊNCIA DE PROVAS PARA CONDENAÇÃO. INEXISTÊNCIA DE ILICITUDE NAS BUSCAS. PROVAS CORROBORADAS EM JUÍZO. PRECLUSÃO E FALTA DE DEMONSTRAÇÃO DE PREJUÍZO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. PEDIDO PARCIALMENTE CONHECIDO E, NESTA PARTE, IMPROCEDENTE.
+I. CASO EM EXAME
+1. Revisão criminal ajuizada por condenada a 10 anos e 4 meses de reclusão e 105 dias-multa pelos crimes previstos no art. 2º da Lei nº 12.850/2013, art. 171 do CP e art. 157, § 2º, II, do CP, objetivando (i) declaração de nulidade de buscas veicular e domiciliar e das provas derivadas; (ii) nulidade de reconhecimento fotográfico; (iii) nulidade por inversão na ordem de atos processuais; (iv) absolvição ou desclassificação do crime de roubo por ausência de provas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há quatro questões em discussão: (i) definir se as buscas veicular e domiciliar foram ilícitas por ausência de fundada suspeita; (ii) estabelecer se o reconhecimento fotográfico é nulo pela inobservância do art. 226 do CPP; (iii) determinar se houve nulidade pela inversão da ordem dos atos processuais; (iv) verificar se há ausência de provas suficientes para manter a condenação pelo crime de roubo.
+III. RAZÕES DE DECIDIR
+3. As buscas veicular e domiciliar são válidas quando fundadas em elementos concretos, como informações de inteligência, denúncias específicas, vigilância prévia e apreensão de objetos relacionados a crimes patrimoniais, o que afasta a alegada nulidade.
+4. O reconhecimento fotográfico não contamina a condenação quando há outras provas colhidas sob contraditório, como depoimentos de policiais, apreensão de objetos da vítima e confirmação desta em juízo, afastando a incidência da nulidade do art. 226 do CPP.
+5. A inversão na ordem de atos processuais, sujeita a preclusão e à demonstração de prejuízo concreto, não gera nulidade se não arguida tempestivamente e se a defesa pôde atuar amplamente, sem comprovação de cerceamento.
+6. O pedido de absolvição ou desclassificação fundado na alegada insuficiência de provas constitui tentativa de reexame do conjunto fático-probatório já apreciado em apelação, não se enquadrando nas hipóteses do art. 621 do CPP.
+IV. DISPOSITIVO E TESE
+7. Revisão criminal parcialmente conhecida e, nessa parte, julgada improcedente.
+Teses de julgamento: "1. A existência de fundadas razões concretas legitima buscas veicular e domiciliar sem mandado judicial, afastando a aplicação da teoria dos frutos da árvore envenenada. 2. O reconhecimento fotográfico é válido quando corroborado por provas produzidas em juízo sob contraditório. 3. A nulidade por inversão da ordem dos atos processuais depende de arguição tempestiva e prova de prejuízo efetivo. 4. A revisão criminal não pode ser utilizada para reexame de provas ou rediscussão de questões já decididas em apelação."
+Daí o presente writ, no qual sustenta a defesa a ilicitude das provas decorrentes das buscas veicular e domiciliar, uma vez que não foram apontadas fundadas suspeitas para a sua realização. Aduz que as referidas buscas foram desencadeadas "apenas em razão de uma denúncia anônima genérica, sem qualquer diligência prévia de verificação da veracidade dos fatos narrados" (e-STJ fl. 9).
+Assere a nulidade do reconhecimento fotográfico ocorrido na fase de investigação, em relação ao crime de roubo, diante da total inobservância das formalidades do art. 226 do Código de Processo Penal. Acrescenta que não foi ratificado o reconhecimento na fase judicial, sob o crivo do contraditório e da ampla defesa.
+Diante dessas considerações, pede o trancamento da ação penal, por falta de justa causa.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção, o que não é o caso do presente writ.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
