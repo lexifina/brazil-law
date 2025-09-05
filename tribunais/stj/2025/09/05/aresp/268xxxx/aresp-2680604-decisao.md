@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por Fazenda Nacional contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 980):
+EMBARGOS DE DECLARAÇÃO. DECLARAÇÃO DE INEXIGIBILIDADE DOS DÉBITOS REFERENTES AO IMPOSTO DE RENDA PESSOA JURÍDICA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO, DEVIDOS NO ANO BASE DE 1991, EXERCÍCIO DE 1992, EM FACE DA OCORRÊNCIA DA PRESCRIÇÃO. OMISSÃO RECONHECIDA PELO E. STJ NO JULGAMENTO DE RECURSO ESPECIAL. ACÓRDÃO ANTERIOR REFORMADO. RECURSO PROVIDO, COM EFEITOS INFRINGENTES. 1. No caso, considerando o entendimento da Súmula 112, que tem o seguinte enunciado: "O deposito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro", temos que a prescrição consumou-se no quinquênio posterior ao da entrega da Declaração de Rendimento da Pessoa Jurídica em 30.04.92, tendo em vista que a realização da contratação da fiança bancária em favor da União, não suspendeu a exigibilidade do crédito tributário Federal o qual prescreveu na data de 30.04.97. 2. Embargos de declaração providos com efeitos infringentes, para reformar o acórdão e dar provimento ao agravo.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.044/1.053).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos: I. arts. 489, § 1º, IV, e 1.022, II, do CPC, ao argumento de que o acórdão recorrido incorreu em omissão ao não analisar "que existia decisão judicial suspendendo a exigibilidade do crédito tributário, bem como que a questão do prazo prescricional já havia sido decidida pelo Tribunal Regional Federal da 3ª Região" (fl. 1.069); e II. art. 1.026, § 2º, do CPC, porque a imposição de multa por embargos de declaração considerados protelatórios foi indevida.
+Foram ofertadas contrarrazões às fls. 1.098/1.119.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC.
+Com efeito, a Fazenda Nacional sustentou em seus embargos de declaração "que existia decisão judicial suspendendo a exigibilidade do crédito tributário, bem como que a questão do prazo prescricional já havia sido decidida pelo Tribunal Regional Federal da 3ª Região" (fl. 1.069).
+No entanto, quando da análise dos embargos aclaratórios (fls. 1.044/1.053), o Tribunal de origem quedou-se silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante (fls. 991/996 ).
+Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 19/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2021)
+Uma vez reconhecida a ne gativa de prestação jurisdicional, resta prejudicado o exame das demais questões suscitadas no apelo raro.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial por violação ao art. 1.022 do CPC, determinando novo julgamento dos aludidos embargos de declaração.
+Publique-se.
+EMENTA
