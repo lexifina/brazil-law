@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fls. 243/244):
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. INCAPACIDADE TEMPORÁRIA (JOELHO). LICENCIAMENTO INDEVIDO. REINTEGRAÇÃO PARA TRATAMENTO DA SAÚDE. VINCULAÇÃO NA CONDIÇÃO DE ADIDO. DIREITO À REMUNERAÇÃO DESDE O LICENCIAMENTO. SITUAÇÃO INSTITUCIONAL DE ENCOSTADO. DESCABIMENTO. SENTENÇA CONFIRMADA. APELAÇÃO DA UNIÃO E REMESSA NECESSÁRIA DESPROVIDAS.
+1. Sentença proferida na vigência do Código de Processo Civil de 2015, que julgou parcialmente procedente o pedido do autor, para reintegrá-lo na condição de adido, para fins de tratamento médico, até sua recuperação ou eventual reforma, e condenou a União ao pagamento das remunerações retroativas, no período de 8 (oito) meses, bem assim ao pagamento de R$ 5.000,00 (cinco mil reais), a título de danos morais.
+2. Militar temporário que se encontre incapaz temporariamente para o serviço, deve ser reintegrado no serviço militar para tratamento de sua saúde, permanecendo na unidade militar na condição de adido, com percepção da correspondente vantagem remuneratória.
+3. Descabimento de reintegração de militar temporário, com incapacidade temporária, na condição de encostado para tratamento médico sem e devida retribuição pecuniária do posto (AgInt no AREsp: 1965842 DF 2021/0293592-4, Data de Julgamento: 17/05/2022, T2 - SEGUNDA TURMA, Data de Publicação: DJe 24/05/2022).
+4. Publicada a sentença na vigência do atual CPC (a partir de 18/03/2016, inclusive) e desprovido o recurso de apelação, majoro os honorários arbitrados na origem em 1% (um por cento), cuja exigibilidade fica suspensa em caso de gratuidade de justiça.
+5. Apelação da União e remessa necessária desprovidas.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 106, II, 108, III, IV e VI, 110 §1º e 111, todos da Lei 6.880/80 e 3º, nº 14, c/c 149 do Decreto nº 57.654/66. Sustenta, em resumo, que "não há razão jurídica para se impedir a desincorporação de militar sem direito a reforma. Até mesmo porque na hipótese de o militar temporário necessitar de tratamento médico ainda após a desincorporação, mesmo não possuindo direito à reforma, pode ser mantido em " ENCOSTAMENTO " à Organização Militar de origem, única e exclusivamente para fim de tratamento médico, não fazendo jus à percepção de vencimentos, nos termos do n. 14 do art. 3º, c/c art. 149, todos do Decreto n. 57.654/66.  ..  a União requer o conhecimento e processamento do presente recurso e, no mérito, seu provimento para o fim de reformar o acórdão, para licenciar o autor das Forças Armadas ou garantir somente seu encostamento." (fls. 264/268).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 229/233):
+Militar temporário que se encontre incapaz temporariamente (não definitiva) para o serviço, deve ser reintegrado no serviço militar para fins de tratamento de sua saúde, permanecendo na unidade militar na condição de adido, com percepção da correspondente vantagem remuneratória (soldos).
+Nesse sentido, anoto o seguinte precedente do Superior Tribunal de Justiça - STJ, verbis:
+ ..
+Como se vê, não há que se falar em reintegração de militar temporário, com incapacidade temporária, na condição de encostado para fins de tratamento médico sem a devida retribuição pecuniária do posto.
+Sobre a questão, anoto, ainda, precedentes desta Primeira Turma, inclusive de minha relatoria, confira-se:
+ ..
+Constatada pela perícia judicial e demais documentos que o autor padece de moléstia temporária (joelho esquerdo), acertada a sentença que reconheceu o direito de reintegração na condição de adito, da qual colho o seguinte fragmento esclarecedor, verbis:
+"No caso em exame, há prova de acidente em serviço, ocorrido em 25/05/2005, reconhecido em sindicância do Exército, conforme documentos de fls. 16/20. Sobre referida documentação, a União não apresentou nenhuma objeção.
+Assim, já definido que a lesão do joelho guarda relação de causa/efeito com as atividades militares, resta saber se todo o contexto probatório aponta para a existência de incapacidade e se definitiva ou temporária.
+(..)
+Todavia, embora não esteja incapaz definitiva e permanentemente, é possível concluir que o autor não se encontrava plenamente apto para o serviço militar. Isso porque subsiste incapacidade temporária  reversível mediante cirurgia) para atividades que demandem esforços físicos intensos (parcial).
+(..)
+Tanto os laudos médicos da época (2006 e 2007) quanto a perícia realizada neste juízo, em 2017, concluem pela incapacidade temporária, ligada a atividades de grande esforço, como acima retratado. Além disso, indicam a necessidade de tratamento médico (cirúrgico e fisioterapêutico).
+Assim, apesar não ter sido considerado inválido nem incapaz definitivamente para o serviço militar, tanto na época do desligamento quanto nos dias de hoje, necessitava (e necessita) da continuação do tratamento médico.
+Tratando-se de acidente em serviço, de incapacidade parcial e temporária para atividades que exigem grande esforço físico e de possibilidade de tratamento, é possível inferir a ilegalidade da desincorporação. pois há provas que ele ainda necessitava de cuidados médicos, razão pela qual merece ser acolhido o pedido de reincorporação às fileiras do Exército para fins de continuação do serviço médico".
+Assim, não há como nem por onde acolher a pretensão da apelante, pelo que o não provimento de seu recurso é medida que se impõe.
+Nesse contexto, observa-se que a desconstituição das premissas lançadas pela instância de origem acerca da incapacidade parcial e temporária do autor e da respectiva necessidade de sua reintegração na condição de adido para fins de tratamento de saúde, ensejaria o revolvimento do acervo fático, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+Acrescente-se que o entendimento firmado pelo Tribunal de origem não destoa da orientação jurisprudencial deste Superior Tribunal segundo a qual é ilegal o licenciamento do militar temporariamente incapacitado, sem que lhe seja oportunizado tratamento de saúde.
+Vejam-se os seguintes precedentes:
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. MILITAR TEMPORÁRIO. INCAPACIDADE TEMPORÁRIA. LICENCIAMENTO INDEVIDO. REINTEGRAÇÃO COMO ADIDO PARA TRATAMENTO MÉDICO, INDEPENDENTEMENTE DE RELAÇÃO CAUSAL ENTRE A DOENÇA E A ATIVIDADE MILITAR. PROVIMENTO NEGADO.
+1. O cerne da controvérsia consiste em saber se cabe reconhecer o direito da parte agravada à condição de adido ante a incapacidade temporária quando do licenciamento.
+2. O acórdão recorrido diverge do entendimento do Superior Tribunal de Justiça de que ao militar, em casos como o destes autos, deve ser assegurada a reintegração, na condição de adido, para o tratamento médico hospitalar adequado, com a percepção de soldo e demais vantagens remuneratórias desde o licenciamento até a sua recuperação.
+3. A "reintegração de militar temporário para fins de tratamento médico de moléstia que o torne temporariamente incapaz, independentemente de relação causal entre a essa e o serviço militar". (AgInt no AREsp 1.736.011/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 30/8/2021, DJe de 2/9/2021).
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.175.108/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. MILITAR TEMPORÁRIO. INCAPACIDADE TEMPORÁRIA. LICENCIAMENTO INDEVIDO. REINTEGRAÇÃO COMO ADIDO PARA TRATAMENTO MÉDICO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. O aresto regional se afastou da orientação jurisprudencial deste Superior Tribunal segundo a qual é ilegal o licenciamento do militar temporário ou de carreira que, por motivo de enfermidade física ou mental acometida no exercício da atividade castrense, tornou-se temporariamente incapacitado, sendo-lhe assegurada, na condição de adido, a reintegração ao quadro de origem, para o tratamento médico-hospitalar adequado, com a percepção de soldo e demais vantagens remuneratórios, desde a data do licenciamento indevido até sua recuperação (AgInt no REsp 1865568 RS, relator Ministro Herman Benjamin, DJe 26/6/2020) 3. Agravo interno não provido.
+(AgInt no REsp n. 2.076.560/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. MILITAR TEMPORÁRIO. INCAPACIDADE TEMPORÁRIA. LICENCIAMENTO. IMPOSSIBILIDADE. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE.
+1. Inexiste omissão no julgado quando o Tribunal local se manifesta adequadamente sobre as questões suscitadas na apelação, descabendo exigir-se pronunciamento quanto a matérias apenas alegadas nos embargos de declaração.
+2. As teses pertinentes ao descabimento da agregação do militar e da contagem do período de tratamento médico para aquisição de estabilidade ou reforma não foram objeto de prequestionamento.
+Incidência da Súmula 211/STJ.
+3. O militar temporário acometido de debilidade física ou mental não definitiva não pode ser licenciado, fazendo jus à reintegração ao quadro de origem para tratamento médico-hospitalar adequado à incapacidade temporária, como adido, bem como à percepção de soldo e demais vantagens remuneratórias desde a data do indevido licenciamento. Precedentes.
+4. Recurso especial a que se nega provimento.
+(REsp n. 1.580.184/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/5/2022, DJe de 5/12/2022.)
+Ainda na linha de nossa jurisprudência, uma vez constatada a ilegalidade do ato administrativo que excluiu o militar, é legítimo o pagamento das parcelas pretéritas relativas ao período que medeia o licenciamento ex officio e a reintegração do militar.
+A propósito, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR TEMPORÁRIO. INCAPACIDADE TEMPORÁRIA. LICENCIAMENTO INDEVIDO. REINTEGRAÇÃO COMO ADIDO PARA TRATAMENTO MÉDICO. PAGAMENTO DOS VENCIMENTOS E DAS PARCELAS PRETÉRITAS.
+1. Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.2. Conforme jurisprudência consolidada desta Corte, é ilegal o licenciamento do militar temporário ou de carreira que, por motivo de enfermidade física ou mental acometida no exercício da atividade castrense, tornou-se temporariamente incapacitado, sendo-lhe assegurada, na condição de adido, a reintegração ao quadro de origem, para o tratamento médico-hospitalar adequado, com a percepção de soldo e demais vantagens remuneratórios, desde a data do licenciamento indevido até sua recuperação. Precedentes.
+3.Agravo interno não provido.
+(AgInt no REsp n. 1.994.901/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. INOVAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MILITAR. INCAPACIDADE. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. É inadmissível Recurso Especial quanto à questão (dispositivos do Código Civil, do Código de Processo Civil, das Leis 4.375/1964 e 6.880/1980 e do Decreto 57654/1966), que não foi apreciada pelo Tribunal a quo, a despeito da oposição de Embargos Declaratórios. Incidência da Súmula 211/STJ.
+3. Hipótese em que o Tribunal de origem concluiu, com base na prova dos autos, que a lesão que acomete o agravado é permanente e o impossibilita de esforços físicos de média a grande intensidade, os quais são exigidos aos militares. A revisão desse entendimento implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+4. O STJ firmou o entendimento de que mesmo o militar temporário tem direito a assistência médico-hospitalar, na condição de adido, com o fito de garantir- lhe adequado tratamento de incapacidade temporária.
+5. Constatada a ilegalidade do ato administrativo que excluiu o militar, é legítimo o pagamento das parcelas pretéritas relativas ao período que medeia o licenciamento ex officio e a reintegração do militar. Precedentes do STJ.
+6. Agravo Regimental não provido.
+(AgRg no Ag 1390336/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/06/2011, DJe 09/06/2011).
+ANTE O EXPOSTO , nego provimento ao agravo.
+Publique-se.
+EMENTA
