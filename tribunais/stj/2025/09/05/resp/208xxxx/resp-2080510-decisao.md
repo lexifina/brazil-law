@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 563/564):
+APELAÇÃO CÍVEL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - VALOR DOS HONORÁRIOS ARBITRADOS EM R$ 15 MIL - ALEGAÇÃO RECURSAL DE QUE O ARBITRAMENTO NÃO OBSERVOU AS PRESCRIÇÕES DOS INCISOS DO §2º DO ART. 85 DO CPC - TEMA REPETITIVO 1.076 - JUÍZO DE RETRATAÇÃO - DEDICAÇÃO ADVOCATÍCIA POR MAIS DE QUATRO ANOS - ATUAÇÃO PROFISSIONAL DILIGENTE, OPEROSA E CONTRIBUTIVA À CELEBRAÇÃO DE ACORDO ENTRE DEVEDOR E BANCO CREDOR PARA PAGAMENTO DE MAIS DE R$ 2 MILHÕES - CABÍVEL MAJORAÇÃO DA VERBA HONORÁRIA - PERCENTUAL SOBRE O VALOR DA TRANSAÇÃO - PARÂMETRO RAZOÁVEL - VALOR DOS HONORÁRIOS FIXADOS EM 10% SOBRE O VALOR DA TRANSAÇÃO CELEBRADO PELO BANCO COM O DEVEDOR REPRESENTANDO O PROVEITO ECONÔMICO OBTIDO - SENTENÇA REFORMADA - RECURSO PROVIDO.
+1. "Tema 1.076: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+2. Em ação de arbitramento de honorários advocatícios, deve o julgador se nortear, equitativamente, pela proporcionalidade de acordo com as circunstâncias dos autos, tais como o zelo do profissional, o lugar da prestação do serviço, a complexidade da causa, o trabalho realizado pelo advogado, o tempo exigido para o serviço e, ainda, o valor econômico da questão.
+Os embargos de declaração opostos foram rejeitados (fls. 602/608).
+Em suas razões (fls. 614/631), a parte recorrente aponta violação dos arts. 489, § 1º, e 1.022, II, do CPC, uma vez que os vícios existentes no acórdão recorrido não teriam sido sanados a despeito da oposição dos embargos declaratórios. Apontou, ainda, distinção entre o caso concreto e a questão jurídica definida por meio do Tema n. 1.076/STJ.
+Contrarrazões apresentadas (fls. 642/657).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja, a circunstância de aqui se cuidar de ação de conhecimento ajuizada para o arbitramento de honorários contratuais supostamente devidos à parte recorrida, o que configuraria distinção relevante para como a questão jurídica definida por meio do Tema n. 1.076/STJ, adstrita ao arbitramento de honorários sucumbenciais.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
