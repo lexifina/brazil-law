@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor próprio por ROGERIO FEITOSA FERREIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Na inicial, escrita de próprio punho, alega o paciente, em suma, que foi condenado como incurso no art. 33, caput, da Lei n. 11.343/06, às penas de 7 anos, 3 meses e 15 dias de reclusão, no regime inicial fechado, pela suposta prática de delito ocorrido em 23/6/2020, com trânsito em julgado no dia 16/2/2024. Se declara inocente e busca a absolvição na Ação Penal n. 1501029-45.2020.8.26.0540.
+Em 5/8/2025, a Defensoria Pública da União foi intimada para manifestar-se, no prazo de 10 dias, sobre a correspondência de cidadão preso sem defesa técnica, nos termos de sua competência prevista no item 4.2 do Acordo de Cooperação Técnica STJ/DPU nº 3/2025.
+Conforme certidão, à fl. 21 (e-STJ), o prazo para a Defensoria Pública da União teve início em 19/08/2025 e término em 28/08/2025, sem manifestação.
+É o relatório.
+Decido.
+Em consulta na base de dados desta Corte, verifica-se que o pedido de absolvição do réu, pela prática do delito de tráfico, na Ação Penal n. 1501029-45.2020.8.26.0540, já foi objeto de análise no julgamento do HC nº 814.656/SP, julgado em 12/4/2023. Logo, este habeas corpus trata-se de mera reiteração de outro feito, razão pela qual não merece conhecimento.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DO CUMPRIMENTO DO MANDADO DE BUSCA E APREENSÃO. QUEBRA DA CADEIA DE CUSTÓDIA. MATÉRIAS NÃO APRECIADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDO JÁ ANALISADO EM WRIT ANTERIOR. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. No mais, os fundamentos da prisão preventiva do agravante já foram analisados por decisão desta relatoria proferida no bojo do RHC n. 213.021/MG. Naquela oportunidade, ressaltou-se que a segregação cautelar está devidamente fundamentada na necessidade de garantir a ordem pública, tendo em vista a gravidade concreta da conduta, evidenciada pela quantidade de droga apreendida (21,9 g de cocaína), que não pode ser considerada insignificante, sobretudo considerando o seu elevado potencial lesivo, e pelo fato de o réu ser apontado como fornecedor de drogas para terceiros, sendo responsável por trazer grande quantidade de drogas para que traficantes menores a distribuam na cidade de Itamogi.
+5. Com efeito, " ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus" (AgRg no HC n. 190.293, Rel. Ministro CELSO DE MELLO, julgado em 20/10/2020, DJe 19/11/2020).
+6. Ainda, a apresentação de proposta formal de emprego, declarações abonatórias, informação sobre residência fixa e dados de primariedade não são suficientes afastar a periculosidade do agente, já reconhecida por esta Corte Superior no writ impetrado anteriormente. Conforme a jurisprudência desta Corte, é firme o entendimento de que eventuais condições subjetivas favoráveis, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si só, não obstam a segregação cautelar, quando presentes os requisitos legais para a sua decretação.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 993.531/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REQUISITOS DA PRISÃO PREVENTIVA. REITERAÇÃO. EXCESSO DE PRAZO. NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. É definido nesta Corte Superior que a prolação de decisão unipessoal pelo relator não representa violação do princípio da colegialidade, pois expressamente prevista no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça e alinhada ao entendimento consolidado pela jurisprudência do STJ na Súmula n. 568.
+2. A análise dos requisitos da prisão preventiva já foi objeto de apreciação por este Tribunal nos autos do HC n. 927.543/SP. A apreciação anterior do Superior Tribunal de Justiça em outros autos impede a realização de novo exame da questão.
+3. No tocante ao alegado excesso de prazo, considerando o número de réus e a complexidade do processo, que envolveu quebra de sigilo de comunicações telefônicas, perícia em sistemas de computação e a análise de múltiplos pleitos defensivos, não se constata uma demora injustificada para a realização da audiência de instrução, devidamente marcada, tendo em vista, inclusive, todas as diligências necessárias para a sua realização.
+4. Desse modo, não se verifica descaso ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo.
+5. Agravo regimental improvido.
+(AgRg no HC n. 954.532/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/3/2025, DJEN de 12/3/2025.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
