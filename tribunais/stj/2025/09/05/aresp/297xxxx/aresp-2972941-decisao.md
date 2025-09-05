@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por Banco do Brasil S. A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 46):
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PASEP. SAQUES INDEVIDOS E DESFALQUE. LEGITIMIDADE DO BANCO DO BRASIL. UNIÃO. PARTE ILEGÍTIMA.
+1. É entendimento do STJ que, em ações nas quais se requer a recomposição do saldo existente em conta vinculada ao PASEP, a União deve figurar no polo passivo da demanda.
+2. Já em relação à legitimidade do Banco do Brasil S/A, o STJ no julgamento do Tema nº 1150 (REsp n. 1.895.936/TO, REsp n. 1.895.941/TO e REsp n. 1.951.931/DF) fixou o entendimento de que o Banco do Brasil possui legitimidade para figurar no polo passivo de demandas em que se discutem saques indevidos e desfalques nas contas vinculadas ao PASEP.
+3. No caso dos autos, a demanda não versa sobre índices de responsabilidade do Conselho Gestor do Fundo, mas sobre a responsabilidade decorrente da má gestão do Banco do Brasil, de saques indevidos ou de não aplicação dos índices de juros e de correção monetária na conta do PASEP.
+4. Assim, tem-se a conclusão de que a legitimidade passiva é somente do Banco do Brasil S/A, o que define a competência da Justiça Comum Estadual.
+Nas razões do recurso especial, o recorrente aponta dissídio jurisprudencial em face do art. 4º, XII, do Decreto n. 9.978/2019. Sustenta que não tem legitimidade para figurar no polo passivo da ação relacionada à má gestão do saldo vinculado ao PASEP, argumentando que a responsabilidade pela definição dos índices de correção monetária e juros é do Conselho Diretor do Fundo PIS-PASEP, vinculado à União Federal. Requer o conhecimento e provimento do recurso especial para reformar o acórdão recorrido, afastando a legitimidade passiva do Banco do Brasil e reconhecendo a competência da União para responder pela alteração dos índices de correção do PASEP.
+A Vice-Presidência da Corte regional negou seguimento ao apelo raro com base no art. 1.030, I, b, do CPC, frente ao quanto decidido pelo Superior Tribunal de Justiça no Tema Repetitivo n. 1.150/STJ, inadmitindo o apelo raro, no mais, pela incidência da Súmula 7/STJ.
+Às fls. 92/96, o agravante apresentou agravo interno contra a negativa de seguimento do recurso especial.
+A decisão foi mantida pelo órgão fracionário nos seguintes termos (fl. 118):
+AGRAVO INTERNO. DECISÃO DA VICE-PRESIDÊNCIA. TEMA STJ Nº 1.150. APLICAÇÃO DO ACÓRDÃO PARADIGMA REPRESENTATIVO DE CONTROVÉRSIA. NEGATIVA DE SEGUIMENTO.
+1. Há previsão no artigo 1.040, I, do CPC de que, uma vez publicado o acórdão paradigma, o presidente ou o vice-presidente do tribunal de origem negará seguimento ao recurso especial ou extraordinário, se o acórdão recorrido coincidir com a orientação do tribunal superior.
+2. A decisão alinha-se com o entendimento do STF na análise do paradigma, inexistindo, pois, motivo para a pretendida reforma. A aplicação do Tema STJ nº 1.150 ao caso, portanto, é medida que se impõe.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, faz-se importante destacar que o juízo de admissibilidade negou seguimento ao recurso especial, quanto à matéria abrangida pelo Tema 1.150/STJ, tendo sido negado provimento ao agravo interno interposto em face dessa decisão (fls. 112/118).
+Passo a examinar, assim, a questão remanescente.
+No que diz respeito à tese de legitimidade passiva da União (fls. 52/68), cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer dispositivo de lei federal (apenas indicando, de maneira genérica, violação ao art. 4º, XII, do Decreto n. 9.978/2019, que trata da definição da tarifa de remuneração do Banco do Brasil na qualidade de administrador do Pasep).
+Destarte, denota-se que o especial é interposto indicando-se afronta à previsão legal que não tem relação com a tese defendida. Sobre isso, a jurisprudência deste STJ considera inviável a insurgência: "Por força da Súmula 284 do STF, não se conhece de recurso no caso de as razões recursais não especificarem o dispositivo legal que estaria sendo violado pelo acórdão recorrido e quando o artigo de lei não guarda pertinência com a matéria recursal". (AgInt no REsp n. 1.308.654/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/4/2018).
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
