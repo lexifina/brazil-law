@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DOUGLAS SOUSA DE MENDONÇA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu o recurso especial com fundamento na Súmula nº 13, do Superior Tribunal de Justiça - STJ e na Súmula nº 284, do Supremo Tribunal Federal - STF.
+Depreende-se dos autos que o recorrente foi condenado a uma pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, além de multa, como incurso no art. 33, da Lei nº 11.343/2006.
+No presente agravo, alega o recorrente que em seu recurso especial demonstrou com riqueza de detalhes a divergência de entendimento de outros tribunais de modo em que esta Corte perceberá certamente as violações apontadas. Ainda, diz que em seu recurso especial atacou de forma específica as bases do acórdão que julgou o recurso de apelação, permitindo a exata compreensão da controvérsia, ao contrário do entendimento do tribunal de origem. Assim, requer que o presente agravo seja conhecido e provido para que determinar o processamento do recurso especial manejado, dando-se provimento a ele.
+O Ministério Público Federal apresentou parecer no sentido de que o agravo em recurso especial não seja conhecido, por ser intempestivo (fls. 582-586).
+É o relatório. DECIDO.
+Inicialmente, não assiste razão ao Ministério Público Federal quando afirma que o presente agravo em recurso especial é intempestivo, porquanto o prazo para a interposição deste recurso é de 15 (quinze) dias e não de apenas 5 (cinco) dias como sustenta (art. 944, inciso VIII c/c art. 1.003, § 5º, do Código de Processo Civil.
+Todavia, observa-se que o presente agravo não impugna adequadamente os fundamentos da decisão agravada, não devendo ser conhecido.
+Ocorre que, não obstante a alegação do agravante de que não se aplica ao caso a Súmula nº 13, do STJ e a Súmula nº 284, do STF, sustentando que demonstrou a divergência e que seu recurso especial obedece ao princípio da dialeticidade, não houve demonstração concreta. No entanto, a argumentação é feita de forma genérica, sem infirmar os fundamentos concretos mencionada na decisão ora recorrida, que entendeu não demonstrada na hipótese a divergência que enseja a interposição do recurso especial ao STJ, nem feito o cotejo correto analítico dos julgados da alegada divergência.
+Assim, incide na presente hipótese deste agravo em recurso especial a Súmula nº 182, desta Corte, segundo a qual: "É inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se.  Intimem-se.
+EMENTA
