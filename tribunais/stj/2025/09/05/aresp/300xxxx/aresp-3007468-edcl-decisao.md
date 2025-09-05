@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NATÁLIA SANTOS LEAL CARDOSO (e-STJ fls. 397/404) que conheceu do agravo para não conhecer do recurso especial (e-STJ fls. 389/391).
+Sustenta a ocorrência de contradição quanto aos fatos, uma vez que a afirmação pela Corte de origem de que a embargante teria furtado produtos pela manhã encontra-se equivocada, pois, na verdade, os objetos foram regularmente adquiridos mediante pagamento, conforme comprovam os documentos fiscais anexados ao processo.
+Aduz a omissão na decisão embargada "pois não foi devidamente analisado o fato de que a câmera de vigilância flagrou todos os movimentos da embargante, de modo que os objetos furtados jamais saíram de esfera de vigilância da vítima, o que pode caracterizar crime impossível, de acordo com a teoria objetiva temperada" (e-STJ fls. 301).
+É o relatório. Decido.
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir que (e-STJ fls. 390):
+De início, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.385.621/MG, DJe 2/6/2015, julgado em 27/5/2015, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, sob o rito do art. 543-C, §2º, do CPC, c/c o 3º do CPP, consolidou o entendimento no sentido de que a existência de sistema de segurança ou de vigilância eletrônica não torna impossível, por si só, o crime de furto cometido no interior de estabelecimento comercial.
+O tema está sedimentado, inclusive, na Súmula 567 do STJ, segundo a qual, sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto.
+No presente caso, a Corte de origem, ao analisar o ponto, concluiu que, conforme consta dos autos, a apelante, além das mercadorias encontradas em sua bolsa, já havia levado outras para o seu veículo, que se encontrava no exterior do estabelecimento comercial, ou seja, mesmo com a presença do monitoramento, logrou furtar as mercadorias, sair da loja e levá-las para o seu veículo sem que ninguém a impedisse (e-STJ fls. 263).
+Assim, rever os fundamentos utilizados pela Corte de origem, para decidir pela ocorrência do crime impossível, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ademais, quanto à alegação que o acórdão recorrido teria mencionado equivocadamente que a embargante teria furtado produtos pela manhã, quando na verdade os objetos foram regularmente adquiridos mediante pagamento, a Corte de origem consignou que trata-se de rediscussão e nova análise do mérito do recurso de apelação (e-STJ fls. 301). Dessa forma, não há como esta Corte Superior, em sede de recurso especial, reexaminar o referido fato para averiguar a eventual compra realizada pela manhã, tendo em vista, também, o óbice da Súmula n. 7/STJ.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
