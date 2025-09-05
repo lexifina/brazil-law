@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PAULO HORTO LEILOES LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/2/2025.
+Concluso ao gabinete em: 15/5/2025.
+Ação: Cumprimento de Sentença movido pelo agravante em face de Paulo Roberto Mangucci Junior.
+Decisão interlocutória: acolheu a impenhorabilidade do bem imóvel objeto da demanda.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da ementa a seguir (e-STJ fl. 126):
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - FASE PROCEDIMENTAL DESTINADA AO CUMPRIMENTO DE SENTENÇA - PRETENSÃO DE QUE SEJA RECONHECIDA A PENHORA DO BEM IMÓVEL - INTELIGÊNCIA DO ART. 1º DA LEI N. 8.009/90 - BEM IMÓVEL DE FAMÍLIA - IMPENHORABILIDADE - COMPROVAÇÃO - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM SEDE RECURSAL - MAJORAÇÃO QUANTITATIVA - INAPLICABILIDADE DO § 11 DO ART. 85 DA LEI N. 13.105/2015 (CÓDIGO DE PROCESSO RECURSO CONHECE E NEGA PROVIMENTO CIVIL) - - 1. Para os efeitos de impenhorabilidade, de que trata a Lei n. 8.009 /90, considera-se residência um único bem imóvel utilizado pelo casal ou pela entidade familiar para moradia permanente. 2. O art. 1º da supramencionada legislação especial disciplina que "o imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei". 3. No vertente caso legal (concreto), verifica-se do contexto fático-probatório que o Agravado demonstrou documentalmente que o bem imóvel, objeto de penhora, constitui-se em bem de família, uma vez que se trata de único imóvel de sua propriedade, sendo destinado exclusivamente à sua moradia, a teor da declaração de bens enviada à Receita Federal e dos boletos para pagamento de despesas básicas, como, por exemplo, água, energia elétrica, educação, saúde, crédito e imposto.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação do art. 5º da Lei 8.009/90, bem como dissídio jurisprudencial. Sustenta que "trouxe aos autos elementos suficientes para afastar a alegação de que o imóvel seria utilizado pela entidade familiar do recorrido para fins de moradia, enquanto não se desincumbiu o recorrido do ônus probatório que lhe cabia, o que foi desconsiderado no R. Acórdão recorrido" (e-STJ fl. 210).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/PR, ao analisar a questão referente à impenhorabilidade do bem objeto da demanda, concluiu o seguinte (e-STJ fls. 128-130):
+A legislação especial busca proteger o sentimento de residência, isto é, o sentimento de pertencimento a uma determinada habitabilidade, precisamente, pela ideia de permanência - em um único imóvel destinado pela entidade familiar para a sua moradia permanente.
+A impenhorabilidade do bem imóvel juridicamente reconhecido como de família, por isso mesmo, guarda referência ao sentimento de pertencimento a determinado núcleo familiar, que, insofismavelmente, necessita de uma espacialidade específica para a convivência digna de seus membros, e, também, para o asseguramento de suas relações familiares caracteristicamente intimas e/ou privadas.
+Desta maneira, não se tem como deixar de reconhecer que a posse devidamente comprovada de determinado bem imóvel, constitui-se, sim, em uma das expressões de sua propriedade, motivo pelo qual, entende-se que a impenhorabilidade também deve se estender a essa dimensão material do bem imóvel, que, aqui, é objeto da lide.
+Para o reconhecimento judicial da impenhorabilidade de bem imóvel, a título de bem de família, impõe-se a demonstração de que a sua posse - e/ou propriedade -, destina-se à moradia, enquanto lar de uma entidade familiar (residência familiar).
+No vertente caso legal (concreto), verifica-se do contexto fático-probatório que o Agravado demonstrou documentalmente que o bem imóvel de matrícula n. 29.437, do 1º (Primeiro) Registro de Imóveis da Comarca de Uberaba/MG (seq. 729.1), constitui-se em bem de família, uma vez que se trata de único imóvel de sua propriedade, sendo destinado exclusivamente à sua moradia, a teor da declaração de bens enviada à Receita Federal e dos boletos para pagamento de despesas básicas, como, por exemplo, água, energia elétrica, educação, saúde, crédito e imposto (seq. 805.2/805.11).
+O supramencionado bem imóvel é de propriedade de Paulo Roberto Mangucci Júnior e de Luiza Rocha Mangucci (seq. 729.2).
+Tal circunstância, inclusive fora reconhecido pelo douto Magistrado (seq. 830.1), in verbis:
+"Em relação ao primeiro requisito, entendo que este resta preenchido, já que as certidões apresentadas nos movs. 811.2/811.2 e a declaração de imposto de renda de mov. 811.4, comprovam que o executado somente possui este imóvel em seu nome, ao menos na Comarca em que reside. No mais, em diversos documentos trazidos pelo executado consta o endereço do imóvel penhorado como o de sua residência, tais como na declaração de imposto de renda, as guias de IPTU em seu nome, as contas de água, luz, faculdade plano de saúde e cartão de crédito, os quais fazem prova de que se trata de uma residência destinada à sua moradia".
+Portanto, uma vez comprovado documentalmente que o bem imóvel é destinado única e exclusivamente para a residência familiar do Agravado, entende-se como legitimamente plausível o reconhecimento da impenhorabilidade do supramencionado bem imóvel.
+ .. .
+Desta forma, não há razões para, então, acolher a pretensão recursal deduzida e, assim, é de se manter a decisão judicial em que se declarou a impenhorabilidade do bem imóvel penhorado, haja vista que é destinado única e exclusivamente para a residência familiar do Agravado.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Cumprimento de Sentença.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo conhecido. Recurso especial não conhecido.
