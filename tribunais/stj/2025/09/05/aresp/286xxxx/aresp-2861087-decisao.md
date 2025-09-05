@@ -1,0 +1,54 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/10/2024.
+Concluso ao gabinete em: 21/02/2024.
+Ação: exibição de documento ajuizada por ALCIR VIEIRA FURQUIM - ME em face de OI S/A, na qual alega a clonagem de seu cartão e requer à operadora as ligações recebidas e efetuadas durante o período de 18/12/2022 a 17/01/2023, a fim de identificar os responsáveis pelo ato.
+Sentença: julgou procedente o pedido para condenar a empresa agravante a exibir, no prazo de 30 dias, os registros detalhados das ligações telefônicas da linha nº (64) 3651-1634, de titularidade do agravado, relativo ao período de 18/12/2022 a 17/01/2023.
+Acórdão: negou provimento ao recurso interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE EXIBIÇÃO DE DOCUMENTO. SERVIÇO DE TELEFONIA. LISTAGEM DE CHAMADAS RECEBIDAS PELO AUTOR. PRETENSÃO RESISTIDA PELA VIA ADMINISTRATIVA. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE.
+1. A quebra de sigilo de dados telefônicos tem o fim de buscar informações sobre titulares de linhas telefônicas, portanto, não se confunde com quebra de sigilo telefônico. - "A quebra de sigilo das comunicações telefônicas diz respeito à interceptação da comunicação, regida pela Lei 9.296/96, enquanto a quebra de sigilo de dados telefônicos corresponde à obtenção de registros existentes na companhia telefônica sobre ligações já realizadas, como dados cadastrais do assinante, data da chamada, horário, número do telefone chamado, duração do uso e valor da chamada, o que é possível, inclusive, por força de ordem judicial de competência diversa da criminal."
+2. Na presente ação, o que se busca é a identificação dos dados das ligações recebidas pelo apelado no período de 18/12/2022 a 17/01/2023, o que não configura quebra do sigilo telefônico, nem da exceção delineada na parte final do inciso XII, do art. 5º, da Constituição Federal, e regulamentada na Lei nº 9.296/96.
+3. Os casos de procedência do pedido de exibição de documentos, reclamam a condenação da parte vencida ao pagamento dos ônus sucumbenciais, tendo em vista a aplicação do princípio da causalidade.
+4. Embora a Apelante alegue inexistência pretensão resistida à lide, observa- se que pela via administrativa o autor/apelado não conseguiu acesso aos documentos solicitados, de modo que deve a Apelante suportar os ônus sucumbenciais, pelo princípio da causalidade.
+5. Havendo sucumbência recursal, faz-se necessária a majoração da verba honorária fixada no 1º Grau.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+SENTENÇA MANTIDA.
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 7º, 937, 489, §1º e 1.022 do CPC e 1º da Lei 9.296/96, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, insurge-se contra o impedimento de realização de sustentação oral. Sustenta que, o acórdão recorrido, ao considerar que os dados em questão não eram protegidos pelo sigilo das comunicações telefônicas, violou frontalmente as disposições do art. 1º da Lei nº 9.296/96. Aduz a inexistência de pretensão resistida e ilegal condenação ao pagamento das verbas sucumbenciais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido assim decidiu, fundamentada e expressamente acerca dos supostos pontos omissos indicados pela agravante:
+No caso, restou claro no voto condutor do acórdão embargado que a pretensão do embargado não era interceptação de comunicações telefônicas, mas apenas o fornecimento de dados relativos ao titular do terminal indicado na peça inaugural, o que não se mostra necessária a demonstração dos requisitos elencados na Lei nº 9.296/96, ou seja, é prescindível a prévia e fundamentada decisão judicial.
+Outrossim, a parte embargante alega que este relator deixou de analisar o pedido constante na mov. 88, onde apresentou interesse na sustentação oral. Note-se, todavia, que na decisão de mov. 91, está consignado que: "(..) Para o exercício da prerrogativa de sustentação oral, o advogado deverá efetuar prévia inscrição até às 10 (dez) horas do dia útil anterior, pela via eletrônica própria, no caso da sessão virtual, ou até a declaração de início da sessão (CPC, art. 937, § 2º), na hipótese da presencial ou por videoconferência. (..)", nos termos do artigo 150, c aput, do Regimento Interno do Tribunal de Justiça do Estado de Goiás. "Como a sessão virtual iniciou na segunda-feira, 20/05/2024 (mov. 84), o advogado tinha até o dia 17/05/2024 (sexta- feira), às 10 horas para formular a pretensão pela ferramenta adequada no sistema (ícone microfone), conforme instruções contidas na publicação da pauta (mov. 87)." (e-STJ Fl. 594)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da Súmula 280/STF
+A análise de eventual ofensa aos arts. 7º e 937 do CPC, notadamente, quanto ao alegado cerceamento de defesa em razão do indeferimento da sustentação oral, demandaria prévia análise de legislação local (Resoluções nº 118/2019 e nº 253/2024 do Órgão Especial do Tribunal de Justiça de Goiás), exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF.
+- Do reexame de fatos e provas
+Ademais, o TJ/GO, após análise do acervo fático probatório dos autos concluiu que:
+Como relatado, o que se busca na presente causa é a identificação dos dados das ligações recebidas pelo apelado no período de 18/12/2022 a 17/01/2023, o que não configura quebra do sigilo telefônico, nem da exceção delineada na parte final do inciso XII, do art. 5º, da Constituição Federal, e regulamentada na Lei nº 9.296/96.
+(..) Uma vez que o requerente/apelado não busca a interceptação de comunicações telefônicas, mas apenas o fornecimento de dados relativos ao titular do terminal indicado na peça inaugural, não se mostra necessária a demonstração dos requisitos elencados na Lei n. 9.296/96.
+(..) Conquanto a Apelante afirma que inexistiu pretensão resistida a lide, observa-se que a parte autora solicitou, via administrativa, os registros telefônicos reclamados (mov. 1, doc. 5), todavia, foi informado ao autor/apelado que os registros das ligações telefônicas só poderiam ser solicitados por meio de determinação judicial.
+Nesse sentido, pelo princípio da causalidade, embora a Apelante alegue inexistência pretensão resistida à lide, observo que pela via administrativa o autor/apelado não conseguiu acesso aos documentos solicitados, de modo que deve a apelante suportar os ônus sucumbenciais.
+(..) Dessa forma, demonstrada a resistência da parte Recorrente, que não apresentou os documentos pleiteados na seara administrativa, deve ser mantida a sentença que imputou a ela o dever arcar com os honorários sucumbenciais, em observância ao princípio da causalidade. (e-STJ, fls. 549)
+Dessa forma, alterar o decidido no acórdão impugnado, no que se refere à ausência de necessária demonstração dos requisitos elencados na Lei n. 9.296/96, bem como quanto à pretensão resistida da agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$1.200,00 (e-STJ fls. 552) para 2.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DE NORMATIVO ESTADUAL. SÚMULA 280/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de imissão na posse.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
