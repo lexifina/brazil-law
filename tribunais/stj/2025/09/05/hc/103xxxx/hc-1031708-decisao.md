@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JONATHAN PEREIRA BRAGA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no HC n. 2240890-89.2025.8.26.0000 (fls. 17/33).
+Extrai-se dos autos que o pa ciente teve a prisão temporária convertida em preventiva, em 15/7/2025, pela suposta prática do crime de roubo majorado (Processo n. 1500184-61.2025.8.26.0338, da 1ª Vara do Foro e comarca de Mairiporã/SP).
+Sustenta-se, nesta impetração, a ausência de fundamentação concreta para a decretação da prisão preventiva, que o paciente é primário, possui residência fixa e emprego lícito, condições pessoais que seriam suficientes para a aplicação de medidas cautelares alternativas à prisão.
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+No caso, contravindo os argumentos dispostos neste writ, o voto condutor do acórdão impug nado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou adequada a determinação de prisão preventiva do paciente, em decorrência da gravidade concreta do delito (prática de roubo majorado, com invasão de domicílio, emprego de arma de fogo, restrição da liberdade das vítimas e subtração de bens e valores de vultosas quantias), nos seguintes termos (fl. 45 - grifo nosso):
+ ..
+Em grande síntese, narra a autoridade policial que na data e local dos fatos três indivíduos desconhecidos portando armas de fogo, mediante destruição de obstáculo, adentraram na residência das vítimas subjugando-as e trancando-as em determinado cômodo da casa. Na sequência da empreitada criminosa passaram a vasculhar a casa subtraindo diversos bens e valores pertencentes às vítimas, totalizando um prejuízo de aproximadamente R$ 2.000.000,00 (dois milhões de reais).
+ ..
+Por conseguinte, Conforme precedentes desta Corte Superior, "a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal" (AgRg no RHC n. 160.967/PA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022) (AgRg no HC n. 1.001.999/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025 - grifo nosso).
+Melhor esclarecendo, a segregação cautelar foi decretada pelo Juízo processante e mantida pelo Tribunal estadual com esteio nas circunstâncias concretas, sendo considerado que o acusado teria praticado o crime de roubo mediante utilização de arma, com restrição da liberdad e da vítima, sendo a devidamente justificada para a garantia da ordem pública, nos termos do art. 312 do CPP (AgRg no HC n. 795.928/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe 27/2/2023 - grifo nosso).
+Afora isso, é entendimento desta Casa que as condições favoráveis, por si sós, não impedem a ma nutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, indefiro liminarmente o writ.
+Pub lique -se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DE LIBERDADE DAS VÍTIMAS. PRESERVAÇÃO DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
