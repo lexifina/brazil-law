@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por LUCAS ELIAS DE BRITO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Habeas Corpus n. 0079405-93.2025.8.16.0000).
+Consta nos autos que o recorrente foi preso em flagrante pela prática do crime de tráfico de drogas e associação para o mesmo fim (fl. 119). Apreendeu-se, no ato, aproximadamente 1 kg de maconha, 22 g de cocaína e R$ 920,00 (novecentos e vinte reais) em espécie (fl. 120). Posteriormente, a prisão flagrancial foi convertida em preventiva (fls. 118/123).
+Impetrado habeas corpus, o Tribunal de Justiça conheceu parcialmente do writ e, nessa extensão, denegou a ordem, mantendo a prisão preventiva (fls. 31/39).
+Neste recurso, a defesa alega que houve constrangimento ilegal na manutenção da prisão preventiva, por ausência de fundamentação idônea, sustentando que a decisão se baseou unicamente na reincidência e na gravidade abstrata do delito, sem demonstrar risco real e iminente à ordem pública (fl. 50).
+Sustenta, ainda, a nulidade das provas obtidas, argumentando que a abordagem policial foi ilícita, por ter sido baseada em critérios subjetivos, como "nervosismo" e tentativa de fuga, sem a "fundada suspeita" exigida pelo art. 244 do CPP. A defesa aponta que a busca domiciliar subsequente também seria nula, pois o consentimento da companheira do recorrente foi obtido em ambiente de intimidação (fls. 49/51).
+Requer, inclusive liminarmente, a revogação da prisão preventiva do recorrente ou a aplicação de medidas cautelares alternativas (fl. 52).
+É o relatório.
+Inicialmente, a alegada nulidade das provas decorrentes da abordagem policial e da busca domiciliar, por suposta ausência de fundada suspeita e vício no consentimento, não foi apreciada pelo Tribunal de Justiça, porque a análise da matéria não foi submetida previamente ao Juízo de primeiro grau, configurando supressão de instância (fls. 35/36). Diante disso, o exame desses temas por esta Corte Superior encontra-se inviabilizado, também sob pena de indevida supressão de instância.
+Por outro lado, verifico que a prisão preventiva está devidamente justificada pela necessidade de garantir a ordem pública. Tal necessidade é evidenciada pela periculosidade social do acusado, demonstrada pela reincidência e maus antecedentes em crimes da mesma natureza, e pela gravidade concreta da conduta, evidenciada pela apreensão de 1,006 kg de maconha e 22 g de cocaína (fl. 120).
+Nesse sentido: AgRg no HC n. 9 49.350/SC, de minha relatoria, Sexta Turma, DJe 29/11/2024; AgRg no HC n. 875.093/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/3/2024; e AgRg no HC n. 876.906/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 14/3/2024.
+Assim, consideradas a reiteração delitiva e a gravidade dos fatos que recomendam a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, II, do Código de Processo Penal.
+Ante o exposto, conheço parcialmente do recurso em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. BUSCA PESSOAL. INGRESSO FORÇADO EM DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚB LICA. FUNDAMENTAÇÃO SUFICIENTE.
+Recurso parcialmente conhecido e, nessa extensão, improvido.
