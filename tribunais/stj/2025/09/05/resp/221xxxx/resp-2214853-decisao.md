@@ -1,0 +1,13 @@
+DECISÃO
+ROSEMARY DO NASCIMENTO, condenada por estelionato, interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de origem, alegando a violação dos arts. 29 e 564, inciso II, do Código de Processo Penal, por ilegitimidade do gerente para oferecer representação criminal em nome da empresa, e interpretação divergente sobre a matéria.
+A recorrente também sustenta a atipicidade da conduta, considerando o direito ao arrependimento, a ausência de dolo e de prova da materialidade, o cerceamento de defesa pela não oferta plena do ANPP (Acordo de Não Persecução Penal) e a violação ao princípio do ne bis in idem, pois foi responsabilizada pelo mesmo fato na esfera cível.
+Contrarrazões às fls. 1.250 e seguintes.
+Decido.
+As razões do recurso especial não expõem de modo fundamentado como o acórdão violou os arts. 29 e 564, II, do CPP, e os dispositivos nem sequer têm pertinência com as teses defensivas, pois tratam, respectivamente, de ação privada nos crimes de ação pública (se esta não for intentada no prazo legal) e de nulidade que ocorre quando a ação penal é ajuizada por quem não tem legitimidade.
+O conteúdo normativo dos artigos mencionados não é apto a modificar o acórdão, pois não diz respeito à representação criminal (condição para que o Ministério Público exerça a ação penal) ou à capacidade do gerente em agir em nome da empresa, ao ANPP, ao dolo do estelionato ou à responsabilização penal e civil pelo mesmo fato.
+A deficiência justifica a aplicação da Súmula n. 284 do STF e impede o conhecimento do recurso especial.
+A "aplicação, por analogia, da Súmula nº 284, STF decorre da constatação de que o conteúdo normativo do dispositivo apontado como violado nas razões do recurso especial está dissociado da tese recursal"(AgRg no AREsp n. 2.271.684/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 29/6/2023).
+Esclareço que nem sequer de ofício é possível reconhecer a falta de condição para o Ministério Público exercer a ação penal. A representação nos crimes de ação pública condicionada dispensam maiores formalidades e, no caso, consta que o gerente da instituição financeira compareceu à delegacia e requereu a apuração de estelionato. Além disso, "em razão da inclusão do parágrafo §5º no artigo 171 do CP  .. ,  o Juiz  determinou a intimação da parte ofendida (CREDIPI), através de seu representante legal, para, querendo, manifestar interesse na persecução penal no prazo de 30 (trinta) dias" e a instituição financeira vitimada manifestou interesse na causa e, por conseguinte, requereu o prosseguimento do feito" (fl. 682).
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
