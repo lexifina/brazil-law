@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LUIZ ALVES PUGAS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PREVIDENCIARIO. APOSENTADORIA POR IDADE RURAL. SEGURADO ESPECIAL. REGIME DE ECONOMIA FAMILIAR NÃO COMPROVADO. INSUFICIENTE O INÍCIO DE PROVA MATERIAL. POSSIBILIDADE DE NOVO AJUIZAMENTO. ENTENDIMENTO DO STJ. PROCESSO EXTINTO. EXAME DA APELAÇÃO PREJUDICADO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 489, § 1º, VI, e 927, III, do CPC, no que concerne à nulidade do acórdão em razão de não reconhecer a qualidade de segurado especial, contrariando precedentes vinculantes, pois o trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais e há início de prova material, sendo possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em prova testemunhal com contraditório. Aduz:
+Conforme narrado, o acórdão recorrido, ao extinguir o processo, sem resolução do mérito, não reconhecendo a qualidade de segurado especial do autor, ante a ausência de prova material, bem como pelo fato de sua companheira ter alguns vínculos empregatícios anotados em seu CNIS, contrariou precedentes vinculantes.
+Vejamos trechos do decisum:
+ ..
+No ponto, com a devida venia, o acórdão proferido ignorou entendimento pacificado do STJ, eis que, em que pese a companheira do recorrente tenha exercido atividade urbana por curto período de tempo, tal fato não lhe desnatura, juridicamente, como segurado especial pelo período legalmente exigido (LBPS, art. 39, I).
+Nesse sentido, a E. Turma do TRF-1, ao decidir que o mero exercício de atividade urbana pela companheira descaracteriza a qualidade de segurado especial do autor, data venia, contrariou o entendimento pacificado pelo STJ, em sede de julgamento do Tema Repetitivo nº 532, que assim dispõe (grifos acrescidos):
+O trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ).
+Assim, o fato de a companheira do recorrente ter exercido atividade urbana por curto período não descaracteriza toda a vida e labor rural do demandante, sobretudo porque nunca houve uma ruptura definitiva com a vida rural, sendo que o recorrente estava exercendo atividade rural em regime de economia familiar no momento do requerimento do benefício.
+Inclusive, para a Egrégia Turma do TRF-1 não existe a possibilidade de reconhecer o tempo de serviço rural anteriormente ao documento mais antigo apresentado, mesmo que amparado de prova testemunhal idônea. E também em razão disso, extinguiu o processo, sem resolução do mérito.
+Ora, Nobres Julgadores, em julgamento de Recurso Especial no regime de recursos repetitivos, precedente vinculante nos termos do artigo 927 do CPC de 2015, o Superior Tribunal de Justiça - STJ firmou entendimento no sentido de que é possível reconhecer o período de trabalho rural anterior ao documento mais antigo juntado como início de prova material. Perceba-se:
+ ..
+No mesmo sentido é a Súmula nº 577 da mesma Corte:
+ ..
+Sobre este aspecto, o acórdão objurgado reconhece a idoneidade da prova testemunhal produzida, não havendo qualquer controvérsia sobre seu valor, de feito que, é perfeitamente aplicável o entendimento da Súmula 577 do STJ.
+Desse modo, observa-se que a 9ª Turma do TRF-1 deixou de seguir os entendimentos do Superior Tribunal de Justiça, conforme artigo 489, § 1º, inciso VI, do Código de Processo Civil. Perceba-se:
+ ..
+Eminentes Ministros, em se tratando de RECURSOS REPETITIVOS (Tema Repetitivo 532, Tema 638 e Súmula 577), o Código de Processo Civil obriga a observância dos precedentes, demonstrando o seu caráter VINCULANTE.
+Perceba-se:
+Art. 927. Os juízes e os tribunais observarão:
+ ..
+Desta forma, verifica-se que os precedentes judiciais deverão ser fielmente observados pelos Juízes e Desembargadores, sobretudo porque a interpretação sistemática do ordenamento jurídico pátrio não deixa qualquer dúvida a respeito da ilegalidade/inconstitucionalidade da inserção de norma que tenha por objetivo deixar de observar o precedente supramencionado.
+Trata-se de regra que deve ser interpretada extensivamente para concluir-se que a decisão que se furte em considerar qualquer precedente obrigatório, AFRONTA CLARAMENTE os artigos 489, § 1º, inciso VI e 927, III, do Código de Processo Civil.
+No mais, exatamente por ser obrigatória a observância dos precedentes vinculantes, os julgadores, independentemente de provocação, deverão conhecê-los de ofício, sob pena de omissão e denegação de justiça.
+Portanto, requer-se o reconhecimento da violação aos artigos 489, § 1º, inciso VI e 927, III, ambos do CPC, eis que o acórdão não observou que o trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais (Tema 532), bem como é possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório (Tema 638 e Súmula 577). (fls. 373-377).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem a luz dos dispositivos alegados, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O Tribunal de origem não se manifestou sobre a alegação de preclusão do direito a pleitear nova produção de provas após o juízo saneador, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (AgInt no AREsp n. 2.700.152/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.974.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.646.591/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AREsp n. 2.645.864/AL, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.732.642/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgRg no REsp n. 2.142.363/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025; AgRg no AREsp n. 2.402.126/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; REsp n. 2.009.683/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no REsp n. 1.933.409/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 19/12/2024; AgRg no AREsp n. 1.574.507/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
