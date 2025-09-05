@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão dos seguintes fundamentos: (a) ausência de dissonância jurisprudencial; e (b) incidência da Súmula 83 do STJ (fls. 876-879).
+O acórdão recorrido encontra-se assim ementado (fl. 691):
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE "ERROR IN JUDICANDO" NA DECISÃO OBJURGADA POR HAVER SIDO ADMITIDA A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA IGNORANDO A INCIDÊNCIA DE PRECLUSÃO CONSUMATIVA E CONSIDERANDO DATA ERRÔNEA PARA A CONTAGEM INICIAL DOS JUROS LEGAIS SOBRE OS VALORES DA CONDENAÇÃO. DECISÃO INTERLOCUTÓRIA QUE DETERMINA O PROSSEGUIMENTO DA EXECUÇÃO. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. INADEQUAÇÃO. CABIMENTO DE AGRAVO DE INSTRUMENTO. ART. 1.015 DO CPC. PRINCÍPIO DA FUNGIBILIDADE INAPLICÁVEL. ERRO GROSSEIRO. PRECEDENTES STJ. APELAÇÃO NÃO CONHECIDA. 1. Correto o entendimento do Apelante acerca do cabimento de recurso de Apelação contra decisão que resolve impugnação ao cumprimento de sentença e, ao mesmo tempo, extingue a execução. Todavia o Apelante se equivocou quanto à interpretação da decisão recorrida, haja vista que, apesar do julgamento da impugnação à execução, o processo de cumprimento de sentença não foi extinto. 2. Em face da natureza interlocutória, não tem aplicação ao caso o princípio da fungibilidade recursal, uma vez que ausente dúvida objetiva razoável quanto ao recurso interponível da decisão hostilizada. Há erro grosseiro na interposição de apelação em situações tais. 3. Não resta configurada nenhuma das hipóteses de extinção da execução determinadas pelos artigos 924 e 925 do Código de Processo Civil. Logo, caberia ao Recorrente interpor o recurso de Agravo de Instrumento e não de Apelação já que o parágrafo único do artigo 1.015, CPC/2015, é claro ao dispor que cabe Agravo de Instrumento contra decisões interlocutórias proferidas na fase de Cópia do documento: Vl 1 Acórdão Fls.858 do processo 2021/0274787-3 (e-STJ Fl.691) Documento recebido eletronicamente da origem 0028440-47.2017.8.27.2729 987508 . V4 liquidação de sentença ou de cumprimento de sentença. 4. Recurso de Apelação não conhecido.
+Os embargos de declaração foram rejeitados (fls. 756-757).
+Nas razões do recurso especial (fls. 764-783), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 277, 283, 1.009 e 1.015, parágrafo único, do CPC, defendendo a aplicação do princípio da fungibilidade no caso concreto (fl. 776).
+No agravo (fls. 886-904), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 909-917).
+É o relatório.
+Decido.
+Da ofensa aos arts. 277, 283, 1.009 e 1.015, parágrafo único, do Código de Processo Civil.
+Não vislumbro ofensa aos artigos acima mencionados. No caso concreto, observada a orientação do STJ, o Tribunal de origem concluiu no sentido de que a decisão que julga impugnação ao cumprimento de sentença sem extinguir a fase executiva desafia agravo de instrumento, sendo impossível conhecer a apelação interposta com fundamento no princípio da fungibilidade recursal, tendo em vista a existência de erro grosseiro. Nesse ponto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - LIQUIDAÇÃO PARCIAL DE SENTENÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DAS AUTORAS.
+ ..
+2. "O recurso cabível contra decisão de liquidação que não põe fim ao processo é o agravo de instrumento. A interposição de apelação constitui erro grosseiro, o que impede a aplicação do princípio da fungibilidade" (AgInt no AREsp n. 2.317.648/SE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/9/2023, DJe de 13/9/2023). Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.595.343/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/12/2024, DJEN de 9/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL.
+LIQUIDAÇÃO DE SENTENÇA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DE APELAÇÃO CONTRA ATO DECISÓRIO PROFERIDO EM LIQUIDAÇÃO DE SENTENÇA. ERRO GROSSEIRO QUE IMPEDE A APLICAÇÃO DA FUNGIBILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ.
+ ..
+2. O agravo de instrumento é o recurso cabível contra decisão de liquidação que não encerra o processo. A apresentação de apelação configura um erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade. Precedentes. Incidência da Súmula 83/STJ. Agravo interno improvido.
+(AgInt no AREsp n. 2.505.966/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 10/2/2025, DJEN de 14/2/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ACOLHIMENTO. DECISÃO QUE NÃO COLOCOU FIM À EXECUÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO.
+SÚMULA N. 83 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que, sob a égide do Novo Código de Processo Civil, a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução. O agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal (AgInt no AREsp n. 2.717.759/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025).
+2. Agravo interno não provido. (AgInt no AREsp n. 2.638.654/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO PÔS FIM À FASE DE EXECUÇÃO. CABIMENTO DE AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO.
+INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. "A decisão que julga impugnação ao cumprimento de sentença sem extinguir a fase executiva desafia agravo de instrumento, sendo impossível conhecer a apelação interposta com fundamento no princípio da fungibilidade recursal, tendo em vista a existência de erro grosseiro"(AgInt no AREsp 1.380.373/SC, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/5/2019, DJe de 22/5/2019).
+2. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.601.252/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 24/10/2022.)
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ainda, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal objeto de interpretação divergente, bem como demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC, ônus dos quais a parte agravante não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
