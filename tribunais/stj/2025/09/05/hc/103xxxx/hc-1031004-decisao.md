@@ -1,0 +1,41 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar, impetrado em favor de WILLIAM RAFAEL OLIVEIRA DA SILVA, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 10-11):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. POSSE DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. PRELIMINARES DEFENSIVAS. NULIDADE DA SENTENÇA AUSÊNCIA DE ENFRENTAMENTO DE TESES SUSCITADAS NA RESPOSTA À ACUSAÇÃO. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DA MOTIVAÇÃO DAS DECISÕES JUDICIAIS. SENTENÇA CITRA PETITA CONFIGURADA. NECESSIDADE DE DESCONSTITUIÇÃO DO JULGADO. PREJUDICADO O EXAME DO MÉRITO E DA APELAÇÃO DO CORRÉU.
+I. CASO EM EXAME: Recursos de apelação interpostos pelas defesas contra sentença que os condenou pelos crimes previstos nos artigos 33, caput, e 35, caput, da Lei nº 11.343/2006, e artigos 14, caput, e 16, caput e §1º, inciso III, da Lei nº 10.826/2003. Sustentam nulidades processuais e, no mérito, pleiteiam a absolvição por insuficiência de provas ou, subsidiariamente, o redimensionamento das penas.
+II. QUESTÃO EM DISCUSSÃO: As questões em discussão consistem em: (a) definir se a sentença é nula por ausência de análise das preliminares defensivas apresentadas em resposta à acusação; (b) verificar se subsiste a condenação diante da alegada nulidade; (c) avaliar as consequências da anulação da sentença em relação ao recurso interposto pelo corréu.
+III. RAZÕES DE DECIDIR:
+1. O magistrado deixou de apreciar teses expressamente suscitadas pela defesa em sua resposta à acusação - oportunidade que relegou a análise para o momento da sentença -, como a nulidade dos mandados de busca e apreensão e a ilicitude de provas colhidas em endereço específico, configurando decisão citra petita, em ofensa ao art. 93, IX, da CF e ao art. 5º, LV, da CF. Violação ao venire contra factum proprium.
+2. Não é possível a esta instância suprir a análise das teses omitidas, sob pena de supressão de instância e violação ao devido processo legal, sendo necessária a desconstituição da sentença, prejudicando a apreciação do mérito dos apelos.
+3. A anulação da sentença não implica automática revogação da prisão preventiva. A medida cautelar subsiste de forma autônoma, pois lastreada em fundamentos idôneos, já analisados em decisão anterior desta Corte, que, inclusive, decretou a segregação cautelar no julgamento do RSE nº 5017149-65.2024.8.21.0019.
+IV. TESE E DISPOSITIVO DE JULGAMENTO:
+1. A ausência de enfrentamento das teses defensivas torna a sentença citra petita e nula. 2. A nulidade não pode ser suprida pelo Tribunal, sob pena de supressão de instância. 3. A anulação da sentença prejudica o exame dos recursos defensivos, sem implicar automática revogação da prisão preventiva.
+RECURSO PROVIDO PARA ANULAR A SENTENÇA ANULADA. PREJUDICADA A ANÁLISE DO MÉRITO DOS APELOS.
+Consta dos autos que o paciente foi preso em flagrante, em 03/07/2023, e posteriormente denunciado pelos crimes previstos no art. 33, caput, e art. 35, caput, da Lei nº 11.343/2006, bem como nos arts. 14, caput, e 16, caput e §1º, inciso III, da Lei nº 10.826/2003, na forma do art. 69 do Código Penal (CP).
+Sua prisão preventiva foi decretada e mantida até 05/07/2025, quando o juízo de primeiro grau entendeu que não estavam mais presentes os requisitos para a manutenção da custódia cautelar, concedendo-lhe liberdade provisória.
+Contudo, após recurso do Ministério Público, a 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul reformou a decisão e determinou a nova prisão preventiva do paciente em 04/10/2024. Desde então, o paciente permanece preso.
+Sobreveio sentença condenatória, posteriormente anulada pela 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, em 26/08/2025, por acolhimento de preliminar de nulidade arguida pelo corréu Sedinei Oliveira dos Santos. Por conseguinte, a anulação da sentença prejudicou a análise do mérito do recurso de apelação interposto pelo paciente, resultando no retorno dos autos ao juízo de origem para nova sentença.
+No presente writ, a defesa sustenta que a manutenção da prisão preventiva do paciente configura constrangimento ilegal, em razão do excesso de prazo da custódia cautelar, que já perdura por quase dois anos, e da ausência de requisitos autorizadores da medida.
+Argumenta que a prisão preventiva, nas circunstâncias do caso, viola os princípios constitucionais da presunção de inocência e da razoável duração do processo, transformando-se em verdadeira antecipação de pena.
+Alega, ainda, que a nulidade da sentença condenatória impede a manutenção automática da prisão preventiva, conforme jurisprudência do Superior Tribunal de Justiça.
+Requer liminarmente a expedição de alvará de soltura em favor do paciente ou, subsidiariamente, a substituição da prisão preventiva por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal. No mérito, pleiteia a concessão definitiva da ordem de habeas corpus, com a revogação da prisão preventiva ou sua substituição por medidas cautelares menos gravosas.
+É o relatório.
+Decido.
+Inexistindo divergência da matéria no órgão colegiado deste Tribunal, admissível o exame deste writ, in limine, pelo relator, nos termos do art. 34, XVIII e XX, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+No presente caso, verifica-se que não foi colacionada aos autos a cópia do decreto preventivo, documento de fundamental importância para a compreensão da controvérsia. Embora tenha sido juntado aos autos o ato coator (fls. 10-19), este não traz toda fundamentação utilizada na decisão originária, situação que inviabiliza o conhecimento do mandamus no que diz respeito à legalidade da custódia cautelar.
+É pacífico o entendimento do egrégio Superior Tribunal de Justiça de que o habeas corpus, porquanto vinculado à demonstração de plano da ilegalidade alegada, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRETENDIDA ABSOLVIÇÃO DO DELITO PREVISTO NO ART. 35 DA LAD OU REDUÇÃO DAS BASILARES DOS DELITOS. INVIABILIDADE. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada aos autos a cópia do acórdão de apelação.
+3. É cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+4. Agravo regimental não provido. (AgRg no HC n. 901.381/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - grifo próprio.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+2. O rito do habeas corpus, bem como de seu consectário recursal, demanda prova documental pré-constituída do direito alegado.
+3. No caso, a defesa não colacionou aos autos a íntegra do decreto prisional, documento necessário à análise do pleito de revogação da medida extrema. A ausência de peça essencial ao deslinde da controvérsia impede o exame das alegações.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 186.463/MG, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - grifo próprio.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
