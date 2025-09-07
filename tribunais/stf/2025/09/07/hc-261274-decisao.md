@@ -1,0 +1,59 @@
+Trata-se de habeas corpus com pedido liminar impetrado em favor de Luiz Mauro Januario dos Reis contra acórdão da Sexta Turma do Superior Tribunal de Justiça que negou provimento ao AgRg no HC 998.065/MG (docs. 19 e 20).
+
+    Consta de documento encartado a estes autos que o paciente foi pronunciado como incurso no art. 121, § 2º, I e V, [homicídio qualificado] do Código Penal (doc. 8, p. 6).
+
+    Neste writ, o impetrante sustenta, em síntese, que:
+
+    Eminentes Ministros, a presente impetração não roga pelo reexame de provas, mas sim pela constatação de um erro de direito manifesto, comprovado pelos próprios documentos que instruem o processo de origem. A manutenção da pronúncia do paciente representa uma afronta direta ao art. 155 do CPP, pois se baseia em uma narrativa fática que foi textualmente desmentida pela única prova direta produzida.
+
+    [...]
+
+    Uma Construção Baseada em "Ouvir Dizer".
+
+    A denúncia, peça que inaugura a persecução penal em juízo, fundamentou toda a sua tese de autoria e motivação em um único evento: uma suposta ameaça que teria ocorrido na delegacia. Narra o Ministério Público:
+
+    "Consta que, na Delegacia de Polícia, ao perceber que a vítima e o indivíduo Mateus Singulani Bedendo figuravam como testemunhas, o denunciado as ameaçou dizendo que, 'quando saísse da prisão iria acertar as contas com eles', o que foi presenciado pelos policiais militares Alessandro Carneiro e Fabio Adriano Pires do Nascimento".
+
+    Toda a estrutura acusatória – a vingança como motivo, a ligação entre o paciente e o crime – depende da veracidade deste fato. Ocorre que este fato, tratado como verdade absoluta pela acusação, foi cabalmente desmentido desde a fase inquisitorial.
+
+    [...]
+
+    O que se tem, portanto, é uma decisão de pronúncia que se sustenta em um paradoxo insustentável: ela se baseia no testemunho indireto (hearsay) de policiais sobre uma ameaça que a única testemunha direta, ocular e presencial, negou categoricamente ter ocorrido, tanto na polícia quanto em juízo. (doc. 1, pp. 8-9).
+
+    Ao final, requer:
+
+    a) A concessão da medida liminar, inaudita altera pars, para expedir um SALVO-CONDUTO em favor de LUIZ MAURO JANUÁRIO DOS REIS, ou, subsidiariamente, para suspender imediatamente os efeitos do mandado de prisão expedido nos autos de origem, até o julgamento final deste writ; b) A solicitação de informações à autoridade coatora (STJ) e ao Tribunal de Justiça de Minas Gerais; c) A posterior oitiva da douta Procuradoria-Geral da República; d) No mérito, a concessão definitiva da ordem de Habeas Corpus para, reconhecendo a negativa de prestação jurisdicional do STJ e a nulidade do ato de origem, DECLARAR A NULIDADE DA DECISÃO DE PRONÚNCIA, por manifesta violação ao art. 155 do CPP, e, por conseguinte, IMPRONUNCIAR o paciente, nos termos do art. 414 do CPP, com a consequente e definitiva revogação de sua prisão preventiva e expedição do competente contramandado de prisão. (doc. 1, p. 16).
+
+    É o relatório necessário. Decido.
+
+    Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+    Ementa PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. USO DO WRIT COMO SUCEDÂNEO DE RECURSO ESPECIAL. DESCABIMENTO. HOMICÍDIO. NULIDADE DA PRONÚNCIA. VIOLAÇÃO DO ART. 155 DO CP. INEVIDÊNCIA. IMPOSSIBILIDADE DE AMPLA INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO NÃO APRECIADA NO ACÓRDÃO IMPUGNADO. INVIABILIZADO O EXAME POR ESTA CORTE. Agravo regimental improvido.
+
+    O acórdão da Sexta Turma do Superior Tribunal de Justiça não merece reparos.
+
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que "[...] bastam a prova da materialidade e os indícios da autoria para submeter o indivíduo a julgamento pelo Tribunal do Júri, uma vez que as dúvidas quanto à certeza do crime e da autoria deverão ser dirimidas durante o julgamento perante aquele tribunal, já que a sentença de pronúncia não faz juízo definitivo sobre o mérito das imputações e sobre a eventual controvérsia do conjunto probatório" (HC 229.089 AgR/MT, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 16/10/2023 – grifei).
+
+    Nessa perspectiva:
+
+    EMBARGOS DECLARATÓRIOS NO HABEAS CORPUS CONVERTIDOS EM AGRAVO REGIMENTAL. DEMASIADO TEMPO DECORRIDO ENTRE A CONSTITUIÇÃO DO INDIGITADO ATO COATOR E A IMPETRAÇÃO DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE A POSSIBILITAR O REPARO NESTA VIA. A PROVA DA MATERIALIDADE E OS INDÍCIOS DA AUTORIA SÃO SUFICIENTES PARA SUBMETER O INDIVÍDUO A JULGAMENTO PELO TRIBUNAL DO JÚRI. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – Embargos declaratórios com propósito, em verdade, de reforma da decisão que negou seguimento ao habeas corpus. Conversão dos presentes embargos de declaração em agravo regimental. II – Por tratar-se de ação constitucional autônoma, o habeas corpus não exige prazo para a sua impetração. Entretanto, entendo que o referido período, de mais de 1 (um) ano e 2 (dois) meses, compreendido entre o julgamento do AgRg no AREsp 1.938.230/AM pela Quinta Turma do Superior Tribunal de Justiça e a alegação nulidade da sentença de pronúncia, constante deste writ, evidencia ausência de flagrante ilegalidade a ser reparada nesta via. Nessa mesma direção, em casos análogos, as seguintes decisões monocráticas, todas da Relatoria do Ministro Gilmar Mendes: (i) HC 223.454/SP, DJe 17/1/2023, transitada em julgado em 7/2/2023; (ii) HC 223.449/SP, DJe 18/1/2023, transitada em julgado em 7/2/2023; e (iii) HC 223.456/SP, DJe 18/1/2023, transitada em julgado em 7/2/2023. III – Para além disso, a orientação jurisprudencial desta Suprema Corte é no sentido de que “[...] bastam a prova da materialidade e os indícios da autoria para submeter o indivíduo a julgamento pelo Tribunal do Júri, uma vez que as dúvidas quanto à certeza do crime e da autoria deverão ser dirimidas durante o julgamento perante aquele tribunal, já que a sentença de pronúncia não faz juízo definitivo sobre o mérito das imputações e sobre a eventual controvérsia do conjunto probatório” (HC 229.089 AgR/MT, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 16/10/2023). IV – Agravo ao qual se nega provimento. (HC 234.688 ED/AM, da minha relatoria, Primeira Turma, DJe 26/2/2024).
+
+    Processual penal. Embargos declaratórios em recurso ordinário em habeas corpus recebidos como agravo regimental. Homicídio. Decisão de pronúncia. Jurisprudência do Supremo Tribunal Federal. Análise de fatos e provas. Excesso de prazo. Supressão de instância. 1. Tendo em vista o caráter infringente da pretensão formulada pela parte recorrente de ver reformada a decisão impugnada, os embargos de declaração devem ser recebidos como agravo regimental. Precedentes: HC 152.642-ED, Rel. Min. Luiz Fux; ARE 732.028-ED, Rel. Min. Celso de Mello; ARE 684.535-ED, Relª. Minª. Rosa Weber. 2. A jurisprudência do Supremo Tribunal Federal é no sentido de que “bastam a prova da materialidade e os indícios da autoria para levar o indivíduo a julgamento pelo tribunal do júri” e que “as dúvidas quanto à certeza do crime e da autoria deverão ser dirimidas durante o julgamento pelo Tribunal do Júri [...], já que a sentença de pronúncia não faz juízo definitivo sobre o mérito das imputações e sobre a eventual controvérsia do conjunto probatório” (HC 95.549, Relª. Minª. Cármen Lúcia). 3. Hipótese em que as instâncias de origem atestaram a presença de “indícios suficientes de autoria, vez que a prova testemunhal produzida nesta fase do iudicium accusationis indicou que o acusado Marcos teria participado da infração penal na forma imputada na denúncia”. 4. Para chegar à conclusão diversa das instâncias antecedentes, seria necessário o reexame do conjunto fático-probatório dos autos, o que não é possível na via processual restrita do habeas corpus. Nessa linha, veja-se o HC 194.162-AgR, Rel. Min. Alexandre de Moraes. 5. No que se refere à alegação de excesso de prazo na prisão cautelar, a matéria não foi analisada pelo Superior Tribunal de Justiça, o que impede o imediato exame pelo Supremo Tribunal Federal, sob pena de supressão de instância. 6. Embargos declaratórios recebidos como agravo regimental a que se nega provimento. (RHC 201.643 ED/RJ, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 1º/7/2021 – grifei).
+
+    Para além disso, quanto à prisão preventiva, registro que essa questão não foi julgada pela Sexta Turma do Superior Tribunal de Justiça. Nesse contexto, a orientação jurisprudencial do Supremo Tribunal Federal é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013 – grifei).
+
+    Nessa perspectiva:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PRETENDIDO REEXAME DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO ESPECIAL: INVIÁVEL EM HABEAS CORPUS. AUSÊNCIA DE ANÁLISE DO MÉRITO DA IMPETRAÇÃO POR COLEGIADO DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. I – A jurisprudência do Supremo Tribunal Federal é firme no sentido de não ser o habeas corpus meio hábil para discutir questões alheias à liberdade de locomoção, tais como tempestividade ou ausência dos pressupostos de admissibilidade de recurso interposto em Tribunal diverso. II – Para além disso, o mérito desta impetração não foi objeto de julgamento pela Quinta Turma do Superior Tribunal de Justiça. A orientação jurisprudencial desta Suprema Corte é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013). III – O presente recurso mostra-se inviável, pois contém apenas a reiteração dos argumentos anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar os fundamentos da decisão agravada. IV – Agravo ao qual se nega provimento. (RHC 233.878 AgR/MS, da minha relatoria, Primeira Turma, DJe 28/2/2024 – grifei).
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA SOBRE A MATÉRIA CONSTANTE DESTA IMPETRAÇÃO: SUPRESSÃO DE INSTÂNCIA. PONDERAÇÃO E REEXAME DAS CIRCUNSTÂNCIAS JUDICIAIS REFERIDAS NO ART. 59, DO CÓDIGO PENAL: INVIABILIDADE NESTA ESTREITA VIA. AGRAVO AO QUAL SE NEGA PROVIMENTO. I – O mérito desta impetração não foi objeto de julgamento pela Sexta Turma do Superior Tribunal de Justiça. A orientação jurisprudencial do Supremo Tribunal Federal é firme no sentido de que, “[inexistindo] prévia manifestação do Superior Tribunal de Justiça sobre a matéria de fundo da impetração, a apreciação dos pedidos da defesa implica supressão de instância” (HC 119.600 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4/11/2013). II – A estreita via do habeas corpus não permite que se proceda à ponderação e ao reexame das circunstâncias judiciais referidas no art. 59, do Código Penal, consideradas na sentença condenatória. Faz-se possível, nesta oportunidade, “[...] apenas o controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades” (HC 129.920 AgR/SP, Rel. Min. Teori Zavascki, Segunda Turma, DJe 18/12/2015), iniquidades que não se verificam no caso. III – Agravo ao qual se nega provimento. (HC 233.257 AgR/PR, da minha relatoria, Primeira Turma, DJe 28/2/2024 – grifei).
+
+    Ante o exposto, denego a ordem (art. 192, caput, do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 7 de setembro de 2025.
+
+    Ministro Cristiano Zanin
+
+    Relator
