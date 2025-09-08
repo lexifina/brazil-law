@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por ELAINE CRISTINA DE OLIVEIRA ESCADELARI e MAURICIO DE CARVALHO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO que inadmitiu o recurso especial por eles interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 0043070-94.2016.8.19.0004 (fls. 1.552/1.554), negando provimento ao recurso defensivo e mantendo a condenação dos réus pela prática do crime previsto no art. 272, § 1º-A, na forma do art. 71, ambos do CP.
+No recurso especial (fls. 1.621/1.645), a defesa requereu, em síntese: a) a declaração de nulidade da busca e apreensão realizada sem mandado e, por consequência, a nulidade dos elementos probatórios dela decorrentes, incluindo os laudos periciais constantes dos autos; b) a absolvição dos réus pela atipicidade da conduta, em razão da ausência de laudo comprovando a nocividade do produto; ou, subsidiariamente, c) a absolvição dos réus, em razão da insuficiência de provas; e d) o reconhecimento do crime único, afastando-se a continuidade delitiva.
+Inadmitido o recurso na origem (fls. 1.754/1.763), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 1.786/1.799).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 1.837/1.841).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou impugnar, com suficiência, os fundamentos para inadmissão do especial.
+Todavia, o recurso especial não comporta conhecimento.
+Relativamente à nulidade da busca e apreensão, convém lembrar que o acórdão impugnado reconheceu a existência de fundadas razões para a busca, diante da existência de indícios da prática de ilícito na empresa localizada em Nova Odessa/SP. A ocorrência, portanto, de fundadas razões para os agentes dirigirem-se até referida sede, e lá encontrarem situação de flagrância delitiva, autorizou o ingresso e validou a prova ali colhida, bem como autoriza o reconhecimento da licitude das provas dali derivadas. Neste sentido: AgRg no HC 786.579/MG, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 21/3/2023.
+Relativamente ao pedido absolutório, o Tribunal de origem, soberano na análise fático-probatória, considerou suficientes os elementos de convicção, tanto da materialidade, quanto da autoria. A reversão do entendimento a que chegaram as instâncias ordinárias demanda incursão no acervo fático-probatório dos autos, inviabilizado pelo enunciado da Súmula 7/STJ.
+Pelo exposto, conheço do agravo, para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE SUBSTÂNCIA OU PRODUTOS ALIMENTÍCIOS OU BEBIDAS EM CONTINUIDADE DELITIVA. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 158, 240, § 1º, 383 E 386, VII, TODOS DO CPP. NULIDADE DA BUSCA E APREENSÃO. EXISTÊNCIA DE FUNDADAS RAZÕES E FLAGRÂNCIA DELITIVA. ABSOLVIÇÃO. PRETENSÃO QUE DEMANDA INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
