@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo ESTADO DE RONDÔNIA contra decisão assim ementada (fl. 744):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO(S). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O agravante sustenta, em síntese, que "nas razões do agravo em REsp é possível verificar o tópico "3 - DO AGRAVO EM RECURSO ESPECIAL - IMPUGNAÇÃO ESPECÍFICA", no qual o agravante aborda a não incidência da Súmula 284/STF. Foi indicada ofensa a legislação federal, em especial aos arts. 142 e 150 do CTN" (fl. 768).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, os fundamentos da decisão que inadmitiu o recurso na Corte de origem (incidência da Súmula 284/STF).
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada nos seguintes fundamentos: i) no que diz respeito aos arts. 4o, 11, 12 e 13, da Lei Complementar n. 87/96, o recorrente apenas os menciona no preâmbulo do recurso, sem, contudo, discorrer e explicar, em suas razões recursais, de que modo o acórdão os teria violado; ii) no tocante à violação a Lei n. 6.830/80 e ao CTN, em que pese colacionar artigos em suas razões recursais, verifica-se a ausência de expressa indicação dos dispositivos federais que teriam sido violados, o que inviabiliza o conhecimento do recurso, pois não cabe ao julgador extrai-los da argumentação a fim de suprir a deficiência, sendo tal ônus de inteira responsabilidade da parte; íii) o seguimento do recurso encontra óbice na Súmula 284 do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", aplicada analogicamente ao recurso especial ante sua natureza extraordinária (STJ - Aglnt no AREsp: 1341810 SP 2018/0199466-1, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 14/05/2019, T4 - QUARTA TURMA. Data de Publicação: D Je 22/05/2019).
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Com efeito, no que diz respeito à Súmula 284/STF, a deficiência na argumentação recursal foi considerada em vista de que, na análise das razões recursais do recurso obstado, não se delimitou os dispositivos legais objeto de violação, bem como pela ausência de explicação, em suas razões recursais, de que modo o acórdão os teria violado. Para impugnar tal entendimento, cabia-lhes transcrever os devidos trechos correspondentes do seu arrazoado, no sentido de efetivamente comprovar que seu recurso especial foi fundamentado de forma correta, inexistindo na sua argumentação qualquer tipo de deficiência.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. PRINCÍPIO DA DIALETICIDADE. NÃO OBSERVÂNCIA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+2. A falta de ataque a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+3. Na origem, o recurso especial não foi admitido diante dos óbices das Súmulas n. 7/STJ e n. 284/STF. Todavia, no respectivo agravo, a Defesa limitou-se a arguir, genericamente, a inaplicabilidade dos referidos entraves, o que enseja a impossibilidade de seu conhecimento.
+4. Para afastar a incidência da Súmula n. 7/STJ, exige-se a demonstração clara e objetiva de que a solução da controvérsia e a verificação de violação da lei federal independem do reexame do conjunto fático-probatório dos autos. Na espécie, não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido. Precedentes.
+5. Para não incidir a Súmula n. 284/STF, o recorrente precisa esclarecer objetivamente as razões que ensejaram a alegada violação à lei federal, ou sua negativa de vigência, não se mostrando bastante a mera exposição de argumentos gerais, sem indicar o dispositivo legal violado e sem particularizar suficientemente o alegado descompasso mediante o enfrentamento dos fundamentos do acórdão recorrido, o que não se verifica no caso.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.773.886/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/2/2025, DJEN de 10/2/2025; sem grifo no original .)
+No caso, conquanto a parte tenha defendido a inaplicabilidade da Súmula 284/STF no seu agravo em recurso especial, deixou de transcrever os trechos do recurso obstado que demonstrariam a efetiva indicação dos dispositivos tidos por violados, bem como os fundamentos relacionados a cada um deles.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
