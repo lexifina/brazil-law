@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Agravo interno. Liquidação extrajudicial. Assistência judiciária gratuita. Juros remuneratórios. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra a decisão que negou provimento ao agravo em recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a taxa de juros remuneratórios pactuada acima da taxa média de mercado divulgada pelo Banco Central pode ser considerada abusiva sem a análise das peculiaridades do caso concreto.
+III. Razões de decidir
+3. O acórdão recorrido está de acordo com a jurisprudência do STJ, que estabelece que a abusividade dos juros remuneratórios deve ser aferida no caso concreto, considerando-se diversos fatores, como a relação de consumo e eventual desvantagem exagerada do consumidor, não bastando o simples cotejo com a taxa média de mercado. Incidência da Súmula n. 83 do STJ.
+4. A revisão das conclusões do Tribunal de origem sobre os juros remuneratórios demandaria reexame de provas, o que é vedado em recurso especial. Incidência da Súmulas n. 5 e 7 do STJ.
+5. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é cabível quando não se configura a manifesta inadmissibilidade do agravo interno.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ). 2. Aplicam-se as Súmulas n. 5 e 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise do instrumento contratual e dos elementos probatórios produzidos ao longo da demanda. 3. A aplicação da multa prevista no art. 1.021, § 4º, do CPC requer a manifesta inadmissibilidade do agravo interno".
+Dispositivos relevantes citados: CPC de 2015, art. 1.021; CDC de 1990, art. 51, IV e § 1º.
+Jurisprudência relevante citada: STJ, REsp n. 1.298.237/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/5/2015; STJ, AgInt no AREsp n. 1.978.978/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022.
+RELATÓRIO
+PORTOCRED S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO (EM LIQUIDAÇÃ O EXTRAJUDICIAL) interpõe agravo interno contra a decisão de fls. 1.566-1.573, que negou provimento ao agravo.
+No mérito, alega a ocorrência de negativa de prestação jurisdicional e a inaplicabilidade das súmulas adotadas.
+Requer, assim, que seja reconsiderada a decisão agravada para conhecimento do recurso especial.
+Contrarrazões foram apresentadas às fls. 1.644-1.646, em que se pleiteia o desprovimento do recurso com a aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno. Liquidação extrajudicial. Assistência judiciária gratuita. Juros remuneratórios. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra a decisão que negou provimento ao agravo em recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a taxa de juros remuneratórios pactuada acima da taxa média de mercado divulgada pelo Banco Central pode ser considerada abusiva sem a análise das peculiaridades do caso concreto.
+III. Razões de decidir
+3. O acórdão recorrido está de acordo com a jurisprudência do STJ, que estabelece que a abusividade dos juros remuneratórios deve ser aferida no caso concreto, considerando-se diversos fatores, como a relação de consumo e eventual desvantagem exagerada do consumidor, não bastando o simples cotejo com a taxa média de mercado. Incidência da Súmula n. 83 do STJ.
+4. A revisão das conclusões do Tribunal de origem sobre os juros remuneratórios demandaria reexame de provas, o que é vedado em recurso especial. Incidência da Súmulas n. 5 e 7 do STJ.
+5. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é cabível quando não se configura a manifesta inadmissibilidade do agravo interno.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ). 2. Aplicam-se as Súmulas n. 5 e 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise do instrumento contratual e dos elementos probatórios produzidos ao longo da demanda. 3. A aplicação da multa prevista no art. 1.021, § 4º, do CPC requer a manifesta inadmissibilidade do agravo interno".
+Dispositivos relevantes citados: CPC de 2015, art. 1.021; CDC de 1990, art. 51, IV e § 1º.
+Jurisprudência relevante citada: STJ, REsp n. 1.298.237/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/5/2015; STJ, AgInt no AREsp n. 1.978.978/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022.
+VOTO
+A irresignação não deve prosperar.
+Com relação à negativa de prestação jurisdicional, a decisão ora agravada não merece reparos no ponto em que a afastou, porquanto a Corte de origem examinou e decidiu as questões imprescindíveis ao deslinde da controvérsia, não havendo vício que nulifique o acórdão recorrido, especialmente considerando que o colegiado não está obrigado a repelir todas as alegações expendidas no recurso.
+No tocante aos juros remuneratórios, não há como afastar as Súmulas n. 5, 7 e 83 do STJ no presente caso, na medida em que o Tribunal de origem não se limitou a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen, tendo consignado que a instituição financeira não se desincumbira do ônus de demonstrar outros fatores que justificariam a taxa de juros contratada, tais como o custo de captação dos recursos, o risco do negócio, o spread da operação e a análise de risco de crédito do contratante, nestes termos (fls. 1.194-1.195, destaquei):
+No caso, os contratos:
+a) Nº 3818968544, , no valor de R$ 2.067,56, a taxa de juros aplicada foi de 4,28% ao mês, enquanto a taxa média do Bacen mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, em MARÇO/2022, data da contratação, foi de 1,57% ao mês. Assim, considerando os trinta por cento, a taxa de juros remuneratórios poderia chegar a 2,04%% ao mês. evento 26, CONTR2
+b) Nº 3819041688, no valor de R$ 2.599,98, a taxa de juros aplicada foi de 4,28% ao mês, enquanto a taxa média do Bacen mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, em MARÇO/2022, data da contratação, foi de 1,57% ao mês. Assim, considerando os trinta por cento, a taxa de juros remuneratórios poderia chegar a 2,04%% ao mês. evento 26, CONTR3
+c) Nº 3820599704, no valor de R$ 2.067,56, a taxa de juros aplicada foi de 4,28% ao mês, enquanto a taxa média do Bacen mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, em julho/2022, data da contratação, foi de 1,74% ao mês. Assim, considerando os trinta por cento, a taxa de juros remuneratórios poderia chegar a 2,26%% ao mês. evento 26, CONTR4
+d) Nº 3820599704, no valor de R$ 3.828,72, a taxa de juros aplicada foi de 3,55% ao mês, enquanto a taxa média do Bacen mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, em julho/2022, data da contratação, foi de 1,73% ao mês. Assim, considerando os trinta por cento, a taxa de juros remuneratórios poderia chegar a 2,24%% ao mês. evento 26, CONTR5
+e) Nº 3821422399, no valor de R$ 7.241,72, a taxa de juros aplicada foi de 4,28% ao mês, enquanto a taxa média do Bacen mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, em setembro/2022, data da contratação, foi de 1,75% ao mês. Assim, considerando os trinta por cento, a taxa de juros remuneratórios poderia chegar a 2,27%% ao mês. evento 26, CONTR6
+f) Nº 3821720012, no valor de R$ 4.222,15, a taxa de juros aplicada foi de 4,28% ao mês, enquanto a taxa média do Bacen mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, em setembro/2022, data da contratação, foi de 1,75% ao mês. Assim, considerando os trinta por cento, a taxa de juros remuneratórios poderia chegar a 2,27%% ao mês. evento 26, CONTR8
+g) Nº 3822445805, no valor de R$ 2.444,30, a taxa de juros aplicada foi de 4,28% ao mês, enquanto a taxa média do Bacen mensal de juros - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, em setembro/2022, data da contratação, foi de 1,80% ao mês. Assim, considerando os trinta por cento, a taxa de juros remuneratórios poderia chegar a 2,34%% ao mês. evento 26, CONTR7
+Assim, evidenciada a abusividade das taxa de juros remuneratórios aplicadas aos contratos, o que possibilita sua revisão e adequação nos termos do entendimento deste Colegiado, observada as particularidades da situação.
+Assim, evidenciada a abusividade das taxas de juros remuneratórios aplicadas especificamente nos pactos em revisão o que possibilita sua mudança e adequação nos termos do entendimento deste Colegiado, observada as particularidades da situação conforme o comando do STJ. Mantido, portanto, o julgamento precedente, com o acréscimo dos fundamentos ora expendidos. Observa-se que a Financeira não entranhou qualquer individualização diferenciada da mutuária-autora e consumidora para tratá-la diferente ao da média normal. Não comprovou ser mais devedora do que os demais pessoas que tomam a mesma modalidade de empréstimo, não mostrou que fosse mais renitente no pagamento dos seus débitos. Todas as provas trazidas pelas partes foram observadas e computadas na observação da abusividade das taxas pactuadas em frente a sua desproporcionalidade com a normalidade do mercado. As garantias e riscos estão formando o "spread" na série apropriada ao mútuo concedido. Inexistindo comprovação de alguma outra especificidade por operar na análise do empréstimo ora revisado.
+Dessa forma, o acórdão recorrido está em sintonia com a orientação jurisprudencial do STJ - na medida em que o Tribunal estadual buscou utilizar outros parâmetros para concluir pela existência de vantagem exagerada na pactuação dos juros remuneratórios -, o que atrai a aplicação da Súmula n. 83 do STJ.
+Ademais, para decidir em sentido contrário e reconhecer a presença dos diversos fatores acima apontados acerca das peculiaridades do caso concreto quanto aos juros pactuados, seria necessário reexaminar o instrumento contratual e o conjunto fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmulas n. 5 e 7 do STJ). Nesse sentido: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+Além disso, caberia à parte ré o ônus de demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito da parte autora. No mesmo sentido: AgInt no AREsp n. 2.391.820/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.
+Portanto, verifica-se que a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Também não há como acolher o pedido da parte agravada constante da impugnação a este agravo interno, referente à aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015.
+Registre-se que "a multa do art. 1.021, § 4º, do CPC/2015 não é consequência automática do não conhecimento ou do não provimento unânime do agravo interno. Quando exercitado o regular direito de recorrer e não verificada hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária, afasta-se mencionada penalidade" (EDcl no AgInt nos EREsp n. 1.881.207/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgados em 29/11/2022, DJe de 9/12/2022).
+Vejam-se ainda os seguintes precedentes: AgInt na Rcl n. 42.586/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022; e AgInt nos EREsp n. 1.760.825/SC, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/8/2021, DJe de 23/8/2021.
+No caso, apesar do desprovimento do agravo interno, não se configura a manifesta inadmissibilidade do recurso, razão pela qual é incabível a aplicação da penalidade acima referida.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
