@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Marcos Guilherme Ienke, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, além de 1.088 (mil e oitenta e oito) dias-multa, em razão da prática do crime previsto no artigo 33, caput, por 8 (oito) vezes, c/c o art. 40, III, por 2 (duas) vezes, e VI, por 3 (três) vezes, da Lei n. 11.343/2006, na forma do art. 69 do Código Penal.
+Neste writ, alega que a condenação firmou-se exclusivamente na prova colhida durante o inquérito policial.
+Sustenta que o decreto condenatório carece de fundamentação, por não ter analisado as provas produzidas em Juízo.
+Requer, assim, a concessão da ordem para absolver o paciente. Subsidiariamente, pugna pela decretação de nulidade processual.
+As informações foram prestadas (fls. 51-54 e 55-103).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, bem como pela não concessão da ordem de ofício (fls. 105-109).
+É o relatório.
+DECIDO.
+Conforme informado pelo Juízo de primeiro grau (fls. 51-54), "existem outros dois HCs impetrados em favor do paciente e por advogado constituído, registrados sob os números STJ HC 914135/SP e HC 968355-SP".
+Analisando os mencionados procedimentos, verifico tratar-se da mesma matéria objeto deste writ, sendo que o HC n. 914135/SP não foi conhecido, tendo ocorrido o trânsito em julgado do provimento no dia 12 de agosto de 2024, e, no que diz respeito ao HC n. 968355-SP, foi denegada a ordem, sendo, ainda, negado provimento ao agravo regimental interposto, verificando-se o trânsito em julgado no dia 5 de junho de 2025.
+Dentro desse cenário, considerando que a matéria suscitada já foi decidida por esta Corte noutros procedimentos, tratando-se, portanto, o presente feito, de mera reiteração de pedido, inadmissível a tramitação do novo procedimento.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. REITERAÇÃO DE PEDIDO JÁ ANALISADO EM HABEAS CORPUS ANTERIOR. IMPOSSIBILIDADE. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que indeferiu habeas corpus, impetrado contra decisão singular de desembargador no tribunal de origem. O agravante busca reconsideração ou provimento do recurso para análise do mérito do pedido pelo colegiado, sustentando constrangimento ilegal. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se é cabível habeas corpus contra decisão monocrática de desembargador, sem que haja deliberação pelo colegiado do tribunal de origem, e (ii) se a reiteração de pedido já analisado em habeas corpus anterior é admissível. III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica ao vedar a impetração de habeas corpus contra decisão monocrática de desembargador quando não há exaurimento de instância, ou seja, sem a prévia submissão do decisum ao colegiado do tribunal de origem. O princípio da unirrecorribilidade impede que o habeas corpus seja utilizado como substitutivo de recurso próprio, exceto em casos de flagrante ilegalidade.
+4. Constatou-se que a matéria ora suscitada já foi objeto de análise em habeas corpus anterior (RHC nº 205788/SP), sendo inadmissível a reiteração de pedido idêntico em novo writ. Segundo o entendimento consolidado, a repetição de pedidos já apreciados e decididos inviabiliza a admissão do habeas corpus, configurando situação de coisa julgada material quanto à mesma causa de pedir.
+IV. AGRAVO DESPROVIDO. (AgRg no n. HC 925286/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJEN de 2/12/2024, grifamos).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MATÉRIA JÁ SUSCITADA EM HABEAS CORPUS IMPETRADO ANTERIORMENTE. MERA REITERAÇÃO DE PEDIDO. AGRAVO NÃO PROVIDO. 1. A simples leitura da decisão combatida deixa claro que este recurso foi interposto em favor do mesmo paciente do HC n. 746.321/SC, questiona o mesmo acórdão proferido pelo Tribunal de origem e apresenta pedido idêntico - revogação da prisão preventiva por ser incompatível com o regime fixado na sentença para início do cumprimento da pena (semiaberto). 2. A análise do decisum proferido naqueles autos evidencia que, ao contrário do afirmado neste agravo, houve exame do mérito lá suscitado, tanto que foi denegada a ordem. 3. Agravo não provido. (AgRg no RHC n. 166.833/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022, grifamos).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. DEFICIÊNCIA DA INSTRUÇÃO. REITERAÇÃO PARCIAL DE PEDIDO. INDEFERIMENTO LIMINAR DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e, dada sua natureza urgente, exige prova pré-constituída das alegações. Não admite, pois, dilação probatória.
+2. A defesa não instruiu o pedido com cópia de documentos do inquérito policial, nos quais, segundo a Corte de origem, haveria requerimento de decretação da custódia preventiva do recorrente, de modo que persiste a impossibilidade de exame do constrangimento ilegal suscitado.
+3. O recurso cujo objeto é parcialmente idêntico ao de anterior habeas corpus, já julgado por esta Corte Superior de Justiça, caracteriza indevida reiteração de pedido e, portanto, autoriza o indeferimento liminar do writ.
+4. Agravo regimental não provido. (AgRg no RHC n. 137686/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/11/2020, DJe de 16/12/2020, grifamos).
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
