@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DO RIO GRANDE DO SUL contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao recurso especial com base no Tema Repetitivo n. 905/STJ e o inadmitiu em razão da não demonstração de violação ao art. 1.022 do CPC/2015.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 110-118):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. CORREÇÃO MONETÁRIA E INDEXADOR DE ATUALIZAÇÃO. JUROS DE MORA. PERÍODO DE INCIDÊNCIA DE ATUALIZAÇÃO MONETÁRIA EM CASO DE MORA
+O disposto no art. 100, § 8o da Constituição Federal, que veda pagamentos complementares pela Fazenda, não impede a recomposição do valor original da RPV, em decorrência de atualização monetária, no período compreendido entre a elaboração dos cálculos e o efetivo pagamento da RPV, tratando-se a atualização monetária mera atualização do valor da condenação para a época do seu pagamento, mantendo o poder aquisitivo da moeda.
+ATUALIZAÇÃO MONETÁRIA - ADIS 4357 E 4425 E CAUTELAR NA ADI 4425
+1. O Supremo Tribunal Federal julgou parciaimente procedente as Ações Diretas de Inconstitucionalidade - ADIS 4357 e 4425, declarando a inconstitucionalidade parcial dos parágrafos 2o, 9º, 10º e da expressão "índice oficial de remuneração básica da caderneta de poupança".
+2. A Medida Cautelar concedida nos autos da ADI 4425 pelo Min. Luiz Fux, e ratificada pelo plenário no dia 24.10.2013, determina aos Tribunais a aplicação da legislação considerada inconstitucional pela Suprema Corte (ADIs 4425 e 4357), até decisão final nos autos dos embargos de declaração que modulará os efeitos da decisão.
+3. Liminares em reclamações deferidas pelo STF determinam a aplicação da Lei 11.960/2009 mesmo nas ações de conhecimento em tramitação.
+Em atenção à orientação da Suprema Corte, e objetivando maior segurança ao jurisdicionado altera-se entendimento anterior acerca da forma de atualização dos valores devidos pela Fazenda Pública. INDEXADOR DA ATUALIZAÇÃO MONETÁRIA - LEI Nº 11.960/2009
+A partir de 30.06.2009 a atualização monetária será realizada por os índices oficiais da caderneta de poupança.
+JUROS DE MORA
+Os juros de mora incidem a partir do dia subsequente ao prazo legal para pagamento da RPV até a sua efetiva liquidação, na forma do título executivo, sendo que a partir de 30.06.2009 consoante os juros que remuneram a caderneta de poupança.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração foram desacolhidos (fls. 188-195)
+No recurso especial, interposto com fundamento no artigo 105, III, a, da Constituição Federal, a parte recorrente alega - no que relevante - violação do artigo 1.022, II, do CPC/2015, "uma vez que a análise da contradição apontada era relevante para a resolução da quaestio, uma vez que é pacífico o entendimento dos Tribunais Superiores que aos requisitórios expedidos até 25/03/2015 no que tange à correção monetária aplica-se o quanto decidido na modulação dos efeitos da declaração de inconstitucionalidade nas ADIs 4357 e 4425. Nesse diapasão, pelo reconhecimento da negativa de prestação jurisdicional a ensejar o provimento do recurso especial" (fl. 208).
+Com contrarrazões (fls. 246-250).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta.
+O agravo interno do art. 1.030, § 2º, do CPC/2015 foi parcialmente conhecido e, nesta parte, desprovido, nos termos da ementa a seguir (fl. 319):
+AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSOS ESPECIAL E EXTRAORDINÁRIO. FAZENDA PÚBLICA. REQUISITÓRIO NÃO ABARCADO PELO PERÍODO DE MODULAÇÃO DA ADI 4.425 QO. CORREÇÃO MONETÁRIA. ÍNDICE OFICIAL DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA (TR). INCONSTITUCIONALIDADE. TEMAS 905 DO STJ E 810 DO STF. RECURSO CONHECIDO EM PARTE E, NA EXTENSÃO, DESPROVIDO.
+É o relatório. Decido.
+Consigne-se que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De pronto, afasta-se a alegada violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Com efeito, ainda que assim não fosse, a parte pretendia, a rigor, a aplicação de entendimento do STF, com modulação de efeitos, à hipótese dos autos, o quê nem mesmo poderia ser objeto de análise em apelo especial.
+Note-se, inclusive, que a Corte de origem, ao julgar o agravo interno do art. 1.030, § 2º, do CPC/2015, manifestou-se expressamente sobre a controvérsia alegadamente omitida: "In casu, pois, não se aplica a modulação de efeitos estabelecida no exame de Questão de Ordem nas ADI 4.357 e ADI 4.425, tendo em vista estarem em discussão, nos presentes autos, critérios de atualização atinentes a requisitório complementar ainda não expedido. De efeito, "a eficácia prospectiva conferida à declaração de inconstitucionalidade, ao exame da Questão de Ordem nas AD/s 4.357 e 4.425, para manter a aplicação da TR como índice de atualização monetária, refere-se, nos termos da jurisprudência desta Suprema Corte, apenas aos precatórios já expedidos ou pagos até 25.3.2015. Para os precatórios ainda não expedidos até o marco temporal estabelecido na modulação dos efeitos apiica-se o entendimento firmado no RE 870.947- RG" (Rcl 46331 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 27-09-2021, PROCESSO ELETRÔNICO D Je-210 DIVULG 21-10-2021 PUBLIC 22-10-2021)" (vide fls. 649-657).
+Ante o exposto, conheço do agravo, para negar provimento ao recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. CONSECTÁRIOS LEGAIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
