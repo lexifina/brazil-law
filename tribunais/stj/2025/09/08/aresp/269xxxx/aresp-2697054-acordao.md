@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO MAS NÃO PROVIDO.
+1. O entendimento do acórdão recorrido está em consonância com a jurisprudência do STJ, segundo a qual, constitui erro grosseiro, não amparado pelo princípio da fungibilidade recursal, por ausência de dúvida objetiva, a interposição de recurso de apelação quando não houve a extinção total do feito, como ocorre no presente caso, hipótese em que caberia o recurso de agravo de instrumento, o que atrai a incidência da Súmula n. 83 do STJ.
+3. Agravo conhecido para conhecer do recurso especial, mas negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ANTONIO CARLOS ZANELLA e outros (ANTONIO e outros) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 1.201-1.211).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO MAS NÃO PROVIDO.
+1. O entendimento do acórdão recorrido está em consonância com a jurisprudência do STJ, segundo a qual, constitui erro grosseiro, não amparado pelo princípio da fungibilidade recursal, por ausência de dúvida objetiva, a interposição de recurso de apelação quando não houve a extinção total do feito, como ocorre no presente caso, hipótese em que caberia o recurso de agravo de instrumento, o que atrai a incidência da Súmula n. 83 do STJ.
+3. Agravo conhecido para conhecer do recurso especial, mas negar-lhe provimento.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O recurso especial, amparado no art. 105, III, a, da CF, foi interposto contra acórdão do Tribunal estadual assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA PROFERIDA EM APELAÇÃO CÍVEL. NÃO CABIMENTO DE APELAÇÃO CÍVEL.
+A decisão que julga parcialmente procedente a exceção de pré-executividade não é atacável pela via da apelação cível, ao que vai mantida a decisão que não conheceu do recurso. Inviável, no caso, a aplicação do princípio da fungibilidade recursal.
+AGRAVO INTERNO DESPROVIDO. UNÂNIME. (e-STJ, fl. 1.131).
+Nas razões do seu inconformismo, ANTONIO e outros alegaram a violação do art. 1.015 do CPC, sob o entendimento de que o recurso cabível contra decisão que acolhe a exceção de pré-executividade, mesmo que de maneira parcial, é a apelação.
+Pois bem.
+Sobre o tema, a Corte local consignou:
+ ..
+Não assiste razão à parte agravante, tendo em vista os fundamentos esposados serem insuficientes para modificar a decisão monocrática prolatada.
+Transcrevo a fundamentação da decisão proferida:
+(..) A decisão objeto da insurgência julgou parcialmente procedente a exceção de pré-executividade, limitando o desconto em folha de pagamento dos ora recorrentes que tiveram o deferimento de tutela provisória deferido e, com o julgamento do mérito, terão que devolver os valores recebidos. Tal ato não se enquadra no conceito previsto pelo §1º, do art. 203 do CPC.
+Assim, o cumprimento de sentença terá prosseguimento e, portanto, não houve o fim da fase, ao que cabível o agravo de instrumento como forma de insurgência, a teor do art. 1.015, parágrafo único do CPC (e-STJ, fl. 1.128 - sem destaques no original).
+Nesse contexto, o entendimento do acórdão recorrido está em consonância com a jurisprudência do STJ, segundo a qual constitui erro grosseiro, não amparado pelo princípio da fungibilidade recursal, por ausência de dúvida objetiva, a interposição de recurso de apelação quando não houver a extinção total do feito, como ocorre no presente caso, hipótese em que caberia o recurso de agravo de instrumento, o que atrai a incidência da Súmula n. 83 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. RECURSO CABÍVEL. RECURSO NÃO PROVIDO.
+1. "A aplicação do princípio da fungibilidade recursal é cabível na hipótese em que exista dúvida objetiva, fundada em divergência doutrinária ou mesmo jurisprudencial acerca do recurso a ser manejado em face da decisão judicial a qual se pretende impugnar" (AgRg no AREsp 230.380/RN, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/05/2016, DJe 10/06/2016)
+2. O acórdão impugnado aplicou a jurisprudência desta Corte de que constitui erro grosseiro, não amparado pelo princípio da fungibilidade recursal, a interposição do recurso de apelação no lugar do agravo de instrumento contra decisão interlocutória que rejeita exceção de pré-executividade. Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.287.926/DF, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª REGIÃO), Quarta Turma, julgado em 18/9/2018, DJe de 26/9/2018 - sem destaque no original)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. INADEQUAÇÃO. AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO. APLICAÇÃO DA SÚMULA 83/STJ.
+1. A jurisprudência desta Corte orienta que a decisão que rejeita exceção de pré-executividade deve ser desafiada por agravo de instrumento, caracterizando erro grosseiro a interposição de apelação.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.009.612/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2017, DJe de 6/10/2017 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO DE INSTRUMENTO. RECURSO CABÍVEL. RECURSO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ:
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Nos termos da jurisprudência do eg. Superior Tribunal de Justiça, o recurso cabível contra a decisão que julga a exceção de pré-executividade, sem extinguir o processo de execução, é o agravo de instrumento, e não a apelação.
+3. A aplicação do princípio da fungibilidade recursal é cabível na hipótese em que exista dúvida objetiva, fundada em divergência doutrinária ou mesmo jurisprudencial acerca do recurso a ser manejado em face da decisão judicial a qual se pretende impugnar.
+4. O entendimento pacífico do STJ é de que constitui erro grosseiro, não amparado pelo princípio da fungibilidade recursal, por ausência de dúvida objetiva, a interposição de recurso de apelação quando não houve a extinção total do feito - caso dos autos - ou seu inverso, quando a parte interpõe agravo de instrumento contra sentença que extinguiu totalmente o feito. Súmula 83/STJ.
+5. Agravo interno não provido.
+(AgRg no AREsp n. 230.380/RN, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/5/2016, DJe de 10/6/2016 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE, EM PROCESSO DE EXECUÇÃO, ACOLHEU PARCIALMENTE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE E DECLAROU A PRESCRIÇÃO DE PARTE DA DÍVIDA EXECUTADA, SEM POR FIM AO PROCESSO. NATUREZA DE DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto em 11/05/2016, contra decisão publicada em 02/05/2016.
+II. Na forma da jurisprudência predominante no STF e no STJ, o princípio da fungibilidade recursal somente se aplica quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto; b) inexistência de erro grosseiro; e c) observância do prazo do recurso cabível. Assim, na hipótese de erro grosseiro, não se aplica o princípio da fungibilidade. Nesse sentido: STF, Pet 5.707 AgR-ED/SP, Rel. Ministro RICARDO LEWANDOWSKI, TRIBUNAL PLENO, DJe de 16/03/2016; STJ, AgRg no MS 9.232/DF, Rel. Ministro GILSON DIPP, CORTE ESPECIAL, DJU de 17/12/2004; STJ, AgRg na SEC 10.885/EX, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 14/08/2015.
+III. Também é firme a jurisprudência do STJ no sentido de que a decisão que, em processo de execução, declara a inexigibilidade de parte da dívida executada, sem por fim ao processo, possui natureza interlocutória e deve ser impugnada por Agravo de Instrumento, constituindo erro grosseiro a interposição de Apelação, sendo inaplicável, por conseguinte, o princípio da fungibilidade recursal.
+Precedentes: REsp 457.181/PE, Rel. Ministro FRANCISCO PEÇANHA MARTINS, SEGUNDA TURMA, DJU de 06/03/2006; AgRg no Ag 1.091.109/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 14/04/2009; REsp 1.123.288/RO, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 25/11/2009; REsp 1.186.022/RO, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 29/04/2010; REsp 1.138.871/RO, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 02/06/2010; AgRg no Ag 1.159.377/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, DJe de 10/12/2010; AgRg no AREsp 230.380/RN, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 10/06/2016.
+IV. Quanto aos acórdãos proferidos no REsp 641.431/RN (Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJU de 17/12/2004), no REsp 898.115/PE (Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 21/05/2007) e nos EREsp 197.857/RJ (Rel. Ministro PAULO MEDINA, Rel. p/ acórdão Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJU de 16/12/2002) - acórdãos estes citados, pela parte agravante, tanto nas contrarrazões ao Recurso Especial, quanto no presente Agravo -, não bastasse estar superada a orientação adotada nestes três arestos, não guardam eles a necessária similitude fática e jurídica com o caso dos autos, no qual foi interposta Apelação, e não Agravo de Instrumento, contra a decisão que reconhecera a prescrição de parte da dívida executada e determinara o prosseguimento do feito, quanto à parcela não prescrita.
+V. Com efeito, nos presentes autos de Execução Fiscal, o Juiz de 1º Grau acolheu apenas em parte a Exceção de Pré-Executividade para "reconhecer prescrita a cobrança dos tributos dos exercícios de 1995 e 1996, devendo a execução prosseguir quanto ao imposto devido no ano de 1997". Nesse contexto, tendo havido interposição de Apelação, ao invés do cabível Agravo de Instrumento, restou configurada a hipótese de erro grosseiro, a impedir a aplicação do princípio da fungibilidade recursal, de acordo com os precedentes específicos citados na decisão agravada.
+VI. Sobre o requerimento para aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, deixa-se de acolhê-lo, pois os precedentes do STJ, citados no Agravo interno, já haviam sido invocados pela parte agravante, nas contrarrazões ao Recurso Especial, sem que fosse feita a devida demonstração, na decisão agravada, tanto da existência de distinção com o caso em julgamento, quanto da superação do entendimento neles adotado.
+VII. Não procede o pedido formulado, pela parte agravada - com fundamento no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ -, para que haja condenação da agravante em honorários advocatícios recursais, porquanto aquele dispositivo legal prevê que "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente". Porém, nos presentes autos, não foram anteriormente fixados honorários de advogado, em face da sucumbência recíproca, seja na decisão de 1º Grau, seja no acórdão recorrido.
+VIII. Agravo interno improvido.
+(AgInt no REsp n. 1.517.815/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/8/2016, DJe de 1º/9/2016 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para CONHECER do recurso especial, mas NEGAR-LHE PROVIMENTO.
+Não obstante a aplicabilidade do CPC, deixo de apreciar tema referente à majoração da verba honorária, porque não fixada nas instâncias ordinárias.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
