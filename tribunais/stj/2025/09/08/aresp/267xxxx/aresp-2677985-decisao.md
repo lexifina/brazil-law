@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de agravo interposto por QUEIXADA ENERGÉTICA S.A., em que defende a admissibilidade de recurso especial manejado com base no art. 105, III, "a", da Constituição Federal, contra acórdão assim ementado (e-STJ fls. 1.810/1.811):
+APELAÇÃO CÍVEL. AÇÃO ANULATORIA DE DÉBITO FISCAL. PROCESSO ADMINISTRATIVO TRIBUTÁRIO. MATERIAIS DE CONSTRUÇÃO. PEQUENA CENTRAL HIDROELÉTRICA  PCH. ICMS. CREDITAMENTO. NÃO CUMULATIVIDADE. MULTA. NÃO CONFISCO. DESISTÊNCIA PARCIAL. VERBA HONORÁRIA. INCIDÊNCIA SOBRE O VALOR TOTAL DA AÇÃO.
+1- Os valores de ICMS advindos dos materiais adquiridos para a construção de pequena central hidroelétrica  PCH, por serem mercadorias alheias à finalidade da empresa, geração e venda de energia elétrica, não podem ser objeto de creditamento, conforme permite o artigo 20 da Lei Complementar nº 87/96, em virtude da exceção prevista em seu parágrafo 1º. Inteligência dos Aglnt no REsp n. 2.046.988/SP, Aglnt no AREsp n. 1.775.781/SP, Aglnt no REsp n. 1.723.889/SP, Aglnt no AREsp n. 1.358.361/RS, R Esp n. 1.077.242/MG e R Esp n. 860.701/MG.
+2- Para que haja a creditação em comento, é necessário que a aquisição da mercadoria tenha sido posteriormente onerada ICMS, posto que, se não houver o débito tributário, não há que se falar em direito a crédito anterior (art. 155, § 2º, II, "b", da Constituição Federal).
+3- Em razão do não estorno de crédito, quando exigido, ou da escrituração indevida de valores a título de crédito do imposto, poderá ser aplicada multa de até cem por cento (100%) do valor do imposto (art. 71, IV, "a", da Lei Estadual de nº 11.651/91).
+4- Consideram-se confiscatórias apenas as multas punitivas que ultrapassarem o patamar de 100% do valor do imposto devido (ARE 1341246 AgR do STF).
+5- Qualquer modalidade de resistência oposta à pretensão deduzida em juízo ensejará a condenação da parte autora em honorários advocatícios, ainda que seu pedido de desistência tenha sido formulado e homologado antes da citação do demandado, haja vista que a referida verba tem por fato gerador o esforço laborai desenvolvido pelo procurador da parte adversa.
+6- A dispensa do pagamento de honorários advocatícios em decorrência de desistência de ação para fins de adesão a programa de recuperação fiscal está condicionada à existência de disposição expressa na lei instituidora desse benefício fiscal. Inteligência dos Aglnt no REsp n. 2.049.422/BA e Aglnt no REsp n. 1.874.815/AC.
+7- Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu (art. 90 do CPC).
+APELO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.851/1.872).
+No recurso especial (e-STJ fls. 1.880/1.944), a parte recorrente aponta violação: (i) do art. 10 do CPC, pelo julgamento do mérito com base em fundamentos não suscitados pelas partes; (ii) dos arts. 1.022 e 489 do CPC, por vícios de integração relacionados a diversas matérias; (iii) dos arts. 9º, 19º e seguintes da Lei Complementar n. 87/1996, por ofensa ao princípio da não-cumulatividade; (iv) do art. 2º da Lei n. 9.784/1999, pela desproporcionalidade e pela irrazoabilidade da multa; e, (v) dos arts. 8º, 85º, 506º, 507º e 927º do CPC, assim como do art. 4º da LINDB, pela condenação ao pagamento de honorários advocatícios em 10% sobre o valor da causa.
+Contrarrazões apresentadas.
+O Tribunal de origem não admitiu o recurso especial por entender inviável a análise de violação a dispositivo constitucional, deficiente a fundamentação relacionada aos vícios de integração (Súmula 284 do STF) e incidente a Súmula 7 do STJ (e-STJ fls. 2.234/2.238), o que ensejou a interposição deste agravo em recurso especial (e-STJ fls. 2.249/2.271).
+Oferecida contraminuta.
+Em 13/12/2024 (e-STJ fls. 2.351/2.352), foi homologada a renúncia parcial, relacionada às discussões que envolvem o PAT n. 4011305029646.
+Passo a decidir.
+Primeiramente, importa esclarecer que a presente análise se limita às questões referentes ao capítulo dos honorários advocatícios, haja vista que renunciadas as pretensões quanto ao mérito da ação anulatória.
+Na origem, cuida-se de ação anulatória de débito fiscal relativo a autos de infração lavrados por indevido creditamento de ICMS.
+O juízo de primeiro grau (e-STJ fls. 1.470/1.475) extinguiu o processo com base no art. 485, VI, do CPC quanto à pretensão relacionada aos débitos inscritos nas CDAs n. 1032030 (PAF 4011303486209) e 1032638 (PAF 4011303453629), ressalvando o prosseguimento quanto ao PAT n. 4011305029646.
+Posteriormente (e-STJ fls. 1.667/1.675), ressalvando que "remanesce análise apenas quanto PAT n. 4011305029646, visto que os demais foram pagos pela empresa autora" (e-STJ fl. 1.670), julgou improcedente o pedido e condenou a parte autora ao pagamento de honorários advocatícios fixados em 10% do valor da causa.
+O Tribunal de origem manteve a sentença e, no que interessa, consignou (e-STJ fls. 1.805/1.809):
+Da verba honorária
+Enfim, a parte apelante alega que, tendo havido a extinção do processo em relação aos PATs de n. 4011303453629 e 4011303486209 (mov. 60), a verba honorária sucumbencial deve ser fixada apenas com base no PAT nº 4011305029646, remanescente, cujo valor é de R$3.459.839,50.
+Vejamos qual é o mais moderno entendimento do egrégio STJ sobre como fixar a verba honorária:
+ ..
+Vejamos, ainda, o que preleciona o Código de Processo Civil:
+ ..
+A esse respeito o egrégio STJ entende:
+"PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. DESISTÊNCIA. PROGRAMA DE RECUPERAÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. DIREITO LOCAL. REEXAME. INVIABILIDADE.
+1. "Proferida sentença com fundamento na desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu" (art. 90 do CPC/2015).
+2. A dispensa do pagamento de honorários advocatícios em decorrência de desistência de ação para fins de adesão a programa de recuperação fiscal está condicionada à existência de disposição expressa na lei instituidora desse benefício fiscal. Precedentes.
+3. Hipótese em que a Corte a quo assentou que a legislação estadual de regência do programa aderido não dispensa o pagamento dos honorários advocatícios referentes às ações conexas que discutem a validade do crédito tributário objeto do parcelamento, de modo que a revisão desse entendimento pressupõe o reexame de norma de direito local, o que é inviável em sede de recurso especial. Incidência in casu, por analogia, da Súmula 280 do STF.
+4. Agravo interno desprovido.
+(AgInt no R Esp n. 2.049.422/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/5/2023, D Je de 19/5/2023.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HOMOLOGAÇÃO DE PEDIDO DE DESISTÊNCIA DA AÇÃO. HONORÁRIOS ADVOCA TíCIOS EM FAVOR DO RÉU. CABIMENTO. EXEGESE DO ART. 90 DO CPC. CASO CONCRETO. DEMANDADO QUE OFERTOU RESISTÊNCIA AO PEDIDO DE ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DE CITAÇÃO FORMAL. DESINFLUÊNCIA.
+1. No caso concreto, a Corte de origem consignou que, embora o ente estatal tenha manifestado resistência ao pedido liminar formulado pela parte autora, os honorários advocatícios não poderiam ser arbitrados em virtude de uma questão formal, qual seja, a de que o pedido de desistência da ação foi requerido e homologado ainda antes de operada a citação.
+2. Porém, de acordo com a orientação deste Superior Tribunal, qualquer modalidade de resistência oposta à pretensão deduzida em juízo ensejará a condenação da parte autora em honorários advocatícios, ainda que seu pedido de desistência tenha sido formulado e homologado antes da citação do demandado, haja vista que a referida verba tem por fato gerador o esforço laborai desenvolvido pelo procurador da parte adversa.
+3. De resto, o cabimento de honorários advocatícios em favor do réu, em caso de desistência da ação, encontra expressa previsão no artigo 90 do CPC: "Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu".
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.874.815/AC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/3/2021, D Je de 25/3/2021.)" (destaquei)
+Desse modo, não há como acolher o pleito recursal.
+Pois bem.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveis contra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência; (ii) incorrer a decisão judicial em qualquer das condutas descritas no art. 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+Na hipótese, quanto aos honorários advocatícios, a parte recorrente aponta ofensa aos arts. 489 e 1.022 do CPC, por omissão e por contradição a respeito dos seguintes pontos (e-STJ fl. 1.905):
+(i) os honorários relativos aos Autos de Infração nº 4011303453629 e 4011303486209 foram quitados com base na Lei 20.939/2020, não cabendo dupla cobrança de honorários sobre esses débitos;
+(ii) os débitos objetos dos Autos de Infração nº 4011303453629 e 4011303486209 foram extintos pela r. sentença de mov. 60, sem fixação de verba sucumbencial e sobre a qual já se operou a preclusão/coisa julgada e, portanto, não devem compor à condenação/ao proveito econômico para fins de cálculo dos honorários de sucumbência, vez que a r. sentença tratou apenas do débito objeto do Auto de Infração nº 4011305029646; e
+(iii) omissão quanto à necessidade de fixação da verba honorária de forma equitativa, bem como a necessidade de respeitar as faixas de limites máximos dos honorários de sucumbência determinadas pelo volvendo a Fazenda Pública;
+Do que se extrai do trecho acima transcrito, quanto à verba sucumbencial, o acórdão recorrido manteve a condenação nos termos da sentença, em 10% sobre o valor da causa, limitando-se à citação de precedentes desta Corte, sem, em momento algum, demonstrar sua aplicação ao caso concreto.
+Além disso, o Tribunal de origem não enfrentou, especificamente, a questão relativa à dupla incidência dessa verba, no âmbito do parcelamento e no bojo da presente ação judicial, e eventual disposição legal sobre o tema, embora, como dito, colacione precedente a respeito.
+Esse tema foi objeto de embargos de declaração na origem, porém, não foi apreciado no respectivo julgamento.
+Do que se observa, a omissão suscitada nos embargos de declaração se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, visto que a alegação guarda relação com a condenação ao pagamento de honorários advocatícios na hipótese específica deste processo, e mostra-se relevante para adequada e completa solução da respectiva controvérsia, motivo pelo qual deve ser efetivamente enfrentada pelo Tribunal de origem.
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pelo Tribunal de origem, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1.346.569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.313.492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão recorrido, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos para que o Tribunal de origem reaprecie os embargos de declaração opostos pelo ora agravante, sanando o vício de integração ora identificado.
+Publique-se. Intimem-se.
+EMENTA
