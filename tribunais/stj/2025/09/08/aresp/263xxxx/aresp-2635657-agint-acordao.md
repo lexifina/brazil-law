@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL (CPC)/2015.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Tenda Negócios Imobiliários S/A contra decisão de fls. 508-511 que negou provimento ao agravo com base na aplicação da Súmula 83/STJ, destacando que a conclusão adotada na origem está em harmonia com a jurisprudência do STJ, ao concluir como escusável o erro de digitação do número do processo no endereçamento da defesa da parte agravada, afastando a revelia, em prestigio aos princípios da instrumentalidade das formas e da verdade real.
+Nas razões do presente recurso, a agravante defende que a decisão monocrática precisa ser revista, ao argumento de que foi devidamente comprovada a divergência jurisprudencial entre o acórdão recorrido e o acórdão proveniente do Tribunal de Justiça de Minas Gerais.
+Alega que a revelia da parte agravada deve ser reconhecida, pois a contestação foi apresentada de forma intempestiva em processo diverso, configurando erro grosseiro.
+Foi juntada impugnação pela Hipermix Brasil Serviços de Concretagem Ltda (fls. 525-530), aduzindo que o erro no protocolo da contestação foi escusável e sem má-fé, e requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no patamar de 5% do valor atualizado da causa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL (CPC)/2015.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+As razões do agravo interno não comportam acolhimento.
+Inicialmente, cumpre esclarecer que o recurso especial foi interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL Prestação de serviços de concretagem Ação declaratória de rescisão contratual cumulada com indenização por danos materiais e cobrança de multa contratual Sentença de procedência diante da aplicação dos efeitos da revelia Inconformismo da ré Juntada da contestação de forma tempestiva, porém direcionada a processo digital distinto, em virtude de erro de digitação no momento do protocolo. Mera irregularidade que não pode ensejar a aplicação dos efeitos da revelia no caso concreto, porque não vislumbrada má-fé ou intuito de obtenção de vantagem processual indevida pela ré. Caso dos autos em que a ré informou o equívoco e o sanou, mediante a juntada da contestação nestes autos, antes mesmo da prolação da sentença Precedentes deste E. Tribunal de Justiça Sentença anulada determinando-se a regular tramitação do feito Recurso provido.
+Na origem, o acórdão local informa que a defesa da parte agravada foi apresentada de forma tempestiva, todavia com endereçamento equivocado o que consistiria erro escusável, tendo maior relevo o prestígio aos princípios da verdade real e instrumentalidade das formas. A decisão agravada negou provimento ao agravo em recurso especial destacando que o referido entendimento se encontra em consonância com a jurisprudência desta Corte Superior, não comportando reparo em virtude da aplicação da Súmula 83/STJ, a exemplo dos julgados abaixo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 535 DO CPC/73. CONTESTAÇÃO APRESENTADA DENTRO DO PRAZO LEGAL. EQUÍVOCO NA NUMERAÇÃO DO PROCESSO. AUSÊNCIA DE MÁ-FÉ. MERO ERRO MATERIAL. REVELIA AFASTADA PELO TRIBUNAL A QUO. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, em consonância com o princípio da instrumentalidade das formas, o rigorismo formal pode e deve ser abrandado nas hipóteses de vício formal sanável e inexistência de má-fé. Precedentes.
+2. Hipótese em que a revelia, declarada em primeira instância, foi afastada pelo Tribunal a quo porque verificado que a contestação apresentada seria tempestiva e não teria sido encartada nos autos em razão de erro de endereçamento, uma vez que indicado número correspondente a outro processo entre as mesmas partes, que tramita na mesma vara. Não há, assim, que se falar em revelia.
+3. "Caracterizada a tempestividade da peça processual, sobre ela não poderiam recair a revelia e seus graves efeitos, ainda mais quando tudo leva a concluir pela ausência de má-fé na conduta da contestante, nem intenção de obter qualquer vantagem processual" (REsp 1.355.829/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/05/2013, DJe de 1º/07/2013).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 565.559/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/9/2020, DJe de 8/10/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). EMBARGOS À EXECUÇÃO. PEÇA PROCESSUAL APRESENTADA DENTRO DO PRAZO LEGAL. EQUÍVOCO NO ENDEREÇAMENTO. AUSÊNCIA DE MÁ-FÉ. MERO ERRO MATERIAL. PRINCÍPIO DA INSTRUMENTALIDADE DO PROCESSO. APROVEITAMENTO. INTEMPESTIVIDADE NÃO CARACTERIZADA. AUSÊNCIA DE SIMILITUDE FÁTICA. QUITAÇÃO DOS DÉBITOS. FLAGRANTE INOVAÇÃO RECURSAL. PRETENSÃO DE REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ.
+1. Desde que protocolada no prazo legal, a ocorrência de mero equívoco no endereçamento da peça processual e o protocolo em cartório diverso, não descaracteriza a sua tempestividade.
+2. Ausente a similitude de base fática entre os arestos comparados, não há como se caracterizar a divergência jurisprudencial.
+3. A matéria suscitada apenas nas razões do regimental caracteriza inovação recursal.
+4. A discussão quanto à quitação dos débitos contratuais foi dirimida no acórdão recorrido mediante a interpretação de cláusulas contratuais e análise do material fático-probatórios dos autos, não podendo a questão ser revista em âmbito de Recurso Especial, ante os óbices dos Enunciados n.º 5 e 7/STJ.
+5. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+6. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.451.246/RO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/10/2017, DJe de 23/10/2017.)
+Na hipótese, cumpre destacar que não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração por meio de julgados atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou de que o caso em exame apresentaria distinção em relação aos precedentes invocados, o que não ocorreu na hipótese.
+A parte agravante se limita a informar que demonstrou a existência da divergência jurisprudencial, todavia o faz em relação a acórdão paradigma proveniente do TJMG, providência que não pode ser considerada como impugnação específica ao óbice da Súmula 83/STJ. Por outro lado, a despeito de a parte apresentar um julgamento do STJ a respeito da matéria (diga-se de passagem, de forma dissociada da argumentação que tendia impugnar o óbice da Súmula 83/STJ), verifica-se que o acórdão ofertado é pretérito à jurisprudência que embasou aplicação do óbice em apreço.
+Segundo os artigos 932, inciso III, e 1.021, § 1º, do CPC, combinados com o artigo 259 do Regimento Interno do STJ e com a Súmula 182/STJ, incumbe ao relator não conhecer de agravo interno que não tenha impugnado especificamente os fundamentos da decisão agravada. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ARTS. 932, III, e 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 932, III, e 1.021, § 1º, do CPC/2015, é incabível o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgRg no AREsp 808.948/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe 2/2/2017)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. INEXISTÊNCIA DE BENS PENHORÁVEIS. DECLARAÇÃO DE INSOLVÊNCIA DO DEVEDOR NOS PRÓPRIOS AUTOS. DESCABIMENTO. INADMISSIBILIDADE PELA INCIDÊNCIA DAS SÚMULAS 284 DO STF E 83 DO STJ. IRRESIGNAÇÃO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE PARTE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ao conhecimento do recurso, exige-se a demonstração do desacerto da decisão contra a qual se insurge, refutando todos os seus óbices invocados na fundamentação, sob pena de vê-la mantida. Logo, persistindo fundamento suficiente para manter a conclusão da decisão, fica inviabilizado o recurso, à luz da Súmula 182 desta Corte, aplicada, por extensão.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1498290/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/10/2019, DJe 06/11/2019)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE COMPRA E VENDA. DECADÊNCIA. INAPLICABILIDADE. LESÃO. PREENCHIDOS OS REQUISITOS OBJETIVO E SUBJETIVO. RETORNO AO STATUS QUO ANTE. AGRAVO INTERNO SEM IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018)
+3. Idêntico raciocínio, por critério lógico, deve ser utilizado no julgamento do agravo interno interposto contra decisão em sede de agravo em recurso especial, máxime porque os argumentos do recurso colegiado devem impugnar justamente a temática dos pressupostos de admissibilidade apreciados no decisum unilateral, pressupostos estes, conforme salientado alhures, inseparáveis por natureza.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt no AREsp 1144143/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)
+Assim, o agravo interno não comporta conhecimento.
+Por fim, inviável a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, pois a mera interposição de recurso legalmente previsto não caracteriza, por si só, intuito manifestamente protelatório.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
