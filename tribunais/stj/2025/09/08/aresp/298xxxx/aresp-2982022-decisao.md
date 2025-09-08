@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da incidência da Súmula 83 do STJ.
+O a pelo nobre obstado enfrenta acórdão, assim ementado (fl. 156):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. PRESUNÇÃO DE DEPENDÊNCIA RELATIVA. DEPENDÊNCIA ECONÔMICA NÃO COMPROVADA. RECURSO PROVIDO.
+1. A concessão do benefício de pensão por morte depende do preenchimento dos seguintes requisitos: a) a ocorrência do evento morte; b) a condição de dependente de quem objetiva a pensão;
+c) a demonstração da qualidade de segurado do de cujus por ocasião do óbito. O benefício independe de carência e é regido pela legislação vigente à época do óbito 2. A condição de filho maior inválido ou com deficiência, para qualificação como dependente previdenciário, deve necessariamente surgir antes do óbito do segurado instituidor, não se exigindo que seja anterior dos 21 anos de idade.
+3. A presunção de dependência do filho maior inválido/deficiente em relação aos seus genitores é relativa, conforme precedentes do STJ e do TRF da 4ª Região, devendo-se aferir a efetiva necessidade da renda postulada para a manutenção do inválido.
+4. Hipótese em que não restou comprovada a dependência econômica da parte autora em relação ao instituidor do benefício, não fazendo jus à concessão do benefício de pensão por morte 5. Dar provimento ao recurso.
+Os primeiros e os segundos embargos de declaração foram acolhidos exclusivamente para fins de prequestionamento. (fls. 177-182 e 194-197).
+Nas razões do recurso especial, o recorrente aponta, em preliminar, violação ao art. 1.022, II, do CPC/2015, por omissão do Tribunal de origem quanto à análise da nulidade do acórdão, diante da inovação recursal promovida pelo INSS, que apresentou apenas na apelação, e não na contestação, a tese de ausência de dependência econômica, o que impossibilitou a manifestação do juízo de primeiro grau sobre a matéria, além de não haver qualquer pronunciamento quanto à necessidade de reabertura da instrução para assegurar o contraditório, a ampla defesa e a produção de provas, o que configura cerceamento de defesa.
+Aponta ainda ofensa aos arts. abaixo relacionados, sob os seguintes argumentos:
+(a) art. 16, I, § 4º, da lei nº 8.213/91: a presunção de dependência econômica é absoluta para filhos inválidos, e que o acórdão recorrido subverteu a lógica estabelecida ao exigir prova da dependência econômica, quando esta deveria ser presumida. (fls. 215-216).
+(b) arts. 336, 434, 435 e 1.013, § 1º, do CPC/15: houve inovação recursal por parte do recorrido, que não apresentou a tese de inexistência de dependência econômica na contestação, mas apenas em sede de apelação. (fls. 207-208).
+(c) art. 10º, 357, II, III e IV, e 369, do CPC/15: o acórdão violou o direito à parte de se manifestar previamente sobre a tese inovadora e de produzir provas pertinentes, configurando cerceamento de defesa. (fls. 213-214).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão recursal merece acolhida.
+No caso, a parte recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a parte recorrente argumentou e requereu a manifestação expressa do órgão julgador no que se refere à análise da nulidade do acórdão, diante da inovação recursal promovida pelo INSS, que apresentou apenas na apelação, e não na contestação, a tese de ausência de dependência econômica, o que impossibilitou a manifestação do juízo de primeiro grau sobre a matéria, além de não haver qualquer pronunciamento quanto à necessidade de reabertura da instrução para assegurar o contraditório, a ampla defesa e a produção de provas, o que configura cerceamento de defesa.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, conheço do agravo, para dar provimento ao recurso especial, para anular o acórdão proferido em sede de embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões suscitadas.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022, II, DO CPC. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
