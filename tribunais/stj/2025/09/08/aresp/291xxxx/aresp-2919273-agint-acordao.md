@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS VENCIDOS. CONTRATO DE LOCAÇÃO COMERCIAL. NEGÓCIO JURÍDICO SIMULADO. INTERPRETAÇÃO DE CLÁUSULAS E REEXAME DE PROVAS. SÚMULAS N. 5 E 7 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de despejo cumulada com cobrança de aluguéis ajuizada pela ora recorrente, alegando a autora o inadimplemento do contrato de locação de imóvel para fins comerciais firmado entre as partes.
+2. Para ultrapassar a conclusão firmada no acórdão recorrido, no sentido de que o contrato entabulado entre as partes decorreu de simulação, seria necessária a interpretação de suas cláusulas, bem como o reexame dos elementos fáticos da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp n. 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+4. Agravo interno provido. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA. (CONTINENTAL) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial, porque não foram impugnados especificamente todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente inconformismo, CONTINENTAL alegou (i) ter se insurgido especificamente contra todos os fundamentos da decisão agravada; (ii) que a solução das questões controvertidas independem da interpretação de cláusula contratual ou do reexame de provas; e (iii) que a divergência jurisprudencial foi devidamente demonstrada.
+Foi apresentada impugnação requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC (e-STJ, fls. 449-452).
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS VENCIDOS. CONTRATO DE LOCAÇÃO COMERCIAL. NEGÓCIO JURÍDICO SIMULADO. INTERPRETAÇÃO DE CLÁUSULAS E REEXAME DE PROVAS. SÚMULAS N. 5 E 7 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de despejo cumulada com cobrança de aluguéis ajuizada pela ora recorrente, alegando a autora o inadimplemento do contrato de locação de imóvel para fins comerciais firmado entre as partes.
+2. Para ultrapassar a conclusão firmada no acórdão recorrido, no sentido de que o contrato entabulado entre as partes decorreu de simulação, seria necessária a interpretação de suas cláusulas, bem como o reexame dos elementos fáticos da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp n. 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+4. Agravo interno provido. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Reconsideração do decisum
+De fato, verifica-se que CONTINENTAL, nas razões do agravo em recurso especial, impugnou especificamente todos os fundamentos da decisão denegatória do apelo nobre.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto pela ora insurgente.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, CONTINENTAL alegou a violação dos arts. 104, I, II e II, 113, 139, I, 166, 183, 219 e 421 do CC, ao sustentar a validade do contrato de locação firmado entre as partes, o qual não apresenta nenhum vício de consentimento, como fraude, erro ou coação, devendo surtir os seus lídimos efeitos.
+Foram apresentadas contrarrazões (e-STJ, fls. 307-313).
+Trata-se de ação de despejo cumulada com cobrança de aluguéis ajuizada pela ora recorrente contra TIAGO PEREIRA DE SOUSA, alegando a autora o inadimplemento do contrato de locação de imóvel para fins comerciais firmado entre as partes.
+Em primeira instância, os pedidos foram julgados improcedentes, tendo sido a sentença confirmada pelo Tribunal de Justiça de São Paulo, em sua integralidade.
+Da higidez do contrato
+No caso, ao julgar o recurso de apelação interposto por CONTINENTAL, o TJSP, em acórdão de relatoria da Desa. CARMEN LUCIA DA SILVA, assim se manifestou:
+Os autos reportam-se a pedido de despejo de um imóvel edificado no lote nº 049, quadra I, do Loteamento Vila Augusta com endereço na Rua Domingos Jorge Velho, 55, Vila Augusta, CEP 08593-190, Itaquaquecetuba-SP.
+O contrato locação foi firmado em 21/07/2021, com prazo de 36 meses e com possibilidade de prorrogação. Como o locatário tornou-se inadimplente desde outubro de 2021, a locadora ajuizou esta ação de despejo.
+Ocorre que não há nos autos prova incontroversa da locação.
+A engenhosa fórmula encontrada pela loteadora fica evidente pelo conteúdo das cláusulas do denominado "contrato de locação" (fls. 08/12).
+De início, o MM. Juiz sentenciante notou a disposição incomum no contrato em questão que tem seguinte advertência: "comunicamos que esse é um instrumento de LOCAÇÃO, não se trata de venda".
+Observe-se ainda que a cláusula quinta, parágrafo sétimo, dispõe que "os locatários se comprometem a entregar o imóvel com todas as benfeitorias necessárias e úteis erigidas no imóvel, sem direito a retenção ou indenização, posto que serão incorporadas ao imóvel e pertencerão à locadora".
+Outrossim, causa estranheza a apelante ter obtido sentença favorável nos autos da ação de rescisão contrato de compra e venda do imóvel (nº 1002089-28.2017.8.26.0278) e, depois de ter sido deferido o mandado de reintegração de posse, requerer a desistência da ação (conforme consulta ao número do processo no site deste E. Tribunal).
+Aliás, vale ressaltar que o próprio Tribunal de Justiça do Estado de São Paulo, em diversos julgados, percebendo a manobra da demandante, já reconheceu a nulidade desses contratos de locação, por tratar-se de evidente caso de simulação.
+Ao que tudo indica, a locação do imóvel representou um expediente utilizado pela autora para, de certo modo, induzir o réu, compelindo-o a firmar o contrato com a expectativa de que os valores dos aluguéis serviriam para quitar as prestações do contrato de compra e venda.
+Tipificada, portanto, a simulação, uma vez que o negócio foi celebrado entre a dona da área loteada e terceiros, como se locação fosse, com o firme propósito de fraudar a lei. Essa locação, negócio aparente, serve apenas para ocultar a verdadeira intenção dos contratantes, isto é o negócio real, a venda e compra (e-STJ, fls. 368-370).
+Desse modo, para ultrapassar a conclusão firmada no acórdão recorrido, no sentido de que o contrato entabulado entre as partes decorreu de simulação, seria necessária a interpretação de suas cláusulas, bem como o reexame dos elementos fáticos da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+Da multa prevista no art. 1.021, § 4º, do CPC
+Por derradeiro, conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, a aplicação da multa prevista no art. 1.021, § 4º, do CPC não é automática, pois não se trata de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt nos EREsp n. 1.120.356/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 24/8/2016, DJe de 29/8/2016).
+Nessa toada, confiram-se os seguintes julgados: AgInt no AREsp n. 605.532/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 31/8/2020, DJe de 9/9/2020; e AgInt no AREsp n. 1.590.140/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 31/8/2020, DJe de 3/9/2020.
+Assim, não há que se falar na aplicação da aludida multa, uma vez que, no caso, o manejo do agravo interno por parte de CONTINENTAL, por si só, não deve ser tido como abusivo ou protelatório.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão monocrática agravada e, assim, CONHECER do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar o valor dos honorários advocatícios, nos termos do art. 85, § 11, do CPC, tendo em vista a sua fixação no percentual máximo pelas instâncias ordinárias.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
