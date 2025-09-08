@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação rescisória.
+2. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por CERANIUM CONSTRUÇÃO E INCORPORAÇÃO LTDA contra decisão que não conheceu do recurso especial que interpusera.
+Ação: rescisória, ajuizada pela agravante, em desfavor de SANTO ANTÔNIO EMPREENDIMENTOS IMOBILIÁRIOS LTDA., por meio da qual objetiva a rescisão de acórdão proferido nos autos de "ação de cobrança cumulada com indenização por perdas e danos".
+Acórdão: julgou improcedentes os pedidos formulados na petição inicial, nos termos da seguinte ementa:
+AÇÃO RESCISÓRIA. ALEGADA VIOLAÇÃO DE NORMA JURÍDICA COMO FUNDAMENTO À DESCONSTITUIÇÃO DA COISA JULGADA, NOS TERMOS DO ART. 966, V, DO CÓDIGO DE PROCESSO CIVIL. INSUBSISTÊNCIA. PRETENDIDA DESCONSTITUIÇÃO DE ACÓRDÃO QUE, EM SEDE DE AGRAVO DE INSTRUMENTO, DECLAROU A DECADÊNCIA DA PRETENSÃO DEDUZIDA PELA AUTORA NA INICIAL, PERMITINDO A CONTINUIDADE TÃO SOMENTE DA RECONVENÇÃO DEFLAGRADA PELA RÉ. ALEGADO EQUÍVOCO/ERRO NA LAVRATURA DE DETERMINADA ESCRITURA. APRECIAÇÃO DA VALIDADE DO DISPOSITIVO CONTRATUAL QUE NECESSARIAMENTE PASSARIA PELA AFERIÇÃO DO VÍCIO DE CONSENTIMENTO. TRANSCURSO DE QUATRO ANOS ENTRE A LAVRATURA E O AJUIZAMENTO DA AÇÃO QUE ENSEJOU O RECONHECIMENTO DA DECADÊNCIA. APLICAÇÃO DO INCISO II DO ART. 178 DO CÓDIGO CIVIL. INEXISTÊNCIA DE AFRONTA DIRETA E TERATOLÓGICA A CONTEÚDO NORMATIVO. MANEJO DA ESPÉCIE COMO SUCEDÂNEO RECURSAL. COMPORTAMENTO PROCESSUAL DA DEMANDANTE QUE, ADEMAIS, REVELA INJUSTIFICADO INCONFORMISMO COM O RESULTADO DA LIDE, LANÇANDO MÃO DE TODOS OS INSTRUMENTOS JURÍDICOS CAPAZES DE PROCRASTINAR A CONSECUÇÃO DO BEM DA VIDA DECIDIDO. DESCONSTITUIÇÃO DA COISA JULGADA QUE É MEDIDA EXCEPCIONAL E DEPENDE DE PROVA SUFICIENTE DA PERPETRAÇÃO DAS CONDUTAS DESCRITAS EM LEI. IMPROCEDÊNCIA QUE IMPÕE A CONDENAÇÃO DA AUTORA AO PAGAMENTO DA VERBA SUCUMBENCIAL. UNANIMIDADE DO JULGAMENTO QUE AUTORIZA A CONVERSÃO DO DEPÓSITO PRÉVIO EM MULTA, A SER REVERTIDA EM FAVOR DA ADVERSA. AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE (e-STJ fl. 2.938).
+Recurso especial: aponta a violação dos arts. 142, 178, II, 206, § 3º, V, e § 5º, do CC; e 926, V, do CPC. Sustenta que a causa de pedir da ação originária era, exclusivamente, indenizatória, sujeitando-se, portanto, à prescrição, e não à decadência. Aduz que, antes de decidir de forma prematura pela decadência, o juízo da ação originária deveria ter oportunizado a instrução processual para que fosse aferido o momento do "erro evidente" incorrido na Cláusula 7ª da escritura pública.
+Decisão unipessoal: não conheceu do recurso especial interposto pela agravante, ante: i)a incidência da Súmula 284/STF no que tange à alegada violação dos arts. 142 do CC; e 926, V, do CPC; ii) a incidência da Súmula 7/STJ; e iii) a incidência da Súmula 283/STF.
+Agravo interno: afirma que não se verifica deficiência argumentativa ou omissão quanto à exposição dos fundamentos jurídicos, pois a tese recursal foi articulada com precisão e consistência e diz respeito à indevida qualificação da pretensão indenizatória como anulatória, com consequente aplicação equivocada do prazo decadencial previsto no art. 178, II, do CC, quando, na verdade, seria hipótese de incidência de prazo prescricional. Insurge-se, ademais, contra a aplicação da Súmula 7/STJ, sob o argumento de que a controvérsia versa sobre a qualificação jurídica da pretensão deduzida na ação originária, não requerendo o reexame de fatos e provas dos autos, mas a sua revaloração jurídica. Por fim, afirma que não é aplicável a Súmula 283/STF, pois o recurso especial teria demonstrado que a adoção de prazo decadencial pelo acórdão rescindendo resultou de uma transmutação indevida da natureza da ação originária, e que tal erro de enquadramento representaria violação direta do art. 966, V, do CPC.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação rescisória.
+2. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da fundamentação deficiente
+De início, convém salientar que a deficiência de fundamentação foi reconhecida somente com relação as dois dispositivos legais indicados no recurso, remanescendo a análise da tese recursal apresentada com base nos demais dispositivos legais indicados nas peça recursal, ainda que não tenham sido hábeis a afastar a incidência de outros óbices sumulares, referidos na decisão ora agravada,
+E, de fato, compulsando detidamente as razões do recurso especial, constata-se que os arts. 142 do CC; e 926, V, do CPC foram apenas genericamente indicados, não tendo havido explanação pormenorizada e eficiente acerca da eventual violação alegada.
+Destarte, mostra-se indiscutível a deficiência de fundamentação quanto aos rederidos dispositivos legais, mantendo-se, via de consequência, a aplicação da Súmula 284/STF.
+- Do reexame de fatos e provas
+Com efeito, tem-se que o TJ/SC concluiu pela ausência de configuração de manifesta violação de norma jurídica, hábil a autorizar o manejo da ação rescisória no caso concreto, senão veja-se:
+Realizado este apontamento, adianto: não há como acolher a pretensão rescisória, sobretudo pela ausência de manifesta violação de norma jurídica Nos autos da " ação de cobrança c/c indenização por perdas e danos " n. 0314173- 82.2016.8.24.0023, ajuizada por Ceranium Construção e Incorporação Ltda em face de Santo Antônio Empreendimentos Imobiliários Ltda, sobreveio decisão declarando a decadência do direito invocado na inicial.
+Na oportunidade, considerando que, entre a data da confecção da escritura retificadora (em 01/04/2011) e a do ajuizamento da ação (em 16/12/2016), houve o transcurso do prazo de quatro anos para anulação do negócio jurídico fundamentada em alegação de erro, o Juízo singular reconheceu a aplicação do inciso II do art. 178 do Código Civil e determinou o prosseguimento tão somente da reconvenção deflagrada pela Santo Antônio Empreendimentos Imobiliários Ltda.
+(..)
+Desta decisão, a autora interpôs o agravo de instrumento n. 4029922-48.2018.8.24.0000. Em suas razões (evento 1, AGRAVO2), sustentou que: a) o prazo da pretensão indenizatória seria trienal, contado a partir da constatação do dano em 2014; b) a imposição dos tributos à demandante decorreu de erro material do notário, passível de correção por processo interpretativo e sem necessidade de anulação que pudesse atrair a decadência pronunciada; c) o " pedido também poderia ser entendido como um pedido indenizatório, pois a autora está requerendo a indenização pelos danos causados por ter adimplido com uma obrigação (pagamento de tributos) que não lhe competia. Ademais, os outros pedidos observados na petição inicial são expressamente relacionados com a tutela indenizatória. Como todos os danos identificados na presente demanda são frutos do ilícito cumprimento contratual da requerida, que se afastou largamente dos ditames da boa-fé contratual, verifica-se, facilmente, que se está diante de responsabilidade civil de cunho contratual " (fl. 11); d) no mais, reiterou os argumentos da inicial.
+Na sequência, o acórdão que a autora pretende rescindir assim deliberou (evento 102, RELVOTO2, original sem destaques):
+(..)
+Como se vê, a simples leitura do julgado permite verificar que Sua Excelência partiu da premissa que, para apreciação da matéria de fundo (equívoco na lavratura da escritura retificadora), a conclusão passaria necessariamente pela análise do apontado vício de consentimento (erro) e, por consequência, pela validade dispositivo contratual (mesmo que a autora não tenha expressamente postulado a anulação).
+Assim é que, considerando que, entre a lavratura da escritura e o ajuizamento da ação foi ultrapassado o interregno de quatro anos, sobreveio o reconhecimento da decadência com fundamento no art. 178, II, do Código Civil:
+(..)
+Nesse sentido, não há violação de norma jurídica, mesmo que hipotética.
+Vale repetir: a ação rescisória não se presta à reapreciação de fatos sobre os quais já houve pronunciamento judicial, sob o pretexto de terem sido mal interpretados.
+A propósito, o que transparece é que a presente causa de pedir traduz simples inconformismo da autora quanto à interpretação conferida aos fatos e provas produzidas na demanda rescindenda, o que não se admite (e-STJ fls. 2.931-2.935) (grifos acrescentados).
+Destarte, mostra-se imperiosa a manutenção da aplicação da Súmula 7/STJ na espécie, pois alterar o decidido pelo acórdão recorrido importaria, de fato, no revolvimento fático-probatório dos autos, vedado a esta Corte Superior.
+- Da existência de fundamento não impugnado
+Por fim, imperiosa é a manutenção da Súmula 283/STF na hipótese, uma vez que o simples fato de a agravante afirmar que demonstrou a ocorrência de transmutação indevida da natureza da ação originária não é suficiente para impugnar o fundamento de que o TJ/SC partiu da premissa de que para apreciação do equívoco na lavratura da escritura retificadora, a conclusão passaria necessariamente pela análise de erro (vício de consentimento) e, consequentemente, pela validade do dispositivo contratual - ainda que a autora não tenha postulado a anulação -, o que se sujeitaria ao prazo decadencial previsto no art. 178, II, do CPC.
+Assim, a aplicação da Súmula 283/STF deve ser mantida.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
