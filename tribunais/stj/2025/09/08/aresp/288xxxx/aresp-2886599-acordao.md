@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. 2. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. NÃO CABIMENTO DA VIA ELEITA. RECONHECIMENTO PELO TRIBUNAL ESTADUAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+3. Revisar a conclusão do julgado quanto ao excesso de execução, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE LUIZ ALBERTO FAGUNDES BOTTINO (ESPÓLIO) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Desembargador ERNANI DESCO FILHO, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRODUÇÃO DE PROVA PERICIAL. IRRESIGNAÇÃO CONTRA A R. DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MEDIDA PROCESSUAL INCOMPATÍVEL COM A DILAÇÃO PROBATÓRIA. ADMITIDA APENAS PARA MATÉRIAS QUE DEVAM SER CONHECIDAS DE OFÍCIO PELO JUIZO. DECISÃO QUE MERECE SER MANTIDA. RECURSO NÃO PROVIDO.
+1. Exceção de pré-executividade é ferramenta excepcional concebida pela doutrina e admitida pelos órgãos jurisdicionais apenas para apreciação de matérias que possam ser conhecidas de ofício pelo Juiz.
+2. Inviabilidade de aferição de excesso de execução ou desconformidade de cálculos com aresto anterior sem dilação probatória.
+3. Determinação ao MM. Juízo "a quo" para que providencie a competente perícia contábil, a fim de aferir se os cálculos apresentados estão em consonância com acórdão anterior. Recurso desprovido, com determinação." (fls. 275-279).
+Os embargos de declaração de ESPÓLIO foram acolhidos em parte apenas para sanar o erro material constante da ementa do julgado (fls. 327-331).
+Nas razões do agravo, ESPÓLIO alegou que não incidem os óbices sumulares.
+Foi apresentada contraminuta (fls. 402-429).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, ESPÓLIO apontou (1) violação dos arts. 489 e 1.022 do CPC, por negativa de prestação jurisdicional; (2) violação dos arts. 374, I e III, do CPC, por não considerar fatos incontroversos; (3) violação do art. 485, V, do CPC, por não reconhecer a coisa julgada; (4) violação do art. 803, I, do CPC, por não reconhecer a nulidade da execução; (5) violação do art. 80, III, do CPC, por não reconhecer a litigância de má-fé do Banco do Brasil.
+Foram apresentadas contrarrazões (fls. 335-349).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. 2. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. NÃO CABIMENTO DA VIA ELEITA. RECONHECIMENTO PELO TRIBUNAL ESTADUAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+3. Revisar a conclusão do julgado quanto ao excesso de execução, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+(1) Da omissão e da negativa de prestação jurisdicional
+Em suas razões recursais, ESPÓLIO sustentou que o acórdão deixou de se pronunciar acerca da cobrança irregular do exequente, em especial sobre a taxa textual indicada em planilha, que difere dos juros definidos no título judicial (acórdão de 2003) de 12% ao ano e após a mora 1% ao ano, a manifestação da Contadoria e a petição do Banco, bem como examine o pedido de nulidade dos atos desde a mora do Banco ou falta de liquidação regular e questões relacionados a mora creditoris, exclusão de encargos desde a mora do banco, litigância de má-fé, indenizações e ônus da sucumbência.
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+(2) Do cabimento da exceção de pré-executividade
+Como emana dos autos, BANCO DO BRASIL S.A. propôs execução de título extrajudicial contra ESPÓLIO com lastro em Cédula de Crédito Rural Pignoratícia e Hipotecária.
+Na origem, ESPÓLIO apresentou exceção de pré-executividade alegando que o Banco do Brasil descumpriu decisão anterior que limitava os juros a 12% ao ano até o vencimento e 1% ao ano após o vencimento, conforme acórdão de 2003.
+O Juízo de primeira instância rejeitou a exceção de pré-executividade, e o Tribunal de Justiça de São Paulo manteve a decisão, determinando apenas a realização de perícia contábil para verificar os cálculos apresentados, conforme trechos que ora se transcrevem:
+No caso em comento, de ver-se que a r. decisão recorrida encontra-se de acordo com o entendimento desta E. Corte Bandeirante acerca do tema, pois é inviável a aferição de eventual excesso de execução ou desconformidade dos cálculos com o que decidido anteriormente na apelação respectiva, sem a dilação probatória pertinente (contadoria ou perícia contábil).
+ ..
+Determina-se, porém, que o d. Juízo de piso providencie a competente perícia contábil, a fim de se aferir se os cálculos apresentados pelas partes estão de acordo com o que determinado no acórdão de fls. 64/68 ou, caso contrário, apontar o valor correto da execução. (e-STJ, fls. 278/279).
+A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória (AgInt nos EDcl no AgInt no AREsp 2.229.134/RJ, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 22/4/2024, DJe de 13/5/2024).
+Verifica-se que, no caso, revisar a conclusão do julgado quanto ao excesso de execução, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+A título ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, quais sejam: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é necessário que a decisão possa ser tomada sem necessidade de dilação probatória.
+2. No caso, o Tribunal de Justiça, com base no acervo fático-probatório, concluiu que a alegação de excesso de execução demandaria dilação probatória, incompatível com a exceção de pré-executividade. Alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fática-probatória, inviável em recurso especial, nos termos da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.831.742/MT, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 16/6/2025, DJEN de 24/6/2025)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO FUNDAMENTADO. TRIBUNAL ESTADUAL REJEITOU ALEGAÇÃO DE ILIQUIDEZ DO TÍTULO EXECUTIVO EXTRAJUDICIAL. MATÉRIA DEPENDENTE DE DILAÇÃO PROBATÓRIA. INCOMPATIBILIDADE COM A EXEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, rejeitou a alegação de iliquidez do título executivo extrajudicial (Cédula de Crédito Rural) e concluiu que a discussão acerca de excesso na execução demandaria dilação probatória, compatível com a exceção de pré-executividade. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial nos termos das Súmula 7 do eg. STJ.
+3. A jurisprudência desta Corte entende que a exceção de pré-executividade pode ser utilizada quando desnecessária a dilação probatória e para discussão de questões de ordem pública, passíveis de conhecimento de ofício pelo julgador, sendo cabível em qualquer tempo e grau de jurisdição.
+4. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.099.644/PR, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos art. 1.026, § 2º, do CPC.
