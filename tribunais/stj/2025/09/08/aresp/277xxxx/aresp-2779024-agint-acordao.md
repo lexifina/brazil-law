@@ -1,0 +1,106 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. INVERSÃO DO ÔNUS DA PROVA. TUTELA ANTECIPADA. ÓBICE DA SÚMULA N. 735/STF. REFORMA DO ACÓRDÃO RECORRIDO QUE DEMANDA REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA N. 7/STJ. VIOLAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIA IMPRÓPRIA.
+1. A lide foi solucionada em conformidade com o que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. Conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo. Súmula n. 735/STF.
+3. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+4. Na hipótese, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ. Incidência da Súmula n. 83 do STJ.
+5. Por fim, não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no art. 102, III, da Constituição Federal de 1988.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por DANIELLE ELIAS BATISTA contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 773):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. INVERSÃO DO ÔNUS DA PROVA. TUTELA ANTECIPADA. ÓBICE DA SÚMULA N. 735/STF. REFORMA DO ACÓRDÃO RECORRIDO QUE DEMANDA REEXAME DE FATOS E PROVAS. ÓBICE DASÚMULA N. 7/STJ. VIOLAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIA IMPRÓPRIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 22-30):
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS DEDUZIDA EM FACE DA TERNIUM BRASIL LTDA, EM VIRTUDE DE VAZAMENTO DE GRANDES PROPORÇÕES DE FINOS DE CARVÃO, QUE, EM 16/03/2021, ATINGIU O CANAL SÃO FRANCISCO, OCASIONANDO UMA GRANDE MORTANDADE DE PEIXES E OUTROS SERES MARINHOS, CIRCUNSTÂNCIA ESTA QUE, ALÉM DO DANO AMBIENTAL CAUSADO, AINDA ACARRETOU, CONFORME ALEGADO, A SUSPENSÃO DA ATIVIDADE LABORATIVA DE PESCADORA DA DEMANDANTE, TRAZENDO ENORMES PREJUÍZOS À SUA SUBSISTÊNCIA E À DE SUA FAMÍLIA. DECISÃO QUE INDEFERIU A INVERSÃO DO ÔNUS DA PROVA VINDICADA PELA AUTORA NO QUE SE REFERE À SUA CONDIÇÃO DE PESCADORA. ILEGÍTIMO INCONFORMISMO DA ALUDIDA PARTE. CONQUANTO A JURISPRUDÊNCIA DA CORTE DA CIDADANIA SEJA FIRME NO SENTIDO DE PERMITIR A INVERSÃO DO ÔNUS DA PROVA EM CASOS DE REPARAÇÃO CIVIL POR DANOS AMBIENTAIS, HÁ DE SER FRISADO, CONTUDO, QUE, AINDA ASSIM, O AUTOR NÃO ESTÁ DESINCUMBIDO DE FAZER PROVA MÍNIMA DO FATO CONSTITUTIVO DO DIREITO ALEGADO. ISSO SIGNIFICA DIZER QUE A PROVA DA CONDIÇÃO DE PESCADORA DA ORA RECORRENTE DEVE SER PRODUZIDA PELA MESMA, MEDIANTE OS DOCUMENTOS NECESSÁRIOS A TANTO, NÃO SE TENDO COMO TRANSFERIR TAL OBRIGAÇÃO PARA A PARTE ADVERSA - SOCIEDADE EMPRESÁRIA QUE, DENTRE OUTROS, OPERA USINA INTEGRADA DE AÇO PARA A PRODUÇÃO, COMERCIALIZAÇÃO E TRANSFORMAÇÃO DE PRODUTOS DE FERRO E AÇO -, POR IMPOSSÍVEL. INTELIGÊNCIA DO TEMA Nº 680 DO STJ. PRECEDENTES. DECISÃO MANTIDA. DESPROVIMENTO DO RECURSO.
+Rejeitados os embargos de declaração opostos (fls. 42-47).
+A agravante alega, nas razões do agravo interno, que a jurisprudência consolidada do Superior Tribunal de Justiça é clara ao reconhecer que a distribuição do ônus da prova é matéria de direito, passível de análise em recurso especial sem necessidade de revolvimento fático probatório.
+Aduz, ainda, que o cerne da controvérsia não é a concessão de tutela provisória, mas sim a necessidade da inversão do ônus da prova com fundamento no Código de Defesa do Consumidor (art. 6º, VIII) e na Lei n. 6.938/1981, que trata da Política Nacional do Meio Ambiente. Assim, alega a inaplicabilidade da Súmula 735/STF.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contraminuta (fls. 794-837).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. INVERSÃO DO ÔNUS DA PROVA. TUTELA ANTECIPADA. ÓBICE DA SÚMULA N. 735/STF. REFORMA DO ACÓRDÃO RECORRIDO QUE DEMANDA REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA N. 7/STJ. VIOLAÇÃO DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIA IMPRÓPRIA.
+1. A lide foi solucionada em conformidade com o que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. Conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo. Súmula n. 735/STF.
+3. Nos termos da jurisprudência pacífica do STJ, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova. Contudo, incumbe ao autor a comprovação da sua condição de pescador. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos (AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+4. Na hipótese, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ. Incidência da Súmula n. 83 do STJ.
+5. Por fim, não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no art. 102, III, da Constituição Federal de 1988.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Consoante aludido na decisão agravada, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento aos embargos de declaração, deixou claro que a matéria referente à inversão do ônus da prova foi devidamente enfrentada, elencando os motivos de seu indeferimento.
+A propósito, destaco trechos do acórdão que julgou os declaratórios (fls. 45-46).
+ ..
+No entanto, somente para fins de argumentação, conforme se infere do julgado, restou expressamente consignado que, conquanto a jurisprudência da Corte da Cidadania seja firme no sentido de permitir a inversão do ônus da prova em casos de reparação civil por danos ambientais, tal circunstância, ainda assim, não desincumbe o autor de fazer prova mínima do fato constitutivo do direito alegado.
+Nesse contexto, asseverou o aresto que a prova da condição de pescadora da ora embargante deve ser produzida pela mesma, mediante os documentos necessários a tanto, não se tendo como transferir tal obrigação para a parte adversa - sociedade empresária que, dentre outros, opera usina integrada de aço para a produção, comercialização e transformação de produtos de ferro e aço -, por impossível.
+Frisou-se, além do mais, que a comprovação da atividade pesqueira em hipóteses como a da origem deve ocorrer nos termos dispostos na tese fixada no Tema nº 680 do STJ, que assim preconiza:
+ ..
+Destacou o acórdão, nessa toada, que a comprovação da aludida condição, consoante o entendimento da Corte Cidadã, deve ocorrer com o registro de pescador profissional e a habilitação do seguro- desemprego, somados a outros elementos probatórios que permitam ao julgador o convencimento acerca do exercício da referida atividade.
+Asseverou o decisum, ademais disso, que a ora embargante, consoante se extrai do índice 30793696, já cuidou de anexar alguns documentos, em tese, indicativos de sua condição de pescadora, o que certamente será levado em consideração pela ilustre magistrada de primeiro grau quando do momento oportuno.
+Concluiu-se, de tal modo, que a inversão do ônus probatório na casuística (no que se refere à demonstração da condição de pescadora da embargante) se mostra despicienda e inoportuna, o que, a toda evidência, conduz à preservação integral da decisão primária impugnada.
+ ..
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022; grifo nosso.)
+Também não merece conhecimento o recurso especial quanto à suscitada violação dos arts 3º, 4º e 14 da Lei n. 6.938/1981, 6º, VIII, do CDC e 357, III, e 373, § 1º, do CPC, em especial quanto à pretensão de inversão do ônus da prova.
+Ocorre que, na espécie, incide por analogia o óbice da Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido, cito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. OPERADORA DE PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. TRATAMENTO MULTIDISCIPLINAR. COBERTURA DEVIDA. ANTECIPAÇÃO DE TUTELA. MÉRITO DA CAUSA. IMPOSSIBILIDADE. SÚMULA Nº 735/STF.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AR Esp n. 1.814.741/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/3/2022, D Je de 31/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OPERADORA DE PLANO DE SAÚDE. CONSUMIDOR. OBRIGAÇÃO DE FAZER. TRATAMENTO MULTIDISCIPLINAR. COBERTURA DEVIDA. ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DISPOSITIVOS LEGAIS. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. ANTECIPAÇÃO DE TUTELA. MÉRITO DA CAUSA. RELAÇÃO. OFENSA. MATÉRIA FÁTICO-PROBATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS Nº 735/STF E Nº 7/STJ.
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+5. No caso, rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+6. Agravo interno não provido. (AgInt no AR Esp n. 1.814.741/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/10/2021, D Je de 8/10/2021.)
+Ademais, verifica-se que o acórdão recorrido não se afastou da jurisprudência desta Corte ao decidir que "a prova da condição de pescadora da ora recorrente deve ser produzida pela mesma, mediante os documentos necessários a tanto, não se tendo como transferir tal obrigação para a parte adversa - sociedade empresária que, dentre outros, opera usina integrada de aço para a produção, comercialização e transformação de produtos de ferro e aço -, por impossível " (fl. 28).
+Com efeito, nos termos da jurisprudência pacífica do STJ, "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova". (AgInt no REsp n. 1.760.614/RO, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/4/2019, D Je de 22/5/2019.)
+Contudo, a inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos. (AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024). A propósito, a ementa do referido julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. CAUSADOR. PARTE AUTORA. FATOS CONSTITUTIVOS. NEXO CAUSAL. PROVA MÍNIMA. INVERSÃO DO ÔNUS DA PROVA. CIRCUNSTÂNCIAS. ANÁLISE. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Cabe ao suposto causador do dano ambiental à atividade pesqueira comprová-los.
+2. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos.
+3. A análise acerca da existência ou não de circunstâncias que ensejam a inversão do ônus da prova é feita no caso concreto, o que não pode ser revisto por esta Corte em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Desse modo, não merece reforma o acórdão recorrido por estar em conformidade com a atual e pacífica jurisprudência do STJ. Incidência da Súmula 83 do STJ.
+A propósito, cito:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. PREJUDICIALIDADE ENTRE AÇÃO INDIVIDUAL E COLETIVA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL DA PRETENSÃO INDIVIDUAL. SÚMULA 83/STJ. INVERSÃO DO ÔNUS PROBATÓRIO. PROVA DOS FATOS CONSTITUTIVOS. NECESSIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Na hipótese, a Corte estadual, ao assentar a relação de prejudicialidade entre a ação individual e a coletiva, como causa de interrupção do curso do prazo prescricional da pretensão individual, decidiu em sintonia com o entendimento do STJ. Precedentes.
+3. Conforme entendimento desta Corte Superior, a inversão do ônus da prova não exime a parte autora da prova mínima sobre os fatos constitutivos do seu direito e do nexo entre a atuação da parte ré e os alegados prejuízos.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.172.151/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA EM AÇÃO DE DANO AMBIENTAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. SÚMULA 7/STJ. ARGUMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, em ação indenizatória por dano ambiental, onde se discute a inversão do ônus da prova. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a inversão do ônus da prova, aplicada aos danos ambientais, pode ser estendida aos danos individuais alegados na ação. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ é firme no sentido de que, em ações de dano ambiental, a responsabilidade é objetiva, com base na teoria do risco integral, permitindo a inversão do ônus da prova.
+4. A decisão agravada concluiu que a inversão do ônus da prova ocorreu apenas para os danos ambientais, permanecendo a comprovação dos danos individuais a cargo da parte autora.
+5. A revisão das conclusões do acórdão recorrido demandaria incursão no acervo fático-probatório, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+6. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza a apreciação do recurso especial, conforme a Súmula 283 do STF.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp n. 2.626.135/MG, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Por fim, não comporta conhecimento o recurso especial quanto à alegação de malferimento do art. 225 da Constituição Federal, por ser a via inadequada à alegação de afronta a seus artigos e preceitos, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+2. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no artigo 102, III, da Constituição Federal de 1988.
+(AgInt no AREsp n. 2.737.417/PB, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024.)
+3. Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar a violação de dispositivos constitucionais, porquanto matéria afeta à competência do Supremo Tribunal Federal.
+(AgInt no AREsp n. 1.325.875/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
