@@ -1,0 +1,317 @@
+Decisão
+
+    Trata-se de Reclamação, com pedido de medida liminar, proposta pelo Estado de Alagoas contra acórdão proferido pelo respectivo Tribunal de Justiça (Processo 0701120-66.2022.8.02.0056), que não teria observado a tese firmada pela CORTE no julgamento do Tema 793-RG, RE 855.178, Rel. Min. LUIZ FUX.
+
+    Na inicial, a parte autora expõe as seguintes alegações de fato e de direito (eDoc. 1):
+
+    “Trata-se de ação movida por Valdik Alves Melo em face do Estado de Alagoas por meio da qual se pleiteia o fornecimento do procedimento de ABLAÇÃO POR RADIOFREQUÊNCIA DE HEPATOCARCINOMA.
+
+    Ocorre que o procedimento pretendido pela parte autora está incorporado ao Sistema Único de Saúde (SUS) registrado no SIGTAP (Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS)1 como de alta complexidade (Código 04.16.04.018-7), cujo financiamento é de responsabilidade da União Federal, por meio do Componente Limite Financeiro da Média e Alta Complexidade Ambulatorial e Hospitalar (MAC), constituído por recursos do Fundo Nacional de Saúde transferidos aos Fundos de Saúde dos entes subnacionais, conforme disciplinado na Portaria de Consolidação nº 6/2017 do Ministério da Saúde (art. 174, § 2º).
+
+    O juízo de 1º grau julgou procedente a demanda, determinando ao Estado o fornecimento do medicamento.
+
+    O Estado interpôs apelação, requerendo a aplicação do Tema 793 e a inclusão da União no polo passivo. Contudo, o Tribunal negou provimento, por entender que os entes federativos são solidariamente responsáveis e que é possível ajuizar ação contra qualquer deles.
+
+     Em face desta decisão contrária aos precedentes vinculantes, foi interposto pelo Estado de Alagoas Recurso Extraordinário com a finalidade de fazer valer a tese fixada no Tema 793 de repercussão geral, incluindo-se obrigatoriamente a União no polo passivo e deslocando-se a competência para a Justiça Federal. Contudo, a Presidência do Tribunal de Justiça do Estado de Alagoas negou seguimento ao recurso sob o equivocado fundamento de que o entendimento aplicado pela Câmara Cível estaria de acordo com a tese fixada no Tema 793 de repercussão geral (anexo).
+
+    [...]
+
+    Contudo, o acórdão reclamado interpretou erroneamente a tese no sentido de que ao autor seria facultado ingressar com a demanda contra qualquer dos entes ou contra todos, formando-se um litisconsórcio passivo facultativo, ignorando completamente a parte final da tese que determina o direcionamento conforme as regras de repartição de competências.”
+
+    Ao final, no mérito, requer “a procedência desta reclamação para cassar integralmente a decisão reclamada (art. 992 do CPC), determinando aplicação correta da tese fixada no RE 855.178/SE (Tema 793 de repercussão geral)”.
+
+    É o relatório. Decido.
+
+    A respeito do cabimento de Reclamação para o SUPREMO TRIBUNAL FEDERAL, a Constituição da República dispõe o seguinte:
+
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+
+    I - processar e julgar, originariamente:
+
+    (...)
+
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei;
+
+    (...)
+
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.”
+
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+
+    I - preservar a competência do tribunal;
+
+    II - garantir a autoridade das decisões do tribunal;
+
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;”
+
+    O parâmetro de controle invocado envolve a correta interpretação e aplicação da tese fixada no Tema 793 da Repercussão Geral. No julgamento do RE 855.178-RG, o SUPREMO TRIBUNAL FEDERAL reafirmou sua jurisprudência no sentido da existência de responsabilidade solidária dos entes federados no dever de prestar assistência à saúde. Confira-se a ementa do julgado:
+
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA. O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.”
+
+    Posteriormente, ao rejeitar os Embargos de Declaração opostos em face do acórdão acima citado, esta CORTE fixou a seguinte tese:
+
+    “Os entes da federação, em decorrência da competência comum, são solidariamente responsáveis nas demandas prestacionais na área da saúde, e diante dos critérios constitucionais de descentralização e hierarquização, compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro.”
+
+    Sempre externei posição pela necessidade de se respeitar a divisão de atribuições entre os entes da federação no cumprimento do dever de acesso à saúde pela população, bem como a necessidade de inclusão da União no polo passivo de processos nos quais se pleiteia medicamento ou tratamento cujo custeio, a partir desta lógica de divisão de atribuições e competências fixadas no Sistema Único de Saúde, é de sua responsabilidade.
+
+    A obrigação do Estado de prover o acesso à saúde, imposta pela CONSTITUIÇÃO FEDERAL aos entes da federação como verdadeira ordem comum em favor de todos, não pode significar o abandono de princípios norteadores do federalismo de cooperação. A fixação de feixes de atribuições a cada ente, na concretização desse dever comum de garantia de acesso da população aos serviços de saúde pública por intermédio de um sistema unificado o Sistema Único de Saúde, não pode ser abandonada literalmente como uma pseudo forma de garantir judicialmente o acesso à saúde.
+
+    Um sistema deve seu correto funcionamento ao respeito de sua lógica interna, sob pena de desconfigurar-se como tal. E, no caso do Sistema Único de Saúde, tem-se a construção de estruturas de responsabilidade no âmbito da Federação, considerando a obrigação de fornecer os meios necessários para a concretização do direito à saúde como obrigação solidária e comum a todos os entes, mas atribuindo-se a cada ente determinado feixe de responsabilidades particulares e próprias, a partir da regulação e do fomento financeiro.
+
+    Ou seja, a partir da responsabilidade comum e solidária de todos os entes quanto ao atendimento do direito constitucional à saúde, há a fixação de responsabilidades próprias de cada ente, evitando-se sobreposições, zonas de penumbra ou mesmo omissões absolutas, através da legislação ordinária de regulação do Sistema Único de Saúde. Decorrência disso é, no atendimento do princípio orçamentário, de observância obrigatória, o planejamento de custeio e de despesas para a dispensa de atendimento da população a partir da atribuição particular fixada a cada ente, ainda que organizada e alimentada a partir da atuação centralizada da União.
+
+    Essa organização orçamentária e executiva atende ao princípio da eficiência administrativa e do orçamento, permitindo que a União, os Estados e os Municípios possam planejar, a partir do objeto de sua atribuição no âmbito do Sistema Único de Saúde, os gastos necessários para o atendimento do direito à saúde.
+
+    A solidariedade atribuída a todos os entes (art. 23, II, da CF) não pode significar possibilidade absoluta de atropelo, por ordens judiciais, da estrutura fixada essencialmente a partir da lógica hierarquizada e sistematizada das ações e serviços públicos de saúde (art. 198, caput e I, da CF), materializada pela divisão de atribuição feita pela Lei 8.080/1990, que instituiu o Sistema Único de Saúde.
+
+    Conforme posição por mim sempre defendida, que externei no julgamento da tese fixada para o Tema 793-RG deste SUPREMO TRIBUNAL FEDERAL:
+
+    “(...)
+
+    Entendo que atende aos ditames constitucionais a responsabilização solidária da União, haja vista que a Constituição Federal e a legislação infraconstitucional pertinente foram expressas quanto à distribuição de competências no âmbito do Sistema Único de Saúde SUS.
+
+    Nas demandas individuais em que se persegue o fornecimento individual de medicamentos, tenho que a própria CONSTITUIÇÃO FEDERAL fornece balizas para a solução dessa controvérsia, propiciando a manutenção do equilíbrio constitucional, em especial do federalismo e de suas regras de distribuição de competências legislativas e administrativas, que são um dos grandes alicerces da consagração da fórmula Estado de Direito.
+
+    (...)
+
+    Assevero que a judicialização da saúde revela contingência que refoge à normalidade democrática, haja vista ponto de tensão existente entre os três níveis da esfera federativa, e que, embora não se eleve ao perigoso grau de conflito federativo, exige do Poder Judiciário uma solução que traga maior operacionalidade e racionalidade às decisões judiciais envolvendo o exercício do direito fundamental à saúde pela via judicial.
+
+    A CARTA MAGNA, na Seção em que se dedica à saúde, determina a instituição de um modelo prestador de saúde envolvendo a União, os Estados e os Municípios, tendo a comunidade como seu partícipe. Sua execução se estabelece do seguinte modo:
+
+    ‘Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
+
+    (...)
+
+    Art. 198. As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com as seguintes diretrizes:
+
+    I descentralização, com direção única em cada esfera de governo;
+
+    II atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais;
+
+    III participação da comunidade.
+
+    § 1º O sistema único de saúde será financiado, nos termos do art. 195, com recursos do orçamento da seguridade social, da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes.
+
+    § 2º A União, os Estados, o Distrito Federal e os Municípios aplicarão, anualmente, em ações e serviços públicos de saúde recursos mínimos derivados da aplicação de percentuais calculados sobre:
+
+    I no caso da União, a receita corrente líquida do respectivo exercício financeiro, não podendo ser inferior a 15% (quinze por cento);
+
+    II nos casos dos Estados e do Distrito Federal, o produto da arrecadação dos impostos a que se refere o art. 155 e dos recursos de que tratam os arts. 1257 e 159, I, alínea a, e inciso II, deduzidas as parcelas que forem transferidas aos respectivos Municípios;
+
+    III no caso dos Municípios e do Distrito Federal, o produto da arrecadação dos impostos a que se refere o art. 156 e dos recursos de que tratam os arts. 158 e 159, inciso I, alínea b e § 3º.
+
+    § 3º Lei complementar, que será reavaliada pelo menos a cada cinco anos, estabelecerá:
+
+    I os percentuais de que tratam os incisos II e III do § 2º;
+
+    II os critérios de rateio dos recursos da União vinculados à saúde destinados aos Estados, ao Distrito Federal e aos Municípios, e dos Estados destinados a seus respectivos Municípios, objetivando a progressiva redução das disparidades regionais;
+
+    III as normas de fiscalização, avaliação e controle das despesas com saúde nas esferas federal, estadual e distrital e municipal’;
+
+    E, no art. 23, II, da CONSTITUIÇÃO FEDERAL, vê-se que compete aos aludidos entes estatais:
+
+    ‘Art. 23. É competência comum da União, dos Estados, do Distrito Federal e dos Municípios:
+
+    [...]
+
+    II cuidar da saúde e assistência pública, da proteção e garantia das pessoas portadoras de deficiência’;
+
+    No âmbito da legislação ordinária, a Lei 8.080/1990 institui o Sistema Único de Saúde (Legislação do SUS), atenta ao caput do art. 196 da CF/1988 e ao art. 23, II, da CF/1988.
+
+    Com vistas à descentralização político-administrativa das ações e execuções decorrentes do mandamento constitucional, definiram-se atribuições a cada qual das pessoas políticas, nos termos normativos da Lei 8.080/1990. (...)
+
+    Há, portanto, um arquétipo normativo bem definido e estruturado pelo legislador para que se garanta o constitucional acesso do cidadão à saúde por meio de atividades administrativas desempenhadas em conformidade com a atribuição de cada qual.
+
+    À sua margem, irrompem ininterruptas ingerências judiciais em decorrência da sobredita judicialização da saúde , tanto na justiça estadual como na federal, as quais reputo, com a devida vênia, perniciosas ao modelo normativo instituído, a compelir, muitas das vezes, o abandono, principalmente pelos Estados e municípios, do programa orçamentário destinado ao financiamento de tais serviços, arruinando a divisão funcional de atribuições e encargos desenhados na lei para os órgãos do SUS.
+
+    Efetivamente, a CONSTITUIÇÃO estabelece princípios e regras que vincular a atuação estatal à estrita observância da lei orçamentária, vedando a transposição de recursos públicos para finalidade diversa da prevista na lei orçamentária (art. 167, II, da CF). A legalidade orçamentária, essencialmente ligada ao preceito da separação funcional de poderes (art. 2º c/c art. 60, § 4º, III, da CF), também age como consectário do princípio da eficiência da Administração Pública (art. 37, caput , da CF) e do princípio da continuidade dos serviços públicos (art. 175, da CF).
+
+    Com isto, não se está atribuindo superioridade valorativa aos princípios constitucionais da programação orçamentária em prejuízo do direito social à saúde, permitindo a mitigação do mínimo existencial em prol da observância de interesses secundários do Estado. Ao contrário, a preocupação é preservar a capacidade dos entes em sustentar financeiramente uma política pública que proporcione assistência médica ao maior número possível de pessoas. A estabilidade do orçamento público é condição indispensável para que todos os deveres dos Estados, Distrito Federal e Municípios sejam corretamente exercidos, inclusive aqueles que conferem efetividade a direitos fundamentais.
+
+    A judicialização da saúde pública, neste aspecto, tem sido malsucedida. Há um efeito vicioso na multiplicação dos casos de fornecimento de medicamentos via ação judicial: a gestão pública ineficiente, que justificou a intervenção judicial, é cerceada pela constrição do orçamento público decorrente de várias decisões com esse mesmo conteúdo; a falta de controle sobre a verba pública aumenta a ineficiência do sistema de saúde, o que, por sua vez, alimenta a necessidade de socorro ao Poder Judiciário em novas demandas.
+
+    (...)
+
+    Ora, o que se constata, ao fim e ao cabo, é a controvérsia entre os entes a respeito de qual deles, de fato e de direito, deve arcar com o bem da vida objeto do processo, provocando desavenças entre os sujeitos integrantes da pessoa jurídica de Direito interno, constituído, como cediço, pela União, Estados-Membros, Distrito Federal e Municípios, ocasião em que esta SUPREMA CORTE ‘ganha relevância no plano federativo no momento em que [lhe] caberá dirimir conflitos de competência que eventualmente venham a surgir entre os entes federados’ (BERNARDO GONÇALVES FERNANDES. Curso de direito constitucional . 6ª ed. Salvador: Jus Podvim. 2014, p. 291).
+
+    Logo, impende refletir sobre a necessidade vital de revisar (prospective overruling) o entendimento jurisprudencial firmado sobre a solidariedade dos entes estatais, estabelecida em um contexto no qual ainda não se vislumbrava a prática danosa relativa ao cumprimento do título judicial condenatório.
+
+    Muitas das vezes, conforme salientado em memorial ofertado pela Advocacia-Geral da União, verifica-se atuação sobreposta dos entes federativos, com inegável prejuízo dos escassos recursos públicos destinados para a área, uma vez que, em razão do prazo exíguo e da coerção judicial, na forma de severas sanções, cada ente réu fornece, individualmente, a prestação total requerida, de modo que são obtidas, no processo judicial, quantidades duas ou três vezes superiores à necessária, conforme retratado em sede doutrinária (DANIEL SARMENTO; CRISTINA TELLES. Judicialização da saúde e responsabilidade federativa: solidariedade ou subsidiariedade? In. FELIPE ASENSI; ROSENI PINHEIRO (Org.). Direito sanitário . Rio de Janeiro: Elsevier, 2012. p. 117-129).
+
+    Como antes destacado, observar fielmente a distribuição de competências legislativas e administrativas demanda, em cenários excepcionais, a proeminências de um Poder Central que garanta a coesão nacional, notadamente, como no caso pátrio, quando a instituição do federalismo decorreu-se da desagregação (ACO 3258-MC, Rel. Min. CELSO DE MELLO, DJe de 7/5/2019); ao contrário do ‘Estado unitário, que se descentraliza, como da reunião dos antigos estados independentes ou soberanos, para a formação de um único Estado, agora federal’ (ANDRÉ RAMOS TAVARES. Curso de Direito Constitucional. 17 ed. São Paulo: Saraiva Educação, 2019).
+
+    Ressalto, como cediço, que o nosso federalismo em vigor funda-se sob o pilar da cooperação (federalismo cooperativo), urgindo atuação irmanada dos entes em favor da coletividade. Mas, como observado pelo eminente Ministro ROBERTO BARROSO, ‘o federalismo brasileiro vive um momento delicado, marcado por insuficiências e desequilíbrios, de modo que a interpretação de normas e contratos entre os entes federativos não pode desconsiderar essa realidade fática’ (ACO 3224- MC, DJe de 1º/4/2019).
+
+    Quanto à distribuição de valores a serem repassados pela União aos demais entes federados, a Lei Complementar 141/2012 dispõe no art. 12 que os ‘recursos da União serão repassados ao Fundo Nacional de Saúde e às demais unidades orçamentárias que compõem o órgão Ministério da Saúde, para serem aplicados em ações e serviços públicos de saúde’, e o art. 18 reza que os ‘recursos do Fundo Nacional de Saúde, destinados a despesas com as ações e serviços públicos de saúde, de custeio e capital, a serem executados pelos Estados, pelo Distrito Federal ou pelos Municípios serão transferidos diretamente aos respectivos fundos de saúde, de forma regular e automática, dispensada a celebração de convênio ou outros instrumentos jurídicos’.
+
+    Já a Portaria de Consolidação 2/2017, na qual se incorporou a Portaria 3.916/1998, trata da Política Nacional de Medicamentos, nos moldes previstos no art. 6º da Lei 8.080/1990, merecendo destaque a Relação Nacional de Medicamentos Essenciais - RENAME, listando os medicamentos utilizados pelo SUS, os quais, via de regra, são disponibilizados à população seguindo o princípio da descentralização da gestão e visando (i) ao uso racional dos medicamentos; (ii) à otimização e eficácia do sistema da distribuição no setor público; e (iii) ao desenvolvimento de iniciativas que possibilitem a redução de preços e o acesso da população aos produtos no âmbito privado. (Anexo I do Anexo XXVII da Portaria de Consolidação nº 2/2017).
+
+    Incumbe à União, com base no art. 38 do Anexo XXVIII da citada portaria, o repasse de recursos aos Estados, Distrito Federal e Municípios para que esses adquiram os remédios e distribuam à população.
+
+    Ora, essa a via principal pela qual o cidadão tem acesso administrativo aos medicamentos.
+
+    Portanto, havendo distribuição de competências preestabelecidas, não há razão para se delinear uma responsabilidade solidária entre os entes federados. No mesmo sentido se posicionou o Conselho Nacional de Justiça CNJ:
+
+    ‘Enunciado 8: Nas condenações judiciais sobre ações e serviços de saúde devem ser observadas, quando possível, as regras administrativas de repartição de competência entre os gestores’.
+
+    Nessa seara, deve ser observado o princípio da subsidiariedade, no qual, “no campo federativo significa, basicamente, que somente na hipótese de o nível mais individual não poder realizar a tarefa é que esta há de ser transposta para um nível de agrupamento superior”. Aciona-se, portanto, a União ou determinado estado sempre que a instância inferior não se encontra em condições suficientes à sua justa realização de um determinado interesse comum, relata ZIMMERMANN, em sua obra Teoria Geral do Federalismo democrático (ANDRÉ RAMOS TAVARES. Curso de Direito Constitucional. 17. ed. São Paulo: Saraiva Educação, 2019).
+
+    Assim, levando-se em consideração:
+
+    (i) o modelo normativo estabelecido pelo Poder Legislativo;
+
+    (ii) uma exegese sistemática e teleológica da nossa CARTA MAGNA; e
+
+    (iii) o cumprimento padronizado das determinações judiciais
+
+    Conclui-se que a responsabilidade solidária dos entes limita-se à obrigação comum de atuarem no âmbito do SUS, porém deve ser respeitada a estruturação e distribuição de competência.
+
+    Logo, nos casos em que a pretensão autoral veicular pedido de medicamento, tratamento, procedimento ou materiais já constante das políticas públicas, a demanda deverá ser direcionada ao ente competente de acordo com as regras de distribuição preestabelecidas na Constituição Federal ou no arcabouço normativo pertinente, atuando a União apenas de forma subsidiária, de forma a proteger o interesse do necessitado.
+
+    Nessa hipótese, em caso de insuficiência de recursos ou meios próprios para cumprir o pedido, caberá ao próprio ente demandado ou ao juiz da causa, de ofício, incluir a União no processo, em respeito ao princípio da responsabilidade subsidiária.
+
+    Por outro lado, nos casos em que a pretensão autoral veicular pedido de medicamento, tratamento, procedimento ou materiais não constantes das políticas públicas, a União deverá necessariamente figurar no polo passivo, haja vista que a ela compete a inclusão no Sistema Único de Saúde”.
+
+    A interpretação do Tema 793-RG deve considerar a existência de solidariedade entre todos os entes em caso de competência comum, mas deve observar o direcionamento necessário da demanda judicial ao ente responsável pela prestação específica pretendida, permitindo-se que o cumprimento seja direto e, eventual ressarcimento, eficaz.
+
+    Nesses casos, quando identifica-se a responsabilidade direta da União pelo fornecimento do medicamento ou pelo tratamento pretendido, nos termos da Lei 8.080/1990, sua inclusão no polo passivo da demanda é medida necessária, a ser providenciada pelo juiz da causa, evitando-se o descompasso entre a previsão orçamentária e a concretização das despesas na área da saúde.
+
+    Da mesma forma, quando se objetivar a “incorporação, a exclusão ou a alteração pelo SUS de novos medicamentos, produtos e procedimentos, bem como a constituição ou a alteração de protocolo clínico ou de diretriz terapêutica”, as quais são atribuições do Ministério da Saúde, assessorado pela Comissão Nacional de Incorporação de Tecnologias no SUS, nos termos do art. 19-Q da Lei 8.080/1990, a inclusão da União também se fará necessária.
+
+    Ressalvei essa visão interpretativa do Tema 793-RG em julgamentos anteriores da Turma, mantendo a coerência com o voto proferido no julgamento do paradigma, por entender que a divisão de responsabilidades entre os entes estabelecidas pela lei obedece à rede hierarquizada de atendimento prevista no art. 198 da Constituição Federal.
+
+    A posição por mim defendida também é observada do teor do voto vencedor nos Embargos de Declaração opostos no processo-piloto do Tema 793-RG, deixando claro que a União deverá obrigatoriamente ser chamada a participar no polo passivo das lides em que: (i) for legalmente responsável pelo financiamento da obrigação principal, ainda que isso signifique deslocamento de competência; e (ii) a pretensão veicular pedido de tratamento, procedimento, material ou medicamento não incluído nas políticas públicas, considerando que o Ministério da Saúde detém competência para a incorporação, exclusão ou alteração de novos medicamentos, produtos, procedimentos, bem como constituição ou a alteração de protocolo clínico ou de diretriz terapêutica. Nas palavras de Sua Excelência:
+
+    “Quinta: Partindo do exame das espécies de tutela examinadas na STA 175, é possível estabelecer condicionantes para a admissão das respectivas ações. Quando a pretensão veicular pedido de entrega de medicamento padronizada, a competência estatal é regulada por lei, devendo figurar no polo passivo a pessoa política com competência administrativa para o fornecimento do medicamento, tratamento ou material. Quando o medicamento não for padronizado, a União deve compor o polo passivo da lide.”
+
+    E assim deve ser, porque “a solidariedade reconhecida é aquela que obriga os entes da Federação brasileira a organizarem o Sistema Único de Saúde e não se esquivarem das tarefas que lhes são atribuídas pela Constituição, pela lei e pelas normas e acordos realizados pelos gestores do SUS”, conforme pontuado por aquele Ilustre Relator.
+
+    No caso concreto, o Tribunal de Justiça do Estado de Alagoas negou provimento ao recurso de apelação interposto pela Fazenda Pública Estadual, ora Reclamante, mantendo a sentença que condenou “a parte ré, ESTADO DE ALAGOAS, na obrigação de disponibilizar o procedimento de ‘ablação por radiofrequência de hepatocarcinoma’, na forma e periodicidade prescrita pelo(s) médico(s) que o acompanha”.
+
+    Destaco os fundamentos utilizados pelo Tribunal reclamado, no ponto de interesse:
+
+    “Assim, é direito do cidadão exigir o dever de o Estado (lato sensu) fornecer medicamentos, tratamentos, insumos, exames e procedimentos cirúrgicos indispensáveis à sua sobrevivência, posto que é mandamento constitucional (arts. 5º, § 1º; 6º e 196, todos da CF/88), que os serviços de saúde são de relevância pública e de responsabilidade de todos os entes da federação, diante da imperiosa necessidade de se preservar o bem jurídico maior: a vida.
+
+    [...]
+
+    Deste modo, considerando que a sentença foi prolatada no dia 18 de setembro de 2023, deve ser analisada a repatição (sic) de competências dentro do sistema único de saúde.
+
+    À vista disso, para adequar aos novos parâmetros apresentados pelo Supremo Tribunal Federal, observei que, em consulta ao site do DATASUS no SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e OPM do SUS, o tratamento pleiteado é financiamento de média e alta complexidade.
+
+    Por conseguinte, de acordo com o art. 17, IX, da Lei n° 8080/90, quando a demanda tratar de exame ou procedimento de alta complexidade a responsabilidade de suportar o ônus financeiro é do Estado:
+
+    ‘Art. 17. À direção estadual do Sistema Único de Saúde (SUS) compete:
+
+    [...]
+
+    IX - identificar estabelecimentos hospitalares de referência e gerir sistemas públicos de alta complexidade, de referência estadual e regional;
+
+    Logo, a responsabilidade, in casu, é do Estado de Alagoas.’
+
+    [...]
+
+    Analisando na solicitação do especialista acostada nas fls. 14/15, em conjunto com relatórios e receituários, observa-se a descrição pormenorizada do estado de saúde da parte autora, bem como, o tratamento adequado, seus benefícios e o tempo previsto de tratamento.
+
+    Nesta esteira, e tendo como parâmetro os requisitos exigidos pelo Superior Tribunal de Justiça, definidos no precedente acima citado, conclui-se que o autor se desincumbiu do seu ônus probatório, já que demonstrou a necessidade do tratamento perseguido, conforme laudo do seu profissional assistente. A hipossuficiência, por seu turno, também restou evidenciada nos autos.
+
+    Conclui-se, portanto, que a sentença deve ser mantida quanto ao fornecimento e custeio do procedimento cirúrgico pleiteado.” (eDoc. 4) (grifo acrescido)
+
+    Posteriormente, o Recurso Extraordinário teve seguimento negado com base na aplicação do Tema 793 da Repercussão Geral, pelos seguintes fundamentos:
+
+    “11. No caso em deslinde, o presente agravo interno foi manejado em face de decisão monocrática de minha lavra, cujo teor negou seguimento ao recurso extraordinário outrora interposto pelo agravante, sendo cabível, portanto, a interposição deste recurso.
+
+    [...]
+
+    14. Dito isso, a parte agravante aduziu que o acórdão proferido pelo órgão fracionário desconsiderou a repartição de atribuições dentro do Sistema Único de Saúde – SUS, argumentando que não é responsável pelo cumprimento da obrigação reconhecida em favor da parte autora/agravada.
+
+    15. Pois bem. Cumpre ressaltar a norma constitucional que disciplina a prestação da saúde pelos entes federativos, bem como as regras legais sobre os institutos da solidariedade e do litisconsórcio, in verbis:
+
+    [...]
+
+    16. Da leitura dos dispositivos supramencionados, é indubitável que cabe aos entes federativos a conjunta prestação do direito à saúde, sendo, por conseguinte, solidária a responsabilidade existente entre eles. Dessa forma, fica autorizado ao eventual credor do direito fundamental à saúde demandar contra um ou mais entes federados, opção esta que, na esfera processual, leva à formação de um litisconsórcio passivo facultativo.
+
+    17. Na própria ementa dos Embargos de Declaração em Recurso Extraordinário nº 855178, consta que ‘o tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente’, senão vejamos:
+
+    [...]
+
+    18. Ademais, o fato de a tese consignar que "compete à autoridade judicial direcionar o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro" não desconstrói o instituto da solidariedade, mas tão somente reafirma que, diante da faculdade de a parte demandante direcionar a ação contra um ou mais entes federativos, poderá o Magistrado, atento às regras de repartição de competências, deferir eventual ressarcimento pleiteado pelo ente federativo demandado em face da real pessoa jurídica de direito público interno responsável pela implementação da medida de saúde litigada.
+
+    19. Firmadas essas premissas, tendo em vista que o procedimento cirúrgico pleiteado não é considerado medicamento e, ainda que seja disponibilizado pelo SUS na categoria média/alta complexidade, nota-se que o órgão julgador concluiu pela responsabilidade solidária das pessoas jurídicas de direito público interno na prestação do direito à saúde àqueles que necessitam do custeio público, observando, portanto, os fundamentos determinantes da tese fixada pela Corte Superior no Tema 793:
+
+    [...]
+
+    20. Registre-se, ainda, que a hipótese dos autos não trata do fornecimento de medicamentos, motivo pelo qual não se aplica o entendimento firmado nos Temas 6 1 e 1.234 da Repercussão Geral, diferenciando-se o presente caso às hipóteses das jurisprudências colacionadas pela parte agravante.
+
+    21. Tanto é assim que no julgamento do Recurso Extraordinário 1.366.243 / Santa Catarina (Tema 1.234) restou consignado que ‘no que diz respeito aos produtos de interesse para saúde que não sejam caracterizados como medicamentos, tais como órteses, próteses e equipamentos médicos, bem como aos procedimentos terapêuticos, em regime domiciliar, ambulatorial e hospitalar, insta esclarecer que não foram debatidos na Comissão Especial e, portanto, não são contemplados neste tema 1.234’ (sic, grifos aditados).
+
+    22. Logo, impõe-se a manutenção da decisão que negou seguimento ao recurso extraordinário.” (eDoc. 8) (grifo original)
+
+    Com base nas premissas fáticas estabelecidas pelo Tribunal reclamado, verifica-se que o procedimento médico requerido pela parte beneficiária é classificado na categoria média/alta complexidade, Código 04.16.04.018-7, sendo custeado pelo aporte de recursos federais aos entes subnacionais, nos termos do art. 174, §§ 1º e 2º da Portaria de Consolidação Normativa 6, de 28/09/2017, do Ministério da Saúde, que assim estabelece:
+
+    “Art. 174. O Componente Limite Financeiro da MAC dos Estados, do Distrito Federal e dos Municípios será destinado ao financiamento de ações de média e alta complexidade em saúde e de incentivos transferidos mensalmente. (Origem: PRT MS/GM 204/2007, Art. 14)
+
+    § 1º Os incentivos do Componente Limite Financeiro MAC incluem aqueles atualmente designados: (Origem: PRT MS/GM 204/2007, Art. 14, § 1º)
+
+    I - Centro de Especialidades Odontológicas (CEO); (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, I)
+
+    II - Serviço de Atendimento Móvel de Urgência (SAMU); (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, II)
+
+    III - Centro de Referência em Saúde do Trabalhador; (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, III)
+
+    IV - Adesão à Contratualização dos Hospitais de Ensino, dos Hospitais de Pequeno Porte e dos Hospitais Filantrópicos; (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, IV)
+
+    V - Fator de Incentivo ao Desenvolvimento do Ensino e da Pesquisa Universitária em Saúde (FIDEPS); (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, V)
+
+    VI - Programa de Incentivo de Assistência à População Indígena (IAPI); (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, VI)
+
+    VII - Incentivo de Integração do SUS (INTEGRASUS); e (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, VII)
+
+    VIII - outros que venham a ser instituídos por meio de ato normativo. (Origem: PRT MS/GM 204/2007, Art. 14, § 1º, VIII)
+
+    § 2º Os recursos federais de que trata este artigo, serão transferidos do FNS aos Fundos de Saúde dos Estados, do Distrito Federal e dos Municípios, conforme a Programação Pactuada e Integrada, publicada em ato normativo específico. (Origem: PRT MS/GM 204/2007, Art. 14, § 2º).”
+
+    Desse modo, a participação da União na demanda é obrigatória, especialmente para que a autoridade judicial possa “diante dos critérios constitucionais de descentralização e hierarquização direcionar, caso a caso, o cumprimento conforme as regras de repartição de competências e determinar o ressarcimento a quem suportou o ônus financeiro”, conforme determinado no julgamento dos embargos de declaração no RE 855.178 (Tema 793-RG).
+
+    Nesse sentido, destaco o seguinte precedente da CORTE:
+
+    “RECLAMAÇÃO. DEVER DE ASSISTÊNCIA À SAÚDE. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA ENTRE OS ENTES FEDERADOS. TEMA 793 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. INCLUSÃO DA UNIÃO NO POLO PASSIVO DA DEMANDA. NÃO OBSERVÂNCIA. AGRAVO REGIMENTAL. PROVIMENTO.
+
+    1. Ao apreciar o RE 855.178-ED, processo piloto do Tema 793 da sistemática da repercussão geral, do qual fui redator designado para o acórdão, DJe 16.4.2020, o Plenário do Supremo Tribunal Federal concluiu pela responsabilidade solidária dos entes federados pelo dever de prestar assistência à saúde.
+
+    2. Uma vez definido que a competência administrativa para o fornecimento do medicamento pleiteado pertence à União, compete à autoridade reclamada, na linha do que decidido no Tema 793, determinar a inclusão do citado ente federado no polo passivo da demanda, com a consequente remessa dos autos à Justiça Federal.
+
+    3. Agravo regimental a que se dá provimento. (RCL 49.009 AgR, Segunda Turma, Rel. Min. NUNES MARQUES, Redator p/ Acórdão Min. EDSON FACHIN, DJe de 29/03/22)
+
+    Cito, ainda, a RCL 54.951/AL, Rel. Min. DIAS TOFFOLI, DJe de 15/08/2022, em que restou determinada a inclusão da União no polo passivo de demanda que também envolvia procedimento de alta complexidade com financiamento por meio do Componente Limite Financeiro da Média e Alta Complexidade Ambulatorial e Hospitalar (MAC):
+
+    “Em pesquisa à “Tabela Unificada” na página eletrônica do Departamento de Informática do Sistema Único de Saúde (DATASUS - http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp) pelo código do procedimento demandado no Processo nº 0703381- 66.2020.8.02.0058 (04.08.05.005-5), tem-se que a técnica é classificada como de “Alta Complexidade”, sendo seu financiamento por meio do Componente Limite Financeiro da Média e Alta Complexidade Ambulatorial e Hospitalar (MAC) constituído por recursos do Fundo Nacional de Saúde transferidos aos Fundos de Saúde dos entes subnacionais, conforme disciplinado na Portaria de Consolidação nº 6/2017 do Ministério da Saúde (art. 174, § 2º).
+
+    A Constituição Federal, ao estabelecer a competência comum de “cuidar da saúde” (art. 23, inciso II) definiu uma responsabilidade estruturada em níveis de atuação consentâneos com as atribuições próprias da repartição federativa, elemento essencial à construção do modelo de atenção à saúde reformador nela propugnado.
+
+    É de se observar, ainda, que o financiamento no SUS segue a lógica da complexidade do tratamento da doença, da garantia da integralidade do tratamento da doença por meio de linhas de cuidado e da manutenção do equilíbrio financeiro entre as esferas de gestão do SUS.
+
+    Considerando que a responsabilidade financeira da União, por meio do Fundo Nacional de Saúde, na composição do “Componente Limite Financeiro da Média e Alta Complexidade Ambulatorial e Hospitalar (MAC)”, entendo que assiste razão à parte reclamante na alegação de que deveria a autoridade reclamada ter incluído a União no polo passivo da ação e, consequentemente, ter remetido os autos à Justiça Federal, a fim de direcionar o cumprimento da ordem de acordo com a repartição de competências no SUS entre os entes da Federação, aplicando o entendimento consubstanciado no paradigma.
+
+    [...]
+
+    Pelo exposto, julgo procedente a presente reclamação para cassar a decisão reclamada e determinar a inclusão da União no polo passivo do Processo nº 0703381-66.2020.8.02.0058, bem como o envio dos autos à Justiça federal, ficando mantido, contudo, eventual providência cautelar determinada pelo juízo estadual até que o direito seja apreciado pelo juízo competente (CPC, art. 64, § 4º).” (grifo acrescido)
+
+    Nessas circunstâncias, reafirmando minha posição sobre a correta interpretação da matéria, a partir do comando constitucional da divisão de atribuição e organização do Sistema Único de Saúde, entendo ter havido indevida aplicação do Tema 793-RG pelo Tribunal reclamado, devendo ser encaminhado o processo à Justiça Federal, diante da necessidade de a União integrar o polo passivo da demanda, sem prejuízo da manutenção dos Estados e Municípios, em conformidade com a responsabilidade solidária dos Entes Federados.
+
+    Diante do exposto, com base no art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, JULGO PROCEDENTE a Reclamação para determinar a inclusão da União no polo passivo da demanda e o consequente deslocamento da competência para a Justiça Federal, sem prejuízo de eventual tratamento/procedimento de saúde já iniciado em benefício da parte autora da demanda, que não poderá ser interrompido até nova determinação pelo Juízo competente, nos termos do art. 64, § 4º, do CPC.
+
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+
+    Publique-se.
+
+    Brasília, 8 de setembro8 de setembro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
