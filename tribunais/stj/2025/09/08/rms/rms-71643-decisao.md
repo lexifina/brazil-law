@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança apresentado por MARCOS CASSIMIRO FERNANDES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (e-STJ fl. 823):
+EMENTA: MANDADO DE SEGURANÇA. POLICIAL MILITAR. EXCLUSÃO DAS PRERROGATIVAS MILITARES. INDEPENDÊNCIA ENTRE AS ESFERAS ADMINISTRATIVA E PENAL. PROCEDIMENTO ADMINISTRATIVO. CONDENAÇÃO TRANSITADA EM JULGADO. PERDA DO CARGO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. I. A exclusão das prerrogativas militares ao impetrante foi fundamentada no comportamento incompatível com o pudor militar, em fiel cumprimento das leis. II. A perda do cargo decorre de decisão judicial condenatória transitada em julgado, não havendo ofensa a direito líquido e certo. SEGURANÇA CONHECIDA E DENEGADA.
+A parte recorrente alega que o procedimento administrativo disciplinar estaria maculado por nulidade absoluta, uma vez que suas condutas foram analisadas à luz da Lei n. 19.969/2018, mais gravosa e posterior aos fatos ocorridos em 2008. Acrescenta que a pretensão punitiva estaria fulminada pela prescrição. Aponta a existência de testemunhos, constantes nos autos, que evidenciam sua conduta exemplar e os relevantes serviços prestados à corporação, reforçando sua aptidão para permanecer usufruindo das prerrogativas militares.
+As contrarrazões não foram oferecidas.
+O Ministério Público Federal opinou pelo "não conhecimento do recurso ordinário e, no mérito, pelo seu desprovimento" (e-STJ fl. 923).
+Às e-STJ fls. 909/910, o pedido de liminar foi indeferido.
+Passo a decidir.
+Na origem, o recorrente impetrou mandado de segurança contra "decisão proferida no Procedimento Especial Ético Disciplinar, proferida pelo Comandante Geral da Polícia Militar do Estado de Goiás, Coronel Renato Brum dos Santos, que determinou a perda das prerrogativas militares do impetrante (2º Sargento da Polícia Militar). " (e-STJ fl. 806).
+O Tribunal de origem, por unanimidade, denegou a ordem. Transcrevo os fundamentos do voto condutor do acórdão recorrido (e-STJ fls. 821/824):
+Presentes os requisitos legais, recebo esta ação mandamental.
+Conforme relatado, trata-se de MANDADO DE SEGURANÇA, impetrado por MARCOS CASSIMIRO FERNANDES, contra decisão proferida no Procedimento Especial Ético Disciplinar, pelo Comandante Geral da Polícia Militar do Estado de Goiás, Coronel Renato Brum dos Santos, que determinou a perda das prerrogativas militares do impetrante (2º Sargento da Polícia Militar).
+Cediço que o Mandado de Segurança visa resguardar direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+Direito líquido e certo é aquele que pode ser provado simplesmente por documentos, constatado sem maiores delongas processuais em busca de prova.
+Primeiramente, insta ressaltar que a esfera administrativa e penal são independentes, ressalvadas algumas hipóteses legais.
+No caso concreto em análise, verifica-se que a insurgência reside na perda das prerrogativas militares do impetrante, decretada na esfera administrativa.
+Pois bem.
+Da vasta documentação juntada, depreende-se que em desfavor do impetrante foram abertos procedimento disciplinar perante o Comando-Geral da Polícia Militar-GO e ação penal perante a 4ª Vara Criminal dos Crimes Punidos com Reclusão desta Capital, imputando-lhe a prática do crime tipificado no art. 158, § 1º, do Código Penal.
+Embora o impetrante informe que foi determinado o arquivamento do procedimento administrativo, na verdade, o feito foi sobrestado até o julgamento da ação penal (27/05/2008).
+Todavia, em 22/08/2014, em face da Portaria nº 005438, determinou-se fosse proferida decisão definitiva acerca do procedimento administrativo sobrestado.
+Assim, tendo transcorrido mais de 04 anos da data do fato ensejador da sua instauração, determinou-se o arquivamento (11/02/2015), concluindo-se pela extinção da punibilidade do ora impetrante.
+Posteriormente, após notícia de trânsito em julgado da ação penal que tramitava perante a 4ª Vara Criminal dos Crimes Punidos com Reclusão da comarca de Goiânia- GO, em face do impetrante, houve expedição de novo ofício de instauração nº 2021.32-SICOR (Processo SEI completo - arq. 01 - páginas 02/03 do PDF), determinando a abertura de Processo Administrativo Disciplinar Especial, com a exclusiva finalidade de apurar a capacidade do impetrante em permanecer usufruindo das prerrogativas inerentes de Policial Militar.
+Após o decorrer da instrução, os membros do Conselho de Ética e Disciplina, opinaram pelo reconhecimento da alegação da defesa, de ocorrência de prescrição, posição que foi encampada pela Corregedora da PMGO.
+Em 03/03/2022, o Comandante Geral da Polícia Militar do Estado de Goiás, entendeu que Marcos Cassimiro era culpado das acusações e não reunia condições para permanecer no quadro da Polícia Militar de Goiás, determinando a perda das prerrogativas policiais militares.
+Por outro lado, a mencionada ação penal (protocolo nº 0067185-95.2008.8.09.0051), foi julgada procedente, o ora impetrante e o corréu foram condenados nas sanções do art. 158, § 1º, do Código Penal, impondo-se a Marcos Cassimiro a pena de 06 (seis) anos de reclusão, em regime inicial semiaberto e 30 (trinta) dias-multa, à razão de 1/30 do salário-mínimo, assim como determinada a perda do cargo público que ocupava na época (27/01/2015).
+Inconformado, Marcos Cassimiro e o corréu interpuseram recursos de Apelação, conhecidos e parcialmente providos, para desclassificar a conduta para a forma tentada, reduzir a pena e, por conseguinte, declarar extinta a punibilidade pela prescrição.
+Irresignado, o representante ministerial interpôs Recurso Especial, conhecido e provido para reconhecer a prática do crime na forma consumada e, como consequência, afastar a declaração de prescrição da pretensão punitiva, com trânsito em julgado em 20/04/2021.
+Logo, não se constata direito líquido e certo a ser amparado, isso porque, além do procedimento administrativo referido, a própria sentença determinou a perda obrigatória do cargo.
+Assim, mesmo que fosse cabível a análise do Procedimento Administrativo Disciplinar, o fato é que a perda do cargo decorre de decisão judicial condenatória transitada em julgado, não havendo ofensa a direito líquido e certo.
+Ante o exposto, acolho em parte o parecer ministerial de cúpula, conheço e denego a segurança pretendida nestes autos, nos termos acima explicitados.
+É como voto.
+Pois bem.
+Antecipo que o recurso não comporta acolhimento.
+Conforme se verifica das razões recursais, a parte recorrente não impugnou, especificamente e de acordo com o princípio da dialeticidade, o seguinte fundamento destacado do aresto recorrido (e-STJ fl. 821):
+ ..  não se constata direito líquido e certo a ser amparado, isso porque, além do procedimento administrativo referido, a própria sentença determinou a perda obrigatória do cargo.
+Dessa forma, tem-se que a insurgência não merece ser conhecida, visto que esta Corte Superior firmou compreensão, inclusive no âmbito do recurso ordinário, de que a falta de combate a fundamento suficiente para manter o acórdão recorrido denota violação do princípio da dialeticidade, e permite a aplicação das Súmulas 283 e 284 do STF, por analogia. Nesse sentido:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE DIALETICIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. A Corte Regional, ao julgar o Mandado de Segurança, denegou a ordem por entender que não há necessidade que justifique a impetração do mandamus quando já alcançado, administrativamente, o objeto da pretensão.
+2. Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, a recorrente não impugnou o fundamento acima mencionado no tocante à desnecessária impetração do Mandado de Segurança tendo em vista que a sua pretensão já havia sido alcançada pela via administrativa.
+3. Ao proceder dessa forma, não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, dentre as quais se destacar a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Incidência, por analogia, das Súmulas 283 e 284 do STF.
+4. Recurso em Mandado de Segurança não conhecido. (RMS 54.537/MG, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 18/10/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO DO TRIBUNAL DE JUSTIÇA DA BAHIA. REDUÇÃO DA VANTAGEM PESSOAL DE EFICIÊNCIA (VPE). PROCESSO ADMINISTRATIVO. NECESSIDADE DE HAVER CONHECIMENTO PRÉVIO.
+1. Trata-se de Agravo Interno em Recurso Ordinário em Mandado de Segurança provido para determinar à autoridade coatora que se abstenha de alterar o valor da Vantagem Pessoal de Eficiência da recorrente, garantindo a ampla defesa e o contraditório no processo administrativo.
+2. Consoante a Súmula 473/STF, a Administração, com fundamento no seu poder de autotutela, pode anular seus próprios atos, desde que ilegais. Ocorre que, quando tais atos produzem efeitos na esfera de interesses individuais, mostra-se necessária a prévia instauração de processo administrativo, garantindo-se a ampla defesa e o contraditório, nos termos dos arts. 5º, LV, da Constituição Federal, 2º da Lei 9.784/1999 e 35, II, da Lei 8.935/1994.
+3. Pacífica é a jurisprudência desta Corte no sentido de que "a Súmula 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido." (AgRg no RMS 30.555/MG, Rel. Min. Og Fernandes, Sexta Turma, DJe de 1º.8.2012).
+4. Deveria a parte ter rebatido os fundamentos determinantes dos julgados apontados como precedentes, com a demonstração de que eles não se aplicam ao caso concreto ou de que há julgados do STJ contemporâneos ou posteriores em sentido diverso. Tal situação caracteriza a ausência de impugnação específica dos fundamentos da decisão recorrida.
+5. Os argumentos expendidos não são suficientes para infirmar as conclusões do decisum, cuja fundamentação é adequada para lhe dar respaldo, tampouco ficou evidenciada a suposta afronta às normas legais enunciadas.
+6. Agravo Interno não provido. (AgInt no RMS 65.606/BA, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 06/04/2021).
+No mesmo sentido, as seguintes decisões monocráticas: RMS n. 65.985/PE, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 21/5/2021; e RMS n. 65.780/PE, rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 25/ 5/2021).
+Ante o exposto, com arrimo no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do recurso ordinário.
+Custas ex lege. Sem condenação ao pagamento de honorários advocatícios, nos termos da Súmula 105 do STJ.
+Publique-se. Intimem-se.
+EMENTA
