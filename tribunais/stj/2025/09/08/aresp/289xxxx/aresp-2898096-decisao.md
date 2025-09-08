@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED CAMPINAS COOPERAT IVA DE TRABALHO MÉDICO contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 83 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso não merece ser conhecido e provido, pois confronta o disposto nas Súmulas n. 5 e 7 do STJ, uma vez que a questão remete à reapreciação de matéria fático-probatória e de cláusula contratual, além de não haver fundamento para interposição pela alínea "a" do art. 105 da CF (fls. 317-324).
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de obrigação de fazer c/c pedido de tutela provisória de urgência.
+O julgado foi assim ementado (fls. 255-261):
+Apelação - plano de saúde - ação de obrigação de fazer - paciente diagnosticado com câncer de fígado. Prescrição médica para os medicamentos Tecentriq e Avastin. Recusa de cobertura. Sentença que julgou procedente a ação. Insurgência da ré. Desacolhimento. Doença não excluída do contrato. Drogas prescritas por profissional habilitado e que visa ao tratamento da grave patologia do autor. Recusa abusiva, pois coloca o consumidor em desvantagem exagerada. Rol da ANS meramente exemplificativo. Advento da Lei nº14.454/2022. Ambos os medicamentos aprovados para o tratamento do câncer. Aplicabilidade, ademais, da Súmula nº 102 deste Tribunal. Sentença mantida. Honorários sucumbenciais elevados (artigo 85, §11, do CPC). Recurso desprovido.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 283-287):
+Embargos de declaração - alegação de contradição do acórdão recorrido - ausente vício - mesmo os embargos de declaração opostos com a finalidade de prequestionamento devem observar o estabelecido no art. 1.022 do CPC - acórdão recorrido mantido - embargos de declaração rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 10, I, da Lei n. 9.656/1998, porque o acórdão recorrido contrariou a legislação ao entender que a prescrição médica é suficiente para cobertura de medicamento de uso off-label; e
+b) 54, § 4º, do CDC, pois o acórdão violou o dispositivo ao não reconhecer a validade da cláusula contratual que limita a cobertura de medicamentos off-label.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, julgando-se a lide totalmente improcedente.
+Nas contrarrazões, a parte recorrida aduz que o recurso não merece ser conhecido e provido, pois confronta o disposto nas Súmulas n. 5 e 7 do STJ (fls. 291-298).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer c/c pedido de tutela provisória de urgência em que a parte autora pleiteou a cobertura de tratamento oncológico com os medicamentos Tecentriq (atezolizumab) e Avastin (bevacizumab), conforme prescrição médica, até alta definitiva, com valor da causa de R$ 51.589,20.
+Na sentença, o Juízo de primeiro grau julgou procedente o pedido, confirmando os efeitos da tutela provisória anteriormente concedida, e condenou a requerida ao pagamento de custas, despesas processuais e honorários advocatícios, arbitrados em 10% do valor da causa.
+A Corte estadual manteve integralmente a sentença.
+I - Arts. 10, I, da Lei n. 9.656/1998 e 54, § 4º, do CDC
+No recurso especial, a parte recorrente alega que o acórdão recorrido violou o art. 10, I, da Lei n. 9.656/1998, ao determinar a cobertura de medicamentos off-label, contrariando a exclusão contratual e a legislação vigente.
+O acórdão recorrido concluiu que a negativa de cobertura para os medicamentos Tecentriq e Avastin, prescritos para tratamento de câncer, é abusiva, pois coloca o consumidor em desvantagem exagerada, sendo irrelevante a natureza experimental ou a ausência de previsão no rol da ANS.
+A jurisprudência desta Corte é no sentido de que é abusiva a recusa da operadora do plano de saúde de custear medicamento registrado na Anvisa e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label ou de caráter experimental, para o tratamento do câncer.
+Nesse mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO ANTINEOPLÁSICO - TRATAMENTO DE DOENÇA ONCOLÓGICA - USO OFF-LABEL - RECUSA INDEVIDA - ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - INCIDÊNCIA DA SÚMULA 83/STJ - DELIBERAÇÃO DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O APELO RECURSAL - INSURGÊNCIA DO PLANO DE SAÚDE.
+1. A teor da orientação jurisprudencial desta Corte Superior, considera-se abusiva a negativa, pela operadora de plano de saúde, de cobertura de medicamento antineoplásico oral indicado por médico assistente para o tratamento contra o câncer. Precedentes.
+2. Agravo interno desprovido. (AgInt nos EAREsp n. 2.720.317/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 15/4/2025, DJEN de 25/4/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. MEDICAMENTO. NEGATIVA DE COBERTURA. TRATAMENTO DE CÂNCER. CUSTEIO. OBRIGATORIEDADE. ROL DA ANS. NATUREZA. IRRELEVÂNCIA. SÚMULA 568 DO STJ.
+1. Discute-se nos autos acerca da obrigatoriedade de custeio do medicamento Nexavar  (Sorafenibe), cuja prescrição médica não se amolda às Diretrizes de Utilização da ANS, indicado ao beneficiário diagnosticado com leucemia mielóide aguda.
+2. Configura-se obrigatório o custeio de medicamentos para o tratamento de câncer pelos planos de saúde, sendo irrelevante a discussão a respeito da natureza taxativa ou exemplificativa do rol da ANS, de modo que se figura abusiva a mera recusa em custear a cobertura de medicamento prescrito pelo médico, ainda que em caráter experimental ou off-label. Precedentes do STJ.
+3. Agravo interno não provido. (AgInt no REsp n. 2.174.344/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Ademais, é oportuno destacar que o entendimento do STJ é no sentido de que as operadoras de plano de saúde têm o dever de cobertura de fármacos antineoplásicos, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS (AgInt no AREsp n. 1.969.497/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023; AgInt no REsp n. 2.004.990/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023; AgInt no REsp n. 2.036.691/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023).
+Assim, ao decidir ser devida a cobertura de medicamento para tratamento de câncer, ainda que de uso domiciliar, independente do caráter taxativo ou exemplificativo do rol da ANS, está em sintonia com a jurisprudência desta Corte sendo caso, pois, de aplicação da Súmula n. 83 do STJ.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
