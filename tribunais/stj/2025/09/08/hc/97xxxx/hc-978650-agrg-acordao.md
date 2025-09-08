@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. RECONHECIMENTO FOTOGRÁFICO. FORMALIDADES LEGAIS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado, fundamentando-se na orientação de não admitir habeas corpus em substituição a recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o reconhecimento fotográfico realizado em sede policial, sem observância das formalidades do art. 226 do CPP e não corroborado em juízo, pode fundamentar a condenação.
+III. Razões de decidir
+3. O Tribunal de origem fundamentou a decisão com base em acervo probatório que não se limitou ao reconhecimento fotográfico, incluindo depoimentos colhidos sob o crivo do contraditório.
+4. A desconstituição do julgado demandaria exame aprofundado do acervo fático-probatório, providência inadmissível na via estreita do habeas corpus.
+5. Não se constatou flagrante ilegalidade que justificasse a concessão da ordem de ofício.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento:
+1. O reconhecimento fotográfico realizado sem observância das formalidades do art. 226 do CPP não pode, por si só, fundamentar condenação, devendo ser corroborado por outras provas.
+Dispositivos relevantes citados: CPP, arts. 155 e 226.
+Jurisprudência relevante citada: STJ, HC 598.886, Rel. Min. Rogério Schietti Cruz, DJe de 18/12/2020; AgRg no HC 603.606/RS, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 25/8/2020, DJe de 9/9/2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado. A decisão recorrida fundamentou-se na orientação da Terceira Seção do Superior Tribunal de Justiça, que, seguindo entendimento da Primeira Turma do Supremo Tribunal Federal, sedimentou a orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal (e-STJ fls. 175-181).
+O agravante alega erro de distribuição do habeas corpus, afirmando que o ministro prevento seria o Ministro Og Fernandes, e não a Ministra Daniela Teixeira. Além disso, sustenta a ilicitude do procedimento de reconhecimento de pessoa realizado em sede policial, que não foi corroborado em juízo, violando o artigo 226 do Código de Processo Penal. Argumenta que a condenação se baseou em provas que não foram judicializadas, ferindo o disposto no artigo 155 do CPP, pois o paciente foi condenado com base exclusivamente em elementos colhidos na fase investigativa, sem confirmação em juízo.
+Destaca que o reconhecimento realizado por intermédio de fotografia não observou as formalidades legais e que nenhuma das vítimas reconheceu o paciente em sede judicial. Ademais, afirma que as declarações dos agentes da lei não merecem credibilidade, pois foram baseadas em depoimentos obtidos sob coação, que não foram confirmados em juízo.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma, a fim de que seja reconhecido o erro de distribuição do habeas corpus e, caso não seja esse o entendimento, que a decisão monocrática agravada seja reformada ante a constatação de flagrante ilegalidade, decorrente do reconhecimento realizado em sede policial, que não foi corroborado em juízo, e que não respeitou as formalidades obrigatórias do artigo 226 do CPP. Ademais, requer o reconhecimento de que a decisão foi fundamentada exclusivamente nos elementos colhidos na investigação, desrespeitando o artigo 155 do CPP (e-STJ fls. 186-201.
+O Ministério Público do Estado do Rio de Janeiro, em suas contrarrazões às fls. 209-216, sustenta que o habeas corpus não deve ser conhecido, pois foi utilizado como substituto de recurso próprio, o que contraria a competência constitucional do Superior Tribunal de Justiça. Argumenta que o reconhecimento fotográfico, embora não tenha sido o único elemento de prova, foi acompanhado de outros indícios suficientes para a condenação, conforme consignado pela instância de origem.
+Ressalta que a jurisprudência do STF admite o reconhecimento fotográfico como prova, mesmo sem observância das formalidades do artigo 226 do CPP, desde que amparado por outros elementos probatórios. Por fim, conclui que não há flagrante ilegalidade ou abuso de poder que justifique a concessão da ordem de ofício, pedindo o desprovimento do agravo e a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. RECONHECIMENTO FOTOGRÁFICO. FORMALIDADES LEGAIS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado, fundamentando-se na orientação de não admitir habeas corpus em substituição a recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o reconhecimento fotográfico realizado em sede policial, sem observância das formalidades do art. 226 do CPP e não corroborado em juízo, pode fundamentar a condenação.
+III. Razões de decidir
+3. O Tribunal de origem fundamentou a decisão com base em acervo probatório que não se limitou ao reconhecimento fotográfico, incluindo depoimentos colhidos sob o crivo do contraditório.
+4. A desconstituição do julgado demandaria exame aprofundado do acervo fático-probatório, providência inadmissível na via estreita do habeas corpus.
+5. Não se constatou flagrante ilegalidade que justificasse a concessão da ordem de ofício.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento:
+1. O reconhecimento fotográfico realizado sem observância das formalidades do art. 226 do CPP não pode, por si só, fundamentar condenação, devendo ser corroborado por outras provas.
+Dispositivos relevantes citados: CPP, arts. 155 e 226.
+Jurisprudência relevante citada: STJ, HC 598.886, Rel. Min. Rogério Schietti Cruz, DJe de 18/12/2020; AgRg no HC 603.606/RS, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 25/8/2020, DJe de 9/9/2020.
+VOTO
+Com efeito, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pelo agravante foram analisados de forma devidamente fundamentada.
+A decisão agravada está assim fundamentada (e-STJ fls. 175-181):
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+(..)
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Sobre os pontos alegados, assim se manifestou a Corte de origem ao analisar a revisão criminal (e-STJ, fls. 34-38):
+Entrementes, a pretensão absolutória não merece ser acolhida.
+
+Entretanto, conforme esposado alhures, para que seja possível a reconsideração do que restou decidido sob o manto da coisa julgada deve ocorrer no caso concreto uma das situações previstas no art. 621 do Código de Processo Penal susotranscrito, revelando-se, diante de tal ausência, ilícita a substituição do livre convencimento motivado de um órgão julgador.
+Cotejando a sentença e o v. acórdão objurgados, conclui que a condenação não foi contrária à evidência dos autos.
+Em ambas as decisões, apesar de trazido à baila o reconhecimento fotográfico realizado durante o procedimento administrativo, foram enfatizadas, como prova determinante do convencimento acerca da prática delitiva imputada, as oitivas angariadas sob o crivo do contraditório, através das quais foi possível identificar o ora requerente como um dos envolvidos.
+Assim, mesmo que sob o crivo do contraditório, o filho de da vítima não tenha logrado êxito na identificação do ora requerente, há de convir que entre a data dos fatos e colheita de tal prova houve lapso superior a 02 anos, sendo naturalmente compreensível a falibilidade de sua memória.
+De qualquer modo, friso que o ato realizado na fase pre-processual, a despeito de não servir como lastro probatório, diante das formalidades impostas pelo art. 226 do CPP, em nada prejudica o decreto condenatório.
+Como cediço, o STJ reviu seu posicionamento para assentar que a identificação do autor feito em inobservância aos ditames legais insculpidos na norma processual não é meio idôneo de prova (vide HC n.598.886, Rel. Min. Rogério Schietti Cruz, D Je. de 18/12/2020). No entanto, a própria Corte Cidadã já reconheceu que há hipóteses nas quais se admite excepcionar o posicionamento encampado por ambas as Turmas, justamente porque, como ocorre no caso dos autos, não há subsunção do caso posto a julgo ao aresto paradigma.
+
+Com efeito, verifico que o lesado, José Zeno, também não pode proceder a identificação dos autores, quer na delegacia, quer em juízo, pois, segundo por ele explicado, seus olhos ficaram vendados durante todo o sequestro, que perdurou cerca de 04 meses. A vítima, todavia, pode esclarecer que neste interregno foi vigiada por várias pessoas, identificando-as pela voz e nível cultural, ressaltando que, no último local de cativeiro, esteve acompanhado de um casal com filhos.
+Durante as investigações algumas pessoas figuraram como suspeitas, tal como ressaltado pelo causídico, dentre elas Ana Cristina e seu companheiro Carlos Alberto, que foram os responsáveis por alugar o referido imóvel onde foi achado José Zeno.
+Em sede distrital, ambos admitiram a participação, assim como revelaram o organograma da quadrilha, que contava com o requerente como um de seus integrantes. Ana Cristina salientou, inclusive, que Claudio foi um dos mentores do delito.
+Em juízo, Carlos Alberto confirmou a autoria, aduzindo que também participaram do ilícito os corréus Jorge Silveira e Paulo Possino, estes também réus confessos. Entretanto, nesta oportunidade, negou o envolvimento da companheira, o que, data máxima vênia, foi infrutífero, especialmente diante do relato da vítima acerca da voz feminina.
+Ana Cristina, ao seu turno, negou o teor da declaração prestada na DAS. Porém, consoante esposado pelo magistrado de piso, a versão de que foi ameaçada para assinar o termo de depoimento imputando aos codenunciados a prática delitiva é totalmente descabida, já que ela emitiu seu relato devidamente acompanhada de um advogado. Assim, quando inquirida em juízo, a alegação de que apenas alugou imóvel para morar com Carlos Alberto e os filhos, desconhecendo o fato de o local ter sido utilizado com cativeiro, é deveras incrível.
+A sua retratação não teve o condão de retirar a credibilidade do trabalho investigativo. Conforme esclarecido em audiência, o seu relato contribuiu para desvendamento do caso.
+Nessa toada, os depoimentos dos agentes, sob o crivo do contraditório, corroboraram o apurado na fase pre-processual, não havendo qualquer dado concreto que evidenciasse intenção inescrupulosa de acusar indevidamente o requerente, mas apenas meras alegações infundadas apresentadas pelo mesmo em seu interrogatório.
+Nesse panorama, o art. 155 do CPP restou observado, porquanto o convencimento do julgador monocrático e da C. Segunda Câmara Criminal não foi exclusivamente obtido através de elementos probantes coligidos na inquisa.
+Nesse diapasão, o crime de quadrilha também restou configurado. O acórdão objurgado bem enfatizou que a associação entre os acusados foi demonstrada pela prova oral, através da qual restou nítido que o requerente e seus comparsas criaram uma verdadeira "empresa do crime", que agia de forma permanente, objetivando a prática de sequestros e outros crimes, existindo uma divisão nítida de tarefas, e hierarquia bem definida.
+Nesse aspecto, consigno que cada um dos envolvidos assumiram uma função com escopo de obter o sucesso da empreitada: enquanto uns ficaram responsáveis por arquitetar o crime; outros arrebataram a vítima; outros ficaram na vigilância do cativeiro; outros entravam em contato com os familiares dela para exigir o resgate. Ademais, constato que José Zeno ficou parte dos dias em cativeiro ao lado de uma segunda vítima, Eduardo Eugênio. Tais circunstâncias denotaram a existência de um vínculo estável e permanente entre os membros do bando.
+Portanto, apesar da recalcitrância defensiva, entendo não houve qualquer vício que inquine a validade da condenação, tendo sido angariadas provas idôneas. (..)
+Não se olvida que esta Corte, a partir do paradigmático julgamento do habeas corpus n. 598.886/SC, da relatoria do Ministro Rogério Schietti Cruz, firmou o entendimento no sentido de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art.226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa".
+Em atenção ao referido precedente, ambas as turmas que integram a Terceira Seção desta Corte têm proferido decisões que endossam tal entendimento.
+Ocorre, todavia, que no caso dos autos, verifica-se que o Tribunal de origem, fundamentou suficientemente a decisão com base no acervo probatório que instrui os autos.
+Ademais, colhe-se do julgado impugnado que a condenação não se baseou exclusivamente em elementos probantes colhidos na fase inquisitorial.
+Por fim, mas não menos importante, importa salientar que a desconstituição do julgado demandaria o exame aprofundado do acervo fático- probatório, providência, como é sabido, inadmissível na via estreita do habeas corpus.
+O presente agravo regimental deixa de justificar-se.
+Conforme a orientação jurisprudencial consolidada desta Corte Superior, o habeas corpus não pode ser utilizado como sucedâneo de recurso próprio ou de revisão criminal, salvo em situações excepcionais de manifesta e flagrante ilegalidade, o que não se verifica na hipótese.
+A alegação de erro na distribuição por prevenção, por si só, não configura constrangimento ilegal a ser sanado pela via do writ, tratando-se de questão de índole procedimental interna que não macula a validade da decisão que inadmitiu a impetração com fundamento em sua inadequação por força da previsão no art. 71, §4º, do RISTJ.
+Ademais, nos termos da Súmula n. 706 do STF, "é relativa a nulidade decorrente da inobservância da competência penal por prevenção", o que reforça a correção da manutenção
+No mérito, a defesa sustenta a nulidade do reconhecimento fotográfico e a ausência de provas judicializadas a amparar a condenação, em ofensa aos arts. 226 e 155 do Código de Processo Penal. Contudo, da leitura do acórdão que julgou a revisão criminal na origem, transcrito na decisão agravada, extrai-se que a condenação do paciente não se fundamentou exclusivamente no reconhecimento realizado em sede policial.
+O Tribunal de origem foi claro ao assentar que, para além do reconhecimento extrajudicial, a convicção sobre a autoria delitiva foi formada com base em outras provas produzidas sob o crivo do contraditório. Especificamente, destacou-se a relevância dos depoimentos dos agentes policiais colhidos em juízo, os quais corroboraram os elementos apurados na fase pré-processual.
+Ademais, o acórdão de origem ressaltou que a delação de corréus na fase investigativa, embora parcialmente retratada em juízo por um deles, serviu de fio condutor para a investigação e encontrou respaldo em outros elementos, como o testemunho da vítima acerca da dinâmica do crime. A Corte estadual concluiu, de forma fundamentada, que o art. 155 do Código de Processo Penal foi devidamente observado, uma vez que o decreto condenatório não se lastreou unicamente em provas informativas.
+Nesse contexto, para se acolher a tese defensiva e concluir de modo diverso, seria imprescindível o reexame aprofundado do acervo fático-probatório, providência incompatível com os estreitos limites do habeas corpus. Não se constatando, portanto, a flagrante ilegalidade apontada, a manutenção da decisão monocrática que não conheceu do writ é medida que se impõe.
+Por isso, conclui-se que o recurso deixa de apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado. Em suma, a decisão agravada deve ser mantida por seus próprios fundamentos, razão pela qual nego provimento ao agravo regimental.
+É o voto.
