@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COLETIVA. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. AFASTAMENTO. TEMA 1.076/STJ. INCIDÊNCIA.
+1. Cinge-se a controvérsia à fixação de honorários sucumbenciais em liquidação de sentença coletiva, questionando-se a adoção de valor arbitrado por equidade em detrimento da aplicação do percentual legal de 10% a 20%, conforme previsto no art. 85, § 2º, do Código de Processo Civil, incidente sobre o montante dos cálculos homologados.
+2. Nos termos da jurisprudência pacífica desta Corte, é cabível a condenação em honorários advocatícios em liquidação de sentença apenas em casos excepcionais quando configurada a litigiosidade entre as partes.
+3. "(..) sendo mensurável, ainda que somente em liquidação, os honorários sucumbenciais devem ser fixados com base no valor da condenação ou do proveito econômico obtido pela parte vencedora."(AgInt nos EDcl no AREsp n. 2.208.042/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 26/6/2024.)
+4. A Corte Especial do Superior Tribunal de Justiça, no julgamento dos recursos especiais repetitivos vinculados ao Tema 1.076, decidiu que a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+Recurso especial provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por EMERSON FITTIPALDI, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa ao cabimento de honorários advocatícios em liquidação de sentença.
+O julgado deu parcial provimento ao agravo de instrumento da parte recorrente nos termos da seguinte ementa (fl. 84):
+AGRAVO DE INSTRUMENTO - PRODUTOR RURAL - LIQUIDAÇÃO DE TÍTULO JUDICIAL - LAUDO - HOMOLOGAÇÃO - VERBAHONORÁRIA ACOPLADA AO ART. 523 DO CPC - RECURSO - HONORÁRIOS DEVIDOS - NEXO CAUSAL - EXECUTADA QUE NÃO SE LIMITOU AO RECONHECIMENTO DO PEDIDO - TRABALHO PROFISSIONAL REMUNERADO - DISTANCIAMENTO ENTRE O VALOR DA EXECUÇÃO E O DA APURAÇÃO - HONORÁRIOS FIXADOS EM R$ 10.000,00- ART. 85, § DO CPC - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos pela parte recorrente não foram conhecidos (fls. 94-98).
+No presente recurso especial, o recorrente busca, em síntese, a correta aplicação do artigo 85, § 2º, do Código de Processo Civil, no que diz respeito à fixação da verba honorária sucumbencial em processo de liquidação de sentença decorrente de ação coletiva.
+Sustenta, de um lado, a legitimidade da condenação do banco recorrido ao pagamento de honorários advocatícios já na fase de liquidação, diante do caráter contencioso do processo e da efetiva atuação dos patronos na apuração do quantum debeatur, e, de outro, a necessidade de observância dos critérios legais para a fixação da verba, com base no valor do proveito econômico obtido, devidamente homologado em R$ 931.431,47, e não em valor fixo desvinculado desse parâmetro.
+Alega ofensa ao art. 85, § 2º, do CPC, ao fixar o valor dos honorários sucumbenciais em R$ 10.000,00 com base no critério da equidade.
+Argumenta que "está mais do que claro a mensuração exata da condenação e da vantagem econômica auferida com a presente ação, de forma que a condenação da verba honorária sucumbencial dever ser fixada em no mínimo 10% até 20% do valor homologado devido pelo banco em favor do recorrente, e não por equidade, cabível somente nos casos de não ser possível qualquer mensuração" (fl. 113).
+Aponta dissídio jurisprudencial com julgado do STJ.
+Apresentadas as contrarrazões (fls. 146-167), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 168-169).
+O Ministro Paulo de Tarso Sanseverino determinou a devolução dos autos à origem para aguardar o julgamento do recurso repetitivo (Tema 1.076) (fls. 241-242).
+Em sede de juízo de retratação, o TJSP manteve o acórdão recorrido, fundamentando sua decisão no argumento de que a hipótese dos autos não se enquadra no Tema n. 1.076 do STJ. Eis a ementa do julgado (fl. 295):
+REEXAME - ARTIGO 1.030, INCISO II, DO CPC - DEVOLUÇÃO PARA APLICAÇÃO DA SISTEMÁTICA DOS RECURSOS REPETITIVOS - TEMA 1.076 - DISTINGUISHING - PRÉVIA LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA - AN DEBEATUR E QUID DEBEATUR DEFINIDOS NA AÇÃO CIVIL PÚBLICA - PROCEDIMENTO QUE VISA AFERIR SE A PARTE AUTORA É DESTINATÁRIA DA SENTENÇA COLETIVA (CUI DEBEATUR) E QUAL A EXTENSÃO DA REPARAÇÃO (QUANTUM DEBEATUR) - NÃO SUBSUNÇÃO DO CASO À TESE FIRMADA NO STJ - MERA DECISÃO HOMOLOGATÓRIA DO JUÍZO A QUO - DESCABIMENTO DE FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS, OS QUAIS PODERÃO INCIDIR, EVENTUALMENTE, NO CUMPRIMENTO DE SENTENÇA, APÓS DECORRIDO O PRAZO PARA PAGAMENTO - ACÓRDÃO MANTIDO - REEXAME REJEITADO.
+Novo juízo de admissibilidade positivo às fls. 303-305.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COLETIVA. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. AFASTAMENTO. TEMA 1.076/STJ. INCIDÊNCIA.
+1. Cinge-se a controvérsia à fixação de honorários sucumbenciais em liquidação de sentença coletiva, questionando-se a adoção de valor arbitrado por equidade em detrimento da aplicação do percentual legal de 10% a 20%, conforme previsto no art. 85, § 2º, do Código de Processo Civil, incidente sobre o montante dos cálculos homologados.
+2. Nos termos da jurisprudência pacífica desta Corte, é cabível a condenação em honorários advocatícios em liquidação de sentença apenas em casos excepcionais quando configurada a litigiosidade entre as partes.
+3. "(..) sendo mensurável, ainda que somente em liquidação, os honorários sucumbenciais devem ser fixados com base no valor da condenação ou do proveito econômico obtido pela parte vencedora."(AgInt nos EDcl no AREsp n. 2.208.042/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 26/6/2024.)
+4. A Corte Especial do Superior Tribunal de Justiça, no julgamento dos recursos especiais repetitivos vinculados ao Tema 1.076, decidiu que a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+Recurso especial provido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso tem êxito.
+Cinge-se a controvérsia à fixação dos honorários advocatícios sucumbenciais em processo de liquidação de sentença coletiva movido contra o Banco do Brasil S.A. O recorrente alega que o TJSP fixou os honorários em R$ 10.000,00, valor considerado irrisório, contrariando o disposto no artigo 85, § 2º, do Código de Processo Civil, que determina que os honorários devem ser fixados entre 10% e 20% sobre o valor da condenação ou do proveito econômico obtido.
+Inicialmente, nos termos da jurisprudência desta Corte Superior, é cabível a condenação em honorários advocatícios em liquidação de sentença apenas em casos excepcionais quando configurada a litigiosidade entre as partes. A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. LITIGIOSIDADE COMPROVADA. MAJORAÇÃO DA VERBA ESTABELECIDA NA SENTENÇA NO PROCESSO DE CONHECIMENTO.
+1. Nos termos da jurisprudência pacífica desta Corte, é cabível a condenação em honorários advocatícios em liquidação de sentença apenas em casos excepcionais quando configurada uma litigiosidade entre as partes. Precedentes.
+2. A fixação dos honorários sucumbenciais da fase de liquidação deve se restringir à majoração dos honorários fixados na fase de conhecimento, porquanto a liquidação objetiva apenas completar o título executivo judicial e torná-lo líquido.
+Agravo interno improvido.
+(AgInt no REsp n. 2.039.909/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Na hipótese, o Tribunal de origem, ao analisar o agravo de instrumento, deu-lhe parcial provimento para fixar honorários advocatícios em R$ 10.000,00, em razão da contenciosidade da liquidação. Eis os termos do acórdão (fls. 85-86):
+Com razão, o credor promoveu a liquidação de título executivo judicial ponderando a necessidade da fixação de verba honorária, haja vista o trabalho profissional desempenhado e a resistência da casa bancária.
+Embora o juízo tenha cravado o artigo 523 do CPC, no caso presente existiu o efetivo trabalho profissional: recursos, laudo, impugnação, até a fase seguinte homologatória. E na teleologia das Súmulas 517 e 519 do Superior Tribunal de Justiça, não se justifica relegar para a fase seguinte a matéria da fixação da honorária do profissional.
+Ademais, a instituição financeira nem ao menos realizou o depósito do valor incontroverso, juntando somente slips que, por força de decisão superior, encaminhou o procedimento para apuração do valor devido mediante perícia técnica.
+Nessa perspectiva, portanto, a fixação deverá obedecer aos critérios do artigo 85, § 2º e seus incisos, do CPC, considerando que fora conferido valor da causa irrisório diante daquele apurado e homologado pelo juízo.
+Nesse diapasão, pois, fixa-se a soma de R$ 10.000,00, ao qual se incorpora ao capítulo da sentença homologatória.  grifou-se
+Embora o Tribunal de Justiça de São Paulo tenha reconhecido a litigiosidade e o direito aos honorários na fase de liquidação, fixou-os em R$ 10.000,00, desconsiderando o montante efetivamente apurado e homologado. Para o recorrente, tal decisão viola diretamente o art. 85, § 2º, do CPC, que impõe a fixação da verba entre 10% e 20% sobre o valor da condenação ou do proveito econômico apurado em liquidação de sentença de R$ 931.431,47.
+Com efeito, o acórdão recorrido está contrário ao entendimento desta Corte Superior, segundo o qual, tratando-se de verba mensurável, ainda que apenas em sede de liquidação, os honorários sucumbenciais devem ser fixados com fundamento no valor da condenação ou no proveito econômico efetivamente auferido pela parte vencedora. A propósito, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. ORDEM DE PREFERÊNCIA. VALOR DA CONDENAÇÃO. INEXISTÊNCIA DE PARTICULARIDADES APTAS A AFASTAR O ENTENDIMENTO DO STJ SOBRE O TEMA. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento alcançado pela origem não está ajustado à jurisprudência deste Tribunal, porquanto, atentando-se à ordem de preferência estabelecida em precedente da Segunda Seção do STJ, a verba honorária deve ser fixada com base no valor da condenação, inexistindo particularidades a ensejarem a adoção de outra base de cálculo.
+2. Registre-se, ainda, que esta Casa já decidiu que, sendo mensurável, ainda que somente em liquidação, os honorários sucumbenciais devem ser fixados com base no valor da condenação ou do proveito econômico obtido pela parte vencedora.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.208.042/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)  grifou-se
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos recursos especiais repetitivos vinculados ao Tema 1.076, decidiu que a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados.
+Eis as teses fixadas:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo. ..  (REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, DJe de 31/5/2022.)
+No caso, entendo não ser cabível a fixação de honorários por equidade, uma vez que o valor da condenação é o mesmo que foi homologado judicialmente na liquidação da sentença coletiva.
+Ante o exposto, dou provimento ao recurso especial para fixar os honorários sucumbenciais em 10% sobre o valor da condenação.
+É como penso. É como voto.
