@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interno no qual se discute se a notificação prévia ao consumidor por meios eletrônicos de comunicação - com a finalidade de informar abertura de cadastro, ficha, registro e dados pessoais e de consumo - realizada pelos referidos bancos e cadastros ou por serviços de proteção ao crédito e congêneres atende ao dever de comunicação por escrito para validade jurídica de comprovação da exigência do art. 43, § 2º, do CDC.
+A questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema n. 1315), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+A propósito, cito a ementa da proposta de afetação:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS REPETITIVOS. ARTS. 1.036 E SEGUINTES DO CPC. DIREITO DO CONSUMIDOR. PRÁTICAS COMERCIAIS. BANCOS DE DADOS E CADASTROS. NOTIFICAÇÃO PRÉVIA DE REGISTRO. FORMA DE COMUNICAÇÃO. MEIOS ELETRÔNICOS. VALIDADE.
+1. Delimitação da controvérsia: Definir se, em matéria de direitos do consumidor aplicáveis às práticas comerciais específicas dos bancos de dados e cadastros de consumidores, a notificação prévia ao consumidor por meios eletrônicos de comunicação - com finalidade de informar abertura de cadastro, ficha, registro e dados pessoais e de consumo - realizadas pelos referidos bancos e cadastros ou por serviços de proteção ao crédito e congêneres atende ao dever de comunicação por escrito, para fins de validade jurídica de comprovação da exigência do art. 43, § 2º, do CDC.
+2. Afetação do recurso especial ao rito dos arts. 1.036 e ss. do CPC.
+(ProAfR no REsp n. 2.171.177/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/3/2025, DJEN de 21/3/2025.)
+Ante o exposto, torno sem efeito a decisão de fls. 648-652 e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Tema n. 1. 315 pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Prejudicado o agravo interno de fls. 655-663.
+P ublique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS MÉDICAS FORA DA REDE CREDENCIADA. HIPÓTESES E EXTENSÃO. TEMA AFETADO PARA JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. TEMA 1.375/STJ. DECISÃO TORNADA SEM EFEITOS. AGRAVO INTERNO PREJUDICADO. DEVOLUÇÃO DOS AUTOS À ORI GEM. SOBRESTAMENTO.
