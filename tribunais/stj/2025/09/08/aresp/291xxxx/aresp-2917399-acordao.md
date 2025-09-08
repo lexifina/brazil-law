@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE LENTES PARA A REALIZAÇÃO DE CIRURGIA DE CATARATA. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DA TERCEIRA TURMA. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não há falar em omissão ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+3. No caso, o Tribunal estadual consignou que o tratamento requerido pela autora consta no rol de cobertura obrigatória da ANS. Nesse contexto, a alteração das conclusões adotadas pela Corte estadual quanto ao ponto demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula n. 7 do STJ.
+4. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por UNIMED - COOPERATIVA DE SERVICOS DE SAUDE DOS VALES DO TAQUARI E RIO PARDO LTDA. (UNIMED) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. AÇÃO DE COBRANÇA. REEMBOLSO DE DESPESAS COM PROCEDIMENTO CIRÚRGICO PARA IMPLANTAÇÃO DE LENTES INTRAOCULARES. PLANO NÃO REGULAMENTADO. NEGATIVA DE COBERTURA. ABUSIVIDADE VERIFICADA. NULIDADE DA CLÁUSULA QUE EXPRESSAMENTE EXCLUI A COBERTURA. AUSÊNCIA DE JUSTIFICATIVA RAZOÁVEL PARA A EXCLUSÃO, MORMENTE NO CASO EM APREÇO EM QUE HÁ COBERTURA PARA CIRURGIAS OFTALMOLÓGICAS. DANO MORAL NÃO EVIDENCIADO. SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA.
+APELAÇÕES DESPROVIDAS (e-STJ, fl. 271).
+Os embargos de declaração opostos por UNIMED foram rejeitados.
+No presente inconformismo, UNIMED alegou a violação dos arts. 1.022 do CPC; 6º, III, 54, § 4º, do CDC; e 181, I, 421, 422, 423, 757 do CC, ao sustentar, em síntese, (1) negativa de prestação jurisdicional; (2) que o fornecimento de lentes intraoculares importadas não encontra amparo no plano de saúde firmado entre as partes, tampouco no rol de procedimentos da ANS.
+Não houve contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE LENTES PARA A REALIZAÇÃO DE CIRURGIA DE CATARATA. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DA TERCEIRA TURMA. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não há falar em omissão ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+3. No caso, o Tribunal estadual consignou que o tratamento requerido pela autora consta no rol de cobertura obrigatória da ANS. Nesse contexto, a alteração das conclusões adotadas pela Corte estadual quanto ao ponto demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula n. 7 do STJ.
+4. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+(1) Da ausência de violação do art. 1.022 do CPC
+Ao que se tem dos autos, o TJSP se pronunciou sobre os temas consignando que as lentes intraoculares solicitadas são destinadas a procedimento cirúrgico e constam no rol de cobertura obrigatória da ANS.
+A propósito, confira-se:
+A controvérsia objeto da lide está adstrita à (in)existência do dever da operadora de plano de saúde demandada cobrir, mediante ressarcimento do valor desembolsado, o procedimento cirúrgico a que se submeteu o autor - implantação de lente intraocular em cirurgia de catarata. A partir daí, apurar se a negativa de cobertura levada a efeito configura dano moral passível de indenização.
+A ação foi julgada parcialmente procedente, reconhecida a nulidade da cláusula contratual que prevê a exclusão de cobertura do procedimento em tela, porquanto coloca o consumidor em vantagem exagerada. De outra banda, considerado que a negativa na hipótese não teve o condão de macular os atributos de personalidade da parte autora.
+Em que pese os argumentos dos apelantes, estou confirmando o julgamento lançado na origem por entender adequado ao caso.
+No caso, a parte autora necessitou realizar procedimento cirúrgico para implantação de lentes intraoculares para tratamento de catarata.
+Na via administrativa, a negativa de cobertura se deu pela ausência de previsão contratual, considerando que plano mantido entre as partes foi firmado em 01/03/1996, tratando-se, portanto, de plano não regulamentado.
+Nestes casos, em se tratando de pacto firmado anteriormente à vigência da Lei n.º 9.656/1998, e não adaptado a tal legislação, aplicam-se os ditames previstos no contrato e as normas do CDC, nos termos da Súmula 608 do Superior Tribunal de Justiça:
+Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão.
+Assim, incidem no caso em liça as normas protetivas do microssistema, mormente aquelas estabelecidas nos arts. 6º, III, 47 e 54, §4º, segundo as quais é direito básico do consumidor a informação adequada e clara sobre os produtos e serviços contratados, devendo as cláusulas contratuais serem interpretadas da maneira mais favorável à parte hipossuficiente e redigidas em destaque aquelas que acarretarem limitação de direitos.
+ ..
+Deve ser garantida ao consumidor, como já mencionado, a mais ampla cobertura securitária, atendendo à função social do contrato securitário, empregando, ainda, interpretação mais favorável ao consumidor das cláusulas contratuais.
+Com efeito, não admitida as justificativa apresentada pela demandada para seu inadimplemento contratual, impõe-se reconhecer a abusividade da negativa de cobertura, acolhendo-se a pretensão de ressarcimento das quantias despendidas pela autora para adimplemento das lentes, cuja cobertura havia sido negada pela parte requerida.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022, I, DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 884 DO CC. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE PRETENDIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+1.1. "A contradição que rende ensejo à oposição de embargos de declaração é a interna ao julgado, caracterizada por proposições inconciliáveis entre si, que dificultam ou impedem a sua compreensão". (EDcl no AgInt no AREsp 1739322/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/11/2021, DJe 06/12/2021).
+2. Necessário salientar, ademais, que, na linha da jurisprudência dominante desta Corte, "não configura contradição afirmar a falta de prequestioname nto e afastar a alegação de afronta ao art. 535 do Código de Processo Civil, uma vez que é perfeitamente possível que a decisão se encontre devidamente fundamentada sem, no entanto, ter sido decidida a causa à luz dos preceitos jurídicos desejados pelo postulante, pois a tal não está obrigado o julgador". (REsp 1820164/ES, Rel. Ministro Herman Bejamin, Segunda Turma, julgado em 19/11/2019, DJe 19/12/2019).
+3. Se a alegada violação não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria, nos termos do art. 1.025 do CPC/2015.
+4. Agravo interno improvido.
+(AgInt no AREsp 1.774.607/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 23/2/2022 - sem destaque no original)
+Rejeito, portanto, a prefacial.
+(2) Do dever de cobertura
+Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o Colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de
+aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa e concluiu pela abusividade da negativa de cobertura do material requerido, considerando estar comprovado nos autos que o tratamento foi devidamente prescrito por médico como imprescindível para a parte autora.
+Assim, para se desconstituir as premissas firmadas no acórdão recorrido, seria necessário perquirir se haveria outro material eficaz para o tratamento da patologia que acomete a parte autora, ponderação que demandaria, inevitavelmente, o reexame do acervo fático-probatório dos autos, o que é obstado, em recurso especial, pelo enunciado da Súmula n. 7 do STJ.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ROL DE PROCEDIMENTOS DA ANS. RECUSA DE COBERTURA DE MEDICAMENTO. ESCLEROSE MÚLTIPLA. MEDICAMENTO QUE NÃO CONSTAVA DO ROL DA ANS. SITUAÇÃO EXCEPCIONAL APTA A AUTORIZAR O CUSTEIO DO TRATAMENTO. AGRAVO DESPROVIDO. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Colegiado estadual julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta negativa de cobertura ao tratamento médico solicitado, eis que o tratamento de saúde não era experimental, tendo sido apurado tecnicamente à luz de evidências científicas constantes do Laudo Médico Pericial que o tratamento era imprescindível e urgente. Portanto, qualquer alteração nesse quadro demandaria o reexame de todo o conjunto probatório, o que é vedado a esta Corte ante o óbice da Súmula n. 7 do STJ.
+2. Conforme entendimento desta Quarta Turma, firmado no julgamento do REsp 1.733.013/PR, o rol de procedimentos mínimos da ANS não pode ser visto como meramente exemplificativo, tampouco a cobertura do plano de saúde como ilimitada, não sendo correto afirmar ser abusiva a exclusão do custeio dos meios e dos materiais necessários ao tratamento indicado pelo médico assistente que não estejam no rol da ANS ou no conteúdo contratual.
+3. No presente caso, a necessidade de se custear medicamento não previsto, à época, no rol da ANS encontra-se justificada, devido ao fato de o beneficiário apresentar esclerose múltipla cujo tratamento com o
+medicamento Ocrelizumabe era adequado à garantia de sua sobrevivência, conforme apontado pelo Laudo Médico Pericial, devendo ser mantida a determinação das instâncias ordinárias de custeio do procedimento pelo plano de saúde.
+4. Inexistin do impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.919.402/SP, relator Ministro Luis Felipe Salomão,
+Quarta Turma, julgado em 28/6/2021, DJe de 1º/7/2021)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Inaplicável a majoração dos honorários recursais.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
