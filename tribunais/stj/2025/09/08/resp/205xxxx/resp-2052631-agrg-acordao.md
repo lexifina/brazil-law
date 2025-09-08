@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, dar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL. DETRAÇÃO PENAL. CÔMPUTO DO TEMPO DE PRISÃO PROVISÓRIA COMO PENA EFETIVAMENTE CUMPRIDA. APLICAÇÃO APÓS O CÁLCULO DA FRAÇÃO PARA PROGRESSÃO DE REGIME. PREVALÊNCIA DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que dera provimento a recurso especial do Ministério Público do Estado de Mato Grosso, o qual buscava alterar a forma de aplicação da detração penal definida pelo Tribunal de Justiça de Mato Grosso. A defesa sustenta que o tempo de prisão cautelar deve ser computado como pena efetivamente cumprida e considerado após o cálculo da fração necessária à progressão de regime.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir o momento adequado para aplicação da detração penal no âmbito da execução: (i) se deve ser abatida previamente do total da pena privativa de liberdade, antes do cálculo da fração necessária para progressão de regime, como defendido pelo Ministério Público; ou (ii) se deve ser considerada após o cálculo fracionário da progressão, como pena efetivamente cumprida, entendimento adotado pelo Juízo da execução e mantido pelo Tribunal de origem.
+III. RAZÕES DE DECIDIR
+3. O art. 42 do Código Penal determina que o tempo de prisão provisória deve ser computado como pena cumprida, o que afasta a possibilidade de sua mera dedução prévia do total da reprimenda, sob pena de incorrer em detração penal em dobro.
+4. A correta ordem de cálculo consiste em aplicar a fração exigida para progressão de regime sobre a pena total unificada e, em seguida, considerar o tempo de prisão provisória já cumprido como adimplemento parcial do requisito temporal.
+5. O Superior Tribunal de Justiça, em precedentes recentes, consolidou o entendimento de que a detração deve ocorrer após a incidência da fração sobre a pena total, sob pena de se impor ao apenado requisitos mais gravosos para progressão, em descompasso com o art. 42 do CP e o art. 66, III, "c", da LEP.
+6. No caso concreto, o Tribunal de origem corretamente concluiu que a aplicação da detração sobre o resultado do cálculo fracionário mostra-se mais benéfica ao reeducando e compatível com o princípio da legalidade e da efetividade da pena cumprida.
+IV. DISPOSITIVO
+7. Agravo regimental provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de PAULO HENRIQUE DE ALMEIDA contra a decisão monocrática que deu provimento ao recurso especial interposto pelo Ministério Público do estado de Mato Grosso contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Em suas razões, a defesa sustenta que a decisão monocrática outrora proferida não dever prosperar ao argumento de que a decisão do Tribunal de origem não destoa da jurisprudência desta Corte Superior, pois "o período de prisão cautelar deve ser computado como período de pena efetivamente cumprida, razão pela qual não se pode simplesmente descontá-lo da soma final da condenação, mas, ao revés, tal interregno deve ser considerado após o cálculo fracionário do período que o agravante necessita para obter o benefício da progressão prisional" (fl. 610).
+Requer a reconsideração da decisão agravada ou que o agravo seja submetido para exame pelo colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO REGIMENTAL. DETRAÇÃO PENAL. CÔMPUTO DO TEMPO DE PRISÃO PROVISÓRIA COMO PENA EFETIVAMENTE CUMPRIDA. APLICAÇÃO APÓS O CÁLCULO DA FRAÇÃO PARA PROGRESSÃO DE REGIME. PREVALÊNCIA DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que dera provimento a recurso especial do Ministério Público do Estado de Mato Grosso, o qual buscava alterar a forma de aplicação da detração penal definida pelo Tribunal de Justiça de Mato Grosso. A defesa sustenta que o tempo de prisão cautelar deve ser computado como pena efetivamente cumprida e considerado após o cálculo da fração necessária à progressão de regime.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir o momento adequado para aplicação da detração penal no âmbito da execução: (i) se deve ser abatida previamente do total da pena privativa de liberdade, antes do cálculo da fração necessária para progressão de regime, como defendido pelo Ministério Público; ou (ii) se deve ser considerada após o cálculo fracionário da progressão, como pena efetivamente cumprida, entendimento adotado pelo Juízo da execução e mantido pelo Tribunal de origem.
+III. RAZÕES DE DECIDIR
+3. O art. 42 do Código Penal determina que o tempo de prisão provisória deve ser computado como pena cumprida, o que afasta a possibilidade de sua mera dedução prévia do total da reprimenda, sob pena de incorrer em detração penal em dobro.
+4. A correta ordem de cálculo consiste em aplicar a fração exigida para progressão de regime sobre a pena total unificada e, em seguida, considerar o tempo de prisão provisória já cumprido como adimplemento parcial do requisito temporal.
+5. O Superior Tribunal de Justiça, em precedentes recentes, consolidou o entendimento de que a detração deve ocorrer após a incidência da fração sobre a pena total, sob pena de se impor ao apenado requisitos mais gravosos para progressão, em descompasso com o art. 42 do CP e o art. 66, III, "c", da LEP.
+6. No caso concreto, o Tribunal de origem corretamente concluiu que a aplicação da detração sobre o resultado do cálculo fracionário mostra-se mais benéfica ao reeducando e compatível com o princípio da legalidade e da efetividade da pena cumprida.
+IV. DISPOSITIVO
+7. Agravo regimental provido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+A defesa sustenta que a decisão monocrática outrora proferida não dever prosperar ao argumento de que a decisão do Tribunal de origem não destoa da jurisprudência desta Corte Superior, pois "o período de prisão cautelar deve ser computado como período de pena efetivamente cumprida, razão pela qual não se pode simplesmente descontá-lo da soma final da condenação, mas, ao revés, tal interregno deve ser considerado após o cálculo fracionário do período que o agravante necessita para obter o benefício da progressão prisional" (fl. 61 0).
+Inicialmente, é preciso destacar que a controvérsia cinge-se ao momento de aplicação da detração penal pelo Juízo da execução.
+Por modificar a decisão agravada, passo às devidas considerações.
+Sobre o tema, consta do acórdão recorrido os seguintes fundamentos (fls. 552-554):
+Durante o curso do processo executivo, foi elaborado cálculo penal com a última reprimenda integrada nos autos, momento que em a defesa postulou para que o tempo de prisão provisória fosse descontado diretamente do montante da fração necessária para progressão de regime, a qual foi acolhida pelo juízo a quo.
+E é justamente contra esse parâmetro que o representante do Ministério Público se insurge, por entender que o tempo de prisão provisória (detração) deve ser primeiramente descontado do total da pena privativa de liberdade a ser cumprida, para, depois, calcular-se a fração necessária para progressão de regime.
+Razão não assiste ao agravante.
+No que tange à tese apresentada pelo órgão ministerial, cumpre destacar que a detração penal se dá sobre o total da pena imposta ao agente ou sobre o resultado obtido após a incidência da fração necessária para a progressão, pois, no entender do Ministério Público, é cabível o reconhecimento da primeira hipótese, por ser a que mais observa o teor do art. 42 do Código Penal, o qual dispõe:
+"Art. 42. Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior".
+Tal dispositivo dá azo ao cômputo da prisão provisória em dois momentos distinto. O primeiro deles no bojo da r. sentença condenatória quando da fixação do regime, conforme preconiza o art.387, §2º do Código de Processo Penal, e no âmbito da execução penal, para fins de progressão de regime, detração e outros benefícios, consoante disposto no art. 66, inciso III, alínea "c" da Lei de Execução Penal.
+A irresignação em tese refere-se à segunda hipótese, mais especificamente ao momento de aplicação da detração penal pelo Juízo da Execução.
+O ponto é controverso e depende da discricionariedade do magistrado atuante no feito. In casu, o Juízo da Vara de Execução Penal da Comarca da Capital optou por calcular o tempo necessário para a progressão de regime a partir do total da reprimenda imposta ao agravado e, sobre o seu resultado, descontou o tempo de detração penal, visto que além de se mostrar mais benéfico ao reeducando, é o que melhor se amolda aos conceitos contidos no art. 2.º, parágrafo único, da Lei n.º 7.210/84 e ao art. 42 do Código Penal, porquanto efetivamente se computa a prisão provisória como tempo de pena cumprida e, portanto, extinta.
+A propósito, sobre essa matéria, trago à baila aresto de julgado do TJMS, que bem exemplifica a questão:
+ ..
+Nesse quadro, a fim de evitar prejuízo ao agravado, sabendo-se que o tempo de cárcere provisório equivale a adimplemento prévio de parte do requisito temporal necessário à obtenção da progressão de regime, a detração deve ser realizada sobre o resultado obtido, o que implica na manutenção da decisão em contento.
+Por todo o exposto e em dissonância com o parecer da PGJ, nego provimento ao recurso do Ministério Público, mantendo inalterada a decisão proferida pelo juízo a quo.
+É como voto.
+No caso, o Tribunal de origem, ao indeferir o pedido do Ministério Público, manteve o entendimento adotado pelo Juízo da execução: "o Juízo da Vara de Execução Penal da Comarca da Capital optou por calcular o tempo necessário para a progressão de regime a partir do total da reprimenda imposta ao agravado e, sobre o seu resultado, descontou o tempo de detração penal, visto que além de se mostrar mais benéfico ao reeducando, é o que melhor se amolda aos conceitos contidos no art. 2.º, parágrafo único, da Lei n.º 7.210/84 e ao art. 42 do Código Penal, porquanto efetivamente se computa a prisão provisória como tempo de pena cumprida e, portanto, extinta.".
+Concluindo que "Nesse quadro, a fim de evitar prejuízo ao agravado, sabendo-se que o tempo de cárcere provisório equivale a adimplemento prévio de parte do requisito temporal necessário à obtenção da progressão de regime, a detração deve ser realizada sobre o resultado obtido, o que implica na manutenção da decisão em contento".
+Assim, verifica-se a decisão do Tribunal de origem deve ser mantida, uma vez que a melhor interpretação do art. 42 do CP é no sentido de que a detração deve ser considerada, no processo de execução como pena cumprida, não podendo incidir diretamente no interstício temporal necessário para progressão de regime. Isso porque tal interstício é calculado sobre a pena total unificada, de modo que, primeiramente, apura-se o lapso temporal exigido para a progressão de regime e, em seguida, procede-se à detração do tempo de prisão já cumprido.
+Em caso semelhante, este Tribunal Superior já decidiu que "A fração do art. 112 da LEP, por sua vez, incidirá sobre o total da reprimenda aplicada ao réu, sob pena de detração penal em dobro, o que não é albergado pelo art. 42 do CP." (AgRg no HC n. 719.763/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 29/3/2022, DJe de 1/4/2022.).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DETRAÇÃO PENAL DURANTE A EXECUÇÃO. FORMA DE APLICAÇÃO. CÔMPUTO NO CÁLCULO DO LAPSO PARA PROGRESSÃO E DEMAIS BENEFÍCIOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A detração penal pode ocorrer, uma única vez, na sentença (art.
+387, § 2º, do CPP) ou durante a execução penal (art. 66, III, "c", da LEP).
+2. Segundo o art. 42 do CP, o tempo de prisão provisória deve ser computado na pena privativa de liberdade, ou seja, deve ser considerado como pena cumprida.
+3. A controvérsia do recurso especial refere-se à aplicação do instituto na fase da execução, quando é preciso observar a sanção determinada na sentença, calcular o tempo necessário à progressão de regime e demais benefícios e, depois, considerar a privação de liberdade já cumprida, e não apenas abater esse período do total da condenação. Caso contrário, teríamos uma detração penal sem reflexo no regime prisional e o apenado teria que resgatar prazos adicionais e maiores para acessar os direitos do sistema progressivo.
+4. Na fase da execução, deve-se contabilizar o período de cumprimento da pena, antes ou depois da sentença, de maneira uniforme e tratar da mesma forma o reeducando já preso na fase do conhecimento e aquele que estava em liberdade e foi recolhido apenas após o trânsito em julgado.
+5. No caso, o agravado resgata 12 anos e 5 meses de reclusão. Sobre o total da pena, não abatida na sentença, o Juiz da VEC calculou o tempo necessário à progressão de regime e demais benefícios. Depois, considerou o tempo de prisão provisória (3 meses e 11 dias) como pena cumprida. Essa é a ordem correta para a aplicação do art. 42 do CP.
+6. Agravo regimental não provido.
+(AgRg no REsp n. 2.126.765/MT, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+Ante o exposto, dou provimento ao agravo regimental, a fim de reestabelecer o acórdão do Tribunal de origem.
+É o voto.
