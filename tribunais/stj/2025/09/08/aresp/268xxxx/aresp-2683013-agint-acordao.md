@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF.
+A ausência de indicação clara e precisa dos dispositivos legais violados impede o conhecimento do recurso especial. Incidência da Súmula n. 284/STF.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FRANCISCO RODRIGUES DE SOUZA contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial nos termos da seguinte ementa (fl. 475):
+PROCESSUAL CIVIL. AÇÃO DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM INDENIZAÇÃO. CONTRATAÇÃO DE CARTÃO DE CRÉDITO CONSIGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 373):
+Inexigibilidade de débito c. c. Indenização - Contratação de mútuo consignado RMC Fraude na contratação - Prova de legalidade e regularidade do vínculo Reconhecimento - Verossimilhança das alegações da autora Ausência Fatos da causa e histórico de consignações Ônus da prova pelo réu Artigo 373, II, do CPC Demonstração e comprovação pelo banco réu de ser legal e regular o contrato e autorização de desconto em benefício previdenciário (Instrução Normativa do INSS para a autorização da constituição de RMC em benefício previdenciário) Incidência do princípio do "pacta sunt servanda" - Prova pericial (autenticidade de assinatura) Superação Limitação da prova à forma do ato, incontroverso creditamento e utilização da quantia descrita no contrato e ausência de reclamação de vicio na contratação por mais de ano (vinculação maio 2016/demanda ajuizada fevereiro de 2023) Relativização da fraude de assinatura diante das demais provas relativas aos fatos da causa - Dever de adimplemento da obrigação Reconhecimento - Contratantes que são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé - Artigo 113 do Código Civil Abuso de direito pelo autor Reconhecimento - Desvio na boa fé pelas alegações deduzidas na demanda (não se pode se sujeitar ao negócio como comprovado nos autos e depois pretender obstar o justo recebimento pelo credor mutuante dos valores devidos) Artigo 187, do Código Civil Vedação de comportamento contraditório "venire contra factum proprium" Violação da regra de proteção da confiança Artigos 187 e 422 do Código Civil - Prática de atos de deslealdade e manifestamente infundados pela autora - Descontextualização dos fatos apontados na inicial Alteração da verdade dos fatos pela autora Artigo 80, II, do CPC) - Ação infundada e temerária Artigo 80, V, do CPC Litigância de má fé - Artigo 80, II e V, do CPC Reconhecimento com imposição de multa ao autor de 10% (cinco por cento) sobre o valor atualizado da causa - Artigo 81, do CPC Revogação da AJG - Regra de incompatibilidade Reconhecimento de atentado à dignidade desse benefício - Sentença revertida Ação improcedente Ônus de sucumbência revertido e reconhecido o autor como litigante de má-fé, com imposição de multa, revogada a AJG. Recurso do réu provido, prejudicado o recurso do autor, com observação.
+Rejeitados os embargos de declaração opostos (fls. 411-416).
+Nas razões do agravo interno, o agravante alega a não incidência das Súmulas n. 7 do STJ e 284 do STF.
+Aduz, ainda, violação do art. 80, II, do CPC.
+Sustenta, outrossim, que "não há que falar-se em litigância de má- fé, tendo em vista que o agravante não agiu com dolo ou culpa. Jamais foi sua intenção subverter a verdade dos fatos como meio de defesa. Nem tão pouco tentou confundir quem quer que seja, pois não ludibriou, não forjou provas e nem fraudou a perícia grafotécnica, sendo devidamente clara e verdadeira, não enganou e sequer teceu longas teses com esse objetivo. O agravante, ao mover a presente ação, tinha como principal objetivo, obter informações claras e precisas sobre a legitimidade do cartão de crédito descontado do seu benefício, inclsuive restou devidamente comprovado que NÃO contratou o referido cartão de crédito, e por ter os seus pedidos julgados improcedentes em segundo grau, não implica em dizer que estava agindo de má-fé, o que não está" (fl. 503).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contrarrazões.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF.
+A ausência de indicação clara e precisa dos dispositivos legais violados impede o conhecimento do recurso especial. Incidência da Súmula n. 284/STF.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme demonstrado na decisão agravada, o agravante, nas razões do recurso especial, ao sustentar a tese de que que não contratou o cartão de crédito que originou os descontos em sua aposentadoria e que o banco não comprovou a validade do contrato, pois não apresentou o documento original para perícia grafotécnica, bem como não litigou de má-fé, deixou de estabelecer quais os dispositivos de lei federal que considera violados para sustentar sua irresignação.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (EDcl no AgRg no AREsp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito :
+1. A ausência de indicação do dispositivo de lei violado ou de interpretação controvertida caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF.
+(AgInt no AREsp n. 2.484.657/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024.)
+3. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal violado. Súmula nº 284/STF.
+(AgInt no AREsp n. 2.511.818/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 21/6/2024.)
+Assim, em que pese o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
