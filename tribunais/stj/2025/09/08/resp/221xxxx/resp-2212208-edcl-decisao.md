@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 580e):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. NOVAÇÃO NÃO CONFIGURADA. IMPOSSIBILIDADE DE REVISÃO. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. EMBARGOS DE DECLARAÇÃO. CARÁTER NÃO PROTELATÓRIO. AFASTAMENTO DA MULTA. RECURSO PARCIALMENTE CONHECIDO E PROVIDO EM PARTE.
+O embargante sustenta, em síntese, que a decisão recorrida incorreu em omissão ao deixar de enfrentar, de forma expressa e fundamentada, a alegação de que o Tribunal de origem extrapolou os limites objetivos do recurso de apelação, reformando, de ofício, capítulo da sentença que reconheceu a novação da dívida, sem provocação recursal específica, em afronta aos arts. 1.013 e 141 do CPC/2015. Alega, ainda, que a decisão embargada não examinou adequadamente o cotejo analítico apresentado, o qual evidenciaria divergência jurisprudencial acerca da vedação ao julgamento de capítulos não impugnados. Sustenta, por fim, a existência de contradição, porquanto considerado indispensável o reexame de provas para aferir a ocorrência de novação, ainda que tal questão já houvesse sido expressamente reconhecida na sentença de primeiro grau e não tivesse sido objeto de recurso pela parte adversa.
+Com impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há omissão e contradição no julgado. Ocorre que razão não lhe assiste.
+Analisando as razões apresentadas pela embargante, nota-se inexistir qualquer vício a ser sanado no julgado embargado, considerando que a decisão embargada pronunciou-se de modo coeso e preciso acerca do ponto relevante para a solução da controvérsia.
+Sobre a questão, destaca-se da decisão embargada (fls. 582/586e):
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que há julgamento extra petita quando a prestação jurisdicional é diferente do pedido formulado na inicial ou quando o deferimento do pedido se dá por fundamento não invocado como causa de decidir.
+Não há que se falar em julgamento extra petita, uma vez que, ao analisar a alegação de prescrição quinquenal deduzida pelo recorrente, impôs-se ao Tribunal o exame da natureza jurídica do negócio jurídico firmado entre as partes, a fim de definir o prazo prescricional aplicável. O reexame da existência de novação mostra-se, nesse contexto, providência logicamente necessária para o deslinde da controvérsia, inserida nos limites do efeito devolutivo do recurso.
+
+No presente caso, a Corte de origem concluiu que a prescrição decenal é aplicável à cobrança de tarifas de água e esgoto, afastando a alegação de prescrição quinquenal e a caracterização de novação da dívida. O Tribunal entendeu que o parcelamento da dívida não extinguiu a obrigação original, pois não restou configurada a intenção inequívoca de novação entre as partes.
+Com efeito, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente só poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, bem como das cláusulas contratuais que regeram o negócio jurídico firmado entre as partes, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com as Súmulas 5 e 7 do STJ.
+
+Ademais, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Assim, diante da ausência de demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
