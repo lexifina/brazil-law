@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedido o Sr. Ministro Moura Ribeiro.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PROFESSORA UNIVERSITÁRIA. CURSO DE PÓS-GRADUAÇÃO À DISTÂNCIA. AULAS ONLINE. UTILIZAÇÃO INDEVIDA. ARTIGOS 371, 444, 447, § 5º, E 1.023, § 2º, PARTE FINAL, DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STJ. DIREITO AUTORAL. CONTRATO ESCRITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS RECURSAIS. MAJORAÇÃO DEVIDA NA DECISÃO MONOCRÁTICA.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+4. Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+5. De acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não é o caso dos autos.
+6. A falta de prequestionamento obsta o conhecimento do recurso por qualquer das alíneas do permissivo constitucional.
+7. A majoração na decisão monocrática do percentual fixado para os honorários recursais advocatícios é devida independentemente da comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo aplicável mesmo quando não são apresentadas contrarrazões.
+8. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CINIRA GOMES LIMA MÉLO contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 1.426/1.430).
+Naquela oportunidade, as seguintes questões foram assim decididas: (i) negativa de prestação jurisdicional não configurada, (ii) incidência da Súmula nº 284/STJ em relação aos arts. 371, 444, 447, § 5º, e 1.023, § 2º, parte final, do Código de Processo Civil, e (iii) ausência de prequestionamento dos arts. 29 e 49, VI, da Lei nº 9.610/1998, o que atrai a aplicação da Súmula nº 211/STJ, que também incidiu quanto ao dissídio jurisprudencial.
+Nas razões do agravo (e-STJ fls. 1.434/1.474), a agravante alega estar inequívoca a demonstração de ofensa aos arts. 29 e 49, VI, da Lei nº 9.610/1998, os quais estão prequestionados desde a petição inicial.
+Sustenta que a discussão reside em
+"(..) definir se é possível ao ex-contratante (ou ex-empregador), após o término do contrato de prestação de serviço (ou da relação de emprego), continuar utilizando, sem a devida autorização expressa e remuneração, o material didático de autoria do professor contratado, além do período da relação jurídica contratual" (e-STJ fl. 1.443).
+Afirma que tal questão, apesar de instada nos declaratórios, permaneceu sem enfrentamento, o que importa em negativa de prestação jurisdicional.
+Defende a inaplicabilidade da Súmula nº 284/STF, porquanto demonstrou a ocorrência da má aplicação de regra no campo probatório.
+Argumenta que o dissídio jurisprudencial não está prejudicado por conta da incidência da Súmula nº 211/STJ, visto que foi apresentado de forma analítica e fundamentada com a demonstração da identidade de situações com soluções distintas.
+Assevera que não era o caso de majorar a verba honorária por não estar configurado o requisito referente ao trabalho adicional realizado em grau recursal, pois o recorrido apresenta os mesmos argumentos em suas contrarrazões desde o recurso de apelação.
+Ao final, requer o provimento do recurso.
+A parte contrária ofereceu impugnação às e-STJ fls. 1.480/1.493.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PROFESSORA UNIVERSITÁRIA. CURSO DE PÓS-GRADUAÇÃO À DISTÂNCIA. AULAS ONLINE. UTILIZAÇÃO INDEVIDA. ARTIGOS 371, 444, 447, § 5º, E 1.023, § 2º, PARTE FINAL, DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STJ. DIREITO AUTORAL. CONTRATO ESCRITO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS RECURSAIS. MAJORAÇÃO DEVIDA NA DECISÃO MONOCRÁTICA.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+4. Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+5. De acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não é o caso dos autos.
+6. A falta de prequestionamento obsta o conhecimento do recurso por qualquer das alíneas do permissivo constitucional.
+7. A majoração na decisão monocrática do percentual fixado para os honorários recursais advocatícios é devida independentemente da comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo aplicável mesmo quando não são apresentadas contrarrazões.
+8. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação indenizatória por danos materiais e morais ajuizada por Cinira Gomes Lima Melo em desfavor da Universidade Cruzeiro do Sul e Lessa Cursos Preparatórios em que a autora alega que houve utilização indevida de seu material didático, produzido para um curso de pós-graduação à distância, sem sua autorização, e busca reparação financeira por essa utilização.
+O magistrado de primeiro grau de jurisdição julgou improcedente o pedido por entender que a autora recebeu remuneração individualizada para cada serviço prestado e que não houve prova de ilicitude na utilização do material didático. Também destacou que o contrato entre as partes foi verbal e que o material produzido pela autora poderia ser utilizado até o término do curso, conforme depoimentos colhidos.
+O tribunal de origem negou provimento ao recurso de apelação para, mantendo a sentença de improcedência, afirmar que não houve demonstração de ilicitude ou dano, e que a autora estava ciente da utilização do conteúdo até o término do curso.
+Eis a letra do acórdão:
+"(..)
+Restou, claro, todavia, que o material preparado pela apelante permaneceria disponibilizado aos alunos daquele curso, até a conclusão. Vale dizer, durante toda a oferta do curso, qual seja, 15 meses.
+(..)
+Dessa maneira, é razoável que o material produzido pela apelante fique disponível por determinado período para que os alunos o acessem. Esse período seria aquele necessário para que os alunos se graduassem.
+Por fim, não há que se falar em uso indevido do nome da apelante. Isto porque, o documento de fls. 53 não comprova que as apeladas se passavam pela recorrente. Ao que se extrai, trata-se de duas publicações distintas: uma publicada em 12.10.2010, que apenas reproduz conteúdo programático já inserido no sistema pela própria apelante, no ano de 2009; e uma segunda publicação, inserida pelo Prof. Wagner Alves em 19.10.2010, informando os alunos sobre as datas das avaliações.
+Por conseguinte, não restaram comprovadas as ilicitudes que a apelante afirma terem as apeladas cometido. A apelante estava ciente da destinação que seria dada ao conteúdo por ela elaborado.
+Ademais, não se verifica dano. A apelante recebeu remuneração pelo trabalho realizado, conforme admitido a fls. 504" (e-STJ fls. 878 e 880).
+Na sequência, o tribunal local rejeitou os embargos de declaração opostos pela recorrente, afirmando que não havia vícios a serem sanados e que a pretensão da embargante tinha caráter nitidamente infringente.
+De fato, como visto nos trechos acima transcritos, o tribunal estadual motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, de modo que não há falar em negativa de prestação jurisdicional.
+Logo, não se pode falar em omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+No tocante aos arts. 371, 444, 447, § 5º, e 1.023, § 2º, parte final, do CPC, a deficiência na fundamentação recursal ficou evidenciada, visto que a agravante, apesar de indicar tais preceitos legais como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Na verdade, conforme destacado na decisão impugnada, a aludida legislação foi disposta na parte dedicada à alegação de negativa de prestação jurisdicional, a qual foi afastada por estar o acórdão recorrido devida e suficientemente fundamentado.
+Em relação aos artigos 29 e 49, VI, da Lei nº 9.610/1998, é certo que tais preceitos legais não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+Quanto ao tema, é assente a jurisprudência desta Corte Superior de que o prequestionamento exige que a Corte de origem se pronuncie especificamente acerca da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Cumpre esclarecer que não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional acerca dos artigos 29 e 49, inciso VI, da Lei nº 9.610/1998, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pela recorrente.
+Observa-se, ainda que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não é o caso dos autos.
+Nesse contexto, também não há como deixar de reconhecer que a incidência da Súmula nº 211/STJ prejudica o conhecimento da divergência jurisprudencial invocada.
+Por fim, este Superior Tribunal de Justiça firmou entendimento no sentido de que a majoração dos honorários de sucumbência é devida no caso em que o recurso tenha sido integralmente desprovido ou não conhecido, como na hipótese, independentemente da comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo aplicável mesmo quando não são apresentadas contrarrazões (AgInt no AREsp 2.559.173/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Ante o exposto, nego provimento ao recurso.
+É o voto.
