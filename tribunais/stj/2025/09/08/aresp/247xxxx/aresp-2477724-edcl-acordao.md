@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO RECONHECIDAS. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INADEQUAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida.
+2. Na situação em análise, o embargante não demonstrou existir nenhum dos vícios que pudessem autorizar o emprego dos embargos, o que impossibilita o êxito do recurso. Requer, na verdade, o reexame da matéria já decidida, a saber, a impossibilidade, por força do óbice previsto na Súmula n. 7/STJ, de aferir a anunciada interrupção da prescrição no curso do processo administrativo, em razão das condutas da autarquia previdenciária.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):  Cuida-se de embargos de declaração em agravo interno em agravo em recurso especial manejados por José Carlos Mendonça com o propósito de integrar o acórdão de fls. 594/596, proferido à unanimidade por esta Primeira Turma, aresto que se apresenta guarnecido pela seguinte ementa:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO QUINQUENAL. INTERRUPÇÃO PELO PROCESSO ADMINISTRATIVO. QUESTÃO DE FATO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O argumento utilizado pelo recorrente, de que a "prescrição foi interrompida pelo processo administrativo, o que, em razão das condutas tomadas pela autarquia, se arrastou até 2011", somente poderia ter sua procedência verificada mediante o necessário reexame de matéria fática, providência sabidamente vedada, por força do óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido. (fls. 2.847/2.848).
+Nas razões do recurso integrativo, fls. 606/613, o embargante justifica a interposição dos embargos ao argumento de que "a narrativa do v. acórdão embargado, no sentido de que o argumento utilizado pelo recorrente somente teria sua procedência verificada mediante o reexame da matéria fática, traz a lume a existência da omissão não sanada, nos termos postos nos fundamentos do recurso especial" (fl. 606), isso porque, "em razão da mora do INSS, a prescrição foi interrompida pelo processo administrativo" (fl. 607) que, "quanto a tal ponto, não se pronunciou o tribunal de origem" (fl. 607) e, "em razão disso, além de se demonstrar a omissão não sanada pelo Tribunal de origem, o que acarreta a nulidade do acórdão, nos termos já requerido no feito, se afasta a incidência da Súmula 7/STJ" (fl. 608). Por fim, reproduz as teses recursais, acrescentando que, "desde o recurso especial, o embargante vem demonstrando a não incidência da Súmula 7, do STJ, porquanto redigiu a sua peça com fundamentação quanto aos argumentos que ensejaram a inadmissão do Recurso Especial, merecendo reparos neste sentido o acórdão embargado" (fl. 610).
+Recurso sem contrarrazões, conforme certidão à fl. 624.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO RECONHECIDAS. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INADEQUAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida.
+2. Na situação em análise, o embargante não demonstrou existir nenhum dos vícios que pudessem autorizar o emprego dos embargos, o que impossibilita o êxito do recurso. Requer, na verdade, o reexame da matéria já decidida, a saber, a impossibilidade, por força do óbice previsto na Súmula n. 7/STJ, de aferir a anunciada interrupção da prescrição no curso do processo administrativo, em razão das condutas da autarquia previdenciária.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Consoante o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do aresto atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida.
+Essa é a razão pela qual a jurisprudência desta Corte é firme no sentido de que " o s embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida" (EDcl no AgRg no REsp n. 1.990.855/AP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 29/09/2022).
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. AUSÊNCIA. PRETENSÃO DE FIXAÇÃO DE HONORÁRIOS RECURSAIS EM AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgInt no AREsp n. 2.263.961/RO, Relator Ministro Afrânio Vilela, Segunda Turma, DJEN de 26/6/2025.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MÉRITO. OMISSÃO. INEXISTÊNCIA DO APONTADO VÍCIO DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE.
+ ..
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente o apontado vício no aresto embargado, conforme exige o art. 1.022 do CPC.
+ ..
+5. Embargos de declaração acolhidos parcialmente, com efeitos modificativos, apenas para majorar os honorários recursais.
+(EDcl no AgInt no AREsp n. 2.494.274/RO, Relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 5/3/2025.)
+Na situação em análise, o embargante não demonstrou existir nenhum dos vícios que pudessem autorizar o emprego dos embargos, o que impossibilita o êxito do recurso. O autor requer, na verdade, o reexame do julgado, insistindo em debater matéria já decidida pelo colegiado, no caso, a impossibilidade, por força do óbice previsto na Súmula n. 7/STJ, de aferir a anunciada interrupção da prescrição no curso do processo administrativo, em razão das condutas da autarquia previdenciária.
+Assim, o argumento autoral denuncia, tão somente, o inconformismo com a solução que lhe foi desfavorável e que busca reverter. A esse propósito, porém, não se presta o recurso integrativo.
+ANTE O EXPOSTO, à mingua de omissão a suprir, contradição a solver ou obscuridade a esclarecer, a rejeição dos presentes aclaratórios é a medida que ora se impõe e, neste sentido, encaminho meu voto.
