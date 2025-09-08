@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMÍNIO EDIFÍCIO PORTAL DO CAMPO LIMPO contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de ofensa aos arts. 840, § 1º, 867, 868 e 869 do CPC, na incidência da Súmula n. 7 do STJ e na falta de argumentação suficiente para embasar a violação de lei federal.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão de fl. 192.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de cobrança de taxas condominiais.
+O julgado foi assim ementado (fl. 113):
+Cumprimento de sentença. Despesas de condomínio. Pretensão do condomínio credor de instituição de usufruto da unidade condominial em seu favor, para penhora dos frutos. Indeferimento. Existência de penhoras relativas a créditos tributários, com determinação da Justiça Federal de designação do leilão do imóvel. Medida pretendida pelo credor que, por isso, não se mostra proveitosa. Decisão mantida. Agravo de instrumento não provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 840, § 1º, do CPC, pois deveria ser nomeado depositário fiel do imóvel penhorado, já que não há depositário judicial nomeado nos autos;
+b) 867, 868 e 869 do CPC, porque a penhora de frutos e rendimentos do imóvel seria mais eficiente para o recebimento do crédito e menos gravosa para o executado, permitindo a nomeação do condomínio como administrador depositário para fruição dos frutos e utilidades do bem;
+c) 489, § 1º, IV, do CPC, visto que o acórdão recorrido não analisou, de forma fundamentada, os dispositivos legais mencionados, configurando omissão e ausência de fundamentação adequada.
+Requer o provimento do recurso para que se reforme o acórdão recorrido para a consequente nomeação do condomínio como depositário fiel do bem e autorização para locá-lo, revertendo-se os frutos para a quitação do débito condominial.
+Contrarrazões às fls. 159-167.
+É o relatório. Decido.
+I - Art. 489, § 1º, IV, do CPC
+O agravante sustenta que o acórdão recorrido não analisou, de forma fundamentada, os dispositivos legais por ele indicados, configurando omissão e ausência de fundamentação adequada.
+Destaca (fls. 184-185):
+Ocorre que o juízo a quo indeferiu o pedido e não apreciou o pedido em sede de Embargos de Declaração, bem como o Nobre Relator se limitou a fundamentar que o crédito tributário tem preferência e que a Fazenda não anuiu com a instituição do usufruto pretendida, devendo o Recorrente aguardar o resultado do leilão em andamento em uma das Execuções Fiscais movidas em face da Agravada, de forma ilegal sem qualquer fundamento que justifique a não aplicação dos dispositivos supramencionados.
+No entanto, o Nobre Desembargador deixou de analisar e fundamentalmente afastar os dispositivos legais mencionados, configurando clara violação do disposto no Inciso IV do parágrafo 1º do artigo 489 do Código de Processo Civil.
+Pontua que a matéria foi prequestionada por embargos de declaração, que foram apresentados ainda em primeiro grau, tendo, posteriormente, interposto agravo de instrumento.
+Contudo, apesar da alegação de que "o Nobre Relator se limitou a fundamentar que o crédito tributário tem preferência e que a Fazenda não anuiu com a instituição do usufruto pretendida  ..  de forma ilegal sem qualquer fundamento que justifique a não aplicação dos dispositivos supramencionados", não opôs embargos de declaração ao acórdão proferido pelo Tribunal de origem.
+Logo, com relação aos dispositivos em questão, incide a Súmula n. 211 do STJ, porquanto ausente o indispensável prequestionamento (AgInt no AREsp n. 2.100.337/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Portanto, o agravo não merece conhecimento neste ponto.
+II - Arts. 840 867, 868 e 869 do CPC
+Sobre a alegada violação do art. 840, sustenta o agravante o seguinte (fl. 182):
+No tocante à negativa de nomeação do Recorrente como depositário fiel do bem, é evidente que este Tribunal negou vigência ao disposto no Inciso II e no parágrafo §1º do artigo 840 do Código de Processo Civil
+ ..
+Trata-se de uma autorização expressa para nomeação do Exequente como depositário fiel do bem imóvel penhorado, especialmente quando não há nos autos a nomeação de um depositário judicial, como ocorre no presente caso, mas que não importa qualquer requisito. 26.
+Tem-se apenas, às fls. 458/459 dos autos principais, a mera nomeação do "atual possuidor do bem como depositário". Ocorre, Nobre Julgador, que o imóvel nunca foi habitado, esteve vazio desde a entrega do edifício pela construtora e a efetiva constituição do Condomínio, ora Recorrente. 27.
+Ressalta-se, a unidade nunca teve um possuidor, a Recorrida, muito embora conste na certidão de matrícula do imóvel como proprietária, nunca exerceu sua posse, desse modo, o imóvel permaneceu sem um possuidor e sem depositário efetivo todos esses anos.
+O Tribunal de origem assim decidiu (fl. 115):
+A pretensão do agravante - instituição de usufruto da unidade condominial em seu favor - esbarra na existência de outras penhoras sobre o mesmo bem para satisfação de créditos preferenciais, oriundas de execuções fiscais em trâmite na Justiça Federal, com notícia, inclusive, de que, em uma das execuções fiscais foi proferida decisão em abril de 2021, determinando a avaliação do imóvel e designação de leilão (fls. 1219/1226 do processo principal), destacando-se que eventual arrematação tornaria prejudicada a pretensão do agravante.
+Segue que, ainda que esteja pendente a alienação judicial do imóvel, eventuais créditos penhorados oriundos da fruição da unidade condominial não escapariam do concurso de credores, eis que os créditos tributários têm preferência sobre o crédito condominial, como já decidido no agravo de instrumento nº 2112380-97.2021.8.26.000 (fls. 1210/1216, do processo principal), e a credora preferencial, FAZENDA NACIONAL, na contraminuta que apresentou, não anuiu com a instituição do usufruto pretendida pelo agravante.
+Não se vislumbra, portanto, eficácia na medida pretendida pelo agravante para satisfação do crédito condominial, mostrando-se mais proveitoso que sigam os trâmites para alienação judicial do imóvel, se ainda não ocorreu na Justiça Federal.
+Da simples leitura, verifica-se que não há ofensa ao dispositivo legal, porquanto a decisão expôs fundamentação e destacou que há outros pontos valorados, sobretudo diante da existência de outros créditos preferenciais que invocam a observância de outros dispositivos legais aplicáveis à situação fática.
+Consta ainda dos autos que o imóvel é objeto de penhora de três execuções fiscais em trâmite, o que remete à aplicação dos arts. 186 e 187 do CTN.
+Como exposto na decisão questionada, há créditos tributários incidentes sob o imóvel penhorado, o que impede a percepção dos frutos correspondentes, a exemplo de locação, diante da preferência daqueles em detrimento da satisfação do crédito condominial.
+Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. AÇÃO DE EXECUÇÃO PROMOVIDA PELO CONDOMÍNIO. PEDIDO DE RESERVA DO PRODUTO DA ARREMATAÇÃO PELA FAZENDA PÚBLICA. PREFERÊNCIA DO CRÉDITO TRIBUTÁRIO EM FACE DO CRÉDITO CONDOMINIAL. PRECEDENTES. SÚMULA N. 83/STJ.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. A jurisprudência desta Corte orienta que, no concurso de credores, o crédito tributário prefere a qualquer outro, ressalvados aqueles decorrentes da legislação do trabalho ou do acidente de trabalho.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.338.746/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/10/2019, DJe de 19/11/2019.)
+Sobre a violação dos arts. 867, 868 e 869 do CPC, o agravante afirma o que se segue (fl. 128):
+ ..
+Desse modo, requereu em juízo a aplicação dos artigos 867, 868 e 869 do Código de Processo Civil, que autorizam a penhora de frutos e rendimentos de coisa móvel ou imóvel, a fim o Recorrente fosse nomeado administrador- depositário e investido em todos os poderes que concernem à administração do bem e à fruição de seus frutos e utilidades, bem como para que o imóvel fosse colocado à disposição para locação e os valores recebidos fossem utilizados para abater a dívida.
+29. Ocorre que o juízo a quo indeferiu o pedido e não apreciou o pedido em sede de Embargos de Declaração, bem como o Nobre Relator se limitou a fundamentar que o crédito tributário tem preferência e que a Fazenda não anuiu com a instituição do usufruto pretendida, devendo o Recorrente aguardar o resultado do leilão em andamento em uma das Execuções Fiscais movidas em face da Agravada.
+Sobre a questão, o Tribunal manifestou-se nestes termos (fl. 115):
+A pretensão do agravante - instituição de usufruto da unidade condominial em seu favor - esbarra na existência de outras penhoras sobre o mesmo bem para satisfação de créditos preferenciais, oriundas de execuções fiscais em trâmite na Justiça Federal, com notícia, inclusive, de que, em uma das execuções fiscais foi proferida decisão em abril de 2021, determinando a avaliação do imóvel e designação de leilão (fls. 1219/1226 do processo principal), destacando-se que eventual arrematação tornaria prejudicada a pretensão do agravante.
+A decisão à qual não foi oposto recurso de embargos de declaração, embora concisa, concluiu pelo afastamento da aplicação dos dispositivos em questão, na mesma linha do já exposto, diante da prevalência do crédito tributário, atraindo, em consequência, a aplicação da legislação específica ao caso concreto.
+A propósito:
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. EXECUÇÃO. CONCURSO SINGULAR DE CREDORES. PREFERÊNCIA DO CRÉDITO TRIBUTÁRIO EM FACE DO CRÉDITO CONDOMINIAL. CRÉDITO COM PREFERÊNCIA LEGAL. EXECUÇÃO EM CURSO E PENHORA ANTERIOR SOBRE O MESMO IMÓVEL. DESNECESSIDADE. INTELIGÊNCIA DO ART. 711 DO CPC.
+1. No concurso singular de credores, o crédito tributário prefere a qualquer outro, ressalvados aqueles decorrentes da legislação do trabalho ou do acidente de trabalho.
+2. O credor com título de preferência legal pode participar do concurso previsto no art. 711 do CPC para resguardar o seu direito de preferência, mesmo que não tenha promovido a execução do seu crédito. Nessa hipótese, reconhecida a preferência do crédito, o levantamento do valor fica condicionado à posterior ajuizamento de execução.
+3. Negado provimento ao recurso especial. (REsp n. 1.219.219/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/11/2011, DJe de 25/11/2011.)
+Conclui-se que o entendimento adotado pelo Tribunal de origem está de acordo com a jurisprudência do STJ, incidindo na espécie a Súmula n. 83, também aplicável ao recurso fundado na alínea c inciso III do art. 105 da CF.
+Nessa linha:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRAÇA REALIZADA SEM INTIMAÇÃO DA CREDORA HIPOTECÁRIA. POSIÇÃO PRIVILEGIADA DE CRÉDITOS FAZENDÁRIOS EM RELAÇÃO AOS DA CREDORA. ARTIGO 186 DO CTN. PRESERVAÇÃO DA ARREMATAÇÃO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ.
+1. O acórdão do TRF da 4ª Região segundo o qual: "O art. 186 do CTN determina que o crédito tributário prefere a todos os demais, com exceção dos resultantes das relações trabalhistas, respondendo pelo seu pagamento a totalidade de bens e rendas, de qualquer origem ou natureza, do sujeito passivo, inclusive os gravados com ônus real, como no caso, imóvel hipotecado à agravante. Ainda as praças sejam realizadas sem a prévia intimação da credora hipotecária, e constatado, assim, a existência de error in procedendo, a nulidade não poderia ser decretada, ante a ausência de prejuízo do ora recorrente."
+2. A linha de pensar adotada pelo aresto recorrido não diverge da orientação jurisprudencial do STJ, conforme expresso no julgamento do REsp 723.297/SC, Rel. Min. Luiz Fux, DJ de 6/3/2006, REsp 681.402/RS, Rel. Min. Denise Arruda, DJ de 17/9/2007.
+3. No particular, o entendimento assentado pela Primeira Turma, por ocasião do julgamento do REsp 440.811/RS, Rel. Min. Teori Albino Zavascki: "Diante da preferência do crédito tributário sobre o crédito hipotecário, e uma vez certificada a inexistência de outros bens penhoráveis, e mesmo a insuficiência do valor do bem constrito para satisfazer o débito fiscal, conclui-se não haver qualquer sentido prático na decretação da nulidade da alienação. Trata-se de medida que nenhum proveito traria ao credor hipotecário, obrigado a realizar novo leilão, cujo produto, de qualquer sorte, teria de ser destinado à satisfação do débito tributário."
+4. Agravo regimental não provido. (AgRg no REsp n. 1.117.667/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/8/2011, DJe de 5/8/2011, destaquei.)
+Por fim, para infirmar a conclusão do TJSP de que não é eficaz a instituição de usufruto em favor do agravant e, seria necessário reexame do conjunto probatório, o que não se admite em recurso especial, nos termos da Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios em desfavor da parte ora recorrente, diante da ausência de fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
