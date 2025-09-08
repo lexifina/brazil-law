@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSÉ LOPES DE MATTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento da apelação criminal n. 011810-11.2012.8.26.0047.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de Assis, na ação penal n. 011810-11.2012.8.26.0047, como incurso no artigo 35 e, por três vezes, em continuidade delitiva, no artigo 33, caput, da Lei 11.343/2006, duas delas em combinação com o artigo 40, inciso V, do mesmo diploma legal, combinado com o artigo 29 do Código Penal, à pena de 15 anos, 11 meses e 7 dias de reclusão, além do pagamento de 2.259 dias-multa, em regime inicial fechado (fls. 103-105).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso (fls. 206-266), com trânsito em julgado previamente certificado. Em razão da concessão da ordem no HC n. 719.697-SP, impetrado perante o Superior Tribunal de Justiça, a pena definitiva do paciente foi redimensionada para 13 anos, 11 meses e 7 dias de reclusão, e 1.793 dias-multa, mantidos os demais termos da condenação (fls. 267-277).
+Na presente impetração, alega-se que o paciente foi condenado injustamente e que sua pena foi exacerbada de forma desproporcional. Sustenta-se que não há provas concretas de que o paciente integrasse organização criminosa ou se dedicasse à atividade delitiva, destacando-se que ele era proprietário de uma empresa de cosméticos e que adquiriu bens com recursos lícitos, provenientes de rescisão contratual e trabalho formal (fls. 5-8). Afirma-se que não há elementos nos autos que demonstrem a estabilidade e permanência exigidas para a configuração do crime de associação para o tráfico, previsto no artigo 35 da Lei nº 11.343/2006, sendo a condenação baseada em presunções e conjecturas (fls. 6-7).
+Defende-se que o aumento da pena na primeira fase, em razão da natureza e quantidade da droga apreendida, foi injustificado, pois tais elementos são próprios do tipo penal. Na terceira fase, argumenta-se que deveria ter sido aplicada a causa especial de diminuição prevista no § 4º do artigo 33 da Lei 11.343/2006, uma vez que não há provas de que o paciente se dedicava à atividade criminosa ou integrava organização criminosa (fls. 7-9).
+Destaca-se que o paciente possui condições pessoais favoráveis, como constituição de família, ocupação lícita e residência fixa, e que sua vida está reestruturada, o que afastaria a necessidade de manutenção do regime fechado (fls. 10-11).
+Ao final, requer-se a concessão da ordem para absolver o paciente das imputações relativas aos artigos 33 e 35 da Lei 11.343/2006, nos termos do artigo 386, inciso VII, do Código de Processo Penal. Subsidi ariamente, pleiteia-se a fixação da pena-base no mínimo legal, a aplicação da causa especial de diminuição do § 4º do artigo 33 da Lei nº 11.343/2006 no patamar de 2/3, e a fixação do regime aberto para o cumprimento da pena (fls. 9-11).
+Em caráter liminar, requer-se a imediata cessação dos efeitos do constrangimento apontado, com aplicação da causa especial de diminuição do § 4º do artigo 33 da Lei nº 11.343/2006 no patamar de 2/3 e fixação do regime aberto para o cumprimento da pena (fls. 10-11).
+É o relatório. DECIDO.
+A controvérsia consiste na possível ocorrência de constrangimento ilegal, caracterizado pela negativa à absolvição do paciente por insuficiência de provas de autoria delitiva, bem como pelos critérios empregados na dosimetria da pena e na fixação do regime inicial de cumprimento.
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Nessa linha:
+ ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus, com fundamento do artigo 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
