@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  USUCAPIÃO  REQUISITOS  NÃO  PREENCHIDOS.  REVISÃO.  IMPOSSIBILIDADE. SÚMULA  Nº  7/STJ.
+1.  Para  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  de  que  não  restaram  preenchidos  os  requisitos  da  usucapião  seria  necessário  o  revolvimento  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial  .
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  RONALDO ORIQUES BECKER  contra  a  decisão  que  inadmitiu  o  recurso  especial.  O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Santa Catarina  assim  ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR.
+TERRENO USUCAPIENDO DE PROPRIEDADE DO APELANTE E DE SUAS IRMÃS. TRANSMISSÃO POR HERANÇA. CONDOMÍNIO CIVIL. PRETENSÃO DE USUCAPIÃO DA PARTE SOB DOMÍNIO DAS APELADAS. POSSIBILIDADE JURÍDICA DE O CONDÔMINO USUCAPIR O BEM COMUM. NECESSIDADE DE COMPROVAÇÃO DA POSSE EXCLUSIVA COM ANIMUS DOMINI E PELO PRAZO DETERMINADO EM LEI, SEM QUALQUER OPOSIÇÃO DOS DEMAIS CONDÔMINOS. PRECEDENTES. USUCAPIÃO EM COMENTO JULGADA IMPROCEDENTE ANTE O RECONHECIMENTO DE COMPOSSE E DE MERA PERMISSÃO OU TOLERÂNCIA DAS APELADAS. INSURGÊNCIA NO PONTO. ALEGAÇÃO DE QUE A POSSE SOBRE O TERRENO ERA EXERCIDA COM EXCLUSIVIDADE. INSUBSISTÊNCIA. CASA E RESTAURANTE CONSTRUÍDOS PELOS GENITORES SOBRE O TERRENO. POSTERIOR OCUPAÇÃO EXCLUSIVA DO APELANTE. NO ENTANTO, COMPROVAÇÃO DE QUE AS APELADAS CONTINUARAM FREQUENTANDO O LOCAL COM SUAS RESPECTIVAS FAMÍLIAS. DEMONSTRAÇÃO DE VISITAS À CASA COM VÍNCULO DE AFETIVIDADE, INDICANDO REUNIÃO FAMILIAR. GENITOR QUE, EM AUDIÊNCIA, CONFIRMOU QUE UMA DAS APELADAS RESIDIA EM OUTRA CIDADE MAS RETORNAVA AO IMÓVEL EM QUESTÃO AOS FINAIS DE SEMANA. ATOS QUE DEMONSTRAM PERMISSÃO/TOLERÂNCIA TÁTICA, CUJA FORMA SERIA ESPERADA PARA CONDOMÍNIO CONSTITUÍDO ENTRE IRMÃOS. APELADAS QUE SE DESINCUMBIRAM DE SEU ÔNUS PROBATÓRIO (ART. 373, II E § 1º, DO CPC). CONCLUSÃO DE OCUPAÇÃO PERMITIDA/TOLERADA MANTIDA. USUCAPIÃO IMPOSSÍVEL (ART. 1.208 DO CÓDIGO CIVIL). DEMAIS TESES PREJUDICADAS. SENTENÇA INALTERADA.
+RECURSO CONHECIDO E DESPROVIDO"  (e-STJ  fl.  606).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fls.  678/680).
+Nas razões do  recurso  especial,  o  recorrente  sustenta  violação  dos  artigos  1196, 1197, 1998, 1199, 1238 do Código Civil e 1º da Lei 6.969/81.
+Aduz que
+"(..) A partir deste momento foi que se iniciou a contagem da posse mansa, pacífica e ininterrupta do Recorrente, que ficou responsável pelo imóvel integralmente, dando-lhe manutenção, cuidando, gerindo, residindo e trabalhando. Resta clara a contundente prova produzida que o Embargante era o único possuidor desde 2010, tanto do imóvel residencial, como do imóvel comercial" (e-STJ fl. 666).
+Pleiteia pela configuração da usucapião, pois resta demonstrada "a posse legal, com animus domini, de forma tranquila, sem oposição de qualquer dos confinantes ou titulares de domínio" (e-STJ fl. 667).
+Sem contrarrazões  (certidão de e-STJ  fl.  695).
+O Ministério Público Federal, em seu parecer, opinou pelo desprovimento do recurso (e-STJ fls. 814/817).
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  USUCAPIÃO  REQUISITOS  NÃO  PREENCHIDOS.  REVISÃO.  IMPOSSIBILIDADE. SÚMULA  Nº  7/STJ.
+1.  Para  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  de  que  não  restaram  preenchidos  os  requisitos  da  usucapião  seria  necessário  o  revolvimento  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial  .
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+No presente caso,  o  Tribunal  de  origem  entendeu  que não  restaram  preenchidos  os  requisitos  para  o  reconhecimento  da  usucapião  nos  seguintes  termos:
+"(..) resta verificar, a fim de analisar a presença dos requisitos para a usucapião, se havia composse, bem se a ocupação do terreno sob domínio das apeladas, pelo apelante, se deu independentemente de permissão ou de tolerância delas. Tais questões fáticas passam a ser analisadas.
+Em situações como esta, este relator entende que o ônus da prova de que a ocupação se deu a título de permissão ou tolerância recai sobre a parte requerida (TJSC, Apelação n. 0006123- 84.2013.8.24.0011, j. 17-10-2023). Primeiro, porque, uma vez demonstrada a ocupação do imóvel objeto da ação pela parte autora, a permissão/tolerância configuraria fato extintivo do direito autoral (art. 373, II, do CPC). Segundo, porque a prova da inexistência de permissão/tolerância implicaria obrigação de provar fato negativo, não permitido pelo ordenamento jurídico (art. 373, § 1º, do CPC).
+O caso em tela trata de litígio familiar.
+No terreno sub judice, há duas edificações: em uma delas, estabeleceu-se em meados dos anos 1980 o Restaurante Recanto, inicialmente operado e administrado pelos genitores das partes e, gradualmente ao longo do tempo, especialmente após o falecimento da genitora em 2005, pelo apelante, até a total assunção da gerência por este em 2018, conforme ele mesmo alega; na outra, os genitores residiam com as partes até 2010, quando passou a servir de residência exclusivamente ao apelante (a data é imprecisa, porém incontroversa).
+Apesar de residir sozinho na casa referida, as apeladas continuaram frequentando-na com suas respectivas famílias, conforme comprovam as fotografias anexadas à contestação (evento 70, FOTO21, evento 70, FOTO22, evento 70, FOTO23, evento 70, FOTO24, evento 70, FOTO25, evento 70, FOTO26, evento 70, FOTO27, evento 70, FOTO28 e evento 70, FOTO29), não impugnadas em réplica pelo apelante.
+Neste ponto, o apelante narrou que, de fato, as apeladas continuaram frequentando a casa e o restaurante após 2010, porém sempre em eventos festivos e na condição de meras consumidoras, sem, no entanto, auxiliar na gestão do negócio familiar. Embora a narrativa pudesse ser verídica em relação ao restaurante, entendo absolutamente inverossímil em relação à casa, uma vez que as fotos juntadas à contestação não deixam dúvidas de que as visitas ocorriam com vínculo de afetividade, características de uma reunião familiar.
+Neste ponto, inclusive, o genitor das partes, ouvido em audiência, narrou que, mesmo após o apelante ter passado a residir sozinho na casa que fica no terreno, a apelada Roberta, que residia em Porto Alegre, "vinha aos fins de semana" (evento 176, VÍDEO1 - 13:45).
+Anota-se que, em se tratando de condomínio civil constituído entre irmãos sobre bem ocupado por apenas um deles, não se espera que eventual permissão/tolerância dos demais decorra de atos ostensivos. Pelo contrário: a confiança fraternal indica que a permissão/tolerância se dê de forma tácita, sem formalismo algum. Especialmente na situação em tela, em que a moradia do apelante na casa que servia de residência à família Oriques Becker outrora decorreu de seus problemas financeiros (fato alegado em contestação e não impugnado em réplica).
+Ademais, a suposta assunção da gerência do restaurante com exclusividade, ainda que verdadeira, não adiciona mais razão à pretensão do apelante. Isso porque ter passado a administrar sozinho a empresa, que já estava estabelecida no terreno em questão desde a década de 1980, não diminui a composse das apeladas. Até porque a ocupação do terreno pelo restaurante poderia indicar a posse direta da respectiva pessoa jurídica, e não a do sócio, haja visto a distinção das personalidades jurídicas e a impossibilidade de confusão. Importante relembrar que não é a propriedade da empresa que está em discussão, mas do terreno no qual estabelecida sua sede.
+Diante de tais circunstâncias, entendo como correta a conclusão a que chegou o juízo a quo, de que havia composse das apeladas no imóvel em questão e de que a ocupação do apelante sobre todo o terreno se deu a título de permissão/tolerância delas.
+Uma vez admitida a permissão/tolerância de uso do bem comum, impossível a aquisição via usucapião, de modo que as demais teses recursais restam prejudicadas.
+(..)
+Assim, nego provimento ao recurso e mantenho a sentença proferida pelo Dr. Gustavo Santos Mottola"  (e-STJ  fls.  603/604) - grifou-se.
+Com  efeito,  para  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  de  que  não  restaram  preenchidos  os  requisitos  da  usucapião  seria  necessário  o  revolvimento  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+Nesse  sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO SUFICIENTE. INEXISTÊNCIA DE OFENSA AO ART. 489 DO CPC. CERCEAMENTO DE DEFESA NÃO DEMONSTRADO. USUCAPIÃO. REQUISITOS. VERIFICAÇÃO QUE DESAFIARIA O REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA DO ART. 1.026, § 2º, DO CPC. CABIMENTO. EMBARGOS PROTELATÓRIOS. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, NÃO PROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito e fundamentada corretamente a decisão recorrida, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+2. Conforme a jurisprudência deste STJ, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC.
+3. Hipótese em que o TJSP afastou o alegado cerceamento de defesa por entender que as provas constantes nos autos são suficientes para o julgamento da lide. Reversão do julgado que demandaria o reexame de provas, atraindo o óbice da Súmula n. 7 do STJ.
+4. Rever as conclusões quanto aos requisitos autorizadores da usucapião demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+5. Correta a aplicação da penalidade prevista no art. 1.026, § 2º, do CPC quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficou evidenciado o caráter manifestamente protelatório dos segundos embargos de declaração.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido"
+(AREsp n. 2.883.650/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE USUCAPIÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. O acolhimento da pretensão recursal quanto ao preenchimento ou não dos requisitos da usucapião extraordinária demandaria o revolvimento de matéria fática e reexame do substrato probatório dos autos, providência obstada, na via eleita, pela Súmula 7 do STJ.
+2. A irregularidade registral do imóvel não impede a aquisição pela usucapião.
+3. Agravo interno desprovido"
+(AgInt no AgInt no REsp n. 1.932.225/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DOS REQUISITOS. REVISÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Quando o pedido possui mais de um fundamento e o juiz acolhe apenas um deles, a apelação devolve ao tribunal o conhecimento dos demais (art. 1.013, § 2º, do Código de Processo Civil).
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+3. Não se admite a revisão do entendimento do Tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido"
+(AgInt no AREsp n. 1.443.549/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+  Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da causa , não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É  o  voto.
