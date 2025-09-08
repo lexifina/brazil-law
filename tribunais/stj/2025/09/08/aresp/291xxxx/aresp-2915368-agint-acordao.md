@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. PROSSEGUIMENTO DA EXECUÇÃO CONTRA O COOBRIGADO. POSSIBILIDADE. SÚMULA N. 581 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A compreensão adotada pelo Tribunal estadual encontra ressonância na jurisprudência do STJ, que perfilha o posicionamento de que a homologação do plano de recuperação judicial não extingue a execução em relação aos coobrigados, conforme o art. 59 da Lei n. 11.101/2005 (Súmula n. 581 do STJ).
+2. No caso concreto, o recurso especial limitou-se a impugnar a extinção da execução em relação à empresa devedora, questão que não foi objeto de análise pelo acórdão recorrido. As razões recursais, portanto, mostram-se dissociadas dos fundamentos do aresto, incidindo a Súmula n. 284 do STF.
+3 . Agravo interno provido, para reconsiderar a decisão monocrática e, em novo exame, não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por INDÚSTRIA DE PARAFUSOS ELEKO LTDA. - EM RECUPERAÇÃO JUDICIAL e CÁSSIO DA SILVA REGIS (ELEKO e CÁSSIO) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, em virtude da ausência de impugnação específica ao fundamento de incidência da Súmula n. 7 do STJ.
+Nas razões do presente inconformismo, ELEKO e CÁSSIO defenderam que (1) a decisão monocrática aplicou rigor formal excessivo ao exigir impugnação específica, ignorando a argumentação concreta e específica apresentada; (2) a matéria discutida é de direito, não de reexame de provas, o que afasta a aplicação da Súmula n. 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 543-546).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. PROSSEGUIMENTO DA EXECUÇÃO CONTRA O COOBRIGADO. POSSIBILIDADE. SÚMULA N. 581 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A compreensão adotada pelo Tribunal estadual encontra ressonância na jurisprudência do STJ, que perfilha o posicionamento de que a homologação do plano de recuperação judicial não extingue a execução em relação aos coobrigados, conforme o art. 59 da Lei n. 11.101/2005 (Súmula n. 581 do STJ).
+2. No caso concreto, o recurso especial limitou-se a impugnar a extinção da execução em relação à empresa devedora, questão que não foi objeto de análise pelo acórdão recorrido. As razões recursais, portanto, mostram-se dissociadas dos fundamentos do aresto, incidindo a Súmula n. 284 do STF.
+3 . Agravo interno provido, para reconsiderar a decisão monocrática e, em novo exame, não conhecer do recurso especial.
+VOTO
+O agravo interno merece acolhida.
+Verifica-se que, nas razões do agravo em recurso especial, ELEKO e CÁSSIO impugnaram a aplicação da Súmula n. 7 feita na decisão de admissibilidade (e-STJ, fls. 489-511). A argumentação foi específica, pois defenderam que não há pretensão de reexame de fatos ou provas para o caso em questão, por estar diretamente relacionado à aplicação dos arts. 49 e 59 da Lei n. 11.101/2005 e à novação da dívida decorrente da recuperação judicial.
+Assim, RECONSIDERO a decisão monocrática anteriormente proferida e passo, de plano, ao exame do recurso especial.
+Nas razões de seu apelo nobre interposto com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, ELEKO e CÁSSIO apontaram violação dos arts. 49 e 59 da Lei n. 11.101/2005 e art. 485, VI do CPC, alegando a necessidade de extinção da execução em face da devedora principal ELEKO, por superveniente falta de interesse de agir, em razão da novação decorrente da aprovação e homologação do Plano de Recuperação Judicial.
+Na origem, trata-se de embargos à execução opostos por ELEKO e CÁSSIO contra o BANCO BRADESCO S.A. (BRADESCO), originados de uma execução de título extrajudicial fundada em cédula de crédito bancário, na qual CÁSSIO figurou como avalista.
+A r. sentença julgou extinta a ação em relação a ELEKO, pela ausência de recolhimento das custas iniciais (art. 485, IV, do CPC) e rejeitou os embargos em relação à CÁSSIO.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso de apelação interposto por CÁSSIO, alegando que o deferimento do processamento da recuperação judicial da empresa executada não obsta o prosseguimento da execução contra o avalista. Confira-se:
+De início ressalte-se que, ainda que o débito sub judice tenha sido incluído pela devedora principal "Indústria de Parafusos Eleko Ltda" em seu plano de recuperação judicial (fls. 238/291), permanece hígido o interesse do banco credor/embargado/apelado para a cobrança do título contra o devedor avalista, sobretudo porque tal plano não teve aceite expresso do banco para liberar especificadamente o devedor aqui em juízo.
+Havendo devedor solidário/avalista, como no caso aqui julgado, não há óbice ao prosseguimento da demanda em tela relação a ele, já que não atingido pela recuperação judicial da empresa devedora principal. (e-STJ, fl. 427).
+A compreensão adotada pelo Tribunal estadual encontra ressonância na jurisprudência do STJ, que perfilha o posicionamento de que a homologação do plano de recuperação judicial não extingue a execução em relação aos coobrigados, conforme o art. 59 da Lei n. 11.101/2005.
+Essa orientação, inclusive, foi cristalizada na Súmula n. 581 do STJ, que dispõe: A recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória.
+A propósito:
+RECURSO ESPECIAL. EMPRESARIAL. EXECUÇÃO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INSTAURAÇÃO. PROSSEGUIMENTO. RECUPERAÇÃO JUDICIAL. IRRELEVÂNCIA.
+1. A jurisprudência desta Corte Superior é no sentido de que a recuperação judicial não impede o processamento do pedido de desconsideração da personalidade jurídica. Precedentes.
+2. A novação decorrente da concessão da recuperação judicial afeta somente as obrigações da recuperanda, devedora principal, constituídas até a data do pedido, não havendo nenhuma interferência quanto aos coobrigados, fiadores e obrigados de regresso, compreensão que deve ser estendida a todos os corresponsáveis pelo adimplemento do crédito, aí incluídos os sócios atingidos pela desconsideração da personalidade jurídica, desde que preservado o patrimônio da sociedade recuperanda e a sua capacidade de soerguimento.
+3. Recurso especial provido.
+(REsp 1.893.795/DF, Rel Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/6/2025)
+Ocorre que, nas razões do recurso especial, a insurgência está direcionada exclusivamente à extinção da execução em relação a ELEKO (e-STJ, fl. 436), inexistindo qualquer argumentação voltada à exclusão da ação em relação ao CÁSSIO, avalista.
+Como visto, os embargos à execução foram extintos em relação a ELEKO e prosseguiram somente em relação ao CÁSSIO. Assim, o acórdão recorrido não tratou do mérito da extinção da execução contra a devedora ELEKO, por ser matéria que, inclusive, não foi devolvida à segunda instância.
+Nesse sentido, aliás, esclareceu o acórdão que julgou os embargos de declaração: Sem prejuízo, tal como anotado no acórdão, não é possível ao sócio-avalista opor a aprovação do plano de recuperação judicial como suposta causa de novação da garantia por ele assinada (e-STJ, fl. 468).
+Aplicável, portanto, o óbice da Súmula n. 284 do STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, NÃO CONHECER do recurso especial.
+MAJORO em 3% o valor dos honorários advocatícios anteriormente fixados em favor de BRADESCO, nos termos do art. 85, § 11, do NCPC.
+É o voto.
