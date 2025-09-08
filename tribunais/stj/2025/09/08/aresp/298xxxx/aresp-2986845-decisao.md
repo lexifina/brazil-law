@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANDERSON TAGUCHI KUDO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO REVISIONAL DE CONTRATO Insurgência contra a r. decisão que indeferiu o pedido de concessão de suspensão da exigibilidade do crédito - Recurso interposto pelo autor. ANTECIPAÇÃO DE TUTELA Nos termos do artigo 300 do Código de Processo Civil, a tutela de urgência poderá ser concedida nos casos em que houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo Sem que sejam vislumbrados tais pressupostos, inviável a antecipação. No caso, não se vislumbra, a princípio, a probabilidade do direito a ensejar a concessão da tutela de urgência Análise da alegação de abusividade das cláusulas contratuais demanda a observância do contraditório e do aprofundamento da questão durante a fase instrutória - Ausência dos requisitos legais necessários à concessão da medida - Precedentes deste E. Tribunal de Justiça. Decisão mantida Recurso desprovido.
+Quanto à controvérsia, a parte recorrente alega violação do art. 492 do CPC, no que concerne à ocorrência de decisão extra petita, tendo em vista a incongruência entre a matéria do recurso e o acordão proferido, trazendo a seguinte argumentação:
+Sendo assim, a análise equivocada, ao afrontar o artigo 492 do CPC originou o julgamento extra petita e agravou ainda mais a nefasta situação financeira que subjuga o Recorrente, tornando-o refém de prazo cujo final não se pode prever, procrastinando a efetividade da justiça.
+Assim, o Agravo de Instrumento fora interposto contra r. decisão de primeira instância de fls. 197/198 que entendeu ser prematura a concessão da tutela de urgência pleiteada antes da realização da audiência de conciliação prevista no procedimento especial de repactuação de dívidas.
+As razões do Agravo foram baseadas na Lei do Superendividamento, notadamente na inexistência de dispositivo que proíba a concessão de tutela de urgência antes da realização de audiência de conciliação, na comprovação de superendividamento do Recorrente, bem como na necessidade imediata da garantia da manutenção do seu mínimo existencial, pleiteando assim o deferimento de tutela de urgência para..
+ ..
+Portanto, resta configurada a incongruência entre o que é objeto do Agravo de Instrumento e o v. Acórdão ora combatido, bem como o v.
+Acórdão proferido nos Embargos Declaratórios, o que configura expressa violação ao artigo 492 do CPC, devendo ser declarada sua nulidade, nos termos invocados (fls. 242-247).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
