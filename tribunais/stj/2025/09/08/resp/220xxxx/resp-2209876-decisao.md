@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por MÁRCIO EUSTÁQUIO DE SOUZA com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fls. 1.098-1.103):
+AGRAVO INTERNO - DECISÃO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO - MANUTENÇÃO DA DECISÃO.
+Deve ser mantida a decisão monocrática impugnada face à ausência de argumentação capaz de desconstituir o fundamento adotado, porquanto não restaram evidenciados os vícios apontados para o acolhimento dos embargos de declaração.
+Embargos de declaração rejeitados (fls. 1.259-1.264).
+A parte recorrente alega violação dos artigos 489 e 1.022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, a saber: (a) indeferimento da inicial da ação rescisória antes do julgamento do agravo interno; e, (b) não consideração dos documentos que comprovam a hipossuficiência.
+Quanto às questões de fundo, sustenta as seguintes ofensas:
+a) art. 5º, XXXV e LXXIV, da Constituição Federal, ao argumento de que o indeferimento da justiça gratuita impede o acesso à jurisdição (fls. 1274-1293);
+b) art. 99, §§ 2º e 3º, do CPC/2015, ao argumento de que a presunção de hipossuficiência não foi devidamente considerada, e que não há elementos concretos nos autos que justifiquem o indeferimento da gratuidade (fls. 1274-1293);
+c) art. 1.003, § 5º, do CPC/2015, ao argumento de que o prazo para interposição de agravo interno interrompe o prazo para o recolhimento do depósito prévio (fls. 1274-1293).
+Dissídio jurisprudencial entre o TJMG e o STJ sobre a concessão de justiça gratuita.
+Com contrarrazões (fls. 1.324-1.334).
+Juízo positivo de admissibilidade (fls. 1.338-1.341).
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, contra a decisão do relator que indeferir os benefícios da justiça gratuita caberá agravo interno, se tornando exigível o pagamento de custas após confirmado o indeferimento pelo colegiado. Ora, somente após confirmada a denegação, se for o caso, o relator ou o órgão colegiado determinará o recolhimento das despesas processuais, sob as penas da lei.
+Não é nem mesmo razoável o indeferimento da inicial da ação rescisória, por ausência de depósito prévio, pelo relator antes mesmo do transcurso do prazo recursal da parte que teve indeferida as benesses da gratuidade de justiça (e de confirmada a denegação colegiadamente).
+No mesmo sentido, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO DA APELAÇÃO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. MÉRITO DO RECURSO. AUSÊNCIA DE PREPARO. DESERÇÃO. AFASTAMENTO.
+1. É desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que a parte recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício. Nesse sentido: AgInt no RMS 49.194/AC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/12/2017; EDcl no AgInt nos EDcl no AREsp 929.242/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/9/2017.
+2. No mais, "para as pessoas físicas, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento, sem nenhuma comprovação prévia, para que lhes seja concedida a assistência judiciária gratuita. Na hipótese, a Corte estadual não apresentou justificativa concreta para afastar a presunção de hipossuficiência" (AgInt no AREsp 1.647.231/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 25/6/2020).
+3. A tese da ora agravante de que houve "alteração fática da situação econômico-financeira" (fl. 208, e-STJ) das partes contrárias a justificar a cessação do benefício à Assistência Judiciária Gratuita nem sequer foi apreciada pelo Tribunal de origem, que analisou a questão sob ótica diversa.
+4. Agravo Interno não provido. (AgInt no REsp 1.900.902/DF, Relator Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 8/3/2021, DJe de 16/3/2021)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. GRATUIDADE DA JUSTIÇA. PEDIDO SUPERVENIENTE À PRIMEIRA MANIFESTAÇÃO NOS AUTOS. POSSIBILIDADE. EFEITO PROSPECTIVO. DECISÃO DE INDEFERIMENTO PELO RELATOR. DETERMINAÇÃO DE RECOLHIMENTO DO PREPARO NA MESMA DECISÃO. IMPOSSIBILIDADE. EXIGIBILIDADE DO PREPARO. JULGAMENTO DO AGRAVO INTERNO OU TRANSCURSO DO PRAZO RECURSAL. REFORMA DO ACÓRDÃO ESTADUAL.
+I. Hipótese em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo que não conheceu da apelação em razão da deserção.
+II. Questão em discussão
+2. O propósito recursal consiste em decidir se (i) a concessão da gratuidade de justiça, requerida pela primeira vez em sede recursal, exige a comprovação do decréscimo patrimonial ou da redução da capacidade econômico-financeira do requerente e (ii) o recolhimento do preparo recursal pode ser exigido pelo relator antes do transcurso do prazo para a interposição de agravo interno contra a decisão de indeferimento da gratuidade da justiça.
+III. Razões de decidir
+3. A jurisprudência desta Corte é firme no sentido de que a gratuidade da justiça pode ser solicitada a qualquer tempo e em qualquer grau de jurisdição, em conformidade com o disposto no art. 99, caput e § 1º, do Código de Processo Civil (CPC).
+4. A legislação não impõe que o pedido superveniente de gratuidade, formulado após a primeira manifestação nos autos, venha acompanhado de provas da alteração da condição econômica do requerente. A análise deve considerar a situação financeira no momento da solicitação, sendo irrelevante eventual variação patrimonial desde o início da demanda. Presentes os requisitos legais (insuficiência de recursos financeiros), o benefício será concedido; ausentes, será indeferido.
+5. Situação diversa ocorre quando a benesse houver sido anteriormente negada ou concedida e fatos supervenientes tenham o condão de possibilitar a sua revisão. Precedentes.
+6. Apesar da possibilidade de requerer a gratuidade a qualquer momento, o benefício não retroage para alcançar encargos processuais anteriores ao pedido. Precedentes.
+7. Quando o relator indefere o pedido de gratuidade da justiça, a determinação de recolhimento do preparo no prazo de 5 dias, na forma do art. 101, § 2º, do CPC, só pode ocorrer após a confirmação do indeferimento, o que ocorre (I) pelo julgamento do agravo interno interposto contra a referida decisão; ou (II) pelo transcurso do prazo recursal sem a interposição do agravo interno.
+8. Trata-se de interpretação que melhor se coaduna com o disposto no art. 101, § 2º, do CPC e com o direito fundamental de acesso à justiça aos economicamente hipossuficientes (art. 5º, XXXV, da CF/88), o princípio da primazia do julgamento de mérito (arts. 4º e 6º do CPC) e o direito ao julgamento colegiado.
+9. No recurso sob julgamento, merece reforma o acórdão estadual, tendo em vista que o preparo somente se tornaria exigível após a confirmação do indeferimento por meio do julgamento do agravo interno pelo colegiado, devendo o recorrente ser intimado para suprir a insuficiência no valor do preparo, nos termos do art. 1.007, § 2º, do CPC, com o consequente retorno do processo ao Tribunal de origem a fim de que, superado o não conhecimento da apelação, prossiga na apreciação do recurso, como bem entender de direito.
+IV. Dispositivo 10. Recurso especial conhecido e provido (REsp n. 2.186.400/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/6/2025, DJEN de 27/6/2025.)
+Assim, somente após a confirmação do indeferimento da gratuidade da justiça pelo respectivo órgão colegiado (com o julgamento do agravo interno), se for o caso, é que o depósito prévio se torna exigível e deve ser recolhido, no prazo a ser fixado pelo juízo.
+Ante o exposto, dou provimento ao recurso especial , para, cassando o acórdão recorrido, determinar o regular processamento da demanda nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA. INDEFERIMENTO DA INICIAL, POR AUSÊNCIA DE DEPÓSITO PRÉVIO, ANTES DO PRAZO DE INTERPOSIÇÃO DE AGRAVO INTERNO. NÃO CABIMENTO. RECURSO ESPECIAL PROVIDO.
