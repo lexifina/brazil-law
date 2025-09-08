@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Raul Araújo.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REJEITADA A VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO FUNDAMENTADO. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. NÃO OCORRÊNCIA DE DANOS MORAIS. ARESTO ESTADUAL CONCLUIU PELA REGULARIDADE DA INSCRIÇÃO. PRETENSÃO DEPENDENTE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, julgou improcedente o pedido posto na ação de indenização por danos morais ajuizada pela parte ora agravante, concluindo que não houve comprovação de irregularidade na inscrição do nome do ora agra vante em cadastro de proteção ao crédito. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Segundo a jurisprudência do STJ, a incidência da Súmula 7/STJ também obsta o apelo nobre pela alínea c do permissivo constitucional.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por HECTOR JULIAN DE LA CRUZ em face de decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado contra v. acórdão assim ementado (fl. 306):
+"DIREITO PÚBLICO NÃO-ESPECIFICADO. FORNECIMENTO DE ENERGIA ELÉTRICA. RESPONSABILIDADE DO DÉBITO POR QUEM CONTRATA O SERVIÇO. DÉBITO ATUAL. REGULARIDADE DA INSCRIÇÃO DO NOME DO CONSUMIDOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. INOCORRÊNCIA.
+1. A responsabilidade pelo pagamento das faturas de consumo de energia elétrica é do consumidor que contrata o serviço junto à concessionária. Inteligência dos artigos 2º e 3º, da Resolução nº 414/10 da ANEEL (vigente à época dos fatos). Trata-se de débito propter personae, pois é de responsabilidade do consumidor que contratou o serviço.
+2. Caracterizado o inadimplemento das faturas ordinárias de consumo de energia elétrica, possível se mostra a inscrição do devedor nos órgãos de proteção ao crédito. Diante de todo este contexto, não há falar em conduta ensejadora de danos morais por parte da concessionária, que apenas exerceu seu regular direito.
+3. Tratando-se de relações de consumo, possível se mostra a inversão do ônus da prova, nos termos do art. 6º, VIII, do CDC. Contudo à parte autora cabe comprovar minimamente os fatos constitutivos de seu direito.
+4. No caso dos autos, contudo, a parte autora não se desincumbiu de tal ônus, além disso, no que se refere ao dano moral, não se trata de hipótese de dano moral in re ipsa, especialmente porque a concessionária justificou, a teor do disposto no art. 373, II, do CPC, a inocorrência de irregularidades atribuíveis à sua atuação na concessão do serviço público de fornecimento de energia elétrica.
+APELAÇÃO IMPROVIDA."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 331-335).
+Nas razões do apelo nobre (fls. 345-362), HECTOR JULIAN DE LA CRUZ aponta, preliminarmente, violação ao art. 1.022 do CPC/2015, afirmando que o eg. TJ-RS não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, indica ofensa aos arts. 186 e 927 do Código Civil; aos arts. 373, I e II, do CPC/2015 e ao art. 43, § 3º, do Código de Defesa do Consumidor (CDC), afirmando, entre outros argumentos, que "(..) DEMONSTROU QUE A INSCRIÇÃO DE SEU CPF JUNTO AOS ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO DE REFEREM A DÉBITOS INDEVIDAMENTE COBRADOS, EIS QUE A UNIDADE CONSUMIDORA JÁ NÃO DEVERIA ESTAR EM SEU NOME, POIS, CONFORME CONFIRMADO PELA PRÓPRIA RECORRIDA, A TROCA DA TITULARIDADE SE DEU NOVE MESES ANTES DO VENCIMENTO DOS DÉBITOS" (fl. 359 - destaques no original).
+Aduz, também, que "(..) o ônus da prova incumbe ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. Ao insurgir-se o réu com a afirmação de preexistência de negativações indevidas em nome do autor deveria este ter feito prova de tal alegação, isto é, era de sua responsabilidade demonstrar que não fazia jus o autor pela indenização pleiteada e provas que as negativações eram indevidas, e não apenas alegar como o fez. Diferentemente do réu, o autor demonstrou que não era mais titular da unidade consumidora no período em que foi inscrito pela Ré junto aos órgãos de restrição ao crédito. Ou seja, a parte apelante, de forma contrária ao afirmado pelo douto juízo a quo, demonstrou amplamente que a inscrição é manifestamente indevida!" (fl. 360 - destaques no original).
+Assevera, ainda, que a "(..) inscrição do nome da parte recorrente nos órgãos restritivos de crédito causa efetivamente o dano cuja reparação é reclamada, já que é mantido de forma indevida. O dano moral, neste caso, é presumido tão só pelo fato da indevida inscrição negativa" (fl. 361 - destaques no original).
+Intimada, COMPANHIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA - CEEE-DF apresentou contrarrazões (fls. 367-372), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 376-384), motivando o agravo em recurso especial (fls. 393-409) em tela.
+Também foi oferecida contraminuta (fls. 413-417), pelo desprovimento do agravo.
+Instado a se manifestar, o d. Ministério Público Federal opinou pelo desprovimento do recurso, conforme parecer (fls. 439-443) da lavra do em. Subprocurador-Geral da República, Dr. Edson Oliveira de Almeida.
+Distribuído o feito à em. Ministra REGINA HELENA COSTA, Sua Excelência declinou da competência, entendendo ser a Segunda Seção do STJ competente para a análise do processo, o qual trata de ação declaratória de inexistência de débito cumulada com pedido de indenização em face da recorrida, objetivando a declaração de inexigibilidade de débito de contrato de prestação de serviço de energia elétrica cumulado com pedido de condenação por danos morais decorrente da negativação indevida de seu nome nos órgãos de proteção ao crédito (fls. 446-449).
+Os autos foram redistribuídos a esta Relatoria.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REJEITADA A VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO FUNDAMENTADO. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. NÃO OCORRÊNCIA DE DANOS MORAIS. ARESTO ESTADUAL CONCLUIU PELA REGULARIDADE DA INSCRIÇÃO. PRETENSÃO DEPENDENTE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, julgou improcedente o pedido posto na ação de indenização por danos morais ajuizada pela parte ora agravante, concluindo que não houve comprovação de irregularidade na inscrição do nome do ora agra vante em cadastro de proteção ao crédito. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Segundo a jurisprudência do STJ, a incidência da Súmula 7/STJ também obsta o apelo nobre pela alínea c do permissivo constitucional.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+O recurso em apreço não merece prosperar.
+Inicialmente, rejeita-se a alegada violação ao art. 1.022 do CPC/2015, uma vez que o eg. TJ-RS analisou os pontos essenciais ao deslinde da controvérsia dando-lhes robusta e devida fundamentação. Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se recentes julgados:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.663.815/DF, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024 - g. n.)
+"CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. PLANO DE SAÚDE. OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. REEMBOLSO. LIMITAÇÃO À TABELA. OFENSA AO DEVER DE INFORMAÇÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. DANOS MORAIS. CONFIGURAÇÃO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+(..)
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.687.571/PA, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025 - g. n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DE PLANO NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Em relação à violação ao artigo 1022 do CPC, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+(..)
+5. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.256.940/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024 - g. n.)
+Avançando, melhor sorte não socorre o apelo no tocante à afronta aos arts. 186 e 927 do Código Civil, aos arts. 373, I e II, do CPC/2015 e ao art. 43, § 3º, do CDC.
+No caso, o eg. TJ-RS, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença que julgou improcedente o pedido posto na ação de indenização por danos morais ajuizada pela parte ora agravante, concluiu que não houve irregularidade na inscrição do nome do ora agravante em cadastro de proteção ao crédito, conforme v. acórdão do qual se transcreve o seguinte excerto (fls. 299-304):
+"Com efeito, ao que se colhe dos autos, a parte autora não conseguiu demonstrar a efetiva negativa da concessionária em providenciar a transferência da unidade consumidora para o seu nome, tampouco a dívida que impediria tal providência.
+Partindo desta premissa, destaco que, tratando-se de relações de consumo, possível se mostra a inversão do ônus da prova, nos termos do art. 6º, VIII, do CDC. Contudo à parte autora cabe comprovar minimamente os fatos constitutivos de seu direito. No ponto:
+(..)
+No caso dos autos, contudo, a parte autora não se desincumbiu de tal ônus, por insipientes os elementos por ela acostados autos autos. Além disso, no que se refere ao abalo moral, não se trata de hipótese de dano moral in re ipsa, especialmente porque a concessionária justificou, a teor do disposto no art. 373, II, do CPC, a inocorrência de irregularidades atribuíveis à sua atuação na concessão do serviço público de fornecimento de energia elétrica. A questão foi bem apreciada na sentença, merecendo transcrição o seguinte excerto, que agrego às razões de decidir, in verbis:
+Embora tenha sido determinada a inversão do ônus da prova em favor do autor, por se tratar de relação de consumo, cabe ao autor, no mínimo, demonstrar a verossimilhança de suas alegações, conforme dispõe o art. 6º, VIII, do Código de Defesa do Consumidor.
+No caso dos autos, o autor não se desincumbiu desse ônus mínimo, pois não apresentou provas suficientes de que deixou o imóvel em agosto de 2019 e de que houve a solicitação à ré da transferência da titularidade da conta de energia elétrica para o novo inquilino.
+O autor juntou aos autos apenas um suposto e-mail enviado pelo novo inquilino, porém a ré sequer figurava como destinatária da missiva (Evento 1, OUT11).
+Essa declaração, por si só, não é suficiente para comprovar os fatos alegados pelo autor, pois se trata de documento unilateral e sem valor probatório.
+Assim, tem-se que o autor não juntou nenhum documento que comprovasse a data da saída do imóvel e a comunicação à ré sobre a necessidade de alteração da titularidade da conta de energia elétrica para o novo inquilino.
+Por outro lado, a ré juntou aos autos as faturas em aberto referentes à unidade consumidora nº 48949698, que demonstram o consumo efetivo de energia elétrica no período entre janeiro de 2021 e abril de 2021. Também juntou um comprovante de solicitação de desligamento definitivo da unidade consumidora nº 48949698, feito pelo autor em abril de 2021, com a justificativa de que não residia mais na UC. Além disso, juntou um comprovante de solicitação de alteração da titularidade da conta de energia elétrica para o nome do novo inquilino, Júlio Adrian Brites de Leon, também feito em abril de 2021.
+Esses documentos evidenciam que o autor permaneceu como titular da unidade consumidora nº 48949698 até abril de 2021 e que foi nessa data que ele comunicou à ré sobre a necessidade de alteração da titularidade da conta de energia elétrica para o novo inquilino. Portanto, o autor é responsável pelos débitos referentes ao período em que foi titular da unidade consumidora nº 48949698.
+Assim sendo, não há que se falar em inexistência do débito nem em inscrição indevida nos órgãos de proteção ao crédito. A ré agiu no exercício regular do seu direito ao cobrar os débitos em aberto e ao inscrever o nome do autor nos órgãos de proteção ao crédito, conforme previsto na Resolução nº 414/2010 da ANEEL.
+Prosseguindo, não se pode olvidar que se trata de débito propter personae, pois o fornecimento de energia elétrica é destinado aos consumidores que contratam o serviço. Neste aspecto, destaco o texto dos arts. 2º e 3º, da Resolução nº 414/10, da ANEEL, que é a legislação de regência à hipótese concreta:
+(..)
+Da análise dos dispositivos legais acima transcritos e aplicáveis à espécie, conclui-se que a responsabilidade pelo pagamento da energia fornecida é do consumidor que contratou o fornecimento, seja ele proprietário, locatário ou invasor. E no caso dos autos o contrato estava em nome da parte autora, ora apelante que, em última análise, é a parte beneficiária da energia elétrica fornecida. E nos termos do art. 70 da Resolução-ANEEL nº 414/10, o ônus de notificar a troca de titularidade incumbia à autora, in verbis:
+(..)
+Assim, não havendo requerimento efetivo de troca de titularidade, é impossível à concessionária tomar conhecimento da situação fática que, em tese, ocasionou a inscrição do autor nos órgãos de proteção ao crédito.
+(..)
+Não havendo irregularidade no agir da concessionária, não há falar em dano moral na espécie.
+O suporte fático não é suficiente para lesionar sentimento ou causar dor em decorrência de ato contrário ao direito ou, como se afigura a hipótese dos autos, a parte a quem aproveita não demonstra minimamente a capacidade do fato haver causado de forma eficaz o abalo moral aduzido, especialmente quando garantida a oportunidade de produzir prova neste sentido e não fazê-lo a contento. A reparação exige demonstração do dano concreto que extrapole o simples dissabor ou o aborrecimento corriqueiro.
+De maneira que a conduta da concessionária não ensejou danos morais ao consumidor.
+(..)" (g. n.)
+Nesse cenário, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Finalmente, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula 7/STJ também obsta o apelo nobre pela alínea c do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. (..) REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A incidência da Súmula n. 7 do STJ quanto à análise da tese recursal pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.965.844/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DANO MORAL. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1815468/PB, Rel. MINISTRA MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021 - g. n.)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. E, quanto ao ônus de sucumbência recursal, em observância ao art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos à parte agravada em 10% sobre o valor já fixado pelas instâncias ordinárias. Ressalvada eventual concessão da gratuidade da justiça.
+É como voto.
