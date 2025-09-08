@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA VIANEY PINHEIRO BRINGEL, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdãos proferidos pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, nos autos da Apelação Criminal n. 0000117-32.2021.8.10.0056 e nos Embargos de Declaração subsequentes (fls. 916/918 e 1.021/1.039).
+No presente recurso especial, a recorrente alega, em síntese, violação de lei federal e divergência jurisprudencial acerca da necessidade de comprovação do dolo específico e do efetivo dano ao erário para a configuração do delito de responsabilidade (fls. 1.021/1.039).
+Foram apresentadas contrarrazões pelo Ministério Público estadual (fls. 1.042/1.045). O recurso foi admitido na origem (fls. 1.047/1.048).
+O Ministério Público Federal opinou pelo não conhecimento do recurso ou, no mérito, pelo seu desprovimento (fls. 1.070/1.076).
+É o relatório.
+O recurso não merece ser conhecido.
+No que tange à interposição pela alínea a do permissivo constitucional, verifica-se que a recorrente não indicou de forma clara e precisa qual dispositivo de lei federal teria sido violado pelo acórdão recorrido. Tal deficiência na fundamentação impede a exata compreensão da controvérsia, atraindo a incidência, por analogia, do óbice da Súmula 284 do Supremo Tribunal Federal. Nesse sentido: AREsp n. 2.466.982/SC, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 9/6/2025, DJEN de 13/6/2025.
+Quanto à alínea c, o recurso também não preenche os requisitos de admissibilidade. A demonstração do dissídio jurisprudencial exige o cumprimento das formalidades previstas nos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno desta Corte. É imprescindível que a parte recorrente realize o cotejo analítico, demonstrando a similitude fática entre o acórdão recorrido e os julgados paradigmas e a consequente divergência na interpretação da lei federal.
+Na espécie, a recorrente limitou-se a transcrever ementas e trechos dos acórdãos apontados como divergentes, sem, contudo, realizar a necessária confrontação analítica entre as bases fáticas dos casos e as teses jurídicas adotadas, o que inviabiliza o conhecimento do recurso pela divergência. A propósito: AgInt no AREsp n. 2.781.129/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/8/2025, DJEN de 18/8/2025.
+Em razão do exposto, não conheço do recurso especial (art. 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO ESPECIAL PENAL. CRIME DE RESPONSABILIDADE. ART. 1º, XIII, DO DECRETO-LEI N. 201/67. ALÍNEA A. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ALÍNEA C. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. REQUISITOS LEGAIS NÃO ATENDIDOS.
+1. A admissibilidade do recurso especial pela alínea a do permissivo constitucional exige a indicação clara e precisa do dispositivo de lei federal tido por violado, sob pena de incidência do óbice da Súmula 284 do Supremo Tribunal Federal, por deficiência na fundamentação.
+2. Para a demonstração do dissídio jurisprudencial, não basta a simples transcrição de ementas dos acórdãos paradigmas; impõe-se o cotejo analítico entre o aresto recorrido e os julgados apontados como divergentes, com a demonstração da similitude fática e da adoção de teses jurídicas distintas, nos moldes do art. 1.029, § 1º, do Código de Processo Civil, e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Recurso especial não conhecido.
