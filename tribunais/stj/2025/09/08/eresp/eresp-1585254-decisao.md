@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por VISION MED ASSISTÊNCIA MÉDICA LTDA. contra acórdão prolatado pela Primeira Turma do Superior Tribunal de Justiça assim ementado (fls. 1.885-1.886):
+TRIBUTÁRIO. PROCESSUAL CIVIL. COFINS. OPERADORA DE PLANOS DE SAÚDE. VALORES REPASSADOS A TERCEIROS. PEDIDO DE SUA EXCLUSÃO DA BASE DE CÁLCULO DO TRIBUTO. ART. 3º, § 2º, III, DA LEI N. 9.718/98. ACÓRDÃO RECORRIDO QUE GUARDA SINTONIA COM A JURISPRUDÊNCIA DO STJ. TESE RECURSAL FUNDADA NO CONCEITO EM SI DE FATURAMENTO. INVIABILIDADE DE CONHECIMENTO DO APELO RARO.
+1. A decisão agravada registrou estar harmônico com a jurisprudência de ambas as Turmas da Primeira Seção o acórdão recorrido, no que reconheceu a inviabilidade, com fulcro no art. 3º, § 2º, III, da Lei n. 9.718/98, de se excluírem da base de cálculo da COFINS os valores repassados aos credenciados, tendo em vista estar a dita exclusão condicionada a regulamento do Poder Executivo, o qual não foi implementado.
+2. No tocante ao pedido da contribuinte pela análise da questão sob o enfoque do conceito de faturamento em si, à luz dos arts. 2º da LC n. 70/91; 3º, caput, da Lei n. 9.718/98; e 110 do CTN, a insurgência excepcional não reúne condições de cognoscibilidade, visto que: (a) deficiente a fundamentação recursal em relação àquele dispositivo do CTN; (b) os regramentos legais não possuem comando para sustentar a tese recursal de que o conceito de faturamento deve atrelar-se "à remuneração atribuível à atividade desenvolvida pelo contribuinte"; (c) o arrazoado recursal não se presta a combater todos os alicerces do aresto regional nesse particular; e (d) o Sodalício de origem não solucionou a contenda sob o prisma almejado pela contribuinte (i. e., conceito de faturamento como correspondente apenas à remuneração relativa à atividade desenvolvida pela sociedade empresária).
+3. Agravo interno não provido.
+Os embargos de declaração opostos contra o referido acórdão foram rejeitados (fls. 1.956-1.963).
+A parte embargante alega que haveria divergência relativamente ao que fora decidido pela Terceira Turma no julgamento do AgInt no AgInt no REsp n. 2.019.323/PR e do AgInt no AREsp n. 1.487.241/SC.
+Defende, assim, a existência de dissídio jurisprudencial em relação à aplicação do óbice contido na Súmula n. 284 do STF.
+Requer, em consequência, o provimento dos presentes embargos, com a reforma do acórdão embargado.
+É, no essencial, o relatório.
+Para que sejam cabíveis no Superior Tribunal de Justiça, os embargos de divergência exigem a presença de elementos fáticos semelhantes nos acórdãos confrontados, de modo a autorizar a comparação, em abstrato, das conclusões de mérito sobre questões conhecidas e decididas no recurso especial (art. 1.043, I e III, do Código de Processo Civil).
+No caso, a conclusão do acórdão embargado pela ausência de pressuposto de admissibilidade do recurso especial, no ponto impugnado nos embargos de divergência, resultou na ausência de questão de mérito decidida no recurso, seja de direito material ou de direito processual, contexto no qual a pretensão dos embargos de divergência se resume a rediscutir a conclusão do acórdão embargado pela aplicação do óbice sedimentado na Súmula n. 284 do STJ.
+Com efeito, o conteúdo de cada um dos acórdãos contrastados se deveu às premissas e particularidades de cada recurso e decisão impugnada, inexistindo comparação abstrata possível entre o acórdão recorrido e outro no qual se reputou inexistente o óbice recursal, afigurando-se inviável a obtenção de nova apreciação da questão na via dos embargos de divergência, conforme pacífico entendimento deste Superior Tribunal (destaquei):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL, QUE NÃO FOI CONHECIDO EM RAZÃO DA AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL. INCIDÊNCIA DA SÚMULA N. 315 DO STJ. ADEMAIS, AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que não houve enfrentamento do mérito do recurso especial, porque o Recorrente deixou de impugnar especificamente os fundamentos adotados pelo Tribunal de origem, incidindo os óbices das Súmulas n. 283 e 284 do STJ.
+2. Mesmo sob a égide do novo Código de Processo Civil (art. 1.043, incisos I e III), "o não cabimento dos embargos de divergência no caso concreto é bastante claro, em virtude de não ter sido analisado o mérito do recurso especial no acórdão embargado, atraindo a incidência da Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial" (AgInt nos EAREsp 1.441.916/SC, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 19/08/2020, DJe 26/08/2020).
+3. Não é possível reexaminar, em embargos de divergência, os pressupostos de conhecimento do recurso especial, sobretudo porque o embargante não contrasta acórdãos que teriam dissentido especificamente acerca de norma processual de admissibilidade recursal, o que evidencia o manifesto descabimento da via recursal eleita.
+ ..
+5. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.937.862/SP, relatora Ministra Laurita Vaz, Corte Especial, julgado em 8/8/2023, DJe de 21/8/2023.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+2. Embora o art. 1043, inciso III, do novo CPC preveja o cabimento de embargos de divergência, sendo os acórdãos confrontados um acórdão de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia. No caso em julgamento, o acórdão embargado entendeu incabível a análise do mérito do recurso especial, ante os óbices das Súmulas 274/STF, 211/STJ e 7/STJ, não tendo, portanto, apreciado o mérito do recurso.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.779.208/SC, relatora Ministra Maria Isabel Gallotti, Corte Especial, j. em 22/8/2023, DJe de 28/8/2023.)
+A conclusão em comento, como se permitiu entrever, encontra-se sedimentada na Súmula n. 315 desta Corte Superior, segundo a qual: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Nesse sentido (destaquei):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. SIMILITUDE. AUSÊNCIA.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Tratando os acórdãos confrontados de questões essencialmente distintas, não há falar em dissídio jurisprudencial a ser sanado na via dos embargos de divergência.
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.056.572/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+ ..
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp n. 1.615.774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Falta aos presentes embargos de divergência, portanto, pressuposto de admissibilidade sem o qual não se pode conhecer desta via de impugnação, destinada apenas à uniformização da jurisprudência, diante do não conhecimento do mérito do recurso especial.
+Ante o exposto, com fundamento no art. 932, III, do Código de Processo Civil, nos termos do disposto no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como os efeitos de eventual concessão da gratuidade da justiça.
+Em atenção ao princípio da cooperação (art. 6º do CPC), anoto que a interposição de agravo que venha a ser declarado manifestamente inadmissível ou improcedente poderá ensejar a aplicação de multa, nos termos do § 4º do art. 1.021 do CPC.
+Publique-se. Intimem-se.
+EMENTA
