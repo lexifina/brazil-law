@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de provas.
+III. Razões de decidir
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+4. Agravo interno não provido.
+Tese de julgamento: 1. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.851-1.856) interposto contra decisão da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial (fls. 1.842-1.847).
+Em suas razões, a parte agravante alega que não busca o reexame de provas e que não houve a indicação genérica de ofensa aos dispositivos de lei federal.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (fl. 1.860).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se a análise de mérito do recurso especial demandaria o reexame de provas.
+III. Razões de decidir
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+4. Agravo interno não provido.
+Tese de julgamento: 1. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ.
+VOTO
+A insurgência não merece acolhida.
+Embora seja possível excluir a Súmula n. 284/STF, a parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada quanto à aplicação da Súmula n. 7/STJ, suficiente para o não conhecimento do recurso, motivo pelo qual sua incidência deve ser mantida por seus próprios fundamentos (fls. 1.842-1.847):
+Cuida-se de Agravo apresentado por LAISE CABRAL LIMA DE MENEZES e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim resumido:
+APELAÇÕES CÍVEIS EM AÇÕES DE RENTEGRAÇÃO DE POSSE E OPOSIÇÃO CONEXAS. SENTENÇA DE PROCEDÊNCIA DA REINTERAÇÃC DE POSSE DA INCORPCRADORA E DE IMPRCCEDÊNCIA DA REINTEGRAÇÃO DE POSSE DOS OCUPANTES E DA OPOSIÇÃO DE PROMITETE COMPRADOR. 1 - APELAÇÃO CÍVEL DE JOSE LAELIO LOPES FILHO. 1.1. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO SUSCITADA PELA ARTRON CONSTRUÇÃO, INCORPORAÇÃO E ENGENHARIA LTDA. - ME. AUSÊNCIA DE RAZÕES RECURSAIS. REQUISITOS DO ART 1.010, § 3O DO CPC, INEXISTENTES. PRELIMINAR ACOLHIDA. RECURSO NÃO CONHECIDO. 2 - APELAÇÃO CÍVEL MOVIDA POR LAISE CABRAL LIMA DE MENEZES E OUTROS. 2.1. PREJUDICIAL DE NULIDADE DA SENTENÇA POR FALTA DE CONDIÇÕES DA AÇÃO, SUSCITADA PELOS RECORRENTES. LEGITIMIDADE ATIVA DA INCORPCRADORA PARA AJUIZAR A AÇÃO DE REINTEGRAÇÃO DE POSSE. PROVA DA TITULAR IDADEDAS UNIDADES IMOBILIÁRIAS. POSSE EVIDENCIADA PELA EXISTÊNCIA DEAPARTAMENTOS M03ILIAD0S EM FASE DE VENDA E OUTROS EM FASE FINAL DE REVESTIMENTOS INTERNOS SERVINDO DE GUARDA DE DOCUMENTOS DO EMPREENDIMENTO. OBRA NÃO ABANDONADA. OBJEÇÃO REJEITADA. 3- ANÁLISE DO MÉRITO PROPRIAMENTE DITO DO RECURSO.OCUPAÇÃO DEUNIDADESIMOBILIÁRIASDE CONDOMÍNIO. POSSE CLANDESTINA. APOSSAMENTO OCULTOE DE MÁ-FÉ. CIÊNCIA DAORIGEM ILÍCITA DA POSSE NO MOMENTO DAOCUPAÇÃO. DESPOJAMENTO DOS BENS DA CONSTRUTORA DE FORMA INJUSTA. ESBULHO POSSESSÓRIO IDENTIFICADO. SENTENÇA MANTIDA. RECURSO DE JOSE LAELIO LOPES FILHO NÃOCONHECIDO. RECURSO DE LAISE CABRAL LIMA DE MENEZES E OUTROS CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação dos arts. 17, 18 e 561 do CPC, no que concerne à falta de legitimidade da parte recorrida/autora para a propositura da presente demanda, tendo em vista que ficou comprovado que as obras foram abandonadas antes de serem concluídas e os recorrentes exerceram a posse com a realização de obras, reparos e manutenção dos imóveis objeto da lide, trazendo a seguinte argumentação:
+A Autora em verdade tinha a incumbência de edificar unidades residenciais para posterior comercialização, circunstância última que fora implementada com a venda das unidades, conforme contratos de promessa de compra e venda. Ocorre que, jamais concluíram tais unidades deixando o local onde foram parcialmente edificadas as unidades em absoluto estado de abandono.
+Tal circunstância não somente evidencia que a Autora não mais detinha o domínio de tais unidades como reforça o entendimento de que nunca exerceram a posse sobre tais unidades, na medida em que sequer concluíram as obrigações que haviam assumido nos pactos anexos.
+Como se viu, com o devido respeito, a sentença, posteriormente ratificada pelo Acórdão sob vergasta, confunde conceitos entre domínio e posse. O que se tem materialmente demonstrado na demanda é que a autora obteve o domínio sobre o imóvel e exerceu a posse do mesmo quando começou e não terminou a edificação das unidades, as comercializou (contratos anexos), deixando assim de deter o domínio sobre as unidades, em seguida abandonou a construção sem concluir a obrigação contida nos pactos em favor do adquirentes das unidades, perdendo assim o exercício de sua posse, que em momento imediatamente posterior foram há muito concluídas pelos recorrentes que exercem a posse desde então.
+O que se conclui e foi devidamente demonstrado pelos recorrentes, mas não apreciado pelo Juízo a quo é que a recorrida não possui legitimidade para a proposição da reintegração de posse, uma vez que não mais gozava de tal condição no momento em que alienou tais unidades e abandonou a construção das mesmas, incorrendo o acórdão não somente em vulneração a norma inserta no art.
+561 do CPC, como também a disciplina relacionada a legitimidade ativa contida nos arts. 17 e 18, todos do Código de Processo Civil, devendo, portanto, ser reformado o Acórdão, com a consequente decretação da extinção do processo sem resolução do mérito em face da carência de ação, por parte da autora, tendo em vista ausentes as condições desta (legitimidade ad causam e possibilidade jurídica do pedido) aliada ao fato da manifesta impropriedade da ação intentada.
+Desta forma, falece também a construção de que a posse exercida pelos recorrentes seria clandestina, na medida em que ocupam tais unidades com ânimo de donos de forma mansa e pacífica desde o ano de 2010, oportunidade em que promoveram a finalização da obra das unidades que foram abandonadas pela autora, mesmo já tendo comercializado algumas unidades com outros particulares, o que, por si somente, já torna a autora ilegítima para postular em juízo, como já alinhado anteriormente.
+Durante todos estes anos os ora recorrentes exerceram legitimamente e plenamente seu direito de posse, moradia e demais direitos que deles decorrem, com plena exteriorização à vizinhança de posse mansa e pacífica.
+Os recorrentes, em verdade, encontraram as unidades em total estado de abandono pendentes de sua conclusão, e, ao longo de todos esses anos providenciaram todas as obras, reparos e manutenção que os imóveis necessitavam para postarem-se em perfeitas condições de uso (fls. 1792-1793).
+É o relatório.
+Decido.
+ ..
+De mais a mais, o Tribunal a quo se manifestou nos seguintes termos:
+2.1. PREJUDICIAL DE NULIDADE DA SENTENÇA POR FALTA DE CONDIÇÕES DA AÇÃO, SUSCITADA PELOS RECORRENTES.
+A legitimidade ativa da ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. para ajuizar a ação de reintegração de posse decorre, inicialmente, da titularidade registral dos apartamentos 101, 102, 103, 104, 105, 106, 107, 108, 111 e 112 que compõem o Condomínio Vista Verde localizado na Rua Ismael Wanderley, 778, Praia do Cotovelo, Parnamirim/RN (págs 20/40).
+E quanto ao poder propriamente dito dos bens, consistente no exercício fático da posse, comungo com o entendimento do julgador no sentido de que a ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. não abandonou a construção do Condomínio Vista Verde, haja vista que algumas unidades já estavam mobiliadas e outras em fase de revestimentos internos para processamento das vendas, servindo o local, inclusive, de almoxarifado para guarda dos documentos das unidades para futuras vendas a estrangeiros.
+ ..
+Os autos demonstram que esse Condomínio é composto por 12 unidades 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111 e 112 do tipo duplex, dos quais a ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. reconhece que vendeu o Aptº 110 para o Italiano ALBERTO MOGLIA, mas não reconhece a venda da unidade 109, cuja venda alega ter ocorrido pelos invasores de forma fraudulenta.
+É incontroverso que os apelantes não possuem contratos de compra e venda firmados com a ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. ou com terceiros de qualquer das unidades imobiliárias.
+Também não há documentos comprovando que estavam investidos de poderes, por adquirentes das unidades imobiliárias, para darem destino aos bens quer seja por meio de venda ou locação a terceiros.
+O que está demonstrado é que os apelantes, com fundamento na função social da propriedade e dizendo que a ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. perdeu a posse pelo abandono passaram a ocupar os apartamentos sem o conhecimento da proprietária.
+Pelo que consta no Termo de Declarações da Advogada JACY LIZANDRA LOISI DE ALBUQUQERQUE, perante a 1ª Delegacia de Polícia de Parnamirim (págs 519/522), as unidades 106/107/108/111 e 112 foram ocupadas por LAISE CABRAL LIMA DE MENEZES e ALBERES EPIFÂNIO DA SILVA que distribuíram os apartamentos entre os filhos, bem como que os apartamentos 101/102 foram ocupados por JOSÉ LAÉLIO LOPES FILHO e as unidades 103/104 foram ocupadas por ELIANE e MARIA ANGÉLICA.
+Quanto a unidade nº 105, não há provas da transferência do valor de venda desta para LEIF BORSHEIM e ANNE GRO PEDERSEN BORSHEIM, cujo documento juntado de transferência de valor em 14/03/2006 não se encontra traduzido, tornando-se imprestável como prova e não há documento bancário provando que o valor ingressou na conta bancária da Construtora.
+Por sua vez, o termo de quitação elaborado em 25/09/2007 e com a firma reconhecida, por comparação em 23/11/2018, foi impugnado pela ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA., por fraude decorrente da utilização de documentos que estavam guardados nos almoxarifados e indevidamente apropriados pelos invasores.
+A seu turno, a Construtora juntou à pg. 278 dos autos conexos nº 0800792-47.2017.8.20.5124 o Distrato de venda do apto 105 datado de 2008.
+Não há demonstração de que LEIF BORSHEIM e ANNE GRO PEDERSEN BORSHEIM estiveram no Brasil ou receberam as chaves da unidade imobiliária. Essa unidade 105 foi ocupada desde 2016 por JOSÉ HUMBERTO GOMES e MÔNICA CAESCAES NERY funcionários da ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. e com autorização desta, conforme Termo de Comodato juntado às págs 272/273 dos autos conexos.
+Exceto a unidade 105, as demais foram ocupadas de forma clandestina, haja vista que de acordo com as fotografias, o condomínio é cercado e as unidades imobiliárias encontravam-se fechadas, algumas, inclusive já mobiliadas, bem como servindo a unidade 101 como apartamento modelo onde as propostas de venda eram feitas.
+Há uma "ESCRITURA PÚBLICA DECLARATÓRIA QUE FAZEM EDILSON FRANCISCO DE SOUZA E ELIANE DE MENEZES ALVES" emitida em 11/11/2021, na qual declaram que "fizeram parte do movimento dos "sem teto" de pium, liderados por José Laélio Lopes Filho e Laíse Cabral Lima de Menezes quando invadiram no dia 08/07/2016, por volta das 00:00, o condominio Vista Verde que se encontrava pronto para moradia e sendo vendidos pela construtora" ( págs 286/288 dos autos conexos).
+ ..
+Logo, enquanto não cessada a clandestinidade, os ocupantes são apenas meros detentores.
+Pelos documentos, verifico que a invasão ocorreu por volta de 2014, conforme demonstram as faturas de energia elétrica e de água.
+No caso dos autos, a alteração do contrato da CAERN foi realizada em 2014, conforme histórico de consumo juntado à pág 296.
+Por sua vez, demonstra a Fatura de Energia Elétrica juntada à pág 252 que LAÍSE CABRAL LIMA DE MENEZES transferiu para o nome dela o contrato de pagamento dos serviços, conforme Consulta do Histórico de Consumo de 04/12/2015.(pág 251).
+Quanto ao IPTU, em nome da ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA., verifica-se que houve pagamento por JOSÉ LAÉLIO LOPES apenas em maio/2016 (págs 408/409).
+Em 27/06/2016 a ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. emitiu uma nota de esclarecimento ao público, informando sobre a titularidade dos imóveis do Condomínio Residencial Vista Verde e a invasão de posseiros, para que ninguém alegue ignorância alugando por temporada ou compra das unidades, buscando evitar danos a terceiros.
+Em 24/08/2016, a ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. requereu perante a CAERN a transferência do contrato para o nome dela (pág 345) Em 13/09/2016 foi protocolizada a ação de reintegração de posse, verificando-se que em 14/11/2016, os ocupantes publicaram um anúncio de venda de unidades do Condomínio Residencial Vista Verde (pág 295).
+A análise dos autos demonstra a existência de posse clandestina, ,cujo apossamento se deu de forma oculta e de má-fé, eis que os ocupantes não ignoravam a origem ilícita do apossamento do bem no momento da ocupação, não havendo que se falar em destinação social da propriedade, mas, sim, da prática de esbulho possessório pelo despojamento da posse da Construtora de forma injusta, os quais estavam sendo preparados para colocação no mercado.
+Assim, tendo a ARTRON CONSTRUÇÃO INCORPORAÇÃO E ENGENHARIA LTDA. provado a posse, o esbulho possessório e a perda da posse por clandestinidade, imperiosa é manutenção da sentença que a reintegrou na posse das unidades imobiliárias descritas na inicial (fls. 1.777/1.782).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria, indubitavelmente, o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+Conforme destacado na decisão agravada, o Tribunal de origem concluiu pela configuração da posse clandestina exercida pelos recorrentes e, consequentemente, pela legitimidade da parte recorrida.
+Modificar o entendimento do acórdão impugnado demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
