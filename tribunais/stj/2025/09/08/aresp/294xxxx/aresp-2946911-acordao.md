@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DESPESAS MÉDICO-HOSPITALARES C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO DE COBERTURA OBRIGATÓRIA. REEMBOLSO INTEGRAL. EXCEPCIONALIDADE. CABIMENTO.
+1. Ação ressarcimento de despesas médico-hospitalares c/c compensação por danos morais.
+2. Distinguem-se, da hipótese tratada na orientação jurisprudencial sobre o reembolso nos limites do contrato, as situações em que se caracteriza a inexecução do contrato pela operadora, causadora de danos materiais ao beneficiário, a ensejar o direito ao reembolso integral das despesas realizadas por esse (AgInt no AREsp 2.454.372/RN, Terceira Turma, DJe de 28/2/2024).
+3. Agravo conhecido. Recurso especial conhecido e provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo em recurso especial interposto por LUCIANA HUGUENEY RICCO DE ANDRADE, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/03/2025.
+Concluso ao gabinete em: 31/07/2025.
+Ação: ressarcimento de despesas médico-hospitalares c/c compensação por danos morais, ajuizada pela agravante, em face de SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE, na qual requer o reembolso do valor de R$ 19.990,00 (dezenove mil, novecentos e noventa reais), relativo a cobertura integral da internação do dependente junto ao Hospital Albert Einstein e compensação por danos morais.
+Sentença: julgou parcialmente procedente o pedido para condenar a agravada a: i) reembolsar o valor de R$ 19.990,00 (dezenove mil, novecentos e noventa reais); ii) cobrir integralmente a internação do dependente da autora junto ao Hospital Albert Einstein; iii) compensar os danos morais sofridos no valor de R$ 10.000,00 (dez mil reais).
+Acórdão: deram parcial provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+Apelação. Plano de saúde. Reembolso. Deficiência técnica da rede. Pretensão de restituição integral de valores cobrados pelos profissionais não referenciados. Inexigibilidade de cobrança de taxa de permanência em leito e compensação por dano moral. Sentença de procedência parcial. Irresignação parcialmente procedente. Reembolso limitado aos valores pagos pela operadora à sua rede referenciada. Taxa de permanência em leito abusiva. Inexistência de ação ou omissão do paciente que a justifique. Dano moral. Cobrança lastreada em discussão jurídica sobre aplicação de cláusulas contratuais. Inexistência de demonstração de atraso no tratamento ou prejuízo à saúde do assistido. Dano moral inexistente. Sentença reformada. Recurso a que se dá parcial provimento. (e-STJ fls. 686-691).
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 12, VI, da Lei 9.656/98; 6º, I e IV, e 51, II e IV do CDC, bem como dissídio jurisprudencial. Afirma que o reembolso deve ser integral quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras, como de fato ocorrido, já que não existe equipe médica da especialidade uropediatra em sua rede credenciada. Aduz que são nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que subtraiam ao consumidor a opção de reembolso da quantia já paga, estabeleçam obrigações consideradas iníquas, abusivas, e que coloquem o consumidor em desvantagem exagerada, ou seja, incompatíveis com a boa-fé ou a equidade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DESPESAS MÉDICO-HOSPITALARES C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO DE COBERTURA OBRIGATÓRIA. REEMBOLSO INTEGRAL. EXCEPCIONALIDADE. CABIMENTO.
+1. Ação ressarcimento de despesas médico-hospitalares c/c compensação por danos morais.
+2. Distinguem-se, da hipótese tratada na orientação jurisprudencial sobre o reembolso nos limites do contrato, as situações em que se caracteriza a inexecução do contrato pela operadora, causadora de danos materiais ao beneficiário, a ensejar o direito ao reembolso integral das despesas realizadas por esse (AgInt no AREsp 2.454.372/RN, Terceira Turma, DJe de 28/2/2024).
+3. Agravo conhecido. Recurso especial conhecido e provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Do reembolso das despesas médico-hospitalares
+Nos termos da jurisprudência desta Corte, distinguem-se, da hipótese tratada na orientação jurisprudencial sobre o reembolso nos limites do contrato, as situações em que se caracteriza a inexecução do contrato pela operadora, causadora de danos materiais ao beneficiário, a ensejar o direito ao reembolso integral das despesas realizadas por esse (AgInt no AREsp n. 2.454.372/RN, Terceira Turma, DJe de 28/2/2024).
+Quanto ao tema, a Corte de origem, ao julgar o recurso de apelação interposto pela agravada, concluiu o seguinte:
+A controvérsia não envolve reembolso de despesas médico-hospitalares de livre escolha, realizadas fora da rede própria/credenciada. O beneficiário, segundo consta da inicial, buscava atendimento no âmbito da rede própria/referenciada e não era sua intenção buscá-lo fora; além da situação clínica de urgência/emergência, não havia profissional especializado para a demanda médica, forçando-o a utilizar equipamento não referenciado para o procedimento.
+E o reembolso das despesas efetuadas por eventos em saúde perante equipamentos não conveniados, nos termos de jurisprudência pacífica do C. STJ, é exigível apenas em casos excepcionais em que se verifica situação de urgência ou emergência e impossibilidade de utilização da rede, aqui incluída a hipótese de deficiência técnica da rede, como foi o caso vertente.  ..
+No caso vertente, perfeitamente cabível o reembolso pretendido considerando a prova de urgência/emergência que se extrai do relatório médico e a ausência de indicação de profissional capaz de, na data do evento, atender a demanda clínica do beneficiário.
+A pretensão de reembolso integral dos valores cobrados pelos profissionais não referenciados, contudo, não se sustenta. É que nunca se cogitou, nas interpretações feitas pelo C. STJ acerca da regra de reembolso, a restituição ao beneficiário pelo valor cobrado do equipamento não referenciado, mas reembolso limitado, no mínimo, aos preços praticados pelo produto contratado, vale dizer, ao valor da tabela unilateralmente aplicada pela operadora para pagamento de sua rede referenciada, considerando a expressa disposição contida na Lei nº 9656/98  ..  (e-STJ fls. 689/690)
+Nesse contexto, o acórdão recorrido, ao determinar que, na hipótese de inexistência de médico conveniado apto a prestar o atendimento prescrito, o reembolso seja realizado com limite nos valores da tabela da operadora do plano de saúde, divergiu da jurisprudência consolidada desta Corte. Conforme entendimento firmado, em situações como essa, a ausência de uma rede credenciada apta configura verdadeiro inadimplemento contratual, o que confere ao reembolso a natureza de indenização por danos materiais, não podendo, portanto, ser limitado aos preços praticados pelo plano de saúde.
+No mesmo sentido: AgInt no REsp n. 2.108.528/SP, Quarta Turma, DJe de 15/8/2024; AgInt no REsp n. 2.076.142/SP, Quarta Turma, DJe de 2/5/2024; AgInt no REsp n. 2.106.644/SP, Terceira Turma, DJe de 6/3/2024.
+Logo, o acórdão recorrido merece reforma.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, para determinar que a agravada reembolse integralmente as despesas médico-hospitalares.
+Condeno a parte agravada ao pagamento das custas processuais e honorários advocatícios, que fixo em 10% (dez por cento) sobre o valor da condenação, nos termos do art. 85, § 2º, do CPC.
