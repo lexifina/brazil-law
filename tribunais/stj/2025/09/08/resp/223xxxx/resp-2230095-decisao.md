@@ -1,0 +1,19 @@
+DECISÃO
+AUGUSTO CESAR RODRIGUES DE TRINDADE interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 5006112-12.2019.4.04.7104.
+Nas razões recursais, a defesa aponta a violação do art. 65, III, "d", do Código Penal, ao argumento de que o recorrente faz jus ao reconhecimento da confissão espontânea, em relação ao crime de uso de documento falso.
+Requer o provimento do recurso, a fim de que seja reduzida a reprimenda.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu não provimento (fls. 264-267).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrente foi condenado à pena de 6 anos e 4 meses de reclusão mais 35 dias-multa, em regime semiaberto, pela prática dos delitos previstos nos arts. 304 c/c o art. 297, 180 e 311, todos do Código Penal.
+Quanto ao pretendido reconhecimento da atenuante da confissão espontânea, certo é que este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação.
+Nesse sentido foi editada a Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+No entanto, verifico que, no caso, as instâncias ordinárias, em nenhum momento, fizeram menção às declarações prestadas pelo réu para concluir pela sua condenação no tocante ao crime de uso de documento falso. Ao contrário, o Juiz sentenciante consignou que o réu, durante seu interrogatório judicial, afirmou que "fez a entrega apenas de seu documento pessoal ao PRF, não sabendo dizer se entregou o documento do veículo ou se foram os policiais que revistaram o carro" (fl. 101), bem como "negou em seu interrogatório conhecimento não apenas acerca da falsidade do CRLV, mas também da origem ilícita do veículo" (fl. 103, grifei).
+Na mesma linha argumentativa, destacou a Corte estadual (fl. 225):
+Isso porque o simples fato de o acusado ter admitido que fez uso do documento, sem afirmar, sequer de passagem, que tinha ciência da falsidade deste, não pode ser compreendido como confissão, visto que o tipo penal em questão apenas se configura quando o documento for falso.
+Logo, não houve confissão do crime, mas de fato que, por si só, é atípico.
+Assim, uma vez que os depoimentos prestados pelo recorrente não foram utilizados para a formação do convencimento dos julgadores - que, conforme visto, se valeram dos demais elementos fático-probatórios colacionados aos autos para concluir pela condenação -, não identifico a apontada violação legal.
+O que se concluiu é que o réu não admitiu os fatos. P ara afastar a conclusão do acórdão estadual e entender pela incidência da atenuante, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 34, XVIII, "a", do RISTJ, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
