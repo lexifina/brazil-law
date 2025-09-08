@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLEBER RODRIGUES MACHADO, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o ora recorrente foi condenado à pena de 01 (um) ano, 07 (sete) meses e 07 (sete) dias de reclusão, em regime inicial semiaberto, e pagamento de 56 (cinquenta e seis) dias-multa, no valor unitário mínimo, pela prática do delito tipificado no art. 180, caput, do Código Penal, concedendo-lhe o direito de recorrer em liberdade.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação ao art. 386 do Código de Processo Penal.
+O Tribunal de origem procedeu ao juízo de admissibilidade negativo do recurso especial.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Muito embora o agravo em recurso especial deva ser conhecido, é caso de não conhecimento do recurso especial.
+O Superior Tribunal de Justiça entende que "tendo o juízo de primeiro grau e o Tribunal de origem decidido pela culpa do acusado, com base em um conjunto probatório factível existente no processo, não cabe a esta instância especial revolver a todos os fatos probantes para infirmar ou não a existência de dolo eventual na sua conduta. 2. A inversão do julgado, com vistas à absolvição do Recorrente, simplesmente porque esta foi a opinião em memoriais do órgão acusatório, exigiria aprofundado reexame fático-probatório, expediente vedado nesta seara recursal, conforme se extrai do óbice da Súmula n. 7/STJ.(AgRg no AR Esp n. 2.307.108/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 27/2/2024, D Je de 5/3/2024).
+No caso concreto, o agravante busca a prolação de decreto absolutório, sob o fundamento de que não existem elementos probatórios suficientes para sustentar o édito condenatório. Contudo, para infirmar as conclusões adotadas pelo acórdão recorrido seria necessário proceder à incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
