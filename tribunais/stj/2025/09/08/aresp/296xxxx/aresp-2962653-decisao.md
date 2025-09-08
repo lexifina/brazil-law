@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por TRAMONTINA MADEIRAS S/A contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. CONTRIBUIÇÕES PARA PIS-PASEP E COFINS, BASE DE CÁLCULO, REGIME NÃO- CUMULATIVO, DESCONTO DE IPI DESTACADO NAS NOTAS FISCAIS DE AQUISIÇÃO, IMPOSSIBILIDADE.
+O imposto sobre produtos industrializados (IPI) destacado nas notas fiscais de aquisição da contribuinte não pode ser descontado na apuração da base de cálculo das contribuições para PIS-PASEP e COFINS. Por não incidirem contribuições para PIS-PASEP e COFINS sobre tal rubrica nas operações antecedentes, conforme o disposto no parágrafo 4º do artigo 12 do Decreto-Lei 1.598/1977 que conforma o fato gerador dos ditos tributos, não há acumulação deles nas sucessivas operações da cadeia de produção e distribuição quanto a essa rubrica que justifique aplicação do preceito do parágrafo 12 do artigo 195 da Constituição. Precedentes.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 477/519):
+A recorrente impetrou mandado de segurança com o intuito de ver reconhecido o seu direito ao crédito de IPI não recuperável na apuração do PIS e COFINS, o qual fora tolhido pela IN 2121 de 2022 publicado pela Receita Federal do Brasil.
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque não seria via recursal adequada à constatação de violação a ato infralegais e porque encontraria óbice na Súmula 83 do STJ, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, deve-se anotar o equívoco da decisão de inadmissão do recurso especial, tendo em vista ter citado decisões monocráticas para invocar a Súmula 83 do STJ, as quais sequer tratam da questão recursal, mas da inadequação da via recursal extraordinária para análise de violação a ato infralegal, o que não é o caso.
+Feita a anotação, verifica-se que os autos devem retornar ao Tribunal Regional Federal da 4ª Região.
+Com efeito, a Primeira Seção deste Tribunal, em 12 de agosto de 2025, decidiu afetar o REsp n. 2.191.364/RS e o REsp n. 2.198.235/CE à sistemática dos recursos repetitivos com o fim de definir tese a respeito da possibilidade de o Imposto sobre Produtos Industrializados - IPI incluído no preço de mercadorias adquiridas para revenda, quando não recuperável pela adquirente, poder integrar a base de cálculo dos créditos da contribuição ao PIS e da Cofins (tema 1373).
+Nesse contexto, os autos devem retornar ao Tribunal Regional Federal para o sobrestamento do recurso especial até o exercício do juízo de conformação pelo órgão julgador com a tese a ser definida pela Primeira Seção nos precedentes qualificados.
+Ante o exposto, determino a devolução dos autos ao Tribunal Regional Federal da 4ª Região, com a respectiva baixa, para que, após o exercício do juízo de conformação, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pela Primeira Seção; ou b) seja, novamente, examinado, caso dela divirja (arts. 1.039, 1.040, incs. I e II, e 1.041 do CPC/2015). Fica prejudicado o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO NO RECURSO ESPECIAL. TEMA A SER DEFINIDO PELA PRIMEIRA SEÇÃO EM PRECEDENTES QUALIFICADOS. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO PREJUDICADO.
