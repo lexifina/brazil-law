@@ -1,0 +1,25 @@
+DECISÃO
+Fabrício Gonçalves dos Reis Marcano opõe embargos de declaração à decisão de minha lavra assim resumida (fl. 1.207):
+RECURSO EM HABEAS CORPUS. CRIME AMBIENTAL. DESTRUIR OU DANIFICAR VEGETAÇÃO EM ESTÁGIO AVANÇADO DE REGENERAÇÃO, DO BIOMA MATA ATLÂNTICA. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE FALTA DE JUSTA CAUSA E INÉPCIA DA DENÚNCIA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. ANÁLISE FÁTICO-PROBATÓRIA. INVIABILIDADE. PRECEDENTES.
+Recurso improvido.
+O embargante alega que a decisão incorreu em contradição e omissão ao não sopesar a evidente ausência de lastro probatório mínimo em desfavor do paciente, evidenciada pelos próprios documentos constantes do Procedimento Investigatório Criminal (PIC) nº MPMG-0107.21.000030-6, que fundamentaram a denúncia (fl. 1.216).
+Argumenta que os depoimentos colhidos na fase investigativa contradizem a tese de rateio de custos e atuação conjunta, fragilizando de forma irremediável a imputação de autoria coletiva e o liame subjetivo em relação ao embargante.
+Aponta também a ocorrência de omissão na análise da materialidade delitiva, uma vez que o laudo pericial elaborado pelo perito da Promotoria de Justiça concluiu que a área degradada não era de preservação permanente, mas sim de uso comum, o que descaracterizaria a materialidade do crime ambiental imputado.
+Sustenta que há contradição da decisão monocrática com a jurisprudência do STJ, pois ignorou precedentes que admitem o trancamento da ação penal em casos de manifesta ausência de justa causa, mesmo na via estreita do habeas corpus.
+O embargante pede, uma vez sanados os vícios, seja reexaminada a decisão para que se reconheça a manifesta ausência de justa causa para prosseguimento da ação penal.
+É o relatório.
+Todos sabem que os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). No caso, o embargante diz haver omissão e contradição a serem corrigidos.
+Na espécie, não há a alegada omissão.
+A despeito do esforço argumentativo do embargante, foi exposto na decisão embargada que, ao contrário do alegado no recurso, a denúncia era apta a justificar a ação penal e suficiente para oportunizar o exercício das garantias constitucionais à ampla defesa e ao contraditório.
+Também ficou explícito que o exame da questão, tal como suscitada, demandaria dilação probatória e alcançaria o mérito da ação penal, sendo incompatível com a via eleita.
+Com efeito, neste momento, não há como esmiuçar as provas indiciárias para afastar o que consta em determinados depoimentos em detrimento do que consta em outros. Por exemplo, há declaração assim (fl. 650):  ..  o Sargento Giovani relatou desconhecer a ilegalidade do desmatamento, mas assumiu a sua autoria; que, na ocasião, o Sargento Giovani também relatou que estaria agindo em parceria com o Sr. Fabricio Gonçalves dos Reis Marçano, com o Sr. Aristóteles e o Sr. Giovenase, proprietário da ótica  .. ; que, segundo o Sargento Giovani, por orientação do Sr. Fabricio Gonçalves dos Reis Marçano, seria ajuizada uma ação de usucapião e cada um dos envolvidos ficaria com um lote; que a autorização ambiental seria diligenciada pelo Sr. Aristóteles, o qual é vizinho da área desmatada  .. .
+De igual modo, está expresso no decisum que, para o início da persecução penal, são suficientes indícios mínimos de autoria e de materialidade delitiva, o que se verifica no caso.
+Quanto à referida perícia, não havia razão para qualquer manifestação, porquanto, diante do tipo penal em apuração (destruir ou danificar vegetação primária ou secundária, em estágio avançado ou médio de regeneração, do Bioma Mata Atlântica, ou utilizá-la com infringência das normas de proteção), é irrelevante a área ser ou não de uso comum, de preservação permanente ou não.
+Ora, a omissão a ser sanada por meio dos embargos de declaração é aquela existente em face dos pontos acerca dos quais está o julgador obrigado a responder e não o fez.
+Por fim, a contradição que dá ensejo à oposição de embargos de declaração é interna ao julgado, ou seja, entre as premissas e as conclusões da própria decisão, sendo absolutamente descabido suscitar o vício com base em algum parâmetro externo ao decisum embargado.
+Disse e repito: o trancamento da ação penal somente se viabiliza quando, pelo simples exame dos fatos constantes na peça acusatória, constata-se a sua atipicidade ou a inexistência de qualquer indício de ser o acusado autor do delito. No caso, nada disso está evidente. A pretensão está a demandar profunda e exaustiva imersão no conteúdo probatório que instruiu a denúncia em questão.
+Rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. IMPROCEDÊNCIA DA ALEGAÇÃO DE OMISSÃO E DE CONTRADIÇÃO DA DECISÃO. ANÁLISE PROBATÓRIA. INVIABILIDADE. AUSÊNCIA DOS PRESSUPOSTOS DO ART. 619 DO CPP.
+Embargos de declaração rejeitados.
