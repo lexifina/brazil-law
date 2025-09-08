@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MUNICÍPIO DE JOÃO PESSOA contra decisão de minha relatoria, às e-STJ fls. 630/634, na qual não conheci do recurso especial, por incidência da Súmula 284 do STF.
+A parte embargante sustenta que houve omissão na decisão embargada. Aduz que "a apreciação minuciosa do Recurso Especial interposto permite constatar a existência do prequestionamento da matéria federal, uma vez que foram feitas referências e transcrições claras dos dispositivos da Lei Federal n. 3.999/1961 (arts. 4º, 6º e 16) violados pelo acórdão recorrido" (e-STJ fl. 640).
+Impugnação às e-STJ fls. 650/658.
+Passo a decidir
+Os embargos de declaração têm por escopo sanar decisão judicial em que haja obscuridade, contradição, omissão ou erro material.
+No caso, não ocorreu nenhum dos vícios supracitados.
+O decisum embargado firmou que, quanto à violação apontada da Lei n. 3.999/1991, verifica-se que a parte recorrente não indicou os artigos de lei federal tidos por afrontados.
+Extrai-se da decisão embargada que (e-STJ fl. 633):
+se discute nos autos a possibilidade de aplicação da Lei n. 3.999 /1961, que prevê o piso salarial da categoria dos odontólogos, e ainda seus reflexos quanto às cargas horárias diferenciadas, ao certame de seleção promovido pelo Município de João Pessoal, através do Edital 01/2020. Contudo, quanto à violação apontada à Lei 3.999/1991 verifica-se que a parte recorrente não indicou os artigos de lei federal tidos por afrontados. Com efeito, é firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação, clara e precisa, de dispositivo de lei federal implica deficiência na fundamentação do recurso especial.
+Na espécie, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal, inclusive em razão de dissídio, procedimento indispensável ao conhecimento do recurso interposto com fulcro nas alíneas "a" ou "c" do permissivo constitucional.
+O embargante alega que foram feitas referências e transcrições claras dos dispositivos da Lei Federal n. 3.999/1961 (arts. 4º, 6º e 16) violados pelo acórdão recorrido.
+Compulsando-se os autos, verifica-se que, no recurso especial, ficou registrado à e-STJ fl. 579, tão somente, que:
+compulsando a Lei Federal nº 3.999/61 fica patente que tal legislação não pode ser aplicada ao Município de João Pessoa, sendo sua aplicação restrita à esfera privada/celetista, conforme expressamente previsto em seus artigos:
+a) É curial observar o texto da referida Lei quando em seu art. 4º estabelece que "salário mínimo dos médicos a remuneração mínima, permitida por lei, pelos serviços profissionais prestados por médicos, com a relação de emprego, a pessoas físicas ou jurídicas de direito privado".
+b) A mesma lei ainda faz insculpir no art. 6º que "o disposto no art. 5º aplica-se aos médicos que, não sujeitos ao horário previsto na alínea a do art. 8º, prestam assistência domiciliar por conta de pessoas físicas ou jurídicas de direito privado, como empregados destas, mediante remuneração por prazo determinado"
+Conforme se denota, a mesma terminologia de empregado, contrato de trabalho e pessoa jurídica de direito privado é utilizada em toda a lei, deixando claro que tal legislação não se aplica ao regime de direito público estabelecido para os Municípios.
+Não bastasse isso, a própria lei é patente em afirmar que se aplica ao regime celetista, quando em seu art. 16 estabelece que a partir de sua vigência, "o valor das indenizações estaduais na CLT que venham a ser devidas, será desde logo calculado e pago de conformidade com os níveis de remunerações nela fixados".
+Portanto, observa-se que é deficiente o capítulo do recurso especial em que é alegada a suposta ofensa aos arts. 4º, 6º e 16 da Lei Federal n. 3.999/1961, porquanto, de forma genérica, sem a demonstração objetiva de como tais artigos foram violados pelo acórdão recorrido.
+O mero inconformismo da parte, sem fundamentar de forma clara e precisa como ocorreu a violação, não se mostra suficiente para o conhecimento do recurso especial e atrai, por analogia, a incidência da Súmula 284 do STF.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+2. " ..  não basta o inconformismo da parte sucumbente para forçar o reexame do julgamento de tribunal local pelo Superior Tribunal de Justiça, por meio do recurso especial. Dito remédio de impugnação processual terá cabimento dentro de uma função política, qual seja, a de resolver uma questão federal controvertida. Por meio dele não se suscitam nem se resolvem questões de fato e nem questões de direito local" (THEODORO JR. Humberto. Curso de Direito Processual Civil: Vol. 3 - Execução Forçada, Cumprimento de sentença, Processos nos Tribunais, Recursos, Direito Intertemporal. 54ª Ed. Rio de Janeiro: Forense, 2021).
+3. Agravo interno não provido.
+(AgInt no AREsp 2.097.081/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023.).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. FALTA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ICMS. TRANSPORTE INTERESTADUAL DE MERCADORIAS DESTINADAS AO EXTERIOR. NÃO INCIDÊNCIA. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regi me recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - Esta Corte tem posicionamento consolidado segundo o qual não incide ICMS nas operações de transporte interestadual de mercadorias destinadas ao exterior, nos termos do art. 3º, II, da LC 87/1996.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 2.043.986/TO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023.).
+Ponderado isso, constato que a insurgência do embargante não diz respeito a eventual omissão do julgado, mas à interpretação que lhe foi desfavorável e, por isso, sendo inviável acolhimento dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
