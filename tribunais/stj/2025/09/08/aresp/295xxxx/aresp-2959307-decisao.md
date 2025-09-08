@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE RIO DE JANEIRO em que defende a admissibilidade de recurso especial, manejado com base no art. 105, III, "a", da Constituição Federal, contra acórdão assim ementado (e-STJ fl. 263):
+Apelação Cível. Direito Tributário. Exceção de pré-executividade. Possibilidade. Matéria relativa à condição da ação. Dívida de IPTU. Exercícios de 2004 a 2006. Ilegitimidade do Executado evidenciada nos autos. Recurso do Fisco conhecido e desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 297/300).
+No recurso especial (e-STJ fls. 306/314), a parte recorrente aponta violação do art. 85, § 8º, do CPC, ao argumento de que "não há que se falar em relevante trabalho jurídico que fundamente a fixação da verba honorária pelo artigo 85, § 3º do CPC, sob pena de violar o princípio da proporcionalidade, causando, de forma inequívoca, o enriquecimento sem causa do advogado beneficiado" (e-STJ fl. 311).
+Contrarrazões apresentadas.
+O Tribunal de origem não admitiu o recurso especial por entender incidente a Súmula 7 do STJ (e-STJ fls. 327/334), o que ensejou a interposição deste agravo em recurso especial (e-STJ fls. 343/353).
+Oferecida contraminuta.
+Passo a decidir.
+O Supremo Tribunal Federal reconheceu a repercussão geral da questão sobre a "Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes" (Tema 1.255 do STF).
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. IPVA. ALIENAÇÃO FIDUCIÁRIA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. QUESTÃO JURÍDICA COM REPERCUSSÃO GERAL RECONHECIDA PELO STF. EXEGESE DOS ARTS. 1.040 E 1.041 DO CPC. DEVOLUÇÃO DO ESPECIAL PARA SOBRESTAMENTO NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. No caso, a questão referente à matéria de fundo, a saber, legitimidade passiva do credor fiduciário para figurar em execução fiscal de cobrança do imposto sobre a propriedade de veículos automotores (IPVA) incidente sobre veículo objeto de alienação fiduciária, teve reconhecida a sua repercussão geral pelo plenário virtual do Supremo Tribunal Federal nos autos do RE 1.355.870/MG (Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 30/6/2022, PROCESSO ELETRÔNICO DJe-155 DIVULG 04-08-2022 PUBLIC 05-08-2022) - Tema n. 1.153.
+2. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para determinar o cancelamento das decisões anteriores e a restituição dos autos ao Tribunal de origem, para que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC.
+(EDcl no AgInt no REsp 1.942.458/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022.).
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Nesse mesmo sentido, vide: AREsp 550.883/RS, rel. Ministro Napoleão Nunes Maia Filho, DJ 22/03/2018; REsp 1.434.401/DF, rel. Ministro Og Fernandes, DJ 13/12/2017; AgInt no AREsp 633.332/DF, rel. Ministro Benedito Gonçalves, DJ 11/10/2017.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão no recurso com repercussão geral, proceda ao juízo de conformação previsto nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
