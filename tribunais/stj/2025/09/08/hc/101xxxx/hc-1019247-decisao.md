@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RENAN BARCELOS DOS SANTOS, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo (HC n. 5011926-54.2024.8.08.0000).
+Consta nos autos que o paciente se encontra preso preventivamente pela suposta prática dos crimes previstos nos arts. 33, caput, 35, c/c 40, inciso VI, todos da Lei n. 11.343/2006, termos em que denunciado.
+Neste writ, o impetrante aduz que o paciente não oferece riscos à ordem púbica, à instrução criminal ou à aplicação da lei penal, pois possui residência fixa.
+Sustenta a existência de constrangimento ilegal em razão do excesso de prazo na formação da culpa, tendo em vista que o acusado está preso há quase 1 (um) ano e 6 (seis) meses.
+Aduz violação à garantia constitucional da duração razoável do processo.
+Requer, assim, liminarmente e no mérito, o relaxamento da prisão do paciente, com a imediata expedição do competente alvará de soltura.
+É o relatório.
+DECIDO.
+A ordem deve ser denegada.
+O Tribunal local, ratificando a decisão que converteu a prisão em flagrante em preventiva, registrou os seguintes fundamentos (fls. 11/12; grifamos):
+Consta que o paciente já foi preso em flagrante delito em maio de 2023, pela suposta prática dos crimes de tráfico e associação para o tráfico de drogas (Ação Penal nº 0001369-64.2023.8.08.0021 em tramitação), quando lhe foi concedida a liberdade provisória, demonstrando, a princípio, a sua reiteração criminosa voltada à traficância.
+Na espécie, por ocasião da audiência de custódia, a ilustre magistrada destacou que
+"a liberdade dos autuados, neste momento, se mostra temerária e a prisão preventiva oportuna, considerando as circunstâncias das suas prisões, a existência de informações prévias e confirmadas pelos policiais, e, ainda, a apreensão de considerável quantidade e variedade de drogas, juntamente à arma de fogo, tudo isso somado aos registros anteriores dos indiciados, que demonstram que medidas cautelares diversas da prisão se revelaram inócuas para resguardar a ordem pública e evitar a reiteração delitiva, estando evidente, em cognição sumária, o periculum libertatis no caso concreto."
+Como é possível constatar, a decisão que converteu a prisão em flagrante em preventiva encontra-se devidamente fundamentada em dados concretos obtidos nos autos, não havendo que se falar em fundamentação abstrata ou genérica.
+(..)
+Como se observa, a prisão preventiva foi suficiente fundamentada pelas instâncias ordinárias, com base no risco concreto de reiteração delitiva, considerando que o paciente responde a outra ação penal pela prática, em tese, do crime de tráfico de drogas, o que demonstra a potencial periculosidade do agente e justifica a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. MANUTENÇÃO DA CUSTÓDIA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO SUCINTA. ILEGALIDADE. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a inicial da impetração, porque não evidenciado constrangimento ilegal na imposição da segregação cautelar do ora agravante pelo Juízo de primeiro grau.
+2. Hipótese em que a prisão cautelar do acusado, imposta pela prática do crime de roubo circunstanciado e ratificada na sentença condenatória, encontra-se fundamentada no receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando-se a gravidade concreta, periculosidade e probabilidade de reiteração delitiva.
+3. Agravo regimental improvido (AgRg no HC n. 914.377/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO, FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E USO DE DOCUMENTO FALSO. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. PRISÃO PREVENTIVA. MODUS OPERANDI E REITERAÇÃO DELITIVA. PACIENTE QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO PROCESSUAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA. DECISÃO MANTIDA.
+(..)
+2. No caso, não se verifica o apontado constrangimento ilegal, pois a prisão preventiva do paciente foi decretada a bem da ordem pública, dada a gravidade da conduta praticada, evidenciada no modus operandi e na reiteração delitiva, circunstâncias que justificam a manutenção da prisão preventiva e afastam a possibilidade de substituição por medidas cautelares de natureza diversa.
+3. Agravo regimental desprovido (AgRg no RHC n. 193.394/MT, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, em razão do risco de reiteração delitiva, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023
+Em relação às alegações de excesso de prazo, esta Corte Superior firmou o posicionamento de que
+(a) aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal (AgRg no HC n. 836.294/PB, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; grifamos).
+A respeito da matéria, o Tribunal estadual assim decidiu (fl. 12; grifamos):
+(..)
+Quanto ao alegado excesso de prazo para a formação da culpa, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que somente "(..) se cogita da existência de constrangimento ilegal por excesso de prazo quando esse for motivado por descaso injustificado do Juízo processante (..)" (STJ - HC: 491733 SP 2019/0031070-0, Relator: Ministra LAURITA VAZ, Data de Julgamento: 28/03/2019, T6 - SEXTA TURMA, Data de Publicação: DJe 23/04/2019), devendo tal análise ser realizada à luz dos princípios da razoabilidade e da proporcionalidade, consideradas as peculiaridades do caso, a atuação das partes e a condução pelo juízo, não havendo que ser perquirida apenas por cálculos aritméticos. Entretanto, no presente caso, não restou evidenciada qualquer desídia atribuível ao Poder Judiciário.
+Em prosseguimento, não obstante os combativos argumentos utilizados pelo impetrante, também não vislumbro razões para alterar a decisão do juízo singular quanto aos atributos do paciente, conquanto é insofismável que a primariedade, os bons antecedentes, possuir residência e trabalho fixos, não obstam a custódia cautelar, quando presentes os requisitos do artigo 312 do CPP.
+(..)
+Do excerto supratranscrito, não constato, por ora, o alegado excesso de prazo da custódia, considerando a pena em abstrato prevista para os delitos imputados, em tese, ao réu (arts. 33, caput, 35, c/c 40, inciso VI, todos da Lei n. 11.343/2006), o atual estágio do feito e ausência de comprovação de desídia do Juízo processante na condução do feito.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO. EXTORSÃO. PRISÃO PREVENTIVA. (..) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+5. No caso, a tramitação processual ocorre dentro da razoabilidade de tempo esperada, todavia marcada por suas particularidades, já que se trata de três denunciados e duas vítimas, não havendo nenhum elemento que evidencie a desídia dos órgãos estatais na condução feito, razão pela qual não se vislumbra, por ora, o alegado constrangimento ilegal, ainda que o agravante esteja preso desde julho de 2022. Além disso, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a audiência de instrução e julgamento foi designada para o dia 3/6/2024.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 181.749/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024; grifamos).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE. RISCO DE FUGA. (..) EXCESSO DE PRAZO. RAZOABILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+IV - No que concerne ao aventado excesso de prazo, cumpre ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+V - Na hipótese, levando em consideração a prisão cautelar decretada, em 21/3/2022, não se verifica a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado; haja vista as particularidades da causa, mormente a gravidade da conduta imputada à pluralidade de pessoas, 2 (dois) réus, sendo que a prisão preventiva tem sido constantemente reavaliada; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+(..)
+(AgRg no RHC n. 183.146/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023; grifamos).
+Ademais, consoante informações prestadas pelo Juízo de primeiro grau às fls. 36/40, o processo atualmente está concluso para sentença, levando a crer que em breve o feito será sentenciado.
+Nesse cenário, verifica-se que incide ao caso o entendimento consolidado na Súmula n. 52/STJ, que dispõe: Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
