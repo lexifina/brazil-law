@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LARISSA MIKAELE ARCANJO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (0000442-23.2025.8.17.9901).
+Consta dos autos que a paciente foi presa em flagrante no dia 23/01/2025 pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico, sendo a prisão convertida em preventiva. Processada a ação penal, a paciente foi condenada a cumprir pena no regime aberto (Ação Penal n.0000047-10.2025.8.17.5640).
+A defesa informa que impetrou habeas corpus perante a Corte estadual, cuja ordem teria sido denegada.
+Nas razões do presente writ, alega que a paciente foi condenada apenas pelo crime de tráfico de drogas, nos termos do art. 33 da Lei n. 11.343/2006, com a incidência da causa de diminuição de pena do § 4º do mesmo dispositivo, sendo absolvida da imputação de associação para o tráfico (art. 35). A pena imposta foi de 2 anos e 6 meses de reclusão, a ser cumprida em regime inicial aberto, sendo-lhe concedido o direito de recorrer em liberdade. Ainda assim, a paciente permanece em prisão domiciliar com monitoramento eletrônico, mesmo após a publicação da sentença.
+Argumenta que, embora a sentença tenha determinado expressamente a expedição de alvará de soltura, a ordem não foi cumprida, havendo omissão quanto à sua execução, situação que levou à interposição de embargos de declaração ainda pendentes de apreciação.
+Sustenta, ademais, que a manutenção da prisão domiciliar após o reconhecimento do direito de recorrer em liberdade configura constrangimento ilegal, por tratar-se de medida mais gravosa que o próprio regime fixado na sentença condenatória. Ressalta que o monitoramento eletrônico impõe restrição de liberdade incompatível com o regime aberto e com a presunção de inocência, além de afrontar o princípio da proporcionalidade.
+Diante disso, requer, em liminar e no mérito, a imediata expedição do alvará de soltura e a revogação da prisão domiciliar, para assegurar o pleno exercício do direito de recorrer em liberdade, nos termos da sentença.
+É o relatório. Decido.
+O habeas corpus não pode ser processado.
+Isso porque a defesa não juntou aos autos o teor do acórdão proferido no HC 0000442-23.2025.8.17.9901, indicado na petição inicial como ato coator. C onsta apenas uma decisão liminar proferida no HC 0003066-47.2025.8.17.9480, impetrado em favor de ROSALVO BATISTA DE HOLANDA.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser p r é-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
