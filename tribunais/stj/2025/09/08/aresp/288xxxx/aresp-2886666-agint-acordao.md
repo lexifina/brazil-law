@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Não se conhece do recurso especial quando ocorre a subsistência de fundamentação apta, por si só, para manter o acórdão combatido e quando há discrepância entre os argumentos expendidos na peça recursal e o decidido no aresto recorrido. Incidência das Súmulas 283 e 284 do STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por ANTONIO DA CRUZ FERREIRA e OUTROS contra decisão da Presidência do STJ, proferida às e-STJ fls. 224/227, que conheceu do agravo para não conhecer do recurso especial, em face da aplicação da Súmula 284 do STF.
+Os agravantes alegam, em síntese, que procederam a adequada correlação entre os fundamentos do acórdão recorrido e a tese defendida nas razões do recurso especial, de modo que o referido óbice processual não se aplica ao caso.
+Sustentam que, nas razões do apelo nobre, demonstram que o desembargador relator do recurso de apelação determinou a intimação dos ora agravantes para, no prazo de 5 (cinco) dias, se manifestarem sobre a alegação da parte contraria de deserção, "dentro do qual deverá complementar o preparo, se for o caso".
+Afirmam que o aludido despacho não especificou que a intimação seria para fins do disposto no art. 1.007, 2º, do CPC/2015, tampouco informou o valor que deveria ser complementado, razão pela qual, ao cumprirem com a determinação, limitaram-se a apresentar petição defendendo a suficiência do montante recolhido para o preparo do recurso.
+Requerem, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 242/250.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Não se conhece do recurso especial quando ocorre a subsistência de fundamentação apta, por si só, para manter o acórdão combatido e quando há discrepância entre os argumentos expendidos na peça recursal e o decidido no aresto recorrido. Incidência das Súmulas 283 e 284 do STF.
+2. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão agravada, nas razões do apelo nobre, os ora agravantes apontaram violação do art. 1007, §2º, do CPC/2015, defendendo que o desembargador relator da Apelação n. 0031603-63.2022.8.26.0053 determinou a intimação dos recorrentes para se manifestarem sobre a alegação de deserção, não havendo nenhuma determinação para complementarem o preparo.
+No caso, observa-se que o desembargador relator determinou a intimação dos recorrentes para sanar eventual irregularidade no preparo, nos termos do seguinte despacho (e-STJ fl. 126):
+Vistos. Manifestem-se os exequentes sobre a alegação de deserção de fls. 95/97, no prazo de cinco dias, dentro do qual deverá complementar o preparo, se for o caso.
+Em observância a determinação judicial, os recorrentes limitaram-se a defender a suficiência do recolhimento procedido (e-STJ fls. 130/134).
+O Tribunal de origem julgou o recurso de apelação deserto, sob o seguinte fundamento.
+Não tendo os exequentes efetuado a complementação do preparo dentro do prazo fixado, é caso de aplicação do art. 1.007, § 2º, do Código de Processo Civil, com a decretação da deserção do apelo que apresentaram.
+Com efeito, para efeito do cálculo da importância a ser recolhida, deve ser levado em conta o proveito econômico buscado no recurso, resultando em valor muito superior ao originalmente quitado." (e-STJ f.146).
+Ao apreciar os embargos de declaração, a Corte estadual esclareceu que, apesar de o despacho não ter mencionado qual valor deveria ser complementado, o cálculo e o recolhimento das custas são ônus do recorrente, acrescentando (e-STJ fls. 162/164):
+(a) preparo do recurso deve ser calculado com base no proveito econômico almejado; (b) que, no presente caso, se os apelantes pretendem se beneficiar dos efeitos da sentença condenatória do processo n. 0118972-23.2007.8.26.0053, devem se submeter à regra do artigo 4º, § 2º, da Lei Estadual n. 11.608/2003, efetuando o recolhimento das custas com base no valor da condenação imposta ao Metrô naquele processo de conhecimento; (c) que, no caso, esse valor condenatório correspondente a  de R$ 698.965,20, ou seja, R$ 174.741,30 (sem atualização), conforme esclareceram os próprios embargantes a fl. 03 do cumprimento de sentença; (d) que é esse, evidentemente, o proveito econômico pretendido, mas os apelantes recolheram apenas R$ 171,00 (fl. 45), e não complementaram o recolhimento, mesmo diante da oportunidade concedida a fl. 126, daí a decretação da deserção do recurso, nos termos do artigo 1.007, § 1º, do Código de Processo Civil.
+Não custa anotar, sob esse aspecto, que o recolhimento do preparo deve ser comprovado no ato de interposição do recurso (artigo 1007), e eventual insuficiência deve ser suprida no prazo de cinco dias (§ 2º), não podendo as partes alterar essa regra mediante questionamento do valor devido. Assim, se os apelantes optaram por defender a suficiência do preparo, ao invés de efetuar o complemento, é porque assumiram o risco da deserção, na hipótese de rejeição de sua tese.
+Com se vê, o acórdão recorrido rechaçou a tese de justo impedimento - ausência de informação do quantum a ser complementado - em razão de o despacho de intimação não ter especificado o valor e tipo de custa a ser recolhido, acentuado que o disposto no art. 1.007, § 2º, do CPC/2015 deve ser observado pelas partes e "se os apelantes optaram a defender a suficiência de preparo, ao invés de efetuar o complemente, é porque assumiram o risco da deserção".
+No caso, constata-se claramente que os recorrentes não se insurgiram contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, notadamente: a) o preparo do recurso deve ser calculado com base no proveito econômico e em consonância com o disposto no art. 4º, § 2º, da Lei Estadual n. 11.608/20031 (dispõe sobre a Taxa Judiciária incidente sobre os serviços públicos de natureza forense), e b) as regras processuais são de conhecimento público e devem ser observadas pelas partes, não podendo os recorrentes alterar a regra do art. 1.007, § 2º do CPC/2015 mediante questionamento do valor devido.
+Como é sabido, o recurso especial é reclamo de natureza vinculada e, para a sua admissão, é imprescindível que o recorrente demonstre, de forma clara e objetiva, não somente o modo pelo qual o acórdão recorrido teria contrariado os dispositivos apontados como violados como também a correlação entre as razões de seu apelo especial e os fundamentos do aresto impugnado, requisitos não cumpridos na hipótese sob exame.
+A ausência de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Além disso, a falta de pertinência entre as razões do recurso especial e a decisão questionada atrai o óbice contido na Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse panorama, inafastável a aplicação do óbice da Súmula 284 do STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os fundamentos acima mencionado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. REGULARIDADE DA CONTRATAÇÃO NÃO DEMONSTRADA. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. FUNDAMENTAÇÃO DEFICIENTE. RAZÕES DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL SEM APONTAR DISPOSITIVO INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA N. 284 DO STF. PEDIDO DE TUTELA DE EVIDÊNCIA. PERDA SUPERVENIENTE DO INTERESSE. JULGAMENTO DO RECURSO. HONORÁRIOS RECURSAIS. REDUÇÃO DO PERCENTUAL. REJEIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+2. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão (Súmula n. 284 do STF).
+3. Apreciado o recurso cujo efeito suspensivo se buscou garantir, ocorre a superveniente perda do objeto da medida cautelar, sendo, inclusive, desnecessário o trânsito em julgado ou mesmo a confirmação pelo órgão colegiado.
+4. É adequado majorar, em desfavor da parte agravante, os honorários advocatícios, nos termos do art. 85, § 11, do Código de Processo Civil, quando o referido percentual não se mostrar desproporcional ao valor da causa utilizado como parâmetro na instância ordinária.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.406.167/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. INDENIZAÇÃO POR DANOS MORAIS CUMULADA COM OBRIGAÇÃO DE NÃO FAZER. MAU CHEIRO EXALADO DA ESTAÇÃO DE TRATAMENTO DE ESGOTO. IMPROCEDÊNCIA. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Cuida-se de Agravo Interno contra decisum que conheceu do Agravo para não conhecer do Recurso Especial.
+2. Quanto às pretensões de inversão do ônus da prova e presunção de veracidade, aplicável o óbice da Súmula 284/STF, uma vez que as razões recursais delineadas no Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Agravo Interno não provido.
+(AgInt no AREsp 2.115.012/PR, relator Ministro Herman Benjamin, Segunda
+Turma, julgado em 10/10/2022, DJe de 4/11/2022.).
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO Ao agravo interno.
+É como voto.
