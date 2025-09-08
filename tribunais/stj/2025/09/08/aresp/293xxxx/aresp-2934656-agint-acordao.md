@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. ACÓRDÃO DE ACORDO COM A SÚMULA 481/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cinge-se a controvérsia à verificação da presença dos requisitos necessários ao deferimento da gratuidade da justiça.
+2. O acórdão assentou seu convencimento em elementos fático-probatórios específicos, como balanços, extratos e circunstâncias do caso concreto, encontrando-se em perfeita sintonia com a jurisprudência desta Corte no sentido de que a concessão do benefício a pessoas jurídicas exige comprovação cabal da necessidade, nos termos da Súmula 481 do STJ: "A concessão do benefício de gratuidade da justiça a pessoa jurídica, com ou sem fins lucrativos, mesmo nos casos de liquidação extrajudicial ou falência, somente é adequada quando for comprovada a impossibilidade de arcar com as despesas e encargos processuais, pois não há presunção legal de insuficiência de recursos em favor de pessoas jurídicas".
+3. Para acolher a pretensão recursal e concluir de forma diversa, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, a fim de aferir a real capacidade econômica da agravante e a suficiência ou não da documentação apresentada, providência vedada em recurso especial, à luz do enunciado da Súmula 7 do STJ.
+Agravo interno provido. Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ASTRO ABC INDÚSTRIA E COMÉRCIO LTDA. contra decisão monocrática da Presidência que não conheceu do agravo em recurso especial em razão da Súmula 182/STJ (fls. 251-252).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 151):
+Agravo de instrumento. Transporte marítimo. Ação de cobrança. Gratuidade da justiça. Indeferimento. Requerimento formulado pela ré, pessoa jurídica. Pessoas jurídicas dedicadas a atividade lucrativa não fazendo jus ao benefício da gratuidade sem prova de efetiva insuficiência de recursos seus e dos respectivos sócios. Hipótese em que, ademais, os documentos contábeis apresentados indicam a existência de expressivo ativo circulante para o ano de 2022. Bem indeferido o benefício da gratuidade.
+Rejeitados os embargos de declaração opostos (fls. 204-211).
+Nas razões do agravo interno, a empresa agravante sustenta que impugnou todos os fundamentos da decisão que inadmitiu seu recurso.
+Alega a agravante que a decisão monocrática não aplicou corretamente a Súmula 7 do STJ, pois o recurso especial visa à análise de dispositivos de lei federal e não o reexame de provas. A empresa também pleiteia justiça gratuita, alegando incapacidade financeira para arcar com despesas processuais, conforme demonstrado por documentos financeiros anexados.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões às fls. 274-281.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. ACÓRDÃO DE ACORDO COM A SÚMULA 481/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cinge-se a controvérsia à verificação da presença dos requisitos necessários ao deferimento da gratuidade da justiça.
+2. O acórdão assentou seu convencimento em elementos fático-probatórios específicos, como balanços, extratos e circunstâncias do caso concreto, encontrando-se em perfeita sintonia com a jurisprudência desta Corte no sentido de que a concessão do benefício a pessoas jurídicas exige comprovação cabal da necessidade, nos termos da Súmula 481 do STJ: "A concessão do benefício de gratuidade da justiça a pessoa jurídica, com ou sem fins lucrativos, mesmo nos casos de liquidação extrajudicial ou falência, somente é adequada quando for comprovada a impossibilidade de arcar com as despesas e encargos processuais, pois não há presunção legal de insuficiência de recursos em favor de pessoas jurídicas".
+3. Para acolher a pretensão recursal e concluir de forma diversa, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, a fim de aferir a real capacidade econômica da agravante e a suficiência ou não da documentação apresentada, providência vedada em recurso especial, à luz do enunciado da Súmula 7 do STJ.
+Agravo interno provido. Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Assiste razão à agravante quanto ao afastamento da Súmula 182/STJ.
+Com efeito, a Súmula 7/STJ e a ausência de demonstração da divergência foram devidamente impugnados pela parte agravante; vejamos (fls. 239-240):
+Por fim, ao contrário do que consta da r. decisão presidencial agravada, a divergência jurisprudencial veiculada nas razões do Recurso Especial interposto pela Agravante foi amplamente demonstrada, com o cotejo analítico do dissenso interpretativo, cuja constatação dispensa reexame de fatos, já que não bata a mera leitura dos v. acórdãos prolatados na Col. Corte de origem e do precedente jurisprudencial vinculativo da Súmula 509 do E. Superior Tribunal de Justiça.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia à verificação da presença dos requisitos necessários ao deferimento da gratuidade da justiça.
+Com relação à justiça gratuita, o acórdão recorrido, ao negar provimento ao recurso de agravo, consignou (fls. 152-154):
+3. Em tema de concessão da gratuidade da justiça a pessoas jurídicas, cabe observar que, conquanto possa ela, em tese, obter tal benefício, isso reclama prova da necessidade do favor legal, conforme entendimento sedimentado na Súmula 481 do STJ e consoante se depreende da regra do art. 99, §3º, do CPC.
+No caso, as informações contábeis apresentadas, relacionadas ao ano de 2022, evidenciam que a agravante possuía "ativo circulante" milionário (fls. 118/119 dos autos do processo).
+Seja como for, é inacreditável que uma pessoa jurídica, qualquer que seja a atividade por ela desenvolvida e a respectiva finalidade, não disponha de meios para arcar com as despesas do processo em questão, de pouca expressão econômica (R$ 44.035,99).
+Observe-se que a mesma agravante já constituiu advogado (desse modo arcando com a maior despesa de um processo).
+Ademais, no que se refere à pessoa jurídica, o entendimento deste relator é no sentido de que se deve esperar dos respectivos sócios o aporte dos recursos necessários a custear as despesas de processos do interesse do ente ficto. Afinal, entre carrear o pesado encargo aos ombros do Estado ou aos dos sócios da pessoa jurídica necessitada, é razoável que se escolha a segunda opção.
+Assim, era de se esperar que os sócios trouxessem elementos destinados a demonstrar a necessidade do favor legal (declaração de bens e rendimentos à Receita Federal, extratos bancários, especificação.
+O efetivo propósito da agravante, tudo indica, é o de se resguardar contra eventuais verbas de sucumbência relacionadas ao processo, tanto porque nele figura como ré e, nessa condição, poucas despesas haverá de adiantar. E os benefícios da gratuidade da justiça servem como instrumento de acesso à jurisdição; não, absolutamente, como seguro contra os efeitos de solução judicial desvantajosa ao peticionário.
+Pondero, por último, que, representando os benefícios da gratuidade da justiça pesado encargo para os cofres públicos, a concessão e aplicação do favor legal devem se dar com rigor e moderação, exclusivamente em favor dos verdadeiramente necessitados, isto é, daqueles sem a menor condição econômica de movimentar a máquina judiciária, o que não parece ser o caso da agravante, ainda a se admitir que esse gasto lhes traga algum sacrifício, e riscos, como é natural ocorrer a todo aquele que ingressa em juízo.
+Meu voto, portanto, nega provimento ao agravo.
+No presente caso, o acórdão recorrido, ao indeferir o pedido de gratuidade da justiça formulado por pessoa jurídica, firmou seu convencimento a partir de análise minuciosa das provas constantes dos autos, notadamente das informações contábeis apresentadas, que evidenciaram expressivo ativo circulante, bem como da ausência de comprovação, pelos sócios, de impossibilidade financeira para suportar as despesas processuais.
+Assim sendo, o acórdão assentou seu convencimento em elementos fático-probatórios específicos, como balanços, extratos e circunstâncias do caso concreto, encontrando-se em perfeita sintonia com a jurisprudência desta Corte no sentido de que a concessão do benefício a pessoas jurídicas exige comprovação cabal da necessidade, nos termos da Súmula 481 do STJ:
+A concessão do benefício de gratuidade da justiça a pessoa jurídica, com ou sem fins lucrativos, mesmo nos casos de liquidação extrajudicial ou falência, somente é adequada quando for comprovada a impossibilidade de arcar com as despesas e encargos processuais, pois não há presunção legal de insuficiência de recursos em favor de pessoas jurídicas.
+Portanto, para acolher a pretensão recursal e concluir de forma diversa, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, a fim de aferir a real capacidade econômica da agravante e a suficiência ou não da documentação apresentada, providência vedada em sede de recurso especial, à luz do enunciado da Súmula 7 do STJ.
+Ante o exposto, dou provimento ao agravo interno para conhecer do agravo e, nessa extensão, não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+É como penso. É como voto.
