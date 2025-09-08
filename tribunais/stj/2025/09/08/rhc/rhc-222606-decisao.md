@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por RAMON GOMES DA COSTA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o recorrente se encontra preso, cautelarmente, desde o dia 07 de dezembro de 2024, pela suposta prática da conduta de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que não conheceu do writ, em acórdão às fls. 1.972-1.975.
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do recorrente, apontando excesso de prazo para a formação da culpa.
+Aduz que "O recorrente teve cumprido em seu desfavor mandado de prisão temporária em 27/11/2024, sendo posteriormente convertida em prisão preventiva, por estar, supostamente, envolvido na prática de tráfico de drogas" (fl. 1.985).
+Ressalta que "Há quase 300 (trezentos) dias que o recorrente resta acautelado a disposição da justiça, sendo que a demora processual em nenhum momento dos autos, fora ocasionada pela defesa, muito ao contrário por que se dispôs acima e documentos em anexo" (fl. 1.988).
+Requer a expedição de alvará de soltura em favor do recorrente.
+É o relatório. DECIDO.
+O recurso não merece ser conhecido.
+Na hipótese, constata-se que a tese trazida neste recurso ordinário, referente a excesso de prazo para a formação da culpa não foi debatida pela Corte local no writ originário (Habeas Corpus Criminal Nº 1.0000.25.306354-9/000), tendo concluído o Tribunal de origem que:
+Em detida análise dos autos, percebo que a presente impetração trata-se de mera reiteração de pedidos anteriormente apreciados por esta 7ª Câmara, sob a numeração nº 1.0000.25.185295-0/000, julgado em 25/06/2025, e 1.0000.25.254755- 9/000, julgado em 06/08/2025, no quais figurei como Relator, sendo que a ordem foi denegada em ambas as oportunidades. (fl. 1.974).
+Assim, tenho que as questões ventiladas na inicial não foram debatidas no acórdão hostilizado e tal fato inviabiliza o exame da matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+No mais, verifica-se que o pedido de prisão domiciliar não foi objeto de análise pelo colegiado do Tribunal de origem, razão pela qual dele não se poderá conhecer, por indevida e dupla supressão de instância, visto que não foi nem sequer objeto de análise pelo Juízo da execução criminal. Logo, não debatidas as questões pela Corte a quo, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe 16/12/2020). (AgRg no HC n. 904.983/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 16/8/2024.)
+3. Quanto ao pedido de prisão domiciliar, consoante consignado na decisão agravada, a questão não foi examinada pelo Tribunal de origem no acórdão impugnado (HC n. 2339951-88.2023.8.26.0000), tampouco no acórdão proferido no writ mencionado pela defesa nas razões do anterior agravo interno (HC n. 2118593-17.2024.8.26.0000, o qual foi impetrado objetivando justamente a prisão no domicílio), o que impede o exame da matéria por esta Corte Superior, sob pena de indevida supressão de instância. Neste último habeas corpus (HC n. 2118593-17.2024.8.26.0000), a petição inicial foi indeferida em razão da compreensão de que "ao paciente faculta-se a interposição de agravo em execução, visando à reforma da decisão contra a qual ora se insurge, não sendo o "Habeas Corpus" a via adequada para tal. (AgRg no AgRg na TutAntAnt n. 255/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 20/6/2024.)
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
+EMENTA
