@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONFEDERAÇÃO NACIONAL DOS TRABALHADORES EM ESTABELECIMENTOS DE ENSINO (CONTEE) e OUTROS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489 e 1.022 do CPC, na incidência das Súmulas n. 7 e 83 do STJ, prejudicada a análise do dissídio jurisprudencial (fls. 663-670).
+Os agravantes alegam que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de recuperação judicial.
+O julgado foi assim ementado (fls. 308-309):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO. LEGITIMIDADE RECURSAL. QUITAÇÃO. COOBRIGADOS.
+1. DESCABIMENTO DA INTERVENÇÃO PRETENDIDA PELAS ENTIDADES DE CLASSE RECORRENTES EM SUBSTITUIÇÃO AOS CREDORES DAS RECUPERANDAS.
+2. O PROCESSO DE RECUPERAÇÃO JUDICIAL POSSUI TRAMITAÇÃO PECULIAR, CUJA FINALIDADE PRECÍPUA É PERMITIR A SUPERAÇÃO DA CRISE PELA DEVEDORA.
+3. POR CONSEGUINTE, NÃO É POSSÍVEL ADMITIR TODOS OS EVENTUAIS SUBSTITUTOS COMO PARTE NO PROCESSO, SOB PENA DE OBSTAR O TRÂMITE REGULAR E O CUMPRIMENTO DOS PRAZOS ESTABELECIDOS NA LEI ESPECIAL QUE REGE O PROCEDIMENTO.
+4. EXCEÇÃO NO QUE TOCA AO SINPRO/ABC E SINPRO/MINAS, OS QUAIS FIGURAM COMO EFETIVOS CREDORES DAS RECUPERANDAS.
+5. MÉRITO. CLÁUSULA DE QUITAÇÃO (5.4) NA PARTE QUE ESTENDE OS EFEITOS AOS COOBRIGADOS E GARANTIDORES. AFASTAMENTO EXCLUSIVAMENTE AOS AGRAVANTES SINPRO ABC E SINPRO/MINAS, CREDORES PRESENTES À AGC E QUE MANIFESTARAM EXPRESSAMENTE A SUA CONTRARIEDADE EM RELAÇÃO À REFERIDA DISPOSIÇÃO DO PLANO. ORIENTAÇÃO SUFRAGADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA.
+PRELIMINAR CONTRARRECURSAL ACOLHIDA. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 469-470).
+No recurso especial, as partes apontam violação dos seguintes artigos:
+a) 1.022, II, do CPC, pois o acórdão recorrido teria deixado de se manifestar sobre os efeitos das ressalvas apresentadas pelos sindicatos em relação aos credores associados que foram representados na assembleia geral de credores;
+b) 3º da Lei n. 8.073/1990, porque a decisão teria restringido indevidamente a substituição processual ampla e autônoma das entidades sindicais, contrariando a legislação que garante a ampla legitimidade extraordinária para a defesa dos interesses coletivos e individuais homogêneos da categoria.
+Requerem o provimento do recurso para que seja admitida a ampla legitimidade extraordinária das entidades sindicais, reformando o acórdão recorrido para garantir a atuação das agravantes como substitutas processuais autônomas dos credores trabalhistas.
+Nas contrarrazões, as partes recorridas aduzem que o recurso especial não merece provimento, pois a decisão agravada está em consonância com a jurisprudência do STJ, requerendo a aplicação da Súmula n. 7 do STJ e a manutenção da decisão agravada (fls. 603-614).
+Parecer do Ministério Público Federal pelo desprovimento do recurso (fls. 798-805).
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que homologou o plano de recuperação judicial, incluindo a cláusula 5.4, que trata da quitação em relação aos coobrigados.
+A Corte estadual reformou parcialmente a decisão, afastando a aplicação da cláusula 5.4 exclusivamente em relação aos agravantes SINPRO ABC e SINPRO MINAS, que manifestaram ressalvas expressas na assembleia geral de credores.
+I - Da violação do art. 1.022, II, do CPC
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No caso, o Tribunal a quo expôs, de forma explícita, que a novação disposta no art. 59, caput , da Lei n. 11.101/2005, no tocante aos coobrigados, revela-se legítima relativamente aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, apenas não sendo eficaz quanto aos credores que não se fizeram presentes na Assembleia Geral, que se abstiveram de votar ou que manifestaram sua contrariedade em relação à referida disposição do plano, caso dos agravantes SINPRO/ABC e SINPRO Minas.
+A Corte de origem ressaltou que a Assembleia Geral de Credores, dotada de autonomia limitada somente pelo controle judicial de legalidade para observação de critérios no plano da validade, e orientada pelo princípio da preservação da empresa, possui o poder de decisão para delimitar quanto à legitimidade da novação de eventuais obrigações quanto aos coobrigados.
+Frisou o reconhecimento da aplicabilidade da Cláusula 5.4 do PRJ apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não incidente, portanto, aos agravantes SINPRO/ABC e SINPRO Minas.
+A propósito, confira-se trecho do acórdão recorrido (fls. 305-307):
+No mais, a controvérsia recursal diz com a (i)legalidade da cláusula 5.4 do plano de recuperação, no sentido da exclusão dos efeitos da novação dos créditos devidos pelos codevedores solidários que não integram o polo ativo da recuperação, notadamente as associações religiosas.
+Pois bem. Assim dispõe a cláusula 5.4, que trata da quitação (evento 5529, PROACORDO2 - fl. 35):  ..
+Segundo a atual jurisprudência da Corte Superior, a novação disposta no art. 59, caput, da Lei n. 11.101/2005, no tocante aos coobrigados, revela-se legítima relativamente aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, apenas não sendo eficaz quanto aos credores que não se fizeram presentes na Assembleia Geral, que se abstiveram de votar ou que manifestaram sua contrariedade em relação à referida disposição do plano, caso dos agravantes SINPRO/ABC e SINPRO Minas (evento 4529, ATA2 - fls. 30-33). Uma interpretação sistemática dos princípios e das regras constantes no ordenamento recuperacional brasileiro orienta esse entendimento.
+A Assembleia Geral de Credores, dotada de autonomia limitada somente pelo controle judicial de legalidade para observação de critérios no plano da validade, e orientada pelo princípio da preservação da empresa, possui o poder de decisão para delimitar quanto à legitimidade da novação de eventuais obrigações quanto aos coobrigados, "afinal de contas, como são os credores que sofrerão os efeitos da recuperação, nada mais justo que o poder decisório acerca disso recaia sobre eles".  ..
+Corolário lógico do entendimento acima exposto, é o reconhecimento da aplicabilidade da referida cláusula apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não incidente, portanto, aos agravantes SINPRO/ABC e SINPRO Minas.
+Por fim, descabe deliberação acerca da participação e efeitos do plano em relação às organizações religiosas, porquanto a questão aguarda julgamento pelo e. STJ.
+Ante o exposto, voto por acolher a preliminar e dar provimento ao agravo de instrumento, a fim de afastar a cláusula 5.4 do plano de recuperação, que trata da quitação em relação aos coobrigados, nos moldes da fundamentação.
+Assim, "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+II - Da violação do art. 3º da Lei n. 8.073/19 90
+A questão referente à violação do artigo acima não foi objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Ressalte-se que, consoante entendimento jurisprudencial do STJ, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC e a ausência de prequestionamento, com a incidência das Súmulas n. 211 do STJ e 282 do STF, em relação às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pela Corte a quo, por concluir serem suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+Nesse sentido: AgInt no REsp n. 1.371.104/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021; AgInt no AREsp n. 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; e AgInt no AREsp n. 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+III - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
