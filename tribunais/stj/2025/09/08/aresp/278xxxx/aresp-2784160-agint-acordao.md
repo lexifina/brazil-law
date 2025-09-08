@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA PARTE RÉ.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal relativo à existência de valores cobrados a título do contrato de honorários advocatícios, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno, interposto por BANCO BRADESCO S.A., em face de decisão monocrática da lavra deste signatário (fls. 1751-1755, e-STJ), que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, ante a incidência do óbice da Súmula 7/STJ, além de considerar inexistente a alegada omissão no julgado recorrido.
+Daí o presente agravo interno (fls. 1758-1763, e-STJ), no qual o insurgente sustenta que houve negativa de prestação jurisdicional, apontando omissões no acórdão do TJMT quanto à análise de documentos e teses essenciais para sua defesa, além de contestar a aplicação da Súmulas 7/STJ.
+Contraminuta às fls. 1776-1783, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA PARTE RÉ.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal relativo à existência de valores cobrados a título do contrato de honorários advocatícios, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. De início, a parte recorrente reitera a tese de omissão da decisão recorrida, porquanto não teria enfrentado devidamente todos os documentos e teses essenciais para a sua defesa: cláusulas contratuais e termos de quitação ignorados (fls. 1758-1759, e-STJ).
+Consoante asseverado na decisão monocrática ora combatida, o Tribunal local se manifestou acerca da validade do contrato, bem como acerca da possibilidade de percebimento das verbas honorárias devidas (fl. 1416, e-STJ):
+Analisando detidamente os autos, não verifico a ocorrência de julgamento nulo, pois o Juiz fundamentou a sentença prolatada, de forma adstrita aos argumentos e documentos trazidos pela parte Autora, ora Apelada, na inicial e na impugnação à contestação, se atendo aos argumentos trazidos por ambas as partes.
+(..) No caso da presente demanda, não se verifica quaisquer máculas processuais e fáticas capazes de levar ao reconhecimento da falta de interesse de agir pela parte Autora, uma vez que busca o recebimento de valores em razão da rescisão unilateral de contrato advocatício pela parte contratante.
+Ainda, no caso em apreço, além de evidenciado o interesse processual, verifico que o pedido é certo e determinado, qual seja o arbitramento dos honorários pelo trabalho desenvolvido nos autos dos feitos descritos na inicial, razão pela qual, da mesma forma, não há se falar em inépcia do referido petitório.
+Com efeito, todas as questões postas em debate foram  dirimidas  pelo  Tribunal  de  origem  de  forma  suficiente,  fundamentada  e  sem  omissões,  devendo  ser  afastada  a  alegada  violação  dos art. 1.022, II, do CPC,  tratando-se  de  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão,  o  que  não  caracteriza  falta  de  prestação  jurisdicional.
+Nesse  sentido:
+AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  RECONSIDEROU  DELIBERAÇÃO  ANTERIOR  E,  DE  PLANO,  CONHECEU  DO  AGRAVO  PARA  NEGAR  PROVIMENTO  AO  APELO  EXTREMO.  INSURGÊNCIA  DA  PARTE  AGRAVANTE.
+1.  As  questões  postas  em  discussão  foram  dirimidas  pelo  Tribunal  de  origem  de  forma  suficiente,  fundamentada  e  sem  omissões,  devendo  ser  afastada  a  alegada  violação  aos  artigos  489  e  1022  do  CPC/15.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.  Precedentes.
+ ..  4.  Agravo  interno  provido,  em  parte,  para  conhecer  do  agravo  e  dar  parcial  provimento  ao  recurso  especial,  reduzindo-se  o  valor  das  astreintes.
+(AgInt  no  AgInt  no  AREsp  n.  1.286.928/SC,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  29/3/2022,  DJe  de  7/4/2022.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  EXECUÇÃO.  ARTS.  489  E  1.022  DO  CPC/2015.  AUSÊNCIA  DE  VIOLAÇÃO.  OMISSÃO  NÃO  CONFIGURADA.  ACÓRDÃO  SUFICIENTEMENTE  FUNDAMENTADO.  ARTS.  314  E  722  DO  CÓDIGO  CIVIL.  MATÉRIA  NÃO  ENFRENTADA  PELO  TRIBUNAL  DE  ORIGEM  SOB  O  ENFOQUE  PRETENDIDO.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  211/STJ.  INCIDÊNCIA  DE  ENCARGOS  DE  MORA  APÓS  O  DEPÓSITO  DO  VALOR  EM  JUÍZO.  GARANTIA.  JUÍZO.  AUSÊNCIA  DE  RESPONSABILIDADE  DO  DEVEDOR.  REVISÃO  DO  JULGADO.  IMPOSSIBILIDADE.  MATÉRIA  FÁTICO-PROBATÓRIA.  SÚMULA  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  AGRAVO  INTERNO  IMPROVIDO.
+ 1.  A  alegada  ofensa  aos  arts.  489  e  1.022  do  CPC/2015  não  se  sustenta,  uma  vez  que  o  Tribunal  de  origem  examinou,  de  forma  fundamentada,  todas  as  questões  submetidas  à  apreciação  judicial  na  medida  necessária  para  o  deslinde  da  controvérsia,  ainda  que  tenha  decidido  em  sentido  contrário  à  pretensão  da  recorrente.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.
+  ..  4.  Agravo  interno  improvido.
+ (AgInt  no  AREsp  n.  1.800.463/GO,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  21/2/2022,  DJe  de  23/2/2022.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  INEXISTÊNCIA.  PENHORA  DE  IMÓVEL.  CÔNJUGE.  INTIMAÇÃO.  AUSÊNCIA.  NULIDADE.  INEXISTÊNCIA.  MENOR  ONEROSIDADE.  PREQUESTIONAMENTO.  SÚMULAS  N.  282  E  356/STF  E  211/STJ.  PRESCRIÇÃO  INTERCORRENTE.  SÚMULA  N.  284/STF.  NÃO  PROVIMENTO.
+ 1.  Não  é  omisso  o  acórdão  que  examina  todas  as  questões  que  lhe  foram  propostas,  embora  em  sentido  contrário  ao  pretendido  pela  parte.
+  ..  5.  Agravo  interno  a  que  se  nega  provimento.
+ (AgInt  no  AREsp  n.  1.885.937/RJ,  relatora  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  julgado  em  13/12/2021,  DJe  de  15/12/2021.)
+Ademais,  segundo  entendimento  pacífico  deste  Superior  Tribunal,  o  magistrado  não  é  obrigado  a  responder  a  todas  as  alegações  das  partes  se  já  tiver  encontrado  motivo  suficiente  para  fundamentar  a  decisão,  nem  a  ater-se  aos  fundamentos  e  aos  dispositivos  legais  apontados,  mas  apenas  sobre  aqueles  considerados  suficientes  para  fundamentar  sua  decisão,  como  ocorreu  no  caso  ora  em  apreço.  Precedentes:  AgInt  no  REsp  1716263/RS,  Rel.  Min.  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  07/08/2018,  DJe  14/08/2018;  AgInt  no  AREsp  1241784/SP,  Rel.  Min.  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  21/06/2018,  DJe  27/06/2018.
+Afasta-se,  portanto,  a  alegada  ofensa  ao  art. 1.022, II, do CPC.
+2. Na oportunidade, ainda, a parte recorrente reforça a tese de que se trata de questão jurídica, não fática, envolvendo violação ao artigo 22, § 2º, da Lei 8.906/1994, porquanto não se poderia arbitrar honorários quando há previsão expressa em contrato quanto à forma e condições de pagamento.
+O Tribunal a quo, diante das peculiaridades  do  caso  concreto  e  a  partir  da  análise  do  conteúdo  fático-probatório  dos  autos, concluiu pela devida comprovação do fato constitutivo do direito do autor, esclarecendo ser incontroversa a rescisão unilateral do contrato de prestação de serviços advocatícios e a plausibilidade do arbitramento de valor de honorários advocatícios no caso.
+Nesse ponto, o aresto recorrido (fls. 1417, 1420/1421, e-STJ):
+Conforme exposto, o cerne da controvérsia consiste em determinar a possibilidade de arbitrar honorários advocatícios em favor de Galera Mari e Advogados Associados, em razão da rescisão unilateral de contrato firmado entre as partes, pelo trabalho exercido nas demandas executórias apontadas na inicial.
+A questão é singela e despicienda maiores digressões.
+Isto porque, este Tribunal de Justiça, exaustivamente, vem enfrentando a presente matéria e, de forma estável e coerente, admite a possibilidade de arbitramento de honorários em favor do escritório de advocacia, nos casos em que, unilateralmente, o mandante tenha rescindido contrato firmado entre as partes, que previa o recebimento de honorários por êxito da demanda.
+(..) A par dos argumentos recursais, estou convencido de que, nas demandas de determinação de honorários advocatícios, estes devem ser fixados por meio de uma avaliação justa e equitativa, um critério baseado na verdade e na justiça que deve guiar a análise para estabelecer o valor financeiro do trabalho realizado pelo advogado.
+Isso, é claro, sem negligenciar os padrões estabelecidos pelo parágrafo 2º do artigo 85 do Código de Processo Civil.
+A quantia a ser determinada deve respeitar as diretrizes legais mencionadas, levando em consideração o nível de subjetividade do caso específico, como a complexidade do trabalho intelectual necessário para uma avaliação equitativa. É essencial apreciar e reconhecer a qualidade do trabalho profissional do advogado, garantindo uma remuneração justa pelo desempenho da atividade advocatícia realizada anteriormente à rescisão contratual.
+No caso dos autos, o Juízo sentenciante procedeu com a análise pormenorizada do serviço executado pela parte Autora, em cada demanda indicada na inicial, in verbis:
+(..) Diante de tais fundamentos, estou convencido de que a sentença prolatada pelo Juízo a quo deve ser mantida, pois, de acordo com o entendimento deste Sodalício, bem como fixou os valores devidos a partir dos critérios de proporcionalidade e razoabilidade à complexidade do trabalho desenvolvido na atividade advocatícia.
+Derruir  as  conclusões  contidas  no  decisum  e  acolher  a  pretensão  recursal  ensejaria  o  necessário  revolvimento  das  provas  constantes  dos  autos,  providência  vedada  em  sede  de  recurso  especial,  ante  o  óbice  estabelecido  pela  Súmula  7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO REQUERIDO.
+1. A conclusão a que chegou o Tribunal de origem, relativa à existência dos valores cobrados a título de contrato verbal de honorários advocatícios, fundamenta-se em previsões contratuais e nas particularidades do contexto que permeia a controvérsia.
+Incidência das Súmulas 5 e 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1261179/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/10/2019, DJe 23/10/2019)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPROVAÇÃO DO CONTRATO VERBAL. ÔNUS DA PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. MAJORAÇÃO DA VERBA HONORÁRIA. POSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova, concluiu ter o autor comprovado os fatos constitutivos de seu direito, os quais não foram desconstituídos pela parte contrária. Entender de modo contrário implicaria reexame de matéria fática, vedado em recurso especial.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1180211/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2018, DJe 14/03/2018)  grifou-se
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
