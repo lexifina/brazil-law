@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE IN ADMISSIBILIDADE DE RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade.
+2. Em atenção ao princípio da dialeticidade recursal, a ausência de impugnação específica de todos os fundam entos da decisão de inadmissibilidade do recurso especial impõe o não conhecimento do agravo em recurso especial, nos termos do art. 253, parágrafo único, I, do RISTJ, art. 932, III, do CPC/2015 e Súmula 182/STJ.
+3. Agravo regimental de sprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GIOVANE BELLER (fls. 290-302) contra decisão monocrática que não conheceu do agravo em recurso especial, pela incidência da Súmula n. 182 do STJ (fls. 278-285).
+A parte recorrente pugna pela reconsideração da decisão agravada ou pela apreciação da matéria pelo colegiado.
+O Ministério Público Federal opinou pelo desprovimento do agravo regimental (fls. 306-309).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE IN ADMISSIBILIDADE DE RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade.
+2. Em atenção ao princípio da dialeticidade recursal, a ausência de impugnação específica de todos os fundam entos da decisão de inadmissibilidade do recurso especial impõe o não conhecimento do agravo em recurso especial, nos termos do art. 253, parágrafo único, I, do RISTJ, art. 932, III, do CPC/2015 e Súmula 182/STJ.
+3. Agravo regimental de sprovido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+É cabível registrar, quanto à decisão monocrática proferida, acerca das reiteradas manifestações desta Corte no sentido de que, "não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental" (AgRg no RHC n. 147.556/MT, Ministra LAURITA VAZ, Sexta Turma, DJe 25/6/2021).
+Nesse sentido, confiram-se ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONCE SSÃO DO WRIT POR DECISÃO MONOCRÁTICA DO RELATOR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADO. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO (ART. 12 DA LEI N. 10.826/2003). PEQUENA APREENSÃO DE MUNIÇÃO (3 MUNIÇÕES DO TIPO OGIVAL CALIBRE 12), DESACOMPANHADA DE ARMA DE FOGO. BEM JURÍDICO. INCOLUMIDADE PÚBLICA PRESERVADA. PERIGO NÃO CONSTATADO. INEXISTÊNCIA DE POTENCIALIDADE LESIVA. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE.
+1. A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante. III - Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral (AgRg no HC n 654.429/SP, Ministro Felix Fischer, Quinta Turma, DJe 7/6/2021).
+ ..
+4. Agravo regimental improvido
+(AgRg no HC 536.663/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada não descurou do princípio da colegialidade, visto que visualizou situação abarcada pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal (aplicável também ao recurso em habeas corpus, por força do art. 246 do RISTJ), que autoriza o Relator a decidir o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+ ..
+4. Agravo regimental não provido
+(AgRg no RHC 147.759/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021).
+Avançando, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (fls. 283-284):
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único,ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. (..) A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAR Esp 746.775/PR, relator Ministro João Otávio de Noronha, redator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, D Je de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignam que "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AR Esp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, D Je de 13/3/2023; AgRg no AR Esp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Nas razões do agravo em recurso especial, a parte agravante não impugna especificamente o fundamento da decisão de inadmissibilidade, limitando-se a repisar as alegações do recurso especial e asseverar genericamente que a reforma pretendida não exige incursão no acervo probatório.
+Reforço que, na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 7/STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias:  ..
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão impugnada.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+É cediço que, nos termos dos arts. 932, III, do Código de Processo Civil de 2015, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, bem como da Súmula n. 182 do STJ, aplicável por analogia, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A propósito, em atenção ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento.
+Assiste razão ao Ministério Público Federal quando destaca que "não é suficiente a repetição de alegações deduzidas no recurso especial e no AREsp ou a simples menção ao desacerto do exame empreendido pelo julgador. Obsta-se, igualmente, a eventual tentativa de suprir as lacunas do AREsp, tardiamente, em sede de agravo regimental" (fl.308).
+A parte agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo regimental, em virtude da ocorrência da preclusão consumativa.
+Dessa forma, tendo em vista que a parte não apresentou argumentos aptos a alterar a compreensão anteriormente firmada, a manutenção da decisão agravada é medida que se impõe.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
