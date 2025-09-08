@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recursos especiais interpostos pela UNIÃO e pelo INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, com fulcro no permissivo constitucional, contra acórdão proferido pelo TRF1 assim ementado (e-STJ fl. 902):
+ADMINISTRATIVO. AÇÃO DISCRIMINATÓRIA. SOPREPOSIÇÃO DE ÁREA. INEXISTÊNCIA DE ASSENTAMENTO RURAL PERPETRADO PELO INCRA. ERRO DA UNIÃO. INDENIZAÇÃO TÃO SOMENTE DA ÁREA SOBREPOSTA. VALOR DO HECTARE. SENTENÇA ULTRA PETITA. JUROS MORATÓRIOS. JUROS COMPENSATÓRIOS.
+1. O laudo pericial demonstrou que houve sobreposição de parte da área dos autores quando do procedimento discriminatório que demarcou como terra devoluta o local denominado Devoluto IV. Contudo, o laudo pericial também comprovou a ausência de projeto de assentamento no local.
+2. Importante salientar que em nenhum momento foi negado o fato de que estava sendo realizado pelo INCRA projeto de assentamento na região, contudo a área dos autores nunca fez parte de tal projeto. Na época, houve sim sobreposição de área e esta há de ser indenizada, haja vista o erro cometido pela autarquia ré. A indenização há de ser somente referente à mencionada sobreposição.
+3. Ocorrendo julgamento ultra petita, a condenação pode ser ajustada aos limites do pedido, sem a verificação de qualquer nulidade ou prejuízo para as parte.
+4. O Magistrado adotou o valor do hectare consignado na pericial, superior ao requerido na inicial. A sentença é, portanto, ultra petita, estando a merecer reforma para que seja arbitrado o valor expressamente pedido pela parte autora.
+5. "Não há que se falar em aplicação de juros compensatórios, já que os requeridos jamais foram imitidos na pose do imóvel em questão".
+6. Juros moratórios da forma como arbitrados na sentença.
+7. Apelações do INCRA e dos autores não providas.
+8. Apelação da União parcialmente provida.
+Os embargos de declaração opostos pela UNIÃO foram rejeitados (e-STJ fls. 958/967).
+Em suas razões, a União aponta violação dos arts. 15-B do Decreto-lei n. 3.365/1941, 1º-F da Lei n. 9.494/1997 e da Lei n. 6.383/1976. Caso não se entenda prequestionada a matéria, indica ofensa ao art. 1.022, II, do Código de Processo Civil/2015.
+Alega que o processo administrativo de discriminação de terras devolutas da União é regido por legislação específica, de modo que a inclusão de área sob domínio particular enseja apenas a anulação parcial do procedimento, com a exclusão da área indevidamente discriminada, afastando-se a aplicação do regime indenizatório próprio das desapropriações.
+Subsidiariamente, caso não se reconheça a nulidade da demarcação, defende ser a hipótese de desapropriação indireta, razão pela qual os juros de mora devem obedecer o disposto no art. 15-B do Decreto-Lei n. 3.365/41, bem como os índices estabelecidos na lei n. 9.494/97.
+Argumenta, ainda, que o Supremo Tribunal Federal, ao julgar as ADIs n. 4.357 e 4.425, declarou a inconstitucionalidade da TR apenas para o período entre a inscrição do crédito em precatório e o pagamento, não afastando sua aplicação na fase anterior (até a expedição do requisitório), de modo que permanece válida a aplicação da TR, conforme previsto no art. 1º-F da Lei n. 9.494/97, para a atualização monetária das condenações impostas à Fazenda Pública desde julho de 2009.
+O INCRA, por sua vez, também indica ofensa aos arts. 15-B do Decreto-lei n. 3.365/1941, 1º-F da Lei n. 9.494/1997, e da Lei n. 6.383/1976, reiterando as teses defendidas pela União em seu apelo.
+Em juízo de retratação, o acórdão foi parcialmente reformado, nos seguintes termos (e-STJ fl. 1.075):
+PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. ARTIGO 1.030, INCISO II, DO CPC/2015. AÇÃO DISCRIMINATÓRIA. DISCUSSÃO SOBRE A APLICAÇÃO DO ART. 1a-F DA LEI 9.494197 PARA FINS DE CORREÇÃO MONETÁRIA. TEMA 810/STF. TEMA 905/STJ. MODIFICAÇÃO DO JULGADO.
+1. Na hipótese de o acórdão recorrido divergir da orientação firmada pelo Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos, os autos serão encaminhados ao relator da apelação para serem novamente examinados, nos termos do inciso II do art. 1.030, do CPC/15.
+2. O entendimento adotado direcionou-se em sentido diverso daquele firmado pelas Cortes Superiores, no RE 870.947/SE (Tema 810/STF) e no REsp 1.495.146/MG (Tema 905/STJ), que entendem vedada a aplicação do disposto no art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), ou seja, da taxa referencial (TR), para fins de correção monetária, nas condenações judiciais impostas à Fazenda Pública.
+3. Julgado alterado, para determinar a correção monetária com base nos índices do Manual de Cálculos da Justiça Federal.
+Sem contrarrazões, os apelos nobres receberam negativa de seguimento quanto aos critérios de correção monetária (Juízo de readequação), e admitidos em relação aos demais pontos às e-STJ fls. 1.093/1.096 e 1.100/1.103.
+Parecer do Ministério Público Federal opinando pelo parcial conhecimento dos recursos especiais, e, nesta extensão, pelo respectivo desprovimento (e-STJ fls. 1.117/1.121).
+Passo a decidir.
+No tocante ao percentual do juros de mora e à correção monetária, os recursos especiais não comportam conhecimento.
+Com efeito, o juízo de prelibação negou seguimento aos apelos nobres, com fundamento no art. 1.040, I, do CPC/2015, por entender que o acórdão recorrido se encontra em conformidade com as teses firmadas sob o rito dos recursos repetitivos e da repercussão geral (Tema 905 do STJ e Tema 810 do STF).
+Tais questões somente poderiam ser objeto de agravo interno dirigido ao Tribunal de origem, nos termos do art. 1.030, § 2º, c/c o art. 1.021 do CPC/2015, providência que, de fato, foi adotada no presente caso.
+Dito isso, registre-se que as matérias suscitadas, em ambos os recursos especiais, revelam estreita correção, impondo-se, por conseguinte, o seu julgamento conjunto.
+Quanto à Lei n. 6.383/1976, observo que as partes insurgentes não apontaram, de forma clara e objetivamente, nenhum dispositivo de lei federal supostamente contrariado ou interpretado de maneira divergente pela Corte a quo, circunstância que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+Cabe observar não ser admitida alegação genérica de violação da lei federal, nem a mera transcrição de dispositivos e de documentos que tratem destes, sem indicar, claramente, quais artigos de lei foram contrariados.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEVER DE INDENIZAR. DANO MORAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A DISPOSITIVO DE LEI FEDERAL. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui firme o entendimento de que a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplica-se na hipótese a Súmula 284 do STF, que dispõe que não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. Agravo interno não provido.
+(AgInt no AREsp 1569294/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/05/2020, DJe 13/05/2020)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DISSÍDIO NÃO DEMONSTRADO. NECESSIDADE DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO.
+1. Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Precedente: REsp. n. 1.116.473 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.02.2012.
+2. Quanto ao dissídio, além de não ter sido adequadamente demonstrado (houve apenas colagem de ementas), de observar que a jurisprudência deste STJ firmou-se no sentido de que mesmo na interposição do especial pelo dissídio deve ser invocado o dispositivo de lei violado para fins de conhecimento do recurso especial pela alínea "c", do art. 105, III, da CF/88. Precedentes:
+AgRg no REsp 1395538 / PB, Segunda Turma, Rel. Min. Herman Benjamin, julgado em 19.09.2013; AgRg no REsp 1311820 / PB, Primeira Turma, Rel. Min. Sérgio Kukina, julgado em 20.06.2013; AgRg no REsp 1347090 / SP, Quinta Turma, Rel. Min. Jorge Mussi, julgado em 18.12.2012.
+3. O recurso de agravo interno não pode ser utilizado para corrigir, complementar ou esclarecer a petição do recurso especial.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.958.451/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+Relativamente ao pedido subsidiário, cumpre transcrever o seguinte trecho do acórdão recorrido (e-STJ fl. 898):
+Com efeito, não ocorreu a desapropriação indireta e nem houve destinação da área para assentamento rural. Na verdade, como comprovado pela perícia, ocorreu uma sobreposição de parte do imóvel pertencente ao autor.
+Todavia, em que pese a ausência de expropriação, há a necessidade de indenização da parte da terra sobreposta, já que essa terra do particular passou ao domínio da União.
+Com efeito, conforme registrado pelo Tribunal de origem, não havendo desapropriação, de fato, não incidem as disposições do Decreto-Lei n. 3.365/1941, no que tange aos eventuais juros moratórios.
+Nesse mesmo sentido, destaco as razões expostas pelo Ministério Público Federal (e-STJ fl. 1.121):
+Quanto à alegada violação ao artigo 15-B do DL nº 3.365/1941, relativamente ao termo inicial dos juros de mora incidir a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser realizado, assim decidiu o Tribunal a quo (fl. 899):
+No que tange aos juros compensatórios, creio que andou bem a sentença. Confira-se:
+"(..) não há que se falar em aplicação de juros compensatórios, já que os requeridos jamais forma imitidos na posse do imóvel em questão" (f1. 678 v).
+No que tange aos juros moratórios, também não merece reforma a sentença. Veja o que diz o Ministério Público:
+"Por fim, sustenta a União que os juros mora tórios são devidos a partir de lº de janeiro do exercício seguinte aquele em o pagamento deveria ser feito, nos termos do art. 100 da Constituição, e não antes da expedição do precatório, como determinou a sentença.
+No caso em debate não houve desapropriação, mas sim responsabilidade extracontratual do Estado, não se aplicando, portanto, o art. 15-B do Decreto-Lei n. 3.365/41.
+Correto o entendimento do magistrado quanto à aplicação dos juros moratórios." (Grifo nosso)
+Com efeito, no caso concreto não houve desapropriação, mas responsabilidade extracontratual do Estado, razão pela qual não se aplica o disposto no artigo 15-B do Decreto-Lei n. 3.365/41, devendo, por isso, ser mantido o acórdão recorrido em todos os seus termos.
+Ressalte-se, por fim, que dissentir da conclusão a que chegou a Corte de origem, de modo a se aferir a ocorrência ou não de desapropriação, implica inevitável revolver de aspectos fático-probatório s, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO dos recursos especiais da UNIÃO e do INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA.
+Caso exista, nos autos, prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
