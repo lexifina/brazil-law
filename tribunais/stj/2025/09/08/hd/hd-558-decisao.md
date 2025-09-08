@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas data impetrado por Ana Maria da Silva Antônio, no qual aponta como autoridade coatora a Diretoria de Execuções de Precatórios e Cálculos - DEPRE, órgão vinculado à Presidência do Tribunal de Justiça do Estado de São Paulo.
+Nas razões de sua postulação constitucional, a parte sustenta que necessita de informações acerca de precatório expedido em seu favor, que decorre de valores em atraso quanto a verba alimentar devida pelo Departamento de Estradas e Rodagem - DER, de modo a satisfazer condenação à autarquia por acidente que vitimou o esposo da impetrante.
+Alega que precisa ter informações sobre a localização do depósito bancário, uma vez que solicitou transferência dos valores para sua conta, tendo obtido a notícia de que o importe já teria sido levantado. Contudo, aduziu que não recebeu os valores do precatório. Indica haver dificuldade de alcançar respostas a respeito, e que a vara cível que conduz o cumprimento de sentença também não teria recebido resposta a ofício enviado à DEPRE. Pede, portanto, a concessão da ordem, a fim de que tenha informações pessoais no ponto referenciado.
+Brevemente relatado, decido.
+Suscito, de ofício, preliminar de incompetência do Superior Tribunal de Justiça.
+A Constituição Federal de 1988 prevê que o habeas data será apreciado pelo Superior Tribunal de Justiça quando houver ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal (art. 105, I, b). Cuida-se de competência estabelecida em razão da pessoa, sendo, portanto, absoluta - logo, inderrogável e improrrogável (arts. 62 e 65 do CPC/2015).
+No caso concreto, observa-se que não há ato praticado por Ministro de Estado, nem por Comandantes de repartições castrenses, nem sequer por Ministro da Corte Superior.
+O que se tem da espécie é um suposto ato omissivo praticado por um órgão administrativo vinculado à Presidência do Tribunal de Justiça de São Paulo, circunstância que não instaura a competência do Superior Tribunal de Justiça para a impetração.
+Diante dessas considerações, declaro a incompetência do Superior Tribunal de Justiça para processar e julgar o habeas data , determinando, nos termos do art. 64, § 3º, do CPC/2015, a remessa do feito à Presidência do Tribunal de Justiça do Estado de São Paulo, com a devida baixa, para que, segundo as normas regimentais inerentes à competência, distribua a impetração, prosseguindo o feito em seus termos.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. HABEAS DATA. AUSÊNCIA DE AUTORIDADE COATORA NO POLO PASSIVO DA IMPETRAÇÃO QUE ATRAIA A COMPETÊNCIA AO SUPERIOR TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA DECLARADA. REMESSA DOS AUTOS AO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
