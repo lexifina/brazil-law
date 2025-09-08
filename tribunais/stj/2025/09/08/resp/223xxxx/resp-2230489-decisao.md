@@ -1,0 +1,50 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela LOCALIZA FLEET S.A contra acórdão prolatado, por unanimidade, pelo Tribunal de Justiça do Estado de São Paulo no julgamento de agravo de instrumento, assim ementado (fl. 32e):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DECISÃO RECORRIDA. DETERMINAÇÃO DE LEVANTAMENTO DOS VALORES PENHORADOS (SISBAJUD). IMPOSSIBILIDADE DE REFORMA. DESPROVIMENTO.
+1. CPC/2015 que permite às instituições financeiras indisponibilizar ativos financeiros em nome da executada sem a ela dar ciência prévia do ato, a fim de possibilitar a efetividade penhora (art. 854, caput). A intimação prévia do ato poderia dar margem a pretensões indevidas, tal como fraude à execução.
+2. Norma processual que também impõe a necessidade de que seja a parte executada intimada da penhora, quando formalizada por qualquer dos meios legais (art. 841), assim como a Lei de Execuções Ficais (art. 12).
+3. No caso, verifica-se que, nos autos do feito principal, a parte agravante foi devidamente intimada do bloqueio de valores pelo Sistema SISBAJUD, concedendo-lhe prazo de 5 dias úteis para impugnação (CPC, art. 854, § 3º).
+4. Regularmente citada, para pagar o débito previsto no título executivo que instruiu a execução, e intimada, para ciência da penhora, há legitimidade na decisão do juízo que ordena remoção do bem penhorado para depósito judicial, a despeito do requerimento expresso da parte exequente, que se presume tácito.
+5. Decisão recorrida mantida, portanto.
+6. Recurso não provido.
+Opostos embargos de declaração (fls. 41/45e), foram rejeitados (fls. 66/69e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+- Arts. 854 do Código de Processo Civil de 2015 e 11, § 3º, da Lei 6.830/1980 - O acórdão recorrido violou o art. 854 ao admitir a convolação da penhora em depósito judicial e o levantamento dos valores sem requerimento do exequente. É necessário requerimento expresso do exequente para a remoção de bens penhorados e o acórdão recorrido desconsiderou essa exigência ao presumir pedido tácito para o levantamento dos valores penhorados.
+Requer a reforma do acórdão recorrido, reconhecendo-se a violação aos dispositivos mencionados, a fim de que seja mantida a penhora já efetuada nos autos, oportunizando-se à recorrente o ajuizamento de embargos à execução fiscal, caso confirmada a garantia integral do feito executivo.
+Com contrarrazões (fls. 87/89e), o recurso teve o seguimento negado em relação ao decidido no Tema n. 578/STJ e foi inadmitido quanto ao remanescente (fls. 91/92e), tendo sido interpostos Agravo Interno, o qual restou prejudicado (fl. 111e) e Agravo em Recurso Especial, posteriormente convertido em Recurso Especial (fl. 138e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante impugne acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente recurso especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada à Corte é o caminho apropriado para impedir a preclusão da matéria.
+O tribunal de origem asseverou que houve a devida intimação da Recorrente sobre o bloqueio de valores pelo Sistema SISBAJUD, concedendo-lhe prazo de 05 (cinco) dias úteis para impugnação, sendo legítima a decisão de remoção do bem penhorado para depósito judicial, a despeito do requerimento expresso da parte exequente, que se presume tácito, nos seguintes termos:
+No caso, verifica-se que, nos autos do feito principal, a parte agravante foi devidamente intimada do bloqueio de valores pelo Sistema SISBAJUD, concedendo-lhe prazo de 05 (cinco) dias úteis para impugnação, nos termos do art. 854, § 3º, do CPC (fl. 64).
+Assim, tendo sido regularmente citada, para pagar o débito previsto no título executivo que instruiu a execução, assim como intimada, para ciência da penhora, há legitimidade na decisão do juízo que ordena remoção do bem penhorado para depósito judicial, a despeito do requerimento expresso da parte exequente, que se presume tácito. (fl. 34e - destaque meu)
+Contudo, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual a constrição de ativos financeiros da parte executada depende de requerimento expresso da exequente, não podendo ser determinada ex officio pelo magistrado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. PENHORA VIA BACENJUD. NECESSIDADE DE REQUERIMENTO ESPECÍFICO DO EXEQUENTE. PRECEDENTES.
+1. A orientação dessa Corte Superior é no sentido de que ofício administrativo endereçado à secretaria do juízo não supre a necessidade da prática do respectivo ato processual, a cargo da parte (exequente). Com efeito, "a constrição de ativos financeiros da executada pelo sistema BACENJUD exige o requerimento expresso da exequente, não podendo ser determinada ex officio pelo magistrado" (REsp 1546906/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/03/2018, DJe 21/03/2018).
+No mesmo sentido: REsp 1684371/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.832.860/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 3/3/2020, DJe de 9/3/2020).
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. SUPOSTA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. PENHORA VIA BACEN JUD. REQUERIMENTO FORMULADO EM OFÍCIO ADMINISTRATIVO JUNTO À SECRETARIA DO JUÍZO. AUSÊNCIA DE REQUERIMENTO ESPECÍFICO PELA PARTE CREDORA NOS AUTOS DO PROCESSO. DETERMINAÇÃO DE OFÍCIO PELO JUIZ. IMPOSSIBILIDADE. ART. 655-A DO CPC. PRECEDENTES.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC/73.
+2. O ofício administrativo endereçado à secretaria do juízo, no qual se pleiteia, de forma geral e abstrata, a realização de penhora de ativos financeiros em relação às execuções fiscais em tramitação, não supre a necessidade da prática do respectivo ato processual, a cargo da parte (exequente). Ressalte-se que o ofício constitui instrumento de comunicação formal entre autoridades públicas, de modo que não é possível equipará-lo a um ato processual stricto sensu, cuja natureza jurídica visa criar, modificar ou extinguir situações processuais em uma relação jurídica.
+3. A constrição de ativos financeiros da executada pelo sistema bacenjud exige o requerimento expresso da exequente, não podendo ser determinada ex officio pelo magistrado, conforme disposto no artigo 655-A do CPC/73 (ora revogado).
+Nesse sentido: REsp 1684371/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/09/2017, DJe 09/10/2017; AgRg no REsp 1218988/RJ, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, julgado em 24/05/2011, DJe 30/05/2011.
+4. Recurso especial não provido.
+(REsp n. 1.546.906/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/3/2018, DJe de 21/3/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA ON LINE. BACENJUD. AUSÊNCIA DE REQUERIMENTO DA EXEQUENTE. DETERMINAÇÃO DE OFÍCIO PELO JUIZ. IMPOSSIBILIDADE. ART. 655-A DO CPC/1973.
+1. Cinge-se a controvérsia a saber se o juiz pode determinar, de ofício, a penhora via Bacenjud.
+2. A jurisprudência do STJ é pacífica no sentido de que a constrição de ativos financeiros da parte executada, por meio do Sistema Bacenjud, na vigência do CPC/1973, depende de requerimento expresso da exequente, não podendo ser determinada ex officio pelo magistrado.
+3. Merece reforma, portanto, o entendimento firmado pelo Tribunal de origem, por destoar do STJ.
+4. Recurso Especial provido.
+(REsp n. 1.684.371/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/9/2017, DJe de 9/10/2017).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ON-LINE. BACEN JUD. UTILIZAÇÃO. NECESSIDADE DE REQUERIMENTO EXPRESSO PELA EXEQUENTE. AGRAVO REGIMENTAL IMPROVIDO. AGRAVO CONTRA O SOBRESTAMENTO DO FEITO PREJUDICADO.
+1. A constrição de ativos financeiros da executada por meio do Sistema Bacen Jud depende de requerimento expresso da exequente, não podendo ser determinada ex officio pelo magistrado. Inteligência do artigo 655-A do Código de Processo Civil.
+2. Agravo regimental improvido. Prejudicado o agravo regimental contra o sobrestamento do feito.
+(AgRg no REsp n. 1.180.813/SC, relator Ministro Hamilton Carvalhido, Primeira Turma, julgado em 16/9/2010, DJe de 9/11/2010).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, CONHEÇO E DOU PROVIMENTO ao Recurso Especial, para determinar que seja mantida a penhora nos autos da execução fiscal.
+Publique-se e intimem-se.
+EMENTA
