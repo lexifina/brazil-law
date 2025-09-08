@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. RECUPERAÇÃO. CRÉDITO CONCURSAL. OPÇÃO DO CREDOR EM NÃO ADERIR AO PLANO DE RECUPERAÇÃO. CABIMENTO. SUSPENSÃO DA EXECUÇÃO. PROSSEGUIMENTO APÓS ENCERRAMENTO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. Não obstante o entendimento de que, " s egundo a jurisprudência do STJ, a aprovação do plano de recuperação, e a posterior homologação pelo juízo competente, resulta na extinção das execuções individuais até então propostas contra a empresa recuperanda. Precedentes" (AREsp n. 2.804.566/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 16/5/2025), também é assente o entendimento de que a opção exercida pelo credor de não habilitar seu crédito no plano recuperacional lhe garante a manutenção do exercício da execução individual, admitida a suspensão do feito até o encerramento da recuperação.
+2. "Descabimento da extinção da execução, tendo em vista a possibilidade de prosseguimento desta após o encerrada a recuperação judicial, conforme decidido no supracitado CC 114.952/SP" (REsp n. 1.571.107/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/2/2017).
+Agravo interno provido. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por INSTITUTO DE DEFESA DO CONSUMIDOR DO DISTRITO FEDERAL (PROCON-DF) contra decisão monocrática de minha relatoria que conheceu do agravo para dar provimento ao recurso especial da parte agravada (CAENGE S.A. - Construção Administração e Engenharia - em Recuperação Judicial), nos termos da seguinte ementa (fls. 355-362):
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL. NOVAÇÃO. EXTINÇÃO DA EXECUÇÃO INDIVIDUAL. ACÓRDÃO RECORRIDOEM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fls. 102-103):
+AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. APROVAÇÃO E HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL DA DEVEDORA. NÃO HABILITAÇÃO DO CRÉDITO NO JUÍZO UNIVERSAL. FACULDADE DO CREDOR. NOVAÇÃO DA DÍVIDA. IMPOSSIBILIDADE DE PROSSEGUIR NA EXECUÇÃO INDIVIDUAL. SUSPENSÃO DO FEITO EXECUTIVO. RETOMADA APÓS O ENCERRAMENTO DO PROCESSO DE RECUPERAÇÃO JUDICIAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. DESCABIMENTO. RECURSO CONHECIDO E DESPROVIDO.
+1. Trata-se de agravo de instrumento interposto pela devedora/executada contra decisão que, nos autos da ação de cumprimento de sentença (processo n. 0713952-86.2017.8.07.0018), deferiu o pedido de suspensão da execução feito pelo credor/exequente, pelo prazo de 2 (dois) anos ou até o encerramento da Recuperação Judicial da pessoa jurídica executada, na forma dos arts. 59 e 61 da Lei n. 11.101/05.
+2. Na espécie, o feito executivo para cobrança de honorários advocatícios sucumbenciais devidos pela ré ao autor foi ajuizado em 2017, ao passo em que o deferimento do processamento da recuperação judicial só ocorreu em 25/6/2019, sob o processo de n. 0712583-93.2019.8.07.0015, que tramita perante o Juízo da Vara de Falência, Recuperações Judiciais, Insolvência Civil e Litígios Empresariais do Distrito Federal.
+3. O entendimento consolidado do c. STJ é no sentido de que, "nas hipóteses em que o crédito se submete aos efeitos da recuperação judicial, o credor não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito". (AgInt no REsp 1926546/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021). Em qualquer circunstância, terá o ônus de se sujeitar aos efeitos da recuperação judicial, de modo que "o seu crédito acabará sofrendo os efeitos do plano de recuperação aprovado, em virtude da novação ope legis (art. 59 da LREF)". (..) (STJ, EDcl no REsp n. 1.851.692/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/5/2022, DJe de 9/9/2022.)
+4. Se o credor optou por buscar a satisfação do seu direito creditório pelas vias ordinárias, por meio de cumprimento de sentença, não habilitando seu crédito no plano de recuperação judicial da devedora, nem mesmo de forma retardatária, conclui-se que ficará obrigado a aguardar o encerramento da recuperação judicial e assumir as consequências jurídicas (processuais e materiais) de sua escolha para só então dar prosseguimento ao feito.
+5. Revela-se suficientemente adequada a suspensão do feito executivo individual (ajuizado antes do processamento da recuperação judicial), pelo prazo de 2 (dois) anos, ou até o encerramento do processo recuperacional, na forma do que determinou a decisão agravada, não havendo que se falar em extinção do feito sem resolução do mérito, com fundamento no art. 485 do CPC. Precedentes deste e. TJDFT.
+6. Recurso conhecido e desprovido.
+Rejeitados os embargos de declaração opostos (fls. 142-156).
+A agravante alega, nas razões do recurso interno, que a hipótese dos autos não se enquadra na hipótese jurídica que conduz à extinção da execução de crédito submetido à recuperação, visto que não teria habilitado seu crédito no plano de recuperação, de modo que é devida tão somente a suspensão do feito executivo.
+Pugna, por fim, pelo provimento do recurso.
+A agravada apresentou contraminuta (fls. 378-384).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. RECUPERAÇÃO. CRÉDITO CONCURSAL. OPÇÃO DO CREDOR EM NÃO ADERIR AO PLANO DE RECUPERAÇÃO. CABIMENTO. SUSPENSÃO DA EXECUÇÃO. PROSSEGUIMENTO APÓS ENCERRAMENTO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. Não obstante o entendimento de que, " s egundo a jurisprudência do STJ, a aprovação do plano de recuperação, e a posterior homologação pelo juízo competente, resulta na extinção das execuções individuais até então propostas contra a empresa recuperanda. Precedentes" (AREsp n. 2.804.566/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 16/5/2025), também é assente o entendimento de que a opção exercida pelo credor de não habilitar seu crédito no plano recuperacional lhe garante a manutenção do exercício da execução individual, admitida a suspensão do feito até o encerramento da recuperação.
+2. "Descabimento da extinção da execução, tendo em vista a possibilidade de prosseguimento desta após o encerrada a recuperação judicial, conforme decidido no supracitado CC 114.952/SP" (REsp n. 1.571.107/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/2/2017).
+Agravo interno provido. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Com razão a agravante.
+Não obstante o reiterado entendimento de que, " s egundo a jurisprudência do STJ, a aprovação do plano de recuperação, e a posterior homologação pelo juízo competente, resulta na extinção das execuções individuais até então propostas contra a empresa recuperanda. Precedentes" (AREsp n. 2.804.566/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 16/5/2025), também é assente o entendimento de que a opção exercida pelo credor de não habilitar seu crédito no plano recuperacional lhe garante a manutenção do exercício da execução individual, admitida a suspensão do feito até o encerramento da recuperação.
+Nesse sentido, cito :
+3. A habilitação retardatária de crédito é providência que incumbe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei. Precedentes.
+(AgInt no AREsp n. 2.172.136/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 16/8/2023.)
+2. Segundo entendimento jurisprudencial desta Corte Superior, nas hipóteses em que o crédito se submete aos efeitos da recuperação judicial, o titular não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual de seu crédito.
+(AgInt nos EDcl no REsp n. 2.038.417/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/6/2023.)
+2. Relativamente à habilitação do crédito, tal providência cabe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei.
+(AgInt nos EDcl no AREsp n. 2.180.364/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/5/2023.)
+2. A habilitação do crédito na recuperação judicial é providência que cabe à parte credora, mas a esta não se impõe. Caso decida aguardar o término da recuperação para prosseguir na execução (cumprimento de sentença) individual de seu crédito, é direito que lhe assegura a lei. Precedentes.
+(AgInt nos EDcl no REsp n. 1.878.883/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 24/3/2022.)
+1. Cabe ao credor não incluído no quadro geral optar pelo manejo da habilitação retardatária ou por aguardar o término da recuperação judicial para prosseguir com a execução individual. Precedentes.
+(AgInt no REsp n. 1.805.349/MT, relator Ministro Raul Araújo, Quarta Turma, DJe de 17/12/2021.)
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO NÃO INCLUÍDO NO QUADRO GERAL DE CREDORES. HABILITAÇÃO RETARDATÁRIA. FACULDADE DO CREDOR PRETERIDO. EXTINÇÃO DA EXECUÇÃO INDIVIDUAL. DESCABIMENTO. JULGADO DESTA CORTE SUPERIOR.
+1. Controvérsia acerca do prosseguimento da execução individual de um crédito existente ao tempo do ajuizamento do pedido de recuperação judicial, mas não incluído no quadro geral de credores (QGC).
+2. Obrigação do devedor de relacionar todos os créditos existentes na data do pedido de recuperação ("ex vi" do art. 51, inciso III, da Lei 11.101/2005).
+3. Hipótese em que o crédito não teria sido incluído no QGC, tampouco no plano de recuperação judicial.
+4. "A habilitação é providência que cabe ao credor, mas a este não se impõe. Caso decida aguardar o término da recuperação para prosseguir na busca individual de seu crédito, é direito que lhe assegura a lei."
+(CC 114.952/SP, DJe 26/09/2011).
+5. Caso concreto em que o credor preterido não promoveu habilitação retardatária tampouco retificação do QGC, tendo optado por prosseguir com a execução individual.
+6. Descabimento da extinção da execução, tendo em vista a possibilidade de prosseguimento desta após o encerrada a recuperação judicial, conforme decidido no supracitado CC 114.952/SP.
+7. Manutenção da decisão do juízo de origem, embora por outros fundamentos, prorrogando-se o prazo de suspensão e indeferindo-se o requerimento de extinção da execução.
+8. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.571.107/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/2/2017.)
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeito a decisão de fls. 355-362 e, consequentemente, conhecer do agravo de CAENGE S.A. -CONSTRUÇÃO, ADMINISTRAÇÃO E ENGENHARIA (EM RECUPERAÇÃO JUDICIAL) e negar provimento ao seu recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+É como penso. É como voto.
