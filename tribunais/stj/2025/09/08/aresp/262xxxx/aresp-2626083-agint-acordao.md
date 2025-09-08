@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE OBJETIVA PELO FATO DO SERVIÇO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação dos artigos 489 e 1.022 do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto em face da decisão de fls. 515/518, que negou provimento ao agravo em recurso especial em razão dos seguintes fundamentos: i) ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil; e ii) aplicação da Súmula 7 do Superior Tribunal de Justiça.
+Em suas razões (fls. 522/530), a parte agravante reitera que houve clara violação dos arts. 489 e 1.022 do CPC, por parte do acórdão recorrido.
+Defende, ainda, que o conhecimento do recurso especial não exige reexame de matéria fático-probatória.
+Não houve a apresentação de impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE OBJETIVA PELO FATO DO SERVIÇO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação dos artigos 489 e 1.022 do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+No que se refere à alegada afronta aos arts. 489 e 1.022 do CPC, a recorrente entende que o acórdão foi omisso quanto ao artigo 373 do CPC, uma vez que foi imposto ônus processual ao embargante mesmo sabendo da impossibilidade de sua incumbência.
+Nesse sentido, vale reiterar que a Corte local, ao analisar a controvérsia, negou provimento à apelação e manteve a procedência parcial da demanda indenizatória movida pela consumidora. Confira-se (fls. 386/389):
+Embora o apelante sustente que a apelada não produziu prova mínima dos fatos alegados, deve ser observado que juntou aos autos certidão de atendimento e boletim de emergência do Hospital Estadual Getúlio Vargas (fls.24/25); receitas com prescrições de medicamentos e tratamentos alternativos (fls.26/28 e 31, 33 e 34); comprovantes de notas fiscais (fls. 29/30 32 e 35), o que ratificou a dinâmica dos fatos narrado pela autora.
+O laudo técnico às fls. 251/260 demonstra o nexo de causalidade entre a lesão e o evento danoso. Aponta, ainda, que "há compatibilidade entre o acidente e as lesões," e em resposta aos quesitos (fl. 258) ratifica que há "contusão no joelho direito, punho direito e mão direita, sem fraturas." Os fatos apresentam-se comprovados, demonstrado o nexo de causalidade entre o evento danoso e a conduta omissiva na prestação de socorro.
+Inquestionável o dever de reparação, sendo certo que a parte ré não demonstrou fatos impeditivos, modificativos ou extintivos do direito da parte autora, não se sustentando, assim, a sua tese de que a lesão poderia ter outra origem.
+Trata-se de relação de consumo, sujeita às regras do Código de Defesa do Consumidor, já que a ré se encontra na condição de fornecedora e a autora na de consumidora, por ser a destinatária final do serviço contratado e ter sofrido as consequências da atuação da ré, na forma prevista nos artigos 2º e 3º do CDC.
+O código de defesa do consumidor traz como princípios da Política Nacional das Relações de Consumo a vulnerabilidade e a proteção do consumidor pela garantia dos produtos e serviços com padrões adequados de qualidade, segurança, durabilidade e desempenho (art. 4º, incisos I e II, "d").
+Nesse sentido, o art. 6º traz como direito básico do consumidor a efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos, bem como o direito à informação adequada e clara sobre os serviços prestados, suas características, qualidades, tributos incidentes e sobre o preço de fornecimento e a adequada e eficaz prestação dos serviços públicos em geral.
+Ademais, o referido diploma traz como regra a responsabilidade objetiva do fornecedor pelos danos causados ao consumidor. Para a configuração de tal responsabilidade, entretanto, imprescindível que a autora demonstre a conduta do fornecedor, consistente na falha na prestação do serviço; os danos sofridos; e o nexo de causalidade entre eles De acordo com o art. 12, § 1º, do CDC, o produto é defeituoso quando não oferece a segurança que dele legitimamente se espera, levando se em consideração as circunstâncias relevantes, entre as quais:
+(..) Na hipótese dos autos, o acidente de consumo ficou comprovado por meio da declaração, laudos e receituários médico, bem como pelas fotos anexadas à inicial, que demonstram a lesão e os primeiros socorros prestados nas dependências do Hospital Estadual Getúlio Vargas. Portanto, não prosperam as alegações do apelante, no sentido de que a autora não teria comprovado os fatos constitutivos de seu direito.
+Caberia ao fornecedor comprovar alguma excludente de sua responsabilidade e a quebra do nexo causal, na forma do § 3º do art. 12 do CDC:
+(..) Ademais, tratando-se de responsabilidade pelo fato do serviço, cabe à ré, ora apelante, o ônus de comprovar que o defeito no serviço inexiste ou de alguma excludente do nexo causal, desdobramento lógico do próprio risco da atividade por ela desenvolvida no mercado de consumo. Ou seja, a inversão do ônus probatório nesses casos, como é cediço, se dá ope legis.
+Contudo, a ré apelante não logrou comprovar a inexistência do defeito no serviço ou a ocorrência de uma das excludentes do nexo de causalidade. Caso pretendesse, de fato, comprovar a ausência de responsabilidade pelo evento, bastaria ter juntado as imagens das câmeras de segurança do estabelecimento e com isso infirmar a alegação da autora no sentido do piso se encontrar molhado, o que teria ocasionado a queda.
+Porém, não se desincumbindo de tal ônus, resta afirmada a falha na prestação do serviço, gerando a obrigação de indenizar.
+Sendo assim, presentes a conduta, o dano e o nexo de causalidade, deve ser imposta a responsabilização da ré, nos termos dos arts. 186 e 927, parágrafo único, do CC, bem como o art. 12 do CDC. Isso porque, ao passo em que a autora comprovou os fatos constitutivos de seu direito, a ré não se desincumbiu do ônus que lhe era imposto, de comprovar fatos impeditivos, modificativos, ou extintivos do direito da autora, na forma do art. 373, II, do CPC.
+No presente caso, a consumidora passou por transtornos que extrapolaram os limites do dissabor cotidiano, ficando demonstrados o desgaste e a angústia vivenciados.
+Opostos embargos de declaração, não foram conhecidos sob o fundamento de que não houve a alegação de erro material, obscuridade, contradição ou omissão no acórdão.
+No caso, não há que se falar em omissão no acórdão e tampouco negativa da prestação jurisdicional qua ndo as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, mas contrária aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem o pretendido reconhecimento de violação dos arts. 489 e 1.022 do CPC.
+No mais, verifica-se que, de fato, a alteração das conclusões quanto à distribuição do ônus probatório e às conclusões do laudo pericial, segundo as razões do recurso, demandaria inserção no âmbito fático-probatório dos autos, providência vedada pelo óbice da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
