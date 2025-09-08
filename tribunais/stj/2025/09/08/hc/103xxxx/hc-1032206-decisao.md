@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Kamila Cristielle da Silva Rodrigues, em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul, que denegou o Habeas Corpus n. 5057907-61.2025.8.21.7000/RS, mantendo a prisão domiciliar imposta pelo 1º Juízo da 2ª Vara Estadual de Processo e Julgamento dos Crimes de Organização Criminosa e Lavagem de Dinheiro/RS, pela suposta prática do crime de associação para o tráfico de drogas.
+Neste writ, a defesa sustenta que a negativa de autorização para visitas ao companheiro da paciente, Wagner Silva da Silva, atualmente custodiado na Penitenciária Modulada Estadual de Montenegro/RS, é desproporcional e carece de fundamentação idônea. Alega que a decisão viola o direito à convivência familiar, garantido pela Constituição Federal, e o direito de visita previsto no art. 41, X, da Lei de Execução Penal.
+Requer, assim, a concessão liminar da ordem para autorizar visitas presenciais ou, subsidiariamente, visitas virtuais ou flexibilização da prisão domiciliar para permitir deslocamento em dias e horários específicos (fl. 11).
+É o relatório.
+Infere-se dos autos que a paciente encontra-se em prisão domiciliar, sem monitoramento eletrônico, pela suposta prática de associação para o tráfico de drogas, sendo acusada de atuar como principal auxiliar de seu companheiro, Wagner Silva da Silva, que ocupa posição de liderança no grupo criminoso. A decisão de indeferimento do pedido de visitação foi fundamentada no risco de continuidade delitiva, conforme consta na denúncia e nas decisões das instâncias ordinárias (fls. 159/160 e 12/13).
+A Corte estadual, ao denegar a ordem de habeas corpus, reforçou que a paciente é corré no mesmo processo que seu companheiro e que eventual contato entre ambos representaria risco de ininterrupção delitiva. Destacou, ainda, que Wagner Silva da Silva exerce posição de liderança no grupo criminoso, sendo apontado como gerente geral da organização (fls. 12/13).
+No caso em análise, a manutenção da prisão domiciliar e a negativa de visitas foram fundamentadas em elementos concretos, como a gravidade dos delitos e o risco de continuidade delitiva, estando em consonância com a jurisprudência desta Corte.
+A corroborar: AgRg no AREsp n. 2.223.459/DF, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/06/2023, DJe 23/6/2023.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. OPERAÇÃO TONELADA. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PACIENTE EM PRISÃO DOMICILIAR SEM MONITORAMENTO ELETRÔNICO. INDEFERIMENTO DE PEDIDO DE VISITAÇÃO AO COMPANHEIRO, CORRÉU E LÍDER DO GRUPO CRIMINOSO. FUNDAMENTAÇÃO CONCRETA. RISCO DE CONTINUIDADE DELITIVA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Inicial indeferida liminarmente.
