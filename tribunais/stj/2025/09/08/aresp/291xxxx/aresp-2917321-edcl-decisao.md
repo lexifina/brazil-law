@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EFFTING ADVOGADOS ASSOCIADOS S/C e FRANCISCO RANGEL EFFTING contra a decisão de fls. 1.213-1.218, que negou provimento ao agravo em recurso especial, com fundamento na incidência das Súmulas n. 5 e 7 do STJ, na ausência de demonstração de violação dos arts. 85, §§ 2º, 8º e 8º-A, do Código de Processo Civil e art. 22, § 2º, da Lei n. 8.906/1994, e na ausência de similitude fática entre o acórdão recorrido e o acórdão paradigma, majorando os honorários advocatícios em 10% sobre o valor já arbitrado nas instâncias de origem.
+Em suas razões, os embargantes:
+a) alegam omissão na decisão ao não observar a razão de não incidência da Súmula. n. 5 do STJ, pois não se busca rediscutir cláusula contratual, sendo as premissas necessárias para análise do recurso eminentemente de direito (fls. 1.227-1.228);
+b) aduzem omissão quanto à não aplicação da Súmula n. 7 do STJ, argumentando que os critérios previstos no art. 85, § 2º, do Código de Processo Civil podem ser inferidos das disposições do acórdão recorrido, sem necessidade de revolvimento fático-probatório (fl. 1.228);
+c) afirmam que houve omissão na análise de precedentes colacionados que permitem a revisão da verba honorária quando o valor se demonstrar irrisório ou exorbitante, como nos casos do AgInt no REsp n. 1.710.180/RS, AgInt no REsp n. 1.572.347/RR e AgInt no REsp n. 1.452.790/RJ (fl. 1.228);
+d) sustentam omissão quanto à demonstração do cotejo analítico entre os acórdãos confrontados, indicando similitude fática entre o caso concreto e o paradigma, especialmente no que tange ao arbitramento dos honorários contratuais em atenção aos anos de serviços prestados e ao custo da atividade profissional (fls. 1.228-1.229).
+Requerem o acolhimento dos embargos de declaração com efeitos modificativos, para suprir as omissões apontadas e dar provimento ao agravo em recurso especial, com o seguimento do recurso especial.
+A parte embargada, BANCO BRADESCO S.A., apresentou impugnação às fls. 1.233-1.236, alegando que os embargos de declaração não merecem prosperar, pois a decisão embargada está devidamente fundamentada, inexistindo omissão, obscuridade ou contradição.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso, não está configurada nenhuma das hipóteses autorizadoras dos aclaratórios.
+O Tribunal de origem, com análise da complexidade do trabalho desenvolvido e do valor econômico da questão, fixou os honorários em R$ 2.500,00, considerando a baixa complexidade da causa e os serviços efetivamente prestados.
+Observa-se que, como devidamente esclarecido na decisão embargada, o Tribunal a quo concluiu que a tabela da OAB possui caráter meramente orientador, sem efeito vinculativo, e que a fixação dos honorários deve ser realizada com base nas provas constantes no caderno processual acerca da efetiva prestação de serviços.
+Nesse contexto, foi devidamente demonstrado, na decisão ora embargada, que o acolhimento das teses defendidas no recurso especial implicaria, necessariamente, na interpretação de cláusulas contratuais e no reexame de elementos fático-probatórios.
+A irresignação, portanto, caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; e AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
