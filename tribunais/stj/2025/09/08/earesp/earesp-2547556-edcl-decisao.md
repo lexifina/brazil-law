@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CARLOS HENRIQUE DE OLIVEIRA em face da decisão que indeferiu liminarmente os Embargos de Divergência em razão da nã o comprovação da divergência.
+Em suas razões sustenta, em síntese, que a decisão incorreu em omissão e contradição, uma vez que indicou a fonte do qual foi extraído o acórdão paradigma, ou seja, o sítio eletrônico do STJ (www.stj.jus.br). Além disso, alega que providenciou juntada de certidão e cópia integral da ementa do acórdão paradigma.
+Argumenta que " ..  a decisão dessa Presidência foi omissa em não observar os anexos 5 e 6 e demais anexos da petição inicial que surgiram da reprodução de julgados disponíveis na rede mundial de computadores, além da indicação da respectiva fonte (STJ) no corpo da peça" (fls. 859).
+Requer, desse modo, o acolhimento dos presentes Embargos de Declaração a fim de que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+Decido.
+Os Embargos Declaratórios não reúnem condições de serem processados.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Segundo a jurisprudência do Superior Tribunal de Justiça, os Embargos de Divergência possuem, como requisito de admissibilidade, a existência de dissenso interpretativo entre os órgãos jurisdicionais desta Corte Superior na análise de mérito do recurso especial.
+Ressalte-se que a admissão dos Embargos exige a efetiva comprovação do dissídio, nos moldes do disposto no art. 1.043, §4º do Código de Processo Civil de 2015 e do art. 266, §4º, do Regimento Interno do Superior Tribunal de Justiça, o que definitivamente não ocorreu nos presentes autos.
+Conforme exposto na decisão embargada, a parte não apresentou certidões, a íntegra dos acórdãos paradigmas ou citou repositório oficial, autorizado ou credenciado do qual foram extraídos, uma vez que limitou-se a transcrever as ementas dos julgados paradigmas e a indicar, como fonte, o link para o site do STJ (www.stj.jus.br).
+Ressalte-se que a informação de que o paradigma indicado tinha sido publicado no site do STJ sob o link www.stj.jus.br não é suficiente para os fins do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça. Ademais, tal hipótese não atrai a incidência do parágrafo único do art. 932 do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. AUSÊNCIA DA JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. INDICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO E DO SITE DO STJ. INSUFICIÊNCIA. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC. JURISPRUDÊNCIA CONSOLIDADA. REQUISITOS LEGAIS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. MATÉRIA DE ORDEM PÚBLICA. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido de que: (a) a certidão de julgamento compõe o inteiro teor do acórdão, não se admitindo, para comprovação da divergência, julgado dela desacompanhado; (b) a referência ao site do Tribunal (www.stj.jus.br) não é suficiente para substituir a juntada do inteiro teor do acórdão paradigma, sendo necessária a indicação de link específico que leve diretamente ao inteiro teor do julgado; (c) a menção ao Diário da Justiça em que publicado o aresto divergente não atende às exigências formais para comprovação do dissídio jurisprudencial, ante a ausência de inteiro teor do acórdão naquela fonte; e (d) a inobservância desses requisitos constitui vício substancial, o que afasta a aplicação do parágrafo único do art. 932 do CPC.
+2. "Não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência, descabe a apreciação das questões suscitadas no recurso, ainda que se trate de matéria de ordem pública" (AgInt nos EDcl nos EAREsp n. 503.161/PR, Primeira Seção).
+3. Agravo interno desprovido.
+(AgInt nos EDcl nos EREsp 1957736/RS, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 19.11.2024)
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
