@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEILÃO EXTRAJUDICIAL. AUSÊNCIA DE INTIMAÇÃO PESSOAL. FINALIDADE DA INTIMAÇÃO PREENCHIDA. EDITAL. PREÇO VIL. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A intimação pessoal do devedor acerca da data do leilão não era exigida antes da Lei 13.465/2017. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANDRÉA APARECIDA GIMENES contra decisão singular de minha lavra na qual neguei provimento ao agravo em recurso especial pelos seguintes fundamentos: a) não há que se falar em nulidade por falta de intimação da data da realização do leilão do imóvel dado em garantia de alienação fiduciária porque o procedimento de execução extrajudicial é anterior à data de entrada em vigor da Lei Federal nº 13.645/2017, e b) não ocorreu arrematação por preço vil (fls. 463-465).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada violou o art. 39, II, da Lei 9.514/97, o art. 36, parágrafo único, do Decreto-Lei 70/66, e o art. 891, parágrafo único, do Código de Processo Civil.
+Quanto à suposta ofensa ao art. 39, II, da Lei 9.514/97, sustenta que a intimação pessoal do devedor fiduciante da data do leilão é obrigatória, conforme jurisprudência do STJ, sob pena de nulidade.
+Argumenta, também, que a venda do imóvel por preço vil contraria o art. 891, parágrafo único, do Código de Processo Civil, que considera preço vil a arrematação inferior a 50% do valor de avaliação.
+Haveria, por fim, violação ao art. 27, §§ 1º e 2º, da Lei 9.514/97, uma vez que o Tribunal de origem não considerou a correta avaliação do imóvel conforme o mercado imobiliário.
+Contraminuta ao agravo às fls. 484-489 na qual a parte agravada alega que todos os procedimentos legais foram observados e que a publicação de editais cumpriu a função de dar publicidade ao ato. Sustenta que a intimação pessoal não é exigida pela Lei nº 9.514/97 e que a arrematação seguiu os procedimentos legais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. LEILÃO EXTRAJUDICIAL. AUSÊNCIA DE INTIMAÇÃO PESSOAL. FINALIDADE DA INTIMAÇÃO PREENCHIDA. EDITAL. PREÇO VIL. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A intimação pessoal do devedor acerca da data do leilão não era exigida antes da Lei 13.465/2017. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de ação anulatória de leilão extrajudicial ajuizada por Andréa Aparecida Gimenes contra o Banco Original S/A, com pedido de tutela antecipada, alegando vícios no procedimento de leilão, como ausência de intimação pessoal e arrematação a preço vil do imóvel adquirido em 28/5/2008.
+A sentença julgou procedente o pedido, declarando nulo o leilão.
+O Tribunal de origem deu provimento ao recurso de apelação do Banco Original S.A., reformando a sentença e afastando a nulidade do leilão consignado e a existência de arrematação por preço vil.
+No que se refere à necessidade de intimação pessoal, o Tribunal de origem destacou que: (i) não é necessária a prévia intimação pessoal do devedor acerca das datas dos leilões, mormente quando tomou conhecimento de sua realização por outros meios; e (ii) conforme expressamente declinado na petição inicial, a agravante foi regularmente constituída em mora, indicando que lhe foi oportunizado quitar o débito e que, caso tivesse interesse, poderia obter informações sobre as datas designadas para o leilão. Confira-se:
+E é certo que a jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que nas execuções extrajudiciais promovidas com base no Decreto-Lei 70/66 e na Lei 9.514/97, é indispensável a intimação pessoal do devedor tanto para ser constituído em mora quanto para que seja cientificado da data em que se realizará o leilão extrajudicial.
+Todavia, esta Câmara possui o entendimento de que não é necessária a prévia intimação pessoal do devedor acerca das datas dos leilões, mormente quando tomou conhecimento de sua realização por outros meios.
+ ..
+Ressalta-se, ademais, que à época dos fatos descritos na petição inicial ainda não estava em vigor a Lei 13.465/2017, que alterou a Lei 9.514/1997 para incluir o §2º-A ao seu artigo 27, que passou a prever expressamente a necessidade de comunicação ao devedor acerca das datas, horários e locais dos leilões. Assim, como não havia referida exigência legal ao tempo em que se operou a consolidação da propriedade do imóvel em favor do apelante e naquele que antecedeu a realização do leilão, não se verifica qualquer irregularidade no procedimento.
+Com efeito, conforme expressamente declinado na petição inicial (fls. 03), a apelada foi regularmente constituída em mora, indicando que lhe foi oportunizado quitar o débito e que, caso tivesse interesse, poderia obter informações sobre as datas designadas para o leilão.
+Observa-se, ainda, que foram publicados editais contendo a divulgação do leilão em jornal de grande circulação (fls. 246/251).
+Tais circunstâncias são suficientes para afastar a caracterização nulidade no procedimento de execução extrajudicial, uma vez que a finalidade da notificação acerca das datas dos leilões é justamente a de permitir a purgação da mora (artigo 26, §5º, da Lei 9.514/97) e não há qualquer elemento indicativo de que a apelada realmente solveria o débito naquela oportunidade. Ao contrário, como se extrai da petição inicial, a apelada enfrentava dificuldades financeiras e não dispunha de condições financeiras para purgar a mora e impedir a arrematação do imóvel por terceiros  ..  (fls. 378-381 - sem destaque no original).
+Como constou na decisão agravada, a jurisprudência do STJ, à época dos fatos, não exigia a intimação pessoal do devedor fiduciante da data do leilão.
+Nesse sentido, confiram-se os seguintes precedentes:
+DIREITO CIVIL. RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. NOTIFICAÇÃO EXTRAJUDICIAL. LEILÃO EXTRAJUDICIAL. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná que manteve a improcedência de ação de nulidade de ato jurídico, na qual a autora pleiteava a nulidade de procedimento extrajudicial decorrente de contrato de compra e venda de bem imóvel com pacto adjeto de alienação fiduciária.
+2. A recorrente alega ofensa ao art. 26, § 1º, da Lei n. 9.514/1997, por ausência de nova notificação extrajudicial durante tratativas com o recorrido, e ao art. 27, caput e § 1º, da mesma lei, por não cumprimento dos prazos para realização dos leilões. Sustenta, ainda, que se configurou arrematação por preço vil.
+3. O Tribunal de origem afirmou que o procedimento previsto no art. 26 da Lei n. 9.514/1997 foi devidamente observado e que a recorrente permaneceu inadimplente, mesmo após a consolidação da propriedade em nome do credor fiduciário.
+II. Questão em discussão
+4. As questões em discussão são as seguintes: se houve violação dos procedimentos legais previstos na Lei n. 9.514/1997, especialmente quanto à necessidade de nova notificação extrajudicial após tratativas de acordo, cumprimento dos prazos para realização dos leilões, necessidade de intimação pessoal do devedor acerca da data do leilão extrajudicial.
+5. Outra questão em discussão é se restou configurada arrematação por preço vil.
+III. Razões de decidir
+6. O Tribunal de origem afirmou que o procedimento de notificação extrajudicial foi cumprido e a revisão desta conclusão demanda revolvimento fático, esbarrando no óbice da Súmula n. 7 do STJ. Além disso, a recorrente não apresentou fundamentos suficientes para infirmar tal conclusão.
+7. Quanto aos prazos para realização dos leilões, o acórdão recorrido considerou que não houve prejuízo à recorrente pela realização do primeiro leilão após o prazo de 30 dias, aplicando-se o entendimento do STJ de que a purga da mora é possível até a lavratura do auto de arrematação. Como a recorrente reconhece a ausência de prejuízo e não apresenta outro fundamento suficiente para afastar a conclusão do tribunal, o recurso não logra êxito. Quanto ao segundo leilão, deve ser realizado "nos quinze dias seguintes" e não após quinze dias (§ 1º do art. 27 da Lei n. 9.514/1997).
+8. A necessidade de intimação pessoal do devedor acerca da data do leilão não era exigida antes da Lei n.13.465/2017, conforme precedentes do STJ, não havendo nulidade no caso concreto.
+9. Não se conhece do recurso especial no tocante à alegação de que se configurou arrematação por preço vil, quando as razões recursais não indicam qual dispositivo legal teria sido violado. Incidência da Súmula n. 284 do STF, por analogia.
+IV. Dispositivo e tese
+10. Recurso parcialmente conhecido e desprovido.
+Tese de julgamento: "1. O recurso especial não ultrapassa a barreira do conhecimento quando a tese recursal demanda o revolvimento de matéria fática (Súmula n. 7 do STJ) e quando a parte deixa de impugnar fundamento suficiente para manutenção do julgado (Súmula n. 283 do STF, por analogia). 2. O § 1º do art. 27 da Lei n. 9.514/1997 determina que o segundo leilão deve ser realizado "nos quinze dias seguintes" e não após quinze dias do primeiro leilão.
+3. A intimação pessoal do devedor acerca da data do leilão não era exigida antes da Lei 13.465/2017. 4. A ausência de indicação do dispositivo legal violado caracteriza deficiência de fundamentação do recurso especial e atrai a aplicação, por analogia, da Súmula n. 284 do STF." Dispositivos relevantes citados: Lei n. 9.514/1997, arts. 26, 27 e 39; Decreto-Lei n. 70/1966, art. 36.Jurisprudência relevante citada: STJ, REsp n. 1.733.777/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2023; STJ, AgInt no REsp n. 1.608.049/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/9/2024.
+(REsp n. 1.894.235/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEILÃO EXTRAJUDICIAL. CONTRATO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. NOTIFICAÇÃO ENVIADA PARA O ENDEREÇO DO CONTRATO. REVISÃO. SÚMULA N. 7/STJ.
+1. A questão consiste em saber se houve nulidade no procedimento de leilão extrajudicial por ausência de intimação pessoal da devedora fiduciária, impedindo-a de exercer o direito de preferência.
+Hipótese em que o contrato de financiamento imobiliário foi firmado em 5/4/2011.
+2. O preceito contido no § 2º-A do art. 27 da Lei n. 9.514/1997, com a redação conferida pela Lei n. 13.465/2017, dispõe expressamente que a comunicação ao devedor deve ser realizada "mediante correspondência endereçada aos endereços constantes do contrato, inclusive ao endereço eletrônico", razão pela qual não se exige a intimação pessoal.
+3. No caso dos autos, trata-se de contrato firmado antes de 12/7/2017, quando entrou em vigor a Lei n. 13.465/2017, não sendo necessária a intimação do devedor fiduciante da data da realização do leilão, haja vista que, no momento da realização do ato, o bem já não mais lhe pertencia.
+4. Ademais, o Tribunal de origem, considerando a particularidade do caso concreto, concluiu pela regularidade do procedimento da intimação tanto para purgação da mora quanto para a data da realização do leilão. Desse modo, elidir a conclusão da Corte a quo, com o fim de acolher a pretensão da recorrente de nulidade do procedimento em razão da ausência de intimação dos leilões, demandaria a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante a Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.383.447/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Quanto ao mais, o Tribunal de origem afastou a alegação de arrematação do bem por preço vil, destacando que: "o valor do imóvel definido no contrato celebrado entre o apelante e a apelada foi R$90.000,00 (fls. 50), em junho de 2015 o débito existente perante o apelante era de R$73.671,56 (fls. 236), o lance mínimo para o primeiro leilão era de R$140.187,76 e o bem foi arrematado em segundo leilão por R$87.606,27 (fls. 134/136 e 252)" (fl. 382).
+Como constou na decisão agravada, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à ausência de arrematação por preço vil, demandaria, necessariamente, o reexame de fatos e provas e do contrato firmado entre as partes, inviável em recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
