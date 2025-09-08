@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DISTRATO POR INICIATIVA DA PROMITENTE COMPRADORA. COBRANÇA DA COMISSÃO DE CORRETAGEM. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de distrato de contrato de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com devolução dos valores pagos, alegando a autora não possuir condições financeiras de arcar com o pagamento das prestações.
+2. A questão alusiva à cobrança da comissão de corretagem não foi analisada pelo Tribunal de origem, sob o enfoque dos dispositivos legais indicados violados, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incidência das Súmulas n. 282 e 356 do STF, por analogia.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por GARBIN EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (GARBIN), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria da Desa. MARIA DO CARMO HONÓRIO, assim ementado:
+APELAÇÃO CÍVEL. COMPROMISSO DE COMPRA E VENDA DE LOTE. RESCISÃO DA AVENÇA. CULPA DA ADQUIRENTE. CONTRATO CELEBRADO APÓS A ENTRADA EM VIGOR DA LEI 13.786/2018. COMISSÃO DE CORRETAGEM. RETENÇÃO. INADMISSIBILIDADE. ABUSIVIDADE. CARACTERIZAÇÃO. FALHA DE INFORMAÇÃO. CONSTATAÇÃO. COBRANÇA DO IPTU ANTES DA EFETIVA IMISSÃO NA POSSE DO BEM. INADMISSIBILIDADE. RECURSO PROVIDO.
+1. Impossibilidade de retenção do valor da comissão de corretagem pela vendedora por falta de informação prévia e porque não demonstrado o pagamento de valores a esse título pela compradora.
+2. É indevida a atribuição de responsabilidade ao adquirente de lote pelo pagamento do IPTU vencido antes da efetiva imissão na posse do bem (e-STJ, fl. 183).
+Nas razões do presente recurso, GARBIN alegou a violação dos arts. 26-A, II, e 32-A, I, II e V, da Lei n. 6.766/79, ao sustentar a validade da disposição contratual que estabeleceu o pagamento da comissão de corretagem pela promitente-compradora.
+É o relatório.
+EMENTA
+CIVIL. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DISTRATO POR INICIATIVA DA PROMITENTE COMPRADORA. COBRANÇA DA COMISSÃO DE CORRETAGEM. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de distrato de contrato de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com devolução dos valores pagos, alegando a autora não possuir condições financeiras de arcar com o pagamento das prestações.
+2. A questão alusiva à cobrança da comissão de corretagem não foi analisada pelo Tribunal de origem, sob o enfoque dos dispositivos legais indicados violados, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incidência das Súmulas n. 282 e 356 do STF, por analogia.
+3. Recurso especial não conhecido.
+VOTO
+Trata-se de ação de distrato de contrato de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com devolução dos valores pagos ajuizada por ADENILDA RODRIGUES DA SILVA SANTOS, alegando a autora não possuir condições financeiras de arcar com o pagamento das prestações.
+Da comissão de corretagem
+Em primeira instância, os pedidos foram julgados parcialmente procedentes, para, confirmando a tutela de urgência concedida, declarar rescindido o contrato firmado entre as partes, por culpa da autora, bem como para condenar a ré a devolver a quantia de R$ 5.712,32 (cinco mil, setecentos e doze reais e trinta e dois centavos), em parcela única, importe que corresponde ao percentual de 80% dos valores adimplidos no curso do contrato, deduzindo-se o valor correspondente à comissão de corretagem. Sobre os valores devidos, incidirão juros de mora de 1% ao mês a partir do trânsito em julgado desta sentença, assim como correção monetária desde a data de cada desembolso, calculada pela tabela prática do eg. Tribunal de Justiça de São Paulo. Vencida em maior parte, condeno a ré a arcar com as custas e despesas processuais, bem como com honorários advocatícios que fixo em 10% sobre o valor da condenação, nos termos do art. 85, § 2º, do Código de Processo Civil (e-STJ, fl. 148).
+Irresignada, a autora apelou, e o TJSP deu provimento do recurso, no que interessa ao presente julgamento, a fim de afastar a retenção do valor pago a título de comissão de corretagem, nos termos da fundamentação a seguir:
+Em relação à comissão de corretagem e à validade de atribuição ao promitente comprador pelo seu pagamento, a questão foi dirimida pelo Superior Tribunal de Justiça que, ao julgar o Recurso Especial n. 1.599.511/SP (Tema 938), sedimentou o entendimento de que sua validade depende da prévia informação "do preço total da aquisição da unidade autônoma, como destaque do montante da comissão de corretagem".
+Neste caso, apesar da informação sobre o valor da comissão de corretagem (cláusula 3.1 p. 18), não há informação clara sobre a transferência da responsabilidade do pagamento à autora e se o valor foi destacado ou não do preço total do imóvel, na forma ressalvada pelo Superior Tribunal de Justiça. O recibo apresentado, intempestivamente, à p. 177, por sua vez, demonstra que a ré pagou o valor da corretagem diretamente à imobiliária, de modo que não se pode cogitar da possibilidade da retenção pretendida (e-STJ, fl. 185).
+Verifica-se que a questão alusiva à cobrança da comissão de corretagem não foi analisada pelo Tribunal de origem, sob o enfoque dos dispositivos legais indicados violados, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento.
+Incide, à espécie, o comando das Súmulas n. 282 e 356 do STF, por analogia.
+A título ilustrativo, confira-se o precedente abaixo:
+RECURSO ESPECIAL. DIREITO CIVIL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. RESTITUIÇÃO. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO. PROCESSUAL CIVIL. QUESTÃO FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PESSOA JURÍDICA. GRATUIDADE DE JUSTIÇA. PROVA DA CONDIÇÃO QUE LEGITIMA O BENEFÍCIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Nos termos do Tema 938/STJ, incide a "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem .." (artigo 206, § 3º, IV, do CC).
+2. Não tendo havido pronunciamento no acórdão do Tribunal de Justiça sobre o conteúdo normativo dos dispositivos tidos por violados, ressente-se o especial do necessário prequestionamento. Súmula 211/STJ.
+3. Consoante a Súmula 481/STJ, o direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com as despesas processuais. Firmar conclusão em sentido contrário à adotada pelo acórdão recorrido, no sentido de deferir o benefício, no caso concreto, encontra óbice na Súmula 7/STJ.
+4. Recurso especial parcialmente conhecido e desprovido.
+(REsp n. 2.063.546/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025 - sem destaque no original)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
