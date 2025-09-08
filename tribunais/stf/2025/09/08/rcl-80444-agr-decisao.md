@@ -1,0 +1,71 @@
+AGRAVO INTERNO NA RECLAMAÇÃO. RECONSIDERAÇÃO. CPC, ART. 1.021, §2º. NOVO JULGAMENTO. CONSTITUCIONAL. SOCIEDADE DE ECONOMIA MISTA. PRESTAÇÃO DE SERVIÇO PÚBLICO DE NATUREZA NÃO CONCORRENCIAL. PRETENDIDA APLICAÇÃO DO REGIME DE PRECATÓRIO. IMPOSSIBILIDADE. AJUIZAMENTO DE AÇÕES IDÊNTICAS. COISA JULGADA. PRETENSÃO DO RECLAMANTE JÁ JUDICIALIZADA NA RCL 29.637-AGR. ARTIGOS 337, § 4º E 485, V, DO CPC. RECLAMAÇÃO QUE SE EXTINGUE SEM JULGAMENTO DE MÉRITO.
+
+    Decisão: Trata-se de agravo interno interposto por Alstom Brasil Energia e Transporte Ltda. contra decisão de minha lavra, pela qual julguei procedente a reclamação para determinar a aplicação à reclamante do regime de execução aplicável à Fazenda Pública, em observância ao que decidido por esta Suprema Corte na ADPF 524.
+
+    A agravante alega, em síntese, que a parte reclamante já havia ajuizado a Reclamação 29.637 perante o STF, com o mesmo intuito da presente reclamação, qual seja cassar a decisão proferida no Cumprimento de Sentença nº 0702299-87.2017.8.07.0018.
+
+    Aponta, contudo, que, no âmbito da Reclamação 29.637 esta Suprema Corte assentou que as execuções promovidas contra o Metrô-DF não estariam sujeitas ao regime de precatórios, em acórdão transitado em julgado em 20/08/2021.
+
+    Sustenta a impossibilidade de aplicação do entendimento firmado na ADPF 524, diante da existência de “coisa julgada material formada em reclamação idêntica anteriormente ajuizada” (doc. 1, p. 11).
+
+    Requer, por estas razões, a reconsideração da decisão agravada, para que a reclamação seja inadmitida ou, subsidiariamente, seja julgada improcedente.
+
+    Ante as alegações formuladas e pelas razões que ficarão claras a seguir, reconsidero a decisão recorrida, com fundamento no art. 1.021, §2º, do CPC, julgando prejudicado o agravo e passando a nova análise da reclamação.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido.” (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022 - grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento.” (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022 - grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento.” (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022 - grifei).
+
+    Fixadas as premissas, constato, de plano, a ocorrência de fato capaz de obstar o seguimento da presente ação.
+
+    Deveras, a ora reclamante já promovera anteriormente a Rcl 29.637 visando a aplicação do regime de precatórios à Companhia do Metropolitano do Distrito Federal - Metro-DF, nos autos do Processo nº 0702299-87.2017.8.07.0018, objeto da presente reclamação.
+
+    Com efeito, em que pese ter sido vencido em meu posicionamento, a Primeira Turma do Supremo Tribunal Federal, por maioria, julgou improcedente a Reclamação 29.637, ajuizada pela ora reclamante, assentando expressamente que a execução promovida em face do Metrô-DF deveria observar o regime de cumprimento de sentença previsto no art. 475-J, do CPC/1973, e não o de precatórios. É o que se observa da seguinte ementa, in verbis:
+
+    “Direito Constitucional, administrativo e Processual Civil. Agravo Interno em Reclamação. Submissão da Companhia do Metropolitano do Distrito Federal – Metrô DF ao regime de cumprimento de sentença (Art. 475-J, CPC/1973). Ausência de violação ao precedente do RE nº 599.628 – Tema nº 253 da Repercussão Geral.
+
+    1. Agravo interno interposto contra decisão que julgou procedentes os pedidos formulados em reclamação, para cassar ato que, em sede de cumprimento de sentença, determinou a intimação da Companhia do Metropolitano do Distrito Federal – METRÔ DF para pagar ou comprovar o pagamento do valor atualizado da condenação sofrida, nos termos do art. 475-J, do CPC/1973.
+
+    2. No julgamento do RE nº 599.628 – Tema nº 253 da Repercussão Geral, esta Corte firmou o entendimento de que “sociedades de economia mista que desenvolvem atividade econômica em regime concorrencial não se beneficiam do regime de precatórios, previsto no art. 100 da Constituição da República”.
+
+    3. Embora o METRÔ DF preste o serviço de transporte sobre trilhos em caráter de exclusividade, a atividade por ele desenvolvida concorre, no mercado mais amplo dos transportes coletivos, com o serviço de transporte rodoviário, desempenhado por diversas empresas privadas. As execuções promovidas contra essas empresas observam o regime de cumprimento de sentença previsto no art. 475-J, do CPC/1973, e não o de precatórios. Por essa razão, não se pode submeter as execuções promovidas contra o METRÔ DF ao rito do art. 100, da CF, sob pena de se criar uma vantagem competitiva indevida em seu favor.
+
+    4. Agravo interno a que se dá provimento, para julgar improcedentes os pedidos formulados na reclamação. Considerando que o valor da causa não pode ser estabelecido com precisão, entendo razoável arbitrá-lo, por estimativa, em R$ 400.000,00, consoante o disposto no art. 292, § 3º, CPC. Fixo os honorários em 10% desse montante, nos termos do art. 85, §2º, do CPC.” (Rcl 29.637-AgR, Relator Min. Luiz Fux, redator do acórdão Min. Roberto Barroso, DJ 22.10.2020)
+
+    Destaco que a controvérsia discutida na presente reclamação, a saber o regime de pagamento dos débitos da Companhia do Metropolitano do Distrito Federal, fora definitivamente resolvida na Rcl 29.637, tendo esta Primeira Turma, por maioria, afastado o regime de precatórios por entender, à luz do voto vencedor, que “As execuções promovidas contra essas empresas observam o regime de cumprimento de sentença previsto no art. 475-J, do CPC/1973, e não o de precatórios. Por essa razão, não se pode submeter as execuções promovidas contra o METRÔ DF ao rito do art. 100, da CF, sob pena de se criar uma vantagem competitiva indevida em seu favor.”.
+
+    Cuida-se, em suma, de demanda proposta pelo ora reclamante e que teve julgamento de mérito contrário aos seus interesses, reiterados na presente reclamação. Ademais, em consulta ao sítio eletrônico do Supremo Tribunal Federal, constata-se que a Reclamação 29.637 transitou em julgado em 20/8/2021, ao passo que a presente reclamação foi ajuizada apenas em 4/6/2025.
+
+    Saliente-se, por fim, que a ocorrência do trânsito em julgado assume indiscutível relevo de ordem formal no exame dos pressupostos de constituição e de desenvolvimento da relação processual decorrente da instauração da via reclamatória (Rcl 20.743-MC, Rel. Min. Celso de Mello, DJe de 22/10/2015).
+
+    Com efeito, em que pese a superveniência da decisão deste STF proferida na ADPF 524 (DJ de 11.9.2023) — que embasa a propositura da presente reclamação — a coisa julgada formada no âmbito da Rcl 29.637-AgR justifica a manutenção da estabilidade do quanto decidido por este Supremo Tribunal Federal na via reclamatória, sem prejuízo de eventual ajuizamento de ação rescisória em face das decisões proferidas nas instâncias ordinárias nos termos do art. 525, § 15, do CPC. Tal como pude registrar em sede doutrinária:
+
+    “Nossa convicção de que a exegese do CPC/2015 — à luz da segurança jurídica, um dos cânones da Análise Econômica do Direito — revela a necessidade de a declaração de inconstitucionalidade ser anterior ao trânsito em julgado da sentença (...). Tal pensar — repita-se — reside na premissa de que o compromisso da coisa julgada é com a estabilidade social e não com a justiça da decisão ou sua compatibilidade com a realidade, porquanto se reveste da auctoritas res judicata”. (FUX, Luiz. O Código de Processo Civil de 2015: Uma Década nos Tribunais. Rio de Janeiro: Forense, 2025, p. 21)
+
+    Ante a resolução definitiva da controvérsia em reclamação anterior, já transitada em julgado, mostra-se evidente a incidência, no caso concreto, do instituto da litispendência, conforme o § 3º do artigo 337 do Código de Processo Civil.
+
+    Destarte, por ser matéria de ordem pública, a coisa julgada pode ser declarada de ofício, com a consequente extinção desta reclamação sem apreciação do mérito, de acordo com o § 5º do art. 337 do Código de Processo Civil.
+
+    Ex positis, RECONSIDERO a decisão agravada e, em novo julgamento, EXTINGO SEM JULGAMENTO DE MÉRITO a presente reclamação, com esteio no inciso V do artigo 485 do Código de Processo Civil, combinado com o artigo 21, § 1º do Regimento Interno do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 8 de setembro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
