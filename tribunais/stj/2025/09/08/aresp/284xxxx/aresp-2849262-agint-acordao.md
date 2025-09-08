@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/09/2025 a 08/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Incide o óbice da súmula 7/STJ, uma vez que o reexame da premissa fixada pela Corte de origem quanto ao afastamento da impenhorabilidade do imóvel exigiria a incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno, interposto por WELLINTON FRANCA DE JESUS contra decisão monocrática da lavra da Presidência desta Corte (fls. 137-139, e-STJ), que conheceu do agravo para não conhecer do recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafiou acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 127, e-STJ):
+AGRAVO INTERNO AGRAVO DE INSTRUMENTO INADMITIDO - AUSÊNCIA DE PREVISÃO LEGAL ALEGAÇÃO D E NECESSIDADE D E RETRATAÇÃO DA DECISÃO VERGASTADA -AUSÊNCIA DE FUNDAMENTO NOVO DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS RECURSO CONHECIDO E IMPROVIDO. POR UNANIMIDADE.
+Nas razões do recurso especial (fls. 41-50, e-STJ), o recorrente alegou afronta dos artigos 369 e 442 do CPC, sustentando, em síntese, à ocorrência de cerceamento de defesa no indeferimento da produção de prova testemunhal, porquanto os depoimentos são imprescindíveis para a comprovação dos fatos alegados pela defesa.
+Contrarrazões às fls. 52-59, e-STJ.
+A Corte local procedeu ao exame provisório de admissibilidade, oportunidade em que negou seguimento ao recurso especial, dando ensejo a interposição do agravo de fls. 75-82, e-STJ.
+Contraminuta às fls. 85-90, e-STJ.
+Em decisão monocrática (fls. 137-139, e-STJ), a Presidência desta Corte conheceu do agravo para não conhecer do recurso especial da parte insurgente, ante a necessidade de reexame do acervo fático-probatório dos autos, fazendo incidir a Súmula 7/STJ.
+Daí o presente agravo interno (fls. 145-149, e-STJ), no qual impugna a incidência do citado óbice sumular, sob argumentação da desnecessidade de análise fático-probatória.
+Sem impugnação (fl. 154, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Incide o óbice da súmula 7/STJ, uma vez que o reexame da premissa fixada pela Corte de origem quanto ao afastamento da impenhorabilidade do imóvel exigiria a incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, uma vez que os argumentos tecidos pela parte recorrente são incapazes de ilidir os fundamentos da decisão agravada, razão pela qual deve ser mantida na íntegra por seus próprios fundamentos.
+1. No que toca ao pretenso afastamento do óbice da Súmula 7/STJ, razão não assiste à parte agravante.
+Na hipótese, o Tribunal local, após a análise das peculiaridades fáticas da demanda, consignou, de forma expressa, pela inocorrência de cerceamento de defesa, diante do indeferimento de prova testemunhal.
+Confira-se excerto do acórdão estadual quanto ao tema (fl. 157, e-STJ):
+A irresignação se baseia no fato de ter sido inadmitido monocraticamente o Agravo de Instrumento por ter sido interposto fora das hipóteses legais de recebimento e fora do rol de exceções imposto pelo STJ:
+"A decisão restou assim, redigida:
+"No caso dos autos, o interesse do reclamado em ouvir Odailson e Ciro se fundamenta no fato de que eles foram argenores possuidores do imóvel. Percebe-se que essas pessoas não reúnem condições de serem testemunhas e a própria legislação processual indica o caminho: elas deveriam, na fase da contestação, serem denunciadas à lide, uma vez que em caso de sucumbência, responderiam pela evicção. Esta condição as impossibilita de atuarem como testemunhas ou declarantes, pois o que elas afirmarem necessita de comprovação."
+Ainda não entendeu o agravante que o Tribunal não pode e não deve interferir na formação do Juízo de Convencimento probante do magistrado a quo, sendo ele o destinatário final das provas, mantem a direção, o controle, o gerenciamento do que seja necessário e conveniente em termos de meios de provas, sob pena de usurpar a competência do Juiz Natural.
+Ora, não há possibilidade de interposição de Agravo de Instrumento por indeferimento de adiamento de audiência. A agravante traz novos elementos neste recurso, mas não devo conhecer por ausência do pedido no 1º Grau, supressão de instância.
+De igual sorte, não trouxe elemento novo que demonstre alteração fático-jurídica na relação processual, continuando a repetir os mesmos argumentos.
+Portanto, sem razão a insurgência recursal.  grifou-se
+Sobre o tema, cumpre ressaltar que os princípios da livre admissibilidade da prova e da persuasão racional, nos termos dos artigos 370 e 371 do atual Código de Processo Civil, autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, como ocorreu no presente caso.
+É por demais sabido, nos termos da jurisprudência do Superior Tribunal de Justiça, o magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, cabendo-lhe a avaliação tanto da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide (art. 330, I, do CPC) (AgInt no AREsp n. 1.083.997/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2017, DJe de 15/8/2017).
+A jurisprudência do STJ é firme no sentido de que o indeferimento do pedido de produção de provas não configura cerceamento de defesa quando constatada a existência de provas suficientes para o convencimento do magistrado, como ocorreu na hipótese.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal quanto ao alegado cerceamento de defesa ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Nesse sentido, vejam-se os precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA DA AUTORA. 1. A jurisprudência do STJ é firme no sentido de que o indeferimento do pedido de produção de provas não configura cerceamento de defesa quando constatada a existência de provas suficientes para o convencimento do magistrado. 1.1. Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes. 2. Agravo interno desprovido. (AgInt no AREsp 2445098/MS, Ministro Marco Buzzi, Quarta Turma, DJe 28/02/2024)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL C/C CONSIGNAÇÃO EM PAGAMENTO. 1. APRECIAÇÃO DE OFENSA A DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL EM RECURSO ESPECIAL. IMPOSSIBILIDADE. COMPETÊNCIA RESERVADA À SUPREMA CORTE. 2. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. LIVRE CONVENCIMENTO MOTIVADO DO JUIZ. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. FALTA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. 4. AGRAVO IMPROVIDO.  ..  2. A alteração do entendimento alcançado na Corte de origem e o acolhimento da pretensão recursal, a fim de concluir pela imprescindibilidade da produção da prova pericial requerida, demandariam o necessário o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, em virtude do óbice do enunciado n. 7 da Súmula desta Corte Superior. 2.1. Segundo a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se a presença de dados bastantes à formação do seu convencimento.  ..  4. Agravo interno a que se nega provimento. (AgInt no AREsp 1798628/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/05/2021, DJe 05/05/2021)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COLISÃO DE VEÍCULOS. ABANDONO DE CAUSA. NÃO OCORRÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283 DO STF. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. DANO MORAL. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.  ..  2. A revisão da conclusão a que chegou o Tribunal de origem sobre a ausência de cerceamento de defesa no indeferimento do pedido de produção de prova oral e pericial esbarra no óbice da Súmula 7 deste Tribunal, porquanto demandaria o reexame do acervo fático probatório.  ..  4. Agravo interno não provido. (AgInt no REsp 1796605/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2021, DJe 23/03/2021)  grifou-se
+Inafastável, no ponto, o teor da Súmula 7 do STJ.
+Portanto, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+2. No caso em tela, não se verifica o intuito meramente protelatório do presente agravo interno, não havendo justificativa para imposição da sanção prevista no artigo 1021, § 4º, do CPC .
+Desde já, entretanto, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
