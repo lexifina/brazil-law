@@ -1,0 +1,6 @@
+ANEXO ÚNICO
+(Anexo VII da Instrução Normativa RFB nº 1.753, de 30 de outubro de 2017)
+Resolução Conselho Monetário Nacional - CMN nº 4.975, de 16 de dezembro de 2021
+1. Os procedimentos contábeis estabelecidos na Resolução do Conselho Monetário Nacional - CMN nº 4.975, de 16 de dezembro de 2021, caso adotados pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, contemplam modificação ou adoção de novos métodos ou critérios contábeis.
+2. As instituições a que se refere o item 1 deverão observar o disposto na Lei nº 6.099, de 12 de setembro de 1974, e nos demais atos normativos em vigor que disponham sobre as regras de tributação e, conforme o caso, obedecer ao disposto no Anexo V, que dispõe sobre os procedimentos contábeis estabelecidos no Pronunciamento Técnico do Comitê de Pronunciamentos Contábeis nº 06 (R2) - Operações de Arrendamento Mercantil - CPC 06.
+3. A adoção, por parte das instituições a que se refere o item 1, de controles por meio de contas de compensação criadas no Plano Contábil das Instituições do Sistema Financeiro Nacional - Cosif, aprovado pelo Banco Central do Brasil ou por meio de contas de uso interno de cada instituição, não prejudica o disposto nesta Instrução Normativa.
