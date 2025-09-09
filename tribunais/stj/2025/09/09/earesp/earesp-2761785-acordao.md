@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/09/2025 a 09/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULAS 282 E 284/STF. SÚMULA 315/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+Embargos de divergência indeferidos liminarmente.
+RELATÓRIO
+Trata-se de embargos de divergência opostos por DOUGLAS POLICARPO ao acórdão da Primeira Turma do Superior Tribunal de Justiça, relatado pelo Ministro Sérgio Kukina, assim ementado (fls. 192/193):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATUIDADE DE JUSTIÇA. ARGUIÇÃO DE ILEGITIMIDADE ATIVA E COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. RAZÕES DISSOCIADAS. INCIDÊNCIA DO ENUNCIADO 284/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO.
+1. Verifica-se que, na espécie, não houve oposição de embargos de declaração perante a Corte de origem. Assim, ao indicar violação ao art. 1.022 do CPC, revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante do Enunciado 284/STF, segundo o qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+2. As matérias pertinentes aos arts. 2º, 3º, 4º, 11, 141, 485, IV, V e VI, § 3º, 490, 492 e 938 do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o empeço da Súmula 282/STF.
+3. O recurso apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos na decisão recorrida, o que atrai a aplicação da Súmula 284/STF, que preceitua: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Agravo interno não provido.
+A parte embargante (fls. 204/252) aduz que há divergência interpretativa sobre a aplicação das Súmulas 282 e 284 do STF, sustentando que as matérias de ordem pública, como a ilegitimidade de parte e a coisa julgada, foram devidamente suscitadas e deveriam ter sido apreciadas. Afirma que o acórdão recorrido é nulo por não enfrentar as questões essenciais ao deslinde da controvérsia, violando o devido processo legal e o direito de acesso à justiça.
+Aponta como acórdãos paradigmas os seguintes julgados:
+1) EREsp n. 1.424.404/SP, Ministro Luís Felipe Salomão, Corte Especial, DJe 17/11/2021; e
+2) AgInt no REsp n. 2.014.151/PA, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 27/4/2023.
+Assim, requer o conhecimento do recurso e o seu provimento.
+É o relatório.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULAS 282 E 284/STF. SÚMULA 315/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+Embargos de divergência indeferidos liminarmente.
+VOTO
+Os embargos de divergência não ultrapassam o juízo de admissibilidade.
+Mediante exame dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 282 e 284 do STF. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Ademais, é firme o entendimento no âmbito da Corte Especial do STJ, no sentido de que não cabe a oposição de embargos de divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial. Ilustrativamente: AgInt nos EAREsp n. 1.883.018/RJ, Ministro Mauro Campbell Marques, Corte Especial, DJe 17/11/2023; AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp n. 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; e AgRg nos EAREsp n. 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+Apesar do esforço argumentativo do embargante, a pretensão é do reexame dos critérios de admissibilidade. Isso porque não há discussão de tese jurídica, mas da avaliação se no caso concreto houve o acerto da aplicação do óbice pelo órgão fracionário.
+Com relação aos temas de mérito ou de ordem pública, é pacífico na jurisprudência do Superior Tribunal de Justiça que, não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - descabe a apreciação de questões meritórias, ainda que se trate de matéria de ordem pública, o que não configura omissão. (EDcl no AgInt nos EAREsp n. 1.491.896/SP, Ministra Laurita Vaz, Corte Especial, DJe 19/12/2023 - grifo nosso). Em igual sentido: AgInt nos EAREsp n. 2.148.657/MT, Ministro João Otávio de Noronha, Corte Especial, DJe 24/5/2024; e AgInt nos EREsp n. 1.697.213/RS, Ministro Antonio Carlos Ferreira, Corte Especial, DJe 18/4/2024.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Caso tenham sido anteriormente fixados, majoro os honorários recursais em desfavor do embargante para 15% (quinze por cento) sobre o valor arbitrado na origem, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se for o caso, os limites percentuais previstos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão d e gratuidade de justiça.
