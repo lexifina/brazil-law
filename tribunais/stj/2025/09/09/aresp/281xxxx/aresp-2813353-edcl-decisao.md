@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSE CARLOS DE AGUIAR à decisão de fls. 2.774/2.776 , por meio da qual não conheci do agravo em recurso especial, pelo fato de as razões recursais não terem apresentado impugnação específica do óbice apontado na decisão que inadmitiu o recurso (Súmula 7/STJ).
+Alega o embargante que a decisão apresenta contradição, pois o agravo em recurso especial contempla tópico específico impugnando a r. decisão de fls. 2686/2688 proferida pelo E. TJ-SP na parte em que, respeitosamente, de forma equivocada, indicada a incidência da Súmula n.º 7 desse E. Tribunal Superior (fl. 2.785).
+É o relatório.
+A decisão embargada não conheceu do agravo porque a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AR Esp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha16/6/2023 Palheiro, Sexta Turma, DJe 14/6/2023 (fl. 2.775).
+Observe-se, pois, que não basta ao agravante afirmar que não pretende reexame, mas revaloração das provas; para afastar a aplicação da Súmula 7 do STJ, é necessário que o recorrente demonstre, de forma clara e objetiva, a inexistência de necessidade de reexame de provas, o que não foi feito pela defesa, que apenas alegou genericamente tratar-se de revaloração de questões jurídicas. Ainda, a jurisprudência do STJ é pacífica no sentido de que alegações genéricas de revaloração da prova, desacompanhadas de cotejo analítico com as premissas fáticas do acórdão recorrido, não afastam a incidência da Súmula nº 7/STJ (AgRg no AREsp n. 2.592.264/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025 - grifo nosso).
+Ou seja, é necessário que o agravo em recurso especial apresente, de forma clara, as conclusões do acórdão quanto aos fatos efetivamente comprovados, para que possa a Corte Superior, sem qualquer alteração quanto às premissas fáticas, examinar se houve indevida aplicação de norma de direito federal à espécie.
+Desse modo, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ALEGAÇÃO DE CONTRADIÇÃO. NÃO OCORRÊNCIA.
+Embargos de declaração rejeitados.
