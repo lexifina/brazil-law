@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N. 9.246/2017. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO, NÃO HOMOLOGADA ATÉ A DATA PREVISTA NO ART. 4º, INCISO I, DO ATO NORMATIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme o art. 4º do Decreto n. 9.246/2017, "o indulto natalino ou a comutação não será concedido às pessoas que: I - tenham sofrido sanção, aplicada pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contradit ório e da ampla defesa, em razão da prática de infração disciplinar de natureza grave, nos doze meses anteriores à data de publicação deste Decreto".
+2. No caso dos autos, não obstante a prática de falta disciplinar de natureza grave cometida pelo sentenciado no curso da execução, não houve a sua devida homologação no período de doze meses anterior ao dia 22/12/2017, com a aplicação de sanção após a garantia da ampla defesa e do contraditório, o que impede que se negue o benefício do indulto pleiteado, consoante interpretação do requisito previsto no referido dispositivo.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão na qual conheci do agravo para dar parcial provimento ao recurso especial interposto por WELTON GOMES DE ASEVEDO, a fim de determinar que o Juízo da execução reavalie o preenchimento dos requisitos para a concessão do pleito de indulto, considerando afastado o óbice previsto no art. 4º, I, do Decreto n. 9.246/2017 quanto à prática de falta grave que não tenha sido judicialmente homologada nos doze meses anteriores à data da publicação daquele ato normativo.
+Por oportuno, transcrevo o relatório do parecer de e-STJ fls. 171/174:
+WELTON GOMES DE ASEVEDO agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás, que negou provimento ao agravo em execução interposto pela defesa para manter a decisão que indeferiu ao ora agravante o indulto natalino previsto no Decreto nº 9.246/2017.
+Nas razões recursais, a defesa aponta dissídio jurisprudencial e violação ao art. 4º, I, do Decreto nº 9.246/17 e aos princípios constitucionais do contraditório e ampla defesa, alegando que não houve audiência de justificação antes da aplicação de sanção pelo cometimento de falta grave, que, além do mais, não foi homologada antes do indeferimento do pedido de concessão de indulto.
+Apresentadas as contrarrazões, a Corte de origem inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+Nas razões do agravo regimental, o Parquet alega que, "nos termos do art. 52 da Lei de Execução Penal, constitui falta grave o cometimento de crime doloso no curso da execução, circunstância configurada com a prática do novo crime de roubo em 14/01/2017", de forma que "a homologação judicial posterior apenas formalizou a sanção correspondente, mas o marco relevante é a prática da falta dentro dos doze meses anteriores ao decreto" (e-STJ fls. 185/186).
+Ao final, pugna pelo provimento do agravo, "a fim de que seja reformada a decisão monocrática e restabelecido o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, o qual, com acerto, reconheceu a incidência do óbice previsto no art. 4º, I, do Decreto nº 9.246/2017 e, por conseguinte, negou a concessão do indulto ao recorrido" (e-STJ fl. 187).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO N. 9.246/2017. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO, NÃO HOMOLOGADA ATÉ A DATA PREVISTA NO ART. 4º, INCISO I, DO ATO NORMATIVO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme o art. 4º do Decreto n. 9.246/2017, "o indulto natalino ou a comutação não será concedido às pessoas que: I - tenham sofrido sanção, aplicada pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contradit ório e da ampla defesa, em razão da prática de infração disciplinar de natureza grave, nos doze meses anteriores à data de publicação deste Decreto".
+2. No caso dos autos, não obstante a prática de falta disciplinar de natureza grave cometida pelo sentenciado no curso da execução, não houve a sua devida homologação no período de doze meses anterior ao dia 22/12/2017, com a aplicação de sanção após a garantia da ampla defesa e do contraditório, o que impede que se negue o benefício do indulto pleiteado, consoante interpretação do requisito previsto no referido dispositivo.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não obstante as razões recursais, entendo que o agravo regimental não merece prosperar.
+Conforme destacado na decisão ora agravada, não obstante a prática de falta disciplinar de natureza grave cometida pelo sentenciado no curso da execução, não houve a sua devida homologação no período de doze meses anterior ao dia 22/12/2017, com a aplicação de sanção após a garantia da ampla defesa e do contraditório, o que impede que se negue o benefício do indulto pleiteado.
+Tal interpretação é a que melhor se coaduna com a redação do requisito previsto no art. 4º, I, do Decreto n. 9.246/2017, que ora transcrevo:
+Art. 4º O indulto natalino ou a comutação não será concedido às pessoas que:
+I - tenham sofrido sanção, aplicada pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, em razão da prática de infração disciplinar de natureza grave, nos doze meses anteriores à data de publicação deste Decreto;
+Com efeito, a falta grave não impede o deferimento do indulto ou da comutação, exceto se praticada e homologada, com a imposição de sanção, no período previsto no decreto presidencial, o que não ocorreu no caso concreto.
+No mesmo sentido, confiram-se os seguintes julgados análogos, acerca de decretos de indulto com redação idêntica:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO, NÃO HOMOLOGADA ATÉ A DECISÃO QUE EXAMINOU O PEDIDO DE CONCESSÃO DO BENEFÍCIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 5º do Decreto n. 8.615/2015, "a declaração do indulto e da comutação de penas previstos neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei de Execução Penal, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2015".
+2. Na hipótese, não obstante a prática de novo crime pelo agravado no curso da execução, não houve a homologação da falta grave até a decisão que indeferiu o benefício do indulto, o que impede a negativa do benefício, pela utilização de requisito não constante do Decreto n. 8.615/2015 para indeferir a benesse requerida. Precedente.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 465.446/PR, de minha relatoria, unânime, Sexta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 3/11/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL 8.380/2014. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO PREVISTO NA NORMA (12 MESES ANTERIORES Á PUBLICAÇÃO DO DECRETO). INFRAÇÃO NÃO HOMOLOGADA ATÉ A DECISÃO QUE EXAMINOU O PEDIDO DE CONCESSÃO DO BENEFÍCIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A falta grave não impede a obtenção do indulto, consoante disposto no art. 52 da LEP, exceto se praticada no período previsto no decreto presidencial e homologada até a decisão que examina o pedido de concessão do benefício.
+2. Embora se admita, em algumas hipóteses, que a homologação da falta grave se dê após a publicação do Decreto Presidencial, desde que aquela tenha sido praticada durante o período que antecede os 12 meses da sua publicação, em qualquer situação referida homologação deve ocorrer antes da decisão denegatória do benefício, o que, ao que tudo indica, não se efetivou no caso em apreço.
+3. Agravo Regimental improvido.
+(AgRg no HC n. 342.454/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/3/2017, DJe de 13/3/2017.)
+Portanto, não carece de reparos a decisão ora agravada, na qual se conheceu do agravo para dar parcial provimento ao recurso especial interposto pela defesa, a fim de determinar que o Juízo da execução reavalie o preenchimento dos requisitos para a concessão do pleito de indulto, considerando afastado o óbice previsto no art. 4º, I, do Decreto n. 9.246/2017 em relação à prática de falta grave que não tenha sido judicialmente homologada nos doze meses anteriores à data da publicação daquele ato normativo.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
