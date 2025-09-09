@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA S. A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ e na ausência de demonstração de violação dos arts. 1º da Lei n. 9.656/1998, 6º, VIII, e 14, § 4º, do Código de Defesa do Consumidor, 186, 187, 188, I, e 944 do Código Civil e 373, I, do Código de Processo Civil, prejudicada a análise da divergência jurisprudencial, por não ter sido realizado o cotejo analítico e pela ausência de indicação do artigo violado (fls. 472-475).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que do agravo em recurso especial não se deve conhecer, pois a decisão agravada está em conformidade com a Súmula n. 7 do STJ, além de não ter sido demonstrada a violação de dispositivos legais, requerendo o desprovimento do agravo e a imediata execução da sentença (fls. 483-485).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Pernambuco em apelação nos autos de ação de responsabilidade civil c/c indenização por danos morais e estéticos.
+O julgado foi assim ementado (fls. 314-315):
+APELAÇÕES CÍVEIS - DIREITO CIVIL E DO CONSUMIDOR - AÇÃO DE RESPONSABILIDADE CIVIL C/C INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS - ERRO MÉDICO - PLANO DE SAÚDE - NÃO RETIRADA DE GAZE DA VAGINA DA PACIENTE PÓS-PARTO NORMAL - NEGLIGÊNCIA - AUSÊNCIA DE INFORMAÇÃO - NECESSIDADE DE NOVO INTERNAMENTO COM O RECÉM-NASCIDO - DANOS MORAIS CARACTERIZADOS - MAJORAÇÃO DO QUANTUM FIXADO DE R$10.000,00 PARA R$30.000,00 - APELAÇÃO DA PARTE AUTORA PARCIALMENTE PROVIDA - RECURSO DOS RÉUS IMPROVIDOS.
+1. Existindo provas contundentes de que o serviço foi falho, cabível a condenação do plano de saúde em danos morais.
+2. A situação vivenciada pela parte autora ultrapassa o mero dissabor do cotidiano, até porque a conduta da ré sem sombra de dúvidas gerou abalo moral.
+3. Danos morais majorados para o valor de R$30.000,00.
+4. Recurso dos réus a que se nega provimento.
+5. Recurso da parte Autora parcialmente provido.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1º da Lei n. 9.656/1998, porque a operadora de saúde cumpriu todas as obrigações contratuais e legais, não havendo falha na prestação de serviços;
+b) 14, § 4º, do Código de Defesa do Consumidor, pois a inversão do ônus da prova em desfavor da operadora exige comprovação mínima de falha no serviço, o que não ocorreu;
+c) 186, 187, 188, I, e 944 do Código Civil, porque não houve ato ilícito passível de reparação e o valor da indenização por danos morais é exorbitante. Afirma que a simples negativa não possui o condão de gerar dano moral in re ipsa, quanto mais quando não foi demonstrado o agravamento da enfermidade e nem a piora do seu quadro clínico ou exposição ao ridículo;
+d) 373, I, do Código de Processo Civil, porque a inversão do ônus da prova foi aplicada de forma absoluta, sem comprovação de verossimilhança;
+e) 6º, VIII, do Código de Defesa do Consumidor, pois a inversão do ônus da prova não pode ser aplicada de forma irrestrita.
+Sustenta que o Tribunal de origem, ao decidir que houve falha na prestação de serviços e responsabilidade da operadora de saúde, divergiu do entendimento de outros tribunais, mas não apresenta cotejo analítico.
+Requer o provimento do recurso para reformar o acórdão recorrido e julgar improcedente a demanda ou, alternativamente, reduzir o valor da indenização por danos morais.
+Nas contrarrazões, a parte recorrida aduz que do recurso especial não se deve conhecer, pois a decisão está em conformidade com a Súmula n. 7 do STJ, além de não ter sido demonstrada a violação de dispositivos legais, requerendo o desprovimento do recurso e a imediata execução da sentença (fls. 468-471).
+É o relatório. Decido.
+A controvérsia diz respeito a ação de responsabilidade civil c/c indenização por danos morais e estéticos em que a parte autora pleiteou a condenação dos réus ao pagamento de indenização por danos morais em razão de erro médico.
+Na sentença, o Juízo de primeiro grau julgou procedente a pretensão inicial, condenando os réus ao pagamento de R$10.000,00 a título de danos morais, com correção monetária e juros de mora, além de custas e honorários advocatícios fixados em 10% sobre o valor da condenação.
+A Corte estadual reformou parcialmente a sentença para majorar o valor da indenização por danos morais para R$30.000,00, mantendo os demais termos da decisão.
+I - Arts. 6º, VIII, do CDC e 373, I, do Código de Processo Civil
+No recurso especial, a parte recorrente alega que a inversão do ônus da prova foi aplicada de forma absoluta, não sendo demonstrada minimamente a falha na prestação de serviço.
+Contudo, a questão infraconstitucional relativa à violação dos artigos acima (inversão do ônus da prova) não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+II -Art. 1º da Lei n. 9.656/1998, 14, § 4º, do Código de Defesa do Consumidor, 186, 187 e 188, I, do Código Civil.
+No recurso especial, a parte recorrente alega que não houve falha na prestação de serviços, que a responsabilidade objetiva exige comprovação de falha, que não houve ato ilícito passível de reparação.
+No caso, o Tribunal de Justiça do Estado de Pernambuco, analisando o acervo fático-probatório dos autos, concluiu que houve negligência no serviço prestado, configurando falha na prestação de serviços e responsabilidade civil, além de considerar razoável a majoração do valor da indenização para R$30.000,00 (fls. 311-313).
+A propósito, confira-se o seguinte trecho do acórdão recorrido (fls. 312):
+Verifico que o cerne da questão está em saber se houve erro médico relacionado ao alegado esquecimento de gaze após realização de parto dentro da vagina da Autora, o que causou dores e necessidade de internamento posterior com seu bebê em tempos de pandemia do Covid-19.
+Esclareço que em nenhum momento a Autora alega que a colocação do tampão tenha sido errada, mas sim a ausência de retirada no momento correto, devido à falta de informação acerca da necessidade da volta ao hospital para fazer tal retirada.
+Ocorre que, apesar de a parte Ré alegar ter orientado a paciente quanto a necessidade do retorno ao hospital para reavaliação e retirada do referido instrumento, não encontro nos autos qualquer documento que comprove que tal informação foi prestada à paciente.
+Por isso, patente a negligência do serviço prestado na autora, já que não foram tomados os cuidados necessários a retirada do tampão colocado no interior da genitália da paciente. Assim, é inconteste que o erro cometido, mesmo que sem dolo, é suficiente para qualificar a prestação do serviço como defeituoso, o que gera o dever de indenizar de ambos os réus o abalo moral suportado pela autora.
+Importante pontuar que, somado ao fato de ter convivido com dores e odor forte, ainda precisou ser novamente internada com seu filho recém-nascido em tempos de pandemia.
+Sobre a responsabilidade da operadora do plano de saúde, convém mencionar que o Superior Tribunal de Justiça já decidiu que, "se o contrato é fundado na prestação de serviços médicos e hospitalares próprios e/ou credenciados, no qual a operadora de plano de saúde mantém hospitais e emprega médicos ou indica um rol de conveniados, não há como afastar sua responsabilidade solidária pela má prestação do serviço" (AgInt no AREsp n. 1.414.776/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/2/2020, DJe de 4/3/2020).
+Veja-se:
+PEDIDO DE RECONSIDERAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE DE PARTE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. CONSUMIDOR. ERRO MÉDICO. PENSÃO. INDENIZAÇÃO. DANO MORAL. REDUÇÃO. IMPOSSIBILIDADE. SÚMULAS NºS 7 E 83/STJ.
+1. Petição de reconsideração recebida como agravo interno, com base nos princípios da fungibilidade e da economia processual.
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, se o contrato é fundado na prestação de serviços médicos e hospitalares próprios e/ou credenciados, mantendo a operadora de plano de saúde hospitais e empregando médicos ou indicando um rol de conveniados, não há como afastar sua responsabilidade solidária pela má prestação do serviço. Súmula nº 83/STJ.
+3. Na hipótese, o pensionamento é devido pela diminuição da capacidade laborativa decorrente das sequelas irreversíveis. Súmula nº 83/STJ. Precedentes.
+4. No que diz respeito ao nexo de causalidade e a lesão sofrida, a conclusão do tribunal de origem se firmou após minuciosa análise das circunstâncias fáticas dos autos. Rever tal posicionamento demandaria o reexame das provas dos autos, procedimento incompatível com a via eleita. Súmula nº 7/STJ.
+5. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrado em R$ 50.000,00 (cinquenta mil reais).
+6. Agravo interno não provido. (RCD no AREsp n. 2.403.547/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Ademais, para a caracterização da responsabilidade civil, antes de tudo, há de existir e estar comprovado o nexo de causalidade entre o evento danoso e a conduta comissiva ou omissiva do agente e afastada qualquer das causas excludentes do nexo causal, tais como a culpa exclusiva da vítima ou de terceiro, o caso fortuito ou a força maior, por exemplo (REsp n. 1615971/DF, relator Ministro Marco Aurélio Bellizze, terceira turma, julgado em 27/9/2016, DJe 7/10/2016).
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se em elementos probatórios.
+Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Do quantum indenizatório. Violação do art. 944 do Código Civil
+O recorrente aponta que o valor da indenização é exorbitante.
+O valor fixado pela instância ordinária a título de indenização por danos morais só é passível de revisão se apresentar-se irrisório ou exorbitante, distanciando-se da devida prestação jurisdicional no caso concreto.
+Na espécie, a instância ordinária, apreciando o conjunto fático-probatório dos autos, concluiu que, na fixação do quantum indenizatório em R$ 30.000,00 (trinta mil reais), houve moderação, visto que não concorreu para o enriquecimento indevido da vítima e porque foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e o porte socioeconômico do causador do dano. Confira-se trecho do julgado (fls. 313):
+Sendo assim, o juiz, ao apreciar o caso concreto, fará a entrega da prestação jurisdicional de forma livre e consciente, à luz das provas produzidas, verificando as condições pessoais e econômicas das partes, as peculiaridades de cada caso, o prejuízo sofrido pela vítima, a intensidade da culpa e os demais fatores concorrentes para a fixação do dano.
+Levando em consideração as questões fáticas, bem como a quantificação da conduta ilícita e a capacidade econômica da ofensora, entendo razoável majorar o valor da indenização por danos morais de R$10.000,00 para o patamar de R$ 30.000,00 (trinta mil reais), estando esse valor dentro dos patamares utilizados por esta Corte.
+Face ao exposto, nego provimento ao recurso da parte Ré e dou parcial provimento ao recurso da parte Autora para majorar o valor dos danos morais para o patamar de R$30.000,00, mantendo os demais termos da sentença recorrida.
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte
+IV - Divergência jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso. Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
