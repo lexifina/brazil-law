@@ -1,0 +1,10 @@
+DECISÃO
+Pelo exame dos autos, o presente recurso não merece ser conhecido.
+Inicialmente, cabe ressaltar que, na via eleita, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação pe nal, bastando, para justificar a prisão cautelar, haver indícios de autoria.
+No tocante aos motivos da custódia, é evidente a deficiência na instrução do pedido apresentado por Matheus Martins Padilha, porquanto a inicial do recurso veio desacompanhada da cópia do Acórdão n. 50649797020238217000, que tenha analisado a matéria. Isso prejudica a compreensão exata do caso, inviabilizando, assim, o exame do apontado constrangimento ilegal. Nesse sentido: AgRg no RHC n. 216.241/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 4/7/2025; e AgRg no HC n. 970.516/BA, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025.
+Quanto ao excesso de prazo para a formação da culpa, verifica-se que este recurso configura reiteração do pedido feito no HC n. 1.022.937/RS, que foi julgado prejudicado em razão das informações prestadas pelo Juízo da 1ª Vara Criminal (Especializada em Júri), da comarca de São Leopoldo/RS, na Ação Penal n. 5006238-20.2022.8.21.0033/RS, no senti do de que o feito se encontra em fase de alegações finais, incidindo, na espécie, a Súmula 52/STJ.
+Por tais razões, não conheço do presente recurso.
+Pu blique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. RECEPTAÇÃO. ASSOCIAÇÃO CRIMINOSA ARMADA. AUSÊNCIA DE PROVAS DE AUTORIA DELITIVA. CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE EXAME NA VIA ELEITA. REVOGAÇÃO DE PRISÃO CAUTELAR. INSTRUÇÃO DEFICIENTE. IMPOSSIBILIDADE DE VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPERVENIENTE ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. INCIDÊNCIA DA SÚMULA 52/STJ.
+Recurso não conhecido.
