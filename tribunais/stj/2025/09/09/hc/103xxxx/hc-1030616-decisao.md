@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCELO HENRIQUE DIAS AZEVEDO, em que se aponta como autoridade coatora a 3ª CÂMARA DE DIREITO CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1503909-93.2023.8.26.0543).
+No presente writ, a Defesa informa que o paciente foi condenado pelo crime previsto no art. 155, § 1º, do Código Penal, à pena de 1 ano, 6 meses e 20 dias de reclusão em regime inicial semiaberto, além de 14 dias-multa, no valor unitário mínimo, porque teria subtraído, "para si, 01 (um) barbeador e 01 (um) secador, pertencentes ao estabelecimento Daniel Barba, representado por Daniel Pereira de Souza, além de uma cédula de identidade e um bilhete único, pertencente a Daniel Pereira de Souza" (e-STJ fl. 56).
+Alega que houve nulidade absoluta pela falta de oferecimento de acordo de não persecução penal por parte do Ministério Público, em afronta ao art. 28-A, § 2º, do Código de Processo Penal, e que a reincidência do paciente é genérica, não específica, o que permitiria a substituição da pena privativa de liberdade por restritiva de direitos.
+Sustenta que o crime praticado não envolveu violência ou grave ameaça, e que a pena mínima aplicada foi inferior a quatro anos, além de inexistirem elementos probatórios que indiquem conduta criminal habitual, reiterada ou profissional do paciente, o que justificaria a concessão do benefício.
+Afirma que a negativa de oferecimento do acordo de não persecução penal afronta o direito constitucional de petição e os princípios da proporcionalidade e razoabilidade.
+No mérito, a Defesa requer a concessão do writ para que o Ministério Público seja obrigado a propor o acordo de não persecução penal ao paciente, ou, alternativamente, a substituição da pena privativa de liberdade por restritiva de direitos.
+A Defesa também pleiteia a concessão de medida liminar para que o paciente seja mantido em liberdade até o julgamento definitivo do habeas corpus.
+Indeferido o pleito liminar (e-STJ fls. 149/150), opinou o Ministério Público Federal pelo não conhecimento do habeas corpus (e-STJ fls. 156/160).
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Em relação ao pleito de concessão do ANPP (acordo de não persecução penal), disse o Relator da apelação criminal (e-STJ fls. 32/33):
+Não vinga a alegação de nulidade da ação penal pela ausência de proposta de acordo de não persecução penal, uma vez ausente os requisitos legais à concessão do benefício, tendo em vista a reincidência ostentada pelo réu (autos nº 0005068-97.2013.8.26.0543; fls. 37), nos termos do artigo 28 - A, § 2º, inciso II do CPP.
+(..)
+Cabe ressaltar que a il. Defesa não se insurgiu durante todo o processamento do feito, deixando para pleitear o benefício somente em sede de apelação criminal.
+Na hipótese, o Tribunal de origem entendeu que não estariam preenchidos os requisitos para a propositura do ANPP, por haver, nos termos do art. 28-A, § 2º, II, do CPP, a reincidência do paciente.
+No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). NÃO OFERECIMENTO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. AGRAVO DESPROVIDO.
+1. Conforme o inciso II do § 2º do art. 28-A, veda-se o ANPP "se o investigado for reincidente ou se houver elementos probatórios que indiquem conduta criminal habitual, reiterada ou profissional, exceto se insignificantes as infrações penais pretéritas".
+2. O Parquet estadual, de forma fundamentada, constatou a ausência dos requisitos subjetivos legais necessários à elaboração do acordo, uma vez que o agravante é investigado pelos crimes de furto, estelionato e ameaça, elementos que denotam conduta criminal reiterada, de modo que o ANPP não atenderia aos critérios de necessidade e suficiência em face do caso concreto.
+3. Com efeito "o acordo de não persecução penal deve ser eventualmente ofertado ao agente sobre o qual há, em tese, justa causa para o oferecimento de denúncia, com o claro objetivo de mitigar o princípio da obrigatoriedade da ação penal. Contudo, a norma processual não obriga o Ministério Público a oferecer o benefício, que não é direito subjetivo dos investigados. É resguardado ao Membro do Ministério Público a opção, devidamente fundamentada, entre denunciar ou realizar o acordo quando este for suficiente para a reprovação e prevenção do crime." (AgRg no HC 708.105/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.340.288/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+Do mesmo modo, "A presença de circunstância judicial desfavorável e a reincidência, ainda que não específica, impede a substituição da pena privativa de liberdade por penas restritivas de direitos (art. 44, II e III, do CP)." (AgRg no REsp n. 2.109.003/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024.)
+Assim, não há como reconhecer o apontado constrangimento ilegal a justificar a concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+Intimem-se.
+EMENTA
