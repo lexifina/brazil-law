@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de ALEXANDRO SANTOS COUTINHO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO .
+Extrai-se dos autos que o paciente foi condenado à pena de 22 anos e 6 meses de reclusão em regime fechado como incurso nos arts. 121, § 2º, I e IV, e 288, parágrafo único, do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao recurso, nos termos do acórdão que recebeu a seguinte ementa:
+"EMENTA: APELAÇÃO CRIMINAL. HOMICÍDIO DUPLAMENTE QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. TRIBUNAL DO JÚRI. RECURSO DEFENSIVO. APELO DA DEFESA. INTERPOSIÇÃO DO RECURSO CONSUBSTANCIADO NAS ALÍNEAS "C" E "D", DO ART. 593, INCISO III, DO CPP. RAZÕES RECURSAIS QUE ESTENDEM A IRRESIGNAÇÃO SUSCITANDO NULIDADES ANTERIORES E POSTERIORES À PRONÚNCIA. EFEITO DEVOLUTIVO ADSTRITO AOS FUNDAMENTOS DA INTERPOSIÇÃO. CONHECIMENTO PARCIAL DO APELO. MÉRITO. ALEGAÇÃO DE DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. CONJUNTO PROBATÓRIO QUE DÁ AMPARO À CONCLUSÃO DO JÚRI. PENA. PEDIDO DE REDUÇÃO. INVIABILIDADE. REPRIMENDA BEM FUNDAMENTADA. DADOS CONCRETOS QUE LEGITIMAM O QUANTUM IMPOSTO. RECURSO IMPROVIDO. " (e-STJ, fls. 14-31).
+Neste writ, a defesa alega ilegalidade na dosimetria da pena, especialmente na valoração de três circunstâncias judiciais: culpabilidade, conduta social e consequências do crime. Argumenta que, no que tange à culpabilidade o fato de a vítima ter sido alvejada com "mais de 20 perfurações" não pode ser imputado ao paciente, uma vez que ele não foi o executor do crime. No tocante à conduta social, a defesa aponta contradição na sentença, que, ao mesmo tempo em que reconheceu o paciente como tecnicamente primário e sem antecedentes prejudiciais, negativou sua conduta social. Por fim, aponta, em relação às consequências do crime, que a fundamentação utilizada para agravar a pena não é válida, pois a idade da vítima, por si só, não é elemento previsto no Código Penal para justificar a majoração da pena.
+Requer a concessão da ordem para que seja readequada a pena.
+O Ministério Público Federal opina pelo não conhecimento do writ (e-STJ, fls. 55-57).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Consoante consulta realizada no sítio eletrônico do Tribunal de origem, verifica-se que a condenação transitou em julgado em 28/8/2020, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea e e 108, inciso I, alínea b, ambos da Constituição da República. Nesse sentido:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. PRECLUSÃO TEMPORAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Habeas corpus impetrado contra condenação transitada em julgado, alegando constrangimento ilegal devido à exasperação da pena-base sem fundamentação concreta, baseada na quantidade e natureza da droga apreendida e nos maus antecedentes.
+2. Agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus, sustentando a necessidade de readequação da pena e alteração do regime inicial de cumprimento da pena.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser conhecido como substitutivo de revisão criminal em caso de condenação já transitada em julgado e se há preclusão temporal que impeça o seu conhecimento.
+III. Razões de decidir
+4. O habeas corpus não pode ser conhecido como substitutivo de revisão criminal, pois não houve inauguração da competência do STJ para tal revisão.
+5. A preclusão temporal impede o conhecimento do habeas corpus, em respeito aos princípios da segurança jurídica e da lealdade processual, dado o longo decurso de tempo desde o trânsito em julgado da decisão impugnada.
+6. Não há flagrante ilegalidade no acórdão impugnado que justifique a concessão da ordem de ofício.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal para condenações já transitadas em julgado. 2. A preclusão temporal impede o conhecimento do habeas corpus quando há longo decurso de tempo desde o trânsito em julgado da decisão impugnada.".
+Dispositivos relevantes citados: CF/1988, art. 105, I, e; CPP, art. 654, § 2º.Jurisprudência relevante citada: STJ, AgRg no HC 851.309/MG, de minha relatoria, Quinta Turma, DJe 15.12.2023; STJ, AgRg no HC 754.541/SP, Rel. Min. Daniela Teixeira, Quinta Turma, DJe 13.09.2024." (AgRg no HC n. 994.463/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. NÃO CONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+3. No caso concreto, este habeas corpus se insurge contra acórdão de apelação proferido em 8/8/2024. A defesa impetrou o HC em 16/2/2025, depois do trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+4. Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+5. Agravo regimental não provido." (AgRg no HC n. 981.876/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
