@@ -1,0 +1,45 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, inciso III; 5º, caput e § 1º; 6º; 37; 93, IX, 196; 197 e 198 da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 1º, III e 93, IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Acordam os Juízes que integram a Segunda Turma Recursal Fazendária, por unanimidade, em conhecer do recurso e NEGAR-LHE provimento para manter a sentença por seus próprios fundamentos, mormente porque a sentença está em consonância com o ATUAL entendimento desta II TR Fazendária, no sentido de que, a despeito do laudo médico juntado pela parte comprovar sua condição de saúde potencialmente grave e, caso não realize o tratamento de hemodiálise nos dias necessários, de haver óbvio risco a sua vida, e de que o transporte especial não se tratar de privilégio, mas da salvaguarda do direito à vida e à saúde, nos termos da Constituição da República, sendo consectário lógico do direito à vida e à saúde a disponibilização de transporte para a realização de tratamento de médico (000042-54.2017.8.19.0001 - AGRAVO DE INSTRUMENTO Des(a). CARLOS EDUARDO MOREIRA DA SILVA - Julgamento: 14/03/2017 - VIGÉSIMA SEGUNDA CÂMARA CÍVEL), forçoso reconhecer que a sentença assegurou à parte autora, portadora de doença renal crônica o transporte que lhe permita se dirigir a seu tratamento, impondo à ré prover o transporte do autor pelos serviços de que disponha, de forma adequada e não necessariamente individual, devendo disponibilizar os instrumentos necessários a efetivar, a concretizar os direitos fundamentais à vida e à saúde, sem os quais todos os demais direitos e garantias fundamentais perdem o sentido, a sua razão de ser; todavia, importante lembrar que, inobstante a necessidade de transporte veicular para realização de seu tratamento, não existe previsão legal a ensejar necessidade de uso de transporte exclusivo para a parte autora, como bem destacado na incensurável sentença (0103547-19.2021.8.19.0001 - RECURSO INOMINADO Recorrente: MUNICÍPIO DO RIO DE JANEIRO Recorrido: C. C. R. - Segunda Turma Recursal Fazendária - Juiz(a) FABIANO REIS DOS SANTOS - Julg: 30/03/2023 - Data de Publicação: 3/04/2023); até mesmo a Portaria nº 4.279/GM/MS, de 30 de dezembro de 2010, previu o transporte sanitário como um dos quatro sistemas logísticos que compõem a estrutura operacional das Redes de Atenção à Saúde no âmbito do Sistema Único de Saúde - SUS; o artigo 2º da Resolução nº 13/CIT/MS, de 23 de fevereiro de 2017, por sua vez, estabeleceu ser o transporte sanitário eletivo "aquele destinado ao deslocamento programado de pessoas para realizar procedimentos de caráter eletivo, regulados e agendados, sem urgência, em situações previsíveis de atenção programada, no próprio município de residência ou em outro município nas regiões de saúde de referência, conforme pactuação", no parágrafo 1º do artigo 2º não deixa dúvida sobre a aplicabilidade de tal modalidade de transporte sanitário aos doentes renais crônicos, porquanto dependentes de hemodiálise regular; tal esclarece que se destina "à população usuária que demanda serviços de saúde e que não apresenta risco de vida, necessidade de recursos assistenciais durante o deslocamento ou de transporte em decúbito horizontal" e que em consonância com o que prevê o parágrafo 2º, o transporte sanitário eletivo "deve ser realizado por veículos tipo lotação", portanto, sem a previsão de transporte individual; ainda, em 15 de março de 2019 o MUNICÍPIO DO RIO DE JANEIRO editou o Decreto Rio nº 45.716, cujos artigos 171 e 18 previram a utilização, preferencialmente de modo compartilhado, da plataforma TAXI RIO Corporativo; uma mera autorização ao atendimento de pacientes para deslocamento programado de pessoas que necessitem de procedimentos de caráter não urgente ou emergencial, no próprio município de residência, pela Secretaria Municipal de Saúde ' SMS, sem que haja, portanto, autorização para de veículos por outros aplicativos (uber, 99, cabify, dentre outros), razão pela qual a sentença merece ser mantida, como o foi, de forma suscinta, por estar em consonância com a CRFB, a jurisprudência e a legislação especial sobre o tema; tendo sido todas as questões aduzidas no recurso apreciadas, sendo dispensada a transcrição das conclusões em homenagem aos princípios informativos previstos no artigo 2º da Lei 9099/95, e na forma do artigo 46, segunda parte, da mesma Lei, frisando-se, outrossim, que a motivação concisa atende à exigência do artigo 93 da Constituição Federal, e está em conformidade com o disposto no Regimento Interno das Turmas. Condenado o recorrente nas custas e honorários advocatícios de 10% do valor da causa, observado o art. 98, §3º do Código de Processo Civil, valendo esta súmula como acórdão, conforme o disposto no art. 46 da Lei 9099/95 e art. 27 da Lei nº 12.153/2009.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279/STF. Sobre o tema, a propósito:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Direito à saúde. Internação em UTI. Aplicação de multa diária contra a fazenda pública. 4. Necessidade de reexame do acervo probatório. Súmula 279 do STF.Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negativa de provimento ao agravo regimental, tendo em vista o disposto no art. 85, § 11, do NCPC, majorado em mais 10% o valor da verba honorária fixada anteriormente, observados os limites previstos nos parágrafos 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita” (ARE n. 1.177.481/PE-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 17/05/2019).
+
+    Agravo regimental no recurso extraordinário com agravo. 2. Direito à vida e à saúde. Procedimento cirúrgico de urgência. Obrigação solidária de todos os entes da Federação. Art. 196 da Constituição. Precedentes. 3. Divergir do entendimento do Tribunal de origem acerca da procedência do pedido para que o Estado do Rio Grande do Sul forneça transporte aéreo e estada à paciente para realização de procedimento cirúrgico de urgência, bem como custeie 20% de tratamento, em razão de seu plano de saúde não cobrir todas as despesas, demandaria análise da moldura fática delineada nos autos. Súmula 279. 4. Agravo regimental a que se nega provimento. (ARE nº 839.974/RS AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 22/05/2015)
+
+    DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SAÚDE. CONCESSÃO DE TRANSPORTE PARA REALIZAÇÃO DE CIRURGIA FORA DO MUNICÍPIO DE DOMICÍLIO. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. Hipótese em que a resolução da controvérsia demanda o reexame dos fatos e provas constantes dos autos. Súmula 279/STF. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973” (RE 634.955-AgR/RS, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 16/11/2017).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 9 de setembro de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
