@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FELIPE COHEN LEMOS BASTOS DE ASCENÇÃO, contra acórdão do Tribunal Regional Federal da 3ª Região.
+O Tribunal de origem deu provimento ao recurso em sentido estrito, em menor extensão, nos termos do voto médio do Desembargador Federal Nino Toledo, para conceder o salvo-conduto para produção artesanal da planta Cannabis sativa para fins exclusivamente terapêuticos, restando determinado que o paciente deve observar as seguintes ressalvas (fls. 28-71):
+"i) o salvo-conduto restringe-se à importação, ao plantio e ao cultivo domésticos (na residência do paciente), à extração artesanal de óleo e ao transporte desse óleo (em pequena quantidade), para uso exclusivo do paciente no seu tratamento médico;
+ii) são vedados o transporte de planta in natura e o uso recreativo da planta ou de qualquer produto dela derivado;
+iii) os insumos (sementes e plantas) e o óleo extraído não poderão ser cedidos em nenhuma hipótese a terceiras pessoas, a qualquer título (gratuito ou oneroso), sob pena de caracterizar-se o crime de tráfico de drogas;
+iv) os profissionais médicos que prescreveram o medicamento à base de Cannabis e os profissionais de agronomia que indicaram a quantidade de sementes e plantas necessárias para a extração do óleo devem ser comunicados desta decisão, a fim de que possam acompanhar os seus desdobramentos, em sendo o caso, no âmbito de suas responsabilidades profissionais;
+v) o paciente assume total responsabilidade sobre o uso do óleo de Cannabis que produzir de forma artesanal e dos efeitos colaterais que possa vir a ter, assim como da interação com outros medicamentos de que faça uso e quanto à segurança e à qualidade do produto;
+vi) é proibida a manutenção de número maior de plantas do que o expressamente previsto na recomendação constante do laudo apresentado pelo paciente, pelo que assume total responsabilidade;
+vii) é proibido estocar mais sementes do que o número previsto no referido laudo;
+viii) o paciente deverá manter as plantas em local não acessível ou visível a pessoas estranhas ao seu ambiente familiar, sendo inteiramente responsável pela sua guarda e segurança;
+ix) o paciente deve dar o descarte apropriado aos resíduos e sobras do cultivo das plantas e da produção do óleo, podendo fazer a compostagem caseira do restolho vegetal para formação de adubo a ser usado no próprio cultivo;
+x) ficam resguardados os poderes de fiscalização das instituições representadas pelas pessoas indicadas como autoridades coatoras, bem como da Anvisa e do Ministério da Saúde, bem como de oficiais de justiça designados pelo juízo impetrado, para verificação periódica (se necessário) do estrito cumprimento da ordem concedida;
+xi) o paciente responderá criminalmente por eventual abuso no exercício do salvo- conduto concedido. Esta ordem terá validade enquanto durar o tratamento médico indicado para o paciente ou até o momento em que haja no mercado brasileiro medicamento canabinoide produzido por indústria farmacêutica brasileira aprovado pela Anvisa (ou importado, com preço acessível), específico para esse tratamento, o que ocorrer primeiro. Em qualquer desses casos, as plantas cultivadas pelo paciente deverão ser destruídas."
+Irresignado, o impetrante argumenta que a autorização judicial concedida limitou-se ao uso e posse do óleo de Cannabis, tendo vedado expressamente o porte da planta in natura e a utilização de seus extratos, o que alega prejudicar o tratamento indicado pelo médico que o acompanha.
+Ademais, sustenta que o paciente precisaria de permissão para portar a Cannabis in natura e seus extratos para os momentos em que precisar se deslocar, em razão de seu trabalho ou em viagens. Assim, pugna pela concessão total da ordem para que seja expedido salvo-conduto autorizando o cultivo, posse e porte de Cannabis e seus extratos, conforme prescrição médica (fls. 02-17).
+A liminar foi indeferida (fls. 470-471).
+As informações das instâncias ordinárias foram prestadas (fls. 475-524).
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus (fls. 527-529).
+É o relatório. DECIDO.
+A controvérsia dos autos consiste no pedido de concessão integral do salvo-conduto, a fim de que seja autorizado o cultivo, posse e porte de Cannabis sativa e seus extratos, conforme prescrição médica juntada ao processo.
+Verifico que no voto médio proferido pelo Tribunal de origem foram determinadas ressalvas, o que ensejou na concessão do salvo-conduto em menor extensão.
+Em que pese constem no voto vencedor as restrições impostas ao paciente, entendo que não foi realizada uma análise específica da questão objeto de irresignação da defesa, o que impede o enfrentamento da matéria por esta Corte Superior, sob pena de indevida supressão de instância. Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENT AL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+3. Não há flagrante ilegalidade a ensejar a superação do óbice referente à supressão de instância, em razão da presença de indícios suficientes de autoria delitiva em desfavor do agravante, o qual, durante abordagem veicular, foi autuado em flagrante delito, no dia , na posse de 6,345 (seis quilos e trezentos e quarenta e cinco5/6/2009 gramas) de crack.
+4. Agravo regimental desprovido."
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT ), Sexta Turma, julgado em , D Je de , grifei.)
+Assim, na hipótese dos autos, o enfrentamento do mérito do writ ensejaria indevida supressão de instância e indicaria a possibilidade de a impetração se dar de modo originário perante o Superior Tribunal de Justiça, o que está fora das hipóteses previstas no art. 105, inciso I, alíneas "c", da Constituição.
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
