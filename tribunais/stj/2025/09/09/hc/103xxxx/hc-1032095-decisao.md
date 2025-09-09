@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOEL FELIPE CARDOSO - condenado por homicídio qualificado -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 0000201-42.2015.8.16.0164), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta pelo Juízo de Direito Vara Plenário do Tribunal do Júri da comarca de Teixeira Soares/PR, ao argumento de nulidade da instrução criminal por quebra da cadeia de custódia.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, a pretensão como colocada na impetração, de que sejam reanalisados os atos processuais e as provas produzidas no percurso da ação penal, para alcançar conclusão inversa do Juízo de conhecimento, importa em profunda incursão probatória, providência inviável na via estreita do habeas corpus.
+Ademais, conforme destacado pela Corte estadual, a prova impugnada foi produzida antes da inclusão do art. 158-B do CPP, referente à cadeia de custódia das provas, que entrou em vigor em 24.01.2020, por meio da Lei n. 13.964/19, editada em 24.12.2019. Desse modo, tendo em vista que vige o princípio tempus regit actum às normas processuais penais, não há que se falar em aplicação da cadeia de custódia como requerido pela Defesa (fl. 17).
+No mesmo sentido, em respeito ao princípio tempus regit actum, aparentemente, nem seria possível se falar em quebra da cadeia de custódia, por inobservância de dispositivos legais que não existiam à época (AgRg no RHC n. 174.357/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023).
+Por fim, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, pois os fundamentos em que se sustentam o acórdão a quo se encontram em harmonia com a jurisprudência atual do Superior Tribunal de Justiça.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. REVISÃO DA CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE. ALEGAÇÃO DE QUEBRA DA CADEIA DE CUSTÓDIA. PROVA COLHIDA ANTES DA LEI N. 13.964/2019. TEMPUS REGIT ACTUM. CONCLUSÃO INVERSA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. ACÓRDÃO A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
