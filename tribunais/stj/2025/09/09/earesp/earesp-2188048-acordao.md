@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL, por unanimidade, conhecer dos embargos de divergência e dar-lhes provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Maria Thereza de Assis Moura, Luis Felipe Salomão, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Og Fernandes e Mauro Campbell Marques.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+Direito processual civil. Embargos de divergência. Execução fiscal. Impenhorabilidade de valores inferiores a 40 salários mínimos. Reconhecimento de ofício pelo juiz. impossibilidade. tema n. 1.235 DO stj. Embargos providos.
+I. Caso em exame
+1. Embargos de divergência opostos contra acórdão que manteve decisão de impossibilidade de bloqueio de valor inferior a quarenta salários mínimos em execução fiscal, por se tratar de executado pessoa física.
+2. O Tribunal de origem manteve a decisão, alegando que a impenhorabilidade é matéria de ordem pública, podendo ser reconhecida de ofício pelo juiz.
+3. A embargante sustenta divergência sobre a possibilidade de reconhecimento de ofício da impenhorabilidade de valores inferiores a 40 salários mínimos, indicando precedentes para confronto analítico.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a impenhorabilidade de quantia inferior a 40 salários mínimos é matéria de ordem pública, podendo ser reconhecida de ofício pelo juiz.
+III. Razões de decidir
+5. A impenhorabilidade de quantia inferior a 40 salários mínimos não é matéria de ordem pública e não pode ser reconhecida de ofício pelo juiz, devendo ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos ou em sede de embargos à execução ou impugnação ao cumprimento de sentença, sob pena de preclusão.
+6. O Código de Processo Civil não autoriza que o juiz reconheça a impenhorabilidade prevista no art. 833, X, de ofício, atribuindo expressamente ao executado o ônus de alegar tempestivamente a impenhorabilidade do bem constrito.
+7. O acórdão embargado está em desacordo com a tese fixada no Tema n. 1.235 do STJ, que estabelece a necessidade de alegação pelo executado da impenhorabilidade.
+IV. Dispositivo e tese
+8 . Embargos de divergência providos.
+Tese de julgamento: "A impenhorabilidade de quantia inferior a 40 salários mínimos (art. 833, X, do CPC) não é matéria de ordem pública e não pode ser reconhecida de ofício pelo juiz, devendo ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos ou em sede de embargos à execução ou impugnação ao cumprimento de sentença, sob pena de preclusão".
+Dispositivos relevantes citados: CPC, arts. 833, 854, §§ 1º, 3º, I, e § 5º, 525, IV, e 917, II.
+Jurisprudência relevante citada: STJ, REsp n. 2.061.973/PR, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 2.10.2024.
+RELATÓRIO
+Trata-se de embargos de divergência opostos por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA) a acórdão prolatado pela Primeira Turma, assim ementado (fl. 181):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. BACENJUD. APLICAÇÕES FINANCEIRAS INFERIORES A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. POSSIBILIDADE DE RECONHECIMENTO DE OFÍCIO PELO JUIZ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 833, X, do CPC/2015, bem como da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis valores inferiores a 40 (quarenta) salários mínimos depositados em aplicações financeiras, de modo que, constatado que a parte executada não possui saldo suficiente, cabe ao juiz, independentemente da manifestação da parte interessada, indeferir o bloqueio de ativos financeiros ou determinar a liberação dos valores constritos, isso porque, além de as matérias de ordem pública serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor. Precedentes: AgInt no AREsp n. 2.149.064/PR, de minha relatoria, Primeira Turma, julgado em 24/10/2022, DJe de 28/10/2022; AgInt no AREsp n. 2.129.480/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/10/2022, DJe de 20/10/2022; e AgInt no AREsp n. 2.109.465/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/10/2022, DJe de 13/10/2022.
+2. Agravo interno do IBAMA a que se nega provimento.
+A embargante suscita divergência sobre a possibilidade de reconhecimento de ofício da impenhorabilidade de valores inferiores a 40 salários mínimos. Indica, para fins de confronto analítico, os seguintes paradigmas: REsp n. 1.800.272/RS, da Segunda Turma; REsp n. 1.986.106/DF, da Terceira Turma; e EAREsp n. 223.196/RS, da Corte Especial.
+Considerando que a divergência foi satisfatoriamente demonstrada, em juízo preliminar, admiti os embargos de divergência (fls. 264-265).
+A parte embargada não apresentou impugnação, conforme certidão de fl. 274.
+O Ministério Público Federal manifestou-se pelo provimento dos embargos de divergência (fls. 276-281).
+É o relatório.
+EMENTA
+Direito processual civil. Embargos de divergência. Execução fiscal. Impenhorabilidade de valores inferiores a 40 salários mínimos. Reconhecimento de ofício pelo juiz. impossibilidade. tema n. 1.235 DO stj. Embargos providos.
+I. Caso em exame
+1. Embargos de divergência opostos contra acórdão que manteve decisão de impossibilidade de bloqueio de valor inferior a quarenta salários mínimos em execução fiscal, por se tratar de executado pessoa física.
+2. O Tribunal de origem manteve a decisão, alegando que a impenhorabilidade é matéria de ordem pública, podendo ser reconhecida de ofício pelo juiz.
+3. A embargante sustenta divergência sobre a possibilidade de reconhecimento de ofício da impenhorabilidade de valores inferiores a 40 salários mínimos, indicando precedentes para confronto analítico.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a impenhorabilidade de quantia inferior a 40 salários mínimos é matéria de ordem pública, podendo ser reconhecida de ofício pelo juiz.
+III. Razões de decidir
+5. A impenhorabilidade de quantia inferior a 40 salários mínimos não é matéria de ordem pública e não pode ser reconhecida de ofício pelo juiz, devendo ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos ou em sede de embargos à execução ou impugnação ao cumprimento de sentença, sob pena de preclusão.
+6. O Código de Processo Civil não autoriza que o juiz reconheça a impenhorabilidade prevista no art. 833, X, de ofício, atribuindo expressamente ao executado o ônus de alegar tempestivamente a impenhorabilidade do bem constrito.
+7. O acórdão embargado está em desacordo com a tese fixada no Tema n. 1.235 do STJ, que estabelece a necessidade de alegação pelo executado da impenhorabilidade.
+IV. Dispositivo e tese
+8 . Embargos de divergência providos.
+Tese de julgamento: "A impenhorabilidade de quantia inferior a 40 salários mínimos (art. 833, X, do CPC) não é matéria de ordem pública e não pode ser reconhecida de ofício pelo juiz, devendo ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos ou em sede de embargos à execução ou impugnação ao cumprimento de sentença, sob pena de preclusão".
+Dispositivos relevantes citados: CPC, arts. 833, 854, §§ 1º, 3º, I, e § 5º, 525, IV, e 917, II.
+Jurisprudência relevante citada: STJ, REsp n. 2.061.973/PR, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 2.10.2024.
+VOTO
+O recurso tem origem em agravo de instrumento interposto contra decisão que, nos autos de execução fiscal, estabeleceu, de ofício, a impossibilidade de bloqueio de valor inferior a quarenta salários mínimos, por se tratar de executado pessoa física.
+O Tribunal a quo manteve a decisão, desafiando recurso especial, com preliminar de negativa de prestação jurisdicional e, no mérito, alegação de violação dos arts. 835, I, 854, §§ 3º, I, e 5º, 789 e 797 do CPC e art. 7º, II, 9º, 10 e 11, I, da Lei n. 6.830/1980.
+Inadmitido em juízo de prelibação, foi interposto agravo em recurso especial, do qual se conheceu para negar provimento ao recurso especial, ao fundamento de que "cabe ao juiz, independentemente da manifestação da interessada, indeferir o bloqueio de ativo financeiros ou determinar a liberação dos valores constritos, isso porque, além de as matérias de ordem públicas serem cognoscíveis de ofício, a impenhorabilidade em questão é presumida, cabendo ao credor a demonstração de eventual abuso, má-fé ou fraude do devedor". A decisão foi mantida pelo acórdão embargado, ao fundamento de que a impenhorabilidade é matéria de ordem pública, justificando-se sua apreciação de ofício pelas instâncias ordinárias.
+A divergência foi devidamente demonstrada.
+A matéria foi recentemente apreciada em recurso representativo da controvérsia (Tema n. 1.235), oportunidade em que se fixou a seguinte tese: "A impenhorabilidade de quantia inferior a 40 salários mínimos (art. 833, X, do CPC) não é matéria de ordem pública e não pode ser reconhecida de ofício pelo juiz, devendo ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos ou em sede de embargos à execução ou impugnação ao cumprimento de sentença, sob pena de preclusão".
+Confira-se a ementa do acórdão prolatado no REsp n. 2.061.973/PR:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. TEMA 1235/STJ. AÇÃO DE EXECUÇÃO FISCAL. DETERMINAÇÃO DE BLOQUEIO DE VALORES EM CONTAS DO EXECUTADO. AUSÊNCIA DE MANIFESTAÇÃO DO EXECUTADO. IMPENHORABILIDADE DE SALDO INFERIOR A 40 SALÁRIOS MÍNIMOS. RECONHECIMENTO DE OFÍCIO PELO JUIZ. IMPOSSIBILIDADE. ART. 833, X, DO CPC. REGRA DE DIREITO DISPONÍVEL QUE NÃO POSSUI NATUREZA DE ORDEM PÚBLICA. NECESSIDADE DE ALEGAÇÃO TEMPESTIVA PELO EXECUTADO. INTERPRETAÇÃO SISTEMÁTICA DOS ARTS. 833, 854, §§ 1º, 3º, I, E § 5º, 525, IV, E 917, II, DO CPC.
+1. Ação de execução fiscal, da qual foi extraído o presente recurso especial, interposto em 22/3/2023, concluso ao gabinete em 18/12/2023 e afetado ao rito dos repetitivos por acórdão publicado em 8/3/2024.
+2. O propósito recursal, nos termos da afetação do recurso ao rito dos repetitivos, é "definir se a impenhorabilidade de quantia inferior a 40 salários mínimos é matéria de ordem pública, podendo ser reconhecida de ofício pelo juiz" (Tema 1235/STJ).
+3. Na égide do CPC/1973, a Corte Especial deste STJ, nos EAREsp 223.196/RS, pacificou a divergência sobre a interpretação do art. 649, fixando que a impenhorabilidade nele prevista deve ser arguida pelo executado, sob pena de preclusão, afastando o entendimento de que seria uma regra de ordem pública cognoscível de ofício pelo juiz, sob o argumento de que o dispositivo previa bens "absolutamente impenhoráveis", cuja inobservância seria uma nulidade absoluta.
+4. O CPC/2015 não apenas trata a impenhorabilidade como relativa, ao suprimir a palavra "absolutamente" no caput do art. 833, como também regulamenta a penhora de dinheiro em depósito ou em aplicação financeira, prevendo que, após a determinação de indisponibilidade, incumbe ao executado, no prazo de 5 dias, comprovar que as quantias tornadas indisponíveis são impenhoráveis, cuja consequência para a ausência de manifestação é a conversão da indisponibilidade em penhora (art. 854, § 3º, I, e § 5º), restando, para o executado, apenas o manejo de impugnação ao cumprimento de sentença ou de embargos à execução (arts. 525, IV, e 917, II).
+5. Quando o legislador objetivou autorizar a atuação de ofício pelo juiz, o fez de forma expressa, como no § 1º do art. 854 do CPC, admitindo que o juiz determine, de ofício, o cancelamento de indisponibilidade que ultrapasse o valor executado, não havendo previsão similar quanto ao reconhecimento de impenhorabilidade.
+6. A impenhorabilidade prevista no art. 833, X, do CPC consiste em regra de direito disponível do executado, sem natureza de ordem pública, pois pode o devedor livremente dispor dos valores poupados em suas contas bancárias, inclusive para pagar a dívida objeto da execução, renunciando à impenhorabilidade.
+7. Assim, o Código de Processo Civil não autoriza que o juiz reconheça a impenhorabilidade prevista no art. 833, X, de ofício, pelo contrário, atribui expressamente ao executado o ônus de alegar tempestivamente a impenhorabilidade do bem constrito, regra que não tem natureza de ordem pública. Interpretação sistemática dos arts.
+833, 854, §§ 1º, 3º, I, e § 5º, 525, IV, e 917, II, do CPC.
+8. Fixa-se a seguinte tese, para os fins dos arts. 1.036 a 1.041 do CPC: "A impenhorabilidade de quantia inferior a 40 salários mínimos (art. 833, X, do CPC) não é matéria de ordem pública e não pode ser reconhecida de ofício pelo juiz, devendo ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos ou em sede de embargos à execução ou impugnação ao cumprimento de sentença, sob pena de preclusão".
+9. No recurso sob julgamento, o Juízo, antes de ouvir o executado, ao determinar a consulta prévia por meio do SISBAJUD, na forma do art. 854 do CPC, pré-determinou, de ofício, o desbloqueio de quantias que sejam inferiores a 40 salários mínimos, reconhecendo que qualquer saldo abaixo desse limite seria impenhorável, por força do art. 833, X, do CPC.
+10. Recurso especial conhecido e provido para reconhecer a possibilidade de bloqueio dos valores depositados em contas dos executados, ficando eventual declaração de impenhorabilidade, na forma do art. 833, X, do CPC, condicionada à alegação tempestiva pelos executados (arts. 854, § 3º, II, e 917, II, do CPC). (REsp n. 2.061.973/PR, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 2/10/2024, DJe de 7/10/2024.)
+Tratando-se, portanto, de idêntica controvérsia à do Tema n. 1.235 do STJ e estando o acórdão embargado em desacordo com a tese fixada pela Corte Especial no precedente qualificado, merecem provimento os embargos de divergência.
+Ante o exposto, dou provimento aos embargos de divergência.
+É o voto.
