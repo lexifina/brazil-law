@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO CEZAR DA SILVA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que manteve a condenação do recorrente pela prática do delito tipificado no art. 334, § 1º, IV, do Código Penal (descaminho), à pena de 1 (um) ano de reclusão, em regime inicial aberto, substituída por uma restritiva de direitos (e-STJ fls. 618-620). O acórdão foi assim ementado:
+"APELAÇÃO CRIMINAL. ART. 334, § 1º, IV, DO CP . DESCAMINHO. PRELIMINAR. FUNDADA SUSPEITA. PRESENÇA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPETÊNCIA PARA ANÁLISE. JUÍZO DA EXECUÇÃO. PREQUESTIONAMENTO 1. As abordagens efetivadas por agentes estatais incumbidos, por dever de ofício, da repressão penal, consistem em atos administrativos voltados à garantia da segurança e da ordem pública e, por prevalecer o interesse público sobre o particular, legitimam o poder de polícia mediante a execução da atividade  scalizatória para a veri cação de crimes, sobretudo quando houver fundada suspeita de sua ocorrência. 2. O pedido de concessão da assistência judiciária gratuita deve ser submetido ao Juízo da Execução, a quem cabe examinar a situação  nanceira do executado e  xar as condições para adimplemento das custas e despesas do processo, inclusive, eventual possibilidade de parcelamento. 3. Não se revela necessária a abordagem expressa dos dispositivos legais e/ou constitucionais no julgado para o  m de prequestionamento, bastando o exame da matéria reputada pertinente para embasar a decisão."
+O recorrente foi condenado em primeira instância pela prática do crime de descaminho (art. 334, § 1º, IV, do Código Penal). A pena aplicada totalizou 1 ano de reclusão, em regime inicial aberto, substituída por uma pena restritiva de direitos.
+Inconformada, a defesa interpôs o presente recurso especial, no qual alega violação aos arts. 157, caput e § 1º, 240, § 2º, e 244, todos do Código de Processo Penal, sustentando, em síntese, a nulidade das provas obtidas mediante busca veicular, porquanto a abordagem policial não estaria amparada em fundada suspeita, mas em justificativas genéricas e abstratas, como a fiscalização de rotina em região de fronteira (e-STJ fls. 628-640).
+Contrarrazões apresentadas pugnando pela inadmissão do recurso, ante a incidência das Súmulas 7 e 83 do STJ, e, no mérito, pelo seu desprovimento (e-STJ fls. 647-671).
+O Ministério Público Federal manifestou-se da seguinte forma (e-STJ fls. 687-692):
+"RECURSO ESPECIAL. ART. 334, § 1º, IV, DO CP. DESCAMINHO. NULIDADE DA BUSCA VEICULAR EFETUADA. INOCORRÊNCIA. FUNDADAS SUSPEITAS. CIRCUNSTANCIAS CONCRETAS AFERIDAS PELAS INSTÂNCIAS DE ORIGEM. LEGALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MÉRITO. ABORDAGEM DEVIDAMENTE JUSTIFICADA. EXERCÍCIO REGULAR DA ATIVIDADE DE SEGURANÇA PÚBLICA.
+Parecer pelo não conhecimento do recurso especial e, se conhecido, pelo seu desprovimento."
+Em sua conclusão, o Parquet Federal sustenta que a pretensão recursal esbarra no óbice da Súmula 7/STJ e que, no mérito, a abordagem policial encontra-se devidamente fundamentada em circunstâncias concretas que justificaram a atuação estatal.
+É o relatório. Decido.
+O recurso não merece provimento.
+No presente recurso especial, a defesa sustenta a tese de violação ao art. 244 do Código de Processo Penal, porque não haveria fundada suspeita apta a legitimar a ação policial. O acórdão recorrido, no entanto, delimitou o seguinte quadro fático:
+"A abordagem policial foi respaldada por indícios concretos que a justificaram, como a elevada incidência de delitos amplamente reconhecida e comprovada, envolvendo o transporte de drogas ou produtos importados irregularmente do Paraguai em veículos provenientes da região de fronteira. Assim, a ação ocorreu em um contexto que justificava imediata intervenção, característica típica de uma abordagem policial, demonstrando que a medida foi adequada e necessária." (e-STJ fls. 619).
+Constata-se, portanto, que a busca veicular não decorreu de mera impressão subjetiva dos agentes policiais, mas de circunstâncias objetivas relacionadas ao local da abordagem - uma conhecida rota para a prática de crimes transfronteiriços -, o que se insere no legítimo exercício do poder de polícia do Estado.
+De fato, a jurisprudência do egrégio Superior Tribunal de Justiça é no sentido de que a fiscalização de rotina em locais de notória incidência de delitos constitui elemento idôneo para caracterizar a fundada suspeita e justificar a busca pessoal e veicular.
+Nesse sentido, a jurisprudência desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. BUSCA VEICULAR EM FISCALIZAÇÃO DE ROTINA. POLÍCIA RODOVIÁRIA FEDERAL. FUNDADA SUSPEITA. LEGITIMIDADE DA ABORDAGEM. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+ ..
+3. A abordagem veicular ocorreu em contexto de fiscalização rotineira voltada à identificação de veículos clonados, com base em critérios objetivos e respaldada no poder de polícia da Polícia Rodoviária Federal.
+4. A atuação dos policiais foi motivada por elementos concretos:
+ausência de CNH do condutor, uso de carteira de trabalho como identificação, e registro de antecedentes criminais relacionados à clonagem de veículos.
+5. A jurisprudência do STJ reconhece a validade de abordagens em fiscalizações rotineiras quando há indícios objetivos de irregularidades, nos termos do art. 244 do CPP.
+6. A revisão do julgado demandaria reexame de matéria fático-probatória, providência incompatível com a via estreita do habeas corpus.
+7. A decisão agravada está em consonância com precedentes do STJ que reconhecem como legítima a busca veicular em situações semelhantes, nas quais há fundadas suspeitas baseadas em dados objetivos e atuação regular da autoridade policial. IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+ .. "
+(AgRg no HC n. 995.767/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. CONTRABANDO DE CIGARROS IMPORTADOS. BUSCA VEICULAR. LICITUDE DA PROVA. REGIÃO FRONTEIRIÇA. DESNECESSIDADE DE LAUDO MERCEOLÓGICO. EXISTÊNCIA DE PROVA INDIRETA. AGRAVO DESPROVIDO.
+ ..
+4. A busca veicular foi considerada lícita, pois realizada em contexto de fiscalização de rotina em região de fronteira, onde há prevalência do interesse público na repressão à criminalidade.
+5. A atuação policial foi objetivamente fundamentada, sem indícios de perfilamento ou seleção subjetiva, atendendo aos requisitos do art. 244 do Código de Processo Penal.
+ .. "
+(AgRg no AREsp n. 2.762.687/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Isso quer dizer que o Tribunal de origem, soberano no exame dos fatos e das provas, concluiu que o contexto fático revelava para os agentes policiais uma situação que justificava a intervenção, não como um ato arbitrário, mas como uma medida proativa de prevenção de delitos, em conformidade com as diretrizes de atuação policial. A fiscalização em área de fronteira, reconhecida pela alta incidência de crimes de descaminho e contrabando, configura um cenário objetivo que legitima a abordagem, não havendo que se falar em nulidade da prova obtida.
+Esse contexto demonstra que havia justa causa e que os policiais agiram no estrito cumprimento de seu dever legal. O combate ao ingresso irregular de mercadorias em território nacional é uma das atribuições das forças de segurança que atuam nas fronteiras, e a fiscalização de veículos em tais locais é ferramenta essencial para esse fim.
+Dessa forma, estando o acórdão recorrido em harmonia com a jurisprudência desta Corte Superior, a manutenção da condenação é medida que se impõe.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+EMENTA
