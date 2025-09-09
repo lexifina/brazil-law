@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de IZAEL ALVES CORREIA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 8 anos, 2 meses e 12 dias de reclusão no regime fechado e de 19 dias-multa, como incurso nas sanções do art. 158, § 1º, do CP, tendo sido negado o direito de recorrer em liberdade.
+A impetrante sustenta que o paciente encontra-se preso há 1 ano e 2 meses na Penitenciária da Polícia Civil - PPC, o que configuraria excesso de prazo para uma prisão de natureza cautelar, especialmente considerando que a condenação estaria baseada em provas frágeis e viciadas.
+Sustenta que a prisão preventiva carece de fundamentação idônea, pois não há elementos concretos e contemporâneos que justifiquem a medida extrema, em afronta ao art. 312 do Código de Processo Penal.
+Aduz a quebra da cadeia de custódia, pois a principal prova utilizada na condenação, capturas de tela de conversas de WhatsApp, teria sido produzida unilateralmente pela vítima, sem a devida apreensão e perícia do aparelho, violando o art. 158-A e seguintes do Código de Processo Penal.
+Afirma ainda que a vítima expressou incerteza sobre a autoria do áudio atribuído ao paciente e que a conduta descrita pela vítima descaracterizaria a grave ameaça contínua, elemento essencial do tipo penal de extorsão.
+Destaca que o paciente é primário, possui bons antecedentes e residência fixa, e que a manutenção da prisão foi fundamentada apenas na gravidade abstrata do delito, o que seria insuficiente para justificar a medida cautelar, conforme jurisprudência do Superior Tribunal de Justiça.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Em relação à manutenção da prisão preventiva, assim constou na sentença condenatória (fl. 606, grifei):
+Diante das circunstâncias fáticas e a gravidade em concreto da condenação, não concedo aos réus o direito de recorrerem em liberdade.
+Não alterados os fundamentos que ensejam a decretação da PRISÃO PREVENTIVA, mantenho-a em relação ao réu IZAEL. Recomenda-se o réu à unidade prisional, ressalvadas eventuais transferências por ocasião da perda do cargo público ou pelo trânsito em julgado da sentença condenatória.
+Assim constou do acórdão de apelação (fl. 32, grifei):
+O réu IZAEL ALVES CORREIA permaneceu preso no curso do processo e inalterada a situação processual, persistindo os motivos que ensejaram a prisão cautelar, presentes os pressupostos do art. 312 do Código de Processo Penal, expeça-se o mandado de prisão.
+Acerca do assunto, esta Corte Superior fixou entendimento de que:
+ ..  a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+Nesse contexto, não há falar em ilegalidade a ser sanada, sobretudo porquanto, na sentença, o magistrado ressaltou que persistem os motivos que autorizaram a decretação da prisão preventiva.
+Ressalte-se que os fundamentos do decreto prisional já foram anteriormente apreciados pelo Superior Tribunal de Justiça nos autos do RHC n. 204.116/SP, o qual foi im provido, tendo sido certificado o trânsito em julgado em 24/9/2024, não devendo a matéria ser novamente analisada.
+Por outro lado, quanto às alegações de quebra da cadeia de custódia da prova, excesso de prazo e ausência de elementos contemporâneos para a prisão, destaca-se que o Tribunal de origem não as examinou, circunstância que inviabiliza o exame das questões pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
