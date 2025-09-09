@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DEIVID LUIZ DOS SANTOS apontando como autoridade coatora o Tribunal de Justiça de Santa Catarina (Embargos Infringentes e de Nulidade n. 5005162-10.2024.8.24.0064).
+Consta dos autos que o paciente foi preso preventivamente em 23/02/2024, por suposta infração ao art. 4º, "a", da Lei n. 1.521/1951 e aos arts. 158, § 1º, e 288, caput, ambos do Código Penal. Ao final da instrução, o réu foi condenado à pena de 11 anos e 4 dias de reclusão, em regime inciial fechado e a 1 ano e 7 dias de detenção, em regime semiaberto.
+Irresignados, tanto a defesa como o Ministério Público interpuseram recurso de apelação, sendo o apelo ministerial provido, para afastar a litispendência e reconhecer a competência por continência da comarca de São José quanto ao delito apurado nos autos n. 5007454-79.2022.8.24.0082, em trâmite na comarca da Capital, e, por consequência, cassar a sentença combatida.
+Contra o referido acórdão, a defesa opôs embargos infringentes que pende de julgamento perante a Corte a quo. A defesa, então, apresentou petição ao relator dos embargos requerendo o relaxamento da prisão preventiva por excesso de prazo.
+O Desembargador relator indeferiu o pleito defensivo (e-STJ fls. 19/22).
+Daí o presente writ, em que a defesa alega excesso de prazo na formação da culpa, argumentando que, com o julgamento da apelação e a consequente cassação da sentença condenatória, o processo retornou à fase de instrução sem previsão de nova audiência ou sentença, encontrando-se paralisado.
+Sustenta que foram interpostos embargos infringentes, os quais ainda aguardam julgamento, sem previsão concreta.
+Ressalta que, diante da cassação da sentença, o paciente voltou à condição de processado sem julgamento de mérito, de modo que não se justifica a manutenção da prisão cautelar por tanto tempo.
+Aduz, ainda, que o paciente possui endereço fixo, atividade lícita e vínculos familiares sólidos, de modo que sua liberdade não representaria risco à ordem pública ou à regular tramitação do processo.
+Diante disso, requer o relaxamento ou a revogação da prisão preventiva, com eventual aplicação de medidas cautelares diversas.
+É o relatório. Decido.
+Na hipótese, conforme relatado, verifica-se que a defesa impugna decisão singular de Desembargador, que, de acordo com os autos, sequer foi impugnada pela via do agravo regimental.
+Nessa linha de intelecção, destaca-se que a ausência de decisão colegiada inviabiliza o conhecimento de habeas corpus impetrado diretamente perante o Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte. No ponto, o art. 105, inciso I, alínea "c", da Carta Magna dispõe que compete a este Tribunal Superior processar e julgar habeas corpus quando o coator for Tribunal sujeito a sua jurisdição.
+Sobre o não cabimento de habeas corpus nas hipóteses em que não há o exaurimento da instância originária, segue a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. WRIT IMPETRADO ANTE DECISÃO DO RELATOR QUE NÃO CONHECEU DO RECURSO INTERPOSTO NA ORIGEM. FALTA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. INCOMPETÊNCIA DO STJ. AGRAVO DESPROVIDO.
+1. Não constitui ofensa ao principio da colegialidade a análise monocrática do habeas corpus pelo relator quando a decisão monocrática for proferida com base na jurisprudência dominante deste Superior Tribunal. Precedentes.
+2. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador relator que não conheceu do recurso interposto perante o Tribunal a quo (precedentes).
+3. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes).
+4. Agravo regimental a que se nega provimento. (AgRg no 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/3/2018)
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR. NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido (AgRg no HC 401.079/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 5/12/2017, DJe de 12/12/2017)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
