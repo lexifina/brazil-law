@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VINICIUS MARTINS DOMINGUES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1513509-31.2023.8.26.0320).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, pela prática do delito capitulado no art. 33 da Lei 11.343/2006.
+Sustenta a ilicitude da prova por violação de domicílio, alegando que a entrada forçada na residência do paciente foi ilegal, pois a mera fuga do indivíduo ao avistar a polícia não constitui fundada razão para autorizar o ingresso em domicílio sem mandado judicial.
+Afirma que o paciente, primário e portador de bons antecedentes, faz jus à causa de diminuição de pena do tráfico privilegiado, afastada pelas instâncias ordinárias com base na quantidade de droga apreendida.
+Aduz ainda a ilegalidade do regime fechado, argumentando que a fixação do regime inicial fechado com base unicamente na hediondez abstrata do delito de tráfico contraria as Súmulas 718 e 719 do STF.
+Requer, assim, liminarmente, a suspensão do trâmite processual até o julgamento definitivo do habeas corpus.
+No mérito, requer a concessão da ordem para: (a) reconhecer a ilegalidade da busca e apreensão realizada pelos policiais sem autorização e, consequentemente a ilicitude das provas obtidas por meio desta medida; (b) reconhecer o tráfico privilegiado, aplicando-se a redução máxima de pena prevista no art. 33, § 4º, da Lei 11.343/2006; e (c) fixar um regime prisional compatível com a pena aplicada, bem como para substituir a pena privativa de liberdade por penas restritivas de direito.
+Liminar indeferida às fls. 623/624.
+Informações prestadas às fls. 630/ 632 e 635/675.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 677/683).
+É o relatório.
+O presente writ é manifestamente inadmissível.
+No caso, o acórdão ora atacado foi impugnado por meio de recurso especial,
+com alegação de violação do art. 5º, XI, da Constituição Federal, do art. 157 do CPP, do art. 33, § 4º, da Lei n. 11.343/2006, e do art. 33, § 2º, b, do CP, defendendo a tese de que houve violação de domicílio e de que é devido o reconhecimento da minorante do tráfico privilegiado. Inadmitido na origem, adveio o AREsp n. 2.901.937/SP, que não foi conhecido e, interposto Agravo em Recurso Extraordinário, o qual se encontra em trâmite no Supremo Tribunal Federal.
+Agora, foi impetrado o presente writ, versando sobre os temas objeto do recurso especial. Nesse cenário, viola-se o princípio da unirrecorribilidade das decisões e fica evidente a reiteração de pedidos, o que não encontra amparo na jurisprudência desta Casa.
+Com efeito, a violação do princípio da unirrecorribilidade não se restringe unicamente aos casos de tramitação simultânea de recursos e habeas corpus contra o mesmo ato. À exceção da interposição conjunta de recurso especial e extraordinário, que obedece a regramento próprio, verifica-se a ofensa ao referido princípio quando única decisão ou acórdão é impugnado por duas vias distintas (AgRg no HC n. 824.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/10/2024). Ademais, configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ (AgRg no HC n. 444.220/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/5/2018).
+No mesmo sentido, por exemplo: AgRg no HC n. 765.097/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 6/3/2024.
+Afora isso, não vislumbro a existência de ilegalidade flagrante.
+Quanto à nulidade aventada, primeiramente, verifico que tal tema não comporta conhecimento, pois configura reiteração de pedido formulado no HC n. 886.898/SP, impetrado anteriormente a este habeas corpus.
+Embora se voltem contra acórdãos originários distintos, ambos os feitos alegam violação de domicílio na Ação Penal n. 1513509-31.2023.8.26.0320, apresentando a mesma causa de pedir e pedido.
+Vale ressaltar que não houve indicação, pela defesa, de nenhum fato superveniente capaz de modificar qualquer conclusão obtida na decisão que julgou o pedido liminar no HC n. 886.898/SP.
+Assim, estamos diante de indevida reiteração de pedido que, diga-se novamente, já foi enfrentado. Confiram-se os seguintes julgados: AgRg no RHC n. 164.556/CE, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 9/8/2022; e RCD no HC n. 742.105/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/6/2022.
+Por outro lado, ainda que assim não fosse, no caso, não há irregularidade na busca feita pelos policiais, uma vez que o paciente, na posse de uma sacola, fugiu ao avistar os policiais, o que levou que os policiais o perseguissem. Além disso, o paciente dispensou a sacola no chão de um quintal, que continha 1.201 invólucros contendo cocaína e 910 porções de crack.
+Portanto, as circunstâncias que antecederam o ingresso dos agentes de polícia evidenciaram de maneira objetiva a probabilidade de ocorrência de crime permanente, de modo a excepcionar a garantia constitucional de inviolabilidade do domicílio.
+Quanto à minorante do tráfico privilegiado, não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias afastaram o redutor com fundamento na expressiva quantidade de drogas apreendidas, sua reconhecida nocividade, somadas às peculiaridades do caso, que contou com, também, com a apreensão de considerável importância em dinheiro, não justificada, além de caderno com anotações típicas do comércio espúrio, estão a demonstrar que não era mesmo caso de aplicação da benesse da lei especial, sendo clara demonstração de que se dedicava, o indigitado, a atividade criminosa ou de que atuava em organização criminosa (fls. 21/22).
+A combinação de elementos concretos dos autos, consistentes na apreensão de relevante quantidade de droga (340 g de cocaína 360g de crack), somada a vultosa quantidade em dinheiro em espécie (R$ 900,00) e um caderno contendo anotações do tráfico, são circunstâncias capazes de denotar a dedicação a atividades criminosas.
+A propósito: AgRg no AREsp n. 2.314.904/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/8/2023, DJe de 21/8/2023 e AgRg no HC n. 788.411/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023.
+Ademais, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do habeas corpus.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. REITERAÇÃO DE PEDIDO. INADMISSIBILIDADE. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. REITERAÇÃO DE WRIT ANTERIOR. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO COM BASE EM ELEMENTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL. AUSÊ NCIA.
+Ordem denegada.
