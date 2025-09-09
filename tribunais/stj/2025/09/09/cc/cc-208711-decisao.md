@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de conflito negativo de competência envolvendo o JUÍZO FEDERAL DA 1ª VARA CÍVEL E CRIMINAL DE SETE LAGOAS - SJ/MG (suscitante) e o JUÍZO DE DIREITO DA 3ª VARA CRIMINAL E TRIBUNAL DO JURI DE SETE LAGOAS - MG (suscitado).
+Colhe-se dos autos que o Juízo suscitado declinou da competência ao fundamento de se tratar de furto de dormentes de trilho de ferrovia pertencente ao DNIT, o que determinaria a competência da Justiça Federal para processo e julgamento do feito.
+Por sua vez, fundamentou o suscitante (fls. 606-608, grifos no original):
+Cuida-se de Inquérito Policial instaurado a partir de Auto de Prisão em Flagrante Delito lavrado em desfavor de Fábio Henrique Teixeira dos Santos, Flávio Pires de Oliveira, Isaías Batista dos Santos, Thiago Rodrigues de Oliveira e Wagner Luís de Oliveira Brandão, na data de 24/08/2022, pela suposta prática do crime de furto, previsto no art. 155, §4º, IV, do Código Penal.
+A 3ª Vara Criminal da Comarca de Sete Lagoas proferiu decisão nos autos do APFD n. 1000184-71.2022.4.06.3812 declinando da competência em face desta Subseção Judiciária (ID 1320591389, págs. 03/05).
+Na decisão de ID1320591389 (págs. 24/28), prolatada no APFD, foi fixada provisoriamente a competência da Justiça Federal, homologado o flagrante e concedida liberdade provisória sem fiança aos autuados.
+O MPF requereu declínio da competência para a Justiça Estadual, com encaminhamento dos autos ao Juízo da Comarca de Sete Lagoas/MG (ID 1506832875).
+Despacho proferido nos autos n. 1002996-52.2023.4.06.3812 deferiu requerimento do MPF e determinou que fosse trasladada cópia integral dos autos para o presente inquérito, em face de versarem sobre os mesmos fatos (ID 1537943363, pág. 7).
+É a síntese do necessário. Decido.
+A competência da Justiça Federal para processamento e julgamento de crimes está prevista nos arts. 108 e 109, ambos da CRFB, exigindo-se que o dano atinja interesse direto e específico da União, de suas entidades autárquicas ou de empresas públicas ou que cause reflexos em âmbito regional ou nacional.
+No caso em apreço, consta do APFD n. 1000184-71.2022.4.06.3812 que, durante patrulhamento na zona rural do município de Sete Lagoas/MG, na região da estrada da Granja Barreirinho, próximo ao Sítio Bodoque, a 10 (dez) metros de uma ferrovia, equipe da Polícia Militar de Minas Gerais se deparou com 27 (vinte e sete) barras de trilhos cortadas com maçaricos, 11 (onze) dormentes de madeira e 1 (um) cilindro de oxigênio. Após 1 (uma) hora de espera, os investigados retornaram pela linha férrea e foram abordados e presos em flagrante delito.
+A ANTT (Agência Nacional de Transportes Terrestres) na ID 1502809383 (págs. 12/19), em resposta a ofício expedido pela Polícia Federal, informou que:
+2. Considerando que o trecho ferroviário que corta o município de Sete Lagoas/MG é o trecho Capitão Eduardo - Monte Azul, que se encontra operacional, configura-se, portanto, obrigação contratual da Concessionária Ferrovia Centro-Atlântica S/A a adoção de medidas e ações adequadas visando a segurança operacional, bem como zelar pela integridade dos bens vinculados à Concessão, inclusive a faixa de domínio ferroviária.
+3. Desta forma, com a finalidade de melhor atender o pleito foi encaminhado à Ferrovia Centro Atlântica o Ofício 1391/2024/MG/ESFER -BHZ/MG/COFER/GECOF/SUFER/DIR-ANTT, em 16 de janeiro de 2024, solicitando informações sobre a roubo acima citado. Em 01 de fevereiro de 2024, a FCA, através da Carta nº 075. VLIREG.24, encaminhou resposta ao ESFER/BHZ-MG relatando o ocorrido e informando que foram subtraídos do local 27 barras de trilhos, de 2,5 metros, e 58 dormentes, gerando um prejuízo estimado de R$ 192.408,75.
+4. Importante frisar que não há de se falar em nem prejuízo financeiro a ser suportado para o DNIT ou União, uma vez que a Concessionária Ferrovia Centro- Atlântica S/A é responsável contratualmente pela guarda, zelo, manutenção e conservação dos bens públicos vinculados à prestação do serviço público de transporte ferroviário de cargas realizado no trecho.
+Assim, considerando que foi informado que os materiais furtados não geraram prejuízo financeiro a ser suportado pelo DNIT ou União, pois o trecho onde estavam os materiais pertence, por força de contrato, à Concessionária Ferrovia Centro-Atlântica S. A, há que se reconhecer a incompetência da Justiça Federal para processar e julgar o feito.
+Em contexto muito semelhante ao que se apresenta nestes autos, o Superior Tribunal de Justiça, analisando o Conflito de Competência n. 122.518/GO, assim decidiu:
+PENAL. CONFLITO DE COMPETÊNCIA. CRIME DE FURTO DE TRILHOS. EMPRESA FERROVIÁRIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INTERESSE DA UNIÃO. NÃO EXISTÊNCIA. PREJUÍZO SUPORTADO PELA EMPRESA PRIVADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. 1. Compete à Justiça estadual processar e julgar ação penal instaurada em decorrência de furto de bens pertences à sociedade anônima concessionária de serviço público, porquanto o ato não foi praticado "em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas" (CR, art. 109, inc. IV). 2. Conflito conhecido para declarar a competência do Juízo de Direito da Comarca de Silvânia/GO, ora suscitado. (CC n. 122.518/GO, relator Ministro Newton Trisotto (Desembargador convocado do TJSC), Terceira Seção, j. em 10/12/2014, DJe de 16/12/2014.)
+No mesmo sentido da decisão supra, são os seguintes julgados: RHC n. 173.701, Ministro Sebastião Reis Júnior, DJe de 23/11/2022; CC n. 190.145, Ministro Rogerio Schietti Cruz, DJe de 15/08/2022.
+Desse modo, não verificadas quaisquer das hipóteses do art. 109 da CRFB, este Juízo Federal não tem competência para processar e julgar o presente feito.
+Isso posto, suscito conflito negativo de competência perante o Colendo Superior Tribunal de Justiça (art. 105, I, "d", CRFB), com fundamento no art. 113 e seguintes do Código de Processo Penal.
+Oficie-se ao Superior Tribunal de Justiça, com cópia do inteiro teor do feito, para resolução do conflito, promovendo-se a sua suspensão até a decisão da Colenda Corte.
+Traslade-se cópia da presente decisão para os autos n. 1000184-71.2022.4.06.3812.
+Decisão publicada e registrada eletronicamente. Intimem-se.
+Sete Lagoas, data da assinatura digital.
+O Ministério Público Federal opinou pelo conhecimento do conflito a fim de declarar competente o Juízo de Direito da 3ª Vara Criminal e Tribunal do Júri da Comarca de Sete Lagoas - MG, suscitado (fls. 616-619).
+É o relatório.
+Tratando-se de conflito entre juízes vinculados a tribunais diversos, conheço do incidente, nos termos do art. 105, I, d, da Constituição Federal.
+Cinge-se a controvérsia a definir qual o juízo competente para processo e julgamento do feito referente a furto de materiais de ferrovia.
+Conforme verificado nos autos, não há na prática indicada prejuízo a bens ou ao patrimônio da União ou a autarquia federal, pois os bens que teriam sido furtados são de responsabilidade e vinculados a concessionária do serviço público concedido, pessoa jurídica de direito privada que suportará eventual prejuízo da prática delituosa, de modo que não há falar em competência da Justiça Federal, no caso.
+A propósito:
+PENAL. CONFLITO DE COMPETÊNCIA. CRIME DE FURTO DE TRILHOS. EMPRESA FERROVIÁRIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INTERESSE DA UNIÃO. NÃO EXISTÊNCIA. PREJUÍZO SUPORTADO PELA EMPRESA PRIVADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Compete à Justiça estadual processar e julgar ação penal instaurada em decorrência de furto de bens pertences à sociedade anônima concessionária de serviço público, porquanto o ato não foi praticado "em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas" (CR, art. 109, inc. IV).
+2. Conflito conhecido para declarar a competência do Juízo de Direito da Comarca de Silvânia/GO, ora suscitado.
+(CC n. 122.518/GO, relator Ministro Newton Trisotto - Desembargador convocado do TJSC, Terceira Seção, julgado em 10/12/2014, DJe de 16/12/2014, grifei.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. TENTATIVA DE FURTO DE BARRAS DE FERRO DE TRILHO DE TREM, COMETIDO, EM TESE, CONTRA EMPRESA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INEXISTÊNCIA DE PREJUÍZO A BENS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Na hipótese de concessão de serviço público, os bens pertencem à própria empresa concessionária, que explora o serviço em nome próprio, cabendo à União apenas regular e fiscalizar a respectiva prestação.
+2. Portanto, compete à Justiça Estadual processar e julgar o crime de tentativa de furto cometido contra a América Latina Logística S.A. - ALL, empresa privada concessionária de serviço público, haja vista a inexistência de prejuízo a bens ou interesses da União.
+Precedentes do STJ.
+3. Conflito conhecido para declarar competente o Juízo de Direito de Pitangueiras/SP, o suscitante.
+(CC n. 127.417/SP, relatora Ministra Alderita Ramos de Oliveira - Desembargadora convocada do TJPE, Terceira Seção, julgado em 22/5/2013, DJe de 29/5/2013, grifei.)
+Em igual sentido, a seguinte decisão monocrática: CC n. 210.380/SP, relator Ministro Joel Ilan Paciornik, DJEN de 26/3/2025.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 3ª VARA CRIMINAL E TRIBUNAL DO JURI DE SETE LAGOAS - MG (suscitado).
+Publique-se. Intimem-se.
+Dê-se ciência aos Juízes em conflito.
+ EMENTA
