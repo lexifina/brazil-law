@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/09/2025 a 09/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+Direito processual civil. Agravo interno. Embargos de divergência. Requisitos formais. Agravo INTERNO desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que indeferiu liminarmente os embargos de divergência por ausência de comprovação do dissenso jurisprudencial, devido à não juntada do inteiro teor do acórdão paradigma.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de juntada do inteiro teor do acórdão paradigma nos embargos de divergência constitui vício sanável, permitindo a complementação documental após a interposição do recurso.
+III. Razões de decidir
+3. O STJ possui entendimento consolidado de que os embargos de divergência exigem a demonstração da divergência nos termos do § 4º do art. 1.043 do CPC e do § 4º do art. 266 do RISTJ, sendo a juntada do inteiro teor do acórdão paradigma imprescindível.
+4. A indicação do Diário da Justiça ou de publicação no site do STJ não supre a necessidade de apresentação do inteiro teor do julgado, que deve incluir ementa, relatório, voto e certidão de julgamento.
+5. A jurisprudência do STJ não admite a correção do vício de ausência de juntada do inteiro teor do acórdão paradigma após a interposição dos embargos de divergência.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "A ausência de juntada do inteiro teor do acórdão paradigma nos embargos de divergência constitui vício substancial, não passível de correção após a interposição do recurso".
+Dispositivos relevantes citados: CPC, art. 1.043, § 4º; RISTJ, art. 266, § 4º.
+Jurisprudência relevante citada: STJ, AgInt nos EAREsp 1.786.880/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 1º/6/2023; STJ, AgRg nos EAREsp 2.002.287/DF, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 27/6/2023.
+RELATÓRIO
+Trata-se de agravo interno interposto por ÁGUAS DE PENHA SANEAMENTO SPE S.A. contra julgado da Presidência que, com amparo no art. 21-E, V, c/c o art. 266-C, do Regimento Interno do Superior Tribunal de Justiça, indeferiu liminarmente os embargos de divergência por não ter sido comprovado o dissenso jurisprudencial nos termos legais e regimentais, uma vez que a embargante não juntara aos autos o inteiro teor do acórdão paradigma.
+A parte agravante sustenta que a decisão agravada viola o princípio da primazia da decisão de mérito, o dever de cooperação processual e o dever de permitir a superação de vício formal ou a complementação da documentação exigível, conforme o art. 4º do CPC. Afirma que o acesso à justiça implica a obtenção de pronunciamento de mérito capaz de satisfazer o direito material postulado, conforme art. 6º do CPC. Alega que o art. 317 do CPC impõe ao juiz conceder à parte oportunidade para corrigir o vício antes de proferir decisão sem resolução de mérito. Adiciona que o art. 932, parágrafo único, do CPC impõe ao relator o dever de criar oportunidade para que o recorrente supere qualquer vício formal ou complemente a documentação exigível antes de proferir decisão de inadmissão. Afirma que foi devidamente demonstrado o dissídio jurisprudencial.
+Requer o provimento do presente agravo interno, para que seja reformada a decisão monocrática que indeferiu liminarmente os embargos de divergência, reconhecendo-se que a ausência de juntada do inteiro teor do acórdão paradigma constitui vício sanável, suprido com o presente recurso através da juntada do documento exigido, nos termos do art. 932, parágrafo único, do CPC e, em consequência, o regular processamento dos embargos de divergência.
+Não foram apresentadas contrarrazões, conforme a certidão às fls. 747 e 748.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno. Embargos de divergência. Requisitos formais. Agravo INTERNO desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que indeferiu liminarmente os embargos de divergência por ausência de comprovação do dissenso jurisprudencial, devido à não juntada do inteiro teor do acórdão paradigma.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de juntada do inteiro teor do acórdão paradigma nos embargos de divergência constitui vício sanável, permitindo a complementação documental após a interposição do recurso.
+III. Razões de decidir
+3. O STJ possui entendimento consolidado de que os embargos de divergência exigem a demonstração da divergência nos termos do § 4º do art. 1.043 do CPC e do § 4º do art. 266 do RISTJ, sendo a juntada do inteiro teor do acórdão paradigma imprescindível.
+4. A indicação do Diário da Justiça ou de publicação no site do STJ não supre a necessidade de apresentação do inteiro teor do julgado, que deve incluir ementa, relatório, voto e certidão de julgamento.
+5. A jurisprudência do STJ não admite a correção do vício de ausência de juntada do inteiro teor do acórdão paradigma após a interposição dos embargos de divergência.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "A ausência de juntada do inteiro teor do acórdão paradigma nos embargos de divergência constitui vício substancial, não passível de correção após a interposição do recurso".
+Dispositivos relevantes citados: CPC, art. 1.043, § 4º; RISTJ, art. 266, § 4º.
+Jurisprudência relevante citada: STJ, AgInt nos EAREsp 1.786.880/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 1º/6/2023; STJ, AgRg nos EAREsp 2.002.287/DF, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 27/6/2023.
+VOTO
+Os embargos de divergência foram interpostos contra o acórdão da Primeira Turma assim ementado (fls. 650-651):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. TUTELA ANTECIPADA. NATUREZA PRECÁRIA E PROVISÓRIA. REAVALIAÇÃO. INADMISSIBILIDADE.
+1. Não há negativa de prestação jurisdicional quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte.
+2. É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 735 do STF.
+3. A natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal: "causas decididas em única ou última instância."
+4. Esta Corte de Justiça admite a mitigação do referido enunciado, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (CPC/2015, em seu art. 300, correspondente ao art. 273 do CPC/1973), hipótese aqui não verificada.
+5. Agravo interno desprovido.
+Foi apontada divergência com acórdão paradigma da Quarta Turma (REsp n. 1.995.936/PA) relativamente à tese de afastamento da aplicação da Súmula n. 735 do STF.
+A Presidência do STJ indeferiu liminarmente os embargos de divergência diante da inobservância dos requisitos previstos no § 4º do art. 1.043 do CPC, notadamente pela ausência do inteiro teor do acórdão paradigma indicado.
+Afirmou ser insuficiente a mera referência à indicação da publicação no site do STJ. Concluiu ainda não ser aplicável ao caso o disposto no parágrafo único do art. 932 da lei processual.
+Nada obstante o esforço argumentativo da agravante, suas razões não se mostram hábeis a infirmar a consolidada jurisprudência do STJ de que os embargos de divergência têm característica de recurso de fundamentação vinculada, sendo imperativo que a demonstração da divergência se faça nos exatos termos estabelecidos pelo § 4º do art. 1.043 do CPC e pelo § 4º do art. 266 do RISTJ, sob pena de se configurar vício substancial, não passível de correção após a interposição do recurso.
+Verifica-se que, no presente caso, não houve a juntada do inteiro teor do acórdão paradigma.
+É uníssono o entendimento dos órgãos do STJ incumbidos do exame de embargos de divergência no sentido de que o inteiro teor dos arestos paradigma compreende a ementa, o relatório, o voto e a certidão de julgamento, bem como de que a indicação do Diário da Justiça, físico ou eletrônico, em que publicado o acórdão não é suficiente, já que que não contempla o inteiro teor do julgado.
+Além disso, também não se considera suficiente a indicação de que os julgados foram extraídos do site do STJ, sendo necessária a indicação do link para acesso direto ao inteiro teor do acórdão paradigma.
+Com efeito, os pontos suscitados pela agravante já foram reiteradamente enfrentados pelo Superior Tribunal de Justiça, que tem mantido hígida sua jurisprudência, como revelam seus inúmeros julgados, entre os quais os seguintes precedentes: AgInt nos EAREsp n. 1.786.880/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 13/6/2023, DJe de 22/6/2023; AgRg nos EAREsp n. 2.002.287/DF, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 27/6/2023, DJe de 3/7/2023; AgInt nos EAREsp n. 2.047.203/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 20/6/2023, DJe de 22/6/2023; AgInt nos EAREsp n. 1.974.633/MG, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 25/10/2022, DJe de 11/11/202; AgInt nos EREsp n. 1.878.191/PE, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 30/5/2023, DJe de 6/6/2023; AgInt nos EAREsp n. 2.128.781/PR, relatora Ministra Laurita Vaz, Corte Especial, julgado em 9/5/2023, DJe de 15/5/2023; AgInt nos EAREsp n. 1.989.083/RS, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 9/5/2023, DJe de 12/5/2023; AgInt nos EAREsp n. 2.025.937/RO, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 25/4/2023, DJe de 2/5/2023; AgInt nos EDcl nos EAREsp n. 2.039.357/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 18/4/2023, DJe de 20/4/2023; AgRg nos EDcl nos EAREsp n. 2.067.269/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/3/2023, DJe de 22/3/2023; AgInt nos EAREsp n. 1.570.899/MS, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 8/3/2023, DJe de 15/3/2023; AgInt nos EAREsp n. 1.610.769/ES, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022; EDcl nos EDcl no AgRg nos EAREsp n. 15.211/PR, relator Ministro Og Fernandes, Corte Especial, julgados em 19/8/2020, DJe de 17/11/2020; e AgRg nos EDv nos EREsp n. 1.728.967 /RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 27/11/2019, DJe de 4/12/2019.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
