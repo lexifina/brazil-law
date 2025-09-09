@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO CRIMINAL REGIONAL DE SANTA MARIA/RS, suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DE GAROPABA/SC, suscitado.
+O Juízo de Direito da Vara Única de Garopaba/SC declinou de sua competência para dar cumprimento à pena de sentenciado pelo cometimento de crimes de tráfico de drogas, sob o entendimento de que a fiscalização da reprimenda deveria ser estabelecida pelo local onde o preso está segregado (fls. 17-18).
+O Juízo de Direito da Vara de Execução Criminal Regional de Santa Maria/RS, por sua vez, suscitou o conflito por entender que o juízo da condenação é o responsável pela fiscalização do cumprimento da pena. Nesse sentido, considera que o fato de o reeducando estar recolhido provisoriamente em Santa Maria/RS não seria causa de alteração legal de competência para a execução da reprimenda (fls. 5-6).
+O Ministério Público Federal manifestou-se pela competência do Juízo de Direito da Vara Única de Garopaba/SC (fls. 30-37).
+É o relatório. DECIDO.
+Conheço do conflito de competência, uma vez que instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Consta dos autos que houve cumprimento de mandado de prisão contra o reeducando, que está recolhido na Penitenciária de Santa Maria/RS
+Conforme entendimento consolidado do Superior Tribunal de Justiça, compete ao juízo da condenação a execução das penas impostas, de modo que eventual implemento da prisão em comarca diversa não implica deslocamento da competência. Nesses casos, a fiscalização das condições e das medidas aplicadas no curso da execução penal devem ser efetivadas por meio da expedição de precatórias. Confira-se:
+" ..  A execução da pena, em regra, compete ao Juízo da condenação, não implicando deslocamento de competência o implemento da prisão em comarca diversa, em razão da possibilidade de ser deprecada a fiscalização do cumprimento da pena." (CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023).
+" ..  Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018." (CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+No mesmo sentido: CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023; Ag Rg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022; AgRg no CC n. 182.840/DF, Terceira Seção, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/11/2021.
+Assim, na espécie, o cumprimento de mandado de prisão em estado diverso não é apto a alterar a competência do juízo da execução, que continua sendo do Juízo de Direito da Vara Única de Garopaba/SC.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Única de Garopaba/SC.
+Publique-se. Intimem-se.
+EMENTA
