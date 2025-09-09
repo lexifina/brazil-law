@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GENERAL MOTORS DO BRASIL LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTE DO TRABALHO - OPERADOR DE PRODUÇÃO - LER - AUSÊNCIA DE INTIMAÇÃO DA ASSISTENTE SIMPLES - DESNECESSIDADE DE DECRETAR A NUL IDADE DA SENTENÇA - INCAPACIDADE TOTAL E TEMPORÁRIA - NEXO CAUSAL DEMONSTRADO - LAUDO PERICIAL CLARO E CONCLUSIVO - AUXÍLIO-DOENÇA - BENEFÍCIO DEVIDO. PRELIMINAR REJEITADA. RECURSO DA ASSISTENTE SIMPLES DESPROVIDO. REMESSA OFICIAL E APELO AUTÁRQUICO PARCIALMENTE PROVIDOS (fl. 412).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 489, II e § 1º, IV, do CPC, no que concerne à nulidade do acórdão recorrido em razão de negativa de prestação jurisdicional, trazendo a seguinte argumentação:
+A Recorrente ingressou no feito originário como assistente simples do INSS, tendo em vista seu evidente interesse no resultado da lide. Após a realização de prova pericial, a recorrente não foi devidamente intimada para manifestação.
+Em seguida foi proferida sentença de procedência, concedendo o benefício previdenciário acidentário ao apelado, o que sucedeu a interposição de recurso de apelação, indicando a preliminar de nulidade da decisão, observando a ausência de intimação, e apontando diversas inconsistências diante do laudo pericial produzido, pugnando pela nulidade ou reforma da decisum. No entanto, o recurso não foi provido.
+ ..
+Em que pese o entendimento do Tribunal de que o direito à ampla defesa foi respeitado, é importante destacar que a manifestação da apelante em relação ao laudo pericial apresentado ocorreu apenas em sede de apelação, ou seja, após o encerramento da fase de instrução processual, já que sequer foi intimada para o devido ato processual, qual seja, a manifestação ao laudo pericial.
+Nesse contexto, não se pode afi rmar que houve a garantia da uma ampla defesa efetiva, já que a recorrente não teve a oportunidade de se manifestar sobre o laudo durante a instrução, momento processual adequado para a produção de provas e a contraposição dos argumentos apresentados, o que de fato corrobora com a afronta ao exercício pleno do contraditório e da ampla defesa.
+ ..
+Veja que, apesar de a Recorrente ter exaustivamente apontado nos autos diversos motivos relevantes para afastar as conclusões periciais, o Tribunal a quo sequer analisou os pleitos, nem mesmo para refutá-los.
+ ..
+Com o devido respeito ao Tribunal recorrido, a r. decisão representa nítida negativa de prestação jurisdicional, em manifesta contradição ao fixado pelo artigo 489, II, §1º, IV, CPC, devendo ser anulada (fls. 444-447).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: ;"O Tribunal de origem não se manifestou sobre a alegação de preclusão do direito a pleitear nova produção de provas após o juízo saneador, tampouco foram opostos embargos declara tórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (AgInt no AREsp n. 2.700.152/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.974.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.646.591/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AREsp n. 2.645.864/AL, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.732.642/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgRg no REsp n. 2.142.363/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025; AgRg no AREsp n. 2.402.126/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; REsp n. 2.009.683/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no REsp n. 1.933.409/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 19/12/2024; AgRg no AREsp n. 1.574.507/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
