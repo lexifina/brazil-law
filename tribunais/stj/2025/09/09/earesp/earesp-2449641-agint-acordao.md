@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/09/2025 a 09/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+Direito processual civil. Agravo interno. Embargos de divergência. Inadmissão. RAZÕES INSUFICIENTES. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que inadmitiu embargos de divergência, fundamentada na ausência de similitude fática e jurídica entre os acórdãos confrontados, bem como de divergência atual.
+II. Questão em discussão
+2. São duas questões em discussão: (i) saber se há similitude fática e jurídica entre o acórdão embargado e os paradigmas apresentados; e (ii) saber se há divergência atual a ser sanada.
+III. Razões de decidir
+3. A decisão embargada não reconheceu similitude fática e jurídica entre os acórdãos confrontados e afirmou que paradigma datado de mais de 30 anos não se presta a demonstrar divergência atual.
+4. As razões recursais não infirmam os fundamentos da decisão agravada, na medida em que se limitam a repisar as alegações deduzidas nos próprios embargos de divergência e suscitam genericamente contrariedade às razões de decidir do relator.
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+Tese de julgamento: "1. A similitude fática e jurídica entre acórdãos é imprescindível para a admissão de embargos de divergência. 2. A divergência jurisprudencial deve ser demonstrada com base em entendimentos contraditórios sob o enfoque dos mesmos dispositivos legais".
+Dispositivos relevantes citados: CPC/2015, art. 76, § 2º, I; art. 932, parágrafo único; RISTJ, art. 266.
+Jurisprudência relevante citada: STJ, AgInt nos EREsp n. 1.635.637/RJ, relator Ministro Jorge Mussi, Corte Especial, julgado em 10.3.2020.
+RELATÓRIO
+DANIEL D"ALÓ DE OLIVEIRA e ARTUR CARVALHO PIPPI interpõem agravo interno contra a decisão de fls. 1.179-1.182 que inadmitiu os embargos de divergência, fundamentada na ausência de similitude fática e jurídica entre os acórdãos confrontados, bem como de divergência atual.
+A parte agravante alega presente a similitude fática e jurídica entre o acórdão embargado e os paradigmas trazidos à colação. Argumenta que houve indução a erro pela informação equivocada no site do Tribunal de Justiça do Rio Grande do Sul, que indicava a advogada Bruna Speroni Rodrigues como procuradora dos agravantes, o que gerou presunção de regularidade na representação.
+Sustenta que a procuração foi juntada em outro recurso especial envolvendo as mesmas partes, o que não configura erro grosseiro, e critica o formalismo excessivo da decisão, porquanto contraria os princípios da primazia do julgamento do mérito, do devido processo legal e do acesso à justiça.
+Argumenta que o magistrado deve indicar com precisão o vício a ser sanado, conforme o art. 1.029, § 3º, e art. 932, parágrafo único, do CPC e que a intimação da Presidência do STJ não indicou claramente qual vício deveria ser sanado. Aduz que a jurisprudência do STJ valoriza a boa fé do jurisdicionado e a proteção da confiança, conforme precedentes citados.
+Requer o provimento do agravo interno para a reforma da decisão monocrática e admissão dos embargos de divergência, com a preponderância do raciocínio jurídico adotado pelos paradigmas que valorizam a primazia do mérito e a boa fé do jurisdicionado em detrimento do formalismo.
+Não foi apresentada impugnação, conforme certidão de fls. 1.214.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno. Embargos de divergência. Inadmissão. RAZÕES INSUFICIENTES. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que inadmitiu embargos de divergência, fundamentada na ausência de similitude fática e jurídica entre os acórdãos confrontados, bem como de divergência atual.
+II. Questão em discussão
+2. São duas questões em discussão: (i) saber se há similitude fática e jurídica entre o acórdão embargado e os paradigmas apresentados; e (ii) saber se há divergência atual a ser sanada.
+III. Razões de decidir
+3. A decisão embargada não reconheceu similitude fática e jurídica entre os acórdãos confrontados e afirmou que paradigma datado de mais de 30 anos não se presta a demonstrar divergência atual.
+4. As razões recursais não infirmam os fundamentos da decisão agravada, na medida em que se limitam a repisar as alegações deduzidas nos próprios embargos de divergência e suscitam genericamente contrariedade às razões de decidir do relator.
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+Tese de julgamento: "1. A similitude fática e jurídica entre acórdãos é imprescindível para a admissão de embargos de divergência. 2. A divergência jurisprudencial deve ser demonstrada com base em entendimentos contraditórios sob o enfoque dos mesmos dispositivos legais".
+Dispositivos relevantes citados: CPC/2015, art. 76, § 2º, I; art. 932, parágrafo único; RISTJ, art. 266.
+Jurisprudência relevante citada: STJ, AgInt nos EREsp n. 1.635.637/RJ, relator Ministro Jorge Mussi, Corte Especial, julgado em 10.3.2020.
+VOTO
+As razões recursais não logram infirmar os fundamentos da decisão agravada que deve ser mantida por seus próprios e jurídicos fundamentos, exarados nos seguintes termos:
+Trata-se de embargos de divergência opostos por DANIEL D"ALÓ DE OLIVEIRA e ARTUR CARVALHO PIPPI em face do acórdão prolatado pela Terceira Turma, assim ementado (fl. 1.088):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PROCURAÇÃO E/OU CADEIA COMPLETA DE SUBSTABELECIMENTO CONFERINDO PODERES À SUBSCRITORA DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO DESPROVIDO.
+1. Interposto recurso por advogado sem procuração dos autos, dele não se pode conhecer, consoante o art. 76, § 2º e seu inciso I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado.
+2. A jurisprudência do Superior Tribunal de Justiça entende que, havendo autos distintos, cabe à parte, no momento da interposição do recurso especial e do respectivo agravo, juntar cópia da procuração que instrui o processo principal ou apresentar novo instrumento de mandato, sob pena de incidência do enunciado sumular n. 115 desta Corte Superior.
+3. Agravo interno desprovido.
+Os embargantes suscitam divergência acerca de três questões: (i) necessidade do magistrado informar com precisão o vício que deve ser sanado pela parte; e (ii) inexistência de erro grosseiro no protocolo tempestivo de petição em autos distintos, mas envolvendo as mesmas partes, a justificar o conhecimento do recurso em atenção ao princípio da primazia do mérito; e (iii) mitigação do rigor formal em prol do acesso à justiça.
+Para fins de confronto, indicam os seguintes paradigmas: EAREsp n. 688.615/MS, julgado pela Corte Especial em 4/3/2020; AgInt no AREsp n. 1.982.962/PR, julgado pela Primeira Turma em 23/5/2022; e EDcl nos EDcl no REsp n. 9.035/MG, julgado pela Quarta Turma em 1/12/1992.
+Alegam que a intimação da Presidência do STJ para regularização processual não indicou claramente qual vício deveria ser sanado, o que contraria o princípio da cooperação. Destacam que a advogada Bruna Speroni Rodrigues foi intimada de diversos atos processuais na origem, o que gerou a presunção de regularidade na representação.
+Aduzem que a procuração foi juntada em outro recursos envolvendo as mesmas partes, o que não configura erro grosseiro, e criticam o formalismo excessivo do acórdão embargado, a contrariar os princípios da primazia do julgamento do mérito, do devido processo legal e do acesso à justiça.
+É o relatório. Decido.
+Verifica-se dos autos que, constatada a ausência de "procuração e/ou cadeia completa de substabelecimento conferindo poderes a quem subscreveu o recurso especial e o agravo em recurso especial", foi publicada intimação para que a parte recorrente providenciasse a devida regularização.
+Todavia, após certificado o transcurso do prazo in albis, a parte recorrente informou que havia protocolado, tempestivamente, petição promovendo a regularização da representação processual, por equívoco, em outro processo envolvendo as mesmas partes.
+O relator considerou que a regularização foi intempestiva e aplicou a Súmula n. 115 do STJ, para não conhecer do recurso, decisão mantida pelo acórdão embargado.
+Com relação à primeira divergência suscitada - necessidade do magistrado informar com precisão o vício que deve ser sanado pela parte -, não se vislumbra similitude fática e jurídica entre os arestos confrontados. Isso porque o paradigma colacionado pelos embargantes trata da hipótese em que se reconheceu haver erro na informação disponível no sítio eletrônico do Tribunal de origem para aferição da tempestividade do recurso, induzindo a parte em erro.
+No presente caso, contudo, o acórdão embargado deixa expressamente assentado que, "constatada a irregularidade na representação processual, a Secretaria Judiciária deste Superior Tribunal, à fl. 1.019 (e-STJ), de modo claro e específico, determinou a intimação da parte recorrente para que, nos termos do art. 76 do Código de Processo Civil de 2015, no prazo de 5 (cinco) dias, procedesse à juntada da cadeia completa de substabelecimento que conferiu poderes à subscritora dos recursos, sob pena de não conhecimento destes". Não se trata, portanto, de qualquer erro na informação constante da intimação, tal como reconhecido no acórdão paradigma.
+Quanto ao segundo ponto de divergência, igualmente não se verifica similitude entre os acórdãos confrontados, menos ainda divergência de teses.
+Note-se que o acórdão paradigma cinge-se a afirmar que "o protocolo de recurso em autos de demanda diversa daquela em que o ora agravante efetivamente figurava como parte configura erro grosseiro, de modo que a sua juntada aos autos corretos, quando já expirado o prazo do recurso, não tem o condão de afastar a sua intempestividade". Pretendem os embargantes extrair, a contra senso, a tese de que, se o protocolo ocorreu em outro recurso em que figura como parte, o vício poderia ser afastado, em atenção ao princípio da primazia do julgamento de mérito. Todavia, a divergência há de ser extraída a partir da tese fixada e não por interpretação a contrário senso, sendo certo ainda que o paradigma não faz qualquer alusão ao princípio da primazia do julgamento do mérito.
+Por fim, melhor sorte não socorre aos embargantes quanto ao terceiro ponto de divergência suscitado. Isso porque ausente a demonstração de dissenso interpretativo atual, como exige o art. 266 do RISTJ, visto que o paradigma indicado data de mais de 30 anos.
+Ante o exposto, inadmito os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte embargante, no importe de 5% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Os agravantes cingem-se a repisar as razões dos embargos de divergência, sem impugnar de forma específica os fundamentos da decisão agravada.
+Com efeito, não logram afastar o fundamento de que inexiste similitude fática entre os arestos confrontados quanto ao primeiro ponto de divergência - necessidade do magistrado informar com precisão o vício que deve ser sanado pela parte -, na medida em que o acórdão embargado reconhece ter havido erro na informação disponibilizada pelo site do tribunal de origem, enquanto que no caso presente, tal circunstância não se faz presente.
+Quanto ao segundo ponto de divergência - inexistência de erro grosseiro no protocolo tempestivo de petição em autos distintos -, os agravantes limitam-se a alegar genericamente a possibilidade de divergência de teses a partir de uma interpretação a contrário senso, o que não basta para infirmar a decisão agravada. Além disso, deixam de impugnar o fundamento de que o paradigma sequer faz qualquer alusão ao princípio da primazia do mérito, o que atrai a incidência, por analogia, da Súmula n. 283 do STF quanto a este tópico.
+Por fim, quanto ao terceiro ponto de divergência - ausência de atualidade do dissenso -, os agravantes sustentam que a ratio adotada no paradigma datado de 1992, no sentido de que "o Tribunal da Cidadania deve proteger as pessoas e valorizar os princípios do devido processo legal e do livre acesso à Justiça" permanece atual e diverge do acórdão embargado que valorizou a "preclusão consumativa".
+Os argumentos não logram infirmar o fundamento adotado pela decisão agravada, além do que revelam que o paradigma dirimiu a controvérsia que lhe foi submetida a partir de fundamentos jurídicos diversos do acórdão embargado, que se fundamentou no art. 76 do CPC/2015. Consoante o entendimento firmado por esta Corte Superior, para que a divergência jurisprudencial reste caracterizada é necessário que os acórdãos embargado e paradigma adotem entendimentos contraditórios sob o enfoque dos mesmos dispositivos legais. Nesse sentido: AgInt nos EREsp n. 1.635.637/RJ, Corte Especial, relator Ministro Jorge Mussi, julgado em 10/3/2020, DJe de 13/3/2020.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
