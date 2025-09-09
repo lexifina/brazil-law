@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DIOGO MATEUS SANTOS DE SOUZA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0012619-10.2025.8.26.0996).
+Depreende-se dos autos que o Juízo da execução indeferiu o pedido de livramento condicional formulado em benefício do ora paciente (e-STJ fls. 28/29).
+Interposto agravo em execução, a Corte estadual negou provimento ao recurso, nos termos do acórdão assim ementado (e-STJ fl. 50):
+PENAL, PROCESSO PENAL E LEI Nº 7.210/1984. AGRAVO EM EXECUÇÃO PENAL. CONCESSÃO DE LIVRAMENTO CONDICIONAL. DESPROVIMENTO.
+I- CASO EM EXAME:
+1. Agravo em Execução Penal interposto pela d. Defesa, em face da decisão que indeferiu pedido de livramento condicional por ausência de requisito subjetivo.
+II- QUESTÃO EM DISCUSSÃO:
+2. Há uma questão a ser enfrentada: I) possibilidade de concessão direta de livramento condicional, sem que o reeducando passe previamente pelo regime intermediário por período relevante.
+III- RAZÕES DE DECIDIR:
+3. Trata-se de reeducando com reiteração criminal específica e histórico de falta disciplinar de natureza grave, evidenciando concretamente a adoção da prática delitiva como meio de vida e a não assimilação da terapêutica reeducacional. Assim, mostra-se muito temerosa a concessão livramento condicional a recluso em regime fechado de prisão e com histórico amplamente desfavorável, porquanto somente pode dar mostras de estar minimamente preparado para o retorno ao convício social, mediante prévia passagem por período razoável no regime intermediário. Precedentes; 4. Nele poderá exercer atividades laborterápicas externas e gozar de saídas temporárias, de modo a tornar menos turbulenta sua reinserção ao seio da sociedade. Logo, de rigor a manutenção da decisão do juízo a quo.
+IV- DISPOSITIVO E TESE:
+5. Agravo em Execução Penal defensiva a que se nega provimento.
+Na presente impetração, a defesa alega, em síntese, que o paciente preenche os requisitos objetivo e subjetivo para o livramento condicional, não podendo representar obstáculo ao deferimento do pedido a gravidade abstrata dos delitos cometidos, a longevidade da pena e a prática de faltas graves.
+Ao final, requer a concessão da ordem para "assegurar ao Paciente o cumprimento de pena em livramento condicional, porquanto cumpridos os requisitos do artigo 83 do Código Penal" (e-STJ fl. 8).
+É o relatório.
+Decido.
+A controvérsia refere-se ao preenchimento do requisito subjetivo para a concessão de livramento condicional.
+O Superior Tribunal de Justiça pacificou a orientação de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou ainda pelo Tribunal local, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, como o cometimento de faltas graves, justifica o indeferimento do pleito de livramento condicional, bem como de progressão de regime, pelo inadimplemento do requisito subjetivo.
+Nesse contexto, a Terceira Seção desta Corte Superior, ao apreciar o Tema n. 1.161, consolidou o posicionamento de que a "valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+No caso dos autos, o Juízo da execução expôs os seguintes fundamentos para indeferir o pedido de livramento condicional (e-STJ fl. 28):
+O pedido é improcedente.
+Com efeito, muito embora presente o requisito objetivo, visto que cumpriu parcela superior ao lapso temporal legalmente exigido para pretensão, não demonstra méritos suficientes para retornar à sociedade.
+No caso, em que pese a atual boa conduta carcerária, o sentenciado ostenta faltas disciplinares praticadas no curso da execução da pena, demonstrando ausência de senso de responsabilidade e não assimilação da terapia penal aplicada.
+E mais, condenado por roubo majorado, crime praticado mediante violência ou grave ameaça, que causa grave dano à ordem pública e insegurança à sociedade, considero, neste caso, pertinente que passe primeiro pelo regime intermediário, como prova de que irá absorver a terapia penal, para, posteriormente, fazer jus a imediato livramento.
+À vista disso, há de se consignar que a gravidade do delito exige maior cautela para a concessão de benefícios executórios, mormente daqueles que importam em liberdade, dentre os quais encontra-se o livramento condicional, não se podendo lançar sobre os ombros da sociedade o extremo risco de sofrer com as consequências da não demonstração de mérito suficiente para o benefício ora postulado.
+Por sua vez, a Corte estadual assim consignou (e-STJ fl. 56):
+Extrai-se das peças processuais instrutórias deste feito recursal, bem como do sítio deste Egrégio Tribunal de Justiça, que o executado possui histórico de reincidência específica, além de falta disciplinar de natureza grave.
+Assim, não bastasse estar o detento no regime fechado de prisão, há claras evidências de adoção da prática delitiva como meio de vida e forte potencial de não assimilação da terapêutica reeducacional, conduzindo, inexoravelmente, ao necessário afastamento da antecipação da liberdade neste momento.
+Ademais, conforme exaustivamente delineado nas diretrizes deste aresto, é imprescindível o prévio cumprimento de pena por um período razoável no regime intermediário, no qual sequer se encontra.
+Nele o reeducando poderá ser mais bem avaliado com o gozo das benesses naturalmente decorrentes do aludido regime de prisão - saídas temporárias e trabalho externo -, com vistas à futura reavaliação de sua antecipação de liberdade, em conjunto com os demais elementos auferidos.
+Logo, o quadro fático-jurídico estampado conduz à clarividente precocidade da concessão do benefício do livramento condicional - não preenchimento do requisito subjetivo -, razão pela qual a manutenção da escorreita decisão do magistrado a quo é de rigor.
+Como se observa, para indeferir o pleito de livramento condicional, as instâncias ordinárias se fundamentaram apenas na gravidade em abstrato dos delitos cometidos e na existência de uma falta grave, praticada em 9/11/2021, que já se afigura antiga e não é suficiente para evidenciar eventual histórico prisional conturbado do paciente.
+Tais elementos, por si sós, não se revelam idôneos a fim de afastar o benefício, não se vislumbrando no ato coator a indicação de comportamento desabonador do apenado apto a justificar a existência de dúvida quanto ao preenchimento do requisito subjetivo da benesse, sobretudo diante da ausência de registro recente de falta disciplinar.
+Sobre a matéria, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO ALCANÇADO. FALTA GRAVE REABILITADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.970.217/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão Min. Ribeiro Dantas, finalizado em 1º/6/2023 (Tema n. 1.161), fixou a tese de que, "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+2. A gravidade abstrata dos crimes praticados pelo apenado e a longa pena a cumprir não são fundamentos idôneos para afastar o benefício de livramento condicional. De igual forma, faltas graves muito antigas não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação contemporânea do efetivo cumprimento da pena pelo condenado.
+3. Não foi mencionada circunstância pessoal negativa do apenado ou comportamento desabonador durante a execução da pena, a justificar alguma dúvida quanto ao requisito subjetivo do livramento condicional.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.383.456/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2024, DJe de 7/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL DEFERIDO PELO JUIZ DE PRIMEIRO GRAU. DECISÃO CASSADA PELO TRIBUNAL REVISOR. REQUISITO SUBJETIVO. FALTA GRAVE ANTIGA, GRAVIDADE ABSTRATA DOS DELITOS E LONGA PENA A CUMPRIR. FUNDAMENTOS INIDÔNEOS. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL D ESPROVIDO.
+1. Hipótese em que o Juízo das Execuções Penais, em 04/05/2023, deferiu o pleito de livramento condicional ao Paciente (fls. 36-37), que cumpre a pena de 14 (catorze) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, pela prática dos delitos de roubo majorado, receptação, tráfico privilegiado e adulteração de sinal identificador de veículo, com termo final previsto para o dia 04/07/2031, decisão que foi reformada pelo Tribunal estadual.
+2. Esta Corte Superior de Justiça firmou orientação no sentido de que a gravidade abstrata dos crimes praticados e a longa pena a cumprir pelo Apenado, bem como as faltas disciplinares antigas e reabilitadas não constitui fundamentação idônea a justificar o indeferimento de benefícios no âmbito da execução penal.
+3. No caso, conforme guia de execução de pena, a referida infração disciplinar ocorreu em 28/04/2020, e reabilitada em 27/05/2021, ou seja há mais de três anos, não constando nenhum registro posterior de falta disciplinar.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 876.646/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. FALTAS GRAVES ANTIGAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO DESPROVIDO.
+1. É assente nesta Corte Superior de Justiça que "faltas disciplinares muito antigas  ..  não podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo", além de ser "desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução" (AgRg no HC 620.883/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/12/2020, DJe 18/12/2020).
+2. No caso, a Corte local cassou a decisão que concedeu o livramento condicional ao paciente utilizando-se de fundamentação inidônea, relativa ao cometimento de uma falta disciplinar, de natureza grave, antiga - posse de celular e componentes.
+3. Decisão monocrática que deve ser mantida, a fim de restabelecer o deferimento do benefício ao paciente pelo Juízo de primeiro grau.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 828.457/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ante o exposto, concedo a ordem para determinar que o Juízo da execução reavalie o pedido de livramento condicional, à luz da orientação jurisprudencial citada.
+Publique-se. Intimem-se.
+EMENTA
