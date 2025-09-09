@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/09/2025 a 09/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+Impedido o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ANÁLISE DA CONTROVÉRSIA. NÃO OCORRÊNCIA. SÚMULA 315, STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+2. Agravo interno ao qual se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por WAGNER CANHEDO AZEVEDO em face da decisão na qual indeferi liminarmente os embargos de divergência opostos contra acórdão da Primeira Turma, assim ementado (fls. 856/863, e-STJ):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não se conhece do Agravo em Recurso Especial que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+A parte agravante, em suas razões, pede que seja exercido o juízo de retratação. Aduz que: "( ) a divergência suscitada pela parte em sede de embargos de divergência tem como objetivo verificar a aplicação do direito processual, nos exatos termos do permissivo do art. 1.043, § 4º, do CPC - sendo certo que não se discute, nos embargos, a matéria originária do processo". Para tanto, sustenta que a controvérsia diz respeito a direito processual e que o dissenso deve ser analisado em sede de embargos de divergência.
+A parte agravada, regularmente intimada, quedou-se inerte (fl. 970, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ANÁLISE DA CONTROVÉRSIA. NÃO OCORRÊNCIA. SÚMULA 315, STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+2. Agravo interno ao qual se nega provimento.
+VOTO
+Observo que os argumentos desenvolvidos pelo agravante não afastam a conclusão da decisão impugnada, razão pela qual o recurso não deve ser provido.
+A decisão que indeferiu liminarmente os embargos de divergência está jurídica e tecnicamente correta (fls. 950/953, e-STJ):
+"Inicialmente, o mérito do recurso especial interposto pelo embargante nem sequer foi analisado. O agravo em recurso especial não foi conhecido, pois o embargante deixou de impugnar especificamente os fundamentos da decisão que não admitiu o recurso especial:
+"Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso III, do art. 932, do mencionado estatuto processual, prevê expressamente o não conhecimento do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+No presente caso, o Recurso Especial não foi admitido sob os fundamentos de que ausente violação ao art. 1.022 do Código de Processo Civil de 2015, bem como porque incidiriam as Súmulas ns. 7 e 83 desta Corte segundo as quais, respectivamente, "a pretensão de simples exame de prova não enseja recurso especial" e "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (fls. 665/678e).
+Entretanto, as razões do Agravo atacam apenas os óbices referentes à incidência da Súmula n. 7/STJ e ausência de violação ao art. 1.022 do CPC/2015 (fls. 680/696e), não impugnando, de forma específica, um dos fundamentos adotados na decisão agravada, impondo-se, de rigor, o não conhecimento do recurso".
+De fato, no acórdão paradigma, reformou-se a decisão a fim de conhecer do agravo em recurso especial:
+"Após atenta análise dos autos, verificou-se que a insurgente, nas razões do agravo de fls. 185-220, e-STJ, impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pela Corte de origem, de forma que o aludido agravo (art. 1.042 do CPC/15), deve ser conhecido" (AgInt no AREsp n. 1.972.132/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+Contudo, essa análise foi realizada em sede de agravo interno em agravo em recurso especial. Para tanto, foram analisadas as peculiaridades do caso concreto. Conforme entendimento desta Corte, não é cabível essa análise em sede de embargos de divergência. Prevalece o entendimento de que não se admite a análise das regras técnicas de admissibilidade do recurso especial em sede de embargos de divergência:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE ADMISSIBILIDADE DO APELO EXTREMO. INCIDÊNCIA DA SÚMULA 315/STJ. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que indeferiu liminarmente os embargos de divergência (aplicando a Súmula 315/STJ) e determinou a majoração dos honorários advocatícios em 15% sobre o valor já arbitrado. II. QUESTÃO EM DISCUSSÃO
+2. Cabimento (ou não) de embargos de divergência em face de decisão que aplicou óbices ao conhecimento do recurso especial. III. RAZÕES DE DECIDIR
+3. Nos termos dos artigos 266 do RISTJ e 1.043 do CPC/2015, os embargos de divergência têm, como requisito de admissibilidade, a existência de dissenso interpretativo entre diferentes órgãos fracionários desta Corte, devendo ter sido apreciada a matéria de mérito do recurso especial, seja de natureza processual seja material. Desse modo, não são cabíveis embargos de divergência para o reexame de regras técnicas alusivas ao conhecimento do recurso especial, a exemplo da Súmula n. 211/STJ.
+4. Tal exegese reforça o teor da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". IV. DISPOSITIVO E TESE
+5. Agravo interno não provido. Tese de julgamento: "Os embargos de divergência não são cabíveis para reexaminar regras técnicas de admissibilidade do recurso especial, nos termos da Súmula 315/STJ"
+(AgInt nos EAREsp n. 1.546.949/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 12/11/2024, DJe de 25/11/2024).
+Esse entendimento reforça o teor da Súmula 315/STJ: "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Portanto, em se pretendendo discutir a admissibilidade do recurso especial, não são cabíveis os embargos de divergência para análise da controvérsia.
+Em face do exposto, não conheço dos embargos de divergência".
+A argumentação do recorrente não é capaz de afastar o entendimento desta Corte. A Corte Especial definiu que "( ) não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais" (AgInt nos EAREsp n. 1.924.581/MG, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023).
+No julgamento do agravo interno no agravo em recurso especial interposto pelo recorrente, a Primeira Turma decidiu que o agravo apenas atacou os óbices relativos à Súmula 7/STJ e violação ao art. 1.022 do CPC/2015, sem impugnar especificamente o fundamento relativo à Súmula 83/STJ. Isso porque que o recurso especial não foi admitido devido à ausência de violação ao art. 1.022 do CPC/2015 e incidência das Súmulas 7 e 83/STJ. Em consequência, não conheceu do recurso especial.
+Em síntese, não é cabível a oposição de embargos de divergência quando o acórdão embargado não ingressa no mérito da controvérsia recursal, conforme o art. 1.043, III, do CPC. No caso concreto, o acórdão embargado não adentrou no mérito em virtude da ausência de impugnação específica dos fundamentos da decisão que não admitiu o recurso especial.
+Dessa forma, independentemente das alegações da agravante acerca da negação de prestação jurisdicional, incide o óbice da Súmula 315/STJ.
+Portanto, não há que se falar no exercício do juízo de retratação.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
