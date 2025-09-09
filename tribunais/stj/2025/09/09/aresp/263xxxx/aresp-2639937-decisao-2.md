@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por DOUGLAS EMANUEL DOS SANTOS e LEILTON DOS SANTOS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 202200338138 (fls. 3.635/3.706).
+No recurso especial (fls. 3.709/3.746), os agravantes sustentam violação dos arts. 65, III, d, e 68 do Código Penal, ao argumento de que a instância ordinária, embora tenha reconhecido a confissão espontânea, deixou de aplicar a atenuante legal com base na Súmula 231 do STJ, promovendo confusão entre pena-base e pena intermediária, em desacordo com o sistema trifásico.
+Alegam que a tese recursal possui natureza exclusivamente jurídica, não demandando reexame fático-probatório, e encontra respaldo em precedentes recentes desta Corte Superior, que relativizam a incidência da mencionada súmula quando constatada aplicação incompatível com o art. 68 do Código Penal.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 3.951/3.958).
+É o relatório.
+O agravo é admissível, pois foi interposto tempestivamente e impugna os fundamentos da decisão de inadmissibilidade.
+O Tribunal de origem não admitiu o apelo nobre ao fundamento de que a análise da controvérsia demandaria reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ, e que o entendimento adotado no acórdão recorrido encontra-se em consonância com a jurisprudência dominante do Superior Tribunal de Justiça, atraindo também a incidência da Súmula 83/STJ (fls. 3.824/3.840).
+A parte agravante, todavia, sustenta que a controvérsia veiculada é eminentemente de direito, centrando-se na correta aplicação das normas legais relativas à atenuante da confissão espontânea e à dosimetria da pena, à luz do sistema trifásico consagrado no art. 68 do Código Penal, sem necessidade de revolvimento de provas.
+Importa transcrever trecho do acórdão recorrido, no tocante à aplicação da atenuante da confissão (fls. 3.701/3.702):
+Ademais, deve ser ressaltado que para os apelantes Renoar de Assis Cruz, Jorge de Oliveira Santos, Douglas Emanuel dos Santos e Leilton dos Santos, as penas-base incidiram no mínimo, não comportando qualquer redução, até mesmo em relação ao pleito de incidência da menoridade relativa suscitada por Douglas Emanuel dos Santos, em atenção ao que prevê a Súmula nº 231, do STJ  .. .
+Como se observa, o Tribunal de origem reconheceu expressamente a existência das atenuantes pleiteadas, mas entendeu inaplicável qualquer redução na pena, em razão de já estar fixada no patamar mínimo legal, aplicando a orientação firmada na Súmula 231 do STJ.
+Com efeito, não é possível o acolhimento do pleito defensivo de superação do referido entendimento, tendo em vista que permanece hígido.
+No julgamento dos Recursos Especiais n. 2.057.181/SE, n. 2.052.085/TO e n.1.869.764/MS, da relatoria do Ministro Rogerio Schietti Cruz, sob o rito dos recursos especiais repetitivos, em sessão realizada no dia 14/8/2024, a Terceira Seção desta Corte decidiu, por maioria de votos, pelo não cancelamento da Súmula 231 do STJ.
+Na ocasião, o órgão julgador concluiu que não caberia contrariar o entendimento do Supremo Tribunal Federal, firmado em repercussão geral, no RE n. 597.270 (Tema 158/STF), segundo o qual circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal.
+Assim, a aplicação da atenuante da confissão espontânea não autoriza a redução da pena abaixo do mínimo legal, conforme pacificado no enunciado da Súmula 231/STJ (AgRg no AREsp n. 2.226.159/SC, Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN 16 /6/2025).
+No mesmo sentido: AgRg nos EDcl no AREsp n. 2.879.151/ES, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 10/6/2025; e AgRg no REsp n. 2.171.016/PR, Ministro Messod Azulay Neto, Quinta Turma, DJEN 19/5/2025.
+Presente, portanto, o óbice da Súmula 83/STJ. A parte agravante não se desincumbiu do ônus de demonstrar que o precedente mencionado no juízo de admissibilidade era inaplicável à hipótese, ou que a orientação jurisprudencial do Tribunal foi superada. Nesse sentido: AgRg no AREsp n. 2.253.769/PR, Ministro Jesuíno Rissato, Sexta Turma, DJE 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJE 16/6/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. ATENUANTES. IMPOSSIBILIDADE DE REDUÇÃO DA PENA-BASE FIXADA NO MÍNIMO LEGAL. INCIDÊNCIA DA SÚMULA 231/STJ. SÚMULA 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
