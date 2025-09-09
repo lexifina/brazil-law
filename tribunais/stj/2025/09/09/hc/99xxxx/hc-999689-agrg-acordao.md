@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+O Sr. Ministro Reynaldo Soares da Fonseca não proferiu voto, nos termos do Art. 200, Parágrafo 3º, do RISTJ.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. PROVAS SUFICIENTES. DILIGÊNCIAS POLICIAIS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a condenação do agravante pelo crime de tráfico de drogas, tipificado no art. 33, caput, da Lei nº 11.343/06, com pena de 5 anos e 10 meses de reclusão e 583 dias-multa, em regime inicialmente fechado.
+2. O Tribunal de origem negou provimento ao recurso de apelação, considerando a materialidade e autoria do crime comprovadas por depoimentos de policiais e apreensão de drogas.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a condenação do agravante por tráfico de drogas foi baseada em provas suficientes, considerando a denúncia anônima e a apreensão de drogas próximas ao acusado.
+III. RAZÕES DE DECIDIR
+4. O Tribunal de origem concluiu pela comprovação da materialidade e autoria do crime, com base na prova oral e na apreensão de drogas fracionadas para venda, confirmando a denúncia anônima.
+5. A proximidade do agravante ao local onde as drogas foram encontradas, aliada à confirmação das características físicas descritas na denúncia, reforçou a materialidade delitiva.
+6. A decisão agravada destacou que a inversão do acórdão demandaria amplo revolvimento de provas, o que não é admitido na via do habeas corpus.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DENILSON PEREIRA DO NASCIMENTO contra decisão de fls. 141-145, que denegou habeas corpus.
+Consta dos autos que o paciente foi condenado pelo delito tipificado no art. 33, caput, da Lei nº 11.343/06, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, em regime inicialmente fechado, sendo-lhe concedido o direito de apelar em liberdade (fls. 27-35). O Tribunal de origem negou provimento ao recurso de apelação interposto.
+A petição expõe a existência de constrangimento ilegal devido à ausência de material probatório, pois "a característica sobre um indivíduo trajando blusa azul fica muito vago para uma condenação por tráfico de drogas. Ou seja, quaisquer pessoas em que estivessem passando de blusa azul de fronte ao endereço em que foi feita a denúncia anônima, poderia aqui também esta condenada a uma pena, é no mínimo um contrassenso" (fl. 10), requerendo, liminarmente e no mérito, a declaração de ilicitude das provas obtidas e a consequente absolvição do paciente.
+O pedido liminar foi indeferido (fls. 103-104). Foram prestadas informações (fls. 113-117, 118-122 e 123-129).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 131-138).
+Em seguida, a ordem foi denegada (fls. 141-145).
+No agravo regimental, o recorrente reitera os argumentos apresentados na petição inicial, solicitando a reforma da decisão questionada (fls. 149-153).
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. PROVAS SUFICIENTES. DILIGÊNCIAS POLICIAIS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, mantendo a condenação do agravante pelo crime de tráfico de drogas, tipificado no art. 33, caput, da Lei nº 11.343/06, com pena de 5 anos e 10 meses de reclusão e 583 dias-multa, em regime inicialmente fechado.
+2. O Tribunal de origem negou provimento ao recurso de apelação, considerando a materialidade e autoria do crime comprovadas por depoimentos de policiais e apreensão de drogas.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a condenação do agravante por tráfico de drogas foi baseada em provas suficientes, considerando a denúncia anônima e a apreensão de drogas próximas ao acusado.
+III. RAZÕES DE DECIDIR
+4. O Tribunal de origem concluiu pela comprovação da materialidade e autoria do crime, com base na prova oral e na apreensão de drogas fracionadas para venda, confirmando a denúncia anônima.
+5. A proximidade do agravante ao local onde as drogas foram encontradas, aliada à confirmação das características físicas descritas na denúncia, reforçou a materialidade delitiva.
+6. A decisão agravada destacou que a inversão do acórdão demandaria amplo revolvimento de provas, o que não é admitido na via do habeas corpus.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+O acórdão de origem justificou a condenação, conforme trecho a seguir (fl. 14-15):
+ ..  De acordo com a preambular acusatória (fls. 29-33), o apelante, Denilson Pereira do Nascimento, no dia 17 de agosto de 2023, teria sido encontrado na posse de 11 (onze) trouxinhas de cocaína, estando as drogas fracionadas para comercialização. Vejamos trechos da sentença condenatória, especialmente os relativos aos depoimentos colhidos (fls. 141- 143, destaquei): - PM Milton Joza da Silva Filho: "Estavam patrulhando na área, quando receberam uma denúncia de que havia um rapaz escondendo drogas nas plantas. Foram verificar. Encontraram ele no endereço e acharam as drogas escondidas. O denunciante informou características que corresponderam com as do denunciado e indicava exatamente o local. A droga estava próximo a ele, a um ou dois passos dele. Ele negou a propriedade da droga. Ele disse que estava dentro de sua casa e tinha acabado de sair. Já o conhecia de outras ocorrências. Na época, ele era organizador de um local que tinha um baile e em uma ocorrência foram fechar o baile. Foi seu único contato com ele". - PM Henrique Brandão Cardoso: "Estavam em patrulhamento de rotina. Chegou uma ocorrência via Ciops tratando de uma denúncia de tráfico de drogas, mencionando a cor da blusa e calção, dizendo que havia uma planta onde ficavam cocaína e que ele estava traficando. Abordaram ele, mas não encontraram nada. Ao fazerem a varredura, acharam um saquinho de cocaína na planta. Ele estava com a mesma blusa e calção da denúncia. A droga estava bem próximo a ele, no local indicado na denúncia, nas plantas. Ele negou que a droga fosse dele. O Ciops recebeu uma ligação anônima e repassou a ocorrência. Não conhecia o denunciado de outras ocorrências. Não tinha conhecimento se ele era traficante. Era um saquinho de dindin com vários papelotes dentro. Ele disse que estava em frente a sua casa. Havia transeuntes lá e familiares dele". - PM Arlindo Kevin Ribeiro Martins: "Chegou uma ocorrência via Ciops de um cidadão de blusa azul que estaria vendendo drogas. Segundo a denúncia, ele escondia a droga em uma planta próximo a ele. Quando a viatura chegou lá, ele estava com as características passadas e a droga estava ao lado. A informação passada bateu com o que acharam. A droga estava na planta, conforme a denúncia. Ele estava sentado ao lado da planta. A princípio, ele negou, mas o conduziram para ele prestar esclarecimentos ao delegado. Não conhecia ele".
+A decisão agravada justificou a manutenção do acórdão questionado da seguinte forma (fl. 144):
+ ..  Verifica-se que o Tribunal de origem, soberano na análise das provas dos autos, concluiu pela efetiva comprovação da materialidade e da autoria do crime de tráfico em desfavor do paciente, considerando-se sobretudo a prova oral, o fato de ter havido denúncia especificada posteriormente "confirmada com exatidão", bem como a apreensão de "11 (onze) trouxinhas de cocaína, já fracionadas para a venda". Nesse contexto, a inversão do acórdão, de modo a acolher o pleito absolutório, demandaria amplo revolvimento de provas, o que não se admite na via estreita do habeas corpus, ação constitucional de rito célere e cognição sumária.
+Depreende-se que a condenação do agravante não se baseou exclusivamente na descrição de um indivíduo vestindo uma blusa azul. Os policiais relataram que, durante patrulhamento, encontraram o recorrente próximo ao local onde as drogas estavam escondidas, em uma planta, conforme a denúncia. A proximidade do acusado ao local onde as drogas foram encontradas, aliada à confirmação das características físicas descritas na denúncia, reforçou a materialidade delitiva, evidenciada também pelo auto de apreensão e pelo laudo pericial.
+Além disso, a sentença condenatória levou em consideração o fato de que as drogas estavam fracionadas para comercialização, o que indicava a intenção de tráfico. A defesa argumentou que as provas eram insuficientes, mas o Tribunal de origem, ao analisar as evidências, concluiu pela comprovação da autoria do crime, destacando que a denúncia foi confirmada com exatidão. A condenação foi mantida, pois o conjunto probatório, incluindo os depoimentos dos policiais e a apreensão das drogas, foi considerado uníssono e suficientemente forte para sustentar o decreto condenatório, conforme previsto no art. 33, caput, da Lei 11.343/2006.
+Por isso, conclui-se que o recurso deixou de apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado, razão pela qual nego provimento ao agravo regimental.
+É o voto.
