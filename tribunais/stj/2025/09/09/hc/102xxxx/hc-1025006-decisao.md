@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de LUIZ CARLOS MARÇAL, contra decisão monocrática proferida por Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2059521-65.2025.8.26.0000).
+Depreende-se dos autos que o Juiz de Direito da Unidade Regional de Departamento Estadual de Execução Criminal de São José dos Campos (DEECRIM 9ª RAJ), nos autos nº. 0005183-17.2018.8.26.0520, indeferiu pedido formulado pelo paciente, visando à remição de pena por estudo, em razão de sua aprovação no Exame Nacional do Ensino Médio (ENEM).
+O habeas corpus ajuizado na origem não foi conhecido, nos termos da decisão monocrática de fls. 20-23.
+No presente writ, a defesa alega, em síntese, que "Pela aprovação nas áreas de conhecimento do ENEM, o sentenciado fez jus à remição com fundamento no parágrafo único, artigo 3º da Resolução nº 391 de 10/05/2021, do Conselho Nacional de Justiça, c/c art. 126, parágrafo 1º, inciso I, da Lei de Execução Penal" (fl. 6).
+Requer seja conferido ao paciente a remição por aprovação na prova de avaliação do ENEM/2020.
+As informações foram prestadas, às fls. 37-40 e 41-54.
+O MPF manifestou-se pelo não conhecimento do habeas corpus, às fls. 58-59.
+É o relatório. DECIDO.
+No presente caso, em decisão unipessoal, o Relator não conheceu do writ (fls. 20-23). O subsequente recurso equivocado não foi conhecido em outra decisão monocrática (fls. 24-25).
+Observa-se, assim, que não houve o debate do tema pelo colegiado de origem a fim de viabilizar a impetração da ordem perante esta Corte Superior.
+Assim, ausente manifestação colegiada do Tribunal sobre a matéria ora trazida a exame, incabível o conhecimento do presente habeas corpus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, incisos I e II, da CF; e art. 13, incisos I e II, do RISTJ).
+Nesse sentido:
+ ..  Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016)  ..  (AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+ .. "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018)  ..  (AgRg no HC n. 607.272/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/4/2021, DJe de 16/4/2021.)
+Esta Corte Superior de Justiça pacificou o entendimento de que: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
