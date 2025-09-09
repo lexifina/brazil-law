@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo ESTADO DE MINAS GERAIS, com fundamento na incidência do óbice da Súmula 283 do Supremo Tribunal Federal, aplicada por analogia.
+O ente federativo sustenta que a decisão de inadmissibilidade deve ser superada, pois, ao contrário do que foi assentado, seu recurso especial teria impugnado devidamente os fundamentos do acórdão recorrido. Afirma que a tese central do recurso, que versa sobre a inaplicabilidade da Súmula n. 114/STF e do art. 638, § 2º, do Código de Processo Civil, aos inventários extrajudiciais, seria suficiente para infirmar a totalidade do julgado no ponto controvertido. Ao final, pugna pelo conhecimento e provimento do agravo, a fim de que o recurso especial seja admitido e, no mérito, provido para reconhecer a legalidade da cobrança de juros e multa sobre o ITCD.
+Foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+O agravo não merece prosperar.
+A jurisprudência pacífica desta Corte Superior é no sentido de que a ausência de impugnação a fundamento do acórdão recorrido, suficiente para mantê-lo, atrai a incidência, por analogia, do óbice da Súmula n. 283 do Supremo Tribunal Federal, que enuncia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+In casu, o Tribunal de origem, ao analisar a apelação, afastou a incidência de juros e multa sobre o ITCD com base em uma fundamentação dupla e autônoma.
+O primeiro fundamento consiste na aplicação analógica do entendimento consolidado na Súmula n. 114/STF aos inventários extrajudiciais.
+O segundo fundamento, contudo, de natureza fático-jurídica e específico ao caso concreto, foi assim delineado no acórdão recorrido (fl. 19473):
+A definição da base de cálculo do imposto somente se verifica após a avaliação dos bens procedida pela Fazenda Estadual, razão pela qual o ITCD não será exigível antes da homologação do cálculo, notadamente no especial caso em julgamento, em que houve alteração da base de cálculo pela Administração Fazendária em decorrência da incompatibilidade entre o valor indicado pelo contribuinte e o valor venal do bem transmitido.
+Este segundo pilar da decisão é, por si só, suficiente para manter o julgado. A lógica subjacente é a de que, se a própria Administração Tributária instaurou controvérsia sobre o quantum debeatur ao reavaliar os bens e alterar a base de cálculo declarada, não se pode imputar mora ao contribuinte, pois a exigibilidade do tributo estava condicionada à apuração definitiva do seu valor pelo Fisco.
+Ao interpor o recurso especial, o Estado de Minas Gerais concentrou sua argumentação exclusivamente em combater o primeiro fundamento, qual seja, a inaplicabilidade da Súmula 114/STF e do rito do inventário judicial ao procedimento extrajudicial. O recorrente, no entanto, absteve-se de tecer qualquer consideração para infirmar o fundamento autônomo e suficiente de que a alteração da base de cálculo pelo próprio Fisco afastava a mora do contribuinte.
+Dessa forma, tendo o recorrente deixado de impugnar fundamento autônomo e suficiente à manutenção do acórdão, atrai-se a incidência, por analogia, da Súmula n. 283/STF, o que obsta o conhecimento do recurso especial.
+Nesse sentido, a jurisprudência consolidada desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO RESCISÓRIA. .. .
+VI. Por outro lado, o acórdão recorrido foi expresso ao concluir que "extinguiu-se o feito com relação à autora que já estava morta há quase nove anos. A propósito, a inicial inclui o seu nome em meio aos demais autores. Este o motivo, que o julgado deixou bem assentado. O fato de existir terceiro juridicamente interessado como sujeito ativo da ação rescisória, art. 487, inc. II, da lei processual civil, é matéria totalmente diferente, porque não há, no caso, nenhum terceiro intentando ação rescisória, nem pode, no caso, ocorrer a habilitação, porque o feito, no que tange a autora falecida já iniciou morto, porque ela morta já se encontrava, de modo que a habilitação se destina a autor que, ao iniciar a demanda, está vivo, e, no meio dela, falece, circunstância que, no caso, aqui não se verifica". Todavia, tais fundamentos não restaram efetivamente rechaçados nas razões do apelo nobre. Diante desse contexto, a pretensão recursal esbarra, inarredavelmente, no óbice da Súmula 283 do Supremo Tribunal Federal, por analogia.
+ ..
+(AgInt no REsp n. 1.473.108/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 24/4/2023.)
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
