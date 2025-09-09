@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. PORTE ILEGAL DE ARMA DE FOGO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. PLEITO ABSOLUTÓRIO E REVISÃO DA DOSIMETRIA. REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. "PÓS-QUESTIONAMENTO". FUNDAMENTOS NÃO INFIRMADOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica e pormenorizada de todos os fundamentos da decisão que inadmitiu o recurso especial atrai a incidência da Súmula n. 182 desta Corte.
+2. A pretensão de absolvição, quando amparada na necessidade de revolvimento do conjunto fático-probatório, encontra óbice na Súmula n. 7 do STJ, não sendo suficiente a mera alegação genérica de que se trata de revaloração probatória.
+3. A suscitação de matéria apenas em sede de embargos de declaração, sem que tenha sido objeto de debate no acórdão recorrido, configura "pós-questionamento", o que não supre o requisito do prequestionamento, nos termos das Súmulas 211/STJ e 282/STF.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por CARLOS HENRIQUE LEITE GODOY contra decisão monocrática em que não conheci do agravo em recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+"APELAÇÃO CRIME. CRIME DE PORTE ILEGAL DE ARMA DE FOGO (ART. 14 DA LEI Nº 10.826/2003).ROGO ALEGADA AUSÊNCIA DE PROVA ABSOLUTÓRIO. SUFICIENTE PARA A CONDENAÇÃO. NÃO ACOLHIMENTO. DECLARAÇÕES PRESTADAS PELOS POLICIAIS QUE REALIZARAM A DILIGÊNCIA. CREDIBILIDADE. CONJUNTO PROBATÓRIO IDÔNEO E SUFICIENTE. SÚPLICA SUBSIDIÁRIA DE ADEQUAÇÃO DA PENA NO MÍNIMO LEGAL. INVIABILIDADE. RECONHECIMENTO DA AGRAVANTE DA REINCIDÊNCIA REAL QUE AUTORIZA O INCREMENTO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. REGIME SEMIABERTO IMPOSTO EM CONFORMIDADE AO ART. 33, §2º, ALÍNEA "B" E § 3º, DO CP, ANOTANDO-SE A REINCIDÊNCIA ESPECÍFICA E SÚMULA 269 DO STJ. EXTINÇÃO DA PENA DE MULTA. ADUZIDA IMPOSSIBILIDADE DE ADIMPLEMENTO - TEMA 931. NÃO ACOLHIMENTO. EXECUÇÃO DA PENA CORPORAL QUE NEM MESMO INICIOU. IMPOSSIBILIDADE OU DIFICULDADE NO ADIMPLEMENTO DA PENA DE MULTA QUE DEVE SER OBJETO DE APRECIAÇÃO PELO JUÍZO DA EXECUÇÃO DA PENA. SENTENÇA MANTIDA. RECURSO DESPROVIDO."
+A parte agravante requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 714-717).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. PORTE ILEGAL DE ARMA DE FOGO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. PLEITO ABSOLUTÓRIO E REVISÃO DA DOSIMETRIA. REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. "PÓS-QUESTIONAMENTO". FUNDAMENTOS NÃO INFIRMADOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica e pormenorizada de todos os fundamentos da decisão que inadmitiu o recurso especial atrai a incidência da Súmula n. 182 desta Corte.
+2. A pretensão de absolvição, quando amparada na necessidade de revolvimento do conjunto fático-probatório, encontra óbice na Súmula n. 7 do STJ, não sendo suficiente a mera alegação genérica de que se trata de revaloração probatória.
+3. A suscitação de matéria apenas em sede de embargos de declaração, sem que tenha sido objeto de debate no acórdão recorrido, configura "pós-questionamento", o que não supre o requisito do prequestionamento, nos termos das Súmulas 211/STJ e 282/STF.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+A decisão de inadmissibilidade fundamentou-se corretamente na incidência das Súmulas 7/STJ, 211/STJ e 282/STF. O agravante, embora tenha tentado impugnar os três fundamentos da decisão hostilizada, não logrou afastar os óbices identificados pelo Tribunal de origem, atraindo a aplicação da Súmula n. 182 desta Corte.
+Primeiramente, no tocante à Súmula 7 do STJ, o agravante limita-se a invocar genericamente a distinção entre "reexame" e "revaloração" probatória, sem demonstrar concretamente como a pretensão absolutória e a modificação da dosimetria da pena poderiam ser acolhidas sem o vedado revolvimento do conjunto fático-probatório. A esse respeito, é entendimento consolidado desta Corte que, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada, sendo imprescindível o cotejo com as premissas fáticas de que partiu o aresto.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA N. 182/STJ. PLEITO ABSOLUTÓRIO. REEXAME DE PROVAS. SÚMULA 7/STJ. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. FUNDAMENTAÇÃO CONCRETA. SÚMULAS 7 E 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, em razão da incidência do enunciado de Súmula n. 182/STJ, por falta de impugnação específica aos fundamentos da decisão agravada.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a parte agravante impugnou adequadamente todos os fundamentos da decisão que inadmitiu o recurso especial.
+III. RAZÕES DE DECIDIR
+3. A decisão agravada não conheceu do agravo em recurso especial devido à falta de impugnação específica aos fundamentos da decisão recorrida, conforme exigência do art. 932, III, do CPC, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182 do STJ.
+4. "O entendimento desta Corte Superior é que a simples assertiva genérica de revaloração da prova não é suficiente para afastar o óbice da Súmula n. 7 do STJ, sendo necessário o cotejo com as premissas fáticas do acórdão recorrido" (AREsp 2739086/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/2/2025, DJEN 25/2/2025.)
+5. No caso dos autos, o Tribunal local entendeu estarem devidamente comprovadas a autoria e a materialidade do delito de tráfico de drogas, afastando a causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, com base em elementos do caso concreto. Incidência das Súmulas 7 e 83 do STJ.
+6. ""A complementação da fundamentação deficiente em sede de agravo regimental não tem o condão de sanar o vício contido nas razões do agravo em recurso especial, porquanto configura inovação recursal, vedada em razão da preclusão consumativa" (AgRg no AREsp n. 2.016.921/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/3/2022)" (AgRg no AREsp 2178994/SC, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/3/2023, DJe 28/3/2023.)
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp n. 2.825.431/ES, relator Ministro Carlos Cini Marchionatti, Desembargador Convocado TJRS, Quinta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.)
+Com efeito, ao se valer de alegação genérica relativa aos conceitos de reexame e de revaloração probatória, o agravante não se desincumbiu do ônus de demonstrar que, efetivamente, a insurgência não demandaria o revolvimento de provas, notadamente diante do pleito absolutório veiculado no recurso especial, tendente a modificar as premissas fáticas do acórdão e a fragilizar o arcabouço probatório dos autos.
+No que se refere às Súmulas 211/STJ e 282/STF, o Tribunal a quo corretamente identificou a ocorrência de pós-questionamento. Como bem consignado na decisão agravada, "infere-se que a Câmara julgadora não acolheu os aclaratórios opostos, por constatar que a tese levantada se trata de inovação recursal, cuja apreciação não é admitida pelo manejo dos embargos de declaração, porquanto tais argumentos não foram expostos nas razões de apelação anteriormente apresentadas" (e-STJ fl. 638).
+Esta Corte tem decidido o seguinte:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. NOVAS TESES TRAZIDAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Este Tribunal Superior possui entendimento pacificado no sentido de que a alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 6/5/2014).
+2. Os embargos de declaração interpostos após a formação do acórdão, com o escopo de prequestionar tema não veiculado anteriormente no processo, não caracterizam prequestionamento, mas pós-questionamento. Incidência da Súmula nº 211 do STJ. (AgRg no Ag n. 705.169/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 21/09/2009).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 982.366/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 1/3/2018, DJe de 12/3/2018.)
+A oposição de embargos declaratórios após a formação do acórdão, com o escopo de que seja analisado tema não arguido anteriormente no processo, não configura prequestionamento, mas pós-questionamento, razão pela qual a ausência de manifestação do Tribunal sobre a questão não caracteriza negativa de prestação jurisdicional.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
