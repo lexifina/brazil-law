@@ -1,0 +1,95 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 03/09/2025 a 09/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+Direito processual civil. Embargos de divergência. art. 1.021, § 4º, do cpc/2015. multa aplicada. Recolhimento prévio. exigibilidade. pressuposto recursal à interposição de qualquer recurso. inteligência do § 5º do mesmo artigo . Embargos DESprovidos.
+I. Caso em exame
+1. Embargos de divergência opostos contra acórdão da Terceira Turma que não conheceu de agravo interno no agravo em recurso especial, por ausência de comprovação do prévio recolhimento da multa prevista no art. 1.021, § 4º, do CPC/2015, considerada pressuposto objetivo de admissibilidade de qualquer recurso subsequente.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o recolhimento prévio da multa prevista no art. 1.021, § 4º, do CPC/2015 é exigível como condição de admissibilidade de recurso que visa desconstituir a própria condenação à multa.
+III. Razões de decidir
+3. A jurisprudência consolidada do Superior Tribunal de Justiça reconhece que o recolhimento prévio da multa é pressuposto recursal objetivo de admissibilidade de qualquer recurso interposto após a condenação, conforme o § 5º do art. 1.021 do CPC/2015.
+4. As exceções à exigência do recolhimento prévio da multa são apenas aquelas expressamente previstas no § 5º do art. 1.021 do CPC/2015, referentes à Fazenda Pública e ao beneficiário da justiça gratuita.
+5. O conteúdo da irresignação recursal é irrelevante para a exigibilidade do recolhimento prévio da multa, não havendo exceção para recursos que visem desconstituir a própria condenação à multa.
+IV. Dispositivo e tese
+6. Embargos de divergência desprovidos.
+Tese de julgamento: "1. O recolhimento prévio da multa prevista no art. 1.021, § 4º, do CPC/2015 é pressuposto recursal objetivo de admissibilidade de qualquer recurso subsequente. 2. As exceções à exigência do recolhimento prévio da multa são apenas aquelas expressamente previstas no § 5º do art. 1.021 do CPC/2015, referentes à Fazenda Pública e ao beneficiário da justiça gratuita".
+Dispositivos relevantes citados: CPC/2015, art. 1.021, §§ 4º e 5º.
+Jurisprudência relevante citada: EDcl no AgInt no AgInt no AREsp n. 2.654.306/SP, rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025; AgInt no AgInt no AREsp n. 1.987.534/DF, rel. Min. Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023; AgInt no AgInt no AgInt no AREsp n. 1.089.564/MA, rel. Min. Marco Buzzi, Quarta Turma, julgado em 12/12/2022.
+RELATÓRIO
+Trata-se de embargos de divergência opostos por VICENTE LUIZ ZAMBILLO (ESPÓLIO) e OUTROS a acórdão prolatado pela Terceira Turma, assim ementado (fls. 541-542):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. APLICAÇÃO DE MULTA COM FUNDAMENTO NO ART. 1.021, § 4º, DO CPC, PELO TRIBUNAL DE ORIGEM. NÃO COMPROVAÇÃO DO PRÉVIO RECOLHIMENTO. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE DE QUALQUER RECURSO QUE VENHA A SER INTERPOSTO POSTERIORMENTE. DECISÃO MANTIDA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos do art. 1.021, § 5º, do NCPC, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+3. Agravo interno não conhecido.
+A parte embargante suscita divergência sobre a exigibilidade do recolhimento prévio da multa prevista no art. 1.021, § 4º, do CPC/2015, quando o mérito do recurso tiver por escopo desconstituir essa própria condenação, como no caso.
+Indica, para fins de confronto analítico, o acórdão proferido no AgInt no AREsp n. 1.390.431/DF, da Segunda Turma.
+Os embargos foram admitidos, em juízo preliminar, por decisão de fls. 626-627.
+A parte embargada apresentou impugnação às fls. 634-647.
+É o relatório.
+EMENTA
+Direito processual civil. Embargos de divergência. art. 1.021, § 4º, do cpc/2015. multa aplicada. Recolhimento prévio. exigibilidade. pressuposto recursal à interposição de qualquer recurso. inteligência do § 5º do mesmo artigo . Embargos DESprovidos.
+I. Caso em exame
+1. Embargos de divergência opostos contra acórdão da Terceira Turma que não conheceu de agravo interno no agravo em recurso especial, por ausência de comprovação do prévio recolhimento da multa prevista no art. 1.021, § 4º, do CPC/2015, considerada pressuposto objetivo de admissibilidade de qualquer recurso subsequente.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o recolhimento prévio da multa prevista no art. 1.021, § 4º, do CPC/2015 é exigível como condição de admissibilidade de recurso que visa desconstituir a própria condenação à multa.
+III. Razões de decidir
+3. A jurisprudência consolidada do Superior Tribunal de Justiça reconhece que o recolhimento prévio da multa é pressuposto recursal objetivo de admissibilidade de qualquer recurso interposto após a condenação, conforme o § 5º do art. 1.021 do CPC/2015.
+4. As exceções à exigência do recolhimento prévio da multa são apenas aquelas expressamente previstas no § 5º do art. 1.021 do CPC/2015, referentes à Fazenda Pública e ao beneficiário da justiça gratuita.
+5. O conteúdo da irresignação recursal é irrelevante para a exigibilidade do recolhimento prévio da multa, não havendo exceção para recursos que visem desconstituir a própria condenação à multa.
+IV. Dispositivo e tese
+6. Embargos de divergência desprovidos.
+Tese de julgamento: "1. O recolhimento prévio da multa prevista no art. 1.021, § 4º, do CPC/2015 é pressuposto recursal objetivo de admissibilidade de qualquer recurso subsequente. 2. As exceções à exigência do recolhimento prévio da multa são apenas aquelas expressamente previstas no § 5º do art. 1.021 do CPC/2015, referentes à Fazenda Pública e ao beneficiário da justiça gratuita".
+Dispositivos relevantes citados: CPC/2015, art. 1.021, §§ 4º e 5º.
+Jurisprudência relevante citada: EDcl no AgInt no AgInt no AREsp n. 2.654.306/SP, rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025; AgInt no AgInt no AREsp n. 1.987.534/DF, rel. Min. Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023; AgInt no AgInt no AgInt no AREsp n. 1.089.564/MA, rel. Min. Marco Buzzi, Quarta Turma, julgado em 12/12/2022.
+VOTO
+Cinge-se a controvérsia a saber se o recolhimento prévio da multa prevista no § 4º do art. 1.021 do CPC/2015 é imperativo para o conhecimento do recurso que tenha por mérito o escopo de desconstituir essa própria condenação.
+No presente caso, o Tribunal de origem aplicou a multa prevista no § 4º do art. 1.021 do CPC/2015 à parte embargante, ao fundamento de que houve votação unânime reconhecendo a improcedência do agravo interno em análise.
+Foi interposto recurso especial com preliminar de negativa de prestação jurisdicional e, no mérito, alegação de ofensa ao art. 1.021, § 4º, do CPC, insurgindo-se contra a aplicação da multa, à míngua de pretensão infundada ou interesse meramente protelatório na interposição do agravo interno.
+Inadmitido na origem, sobreveio o oferecimento de agravo em recurso especial, não conhecido pelo relator, ante a ausência de prévio recolhimento da multa aplicada. A decisão foi mantida em sede de agravo interno pela Terceira Turma, ao fundamento de que, a teor do § 5º do art. 1.021 do CPC/2015, o recolhimento prévio da multa prevista no § 4º do mesmo dispositivo legal é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não sendo possível o conhecimento do recurso manejado sem esse pagamento.
+Por sua vez, analisando-se o acórdão paradigma, verifica-se que, embora não tenha se manifestado de forma explícita sobre a exigibilidade do recolhimento prévio da multa como condição de procedibilidade do recurso que impugna sua aplicação, afirmou expressamente que mantida a decisão agravada "pelos seus próprios e jurídicos fundamentos, uma vez que, em razão da decisão monocrática do Desembargador Relator, a interposição do agravo regimental fez-se necessária para fins de esgotamento da jurisdição ordinária e abertura da via extraordinária, considerando-se ainda que o recurso especial teve também como objetivo discutir a multa aplicada".
+Por sua vez, a decisão monocrática então impugnada consignara que:
+Em um exame inicial, constata-se a plausibilidade jurídica do agravo interno pelo menos no que tange à alegação da inaplicabilidade de exigência do depósito prévio quando se discute a própria aplicação da multa prevista nos §§ 4º e 5º do artigo 1.021 do CPC/2015.
+No presente caso, o Tribunal a quo proferiu acórdão em julgamento de agravo regimental condenando a agravante na multa de 1% (um por cento) do valor atualizado da causa em julgamento unânime daquela Turma, ficando a interposição de qualquer outro recurso condicionada ao depósito prévio da respectiva quantia.
+Com efeito, o Código de Processo Civil, ora com vistas à manutenção da autoridade das ordens judiciais, ora da ética processual entre as partes litigantes, mas sempre com o foco na efetividade e na celeridade da prestação da tutela jurisdicional, preconiza a imposição de multas a serem revertidas para a parte adversa no caso da prática de abuso do direito processual, o qual, em verdade, reflete ofensa à dignidade da justiça, em desrespeito ao princípio do devido processo legal, tal como ocorre nas hipóteses previstas nos arts. 80 e 81 do CPC/2015, por exemplo, em que se visa a sancionar aquele que age com má-fé no processo.
+A multa prevista no art. 1.021, § 4º, do CPC/2015 (antigo art. 557, § 2º, do CPC/1973) surge como desdobramento específico da sanção por litigância de má-fé, no caso de interposição de agravos manifestamente inadmissíveis ou infundados:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+(..)
+§ 4º Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+§ 5º A interposição de qualquer outro recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final.
+Sob esse enfoque, constata-se que o referido dispositivo instituiu pressuposto objetivo específico de admissibilidade recursal, qual seja, o depósito prévio do valor da multa e a respectiva comprovação, sem o que a parte vê-se impossibilitada de interpor qualquer outro recurso.
+Surge então a indagação: o recolhimento prévio da multa é condição de admissibilidade de eventual recurso interposto apenas contra o próprio acórdão em que aplicada a sanção ou, ao revés, estende-se a qualquer outra decisão contra a qual se pretenda futuramente recorrer, ainda que em fase processual diversa
+Com efeito, o escopo precípuo da sanção prevista no dispositivo é inibir o abuso do direito de recorrer, o qual é verificado quando se insurge o recorrente reiteradas vezes mediante a interposição de recursos sucessivos contra a mesma matéria adrede impugnada.
+Por outro lado, o manejo de impugnações encarta-se no princípio do duplo grau de jurisdição e é manifestação legítima do exercício do direito constitucional de acesso à justiça.
+Vicente Greco assevera ser o condicionamento absoluto da interposição de outros recursos à comprovação do depósito da multa quase que equivalente à "prisão por dívida ou negativa de acesso à Justiça por falta de pagamento de reparação de danos" (Recursos Cíveis de acordo com a Lei 9.756/1998. In Aspectos Polêmicos e Atuais dos Recursos Cíveis de acordo com a Lei 9.756/98. São Paulo: Editora Revista dos Tribunais, 1999, p. 610).
+Destarte, examinada a questão por esse ângulo, condicionar o processamento do recurso especial interposto pela agravante ao recolhimento prévio da multa processual termina por criar indevido óbice ao seu direito recursal, ainda mais quando o objeto do recurso especial é a própria discussão sobre a aplicação da referida sanção.
+Assim, afasto a exigência do depósito prévio da multa e passo a proceder a novo exame do recurso.
+Anote-se que o agravo interno interposto devolveu ao colegiado a controvérsia sobre o cabimento da multa e sobre a questão da exigibilidade do recolhimento prévio como pressuposto de admissibilidade dos recursos posteriores. É o que se extrai do relatório do acórdão paradigma, in verbis:
+Trata-se de agravo interno interposto por COOK EMPREENDIMENTOS EM ALIMENTAÇÃO COLETIVA LTDA contra decisão de fls. 1462/1468 (e-STJ) em que foi afastada a multa do artigo 1.021, § 4º, do CPC/2015, aplicada pelo Tribunal de origem por ocasião de votação unânime que negou provimento ao agravo regimental da agravada.
+Insurge-se a agravante sustentando que houve fundamentação expressa pelo Tribunal de origem para a aplicação da referida multa, não sendo um ato automático de improvimento do recurso, bem como que a condição objetiva de procedibilidade recursal não criou exceções, devendo ser exigido o depósito prévio da multa para que qualquer outro recurso possa vir a ser processado.
+Resta, portanto, devidamente comprovada a divergência entre os acórdãos confrontados.
+A respeito da controvérsia, a jurisprudência desta Corte se consolidou no sentido de reconhecer que o recolhimento prévio da multa prevista no § 4º do art. 1.021 do CPC/2015 é pressuposto recursal objetivo de admissibilidade de qualquer recurso interposto após sua condenação, a teor do § 5º do mesmo dispositivo legal. As exceções consideradas são apenas aquelas expressamente previstas no mencionado § 5º e alusivas à Fazenda Pública e ao beneficiário da justiça gratuita, que farão o pagamento ao final, nada se dizendo quanto ao conteúdo da irresignação recursal, que se mostra, portanto, irrelevante.
+Confiram-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. APLICADA. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA. CARÁTER PROTELATÓRIO. MULTA. ART. 1.026, § 2º, DO CPC.
+1. Nos termos do § 5º do art. 1021, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º, com exceção da Fazenda Pública e do beneficiário da assistência judiciária gratuita, que farão o pagamento ao final.
+2. Na hipótese, configurado o caráter protelatório dos embargos, impõe-se a aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+3. Embargos de declaração não conhecidos. (EDcl no AgInt no AgInt no AREsp n. 2.654.306/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015 APLICADA. NECESSIDADE DE RECOLHIMENTO ANTERIOR À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. PROVIMENTO NEGADO.
+1. "Nos termos do § 5º do art. 1021, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no §4º, à exceção da Fazenda Pública e ao beneficiário da justiça gratuita que farão o pagamento ao final" (EDcl no AgInt nos EDcl nos EAREsp 1.835.680/PR, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 3/10/2022).
+2. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp n. 1.987.534/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INVENTÁRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO, ANTE SUA INTERPOSIÇÃO CONTRA DECISÃO COLEGIADA. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Nos termos do artigo 1.021, § 5º, do Código de Processo Civil, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+Precedentes.
+2. Descabe a interposição de agravo interno contra acórdão proferido por órgão colegiado do STJ, configurando, assim, erro grosseiro a interposição do presente recurso. Precedentes.
+3. Agravo interno não conhecido. (AgInt no AgInt no AgInt no AREsp n. 1.089.564/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015 APLICADA. NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA.
+1. Ação civil pública de responsabilidade por atos de improbidade administrativa.
+2. Nos termos do §5º do art. 1021, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no §4º, à exceção da Fazenda Pública e ao beneficiário da justiça gratuita que farão o pagamento ao final.
+3. Embargos de declaração não conhecidos. (EDcl no AgInt nos EDcl nos EAREsp n. 1.835.680/PR, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NECESSIDADE DE RECOLHIMENTO PRÉVIO. AUSÊNCIA. PAGAMENTO NO DIA SEGUINTE. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 5º, do CPC/2015, o prévio recolhimento da multa prevista no § 4º do referido artigo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso interposto sem a comprovação do pagamento. Precedentes.
+2. O termo final previsto na lei e a preclusão consumativa impedem que o pagamento posterior gere efeitos retroativos para que se admita o recurso.
+3. Agravo interno a que se nega provimento. (AgInt nos EREsp n. 1.737.942/CE, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 18/8/2020, DJe de 21/8/2020.)
+Ante o exposto, nego provimento aos embargos de divergência.
+É o voto.
