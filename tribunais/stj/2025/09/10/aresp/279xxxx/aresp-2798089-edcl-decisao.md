@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se embargos de declaração opostos por BRADESCO AUTO/RE COMPANHIA DE SEGUROS contra decisão unipessoal que não conheceu do agravo em recurso especial interposto por DÂNICA SOLUÇÕES TERMOISOLANTES INTEGRADAS S/A - EM RECUPERAÇÃO JUDICIAL.
+Nas razões do presente recurso, afirma a parte embargante que a decisão embargada teria sido omissa obscura no que diz respeito à condenação da agravante, ora embargada, no que se refere à majoração dos honorários sucumbenciais, ao argumento de que constou, na decisão agravada, apenas que a majoração dos honorários anteriormente fixados se justificaria pelo "trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso", destacando que tanto os autores, quanto à denunciada, ora embargante, figuram como parte agravada.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, a despeito das alegações ora aduzidas pela parte embargante, o que se verifica é que a decisão embargada foi devidamente clara, congruente e fundamentada acerca da majoração dos honorários devidos pela parte agravante à parte agravada - ESPÓLIO DE FLÁVIO RIBEIRO DOS SANTOS E OUTRO e BRADESCO AUTO/RE COMPANHIA DE SEGUROS -, nos termos do art. 85, § 11, do CPC, não havendo que falar, portanto, em obscuridade do decisum.
+Cabe esclarecer que "o conceito de obscuridade, para embargos de declaração, somente se materializa se a decisão é ininteligível, seja por ilegível, seja por má redação. Não se confunde com interpretação do direito tida por inadequada pela parte. Se ela pode tecer argumentos contra a conclusão da Corte, é porque compreende a decisão, embora dela discorde; a decisão obscura é, a rigor, irrecorrível quanto a seus fundamentos, que nem sequer são passíveis de identificação racional articulada" (AgInt no REsp 1859763/AM, Segunda Turma, DJe 19/5/2021). No mesmo sentido: EDcl no AgInt no REsp 1.925.050/RS, Quarta Turma, DJe de 24/3/2022.
+Na verdade, a pretexto de obscuridade, verifica-se que a embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada na decisão embargada e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração rejeitados.
