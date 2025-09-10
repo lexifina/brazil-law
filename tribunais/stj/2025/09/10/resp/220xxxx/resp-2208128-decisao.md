@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por VLADINA BRAZ CARRADORE (VLADINA), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESSARCIMENTO MATERIAL. SENTENÇA QUE JULGLOU PROCEDENTE O PEDIDO INICIAL E IMPROCEDENTE A RECONVENÇÃO. INSURGÊNCIA DA REQUERIDA.
+AVENTADA FALSIFICAÇÃO DE ASSINATURA NO DOCUMENTO ÚNICO DE TRANSFERÊNCIA VEICULAR. INSUBSISTÊNCIA. ASSINATURA QUE SE DEU POR AUTENTICIDADE, O QUE EXIGE A PRESENÇA DO ASSINANTE DIANTE DO TABELIÃO. ELEMENTOS PROBATÓRIOS QUE DÃO CONTA DE QUE O VEÍCULO POR OCASIÃO DA VENDA ERA DE PROPRIEDADE DO APELADO. VALORES RECEBIDOS PELA REQUERIDA DE FORMA INDEVIDA. ENRIQUECIMENTO ILÍCITO EVIDENCIADO. SENTENÇA ESCORREITA.
+RECONVENÇÃO PREJUDICADA.
+HONORÁRIOS RECURSAIS INDEVIDOS. VERBA HONORÁRIA FIXADA NA ORIGEM NO PATAMAR LEGAL.
+RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 955).
+Os embargos de declaração opostos por VLADINA foram rejeitados.
+Nas razões do presente recurso, VLADINA alegou ofensa aos arts. 489, § 1º, II, III e IV e 1.022, II, do NCPC e 167, 1.226 e 1.267 do CC/2002. Sustentou que (1) o aresto recorrido foi omisso, porque não se pronunciou acerca do fato de que não houve nenhuma negociação entre a empresa Kolina Premium e Valdoir, já que não ficou demonstrada nenhuma movimentação financeira documentada; (2) o acórdão ficou omisso ainda, pois não considerou que o bem permaneceu em sua posse, revelando a ausência de tradição do veículo; (3) a omissão no acórdão ainda se revelou, em virtude da ausência de manifestação quanto ao inegável abuso de confiança por parte do recorrido que fez a transferência do DUT ao seu nome, por intermédio da concessionária Kolina Premium, demonstrando a ocorrência de simulação; (4) ficou incontroverso, nos autos, que não houve a tradição do veículo, que sempre permaneceu em sua posse, embora o recorrido tenha transferido o DUT fraudulentamente; (5) a transferência do veículo ocorre por mera tradição, impondo-se o registro no órgão de trânsito para fins de publicidade; (6) ocorreu simulação, em razão da ausência de tradição e de qualquer movimentação financeira somada a ausência de consentimento e de conhecimento da mudança de propriedade de seu veículo; e, (7) a simulação é causa de nulidade absoluta do negócio.
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.027/1.045).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+Da assertiva de omissão no aresto recorrido
+VLADINA alegou ofensa aos arts. 489, § 1º, II, III e IV e 1.022, II, do NCPC e 167, 1.226 e 1.267 do CC/2002. Sustentou que (1) o aresto recorrido foi omisso, porque não se pronunciou acerca do fato de que não houve nenhuma negociação entre a empresa Kolina Premium e Valdoir, já que não ficou demonstrada nenhuma movimentação financeira documentada; (2) o acórdão ficou omisso ainda, pois não considerou que o bem permaneceu em sua posse, revelando a ausência de tradição do veículo; e, (3) a omissão no acórdão ainda se revelou, em virtude da ausência de manifestação quanto ao inegável abuso de confiança por parte do recorrido que fez a transferência do DUT ao seu nome, por intermédio da concessionária Kolina Premium. demonstrando a ocorrência de simulação.
+A Corte local, ao analisar os embargos de declaração deixou de apreciar tema referente ao fato de que não houve nenhuma negociação entre a empresa Kolina Premium e Valdoir, já que não ficou demonstrada nenhuma movimentação financeira documentada, no tocante à não consideração de que o bem permaneceu em sua posse, revelando a ausência de tradição do veículo e, em virtude da ausência de manifestação quanto ao inegável abuso de confiança por parte do recorrido que fez a transferência do DUT ao seu nome, por intermédio da concessionária Kolina Premium. demonstrando a ocorrência de simulação.
+É condição sine qua non ao conhecimento do especial que as questões de direito ventiladas nas razões de recurso tenham sido analisadas pelo acórdão objurgado. Assim, recusando-se a Corte de origem a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à Recorrente.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO PROFERIDO EM APELAÇÃO. OMISSÃO VERIFICADA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Recurso especial provido.
+(REsp n. 2.005.719/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/2/2023, DJe de 2/3/2023)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Ante o exposto, CONHEÇO em parte do recurso especial e, nesta extensão, DOU-LHE PROVIMENTO a fim de determinar o retorno dos autos ao Tribunal de Justiça de Santa Catarina para que se analisem as questões trazidas nos embargos de declaração, como entender de direito, prejudicadas as demais questões.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO MATERIAL. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONFIGURAÇÃO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESTA EXTENSÃO, PROVIDO.
