@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JACKSON DOS SANTOS SILVA, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (HC n. 8047275-51.2024.8.05.0000; e APELAÇÃO CRIMINAL n. 0502482-97.2017.8.05.0244).
+Consta dos autos que o paciente foi "condenado pela suposta prática da infração penal sediada no art. 121, §2º, I e IV, do Código Penal, por força de decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA  ..  a uma pena de 14 (catorze) anos de reclusão, em regime inicial fechado" (fls. 2-3).
+O acórdão apontado como ato coator não tratou da matéria neste mandamus (APELAÇÃO CRIMINAL n. 0502482-97.2017.8.05.0244 - fls. 1845-1856); já o despacho no HC n. 8047275-51.2024.8.05.0000 determinou apenas a instrução após a negativa de pedido de liminar.
+Em suas razões, sustenta a defesa a ocorrência de constrangimento ilegal, pois o "TJBA aduziu que o celular do corréu GETÚLIO - de onde foram extraídas as mensagens que lastreiam à acusação e supostamente vinculam o Paciente ao fato criminoso - foi apreendido regularmente, após o deferimento do mandado de busca e apreensão para a sua residência  .. " (fl. 4).
+E que a apreensão do "celular SAMSUNG S2 GT-I 9300, de propriedade de GETÚLIO ARCANJO DE ALMEIDA JÚNIOR, no dia 14/07/2017, foi realizada ANTES da expedição do mandado de busca e apreensão, única e exclusivamente porque não teria sido demonstrada a sua procedência lícita" (fl. 4).
+Requer, inclusive liminarmente" determinar o desentranhamento do material probatório derivado da apreensão ilegal do celular SAMSUNG S2 GT - I 9300 e de todas as demais provas desse ato derivadas, com a consequente rescisão da condenação proferida pelo Conselho de Sentença, submetendo o Paciente a novo julgamento pelo Tribunal do Júri" (fl. 19).
+É o relatório. DECIDO.
+Pelo que se afere da exordial, o habeas corpus investe contra denegação de liminar. Ocorre que, ressalvadas hipóteses excepcionais, não é cabível a utilização do instrumento heroico em situação como a presente.
+A matéria, inclusive, encontra-se sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula n. 691, STF).
+De fato, embora a segregação em geral seja tema de extrema relevância, das alegações da Defesa, não se pode extrair a certeza necessária à eventual concessão da ordem liminarmente e em indevida supressão de instância.
+Assim, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a essa questão.
+Nesse sentido:
+ ..  Conforme o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.  ..  Somente é possível a excepcional superação do rigor da Súmula n. 691 do STF (aplicável ao STJ) quanto verificado, de plano, clara e evidente ilegalidade, além de periculum in mora.  ..  (AgRg no HC n. 799.837/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Também a esse respeito: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Tudo o que impende uma análise mais acurada do feito e o revolvimento de fatos e provas, aliás, seque r realizado pelo Tribunal competente.
+Por fim, impende salientar que, em se tratando de pedido eminentemente satisfativo, o mero indeferimento de liminar não se mostra teratológico (AgRg no HC n. 798.705/RJ, Rel. Min. Antônio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
