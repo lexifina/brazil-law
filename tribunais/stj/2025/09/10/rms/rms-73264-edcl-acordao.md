@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos d e declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por DIEGO NOGUEIRA MOTHCI contra o acórdão da Segunda Turma do STJ, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NÍVEL SUPERIOR. REQUISITO EXPRESSO NO EDITAL. NECESSIDADE DE APRESENTAÇÃO DO DIPLOMA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DA SEGURANÇA. AGRAVO INTERNO DESPROVIDO.
+1. O Edital n. 1/2021 para seleção de candidatos ao provimento de cargos efetivos e cadastro reserva para Professor da Carreira de Magistério da Educação Básica, da Secretaria de Estado da Educação e Desporto - SEED, expressamente previu o requisito de escolaridade de nível superior para ingresso no cargo de professor de educação básica, além da necessidade de apresentação da documentação comprobatória dos requisitos exigidos para exercício no cargo em data específica.
+2. É sabido que, em vista do princípio da vinculação ao edital, as condições estabelecidas no regramento do certame vinculam tanto o Poder Público, que promove o concurso, quanto os candidatos do certame, que a ele se submetem. Assim, sobretudo se não impugnado a tempo e modo pela parte, não há ilegalidade em sua fiel observância pela Administração.
+3. O candidato, embora aprovado dentro do número de vagas para provimento do cargo de professor da educação básica, não apresentou documento essencial à posse no cargo conforme previsto no edital, não havendo direito líquido e certo à nomeação sem o preenchimento do requisito objetivo explícito no edital.
+4. Não há direito líquido e certo do impetrante a que lhe seja assegurada reserva de vaga, reclassificação ou dilação do prazo para apresentação da documentação imprescindível à posse no cargo de professor do ensino básico, o que representaria tratamento desigual ao candidato, em ofensa aos princípios da isonomia e da vinculação ao edital.
+5. Agravo interno desprovido (fl. 609).
+A parte embargante aponta omissão quanto ao seguinte (fl. 628):
+ ..  aplicação dos princípios da razoabilidade e proporcionalidade para o reposicionamento do final de fila, no contexto de força maior, que foi a pandemia de COVID-19. Ademais, há omissões no acórdão no que concerne a pandemia de COVID-19 ser um motivo de força maior, se o princípio de vinculação ao edital também deve ser aplicado em harmonia aos princípios da razoabilidade e proporcionalidade, considerando os documentos apresentados pelo Embargante, bem como se a pandemia da COVID-19 seria um motivo de força maior que excepcionalizasse o princípio da vinculação ao edital.
+Impugnação apresentada às fls. 635-640.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos d e declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos intrínsecos e extrínsecos de admissibilidade.
+O art. 1.022 do CPC/2015 dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão. No acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno não foi provido.
+No que se refere à alegação de que os documentos não foram apresentados em virtude de força maior, qual seja a pandemia da COVID-19, esclarece-se que a questão dos autos não se refere à impossibilidade de entrega de documento, mas sim ao não preenchimento de requisito indispensável, pois no momento da convocação o embargante era aluno concluinte do curso de Licenciatura Plena em História e, como ele próprio admitiu, não possuía a escolaridade exigida para o exercício do cargo.
+Outrossim, conceder a reclassificação pretendida pelo candidato seria grave violação aos princípios da impessoalidade e igualdade, mormente, tendo em vista que todos os candidatos se submeteram às mesmas regras, sem contar o universo de pessoas que deixou de realizar o concurso por não preencher os requisitos constantes do edital.
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; e EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração .
