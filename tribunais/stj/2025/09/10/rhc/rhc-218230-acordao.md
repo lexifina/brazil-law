@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. NULIDADES. NÃO OCORRÊNCIA. BUSCA PESSOAL. FUNDADA SUSPEITA. INGRESSO FORÇADO EM DOMICÍLIO. FUNDADAS RAZÕES. AUSÊNCIA DE INFORMAÇÃO QUANTO AO DIREITO AO SILÊNCIO. NULIDADE RELATIVA. PREJUÍZO NÃO COMPROVADO. MATÉRIA QUE DEVE SER APRECIADA NA FASE DE SENTENÇA, APÓS INSTRUÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO E RISCO DE REITERAÇÃO DELITIVA EVIDENCIADO.
+Recurso improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por ALEX ARAUJO BARBARA e BRUNO GONCALVES REZENDE contra o acórdão proferido pelo Tribunal de Justiça de Goiás no julgamento do HC n. 5318914-21.2025.8.09.0011 (fls. 334/345).
+Consta dos autos que os recorrentes foram presos preventivamente pela prática dos delitos dos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 (Processo n. 5292796-08.2025.8.09.0011, da 4ª Vara Criminal da comarca de Aparecida de Goiânia/GO).
+Aqui, alega-se, em síntese, a ocorrência de constrangimento ilegal decorrente da nulidade das provas obtidas por meio de busca pessoal e domiciliar, da violação do direito ao silêncio, além da ausência de fundamentação idônea para a decretação da prisão preventiva.
+Requer-se a revogação da prisão preventiva dos recorrentes ou, subsidiariamente, a aplicação de medidas cautelares alternativas.
+Em 23/6/2025, indeferi o pedido liminar (fls. 384/385).
+Prestadas as informações (fls. 402/405), o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 409/412).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. NULIDADES. NÃO OCORRÊNCIA. BUSCA PESSOAL. FUNDADA SUSPEITA. INGRESSO FORÇADO EM DOMICÍLIO. FUNDADAS RAZÕES. AUSÊNCIA DE INFORMAÇÃO QUANTO AO DIREITO AO SILÊNCIO. NULIDADE RELATIVA. PREJUÍZO NÃO COMPROVADO. MATÉRIA QUE DEVE SER APRECIADA NA FASE DE SENTENÇA, APÓS INSTRUÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO E RISCO DE REITERAÇÃO DELITIVA EVIDENCIADO.
+Recurso improvido.
+VOTO
+O recurso não comporta acolhimento.
+Inicialmente, ao que se tem dos autos, verifica-se que a busca pessoal não se mostra manifestamente ilegal. Os agentes realizaram a abordagem com base em denúncia anônima especificada e monitoramento prévio dos suspeitos, elementos que configuram justa causa para a ação policial (HC n. 859.862/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 12/12/2024). Quanto à suposta violação de domicílio, do mesmo modo, não se visualiza ilegalidade manifesta, destacando-se além do contexto fático anterior, que o acesso ao local foi franqueado por moradores (fl. 86 ).
+A tese de nulidade pela alegada ilegalidade da busca pessoal ou pela violação domiciliar ocorrida no momento da prisão em flagrante deverá ser examinada, portanto, no curso da instrução criminal, em juízo de cognição exauriente. A propósito, mutatis mutandis: AgRg no HC n. 854.089/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024.
+Observo ainda que a alegada nulidade por falta de informação ao direito ao silêncio na fase inquisitorial é de natureza relativa, a qual exige a demonstração de efetivo prejuízo para ser declarada, o que não restou comprovado no caso dos autos.
+Quanto ao mais, estou de pleno acordo com essa manifestação do Subprocurador-Geral da República João Heliofar de Jesus Villar, in verbis (fl. 411 - grifo nosso):
+ ..
+Em relação à suposta violação do direito ao silêncio (Aviso de Miranda), os autos de prisão em flagrante demonstram que os recorrentes foram devidamente cientificados de seus direitos constitucionais, incluindo o de permanecer em silêncio, o que foi inclusive exercido por eles em seus interrogatórios na delegacia. Assim, em análise sumária, não se verifica nenhuma ilegalidade por ofensa a essa garantia fundamental. Eventual alegação de vício deve ser objeto de dilação probatória na instrução criminal, não sendo cabível a análise na estreita via do habeas corpus.
+No mais, infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, pois o Juízo de Direito de primeiro grau, no que foi acompanhado pela Corte local, destacou a quantidade de droga apreendida e o risco de reiteração delitiva dado o histórico criminal dos recorrentes (fls. 342/343 e 214/215).
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Ademais, o entendimento das instâncias ordinárias que legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+Ante o exposto, nego provimento ao recurso .
