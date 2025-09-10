@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA DA PENA. COMPENSAÇÃO ENTRE REINCIDÊNCIA ESPECÍFICA E CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. PRECEDENTES. REGIME PRISIONAL. ADEQUAÇÃO. INCIDÊNCIA DAS SÚMULAS 269 E 440/STJ.
+Recurso especial provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por Claudio Araujo Florentino, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Revisão Criminal n. 002439-13.2024.8.26.0000, assim ementado (fl. 156):
+REVISÃO CRIMINAL ARTIGO 14, "CAPUT", DA LEI Nº 10.826/03 PRETENDIDA A COMPENSAÇÃO DA CIRCUNSTÂNCIA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A CIRCUNSTÂNCIA AGRAVANTE DA REINCIDÊNCIA NÃO ACOLHIMENTO Diante da confissão espontânea e da reincidência do réu, ambas devem ser compensadas, na medida em que não há que se falar em preponderância de uma sobre a outra, de acordo com o artigo 67 do Código Penal. Todavia, sendo o réu reincidente específico, a compensação de tais circunstâncias deve se dar de forma parcial. Ademais, esta C. 8ª Câmara Criminal consolidou posicionamento de que a circunstância agravante da reincidência é preponderante, não podendo sequer ser compensada com a circunstância atenuante da confissão espontânea.
+Revisão conhecida e, no mérito, indeferida.
+Em suas razões, a defesa alega que a atenuante da confissão espontânea e a agravante da reincidência específica possuem o mesmo valor axiológico na dosimetria da pena, nos termos do art. 67 do Código Penal, devendo ser compensadas integralmente. Argumenta violação dos arts. 33, § 2º, c e § 3º, e 67, ambos do Código Penal, e aponta dissídio jurisprudencial com o Tema 585/STJ.
+Requer a compensação integral entre a reincidência e a confissão espontânea na segunda fase da dosimetria da pena, e o estabelecimento do regime semiaberto para início do cumprimento da reprimenda.
+Ofertadas contrarrazões (fls. 213/224), o Tribunal de origem admitiu parcialmente o apelo (fls. 253/256).
+O Ministério Público Federal opinou, às fls. 264/266, pelo provimento do recurso.
+É o relatório.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA DA PENA. COMPENSAÇÃO ENTRE REINCIDÊNCIA ESPECÍFICA E CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. PRECEDENTES. REGIME PRISIONAL. ADEQUAÇÃO. INCIDÊNCIA DAS SÚMULAS 269 E 440/STJ.
+Recurso especial provido.
+VOTO
+A insurgência recursal comporta provimento.
+Alega o recorrente que o Tribunal estadual aplicou incorretamente o art. 67 do Código Penal ao promover a compensação meramente parcial entre a atenuante da confissão espontânea e a agravante da reincidência específica, quando deveria ter procedido à compensação integral dessas circunstâncias na segunda fase da dosimetria penal.
+A Terceira Seção desta Corte, no julgamento do Recurso Especial n. 1.931.145/SP, da minha relatoria, assentou que é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+No caso vertente, verifica-se que o recorrente ostenta reincidência específica simples, em razão de condenação anterior definitiva relativa à Ação Penal n. 0069126-51.2004.8.26.0050, de modo que é possível a compensação integral com a atenuante da confissão espontânea.
+Por outro lado, a aplicação de regime prisional mais gravoso que o tecnicamente adequado à quantidade de pena imposta constitui violação do princípio da proporcionalidade. O recorrente foi condenado à pena de 2 anos e 4 meses de reclusão, quantum que, em princípio, autorizaria o cumprimento em regime semiaberto, em razão da reincidência, nos termos do art. 33, §2º, c, do Código Penal. Nesse sentido, a Súmula 269/STJ dispõe que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais. Ademais, a Súmula 440 estabelece que, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Dessa forma, merece também reajuste o regime prisional.
+Ante ao exposto, dou provimento ao recurso especial para reformar o acórdão recorrido, efetuando a compensação integral da agravante da reincidência com a atenuante da confissão espontânea, fixar a pena em 2 anos de reclusão, e 10 dias-multa, no valor unitário mínimo, e estabelecer o regime semiaberto para o cumprimento da pena privativa de liberdade.
