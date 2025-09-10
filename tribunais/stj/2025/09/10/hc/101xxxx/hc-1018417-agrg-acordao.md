@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente o Sr. Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS).
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de revisão criminal. IMPOSSIBILIDADE. Agravo regimental IMPRovido.
+I. Caso em exame
+1 Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado em favor do paciente em razão do trânsito em julgado da condenação, o que inviabiliza a apreciação do pedido nesta instância superior.
+2. O agravante alega que o habeas corpus deve ser processado para análise do mérito, mesmo em substituição à revisão criminal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser conhecido como substitutivo de revisão criminal em caso de condenação já transitada em julgado.
+III. Razões de decidir
+4. A decisão transitada em julgado impede a utilização do habeas corpus como substitutivo de revisão criminal, sob pena de usurpação da competência do Tribunal de origem, conforme disposto no art. 105, I, "e", da Constituição da República.
+5. Não se verifica a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do agravante que justifique a concessão de habeas corpus de ofício.
+6. O agravo regimental não trouxe novos argumentos capazes de infirmar a decisão agravada, devendo ser mantido o decisum pelos próprios fundamentos, não existindo flagrante ilegalidade que justifique a concessão da ordem, de ofício
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal após o trânsito em julgado da condenação. 2. A utilização do habeas corpus como substitutivo de revisão criminal configura supressão de instância e usurpação da competência do Tribunal de origem."
+Dispositivos relevantes citados: CR/1988, art. 105, I, "e"; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 994.463/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025; STJ, AgRg HC n. 981.876/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIEGO MOURA RODRIGUES contra a decisão de fls. 80-83 (e-STJ), na qual não foi o conhecido o habeas corpus impetrado em favor do paciente.
+Em suas razões, o agravante reitera a argumentação inicial, formulada no sentido de que a pena privativa de liberdade deve ser substituída por apenas uma restritiva de direitos. Alternativamente, pugna pela substituição da prestação de serviços à comunidade por prestação pecuniária.
+Requer a reconsideração ou a submissão do pleito ao julgamento colegiado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de revisão criminal. IMPOSSIBILIDADE. Agravo regimental IMPRovido.
+I. Caso em exame
+1 Agravo regimental interposto contra decisão que não conheceu do habeas corpus impetrado em favor do paciente em razão do trânsito em julgado da condenação, o que inviabiliza a apreciação do pedido nesta instância superior.
+2. O agravante alega que o habeas corpus deve ser processado para análise do mérito, mesmo em substituição à revisão criminal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o habeas corpus pode ser conhecido como substitutivo de revisão criminal em caso de condenação já transitada em julgado.
+III. Razões de decidir
+4. A decisão transitada em julgado impede a utilização do habeas corpus como substitutivo de revisão criminal, sob pena de usurpação da competência do Tribunal de origem, conforme disposto no art. 105, I, "e", da Constituição da República.
+5. Não se verifica a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do agravante que justifique a concessão de habeas corpus de ofício.
+6. O agravo regimental não trouxe novos argumentos capazes de infirmar a decisão agravada, devendo ser mantido o decisum pelos próprios fundamentos, não existindo flagrante ilegalidade que justifique a concessão da ordem, de ofício
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal após o trânsito em julgado da condenação. 2. A utilização do habeas corpus como substitutivo de revisão criminal configura supressão de instância e usurpação da competência do Tribunal de origem."
+Dispositivos relevantes citados: CR/1988, art. 105, I, "e"; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 994.463/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025; STJ, AgRg HC n. 981.876/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025.
+VOTO
+A decisão dever ser mantida pelos próprios fundamentos.
+Primeiramente, a questão apresentada no presente não foi objeto das razões do writ recurso de apelação defensivo, de modo que não foi apreciada quaisquer teses de eventual ilegalidade neste particular pelo Tribunal a quo. Por este motivo, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de ,habeas corpus constante no art. 105, I, "c", da Constituição da República.
+Ainda, consoante as informações prestadas às fls. 52-70 (e-STJ), verifica-se que a condenação transitou em julgado em 2/5/2019, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea e e 108, inciso I, alínea b, ambos da Constituição da República. Nesse sentido:
+"DIREITO PROCESSUAL PENAL. . SUBSTITUTIVO DEHABEAS CORPUS REVISÃO CRIMINAL. PRECLUSÃO TEMPORAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. impetrado contra condenação transitada em julgado, alegandoHabeas corpus constrangimento ilegal devido à exasperação da pena-base sem fundamentação concreta, baseada na quantidade e natureza da droga apreendida e nos maus antecedentes.
+2. Agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus , sustentando a necessidade de readequação da pena e alteração do regime inicial de cumprimento da pena.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o pode ser conhecidohabeas corpus como substitutivo de revisão criminal em caso de condenação já transitada em julgado e se há preclusão temporal que impeça o seu conhecimento.
+III. Razões de decidir
+4. O não pode ser conhecido como substitutivo de revisão criminal,habeas corpus pois não houve inauguração da competência do STJ para tal revisão.
+5. A preclusão temporal impede o conhecimento do habeas corpus, em respeito aos princípios da segurança jurídica e da lealdade processual, dado o longo decurso de tempo desde o trânsito em julgado da decisão impugnada.
+6. Não há flagrante ilegalidade no acórdão impugnado que justifique a concessão da ordem de ofício.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal para condenações já transitadas em julgado. 2. A preclusão temporal impede o conhecimento do habeas corpus quando há longo decurso de tempo desde o trânsito em julgado da decisão impugnada.".
+Dispositivos relevantes citados: CF/1988, art. 105, I, e; CPP, art. 654, § 2º. Jurisprudência relevante citada: STJ, AgRg no HC 851.309/MG, de minha relatoria, Quinta Turma, D Je 15.12.2023; STJ, AgRg no HC 754.541/SP, Rel. Min. Daniela Teixeira, Quinta Turma, D Je 13.09.2024." (AgRg no HC n. 994.463/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025)
+"AGRAVO REGIMENTAL EM . TRÁFICO DE DROGAS. HABEAS CORPUS TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. NÃO CONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas em substituição à revisão criminal, posicionando-se nosentido de que "ocorpus trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024)
+3. No caso concreto, este se insurge contra acórdão de apelação habeas corpus proferido em 8/8/2024. A defesa impetrou o HC em 16/2/2025, depois do trânsito em julgado da condenação, de modo que o presente é substitutivo de revisãowrit criminal.
+4. Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+5. Agravo regimental não provido." (AgRg no HC n. 981.876/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
