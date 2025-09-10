@@ -1,0 +1,52 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 911):
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DA DECISÃO AGRAVADA. PRECLUSÃO. NÃO APLICAÇÃO DA SÚMULA N. 182/STJ. EXECUÇÃO FISCAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. PROCESSO ADMINISTRATIVO NO QUAL SE DISCUTE DIREITO À COMPENSAÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL INABALADO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A IMPUGNAR A FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A não impugnação dos fundamentos da decisão agravada na análise das alegações de omissão no acórdão do tribunal de origem e do questionamento acerca da compensação acarreta a preclusão da matéria não impugnada, não incidindo a Súmula n. 182/STJ. Precedentes.
+II - O Colegiado concluiu pela manutenção da higidez das CDAs questionadas, a quo com base no fundamento de que, no processo administrativo citado pela agravante, não se questiona a legitimidade do débito, ou valor da execução, mas, apenas, eventual possibilidade de compensar créditos de precatórios. Os arts. 803, I e parágrafo único, do CPC/2015, 3º da Lei n. 6.830/1980 e 151, III, do CTN não possuem comando normativo capaz de abalar tal fundamentação.
+III - É deficiente o recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno conhecido em parte e improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fl. 962).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido ausência de fundamentação no decisum recorrido tendo em conta que não teria se manifestado acerca dos relevantes argumentos capazes de afastar a aplicação da Súmula n. 284 do STF, na parte não conhecida do recurso especial que trata da suspensão da exigibilidade do crédito tributário em questão.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 915-918 ):
+- Da suspensão da exigibilidade do tributo
+Em relação à controvérsia, o tribunal de origem assim decidiu (fls. 308/310e):
+Sem embargo, a mera existência de processo administrativo de compensação não impede a expedição de CDA, vez que tal fato não configura litígio tributário e, por conseguinte, não consta como causa de suspensão da exigibilidade do crédito tributário, conforme disposto no artigo 151 do CTN e no artigo 69 do Dec. 2473/79, in verbis:
+ ..
+Cabe salientar que no processo administrativo citado pela agravante (E- 04 /079/4212/2016) não se questiona a legitimidade do débito, ou valor da execução, mas, apenas, eventual possibilidade de compensar créditos de precatórios.
+Logo, não havendo previsão legal de que o pedido de compensação implique na suspensão de exigibilidade do tributo, tampouco sendo o valor do débito questionado pelo contribuinte devedor, se mostra legítima a expedição da CDA.
+Na mesma linha se manifestou a Douta Procuradoria de Justiça em seu parecer:
+"Logo, como bem pontuado pelo d. Juízo : "o pedido de a quo compensação tributária não se subsome às hipóteses previstas no art.151, III, do CTN e do art.69, do Decreto Estadual nº 2473 /79, uma vez que não se trata de impugnação ao lançamento indevido do tributo, mas sim discussão acerca do cabimento do direito de compensação. Sendo assim, não há que se falar em esgotamento da via extrajudicial (análise do pedido de compensação) para, somente então, inscrever-se o débito em dívida ativa."
+A Recorrente aduz a violação aos arts. 803, I e parágrafo único, do CPC/15, 3º da Lei n. 6.830/1980 e 151, III, do CTN, sob alegação de que "os créditos que embasam a Certidão de Dívida Ativa na Execução Fiscal de origem, em razão de decisão judicial transitada em julgado que determinou a retomada do processo administrativo, encontram-se em discussão no Processo Administrativo nº E- 04/079 /4766/2015, e, dessa maneira, se encontram com a exigibilidade suspensa, nos termos do artigo 151, III, do CTN. Ressalte-se que o próprio acórdão recorrido reconhece a existência da decisão judicial que determinou a anulação do ato administrativo e determinou a retomada do respectivo feito, apontando, contudo, que tal fato não infirma a exequibilidade da Certidão de Dívida Ativa, tendo em vista que, defende, o pedido administrativo de compensação de créditos tributários não se enquadra na hipótese de suspensão da exigibilidade do crédito tributário, na forma do artigo 151, III, do CTN" (fl. 408e) e "Ao pedir a compensação de débito tributário com direito creditório de sua titularidade, o sujeito passivo acaba por manifestar expressamente sua desconformidade com o ato de lançamento do tributo e a pretensão de exigibilidade titularizada pelo Fisco, instaurando, por consequência, litígio administrativo-tributário, cuja resolução dependerá de regular processo administrativo - o que por si só já afasta a afirmação, contida no acórdão recorrido, de que o pedido de compensação não se destina a questionar o próprio lançamento do tributo e/ou sua exigibilidade" (fl. 415e).
+Os dispositivos alegados como violados dispõem:
+ ..
+De fato, o recurso não merece prosperar no ponto.
+Tais alegações são inidôneas a infirmar os fundamentos adotados pela Corte de origem, quais sejam, de que o processo administrativo de compensação não impede a expedição de CDA, vez que tal fato não configura litígio tributário e, por conseguinte, não consta como causa de suspensão da exigibilidade do crédito tributário e, diante da ausência de previsão legal de que o pedido de compensação implique na suspensão de exigibilidade do tributo, tampouco sendo o valor do débito questionado pelo contribuinte devedor, mostra-se legítima a expedição da CDA. Pontua que o processo administrativo citado pela agravante não questiona a legitimidade do débito ou o valor da execução, mas, apenas, eventual possibilidade de compensar créditos de precatórios, e o pedido de compensação tributária não se subsome às hipóteses previstas no art. 151, III, do CTN e do art. 69 do Decreto Estadual n. 2.473/79, uma vez que não se trata de impugnação ao lançamento indevido do tributo, mas sim discussão acerca do cabimento do direito de compensação, assim não há que se falar em esgotamento da via extrajudicial.
+Com efeito, incide, por analogia, o óbice constante da Súmula n. 284 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+ ..
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração (fls. 966-967 ):
+ ..
+O acórdão embargado manteve a decisão monocrática, não conhecendo do recurso especial, em razão do óbice da Súmula n. 284/STF.
+A alegação de omissão, por sua vez, diz respeito ao próprio mérito do recurso.
+É firme o posicionamento desta Corte segundo o qual não configura omissão a ausência de pronunciamento sobre o mérito do recurso que não ultrapassa o juízo de admissibilidade, com o o demonstra o julgado assim ementado:
+ ..
+Ressalte-se, a argumentação apresentada no recurso especial é, de rigor, insuficiente para afastar o impedimento da admissibilidade do recurso.
+Acurada análise do acórdão embargado revela que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
