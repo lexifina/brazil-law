@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIA O MÉRITO DA DEMANDA. ARESTO PARADIGMA QUE JULGA O MÉRITO RECURSAL. INVIABILIDADE DO PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Nos termos da jurisprudência desta Corte, não se conhece da divergência entre acórdão que julga o mérito da demanda e julgado que não ultrapassou o juízo de admissibilidade, ante a verificação de obstáculo processual, porquanto ausente o pressuposto básico da discrepância entre os arestos a respeito da mesma questão jurídica. Precedentes.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Transnordestina Logística S.A. desafiando decisão de fls. 2.566/2.570, que indeferiu liminarmente os embargos de divergência, sob os seguintes pilares: (I) o acórdão embargado se limitou a constatar que a fundamentação adotada pelo Tribunal de origem não foi devidamente impugnada nas razões do apelo nobre, atraindo a incidência das Súmulas n. 283 e 284/STF e (II) a jurisprudência desta Corte exige a demonstração de divergência a respeito de matéria de mérito efetivamente debatida por órgão fracionário, circunstância que não se verifica na hipótese vertente.
+Opostos embargos declaratórios, foram rejeitados (fls. 2.626/2.628).
+A parte agravante, em suas razões, sustenta, em resumo, que: "o acórdão apontado como paradigma (recurso em mandado de segurança n. 41.551/MA) é inquestionavelmente de mérito e o acórdão recorrido, embora não tenha conhecido do recurso especial, apreciou a controvérsia sobre a interpretação do artigo 7º, inciso XIV, alínea "e", da Lei Complementar n. 140/2011" (fls. 2.642/2.643).
+A parte agravada apresentou impugnação às fls. 2.654/2.661.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIA O MÉRITO DA DEMANDA. ARESTO PARADIGMA QUE JULGA O MÉRITO RECURSAL. INVIABILIDADE DO PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Nos termos da jurisprudência desta Corte, não se conhece da divergência entre acórdão que julga o mérito da demanda e julgado que não ultrapassou o juízo de admissibilidade, ante a verificação de obstáculo processual, porquanto ausente o pressuposto básico da discrepância entre os arestos a respeito da mesma questão jurídica. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Conforme antes consignado, o aresto embarg ado proferido pela Segunda Turma desta Corte negou provimento ao agravo em recurso especial, em razão da incidência da Súmula n. 7/STJ, nos seguintes termos (fls. 2.378/2.379):
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto, não há que se falar em seu reparo.
+Alegou o recorrente, ora agravante, que, após a edição da LC 140/2011, não mais se justificaria a sua condenação a rever o licenciamento ambiental da ferrovia Transnordestina no trecho de São Luís  MA a Teresina  PI, pois, localizando-se o empreendimento em mais de um estado, a competência para tanto seria do Ibama (art. 7º, XIV, "e").
+Conforme expus em decisão monocrática, a Corte estadual assim enfrentou o tema (fls. 2.053-2.054):
+ ..
+Observa-se que o Tribunal a quo rejeitou a transferência de competência para o IBAMA com base no fato de que, à época do acidente, a licença de operação que subsidiava a atividade da Transnordestina Logística S. A fora emitida pelo Estado do Maranhão. Portanto, seria desse Estado a competência para a sua revisão  que, nos termos do art. 9º, IV, da Lei 6.938/1981, pode se realizada a qualquer tempo  , e não do IBAMA.
+Esse argumento não foi devidamente impugnado pela parte recorrente, já que os dispositivos legais suscitados não possuem comando normativo hábil para infirmá-lo. Assim, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, foi correta a decisão agravada ao aplicar, na espécie, as Súmulas 284 e 283 do STF.
+Assim, ao contrário do que aponta a parte embargante, o aresto embargado se limitou a constatar que a fundamentação adotada pelo Sodalício de origem para o reconhecimento da competência do Estado do Maranhão quanto ao licenciamento da atividade não foi devidamente impugnado nas razões do recurso especial, atraindo a incidência dos Enunciados n. 283 e 284/STF.
+Com efeito, não se pode afirmar, de forma alguma, que o trecho - "o Tribunal a quo rejeitou a transferência de competência para o IBAMA com base no fato de que, à época do acidente, a licença de operação que subsidiava a atividade da Transnordestina Logística S.A. fora emitida pelo Estado do Maranhão. Portanto, seria desse Estado a competência para a sua revisão  que, nos termos do art. 9º, IV, da Lei 6.938/1981, pode se realizada a qualquer tempo  , e não do IBAMA" (fl. 2.379) - constitui fundamento do acórdão embargado, tratando-se, na realidade, apenas da reprodução das razões de decidir adotadas pelo órgão colegiado local.
+Aplica-se, então, a jurisprudência desta Cort e: "Os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não ultrapassam o juízo de admissibilidade, uma vez que não se prestam ao mero reexame do acerto ou desacerto do acórdão embargado acerca da aplicação de regra técnica de conhecimento do recurso, tampouco à análise da questão de mérito, que sequer foi objeto de decisão justamente em razão da aplicação do óbice de admissibilidade do agravo em recurso especial" (AgInt nos EAREsp n. 2.500.696/DF, Relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 9/4/2025, DJEN de 23/4/2025).
+De fato, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, a saber, a discrepância entre decisórios colegiados a respeito da mesma questão jurídica, pois o aresto embargado se limitou a afirmar a existência de empeços de admissibilidade, não enfrentando o mérito da controvérsia decidida no acórdão apontado como paradigma.
+Nesse mesmo sentido, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE EXAME DO MÉRITO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MITIGAÇÃO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Este Tribunal Superior possui orientação consolidada no sentido de que, a partir da vigência do Código de Processo Civil de 2015, deve ser mitigada a Súmula 315/STJ, pois o art. 1.043, III, do referido Código autoriza a oposição dos embargos de divergência quando, embora não conhecido, tenha sido apreciado o mérito do recurso especial.
+2. Na espécie, o mérito do recurso especial, no tocante à questão principal, não foi examinado pela Quarta Turma, por ter aquele Colegiado concluído que tal providência esbarraria na Súmula 7/STJ.
+Inafastável, portanto, a aplicação da Súmula 315 desta Casa.
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 2.391.841/RS, Relator Ministro Marco Aurélio Bellizze, Primeira Seção, julgado em 14/5/2025, DJEN de 20/5/2025.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. DESAPROPRIAÇÃO INDIRETA. VALOR DA INDENIZAÇÃO. REGRA DA CONTEMPORANEIDADE ARESTOS CONFRONTADOS. SIMILITUDE FÁTICO-JURÍDICA. AUSÊNCIA.
+1. O Superior Tribunal de Justiça firmou o entendimento de que, para a configuração da divergência jurisprudencial necessária à interposição de embargos de divergência, devem o acórdão embargado e o aresto paradigma possuir similitude fática e jurídica, conforme exigido pelo art. 266, § 1º, c/c o art. 255, § 2º, do RISTJ.
+2. Hipótese em que o acórdão embargado não discutiu a tese jurídica invocada pela ora embargante acerca da possibilidade, em casos excepcionais, da mitigação da regra da contemporaneidade da indenização à data da avaliação do imóvel, tampouco se reportou aos elementos de convicção declinados pela Corte a quo, circunstância que inviabiliza a análise da similitude entre os julgados confrontados.
+3. Segundo a jurisprudência desta Corte Superior, são incabíveis embargos de divergência quando o acórdão embargado ou o paradigma nem sequer adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal (Súmula 315 do STJ, em aplicação analógica).
+4. No presente caso, observa-se que um dos acórdãos paradigmas (REsp 1.995.633/CE) nem sequer ingressou no mérito da pretensão recursal, uma vez que o recurso especial não foi conhecido em face do óbice contido na Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.240.783/ES, Relator Ministro Gurgel de Faria, Primeira Seção, julgado em 17/12/2024, DJEN de 3/2/2025.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
