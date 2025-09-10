@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONVERSÃO DO DEPÓSITO JUDICIAL EM RENDA DA EXEQUENTE. IMPOSSIBILIDADE. EXISTÊNCIA DE CONTROVÉRSIA SOBRE O CRÉDITO. QUESTÃO ATRELADA AO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do Tribunal de origem - quanto à possibilidade ou não de levantamento de depósitos judiciais, ou seja, se a União faz jus, neste momento processual, à conversão em renda - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos d o enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FAZENDA NACIONAL contra decisão desta relatoria assim ementada (e-STJ, fl. 2.468):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. CONVERSÃO DO DEPÓSITO JUDICIAL EM RENDA DA EXEQUENTE. IMPOSSIBILIDADE. EXISTÊNCIA DE CONTROVÉRSIA SOBRE O CRÉDITO. QUESTÃO ATRELADA AO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a insurgente alega a inaplicabilidade do óbice apontado, sustentando que "a matéria posta à apreciação desse e. Sodalício relaciona-se com análise puramente jurídica para reconhecer que o decisum de Segunda Instância deixou de aplicar normas legais que preconizam a conversibilidade imediata de depósitos em renda após o trânsito em julgado de decisão favorável à União" (e-STJ, fl. 2.477).
+Requer o provimento do presente agravo interno.
+Impugnação às fls. 1.483-1.489 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONVERSÃO DO DEPÓSITO JUDICIAL EM RENDA DA EXEQUENTE. IMPOSSIBILIDADE. EXISTÊNCIA DE CONTROVÉRSIA SOBRE O CRÉDITO. QUESTÃO ATRELADA AO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do Tribunal de origem - quanto à possibilidade ou não de levantamento de depósitos judiciais, ou seja, se a União faz jus, neste momento processual, à conversão em renda - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos d o enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para alterar os fundamentos da decisão ora agravada.
+Conforme assentado na decisão recorrida, o Tribunal Regional Federal da 3ª Região, ao dirimir a controvérsia, apresentou a seguinte fundamentação (e-STJ, fl. 2.159):
+O Sr. Juiz Federal Convocado MARCELO GUERRA: Cuida-se na origem de ação executiva, na qual se daria a cobrança do mesmo débito impugnado em ação de repetição de indébito, em trâmite na 8ª Vara Cível Federal em SP, processo nº 0074821-67.1992.4.03.6182, com opção de parcelamento pelo REFIS da Copa. Afirma que ao juízo a quo foi solicitado o sobrestamento do feito, uma vez que, em razão de recurso naqueles autos, nos termos do ajuste fiscal, o numerário executado será quitado em dinheiro por meio de depósito judicial e o pagamento dos juros e multa de mora com créditos tributários do contribuinte resultantes de prejuízos fiscais e base de cálculo negativa da CSLL, conforme decidido no agravo de instrumento nº 0016575-39.2015.4.03.000 (Id. 170555945 - pág. 113/127), transitado em julgado (Id. 170555945 - pág. 131). Porém, o magistrado determinou a transformação da quantia existente nos autos em pagamento definitivo ao fisco, sem considerar, em princípio, o benefício obtido pelo contribuinte.
+Sob esse aspecto, a decisão agravada que determinou a conversão em renda a favor da União não pode, por ora, produzir efeitos, dado que presente a plausibilidade do direito, em razão do provimento do recurso interposto pela recorrente, a fim de autorizar o pagamento do débito considerado o pacto administrativo. Assim, pende controvérsia sobre o crédito questionado, o que impede, neste momento, a providência determinada pela decisão agravada.
+Ante o exposto, voto para DAR PROVIMENTO ao agravo de instrumento, para confirmar o efeito suspensivo deferido, a fim de obstar a conversão do depósito judicial em renda a favor da União.
+Verifica-se que o órgão julgador baseou-se na interpretação de fatos e provas para concluir que "a decisão agravada que determinou a conversão em renda a favor da União não pode, por ora, produzir efeitos, dado que presente a plausibilidade do direito, em razão do provimento do recurso interposto pela recorrente, a fim de autorizar o pagamento do débito considerado o pacto administrativo. Assim, pende controvérsia sobre o crédito questionado, o que impede, neste momento, a providência determinada pela decisão agravada" (e-STJ, fl. 2.159).
+Assim, elidir a conclusão do Tribunal Regional - com o fim de acolher a pretensão recursal, sobretudo quanto à possibilidade ou não de levantamento de depósitos judiciais, ou seja, se a União faz jus, neste momento processual, à conversão em renda - demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado devido à natureza excepcional da via eleita, consoante o teor da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
