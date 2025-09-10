@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CONSTRUTORA SEGA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL Ação de cobrança Autora que pleiteia condenação dos requeridos ao pagamento de taxa de obra e taxa referente a gastos com cartório Sentença de improcedência Irresignação da requerente Preliminar de nulidade diante de omissão Omissão reconhecida Sentença que não se manifestou sobre pedido de condenação ao pagamento das despesas relacionadas ao cartório Desnecessidade de anulação, no entanto, visto que a ação encontra-se em condições de imediato julgamento Alegação de que deve prevalecer a condenação diante da previsão em contrato Não acolhimento Cláusula contratual que transfere à autora a responsabilidade pelo pagamento da taxa de atribuição de unidade que se revela abusiva (art. 51, IV, do CDC) Incidência do artigo 44 da Lei nº 4.591/64 Obrigação inerente ao próprio empreendimento RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 44 da Lei n. 4.591/1964, sustentando que a cobrança realizada decorre exclusivamente do ato registral de "atribuição", distinto da abertura de matrícula individual, cuja aplicação ao caso é equivocada, pois tal matrícula só é aberta mediante alienação da unidade, e manter a responsabilização do Recorrente implicaria enriquecimento ilícito dos Recorridos, trazendo a seguinte argumentação:
+O julgamento fora proferido no que tange a observância do art. 44 da Lei nº 4.591/64 referente a "individualização" de matrícula. Destarte, os valores cobrados consoante as taxas de cartório, decorriam do ato registral denominado "atribuição", oportunidade na qual também foi apresentada a lei que torna incontroversa a origem e razão do referido ato registral.
+Ou seja, a averbação da construção das unidades e a abertura de matrícula própria de cada unidade adquirida são etapas e processos totalmente distintos, tanto que, se uma unidade permanecer sem alienação, a matrícula própria pode nunca ser aberta.
+Diversas foram as provas, que gozam de fé-pública, inclusive, que demonstraram que a cobrança ora realizada se originou dos emolumentos cobrados em função do ato registral denominad o "atribuição" presente em R-08/73.240 da respectiva matrícula da unidade.
+Assim, há evidente aplicação equivocada do artigo 44 da Lei nº. 4.591/1964.
+ ..
+Caso Vossas Excelências entendam de modo diverso, os Recorridos se enriquecerão ilicitamente, sob a chancela do Poder Judiciário (fls. 314/316).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
