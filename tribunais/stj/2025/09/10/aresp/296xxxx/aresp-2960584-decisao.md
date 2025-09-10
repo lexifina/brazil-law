@@ -1,0 +1,14 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por CRISTIANE RONCATTO, no no qual se insurge contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DESVIO DE FUNÇÃO E DIFERENÇA SALARIAL. APROVAÇÃO EM CONCURSO PÚBLICO PARA O CARGO DE ASSISTENTE DE CRECHE. ALEGAÇÃO DA REALIZAÇÃO DE FUNÇÕES INERENTES AO CARGO DE PROFESSOR DE EDUCAÇÃO INFANTIL. PLEITO DE RECEBIMENTO DE DIFERENÇAS SALARIAIS POR SUPOSTA ATUAÇÃO EM DESVIO DE FUNÇÃO. INOCORRÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DE REALIZAÇÃO DE FUNÇÕES INERENTES AO CARGO DE PROFESSOR. CONJUNTO PROBATÓRIO QUE NÃO DEMONSTROU A EXISTÊNCIA DE DESVIO. HORAS EVENTUALMENTE REALIZADAS COMO EXTRAS DEVIDAMENTE COMPENSADAS (BANCO DE HORAS). SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO QUE DEVE SER MANTIDA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS. RECURSO DE APELAÇÃO CONHECIDO DESPROVIDO.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, apontando violação do art. 9º da CLT); do art. 37 da Constituição Federal e da Súmula 378 do STJ, sustentando ofensa ao princípio da primazia da realidade, porquanto, embora contratada como Assistente de Creche, desempenhava funções típicas de Professor de Educação Infantil, o que deveria ter sido reconhecido como desvio de função.
+Contraminuta não apresentada.
+É o relatório
+De início, não é cabível recurso especial fundado na ofensa a enunciado de súmula dos tribunais, inclusive em se tratando de súmulas vinculantes. Assim, incide o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Além disso, não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+No caso, o art. 9º da CLT não foi objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Além disso, a alteração da conclusão do Tribunal a quo, acerca da ausência de comprovação do desvio de função, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
