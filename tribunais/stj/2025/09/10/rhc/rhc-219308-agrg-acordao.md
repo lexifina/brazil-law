@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA O NÃO CONHECIMENTO DE RECURSO EM HABEAS CORPUS. WRIT NÃO CONHECIDO NA CORTE LOCAL POR INADEQUAÇÃO DA VIA ELEITA. FALTA DE CABIMENTO DO RECURSO. INOBSERVÂNCIA DO ART. 105, II, A, DA CF/88. INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. INEVIDÊNCIA. NECESSIDADE DE AMPLA INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. ACÓRDÃO DO TRIBUNAL A QUO ALINHADO À JURISPRUDÊNCIA DO STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trago à análise da Turma o agravo regimental de RONALDO SANTANA DA CUNHA contra a decisão monocrática da Presidência desta Casa que não conheceu do recurso em habeas corpus, em razão do óbice da supressão de instância (fls. 142/143).
+Alega o agravante que, no caso em apreço, a nobre e indispensável função do Habeas Corpus foi frustrada na origem por um manifesto error in procedendo, um equívoco de natureza estritamente processual que culminou na mais grave das consequências: a denegação da própria prestação jurisdicional (fl. 157); e que o que se rogou, e se roga, é um ato de natureza puramente jurídica: a VALORAÇÃO de uma prova documental pré-constituída, incontroversa e de teor líquido e certo, para dela extrair a consequência jurídica que se impõe, qual seja, a ausência de justa causa para a persecução penal (fl. 157).
+Argumenta que, uma vez demonstrado que a análise da prova documental pré-constituída é não apenas possível, mas imperativa na via do Habeas Corpus, a verificação da ausência de justa causa para a continuidade do inquérito policial em desfavor do Agravante emerge como uma conclusão lógica e inafastável (fl. 162).
+Busca, assim, a reforma da decisão hostilizada e a concessão da ordem nos termos em que requerida, ainda que de ofício.
+Não abri prazo para contrarrazões.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL CONTRA O NÃO CONHECIMENTO DE RECURSO EM HABEAS CORPUS. WRIT NÃO CONHECIDO NA CORTE LOCAL POR INADEQUAÇÃO DA VIA ELEITA. FALTA DE CABIMENTO DO RECURSO. INOBSERVÂNCIA DO ART. 105, II, A, DA CF/88. INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. INEVIDÊNCIA. NECESSIDADE DE AMPLA INCURSÃO EM MATÉRIA FÁTICO-PROBATÓRIA. ACÓRDÃO DO TRIBUNAL A QUO ALINHADO À JURISPRUDÊNCIA DO STJ.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar, estando a análise da pretensão defensiva obstada tanto pelo fato de não ter sido conhecido o habeas corpus ajuizado no Tribunal a quo  - não tendo havido, pois, decisão denegatória a ensejar o cabimento do recurso ordinário, conforme dispõe o art. 105, II, a, da Constituição Federal - quanto pelo fato de estar correta a conclusão de que as teses suscitadas se confundem com o mérito (fl. 102), demandando inserção aprofundada nos dados informativos (fl. 103).
+Com efeito, o exame da argumentação feita no recurso - no sentido de que a declaração da coinvestigada em procedimento administrativo disciplinar bastaria para comprovar que a atuação do agravante se limitou à captação de clientes, sem nenhum tipo de vínculo subjetivo com a prática criminosa - esbarra, inevitavelmente, em dilação probatória (até porque dependeria do cotejo com os demais elementos de informação já angariados), providência que não tem espaço aqui e agora.
+Nos termos da jurisprudência desta Corte, a ausência de justa causa para investigação deve ser demonstrada de forma inequívoca, sem necessidade de exame aprofundado de provas, o que não ocorre na hipótese dos autos (AgRg no HC n. 958.629/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 25/2/2025). Nessa linha de intelecção, É prematuro, pois, determinar o trancamento do inquérito policial, sendo certo que, no curso da instrução processual, caso seja oferecida denúncia, poderá a Defesa demonstrar a veracidade dos argumen tos sustentados, mesmo porque a estreita e célere via do habeas corpus não permite revolvimento fático-probatório (HC n. 749.576/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022) - (AgRg no HC n. 915.107/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024).
+Nego provimento ao agravo regimental.
