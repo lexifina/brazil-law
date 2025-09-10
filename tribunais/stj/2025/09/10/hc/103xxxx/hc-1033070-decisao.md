@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARCOS VINICIUS MAIA BARBOSA contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que negou provimento ao Agravo em Execução n. 5020084-47.2024.8.19.0500, mantendo a homologação da falta grave (Execução n. 0179449-46.2019.8.19.0001, Vara de Execuções Penais do Rio Janeiro Cartório Final RG 9 e 0/RJ).
+A defesa alega, em síntese, nulidade absoluta do PAD pela ausência de defesa técnica na oitiva do apenado, violando o art. 59 da LEP, o art. 5º, LV, da CF e a Súmula 533/STJ, além de insuficiência probatória, pois a falta grave foi reconhecida exclusivamente com base em relatos de agentes penitenciários.
+Argumenta que a sanção imposta é desproporcional e viola os princípios da dignidade da pessoa humana, proporcionalidade e razoabilidade, bem como os direitos fundamentais do apenado.
+Pede o reconhecimento da nulidade absoluta do PAD (fls. 2/9).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local negou provimento ao agravo, afirmando que (fls. 13/14 - grifo nosso):
+ ..  O procedimento disciplinar foi conduzido em conformidade com os preceitos legais e constitucionais, assegurando ao apenado o exercício do contraditório e da ampla defesa, com a assistência da Defensoria Pública ao longo da apuração.
+Na sua manifestação o agravante não reconheceu os fatos a ele imputados, em dissonância com os depoimentos de testemunhas, revestidas de fé pública, o que conferiu robustez à conclusão administrativa. Ao final, a Comissão Técnica de Classificação entendeu configurada a prática de falta disciplinar de natureza grave, aplicando sanções compatíveis com a conduta, fl.20. Neste sentido, o trâmite do procedimento disciplinar atendeu aos parâmetros fixados pelo verbete sumular 533, do Superior Tribunal de Justiça, de que para o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado, destacando-se, neste contexto, sua incidência, em caráter obrigatório, com base no artigo 315, § 2º, VI, do Código de Processo Penal.
+ ..
+Pelo que consta dos autos, não houve regressão de regime (fl. 16), o paciente prestou seu depoimento no procedimento administrativo e foi representado por defensoria (fl. 17), não havendo, assim, qualquer ilegalidade a ser sanada.
+Em suporte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. NÃO OCORRÊNCIA. FALTA DISCIPLINAR DE NATUREZA GRAVE. OITIVA DO APENADO EM PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. AUDIÊNCIA DE JUSTIFICAÇÃO NECESSÁRIA APENAS EM FACE DE REGRESSÃO DEFINITIVA DE REGIME. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor do art. 34, XX, do Regimento Interno do STJ, é atribuição do relator decidir, monocraticamente, o habeas corpus "quando a decisão impugnada se conformar com  ..  súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar", situação verificada in casu.
+2. Na hipótese em que não há determinação de regressão prisional, é desnecessária a realização de audiência de justificação para homologação de falta disciplinar de natureza grave, se ocorreu a apuração desta em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e a ampla defesa, inclusive com a oportunidade de sua oitiva e participação da defesa técnica.
+3. Agravo regimental não provido.
+(AgRg no HC n. 858.085/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/12/2023).
+No mais, a prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave  .. . A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral (HC n. 391.170, Relator Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017) - (AgRg no HC n. 701.943/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/11/2021, DJe 12/11/2021 ).
+Cumpre ressaltar que é pacífico o entendimento de que a via do habeas corpus é imprópria para a análise das teses de insuficiência probatória, responsabilização disciplinar coletiva, atipicidade da conduta ou desclassificação da conduta, dada a necessidade de incursão na seara fático-probatória, incabível nesta sede (AgRg no HC n. 328.288/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/3/2017).
+Assim, ausente ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PAD. NULIDADE. OITIVA REALIZADA NO PROCEDIMENTO ADMINISTRATIVO. APENADO ACOMPANHADO POR DEFENSOR. ABSOLVIÇÃO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
