@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUBSTABELECIMENTO COM RESERVAS DE PODERES. CONTROVÉRSIA SOBRE A NECESSIDADE DE CONCORDÂNCIA DOS SUBSTABELECENTES. DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA ORIGIEM. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. APLICAÇÃO DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte Agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por SUPPORT EDITORA E PAPELARIA LTDA. e ALEXANDRE DANTAS FRONZAGLIA, contra decisão da Presidência desta Corte, que não conheceu do agravo em recurso especial, nos termos da Súmula n. 182/STJ.
+Na origem, " c uida-se de agravo de instrumento interposto contra decisão que, em cumprimento de sentença, determinou ao agravante a juntada de autorização dos advogados substabelecentes para o regular prosseguimento da execução dos honorários sucumbenciais" (fl. 103).
+A Corte de origem negou provimento ao referido recurso, em acórdão assim resumido (fl. 95):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA -HONORÁRIOS ADVOCATÍCIOS - SUBSTABELECIMENTO COM RESERVAS DE PODERES - CONCORDÂNCIA DOS SUBSTABELECENTES - RECURSO NÃO PROVIDO.
+1. No caso concreto, discute-se a possibilidade da execução dos honorários de sucumbência, realizado por advogado substabelecido com reserva de poderes, sem a intervenção dos advogados substabelecentes.
+2. Hipótese expressamente prevista no Estatuto da Advocacia, Lei n.º 8.906/1994, em seu art. 26: O advogado substabelecido, com reserva de poderes, não pode cobrar honorários sem a intervenção daquele que lhe conferiu o substabelecimento.
+3. Precedentes do E. STJ e deste Tribunal.
+4. Agravo de instrumento não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 132-137).
+Nas razões de apelo nobre, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a Parte Recorrente alegou que "houve violência a exegese do artigo 26 da Lei 8906/94, ao se exigir para o recebimento dos honorários profissionais por sucumbência, e impugnados por terceira pessoa, que sequer tem legitimidade para defender direito alheio, qual seria, o de que os advogados substabelecentes, que nunca elaboraram uma peça ou petição sequer no caso em apreço" (fl. 151).
+Argumentou que "a dicção do artigo 26 da Lei 8906/94, não se aplica no caso dos honorários advindos da condenação da Recorrida, e que pertencem ao profissional que efetivamente trabalhou na lide, que é apenas o Recorrente que se apresenta" (fl. 164, sic).
+Aduziu, ainda, haver afronta aos arts. 489 e 1.022, ambos do Código de Processo Civil, ante o não saneamento dos vícios apontados no recurso integrativo manejado na origem.
+Apresentadas as contrarrazões (fls. 1093-1097), o apelo nobre foi inadmitido na origem (fls. 1100-1103), advindo o presente Agravo nos próprios autos (fls. 1104-1114).
+Neste Sodalício, não se conheceu do Agravo, pois não impugnados os óbices consignados na decisão que inadmitiu o recurso especial na origem (fls. 1130-1131).
+Daí o presente agravo interno, em que a Parte Agravante alega, em síntese, que impugnou, sim, de forma concreta, os fundamentos consignados na decisão de fls. 1100-1103.
+Ao final, requer o provimento do agravo interno a fim de que seja conhecido e provido o apelo nobre.
+Decorrido o prazo para contrarrazões (fl. 1145) e, não tendo havido a retratação da decisão agravada (fl. 1147), os autos vieram conclusos.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUBSTABELECIMENTO COM RESERVAS DE PODERES. CONTROVÉRSIA SOBRE A NECESSIDADE DE CONCORDÂNCIA DOS SUBSTABELECENTES. DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA ORIGIEM. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. APLICAÇÃO DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte Agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A despeito das razões recursais de fls. 1135-1136, o agravo não comporta provimento.
+Conforme consignado no decisum recorrido, a Corte de origem não admitiu o apelo nobre, pois (i) não haveria omissão no acórdão recorrido, que, no mais, (ii) estaria em consonância com a jurisprudência desta Corte, o que atrairia a incidência da Súmula n. 83/STJ. No entanto, a parte Agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a referida fundamentação.
+Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ.
+(AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ ..
+Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Com efeito, a parte Agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça, nem comprovou que o precedente apontado na decisão agravada seria inaplicável à hipótese dos autos. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+No Agravo, a Parte Recorrente colacionou a ementa do acórdão proferido no Recurso Especial n. 1.222.194/BA. Ocorre que trata-se de julgado anterior ao precedente mencionado na decisão que inadmitiu o apelo nobre na origem. Aliás, o REsp n. 1.222.194/BA nem trata da mesma questão discutida nos autos, razão pela qual, também por essa óptica, sua citação não configura impugnação, concreta, à Súmula n. 83/STJ, que demanda a indicação de julgados contemporâneos ou posteriores àqueles mencionados na decisão agravada e que tenham sido proferidos em moldura fático-jurídica semelhante. Com efeito:
+ p ara impugnar corretamente a Súmula 83 do STJ, deve a parte demonstrar que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo em recurso especial. (AgInt no AREsp n. 2.595.695/MA, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/2/2025, DJEN de 24/2/2025; sem grifos no original).
+Essa circunstância seria suficiente para justificar o não conhecimento do Agravo de fls. 1104-1114 em sua integralidade. É que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial, que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Nesse sentido, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+De qualquer forma, observa-se que a Parte Agravante também não impugnou, concretamente, a conclusão da Corte de origem quanto à ausência de omissão no acórdão recorrido, o que apenas reforça o não conhecimento do Agravo e, por consequência, a conclusão quanto ao desprovimento do presente recurso.
+Considerando-se, portanto, que o decisum de fls. 1130-1131  encontra-se  em  plena  harmonia  com  diversos  precedentes  de  ambas  as  Turmas  que  compõem  a  Primeira  Seção  desta  Corte  e,  não  havendo  fundamentos  jurídic os  que  infirmem  as  razões  declinadas  no  julgado  ora  agravado,  deve  ser  mantida  a  decisão  recorrida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
