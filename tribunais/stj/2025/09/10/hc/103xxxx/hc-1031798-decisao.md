@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de JAIR DA SILVA, condenado pelos crimes de o rganização criminosa (art. 2º da Lei n. 12.850/2013) e corrupção ativa (art. 333, parágrafo único, do CP), à pena de 9 anos e 1 mês de reclusão, em regime inicial fechado, além de 34 dias-multa (Processo n. 0039214-47.2020.8.26.0050, da 1ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores da comarca de Paulo/SP).
+Aponta-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 13/3/2024, negou provimento ao apelo defensivo.
+Alega-se a ausência de provas suficientes e contradições na decisão judicial, especialmente porque o paciente foi absolvido do crime de tráfico de entorpecentes, núcleo central da acusação, mas condenado pelos demais delitos. Assim, sustenta-se que a condenação por organização criminosa e corrupção ativa é incompatível com a absolvição pelo tráfico, uma vez que a corrupção estaria vinculada justamente à proteção dessa atividade ilícita.
+Argumenta-se que as provas são frágeis, baseadas apenas em relatórios técnicos e interceptações que não comprovam a participação do acusado, pois as investigações teriam se apoiado em apelidos, sem demonstração de que correspondiam ao réu, e não há indícios de sua atuação em pagamentos ilícitos.
+Questiona-se, ainda, a aplicação do concurso material entre os crimes, defendendo-se a aplicação do concurso formal (art. 70 do CP).
+Requer-se a absolvição do paciente ou, subsidiariamente, o reconhecimento da atipicidade da conduta imputada como corrupção ativa ou, ainda, o reconhecimento do concurso formal entre os delitos, com a consequente redução da pena.
+Estes autos foram a mim distribuídos por prevenção (HC n. 671.771/SP).
+É o relatório.
+O writ é manifestamente inadmissível.
+Ao lado da violação do princípio da unirrecorribilidade, o presente habeas corpus configura fracionamento de pedido (o que representa verdadeiro tumulto processual e fere os deveres de ética e lealdade processuais). Contra o mesmo acórdão ora atacado, está em tramitação o REsp n. 2.169.523/SP.
+Ademais, também constitui óbice ao conhecimento do habeas corpus a pretensão envolvendo matéria sobre a qual não tenha havido debate ou decisão expressa no Tribunal de origem, assim como a que demande o revolvimento do conjunto probatório da ação penal para averiguar as particularidades que fundamentaram a condenação mantida pela Corte local (AgRg no HC n. 923.273/SP, da minha relatoria, Sexta Turma DJe 6/9/2024).
+Além disso, cabe lembrar que o crime de organização criminosa é autônomo em relação às infrações penais praticadas pelo grupo, dada a distinção de elementos subjetivos e momentos de consumação, nada impedindo que o  acusado  seja processado e condenado apenas pelo delito previsto no art. 2º da Lei n. 12.850/2013, sem que lhe sejam necessariamente imputáveis específicos delitos vinculados à organização criminosa da qual pertence (AgRg no HC n. 908.950/MT, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/8/2024).
+Pelo exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. SUBVERSÃO DO SISTEMA RECURSAL. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE. FRACIONAMENTO DE PEDIDOS EM PEÇAS PROCESSUAIS DIVERSAS. INADMISSIBILIDADE. ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO ATIVA MAJORADA. FRAGILIDADE DAS PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DA AÇÃO PENAL. IMPOSSIBILIDADE. APLICAÇÃO DO CONCURSO FORMAL DE CRIMES. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Petição inicial indeferida liminarmente.
