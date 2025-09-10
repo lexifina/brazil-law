@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MOHAWK REVESTIMENTOS PARAIBA LTDA, com base nos seguintes fundamentos (fl. 1488):
+O exame do tema suscitado pelo particular no seu recurso especial, no tocante à suposta violação ao artigo 85 do Código de Processo Civil - CPC em razão de ter a Fazenda Nacional sucumbido em maior parte do pedido, reclama a reanálise de fatos e/ou provas e esbarra, assim, no óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+A parte agravante sustenta o "que é devida no caso em concreto a inversão do ônus de sucumbência, sem precisar ater- se aos revolvimentos de fatos ou provas, bastando analisar as decisões do juízo de primeiro e segundo grau, e a efetividade do Art. 85 do CPC".
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+No que diz respeito aos honorários advocatícios, o Tribunal de origem assim se manifestou:
+9. Sobre o ponto, merece reforma a sentença, por se verificar ser o caso de fixação dos honorários advocatícios mediante apreciação equitativa (art. 85, § 8º, do Código de Processo Civil), em observância aos princípios da razoabilidade e proporcionalidade, e em razão do alto valor da causa - superior a vinte milhões de reais - e o julgamento aqui proferido acolher tese exclusivamente jurídica e em menor amplitude em relação aos pedidos totais.
+10. Ademais, não se cuidando de questão complexa e que sequer demandou produção de prova técnica, não se demonstra ter sido ultrapassado positivamente os critérios do § 2º, do art. 85, para se chegar ao § 3º, do Código de Processo Civil.
+11. Destarte, mantém-se a imputação dos ônus da sucumbência em desfavor da parte autora/apelante, mas com a fixação do valor dos honorários sucumbenciais em R$ 5.000,00 (cinco mil reais), ora arbitrados por apreciação equitativa, nos termos do § 8º, do art. 85, do Código de Processo Civil, levando-se em conta o valor da causa, da ordem de R$ 20.766.406,91 (vinte milhões, setecentos e sessenta e seis mil e quatrocentos e seis reais e noventa e um centavos).
+12. Desprovimento dos embargos de declaração da Fazenda Nacional e parcial provimento aos aclaratórios opostos pelo particular, para analisar a questão relativa à sucumbência, e, no caso concreto, reconhecer que a parte autora/apelante sucumbiu da maior parte dos pedidos, respondendo, assim, integralmente pelas despesas processuais e pelos honorários advocatícios, nos termos do parágrafo único, do art. 86, do Código de Processo Civil, e conforme parâmetros estabelecidos acima, reformando-se, topicamente, a sentença apelada.
+Com efeito, a pretensão da parte recorrente, relativa à violação do art. 86, parágrafo único, do CPC, encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador quanto ao grau de sucumbência, seria imprescindível o reexame do acervo fático-probatório dos autos - providência vedada em recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. TEMA 905/STJ. NÃO CABIMENTO. TESES REMANESCENTES. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA. AFRONTA AO ART. 85, §§ 1º e 2º, DO CPC. QUESTÃO QUE PRESSUPÕE A DESCONSTITUIÇÃO DO JUÍZO DO TRIBUNAL DE ORIGEM ACERCA DA APLICAÇÃO DO TEMA 905/STJ AO CASO CONCRETO, COM MODIFICAÇÃO DA DISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. SÚMULA 7/STJ.
+ ..
+6. Não bastasse, a jurisprudência do STJ é firme no sentido de que "avaliar em que monta os litigantes sagraram-se vencedores ou vencidos na demanda, com o propósito de reformular a distribuição dos ônus de sucumbência, é providência que não pode ser adotada no âmbito de recurso especial, por demandar o reexame de matéria fática. Incidência da Súmula n. 7/STJ." (AgInt no AREsp 1.978.148/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe de 30/11/2022.).
+7. Agravo Interno não provido (AgInt no AREsp n. 2.438.704/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
