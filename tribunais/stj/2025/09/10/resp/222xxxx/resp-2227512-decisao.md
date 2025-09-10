@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por PBPREV- PARAÍBA PREVIDÊNCIA contra acórdão assim ementado (fls. 164-165):
+PROCESSUAL CIVIL - Agravo interno em apelação cível - Ação declaratória - Isenção de imposto de renda - Portador de cegueira monocular - Hipótese dos autos que não é caso de sentença ilíquida (art. 85, §4º, inciso II, do CPC) - Honorários fixados por equidade - Ausência de conteúdo condenatório ou proveito econômico imediato - Valor da causa muito baixo - Fixação por equidade - Art. 85, §8º, do CPC - Adequação - Precedentes do C. Superior Tribunal de Justiça - Manutenção do decisum - Desprovimento.
+- "(..) Conforme entendimento desta Corte, para a fixação de honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, d e v e r ã o , s ó e n t ã o , ser fixados por apreciação equitativa (art. 85, § 8º) (REsp n. 1.746.072/PR, 2a Seção, DJe 29/3/2019)".
+- "(..) Assim, sendo irrisório o proveito econômico, os honorários devem ser arbitrados nos termos do art. 85, § 8º, do CPC/2015. 4. Recurso especial conhecido e provido. (STJ - REsp: 2088055, Relator: NANCY ANDRIGHI, Data de Publicação: 14/08/2023)
+Não foram opostos embargos de declaração.
+A parte recorrente aponta ofensa ao art. 85, §4º, II, do CPC no acórdão recorrido, uma vez que "determina a majoração dos honorários sucumbenciais para o percentual de 15% apesar iliquidez da decisão" (fl. 192).
+Apresentadas contrarrazões (fls. 195-197).
+É o relatório necessário. Decido
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Ao solucionar o caso concreto, o Tribunal de origem negou provimento à apelação do ora recorrente, mantendo a sentença que reconheceu o direito à isenção de imposto de renda à parte autora.
+Dessa forma, condenou o ente municipal ao pagamento de honorários advocatícios nos termos do art. 85, §§ 2º e 8º, do CPC/2015 (fl. 146):
+A teor do art. 85, § 11º, do novo CPC, entendo por bem majorar os honorários advocatícios sucumbenciais, devidos pelo promovido, para o valor de R$ 1.500,00 (mil e quinhentos reais), a teor dos § § 2º e 8º do art. 85 do NCPC
+Ao julgar o agravo interno, em que expressamente se requereu o arbitramento dos honorários com base no art. 85, §4º do CPC, isto é, em fase de liquidação de sentença, o Tribunal assim se manifestou (fl. 166):
+Defende o recorrente que os honorários advocatícios fixados na origem revelam-se em confronto com o digesto processual civil, uma vez que a legislação processual foi expressa, no artigo 85, § 4º, do CPC, ao estabelecer que a definição dos percentuais previstos nos seus incisos I a V do § 3º, em se tratando de sentença ilíquida, ocorrerá quando liquidado o julgado (§ 4º, II).
+Entrementes, sua insurgência não merece acolhimento.
+Isso porque, da análise dos autos, é inevitável a conclusão de que a reforma pretendida para a fixação dos honorários advocatícios com base nas faixas percentuais do § 3º do art. 85 do Código de Processo Civil, não deve ser aplicada ao caso em disceptação.
+Como é cediço, o Col. Superior Tribunal de Justiça firmou jurisprudência no sentido de que, quando houver condenação, os honorários advocatícios sucumbenciais devem ser fixados entre 10% e 20% sobre o montante desta (CPC, art. 85, § 2º). Somente quando não houver condenação, terão como base de cálculo, sucessivamente: (a) o proveito econômico obtido pelo vencedor (CPC, art. 85, §2º); ou (b) não sendo possível mensurar o proveito econômico obtido, o valor atualizado da causa (CPC, art. 85, §2º).
+Por último, nas causas em que, não havendo condenação, for inestimável ou irrisório o proveito econômico ou, ainda, for muito baixo o valor da causa, deverão os honorários de sucumbência, só então, ser fixados por apreciação equitativa do juiz (CPC, art. 85, § 8º).
+ ..
+Então, como regra, os honorários advocatícios sucumbenciais devidos pela Fazenda Pública devem ser fixados em percentual, nos termos dos §§ 2º a 6º (especialmente o § 3º) do art. 85 do Código de Processo Civil.
+Ocorre que, a hipótese dos autos, diz respeito a ação meramente declaratória, sem conteúdo condenatório ou proveito econômico imediato, e, por trata-se de causa cujo valor é muito baixo, eis que arbitrado em R$ 500,00 (quinhentos reais), revelam-se acertados os honorários fixados de sucumbência por apreciação equitativa do juiz (CPC, art. 85, § 8º), como, de fato, o foram.
+No caso, embora a parte recorrente pretenda a fixação dos honorários em liquidação de sentença, o dispositivo do acórdão foi (fl. 146 - grifo nosso):
+Portanto, segundo a prova colacionada aos autos, deve ser mantida a sentença que reconheceu seu direito à isenção do imposto de renda, nos exatos termos do que preceitua o artigo 6º, inciso XIV, da Lei n. 7.713/88.
+Ante todo o exposto e à luz dos fundamentos acima apontados, estando o recurso em dissonância com a jurisprudência dominante no Superior Tribunal de Justiça bem como neste Tribunal de Justiça, nos termos do art. 127, XLIV, alínea "c", do Regimento Interno deste Tribunal (Resolução Nº 40/1996, alterada pela Resolução nº 38/2021, publicada em 28/10/21), NEGO-LHE P ROVIMENTO, mantendo incólume a sentença recorrida.
+A teor do art. 85, § 11º, do novo CPC, entendo por bem majorar os honorários advocatícios sucumbenciais, devidos pelo promovido, para o valor de R$ 1.500,00 (mil e quinhentos reais), a teor dos § § 2º e 8º do art. 85 do NCPC.
+Assim, não se trata de condenação em valor a ser liquidado, mas meramente declaratória de direito, motivo pelo qual inaplicáveis os precedentes citados pela parte recorrente, que se referem a casos em que imprescindível a fase de liquidação para se aferir o valor da condenação.
+Assim, escorreita a fixação de honorários conforme determina o CPC, por se tratar de ação cujo proveito econômico é inestimável e o valor da causa foi de R$ 500,00 (quinhentos reais):
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+ ..
+§ 8º Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º.
+Ante o exposto, nego provimento ao recurso especial.
+Majoro os honorários sucumbenciais em 10% (dez por cento), observada eventual concessão da gratuidade da justiça (§3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
