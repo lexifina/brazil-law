@@ -1,0 +1,6 @@
+DECISÃO
+A Primeira Seção deste Tribunal, em 18 de agosto de 2025, decidiu afetar os REsp 2.133.933/DF e REsp 2.025.997/DF à sistemática dos recursos repetitivos com o fim de "Definir se a cobrança de ICMSDIFAL em operações interestaduais destinadas a consumidor final contribuinte do imposto estava suficientemente disciplinada na Lei Complementar n. 87/1996 (Lei Kandir), antes da entrada em vigor da Lei Complementar n. 190/2022" (tema 1369).
+Nesse contexto, os autos devem retornar ao Tribunal Regional Federal para o sobrestamento do recurso especial até o exercício do juízo de conformação pelo órgão julgador com a tese a ser definida pela Primeira Seção, no precedente qualificado. E, após o rejulgamento, exaurida a instância recursal ordinária, o recurso especial deve ser encaminhado a este Tribunal Superior para julgamento das demais questões recursais.
+Ante o exposto, determino a devolução dos autos ao Tribunal de Origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pela Primeira Seção, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida no precedente qualificado; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015). Fica prejudicado o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
