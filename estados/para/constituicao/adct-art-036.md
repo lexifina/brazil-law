@@ -1,0 +1,1 @@
+Art. 36. Os fundos existentes na data da promulgação desta Constituição, excetuados os resultantes de isenções fiscais que passem a integrar patrimônio privado, extinguir-se-ão, se não forem ratificados pela Assembléia Legislativa no prazo de um ano.

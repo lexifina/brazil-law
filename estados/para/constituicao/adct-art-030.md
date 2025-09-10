@@ -1,0 +1,1 @@
+Art. 30. Os pretores, que estavam no exercício na data da promulgação desta Constituição Federal, adquirem estabilidade, observado o estágio probatório, aplicando-se-lhes as garantias e vedações da magistratura e passam a compor quadro em extinção, integrando, como juízes togados, os juizados especiais referidos no art. 173.

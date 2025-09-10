@@ -1,0 +1,1 @@
+Art. 24. Promulgada a Constituição do Estado, caberá à Câmara Municipal, no prazo de seis meses, votar a Lei Orgânica respectiva em dois turnos de discussão e votação, respeitado o disposto na Constituição Federal e nesta Constituição.

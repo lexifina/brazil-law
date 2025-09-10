@@ -1,0 +1,2 @@
+Art. 29. Até a promulgação da lei complementar referido no art. 169 da Constituição Federal e art. 208 desta Constituição, o Estado e os Municípios não poderão despender com pessoal mais do que sessenta e cinco por cento do valor das respectivas receitas correntes.
+Parágrafo único. Os Estados e os Municípios, quando a respectiva despesa de pessoal exceder o limite previsto neste artigo, deverão retornar àquele limite, reduzindo o percentual excedente a razão de um quinto por ano.

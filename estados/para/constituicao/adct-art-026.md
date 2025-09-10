@@ -1,0 +1,1 @@
+Art. 26. O Estado apoiará e incentivará, junto ao Governo Federal, a conclusão da eclusa de Tucuruí e a construção da eclusa de Santa Izabel do Araguaia, permitindo a integração hidroviária do Pará ao Centro-Oeste.

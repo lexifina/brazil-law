@@ -1,0 +1,1 @@
+Art. 4° O Poder Executivo, no prazo de noventa dias, contado da promulgação desta Constituição, abrirá crédito especial em favor do Corpo de Bombeiros Militar, para garantir a efetiva autonomia da corporação, conferida nesta Constituição.

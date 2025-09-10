@@ -1,0 +1,1 @@
+Art. 35. Os Municípios tomarão, no prazo de seis meses, contados da promulgação desta Constituição, as providências necessárias junto aos órgãos fundiários competentes, estaduais e federais, para regularizar, legalizar e identificar suas áreas patrimoniais que deverão estar demarcadas ao prazo de cinco anos, com o mesmo termo inicial.

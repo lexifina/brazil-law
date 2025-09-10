@@ -1,0 +1,1 @@
+Art. 25. O Poder Executivo, até cento e oitenta dias contados da promulgação desta Constituição, procederá às substituições necessárias de delegados de polícia nomeados ou comissionados nas delegacias do interior e da capital por delegados de polícia de carreira.

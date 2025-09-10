@@ -1,0 +1,1 @@
+Art. 7° O Estado e os Municípios editarão leis que estabeleçam critérios para compatibilização de seus quadros de pessoal ao disposto no art. 39 da Constituição Federal e art. 30 desta Constituição e à reforma administrativa deles decorrentes, no prazo de dezoito meses, contados de 5 de outubro de 1988.

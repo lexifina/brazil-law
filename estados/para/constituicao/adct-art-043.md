@@ -1,0 +1,1 @@
+Art. 43. Nos termos do art. 37, III, da Constituição Federal, e do art. 34, § 3°, desta Constituição, fica prorrogado por dois anos o prazo de validade de quaisquer concursos públicos, realizados pelos Poderes Legislativo, Executivo e Judiciário e demais órgãos e entidades públicos, não se aplicando o aqui disposto, se não houver candidatos aprovados para serem chamados.

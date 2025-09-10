@@ -1,0 +1,1 @@
+Art. 201-B. O preenchimento do quadro de servidores da Polícia Penal do Estado do Pará se dará, exclusivamente, por meio de concurso público, e pela transformação dos atuais cargos ocupados e vagos, de Agente Penitenciário, criados nos termos da lei.

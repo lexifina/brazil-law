@@ -1,0 +1,3 @@
+Art. 8° Os vencimentos, a remuneração, as vantagens e os adicionais, bem como os proventos de aposentadoria que estejam sendo percebidos em desacordo com a Constituição Federal e com esta Constituição serão imediatamente reduzidos aos limites delas decorrentes, não se admitindo neste caso invocação de direito adquirido ou percepção de excesso a qualquer título.
+§ 1° É assegurado o exercício cumulativo de dois cargos ou empregos privativos de médico que estejam sendo exercidos por médico militar na administração pública direta ou indireta.
+§ 2° É assegurado o exercício cumulativo de dois cargos ou empregos privados de profissionais de saúde que estejam sendo exercidos na administração pública direta ou indireta.

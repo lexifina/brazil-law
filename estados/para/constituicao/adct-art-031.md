@@ -1,0 +1,1 @@
+Art. 31. No prazo de cento e vinte dias, a contar da promulgação desta Constituição, serão instalados os cartórios de registro civil e de notas, pelo menos, em todas as sedes municipais que não dispõem dos mesmos, bem como serão instalados os cartórios já criados por lei.

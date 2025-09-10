@@ -1,0 +1,1 @@
+Art. 11. Aos servidores públicos estaduais que foram beneficiados pela anistia, por força da lei ou em virtude do art. 8°, § 2°, do Ato das Disposições Constitucionais Transitórias, da Constituição Federal, aplica-se o disposto no art. 40, §§ 4° e 5° da referida Constituição.

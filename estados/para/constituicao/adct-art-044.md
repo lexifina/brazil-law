@@ -1,0 +1,1 @@
+Art. 44. As áreas de terras sobre as quais existam decisões judiciais de partilha ou de adjudicação e as respectivas cadeias dominiais comprovem a existência de título legítimo são consideradas propriedades, devendo a sua regularização, no órgão fundiário do Estado, ocorrer sem nenhum pagamento por parte do interessado.

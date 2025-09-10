@@ -1,0 +1,1 @@
+Art. 23. O Estado, no prazo de cento e oitenta dias, contados da promulgação desta Constituição, providenciará a criação e manutenção de uma fundação pública que incorporará o patrimônio e realizará os objetivos da Santa Casa de Misericórdia do Pará.

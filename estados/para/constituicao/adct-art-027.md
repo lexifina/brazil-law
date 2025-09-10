@@ -1,0 +1,4 @@
+Art. 27. Os servidores públicos civis do Estado e dos Municípios, da administração direta, autárquica e das fundações públicas, em exercício na data da promulgação da Constituição Federal, há pelo menos cinco anos continuados, e que não tenham sido admitidos na forma regulada no art. 37, da Constituição Federal, são considerados estáveis no serviço público.
+§ 1° O tempo de serviço dos servidores referidos neste artigo será contado como título quando se submeterem a concurso para fins de efetivação, na forma da lei.
+§ 2° O disposto neste artigo não se aplica aos ocupantes de cargos, funções e empregos de confiança ou em comissão, nem aos que a lei declare de livre exoneração, cujo tempo de serviço não será computado para os fins de caput deste artigo, exceto se se tratar de servidor.
+§ 3° O disposto neste artigo não se aplica aos professores de nível superior, nos termos da lei.

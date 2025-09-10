@@ -1,0 +1,1 @@
+Art. 34. Os atuais juízes de paz ficam mantidos, com seus direitos, deveres e atribuições, até a eleição e posse dos novos titulares, podendo candidatar-se ao cargo, se preencherem os requisitos do art. 175, I, e da lei que regular o assunto.

@@ -1,0 +1,1 @@
+Art. 2° A Assembleia Legislativa, dentro do prazo de cento e vinte dias, contados da promulgação desta Constituição, elaborará seu Regimento Interno, em dois turnos de discussão e votação, observando os princípios da Constituição Federal e desta Constituição.

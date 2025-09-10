@@ -1,0 +1,1 @@
+Art. 38. Nos nove primeiros anos da promulgação desta Constituição, o Poder Público desenvolverá esforços, com a mobilização de todos os setores organizados da sociedade e com a aplicação de, pelo menos, cinqüenta por cento dos recursos a que se refere o art. 212 da Constituição Federal, para eliminar o analfabetismo e universalizar o ensino fundamental.

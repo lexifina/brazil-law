@@ -1,0 +1,1 @@
+Art. 33. Os juizados de pequenas causas, os juizados especiais, ou juízes de entrância especial para dirimir conflitos agrários e os juizados de paz devem ser instalados e entrar em funcionamento dentro de seis meses, contados da data da promulgação desta Constituição.

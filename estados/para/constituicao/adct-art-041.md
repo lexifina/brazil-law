@@ -1,0 +1,1 @@
+Art. 41. Os processos de regularização fundiária, protocolados no órgão estadual competente, até a data da instalação da Assembléia Estadual Constituinte, serão concluídos nos termos da legislação anterior, respeitados os limites estabelecidos na Constituição Federal.

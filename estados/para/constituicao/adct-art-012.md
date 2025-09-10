@@ -1,0 +1,1 @@
+Art. 12. Será criada, dentro de noventa dias da promulgação da Constituição, Comissão de Estudos Territoriais, com cinco membros indicados pela Assembléia Legislativa, cinco pelo Poder Executivo, e dois pelos Municípios, com a finalidade de apresentar estudos sobre limites territoriais dos Municípios do Estado, notadamente, quando exista incerteza ou litígio.

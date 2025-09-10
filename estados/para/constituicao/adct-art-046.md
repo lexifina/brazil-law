@@ -1,0 +1,1 @@
+Art. 46. Para cumprimento do art. 234, a atividade econômica que ainda estiver sendo explorada diretamente pelo Poder Público deverá ser suspensa no prazo que for estabelecido em lei complementar estadual, observada a lei federal.

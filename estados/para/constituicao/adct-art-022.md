@@ -1,0 +1,1 @@
+Art. 22. Até a promulgação das leis que disporão sobre organização básica da Polícia Civil, da Polícia Militar e do Corpo de Bombeiros Militar, inclusive direitos, vencimentos, vantagens e deveres de seus integrantes, ficam os mesmos regidos pela legislação vigente, naquilo que não conflitar com a Constituição.
