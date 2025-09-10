@@ -16,3 +16,4 @@ II - (revogado);
 III - (revogado);
 IV - (revogado).
 § 5º Os empréstimos de que trata o inciso III do § 2º deste artigo poderão ser destinados, por meio de ato do Poder Executivo, exclusivamente ao pagamento de precatórios por acordo direto com os credores, na forma do disposto no inciso III do § 8º do art. 97 deste Ato das Disposições Constitucionais Transitórias.
+§ 6º Aplica-se ao regime de pagamento de precatórios descrito no caput deste artigo o disposto nos §§ 23 a 30 do art. 100 da Constituição Federal.
