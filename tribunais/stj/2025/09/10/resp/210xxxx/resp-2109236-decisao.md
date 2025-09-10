@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEANDRO CUSTODIO DO NASCIMENTO MARQUES, fundado no art. 105, III, a, da Constituição Federal, contra o acórdão proferido pelo Tr ibunal de Justiça de Minas Gerais no julgamento da Apelação Criminal n. 1.0000.23.065457-60/001, assim ementado (fl. 752):
+APELAÇÃO CRIMINAL - ROUBO MAJORADO TENTADO E RECEPTAÇÃO - AUTORIA E MATERIALIDADE COMPROVADAS - ABSOLVIÇÃO - DESCLASSIFICAÇÃO DA RECEPTAÇÃO PARA AMODALIDADE CULPOSA - IMPOSSIBILIDADES. Demonstradas a materialidade, a autoria e o elemento subjetivo dos crimes de roubo majorado tentado e receptação, a condenação, à falta de causas excludentes de ilicitude ou de culpabilidade, é medida que se impõe.
+Nas razões, a defesa do recorrente apontou violação do art. 226 do Código de Processo Penal (fls. 796/804).
+Oferecidas contrarrazões (fls. 808/812), o recurso especial foi admitido na origem (fls. 815/821).
+O Ministério Público Federal opinou pelo desprovimento do recurso especial, nos termos da seguinte ementa (fl. 837):
+PENAL. PROCESSO PENAL. ROUBO MAJORADO TENTADO E RECEPTAÇÃO. PRETENSA DECLARAÇÃO DE NULIDADE PROCESSUAL E ABSOLVIÇÃO POR RECONHECIMENTO FOTOGRÁFICO. FORMALIDADES DO ARTIGO 226 DO CPP. REEXAME FÁTICO- PROBATÓRIO INVIÁVEL POR CORTE SUPERIOR INCOMPETENTE. CONDENAÇÃO CONCRETA E IDONEAMENTE FUNDAMENTADA. PARECER POR DESPROVIMENTO RECURSO ESPECIAL.
+É o relatório.
+A insurgência não merece acolhida.
+Colhe-se da moldura fática delineada no acórdão atacado que a convicção da instância ordinária, no sentido da suficiência de prova de autoria, não está calcada apenas em reconhecimento fotográfico efetivado com inobservância do regramento previsto no art. 226 do CPP, mas também no depoimento do corréu, que confirmou que era o réu quem o acompanhava quando de sua detenção, ou seja, quando da prática delitiva (fl. 760):
+ ..
+Conquanto tenha negado a autoria delitiva, o acusado Leonardo afirmou, na fase pré-processual (fl. 07/08 e-TJ, doc. de ordem nº 02), que estava acompanhado de Leandro quando foi detido pelo ofendido.
+ ..
+Nesse cenário, revela-se inviável acolher a pretensão deduzida no recurso, na medida em que há prova independente apta a respaldar a condenação do recorrente.
+Nesse sentido, confira-se: AgRg no AREsp n. 2.401.356/DF, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 11/3/2024; AgRg no REsp n. 2.067.294/PE, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 15/12/2023; AgRg no HC n. 851.668/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/11/2023; AgRg no AREsp n. 2.323.965/RR, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/8/2023; EDcl no RHC n. 163.545/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 27/6/2023; AgRg no REsp n. 2.023.803/MT, Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe 20/6/2023; AgRg no HC n. 754.925/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/2/2023; AgRg no AREsp n. 1.942.854/SC, de minha relatoria, Sexta Turma, DJe 22/8/2022; AgRg no HC n. 717.803/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/8/2022; AgRg no AREsp n. 1.888.061/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/5/2022, dentre outros.
+No mesmo sentido, confira-se o item 4 da tese fixada no julgamento do Tema n. 1.258/STJ:
+1 - As regras postas no art. 226 do CPP são de observância obrigatória tanto em sede inquisitorial quanto em juízo, sob pena de invalidade da prova destinada a demonstrar a autoria delitiva, em alinhamento com as normas do Conselho Nacional de Justiça sobre o tema. O reconhecimento fotográfico e/ou pessoal inválido não poderá servir de lastro nem a condenação nem a decisões que exijam menor rigor quanto ao standard probatório, tais como a decretação de prisão preventiva, o recebimento de denúncia ou a pronúncia.
+2 - Deverão ser alinhadas pessoas semelhantes ao lado do suspeito para a realização do reconhecimento pessoal. Ainda que a regra do inciso II do art. 226 do CPP admita a mitigação da semelhança entre os suspeitos alinhados quando, justificadamente, não puderem ser encontradas pessoas com o mesmo fenótipo, eventual discrepância acentuada entre as pessoas comparadas poderá esvaziar a confiabilidade probatória do reconhecimento feito nessas condições.
+3 - O reconhecimento de pessoas é prova irrepetível, na medida em que um reconhecimento inicialmente falho ou viciado tem o potencial de contaminar a memória do reconhecedor, esvaziando de certeza o procedimento realizado posteriormente com o intuito de demonstrar a autoria delitiva, ainda que o novo procedimento atenda os ditames do art. 226 do CPP.
+4 - Poderá o magistrado se convencer da autoria delitiva a partir do exame de provas ou evidências independentes que não guardem relação de causa e efeito com o ato viciado de reconhecimento.
+5 - Mesmo o reconhecimento pessoal válido deve guardar congruência com as demais provas existentes nos autos.
+6 - Desnecessário realizar o procedimento formal de reconhecimento de pessoas, previsto no art. 226 do CPP, quando não se tratar de apontamento de indivíduo desconhecido com base na memória visual de suas características físicas percebidas no momento do crime, mas, sim, de mera identificação de pessoa que o depoente já conhecia anteriormente.
+Logo, é o caso de incidir a Súmula 568/STJ.
+Ante o exposto, nego provimento ao recurso especial (art. 34, XVIII, b, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TENTATIVA DE ROUBO MAJORADO E RECEPTAÇÃO. VIOLAÇÃO DO ART. 226 DO CPP. TESE DE ILICITUDE DA PROVA OBTIDA EM RECONHECIMENTO FOTOGRÁFICO. IMPROCEDÊNCIA. CONDENAÇÃO CALCADA EM PROVA INDEPENDENTE. INCIDÊNCIA DO TEMA N. 1.258/STJ.
+Recurso especial improvido
