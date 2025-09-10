@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. HC IMPETRADO CONTRA ARESP TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo acusado, deve ser reconhecida a incompetência deste Tribunal para o processamento deste habeas corpus.
+2. Agravo regimental não provido.
+RELATÓRIO
+GABRIELLA JEANINE BENDER FORTE interpõe agravo regimental contra decisão de minha relatoria, em que indeferi liminarmente o habeas corpus e, por conseguinte, mantive inalterada a condenação a ela imposta pela prática do crime previsto no art. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006.
+A defesa afirma que "a r. decisão ignorou os argumentos centrais do habeas corpus, que não pretendiam a mera reanálise do REsp, mas sim a correção de uma ilegalidade material e substancial na pena, decorrente da desconsideração de fatos incontroversos e já admitidos nos autos, os quais revelam a condição de "mula" e a ausência de dedicação habitual ao crime" (fl. 200).
+No mais, basicamente reitera a sua compreensão de que estão preenchidos todos os requisitos necessários para a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 e de que foi desproporcional a pena de multa (quantidade de dias-multa) estabelecida à acusada.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que sejam acolhidas as teses lançadas na impetração.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. HC IMPETRADO CONTRA ARESP TRANSITADO EM JULGADO. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo acusado, deve ser reconhecida a incompetência deste Tribunal para o processamento deste habeas corpus.
+2. Agravo regimental não provido.
+VOTO
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+No caso, a defesa se insurge contra acórdão proferido no julgamento da apelação criminal pelo Tribunal Regional Federal da 4ª Região.
+No entanto, em consulta processual realizada na página eletrônica do TRF4 e nos assentamentos eletrônicos desta Corte, verifico que, contra o acórdão da apelação, a defesa também interpôs recurso especial (REsp n. 1.901.295), que foi parcialmente provido para reconhecer a incidência da atenuante da confissão espontânea em favor da acusada, aplicá-la no patamar de 1/6 e, por conseguinte, reduzir a sua reprimenda para 6 anos, 11 meses e 17 dias de reclusão e pagamento de 695 dias-multa. A decisão transitou em julgado em 23/2/2021.
+Este habeas corpus foi impetrado em 20/6/2025.
+Constata-se, pois, a impossibilidade de conhecimento deste mandamus, impetrado após o trânsito em julgado da condenação.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente (ora agravante), forçoso reconhecer a incompetência deste Tribunal para o processamento deste habeas corpus.
+Ilustrativamente:
+ ..  2. Revela-se inadequada a impetração habeas corpus nesta Corte para impugnar suas próprias decisões, conforme ressai da competência constitucional atribuída ao Superior Tribunal de Justiça no art. 105 da Carta da República.
+3. Agravo regimental improvido.
+(AgRg no HC 349.195/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 27/10/2016, grifei)
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Acerca do tema, menciono, ainda: "A fungibilidade entre revisão criminal e habeas corpus viola o juízo natural, pois permitiria que as partes pudessem escolher o Juízo que lhes conviesse. É uma situação diversa da que se encontra na fungibilidade entre o recurso ordinário em habeas corpus e o habeas corpus substitutivo" (AgRg no HC n. 905.233/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., julgado em 17/6/2024, DJe de 20/6/2024).
+Ademais, reitero que a pretendida aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas já foi examinada por este Superior Tribunal, ocasião em que se concluiu pela impossibilidade de incidência da minorante em favor da acusada, com base nos seguintes fundamentos, no que interessa:
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.
+11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, conforme visto, as instâncias ordinárias, dentro do seu livre convencimento motivado, consideraram, com base nos elementos concretos constantes dos autos, que as circunstâncias em que perpetrado o delito de tráfico transnacional de drogas não se compatibilizariam com a posição de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, no seio dos objetivos de uma organização criminosa, o que afasta a pretendida incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Por tais razões, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que a recorrente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada em recurso especial, a teor do enunciado na Súmula n. 7 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
