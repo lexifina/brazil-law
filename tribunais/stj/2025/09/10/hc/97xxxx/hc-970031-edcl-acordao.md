@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR DOMICILIAR. RÉ COM FILHA DE TENRA IDAD E. ARTS. 318, V, E 318-A DO CPP. ALEGAÇÃO DE OMISSÃO. REITERAÇÃO DOS ARGUMENTOS DO AGRAVO REGIMENTAL. UTILIZAÇÃO DOS EMBARGOS PARA REDISCUTIR OS FUNDAMENTOS DA DECISÃO EMBARGADA. INADMISSIBILIDADE.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL ao acórdão da Sexta Turma deste Superior Tribunal que negou provimento ao agravo regimental ajuizado pelo embargante, mantendo a concessão da ordem de habeas corpus em favor da embargada. Eis a ementa (fl. 391):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO FEDERAL. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR DOMICILIAR. PACIENTE COM FILHA DE TENRA IDADE (1 ANO). ARTS. 318, V, E 318-A DO CPP. DROGAS APREENDIDAS NA RESIDÊNCIA DA ACUSADA. SITUAÇÃO EXCEPCIONAL NÃO CONFIGURADA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Agravo regimental improvido.
+Alega o embarg ante que o acórdão impugnado padece de omissão ao deixar de considerar fatos relevantes que evidenciam a situação de risco a que estava exposta a criança. Alega, nesse sentido, que o tráfico de drogas era praticado no interior da residência, que entorpecentes foram encontrados ocultos em um pacote de fraldas da infante e que o genitor consumia maconha no mesmo ambiente em que ela se encontrava. Tais circunstâncias caracterizam hipótese excepcionalíssima, apta a afastar a concessão da custódia domiciliar à embargada.
+Afirma que o modus operandi do delito revela não apenas um risco concreto à ordem pública, mas também demonstra a ineficácia da prisão domiciliar como medida apta a impedir a reiteração delitiva.
+Assevera, ainda, que a concessão da custódia domiciliar à embargada não resguarda os interesses da criança, representando, ao contrário, potencial ameaça à sua saúde e integridade física.
+Ao final, requer o acolhimento dos embargos de declaração para o fim de suprir a omissão apontada na decisão embargada, com a atribuição de efeitos infringentes, a fim de restabelecer o entendimento das instâncias ordinárias pelo indeferimento da prisão domiciliar. Alternativamente, pleiteia a correção dos vícios identificados, para fins de prequestionamento dos dispositivos constitucionais.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR DOMICILIAR. RÉ COM FILHA DE TENRA IDAD E. ARTS. 318, V, E 318-A DO CPP. ALEGAÇÃO DE OMISSÃO. REITERAÇÃO DOS ARGUMENTOS DO AGRAVO REGIMENTAL. UTILIZAÇÃO DOS EMBARGOS PARA REDISCUTIR OS FUNDAMENTOS DA DECISÃO EMBARGADA. INADMISSIBILIDADE.
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos de declaração devem ser conhecidos, já que reúnem os requisitos de admissibilidade.
+No mérito, todavia, não devem ser acolhidos.
+Ao contrário do argumentado pelo embargante, no acórdão embargado foram ponderadas as circunstâncias do caso concreto e entendeu que a prisão domiciliar atende ao melhor interesse da criança, sendo afirmado (fls. 393/394 - grifo nosso):
+ ..
+Com efeito, importa destacar que o Ministro Ricardo Lewandowski, relator do HC coletivo n. 143.641/SP, afirmou que não configura situação excepcionalíssima, apta a evitar a concessão da ordem no caso concreto, o fato de o flagrante ter sido realizado pela suposta prática de tráfico de entorpecentes na residência da presa, porque não é justo nem legítimo penalizar a presa e aos que dela dependem por eventual deficiência na capacidade de fiscalização das forças de segurança. Efetivamente, a suspeita de que a presa poderá voltar a traficar caso retorne à sua residência não tem fundamento legal e tampouco pode servir de escusa para deixar de aplicar a legislação vigente, que protege a dignidade da mulher e da sua prole (HC n. 143.641, relator Ministro RICARDO LEWANDOWSKI, DJe de 26/10/2018 - grifo nosso).
+Como afirmei monocraticamente, a agravada é mãe de uma criança de 1 ano de idade, conforme certidão de nascimento à fl. 10, o crime, além de não ter sido cometido com violência ou grave ameaça à pessoa, não foi praticado contra o infante, as circunstâncias referenciadas na decisão atacada não firmam a existência de uma situação excepcional apta a justificar o indeferimento do benefício pretendido e não há relato nos autos que a agravada tenha descumprido quaisquer obrigações impostas pelo Juízo de origem por ocasião do deferimento do pedido liminar neste wri t - recolhimento domiciliar durante o dia todo; não fazer uso de tóxicos, não andar armada, não ingerir bebidas alcoólicas; não se ausentar da comarca por mais de 15 dias ou mudar de endereço sem autorização judicial; não frequentar bares, boates e casas de jogos; e manter o endereço atualizado e comparecer a todos os atos processuais para os quais for convocada (disponível no site do TJMG).
+Nessa ordem de ideias, cabível a manutenção da substituição da prisão cautelar por prisão domiciliar mediante o cumprimento das condições impostas pelo Juízo de primeiro grau.
+ ..
+Cumpre destacar que o genitor da infante se encontra preso cautelarmente não oferecendo risco à criança.
+Assim, constata-se que não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação foi efetivamente julgada, não padecendo o julgado embargado dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, o que é impróprio na espécie recursal, considerando não ser cabível a rediscussão, sob nova roupagem, de matéria já apreciada.
+Por fim, embora o embargante sustente a necessidade de prequestionamento dos dispositivos constitucionais supostamente violados, não os indicou de forma específica. Ademais, ainda que o tivesse feito, é pacífico o entendimento de que não compete ao STJ o enfrentamento de dispositivos constitucionais para fins de prequestionamento (EDcl no AgRg no AREsp n. 2.775.178/BA, Ministro Ribeiro Dantas, Quinta Turma, DJEN de 14/2/2025).
+Em face do exposto, rejeito os embargos de declaração.
