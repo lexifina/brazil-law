@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. ENTENDIMENTO DO TRIBUNAL DE ORIGEM QUANTO À INSUFICIÊNCIA DA PROVA MATERIAL APRESENTADA PARA COMPROVAÇÃO DO TRABALHO RURAL. INSURGÊNCIA RECURSAL QUE DEMANDA O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O debate da matéria trazida no recurso especial - acerca da suficiência da prova material apresentada para comprovação do trabalho rural - esbarra no óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça, porquanto a alteração das premissas adotadas pela Corte de origem implicaria o necessário reexame da matéria fática-probatória, o que é vedado na via eleita.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Clarice Pereira Martins de Lira contra decisão monocrática proferida por esta relatoria, a qual conheceu do agravo para não conhecer do recurso especial, conforme ementa abaixo transcrita (e-STJ, fl. 432):
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. ENTENDIMENTO DO TRIBUNAL DE ORIGEM QUANTO AO CARÁTER EXTEMPORÂNEO E À INSUFICIÊNCIA DA PROVA MATERIAL APRESENTADA. REANÁLISE QUE DEMANDA O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 445-453), a parte agravante refuta a aplicação do óbice sumular n. 7/STJ, defendendo que a análise da tese ventilada no recurso especial não demanda a incursão no acervo fático-probatório dos autos, mas tão somente a revisão das premissas constantes no acórdão prolatado pelo Tribunal de origem.
+Defende que o posicionamento adotado pelo colegiado regional, no sentido de não considerar a certidão de casamento como início de prova material, confere interpretação divergente ao art. 55, § 3º, da Lei n. 8.213/1991.
+Sem impugnação (e-STJ, fl. 460).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. ENTENDIMENTO DO TRIBUNAL DE ORIGEM QUANTO À INSUFICIÊNCIA DA PROVA MATERIAL APRESENTADA PARA COMPROVAÇÃO DO TRABALHO RURAL. INSURGÊNCIA RECURSAL QUE DEMANDA O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O debate da matéria trazida no recurso especial - acerca da suficiência da prova material apresentada para comprovação do trabalho rural - esbarra no óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça, porquanto a alteração das premissas adotadas pela Corte de origem implicaria o necessário reexame da matéria fática-probatória, o que é vedado na via eleita.
+2. Agravo interno desprovido.
+VOTO
+Conforme anteriormente relatado, a parte agravante alega que não seria necessária a análise fático-probatória para o exame da pretensão recursal, mas tão somente a revisão das premissas adotadas pelo colegiado regional, porquanto, ao deixar de considerar a certidão de casamento como início de prova material do efetivo exercício do trabalho rural, atribuiu interpretação divergente ao § 3º do art. 55 da Lei n. 8.213/1991.
+Nessa linha, a insurgente aponta que, além do documento acima referido, há prova testemunhal coerente e robusta que demonstra a atividade campesina.
+Contudo, diversamente do sustentado pela agravante, a análise das razões de decidir da Corte de origem revela que a conclusão exarada foi baseada nos fatos e nas provas constantes nos autos. Isso porque, diante de todo o acervo probatório apresentado, o colegiado regional entendeu que "o único documento dentro do período de carência é a certidão de casamento da autora que data de 2017 impossibilitando que haja o reconhecimento da atividade rural no período requerido"; e "a prova testemunhal colhida em audiência de instrução não tem o condão de ampliar a prova documental, diante do extenso lapso temporal não coberto pelos documentos" (e-STJ, fl. 196).
+Assim, o Tribunal Regional Federal da 4ª Região considerou haver "escassez da prova documental, não constando nos autos nenhum documento contemporâneo ao período de carência que comprove a atividade rural exercida, se não a certidão de casamento, razão pela qual, inclusive, não admite-se a prova exclusivamente testemunhal" (e-STJ, fls. 196-197).
+Diante de tais premissas, extrai-se que a conclusão a que chegara a Corte ordinária considerou a insuficiência do acervo probatório juntado aos autos para a comprovação do labor campesino durante o período de carência, especialmente em virtude da ausência de robustez do único documento contemporâneo apresentado, comparativamente ao extenso período alegado.
+Escorreita, pois, a decisão agravada ao entender que o debate da matéria trazida no recurso especial esbarra no óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça, porquanto a alteração das premissas adotadas pela segunda instância implicaria o necessário reexame da matéria fática-probatória, o que é vedado na via eleita.
+A propósito (sem destaques no original):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. DISTINÇÃO ENTRE O TRABALHO EM REGIME DE ECONOMIA FAMILIAR E O PRESTADO COMO BOIA-FRIA. IRRELEVÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PERÍODO DE CARÊNCIA NÃO COMPROVADO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O labor campesino, para fins de percepção de aposentadoria rural por idade, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência. Precedentes.
+3. Nesta linha de pensamento, a Primeira Seção, no julgamento do REsp 1.321.493/PR, rel. Ministro Herman Benjamin, apreciado como recurso especial repetitivo, decidiu que, mesmo para o trabalhador rural boia-fria, faz-se necessária a apresentação de início de prova material, ainda que diminuta, desde que complementada por idônea e robusta prova documental.
+4. No caso, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, concluiu que o acervo probatório se revelou insuficiente à comprovação de trabalho rural, em regime de economia familiar, no período de carência.
+5. A alteração das premissas retratadas no acórdão recorrido apenas seria possível mediante novo exame do acervo fático, providência vedada, a teor do disposto na Súmula 7/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.668.615/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Portanto, tendo em vista que as alegações f eitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
