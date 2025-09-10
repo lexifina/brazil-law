@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE. BUSCA PESSOAL. NÃO OCORRÊNCIA. DEMONSTRAÇÃO DE FUNDADA SUSPEITA E FLAGRANTE DELITO. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO PARA MODIFICAR O ENTENDIMENTO DA ORIGEM. PROVIDÊNCIA INCABÍVEL NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Leonardo Borges da Silva, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 5060287-15.2019.8.21.0001), que manteve a condenação do paciente como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 1 ano e 11 meses e 10 dias de reclusão, em regime inicial aberto, e 200 dias-multa (fls. 2/17).
+Aponta a defesa constrangimento ilegal decorrente da nulidade das provas que amparam a condenação, obtidas mediante busca pessoal ilegal.
+Alega que a abordagem pessoal do acusado e a revista pessoal se deu de forma totalmente injustificada e arbitrária, em completo descumprimento com as determinações legais e jurisprudenciais, e sem qualquer motivo idôneo apto a embasar, a priori, a fundada suspeita (fl.11).
+Requer, liminarmente e no mérito, a concessão da ordem para cassar o acórdão impugnado, reconhecendo-se a nulidade da busca pessoal e absolvendo o paciente (fl. 17).
+Em 10/2/2025, indeferi o pedido liminar (fls. 540/541).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 570/573).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE. BUSCA PESSOAL. NÃO OCORRÊNCIA. DEMONSTRAÇÃO DE FUNDADA SUSPEITA E FLAGRANTE DELITO. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO PARA MODIFICAR O ENTENDIMENTO DA ORIGEM. PROVIDÊNCIA INCABÍVEL NA VIA ELEITA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+VOTO
+De início, saliento que esta Corte já assentou posicionamento no sentido de que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício (AgRg no HC n. 779.155/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/2/2023).
+Afora isso, não se verifica a ocorrência do ilegal constrangimento.
+Isso porque o Tribunal de origem, ao afastar a alegação de nulidade, trouxe como fundamento a existência de flagrante delito, ao considerar que (fl. 19 - grifo nosso):
+1.1) DA NULIDADE DA BUSCA PESSOAL POR AUSÊNCIA DE FUNDADA SUSPEITA
+A Defesa de Leonardo, em suas razões, arguiu, preliminarmente, a nulidade da prova em razão da ilegalidade das buscas pessoais realizadas, sustentando a ausência de fundadas suspeitas para a abordagem ao réu.
+Do exame dos Artigos 240 e 244 do Código de Processo Penal, constata-se que a busca pessoal executa-se com contato direto com o corpo humano ou em pertences do indivíduo, procedendo-se, apenas, quando houver fundada suspeita de que o indivíduo esteja ocultando consigo: a) arma de fogo ou munição; b) coisas achadas ou obtidas por meios criminosos; c) instrumentos de falsificação ou de contrafação e objetos falsificados ou contrafeitos; d) instrumentos utilizados na prática de crime ou destinados a fim criminoso; e) objetos necessários à prova da infração ou à defesa do réu; f) cartas abertas destinadas ao acusado ou em seu poder, quando haja suspeita de que o conhecimento de seu conteúdo possa ser útil à elucidação do fato; e g) qualquer elemento de convicção.
+Cabe ressaltar que a busca pessoal independerá de mandado judicial diante da urgência da execução da medida, nos casos em que o indivíduo tiver sido preso, quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, bem ainda quando a medida for determinada no curso de busca domiciliar.
+Na linha do que já decidiu a Corte Superior, há de haver elementos concretos que evidenciem a probabilidade de que o agente esteja na posse de objetos ilícitos ou que constituam corpo de delito a autorizar a busca pessoal (RHC 158580/BA, Min. Rogério Schietti Cruz, Sexta Turma, STJ, julgado em 19/04/2022).
+No caso penal em atenção, verifica-se que, em ambas as oportunidades em que foi abordado, as fundadas suspeitas necessárias para a abordagem policial estavam presentes.
+Quanto ao 1º fato, ocorrido em 09/01/2019, verifica-se dos depoimentos dos policiais militares Lucas Bianquim de Araújo e Richard Henzel Barcelos, atuantes na ocorrência, que, na data do fato, em patrulhamento de rotina em local conhecido como ponto de tráfico, visualizaram um grupo de pessoas aglomerada, estando o réu no centro, gesticulando.
+Na ocasião, ao visualizar a guarnição, o grande grupo se dissipou, tendo a guarnição procedido à abordagem ao réu, oportunidade em que, em seu bolso, encontraram 30 pedras de crack. Na mesma ocasião, foram localizados R$ 108,75 (cento e oito reais e setenta e cinco centavos).
+Quanto ao 2º fato, ocorrido em 21/01/2019, extrai-se dos depoimentos dos policiais militares Cristiano Barbosa do Amaral e Flávio Henrique Orquem Pretto, que o réu, em local conhecido como ponto de tráfico, foi visualizado entregando algo a outro indivíduo.
+Durante a abordagem, com o réu foram encontradas 28 pedras de crack, pesando 3,7 gramas, enroladas em um plástico, as quais carregava dentro de sua boca.
+Portanto, da análise dos autos, verifico que estavam presentes as fundadas suspeitas necessárias para a realização da abordagem e da busca pessoal, razão pela qual afasto a preliminar arguida pela defesa.
+Dos trechos acima, verifica-se que a alegada nulidade decorrente da busca pessoal, não ficou evidenciada de imediato, pois, conforme consta, as duas abordagens foram feitas em locais conhecidos como ponto de tráfico de drogas. No primeiro fato, os policiais observaram um grupo de pessoas aglomeradas, com o réu no centro gesticulando, que após avistarem a guarnição, se dissiparam, o que justificou a suspeita. No segundo fato, a guarnição visualizou o réu entregando algo a outro indivíduo, o que reforçou a suspeita de que estavam na posse de objetos ilícitos.
+Ora, da moldura fática estabelecida no acórdão impugnado se extrai circunstância concreta apta a indicar fundada suspeita da posse de objeto que constitua corpo de delito e, por conseguinte, suficiente para justificar a busca pessoal do paciente.
+Mister registrar que, conforme um recente julgamento da Terceira Seção deste Tribunal, concluiu-se que a fuga ao avistar a guarnição policial consubstancia fato objetivo  não meramente subjetivo ou intuitivo  , visível, controlável pelo Judiciário e que, embora possa ter outras explicações, no mínimo gera suspeita razoável, amparada em juízo de probabilidade, sobre a posse de objeto que constitua corpo de delito (HC n. 877.943/MS, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 15/5/2024), sendo, pois, apta a fundar a busca pessoal.
+Acrescente-se, ainda, que reconhecer que não houve a dinâmica dos fatos descrita no acórdão atacado - notadamente, diante da ausência de elementos que comprovem alguma irregularidade - exige, inevitavelmente, aprofundado reexame do conjunto fático-probatório, sendo impróprio na via do habeas corpus (AgRg no HC n. 935.343/SP, Ministra Daniela Teixeira, Quinta Turma, DJe de 23/10/2024).
+Logo, verifica- se que inexiste qualquer nulidade a ser sanada.
+Em face do exposto, denego a ordem.
