@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA INDIVIDUAL. CONTRIBUIÇÕES PREVIDENCIÁRIA E DE INTERVENÇÃO DO DOMÍNIO ECONÔMICO. HORA REPOUSO ALIMENTAÇÃO. INEXIGÊNCIA SOMENTE DEPOIS DA VIGÊNCIA DA LEI 13.467/2017.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, além de negativa de prestação jurisdicional, a incidência de contribuição previdenciária e das contribuições destinadas a terceiros sobre as verbas pagas pelo empregador a título de Hora Repouso Alimentação - HRA.
+Contrarrazões apresentadas às fls. 398-416.
+É o relatório.
+Passo a decidir.
+De acordo com a jurisprudência, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Com relação ao mérito, a irresignação merece prosperar.
+A Primeira Seção desta Corte já se manifestou quanto à incidência da contribuição previdenciária patronal sobre os valores pagos a título de Hora Repouso Alimentação - HRA (EREsp n. 1.619.117/BA, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/11/2019, DJe de 8/5/2020).
+O entendimento acima não foi alterado com a entrada em vigor da Lei 17.467/2017, que deu nova redação ao § 4º do art. 71 da CLT, a saber:
+§ 4º A não concessão ou a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento, de natureza indenizatória, apenas do período suprimido, com acréscimo de 50% (cinquenta por cento) sobre o valor da remuneração da hora normal de trabalho.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança impetrado visando ordem para afastar a imposição da contribuição previdenciária, em São Paulo - DERAT/SP, GILL-RAT e Contribuição a Terceiros incidentes sobre pagamentos feitos a empregados a título de hora repouso alimentação. Na sentença foi denegada a segurança. No Tribunal a quo, a sentença foi mantida .
+II - No tocante à remuneração pelo intervalo intrajornada, a Primeira Seção desta Corte, no julgamento dos EREsp nº 1.619.117/BA, da relatoria do Sr. Ministro HERMAN BENJAMIN, firmou o entendimento de que incide contribuição previdenciária (cota patronal) sobre o que for pago ao trabalhador a título de Hora Repouso Alimentação (HRA). Nesse setido: AgInt no AREsp 1832700/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/10/2021, DJe 04/11/2021; AgInt nos EAREsp 1122223/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 11/11/2020, DJe 13/11/2020; AgInt no REsp 1727114/BA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 09/05/2019, DJe 14/05/2019).
+III - A alteração promovida pela Lei n. 13.467/2017 no art. 71, § 4º, da CLT não tem o efeito de modificar o entendimento desta Corte. Isso porque a denominação e demais características formais adotadas pela lei são irrelevantes para qualificar a natureza jurídica do tributo (art. 4º, I, do CTN). Nesse sentido: AgInt no AREsp 1.832.700/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 4.11.2021; AgInt no AgInt no REsp 1963274/SP.
+IV - Agravo interno improvido (AgInt no REsp n. 1.922.731/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023, grifo nosso).
+Além disso, o "STJ entende que, devido à identidade da base de cálculo, as contribuições previdenciárias e as contribuições destinadas a terceiros devem receber o mesmo tratamento jurídico, não incidindo sobre verbas consideradas de natureza indenizatória" (AgInt nos EDcl no REsp n. 1.882.093/ES, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 26/2/2025, DJEN de 6/3/2025).
+Isso posto, com fundamento no art. 255, § 4º, II e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento para reconhecer a incidência da contribuição previdenciária (cota patronal) e das contribuições destinadas a terceiros sobre os valores pagos a título de Hora Repouso Alimentação - HRA, mesmo após a vigência da Lei 13.467/2017.
+Intimem-se.
+EMENTA
