@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMA N. 1199/STF. AÇÃO CIVIL PÚBLICA INDENIZATÓRIA. AUSÊNCIA DE DEBATE, PEDIDO OU IMPUTAÇÃO DE IMPROBIDADE. PEDIDO NÃO CONHECIDO. CERTIFICAÇÃO DE TRÂNSITO EM JULGADO. PETIÇÃO NÃO CONHECIDA.
+1. A ação civil pública foi ajuizada pelo Ministério Público Federal visando unicamente o ressarcimento de danos, sem qualquer imputação ou alusão a ato típico de improbidade, mesmo sob a redação anterior da norma. Descabe discutir a incidência do Tema n. 1199/STF se ausente dos autos qualquer aspecto da Lei n. 8.429/1992.
+2. Petição manifestamente incabível, apresentada após o julgamento colegiado dos embargos de declaração no agravo interno no agravo em recurso especial que nem sequer foi conheci do, caracteriza evidente intuito protelatório, razão pela qual deve ser certificado, desde logo, o trânsito em julgado do feito.
+3. Petição não conhecida.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, "petição" apresentada por JANILSON ZUCCON, em que renova, após o julgamento colegiado dos embargos de declaração no agravo interno no agravo em recurso especial que nem sequer foi conhecido, o pleito de incidência da nova Lei de Improbidade Administrativa, à luz do Tema n. 1199/STF, ao caso.
+Aduz, em suma (fl. 14.949):
+Por fim, a r. sentença condenou os corréus ao pagamento de indenização por moral coletivo. No entanto, o eg. TRF2, em sede de apelação, afastou o dano material presumido e manteve a condenação por suposto dano moral coletivo.
+Todavia, consoante as novas disposições da Lei de Improbidade Administrativa, além de não ser admitida a presunção de caracterização dos elementos da figura típica, exige-se, a comprovação de perda patrimonial efetiva, o que conforme teor da r. sentença não restou demonstrado, mas apenas presumido.
+Destarte, requer-se a aplicação das novas disposições da Lei de Improbidade Administrativa, reconhecendo-se que, ante a manifesta ausência de comprovação de perda patrimonial efetiva - o que deflui do teor da r. sentença, que fundamentou o dano a partir de presunção -, a ação seja julgada improcedente.
+Sem impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMA N. 1199/STF. AÇÃO CIVIL PÚBLICA INDENIZATÓRIA. AUSÊNCIA DE DEBATE, PEDIDO OU IMPUTAÇÃO DE IMPROBIDADE. PEDIDO NÃO CONHECIDO. CERTIFICAÇÃO DE TRÂNSITO EM JULGADO. PETIÇÃO NÃO CONHECIDA.
+1. A ação civil pública foi ajuizada pelo Ministério Público Federal visando unicamente o ressarcimento de danos, sem qualquer imputação ou alusão a ato típico de improbidade, mesmo sob a redação anterior da norma. Descabe discutir a incidência do Tema n. 1199/STF se ausente dos autos qualquer aspecto da Lei n. 8.429/1992.
+2. Petição manifestamente incabível, apresentada após o julgamento colegiado dos embargos de declaração no agravo interno no agravo em recurso especial que nem sequer foi conheci do, caracteriza evidente intuito protelatório, razão pela qual deve ser certificado, desde logo, o trânsito em julgado do feito.
+3. Petição não conhecida.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Na origem, o Ministério Público Federal ajuizou ação civil pública contra JANILSON ZUCCON, SILVIO JOSÉ FERREIRA, TIAGO FRANCISCO DA PENHA, RENIVALDO SERAFIM DE CARVALHO, JOSÉ REINALDO EGÍDIO, WAGNER PEDRO DIAS, JÚNIO SÁVIO BELISÁRIO e BELISÁRIO CONSTRUÇÕES LTDA., alegando fraude na Tomada de Preços n. 07/2011, promovida pelo Município de Brejetuba, visando à execução de obras do ProInfância. Os pedidos incluíam a devolução do lucro obtido e indenização por dano moral coletivo. A sentença condenou os réus ao pagamento de R$ 125.166,27 (cento e vinte e cinco mil, cento e sessenta e seis reais e vinte e sete centavos) por perdas e danos e R$ 30.000,00 (trinta mil reais) por dano moral coletivo. O Tribunal, por sua vez, reformou parcialmente a decisão, julgando improcedente o pedido de dano moral coletivo e destinando a indenização à União.
+O recurso especial do MPF que visava restabelecer a condenação em danos coletivos não foi conhecido e o agravo em recurso especial dos ora requerentes não foi conhecido por força da Súmula n. 182/STJ. Decisões mantidas em agravos internos e subsequentes embargos.
+Os requerentes reiteram a pretensão de incidência do Tema n. 1199/STF ao caso, sem razão.
+As únicas menções à lei de improbidade que constam nos autos são reiteradas manifestações dos réus nesse sentido. A inicial da ação civil pública é inequívoca em tratar apenas da indenização e ressarcimento por atos ilícitos, sem qualquer invocação específica das normas de improbidade. É verdade que a Lei de Improbidade é citada genericamente na introdução da peça autoral (fl. 5), bem como em julgado nela referido (fl. 81), mas o fundamento dos pedidos é expressa e exclusivamente embasado em disposições específicas da Lei n. 8.666/1993 e no Código Penal (fls. 74-78), além da Lei da Ação Civil Pública (fl. 81) e Constituição Federal (fl. 85).
+Não há nenhuma imputação de qualquer ato típico de improbidade ou suas respectivas sanções, nem a qualquer dispositivo da Lei n. 8.429/1992 ou suas normas de regência.
+Nos embargos de declaração rejeitados neste Colegiado, a parte aduziu que o acórdão integrativo da origem teria discutido a Lei de Improbidade, na medida em que constaria essa expressão na respectiva ementa. Ocorre que o julgado somente o fez porque a parte suscitou a matéria naquela insurgência, conforme consta do relatório do julgado, que restou rejeitado (fl. 14.438).
+Nem a sentença, nem o acórdão, nem qualquer outro julgado, efetivamente imputa aos réus ou se sustenta em qualquer disposição da Lei n. 8.429/1992 para condená-los pelos danos, reconhecidos à luz das Leis de Licitações e da Ação Civil Pública.
+O pedido, reiterando razões já abordadas desde a origem, após o julgamento colegiado de embargos de declaração em agravo interno em agravo em recurso especial que nem sequer foi conhecido, ante a ausência de dialeticidade, é manifestamente incabível.
+Por essa razão, a petição não deve ser conhecida, sendo de rigor a certificação de trânsito do julgado de fls. 14.938-14.940, publicada em 5/3/2024.
+Isso posto, não conheço da petição.
