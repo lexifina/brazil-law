@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FELIPE DE ARAUJO ROMAO e CRISTIAN RENAN SOUSA REIS em que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2141386-13.2025.8.26.0000).
+Depreende-se dos autos que os pacientes tiveram a prisão preventiva decretada pela suposta prática dos delitos de furto qualificado pelo concurso de pessoas (CP, art. 155, § 4º, inciso IV), adulteração de sinal identificador de veículo automotor (CP, art. 311, § 2º, inciso III) e associação criminosa (CP, art. 288).
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão denegando a ordem, em acórdão de fls. 130-141.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar, ponderando que o crime foi praticado sem violência ou grave ameaça contra à pessoa, além da reincidência não poder gerar automaticamente a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva (fls. 2-11).
+Liminar foi indeferida (fls. 144-145).
+Apesar de solicitadas, as informações não foram prestadas (fl. 154).
+O Ministério Público Federal, instado, não apresentou em parecer (fl. 150).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da manutenção da prisão preventiva dos pacientes.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, a análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas.
+O quadro fático delineado pelo Tribunal local indica que os pacientes, em comunhão de desígnios com duas outras pessoas, subtraíram mercadorias de estabelecimento comercial avaliadas em R$ 126.125,00 (fl. 136).
+Após a subtração da coisa, evadiram-se do local em dois veículos, sendo o ocupado pelos pacientes com placas adulteradas, dando início a uma perseguição policial que abrangeu diferentes municípios, culminando no sucesso da atuação policial com a prisão de todos os suspeitos e a apreensão da mercadoria furtada (fl. 138).
+Restou, ainda, consignado que "FELIPE ostenta diversos antecedentes criminais, circunstância que denota que sua prisão é imprescindível para evitar nova recidiva. CRISTIAN igualmente registra condenações pretéritas por crimes graves" (fl. 139, grifei).
+Ao contrário do que narra o impetrante, a prisão preventiva está devidamente fundamentada na gravidade concreta da conduta dos agentes e no potencial risco de reiteração de condutas criminosas, sendo certa a manutenção de suas prisões como medida indispensável à garantia da ordem pública.
+Corroboram:
+ ..  a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no HC n. 981.209/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 15/4/2025.)
+A conduta do agente, sem prejuízo da conclusão a ser aferida após a instrução do processo, extrapola os limites objetivos do tipo penal envolvido e evidencia, ao menos para fins de decretação da prisão preventiva e a priori, a periculosidade social do agente e justifica a prisão, nos termos do art. 312 do Código de Processo Penal (AgRg no RHC n. 212.464/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/4/2025.)
+No mesmo sentido, confiram-se alguns precedentes: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+De mais a mais, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública.
+Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, "a existência de antecedentes criminais e o risco de reiteração delitiva autorizam a decretação da prisão preventiva, mesmo em crimes sem violência ou grave ameaça" (AgRg no RHC n. 215.990/BA, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
