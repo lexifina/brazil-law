@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRETENSÃO DE DESPRONÚNCIA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. INDÍCIOS SUFICIENTES DE AUTORIA E PROVA DA MATERIALIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por Thiago Silva de Lima, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Alagoas no Recurso em Sentido Estrito n. 000235-52.2015.8.02.0052, assim ementado (fl. 633):
+CONSTITUCIONAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. NÃO PROVIMENTO.
+I. Caso em exame.
+1. Recurso interposto contra decisão de pronúncia proferida contra o recorrente, submetendo-o ao julgamento pelo Tribunal do Júri, em razão da imputação da prática do crime de homicídio qualificado (Código Penal, art. 121, §2º, II, IV).
+II. Questão em discussão.
+2. Pedido de reforma para obter a despronúncia do acusado. Alegação de ausência de elementos suficientes para a configuração dos indícios de autoria.
+III. Razões de decidir.
+3. Existência de elementos capazes de configurar os indícios de autoria. Declarações da companheira da vítima e depoimentos do cunhado da vítima e dos policiais que conduziram o flagrante.
+IV. Dispositivo.
+4. Recurso conhecido e não provido.
+Nesta via, alega-se que: (i) inexistem indícios suficientes de autoria para sustentar a decisão de pronúncia; (ii) a pronúncia foi fundamentada exclusivamente em elementos informativos do inquérito policial, sem confirmação em juízo; (iii) os instrumentos probatórios se mostram insuficientes para o prosseguimento da ação penal; e (iv) violação dos arts. 155, 413 e 38 6, VII, do Código de Processo Penal, bem como do art. 5º, LV, da Constituição Federal.
+Requer-se o provimento do recurso para reformar o acórdão do Tribunal de Justiça de Alagoas, decretando a impronúncia/despronúncia do recorrente por total ausência de indícios quanto a autoria (fl. 653).
+Ofertadas contrarrazões (fls. 661/666), a Corte a quo admitiu o apelo (fls. 668/670).
+O Ministério Público Federal opinou, às fls. 681/686, pelo conhecimento parcial do recurso e, na parte conhecida, pelo seu não provimento, nos termos da seguinte ementa:
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CONHECIMENTO PARCIAL. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. AUSÊNCIA DO DEVIDO COTEJO ANALÍTICO. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. INADMISSÍVEL PELA VIA DO RECURSO ESPECIAL. PRONÚNCIA. DECISÃO BASEADA EM ELEMENTOS DE INFORMAÇÃO DO INQUÉRITO POLICIAL E EM PROVA TESTEMUNHAL COLHIDA EM JUÍZO. CONTRADITÓRIO E AMPLA DEFESA RESPEITADOS. INDÍCIOS SUFICIENTES DE AUTORIA. AFASTAMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PARECER PELO CONHECIMENTO PARCIAL DO RECURSO E, NA PARTE CONHECIDA, PELO SEU DESPROVIMENTO.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRETENSÃO DE DESPRONÚNCIA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. INDÍCIOS SUFICIENTES DE AUTORIA E PROVA DA MATERIALIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+Recurso especial não conhecido.
+VOTO
+A insurgência recursal não comporta conhecimento.
+De início, registro que a pretendida despronúncia demandaria necessariamente o revolvimento do conjunto fático-probatório da ação penal, o que é inadmissível em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+Com efeito, o Tribunal de origem, após examinar detidamente o acervo probatório, concluiu pela existência de indícios suficientes de autoria delitiva, destacando as declarações da companheira da vítima Luciete Maria da Conceição, confirmadas em juízo pelo cunhado da vítima Marcos José da Silva, bem como os depoimentos dos policiais que conduziram a prisão em flagrante. Pelo que se extrai do acórdão impugnado, a testemunha Marcos José da Silva presenciou o momento em que a vítima recebeu ligação dos supostos autores do crime, além dos elementos probatórios relacionados à prisão de Fábio da Silva e Airton Vieira de Lima, com a apreensão do veículo contendo vestígios do crime e a confissão de Fábio quanto à participação no homicídio, indicando o ora recorrente como executor a mando de Airton. Veja-se (fls. 636/637 - grifo nosso):
+ ..
+A materialidade do crime é incontroversa, e é comprovada pela certidão de óbito de fl. 125 e pela fotografia de fl. 113.
+Os indícios da autoria delitual são extraídos das declarações da companheira da vítima, Luciete Maria da Conceição, que, perante a autoridade policial (fl. 102), afirmou que antes de morrer o seu companheiro recebeu uma ligação de Ailton e Thiaguinho, os quais, junto com a pessoa de Fábio, teriam assinado a vítima.
+As declarações prestadas pela companheira da vítima foram confirmadas em juízo pela testemunha Marcos José da Silva, cunhado da vítima, e que presenciou o momento em que a vítima recebeu a ligação dos supostos autores do crime, vide mídia de fl. 544.
+Em associação ao depoimento do cunhado da vítima há também o depoimento do condutor da prisão, José Marcos Gomes Calado, que durante a investigação policial disse o seguinte (fls. 74/75):
+"Que, na noite de ontem estava comandando a sua guarnição composta pelos policiais militares JOSÉ CÍCERO DA SILVA e JAIRO GOMES, realizando rondas pela cidade de São José da Laje, especialmente à procura de um veículo GOL de cor cinza e placa KKH6088, que segundo denúncia estava transportando drogas de São José da Laje para Ibateguara; QUE, a denúncia também dava conta de que os ocupantes do veículo estavam armados; QUE, nesse ínterim, houve a denúncia do achado de um corpo nas imediações do Conjunto Habitacional Armando Lyra, conhecido como Capadócia, em São José da Laje, vítima de disparos de arma de fogo; QUE, sua guarnição se deslocara para o local e comprovara o achado do corpo, porém a vítima não fora identificada; QUE, permanecera no local até a chegada de uma viatura do Instituto de Criminalística; QUE, após isso, saíra no encalço do veículo GOL e ao passar pelo posto de combustíveis, reconhecera o GOL denunciado cuja placa era a mesma da denúncia; QUE, os dois conduzidos foram abordados e alegaram que estavam abastecendo o veículo para irem para Maceió; QUE, durante a revista foi constatado que manchas de sangue na trava de mão do veículo, no carpete e no banco traseiro; QUE, os policiais encontraram também uma sandália da marca "Kenner" nas cores preto/amarelo no piso ao lado do motorista, suja de lama; QUE, logo desconfiaram que aquela cena poderia estar ligada ao assassinato do indivíduo encontrado na Capadócia; QUE, após insistência dos policiais, o conduzido FÁBIO DA SILVA, o "BOCHECHA", confessara que realmente o carro participara do homicídio e que o sangue no interior do carro era da vítima; QUE confessara ainda que quem teria cometido o assassinato havia sido o indivíduo conhecido como "THIAGUINHO", de São José da Laje, além de que "THIAGUINHO" tinha sido contratado pelo conduzido AIRTON VIEIRA DE LIMA, o "IRMÃO"."
+O depoimento acima reproduzido foi corroborado pelo interrogatório de Fábio da Silva durante a fase inquisitorial (fl. 77), e pelo depoimento do policial José Cícero da Silva, em sede de instrução criminal (fl. 544).
+O que se denota dos elementos probatórios acima destacados é que estes, analisados conjuntamente, são suficientes para caracterizar os indícios de autoria necessários à pronúncia. Por essa razão, rejeito o pedido de reforma recursal destinado a obter a despronúncia do acusado.
+Conforme salientado pelo Ministério Público Federal, não compete ao magistrado, na sentença de pronúncia, realizar o exame aprofundado das questões de mérito, a fim de assentar a materialidade e autoria da conduta delitiva, bem como o elemento subjetivo da conduta, sob pena de invadir a competência do Tribunal do Júri. Com efeito, revela-se suficiente que haja indicação clara e precisa dos elementos de prova nos quais o julgador se apoiou para firmar a sua convicção, por se tratar de mero juízo de admissibilidade da acusação (fls. 684/685).
+Inexiste, pois, ilegalidade a ser reparada.
+Ante o exposto, não conheço do recurso especial.
