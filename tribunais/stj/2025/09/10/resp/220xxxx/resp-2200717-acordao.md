@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CPP. EXISTÊNCIA DE OUTRAS PROVAS INDEPENDENTES. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por Hermeson Rodrigo dos Santos, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Piauí na Apelação Criminal n. 0805509-17.2023.8.18.0026, assim ementado (fls. 315/316):
+APELAÇÃO CRIMINAL. PROCESSO PENAL. ROUBO MAJORADO. REJEITADA A ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. DOSIMETRIA DA PENA. AUSÊNCIA DE ILEGALIDADE. MAJORANTE DO EMPREGO DE ARMA, PREVISTA NO ARTIGO 157, § 2o, VII, DO CÓDIGO PENAL. CAUSA DE AUMENTO MANTIDA. REDUÇÃO DA PENA DE MULTA. IMPOSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+1. O arcabouço probatório constante dos autos é suficiente para a condenação do apelante, uma vez que restou demonstrada a materialidade e a autoria do delito de roubo, sendo imperioso ressaltar que, nos crimes patrimoniais, a palavra da vítima tem relevante valor probante.
+2. O Superior Tribunal de Justiça sedimentou o entendimento de que "É possível a utilização das provas colhidas durante a fase inquisitiva - reconhecimento fotográfico - para embasar a condenação, desde que corroboradas por outras provas colhidas em Juízo, como no caso de depoimento de testemunhas" (AgRg no HC 659.957/SC, Rei. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1a REGIÃO), SEXTA TURMA, julgado em 17/08/2021 , D Je 20/08/2021).
+3. O Superior Tribunal de Justiça firmou entendimento no sentido de que, "em crimes contra o patrimônio, cometidos na clandestinidade, em especial o roubo, a palavra da vítima tem especial importância e prepondera, especialmente quando descreve, com firmeza, a cena criminosa" (HC 581.963/SC, Rei. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/03/2022, D Je 28/03/2022).
+4. Não há ilegalidade na exasperação da pena-base do delito em razão da valoração desfavorável do vetor circunstâncias do crime. Conforme reiterado posicionamento da jurisprudência dos Tribunais Superiores, no crime de roubo com mais de uma causa de aumento de pena, é possível a consideração do concurso de agentes como circunstância judicial desfavorável na primeira fase da dosimetria da pena, quando ficar devidamente comprovado que o delito foi praticado por mais de um agente.
+5. O magistrado fez incidir a causa de aumento considerando a palavra da vítima, que descreveu a investida criminosa, com segurança, afirmando que o roubo foi cometido com emprego de arma de branca, revelando detalhes precisos dos fatos. Ao passo que foi corroborado na prisão em flagrante do acusado quando encontrada a arma do crime em sua posse.
+6. O pedido de redução da pena de multa imposta ao apelante na sentença não pode ser acatado, haja vista que a sua fixação obedece aos parâmetros estabelecidos nos preceitos secundários dos tipos. Ausência de autorização normativa. Inteligência da Súmula 7 do TJPI.
+7. Recurso conhecido e desprovido.
+Nesta via, a defesa sustenta violação do art. 226 do Código de Processo Penal, alegando nulidade absoluta do reconhecimento realizado na fase inquisitiva, por descumprimento das formalidades legais, pleiteando, ao final, a absolvição do recorrente.
+Ofertadas contrarrazões (fls. 403/418), o Tribunal de origem admitiu o apelo (fls. 420/425).
+O Ministério Público Federal opinou, às fls. 436/439, pelo não provimento do recurso especial, nos termos da seguinte ementa:
+RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO REALIZADO NA FASE INQUISITIVA E CONFIRMADO EM SEDE JUDICIAL. ALEGADA VIOLAÇÃO AO ART. 226 DO CÓDIGO DE PROCESSO PENAL NÃO CONFIGURADA. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA VÁLIDAS E INDEPENDENTES COMO FUNDAMENTO PARA A CONDENAÇÃO. PRECEDENTE DO STJ.
+1. Na hipótese dos autos, a autoria delitiva referente ao crime de roubo não teve como único elemento de prova o reconhecimento fotográfico feito pela vítima, o qual foi ratificado em juízo, com riqueza de detalhes, mas, também, o depoimento testemunhal.
+2. Parecer pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CPP. EXISTÊNCIA DE OUTRAS PROVAS INDEPENDENTES. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+Recurso especial não conhecido.
+VOTO
+A insurgência recursal não comporta conhecimento.
+Pelo que se depreende dos autos, o reconhecimento (fotográfico e pessoal), ainda que, porventura, contenha algum vício, não se afigura como um único elemento probatório que lastreia a condenação, que se encontra amparada em outras provas independentes (independent source), reclamando-se, assim, a aplicação da ressalva contida no próprio leading case da Sexta Turma desta Corte, firmado no julgamento do HC n. 598.886/SC (AgRg no HC 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022).
+Com efeito, o acórdão recorrido não se baseou exclusivamente no reconhecimento fotográfico alegadamente viciado, mas em outros elementos probatórios válidos produzidos durante a instrução processual, notadamente as declarações da vítima que relatou com riqueza de detalhes as circunstâncias do crime, o reconhecimento da motocicleta utilizada e das vestimentas do acusado, corroborado pelos depoimentos das testemunhas policiais que descreveram a prisão em flagrante e a apreensão da res furtiva na posse dele.
+A propósito, a jurisprudência do STJ admite a valoração do reconhecimento fotográfico, mesmo sem integral observância ao art. 226 do CPP, desde que corroborado por outros elementos de prova. A pretensão defensiva esbarra no óbice da Súmula n. 83 do STJ, que impede o conhecimento do recurso especial quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida (AgRg no AREsp n. 2.693.728/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 18/6/2025 - grifo nosso).
+A tese defendida pelo recorrente foi examinada e rejeitada pelo Tribunal de origem, que fundamentou a condenação em outras provas válidas e suficientes da autoria delitiva, ainda que se desconsidere o reconhecimento do acusado na fase inquisitiva. Não há, portanto, contrariedade ao dispositivo legal invocado, mas sim aplicação correta do princípio da independência das provas.
+Ante o exposto, não conheço do recurso especial.
