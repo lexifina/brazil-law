@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por Minas Brasil Cooperativa de Transportes LTDA, com base na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão assim ementado (fls. 983-994):
+"APELAÇÃO. AÇÃO DE COBRANÇA. SERVIÇOS DE TRANSPORTE. COOPERATIVA. INADIMPLÊNCIA DO TOMADOR DE SERVIÇO. BOA FÉ. CONDENAÇÃO. COOPERATIVA. INTEGRALIZAÇÃO DE CAPITAL SOCIAL. RESTITUIÇÃO. DEVIDA.
+Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé. A condicionante posta na adesão pode ser revista se não restar demonstrada a intenção de receber o valor devido pela cooperativa. É devida a restituição do capital integralizado, desde que realizo (sic) o prévio desligamento e transcorrido prazo legal."
+Embargos de declaração rejeitados (fls. 1.021-1.025).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o s artigos 79, 80 e 89 da Lei 5.764/1971; 125, 219 e 884 do Código Civil; e 5º, II, e 174, § 2º, da Constituição Federal.
+Quanto à suposta ofensa aos artigos 79, 80 e 89 da Lei 5.764/1971, sustenta que a legislação cooperativista prevê o rateio dos prejuízos entre os cooperados, não sendo possível atribuir à cooperativa a responsabilidade exclusiva pelo pagamento dos valores devidos ao cooperado.
+Argumenta, também, que o artigo 125 do Código Civil foi violado, pois a obrigação de pagar os valores ao cooperado estaria subordinada à condição suspensiva de recebimento dos valores pelo tomador de serviços (Município de Ouro Preto).
+Além disso, teria havido violação ao artigo 884 do Código Civil, ao impor à cooperativa o pagamento de valores que não recebeu do tomador de serviços, o que configuraria enriquecimento sem causa do cooperado.
+Alega que o artigo 422 do Código Civil foi afrontado, pois a boa-fé objetiva é presumida, e não caberia à cooperativa demonstrar que agiu de boa-fé, mas sim ao cooperado provar eventual má-fé.
+Por fim, aponta violação aos artigos 5º, II, e 174, § 2º, da Constituição Federal, ao não reconhecer a natureza jurídica da cooperativa e os princípios que regem o cooperativismo.
+Contrarrazões às fls. 1.106-1.107, nas quais a parte recorrida alega que o acórdão recorrido aplicou corretamente a legislação, destacando que a cooperativa não demonstrou ter buscado satisfazer o crédito perante o tomador de serviços.
+É o relatório.
+O recurso especial não deve ser admitido.
+De início, verifico que os artigos 79, 80 e 89 da Lei 5.764/1971 supostamente violados não foram apreciados pelo Tribunal de origem, o que obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF e da Súmula 211 do STJ.
+Analisando as alegações trazidas pelo recorrente com relação aos artigos 125, 219, 422 e 884 do Código Civil apontados como violado, percebe-se que estes não possuem conteúdo normativo apto a amparar a tese defendida.
+Tratam-se de normas jurídicas que apenas podem ser aplicadas e interpretadas dentro de um contexto normativo-jurídico maior e em conjunto com outras normas, o que inviabiliza a exata compreensão da controvérsia, de tal modo que o recurso não pode ser conhecido em virtude da deficiência na sua fundamentação.
+Incide, portanto, a Súmula 284 do Supremo Tribunal Federal, por analogia.
+Ainda, a revisão das conclusões proferidas pelo Tribunal de origem demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Por fim, necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF, tais como os artigos 5º, II, e 174, § 2º, da Constituição Federal.
+Tendo ventilado matéria constitucional sem a respectiva propositura de recurso extraordinário, o recurso especial não deve ser admitido, nos termos da Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Em face do exposto, não admito o recurso.
+EMENTA
