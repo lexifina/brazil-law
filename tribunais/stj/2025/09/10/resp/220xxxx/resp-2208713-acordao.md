@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. CRIME PRATICADO COM INTENSA FRIEZA E CARACTERÍSTICAS DE EXECUÇÃO. DISPARO EM VIA PÚBLICA NA PRESENÇA DE CENTENAS DE PESSOAS. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL. INCIDÊNCIA DA SÚMULA 83/STJ.
+Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por Marcos Antonio Ferreira da Silva, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Alagoas na Apelação Criminal n. 0700769-02.2018.8.02.0067, assim ementado (fl. 532):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO POR RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA NA FORMA TENTADA (ART. 121, § 2º, INCISO IV C/C ART. 14, II, AMBOS DO CP). SENTENÇA CONDENATÓRIA.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Nesta via, a defesa alega violação do art. 59 do Código Penal, sustentando que o Tribunal de origem teria valorado inadequadamente as circunstâncias do crime na primeira fase da dosimetria da pena. Impugna a fundamentação utilizada para exasperar a pena-base com base na frieza demonstrada pelo agente e no fato de o crime ter sido praticado em via pública. Aduz que tais elementos seriam inerentes ao tipo penal ou insuficientes para justificar o aumento da reprimenda-base.
+Requer o provimento do recurso, afastando-se a valoração negativa das circunstâncias do crime (fl. 548).
+Ofertadas contrarrazões (fls. 556/563), a Corte a quo admitiu o apelo (fls. 565/566).
+O Ministério Público Federal opinou, às fls. 581/587, pelo não conhecimento do recurso especial e, caso conhecido, pelo seu desprovimento, nos termos da seguinte ementa:
+HOMICÍDIO QUALIFICADO TENTADO. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A", DA CF. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 59 DO CP. PRETENSÃO DE REFORMA DA DOSIMETRIA DA PENA. SÚMULA 7/STJ. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. DECISÃO FUNDAMENTADA. PRECEDENTES DO STJ.
+PARECER PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL; CASO CONHECIDO, PELO SEU DESPROVIMENTO.
+É o relatório.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. CRIME PRATICADO COM INTENSA FRIEZA E CARACTERÍSTICAS DE EXECUÇÃO. DISPARO EM VIA PÚBLICA NA PRESENÇA DE CENTENAS DE PESSOAS. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL. INCIDÊNCIA DA SÚMULA 83/STJ.
+Recurso especial não conhecido.
+VOTO
+A irresignação recursal não comporta conhecimento.
+De início, cumpre lembrar que a dosimetria da pena se insere no âmbito da discricionariedade vinculada do julgador, que deve fundamentá-la com amparo nos elementos concretos do crime e nas condições subjetivas do agente. O afastamento do mínimo legal deve observar os critérios insertos no art. 59 do Código Penal, compondo-se de oito circunstâncias judiciais, cuja valoração depende de motivação concreta, apta a demonstrar grau de reprovabilidade que transborda do intrínseco no tipo.
+Este Superior Tribunal assentou que as circunstâncias do crime correspondem aos dados acidentais, secundários, relativos à infração penal, que não integram a estrutura do tipo penal (AgRg no HC n. 925.471/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 4/10/2024). Na espécie, o magistrado sentenciante, dentro de sua discricionariedade juridicamente vinculada, proferiu decisão concretamente motivada e atrelada às particularidades fáticas do caso concreto, consignando que o crime foi cometido com intensa frieza, demonstrada através dos locais em que a vítima foi atingida (cabeça, rosto, braço e joelho), circunstâncias típicas dos chamados "crimes de execução", bem como naquele local existiam dezenas de pessoas, segundo a vítima, tinham mais de 110 pessoas, motivo pelo qual valoro como desfavorável a presente circunstância (fl. 458).
+Em casos análogos, a jurisprudência desta Corte Superior reputou idônea a elevação da pena-base em razão do homicídio ter sido praticado em via pública. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO IDONEAMENTE FUNDAMENTADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para se chegar a uma aplicação justa da lei penal, o sentenciante, dentro da discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime e comportamento da vítima.
+2. Esta Corte Superior tem a compreensão de que o fato de a vítima haver sido abatida com disparos de arma de fogo em via pública, situação que colocou a incolumidade pública em risco, bem como a constatação de que o crime foi premeditado, haja vista o réu haver se armado previamente com o fim de matar o ofendido, justificam o incremento da pena-base.
+3. Da mesma forma, o STJ já decidiu que "considera-se idônea a valoração do impacto familiar causado pela morte de seu provedor, porque ultrapassa o fato da perda de um ente familiar" (AgRg no HC n. 579.082/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 16/6/2020, DJe de 29/6/2020).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.721.988/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2025, DJEN de 19/5/2025 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. PREMEDITAÇÃO. CIRCUNSTÂNCIAS DO CRIME. ELEMENTOS CONCRETOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da orientação jurisprudencial desta Corte, ""não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de homicídio qualificado, pois o paciente efetuou os disparos durante o dia, em via pública, nas proximidades de feira livre, o que gerou risco à incolumidade pública. Precedentes" (HC n. 506.576/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/3/2020, DJe de 26/3/2020).
+2. Na espécie, houve alusão à audácia para a prática do delito, indicando inexistência de inibição pelo réu, considerando a execução em via pública, durante o dia, em local bem movimentado, ressaltando-se a utilização de arma de fogo, sem autorização para portar em público, circunstância essa não considerada para qualificar o delito.
+3. Desconstituir as premissas fáticas delineadas no acórdão impugnado, com o objetivo de reverter a conclusão a respeito da premeditação, demandaria indevido revolvimento fático-probatório, providência inviável na estreita via do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 873.660/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 10/6/2024, DJe de 20/6/2024 - grifo nosso).
+Também o fato de a vítima ser fria e sumariamente executada tem sido considerado motivação idônea para elevação da pena-base, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ORGANIZAÇÃO CRIMINOSA. PENA-BASE. VALORAÇÃO DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. AUMENTO DA PENA-BASE. CRITÉRIO PROPORCIONAL E VÁLIDO.
+ ..
+2. Circunstâncias do crime valoradas diante do delito praticado com concurso de agentes e vários disparos de arma de fogo, sendo dado concreto e que não enseja bis in idem com a qualificadora do inciso IV do §2º do art. 121 do CP. Reconhecido que a vítima, desarmada, foi pega, de surpresa, em via pública, e executada.
+3. Possibilidade da consideração dos efeitos adversos do confronto bélico entre facções rivais, para valoração das consequências do crime, com uso de homicídios para resolução de disputas, sem que promova bis in idem com a condenação pelo crime de organização criminosa.
+4. A pena-base "exasperada em 1/8 sobre o intervalo entre as penas máxima e mínima abstratamente cominadas para cada circunstância judicial desfavorável - critério que não se revela desarrazoado e, entre outros, é admitido por esta Corte Superior. Com efeito, a jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser usada na valoração negativa das vetoriais previstas no art. 59 do CP." (AgRg no HC n. 773.645/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/4/2023, DJe de 3/5/2023.).
+5 . Agravo regimental desprovido.
+(AgRg no HC n. 795.297/CE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023 - grifo nosso).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIA INADEQUADA. NÃO CONHECIMENTO. HOMICÍDIO TRIPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. DESFAVORECIMENTO DAS VETORIAIS DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME E DA CONDUTA SOCIAL E PERSONALIDADE DO AGENTE. MODUS OPERANDI DO DELITO QUE REVELA A SUA GRAVIDADE CONCRETA. DECOTE DO VETOR DAS CONSEQUÊNCIAS. FUNDAMENTAÇÃO INIDÔNEA. REFERÊNCIAS VAGAS E EXPRESSÕES GENÉRICAS. ANTECEDENTES CRIMINAIS DO AGENTE CORRETAMENTE VALORADOS, EMBORA SOB INADEQUADO NOMEN JURIS. READEQUAÇÃO DO QUANTUM DE INCREMENTO PUNITIVO PARA 1/2 SOBRE O MÍNIMO LEGAL. AUMENTO DE 1/6 SOBRE O MÍNIMO LEGAL PARA CADA VETORIAL DESFAVORECIDA. RECOMENDAÇÃO JURISPRUDENCIAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+ ..  - O desfavorecimento das circunstâncias do crime encontra justificação no modus operandi do delito - descrito pelas instâncias ordinárias com suficiência de detalhes -, que desborda do ordinário do tipo, pois a vítima foi sumariamente executada em ação planejada e o seu corpo foi abandonado, de forma completamente indigna, em estrada de terra.
+ ..
+Habeas corpus não conhecido.
+Ordem concedida, de ofício, para reduzir a pena definitiva do paciente ao novo patamar de 22 anos e 6 meses de reclusão, mantidos os demais termos da condenação.
+(HC n. 500.808/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2019, DJe de 5/12/2019 - grifo nosso).
+Como se vê, o entendimento consignado no acórdão recorrido encontra-se em perfeita consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, incidindo o óbice da Súmula 83/STJ.
+Ante o exposto, não conheço do recurso especial.
