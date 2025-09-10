@@ -1,0 +1,125 @@
+DECISÃO: Trata-se de reclamação constitucional com pedido liminar, proposta pela Fundação Nacional de Saúde - FUNASA, contra acórdão proferido pelo Tribunal Superior do Trabalho, nos autos do Processo 0010810-71.2017.5.03.0085.
+
+    Em sua razões, a Reclamante sustenta, em síntese, que a autoridade reclamada, ao reconhecer a competência da Justiça do Trabalho para o julgamento da reclamação trabalhista originária, por meio da qual a parte beneficiária pleiteia o recebimento de verbas trabalhistas relativas a período posterior à transmudação de regime, teria desrespeitado o que decidido na ADI 3.395 e a Súmula Vinculante 10.
+
+    Consta da exordial o seguinte contexto fático:
+
+     “Cuida-se, na origem, de reclamação trabalhista ajuizada por servidor público estatutário em face da autarquia ré na qual pleiteou-se a declaração de nulidade da transmudação/conversão do regime jurídico de celetista para estatutário do empregado não estabilizado (a teor do art. 19 do ADCT), mesmo após o advento do art. 243 da Lei 8.112/1991, e o reconhecimento do direito à percepção do FGTS.
+
+    A autarquia argumentou perante a Justiça do Trabalho haver afronta ao precedente fixado pela Excelsa Corte em sede de controle concentrado nos autos da ADI nº 3.395/DF, na medida em que a competência para o processamento e julgamento da causa é da Justiça Comum, não da Justiça do Trabalho.
+
+    No mérito, apontou que a decisão recorrida ao entender que a parte reclamante permaneceu na condição de empregada celetista, mesmo após a edição da Lei nº 8.112/90, acabou por declarar a inconstitucionalidade do art. 243, da Lei nº 8.112/90, sem observar a cláusula de reserva de plenário prevista no art. 97 da CF e na Súmula Vinculante nº 10/STF.
+
+    Apesar disso, a Corte Superior Trabalhista, por meio do acórdão ora impugnado, reconheceu ao reclamante, o direito aos depósitos fundiários, a despeito de as partes manterem entre si vínculo estatutário desde o advento da Lei 8.112/90 – Regime Jurídico Único.
+
+    O referido julgado foi objeto de recurso extraordinário, diante do prequestionamento do tema da competência da Justiça do Trabalho, da violação da força das decisões do STF e da violação aos arts. 5º, XXXVI, 7º. XXIX, 39, caput, § 3º, 97, e art. 19, do ADCT.
+
+    Contudo, a Vice-Presidência do TST negou seguimento ao recurso extraordinário, ao fundamento de que o acórdão recorrido, ao concluir pela competência da Justiça do Trabalho, aplicou os Temas nº 853 e nº 928 de Repercussão Geral, nos quais ter-se-ia fixado o entendimento de que a Justiça do Trabalho é competente para julgar ação de servidor que discute verbas trabalhistas referentes a período regido pela CLT.
+
+    Contra mencionada decisão, houve interposição de agravo interno, com base nos artigos 1201 e 1030, § 2º, do CPC e 265 do RITST, reiterando a configuração de violação de preceitos constitucionais e violação à força das decisões do STF, em especial ADI 3395 e não aplicação do Tema 928 e 853 do STF. Contudo, o órgão especial do TST negou provimento ao agravo interno.” (eDOC 1, p. 2)
+
+    Nesses termos, argumenta que o ato reclamado, ao reconhecer o direito ao FGTS para um servidor que se encontra sob regime estatutário desde 1990, desconsidera a transmudação do regime e, consequentemente, a competência da Justiça Comum para dirimir a questão. Ressalta, assim, que a pretensão de FGTS se refere ao período posterior à Lei nº 8.112/90, e não a um vínculo celetista anterior, tornando a ADI 3.395 plenamente aplicável. Defende, desse modo, que a admissão da invalidade da modificação de regime jurídico para justificar o pagamento do FGTS viola o princípio da segurança jurídica, dado o longo período em que o servidor esteve sob o regime estatutário e os benefícios dele decorrentes.
+
+    Alega, ainda, a aplicação indevida dos Temas 853 e 928 da repercussão geral, porquanto, embora esses temas reconheçam a competência da Justiça do Trabalho para demandas de natureza trabalhista relativas ao período em que o servidor mantinha vínculo celetista com a Administração, o caso em questão é distinto, uma vez que não pleiteia verbas trabalhistas referentes ao período celetista anterior a 1990, mas sim o pagamento de FGTS após o advento do Regime Jurídico Único (RJU).
+
+    A questão central, segundo a reclamante, é a própria descaracterização do vínculo estatutário, o que configura uma matéria de direito administrativo e, portanto, de competência da Justiça Comum, conforme entendimento já firmado pelo STF em casos semelhantes. Dessa forma, a decisão do TST, ao declarar a inconstitucionalidade da transposição para o regime estatutário, ultrapassa os limites dos Temas 853 e 928 e colide com a jurisprudência da Suprema Corte.
+
+    Por fim, argui a ofensa à Súmula Vinculante 10 do STF visto que, ao afirmar que a instituição do regime estatutário não seria suficiente para transmudar a natureza do vínculo jurídico dos empregados que não adquiriram estabilidade pelo artigo 19 do ADCT, a decisão reclamada realizou uma interpretação restritiva do artigo 243 da Lei nº 8.112/90. Tal interpretação, na prática, equivaleria a uma declaração implícita de inconstitucionalidade do dispositivo legal, sem a observância do quórum qualificado exigido para tanto, violando a reserva de plenário.
+
+    Diante disso, requer a concessão de liminar para suspender o ato reclamado e, no mérito, sua cassação, determinando-se a remessa dos autos da reclamação trabalhista originária para a Justiça Federal Comum.
+
+    É o relatório. Decido.
+
+    Inicialmente, deixo de solicitar informações à autoridade reclamada e dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+
+    Superado o ponto, destaco que a reclamação, tal como prevista no art. 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+
+    No caso, indica-se como paradigma de confronto a ADI 3.395/DF-MC, cuja ementa transcrevo:
+
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação.
+
+    O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”. (ADI 3.395 MC, Rel. Min. Cezar Peluso, Tribunal Pleno, DJ 10.11.2006)
+
+    Com efeito, ressalto que, consoante entendimento desta Corte, firmado no julgamento da ADI 3.395, compete à Justiça comum o julgamento de causas instauradas entre o Poder Público e servidor a ele vinculado por relação jurídico-administrativa, não cabendo à Justiça trabalhista sequer discutir a legalidade da relação administrativa. Nesse sentido, cito os seguintes precedentes:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA AO QUE DECIDIDO NA ADI 3.395. OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM PARA PRONUNCIAR-SE SOBRE A EXISTÊNCIA, A VALIDADE E A EFICÁCIA DA RELAÇÃO ENTRE SERVIDORES E O PODER PÚBLICO, FUNDADA EM VÍNCULO JURÍDICO-ADMINISTRATIVO. PRECEDENTES. RECURSO DE AGRAVO A QUE SE DÁ PROVIMENTO. 1. No julgamento da ADI 3.395, esta CORTE reconheceu que ‘a interpretação adequadamente constitucional da expressão relação do trabalho deve excluir os vínculos de natureza jurídico-estatutária, em razão do que a competência da Justiça do Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores’ (Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 15/4/2020). 2. A presente hipótese envolve relação jurídica travada entre a Administração Pública e servidor público submetido ao Regime Jurídico Único dos Servidores Públicos Federais - Lei 8.112/90 - o que, evidentemente, afasta a competência da Justiça Trabalhista, por envolver vínculo administrativo, ou seja, não regido pelo direito do trabalho. 3. Dessa forma, não cabe à Justiça Especializada, como ocorreu no presente caso, apreciar a regularidade do vínculo firmado entre o servidor e o Poder Público. No mesmo sentido, registram-se os seguintes casos ajuizados pela FUNASA: Rcl 42.935, de minha relatoria, DJe de 2/9/2020; Rcl 44.184, Rel. Min. GILMAR MENDES, DJe de 22/11/2020; Rcl 40.860, Rel. Min. CÁRMEN LÚCIA, DJe de 27/5/2020; Rcl 40.442, Rel. Min. ROBERTO BARROSO, DJe de 8/10/2020; Rcl 41.024, Rel. Min. GILMAR MENDES, DJe de 9/11/2020; Rcl 40.972, Rel. Min. CELSO DE MELLO, DJe de 19/8/2020; e Rcl 43.383, Rel. Min. RICARDO LEWANDOWSKI, DJe de 19/11/2020. 4. Recurso de agravo a que se dá provimento”. (Rcl 44025 AgR, Rel. Min. EDSON FACHIN, Rel. p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, DJe 24.5.2021)
+
+    “SEGUNDO AGRAVO INTERNO NA RECLAMAÇÃO. CONSTITUCIONAL. SERVIDOR TEMPORÁRIO CELETISTA. LEI 6.686/2008 DO MUNICÍPIO DE SÃO LEOPOLDO. COMPETÊNCIA. ALEGAÇÃO DE OFENSA AO QUE DECIDIDO PELO PLENÁRIO DA CORTE NA ADI 3.395. OCORRÊNCIA. VÍNCULO JURÍDICO-ADMINISTRATIVO. COMPETÊNCIA DA JUSTIÇA COMUM PARA ANÁLISE ACERCA DA VALIDADE DO CONTRATO, QUAISQUER QUE SEJAM AS VERBAS PLEITEADAS. AGRAVO A QUE SE NEGA PROVIMENTO”. (Rcl 56307 AgR-segundo, Rel. Min. LUIZ FUX, Primeira Turma, DJe 27.6.2023)
+
+    “Agravo regimental na reclamação. Administrativo e Processual Civil. Dissídio entre servidor e o poder público. ADI nº 3.395/DF-MC. Cabimento da reclamação. Incompetência da Justiça do Trabalho. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade das decisões deste Tribunal (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). Não se reveste de caráter primário ou se transforma em sucedâneo recursal quando é utilizada para confrontar decisões de juízos e tribunais que afrontam o conteúdo do acórdão do STF na ADI nº 3.395/DF-MC. 2. Compete à Justiça comum pronunciar-se sobre a existência, a validade e a eficácia das relações entre servidores e o poder público fundadas em vínculo jurídico-administrativo. O problema relativo à publicação da lei local que institui o regime jurídico único dos servidores públicos ultrapassa os limites objetivos da espécie sob exame. 3. Não descaracteriza a competência da Justiça comum, em tais dissídios, o fato de se requererem verbas rescisórias, FGTS e outros encargos de natureza símile, dada a prevalência da questão de fundo, que diz respeito à própria natureza da relação jurídico-administrativa, ainda que desvirtuada ou submetida a vícios de origem. 4. Agravo regimental não provido”. (Rcl 7.857 AgR, rel. Min. Dias Toffoli, Tribunal Pleno, DJe 1º.3.2013)
+
+    Na hipótese versada nos autos, observa-se que o ato reclamado confirmou o reconhecimento da competência da Justiça do Trabalho para julgar a reclamação trabalhista originária, na qual se pleiteiam verbas trabalhistas decorrentes de suposta inconstitucionalidade da transmudação do regime celetista para o regime estatutário. Nesse sentido, transcrevo trecho do referido julgado:
+
+    “Como se observa da decisão agravada, o acórdão recorrido adotou a tese de competência material da Justiça do Trabalho para julgar pretensão a verbas trabalhistas de empregado admitido sob o regime celetista, sem submissão a concurso público, em que não houve a transmudação automática de regime jurídico, conforme o art. 19 da ADCT, diante de contratação em período inferior a cinco anos anteriores à CF/88.
+
+    O Supremo Tribunal Federal, no exame do Tema 853 (ARE 906491), fixou tese no sentido de que ‘Compete à Justiça do Trabalho processar e julgar demandas visando a obter prestações de natureza trabalhista, ajuizadas contra órgãos da Administração Pública por servidores que ingressaram em seus quadros, sem concurso público, antes do advento da CF/88, sob regime da Consolidação das Leis do Trabalho - CLT.’
+
+     Concluiu a Suprema Corte, no referido julgamento, que, sendo incontroverso o ingresso da parte reclamante no serviço público sem prévia realização de concurso público, ‘hipótese em que é incabível a transmudação do regime celetista para o estatutário’, o advento do regime jurídico único no âmbito do estado reclamado ‘não foi hábil a alterar a natureza celetista do vínculo da reclamante com o poder público’. Consignou, assim, que ‘é de se reconhecer a competência da Justiça do Trabalho para processar e julgar a reclamação trabalhista’, afastando as alegações da recorrente de prescrição da pretensão autoral, invocadas com fundamento na suposta transmudação - como marco para a contagem do prazo - não reconhecida.
+
+    A conformidade com o referido precedente qualificado da Suprema Corte afasta as violações constitucionais e de contrariedade a dispositivos sumulares indicadas pela parte agravante, per se.
+
+    Ressalte-se que o acórdão recorrido, ao consignar pela competência da Justiça do Trabalho para apreciação do pleito da parte reclamante, empregado não estabilizado, admitido aos quadros de órgão da Administração Pública sob o regime celetista em período inferior a cinco anos anteriores à CF/88, sem submissão a concurso público, não contraria a tese fixada no Tema 928, haja vista a ausência de transposição de regime, estando em conformidade com a tese de repercussão geral fixada no Tema 853.
+
+    Nesse cenário, a parte agravante não apresenta argumentos suficientes a desconstituir os fundamentos da decisão agravada, que deve ser mantida.
+
+    (...)
+
+    Ante o exposto, nego provimento ao agravo e condeno a parte agravante ao pagamento da multa do artigo 1.021, §4º, do CPC, no importe de 3% do valor da causa, atualizado monetariamente.” (eDOC 10, ID: 431732c1; grifos nossos)
+
+    Sobre a questão, destaque-se o seguinte trecho da petição inicial da ação judicial proposta na origem, em que se constata que as verbas trabalhistas requeridas pela parte beneficiária decorreriam de suposta inconstitucionalidade/ilegalidade da transmudação de regime:
+
+    ““(...)
+
+    O Reclamante pede a declaração de inconstitucionalidade da transposição automática do regime celetista para o estatutário, a qual ocorreu nos termos do art. 243 da Lei 8112/90. Esta transmutação encontra óbice no art. 37, II, da CF/88, que passou a vedar o ingresso no serviço público sem concurso. Em consequência disso, pertencendo de fato ao regime celetista desde seu ingresso no serviço público, pede a condenação dos Reclamados ao pagamento do FGTS desde dezembro de 1990, época da transmutação inconstitucional e da cessação do pagamento do FGTS.
+
+    (...)
+
+    3 - DA OBRIGAÇÃO DO PAGAMENTO DO FGTS:
+
+    O eg. TST tem farta jurisprudência no sentido de que a mudança do regime da CLT para o regime estatutário não é automática. Para os servidores contratados antes do advento da CF/88, a transmutação para o regime estatutário não é automática.
+
+    (...)
+
+    Assim, apesar de estável no serviço público, estabilidade esta que adveio do art. 19 do ADCT da CF/88, o regime aplicado ao Reclamante é o regime da CLT, e, portanto, são devidos a ele o FUNDO DE GARANTIA DO TEMPO DE SERVIÇO (FGTS) desde a época em que lhe foi imposto o regime estatutário (em 12.12.1990, conforme CTPS anexa).
+
+    (...)
+
+    5 - A DECLARAÇÃO DE INCONSTITUCIONALIDADE DA TRANSMUTAÇÃO AUTOMÁTICA PARA O REGIME ESTATUTÁRIO:
+
+    A Lei Complementar 276 do Estado do Rio Grande do Sul havia determinado a transposição de forma automática dos servidores regidos pela CLT para o regime estatutário. Estes cargos foram transformados em cargos de provimento efetivo, em classe inicial, em número certo, operando-se automaticamente a transposição dos seus ocupantes.
+
+    Mas instado a se manifestar sobre o tema, o eg. STF, na ADI 1150/RS, em sede de controle abstrato concentrado de constitucionalidade, declarou a inconstitucionalidade da expressão: ‘operando-se automaticamente a transposição de seus ocupantes.’
+
+    Assim, está pacificado na Corte Suprema que a transmutação automática do regime celetista para o regime estatutário é inconstitucional para aqueles servidores contratados, sem concurso público, antes do advento da CF/88, senão veja:
+
+    (...)
+
+    6- A PRESCRIÇÃO DO PAGAMENTO DOS VALORES DO FGTS:
+
+    (...)
+
+    Desta feita, não havendo que se falar em prescrição, resta a condenação dos Reclamados a pagar o FGTS, sobre todas as verbas de natureza salariais, em favor do Reclamante, desde 12.12.1990, data esta em que ocorreu a transmutara ilegal para o regime estatutário.
+
+    (...)
+
+    8 - DOS PEDIDOS:
+
+    (...)
+
+    d) A condenação dos Reclamados, de forma solidária, a pagar em favor do Reclamante os valores relativos ao FGTS, com previsão na Lei 8.036 de 11 de maio de 1990, sobre todas as verbas salariais, retroativamente desde 12.12.1990, no valor de R$ 192.600,58, que será corrigido na fase de execução (...).” (eDOC 3, ID: 9fe74097)
+
+    Desse modo, verifica-se que a justiça trabalhista, ao firmar sua competência para julgamento de causa em que se discute a validade e a eficácia das relações entre servidores e o Poder Público, fundadas em vínculo jurídico administrativo, viola o entendimento firmado por esta Corte no julgamento da ADI 3395.
+
+    No mesmo sentido, confira-se a decisão monocrática proferida pelo Ministro Alexandre de Moraes na Rcl 71.937, DJe 25.9.2024.
+
+    Ante o exposto, julgo procedente esta reclamação a fim de reconhecer a incompetência da Justiça do Trabalho para julgamento do Processo 0010810-71.2017.5.03.0085, determinando a remessa imediata daqueles autos à Justiça Comum.
+
+    Comunique-se. Publique-se.
+
+    Brasília, 10 de setembro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
