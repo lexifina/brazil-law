@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, conhecer parcialmente do habeas corpus e, nessa parte, denegar a ordem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA ARMADA. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. RECEPTAÇÃO. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. SENTENÇA CONDENATÓRIA ANULADA PELO TRIBUNAL A QUO. EXPEDIÇÃO DE GUIA DE RECOLHIMENTO PROVISÓRIA. TESE NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. EXCESSO DE PRAZO DA CUSTÓDIA CAUTELAR. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO FEITO DE FORMA REGULAR. COMPLEXIDADE DO CASO. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WESLEY JEAN DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que deu provimento à Apelação n. 0002152-19.2016.4.03.6118 (fls. 16/40).
+Narram os autos que o paciente foi preso preventivamente, em 19/8/2019, e condenado às penas de 30 anos e 6 meses de reclusão, 2 anos de detenção, e 133 dias-multa, pela suposta prática dos crimes de furto qualificado, explosão, associação criminosa armada, adulteração de sinal identificador de veículo, posse de arma de fogo com sinal de identificação suprimido, posse de artefato explosivo, posse de dois cartuchos de calibre .12 e receptação (fls. 66/88 e 89/91 - Processo n. 0002152-19.2016.4.03.6118 da 1ª Vara Federal de Guaratinguetá/SP).
+Interposta apelação, foi dado provimento ao recurso da defesa de Wesley Jean da Silva para declarar a nulidade da sentença que acolheu os embargos de declaração da acusação (id. 261536269), com o restabelecimento da sentença condenatória anterior (261536259) e, por consequência, determino o retorno do processo ao juízo federal origem para que novo julgamento seja proferido após regular intimação defesa para, querendo, apresentar contrarrazões (fl. 39)
+Neste mandamus, o impetrante sustenta a existência de excesso de prazo na custódia, pois o paciente está preso há quase 6 anos, sem providência de expedição de guia de recolhimento provisória, após a anulação da sentença pelo acórdão da apelação, para que pudesse ser favorecido dos benefícios da execução.
+Requer o relaxamento da prisão preventiva.
+Este processo foi distribuído por prevenção de Turma.
+Indeferida por mim a liminar em 9/6/2025 (fls. 105/106).
+Após as informações de fls. 111/116, o Ministério Público Federal opinou pelo não conhecimento do writ, ou pela denegação da ordem (fls. 118/120).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA ARMADA. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. RECEPTAÇÃO. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. SENTENÇA CONDENATÓRIA ANULADA PELO TRIBUNAL A QUO. EXPEDIÇÃO DE GUIA DE RECOLHIMENTO PROVISÓRIA. TESE NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. EXCESSO DE PRAZO DA CUSTÓDIA CAUTELAR. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. IMPULSIONAMENTO DO FEITO DE FORMA REGULAR. COMPLEXIDADE DO CASO. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+VOTO
+De início, conforme se depreende do acórdão impugnado, observo que a questão da expedição da guia de recolhimento provisória nem sequer foi debatida pela Corte estadual, de forma que o exame das matérias por este Superior Tribunal configuraria indevida supressão de instância.
+Quanto ao alegado excesso de prazo, não verifiquei constrangimento ilegal apto à concessão da ordem.
+Com efeito, a prisão cautelar não possui prazo determinado por lei, devendo sua manutenção obedecer a critérios fático-processuais de cada caso, não se aplicando um critério matemático para reconhecimento de ilegalidade por excesso de prazo (AgRg no RHC n. 204.509/BA, Ministro Og Fernandes, Sexta Turma, DJEN 18/2/2025).
+Na espécie, embora o tempo transcorrido da ação penal e a nulidade da sentença que acolheu os embargos de declaração da acusação, que, por consequência, gera uma delonga maior no trâmite processual, não há situação incompatível com o princípio da razoável duração do processo. Não há notícia de ato procrastinatório por parte das autoridades públicas, não está demonstrada a desídia Estatal, e trata-se de feito complexo, que apurou vários crimes, demandou inúmeras diligências e tramitou de forma regular. Além disso, consta das informações que os autos estão aguardando a remessa para origem (fl. 115).
+Não é outra a opinião do Ministério Público Federal, em seu parecer, da lavra do Subprocurador-Geral da República Paulo Eduardo Bueno, ao ressaltar que (fls. 119/120):
+ ..
+Nota-se que a tramitação, embora não seja rápida, apresenta intercorrências que afastam a caracterização de mera inércia estatal. Isso inclui a complexidade do caso (múltiplos réus e crimes de alta gravidade), diligências para provas emprestadas, o aditamento da denúncia que exigiu nova instrução (decorrente de decisão do TRF em processo de corréu e visando à adequação da imputação e ampla defesa), e a interposição de recursos e embargos pelas partes.
+Assim, a anulação da sentença por violação do contraditório, embora postergue a conclusão definitiva do feito, visa corrigir um vício processual em favor do próprio réu. O acórdão buscou sanar uma nulidade crucial, e a consequência de uma "nova fase processual" é a regularização do trâmite para que a decisão final seja proferida de forma hígida, garantindo-se ao réu o direito de se manifestar.
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar a concessão da ordem neste momento.
+Ante o exposto, conheço parcialmente do writ e, nessa extensão, denego a ordem.
