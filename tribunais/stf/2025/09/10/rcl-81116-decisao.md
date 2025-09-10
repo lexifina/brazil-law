@@ -1,0 +1,83 @@
+Trata-se de reclamação, com pedido de liminar, proposta pela Fundação Hospitalar do Estado de Minas Gerais (FHEMIG), contra decisão de Turma Recursal no Processo 5010239-41.2024.8.13.0699, por afirmado desrespeito ao decidido por esta Suprema Corte na ADI 7.222 MC-Ref-segundo-ED-terceiros/DF.
+
+    A reclamante sustenta, em síntese, que a decisão reclamada aplicou equivocadamente o entendimento firmado no julgamento do referido paradigma.
+
+    Argumenta a reclamante:
+
+    Trata-se de ação ordinária em que a parte autora pleiteia a inclusão do complemento do piso nacional da Enfermagem na base de cálculo das gratificações e vantagens que têm como base de cálculo o vencimento básico. Requer, ainda, o pagamento dos valores retroativos decorrentes da inclusão acima mencionada.
+
+    A parte autora afirma ser Profissional de Enfermagem efetiva da Fundação Hospitalar do Estado de Minas Gerais – FHEMIG, autarquia estadual, recebendo o complemento do piso nacional, nos termos da Lei nº 14.434/2022.
+
+    A requerente acrescenta que o valor do complemento do piso salarial não está sendo incluído na base de cálculo das gratificações e vantagens que têm o salário base como referência para o cálculo dos valores devidos.
+
+    O magistrado de 1ª instância julgou procedentes os pedidos iniciais para “condenar o requerido a incluir o complemento do piso salarial na base de cálculos das gratificações e adicionais, que sejam calculados com base no vencimento básico da servidora. Condeno o requerido no pagamento de R$2.319,71 (dois mil trezentos e dezenove reais e setenta e um centavos).”
+
+    Interposto Recurso Inominado, a Turma Recursal confirmou a sentença sem examinar os argumentos do requerido, sob os seguintes fundamentos:
+
+    [...]
+
+    Assim, tendo em vista que a decisão da E. Turma Recursal vai de encontro com a jurisprudência vinculante desse C. STF, fixada na ADI 7222, a FHEMIG faz uso da presente Reclamação constitucional para garantir a autoridade e observância de tal decisão.
+
+    [...]
+
+    Há evidente conflito entre a decisão reclamada e o comando vinculante exarado por esse C. STF. De um lado, o C. STF dispõe que o piso corresponde à soma de parcelas, de outro a decisão reclamada impõe a adoção única do vencimento básico. De um lado, o C. STF dispõe que em relação aos servidores públicos dos Estados, a implementação da diferença resultante do piso salarial nacional deve se dar em toda a extensão coberta pelos recursos provenientes da assistência financeira da União, de outro a decisão reclamada impõe a inclusão deste Complemento, pago pela União, na base de cálculo das gratificações e vantagens que têm como base de cálculo o vencimento básico, estes pagos pelo Estado e, portanto, dispostos em legislação estadual.
+
+    Ao possibilitar a inclusão do Complemento do Piso Salarial na base de cálculo das gratificações e vantagens que têm como base de cálculo o vencimento básico, a Turma Recursal incidiu em conduta censurável pela via da Reclamação, por contrariar expressamente a ADI 7222, em especial na parte que desconsiderou que este complemento é resultado de recursos da União, enquanto as gratificações e vantagens que têm como base de cálculo o vencimento básico são pagos com orçamento do Estado (documento 1).
+
+    As informações foram devidamente prestadas (documento 12).
+
+    Após ser regularmente citada, a beneficiária da decisão impugnada permaneceu inerte (documento 15).
+
+    A Procuradoria-Geral da República opinou pela improcedência da reclamação (documento 17).
+
+    É o relatório. Decido.
+
+    A reclamação é procedente, pois a decisão reclamada descumpriu a orientação de precedente vinculante do Supremo Tribunal Federal, como será explicitado.
+
+    Transcrevo trecho da decisão reclamada:
+
+    Trata-se de recurso inominado interposto pela Fundação Hospitalar do Estado de Minas Gerais – FHEMIG, em razão da sentença de id 503350650, que julgou procedentes os pedidos formulados na petição inicial, para condenar o recorrente a incluir o complemento do piso salarial na base de cálculos das gratificações e adicionais, que sejam calculados com base no vencimento básico da servidora e a pagar à requerente o importe de R$2.319,71.
+
+    Em sede recursal (id 503350650), o recorrente sustenta que o piso salarial de enfermagem foi submetido à análise do Supremo Tribunal Federal, no âmbito da ADI 7222, que definiu que o piso salarial se refere à remuneração global, não apenas ao vencimento base, correspondendo ao valor mínimo a ser pago de acordo com a jornada de trabalho estabelecida, não sendo possível sua inclusão na base de cálculo de adicional temporal, tese que não foi observada pelo Juízo a quo.
+
+    [...]
+
+    Analisando os autos, não vislumbro qualquer reparo a ser efetuado na sentença, tendo em vista que bem apreciou a questão posta em juízo, tudo nos termos da legislação e das provas apresentadas, não existindo motivos para sua modificação.
+
+    Conforme destacado em sentença, a recorrida percebe o complemento do piso salarial nacional da enfermagem desde novembro de 2023 e, havendo aumento do salário base, como ocorreu com a fixação legal do piso, há também um incremento nos reflexos sobre essas verbas que utilizam o vencimento básico como parâmetro para o cálculo.
+
+    Logo, a sentença deve confirmada pelos próprios fundamentos, [...] (documento 4 – grifei).
+
+    Neste caso, conforme relatado, alega-se ter ocorrido ofensa à decisão proferida pelo Supremo Tribunal Federal no julgamento da ADI 7.222 MC-Ref-segundo-ED-terceiros/DF, assim ementada:
+
+    Embargos de declaração em referendo de medida cautelar parcialmente revogada em ação direta de inconstitucionalidade. Lei nº 14.434/22. Piso salarial nacional dos profissionais de enfermagem. Profissionais celetistas. Necessidade de negociação coletiva nas diferentes bases territoriais e respectivas datas-base. Instauração de dissídio coletivo caso frustrada a negociação. Alcance da expressão “piso salarial”. Remuneração global. Correção de erro material na ementa do acórdão embargado. Embargos dos amicus curiae rejeitados. Embargos do Senado Federal, da CNSaúde e da Advocacia-Geral da União parcialmente acolhidos com efeitos modificativos. 1. Entidades que figuram no processo como amici curiae não têm legitimidade para a interposição de recursos contra as decisões proferidas no controle concentrado de constitucionalidade, conforme jurisprudência sedimentada da Suprema Corte. Precedentes: ADI nº 4.389-ED-AgR, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe de 18/9/19; ADI nº 3.785 ED, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe de 6/11/19; ADO nº 6-ED, Rel. Min. Edson Fachin, DJe de 5/9/16. 2. A Constituição de 1988, ao prever o direito ao piso salarial proporcional à extensão e à complexidade do trabalho (art. 7º, inciso V), não estabeleceu que ele fosse nacional e unificado, como o fez em relação ao salário mínimo (art. 7º, inciso V, da CF/88). Tampouco previu o texto constitucional que o piso fosse estabelecido por lei. Na ausência de tais condicionantes, resta legítima sua fixação por negociação coletiva e de forma regionalizada. 3. Consolidou-se um sistema no qual as negociações acerca de pisos salariais ocorrem de forma descentralizada e regionalizada, a partir do que dispõe a Lei Complementar nº 103/20, o que não é somente legítimo, mas necessário. As unidades federativas apresentam realidades bastantes díspares quanto às médias salariais dos empregados do setor de enfermagem, sendo também diversas a estrutura, a dimensão e a solidez da rede de saúde privada, o que atrai a necessidade de definição regional dos pisos salariais da categoria, em cada base territorial, seguindo-se as respectivas datas-base. 4. O acórdão embargado fixou que, na ausência de acordo entre as categorias acerca do piso salarial, sua implementação deveria ocorrer na forma da Lei nº 14.434/22. No entanto, nessa hipótese, não há negociação efetiva entre as partes. Há que se buscar condições que permitam que os sindicatos laborais e patronais efetivamente se reúnam para verificar a possibilidade de adoção de pisos salariais diversos dos definidos em lei. A solução que melhor se apresenta é a determinação de instauração de dissídio coletivo (art. 616, § 3º, da CLT) como instrumento viabilizador da tão almejada negociação coletiva, em alternativa ao imposto na Lei nº 14.434/22, respeitando-se as bases territoriais e respectivas datas-base. 5. O piso salarial se refere à remuneração global, e não ao vencimento-base, correspondendo ao valor mínimo a ser pago em função da jornada de trabalho completa (art. 7º, inciso XIII, da CF/88),podendo a remuneração ser reduzida proporcionalmente no caso de carga horária inferior a 8 (oito) horas por dia ou 44 (quarenta e quatro) horas semanais. 6. Embargos de declaração do Senado Federal, da CNSaúde e da Advocacia-Geral da União parcialmente acolhidos, com efeitos modificativos, para 1) alterar o item (iii) e acrescentar o item (iv) ao acórdão embargado, nos seguintes termos: (iii) em relação aos profissionais celetistas em geral (art. 15-A da Lei nº 7.498/1986), a implementação do piso salarial deve ocorrer de forma regionalizada, mediante negociação coletiva realizada nas diferentes bases territoriais e nas respectivas datas-base, devendo prevalecer o negociado sobre o legislado, tendo em vista a preocupação com eventuais demissões e o caráter essencial do serviço de saúde. Sendo frustrada a negociação coletiva, caberá dissídio coletivo, de comum acordo (art. 114, § 2º, da CF/88) ou, independentemente desse, em caso de paralisação momentânea dos serviços promovida por qualquer das partes (art. 114, § 3º, da CF/88). A composição do conflito pelos tribunais do trabalho será pautada pela primazia da manutenção dos empregos e da qualidade no atendimento de pacientes, respeitada a realidade econômica de cada região; e (iv) o piso salarial se refere à remuneração global, e não ao vencimento-base, correspondendo ao valor mínimo a ser pago em função da jornada de trabalho completa (art. 7º, inciso XIII, da CF/88), podendo a remuneração ser reduzida proporcionalmente no caso de carga horária inferior a 8 (oito) horas por dia ou 44 (quarenta e quatro) horas semanais; 2) sanar o erro material constante do acórdão embargado relativamente aos itens 4 e 5 da ementa do voto conjunto lançado na sessão virtual de 16 a 23/6/23; e 3) julgar prejudicada a análise da questão de ordem suscitada pela Confederação Nacional da Saúde, Hospitais e Estabelecimentos e Serviços (CNSaúde). (ADI 7.222 MC-Ref-segundo-ED-terceiros/DF, Rel. p/ acórdão Min. Dias Toffoli, Tribunal Pleno, DJe 25/3/2024 – grifei).
+
+    No paradigma invocado, o Supremo Tribunal Federal reconheceu que o piso salarial dos profissionais de enfermagem se refere à remuneração global, e não ao vencimento-base, correspondendo ao valor mínimo a ser pago em função da jornada de trabalho completa.
+
+    Dessa forma, o ato reclamado, ao determinar a inclusão do complemento do piso salarial na base de cálculo das gratificações e adicionais que sejam calculados com base no vencimento básico da servidora pública, violou frontalmente o precedente vinculante relativo a esta reclamação, pois isso equivaleu a converter o piso salarial dos profissionais de enfermagem em verdadeiro vencimento básico.
+
+    Nesse sentido, transcrevo trecho de decisão proferida em caso semelhante:
+
+    A tese firmada pelo Supremo nos ED-ADI 7.222 deixa claro que o piso nacional da enfermagem corresponde à remuneração global do servidor, alcançada pela soma de todas as parcelas já existentes. O complemento criado pela FHEMIG tem, portanto, finalidade meramente supletiva: serve para preencher a eventual diferença entre a remuneração total efetivamente paga e o valor mínimo definido em lei.
+
+    O acórdão reclamado, ao afirmar que a complementação “possui natureza de acréscimo ao vencimento básico e deve integrar a base de cálculo das vantagens”, requalifica a verba supletiva em verdadeiro vencimento-base. Esse enquadramento ignora o critério definido na ADI e, na prática, converte o piso – pensado como “patamar mínimo” – em nova referência para sucessivos multiplicadores (quinquênios, adicional noturno, insalubridade etc.), produzindo remuneração final superior ao próprio piso.
+
+    A decisão do STF buscou impedir que a complementação gerasse um efeito cascata sobre demais rubricas, pois isso contrariaria o objetivo de garantir um mínimo nacional (Rcl 80.578/MG, Rel. Min. Flávio Dino, DJe 25/6/2025).
+
+    Confira-se também o seguinte julgado: Rcl 83.241/MG, Rel. Min. Dias Toffoli, DJe 28/8/2025.
+
+    Ante o exposto, com fundamento no art. 992 do CPC e no art. 161, parágrafo único, do RISTF, julgo procedente o pedido para cassar a decisão reclamada e determinar que outra seja proferida, com a efetiva observância ao entendimento firmado no julgamento da ADI 7.222 MC-Ref-segundo-ED-terceiros/DF.
+
+    Sem condenação em honorários, pois não foi apresentada contestação.
+
+    Atribua-se a esta decisão força de mandado/ofício.
+
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão à Turma Recursal reclamada.
+
+    Publique-se.
+
+    Brasília, 10 de setembro de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
