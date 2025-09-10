@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por GABRIEL SANTOS LOPES DA SILVA e RENATA DUTRA IGNACIO LOPES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 33):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE INDEFERIU O DESBLOQUEIO DOS VALORES CONTIDOS EM CONTAS BANCÁRIAS DOS EXECUTADOS. AGRAVADOS QUE NÃO COMPROVARAM QUE OS VALORES BLOQUEADOS SERIAM VERBAS ALIMENTARES. EXISTÊNCIA DE OUTRAS CONTAS, DE TITULARIDADE DOS EXECUTADOS. IMPENHORABILIDADE NÃO CONFIGURADA. MANUTENÇÃO DA DECISÃO. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação do art. 833, IV e X, do CPC.
+Sustenta, em síntese, a impenhorabilidade de verbas alimentares e de valores inferiores a 40 salários mínimos.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fl. 61).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 63-65), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo, conforme certificado à fl. 89.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia à impenhorabilidade dos valores bloqueados nas contas bancárias dos recorrentes, com fundamento no art. 833, IV e X, do CPC. Os recorrentes alegam que os valores bloqueados (R$ 85,10 e R$ 113,89) possuem caráter alimentar, pois são provenientes de suas atividades laborais autônomas (maquiadora e estampador), e que, por serem inferiores a 40 salários mínimos, são presumidamente impenhoráveis.
+O Tribunal de origem manteve a decisão de indeferir o desbloqueio dos valores, fundamentando o acórdão nos seguintes termos (fl. 35):
+Todavia, não há como reconhecer a alegada impenhorabilidade.
+Os agravantes não comprovaram que o valor bloqueado, seria impenhorável para a satisfação de crédito cobrado na presente execução, não demonstrando que a verba seria alimentar. Como se observa dos autos principais, os agravantes juntam os extratos de apenas um único banco para cada um, sendo que na busca pelas contas e valores disponíveis, através do SisBajud (índex 147) aparecem outras contas de titularidade dos agravantes, em outras instituições bancárias.
+Ademais, os extratos colacionados aos autos, observa-se que valor executado atualizado seria de R$ 37.873,78, tendo sido bloqueadas as quantias de R$ 85,10 e R$ 113,89, valores estes distantes do valor devido e que não colocam em risco a sobrevivência dos executados.
+Com efeito, nos termos da jurisprudência do STJ, é impenhorável a quantia de até 40 (quarenta) salários mínimos poupada, seja ela mantida em papel-moeda, em conta-corrente, aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, ressalvado eventual abuso de direito, má-fé ou fraude, a ser verificado caso a caso.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. 1. PENHORA DE SALÁRIO. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. VIOLAÇÃO AO ART. 833 DO CPC/2015. NÃO OCORRÊNCIA. 2. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte Superior entende que é impenhorável a quantia de até 40 (quarenta) salários mínimos poupada, seja ela mantida em papel-moeda, em conta-corrente, aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento. Precedente.
+2. Agravo interno improvido.
+(AgInt no REsp n. 1.991.091/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NATUREZA DA VERBA CONSTRITA. LIMITE DE IMPENHORABILIDADE DE 40 (QUARENTA) SALÁRIOS MÍNIMOS. DECISÃO MANTIDA.
+1. O STJ possui jurisprudência no sentido de que "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014).
+2. Nos termos do entendimento jurisprudencial firmado por esta Corte, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias locais, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade. Desta forma, estando a decisão recorrida em dissonância com o entendimento jurisprudencial firmado por esta Corte acerca da extensão da regra prevista no art. 833, X, do CPC/2015, deve ser mantida a decisão agravada, que deu provimento ao recurso especial para determinar a impenhorabilidade dos valores depositados na conta-corrente da parte recorrida, até o limite de quarenta salários mínimos.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.915.851/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+No caso dos autos, o Tribunal de origem consignou que os recorrentes não demonstraram que a verba bloqueada seria alimentar e, ainda, "os agravantes juntam os extratos de apenas um único banco para cada um, sendo que na busca pelas contas e valores disponíveis, através do SisBajud (índex 147) aparecem outras contas de titularidade dos agravantes, em outras instituições bancárias" (fl. 35).
+Diante do exposto, verifica-se que o Tribunal a quo, ao deferir a penhora dos valores inferiores a 40 salários mínimos, o fez apenas com fundamento na ausência de comprovação de que o numerário bloqueado seria destinado ao sustento da família e existência de outras contas de titularidade dos recorrentes em outras instituições bancárias, sem que fosse comprovado eventual abuso de direito, má-fé ou fraude.
+Com isso, o acórdão deve ser reformado, pois está em confronto com a jurisprudência do STJ.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, para determinar a liberação do valor inferior a 40 salários mínimos bloqueado nas contas-correntes, poupança ou aplicação financeira dos recorrentes, ressalvada, ser for o caso, eventual comprovação de abuso de direito, má-fé ou fraude, a ser realizada no Juízo de origem.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
