@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de RAFAELLA DE OLIVEIRA REIS em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO DE EXECUÇÃO PENAL. PROGRESSÃO AO REGIME ABERTO. MANUTENÇÃO DO MONITORAMENTO ELETRÔNICO. LEGALIDADE. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+1. Agravo de execução penal interposto pela Defesa contra decisão que concedeu progressão ao regime aberto, mantendo a fiscalização por monitoramento eletrônico.
+II. QUESTÃO EM DISCUSSÃO:
+1. A questão em discussão consiste na legalidade da manutenção do monitoramento eletrônico após a progressão ao regime aberto.
+III. RAZÕES DE DECIDIR:
+1. A fiscalização mediante monitoramento eletrônico é compatível com o regime aberto. Precedentes.
+2. A manutenção do recolhimento noturno e das demais condições não se mostra desproporcional ou ilegal, pois estão de acordo com os horários de trabalho da agravante e são adequadas ao regime fixado. Apesar de a apenada ter passado por internamento hospitalar, consta que já recebeu alta, não tendo ficada comprovada a impossibilidade ou incompatibilidade da utilização do aparelho de monitoramento eletrônico com eventual problema de saúde remanescente. Ainda, eventuais deslocamentos para consultas e exames podem ser requeridos previamente ao Juízo da Execução.
+IV. DISPOSITIVO E TESE:
+1. Agravo de execução penal desprovido.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a imposição da monitoração eletrônica foi realizada de forma automática, sem fundamentação concreta e individualizada, em afronta ao art. 146-B, IV, da Lei de Execução Penal, que prevê o caráter facultativo da medida.
+Alega que a decisão impugnada desconsiderou o princípio da individualização da pena, previsto no art. 5º, XLVI, da Constituição Federal, ao aplicar a monitoração eletrônica de forma padronizada, sem considerar as condições pessoais da paciente, que é primária, possui bons antecedentes e não registra histórico de evasão ou descumprimento de condições.
+Argumenta que a manutenção da monitoração eletrônica configura indevido agravamento da execução penal, pois transforma o regime aberto em modalidade mais gravosa do que a prevista em lei, em violação ao princípio da legalidade penal, insculpido no art. 5º, II, da Constituição Federal.
+Expõe que a medida é desproporcional frente ao estado de saúde da paciente, que se encontra em recuperação clínica delicada após internação em UTI e estado de coma, necessitando de acompanhamento médico contínuo, o que torna o uso da tornozeleira um ônus desnecessário e desumano, em afronta aos princípios da dignidade da pessoa humana e da proporcionalidade.
+Requer, em suma, o afastamento da determinação do uso de tornozeleira eletrônica.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas :
+2. Inicialmente, cumpre referir que o cumprimento da pena privativa de liberdade no regime aberto dá-se em casa de albergado, nos termos do artigo 93 da LEP. Por sua vez, o cumprimento da pena no domicílio do agravante, com determinação de recolhimento noturno e em domingos e feriados, por exemplo, autoriza, em princípio, o monitoramento eletrônico. Isto porque, ao contrário do que ocorre com os presos que retornam ao final do dia - ou em finais de semana - para a casa do albergado, não é possível fazer um controle diário in loco do retorno para os domicílios daqueles que cumprem o regime aberto em suas residências, razão pela qual necessário o uso da tornozeleira. Dessa forma, não há que se falar em desnecessidade ou em desproporcionalidade da medida.
+ ..
+Ademais, sendo forma de fiscalização, cabe ao juízo da execução decidir sobre a adequação da imposição do uso da tornozeleira ao caso concreto, não estando na esfera de disponibilidade do apenado a escolha acerca do método de controle para cumprimento das condições do regime aplicado.
+ ..
+Não há óbice, portanto, a que seja mantido o monitoramento eletrônico como forma de fiscalização das condições do regime aberto.
+Vale relembrar que, a rigor, o regime aberto deveria consistir em recolhimento noturno em Casa de Albergado, o que, certamente, seria muito mais penoso à agravante do que a possibilidade que lhe foi concedida de permanecer em sua casa.
+O cumprimento da pena em regime mais benéfico, portanto, não autoriza o afastamento dos meios de fiscalização próprios e adequados ao regime em que será inserido a apenada.
+Cabe destacar que é previsão expressa do art. 36, §1º do CP que, no regime aberto, o condenado deverá, fora do estabelecimento e sem vigilância, trabalhar, frequentar curso ou exercer outra atividade autorizada, permanecendo recolhido durante o período noturno e nos dias de folga.
+No caso, conforme consta dos autos, a apenada trabalha como vendedora, de segunda a sábado, das 10h00 às 18h00 (mov. 100 SEEU 9000870-49.2024.4.04.7000).
+Assim, não se mostra desproporcional ou em desacordo com a lei a manutenção do recolhimento de entre 20h e 7h do dia seguinte, de segunda a sábado, e nem das demais condições, que estão de acordo com o regime aberto.
+Apesar de a apenada ter passado por internamento hospitalar, consta que recebeu alta em 13/06/2025 (mov. 154.2 - fl. 6, SEEU), não tendo ficada comprovada a impossibilidade ou incompatibilidade da utilização do aparelho de monitoramento eletrônico com eventual problema de saúde remanescente. (fls. 11-14).
+Esse entendimento está de acordo com a jurisprudência firmada nesta Corte de que é razoável o uso de tornozeleira eletrônica quando a prisão domiciliar é concedida para o resgate da pena considerando a ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão.
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DA PENA EM REGIME SEMIABERTO. AUSÊNCIA DE VAGAS. PRISÃO DOMICILIAR COM MONITORAÇÃO ELETRÔNICA. FLEXIBILIZAÇÃO DO EQUIPAMENTO ELETRÔNICO. NÃO CABIMENTO.
+1. A jurisprudência desta Corte Superior se consolidou no sentido de que, nas hipóteses em que o reeducando não puder cumprir a pena em estabelecimento adequado ao regime semiaberto, afigura-se razoável a concessão da prisão domiciliar monitorada, nos termos dos parâmetros fixados no RE 641.320/RS.
+2. A inexistência de vagas em colônia agrícola, industrial ou similar na região é suficiente para imposição do regime domiciliar cumulado com o uso de tornozeleira eletrônica, sendo incabível a flexibilização do uso do equipamento eletrônico.
+3. O cumprimento da pena em regime domiciliar monitorado está longe de se afigurar mais penoso do que aquele que seria usufruído no cumprimento do regime semiaberto em colônia agrícola, industrial ou similar, sendo mais favorável ao paciente.
+4. Agravo regimental improvido. (AgRg no HC n. 817.805/MT, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 31.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. INEXISTÊNCIA DE VAGA NO ABERTO. PRISÃO DOMICILIAR, MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. INCOMPATIBILIDADE DO EQUIPAMENTO COM O USO DE MARCAPASSO. AUSÊNCIA DE CONTRAINDICAÇÃO MÉDICA. RECOMENDAÇÕES DE CUIDADO COM O USO. RECURSO IMPROVIDO.
+1- É necessário o monitoramento eletrônico quando a prisão domiciliar para o resgate de pena é concedida, de forma excepcional, nos casos de ausência de vaga em estabelecimento prisional compatível com o regime para o qual houve a progressão. (HC n. 383.654/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 3/10/2017, DJe 9/10/2017)  ..  (AgRg no HC n. 695.943/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.) 2- Assente nesta eg. Corte Superior que, sobre a aplicação da Súmula Vinculante n. 56, em relação à falta de vagas no regime aberto, "sendo certo que a prisão domiciliar monitorada, verificada no caso dos autos, não se afigura mais penosa do que aquela que o paciente vivenciaria no cumprimento da pena em regime aberto (AgRg no HC n. 691963/RS, Sexta Turma, Rel. Min. Sebastião Reis Junior, DJe de 22/10/2021).  ..  (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.) 3-  ..  A defesa foi devidamente intimada a justificar os reiterados descumprimentos das condições do regime aberto. Ademais, não se constata prejuízo ao apenado no regular exercício de sua atividade laboral, haja vista o cumprimento da pena em modo mais brando, com prisão domiciliar noturna e monitoramento eletrônico.
+ ..  AgRg no RHC 124.395/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/10/2020, DJe 21/10/2020) 4- No caso, o apenado teve a prisão domiciliar mediante o uso de tornozeleira eletrônica substituída em razão da falta de vagas no regime em que foi condenado, qual seja, o aberto.
+5- Não ficou demonstrado o risco concreto de saúde em função do uso concomitante do marcapasso com a tornozeleira eletrônica, uma vez que, tomando-se os cuidados necessários, é possível a utilização dos dois aparelhos.
+6- Agravo regimental não provido. (AgRg no HC n. 750.926/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 8.8.2022.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
