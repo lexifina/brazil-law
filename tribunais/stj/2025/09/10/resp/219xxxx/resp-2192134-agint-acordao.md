@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO ELETRÔNICO. AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. NESTA CORTE NÃO SE CONHECEU DO RECURSO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+ADMINISTRATIVO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. HONORÁRIOS ADVOCATICIOS. EMBARGOS À EXECUÇÃO. BIS IN IDEM.
+Em se tratando de cobrança de honorários advocatícios, fixados em sede de embargos à execução, não há se falar em etapas processuais distintas (ou novo cumprimento/execução de sentença), a justificar o arbitramento de nova verba honorária (STJ, 2ª Turma, EDcl no REsp 1.648.905, Relator Ministro Herman Benjamin, j. 05/11/2019, D Je 18/11/2019), mas, sim, em continuação de uma execução já iniciada, sob pena de bis in idem.
+Na petição de agravo interno, a parte agravante se insurge quanto aos pontos que foram objeto da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO ELETRÔNICO. AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS EM CUMPRIMENTO DE SENTENÇA. NESTA CORTE NÃO SE CONHECEU DO RECURSO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+VOTO
+Os autos originários são de agravo de instrumento eletrônico, cujo o teor do processo originário de cumprimento de sentença o Superior Tribunal de Justiça não dispõe de acesso, acrescentando-se o fato de que a tese defendida pela parte se restringe à possibilidade de fixação de honorários em cumprimento de sentença contra a Fazenda Pública (art. 1.071, § 5º, do CPC/2015 - (EDcl no AgInt no AREsp n. 2.234.184/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/5/2023, DJe de 24/5/2023; AgInt no AREsp n. 2.239.114/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Não houve menção sobre a existência ou não de impugnação ao cumprimento de sentença formulado pela Fazenda Pública.
+Como já foi dito na decisão agravada, o tema controvertido no recurso especial foi submetida a julgamento dos REsps n. 2.029.636/SP, 2.029.675/SP, 2.030.855/SP e 2.031.118/SP, pelo rito dos recursos repetitivos (Tema n. 1.190/STJ), qual seja, possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV.
+No julgamento, a Primeira Seção do Superior Tribunal de Justiça firmou a tese correspondente ao Tema n. 1.190 no seguinte sentido:
+Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV.
+Na mesma assentada, foi aprovada a modulação dos efeitos para constar que a respectiva tese somente se aplica aos cumprimentos de sentença iniciados após a publicação do referido acórdão.
+Na hipótese, o presente cumprimento de sentença foi iniciado em data anterior à fixação da tese do Tema n. 1.190/STJ, qual seja, em 1º/7/2024.
+Contudo, a jurisprudência do Superior Tribunal de Justiça admitia a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, desde que houvesse impugnação.
+Nesse sentido:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO PARCIAL. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA EXECUÇÃO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO.
+1. Consoante o entendimento do STJ, não haverá necessidade de fixação de honorários advocatícios previstos no art. 85, § 7º, do CPC/2015 quando a Execução não tiver sido impugnada e seu pagamento ocorrer por precatório.
+2. No entanto, oferecida resistência à Execução da Sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade.
+3. Insurge-se a parte exequente, ora agravante, contra a base de cálculo dos honorários, pugnando pela adoção do valor total do cumprimento de sentença, e não sobre o valor do excesso apresentado na impugnação.
+4. Todavia, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que admite a condenação em honorários advocatícios sobre o valor controverso da Execução, que, no caso, é o excesso de Execução apresentado na impugnação rejeitada.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.785.417/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Ressalte-se que "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. Ora, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se opõem ao cumprimento da obrigação prevista no título executivo. A não ser que se queira ignorar o comando implícito da norma, a interpretação possível é que, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade. Nesse sentido: AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019 e REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020" (AgInt no REsp 1889664/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 7/12/2020, DJe 10/12/2020).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.979.458/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRECATÓRIO. ART. 85, § 7º, CPC/2015. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. O entendimento do acórdão recorrido não está em consonância com a jurisprudência do STJ, segundo a qual, de acordo com o disposto no art. 85, § 7º, do CPC/2015, é cabível a fixação de honorários advocatícios desde que impugnado o pedido de Cumprimento de Sentença pela Fazenda Pública, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.209.980/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+No caso dos autos, a tese defendida pela parte agravante, na petição do agravo de instrumento, é de que, em apertada síntese, na ausência de previsão legal expressa, poderia haver fixação de honorários quando, pelo montante a ser pago, o procedimento adotado fosse a RPV - Requisição de Pequeno Valor. Isso haja vista a expressa vedação legal quanto à fixação de honorários quando, pelo valor do montante a ser pago, somente fosse por precatório. Entretanto, como já dito acima, o STJ aplica a vedação de fixação de honorários em ambos os casos, seja o pagamento pelo RPV ou pelo Precatório, quando for contra a Fazenda Pública, desde que, ambos, não impugnados.
+Para se concluir pela existência de impugnação ao cumprimento de sentença, seria necessário passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático-probatório inviável em recurso especial ante o óbice da Súmula n. 7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
