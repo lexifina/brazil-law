@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. MANDADO DE SEGURANÇA. DESISTÊNCIA. CONVERSÃO DE DEPÓSITO EM RENDA. ARTS. 485, VIII, 487, I, 489, § 1º, 502, 525, § 1º, VIII, IV e VI, 926, 927, III, 1.022, II, E PARÁGRAFO ÚNICO, II, DO CPC; 1º, 6º, § 6º, e 19, DA LEI 12.016/2009; 1º, § 3º, DA LEI 9.703/1998. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1.  Os dispositivos legais apontados no recurso especial não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+2. Agravo  interno  improvido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por SOCIEDADE BENEF ISRAELITABRAS HOSPITAL ALBERT EINSTEIN contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela incidência das Súmulas 282 e 356 do STF.
+Argumenta  a  parte agravante,  em  síntese,  que "da leitura do v. acórdão (Ids. 289392546) é possível identificar que o e. Tribunal a quo, apesar de julgar prejudicados os aclaratórios opostos em face da r. decisão que indeferiu o pedido de tutela (id. 266490935), considerou expressamente inexistir omissão ou obscuridade a ser sanada" (fl. 378).
+Sustenta, ainda, que "deve ser observado o artigo 1.025, do CPC. Não obstante, um dos fundamentos recursais da agravante é justamente a violação aos artigos art. 1.022, inciso II, parágrafo único, inciso II e art. 489, § 1º, inciso IV, do CPC, pelo e. Tribunal a quo, que não apreciou de maneira fundamentada os argumentos suscitados pela ora agravante" (fl. 378).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. MANDADO DE SEGURANÇA. DESISTÊNCIA. CONVERSÃO DE DEPÓSITO EM RENDA. ARTS. 485, VIII, 487, I, 489, § 1º, 502, 525, § 1º, VIII, IV e VI, 926, 927, III, 1.022, II, E PARÁGRAFO ÚNICO, II, DO CPC; 1º, 6º, § 6º, e 19, DA LEI 12.016/2009; 1º, § 3º, DA LEI 9.703/1998. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. IMPOSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1.  Os dispositivos legais apontados no recurso especial não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, ainda que implícito, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+2. Agravo  interno  improvido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Na jurisprudência desta Corte, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não , ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, os arts. 485, VIII, 487, I, 489, § 1º, 502, 525, § 1º, VIII, IV e VI, 926, 927, III, 1.022, II, e parágrafo único, II, do CPC; 1º, 6º, § 6º, e 19, da Lei 12.016/2009; e 1º, § 3º, da Lei 9.703/1998 não foram objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Registre-se, por fim, que os embargos de declaração de fls. 134-137 foram opostos contra decisão monocrática que indeferiu a tutela recursal pleiteada no agravo instrumento, razão pela qual não têm o condão de satisfazer o requisito do prequestionamento para fins de interposição do recurso especial. Para tanto, deveriam ter sido opostos embargos de declaração em face do julgamento colegiado proferido pelo Tribunal de origem (fls. 175-201), o que, de fato, não ocorreu no caso.
+Isso posto, nego provimento ao recurso.
