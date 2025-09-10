@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. SÚMULA N. 7 DO STJ. ACÓRDÃO PARADIGMA. JUÍZO DE MÉRITO. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. REGRA TÉCNICA. EMBARGOS DE DIVERGÊNCIA UTILIZADOS COMO SUCEDÂNEO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão.
+2. Embora o art. 1.043, III, do CPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+3. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de embargos de divergência opostos por RÁDIO E TELEVISÃO ROTIONER LTDA. e LUIS FERNANDO PIMENTEL MUSSI (RÁDIO e outro), na demanda em que contendem com o MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, contra o acórdão prolatado pela Quarta Turma do STJ, da relatoria do Ministro MARCO BUZZI, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. A introdução de argumento novo, que não foi ventilado no recurso especial, configura inovação recursal, cuja análise é incabível no âmbito do agravo interno, em razão da preclusão consumativa.
+2. Para afastar a conclusão contida no acórdão atacado quanto à legitimidade e responsabilidade dos recorrentes, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, por força da Súmula 7 do STJ.
+3. Agravo interno desprovido. (e-STJ, fl. 3.908).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a possibilidade de condenação ao pagamento de indenização por danos morais coletivos em ação civil pública fundada na violação de interesses ou direitos individuais homogêneos.
+Sustentaram que enquanto o acórdão recorrido da Quarta Turma entende que é cabível a condenação por danos morais quando houver a violação de interesses ou direitos individuais homogêneos, o acórdão da Terceira Turma decidiu em sentido contrário, devendo prevalecer o entendimento do julgado paradigma.
+Os embargantes citaram como paradigma o julgado da Terceira Turma prolatado no REsp n. 1.968.281/DF, relatora Ministra NANCY ANDRIGHI, j.15/3/2022, DJe de 21/3/2022 (e- STJ, fls. 3.969-4.007).
+Os embargos de divergência foram rejeitados liminarmente em razão (1) da ausência de similitude fática entre os acórdãos confrontados; e (2) quanto ao fato de os direitos em debate na ação civil pública se configurarem como homogêneos ou não, foi aplicado o óbice da Súmula n. 7 do STJ (e-STJ, fls. 4.071-4.073).
+Contra essa decisão foi interposto o presente agravo interno por RÁDIO e outro sustentando que (1) a similitude fática ficou configurada porque ambos os acórdãos trataram do cabimento da condenação por danos morais quando houver a violação de interesses ou direitos individuais homogêneo, não havendo que se falar em inovação recursal; e (2) a Súmula n. 7 do STJ não pode ser invocada para obstar o conhecimento dos embargos de divergência, pois a tese do recurso é justamente que a jurisprudência do STJ, em casos nos quais comprovadamente se trata de direitos individuais homogêneos, entende pelo não cabimento da ação coletiva (e-STJ, fls. 4.079-4.092).
+A impugnação foi apresentada às e-STJ, fls. 4.094-4.106.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. SÚMULA N. 7 DO STJ. ACÓRDÃO PARADIGMA. JUÍZO DE MÉRITO. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. REGRA TÉCNICA. EMBARGOS DE DIVERGÊNCIA UTILIZADOS COMO SUCEDÂNEO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão.
+2. Embora o art. 1.043, III, do CPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+3. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+4. Agravo interno não provido.
+VOTO
+O agravo interno não merece provimento.
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a possibilidade de condenação ao pagamento de indenização por danos morais coletivos em ação civil pública fundada na violação de interesses ou direitos individuais homogêneos.
+Os embargos de divergência foram rejeitados liminarmente em razão (1) da ausência de similitude fática entre os acórdãos confrontados; e (2) quanto ao fato de os direitos em debate na ação civil pública se configurarem como homogêneos ou não, foi aplicado o óbice da Súmula n. 7 do STJ.
+É contra essa decisão o inconformismo agora manejado, que não trouxe nenhum elemento apto a infirmar as conclusões da decisão unipessoal.
+A divergência viabilizadora dos embargos não ficou configurada, diante da ausência de similitude fático-jurídica entre os acórdãos confrontados.
+O acórdão embargado da Quarta Turma concluiu que a questão objeto da suposta divergência constituiu indevida inovação recursal e, por tal razão, deixou e ser analisada: a possibilidade - ou não - de indenização por danos morais coletivos na tutela de direitos individuais homogêneos não havia sido até então arguida e, por conseguinte, não foi analisada (e-STJ, fl. 3.915).
+Por seu turno, a questão relativa ao fato de os direitos em debate na ação civil pública se configurarem como homogêneos ou não deixou de ser conhecida pela Quarta Turma em razão do óbice da Súmula n. 7 do STJ (e- STJ, fl. 3.915).
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+O art. 1.043, III, do CPC, estabelece que cabem embargos de divergência contra o acórdão que em recurso especial divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Nesse sentido, a Quarta Turma do STJ não adentrou no mérito da questão e manteve as conclusões do Tribunal de origem inalteradas, em virtude do óbice da Súmula n. 7 do STJ.
+Confiram-se trechos do acórdão embargado:
+ ..
+Ademais, os recorrentes, especificamente às fls. 3.421-3.433, limitam-se a sustentar que os direitos não são individuais homogêneos, matéria já analisada na decisão monocrática proferida anteriormente (fls. 3.809-3.812, e-STJ), em que aplicada a Súmula 7/STJ.
+Diversa é a controvérsia sobre a possibilidade de fixação de danos morais coletivos no âmbito de direitos individuais homogêneos, se assim reconhecidos, tema suscitado pela parte ora agravante, em primeira vez, neste agravo interno.
+Sendo assim, a alegação da impossibilidade de condenação em danos morais coletivos, por se tratarem de direitos individuais homogêneos, trata de inovação recursal, pois a pretensão não foi ventilada no âmbito do apelo nobre de fls. 3.406- 3.456, e-STJ, o que atrai a preclusão consumativa da matéria (e-STJ, fl. 3.915 - sem destaque no original).
+Não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, ao passo que o outro não conhece do recurso especial, sem enfrentar a tese de mérito, em razão de óbice relacionado à admissibilidade recursal.
+Isso porque não há similitude fática quando o acórdão embargado trata da inadmissibilidade do recurso especial e o paradigma do mérito.
+É que, nos embargos de divergência, os acórdãos cotejados devem exibir idêntico grau de cognição:
+Para que caibam os embargos de divergência, é preciso, enfim, que haja similitude fática entre o caso-a-ser-julgado e o caso-paradigma. Nesse sentido, não cabem embargos de divergência, quando o acórdão embargado trata do mérito e o paradigma, da inadmissibilidade do recurso especial. É que, para que caibam os embargos de divergência, é preciso que os acórdãos tenham resultado do mesmo grau de cognição horizontal. Quer dizer que, se um acórdão tratou de questões de admissibilidade e o outro enfrentou o mérito, não cabem os embargos. Em situações como essa, é necessário fazer a distinção, a fim de não se admitirem os embargos. Se o acórdão paradigma versou sobre o juízo de admissibilidade e o acórdão recorrido tratou do mérito da questão, não há identidade entre os casos, não sendo cabíveis os embargos de divergência.
+(DIDIER JR., Fredie e CARNEIRO, Leonardo da Cunha. Curso de Direito Processual Civil: meios de impugnação às decisões judiciais e processo nos tribunais. 14ª ed. Salvador: Juspodivm. 2017, vol. 3, p. 447 - sem destaques no original).
+Observa-se que, embora o art. 1.043, III, do CPC estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+No caso em exame, o acórdão embargado não adentrou no mérito da questão e manteve as conclusões do Tribunal de origem inalteradas, em virtude do óbice da Súmula n. 7 do STJ.
+Não há, pois, nessa oportunidade, como se alterar e reavaliar os critérios sobre o conhecimento do recurso para concluir, segundo pretendem os embargantes, que era o caso de reconhecer dar provimento ao recurso especial.
+Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou, de fato, o juízo de admissibilidade, e o julgado paradigma admitiu o recurso e enfrentou o mérito, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados.
+Confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO PARADIGMA QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA. DIVERGÊNCIA CIRCUNSCRITA À APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE DIVERGÊNCIA DE TESES JURÍDICAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 1.043 do Código de Processo Civil, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+2. "O Superior Tribunal de Justiça já firmou entendimento no sentido de serem incabíveis embargos de divergência com o intuito de reapreciar a efetiva ocorrência dos óbices de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.225.660/RJ, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023).
+3. Na hipótese, a parte embargante pretende reverter o juízo de admissibilidade do recurso especial buscando a aplicação dos óbices das Súmulas 5 e 7 do STJ no caso dos autos, de modo que incabíveis os presentes embargos.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 1.815.823/SP, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 29/10/2024, Dje de 7/11/2024 - sem destaques no original)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SOCIEDADE EDUCACIONAL. EXCLUSÃO DE SÓCIO. JUSTO MOTIVO. NÃO OCORRÊNCIA. ACÓRDÃO EMBARGADO. JUÍZO DE MÉRITO. ACÓRDÃO PARADIGMA. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 7. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento conforme o Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão.
+3. No caso em exame, o acórdão embargado concluiu pela ausência de justa causa apta a ensejar a exclusão de sócio, enquanto o paradigma não adentrou no mérito da questão, em virtude do óbice da Súmula nº 7 do STJ.
+4. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+5. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado admitiu o recurso e enfrentou o mérito, e o julgado paradigma não ultrapassou, de fato, o juízo de admissibilidade, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados. Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EREsp 1.280.051/MG, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 13/12/2017, DJe 6/3/2018 - sem destaque no original)
+Desse modo, permanece hígido o entendimento da Corte Especial de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Em suma, os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal a quo. Assim, não podem conduzir a novo julgamento, com a reapreciação do que ficou decidido, sob pena de atribuir-se a este recurso indevido efeito infringente.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
