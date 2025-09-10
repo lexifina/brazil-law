@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO INTERNO NO  RECURSO  ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. TEMA 98/STJ. PRÉVIO DESCUMPRIMENTO DA ORDEM JUDICIAL. DESNECESSIDADE. DIVERGÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  O entendimento alcançado no acórdão impugnado diverge da jurisprudência do Superior Tribunal de Justiça, no sentido de que "não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível" (AgInt no REsp 1.990.344/CE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 23/9/2022). Precedentes.
+2. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pela UNIÃO contra  a  decisão  que  deu provimento ao recurso especial para determinar a observância da tese firmada no Tema 98/STJ.
+Argumenta  a  parte agravante,  em  síntese,  que:
+Inexiste, no caso, como entendeu a decisão agravada, afastamento do entendimento deste STJ no TEMA 98/STJ; exatamente o contrário, uma vez que houve análise do conjunto probatório pelo Tribunal Regional, que concluiu que, no caso concreto, não haveria possibilidade de imposição de astreintes.
+Forçoso lembrar que o Tema 98/STJ prega a possibilidade de imposição de multa diária a que alude o art. 461 do CPC, nos casos de descumprimento da obrigação de fornecer medicamentos, imposta ao ente estatal. Portanto, cabe ao juízo de origem, de posse do conjunto fático-probatório, averiguar se a multa diária é a forma adequada para o cumprimento da obrigação. Portanto, não é o mero descumprimento que justifica a imposição de multa diária, mas, sim, o descumprimento injustificado e recalcitrante, o que não ocorreu na espécie (fl. 386).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO AGRAVO INTERNO NO  RECURSO  ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. TEMA 98/STJ. PRÉVIO DESCUMPRIMENTO DA ORDEM JUDICIAL. DESNECESSIDADE. DIVERGÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  O entendimento alcançado no acórdão impugnado diverge da jurisprudência do Superior Tribunal de Justiça, no sentido de que "não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível" (AgInt no REsp 1.990.344/CE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 23/9/2022). Precedentes.
+2. Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Com efeito, conforme consta da decisão agravada, o Tribunal de origem afastou a condenação em multa diária, sob o fundamento de que a multa coercitiva somente seria cabível diante da manifesta recalcitrância da parte.
+Confira-se, a propósito, o seguinte trecho do acórdão recorrido:
+Em relação à imposição da pena de multa diária, tem a Segunda Turma deste Regional adotado posicionamento consolidado no sentido da impossibilidade de aplicação de astreintes contra a Fazenda Pública como meio de coação ao cumprimento de obrigação de fazer, apenas sendo cabível diante de manifesta constatação de recalcitrância (fl. 235).
+Com efeito, no julgamento do REsp 1.474.665/RS (relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 22/6/2017), submetido à sistemática dos recursos repetitivos, restou consignado que a incidência da multa diária deve ocorrer a partir da ciência do obrigado e da sua negativa de adimplir a obrigação voluntariamente.
+Ocorre que, ao contrário do decidido no acórdão recorrido, a matéria está pacificada na juri sprudência desta Corte, no sentido de não se condicionar a constatação da "manifesta recalcitrância" para que haja a fixação de astreintes.
+No mesmo sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. TEMA 98 DO STJ. INAPLICABILIDADE DA SÚMULA 7/STJ. MULTA DIÁRIA CONDICIONADA AO PRÉVIO DESCUMPRIMENTO DA ORDEM JUDICIAL. DESNECESSIDADE.
+1. O enfrentamento meritório da controvérsia de fundo não afronta a Súmula 7/STJ, porquanto os julgados proferidos pelo Tribunal a quo, na hipótese, estabelecem moldura fática imutável, a partir da qual possível se faz extrair nova e diversa consequência jurídica (revaloração jurídica) por parte deste Tribunal Superior.
+2. A Primeira Seção desta Corte, no julgamento do REsp 1.474.665/RS (relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 26/4/2017, DJe de 22/6/2017), submetido à sistemática dos recursos repetitivos, firmou a seguinte tese jurídica (Tema 98): "possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros".
+3. "Não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível" (AgInt no REsp n. 1.990.344/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/8/2022, DJe de 23/9/2022).
+4. Agravo interno não provido (AgInt no AREsp 1.870.513/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/8/2023 - grifo nosso).
+PROCESSUAL CIVIL. ASTREINTES. FAZENDA PÚBLICA. POSSIBILIDADE. SÚMULA 7 DO STJ. INAPLICABILIDADE. DECISÃO JUDICIAL. PRÉVIO DESCUMPRIMENTO. COMPROVAÇÃO. DESNECESSIDADE.
+1. A Súmula 7 do STJ impede o reexame de matérias fáticas, não proibindo, porém, a intervenção desta Corte de Justiça quando se verifica o equívoco na a aplicação dos institutos legais, notadamente quando há confronto com entendimento firmado pelo STJ sobre a matéria.
+2. O STJ, no Tema 98, firmou tese quanto à "possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros".
+3. Não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível.
+4. Agravo interno desprovido (AgInt no REsp 1.990.344/CE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 23/9/2022 - grifo nosso).
+Ademais, a decisão agravada não ordenou a imediata fixação de multa diária. No entanto, ao afastar o fundamento da necessidade de demonstração de recalcitrância, deve-se analisar o pedido de imposição de astreintes conforme os critérios estabelecidos no julgamento do Tema 98/STJ.
+Portanto, correto o provimento do recurso especial, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, nego provimento a o recurso.
