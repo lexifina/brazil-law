@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trago à análise da Turma agravo regimental de CARLOS EDUARDO DA SILVA SOUSA, interposto contra a decisão de fls. 311/314, mediante a qual indeferi liminarmente o pedido de habeas corpus, conforme esta ementa:
+PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR EM AÇÃO CAUTELAR INOMINADA CRIMINAL. ÓBICE DA SÚMULA 691/STF. CONCESSÃO DE EFEITO SUSPENSIVO ATIVO À APELAÇÃO DO MINISTÉRIO PÚBLICO. POSSIBILIDADE. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. EXECUÇÃO IMEDIATA DA PENA. TEMA 1.068 DA REPERCUSSÃO GERAL. ALEGAÇÃO DA DEFESA DE NULIDADE DA PRONÚNCIA. SUPRESSÃO DE INSTÂNCIA. PRECLUSÃO. INEVIDÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+Nesta via, o agravante reitera as alegações do habeas corpus, sustentando, inicialmente, que a execução provisória da pena não se reveste de obrigatoriedade automática, devendo o juízo valorar as circunstâncias concretas do caso para fundamentar a custódia cautelar (fl. 327).
+Alega que o Supremo Tribunal Federal, ao julgar o Tema 1068, reconheceu apenas a possibilidade de antecipação do cumprimento da pena após a condenação pelo Tribunal do Júri. Ou seja, tratou-se de uma faculdade sujeita à análise concreta, jamais de uma imposição generalizada (fl. 327).
+Argumenta que não há a demonstração do periculum libertatis, que a decisão monocrática do Desembargador relator viola o princípio da colegialidade, defendendo, ainda, que a decisão de pronúncia está baseada exclusivamente em testemunhas de ouvir dizer, o que evidencia a possibilidade de provimento do recurso de apelação.
+Requer a retratação da decisão hostilizada e, caso não seja possível, o provimento do agravo regimental para que possa ser concedida a ordem nos termos da inicial do writ.
+Não abri prazo para o agravado apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido, que foram assim expostos (fls. 312/314):
+O presente writ não comporta processamento, pois impugna decisão monocrática de desembargador que deferiu pedido liminar nos autos de ação cautelar inominada, circunstância que atrai o mesmo entendimento consubstanciado no enunciado da Súmula 691/STF, por analogia.
+Com efeito, consoante o entendimento consolidado na Súmula n. 691 do Supremo Tribunal Federal, também adotado nesta Corte Superior de Justiça, não deve ser conhecido o writ impetrado contra decisão do Relator que indefere a liminar postulada em outro habeas corpus requerido na origem, sob pena de indevida supressão de instância. Tal entendimento, por analogia, também se aplica o caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada (AgRg no HC n. 884.434/PR, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024).
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, circunstância não verificada no caso.
+Primeiro, a decisão proferida pelo Relator do feito na origem, em medida liminar, está fundamentada em entendimento firmado pela Suprema Corte (Tema 1.068 da Repercussão Geral).
+Aqui já foi dito que O Supremo Tribunal Federal, no julgamento do RE n. 1.235.340, com repercussão geral (Tema 1068), firmou a tese de que "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada (AgRg no RHC n. 202.283/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 7/11/2024) - AgRg no HC n. 982.607/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.
+Afora isso, eis o que consta da ementa escrita pelo Ministro Luís Roberto Barroso para o RE n. 1.235.340, julgado pelo Tribunal Pleno em 12/9/2024 e vinculado ao referido tema:
+ ..  8. Não viola o princípio da presunção de inocência ou da não culpabilidade a execução imediata da condenação pelo Tribunal do Júri, independentemente do julgamento da apelação ou de qualquer outro recurso. É que, diferentemente do que se passa em relação aos demais crimes, nenhum tribunal tem o poder de substituir a decisão do júri.
+9. Viola sentimentos mínimos de justiça, bem como a própria credibilidade do Poder Judiciário, que o homicida condenado saia livre após o julgamento, lado a lado com a família da vítima. Essa situação se agrava pela indefinida procrastinação do trânsito em julgado, mediante recursos sucessivos, fazendo com que a pena prescreva ou seja cumprida muitos anos após o fato criminoso.
+10. Em situações excepcionais, caso haja indícios de nulidade ou de condenação manifestamente contrária à prova dos autos, o tribunal, valendo-se do poder geral de cautela, poderá suspender a execução da decisão até o julgamento do recurso.  ..
+Segundo, não há nenhum indicativo de que o Tribunal de Justiça tenha sido instado a se manifestar oportunamente acerca da pronúncia que ora se alega ser nula. Sem contar que dizem os precedentes do Superior Tribunal de Justiça que é inviável a desconstituição da decisão de pronúncia após seu trânsito em julgado, pois a matéria deveria ter sido impugnada em momento oportuno, qual seja, quando da interposição dos recursos próprios cabíveis na espécie (AgRg no HC n. 889.766/RO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/11/2024).
+As razões do agravo regimental são inaptas para desconstituir a motivação da decisão agravada, afinal, o agravante limitou-se a repetir os argumentos lançados na impetração, o que não basta. Assim, à falta de contrariedade, mantêm-se hígidos os motivos expendidos pela decisão recorrida
+E, não tendo o agravante, nas razões deste recurso, infirmado especificamente todos os fundamentos da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgRg no HC n. 782.971/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023).
+Ante o exposto, não conheço do agravo regimental.
