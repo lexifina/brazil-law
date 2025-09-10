@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ÓRION. ALEGAÇÃO DE OMISSÕES. PEDIDO DE REJULGAMENTO. VÍCIOS INTRÍNSECOS NÃO DEMONSTRADOS. ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DA CAUSA. PRECEDENTE. MÉRITO NÃO CONHECIDO. AUSÊNCIA DE OMISSÃO. PRECEDENTE.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração de Carlos Nataniel Wanzeler contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental, conforme termos da seguinte ementa (fl. 4.228):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. OPERAÇÃO ORION. LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS OU VALORES. VIOLAÇÃO DO ART. 619 DO CPP. ALEGAÇÃO DE PRESTAÇÃO JURISDICIONAL DEFICIENTE EM SEDE DE EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA. REEXAME DE PROVAS. VIOLAÇÃO DO ART. 1º, CAPUT E § 1º, I, DA LEI N. 9.613/1998. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. SÚMULA 283/STF. ALEGAÇÃO DE VIOLAÇÃO DO ART. 22, PARÁGRAFO ÚNICO, SEGUNDA PARTE, DA LEI N. 7.492/1986. OBRIGAÇÃO DE INFORMAR VALORES MANTIDOS NO EXTERIOR. PRECEDENTE. INCURSÃO EM PROVAS. SÚMULA 7/STJ.
+Agravo regimental improvido.
+O agravante alega, em síntese, que o acórdão embargado se omitiu quanto à não incidência da Súmula 7/STJ, pois não apreciou a relevância do caráter ex tunc da perda de nacionalidade de Carlos Wanzeler e a atividade da empresa CNW Participações e Empreendimentos, questões essenciais ao deslinde da causa.
+Menciona não ter havido pronunciamento sobre o caráter declaratório ou constitutivo da portaria do Ministro da Justiça, considerando a conclusão de que a perda de nacionalidade surtiu efeitos apenas com sua publicação.
+Sustenta que o decisum se omitiu em examinar que, durante a escalada recursal, o embargante reforçou que a dinâmica de aquisição, expressamente consignada nos acórdãos das instâncias ordinárias, foi inapta a caracterizar a ocultação ou dissimulação exigidas para a condenação por branqueamento de capitais, uma vez que CARLOS WANZELER estava formalmente vinculado a todas as empresas, fator que indica a ausência de distanciamento entre o bem e sua origem (fl. 4.257).
+Afirma que houve omissão quanto ao fato da empresa CNW PARTICIPAÇÕES E EMPREENDIMENTOS não estava inativa quando da aquisição de bem imóvel.
+Aduz ter havido omissão quanto à não incidência da Súmula 7/STJ a respeito da violação do art. 22, parágrafo único, segunda parte, da Lei n. 7.492/1986, pois não houve apreciação das premissas fáticas necessárias à resolução da controvérsia.
+Assere ter havido omissão quanto à incidência da Súmula 283/STF no tocante à violação do art. 1º, § 1º, I, da Lei n. 9.613/1998, tendo em vista a não apreciação quanto à retirada do patrimônio particular sem ato de registro da movimentação.
+Pede o acolhimento dos embargos e o saneamento dos vícios (fls. 4.244/4.285).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ÓRION. ALEGAÇÃO DE OMISSÕES. PEDIDO DE REJULGAMENTO. VÍCIOS INTRÍNSECOS NÃO DEMONSTRADOS. ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DA CAUSA. PRECEDENTE. MÉRITO NÃO CONHECIDO. AUSÊNCIA DE OMISSÃO. PRECEDENTE.
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos de declaração devem ser conhecidos, já que reúnem os requisitos de admissibilidade.
+No mérito, todavia, devem ser rejeitados.
+Em relação à alegação sobre a perda de nacionalidade, à vinculação do ora embargante às empresas, à inatividade da CNW Participações e Empreendimentos, às premissas fáticas para condenação pelo art. 22, parágrafo único, segunda parte, da Lei n. 7.492/1986 e à incidência da Súmula 283/STF quanto à violação do art. 1º, § 1º, I, da Lei n. 9.613/1998, verifico que todas essas questões foram efetivamente debatidas no acórdão embargado (fls. 4.232/4.238):
+Com efeito, pela leitura dos fundamentos colacionados pelo Tribunal de origem, verifica-se que, a despeito dos argumentos do agravante, houve a apreciação das teses atinentes à perda da nacionalidade, tendo-se assentado que ele foi considerado estrangeiro apenas após essa data, bem como da alegação de não ocultação do bem, pois a transferência para a YMPACTUS/TELEXFREE sem registro da movimentação desvinculou o bem do patrimônio adquirido com a atividade criminosa, não havendo, portanto, falar em negativa de prestação jurisdicional pela instância ordinária.
+No ponto, o recurso caracteriza, em outra análise, pretensão de revisão de provas, haja vista a discussão sobre o mecanismo de ocultação de bens e valores produto de crime, e das datas em que considerado estrangeiro, ou das datas em que incide a obrigação de declarar depósitos no exterior, são de caráter eminentemente probatório. Tal medida é incabível na via do recurso especial, nos termos da Súmula 7/STJ.
+ ..
+O recurso, no ponto, é inadmissível, pois o ora agravante não impugnou - nem mencionou - todos os fundamentos do acórdão impugnado, especialmente o mecanismo de ocultação dos bens adquiridos com produto de atividade criminosa e transferidos para a CNW Participações e Empreendimentos, retirado do patrimônio particular sem ato de registro da movimentação, circunstância que obsta o conhecimento da insurgência à luz da Súmula 283/STF.
+Desse modo, prejudicada também a análise do ponto pela ótica do dissídio jurisprudencial.
+Acerca da não configuração do delito do art. 22, parágrafo único, segunda parte, da Lei n. 7.492/1986, observa-se que, de fato, a origem dos valores é irrelevante. A obrigação decorre da necessidade de manutenção do equilíbrio do sistema financeiro, razão pela qual incide a obrigação de informar os depósitos existentes no exterior.
+Com a finalidade de preservar a higidez do sistema financeiro e da política cambial, o tipo objetivo em questão se perfaz com a mera manutenção de valores no exterior, sem a devida comunicação ao órgão competente, podendo a origem desse capital ser uma evasão de divisas, prevista na primeira parte do parágrafo único do art. 22 da Lei n. 7.492/1986, ou mesmo uma fonte de moedas ou divisas situada no exterior (caso em que, a rigor, não há uma evasão de divisas propriamente dita) - CABRAL, Rodrigo Leite Ferreira. Sistema Financeiro Nacional - Lei n. 7.492/1986. In: CUNHA, Rogerio Sanches. Leis penais especiais: comentadas artigo por artigo / Coordenadores Rogerio Sanches Cunha, Ronaldo Batista Pinto, Renee do Ó Souza - Salvador: 2 ed. revista, ampl. e atualiz. Editora JusPodivm. 2019, p. 594.
+ ..
+No caso, o Tribunal local assentou que o agravante manteve valores no exterior e não adimpliu a obrigação de declará-los, situação suficiente para configurar o delito do art. 22, parágrafo único, segunda parte, da Lei n. 7.492/1986. As premissas, assim, não podem ser alteradas sem a incursão nas provas dos autos, medida essa obstada pela Súmula 7/STJ.
+Por essas razões, inviável o recurso também pelo dissídio jurisprudencial (AgInt nos EDcl no REsp n. 2.031.819/SP, Ministro Humberto Martins, Terceira Turma, DJe 25/10/2024).
+Desse modo, prejudicada também a análise do ponto pela ótica do dissídio jurisprudencial.
+Não há razão, assim, para se acolherem os presentes embargos, pois se pretende apenas rediscutir a causa. Tal medida não é cabível em embargos de declaração.
+Os embargos somente podem ser utilizados quando, na decisão, houver obscuridade, contradição ou omissão acerca de ponto sobre o qual devia se pronunciar o Juiz ou Tribunal, e não o fez, nos termos do que dispõe o art. 619 do Código de Processo Penal.
+Sobre o tema, destaca-se ainda: EDcl no AgRg no HC n. 731.003/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 17/2/2023.
+Além disso, não há falar em omissão quando a alegação de mérito não foi conhecida de forma fundamentada (EDcl no AgRg nos EDcl no REsp n. 1.940.073/RS, Ministra Laurita Vaz, Sexta Turma, DJe 30/6/2023; e EDcl no HC n. 937.275/RO, Ministra Daniela Teixeira, Quinta Turma, DJe 6/11/2024).
+Ante o exposto, rejeito os embargos de declaração.
