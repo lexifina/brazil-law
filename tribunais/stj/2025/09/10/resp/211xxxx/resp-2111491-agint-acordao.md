@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. EXISTÊNCIA DE COISA JULGADA EM DEMANDA ANTERIOR. NECESSIDADE DE COTEJO ENTRE O ACÓRDÃO RECORRIDO E O TÍTULO JUDICIAL. REVISÃO DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A inversão do julgado, no tocante à existência de coisa julgada, demandaria o reexame do contexto fático-probatório dos autos, porquanto seria necessário o cotejo entre o acórdão recorrido e o título judicial proveniente da demanda anterior; providência vedada no recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo  interno desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto por SALVADOR PEREIRA DOS SANTOS contra  a decisão  que  não conheceu do recurso especial.
+Aponta  a  parte agravante o seguinte:
+ ..  cumpre ressaltar a não incidência da Súmula 7 do STJ. Isso porque, consoante depreende-se da leitura das razões do recurso especial, este trata-se de ofensa aos arts. 502 e 503 do CPC, em virtude de o Juízo a quo ter admitido a existência de coisa julgada, em situação jurídica nova, na qual nota-se a inexistência de períodos coincidentes e, por consequência, não há tríplice identidade, e que, havendo mudança no estado de direito, inexiste no ordenamento jurídico qualquer óbice para que a parte ajuíze ação nova de modo a ver resguardados os direitos que entende serem devidos.
+ ..
+A decisão agravada também se fundamentou na suposta ausência de impugnação ao entendimento do TJTO de que a EC n. 120/2022 "em nada alteraria o desfecho adotado naqueles autos".
+Contudo, Excelências, tal fundamento foi expressamente combatido no Recurso Especial. O recorrente sustentou que a EC n. 120/2022 instituiu que a partir da data de publicação da Emenda e alteração no art. 198, §10, da CF, o direito aos agentes comunitários de saúde dispensou a necessidade de laudo técnico, pois o texto constitucional é claro ao dispor que os agentes comunitários TERÃO direito ao adicional de insalubridade, não sendo mais necessário a elaboração de laudo técnico, como antes era determinado.
+Assim, o Recurso Especial impugnou ambos os fundamentos do acórdão recorrido no que tange ao reconhecimento da coisa julgada e a interpretação da EC n. 120/2022, de maneira que não há falar em fundamento autônomo não enfrentado.
+Dessa forma, não incide a Súmula 283 do STF, sendo cabível o conhecimento do recurso (fls. 164-165).
+Por fim, pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação apresentada às fls. 171-175.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. EXISTÊNCIA DE COISA JULGADA EM DEMANDA ANTERIOR. NECESSIDADE DE COTEJO ENTRE O ACÓRDÃO RECORRIDO E O TÍTULO JUDICIAL. REVISÃO DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A inversão do julgado, no tocante à existência de coisa julgada, demandaria o reexame do contexto fático-probatório dos autos, porquanto seria necessário o cotejo entre o acórdão recorrido e o título judicial proveniente da demanda anterior; providência vedada no recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo  interno desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+O Tribunal de origem decidiu a matéria controvertida nos seguintes termos:
+Apura-se que o trânsito em julgado da apelação cível nº. 0003707- 24.2020.8.27.2725 operou-se em 04/07/2022 (evento 73), com baixa definitiva na mesma data (evento 74).
+A presente demanda foi instaurada pelo Requerente Apelante em 19/11/2022 (evento 01 dos autos de origem), ou seja, menos de 4 (quatro) meses após a resolução da questão nos autos paradigma, com trânsito em julgado certificado.
+Sabe-se que a Emenda Constitucional nº. 120/2022 foi publicada no dia 06/05/2022, momento em que a questão debatida nos autos do processo nº. 0003707-24.2020.8.27.2725 ainda estava pendente de trânsito em julgado, e, portanto, poderia ser aplicável, se fosse o caso, ao respectivo feito em andamento.
+Ocorre que as normas editadas pela Emenda Constitucional referenciada em nada alterariam o desfecho adotado naqueles autos, ao passo que apenas trataram acerca da responsabilidade financeira da União, na política remuneratória e na valorização dos profissionais que exercem atividades de agente comunitário e de agente de combate a endemia.
+E como visto, linhas acima, a pretensão do Requerente Apelante foi julgada improcedente por falta de prova da qualidade insalubre da sua atividade, de sorte que, não há influência da norma "superveniente" à coisa julgada formada no processo referência a justificar a revisão do decidido ou suspensão de sua eficácia.
+Ainda que assim o fosse, não seria a propositura de nova ação com as mesmas partes, causa de pedir e pedido a via adequada para tanto, eis que se revela, tal como externado na origem, em violação à coisa julgada, mas, sim, a propositura de ação revisional tratando sobre a tese de revista da cosia julgada com fulcro no artigo 505, inciso I, do CPC/15.
+Isso porque, o contexto de revisão da coisa julgada em relação jurídica de trato continuado é permitido unicamente por configurar hipótese em que a modificação da causa de pedir afasta a tríplice identidade indispensável para aplicação da função negativa da coisa julgada material.
+No caso em testilha, inexiste modificação da causa de pedir, a qual permanece correlacionada com a regra inserta no artigo 198, §10, do CPC/15 e previsões contidas na Lei Municipal nº. 546/2018 (evento 01, INIC1, os autos de origem e evento 01, INIC1, dos autos nº. 0003707- 24.2020.8.27.2725).
+Portanto, mostra-se escorreita a decisão impugnada que extinguiu o feito sem resolução de mérito diante do reconhecimento da coisa julgada material operada nos autos nº. 0003707-24.2020.8.27.2725 (fls. 105-106, grifo nosso).
+A inversão do julgado, no tocante à existência de coisa julgada, demandaria o reexame do contexto fático-probatório dos autos, porquanto seria necessário o cotejo entre o acórdão recorrido e o título judicial advindo de demanda anterior; providência vedada no recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. ANÁLISE DE VIOLAÇÃO À COISA JULGADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ESTUDO DE ATO NORMATIVO INFRALEGAL (PORTARIA MARE 2.179/1998). NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. O acórdão recorrido, interpretando o título executivo, concluiu pela possibilidade de estender as diferenças devidas aos servidores a título de reajuste de 28,86% para além da edição da Medida Provisória 1.704/1998 e da Portaria MARE 2.179/1998, limitando a incidência até a data de sua absorção por leis supervenientes que reestruturam a carreira dos servidores, bem como reconhecendo que a base de cálculo do reajuste deveria observar as rubricas de caráter permanente que compunham as fichas financeiras dos autores.
+3. O reexame do contexto fático-probatório dos autos redunda na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+4. A análise da pretensão recursal demanda também o estudo da Portaria MARE 2.179/1998, que, consoante pacífica jurisprudência desta Corte Superior, não se insere no conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal.
+5. Agravo interno a que se nega provimento (AgInt no REsp 1.871.243/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025).
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. CUMPRIMENTO DE SENTENÇA. INCORPORAÇÃO DE QUINTOS. INEXIGIBILIDADE DO TÍTULO EXECUTIVO. TEMA N. 395 DO STF. MODULAÇÃO DOS EFEITOS. SÚMULA N. 283 DO STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. Quanto à questão de fundo, a reanálise da inexigibilidade do título executivo judicial em razão da não incidência da modulação dos efeitos sobre a coisa julgada inconstitucional importaria em reexame do conjunto fático probatório, o que encontra óbice na Súmula n. 7 deste Tribunal.
+5. Agravo interno desprovido (AgInt no AREsp 2.351.349/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 2/9/2024, DJe de 5/9/2024).
+Ademais, conforme já destacado, o recorrente não impugnou o fundamento do acórdão recorrido segundo o qual, "as normas editadas pela Emenda Constitucional referenciada em nada alterariam o desfecho adotado naqueles autos, ao passo que apenas trataram acerca da responsabilidade financeira da União, na política remuneratória e na valorização dos profissionais que exercem atividades de agente comunitário e de agente de combate a endemia" (fl. 105). No especial, se limitou a defender a inexistência de coisa julgada.
+Assim, incide o óbice da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Isso posto, nego provimento ao recurso.
