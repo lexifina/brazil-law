@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGADO ERRO MATERIAL NOS CÁLCULOS. PRECLUSÃO. CONCLUSÃO DO TRIBUNAL DE ORIGEM FUNDADA NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A pretensão de reforma do acórdão recorrido, que concluiu pela ocorrência de preclusão quanto à discussão sobre os cálculos de liquidação, demanda reexame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+2. O Tribunal de origem, soberano na análise das provas, assentou que a insurgência do exequente extrapolava a noção de mero erro aritmético, representando tentativa de rediscussão de matéria não impugnada no momento processual oportuno.
+3. A incidência da Súmula 7/STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela alínea c, dada a ausência de similitude fática entre o acórdão recorrido e os paradigmas.
+4. Agravo interno não provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por VALDECIR MARÇAL contra decisão de minha lavra que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7/STJ e da ausência de similitude fática para a análise do dissídio jurisprudencial.
+O agravante sustenta que a controvérsia dos autos cinge-se na matéria de direito, qual seja, a ocorrência ou não de preclusão para a análise de erro material (aritmético) de soma nos cálculos, em face do que dispõe o art. 494, I, do Código de Processo Civil. Alega que a não correção do erro viola o art. 884 do Código Civil, pois gera enriquecimento sem causa da autarquia previdenciária. Defende a inaplicabilidade da Súmula 7/STJ, pois não pretende o reexame de fatos e provas, mas a correta aplicação da lei federal. Requer, ao final, o provimento do agravo interno para reformar a decisão monocrática, afastar os óbices e determinar o retorno dos autos à origem para que seja analisado o alegado erro de cálculo.
+O agravado, devidamente intimado, não apresentou contrarrazões (fl. 634).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGADO ERRO MATERIAL NOS CÁLCULOS. PRECLUSÃO. CONCLUSÃO DO TRIBUNAL DE ORIGEM FUNDADA NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A pretensão de reforma do acórdão recorrido, que concluiu pela ocorrência de preclusão quanto à discussão sobre os cálculos de liquidação, demanda reexame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+2. O Tribunal de origem, soberano na análise das provas, assentou que a insurgência do exequente extrapolava a noção de mero erro aritmético, representando tentativa de rediscussão de matéria não impugnada no momento processual oportuno.
+3. A incidência da Súmula 7/STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela alínea c, dada a ausência de similitude fática entre o acórdão recorrido e os paradigmas.
+4. Agravo interno não provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): O agravo interno não merece prosperar.
+A controvérsia central reside em determinar se a alegação do agravante, de que houve erro material nos cálculos de liquidação pela não inclusão de valores do período de 1/1997 a 8/1998, configura matéria exclusivamente de direito ou se sua análise demanda, inevitavelmente, o reexame do acervo fático-probatório dos autos.
+A decisão agravada aplicou o óbice da Súmula 7/STJ e, ao contrário do que alega o agravante, a sua incidência é irretocável no caso concreto.
+A análise do acórdão proferido pelo Tribunal Regional Federal da 3ª Região (fls. 477-482) revela que a questão foi decidida com base em um profundo exame dos fatos processuais e das provas documentais, especialmente no que tange à preclusão.
+O Tribunal de origem, ao julgar o agravo de instrumento, foi categórico ao afirmar que a pretensão do exequente não se resumia a um simples erro aritmético. A Corte a quo concluiu que a discussão proposta implicava a rediscussão de matéria fática já acobertada pela preclusão, conforme se extrai dos seguintes excertos do acórdão recorrido (fl. 485):
+Isto porque, o erro material deve ser entendido como mero erro aritmético, todavia, questões que necessitem de reexame de provas ou de alegações das partes, como na hipótese dos autos, não se enquadra como erro material.
+ ..
+Denota-se, assim, das alegações suscitadas pelo exequente, que sua pretensão extrapola eventuais "erros aritméticos", fato que encontra óbice na preclusão.
+Outrossim, a pretensão do exequente/agravante objetivando a retificação/rediscussão dos cálculos homologados, sob a alegação de "erro material", não impugnado no momento oportuno (embargos à execução), atenta contra o valor segurança jurídica  ..
+Verifica-se que a instância ordinária não se limitou a interpretar abstratamente o art. 494, I, do CPC. Pelo contrário, analisou o histórico processual, incluindo um acórdão anterior transitado em julgado em 25/5/2015, a conduta processual das partes e o conteúdo dos cálculos para concluir que a questão já estava preclusa. Alterar essa conclusão, para afirmar que se trata de mero erro material passível de correção a qualquer tempo, exigiria reavaliar todo o contexto fático-probatório que levou o Tribunal de origem a decidir pela ocorrência da preclusão, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Ademais, no que concerne à interposição do recurso pela alínea c do permissivo constitucional, a decisão agravada também se mostra correta. A jurisprudência desta Corte é pacífica no sentido de que a incidência da Súmula 7/STJ impede o conhecimento do recurso especial fundado na divergência jurisprudencial, pois as peculiaridades fáticas do caso concreto, que obstam o conhecimento do apelo pela alínea a, também afastam a indispensável similitude fática entre o acórdão recorrido e os paradigmas colacionados.
+Nesse sentido:
+A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019).
+Portanto, por qualquer ângulo que se analise a questão, a pretensão do agravante encontra óbice intransponível nos enunciados sumulares desta Corte, não havendo razões para a reforma da decisão monocrática.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, nego provimento ao agravo interno.
