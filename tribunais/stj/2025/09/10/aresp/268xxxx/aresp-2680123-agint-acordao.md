@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO ANULATÓRIA. CREDITAMENTO DE ICMS. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, PELA NÃO INTEGRAÇÃO DO MATERIAL UTILIZADO NO PROCESSO PRODUTIVO NO PRODUTO FINAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+2.  Não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por INTERCEMENT BRASIL S.A. e CCB - CIMPOR CIMENTOS DO BRASIL S.A. contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela incidência da Súmula 7 do STJ e pela impossibilidade de análise de violação, em recurso especial, de dispositivo constitucional.
+Argumenta  a  parte agravante,  em  síntese,  que:
+Com efeito, conforme se verifica da discussão dos autos, a controvérsia existente neste momento, e que é objeto do Recurso Especial interposto pela ora Agravante, reside em questão exclusivamente de direito, mais especificamente, na alegação de os tijolos refratários figurarem ou não, na operação de aquisição como consumidor final ou se adquirido pela Agravante, como insumo ou produto intermediário para fabricação de cimento, por meio da análise da legislação referente ao ICMS e Parecer Técnico n.º 032.143, de 18 de setembro de 2008, do Instituto Tecnológico do Estado de Pernambuco, já analisado no transcurso dos autos.
+ ..
+Ocorre que a menção, no recurso Especial, de dispositivos constitucionais se deu tão somente em reforço argumentativo da demonstração de violação a dispositivos infraconstitucionais da LC 87/96, passíveis de exame por esta E. Corte (fls. 388-389).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO ANULATÓRIA. CREDITAMENTO DE ICMS. CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS, PELA NÃO INTEGRAÇÃO DO MATERIAL UTILIZADO NO PROCESSO PRODUTIVO NO PRODUTO FINAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+2.  Não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+No particular, o Tribunal de origem, após análise dos elementos fáticos que compõem os autos, entendeu, com base em laudo pericial, que o material empregado no meio de produção não integra o produto final. Com efeito, assim decidiu a Corte de origem sobre a controvérsia dos autos (fls. 196-197):
+Dada a complexidade da questão, observa-se, do laudo pericial apresentado pela própria parte litigante, como bem fundamentado pela magistrada de primeira instância, que os tijolos não chegam a ser consumidos no interstício de cada produção, tampouco que eles integram o produto final. Restou assentado em conclusão de laudo técnico (id. 9938673 - Pág. 73) que os materiais "vão se consumindo e desgastando", sob efeito químico e mecânico, "até resultarem inutilizáveis e sem comportar recuperação", de modo que não não atua direta e imediatamente no curso de cada produção do novo produto industrializado. Assim, o ônus da prova da destinação do bem é do próprio contribuinte litigante e não houve desconstituição do crédito tributário aferido por agente fiscal pelos elementos apresentados nos autos.
+Dessa forma, não há reparo a ser feito. Isso porque, conforme assentado previamente na decisão combatida, a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INDEFERIMENTO DA PROVA PERICIAL. CERCEAMENTO DE DEFESA NÃO VERIFICADO. CRÉDITO FISCAL SOBRE AQUISIÇÃO DE ÓLEO DIESEL CONSUMIDO NO PROCESSO PRODUTIVO. APROVEITAMENTO NO PROCESSO PRODUTIVO DA EMPRESA NÃO COMPROVADO. MULTAS DECORRENTES DE AUSÊNCIA DE EMISSÃO DE NOTAS FISCAIS RELACIONADAS AO FORNECIMENTO DO COMBUSTÍVEL A TERCEIROS. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO- PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.  ..
+5. Na espécie, como decidido pelo TJSP, o óleo diesel não foi empregado nas atividades relacionadas ao processo produtivo da empresa. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+7. Agravo interno desprovido (AgInt no AREsp 1.215.025/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023).
+PROCESSUAL CIVIL. TRIBUTÁRIO. CREDITAMENTO DE ICMS. INSUMOS EMPREGADOS NA ATIVIDADE-FIM DO ESTABELECIMENTO. VIOLAÇÃO NÃO CONFIGURADA. MATERIAIS UTILIZADOS NO PROCESSO PRODUTIVO NÃO SE INCORPORAM AO PRODUTO FINAL. REEXAME. NÃO CABIMENTO. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. VERBA HONORÁRIA. NÃO CABIMENTO NAS HIPÓTESES DE ALTERAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+V - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Ressalte-se que o óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c.
+ ..
+VII - Agravo interno improvido (AgInt no AREsp n. 1.775.781/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Registre-se, por fim, que não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+Quanto ao pedido de aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, a jurisprudência desta Corte entende que:
+ ..  não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas (AgInt nos EDcl no AREsp 2.289.319/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/9/2023), o que, contudo, não é o caso dos autos.
+Isso posto, nego provimento ao recurso.
