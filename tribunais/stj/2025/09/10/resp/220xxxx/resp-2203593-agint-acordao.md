@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. REINTEGRAÇÃO DE POSSE. INEXECUÇÃO DE ORDEM JUDICIAL. INTIMAÇÃO. BLOQUEIO JUDICIAL. PROVIMENTO DO RECURSO ESPECIAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que determinou o bloqueio de valores por descumprimento de decisão judicial. No Tribunal a quo, o recurso foi parcialmente provido. Opostos embargos de declaração, estes foram rejeitados. Interposto recurso especial, este Tribunal Superior lhe deu provimento, determinando o retorno dos autos para novo julgamento. Por fim, o recorrente interpõe recurso especial para atacar o novo acórdão proferido pelo Tribunal de origem.
+II - O acórdão deixou de enfrentar, como lhe competia, os apontamentos do ora recorrente, notadamente a respeito da ausência de intimação pessoal da Fazenda Pública para o cumprimento da decisão judicial em questão. A hipótese é de acolhimento da tese de violação do art. 1.022, I e II, do CPC/2015, suscitada no recurso especial. Nesse sentido: AREsp n. 2.718.278, Ministro Teodoro Silva Santos, DJe de 24/9/2024; AgInt no REsp n. 2.115.223, Ministro Marco Aurélio Bellizze, DJe de 17/9/2024; REsp n. 2.157.982, Ministro Herman Benjamin, DJe de 14/8/2024; REsp n. 2.139.777, Ministro Afrânio, Vilela, Dje de 6/9/2024 e REsp n. 2.084.516, Ministra Assusete Magalhães, DJe de 20/12/2023 .
+III - Correta a decisão que deu provimento ao recurso especial.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Ministério Público Federal contra decisão que deu provimento ao recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, por violação ao art. 1.022 do CPC, para anular o acórdão dos Embargos de Declaração, a fim de que o Tribunal de origem se pronuncie, de maneira motivada e atendendo aos fatos e circunstâncias constantes dos autos, sobre a questão suscitada como omissa, ainda que para indicar os motivos pelos quais venha considerar tal questão impertinente ou irrelevante, na espécie."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Sucede que, diferentemente do que entendeu a douta Relatoria, a Corte regional fundamentou adequadamente sua decisão, esclarecendo as razões pelas quais as alegações apresentadas pelo ESTADO DO CEARÁ não mereciam guarida.
+ ..
+Portanto, inexiste violação ao artigo 1.022, I e II do Código de Processo Civil, uma vez que há, no julgado, razões suficientes à manutenção da decisão, e os argumentos apresentados pelo recorrente foram apreciados pela Corte, que, contudo, obteve entendimento diverso do pretendido pela parte.
+ ..
+A parte agravada deixou de se manifestar aos termos do agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. REINTEGRAÇÃO DE POSSE. INEXECUÇÃO DE ORDEM JUDICIAL. INTIMAÇÃO. BLOQUEIO JUDICIAL. PROVIMENTO DO RECURSO ESPECIAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que determinou o bloqueio de valores por descumprimento de decisão judicial. No Tribunal a quo, o recurso foi parcialmente provido. Opostos embargos de declaração, estes foram rejeitados. Interposto recurso especial, este Tribunal Superior lhe deu provimento, determinando o retorno dos autos para novo julgamento. Por fim, o recorrente interpõe recurso especial para atacar o novo acórdão proferido pelo Tribunal de origem.
+II - O acórdão deixou de enfrentar, como lhe competia, os apontamentos do ora recorrente, notadamente a respeito da ausência de intimação pessoal da Fazenda Pública para o cumprimento da decisão judicial em questão. A hipótese é de acolhimento da tese de violação do art. 1.022, I e II, do CPC/2015, suscitada no recurso especial. Nesse sentido: AREsp n. 2.718.278, Ministro Teodoro Silva Santos, DJe de 24/9/2024; AgInt no REsp n. 2.115.223, Ministro Marco Aurélio Bellizze, DJe de 17/9/2024; REsp n. 2.157.982, Ministro Herman Benjamin, DJe de 14/8/2024; REsp n. 2.139.777, Ministro Afrânio, Vilela, Dje de 6/9/2024 e REsp n. 2.084.516, Ministra Assusete Magalhães, DJe de 20/12/2023 .
+III - Correta a decisão que deu provimento ao recurso especial.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante afirma que o Tribunal de origem não deixou de se manifestar acerca dos fundamentos apresentados pelo Estado do Ceará no recurso de embargos de declaração, o que afastaria a violação do art. 1.022, I e II, do Código de Processo Civil.
+Entretanto, as omissões e contrariedades não sanadas pelo Tribunal Regional Federal residem na alegação de ausência de intimação do ente público acerca dos atos processuais da ação de reintegração de posse e, assim, dizem respeito à violação do contraditório, da ampla defesa e do devido processo legal.
+Conforme extrai-se do teor do recurso especial interposto, o Estado do Ceará afirma não ter participado de nenhum ato processual na ação de reintegração de posse, de modo que apenas foi intimado da decisão de bloqueio de valores em contra de sua titularidade.
+Desse modo, alega violação dos princípios constitucionais processuais, uma vez que não foi capaz de se manifestar sobre o objeto da ação, bem como de apresentar recurso contra a sentença.
+Assiste razão ao ente estatal, reconhecida a violação do art. 1.022, I e II, do Código de Processo Civil no julgamento realizado pelo Tribunal de origem dos embargos de declaração, limitando-se a Corte a afirmar que a matéria já teria sido tratada no julgamento do agravo de instrumento.
+Relembra-se, dessa forma, o teor do acórdão do embargado:
+ ..
+Esse Juízo quando do julgamento do agravo de instrumento já havia devidamente fundamentado a decisão no que consta do teor do acórdão embargado, : "4. Não vislumbro ilegalidade na decisão agravada, verbis pois, o juiz a quo determinou a realização de bloqueio como forma de dar cumprimento à ordem judicial para cumprir com sentença judicial transitada em julgado, conduta sub-rogatória devidamente amparada no poder de polícia (art. 139, VII, do CPC) e de direção do processo (art. 139, IV, do CPC). 5. Em que , pese não figurar como parte no processo de n.º 0800053-25.2014.4.05.8101 o Estado do (art. 139, VII, do CPC) por meio da Ceará atuou como agente executor de ordem judicial respectiva Polícia Militar - PM/CE sendo legítima a imputação de responsabilidade contra quem deu causa à inexecução de ordem judicial (art. 5.º c/c o art. 77, IV, ambos do CPC), pois, tal como restou consignado na decisão agravada, a própria PM já havia realizado estudo técnico, inclusive, frustrado por posterior levantamento momentâneo, sem o conhecimento do juiz e de toda a equipe preparada para a operação dando conhecimento pelo falta de efetivo para cumprimento da decisão."
+ ..
+Portanto, com o fim de impedir que se torne inviável a prestação jurisdicional no caso concreto, deve o Tribunal de origem pronunciar-se, de maneira motivada e atendendo aos fatos e circunstâncias constantes dos autos, quanto às alegações apresentadas, conforme entendimento deste Tribunal Superior. Nesse sentido: AREsp n. 2.718.278, Ministro Teodoro Silva Santos, DJe de 24/ 9/2024; AgInt no REsp n. 2.115.223, Ministro Marco Aurélio Bellizze, DJe de 17/9/2024; REsp n. 2.157.982, Ministro Herman Benjamin, DJe de 14/8/2024; REsp n. 2.139.777, Ministro Afrânio, Vilela, DJ e de 6/9/2024 e REsp n. 2.084.516, Ministra Assusete Magalhães, DJe de 20/12/2023 .
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno para manter inalterada a decisão que deu provimento ao recurso especial.
+É o voto.
