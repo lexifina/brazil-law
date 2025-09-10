@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. BUSCA PESSOAL. FLAGRANTE DE ENTREGA DE DROGA. ART. 301 DO CPP. ALEGAÇÃO DE NULIDADE DAS PROVAS. INIMPUTABILIDADE. NÃO OCORRÊNCIA. INVERSÃO DO JULGADO. REEXAME FÁTICO-PROBATÓRIO.
+1. Havendo flagrante da entrega de entorpecentes em via pública, no curso de diligência policial, não há falar em ilegalidade da busca pessoal. Em verdade, incide o art. 301 do Código de Processo Penal, do seguinte teor: Qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito .
+2. Hipótese em que o agravante integrava organização criminosa (crime permanente) após o atingimento da maioridade penal, com base em laudos, arquivos de áudio, testemunhos e documentos. Assim, para infirmar essa conclusão, imprescindível se faria o revolvimento do conjunto probatório, mediante reexame minucioso das provas dos autos, o que se revela incompatível com os estreitos limites processuais do habeas corpus.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALISON FORTUNATO BRAZ contra a decisão, de minha lavra, na qual indeferi liminarmente a petição inicial de habeas corpus, nos termos da seguinte ementa (fl. 82):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. BUSCA PESSOAL. FLAGRANTE DE ENTREGA DE DROGA. ART. 301 DO CPP. ALEGAÇÃO DE NULIDADE DAS PROVAS. INIMPUTABILIDADE. NÃO OCORRÊNCIA. INVERSÃO DO JULGADO. REEXAME FÁTICO-PROBATÓRIO.
+Petição inicial liminarmente indeferida.
+Consta dos autos que o agravante foi condenado às penas de 9 anos e 10 meses de reclusão, em regime inicial fechado, e 596 dias-multa, pela prática dos delitos de tráfico de drogas e organização criminosa (fl. 47).
+Nesta via, a defesa reitera que não se mostrou nos autos qual foi a atitude suspeita que deu ensejo a justa causa, de modo que qualquer pessoa próxima ao referido veículo poderia ser abordada, mesmo que nada tivesse haver com a situação (fl. 95).
+Sustenta que a condenação pelo delito de organização criminosa é nula, pois as provas foram colhidas quando o paciente era menor de 18 anos, sendo inimputável à época dos fatos (fls. 95/107).
+Nesses termos, pede a retratação da decisão agravada ou a submissão do feito ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. BUSCA PESSOAL. FLAGRANTE DE ENTREGA DE DROGA. ART. 301 DO CPP. ALEGAÇÃO DE NULIDADE DAS PROVAS. INIMPUTABILIDADE. NÃO OCORRÊNCIA. INVERSÃO DO JULGADO. REEXAME FÁTICO-PROBATÓRIO.
+1. Havendo flagrante da entrega de entorpecentes em via pública, no curso de diligência policial, não há falar em ilegalidade da busca pessoal. Em verdade, incide o art. 301 do Código de Processo Penal, do seguinte teor: Qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito .
+2. Hipótese em que o agravante integrava organização criminosa (crime permanente) após o atingimento da maioridade penal, com base em laudos, arquivos de áudio, testemunhos e documentos. Assim, para infirmar essa conclusão, imprescindível se faria o revolvimento do conjunto probatório, mediante reexame minucioso das provas dos autos, o que se revela incompatível com os estreitos limites processuais do habeas corpus.
+3. Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Como já dito , consta dos autos que, na data em que o revisionando foi abordado, os policiais receberam denúncias de que membros do Primeiro Grupo Catarinense - PCG, estariam reunidos realizando tráfico de drogas, no final da rua 432, bairro Morretes, em Itapema/SC, local já conhecido pela traficância que lá é praticada, conforme depoimentos prestados pelos policiais (fl. 23 - grifo nosso).
+Conforme os depoimentos, foi possível verificar um invólucro sendo entregue para a pessoa que estava dentro do automóvel VW/GOl, e um dos indivíduos que estava com Alison esticando o braço para pegar o dinheiro em troca. Durante a abordagem, o policial militar Jeferson de Figueiredo também visualizou o revisionando colocando algo no bolso do adolescente, tendo, em seguida, constatado se tratar de um invólucro contendo 10 gramas de maconha (fl. 24 - grifo nosso).
+Portanto, havendo flagrante da entrega de entorpecentes em via pública, no curso de diligência policial, não há falar em ilegalidade da busca pessoal. Em verdade, incide o art. 301 do Código de Processo Penal, do seguinte teor: Qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito.
+Sobre a prova da organização criminosa, o Tribunal de Justiça realizou a seguinte análise da prova produzida na ação penal (fl. 22 - grifo nosso):
+O revisionando nasceu em 17/10/1999, conforme extrai-se da "guia de recolhimento de preso" - (evento 1, GUIARECPRESO8).
+O auto de prisão em flagrante do revisionando pelo crime de tráfico de drogas foi lavrado em 23/04/2018 (evento 1, P_FLAGRANTE7), e a denúncia oferecida em 16/05/2018, quando já atingida a maioridade, portanto plenamente imputável
+A condenação do revisionando pelo crime de integrar organização criminosa, ocorreu com base na prova emprestada dos autos 0003340-29.2017.8.24.0125 (arquivos de áudio e transcrições extraídas do laudo pericial. n. 9108.17.2651, das fls. 54/58), obtida mediante autorização judicial (fls. 41/44 - SAJ).
+A prova emprestada demonstra a ocorrência do "batismo" e entrada do revisionando ainda na adolescência, no "Primeiro Grupo Catarinense - PGC", bem como a sua permanência na organização criminosa após atingir a maioridade, sendo que um dos requisitos para o ingresso é ser o "candidato" atuante na prática de delitos, especialmente o tráfico de entorpecentes.
+Conforme mencionou-se no parecer da Procuradoria de Justiça Criminal, estas provas são "  ..  robustas e aptas a demonstrar que apesar de ter sido "batizado" na facção criminosa Primeiro Grupo Catarinense - PGC no dia 06/08/2017, Alison continuou integrando a organização mesmo depois de completar 18 anos, portanto, inexistindo prova nos autos de que tinha ou tenha se desligou do PGC antes de atingir a maioridade penal, não há falar em nulidade, eis que o requerente permaneceu faccionado"(sic evento 11, PARECER1- p. 2).
+Da análise do excerto acima transcrito, observa-se que resta consignado no acórdão que o agravante integrava organização criminosa (crime permanente) após o atingimento da maioridade penal, com base em laudos, arquivos de áudio, testemunhos e documentos. Assim, para infirmar essa conclusão, imprescindível se faria o revolvimento do conjunto probatório, mediante reexame minucioso das provas dos autos, o que se revela incompatível com os estreitos limites processuais do habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
