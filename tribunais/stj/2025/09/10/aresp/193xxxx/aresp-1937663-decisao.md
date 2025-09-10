@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DONGLEY PRETTI e por SONIA MARIA LOZAN PRETTI contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5, 7 e 83 do STJ.
+Na contraminuta, a parte agravada aduz que o agravo não merece provimento, requerendo a aplicação de multa por litigância de má-fé.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região em agravo de instrumento nos autos de ação revisional de contrato de mútuo habitacional.
+O julgado foi assim ementado (fls. 96-97):
+AGRAVO DE INSTRUMENTO. SFH. LIQUIDAÇÃO DE SENTENÇA. LIMITADOR IPC  0,5%. FORMA DE APLICAÇÃO.
+1. A sentença de primeira instância, conquanto tenha determinado a aplicação do limitador (IPC/INPC  0,5%), não detalhou a forma de seu cálculo (evento 03/SENT51 e SENT52), postergando a aferição do saldo devedor para a posterior liquidação do julgado.
+2. Quanto à forma de aplicação do limitador, a comparação dos índices (índice de reajuste da categoria profissional e UPC/IPC/INPC) deve ser feita de forma acumulada e linear, ao longo de todo o contrato, tendo-se como dies a quo, conforme previsão normativa ou do contrato, a data de assinatura do contrato ou a data do primeiro reajuste (primeira data-base), e adotando-se como dies ad quem aquele em que se pretende confrontar os índices, de forma a verificar se está sendo atendida a regra limitadora.
+3. Mantida a decisão agravada.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, os agravantes apontam, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, § 1º, IV, do CPC, porquanto o acórdão recorrido não enfrentou adequadamente os argumentos apresentados, configurando ausência de fundamentação;
+b) 1.022, I e II, do CPC, pois o Tribunal de origem não sanou as omissões apontadas nos embargos de declaração, especialmente quanto à forma de aplicação do limitador IPC/INPC  0,5%;
+c) 9º, § 1º, do Decreto-Lei n. 2.164/1984, porque o acórdão recorrido determinou a aplicação do limitador de forma acumulada e linear ao longo de todo o contrato, em desacordo com a norma que exige a comparação nos mesmos períodos dos aumentos salariais;
+d) 23 da Lei n. 8.004/1990, pois não foi reconhecido o direito à restituição de valores pagos a maior pelos mutuários.
+Sustentam que o Tribunal de origem, ao decidir que a comparação dos índices deve ser feita de forma acumulada e linear ao longo de todo o contrato, divergiu do entendimento consolidado no Superior Tribunal de Justiça, especialmente nos acórdãos proferidos nos REsps n. 966.333/PR e 855.230/PR, que determinam a aplicação do limitador nos mesmos períodos dos aumentos salariais.
+Requerem o provimento do recurso para que se reforme o acórdão recorrido, determinando-se que o limitador IPC/INPC  0,5% seja aplicado nos mesmos períodos dos aumentos salariais, conforme preconizado pela jurisprudência do STJ.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece provimento. Requer a aplicação de multa por litigância de má-fé.
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que, em cumprimento de sentença, homologou a conta apresentada pelo perito judicial, que apontou um saldo devedor residual do financiamento no importe de R$ 120.228,74 e apurou uma diferença de prestações pagas a menor pelos mutuários no valor de R$ 37.566,03.
+A Corte regional manteve a decisão agravada, determinando que o limitador IPC/INPC  0,5% fosse aplicado de forma acumulada e linear ao longo de todo o contrato.
+O recurso não merece prosperar.
+Passo, pois, à análise das proposições deduzidas.
+I - Arts. 489, § 1º, IV e 1.022, I e II do CPC,
+Quanto à alegação suscitada, verifica-se que o Tribunal analisou a matéria de forma expressa. O acórdão recorrido enfrentou a questão relativa à forma de aplicação do limitador IPC/INPC  0,5%, concluindo que a comparação dos índices deve ocorrer de forma acumulada e linear ao longo de todo o contrato, conforme previsão normativa ou contratual.
+Ademais, no julgamento dos embargos de declaração, o Tribunal Regional Federal da 4ª Região consignou inexistir omissão, contradição ou obscuridade, ressaltando que as teses foram apreciadas e que o prequestionamento não exige a menção expressa a todos os dispositivos legais indicados, bastando o enfrentamento da tese jurídica apresentada.
+Dessa forma, constata-se que a Corte de origem apreciou a questão suscitada, ainda que em sentido diverso do pretendido pela parte recorrente.
+Inexiste, pois, a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem efetivamente analisou os pontos reputados omissos, enfrentando a matéria de forma fundamentada. A alteração das conclusões do acórdão recorrido sobre a correta evolução da dívida com a aplicação dos índices salariais da categoria profissional do mutuário exige o revolvimento de fatos e provas, procedimento vedado por esta Corte, nos termos da Súmula n. 7 do STJ.
+Ademais, as conclusões adotadas pelo órgão julgador de que deve ser mantida a aplicação do limitador IPC  0,5%, e de que a aplicação do limitador deve ocorrer de forma acumulada e linear estão em consonância com a jurisprudência desta Corte, atraindo a aplicação da Súmula n. 83 do STJ.
+Nesse sentido: AgInt no REsp n. 1.463.400/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/3/2020, DJe de 1/4/2020; e AgInt no REsp n. 1.685.293/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 6/2/2018, DJe de 19/2/2018.
+II - Art. 9º, § 1º, do Decreto-Lei n. 2.164/1984
+Não cabe a alegação suscitada, porquanto o acórdão recorrido determinou a aplicação do limitador de forma acumulada e linear ao longo de todo o contrato, ainda que em desacordo com a norma que exige a comparação nos mesmos períodos dos aumentos salariais. A modificação da conclusão firmada pela Corte de origem demandaria reexame do conjunto fático-probatório dos autos, providência inviável em recurso especial, conforme a Súmula n. 7 do STJ.
+Confira-se trecho do acordão (fl. 99):
+ ..  Quanto à forma de aplicação do limitador, a comparação dos índices (índice de reajuste da categoria profissional e UPC/IPC/INPC) deve ser feita de forma acumulada e linear, ao longo de todo o contrato, tendo-se como dies a quo, conforme previsão normativa ou do contrato, a data de assinatura do contrato ou a data do primeiro reajuste (primeira data-base), e adotando-se como dies ad quem aquele em que se pretende confrontar os índices, de forma a verificar se está sendo atendida a regra limitadora. Essa é a melhor interpretação, que realiza o objetivo da lei, sem desvirtuar a natureza do contrato de mútuo, oneroso na sua essência, incompatível com prestações mensais de centavos, que se tem visto nessa matéria, quando a parte quer estancar reajustes das prestações, pela aplicação mês a mês do limitador contratado, em afronta ao princípio da boa-fé objetiva.
+ ..  Assim, mantenho a agravada, pois na esteira do posicionamento desta Corte, devendo ser mantida a aplicação do limitador IPC  0,5% nos termos do laudo pericial homologado. Ante a ausência de elementos que possam modificá-la, mantenho a decisão pelos seus próprios fundamentos, ..
+ ..  Diante disso, concluindo que o laudo apresentado pelo perito aplicou corretamente o limitador contratual no cálculo do reajuste das prestações, e também por não vislumbrar nos referidos cálculos eventuais outros vícios e/ou máculas aparentes, afasto a impugnação acima tratada e acolho os cálculos da perícia judicial (laudo anexado no evento 14/LAUDO1 e (e-STJ Fl.101) Documento recebido eletronicamente da origem 5039592-50.2019.4.04.000040001427602.V7 complementado no evento 58/LAUDOPERIC1)
+III - Art. 23 da Lei n. 8.004/1990
+No que tange à alegada violação do art. 23 da Lei n. 8.004/1990, o acórdão recorrido abordou a aplicação do limitador IPC/INPC  0,5% e homologou os cálculos periciais, que apontaram para valores pagos a menor pelos mutuários, sem, contudo, reconhecer eventual direito à restituição de valores pagos a maior, limitando-se a confirmar a metodologia adotada pelo perito judicial e a afastar a impugnação apresentada pelos mutuários. Para modificar essa análise, seria necessário rever o contexto fático-probatório, o que encontra óbice na Súmula n. 7, que veda o revolvimento de provas em recurso especial.
+IV - Dissídio jurisprudencial
+Uma vez reconhecido o óbice ao conhecimento do recurso especial pela alínea a do inciso III do art. 105 da Constituição Federal, não há como examinar a alegada violação pela alínea c, uma vez que o não preenchimento dos pressupostos constitucionais de admissibilidade inviabiliza igualmente a análise da divergência jurisprudencial apontada.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários sucumbência ante a inexistência de prévia fixação pela instância de origem.
+Publique-se. Intimem-se.
+ EMENTA
