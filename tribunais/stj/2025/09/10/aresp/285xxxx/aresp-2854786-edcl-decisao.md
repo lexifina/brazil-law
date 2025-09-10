@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Agência Nacional de Transportes Terrestres - ANTT contra decisão proferida às fls. 409-415.
+Nas razões dos embargos, a parte embargante indica a existência de omissão, pois a matéria veiculada no recurso especial foi afetada por esta Corte Superior para julgamento sob a sistemática dos recursos repetitivos - Tema n. 1.327 (fls. 422-426).
+Diante disso, a embargante requer "seja sanada omissão em relação à afetação do tema 1327 e consequente reconsideração da decisão embargada para que seja determinada a devolução dos autos ao Tribunal de origem, com a respectiva baixa na distribuição, para que, após a publicação do acórdão a ser proferido nos recursos representativos da controvérsia, o apelo especial: a) tenha seguimento denegado, na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto impugnado divirja do entendimento firmado por esta Corte Superior (artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015), ou a suspensão do processo no STJ."
+É o relatório. Decido.
+De fato, verifica-se que a matéria deduzida no recurso especial, qual seja, a "Possibilidade de aplicação retroativa da Resolução ANTT 5.847/2019, por ser mais benéfica ao infrator, ainda que a infração cometida seja anterior à sua edição", foi afetada, em 10/04/2025, pela Primeira Seção deste Superior Tribunal de Justiça, no REsp 2175768/ES e REsp 2175767/ES, para julgamento sob a sistemática dos recursos repetitivos, Tema n. 1.327.
+A propósito, confira-se a ementa do acórdão:
+ADMINISTRATIVO. TRÂNSITO. RESOLUÇÃO ANTT 5.847/2019. APLICAÇÃO RETROATIVA, EM BENEFÍCIO DO INFRATOR, AINDA QUE A INFRAÇÃO DE TRÂNSITO COMETIDA SEJA ANTERIOR À SUA EDIÇÃO. QUESTÃO DE DIREITO. MULTIPLICIDADE DE CAUSAS PARELHAS. CARÁTER INFRACONSTITUCIONAL DA MATÉRIA RECONHECIDO PELO STF. RECURSO SELECIONADO COMO REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Controvérsia jurídica submetida ao Superior Tribunal de Justiça:
+"Possibilidade de aplicação retroativa da Resolução ANTT 5.847/2019, por ser mais benéfica ao infrator, ainda que a infração cometida seja anterior à sua edição".
+2. Recurso especial selecionado que preenche os requisitos de admissibilidade, permitindo o conhecimento da questão de direito controvertida.
+3. Existência de multiplicidade de causas parelhas a espelhar a mesma controvérsia presente nas amostras selecionadas para julgamento paradigmático.
+4. Conveniência de se uniformizar, com força vinculante, o entendimento do STJ quanto à matéria, seja pela existência de divergência jurisprudencial no âmbito dos Tribunais Regionais Federais, seja pelo caráter infraconstitucional da controvérsia já declarado pelo Supremo Tribunal Federal (Tema 734/STF).
+5. Afetação do recurso especial ao regime dos recursos repetitivos.
+(ProAfR no REsp n. 2.175.768/ES, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 1/4/2025, DJEN de 10/4/2025.)
+Há determinação de suspensão do processamento dos recursos especiais e agravos em recurso especial nos processos pendentes que versem sobre a questão delimitada e em trâmite no território nacional.
+Por sua vez, os arts. 1.040 e 1.041, ambos do CPC/2015, dispõem sobre a atuação do Tribunal de origem após o julgamento do recurso extraordinário submetido ao regime de repercussão geral ou do recurso especial submetido ao regime dos recursos repetitivos.
+De acordo com os referidos dispositivos, há a previsão da negativa de seguimento dos recursos, da retratação do órgão colegiado para alinhamento das teses ou, ainda, a manutenção da decisão divergente, com a remessa dos recursos aos tribunais correspondentes.
+Nesse panorama, cabe ao ministro relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, seja reexaminado o pronunciamento recorrido.
+Em hipótese análoga: REsp n. 2.137.8 42, Ministro Benedito Gonçalves, DJe de 11/06/2024.
+Ante o exposto, acolho os embargos de declaração com efeitos infringentes , torno sem efeito a decisão proferida às fls. 409-415, julgo prejudicados os recursos interpostos e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos (Tema n. 1.327/STJ), e em observância aos arts. 1.030 e 1.040 do CPC/2015: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; ou b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
