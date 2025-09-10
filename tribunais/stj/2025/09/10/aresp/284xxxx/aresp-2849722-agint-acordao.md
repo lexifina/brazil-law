@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. ALEGAÇÃO DE FALTA DE CIÊNCIA DA INDISPONIBILIDADE DE BENS, DA ADOÇÃO DE MEDIDA MAIS GRAVOSA AO EXECUTADO E DE FALTA DE ESGOTAMENTO DAS DILIGÊNCIAS NECESSÁRIAS À LOCALIZAÇÃO DE BENS PENHORÁVEIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  Inviável a análise das demais pretensões veiculadas no recurso especial por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3. Deve ser negado provimento ao agravo interno quando não apresentados pela parte agravante argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por STOCK TECH S.A. ARMAZÉNS GERAIS contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial , para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 333-336).
+Argumenta  a  parte agravante,  em  síntese,  que:
+(a) "o Tribunal a quo, mesmo após a oposição dos Aclaratórios, permaneceu omisso sobre diversos argumentos que, em tese, tinham aptidão para infirmar o resultado do julgado e se considerados, poderiam levar em tese, ao menos ao provimento parcial do seu Agravo de Instrumento" (fl. 359);
+(b) "é notório que a ora Agravante não obteve o julgamento adequado nas Instâncias que comportavam a análise dos elementos garantidores de seu direito - inclusive, repise-se, quando da oposição dos competentes Embargos de Declaração, haja vista que remanesceu argumentos relevantes sem serem aclarados, apesar de tais argumentos apontados acima, serem aptos a alterar a conclusão adotada no acórdão recorrido" (fl. 364);
+(c) "sem precisar incursionar no conteúdo fático-probatório da controvérsia, terá, essa Colenda Corte, unicamente de cotejar os argumentos deduzidos no recurso de origem com os fundamentos adotados no Acórdão recorrido, a fim de verificar se tais argumentos foram devidamente enfrentados no acórdão recorrido" (fl. 366).
+Por fim, pugna reconsideração da decisão agravada pelo provimento do recurso pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. ALEGAÇÃO DE FALTA DE CIÊNCIA DA INDISPONIBILIDADE DE BENS, DA ADOÇÃO DE MEDIDA MAIS GRAVOSA AO EXECUTADO E DE FALTA DE ESGOTAMENTO DAS DILIGÊNCIAS NECESSÁRIAS À LOCALIZAÇÃO DE BENS PENHORÁVEIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.  Inviável a análise das demais pretensões veiculadas no recurso especial por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3. Deve ser negado provimento ao agravo interno quando não apresentados pela parte agravante argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Da inexistência de violação aos arts. 489 e 1.022 do CPC:
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+Diferentemente do alegado, a decisão agravada foi adequadamente fundamentada, na inexistência de liquidez e certeza do crédito frente ao exequente, cuja compensação o executado pretende.
+No que tange à impugnação da decisão em que foi deferida a indisponibilidade de bens do executado, constante do IE 233 dos autos originários, a rigor, verifica-se que a insurgência do agravante é inoportuna, por intempestivo o recurso.
+Ao teor dos autos originários, a supracitada decisão foi proferida em 04/07/2022, ciente, de forma incontroversa, o executado, ao menos, desde 06/07/2022, quando peticionou naqueles autos (IE 235), pleiteando a compensação do débito objeto de cobrança pelo Estado do Rio de Janeiro na execução com o crédito a que faz jus a RODOPETRO, oriundo da ação autuada sob o número 0000019- 08.1986.8.19.0029; inobstante, a interposição do agravo de instrumento ocorreu em 17/05/2023, quando esgotado o prazo recursal para a impugnação daquela decisão, sem que se verifique qualquer causa suspensiva ou interruptiva, haja vista que os embargos de declaração opostos no IE 400 dos autos originários, o foram à decisão do IE 398, em que foi rejeitada a pretendida compensação.
+A argumentação veiculada no agravo interno não é pertinente, pois a supracitada petição do IE 235 dos autos originários permite identificar a ciência do executado quanto à decisão do IE 233, em que foi deferida a indisponibilidade de bens, pleiteada pelo exequente, colhendo-se da referida peça processual o requerimento de "imediata suspensão de atos de constrição de bens em nome da executada".
+Ainda que assim não fosse, diferentemente do alegado pelo agravante, o que se verifica dos autos originários é a inércia do executado, citado, em pagar ou oferecer bens à penhora, restando infrutíferas as tentativas de bloqueio online (IE 16 e IE 192), com posterior pleito de indisponibilidade pelo exequente (IE 211), baseado, também, no insucesso em diligências realizadas em outras execuções fiscais movidas em face do mesmo devedor, juntando-se documentos (IE 218 a IE 231), indicativos de consulta ao DETRAN e inexistência de imóveis penhoráveis, o que autoriza a indisponibilidade decretada, com fundamento no artigo 185-A, do CTN, revelando a correção da decisão agravada, em conformidade, inclusive, ao entendimento consolidado no Enunciado nº 560 da Súmula do STJ, referido pelo agravante (fls. 86-87 - grifo nosso).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Além disso, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Da incidência da Súmula 7 do STJ:
+Percebe-se que a pretensão da parte recorrente relativa à violação dos arts. 9º, § 1º, da Lei 11.419/2006; 272, 805 e 1.003 do CPC; e 185-A do CTN encontra óbice na Súmula 7 do STJ. Isso porque, para alterar as conclusões do órgão julgador  no que tange à: (i) existência ou não de ciência inequívoca em virtude do peticionamento espontâneo nos autos; (ii) adoção de medida mais gravosa à ora recorrente no que se refere à compensação; e (iii) ausência de esgotamento de todas as diligências necessárias para a localização de bens da ora recorrente e a decretação da indisponibilidade de bens  seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023 - grifo nosso).
+Isso posto, nego provimento ao recurso.
