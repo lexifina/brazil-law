@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDUARDO DOS SANTOS SOARES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente foi preso em flagrante em 11/7/2025, pela suposta prática do crime descrito no art. 33 da Lei n. 11.343/2006.
+Alega a Defesa que a prisão decorreu de ingresso policial em domicílio sem mandado judicial, o que teria violado o art. 5º, XI, da Constituição Federal, e o tema 280 do STF.
+Sustenta que o ingresso foi realizado sem fundada suspeita ou flagrante delito, uma vez que o paciente não era o indivíduo perseguido pela guarnição policial, e que não houve consentimento válido para a entrada no imóvel.
+Argumenta que a cadeia de flagrância foi rompida, pois o indivíduo perseguido "não foi mais visto" antes de os policiais se dirigirem à residência do paciente.
+A Defesa também pleiteia a revogação da prisão preventiva, argumentando que a medida é desproporcional e que o paciente ostenta condições pessoais favoráveis, como primariedade, bons antecedentes, residência fixa, trabalho.
+Afirma que não há elementos concretos que justifiquem a prisão preventiva, como risco à ordem pública, à instrução criminal ou à aplicação da lei penal, e que medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, seriam suficientes no caso concreto.
+Destaca que a quantidade de droga apreendida, embora não pequena, não é suficiente para justificar o encarceramento preventivo, e que não há provas de que a droga pertencia ao paciente, considerando a presença de outro indivíduo não identificado no local.
+No mérito, a Defesa requer: (a) o reconhecimento da nulidade da busca e apreensão domiciliar, com a exclusão das provas obtidas; ou (b) a revogação da prisão preventiva, mediante aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP, e a concessão de liberdade provisória ao paciente (fls. 9-10). Em sede liminar, pleiteia a revogação da prisão preventiva, com a aplicação de medidas cautelares diversas da prisão, até o julgamento do mérito do habeas corpus.
+É o breve relatório. DECIDO.
+De fato, embora a segregação em geral seja tema de extrema relevância, das simples alegações da Defesa, não se pode extrair a certeza necessária à eventual análise e concessão da ordem.
+Verifica-se a instrução deficiente da impetração, devido à ausência do inteiro teor da decisão que decretou a prisão preventiva bem como do inteiro teor do acórdão recorrido , o que não permite a perfeita compreensão da controvérsia.
+Está pacificado no Superior Tribunal de Justiça que "é dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos" (AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Ademais, doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOV ER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011, p. 298).
+Ante o exposto, não conheço o presente habeas corpus.
+Publique-se. Intimem -se.
+ EMENTA
