@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO DE COBRANÇA. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. PAGAMENTO DE VERBAS REMUNERATÓRIAS INADIMPLIDAS. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1.  A questão referente à perda superveniente do objeto da ação devido ao pagamento de verbas remuneratórias inadimplidas, tendo em vista a implementação de plano de pagamento parcelado do montante devido, não foi analisada pelo Tribunal de origem. A falta de prequestionamento atrai a incidência das Súmulas 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida , a questão federal suscitada"; e 356 do STF: "O ponto omisso da decisão, sobre o qual não for am opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+2.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto pelo MUNICÍPIO DE CORTÊS contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela aplicação das Súmulas 282 e 356 do STF.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  sendo verificado que a matéria ora discutida foi devidamente prequestionada, sendo inclusive possível se verificar tal fato através das peças de defesa apresentadas pelo Município de Cortês, quais sejam, sua contestação, apelação e demais manifestações, não há falar em incidência da Súmula nº 282 e 356 do STF, tendo em vista que a matéria discutida foi explicitamente prequestionada ao decorrer dos autos (fl. 330).
+Sustenta, ademais, que "mesmo na hipótese da matéria objeto do recurso especial interposto não ter sido expressamente citada nos autos, a jurisprudência pátria entende que é possível o prequestionamento implícito, o qual também se demonstra no caso dos autos" (fl. 331).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação (fl. 338).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO DE COBRANÇA. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. PAGAMENTO DE VERBAS REMUNERATÓRIAS INADIMPLIDAS. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1.  A questão referente à perda superveniente do objeto da ação devido ao pagamento de verbas remuneratórias inadimplidas, tendo em vista a implementação de plano de pagamento parcelado do montante devido, não foi analisada pelo Tribunal de origem. A falta de prequestionamento atrai a incidência das Súmulas 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida , a questão federal suscitada"; e 356 do STF: "O ponto omisso da decisão, sobre o qual não for am opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+2.  Agravo  interno  desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Com efeito, a Corte de origem dirimiu a controvérsia com base nos seguintes fundamentos:
+EMENTA: DIREITO ADMINISTRATIVO. AÇÃO DE COBRANÇA EM FACE DO MUNICÍPIO DE CORTÊS/PE. SERVIDOR COMISSIONADO. FÉRIAS NÃO GOZADAS. DIREITO DO SERVIDOR COMISSIONADO QUE ROMPE O VÍNCULO COM A ADMINISTRAÇÃO PÚBLICA. STF (ARE 1210937) E JURISPRUDÊNCIA DESTE TRIBUNAL. APELO PROVIDO. SENTENÇA REFORMADA.
+1. Na origem, trata-se de ação de cobrança ajuizada por Célio Roberto da Silva em face do Município de Cortês/PE, com vistas à obtenção de provimento jurisdicional que lhe garanta o pagamento das férias não gozadas, bem como do salário referente ao mês de dezembro/2020 e 13º salário do ano de 2020.
+2. O autor alega que é ex-funcionário comissionada do Município de Cortês/PE, onde ocupou o cargo de Assessor Técnico, lotado na Secretaria Municipal de Saúde do Município de Cortês durante o período de 02/01/2017 a 30/12/2020, não tendo percebido, no momento de sua exoneração, o valor referente às férias não gozadas, salário de dezembro/2020 e gratificação natalina de 2020.
+3. O cerne da questão cinge-se em saber, tão somente, se a autora, ex-servidora pública comissionada do Município de Cortês/PE, tem direito, ou não, ao pagamento das férias vencidas e não gozadas.
+4. A matéria discutida nos autos é por demais pacificada em nossos tribunais, tendo o STF assentado entendimento no sentido de que os servidores ocupantes de cargo comissionado, uma vez rompido o seu vínculo com a administração pública, fazem jus à percepção de valores relativos a férias não gozadas (STF. ARE 1217667/SE).
+5. Logo, sendo garantidos os salários, as férias e o 13º, a ausência de pagamento pelo Ente Público caracteriza enriquecimento ilícito da Administração Pública (STF; ARE 1210937 e Jurisprudência deste TJPE).
+6. Na hipótese, verifica-se haver nos autos cópia de ficha financeira que confirma o vínculo do demandante com a Administração Municipal, o cargo ocupado e o respectivo período de prestação dos serviços.
+7. Neste contexto, cabia ao Município apontado como inadimplente, demonstrar nos autos o pagamento dos valores cobrados, a fim de se desincumbir da obrigação. Vale dizer, a teor do art. 373, II, é ônus do réu constituir prova dos fatos impeditivos, modificativos e extintivos do direito do autor, e, não o tendo feito, deve arcar com o pagamento das verbas salariais reclamadas, em face do reconhecimento da procedência do pedido inaugural.
+8. Apelação provida. Sentença reformada. (fls. 220-221).
+Assim, a questão alegada pela parte recorrente a respeito da perda superveniente do objeto da ação devido ao pagamento de verbas remuneratórias inadimplidas, tendo em vista a implementação de plano de pagamento parcelado do montante, não foi analisada pela Corte de origem, tampouco foram opostos embargos de declaração para esse fim específico.
+De acordo com a jurisprudência do STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontado s como contrariados, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023, grifo nosso). Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Isso posto, nego provimento ao recurso.
