@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO DE VALORES DE CONTRIBUIÇÃO ASSISTENCIAL. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ÓBICES À ADMISSIBILIDADE DO RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL NÃO REGULARIZADA APÓS INTIMAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 115 DA SÚMULA DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que acolheu a impugnação ao cumprimento de sentença e determinou a correção de erro material acerca do termo inicial e final para pagamento dos retroativos devidos pelo IPASGU. No Tribunal a quo, o recurso foi improvido.
+II - Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça. O recurso especial não deve ser conhecido.
+III - No caso dos autos, a associação embora regularmente intimada para sanar referido vício, não o regularizou (fls. 183-184 e 219-221). Portanto, incide o disposto nos arts. 76, § 2º e seu inciso I, e 932, parágrafo único, do CPC/2015, segundo os quais nã o se conhece do recurso quando a parte descumpre a determinação para regularização da representação processual, em consonância com o enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+IV - Agravo em recurso especial conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Na origem trata-se de uma demanda judicial expressa na petição inicial, onde a Associação dos Funcionários Públicos Municipais de Gurupi (AFPMG) busca a cessação e restituição dos descontos ilegalmente cobrados dos associados, especificamente sobre o 13º salário, alegando violação ao princípio da proporcionalidade. No Tribunal a quo, foi mantida a decisão interlocutória que acolheu a impugnação ao cumprimento de sentença, limitando a restituição dos valores ao ano de 2016, com base na vigência da Lei Municipal nº 2.299/2016.
+O recurso especial foi interposto contra Acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO DE VALORES DE CONTRIBUIÇÃO ASSISTENCIAL. DESCONTOS ILEGAIS. SERVIDORES PÚBLICOS DO INSTITUTO DE ASSISTÊNCIA DOS SERVIDORES DE GURUPI. IMPUGNAÇÃO AO VALOR DA EXECUÇÃO. EXCESSO. OCORRÊNCIA. ERRO NA DATA FINAL DOS CÁLCULOS. RECURSO PROVIDO.
+1.1 A alteração do estado de direito provocado pela vigência de lei que sana a ilegalidade que motivou o ajuizamento da ação, na qual se busca o cumprimento de sentença, provoca limite temporal da coisa julgada.
+1.2 A vigência da Lei no 2.299/2016 do município de Gurupi-TO, que revogou lei anterior e extinguiu o desconto de contribuição assistencial em face de verbas de décimo terceiro salário dos proventos dos servidores aposentados, altera o marco final para incidência dos cálculos de restituição dos referidos descontos, de modo que a eficácia da sentença passa a sofrer limite temporal, provocado pela edição da nova lei.
+1.3 Na sentença ilíquida que depende apenas de cálculos aritméticos, o juiz pode, de ofício, remeter os autos à contadoria judicial quando houver dúvida acerca do correto valor da execução, sem que tal diligência ofenda o instituto da coisa julgada.
+No recurso especial a parte recorrente apresenta as seguintes alegações de violação da legislação federal: violação ao artigo 535, §2º do CPC, por admitir impugnação genérica sem preenchimento dos requisitos; violação ao artigo 508 do CPC, ao limitar a restituição ao ano de 2016, contrariando decisão transitada em julgado; e violação ao princípio da proporcionalidade, ao não considerar os limites da demanda.
+O recurso especial foi inadmitido com base nos seguintes fundamentos de inadmissão: descumprimento da determinação de regularização da representação processual; ausência de prequestionamento; e incidência da Súmula 115 do STJ.
+Interposto agravo em recurso especial, vieram os autos a este Tribunal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO DE VALORES DE CONTRIBUIÇÃO ASSISTENCIAL. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ÓBICES À ADMISSIBILIDADE DO RECURSO ESPECIAL. REPRESENTAÇÃO PROCESSUAL NÃO REGULARIZADA APÓS INTIMAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 115 DA SÚMULA DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que acolheu a impugnação ao cumprimento de sentença e determinou a correção de erro material acerca do termo inicial e final para pagamento dos retroativos devidos pelo IPASGU. No Tribunal a quo, o recurso foi improvido.
+II - Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça. O recurso especial não deve ser conhecido.
+III - No caso dos autos, a associação embora regularmente intimada para sanar referido vício, não o regularizou (fls. 183-184 e 219-221). Portanto, incide o disposto nos arts. 76, § 2º e seu inciso I, e 932, parágrafo único, do CPC/2015, segundo os quais nã o se conhece do recurso quando a parte descumpre a determinação para regularização da representação processual, em consonância com o enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+IV - Agravo em recurso especial conhecido. Recurso especial não conhecido.
+VOTO
+De início, verifica-se que o Tribunal de origem inadmitiu o recurso especial interposto por descumprimento da determinação de regularização da representação processual. No caso dos autos, a associação, embora regularmente intimada para sanar referido vício, não o regularizou (fls. 183-184 e 219-221).
+Portanto, incide o disposto nos arts. 76, § 2º e seu inciso I, e 932, parágrafo único, do CPC/2015, segundo os quais não se conhece do recurso quando a parte descumpre a determinação para regularização da representação processual, em consonância com o enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+Fixados honorários advocatícios pelas instâncias de origem, determino a sua majoração em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, conheço do agravo em recurso especial e não conheço do recurso especial..
+É o voto.
