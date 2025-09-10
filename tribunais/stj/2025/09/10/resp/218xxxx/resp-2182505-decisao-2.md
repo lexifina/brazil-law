@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por Empresa de Cimentos Liz S.A contra decisão da Corte de origem que não admitiu seu segundo recurso especial, em razão de ofensa ao princípio da unirrecorribilidade (fls. 4.055-4.056).
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 1.958):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE AVALIAÇÃO JUDICIAL DE PREÇO PARA SERVIDÃO MINERÁRIA - PRELIMINARES - INADEQUAÇÃO DA VIA ELEITA - REJEIÇÃO - SENTENÇA "CITRA PETITA" - ACOLHIMENTO - JULGAMENTO IMEDIATO DO MÉRITO COM BASE NO ART. 1.013, §3º, III, DO CPC - DESISTÊNCIA PARCIAL DO PEDIDO DE SERVIDÃO MINERÁRIA - IMPOSSIBILIDADE - VALOR DA INDENIZAÇÃO - PREVALÊNCIA DO LAUDO PERICIAL JUDICIAL.
+Não há que se falar em inadequação da via eleita, tendo em vista que o DNPM (atual Agência Nacional de Mineração) já outorgou à apelada o direito de exploração mineral na área descrita na inicial. Consequentemente, cabe apenas este procedimento para avaliação judicial de preço, a fim de fixar o valor da indenização prevista no art. 60 do Decreto-Lei 227/67 (Código de Mineração).
+Deve ser reconhecida a nulidade da sentença, por vício "citra petita", já que a sentença fixou somente o valor da indenização por danos ao imóvel, mas foi omissa quanto à fixação da renda pela ocupação do solo. Nesse caso, considerando que o processo se encontra em condições de imediato julgamento, impõe-se decidir desde logo o mérito, nos termos do art. 1.013, §3º, III, do CPC.
+No ordenamento jurídico pátrio, é adotado o princípio da persuasão racional ou livre convencimento motivado, sendo possível ao julgador decidir de acordo com a valoração que ele próprio atribui às provas produzidas pelas partes, desde que fundamente sua decisão.
+O laudo pericial oficial efetuou adequadamente a avaliação das áreas, conforme os parâmetros estabelecidos no art. 27 do Código de Mineração, além de adotar a metodologia comparativa de dados de mercado, não havendo qualquer motivo para afastar sua credibilidade.
+Assim, considerando que não foram produzidos quaisquer elementos probatórios hábeis a elidir os valores estabelecidos no laudo pericial oficial para as áreas objeto da lide, não há que se falar em adotar os cálculos apresentados pela empresa mineradora para fixar o valor da indenização.
+A presente ação de avaliação judicial de preço para servidão mineral tem como única finalidade definir os valores devidos aos apelantes, proprietários do imóvel, não se prestando a revisar as decisões tomadas pelo DNPM (atual Agência Nacional de Mineração), que já concedeu à apelada autorização para pesquisa e lavra no local. Portanto, qualquer discussão referente à desistência do direito minerário sobre parte da área deve ser tratada em processo autônomo ou administrativamente.
+Embargos de declaração acolhidos em parte, para fixar os honorários advocatícios no patamar de 5%, bem como para dispor sobre juros compensatórios e correção monetária nestes termos ementados (fl. 2.134 e 2.191 e 2.357):
+EMENTA: EMBARGOS DE DECLARAÇÃO - AÇÃO DE AVALIAÇÃO JUDICIAL DE PREÇO PARA SERVIDÃO MINERÁRIA - HONORÁRIOS ADVOCATÍCIOS - ART. 27, §1º, DO DECRETO-LEI Nº 3.365/41 EMBARGOS ACOLHIDOS PARCIALMENTE.
+O art. 1.022, do Código de Processo Civil, estabelece que cabe embargos de declaração quando houver contradição, obscuridade ou omissão sobre algum ponto não apreciado pelo juiz ou tribunal, o que neste caso não ocorreu.
+Nos termos do art. 27, §1º, do Decreto Lei 3.365/41, os honorários advocatícios serão fixados entre meio e cinco por cento do valor da diferença entre o preço oferecido e o valor fixado.
+EMENTA: EMBARGOS DE DECLARAÇÃO - AÇÃO DE AVALIAÇÃO JUDICIAL DE PREÇO PARA SERVIDÃO MINERÁRIA - JUROS COMPENSATÓRIOS - ART. 15-A DO DECRETO-LEI Nº 3.365/41 - CORREÇÃO MONETÁRIA - MERA CORREÇÃO DO VALOR DA MOEDA.
+O art. 1.022, do Código de Processo Civil, estabelece que cabem embargos de declaração quando houver contradição ou obscuridade na sentença ou no acórdão ou omissão sobre algum ponto não apreciado pelo juiz ou tribunal.
+Nos termos do art. 15-A, do Decreto-Lei nº 3.365/41, incidirão juros compensatórios de 6% ao ano sobre a diferença apurada entre o valor oferecido pela embargada no momento da imissão na posse e o valor da indenização fixado no acórdão.
+No que se refere à correção monetária, não se trata de um acréscimo ao valor do capital, mas mera correção do valor real da moeda, a fim a corrosão pela inflação.
+EMENTA: EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO - AÇÃO DE AVALIAÇÃO JUDICIAL DE PREÇO PARA SERVIDÃO MINERÁRIA - JUROS COMPENSATÓRIOS - ART. 15-A DO DECRETO-LEI Nº 3.365/41 - MATÉRIA SUSCITADA SOMENTE EM EMBARGOS DE DECLARAÇÃO INTERPOSTOS CONTRA O ACÓRDÃO QUE JULGOU A APELAÇÃO - INOVAÇÃO RECURSAL - EMBARGOS ACOLHIDOS PARCIALMENTE.
+O art. 1022, do Código de Processo Civil, estabelece que cabem embargos de declaração quando houver contradição ou obscuridade na sentença ou no acórdão ou omissão sobre algum ponto não apreciado pelo juiz ou tribunal.
+A matéria relativa aos juros compensatórios, previstos no art. 15-A do Decreto-Lei nº 3.365/41, se trata de patente inovação recursal, já que trazida pelos embargados somente nos embargos de declaração interpostos contra o acórdão que julgou a apelação, fato que por si só obsta o próprio conhecimento da pretensão.
+Neste agravo, afirma que, além de não haver violação ao princípio da unirrecorribilidade, seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contrarrazões.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+No tocante ao segundo recurso especial interposto (fls. 3.699-3.746), tem-se que o entendimento consolidado deste STJ é de que, na hipótese de interposição de dois recursos especiais pela mesma parte, não se conhece daquele interposto por último, com fulcro no princípio da unirrecorribilidade e no instituto da preclusão.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS. NÃO CONHECIMENTO DO RECURSO PROTOCOLADO POR ÚLTIMO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. INTERPOSIÇÃO DO RECURSO ESPECIAL DIRETAMENTE NO STJ. DESCABIMENTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Em atenção ao princípio da unirrecorribilidade e ao instituto da preclusão consumativa, na hipótese de interposição de dois recursos, não se conhece daquele interposto por último. Precedentes.
+3. Não se conhece do recurso especial interposto diretamente no STJ, uma vez que, conforme redação do art. 1.029, caput, do CPC/2015, o ato deverá ser realizado perante o Presidente ou o Vice-presidente do Tribunal recorrido, cuja competência deve ser prestigiada, e a inobservância do referido procedimento constitui vício impassível de saneamento. Precedentes.
+4. Primeiro agravo interno não provido e segundo agravo interno não conhecido.
+(AgInt no REsp n. 2.083.598/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE AVALIAÇÃO JUDICIAL DE PREÇO PARA SERVIDÃO MINERÁRIA. SEGUNDO RECURSO ESPECIAL. ANÁLISE. INVIÁVEL. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECI AL NÃO CONHECIDO.
