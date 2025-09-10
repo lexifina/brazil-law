@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Romario de Souza Rodrigues (denunciado pelo delito de tráfico de drogas, com apreensão de 5,098 kg de cocaína), no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus n. 1.0000.25.222778-0/000).
+Alega-se, aqui, constrangimento ilegal decorrente da ausência de fundamentação idônea no decreto prisional, que seria baseado apenas na quantidade de droga em conjunto com a suposta confissão informal do recorrente e a alegação genérica de reprovabilidade da conduta, elementos que, por si sós, não são suficientes para a segregação cautelar (fl. 244).
+Requer-se, no âmbito liminar e no mérito, a concessão da liberdade provisória, com ou sem a aplicação de medidas cautelares alternativas.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no fato de que o conduzido foi preso transportando grande quantidade de entorpecentes, a saber, 5,098kg de cocaína, consoante laudo de ID 10474737394. Neste ponto, impende consignar, que os relatos constantes nos autos indicam a possível ocorrência de tráfico interestadual, já que o transporte das drogas fora realizado do município de São Paulo/SP, com destino à cidade de Jequié/BA, de modo que os fatos se revestem de maior gravidade e reprovabilidade, necessitando de ações mais severas, para dirimir a prática de novas condutas semelhantes (fls. 158/159).
+In casu, foram apreendidos 5,098 kg de cocaína, em tráfico interestadual.
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Ademais, nesse primeiro momento, não há falar que o acusado agiu como uma "mula", uma vez que, conforme consta da decisão que decretou a prisão preventiva, o acusado teria confessado que comprou a droga pelo valor total de R$ 150.000,00 (cento e cinquenta mil reais).
+Em face do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
