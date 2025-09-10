@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. DEFICIÊNCIA DE COTEJO ANALÍTICO. INCIDÊNCIA DA SÚMULA 182. PRECLUSÃO CONSUMATIVA. JURISPRUDÊNCIA DO STJ. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso de fundamentação vinculada, cabíveis apenas quando presente ambiguidade, obscuridade, contradição, omissão ou erro material, sendo inviável sua utilização como sucedâneo recursal.
+2. A irresignação da parte com a conclusão adotada não autoriza a oposição dos aclaratórios, os quais não se prestam à rediscussão do mérito da decisão.
+3. O acórdão embargado reconheceu a ausência de impugnação específica quanto à deficiência de cotejo analítico, atraindo a incidência do óbice da Súmula 182, ressaltando ainda que não cabe à parte, em sede de agravo regimental, suprir falhas anteriores, ante a preclusão consumativa.
+4. A invocação do art. 1.034, parágrafo único, do CPC não altera o desfecho, pois a ausência de dialeticidade inviabiliza o conhecimento do recurso desde a origem.
+5. Consolidada a orientação desta Corte no sentido de que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis quando ausentes os vícios que autorizariam sua oposição.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FÁBIO MARTINELLI CHERIN contra o acórdão que, à unanimidade, negou provimento ao agravo regimental no agravo em recurso especial.
+Em suas razões, a defesa sustenta a existência de omissões e contradições no julgado. Afirma que o acórdão teria deixado de aplicar corretamente o art. 1.034, parágrafo único, do Código de Processo Civil, pois, mesmo reconhecida a ausência de dialeticidade quanto a um fundamento, caberia à Turma examinar as demais teses recursais. Argumenta, ainda, a ocorrência de nulidades processuais de ordem pública, alegando: (i) utilização de antecedentes criminais em plenário do Júri pelo órgão de acusação; (ii) ausência de acesso da defesa a provas documentais relevantes; (iii) contradições nas respostas dos jurados, em razão de inversão na formulação dos quesitos; (iv) violação ao princípio do monismo na participação, uma vez que o partícipe teria sido condenado quando o autor do delito foi absolvido; e (v) aplicação equivocada da fração de diminuição de pena na hipótese de tentativa branca.
+Requer, ao final, o acolhimento dos aclaratórios, inclusive com efeitos infringentes, a fim de que sejam supridas as omissões e contradições apontadas, reconhecendo-se nulidades e revisando-se o julgamento.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. DEFICIÊNCIA DE COTEJO ANALÍTICO. INCIDÊNCIA DA SÚMULA 182. PRECLUSÃO CONSUMATIVA. JURISPRUDÊNCIA DO STJ. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso de fundamentação vinculada, cabíveis apenas quando presente ambiguidade, obscuridade, contradição, omissão ou erro material, sendo inviável sua utilização como sucedâneo recursal.
+2. A irresignação da parte com a conclusão adotada não autoriza a oposição dos aclaratórios, os quais não se prestam à rediscussão do mérito da decisão.
+3. O acórdão embargado reconheceu a ausência de impugnação específica quanto à deficiência de cotejo analítico, atraindo a incidência do óbice da Súmula 182, ressaltando ainda que não cabe à parte, em sede de agravo regimental, suprir falhas anteriores, ante a preclusão consumativa.
+4. A invocação do art. 1.034, parágrafo único, do CPC não altera o desfecho, pois a ausência de dialeticidade inviabiliza o conhecimento do recurso desde a origem.
+5. Consolidada a orientação desta Corte no sentido de que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis quando ausentes os vícios que autorizariam sua oposição.
+6. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso em exame, o acórdão embargado analisou expressamente a ausência de impugnação específica quanto à deficiência de cotejo analítico, reconhecendo a incidência do óbice da Súmula 182 desta Corte. Ressaltou-se, de forma clara, que não foram enfrentados todos os fundamentos da decisão de inadmissibilidade do recurso especial, razão pela qual se negou provimento ao agravo regimental.
+Importante consignar que, verificada a tentativa da defesa de, no agravo regimental, alegar e se aprofundar na demonstração de suposto cotejo analítico, tal iniciativa por certo não poderia prosperar, uma vez que " n o âmbito do agravo regimental a parte deve refutar os fundamentos da decisão monocrática impugnada, não lhe sendo permitido corrigir a argumentação, suprindo falhas anteriores, em razão da preclusão consumativa." (AgRg no AREsp n. 2.850.201/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/4/2025, DJEN de 9/4/2025.)
+Assim, as alegações trazidas nos presentes aclaratórios não revelam omissão ou contradição interna no julgado, mas sim mero inconformismo da parte com o resultado que lhe foi desfavorável. A invocação do art. 1.034, parágrafo único, do Código de Processo Civil, não altera a conclusão adotada, uma vez que a ausência de dialeticidade inviabiliza o conhecimento do recurso desde sua origem, não havendo falar em devolução da apreciação de fundamentos não examinados.
+Reitere-se o pacífico entendimento desta Corte no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
