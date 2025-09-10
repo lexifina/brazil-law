@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA ESSE FIM. NULIDADE DA DOMICILIAR. NÃO OCORRÊNCIA. DEMONSTRAÇÃO DE FUNDADA SUSPEITA E FLAGRANTE DELITO. PRECEDENTES DO STF E DO STJ. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO PARA MODIFICAR O ENTENDIMENTO DA ORIGEM. PROVIDÊNCIA INCABÍVEL NA VIA ELEITA. MATÉRIAS QUE DEVEM SER APRECIADAS NA FASE DE SENTENÇA, APÓS LARGA INSTRUÇÃO PROBATÓRIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus ajuizado em nome de VINICIUS MORALES PAULINO, denunciado pela prática dos delitos descritos nos arts. 33 e 35 da Lei n. 11.343/2006 (Autos n. 1500504-55.2025.8.26.0583, da 1ª Vara Criminal de Presidente Prudente/SP).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Requer-se, em liminar e no mérito, a concessão da ordem para determinar o trancamento da ação penal, reconhecendo-se a ilicitude das provas obtidas mediante violação de domicílio, forjamento e agressões, e a ausência de justa causa para a persecução criminal (fl. 11).
+Para tanto, alega-se, em resumo, nulidades decorrentes da agressão perpetrada pelos policiais responsáveis pelo flagrante e ausência de justa causa para ingresso em domicílio sem mandado judicial.
+Liminar indeferida às fls. 86/87.
+Informações prestadas às fls. 92/95.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 98/104).
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA ESSE FIM. NULIDADE DA DOMICILIAR. NÃO OCORRÊNCIA. DEMONSTRAÇÃO DE FUNDADA SUSPEITA E FLAGRANTE DELITO. PRECEDENTES DO STF E DO STJ. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO PARA MODIFICAR O ENTENDIMENTO DA ORIGEM. PROVIDÊNCIA INCABÍVEL NA VIA ELEITA. MATÉRIAS QUE DEVEM SER APRECIADAS NA FASE DE SENTENÇA, APÓS LARGA INSTRUÇÃO PROBATÓRIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+VOTO
+Inicialmente, no tocante às possíveis agressões sofridas pelo paciente no momento da prisão em flagrante, consta do acórdão impugnado que a douta Magistrada (fls. 159/160) determinou a remessa de cópias e laudo médico (fls. 151/152) para a Corregedoria da Polícia Militar, a fim de apurar as responsabilidades pertinentes" (fls. 26/27). Nesse caso, ainda pendente o exame do tema na origem, não há como antecipar a análise nesta Corte, sob pena de supressão de instância, não autorizada pela jurisprudência.
+Quanto ao mais, verifica-se que a Corte local, ao afastar a alegação de nulidade da busca domiciliar, trouxe como fundamento a existência de fundada suspeita, consubstanciada no fato de que, após os policiais militares receberem denúncias anônimas, dirigiram-se até o local apontado e avistaram o coautor João Victor, próximo a sua residência, em atitude suspeita, sendo abordado e localizado em seu bolso uma porção maior de crack, além de outra porção já fracionada no interior da residência, que havia adquirido do coautor Alyson e do paciente. Foram designadas outras equipes de policiais militares para vistoria das moradias dos fornecedores de drogas, o que culminou na busca domiciliar e na respectiva prisão em flagrante do paciente e corréus.
+Logo, observa-se da moldura fática delineada que havia fundadas razões para o ingresso no imóvel, pois restou demonstrada a existência de um contexto fático prévio e concreto apto a indicar a prática de crime permanente no local.
+Com similar conclusão: AgRg no HC n. 981.282/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 28/3/2025.
+Não se olvida, ainda, que as fundadas suspeitas que deram ensejo à atuação policial foram confirmadas com a apreensão de entorpecentes (17,95 g de crack e 1,77 g de maconha) e uma balança de precisão (fl. 25).
+Portanto, os elementos carreados ao feito permitem concluir que as etapas que antecederam as buscas pessoal e domiciliar não decorreram de mero subjetivismo policial e que a medida realizada está devidamente justificada diante da fundada suspeita.
+Ademais, o Supremo Tribunal Federal, no Julgamento do Recurso Extraordinário n. 603.616/RO, apreciando o Tema 280 da Repercussão Geral, de Relatoria do Ministro Gilmar Mendes, firmou a tese de que a entrada forçada em domicílio sem mandado judicial é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que, dentro da casa, ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil, e penal do agente ou da autoridade e de nulidade dos atos praticados, conforme se extrai do esclarecimento do Ministro Teori Zavascki, no corpo do julgado.
+Acrescente-se, ainda, que reconhecer que não houve a dinâmica dos fatos descrita no acórdão atacado exige, inevitavelmente, aprofundado reexame do conjunto fático-probatório, o que, além de ser impossível na via do habeas corpus, somente poderá ser realizado em sede de sentença, pelo Juízo de piso, após análise exauriente dos elementos colhidos durante larga instrução probatória, ocasião em que é assegurada à defesa a possibilidade de questionar eventuais ilegalidades com maior amplitude (HC n. 704.331/SC, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, DJe de 16/12/2021).
+Em arremate, ressalto que não se pode impedir o Estado, de antemão, de exercer a função jurisdicional, coibindo-o de realizar o levantamento dos elementos de prova para a verificação da verdade dos fatos, sendo evidentemente prematuro o trancamento da ação penal instaurada (AgRg no RHC n. 173.354/MS, Ministra Laurita Vaz, Sexta Turma, DJe de 9/10/2023).
+Ante todo o exposto, denego a ordem.
