@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, conhecer parcialmente do habeas corpus e, nessa parte, deneg ar a ordem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO, POR DUAS VEZES. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA DE PRONÚNCIA. EXCESSO DE PRAZO. SUPERLOTAÇÃO NA UNIDADE PRISIONAL. TESES NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. FUNDAMENTOS DA CUSTÓDIA CAUTELAR. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. REITERAÇÃO DELITIVA . MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS DORNELLES, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Recurso em Sentido Estrito n. 5006258-37.2023.8.21.0013/RS).
+Narram os autos que o paciente se encontra preso preventivamente desde 9/11/2021, nos autos da ação penal em que foi pronunciado como incurso nas sanções do art. 121, § 2º, I e IV, c/c o art. 29, caput, ambos do Código Penal, por duas vezes (fl. 4).
+Neste mandamus, a impetrante sustenta que há excesso de prazo no presente caso, o que autoriza a concessão da ordem, ainda que de ofício, para que seja substituída a prisão preventiva do paciente por medidas cautelares diversas (fls. 4).
+Afirma que a manutenção da prisão preventiva do paciente, em contraste com a liberdade de sua corré que aguarda julgamento do agravo em recurso especial, evidencia grave afronta ao princípio da isonomia (fl. 8).
+Menciona que o paciente encontra-se recolhido no Presídio Estadual de Erechim/RS, que, embora projetado para abrigar 239 internos, atualmente acolhe 531, mais que o dobro de sua capacidade (fl. 8).
+Requer a concessão da liberdade provisória do paciente ou, subsidiariamente, o julgamento do recurso da corré solta, para viabilizar o prosseguimento do processo do paciente e demais réus (fl. 10).
+Este habeas corpus foi a mim distribuído por prevenção do AREsp n. 2.549.212/RS.
+Indeferida por mim a liminar em 5/6/2025 (fls. 90/92).
+Após as informações de fls. 94/96, o Ministério Público Federal opinou pela denegação da ordem (fls. 102/105).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO, POR DUAS VEZES. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA DE PRONÚNCIA. EXCESSO DE PRAZO. SUPERLOTAÇÃO NA UNIDADE PRISIONAL. TESES NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. FUNDAMENTOS DA CUSTÓDIA CAUTELAR. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. REITERAÇÃO DELITIVA . MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL INEXISTENTE. PRECEDENTES.
+Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+VOTO
+De início, conforme se depreende do acórdão impugnado, observo que as questões relativas ao excesso de prazo da prisão preventiva e à superlotação da unidade prisional nem sequer foram debatidas pela Corte estadual, de forma que o exame das matérias por este Superior Tribunal configuraria indevida supressão de instância.
+Quanto ao mais, como dito na análise da liminar em relação à necessidade da prisão cautelar do paciente, consta de sentença de pronúncia que os acusados Éderson, Gleison, Lucas e Romário permaneceram presos durante a tramitação do processo, estando a prisão preventiva fundada na garantia da ordem pública, diante da gravidade em análise concreta dos fatos e o risco de que em liberdade persistam na atividade criminosa. Há indícios de envolvimento dos acusados com o tráfico de drogas, o que, em tese, motivou a morte das vítimas. Como dito, o fato é grave em análise concreta, haja vista que duas vítimas foram covardemente mortas na frente de seus familiares e no interior de seus lares (fl. 41 - grifo nosso).
+Não é outra a opinião do Ministério Público Federal, em seu parecer, da lavra da Subprocuradora-Geral da República Paula Bajer Fernandes, ao ressaltar que (fls. 103/105 - grifo nosso):
+ ..
+A prisão cautelar está fundamentada na gravidade concreta da conduta criminosa do paciente, na garantia da ordem pública e no risco de reiteração delitiva. Lucas Dornelles, possivelmente integrante de facção criminosa, teria participado de dois homicídios, na presença de outras pessoas, inclusive crianças, em razão de disputa pelo comando do tráfico de entorpecentes. Além disso, paciente tem condenação definitiva pelo crime de roubo. Confiram-se os seguintes trechos de decisão que demonstram a necessidade de manutenção da prisão preventiva do paciente (fls. 66):
+ ..
+Por fim, alegações de excesso de prazo e superlotação carcerária não foram analisadas pelo Tribunal de Justiça. Enfrentamento da controvérsia diretamente por essa Corte Superior implica supressão de instância.
+De toda forma, não há flagrante ilegalidade que justifique concessão da ordem de ofício. Informações prestadas pelo Juízo da 1ª Vara Criminal da Comarca de Erechim demonstram regularidade na tramitação processual (fls. 94). Sobre superlotação da unidade prisional, não há elementos que confirmem alegações do impetrante.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Observa-se da análise dos trechos transcritos que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao risco de reiteração delitiva e ao modus operandi, a justificar a necessidade de manutenção da medida extrema.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023). A propósito: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Da mesma forma, este Superior Tribunal possui entendimento de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019; e AgRg no HC n. 890.488/MA, Ministro Og Fernandes, Sexta Turma, DJe 25/10/2024).
+Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, conheço parcialmente do writ e, nessa extensão, denego a ordem.
