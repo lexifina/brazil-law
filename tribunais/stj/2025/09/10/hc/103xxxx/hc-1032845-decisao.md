@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO AUGUSTO DE LIMA FLORENCIO contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não conheceu do HC n. 2206569-28.2025.8.26.0000, mantendo a decisão que determinou a realização de exame criminológico (Execução Penal n. 0010943-71.2018.8.26.0026, DEECRIM 10ª RAJ - Sorocaba/SP).
+Alega a defesa, em síntese, que a exigência de novo exame criminológico carece de fundamento jurídico, violando o art. 93, IX, da Constituição Federal, e que a manutenção do paciente no regime semiaberto configura constrangimento ilegal, em afronta ao princípio da razoável duração do processo (art. 5º, LXXVIII, da CF) e à Súmula Vinculante n. 56 do STF (fls. 4/6).
+Pede: a) o reconhecimento do excesso de prazo desde julho de 2025 e da ilegalidade da exigência de novo exame criminológico; b) a determinação da progressão imediata ao regime aberto, com base no lapso já cumprido e no laudo de fevereiro de 2025; c) a vedação da exigência de novo exame criminológico sem fundamentação concreta e individualizada; e d) subsidiariamente, caso mantida a exigência de exame, que sua realização seja determinada no prazo máximo de 48 horas (fl. 8).
+É o relatório.
+A concessão da ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+Neste caso, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal de origem afirmou que (fl. 14):
+ ..
+Anota-se que, respeitados os limites da via eleita, não se vislumbra teratologia ou ilegalidade manifesta a ser sanada de ofício, sobretudo porque a r. decisão impugnada encontra-se suficiente fundamentada, esclarecendo o i. Magistrado que "a medida determinada constitui elemento de convicção imprescindível ao julgamento do pedido, uma vez que revela elementos atinentes à personalidade do paciente, notadamente porque se trata de reincidente em crime doloso, e as circunstâncias em que praticou o crime revelam traços de agressividade o que exige do Estado-juiz maior cautela para conceder a benesse reclamada" (fls. 1011).
+Tais circunstâncias, aliadas às faltas disciplinares cometidas pelo paciente (fls. 1028), demonstram ser necessária a avaliação aprofundada do mérito do sentenciado, por meio de exame criminológico, a fim de se aferir a presença do requisito subjetivo indispensável à concessão de benefício tão amplo e de diminuta vigilância estatal, que implicará no retorno imediato do paciente ao convívio social, não se olvidando que o exame anterior mencionado pela impetrante (realizado em fevereiro de 2025, fls. 809/818), não pode ser aproveitado para análise do pedido de progressão ao regime aberto, notadamente porque foi realizado anteriormente à unificação das penas, além do que não reflete a atual realidade psicossocial do paciente.
+ ..
+Com efeito, do excerto transcrito, verifica-se que o Tribunal a quo fundamentou a necessidade do exame criminológico em elementos concretos da execução da reprimenda, afirmando que o paciente tem histórico de faltas graves e que o exame anterior foi realizado anteriormente à unificação das penas, não havendo, assim, ilegalidade a ser sanada por esta Corte.
+Nesse sentido: AgRg no HC n. 952.103/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; e AgRg no HC n. 981.593/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.
+Vale ressaltar que a alegação de excesso de prazo para a realização do exame não foi objeto de debate pelo Tribunal a quo, fato que impede a análise por esta Corte sob pena de supressão de instância.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. HISTÓRICO PRISIONAL. FUNDAMENTAÇÃO VÁLIDA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
