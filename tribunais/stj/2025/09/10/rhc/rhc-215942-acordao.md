@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+Não participou do julgamento o Sr. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP).
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. APLICAÇÃO DA LEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por ROBERTO SANTOS DE OLIVEIRA, no qual se aponta como órgão coator o TRIBU NAL DE JUSTIÇA DA BAHIA, que denegou a ordem no HC n. 013680-27.2025.8.05.0000 (fls. 51/56), a fim de manter sua segregação cautelar, decretada pelo Juízo de primeiro grau, em razão da suposta prática dos crimes de extorsão mediante sequestro simples, extorsão mediante sequestro qualificada pela menoridade das vítimas e associação criminosa majorada (Processo n. 106145-86.2024.8.05.0001).
+Com efeito, busca o recorrente, em síntese, a revogação da prisão preventiva, ante a ausência de fundamentação idônea e dos requisitos necessários para a manutenção da constrição cautelar e, subsidiariamente, pleiteia a substituição da prisão provisória por medidas cautelares alternativas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 75/81).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. APLICAÇÃO DA LEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso improvido.
+VOTO
+Em que pese o esforço defensivo, verifica-se que inexiste ilegalidade flagrante que justifique o provimento do recurso e a consequente soltura do recorrente.
+Isso porque, ao manter a prisão preventiva, o Tribunal local asseverou que (fl. 53):
+ ..  Quanto ao fundamento legal utilizado pela autoridade apontada como coatora para justificar o acautelamento, verifica-se que foi, primordialmente, a necessidade de resguardar a ordem pública, consubstanciada no modus operandi do delito, que evidencia a extrema gravidade da conduta perpetrada pelos réus, que, dentre outras condutas, valendo-se do emprego de armas de fogo que se achavam apontadas para a cabeça das filhas dos ofendidos, exigiram que lhes entregassem os pertences increpados e determinaram que o Sr. Valentino e a Sra. Zineide deixassem o imóvel residencial e retornassem com a quantia de R$ 25.000,00 (vinte e cinco mil reais), sob a ameaça de assassinar as suas filhas em caso de desobediência.  ..
+Observa-se, assim, que a fundamentação adotada pelo Tribunal a quo se encontra em consonância com o posicionamento firmado pelo Superior Tribunal de Justiça no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Com similar conclusão: AgRg no RHC n. 194.775/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024; e AgRg no RHC n. 195.967/RJ, Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, DJe 29/5/2024.
+Ademais, consta dos autos que, instaurada a presente ação em fevereiro do ano passado, Isaías e Roberto somente foram encontrados em dezembro de 2024 e fevereiro deste ano. Tal situação trouxe evidente óbice à marcha regular do feito, sendo necessária, portanto, a segregação de ambos, seja por conveniência da instrução criminal, seja para garantir a aplicação da lei penal, tendo em vista que há o justo receio de que, estando em liberdade, venham a se evadir novamente (fl. 53).
+Verifica-se, assim, que o recorrente permaneceu foragido por considerável tempo, motivo pelo qual o decreto da prisão preventiva também se fundamentou na garantia da aplicação da lei penal e na conveniência da instrução criminal. Ademais, não é crível que, se colocado em liberdade, ele irá comparecer aos demais atos processuais.
+Não se olvida, ainda, que, demonstrado o periculum libertatis do recorrente, não se mostram suficientes, para o caso em análise, as medidas previstas no artigo 319 do Código de Processo Penal.
+Por fim, registra-se que não há violação d o princípio da proporcionalidade, bem como que a prisão preventiva é compatível com a presunção de inocência quando não assume natureza de antecipação de pena e está fundamentada em elementos concretos que indicam o "fumus comissi delicti" e o "periculum libertatis" (HC n. 820.718/RS, Ministra Daniela Teixeira, Quinta Turma, DJe de 23/12/2024).
+Em face do exposto, nego provimento ao recurso.
