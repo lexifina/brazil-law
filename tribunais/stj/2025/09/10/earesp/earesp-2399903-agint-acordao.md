@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 04/09/2025 a 10/09/2025, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Nancy Andrighi.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DISCUSSÃO QUANTO À REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. NÃO CABIMENTO. SÚMULA 315/STJ.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do re curso especial ou do agravo em recurso especial. Aplicação, por analogia, da Súmula 315/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGUI
+Examina-se agravo interno interposto por SPE - Deltaville Empreendimentos Ltda - contra decisão que indeferiu liminarmente os embargos de divergência.
+Ação: resolutória de contrato cumulada com condenatória de repetição de indébito" ajuizada por JANAÍNA STOPAZZOLLI EUGENIA em face de SPE - DELTAVILLE EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: de 07/05/2018, julgou parcialmente procedente o pedido, para o fim de limitar a retenção de valores pela Requerida ao máximo de 10% dos valores pagos pela Requerente, determinando, por via de consequência, a devolução a esta de 90% do valor adimplido.
+Acórdão: de 07/04/2022, negou provimento à apelação interposta por ambas as partes, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES E REVISÃO DE CONTRATO. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DE AMBAS AS PARTES. PRELIMINAR DE NULIDADE DA SENTENÇA PROFERIDA NA PENDÊNCIA DE AGRAVO DE INSTRUMENTO. INOCORRÊNCIA. SENTENÇA MERITÓRIA. PERDA DE OBJETO DO AGRAVO POR AUSÊNCIA SUPERVENIENTE DE INTERESSE RECURSAL. PRELIMINAR RECHAÇADA. MÉRITO. RESCISÃO CONTRATUAL. COBRANÇA PELA REQUERIDA DE 10% DOS VALORES PAGOS A TÍTULO DE CLÁUSULA PENAL, 10% DO VALOR TOTAL DO CONTRATO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS E 11% DO TOTAL DO CONTRATO POR DESPESAS COM PUBLICIDADE E IMPOSTOS. ABUSIVIDADE DAS CLÁUSULAS. REDUÇÃO PARA O PERCENTUAL DE 10% (DEZ POR CENTO) SOBRE O VALOR DAS PRESTAÇÕES PAGAS. IMPOSSBILIDADE DE ACOLHIMENTO DO PEDIDO CONTRAPOSTO DA RÉ. INSUBSISTÊNCIA. RETENÇÃO DO MONTANTE PAGO PARA QUITAR DÉBITOS DO IMÓVEL PELA RÉ. POSSIBILIDADE. CONSEQUÊNCIA LÓGICA DO RETORNO DAS PARTES AO STATUS QUO ANTE. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. EXEGESE DO ART. 85, §11, DO CÓDIGO DE PROCESSO CIVIL. RECURSOS CONHECIDOS E DESPROVIDOS.
+Embargos de declaração: opostos por SPE - Deltaville Empreendimentos Imobiliários Ltda, foram rejeitados (e-STJ fls. 998/1.001).
+Recurso especial: interposto por SPE Deltaville Empreendimentos Imobiliários Ltda. Alega violação dos arts. 32-A, I, II, da Lei n. 6.766/1979; 67-A, da Lei n. 4.591 /1964; 402, 409, 411, 421, parágrafo único, 421-A, 475, 884, 944, 1.196 e 1.204, do CC; 51, II e IV, do CDC; 489, § 1º, IV, 926, 927, IV, 1.022, I, II, e 1 .026, § 2º, do CPC e divergência jurisprudencial. Decisão de admissibilidade: não admitiu o recurso especial (e-STJ, fls. 769 /772), interpondo-se agravo em recurso especial.
+Acórdão embargado da Quarta Turma: publicado em 03/10/2024, manteve decisão do relator que negou provimento ao agravo em recurso especial, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMPRA E VENDA DE IMÓVEL. DESFAZIMENTO DO NEGÓCIO JURÍDICO POR CULPA DO COMPRADOR. DIREITO DE RETENÇÃO DE VALORES. CLÁUSULA PENAL. ABUSIVIDADE. REVISÃO. POSSIBILIDADE. VENDA DE LOTE NÃO EDIFICADO. COBRANÇA DE TAXA DE FRUIÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 7, 5 E 83 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste negativa de prestação jurisdicional quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. É possível a revisão da cláusula penal ajustada quando a sua aplicação mostrar-se manifestamente excessiva, tendo em vista a natureza e a finalidade do contrato.
+3. De acordo com a jurisprudência do Superior Tribunal de Justiça,não é possível a cobrança de verba indenizatória cumulada com penalidade de mesma natureza, salvo quando comprovados prejuízos superiores aos acobertados pela cláusula penal; além de ser inviável a cobrança de taxa de fruição no caso de lote não edificado, em razão da efetiva ausência de utilização do bem.
+4. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o acórdão recorrido configura deficiência na fundamentação e atrai a incidência das Súmulas n. 283 e 284 do STF.
+5. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+6. A incidência das Súmulas n. 5 e 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+7. A oposição de embargos declaratórios com a reiteração de argumentos já repelidos em decisões anteriores configura o caráter protelatório a ensejar a aplicação da multa do art. 1.026, § 2º, do CPC.
+8. Agravo interno desprovido. (e-STJ, fls. 921/922)
+Embargos de divergência: opostos em 24/10/2024, alegando haver divergência jurisprudencial entre o acórdão embargado e precedentes da Terceira Turma: EDcl no AgInt nos EDcl no AREsp n. 1.285.329/DF, Terceira Turma, DJe de 10/3/2023; REsp n. 2.024.829/SC, Terceira Turma, DJe de 10/3/2023; AgInt no REsp n. 1.872.803/SP, Terceira Turma, DJe de 21/9/2020; AgInt no REsp n. 1.959.759/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/5/2022, DJe de 4/5/2022; REsp n. 2.017.812/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 10/11/2022.
+Anota que os acórdãos embargado e paradigma divergem acerca do (I) percentual de retenção aplicável, em caso de desistência da promessa de compra e venda de imóvel; (II) cumulação de taxa de fruição com cláusula penal; (III) pertinência da taxa de fruição, tratando-se de terreno não edificado; (IV) caráter protelatório dos embargos de declaração, a fim de reconhecer o cabimento ou não da multa prevista no art. 1026, § 2º, do CPC.
+Decisão unipessoal: indeferiu liminarmente os embargos de divergência com fundamento na Súmula 315/STJ.
+Agravo interno: reitera a tese quanto à divergência entre os acórdãos embargado e paradigma, o que afastaria a aplicação da Súmula 315/STJ.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DISCUSSÃO QUANTO À REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. NÃO CABIMENTO. SÚMULA 315/STJ.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do re curso especial ou do agravo em recurso especial. Aplicação, por analogia, da Súmula 315/STJ.
+2. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGUI
+A decisão agravada indeferiu liminarmente os embargos de divergência com base na seguinte fundamentação (e-STJ fl. 1047):
+Assim, consoante a jurisprudência da Corte Especial do STJ, "não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, cujo entendimento se alinha ao disposto no art. 1.043, incisos I e III do CPC" (AgInt nos EAREsp 1.746.628/SP, Corte Especial, DJe de 20/04/2022).
+Na hipótese dos autos, o acórdão embargado proferido pela Quarta Turma manteve a decisão do relator que negou provimento ao agravo em recurso especial, incidente as Súmulas 5 e 7/STJ, 283 e 284/STF.
+Portanto, como a controvérsia devolvida nos presentes embargos de divergência sequer teve o mérito analisado no acórdão embargado, o presente recurso não deve ser conhecido, ausente pressuposto objetivo de admissibilidade.
+ ..
+Forte nessas razões, com fundamento nos arts. 932, III, do CPC e 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Pela análise das razões recursais apresentadas, contudo, verifica-se que o agravante não trouxe qualquer argumento apto a modificar a conclusão da decisão agravada, no sentido da inadmissibilidade dos embargos de divergência.
+Com efeito, à luz do art. 1.043, § 2º, do CPC/2015, é certo que os embargos de divergência podem veicular questão de direito material ou de direito processual.
+Contudo, cuidando-se de questão de direito processual, o que se admite no âmbito dos embargos de divergência é a resolução de dissenso interno do Superior Tribunal de Justiça acerca da interpretação de norma processual em sua moldura abstrata, sendo incabível questionar, nessa seara, a aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial à hipótese concreta dos autos.
+Nesse sentido se firmou a pacífica jurisprudência deste Tribunal, que entende aplicável em situações tais, por analogia, o óbice da Súmula 315/STJ.
+A propósito, confiram-se, exemplificativamente, os seguintes julgados:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE CUMPRIMENTO DE REGRA TÉCNICA. VÍCIO SUBSTANCIAL INSANÁVEL. ANÁLISE DA CONTROVÉRSIA. NÃO OCORRÊNCIA. SÚMULA 315, STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "A Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento. Assim, a não apresentação de algum desses elementos na interposição do recurso caracteriza desrespeito à regra técnica para o seu conhecimento, o que constitui vício substancial insanável" (AgInt nos EAREsp n. 1.950.564/MS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe de 16.6.2023).
+2. Nos termos do art. 1.043, III, do CPC, cabem embargos de divergência em face de acórdãos que tenham apreciado o mérito da controvérsia recursal, ainda que um não tenha sido conhecido. Exige-se, contudo, efetiva apreciação da controvérsia.
+3. Agravo interno ao qual se nega provimento.
+(AgInt nos EAREsp n. 2.584.492/GO, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 19/3/2025, DJEN de 25/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO NÃO DEMONSTRADO. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 315 DO STJ. AUSÊNCIA DE ATUALIDADE/CONTEMPORANEIDADE DO ARESTO PARADIGMA.
+1. Revela-se inviável rever, em embargos de divergência, o conhecimento do recurso especial, uma vez que o agravo em recurso especial não foi conhecido em decorrência dos óbices das Súmulas n. 7/STJ e 284/STF, bem como da não demonstração da divergência jurisprudencial.
+2. Aplica-se ao caso dos autos a Súmula n. 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não
+3. De acordo com a jurisprudência pacífica desta Corte, deve a parte embargante apontar julgados contemporâneos ao acórdão embargado ou então supervenientes a este, o que não ocorreu no presente caso, uma vez que o paradigma colacionado foi publicados em 2002.
+Agravo interno improvido.
+(AgInt nos EAREsp n. 2.438.275/SP, relator Ministro Humberto Martins, Corte Especial, julgado em 25/2/2025, DJEN de 5/3/2025.)
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
