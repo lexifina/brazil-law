@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Antônio Augusto Marques da Silva, desafiando decisão do Tribunal Regional Federal da 4ª Região, que não adm itiu o recurso especial interposto pela parte ora agravante tendo em vista que "a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça" (fl. 99).
+Nas razões de agravo em apelo raro, a parte agravante sustenta, em síntese, que "apreciação da violação ao artigo 833, inciso IV, § 2º do CPC no caso em tela, não é necessário o revolvimento das provas carreadas aos autos, uma vez que se trata de questão exclusivamente de direito", que "a decisão recorrida sequer mencionou ou justificou, qual seria o fato que implicaria no revolvimento do conjunto probatório", que "basta a simples revaloração da conclusão jurídica adotada com base no delineamento fático fornecido pelo próprio acórdão recorrido", que "a decisão de primeiro grau também delineou os fatos de forma suficiente, para permitir o conhecimento e julgamento do recurso especial", e que "os fatos estão bem delineados no acórdão recorrido, (..) ou seja, decidir se os créditos oriundos de ação relativa a benefício previdenciário, de diferença de vencimentos, subsídios, soldos, ou salários recebidos cumulativamente, tem a sua natureza alimentar descaracterizada, o que, em tese permitiria a penhora dos mesmos" (fls. 118/119).
+Contraminuta à fl. 134.
+É O NECESSÁRIO RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugna r a totalidade dos motivos adotados pelo Tribunal de origem par a negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
