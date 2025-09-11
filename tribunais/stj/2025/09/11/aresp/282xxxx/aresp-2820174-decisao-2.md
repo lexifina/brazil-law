@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por LETICIA JOVENTINA RAMOS PEREIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1519701-04.2019.8.26.0228 (fls. 559/571).
+No recurso especial, a agravante requer o reconhecimento da nulidade de prova em razão da ilegalidade da busca pessoal e, consequentemente, sua absolvição, ou subsidiariamente, ajustes na pena (fls. 580/599).
+Apresentadas as contrarrazões, o Tribunal de origem não admitiu o recurso com suporte no óbice da Súmula 7/STJ e na impossibilidade de verificação de violação constitucional via recurso especial (fls. 663/665).
+O Ministério Público Federal apresentou parecer opinando pelo provimento do recurso especial com extensão dos efeitos à corré Talita (fls. 729/748).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade.
+Quanto à tese da nulidade da prova, baseada na ausência de justa causa para busca domiciliar, assim se manifestou a instância ordinária (fl. 563):
+ ..
+De toda sorte, anote-se que as Apelantes autorizaram a entrada na residência, resultando a diligência na apreensão de produtos ("cocaína" e "maconha"), além de balança de precisão e eppendorfs vazios, de modo que o caso dispensa saneamento e afasta a pretendida declaração de nulidade da prova.
+ ..
+Diante do quanto exposto no trecho acima transcrito, tem-se que se verifica ilegalidade na conduta perpetrada pelos policiais, notadamente diante da entrada em domicílio que as acusadas nem sequer reconhecem como sendo delas, sendo que a versão delas é de que os policiais entraram no imóvel com chave própria, e que elas não conheciam o imóvel.
+Conforme a atual jurisprudência do Superior Tribunal de Justiça, é assente no sentido de que a prova da legalidade e da voluntariedade do consentimento para o ingresso na residência do suspeito incumbe, em caso de dúvida, ao Estado, e deve ser feita com declaração assinada pela pessoa que autorizou o ingresso domiciliar, indicando-se, sempre que possível, testemunhas do ato. Em todo caso, a operação deve ser registrada em áudio-vídeo e preservada tal prova enquanto durar o processo  .. " (HC n. 608.405/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/4/2021, DJe 14/4/2021 - grifo nosso).  ..  Como não ficou devidamente comprovada a legalidade do acesso direto dos agentes policiais na residência do Acusado, não há outro caminho senão reconhecer a nulidade das provas obtidas por este meio de prova.  ..  Tal nulidade, ocorrida ainda no início da fase investigatória, contaminou todas as demais provas produzidas, que são delas derivadas, impondo-se a anulação integral do processo e absolvição do Agravado, nos termos do art. 386, inciso II, do Código de Processo Penal, pela ausência de provas válidas da existência do fato (AgRg no AREsp n. 1.842.493/AM, Ministra Laurita Vaz, Sexta Turma, DJe de 31/8/2022).
+É nula, portanto, a busca domiciliar questionada nos autos.
+Uma vez reconhecida a ilegalidade da busca inicial, todas as provas dela derivadas devem ser igualmente consideradas nulas nos termos do art. 157, §§ 1º e 2º, do Código de Processo Penal, o que impõe a absolvição do recorrente por insuficiência de provas.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, reconhecendo a nulidade de todas as provas obtidas ilicitamente, bem como das provas delas derivadas, determinando-se a absolvição da recorrente com fundamento no art. 386, II, do Código de Processo Penal, por insuficiência de provas, estendendo os efeitos da presente decisão também à corré Talita Regina Arcanjo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS (80 G DE MACONHA E 39 G DE COCAÍNA). TESE DE NULIDADE. PROVAS ILÍCITAS. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. BUSCA PESSOAL. JUSTA CAUSA NÃO DEMONSTRADA PELA INSTÂNCIA ORDINÁRIA. EXTENSÃO DOS EFEITOS À CORRÉ QUE SE IMPÕE. ART. 580 DO CPP.
+Agravo conhecido para dar provimento ao recurso especial, com extensão de efeitos à corré Talita Regina Arcanjo .
