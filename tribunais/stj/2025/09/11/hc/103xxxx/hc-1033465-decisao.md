@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RONNIE ANTONIO FERREIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL no julgamento da Revisão Criminal n. 1413495-48.2025.8.12.0000, que manteve o regime inicial semiaberto para desconto da pena de 3 anos, 4 meses e 15 dias de reclusão, imposta ao paciente pela prática do crime do art. 161, § 1º, IV, da Lei n. 10.826/2003 (porte de arma de uso restrito), em virtude dos maus antecedentes e da reincidência do réu (e-STJ fls. 14/18).
+No presente writ, a defesa requer (e-STJ fls. 12/13):
+a) A concessão da liminar inaudita autera pars, para fins de suspender o processo de execução da pena nº 6002042-67.2024.8.12.0001, em trâmite na 2ª Vara de Execução em Meio Semiaberto do Interior, até o julgamento do mérito da Revisão Criminal nº 1413495-48.2025.8.12.0000;
+b) Após isso, que sejam solicitadas informações a autoridade coatora, remetendo-se posteriormente este writ para a Procuradoria de Justiça com a finalidade de que verta o seu parecer;
+c) No mérito, a concessão da ordem, com a confirmação dos efeitos da medida liminar aqui pleiteada, mantendo-se a suspenção do processo de execução da pena nº 6002042-67.2024.8.12.0001, em trâmite na 2ª Vara de Execução em Meio Semiaberto do Interior, até o julgamento do mérito da Revisão Criminal nº 1413495-48.2025.8.12.0000, perante o E. Tribunal de Justiça do Estado de Mato Grosso do Sul;
+É, em síntese, o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Todavia, não é essa a situação dos autos, tendo em vista que o recrudescimento do regime deu-se em virtude dos antecedentes - "A condenação anterior por contravenção penal pode ser considerada como maus antecedentes para fins de exasperação da pena-base. 2. O prazo depurador de 5 anos do art. 64, inciso I, do Código Penal, aplica-se exclusivamente para fins de reincidência, não limitando a configuração de maus antecedentes" (AgRg no REsp n. 2.181.577/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025) - e da reincidência do paciente, circunstâncias idôneas a tal desiderato, em que pese o quantum de pena.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS DOSIMETRIA. APLICAÇÃO DO TRÁFICO PRIVILEGIADO. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. INCIDÊNCIA DA SÚMULA 7/STJ. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO RECORRIDO.
+I - As premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos do Enunciado Sumular n. 7/STJ, segundo o qual "a pretensão de simples reexame de prova não enseja recurso especial".
+II - O deferimento do regime semiaberto se dá desde que preenchidos os requisitos constantes do art. 33, §§ 2º e 3º, c. c. o art. 59, ambos do Código Penal, quais sejam, a ausência de reincidência, a condenação por um período entre 4 (quatro) e 8 (oito) anos de reclusão e a inexistência de circunstâncias judiciais desfavoráveis, o que não é o caso dos autos.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.162.669/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
