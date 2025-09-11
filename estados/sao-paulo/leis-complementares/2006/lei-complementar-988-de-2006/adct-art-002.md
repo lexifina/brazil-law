@@ -1,0 +1,2 @@
+Artigo 2° - A eleição do Defensor Público-Geral do Estado será realizada em prazo não inferior a 90 (noventa) e nem superior a 120 (cento e vinte) dias, contados da promulgação desta lei complementar, pelo voto dos Defensores Públicos de que trata o artigo 3° destas Disposições Transitórias.
+Parágrafo único - Encerrada a eleição do Defensor Público-Geral do Estado, deverá ser deflagrado, no prazo de 30 (trinta) dias contados de sua posse, procedimento de abertura de concurso de ingresso dos membros e servidores da Defensoria Pública do Estado.

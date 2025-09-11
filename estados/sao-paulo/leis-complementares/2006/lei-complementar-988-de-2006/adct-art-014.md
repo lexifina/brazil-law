@@ -1,0 +1,1 @@
+Artigo 14 - Sobrevindo mudança do Município onde exerce suas funções, decorrente de posse, remoção compulsória ou remoção qualificada, o Defensor Público fará jus a uma ajuda de custo em valor máximo equivalente a 30 (trinta) diárias integrais, para ressarcir despesas de viagem e nova instalação.

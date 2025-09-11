@@ -1,0 +1,1 @@
+Artigo 7° - Enquanto não for fixado o subsídio a que se refere o artigo 39, § 4°, da Constituição Federal, a retribuição pecuniária dos integrantes da carreira de Defensor Público obedecerá às normas destas disposições transitórias.

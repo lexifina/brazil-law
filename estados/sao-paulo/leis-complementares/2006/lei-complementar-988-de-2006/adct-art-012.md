@@ -1,0 +1,1 @@
+Artigo 12 - O Defensor Público fará jus ao adicional por tempo de serviço, calculado à razão de 5% (cinco por cento) por qüinqüênio, sobre o valor dos respectivos vencimentos, observado o disposto no artigo 37, inciso XIV, da Constituição Federal.
