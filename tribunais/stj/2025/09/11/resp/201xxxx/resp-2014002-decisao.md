@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por LOJA DE CONVENIÊNCIAS LÍVIA LTDA., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de ação de produção antecipada de provas. O julgado foi assim ementado (fls. 813-814):
+EMENTA: APELAÇÃO CÍVEL - PRODUÇÃO ANTECIPADA DE PROVA - PRELIMINAR DE NULIDADE DA SENTENÇA - AUSÊNCIA DE FUNDAMENTAÇÃO - REJEITAR - PERÍCIA CONTÁBIL - REQUISITOS - NECESSIDADE - AUSÊNCIA DE PERICULUM IN MORA.
+- Não há falar-se em nulidade da sentença por negativa de prestação jurisdicional ou ausência de fundamentação, pois foi justificado o posicionamento adotado e declinadas as razões de decidir.
+- É pressuposto da Produção Antecipada de Prova o periculum in mora, o qual não se observa presente no pedido de realização de perícia contábil para apurar supostas ilegalidades nos contratos financeiros celebrados junto ao Apelado.
+Os embargos de declaração opostos foram rejeitados (fls. 841-846).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, § 1º, caput, I e IV, do CPC, porquanto o acórdão recorrido não enfrentou todos os argumentos por si deduzidos, mormente de que a pretensão de produção antecipada de prova foi postulada com base nos incisos II e III do art. 381 do CPC, que não exigem demonstração do requisito do periculum in mora; e
+b) 381, II e III, do CPC, visto que o acórdão recorrido exigiu indevidamente o periculum in mora para a produção antecipada de provas.
+Sustenta que o Tribunal de origem, ao entender pela ausência de nulidade da sentença por ausência de fundamentação, divergiu de entendimento do próprio Tribunal de Justiça do Estado de Minas Gerais, no sentido de declarar a nulidade nos casos em que a decisão não enfrenta devidamente as questões suscitadas pela recorrente (Apelação Cível n. 1.0000.18.147064-2/005; Agravo de Instrumento n. 1.0000.21.146067-0/001; e Apelação Cível n. 1.0000.19.081996-1/001).
+Alega ainda divergência jurisprudencial no tocante a exigência do requisito do periculum in mora para a produção antecipada de provas, apontando julgados em sentido diverso do Tribunal de Justiça do Estado de Minas Gerais (Apelação Cível n. 1.0000.19.077772-2/001) e do Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 1001346-93.2018.8.26.008).
+Requer o provimento do recurso para que se anule o acórdão recorrido, por violação do art. 489 do CPC, ou para que se reforme o acórdão recorrido, permitindo o processamento da produção antecipada de provas.
+Não foram apresentadas contrarrazões, conforme a certidão às fls. 978-979.
+O recurso especial foi admitido (fls. 980-981).
+É o relatório.
+A controvérsia diz respeito à ação de produção antecipada de provas em que a parte autora pleiteou a produção de prova pericial contábil para verificar incongruências em transações financeiras realizadas com as requeridas.
+Na sentença, o Juízo de primeiro grau extinguiu o processo sem resolução de mérito.
+A Corte estadual manteve a sentença.
+I - 489, § 1º, caput, I e IV, do CPC
+No recurso especial, alega a parte recorrente que o acórdão recorrido não enfrentou todos os argumentos por si deduzidos, mormente de que a pretensão de produção antecipada de prova foi postulada com base nos incisos II e III do art. 381 do CPC, que não exigem demonstração do requisito do periculum in mora.
+O Tribunal de origem consignou que um dos pressupostos para a produção antecipada de provas (art. 381, I, II e III, do CPC) é o periculum in mora, ou seja, o fundado receio de que a verificação dos fatos se torne impossível ou muito difícil na pendência da ação principal, concluindo pela ausência do interesse de agir do autor, por ausência de demonstração de que a prova pericial contábil pretendida é perecível. Confira-se (fls. 815-816):
+O pedido de produção antecipada de prova, como no caso dos autos, encontra-se previsto nos incisos I, II e III do artigo 381 do CPC:
+ ..
+Na espécie, o Autor/Apelante pretende:
+"a produção antecipada da prova pericial (nomeando-se para tanto perito contador, economista ou administrador de confiança deste juízo) a fim de atestar cabalmente as incongruências acima apontadas, o que justificará ou evitará o ajuizamento de ação própria ou mesmo viabilizará outro meio adequado de solução do conflito".
+Para o deferimento do pleito deve estar presente o interesse de agir, o qual requer a existência concomitante de dois requisitos: a utilidade e a necessidade do provimento judicial requerido.
+Na espécie, verifica-se a ausência do interesse de agir do Autor/Apelante, porque não fez a prova do perigo de dano ou o risco ao resultado útil do processo ("periculum in mora") e a probabilidade do direito que se objetiva assegurar ou realizar.
+Para a produção antecipada da prova, satisfativa e exauriente, se exige o cumprimento dos pressupostos elencados no art. 381 supratranscrito.
+O pleito de produção antecipada de prova deve atender aos requisitos das medidas cautelares em geral, ou seja, ao fumus boni iuris e ao periculum in mora, ressalvada uma peculiaridade quanto a este último pressuposto.
+ ..
+Analisando os autos não se vislumbra o risco alegado pela Apelante.
+Como a prova pericial pretendida é contábil, a recair sobre valores cobrados em contratos de abertura de crédito, não se pode considerá-la perecível.
+Assim, deve ser mantida a sentença de indeferimento da inicial.
+Afasta-se a alegada ofensa ao art. 489, § 1º, caput, I e IV, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Nesse sentido: REsp n. 2.166.999/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2025, DJEN de 26/3/2025; EDcl no AgInt no REsp n. 1.925.562/SP, relator Ministro Marco Buzzi, Quarta Turma, julgados em 17/3/2025, DJEN de 24/3/2025; AgInt no REsp n. 2.152.327/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.
+No tocante ao apontado dissídio, constata-se que os acórdãos paradigmas destacados pela parte recorrente (Apelação Cível n. 1.0000.18.147064-2/005 e Agravo de Instrumento n. 1.0000.21.146067-0/001) são oriundos do próprio Tribunal de origem, o que atrai a incidência do óbice da Súmula n. 13 do STJ.
+II - 381, II e III, do CPC
+A parte recorrente defende que para a produção antecipada de provas com base nos incisos II e III do art. 381 do CPC - quando a prova a ser produzida seja suscetível de viabilizar a autocomposição ou outro meio adequado de solução de conflito e o prévio conhecimento dos fatos possa justificar ou evitar o ajuizamento de ação - não exigem que haja fundado receio de que venha a tornar-se impossível ou muito difícil a verificação de certos fatos na pendência da ação, requisito apenas para a hipótese do inciso I do mesmo dispositivo legal.
+No caso em análise, o Tribunal a quo, como visto no tópico antecedente, afirmou que para o deferimento do pedido de produção antecipada de provas formulado pela parte autora, exige-se a constatação de perigo de dano ou risco ao resultado útil do processo.
+Ao que se depreende do pedido formulado na inicial, transcrito no acórdão, pretende a autora produção antecipada da prova pericial com o objetivo de atestar possíveis incongruências nos lançamentos oriundos da relação contratual existente entre as partes, que poderá justificar ou evitar ajuizamento de ação ou viabilizar outro meio para solução do conflito.
+Nesse cenário, consoante jurisprudência do STJ, "esta ação probatória autônoma não exige, necessariamente, que a produção da prova se apresente em situação de risco, podendo ser utilizada, inclusive, para evitar o ajuizamento de uma futura ação, seja pela constatação, a partir da prova produzida, da ausência de direito passível de tutela, seja para viabilizar a composição entre as partes. A ação de produção antecipada de prova, especificamente nas hipóteses estabelecidas nos incisos II e III do art. 381 do CPC/2015, apresenta-se, desse modo, absolutamente desvinculada da natureza cautelar ou de caráter de urgência (concebida como o risco de perecimento do direito à prova)" (REsp n. 2.023.615/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/3/2023, DJe de 20/3/2023, destaquei).
+No mesmo sentido: CC n. 197.434/SP, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 5/10/2023, DJe de 10/10/2023 e REsp n. 1.803.251/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/10/2019, DJe de 8/11/2019.
+A premissa adotada pelo Tribunal de origem pela necessidade de demonstração de perigo de dano ou risco ao resultado útil do processo para o ajuizamento da ação de produção antecipada de provas, com espeque no art. 381, II e III, do CPC, contraria a jurisprudência do STJ de que a pretensão de produção antecipada de prova, nessas hipóteses, dispensa o requisito da urgência. Caso, pois, de incidência da Súmula n. 568 do STJ.
+III - Conclusão
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento para reformar o acórdão recorrido e determinar o prosseguimento do feito na origem.
+Publique-se. Intimem-se.
+ EMENTA
