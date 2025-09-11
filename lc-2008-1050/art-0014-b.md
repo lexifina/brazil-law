@@ -1,0 +1,2 @@
+Artigo 14-B - O servidor da Defensoria Pública designado para proferir aula na Escola de Defensoria Pública do Estado, ou em entidades conveniadas, fará jus à gratificação de magistério, desde que a entidade não o remunere diretamente. (NR)
+Parágrafo único - O valor máximo da hora-aula será equivalente àquela prevista no parágrafo único do artigo 18 das Disposições Transitórias da Lei Complementar n° 988, de 09 de janeiro de 2006, a ser regulamentado por ato do Defensor Público-Geral. (NR)
