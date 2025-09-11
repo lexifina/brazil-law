@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, embargos de declaração opostos por BENHUR ANTONIO DE BARROS, em face de decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, haja vista a inexistência de violação aos arts. 489 e 1.022 do CPC e a incidência do óbice da Súmula 7 deste STJ.
+A parte embargante alega, em síntese, a existência de omissão na decisão embargada, justificando que o recurso não busca reexaminar provas, mas sim adequar os fatos reconhecidos no acórdão combatido ao entendimento deste STJ sobre a matéria. Nesse sentido, argumenta:
+ ..  a prisão é questão incontroversa, a qual já foi até reconhecida na via administrativa e, obviamente, não refutada na via judicial, quer pela parte contrária, quer pelo Judiciário - situação registrada no voto do Tribunal de Origem. Desse modo, pertinente o aprofundamento e verdadeiramente necessária a adequação da decisão embargada, suprindo a omissão relacionada à "VIOLAÇÃO AOS ARTS. 489, § 1º e 1.022 do CPC", tal como apresentado no recurso e aqui sintetizado (fl. 954).
+Impugnação apresentada.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes deduzido na minuta e na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios devem ser limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, como assentado na decisão embargada, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma ampla e fundamentada, suficiente para respaldar a conclusão alcançada, consignando que "as provas anexadas aos autos são frágeis e insuficientes para reconhecer a condição de anistiado político por perseguição na época da ditadura militar, especialmente diante do indeferimento da Comissão de Anistia acerca do pedido do autor, face à ausência de prova hábil à efetividade da aplicação da Lei de Anistia à espécie".
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
