@@ -1,0 +1,12 @@
+DECISÃO
+LEONARDO PAULO SOARES SANTOS DO NASCIMENTO ajuíza esta reclamação contra decisão proferida pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Nova Iguaçu - RJ, que haveria descumprido a decisão proferida no HC n. 936.236/RJ, que haveria mantido o monitoramento eletrônico.
+Em suas razões, sustenta o reclamante que " o  monitoramento eletrônico visível impede sua contratação em estabelecimentos comerciais; sofre estigmatização social; enfrenta abalo psicológico e prejuízos à saúde mental; Está privado do pleno exercício do direito ao trabalho e à dignidade da pessoa humana" (fl. 4), o importaria no descumprimento da decisão proferida no RHC n. 182.445/MG.
+Entretanto, a reclamação, de previsão constitucional (art. 105, I, "f", CF), é o instrumento hábil para preservar a competência ou garantir a autoridade das decisões proferidas por esta Corte, nos casos que lhe são submetidos. Não se destina, portanto, a impugnar eventual decisão proferida pelas instâncias ordinárias que haja sido contrária ou não haja atendido aos interesses da parte.
+Vale dizer, não serve para ser utilizada inadequadamente como sucedâneo recursal (v.g. Edcl na Rcl n. 6.885/DF, relatora Ministra Laurita Vaz, DJe 21/11/2011 e AgRg na Rcl n. 5.240/SP, relatora Ministra Maria Thereza de Assis Moura, DJe 15/6/2011, entre outros).
+Deveras, no caso, observa-se que a decisão proferida no HC n. 936.236/RJ, em sua parte dispositiva, concedeu a ordem para determinar a imposição de medidas cautelares alternativas, entre as quais o monitoramento eletrônico.
+Tal determinação foi cumprida pelo Magistrado de primeio grau, que decidiu: "não há alteração no quadro fático que justifique, nesse momento, a revogação da medida cautelar que, ressalte-se, decorre de decisão proferida pelo Superior Tribunal de Justiça. Assim, as medidas cautelares devem ser mantidas até o trânsito em julgado da sentença" (fl. 15).
+Ou seja, além da decisão que permitiu o apelação em liberdade trata-se de novo título judicial (a decisão des superiot Tribunal foi anterior ao édito condenatório) - situação que até poderia justificar eventual modificação nas medidas cautelares impostas -, observa-se que o Magistrado ainda manteve a decisão concessiva de habeas corpus, nos mesmos termos que proferida por esta Corte.
+Ante o exposto, por não constatar nenhuma das hipóteses constitucionais de cabimento, nos termos do art. 34, XVIII, "a" do RISTJ, não conheço in limine desta reclamação.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
