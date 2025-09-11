@@ -1,0 +1,17 @@
+DECISÃO
+ALESSANDRO VIANA ROCHA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n. 1513168-87.2023.8.26.0228).
+Consta dos autos que o paciente foi denunciado e condenado à pena de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa sustenta a fragilidade dos depoimentos dos policiais e o cabimento da extensão da decisão proferida em favor do corréu Leandro, por este Tribunal Superior, no âmbito do ARESP n. 2.791.130/SP, com a desclassificação para o crime do art. 28 da Lei n. 11.343/2006.
+O Ministério Público Federal opinou pela conversão em diligência para solicitar informações ao juízo de primeiro grau, com nova vista subsequente para manifestação (fls. 98-101).
+Decido.
+A inicial, distribuída em 24/8/2025, aponta que o writ foi impetrado contra decisão transitada em julgado - o que, conforme consulta ao sítio eletrônico do Tribunal de origem, ocorrera, para o paciente, em 22/6/2024.
+Entretanto, não há notícia nestes autos de que tenha sido ajuizada a competente revisão criminal.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Assim, conforme já decidi no âmbito do HC n. 928.603/SP, impetrado contra o mesmo acórdão em favor do mesmo paciente , o impetrante deve apresentar o pedido cabível, direcionando-o à autoridade que tem atribuição para decidir sobre a questão, em primeiro lugar, notadamente porque a defesa deixou de solicitar ao Tribunal de Justiça a revisão de condenação.
+Sem existir acórdão em revisão criminal, é incabível eventual constatação de manifesta ilegalidade em seu conteúdo, máxime se considerado que não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, § 2º, do CPP). Menciono, por oportuno:
+ ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual  ..  (AgRg no HC n. 713.747/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 24/2/2022).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, relatora Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, relator Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, relator Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Por outro lado, o pedido de extensão entabulado na inicial e, novamente, a fls. 103-105, deve ser formulado nos próprios autos em que lançada a decisão cujos efeitos pretende usufruir o paciente, não constituindo o remédio heroico a via adequada para tanto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
