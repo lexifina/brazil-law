@@ -1,0 +1,12 @@
+DECISÃO
+SILVIO PAULO DOS SANTOS alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo.
+A defesa informa que o paciente cumpre pena pelos crimes de homicídio duplamente qualificado e ocultação de cadáver. Em 23/5/2025, o reeducando pediu a progressão ao regime aberto, mas o pedido foi condicionado à realização de exame criminológico. Segundo a defesa, já se passaram quase três meses sem a realização da perícia, e o preso não pode ser responsabilizado pela ausência de profissionais no sistema carcerário.
+Requer seja reconhecido o excesso de prazo e determinada a imediata análise do pedido de progressão ao regime aberto, independentemente do exame criminológico.
+Decido.
+Quanto à exigência do exame criminológico para a análise do pedido de progressão de regime, verifico que o Tribunal de origem não decidiu a controvérsia, uma vez que "o agravo em execução seria o instrumento processual adequado para impugnar decisão desfavorável ao paciente, proferida em incidente de execução de pena" (fl. 17).
+Além da indevida supressão de instância, considero incabível a concessão da ordem, de ofício, pois, a teor dos julgados desta Corte, "a exigência de exame criminológico para progressão de regime é válida quando fundamentada na gravidade concreta do delito e na alta periculosidade do apenado, conforme Súmula n. 439 do STJ" (AgRg no HC n. 977.977/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2025, DJEN de 2/7/2025).
+Não há prazo indicado por lei para regular o tempo em que o exame criminológico deve ser realizado, o que deve ser feito com a maior brevidade, a fim de se evitar maiores prejuízos ao preso. No caso, contudo, o período de espera ainda se mostra razoável, pois a decisão que determinou o estudo foi prolatada em 11/6/2025, há menos de três meses. Assim, não se configura, por ora, manifesto constrangimento ilegal.
+Deveras, "a jurisprudência pacífica desta Corte considera que o excesso de prazo não pode ser aferido apenas por critério cronológico, devendo-se aplicar juízo de razoabilidade diante das peculiaridades do caso concreto" (AgRg no RHC n. 214.014/PR, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+À vista do exposto, denego o habeas corpus. Recomendo ao Juízo da VEC que adote providências junto à unidade prisional para assegurar a célere realização do exame criminológico.
+Publique-se e intimem-se.
+EMENTA
