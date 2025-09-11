@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BJORN AMAURI TRISTÃO DE TREUDT contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, no julgamento da Apelação Criminal n. 0001560-97.2012.8.24.0135.
+Extrai-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 71/81).
+Contra a sentença, a defesa interpôs recurso de apelação, pleiteando a desclassificação do delito para o previsto no art. 28 da Lei n. 11.343/2006, ou, subsidiariamente, a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da mesma lei. O Tribunal a quo, no entanto, negou provimento ao recurso, mantendo a condenação nos termos da sentença (e-STJ fls. 27-39).
+O acórdão recorrido traz a seguinte ementa:
+"APELAÇÃO CRIMINAL. CRIME CONTRA A SAÚDE PÚBLICA. TRÁFICO ILÍCITO DE ENTORPECENTES (ART. 33, CAPUT, DA LEI 11.343/06). RECURSO DEFENSIVO. PRETENDIDA DESCLASSIFICAÇÃO PARA A PRÁTICA TIPIFICADA NO ART. 28 DA LEI N. 11.343/06. IMPOSSIBILIDADE DIANTE DAS CIRCUNSTÂNCIAS FÁTICAS. MANUTENÇÃO DA CONDENAÇÃO POR TRÁFICO DE DROGAS. PRETENDIDA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA CONTIDA NO ART. 33, § 4.º, DA LEI N. 11.343/06. INVIABILIDADE. VARIEDADE DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS SOBEJADAMENTE COMPROVADA. RECURSO DESPROVIDO."
+No presente mandamus (e-STJ fls. 2-26), a defesa aponta constrangimento ilegal na manutenção da condenação, argumentando que a quantidade de droga apreendida (4,1 g, sendo 2 g de crack, 1,3 g de cocaína e 0,8 g de maconha) é ínfima e insuficiente para caracterizar o tráfico, além de não haver flagrante de mercancia ou elementos que comprovem a traficância, como balança de precisão, cadernos de anotações ou petrechos típicos.
+Alega, assim, que a condenação foi baseada em suposições e ilações, sem provas robustas que demonstrem a prática do tráfico, e que a conduta do paciente se amoldaria ao art. 28 da Lei n. 11.343/2006.
+Ao final, requer, liminarmente, a revogação do mandado de prisão expedido contra o paciente, para que ele possa aguardar o julgamento deste writ em liberdade. No mérito, pede a concessão da ordem para desclassificar a conduta do paciente para o crime previsto no art. 28 da Lei n. 11.343/2006, com a aplicação das sanções administrativas cabíveis.
+É o relatório. Decido.
+Verifico que a irresignação manifestada no presente habeas corpus tem por objeto tema suscitado no HC n. 1.031.525/SC, anteriormente impetrado pela defesa do paciente. Naquela oportunidade, esta Corte concluiu pelo não conhecimento do writ, ante a preclusão da matéria, em razão do grande lapso temporal entre a data do julgamento do acórdão impugnado e a impetração do habeas corpus nesta Corte (mais de 5 anos).
+Assim, trata-se de hipótese de mera reiteração de insurgência já devidamente apreciada, revelando-se incabível nova impetração para tratar do mesmo tema. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT.
+3. Agravo regimental não conhecido (AgRg no RHC 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem. (HC 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
