@@ -1,0 +1,34 @@
+DECISÃO
+WILDER SILVA DE OLIVEIRA agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso na Apelação Criminal n. 1003130-94.2024.8.11.0086.
+O agravante foi condenado pelo crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa alega violação do art. 33, § 4º, da Lei de Drogas, além de dissídio jurisprudencial.
+Requer a redução da reprimenda ante a incidência da minorante do tráfico privilegiado, ao argumento de que houve a dupla valoração da quantidade de drogas na primeira e terceira fases.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O Juízo singular afastou a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas pelos seguintes fundamentos (fls. 407-408, grifei):
+No caso dos autos, essa atuação do agente em prol de uma organização criminosa, ainda que em caráter esporádico, restou totalmente provada.
+A quantidade de drogas, de elevadíssimo valor econômico (que atingem precificação média estimada em cerca de R$ 17.000.000,00 (dezessete milhões de reais), somada ao planejamento e aos recursos envolvidos na ação criminosa, evidenciam, sem resquício algum de dúvida, que essa operação de transporte era orquestrada por uma organização criminosa.
+E ainda que estes autos não tenham revelado quem eram os seus integrantes ou há quanto tempo o réu estava envolvido com essa organização, é certo que ele conscientemente integrou tal organização, agindo inequivocamente em benefício dela, e gozando da sua confiança para o transporte de valiosíssima carga, pelo que entendo que a potencialidade lesiva da conduta do réu à sociedade também é incompatível com o benefício penal previsto pelo §4º do artigo 33 da Lei 11.343/06, que, por qualquer das duas razões, não deve ser aplicado no caso concreto.
+O Tribunal de origem manteve a negativa da causa de diminuição do tráfico, com base nos seguintes argumentos (fls. 513-514, destaquei):
+No caso dos autos, o juiz singular afastou a incidência do tráfico (art. 33, §4º, da Lei 11.343/2006) com base na quantidade e natureza da privilegiado droga, além dos indícios de envolvimento com organização criminosa e baseado nas circunstâncias em que ocorreu o crime.
+Com efeito, a expressiva quantidade de entorpecentes apreendidos (858,40 kg de skunk e 20,40 kg de pasta base de cocaína) demonstra que o réu não era um traficante eventual, mas sim alguém inserido na estrutura do tráfico em maior escala.
+Embora não tenha sido formalmente comprovada a sua participação em uma organização criminosa, o utilizado por ele, afasta a ideia de que modus operandis seria um mero transportador ocasional.
+Além disso, a vultosa quantidade de substância entorpecente (858,40 ) transportada pelo apelante exige uma kg de skunk e 20,40 kg de pasta base de cocaína pessoa articulada, que transmita controle e segurança da conduta, e pressupõe a confiança do membro do grupo criminoso ou agente que lhe incumbiu o transporte da carga ilícita, fatores que, somados, evidenciam certo profissionalismo na prática delitiva.
+ ..
+Por fim, importa ressaltar, ainda, que se tratando de situações como a dos autos, por meio do Incidente de Uniformização de Jurisprudência n. 101532/2015, este Tribunal firmou o Enunciado Orientativo n. 30 da TCCR/TJMT, consolidando que a forma de acondicionamento da droga é fundamento idôneo a evidenciar dedicação à atividade criminosa.
+ ..
+Portanto, não obstante o acusado seja primário, afigura-se incabível a aplicação da minorante referenciada, porquanto o transporte da substância entorpecente, nas circunstâncias em que ocorreram a sua apreensão, não se compatibiliza com a posição de quem não se dedica a atividades delituosas.
+Logo, não se revela cabível a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/06.
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Para tanto, salientou a instância de origem que e a "quantidade de drogas, de elevadíssimo valor econômico (que atingem precificação média estimada em cerca de R$ 17.000.000,00 (dezessete milhões de reais), somada ao planejamento e aos recursos envolvidos na ação criminosa, evidenciam, sem resquício algum de dúvida, que essa operação de transporte era orquestrada por uma organização criminosa" (fls. 407-408).
+Ressalte-se que a quantidade de drogas não foi empregada de forma isolada para negar o redutor, visto que foram consideradas outras circunstâncias concretas para concluir acerca da dedicação à atividade ilícita, consistente no planejamento e os recursos utilizados na prática delitiva.
+Ademais, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que o acusado não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada em recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
