@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em favor de RONALDO GOMES DOS SANTOS - preso preventivamente pela prática, em tese, do crime de tráfico de drogas -, no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2224351-48.2025.8.26.0000), comporta pronto acolhimento.
+Com efeito, busca a impetração a revogação da segregação cautelar imposta pelo Juízo de Direito da Vara Regional das Garantias da 37ª Região Administrativa Judiciária - Bauru/SP (Autos n. 1503307-02.2025.8.26.0392), ainda que mediante a imposição de outras medidas cautelares diversas da prisão. Sustenta que a decisão que decretou a prisão preventiva carece de fundamentação concreta, baseando-se apenas na gravidade abstrata do delito. Aduz, ainda, que o paciente é tecnicamente primário, possui residência fixa, trabalho registrado e é responsável por três filhos menores de 12 anos.
+Foram apreendidos 36,94 g de maconha (fl. 20).
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, asseverando o Magistrado de primeiro grau que há risco concreto de reiteração delitiva, pois o indiciado ostenta sentença condenatória transitada em julgado por crime da mesma espécie (fl. 95).
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e foi apreendida pequena quantidade de droga - 36,94 g de maconha -, circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro de minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Ante o exposto, concedo liminarmente a ordem para revogar a prisão cautelar imposta ao paciente, devendo o magistrado aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação do réu, sem prejuízo da decretação da prisão provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou da superveniência de motivos concretos para tanto.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REINCIDÊNCIA. PEQUENA QUANTIDADE DE DROGA APREENDIDA (36,94 G DE MACONHA). EXCEPCIONALIDADE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida, nos termos do dispositivo.
