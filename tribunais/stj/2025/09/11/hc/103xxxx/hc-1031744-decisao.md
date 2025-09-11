@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DOUGLAS MARCOS ARAÚJO COSTA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o Juízo de primeira instância condenou o paciente a 6 anos, 9 meses e 20 dias de reclusão em regime inicial fechado e ao pagamento de 675 dias-multa por tê-lo julgado culpado do crime previsto no art. 33, caput, c/c o art. 40, IV, ambos da Lei n. 11.343/2006, observada a agravante de reincidência prevista no art. 61, I, do CP. Entre outras disposições, a sentença condenatória manteve o paciente preso.
+A defesa alega que a manutenção da prisão preventiva do paciente caracterizaria constrangimento ilegal, uma vez que não haveria prova da suposta gravidade do modus operandi do delito e que a reincidência não seria motivo bastante para motivar a prorrogação da medida.
+Sustenta que os policiais militares responsáveis por sua prisão teriam forjado o flagrante e que não haveria prova de que a droga apreendida realmente pertenceria ao paciente.
+Ressalta que o paciente tem residência fixa, exerce atividade ilícita e tem vínculos familiares sólidos.
+Por essas razões, inclusive liminarmente, pede que seja determinada a soltura do paciente, com a imposição de medidas cautelares do art. 319 do CPP.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+A sentença condenatória manteve a prisão preventiva do paciente com base nos mesmos fundamentos do decreto prisional originário, uma vez que não houve "alteração das condições que determinaram a conversão da prisão em flagrante em preventiva" (fl. 42).
+De fato, a jurisprudência do Superior Tribunal de Justiça reconhece tranquilamente a legalidade da manutenção da prisão preventiva na sentença condenatória com remissão aos fundamentos da decisão que impusera a medida.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CORRUPÇÃO ATIVA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUFICIÊNCIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGAS. OFERTA DE VANTAGEM INDEVIDA. MAUS ANTECEDENTES. RISCO DE REITERAÇÃO DELITIVA. NEGATIVA DO DIREITO DE APELAR EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A CUSTÓDIA CAUTELAR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. A jurisprudência do Superior Tribunal de Justiça admite a referência aos fundamentos que justificaram a decretação da prisão preventiva do acusado na sentença, para negar-lhe o direito de recorrer em liberdade.
+3. No caso concreto, o decreto prisional evidenciou a gravidade concreta da conduta, extraída da quantidade de drogas apreendidas (424,39g de maconha) e pelo fato de um dos acusados haver oferecido vantagem indevida (R$ 1.895,00) aos policiais para que fossem liberados sem prisão, além dos maus antecedentes de um dos agravantes.
+4. É idônea a motivação invocada pelo Juízo de primeiro grau para embasar a ordem de prisão do paciente, porquanto evidenciou a gravidade em concreto da conduta praticada, consideradas a quantidade e a natureza do entorpecente apreendido.
+5. "O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+6. É cabível a manutenção da prisão preventiva quando o réu for condenado ao modo semiaberto de cumprimento de pena, desde que haja compatibilização da custódia com o regime fixado na sentença. No caso, segundo as instâncias ordinárias, os acusados estão em prisão preventiva compatível com o regime inicial fixado na sentença.
+7. Agravo regimental não provido.
+(AgRg no HC n. 993.470/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025, sem grifos no original.)
+No caso, a legalidade dos motivos determinantes da prisão preventiva do paciente já foi extensamente apreciada e reconhecida na decisão proferida no RHC n. 214.979/ MG, cujos fundamentos, com maior razão, permanecem válidos após a prolação da sentença condenatória.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
