@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. contra a decisão que inadmitiu recurso especial com fundamento na falta de demonstração da similitude fática e do ponto divergente entre as decisões paradigmas e o acórdão recorrido.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação Cível n. 0802250-94.2013.8.12.0005, nos autos de ação de execução.
+O julgado foi assim ementado (fl. 425):
+EMENTA - APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - PRELIMINAR (NULIDADE DE CITAÇÃO POR EDITAL) - REJEITADA - PRESCRIÇÃO INTERCORRENTE - OCORRÊNCIA - INÉRCIA DO EXEQUENTE - CONDENAÇÃO DA PARTE EXECUTADA EM HONORÁRIOS ADVOCATÍCIOS E CUSTAS - SENTENÇA MANTIDA REFORMADA - RECURSO CONHECIDO E DESPROVIDO. 1. Rejeita-se a preliminar, ventilada em contrarrazões, de que a citação por edital é nula, haja vista que o Juízo de 1ª instância requisitou informações sobre o endereço indicado em cadastros de órgãos públicos (BACENJUD, RENAJUD e INFOJUD). 2. Conforme entendimento adotado pelo STJ no R Esp n. 1.604.412/SC, incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado. 3. O curso do prazo prescricional volta a fluir independentemente de prévia intimação do credor para dar andamento ao feito, após o transcurso do prazo definido na decisão que a sobrestou ou após 01 (um) ano da suspensão, respeitando-se o contraditório. 4. Permanecendo o exequente inerte por mais de 05 anos, em se tratando de cédula de crédito bancário, correta a sentença que reconheceu a prescrição. 5. Tendo em vista que o credor restou vencido na demanda expropriatória, a qual foi extinta, deve responder pelas custas, não havendo o que se falar em condenação da parte adversa ao pagamento de honorários advocatícios. 6. Recurso conhecido e desprovido
+Nas razões do recurso especial, argumenta a parte agravante que o acórdão impugnado divergiu da orientação do Superior Tribunal de Justiça, conferindo interpretação divergente ao art. 921, III, §§ 1º e 4º, e 927 do CPC:
+a) prescrição intercorrente (acórdão paradigma IAC no REsp n. 1.604.412 - SC);
+Sustenta que o Tribunal de origem divergiu ao decidir que a prescrição intercorrente ocorre sem a suspensão do feito por ausência de bens, enquanto o acórdão paradi gma exige tal suspensão para o início da contagem do prazo prescricional.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando a prescrição intercorrente.
+Contrarrazões foram apresentadas (fls. 521-527).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de execução de título extrajudicial em que a parte autora pleiteou o pagamento de R$ 86.774,85, acrescido de correção monetária, juros moratórios e contratuais, além de multa, custas processuais e honorários advocatícios.
+Na sentença, o Juízo de primeiro grau extinguiu o feito ante ao reconhecimento de prescrição intercorrente, fixando honorários advocatícios em 20% sobre o valor da condenação.
+A Corte estadual manteve a sentença por seus fundamentos.
+I - Dissídio jurisprudencial
+O recorrente também aponta dissídio quanto à aplicação do art. 921, III, §§ 1º e 4º, e 927 do CPC, aduzindo que o acórdão recorrido não observou a necessidade de suspensão do feito por ausência de bens para a ocorrência da prescrição intercorrente, divergindo do entendimento do STJ sobre a prescrição intercorrente.
+Nesse ponto, o recorrente limita-se a transcrever trecho genérico que trata dos requisitos para aplicação do dispositivo, sem o devido confronto analítico para demonstrar a similitude fática entre os julgados. O mero fato de os arestos paradigma tratarem da temática de prazo prescricional iniciando como termino do prazo judicial se suspensão do processo, não implica demonstração do dissídio.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora agravante, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
