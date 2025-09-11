@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Mikael Dario Rodrigues Pereira, em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás (HC n. 5612036-51.2025.8.09.0158).
+Narram os autos que o paciente encontra-se preso preventivamente desde 5/6/2024, por força de decisão do Juízo da Vara Criminal da Comarca de Santo Antônio do Descoberto/GO. Consta, ainda, que a audiência de instrução e julgamento foi realizada somente em 24/3/2025, e a sentença de pronúncia foi prolatada em 15/7/2025.
+Neste mandamus, o impetrante alega que o Tribunal de Justiça de Goiás, ao julgar o HC n. 5612036-51.2025.8.09.0158, reconheceu nulidade absoluta nos atos processuais a partir das alegações finais, diante de falhas na intimação da defesa do paciente, contudo não reconheceu o excesso de prazo e manteve a prisão cautelar.
+Sustenta, assim, a existência de excesso de prazo na conclusão da instrução, destacando que o paciente está preso há mais de 14 meses.
+Afirma que o paciente é primário, possui bons antecedentes e não registra histórico de envolvimento com atividades criminosas .
+Requer, inclusive em liminar, a revogação da prisão preventiva do paciente; subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Em 25/8/2025, indeferi o pedido liminar (fls. 820/821).
+Prestadas as informações (fls. 828/830), o Ministério Público Federal opinou, às fls. 833/837, pelo não conhecimento da impetração ou pela denegação da ordem.
+É o relatório.
+De início, vale lembrar que não cabe, em sede habeas corpus , proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória.
+No presente caso, a Corte goiana assentou a idoneidade do fundamento da prisão preventiva, diante da gravidade concreta do provável crime, evidenciada pelo modus operandi, pois os denunciados teriam chamado a vítima em sua casa e a surpreendido com imobilização, mediante um golpe de mata-leão aplicado pelo codenunciado, seguida da efetuação dos disparos de arma de fogo à queima-roupa pelo paciente (mov. 12, autos 5049034-04.2024.8.09.0158) - fl. 146. Para alterar essa conclusão, seria necessário reexaminar elementos fáticos que fundamentaram a decisão que decretou a prisão preventiva, providência inviável na via estreita do habeas corpus (AgRg no HC n. 952.515/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJe 23/12/2024).
+Ademais, a jurisprudência desta Casa é no sentido de ser idônea a fundamentação calcada na gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva  ..  com o intuito de preservar a ordem pública (AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+Além disso, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva (AgRg no HC n. 930.358/SP, de minha relatoria, Sexta Turma, julgado em 27/11/2024, DJe 2/12/2024).
+Nesse cenário, há nos autos elementos hábeis a recomendar a manutenção da custódia cautelar do paciente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Por fim, no que diz respeito ao alegado excesso de prazo, o Superior Tribunal de Justiça entende que o constrangimento ilegal somente ocorre quando, à luz das peculiaridades do caso concreto, há atraso injustificado do órgão judicial, desídia da parte acusadora ou outra situação incompatível com o princípio da razoável duração do processo, hipóteses não demonstradas nestes autos. A ação penal tramita regularmente na origem, estando em fase de designação da sessão de julgamento do paciente pelo Tribunal do Júri (art. 422 do CPP), conforme informações prestadas pelo Juízo de primeiro grau (fls. 828/830).
+Inexiste, pois, constrangimento ilegal a ser reparado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA REVELADA PELO MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO. INOCORRÊNCIA. TRAMITAÇÃO REGULAR DA AÇÃO PENAL.
+Ordem denegada.
