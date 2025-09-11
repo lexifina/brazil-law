@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por MATEUS EDUARDO LOPES BARBOZA contra decisão que não conheceu do agravo em recurso especial haja vista a incidência do óbice da Súmula 182/STJ.
+A embargante alega existir omissão e contradição no julgado recorrido, argumentando que que não foi analisado o o Parecer do Tribunal de Ética e Disciplina (TED) da OAB/SP. Afirma que "NÃO PRATICOU ato como litigante de má fé, expressamente reconheceu que a infeliz decisão do tribunal caracteriza perseguição à advocacia" (fl. 746). Assevera que "segundo o Tema 1198, o Tribunal de Ética e Disciplina da Ordem dos Advogados do Brasil é o único competente para processar, julgar e punir o advogado no âmbito de suas funções, não podendo o Tribunal ad quem condenar o advogado em litigante de má fé sem o devido processo legal" (fl. 747).
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata na decisão ora embargada o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Verifica-se que o recurso especial foi inadmitido em razão de diversos fundamentos, quais sejam: a) impossibilidade de análise de assertiva de ofensa a dispositivos constitucionais, b) incidência da Súmula 7/STJ, c) quanto ao dissídio jurisprudencial, na ausência de requisitos legais.
+Todavia, a parte agravante deixou de impugnar, especificadamente, os mencionados fundamentos, dedicando-se a alegações genéricas, o que não refuta efetivamente a análise procedida pelo Tribunal de origem.
+Saliente-se que alegações genéricas são insuficientes à impugnação da decisão de inadmissão. Nessa esteira, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores.
+Desse modo, a aplicação da Súmula 182/STJ, por si só, impede a análise de todas as teses de mérito, não por omissão, mas por falha na própria construção do apelo especial.
+Assim, não há vício formal na decisão, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Relatora Ministra Assusete Magalhães, Segunda Turma, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+EMENTA
