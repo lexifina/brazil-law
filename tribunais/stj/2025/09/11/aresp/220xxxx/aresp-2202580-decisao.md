@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual HERCILIO LOURENÇO DA SILVA e OUTRO se insurgiram, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 934):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. SENTENÇA QUE HOMOLOGOU O PAGAMENTO E EXTINGUIU O FEITO, COM RESOLUÇÃO DO MÉRITO. INSURGÊNCIA RECURSAL. AUSÊNCIA DEIMPOSSIBILIDADE DE CONHECIMENTO. IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. RECURSO NÃO CONHECIDO.
+A parte recorrente alega violação do art. 932, III, do Código de Processo Civil (CPC), pois foram impugnados especificamente os fundamentos da sentença, o que deveria ser suficiente para o conhecimento do recurso de apelação.
+Discorre, ainda, sobre a violação do art. 1.013, §§ 1º e 2º, do CPC, ao argumento de que, interposto recurso de apelação, todas as questões suscitadas e discutidas no processo deveriam ter sido analisadas, ainda que não tenham sido todas solucionadas.
+Narra que foram demonstrados os vícios ocorridos na execução fiscal, notadamente quanto à ausência de intimação da Defensoria Pública e à nulidade da arrematação pela inobservância das regras do edital, que, por se tratar de matéria de ordem pública, deve ser conhecida de ofício.
+A parte adversa apresentou contrarrazões (fls. 968/973).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+No acórdão recorrido, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ decidiu pelo não conhecimento da apelação diante da violação do princípio da dialeticidade, destacando que a sentença impugnada apenas homologou o pagamento pelo êxito do leilão e extinguiu as execuções fiscais, de modo que as nulidades apresentadas pela parte executada deveriam ser suscitadas em ação anulatória. Constam do acórdão recorrido os fundamentos a seguir (fls. 935/938):
+Preambularmente à análise dos temas recursais, faz-se imperioso tecer as seguintes observações, haja vista o grau de ininteligibilidade resultante da difícil compreensão decorrente da leitura das razões de inconformismo.
+Primeiramente, ao contrário do que especificado nas razões do recurso, não se tratam de "apelantes " ou " executados". As execuções fiscais são dirigidas apenas contra o devedor Hercílio Lourenço da Silva, parte legítima para figurar no polo passivo da demanda.
+In casu, diante da penhora havida, foi determinado pelo d. magistrado a quo a intimação do cônjuge, que restou devidamente ciente da medida constritiva (mov. 1.10). Pondere-se que a mera intimação, a fim de salvaguardar a meação do cônjuge, não gera automaticamente sua legitimidade para figurar como executado. Assim, em respeito à organização processual, faz-se essa ressalva. Aliás, não se verifica qualquer inclusão no polo passivo, sequer no Projudi.
+Por outro lado, consoante se depreende da árvore processual, o executado, ora apelante, figura como devedor em diversas execuções fiscais. Em contrapartida, figura como requerente ao lado de Aguida da Silva (cônjuge) em Ação Anulatória de Arrematação (autos n.º 0005302-21.2020.8.16.0185).
+Feitas estas ponderações, necessárias ante as imprecisões técnicas constantemente repetidas nas razões recursais, cumpre apontar que o recurso não comporta conhecimento, porquanto interposto em nítida violação ao princípio da dialeticidade.
+É cediço que, por força do princípio da dialeticidade, os recursos, para serem conhecidos, devem demonstrar o desacerto da decisão impugnada, voltando-se, de modo acurado, contra sua fundamentação.
+Isso significa dizer que, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg. no AR Esp. n.º 1.262.653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5.ª T., DJe (AgRg. no AR Esp. n.º 618.056/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ,30/05/2018)" SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018).
+Não é por outro motivo, aliás, que o art. 1.010, do CPC, que versa sobre requisitos do Recurso de Apelação, prevê a obrigatoriedade de o recorrente expor, no seu apelo, toda a matéria de fato e de direito, apta a respaldar as razões de reforma da decisão, ou de decretação da nulidade.
+No caso em comento, o apelante não se opôs adequadamente aos fundamentos da sentença recorrida.
+Na sentença, como se viu, o douto magistrado homologou o pagamento (diante o êxito do leilão), julgando extintas as execuções fiscais, das quais o ora apelante figura como executado.
+Por sua vez, o recorrente, com o escopo de embasar os pedidos recursais, sustentou, em resumo, matéria afeta à ação anulatória e não aos executivos fiscais.
+Ora, em nenhum momento a decisão vergastada abordou tema acerca da nulidade de intimação ou sua ausência, vício na arrematação ou a sua nulidade absoluta.
+Ademais, consigne-se que embora a questão de nulidade, em tese, seja cognoscível de ofício, deve ser alegada em ação e momento processual próprio (ação anulatória, por exemplo).
+Envolvendo o mesmo devedor, esta Câmara, anteriormente, em voto de minha relatoria, não conheceu em parte do recurso n.º 00053342-07.2020.8.16.0000, exatamente pelo fato da parte alegar a mesma matéria, arguida neste recurso, acerca da nulidade da arrematação:
+ ..
+Desse modo, qualquer fato ou fundamento que diga respeito a arrematação do imóvel e sua possível anulação, deve ser formulado em ação ou recurso próprio.
+Por fim, cumpre observar que já houve decisão de 1.º grau acerca da validade ou não da arrematação, conforme se denota do mov. 56.1 dos autos n.º 0005302-21.2020.8.16.0185, decisão esta que ainda não transitou em julgado, tendo o ora apelante, em caso de irresignação com o decidido, oportunidade de manejar o reclamo adequado.
+Assim, é notória a violação ao princípio da dialeticidade recursal, já que, conforme restou demonstrado, o recorrente não impugnou os termos da sentença.
+Consoante entendimento pacificado pelo STJ e por este e. Tribunal de Justiça, os recursos que não se voltam contra os fundamentos do pronunciamento judicial impugnado, configuram violação ao princípio da dialeticidade, situação que enseja o seu não conhecimento:  .. .
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que (a) não houve violação ao princípio da dialeticidade; (b) ausência de intimação da Defensoria Pública; e (c) vício de arrematação.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
