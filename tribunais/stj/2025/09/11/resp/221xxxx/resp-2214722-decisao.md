@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL em face de acórdão do TJRS, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA. ÍNDICE APLICÁVEL. TEMA 810 DO STF. IPCA-E. EMENDA CONSTITUCIONAL Nº 113/2021. APLICAÇÃO DA TAXA SELIC A CONTAR DE DEZEMBRO DE 2021. INCIDÊNCIA DE JUROS MORATÓRIOS NO PERÍODO COMPREENDIDO ENTRE O ÓBITO DA PARTE AUTORA E A HABILITAÇÃO DA SUCESSÃO. DESCABIMENTO. - O Tema nº 810 do Supremo Tribunal Federal fixou tese no sentido de que o índice da remuneração oficial da caderneta de poupança - TR, por não conseguir evitar a perda de poder aquisitivo da moeda em razão do tempo, por ser fixada ex ante, viola o direito de propriedade, e, em razão disso, é inconstitucional, devendo ser aplicado, em seu lugar, o IPCA-E - (Índice de Preços ao Consumidor Amplo Especial), divulgado pelo IBGE. - Tendo óbvio conhecimento do falecimento da exequente originária, a demora para a habilitação dos sucessores não pode ser prejudicial ao executado, tampouco, a ele imputada. A responsabilidade de regularização do polo ativo da demanda era inequívoca da parte exequente. Dessa forma, entende-se que entre a data do óbito da parte autora e a habilitação da sucessão não incidem juros moratórios. AGRAVO INTERNO DESPROVIDO. (fl. 135).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 507, 507 e 1.022 do CPC e 5º da Lei 11.910/2009, sustentando negativa de prestação jurisdicional e a "preclusão no que toca à discussão acerca do índice de correção monetária" (fl. 194).
+Destaca que "os efeitos da declaração de inconstitucionalidade reconhecida no Tema 810 do STF e também no Tema 905 desta Corte não abrangem as situações jurídicas consolidadas, pela preclusão, que aplicaram o texto de lei reputado inconstitucional" (fl. 204).
+Foram apresentadas contrarrazões às fls. 242-256.
+É o relatório.
+Passo a decidir.
+Acerca da apontada violação do art.1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 170):
+No presente caso, o embargante sustentou a existência de omissão no julgamento. Todavia, essa alegação não se sustenta, uma vez que, ao se analisar o pedido, inclusive mencionou-se que não se trata de preclusão, dado que a questão relativa à atualização monetária pode ser arguida a qualquer tempo.
+O embargante apenas reiterou todos os pedidos dos embargos de declaração anteriores e do agravo interno. Logo, não há razão de ser na alegação, tendo em vista que a questão já foi analisada inúmeras vezes, inclusive em decisão colegiada. Não há que se falar, portanto, em omissão, já que aquilo questionado decorre da mera concretização lógica da decisão recorrida.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, não havendo violação ao art. 1.022 do CPC.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+No mérito o entendimento adotado pela Corte de origem não destoa da orientação do Superior Tribunal de Justiça sobre o tema, consolidada no julgamento do REsp 1.495.146/MG (Rel. Min. Mauro Campbell Marques, DJe de 2/3/2018), segundo a qual, nas condenações judiciais referentes a Servidores e Empregados Públicos serão observados os seguintes consectários legais:
+(a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro /2001;
+(b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E;
+(c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E.
+Destaque-se, por oportuno, que a jurisprudência do STF, firmada em sede de repercussão geral, é no sentido de que:
+ ..  é aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecidos no art. 1º-F da Lei n. 9494/97, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado (Tema 1170/STF).
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
