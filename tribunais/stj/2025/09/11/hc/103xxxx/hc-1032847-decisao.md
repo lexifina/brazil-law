@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ FERNANDO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Narra a defesa que o paciente encontra-se preso preventivamente desde 1/8/2025, após conversão de prisão em flagrante, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006. Relata que, em 31/7/2025, o paciente foi abordado em área rural do município de Dois Córregos/SP, portando 160 porções de cocaína (305,8 g) e 7 porções de maconha (304,93 g).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 16-24.
+No presente writ, a defesa sustenta que a decisão que converteu a prisão em flagrante em preventiva carece de fundamentação idônea, sendo genérica e baseada apenas na gravidade abstrata do delito, sem apontar elementos concretos que justifiquem a medida extrema.
+Argumenta que o paciente é primário, casado, pai de dois filhos, possui residência fixa e renda lícita, além de não haver elementos que indiquem sua participação em organização criminosa ou prática habitual de tráfico.
+Alega que a prisão preventiva viola os princípios da presunção de inocência, do devido processo legal e da ampla defesa, sendo desproporcional e desnecessária, especialmente considerando que o crime imputado não envolveu violência ou grave ameaça.
+Afirma que a quantidade de droga apreendida não é expressiva e que o paciente, mesmo se condenado, faria jus a regime menos gravoso, com possibilidade de aplicação do art. 33, § 4º, da Lei n. 11.343/2006.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade e variedade de droga apreendida - Apreensão 160 porções de cocaína, com peso de 305,8g (trezentos e cinco gramas e oito decigramas) e 7 porções de maconha, com peso total de 304,93g (trezentos e quatro gramas e noventa e três centésimos de grama), circunstâncias aptas a ensejar a manutenção da segregação cautelar.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Quanto a afirmação de que em caso de condenação terá direito a regime diverso do fechado, a desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual.
+Nesse sentido:
+"Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado" (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar , o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
