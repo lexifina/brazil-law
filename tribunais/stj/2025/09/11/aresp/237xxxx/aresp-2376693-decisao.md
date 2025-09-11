@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual Claudia Vitoria Gradella Bastos se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 139):
+AGRAVO DE INSTRUMENTO. Ação Civil Pública. Improbidade Administrativa. Cumprimento de sentença. Decisão que reconheceu fraude à execução e afastou a alegação de bem de família.
+1. Conjunto probatório que demonstra que a ação civil pública foi proposta em 14.12.2006, sendo prolatada sentença condenatória contra o executado em 28.10.2010, posteriormente parcialmente reformada por acórdão datado de 12.09.2012 e com trânsito em julgado ocorrido em 10.12.2018. De igual modo, o cumprimento de sentença foi instaurado em 08.08.2019.
+2. Escritura pública de doação em que o executado e sua esposa Aura Isaura Gradella Bastos efetuaram a doação de imóvel de sua propriedade com reserva de usufruto à agravante ocorreu em 17.06.2020. Bem de família que já fora afastado anteriormente face ao julgamento do Agravo de Instrumento n. 2133319-98.2021.8.26.0000. Decisão mantida.
+3. Recurso não provido.
+Não foram opostos embargos de declaração.
+A parte recorrente alega violação ao art. 3º da Lei 8.009/1990, pois o imóvel constrito é protegido pela impenhorabilidade conferida ao bem de família, pois nele reside desde a infância e detém 50% de sua propriedade, devendo a proteção legal ser estendida à totalidade do imóvel, dada sua indivisibilidade.
+Aduz que o Tribunal de origem desconsiderou o entendimento consolidado na Súmula 364/STJ de que a proteção do bem de família se estende a imóveis utilizados como moradia por famílias binucleares ou pessoas que vivem sozinhas.
+Aponta a existência de divergência jurisprudencial no tocante à impossibilidade de penhora de fração ideal de imóvel indivisível protegido pela impenhorabilidade do bem de família (REsp 1485839/RJ e AgInt no REsp 1663895/PR).
+Foram apresentadas contrarrazões às fls. 187/197.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fl. 198).
+É o relatório.
+Em consulta ao sítio eletrônico da Corte local, constatei ter sido certificado o falecimento do executado, Helio de Almeida Bastos, ocorrido em 27/6/2023 (fl. 512 dos autos do cumprimento de sentença).
+Habilitados os herdeiros, sobreveio sentença extintiva do cumprimento de sentença, prolatada em 20/6/2024, com o seguinte dispositivo:
+Destarte, considerado ser incontroverso o enquadramento dos atos praticados pelo de cujus no art. 11 da Lei Federal nº 8.429/92, e tendo em vista ser intransmissível a responsabilidade pelo pagamento da multa civil aos herdeiros, partes ilegítimas para figurarem no polo passivo da execução. JULGO EXTINTO O PROCESSO, SEM RESOLUÇÃO DE MÉRITO, nos termos dos artigos 485, inciso VI, e 493. do Código de Processo Civil, com relação às sanções de caráter personalíssimo (multa civil e honorários sucumbenciais decorrentes da referida multa), em razão do falecimento do executado Hélio de Almeida Bastos. Isento de custas e honorários, vez que se trata de cumprimento de sentença decorrente de ação civil pública na qual não comprovada má-fé processual.
+Após o trânsito em julgado, devidamente certificado, expeça-se termo de levantamento da penhora realizada sobre os imóveis de matrículas nº 15.725 e nº 12.135 do CRI de Bebedouro (fls. 197).
+O Ministério Público apelou, tendo o Tribunal de Justiça negado provimento ao recurso em 23/10/2024, em acórdão assim ementado:
+APELAÇÃO CÍVEL. Cumprimento de sentença. Extinção sem resolução do mérito, nos termos dos artigos 485, VI e 493, com relação às sanções de caráter personalíssimo (multa civil e honorários sucumbenciais decorrentes da referida multa), em razão do falecimento do executado Hélio de Almeida Bastos, deixando de condenar os sucessores ao pagamento das custas e despesas processuais, tampouco em honorários advocatícios de sucumbência. vez que se trata de cumprimento de sentença decorrente de ação civil pública na qual não comprovada má-fé processual.
+Pretensão de prosseguimento do cumprimento de sentença em relação à condenação ao pagamento de honorários advocatícios de sucumbência no percentual de 20% sobre o valor da condenação pecuniária, a ser revertido ao Fundo Especial de Despesa de reparação de Interesses Difusos Lesados. Impossibilidade. No caso dos autos, embora os honorários de sucumbência tenham sido arbitrados ainda na fase de conhecimento, inclusive com a anotação do trânsito em julgado, denota-se que estes não foram arbitrados em valor fixo, mas em percentual (20%) sobre o valor da condenação pecuniária, a qual foi julgada extinta, ante ao óbito do agente considerado ímprobo, prejudicando a própria exequibilidade de tal verba. Sentença de extinção mantida.
+Apelo não provido.
+Certificou-se o trânsito em julgado desse acórdão em 27/11/2024 (fl. 680 dos autos cumprimento de sentença), do que resultou no levantamento da penhora e no cancelamento da averbação da fraude à execução e da ineficácia da doação.
+Os fatos ora constatados evidenciam a perda do objeto do recurso especial.
+Ante o exposto, julgo prejudicado o recurso .
+Publique-se. Intime-se.
+EMENTA
