@@ -1,0 +1,45 @@
+DECISÃO
+LINCOLN RICARDO MENEZES CARDOZO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 3008384-27.2025.8.26.0000.
+A defesa pretende a soltura do paciente - preso preventivamente pela suposta prática dos crimes previstos nos arts. 147-A e 147 do Código Penal e art. 42, III, da Lei de Contravenções Penais - sob os argumentos de que: a) há ausência de contemporaneidade entre os fatos (ocorridos em 2022) e a decretação da prisão (abril de 2025), sem indicação de fatos novos; b) a decisão que decretou a prisão preventiva carece de fundamentação idônea, limitando-se a reproduzir o pedido ministerial; c) o paciente é pessoa em situação de rua, não podendo sua não localização ser interpretada como fuga deliberada; d) a única condenação com trânsito em julgado do paciente refere-se a crime patrimonial ocorrido em 2014, não guardando relação com os fatos atuais.
+Subsidiariamente, requer a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 289-292).
+Decido.
+I. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, no dia 21/7/2023, o Ministério Público ofereceu denúncia imputando ao paciente a prática dos crimes previstos no art. 147 e 147-A, ambos do Código Penal, e no art. 42, III, da Lei de Contravenções Penais, pela prática dos seguintes fatos (fls. 66-67):
+ ..
+Consta o incluso termo circunstanciado que, em diversas datas não especificadas, entre os meses de fevereiro e maio de 2022, no Terminal Rodoviário, à Rua Pará, 296, Vila Ayres, nesta cidade e Comarca, LINCOLN RICARDO MENEZES CARDOZO, qualificado a fls 05, perseguiu Sílvia Andréia Bonfá, reiteradamente, ameaçando-lhe as integridades física e psicológica, restringindo-lhe a capacidade de locomoção e perturbando sua esfera de liberdade.
+Consta também que, em data não especificada, entre os meses de fevereiro e maio de 2022, no Terminal Rodoviário, à Rua Pará, 296, Vila Ayres, nesta cidade e Comarca, LINCOLN RICARDO MENEZES CARDOZO, qualificado a fls 05, ameaçou por palavras e gestos, Rosana Aparecida Adão, de causar-lhe mal injusto e grave.
+Consta, por fim que, em datas não especificadas, entre os meses de fevereiro e maio de 2022, no Terminal Rodoviário, à Rua Pará, 296, Vila Ayres, nesta cidade e Comarca, LINCOLN RICARDO MENEZES CARDOZO, qualificado a fls 05, por várias vezes, perturbou o trabalho e o sossego alheios, abusando de sinais acústicos.
+Segundo o apurado, o indiciado pernoitou no Terminal Rodoviário, no aludido período, e, em diversas oportunidades, dirigiu-se a Sílvia Andréia, que presta serviços no local, chamando-a de "gostosa". Em uma ocasião, ele entrou em um corredor, cujo acesso é restrito a funcionários, e, quando se deparou com a ofendida, colocou-se na frente dela, impedindo-a de sair, além de "jogar-lhe beijos" e de chamá-la de "gostosa". Em outros momentos, ele exibiu um facão e um machado, intimidando-a.
+Apurou-se também que ele ameaçou Rosana com um facão e uma enxada, dizendo que iria matá-la.
+Ainda ficou apurado que ele, em diversas noites em que lá compareceu, manteve o volume de uma caixa de som excessivamente ato, perturbando o sossego dos funcionários e dos usuários do terminal.
+Ante o exposto, denuncio LINCOLN RICARDO MENEZES CARDOZO como incurso no art. 147-A e no art. 147, ambos do Código Penal, bem como no artigo 42, inciso III, da Lei de Contravenções Penais, por várias vezes, na forma do artigo 71 "caput", do Código Penal, os três crimes em concurso material (art. 69, do CP) e requeiro que, r. e a. esta, instaure-se o devido processo penal, citando-o para oferecer resposta à acusação, ouvindo-se as vítimas e testemunha abaixo arroladas, interrogando-o e prosseguindo, nos termos do art. 394 e seguintes do Código de Processo Penal (rito sumário), até final condenação.
+O promotor oficiante não formulou o pedido de prisão preventiva. Após diversas tentativas de localização do paciente, em 8/4/2025, ou seja 627 dias depois de oferecida a denúncia, foi formulado o seguinte pedido de prisão preventiva (fl. 184):
+ ..
+Requeiro, ainda, a decretação da prisão preventiva do réu Lincoln Ricardo Menezes Cardozo, para garantia de aplicação da lei penal, com fundamento nos artigos 312 e 313, inciso II (reincidente), ambos do Código de Processo Penal.
+A segregação provisória revela-se idônea e adequada, pois, conforme se observa, o réu se evadiu do distrito da culpa, trazendo prejuízo à aplicação da lei penal.
+Há nos autos elementos suficientes para alicerçar o juízo positivo de plausibilidade da autoria e materialidade delitiva. Além disso, o réu é reincidente (autos nº 0001553- 34.2014.8.26.0073).
+O Juízo de primeiro grau decidiu o seguinte:
+ ..
+O Doutor Promotor de Justiça representou pela decretação da prisão preventiva do réu, com fundamento nos artigos 312, 313, inciso II e 366, todos do Código de Processo Penal.
+Assiste razão o parquet.
+Ante o exposto, acolho o parecer Ministerial para decretar a prisão preventiva de LINCOLN RICARDO MENEZES CARDOZO, considerando ser reincidente e para assegurar a aplicação da lei penal.
+A Defensoria Pública do Estado de São Paulo tem integral razão. A prisão preventiva foi decretada por fato não contemporâneo, a decisão é desprovida de fundamentação e o que se percebe, pela análise da condução processual, é que a prisão preventiva foi decretada tão somente porque o paciente, morador de rua, não foi citado para responder à ação penal.
+Qualquer dos três motivos é suficiente para reconhecer a ilegalidade da prisão e garantir a concessão da liberdade.
+A ausência de contemporaneidade viola diretamente o art. 315, §1º do CPP, que exige a indicação de fatos novos ou contemporâneos que justifiquem a medida cautelar, sendo inadmissível a decretação de prisão preventiva quase três anos após os fatos sem qualquer evento superveniente.
+A falta de fundamentação concreta afronta o art. 93, IX, da Constituição Federal e o art. 315 do CPP, que impõe a necessidade de decisão motivada e individualizada, não sendo admissível mera reprodução do pedido ministerial.
+Por fim, a condição de pessoa em situação de rua do paciente não pode ser equiparada à evasão deliberada do distrito da culpa, representando apenas circunstância social que dificulta sua localização.
+Na hipótese, percebe-se que o principal motivo ensejador da ordem de prisão cautelar do paciente foi justamente o fato de não haver sido localizado para receber a citação e, uma vez citado por edital, não haver constituído advogado ou comparecido aos autos de outra forma. Esta situação decorre da própria vulnerabilidade social do paciente, pessoa em situação de rua e não de qualquer intenção deliberada de se furtar à aplicação da lei penal.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao assinalar que "a simples não localização do réu para responder ao chamamento judicial ou o fato de encontrar-se em local incerto e não sabido não constitui motivação suficiente para o encarceramento provisório, quando dissociado de qualquer outro elemento real que indique a sua condição de foragido. Não cabe deduzir que, frustrada a notificação ou a citação editalícia no processo penal, o acusado estaria evadido" (RHC n. 103.016/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 3/4/2019, grifei).
+Concluo, portanto, que houve restrição à liberdade do agente sem a devida fundamentação que demonstrasse a exigência cautelar justificadora da custódia, o que impõe a concessão da ordem.
+Ilustrativamente:
+ ..
+3. A jurisprudência desta Corte Superior é firme ao assinalar que a simples não localização do réu para responder ao chamamento judicial ou o fato de encontrar-se em local incerto e não sabido não constitui motivação suficiente para o encarceramento provisório, quando dissociado de qualquer outro elemento real que indique a sua condição de foragido. Não cabe deduzir que, frustrada a notificação ou a citação editalícia no processo penal, o acusado estaria evadido.
+4. Ordem concedida para revogar a prisão preventiva do paciente (HC n. 610.808/AL, Rel. Ministro Rogerio Schietti, 6ª T., DJe 23/3/2021, destaquei)
+II. Dispositivo
+À vista do exposto, concedo a ordem para revogar a prisão preventiva decretada em desfavor de Lincoln Ricardo Menezes Cardozo.
+Determino a imediata expedição de alvará de soltura em favor do acusado, se por outro motivo não estiver preso.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
