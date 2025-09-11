@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ANDERSON SOARES MARTINS, ENEIAS RODRIGUES MACHADO à decisão de fls. 3039/3040, que não conheceu do recurso.
+Sustenta a parte embargante:
+Recebidos os autos neste E. Superior Tribunal de Justiça, foi exarada "Certidão para Saneamento de Óbices" em 21 de maio de 2025, intimando os Embargantes a comprovar eventual suspensão, interrupção ou prorrogação do prazo para interposição do Recurso Especial. Em resposta, os Embargantes apresentaram "Manifestação" (fls.2891/3036) detalhando a contagem do prazo e reafirmando a tempestividade do Recurso Especial.
+Contudo, a r. decisão ora embargada, datada de 18 de junho de 2025 e publicada em 24 de junho de 2025, não conheceu do Agravo em Recurso Especial, sob o fundamento de que o Recurso Especial original teria sido interposto em 10.10.2024, e não em 07.10.2024, data em que os Embargantes alegaram ser o último dia útil para sua interposição (fls. 3043/3044).
+ ..
+Este é o ponto fulcral do erro material que vicia a r. decisão e gera graves implicações negativas aos Embargantes. Como será pormenorizadamente demonstrado, o Recurso Especial foi, de fato, protocolado tempestivamente em 07 de outubro de 2024 (fls. 2213/2230), e não na data erroneamente apontada de 10.10.2024. Tal equívoco na data de interposição do recurso é a premissa falsa que subjaz toda a conclusão de intempestividade, impedindo o regular exame da matéria por esta E. Corte.
+Nesse contexto, os elementos dos autos demonstram de forma cristalina o erro material e a tempestividade do Recurso Especial.
+Conforme exaustivamente demonstrado pelos Embargantes em sua "Manifestação" (fls.2891/3036), a contagem do prazo para interposição do Recurso Especial é a seguinte:
+O V. Acórdão recorrido foi disponibilizado em 16 de setembro de 2024 (segunda- feira), conforme Certidão de Publicação de fls. 2211.
+O início da contagem do prazo de 15 (quinze) dias úteis (art. 1.003, § 5º, do CPC) ocorreu em 17 de setembro de 2024 (terça-feira).
+O termo final para a interposição do Recurso Especial se deu em 07 de outubro de 2024 (segunda-feira).
+O Recurso Especial (petição de fls. 2213/2230) FOI, de fato, protocolado em 07 de outubro de 2024. Embora, por um "erro singelo" do patrono, tenha sido inicialmente classificado como "Apelação" no sistema do Tribunal de Justiça de São Paulo, a interposição do Recurso Especial, em sua essência, ocorreu na data-limite legal, conferindo-lhe tempestividade.
+A data de 10 de outubro de 2024, mencionada na r. decisão embargada como sendo a data de interposição do Recurso Especial, refere-se, na verdade, ao protocolo de u m a p e t i ç ã o d e R E T I F I C A Ç Ã O D E C L A S S I F I C A Ç Ã O e COMPLEMENTAÇÃO ao Recurso Especial JÁ AVIADO. A própria petição protocolada em 10 de outubro de 2024 (fls. 2351/2361) atesta, de forma inequívoca, a natureza de seu conteúdo,  .. .  .. . (fls. 3044/3045).
+É, portanto, evidente que a petição de 10 de outubro de 2024 (fls. 2351/2361) não consubstancia o ato de interposição do Recurso Especial, mas sim um ato subsequente de correção formal e aditamento a um recurso já tempestivamente protocolado (fl. 3045).
+ ..
+Em perfeita consonância, a Decisão da Presidência da Seção de Direito Privado do TJSP, datada de 13 de dezembro de 2024 (fls. 2818-2821), que inadmitiu o Recurso Especial interposto pelos Embargantes, o fez por razões diversas (fl. 3046).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Inicialmente, cumpre destacar alguns pontos do andamento deste feito.
+Conforme de verifica dos autos, houve o indeferimento da gratuidade por meio da decisão de fls. 2183/2188, abrindo-se prazo para a parte recolher as custas.
+Contra a referida decisão foi interposto Agravo Interno (fls. 2190/2198), este julgado pelo acórdão constante às fls. 2203/2210. Publicado em 17.9.2024 (fl. 2211), a parte protocolou uma petição de Apelação (fls. 2212 e 2233/2255) e uma petição de Recurso Extraordinário (fls. 2305/2308), ambos em 7.10.2024.
+Após, em 10.10.2024, a parte juntou uma nova petição (fls. 2351/2361) informando que "por erro singelo deste patrono, o Recurso Especial foi distribuído como Apelação" (fl. 2351) e solicitou a reclassificação da Apelação para Recurso Especial. Na mesma peça, apresentou uma complementação às razões do suposto Recurso Especial (fls. 2352/2361).
+No caso, verifica-se que não há como receber a Apelação como se Recurso Especial fosse, pois vedado pelos princípios da fungibilidade e da taxatividade (art. 994 do CPC).
+Veja que o princípio da fungibilidade pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie.
+A Apelação serve para revisar a decisão proferida por um juiz de primeira instância, enquanto o Recurso Especial para questionar decisões proferidas em única ou última instância pelos Tribunais de segunda instância, além de outras peculiaridades. São recursos totalmente distintos.
+Assim, a interposição equivocada de recurso quando há expressa disposição legal (princípio da taxatividade) e inexiste dúvida objetiva, constitui manifesto erro grosseiro, sendo portanto, inaplicável, ao caso, o referido princípio. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 4.5.2020.
+Outrossim, veja que a petição de Apelação de fls. 2233/225 é a mesma apresentada contra a sentença (fls. 1711/1733), ou seja, as argumentações ali expendidas impugnam o que foi decidido na sentença, não tendo relação alguma com o acórdão, alvo de impugnação de um Recurso Especial.
+Cabe ainda consignar que não é possível a complementação de razões recursais. O art. 932, parágrafo único, do CPC/2015 permite apenas o suprimento de vício formal sanável, como ausência de procuração ou assinatura, e não a complementação das razões do recurso interposto (AgInt no AREsp n. 2.327.282/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ademais, apesar da parte asseverar que trata-se apenas de uma complementação, observa-se que a petição fls. 2351/2361 foi apresentada no seu inteiro teor, ou seja, com o fim precípuo de ser efetivamente analisada pelo relator como Recurso Especial, já que a Apelação de fls. 2233/2255 não serviria para impugnar o acórdão.
+Conforme o art. 105, III, da Constituição Federal, contra as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal e dos Territórios, é cabível Recurso Especial, que deve ser apresentado à presidência do tribunal a quo (art. 1.029, caput, do CPC).
+Outro ponto a ser levado em consideração é que o juízo de admissibilidade do Recurso Especial é bifásico, ou seja, a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 3.5.2024; AgInt no AREsp n. 2.250.245/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 18.8.2023; AgInt no AREsp n. 2.050.156/MG, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 11.4.2024; e, AgInt no AREsp 1686946/MA, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 18.12.2020.
+Foram pelos motivos acima expostos, que esta Corte Superior considerou a petição de 2351/2361, apresentada em 10.10.2024, como Recurso Especial, já que é única peça, fundamentada nos arts. 105, III, da CF e 1.029 do CPC, que realmente se prestou a impugnar o acórdão. Porém, como consignado na decisão embargada, ela é intempestiva, não podendo ser considerada a protocolização em 7.10, como pretende a parte.
+É de responsabilidade exclusiva do advogado o acompanhamento da transmissão de dados no sistema eletrônico e a verificação da integridade das peças processuais enviadas
+De todo modo, o recurso não deve ser conhecido.
+Ante o exposto, acolho os Embargos de Declaração apenas para melhor esclarecer a decisão proferida às fls. 3039/3040, mantendo, porém, o não conhecimento do recurso, nos termos acima expostos (art. 21-E do RISTJ).
+Publique-se.
+Intimem-se.
+EMENTA
