@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIMED CAMPINA GRANDE COOPERATIVA DE TRABALHO MÉDICO LTDA. contra decisão de fls. 409-411 que não conheceu do agravo em recurso especial interposto pela embargante, sob o fundamento de que a negativa de seguimento do recurso especial se deu com base no art. 1.030, I, b, do CPC, em conformidade com o Tema n. 952 do STJ.
+Em suas razões, a parte embargante:
+1) Sustenta que a decisão embargada incorreu em omissão ao não analisar a inadequação da norma infralegal aplicada pelo acórdão recorrido, que utilizou indevidamente a Resolução CONSU n. 6/1998, destinada exclusivamente a contratos firmados ou adaptados entre 2/1/1999 e 31/12/2003, sendo que o contrato da embargada foi adaptado em 9/7/2010, devendo ser aplicada a RN n. 63/2003 da ANS (fls. 415-419);
+2) Aduz que a decisão embargada deixou de enfrentar o argumento de que os percentuais aplicados estão em conformidade com os critérios técnicos da RN n. 63/2003, sendo descabida qualquer declaração de abusividade sem apuração concreta de desequilíbrio atuarial (fls. 419-420);
+3) Afirma que houve omissão quanto à análise da alegada violação dos arts. 15 e 16 da Lei n. 9.656/1998, que legitimam os reajustes por faixa etária, desde que previstos contratualmente, como ocorreu no caso concreto (fls. 420);
+4) Pontua que a decisão embargada apresenta contradição ao afirmar que não cabe agravo em recurso especial quando a negativa de seguimento se dá com base no art. 1.030, I, b, do CPC, contrariando o § 2º do mesmo dispositivo, que expressamente prevê a possibilidade de agravo interno nessas hipóteses (fls. 420-421);
+5) Argumenta que a decisão embargada desconsiderou a alegação fundamentada de inadequação da norma aplicada ao caso, criando um obstáculo intransponível ao controle da aplicação do direito federal (fls. 421).
+Requer o conhecimento e provimento dos embargos de declaração, para que sejam sanadas as omissões e contradições apontadas, com a consequente integração do julgado.
+Requer, ainda, a atribuição de efeitos infringentes aos embargos, para que seja reformada a decisão embargada, admitindo-se o processamento do recurso especial ou, subsidiariamente, determinando-se o retorno dos autos à Presidência do Tribunal de origem para novo exame de admissibilidade (fls. 421-422).
+As contrarrazões não foram apresentadas, conforme certidão de fl. 428.
+É o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte não aponta omissão ou outro vício passível de ser sanado pelo STJ em embargos de declaração. Apenas demonstra sua insatisfação com o resultado do julgamento, alegando que na decisão embargada houve omissão quanto à análise da aplicação da RN n. 63/2003 da ANS e contradição ao afirmar a inadmissibilidade do agravo em recurso especial com base no art. 1.030, I, b, do CPC.
+Eis o que consta da decisão embargada (fls. 409-410):
+A parte agravante insiste, no presente agravo em recurso especial, em rediscutir a matéria, impugnando a negativa de seguimento - que se deu com base no Tema n. 952 do STJ -, o que é inadmissível, haja vista o não cabimento do agravo previsto no art. 1.042 do CPC quando ocorre a negativa de seguimento do apelo especial com fundamento no art. 1.030, I, b, do CPC.
+Como visto, na decisão consta que a negativa de seguimento do recurso especial decorreu da conformidade do acórdão recorrido com o Tema n. 952 do STJ, não havendo omissão a ser sanada.
+Não procede também à alegada contradição quanto à admissibilidade do agravo em recurso especial, pois a decisão embargada fundamentou-se na literalidade do art. 1.030, I, b, do CPC, que veda o seguimento de recurso especial interposto contra acórdão em conformidade com entendimento firmado em recurso repetitivo.
+Ressalte-se que a mera irresignação da parte embargante com o entendimento adotado no julgamento do agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1º/12/2021, DJe de 15/12/2021).
+A propósito, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgados em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, não padecendo a decisão embargada dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Advirto a parte de que a reiteração de embargos de declaração sobre a mesma matéria poderá ser considerada manifestamente protelatória, com imposição da multa de 2% sobre o valor atualizado da causa (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
