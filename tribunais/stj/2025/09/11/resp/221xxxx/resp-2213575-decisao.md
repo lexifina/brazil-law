@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se recurso especial interposto por MARCELO ROBERTO ESCOBAR AMARAL e OUTROS, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP que, por maioria de votos, negou provimento ao agravo de instrumento anteriormente interposto.
+RELATADO BREVEMENTE O PROCESSO. DECIDE-SE.
+- Da perda do objeto
+Recorda-se que, nas razões do recurso especial, MARCELO ROBERTO ESCOBAR AMARAL e OUTROS alegaram violação dos arts. 525, § 6º, 995 e 1.029, § 5º do CPC, sustentando , em síntese, que a apresentação de impugnação ao cumprimento de sentença não impede a prática de atos executivos, bem como que o poder geral de cautela não autoriza o Juízo a desconsiderar os requisitos legais e a impedir atos expropriatórios na "pendência de recurso ao qual o relator competente não concedeu efeito suspensivo" (e-STJ fl. 82).
+Após a interposição do recurso especial e de suas contrarrazões, os recorridos peticionaram nos autos, juntando recente acórdão do TJ/SP, que deu parcial provimento ao Agravo de Instrumento nº 2274398-31.2022.8.26.0000/SP, sendo que também foi "deferido o efeito ativo ao recurso para obstar o levantamento de valores depositados ou penhorados que excedam ao débito incontroverso (fl. 234)" (e-STJ fl. 224).
+Ato contínuo, as partes foram intimadas para se manifestarem acerca da eventual perda de objeto do presente recurso especial (e-STJ fl. 228), tendo sobrevindo manifestação favorável de ambas as partes, nos seguintes termos:
+"JOSÉ MARIO JUNQUEIRA NETTO, ESPÓLIO DE MARIA CECILIA CORDEIRO JUNQUEIRA NETTO e ESPÓLIO DE OCTÁVIO JUNQUEIRA LEITE DE MORAES, devidamente qualificados nos autos do processo acima referenciado, vêm, respeitosamente à presença de Vossa Excelência por intermédio de seu procurador e advogado infra-assinado expor e requerer o que segue:  ..  Em vista do trânsito em julgado do agravo de instrumento 2274398-31.2022.8.26.0000 de forma definitiva, inclusive com determinação de não levantamento do depósito judicial realizado pelos recorridos enquanto não for julgada a impugnação de cumprimento de sentença pela primeira instância, houve a perda superveniente do objeto deste recurso especial. Dessa forma, os recorridos requerem seja negado provimento ao apelado especial pela perda superveniente do objetivo recursal." (e-STJ fls. 231-232)
+"MARCELO ROBERTO ESCOBAR AMARAL e OUTROS, devidamente qualificados nos autos do recurso em epígrafe, em que figuram como agravantes, vêm, em atenção ao despacho de fls. 227-228, manifestar sua anuência com a extinção do presente recurso, por perda superveniente do seu objeto" (e-STJ fl. 241)
+Considerando o exposto, verifica-se que não subsiste mais a utilidade e a necessidade do provimento judicial buscado por meio do presente recurso, razão pela qual deve ser reconhecida a perda superveniente do interesse recursal.
+Forte nessas razõ es, JULGO PREJUDICADO o recurso especial, por perda superveniente de objeto , nos termos do art. 34, XI, do RISTJ.
+Deixo de majorar os honorários sucumbenciais, pois incabível na espécie.
+Baixem-se os autos.
+Publique-se. Intimem-se.
+EMENTA
