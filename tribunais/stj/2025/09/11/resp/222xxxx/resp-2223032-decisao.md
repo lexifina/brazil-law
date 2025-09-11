@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por VITOR EMANUEL FERNANDES DA COSTA, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Piauí na Apelação Criminal n. 0856718-71.2023.8.18.0140, assim ementado (fls. 448/449):
+PROCESSUAL PENAL. APELAÇÃO CRIMINAL. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. FALSA IDENTIDADE. REJEITADA A ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO DE RECEPTAÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA RECEPTAÇÃO CULPOSA. REJEITADA A ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO DE ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. AUTORIA E MATERIALIDADE COMPROVADAS. CRIME DE FALSA IDENTIDADE. ABSOLVIÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS NOS AUTOS. APLICAÇÃO DA SÚMULA 522 DO STJ. MUDANÇA DE REGIME. REPRIMENDA COMPATÍVEL COM O REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. NÃO CABIMENTO. REDUÇÃO DA PENA DE MULTA. PARCELAMENTO DA PENA DE MULTA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. ISENÇÃO AO PAGAMENTO DE CUSTAS PROCESSUAIS. EXIGIBILIDADE. RECURSO CONHECIDO E IMPROVIDO.
+Nesta via, a defesa alega violação do art. 180, § 3º, do Código Penal, sustentando que não há provas concretas e inequívocas que demonstrem o dolo específico do recorrente em adquirir bem de origem criminosa.
+Requer seja conhecido e dado provimento ao presente Recurso Especial, reformando-se o acórdão de id. 22000819 para desclassificar a conduta do recorrente de receptação dolosa (art. 180, caput, do Código Penal) para receptação culposa (art.180, § 3º, do Código Penal) - fl. 510.
+Ofertadas contrarrazões (fls. 515/532), o Tribunal de origem admitiu o apelo (fls. 534/538).
+O Ministério Público Federal opinou, às fls. 552/555, pelo não provimento do recurso especial.
+É o relatório.
+A insurgência recursal não comporta conhecimento.
+O Tribunal de origem, após minuciosa análise das provas carreadas aos autos, concluiu pela existência de elementos concretos que demonstram o dolo específico do recorrente, consignando que a posse de bem de origem ilícita gera presunção de dolo, cabendo ao acusado demonstrar desconhecimento da ilicitude para afastar a condenação por receptação. O acórdão destacou que o recorrente foi flagrado na posse do veículo produto de crime, não conseguindo demonstrar a licitude da aquisição, além de ter empreendido fuga ao avistar a guarnição policial e ter se identificado falsamente.
+Para desconstituir essas conclusões e reconhecer a ausência de dolo específico, seria imprescindível o revolvimento do acervo probatório, o que não se admite em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ademais, como bem destacado no parecer do Ministério Público Federal, esta Corte Superior consolidou entendimento de que, no crime de receptação, cabe à defesa demonstrar a origem lícita dos bens ou a conduta culposa do réu, sendo certo que a apreensão dos bens em poder do acusado transfere à defesa o ônus de comprovar a licitude da posse (REsp n. 2.038.876/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJe de 23/12/2024).
+Portanto, não há divergência jurisprudencial a ser dirimida, uma vez que o acórdão recorrido está alinhado com o entendimento pacífico deste Superior Tribunal sobre a matéria (Súmula 83/STJ).
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. RECEPTAÇÃO. DESCLASSIFICAÇÃO DE RECEPTAÇÃO DOLOSA PARA CULPOSA. REVISÃO DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Recurso não conhecido.
