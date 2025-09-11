@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAEL FERREIRA DE SOUZA contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a e c, da Constituição Federal) por ele manejado contra acórdão do Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 1.0718.20000084-9/002) que manteve a condenação do agravante e outro corréu como incursos no crime de homicídio qualificado, reduzindo a pena fixada na sentença.
+Nas razões do recurso especial, a defesa do agravante suscitou dissídio jurisprudencial e negativa de vigência dos seguintes dispositivos: arts. 226 e 593, III, d, ambos do Código de Processo Penal; e arts. 1º, III, e 5º, III, ambos da Constituição Federal (fls. 1.574/1.590).
+A Corte de origem inadmitiu o recurso especial com fundamento na Súmula 7/STJ (fls. 1.633/1.634)l
+Contra o decisum a defesa interpôs o presente agravo (fls. 1.668/1.676).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento e, caso conhecido, pelo desprovimento do recurso (fls. 1.701/1.705).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, verifico que o reclamo fundado na alínea c do permissivo constitucional não comporta conhecimento.
+Ora, quando o recurso se fundar em dissídio jurisprudencial (art. 105, III, c, da CF), o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente ou, ainda, com a reprodução de julgado disponível na internet, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados (arts. 1.029 do CPC e 255, § 1º, do RISTJ).
+No caso dos autos, o agravante não indicou nenhum acórdão para fins de dissídio jurisprudencial e, por conseguinte, também não logrou comprovar eventual divergência mediante cotejo analítico.
+A propósito, confira-se:
+ ..
+IV. Para a caracterização da divergência, nos termos do art. 541, parágrafo único, do CPC, e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, exigência não atendida, no caso, porquanto inexiste similitude fática entre os casos confrontados.
+V. Na forma da jurisprudência do STJ, "o conhecimento de recurso especial fundado na alínea c do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial" (STJ, AgRg no REsp n. 1.420.639/PR, Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 2/4/2014)
+ ..
+(AgRg no REsp n. 1.508.596/DF, Ministra Assusete Magalhães, Segunda Turma, DJe 17/3/2016 - grifo nosso).
+De outra parte, no tocante ao recurso fundado na alínea a do permissivo constitucional, a insurgência também é manifestamente inadmissível. Explico.
+Da leitura das razões do recurso especial, verifica-se que o agravante indicou violação de dispositivos constitucionais - arts. 1º, III, e 5º, III, ambos da CF -, bem como dos arts. 226 e 593, III, d, ambos do Código de Processo Penal, referindo, ainda, ao conteúdo das Regras de Bangkok e ao Pacto de San Jose da Costa Rica.
+Ocorre que é descabido o exame de matéria constitucional na via especial. Ademais, no tocante ao conteúdo das Regras de Bangkok e ao Pacto de San Jose da Costa Rica, o agravante não indicou explicitamente os dispositivos tidos como violados, circunstância que atrai a incidência da Súmula 284/STF.
+Nesse sentido: AgRg no AREsp n. 2.764.076/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 27/3/2025; AgRg no AREsp n. 2.800.190/ES, Ministro Carlos Cini Marchionatti (Desembargador convocado do TJ/RS), Quinta Turma, DJEN 27/5/2025.
+Assim, remanesce apenas a violação dos arts. 226 e 593, III, d, ambos do Código de Processo Penal, sendo que tais dispositivos não ostentam comando normativo suficiente para respaldar todas as teses veiculadas no recurso especial.
+Ora, nas razões do recurso especial, a defesa do agravante veiculou as seguintes teses: 1) nulidade do reconhecimento levado a efeito em plenário; 2) nulidade por quebra de incomunicabilidade dos jurados; 3) nulidade decorrente do uso de algemas durante o julgamento; e 4) necessidade de desaforamento.
+Contudo, verifica-se que os arts. 226 e 593, III, d, ambos do CPP, somente guardam correlação com a primeira tese veiculada no recurso especial, ou seja, não ostentam comando normativo suficiente para respaldar as teses correlatas aos itens 2 a 4, de modo que, quanto a esses tópicos, incide a Súmula 284/STF.
+Nesse sentido: AgRg no AREsp 2.842.334/SP, Ministro Otavio de Almeida Toledo (Desembargador convocado do TJ/SP), Sexta Turma, DJEN 27/5/2025.
+Delimitado o âmbito de cognição, tenho que o recurso não comporta conhecimento mesmo no que refere à primeira tese.
+Ora, ao rechaçar a tese de nulidade no reconhecimento levado a efeito no Tribunal do Júri, a Corte de origem consignou, entre os fundamentos circunstanciados no aresto atacado, a preclusão da referida alegação (fl. 1.552).
+O agravante, no entanto, não impugnou o referido fundamento nas razões do recurso especial, atraindo, assim, o óbice da Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DISSÍDIO JURISPRUDENCIAL. INADMISSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE ACÓRDÃOS PARADIGMÁTICOS SEGUIDA DO INDISPENSÁVEL COTEJO ANALÍTICO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. VIOLAÇÃO GENÉRICA DE NORMAS SEM INDICAÇÃO DOS PRECEITOS TIDOS COMO VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 226 E 593, III, D, AMBOS DO CPP. INADMISSIBILIDADE. SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
