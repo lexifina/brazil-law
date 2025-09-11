@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por Município de Sorriso contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Mato Grosso, assim ementado (fls. 492/493):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. ISSQN. HABILITAÇÃO DE CELULAR. ATIVIDADE-MEIO VINCULADA À TELECOMUNICAÇÃO. INCIDÊNCIA DE ICMS. NÃO INCIDÊNCIA DE ISSQN. PARCIAL PROVIMENTO DO RECURSO.
+I. Caso em exame:
+Trata-se de apelação interposta por MS Connect Telecomunicações LTDA contra sentença proferida nos autos de embargos à execução fiscal n.º 1009179-32.2023.8.11.0040, ajuizada pelo Município de Sorriso/MT para cobrança de ISSQN sobre serviços de habilitação de celular. A sentença julgou improcedentes os embargos, mantendo a exigência tributária e condenando a embargante ao pagamento de custas e honorários de sucumbência.
+II. Questão em discussão:
+2. A questão em discussão consiste em saber se a atividade de habilitação de celulares caracteriza-se como (I) atividade-meio essencial à prestação do serviço de telecomunicação, sujeita ao ICMS, ou (II) atividade autônoma passível de tributação pelo ISSQN.
+III. Razões de decidir:
+3. A habilitação de celulares constitui atividade-meio indispensável à prestação do serviço de telecomunicação, conforme definido no art. 60 da Lei Geral de Telecomunicações (Lei nº 9.472/1997), integrando-se ao conjunto de operações que viabilizam a comunicação.
+4. O serviço em questão não se confunde com atividades autônomas previstas na lista anexa à LC nº 116/2003, como assistência técnica (item 14.02), por não envolver manutenção ou reparação de equipamentos, mas sim o cadastramento e ativação de linhas telefônicas.
+5. Nos termos do art. 155, II e § 3º, da CF/1988, serviços de telecomunicação sujeitam-se exclusivamente ao ICMS, sendo vedada a tributação municipal pelo ISSQN.
+6. A jurisprudência do STJ (REsp 883254/MG; AgRg no AREsp 445726/RS) e deste Tribunal (TJMT, Apelação Cível n.º 1007151-91.2023.8.11.0040) reconhece que atividades-meio ligadas à telecomunicação estão fora do campo de incidência do ISSQN
+IV. Dispositivo e tese:
+7. Recurso de apelação parcialmente provido para reformar a sentença, julgando parcialmente procedentes os embargos à execução fiscal, reconhecendo a nulidade da Certidão de Dívida Ativa n.º 1445/2017 e extinguindo a execução fiscal. Tese de julgamento: "1. A atividade de habilitação de celulares constitui atividade-meio essencial à prestação do serviço de telecomunicação, sujeitando-se à incidência do ICMS, e não do ISSQN. 2. A tributação municipal pelo ISSQN sobre atividades vinculadas à telecomunicação viola a competência tributária estabelecida na CF/1988."
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 155, III e 156, da CF; e 1º da Lei Complementar 116/2003 e os itens 1, 1.02 e 1.07 da lista de serviços anexa. Sustenta, em resumo, que: "  ..  torna-se inequívoca a incidência do ISSQN sobre os serviços de habilitação de celulares prestados pela empresa embargante, por se tratar de atividade-fim autônoma expressamente contemplada na lista de serviços  ..  " (fl. 517).
+Contrarrazões ofertadas às fls. 521/534.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, impende ressaltar que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 155 e inciso III e 156, da Constituição Federal.
+Ademais, verifica-se que o Tribunal de origem, ao decidir a questão, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1702175/GO, Rel. Ministro Marco Aurélio Belize, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1642570/SP , Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+Nesse panorama, fica prejudicado o exame do apelo especial na parte em que suscita divergência jurisprudencial, pois o não conhecimento do recurso quanto às razões invocadas pela alínea a diz respeito aos mesmos dispositivos legais e tese jurídica atinentes ao dissídio.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
