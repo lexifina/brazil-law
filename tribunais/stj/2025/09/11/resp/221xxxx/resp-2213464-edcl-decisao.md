@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIMED RECIFE COOPERATIVA DE TRABALHO MÉDICO contra decisão de fls. 554-558, que analisou recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Pernambuco em apelação nos autos de ação de obrigação de fazer c/c indenização por danos morais.
+A decisão afastou o dever de cobertura do medicamento Genotropin 12mg por ser de uso domiciliar, bem como inverteu os ônus sucumbenciais, ressalvando eventual concessão de gratuidade de justiça.
+Em suas razões, a parte embargante sustenta que a decisão embargada incorreu em omissão ao não declarar expressamente a improcedência do pedido de indenização por danos morais, uma vez que a condenação por danos morais estava fundamentada exclusivamente na suposta ilicitude da negativa de cobertura, que foi afastada pela decisão embargada (fls. 562-563).
+Requer o conhecimento e o provimento dos embargos de declaração para sanar a omissão apontada, integrando o dispositivo da decisão para que conste, com clareza, a reforma do acórdão recorrido e a improcedência de todos os pedidos formulados na petição inicial, incluindo os danos morais.
+As contrarrazões não foram apresentadas, conforme as certidões de fls. 568 e 569.
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte embargante aponta omissão na decisão embargada, alegando que não foi declarada expressamente a improcedência do pedido de indenização por danos morais, apesar de o reconhecimento da licitude da conduta afastar o ato ilícito e, consequentemente, o dever de indenizar.
+Eis o que consta da decisão embargada (fls. 557-558, destaquei):
+O acórdão recorrido concluiu que o rol da ANS possui caráter exemplificativo, conforme entendimento consolidado no Superior Tribunal de Justiça e na Lei n. 14.454/2022, admitindo a cobertura de tratamentos e procedimentos fora do rol desde que preencham os critérios estabelecidos, como a indicação médica e a eficácia comprovada e que a negativa de cobertura do tratamento é abusiva, mesmo que o medicamento seja de uso domiciliar.
+A orientação do Superior Tribunal de Justiça é no sentido de que "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim  .. .
+Desse modo, tendo as instâncias de origem reconhecido que o medicamento pleiteado era de uso domiciliar, não destinado para tratamento oncológico nem em home care, não se enquadrando, portanto, nas hipóteses de cobertura obrigatória ou de situação excepcional, nos termos no art. 10, VI, da Lei n. 9.656/1998, o acórdão recorrido não está em harmonia com a jurisprudência desta Corte, devendo ser reformado para se afastar o dever de cobertura do medicamento em questão, julgando-se improcedente o pleito inicial.
+Ante o exposto, conheço do recurso especial e dou-lhe parcial provimento para afastar o dever de cobertura do medicamento Genotropin 12mg por ser de uso domiciliar.
+Como visto, na decisão consta que o dever de cobertura do medicamento foi afastado, mas não houve menção expressa à improcedência do pedido de indenização por danos morais.
+Assim, verifica-se a omissão apontada pela parte embargante, sendo necessário integrar o julgado para declarar expressamente a improcedência de todos os pedidos formulados na petição inicial, incluindo os danos morais.
+Ante o exposto, acolho os embargos de declaração para sanar a omissão apontada.
+Publique-se. Intimem-se.
+EMENTA
