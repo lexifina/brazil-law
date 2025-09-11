@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA CRISTINA SILVEIRA com respaldo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado ( fls. 467, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL - DIFERENÇA DE AÇÕES INTEGRALIZADAS EM DECORRÊNCIA DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA- PRELIMINARES - ALEGAÇÃO DE ILEGITIMIDADE ATIVA - REJEITADA - PRESCRIÇÃO - AFASTADA - INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR - LEGISLAÇÃO JÁ AFASTADA EM SENTENÇA - FALTA DE INTERESSE RECURSAL - ITEM NÃO CONHECIDO - DEVER DE INDENIZAR - SENDO IMPOSSÍVEL A EMISSÃO DE NOVAS AÇÕES - RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Opostos dois Embargos de declaração, os interpostos por Ana Cristina Silveira foram acolhidos com efeitos modificativos e os da recorrente foram rejeitados (fls. 510/518, e-STJ).
+Foram distribuídos novos embargos pela parte ora recorrente, os quais foram rejeitados (fls. 527/531, e-STJ).
+Em suas razões, a parte aponta violação ao art. 535, II, do CPC e 239 e 402 do CC.
+Susntenta, em síntese, negativa de prestação jurisdicional e a errônea forma determinada pelo Tribunal local para ressarcimento dos valores e das ações que lhe são devidos.
+Contrarrazões às fls. 696/700 , e-STJ.
+Após decisão de admissão do recurso especial (fls. 709/711, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar em parte.
+1. De início, vale pontuar que as disposições do CPC/15 , no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça
+2. Cinge-se a pretensão recursal à verificação acerca do cabimento de retribuição acionária nos autos.
+No ponto, o Tribunal de origem determinou que "o montante da indenização pecuniária, correspondente às ações que não foram emitidas, e que tinham direito as partes demandantes, será apurado tomando-se por base o valor patrimonial da ação não emitida na data da integralização do capital, com base no artigo 247 do atual Código Civil." (fls. 473, e-STJ)
+Não obstante, existem sistemáticas diferentes quanto à forma de recebimento de diferenças das ações não emitidas em momento oportuno a depender da sistemática utilizada na contratação.
+Esta Corte Superior tem entendimento consolidado no sentido de que, em se tratando de contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital se dará apenas mediante a incorporação da planta telefônica ao patrimônio da concessionária, momento que deve ser considerado para a finalidade de emissão das ações. Dessa forma, inviável a aplicação da Súmula 371 do STJ.
+Por outra via, nos termos da jurisprudência desta Casa, em se tratando de contratos firmados na modalidade de PCT/PAID, a integralização do capital se dará apenas mediante a incorporação da planta telefônica ao patrimônio da concessionária, momento que deve ser considerado para a finalidade de emissão das ações.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDADA .
+1. Nos termos da jurisprudência desta Casa, em se tratando de contratos firmados na modalidade de PCT/PAID, a integralização do capital se dará apenas mediante a incorporação da planta telefônica ao patrimônio da concessionária, momento que deve ser considerado para a finalidade de emissão das ações.
+2. No caso em tela, considerando a necessidade de aprofundada análise do acervo probatório dos autos, a fim de apurar qual o regime de contratação utilizado, bem como eventual regularidade da emissão de ações, imperioso o retorno dos autos à Corte de origem, a fim de que proceda com novo julgamento do recurso de apelação, à luz da jurisprudência desta Corte Superior.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.805.341/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL CUMULADA COM EXIBIÇÃO INCIDENTAL DE DOCUMENTOS. BRASIL TELECOM. RECONSIDERAÇÃO. DIFERENCIAÇÃO DOS REGIMES PEX E PCT NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. ACÓRDÃO ESTADUAL EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. "É válida, no sistema de planta comunitária de telefonia - PCT, a previsão contratual ou regulamentar que desobrigue a companhia de subscrever ações em nome do consumidor ou de lhe restituir o valor investido" (REsp 1.391.089/RS, Relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 10/3/2014).
+2. "É assente nesta Corte Superior o entendimento de que, nos contratos firmados na modalidade de Planta Comunitária (PCT), a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas se dá apenas com a incorporação da planta telefônica ao patrimônio da concessionária, após construída e avaliada, momento que deve ser considerado para a finalidade de emissão das ações, sendo inaplicável a Súmula 371 do STJ" (AgInt no REsp 1.777.480/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/06/2019, DJe de 17/06/2019).
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar parcial provimento ao recurso especial, a fim de determinar o retorno do feito ao Tribunal de origem.
+(AgInt no AREsp n. 1.642.335/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/11/2021, DJe de 30/11/2021.)
+Considerando a necessidade de aprofundada análise do acervo probatório dos autos, a fim de apurar qual o regime de contratação utilizado no caso concreto, imperioso o retorno dos autos à Corte de origem, para que proceda com novo julgamento do recurso de apelação, à luz da jurisprudência deste Tribunal Superior.
+Nesse mesmo sentido, as seguintes decisões monocráticas proferidas por Ministros integrantes desta Corte Superior: REsp n. 2.005.709-PR, Rel. Min. JOÃO OTÁVIO DE NORANHA, DJEN 29/04/2025; AREsp n. 2.595.375-SC, Rel. Min. MARIA ISABEL GALLOTTI, DJEN 18/02/2025; REsp n. 1.956.184-PR, Rel. Min. ANTONIO CARLOS FERREIRA, DJEN 11/02/2025; REsp 2.117.609-PR, Rel. Min. MOURA RIBEIRO, DJEN 13/03/2024; e REsp n. 1.702.889-SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJEN 18/04/2024.
+3 . Do exposto, com amparo no artigo 932 do CP C/15 c/c a Súmula 568/STJ, dou parcial provimento ao recurso especial, a fim de determinar retorno dos autos ao Tribunal de origem, para reapreciação da controvérsia, à luz da jurisprudência desta Corte Superior.
+Publique-se.
+Intimem-se.
+EMENTA
