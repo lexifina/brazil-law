@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Bosch Rexroth Ltda., desafiando decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o recurso especial interposto pela parte ora agravante, pelos seguintes fundamentos: (I) incidência da Súmula 284/STF, pois "Embora o recorrente tenha oposto embargos de declaração para o suprimento de omissão, não alegou, no recurso especial, violação ao dever legal de fundamentação" e, portanto, "a omissão faz com que a fundamentação do recurso seja deficiente (Súmula 284 do STF)", e (II) necessidade de reexame de fatos e provas do processo (Súmula 7/STJ), tendo em vista "a conclusão do Tribunal recorrido a respeito do pagamento dos débitos, soberana, vinculando a instância superior" (fl. 737).
+Nas razões de agravo em apelo raro, a parte agravante sustenta, em síntese, que: (i) "a Agravante, no apelo especial, muito bem fundamentou todas as questões debatidas, e necessárias para o deslinde do caso, sendo que, todas as peculiaridades tratadas nos embargos anteriormente opostos, estão relatadas no recurso especial", não podendo "ser obstada em razão de um formalismo extremamente rigoroso e, até mesmo, exacerbado, por parte do julgador" (fl. 751), e (ii) "a questão debatida no presente pleito refere-se a questões unicamente jurídicas, quais sejam, a existência de prova inicial, consistente nas cópias integrais dos processos administrativos e comprovantes de pagamento e compensação" (fl. 753).
+Contraminuta às fls. 760/761.
+É O NECESSÁRIO RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar um dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Logo, não tendo havido efetiva impugnação a esse fundamento da decisão denegatória de admissibilidade do recurso especial, é de se manter a monocrática sob crivo.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
