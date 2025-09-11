@@ -1,0 +1,29 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento contra decisão que deferiu a liminar de reintegração de posse de imóvel nos autos de ação de reintegração de posse movida pelo Município contra o ora Agravante. No Tribunal a quo, a decisão liminar foi mantida, ao argumento, em apertada síntese, de que o imóvel era público e que o ora Agravante exercia apenas a mera detenção, ante sua ocupação irregular.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO  AÇÃO DE REINTEGRAÇÃO DE POSSE  LIMINAR CONCEDIDA EM PRIMEIRO GRAU PARA REINTEGRAR O AGRAVADO NA POSSE DO IMÓVEL  RECURSO VISANDO A CONCESSÃO DO EFEITO SUSPENSIVO  EFEITO NEGADO EM RAZÃO DA INEXISTÊNCIA DOS REQUISITOS LEGAIS PREVISTOS NO ARTIGO 995 § ÚNICO DO CPC - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Trata-se de agravo de instrumento com pedido de efeito suspensivo proposto contra a decisão de fls. 1867/1869, que deferiu a liminar de reintegração de posse do imóvel, sob o fundamento de que, pelos documentos carreados aos autos, repita-se, em análise perfunctória, observa-se que o réu ocupa irregularmente o imóvel, cedido que lhe foi por quem não poderia fazê-lo (fls. 64), com funcionamento em caráter precário (fls. 66), em condições higiênicas repreensíveis (fls. 67), e no presente, já inativo.
+ ..
+Além disso, analisando o termo de concessão de uso da área em discussão, firmado entre o agravado e a Associação dos Funcionários da Prefeitura Municipal de Salto Grande (fls. 95/97 desse agravo), verifica-se que a concessão era de 20 anos e expirou no ano de 2019.
+Assim, em que pesem os argumentos apresentados pelo agravante, de que firmou com a Associação termo de uso da área, observa-se que a relação do mesmo com o imóvel ocupado é de mera detenção, haja vista o título precário da autorização que lhe foi concedida, assim como a natureza de bem público do imóvel.
+Veja-se, ainda que sob a ótica possessória, após o vencimento do prazo de cessão, o agravante já foi notificado (fls. 11/13), caracterizando-se o esbulho possessório, que permite ao proprietário ser reintegrado na posse do imóvel.
+Sobre a autorização de uso de bem público, elucida-se sua natureza de ato administrativo discricionário e precário, podendo ser revogado a qualquer momento sem indenização.
+O uso privado de área pública, repita-se, via de regra, é precário, não havendo qualquer direito à renovação ou prorrogação, uma vez findo o prazo predeterminado. E o tempo da ocupação também não produz outros efeitos jurídicos em favor do particular.
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, ainda que para o fim de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp n. 1.604.506/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca de que a autorização de uso de bem público foi concedida por "quem não poderia fazê-lo", no caso uma Associação privada de funcionários do Município, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
