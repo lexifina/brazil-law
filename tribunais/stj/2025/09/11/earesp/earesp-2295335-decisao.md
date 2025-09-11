@@ -1,0 +1,14 @@
+DECISÃO
+IZAÍAS DE LIMA DA SILVA opõe embargos de divergência contra acórdão proferido pela Quinta Turma, que negou provimento ao agravo regimental.
+Em suas razões, com a finalidade de afastar a majoração de 1/5 pela continuidade delitiva, o insurgente aponta o dissenso jurisprudencial com diversos acórdãos proferidos pela Sexta Turma (AgRg no AREsp n. 2.045.704/MA, AgRg no REsp n. 1.902.209/PR e AgRg no AREsp n. 1.912.504/SP).
+Além disso, em relação à indispensabilidade do exame de corpo de delito, aponta a divergência com o AgRg no REsp n. 1.750.717/R e o AgRg no AgRg no AREsp n. 2.835.388/MG.
+Decido
+De início, registro que muito embora haja sido afirmado nos embargos de declaração que "em relação ao terceiro fato da denúncia, a certeza que se tem é de que houve a apropriação de dois cheques no mínimo, o que deveria ser considerado no aumento da continuidade delitiva" (fl. 3.978), isso não se relacionou com a incidência da fração de 1/5.
+Deveras, para além da própria possibilidade da existência de outro fato - situação que justificaria o aumento de 1/5 -, o acórdão apenas referenciou a referida passagem contida na origem com a finalidade de reafirmar a ocorrência da contunuidade. A fração de aumento, portanto, não foi tratada em momento algum por esta Corte.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado, no ponto, o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+O mesmo se diga em relação ao argumento de indispensabilidade de exame de corpo de delito, que encontraria justificativa apenas quando houvesse o desaparecimento dos vestígios, o qual também não foi objeto de análise específica do acórdão impugnado, o qual se restringiu a assinalar o seguinte (fl. 3943):
+Em relação ao exame pericial, há uma infinidade de precedentes desta Corte, que por si sós, afastam a tese da sua imprescindibilidade, notadamente quando se tem farta prova documental e testemunhal acerca da autoria e materialidade delitivas, como na hipótese.
+De fato, como se observa, não houve nenhuma afirmação no acórdão de que, no caso, o exame deixou de ser realizado porque haveriam outras provas, mas que essas provas seriam suficientes para comprovar a autoria e materialidade. Sob a perspectiva da justificativa da não realização do referido exame, portanto, nada foi dito, a atrair, de igual forma, a Súmula n. 315 do STJ.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
