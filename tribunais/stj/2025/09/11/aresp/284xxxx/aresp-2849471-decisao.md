@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por ARSENIO OLIVEIRA SANTOS FILHO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fls. 101-102):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO EM AÇÃO DE DESPEJO POR DENUNCIA VAZIA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO, ANTE O INDEFERIMENTO DA PETIÇÃO INICIAL. INOCORRÊNCIA DE QUAISQUER DAS HIPÓTESES PREVISTAS NO ART. 330, DO CPC. ERROR IN JUDICANDO. SENTENÇA ANULADA. TEORIA DA CAUSA MADURA. APLICABILIDADE DO ART. 1.013, §3º, I, do CPC, AO CASO CONCRETO. PRELIMINAR CONTRARRECURSAL DE ILEGITIMIDADE ATIVA. REJEIÇÃO PEDIDO DE DESOCUPAÇÃO LIMINAR. EXEGESE DO ART. 59, §1º, VIII, da Lei n. 8.245/91. PREENCHIMENTO DOS REQUISITOS LEGAIS. LEGITIMIDADE. MÉRITO. DESPEJO POR DENÚNCIA IMOTIVADA. SATISFAÇÃO DOS PRESSUPOSTOS. POSSIBILIDADE. AÇÃO JULGADA PROCEDENTE. APELO QUE SE DÁ PROVIMENTO.
+1. Verifica-se dos autos, mais precisamente da exordial e dos documentos que a ela acompanham que a autora, ao contrário do quanto entendido equivocadamente pelo ilustre a quo, preencheu os requisitos da petição inicial, a exemplo legitimidade ativa e passiva, interesse processual, a existência de pedido certo e determinado, causa de pedir, além de ter narrado os fatos com a conclusão lógica. Assim, pode-se concluir, que o douto magistrado primevo ocorreu em evidente error in judicando, no entendimento incorreto da situação fática e jurídica do caso concreto, afastando, assim, a hipótese de indeferimento da petição inicial, razões pelas quais deve a sentença ser desconstituída.
+2. Por outro lado, estando o processo apto para julgamento, deve o Tribunal julgar a lide, nos casos de extinção do feito sem resolução de mérito, nos termos do art. 1.013, §3º, I, do CPC, até porque, fora concedido ao réu o direito a ampla defesa e ao contraditório, quando da sua citação/intimação para apresentação das contrarrazões a presente insurgência.
+3. Assim, passa-se ao exame da preliminar de ilegitimidade ativa suscitada pelo apelado, que, de pronto, afianço que deve ser rechaçada. Isso porque, do exame do contrato locativo, disposto no Id. 38596983, denota-se que a parte ora apelante, figura naquela avença na qualidade de locadora, junto com a Sra. Vera Koch de Carvalho Barroso, possuindo, destarte, legitimidade para figurar no polo ativo desta demanda, razão pela qual não prospera a alegada prefacial.
+4. Lado outro, de referência ao pedido de desocupação liminar, verifica-se que a autora preencheu os requisitos dispostos no art. 59, §1º, VIII, da Lei n. 9.245/91, ao ajuizar a ação, dentro do trintídio legal, após a notificação premonitória do locatário, consoante se infere do Id. 38596984, pelo que defere-se a ordem desalijatória, concedendo, entretanto, o prazo de 15 (quinze) dias, para desocupação voluntária, uma vez prestada a caução, que fixo no importe equivalente a 03 (três) alugueres, nos termos do art. 59, §1º, da Lei de Locações.
+5. No mérito, sabe-se que, nas relações locatícias regidas por tempo indeterminado, tem o Locador direito de pleitear a retomada do imóvel a qualquer tempo, desde que notifique o Locatário do seu intento.
+6. Pois bem. No caso sub oculis, não se fundando o pedido nas hipóteses previstas no inciso IV do art. 9º, inciso IV do art. 47 e inciso II do art. 53, dispensa-se a comprovação da propriedade do imóvel ou do compromisso registrado, a teor do art. 60, da Lei de regência.
+7. Lado outro, observa-se que a apelante cumpriu o quanto disposto no art. 46, §2º., ao denunciar o contrato, a qualquer tempo, concedendo o prazo de 30 (trinta) dias para desocupação.
+8. Ademais, da leitura minuciosa das contrarrazões, vê-se que o locatário deixou de fazer prova das suas alegações, como estava obrigado, exegese do art. 373, II, do CPC. Ao contrário, defendeu apenas a manutenção da decisão vergastada, pelos fundamentos aqui rechaçados, em razão da ocorrência de error in judicando da situação fática e jurídica do caso em estudo.
+9. SENTENÇA ANULADA. PRELIMINAR DE ILEGITIMIDADE ATIVA RECHAÇADA. APELO PROVIDO, PARA CONCEDER O PEDIDO DE DESOCUPAÇÃO LIMINAR E, CONSEQUENTEMENTE, JULGAR PROCEDENTE A AÇÃO, DEFERINDO A ORDEM DESALIJATÓRIA.
+Rejeitados os embargos de declaração opostos (fls. 293-322).
+No recurso especial, alega violação dos arts. 7º, 8º, 9º, 10, 331, §2º, 369 e 1.008, todos do CPC, além do art. 5º, LV, da Constituição Federal.
+Sustenta, em síntese, violação dos princípios do contraditório, da ampla defesa e do devido processo legal, além da supressão de instância e julgamento ultra petita.
+Pugna pela concessão de efeito suspensivo ao recurso especial.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 389-400).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 402-413), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 416-442).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+Conforme se extrai dos autos, os arts. 7º, 8º e 369 do CPC apontados como violados e as teses a eles vinculadas não foram prequestionados, incidindo o óbice das Súmulas 211/STJ e 282/STF.
+Ressalta-se que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020).
+Quanto à alegação de afronta aos arts. 9º, 10, 331, § 2º, e 1.008 do CPC, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+2. A alegação genérica de ofensa à lei, sem indicação clara dos motivos pelos quais a norma teria sido malferida esbarra na Súmula n. 284 do STF.
+(AgInt no AREsp n. 2.254.455/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025.)
+4. A parte agravante limita-se a reiterar argumentos genéricos, sem demonstrar, de maneira clara e objetiva, a violação de norma federal ou o desacerto da interpretação conferida pela instância inferior, o que configura deficiência de fundamentação e justifica o não conhecimento do recurso, à luz da Súmula 284/STF.
+(AgInt no AREsp n. 2.865.858/PE, relatora Ministra Daniela Teixeira, Terceira Turma, DJEN de 26/6/2025.)
+1. É inadmissível o recurso especial que não indica, de forma clara e objetiva, como o acórdão recorrido teria contrariado os dispositivos apontados como violados, caracterizando-se a deficiência de fundamentação da Súmula nº 284/STF.
+(AgInt no AREsp n. 2.474.913/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 25/9/2024.)
+No que tange ao alegado dissenso jurisprudencial, verifica-se que não houve demonstração da divergência nos moldes legais, tendo em vista que a parte recorrente limitou-se a transcrever as ementas e não realizou o devido cotejo analítico, conforme previsto nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, atraindo o óbice da Súmula n. 284/STF.
+Por fim, fica prejudicada a análise do pedido de atribuição de efeito suspensivo postulado nas contrarrazões diante do não conhecimento do recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 129).
+Publique-se. Intimem-se.
+ EMENTA
