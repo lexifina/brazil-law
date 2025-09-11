@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por FELIPE MACIEL BARRETO - preso preventivamente pela suposta prática pelo delito de tráfico de drogas, com apreensão de aproximadamente 90 g de cocaína -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que denegou o Habeas Corpus criminal n. 5187729-06.2025.8.21.7000.
+Neste recurso, a defesa sustenta que a decisão que decretou a prisão preventiva carece de fundamentação idônea, limitando-se a alegações genéricas de risco abstrato à ordem pública.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva; subsidiariamente, a substituição por cautelares.
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da suposta participação do recorrente no comércio espúrio de entorpecentes, tanto que, deferida a expedição de mandado de busca e apreensão, houve apreensão de cocaína, valores em notas fracionadas, assim como balança de precisão e máquina de cartão de crédito (fl. 55).
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, o recorrente, aparentemente, é réu primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e a quantidade de droga apreendida, apesar de significativa, não pode ser considerada exorbitante a ponto de justificar, por si só, a prisão (aproximadamente 90 g de cocaína), circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Assim, dou provimento ao recurso ordinário em habeas corpus para substituir a prisão cautelar imposta ao recorrente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE APROXIMADAMENTE 90 G DE COCAÍNA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUSÊNCIA DE FUNDAMENTOS SUFICIENTES A JUSTIFICAR A MANUTENÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
