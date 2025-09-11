@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ALAN PETERSON PIRES MARIANO, apontando-se como autoridade coatora o Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de revogação da prisão preventiva nos autos do Recurso em Sentido Estrito n. 1502778-26.2024.8.26.0292 (fls. 14/15 ).
+Extrai-se dos autos que o paciente foi preso preventivamente, em 30/9/2024 (fl. 4), pela suposta prática dos crimes de homicídio qualificado e porte ilegal de arma de fogo de uso restrito (Processo n. 1502778-26.2024.8.26.0292, da 2ª Vara Criminal - ANEXO DA INFÂNCIA E JUVENTUDE - da comarca de Jacareí/SP - fls. 34/40 ).
+Neste mandamus, o impetrante alega ausência dos requisitos previstos no art. 312 do CPP para a manutenção da prisã o preventiva, de modo que a custódia não estaria suficientemente fundamentada em elementos concretos. Ressalta a presença de condições pessoais favoráveis e a suficiência das medidas cautelares alternativas.
+Requer, limi narmente e no méri to, a revogação da prisão preventiva.
+É o relatório.
+O presente writ não comporta conhecimento, pois impugna decisão monocrática de desembargador que indeferiu pedido de revogação de prisão preventiva nos autos de recurso em sentido estrito, circunstância que atrai a incidência do enunciado da Súmula 691/STF, por analogia.
+Nesse sentido, Conforme entendimento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. É o que está sedimentado na Súmula n. 691 do Supremo Tribunal Federal, aplicável, mutatis mutandis, ao Superior Tribunal de Justiça. Tal entendimento incide, por analogia, no caso em que se impugna decisão indeferitória de liminar em revisão criminal (AgRg no HC n. 795.439/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/3/2023, DJe de 29/3/2023 - grifo nosso).
+E, mais, não deve ser conhecido o writ impetrado contra decisão do Relator que indefere a liminar postulada em outro habeas corpus requerido na origem, sob pena de indevida supressão de instância. Tal entendimento, por analogia, também se aplica o caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada (AgRg no HC n. 884.434/PR, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024 - grifo nosso).
+Assim, diante da ausência de manifestação da Corte a quo sobre o tema ora trazido nas razões da inicial , fica esta Corte Superior impedida de realizar o exame direto das alegações, sob pena de se incidir em indevida supressão de instância.
+Ressalto, por fim, que esse posicionamento, no entanto, pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, circunstância não verificada no caso.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA MANTIDA NA PRONÚNCIA. PEDIDO DE REVOGAÇÃO INDE FERIDO PELO RELATOR EM RECURSO EM SENTIDO ESTRITO NO TR IBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF.
+Writ indeferido liminarmente.
