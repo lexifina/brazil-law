@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIANO RIBEIRO DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que não admitiu o recurso especial com base na Súmula n. 83, do Superior Tribunal de Justiça.
+Depreende-se dos autos que o recorrente foi condenado como incurso no art. 33, da Lei nº 11.343/2006 a uma pena de 10 (dez) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, além de multa.
+No presente agravo, alega o recorrente que o recurso especial deve ser admitido, porquanto não há no caso óbice do enunciado da Súmula n. 7, do STJ, no que concerne às circunstâncias do crime, tendo em vista que os fatos são incontroversos.
+Ainda, diz que também é inaplicável ao caso a Súmula n. 83, deste Tribunal, porque há julgados divergentes desta Corte em casos semelhantes, uma vez que a norma (art. 42, da Lei nº 11.343/2006) traz o conectivo aditivo "e" para justificar o aumento da pena-base com fulcro na natureza e quantidade da droga, sendo que a quantidade de crack apreendido foi irrisória (0,4 gramas).
+O Ministério Público Federal apresentou parecer no sentido de que o agravo em recurso especial seja desprovido (fls. 302-303).
+É o relatório. DECIDO.
+Inicialmente, observa-se que o agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido.
+Adiante, não obstante a plausibilidade do argumento trazido pelo recorrente, no sentido de que, ao se analisar os vetores do art. 59, do Código Penal, a majoração com base no art. 42, da Lei nº 11.343/2006 deve considerar conjuntamente a natureza e quantidade da droga, ao se examinar o julgado em apelação do Tribunal de origem, constata-se que a majoração do vetor culpabilidade não se deu apenas com base na natureza da droga, mas também na falta de compromisso do recorrente com a ressocialização, porquanto estava cumprindo pena decorrente de condenação criminal quando foi preso praticando o novo delito.
+Assim, ainda que se pudesse acolher o argumento do recorrente quanto à adequada aplicação do art. 42, da Lei nº 11.343/2006, a circunstância judicial da culpabilidade ainda prevalece como negativa, em razão dos demais fatos considerados pelo acórdão do Tribunal de Justiça.
+Sobre o tema: "De acordo com a orientação desta Corte, a prática de novo delito durante o cumprimento da pena em regime aberto autoriza o acréscimo da reprimenda da primeira fase da dosimetria. Precedentes. 2. Agravo regimental não provido." (STJ - AgRg no HC: 882326 SC 2024/0001081-9, Relator.: Ministro ROGERIO SCHIETTI CRUZ, Data de Julgamento: 02/09/2024, T6 - SEXTA TURMA, Data de Publicação: DJe 04/09/2024).
+Ademais, verifica-se que também não é possível o reexame dos demais fatos citados para se considerar neutra a culpabilidade, porquanto há o impedimento da Súmula n. 7, desta Corte.
+Por fim, o mesmo óbice impede o reexame do fatos que fundamentaram como negativo o vetor das circunstâncias do crime, uma vez que o acórdão refutado pelo recurso especial apreciou as provas dos autos para assim concluir.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do STJ, conheço do presente agravo para não conhecer do recurso especial.
+Publique-se.  Intimem-se.
+EMENTA
