@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ARIEL MARCELINO DA SILVEIRA contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, com fundamento no art. 21-E, V, do Regimento Interno do STJ e na Súmula 284 do Supremo Tribunal Federal .
+Em suas razões, o agravante alega que houve impugnação específica dos fundamentos da decisão agravada e que a decisão monocrática merece ser reconsiderada.
+Da mesma forma, afirma que não se aplica a Súmula n. 284, STF, tendo em vista que o recurso abordou e impugnou todos os fundamentos de maneira autônoma e precisa .
+A defesa alega que o apenado foi condenado a um total de 31 anos, 9 meses e 9 dias em 5 ações penais. Embora não se enquadre nos requisitos de indulto, preenche os critérios para comutação de pena, que exige cumprimento de 1/5 da pena para primários e 1/4 para reincidentes.
+O agravante, reincidente, precisaria cumprir 5 anos, 3 meses e 3 dias dos 21 anos e 13 dias de crimes comuns, e 10 anos e 8 meses dos 16 anos de pena por homicídio qualificado (crime impeditivo de indulto), totalizando 15 anos, 11 meses e 3 dias para a comutação. Até 25 de dezembro de 2023, o apenado já havia cumprido 16 anos, 5 meses e 16 dias, superando o tempo necessário. Adicionalmente, o relatório disciplinar confirma que ele não cometeu falta grave nos últimos 12 meses, outro requisito do decreto.
+Parecer do Ministério Público Federal ( fls.143/149) pela concessão de habeas corpus de ofício.
+É o relatório. DECIDO.
+O agravo regimental busca a reforma da decisão monocrática que não conheceu do agravo em recurso especial, aplicando a Súmula n. 284, STF pela ausência de indicação dos dispositivos legais violados.
+Entretanto, o agravante, em suas razões de agravo regimental, contestou especificamente esse fundamento, argumentando que houve, sim, impugnação específica dos fundamentos da decisão anterior e que a decisão monocrática deveria ser reconsiderada.
+Conheço do agravo. Passo, portanto, à análise do mérito do recurso especial.
+No mérito, o agravante busca restabelecer a decisão de primeiro grau que concedeu a comutação da pena, com base no Decreto Presidencial n. 11.846/2023.
+O Tribunal de origem, deferiu recurso do Ministério Público do Paraná contra essa decisão, apontando que o agravante já tinha sido beneficiado por comutação de pena em decreto anterior (Decreto n. 9.246/2017), o que impediria a nova concessão, conforme o art. 4º do Decreto Presidencial de 2023.
+Alega que há um conflito aparente de normas entre os artigos 3º e 4º do referido decreto, que deve ser interpretado de forma sistemática favorável ao apenado. Argumenta que a jurisprudência do STJ sobre decretos anteriores com redação semelhante já consolidou a possibilidade de comutações sucessivas.
+Trago à colação a norma em questão (Decreto n. 11.846/2023):
+Art. 3º.. Concede-se a comutação da pena remanescente, aferida em 25 de dezembro de 2023, de um quarto, se não reincidentes, e de um quinto, se reincidentes, às pessoas condenadas a pena privativa de liberdade, não beneficiadas com a suspensão condicional da pena e que até a referida data tenham cumprido um quinto da pena, se não reincidentes, ou um quarto da pena, se reincidentes, e que não preencham os requisitos estabelecidos neste Decreto para receber o indulto.
+§ 1º.. O cálculo será feito sobre o período de pena cumprido até 25 de dezembro de 2023, se o período de pena cumprido, descontadas as comutações anteriores, for superior ao remanescente.  ..
+Art. 4º.. Concede-se comutação às pessoas condenadas a pena privativa de liberdade que atendam aos requisitos estabelecidos neste Decreto e que não tenham, até 25 de dezembro de 2023, obtido as comutações por meio de Decretos anteriores, independentemente de pedido anterior. Parágrafo único. Não é possível utilizar de forma cumulativa o tempo de pena para as hipóteses de comutação de que tratam os art. 3º e art. 4º.
+Eis a ementa do acórdão do Tribunal de origem ( fls.35):
+RECURSO DE AGRAVO EM EXECUÇÃO- DECISÃO AGRAVADA QUE DEFERIU A COMUTAÇÃO DA PENA COM BASE NO DECRETO PRESIDENCIAL Nº 11.846/2023 - IRRESIGNAÇÃO MINISTERIAL REQUERENDO A REVOGAÇÃO DO BENEFÍCIO - ACOLHIMENTO - APENADO QUE JÁ FOI AGRACIADO COM O BENEFÍCIO POR DECRETO ANTERIOR (9.246/2017) - VEDAÇÃO EXPRESSA DO ART. 4º DO DECRETO PRESIDENCIAL DE 2023 - PRECEDENTES - DECISÃO REFORMADA - RECURSO CONHECIDO E PROVIDO.
+Na hipótese, verifica-se que o acórdão impugnado está em consonância com a jurisprudência desta Corte Superior, que entende pela impossibilidade de que condenações comutadas por força de decretos anteriores sejam novamente objeto do benefício, nos termos do art. 4º do Decreto Presidencial nº 11.846/23.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 11.846/2023. VEDAÇÃO EXPRESSA À CONCESSÃO DO BENEFÍCIO A APENADO JÁ AGRACIADO POR DECRETOS ANTERIORES. INTERPRETAÇÃO LITERAL DO ART. 4º DO DECRETO. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Decreto Presidencial n. 11.846/2023 estabelece, em seu artigo 4º, vedação expressa à concessão da comutação de pena a apenados que já tenham sido beneficiados por decretos anteriores, independentemente de pedido anterior.
+2. No caso, o acórdão proferido pelo Tribunal de origem, ao indeferir a comutação de pena, alinhou-se ao entendimento consolidado desta Corte, que reitera a impossibilidade de concessão do benefício a condenados já agraciados por comutação em períodos anteriores.
+3. Inviável interpretação extensiva do Decreto Presidencial, uma vez que a norma aplicada ao caso concreto é clara ao impedir a concessão da comutação nas hipóteses vedadas.
+4. Agravo regimental não provido (AgRg no HC n. 979.890 /PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em , DJEN de 19/3/2025.).
+Ante o exposto, nos termos do artigo 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
