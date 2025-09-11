@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto por MARLON ALVES VILELA, contra decisão do Tribunal de Justiça do Estado de Goiás (TJGO) que inadmitiu seu Recurso Especial.
+Consta dos autos que o agravante foi condenado pelo Tribunal do Júri pela prática do crime de homicídio qualificado (art. 121, § 2º, incisos II e IV, do Código Penal), à pena inicial de 21 (vinte e um) anos de reclusão.
+Em sede de apelação, o TJGO deu parcial provimento ao recurso defensivo apenas para redimensionar a pena para 11 (onze) anos e 06 (seis) meses de reclusão, mantendo, no mais, o veredicto condenatório.
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao art. 593, inciso III, alínea "d", do Código de Processo Penal. Sustentou, em síntese, que a decisão dos jurados foi manifestamente contrária à prova dos autos, requerendo a anulação do julgamento.
+O TJGO inadmitiu o recurso com base na Súmula 7, STJ. No presente Agravo, a defesa reitera seus argumentos.
+O Ministério Público Federal, em seu parecer (e-STJ fls. 1021-1030), opinou pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório. Decido.
+Antecipo que o agravo preenche os pressupostos de admissibilidade. Contudo, o Recurso Especial não merece prosperar. Explico.
+A tese central da defesa é a de que o veredicto do Conselho de Sentença foi manifestamente contrário à prova dos autos. No entanto, a referida alegação defensiva não encontra amparo.
+No ponto que ressaltar, que a anulação de um julgamento proferido pelo Tribunal do Júri, com base no art. 593, inciso III, alínea "d", do CPP, é medida excepcionalíssima, cabível somente quando a decisão dos jurados se mostra arbitrária, divorciada por completo de qualquer elemento probatório contido nos autos, sendo que esse não é o que se verifica no presente caso.
+O Tribunal de origem, ao analisar a apelação, foi claro ao afirmar que a decisão dos jurados encontrou respaldo em uma das versões apresentadas em plenário, amparada por provas concretas, como a confissão do réu, laudos periciais e depoimentos testemunhais colhidos ao longo da instrução. Nesse sentido, cabe transcrever trecho do acórdão recorrido (e-STJ fls. 920-921):
+"Decidindo o Conselho de Sentença em conformidade com as provas que fazem parte do conjunto probatório, as quais foram apreciadas e consideradas válidas por ocasião da pronúncia e ainda, submetidas ao Plenário, não se pode acoimar esse veredicto de manifestamente contrário à prova dos autos. (..) se os jurados, diante do conjunto probatório que lhes fora apresentado, e com a soberania que lhes é inerente, entenderam que o acervo probatório foi o bastante para embasar o decreto condenatório do apelante, não é dado ao juízo revisional o reexame da prova para reavaliá-la".
+Com efeito, a opção dos jurados por uma das teses plausíveis, devidamente sustentada por elementos probatórios, está protegida pelo princípio constitucional da soberania dos veredictos, sendo que não cabe a esta Corte Superior substituir o juízo de valor realizado pelo Conselho de Sentença.
+Como bem ressaltou o Ministério Público Federal em seu parecer, "não é manifestamente contrária às provas do processo decisão dos jurados que acolhe uma das versões apresentadas pela acusação ou pela defesa fundamentadas no conjunto probatório produzido. Opção dos jurados por uma ou outra versão, em detrimento dos interesses de uma das partes, não justifica cassação do veredicto." (e-STJ fl. 1027).
+Portanto, para desconstituir a conclusão das instâncias ordinárias e acolher a pretensão defensiva, seria necessário um aprofundado reexame do acervo fático-probatório, o que é vedado na via estreita do recurso especial, a teor do que dispõe a Súmula 7, STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
