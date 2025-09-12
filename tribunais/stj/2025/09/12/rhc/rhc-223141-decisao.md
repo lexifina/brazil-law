@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso em Habeas Corpus com pedido de liminar interposto por CARLOS HENRIQUE MORAES LIMA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ.
+Consta dos autos que o recorrente foi preso em flagrante no dia 20/03/2025, acusado da prática dos crimes de tráfico de drogas qualificado, associação para o tráfico, posse irregular de arma de fogo de uso permitido e receptação.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 146-155.
+No presente recurso, a defesa sustenta a ocorrência de constrangimento ilegal e argumenta: (a) predicados pessoais favoráveis; (b) segregação processual encontra-se despida de fundamentação idônea; (c) não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal; e (d) revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP.
+Requer, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta ao recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da quantidade de droga apreendida: 404,9 g (quatrocentos e quatro vírgula nove gramas) de cocaína, 290,9 g (duzentos e noventa vírgula nove gramas) de maconha, e 143,7 g (cento e quarenta e três vírgula sete gramas) de cocaína, circunstâncias aptas a ensejarem a manutenção da segregação cautelar- fls. 98-99.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Por fim, condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+A nte o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
