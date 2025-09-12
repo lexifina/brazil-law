@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LOCALIZA RENT A CAR S. A. à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 2.588):
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ISS. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. DISCUSSÃO SOBRE SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INCIDÊNCIA DA SÚMULA 7/STJ. CONCLUSÃO DO ACÓRDÃO PELA REGULARIDADE DA EXAÇÃO TRIBUTÁRIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 2.598-2.602), a embargante sustenta que a decisão monocrática incorreu em omissão quanto à aplicação da Súmula n. 7 do STJ.
+Alega que não pretende o reexame do acervo probatório, "mas sim o reconhecimento da nulidade do acórdão recorrido por cerceamento de defesa, em razão do indeferimento da prova técnica reputada imprescindível" (e-STJ, fl. 2.599).
+Pondera que a discussão dos autos versa sobre a dilação probatória e a obrigação de pagar o ISS.
+Aponta omissão e, por consequência, contradição quanto ao pedido de prova pericial e o julgamento antecipado da lide, tendo sido violados os arts. 335, I; 464, §1º, II; 938, § 3º, do CPC, que exigem a conversão do julgamento em diligência quando constatada a necessidade de prova pericial.
+Ressalta que, "ao não determinar a nulidade do acórdão, a decisão foi omissa e contraditória quanto ao cerceamento de defesa configurado, devendo os embargos se- rem acolhidos para que estes vícios sejam sanados" (e-STJ, fl. 2.601
+Postula, ao fim, o acolhimento dos presentes embargos.
+Foi apresentada impugnação ao recurso às fls. 2.611-2.617 (e-STJ).
+Brevemente relatado, decido.
+De início, cabe rememorar que os embargos de declaração constituem meio de impugnação à decisão judicial de fundamentação vinculada, cabíveis apenas nas hipóteses estabelecidas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+Tal recurso objetiva o aprimoramento das decisões judiciais, com o propósito de prestar a tutela jurisdicional de forma clara e completa, sem, contudo, revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Em atenção à finalidade integrativa do recurso aclaratório, inviável se mostra a utilização do meio impugnativo para a reforma do entendimento aplicado ou novo julgamento da causa, conforme pretende a parte embargante.
+3. Não compete a este Tribunal Superior examinar suposta violação de normativo constitucional, nem sequer para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal, nos termos do que dispõem os artigos 102 e 105 da Constituição Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.937.467/MG, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+Efetivamente, no que concerne à questão ventilada pela embargante (ação anulatória de débito fiscal com o objetivo de desconstituir lançamentos relativos à cobrança de ISS), não se se observa a alegada omissão, porquanto foi esclarecido que o TJSP ao reformar a sentença, entendeu que não haveria suficiência probatória para afirmar que os valores cobrados, em conjunto com o custo da locação de veículos, seriam objeto de reembolsos a terceiros.
+Na ocasião, consignou que "não se verifica qualquer prova documental apta a afastar a presumida regularidade da exação, a incluir a ocorrência do fato gerador, a regularidade do ato de lançamento, a existência do débito, sua extensão e sua exigibilidade" (e-STJ, fl. 2.277).
+Dessa forma, permanece incólume a aplicação da Súmula n. 7 do STJ e a assertiva no sentido de que a revisão das conclusões alcançadas não prescindiria do reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção.
+A incidência da Súmula 7/STJ também foi justificada em relação ao conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que, consoante iterativa jurisprudência desta Corte, falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso, devendo ser refutada a alegação de obscuridade no ponto.
+Salienta-se, ademais, que a contradição que autoriza embargos de declaração é a contradição interna, isto é, aquela existente no texto e conteúdo do próprio julgado, que apresenta proposições entre si inconciliáveis, situação não depreendida no julgado embargado.
+Nessa mesma linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. CONFIGURAÇÃO. NÃO OCORRÊNCIA. MULTA PROCESSUAL. INAPLICABILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição que abre espaço ao recurso integrativo é aquela interna, verificada entre as proposições e as conclusões do próprio julgado, o que não ocorreu no caso concreto. Precedente: EDcl nos EREsp n. 667.002/DF, Rel. Ministro Humberto Martins, Corte Especial, DJe de 12/3/2019.
+4. Não merece ser acolhido o pedido formulado em sede de impugnação aos aclaratórios, concernente à imposição da multa processual prevista no art. 1.026, § 2º, do CPC, haja vista que não se vislumbra o caráter manifestamente protelatório dos embargos.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no RMS n. 65.045/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. ÇÃO ANULATÓRIA DE DÉBITO FISCAL. ISS. OMISSÃO/CONTRADIÇÃO. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
