@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE GUAIMBÊ e OUTROS, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO na Apelação 2001.34.00.013325-0/DF.
+Na origem, a sentença julgou improcedente o pedido dos Municípios autores, que objetivavam o recálculo do montante que integra o Fundo de Participação dos Municípios  FPM, sem a exclusão de determinados valores da base de cálculo (fls. 485-493).
+O Tribunal regional deu provimento à apelação da Fazenda Nacional, determinando que a fixação dos honorários advocatícios sucumbenciais fosse majorada, considerando-se os princípios da razoabilidade e da equidade, e que o montante fosse apurado no momento processual oportuno (fls. 525-527). Confira-se a ementa do julgado (fl. 527):
+CONSTITUCIONAL. TRIBUTÁRIO. REPASSES DE COTAS REFERENTES AO FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM. MPOSTO DE RENDA - IR E IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. 5,6% DO TOTAL DE ARRECAÇÃO DO IMPOSTO DE RENDA. LEIS Nº 8.894/1994, Nº 8.849/94 E Nº 8.848/94. PIN E PROTERRA. IRPF RESTITUÍDO PELA UNIÃO AOS SERVIDORES FEDERAIS. HONORÁRIOS ADVOCATÍCIOS.
+1. Tenho firmado o entendimento de que os honorários de sucumbência têm característica complementar aos honorários contratuais, haja vista sua natureza remuneratória.
+2. Ademais, entendo que a responsabilidade do advogado não tem relação direta com o valor atribuído à causa, vez que o denodo na prestação dos serviços há de ser o mesmo para quaisquer casos. 3. No entanto, a fixação dos honorários advocatícios sucumbenciais levada a efeito pelo Juízo sentenciante não guarda observância aos princípios da razoabilidade e da equidade, razão pela qual devem ser majorados, considerando-se o previsto nos incisos nos incisos I a V do § 3º c/c o inciso II do § 4º do art. 85 do NCPC, cujo montante deverá ser apurado no momento processual oportuno.
+3. Apelação provida.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 554-557).
+No recurso especial, os Municípios recorrentes alegam violação dos arts.: (a) 475 do CPC, diante da negativa de apreciação da remessa necessária, que deveria ter sido realizada pelo Tribunal de origem, uma vez que a sentença foi desfavorável aos entes da Administração Pública, configurando a negativa de prestação jurisdicional e ferindo o devido processo legal; (b) 20, §§ 3º e 4º do CPC/73 e 85, §3º, incisos I a V do § 3º e § 4º, inciso II, do CPC de 2015, em face da fixação de honorários advocatícios de forma exorbitante, desproporcional e desarrazoada, sem observância dos critérios de equidade e razoabilidade, conforme estabelecido na legislação vigente à época da sentença.
+Reforça que a decisão do Tribunal de origem, ao aplicar o novo CPC para a fixação dos honorários, desconsiderou o marco temporal da sentença, que foi proferida sob a égide do CPC/73, resultando em violação ao princípio tempus regit actum. Argumenta que a fixação dos honorários deveria ter seguido as diretrizes do CPC/73, que impõem a apreciação equitativa, especialmente em causas envolvendo a Fazenda Pública.
+Pretende o provimento do recurso para que seja decretada a nulidade do acórdão por negativa de prestação jurisdicional e violação do duplo grau de jurisdição, determinando o retorno dos autos ao Tribunal Regional Federal da 1ª Região para apreciação das questões suscitadas, ou, caso ultrapassada essa questão, que seja reformado o acórdão para restabelecer a sentença quanto aos honorários sucumbenciais, reduzindo-os drasticamente, por ser medida de justiça.
+Admitido o recurso especial (fls. 619-620).
+É o relatório.
+Decido.
+A fixação de honorários sem critérios legais constitui o cerne do recurso especial.
+O recurso está prejudicado.
+Isso porque o recurso interposto pela Fazenda Nacional foi parcialmente provido para "anular o acórdão proferido no julgamento dos embargos de declaração e, como corolário, devolver os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento com a análise da questão omissa, ficando prejudicados os demais pontos do presente recurso".
+Nesse aspecto, ante a anulação do acórdão embargado, fica prejudicado o presente recurso especial.
+Ante o exposto, nos termos do art. 34, inciso XI, do RISTJ, JULGO PREJUDICADO o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
+CONSTITUCIONAL. TRIBUTÁRIO. RECURSO ESPECIAL. REPASSES DE COTAS REFERENTES AO FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM. IMPOSTO DE RENDA. NEGATIVA DA DEVIDA PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CPC. RECURSO ESPECIAL DA FAZENDA NACIONAL PROVIDO PARCIALMENTE. PREJUDICIALIDADE DO RECURSO DOS ENTES MUNICIPAIS. RECURSO ESPECIAL PREJUDICADO.
