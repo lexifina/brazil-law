@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Habeas Corpus, sem pedido de liminar, impetrado por HANATTAN LARUCY PEREIRA DA PAIXAO, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que o paciente foi condenado pela prática do delito do art. 33, caput, da Lei n. 11.343/2006, sendo reincidente, em razão da prática anterior do crime do art. 157 do Código Penal.
+Sustenta o impetrante a ocorrência de constrangimento ilegal, pois está submetido a um cálculo para a progressão de regime no percentual de 60% (sessenta por cento), em total dissonância com o entendimento consolidado no STJ para os casos de reincidência genérica em crimes hediondos ou equiparados sem resultado morte.
+Aduz que, em razão da lacuna normativa para os casos de apenados reincidentes genéricos, o percentual aplicável para a progressão de regime é o de 40% (quarenta por cento), por se tratar de norma mais benéfica, vedando-se a analogia in malam partem.
+Requer, assim, a concessão da ordem para que seja imediatamente determinada a retificação do cálculo da progressão de regime do paciente para o percentual de 40% (quarenta por cento), com a consequente reanálise dos requisitos para a progressão.
+Informações prestadas pelo Juízo de primeiro grau (fls. 35/36) e pelo Tribunal de origem (fls. 46/48).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 64/66).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Todavia, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+O paciente sustenta a ocorrência de constrangimento ilegal em razão da aplicação do percentual de 60% (sessenta por cento) para o cálculo da progressão de regime, reservada aos condenados reincidentes específicos em crime hediondo ou equiparado.
+Aduz que situação do paciente é diversa, pois embora condenado pela prática de tráfico de drogas (equiparado a hediondo), a condenação motivadora da reincidência diz respeito ao crime de roubo e, portando, na sua visão, de natureza comum.
+Com isso, diante da lacuna normativa, pleiteia a aplicação do percentual de 40% (quarenta por cento) para esses casos de reincidência genérica.
+Pontua-se que "a jurisprudência deste Superior Tribunal é firme em assinalar que a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios" (AgRg no HC 761.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022).
+Ao compulsar o processo de execução penal do paciente, por meio do Sistema Eletrônico de Execução Unificado (SEEU), tombado sob o n. 0028439-73.2014.8.16.0013, constata-se a existência de 6 condenações transitadas em julgado em desfavor do apenado, decorrentes de igual número de processos.
+Extrai-se, de igual modo, que dentre as condenações existentes, existe uma pelo crime hediondo de roubo majorado pelo emprego de arma de fogo (art. 157, § 2º, II, e § 2º-A, I, do Código Penal), processo criminal n. 0001194-08.2023.8.16.0196, e outra por tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006), processo criminal n. 0023705-79.2014.8.16.0013, é equiparado a hediondo.
+E, nessa perspectiva, mostra-se correta a exigência do cumprimento de 60% (sessenta por cento) da pena para a obtenção da progressão de regime prisional, ante a condição de reincidente específico na prática de crime hediondo ou equiparado.
+Ademais, este Superior Tribunal de Justiça possui o entendimento de que o percentual de 60% (sessenta por cento) para o cálculo da progressão de regime deve incidir sobre a totalidade da pena, e não apenas em relação à reprimenda causadora da reincidência, porquanto, uma vez adquirida, a condição de reincidente deve repercutir sobre a pena unificada.
+Nessa direção, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO OBJETIVO. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO E/OU EQUIPARADO. APLICAÇÃO DO PERCENTUAL DE 60%. AGRAVO REGIMENTAL NÃO PROVIDO. DECISÃO MANTIDA.
+1. Conforme orientação jurisprudencial desta Corte, "a reincidência é circunstância de caráter pessoal que dever ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somas, com repercussão no cálculo dos benefícios executórios" (REsp 1.957.657/MG, relator o Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+2. Tratando-se de reincidente específico em crime hediondo e/ou equiparado, tal como no caso, em que o agravante possui 2 condenações por tráfico ilícito de entorpecentes, há de se exigir o cumprimento de 60% da pena para a progressão de regime.
+3. Agravo regimental não provido.
+(AgRg no HC n. 834.406/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AGENTE QUE CUMPRE PENA PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME. REINCIDENTE ESPECÍFICO. REQUISITO OBJETIVO. APLICAÇÃO DO PERCENTUAL DE 60% DO CUMPRIMENTO DA PENA PARA OBTER O BENEFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior, inclusive com o julgamento de feito segundo o rito dos processos repetitivos, pacificou o entendimento de que o apenado que cumpre reprimenda por ter praticado crime hediondo ou equiparado somente deve adimplir 60% (sessenta por cento) da pena para requerer a progressão de regime caso a reincidência decorra de crime hediondo ou equiparado.
+2. De outra parte, registra-se que "a reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios" (REsp n. 1.957.657/MG, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 26/11/2021).
+3. Agravo regimental desprovido.
+(AgRg no HC 752.575/PR, de minha Relatoria, Quinta Turma, julgado em 09/08/2022, DJe de 15/08/2022).
+PROGRESSÃO DE REGIME. REINCIDÊNCIA. PACOTE ANTICRIME (LEI N. 13.964/2019). APLICAÇÃO DE 60% (SESSENTA POR CENTO) DO CUMPRIMENTO DA PENA PARA CONCESSÃO DA BENESSE. PRECEDENTES.
+I - Esta eg. Corte Superior de Justiça é firme ao declarar que a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas.
+II - Correto o decisum monocrático reprochado, pois "Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019)" (AgRg no HC n. 595.609/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 20/11/2020). Agravo regimental desprovido.
+(AgRg no REsp n. 1.894.190/TO, relator Ministro Felix Fischer, Quinta Turma, DJe de 15/12/2020, destaquei.)
+Dessa maneira, deve ser mantido o patamar de 60%, nos termos do art. 112, VII, da Lei de Execução Penal, pois se trata de condenado reincidente específico em crime hediondo e equiparado, inexistindo, portanto, constrangimento ilegal com o fim de justificar a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
