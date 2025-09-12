@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ROSANE TEREZINHA FREITAS DA SILVA e OUTROS, com base no art. 105, III, c, da Constituição Federal, desafiando acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 419):
+PROCESSUAL CIVIL E ADMINISTRATIVO. INDENIZAÇÃO POR DANOS. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE PASSIVA DA CEF. COMPETÊNCIA DA JUSTIÇA FEDERAL. A Caixa Econômica Federal tem legitimidade passiva em ação buscando indenização por defeitos do imóvel cuja construção se deu através de financiamento pelo SFH, haja vistaa previsão de participação da Caixa Econômica Federal no acompanhamento da obra. Assim sendo, o feito merece regular tramitação na Justiça Federal.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 426-430).
+Nas razões do recurso especial (e-STJ, fls. 432-448), as partes agravantes sustentaram em sua divergência jurisprudencial que a Caixa Econômica Federal não tem interesse na lide em que se postula o cumprimento do contrato de seguro adjeto a mútuo hipotecário obtido com recursos do SFH, devendo a presente ação ser processada e julgada na Justiça Estadual.
+Contrarrazões não apresentadas (e-STJ, fl. 481).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 534-546).
+Contraminuta apresentada (e-STJ, fls. 548-553).
+Em decisão desta Corte Superior, foi determinado que se aguardasse a conclusão do julgamento do paradigma do Tema STF n. 1.011 (e-STJ, fls. 595-596).
+Oportunamente, os autos foram encaminhados para juízo de retratação. Em novo julgamento, ficou assim decidido (e-STJ, fls. 640-641):
+CIVIL. AGRAVO DE INSTRUMENTO. SFH. SEGURO HABITACIONAL. FCVS. JUÍZO DE RETRATAÇÃO. TEMAS 50 E 51/STJ. TEMA 1.011/STF. 1. A matéria versada nos autos foi objeto de recente decisão proferida pelo Supremo Tribunal Federal por ocasião do julgamento do RE nº 827.996, submetido ao rito da repercussão geral (Tema 1.011). 2. Diante desse entendimento, as demandas que, como a presente, foram ajuizadas anteriormente a 26/11/2010 e que não contavam com sentença de mérito prolatada, devem ser processadas perante a Justiça Federal. 3. O eg. Superior Tribunal de Justiça assentou o entendimento de que a responsabilidade da Seguradora pela cobertura de vícios estruturais de construção pode persistir, mesmo após a extinção do contrato de seguro habitacional, em determinadas circunstâncias. Precedentes.
+Brevemente relatado, decido.
+De início, em parte foi negado seguimento ao recurso especial, nos termos do art. 1.030, b, do CPC/2015, haja vista que a questão relativa à competência da Justiça Federal foi decidida no Tribunal de origem em conformidade com precedente firmado pelo Supremo Tribunal Federal em recurso extraordinário (Tema 1.011). Assim, não merece conhecimento o presente agravo nesse ponto.
+Ademais, as demais questões do presente recurso não merecem prosseguir pela alínea c, pois as partes limitaram-se a apontar dissídio jurisprudencial, sem contudo, mencionar o dispositivo legal supostamente interpretado de modo divergente por outro Tribunal, o que inviabiliza o conhecimento do recurso em virtude da sua deficiência, nos termos da Súmula 284/STF.
+Nesse sentido (sem destaque no original):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEI LOCAL. VIOLAÇÃO AO TEXTO CONSTITUCIONAL. EXAME INVIABILIDADE. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA. DISSÍDIO JURISPRUDENCIAL. ARTIGO DE LEI. INTERPRETAÇÃO DIVERGENTE. INDICAÇÃO. AUSÊNCIA. COTEJO ANALÍTICO. INEXISTÊNCIA.
+1. O acolhimento da pretensão do recorrente exige, ainda que por via reflexa, a interpretação da legislação local considerada nas razões recursais, o que é inviável pela via do recurso especial, nos termos da Súmula 280 do STF.
+2. Havendo fundamentos suficientes para a manutenção do aresto recorrido, não impugnados nas razões do especial, incide, à espécie, por analogia, a Súmula 283 do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3. O recurso especial não é remédio processual adequado para tratar de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+4. Não se conhece de recurso especial que deixa de apontar o dispositivo legal objeto de interpretação divergente no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do STF (AgRg no REsp n. 1.346.588/DF, Relator Min. Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe 17/3/2014).
+5. O dissenso interpretativo deve ser comprovado mediante o cotejo analítico entre acórdãos derivados de situações fático-jurídicas idênticas ou assemelhadas, mas com conclusões discrepantes, de tal sorte que suas razões devem indicar, de forma clara e precisa, as circunstâncias que identificam ou assemelham os casos confrontados, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 255, § 1º, do RISTJ.
+6. Recurso especial não conhecido. Prejudicado o pedido de atribuição de efeito suspensivo.
+(REsp n. 1.906.018/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 10/6/2025, DJEN de 18/6/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECADÊNCIA DO DIREITO À REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. INAPLICABILIDADE DA SÚMULA 284 DO STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO DO TEMA 1.117/STJ. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial interposto não atende aos requisitos de fundamentação exigidos pela Súmula 284 do STF, uma vez que não foram claramente indicados os dispositivos legais federais violados ou os pontos de dissídio interpretativo.
+2. A simples menção genérica de dispositivos legais não supre a exigência de fundamentação precisa, sendo impossível verificar a controvérsia em termos de divergência jurisprudencial.
+3. O Tema 1.117 do STJ, que trata da fluência do prazo decadencial em casos de revisão de RMI para inclusão de verbas trabalhistas, não é aplicável ao presente caso, que versa sobre a decadência do direito à revisão de aposentadoria por tempo de contribuição.4.
+Agravo interno desprovido
+(AgInt no AREsp n. 2.807.423/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Pubique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B , DO CPC/2015. DEMAIS MATÉRIAS. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
