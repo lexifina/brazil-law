@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PREVIDÊNCIA USIMINAS contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/3/2024.
+Concluso ao gabinete em: 28/5/2025.
+Ação: de cobrança movida por WALDYR CASAGRANDE em face de PREVIDÊNCIA USIMINAS.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - CUMPRIMENTO DE SENTENÇA - PREVIDÊNCIA PRIVADA - FUNDO COFAVI - AUSÊNCIA DE LIQUIDAÇÃO EXTRAJUDICIAL - CERCEAMENTO DE DEFESA POR AUSÊNCIA DE PROVA ATUARIAL - INOCORRÊNCIA DE MÁCULA - BLOQUEIO VIA BACENJUD - ALEGADO SALDO PERTENCENTE À SUBMASSA COSIPA - VINCULAÇÃO DO AGRAVADO AO FUNDO PBD/CNPB 1975.0002-18 - EXCESSO DE EXECUÇÃO - INOCORRÊNCIA - DECISÃO MANTIDA - AGRAVO DE INSTRUMENTO DESPROVIDO - AGRAVO INTERNO PREJUDICADO.
+1) A Segunda Seção do Superior Tribunal de Justiça, em recente julgamento, reafirmou o que outrora havia decidido (REsp 1.248.975/ES), no sentido de que a agravante deve responder pelo pagamento da complementação de aposentadoria devida aos participantes/assistidos, ex-empregados da COFAVI, aposentados em data anterior à denúncia do convênio de adesão, em março de 1996.
+2) Ao julgar a Reclamação 39.212/ES, concluiu o eminente Min. Raul Araújo, do colendo Superior Tribunal de Justiça que, em demanda de idêntica natureza, o Juízo da 10ª Vara Cível de Vitória não negou autoridade a sobredito julgado, porque a culpa pela indistinção acerca de a quem pertence o patrimônio depositado no Fundo PBD/CNPB 1975.0002-18 seria da própria Previdência Usiminas, por não ter promovido sua liquidação extrajudicial (decisão proferida no dia 16/04/2020, DJe 20/04/2020), em que pese a alegação da agravante de que a submassa desse fundo estaria exaurida.
+3) Tendo sido determinado pelo Superior Tribunal de Justiça, no julgamento do REsp nº 1.248.975/ES, que a agravante seria responsável pelos pagamentos "até a liquidação extrajudicial do plano de previdência privada dirigido aos empregados da Companhia Ferro e Aço de Vitória - COFAVI", não há que se falar em produção de prova pericial atuarial a fim de comprovar o exaurimento do Fundo COFAVI, à míngua de sua liquidação extrajudicial, nos termos do art. 48 da Lei Complementar nº 109/2001, o que importa na improcedência da tese recursal de que o Juízo de 1º grau incorreu em cerceamento de defesa.
+4) Até o ano de 2000 a FEMCO possuía apenas o Plano de Benefícios PBD/CNPB nº 1975.00002-18 - criado em 1975 e que tiveram novos ingressos cessados em 01/12/2000 - com a incorporação da FEMCO à Caixa dos Empregados da USIMINAS em 29/05/2012, formando a Previdência Usiminas. Do que se observa dos autos eletrônicos, o agravado está vinculado ao Fundo nº 1975.00002-18, daí porque a importância devida ao agravado deverá ser deduzida de tal plano de benefícios.
+5) Não se identifica o alegado excesso de execução, já que os índices aplicados nos cálculos do credor estão em plena consonância ao comando sentencial (correção monetária pelo INPC e juros de mora de 1% ao mês) e a sentença não determinou o desconto da execução do valor da contribuição. Além disso, a quantia cobrada não é integrada por astreintes e a execução não foi aditada, tal qual ocorrido noutros casos, a fim de acrescentá-las ao quantum devido.
+6) Agravo de Instrumento desprovido, ficando prejudicado o agravo interno. (e-STJ fl. 819)
+Recurso especial: a parte agravante alega violação dos arts. 11, 141, 369, 489, §1º, IV, §3º, 492, parágrafo único, 503, 505, 506 e 1.022, II, parágrafo único, II, do CPC; 2º, 3º, VI, 6º, 7º, 9º, 18, §§1º e 2º, e 34, I, "b", da Lei complementar 109/2001; e 3º, parágrafo único, e 5º, II, da Resolução CNPC 24/2016. Além de negativa de prestação jurisdicional, sustenta o exaurimento do Fundo Cofavi. Assevera que "A decisão de primeira instância não tratou dos fundamentos lançados, não apreciou sequer superficialmente os documentos anexados, nem deliberou sobre o pedido de produção de prova pericial" (e-STJ fl. 874). Aduz que "é essencial investigar a titularidade dos recursos atualmente existentes no PBD/CNPB no 1975.0002-18 - se eles pertencem ao Fundo Cosipa, ao Fundo Cofavi, ou a ambos -, porque tais recursos somente poderiam ser atingidos se pertencentes ao Fundo Cofavi. O fundamento e as provas sobre os quais o acórdão silenciou têm, pois, o condão de, se analisados, ensejar conclusão diversa por parte do tribunal" (e-STJ fl. 875). Afirma que há excesso de execução. Defende a devolução das quantias recebidas/ levantadas integralmente, acrescidas de correção monetária e juros de mora.
+Decisão de admissibilidade do TJ/ES: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) inadmissibilidade de recurso especial fundamentado em violação de resolução;
+ii) não foi demonstrada a violação dos arts. 141 e 492 (Súmula 284/STF); e
+iii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) demonstrou a violação de dispositivos legais;
+ii) o recurso especial não é fundado em violação de resolução; e
+iii) o acórdão proferido pelo TJ/ES está em desconformidade com o REsp 1.248.975/ES.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) não foi demonstrada a violação dos arts. 141 e 492 (Súmula 284/STF); e
+ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, Terceira Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, Quarta Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+ EMENTA
