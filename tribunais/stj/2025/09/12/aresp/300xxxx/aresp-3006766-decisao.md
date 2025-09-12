@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS WESLEY DO CARMO ALMEIDA, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Ceará, cuja ementa é a seguinte (e-STJ fls. 451):
+PENAL E PROCESSUAL PENAL. APELAÇÃO. TRÁFICO DEDROGAS. PRELIMINAR DE NULIDADE DA BUSCA DOMICILIAR. EMENDATIO LIBELLI. MÉRITO. DESCLASSIFICAÇÃO DA CONDUTA. CONDENAÇÃO. 1. Inexiste ilegalidade na atuação policial que diante de fundadas suspeitas prende sujeito em fuga porque viu a guarnição e tentou evadir-se. 3.A aplicação da causa de aumento prevista no art. 40, inciso VI, da lei de drogas não implica na modificação dos fatos narrados na denúncia, inexistindo violação aos princípios do contraditório e ampla defesa, visto que o réu se defende dos fatos e não da capitulação legal que lhe foi atribuída. 4. Encontrada, em poder do réu, quantidade expressiva de drogas, embaladas e prontas para o comércio ilegal, impositivo o reconhecimento da traficância. 5. Todas as circunstâncias que nortearam o caso em exame são desfavoráveis ao reconhecimento da figura de usuário. 6. Recurso improvido.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 480/485).
+Nas razões do recurso especial (e-STJ fls. 453/481), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 619 do CPP e do artigo 33, 4º, da Lei n. 11.343/06. Sustenta: (i) que o Tribunal a quo foi omisso quanto à análise da incidência do benefício do tráfico privilegiado; (ii) a incidência do artigo 33, § 4º, da Lei n. 11.343/06, tendo em vista que seu afastamento se deu com a utilização de inquéritos e ações penais em curso.
+Apresentadas contrarrazões (e-STJ fls. 540/547), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 549/551), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo e não conhecimento do recurso especial (e-STJ fls. 600/603).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso merece acolhida.
+Colhe-se dos autos que o Parquet opôs embargos de declaração (e-STJ fls. 472/477), suscitando a existência de omissão no referido decisum quanto à incidência do benefício do tráfico privilegiado.
+Da análise do acórdão recorrido, constato que o Tribunal de origem, mesmo com a oposição dos embargos de declaração, de fato não se manifestou acerca da referida omissão ventilada pela acusação.
+Desse modo, ao rejeitar os embargos declaratórios (e-STJ fls. 480/485), deixando, contudo, de se pronunciar sobre a questão neles suscitada (violação do artigo 33, 4º, da Lei n. 11.343/06, como apresentada no recurso), a Corte a quo acabou por violar o art. 619 do CPP.
+Ante o exposto, com fundamento no artigo 932, inciso VIII, do CPC c/c o artigo 253, parágrafo único, inciso II, alínea "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda a um novo julgamento dos aclaratórios da acusação.
+Intimem-se.
+EMENTA
