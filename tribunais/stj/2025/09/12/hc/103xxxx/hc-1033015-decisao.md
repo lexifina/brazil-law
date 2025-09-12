@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de  habeas  corpus,  com  pedido  liminar, impetrado em favor de MAURICIO SILVA DE QUEVEDO, RICHARD DUARTE SOARES, LUCAS ROCHA BORGES e URIEL MARQUES TORRES contra acórdãos que denegaram a ordem de habeas corpus.
+A d efesa sustenta a negativa de autoria e a ausência dos requisitos ensejadores da decretação da prisão preventiva previstos no art. 312 do CPP, sob a premissa de que as instâncias originárias se lastrearam em fundamentações genéricas.
+Afirma a defesa a violação ao princípio da homogeneidade ao argumento de que os pacientes são primários, possuem bons antecedentes, residência fixa e trabalho lícito, não havendo indícios de reiteração criminosa, de modo que, eventualmente, poderiam ter as penas substituídas por restritivas de direitos.
+Requer, em sede liminar e no mérito, a concessão da ordem a fim de revogar as prisões preventivas ou, subsidiariamente, substituí-las por outras medidas cautelares diversas da prisão.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do Regimento Interno do Superior Tribunal de Justiça.
+In casu, constata-se que a presente impetração insurge-se contra quatro atos coatores diversos, esposados nos HC n. 5198941-24.2025.8.21.7000/RS (paciente: Lucas), HC n. 5211316-57.2025.8.21.7000/RS (Paciente: Richard), HC n. 5198960-30.2025.8.21.7000/RS (paciente: Uriel) e HC n. 5198946-46.2025.8.21.7000/RS (paciente: Mauricio), inviabilizando, por consequência, a sua análise por esta Corte.
+"A impetração de habeas corpus contra mais de um ato coator é inviável, pois cada impetração deve se restringir a um único ato, sob pena de violação ao princípio do devido processo legal e à correta delimitação das controvérsias. O entendimento consolidado desta Corte é claro ao vedar a apreciação simultânea de mais de um ato coator em um único writ, sendo necessária a impetração de habeas corpus específico para cada ato atacado." (AgRg no HC n. 862.962/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024).
+"Na hipótese vertente, a defesa manejou um só habeas corpus impugnando duas decisões diferentes prolatadas pelo Tribunal de origem (Apelação n. 0024468-25.2016.8.19.0014 e Revisão Criminal n. 0078617-03.2022.8.19.0000), e, segundo a jurisprudência do Superior Tribunal de Justiça, "para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017), ainda que para fins de economia processual ou de celeridade" (AgRg no RHC n. 108.528/AM, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/6/2019, DJe de 27/6/2019)." (AgRg no HC n. 926.880/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publiquem-se.
+Intimem-se.
+EMENTA
