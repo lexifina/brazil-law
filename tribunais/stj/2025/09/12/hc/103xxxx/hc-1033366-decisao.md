@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRENON PEDROSO BONIFACIO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2241411-34.2025.8.26.0000).
+Consta do relatório de e-STJ fls. 12/13 que o paciente teria sido condenado, em primeiro grau de jurisdição, às penas de 10 anos de reclusão, em regime inicial fechado, e 1.666 dias-multa, pela prática de crime previsto na Lei n. 11.343/2006.
+Após o trânsito em julgado da condenação, a defesa impetrou habeas corpus na Corte local, oportunidade em que postulou a redução da fração de aumento na terceira fase da dosimetria sob a alegação de insuficiência probatória da circunstância elencada para justificar o aumento em maior extensão, com o consequente ajuste do regime prisional. Entretanto, o writ foi liminarmente indeferido (e-STJ fls. 11/14), em acórdão assim ementado:
+Habeas Corpus - Reexame de fundamentação da sentença condenatória - Matéria não passível de discussão em sede de Habeas Corpus - Constrangimento ilegal inexistente Não se presta o habeas corpus ao reexame do mérito de sentença condenatória de primeiro grau, devendo ser a matéria reservada à via recursal adequada, a apelação, na qual é possível reavaliar não apenas as teses jurídicas pertinentes como todo o contexto probatório.
+No presente mandamus (e-STJ fls. 2/10), a impetrante sustenta que o paciente sofre constrangimento ilegal, pois o Tribunal a quo não sanou as ilegalidades apontadas na impetração originária, sendo hipótese de superação do enunciado da Súmula 691/STF.
+Quanto ao mérito, aduz que a majoração de 2/3 (dois terços) da pena pelo suposto envolvimento de quatro menores não encontra respaldo em prova robusta e idônea nos autos principais de origem (e-STJ fl. 3) e que a fixação de regime inicial fechado viola o art. 33, §§ 2º e 3º, do CP, bem como a Súmula 719 do STF, pois o paciente é primário e as circunstâncias judiciais são favoráveis (e-STJ fl. 3). Alega, ainda, que o relator do recurso de apelação utilizou de fundamento inidôneo para náo aplicar ao caso o redutor do tráfico privilegiado (e-STJ fl. 8).
+Ao final, formula pedido liminar para que os efeitos da condenação sejam suspensos até o julgamento definitivo deste writ e, no mérito, pede a redução da fração da causa de aumento, a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, o estabelecimento de regime prisonal mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório. Decido.
+De início, constato que a impetrante não instruiu o presente habeas corpus com cópia da sentença condenatória e da comprovação do respectivo trânsito em julgado, documentos imprescindíveis para o exame de eventuais ilegalidades na dosimetria.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação (HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal. 3. Agravo regimental não provido (AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018).
+Além disso, as razões da presente impetração e respectivos pedidos não foram objeto de debate pela Corte local, que entendeu pela inadequação da via eleita na origem, o que torna inviável o exame do mérito das pretensões no âmbito desta Corte, sob pena de supressão de instância.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CAUSA DE AUMENTO DE PENA. QUADRILHA ARMADA. REDAÇÃO ANTERIOR À LEI 12.850/2013. AUMENTO NO DOBRO. AUSÊNCIA DE DISCRICIONARIEDADE. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO IMPUGNADO LAVRADO HÁ MAIS DE 10 ANOS. NOVATIO LEGIS IN MELIUS. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES. AGRAVO DESPROVIDO.
+1. O quantum de aumento da pena decorrente da majorante prevista no parágrafo único do art. 288 do Código Penal - CP, antes das alterações promovidas pela Lei n. 12.850/2013, não deixava margem à discricionariedade do juízo sentenciante.
+2. As alegações relativas à dosimetria da pena base não foram analisadas pelo Tribunal de origem no acórdão impugnado, o que impede o conhecimento da matéria por esta Corte, sob pena de incorrer em supressão de instância. Caberia a defesa interpor Embargos de Declaração a fim de sanar as referidas omissões.
+3. "Transitada em julgado a sentença condenatória, compete ao juízo das execuções a aplicação de lei mais benigna" - Súmula n. 611, do Supremo Tribunal Federal - STF.
+4. Agravo Regimental desprovido. (AgRg no HC 537.519/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma,  DJe 19/5/2020).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja recomendável a concessão da ordem de ofício.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - A insurgência acerca da primeira fase da dosimetria não foi objeto de análise pela Corte local, eis que não foi suscitada quando da interposição de recurso de apelação, sendo levantada somente em sede de aclaratórios, tratando-se de inovação recursal. Assim, uma vez que o eg. Tribunal de origem não se pronunciou sobre os temas apontados na presente impetração, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Habeas Corpus não conhecido. (HC 524.441/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, Quinta Turma, DJe 25/10/2019).
+Por fim, as teses suscitadas pela defesa demandariam exame probatório, cujo revolvimento não é possível na via estreita do habeas corpus, como bem assinalou a Corte local.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÂNSITO EM JULGADO. INCOMPETÊNCIA DO STJ. PRECLUSÃO TEMPORAL SUI GENERIS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO. I. CASO EM EXAME
+ ..
+5. Inexiste flagrante ilegalidade a justificar a concessão da ordem de ofício, uma vez que o reconhecimento do tráfico privilegiado demanda reexame do acervo fático-probatório, incompatível com a via estreita do habeas corpus.
+IV. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no HC n. 1.007.417/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO CABIMENTO. REQUISITOS NÃO CUMPRIDOS. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Além disso, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+ ..
+5. Agravo regimental não provido. (AgRg no HC n. 975.617/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
