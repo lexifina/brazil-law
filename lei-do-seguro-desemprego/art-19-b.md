@@ -1,0 +1,1 @@
+Art. 19-B. O Codefat poderá priorizar projetos de preservação da memória e de promoção da igualdade racial aprovados pelo órgão de proteção do patrimônio histórico e cultural da União como meio de reparação à população afrodescendente em razão do processo de escravização.
