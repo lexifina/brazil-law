@@ -1,0 +1,50 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por CAMPOS FLORIDOS COMERCIO DE COSMETICOS LTDA, com fundamento na ausência de violação aos arts. 489 e 1.022 do CPC/2015 e e na impossibilidade de análise, em recurso especial, de violação de matéria constitucional.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 205, §1º, 489, 515, 927, III, 1.022, 1.035, §11, e 1.040 do CPC/2015 e o art. 165 do CTN.
+Assevera, ainda, que o acórdão incorreu em omissão sobre questão relevante ao deslinde da controvérsia, bem como prescinde da interpretação de princípios ou dispositivos constitucionais.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+I - Da negativa de prestação jurisdicional
+Com relação à apontada violação aos arts. 489 e 1.022 do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, denota-se que a recorrente alega que o acórdão recorrido incorreu em omissão quanto à aplicação do entendimento do Supremo Tribunal Federal no RE 1.287.019/DF (Tema 1093/STF) e da ADI 5469/DF, mais especificamente em relação à modulação de efeitos do julgado. Vejamos (fls. 359-361):
+ ..  De fato, por ocasião da oposição dos embargos de declaração, demonstrou-se que o E. Tribunal a quo não analisou argumentos desenvolvidos pela Recorrente que seriam capazes de infirmar as conclusões adotadas para negar provimento ao seu recurso de apelação.
+Isso porque, o r. acórdão incorreu em omissão ao não considerar que a modulação aplicada pelo STF no julgamento do Tema 1.093 da repercussão geral ressalvou as "ações judiciais em curso".
+Inclusive, o Ministro Edson Fachin, nas decisões proferidas nas Reclamações nº 48.731-MC e 50234-MC, afastou a modulação dos efeitos do Tema 1.093 para as ações ajuizadas antes da publicação da ata de julgamento.
+Portanto, de rigor que fosse sanada a omissão acima apontada, para que seja mantida a aplicação da data da publicação da ata de julgamento do referido leading case, ocorrida em 03/03/2021, como termo inicial da modulação de efeitos do julgado.
+Contudo, o v. acórdão deixou de se manifestar sobre os efeitos contemporâneos e prospectivos do pleito originário da Recorrente, nos termos da decisão proferida pelo E. STF.
+Dessa forma, o v. acórdão recorrido não poderia deixar de se manifestar quanto aos valores de DIFAL recolhidos no curso desta ação, ou seja, ao longo do ano de 2021, e exigidos pelo Fisco Paulista após a declaração de inconstitucionalidade proferida em 24.02.2021.
+Contudo, do que se observa dos autos o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando expressamente (fls. 303-312):
+ ..  Ocorre que, em 24.02.2021 o c. Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade 5.469 juntamente com o Recurso Extraordinário 1.287.019, assentou a necessidade de lei complementar para disciplinar, em caráter nacional, a cobrança do diferencial de alíquota do ICMS, editando a seguinte tese:
+ ..  No caso em tela o mandado de segurança foi impetrado em 26.02.2021 mov. 1.0 dos autos originários), ao passo que, como já referido, o julgamento pelo Supremo Tribunal Federal ocorreu em 24.02.2021, com a publicação das atas de julgamento em 03.03.2021 (Ata n 4, de 24.02.2021, DJe n. 39, divulgado em 02.03.2021), sendo possível concluir que o mandamus não está incluído na ressalva pertinente à modulação relativa às ações em curso.
+E ainda que a Suprema Corte já tenha reconhecido que " a  eficácia das decisões proferidas em controle concentrado de constitucionalidade ocorre a partir da publicação da ata de seu julgamento" (STF, T2, ARE 1031810 AgR-ED-ED, Rel. Min. Ricardo Lewandowski, j. 05.11.2019), no caso específico do DIFAL houve a antecipação desse marco temporal para o dia do julgamento.
+ ..  Assim, considerando que o mandado de segurança foi ajuizado após o julgamento (24.02.2021), não resta caracterizada a existência de mandado de segurança a ser tutelado na espécie.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação arts. 489 e 1.022 do CPC/2015.
+Quanto ao mérito, o recurso especial não merece conhecimento. Explico.
+II - Da fundamentação constitucional
+No ponto, quanto à suposta violação aos arts. 205 §1º, 515, 927, III, 1.035, §11, e 1.040 do CPC/2015 e ao art. 165 do CTN, verifica-se que a Corte a quo decidiu a questão da aplicabilidade da modulação de efeitos à vista da interpretação do entendimento do Supremo Tribunal Federal no julgamento do RE 1.287.019/DF (Tema 1.093), em sede de repercussão geral, e da ADI 5.469/DF.
+Assim, embora a recorrente aponte a existência de violação a normas infraconstitucionais, depreende-se dos autos que acórdão recorrido apreciou a questão sob o enfoque eminentemente constitucional, não competindo o exame da pretensão recursal na via do apelo especial por este Superior Tribunal de Justiça, sob pena de afronta aos poderes conferidos à Suprema Corte.
+Nesse sentido é o entendimento desta Corte Superior:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ICMS. DIFAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ACÓRDÃO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE REVISÃO, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO .
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2.Possuindo o acórdão recorrido fundamento constitucional, de forma que sua análise demanda a reinterpretação de julgados do STF em repercussão geral e princípios constitucionais, é descabida a revisão do aresto pela via do recurso especial, sob pena de usurpação de competência do STF.
+3. Agravo interno conhecido e não provido.
+(AgInt no AREsp n. 2.472.008/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024. - grifo nosso)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. TESE DE INCONSTITUCIONALIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. COBRANÇA DE DIFAL-ICMS. ANÁLISE DE MATÉRIA CONSTITUCIONAL (INCONSTITUCIONALIDADE DO CONVENIO CONFAZ ICMS 93/2015). IRRESIGNAÇÃO CONTRA LEI EM TESE. SÚMULA 430/STF. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial.
+2. O Recurso Especial não foi admitido. Houve a compreensão de que, com a decadência decretada do prazo de 120 dias (por entender que se tratava de Mandado de Segurança contra lei em tese - inconstitucionalidade de lei estadual -, e não de Mandado de Segurança preventivo como requerido), estava-se em consonância com a jurisprudência do Superior Tribunal de Justiça. Assim, não foi apreciada pelo acórdão a questão referente ao Tema 1.093/STF pelo acolhimento da preliminar de decadência.
+3. Não se desconhece o entendimento do STF firmado em repercussão geral, Tema 1.093, no sentido de que "A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais", porém "não cabe a esta Corte emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem Constitucional"
+(AgInt no AREsp 1.519.714/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 24.9.2019). 4. Agravo Interno não provido. (AgInt no AREsp n. 2.286.214/AP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023. - grifo nosso)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Ainda que apontado como violado dispositivo de lei federal, é inviável o exame da controvérsia por este Tribunal Superior quando solucionada, na Corte local, sob a ótica de fundamento constitucional.
+2. Verifica-se da leitura do aresto combatido que a Corte local decidiu a questão da anterioridade à luz da interpretação da Emenda Constitucional n. 87/2015 e do entendimento do STF no julgamento do Tema n. 1.093 e da ADI n. 5.469/DF (e-STJ fls. 201/211).
+3. Assim, considerando que a tese recursal diz respeito à matéria analisada na origem à luz de fundamento constitucional, o conhecimento da matéria envolve, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em recurso especial, sob pena de usurpação da competência do STF prevista no art. 102 da CRFB/88. 4. Agravo interno não provido.
+(AgInt no REsp n. 2.075.943/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/8/2023, DJe de 1/9/2023. - grifo nosso)
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
