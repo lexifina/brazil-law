@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALBERTO MATIAS FERREIRA SOARES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1507788-28.2023.8.26.0602.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 3ª Vara Criminal da Comarca de Sorocaba à pena de 4 anos, 9 meses e 5 dias de reclusão, em regime inicial fechado, além do pagamento de 22 dias-multa, como incurso no art. 14, caput, e no art. 15, caput, ambos da Lei 10.826/2003, e no art. 147, caput, do Código Penal, em concurso material (fls. 14-19).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que corrigiu erro material para constar que o paciente foi condenado ao cumprimento de pena de 4 anos e 8 meses de reclusão, 1 mês e 5 dias de detenção e 22 dias-multa, e proveu parcialmente o recurso para, quanto ao delito de ameaça, fixar o regime inicial semiaberto, mantendo os demais termos da sentença (fls. 20-42).
+Na presente impetração, alega-se que a condenação em concurso material entre os crimes previstos nos arts. 14 e 15 da Lei 10.826/2003 configura constrangimento ilegal, pois o porte ilegal de arma de fogo seria crime-meio para a prática do disparo de arma de fogo, que é o crime-fim. Argumenta-se que ambas as condutas foram praticadas no mesmo contexto fático e que, portanto, deveria ser aplicado o princípio da consunção, com a absorção do crime de porte ilegal pelo de disparo de arma de fogo (fls. 4-6). Alega-se, ainda, que a ausência de descrição de contextos diversos e de desígnios autônomos reforça a aplicação do referido princípio (fl. 5).
+Ao final, requer-se a concessão da ordem para que seja reconhecida a incidência do princípio da consunção, com o consequente afastamento da condenação pelo crime de porte ilegal de arma de fogo (art. 14 da Lei 10.826/2003), mantendo-se apenas a reprimenda relativa ao disparo de arma de fogo (art. 15 do mesmo diploma legal) (fl. 7).
+Pede-se, também, a concessão de liminar para sustar os efeitos da sentença condenatória até o julgamento definitivo do presente writ (fls. 6-7).
+A análise do pedido de liminar foi postergada para após o recebimento das informações e manifestação ministerial (fl. 54).
+As informações foram devidamente prestadas (fls. 57-59 e 62-93).
+O Ministério Público Federal opinou pela denegação (fls. 96-100).
+É o relatório. DECIDO.
+A controvérsia consiste na verificação de possível ilegalidade flagrante, consubstanciada pela negativa de aplicação do princípio da consunção entre os delitos de porte ilegal de arma de fogo e disparo de arma de fogo.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos empregados na decisão colegiada impugnada (fls. 20-42 ):
+ ..
+Incabível a aplicação do princípio da consunção entre os crimes de porte ilegal de arma de fogo de uso permitido e disparo de arma de fogo, sobretudo porque não foram praticados no mesmo contexto fático.
+ ..
+No caso, o recorrente chegou à casa noturna com o armamento e, após ter sido impedido de entrar, sacou o artefato e proferiu as ameaças no interior do estabelecimento, configurando-se o crime de porte ilegal de arma de fogo, até porque tinha apenas o registro, mas não a autorização para o porte do armamento (fls. 19/20).
+Depois, já na via pública, em contexto fático diverso daquele, parou o veículo, desembarcou, sacou novamente a arma de fogo e efetuou os disparos para o alto, configurando-se o delito previsto no art. 15, "caput", da Lei nº 10.826/03, não existindo, pois, nexo de dependência entre uma e outra conduta.
+ ..
+Da análise do acórdão impugnado, verifico que não há qualquer nexo de dependência entre os delitos de porte ilegal de arma de fogo e disparo de arma de fogo. O que se observa é que as duas condutas foram praticadas em contextos fáticos distintos, sendo logicamente inviável concluir que o crime de porte ilegal de arma de fogo configurou-se apenas como crime-meio para a execução do disparo.
+A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que o habeas corpus não é instrumento adequado para o reexame de fatos e provas, tal como pretende o impetrante.
+A esse respeito, cito o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E DISPARO DE ARMA. PRINCÍPIO DA CONSUNÇÃO. NÃO APLICAÇÃO. CRIMES PRATICADOS COM DESÍGNIOS DIFERENTES. REVISÃO. REEXAME FÁTICO PROBATÓRIO. DESCABIMENTO EM SEDE DE HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior de Justiça, aplica-se o princípio da consunção aos crimes de porte ilegal e de disparo de arma de fogo ocorridos no mesmo contexto fático, quando presente nexo de dependência entre as condutas, considerando-se o porte crime-meio para a execução do disparo de arma de fogo (AgRg no AREsp n. 1211409/MS, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 8/5/2018, DJe 21/5/2018).
+2. Na hipótese, as instâncias locais entenderam pela ocorrência de crime autônomo por ter o agente atuado com desígnios autônomos, uma vez que chegou ao evento portando a arma de fogo por volta das 21 horas, e somente efetuou o disparo a 1 hora da manhã, como represália por ter tido sua conduta ilícita de portar arma de fogo informada aos agentes públicos. Entendimento em sentido contrário demandaria o reexame de matéria probatória, inviável em sede de habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC n. 632.308/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2021, DJe de 4/2/2021.)
+De toda sorte, não verifico a presença de constrangimento ilegal, tampouco de teratologia, que desafie a concessão da ordem na forma do § 2º do art. 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
