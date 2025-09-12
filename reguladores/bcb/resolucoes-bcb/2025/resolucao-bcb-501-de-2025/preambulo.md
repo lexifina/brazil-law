@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 501, DE 11 DE SETEMBRO DE 2025
+Altera a Resolução BCB nº 142, de 23 de setembro de 2021, que dispõe sobre procedimentos e controles para prevenção de fraudes na prestação de serviços de pagamento a serem adotados pelas instituições financeiras, demais instituições autorizadas a funcionar pelo Banco Central do Brasil e instituições de pagamento integrantes do Sistema de Pagamentos Brasileiro – SPB.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 10 de setembro de 2025, com base no disposto no art. 7º, caput, incisos II, IV e V, no art. 9º, caput, incisos II e IX, e no art. 15 da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o disposto nos arts. 3º, caput, incisos III, V e VI, e 14 da Resolução nº 4.282, de 4 de novembro de 2013,
+R E S O L V E :
