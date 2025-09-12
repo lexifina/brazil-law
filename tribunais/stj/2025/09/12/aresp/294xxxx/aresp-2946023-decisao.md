@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por NANTES COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em recurso especial interposto em: 28/4/2025.
+Concluso ao gabinete em: 8/7/2025.
+Ação: embargos à execução proposta por NANTES COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA. contra ROMEU PARIZOTTO e ELIANE TEREZINHA FAGUNDES PARIZOTTO.
+Sentença: julgou totalmente improcedentes os pedidos da inicial. (e-STJ Fls. 384)
+Acórdão: deu parcial provimento à apelação interposta por NANTES COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA., nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PRETENSÃO DE CONEXÃO DE PROCESSOS AFASTADA. TÍTULO LÍQUIDO CERTO E EXIGÍVEL. MULTA MORATÓRIA E COMPENSATÓRIA. IMPOSSIBILIDADE DE CUMULAÇÃO. FATOS GERADORES IGUAIS. SENTENÇA EM PARTE REFORMADA. RECURSO EM PARTE PROVIDO.
+A apelante invoca cláusula contratual de contrato diverso, com parte diversa, área diversa, com localização diversa, pretendendo desconstituir o título executivo, com a alegada exceção de contrato não cumprido, não aplicável ao caso, já que os apelados não descumpriram a obrigação contratada. Desse modo, se havia a intenção de celebrar contrato uno, coligado, poderiam as partes ter o feito mediante especificação em cláusula contratual, já que os imóveis são registrados por matrículas diferentes, não havendo qualquer associação entre os contratos, o que afasta a tese de conexão, já que não evidentes decisões conflitantes. Agora, ainda fundamenta para justificar exceção de contrato não cumprido, após ter pago a maior parte do contrato, descumprimento de cláusula contratual não oriunda do contrato celebrado, ora executado. Não há se falar em conexão, ainda que celebrados na mesma data, sobre toda uma área, são imóveis diferentes, de proprietários diferentes, pagamentos diferentes, valores diferentes, não prosperando a tese de grupo familiar para fazer incidir a obrigação única dos apelados, com relação a contrato distinto. Corroborado ao fato que foi interposta duas execuções, cada uma discutindo obrigações distintas. A jurisprudência do STJ manifesta-se no sentido de que, "conquanto seja possível a cumulação das multas moratória e compensatória, é indispensável para tanto que ambas estejam previstas no contrato e tenham fatos geradores distintos" (AgRg no REsp 1.280.274/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/6/2015, DJe de 30/6/2015). No caso, verifica-se se tratar de fatos gerados iguais, de modo que a cumulação é indevida, devendo ser afastada a cláusula penal. (e-STJ Fls. 507-517)
+Embargos de Declaração: opostos pela parte agravada, foram rejeitados. (e-STJ Fls. 543-549)
+Recurso especial: alega violação dos arts. 86 do CPC e 884 do CC. A parte agravante sustenta em seu recurso especial que houve sucumbência recíproca, considerando que os recorridos sucumbiram em 55% do pedido inicial, o que ensejaria a redistribuição proporcional dos ônus sucumbenciais. Alega ainda que a decisão recorrida configura enriquecimento sem causa, em violação ao art. 884 do Código Civil.(e-STJ Fls. 560-571)
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos honorários de sucumbência
+No tocante ao pedido de alteração da distribuição dos honorários sucumbenciais, a jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatório, incidindo a Súmula 7/STJ.
+Nesse sentido: AgInt no AREsp 1173934/SP, Terceira Turma, DJe 21/09/2018; AgInt no AREsp 54.203/SP, Quarta Turma, DJe 28/08/2018; EDcl no AgRg no AREsp 151.072/SP, Quarta Turma, DJe 11/09/2018; AgInt no REsp 1537455/SC, Terceira Turma, DJe 04/12/2017.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 884 do CC, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 384) para 11%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Embargos à execução.
+2. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatório, incidindo a Súmula 7/STJ. Precedentes.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo conhecido. Recurso especial não conhecido.
