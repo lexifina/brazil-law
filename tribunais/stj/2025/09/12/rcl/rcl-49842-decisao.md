@@ -1,0 +1,13 @@
+DECISÃO
+Com a alegação de que o Juízo de Direito da 2ª Vara Criminal da comarca de Tatuí/SP, em decisão proferida na data de 3/9/2025 (Processo n. 1504086-96.2025.8.26.0378 - fl. 205 ), descumpriu a jurisprudência do Superior Tribunal de Justiça quanto ao indeferimento do pedido de escolta para submissão à perícia médica psiquiátrica designada para o dia 10/9/2025, no âmbito do Processo n. 5007677-67.2025.4.03.6315, em trâmite perante o Juizado Especial Federal de Sorocaba/SP, sob a alegação de incompetência, transferindo a responsabilidade para a direção do presídio ou para o Juízo Corregedor, por meio de seu advogado , ajuíza esta reclamação em favor de Natalia Teixeira Rocha.
+Busca a concessão de medida liminar para que seja determinado ao Juízo da 2ª Vara Criminal de Tatuí/SP ou à autoridade competente que providencie a imediata escolta da Reclamante até o Juizado Especial Federal de Sorocaba/SP, garantindo sua presença na perícia médica designada (fl. 6).
+É o relatório.
+É manifestamente inadmissível a presente reclamação.
+Ora, a reclamação prevista no art. 105, I, f, da Constituição Federal e no art. 187 do RISTJ, constitui meio destinado à preservação da competência do Superior Tribunal de Justiça, à garantia da autoridade das decisões desta Casa e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Esse expediente destina-se a tornar efetivas as decisões proferidas aqui, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para preservar a jurisprudência desta Corte, mas, sim, a autoridade de decisão tomada em caso concreto, que envolva as partes postas no litígio do qual oriunda a reclamação. Não se destina, portanto, a impugnar eventual decisão proferida pelas instâncias ordinárias que tenha sido contrária aos interesses da parte.
+No caso, a presente reclamação não se enquadra em nenhuma das hipóteses legais previstas. Logo, não sendo o caso de usurpação de competência deste Superior Tribunal de Justiça ou ofensa direta à decisão aqui proferida, não há como admitir o processamento da ação, ficando evidenciado o intuito da sua utilização como sucedâneo recursal.
+Ante o exposto, não conheço do pedido da presente reclamação, nos termos do art. 34, XVIII, a, do RISTJ.
+Publique-se.
+EMENTA
+PROCESSO PENAL. RECLAMAÇÃO. PRESERVAÇÃO DE COMPETÊNCIA OU DESRESPEITO À AUTORIDADE DE DECISÃO ESPECÍFICA DO STJ. NÃO OCORRÊNCIA. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. IMPROPRIEDADE DO INSTRUMENTO PARA FAZER VALER JURISPRUDÊNCIA DESTA CORTE. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO.
+Pedido não conhecido.
