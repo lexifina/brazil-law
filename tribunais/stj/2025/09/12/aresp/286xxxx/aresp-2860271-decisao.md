@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por JOAO APARECIDO ALVES DE ALMEIDA FILHO contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1500628-27.2021.8.26.0535 (fls. 466/485).
+No recurso especial, fls. 489/521, o agravante requer o reconhecimento da negativa de vigência e a violação do art. 158-A do Código de Processo Penal e do art. 7, I e II da Lei n. 12.965/2014, uma vez que foi utilizado para fundamentar a condenação material sigiloso do aparelho celular da corré Marcia, o qual foi colhido sem decisão judicial e sem respeitar, nem conservar, a cadeia de custódia da prova, bem como aplicar o fator máximo de redução, 2/3 (dois terços), redimensionando-se a pena e fixando o regime aberto para cumprimento da pena quanto ao reconhecimento da minorante do tráfico privilegiado.
+O Tribunal de origem não admitiu o recurso especial com base no óbice da Súmula 7 STJ (fls. 592/593).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo em recurso especial (fls. 769/772).
+É o relatório.
+O agravo preenche as condições de admissibilidade, mas não merece prosperar a tese apresentada pelo recorrente.
+Assim se manifestou o Tribunal de origem (fls. 473/474):
+
+Também não constato a alegada devassa no celular da acusada.
+É pacífica a jurisprudência do col. Superior Tribunal de Justiça de que "os dados armazenados nos aparelhos celulares - envio e recebimento de mensagens via SMS, programas ou aplicativos de troca de mensagens, fotografias etc. -, por dizerem respeito à intimidade e à vida privada do indivíduo, são invioláveis, nos termos em que previsto no inciso X do art. 5º da Constituição Federal, só podendo, portanto, ser acessados e utilizados mediante prévia autorização judicial, com base em decisão devidamente motivada que evidencie a imprescindibilidade da medida, capaz de justificar a mitigação do direito à intimidade e à privacidade do agente. (HC n. 609.221/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/6/2021, DJe de 22/6/2021).
+ ..
+No caso concreto, contudo, não se verifica a ocorrência de violação aos direitos à intimidade ou a vida privada da acusada, os quais, frise-se, são direitos disponíveis, pois restou comprovado que a apelante forneceu, livre de coação ou constrangimento, acesso ao seu aparelho celular, mostrando as imagens.
+ ..
+Analisando o acórdão combatido, observa-se que a Corte de origem concluiu, ao verificar provas produzidas em juízo, que comprovado que a apelante forneceu, livre de coação ou constrangimento, acesso ao seu aparelho celular, mostrando as imagens.
+Verifica-se, portanto, que não se trata de prova pericial, produzida por meio de quebra de sigilo e extração de dados, mas de prova documental, produzida a partir do consentimento dos requerentes, não se verificando nulidade na produção da prova a partir do consentimento do proprietário do aparelho.
+Nesse sentido, é o posicionamento desta Corte, que tem entendido que se consta do processo que foi franqueado o acesso ao celular do corréu por ele próprio, não compete a este Tribunal interpretativo promover qualquer incursão na matéria fática, que já está resolvida pelas instâncias ordinárias:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SIGILO DE DADOS DO CELULAR. INDÍCIOS DE VOLUNTARIEDADE NA ENTREGA DO APARELHO. NULIDADE NÃO DEMONSTRADA. EXCEPCIONALIDADE DO TRANCAMENTO DO PROCESSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os dados armazenados nos aparelhos celulares - envio e recebimento de mensagens via SMS, programas ou aplicativos de troca de mensagens (entre eles o WhatsApp), fotografias etc -, por dizerem respeito à intimidade e à vida privada do indivíduo, são invioláveis, nos termos previstos no inciso X do art. 5º da Constituição Federal. Só podem, portanto, ser acessados e utilizados mediante prévia autorização judicial, com base em decisão devidamente motivada que evidencie a imprescindibilidade da medida, capaz de justificar a mitigação do direito à intimidade e à privacidade do agente.
+2. No caso concreto, o Tribunal a quo reconhece que há dúvidas sobre a existência de consentimento para acesso aos dados telefônicos pelo paciente e demais acusados. Entretanto, não há elementos suficientes que permitam a declaração de nulidade na fase atual do processo. Isso porque há indícios de voluntariedade na entrega dos aparelhos celulares - bem como a aparente existência de outras provas de autoria -, o que exige a análise de todo o acervo probatório para que se decida sobre eventual nulidade e seus efeitos.
+3. A jurisprudência desta Corte é firme ao asseverar que "somente é cabível o trancamento da persecução penal por meio do habeas corpus quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta praticada pelo acusado, seja pela ausência de indícios de autoria e materialidade delitiva, ou, ainda, pela incidência de causa de extinção da punibilidade" (AgRg no RHC n. 157.728/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/2/2022).
+4. Na hipótese, não se observa ilícito patente que justifique o excepcional trancamento do processo, sem prejuízo de discussão mais aprofundada sobre a dinâmica fática e a nulidade das provas - bem como seu real alcance - na sentença.
+5. Agravo regimental não provido.
+(AgRg no HC n. 948.036/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/8/2025, DJEN de 19/8/2025. - grifo nosso).
+Quanto à causa de diminuição do tráfico privilegiado, seu afastamento foi fundamentado na comprovação da dedicação à atividade criminosa (fls. 479/480 - grifo nosso):
+ ..
+Na derradeira etapa, não estão atendidos os requisitos do art. 33, § 4º, da Lei nº 11.343/2006.
+É cediço que o legislador, ao editar a Lei nº 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o conferido ao traficante habitual.
+Assim, para fazer jus à minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, possuir bons antecedentes, não se dedicar a atividades criminosas e não integrar organização criminosa, podendo a reprimenda ser reduzida de um sexto a dois terços, a depender das circunstâncias do caso concreto.
+No caso sub judice, a dedicação do acusado a atividades criminosas, em especial ao tráfico ilícito de drogas, restou bem delineada nos autos pelas mensagens de fls. 133/136, nas quais é possível verificar o controle de vendas feito pelo acusado, extraindo-se que a venda se dava em diversos locais (rua 1, rua 8) e por diversos dias. Assim, em paralelo com a atividade de motorista de aplicativo, o acusado se dedicava à venda de entorpecentes, o que foi corroborado pela sua confissão. Ademais, as porções estavam individualmente embaladas prontas para a venda.  ..
+Tal conclusão está igualmente de acordo com a jurisprudência desta casa.
+Cito: AgRg no AREsp n. 2.832.860/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/8/2025, DJEN de 19/8/2025.
+O recurso especial, portanto, encontra óbice nas Súmulas 7 e 83 do STJ.
+Em face d o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO EM FACE DE NULIDADE DA CADEIA DE CUSTÓDIA. MINORANTE DO TRÁFICO PRIVILEGIADO. ANÁLISE DAS PROVAS. SÚMULAS 7 E 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
