@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MESSIAS MOREIRA TEÓFILO contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais , no julgamento do Habeas Corpus n. 1.0000.25.269712-3/000, que recebeu a seguinte ementa (e-STJ fl. 5.226):
+EMENTA: HABEAS CORPUS - HOMICÍDIO QUALIFICADO - REFORMA DA SENTENÇA CONDENATÓRIA - MATÉRIA DE APELAÇÃO - VIA IMPRÓPRIA - WRIT NÃO CONHECIDO. É cediço que na estreita via do Habeas Corpus não é possível a análise de questões que desafiem recursos próprios, salvo em casos excepcionalíssimos de flagrante ilegalidade, o que não se verifica no caso em tela.
+No presente recurso ordinário, a defesa, em síntese, renova a tese da existência de supostas nulidades absolutas que maculam o julgamento do recorrente perante o Tribunal do Júri, consistentes na: (1) utilização, pelo assistente de acusação, da decisão de pronúncia como argumento de autoridade perante o Conselho de Sentença, em flagrante violação ao art. 478, inciso I, do Código de Processo Penal; (2) quebra da imparcialidade do Conselho de Sentença, decorrente de incidentes emocionais no plenário, incluindo o choro de uma jurada e a comoção gerada pela retirada da genitora da vítima em estado de abalo; e (3) uso indevido e injustificado de algemas no paciente durante todo o julgamento, em contrariedade à Súmula Vinculante n. 11.
+Ao final, enumera os seguintes pedidos (e-STJ fls. 5.254/5.2555):
+1. Sejam requisitadas, com urgência, as informações de estilo à digna Autoridade Coatora (Colenda 1ª Câmara Criminal do Tribunal de Justiça de Minas Gerais), que proferiu o acórdão recorrido, para que sejam prestados os esclarecimentos e anexados os documentos pertinentes à denegação do Habeas Corpus originário;
+2. Seja colhido, em seguida, o parecer do Representante do Ministério Público Federal nesta instância;
+3. Ao final, seja DADO PROVIMENTO AO PRESENTE RECURSO ORDINÁRIO PARA, REFORMANDO-SE O ACÓRDÃO RECORRIDO, CONCEDER A ORDEM DE HABEAS CORPUS, ainda que de ofício, para reconhecer a NULIDADE ABSOLUTA do julgamento realizado em 06 de junho de 2025 perante o Tribunal do Júri da Comarca de Três Pontas/MG, em razão das flagrantes violações a princípios constitucionais e normas processuais penais, quais sejam:
+  A indevida menção à decisão de pronúncia como argumento de autoridade pelo assistente de acusação, em afronta direta ao art. 478, inciso I, do Código de Processo Penal;
+  A quebra da imparcialidade do Conselho de Sentença, evidenciada pelo choro da jurada e pela comoção gerada pela retirada da genitora da vítima do plenário, maculando a higidez do ambiente decisório;
+  O uso indevido e injustificado de algemas no Recorrente durante toda a sessão de julgamento, em clara violação à Súmula Vinculante nº 11 do Supremo Tribunal Federal, que estigmatiza o acusado e compromete a presunção de inocência.
+4. Requer-se, consequentemente, a ANULAÇÃO do julgamento e a REVOGAÇÃO da prisão a que está submetido o Recorrente, determinando-se a imediata expedição do competente alvará de soltura, a fim de fazer cessar o constrangimento ilegal imposto à sua liberdade de locomoção.
+É o relatório. Decido.
+De plano, destaco que o recurso não merece prosseguimento.
+Isso porque a irresignação manifestada no presente recurso ordinário constitui o mesmo objeto do Habeas Corpus n. 1.031.485/MG, anteriormente distribuído a esta relatoria, que foi imp etrado em favor do ora recorrente, pelos mesmos advogados e contra o mesmo acórdão ora impugnado (HC n. 1.0000.25.269712-3/000), havendo, pois, identidade de partes, causa de pedir e pedido.
+Assim, trata-se de mera reiteração de insurgência já submetida ao exame desta Corte Superior, motivo pelo qual o presente recurso ordinário não deve ser conhecido.
+Nesse sentido, confira-se o seguinte precedente do STJ:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ILEGALIDADE DA BUSCA PESSOAL. ALEGADA AUSÊNCIA DE FUNDADAS SUSPEITAS. PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA E NULIDADE DA BUSCA PESSOAL REALIZADA. MERA REITERAÇÃO DE HABEAS CORPUS PRÉVIO. PROCESSAMENTO DE DOIS MEIOS DE IMPUGNAÇÃO. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. Inviável o processamento do recurso ordinário em habeas corpus que consiste em mera reiteração do HC nº 824.489/MG, já impetrado nesta Corte Superior, com as mesmas partes, pedido e causa de pedir.
+2. Por outro lado, a opção deste Relator para prosseguir com o processamento do habeas corpus deu-se em razão do princípio da economia processual, tendo em vista que, quando o recurso ordinário foi distribuído nesta Corte Superior em 26/5/2023, a liminar no habeas corpus já havia sido indeferida em decisão de 19/5/2023, estando o remédio constitucional em estágio mais avançado.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 181.626/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.) - negritei.
+Ante o exposto, não conheço do presente recurso ordinário.
+Intimem-se.
+EMENTA
