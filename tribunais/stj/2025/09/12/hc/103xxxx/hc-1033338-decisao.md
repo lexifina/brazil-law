@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE SEVERINO DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada, encontrando-se denunciado pela suposta prática da conduta de tentativa de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão (fls. 7-13).
+Na hipótese, a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do paciente.
+Sustenta a desnecessidade da prisão cautelar.
+Aduz que a medida constritiva de liberdade é desprovida de contemporaneidade.
+Pondera que "quanto ao periculum in mora, está evidenciado pela possibilidade real de dano irreversível ao acusado JOSÉ SEVERINO que ingressou no sistema penitenciário, em 04/05/2025, acusado primário, com endereço certo, ocupação lícita, devidamente Citado na ação e apresentado Resposta a Acusação, podendo responder em liberdade, com a aplicação de forma CUMULATIVA as outras Medidas Cautelares, como o COMPARECIMENTO PERIÓDICO EM JUÍZO, a PROIBIÇÃO DE MANTER CONTATO com as supostas vítimas e ainda PROIBIÇÃO DE AUSENTAR-SE DA COMARCA sem consentimento do Juízo de origem, bem como o MONITORAMENTO ELETRÔNICO, continuar preso sem estrita necessidade" (fl. 5).
+Requer, ao final, a imposição de medidas cautelares alternativas à prisão, previstas no art. 319, do Código de Processo Penal.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva decretada em desfavor do p aciente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, mormente para assegurar a aplicação da lei penal, na medida em que ele teria permanecido em local incerto e não sabido, sendo considerado foragido desde a data dos fatos, há mais de 20 (vinte) anos.
+Tais circunstâncias demonstram a periculosidade do paciente, justificando a segregação cautelar determinada.
+Sobre o tema:
+"2. A prisão preventiva foi devidamente decretada para garantia da aplicação da lei penal, considerando que o agravante não foi encontrado no endereço fornecido na fase policial, permanecendo foragido por quase 6 anos" (AgRg no HC n. 931.185/MA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+"No caso, a prisão preventiva foi mantida pelo Tribunal estadual por entender ser necessária a medida para garantir a ordem pública, para conveniência da instrução processual e assegurar a aplicação da lei penal, enfatizando que o acusado encontra-se foragido" (AgRg no HC n. 971.169/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025.)
+"A condição de foragido do paciente no presente caso, justifica a manutenção da prisão preventiva, conforme entendimento consolidado na jurisprudência, que considera a fuga como fundamento suficiente para a cautelaridade" (AgRg no HC n. 856.769/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+Outrossim, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No mais, quanto à aventada ausência de contemporaneidade da medida constritiva de liberdade, tenho que a prisão foi determinada, considerando a necessidade de sua imposição no momento da decretação, havendo que ressaltar que o paciente teria se evadido do distrito da culpa, permanecendo foragido por mais de 20 anos; restando afastada, portanto, a alegação de extemporaneidade da medida.
+Nesse sentido:
+"a contemporaneidade não está restrita à época da prática do delito, e sim da verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado" (AgRg no HC n. 716.043/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+"Contemporaneidade. O decreto é de 2014 mas o recorrente permaneceu foragido. Não há que se falar, nesse contexto, em ausência de contemporaneidade. "A fuga constitui o fundamento do juízo de cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória". (AgRg no RHC n. 133.180/SP, Relatora Ministra LAURITA VAZ, Sexta Turma, DJe 24/8/2021)" (AgRg no RHC n. 194.446/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
