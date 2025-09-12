@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão, às fls. 416-419, que denegou o habeas corpus impetrado em favor de CLEBER RODRIGUES GIMENEZ.
+Depreende-se dos autos que o agravante se encontra preso, preventivamente, pela suposta prática dos crimes de organização criminosa, tráfico de drogas e lavagem de capitais.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que denegou a ordem em acórdão às fls. 34-45.
+Nas razões do presente inconformismo, o agravante repisa os argumentos deduzidos no writ, alegando a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em seu desfavor.
+Argumenta que não há fundamentação concreta para a segregação cautelar.
+Sustenta falta de contemporaneidade da medida constritiva de liberdade.
+Aponta a existência de ilegalidade, decorrente de denúncia anônima sem procedimento de verificação prévia.
+Requer a reconsideração da decisão hostilizada, ou, em caso de entendimento diverso, a submissão ao Órgão Colegiado.
+Petição às fls. 473-482.
+É o relatório. DECIDO.
+Considerando a relevância das alegações do agravante, reconsidero a decisã o proferida às fls. 416-419.
+Quanto a alegação acerca da ausência de fundamentação para a segregação cautelar, a custódia prisional, como sabemos, é providência extrema que deve ser determinada quando demonstrados o fumus comissi delicti e o periculum libertatis, na forma do art. 312 do Código de Processo Penal. Em razão de seu caráter excepcional, somente deve ser imposta quando incabível a substituição por outra medida cautelar menos gravosa, conforme disposto no art. 282, § 6º, do Código de Processo Penal (RHC n. 117.739/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/12/2019).
+Registre-se que, conquanto o Juízo de primeiro grau tenha feito apontamentos quanto à necessidade da prisão para garantir a ordem pública, não demonstrou, suficientemente, em elementos concretos a periculosidade do paciente nem o risco de reiteração criminosa. Tais circunstâncias, embora não garantam eventual direito à soltura, devem ser valoradas, quando não demonstrada a indispensabilidade do decreto prisional.
+Com efeito, a prisão não se mostra necessária, em juízo de proporcionalidade, para embasar a segregação corpórea. Ressalte-se que o paciente é primário e com bons antecedentes, não há provas acerca do risco de fuga ou obstrução da investigação e em caso de descumprimento das cautelares impostas, a prisão poderá ser novamente decretada em seu desfavor. Logo, a imposição de medidas cautelares alternativas à prisão preventiva são as mais indicadas ao caso ora em análise.
+Em hipóteses como a destes autos, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Neste aspecto, é firme a jurisprudência do STJ:
+"A prisão preventiva deve ser substituída por medidas cautelares quando não demonstrados concretamente os requisitos do art. 312 do CPP. 2. A manutenção da prisão preventiva sem os requisitos necessários caracteriza antecipação de pena".(AgRg no HC n. 1.004.880/MS, Minha relatoria, Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+"A custódia cautelar é providência extrema que, como tal, somente deve ser ordenada em caráter excepcional, conforme disciplina expressamente o art. 282, § 6º, do diploma processual penal, segundo o qual a "prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar, observado o art. 319 deste Código, e o não cabimento da substituição por outra medida cautelar deverá ser justificado de forma fundamentada nos elementos presentes do caso concreto, de forma individualizada".(AgRg no HC n. 1.000.774/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Ressalte-se que:
+"Além disso, de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do CPP), provisionalidade (art. 316 do CPP) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do CPP), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do CPP, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade." (AgRg no HC n. 803.633/SP, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 28/3/2023)
+Por óbvio, não se está a minimizar a gravidade da conduta imputada ao paciente, porém há que se reconhecer que, uma vez ausentes os requisitos necessários para a prisão preventiva,sua manutenção caracterizaria verdadeira antecipação de pena.
+Diante disso, considerando as peculiaridades do caso, entendo possível o resguardo da ordem pública e a garantia da aplicação da lei penal por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal. Nesse sentido, por exemplo, a jurisprudência do STJ: HC n. 663.365/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/8/2021.
+Ante o exposto, concedo a ordem apenas para substituir a prisão preventiva imposta ao Paciente por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal , a serem estabelecidas pelo Juízo a quo.
+Comunique-se ao paciente que, em caso de injustificado descumprimento de quaisquer das obrigações impostas por força das cautelares, a prisão poderá ser restabelecida.
+Comunique-se para cumprimento.
+Publique-se. Intimem-se.
+EMENTA
