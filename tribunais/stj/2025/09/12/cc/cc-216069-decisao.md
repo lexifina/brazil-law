@@ -1,0 +1,9 @@
+DECISÃO
+HERMES GUILHERME DE OLIVERIA suscita conflito de competência, diante do JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL - MEIO FECHADO E SEMIABERTO - ALFENAS - MG e do JUÍZO DE DIREITO DA UNIDADE REGIONAL DE DEPARTAMENTO ESTADUAL DE EXECUÇÃO CRIMINAL - DEECRIM 3ª RAJ - DE BAURU - SP.
+De início, realço que a utilização do conflito negativo de competência (pelas partes ou por juízos) pressupõe a existência de dois ou mais juízes que se consideram incompetentes e atribuem, um ao outro, a competência.
+No caso, a despeito da alegação do suscitante de que haveria o declínio de competência de ambos os Juízos suscitados, para a apreciação do pedido de transferência da execução penal do Suscitante para o Juízo de Bauru, o autos se encontram deficientemente instruídos, tal como ocorreu com o CC n. 216.069/MG, também instaurado pelo ora suscitante.
+Deveras, a decisão de fl. 10 trata apenas do pedido de transferência de Hermes Guilherme de Oliveira para u nidade prisional do Estado de Minas Gerais, e não o inverso como alega o suscitante que ocorreu. Portanto, apenas com os documentos trazidos nesta oportunidade não é possível o deslinde da controvérsia.
+Segundo o entendimento desta Corte, " o  suscitante deverá instruir a inicial com os documentos necessários à comprovação da existência do alegado conflito, o que não ocorreu na espécie, não sendo obrigação desta Corte buscar tais peças nos sites eletrônicos dos Tribunais de origem. Precedentes do STJ. (EDcl no CC 165.731/SP, Rel. Ministro Nefi Cordeiro, Terceira Seção, julgado em 26/06/2019, DJe 22/08/2019)" (CC n. 201.549/SC, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJ/SP, DJe 2/8/2024).
+À vista do exposto, não conheço in limine do conflito de competência.
+Publique-se. Dê-se ciência aos Juízos suscitados e ao Ministério Público Federal.
+EMENTA
