@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo em  recurso  especial  interposto  por PEDRO HENRIQUE PATROCÍNIO contra  acórdão  prolatado  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Informam os autos que o recorrente foi condenado em primeiro grau ao cumprimento de 1 ano e 8 meses de reclusão, no regime inicial aberto, com substituição por penas restritivas de direito, e ao pagamento de 166 dias-multa, como incurso no art. 33, § 4o, da lei 11.343/06 (fls. 413-431).
+Em segunda instância, o Tribunal de origem deu provimento ao recurso do Ministério Público Estadual para condenar o recorrente como incurso no 311, § 2º, III do CP e condenou-o ao cumprimento de 3 anos e 6 meses de reclusão, e ao pagamento de 11 dias-multa; e para condenar o recorrente como incurso no art. 33, caput, da lei n. 11.343/06, ao cumprimento de 5 anos de reclusão, e ao pagamento de 500 dias-multa (fls. 735-753).
+Negado provimento aos embargos de declaração opostos contra o acórdão (fls. 790-794).
+Nas  razões  do  recurso  especial (fls. 844-865),  interposto  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  Constituição  Federal,  o  recorrente  sustentou  ter direito ao benefíci o do § 4o do art. 33 da lei 11.343/06.
+Apresentadas as contrarrazões (fls. 869-873), o recurso não foi admitido na origem, com base na Súmula 7 do STJ (fls. 877-879), o que deu ensejo à interposição do agravo pela defesa (fls. 926-941).
+O Ministério Público Estadual apresentou  contrarrazões  (fls.  945-946).
+O Ministério Público Federal apresentou parecer pelo não provimento do agravo (fls. 1010-1017).
+É  o  relatório.
+Conheço do agravo em recurso especial interposto pela defesa de Pedro Henrique Patrocínio, pois presentes os pressupostos recursais.
+No mérito, nego-lhe provimento em parte, pois a questão submetida a julgamento realmente se submente ao disposto na Súmula 7 do STJ.
+O Tribunal de origem compreendeu que o recorrente praticou crime de tráfico de entorpecentes e que não tinha direito ao benefício constante do § 4o do art. 33 da lei 11.343/06 pelos seguintes motivos:
+"Por outro lado, pretende o Parquet o decote da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, reconhecida na sentença em favor do apelado Pedro Henrique.
+Razão assiste ao Ministério Público, pois há nos autos prova definitiva no sentido de que o réu se dedicava às atividades criminosas. As provas produzidas ao longo do feito demonstram, sem nenhuma dúvida, o constante e íntimo contato do apelado com o tráfico de drogas, com destaque para o depoimento prestado pela testemunha Marcelo Cesário da Silva, que sob o crivo do contraditório afirmou:
+"(..) Que ambos os acusados eram envolvidos com tráfico de drogas na época de suas prisões; QUE o depoente tem conhecimento de que um dos acusados está sendo processado por homicídio na cidade de Lagoa da Prata; QUE o depoente confirma o teor do depoimento prestado em sede policial; QUE o Pedro Henrique também é conhecido no meio policial pela prática de crimes; QUE o Pedro morava nas proximidades da antiga delegacia; QUE o Pedro é envolvido com o tráfico desde a menoridade; QUE o Pedro comercializava drogas em geral (..)" (PJE Mídias)
+Tais informações estão em consonância com os dados extraídos da CAI do apelado (fls. 333/337), que evidenciam que Pedro registra inúmeras apreensões anteriores, por atos infracionais análogos a crimes graves diversos, tais como tráfico de drogas e roubo, evidenciando, assim, sua dedicação a atividades criminosas, especialmente, à traficância. Ora, a primariedade e os bons antecedentes de Pedro Henrique não são suficientes para a aplicação da referida minorante, já que a lei diz também que o agente não deve dedicar-se às atividades criminosas. Assim, decoto a causa de diminuição reconhecida em favor do réu Pedro Henrique."
+Ora, se a compreensão que prevaleceu é a de que o réu se dedicava às atividades criminosas porque as provas acima mostraram isso, não há como chegar a outra conclusão que não reexaminando-as, o que não tem cabimento em sede de um recurso de natureza extraordinária, cujo único objetivo, neste caso, é dar a correta interpretação da lei federal.
+Ante o exposto, conheço do agravo em recurso especial, para não conhecer do recurso especial, conforme artigo 253, parágrafo único, inciso II, "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
