@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão, de minha lavra, em que indeferi liminarmente o habeas corpus impetrado em favor de JADILSON GABRIEL XAVIER PAIVA, nos termos sintetizados na seguinte ementa (fl. 524):
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO P REVENTIVA. COMPETÊNCIA DO JUÍZO. REMESSA DOS AUTOS AO JUÍZO COMPETENTE. RATIFICAÇÃO TÁCITA. POSSIBILIDADE. NULIDADE DO FLAGRANTE. IRRELEVÂNCIA. CONVERSÃO EM PRISÃO PREVENTIVA. TÍTULO NOVO. CONVALIDAÇÃO. FUNDAMENTAÇÃO DA CUSTÓDIA. GRAVIDADE CONCRETA DA AÇÃO DELITUOSA. MODUS OPERANDI. CONTEXTO DE RIVALIDADE ENTRE FACÇÕES. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTO VÁLIDO. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Writ indeferido liminarmente.
+Nesta via, o embargante alega que há omissão na decisão embargada por não ter havido pronunciamento sobre as omissões apontadas na petição inicial, pois o Tribunal não teria se manifestado acerca da incerteza da testemunha ocular, manipulação da narrativa policial, prova de álibi ignorada, vício de fundamentação no decreto da prisão preventiva, inexistência de prova de vínculo com facção criminosa e de tentativa de fuga, demonstração concreta da insuficiência das cautelares.
+Requer sejam os presentes embargos de declaração acolhidos para que sejam sanadas as omissões apontadas.
+É o relatório.
+De fato, em relação às alegadas omissões quanto à incerteza da testemunha ocular, manipulação da narrativa policial, prova de álibi ignorada, inexistência de prova de vínculo com facção criminosa e de tentativa de fuga, a parte embargante possui razão. Há argumentos formulados nesse sentido na petição inicial, sobre os quais a decisão não se pronunciou.
+Todavia, não verifiquei ilegalidade no acórdão combatido em relação à tese mencionada capaz de modificar o decisum.
+Ora, o Tribunal de origem não se manifestou a respeito, nem foram opostos embargos de declaração visand o sanar eventuais vícios perante a instância ordinária, razão pela qual não se mostra viável a apreciação de tais questões diretamente por esta Corte Su perior, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+Quanto aos fundamentos da custódia e insuficiência das medidas cautelares alternativas, o acórdão impugnado ratificou os termos do decreto preventivo, e consta na decisão embargada a necessidade da constrição em razão da gravidade concreta do delito, consubstanciada pelo modus operandi empregado, em que o paciente, supostamente, efetuou golpes de arma branca contra o pescoço da vítima, ao que parece, em contexto de rivalidade entre organizações criminosas (ADE e Comando Vermelho) (fl. 526).
+Além disso, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria.
+Ademais, foi decidido que há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva do paciente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal (fl. 526).
+Em razão disso, acolho os pres entes embargos de declaração apenas para sanar as omissões aqui an alisadas , sem lhes atri buir efeitos modificativos.
+Publiq ue-se.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ALEGAÇÃO DE OMISSÕES NA DECISÃO OBJURGADA. VÍCIOS SANADOS , SEM EFEITOS MODIFICATIVOS.
+Emba rgos de declaração acolhidos, apenas para sanar a omissão, sem efeitos modificativos.
