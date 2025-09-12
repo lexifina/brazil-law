@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da 2ª Vara de Bento Gonçalves - SJ/RS em face do Juízo de Direito da Vara Estadual de Acidente do Trabalho de Porto Alegre - RS nos autos de ação ajuizada por DISTRAL DISTRIBUIDORA DE ALIMENTOS LTDA. contra o INSS objetivando a conversão do auxílio doença acidentário (B91) em auxílio doença comum (B31).
+Consta do processado que o Juízo da 2ª Vara Federal de Bento Gonçalves - SJ/RS declinou de sua competência para a Justiça Estadual.
+O Juízo da Vara de Acidente do Trabalho de Porto Alegre - RS, por sua vez, devolveu o feito ao Juízo Federal que, então, suscitou este conflito.
+O Ministério Público Federal manifestou-se pela competência do Juízo Estadual.
+É o relatório.
+Consoante relatado, versa a controvérsia sobre a competência para julgar a ação ajuizada pela parte empregadora contra o INSS objetivando a conversão do benefício recebido pelo empregado de auxílio doença acidentário para auxílio doença previdenciário, ao argumento de que o infortúnio que acometeu o segurado não se caracteriza como acidente de trabalho.
+Nesse cenário, verifica-se que a discussão diz respeito à natureza acidentária do benefício, daí porque compete à Justiça Estadual processar e julgar a causa, a teor do contido no art. 109, inciso I, da Constituição Federal, bem como das Súmulas 15/STJ e 501/STF. Em hipótese semelhante, a Primeira Seção desta Corte firmou entendimento de que cabe à Justiça Estadual processar e julgar a causa. Veja-se:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE ACIDENTE DE TRABALHO PROPOSTA CONTRA O INSTITUTO NACIONAL DO SEGURO SOCIAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. ""A Justiça Estadual é competente para processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício decorrente de acidente de trabalho, como também as relações daí decorrentes (restabelecimento, reajuste, cumulação), uma vez que o art. 109, I da CF não fez qualquer ressalva a este respeito. Súmulas 15/STJ e 501/STF."" (AgRg no CC 141.868/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 14/12/2016, DJe 2/2/2017).
+2. No caso, a empregadora ingressou contra o INSS com ação objetivando o reconhecimento da inexistência do acidente de trabalho, com a consequente conversão do benefício acidentário em comum. Para isso, faz-se necessário o exame do substrato fático/dinâmico dos fatos descritos na exordial, pela qual o julgador, mediante o seu livre convencimento, deverá concluir se o empregado estava ou não a trabalho, ou se estava em trânsito para o trabalho ou dele regressando, o que reforça o entendimento de incidência, na hipótese, da regra de exceção prevista no art. 109, I, da CF, firmando-se a competência do juízo estadual.
+3. Agravo regimental a que se nega provimento."
+(AgRg no CC n. 136.147/MG, Relator Ministro Og Fernandes, Primeira Seção, DJe de 30.06.2017)
+No mesmo sentido as seguintes decisões monocráticas: CC nº 209.924/RS, Relator Ministro Teodoro Silva Santos, DJEN de 05.12.2024; CC nº 209.207/PR, Relator Ministro Benedito Gonçalves, DJe de 07.11.2024; CC nº 208.043/RS, Relator Ministro Afrânio Vilela, DJe de 25.09.2024; CC nº 205.681/MG, Relator Ministro Benedito Gonçalves, DJe de 09.08.2024; CC nº 203.995/RN, Relator Ministro Francisco Falcão, DJe de 02.08.2024; e CC nº 202.249/ES, Relator Ministro Mauro Campbell Marques, DJe de 26.02.2024.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Estadual de Acidente do Trabalho de Porto Alegre - RS , o suscitado.
+Dê-se ciência ao Juízo suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO AJUIZADA CONTRA O INSS PARA CONVERTER BENEFÍCIO ACIDENTÁRIO EM PREVIDENCIÁRIO. COMPETÊNCIA DO JUÍZO ESTADUAL.
