@@ -1,0 +1,2 @@
+Reconhece o sítio arqueológico Cais do Valongo, na região portuária do Município do Rio de Janeiro, como patrimônio histórico-cultural afro-brasileiro essencial à formação da identidade nacional e estabelece diretrizes para a sua especial proteção em decorrência do título de Patrimônio Mundial da Humanidade pela Unesco.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
