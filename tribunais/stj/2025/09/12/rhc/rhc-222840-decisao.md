@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus impetrado em favor de IGOR DAMIAO CUSTODIO MENEZES contra ato proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS .
+Consta nos autos que o recorrente foi preso preventivamente no dia 19.06.2025, pela suposta prática do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que conheceu em parte do writ e, na parte conhecida, denegou o habeas corpus, em acórdão de fls. 85-90.
+No presente recurso, sustenta a defesa que o recorrente está recluso há mais de 90 dias sem a reavaliação da prisão.
+Salienta ausência dos requisitos ensejadores da prisão preventiva, ausência de contemporaneidade, bem como falta de motivos idôneos para a segregação cautelar, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+É o relatório. DECIDO.
+Quanto aos argumentos expendidos no presente recurso ordinário em habeas corpus, da leitura do acórdão objurgado verifica-se que tais matérias não foram alvo de deliberação pelo Tribunal de origem em razão de se tratar de mera reiteração de pedido, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+No que tange a alegação de que o recorrente está recluso há mais de 90 dias sem a reavaliação da prisão, o acórdão impugnado rechaçou tal informação ao afirmar que a prisão preventiva do recorrente "fora devidamente revisadas nas datas de 03/07/2025 e 12/08/2025, oportunidades em que foram indeferidos os pleitos revogatórios"- fl. 88.
+Ademais, a regra prevista no parágrafo único do art. 316, parágrafo único, não se trata de termo peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade.
+O entendimento desta Corte Superior é no sentido de que:
+"a alteração promovida pela Lei n. 13.964/2019 ao art. 316 do Código de Processo Penal estabeleceu que o magistrado revisará a cada 90 dias a necessidade da manutenção da prisão, mediante decisão fundamentada, sob pena de tornar a prisão ilegal. Contudo, não se trata de termo peremptório, isto é, eventual atraso na execução desse ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRg no RHC 130.942/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/11/2020)."(AgRg no HC n. 890.684/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2024, DJEN de 9/12/2024.)
+Ante o exposto, conheço em parte do recurso e, na parte conhecida, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
