@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO CARLOS DE SOUZA QUERINO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 5001342-18.2020.8.24.0033/SC (fl. 187), com a seguinte ementa:
+APELAÇÃO CRIMINAL. CRIMES DE EMBRIAGUEZ AO VOLANTE (ART. 306 DA LEI N. 9.503/97) E RESISTÊNCIA (ART. 329 DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO. PEDIDO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. NÃO ACOLHIMENTO. MATERIALIDADE E AUTORIA DEVIDAMENTE DEMONSTRADAS. ACUSADO QUE CONDUZIA A MOTOCICLETA SOB A INFLUÊNCIA DE ÁLCOOL E PERDEU O CONTROLE DO VEÍCULO, COLIDINDO CONTRA O MURO DE UMA RESIDÊNCIA. RÉU QUE, LOGO EM SEGUIDA, SE EVADIU PARA O SEU DOMICÍLIO, SITUADO NO FINAL DA RUA. PROPRIETÁRIO DO IMÓVEL DANIFICADO QUE JÁ CONHECIA O ACUSADO E VISUALIZOU O EXATO MOMENTO EM QUE ELE SE LEVANTOU, PEGOU A MOTO E FOI EM DIREÇÃO AO SEU IMÓVEL, FORNECENDO O ENDEREÇO PARA OS AGENTES PÚBLICOS. POLICIAIS MILITARES QUE, AO CHEGAREM NO LOCAL, PERCEBERAM SINAIS DE EMBRIAGUEZ NO RÉU E ENCONTRARAM A MOTOCICLETA COM DIVERSAS AVARIAS. ACUSADO QUE RESISTIU À ABORDAGEM, MEDIANTE O USO DE VIOLÊNCIA, FAZENDO COM QUE FOSSEM UTILIZADAS TÉCNICAS DE IMOBILIZAÇÃO. DEPOIMENTOS DOS POLICIAIS UNÍSSONOS E COESOS. PALAVRAS DOS AGENTES PÚBLICOS QUE MERECEM CREDIBILIDADE, SOBRETUDO QUANDO EM CONSONÂNCIA COM OS DEMAIS ELEMENTOS ENCARTADOS NOS AUTOS. PROVA CORROBORADA PELO RESULTADO DO TESTE DE ALCOOLEMIA. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Foram opostos embargos de declaração (fls. 192/199), rejeitados à fl. 213.
+No recurso especial (fls. 236/252), a defesa requereu, em síntese, o sobrestamento do recurso até o julgamento dos procedimentos representativos de controvérsia no que tange ao ANPP. Subsidiariamente, requereu o reconhecimento da ilegalidade do não reconhecimento da retroatividade do art. 28-A do CPP, para converter o julgamento em diligência, para oferta de ANPP.
+Inadmitido o recurso na origem (fls. 280/281), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 288/301).
+O Ministério Público Federal opinou pelo não provimento do agravo.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Todavia, o recurso especial não comporta conhecimento.
+A defesa argumenta com a violação do art. 28-A do Código Penal, art. 9º da Convenção Interamericana de Direitos Humanos e art. 2º, parágrafo único, do Código Penal.
+Todavia, a matéria atinente ao oferecimento de proposta de ANPP não foi objeto de análise pelas instâncias ordinárias, não tendo sido abordado nas razões de apelação nem no respectivo acórdão. Somente em sede de embargos de declaração foi suscitada a questão, evidentemente, já alcançada pela preclusão.
+Forçoso reconhecer, portanto, a incidência do enunciado da Súmula n. 211/STJ, a obstar o conhecimento do recurso especial.
+Consoante entendimento sedimentado pela Segunda Turma do Supremo Tribunal Federal, o acusado somente fará jus à análise do ANPP se houver apresentado o pleito na primeira oportunidade de intervenção nos autos após a data de vigência do art. 28-A, do CPP, sob pena de estabilização da controvérsia por meio dos efeitos preclusivos do comportamento omisso, em observância aos princípios da boa-fé objetiva e da cooperação processual (AgRg no REsp n. 2.101.032/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJE 21/6/2024), fato não ocorrido nos autos.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. RESISTÊNCIA. SOBRESTAMENTO DO RECURSO. ANPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+Agravo conhecido para não conhecer do recurso especial.
