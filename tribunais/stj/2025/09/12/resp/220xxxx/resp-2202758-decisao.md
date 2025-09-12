@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por FAZENDA NACIONAL, com base na alínea a do permissivo constitucional, visando a reforma do acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ, fls. 484-485):
+TRIBUTÁRIO. REMESSA NECESSÁRIA. APELAÇÃO. MANDADO DE SEGURANÇA. PIS E COFINS. REGIME DA NÃO-CUMULATIVIDADE. CREDITAMENTO. IPI NÃO RECUPERÁVEL. PARCELA QUE INTEGRA O CUSTO DE AQUISIÇÃO. POSSIBILIDADE. PEDIDO DE COMPENSAÇÃO NA VIA ADMINISTRATIVA. OBSERVÂNCIA À LEGISLAÇÃO VIGENTE NO ENCONTRO DE CONTAS E AO ART. 170-A DO CTN. SENTENÇA REFORMADA EM PARTE.
+1. Remessa Necessária e Apelação em face de sentença, integrada por decisão em Embargos de Declaração, que, nos autos do Mandado de Segurança, julgou procedente o pedido, concedendo a segurança pretendida para (i) declarar o direito da impetrante de proceder ao cálculo do crédito da não cumulatividade do PIS e da COFINS com base no custo de aquisição do bem ou serviço, conforme descrito no art. 3º, §1º, inciso I, das Leis nº 10.637/2002 e 10.833/2003, considerando no custo de aquisição o valor do IPI não recuperável; (ii) declarar o direito da parte Impetrante (a) à compensação administrativa pelo indébito indicado, gerado a partir de janeiro/2023 (inclusive as parcelas vencidas no curso desta ação), na forma da fundamentação; ou (b) o direito à restituição judicial via Precatório-RPV, relativamente ao indébito gerado a partir do ajuizamento deste mandamus. 2. No que toca especificamente às contribuições PIS e COFINS, o marco normativo da não cumulatividade foi reservado à legislação ordinária, nos termos do art. 195, § 12, da CF/88, diferentemente do que se verifica com o IPI e o ICMS, para os quais os contornos da não cumulatividade são delineados pela própria Constituição Federal.
+3. A Constituição Federal, no que se refere à não cumulatividade, quando se trata de contribuições sociais incidentes sobre a receita ou o faturamento das empresas, delegou ao legislador infraconstitucional a definição do regime de não cumulatividade dos tributos relativos à seguridade social, sendo que, por lei, se definirão para que setores da atividade econômica ele será aplicado, conforme determinação dada pela Emenda Constitucional nº 42/2003.
+4. Nesse contexto, foram editadas as Leis 10.637/2002 (resultante da conversão da MP nº 66/2002) e 10.833/2003 (resultante da conversão da MP nº 135/2003), que se referem ao PIS e à COFINS, respectivamente, e que atribuíram à apuração desses tributos o sistema de creditamento, em algumas circunstâncias.
+5. A Receita Federal do Brasil - RFB, então, publicou em 15 de dezembro de 2022 a Instrução Normativa - IN nº 2.121 para consolidar as normas sobre a apuração, a cobrança, a fiscalização, a arrecadação e a administração da contribuições para o PIS e COFINS, dentre outros. A referida IN tornou expresso em seu artigo 170, inciso II, que o IPI incidente na venda do bem pelo fornecedor não gera direito a crédito, por não estarem sujeitas ao pagamento do PIS e da COFINS pelo fornecedor.
+6. O novo ato normativo revogou a Instrução Normativa nº 1.911/2019 que regulamentava anteriormente a questão pelo art. 167, onde havia a previsão expressa do direito ao creditamento do PIS e da COFINS sobre o valor do IPI não recuperável decorrentes da aquisição de insumos, bens para revenda ou bens destinados ao ativo imobilizado, por compor o preço de aquisição. Ressalta-se que o mesmo entendimento era pacífico no âmbito da RFB e era reproduzido na IN SRF nº 247/2002 e na IN SRF nº 404/2004. Ocorre que o art. 170, inciso II, da IN nº 2.121/22 não fez distinção entre o IPI recuperável e o IPI não recuperável, afastando ambos da base de cálculo dos créditos do PIS e da COFINS.
+7. O IPI não recuperável consiste em tributo recolhido pelo fornecedor que não pode ser recuperado em operação posterior, por não ser o adquirente contribuinte do tributo, e, portanto, integra o custo do produto suportado pelo adquirente. Conforme a lógica do sistema não cumulativo, o valor desse custo de aquisição pode ser considerado no creditamento do PIS e da COFINS, nos termos do art. 3º, §1º, I, das Leis nº 10.637/2002 e nº 10.833/2003. Precedentes do TRF da 3ª Região.
+8. A IN nº 2.121/22 alterou o entendimento anterior quanto ao creditamento do PIS e da COFINS sobre o IPI não recuperável na aquisição de produtos, que encontrava-se em conformidade com as Leis nº 10.637/2002 e 10.833/2003 e com a sistemática do regime não cumulativo, sem respaldo legal para tanto, incorrendo em ilegalidade.
+9. Ressalta-se que o registro extemporâneo dos créditos na escrituração fiscal está sujeita aos procedimentos administrativos da Secretaria da Receita Federal do Brasil - SRF.
+10. Embora o Mandado de Segurança não seja substitutivo de ação de cobrança, constitui ação adequada para a declaração do direito à compensação tributária, uma vez que não há discussão acerca dos valores a serem compensados, providência adstrita à esfera administrativa. Nesse sentido, as Súmulas nº 269 do C. STF e nº 213 do E. STJ.
+11. O C. STF não admite a restituição pela via administrativa, conforme entendimento firmado no Tema 1262 de repercussão geral.
+12. O E. STJ já firmou entendimento, em recurso representativo de controvérsia ( Tema 228), no sentido da possibilidade de o contribuinte optar pelo recebimento do indébito tributário por meio de precatório ou compensação, sem que isso ofenda à coisa julgada.
+13. Apelação a que se nega provimento. Remessa Necessária provida em parte.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 548-555).
+Nas razões do recurso especial (e-STJ, fls. 548-555), a insurgente aponta violação aos arts. 3º, § 2º, II, das Leis n. 10.637/2002 e n. 10.833/2002; 12, § 4º, do Decreto-Lei n. 1.598/1977; 489, § 1º, IV, e 1.022, II, do CPC.
+Sustenta, preliminarmente, negativa de prestação jurisdicional por parte do acórdão recorrido.
+No mérito, defende, em resumo, que, no regime não cumulativo, é vedada a apropriação de créditos da contribuição para o PIS e para COFINS sobre o valor do IPI não recuperável nas operações de aquisição de bens destinados à revenda.
+Contrarrazões às fls. 563-576 (e-STJ).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fl. 582), ascendendo os autos a esta Corte.
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos Recursos Especiais ns. 2.198.235/CE e 2.191.364/RS, relatora Ministra Maria Thereza de Assis Moura, julgadas em 12/8/2025, DJEN de 19/8/2025, delimitaram o Tema 1.373 da seguinte forma: "Definir se o IPI não recuperável incidente sobre a operação de entrada integra a base de cálculo dos créditos da contribuição ao PIS/Pasep e da Cofins".
+Confira-se a respectiva ementa:
+Ementa. Tributário. Recurso especial. Representativo de controvérsia. PIS/COFINS. Não cumulatividade. Créditos sobre IPI não recuperável. Admissibilidade. Afetação ao rito dos repetitivos.
+I. Caso em exame
+1. Recursos representativos de controvérsia (REsp n. 2.191.364 e REsp n. 2.198.235) relativa à inclusão do IPI não recuperável na base de cálculo dos créditos da contribuição ao PIS/Pasep e da Cofins no regime não cumulativo.
+II. Questão em discussão
+2. Saber se a controvérsia é repetitiva e se os recursos especiais selecionados são admissíveis e representativos.
+III. Razões de decidir
+3. Os recursos especiais selecionados são admissíveis e representam controvérsia repetitiva sobre a interpretação da legislação federal.
+IV. Dispositivo e tese
+4. Afetação dos recursos especiais ao rito previsto nos arts. 1.036 e 1.037 do CPC e nos arts. 256 a 256-X do RISTJ.
+5. Delimitação da controvérsia afetada: Definir se o IPI não recuperável incidente sobre a operação de entrada integra a base de cálculo dos créditos da contribuição ao PIS/Pasep e da Cofins.
+6. Suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versam sobre a questão e tramitam no território nacional.
+______
+Dispositivos relevantes citados: art. 1º, § 1º, art. 3º, I, §1º, I, § 2º, II, da Lei n. 10.637/2002; art. 1º, § 1º, art. 3º, I, § 1º, I, § 2º, II, da Lei n. 10.833/2002.
+Jurisprudência relevante citada: STJ, REsp n. 2.188.258, Rel. Min. Maria Thereza de Assis Moura, Segunda Turma, julgado em 14/5/2025.
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.373/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. PIS/COFINS. NÃO CUMULATIVIDADE. AQUISIÇÃO DE BENS PARA REVENDA. CRÉDITOS SOBRE IPI NÃO RECUPERÁVEL. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.373/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
