@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por JONES VITTO, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 22):
+PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. AUSÊNCIA DE ELEMENTOS NOVOS. AGRAVO DE INSTRUMENTO. RECURSO INADMISSÍVEL. - O agravo de instrumento é recurso manifestamente inadmissível contra decisão que põe fim ao cumprimento de sentença contra a Fazenda Pública, ao reconhecer não haver crédito a ser executado e determinar a baixa e o arquivamento do feito. - Ausente fato ou fundamento novo capaz de infirmar a decisão hostilizada, deve ela ser mantida por seus próprios fundamentos.
+No recurso especial (e-STJ, fls. 24-27), o recorrente alega violação dos artigos 1.015, parágrafo único, do CPC
+Defende que "o agravo de instrumento foi interposto contra decisão de primeiro grau, proferida em cumprimento de sentença, que não foi denominada "sentença", nem extinguiu a execução" (e-STJ, fl. 26).
+Sem contrarrazões.
+O recurso especial foi admitido na origem (e-STJ, fl. 45).
+Brevemente relatado, decido.
+O acórdão recorrido se encontra em conformidade com a jurisprudência desta Corte Superior segundo a qual a decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada por meio de recurso de apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, deve ser combatida por meio de agravo de instrumento.
+À propósito (sem destaque no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DECISÃO QUE EXTINGUE A EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada em recurso de apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, deve ser combatida por meio de agravo de instrumento. Inviabilidade da incidência do princípio da fungibilidade recursal por se tratar de erro grosseiro.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.943.657/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. DECISÃO EM IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DA EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO.
+1. Esta Corte Superior possui entendimento no sentido de que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada através de Apelação. Precedentes: AgRg no AREsp 825.802/RS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 9/3/2016 eAgInt nos EDcl no REsp 1.750.183/CE, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/4/2020.
+2. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.888.080/MA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/12/2020, DJe de 18/12/2020.)
+Ressalto, ainda, que o acórdão recorrido foi claro ao dispor que se tratava de extinção da execução. Nesse sentido (fls. 19-20 - sem destaque no original):
+No agravo de instrumento, questiona-se decisão que, em sede de cumprimento de sentença contra a Fazenda Pública, indeferiu pedido de execução complementar e determinou a baixa e o arquivamento dos autos Como já afirmado na decisão objeto do presente agravo interno (evento 2, DESPADEC1), e no julgamento dos embargos de declaração (evento 11, DESPADEC1), o recurso não comporta seguimento.
+Na forma dos arts. 1.009 e 1.015 do Código de Processo Civil, o recurso de apelação é oponível à sentença, enquanto que o agravo de instrumento serve à insurgência em face de decisão interlocutória.
+O ato judicial é qualificado pelo seu conteúdo e finalidade, e não pela mera denominação utilizada pelo juízo. No caso da sentença, seu principal objetivo é por fim à determinada fase processual. Já a decisão interlocutória resolve incidente no curso do feito, que prosseguirá posteriormente.
+(..)
+Sendo assim, no presente caso, o agravo de instrumento é manifestamente inadmissível, pois o pronunciamento judicial deveria ser impugnado por apelação.
+A propósito, destaque-se que não é hipótese de utilização do princípio da fungibilidade, porquanto não se pode afigurar razoável a existência de dúvida objetiva a respeito do recurso cabível.
+É certo, ainda, que o Tribunal de origem não foi instado a se manifestar sobre a tese de suposto equívoco do acórdão atacado, notadamente a alegação de que "a decisão de primeiro grau não foi denominada sentença, nem extinguiu a execução" (e-STJ, fl. 26), e em seu teor da decisão como "indefiro o processamento da execução complementar" que é caracterizado como uma decisão interlocutória de mérito" (fl. 26), circunstância que também impede o conhecimento do presente recurso, diante da falta de prequestionamento.
+Assim, ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial, considerando que sequer houve oposição dos embargos de declaração. Nesse sentido, o enunciado n. 282 do STF.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. RECLAMAÇÃO FORMULADA PELO PROCON. PRESTAÇÃO JURISIDICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA A DECRETO REGULAMENTAR. IMPOSSIBILIDADE DE CONHECIMENTO. HIGIDEZ DA ATUAÇÃO. PROPORCIONALIDADE DA MULTA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE PREVISÃO LEGAL NO ÂMBITO LOCAL.
+1. Não se vislumbra negativa de prestação jurisdicional quando a Corte de origem resolve, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A ausência de efetivo debate perante o Tribunal de origem a respeito da matéria objeto do recurso, a qual nem sequer foi suscitada em sede de embargos declaratórios, impede a abertura da via especial, em razão do não preenchimento do requisito constitucional do prequestionamento.
+3. O recurso especial não é via adequada para que a parte alegue violação de decreto regulamentar, o qual não se enquadra no conceito de lei federal.
+4. Tendo o acórdão recorrido afirmado expressamente a higidez da autuação, bem como a proporcionalidade da multa aplicada, eventual alteração das premissas adotadas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Nos procedimentos de infração administrativa dos estados, inexistindo norma local sobre a aplicação da prescrição intercorrente, inaplicável a disposição prevista na Lei n. 9.873/1999, cujo âmbito de incidência é restrito às ações punitivas na esfera da administração pública federal.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.151.570/MT, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/11/2024, DJe de 29/11/2024 - sem destaque no original)
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, desprovido.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO QUE EXTINGUE A EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. DEMAIS QUESTÕES TRAZIDAS QUE NÃO FORAM PREQUESTIONADAS. EMBARGOS DE DECLARAÇÃO QUE NÃO FORAM OPOSTOS. APLICAÇÃO DA SÚMULA 282/STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
