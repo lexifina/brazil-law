@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO RIO DE JANEIRO, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+Agravo de Instrumento. Direito Tributário e Processual Civil. Execução Fiscal. Ação originariamente proposta em face de pessoa jurídica devedora de tributos estaduais. Decisão que acolhe pedido de penhora da marca na busca de satisfação do crédito tributário. Recurso do executado. Alegação de que a penhora da marca inviabiliza a manutenção da atividade empresarial. Alegação de necessidade de encaminhamento do requerimento ao Juízo da Recuperação Judicial. Penhora da marca que poderá acarretar prejuízo à manutenção da atividade empresarial. Cooperação judicial que mostra necessária. Procedimentos de constrição de bens de empresas em recuperação judicial que devem ser alinhados com o Juízo do processo de recuperação. Excepcionalidade da medida adotada que deve observância ao determinado no artigo 11 § 1º, da Lei nº 8.630/80. Provimento do recurso. Reforma da decisão.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o ente público recorrente aponta suposta violação dos arts. 489, § 1º, IV, 835, VI, e 1.022, I e II, do Código de Processo Civil; art. 11, VII e § 1º, da Lei de Execução Fiscal; e art. 6º, § 7º-B, da Lei n. 11.101/2005. Em síntese, sustenta:
+(i) a nulidade do acórdão recorrido, em razão da não correção dos vícios de integração apontados nos embargos de declaração;
+(ii) a desnecessidade de prévia autorização do juízo da recuperação judicial para o deferimento de pedido de penhora formulado em sede de execução fiscal;
+(iii) a natureza não excepcional da penhora de marca, por se tratar de bem móvel;
+(iv) o esgotamento das diligências para localização de bens da executada que justifiquem o pedido de constrição sobre a marca.
+Após a apresentação das contrarrazões, o Tribunal de origem admitiu o recurso especial, determinando a remessa dos autos à instância superior.
+Passo à análise.
+Quanto à alegada negativa de prestação jurisdicional, cumpre destacar que o art. 1.022 do Código de Processo Civil de 2015 dispõe que os embargos de declaração são cabíveis contra qualquer decisão judicial, com o objetivo de esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, nos seguintes termos:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência; (ii) incorrer a decisão judicial em qualquer das condutas descritas no art. 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação. Veja-se:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No caso em análise, o recurso especial tem origem em agravo de instrumento interposto pela empresa recorrida contra decisão proferida pelo juízo da execução fiscal, que havia acolhido o pedido de penhora da marca "AQM - AQUAMAR".
+O Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ) deu provimento ao recurso, afastando a ordem de penhora, com base na seguinte fundamentação:
+O recurso interposto é adequado e tempestivo, ostentando os demais requisitos de admissibilidade recursal. Dele conheço, nos termos que se seguem: A leitura dos autos e dos documentos que o instruem indica que a decisão deve ser reformada.
+Trata-se de ação de execução fiscal, em face de empresa em recuperação judicial, na qual foi deferido o requerimento de penhora da marca da devedora.
+No caso em análise, respeitando-se os limites de análise do recurso de Agravo de Instrumento, os documentos juntados aos autos demonstram indícios de que, a prevalecer a penhora da marca, sem a oitiva do Juízo condutor do processo de recuperação judicial, existe a possibilidade de ser frustrado o plano de recuperação da agravante.
+Nesse sentido temos os julgados de casos análogos em nosso Tribunal, a saber:
+ ..
+Embora não exista na legislação óbice para constrição de patrimônio, ou renda, de empresas em recuperação judicial, para satisfação de crédito tributário, existe a necessidade de estabelecimento de cooperação judicial, entre os Juízos onde tramitam a recuperação judicial e o Juízo da execução fiscal, objetivando-se com isso a viabilidade da manutenção da atividade empresarial.
+Observa-se ainda que, a penhora da marca, ou nome da empresa, deve ser deferida apenas em casos excepcionais, respeitando-se o determinado no art. 11, § 1º, da Lei nº 8.630/80.
+Destaca-se que, no caso em tela, não restou comprovada a realização de diligências diversas para obtenção da satisfação do crédito executado, que poderia inclusive culminar em penhora parcial do faturamento da empresa devedora, medida também extrema, mas que não inviabiliza a manutenção da atividade empresarial.
+Ocorre que o ESTADO DO RIO DE JANEIRO, apontando a existência de omissão, opôs embargos de declaração com o objetivo de provocar manifestação da Corte estadual sobre os seguintes pontos:
+(i) a competência do juízo da recuperação judicial restringe-se à eventual substituição da penhora determinada pelo juízo da execução, que não depende de autorização prévia do juízo recuperacional para deliberar sobre o tema;
+(ii) a penhora de marca registrada no INPI configura espécie de penhora de bem móvel, não exigindo, portanto, prévio esgotamento de tentativas de localização de outros bens penhoráveis para o seu deferimento;
+(iii) no caso concreto, há documentos nos autos que comprovam a inexistência de outros bens penhoráveis, tais como: resultado negativo do SISBAJUD; ausência de veículos e aeronaves (fl. 28); e existência de alienação fiduciária sobre os imóveis da executada.
+Entretanto, ao julgar os embargos, o órgão colegiado limitou-se a reiterar a fundamentação do acórdão embargado, sem enfrentar as alegações suscitadas.
+Pois bem.
+Verifica-se que as omissões apontadas nos embargos de declaração enquadram-se na hipótese prevista no inciso IV do § 1º do art. 489 do CPC/2015, por tratarem de questões relevantes à completa resolução da controvérsia, razão pela qual devem ser devidamente enfrentadas pelo Tribunal de origem.
+A tese de que não há necessidade de autorização prévia do juízo falimentar para que o juízo de execução examine e defira pedidos de penhora encontra respaldo em precedentes desta Corte Superior. A título ilustrativo, citam-se os seguintes julgados: AgInt no REsp n. 2.177.457/PE, rel. Min. Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgInt no REsp n. 2.202.519/CE, rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 26/5/2025, DJEN de 30/5/2025.
+Também se mostra plausível a tese jurídica de que a marca registrada no INPI constitui bem móvel, nos termos do art. 11, VII, da LEF, especialmente à luz do disposto no art. 5º da Lei n. 9.279/1996.
+Por fim, os documentos apresentados pelo exequente para demonstrar o esgotamento das tentativas de localização de bens penhoráveis têm o potencial de infirmar a justificativa adotada pela Corte estadual para afastar a constrição pretendida.
+Diante da negativa de prestação jurisdicional, impõe-se a declaração de nulidade do acórdão que apreciou os embargos de declaração, a fim de que os vícios apontados sejam sanados pelo TJRJ, restando prejudicadas as demais questões suscitadas no recurso especial.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1.346.569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.313.492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+Ante o exposto, com fundamento no art. 34, XXV, e 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de anular o acórdão regional que julgou os embargos de declaração, por violação do art. 1.022, II, do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie esses aclaratórios e sane os vícios de integração ora identificados.
+Publique-se. Intimem-se.
+EMENTA
