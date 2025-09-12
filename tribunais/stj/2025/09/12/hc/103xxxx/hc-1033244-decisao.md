@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HELDER PEDRO NASCIMENTO ALENCAR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (agravo de execução Penal nº 5018828-69.2024.8.19.0500).
+Consta dos autos que o paciente teve reconhecida, contra si, falta de natureza grave em razão de que (fl. 10):
+ ..  O Processo Disciplinar SEI-210001/018485/2024, foi instaurado em decorrência de denúncia de indisciplina praticada pelo apenado, na data de 17 de fevereiro de 2022, eis que conforme descreve o referido procedimento, "o interno se recusou a liberar a passagem do servidor, procrastinando e atrapalhando propositalmente a realização do procedimento", ou seja, evidente a tipicidade do fato.  ..
+O Tribunal de origem decidiu a matéria sob a seguinte ementa (fl. 5):
+ ..  2. A QUESTÃO ORA COLOCADA CONSISTE EM ANALISAR A LEGALIDADE DO PROCESSO ADMINISTRATIVO DISCIPLINAR. SUBSIDIARIAMENTE, A POSSIBILIDADE DE DESCLASSIFICAÇÃO DA FALTA GRAVE PARA MÉDIA. III. RAZÕES DE DECIDIR:
+3. A PRÁTICA DA FALTA DISCIPLINAR DE NATUREZA GRAVE FOI APURADA EM PROCESSO DISCIPLINAR, TENDO EM VISTA QUE O INTERNO SE RECUSOU A LIBERAR A PASSAGEM DO SERVIDOR, PROCRASTINANDO E ATRAPALHANDO PROPOSITALMENTE A REALIZAÇÃO DO PROCEDIMENTO.
+4. EM RESPEITO AO PRINCÍPIO DA INDEPENDÊNCIA DAS ESFERAS ADMINISTRATIVA E PENAL, INCUMBE AO JUDICIÁRIO ASSEGURAR AS GARANTIAS CONSTITUCIONAIS E NÃO PROCEDER AO REVOLVIMENTO DA PROVA DA INFRAÇÃO.
+5. A SANÇÃO DISCIPLINAR ESTÁ PREVISTA EM LEI E É COMPATÍVEL COM OS FATOS PRATICADOS PELO APENADO, RAZÃO PELA QUAL NÃO HÁ QUE SE FALAR EM DESCLASSIFICAÇÃO DA CONDUTA OU DESPROPORCIONALIDADE DA MEDIDA. DECISÃO AGRAVADA QUE MERECE SER MANTIDA.  ..
+6. DESPROVIMENTO DO RECURSO.  ..
+Daí o presente writ, no qual a defesa sustenta a ocorrência de constrangimento ilegal tendo em conta que "A decisão administrativa baseou-se exclusivamente no depoimento do policial, sem produção de outras provas ou documentos que confirmassem a alegação" (fl. 3).
+Alega que "nos termos do art. 118 e seguintes da Lei de Execução Penal, a caracterização de falta grave deve ser clara e comprovada. No caso, a única prova é o depoimento de um servidor, contraditado pela declaração do próprio paciente" (fl. 3).
+Requer, inclusive liminarmente, "seja concedida a liminar para que para que a falta grave aplicada seja suspensa até o julgamento final do habeas corpus, restabelecendo-se o prazo para progressão de regime. No mérito, pede-se a confirmação da liminar para que reconhecimento da nulidade do procedimento administrativo e consequente anulação da falta grave. Sub- sidiariamente, requer a conversão da falta grave em falta leve, permitindo ao paciente prosseguir normalmente no cumprimento do regime de execução penal" (fl. 4).
+É o relatório. DECIDO.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A controvérsia cinge-se a saber se a homologação da falta grave, nos moldes em que imposta, teria se dado de forma correta.
+A moldura fática do acórdão indicou que (fls. 10-13):
+ ..  Inviável a pretensão recursal consistente no reconhecimento da nulidade do procedimento disciplinar SEI-210001/018485/2024.
+O Processo Disciplinar SEI-210001/018485/2024, foi instaurado em decorrência de denúncia de indisciplina praticada pelo apenado, na data de 17 de fevereiro de 2022, eis que conforme descreve o referido procedimento, "o interno se recusou a liberar a passagem do servidor, procrastinando e atrapalhando propositalmente a realização do procedimento", ou seja, evidente a tipicidade do fato.
+Após apuração disciplinar, restou caracterizada a prática de falta grave, ante a violação ao artigo 50, VI, da LEP.
+Ora, desobedecer ao servidor e atrapalhar o procedimento, amolda-se, ao preceito proibitivo do art. 50, VI, da Lei de Execução Penal, além do art. 39, incisos I e II que consagram como deveres do apenado o "comportamento disciplinado" e "obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se".
+O douto Julgador da Execução decidiu por homologar o Procedimento Administrativo Disciplinar, determinando a interrupção do prazo para fins de progressão de regime, com a realização do cálculo da fração necessária para a progressão a partir da última falta grave do executado.
+Como cediço, em respeito ao princípio da independência das esferas administrativa e penal, incumbe ao judiciário assegurar ao apenado as garantias constitucionais e não proceder ao revolvimento da prova da infração.
+Destaca-se que no momento da colheita das declarações do apenado, oportunizada a autodefesa, este foi devidamente formalmente informado sobre o seu direito ao silêncio, tendo o mesmo negado a veracidade dos fatos.
+Por fim, a defesa técnica foi devidamente apresentada no PD nº 21/2022, constando ainda Parecer da Comissão Técnica de Classificação, que sugeriu que o apenado deveria ser punido pelo cometimento de falta grave, conforme artigo 50, inciso VI da LEP.
+Ao contrário do que é alegado pela defesa, os fatos foram objetivamente descritos pela autoridade administrativa e a conduta foi classificada como grave, nos termos da legislação vigente.
+A despeito da alegação da defesa técnica de fragilidade probatória, é preciso ressaltar que a análise do mérito da falta disciplinar pelo Judiciário, como pretende a Defesa é limitada pelas regras constitucionais, sendo descabida a realização pelo Juízo da Vara de Execuções Penais, novo enquadramento típico ou de nova análise das provas, faculdade reservada à Administração Pública.
+O diretor do estabelecimento prisional amparou-se nos elementos de prova coligidos no procedimento disciplinar.
+Registre-se que, o controle judicial sobre os atos administrativos é apenas de legalidade.
+Assim, tampouco deve ser acolhido o pedido subsidiário de desclassificação da falta grave para média, eis que a conduta se enquadra na disposição prevista no art. 50, inciso VI da LEP.  ..  (grifei)
+Esses fatores, considerados em conjunto, levaram o Tribunal à conclusão de que o paciente deveria sofrer a reprimenda nos moldes exatos em que fora imposta.
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+A esse respeito:
+ ..  De tal modo, não é possível na via eleita desconstituir referida conclusão, porquanto demandaria indevido revolvimento de fatos e provas  ..  (AgRg no HC n. 904.707/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+ ..  A reforma das conclusões a que chegaram as instâncias ordinárias constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito  ..  (AgRg no HC n. 903.566/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
