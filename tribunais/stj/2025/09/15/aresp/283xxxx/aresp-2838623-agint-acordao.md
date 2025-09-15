@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OPOSIÇÃO. TUTELA DE URGÊNCIA. MANUTENÇÃO NA POSSE DE IMÓVEL. INDEFERIMENTO. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedente.
+2. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da tutela de urgência para manutenção da recorrente na posse no imóvel em questão, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno contra decisão de minha relatoria na qual neguei provimento ao agravo por entender que são aplicáveis ao caso as Súmulas 7/STJ e 735/STF.
+A parte, em suas razões, alega que "não busca rediscutir a concessão ou o indeferimento de uma tutela provisória por si só, mas, sim, demonstrar a violação direta ao art. 300 do CPC, em virtude da interpretação jurídica incorreta sobre os pressupostos legais da tutela de urgência, fundada em fatos incontroversos nos autos" (fl. 343)
+Impugnação às fls. 355-368, na qual a agravada defende a incidência dos óbices dos verbetes 735 do STF e 7 do STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OPOSIÇÃO. TUTELA DE URGÊNCIA. MANUTENÇÃO NA POSSE DE IMÓVEL. INDEFERIMENTO. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedente.
+2. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da tutela de urgência para manutenção da recorrente na posse no imóvel em questão, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Com efeito, destaco que o provimento judicial que analisa o pedido de concessão de tutela provisória (tutela de urgência), por possuir caráter precário (pois, em geral, resulta de cognição sumária e sem contraditório), é passível de alteração no curso do processo principal, não sendo considerado de última instância para efeito de interposição de recurso especial. Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TUTELA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO. ART. 919, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 735 STF POR ANALOGIA. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. REQUISITOS NÃO PREENCHIDOS. SÚMULA 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento dessa Corte é de que as decisões que concedem ou indeferem liminares, bem como efeito suspensivo a embargos do devedor (cf. STJ, Segunda Turma, RESp n. 1.676.515/DF, Rel. Ministro Herman Benjamin, DJe de 3.8.2021), ainda são passíveis de alteração no curso do processo principal, não podendo, por isso, ser consideradas de única ou última instância a ensejar a interposição dos recursos constitucionais. Precedentes.
+2. Aplicação, por analogia, do óbice da Súmula 735 do STF, no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+3. Tribunal de origem reputou que não houve o preenchimento dos requisitos para tutela de urgência. Ausência da probabilidade do direito invocado.
+4. Rever as conclusões adotadas pelo Tribunal de origem quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame de provas, o que é vedado em razão da incidência da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.130.128/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA PROVISÓRIA. SENTENÇA SUPERVENIENTE. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. PRECEDENTES. REQUISITOS DA ANTECIPAÇÃO DE TUTELA. SÚMULA N. 735/STF. PRETENSÃO DE REEXAME DA MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+ .. .
+2. Ademais, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula n. 735 do STF. Precedentes.
+3. Rever a conclusão a respeito do preenchimento dos requisitos da tutela de urgência demandaria revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.232.728/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023)
+No caso, o agravo de instrumento, não provido pela Corte estadual, desafiou decisão que, em sede de ação de oposição ajuizada em face de Olivia Rachel Sousa de Oliveira Lemos, indeferiu o requerimento de tutela de urgência da agravante para ser mantida na posse do imóvel em questão, confira-se trecho do acórdão estadual:
+"Com efeito, constata-se que a agravante não apresentou novos elementos aptos a reformar a decisão recorrida. Isso porque o decisum ora impugnado se encontra devidamente fundamentado na ausência dos requisitos autorizadores à concessão da tutela de urgência, em especial, do fumus boni iuris. A esse respeito, cumpre destacar que, se as partes, em ação originária de interdito proibitório, discutem posse que está na iminência de ser molestada, incabível o ajuizamento de oposição com base no domínio, como intende a agravante. Neste ponto, inclusive, fora exposto o entendimento do eg. Superior Tribunal de Justiça e de outros Tribunais em demandas análogas à presente. Vale ressaltar que o juiz de primeiro grau já havia concedido tutela de urgência à 1ª agravada na demanda possessória. Portanto, ao contrário do que busca asseverar a agravante, esta Corte não está negando que a posse é uma consequência da propriedade, mas apenas assegurando a manutenção do comando originalmente deferido.
+ ..
+A insurgência, portanto, cinge-se a mera irresignação, não sendo instruída com substrato que venha a alterar a percepção sobre o caso em testilha, de sorte que a decisão recorrida não merece alteração" (fls. 188-189)
+Nesse aspecto, entendo que o recurso especial esbarra na orientação cristalizada na Súmula 735 do Supremo Tribunal Federal (STF).
+Ainda que assim não fosse, percebe-se que o Tribunal de origem firmou seu entendimento à luz dos fatos e provas presentes nos autos, de sorte que a modificação das conclusões adotadas demandaria nova análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
