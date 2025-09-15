@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APELO INTERPOSTO DEPOIS DO LAPSO DE 15 DIAS. SUSPENSÃO DOS PRAZOS PROCESSUAIS ATÉ 20 DE JANEIRO. NÃO INCIDÊNCIA DA NORMATIVA SOBRE OS PROCESSOS DE COMPETÊNCIA DA JUSTIÇA CRIMINAL. ESPECIALIDADE NORMATIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do CPC, e do art. 798 do CPP.
+2. A suspensão do curso dos prazos processuais entre os dias 20 de dezembro e 20 de janeiro, prevista no art. 220 do NCPC e regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP.
+3. Na hipótese, o acórdão impugnado foi disponibilizado no diário eletrônico em 12/1/2023 e o recurso especial foi interposto somente em 7/2/2023. O apelo é, portanto, manifestamente intempestivo.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDERSON ANTONIO CORREIA DAS NEVES interpõe agravo regimental contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso apresentado pela defesa.
+Nas razões do regimental, o agravante sustenta que o apelo é tempestivo, sob o argumento de que houve a suspensão do prazo processual entre os dias 20 de dezembro e 20 de janeiro.
+O Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Alcides Martins, opinou pelo desprovimento do agravo regimental.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APELO INTERPOSTO DEPOIS DO LAPSO DE 15 DIAS. SUSPENSÃO DOS PRAZOS PROCESSUAIS ATÉ 20 DE JANEIRO. NÃO INCIDÊNCIA DA NORMATIVA SOBRE OS PROCESSOS DE COMPETÊNCIA DA JUSTIÇA CRIMINAL. ESPECIALIDADE NORMATIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do CPC, e do art. 798 do CPP.
+2. A suspensão do curso dos prazos processuais entre os dias 20 de dezembro e 20 de janeiro, prevista no art. 220 do NCPC e regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP.
+3. Na hipótese, o acórdão impugnado foi disponibilizado no diário eletrônico em 12/1/2023 e o recurso especial foi interposto somente em 7/2/2023. O apelo é, portanto, manifestamente intempestivo.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Não admissibilidade do recurso especial
+É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do CPC, e do art. 798 do CPP.
+Com efeito, "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp n. 1.070.415/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/5/2017, grifei).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO INTERPOSTO APÓS LAPSO DE QUINZE DIAS. CONTAGEM DO PRAZO EM DIAS ÚTEIS. INAPLICABILIDADE. RECESSO FORENSE. SUSPENSÃO DO PRAZO ATÉ 20 DE JANEIRO. INOCORRÊNCIA. INCIDÊNCIA DA ESPECIALIDADE NORMATIVA. INTEMPESTIVIDADE DO RECLAMO CONSTATADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção desta Corte Superior de Justiça consolidou o entendimento de que, mesmo após a entrada em vigor da Lei n.º 13.105/2015, a regra disposta no art. 219, caput, referente à contagem dos prazos em dias úteis, não se aplica às controvérsias atinentes à matéria penal ou processual penal.
+2. Permanece vigente e aplicável a norma especial estabelecida no art. 798 do Código de Processo Penal, segundo a qual os prazos deverão ser computados de forma contínua e peremptória, não se interrompendo ou suspendendo durante as férias, domingos ou feriados.
+3. A suspensão dos prazos entre os dias 20 de dezembro e 20 de janeiro, estatuída no art. 3º, caput, da Resolução n.º 244, de 12/09/2016, do Conselho Nacional de Justiça (CNJ), não se aplica à contagem dos prazos processuais penais, ex vi da especialidade normativa do art. 798 do Digesto Processual.
+4. Afigura-se intempestivo o agravo em recurso especial interposto após o decurso do prazo de 15 (quinze) dias, gizado no § 5º do art. 1.003 do Código de Processo Civil c/c com o art. 3º do Código de Processo Penal.
+5. Na espécie, a decisão recorrida foi publicada em 9.1.2018 e o agravo em recurso especial somente interposto em 30.1.2018, portanto, fora do prazo legal.
+6. Agravo regimental improvido.
+(AgRg no AREsp n. 1.295.193/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 17/12/2018, destaquei)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO APÓS LAPSO DE QUINZE DIAS. RECESSO FORENSE. SUSPENSÃO DO PRAZO ATÉ 20 DE JANEIRO. NÃO OCORRÊNCIA. INCIDÊNCIA DA ESPECIALIDADE NORMATIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.É intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, todos do CPC, e do art. 798 do CPP, hipótese ocorrida nos autos.
+2. A jurisprudência do Superior Tribunal de Justiça é de que "A suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp n. 1.070.415/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/5/2017).
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.721.370/AL, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/12/2020)
+No caso, o acórdão impugnado foi disponibilizado no diário eletrônico em 12/1/2023 e o recurso especial foi interposto somente em 7/2/2023.
+O apelo é, pois, manifestamente intempestivo.
+No mesmo sentido, opinou o Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Alcides Martins:
+1. Trata-se de agravo regimental interposto por Anderson Antônio Correia das Neves contra decisão que não conheceu do agravo em recurso especial, por intempestividade.
+2. Alega que "o acórdão do julgamento do Recurso Especial foi disponibilizado no Diário da Justiça Eletrônico no dia 12 de JANEIRO de 2023 (quinta-feira), considerando- se ocorrida sua publicação no primeiro dia útil subsequente, de acordo com a Certidão de Publicação do Acórdão, em e-STJ Fl. 1.369", de modo que "a PUBLICAÇÃO somente ocorreu no dia 23 DE JANEIRO DE 2023 (segunda-feira), pois foi efetivamente o dia útil subsequente a data da disponibilização" (fls. 1444/1445). Registra que o art. 798-A, caput, do Código de Processo Penal, dispõe que os prazos processuais penais encontram-se suspensos entre 20 de dezembro de 2022 e 20 de janeiro 2023. Assim, o prazo fatal para a interposição de eventuais recursos se deu em 07 de fevereiro (terça-feira), data em que protocolado o agravo em recurso especial.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "o art. 220 do NCPC apenas suspende o curso dos prazos processuais no período de 20 de dezembro a 20 de janeiro, mas não suspende a prática dos atos, que poderá ser realizada em qualquer dia útil, nos termos dos arts. 212 e 216 do NCPC, não havendo assim, impedimento para a realização da publicação" (AgInt nos E Dcl no AR Esp n. 1.604.573/SE, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 31/8/2020, D Je de 3/9/2020).
+4. O art. 798, caput, do Código de Processo Penal determina que "todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado".
+5. Assim, os prazos, em processo penal, correm, normalmente, no período entre 20 de dezembro e 20 de janeiro, havendo, tão somente, a postergação do termo ad quem para o primeiro dia útil subsequente ao recesso forense, consoante determina o § 5º do dispositivo legal supracitado, in verbis: " o  prazo que terminar em domingo ou dia feriado considerar-se-á prorrogado até o dia útil imediato" (AgRg no H C 809349/SC, Rel. Min. Laurita Vaz, Sexta Turma, D Je 02/05/2023) (grifo nosso).
+6. Embora a Lei n. 14.365/2022, que entrou em vigor em 02/06/2022, tenha acrescentado o art. 798-A ao Código de Processo Penal, prevendo a suspensão dos prazos entre 20 de dezembro e 20 de janeiro, o entendimento da decisão agravada encontra-se em consonância com o dessa Corte Superior no sentido de que: "Não obstante a aplicação subsidiária do Código de Processo Civil ao processo penal, a contagem dos prazos processuais deverá ser realizada conforme a regra específica do art. 798 do CPP." (AgRg no AR Esp n. 2.205.648/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 23/3/2023, D Je de 27/3/2023).
+7. Assim, é intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VIII, c/c o art. 1.003, § 5º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal (AgRg nos E Dcl no AR Esp 2318372 / MS, Rel. Min. Laurita Vaz, Sexta Turma, D Je 15/08/2023).
+8. Na espécie, intimada a parte em 13/01/2023 (sexta-feira), iniciado o prazo de 15 dias em 16/01/2023 (segunda-feira), tem-se o prazo final para interposição do recurso em 30/01/2023 (segunda-feira), sendo, portanto, intempestivo o recurso apresentado em 07/02/2023.
+9. Desse modo, as razões do recurso são inaptas a desconstituir os fundamentos da abalizada decisão agravada que, por isso, mantêm-se hígidos, a indicar o descabimento de sua reforma.
+II. Dispositivo
+À vista do exposto, nego pr ovimento ao agravo regimental.
