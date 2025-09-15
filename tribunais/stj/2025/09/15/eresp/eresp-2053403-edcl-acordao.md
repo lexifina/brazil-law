@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECL ARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO E OBSCURIDADE. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA DECIDIDA. DESCABIMENTO DE EMBARGOS DE DIVERGÊNCIA CONTRA ACÓRDÃO EM AGRAVO REGIMENTAL QUE NÃO APRECIOU O MÉRITO DO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que desproveu agravo regimental em embargos de divergência interpostos em face de decisão que não conheceu de agravo regimental, por aplicação da Súmula 182/STJ, sustentando omissão e obscuridade quanto à análise do mérito do recurso especial e defendendo a inaplicabilidade da Súmula 315/STJ, ao caso.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) julgar o cabimento dos embargos de declaração; (ii) definir se os embargos de divergência são cabíveis contra decisão monocrática; (iii) estabelecer se é possível interpor embargos de divergência quando o agravo regimental subsequente não foi conhecido por razões processuais, sem pronunciamento colegiado sobre o mérito do recurso especial.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os embargos de divergência somente são cabíveis contra acórdãos proferidos por órgão colegiado, não sendo admissíveis contra decisão monocrática. A aplicação, por analogia, da Súmula 315/STJ impede o manejo de embargos de divergência quando não há pronunciamento colegiado sobre o mérito do recurso especial.
+4. No caso, embora tenha havido julgamento monocrático do mérito do recurso especial, o agravo regimental interposto não foi conhecido por razões de ordem processual (Súmula 182 do Superior Tribunal de Justiça), inexistindo decisão colegiada a ensejar os embargos de divergência.
+5. O precedente da Pet 2.169/PI não se aplica, pois se refere a hipóteses em que o agravo regimental julga o mérito, o que não ocorreu nos autos.
+6. Embargos de declaração não se prestam à rediscussão da decisão embargada, sendo incabíveis quando inexistentes omissão, obscuridade ou contradição.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Teses de julgamento: 1. Embargos de divergência não são admitidos contra decisão monocrática. 2. É incabível embargos de divergência quando não há pronunciamento colegiado sobre o mérito do recurso especial. 3. Embargos de declaração não se prestam à rediscussão de matéria já decidida.
+RELATÓRIO
+Regina Célia Gomes Gonçalves de Mattos opôs embargos de declaração contra acórdão proferido no Agravo Regimental nos Embargos de Divergência em Recurso Especial n. 2.053.403/SP, alegando a existência de omissão e obscuridade na decisão embargada, com fundamento nos artigos 619 e 620 do Código de Processo Penal.
+A embargante sustenta que o acórdão embargado, ao negar provimento ao agravo regimental com base na incidência da Súmula 315 do Superior Tribunal de Justiça, incorreu em grave equívoco, uma vez que a referida súmula estabelece que "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial", mas defende que tal enunciado não se aplica ao caso concreto, uma vez que se trata de embargos de divergência manejados no âmbito de agravo de instrumento oposto contra decisão monocrática que havia admitido, analisado e decidido, no mérito, todas as questões trazidas no recurso especial.
+Esclarece que o cerne da questão não é de natureza processual, mas semântico, explicando que a Súmula 315 do STJ guarda relação com a rejeição de embargos de divergência nos casos em que não há análise de mérito do recurso especial ou do agravo regimental posteriormente interposto. Contudo, alega que o presente caso é diverso, pois o recurso especial apresentado foi inicialmente admitido pela Corte de origem e, posteriormente, no âmbito do Superior Tribunal de Justiça, teve o mérito devidamente analisado por decisão monocrática, sendo ao final desprovido.
+A defesa ressalta que houve efetiva análise do mérito do recurso especial por meio de decisão monocrática, o que seria suficiente para justificar a posterior interposição dos embargos de divergência. Informa que o agravo regimental interposto contra a decisão monocrática que negara provimento ao recurso especial não foi conhecido por razões formais inerentes ao próprio agravo regimental, especificamente pela repetição das razões constantes do recurso especial, e não por defeitos ou vícios existentes no bojo do recurso especial.
+Para fundamentar sua tese, a embargante invoca precedente específico desta Corte Superior que excepciona a aplicação da Súmula 315 do STJ na hipótese de exame de mérito em decisão monocrática, citando a Petição n. 2.169/PI, relatada pela Ministra Laurita Vaz, em que se admitiu a oposição de embargos de divergência contra acórdão que julga agravo regimental quando o relator aprecia o mérito do recurso especial em decisão monocrática.
+A embargante alega que o acórdão embargado foi omisso ao não se pronunciar sobre o fato de que o mérito do recurso especial foi devidamente analisado, discutido e julgado monocraticamente, abordando o assunto com superficialidade. Ademais, sustenta que a decisão foi obscura ao afirmar que não houve análise do mérito do recurso especial, desconsiderando a decisão monocrática que efetivamente examinou, decidiu e rejeitou as teses deduzidas naquele recurso.
+Por fim, argumenta que a decisão embargada, ao manter a rejeição liminar dos embargos de divergência, resultou em evidente negativa de prestação jurisdicional, pois mesmo tendo a embargante comprovado a divergência de entendimentos entre as duas Turmas da Corte que analisam questões penais, especialmente no que se refere à imposição de regime fechado ao réu primário, viu-se impedida de questioná-la e obter uma decisão que pacifique a matéria.
+Ao final, a embargante requer o acolhimento dos embargos de declaração com efeitos modificativos, para que seja sanada a omissão e obscuridade apontadas, promovendo-se a integração da decisão combatida e autorizando-se o regular processamento dos embargos de divergência até ulterior julgamento (e-STJ fls. 1464-1469).
+O Ministério Público do Estado de São Paulo contra-arrazoou o recurso (e-STJ fls. 1473-1480).
+Oportunizou-se a manifestação do Ministério Público Federal (e-STJ fls. 1482).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO E OBSCURIDADE. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA DECIDIDA. DESCABIMENTO DE EMBARGOS DE DIVERGÊNCIA CONTRA ACÓRDÃO EM AGRAVO REGIMENTAL QUE NÃO APRECIOU O MÉRITO DO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que desproveu agravo regimental em embargos de divergência interpostos em face de decisão que não conheceu de agravo regimental, por aplicação da Súmula 182/STJ, sustentando omissão e obscuridade quanto à análise do mérito do recurso especial e defendendo a inaplicabilidade da Súmula 315/STJ, ao caso.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) julgar o cabimento dos embargos de declaração; (ii) definir se os embargos de divergência são cabíveis contra decisão monocrática; (iii) estabelecer se é possível interpor embargos de divergência quando o agravo regimental subsequente não foi conhecido por razões processuais, sem pronunciamento colegiado sobre o mérito do recurso especial.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os embargos de divergência somente são cabíveis contra acórdãos proferidos por órgão colegiado, não sendo admissíveis contra decisão monocrática. A aplicação, por analogia, da Súmula 315/STJ impede o manejo de embargos de divergência quando não há pronunciamento colegiado sobre o mérito do recurso especial.
+4. No caso, embora tenha havido julgamento monocrático do mérito do recurso especial, o agravo regimental interposto não foi conhecido por razões de ordem processual (Súmula 182 do Superior Tribunal de Justiça), inexistindo decisão colegiada a ensejar os embargos de divergência.
+5. O precedente da Pet 2.169/PI não se aplica, pois se refere a hipóteses em que o agravo regimental julga o mérito, o que não ocorreu nos autos.
+6. Embargos de declaração não se prestam à rediscussão da decisão embargada, sendo incabíveis quando inexistentes omissão, obscuridade ou contradição.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Teses de julgamento: 1. Embargos de divergência não são admitidos contra decisão monocrática. 2. É incabível embargos de divergência quando não há pronunciamento colegiado sobre o mérito do recurso especial. 3. Embargos de declaração não se prestam à rediscussão de matéria já decidida.
+VOTO
+O embargante insiste na viabilidade dos embargos de divergência, no entanto, referido recurso (e-STJ fls. 1371-1418) foi interposto para impugnar os acórdãos de julgamento do agravo regimental e dos posteriores embargos de declaração.
+E o agravo regimental não foi conhecido em razão da falta de dialeticidade recursal, nos termos da Súmula 182 do colendo Superior Tribunal de Justiça (e-STJ fls. 1261). Isso significa que o acórdão objeto dos embargos de divergência não apreciou o mérito do recurso especial.
+É verdade que a decisão monocrática do Eminente Ministro Relator negou provimento ao recurso especial (e-STJ fls. 1209-1212), julgando o mérito do recurso. Todavia, os embargos de divergência não impugnam referida decisão, mas sim o acórdão de julgamento do agravo regimental, que não conheceu do recurso.
+Conforme constou expressamente no acórdão embargado, "tendo o acórdão recorrido deixado de conhecer o Agravo Regimental em Recurso Especial razão da aplicação da Súmula nº 182 do STJ, não logrou a parte agravante comprovar a existência de decisão de mérito cujo teor desafiaria a jurisprudência desta corte" (e-STJ fls. 1458-1459).
+A decisão de mérito referida no acórdão embargado e que desafia a oposição de embargos de divergência deve ser acórdão de órgão fracionário, nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça e do art. 1.043 do Código de Processo Civil, aplicado por analogia, e não decisão monocrática do relator, como na espécie.
+Considerando-se que houve julgamento monocrático do mérito e que o agravo regimental subsequente não foi conhecido por deficiência de ordem processual, são incabíveis os embargos de divergência, ante a ausência de pronunciamento colegiado sobre o mérito do recurso especial.
+Nesse sentido é o entendimento da Terceira Seção do egrégio Superior Tribunal de Justiça:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA CONTRA DECISÃO MONOCRÁTICA. INVIABILIDADE. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente embargos de divergência, por ausência de demonstração de divergência e por serem inviáveis contra decisão monocrática.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível embargos de divergência contra decisão monocrática.
+III. Razões de decidir
+3. Conforme orientação jurisprudencial do Superior Tribunal de Justiça, embargos de divergência não são admitidos contra decisão monocrática, pois exigem pronunciamento de órgão colegiado.
+4. A jurisprudência pacífica desta Corte estabelece que não cabem embargos de divergência quando o mérito do recurso especial não foi apreciado pela decisão embargada, aplicando-se, por analogia, a Súmula n. 315 do STJ.
+IV. Dispositivo e tese
+5. Agravo regimental desprovido.
+Tese de julgamento: "1. Embargos de divergência não são admitidos contra decisão monocrática. 2. Não cabem embargos de divergência quando o mérito do recurso especial não foi apreciado pela decisão embargada".
+Dispositivos relevantes citados: RISTJ, art. 266; CPC, art. 1.043;
+Lei nº 11.343/2006.Jurisprudência relevante citada: STJ, AgRg nos EAREsp 1.620.074/SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, j. 09.09.2020; STJ, AgRg nos EDv nos EAREsp 2.411.382/SP, Rel. Min. Messod Azulay Neto, Terceira Seção, j. 08.05.2024.
+(AgRg nos EDcl nos EAREsp n. 2.807.273/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 14/5/2025, DJEN de 19/5/2025, grifou-se.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM ARESP. INTERPOSIÇÃO DE EMBARGOS DE DIVERGÊNCIA CONTRA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 315/STJ. AUSÊNCIA DE COTEJO E DE INDICAÇÃO ADEQUADA DO REPOSITÓRIO OFICIAL EM QUE FOI PUBLICADO O ÚNICO JULGADO QUE SE PRESTARIA, EM TESE, A FAZER AS VEZES DE ACÓRDÃO PARADIGMA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 266, caput, do RISTJ e do art. 1.043, incisos I e III, do Código de Processo Civil, os embargos de divergência são cabíveis contra julgados prolatados por órgãos colegiados do Superior Tribunal de Justiça, não sendo admissível sua interposição em adversidade à decisão monocrática do relator.
+2. É pacífico nesta Corte que "A simples transcrição de ementas ou de trecho isolado do v. acórdão paradigma, sem o necessário cotejo com trechos do v. acórdão embargado, não atende aos dispositivos legais e regimentais aplicáveis à espécie" (AgRg nos EREsp 1.488.618/RS, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 29/09/2015).
+3. Se o tema apontado como objeto de dissenso jamais chegou a ser tratado nesta Corte, uma vez que não foi conhecido o agravo em recurso especial do recorrente, tampouco há como se debatê-lo em embargos de divergência. Aplicação, in casu, do enunciado n. 315 da Súmula desta Corte, segundo o qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+A modificação trazida pelo novo CPC em seu art. 1.043, inciso III, não ampliou a margem de cabimento do manejo dos embargos de divergência a ponto de dispensar a manifestação expressa dos acórdãos comparados sobre o mérito da controvérsia, seja ele relacionado à aplicação de direito material ou de direito processual.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EAREsp n. 1.685.306/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 28/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020, grifou-se.)
+O precedente da Pet 2169/PI, invocado pelo embargante, não altera essa conclusão, pelo contrário.
+Cito a ementa do referido julgado:
+PETIÇÃO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DESCABIMENTO. INTELIGÊNCIA DOS ARTS. 266, CAPUT, DO RISTJ, E 546, I, DO CPC. PRECEDENTES DO STJ. HIPÓTESE DIVERSA DA EXCEÇÃO QUE SE FAZ QUANDO O RELATOR JULGA, EM DECISÃO MONOCRÁTICA, O PRÓPRIO MÉRITO DO RECURSO ESPECIAL (ART. 544, § 3º, PRIMEIRA PARTE, E ART. 557, AMBOS DO CPC).
+1. Em regra, não cabem embargos de divergência contra decisões em agravo regimental, porquanto o acó rdão a ser embargado há de ter sido proferido em sede de recurso especial, conforme o disposto no art. 266, caput, do RISTJ, e no art. 546, inciso I, do CPC.
+2. A regra, porém, comporta duas exceções, quais sejam, (i) quando o Relator, ao apreciar o agravo de instrumento, julga o mérito do recurso especial, com fundamento no art. 544, § 3º, primeira parte, do CPC; (ii) ou quando o mérito do recurso especial é apreciado pelo Relator em decisão monocrática, com arrimo no art. 557 do CPC.
+Nesses casos, o acórdão que julgar o agravo regimental eventualmente interposto poderá ser objurgado via embargos de divergência, desde que, é claro, atendidos os pressupostos do recurso.
+3. Embargos de Divergência não conhecidos.
+(Pet n. 2.169/PI, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 10/3/2004, DJ de 22/3/2004, p. 193, grifou-se.)
+Verifica-se que, segundo esse antigo precedente, construído à luz do CPC/1973, seria cabível os embargos de divergência contra acórdão de julgamento de agravo regimental, desde que, obviamente, o agravo tivesse julgado o mérito, confirmando ou desconstituindo a decisão monocrática.
+Não é o caso dos autos, em que o agravo regimental não foi conhecido, ou seja, não julgou o mérito do recurso especial.
+Os presentes embargos, portanto, refletem mera irresignação da parte com o resultado do julgamento, o que revela o seu descabimento.
+Nesse sentido, importa destacar que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada" (EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 08/02/2023, DJe de 22/02/2023).
+Por esses fundamentos, rejeito os embargos de declaração.
+É como voto.
