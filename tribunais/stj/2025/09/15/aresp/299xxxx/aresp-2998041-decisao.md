@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ELEN FABIANE EUGENIO DE ALMEIDA e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+SEGURO FACULTATIVO DE VEÍCULO. ACIDENTE DE TRÂNSITO. AÇÃO DE COBRANÇA JULGADA IMPROCEDENTE. NECESSIDADE. HIPÓTESE EM QUE, SEGUNDO AS PROVAS CONSTANTES DOS AUTOS, O COAUTOR PARTICIPAVA DE UM "RACHA" E CONDUZIA O VEÍCULO EM ALTA VELOCIDADE. CONJUNTO PROBATÓRIO DEMONSTRANDO O AGRAVAMENTO DO RISCO E O NEXO CAUSAL, MOSTRANDO-SE VÁLIDA A NEGATIVA DA INDENIZAÇÃO SECURITÁRIA. PRECEDENTES. SENTENÇA RATIFICADA COM FUNDAMENTO NO ART. 252 DO REGIMENTO INTERNO DESTA CORTE. RECURSO DE APELAÇÃO IMPROVIDO.
+Quanto à controvérsia, as partes recorrentes alegam violação do art. 768 do CC, no que concerne ao afastamento da presunção de que a mera prática de "racha" elide a responsabilidade da seguradora, pois não restou comprovado o nexo causal entre o acidente e a conduta do motorista, trazendo a seguinte argumentação:
+No entanto, para aplicação dessa regra, é indispensável que haja a demonstração efetiva de que a conduta imputada ao segurado foi determinante para o agravamento do risco, o que, definitivamente, não ocorreu na presente hipótese.
+O legislador foi claro ao exigir a demonstração de dolo específico na conduta do segurado, que pressupõe o estabelecimento de um nexo de causalidade entre a ação agravante e o sinistro.
+Note-se que o v. acórdão recorrido fundamentou a exclusão da cobertura securitária com base na mera presunção de que a prática de "racha" configuraria, por si só, agravamento do risco segurado.
+ ..
+Diante desse quadro, a simples alegação de prática de "racha", desacompanhada de prova robusta e concreta de agravamento do risco, não é suficiente para ensejar a aplicação do artigo 768 do Código Civil, pois, não havendo uma relação de causalidade estabelecida entre a alegada infração de trânsito e o acidente ocorrido, não se pode falar em agravamento intencional do risco.
+Ora, não basta a mera probabilidade de que o suposto "racha" tenha sido o motivo de descontrole do veículo, impondo-se a demonstração, por A  B, que ele tenha realmente sido a causa do acidente (fls. 558-559)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Ao contrário do alegado pelos apelantes, as provas dos autos indicam claramente que o coautor Guilherme estava praticando "racha", conduzindo o veículo em alta velocidade e colocando em risco sua vida e a dos demais usuários da rodovia.
+ ..
+Portanto, ao contrário do alegado, o conjunto probatório indica que houve agravamento do risco, bem como demonstra o nexo de causalidade entre a conduta do coautor Guilherme e o acidente, indicando a correção da negativa da indenização securitária.
+ ..
+Assim sendo, não há reparos a se fazer na r. sentença, cujos fundamentos ficam aqui ratificados, nos termos do art. 252 do Regimento Interno desta Corte, uma vez que analisou detidamente as questões relevantes trazidas à discussão, mediante criteriosa avaliação do acervo probatório e das circunstâncias do caso concreto, sendo de rigor o improvimento do recurso (fls. 548-551).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
