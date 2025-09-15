@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED DE RIBEIRÃO PRETO COOPERATIVA DE TRABALHO MÉDICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 79):
+Agravo de Instrumento - Saúde - Decisão agravada que deferiu a tutela de urgência ao autor - Agravo da ré Plano de Saúde - Tutela antecipada - Requisitos do artigo 300 do Código de Processo Civil preenchidos - Decisão interlocutória que deferiu a tutela de urgência, para determinar o fornecimento de tratamento pela terapia ABA, ainda que pendente o cumprimento de prazo de carência Requisitos para a concessão da tutela provisória preenchidos - Abusividade da recusa, porque demonstrado, tecnicamente, quadro de urgência - Plano de saúde que não pode decidir sobre o melhor tratamento - Eventual ajuste passível de ser realizado ao longo da instrução - Premente necessidade de desenvolver-se as potencialidades do menor Irreversibilidade dos efeitos da decisão não configurada (art. 302, CPC) Decisão mantida - Recurso desprovido
+Rejeitados os embargos de declaração opostos (fls. 105-109).
+No Recurso Especial, a UNIMED sustenta que a tutela de urgência foi concedida em desacordo com o artigo 300 do Código de Processo Civil, pois ausentes os pressupostos legais indispensáveis à sua concessão, quais sejam: a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+Foram oferecidas contrarrazões ao recurso especial (fls. 117-121).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 122-124), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta ao agravo (fl. 134).
+Instado a se manifestar, o Ministério Público opinou pelo não provimento do agravo (fls. 151-154).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Não se tem aberta esta instância especial para a análise da verificação dos requisitos da tutela provisória de urgência, seja porque necessária a reapreciação do contexto fático-probatório dos autos, incidindo o enunciado 7/STJ, seja em virtude da natureza provisória do provimento judicial (Súmula 735/STF).
+É o entendimento desta Corte Superior:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO PROFERIDA EM SEDE DE TUTELA PROVISÓRIA. NATUREZA PRECÁRIA. INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 735/STF. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial fundado na incidência da Súmula 735 do STF, sob o argumento de que a decisão recorrida possui natureza precária por ter sido proferida em sede de tutela provisória. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se é admissível recurso especial interposto contra acórdão que defere ou indefere pedido de tutela de urgência, cuja análise implica reexame de matéria fática. III. RAZÕES DE DECIDIR
+3. É inadmissível o recurso especial interposto contra decisão que aprecia pedido de tutela provisória, dada sua natureza precária, nos termos da Súmula 735 do STF.4. A jurisprudência do STJ é firme no sentido de que não se conhece de recurso especial interposto com fundamento em alegada ofensa a direito material ou processual em decisões que concedem ou indeferem tutela provisória (AREsp n. 2.709.380/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 21/3/2025).5. A pretensão recursal demanda reexame de provas quanto à presença dos requisitos autorizadores da medida antecipatória, o que encontra óbice na Súmula 7 do STJ (AgInt no AREsp n. 1.900.869/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 24/4/2024).6. O acórdão recorrido considerou elementos concretos dos autos, como laudos médicos e o risco à saúde da parte, para manter a tutela deferida, ressaltando a abusividade da negativa de cobertura sob o argumento de ausência no rol da ANS, em consonância com a jurisprudência consolidada (AgInt no AREsp n. 2.665.282/MG, relator Ministro Humberto Martins, Terceira Turma, DJe de 14/11/2024).IV. DISPOSITIVO 7. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.816.866/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. PREJUDICIALIDADE EXTERNA. SUSPENSÃO DO PROCESSO. CARÁTER NÃO OBRIGATÓRIO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. MEDIDA LIMINAR. REQUISITOS. SÚMULA N. 735 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a agravo em recurso especial.
+II. Razões de decidir 2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. Segundo orientação desta Corte, "a existência de prejudicialidade externa com outra demanda não impõe, obrigatoriamente, a suspensão do processo" (AgInt no AREsp n. 2.144.719/MT, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/10/2023, DJe de 20/10/2023). Incidência da Súmula n. 83/STJ.
+4. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide analogicamente o enunciado n. 735 da Súmula do STF.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo 6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.718.949/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025.)
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
