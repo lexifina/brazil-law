@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL. DESCONTO EM CONTA CORRENTE. NECESSIDADE DE REALIZAÇÃO DE PROVA PERICIAL. CERCEAMENTO DO DIREITO DE DEFESA. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. A jurisprudência do STJ firmou o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco.
+2. Hipótese em que a Corte de origem julgou que a taxa de juros remuneratórios foi fixada em valor que excede substancialmente o parâmetro da taxa média de mercado para o mesmo segmento de crédito.
+3. Nesse contexto, rever a conclusão da Corte local, a qual limitou a taxa de juros remuneratórios contratada à taxa média apurada pelo BACEN, em razão da manifesta abusividade da taxa pactuada no contrato de empréstimo pessoal, cuja modalidade de pagamento estipulada foi o desconto em conta corrente, diante da diferença significativa entre a taxa fixada no contrato e a taxa média de mercado divulgada pelo Banco Central do Brasil para o mesmo segmento de crédito, demandaria o reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+4. A modificação do acórdão recorrido com relação à alegação de cerceamento de defesa demandaria o reexame do contrato e das provas dos autos, atraindo a incidência, novamente, das Súmulas n. 5 e 7 do STJ.
+5. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 421 do Código Civil, 355, I e II, 356, I e II, e 927 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 641):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. EMPRÉSTIMO PESSOAL. PRESCRIÇÃO. PRELIMINARES AFASTADAS. JUROS REMUNERATÓRIOS. ABUSIVIDADE DEMONSTRADA. DESCARACTERIZAÇÃO DA MORA. REPETIÇÃO DO INDÉBITO DE FORMA SIMPLES. HONORÁRIOS ADVOCATÍCIOS.
+MAJORAÇÃO.
+1. PRELIMINARES QUE SE CONFUNDEM COM O MÉRITO E QUE VÃO AFASTADAS.
+2. JUROS REMUNERATÓRIOS. DEMONSTRADA A ABUSIVIDADE DOS JUROS REMUNERATÓRIOS PACTUADOS, É IMPOSITIVA A REVISÃO COM RESPECTIVA ADEQUAÇÃO ÀS TAXAS MÉDIAS DO MERCADO.
+3. DESCARACTERIZAÇÃO DA MORA. A ABUSIVIDADE NOS ENCARGOS EXIGIDOS NO PERÍODO DE NORMALIDADE CONTRATUAL DESCARACTERIZA A MORA.
+4. REPETIÇÃO/COMPENSAÇÃO DO INDÉBITO. COMO COROLÁRIO LÓGICO DO RECONHECIMENTO DA ABUSIVIDADE DOS ENCARGOS EXIGIDOS NO PERÍODO DA NORMALIDADE CONTRATUAL, A DEVOLUÇÃO DOS VALORES PAGOS A MAIOR DEVE SE DAR DE MODO SIMPLES E NA FORMA DA SENTENÇA.
+5. SENTENÇA MANTIDA NA ÍNTEGRA.
+APELO DA RÉ DESPROVIDO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 672):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. REDISCUSSÃO E PREQUESTIONAMENTO. DESCABIMENTO.
+1. NÃO MERECE QUALQUER REPARO O JULGADO QUE ENFRENTOU CLARAMENTE A MATÉRIA E FUNDAMENTOU A DECISÃO.
+2. ESTANDO AUSENTES AS HIPÓTESES PREVISTAS NO ART. 1.022 DO CPC, INVIÁVEL É O ACOLHIMENTO DOS EMBARGOS DE DECLARAÇÃO, PORQUANTO O RECURSO ELEITO NÃO SE PRESTA PARA O FIM DE PREQUESTIONAMENTO DA MATÉRIA.
+EMBARGOS DECLARATÓRIOS DESACOLHIDOS.
+Sustenta a parte agravante que é indevido o reconhecimento de abusividade de taxa de juros remuneratórios apenas tendo como base a taxa média praticada no mercado.
+Argumenta que é imprescindível a realização de prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato, bem como acrescenta que o julgamento antecipado do feito, sem a produção de prova pericial, ocasiona o cerceamento do direito de defesa da agravante.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL. DESCONTO EM CONTA CORRENTE. NECESSIDADE DE REALIZAÇÃO DE PROVA PERICIAL. CERCEAMENTO DO DIREITO DE DEFESA. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. A jurisprudência do STJ firmou o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco.
+2. Hipótese em que a Corte de origem julgou que a taxa de juros remuneratórios foi fixada em valor que excede substancialmente o parâmetro da taxa média de mercado para o mesmo segmento de crédito.
+3. Nesse contexto, rever a conclusão da Corte local, a qual limitou a taxa de juros remuneratórios contratada à taxa média apurada pelo BACEN, em razão da manifesta abusividade da taxa pactuada no contrato de empréstimo pessoal, cuja modalidade de pagamento estipulada foi o desconto em conta corrente, diante da diferença significativa entre a taxa fixada no contrato e a taxa média de mercado divulgada pelo Banco Central do Brasil para o mesmo segmento de crédito, demandaria o reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+4. A modificação do acórdão recorrido com relação à alegação de cerceamento de defesa demandaria o reexame do contrato e das provas dos autos, atraindo a incidência, novamente, das Súmulas n. 5 e 7 do STJ.
+5. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O recurso não prospera.
+Quanto ao tema dos juros remuneratórios, destaco que a atual jurisprudência do STJ firmou o entendimento de que a taxa média de mercado apurada pelo Banco Central do Brasil para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco.
+O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação. A propósito, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA. ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(AgInt no AREsp n. 1.522.043/RS, relator Ministro Marco Buzzi, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17.11.2020, DJe de 10.3.2021.)
+Nesse contexto, registro que esta Corte Superior entende que é possível proceder à revisão da taxa de juros remuneratórios, quando caracterizada a relação de consumo e o caráter abusivo ficar devidamente demonstrado, conforme as peculiaridades do caso concreto.
+Na situação dos autos, observo que a Corte de origem manteve a limitação dos juros remuneratórios no contrato de empréstimo pessoal, cuja modalidade de pagamento estipulada foi o desconto em conta corrente, considerando as peculiaridades do caso concreto, e em razão da diferença significativa entre a taxa pactuada e a taxa média de mercado divulgada pelo Banco Central do Brasil, conforme se observa dos seguintes trechos (fls. 639/640):
+(..)
+Aplicando-se a orientação ao caso em exame, constato a abusividade dos juros remuneratórios praticados.
+Conforme consulta realizada no site do Banco Central do Brasil, constata-se que os percentuais de juros remuneratórios contratados superam demasiadamente a taxa média estabelecida pelo Bacen (séries 25464 - evento 27, SENT1), senão vejamos:
+contrato nºtaxa de juros pactuadaTaxa média do período03190000818122% a.m.5,55% a.m.Pode-se constatar que a taxa pactuada ultrapassa em mais de 300% a média praticada pelo mercado, evidenciando a abusividade perpetrada pela ré, a impor a manutenção da sentença (evento 27, SENT1).
+A limitação dos juros à taxa média estabelecida pelo Bacen, a partir da constatação da abusividade, encontra lastro na jurisprudência deste Tribunal e da Corte Superior, pelo que vai afastada a pretensão recursal da parte ré.
+(..)
+Dessa forma, anoto que rever a conclusão da Corte local, a qual manteve a limitação da taxa de juros remuneratórios contratada, em razão da manifesta abusividade da taxa pactuada no contrato em questão, diante da diferença significativa entre a taxa fixada no contrato e a taxa média de mercado divulgada pelo Banco Central do Brasil, demandaria o reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Verifico, por outro lado, que a Corte local afastou o alegado cerceamento do direito de defesa, assim se manifestando (fl. 637):
+(..)
+Em detida análise aos fundamentos lançados pela instituição financeira recorrente em suas prefaciais, resta evidenciado que se confundem com o mérito propriamente dito da ação, o que impõe sua análise em sede meritória.
+Na mesma linha, especificamente com relação à alegada nulidade de sentença por cerceamento de defesa, pode-se constatar que se alicerça na valoração atribuída à prova documental que foi produzida nos autos, relegando seu exame, portanto, ao mérito.
+Por demais, estou rechaçando a preliminar de cerceamento de defesa aventada.
+Isso porque, atento aos limites da controvérsia, evidencia-se desnecessária a produção da prova pericial.
+A lide se cinge à matéria exclusivamente de direito, dispensando, conseguinte, tanto a intimação para produção de provas, como a realização de prova técnica.
+Assim, restando ausente a caracterização de cerceamento de defesa, mormente considerando que o julgador é o destinatário da prova nos termos do art. 370 do CPC, conclui-se que compete a ele a análise daquelas que entender pertinentes e necessárias para formação de sua convicção.
+Afasto, portanto, as preliminares invocadas.
+(..)
+Com efeito, ressalto que a eventual modificação do julgado nesse aspecto demandaria o reexame contratual e fático dos autos, o que encontra, novamente, óbice nas Súmulas n. 5 e 7/STJ.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+É como voto.
