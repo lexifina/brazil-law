@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERNAÇÃO. RECUSA INDEVIDA. PERÍODO DECARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULAS 7 E 597/STJ. ALEGAÇÃO DE OFENSA A SÚMULA. IMPOSSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. O recurso especial não merece prosperar, porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça, visto que alterar as premissas adotadas pelo Tribunal de origem quanto ao período de carência; situação de urgência/emergência; recusa indevida da autorização da internação; dever da agravante no custeio dos gastos com internação e exames; e ausência de desequilíbrio econômico, demanda novo reexame de fatos e provas.
+2. A ausência de prequestionamento das teses jurídicas impede o conhecimento do recurso especial. Incidência da Súmula 211/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FUNDAÇÃO CHESF DE ASSISTÊNCIA E SEGURIDADE SOCIAL FACHESF contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial nos termos da seguinte ementa (fl. 449):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERNAÇÃO. RECUSA INDEVIDA. PERÍODO DECARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULAS 7 E 597/STJ. ALEGAÇÃO DE OFENSA ASÚMULA. IMPOSSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO assim ementado (fls. 327-328):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIO. EXISTÊNCIA. ACOLHIMENTO DOS ACLARATÓRIOS PARA CONHECER DO AGRAVO INTERNO INTERPOSTO EM FACE DE DECISÃO MONOCRÁTICA. INSURGÊNCIA DO PLANO DE SAÚDE. MODALIDADE DE AUTOGESTÃO. ALEGAÇÃO DE QUE O PACIENTE SE ENCONTRAVA NO PERÍODO DE CARÊNCIA CONTRATUAL. SITUAÇÃO DE EMERGÊNCIA DEMONSTRADA . RISCO DE DESEQUILÍBRIO ECONÔMICO - FINANCEIRO. AUSENTE. OBRIGATORIEDADE DE COBERTURA. 1. Os embargos de declaração, como cediço, têm como intuito elucidar obscuridades, afastar contradições e suprir omissões no julgado (CPC, artigo 1.022) e, ainda, por construção pretoriana, a correção de erro material. 2. De fato, o agravo interno se remete à decisão monocrática constante no ID. 11174973, assistindo razão ao embargante, quanto ao vício apontado. Assim, acolhe-se os aclaratórios para conhecer do agravo interno ID 17683059. 3. Considerando que houve a intimação do agravado para apresentar resposta ao agravo interno interposto, mas ele preferiu ficar silente (Certidão de decurso de prazo ID. 18777071), passa-se a seu julgamento. 4. Alegação da parte agravante de que não foi cumprido o período de carência e que o plano contratado é de autogestão, não se aplicando o CDC. Previsão de que a cobertura para emergência se dê apenas nas primeiras 12 horas de internação, durante a carência. 5. Paciente que foi admitido na UTI, após acidente de moto, conforme parecer cardiológico ID. 11126561, necessitando de atendimento em caráter de emergencial, bem como a realização de exames médicos pertinentes. 6. Alegação que não pode prevalecer pois o art. 35-C, I da Lei n. 9.656/98 estabelece, em seu art.35-C, a obrigatoriedade da cobertura do atendimento nos casos de emergência. Prevalência da proteção à vida. 7. Por fim, a não afetação do equilíbrio contratual se presume da ausência de demonstração de que a cobertura dos exames solicitados, no valor de R$ 472,00, quando o paciente estava na UTI sejam tão dispendiosos que resultem em desequilíbrio econômico-financeiro da entidade. 8. Embargos de declaração acolhidos. Agravo Interno desprovido.
+Sem embargos de declaração.
+A agravante alega, nas razões do agravo interno, que a análise das questões suscitadas prescinde do reexame de fatos e provas e que todos os temas suscitados foram prequestionados, pugnando pelo afastamento das Súmulas 7, 211 e 597 do STJ aplicadas.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contraminuta (fl. 474).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERNAÇÃO. RECUSA INDEVIDA. PERÍODO DECARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULAS 7 E 597/STJ. ALEGAÇÃO DE OFENSA A SÚMULA. IMPOSSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. O recurso especial não merece prosperar, porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça, visto que alterar as premissas adotadas pelo Tribunal de origem quanto ao período de carência; situação de urgência/emergência; recusa indevida da autorização da internação; dever da agravante no custeio dos gastos com internação e exames; e ausência de desequilíbrio econômico, demanda novo reexame de fatos e provas.
+2. A ausência de prequestionamento das teses jurídicas impede o conhecimento do recurso especial. Incidência da Súmula 211/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Cinge-se a controvérsia a saber se houve recusa indevida por parte da Fundação quanto à autorização da internação hospitalar do agravado e na existência de desequilíbrio entre as mensalidades cobradas e o raio de cobertura, em razão da imposição de custeio de exame não previsto nas regras de cobertura do plano.
+Consoante aludido na decisão agravada, com relação à apontada ofensa aos arts. 12, V, e 24 da Lei n. 9.656/1998 e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 7, 211 e 597 do Superior Tribunal de Justiça.
+Isso porque alterar o decidido no acórdão impugnado, no que se refere ao período de carência e à situação de urgência/emergência, à recusa indevida da autorização da internação, ao dever da agravante no custeio dos gastos com internação e exames e à ausência de desequilíbrio econômico, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pelas Súmulas 7 e 597 do STJ.
+Ademais, relativamente à alegação de ofensa ao art. 24 da Lei n. 9.656/1998, verifica-se a falta de prequestionamento, a atrair a incidência da Súmula 211/STJ, no ponto.
+A propósito, cito o seguinte precedente:
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PERÍODO DE CARÊNCIA. LEGALIDADE. SITUAÇÃO DE CARÊNCIA E EMERGÊNCIA. MITIGAÇÃO DO PRAZO DE CARÊNCIA. LIMITAÇÃO DO TEMPO DE INTERNAÇÃO. IMPOSSIBILIDADE. EXERCÍCIO REGULAR DE DIREITO. NÃO OCORRÊNCIA.
+1. De acordo com a jurisprudência desta Corte Superior, é lícita a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como na hipótese dos autos. Precedentes.
+2 No caso em tela, a Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, consignou estar cristalizada a situação de urgência e emergência na hipótese vertente. Incidência da Súmula 7 do STJ.
+3. Não prospera a pretensão da recorrente no sentido de limitar a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: "É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado". Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.122.995/SP, rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/11/2017, DJe de 14/11/2017.)
+Assim, não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
