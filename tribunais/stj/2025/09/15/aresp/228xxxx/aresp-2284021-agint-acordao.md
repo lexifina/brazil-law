@@ -1,0 +1,111 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que rejeitou embargos de declaração opostos contra decisão que conheceu do agravo para não conhecer do recurso especial, em razão do óbice da Súmula 284/STF.
+2. Na origem, o recurso especial foi interposto contra acórdão que negou provimento ao agravo de instrumento, o qual indeferiu o levantamento de depósitos anteriores ao deferimento do pedido de recuperação judicial.
+3. O agravante alega que foram atendidos os requisitos da alínea "c" do inciso III do Artigo 105 da Constituição Federal, demonstrando dissídio pretoriano e violação dos Artigos 3º e 76 da Lei 11.101/05, pugnando pelo afastamento do verbete da Súmula 284 do STF e o consequente conhecimento e análise do Recurso Especial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo interno pode ser conhecido quando não há impugnação específica aos fundamentos da decisão agravada, conforme exigido pelo artigo 1.021, § 1º, do CPC e pela Súmula 182/STJ.
+III. Razões de decidir
+5. O agravo interno não foi conhecido por ausência de impugnação específica aos fundamentos da decisão agravada, conforme exigido pelo artigo 1.021, § 1º, do CPC e pela Súmula 182/STJ.
+6. A parte agravante apenas reiterou os termos da petição de embargos de declaração, sem trazer fatos novos ou elementos aptos a desconstituir a decisão impugnada.
+IV. Dispositivo
+7 . Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Desembargador Convocado Carlos Cini Marchionatti, que rejeitou os embargos de declaração opostos contra a decisão que conheceu do agravo para não conhecer do recurso especial.
+Na origem, o recurso especial foi interposto contra acórdão que negou provimento ao agravo de instrumento, o qual indeferiu o levantamento de depósitos anteriores ao deferimento do pedido de recuperação judicial (fls. 377-378).
+A tese recursal busca afastar a submissão dos valores depositados ao Juízo da Recuperação Judicial, alegando que são pagamentos voluntários anteriores ao pedido de recuperação (fls. 378-379).
+O recurso especial não foi conhecido por não apontar objetivamente o dispositivo de lei violado, aplicando-se a Súmula 284 do STF.
+Opostos embargos declaração, foram eles rejeitados.
+O agravante argumenta que foram atendidos os requisitos da alínea "c" do inciso III do Artigo 105 da Constituição Federal, demonstrando o dissídio pretoriano e a violação dos Artigos 3º e 76 da Lei 11.101/05 (fls. 379), pugnando pelo afastamento do verbete da Súmula 284 do STF e o consequente conhecimento e análise do Recurso Especial.
+Requer a reconsideração da decisão impugnada ou que seja colocado em mesa para análise do colegiado, visando o conhecimento e provimento do recurso especial (fls. 379-380). Pede que seja afastada a incidência da multa prevista no Artigo 1.026, §2º do CPC, alegando que o recurso não possui caráter protelatório (fls. 379).
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada não se manifestou.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que rejeitou embargos de declaração opostos contra decisão que conheceu do agravo para não conhecer do recurso especial, em razão do óbice da Súmula 284/STF.
+2. Na origem, o recurso especial foi interposto contra acórdão que negou provimento ao agravo de instrumento, o qual indeferiu o levantamento de depósitos anteriores ao deferimento do pedido de recuperação judicial.
+3. O agravante alega que foram atendidos os requisitos da alínea "c" do inciso III do Artigo 105 da Constituição Federal, demonstrando dissídio pretoriano e violação dos Artigos 3º e 76 da Lei 11.101/05, pugnando pelo afastamento do verbete da Súmula 284 do STF e o consequente conhecimento e análise do Recurso Especial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo interno pode ser conhecido quando não há impugnação específica aos fundamentos da decisão agravada, conforme exigido pelo artigo 1.021, § 1º, do CPC e pela Súmula 182/STJ.
+III. Razões de decidir
+5. O agravo interno não foi conhecido por ausência de impugnação específica aos fundamentos da decisão agravada, conforme exigido pelo artigo 1.021, § 1º, do CPC e pela Súmula 182/STJ.
+6. A parte agravante apenas reiterou os termos da petição de embargos de declaração, sem trazer fatos novos ou elementos aptos a desconstituir a decisão impugnada.
+IV. Dispositivo
+7 . Agravo interno não conhecido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 368-373):
+A irresignação do embargante não merece acolhida.
+São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE DE ATACAR QUESTÕES JÁ RESOLVIDAS NA DECISÃO INTEGRATIVA. SOCIEDADE ANÔNIMA. VENDA DE AÇÕES COM DIREITO A VOTO. INGRESSO DE NOVO ACIONISTA NO BLOCO DE CONTROLE. REALIZAÇÃO DE ACORDO ENTRE OS ACIONISTAS DESSE GRUPO PARA A GESTÃO DA COMPANHIA. ALIENAÇÃO DO CONTROLE ACIONÁRIO. AUSÊNCIA DE OMISSÃO. MODULAÇÃO DOS EFEITOS. INEXISTÊNCIA DE JURISPRUDÊNCIA DOMINANTE SOBRE O TEMA OBJETO DA DEMANDA. CORREÇÃO MONETÁRIA. ÍNDICE. IPCA. JUROS DE MORA. SELIC. HONORÁRIO SUCUMBENCIAL. SENTENÇA PROFERIDA SOB A ÉGIDE DO CPC/73. INVERSÃO DO ÔNUS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+1. Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do CPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão.
+2. Os segundos embargos de declaração devem alegar erro, omissão, obscuridade ou contradição do acórdão prolatado nos primeiros embargos, não cabendo atacar questões já resolvidas na decisão integrativa precedente, tampouco ressuscitar temas da decisão primitivamente embargada.
+3. A omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum argumento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+ ..
+9. Embargos de declaração parcialmente acolhidos.
+(EDcl nos EDcl no REsp n. 1.837.538/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/12/2024, DJe de 6/12/2024.)
+Não há, na hipótese, qualquer vício a ser sanado.
+Como relatado, o embargante requer o saneamento de vício supostamente contido, ao argumento de que "impõe-se o afastamento do verbete da Súmula 284 do STF e o consequente conhecimento e análise do Recurso Especial, tendo em vista que em suas razões, foram atendidos todo os requisitos da alínea C do inciso III do Artigo 105 da Constituição Federal , apresentando o confronto analítico da alegada divergência, com a transcrição de trechos que configuram o dissenso, mencionando as circunstâncias que identificam o caso confrontado, além dos dispositivos violados mediante de sua equivocadas aplicações ao caso concreto" (e-STJ, fl. 326).
+Por oportuno, destaco, no que interessa ao caso, os seguintes trechos da decisão monocrática embargada (e-STJ, fls. 315/320, grifei):
+Cuida-se de agravo interposto por WILLIAM NABUCO GONCALVES desafiando decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea c, da Constituição Federal, manejado, por sua vez, contra acórdão assim ementado (e-STJ, fls. 95-96):
+AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIAQUE INDEFERIUA EXPEDIÇÃO REQUERIDA DE MANDADO DE PAGAMENTO. ALEGA O ORA RECORRENTE QUE FOI INCORRETA DECISÃO NOS AUTOS ORIGINÁRIOS QUE INDEFERIU O LEVANTAMENTO DOS DEPÓSITOS REFERIDOS, UMA VEZ QUE TODOSOS APORTES SÃO ANTERIORES AO DEFERIMENTO DO PROCESSAMENTO DO REFERIDO PEDIDO DE RECUPERAÇÃO JUDICIAL. IRRESIGNAÇÃO QUE NÃO MERECE PROSPERAR. O SUPERIOR TRIBUNAL DE JUSTIÇA ESTABELECEU A TESE DE QUE "PARA O FIM DE SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL, CONSIDERA-SE QUE A EXISTÊNCIA DO CRÉDITO É DETERMINADA PELA DATA EM QUE OCORREU O SEU FATO GERADOR" -TEMA 1.051. NO CASO DOS CRÉDITOS ILÍQUIDOS, COMO, POR EXEMPLO, AQUELES DECORRENTES DE RESPONSABILIDADE CIVIL, O MINISTRODO STJ APONTA QUE A CONSTITUIÇÃO SE DARIA NO MOMENTO DO FATO GERADOR, O QUAL NÃO DEPENDE DE DECISÃO JUDICIAL DECLARATÓRIA. PORTANTO, CONFORME SE DEPREENDE DOS AUTOS, A OBRIGAÇÃO OBJETO DA AÇÃO OSTENTA NATUREZA CONCURSAL CUJO FATO GERADOR DA OBRIGAÇÃO (ANO 2000) OCORREU ANTES DO AJUIZAMENTO DO PEDIDO DE RECUPERAÇÃO JUDICIAL DA AGRAVANTE (07/06/2021). NESSE SENTIDO, FICA CLARA A COMPETÊNCIA EXCLUSIVA DO JUÍZO DE RECUPERAÇÃO JUDICIAL. DESTACA-SE, AINDA, A APLICABILIDADE DO CONCEITO DO JUÍZO UNIVERSAL DA FALÊNCIA OU RECUPERAÇÃO JUDICIAL. INTELIGÊNCIA DOS ARTS. 3º E 76, AMBOS DA LEI Nº 11.101/2005. RECUSO RECONHECIDO. NEGADO PROVIMENTO.
+Em suas razões de recurso especial (e-STJ, fls. 172-189), a agravante sustentou, em síntese, que a superveniência da recuperação judicial, não impede o levantamento de depósitos realizados anteriormente ao pedido de soerguimento da parte adversa.
+Asseverou a ausência de amparo legal a permitir a conclusão esposada pela Corte estadual, no sentido de que os depósitos realizados anteriormente ao pedido de recuperação judicial se submetem aos efeitos da recuperação judicial.
+Defendeu que, conforme entendimento consolidado do STJ, o deferimento do pedido de recuperação judicial não retroage para regular atos anteriores, isto é, possuí efeitos "ex nunc".
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência da Súmula n. 284/STF.
+Brevemente relatado, decido.
+De início, temos que a orientação jurisprudencial do Superior Tribunal de Justiça dispõe que "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+Na mesma direção:
+(..)
+Assim, conforme se constata na petição do recurso especial (e-STJ, fls. 172-189), a recorrente não apontou, de forma objetiva e direta, nenhum dispositivo de lei federal tido por violado a fim de viabilizar o conhecimento, por esta Corte Superior, da insurgência a respeito da tese de mérito.
+Ademais, "a falta de particularização, no Recurso Especial, interposto pela alínea "c" do permissivo constitucional, dos dispositivos de lei federal que teriam sido objeto de interpretação divergente, pelo acórdão recorrido, consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal" (REsp 1908901/PA, Rel. Ministra ASSUSETE MAGALHÃES, DJe 15/3/2021).
+Frise-se, por relevante, que, no julgamento do EAREsp 1672966/MG, esta Corte Superior deliberou acerca da "falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105)", e, não, quanto à ausência de especificação dos dispositivos de lei federal aos quais tenha sido dada interpretação divergente da que lhe haja atribuído outro tribunal, que é a hipótese dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+Nota-se, portanto, que pretende a parte embargante, na verdade, o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Verifica-se, portanto, que a decisão embargada não padece de qualquer omissão, porquanto examinou fundamentadamente o apelo nobre trazido à sua análise, não podendo ser considerado nulo ou omisso tão somente porque contrário aos interesses do embargante.
+Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. RECURSO ESPECIAL. INADMISSÃO. TESE REPETITIVA. AGRAVO EM RECURSO ESPECIAL INCABÍVEL. VIA INADEQUADA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no artigo 1.030, inciso I, alínea "b" ou no artigo 1.040, inciso I, do Código de Processo Civil, o único recurso cabível seria o agravo interno de que trata o § 2º do dispositivo legal em comento. A interposição do agravo previsto no artigo 1.042 do Código de Processo Civil nesses casos caracteriza-se como erro grosseiro.
+3. Embargos de declaração rejeitados. (EDcl no AgInt na Rcl n. 40.770/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 3/12/2024, DJe de 6/12/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE DISTRIBUIÇÃO DE HONORÁRIOS. PRESCRIÇÃO. SÚMULA N. 168/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+ ..
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados. (EDcl no AgInt nos EAREsp n. 1.850.024/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 19/11/2024, DJe de 25/11/2024.)
+Ademais, cumpre salientar, por oportuno, que: "Segundo entendimento pacífico desta Corte, o julgador não está obrigado a responder a todas as questões suscitadas pelas par tes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (AgInt no AREsp n. 2.580.727/PB, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Rejeito, portanto, os embargos de declaração.
+Publique-se.
+Intimem-se.
+Em atenção ao princípio da dialeticidade recursal, a impugnação da decisão agravada deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+No presente caso, a decisão agravada rejeitou os embargos de declaração opostos contra a decisão que conheceu do agravo para não conhecer do recurso especial, em razão do óbice da Súmula 284/STF, não verificando a existência de vícios no decisum.
+Observa-se que, nas razões do agravo interno, a parte agravante apenas reitera os termos da petição de embargos de declaração (e-STJ fls. 324-331), não trazendo fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento do recurso, ante a falta de impugnação específica à decisão agravada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 182/STJ E DO ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. INOVAÇÃO RECURSAL. INADMISSIBILIDADE.
+1. Ação de rescisão contratual c/c reintegração de posse.
+2. Nos termos do artigo 1.021, § 1º, do CPC e da Súmula n. 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. A alegação tardia de tese em agravo interno configura inovação recursal, insuscetível de exame diante da preclusão consumativa.
+4. Agravo interno não conhecido, com aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.
+(AgInt no AREsp n. 2.752.135/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA AO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a alegada intempestividade do agravo em recurso especial e a aplicação da Súmula nº 115 desta Corte.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.634.826/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. RECURSO INADMISSÍVEL. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Cuida-se de agravo interno que desafia decisão que não conheceu do recurso especial.
+2. É inepta a petição de agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, em especial aqueles que sejam, por si só, suficientes à manutenção do julgado.
+3. Não obstante seja ônus probatório da parte que produziu o documento demonstrar autenticidade da assinatura quando esta for impugnada, essa regra pode ser excepcionada quando a produção da prova for dificílima, como na hipótese em que for impossível a perícia grafotécnica em virtude da ausência de localização da pessoa que assinou o próprio documento. Precedentes.
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 2.061.977/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ante o exposto, não conheço do agravo interno.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
