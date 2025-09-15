@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. PEDIDO DE PENHORA DE 10% DO FATURAMENTO DE EMPRESA ESTRANHA À LIDE. EXECUÇÃO MOVIDA CONTRA A SÓCIA PESSOA FÍSICA. AUSÊNCIA DE COMANDO NORMATIVO DOS DISPOSITIVOS INDICADOS COMO VIOLADOS. SÚMULA N. 284/STF.
+1. Hipótese em que pretende o agravante a penhora sobre o faturamento de empresa alheia à lide, independentemente da desconsideração inversa da personalidade jurídica, ainda que a execução tenha sido direcionada contra a sócia pessoa física, ao argumento de que seria possível por trata-se de sociedade limitada unipessoal.
+2. A alegada afronta à lei federal não foi demonstrada com clareza, pois os dispositivos indicados como violados não têm comando normativo suficiente para amparar a tese recursal. Incidência da Súmula 284 do STF.
+Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por FUNDAÇÃO DE CRÉDITO EDUCATIVO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 42):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. PEDIDO DE PENHORA DE 10% DO FATURAMENTO DA EMPRESA DA EXECUTADA. REQUISITOS. NÃO PREENCHIMENTO. EXECUÇÃO MOVIDA CONTRA A SÓCIA, PESSOA FÍSICA. CASO CONCRETO. 1. NA ESTEIRA DO POSICIONAMENTO PACÍFICO DO EG. STJ, EM TESE, É POSSÍVEL A PENHORA DE FATURAMENTO DE EMPRESA. NESTE SENTIDO: "CONSOANTE A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA, NÃO HÁ VEDAÇÃO LEGAL QUE IMPEÇA, EM CARÁTER EXCEPCIONAL, A IMPOSIÇÃO DE PENHORA SOBRE O FATURAMENTO DA SOCIEDADE EMPRESÁRIA, QUANDO OBSERVADOS OS SEGUINTES REQUISITOS: A) INEXISTÊNCIA DE BENS PASSÍVEIS DE GARANTIR A EXECUÇÃO OU QUE SEJAM DE DIFÍCIL ALIENAÇÃO;" (AGINT NO ARESP N. 2.255.331/SP, RELATOR MINISTRO MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, JULGADO EM 4/9/2023, DJE DE 6/9/2023.) 2. ENTRETANTO, NO CASO CONCRETO, A PARTIR DE UMA ANÁLISE DA CASUÍSTICA, NÃO É POSSÍVEL A REFORMA DA DECISÃO QUE NEGOU A PENHORA PRETENDIDA, INCLUSIVE DIANTE DO FATO QUE A EXECUÇÃO DE TÍTULO EXTRAJUDICIAL FOI MOVIDA CONTRA A SÓCIA, PESSOA FÍSICA. DESSA FORMA, DESCABE AVANÇAR SOBRE O PATRIMÔNIO DA PESSOA JURÍDICA SEM QUE TENHA HAVIDO A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INVERSA. RECURSO DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a recorrente alega que o Tribunal de origem violou os arts. 835, § 1º, e 866 do CPC ao indeferir a penhora sobre o faturamento da empresa. Argumenta que a desconsideração da personalidade jurídica não é necessária no caso de uma sociedade limitada unipessoal, ainda que a execução seja em face da sócia.
+Sem contrarrazões ao recurso especial, sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 67 - 69), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. PEDIDO DE PENHORA DE 10% DO FATURAMENTO DE EMPRESA ESTRANHA À LIDE. EXECUÇÃO MOVIDA CONTRA A SÓCIA PESSOA FÍSICA. AUSÊNCIA DE COMANDO NORMATIVO DOS DISPOSITIVOS INDICADOS COMO VIOLADOS. SÚMULA N. 284/STF.
+1. Hipótese em que pretende o agravante a penhora sobre o faturamento de empresa alheia à lide, independentemente da desconsideração inversa da personalidade jurídica, ainda que a execução tenha sido direcionada contra a sócia pessoa física, ao argumento de que seria possível por trata-se de sociedade limitada unipessoal.
+2. A alegada afronta à lei federal não foi demonstrada com clareza, pois os dispositivos indicados como violados não têm comando normativo suficiente para amparar a tese recursal. Incidência da Súmula 284 do STF.
+Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Na origem, trata-se de agravo de instrumento em que a ora recorrente pleiteia penhora sobre o faturamento de empresa alheia à lide, independentemente da desconsideração inversa da personalidade jurídica, ainda que a execução tenha sido direcionada contra a sócia da referida empresa, ao argumento de que se trata de sociedade limitada unipessoal.
+O Tribunal de origem assim consignou (fl. 40):
+Gize-se que, em que pese a previsão legal de penhora de percentual do faturamento de empresa devedora, fulcro o artigo 835, X do CPC, têm-se que no presente caso a empresa não faz parte do polo passivo da demanda, além do fato de que sequer houve a desconsideração da personalidade jurídica inversa, nos termos do artigo 133 do CPC. Dessa forma, não há que se falar em penhora sobre o faturamento da empresa que sequer integra a lide.
+Aliás, conforme se depreende do contrato social da COMUNICATE SERVICOS DE FONOAUDIOLOGIA DIRECIONADA LTDA ( evento 161, CONTRSOCIAL9), trata-se de sociedade unipessoal limitada, cujo patrimônio particular não se confunde com o patrimônio pessoal do seu único sócio, sendo, neste caso, o executado pessoa física com personalidade jurídica distinta de sua sociedade unipessoal, que é estranha à lide. Dessa forma, o faturamento da sociedade não pode ser penhorado para pagamento de dívida que não é de sua responsabilidade.
+O recurso especial não comporta conhecimento quanto à alegada violação dos arts. 835, § 1º, e 866 do CPC, visto que tais dispositivos não têm comando normativo apto a amparar a tese recursal, pois deles não se infere qualquer alusão à possibilidade de execução do patrimônio de sociedade limitada unipessoal por dívidas do sócio único sem necessidade de desconsideração da personalidade jurídica.
+Incide a Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido, cito :
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais. (AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+É como penso. É como voto.
