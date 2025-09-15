@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. ILEGITIMIDADE DE PARTE PASSIVA REJEITADA. HIPÓTESE NÃO ENQUADRADA NO ROL DO ART. 1.015 DO CPC. MITIGAÇÃO DA TAXATIVIDADE. NÃO CABIMENTO. URGÊNCIA NÃO CONFIGURADA. RECONHECIMENTO PELA CORTE ESTADUAL. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+2. Hipótese que versa sobre rejeição de ilegitimidade passiva e não exclusão de litisconsorte. Ausência de enquadramento no rol do art. 1.015.
+3. Inexistência de urgência na apreciação do tema. Reconhecimento pela Corte estadual, cuja alteração demandaria o revolvimento de matéria fático-probatória. Incidência da Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRENO DE ANDRADE ZOEHLER SANTA HELENA (BRENO) contra decisão de minha lavra, a seguir ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INSURGÊNCIA CONTRA O RECONHECIMENTO DE LEGITIMIDADE DA PARTE E COMPETÊNCIA DO JUÍZO. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO E REPARAÇÃO POR DANOS, ENVOLVENDO ATO NOTARIAL. CONHECIMENTO PARCIAL DO AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL POR OMISSÃO. INOCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CARÁTER INFRINGENTE. PRETENSÃO DE REDISCUTIR MATÉRIA JÁ APRECIADA. VIOLAÇÃO DO ART. 1.015, DO CPC. PRETENSÃO DE APLICAÇÃO DO TEMA 988/STJ. IMPOSSIBILIDADE. AUSÊNCIA DE URGÊNCIA/INUTILIDADE DA MEDIDA. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. REVISÃO DO ENTENDIMENTO. INCABÍVEL. SÚMULA 7/STJ. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 53, III, f, DO CPC. AUSÊNCIA DE ARGUMENTAÇÃO ESPECÍFICA QUANTO AO PONTO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO. (e-STJ, fl. 213)
+Nas razões do presente inconformismo, BRENO alegou que (1) remanescem omissões no acórdão recorrido quanto a precedente desta Corte Superior sobre o cabimento de agravo de instrumento para análise de ilegitimidade passiva; (2) foi feito cotejo analítico acerca do alegado dissídio jurisprudencial; (3) que a taxatividade do rol previsto no art. 1.015 do CPC pode ser mitigada na hipótese dos autos; (4) não é caso de aplicação da Súmula n. 7 do STJ, já que não existe necessidade do reincursão no acervo fático-probatório dos autos; e (5) há urgência na apreciação da medida, considerando o Tema Repetitivo n. 777 do STF, que impõe o ajuizamento da ação primeiramente contra o Estado (e-STJ, fls. 225-241).
+Houve impugnação ao recurso (e-STJ, fls. 244-250).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. ILEGITIMIDADE DE PARTE PASSIVA REJEITADA. HIPÓTESE NÃO ENQUADRADA NO ROL DO ART. 1.015 DO CPC. MITIGAÇÃO DA TAXATIVIDADE. NÃO CABIMENTO. URGÊNCIA NÃO CONFIGURADA. RECONHECIMENTO PELA CORTE ESTADUAL. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+2. Hipótese que versa sobre rejeição de ilegitimidade passiva e não exclusão de litisconsorte. Ausência de enquadramento no rol do art. 1.015.
+3. Inexistência de urgência na apreciação do tema. Reconhecimento pela Corte estadual, cuja alteração demandaria o revolvimento de matéria fático-probatória. Incidência da Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+(1) Da negativa de prestação jurisdicional
+BRENO alegou que permanecem omissões quanto a análise de precedentes jurisprudenciais desta Corte que entenderam pela possibilidade do agravo de instrumento em caso de exclusão de litisconsorte.
+Conforme mencionado na decisão agravada, o Tribunal estadual se pronunciou sobre o cabimento do agravo de instrumento, consignando que não estão presentes as hipóteses do art. 1.015 do CPC, assim como reconheceu incabível a mitigação do aludido rol, por ausência de urgência a impedir que o tema seja rediscutido em sede de apelação (e-STJ, fl. 215).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJ/GO emitiu pronunciamento, de forma fundamentada, sobre a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO
+DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA.
+SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+Afasto o alegado.
+(2) Do mérito
+Na hipótese, BRENO insurgiu-se contra o aresto recorrido, alegando ofensa ao art. 1.015 do CPC, ao Tema n. 777 do STF e colacionando precedentes que, em seu entendimento, autorizariam o processamento do agravo de instrumento no presente caso.
+Segundo alegou, é tabelião de notas, sendo que o pedido reparatório contra ele formulado se baseia na sua condição formal de titular da serventia onde uma procuração fora lavrada, supostamente mediante fraude. Ocorre que, conforme decidido pelo STF, no Tema de Repercussão Geral 777, não pode o tabelião responder diretamente por danos decorrentes da atividade cartorária, pois o titular primário da relação jurídica é o Estado, que só poderá demandar o delegado da atividade estatal de forma subsidiária, através de causa regressiva, nos termos do art. 37, §6º, CF/88 (e-STJ, fl. 229).
+Assim, entendeu ser cabível o agravo de instrumento, por se tratar de hipótese similar a exclusão de litisconsorte (art. 1.015, VII, do CPC), bem como, pela urgência e inutilidade da medida, considerando sua patente ilegitimidade de parte para o feito de origem.
+Todavia, como assentado na decisão agravada, não se verificou nenhuma das hipóteses taxativamente discriminadas no Código de Processo Civil que autorizam o manejo do agravo de instrumento, tendo a Corte goiana entendido pela inexistência de urgência a impedir que a matéria fosse apreciada em apelação (e-STJ, fl. 216).
+Frise-se, ao contrário do que foi alegado, a matéria não versa sobre exclusão de litisconsorte, mas não acolhimento da alegação de ilegitimidade passiva, o que não se enquadra nas hipóteses previstas no artigo 1.015 do CPC.
+E não se demonstrou a urgência decorrente da inutilidade do julgamento da questão em eventual recurso de apelação, não havendo risco de perecimento do direito.
+Tendo o Tribunal estadual, soberano na análise das provas, concluído pela ausência de urgência na análise da matéria, inviabilizando a excepcional mitigação do rol do art. 1.015 do CPC, que autorizaria o manejo do agravo de instrumento no caso, inviável a alteração do entendimento, por demandar o reexame de fatos e provas, esbarrando no óbice da Súmula n. 7 do STJ.
+A propósito, confiram-se os julgados:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA. REJEIÇÃO. AGRAVO DE INSTRUMENTO. ARTIGO 1.015 DO CÓDIGO DE PROCESSO CIVIL. ROL TAXATIVO. MITIGAÇÃO. URGÊNCIA. AUSÊNCIA. NÃO CABIMENTO.
+SÚMULA Nº 568/STJ. MODIFICAÇÃO DO JULGADO. Súmula nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. O recurso especial é inviável quando o Tribunal de origem decide em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Súmula nº 568/STJ.
+3. Na hipótese, a Corte de de origem consignou que não é cabível a interposição de agravo de instrumento contra decisão que rejeita preliminar de ilegitimidade passiva, por não se enquadrar nas hipóteses previstas no art. 1.015 do Código de Processo Civil.
+4. Agravo em recurso especial conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.584.803/MG, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 12/5/2025, DJEN de 19/5/2025 -sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO CONFIGURADA. ILEGITIMIDADE PASSIVA AD CAUSAM. INOBSERVÂNCIA DE URGÊNCIA NO RECURSO. IMPOSSIBILIDADE DE APLICAÇÃO DA TESE FIRMADA NOS RESPS. 1.696.396/MT E 1.704.520/MT ACERCA DA TAXATIVIDADE MITIGADA DO ROL DO ART. 1.015 DO NOVO CPC/2015. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022, do CPC/15, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. O acórdão recorrido está em conformidade com a jurisprudência do Superior Tribunal de Justiça de que descabe interpor Agravo de Instrumento contra decisão interlocutória que versa sobre ilegitimidade passiva, pois essa matéria não faz parte do rol de hipóteses do artigo 1.015 do CPC/2015. Nesse sentido: AgInt no AREsp 1.063.181/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/9/2019.
+3. Além disso, vale destacar que a Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.704.520/MT (Rel. Ministra NANCY ANDRIGHI, DJe de 19/12/2018), submetido ao rito do art. 1.036 do CPC/2015, firmou tese no sentido de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema 988).
+4. Na hipótese, o Tribunal de origem consignou que a questão aqui discutida não implica, em especial, em urgência na apreciação.
+Assim, observa-se que o reexame do acórdão recorrido, em confronto com as razões do Recurso Especial, encontra óbice na Súmula 7 do STJ.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.430.725/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024 -sem destaque no original)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. SANEAMENTO. ILEGITIMIDADE PASSIVA. REJEIÇÃO. AGRAVO DE INSTRUMENTO. ARTIGO 1.015 DO CÓDIGO DE PROCESSO CIVIL. ROL TAXATIVO. MITIGAÇÃO. URGÊNCIA. AUSÊNCIA. NÃO CABIMENTO.
+1. A controvérsia dos autos resume-se em definir se a decisão que rejeita a alegação de ilegitimidade passiva desafia agravo de instrumento.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que o rol do artigo 1.015 do CPC é de taxatividade mitigada, por isso, admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+3. A decisão que não acolhe a alegação de ilegitimidade passiva não tem similitude com a exclusão de litisconsorte, cuja previsão do cabimento do agravo de instrumento não pode ser utilizada analogicamente, e não revela situação de urgência ou risco do perecimento do direito que autorize o cabimento do referido recurso.
+4. Recurso especial não provido.
+(REsp n. 2.183.113/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 24/2/2025, DJEN de 5/3/2025 -sem destaque no original)
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA E REPARAÇÃO DE DANOS. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. CONCEITO DE "DECISÃO INTERLOCUTÓRIA QUE VERSA SOBRE EXCLUSÃO DE LITISCONSORTE" PARA FINS DE RECORRIBILIDADE IMEDIATA COM BASE NO ART. 1.015, VII, DO CPC/15. ABRANGÊNCIA. REGRA DE CABIMENTO DO AGRAVO DE INSTRUMENTO QUE SE LIMITA ÀS HIPÓTESES EM QUE A DECISÃO INTERLOCUTÓRIA ACOLHE O REQUERIMENTO DE EXCLUSÃO DO LITISCONSORTE, TENDO EM VISTA O RISCO DE INVALIDADE DA SENTENÇA PROFERIDA SEM A INTEGRAÇÃO DO POLO PASSIVO. REJEIÇÃO DO REQUERIMENTO QUE, POR SUA VEZ, DEVE SER IMPUGNADO APENAS EM APELAÇÃO OU CONTRARRAZÕES.
+1- Ação proposta em 03/11/2014. Recurso especial interposto em 26/06/2017 e atribuído à Relatora em 23/04/2018.
+2- O propósito recursal é definir se o conceito de "decisões interlocutórias que versarem sobre exclusão de litisconsorte", previsto no art. 1.015, VII, do CPC/15, abrange somente a decisão que determina a exclusão do litisconsorte ou se abrange também a decisão que indefere o pedido de exclusão.
+3- Considerando que, nos termos do art. 115, I e II, do CPC/15, a sentença de mérito proferida sem a presença de um litisconsorte necessário é, respectivamente, nula ou ineficaz, acarretando a sua invalidação e a necessidade de refazimento de atos processuais com a presença do litisconsorte excluído, admite-se a recorribilidade desde logo, por agravo de instrumento, da decisão interlocutória que excluir o litisconsorte, na forma do art. 1.015, VII, do CPC/15, permitindo-se o reexame imediato da questão pelo Tribunal.
+4- A decisão interlocutória que rejeita excluir o litisconsorte, mantendo no processo a parte alegadamente ilegítima, todavia, não é capaz de tornar nula ou ineficaz a sentença de mérito, podendo a questão ser reexaminada, sem grande prejuízo, por ocasião do julgamento do recurso de apelação.
+5- Por mais que o conceito de "versar sobre" previsto no art. 1.015, caput, do CPC/15 seja abrangente, não se pode incluir no cabimento do agravo de instrumento uma hipótese ontologicamente distinta daquela expressamente prevista pelo legislador, especialmente quando a distinção está teoricamente justificada pelas diferentes consequências jurídicas causadas pela decisão que exclui o litisconsorte e pela decisão que rejeita excluir o litisconsorte.
+6- A questão relacionada ao dissenso jurisprudencial fica prejudicada diante da fundamentação que rejeita as razões de decidir adotadas pelos paradigmas.
+7- Recurso especial conhecido e desprovido.
+(REsp n. 1.724.453/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 19/3/2019, DJe de 22/3/2019 - sem destaque no original)
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
