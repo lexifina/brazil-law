@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. AUXÍLIO-ACIDENTE E APOSENTADORIA. CUMULAÇÃO. IMPOSSIBILIDADE. TEMA 555/STJ. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. PERÍODO ENTRE A CESSAÇÃO DO BENEFÍCIO E A CONCESSÃO DA APOSENTADORIA. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça, no Tema 555, firmou entendimento de que a cumulação do auxílio-acidente com proventos de aposentadoria só é permitida quando a eclosão da lesão incapacitante e a concessão da aposentadoria forem anteriores à edição da Medida Provisória 1.596/1997.
+2. A parte agravante não apresentou embargos de declaração para corrigir eventual premissa equivocada no acórdão de origem, o que inviabiliza a revisão da matéria em recurso especial, conforme a Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Ainda que superado o óbice da Súmula 7/STJ, tem-se que o direito pleiteado foi atingido pela prescrição quinquenal, conforme previsto na legislação vigente, que limita a exigibilidade das parcelas vencidas ao quinquênio anterior ao ajuizamento da demanda.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA DO CARMO BIBIANO DA SILVA da decisão em que dei provimento ao recurso especial interposto pela autarquia previdenciária, para julgar improcedente o pedido autoral (fls. 403/411).
+Nas razões recursais, a parte recorrente alega o seguinte (fls. 435/437, sem destaque no original):
+De antemão insta esclarecer que a Agravante até a presente data não recebeu benefício de auxílio acidente algum, pois foi informado no acórdão que a Recorrente percebia o benefício de auxílio acidente desde 10/04/1997, logo esta informação no acórdão se encontra equivocada, haja vista que o escopo da presente ação é exclusivamente a percepção de auxílio acidente que a Agravante nunca recebeu e o processo sequer autorizou ainda sua percepção, haja vista que não houve tutela antecipada autorizando tal benesse.
+Inclusive, as fls. citadas no acórdão, (224-225) dos autos digitais não direcionam a prova de nenhum documento que informe a percepção de auxílio acidente, mas tais páginas citadas se referem a parte do acórdão do Tribunal de Justiça de São Paulo e as páginas 224-225 dos autos físicos que equivale a página 260 dos autos digitais, também não há nenhuma prova que direcione neste sentido, pois trata-se de parte do julgamento de Embargos de Declaração da 16ª Turma do Tribunal de Justiça de São Paulo.
+Nota-se que a ação foi proposta pela Agravante com escopo de percepção do auxílio acidente em 18/09/2012, a aposentadoria da Agravante foi implantada em 07/02/2000, conforme a própria decisão supra relata.
+Ocorre que somente em 02/2000 a Agravante veio a se aposentar, isto é, quase oito anos após a propositura da ação.
+A decisão denegou a ação pelo motivo que não poderia a Agravante receber simultaneamente os dois benefícios, ou seja, aposentadoria e auxílio acidente.
+Entretanto, não houve qualquer recebimento do auxílio acidente, não havendo, portanto em se falar em percepção de benefícios de forma simultânea.
+Essa matéria de percepção simultânea de dois benefícios, só veio a lume no processo após quase oito anos depois da propositura da ação, inclusive, sequer foi objeto de contestação, havendo preclusão desta questão em todos os recursos do Réu em homenagem do princípio tantum devolutum quantum appellatum.
+A matéria em questão não foi objeto de impugnação em Primeira Instância, logo não poderia também ser avaliada em grau recursal.
+E neste ponto reside a contradição no acórdão, pois houve não simultaneidade de percepção dos dois benefícios, pois a aposentadoria só foi implantada em 02/2000, sendo certo que o escopo da ação é simplesmente a percepção de auxílio acidente o qual nunca foi implantado.
+Desta forma, como não houve simultaneidade de recebimentos, o auxílio acidente é devido até o primeiro dia anterior a implantação da aposentadoria.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 444).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. AUXÍLIO-ACIDENTE E APOSENTADORIA. CUMULAÇÃO. IMPOSSIBILIDADE. TEMA 555/STJ. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. PERÍODO ENTRE A CESSAÇÃO DO BENEFÍCIO E A CONCESSÃO DA APOSENTADORIA. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça, no Tema 555, firmou entendimento de que a cumulação do auxílio-acidente com proventos de aposentadoria só é permitida quando a eclosão da lesão incapacitante e a concessão da aposentadoria forem anteriores à edição da Medida Provisória 1.596/1997.
+2. A parte agravante não apresentou embargos de declaração para corrigir eventual premissa equivocada no acórdão de origem, o que inviabiliza a revisão da matéria em recurso especial, conforme a Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Ainda que superado o óbice da Súmula 7/STJ, tem-se que o direito pleiteado foi atingido pela prescrição quinquenal, conforme previsto na legislação vigente, que limita a exigibilidade das parcelas vencidas ao quinquênio anterior ao ajuizamento da demanda.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Na origem, cuida-se de ação de procedimento comum visando ao restabelecimento do benefício de auxílio-acidente.
+Consta da petição inicial que a parte autora sofreu atropelamento por ônibus coletivo em 25/10/1996, obtendo o auxílio-acidente de número 103.735.865-0, encerrado em 09/04/1997 sob a alegação de ausência de sequelas.
+O Juízo de primeiro grau (fls. 120/123) concluiu, com base no laudo pericial, pela incapacidade total e permanente da parte autora para o exercício da função anterior ao acidente, alterando o pedido para concessão de aposentadoria por invalidez, retroativa de 10/4/1997 a 7/2/2000, data da concessão do benefício de aposentadoria por tempo de contribuição, sem débitos a serem pagos devido à prescrição quinquenal. O processo foi extinto com fundamento no art. 269, IV, do Código de Processo Civil (CPC) de 1973.
+O Tribunal de origem reformou a sentença, determinando o restabelecimento do auxílio-acidente e sua cumulação com o benefício de aposentadoria por tempo de contribuição (fls. 213/232). Em juízo de retratação, considerando o entendimento firmado pelo Superior Tribunal de Justiça quanto ao Tema 555, o acórdão recorrido foi mantido (fls. 346/351).
+No recurso especial, o Instituto Nacional do Seguro Social (INSS) argumentou ser vedada a cumulação do auxílio-acidente concedido antes da Medida Provisória 1.596/1997 com a aposentadoria concedida após essa legislação (fls. 268/286). O recurso especial foi provido, julgando-se improcedente o pedido autoral, em obediência à tese firmada para o Tema 555/STJ (fls. 403/411).
+A parte agravante alega que a decisão agravada está amparada em premissa equivocada posta no acórdão proferido pelo Tribunal de origem, qual seja, a de que ela "percebia o benefício de auxílio-acidente desde 10/04/1997" (fl. 435).
+Em situações tais como a presente, cabe à parte interessada opor embargos de declaração para corrigir a adoção de premissa equivocada sob a qual o julgado tenha se embasado - o recurso integrativo não foi protocolado nesta demanda.
+Modificar a premissa estabelecida pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Mesmo que tal óbice fosse superado, melhor sorte não assiste à parte agravante, pois, conforme consignado pelo Juízo de primeiro grau:
+ No  "documento de fls. 54, verso, constata-se que a requerente aposentou-se por tempo de contribuição em 07/02/2000. Assim a aposentadoria por invalidez, em razão do acidente ocorrido em 25/10/1996, deveria retroagir de 10/04/1997 (fls. 42 - data da cessação do auxílio acidente) até 07/02/2000 (fls. 54 - data da aposentadoria por tempo de serviço). Sendo assim, os valores devidos seriam do período entre a cessação do beneficio e a concessão da aposentadoria por tempo de contribuição. Todavia, observada a prescrição quinquenal, não há débitos a serem pagos à requerente" (fl. 122).
+Considerando que a ação foi protocolada em 18/9/2012 e que o pedido de concessão do benefício previdenciário possui efeitos retroativos de 10/4/1997 a 7/2/2000, data da aposentadoria por tempo de contribuição, conclui-se que o direito pleiteado foi atingido pela prescrição quinquenal, conforme previsto na legislação vigente, que limita a exigibilidade das parcelas vencidas ao quinquênio anterior ao ajuizamento da demanda.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
