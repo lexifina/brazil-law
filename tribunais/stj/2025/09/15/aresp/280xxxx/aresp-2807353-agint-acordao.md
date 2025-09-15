@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. VERBAS REMUNERATÓRIAS. AGENTE COMUNITÁRIO DE SAÚDE. ÔNUS PROBATÓRIO. DESINCUMBÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE BUÍQUE da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu do recurso especial porque as razões recursais estariam dissociadas dos fundamentos do acórdão recorrido, bem como pelo fato de que a sua revisão demandaria a revisão de fatos e provas (fls. 854/857).
+A parte agravante afirma que refutou devidamente o decisum da Corte local, e que a reforma do acórdão recorrido, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, não depende da revisão de fatos e provas presentes nos autos (fls. 861/869).
+Requer a reconsideração da decisão agravada ou o julgamento deste recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 874/876).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. VERBAS REMUNERATÓRIAS. AGENTE COMUNITÁRIO DE SAÚDE. ÔNUS PROBATÓRIO. DESINCUMBÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Agravo interno a que se nega provimento.
+VOTO
+Na origem, foi proposta ação pela parte ora agravada pleiteando o pagamento de verbas remuneratórias relativas ao exercício da função de agente comunitário de saúde. O pedido foi parcialmente deferido na sentença de fls. 676/687.
+O Tribunal de origem, ao examinar o processo, resolveu o seguinte (fls. 749/750):
+No caso específico dos autos, devidamente comprovada a relação laboral com o ente público, faz jus o servidor, ou empregado público, ao recebimento das verbas salariais não pagas como contraprestação dos serviços prestados, em consonância com o que dispõe o art. 7º c/c art. 39, §3º, da Constituição da República.
+Caberia, destarte, ao município apontado como inadimplente demonstrar nos autos o pagamento dos valores cobrados, a fim de se desincumbir da obrigação. Vale dizer, a teor do art. 373, II, do CPC/2015, é ônus do réu constituir prova dos fatos impeditivos, modificativos e extintivos do direito do autor, e, não o tendo feito, deve arcar com o pagamento das verbas salariais reclamadas, em face do reconhecimento da procedência do pedido inaugural.
+A parte autora juntou à peça inaugural documentos capazes de constituir o seu direito, notadamente pela demonstração do vínculo com o demandado e diversos contracheques que evidenciam o não pagamento das férias, acrescidas do terço constitucional, e 13º salário. A parte demandada, outrossim, não trouxe aos autos quaisquer elementos probatórios aptos a desconstituírem a tese autoral.
+Ressalte-se que a apelante tem toda a facilidade administrativa e operacional para trazer aos autos documentos que comprovem a quitação das verbas pleiteadas nos autos, no entanto, não o fez. Ademais, é firme a jurisprudência do Superior Tribunal de Justiça no sentido de permitir que, em caso de pagamento em excesso (ou duplicidade), se afigura pertinente a perseguição do crédito pelo prejudicado sem, no entanto, a necessidade de instauração de processo autônomo, vejamos:
+ ..
+Impende ressaltar que o reconhecimento nesta ocasião acerca da inexistência de pagamento das verbas pleiteadas na exordial não afasta a possibilidade de a fazenda pública, antes mesmo do trânsito em julgado, comprovar o efetivo pagamento das verbas mediante os instrumentos aqui referidos de modo a evitar eventual pagamento em duplicidade.
+Com efeito, afigura-se imperioso o reconhecimento da obrigação de pagamento das verbas colimadas, com os consectários legais previstos em sentença e de acordo com o entendimento pacificado desta Corte de Justiça.
+Em seu recurso especial, a parte recorrente manifestou-se nestes termos (fls. 806/807):
+No caso em apreço, verifica-se que a parte Autora/Recorrida demandou a Prefeitura de Buíque a fim de alcançar a condenação do Ente em verbas salariais supostamente devidas, alegando que não lhe haveriam sido pagas pela Edilidade. Entretanto, não juntou aos autos qualquer documentação que atestasse, de modo inconteste, a suposta inadimplência por parte do Recorrente, sendo tal responsabilidade probatória do Recorrido.
+Nesse contexto, o TJ/PE manteve a condenação da Edilidade ao pagamento das verbas salariais pleiteadas. No entanto, a decisão não levou em consideração que, no caso dos autos, não houve a comprovação da constituição do crédito em favor do Requerente/Recorrido, ou seja, não se demonstrou, através de provas contundentes, os fatos constitutivos do direito perseguido.
+E, sobre o ônus da prova, o artigo 373, inciso I, do Código de Processo Civil em vigor assim dispõe:
+ ..
+Portanto, a decisão recorrida, por não levar em consideração a inexistência de provas nos autos quanto à constituição do crédito em favor da parte Recorrida, terminou por negar vigência, ou violar, o artigo 373, inciso I, do CPC. In casu, o Recorrido não comprovou o seu direito ao recebimento das quantias pleiteadas, e consequentemente, os fatos constitutivos de seu direito e, mesmo assim, o Município de Buíque foi condenado a tais pagamentos.
+Neste sentido, observando-se o artigo 373, inciso I, do CPC, incumbe à parte Requerente/Recorrida a demonstração e comprovação dos fatos constitutivos de seu direito, o que não veio a ocorrer no caso em análise, impondo-se a modificação do julgado, a fim de que seja julgada improcedente a pretensão autoral.
+Evidenciada a violação ao artigo 373, inciso I, do CPC, faz-se imprescindível o seguimento e, por consequência, o provimento deste Recurso Especial, a fim de que seja modificada a Decisão proferida pelo Tribunal a quo, afastando-se, assim, a condenação do Município de Buíque ao pagamento das verbas pleiteadas nesta Ação de Cobrança, consoante exaustivamente delineado acima.
+Neste sentido, ao rejeitar os Embargos de Declaração e negar provimento ao Recurso de Apelação do Município, mantendo os termos da sentença, o TJ/PE violou a Lei Federal nº 13.105/2015, motivo pelo qual resta evidente que a decisão deve ser reformada, pugnando desde já o Recorrente, pelo conhecimento e provimento das presentes razões recursais.
+Em nova análise do recurso, constato que a parte recorrente, em seu recurso, apresentou razões dissociadas do que foi decidido pelo Tribunal de origem, pois, ao contrário do que ela aduziu, o Tribunal de origem decidiu que a parte adversa instruíra o feito com provas do direito pretendido, e que o MUNICÍPIO DE BUÍQUE, ao contrário, não trouxera aos autos elementos probatórios que infirmassem a tese autoral, em que pese à sua facilidade administrativa e operacional para comprovar a quitação das verbas pleiteadas.
+Está correta a decisão que não conheceu do recurso da parte ora agravante por aplicação da Súmula 284 do Supremo Tribunal Federal, por analogia.
+Além disso, da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso também com fundamento na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
