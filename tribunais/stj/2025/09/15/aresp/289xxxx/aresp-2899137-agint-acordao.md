@@ -1,0 +1,115 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALTERAÇÃO DOS ÍNDICES DE JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA FIXADOS EM SENTENÇA COM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. "A jurisprudência desta Corte Superior dispõe no sentido de não ser possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido, no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Súmula 568 do STJ" (AgInt no REsp 1.960.296/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13.3.2023, DJe de 16.3.2023).
+2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARLOS MIGUEL MENDEZ contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, o agravante reitera a alegação de ofensa aos arts. 489, § 1º, incisos V e VII, 1.022, inciso II do CPC; 406, 876, 884 e 885 do Código Civil; 889, 891, 892, § 1º e 927, inciso I do CPC; art. 84, inciso I da Lei 8.981/95 e art. 13 da Lei 9.065/95.
+Sustenta omissão da Corte de origem quanto aos seguintes pontos: 1) à aplicação da Taxa Selic como critério único e legal de atualização monetária e juros; 2) a taxa Selic constitui matéria de ordem pública, passível de conhecimento de ofício em qualquer grau de jurisdição; 3) o bem penhorado e arrematado pelo próprio credor já corresponderia, com larga margem, ao total do débito exequendo; 4) inexistência, no título executivo, de definição expressa quanto à data de vencimento da obrigação e 5) enriquecimento sem causa resultante da arrematação do imóvel pelo próprio exequente.
+Defende que a decisão recorrida incorreu em equívoco ao considerar que a controvérsia relativa aos critérios de atualização do crédito estaria acobertada pela coisa julgada, com base na existência de decisão proferida nos autos dos embargos à execução, uma vez que a referida decisão não apreciou o pedido de aplicação da taxa Selic, tampouco enfrentou os fundamentos legais e jurisprudenciais que amparam sua adoção como índice único.
+Alega que há contradição em afastar a negativa de prestação jurisdicional e apontar ausência de prequestionamento e que a tese de enriquecimento sem causa foi expressamente suscitada nos embargos de declaração opostos ao acórdão do Agravo de Instrumento, aplicando-se, portanto, a regra do art. 1.025 do Código de Processo Civil.
+Ao final, requer a reforma da decisão agravada pela Turma Julgadora.
+Intimada, a parte agravada apresentou manifestação pleiteando a rejeição do agravo interno, com aplicação da multa do art 1021, § 4º do CPC (e-STJ fl.238/243)
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ALTERAÇÃO DOS ÍNDICES DE JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA FIXADOS EM SENTENÇA COM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. "A jurisprudência desta Corte Superior dispõe no sentido de não ser possível, na fase de liquidação ou cumprimento de sentença, alterar o critério estabelecido, no título exequendo, para a fixação dos juros de mora, sob pena de ofensa à coisa julgada. Súmula 568 do STJ" (AgInt no REsp 1.960.296/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13.3.2023, DJe de 16.3.2023).
+2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Conforme constou na decisão agravada, não prospera a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Vale destacar que, nas razões do recurso especial, o recorrente alegou a violação aos arts. 489 e 1.022 do Código de Processo Civil com base na existência de omissão apenas quanto à aplicação da Selic como critério de correção monetária e juros moratórios.
+Não houve qualquer alegação de omissão quanto aos demais pontos trazidos apenas no presente agravo interno, quais sejam: de que o bem penhorado e arrematado pelo próprio credor já corresponderia, com larga margem, ao total do débito exequendo e de enriquecimento sem causa resultante da arrematação do imóvel pelo próprio exequente.
+E na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa. Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. EXCLUSÃO DE LITISCONSORTES. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO INESTIMÁVEL. FIXAÇÃO POR EQUIDADE (CPC, ART. 85, § 8º). CABIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. É vedado à parte inovar em suas razões recursais, em sede de agravo interno, trazendo novas questões não suscitadas oportunamente no recurso especial ou nas contrarrazões ao recurso especial, tendo em vista a configuração da preclusão consumativa.
+2. Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, conforme disposto no § 8º do art. 85 do CPC/2015. Precedentes.
+3. Na hipótese, a exclusão dos litisconsortes da lide se deu em decisão interlocutória, antes do julgamento do mérito da demanda, de modo que, não tendo a ação de responsabilidade sido extinta, prosseguindo em face dos demais litisconsortes, o proveito econômico dos réus excluídos deve ser considerado inestimável, impondo-se o arbitramento dos honorários de sucumbência por apreciação equitativa, nos termos do art. 85, § 8º, do CPC/2015.
+4. É viável o exame do valor fixado a título de honorários advocatícios, nesta instância especial, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, o que ficou evidenciado no caso concreto, razão pela qual os honorários sucumbenciais comportam majoração, para 1% (um por cento) sobre o valor da causa.
+5. Agravo interno a que se dá parcial provimento.
+(AgInt no AREsp n. 2.273.985/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/6/2025, DJEN de 8/7/2025.)
+Ademais, não há contradição em se afastar a alegada ofensa aos arts. 489 e 1.022 do CPC/15 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+Sobre o tema:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. Violação aos artigos 489 e 1.022 do CPC não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão ou obscuridade. Precedentes.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+2.1. Ademais, não há contradição em afastar a alegada negativa de prestação jurisdicional e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+3. Rever a conclusão do Tribunal de origem acerca da inexistência de culpa concorrente ou exclusiva da vítima, bem como da dependência econômica para fins de pensionamento, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3.1. Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC sem incursão no conjunto probatório dos autos. Incidência da Súmula 7/STJ.
+4. A jurisprudência desta Corte orienta que, em se tratando de famílias de baixa renda, há presunção relativa de colaboração financeira entre os seus membros, sendo pois devido, a título de dano material, o pensionamento mensal aos genitores do falecido, a despeito de prova da dependência econômica, admitido o direito de acrescer. Precedentes. Incidência da Súmula 83/STJ.
+5. O termo final da pensão estabelece-se pela conjugação entre a expectativa de vida da vítima com a dependência econômica do pensionista. Precedentes. Incidência da Súmula 83/STJ.
+6. Em se tratando de responsabilidade civil extracontratual, como na hipótese, os juros de mora devem fluir a partir do evento danoso, e a correção monetária desde a data do arbitramento dos danos morais.
+Precedentes. Incidência da Súmula 83/STJ.
+7. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.078.734/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Sobre a violação ao artigo 406 do Código Civil, pois a taxa Selic deveria ser aplicada como critério de correção monetária e juros moratórios, uma vez que o título executivo não especificou tais índices, a Corte de origem consignou:
+"Verifica-se dos autos que, quando do ajuizamento da ação o exequente juntou demonstrativo do valor do débito utilizando-se do índice IGP-M/FGV como índice de atualização monetária e juros moratórios de 1% ao mês.
+Confira-se (mov. 1.2):
+(..)
+A parte agravante opôs embargos à execução (mov. 1.11), cuja sentença foi proferida em 06.11.2007, na parte que interessa:
+(..)
+Interposta a apelação cível nº 473.457-0, julgada pelo Desembargador Duarte Medeiros restou decidido o estritamente devolvido a discussão, vejamos a ementa do jugado:
+(..)
+Nesse sentido, é sabido que pacífico o entendimento de que após a estabilização da demanda, com o trânsito em julgado das decisões anteriores, impossível ao executado buscar modificar os critérios de correção monetária, ainda que de ordem pública, sob a alegação de que simplesmente deve ser aplicada a taxa Selic.
+Além disso, a modificação do índice de correção monetária daquele utilizado na inicial para, neste momento, atualizar o débito exequendo com o índice pretendido pelo executado, viola frontalmente a coisa julgada, pois se observa da sentença de mov. 1.11 que o magistrado naquela oportunidade decidiu pelo acertamento da memória de cálculo: "dela fazendo parte o valor originário fator de atualização e início dos juros de mora".
+Destaca-se que o pleito do agravante não se trata de mera retificação de erro de cálculo, situação prevista em nosso ordenamento jurídico (art. 494, inc. I, CPC), mas, sim, alteração unilateral dos critérios utilizados para composição do débito exequendo.
+(..)
+No caso em comento, uma vez que a questão já foi trazida a discussão do magistrado em primeiro grau e não houve alteração por comando judicial anterior determinando a utilização de índice de correção monetária do cálculo da execução, está preclusa qualquer alteração substancial dos critérios de apuração do valor executado." (e-STJ fls. 91/94)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. ÍNDICES E PERCENTUAIS NO TÍTULO JUDICIAL. ALTERAÇÃO. OFENSA À COISA JULGADA. MULTA. RECURSO PROTELATÓRIO. DESCABIMENTO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. IMPOSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que os índices e percentuais de correção monetária e juros moratórios fixados no título judicial não são passíveis de alteração na fase de cumprimento de sentença, sob pena de ofensa à coisa julgada. Precedentes.
+2. De acordo com a jurisprudência desta Corte, as matérias, inclusive as de ordem pública, decididas no processo, sujeitam-se à preclusão.
+3. A aplicação de multa por interposição de recurso protelatório não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs o recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer.
+4. Não cabe condenação em honorários advocatícios no caso em que o recurso tem origem em decisão interlocutória, sem a prévia fixação de referida verba.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.559.332/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. COISA JULGADA. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, mantendo a inadmissão do recurso especial pela incidência das Súmulas n. 7 e 83 do STJ.
+2. O acórdão recorrido negou provimento ao agravo de instrumento, afirmando a inviabilidade de revisão dos índices de correção monetária e juros moratórios fixados em sentença transitada em julgado, sob pena de violação da coisa julgada.
+II. Questão em discussão 3. A questão em discussão consiste em saber se é possível alterar, na fase de cumprimento de sentença, os índices de correção monetária e juros moratórios estabelecidos no título executivo judicial, substituindo-os pela taxa SELIC, sem violar a coisa julgada.
+III. Razões de decidir 4. A jurisprudência do STJ estabelece que não é possível alterar, na fase de liquidação ou cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada.
+IV. Dispositivo e tese 8. Agravo interno desprovido.
+Tese de julgamento: "1. Não é possível alterar, na fase de cumprimento de sentença, o critério de fixação dos juros de mora estabelecido no título exequendo, sob pena de ofensa à coisa julgada".
+Dispositivos relevantes citados: CPC/2015, art. 508 e CC/2002, art. 406.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.588.495/RS, Min.
+Moura Ribeiro, Terceira Turma, julgado em ; STJ, AgInt no REsp 17/2/2025 n. 2.042.830/RS, Min. Raul Araújo, Quarta Turma, julgado em . 16/12/2024 (AgInt nos EDcl no AREsp n. 2.330.742/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+Ademais, a modificação de tal entendimento lançado no v. acórdão recorrido quanto à existência de manifestação anterior do juízo quanto à aplicação da SELIC demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. EXECUÇÃO DE SENTENÇA. LIQUIDAÇÃO. ÍNDICES DE CORREÇÃO MONETÁRIA.
+1. Falta de impugnação ao fundamento que sustentou o acórdão recorrido no tocante à desnecessidade de liquidação de sentença, consistente na ausência de efeito substitutivo do dispositivo dos embargos infringentes que mencionou a liquidação. Restou, assim, não impugnado fundamento suficiente para manter o acórdão recorrido, nos termos da súmula 283/STF.
+2. Inviabilidade de alterar a conclusão do acórdão recorrido no sentido de que a liquidação seria desnecessária, pois o valor devido já estava definido na sentença exequenda, por incidir o óbice da súmula 7/STJ.
+3. Alterar as conclusões do acórdão recorrido no sentido de que os índices utilizados na correção monetária estão encobertos pela coisa julgada demanda reelaboração da moldura fático-probatória, atividade não realizável nesta via especial. Incidência da súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.324.470/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/10/2015, DJe de 20/10/2015.)
+Por fim, quanto à alegação de que a manutenção da penhora do imóvel de matrícula n.º 8.984 configura enriquecimento sem causa, uma vez que tendo sido imóvel anterior arrematado pelo próprio exequente, por metade do valor da avaliação, não há que se falar em saldo a executar, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+Caberia à recorrente, na hipótese, alegar violação ao art. 1.022 do Código de Processo Civil quanto ao ponto, providência, todavia, da qual não se desincumbiu.
+Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça. Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS POR ERRO MÉDICO COM PEDIDO DE TUTELA ANTECIPADA. LEGITIMIDADE PASSIVA.
+RECONHECIMENTO EM SEDE DE AGRAVO DE INSTRUMENTO.
+PRECLUSÃO. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. OFENSA AOS ARTS. 480, CAPUT, E § 1º, DO CPC /2015. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO CPC/2015 EM RELAÇÃO À MATÉRIA. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. FALHA NA PRESTAÇÃO DOS SERVIÇOS DEVIDAMENTE COMPROVADA NOS AUTOS. MODIFICAÇÃO. IMPOSSIBILIDADE.
+NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DANOS MORAIS. QUANTUM INDENIZATÓRIO ARBITRADO DENTRO DOS PARÂMETROS DE RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF, que assim dispõe:
+"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." 2. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+3. O Tribunal de origem, analisando as circunstâncias do caso, concluiu que ficou comprovada a falha nas prestação dos serviços hospitalares. Assim, a pretensão de modificar o entendimento firmado demandaria o reexame de fatos e provas, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Na hipótese, verifica-se que os danos morais foram fixados em R$130.000,00 (cento e trinta mil reais), em comum, aos autores, além de um salário mínimo em favor da mãe do infante, enquanto perdurar sua condição exclusiva de cuidados com o filho, e de quatro salários mínimos ao menor, o que não se mostra desarrazoado, tendo em vista que a falha na prestação dos serviços resultou em lesões, tornando o menor dependente de cuidados especiais e incapacitado permanentemente.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.569.728/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO (ART. 1.025 DO CPC). VIOLAÇÃO DO ART. 1.022 DO CPC. NECESSIDADE DE ARGUIÇÃO. NÃO JULGAMENTO DE MÉRITO DA DEMANDA. AÇÃO RESCISÓRIA.DESCABIMENTO. EXTINÇÃO DO PROCESSO. SÚMULA N. 240 DO STJ. APLICAÇÃO DA SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância especial, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ.
+2. Somente a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do CPC, desde que, nas suas razões, seja arguida violação do art. 1.022 do mesmo diploma processual.
+3. Não é cabível ação rescisória contra sentença ou decisão que não julga o mérito da demanda.
+4. "A extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu" (Súmula n. 240 do STJ).
+5. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula n. 83 do STJ).
+6. Agravo interno desprovido.(AgInt nos EDcl no AREsp n. 1.433.979/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.)
+Por fim, não merece ser acolhido o pedido formulado em impugnação do presente agravo interno quanto à incidência de multa.
+Com efeito, na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória".
+Contudo, o presente agravo interno não apresenta tais características.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
