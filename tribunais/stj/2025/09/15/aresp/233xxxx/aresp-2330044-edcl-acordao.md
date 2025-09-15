@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE REJEITOU SEGUNDOS EMBARGOS COM APLICAÇÃO DE MULTA. OMISSÃO. AUSÊNCIA. REITERAÇÃO DOS ARGUMENTOS. CARÁTER MANIFESTAMENTE PROTELATÓRIO. ART. 1.026, § 3º, DO CPC/2015.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados, com majoração de multa.
+RELATÓRIO
+Trata-se do terceiro embargos de declaração opostos em face de acórdão com a seguinte ementa (fl. 713):
+APELAÇÃO CÍVEL. AÇÕES INDENIZATÓRIAS RECÍPROCAS. SENTENÇA UNA. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RECIBO DE ARRAS. FINANCIAMENTO. IMPEDIMENTO. RESPONSABILIDADE DOS PROMITENTES VENDEDORES. RESOLUÇÃO DO CONTRATO. PEDIDO DE RETENÇÃO DAS ARRAS. INDENIZAÇÃO DE DANO MORAL. RESTITUIÇÃO DO VALOR PAGO AOS PROMITENTES COMPRADORES.
+Justifica-se a reafirmação da sentença una, que julgou procedente a ação ajuizada pelo casal de promitentes compradores aos promitentes vendedores, porque as restrições encontradas em relação aos vendedores impediram a realização do financiamento pelos compradores, com a consequente resolução do contrato e a condenação dos vendedores à restituição do valor pago a título de arras e, por consequência, julgou improcedente a ação ajuizada pelos vendedores, que pretendiam a retenção das arras e danos morais.
+Apelação desprovida.
+No presente recurso os embargantes alegam que houve omissão, uma vez que teriam impugnado devidamente a inaplicabilidade das Súmulas 5 e 7 do STJ nas razões do agravo em recurso especial, portanto, o recurso deveria ter sido conhecido.
+Sustentam que "o que buscam os Embargantes é justamente isso: manifestação deste juízo sobre o caráter procedimental da insurgência exposta desde o recurso especial. Não se trata de pedido de reexame de mérito, analisando cláusulas e documentos, mas sim de verificar a forma tal como foi fundamentada a decisão condenatória que se afasta da causa de pedir" (fl. 1.017).
+Impugnação apresentada às fls. 1.023-1.026.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE REJEITOU SEGUNDOS EMBARGOS COM APLICAÇÃO DE MULTA. OMISSÃO. AUSÊNCIA. REITERAÇÃO DOS ARGUMENTOS. CARÁTER MANIFESTAMENTE PROTELATÓRIO. ART. 1.026, § 3º, DO CPC/2015.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados, com majoração de multa.
+VOTO
+O inconformismo não merece acolhida. O recurso é, aliás, evidentemente protelatório.
+Cuida-se de terceiros embargos de declaração, opostos pelos mesmos embargantes irresignados com o acórdão desta Quarta Turma que enfrentou de forma clara e suficiente as questões postas a julgamento, conforme se depreende de seus próprios fundamentos a seguir transcritor (fl. 932):
+No caso dos autos, o recurso especial não foi admitido na origem em razão dos seguintes fundamentos: a) ausência de ofensa ao art. 1.022 do CPC; e b) incidência das Súmulas 5 e 7 do STJ (e- STJ, fls. 830/834).
+Nas razões do agravo em recurso especial, a parte agravante impugnou de forma genérica o óbice da Súmula 7/ STJ, além de não rebater o óbice da Súmula 5/STJ e o fundamento de ausência de afronta ao art. 1.022 do CPC.
+Conforme apontado na decisão agravada, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+Especificamente no que toca ao agravo em recurso especial, a Corte Especial deste Superior Tribunal de Justiça consolidou orientação no sentido de que a decisão que não admite o recurso especial não possui capítulos autônomos, de modo que "é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAR Esp n. 746.775/PR, relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19.9.2018, D Je 30.11.2018).
+Assim, não há possibilidade de impugnação parcial da decisão que não admite recurso especial.
+Nota-se que, no recurso de agravo interno e nos consecutivos embargos declaratórios, os recorrentes nem sequer apresentaram argumentos para demonstrar que teriam impugnado o fundamento da decisão de admissibilidade referente à "ausência de ofensa ao art. 1.022 do CPC".
+Nas razões dos presentes embargos foram reiterados os mesmos argumentos dos embargos anteriores, em que buscam pronunciamento acerca do mérito do recurso especial, defendendo que a decisão foi extra petita, pois se baseou na existência de débitos dos vendedores, enquanto na inicial os compradores alegaram falta de entrega de documentos.
+Cabe ressaltar que o argumento que vem sendo apresentado pelos embargantes foi devidamente examinado pelo Tribunal de origem. Ficou explicitado, de forma clara e coerente, ao analisar os embargos de declaração, o motivo pelo qual não se pode considerar que houve julgamento extra petita, conforme segue (fl. 761):
+Inexiste situação de omissão contradição ou obscuridade quanto à alegação de sentença extra petita, que teria apreciado a demanda sob o contexto da negativa de financiamento baseada na existência de inscrição do nome dos embargantes de declaração no sistema de proteção ao crédito, quando na petição inicial da ação se alegou apenas quanto à falta de entrega da documentação solicitada para o financiamento. Como se vê, uma coisa decorre da outra, ou seja, o que impediu a entrega dos documentos por parte dos embargantes e apelantes foi exatamente a existência de restrições em seus nomes, não sendo crível que a parte desenvolva fundamentação de sentença extra petita no particular, assim como a reafirmação da sentença é suficiente para excluir a possibilidade de julgamento extra petita.
+Observa-se que o acórdão anterior, tendo em vista que se tratava dos segundos embargos com os mesmos argumentos, considerou protelatório o recurso, condenando os embargantes ao pagamento de multa de 1% sobre o valor atualizado da causa, com amparo no artigo 1.026, § 2º, do Código de Processo Civil de 2015.
+No recur so sob julgamento, os recorrentes insistem, mais uma vez, nos mesmos argumentos e pretendem o exame de mérito do recurso especial, o qual, ressalta-se, nem sequer foi conheci do nesta Corte Superior, tendo em vista a incidência da Súmula 182 do STJ.
+Desse modo, além de ausentes os requisitos do art. 1.022 do Código de Processo Civil, está nítido o caráter procastinatório, o que enseja a majoração da multa já fixada, nos termos do art. 1.026, § 3º, do CPC, ficando a interposição de qualquer recurso condicionada ao depósito prévio do valor da multa.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+I - Trata-se de terceiros embargos opostos. A parte embargante insiste na existência de omissão relativamente à alegação de incompetência para julgamento do recurso de forma monocrática. A matéria foi devidamente analisada no acórdão que julgou o agravo interno, no sentido de que não haveria decisão teratológica e que o mandado de segurança estava sendo utilizado como recurso.
+II - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Majora-se a multa fixada nos embargos anteriores para 5% do valor atualizado da causa, condicionada a interposição de qualquer outro recurso, ao recolhimento da multa.
+IV - Embargos de declaração rejeitados.
+EDcl nos EDcl no AgInt no MS n. 23.924/DF, relator Ministro Francisco Falcão, Corte Especial, julgado em 11/6/2019, DJe de 14/6/2019.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO VERIFICAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. REITERAÇÃO. ART. 1.026, § 3º, DO CPC/2015.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação.
+2. Havendo reiteração de embargos de declaração manifestamente protelatórios, impõe-se a aplicação da multa prevista no artigo 1.026, § 3º, do CPC/15.
+3. Embargos de declaração rejeitados, com a majoração da multa para 5% (cinco por cento) sobre o valor atualizado da causa.
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EDcl no AREsp n. 1.271.744/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+Em face do exposto, rejeito os embargos de declaração e, considerando o seu caráter manifestamente protelatório, majoro a multa aplicada nos embargos anteriores para 3% (três por cento) sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao respectivo depósito, nos termos do art. 1.026, § 3º, do Código de Processo Civil.
+É como voto.
