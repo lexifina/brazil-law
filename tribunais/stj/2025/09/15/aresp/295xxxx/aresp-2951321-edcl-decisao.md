@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLEOMIR JEAN POLTRONIERI contra a decisão de fls. 926-937, que negou provimento ao agravo em recurso especial e majorou os honorários advocatícios em 3% sobre o valor já arbitrado nas instâncias de origem.
+Em suas razões, a parte embargante sustenta que a decisão embargada incorreu em contradição e obscuridade quanto a violação do art. 489, § 1º, I, do Código de Processo Civil, ao não abordar de forma completa e clara a questão da culpa concorrente, afirmando que a tese não perfazia causa de pedir e estaria preclusa, sem justificar adequadamente tal entendimento frente à amplitude do pedido principal (fls. 942-945).
+Aduz a existência de omissão e contradição na decisão na interpretação dos arts. 141 e 492 do Código de Processo Civil, pois a decisão recorrida, ao não reconhecer a possibilidade de culpa concorrente, estabeleceu interpretação restritiva do pedido formulado na inicial, violando o princípio da congruência.
+Afirma que o pedido de condenação integral do réu implicitamente abrange a possibilidade de reconhecimento da culpa concorrente (fls. 945-948).
+Aponta a existência de contradição e obscuridade quanto à aplicação da Súmula n. 7 do STJ, em face dos arts. 188, II, e 927 do Código Civil, porque não busca um mero reexame de provas, mas sim a revaloração do conjunto probatório
+Alega que a contradição reside no fato de que a decisão embargada desconsiderou a confissão do réu sobre a manobra evasiva que resultou na colisão, o que não demanda reexame de provas, mas sim revaloração jurídica (fls. 948-950).
+Sustenta a deficiência na fundamentação quanto a violação do art. 373, I, do Código de Processo Civil, porquanto a análise das provas não foi suficiente para afastar a responsabilidade do requerido, especialmente considerando a confissão do réu sobre a invasão da pista contrária. Alega que a decisão embargada impôs ao autor um ônus excessivo de comprovação, desconsiderando a própria narrativa do réu e a dinâmica do acidente (fls. 950-951).
+Também aponta a existência de violação dos arts. 929 e 944 do Código Civil e 317, 326 e 479 do Código de Processo Civil, porque a decisão embargada aplicou indevidamente a Súmula n. 284 do STF, afirmando que a fundamentação recursal seria deficiente, sem especificar qual seria a alegada deficiência. Afirma que demonstrou de forma clara a violação desses dispositivos, especialmente no que tange à desconsideração da culpa concorrente e à valoração da prova pericial (fls. 951-952).
+A parte embargada apresentou impugnação.
+Contrarrazões de ARCILDO DEGGERONI às fls. 963-968 em que alega que os embargos de declaração são intempestivos, conforme certidão de fl. 959, e que, caso conhecidos, devem ser desacolhidos, pois a decisão embargada não padece de omissão, contradição ou obscuridade. Afirma que a culpa concorrente não integrou a causa de pedir e que a tentativa de reexaminar o conjunto probatório é inadmissível. Requer o não acolhimento dos embargos de declaração e, caso conhecidos, que sejam desacolhidos, reconhecendo-se a inexistência de vícios na decisão embargada.
+Contrarrazões de MAPFRE SEGUROS GERAIS S.A. às fls. 970-976 em que alega que os embargos de declaração não merecem acolhimento, pois não há omissão, contradição ou obscuridade na decisão embargada. Afirma que a parte embargante busca rediscutir o mérito da decisão e que a tentativa de revaloração da prova é incompatível com os embargos de declaração. Requer o não acolhimento dos embargos de declaração e a condenação do embargante ao pagamento de multa por embargos manifestamente protelatórios, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+É o relatório. Decido.
+Os embargos de declaração são manifestamente intempestivos.
+A disponibilização da decisão ora embargada no Diário da Justiça eletrônico ocorreu em 18/8/2025 (segunda-feira), considerando-se publicada em 19/8/2025 (terça-feira). O prazo começou a correr no dia 20/8/2025, expirando em 26/8/2025(terça-feira), conforme certificado à fl. 959.
+Contudo, os presentes embargos de declaração somente foram opostos em 27/8/2025 (quarta-feira); a destempo, portanto.
+Oportuno lembrar que o prazo para interposição dos embargos de declaração é de 5 dias úteis, nos termos do art. 1.023 do CPC.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO - INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. São intempestivos os embargos de declaração opostos fora do prazo legal, como previsto no art. 1.023 do CPC.
+2. Embargos de declaração não conhecidos. (EDcl no AgInt no AREsp n. 2.657.081/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
