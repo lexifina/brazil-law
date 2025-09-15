@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de Agravo interposto por DUAS UNAS EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRO, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de DUAS UNAS EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRO, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Recurso Especial, Dr. RAFAEL NASCIMENTO ACCIOLY.
+O substabelecimento juntado aos autos, que outorgaria poderes ao referido causídico para representar a parte, segundo asseverado na decisão de inadmissão do Recurso Especial, apresenta assinatura sem validade, uma vez que a rubrica nela constante é apenas uma assinatura digitalizada ou escaneada, e não uma assinatura digital.
+Registre-se que "a jurisprudência do STJ é firme no sentido ser inadmissível assinatura digitalizada ou escaneada no instrumento procuratório, por se tratar de mera inserção de imagem em documento, ensejando o não conhecimento do recurso assinado pelo advogado por ausência de poderes de representação nos autos". (AgInt no AREsp 1372728/PE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28.10.2019.)
+Ademais, "a reprodução de uma assinatura, por meio do escaneamento, sem qualquer regulamentação, é arriscada na medida em que pode ser feita por qualquer pessoa que tenha acesso ao documento original e inserida em outros documentos. Não há garantia alguma de autenticidade, portanto. A aplicação do princípio da instrumentalidade das formas, invocado pelas recorrentes, deve encontrar limites exatamente no princípio da segurança jurídica. Não se trata de privilegiar a forma pela forma, mas de conferir aos jurisdicionados, usuários das modernas ferramentas eletrônicas, o mínimo de critérios para garantir a autenticidade e integridade de sua identificação no momento da interposição de um recurso ou de apresentação de outra peça processual". (REsp n. 1.442.887/BA, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 14.5.2014.)
+Ademais, percebeu-se, no Tribunal a quo, haver irregularidade na assinatura do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, porquanto limitou-se a anexar os mesmos documentos anteriormente apresentados, com assinatura digitalizada, às fls. 685/705.
+Dessa forma, o recurso não foi devida e oportunamente regularizado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
