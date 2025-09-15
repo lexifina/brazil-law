@@ -1,0 +1,17 @@
+DECISÃO
+JOAO BATISTA MARCOS, BRENO COSME MELGACO DE CARVALHO, GERALDO FLORIANO FILHO, KAYKE CARDOSO COSTA, YORI GEOVANNY PRUDENCIO DOS REIS e MAURICINEY JANUARIO postulam a extensão dos efeitos da decisão proferida nos autos do RHC n. 222.117/MG, em que dei provimento ao recurso ordinário para revogar a prisão preventiva do corréu Rafael Jose Bento.
+A defesa afirma que os pacientes estão na mesma situação fático-processual que a parte daquele recurso ordinário, visto que são acusados dos mesmos fatos e a prisão preventiva foi decretada com base na mesma fundamentação genérica.
+Decido.
+Consoante o art. 580 do Código de Processo Penal, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Os pacientes tiveram a prisão preventiva decretada, no dia 22/7/2025, pela suposta prática dos delitos de tráfico e de associação para o tráfico de drogas. O Juízo de primeira instância argumentou o seguinte (fl. 64):
+e) Considerando a gravidade concreta dos delitos e os indícios da materialidade e autoria dos crimes, a prisão preventiva dos investigados se mostra imprescindível para assegurar a aplicação da lei penal e pela garantia da ordem pública, que abrange a prevenção da prática de fatos criminosos e também o acautelamento do meio social. Ressalto que os crimes noticiados nos autos, sem dúvida, causa grande temor e insegurança na sociedade, pela gravidade concreta, o que representa uma verdadeira afronta à ordem pública. Além disso, a pena máxima cominada, em abstrato, para os crimes em comento é muito superior a quatro anos de reclusão, restando caracterizado, também, o requisito do artigo 313, I do CPP.
+Verificada a presença dos requisitos do artigo 312 e 313, I, do CPP, a decretação das prisões preventivas dos autuados é medida imperativa.
+Na hipótese, verifico que os autuados são acusados dos mesmos fatos e os fundamentos exarados no decreto prisional, em relação aos postulantes e ao recorrente do RHC n. 222.117/MG, são idênticos.
+A partir da documentação juntada aos autos, verifico que os pacientes também tiveram a prisão preventiva restabelecida com base em fundamentação genérica. O decreto cautelar deixou de mencionar elemento individualizado que indicasse a necessidade de tutela da ordem pública ou a garantia da aplicação penal ou da instrução criminal.
+A decisão limitou-se a apontar a gravidade em abstrato do crime de tráfico de drogas e não apresentou nenhuma circunstância c oncreta dos autos que pudesse indicar o periculum libertatis dos agentes.
+Assim, identifico a similitude entre a situação aqui retratada e a que ensejou a revogação da prisão preventiva do corréu Rafael Jose Bento.
+À vista do exposto, concedo a ordem, in limine, para deferir o pedido de extensão e revogar a prisão preventiva dos pacientes JOAO BATISTA MARCOS, BRENO COSME MELGACO DE CARVALHO, GERALDO FLORIANO FILHO, KAYKE CARDOSO COSTA, YORI GEOVANNY PRUDENCIO DOS REIS e MAURICINEY JANUARIO .
+Fica, no entanto, ressalvada a possibilidade de nova decretação da segregação provisória, se efetivamente demonstrada a superveniência de fatos novos que indiquem sua concreta necessidade, ou de imposição de medida cautelar alternativa também suficientemente fundamentada, nos termos dos arts. 282 e 319, ambos do CPP.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias.
+Publique-se e intimem-se.
+EMENTA
