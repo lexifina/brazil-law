@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por PAULO WITER FARIAS PAELO - na execução de condenação da pena de 30 anos, 7 meses e 28 dias de reclusão, em razão da condenação por roubos, furto, falsa identidade e posse irregular de arma de fogo - contra acórdão proferido pelo Tribunal de Justiça de Mato Grosso (fls. 66/75 - HC n. 1018788-91.2025.8.11.0000), não comporta seguimento.
+Com efeito, busca o recurso a anulação da decisão que decretou a perda de 1/3 dos dias remidos, determinando-se ao Juízo de primeiro grau que prolate nova decisão fundamentada - na Execução da Pena n. 0009678-86.2007.8.11.0042 (fls. 8, da 2ª Vara Criminal da comarca de Cuiabá) -, ao argumento da ausência de fundamentação sobre o quantum de perda de dias remidos: o caráter genérico (e não meramente conciso) da decisão é revelado pela própria determinação de perda dos dias remidos "se houver". Ou seja, o Juízo sequer analisou se havia dias remidos a serem perdidos (fl. 82).
+Ocorre que não foi demonstrado o alegado constrangimento ilegal, pois a fundamentação da decisão que determinou a perda de 1/3 dos dias remidos foi considerada suficiente - com base na gravidade das faltas graves cometidas pelo reeducando, incluindo rompimento de tornozeleira eletrônica, ausência da comarca sem autorização judicial e envolvimento em novos crimes, como lavagem de dinheiro e organização criminosa (fls. 66/75) -, em consonância com o entendimento desta Corte Superior (AgRg no HC n. 894.084/PR, de minha relatoria, Sexta Turma, julgado em 29/4/2024, DJe de 6/5/2024).
+Em razão disso, nego seguimento ao presente recurso.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. RECURSO EM HABEAS CORPUS . FALTA GRAVE. REVOGAÇÃO DOS DIAS REMIDOS. FUNDAMENTAÇÃO SUFICIENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Recurso a que se nega seguimento.
