@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por EDNA BELEM DE MENEZES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 281):
+PRODUÇÃO ANTECIPADA DE PROVA. Exibição de documento. Sentença que julgou procedente a ação. Decisão que não comporta recurso, exceto nos casos em que indeferida totalmente a produção da prova pleiteada na inicial, que não é o caso dos autos. Aplicabilidade do art. 382, §4º do CPC. RECURSO NÃO CONHECIDO, neste ponto. Busca e Apreensão. Possibilidade. Inteligência do artigo 403 do CPC. Sucumbência. Pretensão resistida. Documentação não apresentada pelo réu. Caracterizada a resistência do réu à pretensão da autora de obter a exibição de documentos. Verba honorária fixada de forma equitativa, com observância ao disposto no §8º, do art. 85 do Código de Processo Civil, e que remunera condignamente o trabalho desempenhado pelo procurador da parte. RECURSO DA AUTORA DESPROVIDO NA PARTE CONHECIDA E RECURSO DO RÉU DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente aduz que houve violação do art. 85, §§ 8º e 8º-A, do CPC, sustentando que os honorários sucumbenciais foram fixados em valor inferior ao da tabela da OAB para o caso.
+Assevera que esses dispositivos determinam que o magistrado deve aplicar para condenação em honorários, o que for maior: o percentual de 10% sobre o valor da causa ou o valor mínimo recomendado pela OAB.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 330-339).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 348-350), o que ensejou a interposição do presente agravo (fls. 353-372).
+Apresentada contraminuta do agravo (fls. 401-412).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O cerne da questão consiste em analisar o valor dos honorários advocatícios fixados.
+O Tribunal de origem tratou a questão dos honorários da seguinte forma (fls. 285-286):
+Por fim, no tocante à verba honorária, a r. sentença não comporta reparo. Fica mantida a condenação do requerido ao pagamento dos honorários advocatícios sucumbenciais, visto que configurada resistência à exibição dos documentos pleiteados.
+Além de ter havido contestação à demanda, inclusive com preliminares de impugnação ao valor da causa e inépcia da inicial (fls. 141/147), é inequívoco que o banco réu deu ensejo à propositura da presente ação, visto que não exibiu os contratos solicitados quando da notificação extrajudicial enviada via e-mail e por correio (fls. 22/25). Ademais, não lhe socorre a justificativa de que não localizou os documentos, visto que houve a inscrição da autora em órgãos de proteção ao crédito fundamentada no inadimplemento desses contratos.
+O princípio da causalidade não se contrapõe ao princípio da sucumbência. Antes, é este um dos elementos norteados daquele, pois, de ordinário, o sucumbente é considerado responsável pela instauração do processo e, assim, condenado nas despesas processuais. Vale dizer que o ônus da sucumbência recai sobre aquele que deu causa à propositura do pedido.
+O valor arbitrado a título de honorários advocatícios (10% sobre o valor da causa) revela-se condizente com a atividade desempenhada pela patrona da demandante, que culminou na procedência da ação, que a parte não foi exigida com longa tramitação ou questões complexas e em conformidade com os limites e critérios estabelecidos no §2º, do artigo 85 do Código de Processo Civil, além de constituir quantia adequada a remunerar condignamente a profissional, de modo que não comporta a majoração pretendida pela requerente.
+Diante do resultado do julgamento, fica mantida a sucumbência fixada na r. sentença.
+Dessa forma, verifica-se que o Tribunal estadual entendeu que, no caso, aplicar a regra de fixação de honorários advocatícios do art. 85, §2º do CPC e atribuir a porcentagem de 10% sobre o valor da causa estaria adequado e, por esse motivo, não incidiria as exceções previstas no art. 85, §8º do CPC (valor da causa muito baixo ou proveito econômico irrisório ou inestimável), as quais possibilitariam ao julgador atribuir honorários de forma equitativa, conforme os parâmetros do art. 85, §8-A do CPC.
+Assim, quanto à suscitada ofensa ao art. 85, §§ 8º e 8º-A, do CPC, o recurso especial não merece conhecimento, uma vez que a alteração das premissas adotadas pelo Tribunal local ao arbitrar os valores devidos utilizando a regra do art. 85, §2º do CPC demandaria reexame de fatos e provas, esbarrando-se no óbice da Súmula n. 7/STJ. A propósito, destaco:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. O entendimento do Tribunal a quo encontra-se em harmonia com a orientação desta Corte Superior, no sentido da inexistência de vinculação do magistrado aos valores estabelecidos pela tabela organizada pelo Conselho Seccional da OAB para a fixação dos honorários advocatícios quando arbitrados com base nos parâmetros do § 2º do artigo 85 do CPC. Precedentes.
+2. Inaplicável, na hipótese, a regra do § 8º-A do artigo 85 do CPC, incluído pela Lei nº 14.365/2022, pois, no caso concreto, a verba honorária foi fixada nos termos do § 2º do artigo 85 do CPC, no percentil mínimo de 10%, com base no valor da causa, o qual não é considerado baixo ou irrisório, não tendo havido a incidência do § 8º (arbitramento de honorários por equidade), o qual constitui requisito para a observação dos parâmetros da tabela da OAB.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.123.882/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/3/2025, DJEN de 16/5/2025.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CORREÇÃO. ACOLHIMENTO DE ACLARAÓRIOS. LIMITES DA LIDE. OBSERVÂNCIA. ART. 141 DO CPC. VIOLAÇÃO AFASTADA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §2º, DO CPC. PARÂMETROS. AUSÊNCIA DE CONDENAÇÃO. PROVEITO ECONÔMICO IMENSURÁVEL. BASE DE CÁLCULO. VALOR DA CAUSA. VERBA HONORÁRIA. VALOR. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. HONORÁRIOS. MAJORAÇÃO. ADEQUAÇÃO.
+ ..
+6. É firme a jurisprudência desta Corte no sentido de não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da verba advocatícia, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto.
+ ..
+(EDcl no AREsp n. 2.601.115/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, procedimento vedados a esta Corte, em razão do óbice da Súmula n. 7/STJ.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intime-se.
+ EMENTA
