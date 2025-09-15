@@ -1,0 +1,11 @@
+DECISÃO
+LEANDRO MACENO RODRIGUES, acusado por tráfico de drogas, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que denegou a ordem impetrada naquela Corte, na qual pretendia o afastamento da fiança como uma das medidas cautelares alternativas à prisão impostas em primeiro grau, objetivo este reiterado nesta oportunidade.
+O caso comporta o julgamento antecipado, visto que a questão em discussão encontra ressonância na pacífica orientação desta Corte, a qual é favorável à pretensão defensiva.
+A despeito da discussão acerca da impossibilidade de fixação de fiança no crime de tráfico de drogas, notadamente diante da existência de vedação expressa de lei, ou mesmo do possível acréscimo de fundamentação realizado pelo Tribunal de origem, observo que a manutenção dessa fiança nem mesmo se justifica.
+Deveras, " a  jurisprudência desta Corte Superior é clara ao não admitir a manutenção da prisão preventiva pelo inadimplemento da fiança, especialmente quando há indícios de hipossuficiência financeira do réu e outras medidas cautelares são suficientes para garantir a ordem pública e o prosseguimento do processo" (RHC n. 196.750/BA, relatora Ministra Daniela Teixeira, DJe 28/10/2024, destaquei).
+E ainda: "Afigura-se irrazoável manter o réu preso cautelarmente apenas em razão do não pagamento de fiança, mormente porque já reconhecida a possibilidade de concessão da liberdade provisória" (AgRg no HC n. 582.581/GO, relator Ministro Sebastião Reis Júnior, DJe 18/2/2021, grifei).
+Na hipótese, importa salientar que, além de reconhecida a possibilidade de concessão de liberdade provisória pelo Magistrado de primeiro grau, foram impostas diversas outras cautelares, como reafirmado no voto vencido na origem, de modo que a manutenção da fiança para que o insurgente seja colocado em liberdade não se justifica.
+Ante o expo sto, com fundamento no art. 34, XX, c/c art. 246, ambos do RISTJ, dou provimento in limine ao recurso em habeas corpus, a fim de afastar, no caso, a fiança como uma das cautelares impostas em primeiro grau, mantendo, contudo, todas as demais.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
