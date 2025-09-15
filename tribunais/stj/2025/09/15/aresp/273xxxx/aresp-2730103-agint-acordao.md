@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. MATÉRIA NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta ou a manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 1.022 do CPC/2015.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL contra decisão assim ementada (fl. 242):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante alega que os embargos de declaração opostos na origem pelo ora agravado apresentam "fundamento que nada mais configura do que a busca pela modificação do julgamento do mérito, eis que, de acordo com as razões apresentadas no recurso, não demonstra efetiva omissão, obscuridade, contradição ou erro material no julgado" (fl. 261). Argumenta que, "o Tribunal a quo respondeu de forma clara e fundamentada, não deixando dúvidas quanto ao fato de que não há como requerer a aplicação do Tema 808 a ato jurídico que se aperfeiçoou e exauriu todos os seus efeitos jurídicos antes do trânsito em julgado do tema" (fl. 261).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. MATÉRIA NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta ou a manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 1.022 do CPC/2015.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, como salientado na decisão ora agravada, houve, de fato, ofensa ao artigo 1.022 do CPC/2015, na medida em que, da leitura do recurso dos embargos de declaração, verifica-se que o agravado requereu expressamente a manifestação do órgão julgador a respeito das seguintes questões: (a) a Recorrente não está discutindo a alteração do título executivo com base no Tema nº 808, pois o pedido de retenção do IR na fonte decorre da legislação tributária, não do título executivo; (b) a aplicação dos efeitos do Tema nº 808 ao caso é respaldada pelo artigo 493 do CPC/2015, que exige consideração de fatos supervenientes, afastando a alegação de inaplicabilidade desse dispositivo; (c) é impossível pleitear restituição de retenção indevida antes de sua ocorrência, como sugere a decisão recorrida; (d) sem modulação dos efeitos do Tema nº 808, sua aplicação deve ser e ,erga omnes ex tunc tornando irrelevante a data da retenção, pois o pedido de restituição deve ser feito nos autos em que ocorreu a retenção indevida; (e) o artigo 493 do CPC sustenta a correção de pleitear a restituição do IR retido indevidamente nos próprios autos; (f) não há obrigação legal para ação própria na repetição do indébito, e exigir nova demanda afronta o princípio da legalidade do artigo 5º, II, da Constituição Federal; (g) exigir ação própria para repetição do indébito impõe prejuízo adicional à Recorrente, que já foi tributada a maior; (h) não há ofensa ao direito à ampla defesa e ao contraditório, pois o Estado já se manifestou nos autos e sua Procuradoria representou o IPERGS.
+Ocorre que o Tribunal estadual rejeitou os embargos de declaração (fls. 75-78), sem apreciar referidos argumentos apresentados pelo agravado.
+No caso, evidencia-se que o apontamento suscitado guarda correlação lógico jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional. Tem-se, portanto, que no caso concreto é essencial o novo pronunciamento da Corte de origem no pertinente aos pontos deduzidos a fim de que a prestação jurisdicional seja integral e efetiva.
+Nessa senda, frisa-se que, consoante jurisprudência do STJ, a falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015 e enseja a anulação do acórdão proferido em sede de embargos de declaração, devendo os autos retornarem ao Tribunal de origem para novo julgamento dos aclaratórios.
+A jurisprudência desta Corte orienta-se neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. PRINCÍPIO DA COLEGIALIDADE. NÃO VIOLAÇÃO. PROVIMENTO NEGADO.
+1. Constatada a existência de vício não sanado no acórdão proferido pelo Tribunal a quo, apesar de opostos embargos de declaração, é de rigor o reconhecimento da violação do art. 1.022 do Código de Processo Civil , com a determinação de retorno dos autos à origem para que se realize novo julgamento. Após a complementação do provimento jurisdicional pela instância ordinária, a parte contrária terá nova oportunidade de se insurgir contra o acórdão, agora isento de nulidades, podendo questioná-lo em sua integralidade.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça e consoante preveem os arts. 932, III, do Código de Processo Civil e 34, XVIII, a e b, do Regimento Interno deste Tribunal, o julgamento monocrático do recurso especial não constitui violação ao princípio da colegialidade, cuja eventual nulidade fica superada em razão do exame da matéria pelo órgão colegiado quando da interposição do agravo interno.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.930.025/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/73 CONFIGURADA.
+1. Verificada a existência de manifesto vício no acórdão recorrido, o qual não foi sanado mesmo após a oposição de embargos de declaração, fica configurada ofensa ao art. 535 do CPC/73.
+2. Agravo interno provido para desde logo prover o recurso especial.
+(AgInt no AREsp n. 1.172.627/SP, relator Ministro Francisco Falcão, relator para acórdão Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/8/2024, DJEN de 4/2/2025).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
