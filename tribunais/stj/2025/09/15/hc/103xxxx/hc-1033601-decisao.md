@@ -1,0 +1,27 @@
+DECISÃO
+MARCELO ALEXANDRE PANIZZA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0004665-10.2025.8.26.0026.
+A defesa alega que "que o tempo remido deve ser subtraído do quanto da pena a ser cumprido para progressão de regime, considerando como pena efetivamente cumprida para fins de progressão de regime e não do total da pena como tem sido feito" (fl. 3).
+Requer, por isso, a retificação dos cálculos, computando-se os dias de remição como tempo de pena efetivamente cumprido.
+Decido.
+A controvérsia foi assim decidida pelo Tribunal de origem:
+AGRAVO DE EXECUÇÃO PENAL. RETIFICAÇÃO DO CÁLCULO DE PENA. DIAS REMIDOS CONSIDERADOS COMO PENA EFETIVAMENTE CUMPRIDA. AUSÊNCIA DE EQUÍVOCO. DECISÃO AGRAVADA MANTIDA. RECURSO DEFENSIVO DESPROVIDO.
+1. No presente caso, verifica-se que o período de remição de pena decorrente das atividades laborais exercidas pelo agravante 04 (quatro) meses e 04 (quatro) dias - foi devidamente considerado como pena cumprida na forma determinada pelo art. 128, da LEP, tanto que reduzida a previsão para a progressão ao regime prisional semiaberto para o dia 19/01/2025, data-base para a progressão ao regime aberto. Desta forma, uma vez que o referido período foi utilizado para a aferição do requisito objetivo, descabe descontá-lo novamente da fração necessária para a progressão ao regime subsequente, sob pena de incorrer em "bis in idem". Precedentes do STJ (EDcl no HC 955.865/SP Rel. Min. Reynaldo Soares da Fonseca - Quinta Turma j. em 06/05/2025 - DJe de 09/05/2025; AgRg no HC 823.579/SP Rel. Min. Teodoro Silva Santos - Sexta Turma j. em 26/02/2024 - DJe de 05/03/2024) e do TJSP (Agravo de Execução Penal 0014110-86.2024.8.26.0996 Rel. Des. Diniz Fernando - 1ª Câmara de Direito Criminal j. em 17/12/2024;
+Agravo de Execução Penal 0009372-25.2024.8.26.0521 - Rel.
+Des. Leme Garcia - 16ª Câmara de Direito Criminal - j. em 25/10/2024).
+2. Agravo de Execução Penal desprovido (fl. 6).
+Verifico que, conforme o registro feito pelo Juiz da VEC, o tempo de remição foi devidamente computado como pena cumprida para fins de progressão do apenado ao regime semiaberto. Assim, o mesmo período não pode ser considerado, em duplicidade, para obtenção de novo benefício.
+Confira-se:
+Compulsando os autos, verifico que até o momento anterior à progressão de regime deferido às fls. 240/241, todos os cálculos trouxeram em seu bojo o cômputo da remição.
+Conforme cálculo de fls. 160, o cálculo apresentava 2 meses e 21 dias de remição devidamente deferidas pelas decisões proferidas até aquela data, referente a trabalhos realizados no período.
+ ..
+Observe-se que a remição foi computada como pena efetivamente cumprida, ou seja, após o cálculo da fração, reduzindo o tempo para obtenção do regime semiaberto, já que na época o sentenciado se encontrava em regime fechado.
+Inclusive, houve redução da previsão para o benefício, já que de acordo com o primeiro cálculo de fls. 53/54, a previsão para o regime semiaberto era 17/05/2027 e considerando as remições concedidas até e a detração, o lapso foi reduzido para 19/01/2025, sendo importante destacar que houve cômputo de interrupção de 2a9m19d, conforme fls. 160.
+A partir da progressão de regime, com fixação da data-base em 19/01/2025, mesma da previsão de benefício, todo o período anterior deixa de ser novamente computado, sendo o cálculo da fração de pena feito sobre a pena remanescente.
+Sobre o novo período, passa-se a computar os períodos de trabalho e estudo nele realizados, não se podendo repetir o cômputo das remições concedidas na etapa anterior, que serviram para reduzir, inclusive o tempo de pena a ser cumprida para alcance do regime semiaberto, sob pena de bis in idem.
+Assim, é que as remições concedidas na etapa anterior continuam sendo consideradas nela em conjunto, e as novas frações computadas sobre a pena remanescente (fls. 19-20, grifei).
+É possível o avanço para a pronta solução do habeas corpus, pois "O tempo remido deve ser somado ao tempo de pena cumprida para fins de verificação do lapso temporal necessário para a concessão de benefícios durante a execução da pena, conforme os arts. 126 e 128 da Lei de Execução Penal. 2. O período de remição de pena já utilizado para progressão de regime não pode ser novamente contabilizado para novo cálculo de progressão, sob pena de bis in idem" (AgRg no HC n. 988.481/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025).
+A decisão do Juízo de Execução está em conformidade com a jurisprudência desta Corte, uma vez que o "tempo remido deve ser considerado como pena efetivamente cumprida para fins de obtenção dos benefícios da execução, e não simplesmente como tempo a ser descontado do total da pena, a teor dos arts. 126 e 128 da Lei de Execução Penal, com a redação dada pela Lei n. 12.433/2011. Precedentes" (AgRg no HC n. 889.074/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024).
+Em resumo: Os dias de trabalho e estudo do apenado foram devidamente computados como pena cumprida, e incidiram na fração exigida para a progressão ao regime semiaberto. Assim, a partir do novo cálculo do saldo remanescente da condenação, o paciente deverá começar a cumprir o período necessário para a transferência ao regime aberto, sem possibilidade de descontar, em duplicidade, os dias já remidos.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
