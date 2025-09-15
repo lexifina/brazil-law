@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão do Presidente do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, sob o fundamento de ausência de impugnação específica dos fundamentos da decisão recorrida, em especial a incidência da Súmula 7 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo interno impugnou de forma específica e suficiente os fundamentos da decisão que inadmitiu o recurso especial, especialmente a aplicação da Súmula 7 do STJ.
+III. Razões de decidir
+3. O agravo interno não impugnou de forma específica e suficiente a incidência da Súmula 7 do STJ, limitando-se a repetir as alegações do agravo em recurso especial.
+4. A impugnação genérica à aplicação do óbice sumular, sem o devido cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, não atende ao requisito de impugnação específica.
+5. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+IV. Dispositivo
+6. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSE FERNANDO GIANNELLA e ELIANA LORENCI MARONI GIANNELLA contra decisão proferida pelo Presidente do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial interposto.
+Segundo os agravantes, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Nas razões do agravo interno, alegam que houve impugnação específica dos fundamentos da decisão agravada, destacando que a decisão que inadmitiu o recurso especial é genérica e não especifica quais provas ou circunstâncias fáticas precisariam ser reexaminadas.
+Defendem que não seria aplicável a Súmula 7/STJ, que impede o reexame de provas, pois o recurso especial requer apenas a análise de questões de direito.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada manifestou-se pelo desprovimento do recurso, com incidência de multa prevista no art. 1021, § 4º, do CPC.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão do Presidente do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, sob o fundamento de ausência de impugnação específica dos fundamentos da decisão recorrida, em especial a incidência da Súmula 7 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo interno impugnou de forma específica e suficiente os fundamentos da decisão que inadmitiu o recurso especial, especialmente a aplicação da Súmula 7 do STJ.
+III. Razões de decidir
+3. O agravo interno não impugnou de forma específica e suficiente a incidência da Súmula 7 do STJ, limitando-se a repetir as alegações do agravo em recurso especial.
+4. A impugnação genérica à aplicação do óbice sumular, sem o devido cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, não atende ao requisito de impugnação específica.
+5. A aplicação da multa prevista no art. 1.021, § 4º, do CPC não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+IV. Dispositivo
+6. Agravo interno não conhecido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos fundamentos fáticos e jurídicos anteriormente lançados, as quais transcrevo (fls. 167-168):
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Na hipótese dos autos, a decisão agravada deixou de conhecer do agravo em recurso especial ao reconhecer que os agravantes não impugnaram especificamente a Súmula 7/STJ, o fundamento da decisão que inadmitiu o recurso especial.
+No presente recurso, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento do seu recurso.
+Ocorre, contudo, que, no agravo interno, a defesa não impugnou a incidência da Súmula 182/STJ de maneira específica e suficiente, apenas repetindo as alegações exaradas no agravo em recurso especial, o que inviabiliza o conhecimento das insurgências.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia.
+A impugnação genérica à aplicação do óbice sumular, sem o devido cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, não atende ao requisito de impugnação específica.
+Dessa forma, persiste o vício que levou à aplicação da Súmula 182 do STJ, o que inviabiliza o conhecimento do presente recurso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA AO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a alegada intempestividade do agravo em recurso especial e a aplicação da Súmula nº 115 desta Corte.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.634.826/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Por fim, quanto ao pleito de aplicação da multa prevista no art. 1021, § 4º, do CPC, deduzido pela parte agravada, tem-se, de forma remansosa neste Tribunal, o entendimento de que esta multa não é corolário inafastável do não provimento de agravo interno.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, §1º,DO CPC. SÚMULA Nº 182/STJ. MOMENTO. IMPGNAÇÃO. MULTA. ART.1.021, § 4º, DO CPC. NÃO AUTOMÁTICA.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica na hipótese de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. No caso, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é no agravo em recurso especial, e não no agravo interno interposto contra a decisão que não conheceu do recurso por ausência de impugnação específica dos fundamentos daquela decisão.
+4. A Segunda Seção decidiu que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+5. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.696.873/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+Assim, à mingua de elementos outros que evidenciem a manifesta inadmissibilidade do recurso ou seu intuito meramente procrastinatório, ao que se soma o fato de o presente recurso ser o previsto em lei e necessário, inclusive, para possível interposição de eventual recurso extraordinário, inviável a aplicação da multa requerida.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
