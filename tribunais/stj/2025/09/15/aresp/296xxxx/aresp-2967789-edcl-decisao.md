@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PAULO TETUDI TAKAHASHI e AIKO SATO TAKAHASHI contra a decisão de fls. 729-734, que negou provimento ao agravo em recurso especial, majorando os honorários advocatícios em 10% sobre o valor já arbitrado nas instâncias de origem, com fundamento na ausência de ofensa ao art. 1.022 do CPC, ausência de demonstração de vulneração aos dispositivos arrolados e ausência de cotejo analítico para comprovação de dissídio jurisprudencial.
+Em suas razões, os embargantes sustentam que a decisão embargada apresenta contradição, pois, embora tenha negado provimento ao agravo em sua conclusão, enfrentou o mérito do recurso especial em sua fundamentação, analisando detalhadamente os argumentos apresentados, o que, segundo os embargantes, autoriza o conhecimento do recurso especial (fls. 737-738).
+Afirmam que tal contradição prejudica a compreensão da decisão e compromete o direito à ampla defesa e ao contraditório, requerendo a eliminação da contradição apontada (fls. 737-738).
+A parte embargada, AS INCORPORADORA S/S LTDA., apresentou impugnação às fls. 740-741, aduzindo que os embargos de declaração não demonstram a existência de contradição, omissão ou obscuridade. Sustenta que a decisão embargada analisou o mérito do recurso especial de forma vantajosa para os recorrentes, não havendo qualquer irregularidade. Requer a integral manutenção da decisão proferida.
+Requerem os embargantes o acolhimento dos embargos de declaração para eliminar a contradição apontada e conferir provimento ao agravo, de modo a permitir o conhecimento do recurso especial.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+A decisão embargada analisou de forma clara e fundamentada as questões suscitadas, não havendo contradição entre a fundamentação e a parte dispositiva. O enfrentamento do mérito do recurso especial na fundamentação não implica, necessariamente, o provimento do agravo, sendo possível a análise de mérito como reforço argumentativo.
+A irresignação, portanto, caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; e AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
