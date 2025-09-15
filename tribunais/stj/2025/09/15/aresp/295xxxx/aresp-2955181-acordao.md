@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. REQUISITOS. NÃO CONFIGURADOS. ARTS. 493 E 933 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. IMÓVEL. POSSE. INÍCIO. 21/12/2011. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+2. Os dispositivos legais indicados como malferidos não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+3. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+4. Agravo conhecido para não conhecer o recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por DOMO IMÓVEIS LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA COM POSSE-TRABALHO. Sentença de improcedência. Insurgência. Ação ajuizada por pessoa jurídica. Alegação de posse contínua, mansa e pacífica sobre o imóvel usucapiendo, por mais de dez anos. Exploração do imóvel pela autora, através de contrato de locação, que não pode ser equiparada à realização de obras ou serviços de caráter produtivo. Inaplicabilidade do prazo de dez anos previsto no parágrafo único do artigo 1.238 do Código Civil. Incidência do prazo de quinze anos previsto no caput do referido dispositivo legal. Posse exclusiva da autora sobre o imóvel que só teve início a partir de 2011. Ação ajuizada em2015. Ausência de decurso do prazo de quinze anos da usucapião extraordinária, mesmo se contabilizado o tempo de posse transcorrido no curso da ação. Julgamento de improcedência da ação que era de rigor. Sentença mantida. RECURSO DESPROVIDO" (e-STJ fl. 1.849).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.861/1.868).
+No especial (e-STJ fls. 1.871/1.882), a recorrente alega, além de divergência jurisprudencial, violação dos arts. 493 e 933 do Código de Processo Civil.
+Aduz que os titulares do domínio confessaram que nunca exerceram posse sobre o imóvel adquirido em 2002.
+Sustenta que o acórdão recorrido não considerou o fato superveniente de que a propriedade do imóvel usucapiendo foi atribuída a uma terceira pessoa não integrante do polo passivo da presente demanda, Severino Pontual da Silva Cavalcante, em outro processo, o que não impede o reconhecimento de sua posse inequívoca sobre o imóvel.
+Argumenta que o acórdão recorrido desconsiderou o argumento de que o período de tramitação do processo deve ser considerado na contagem do prazo para usucapião, especialmente quando não há prova de posse por parte dos recorridos.
+Afirma que o Tribunal de origem deu interpretação diversa à legislação federal em relação ao entendimento do Superior Tribunal de Justiça, conforme os RESPs nºs 1.361.226/MG e 1.720.288/RS.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 1.917/1.921 e 1.923/1.931), o recurso foi inadmitido na origem, sobrevindo a interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. REQUISITOS. NÃO CONFIGURADOS. ARTS. 493 E 933 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. IMÓVEL. POSSE. INÍCIO. 21/12/2011. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+2. Os dispositivos legais indicados como malferidos não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+3. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+4. Agravo conhecido para não conhecer o recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Trata-se, na origem, de ação de usucapião extraordinária com posse-trabalho ajuizada por Domo Imóveis Ltda. em desfavor da parte ora recorrida em que alegou manter posse mansa e pacífica sobre um imóvel desde 12 de dezembro de 2000, com animus domini, e ter realizado obras de caráter produtivo no local.
+O magistrado de primeiro grau de jurisdição julgou improcedente o pedido por entender que não houve a prescrição aquisitiva, pois a posse alegada pela autora não foi contínua e ininterrupta por 10 anos, já que Abrão Pess Isa, que era proprietário do imóvel, retornou à sociedade autora entre 2006 e 2009. Além disso, foi comprovado que Abrão nunca deixou de ser proprietário do imóvel, utilizando-se de manobras para blindar seu patrimônio.
+O Tribunal de origem, por sua vez, negou provimento ao apelo interposto pela autora/recorrente para, mantendo a sentença de improcedência, destacar que a posse exclusiva da autora sobre o imóvel só teve início a partir de 2011, e que a exploração do imóvel por meio de locação não pode ser equiparada à realização de obras ou serviços de caráter produtivo, não se aplicando, portanto, o prazo de 10 anos previsto no parágrafo único do artigo 1.238 do Código Civil, de modo que não houve decurso do prazo de 15 (quinze anos) anos necessário para a usucapião extraordinária, mesmo considerando o tempo de posse transcorrido durante o curso da ação, que apenas alcançará seu termo final em 2026.
+Além disso, consignou que o fato de o imóvel em litígio ter retornado à titularidade de pessoa não integrante da presente demanda não interfere no mérito, visto que não houve preenchimento dos requisitos configuradores da usucapião posse-trabalho.
+Eis a letra do acórdão quanto ao ponto:
+"(..)
+Apesar de ter havido reconhecimento, nos autos do Processo nº 1031208-26.2016.8.26.0001, de que o imóvel usucapiendo retornou à titularidade de Severino Pontual da Silva Cavalcante, tal fato de maneira alguma interfere no mérito do julgamento ora proferido, eis que não comprovado, de qualquer maneira, o preenchimento dos requisitos da prescrição aquisitiva, não havendo necessidade de anulação do processo ou mesmo de citação do atual proprietário registrário do imóvel usucapiendo, ressaltando-se, ainda, que aludida decisão ainda não transitou em julgado" (e-STJ fl. 1.854).
+Nesse cenário, verifica-se que os preceitos legais apontados como violados, arts. 493 e 933 do CPC, além de não estarem prequestionados (Súmula nº 211/STJ), não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo o óbice da Súmula nº 284/STF.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+Ademais, a premissa fática reconhecida pelo Tribunal de origem com base em ampla cognição dos elementos concretos dos autos de que foi comprovada a posse da recorrente sobre o imóvel a partir de 21/12/2011, data do primeiro dos quatro contratos de locação que foram por ela apresentados, não foi objeto de impugnação no recurso especial, atraindo a incidência, por analogia, da Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Confira-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.157.654/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifou-se)
+Os óbices aplicados incidem ao recurso interposto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer o recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
