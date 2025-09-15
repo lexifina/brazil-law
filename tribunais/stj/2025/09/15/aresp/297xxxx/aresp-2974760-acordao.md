@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM NULIDADE DE CLÁUSULA CONTRATUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Trata-se de ação declaratória de inexistência de débito cumulada com nulidade de cláusula contratual, tendo por objeto o contrato de promessa de compra e venda de imóvel em construção firmado entre as partes.
+2. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ALVICIO BIBIANO DE OLIVEIRA JÚNIOR e EVELINE CRISTINE RODRIGUES DE FREITAS (ALVICIO e outra) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE DE CLÁUSULA CONTRATUAL - AMBIGUIDADE - AUSÊNCIA DE CLAREZA QUANTO À COBRANÇA DE JUROS APÓS A QUITAÇÃO DO IMÓVEL - NULIDADE VERIFICADA. É nulo a clausula se não há no contrato a especificação a titulo de que seria cobrado, em que situação seria exigida ou mesmo a partir de quando passaria a incidir a cobrança de juros. Como dispõe o artigo 423 do Código Civil, é considera ambígua e contraditória a clausula que determina a cobrança de juros que não traz nenhuma explicação sobre o porquê, a título de quê ou mesmo a partir de quando, deixando, o comprador em clara desvantagem e desinformação (e-STJ, fl. 514).
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM NULIDADE DE CLÁUSULA CONTRATUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Trata-se de ação declaratória de inexistência de débito cumulada com nulidade de cláusula contratual, tendo por objeto o contrato de promessa de compra e venda de imóvel em construção firmado entre as partes.
+2. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Trata-se de ação declaratória de inexistência de débito cumulada com nulidade de cláusula contratual ajuizada por MARCELA QUINTÃO PENHA contra os ora insurgentes, tendo por objeto o contrato de promessa de compra e venda de imóvel em construção firmado entre as partes.
+Em primeira instância, ato contínuo ao julgamento de improcedência dos pedidos autorais, a promitente-compradora opôs embargos de declaração, que foram acolhidos, com efeitos modificativos, para reformar a sentença e "declarar nula a cláusula 3ª do contrato objeto da demanda no que versa a incidência dos juros de 8,5% ao ano e consequentemente indevido o débito exigido. Condeno os réus ao pagamento das custas e despesas processuais, bem como honorários advocatícios que fixo em 10% do valor da causa" (e-STJ, fl. 433).
+Irresignados, ALVICIO e outra apelaram, e o recurso não foi provido pelo TJMG (e-STJ, fls. 514-521), ensejando a oposição de embargos declaratórios, que foram rejeitados (e-STJ, fls. 538-542)
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, ALVICIO e outra alegaram a violação dos arts. 489, § 1º, IV, 494 e 1.022, II, do CPC, ao sustentarem omissão e contradição do acórdão recorrido acerca das seguintes questões: (i) ofensa ao princípio da inalterabilidade dos provimentos judiciais, tendo em vista que a sentença só poderia ter sido reformada, de ofício ou a requerimento da parte, por motivo de inexatidão material ou erro de cálculo, os quais não se fazem presentes nos autos; (ii) a inaplicabilidade do Código de Defesa do Consumidor à hipótese, por envolver relação entre particulares; (iii) a ausência do caráter de adesão na contratação, uma vez que foi oportunizado à compradora negociar e buscar maiores informações sobre as tratativas antes de firmar o negócio de compra e venda; (iv) na esteira dos depoimentos colhidos na instrução processual, em especial da autora e das testemunhas apresentadas, infere-se ter ela adquirido o imóvel na planta, sabendo dos prazos para entrega dos acabamentos com vistas à obtenção do habite-se, em até 30 meses; e (v) a possibilidade da cobrança de juros remuneratórios e moratórios.
+Da violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC
+Sobre os temas controvertidos, verifica-se que, ao julgar o recurso de apelação interposto pelos promitentes-vendedores, ora insurgentes, o Tribunal mineiro assim se pronunciou:
+Cinge-se a lide sobre a validade da cláusula terceira, objeto do contrato de compromisso de compra e venda de imóvel, anexado á ordem 03.
+Consta na citada cláusula, nos seguintes termos:
+ ..
+Verifica-se que a cláusula transcrita acima, obriga a compradora a pagar o valor de R$ 190.000,00 (cento e noventa mil reais), referente à compra do apartamento, objeto do contrato, pagos da seguinte forma: a) R$ 28.000,00 pago em cheque na data da assinatura; b) transferência de dois veículos, no montante de R$ 17.000,00 e R$ 10.000,00; c) o restante de R$ 135.000,00 pago com o financiamento, acrescido de juros de 8,5 % a. a. (oito e meio por cento ao ano) a título de juros sem limitação de inicio de sua incidência ou mesmo a razão de sua cobrança.
+No caso, verifica-se que ambígua tal cláusula com relação á cobrança dos juros de 8,5% a. a. Não há no contrato a especificação a titulo de que seria cobrado, em que situação seria exigida ou mesmo a partir de quando passaria a incidir tal cobrança.
+Nota-se que referida cláusula não deixa claro, como quer fazer entender o apelante, que haverá a cobrança de 8,5% a. a de juros compensatórios/remuneratórios, sobre o valor que seria financiado, a partir da assinatura do contrato de compra e venda e após a aprovação do financiamento.
+Referida cláusula é como dispõe o artigo 423 do Código Civil, ambígua e contraditória, vez que não traz nenhuma explicação sobre o porquê, a título de quê ou mesmo a partir de quando, deixando, o comprador em clara desvantagem e desinformação.
+Art. 423. Quando houver no contrato de adesão cláusulas ambíguas ou contraditórias, dever-se-á adotar a interpretação mais favorável ao aderente.
+A abusividade afirmada na sentença pela douta juíza, diz respeito à condição de dependência da compradora ao prazo que os construtores quisessem terminar a obra e lhe entregar os documentos necessários para a feitura do financiamento do valor faltante e cobrança de juros por tal período.
+Desta forma, correta a conclusão da douta juíza ao afirmar tratar-se de "(..) cláusula que fixa o termo final dos juros de maneira absolutamente potestativa, ou seja, a depender da vontade dos construtores: enquanto não entregassem os documentos necessários para que o financiamento fosse feito, incidiriam juros".
+Assim, analisar a cláusula, objeto da lide, sob a ótica do construtor é afirmar que "quem deu causa a incidência dos juros foram os requeridos, afinal, não entregaram o "habite-se", logo após a celebração do contrato", gerando, desta forma, a cobrança dos juros 8,5% a. a, até que terminassem a obra.
+Desta forma, verificada a ambiguidade da cláusula terceira, com relação à cobrança de juros de 8,5% a. a. deve a sentença ser mantida, vez que independente da aplicação do Código do Consumidor ou não, esta foi redigida no contrato de forma contraditória e sem coerência com o negócio entabulado entre as partes.
+Nesse mesmo sentido, é a jurisprudência deste Tribunal:
+ ..
+Isso posto, NEGAMOS PROVIMENTO AO RECURSO (e-STJ, fls. 517-521).
+Consignou-se, ainda, por ocasião do julgamento dos embargos de declaração opostos por ALVICIO e outra, o que se segue:
+Nota-se, quanto à sentença que a mesma foi modificada pelo acolhimento dos embargos de declaração opostos pela parte autora e decidido pelo douto juiz a quo à ordem 87, não havendo que se falar em revogação e criação de nova sentença.
+Da alegada inaplicabilidade do CDC, constou claramente no acórdão que "(..) verificada a ambiguidade da cláusula terceira, com relação à cobrança de juros de 8,5% a. a. deve a sentença ser mantida, vez que independente da aplicação do Código do Consumidor ou não, esta foi redigida no contrato de forma contraditória e sem coerência com o negócio entabulado entre as partes".
+Da análise das provas e das razões do recurso, restou fixado como tema principal a validade da cláusula terceira, objeto do contrato de compromisso de compra e venda.
+As provas necessárias ao deslinde do feito, anexadas antes da prolação da sentença foram suficientes para a prolação da sentença e análise do recurso de apelação ora embargado, não havendo que se falar em ausência de análise das provas testemunhais e depoimentos colhidos na instrução processual.
+Vale aqui, transcrever trechos do acórdão que deixam claro as razões da decisão ora embargada:
+ ..
+Desta forma, a insistência dos embargantes revela nítida pretensão de reanálise do decidido, o que, por óbvio, escapa do alcance do art. 1.022, do Código de Processo Civil, e acaba por transgredir o princípio da taxatividade recursal (art. 994, do Estatuto Processual Civil)  e-STJ, fls. 540-541 .
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do CPC, o que buscam ALVICIO e outra é apenas manifestar o seu inconformismo com o resultado do julgamento que lhes foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados nos referidos dispositivos da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugna do, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada negativa da prestação jurisdicional.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
