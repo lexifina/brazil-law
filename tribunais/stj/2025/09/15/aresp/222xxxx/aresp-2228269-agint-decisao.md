@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO da decisão da Presidência do Superior Tribunal de Justiça (STJ) de fls. 238/239.
+A parte agravante alega que a decisão agravada merece reforma, argumentando que impugnou de forma específica e objetiva todos os fundamentos da decisão que inadmitiu o recurso especial.
+Sustenta que, no tocante à incidência da Súmula 7/STJ, demonstrou que a questão discutida é eminentemente jurídica e não envolve reexame de fatos e provas, conforme exposto nas razões do agravo em recurso especial.
+Afirma que a decisão agravada não especificou quais argumentos dependeriam de reexame de fatos e provas, o que dificultaria a defesa da entidade federal.
+Alega, ainda, que o Tribunal de origem negou vigência ao art. 12 da Lei 10.260/2001, declarado constitucional pelo Supremo Tribunal Federal (STF) no julgamento da Ação Direta de Inconstitucionalidade (ADI) 2.545, em 16/11/2016.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte agravada não apresentou impugnação (fl. 253).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso.
+Trata-se de agravo da decisão que inadmitiu o recurso especial interposto com fundamento no art.  105,  inciso III,  alínea a,  da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 73/74):
+AGRAVO DE INSTRUMENTO. RESGATE DE CRÉDITOS DO FIES. AFASTAMENTO DA EXIGÊNCIA DE CERTIDÃO DE REGULARIDADE FISCAL. ART. 12, LEI 10.260/2001.
+Embora reconhecida na ADI 2545 a constitucionalidade da exigência de regularidade fiscal contida no art. 12 da Lei 10.260/2001, seu confronto com as circunstâncias do caso concreto, em que os débitos da instituição de ensino são de competências pretéritas, e a inadimplência mais atual somente ocorreu nos últimos meses de 2020, condizendo com a alegação de dificuldades financeiras decorrentes da pandemia de Covid-19, autoriza, à vista das consequências que adviriam do indeferimento, a manutenção de decisão que dispensou a apresentação de certidão de regularidade fiscal para pagamento dos créditos sobejantes do FIES à agravada.
+Os embargos de declaração opostos foram rejeitados (fls. 102/106).
+A parte recorrente alega violação dos arts. 7, 9, 10, 12 e 13 da Lei 10.260/2001, bem como dos arts. 17 e 22 do Decreto 3.859/2001, argumentando que:
+(1) a exigência de regularidade fiscal para o resgate antecipado de títulos da dívida pública foi declarada constitucional pelo Supremo Tribunal Federal (STF) na ADI 2.545, sendo, portanto, obrigatória;
+(2) o acórdão recorrido, ao afastar essa exigência com base em um juízo de proporcionalidade, violou o princípio da legalidade administrativa e criou uma situação de desigualdade entre as instituições de ensino; e
+(3) os dispositivos indicados como violados estabelecem a destinação e as condições de uso dos Certificados Financeiros do Tesouro - Série E (CFT-E), determinando que tais certificados sejam utilizados prioritariamente para o pagamento de contribuições previdenciárias e, somente após a quitação dessas obrigações, possam ser empregados para o pagamento de outros tributos ou recompra.
+Contrarrazões apresentadas às fls. 163/168.
+O recurso não foi admitido na origem, sob o fundamento de que a controvérsia envolve reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça (STJ) (fls. 180/182), o que levou à interposição do presente agravo em recurso especial (fls. 197/201).
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de agravo de instrumento interposto pelo FNDE contra decisão que concedeu parcialmente tutela provisória, determinando o pagamento de créditos referentes a serviços prestados no âmbito do Fundo de Financiamento Estudantil (FIES), independentemente da apresentação de certidão de regularidade fiscal, desde que os débitos tributários fossem objeto de parcelamento.
+Da leitura dos autos, constata-se que a parte recorrente, em seu recurso especial, visa impugnar acórdão proferido em agravo de instrumento, recurso esse interposto em razão de decisão interlocutória proferida pelo Juízo de primeiro grau por meio da qual foi parcialmente deferido o requerimento de antecipação da tutela final.
+Não é possível conhecer do recurso quanto ao ponto em razão da natureza precária da decisão impugnada.
+Incide no presente caso, por analogia, o óbice da Súmula 735 do Supremo Tribunal Federal: "não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Nessa mesma linha se pronunciou a Primeira Turma deste Tribunal:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA QUE INDEFERIU A TUTELA DE URGÊNCIA. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. INCIDÊNCIA DA SÚMULA 735/STF. PROVIMENTO NEGADO.
+1. Nos termos da Súmula 735 do Supremo Tribunal Federal, "não cabe recurso extraordinário contra acórdão que defere medida liminar", orientação que se estende às decisões que apreciam pedido de antecipação de tutela, aplicando-se, por analogia, ao recurso especial.
+2. A análise realizada em liminar ou antecipatória de tutela, na mera aferição dos requisitos de perigo da demora e de relevância jurídica, ou de verossimilhança e fundado receio de dano, respectivamente, não acarreta, por si só, o esgotamento das instâncias ordinárias, requisito indispensável à inauguração da instância especial conforme a previsão constitucional.
+3. Este Tribunal Superior admite o afastamento do enunciado sumular em questão nas hipóteses em que a concessão, ou não, da medida liminar e o deferimento, ou não, da antecipação de tutela caracterizar ofensa direta à lei federal que regulamenta esses institutos, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa, o que não é o caso dos autos.
+4. O presente caso trata do efetivo debate acerca da interpretação dos arts. 44 e 61, § 3º, da Lei 9.430/1996, o que evidencia a incidência do óbice da Súmula 735/STF, uma vez que, enquanto não advier sentença de mérito, não se consideram exauridas as instâncias ordinárias.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.894.762/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Ademais, o Tribunal de origem decidiu que não se desconhece que o Supremo Tribunal Federal já declarou a constitucionalidade do art. 12 da Lei 10.260/2001, mas considerou que (a) os débitos da parte recorrida eram de competências pretéritas e que a inadimplência recente decorreu da pandemia de Covid-19; e (b) a maior parte dos rendimentos da recorrida provém de serviços prestados via FIES, e a interrupção do pagamento poderia inviabilizar suas atividades, prejudicando estudantes e trabalhadores.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que (fl. 130):
+"o pagamento feito às mantenedoras, referentes às operações de financiamento estudantil, é realizado exclusivamente através de títulos da dívida pública (CFT-E), os quais a Lei somente autoriza utilizar para o pagamento de débitos previdenciários e, após apresentar adimplência perante esses débitos, é que poderá efetuar o pagamento dos demais tributos administrados pela Receita Federal do Brasil, nessa ordem. Somente após estar adimplentes com essas obrigações previdenciárias é que a mantenedora poderá utilizar os CFT-E para pagamentos de guias DARF e participar do processo de recompra.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
