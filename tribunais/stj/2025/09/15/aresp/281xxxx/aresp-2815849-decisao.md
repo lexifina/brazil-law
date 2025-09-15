@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 286-287):
+Apelação Cível Plano de Saúde - Sentença de parcial procedência Apelo da autora e da ré - Entidade de autogestão - Inaplicabilidade do Código de Defesa do Consumidor, a teor da Súmula 608 do STJ - Possibilidade de avaliação de eventual abusividade com amparo no princípio geral da boa- fé que rege as relações em âmbito privado Apelo da ré - Negativa de cobertura de cirurgia bariátrica, por não constar no rol dos procedimentos mínimos obrigatórios da ANS, e por se tratar de contrato anterior e não adaptado à lei 9.656/98 - Abusividade da negativa Inobstante o afastamento da aplicação da Lei 9.656/98, conforme tese firmada pelo Colendo Supremo Tribunal Federal (Tema 123), as obrigações assumidas pelos que atuam no ramo da saúde, voltam-se a garantir o direito fundamental à vida - Afastamento da restrição de cobertura que, no caso, afeta a própria natureza do ajuste firmado entre as partes - Nulidade da cláusula limitativa, se há prescrição médica apontando a necessidade do procedimento Cirurgia que se destina ao tratamento de obesidade grau III, devidamente indicada por médico - Rol da ANS que encerra coberturas obrigatórias mínimas e não pode servir de justificativa para a negativa de cobertura quando se está diante de procedimento indicado pelo médico do paciente - Aplicabilidade das Súmulas 96 e 102 do TJSP Reembolso integral - Precedentes desta Colenda Câmara de Direito Privado - Apelo da autora - Danos morais Configuração Conduta abusiva da ré que ensejou no dever de indenizar Fixação em R$ 10.000,00, em observância aos princípios da razoabilidade e proporcionalidade Precedentes jurisprudenciais - Condenação da ré ao pagamento das custas e despesas processuais, e honorários advocatícios fixados em 10% sobre o valor da condenação- Sentença reformada Recurso da autora provido e desprovido o recurso da ré -
+Rejeitados os embargos de declaração opostos (fls. 346-352).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão estadual violou o artigo 35 da Lei n. 9.656/98.
+Sustenta que, por se tratar de contrato firmado antes da vigência da Lei n . 9.656/98 e não adaptado ao seu regime, as cláusulas contratuais devem ser respeitadas com base no princípio do pacta sunt servanda e no direito ao ato jurídico perfeito, garantido pelo art. 5º, XXXVI, da Constituição Federal.
+Foram oferecidas contrarrazões ao recurso especial (fls. 542-560).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 579-581), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 672-693).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa ao artigo 1.022 do CPC, uma vez que o Tribunal de origem, ao dar provimento à apelação da autora e negar provimento à apelação da CAIXA deixou claro que (fl. 291):
+ ..  embora não se aplique, ao caso, as disposições da Lei 9.656/98, por se tratar de contrato anterior à sua vigência e a ela não adaptado, consoante tese firmada pelo Colendo Supremo Tribunal Federal no julgamento do RE nº 948.634/RS, afetado sob a sistemática da repercussão geral (Tema nº 123)17, a negativa pela não adequação ao rol da ANS, conforme argumentado pela ré, afronta a própria natureza do contrato, que tem por objetivo assegurar o uso dos meios possíveis e adequados à preservação da vida e saúde do paciente, que necessitava da referida cirurgia, por expressa indicação médica dos profissionais que a acompanhava; de outro lado, inviabiliza o direito de acesso aos avanços tecnológicos e científicos da medicina, contrariando as legítimas expectativas de contratos contínuos e de longa duração, como o são os contratos de saúde.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Além disso, a recorrente, nas razões do recurso especial, limitou-se a apontar a violação d o art. 35 da Lei n. 9.656/98, sem especificar, todavia, quais incisos, parágrafos ou alíneas foram contrariados, o que atrai a incidência do óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+5. A mera citação de dispositivos legais sem especificar os desdobramentos em parágrafos, incisos ou alíneas caracteriza deficiência de fundamentação, conforme entendimento consolidado na Súmula n. 284 do STF.
+(AgInt no AREsp n. 2.574.724/SE, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 5/5/2025.)
+1. A recorrente, nas razões do recurso especial, limitou-se a apontar a violação do art. 12 da Lei n. 9.656/1998, sem especificar, todavia, quais parágrafos, incisos ou alíneas foram contrariados, o que atrai a incidência do óbice na Súmula 284 do STF.
+(REsp n. 1.882.131/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 3/4/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
