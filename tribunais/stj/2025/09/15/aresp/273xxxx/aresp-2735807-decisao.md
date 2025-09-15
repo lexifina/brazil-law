@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado no Habeas Corpus Criminal n. 1005494-18.2024.4.01.0000 (fls. 166/193).
+No recurso especial, a parte a gravante alegou, com fundamento no art. 105, III, a e c, da Constituição Federal, violação dos arts. 240, 244, 302, I, 312 e 313, I, do Código de Processo Penal, e do art. 33, caput, c/c o art. 40, I, da Lei n. 11.343/2006, ao argumento de que a busca veicular realizada em fiscalização de rotina em região de fronteira é lícita, prescindindo de fundada suspeita, e que estão presentes os requisitos para a manutenção da prisão preventiva do agravado (fls. 209/249).
+Inadmitido o recurso na origem (fls. 268/271), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 274/291).
+O Ministério Público Federal, nesta instância, opinou pelo conhecimento do agravo e provimento do recurso especial (fls. 314/317).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada.
+A controvérsia cinge-se à legalidade da busca veicular que resultou na apreensão de aproximadamente 12,6 kg de maconha no interior de um táxi de placa boliviana, conduzido pelo agravado, em barreira policial fixa na região de fronteira entre o Brasil e a Bolívia.
+Sobre a matéria, o Tribunal de origem assim entendeu (fl. 170):
+ ..
+Portanto, pelo narrado, é possível concluir que o paciente não apresentou nenhum comportamento ou atitude suspeita, a ensejar a busca em seu veículo, que, ao que tudo indica, se deu exclusivamente em virtude de abordagem/fiscalização de rotina, como exposto no auto de prisão em flagrante (Id. 397967618 - pág. 19). Assim, considerando que a homologação da prisão em flagrante e sua posterior conversão em preventiva se deu em razão da prova da materialidade do delito - localização de 14 invólucros contendo substância análoga à maconha -, achados em razão de busca veicular desprovida de fundada suspeita, forçoso reconhecer a ilicitude das provas colhidas durante a diligência, sendo necessário o relaxamento da prisão do paciente, porquanto ilegal.
+ ..
+A jurisprudência desta Corte Superior distingue a busca pessoal, de natureza processual penal e que exige a presença de fundada suspeita (art. 244 do CPP), das inspeções de segurança, de natureza administrativa, que decorrem do legítimo exercício do poder de polícia do Estado e prescindem de tal requisito.
+Com efeito, as fiscalizações padronizadas em rodovias, especialmente em regiões de fronteira, notoriamente utilizadas para a prática de crimes transnacionais, inserem-se no contexto de inspeções de segurança, não se confundindo com a abordagem aleatória de um veículo em via urbana. A atuação policial, no caso, foi objetivamente fundamentada no local e nas circunstâncias da abordagem (barreira fixa do Gefron, veículo táxi com placa estrangeira vindo da Bolívia), sem indícios de perfilamento ou seleção subjetiva do indivíduo.
+A propósito, a Quinta Turma desta Corte, em caso análogo, decidiu (grifo nosso):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. CONTRABANDO DE CIGARROS IMPORTADOS. BUSCA VEICULAR. LICITUDE DA PROVA. REGIÃO FRONTEIRIÇA. DESNECESSIDADE DE LAUDO MERCEOLÓGICO. EXISTÊNCIA DE PROVA INDIRETA. AGRAVO DESPROVIDO.
+ ..
+4. A busca veicular foi considerada lícita, pois realizada em contexto de fiscalização de rotina em região de fronteira, onde há prevalência do interesse público na repressão à criminalidade.
+5. A atuação policial foi objetivamente fundamentada, sem indícios de perfilamento ou seleção subjetiva, atendendo aos requisitos do art. 244 do Código de Processo Penal.
+6. A origem estrangeira das mercadorias no crime de contrabando de cigarros pode ser comprovada por exame pericial indireto, uma vez que os agentes de fiscalização possuem aptidão técnica para identificar as mercadorias apreendidas, dispensando-se a realização de laudo merceológico.
+7. O convencimento dos julgadores a respeito da origem estrangeira dos cigarros se deu a partir do Boletim de Ocorrência, do Termo de Apreensão n. 0479/2020 e da Relação de Mercadorias Apreendidas, provas que foram disponibilizadas à defesa, garantindo-se o contraditório e a ampla defesa.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Teses de julgamento: "1.A busca veicular realizada em fiscalização de rotina em região de fronteira é lícita quando objetivamente fundamentada e sem indícios de seleção subjetiva. 2. A origem estrangeira das mercadorias no crime de contrabando de cigarros pode ser comprovada por exame pericial indireto, dispensando-se a realização de laudo merceológico."
+Dispositivos relevantes citados: CPP, art. 240, § 2º; CPP, art. 244.Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.624.125/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/9/2024; STJ, AgRg no AgRg no AREsp n. 2.367.946/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/8/2023.
+(AgRg no AREsp n. 2.762.687/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+No mesmo sentido: AgRg no AREsp n. 2.667.717/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/11/2024, DJe de 12/11/2024; e AgRg no AREsp n. 2.624.125/PR , relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024.
+Assim, a inspeção realizada no veículo do agravado, que culminou com a apreensão do entorpecente, constitui exercício regular do poder de polícia, sendo lícita a prova dela decorrente.
+Reconhecida a legalidade da prova, subsistem os fundamentos para a prisão preventiva do agravado, decretada para a garantia da ordem pública - em razão da gravidade concreta do delito, evidenciada pelo modus operandi (ocultação de elevada quantidade de droga em diversos compartimentos de um táxi) - e para assegurar a aplicação da lei penal, dado o risco de fuga, por se tratar de cidadão boliviano, com residência fixa na Bolívia e sem vínculos comprovados com o Brasil, preso em flagrante na região de fronteira.
+Em razão do exposto, conheço do agravo para dar provimento ao recurso especial (art. 253, parágrafo único, II, c, do RISTJ), a fim de cassar o acórdão proferido pelo Tribunal Regional Federal da 1ª Região no Habeas Corpus n. 1005494-18.2024.4.01.0000, restabelecendo a decisão do Juízo da 1ª Vara Federal da Subseção Judiciária de Cáceres/MT que converteu a prisão em flagrante do agravado em preventiva.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS. BUSCA VEICULAR. FISCALIZAÇÃO DE ROTINA. REGIÃO DE FRONTEIRA. PODER DE POLÍCIA. LICITUDE DA PROVA. PRISÃO PREVENTIVA. REQUISITOS.
+Agravo conhecido para dar provimento ao recurso especial.
