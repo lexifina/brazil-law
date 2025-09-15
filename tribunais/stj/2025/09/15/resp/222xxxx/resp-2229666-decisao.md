@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de recurso especial manejado por Rancho Bom Supermercados Ltda., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pela 8ª Câmara de Direito Civil do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 342):
+Direito civil e consumidor. Apelação cível. Ação de indenização por danos materiais e morais. Interrupção do fornecimento de energia elétrica. Sentença de procedência parcial. Recursos das partes. Provimento parcial.
+Opostos sucessivos embargos de declaração, os primeiros de fls. 354/360, foram rejeitados.
+Os embargos seguintes foram rejeitados, com aplicação de multa de 1% sobre o valor da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil, tiveram majoração dos honorários advocatícios, na forma do art. 85, § 11, do mesmo diploma legal (fls. 367/372).
+A parte recorrente aponta violação aos seguintes dispositivos:
+I - art. 85, § 11, do Código de Processo Civil, ao argumento de que a majoração dos honorários advocatícios em favor da parte recorrida foi indevida, uma vez que o recurso da autora e da ré foram parcialmente providos, o que contraria o entendimento do Superior Tribunal de Justiça no Tema Repetitivo 1.059. Acrescenta que, conforme a tese firmada, a majoração dos honorários de sucumbência pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido, o que não ocorreu no caso concreto.
+II - art. 1.026, § 2º, do Código de Processo Civil, sustentando que a aplicação de multa por embargos de declaração protelatórios foi equivocada, pois os embargos opostos visaram esclarecer ponto jurídico relevante, sem intuito de atrasar o processo. Aduz, ainda, que a imposição da multa exige demonstração objetiva de má-fé ou atraso intencional, o que não se verificou no caso concreto.
+III - arts. 186 e 927 do Código Civil, afirmando que o acórdão recorrido negou indevidamente a existência de danos morais, mesmo diante de prejuízos à imagem e à clientela da recorrente, causados pelas interrupções injustificadas no fornecimento de energia elétrica. Acrescenta que a falha no serviço comprometeu a honra objetiva da pessoa jurídica, configurando dano moral indenizável.
+IV - arts. 2º, 3º, 4º, 6º, 14 e 24 do Código de Defesa do Consumidor, ao argumento de que a relação entre as partes é regida pelo CDC, sendo a responsabilidade da recorrida objetiva, nos termos do art. 14. Aduz que o fornecimento de energia elétrica é serviço essencial e que a interrupção injustificada viola os direitos do consumidor, ensejando reparação por danos materiais e morais.
+Foram ofertadas contrarrazões às fls. 390/394
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo comporta parcial provimento.
+De início, o Tribunal local concluiu não ser caso de configuração do dever de indenizar por danos morais, firme nos seguintes fundamentos (fls. 338/340):
+3.1. Indenização por danos morais
+A parte autora busca a reforma da sentença proferida na origem, a fim de que a parte ré seja condenada ao pagamento de indenização por danos morais.
+Tal tese, contudo, não prospera.
+Para tanto, repisa-se a fundamentação constante da sentença, que se revela adequada e suficiente para equalizar o conflito:
+Lado outro, reputo incabível a condenação da parte ré ao pagamento de indenização por danos morais.
+Com efeito, não se desconhece a possibilidade de a pessoa jurídica sofrer dano moral, tema inclusive sumulado pelo STJ (Súmula n. 227). Entretanto, para que seja possível a aludida indenização, é preciso que haja uma efetiva ofensa à honra objetiva da pessoa jurídica, ou seja, um ataque ao seu nome, algo que denigra sua reputação perante terceiros, como bem explicou o Min. Ruy Rosado de Aguiar:
+"Quando se trata de pessoa jurídica, o tema da ofensa à honra propõe uma distinção inicial: a honra subjetiva, inerente à pessoa física, que está no psiquismo de cada um e pode ser ofendida com atos que atinjam a sua dignidade, respeito próprio, auto-estima etc., causadores de dor, humilhação, vexame; a honra objetiva, externa ao sujeito, que consiste no respeito, admiração, apreço, consideração que os outros dispensam à pessoa. Por isso se diz ser a injúria um ataque à honra subjetiva, à dignidade da pessoa, enquanto a difamação é ofensa à reputação que o ofendido goza no âmbito social onde vive. A pessoa jurídica, criação de ordem legal, não tem capacidade de sentir emoção e dor, estando por isso desprovida de honra subjetiva e imune à injúria. Pode padecer, porém, de ataque à honra objetiva, pois goza de uma reputação junto a terceiros, passível de ficar abalada por atos que afetam o seu bom nome no mundo civil ou comercial onde atua" (RSTJ 85/268, 4ª Turma do STJ, 9-8-1995).
+Sob tais premissas, conclui-se que a impossibilidade temporária de concretizar eventuais vendas aos clientes do supermercado não configura, automaticamente, um constrangimento que resulte no dano moral em favor da pessoa jurídica supostamente lesada, uma vez que, para a configuração do abalo a sua honra objetiva, tal informação deve se propagar vinculada negativamente à imagem da apelante, de forma que atinja seu mercado de atuação e seus efetivos ou potenciais clientes.
+In casu, segundo relatado pelas testemunhas ouvidas em juízo, ainda que os clientes da parte autora tenham se sentido incomodados com a situação, em momento algum estes expressaram qualquer tipo de indignação que pudesse ser direcionada especificamente ao supermercado - já que cientes da ausência de responsabilidade do estabelecimento comercial. Tanto é assim que alguns destes clientes chegaram a retornar após o restabelecimento da energia, concluindo então as compras que já haviam iniciado.
+Como visto, não houve qualquer elemento de prova capaz de demonstrar que a falha na prestação de serviços da parte ré tenha maculado a imagem do supermercado demandante, disseminando a ideia de má fornecedora, implicando em descrédito perante seus clientes.
+Logo, de rigor a improcedência do pedido neste particular.
+Assim, considerando que as razões externadas pelo juízo a quo são adequadas para a solução do litígio e que a parte autora não demonstrou o erro das referidas razões, rejeita-se o recurso no ponto.
+3.2. Majoração da indenização por danos materiais
+Como visto em trecho anterior do presente voto, a sentença condenou a parte ré a indenizar a parte autora por danos materiais.
+Os danos, esclarece-se, consistem no faturamento que a parte autora (pessoa jurídica do ramo de supermercados) deixou de obter (perda de atendimento a clientes e de vendas) após ter ficado sem energia elétrica, em dois dias específicos do ano de 2019, por falha no serviço prestado pela parte ré.
+A parte autora, pede, agora, a reforma da sentença, a fim de que seja majorada a indenização por danos materiais devida pela parte ré.
+O caso, antecipa-se, é de provimento.
+De fato, conforme mencionado nas razões recursais, o r. juízo a quo se equivocou ao calcular o valor da indenização por danos materiais.
+Para identificar o quanto a parte ré deve pagar, foi adotado o seguinte raciocínio: a) a parte autora ficou impedida de atender seus clientes, de forma adequada, por falta de energia elétrica, em dois dias específicos: uma sexta-feira do mês de março e um sábado do mês de abril de 2019; b) a impossibilidade de atendimento regular gerou perdas de faturamento (danos materiais); c) o valor das perdas pode ser estimado a partir do seguinte cálculo: c.1) identifica-se o valor médio de faturamento nas sextas-feiras de março e nos sábados de abril de 2019 em que o atendimento estava regular; c.2) identifica-se os valores efetivamente auferidos pela parte autora na sexta-feira de março e no sábado de abril de 2019 em que a parte ré falhou no fornecimento de energia elétrica; c.3) compara-se o valor das médias (faturamento esperado) com os valores efetivamente auferidos (faturamento prejudicado), chegando-se, assim, à diferença que deixou de ser obtida nos dias específicos em que a energia faltou.
+Ao implementar o referido critério, o juízo a quo apurou as médias de faturamento das sextas-feiras de março e dos sábados de abril de 2019. Contudo, nesse processo, levou em consideração os valores efetivamente auferidos pela parte autora nos dias em que a energia foi interrompida. Ao assim proceder, tomou-se como base de cálculo da média de faturamento "normal" valores que representam faturamentos "anormais", abaixo da média. Isso, evidentemente, faz com que as médias de faturamento sejam inferiores às devidas. Como consequência, o resultado final das operações, que representa a diferença entre as médias e os valores auferidos torna-se deficitária, fazendo com que os valores dos danos materiais indenizáveis fiquem aquém do esperado.
+Assim, a forma mais apropriada para o cálculo, é a apuração das médias de faturamento apenas com base nas sextas-feiras de março e nos sábados de abril de 2019 em que o atendimento da parte autora foi regular, sem paralisação no abastecimento da energia elétrica.
+Com isso, chega-se ao seguinte cálculo de danos materiais sofridos pela parte autora, no primeiro dia de falha na prestação de serviço da parte ré (29/03/2019):
+ ..
+Assim, o montante total da condenação fixado em primeiro grau (R$ 18.029,05) fica majorado, nos termos requeridos, para o total de R$ 22.886,00 (vinte e dois mil oitocentos e oitenta e seis reais), com os consectários fixados na sentença.
+No ponto, dá-se provimento ao recurso.
+Já em relação à majoração dos honorários o recurso comporta êxito.
+Com efeito, este Tribunal Superior possui entendimento jurisprudencial firmado no sentido de considerar indevida a fixação de verba honorária recursal no julgamento de agravo interno ou de embargos de declaração.
+Como se vê, a alteração das premissas adotadas pela Corte de origem, no sentido de que não restou configurada a mácula à imagem da parte recorrente apta a ensejar a indenização por danos morais, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, o recurso prospera.
+No caso, o acórdão arbitrou honorários recursais, em sede de embargos de declaração, em desacordo com o entendimento do Superior Tribunal de Justiça no sentido de que é incabível a majoração dos honorários recursais no agravo interno e nos embargos de declaração, uma vez que os aludidos recursos não inauguram instância recursal.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FALTA DE SIMILITUDE FÁTICO-JURÍDICA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que indeferiu liminarmente os embargos de divergência em razão da falta de similitude fático-jurídica entre os acórdãos confrontados.
+2. A parte agravante alega que houve impugnação específica do óbice da Súmula n. 7 do STJ, o que afastaria a incidência da Súmula n. 182 do STJ. Requer o provimento do agravo interno para que se reforme a decisão agravada, conhecendo-se dos embargos de divergência.
+3. A parte agravada sustenta que o agravo interno é incabível, pois já houve apreciação da matéria pelo colegiado. Requer a aplicação de multa por litigância de má-fé e a majoração dos honorários de sucumbência.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se há similitude fático-jurídica entre os acórdãos confrontados para admitir os embargos de divergência, analisando se os casos possuem elementos comuns que justifiquem a uniformização da jurisprudência;
+e (ii) saber se são cabíveis a multa por litigância de má-fé e a majoração dos honorários de sucumbência, considerando os critérios legais para penalizar a parte que age de forma temerária ou protelatória.
+III. Razões de decidir
+5. A falta de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência, que visam uniformizar a jurisprudência do Tribunal.
+6. A litigância de má-fé não se configura, pois não há insistência injustificável na utilização de recursos manifestamente protelatórios.
+7. A multa do art. 1.021, § 4º, do CPC/2015 não é automática e não se aplica quando não há manifesta inadmissibilidade do agravo interno ou litigância temerária.
+8. A interposição de agravo interno não inaugura instância, inviabilizando a majoração de honorários no julgamento de agravo interno e de embargos de declaração.
+IV. Dispositivo e tese
+9. Agravo interno desprovido.
+Tese de julgamento: "1. A falta de similitude fático-jurídica entre acórdãos confrontados impede o conhecimento dos embargos de divergência. 2. A litigância de má-fé não se configura na ausência de recursos manifestamente protelatórios. 3. A multa do art. 1.021, § 4º, do CPC/2015 não é automática e depende de manifesta inadmissibilidade do recurso ou de litigância temerária. 4. A interposição de agravo interno não inaugura instância para majoração de honorários".
+Dispositivos relevantes citados: CPC/2015, arts. 1.021, § 4º, e 81.
+Jurisprudência relevante citada: STJ, AgInt nos EAREsp n. 2.284.019/SC, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 24/9/2024; STJ, AgInt nos EDcl nos EREsp n. 2.077.205/GO, relator Ministro Marco Buzzi, Segunda Seção, julgados em 17/12/2024.
+(AgInt nos EAREsp n. 2.332.435/PR, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 13/5/2025, DJEN de 19/5/2025.)
+Adiante, o Superior Tribunal de Justiça possui firme entendimento no sentido de que a multa aplicada nos embargos declaratórios deve ser afastada no caso em que estes tenham sido opostos com nítido propósito de prequestionamento, porquanto ausente, na espécie, seu caráter protelatório, nos termos da Súmula 98 do STJ.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE DA CONCESSIONÁRIA. VAZAMENTO DE GÁS CLORO TÓXICO. QUALIFICAÇÃO DO PERITO. SÚMULA 7/STJ. EXORBITÂNCIA DA CONDENAÇÃO. SÚMULA 284/STF. COMPLEMENTAÇÃO. TARDIA DAS RAZÕES. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL E PRECLUSÃO CONSUMATIVA. CONDUTA DA VÍTIMA. RAZOABILIDADE DA REPARAÇÃO. INSURGÊNCIA QUANTO AO QUE NÃO SE DECIDIU. SÚMULA 182/STJ. PENSÃO. PREJUÍZO PERMANENTE, AINDA QUE NÃO ABSOLUTO, À CAPACIDADE LABORATIVA. VALOR EMBASADO NO SALÁRIO MÍNIMO. ASPECTO FÁTICO. JUROS. TERMO INICIAL. DANO EXTRACONTRATUAL. SÚMULA 54/STJ. ÍNDICE. TEMAS 810/STF E 905/STJ. MULTA POR EMBARGOS PROTELATÓRIOS. SÚMULA 98/STJ.
+(..)
+6. Tendo o próprio acórdão reconhecido o intuito meramente prequestionador
+dos aclaratórios opostos na origem, incide a Súmula 98/STJ (Embargos de declaração manifestados com notório propósito de prequestionamento não têm
+caráter protelatório).
+7. Agravo interno conhecido em parte e, nessa extensão, provido em parte, apenas para afastar a multa por oposição de embargos protelatórios.
+(AgInt no REsp 1824032/MS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+No caso concreto, observa-se que a parte recorrente opôs embargos declaratórios com o objetivo de viabilizar a abertura da via especial.
+Assim, na linha da firme jurisprudência do STJ, a multa imposta em razão da oposição dos aclaratórios (art. 1.026, § 2º, do CPC) deve ser afastada, nos termos da Súmula 98/STJ ("Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório.").
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, dou-lhe provimento a fim de afastar a majoração da verba honorária e a imposição de multa por litigância de má-fé, ambas impostas pelo acórdão de fls. 367/372.
+Publique-se.
+EMENTA
