@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por HAPVIDA ASSISTENCIA MEDICA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 46):
+Agravo de instrumento. Plano de saúde. Ação de obrigação de fazer c. c. indenização por danos morais. Tutela de urgência. Recurso contra decisão que deferiu a tutela de urgência, determinando que a agravante autorize e custei o exame de sequenciamento completo de DNA (Exoma) prescrito ao agravado. Preenchimento dos requisitos do art. 300, caput, do CPC. Documentação médica apresentada pelo paciente que comprova a necessidade do exame, previsto no rol da ANS para o seu caso, conforme o item 110.39 do Anexo II da Resolução Normativa nº 465/2021 da ANS. Tutela reversível. Dano à saúde do agravado que pode se mostrar permanente. Decisão mantida. Recurso desprovido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão estadual violou a Lei n. 9.656/98.
+Aduz, ainda, que o deferimento da tutela de urgência foi realizado em contrariedade aos pressupostos legais estabelecidos no artigo 300 do Código de Processo Civil.
+Foram oferecidas contrarrazões ao recurso especial (fls. 74-81).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 97-98), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 108-111).
+Instado a se manifestar, o Ministério Público opinou pelo não provimento do agravo (fls. 169-172).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Não se tem aberta esta instância especial para a análise da verificação dos requisitos da tutela provisória de urgência, seja porque necessária a reapreciação do contexto fático-probatório dos autos, incidindo o enunciado 7/STJ, seja em virtude da natureza provisória do provimento judicial (Súmula 735/STF).
+É o entendimento desta Corte Superior:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO PROFERIDA EM SEDE DE TUTELA PROVISÓRIA. NATUREZA PRECÁRIA. INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 735/STF. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial fundado na incidência da Súmula 735 do STF, sob o argumento de que a decisão recorrida possui natureza precária por ter sido proferida em sede de tutela provisória. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se é admissível recurso especial interposto contra acórdão que defere ou indefere pedido de tutela de urgência, cuja análise implica reexame de matéria fática. III. RAZÕES DE DECIDIR
+3. É inadmissível o recurso especial interposto contra decisão que aprecia pedido de tutela provisória, dada sua natureza precária, nos termos da Súmula 735 do STF.4. A jurisprudência do STJ é firme no sentido de que não se conhece de recurso especial interposto com fundamento em alegada ofensa a direito material ou processual em decisões que concedem ou indeferem tutela provisória (AREsp n. 2.709.380/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 21/3/2025).5. A pretensão recursal demanda reexame de provas quanto à presença dos requisitos autorizadores da medida antecipatória, o que encontra óbice na Súmula 7 do STJ (AgInt no AREsp n. 1.900.869/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 24/4/2024).6. O acórdão recorrido considerou elementos concretos dos autos, como laudos médicos e o risco à saúde da parte, para manter a tutela deferida, ressaltando a abusividade da negativa de cobertura sob o argumento de ausência no rol da ANS, em consonância com a jurisprudência consolidada (AgInt no AREsp n. 2.665.282/MG, relator Ministro Humberto Martins, Terceira Turma, DJe de 14/11/2024).IV. DISPOSITIVO 7. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.816.866/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. TUTELA ANTECIPADA. PENSIONAMENTO MENSAL. PEDIDO DE REVOGAÇÃO. SÚMULA N. 735/STF. TUTELA DE URGÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3.1. A Corte local concluiu que as circunstâncias do caso concreto, verificadas à época do julgamento, desautorizavam a revogação da medida liminar que impôs à agravante o pagamento da renda mensal à parte agravada, na importância de R$ 1.000,00 (um mil reais). Sem incorrer no mencionado óbice, não há como infirmar o entendimento da Corte de apelação no ponto.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.477.552/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
