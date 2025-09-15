@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EISA - EMPRESA INTERAGRÍCOLA S.A. contra a decisão que inadmitiu o recurso especial com fundamento da não demonstração de ofensa aos arts. 917, § 2º, III, do CPC e 3º da Lei n. 8.929/1994 e na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo em recurso especial não merece conhecimento, pois a agravante não impugnou os fundamentos da decisão agravada, atraindo a incidência das Súmulas n. 283 e 284 do STF. Afirma que o recurso especial busca o reexame de provas, o que encontra óbice na Súmula n. 7 do STJ. Requer, ao final, a inadmissão do agravo.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de embargos à execução.
+O julgado foi assim ementado (fls. 1.466-1.475):
+Apelação. Embargos à execução. Cédula de Produto Rural. Inaplicabilidade, à espécie, da norma consumerista. Cláusula de eleição de foro. Regularidade. Artigo 63, da lei de ritos. Ausência de cerceamento de defesa. Descabimento da invocação da teoria da imprevisão. Em que pese não se olvide a existência de fato impensável, vez que a pandemia de Covid-19, as medidas sanitárias adotadas e suas consequências, por evidente, traduzem fato imprevisível e irresistível, por outro lado, não subsistem os demais requisitos. Inexistência de onerosidade excessiva do executado e de vantagem excessiva da exequente. Impertinência da pretensão de redução da multa moratória e dos juros pactuados. Título executivo regido pela Lei n. 8.929/1994, em que é prestigiado o princípio da autonomia privada. Descabimento, por outro lado, da utilização do índice apresentado pela exequente ("Guide Zona da Mata") para a eventual liquidação financeira. Artigo 4º-A, na Lei n. 8.929/1994. Além da inexistência, no bojo da cédula sacada, de expressa indicação do índice a ser adotado para a aferição do valor do produto agrícola a ser entregue, tem-se que o índice apresentado pela parte exequente ("Guide Zona da Mata"), por se tratar de documento de produção unilateral, ostenta força probatória relativa. Substituição pelo índice elaborado pelo CEPEA-ESALQ. Recurso a que se dá parcial provimento.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 917, § 2º, III, do CPC, pois o acórdão recorrido teria alterado o índice de apuração do valor da saca de café, desconsiderando o título executivo que previa a utilização do índice "Guide Zona da Mata", usual no mercado cafeeiro;
+b) 3º da Lei n. 8.929/1994, porque a substituição do índice pelo CEPEA-ESALQ desrespeitaria a praxe do mercado e as especificações da cédula de produto rural, que é título líquido, certo e exigível.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, mantendo-se a sentença, que reconheceu a validade do índice "Guide Zona da Mata" para apuração do valor da saca de café.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento, pois a recorrente não demonstrou a violação dos dispositivos legais indicados, além de buscar o reexame de provas, o que encontra óbice na Súmula n. 7 do STJ. Requer a manutenção do acórdão recorrido e a majoração dos honorários advocatícios.
+É o relatório. Decido.
+A controvérsia diz respeito a embargos à execução em que a parte autora pleiteou o reconhecimento de onerosidade excessiva, a aplicação da teoria da imprevisão e a substituição do índice de apuração do valor da saca de café.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os embargos à execução, reconhecendo a validade do índice "Guide Zona da Mata" e condenando o embargante ao pagamento de honorários advocatícios de 10% sobre o valor da execução.
+A Corte estadual reformou parcialmente a sentença para determinar a substituição do índice "Guide Zona da Mata" pelo CEPEA-ESALQ, mantendo os demais termos da decisão.
+I - Arts. 917, § 2º, III, do CPC e 3º da Lei n. 8.929/1994
+O acórdão recorrido concluiu que o título executivo não previa expressamente o índice "Guide Zona da Mata", sendo adequado adotar o CEPEA-ESALQ, elaborado por entidade conceituada e amplamente reconhecida no mercado, consoante se depreende do trecho a seguir (fl. 1.474):
+À luz da cédula sacada, além da inexistência, em seu bojo, de expressa indicação do índice a ser adotado para a aferição do valor do produto agrícola a ser entregue, tem-se que o índice apresentado pela parte exequente ("Guide Zona da Mata"), por se tratar de documento de produção unilateral, ostenta força probatória relativa. Nesse turno, se afigura, de rigor, a adoção do índice reclamado pelo executado (CEPEA-ESALQ), elaborado por entidade conceituada na área.
+Também concluiu que o índice "Guide Zona da Mata" não atendia aos critérios de idoneidade e credibilidade exigidos pelo art. 4º-A da Lei n. 8.929/1994, sendo mais adequado o índice CEPEA-ESALQ. Observe-se (fl. 1.474):
+Com efeito, não se discute que, após a alteração legislativa promovida pela Lei n. 10.200/2001, foi introduzido o artigo 4º-A, na Lei n. 8.929/1994, que permitiu a liquidação financeira da CPR, desde que observados os seguintes critérios:
+
+II - que os indicadores de preço de que trata o inciso anterior sejam apurados por instituições idôneas e de credibilidade junto às partes contratantes, tenham divulgação periódica, preferencialmente diária, e ampla divulgação ou facilidade de acesso, de forma a estarem facilmente disponíveis para as partes contratantes.
+Como visto, o Tribunal a quo decidiu a controvérsia com base na ausência de previsão expressa no título executivo de aplicação da "Guide Zona da Mata" e na adequação do índice CEPEA-ESALQ.
+Rever tal entendimento demandaria reexame de provas, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
