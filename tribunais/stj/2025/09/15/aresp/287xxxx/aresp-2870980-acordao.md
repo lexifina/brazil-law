@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte dar-lhe provimento, nos termos do voto da Sra. Ministra Nancy Andrighi.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo em recurso especial interposto por COOPERATIVA DE CRÉDITO E INVESTIMENTO DE LIVRE ADMISSÃO AGROEMPRESARIAL - SICREDI AGROEMPRESARIAL PR/SP contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/2/2024.
+Concluso ao gabinete em: 3/4/2025.
+Ação: de execução de título extrajudicial, ajuizada por COOPERATIVA DE CRÉDITO E INVESTIMENTO DE LIVRE ADMISSÃO AGROEMPRESARIAL - SICREDI AGROEMPRESARIAL PR/SP, em face da agravada, amparada em cédula de crédito bancário.
+Decisão interlocutória: que, nos autos de ação de execução de título extrajudicial (sob o nº 0002971-82.2012.8.16.0044), rejeitou a exceção de pré-executividade apresentada pela ora agravada.
+Acórdão: deu provimento ao agravo de instrumento da parte agravada, nos termos da seguinte ementa (e-STJ fls. 611-612):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCESSO DE EXECUÇÃO. DECISÃO. NÃO CONHECIMENTO. 1. RECURSO DA EXECUTADA. ACÓRDÃO. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO. 2. EMBARGOS DE DECLARAÇÃO DA EXECUTADA. OMISSÃO. ACÓRDÃO. ACLARATÓRIOS CONHECIDOS E REJEITADOS, COM APLICAÇÃO DE MULTA POR EMBARGOS PROTELATÓRIOS. 3. RECURSO ESPECIAL PROVIDO. AFASTAMENTO DA MULTA ARBITRADA NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO E DETERMINAÇÃO DE MANIFESTAÇÃO DESTE TRIBUNAL SOBRE O MÉRITO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 4. NOVO JULGAMENTO DO AGRAVO DE INSTRUMENTO. JUROS MORATÓRIOS. LIMITAÇÃO. TESE ACOLHIDA. ABUSIVIDADE CONSTATADA. LIMITAÇÃO NO CASO A 1% AO MÊS (STJ, SÚMULA N.º 379 E ORIENTAÇÃO N.º 30 DO RESP N.º 1.061.530/RS). PRECEDENTES. DECISÃO PARCIALMENTE REFORMADA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. LIMITAÇÃO DOS JUROS MORATÓRIOS A 1% AO MÊS E CONDENAÇÃO DA EXEQUENTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS AO PATRONO DA EXECUTADA, FIXADOS EM 10% SOBRE O PROVEITO ECONÔMICO OBTIDO (CPC, ART. 85, § 2º, I A IV). 5. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO5 INCIDÊNCIA. INTELIGÊNCIA DO ART. 85, § 11, DO CPC. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Embargos de declaração: opostos pela parte agravante, foram rejeitados (e-STJ fls. 696-700).
+Recurso especial: a parte alega violação dos arts. 489, 1.022 do CPC; 28, §1º, I e III, da Lei nº 10.931/2004, bem como dissídio jurisprudencial. Sustenta que o acórdão é omisso ao não enfrentar os argumentos da recorrente, especialmente quanto à aplicação da Súmula 296/STJ, possibilitando a cumulação dos encargos remuneratórios com os juros moratórios no período da inadimplência. Assevera a validade dos encargos moratórios pactuados, não limitados a 1% ao mês, porquanto inaplicável, na hipótese dos autos, a Súmula 379/STJ, tendo em vista que o título objeto da ação executiva é uma Cédula de Crédito Bancário, regulada por legislação específica. Aduz que que o acórdão violou o artigo 927, inc. IV, do CPC, ao não aplicar a Súmula nº 296 do STJ, que permite a cumulação de encargos remuneratórios com juros moratórios no período de inadimplência (e-STJ fls. 709-729).
+Prévio juízo de admissibilidade do TJ/PR: negou seguimento ao recurso especial interposto pela agravante no que tange aos juros moratórios, com fundamento no Tema 30/STJ, bem como inadmitiu o recurso quanto à matéria remanescente, com fundamento na ausência de negativa de prestação jurisdicional e na incidência da Súmula 211/STJ (e-STJ fls. 797-802).
+Acórdão: negou provimento ao agravo interno interposto pela agravante, nos termos da seguinte ementa (e-STJ fls. 878):
+DIREITO PROCESSUAL CIVIL. DIREITO BANCÁRIO. AGRAVO INTERNO MANEJADO CONTRA NEGATIVA DE SEGUIMENTO COM BASE NO ARTIGO 1.030, INCISO I, ALÍNEA "B", DO CPC, BEM COMO INADMISSÃO A PARTIR DE ENTENDIMENTO SUMULADO. FUNDAMENTOS QUANTO À INAPLICABILIDADE DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO NÃO REGIDO POR LEGISLAÇÃO ESPECÍFICA. JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA DE 1% (UM POR CENTO) AO MÊS. ACÓRDÃO EM HARMONIA COM A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP Nº 1.061.530/RS (TEMA 30 DO STJ), JULGADO SEGUNDO O REGIME DOS RECURSOS REPETITIVOS. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda AgInt no AREsp 1.081.502/MG, Terceira Turma, DJe 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, Quarta Turma, DJe 02/03/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou quanto à possibilidade de cumulação dos encargos remuneratórios pactuados com os juros moratórios no período de inadimplência.
+Da análise do processo, constata-se que, de fato, o Tribunal estadual não analisou essa questão, em que pese tenha sido devidamente suscitada nas contrarrazões ao agravo de instrumento e nos embargos de declaração opostos pela parte agravante.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+DISPOSITIVO
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, NESSA EXTENSÃO, DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, p ara que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte agravante.
+Publique-se. Intime-se.
