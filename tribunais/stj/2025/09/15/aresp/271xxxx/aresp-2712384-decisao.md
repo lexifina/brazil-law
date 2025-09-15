@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo interposto por HATUTTERIA PADARIA E CONFEITARIA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 162):
+AÇÃO DE COBRANÇA. Contrato bancário. Renegociação de dívidas. Sentença de procedência. Recurso da ré. Alegada ausência dos contratos originários que deram ensejam à renegociação inadimplida. A peça vestibular está acompanhada dos documentos necessários para a propositura da ação de cobrança e essenciais ao julgamento da controvérsia. Cumprimento do disposto no artigo 373, I, do CPC. Precedentes. Cobrança de encargos abusivos praticados em época de pandemia. Não caracterizada. Débito devidamente comprovado pelo autor. Ausente comprovação de que houve vício de consentimento, ausência de boa-fé ou prática de publicidade enganosa. Alegações da defesa que se mostram genéricas. Sentença mantida. RECURSO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 187-192).
+No recurso especial, a parte recorrente alega, ofensa aos arts. 489, §1º, IV e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial, quanto ao seu argumento de que não houve contrato de repactuação de dívida, tendo em vista que apenas pagou uma taxa de R$ 25,00 para prorrogar o vencimento das obrigações que havia como recorrido.
+Foram oferecidas contrarrazões ao recurso especial (fls. 196-200).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 201-213), o que ensejou a interposição do presente agravo (fls. 206-213).
+Apresentada contraminuta do agravo (fls. 216-218).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O cerne da questão consiste em discutir se o TJSP não considerou os argumentos e as provas da recorrente, configurando omissão.
+Inicialmente, afasto a alegação de negativa de prestação jurisdicional e ausência de fundamentação.
+Em que pese a alegação da recorrente de que o Tribunal de origem não analisou seu argumento central - ausência de contrato de repactuação de dívida ou novação -, verifica-se que o acórdão, ao negar provimento à apelação, deixou claro que (fls. 164-169):
+O caso em testilha é de relação de insumo (entre empresas), não de consumo, porquanto o negócio foi entabulado para fomentar atividade empresarial/comercial da autora que objetiva circulação de riquezas e obtenção de lucro.
+ ..
+Na exordial a casa bancária apresentou "Proposta de Renegociação de Dívida Pagamento Parcelado" (fls. 19/22); resumo do parcelamento e dados de todos contratos renegociados (fls. 23); "Condições Gerais do Contrato Girocomp PJ" (fls.24/27) e extratos relativos à conta da requerida (fls. 28/47).
+ ..
+O pedido de improcedência da cobrança do saldo devedor da renegociação à época da Covid, com estes fundamentos dependem de prova concreta das alegações, o que não ocorreu na hipótese.
+Do mesmo modo, não comprovado vício de consentimento ou vontade, tampouco de ofensa à boa-fé objetiva por parte do apelado, muito menos, publicidade enganosa em relação à repactuação de dívidas por força da pandemia.
+Em suma, a ré não nega a dívida, nem prova a quitação, limitando-se a tecer considerações genéricas acerca do modo de sua contratação, sendo certo que os documentos anexados à petição inaugural e à réplica demonstram a dívida e o inadimplemento, conforme competia ao autor, pela aplicação das regras do ônus da prova.
+Para encerrar, a apelante não logrou êxito em desconstituir o direito do Banco apelado, desincumbindo-se do ônus previsto no art. 373, II do CPC.
+Em acréscimo, o acórdão referente aos embargos de declaração explicitou a questão da seguinte forma (fls. 189-191):
+Ao contrário do que aduz a embargante, seu fundamento para propor a demanda foi de que "a medida adotada pelo Banco é ilegal, sendo o contrato apresentado absolutamente indevido, não havendo elemento de causalidade, posto que a obrigação que exige não foi contratada, sendo escondida sob estigma de benefício de prorrogação, tendo a Ré sido induzida a erro, agindo o Banco contra o princípio da boa-fé objetiva, abusando do poderio econômico, impondo ônus excessivo, ilegal, abusando do contexto e das informações de publicidades relacionada às medidas, a fim de não induzindo a erro, conforme preceitua o inciso III do artigo 6º, parágrafos 1º e 3º do artigo 37 e inciso IV do artigo 39, todos do Código de Defesa do Consumidor, e em homenagem aos princípios da boa-fé objetiva, informação e equilíbrio das relações de consumo e que ainda se estabelecem nas relações civis contratuais em geral" (fls. 68).
+Ou seja, o contrato existe, mas alega "ter sido induzida a erro", argumento que repete insistentemente em seus recursos.
+ ..
+Repise-se: a embargante não provou qualquer vício de consentimento, não havendo, portanto, falar "que NÃO CONTRATOU repactuação com novos termos de seus débitos, mas somente pagou uma taxa módica para postergação de vencimento" (fls. 02 destes embargos).
+A relação jurídica existe e, data venia, não se mostra crível a genérica argumentação da recorrente de que pagou boleto no valor de R$.25,00 apenas para postergar o vencimento do contrato, sem renegociação das dívidas de contratos originários. Fato, ademais, não comprovado pelos elementos probatórios trazidos no processo pela autora.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo, tendo o Tribunal estadual se manifestado sobre os apontamentos da recorrente.
+Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Adicionalmente, esclareço que alterar o decidido no acórdão impugnado, no que se refere a analisar se houve má-fé de recorrido, vício de consentimento da recorrente ou qual seria o enquadramento jurídico adequado ao instrumento que possibilitou "a mera postergação do pagamento das parcelas" (fl. 179), exige o reexame de fatos e provas e interpretação das cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas n. 5/STJ e 7/STJ. Nesse sentido, cito:
+CIVIL. PROCESSUAL CIVIL. AGRAVOS EM RECURSO ESPECIAL. AGRAVOS E RECURSOS ESPECIAIS ISOLADOS. RECURSO DO EDILSON. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA IRRISÓRIO. SÚMULA N. 7 DO STJ. RECURSO DO BANCO. CARTÃO DE CRÉDITO CONSIGNADO NÃO CONTRATADO. FRAUDE. ASSINATURA FALSA. ATO ILÍCITO. DANO MORAL. CONFIGURADO. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DEMONSTRAÇÃO DO NEXO CAUSAL. REANALISAR A ALEGAÇÃO DEMANDARIA REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. Para alterar os fundamentos do acórdão quanto à validade do contrato e o dano moral, seria imprescindível a reavaliação do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, tendo em vista o teor da supracitada Súmula n. 7 do STJ.
+3. Agravo conhecidos. Recurso especial do EDILSON e do BANCO não conhecidos.
+(AREsp n. 2.905.147/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. VIOLAÇÃO DE INSTRUÇÃO NORMATIVA DO INSS. RECURSO ESPECIAL. NÃO CABIMENTO. CONTRATO DE EMPRÉSTIMO. VALIDADE RECONHECIDA. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência do STJ reconsiderada.
+2. O STJ consolidou o entendimento de que é incabível a análise de recurso especial que tenha por fundamento violação a resoluções, instruções normativas, portarias, circulares, regulamentos ou regimentos internos dos Tribunais, por não estarem tais atos normativos compreendidos na expressão "Lei Federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. No caso, o Tribunal de origem entendeu que a instituição financeira demonstrou a efetiva contratação de empréstimo bancário, tendo em vista a existência de inúmeras provas nos autos. A alteração das premissas adotadas pela Corte de origem demandaria, portanto, a análise do contexto fático-probatório, o que é inviável nesta instância especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 2.789.124/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação.
+Publique-se. Intime-se.
+ EMENTA
