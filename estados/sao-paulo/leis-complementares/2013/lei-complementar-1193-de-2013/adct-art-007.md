@@ -1,0 +1,5 @@
+Artigo 7° - Em caráter excepcional, no primeiro processo de promoção, a ser realizado no exercício de 2014, o servidor poderá concorrer da classe de Médico I para as classes de Médico II ou Médico III, desde que conte, na data da vigência desta lei complementar, com: (NR)
+I - mais de 10 (dez) anos de efetivo exercício na classe, para promoção do cargo ou função-atividade de Médico I para Médico II; (NR)
+II - mais de 20 (vinte) anos de efetivo exercício na classe, para promoção do cargo ou função-atividade de Médico I ou Médico II para Médico III. (NR)
+§ 1° - O processo de promoção de que trata o "caput" deste artigo poderá beneficiar até 100% (cem por cento) do total de servidores titulares de cargos ou ocupantes de funções-atividades integrantes da carreira de Médico, dispensada a avaliação de desempenho e títulos a que se refere o "caput" do artigo 25 desta lei complementar. (NR)
+§ 2° - A promoção de que trata o "caput" deste artigo vigorará a partir de 1° de março de 2014, cabendo aos órgãos e entidades providenciar a abertura dos respectivos processos e adotar medidas necessárias para sua concretização. (NR)

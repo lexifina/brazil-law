@@ -1,0 +1,1 @@
+Artigo 6° - Para os fins do disposto no artigo 20 desta lei complementar, ficam mantidas a quantificação das funções e a identificação das unidades caracterizadas como atividades específicas da classe de Médico e Médico Sanitarista, conforme previsto em decreto.
