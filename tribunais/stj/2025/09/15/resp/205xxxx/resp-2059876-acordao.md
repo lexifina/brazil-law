@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Maria Thereza de Assis Moura, os Srs. Ministros Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE. EXECUÇÃO. CNIB. CONSULTA PELO MINISTÉRIO PÚBLICO FEDERAL. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. A pretensão de consulta aos bens indisponíveis registrados no Cadastro Nacional de Indisponibilidade de Bens - CNIB, para viabilizar penhora, não se confunde com a pretensão de decretação da indisponibilidade de bens por esse sistema. A segunda configura medida executiva atípica; a primeira não possui essa mesma natureza.
+2. O CNIB tem o propósito de acelerar e efetivar cumprimentos de sentença envolvendo obrigações de pagar e frustrar ocultação de patrimônio em localidades diversas do foro da execução, o que se coaduna com a pretensão do Ministério Público de ter ciência das indisponibilidades decretadas contra os réus.
+3. O art. 320-B, § 4º, do Provimento CNJ n. 149/2023, na redação dada pelo Provimento n. 188, de 4/12/2024, autoriza o Ministério Público a acessar o sistema na condição de "usuário qualificado", para consultar às indisponibilidades decretadas e canceladas, pelo pressuposto interesse legítimo no acesso à informação.
+4. Recurso especial provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, recurso especial interposto por MINISTÉRIO PÚBLICO FEDER AL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA DECORRENTE DE AÇÃO DE IMPROBIDADE. PEDIDO DE INDISPONIBILIDADE DE BENS VIA CNIB. INUTILIDADE PEDIDO DE EXPEDIÇÀO DE OFÍCIOS. DESCABIMENTO.
+Sustenta a parte recorrente, em síntese: i) que a negativa de busca de informações ao CNIB não encontra justificativa, pois a busca é apenas para descobrir a existência de bens do patrimônio do devedor nos seus registros, o que é essencial para a penhora e execução da sentença (art. 829, § 2º, do CPC/2015); e ii) que o Poder Judiciário deve cooperar na realização de medidas requeridas para a execução de título judicial, evitando medidas protelatórias e abuso de direito pelos detentores de arquivos, pois o processo de execução é uma forma de utilizar o Judiciário para a realização compulsória de um ato por ele proferido (art. 829, § 2º, do CPC/2015).
+Contrarrazões apresentadas.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE. EXECUÇÃO. CNIB. CONSULTA PELO MINISTÉRIO PÚBLICO FEDERAL. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. A pretensão de consulta aos bens indisponíveis registrados no Cadastro Nacional de Indisponibilidade de Bens - CNIB, para viabilizar penhora, não se confunde com a pretensão de decretação da indisponibilidade de bens por esse sistema. A segunda configura medida executiva atípica; a primeira não possui essa mesma natureza.
+2. O CNIB tem o propósito de acelerar e efetivar cumprimentos de sentença envolvendo obrigações de pagar e frustrar ocultação de patrimônio em localidades diversas do foro da execução, o que se coaduna com a pretensão do Ministério Público de ter ciência das indisponibilidades decretadas contra os réus.
+3. O art. 320-B, § 4º, do Provimento CNJ n. 149/2023, na redação dada pelo Provimento n. 188, de 4/12/2024, autoriza o Ministério Público a acessar o sistema na condição de "usuário qualificado", para consultar às indisponibilidades decretadas e canceladas, pelo pressuposto interesse legítimo no acesso à informação.
+4. Recurso especial provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Na origem, trata-se de execução de condenação por ato de improbidade administrativa. A origem indeferiu medidas executivas atípicas, como consulta ao CNIB e expedição de ofícios a diversas entidades, por entender não demonstrar o esgotamento dos meios típicos de execução.
+O Tribunal, ao analisar o agravo de instrumento, negou provimento ao recurso, destacando a inutilidade das medidas pleiteadas e a atribuição do credor de localizar bens penhoráveis. No recurso especial, está em questão a adequação das medidas executivas atípicas e a responsabilidade do credor na localização de bens.
+O recurso especial prospera.
+O Cadastro Nacional de Indisponibilidade de Bens - CNIB tem a finalidade precípua de efetivar e acelerar a satisfação de obrigações de pagar e impedir a ocultação em outras localidades de patrimônio do réu. Nesse sentido (grifei):
+ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO. OMISSÃO. AUSÊNCIA. MULTA DO TRIBUNAL DE CONTAS. SERASAJUD. POSSIBILIDADE. CENTRAL NACIONAL DA INDISPONIBILIDADE DE BENS - CNIB. RECURSO ESPECIAL PROVIDO.
+ ..  2. A jurisprudência do STJ, alinhada ao entendimento do STF na ADI 5.941/DF, admite a adoção de medidas executivas atípicas, desde que observados os princípios da proporcionalidade e razoabilidade no caso concreto.
+3. Reforma-se o acórdão que indefere o uso da ferramenta denominada "SERASAJUD" que inclui o nome do executado nos cadastros de inadimplência, porquanto seu uso confere maior efetividade na demanda executória, não se mostrando medida desproporcional.
+4. O Provimento n. 34/2014 instituiu a Central Nacional de Indisponibilidade de Bens - CNIB com fito de propiciar uma resolução mais célere das execuções e cumprimentos de sentença que envolvam obrigações de pagar, bem como frustrar eventual ocultação de patrimônio em outros municípios ou estados da federação diversos do foro competente.
+5. Recurso especial provido (REsp n. 1.968.880/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 10/9/2024, DJe de 17/9/2024).
+Essa dupla função do CNIB se coaduna com a pretensão recursal.
+Importa aqui distinguir a execução atípica por meio de indisponibilidade de bens no CNIB, da consulta de bens já indisponíveis no cadastro que se busca penhorar. A primeira situação, decidida notadamente pelas Turmas de Direito Privado deste Tribunal (REsp 2.141.068/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/6/2024, DJe de 21/6/2024), não se confunde com a pretensão do órgão recorrente. Neste caso, já há a indisponibilidade dos bens, sendo desejado efetivar a execução por meio deles.
+Ademais, a regulação superveniente do CNIB, atualmente em vigor, admite expressamente a consulta do cadastro por membros e servidores do Ministério Público, ante o inerente e legítimo interesse no serviço prestado, mediante habilitação solicitada diretamente ao Operador Nacional do Sistema de Registro - ONR. Note que a norma permite o acesso de "membros e servidores do Ministério Público" e de "membros e servidores de órgãos públicos com legítimo interesse decorrente da natureza do serviço prestado". Isto é: traz uma presunção de legítimo interesse do MP na consulta das indisponibilidades, inclusive as canceladas.
+Transcrevo o dispositivo atual do Provimento CNJ n. 149/2023:
+Art. 320-B.  ..
+4º O cadastramento de membros e servidores do Ministério Público e/ou membros e servidores de órgãos públicos com legítimo interesse decorrente da natureza do serviço prestado, para fins de consulta, inclusive das ordens canceladas, dar-se-á mediante habilitação, a ser solicitada diretamente no sítio eletrônico do ONR, visando credenciamento com perfil de "usuário qualificado". (incluído pelo Provimento n. 188, de 4.12.2024)
+Nesse cenário, poderia se questionar até mesmo a perda de objeto da demanda. Porém, tendo em vista a existência do acórdão em sentido diverso, restringindo o acesso do recorrente neste caso, que poderia levar à oposição de acesso pelo órgão gestor do CNIB, entendo por acolher a pretensão do Ministério Público Federal.
+Isso posto, dou provimento ao recurso especial, para deferir a consulta do MP ao CNIB, inclusive por usuário qualificado próprio, nos termos do art. 320-B, § 4º, do Provimento CNJ n. 149/2023.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
