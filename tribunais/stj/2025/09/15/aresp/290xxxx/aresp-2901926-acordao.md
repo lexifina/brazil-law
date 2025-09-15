@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO UNILATERAL DO CONTRATO. PROMOÇÃO DE TELEFONIA MÓVEL. ÓBICE NAS SÚMULA 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial em ação de indenização por danos materiais decorrentes da alteração unilateral do regulamento da promoção "Pula-Pula" pela operadora de telefonia móvel.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a alteração unilateral do regulamento da promoção "Pula-Pula" pela operadora, sem anuência do consumidor, configura abusividade contratual, violando os artigos 30, 47 e 51, inciso XIII, do Código de Defesa do Consumidor.
+3. A questão também envolve a análise da possibilidade de reexame de cláusulas contratuais e do conjunto fático-probatório dos autos, em face das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+III. RAZÕES DE DECIDIR
+4. O recurso especial não foi conhecido, pois a análise das teses recursais demandaria reexame de cláusulas contratuais e do conjunto fático-probatório, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+5. A decisão de inadmissibilidade do recurso especial foi mantida, pois o recorrente não demonstrou ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias.
+IV. DISPOSITIVO
+6. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por HIGO PEREIRA CARDOSO contra decisão que inadmitiu o recurso especial.
+O acórdão recorrido tratou de uma ação de indenização por danos materiais decorrentes da alteração unilateral do regulamento da promoção "Pula-Pula" pela operadora de telefonia móvel, OI Móvel S.A., em recuperação judicial. A controvérsia central residiu na interpretação das normas que regulam a prescrição e a validade das cláusulas contratuais no âmbito do Código de Defesa do Consumidor (CDC).
+A Terceira Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, por unanimidade, deu provimento à apelação interposta por Higo Pereira Cardoso, reformando a sentença que havia reconhecido a prescrição quinquenal e extinguido o feito. A relatora, Desembargadora Fátima Rafael, destacou que a prescrição aplicável seria a decenal, conforme o artigo 205 do Código Civil, em razão da natureza contratual da pretensão de reparação de danos (fls. 452-454). No mérito, a relatora concluiu que a alteração unilateral do contrato pela operadora, que impediu a bonificação de chamadas provenientes de bônus, configurou abusividade contratual, violando os artigos 30 e 51, inciso XIII, do CDC (fls. 456-457). A decisão foi fundamentada em precedentes do Superior Tribunal de Justiça, que vedam a modificação unilateral de cláusulas contratuais em prejuízo do consumidor (fls. 455-456). Assim, o acórdão concluiu pela procedência da apelação, determinando o retorno dos autos ao juízo de origem para regular processamento do feito (fls. 457).
+Higo Pereira Cardoso interpôs Recurso Especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Nas razões do recurso, o recorrente alegou que: a) O acórdão recorrido violou os artigos 30, 47 e 51, inciso XIII, do Código de Defesa do Consumidor, ao admitir a alteração unilateral do regulamento da promoção "Pula-Pula" pela operadora, sem anuência do consumidor, configurando abusividade contratual (fls. 784-785); b) Houve negativa de vigência ao princípio da vinculação da oferta, uma vez que a bonificação das chamadas recebidas foi ofertada como elemento essencial do produto, não podendo ser suprimida unilateralmente pela operadora (fls. 786-787); c) O acórdão contrariou o artigo 47 do CDC, ao interpretar as cláusulas contratuais de forma desfavorável ao consumidor, em violação ao princípio da interpretação mais favorável ao aderente (fls. 788-789).
+Ao final, requereu o provimento do recurso especial para reformar o acórdão recorrido, declarando a nulidade da cláusula 4.1.4.1 do regulamento da promoção "Pula-Pula" e condenando a operadora ao pagamento de indenização pelos prejuízos causados (fls. 791).
+O Recurso Especial interposto por Higo Pereira Cardoso foi inadmitido (fls. 820) nos seguintes termos: a) A alegação de violação aos artigos 30, 47 e 51, inciso XIII, do Código de Defesa do Consumidor foi afastada, pois a análise das teses recursais demandaria reexame de cláusulas contratuais e do conjunto fático-probatório dos autos, o que encontra óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça (fls. 821); b) Quanto ao pedido de condenação da parte recorrida ao pagamento das custas judiciais e dos honorários advocatícios, entendeu-se que não encontra amparo nesta sede, uma vez que não foi inaugurada a instância especial pretendida pelo recorrente (fls. 821).
+Diante da decisão de inadmissibilidade, foi interposto Agravo em Recurso Especial (AREsp), impugnando os fundamentos da decisão agravada nos seguintes termos: a) A decisão agravada indevidamente afastou a violação aos artigos 30, 47 e 51, inciso XIII, do Código de Defesa do Consumidor, uma vez que o acórdão recorrido admitiu expressamente a alteração unilateral do contrato pela operadora, configurando abusividade contratual (fls. 825-826); b) A incidência das Súmulas 5 e 7 do STJ foi indevida, pois a questão debatida é eminentemente jurídica, envolvendo a correta interpretação das normas consumeristas aplicáveis ao caso (fls. 827-828). Requereu, assim, o provimento do agravo para determinar o processamento do recurso especial (fls. 838).
+É o relatório.
+EMENTA
+DIREITO CIVIL. DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO UNILATERAL DO CONTRATO. PROMOÇÃO DE TELEFONIA MÓVEL. ÓBICE NAS SÚMULA 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que inadmitiu recurso especial em ação de indenização por danos materiais decorrentes da alteração unilateral do regulamento da promoção "Pula-Pula" pela operadora de telefonia móvel.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a alteração unilateral do regulamento da promoção "Pula-Pula" pela operadora, sem anuência do consumidor, configura abusividade contratual, violando os artigos 30, 47 e 51, inciso XIII, do Código de Defesa do Consumidor.
+3. A questão também envolve a análise da possibilidade de reexame de cláusulas contratuais e do conjunto fático-probatório dos autos, em face das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+III. RAZÕES DE DECIDIR
+4. O recurso especial não foi conhecido, pois a análise das teses recursais demandaria reexame de cláusulas contratuais e do conjunto fático-probatório, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+5. A decisão de inadmissibilidade do recurso especial foi mantida, pois o recorrente não demonstrou ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias.
+IV. DISPOSITIVO
+6. Recurso especial não conhecido.
+VOTO
+O recurso é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+O recorrente alega violação aos artigos 30, 47 e 51, inciso XIII, do Código de Defesa do Consumidor, ao argumento de que a alteração unilateral do regulamento da promoção "Pula-Pula" pela operadora recorrida, sem anuência do consumidor, configura abusividade contratual
+Ao julgar o recurso de agravo de instrumento, o Tribunal de origem deixou bem ressaltado que (fls. 706/707):
+Sem razão o autor/apelante.
+Da análise dos autos, verifica-se que as partes celebraram contratos de prestação de serviços de telefonia móvel pessoal, no plano pré-pago, com adesão à promoção "Pula-Pula 2004".
+A controvérsia orbita em torno do exame sobre a possibilidade de restringir ou não a concessão de bônus das chamadas originadas de números que utilizam bônus.
+Com relação à bonificação no plano pré-pago Brasil Cartão, prevê o regulamento da promoção "Pula-Pula" (id. 30136128), in verbis:
+5.2. Considerar-se-ão para o cálculo do bônus do Plano Brasil Cartão os valores relativos às seguintes chamadas recebidas: (i) Locais de origem fixa; (ii) Locais de origem móvel; (iii) Longa Distância (nacional ou internacional de origem fixa ou de origem móvel) através de qualquer CSP; (iv) Chamadas recebidas decorrentes de: (i) Siga-me, (ii) Conferência, (iii) Transferência, ou seja, em todas as situações em que a chamada seja redirecionada e que haja cobrança da segunda chamada.  ..  5.3. Excluem-se do cálculo do bônus: (i) O recebimento de chamadas, quando o cliente estiver fora da área de cobertura da BRASIL TELECOM GSM (em roaming extra-rede); e (ii) Chamadas recebidas a cobrar.".
+Depreende-se dos dispositivos contratuais transcritos, que não há previsão para a bonificação das chamadas provenientes de bônus. Além disso, as chamadas a cobrar foram excluídas do cálculo do benefício.
+Nesse contexto, considerando a onerosidade do serviço de telefonia, pode-se concluir que a concessão de bônus está vinculada à tarifação da chamada recebida, inexistente nas chamadas originadas com bônus, sendo razoável a alegação da ré/apelada de que a bonificação ocorria por mera liberalidade.
+A partir de maio de 2005, conforme comunicado enviado a seus clientes, a ré/apelada deixou de aplicar a cumulatividade da bonificação, incluindo no regulamento da promoção o item 4.1.4.1: "(..) a bonificação será calculada com base na tarifa promocional aplicada".
+Desse modo, não se pode considerar como descumprimento contratual a não concessão de bônus da promoção "Pula-Pula", quando as chamadas são provenientes de bônus.
+Com efeito, o acórdão foi claro ao estatuir que pela análise das cláusulas contratuais não houve qualquer descumprimento por parte da recorrida.
+Dessa forma, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos e das cláusulas contratuais, procedimento incompatível com o entendimento firmado pelas súmulas 05 e 07 deste Superior Tribunal de Justiça.
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice das Súmulas 7 e 5 do STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, o que não fez. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023. Grifo Acrescido)
+As razões recursais indicam inevitável reexame de fatos e provas já que torna indispensável a análise do contrato para a verificação de suposto descumprimento contratual por qualquer das partes.
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+É o voto.
