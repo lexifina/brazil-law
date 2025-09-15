@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/09/2025 a 15/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PARTIDO POLÍTICO. FUNDO PARTIDÁRIO. IMPENHORABILIDADE. CASO DOS AUTOS. PENHORA DE RECEITAS PARTIDÁRIAS DIVERSAS DO FUNDO PARTIDÁRIO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Os recursos do fundo partidário têm natureza pública, razão pela qual são impenhoráveis (art. 833, XI, do CPC). Ademais, eles somente podem ser destinados aos fins consagrados no art. 44 da Lei nº 9.096/95. Ou seja, trata-se de verbas com vinculação específica. Precedentes.
+3. No caso dos autos, contudo, a penhora atingiu outras receitas diversas do partido, tais como as originárias de doações e de vendas de materiais de campanha, que podem ser penhoradas livremente.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por PARTIDO DOS TRABALHADORES contra decisão singular de minha lavra na qual conheci do agravo e dei parcial provimento ao recurso especial para afastar a multa por embargos protelatórios imposta pelo Tribunal de origem pelos seguintes fundamentos: a) não há falar em omissão no acórdão, mas apenas julgamento contrário aos interesses do recorrente; b) ao solucionar a controvérsia, o Tribunal de origem consignou no acórdão do julgamento do agravo de instrumento que cabível a penhora de valores decorrentes de receitas próprias do partido; c) a agremiação não pode invocar o argumento de que o bloqueio de seus valores poderá resultar na falta de pagamento de seus compromissos para tentar se eximir exatamente do cumprimento de uma de suas obrigações; d) não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento; e) a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ (fls. 429-433).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada violou o art. 854, §4º, II, do CPC/2015 e os arts. 8º e 1.026, §2º, do Código de Processo Civil/2015.
+Quanto à suposta ofensa ao art. 854, §4º, II, do CPC/2015 sustenta que houve constrição excessiva dos recursos próprios do partido, o que não foi devidamente analisado pelo Tribunal de origem.
+Argumenta, também, que a decisão monocrática não considerou a violação ao art. 8º do CPC/2015, que trata dos princípios da razoabilidade e proporcionalidade.
+Haveria, por fim, violação aos arts. 489 e 1.022, uma vez que o Tribunal de origem não teria enfrentado todos os argumentos apresentados, configurando negativa de prestação jurisdicional.
+Contraminuta ao agravo às fls. 462-480 na qual a parte agravada alega que não houve omissão no acórdão recorrido, pois a matéria foi devidamente enfrentada e fundamentada. Sustenta que a modificação das conclusões adotadas demandaria reexame de provas, o que é vedado pela Súmula 7 do STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PARTIDO POLÍTICO. FUNDO PARTIDÁRIO. IMPENHORABILIDADE. CASO DOS AUTOS. PENHORA DE RECEITAS PARTIDÁRIAS DIVERSAS DO FUNDO PARTIDÁRIO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Os recursos do fundo partidário têm natureza pública, razão pela qual são impenhoráveis (art. 833, XI, do CPC). Ademais, eles somente podem ser destinados aos fins consagrados no art. 44 da Lei nº 9.096/95. Ou seja, trata-se de verbas com vinculação específica. Precedentes.
+3. No caso dos autos, contudo, a penhora atingiu outras receitas diversas do partido, tais como as originárias de doações e de vendas de materiais de campanha, que podem ser penhoradas livremente.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de agravo de instrumento interposto contra decisão da 1ª Vara Cível de Brasília, proferida em cumprimento de sentença proveniente de ação de cobrança, na qual se determinou a penhora dos recursos próprios do Diretório Nacional do Partido dos Trabalhadores e indeferiu-se a designação de audiência de conciliação.
+Como constou na decisão ora agravada, o Tribunal de origem negou provimento ao agravo de instrumento e consignou que (i) cabível a penhora de valores decorrentes de receitas próprias do partido; e (ii) agremiação não pode invocar o argumento de que o bloqueio de seus valores poderá resultar na falta de pagamento de seus compromissos para tentar se eximir exatamente do cumprimento de uma de suas obrigações. Confira-se:
+Por outro lado, cabível a penhora de valores decorrentes de receitas próprias do partido, depositadas em conta corrente de sua titularidade.
+Isso porque, consoante decidiu o colendo STJ, no recurso especial anteriormente mencionado, tais verbas não podem ser enquadradas em quaisquer das espécies de impenhorabilidade.
+ ..
+Ademais, a especial relevância que a ordem constitucional atribuiu aos partidos políticos não permite admitir que as agremiações partidárias possam se furtar ao pagamento de seus débitos à conta apenas de tal circunstância. Além disso, a agremiação não pode invocar o argumento de que o bloqueio de seus valores poderá resultar na falta de pagamento de seus compromissos para tentar se eximir exatamente do cumprimento de uma de suas obrigações.
+À vista do exposto, dou parcial provimento ao agravo de instrumento para, confirmando a liminar anteriormente deferida, determinar o desbloqueio da integralidade dos valores constantes da conta corrente nº 5418-6, agência nº 3344-8, do Banco do Brasil S. A., mantido o bloqueio quanto aos valores decorrentes de receitas próprias do partido penhorados em conta corrente de sua titularidade  ..  (e-STJ, fls. 174/175).
+De fato, nos termos da jurisprudência desta Corte, os recursos do fundo partidário têm natureza pública, razão pela qual são impenhoráveis (art. 833, XI, do CPC). Ademais, eles somente podem ser destinados aos fins consagrados no art. 44 da Lei nº 9.096/95. Ou seja, trata-se de verbas com vinculação específica. A saber:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PARTIDO POLÍTICO. FUNDO PARTIDÁRIO. IMPENHORABILIDADE. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO NÃO
+CONFIGURADA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015 2. Os recursos do fundo partidário têm natureza pública, razão pela qual são impenhoráveis (art. 833, XI, do CPC). Ademais, eles somente podem ser destinados aos fins consagrados no art. 44 da Lei nº 9.096/95. Ou seja, trata-se de verbas com vinculação específica.
+Precedentes.3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.126.139/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COBRANÇA. SERVIÇOS PRESTADOS. PUBLICIDADE E MARKETING. ELEITORAL. CUMPRIMENTO. EXECUÇÃO DE SENTENÇA. FUNDO ESPECIAL DE FINANCIAMENTO DE CAMPANHA - FEFC. LEI Nº 13.488/2017. PENHORA. IMPOSSIBILIDADE. RECURSOS PÚBLICOS. VEDAÇÃO LEGAL. ART. 833, XI, CPC.
+1. O art. 833, XI, do CPC impõe a impenhorabilidade absoluta das verbas públicas integrantes de fundos partidários destinadas ao financiamento eleitoral.
+2. Uma vez reconhecida a natureza pública dos recursos destinados ao Fundo Especial de Financiamento de Campanha, criado pela Lei nº 13.488/2017, esse patrimônio passa a ser protegido de qualquer constrição judicial.
+3. Os partidos políticos dispõem de orçamento próprio, oriundo de contribuições de seus filiados ou de doações de pessoas físicas, que são passíveis de penhora.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.863.162/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+No caso dos autos, contudo, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela impenhorabilidade dos valores relativos ao fundo partidário e, manteve a penhora dos recursos próprios, destacando que não era possível a sua liberação em virtude da necessidade de pagamento de suas obrigações, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
