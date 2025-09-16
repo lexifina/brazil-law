@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2025 a 16/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE CUMPRIMENTO DE REGRA TÉCNICA. DIVERGÊNCIA NÃO CARACTERIZADA. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão embargado e o acórdão paradigma decidiram no mesmo sentido, exigindo a apresentação de certidões de regularidade fiscal para homologação do plano de recuperação judicial após a Lei n. 14.112/2020.
+2. A ausência de divergência jurisprudencial inviabiliza o conhecimento do recurso, comprometendo sua admissibilidade, conforme Súmula 168/STJ.
+3. Agravo interno ao qual se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto em face de decisão por meio da qual não conheci dos embargos de divergência opostos por CODISA DISTRIBUIDORA DE AUTOPEÇAS LTDA. e W1 INDÚSTRIA DE AUTOPEÇAS LTDA., ambas em recuperação judicial.
+A parte agravante, em suas razões, pede que seja exercido o juízo de retratação. Aduz que: "( ) a divergência neste recurso volta-se quanto ao entendimento acerca do marco temporal de aplicabilidade da Lei nº 14.112/20, no que concerne a exigibilidade irrestrita da apresentação de CND"s como condição à homologação do Plano de Recuperação Judicial ( )". Por fim, reitera que o dissídio jurisprudencial está presente entre o acórdão embargado e o acórdão paradigma.
+A parte agravada, regularmente intimada, quedou-se inerte (fl. 688, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE CUMPRIMENTO DE REGRA TÉCNICA. DIVERGÊNCIA NÃO CARACTERIZADA. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão embargado e o acórdão paradigma decidiram no mesmo sentido, exigindo a apresentação de certidões de regularidade fiscal para homologação do plano de recuperação judicial após a Lei n. 14.112/2020.
+2. A ausência de divergência jurisprudencial inviabiliza o conhecimento do recurso, comprometendo sua admissibilidade, conforme Súmula 168/STJ.
+3. Agravo interno ao qual se nega provimento.
+VOTO
+Observo que os argumentos desenvolvidos pelo agravante não afastam a conclusão da decisão impugnada, razão pela qual se deve negar provimento ao recurso.
+A decisão que indeferiu liminarmente os embargos de divergência está jurídica e tecnicamente correta (fls. 665/670, e-STJ):
+"Assim posta a questão, passo à análise da matéria submetida a julgamento.
+Cinge-se a controvérsia à necessidade de apresentação das certidões de regularidade fiscal para homologação do plano de recuperação judicial (na vigência da Lei 14.112/2020).
+Sabe-se que: "( ) os Embargos de Divergência possuem a finalidade de uniformizar a jurisprudência do Tribunal mediante o inarredável pressuposto de que, diante da mesma premissa fática, os órgãos julgadores tenham adotado soluções jurídicas conflitantes. Tal recurso não pode ser utilizado como meio de revisão de possível premissa equivocada do acórdão embargado, o que poderia, em tese, modificar a conclusão nele assentada" (AgRg nos EREsp n. 1.311.156/SE, relator Ministro Herman Benjamin, Corte Especial, julgado em 17/4/2013, DJe de 10/5/2013).
+No caso, contudo, o acórdão embargado e o acórdão paradigma decidiram no mesmo sentido.
+O acórdão paradigma expressamente consignou que: "a partir da entrada em vigor da Lei n. 14.112/2020 torna-se exigível a apresentação das certidões de regularidade fiscal como condição para a homologação do plano de recuperação judicial, nos termos dos arts. 57 da Lei n.11.101/2005 e 191-A do Código Tributário Nacional". Ainda destacou que, na hipótese de o plano de recuperação ter sido homologado anteriormente à Lei 14.112/2020: "aplica-se o entendimento jurisprudencial pretérito no sentido da inexigibilidade da comprovação da regularidade fiscal, forte no princípio tempus regit actum (art. 5º, XXXVI, da Constituição Federal e art. 6º da Lei de Introdução às Normas do Direito Brasileiro), de forma a não prejudicar o cumprimento do plano".
+Na hipótese do acórdão embargado, a fundamentação seguiu a mesma premissa do acórdão paradigma: "em relação aos processos de recuperação em andamento no momento da entrada em vigor da Lei n. 14.112/2020, mas ainda pendente a concessão da recuperação judicial, há de ser conferido prazo razoável pelo Juízo da recuperação para a adoção dessa providência antes de decidir sobre a concessão, tendo em vista os preceitos dos arts. 218, § 1º, do CPC/2015 e do art. 189 da Lei n. 11.101/2005". Assim, entendeu como correta a decisão do Tribunal de origem que determinou a apresentação das certidões de regularidade fiscal, já que, até a entrada em vigor da Lei 14.112/20, o plano de recuperação judicial não havia sido homologado.
+O embargante, em suas razões, menciona o REsp 2.084.986/SP como paradigma. Não preencheu, entretanto, os requisitos necessários para o conhecimento da divergência. É que não apresentou o inteiro teor do acórdão.
+Ainda que assim não fosse, a divergência também não está configurada. Em seu julgamento, a Quarta Turma manteve o mesmo fundamento acerca da exigibilidade da apresentação da certidão de regularidade fiscal: "Somente após ajuntada da certidão negativa ou comprovação de adesão ao parcelamento das dívidas fiscais, com a certidão positiva com efeitos de negativa, é que o juiz irá ou não homologar o plano de recuperação judicial aprovado em assembleia" (REsp n.2.084.986/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 12/3/2024, DJe de 26/6/2024).
+O entendimento acerca da necessidade de apresentação das certidões de regularidade fiscal, após o advento da Lei 14.112/20, quando ainda não homologado o plano de recuperação judicial, é predominante nesta Seção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. NECESSIDADE DE APRESENTAÇÃO DAS CERTIDÕES DE REGULARIDADE FISCAL. MODIFICAÇÃO DO ENTENDIMENTO JURISPRUDENCIAL. DIREITO SUBJETIVO DA PARTE INEXISTENTE. AGRAVO INTERNO DESPROVIDO.
+1. Segundo recente modificação no entendimento jurisprudencial do Superior Tribunal de Justiça, após a entrada em vigor da Lei 14.112/2020, não é mais possível  a pretexto da aplicação dos princípios da função social e da preservação da empresa vinculados no art. 47 da LRF  dispensar a apresentação de certidões negativas de débitos fiscais (ou de certidões positivas, com efeito de negativas), expressamente exigidas pelo art. 57 do mesmo veículo normativo.
+2. De acordo com esta Corte Superior, "não há direito subjetivo da parte a aplicação do entendimento jurisprudencial vigente quando da interposição do apelo nobre, porque o julgador vincula-se aos precedentes existentes no momento em que presta sua jurisdição.
+Julgados da Corte Especial" (AgInt nos EREsp 1.508.000/AL, Rel. Ministro Jorge Mussi, Corte Especial, julgado em 20/9/2017, DJe 3/10/2017).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.512.254/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Nos termos da hodierna orientação jurisprudencial adotada pelas Turmas que compõem a Segunda Seção desta Colenda Corte, com as alterações promovidas pela Lei 14.112/20 na Lei 11.101/05, "não se afigura mais possível, a pretexto da aplicação dos princípios da função social e da preservação da empresa vinculados no art. 47 da LRF, dispensar a apresentação de certidões negativas de débitos fiscais (ou de certidões positivas, com efeito de negativas), expressamente exigidas pelo art. 57 do mesmo veículo normativo, sobretudo após a implementação, por lei especial, de um programa legal de parcelamento factível, que se mostrou indispensável a sua efetividade e ao atendimento a tais princípios". (REsp n. 2.053.240/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2023, DJe de 19/10/2023.). Incidência do enunciado contido na Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 2.110.542/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. Como consequência das alterações legislativas promovidas pela Lei 14.112/20, este Superior Tribunal de Justiça firmou o entendimento no sentido de reconhecer a imprescindibilidade da apresentação de certidões negativas de débitos fiscais, reputadas essenciais para o deferimento do pedido de soerguimento. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.688.296/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/11/2024, DJEN de 29/11/2024.)
+Portanto, não há divergência entre o acórdão embargado e o acórdão paradigma. Os acórdãos seguem o mesmo entendimento e decidiram no mesmo sentido.
+O embargante pretende, na realidade, um novo julgamento do recurso especial. Ou seja: "pretende a parte rever possível premissa equivocada do acórdão embargado, o que somente seria possível mediante novo julgamento do Recurso Especial, medida incabível no âmbito dos Embargos de Divergência" (EAg 1.298.040/RS, Rel. Ministro Ari Pargendler, Corte Especial, DJe 12/8/2013).
+Portanto, não está configurada a divergência suscitada pelo embargante.
+Em face do exposto, não conheço dos embargos de divergência".
+A argumentação da agravante não afasta o entendimento desta Corte. O acórdão embargado e o acórdão paradigma decidiram no mesmo sentido, exigindo a apresentação de certidões de regularidade fiscal para homologação do plano de recuperação judicial após a Lei n. 14.112/2020. Não há divergência jurisprudencial apta a ensejar embargos de divergência. Inclusive, o embargante não apresentou o inteiro teor do acórdão paradigma, não preenchendo os requisitos necessários para o conhecimento da divergência.
+Não há divergência jurisprudencial apta a ensejar embargos de divergência, portanto. Nesse contexto, de acordo com a Súmula 168/STJ, sabe-se que: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Logo, não se vislumbra o necessário dissídio para fins de embargos de divergência. A jurisprudência do STJ posiciona-se pelo não conhecimento de embargos de divergência quando o embargante não se desincumbe de comprovar o dissídio:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃOS PARADIGMAS E EMBARGADO QUE NÃO DECIDIRAM A MESMA QUESTÃO JURÍDICA. AUSÊNCIA DE DIVERGÊNCIA
+JURISPRUDENCIAL A SER SANADA.
+1. A admissão dos embargos de divergência está condicionada à comprovação do dissídio jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, inexistente na hipótese dos autos.
+2. Agravo interno não provido.
+(AgInt nos EREsp n. 1.840.754/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 13/11/2024, DJEN de 5/3/2025).
+Portanto, a ausência de divergência jurisprudencial inviabiliza o conhecimento do recurso, comprometendo sua admissibilidade. A decisão recorrida não merece reparo.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
