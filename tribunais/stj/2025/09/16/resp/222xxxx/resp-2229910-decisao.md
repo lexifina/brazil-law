@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO. DILAÇÃO PROBATÓRIA. DESNECESSIDADE. CONJUNTO PROBATÓRIO SUFICIENTE.
+1. Admitida em nosso direito, por construção doutrinária e jurisprudencial, a exceção de pré-executividade é uma forma de defesa do devedor no âmbito do processo de execução, independentemente de qualquer garantia do Juízo, e que pode ser utilizada desde que o direito do devedor seja aferível de plano, mediante exame das provas produzidas desde logo. Inteligência da Súmula 393/STJ.
+2. Tratando-se de matéria que necessita de dilação probatória, não é cabível a exceção de pré-executividade, devendo o executado valer-se dos embargos à execução, os quais, para serem conhecidos, exigem a prévia segurança do Juízo, através da penhora ou do depósito do valor discutido.
+3. A doutrina e a jurisprudência emanada de nossos Pretórios têm admitido, em sede de exceção de pré-executividade, o exame de questões envolvendo os pressupostos processuais e as condições da ação, assim como as causas modificativas, extintivas ou impeditivas do direito do exequente, desde que comprovadas de plano, mediante prova pré-constituída.
+4. A alegação de prescrição, desde que comprovada de plano, é passível de análise em sede de exceção de pré-executividade.
+5. In casu, a apelada apresentou a exceção de pré-executividade alegando a ocorrência da prescrição do crédito tributário. Em sentença, o magistrado de primeiro grau bem apreciou a matéria prescricional, destacando os termos inicial e final para fins de contagem do prazo.
+6. A União não suscitou, seja em resposta à exceção de pré-executividade, seja em seu recurso de apelação, a existência de qualquer causa suspensiva/interruptiva da fluência do lapso prescricional.
+7. Considerando-se a suficiência do conjunto probatório constante dos autos da execução fiscal, bem como a fundamentação abalizada do decisum de primeiro grau, verifica-se possível a aferição da prescrição na via de exceção de pré-executividade, sendo desnecessária qualquer dilação probatória ou mesmo o ajuizamento de embargos à execução fiscal.
+8. Precedente : AI 5029080-69.2018.4.03.0000 https://pje2g. trf3. jus. br/pje/seam/resource/rest/pje-legacy/documento/download/313617663 , Rel. Desembargador Federal ANDRE NABARRETE NETO, QUARTA TURMA, julgado em 20/07/2021, publicado no DJEN de 27/07/2021).
+9. Apelação desprovido.
+No presente recurso especial, o recorrente apontou violação de dispositivos de lei federal.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022, II, do CPC/15.
+De fato, o recorrente apresento u questão jurídica relevante, qual seja, a ausência da manifestação da Corte de origem acerca da alegação de que não houve, na Exceção de Pré-Executividade ora em exame, a juntada do processo administrativo pelo contribuinte, fator que, nas razões do recorrente, é capaz de obstar a averiguação de causas suspensivas ou interruptivas do prazo prescricional.
+Dessa forma, verifica-se que, apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/15, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. Napoleão Nunes Maio Filho, Dje de 23/8/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 18/4/2016.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+EMENTA
