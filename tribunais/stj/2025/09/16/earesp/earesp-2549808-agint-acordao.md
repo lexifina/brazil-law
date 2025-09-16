@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2025 a 16/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze e Sérgio Kukina votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA.
+1. A admissibilidade dos embargos de divergência exige a existência de similitude fática e jurídica entre o acórdão embargado e os paradigmas indicados, o que não se verifica na espécie
+2. No caso concreto, o acórdão embargado afastou a prescrição prevista no art. 174 do CTN, com base na Súmula 106 do STJ, reconhecendo a existência de falha imputável ao Poder Judiciário, que deixou de ordenar a citação regularmente requerida. Por sua vez, o acórdão paradigma da Primeira Turma (AgRg no AREsp n. 31.391/PE) atribuiu, à parte exequente, a responsabilidade pela demora na citação. Já o acórdão da Primeira Seção (REsp n. 1.340.553/RS) versou sobre prescr ição diversa, prevista no art. 40 da LEF, não havendo identidade jurídica com o caso dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ORÍGENES FERREIRA DE ARAÚJO RAMOS, contra decisão de minha lavra, constante às e-STJ fls. 515/519, por meio da qual, reconhecendo a ausência de similitude fática e jurídica, indeferi liminarmente os embargos de divergência, nos quais a parte agravante sustenta a existência de dissenso interno quanto ao reconhecimento da prescrição em sede de execução fiscal.
+Nas razões recursais (e-STJ fls. 528/535), o agravante afirma que, ao contrário do que foi decidido, os acórdãos indicados como paradigmas  AgRg no AREsp n. 31.391/PE e REsp n. 1.340.553/RS  apresentam similitude fática com o caso em exame.
+Defende a ocorrência da prescrição da pretensão executiva, com fundamento tanto no art. 174 do CTN quanto no art. 40 da LEF, apresentando os seguintes argumentos:
+(i) a citação ocorreu após o transcurso de mais de cinco anos desde os fatos geradores;
+(ii) a ausência de citação dentro do prazo quinquenal decorreu de negligência do exequente;
+(iii) tanto a citação executiva quanto a diligência requerida pela Fazenda foram realizadas após o decurso do prazo prescricional;
+(iv) entre a intimação da Fazenda Pública acerca da ausência de citação, em 2006, e sua efetivação, em 2021, não houve nenhumadiligência por parte do Fisco.
+A parte agravada apresentou impugnação ao recurso (e-STJ fls. 540/544).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA.
+1. A admissibilidade dos embargos de divergência exige a existência de similitude fática e jurídica entre o acórdão embargado e os paradigmas indicados, o que não se verifica na espécie
+2. No caso concreto, o acórdão embargado afastou a prescrição prevista no art. 174 do CTN, com base na Súmula 106 do STJ, reconhecendo a existência de falha imputável ao Poder Judiciário, que deixou de ordenar a citação regularmente requerida. Por sua vez, o acórdão paradigma da Primeira Turma (AgRg no AREsp n. 31.391/PE) atribuiu, à parte exequente, a responsabilidade pela demora na citação. Já o acórdão da Primeira Seção (REsp n. 1.340.553/RS) versou sobre prescr ição diversa, prevista no art. 40 da LEF, não havendo identidade jurídica com o caso dos autos.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+De acordo com o art. 266 do Regimento Interno do Superior Tribunal de Justiça, cabem embargos de divergência para rever acórdão proferido em recurso especial, quando a tese jurídica por ele adotada, de direito material ou processual (§ 2º), for diversa da tomada em causa semelhante (§ 1º) por outro Órgão fracionário do Tribunal (caput) ou, ainda, pelo mesmo Órgão, cuja composição tenha sofrido alteração em mais da metade de seus membros (§ 3º) e desde que os acórdãos confrontados sejam de mérito (inciso I) ou que um seja apreciado pelo mérito e que o outro seja, embora não tenha conhecido do recurso, efetivamente apreciado pela controvérsia (inciso II).
+Compete, ao embargante, demonstrar o dissenso alegado por meio da comprovação da existência do aresto paradigma indicado e do devido cotejo analítico entre os julgados comparados, identificando as premissas fáticas e jurídicas que os identifiquem (§ 4º).
+Entretanto, na hipótese, reitero que parte embargante não se desincumbiu desse ônus, pois o acórdão embargado e os arestos apontados como paradigmas não guardam similitude fática e jurídica.
+Explico.
+O acórdão embargado afastou a prescrição com amparo na Súmula 106 do STJ, considerando, para tanto, que a paralisação do processo se deu por ato de responsabilidade exclusiva do Poder Judiciário, que deixou de ordenar a citação requerida pela parte exequente. Confira-se:
+No acórdão recorrido, o Tribunal a quo entendeu que a ação foi ajuizada dentro do prazo legal, e que não teria ocorrido a prescrição intercorrente, pois a demora na efetivação da citação decorreu de mora do Judiciário, e não do exequente, nos seguintes termos (fl. 110):
+Na hipótese vertente, não se observa inércia atribuível ao exequente. Da leitura dos autos, verifica-se que a execução foi instaurada em 27/09/2002, fundada nas certidões de dívida ativa n. 0100637205, 0101145543, 0102412138 e 0102660255, tendo a constituição do crédito mais antiga ocorrido em 07/06/2000, de sorte que a execução foi ajuizada no prazo prescricional de 5 (cinco) anos.
+Considerando o insucesso da citação inicial da parte demandada (ID 15155193), o Distrito Federal, por meio da petição de ID 15155205, datada de 11/10/2006, pugnou por nova tentativa de citação do executado, para a qual não houve despacho citatório do Juízo, permanecendo o feito paralisado até o ano de 2019.
+Nesse contexto, incabível a aplicação de prescrição intercorrente na medida em que eventual paralização do processo executivo não pode ser atribuída a desídia por parte do exequente, mas unicamente ao Poder Judiciário.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação ao art. 1.022, II, parágrafo único, II, do CPC.
+Lado outro, a extinção do crédito tributário pela prescrição decorre de uma inércia da parte qualificada pelo tempo, que, no caso em tela, segundo o juízo a quo, não ocorreu. O Tribunal local consignou que a demora processual decorreu da expedição do despacho citatório pela juízo de 1º grau, afastando alegação de que o ente público tenha demorado na provocação do juízo.
+O entendimento assentado pelo Tribunal de origem está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual, nas hipóteses em que o despacho citatório ainda não foi proferido, é incabível falar em ocorrência de prescrição, sendo aplicável o Enunciado Sumular 106 do STJ.
+Necessário frisar que a lei processual civil estabelece que, embora o processo comece por iniciativa da parte, deve se desenvolver por impulso oficial (art. 262 do CPC/1973; e art. 2º do CPC/2015). Inclusive, o atual Código de Processo Civil fixa prazo para que o Judiciário efetive o ato em até 45 dias (art. 238, parágrafo único, do CPC/2015). Uma vez indicado o endereço da parte, não se está, portanto, diante de ato que dependa de atuação da parte, e sim dos mecanismos judiciais.
+Em oportunidade anterior, o STJ já examinou o tema, afastando peremptoriamente a prescrição na hipótese em que ficar consignado que o juízo competente não proferiu o despacho citatório (AgRg no AR Esp 425.986/DF, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 23/6/2015, DJe de 1º/7/2015).
+Já no aresto paradigma da Primeira Turma (AgRg no AREsp n. 32.391/PE) ficou consignado que, naqueles autos, o acórdão recorrido reconheceu a responsabilidade da parte exequente na demora da citação do executado e que a revisão dessa compreensão encontraria óbice na Súmula 7 do STJ. Vide:
+(..) no caso dos autos, o acórdão recorrido à fl. 60e, expressamente consigna que "a demora na citação deve ser imputada ao exequente que não diligenciou no sentido de indicar o correto endereço do executado".
+Conforme sólida jurisprudência desta Corte, firmada no julgamento REsp 1.102.431/RJ, Rel. Min. LUIZ FUX, Primeira Seção, DJe 1º/2/2010, representativo de controvérsia, "a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 7/STJ".
+Em relação ao aresto que julgou o REsp n. 1.340.553/RS, melhor sorte não tem a parte embargante, visto que o acórdão embargado não decidiu sobre a prescrição de que trata o art. 40 da LEF.
+Reitero: "os embargos de divergência não constituem um novo recurso ordinário, de efeito meramente infringente, que permita o simples rejulgamento do recurso especial em face de alegado equívoco de cognição acerca do suporte fático da causa pela Turma Julgadora" (AgInt nos EREsp n. 1.421.487/SP, de minha relatoria, Primeira Seção, DJe 29/11/2016).
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1.""Os embargos de divergência no Superior Tribunal de Justiça constituem a última etapa da uniformização jurisprudencial, e pressupõem casos idênticos ou assemelhados tais como dimensionados no acórdão embargado e no acórdão indicado como paradigma" (EREsp 1.177.349/ES, Corte Especial, Rel. Min. Ari Pargendler, DJe de 29.5.2013)" (AgInt nos EAREsp n. 1.079.777/ES, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 26/4/2024). Nesse mesmo sentido: AgInt nos EREsp n. 1.756.098/RS, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 26/4/2024.
+2. Também é importante frisar que "os embargos de divergência não servem para corrigir eventual erro de julgamento do recurso especial, decorrente de adoção de suposta premissa fática equivocada, como se fosse um novo recurso ordinário. Em face disso, não é possível pela via estreita deste recurso revisar eventual desacerto do acórdão embargado na aplicação da tese jurídica adotada à realidade do caso concreto. Nesse sentido: AgRg nos EREsp 1.126.442/MG, Rel. Ministro João Otávio de Noronha, Corte Especial, julgado em 07/05/2012, DJe 18/05/2012; EREsp 908.790/RN, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 03/09/2012; EREsp 1.045.978/RS, Rel. Ministro Humberto Martins, Primeira Seção, DJe 13/10/2010" (AgRg nos EAg n. 1.371.722/SP, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 30/10/2012).
+3. Hipótese em que inexiste similitude fático-jurídica entre os acórdãos confrontados.
+4. Agravo a que se nega provimento.
+(AgInt nos EREsp n. 2.042.799/RS, relator Ministro Sérgio Kukina, Primeira
+Seção, julgado em 1/10/2024, DJe de 7/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISSENSO NÃO CARACTERIZADO. AUSÊNCIA DE SIMILITUDE FÁTICA. ALEGAÇÃO DE ERRO DE PREMISSA PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DE CORREÇÃO EM SEDE DE EMBARGOS DE DIVERGÊNCIA. AGRAVO DESPROVIDO.
+1. Os embargos de divergência não se prestam para a alteração das premissas que levaram à decisão embargada.
+2. A finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como novo recurso ordinário nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido quando do julgamento do apelo especial.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.750.179/AM, relator Ministro João Otávio de Noronha,
+Segunda Seção, julgado em 28/5/2024, DJe de 4/6/2024.)
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
