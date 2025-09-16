@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCIANA APARECIDA DE ALMEIDA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Revisão Criminal nº 1.0000.23.192240-2/000).
+Na peça, a defesa informa que a paciente foi condenada às penas de 18 anos e 4 meses de reclusão em regime inicial fechado, 6 meses de detenção em regime inicial semiaberto e ao pagamento de 23 dias-multa, como incursa nos arts. 121, § 2º, I, IV e VI, § 2º-A, I e II, c/c art. 211, c/c art. 14, II, e art. 347, todos do Código Penal (fl. 2).
+A defesa sustenta que houve cerceamento de defesa, uma vez que a paciente foi assistida por defensor dativo nomeado apenas 12 dias antes do julgamento, o que comprometeu a preparação adequada da defesa, especialmente em um caso complexo que envolvia dois réus e diversas provas e testemunhas (fls. 2-3). Alega que a conversa telefônica entre o juiz do Tribunal do Júri e o defensor dativo, registrada em certidão emitida pelo próprio juiz, comprova a limitação imposta ao defensor, que informou que só poderia estar presente no dia do julgamento, impossibilitando a preparação adequada da defesa (fls. 2-3).
+Afirma que a ausência de provas suficientes para comprovar a participação da paciente no crime reforça a necessidade de sua absolvição, conforme o art. 386, inciso VII, do Código de Processo Penal (fls. 3, 6-7). Alega ainda que a negativa do pedido de revisão criminal pelo Tribunal de Justiça de Minas Gerais desconsiderou aspectos fundamentais do direito à defesa e foi baseada em análise superficial (fl. 3).
+A defesa também questiona a imparcialidade do julgamento, argumentando que a comunicação direta entre o juiz e o defensor dativo, sem a presença das partes, comprometeu o devido processo legal e o direito de defesa da paciente, configurando nulidade do processo nos termos do art. 564, inciso I, do Código de Processo Penal (fls. 7-8).
+Requer a concessão da revisão criminal em favor da paciente, a anulação do julgamento anterior, com a consequente realização de novo julgamento e a produção de todas as provas admitidas em direito, especialmente a oitiva de testemunhas, juntada de documentos e realização de perícias, se necessário (fl. 10).
+É o relatório. DECIDO.
+Verifico que os autos não foram suficientemente instruídos, pois a parte sequer juntou aos autos a cópia do ato judicial proferido pelo Tribunal local (revisão criminal), nem da sentença condenatória, estando, portanto, deficiente a instrução do feito.
+A orientação firmada no âmbito desta Corte é no sentido de que constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+" ..
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória; desse modo, é cogente ao impetrante apresentar elementos documentais suficientes que permitam aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+2. Compulsando os autos, constato que das 443 páginas que instruem o writ, não consta a cópia da sentença condenatória, o que impossibilita a correta compreensão do caso e, por conseguinte, o exame da suposta ilegalidade. Precedentes.
+ .. " (AgRg no HC 834755/MS, Relator Ministro REYNALDO SOARES DA FONSECA, 5ª Turma, DJ-e de DJe 14/08/2023)
+Anoto que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011 p. 298).
+Por essa razão, firmou-se a jurisprudência desta Corte Superior no sentido de que é ônus do impetrante a correta instrução dos autos, no momento do protocolo da impetração ou da interposição do recurso ordinário, sob pena de não conhecimento.
+No caso, a deficiência de instrução inviabiliza a análise da questão atinente ao mérito do habeas corpus .
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
