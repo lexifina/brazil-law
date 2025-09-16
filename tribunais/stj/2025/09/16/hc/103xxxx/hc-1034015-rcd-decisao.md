@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de simples pedido de reconsideração apresentado pela defesa de ALFREDO ALEXANDER RASPA DA SILVA, no qual reafirma a necessidade de concessão excepcional da ordem de liminar, reiterando o mérito da impetração.
+Ao final, requer, nas seguintes palavras: "seja RECONSIDERADA a decisão que indeferiu a medida liminar, A DEFERINDO PARA SOBRESTAR/SUSPENDER o curso da ação penal originária (autos nº 1515419-56.2024.8.26.0224) até o julgamento de mérito do writ - ocasião em que o Colendo Colegiado provavelmente reconhecerá a teratologia e/ou o abuso perpetrado contra o ora Paciente -, consignado-se a efetiva presença dos requisitos autorizadores, isto é, o fumus boni juris (constatável a partir da atenta leitura da, permissa venia, deficiente e precária inicial acusatória) e o periculum in mora (em razão da injusta inserção da Paciente ao banco dos réus e audiência aprazada para o dia 24 de setembro de 2025, em dissociada relação ao delito previsto no art. 312, caput, do Código Penal, agravando-se a violação do status dignitatis, bem como pela demora do julgamento do presente writ) para tanto. Grife-se: não há risco de prescrição e ou decadência próxima, não há implicado preso e não há corréu na ação penal, inexistindo óbice para o acautelamento da situação diante da situação periclitante retratada. Em assim fazendo, estará Vossa Excelência e essa Colenda Corte Superior estarão, mais uma vez, praticando a mais lídima, adequada e esperada JUSTIÇA!!" (fl. 173).
+É o breve relatório. DECIDO.
+Conforme se apreende, a defesa não trouxe razões aptas à reforma da decisão anterior, que, analisando a situação concreta posta nesta Corte Superior, enfrentou a matéria - embora sob os limites da própria impetração e do momento em que se encontra a demanda.
+Ante o exposto, julgo improcedente o pedido de reconsideração.
+Cumpra-se o determinado à fl. 158.
+Publique-se. Intimem -se.
+EMENTA
