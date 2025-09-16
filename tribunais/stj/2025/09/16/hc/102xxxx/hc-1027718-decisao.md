@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de CLECIO DOS SANTOS LIMA, no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (apelação criminal nº 001239-59.2010.8.02.0001).
+Consta dos autos que o paciente foi condenado pela prática do crime descrito no art. 121, § 2º, incisos II e IV, do Código Penal, à pena de 22 (vinte e dois) anos e 9 (nove) meses de reclusão, em regime inicial fechado.
+O trânsito em julgado do acórdão aqui insurgido na origem ocorreu em 06/05/2025, conforme informação prestada pelo Tribunal de Justiça do Estado de Alagoas, à fl. 179.
+A impetração data de 16/8/2025 (fl. 2).
+A defesa sustenta que a condenação do paciente padece de nulidade absoluta, uma vez que se fundamenta exclusivamente em testemunhos por ouvir dizer e que judicializada a prova todas as testemunhas/declarantes não confirmam a participação do paciente no crime.
+Defende a necessidade de superação da coisa julgada frente à nulidade absoluta e ao erro judiciário manifesto.
+Requer, que "seja concedida a ordem para cassar a sentença (8ª Vara criminal de Maceió/AL, processo 0001239-59.2010.8.02.0001) e o acórdão (Câmara Criminal do TJAL, nos mesmos autos), reconhecendo o erro cometido nos dispositivos judiciais ao condenar um inocente sem qualquer prova, com o fito de absolvê-lo com a concessão da ordem" (fl. 13).
+Informações, às fls. 165-170; 171-175 e 177-183.
+O MPF oficiou pelo não conhecimento do habeas corpus, às fls. 186-190.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível nulidade da condenação do paciente.
+No entanto, o presente habeas corpus foi impetrado contra acórdão com trânsito em julgado. Diante disso, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+ ..  Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional  ..  Agravo regimental desprovido. (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+De todo modo, não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Como se observa do acórdão (fls. 19-21):
+ ..  13. Sendo assim, os jurados, no momento da quesitação, confirmaram que a parte apelante foi autor do delito de homicídio qualificado pelo motivo fútil e mediante recurso que dificultou a defesa da vítima, com fulcro nos incisos II e IV do §2º do art. 121 do Código Penal.
+14. Deste modo, no acervo probatório constante dos autos, não se identifica a manifesta incompatibilidade entre a decisão dos jurados e a prova contida nos autos, haja visa que todos os elementos probatórios produzidos no curso da instrução probatória foram apresentados aos jurados durante a sessão plenária e serviram para formar o convencimento dos jurados, de acordo com o princípio da íntima convicção.
+15. Portanto, considerando o sigilo das votações e a adoção do sistema da íntima convicção, não há a necessidade de fundamentação da decisão dos jurados. Isto posto, "não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados" (E Dcl no AR Esp n. 1.843.371/PR, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª Turma, julg. em 21/6/2022, D Je em 24/6/2022)" (STJ, AgRg no HC 766049/MT, Rel. Min. Teodoro Silva Santos, 6ª Turma, julg. em 12/03/2024, D Je em 21/03/2024).
+16. Desta maneira, nos termos da jurisprudência do Supremo Tribunal Federal, "a suficiência (ou não) de um único depoimento para a prolação do juízo condenatório é matéria constitucionalmente afeta ao tribunal do júri e infensa à reforma pelo tribunal de justiça, ao qual não cabe a valoração da prova" (STF, Rcl 29.621 AgR/MT, Rel. Min. Luiz Fux, julg. em 25/06/2019, D Je em 30/09/2019).
+17. Isto posto, o Conselho de Sentença concluiu pela condenação da parte ora apelante, acolhendo a tese principal da acusação, sem conflitar manifestamente com as provas dos autos e, por isso, não é permitido a este Tribunal, no julgamento do recurso, se imiscuir na decisão dos jurados, sob pena de ofensa ao seu livre convencimento e a soberania dos veredictos.  ..
+18. A materialidade e autoria delitivas encontram-se amparadas nos depoimentos colhidos na fase inquisitorial e em audiência de instrução e julgamento e mostram-se suficientes para sustentar a decisão.
+19. Outrossim, não há a ofensa ao art. 155 do Código de Processo Penal, uma vez que, baseado no acervo probatório constante destes autos, a decisão não foi fundamentada exclusivamente em elementos informativos colhidos na investigação, mas o depoimento da testemunha ouvida na fase do inquérito policial, à fl. 10 destes autos, foi reforçado pelas provas produzidas em contraditório judicial, conforme depoimento testemunhal, à fl. 349.
+Então, "as provas inicialmente produzidas na esfera inquisitorial e reexaminadas na instrução criminal, com observância do contraditório e da ampla defesa, não violam o art. 155 do Código de Processo Penal - CPP visto que eventuais irregularidades ocorridas no inquérito policial não contaminam a ação penal dele decorrente" (STJ, Informativo em Teses nº 105 - Provas no Processo Penal).
+20. Por todo exposto, conheço do presente recurso de apelação criminal, para, no mérito, negar-lhe provimento. (grifei)
+Corroborando:
+ ..  A pretensão acerca de que as provas produzidas são indiciárias exigiria o reexame minucioso do conjunto probatório apresentado nos autos. Isso porque o tribunal de origem afirmou que as provas reunidas, sob o crivo do contraditório e ampla defesa, são suficientes para comprovar a autoria atribuída ao recorrente. Assim, inafastável a incidência da Súmula 7/STJ  ..  (AgRg nos EDcl no AREsp n. 2.355.580/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
