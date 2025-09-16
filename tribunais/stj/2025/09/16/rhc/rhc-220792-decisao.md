@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por JOAO PEDRO BRAN PEREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do Habeas Corpus Criminal n. 5052808-77.2025.8.24.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 6/4/2025, posteriormente convertido em prisão preventiva, pela suposta prática do crime tipificado no art. 33, caput, da Lei n. 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fls. 175/176):
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PACIENTE DENUNCIADO PELA APONTADA PRÁTICA DO CRIME DE TRÁFICO DE DROGAS  ART. 33, CAPUT, DA LEI 11.343/06 . ALEGADO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MÁCULA NÃO OBSERVADA. PACIENTE PRESO DESDE 06.04.2025. INSTRUÇÃO QUE AGUARDA LAUDO DE EXTRAÇÃO DOS DADOS DOS CELULARES APREENDIDOS. PROVA IMPRESCINDÍVEL. AUSÊNCIA DE DEMORA EXCESSIVA. PRAZO RAZOÁVEL E PROPORCIONAL ÀS PECULIARIDADES. PRISÃO PREVENTIVA. REQUISITOS AUTORIZADORES PRESENTES. RISCO À ORDEM PÚBLICA EXTRAÍDO DAS CIRCUNSTÂNCIAS DO FLAGRANTE. INDÍCIOS DE ENVOLVIMENTO COM ORGANIZAÇÃO CRIMINOSA. APREENSÃO DE DROGAS VARIADAS (30,6G DE COCAÍNA, 24,9G DE CRACK E 2,3G DE MACONHA), DINHEIRO EM ESPÉCIE (R$ 784,20) E DE UM SIMULACRO DE ARMA DE FOGO. DECISÃO CONSTRITIVA DEVIDAMENTE FUNDAMENTADA. PRECEDENTES. CONDIÇÕES PESSOAIS QUE NÃO IMPEDEM A SEGREGAÇÃO. SUBSTITUIÇÃO POR MEDIDAS ALTERNATIVAS IMPOSSÍVEL. NECESSIDADE DA PRISÃO QUE AFASTA A TESE QUE DISCUTE O ESTADO DE COISAS INCONSTITUCIONAL DO SISTEMA PENAL. ORDEM DENEGADA."
+Nas razões do presente recurso, a defesa alega, preliminarmente, a ocorrência de excesso de prazo na formação da culpa, em razão da demora na juntada do laudo de extração dos dados dos celulares apreendidos. Sustenta que tal circunstância caracteriza constrangimento ilegal à liberdade do recorrente, especialmente considerando que a instrução probatória foi encerrada e a única pendência seria essa diligência, que estaria a prolongar indevidamente a custódia cautelar.
+Aduz, ainda, que não estariam presentes os requisitos autorizadores da prisão preventiva, asseverando que não há demonstração concreta do periculum libertatis. Destaca que a gravidade abstrata do delito não é suficiente para justificar a medida extrema e que os elementos constantes dos autos não evidenciam risco concreto à ordem pública ou à instrução criminal.
+Assere que o recorrente possui condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, o que afastaria a necessidade da prisão cautelar. Argumenta que, mesmo em caso de eventual condenação, a pena não seria cumprida em regime fechado, o que tornaria desproporcional a manutenção da prisão preventiva.
+Argui, ainda, que a prisão preventiva não observou o princípio da proporcionalidade e da razoabilidade, pois o juiz não teria fundamentado de forma suficiente a impossibilidade de aplicação de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP.
+Requer, em liminar e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+Liminar indeferida (fls. 193/195).
+Informações prestadas pelo Juízo de primeiro grau (fls.198/200) e pelo Tribunal de origem (fls. 205/209).
+Parecer do Ministério Público Federal pelo provimento do recurso (fls. 251/257).
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Após impetração do presente writ, conforme andamento processual colhido no site do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (eproc), em 29/08/2025, nos autos de nº 5001233-40.2025.8.24.0126, o Juízo de primeiro grau proferiu sentença condenando o paciente JOAO PEDRO BRAN PEREIRA, ao cumprimento da pena privativa de liberdade de 1 ano e 8 meses de reclusão, em regime inicialmente aberto, além de 166 dias-multa, em razão da prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido revogada a prisão cautelar do paciente e expedido o competente alvará de soltura.
+Nesse contexto, no que se refere a legalidade da prisão cautelar do ora paciente, as situações determinantes da presente impetração não mais subsistem, estando esvaído o objeto da presente demanda.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o pedido do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
