@@ -1,0 +1,59 @@
+Decisão
+
+    Trata-se de Ação Penal autuada em face de RENATA APARECIDA FERREIRA DE OLIVEIRA, julgada procedente, para CONDENAR A RÉ à pena de 1 (um) ano de reclusão e 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional, em regime inicial aberto para o início do cumprimento da pena, pois incurso nos artigos:
+
+    - 286, parágrafo único (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais), do Código Penal, à pena de 20 (vinte) dias-multa, cada dia-multa no valor de 1/2 (meio) salário mínimo nacional.
+
+    - 288 (associação criminosa), do Código Penal, à pena de 1 (um) ano de reclusão.
+
+    Foi substituída a pena privativa de liberdade, nos termos do artigo 44, § 2º, do Código Penal, por penas restritivas de direitos, consistentes em:
+
+    - (i) Prestação de serviços à comunidade ou a entidades públicas, pelo total de 225h (duzentas e vinte e cinco horas), observados os limites mensais de cumprimento no mínimo de 30h (trinta horas), em local a ser indicado pelo juízo de execução;
+
+    - (ii) Participação presencial em curso, elaborado pelo Ministério Público Federal, com temática sobre “Democracia, Estado de Direito e Golpe de Estado”, com carga horária de 12h (doze horas), distribuída em 4 (quatro) módulos de 3h (três horas), a ser ministrado pelo juízo da execução;
+
+    - (iii) Proibição de ausentar-se da Comarca em que reside, até a extinção da pena;
+
+    - (iv) Proibição de utilização de redes sociais, até a extinção da pena;
+
+    - (v) Manutenção da suspensão dos passaportes emitidos pela República Federativa do Brasil, em nome da condenada;
+
+    - (vi) Revogação de registro ou porte de arma de fogo, se existente;
+
+    - (vii) 20 (vinte) dias-multa, cada um no valor de 1/2 (meio) salário mínimo à época dos fatos, pela prática do crime previsto no artigo 286, parágrafo único, do Código Penal (incitação ao crime equiparada pela animosidade das Forças Armadas contra os Poderes Constitucionais).
+
+    A ré também foi condenada ao pagamento do valor mínimo indenizatório a título de danos morais coletivos de R$ 5.000.000,00 (cinco milhões de reais), a ser adimplido de forma solidária pelos demais condenados, em favor do fundo a que alude o art. 13 da Lei 7.347/1985.
+
+    Foi fixado o regime aberto para o início do cumprimento da pena. O acórdão condenatório transitou em julgado em 8/2/2025 (eDoc. 99).
+
+    Em 24/2/2025, determinei o início do cumprimento da pena, delegando ao Juízo da 12ª Vara Federal da Seção Judiciária do Ceará a competência para a imediata determinação das providências cabíveis (eDoc. 100).
+
+    A Defesa da apenada requereu, em 16/9/2025, a detração do período da prisão preventiva da pena que lhe foi impostas (eDoc. 142).
+
+    É o breve relato. DECIDO.
+
+    Dispõe o art. 66, inciso III, “c”, da Lei 7.210/1984 que, compete ao Juiz da execução decidir sobre detração e remição da pena.
+
+    É possível a detração de pena em relação ao período de prisão preventiva cumprida pela requerente, nos termos do art. 42 do Código Penal, de modo que compatível o instituto da detração e as penas restritivas de direitos, em uma interpretação analógica, in bonam partem, uma vez que o réu teve a pena privativa de liberdade substituída por penas restritivas de direitos, nos termos do art. 44, §2º, do Código Penal.
+
+    Além disso, não se descuida que havendo descumprimento injustificado da pena substitutiva imposta, a pena restritiva de direitos será convertida em privativa de liberdade, conforme disposto no artigo 44, §4º, do Código Penal, e que, com base no mesmo preceito, “no cálculo da pena privativa de liberdade a executar será deduzido o tempo cumprido da pena restritiva de direitos, respeitado o saldo mínimo de trinta dias de detenção ou reclusão”.
+
+    No caso dos autos, verifico que a ré esteve presa preventivamente de 9/1/2023 (eDoc. 2) a 8/3/2023 (Pet 10.820/DF, eDoc. 14.644, ID: 1131b89f), de modo que o período a ser descontado a título de detração é de 58 (cinquenta e oito) dias.
+
+    Diante do exposto, nos termos do art. 21, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL HOMOLOGO, para fins de detração, um total de 48 (cinquenta e oito) dias, alcançando a prestação de serviços à comunidade ou a entidades públicas, devendo ser considerada 1 (uma) hora de serviço prestado por cada dia detraído, nos termos do art. 46, §3º, do Código Penal.
+
+    OFICIE-SE ao Juízo da 12ª Vara Federal da Seção Judiciária do Ceará com cópia da presente decisão, para conhecimento e adoção das medidas pertinentes.
+
+    Ciência à Procuradoria-Geral da República.
+
+    Intimem-se os advogados regularmente constituídos.
+
+    Publique-se.
+
+    Brasília, 16 de setembro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
