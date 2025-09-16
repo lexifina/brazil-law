@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Luiz Fernando Silva Costa contra o acórdão proferido pela Sétima Câmara Criminal do Tribunal de Justiça de Minas Gerais que denegou o Habeas Corpus n 1.0000.25.303398-9/000, mantendo a prisão preventiva imposta ao recorrente pelo Juízo de Direito da Vara Criminal e da Infância e da Juventude da comarca de Campo Belo/MG, pela suposta prática dos crimes de tráfico de drogas e desobediência.
+O recorrente alega que a decisão que decretou a prisão preventiva é genérica e desproporcional; afirma ser primário, de bons antecedentes, com residência fixa e ocupação lícita; destaca que a quantidade de drogas apreendidas é pequena e sem indícios concretos de mercancia; e sustenta que medidas cautelares diversas seriam suficientes para resguardar a ordem pública, nos termos do art. 319 do CPP.
+Requer, assim, o provimento do recurso, para revogar a prisão preventiva, considerando a possibilidade clara de imposição de cautelares substitutivas (fl. 313).
+É o relatório.
+Infere-se dos autos que o recorrente foi preso em flagrante na BR-354, após desobedecer ordem de parada, fugir em alta velocidade, por aproximadamente 10 km, realizando manobras perigosas, como ultrapassagens em faixa contínua, e arremessar sacola com 27 buchas de maconha e 19 papelotes de skank, tendo a prisão sido convertida em preventiva diante da gravidade da conduta, da periculosidade e da necessidade de garantia da ordem pública.
+O Tribunal de Justiça de Minas Gerais, ao apreciar o habeas corpus, entendeu que a decisão de primeiro grau se encontrava devidamente fundamentada, ressaltando que a gravidade concreta do delito, o modus operandi empregado e os indícios de mercancia justificavam a manutenção da prisão preventiva.
+Cumpre registrar que o Superior Tribunal de Justiça possui jurisprudência pacífica no sentido de que a prisão preventiva deve subsistir quando amparada em fundamentos concretos que evidenciem a real necessidade da medida, como verificado no caso em exame.
+Nesse sentido: AgRg no HC n. 991.746/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025; e AgRg no RHC n. 208.217/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E DESOBEDIÊNCIA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. FUGA EM ALTA VELOCIDADE, DESOBEDIÊNCIA À ORDEM DE PARADA E ARREMESSO DE DROGAS. PERICULOSIDADE DO AGENTE. INDÍCIOS DE MERCANCIA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso improvido.
