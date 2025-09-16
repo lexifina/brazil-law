@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por AGILDO CEZARIO DE FARIAS, com fundamento no art. 105, inciso II, alínea b, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado (fl. 151):
+MANDADO DE SEGURANÇA. Previdenciário e Processual Civil. Servidor Público Estadual Aposentado. Preliminar de Improcedência Sumária. Confusão Meritória. Descongelamento de VPNI. Lei Complementar n. 58/2003. Pagamento pelo valor nominal absoluto. Precedentes desta Corte de Justiça. Inexistência de direito adquirido a Regime Jurídico. Entendimento consolidado no STF. SEGURANÇA DENEGADA.
+1. Esta Corte de Justiça decidiu que o adicional por tempo de serviço, que vinha sendo percebido pelos servidores públicos estaduais civis por força dos arts. 160, I, e 161, da Lei Complementar n. 39/1985, teve seu valor nominal absoluto validamente congelado somente em 30 de dezembro de 2003, quando entrou em vigor a Lei Complementar n. 58/2003, passando, a partir de então, a ser pago no importe nominal verificado naquela data sob o título de vantagem pessoal.
+2. Os servidores públicos não têm direito adquirido a regime jurídico, segundo a jurisprudência consolidada da Suprema Corte.
+3. Não havendo provas de ilegalidade no ato atacado, bem como de eventual direito líquido e certo, a denegação da segurança é medida que se impõe.
+Não foram opostos embargos de declaração.
+A parte recorrente alega o seguinte (fls. 175/176):
+ ..  a revisão geral anual é um direito subjetivo previsto na Constituição Federal aos servidores públicos e agentes políticos, objetivando promover a reposição de perdas financeiras provocadas pela desvalorização da moeda, decorrente de efeitos inflacionários relativas ao período de um ano.
+Portanto, não é forçoso destacar que o objeto da presente demanda tem finalidade única o reajuste de gratificações e vantagens pecuniárias já incorporadas e transformadas em Vantagem Pessoal (VPNI), que resguarda seu fundamento no art. nº 191, § 1º da LC 58/2003 (Estatuto dos Servidores Públicos) e nos artigos nº 37, X e 40, § 8º ambos da Constituição Federal, que determinam ser dever da União, dos Estados e Municípios a aplicação dos reajustes gerais anuais.
+ ..
+No caso do Recorrente, o próprio processo parâmetro que serviu como documento comprobatório comprova que o pedido do Recorrente tem em seu direito material a revisão geral, concedida aos servidores públicos nos moldes do art. 37, X e no art. 40, § 8º da Constituição Federal, não se confundindo com pedido de descongelamento.
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 180/191).
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 271/275).
+É o relatório.
+Na origem, trata-se de mandado de segurança impetrado por Agildo Cezário de Farias objetivando a aplicação dos índices de reajuste geral anual às vantagens pessoais incorporadas aos seus proventos de aposentadoria, transformadas em VPNI, diante de ato atribuído ao Presidente da Paraíba Previdência (PBPREV).
+O Tribunal de origem, ao analisar a controvérsia, afirmou que (fls. 154/159):
+Em que pese o inconformismo do impetrante, a segurança deve ser denegada, por inexistir direito líquido e certo a ser amparado.
+In casu, o impetrante, servidor público civil estadual aposentado busca a atualização (descongelamento) da VPNI - Vantagem Pessoal Nominalmente Identificada.
+Sem razão, contudo.
+Com efeito, faz-se necessário destacar que, por força do contido no art. 2º, parágrafo único, da Lei Complementar Estadual nº 50/2003, o pagamento da verba em questão ficou mantido na forma praticada em março de 2003. Confira:
+Lei Complementar Estadual n. 50/2003 - Art. 2º - É mantido o valor absoluto dos adicionais e gratificações percebidos pelos servidores públicos da Administração direta e indireta do Poder Executivo no mês de março de 2003.
+Parágrafo único. Excetua-se do disposto no "caput" o adicional por tempo de serviço, cuja forma de pagamento permanece idêntica à praticada no mês de março de 2003.
+Posteriormente, com a vigência da Lei Complementar Estadual nº 58/2003, que trata do atual Estatuto dos Servidores Civis Públicos do Estado da Paraíba, ficou estabelecido que todos os acréscimos incorporados aos vencimentos dos servidores ficariam congelados pelo seu valor nominal e seriam reajustados anualmente, § 2º do art. 191, ex vi:
+Lei Complementar Estadual n. 58/2003 - Art. 191.  .. .
+§ 2º - Os acréscimos incorporados ao vencimento dos servidores antes da vigência desta Lei continuarão a ser pagos pelos seus valores nominais a título de vantagem pessoal, sendo reajustados de acordo com o art. 37, inciso X, da Constituição Federal.
+Logo, percebe-se claramente a alteração sofrida pelo regime jurídico dos servidores públicos estaduais, os quais passaram todas as demais gratificações como vantagens pessoais, cujos pagamentos estabeleceram-se em valor nominal.
+Considerando tais mudanças, tem-se que o Impetrante não faz jus ao descongelamento da verba pleiteada ou mesmo ao pagamento dos valores retroativos, visto que o período reclamado é integralmente posterior à vigência da LC nº 50/2003, até mesmo em razão da prescrição quinquenal.
+Ademais, como cediço, o servidor público não possui direito adquirido a regime remuneratório, preservando-se, apenas, a irredutibilidade dos vencimentos, como ocorreu no caso em análise.
+ ..
+Esta Corte de Justiça tem decidido pela legalidade do congelamento das vantagens e gratificações após a LC nº 50/2003, confirmada pela LC nº 58/2003, que apenas estabeleceu novas regras para o pagamento das referidas verbas percebidas pelos servidores públicos estaduais, sem causar-lhes redução nos vencimentos.
+Inclusive, o Plenário deste Tribunal de Justiça da Paraíba, no Incidente de Uniformização de Jurisprudência nº 0003296-17.2015.815.0000, firmou entendimento no sentido de legalidade do congelamento do adicional por tempo de serviço a partir de dezembro de 2003, isto é, pela possibilidade de pagamento da verba sob a denominação de "vantagem pessoal" e considerando o valor nominal verificado naquela data, consoante se observa do seguinte julgado:
+ ..
+Ademais, foi editada a Lei Complementar nº. 73/2007, a qual acrescenta e modifica dispositivos da Lei Complementar nº. 58/2003, e dá outras providências.
+Infere-se que as modificações introduzidas pela referida norma tiveram o condão de corrigir distorções na forma de remunerar o pessoal inativo do Estado da Paraíba. A LC nº. 73/2007, nesse aspecto, transformou as vantagens incorporadas por força do art. 154 da LC nº. 39/85, com a redação da LC nº. 41/86, em Vantagem Pessoal Nominalmente Identificada - VPNI.
+Da dicção da referida norma, pode-se até concluir que houve um congelamento das vantagens pessoais incorporadas à remuneração dos servidores segurados, mas não houve redução de proventos ou mesmo extinção de parcelas remuneratórias em hipótese alguma.
+Destarte, as vantagens incorporadas, v. g., a VPNI - Vantagem Pessoal Nominalmente Identificada, as quais foram congeladas em seus valores nominais, conforme disposição do art. 191, § 2º da Lei Complementar nº. 58/03, são reajustadas de acordo com o que determina o art. 37, X, da CF, ou seja, mediante determinação legal proveniente de lei, em sentido estrito, ressalvada a iniciativa privativa em cada caso.
+Acrescenta-se que o Supremo Tribunal Federal já sumulou entendimento (Súmula 339) no sentido de que "não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia."
+Destarte, não havendo provas da ilegalidade do ato imputado e do direito líquido e certo do impetrante, a denegação da segurança é medida que se impõe.
+Ante o exposto, DENEGO a segurança.
+Da leitura do excerto acima transcrito, é possível extrair que a Lei Complementar estadual 58/2003 dispôs expressamente que os acréscimos incorporados ao vencimento dos servidores continuariam a ser pagos pelos valores nominais e reajustados de acordo com o reajuste anual previsto no art. 37, X, da Constituição Federal.
+Quanto ao tema, o Supremo Tribunal Federal, no julgamento do RE 563.965/RN (Tema 41), sob o regime de repercussão geral, pacificou entendimento de que não há direito ao regime jurídico de revisão em relação ao direito adquirido na forma de reajuste de gratificação incorporada na hipótese em que ausente expressa previsão legal, exatamente a hipótese dos presentes autos.
+Transcrevo abaixo a ementa do precedente qualificado:
+DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+3. Recurso extraordinário ao qual se nega provimento. (RE 563965, Relator(a): CÁRMEN LÚCIA, Tribunal Pleno, julgado em 11- 02-2009, REPERCUSSÃO GERAL - MÉRITO D Je-053 DIVULG 19-03-2009 PUBLIC 20-03-2009 EMENT VOL-02353-06 PP-01099 RTJ VOL-00208-03 PP-01254).
+O Superior Tribunal de Justiça (STJ), ao analisar caso semelhante, seguindo o entendimento firmado pelo STF, reconheceu a inexistência de direito líquido e certo de servidor ao reajuste de VPNI.
+Confira-se:
+ADMINISTRATIVO. PROCESSUAL CIVIL. S ERVIDOR PÚBLICO ESTADUAL. VPNI. POSTULAÇÃO DE NULIDADE REVISÃO DE REAJUSTE. PLEITO CONTRÁRIO À EXPRESSA DETERMINAÇÃO LEGAL ESTADUAL. TEMA FIXADO EM REPERCUSSÃO GERAL. INEXISTÊNCIA DE LIQUIDEZ E CERTEZA DO DIREITO POSTULADO.
+1. Recurso ordinário interposto contra o acórdão no qual se concedeu em parte a ordem mandamental para reconhecer o direito de servidor inativo perceber incorporada VPNI - Vantagem Pessoal Nominalmente Identificada -, denegando sua postulação contra o ato que firmou ilegal o reajuste anterior dado por paridade à gratificação recebida por servidor da ativa.
+2. Está claro que o ato administrativo que determinou o reajuste por isonomia estava eivado por vício de ilegalidade, pois contrariava a expressa determinação do parágrafo único do art. 191-A da Lei Complementar Estadual 58/2003 (Regime Jurídico Único dos Servidores Públicos Civis do Estado da Paraíba): "A VPNI de que trata o caput deste artigo está desatrelada e não mais vinculada, a partir da vigência desta Lei, aos valores atribuídos à parcela que originou a sua incorporação ao patrimônio financeiro do servidor, bem como suas posteriores correções e atualizações e somente sujeitando-se às revisões gerais de remuneração dos servidores públicos estaduais de que trata o inciso X do art 37 da Constituição Federal".
+3. O tema do direito adquirido ao modo de reajuste de gratificação incorporada (Tema 41) já foi pacificado no Supremo Tribunal Federal, em sede de repercussão geral, quando consignou que, em não havendo expressa previsão legal, não é possível haver direito ao regime jurídico de revisão. Nesse caso, o modo de reajuste é aquele previsto no art. 37, X, da Constituição Federal, ou seja, a revisão geral: RE 563.965/RN, Relatora Min. Cármen Lúcia, Tribunal Pleno, publicado no DJe-053 em 20.3.2009 e no Ement. vol. 2353-06, p. 1099 e na RTJ vol. 208-03, p. 1.254.
+Recurso ordinário improvido.
+(RMS n. 44.662/PB, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/11/2015, DJe de 1º/12/2015.)
+Assim, constato a ausência de direito líquido e certo do servidor.
+Nesse sentido, cito ainda as seguintes decisões monocráticas: RMS 72.575, relatora Ministra Regina Helena Costa, DJe 2/2/2024; RMS 72.691, relatora Ministra Regina Helena Costa, DJe 2/ 2/2024.
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
