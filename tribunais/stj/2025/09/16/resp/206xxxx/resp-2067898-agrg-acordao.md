@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Quebra de fiança. Descumprimento de medida cautelar. Fixação de nova fiança. Recurso improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo acórdão do Tribunal Regional Federal da 4ª Região que confirmou a quebra de fiança e determinou o recolhimento de nova contracautela em razão do descumprimento de medida cautelar de monitoramento eletrônico.
+2. O agravante sustenta: (i) ausência de dolo na conduta, alegando desconhecimento dos limites geográficos entre os municípios de Goiânia/GO e Aparecida de Goiânia/GO; (ii) desproporcionalidade da medida de quebra de fiança e do valor fixado para sua recomposição (R$ 242.400,00), em suposta violação ao art. 282, II, do Código de Processo Penal; e (iii) ilegalidade da determinação de "recomposição" da fiança, por ausência de previsão legal nos artigos 343 e 350 do CPP.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se: (i) o descumprimento de medida cautelar de monitoramento eletrônico, mesmo sem dolo, configura quebra de fiança; (ii) o valor fixado para nova fiança é proporcional e adequado às circunstâncias do caso; e (iii) a determinação de nova fiança após a quebra da anterior encontra respaldo legal.
+III. Razões de decidir
+4. A concessão de liberdade provisória mediante cautelares impõe ao acusado o dever de diligência na observância das condições impostas, sendo sua responsabilidade exclusiva certificar-se dos limites geográficos de circulação.
+5. A quebra de fiança por descumprimento de medida cautelar independe da análise do elemento subjetivo (dolo ou culpa), bastando o descumprimento objetivo da condição imposta, conforme o art. 341, III, do CPP.
+6. O valor fixado para a nova fiança foi devidamente fundamentado, observando os critérios do art. 326 do CPP, considerando a natureza dos crimes imputados, a suspeita de participação em organização criminosa de elevado poder econômico, as circunstâncias indicativas de periculosidade e as condições pessoais do acusado.
+7. A determinação de nova fiança após a quebra da anterior encontra respaldo no art. 282, § 4º, do CPP, que autoriza o magistrado a substituir a medida cautelar tornada ineficaz por outra de mesma natureza, visando restabelecer o vínculo processual.
+8. A imposição de nova fiança foi a solução menos gravosa ao status de liberdade do réu, em comparação às alternativas previstas no art. 282, § 4º, do CPP, como a cumulação de medidas ou a decretação de prisão preventiva.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O descumprimento de medida cautelar de monitoramento eletrônico configura quebra de fiança, independentemente da análise do elemento subjetivo (dolo ou culpa).
+2. A fixação de nova fiança após a quebra da anterior encontra respaldo no art. 282, § 4º, do CPP, visando restabelecer o vínculo processual.
+3. O valor da fiança deve observar os critérios do art. 326 do CPP, considerando a natureza do crime, as circunstâncias do caso e as condições pessoais do acusado.
+Dispositivos relevantes citados:CPP, arts. 282, § 4º; 326; 341, III; 345.
+Jurisprudência relevante citada:Não há jurisprudência relevante citada no documento.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por LUIZ HENRIQUE BOSCATTO contra decisão monocrática que negou provimento ao seu Recurso Especial (e-STJ fls, 206-209).
+A decisão recorrida manteve o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que confirmou a quebra de fiança e a determinação de recolhimento de nova contracautela em razão do descumprimento de medida cautelar de monitoramento eletrônico.
+O agravante, em suas razões, busca a reforma da decisão, sustentando, em síntese: a) a ausência de dolo na conduta, alegando que a violação da área de monitoramento se deu por desconhecimento acerca dos limites geográficos, que seriam confusos entre seu município de residência (Goiânia/GO) e o município vizinho (Aparecida de Goiânia/GO); b) a desproporcionalidade da medida de quebra da fiança e do valor fixado para sua recomposição (R$ 242.400,00), em suposta violação ao art. 282, II, do Código de Processo Penal; c) a ilegalidade da determinação de "recomposição" da fiança, por ausência de previsão legal nos artigos 343 e 350 do CPP, argumentando que o magistrado criou uma hipótese não prevista em lei, em vez de seguir as alternativas do art. 282, § 4º, do mesmo diploma (e-STJ fls. 213-224).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Quebra de fiança. Descumprimento de medida cautelar. Fixação de nova fiança. Recurso improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, mantendo acórdão do Tribunal Regional Federal da 4ª Região que confirmou a quebra de fiança e determinou o recolhimento de nova contracautela em razão do descumprimento de medida cautelar de monitoramento eletrônico.
+2. O agravante sustenta: (i) ausência de dolo na conduta, alegando desconhecimento dos limites geográficos entre os municípios de Goiânia/GO e Aparecida de Goiânia/GO; (ii) desproporcionalidade da medida de quebra de fiança e do valor fixado para sua recomposição (R$ 242.400,00), em suposta violação ao art. 282, II, do Código de Processo Penal; e (iii) ilegalidade da determinação de "recomposição" da fiança, por ausência de previsão legal nos artigos 343 e 350 do CPP.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se: (i) o descumprimento de medida cautelar de monitoramento eletrônico, mesmo sem dolo, configura quebra de fiança; (ii) o valor fixado para nova fiança é proporcional e adequado às circunstâncias do caso; e (iii) a determinação de nova fiança após a quebra da anterior encontra respaldo legal.
+III. Razões de decidir
+4. A concessão de liberdade provisória mediante cautelares impõe ao acusado o dever de diligência na observância das condições impostas, sendo sua responsabilidade exclusiva certificar-se dos limites geográficos de circulação.
+5. A quebra de fiança por descumprimento de medida cautelar independe da análise do elemento subjetivo (dolo ou culpa), bastando o descumprimento objetivo da condição imposta, conforme o art. 341, III, do CPP.
+6. O valor fixado para a nova fiança foi devidamente fundamentado, observando os critérios do art. 326 do CPP, considerando a natureza dos crimes imputados, a suspeita de participação em organização criminosa de elevado poder econômico, as circunstâncias indicativas de periculosidade e as condições pessoais do acusado.
+7. A determinação de nova fiança após a quebra da anterior encontra respaldo no art. 282, § 4º, do CPP, que autoriza o magistrado a substituir a medida cautelar tornada ineficaz por outra de mesma natureza, visando restabelecer o vínculo processual.
+8. A imposição de nova fiança foi a solução menos gravosa ao status de liberdade do réu, em comparação às alternativas previstas no art. 282, § 4º, do CPP, como a cumulação de medidas ou a decretação de prisão preventiva.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O descumprimento de medida cautelar de monitoramento eletrônico configura quebra de fiança, independentemente da análise do elemento subjetivo (dolo ou culpa).
+2. A fixação de nova fiança após a quebra da anterior encontra respaldo no art. 282, § 4º, do CPP, visando restabelecer o vínculo processual.
+3. O valor da fiança deve observar os critérios do art. 326 do CPP, considerando a natureza do crime, as circunstâncias do caso e as condições pessoais do acusado.
+Dispositivos relevantes citados:CPP, arts. 282, § 4º; 326; 341, III; 345.
+Jurisprudência relevante citada:Não há jurisprudência relevante citada no documento.
+VOTO
+Antecipo que o recurso é manifestamente improcedente, ou seja, análise detida das razões recursais revela não apenas a ausência de novos argumentos capazes de infirmar a decisão agravada, mas também reforça a correção e a legalidade dos atos judiciais questionados. Passo a rechaçar, pormenorizadamente, cada um dos pontos levantados.
+O argumento de que o descumprimento se deu por erro ou desconhecimento da exata fronteira entre os municípios não comporta guarida.
+Com efeito, a concessão da liberdade provisória mediante cautelares é um benefício que impõe ao acusado um dever qualificado de cuidado. A responsabilidade de se certificar, com absoluta diligência, sobre os limites geográficos de sua circulação era ônus exclusivo do recorrente. Nesse sentido, a alegação de que os limites urbanos "se confundem" em uma região metropolitana não constitui justificativa plausível, mas sim indica a negligência do ora agravante na observância dos deveres que lhe foram impostos.
+Ademais, para a configuração da quebra de fiança por violação de medida cautelar, a análise do elemento subjetivo (dolo ou culpa) é secundária, ou seja, o que a lei exige é o descumprimento objetivo da condição imposta, conforme o art. 341, III, do CPP. O simples ato de cruzar a fronteira da área de inclusão, ainda que pelo breve período de 47 minutos, consuma a infração e quebra a relação de confiança que fundamentava a sua liberdade, sendo que a finalidade do deslocamento, mesmo que para encontrar um contador, não tem o condão de sanar a violação de uma ordem judicial expressa.
+Outrossim, a alegação de desproporcionalidade ignora tanto a gravidade da conduta quanto o histórico do agravante. Nesse contexto, importante mencionar que a quebra da fiança não é uma penalidade discricionária a ser sopesada pelo juiz, mas uma consequência legal vinculada ao descumprimento da medida cautelar, como expressamente previsto no art. 341 do CPP. Assim, não há margem para se falar em excesso quando a lei determina a consequência.
+Ademias, quanto ao valor arbitrado para a nova fiança (R$ 242.400,00), sua fixação foi devidamente fundamentada e observou estritamente os critérios do art. 326 do CPP, sendo que as instâncias ordinárias consideraram a natureza dos crimes imputados, a suspeita de que o insurgente compõe organização criminosa de elevado poder econômico, as circunstâncias indicativas de periculosidade do agente e, crucialmente, "as condições pessoais de fortuna e vida pregressa do acusado".
+Conforme bem ressaltado no parecer do Ministério Público Federal quando proferida a decisão monocrática, o recorrente é acusado de liderar uma organização criminosa de "alto poderio econômico" e foi condenado a uma pena superior a 36 (trinta e seis) anos de reclusão, permaneceu foragido por anos até ser capturado no exterior via difusão vermelha da Interpol, e já descumpriu medidas judiciais anteriormente. Diante deste quadro, um valor inferior seria inócuo, um estímulo a novas violações, e falharia em cumprir sua função de vincular efetivamente o réu ao processo e assegurar a aplicação da lei penal. A medida é, portanto, não apenas proporcional, mas necessária.
+Ainda, o argumento da defesa, de que a "recomposição" da fiança seria uma "inovação jurídica" ilegal, parte de uma premissa equivocada.
+A decisão judicial não "reforçou" uma fiança existente (hipótese do art. 340 do CPP), nem ignorou as opções do art. 282, § 4º, do CPP. Pelo contrário, aplicou-as um raciocínio jurídico que passo a apresentar:
+(I) a fiança original era uma medida cautelar em vigor; (II) - Com o descumprimento, esta fiança foi julgada quebrada (art. 341, III, CPP); (III) - A quebra implica o perdimento do valor depositado (art. 345, CPP), fazendo com que aquela medida cautelar específica perdesse seu efeito, deixasse de existir como garantia processual; (IV) - Diante deste novo cenário (um réu solto, porém sem a garantia patrimonial que antes o vinculava ao juízo ), o magistrado, no exercício do seu poder geral de cautela, e com base expressa no art. 282, § 4º, do CPP, agiu para sanar a situação. O referido artigo autoriza o juiz a "substituir a medida" e (V) - O que o juízo fez foi exatamente isso: substituiu a medida cautelar tornada ineficaz (a fiança quebrada) por uma nova medida de mesma natureza (uma nova fiança). Não se trata de inovação, mas de uma aplicação lógica e legal do sistema de cautelares, visando restabelecer o vínculo processual que o próprio agravante rompeu.
+As outras opções do § 4º (impor outra medida em cumulação ou decretar a prisão preventiva) seriam, inclusive, mais gravosas, sendo, assim, a imposição de uma nova fiança foi a solução que, ao mesmo tempo que restabeleceu a garantia, mostrou-se menos severa ao status de liberdade do réu.
+Ante o exposto, por todos os fundamentos, a decisão monocrática se revela irretocável e os argumentos do agravante foram devidamente analisados e refutados, não havendo qualquer ilegalidade, desproporcionalidade ou violação à lei federal a ser sanada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
