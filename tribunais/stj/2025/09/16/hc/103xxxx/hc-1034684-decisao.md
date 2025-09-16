@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ARISTOTELES DE ANDRADE PAIXAO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Apelação nº 0202032-62.2022.8.06.0298).
+Na inicial, a defesa informa que o paciente foi denunciado como incurso no art. 171, § 4º, c/c o art. 71 do Código Penal, e posteriormente condenado, com base no instituto da emendatio libelli, como incurso no art. 155, § 4º, II, do Código Penal, à pena de 6 anos, 9 meses e 20 dias de reclusão, inicialmente em regime semiaberto (fls. 4-5). Após recurso ministerial, o Tribunal de Justiça do Ceará determinou o cumprimento da pena em regime inicial fechado e restabeleceu a prisão preventiva do paciente (fl. 5). O paciente se apresentou em 5 de agosto de 2025 para cumprimento do mandado de prisão, mas a guia de recolhimento provisória não foi expedida, o que tem impedido o gozo dos benefícios da execução penal (fl. 5).
+A defesa alega que a ausência de expedição da guia de recolhimento provisória configura flagrante ilegalidade, violando o art. 9º da Resolução n. 113/2010 do Conselho Nacional de Justiça, que determina a expedição da guia em casos de réu preso por sentença condenatória recorrível (fls. 6-7).
+Requer, liminarmente e no mérito, a concessão da ordem para determinar que o Tribunal de Justiça do Estado do Ceará expeça a guia de recolhimento provisória, permitindo que o paciente usufrua dos benefícios da execução penal (fl. 8).
+É o relatório. DECIDO.
+Verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, expedição de guia de recolhimento provisória.
+Na realidade, pela leitura do acórdão recorrido não é possível aferir se a matéria foi sequer suscitada perante a Corte a quo.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
