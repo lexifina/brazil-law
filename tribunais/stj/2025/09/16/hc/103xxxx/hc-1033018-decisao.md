@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de MAXWELL LENEM PEREIRA SILVA contra o acórdão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (HC n. 1.0000.25.268680-3/000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão preventiva diante do excesso de prazo na formação da culpa uma vez que o paciente está preso provisoriamente há mais de 03 (três) anos, visto que seu encarceramento teve início no dia 21/06/2022 (fl. 227).
+Aduz, ainda, que não há elementos concretos que demonstrem risco à ordem pública, à ordem econômica, à conveniência da instrução criminal ou à aplicação da lei penal, conforme exigido pelo art. 312 do Código de Processo Penal.
+Inicialmente, o Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisão monocrática proferida pelo relator na ação de origem perante a Corte estadual, devendo a defesa provocar manifestação colegiada, razão pela qual não tendo havido o esgotamento da instância de origem, descabe ao Superior Tribunal de Justiça a apreciação do pedido, nos termos do art. 105, I, c, da Constituição Federal. É o caso dos presentes autos.
+Além disso, as questões nem sequer foram debatidas pela Corte estadual, de forma que a revisão por este Superior Tribunal configuraria indevida supressão de instância, razão pela qual não conheço da impetração.
+E, ainda, em relação à inidoneidade da manutenção da prisão preventiva, em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei a anterior impetração do Habeas Corpus n. 1.023.391/MG, em benefício do mesmo paciente e com pretensão idêntica (revogação da prisão preventiva em decorrência da inidoneidade dos fundamentos para a sua manutenção impetrado contra o acórdão proferido em Recurso em Sentido Estrito n. 1.0000.24.516013-0/001, julgado em 18/3/2025), o que configura a inadmissível reiteração de pedido.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO CAUTELAR. EXCESSO DE PRAZO E INIDONEIDADE DA MANUTENÇÃO DA PRISÃO PREVENTIVA. DECISÃO MONOCRÁTICA. ESGOTAMENTO DA INSTÂNCIA DE ORIGEM. INOCORRÊNCIA. DEBATE DAS QUESTÕES PELA CORTE ESTADUAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. PRETENSÃO IDÊNTICA À FORMULADA NO HABEAS CORPUS N. 1.023.391/MG. MERA REITERAÇÃO DE PRÉVIO WRIT. INADMISSIBILIDADE.
+Inicial indeferida liminarmente.
