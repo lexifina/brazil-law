@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual SUL AMERICA COMPANHIA NACIONAL DE SEGUROS se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 248):
+AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. SEGURO HABITACIONAL. DANOS FÍSICOS AO IMÓVEL. LEGITIMIDADE PASSIVA. RÉ QUE INTEGRA O POOL DE SEGURADORAS ATUANTES NO MERCADO DO SFH. RECURSO NÃO PROVIDO.
+1. Decisão que não reconheceu a ilegitimidade da agravante para figurar no polo passivo da ação de indenização securitária. Manutenção.
+2. A ré pertence ao "pool" de seguradoras atuantes nesse mercado do SFH, de modo que é responsável pela indenização eventualmente cabível.
+3. Constante troca de seguradoras que não pode ser invocada em prejuízo dos mutuários.
+4. Agravo de instrumento não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 259/263).
+Nas razões de seu recurso especial, a parte recorrente aponta a violação ao art. 267, inciso VI, do Código de Processo Civil e ao art. 757 do Código Civil.
+Argui sua ilegitimidade passiva, porque as apólices contratadas seriam privadas, do Ramo 68 e, portanto, não estaria vinculada ao Sistema Financeiro da Habitação (SFH).
+Alega que, nos financiamentos fora do SFH, não existe o "pool" de seguradoras, sendo responsável pela cobertura securitária apenas a seguradora contratada diretamente pelo agente financeiro e, no caso em questão, a seguradora contratada foi a Excelsior Companhia de Seguros, e não ela, Sul América.
+Sustenta que, por não ter recebido os prêmios das apólices contratadas, não pode ser compelida a garantir cobertura securitária, o que violaria o art. 757 do Código Civil, que exige que o segurador seja parte no contrato de seguro e tenha recebido o prêmio.
+Destaca que, mesmo que se admita a aplicação da legislação consumerista, não é caso de incidência do benefício que permite ao consumidor demandar contra qualquer integrante da cadeia produtiva. Isso porque, nos financiamentos fora do SFH, não há vínculo entre ela, Sul América, e os contratos em questão.
+Requer o provimento do recurso especial, para que seja reconhecida sua ilegitimidade passiva e, consequentemente, a extinção do processo sem resolução de mérito.
+A parte adversa apresentou contrarrazões (fls. 293/299).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+Os autos foram distribuído ao Ministro João Otávio de Noronha (fl. 333), o qual declinou da competência para processar e julgar o recurso (fls. 334/335).
+Após a redistribuição (fl. 338), o então relator, o Ministro Napoleão Nunes Maia Filho, determinou o sobrestamento do processo até o julgamento do Conflito de Competência 140.456/RS (fl. 356).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de agravo de instrumento interposto pela parte recorrente, nos autos de ação de responsabilidade securitária por vícios de construção em imóveis financiados pelo Sistema Financeiro da Habitação, da decisão que não reconheceu sua ilegitimidade passiva.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO negou provimento ao recurso (fls. 247/251).
+A controvérsia versa sobre contrato de seguro habitacional vinculado ao Sistema Financeiro de Habitação e coberto pelo Fundo de Compensação de Variações Salariais (fl. 94).
+A parte recorrente argui sua ilegitimidade passiva, porque as apólices contratadas seriam privadas, do Ramo 68 e, portanto, não estaria vinculada ao Sistema Financeiro da Habitação (SFH).
+No caso em questão, o Tribunal de origem assim decidiu (fl. 249):
+Isso porque, a ré pertence ao "pool" de seguradoras atuantes nesse mercado do SFH, de modo que é responsável pela indenização eventualmente cabível.
+Conforme bem observou o Exmo. Des. Galdino Toledo Junior em caso semelhante, "todas as seguradoras participantes são responsáveis pelo pagamento da indenização cabível, não sendo obrigação dos mutuários saber a qual seguradora recorrer no momento do aviso do sinistro ou mesmo de apresentar o contrato firmado" (Apelação nº 0062554-62.2011.8.26.0576, 9ª Câmara de Direito Privado, j. em 23/04/2013).
+Desse modo, e considerando-se que a constante troca de seguradoras também não pode ser invocada em prejuízo dos mutuários, não há que se falar em ilegitimidade da recorrente.
+Portanto, o Tribunal de origem concluiu que as promessas de venda e compra de unidades habitacionais celebradas no âmbito do SFH ostentavam cobertura securitária compulsória, firmados com os agentes financeiros mutuantes, bem como que estava formado o "pool" de seguradoras atuantes, possibilitando ao consumidor exercer seu direito de ação contra quaisquer delas.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e a reinterpretação de cláusula contratual, circunstâncias que redundariam na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incidem no presente caso as Súmulas 7 e 5 do Superior Tribunal de Justiça (STJ) segundo as quais, respectivamente, "a pretensão de simples reexame de prova não enseja recurso especial" e "a simples interpretação de cláusula contratual não enseja recurso especial".
+No mesmo sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.305.102/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/2/2016, DJe de 19/2/2016.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DANOS CONSTRUTIVOS EM IMÓVEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno. Precedentes.
+2. Com base no princípio da dialeticidade recursal, não se conhece do agravo interno que veicula razões dissociadas dos fundamentos da decisão singular.
+3. A conclusão do acórdão recorrido, quanto à legitimidade ativa, adotada com base exclusivamente nos instrumentos anexos ao contrato de seguro, é insuscetível de reexame em sede de recurso especial, em razão do óbice da Súmula 5/STJ.
+4. Verificar se a apólice do seguro habitacional excluiria de modo válido a cobertura de vícios de construção demandaria na interpretação das cláusulas do ajuste, juízo obstado pelo óbice das Súmulas 5 e 7/STJ.
+5. Agravo interno conhecido em parte e, na extensão, desprovido.
+(AgInt no REsp n. 1.581.014/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/5/2018, DJe de 28/5/2018.)
+CIVIL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. MANIFESTAÇÃO DA CAIXA ECONÔMICA FEDERAL DE QUE NÃO TEM INTERESSE NA LIDE. INCIDÊNCIA DA SÚMULA 83 DO STJ. ILEGITIMIDADE PASSIVA DA RECORRENTE. VERIFICAÇÃO QUEM ENSEJA O REEXAME DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. No que diz respeito à ilegitimidade passiva da recorrente, verifica-se ser necessário o reexame das cláusulas do contrato de seguro e das cláusulas contratuais de mútuo habitacional para se concluir a respeito da legitimidade da recorrente quanto aos vícios de construção do imóvel financiado pelas regras do SFH, o que é vedado pelas Súmulas 5 e 7/STJ.
+3. Há jurisprudência desta Corte no sentido de que a seguradora possui legitimidade passiva, em se tratando de contrato de seguro habitacional obrigatório regido pelas regras do Sistema Financeiro Habitacional. Precedente.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 70.742/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/3/2014, DJe de 26/3/2014.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. ILEGITIMIDADE PASSIVA DA SEGURADORA RECONHECIDA ANTE A APÓLICE TRATADA NOS AUTOS. ART. 131 DO CÓDIGO DE PROCESSO CIVIL DE 1973. ALEGAÇÃO DE MÁ VALORAÇÃO DA PROVA. LIVRE CONVENCIMENTO MOTIVADO DO JUIZ. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Na hipótese, o acolhimento da pretensão recursal, no sentido de que a agravada teria legitimidade passiva para responder pela cobertura securitária, demandaria interpretação de cláusulas contratuais e novo exame do acervo probatório dos autos, providência que encontra óbice nas Súmulas 5 e 7 do STJ.
+2. Cabe esclarecer que a orientação jurisprudencial desta Corte Superior aduz que "vigora, no direito processual pátrio, o sistema de persuasão racional, adotado pelo Código de Processo Civil nos arts. 130 e 131, não cabendo compelir o magistrado a acolher com primazia determinada prova, em detrimento de outras pretendidas pelas partes, se pela análise das provas em comunhão estiver convencido da verdade dos fatos" (AgRg no REsp 1.251.743/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2014, DJe de 22/9/2014)
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.044.614/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2017, DJe de 1º/6/2017.)
+Por outro lado, a parte ora recorrente alega que, por não ter recebido os prêmios das apólices contratadas, não pode ser compelida a garantir cobertura securitária, dado que o art. 757 do Código Civil exige que o segurador seja parte no contrato de seguro e tenha recebido o prêmio.
+O art. 757 do Código Civil não foi apreciado pelo Tribunal de origem, nem foi objeto dos embargos de declaração apresentados.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+No presente caso incidem, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 535 do Código de Processo Civil de 1973, o que não foi feito no caso dos autos.
+Por fim, em consulta aos autos principais, a Ação de Responsabilidade Securitária 0004331-44.2011.8.26.0356, extrai-se que o Juízo da 2ª Vara do Foro da Comarca de Mirandópolis/SP, em 29/11/2023, assim decidiu:
+ ..  manifestação apresentada pela terceira interessada certa na causa Caixa Econômica Federal CEF, constante de fls. 1465/1496, na qual demonstra seu interesse na intervenção dos presentes autos, requerendo inclusive a remessa dos presentes autos à Justiça Federal de Araçatuba-SP, corroborando-se pelas manifestações apresentadas pela parte autora e pela parte requerida Sul América Companhia Nacional de Seguros, determino a remessa destes autos à Justiça Federal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Publique-se. Intimem-se.
+EMENTA
