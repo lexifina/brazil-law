@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de MICHAEL MULLER RIBEIRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido nos autos da APC n. 1500069-65.2020.8.26.0548.
+Consta dos autos que o paciente foi condenado à pena de 2 anos e 4 meses de reclusão, em regime inicial semiaberto, mais o pagamento de 11 dias-multa, no piso, por infração ao art. 304, em c/c o art. 297, ambos do Código Penal.
+Irresignada, a defesa interpôs apelação criminal, tendo o Tribunal a quo negado provimento ao recurso, nos termos de acórdão acostado às fls. 22/27.
+Na presente impetração (fls. 3/9), o impetrante se insurge contra a dosimetria da pena.
+Aduz que é devida a compensação da atenuante da confissão espontânea com a agravante da reincidência.
+Pugna pela concessão da ordem a fim de que seja redimensionada a pena com o consequente abrandamento do regime prisional.
+Não houve pedido de medida liminar.
+Informações prestadas às fls. 37/40 e 43/70.
+Parecer ministerial de fls. 72/75 pela concessão da ordem de ofício.
+É o relatório. Decido.
+O presente mandamus foi impetrado contra o mesmo acórdão, aduz os mesmos argumentos e traz pedido e causa de pedir idêntica aos formulados no REsp n. 1.973. 895/SP, ao qual neguei provimento. A propósito, transcrevo o teor do aludido julgado:
+" ..
+Decido.
+Sobre a violação ao art. 67 do Código Penal - CP, o TJ deixou de compensar integralmente a agravante da reincidência com a atenuante da confissão espontânea nos seguintes termos do voto do relator:
+"Quanto à reprimenda, verifico que a pena básica aplicada a RIBEIRO foi fixada no mínimo legal, ou seja, em 2 anos de reclusão, mais o pagamento de 10 dias-multa, no piso.
+Depois, a Juíza sentenciante, acertadamente, não compensou a agravante da reincidência (amplamente demonstrada a fls. 144/147) com a atenuante da confissão espontânea. Registro que a agravante é circunstância preponderante, conforme dispõe o artigo 67 do Estatuto Repressivo. Assim, a Magistrada exasperou o castigo em 1/6, totalizando, em definitivo, 2 anos e 4 meses de reclusão, além do pagamento de 11 dias-multa, no limiar." (fl. 258)
+Por seu turno, na sentença constou o seguinte (grifo nosso):
+"Passo, assim, à dosagem da pena.
+PENA. Atenta a essas circunstâncias e às diretrizes traçadas pelos artigos 59 e 60 do Código Penal, fixo-lhe a pena base, a segregativa de 02 (dois) anos de reclusão e a pena pecuniária em 10 (dez) dias-multa, calculados no valor unitário de 1/30 (um trigésimo) do salário mínimo vigente por ocasião dos fatos, desde então corrigidos. Embora confesso, inviável a fixação da pena abaixo do mínimo legal, em virtude do disposto na Súmula 231 do STJ, do seguinte teor: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". Fixei o quantum unitário da pena pecuniária no mínimo legal em virtude da modesta situação econômica do réu que declarou estar desempregado (fls. 20). No mais, em razão de sua reincidência (autos nº 0026725-63.2009 da 4ª Vara Criminal e autos nº 0039406-70.2006 da 2ª Vara Criminal, ambos da comarca de Campinas certidões de fls. 43/44 e certidão da VEC de fls. 52), AUMENTO ambas as penas de 1/6 (um sexto), o que dá, como pena final, a corporal em 2 (doi s) anos e 4 (quatro) meses de reclusão e a pecuniária em 11 (onze) dias-multa. Ainda, inviável a compensação da atenuante da confissão com a agravante da reincidência." (fls. 173/174)
+Sobre a revisão da pena aplicada pelas instâncias ordinárias, esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, o que não se constata na hipótese dos autos.
+O Código Penal não estabelece limites mínimo e máximo de aumento ou diminuição da pena pela incidência das circunstâncias agravantes ou atenuantes, cabendo ao julgador fixar a fração necessária dentro de parâmetros razoáveis e proporcionais.
+Quanto à fração de aumento pela agravante da reincidência, embora os percentuais relacionados às agravantes não encontrem limites expressos no Código Penal, a fração de 1/6 (um sexto) tem sido a usualmente adotada pela jurisprudência desta Corte, ressalvada fundamentação concreta que justifique outro patamar.
+No caso dos autos, da análise dos trechos acima transcritos, verifica-se que a sentença de primeiro grau, confirmada pelo acórdão ora impugnado, fez expressa menção a 02 (duas) condenações anteriores (autos nº. 0026725-63.2009 da 4ª Vara Criminal e autos n. 0039406-70.2006 da 2ª Vara Criminal, ambos da comarca de Campinas), tendo sido uma delas compensada com a atenuante da confissão espontânea, de modo que inexiste ilegalidade na exasperação da reprimenda, em montante equivalente à usual fração de 1/6, ante a multirreincidência do réu.
+Assim, não evidenciada nenhuma ilegalidade flagrante decorrente da dosimetria da pena, incide à espécie o enunciado n. 7 da Súmula/STJ.
+A propósito (Grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO, FURTO QUALIFICADO MEDIANTE FRAUDE E USO DE DOCUMENTO FALSO, EM CONCURSO MATERIAL. PLEITO DE ABSOLVIÇÃO RELATIVAMENTE AO DELITO DE ESTELIONATO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO DELITIVA CARACTERIZADA. DUPLA REINCIDÊNCIA DO APENADO. DOSIMETRIA. SEGUNDA FASE. COMPENSAÇÃO PARCIAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A MULTIRREINCIDÊNCIA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+- O agravante é duplamente reincidente, de maneira que não há ilegalidade na preponderância dessa circunstância sobre a atenuante genérica da confissão espontânea, no caso, o que enseja o aumento da sua reprimenda no patamar prudencialmente recomendado de 1/6 sobre a pena-base.
+- Agravo regimental desprovido.
+(AgRg no HC 656.705/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/05/2021, DJe 07/05/2021)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO. ROUBO DUPLAMENTE CIRCUNSTANCIADO. COMPENSAÇÃO PARCIAL ENTRE A ATENUANTE DA CONFISSÃO ESPONTÂNEA E A AGRAVANTE DA RECIDIVA. DUPLA REINCIDÊNCIA ESPECÍFICA. PROPORCIONALIDADE OBSERVADA. PRESENÇA DE MAIS DE UMA CAUSA DE AUMENTO. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. SÚMULA 443/STJ. ORDEM NÃO CONHECIDA.
+ ..
+4. O concurso entre circunstância agravante e atenuante de idêntico valor redunda em afastamento de ambas, ou seja, a pena não deverá ser aumentada ou diminuída na segunda fase da dosimetria. Todavia, tratando-se de réu multirreincidente deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. Precedentes.
+5. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea. Precedentes.
+6. Hipótese na qual o Colegiado de origem, após ter procedido à compensação parcial entre a atenuante da confissão espontânea e a agravante da recidiva, limitou a exasperação da reprimenda na segunda fase da dosimetria a 1/6, considerando a dupla reincidência específica do réu, sem que se possa falar em flagrante ilegalidade a ser sanada mediante concessão da ordem, de ofício.
+7. O Tribunal a quo manteve a exasperação da pena em 3/8 (três oitavos) pela incidência das duas causas de aumento do crime de roubo, tendo sido declinada fundamentação idônea para o aumento superior ao mínimo legal, sem que reste evidenciada violação da Súmula 443/STJ. 8. As circunstâncias concretas do delito, praticado mediante o emprego de simulacro de arma de fogo, e de uma faca, tendo o agente ameaçado transmitir o vírus HIV à vítima e afirmado que iria matá-la durante todo o período em que a sua liberdade foi por ele restringida, denota a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena e, portanto, não se infere ilegalidade no aumento superior a 1/3 (um terço) pela incidência das duas majorantes do crime de roubo.
+9. Writ não conhecido.
+(HC 368.847/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. FALSA IDENTIDADE. DOSIMETRIA. SEGUNDA FASE. MULTIRREINCIDÊNCIA DO RÉU. COMPENSAÇÃO PARCIAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A MULTIRREINCIDÊNCIA. DECISUM RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. FUNDAMENTO NÃO INFIRMADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Foi denegada a ordem de habeas corpus pleiteada, pois o entendimento firmado no decisum recorrido está em harmonia com o desta Corte, de que a multirreincidência do réu justifica validamente a compensação parcial com a atenuante da confissão espontânea.
+2. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão combatida, conforme entendimento firmado pela Corte Especial.
+3. Agravo regimental não conhecido.
+(AgRg no HC 654.637/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. COMPENSAÇÃO AGRAVANTE DA REINCIDÊNCIA E ATENUANTE CONFISSÃO ESPONTÂNEA. RÉU MULTIRREINCIDENTE. COMPENSAÇÃO PARCIAL. RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA NO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. AUSÊNCIA DE RECONHECIMENTO DA PRÁTICA DO DELITO DO ART. 35 DA LEI DE DROGAS. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte, no julgamento do EREsp n. 1.154.752/RS, apreciado sob o rito dos recursos repetitivos, em 23/5/2012, pacificou o entendimento de que a agravante da reincidência deve ser compensada com a atenuante da confissão espontânea, porquanto ambas envolvem a personalidade do agente, sendo, por consequência, igualmente preponderantes.
+2. Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipótese na qual, como regra, não será devida a compensação integral entre a confissão e a reincidência.
+3. Impossível o reconhecimento da atenuante da confissão espontânea com relação ao crime de associação para o tráfico, uma vez que o réu não admitiu a prática de tal delito.
+4. Agravo regimental improvido.
+(AgRg no REsp 1870086/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/09/2020, DJe 23/09/2020)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento."
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento do recurso.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
