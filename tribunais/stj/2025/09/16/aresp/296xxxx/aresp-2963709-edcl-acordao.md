@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, receberos embargos de declaração como agravo regimental, ao qual negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. APROPRIAÇÃO INDÉBITA QUALIFICADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: alegada ofensa a normas e princípios constitucionais, dissídio jurisprudencial não comprovado e Súmula 7/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Embargos de declaração recebidos como agravo regimental, a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por FRANCISCO DE ASSIS MOREIRA SANTOS contra decisão monocrática em que não conheci do agravo em recurso especial manejado em oposição a acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que deu parcial provimento ao apelo defensivo, mantendo sua condenação pelo crime de apropriação indébita qualificada.
+A parte recorrente requer a reconsideração da decisão monocrática, pugnando pelo conhecimento do recurso especial interposto e seu provimento (e-STJ fls. 1222-1236).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. APROPRIAÇÃO INDÉBITA QUALIFICADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: alegada ofensa a normas e princípios constitucionais, dissídio jurisprudencial não comprovado e Súmula 7/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Embargos de declaração recebidos como agravo regimental, a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Recebo o presente recurso como agravo regimental, haja vista que "a jurisprudência deste Superior Tribunal de Justiça, em atenção aos princípios da fungibilidade recursal e da instrumentalidade das formas, admite a conversão de embargos de declaração em agravo regimental" (EDcl nos EAREsp n. 717.769/SC, relatora Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 24/2/2016, DJe de 3/3/2016).
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: alegada ofensa a normas e princípios constitucionais, dissídio jurisprudencial não comprovado e Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o(s) referido(s) fundamento(s).
+Com efeito, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.793.805/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Outrossim, "a alegação de violação a princípios e dispositivos constitucionais não pode ser apreciada em sede de recurso especial, uma vez que o exame de matéria é de competência do Supremo Tribunal Federal nos termos do art. 102, inciso III, da Carta Magna" (AgRg no AREsp n. 1.515.092/MA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/2/2021, DJe de 8/2/2021).
+O Superior Tribunal de Justiça entende que "a mera transcrição de ementas não permite o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, pois não foi demonstrada, de forma analítica, a identidade fática e a divergência entre o acórdão impugnado e os julgados indicados como paradigma" (AgRg no REsp n. 2.034.784/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025). Insta consignar que "para a caracterização do dissídio jurisprudencial, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Dissídio não demonstrado no caso" (AgInt no REsp n. 2.182.998/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2025, DJEN de 26/6/2025).
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
