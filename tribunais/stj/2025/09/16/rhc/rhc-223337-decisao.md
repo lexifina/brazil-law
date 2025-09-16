@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido limi nar, interposto por JHONES ESTEVO PEREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática das condutas descritas nos arts. 33, caput, e 35, caput, ambos da Lei nº 11.343/06.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 146-160.
+Na hipótese, a defesa alega a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação concreta para a segregação cautelar do recorrente.
+Defende as condições pessoais favoráveis do recorrente.
+Sustenta ausência de indícios de autoria e de prova da materialidade delitiva.
+Aduz que "Os indícios contra o Paciente são frágeis, fundados apenas nos depoimentos de J S L e R da S J , que o identificam como passageiro do VW/Gol, sem provas objetivas como vídeo da abordagem ou reconhecimento formal" (fl. 174).
+Requer, ao final, a revogação da prisão preventiva, com ou sem a aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, notadamente se considerado o risco de reiteração criminosa; haja vista que a conduta, em exame, não é fato isolado na vida do recorrente.
+Nesse sentido, o Juízo de primeiro grau ressaltou que "a FAC do acusado desta comarca (ID 10480383880) indicam a existência de registros de envolvimento com o tráfico de drogas, além de outras prisões em seu desfavor. Ainda que ele não seja tecnicamente reincidente, há sentença condenatória proferida em seu desfavor, pelos delitos de tráfico de drogas e associação para o tráfico, conforme autos de n.º 0022544-38.2018.8.13.0349, a qual, embora não transitada em julgado, demonstra a contumácia do réu e a sua inclinação para a prática de delitos" (fl. 61).
+Tais circunstâncias demonstram a periculosidade do recorrente, justificando a segregação cautelar, diante do risco concreto de reiteração delitiva.
+Sobre o tema:
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024.)
+Outrossim, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No mais, de acordo com a jurisprudência desta Corte, a perscrutação acerca de fragilidade probatória, mormente, no que tange à ausência de indícios de autoria, demanda o revolvimento de matéria fático-probatória, inviável na presente via:
+"A jurisprudência desta Corte é firme no sentido de que "digressões sobre a justa causa para a ação penal, imiscuindo-se no exame das teses de fragilidade probatória e de ausência de indícios de autoria e materialidade, demandam inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via angusta do recurso ordinário em habeas corpus, devendo, pois, ser avaliada a quaestio pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório" (RHC 56.155/MT, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/5/2017, DJe 24/5/2017)" (AgRg no RHC n. 191.152/RR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
