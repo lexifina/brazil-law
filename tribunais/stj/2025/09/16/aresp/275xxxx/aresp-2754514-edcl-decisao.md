@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, alegando a existência de vícios na decisão monocrática de minha lavra, em que foi dado parcial provimento ao recurso especial interposto pela defesa (fls. 508/512).
+Alega o embargante (fls. 520/532) que a decisão embargada não analisou elemento essencial constante dos autos, como o fato de que o réu mantinha em sua residência verdadeiro laboratório artesanal para produção de maconha, com estufa, ventiladores, reatores, lâmpadas e fontes de energia específicas, circunstância que comprovaria dedicação habitual a atividades criminosas e afastaria a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, configurando omissão que deve ser suprida para correta aplicação da lei.
+É o relatório.
+O caso discutido refere-se à condenação de Bruno Rocha dos Santos por tráfico de drogas, em razão da apreensão de plantas de Cannabis sativa em residência de sua família, cultivadas em estrutura com ventiladores, lâmpadas e estufa. No julgamento do recurso especial, reconheceu-se a validade da busca domiciliar e a impossibilidade de desclassificação da conduta, mas se aplicou a minorante do art. 33, § 4º, da Lei n. 11.343/2006 em 1/2, fixando pena em 2 anos e 6 meses de reclusão, em regime aberto, substituída por restritivas de direitos.
+O ato embargado foi no sentido de que a mera existência de petrechos e estrutura artesanal de cultivo não constitui fundamento idôneo para afastar o privilégio, dada a primariedade e ausência de antecedentes do réu.
+Confrontando os argumentos do embargante e a fundamentação da decisão, verifico que o pedido não deve ser acolhido.
+Como é sabido, os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). Não tem caráter substitutivo, modificador ou infringente do julgado, mas, sim, integrativo ou aclaratório.
+A omissão a ser sanada por meio dos embargos de declaração é aquela existente em face dos pontos acerca dos quais está o julgador obrigado a responder e não o fez. A contradição diz respeito à incompatibilidade entre as premissas e disposições da própria decisão embargada. E a obscuridade tem relação com a falta de clareza da decisão impugnada.
+No caso em tela, a decisão embargada não ignorou a existência da estrutura, mas a analisou expressamente, concluindo que não havia elementos concretos que demonstrassem dedicação criminosa ou integração em organização. Assim, não há omissão, mas apenas inconformismo.
+Além disso, o julgado citou prec edentes da própria Corte Superior que reforçam que a simples presença de petrechos voltados ao tráfico, desacompanhada de outros elementos, não afasta o redutor.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, §4º, DA LEI N. 11.343/2006. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA.
+Embargos de declaração rejeitados.
