@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de WESLLEY VARGAS DONA OLIVEIRA DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500456-67.2022.8.26.0077.
+Consta dos autos que o paciente foi condenado à pena de 1 (um) ano de reclusão, em regime semiaberto, pela prática do delito capitulado no art. 155, caput, do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto a conduta do paciente seria materialmente atípica, devendo ser aplicada a insignificância, uma vez que o objeto subtraído é de valor irrisório, foi integralmente restituído à vítima, não houve violência ou grave ameaça, e o paciente confessou o delito, colaborando com a instrução.
+Alega que a reiteração delitiva e os maus antecedentes não afastam, por si sós, a aplicação do princípio da insignificância, especialmente porque o paciente não possui condenação anterior pelo mesmo delito e processos em curso não podem ser utilizados para valorar a condenação.
+Argumenta que a condenação em regime semiaberto por um bem de valor ínfimo afronta os princípios da razoabilidade, proporcionalidade e o caráter subsidiário do Direito Penal, sendo a mesma fundamentação utilizada para negar a insignificância inidônea para justificar a fixação do regime semiaberto e a não substituição da pena privativa de liberdade por restritiva de direitos.
+Defende que a decisão impugnada é teratológica, pois o paciente, com 20 (vinte) anos na data do fato, faz jus à atenuante da menoridade relativa prevista no art. 65, I, do Código Penal, que deveria ter sido reconhecida de ofício, sendo a não aplicação dessa atenuante causa de nulidade na dosimetria da pena.
+Requer, em suma, a absolvição do paciente pela aplicação do princípio da insignificância ou, subsidiariamente, o redimensionamento da pena com a fixação do regime aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+Decido.
+Consoante informação obtida no sítio eletrônico do Tribunal a quo, ocorreu o trânsito em julgado do acórdão impugnado.
+Ou seja, o presente Habeas Corpus foi impetrado contra condenação proferida na origem já transitada em julgado e não há, neste Tribunal, julgamento de mérito em relação à ela passível de revisão.
+Segundo a jurisprudência do STJ, não deve ser conhecido o writ manejado como substitutivo de revisão criminal em hipótese na qual não houve inauguração da competência desta Corte.
+Isso porque, consoante o artigo 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, somente as revisões criminais e as ações rescisórias de seus próprios julgados.
+Nesse sentido, vale citar os seguintes julgados colegiados desta Corte: AgRg no HC n. 903.400/RS, Rel. Ministro Messod Azulay Neto, Quinta Turma; DJe de 17.6.2024; AgRg no HC n. 885.889/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024; AgRg no HC n. 852.988/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 12.6.2024; AgRg no HC n. 908.528/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 28.5.2024; AgRg no HC n. 883.647/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 15.5.2024; AgRg no HC n. 887.735/PE, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 25.4.2024; HC n. 790.768/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 10.4.2024; AgRg no HC n. 757.635/SC, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 15.3.2024; AgRg no HC n. 825.424/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024; AgRg no HC n. 820.174/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15.8.2024; AgRg no HC n. 913.826/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024.
+Ademais, não se verifica no julgado impugnado ilegalidade flagrante que justifique a concessão de Habeas Corpus de ofício nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
