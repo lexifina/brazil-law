@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 10/09/2025 a 16/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECLAMAÇÃO. IMPROBIDADE ADMINISTRATIVA. DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL LOCAL PARA AGUARDAR O JULGAMENTO DO TEMA 1.199/STF E, APÓS, PROCEDER AO JUÍZO DE CONFORMAÇÃO. ACÓRDÃO OBJETO DO RECURSO ESPECIAL QUE JÁ HAVIA RECONHECIDO O ELEMENTO SUBJETIVO DOLOSO. REALIZAÇÃO DE NOVO EXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA À AUTORIDADE DA DECISÃO DESTA CORTE SUPERIOR. PROVIMENTO NEGADO.
+1. Decisão alegadamente descumprida que havia, diante da afetação do Tema 1.199 da Repercussão Geral do Supremo Tribunal Federal, determinado o retorno dos autos para, publicado o acórdão pelo STF: (a) negar-se seguimento ao recurso, acaso em consonância com o quanto pacificado pelo STF; (b) proceder-se a novo exame da controvérsia, caso o acórdão recorrido divergisse do entendimento firmado no Supremo Tribunal Federal.
+2. Caso concreto em que o acórdão objeto do recurso especial já havia manifestado a presença do dolo por parte dos demandados, tornando despicienda nova manifestação, já que, no julgamento da repercussão geral, como devem estar cientes as partes, o comando exarado pelo STF era de verificar a presença do dolo, acaso condenados os réus com base no elemento subjetivo culposo.
+3. Não afronta, portanto, a decisão desta Corte Superior a realização de novo exame da admissibilidade do recurso especial, considerando que o inciso II do art. 1.040 do CPC determina que o "órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior".
+4. Observadas as particularidades do acórdão recorrido e a ausência de afronta ao que decidido pela Corte Suprema, não se teria como violar a decisão prolatada pela Ministra Assusete Magalhães.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por OLIVER MADEIRA BICALHO da decisão de fls. 444/446 em que julguei improcedente a presente reclamação.
+Em suas razões, a parte recorrente alega que a decisão determinou a devolução dos autos ao Tribunal de origem para que, após a publicação do acórdão referente ao Tema 1.199/STF, o recurso especial fosse reexaminado, caso o acórdão recorrido divergisse do entendimento firmado pelo STF.
+Cita jurisprudência do Superior Tribunal de Justiça (AgInt no AREsp 2.329.883/MG) no sentido de que, quando o acórdão não especifica se o dolo é genérico ou específico, os autos devem ser devolvidos para que essa análise seja feita expressamente.
+Aduz que o TRF6 não inadmitiu o recurso com base no art. 1.041 do CPC, mas com base no art. 1.030 do CPC, focando em questões de prequestionamento e na impossibilidade de reexame de provas (Súmula 7/STJ), em vez de se ater à conformidade do acórdão com o precedente vinculante (Tema 1.199/STF).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECLAMAÇÃO. IMPROBIDADE ADMINISTRATIVA. DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL LOCAL PARA AGUARDAR O JULGAMENTO DO TEMA 1.199/STF E, APÓS, PROCEDER AO JUÍZO DE CONFORMAÇÃO. ACÓRDÃO OBJETO DO RECURSO ESPECIAL QUE JÁ HAVIA RECONHECIDO O ELEMENTO SUBJETIVO DOLOSO. REALIZAÇÃO DE NOVO EXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA À AUTORIDADE DA DECISÃO DESTA CORTE SUPERIOR. PROVIMENTO NEGADO.
+1. Decisão alegadamente descumprida que havia, diante da afetação do Tema 1.199 da Repercussão Geral do Supremo Tribunal Federal, determinado o retorno dos autos para, publicado o acórdão pelo STF: (a) negar-se seguimento ao recurso, acaso em consonância com o quanto pacificado pelo STF; (b) proceder-se a novo exame da controvérsia, caso o acórdão recorrido divergisse do entendimento firmado no Supremo Tribunal Federal.
+2. Caso concreto em que o acórdão objeto do recurso especial já havia manifestado a presença do dolo por parte dos demandados, tornando despicienda nova manifestação, já que, no julgamento da repercussão geral, como devem estar cientes as partes, o comando exarado pelo STF era de verificar a presença do dolo, acaso condenados os réus com base no elemento subjetivo culposo.
+3. Não afronta, portanto, a decisão desta Corte Superior a realização de novo exame da admissibilidade do recurso especial, considerando que o inciso II do art. 1.040 do CPC determina que o "órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior".
+4. Observadas as particularidades do acórdão recorrido e a ausência de afronta ao que decidido pela Corte Suprema, não se teria como violar a decisão prolatada pela Ministra Assusete Magalhães.
+5. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Como antecipei em âmbito monocrático, a reclamação prevista no art. 105, I, f, da Constituição Federal, bem como no art. 988 do Código de Processo Civil, constitui instrumento processual destinado:
+(1) à preservação de competência (inciso I);
+(2) à garantia da autoridade das decisões do Superior Tribunal de Justiça (inciso II); e
+(3) à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+Após o julgamento do Tema 1.199/STF, consoante determinado na decisão que se sustenta ter sido descumprida, duas providências deveriam ser tomadas pela instância local: (a) negar seguimento ao recurso, acaso em consonância com o quanto pacificado pelo STF; (b) proceder a novo exame da controvérsia, caso o acórdão recorrido divergisse do entendimento firmado no Supremo Tribunal Federal.
+Ocorre que o acórdão objeto do recurso especial já havia manifestado a presença do dolo por parte dos demandados, razão por que nova manifestação não seria necessária, como se pode extrair da seguinte passagem (fl. 86):
+O dolo é retirado do contexto dos fatos. Em nenhum momento os apelantes defendem que os preços estavam corretos e em consonância com a tabela do SINAPI, mas cingem suas teses defensivas a alegar que as contas foram aprovadas, que não houve prejuízo ao erário e que o objeto foi cumprido.
+Os apelantes tinham plena ciência de que os valores apontados na tabela de custos não guardavam consonância com o informado pelo prefeito na declaração de fls. 1093 e 1122 (volume VI - apenso). Todavia, mascararam tentaram mascarar o sobrepreço com base em regularidades formais dos processos licitatório, de contratação e de prestação de contas.
+É de se salientar que a declaração não foi assinada pelos demais corréus, contudo, a existência de sobrepreço somente a eles beneficiava diretamente, razão pela qual não há como se afastar a conduta dolosa de aderirem à conduta ilícita do ex-prefeito.
+Dolo presente na conduta.
+Apesar de ausente a menção na decisão reclamada, a Presidência da Corte local considerou, bem analisado o quanto pacificou-se no Tema 1.199, que o aresto atendia ao que lá pacificado, pois no julgamento da repercussão geral, como devem estar cientes as partes, o comando era para verificar a presença do dolo, acaso reconhecida a existência de culpa.
+Por isso, a Corte local procedeu diretamente ao exame do recurso especial, inadmitindo-o, na forma do art. 1.041 do CPC.
+Aliás, o inciso II do art. 1.040 do CPC é claro ao estabelecer que "o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior".
+Observadas as particularidades do acórdão recorrido e a ausência de afronta ao que decidido pela Corte Suprema, não se teria como violar a decisão prolatada pela Ministra Assusete Magalhães.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
