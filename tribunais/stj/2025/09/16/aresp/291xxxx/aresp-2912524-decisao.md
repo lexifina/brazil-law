@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco do Brasil S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 39):
+AGRAVO DE INSTRUMENTO. GESTÃO DOS VALORES DEPOSITADOS NA CONTA PASEP. INVERSÃO DO ÔNUS DA PROVA.
+INDEPENDENTEMENTE DA EXISTÊNCIA OU NÃO DE RELAÇÃO DE CONSUMO E DA APLICAÇÃO DA INVERSÃO DO ÔNUS DA PROVA PREVISTA NO CÓDIGO DE DEFESA DO CONSUMIDOR, CABE AO BANCO RÉU ACOSTAR AOS AUTOS OS DOCUMENTOS NECESSÁRIOS E COMPROVAR A FORMA DE GESTÃO NA CONTA PASEP DA PARTE AUTORA, POIS POSSUI MELHORES CONDIÇÕES E MAIOR FACILIDADE DE PRODUZIR AS PROVAS NECESSÁRIAS PARA REFUTAR AS ALEGAÇÕES DE MÁ GESTÃO DO FUNDO. APLICAÇÃO DA DISTRIBUIÇÃO DINÂMICA DA PROVA, PREVISTA NO ARTIGO 373, §1º, DO CPC. PRECEDENTES JURISPRUDENCIAIS DESTA CORTE.
+DERAM PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME.
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação aos seguintes dispositivos:
+I - art. 373, § 1º, do Código de Processo Civil, ao argumento de que a inversão do ônus da prova foi aplicada de forma inadequada, uma vez que a parte autora não demonstrou a impossibilidade ou dificuldade excessiva de cumprir o encargo probatório, conforme exigido pelo dispositivo legal. Acrescenta que a decisão recorrida transferiu ao Banco do Brasil a responsabilidade de produzir provas que caberiam à parte autora, contrariando a regra geral do ônus da prova;
+II - art. 6º, VIII, do Código de Defesa do Consumidor, sustentando que o CDC é inaplicável às relações jurídicas envolvendo o PASEP, pois o Banco do Brasil atua como mero depositário dos valores, sem configurar relação de consumo. Aduz, ainda, que a aplicação do CDC no caso concreto contraria a jurisprudência consolidada do Superior Tribunal de Justiça; e
+III - art. 105, III, c, da Constituição Federal, afirmando que o acórdão recorrido divergiu de entendimento firmado por outros tribunais, especialmente o Tribunal de Justiça do Mato Grosso do Sul, que reconheceu a inaplicabilidade do Código de Defesa do Consumidor em casos semelhantes.
+Foram ofertadas contrarrazões às fls. 84/86.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, acerca da matéria trazida à discussão no apelo nobre, cumpre dizer que se encontra pendente de análise no âmbito deste Sodalício, sob a sistemática dos recursos repetitivos, a seguinte questão jurídica: "Saber a qual das partes compete o ônus de provar que os lançamentos a débito nas contas individualizadas do PASEP correspondem a pagamentos ao correntista" (Tema 1.300/STJ).
+A proposta de afetação foi acolhida pela Primeira Seção deste Sodalício, em acórdão assim ementado:
+Ementa. Consumidor, administrativo e processo civil. Recursos especiais. Indicação como representativos de controvérsia. Contas individualizadas do PASEP. Saques indevidos. Ônus da prova. Afetação ao rito dos repetitivos.
+I. Caso em exame
+1. Recursos especiais selecionados como representativos de controvérsia e submetidos à avaliação para eventual afetação ao rito dos recursos repetitivos, relativos ao ônus da prova da irregularidade de saques em contas individualizadas do PASEP.
+II. Questão em discussão
+2. A proposta de afetação ao rito dos repetitivos para definir a qual das partes cabe o ônus de provar o destino dos lançamentos a débito nas contas individualizadas do PASEP, tendo em vista a controvérsia jurídica que envolve a interpretação do art. 2º, caput, do art. 3º, caput e § 2º, e do art. 6º, VIII, do CDC; do art. 373, § 1º, do CPC e do art. 5º da Lei Complementar n. 8/1970.
+III. Razões de decidir
+3. Os recursos especiais selecionados são admissíveis e representam controvérsia repetitiva sobre a interpretação da legislação federal.
+IV. Dispositivo e tese
+4. Afetação dos recursos especiais ao rito previsto nos arts. 1.036 e 1.037 do CPC e nos arts. 256 ao 256-X do RISTJ.
+5. Delimitação da controvérsia afetada: Saber a qual das partes compete o ônus de provar que os lançamentos a débito nas contas individualizadas do PASEP correspondem a pagamentos ao correntista.
+6. Suspensão de todos processos pendentes em que há discussão sobre o ônus de provar o destino dos lançamentos a débito nas contas individualizadas do PASEP, na forma do art. 1.037, II, do CPC.
+(ProAfR no REsp n. 2.162.222/PE, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 3/12/2024, DJEN de 16/12/2024.)
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese por este STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+A propósito, confiram-se os seguintes acórdãos: EDcl no AgRg no REsp n. 1.510.988/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; EDcl no AgInt no REsp n. 1.922.773/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023; e EDcl nos EDcl no AgInt no AREsp n. 1.750.982/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2023, DJe de 15/6/2023.
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+ANTE O EXPOSTO, julgo prejudicada a análise do recurso e determino a devolução dos autos, com a respectiva baixa, à instância de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça na sistemática dos recursos repetitivos (Tema 1.300/STJ).
+Publique-se.
+EMENTA
