@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS EDUARDO VIRTUOSO contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo em Execução n. 0004340-58.2023.8.26.0041.
+Depreende-se dos autos que o Juízo singular reconheceu a prática e infração disciplinar grave, bem como determinou a regressão ao regime fechado, a perda de 1/6 dos dias remidos e, ainda, a interrupção do lapso para aquisição de novos benefícios (e-STJ fls. 14/22).
+A Corte de origem reformou a decisão impugnada em acórdão cuja ementa se reproduz a seguir (e-STJ fl. 24):
+1-) Agravo em Execução Penal. Falta grave. Provimento parcial do recurso defensivo.
+2-) Nulidade na decisão ora impugnada por ausência de oitiva judicial do reeducando. Prejuízo na análise do mérito. Embora o sentenciado tenha dado sua versão durante o procedimento administrativo, é imprescindível sua oitiva em Juízo para fins de regressão definitiva ao regime mais severo, sob pena de violação aos princípios constitucionais do contraditório e da ampla defesa. Art. 118, § 2º, da Lei de Execução Penal.
+3-) Decisão cassada para determinar a oitiva judicial do sentenciado.
+Posteriormente, o Magistrado de primeira instância proferiu nova decisão, oportunidade em que, além do reconhecimento da falta e da imposição da regressão ao regime fechado e da interrupção do lapso para concessão de benefícios executórios, foi estabelecida no patamar superior de 1/3 a perda dos dias remidos.
+Impetrado habeas corpus relativo à segunda decisão, a Corte de origem não procedeu ao exame do mérito, por considerar que "contra a decisão que homologou a falta grave e que determinou a regressão do paciente ao regime fechado e a perda de um terço dos dias eventualmente trabalhados ou estudados, o paciente interpôs o agravo em execução penal nº 0015077- 96.2018.8.26.0041, cujo acórdão, proferido por esta 11ª Câmara e de relatoria do Desembargador Tetsuzo Namba, acabou por negar o provimento.  ..  Logo, a questão insere-se na competência do Egrégio Superior Tribunal de Justiça, nos termos do artigo 105, inciso I, alínea c, da Constituição da República" (e-STJ fls. 56/57).
+Irresignada, assere a defesa que a decisão proferida após a anulação do primeiro decisum, dada a ausência de oitiva judicial, incidiu em indevida reformatio in pejus, porquanto recrudesceu a fração de perda dos dias remidos. Aponta, ainda, que não há fundamentação idônea para tal ampliação da sanção.
+Salienta também que " a  diferença entre a perda de 1/6 e 1/3 dos dias remidos representa significativo impacto no cômputo geral da pena e nos lapsos temporais para obtenção de benefícios.  ..  O excesso de execução é manifesto e vem se consolidando dia após dia" (e-STJ fl. 6).
+Requer, assim, a concessão da ordem "para determinar a imediata retificação do cálculo de pena, aplicando-se a perda de apenas 1/6 (um sexto) dos dias remidos anteriores à falta grave de 11/11/2022, com a consequente adequação dos marcos temporais para progressão de regime e demais benefícios" (e-STJ fl. 7).
+É relatório.
+Decido.
+Na hipótese, destaque-se o seguinte trecho da decisão proferida pelo Magistrado de primeiro grau (e-STJ fl. 19):
+No caso, houve violação as regras de locais autorizados para circulação e permanência durante a saída ao trabalho.
+ ..
+Em que pese a alegação de problemas de saúde, com necessidade constante de se utilizar o banheiro, nada há nos autos que comprove referida afirmação, nem impossibilidade de se utilizar o banheiro do metrô. inda que assim não fosse, sabe-se que o metrô possui banheiros públicos disponíveis aos seus usuários e que poderia ter sido utilizado pelo apenado. Também confirmou que já tomou café na lanchonete. O sentenciado também nada disse sobre o fato que constou na denúncia sobre entrar na lanchonete de mãos vazias e sair com uma sacola ou mochila. Também não há justificativa para se desviar do caminho juntamente com mais dois outros apenados.
+ ..
+A decisão juntada às fls. 2282 em nada altera a situação, mesmo porque se a argumentação do sentenciado é no sentido de que saia da rota para se utilizar do banheiro, não haveria necessidade de ser acompanhado por outros detentos. E ainda podia usar os banheiros do metrô, local autorizado.
+Na primeira decisão, consignou também o Juízo singular que, "tendo em vista a gravidade dos fatos, demonstrando que não se submete aos ditames legais necessários à pacífica convivência social, mas considerando que houve o retorno ao estabelecimento prisional a perda dos dias remidos será de 1/6" (e-STJ fl. 21).
+Após a interposição de agravo em execução pela defesa, a Corte de origem anulou a decisão que havia reconhecido a infração disciplinar, ao considerar que, " e mbora o agravante tenha sido previamente ouvido durante o procedimento administrativo (fls. 98/100), assistido por advogado e apresentado defesa escrita, é imprescindível para fins de regressão a regime mais severo, que ele seja ouvido em Juízo, em audiência de justificação, nos termos do art. 118, § 2º, da LEP" (e-STJ fl. 25).
+Quando da prolação do novo decisum, o Juízo de primeira instância restabeleceu as penalidades impostas desde a primeira decisão, recrudescendo, ainda, a fração de perda dos dias remidos, estabelecida, agora, em 1/6.
+Nos termos da decisão, "tendo em vista a gravidade dos fatos, demonstrando que não se submete aos ditames legais necessários à pacífica convivência social, a perda dos dias remidos será máxima. Atento aos parâmetros do artigo 57 da LEP, constato que o(a) acusado(a) com o seu ato buscou subverter toda a ordem e a disciplina da unidade prisional em que se encontrava ao transmitir aos demais detentos a clara mensagem de que poderia descumprir a norma jurídica e o comando judicial sem que dessa negativa adviessem quaisquer consequências" (e-STJ fl. 35).
+Todavia, no que se refere ao acórdão relativo ao julgamento do agravo em execução defensivo interposto contra o segundo decisum, a defesa não juntou aos autos sua cópia integral.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+ ..
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus .
+Publique-se e intimem-se.
+EMENTA
