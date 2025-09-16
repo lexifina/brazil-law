@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de pedido de desistência (e-STJ fls. 287/289) apresentado por IOX SPECIAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADO (BANCO FIBRA S.A. - cedente) referente ao presente agravo em recurso especial.
+Considerando tratar-se de pleito que, nos termos do artigo 998 do Código de Processo Civil, independe do consentimento da parte contrária, homologo a desistência do recurso, com fundamento no artigo 34, inciso IX, do Regimento Interno do Superior Tribunal de Justiça.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, determino à Coordenadoria que, tão logo publicada essa decisão, certifique o trânsito em julgado e providencie a baixa dos autos à origem.
+Proceda-se a susbstituição processual do pólo ativo conforme requerido às e-STJ fls. 209/276.
+Publique-se.
+Intimem-se.
+EMENTA
