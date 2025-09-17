@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GABRIEL RIBEIRO DELGADO contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO em apelação nos autos de ação de revisão de cláusulas contratuais c/c indenização por danos materiais e morais, com valor da causa de R$ 36.628,80.
+O julgado foi assim ementado (fl. 276-277):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL COMBINADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE FINANCIAMENTO DE VEÍCULO AUTOMOTOR. ALEGAÇÃO DE JUROS E TAXAS ABUSIVOS. NA SENTENÇA, O JUÍZO EXTINGUIU O PROCESSO SEM RESOLUÇÃO DE MÉRITO, COM BASE NO ART. 485, VI, DO CPC, ANTE O RECONHECIMENTO DA ILEGITIMIDADE ATIVA AD CAUSAM. IRRESIGNAÇÃO QUE NÃO MERECE ACOLHIMENTO. NÃO RESTOU DEMONSTRADA A LEGITIMIDADE ATIVA DO APELANTE. PESSOA DIVERSA DA PREVISTA NO CONTRATO CELEBRADO, O QUAL TEM COMO CONTRATANTE PESSOA ESTRANHA À LIDE. VEDAÇÃO LEGAL PARA PLEITEAR A REVISÃO CONTRATUAL, VISTO A IMPOSSIBILIDADE DE PLEITEAR EM NOME PRÓPRIO DIREITO ALHEIO. ART. 18, CDC. ART. 299, CC. NEGADO PROVIMENTO AO RECURSO. MANUTENÇÃO DA SENTENÇA EM SEUS PRÓPRIOS TERMOS, COM MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE 10% PARA 12% SOBRE O VALOR DADO À CAUSA.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 98 e 99 do Código de Processo Civil.
+Requer o provimento do recurso para que se anule o acórdão recorrido por falta de fundamentação, não apreciação dos argumentos e erro na valoração das provas, reconhecendo-se a prescrição anual.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de revisão de cláusulas contratuais c/c indenização por danos materiais e morais em que a parte autora pleiteou a revisão das cláusulas da Cédula de Crédito Bancário, a restituição dos valores pagos indevidamente, a fixação do saldo devedor e a condenação da parte ré ao pagamento de danos morais.
+Na sentença, o Juízo de primeiro grau julgou extinto o feito sem resolução do mérito, com base no art. 485, VI, do CPC, ante a ausência de legitimidade e interesse processual do autor, condenando-o ao pagamento das custas processuais e honorários de 10% sobre o valor atualizado da causa.
+A Corte estadual manteve integralmente a sentença.
+O recorrente alega, na petição de interposição do recurso especial, violação dos artigos 98 e 99 do CPC. Entretanto, nas razões, aduz questões diversas, relativas a danos morais e materiais, juros, dignidade humana, entre outros. Por fim, o pedido também é dissonante, pois requer o reconhecimento de prescrição.
+Não bastasse, o acórdão recorrido negou provimento em razão de ilegitimidade ativa do recorrente - o que não foi impugnado - constando ainda que ele teve a justiça gratuita deferida. Confira-se:
+Com efeito, verifica-se que ausente a demonstração da legitimidade do Apelante na presente demanda. Como bem esclarecido pela Sentença de proferida pelo Juízo de origem, não restou comprovado que o Apelante é o responsável pelas prestações mensais. Logo, a presente ação carece de uma condição processual, qual seja, a legitimidade ativa ad causam.
+Ante o exposto, voto no sentido de NEGAR PROVIMENTO ao recurso, majorando-se os honorários advocatícios de 10% para 12% sobre o valor da causa, nos termos do art. 85, §11 do CPC, observada a gratuidade de justiça deferida ao Apelante, mantidos os demais termos da Sentença recorrida.
+Dessa forma, o recurso interposto não possui nenhuma ligação com o acórdão proferido, estando, inclusive, completamente desconexos a interposição, a fundamentação e os pedidos.
+Verifica-se que a tese jurídica apresentada pela recorrente com relação à gratuidade de justiça encontra-se dissociada dos fundamentos do acórdão recorrido, o que, nos termos da jurisprudência desta Corte, atrai a aplicação da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
