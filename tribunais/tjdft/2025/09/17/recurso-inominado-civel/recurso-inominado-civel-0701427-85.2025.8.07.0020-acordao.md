@@ -1,0 +1,65 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0701427-85.2025.8.07.0020RECORRENTE(S)DEBORA MOURA DA SILVARECORRIDO(S)AZUL LINHAS AEREAS BRASILEIRAS S.A.RelatoraJuiza GISELLE ROCHA RAPOSO
+ Acórdão Nº2046241
+
+EMENTA
+
+ DIREITO DO CONSUMIDOR. TRANSPORTE AÉREO. VOO CANCELADO. PERDA CONEXÃO. DANO MORAL. INDENIZAÇÃO FIXADA NA ORIGEM. ARBITRAMENTO PROPORCIONAL. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+
+I. CASO EM EXAME
+
+1. Recurso inominado interposto pela autora em face da sentença que julgou procedente em parte o pedido inicial para condenar a ré a pagar à autora a quantia de R$ 1.000,00 a título de reparação por danos morais.
+
+2. Em seu recurso, alega que o atraso de 10 horas e 20 no voo gerou perda de conexão, pernoite forçada em cidade estranha, perda de exame pré-agendado e frustração em período de férias, em face do que requer a majoração dos danos morais.
+
+II. QUESTÃO EM DISCUSSÃO
+
+3. A questão em discussão consiste em verificar se o valor fixado a título de dano moral é proporcional ao dano causado.
+
+III. RAZÕES DE DECIDIR
+
+4. O exame do dano moral consiste em verificar a ofensa aos bens juridicamente tutelados pelo art. 5º, inciso X, da Constituição Federal e em relação ao arbitramento, cabe observar que a indenização por danos extrapatrimoniais visa à compensação pelos constrangimentos, aborrecimentos e humilhações experimentados, bem como à prevenção futura de fatos semelhantes, não havendo um critério matemático ou padronizado para estabelecer o montante pecuniário.
+
+5. O valor da reparação deve guardar correspondência com o gravame sofrido, devendo o juiz pautar-se nos princípios da proporcionalidade e da razoabilidade, sopesando as circunstâncias do fato e as condições pessoais e econômicas das partes envolvidas, assim como o grau da ofensa moral e sua repercussão.
+
+6. Nesse ponto, importante destacar que as Turmas Recursais consolidaram entendimento no sentido de que o valor da indenização é fixado na origem, pelo magistrado a quem incumbe o julgamento da causa, apenas se admitindo a modificação do quantum na via recursal se demonstrado que a sentença esteve dissociada dos parâmetros que ensejaram sua valoração, o que não restou comprovado.
+
+7. Portanto, verifica-se que, no caso, a indenização pelos danos morais foi fixada adequadamente pelo Juízo de origem, já que devidamente analisada a situação fática da autora, mostrando-se razoável e proporcional, sem, contudo, implicar enriquecimento sem causa da vítima. Precedente desta Turma Recursal: Acórdão 1935943.
+
+IV. DISPOSITIVO
+
+8. Recurso desprovido. Sentença mantida.
+
+9. Custas recolhidas. Condenada a recorrente vencida ao pagamento de honorários advocatícios, estes fixados em 10% sobre o valor da condenação.
+
+10. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei 9.099/95.
+
+______________________
+
+Dispositivo relevante citado: Constituição Federal, art. art. 5º, inciso X.
+
+Jurisprudência relevante citada: TJDDFT, Acórdão 1935943, 0737538-17.2024.8.07.0016, Relator(a): SILVANA DA SILVA CHAVES, SEGUNDA TURMA RECURSAL, data de julgamento: 21/10/2024, publicado no DJe: 29/10/2024.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, GISELLE ROCHA RAPOSO - Relatora, SILVANA DA SILVA CHAVES - 1º Vogal e MARIA ISABEL DE LOURDES SILVA - 2º Vogal, sob a Presidência da Senhora Juíza SILVANA DA SILVA CHAVES, em proferir a seguinte decisão: RECURSO DESPROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 24 de Setembro de 2025
+
+Juíza GISELLE ROCHA RAPOSORelatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza GISELLE ROCHA RAPOSO - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza SILVANA DA SILVA CHAVES - 1º Vogal Com o relatorA Senhora Juíza MARIA ISABEL DE LOURDES SILVA - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO DESPROVIDO. UNÂNIME
