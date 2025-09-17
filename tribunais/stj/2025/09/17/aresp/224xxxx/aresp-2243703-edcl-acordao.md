@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. ACÓRDÃO EMBARGADO DEVIDAMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por GRÊMIO FOOTBALL PORTO ALEGRENSE ao acórdão proferido pela Segunda Turma do STJ, o qual negou provimento ao agravo interno, nos termos da seguinte ementa (e-STJ, fls. 346-359):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AGRAVO DE INSTRUMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. INÉPCIA DA INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. DISTRIBUIÇÃO DINÂMICA DO ÔNUS DA PROVA. VIABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento da segunda instância, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A Corte de origem não analisou, ainda que implicitamente, a tese de deficiência da petição inicial, até porque suscitada tão somente nas razões do recurso especial, revestindo-se de evidente inovação recursal, o que conduz à inafastável ausência de prequestionamento. Incidência da Súmula n. 211/STJ.
+3. Consoante os "termos do art. 373 do CPC, cabe ao autor provar o fato constitutivo do direito e ao réu cabe provar o fato impeditivo, modificativo ou extintivo do direito do autor. Todavia, os arts. 370 e 373, § 1º, do diploma processual facultam ao magistrado, no exercício dos poderes instrutórios que lhe competem, atribuir o ônus da prova de modo diverso entre os sujeitos do processo quando diante de situações peculiares, conforme a teoria da distribuição dinâmica do ônus da prova" (AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/10/2024, DJe de 21/10/2024).
+4. Nesse sentido, o Superior Tribunal de Justiça já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018).
+5. Agravo interno desprovido.
+Defende ter havido omissões no aresto embargado. Pontua que o julgamento não se manifestou sobre questões cruciais, como a presunção legal do pagamento das contribuições e a impossibilidade de inversão do ônus da prova, além da inépcia da petição inicial.
+Argumenta o insurgente que a petição inicial é inepta por não estar acompanhada de documentos necessários, que poderiam ser obtidos pela Federação das Associações de Atletas Profissionais (FAAP) com a Confederação Brasileira de Futebol (CBF), conforme previsão legal.
+Sustenta que a presunção legal do pagamento das contribuições, devido ao registro dos contratos na CBF, afasta a necessidade de inversão do ônus da prova. Menciona que a FAAP tem acesso aos contratos e, portanto, não havia justificativa para a inversão do ônus probatório.
+Pugna pelo acolhimento destes embargos de declaração (e-STJ, fls. 265-279).
+Contraminuta não apresentada (e-STJ, fl. 384).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. ACÓRDÃO EMBARGADO DEVIDAMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem ser acolhidos.
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscurida de, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+O acórdão proferido por este Colegiado decidiu a controvérsia com base em fundamentação sólida, sem omissões, obscuridades ou contradições. Na verdade, apenas se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+A propósito:
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL (artigo 105, inciso III, "a", da CRFB/88) - REGISTROS PÚBLICOS - AÇÃO DE RETIFICAÇÃO DE NOME - DUPLICAÇÃO DE CONSOANTE INSERTA NO APELIDO DE FAMÍLIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO DESPROVENDO O APELO EXTREMO, MANTIDA A IMPROCEDÊNCIA DO
+PEDIDO VEICULADO NA EXORDIAL.
+1. Nos termos do artigo 1.022 do Código de Processo Civil, os embargos de declaração, por consubstanciarem modo de impugnação às decisões judiciais de fundamentação vinculada, são cabíveis somente para sanar vícios de omissão, contradição ou obscuridade, admitindo-se, outrossim, sua oposição para correção de erro material.
+2. Na hipótese, o acórdão proferido por este órgão fracionário, por maioria, encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte recorrente nas razões do recurso especial, apenas decidindo de forma contrária aos seus interesses, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados. (EDcl no REsp 1.729.402/SP, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 15/03/2022, DJe 01/04/2022)
+Estão claras as circunstâncias que ensejaram a inviabilidade de provimento ao agravo interno. Firmou o acórdão embargado que a questão acerca da inépcia da petição configurou inovação recursal, evidenciando a carência de prequestionamento do dispositivo alegado como violado - a atrair o teor da Súmula 211/STJ.
+Acerca da distribuição do ônus da prova, o julgamento ora questionado estabeleceu que a Corte de origem, ao examinar a questão, arrematou que a hipótese dos autos qualificaria a incidência da distribuição dinâmica do ônus probatório, porquanto as provas relevantes estariam em posse da parte ré, a ora demandante.
+Nesse cenário, demonstrou-se que essa estipulação era cabível em razão de previsão legal e jurisprudencial. No tocante ao teor da distribuição do ônus probante, ou seja, o que a cada parte caberia demonstrar, justificou-se ser questão fático-probatória, ocasionando o óbice sumular n. 7 desta Corte Superior.
+Leia-se (e-STJ, fls. 353-355):
+O recorrente rechaça a distribuição do ônus probatório, ao afirmar que não lhe caberia demonstrar ou colacionar os contratos que são importantes para o desfecho da demanda.
+A Corte de origem ao examinar a questão, arrematou que a hipótese dos autos qualificaria a incidência da distribuição dinâmica do ônus probatório, porquanto as provas relevantes estariam em posse da parte ré, ora demandante. Leia-se trecho do acórdão (e-STJ, fls. 106-108):
+ ..
+Como se observa, coube ao julgador, diante da avaliação do conjunto fático e probatório dos autos, definir o ônus probante às partes.
+Desse modo, sobre a questão referente à justiça dessa distribuição, incide o óbice da Súmula n. 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial), pois o reexame da premissa fixada pela segunda instância quanto à fixação do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o Superior Tribunal de Justiça já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AR Esp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018 ).
+Confiram-se, ainda, os seguintes julgados:  .. .
+Em sintonia com esses citados precedentes, "nos termos do art. 373 do CPC, cabe ao autor provar o fato constitutivo do direito e ao réu cabe provar o fato impeditivo, modificativo ou extintivo do direito do autor. Todavia, os arts. 370 e 373, § 1º, do diploma processual facultam ao magistrado, no exercício dos poderes instrutórios que lhe competem, atribuir o ônus da prova de modo diverso entre os sujeitos do processo quando diante de situações peculiares, conforme a teoria da distribuição dinâmica do ônus da prova" (AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/10/2024, DJe de 21/10/2024).
+Ademais, conforme consignado também no voto-vogal do Ministro Afrânio Vilela, "ao contrário do alegado pela parte agravante, não se trata de inversão do ônus da prova - medida aplicável às relações de consumo -, mas sim da aplicação dos arts. 319, § 1º, c/c o art. 396 e seguintes, ambos do Código de Processo Civil, que dispõem sobre a exibição de documentos que se encontram em poder da parte contrária. É exatamente essa a situação dos autos, em que a solução da controvérsia exige a apresentação do contrato desportivo - documento que, como se sabe, não é acessível ao público em geral" (e-STJ, fl. 359).
+Portanto, de forma certa ou errada, todos os fatos, provas e argumentos aduzidos pelas partes foram apreciados pelas instâncias ordinárias, o que afasta a pretensa negativa de prestação jurisdicional.
+Assim, não se vislumbra a presença de nenhum dos óbices elencados no art. 1.022 do CPC/2015, ficando nítida a pretensão de modificação do resultado do acórdão embargado, finalidade a qu e não se prestam os embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
