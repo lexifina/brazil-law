@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Os arts. 932, inciso III, e 1.021, § 1.º, ambos do Código de Processo Civil positivaram o princípio da dialeticidade recursal. Assim cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. Inexistente insurgência concreta contra a fundamentação da decisão que não conheceu do agravo em recurso especial, incide a Súmula n. 182 do STJ.
+3. Dada a preclusão consumativa e a vedação à inovação recursal, é inexequível corrigir, no agravo interno, a fundamentação deficiente do agravo em recurso especial.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno, interposto pelo ESTADO DA PARAÍBA contra decisão da Presidência deste Sodalício, que não conheceu do Agravo em Recurso Especial (fls. 532-533).
+Na origem, cuida-se de embargos à execução fiscal, ajuizados pela Agravada, cujo pedido foi acolhido em primeiro grau de jurisdição (fls. 278-296).
+O apelo fazendário foi parcialmente provido (fls. 368-382).
+Opostos embargos declaratórios, foram acolhidos "para declarar a nulidade do julgamento do recurso de Apelação, realizado na sessão virtual de 22 a 29 de maio 2023 (Certidão ID 21738504) e, consequentemente, do Acórdão (ID 21750901), devendo ser publicada nova pauta, agora em sessão telepresencial" (fl. 421).
+Em novo julgamento, deu-se parcial provimento à apelação, em aresto assim resumido (fl. 438):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. RECOLHIMENTO A MENOR. INCENTIVO FISCAL CONCEDIDO A SEGMENTO DE MERCADO. CONDIÇÃO IMPOSTA POR DECRETO AO CONTRIBUINTE SUBSTITUÍDO. AUSÊNCIA DE LEI A AMPARAR A CONDIÇÃO. ILEGALIDADE E INCONSTITUCIONALIDADE INCIDENTAL. OBRIGAÇÃO DE COMUNICAÇÃO DO ESTADO AO CONTRIBUINTE SUBSTITUTO. AUSÊNCIA DE PROVA. CONDIÇÃO REVOGADA POR ALTERAÇÃO NORMATIVA. RETROAÇÃO DA NORMA MAIS BENÉFICA. CRÉDITO TRIBUTÁRIO DESCONSTITUÍDO. ACOLHIMENTO DOS EMBARGOS. IRRESIGNAÇÃO. SEGURO GARANTIA. PROVIDÊNCIA ADOTADA PELA EXECUTADA PARA EMPRESTAR GARANTIA À TUTELA PROVISÓRIA E, POR ISSO, NÃO COMPREENDE AS DESPESAS PROCESSUAIS. OPÇÃO DA PARTE. PROVIMENTO PARCIAL DO RECURSO.
+ ..
+No apelo nobre, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a ora Agravante apontou, preliminarmente, afronta ao art. 1.022, inciso II, do Código de Processo Civil, pois a Corte local não teria sanado as omissões apontadas nos embargos declaratórios lá opostos.
+No mérito, alegou que, "ao levar os embargos para julgamento no órgão colegiado, a relatoria cometeu flagrante erro de procedimento, ao descumprir o § 2º do art. 1.024 do CPC" (fl. 475).
+Afirmou que (fls. 481-482):
+ ..  a fruição do benefício fiscal de redução da carga tributária do ICMS foi condicionada à manifestação expressa, mediante celebração de termo de acordo a ser firmado com o órgão fazendário, que estabelecerá as condições para operacionalização dentro do regime de substituição tributária, especialmente quanto à fixação da base de cálculo do ICMS, de sorte que não pode prevalecer interpretação extensiva, pois a legislação tributária que concede benefícios fiscais deve ser interpretada literalmente, nos termos do artigo 111 do Código Tributário Nacional - CTN, situação também delineada no que dispõe a Seção III da Lei nº 6.379/96 sobre isenções, incentivos e benefícios fiscais.
+ ..
+De forma contundente, a condição contida no § 2º do Decreto n º 22.927/2002, não traz a característica da faculdade, ou seja, não deixa a bel prazer do sujeito passivo a escolha pelo regime tributário da substituição tributária, apenas faculta a possibilidade de adesão, para fins do benefício da redução de carga tributária, ao preenchimento da circunstância ali imposta.
+Notadamente, na seara tributária as operações que envolvam veículos automotores estão sujeitas à sistemática da substituição tributária por força do Convênio 132/92 e do art. 390 c/c Anexo V do RICMS-PB (Decreto nº 18.930/97). Por esta razão é com a celebração do instrumento de Termo de Acordo que se estabelecerão as condições para operacionalização do benefício de redução da carga tributária, especialmente quanto à fixação da base de cálculo do ICMS nas operações com estes produtos.
+Com efeito, no âmbito da legislação estadual as regras gerais sobre o pedido e a concessão de regime especial estão previstas no art. 158 da Lei nº 6.379/96. No caso específico dos autos trata-se de incentivo fiscal facultativo, sujeito a contrapartidas, cabendo ao contribuinte a opção de utilizá-lo ou não, segundo suas conveniências; por isso, não há como reconhecer o direito ao benefício sem a assunção dos correspondentes ônus - assinatura do Termo de Acordo.
+Sustentou que o "Apelado deve se responsabilizar pela utilização indevida da redução da carga tributária e, assim como tem o dever de recolher o ICMS Substituição tributária, tem o ônus de sofrer a autuação em função da falta de recolhimento" (fl. 483).
+Afirmou que "não há que se falar em ausência da Fazenda Estadual ter tentado comprovar a correta constituição do crédito tributário, pois, além da finalidade da questão de fundo ser de clarividência óbvia, nos termos que acima esposados, é de se ver que o ônus da prova contrária à dívida ativa, que possui presunção de certeza e liquidez, é do Autor/Apelado" (fl. 486) e defendeu a inaplicabilidade da exceção da retroação da norma tributária.
+No mais, alegou serem exorbitantes os honorários advocatícios fixados na origem.
+Apresentadas as contrarrazões (fls. 492-494), o recurso especial foi inadmitido na origem (fls. 498-502), advindo o presente agravo nos próprios autos (fls. 505-519), acompanhado da respectiva contraminuta (fls. 521-524).
+Nesta Corte, não se conheceu do agravo em recurso especial (fls. 532-533).
+No presente recurso interno, a parte Agravante sustenta que (fls. 543-545):
+Quanto a violação do art. 1022 do CPC, a tese processual é de fácil compreensão e cinge-se quanto a ausência de análise de pontos cruciais das razões recursais que deixaram de ser ponderados, tendo em vista que foram opostos embargos de declaração apontando o erro do julgamento, por ter sido feito pelo colegiado (Num. 22242041), porém foram rejeitados sem analisar a questão da violação ao § 2º do art. 1.024 do Código de Processo Civil.
+Veja-se que são temas fundamentais para a melhor conclusão do julgado e devem ser necessariamente examinados pelo órgão julgador, pois certamente irão conduzir à reforma da decisão.
+Ora, o silencio do Tribunal acarreta evidente violação ao art. 1.022 do CPC.
+ ..
+Ao contrário do que afirma, a questão atinente ao recurso especial não está ausente o prequestionamento. Isso porque, conforme decisão agravada, O acórdão em questão foi objeto de Embargos de Declaração.
+Para fins de prequestionamento, como cediço, sabe-se que é suficiente o debate acerca da temática sub judice, afigurando-se prescindível a indicação expressa dos dispositivos supostamente violados.
+ ..
+Não há, portanto, que se falar em ausência de prequestionamento, razão pela qual merece ser reformada a r. decisão para que o recurso seja conhecido.
+Requer o provimento do agravo interno a fim de que seja conhecido e provido o apelo nobre.
+A Agravada apresentou resposta (fls. 547-551) e, não tendo havido a retratação da decisão agravada (fl. 555), os autos vieram conclusos.
+É o relatório.
+EMENTA
+DIREITO TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Os arts. 932, inciso III, e 1.021, § 1.º, ambos do Código de Processo Civil positivaram o princípio da dialeticidade recursal. Assim cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. Inexistente insurgência concreta contra a fundamentação da decisão que não conheceu do agravo em recurso especial, incide a Súmula n. 182 do STJ.
+3. Dada a preclusão consumativa e a vedação à inovação recursal, é inexequível corrigir, no agravo interno, a fundamentação deficiente do agravo em recurso especial.
+4. Agravo interno não conhecido.
+VOTO
+O recurso é manifestamente incognoscível.
+O art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil/2015, positivou o princípio da dialeticidade recursal. Assim, cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+Na espécie, o Agravo em Recurso Especial não foi conhecido, por ausência de impugnação específica aos óbices de admissibilidade consignados pela Corte local na decisão de fls. 498-502.
+A propósito, confiram-se os seguintes excertos da decisão ora agravada (fls. 532-533; grifos no original):
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de interesse recursal e ausência de prequestionamento.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+No entanto, nas razões do agravo interno, a parte agravante apenas menciona a fundamentação pela qual não se conheceu do agravo em recurso especial nesta Corte Superior, mas não desenvolve argumentação concreta no intuito de afastá-la.
+Com efeito, tendo se consignado, no decisum recorrido, que a Agravante não rebateu, no Agravo, os fundamentos consignados na decisão que inadmitiu o apelo nobre na origem (ausência de afronta ao art. 1.022 do CPC, ausência de interesse recursal e ausência de prequestionamento), caberia à Recorrente colacionar ou indicar os trechos de suas razões de Agravo em Recurso Especial, que demonstrassem a efetiva impugnação aos referidos óbices. Frise-se, não basta a oposição à decisão recorrida; é necessária a demonstração concreta de seu equívoco.
+Em verdade, os argumentos consignados no recurso interno estão completamente dissociados dos fundamentos sobre os quais repousa a decisão agravada. A Recorrente parece partir da premissa fático-jurídica equivocada de que a decisão de fls. 532-533 não teria conhecido do próprio recurso especial, quando, na realidade, neste Sodalício, o Agravo é que não foi conhecido.
+Em vez de demonstrar que, no Agravo em Recurso Especial, teria impugnado os fundamentos consignados na decisão de fls. 498-502 (falta de interesse recursal, ausência de prequestionamento e ausência de omissão do acórdão de origem), a Recorrente tece argumentos originários, diretamente em agravo interno, como se nesta Corte - e não no Tribunal de origem - é que tivessem sido aplicados os óbices acima referidos.
+Tratando-se de Agravo em Recurso Especial, a admissibilidade do recurso especial e o mérito da controvérsia apenas são examinados se vencida a etapa de conhecimento do próprio Agravo.
+Daí porque são argumentos inespecíficos, para impugnar a decisão de não conhecimento do Agravo, aqueles relativos aos pressupostos de conhecimento do próprio recurso especial e ao mérito da pretensão neste veiculada.
+A correta impugnação da decisão ora agravada - que, reitere-se, não conheceu do Agravo - demandaria a ilustração de que a peça de fls. 505-5019 conteria impugnação concreta aos óbices consignados na decisão que inadmitiu o apelo nobre na origem, providência da qual não se desincumbiu a Recorrente no presente recurso interno.
+Dessa forma, é inarredável aplicar, também para o presente recurso, o Verbete Sumular n. 182 do STJ, litteris: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+ ..
+3. In casu, a parte agravante limita-se basicamente a requerer a suspensão do feito, sem contrapor especificamente os fundamentos que dão supedâneo ao decisum hostilizado.
+4. A iterativa jurisprudência desta Corte consolidou-se no sentido de que não se conhece de Agravo Interno que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento nela esposado merece modificação.
+Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+ ..
+8. Agravo Interno não conhecido. (AgInt no AREsp n. 2.395.752/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023.)
+ ..
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. O regular recolhimento do preparo do recurso especial é ato incompatível com o pedido de gratuidade de justiça. Precedentes.
+4. Agravo interno não conhecido. (AgInt no AREsp n. 2.318.133/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023; sem grifos no original.)
+Frise-se, ademais, que " d ada a preclusão consumativa e a vedação à inovação recursal, é inexequível corrigir, no agravo interno, a fundamentação deficiente do agravo em recurso especial" (AgInt no AREsp n. 2.651.187/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/12/2024, DJEN de 23/12/2024; sem grifos no original).
+Com efeito, " a  impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa" (AgInt no AREsp n. 2.402.916/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/5/2025, DJEN de 26/5/2025; sem grifos no original).
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É o voto.
