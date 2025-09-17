@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por MARIA NATÁLIA MAGALHÃES DE OLIVEIRA e OUTRO contra ato do Ministro de Estado da Agricultura, Pecuária e Abastecimento devido ao cancelamento de pensão civil.
+Sustenta a parte impetrante o seguinte (fls. 3/4):
+ ..  teve concedido administrativamente o benefício de pensão há mais 40 anos, pensão decorrente do óbito do seu genitor, ADOZINDO MAGALHÃES DE OLIVEIRA, matricula SIAP 1345380 permanecendo todos esses anos recebendo a pensão.
+Não obstante, após Auditoria nº 24/2022 - Auditoria 1102125 da Controladoria Geral da União, que para avaliar a regularidade dos pagamentos de Pensão civis realizou o cruzamento dos dados SIAP com os dados de diversos sistemas com o objetivo de identificar pensionistas que descumpriram o pressuposto relativo ao exercício de cargos públicos permanentes, onde observou-se que a Impetrante possui uma aposentadoria da Secretaria de Estado de Educação do Estado do Rio de janeiro, tendo em vista identificação de suposto indício de irregularidade no acumula de benefícios, sendo esta notificada do cancelamento da Pensão Civil de forma imediata A PARTIR DO MÊS DE OUTUBRO DO CORRENTE ANO.
+Alega que possui direito líquido e certo à manutenção do benefício porque o cancelamento se deu sem observância do prazo decadencial previsto no art. 54 da Lei 9.784/1999. Afirma, ainda, que, estando de boa-fé, deve ser aplicado o prazo decadencial de revisão, com o consequente reconhecimento da decadência diante do transcurso de mais de dez anos da concessão da pensão.
+Afirma, também, que possui direito adquirido "por ser pensionista há muitos anos, não podendo de uma hora para outra ter seu benefício cancelado" (fl. 9).
+Formula, igualmente, pedido liminar sob o argumento de que possui direito líquido e certo e que o cancelamento do benefício implicará grave prejuízo a ela por já contar com 96 anos de idade e necessitar de cuidados especiais.
+Às fls. 62/64, foi deferido o pedido liminar "em favor de MARIA NATALIA MAGALHAES DE OLIVEIRA, a fim de que a autoridade impetrada suspenda os efeitos do ato que determinou o cancelamento de sua pensão, até o julgamento do presente mandado de segurança" (fl. 64).
+Às fls. 72/301, a autoridade coatora prestou informações e, na oportunidade, afirmou que (fl. 79):
+9. Em resumo, o cancelamento da pensão recebida pela Impetrante não se deu de forma arbitrária e desmotivada, mas em decorrência do resultado da auditoria realizada pela Controladoria Geral da União no âmbito da Superintendência Federal de Agricultura, Pecuária e Abastecimento no Rio de Janeiro (Solicitação de Auditoria nº 24/2022 - Auditoria 1102125).
+10. No caso, referida auditoria, realizada com o objetivo de avaliar a regularidade dos pagamentos de pensões civis, após efetuar o cruzamento dos dados SIAPE com os dados de diversos sistemas com o objetivo de identificar pensionistas que descumpriram o pressuposto relativo ao exercício de cargos públicos permanentes, identificou que a Impetrante possui uma aposentadoria junto à Secretaria de Estado de Educação do Estado do Rio de Janeiro, em razão do exercício anterior de cargo público, o que justifica o cancelamento da pensão referida, nos termos da Portaria SGP/SEDGG/ME nº 4645, de 24 de maio de 2022, publicada no Diário Oficial da União de 25 de maio de 2022, e nos termos do artigo 5º, parágrafo único, da Lei nº 3.373, de 12 de março de 1958.
+Às fls. 302/313, a União manifestou seu interesse na demanda e interpôs agravo interno da decisão que havia deferido o pedido liminar.
+Intimado, o Ministério Público Federal não se manifestou (fl. 316).
+A parte impetrante não apresentou impugnação (fls. 318/319).
+É o relatório.
+Em consulta ao site da Receita Federal, verifico que a parte impetrante veio a óbito em 2025.
+Considerando que no mandado de segurança a parte impetrante pleiteava a anulação do ato do Ministro de Estado da Agricultura, Pecuária e Abastecimento que havia cancelado a pensão que recebia em razão do falecimento de seu pai, e que essa pensão não poderá ser repassada a seus eventuais herdeiros, é o caso de extinção do mandado de segurança.
+Eventual pretensão de ressarcimento por parte da União contra os herdeiros de MARIA NATÁLIA MAGALHÃES DE OLIVEIRA em razão da liminar proferida pelo Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) às fls. 62-64, deverá ser objeto de ação própria.
+Ante o exposto, julgo extinto o presente mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
