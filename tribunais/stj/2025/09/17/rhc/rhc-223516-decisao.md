@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RICARDO ALESSANDRO DO NASCIMENTO GONCALVES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o recorrente teve a segregação cautelar decretada, em razão do suposto descumprimento de condições impostas, quando da substituição da prisão preventiva por medidas cautelares alternativas à prisão.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem. A ordem foi denegada, em acórdão de fls. 179-185.
+Na hipótese, a defesa aponta a existência de constrangimento ilegal consubstanciado no encarceramento provisório determinado em desfavor do recorrente
+Aponta falta de fundamentação para a segregação cautelar.
+Aduz que "o fundamento utilizado pelos doutos Desembargadores não pode ser totalmente válido, pois o fato analisado e imputado ao averiguado por ser ele primário e bons antecedentes, não bastasse doente por dependência química, isto f eito, ante tais fundamentos, vislumbrando o constrangimento ilegal, deve-se REVOGAR o monitoramento eletrônico e consequentemente o mandado de prisão expedido" (fl. 203).
+Requer o provimento do recurso para revogar o monitoramento eletrônico, bem como o mandado de prisão determinado em desfavor do recorrente.
+É o relatório. DECIDO.
+In casu, a prisão preventiva decretada em desfavor do recorrente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública, haja vista que; tendo sido beneficiado com a substituição da prisão cautelar por medidas cautelares alternativas, dentre as quais, o monitoramento eletrônico; ele teria agido de forma contrária as condições estabelecidas.
+Nesse sentido, o Juízo de primeiro grau afirmou que "houve violação injustificada do sinal do equipamento, sendo o representado devidamente intimado para esclarecimentos e regularização, o que não ocorreu" (fl. 70).
+Outrossim, o Magistrado destacou a necessidade de prisão para assegurar a aplicação da lei penal, ressaltando que "restou certificado que encontra-se em local incerto e não sabido, impossibilitando o acompanhamento da medida cautelar e frustrando a efetividade da fiscalização judicial" (fl. 70).
+Tais circunstâncias demonstram a periculosidade do recorrente, justificando a segregação cautelar em seu desfavor.
+Sobre o tema:
+"No caso, a prisão preventiva do ora agravante foi restabelecida em razão do descumprimento das condições anteriormente impostas para a concessão de liberdade provisória" (AgRg no RHC n. 204.905/BA, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024.).
+"O descumprimento das medidas cautelares impostas justifica a revogação da liberdade provisória, conforme previsto no art. 312, § 1º, do CPP, não havendo ilegalidade na decretação da prisão preventiva, principalmente diante da ineficácia das medidas menos gravosas" (HC n. 850.258/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 29/10/2024.).
+"2. A prisão preventiva foi devidamente decretada para garantia da aplicação da lei penal, considerando que o agravante não foi encontrado no endereço fornecido na fase policial, permanecendo foragido por quase 6 anos" (AgRg no HC n. 931.185/MA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+"No caso, a prisão preventiva foi mantida pelo Tribunal estadual por entender ser necessária a medida para garantir a ordem pública, para conveniência da instrução processual e assegurar a aplicação da lei penal, enfatizando que o acusado encontra-se foragido" (AgRg no HC n. 971.169/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025.)
+"A condição de foragido do paciente no presente caso, justifica a manutenção da prisão preventiva, conforme entendimento consolidado na jurisprudência, que considera a fuga como fundamento suficiente para a cautelaridade" (AgRg no HC n. 856.769/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+No mais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Por fim, no que concerne ao pedido de revogação de monitoramento eletrônico; verifico que a quaestio não foi apreciada pelo Tribunal de origem, o que obsta o exame desta Corte, sob pena de indevida supressão de instância.
+A propósito:
+"Sob pena de indevida supressão de instância, mostra-se inviável a manifestação desta Corte sobre questão não debatida pelo Tribunal de origem, como ocorre no caso, quanto ao pleito de aplicação de medidas cautelares alternativas" (AgRg no HC n. 874.145/PE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
