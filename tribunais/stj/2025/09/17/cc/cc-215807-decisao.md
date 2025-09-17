@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE SANTO ANDRÉ (SP) e o JUÍZO DE DIREITO DA 1ª VARA CÍVEL E COMERCIAL DE SALVADOR (BA), para definir o órgão competente para processar e julgar a ação de cobrança ajuizada por POSTO PARADA CERTA COMÉRCIO DE COMBUSTÍVEIS E LUBRIFICANTES LTDA. em desfavor de PAVISOLO PAVIMENTO ASFÁLTICO E PAISAGISMO LTDA.
+O JUÍZO DE DIREITO DA 1ª VARA CÍVEL E COMERCIAL DE SALVADOR (BA), no qual a ação foi proposta, declinou da competência por entender que as partes não possuem qualquer tipo de ligação com a Comarca de Salvador (BA) e que a parte ré possui sede em Santo André (SP), determinando a remessa dos autos a um dos juízos da comarca de Santo André (SP) (fls. 12-14).
+O JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE SANTO ANDRÉ (SP) suscitou o presente conflito de competência ao fundamento de que as partes elegeram o foro da capital do estado da Bahia, conforme cláusula contratual válida (fls. 16-17).
+O Ministério Público Federal absteve-se de apreciar o conflito por entender desnecessária sua intervenção (fls. 23-26).
+É o relatório. Decido.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a tribunais diversos, nos moldes delineados pelo art. 105, I, d, da Constituição Federal.
+A controvérsia consiste em definir o juízo competente para processar e julgar ação de cobrança ajuizada por POSTO PARADA CERTA COMÉRCIO DE COMBUSTÍVEIS E LUBRIFICANTES LTDA. em desfavor de PAVISOLO PAVIMENTO ASFÁLTICO E PAISAGISMO LTDA.
+Em princípio, a cláusula de eleição de foro é considerada válida quando firmada em contextos que revelam a natureza eminentemente empresarial da relação jurídica entre as partes. Isso se aplica mesmo nos casos em que se questiona a legalidade do próprio contrato ou do negócio jurídico. Importa destacar que a simples disparidade de capacidade econômica entre as partes não configura, por si só, uma situação de hipossuficiência econômica que justifique o afastamento da cláusula contratual de eleição de foro, conforme decidido no AgRg no AREsp n. 201.904/MS, sob a relatoria da Ministra Maria Isabel Gallotti, Quarta Turma, publicado no DJe de 30/5/2014.
+Portanto, em tese, não se vislumbra motivo para afastar a cláusula de eleição de foro, uma vez que não se identificam elementos que indiquem desigualdade entre os contratantes ou que demonstrem qualquer dificuldade dos réus em litigar no foro escolhido.
+Ainda assim, a cláusula do foro de eleição é válida e somente pode ser afastada quando reconhecida a sua abusividade, a inviabilidade ou a especial dificuldade de acesso ao Poder Judiciário, circunstâncias não demonstradas no caso em análise. Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - CLÁUSULA DE ELEIÇÃO DE FORO - NULIDADE - INEXISTÊNCIA - DELIBERAÇÃO UNIPESSOAL QUE DECLAROU A COMPETÊNCIA DO JUÍZO SUSCITADO - INSURGÊNCIA DO AGRAVANTE.
+1. Consoante orientação firmada pela Colenda Segunda Seção do Superior Tribunal de Justiça, a cláusula do foro de eleição é válida e somente pode ser afastada quando, segundo entendimento pretoriano, seja reconhecida a sua abusividade, a inviabilidade ou especial dificuldade de acesso ao Poder Judiciário. Precedentes.
+2. No caso dos autos, não há notícia acerca do reconhecimento judicial de nulidade da cláusula de eleição de foro, de modo que sobressai, portanto, a competência do r. juízo suscitado para processar e julgar o pedido de resolução contratual firmado entre os interessados.
+3. Agravo interno desprovido. (AgInt no CC n. 196.410/DF, relator Ministro Marco Buzzi, Segunda Seção, julgado em 30/4/2024, DJe de 7/5/2024.)
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1ª VARA CÍVEL E COMERCIAL DE SALVADOR (BA), o suscitado .
+Comunique-se aos Juízos envolvidos o teor desta decisão.
+Publique-se. Intimem-se.
+EMENTA
