@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO INTERPOSTO CONTRA ACÓRDÃO. NÃO CABIMENTO. RECURSO PRÓPRIO PARA IMPUGNAR DECISÕES MONOCRÁTICAS.
+I - Os arts. 1.021, caput, do Código de Processo Civil de 2015 e 258 do Regimento Interno do STJ preveem o cabimento de agravo interno somente contra decisão monocrática.
+II - A interposição de agravo interno contra decisão colegiada constitui erro grosseiro, sendo inviável a aplicação do princípio da fungibilidade recursal para o recebimento do recurso como embargos de declaração. Também é incabível a formulação de pedido de reconsideração contra acórdão, ante a ausência de previsão na legislação processual ou no Regimento Interno do Superior Tribunal de Justiça.
+III - Pedido de reconsideração não conhecido.
+RELATÓRIO
+Trata-se de pedido de reconsideração formulado contra julgamento colegiado.
+De fato, a Segunda Turma julgou recurso anterior e proferiu acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. ALEGAÇÃO DE NULIDADE. PRETENSÃO DE REEXAME FÁTICO- PROBATÓRIO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de exceção de pré-executividade em sede de execução fiscal. Na sentença, julgou-se o pedido improcedente. No Tribunal a sentença foi mantida. a quo,
+II - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação (art. 219 do CPC/73), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - O dissídio jurisprudencial viabilizador do recurso especial pela alínea do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea , impede o conhecimento da divergência jurisprudencial, diante a da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AR Esp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em , D Je .19/10/2017 27/10/2017.
+V - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AR Esp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em , D Je ; AgInt17/5/2018 24/5/2018 no AR Esp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em , D Je ; R Esp 1.717.512/AL, relator13/3/2018 19/3/2018 Ministro Herman Benjamin, Segunda Turma, julgado em , D Je 17/4/2018 .23/5/2018.
+VI - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+VII - Agravo interno improvido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO INTERPOSTO CONTRA ACÓRDÃO. NÃO CABIMENTO. RECURSO PRÓPRIO PARA IMPUGNAR DECISÕES MONOCRÁTICAS.
+I - Os arts. 1.021, caput, do Código de Processo Civil de 2015 e 258 do Regimento Interno do STJ preveem o cabimento de agravo interno somente contra decisão monocrática.
+II - A interposição de agravo interno contra decisão colegiada constitui erro grosseiro, sendo inviável a aplicação do princípio da fungibilidade recursal para o recebimento do recurso como embargos de declaração. Também é incabível a formulação de pedido de reconsideração contra acórdão, ante a ausência de previsão na legislação processual ou no Regimento Interno do Superior Tribunal de Justiça.
+III - Pedido de reconsideração não conhecido.
+VOTO
+Os arts. 1.021, caput, do Código de Processo Civil de 2015 e 258 do Regimento Interno do STJ preveem o cabimento de agravo interno somente contra decisão monocrática.
+A interposição de agravo interno contra decisão colegiada constitui erro grosseiro, sendo inviável a aplicação do princípio da fungibilidade recursal para o recebimento do recurso como embargos de declaração.
+Também é incabível a formulação de pedido de reconsideração contra a córdão, ante a ausência de previsão na legislação processual ou no Regimento Interno do Superior Tribunal de Justiça. Nesse sentido: RCD no AgInt nos EAREsp n. 2.045.308/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 8/8/2023, DJe de 10/8/2023; RCD no AgInt no AREsp n. 2.172.609/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/5/2023, DJe de 22/5/2023.
+Ante o exposto, não conheço do pedido de reconsideração.
+É o voto.
