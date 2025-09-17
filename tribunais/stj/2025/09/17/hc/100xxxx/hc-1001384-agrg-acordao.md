@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. RISCO DE REITERAÇÃO DELITIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco de reiteração delitiva do acusado, diante da reincidência do acusado.
+3. Dadas as apontadas circunstâncias dos fatos e as condições pessoais do réu, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319, ambos do CPP).
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FERNANDO HENRIQUE DOS SANTOS interpõe agravo regimental contra decisum de fls. 74-76, em que deneguei a ordem para manter a sua segregação cautelar.
+Nas razões do regimental, a defesa reitera que não há motivação suficiente para manter a prisão preventiva do acusado, uma vez não se tratar de reincidente específico.
+Pleiteia a reconsideração da decisão proferida ou a submissão do recurso à Turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. RISCO DE REITERAÇÃO DELITIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco de reiteração delitiva do acusado, diante da reincidência do acusado.
+3. Dadas as apontadas circunstâncias dos fatos e as condições pessoais do réu, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319, ambos do CPP).
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+Conforme explicitado anteriormente, embora as quantidades das drogas apreendidas não sejam expressivas (13 pinos de cocaína), houve a indicação de apreensão de dinheiro - "R$ 220,00 em notas variadas" - e da reincidência do acusado.
+A prisão preventiva foi devidamente justificada ante o registro de que " não há, nos autos, comprovante de ocupação lícita e o autuado é reincidente" (fl. 55, destaquei).
+A Corte de origem, por sua vez, denegou a ordem, sob a seguinte motivação:
+Destarte, externaram-se as razões de decidir, com respaldo no conteúdo do auto de prisão em flagrante, nos termos dos artigos 315 do Código de Processo Penal e 93, inciso IX, da Constituição Federal, nada indicando abstração, a par de o quadro narrado evidenciar, em tese, dolo exacerbado (ainda mais em face do depoimento dos policiais, que visualizaram o paciente comercializando entorpecentes fls. 07/10 - e da apreensão de dinheiro em espécie, cuja origem lícita não se demonstrou, a par da localização, no interior da sacola dispensada pelo paciente, de entorpecente dotado de acentuado poder viciante e altamente nocivo à saúde pública), com a imprescindibilidade da segregação cautelar para garantia da ordem pública, evitando-se novos desatinos por parte de indivíduo REINCIDENTE (fl. 12, grifei).
+O acórdão recorrido está alinhado à jurisprudência desta Corte, pois "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Nesse contexto, "havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. 6. Agravo regimental improvido. (AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024, D Je de 16/8/2024).
+Compreende o Superior Tribunal de Justiça que " o s arts. 282, § 4.º e 312, § 1.º, ambos do Código de Processo Penal, autorizam a prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força de outras medidas cautelares" (AgRg no RHC n. 177.112/MA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/6/2023.)
+Aplica-se ao caso o entendimento de que a "preservação da ordem pública justifica a imposição da prisão preventiva também quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no RHC n. 197.657/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024, DJe de 5/9/2024).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
