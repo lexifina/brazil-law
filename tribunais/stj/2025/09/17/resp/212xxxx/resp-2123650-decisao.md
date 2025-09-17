@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por JULIANO ANTONIO DA SILVEIRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS nos autos da Apelação Criminal n. 1.0000.23.056872-7/001 (fls. 325/333).
+No recurso especial (fls. 362/370), a defesa requereu, em síntese, a declaração de nulidade do reconhecimento realizado sem as formalidades do art. 226 do CPP e, em consequência, a absolvição do réu por insuficiência de provas.
+Contrarrazoado, o recurso foi admitido (fls. 383/385).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 399/401).
+É o relatório.
+O recurso especial não comporta provimento.
+A defesa pretende a declaração de nulidade do reconhecimento realizado sem as formalidades do art. 226 do CPP e, por consequência, a absolvição do réu por insuficiência de provas.
+Esta Corte tem o entendimento de que o reconhecimento realizado sem observância das formalidades do art. 226 do CPP não é apto, por si só, a desconstituir a condenação, quando esta venha lastreadas em outros elementos independentes que apontem para a autoria do delito.
+Restou consignado pelo Tribunal de origem que a condenação do réu não veio fundada exclusivamente no reconhecimento fotográfico, mas pelas circunstâncias da prisão do recorrente, imediatamente após os fatos. Do voto do relator, extraio o seguinte trecho (fls. 328/329 - grifo nosso ):
+ ..
+Ouvida em sede policial, a vítima AMFM narrou a dinâmica dos fatos e explicou como se deram a identificação e a apreensão do acusado:
+QUE nesta data, por volta das 16h40min, seguia pela Travessa Tenente Vasconcelos, quase esquina com Rua Santo Antônio, quando um indivíduo a empurrou pela cintura, nas costas e veio a subtrair o seu aparelho celular, que estava no bolso traseiro direito de sua calça; QUE tal indivíduo levou seu aparelho e correu rapidamente pela Rua Santo Antonio, não sendo mais visto; QUE a declarante foi ao encontro de sua mãe na Santa Casa, onde ela trabalha; QUE após relatar o ocorrido, foi até o posto da PM ali próximo para registrar a ocorrência; QUE todavia o posto da PM estava fechado e, quando retornavam, notou que um indivíduo saia em um mototáxi e logo percebeu que se tratava do autor dos fatos; QUE tem toda a certeza de que se tratava do autor dos fatos, pois notou que ele tem um cicatriz na parte posterior do braço direito, fato que havia observado no momento em que ele lhe subtraiu seu aparelho celular; QUE ademais, ele trajava as mesmas roupas, quais sejam camiseta preta com manga vermelha, bermuda preta/cinza, chinelos e boné preto; QUE comunicou os fatos à central de mototáxi, sendo que eles disseram ao mototaxista que era para retornar; QUE neste momento, passou uma viatura da PM e, após relatar o ocorrido, eles fizeram contato com a viatura mais próxima e capturaram o autor; QUE não conhecia o autor JULIANO ANTONIO DA SILVEIRA; QUE tem toda certeza de que ele se trata do autor do fato, pois, apresentado à declarante nesta delegacia, procedeu a reconhecimento pessoal: QUE além disso, no momento em que ele passou pela declarante na garupa do mototáxi. ele agiu de maneira jocosa com a declarante, gritando. rindo e dando "tchauzinho": QUE o seu aparelho celular Motorola One não foi recuperado; QUE estima que seu aparelho estivesse valendo cerca de R$ 500.00 (quinhentos reais); QUE do tempo em que foi subtraído o seu aparelho até o momento em que reencontrou o autor se passaram cerca de 30 minutos (sic, ordem 01).
+Sob o crivo do contraditório, AMFM ratificou suas declarações e confirmou ter reconhecido o acusado como autor do crime. Nesse ponto, a vítima detalhou que identificou o réu em razão das vestimentas que ele usava e da enorme cicatriz que ele tem no braço direito, conforme se extrai da foto juntada à fl. 23 da ordem 02.
+Como se não bastasse, a vítima AMFM reiterou que, pouco tempo depois do crime, o acusado passou na garupa de um moto-taxi e caçoou dela, contexto que conduziu a ofendida à identificação do autor.
+Por fim, AMFM frisou que, embora não tenha caído ou se lesionado, o empurrão perpetrado pelo réu foi forte e a desequilibrou (Pje mídias).
+Nas duas oportunidades em que foi ouvido, o policial Agnaldo Silveira Teixeira confirmou o teor do APFD e frisou que a vítima reconheceu de imediato o réu como autor do roubo (ordem 02 e Pje mídias).
+ ..
+Sendo assim, a Corte de origem concluiu pela suficiência de elementos relativamente à autoria. A reversão do entendimento firmado pelas instâncias ordinárias demanda, portanto, revolvimento do acervo fático-probatório dos autos, vedado pela Súmula 7/STJ.
+Pelo exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. ROUBO MAJORADO. RECONHECIMENTO PESSOAL NULIDADE. CONDENAÇÃO LASTREADA EM OUTROS ELEMENTOS DE CONVICÇÃO, INDEPENDENTES. PRETENSÃO DE ABSOLVIÇÃO QUE DEMANDA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Recurso especial improvido.
