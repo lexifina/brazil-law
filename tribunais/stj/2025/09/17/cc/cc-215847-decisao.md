@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE ACIDENTES DO TRABALHO DE SALVADOR - BA (Juízo suscitante) e o JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL DE SALVADOR - SJ/BA (Juízo suscitado).
+O incidente processual decorre de ação ajuizada em desfavor do Instituto Nacional do Seguro Social em que a parte autora objetiva a concessão do benefício de auxílio-doença c.c. aposentadoria por invalidez (fls. 164/169).
+O JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL DE SALVADOR - SJ/BA (Juízo suscitado), para quem a ação havia sido distribuída, se declarou incompetente para processar e julgar a demanda porque "o benefício da parte autora era decorrente de acidente do trabalho, conforme consta no documento extraído do sistema PLENUS anexado aos autos" (fl. 209), e determinou a remessa dos autos à Justiça Estadual da Bahia (Comarca de Salvador).
+Por sua vez, o JUÍZO DE DIREITO DA VARA DE ACIDENTES DO TRABALHO DE SALVADOR - BA suscitou o presente conflito com base nos seguintes fundamentos (fls. 10/14, destaques no original):
+No caso em questão, a Autora foi submetida à perícia realizada em 31/07/2024, por perito médico nomeado por este juízo, tendo o Expert concluído pela não existência de nexo de causalidade entre as moléstias identificadas e o trabalho exercido pela periciada (Id 456735187). Assim vejamos:
+HISTÓRIA PSIQUIÁTRICA PRÉVIA
+Em 07/06/2008, a pericianda foi vítima de uma explosão acidental em sua residência, causada por si mesma (através da utilização de álcool líquido como combustível na cozinha), da qual resultou queimaduras de 1º e 2º grau em face, pescoço, orelha direita e face anterior do tórax; ficou internada até 16/06/2008, recebendo alta ambulatorial para troca de curativo 02X por semana. Iniciou acompanhamento psiquiátrico em 25/05/09 apresentando quadro de irritabilidade, insônia e baixo limiar frustrativo o que foi caracterizado como depressão com sintomas psicóticos pelo médico assistente (..)
+A pericianda não gosta de falar sobre o incêndio provocado acidentalmente mas considera um evento traumático em sua vida.
+Em tempo, anote-se que não foi juntada CAT aos autos. Ademais, embora a Autora tenha percebido o auxílio por incapacidade temporária acidentário NB 536.550.105-1 no período de 19/07/2009 a 19/10/2009 (Id 479628426), o referido benefício foi concedido em decorrência de patologia ortopédica, tal qual Outras sinovites e tenossinovites - CID M658, doença diversa das moléstias psiquiátricas alegadas na inicial.
+Ainda, da análise dos autos, observa-se que, na realização da perícia administrativa do INSS (10/07/2008 - Id 479628427), para concessão do benefício de auxílio por incapacidade temporária não-acidentário NB 530.887.254-2, a própria Autora relatou que "foi vitima de queimadura em casa, atingindo ouvido direito e pescoço"; portanto, verifica-se, de igual modo, que o acidente traumático que agravou as patologias psiquiátricas da Autora ocorreu em sua residência, e não no ambiente do trabalho.
+Nesse sentido, da atenta análise dos autos, percebo que houve equívoco da Justiça Federal ao declinar da competência para este juízo.
+Com efeito, o art. 109, I, da Constituição Federal, estabelece a competência dos juízes federais para processar e julgar as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho (vinculada ao empregado, contribuinte obrigatório da Previdência), e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+Assim, é inafastável a conclusão de que a hipótese se enquadra perfeitamente no inciso supramencionado, sendo a Justiça Federal a competente para processar e julgar, conforme entendimento jurisprudencial:
+ ..
+Logo, a competência para conhecer da matéria, por disposição constitucional, (artigo 109, inciso I, da CF/88), é da Justiça Federal.
+O Ministério Público Federal opinou para que fosse declarada a competência da Justiça Federal (fls. 404/405).
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+Segundo o pacífico entendimento desta Corte Superior de Justiça, o teor da petição inicial é elemento essencial ao deslinde do conflito, uma vez que a definição da competência decorre da verificação da causa de pedir e do pedido nela apresentados.
+No presente caso, não se extrai da peça inicial nenhuma menção à ocorrência de acidente de trabalho, ou evento a ele equiparado, a atrair a regra excepcional do art. 109, I, da Constituição Federal, a qual estabelece a competência da Justiça estadual para processar e julgar os processos relativos a acidente de trabalho.
+Na petição inicial é narrado o seguinte (fls. 165/166):
+A parte Autora é segurada da Previdência Social, sendo sua situação completamente regular junto ao INSS, preenchendo, desse modo, os requisitos necessários para que reste configurada a qualidade de segurado  de carência, exigidos para a concessão do Auxilio-Doença.
+A demandante começou a trabalhar na empresa Otganização Bahia Serviços de Limpeza e Locação de Mão-de-obra, desempenhando as funções de auxiliar de serviços gerais. Iniciou o trabalho em 19/12/2000,tendo de sair em 09//02/2009, conforme documentação em anexo.
+Em 07/06/2008 foi vítima de queimadura de 1º e 2º graus profunda por álcool em combustão, lesionando gravemente a face, o pescoço, orelha direita e face anterior do tórax. Em razão desse faro, ficou internada até 16/06/2008, passando por tratamento ambulatorial por um longo período, com base nos-documentos em anexo.
+Consoante relatório médico especializado acostado, o estado de saúde da requerente reclama acompanhamento, pois, com CID E 323, tem depressão com sintomas psicóticos, o que à " torna incapaz para O exercício de atividades laborais. Aliás, por força desse quadro, a Parte Autora precisa tomar medicamentos a fim de abrandar o descontrole psicológico, só conseguindo dormir, inclusive, sob efeito de fortes drogas.
+Diante da difícil situação contada, dirigiu requerimento administrativo ao INSS no sentido de ter concedido o auxílio-doença a que faz jus. Estranhamente, contudo, foi indeferido em 02/09/2010, sob o fundamento de não existir incapacidade laborativa, documento que se encontra anexado.
+Portanto, não restou alternativa outra senão o ingresso com a presente ação para ter restabelecido o beneficio a que faz jus.
+Por se tratar de ação pela qual se pretende a obtenção de benefício de natureza previdenciária, não decorrente de acidente de trabalho, ou de evento a ele equiparado, a competência para o deslinde da causa é da Justiça Federal, de acordo com o art. 109, I, da Constituição Federal, que estabelece:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Nesse sentido, confira-se o seguinte julgado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO PREVIDENCIÁRIA DE CONVERSÃO DE AUXÍLIO-DOENÇA EM APOSENTADORIA POR INVALIDEZ. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. JUÍZO SUSCITADO.
+ ..
+2. No caso concreto, não se extrai da petição inicial qualquer alusão à ocorrência de acidente laboral que, como causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça Estadual.
+ ..
+4. Conflito de Competência conhecido para declarar competente para o processamento do feito o Juízo Federal do Juizado Especial Adjunto de Cáceres-SJ/MT, o suscitado.
+(CC 164.335/MT, relator Ministro Herman Benjamin, Primeira Seção, julgado em 27/3/2019, DJe 12/6/2019, sem destaque no original.)
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo Federal para o processamento e o julgamento do processo.
+Nos termos do art. 957 do Código de Processo Civil, anulo os atos decisórios proferidos pelo juízo incompetente; todavia, em virtude da natureza alimentar dos benefícios previdenciários, mantenho seus efeitos até que ocorra a manifestação do juízo competente.
+Publique-se. Comunique-se.
+EMENTA
