@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto pelo Estado do Rio Grande do Sul contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que não admitiu o recurso especial, em razão da inexistência de ofensa ao artigo 1.022 do Código de Processo Civil (CPC/2015).
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 164, e-STJ):
+AGRAVO DE INSTRUMENTO. CORREÇÃO MONETÁRIA. VIGÊNCIA DA LEI NS 11.960/09. INCIDÊNCIA DO IPCA-E. TEMA 810 DO STF. REAPRECIAÇÃO DA MATÉRIA. ART. 1.030, INCISO II, DO CPC/2015.
+1. A decisão proferida por esta 4ª Câmara Cível, no tocante ao índice de correção monetária incidente após a entrada em vigor da Lei nº 11.960/09, está em manifesto confronto com o entendimento do STF proferido no RE 870.947/SE - Tema 810.
+2. Reapreciação da matéria na forma estabelecida no art. 1.030, inciso II, do CPC/2015, para adequar a decisão ao posicionamento atual.
+3. De acordo com a decisão proferida em sede de repercussão geral, incide correção monetária pelo IPCA-E a contar da data da entrada em vigor da Lei nº 11.960/09.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Embargos de declaração rejeitados (fls. 187/193, e-STJ).
+No recurso especial, a parte recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito da alegação de que "aos requisitórios expedidos até 25/03/2015 no que tange à correção monetária aplica-se o quanto decidido na modulação dos efeitos da declaração de inconstitucionalidade nas ADIs 4357 e 4425" (fls. 222/223, e-STJ).
+Quanto à questão de fundo, sustenta a inaplicabilidade, ao caso dos autos, das teses fixadas nos julgamentos dos temas 905/STJ e 810/STF.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Primeiramente, cumpre observar que, quanto à matéria relacionada aos temas 905/STJ e 810/STF, a decisão agravada negou seguimento aos recursos especial e extraordinário, inadmitindo o especial apenas em relação à tese de violação do artigo 1.022, II, do CPC/2015 (fls. 242/253, e-STJ).
+Importa ressaltar que a Corte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Agravo de Instrumento 1.154.599/SP, Rel. Min. César Asfor Rocha, DJe de 12/5/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto deve ser impugnado mediante interposição de agravo regimental/interno junto à instância a quo.
+Nesse contexto, tem-se que passível de exame no presente agravo tão somente a questão relativa à tese de violação do artigo 1.022, II, do CPC/2015, pois, quanto ao mais, se aplica o decidido na mencionada Questão de Ordem no Agravo de Instrumento 1.154.599/SP.
+Cinge-se, pois, a controvérsia à alegação de negativa de prestação jurisdicional, decorrente de ausência de apreciação da tese de inaplicabilidade dos temas 905/STF e 810/STF ao caso dos autos, ao argumento de que a expedição do ofício requisitório em data anterior a 25/3/2015 levaria à aplicação da modulação estabelecida no julgamento das ADIs 4.357 e 4.425.
+Ocorre que o acórdão proferido no julgamento de embargos de declaração rejeitou explicitamente tal alegação. Confira-se (fls. 190/191, e-STJ, negritei e sublinhei):
+Conforme consignado na decisão agravada, "considerando a decisão proferida peio STF por ocasião do julgamento do Tema 810 e a rejeição dos respectivos embargos deciaratórios, bem como o julgamento do REsp nº 1.495.144/RS, submetido à sistemática de julgamento dos recursos repetitivos, deve incidir correção monetária peio IPCA-E a contar da vigência da Lei nº 11.960/09".
+Destaco que a modulação dos efeitos estampada nas ADIs 4.357 e 4.425 reconheceu a validade dos precatórios expedidos ou pagos até 25 de março de 2015, a fim de evitar eventual rediscussão do débito em que já fora aplicada TR, não alcançando, todavia, a hipótese dos autos.
+Afasta-se, portanto, a alegada violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, destaca-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+A propósito:
+SERVIDOR PÚBLICO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICENÇA- PRÊMIO E ENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO. ARGUIÇÃO DE VIOLAÇÃO A ENUNCIADO DE TRIBUNAL. NÃO CABIMENTO DE RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Verifica-se não ter ocorrido negativa de prestação jurisdicional, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+ ..
+(AgInt no AREsp n. 2.850.632/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/5/2025, DJEN de 23/5/2025, negritei.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. MAJORAÇÃO DA VERBA HONORÁRIA. DECISÃO MANTIDA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - A análise do acórdão recorrido em conjunto com a sua decisão integrativa revela que o Tribunal de origem adotou fundamentação necessária e suficiente à solução integral da controvérsia que lhe foi devolvida, tendo apreciado, de modo coerente e satisfatório, as questões imprescindíveis ao deslinde do feito. Conclui-se que o acórdão recorrido não padeceu de qualquer mácula capaz de ensejar a oposição de embargos de declaração. Sendo assim, a oposição dos embargos declaratórios teve a sua finalidade desvirtuada, porquanto caracterizou, apenas, a irresignação da parte embargante, ora recorrente, em relação à prestação jurisdicional contrária aos seus interesses.
+IV - Conforme a pacífica jurisprudência do Superior Tribunal de Justiça, não ocorre a violação do art. 1.022 do CPC/2015, quando as questões discutidas nos autos são analisadas, mesmo que implicitamente, ou ainda afastadas de modo embasado pela Corte Julgadora originária, posto que a mera insatisfação da parte com o conteúdo decisório exarado não autoriza a oposição de embargos declaratórios.
+V - Ainda de acordo com o entendimento dominante desta Corte Superior, a violação supramencionada tampouco ocorre quando, suficientemente fundamentado o acórdão impugnado, o Tribunal de origem deixa de enfrentar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigado a proceder dessa forma.
+ ..
+IX - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.162.744/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/5/2025, DJEN de 26/5/2025, negritei.)
+Ante o exposto, conheço do agravo, para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
