@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por OUROESTE BIOENERGIA LTDA. contra a decisão de fls. 227-230, que negou provimento ao agravo em recurso especial e majorou os honorários advocatícios em 10% sobre o valor já arbitrado nas instâncias de origem.
+A parte embargante alega que houve contradição no julgado, pois o recurso especial foi interposto contra decisão colegiada proferida em agravo de instrumento, que não tratou dos ônus sucumbenciais, inexistindo, portanto, condenação em honorários advocatícios até o momento.
+Afirma que os juízos recursais não possuem a prerrogativa de originar ônus sucumbenciais, sendo possível que a majoração de honorários tenha ocorrido por mero erro material, o que justifica a oposição dos embargos de declaração para retificação da decisão.
+Requer o provimento dos embargos de declaração para clarificar a contradição do julgado que majorou a verba honorária inexistente ou, subsidiariamente, para retificar a decisão, excluindo o ponto relacionado aos honorários sucumbenciais.
+As contrarrazões foram apresentadas às fls. 239-247, oportunidade em que a embargada requereu a rejeição dos embargos com a aplicação da multa do art. 1.026, § 2º, do CPC, ante o seu manifesto intuito protelatório.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+Em exame da decisão embargada, verifica-se que, com a negativa do provimento do agravo em recurso especial, determinou-se a majoração dos honorários recursais em 10% sobre o valor já arbitrado pela origem. Todavia, reconheço a omissão apontada na decisão embargada.
+Mediante análise dos autos, verifica-se que inexistiu prévia fixação de verba sucumbencial em desfavor da ora embargante. Isso porque o agravo de instrumento foi interposto por ela contra a decisão (fls. 31-35), na qual o Magistrado a quo, em liquidação de sentença, declarou líquidas as dívidas e esclareceu quais eram as correspondentes à ação principal, oportunidade em que fez tão-somente referência aos honorários da dita ação. Ao final (fl. 35), ele ressaltou que não haveriam custa s e honorários no referido incidente.
+Com efeito, para haver a majoração dos honorários recursais é necessário o atendimento de três requisitos cumulativos, sendo eles: a) a decisão recorrida ter sido publicada a partir de 18/3/2016; b) não tiver sido dado conhecimento ou provimento ao recurso; e c) houver condenação em honorários advocatícios fixados pela origem (AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antônio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017).
+Assim, é de rigor o afastamento da majoração dos honorários recursais determinada no último parágrafo da decisão embargada.
+Ante o exposto, acolho os embargos de declaração para sanar a omissão indicada e afastar a majoração dos honorários recursais, sem, contudo, atribuir ao recurso efeitos infringentes.
+Publique-se. Intimem-se.
+ EMENTA
