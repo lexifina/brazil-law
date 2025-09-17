@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação do art. 45 do CPC, na falta de demonstração de similitude fática entre o acórdão recorrido e o acórdão paradigma e na incidência das Súmulas n. 5 e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta de CONDOMÍNIO BURITI às fls. 238-245, em que sustenta que o recurso especial não preenche os requisitos de admissibilidade, pois não houve prequestionamento da matéria, a pretensão recursal é vedada pela Súmula n. 7 do STJ e não foi demonstrada a similitude fática entre os acórdãos confrontados. Requer o desprovimento do agravo.
+Contraminuta de DIRECIONAL ENGENHARIA S.A. às fls. 247-258, em que argumenta que o recurso especial é inadmissível por ausência de demonstração de violação do art. 45 do CPC, não houve prequestionamento da matéria nem comprovação de dissídio jurisprudencial, além de incidirem na espécie as Súmulas n. 5 e 7 do STJ. Requer o desprovimento do agravo.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação indenizatória.
+O julgado foi assim ementado (fls. 54-57):
+Agravo de instrumento. Ação indenizatória. Vícios de construção. Decisão afastou a hipótese de litisconsórcio passivo necessário, dispensando a inclusão do FAR Fundo de Arrendamento Residencial no polo passivo da demanda. Determinada a intimação do autor para manifestação. Insurgência do corréu Banco do Brasil. Contrato de compra e venda em que consta o corréu como agente financeiro e fiscalizador das obras. Relação de consumo caracterizada. Aplicação do Código de Defesa do Consumidor aos contratos relacionado ao SFH. Entendimento do STJ. Ausência de litisconsórcio passivo necessário. Responsabilidade solidária. Caso necessário, o agravante (Banco do Brasil) poderá ingressar com ação regressiva (art. 125, § 1º do CPC). Agravo não provido.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 45 do CPC, porque a inclusão do Fundo de Arrendamento Residencial (FAR) no polo passivo da demanda é obrigatória, configurando litisconsórcio passivo necessário, o que enseja a competência da Justiça Federal para o julgamento da demanda.
+Sustenta que o Tribunal de origem divergiu do entendimento do STJ ao afastar a obrigatoriedade de inclusão do FAR no polo passivo da demanda, contrariando precedentes que reconhecem a legitimidade passiva da Caixa Econômica Federal como gestora do FAR em situações similares.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando-se a inclusão do FAR no polo passivo da demanda e a remessa dos autos à Justiça Federal.
+Contrarrazões de CONDOMÍNIO BURITI às fls. 176-184, em que sustenta que o recurso especial não preenche os requisitos de admissibilidade, pois não houve prequestionamento da matéria, a pretensão recursal esbarra na Súmula n. 7 do STJ e não foi demonstrada a similitude fática entre os acórdãos confrontados. Requer o desprovimento do recurso especial.
+Contrarrazões de DIRECIONAL ENGENHARIA S.A. às fls. 148-158, em que argumenta que o recurso especial é inadmissível por ausência de demonstração de violação do art. 45 do CPC, por falta de prequestionamento e de comprovação de dissídio jurisprudencial e por incidência das Súmulas n. 5 e 7 do STJ. Requer o desprovimento do recurso especial.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O caso trata de agravo de instrumento interposto pelo Banco do Brasil S.A. contra decisão proferida nos autos de ação indenizatória por vícios de construção na qual se discutiu a necessidade de inclusão do Fundo de Arrendamento Residencial no polo passivo da demanda, o que configuraria litisconsórcio passivo necessário.
+O Tribunal entendeu que não se configurava litisconsórcio passivo necessário. Destacou que o Banco do Brasil, como integrante da cadeia de fornecedores, responde solidariamente pelos vícios de construção, conforme o art. 25, § 1º, do Código de Defesa do Consumidor e a Súmula n. 297 do STJ.
+Passo, pois, à análise das proposições deduzidas.
+I - Art. 45 do CPC
+A violação alegada não merece prosperar, pois não se trata de hipótese de litisconsórcio passivo necessário nem de competência da Justiça Federal, uma vez que, conforme o contrato celebrado entre as partes (fls. 26-45 dos autos principais), o Banco do Brasil figura como representante do Fundo de Arrendamento Residencial. Considerando que o corréu é o executor do programa federal de moradia, inexiste a alegada necessidade de inclusão da Caixa Econômica Federal ou do FAR no polo passivo da demanda.
+A controvérsia envolve relação de consumo, razão pela qual o Banco do Brasil integra a cadeia de fornecedores e responde solidariamente pelos vícios apontados, nos termos da Súmula n. 297 do STJ e do art. 25, § 1º, do Código de Defesa do Consumidor.
+Nessa linha, não se justifica o reconhecimento de litisconsórcio necessário.
+Ressalte-se, ademais, que, nos termos do art. 125, § 1º, do CPC, o corréu, agravante, poderá ajuizar ação de regresso contra os demais responsáveis, se for o caso.
+Por fim, registre-se que o próprio autor, em contraminuta, reconheceu que não há falar em litisconsórcio necessário por não se tratar de relação jurídica única e indivisível, mas de pretensão reparatória de danos, caracterizada pela divisibilidade (fl. 40).
+Confira-se trecho do acordão (fls. 56-57):
+ ..  Em que pese os argumentos recursais, a r. decisão não comporta reparo, pois não é caso de litisconsórcio necessário, no caso.
+Conforme contrato celebrado entre as partes, o Banco do Brasil é representante do Fundo de Arrendamento Residencial FAR (fls. 26/45 dos autos principais).
+Considerando que o corréu é o executor do programa federal de moradia, inexiste a alegada necessidade de inclusão da Caixa Econômica Federal ou FAR no polo passivo da demanda.
+Trata o caso de relação consumerista e o Banco do Brasil integra a cadeia de fornecedores (Súmula 297 do STJ). Assim, responde solidariamente pelos vícios apontados pelo autor da ação.
+É o que dispõe o artigo 25, §1º, do Código de Defesa do Consumidor:
+Art. 25. É vedada a estipulação contratual de cláusula que impossibilite, exonere ou atenue a obrigação de indenizar prevista nesta e nas seções anteriores.
+§ 1º Havendo mais de um responsável pela causação do dano, todos responderão solidariamente pela reparação prevista nesta e nas seções anteriores.
+Sendo assim, não era mesmo caso de manutenção do FAR no polo passivo da demanda ou reconhecimento de litisconsórcio passivo necessário. E, de acordo com a disposição expressa no parágrafo 1º do artigo 125, do CPC, o corréu-agravante poderá ajuizar ação de regresso contra os demais responsáveis, se o caso.
+Por fim, verifica-se que o autor da demanda se manifestou, ao oferecer sua contraminuta, aduzindo que não é mesmo caso de reconhecimento do litisconsórcio necessário, vez que "não se trata de relação jurídica única e indivisível, mas de pretensão à reparação de danos, caracterizada pela divisibilidade" (fls. 40).
+Dessa forma, rever a questão suscitada encontra óbice na Súmula n. 7 do STJ, tendo em vista a necessidade de revolver matéria fático-probatória.
+Além disso, a decisão do Tribunal de origem está de acordo com a consolidada jurisprudência do Superior Tribunal de Justiça, o que configura óbice ao conhecimento do recurso, nos termos da Súmula n. 83 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. RELAÇÃO DE CONSUMO. DENUNCIAÇÃO DA LIDE. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. O entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor. Incidência da Súmula 83/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que "o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses.
+Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida (CPC/2015, art. 125, caput, e § 1º) - (AgInt no AREsp n. 1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021).
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.344.836/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. COTEJO ANALÍTICO NÃO REALIZADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DENUNCIAÇÃO À LIDE. NÃO OBRIGATORIEDADE. SÚMULA 83/STJ. COMPRA E VENDA. RESTITUIÇÃO AO STATUS QUO. SÚMULA 83/STJ. OFENSA AOS ARTS. 489 E 1.022 DO CPC NÃO VERIFICADA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Decisão agravada reconsiderada. Novo exame do feito.
+2. A parte não procedeu ao necessário cotejo analítico, uma vez que falhou em demonstrar a similitude fático-jurídica dos casos, pois a simples transcrição de ementa não é suficiente para suprir esse requisito.
+3. A mera citação de dispositivo legal, sem a expressa indicação e demonstração de ofensa, atrai a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. O Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida. Incidência da Súmula 83/STJ.
+5. Resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quoante, com a devolução integral dos valores pagos pelo comprador. Incidência da Súmula 83/STJ.
+6. O Tribunal de origem se manifestou de forma fundamentada sobre os tópicos que considerou pertinentes para a resolução da lide, de forma que não há que se falar em ofensa aos arts. 489, § 1º, IV e § 3º, e 1.022, I, II e III, do CPC/2015.
+7. Agravo interno provido para, em nova decisão, conhecer do agravo a fim de conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. (AgInt no AREsp n. 2.278.439/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+II - Divergência jurisprudencial
+Como não é caso de conhecer da questão suscitada, ainda havendo jurisprudência do Superior Tribunal de Justiça no mesmo sentido da decisão recorrida, não há falar em divergência jurisprudencial.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários sucumbência ante a inexistência de prévia fixação pela instância de origem.
+Publique-se. Intimem-se.
+ EMENTA
