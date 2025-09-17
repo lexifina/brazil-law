@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AUSENTE O PREQUESTIONAMENTO DA MATÉRIA ALEGADAMENTE VIOLADA, NÃO É POSSÍVEL O CONHECIMENTO DO RECURSO ESPECIAL. SÚMULA N. 211 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação de obrigação de fazer, com pedido de promoção do reclamante, ocupante do cargo de Delegado de Polícia, classe Substituta, solicitando a declaração do direito à promoção funcional, com consequente enquadramento na 1 - Classe de Delegado Civil do Estado do Amapá. Sustentou-se, na inicial, a preliminar de incompetência do Juízo em relação à complexidade da matéria em análise. Na sentença, acolheu-se a preliminar arguida, e consequentemente, declinou-se a competência. No Tribunal a quo, a sentença foi mantida.
+II - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação (arts. 64, § 4º; 85, §§2º, 3º, 6º; 2 e 90, caput, todos do CPC/2015), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de ação de obrigação de fazer, com pedido de promoção do reclamante, ocupante do cargo de Delegado de Polícia, classe Substituta, solicitando a declaração do direito à promoção funcional, com consequente enquadramento na 1- Classe de Delegado Civil do Estado do Amapá. Sustentou-se, na inicial, a preliminar de incompetência do Juízo em relação à complexidade da matéria em análise. Na sentença, acolheu-se a preliminar arguida, e consequentemente, declinou-se a competência. No Tribunal a quo, a sentença foi mantida.
+Cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundamentado no art. 105, III, a, da Constituição Federal, visando reformar o acordão do Tribunal de Justiça do Estado do Amapá, assim ementado:
+APELAÇÃO CÍVEL. PETIÇÃO INICIAL INDEFERIDA ANTES DA CITAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. DESCABIMENTO. SENTENÇA MANTIDA.
+1) Nos autos, a petição inicial foi indeferida por falta de pressuposto processual e o Estado do Amapá não chegou a ser citado, por conseguinte, descabida a fixação de verba honorária;
+2) A contestação em sede de juizado especial não gera direito à fixação de honorários na justiça comum, uma vez que as regras processuais são outras (Lei 9.099/95);
+3) Apelo não provido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial. "
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+A leitura atenta do voto condutor revela que o acórdão recorrido analisou expressamente a questão dos honorários de sucumbência à luz da legislação processual civil, ainda que sem mencionar todos os dispositivos. Ficou clara a opção do TJAP por aplicar as regras dos Juizados Especiais à Justiça Comum, afastando a incidência do art. 85 do CPC/2015 mesmo após redistribuição do feito.
+Desse modo, houve efetivo enfrentamento da matéria jurídica federal, em especial os arts. 85, §§ 2º, 3º e 6º; 64 §4º e 90 do CPC/2015, de forma que está presente o prequestionamento exigido para admissibilidade do Recurso Especial.
+Portanto, verifica-se que houve efetivo enfrentamento das matérias suscitadas, ainda que de forma objetiva, de modo que, ainda que o acórdão do TJAP não tenha feito menção expressa aos dispositivos em destaque, tal circunstância não impede o conhecimento do Recurso Especial.
+Isso porque, conforme entendimento consolidado do Superior Tribunal de Justiça, não se exige a indicação literal dos dispositivos legais tidos por violados, tampouco é obrigatória a oposição de embargos de declaração quando a matéria federal tiver sido apreciada, ainda que implicitamente, pelo acórdão recorrido - como ocorreu no presente caso.
+ ..
+Portanto, é evidente que as questões invocadas no apelo especial foram enfrentadas pelo acórdão recorrido, afastando-se a aplicação das súmulas 211/STJ, e 282 e 356/STF, pois não há omissão a ser suprida nem ausência de prequestionamento que justifique a sua inadmissibilidade.
+ ..
+Contudo, deve-se infirmar, por ser inaplicável ao caso dos autos, o fundamento da decisão agravada segundo o qual seria o caso de incidência da Súmula 07/STJ, pois o cerne da controvérsia é eminentemente jurídico, não exigindo nova incursão no acervo fático-probatório, mas sim a revaloração jurídica dos fatos já delimitados pelo TJAP.
+ ..
+A jurisprudência do STJ é pacífica no sentido de o cabimento de honorários advocatícios é questão de direito e não atrai a incidência da Súmula 7/STJ quando os fatos relevantes já estão delimitados pelas instâncias ordinárias, haja vista que a controvérsia envolve a qualificação jurídica dos fatos ou a correta aplicação do direito, e não a reanálise do material probatório.
+ ..
+Portanto, a pretensão recursal não visa rediscutir os fatos, mas corrigir a qualificação jurídica atribuída a eles, o que é plenamente admissível em sede de Recurso Especial. Assim, sendo eminentemente jurídica a questão discutida no recurso especial, não há falar em óbice ao seu conhecimento com base na Súmula 7 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AUSENTE O PREQUESTIONAMENTO DA MATÉRIA ALEGADAMENTE VIOLADA, NÃO É POSSÍVEL O CONHECIMENTO DO RECURSO ESPECIAL. SÚMULA N. 211 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação de obrigação de fazer, com pedido de promoção do reclamante, ocupante do cargo de Delegado de Polícia, classe Substituta, solicitando a declaração do direito à promoção funcional, com consequente enquadramento na 1 - Classe de Delegado Civil do Estado do Amapá. Sustentou-se, na inicial, a preliminar de incompetência do Juízo em relação à complexidade da matéria em análise. Na sentença, acolheu-se a preliminar arguida, e consequentemente, declinou-se a competência. No Tribunal a quo, a sentença foi mantida.
+II - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação (arts. 64, § 4º; 85, §§2º, 3º, 6º; 2 e 90, caput, todos do CPC/2015), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+E bem verdade que a pretensão do apelado foi requerida junto ao juizado especial, que declinou da competência para uma das Varas Cíveis e de Fazenda Pública de Macapá, em razão da complexidade da causa, que envolve interesse de terceiro, integrante da carreira da polícia civil.
+Ocorre que no âmbito dos juizados especiais não é exigido o recolhimento de custas judiciais para a propositura das ações, nem condenação em honorários de sucumbência, a exceção de impetração de recurso inominado, que não é o caso dos autos.
+ ..
+Na justiça comum, o apelado não recolheu as custas do processo, fato que levou ao indeferimento da petição inicial.
+O Estado do Amapá não chegou a ser citado, ou seja, a relação jurídica processual não se aperfeiçoou, por conseguinte, descabida a fixação de verba honorária.
+O fato de o recorrente ter apresentado contestação em sede de juizado especial não lhe dá direito de reivindicar a fixação de honorários de sucumbência na justiça comum, uma vez que as regras processuais são outras.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (arts. 64, § 4º; 85, §§2º, 3º, 6º; 2 e 90, caput, todos do CPC/2015), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
