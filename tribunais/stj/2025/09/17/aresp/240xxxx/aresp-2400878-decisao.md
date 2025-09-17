@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DO RIO DE JANEIRO se insurgira, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (fls. 189/191):
+Direito Tributário. Execução Fiscal. Cuida-se de Embargos à Execução relativos à cobrança de débitos de IPTU e TCDL relativos ao exercício de 2010, conforme consubstanciado na CDA de fls.03 da Execução Fiscal em apenso, no valor de R$ 18.316,36.
+A embargante argui a prescrição do crédito fazendário, tendo em vista que não houve citação válida, e por decurso de lapso temporal superior a cinco anos sem movimentação do feito por parte da Fazenda Pública. Requer o acolhimento dos Embargos, e a desconstituição dos créditos tributários.
+A sentença, indexador 75, julgou improcedentes os pedidos formulados e determinou o prosseguimento da Execução. Condenou a embargante ao pagamento dos honorários advocatícios sobre o valor da causa devidamente corrigido, a contar da data do ajuizamento da demanda, pelo percentual mínimo de cada faixa fixada nos incisos do §3º do artigo 85 do CPC e, sendo o caso, na forma do respectivo §5º.
+Recurso do contribuinte/embargante, indexador 119. Em suas razões, sustenta que não há nos autos da execução fiscal comprovação de que o AR foi devolvido, tampouco existe qualquer certidão cartorária comprovando a juntada do AR de citação positiva referente à data de 21/05/2015 e, portanto, não restou comprovada a citação válida, devendo a sentença ser anulada.
+Quando a ação foi distribuída já estava em vigor a Lei Complementar nº 118/2005, que deu nova redação ao inciso I, do parágrafo único, do art. 174 do Código Tributário Nacional, passando a prever como causa interruptiva da prescrição o despacho que ordenar a citação.
+No caso dos autos, em que pese a demanda ter sido ajuizada no prazo legal e o despacho citatório ter sido proferido em 19/11/2014, indexador 04, de fato, não há comprovação nos autos da efetivação da citação da executada.
+Consta o movimento de juntada de AR, indexador 05, no entanto, não consta o AR propriamente dito, não havendo comprovação de citação válida nos autos, contrariando o disposto na Súmula 429 do STJ: "A citação postal, quando autorizada por lei, exige o aviso de recebimento."
+Sem a citação válida, eivados de vícios estão todos os atos constritivos posteriores, devendo ser declarada a nulidade, tendo em vista o evidente prejuízo causado à executada, que não teve a oportunidade de se defender oportunamente, bem como de oferecer bens à penhora, sendo-lhe penhorado o bem imóvel, que é objeto do tributo cobrado pela Fazenda Pública.
+Desta forma, não foram observados os princípios constitucionais do devido processo legal e os seus consectários, ampla defesa e o contraditório.
+Assim, após mais de sete anos após o despacho determinando a citação, ocorrido em 19/11/2014, sem que a Fazenda tenha logrado êxito em sua efetivação, forçoso concluir que o crédito tributário se encontra prescrito.
+Os embargos à execução foram distribuídos em 10/12/2019, momento em que a executada poderia ser considerada citada, porém, já havia operado a prescrição.
+Precedentes desta Corte: 0053240-25.2002.8.19.0002 - APELAÇÃO 1ª Ementa Des (a). LÚCIO DURANTE - Julgamento: 27/06/2017 - DÉCIMA NONA CÂMARA CÍVEL APELAÇÃO CIVEL; 0027066-98.2006.8.19.0014 - APELAÇÃO Des(a). CARLOS AZEREDO DE ARAÚJO - Julgamento: 16/07/2019 - NONA CÂMARA CÍVEL.
+Reforma da sentença para dar provimento aos embargos, declarando-se a nulidade de todos os atos constritivos efetivados, pela falta de citação válida do executado e, por via de consequência, tendo em vista o tempo decorrido superior a 5 anos, após a causa interruptiva ocorrida em 19/11/2014, sem citação válida, declarando-se também a prescrição do crédito tributário perseguido.
+Condenação do embargado ao pagamento dos honorários advocatícios no valor de 10% sobre o valor atualizado da causa, considerando o percentual mínimo previsto no art. 85, §3º, I do CPC, em conformidade com a legislação processual vigente e com os princípios da razoabilidade e da proporcionalidade, sem custas em razão da isenção legal.
+Provimento do recurso.
+Os embargos de declaração opostos foram rejeitados (fls. 222/230).
+Em suas razões, a parte agravante alega afronta aos arts. 174, parágrafo único, I, do Código Tributário Nacional (CTN), 240, 1.022 do Código de Processo Civil (CPC), 40, §1º e 25 da Lei 6.830/1980.
+Defende, em síntese, a inocorrência da prescrição pois:
+" ..  a Municipalidade respeitou o quinquênio requerido pelo art. 174 do Código Tributário Nacional, não tendo havido o transcurso do prazo de 5 (cinco) anos entre a constituição definitiva do crédito tributário (2010) e o ajuizamento da Execução Fiscal (2014) apto a ensejar a ocorrência de prescrição originária no caso em tela.
+Distribuído o feito executivo, foi proferido despacho citatório em 19/11/2014, o que interrompeu a prescrição (art. 174, parágrafo único, I, do Código Tributário Nacional). Assim, não há que se cogitar da prescrição originária" (fl. 248)
+A parte adversa não apresentou contrarrazões (certidão de fl. 256).
+É o relatório.
+Ao solucionar a controvérsia, o Tribunal de origem reconheceu a nulidade dos atos posteriores à penhora por ausência de citação da parte executada, bem como concluiu pela prescrição dos créditos tributários, à luz dos seguintes fundamentos:
+Cuida-se de Embargos à Execução relativos à cobrança de débitos de IPTU e TCDL relativos ao exercício de 2010, conforme consubstanciado na CDA de fls.03 da Execução Fiscal em apenso.
+O art. 174 do Código Tributário Nacional dispõe que a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva.
+(..)
+No caso dos autos, em que pese a demanda ter sido ajuizada no prazo legal e o despacho citatório ter sido proferido em 19/11/2014, indexador 04, de fato, não há comprovação nos autos da efetivação da citação da executada.
+Consta o movimento de juntada de AR, indexador 05, no entanto, não consta o AR propriamente dito, não havendo comprovação de citação válida nos autos, contrariando o disposto na Súmula 429 do STJ, verbis:
+"A citação postal, quando autorizada por lei, exige o aviso de recebimento."
+Sem a citação válida, eivados de vícios estão todos os atos constritivos posteriores, devendo ser declarada a nulidade, tendo em vista o evidente prejuízo causado à executada, que não teve a oportunidade de se defender oportunamente, bem como de oferecer bens à penhora, sendo-lhe penhorado o bem imóvel, que é objeto do tributo cobrado pela Fazenda Pública.
+Desta forma, não foram observados os princípios constitucionais do devido processo legal e os seus consectários, ampla defesa e o contraditório.
+Extrai-se dos autos, que quando da efetivação da diligência de intimação da penhora, indexador 13, foi certificado pela Oficiala de Justiça, em 01/12/2015, que foi dada ciência ao locatário, Sr. Wanderley Nunes, funcionando no local uma consultoria, CNPJ 103005700001-50.
+Assim, após mais de sete anos após o despacho determinando a citação, ocorrido em 19/11/2014, sem que a Fazenda tenha logrado êxito em sua efetivação, forçoso concluir que o crédito tributário se encontra prescrito.
+Os embargos à execução foram distribuídos em 10/12/2019, momento em que a executada poderia ser considerada citada, porém, já havia operado a prescrição (fls. 194/196).
+Na petição do recurso especial, não há insurgência contra o fundamento de nulidade da penhora por ausência de citação, limitando-se a parte recorrente a alegar, tão somente, ausência de prescrição, o que atrai, por analogia o enunciado da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido, cito os seguintes julgados, naquilo que importa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPUGNAÇÃO. AUSÊNCIA. VERBA HONORÁRIA. SUCUMBÊNCIA RECÍPROCA. PERCENTUAL DE FIXAÇÃO DE HONORÁRIOS E PERCENTUAL DE RATEIO DE DISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. DISTINÇÃO.
+1. Mostra-se deficiente o recurso especial que deixa de impugnar o fundamento do julgado atacado, situação que esbarra no óbice da Súmula 283 do STF, aplicada, por analogia, ao recurso especial.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.196.023/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2025, DJEN de 21/8/2025.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AMBIENTAL. LOTEAMENTO HABITACIONAL. LICENCIAMENTO POR ÓRGÃO AMBIENTAL ESTADUAL. OFENSA AOS ARTS. 128 E 135 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 283/STF. CUMPRIMENTO DE CONDICIONANTES PARA A INSTALAÇÃO DO EMPREENDIMENTO. REVISÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO, PARA CONHECER EM PARTE DO RECUSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+ ..
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. O empreendimento objeto de discussão nos autos não se enquadra nas alíneas a, b, e, f e h do inciso XIV do art. 7º da LC 140/2011, pelo que correta a conclusão do acórdão recorrido, ao reconhecer a competência do órgão estadual para promover o seu licenciamento.
+5. Nos termos em que a causa fora decidida, infirmar as conclusões do acórdão recorrido - no sentido de que "o MPF não se desincumbiu do ônus de desconstituir, mediante prova robusta em contrário, as conclusões favoráveis à instalação do loteamento emitidas pelo órgão estadual  ..  a ausência de demonstração de quais condicionamentos impostos para a instalação do empreendimento foram descumpridos" - demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+6. Agravo interno provido, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no REsp n. 1.956.082/AL, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 10/6/2025, DJEN de 1/7/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
