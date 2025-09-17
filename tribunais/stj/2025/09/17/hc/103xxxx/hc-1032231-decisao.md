@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de WALLISON DE ABREU - condenado como incurso no crime de adulteração de sinal identificador de veículo automotor - contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 0014254-07.2013.8.24.0057), não comporta acolhimento.
+Com efeito, busca a impetração a revisão da pena, na condenação proferida pelo Juízo de Direito da 2ª Vara da comarca de Santo Amaro da Imperatriz/SC, postulando a absolvição do crime imputado e a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, em especial, pois a Corte estadual destacou que, tendo o suplicante suprimindo as etiquetas de identificação do assoalho, substituído as etiquetas de identificação da coluna da porta e do compartimento do motor por outras com indicação da data de fabricação igual a 2012, como ainda, substituindo os vidros fabricados em 2011 por outros fabricados em 2012, como também trocado a cabine do veículo original por outra fabricada em 2012, tudo de conformidade com laudo pericial colacionado no seio dos autos (fls. 25-27 - ev. 51.1), configura, por si só, o crime previsto no art. 311, caput, do Código Penal. Por essas razões, não há falar na absolvição do apelante em razão da insuficiência de provas, nem de atipicidade da conduta (fl. 972).
+Tal o contexto, não há como abraçar as teses absolutórias defensiva, sem o efetivo revolvimento do acervo fático-probatório, providência vedada na via estreita do habeas corpus.
+Por fim, não foi demonstrado constrangimento ilegal relacionado à revisão da dosimetria, pois os fundamentos em que se sustenta o acórdão a quo se encontram em harmonia com a jurisprudência atual do Superior Tribunal de Justiça.
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. DOSIMETRIA. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem denegada.
