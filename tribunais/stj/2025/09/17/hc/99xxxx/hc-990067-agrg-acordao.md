@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. EXTORSÃO. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO SUFICIENTE.
+1. Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão esteja sempre concretamente fundamentado.
+2. No caso, foram apresentados fundamentos concretos para justificar a decretação da prisão temporária dos investigados, por haver indícios de participação dos réus na prática do crime de extorsão, sendo necessária a custódia a fim de apurar os fatos e proteger a integridade da investigação. Destacou-se, ainda, a notícia de ameaças às testemunhas e aos familiares da vítima. Tais elementos evidenciam o preenchimento dos requisitos da Lei n. 7.960/1989. Precedentes.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por DIEGO LEITE DUCA e FABIO DE JESUS contra a decisão monocrática de e-STJ fls. 85/89, por meio da qual deneguei a ordem de habeas corpus.
+Depreende-se dos autos que os agravantes foram presos temporariamente, pela prática, em tese, dos crimes de participação em organização criminosa e extorsão.
+O Tribunal de origem denegou a ordem (e-STJ fls. 7/13):
+DIREITO PENAL. HABEAS CORPUS. PRISÃO TEMPORÁRIA. ORDEM DENEGADA. I. Caso em Exame: Habeas Corpus impetrado em favor de Diego Leite Duca e Fábio de Jesus, visando a revogação da prisão temporária decretada por suposta participação em crime de extorsão no contexto de organização criminosa. A prisão foi decretada para evitar coação de testemunhas, destruição de provas e possibilitar diligências imprescindíveis à investigação. II. Questão em Discussão: A questão em discussão consiste em verificar a legalidade da prisão temporária dos pacientes, considerando a alegação de ausência de requisitos autorizadores e a possibilidade de substituição por medidas cautelares diversas. III. Razões de Decidir: A prisão temporária foi fundamentada na necessidade de garantir a eficácia das investigações, dado o risco de coação de testemunhas e destruição de provas. A condição de foragido dos pacientes e a gravidade dos crimes investigados justificam a manutenção da prisão temporária. IV. Dispositivo e Tese: Ordem denegada. Tese de julgamento: 1. A prisão temporária é justificada pela necessidade de aprofundamento das investigações e pela gravidade dos crimes. 2. Medidas cautelares diversas são insuficientes diante da condição de foragido dos pacientes.
+Na inicial do remédio constitucional, sustentou a defesa estar configurado constrangimento ilegal pelo cerceamento de defesa, pois, em relação ao "expediente epigrafado  ..  na  Justiça Pública, trata-se de medida cautelar sigilosa, incluído sigilo externo, não sendo acessível até o prazo de relatório conclusivo de entrega pela Delegacia referida. A Delegacia desde 12.02.2025, não relata o retorno do expediente de MBA por cumprido ou não ao Judiciário, logo, o Juízo coator não habilita o Advogado no feito, mesmo já requerido por mais de três vezes" (e-STJ fl. 4).
+Pontuou que o decreto de prisão temporária careceria de fundamentação idônea, pois " i nexiste a exposição dos motivos ou justa causa, sendo apenas genericamente mencionado a necessidade de garantir eficácia das investigações a qual sequer foi citada (sic)" (e-STJ fl. 4).
+Aduziu a presença de condições pessoais favoráveis.
+Acrescentou ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Requereu, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteou a substituição da prisão por medida cautelar diversa.
+Nesta oportunidade, a defesa reitera os pedidos deduzidos na inicial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. EXTORSÃO. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO SUFICIENTE.
+1. Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão esteja sempre concretamente fundamentado.
+2. No caso, foram apresentados fundamentos concretos para justificar a decretação da prisão temporária dos investigados, por haver indícios de participação dos réus na prática do crime de extorsão, sendo necessária a custódia a fim de apurar os fatos e proteger a integridade da investigação. Destacou-se, ainda, a notícia de ameaças às testemunhas e aos familiares da vítima. Tais elementos evidenciam o preenchimento dos requisitos da Lei n. 7.960/1989. Precedentes.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não obstante os argumentos defensivos, tenho que o recurso de agravo regimental não merece prosperar.
+Consoante assinalado na decisão monocrática combatida, a prisão temporária é regida pela Lei n. 7.960/1989, que prevê em seu art. 1º as hipóteses em que são cabíveis essa modalidade de prisão, nos seguintes termos:
+Art. 1º Caberá prisão temporária:
+I - quando imprescindível para as investigações do inquérito policial;
+II - quando o indicado não tiver residência fixa ou não fornecer elementos necessários ao esclarecimento de sua identidade;
+III - quando houver fundadas razões, de acordo com qualquer prova admitida na legislação penal, de autoria ou participação do indiciado nos seguintes crimes:
+ ..
+a) homicídio doloso (art.121, caput, e seu §2º).
+No caso, foram estes os fundamentos da decisão que decretou a prisão temporária dos agravantes (e-STJ fl. 10):
+No caso dos autos, especificamente, consta que os investigados vêm ameaçando a vítima para a cobrança de dívidas, tendo a denunciante juntado screenshots de conversas no whatsapp que demonstram que as ameaças ao pai de seus dois filhos e à sua família e que seu ex-marido participa de uma organização criminosa e que pegara dinheiro sem autorização dos criminosos, e que tais pessoas pertencem ao Primeiro Comando da Capital (PCC). A análise detida dos documentos indica que a prisão temporária do(a)investigado(a) se faz necessária a fim de que as testemunhas não sejam coagidas, tampouco se sintam ameaçadas, e que provas não sejam destruídas. Diante de tais fatos, presentes os requisitos do art. 1º, I e III, "d", da Lei n. 7.960/89, eis que a prisão cautelar dos investigados é imprescindível para as investigações do inquérito policial e para garantia da ordem pública.
+Não obstante isso, extrai-se das informações prestadas pelo Juízo de origem revelar-se "de fundamental importância para o interesse público a continuidade das investigações destinadas a apurar precisamente a função desempenhada pelos pacientes no contexto da organização criminosa sob apuração. Este foi o motivo determinante para o indeferimento do pedido de habilitação do patrono nesta fase preliminar, considerando que sua atuação, com acesso a informações sigilosas constantes destes autos, poderia comprometer o êxito das diligências em andamento. Ressalte-se que o procedimento encontra-se em fase sensível de investigação, com diversas medidas cautelares em curso, cujo sigilo é imprescindível para preservar a eficácia da persecução penal" (e-STJ fl. 11).
+Nota-se que foram apresentados fundamentos concretos para justificar a decretação da prisão temporária dos agravantes, por haver indícios de participação dos réus na prática do crime de extorsão, sendo necessária a custódia a fim de apurar os fatos e proteger a integridade da investigação. Destacaram as instâncias de origem, ainda, a notícia de ameaças às testemunhas e aos familiares da vítima.
+Logo, foram atendidos os preceitos legais da Lei n. 7.960/1989, que disciplina a prisão temporária, instituto que visa resguardar e garantir o regular início das investigações de crimes graves que demandem atuação urgente.
+A propósito do tema, destaquei os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE VIABILIZAR AS INVESTIGAÇÕES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. "o instituto da prisão temporária tem como objetivo assegurar a investigação criminal quando estiverem sendo apurados crimes graves expressamente elencados na lei de regência e houver fundado receio de que os investigados - sobre quem devem pairar fortes indícios de autoria - possam tentar embaraçar a atuação estatal." (RHC n. 144.813/BA, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 24/8/2021, DJe 31/8/2021).
+3. Hipótese na qual as decisões que decretaram/mantiveram a prisão temporária do agravante demonstraram a necessidade da medida extrema, destacando os veementes indícios de autoria coletados, entre eles o relato de testemunhas de que a vítima teria se envolvido em uma briga no dia anterior, na qual o agravante, em tese, havia jurado se vingar; as imagens da câmera de segurança que supostamente o registraram no local com uma motocicleta azul, a qual havia caído no chão; uma peça de moto de cor azul encontrada na casa da genitora do agravante; e sua admissão informal perante os policiais de que teria praticado o crime "devido a uma briga ocorrida no dia anterior com a vítima, ocasião em que foi ameaçado por ela, com uma faca".
+4. Ademais, foi destacado que a vítima foi executada com diversos disparos de arma de fogo, supostamente em razão de discussão ocorrida no dia anterior, o que demonstra, pela violência da conduta, a gravidade do crime e a periculosidade do autor.
+5. A custódia se mostra necessária, portanto, para a elucidação dos fatos, justificando-se para assegurar a adequada realização dos atos investigatórios, como o reconhecimento pessoal do indiciado pelas testemunhas, busca e apreensão da arma de fogo e outras que se apresentem necessárias. Reputa-se legítima, portanto, a segregação cautelar do agravante porquanto amparada nas circunstâncias efetivas do caso concreto e na imprescindibilidade da sua prisão temporária para a conclusão das investigações criminais.
+6. Agravo desprovido.
+(AgRg no HC n. 864.321/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. HOMICÍDIOS QUALIFICADOS NA MODALIDADE TENTADA. PRISÃO TEMPORÁRIA. GRAVIDADE CONCRETA DO DELITO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Agravo regimental em habeas corpus improvido, reafirmando a motivação por mim adotada na decisão ora agravada.
+(AgRg no HC n. 844.307/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Por derradeiro, observei das informações prestadas pelas instâncias de origem que houve a juntada aos autos do relatório de cumprimento das medidas cautelares deferidas pelo magistrado, sendo possibilitado à defesa o acesso ao inteiro teor da diligência. Desse modo, ficou esvaziada a alegação de cerceamento de defesa.
+Assim, não vislumbrei o alegado constrangimento ilegal apto a ensejar a concessão da ordem, entendimento que mantenho nesta oportunidade.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
