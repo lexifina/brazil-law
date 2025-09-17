@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. (22.767,6 KG DE COCAÍNA, 14.290,8 KG DE MACONHA E 22.266 ML DE TRICLOROETILENO). PLEITO PARA FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. VALORAÇÃO IDÔNEA DA VARIEDADE E QUANTIDADE DOS ENTORPECENTES APREENDIDOS. PLEITO DE RECONHECIMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. ALEGAÇÃO DE BIS IN IDEM. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PEDIDO PARA FIXAÇÃO DE REGIME MAIS BRANDO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RODRIGO MATIAS DE LIMA contra a decisão por mim proferida, por meio da qual conheci do respectivo agravo, para conhecer parcialmente do recurso especial, negando-lhe provimento (fls. 1.306/1.309).
+Requer a parte agravante a reconsideração da decisão recorrida, sustentando haver impugnado todos os seus fundamentos. Quanto aos pedidos para a fixação da pena-base no mínimo legal, para o reconhecimento do tráfico privilegiado e para o abrandamento de regime de pena, o agravante não trouxe elementos adicionais ao caso concreto (fls. 1.314/1.325).
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. (22.767,6 KG DE COCAÍNA, 14.290,8 KG DE MACONHA E 22.266 ML DE TRICLOROETILENO). PLEITO PARA FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL. VALORAÇÃO IDÔNEA DA VARIEDADE E QUANTIDADE DOS ENTORPECENTES APREENDIDOS. PLEITO DE RECONHECIMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. ALEGAÇÃO DE BIS IN IDEM. DEDICAÇÃO A ATIVIDADES CRIMINOSAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PEDIDO PARA FIXAÇÃO DE REGIME MAIS BRANDO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento. As razões apresentadas pelo agravante não são suficientes para infirmar os fundamentos da decisão agravada.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+Verifica-se na decisão agravada que, no que se refere ao pleito para fixação de pena-base no mínimo legal, restou justificado o seu incremento, sendo sopesadas as circunstâncias judiciais relacionadas à variedade e à quantidade das drogas apreendidas, consideradas como prejudiciais, o que resultou na fixação da pena-base acima do mínimo legal (7 anos e 6 meses de reclusão, em regime fechado, e 750 dias-multa). Tais elementos são conducentes à elevação da pena além do mínimo, demonstrando, assim, maior desvalor da conduta. Portanto, não verificada a violação do art. 42 da Lei n. 11.343/2006 e do art. 59 do Código Penal.
+Quanto ao pleito para a aplicação da causa de redução de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, a Corte de origem afastou a causa de diminuição de pena, reconhecendo a sua dedicação a atividades criminosas, levando em conta as circunstâncias do caso, aliado ao envolvimento de outros agentes no negócio espúrio na venda, na guarda e no transporte das drogas e, ainda, em razão de ter sido flagrado em posse de elevada quantidade de drogas variadas. Dessa forma, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, seria necessário o revolvimento fático-probatório, vedado pela Súmula 7/STJ.
+Nesse sentido: AgRg no AREsp n. 2.857.729/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.
+Por fim, no que se refere ao pedido de redimensionamento do regime de pena, igualmente, não há possibilidade de reforma da decisão agravada. É assente neste Tribunal Superior que, para os casos em que o agente tenha sido condenado a pena superior a 4 e inferior a 8 anos de reclusão e presentes circunstâncias judiciais desfavoráveis, idôneas à elevação da pena-base acima do mínimo legal, aplica-se o regime fechado para o início de cumprimento da pena; não havendo falar em violação do art. 33, § 2º e 3º, do Código Penal.
+A propósito: HC n. 376.213/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 29/11/2016.
+Ante o exposto, nego provimento ao agravo regimental.
