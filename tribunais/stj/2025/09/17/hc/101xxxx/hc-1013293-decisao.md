@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOÃO LUIZ DE ANDRADE, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, em razão do julgamento do agravo em execução penal que manteve o indeferimento da reconversão da pena privativa de liberdade.
+Consta dos autos que o Juízo da Vara de Execuções Penais, diante do reiterado descumprimento das condições impostas, bem como da ausência de comunicação de novo endereço pelo apenado, determinou a regressão do regime prisional. Posteriormente, a defesa apresentou pedido de reconsideração, no qual pleiteava a reconversão do regime semiaberto para o aberto, o qual foi indeferido e mantido por ocasião do julgamento do agravo em execução (fls. 180-183).
+Irresignada, a defesa impetrou o presente writ, alegando: (i) ausência de fundamentos idôneos para manutenção da regressão; (ii) ocorrência de prescrição da pretensão executória; e (iii) necessidade de concessão de salvo-conduto até a disponibilização de vaga no regime semiaberto (fls. 2-17).
+O pedido de liminar foi indeferido (fls. 199-200).
+A autoridade coatora prestou informações às fls. 203-206 e 213-217.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 268-272).
+É o relatório. DECIDO.
+Inicialmente, cumpre registrar que o presente habeas corpus, manejado como substitutivo de recurso próprio, não deve ser conhecido, à luz da orientação consolidada do Supremo Tribunal Federal e desta Corte Superior (HC n. 535.063/SP, Terceira Seção, rel. Min. Sebastião Reis Júnior, julgado em 10/6/2020; AgRg no HC n. 180.365/PB, Primeira Turma, STF, rel. Min. Rosa Weber, DJe de 2/4/2020).
+Quanto à alegação de prescrição da pretensão executória, adoto integralmente os fundamentos do parecer ministerial, pela inviabilidade do conhecimento, porquanto não houve deliberação das instâncias ordinárias acerca da matéria. Logo, a análise por esta Corte Superior configuraria supressão de instância. Nesse sentido: AgRg no HC n. 916.637/MG, de minha relatoria, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.
+Ademais, não vislumbro flagrante ilegalidade para os fins de concessão da ordem de ofício.
+O que se impugna, na verdade, não é a decisão que determinou a regressão do regime, mas sim o indeferimento do pedido de reconversão ao regime mais benéfico.
+Pelo que se lê no acórdão e a nas informações prestadas, a regressão - medida prevista no art. 118, I, da Lei de Execução Penal - já havia sido regularmente decretada pelo Juízo da Execução, em razão do reiterado descumprimento das condições impostas, inclusive pelo fato de o apenado não manter endereço atualizado, inviabilizando sua intimação.
+A defesa, todavia, buscou a reconsideração dessa decisão para que fosse restabelecido o regime aberto. O pedido foi corretamente indeferido, pois não houve demonstração de mudança fática ou de cumprimento das condições impostas.
+Assim, não se trata de análise sobre a legalidade originária da regressão, mas de sua manutenção diante da ausência de elementos que autorizassem sua revisão, e desta forma não há elementos ou fundamentos para conhecer a alegação de ausência de procedimento administrativo disciplinar ou de justificativa para o descumprimento da pena anterior.
+Destaco que esta Corte Superior já firmou entendimento no sentido de que, frustrado o início do cumprimento das penas restritivas de direitos ou das condições do regime aberto por desídia do apenado, que não mantém endereço atualizado ou não comparece quando intimado, é legítima a conversão em pena privativa de liberdade, com eventual regressão do regime.
+A propósito:
+"HABEAS CORPUS. EXECUÇÃO CRIMINAL. APENADO NÃO LOCALIZADO PARA INICIAR O CUMPRIMENTO DAS PENAS RESTRITIVAS DE DIREITOS. INÍCIO DA EXECUÇÃO FRUSTRADO EM RAZÃO DE DESÍDIA DO CONDENADO, QUE NÃO INFORMOU OUTRO ENDEREÇO DIVERSO DAQUELE DECLINADO NOS AUTOS - ÔNUS LEGAL QUE LHE COMPETIA. RECONVERSÃO EM SANÇÃO PRIVATIVA DE LIBERDADE QUE SE IMPÕE. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Prevê o art. 367 do Código de Processo Penal que "o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo".
+2. Conforme dispõe o art. 44, § 4.º, primeira parte, do Código Penal, "a pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta".
+3. Nos termos do art. 181, § 1.º, alínea a, da Lei de Execução Penal, ocorrerá a reconversão da pena de prestação de serviços à comunidade em privativa de liberdade se o apenado "não for encontrado por estar em lugar incerto e não sabido, ou desatender a intimação por edital".
+4. Consideradas essas três regras, frustrado o início do cumprimento das penas restritivas de direitos e a realização da audiência de justificação em razão de desídia do Condenado, que não informou outro endereço diverso daquele declinado nos autos - ônus legal que lhe compete - deve ocorrer a reconversão em sanção privativa de liberdade.
+5. Ordem de habeas corpus denegada."
+(HC n. 493.068/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/5/2019, DJe de 30/5/2019)
+No mesmo sentido: AgRg no HC n. 725.946/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022;AgRg no HC n. 820.953/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.
+No que toca ao pleito de concessão de salvo-conduto até a disponibilização de vaga em unidade prisional compatível com o regime semiaberto, observo que inexiste nos autos prova pré-constituída da alegada ausência de vagas, razão pela qual o pedido não comporta conhecimento nesta via.
+Dessa forma, não há constrangimento ilegal na manutenção da decisão que negou a reconversão pretendida pela defesa.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
