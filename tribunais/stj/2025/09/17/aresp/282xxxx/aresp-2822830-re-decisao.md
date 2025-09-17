@@ -1,0 +1,61 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que não conheceu do agravo regimental, mantendo a decisão de não conhecimento do agravo em recurso especial, por incidência do óbice da Súmula n. 182/STJ.
+O julgado recorrido recebeu a seguinte ementa (fls. 444-445):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. REEXAME DE PROVAS. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, com base no enunciado 182 da Súmula do Superior Tribunal de Justiça, por ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial.
+2. No recurso especial, a defesa busca a absolvição do recorrente, condenado por tráfico de drogas, ou, alternativamente, o reconhecimento do tráfico privilegiado. O recurso foi inadmitido com base na Súmula 7 do STJ, que impede o reexame de provas, e na incompetência do STJ para apreciar violação a dispositivo constitucional.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o agravo regimental pode ser conhecido, considerando a ausência de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial, especialmente quanto à aplicação da Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+4. A ausência de impugnação concreta da aplicação da Súmula 7 do STJ torna o agravo manifestamente inadmissível, ensejando a incidência da Súmula 182 do STJ.
+5. O recorrente deixou de demonstrar, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, limitando-se a reiterar argumentos já apresentados.
+6. A insistência na violação a dispositivos constitucionais, matéria que não compete ao STJ, reforça a inadmissibilidade do agravo.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental não conhecido. "1. A ausência de impugnação específica aosTese de julgamento: fundamentos da decisão de inadmissão do recurso especial, especialmente quanto à aplicação da Súmula 7 do STJ, torna o agravo regimental inadmissível. 2. A insistência em matéria constitucional, que não compete ao STJ, reforça a inadmissibilidade do agravo".
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV e LV, e 93, IX, e da Constituição Federal.
+Nesse sentido, argumenta que o acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça teria mantido a condenação do recorrente sem apresentar fundamentação adequada e suficiente, especialmente no que tange à análise das provas produzidas nos autos.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 491-495).
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 448-450):
+A decisão que não conheceu o agravo em recurso especial possui a seguinte fundamentação (e-STJ fls. 378-383):
+(..)
+Portanto, o agravo em recurso especial deve conter impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial, sob pena de não conhecimento pelo relator (art. 932, III, CPC e Súmula n. 182 do STJ).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com base no óbice previsto na Súmula 7 do STJ, que impede o reexame de provas, e na impropriedade de alegação de ofensa a dispositivos constitucionais em sede de recurso especial, conforme decisão de inadmissão (e-STJ fls. 313-315).
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a alegar genericamente que as matérias foram devidamente prequestionadas e que o recurso trata de matéria jurídica, não fática, sem apresentar argumentação suficiente para demonstrar que a análise dos fatos e provas não seria necessária para a reforma do acórdão recorrido (e-STJ fls. 320-321). O agravo tão somente reitera palavra por palavra os mesmos fundamentos que foram usados quando da interposição do recurso especial.
+Portanto, a ausência de impugnação concreta da aplicação da Súmula 7 do STJ  núcleo essencial da decisão de inadmissão  torna o agravo manifestamente inadmissível, ensejando a incidência da Súmula n. 182 do STJ.
+(..)
+O agravo regimental não deve ser conhecido e a decisão recorrida deve ser mantida por seus próprios fundamentos.
+No recurso especial interposto, a defesa pretende a absolvição do recorrente, condenado pelo Tribunal de origem à pena de 5 anos e 6 meses de reclusão, em regime inicial semiaberto, além de 560 dias-multa, pelo delito de tráfico de drogas. Alternativamente, requer o reconhecimento do tráfico privilegiado.
+Não conhecido pelo Tribunal de origem, ante a vedação da Súmula 7 desta Corte e incompetência do Superior Tribunal de Justiça para apreciar violação a dispositivo constitucional, o recorrente interpôs agravo em recurso especial sustentando que o acórdão recorrido "foi elaborado sem a devida conexão com as provas dos autos, sustentando que os depoimentos dos policiais são insuficientes para embasar a . Afirma condenação, pois não foram corroborados por outras provas judicializadas" ainda que as testemunhas da acusação negaram ter adquirido drogas do agravante, o que deveria ter sido considerado pelo Tribunal de origem. Por fim, defende que a negativa do tráfico privilegiado foi indevida, pois não há provas de que o agravante se dedica a atividades criminosas ou integra organização criminosa.
+Não se conheceu do agravo, como se depreende da decisão acima transcrita, porque o recorrente reiterou os argumentos constantes no recurso especial, sem demonstrar como é possível apreciar as teses defensivas sem o reexame de provas para alterar as conclusões do Tribunal de origem.
+No agravo regimental, o recorrente repete os mesmos fundamentos que ensejaram a inadmissão do recurso especial e do agravo em recurso especial, inclusive insistindo na violação a dispositivos constitucionais (artigo 5º, incisos XI, LIV e LV, e artigo 93, inciso IX), o que, sabidamente, não compete a esta Corte.
+Ainda, menciona que a condenação se baseou em elementos de informação que não foram devidamente corroborados em juízo e que conclusão da autoria se baseou no depoimento dos policiais, que estaria isolado nos autos. Transcreve os depoimentos prestados durante a instrução processual para ao final requerer a absolvição. Quanto ao tráfico privilegiado, reproduz os argumentos constantes nos recursos anteriores.
+Para fins de superação do referido óbice, exige-se que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, o que não fez. Ao retomar a discussão sobre as provas produzidas em instrução, o agravante não logra êxito em indicar como a análise de seu pleito não implicaria no reexame do conjunto fático-probatório. Há, em verdade, inconformismo com a solução dada pela instância ordinária. Nesse sentido:
+ ..
+Como já consignado na decisão que não conheceu do agravo em recurso especial, a ausência de impugnação concreta da aplicação da Súmula 7 do STJ  núcleo essencial da decisão de inadmissão  torna o agravo manifestamente inadmissível, ensejando a incidência da Súmula n. 182 do STJ.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela decisão recorrida para impedir o trânsito do recurso especial obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade por meio de impugnação específica de cada um deles.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
