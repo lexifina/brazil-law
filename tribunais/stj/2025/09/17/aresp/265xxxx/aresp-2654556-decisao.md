@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 225):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS. TUTELA DE URGÊNCIA. RECURSO SECUNDUM EVENTUM LITIS. PRESENÇA DOS REQUISITOS DO FUMUS BONI IURIS E DO PERICULUM IN MORA. 1. O agravo de instrumento é recurso a ser decidido secundum eventum litis , tendo seu campo de cognição limitado ao acerto ou desacerto da decisão recorrida, e, com conformidade com a presença ou não dos requisitos ensejadores da tutela de urgência, não podendo ingressar no mérito da demanda, sob pena de supressão de instância. 2. Correta a decisão que deferiu o pedido liminar, vez que, diante das provas constantes na inicial, nota-se que os moradores da associação autora vêm sofrendo, de forma recorrente, com interrupções de fornecimento de energia, o que não é razoável. 3. Ademais, apesar de a agravante alegar estar em conformidade com as exigências da Aneel, é preciso que ela preze pelo cumprimento de sua função de fornecimento de energia elétrica, da melhor forma possível, notadamente porque o condomínio em questão localiza-se em área urbana e não há dificuldades extraordinárias apresentadas pela agravante no processo de fornecimento de energia na localidade. 4. Quanto ao alegado atendimento das exigências da agência reguladora, essa questão exige melhor apuração, que será feita ao longo da demanda no juízo de origem. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 246/253).
+Nas razões de seu recurso especial, a parte recorrente alega que foram violados os arts. 300, 995, 1.019, I, e 1.022 do Código de Processo Civil (CPC).
+Alega que o Tribunal a quo deixou de suprimir omissões expressamente aventadas por meio da oposição de embargos de declaração. Argumenta que a Corte local não fundamentou os motivos pelos quais ultrapassou os limites de atuação do Poder Judiciário, adentrando ao mérito administrativo reservado ao Poder Executivo. Sustenta que a liminar concedida contraria o Despacho 3.498/2022 da Agência Nacional de Energia Elétrica (ANEEL) (fls. 262/265).
+Afirma que o Tribunal de origem chancelou pleito satisfativo e carente da probabilidade do direito, desconsiderando ato regulatório praticado pela ANEEL. Assevera que o ato regulatório retira a probabilidade do direito deduzido pela associação recorrida (fls. 266/267).
+Requer que seja dado provimento ao recurso.
+A parte adversa apresentou contrarrazões (fls. 684/690).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Consoante se depreende da análise do acórdão recorrido, o Tribunal de origem, de modo expresso, fundamentado e coeso, concluiu que deveria ser mantida a decisão do juízo a quo que deferiu a tutela de urgência pleiteada pela parte recorrida, porquanto presentes o fumus boni iuris e o periculum in mora.
+Ainda, ressaltou que a análise do atendimento das exigências da agência reguladora deveria ser realizada ao longo da demanda, nestes exatos termos (fl. 229):
+ ..  apesar de a agravante alegar estar em conformidade com as exigências da Aneel, é preciso que ela preze pelo cumprimento de sua função de fornecimento de energia elétrica, da melhor forma possível, notadamente porque trata-se de relação de consumo, de um serviço público essencial, e o condomínio localiza-se em área urbana, não havendo dificuldades extraordinárias apresentadas pela agravante no processo de fornecimento de energia na localidade.
+Outrossim, quanto ao alegado atendimento das exigências da agência reguladora, essa questão exige melhor apuração, que será feita ao longo da demanda de origem.
+Essa fundamentação foi reiterada por ocasião do julgamento dos embargos de declaração, conforme se observa do trecho a seguir (fl. 249):
+Especificamente sobre a questão dos indicadores de continuidade (sua suspensão e aceitabilidade pela agência reguladora), no acórdão recorrido constou que as recorrentes interrupções de fornecimento de energia não são razoáveis, devendo a agravante/embargante prezar pelo cumprimento de suas funções da melhor forma possível, haja vista tratar-se de relação de consumo de um serviço público essencial por condomínio localizado em área urbana, inexistindo comprovação de dificuldade extraordinária, além de demandar melhor apuração, ao longo do feito originário, da alegação de atendimento das exigências da Aneel.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Os arts. 995 e 1.019, I, do CPC não foram apreciados pelo Tribunal de origem, nem foram objeto dos embargos de declaração apresentados.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Quanto ao cerne recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS resolveu que estariam presentes os requisitos autorizadores da concessão da tutela de urgência vindicada pela parte adversa, nestes exatos termos (fls. 228/229):
+Dessa forma, este recurso pode discutir, tão somente, a presença ou não dos requisitos para a concessão da tutela de urgência postulada, sem ingressar em matéria meritória.
+Partindo desse pressuposto, verifico que o juízo de origem, corretamente, entendeu presentes o fumus boni iuris e o periculum in mora.
+É que, diante das provas constantes na inicial, nota-se que os moradores da associação autora vêm sofrendo, de forma recorrente, com interrupções de fornecimento de energia, o que não é razoável.
+Ademais, apesar de a agravante alegar estar em conformidade com as exigências da Aneel, é preciso que ela preze pelo cumprimento de sua função de fornecimento de energia elétrica, da melhor forma possível, notadamente porque trata-se de relação de consumo, de um serviço público essencial, e o condomínio localiza-se em área urbana, não havendo dificuldades extraordinárias apresentadas pela agravante no processo de fornecimento de energia na localidade.
+Outrossim, quanto ao alegado atendimento das exigências da agência reguladora, essa questão exige melhor apuração, que será feita ao longo da demanda de origem.
+Dessa forma, na fase processual em que o feito se encontra na origem, a decisão recorrida mostra-se consentânea com os ditames legais e jurisprudenciais.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO COLETIVA. TUTELA DE URGÊNCIA. REAVALIAÇÃO. INADMISSIBILIDADE. LEI LOCAL. ANÁLISE. INVIABILIDADE.
+ ..
+2. É pacífica a jurisprudência desta Corte Superior acerca da impossibilidade de reexame da presença dos pressupostos para a concessão ou negativa da tutela antecipada no âmbito do recurso especial, seja em face da necessária incursão na seara fática da causa, seja em razão da natureza perfunctória do provimento, que não representa manifestação definitiva da Corte de origem sobre o mérito da questão, o que atrai a incidência analógica da Súmula 735 do STF e o óbice da Súmula 7 do STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.608.407/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/3/2025, DJEN de 31/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA REVOGAÇÃO DE TUTELA PROVISÓRIA DE URGÊNCIA. ACÓRDÃO PELO PARCIAL PROVIMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO NÃO DEFINITIVA. REVISÃO VINCULADA AO EXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ ..
+3. À luz do art. 105, inc. III, da Constituição Federal, o recurso especial não é a via recursal adequada à revisão de decisão precária, não definitiva, e, por isso, via de regra, não é cabível contra acórdão que defere ou nega tutela de urgência. Observância da Súmula 735 do STF.
+4. No caso dos autos, considerado o teor do acórdão recorrido, não se pode conhecer do recurso, quanto à tese de violação do art. 300 do CPC/2015, porque a questão a respeito do deferimento da tutela de urgência está, estritamente, vinculada ao exame de fatos e provas. Observância da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.096.821/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/5/2024, DJe de 5/6/2024.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+ EMENTA
