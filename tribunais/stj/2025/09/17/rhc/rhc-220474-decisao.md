@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por DIEGO SOUZA DE OLIVEIRA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que denegou a ordem no HC n. 0806108-10.2025.8.02.0000 (fls. 63/73), mantendo a prisão preventiva decretada em razão da suposta prática do crime de furto simples (Processo n. 0726556-90.2025.8.02.0001 - fls. 38/39).
+Alega o recorrente a ausência de fundamentação idônea no decreto prisional, que seria baseada apenas na gravidade abstrata do crime. Aduz que o simples fato de figurar no polo passivo de outra ação penal não é motivo válido para a custódia.
+Requer, no âmbito liminar e no mérito, a revogação da custódia, ainda que mediante a aplicação de medidas cautelares alternativas.
+Sem pedido liminar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 113/114).
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+O Juízo de primeiro grau converteu a prisão em flagrante em preventiva,  ..  considerando que a segregação, no caso em tela, é necessária para garantia da ordem pública em concreto, mormente diante da habitualidade delitiva do custodiado, em que a imposição de medidas cautelares diversas da prisão não fora suficiente para obstar a prática de crimes (fl. 39).
+O Tribunal de origem manteve a segregação, nestes termos (fl. 71):
+20. Da análise do caso em hipótese, mostra-se evidente a necessidade de resguardar a ordem pública, ante a probabilidade de reiteração delitiva, posto que, conforme elementos acostados no caderno processual, mormente a certidão de antecedentes penais à fl. 26 dos autos originários, o paciente teria praticado, pelo menos, 2 (dois) furtos ao longo dos anos de 2023 e 2024, em um curto lapso de tempo, o que, portanto, evidencia a habitualidade da referida prática.
+Todavia, não obstante as relevantes considerações feitas pelas instâncias ordinárias, as demais circunstâncias descritas nos autos revelam que a aplicação de medidas cautelares alternativas à prisão se mostram suficientes a evitar a reiteração delitiva, uma vez que se trata de furto simples de 2 shampoos, 2 condicionadores e 2 máscaras capilares (fls. 19, 31 e 93), crime supostamente cometido sem violência ou grave ameaça à pessoa.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+Ante o exposto, dou provimento ao recurso em habeas corpus a fim de revogar a prisão preventiva decretada em desfavor do ora recorrente, na ação penal de que tratam os presentes autos, determinando sua substituição por outras medidas cautelares previstas no art. 319 do Código de Processo Penal, a serem estabelecidas pelo Juízo de primeiro grau, a quem incumbirá a fiscalização e também a eventual decretação de nova prisão, em caso de descumprimento de qualquer uma das obrigações impostas ou por superveniência de motivos novos e concretos para tanto, nos termos do art. 312 do Código de Processo Penal.
+Comunique-se, com urgência, às instâncias ordinárias.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. FURTO SIMPLES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
