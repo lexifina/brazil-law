@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. PREQUESTIONAMENTO DE ARTIGOS DA CONSTITUIÇÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+2. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, mesmo para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
+3. Embargos declaratórios rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos contra acórdão proferido por esta Quinta Turma, de minha relatoria, que negou provimento ao agravo regimental, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL. UTILIZAÇÃO COMO NOVO APELO. REVALORAÇÃO SUBJETIVA DA PROVA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o escopo restrito da revisão criminal, ajuizada com fundamento no art. 621, inciso I, do Código de Processo Penal, pressupõe condenação sem qualquer lastro probatório, o que não confunde com a mera fragilidade probatória" (AgRg nos EDcl no REsp 1940215/RJ, Relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/11/2021)
+2. No caso concreto, o Tribunal a quo procedeu a um novo julgamento da causa, dando novo valor às provas para concluir pela ausência de gravidade e pela fragilidade, o que sabidamente não se admite.
+3. O princípio da insignificância não se aplica aos crimes contra a Administração Pública, conforme assentado na Súmula 599 do STJ, justificando a resposta penal, ainda que o dano material não seja expressivo (ut, HC n. 840.441/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 27/3/2025)
+4. Agravo regimental não provido. (e-STJ fl. 327)
+A defesa alega que o acórdão foi omisso quanto às seguintes teses: i) controle epistêmico da prova; ii) suficiência do acervo probatório e; iii) princípio da insignificância. Afirma que o acórdão ignorou precedente recente da própria Turma que excepcionou a incidência da Súmula n, 599 do STJ. Pede o prequestionamento dos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. PREQUESTIONAMENTO DE ARTIGOS DA CONSTITUIÇÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+2. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, mesmo para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
+3. Embargos declaratórios rejeitados.
+VOTO
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+No caso em tela, o que realmente o embargante pretende é o novo julgamento da causa, isso porque o acórdão embargado analisou a tese exposta no recurso especial com clareza, anotando que de acordo com o entendimento deste Superior Tribunal de Justiça é inviável a revaloração subjetiva da prova em revisão criminal. Nessa linha:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL. PEDIDO DE REVALORAÇÃO DAS PROVAS. ALEGADA INSUFICIÊNCIA PROBATÓRIA. DESCABIMENTO DA AÇÃO REVISIONAL. AUSÊNCIA DE HIPÓTESE LEGAL. EXTENSÃO DO BENEFÍCIO CONCEDIDO AO CORRÉU. NÃO INCIDÊNCIA DO ART. 580 DO CÓDIGO DE PROCESSO PENAL - CPP. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL ENTRE OS CORRÉUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inviável, em revisão criminal, a pretensão de revaloração subjetiva das provas, com o intuito de reverter a condenação com fundamento no reconhecimento da "insuficiência probatória", hipótese dos autos.
+2. Nesse sentido, "a jurisprudência desta Corte Superior de Justiça está fixada no sentido de que o escopo restrito da revisão criminal, ajuizada com fundamento no art. 621, inciso I, do Código de Processo Penal, pressupõe condenação sem qualquer lastro probatório, o que não confunde com a mera fragilidade probatória" (AgRg nos EDcl no REsp 1940215/RJ, Relatora Ministra LAURITA VAZ, Sexta Turma, DJe 25/11/2021).
+3. Não demonstrada a equivalência de situação fático-processual entre o agravante e o corréu, no tocante à negativação da circunstância judicial da culpabilidade na primeira fase da dosimetria da pena, impossível a pretendida extensão dos efeitos da decisão, nos termos do art. 580 do CPP.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.157.056/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9/3/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO DE DROGAS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu do agravo para não conhecer do recurso especial defensivo, mantendo o acórdão que julgou improcedente ação revisional.
+2. O agravante alega ausência de comprovação da autoria do delito de tráfico de entorpecentes, sustentando que a condenação é contrária à evidência dos autos.
+3. O Tribunal de origem julgou improcedente a ação revisional, afirmando a existência de provas seguras acerca da autoria delitiva, baseando-se em depoimentos de policiais e outros elementos probatórios.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a revisão criminal pode ser utilizada como um novo recurso de apelação para reexaminar fatos e provas já analisados pelas instâncias inferiores.
+5. A questão também envolve a análise da suficiência das provas apresentadas para a condenação do agravante pelo delito de tráfico de drogas.
+III. Razões de decidir
+6. A revisão criminal é meio extraordinário de impugnação contra sentença condenatória transitada em julgado, devendo ser utilizada apenas em hipóteses excepcionais previstas no art. 621 do CPP.
+7. O depoimento de policiais constitui meio de prova idôneo para a condenação, especialmente quando não há dúvida sobre a imparcialidade dos agentes.
+8. Não foram apresentados elementos probatórios substancialmente novos que autorizem a revisão criminal ou que demonstrem contrariedade ao texto expresso da lei penal ou à evidência dos autos.
+9. O Superior Tribunal de Justiça já pacificou o entendimento de que a revisão criminal não pode ser utilizada como nova apelação para reexame de fatos e provas.
+IV. Dispositivo e tese
+10. Agravo regimental desprovido.
+Tese de julgamento: "1. A revisão criminal deve ser utilizada apenas nas hipóteses excepcionais previstas no art. 621 do CPP. 2. O depoimento de policiais é prova idônea para condenação, salvo demonstração de parcialidade. 3. A revisão criminal não pode ser utilizada como nova apelação para reexame de fatos e provas".
+Dispositivos relevantes citados: CPP, art. 621; CPP, art. 156; Lei n. 11.343/2006, art. 33.Jurisprudência relevante citada: STJ, HC n. 206.847/SP, Relator Ministro Nefi Cordeiro, Sexta Turma, DJe 25/2/2016. (AgRg no AREsp n. 2.820.924/SP, desta Relatoria, DJEN de 30/4/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPOSSIBILIDADE. CONVERGÊNCIA DAS PROVAS. REVISÃO CRIMINAL NA ORIGEM. INSUFICIÊNCIA PROBATÓRIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO IMPROVIDO.
+1. Quanto à alegação de insuficiência probatória, verifica-se, no contexto fático delineado pela Corte de origem, a existência de elementos que apontam para a autoria delitiva do paciente, incluindo os depoimentos dos demais envolvidos na ação, os quais indicam que ele foi o mentor do crime. Em contrapartida, o corréu Manoel contratou os corréus Caio, Kreyson, Moacir e Willian para a prática da conduta. Destaca-se, ainda, que o paciente possuía dívida com a vítima e, conforme relatos de testemunhas, teria solicitado aos autores do roubo a subtração dos documentos que comprovassem tal dívida. Qualquer incursão que escape à moldura fática ora apresentada demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+2. O acolhimento da revisão criminal tem caráter excepcional, sendo admitido apenas quando patente que a condenação é contrária à evidência dos autos ou se a inocência pela prova nova fique demonstrada de forma flagrante, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos.
+3. A fundamentação baseada apenas na insuficiência probatória não autoriza o Tribunal de origem a proferir juízo absolutório, no âmbito de revisão criminal, pois essa situação não se identifica com o alcance do disposto no art. 621, I e III, do Código de Processo Penal.
+4. Agravo regimental improvido. (AgRg no HC n. 904.012/MG, relator Ministro Og Fernandes, Sexta Turma, DJEN de 24/4/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. HIPÓTESES EXCEPCIONAIS. IMPOSSIBILIDADE DE USO COMO SEGUNDA APELAÇÃO. PRESTAÇÃO PECUNIÁRIA. SITUAÇÃO ECONÔMICA DO RÉU. EXTENSÃO DO DANO. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDA DE. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO NÃO PROVIDO.
+1. A revisão criminal consubstancia meio extraordinário de impugnação contra uma sentença condenatória transitada em julgado, cujo acolhimento é excepcional, cingindo-se às hipóteses em que a suposta contradição à evidência dos autos seja patente, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos.
+2. Em relação à dosimetria da pena, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário (AgRg no REsp n. 1.805.996/SP, relator Ministro RIBEIRO DANTAS, 5ª Turma, DJe 29/3/2021).
+3. O Superior Tribunal de Justiça consolidou o entendimento de que, "nos termos do § 1º do artigo 45 do Código Penal, a finalidade da prestação pecuniária é reparar o dano causado pela infração penal, motivo pelo qual não precisa guardar correspondência ou ser proporcional à pena privativa de liberdade irrogada ao acusado" (AgRg no REsp n. 1.707.982/MG, Relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018).
+4. Tendo as instâncias ordinárias fixado a prestação pecuniária de forma motivada de acordo com as peculiaridades do caso concreto, a desconstituição das conclusões alcançadas para reduzir o valor da prestação pecuniária, com base na incapacidade econômica do recorrente, demandaria necessariamente aprofundado revolvimento do acervo de fatos e provas, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ.
+5. "Cabível a comprovação de impossibilidade de pagamento da prestação pecuniária perante o Juízo da execução criminal, que poderá até mesmo autorizar o parcelamento do valor de forma a permitir o pagamento pelo acusado sem a privação do necessário à sua subsistência. Precedentes" (AgRg no REsp n. 1.866.787/SP, Quinta Turma, Relator Ministro Felix Fischer, DJe de 5/5/2020) (AgRg no HC n. 764.125/SC, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 23/5/2023, DJe de 2/6/2023.)
+6. Agravo regimental não provido. (AgRg no AREsp n. 2.759.668/SP,desta Relatoria, DJEN de 9/12/2024.)
+No caso concreto, o Tribunal a quo procedeu a um novo julgamento da causa, dando novo valor às provas para concluir pela ausência de gravidade e pela fragilidade, o que sabidamente não se admite.
+Veja-se que ao afirmar que "a conduta imputada ao ora revisionando não possui uma gravidade acentuada" (e-STJ fl. 167) o Tribunal indubitavelmente atribuiu nova valoração aos fatos e às provas.
+Em arremate, destaca-se que "de acordo com o entendimento jurisprudencial remansoso neste Superior Tribunal de Justiça, os julgadores não estão obrigados a responder todas as questões e teses deduzidas em juízo, sendo suficiente que exponham os fundamentos que embasam a decisão" (ut, EDcl no AREsp 771.666/RJ, Rel. Ministra Marai Thereza de Assis Moura, Sexta Turma, DJe 2/2/2016).
+Quanto à Sumula n. 599 do STJ, as decisões anteriores indicaram julgados atuais desta Corte no sentido de ser inaplicável o princípio da insignificância em crimes cometidos contra a Administração Pública, mesmo que o prejuízo material seja reduzido. Nessa linha: AgRg no AREsp n. 2.810.625/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025; AgRg no AREsp n. 2.814.682/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/4/2025, DJEN de 9/4/2025 e HC n. 840.441/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025.
+Constata-se que, evidentemente, a irresignação do recorrente se limita ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da violação dos mencionados artigos processuais, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+Por fim, assinala-se que não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, mesmo para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
