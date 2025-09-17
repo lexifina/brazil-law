@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual a ENERGISA SERGIPE - DISTRIBUIDORA DE ENERGIA S.A se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado (fl. 374):
+APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER. SENTENÇA DE EXTINÇÃO DO FEITO, SEM JULGAMENTO DO MÉRITO, POR AUSÊNCIA DE INTERESSE DE AGIR SUPERVENIENTE. RECURSO DO ENTE PÚBLICO ESTATAL. ALEGAÇÃO DE SENTENÇA CITRA PETITA. AUSÊNCIA DE APRECIAÇÃO DO PEDIDO FORMULADO NA EXORDIAL. RECONHECIMENTO DO VÍCIO. DESCONSTITUIÇÃO DA SENTENÇA. INAPLICABILIDADE DO DISPOSTO NO ART. 1.013, §3º, DO CPC/2015. SUPRESSÃO DE INSTÂNCIA. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA PROLAÇÃO DE NOVO JULGADO. APELO DA EMPRESA DE ENERGIA ELÉTRICA PREJUDICADO PELA PERDA DE OBJETO. RECURSOS CONHECIDOS, PROVIDO O DO ESTADO DE SERGIPE E PREJUDICADO O DA ENERGISA. DECISÃO UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (fls. 404/409).
+Nas razões de seu recurso especial, a parte recorrente alega que houve violação aos arts. 17, 322, 324 e 1.022 do Código de Processo Civil (CPC).
+Sustenta que o acórdão recorrido deixou de sanar omissões relevantes ao correto julgamento do feito, mesmo após a oposição de embargos de declaração. Aponta que o acórdão recorrido admitiu o prosseguimento do feito em relação a pedido incerto e futuro, o que contraria a legislação processual vigente.
+Requer que seja dado provimento ao recurso.
+A parte adversa apresentou contrarrazões (fls. 431/437).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Assiste razão à parte recorrente.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre "o verdadeiro fundamento da r. sentença, qual seja, a perda superveniente do interesse processual do ESTADO DE SERGIPE, bem como ao deixar de observar o disposto nos artigos 17, 322 e 324 do Código de Processo Civil" (fl. 420).
+Constato que, apesar de provocado por meio dos embargos de declaração às fls. 379/389, o Tribunal de origem, conquanto tenha concluído expressamente pela ocorrência de decisão citra petita, afastando a extinção do feito pela perda superveniente do objeto realizada na sentença, manteve-se silente sobre a seguinte alegação contida no recurso integrativo (fls. 387/388, sem destaques no original):
+Não se poderia, portanto, como fez o v. acórdão embargado, entender que o objeto da ação de origem era apenas e tão somente "caracterizar o serviço de energia elétrica como serviço público essencial e, portanto, não sujeito à futuras interrupções e/ou cortes". Afinal, tal pedido é absolutamente genérico e carece de qualquer justificativa ou necessidade, sendo, portanto, ilícito à luz da legislação processual vigente.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça entende que o Poder Judiciário não é órgão de consulta para responder a questionamentos acerca de situações hipotéticas, futuras e incertas, diante da desnecessidade do provimento judicial nesses casos e, por conseguinte, da clara ausência de interesse de agir da parte demandante:
+ ..
+Some-se isso ao fato de que a possibilidade de suspensão do fornecimento de energia elétrica aos órgãos públicos inadimplentes, ainda que prestadores de serviços essenciais, é prerrogativa legal trazida pelos artigos 17, caput e §1º, da Lei nº 9.427/96 e 6º, §3º, II, da Lei nº 8.987/95. Sublinhe-se também a Resolução Normativa nº 1000/2021 da ANEEL, que prevê a possibilidade de corte de luz em casos de inadimplemento, desde que respeitada a comunicação prévia e específica ao respectivo usuário.
+Logo, entender que a pretensão do ESTADO DE SERGIPE era realmente buscar uma obrigação de não fazer genérica para que a ENERGISA, em qualquer cenário futuro, se abstenha de utilizar a sua principal arma legal contra a inadimplência, mesmo sem haver inadimplemento concreto, e, assim, risco concreto de corte de fornecimento, seria esbarrar diretamente na vedação dos arts. 17, 322 e 324 do CPC.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e a ele dar provimento a fim de reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
