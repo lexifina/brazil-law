@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por David Eulalio Couto Machado Filho contra ato supostamente praticado pelo Ministro de Estado da Saúde, de baixa pontuação que lhe foi conferida (e mantida após apreciação de recurso administrativo) no "resultado preliminar de análise curricular" referente ao Edital Conjunto SAPS/SGTES/MS n. 7/2025 voltado ao chamamento público para adesão ao Projeto Mais Médicos para o Brasil (PMBB).
+Como se vê, o impetrante, em síntese, contesta o indeferimento de seu recurso, que foi negado com base no subitem 7.2.2 do Edital nº 7/2025, por ter enviado comprovantes de cursos finalizados após a data de 23 de abril de 2025. Diz que possui títulos de especialista em Medicina de Família e Comunidade, além de experiência de participação anterior no Projeto Mais Médicos para o Brasil, conforme o parágrafo 2º da Lei 12.871, de 22 de outubro de 2013, o que lhe daria direito a uma pontuação total de 20 pontos. Requer, assim:
+i) a concessão de medida liminar para determinar à autoridade coatora proceda à imediata retificação da pontuação atribuída ao Impetrante no processo seletivo, reconhecendo os dois cursos concluídos na plataforma UNA-SUS antes da data de corte, com atribuição de 20 pontos, no prazo máximo de 72 horas.
+ii) Ao final, a concessão da segurança definitiva, para confirmar a liminar e garantir ao Impetrante a correta pontuação e colocação no certame frente os demais candidatos.
+É o relatório. Passo a decidir.
+Nos termos do art. 105, I, b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal, cuja interpretação é restritiva.
+Do documento juntado à fl. 17, infere-se que o Projeto Mais Médicos para o Brasil é de responsabilidade da Secretaria de Atenção Primária à Saúde - SAPS/MS e da Secretaria de Gestão Do Trabalho e da Educação na Saúde - SGTES/MS.
+No presente caso, o impetrante, apesar de ter sido intimado pela Presidência do STJ para apresentar o ato coator praticado pela autoridade coatora (Ministro da Saúde), trouxe apenas uma comunicação eletrônica do Departamento de Planejamento e Regulação da Provisão de Profissionais de Saúde - DEPREPS, informando que seu recurso foi indeferido com base no subitem 7.2.2 do Edital nº 7/2025, devido ao envio de comprovantes de cursos finalizados após a data de 23 de abril de 2025.
+Diante disso, é evidente que a autoridade apontada como coatora não possui legitimidade para integrar o polo passivo da ação mandamental, afastando, assim, a competência originária desta Corte Superior de Justiça para o processamento e julgamento do feito, conforme o artigo 105, inciso I, alínea b, da Constituição da República. A propósito:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROJETO MAIS MÉDICOS. MINISTRO DE ESTADO DA SAÚDE. ILEGITIMIDADE.
+1. Conforme estatui a Súmula 510 do STF, praticado "o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial".
+2. Hipótese em que o ato apontado como coator, juntado pela própria parte impetrante, foi emanado da Secretaria de Atenção Primária à Saúde, sendo inconteste a ilegitimidade do Ministro de Estado da Saúde para figurar no polo passivo do mandado de segurança e, por conseguinte, a incompetência desta Corte para processar e julgar o presente writ.
+3. Agravo interno desprovido.
+(AgInt no M S n. 25.885/DF, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 19/5/2020, DJe de 22/5/2020.)
+Ante o exposto, indefiro liminarmente a inicial do mandado de segurança, nos termos dos arts. 10, caput, da Lei n. 12.016/2009 e 34, XIX, e 212 do Regimento Interno do STJ. Prejudicado o pedido liminar.
+Por conseguinte, julgo prejudicado a petição de fls. 80-83.
+Publique-se. Intimem-se.
+EMENTA
+PROCE SSUAL CIVIL. MANDADO DE SEGURANÇA. PROJETO MAIS MÉDICOS. MINISTRO DE ESTADO DA SAÚDE. ILEGITIMIDADE. INICIAL INDEFERIDA LIMINARMENTE.
