@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO FERNANDO LOURENÇO MARQUES contra ato do Tribunal de Justiça do Estado do Espírito Santo, nos autos da Ação Penal n. 0024397-24.2016.8.08.0048.
+Em suas razões, o impetrante alega ocorrência de constrangimento ilegal causado pela certificação do trânsito em julgado e arquivamento da ação penal pois a intimação acerca do resultado do julgamento do recurso de apelação foi realizada em nome de advogado já falecido.
+Diante do exposto, requer, liminarmente, a suspensão do trâmite processual, para que o Tribunal de Justiça se abstenha de arquivar o processo. No mérito, requer o reconhecimento do vício apontado e anular o julgamento da apelação criminal, que intimou advogado já falecido.
+É o relatório. Decido.
+Ao que se tem dos autos, a insurgência se volta contra decisão monocrática que não conheceu do pedido apresentado perante o Tribunal de Justiça. Não há manifestação do Colegiado respectivo. Desse modo, não é possível identificar, a partir do exame da documentação juntada aos autos, a competência desta Corte Superior para apreciação deste writ, já que não é possível afirmar que a irresignação se volta contra ato de autoridade dentre as elencadas no art. 105, inciso II, da Constituição Federal.
+Nesse sentido, mutatis mutandis:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÂNSITO. REGIME DE CUMPRIMENTO DE PENA. REINCIDÊNCIA E CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FIXADO REGIME SEMIABERTO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DECISÃO DE TURMA RECURSAL. INCOMPETÊNCIA DO STJ. RECURSO NÃO PROVIDO.
+1. Não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos.
+2. Não havendo acórdão proferido pela Tribunal de Justiça de origem, esta Corte não pode conhecer do tema, por ausência de competência para apreciar o tema. Precedentes.
+3. Inviável a concessão da ordem de habeas corpus de ofício, pois a o regime inicial de cumprimento de pena foi fixado no semiaberto em vista das circunstâncias judiciais negativas e reincidência, nos termos dos §§ 2º e 3º, do art. 33, do Código Penal 4. Agravo regimental não provido. (AgRg no HC n. 865.592/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RHC CONTRA DECISÃO MONOCRÁTICA DO DESEMBARGADOR RELATOR. IMPOSSIBILIDADE. TRANCAMENTO DA AÇÃO PENAL EM TRÂMITE PERANTE O JUIZADO ESPECIAL CRIMINAL. CONSTRANGIMENTO ILEGAL IMPUTADO AO PROMOTOR DE JUSTIÇA. TENTATIVA DE SUPRESSÃO DA COMPETÊNCIA DAS TURMAS RECURSAIS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É inviável o conhecimento de habeas corpus ou recurso em habeas corpus quando o impetrante/recorrente se insurge contra decisão singular de Desembargador do Tribunal de Justiça, contra a qual seria cabível agravo regimental, que não foi interposto. Precedente do STF e do STJ" (AgRg no RHC 102.858/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 13/3/2019).
+2. Não é possível inverter a ordem hierárquica dos órgãos jurisdicionais imputando ao promotor de justiça o constrangimento ilegal, supostamente consistente no oferecimento da denúncia, para suprimir a competência das Turmas Recursais na análise do pleito de trancamento da ação penal que já tramita em face do agravante perante o Juizado Especial Criminal.
+3. Agravo regimental desprovido. (AgRg no RHC n. 121.441/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/8/2020, DJe de 10/8/2020.)
+Assim, não se constata constrangimento ilegal causado por Tribunal de Justiça ou Tribunal Regional Federal apto a autorizar o processamento e julgamento deste habeas corpus pelo Superior Tribunal de Justiça.
+Ante o exposto, com esteio no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se.
+EMENTA
