@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus , impetrado em nome de JOSE EVERTON SILVA DOS SANTOS - condenado por latrocínio tentado a 13 anos e 4 meses de reclusão, e 10 dias-multa -, atacando-se o acórdão proferido pelo Tribunal de Justiça da Paraíba (fls. 15/23 - Revisão Criminal n. 0809591-22.2024.8.15.0000), não comporta processamento.
+Com efeito, busca a impetração a aplicação da fração máxima de redução pela tentativa - na condenação proferida na Ação Penal n. 0809591-22.2024.8.15.0000 (fls. 374/381, da 1ª Vara Mista da comarca de Sousa/PB), mantida em grau de apelação (fls. 480/490) -, ao argumento de que a fração de 1/3 foi fixada com fundamentação genérica, sem análise concreta do iter criminis percorrido, em afronta ao art. 93, IX, da Constituição Federal (fls. 5/10).
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois rever a conclusão do acórdão da apelação (fls. 480/490), que fundamentou a manutenção da fração de 1/3 pela tentativa com base em elementos concretos, considerando o iter criminis percorrido - o concurso de agentes e o emprego de arma de fogo foram um meio utilizado pelos denunciados, entendido como fase de preparação e de execução para alcançar a consumação do delito de Latrocínio em sua modalidade tentada (fl. 487) -, demandaria reexame probatório (HC n. 935.934/SP, de minha relatoria, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. LATROCÍNIO TENTADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
