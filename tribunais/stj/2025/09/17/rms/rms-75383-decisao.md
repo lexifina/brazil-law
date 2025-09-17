@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, interposto por SERGIO SILVA DA SILVA, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls. 265):
+AGRAVO INTERNO DE DECISÃO MONOCRÁTICA PROFERIDA MANDADO DE SEGURANÇA. INSURGÊNCIA CONTRA DECISÃO QUE DEFERIU PROVA PERICIAL. ALEGAÇÃO DE NECESSIDADE DE (IN)DEFERIMENTO DOS QUESITOS. AUSÊNCIA DE DEMONSTRAÇÃO DE DIREITO LÍQUIDO DE CERTO. ATO JURISDICIONAL QUE NÃO PODE SER VISTO COMO ABUSO DE PODER OU ATO ILEGAL. PETIÇÃO INICIAL INDEFERIDA. MANDADO DE SEGURANÇA EXTINTO, SEM RESOLUÇÃO DE MÉRITO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 295-296).
+No presente recurso, é narrado que o deferimento de prova pericial por Juízo de primeira instância teria sido genérico, não delimitando o âmbito da perícia ou possibilitando às partes formular quesitos.
+Alega que contra essa decisão (fls. 309) "o recorrente interpôs agravo de instrumento sob nº 5270750- 45.2023.8.21.7000/RS (doc. 009), que não foi conhecido (doc. 010). Dessa decisão monocrática, interposto agravo interno (doc. 011) foi negado provimento por unanimidade (doc. 012 e doc. 013), com trânsito em julgado (doc. 014)."
+O recorrente afirma que contra essa decisão não caberia outro recurso.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso ordinário em mandado de segurança (fls. 542-546).
+É, no essencial, o relatório.
+A irresignação não prospera.
+O Tribunal a quo decidiu não ser cabível mandado de segurança na hipótese dos autos, uma vez que o mandado de segurança não pode ser utilizado como sucedâneo recursal.
+O presente recurso ordinário é manifestamente incabível, uma vez que contra a decisão a qual o recorrente se irresigna (acórdão que negou provimento a agravo de instrumento) caberia em teoria, além de embargos de declaração, a interposição de recurso especial, caso o dispositivo violado seja parte da legislação federal, ou recurso extraordinário, em se tratando de violação de dispositivo constitucional.
+Com efeito, não cabe mandado de segurança contra ato judicial passível de recurso ou correição, nos termos da Súmula n. 267 do STF ("Não cabe mandado de segurança contra ato judicial passível de recurso ou correição"). No mesmo sentido, confiram-se precedentes: STJ, AgInt no MS n. 28.373/DF, relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe 19/4/2022; AgInt no RMS n. 63.777/RJ, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 23/2/2022; AgRg no RMS n. 36.631/RJ, relatora Ministra ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/3/2018, DJe 20/3/2018; AgInt no RMS n. 61.893/MS, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 13/4/2020.
+Nos termos dos precedentes deste Tribunal, "a via estreita do writ não se presta para avaliar o acerto ou desacerto de decisões judiciais. O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo, que inexiste no caso presente" (AgInt no MS n. 24.358/DF, relator Ministro Felix Fischer, Corte Especial, DJe de 30/11/2018).
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
