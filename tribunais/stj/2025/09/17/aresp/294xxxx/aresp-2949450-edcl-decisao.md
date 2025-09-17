@@ -1,0 +1,27 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por JJ CAJURU EMPREENDIMENTOS IMOBILIARIOS LTDA contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões recursais, a parte embargante alega omissão quanto à impossibilidade de rediscussão de matéria já acobertada pelo trânsito em julgado, em violação ao artigo 507 do CPC. Aponta omissão e contradição sobre o termo final da fruição, impostos e taxas associativas, que teriam sido fixados de forma contrária à decisão da segunda instância. Sustenta que houve omissão na aplicação da Súmula 519 do STJ, que veda a fixação de honorários sucumbenciais em caso de não acolhimento ou acolhimento parcial da impugnação ao cumprimento de julgado. Alega que a decisão não considerou a sucumbência recíproca, uma vez que os embargados decaíram de parte significativa de sua pretensão, o que justificaria a exclusão da condenação da embargante ou a fixação de honorários sucumbenciais para ambas as partes. Argumenta que a decisão não enfrentou adequadamente as teses apresentadas. Sustenta que a Súmula 568 do STJ não se aplica ao caso concreto, pois a tese recursal encontra amparo em decisões do próprio Superior Tribunal de Justiça. Alega que a aplicação da súmula ampliaria indevidamente as hipóteses de cabimento de julgamentos monocrático.
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Não há que se falar omissão ou contradição.
+A decisão embargada foi clara ao asseverar que, após o advento do CPC/15, passou a existir expressa previsão legal determinando o cabimento de agravo interno contra decisão que nega seguimento ao recurso especial em virtude de tese firmada sob o rito dos recursos repetitivos (art. 1.030, I, "b", e §2º).
+Na hipótese, as alegações referentes à impossibilidade de fixação de honorários sucumbenciais em caso de não acolhimento ou acolhimento parcial da impugnação ao cumprimento de julgado foram refutadas pelo juízo de admissibilidade do recurso especial com fundamento no Tema Repetitivo 410 do STJ.
+A parte agravante interpôs o referido agravo interno, tendo o Órgão Especial do Tribunal de origem negado provimento ao recurso, mantendo a negativa de seguimento do recurso especial com fundamento no Tema repetitivo 410 /STJ.
+Assim, é inviável a análise em sede recurso especial sobre a adequação ou não da aplicação do referido tema.
+- Da violação do art. 1.022 do CPC
+Constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+No particular, verifica-se que o acórdão recorrido decidiu fundamentada e expressamente acerca do argumento de que a sucumbência recíproca impossibilitaria sua condenação ao pagamento da verba honorária sucumbencial. Veja-se (e-STJ fl. 715):
+Em suma, tendo sucumbido a exequente, ainda que parcialmente, de rigor sua condenação ao pagamento de honorários sucumbenciais aos patronos dos agravados, em observância ao princípio da causalidade, bem como ao entendimento consolidado pelo Superior Tribunal de Justiça (Tema 410), não havendo se falar-se, pois, de sucumbência recíproca. Cumpre ressaltar ter sido, inclusive, fixado como base de cálculo dos honorários advocatícios apenas o proveito econômico obtido pelos executados.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no AREsp 2.164.998/RJ, 3ª Turma, DJe 16/02/2023; AgInt no REsp 1.850.632/MT, 4ª Turma, DJe 08/09/2023; e AgInt no REsp 1.655.141/MT, 1ª Turma, DJe de 06/03/2024.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+- Da violação do art. 489 do CPC
+Por fim, no que tange à ausência de violação do art. 489 do CPC, tem-se que a decisão não merece reforma nesse ponto, haja vista que, da leitura do acórdão recorrido, nota-se que o Tribunal de origem concedeu a devida prestação jurisdicional e apreciou todos os fundamentos deduzidos pela parte agravante necessários para o deslinde da controvérsia.
+Nesse sentido: AgInt no AREsp 2.434.278/DF, Quarta Turma, DJe de 2/5/2024; e REsp 1.923.107/SP, Terceira Turma, DJe de 16/8/2021.
+Assim, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
