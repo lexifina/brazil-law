@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DE MINAS GERAIS e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - PREVIDENCIÁRIO - PENSÃO POR MORTE - REAJUSTE - TETO RGPS - MERA ATUALIZAÇÃO.
+- Conforme regras previstas tanto na Constituição Federal quanto na legislação estadual, aplica-se o teto do regime geral de previdência social (RGPS) como critério para estabelecimento e atualização do benefício de pensão por morte.
+- Embora a regra seja de fixação do benefício em conformidade com as normas vigentes ao tempo do óbito do instituidor do benefício (enunciado da Súmula nº 340/STJ), tal não significa deva a pensão por morte permanecer paralisada no tempo, porque isso ofenderia a garantia da preservação em caráter permanente seu valor real do benefício (art. 5º da EC nº 41/2003).
+- A atualização do benefício de pensão por morte estabelecido com base no teto do RGPS a partir da EC nº 41/2003 deve dar-se em conformidade com a Lei nº 10.887/2004, não seguindo a regra da paridade sob pena de ofensa ao art. 40, §7º, I, da CR/88 (grifos meus).
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+- Embargos de Declaração opostos pelo Estado de Minas Gerais e pelo IPSEMG contra acórdão que negou provimento ao Agravo de Instrumento. Alega-se omissão sobre o art. 884 do Código Civil, enriquecimento ilícito e lesão ao erário, com pedido de prequestionamento.
+II. QUESTÃO EM DISCUSSÃO
+- A questão consiste em verificar se o acórdão embargado apresenta omissão que justifique os embargos, nos termos do art. 1.022 do CPC.
+III. RAZÕES DE DECIDIR
+- O acórdão não apresenta omissão, pois fundamenta a decisão com base na EC nº 41/2003, afastando implicitamente a aplicação do art. 884 do Código Civil.
+- O julgador não é obrigado a responder a todos os argumentos das partes, desde que a decisão esteja devidamente fundamentada.
+- Os embargos de declaração não se prestam à revisão ou rediscussão do mérito.
+IV. DISPOSITIVO E TESE
+- Embargos de declaração rejeitados (grifos meus).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 884 do CC; e 40, § 7º, da CF/88 (fl. 418), no que concerne à inobservância ao entendimento firmado na Súmula n. 340/STJ e consequente enriquecimento ilícito da parte adversa em virtude da utilização do teto do maior benefício pago pelo Regime Geral de Previdência Social vigente e não o da data do fato gerador, qual seja, o ano do óbito do segurado . Argumenta:
+Ressalta-se que na data do óbito o limite máximo dos benefícios do Regime Geral de Previdência Social - RGPS era de R$ 3.916,20, que havia sido corretamente aplicado ao cálculo inicial do valor da pensão.
+Com relação ao reajuste do benefício, por força do disposto na Emenda constitucional nº 41/03, as pensões decorrentes de óbitos após 30/12/2003, terão os valores reajustados automaticamente pela aplicação de índices determinados pelo Governo, ou seja, a pensão não é amparada pelo Instituto da Paridade. Nesse sentido, não há previsão legal para que o valor e os pontos da GEPI acompanhem os aumentos concedidos após o óbito.
+Neste sentido, deve ser considerado o Teto RGPS referente ao ano da data de óbito, do ex. segurado, Sr. Mário Masao Korehisa, falecido em 06/10/2012, ou seja, o ano de 2012 e não o valor do Teto vigente do RGPS, evitando-se assim, o enriquecimento ilícito do Recorrido (fls. 418-419).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o Recurso Especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator ;Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: AREsp n. 2.747.891/MS, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 24/2/2025; AgInt no AREsp n. 2.074.834/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgRg no REsp n. 2.163.206/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 23/12/2024; AgInt no AREsp n. 2.675.455/SC, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 23/12/2024; EDcl no AgRg no AREsp n. 2.688.436/MS, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 20/12/2024; AgRg no AREsp n. 2.552.030/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/11/2024; EDcl no AgInt no AREsp n. 2.546.602/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.494.803/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 18/9/2024; AgInt nos EDcl no REsp n. 2.110.844/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/8/2024; AgInt no REsp n. 2.119.106/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2024.
+Ademais, é incabível o Recurso Especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "O Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Precedentes" ;(AgInt no AREsp n. 2.416.042/AM, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 26/2/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.824.215/RS, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; AgInt no REsp n. 2.168.140/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.623.773/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgInt nos EDcl no AREsp n. 2.650.082/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 5/3/2025; AgInt no REsp n. 1.874.657/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 27/2/2025; AgInt no REsp n. 2.157.169/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 20/2/2025; AgInt no REsp n. 1.694.319/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
