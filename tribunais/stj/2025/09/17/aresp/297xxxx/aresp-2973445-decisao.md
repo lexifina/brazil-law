@@ -1,0 +1,22 @@
+DECISÃO
+Os presentes autos foram a mim redistribuídos por prevenção do HC n. 976.232/MG (fl. 5.942).
+Inviável conhecer do agravo interposto por RAFAEL DE SOUZA HORACIO contra a decisão que inadmitiu o recurso especial.
+Conforme orientação jurisprudencial sedimentada nesta Corte, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a Corte de origem inadmitiu o recurso especial com base nos seguintes fundamentos: 1) ausência de omissão ou negativa de prestação jurisdicional; 2) teses recursais já analisadas e rejeitadas pela instância ordinária, configurando mero inconformismo da parte; e 3) impossibilidade de reexame de fatos e provas em sede de recurso especial (Súmula 7/STJ).
+Ao impugnar referidos fundamentos, a defesa limitou-se a afirmar, de modo bastante genérico, que não há necessidade de reanálise fática, estando comprovados os dissídios jurisprudenciais, que a matéria foi prequestionada e que realizou o cotejo analítico. Confira-se (fls. 2.516/2.517):
+ ..
+No entanto, data máxima vênia, a decisão proferida merece reforma. A uma, por ser desnecessária qualquer reanálise fática para compreensão da matéria, que versa exclusivamente sobre direito e violação a lei federal. A duas, pelos comprovados dissídios jurisprudenciais, que atraem a competência de julgamento ao Colendo Superior Tribunal de Justiça.
+Além disso, verifica-se nas razões de Recurso Especial que toda a matéria sobre a qual se busca jurisdição superior foi explicitamente prequestionada quando das apresentações de Razões de Recurso em Sentido Estrito nº 1.0000.23.035458-1/001, do qual decorreram ainda três Embargos de Declaração, tendo o acórdão dos últimos sido publicado no dia 01/03/2024.
+Não há qualquer óbice no processamento do Recurso Especial, visto que esta defesa diligenciou para realizar, a cada violação, o necessário cotejo analítico, comprovação de similitude fática e anexa os acórdãos paradigma com referência expressa à publicação, além de apresentar os links de onde tais acórdãos foram extraídos.
+Em todas as nulidades questionadas foram apontados precedentes do STJ em mesmo sentido do quanto requerido. Nenhuma matéria ventilada possui decisão em sede de Repercussão Geral em sentido contrário, sendo, portanto, ao contrário do quando decidido anteriormente, cabível o Recurso Especial e viável seu seguimento.
+O primeiro tópico faz-se presente tão somente para que se conheça da realidade fático processual, sendo, repisamos, despicienda a análise de qualquer prova. Toda a informação necessária para determinar as nulidades fazem-se presentes nas decisões judiciais ora combatidas.
+ ..
+Na sequência, passou unicamente a reproduzir, praticamente na íntegra, os termos utilizados no recurso anterior.
+Assim, pelos trechos acima transcritos, observa-se que deixou de deduzir qualquer argumento efetivamente concreto, apto a desconstituir os fundamentos utilizados na decisão de inadmissão do recurso especial na origem. E, nesse contexto, não há como negar a aplicação analógica da Súmula 182/STJ à espécie.
+Ora, não se revela suficiente ao cumprimento do requisito da impugnação específica a argumentação única de não incidência dos apontados óbices, seguida da simples reprodução das teses meritórias expostas nas razões do recurso inadmitido, uma vez que a impugnação genérica e a simples repetição dos argumentos já afastados anteriormente revelam inobservância ao dever de dialeticidade recursal, atraindo a aplicação da Súmula 182 do STJ (AgRg no AREsp n. 2.806.648/BA, Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, DJEN de 18/8/2025).
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. SENTENÇA DE PRONÚNCIA. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
