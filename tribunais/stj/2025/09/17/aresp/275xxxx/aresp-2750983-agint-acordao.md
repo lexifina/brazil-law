@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. TRABALHADOR URBANO. INCAPACIDADE LABORAL TOTAL E TEMPORÁRIA. LAUDO PERICIAL CONCLUSIVO. AUXÍLIO-DOENÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do Tribunal de origem - de que a autora faz jus ao benefício de auxílio-doença e que a recuperação da capacidade laboral depende de tratamento cirúrgico - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCELINA PEREIRA PINTO DOS SANTOS contra decisão desta relatoria assim ementada (e-STJ, fl. 321):
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. TRABALHADOR URBANO. INCAPACIDADE LABORAL TOTAL E TEMPORÁRIA. LAUDO PERICIAL CONCLUSIVO. AUXÍLIO-DOENÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do agravo, a insurgente alega a inaplicabilidade da Súmula n. 7/STJ, uma vez que pretende "a revaloração das provas já citadas no acórdão, a fim de conceder o benefício de aposentadoria por incapacidade permanente, observando suas condições pessoais, amplamente descritas no acórdão atacado" (e-STJ, fl. 335).
+Argumenta que o longo período gozando de benefício por incapacidade e a falta de acesso a tratamento médico adequado indicam ser improvável a sua reabilitação para o mercado de trabalho.
+Pontua, ainda, que a demora na realização da cirurgia e a incerteza quanto à recuperação justificam a concessão da aposentadoria por invalidez.
+Aduz que (e-STJ, fl. 336):
+O STJ já se posicionou no sentido de que a idade avançada, a longa permanência fora do mercado de trabalho e as dificuldades de reinserção profissional devem ser consideradas na concessão da aposentadoria por invalidez, não se exigindo a realização de procedimentos cirúrgicos como requisito absoluto.
+Requer o provimento do agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. TRABALHADOR URBANO. INCAPACIDADE LABORAL TOTAL E TEMPORÁRIA. LAUDO PERICIAL CONCLUSIVO. AUXÍLIO-DOENÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do Tribunal de origem - de que a autora faz jus ao benefício de auxílio-doença e que a recuperação da capacidade laboral depende de tratamento cirúrgico - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para alterar os fundamentos da decisão ora agravada.
+Conforme assentado na decisão recorrida, o Tribunal Regional Federal da 1ª Região, considerando as particularidades do caso concreto, concluiu que ficou comprovada a incapacidade laborativa da recorrente compatível com o deferimento do benefício de auxílio-doença. Asseverou "considerando que prova pericial analisada demonstra a incapacidade laboral da parte autora com a intensidade e temporalidade compatíveis com o deferimento do benefício de auxílio-doença e que a recuperação da capacidade laboral depende de tratamento cirúrgico, faz jus o autor à concessão de auxílio-doença até que se conclua eventual processo de reabilitação, quando poderá ser convertido em aposentadoria por invalidez, a depender do sucesso ou insucesso da reabilitação".
+Veja-se (e-STJ, fls. 179-180):
+A concessão do benefício especial de aposentadoria por invalidez desafia o preenchimento de dois requisitos fundamentais: a comprovação da qualidade de segurado e a comprovação da incapacidade definitiva para o exercício de atividade laboral a que ele está habilitado.
+No caso, a controvérsia cinge-se à comprovação da incapacidade laboral, especialmente quanto à intensidade e temporalidade, para os fins de conversão do auxílio-doença concedido pelo Juízo a quo, em benefício de aposentadoria por invalidez.
+Está superada a qualidade de segurado da parte, de modo que a controvérsia envolve apenas a incapacidade laborativa para os fins de concessão do benefício de auxílio-doença/aposentadoria por invalidez, uma vez que os documentos juntados comprovam a qualidade de segurado da parte autora.
+O que distingue os benefícios de auxílio-doença e aposentadoria por invalidez, é que aposentadoria por invalidez exige a incapacidade total e permanente para o trabalho, enquanto para o auxílio- doença a incapacidade deverá ser parcial e temporária.
+A perícia médica judicial concluiu que:
+(..) a periciada apresenta: MM87 - Osteonecrose, M87.8 - Outras osteonecroses, M25 - Outros transtornos articulares não classificados em outra parte, M25.5 - Dor articular, M19 - Outras artroses, M51.1 - Transtornos de discos lombares e de outros discos intervertebrais com radiculopatia, M21 - Outras deformidades adquiridas dos membros, M79 - Outros transtornos dos tecidos moles, não classificados em outra parte, Hipertensão arterial essencial CID I10. Há incapacidade laborativa temporária e total, considerando exames de imagem, relatórios médicos especialista em ortopedia, os sintomas e sinais da doença no momento do ato pericial. Há restrições para toda atividade laboral durante o período que dure a espera e realização do procedimento cirúrgico, o tempo estimado para recuperação pode variar devido múltiplos fatores, periciada deve manter tratamento medicamentoso e acompanhamento com equipe médica especializada.
+A perícia médica oficial foi conclusiva no sentido de que o autor encontra-se incapacitado total e temporariamente para suas atividades laborais, de modo que restaram preenchidos os pressupostos estabelecidos pelas normas referidas para concessão do benefício de auxílio-doença.
+Tendo em vista a comprovação de incapacidade laborativa da parte autora compatíveis com o deferimento do benefício de auxílio-doença, pois presentes os requisitos necessários à concessão , nos termos dos arts. 59 e ss. da Lei nº. 8.213/9.
+Considerando que prova pericial analisada demonstra a incapacidade laboral da parte autora com a intensidade e temporalidade compatíveis com o deferimento do benefício de auxílio-doença e que a recuperação da capacidade laboral depende de tratamento cirúrgico, faz jus o autor à concessão de auxílio-doença até que se conclua eventual processo de reabilitação, quando poderá ser convertido em aposentadoria por invalidez, a depender do sucesso ou insucesso da reabilitação. Tem a Previdência Social a obrigação de encaminhá-lo à Reabilitação Profissional (art. 62, 89 e seguintes da Lei 8.213/91).
+Dessa forma, o auxílio-doença deve ser mantido até que a parte autora restabeleça a sua capacidade laborativa, após a submissão a exame médico-pericial na via administrativa, que conclua pela inexistência de incapacidade.
+Esclareço, por pertinente, que a coisa julgada na espécie deve produzir efeitos secundum eventum litis, de forma que, demonstrando a parte autora, em momento posterior, o atendimento dos requisitos, poderá postular a aposentadoria almejada.
+Desse modo, para desconstituir a premissa fática firmada pelo Tribunal Regional - de que a autora faz jus ao benefício de auxílio-doença e que a recuperação da capacidade laboral depende de tratamento cirúrgico -, seria necessário o exame fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante o teor da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
