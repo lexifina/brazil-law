@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por STUDIO W CABELEIREIROS LTDA e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE CONTA EM CORRETORA DE BITCOINS (BINANCE). POSSIBILIDADE. EFETIVIDADE DA EXECUÇÃO. ARTS. 4º E 797 DO CPC. MEDIDA PREPARATÓRIA PARA EFETIVAR FUTURA PENHORA DE CRIPTOMOEDAS. LEVANTAMENTO DE PENHORA DE IMÓVEL. POSSIBILIDADE. RECONHECIMENTO DE BEM DE FAMÍLIA IMPUGNADO EM RECURSO DESPROVIDO DE EFEITO SUSPENSIVO. INCLUSÃO DO NOME DO DEVEDOR EM CADASTRO DE PROTEÇÃO AO CRÉDITO. MANUTENÇÃO. ART. 782, §3º DO CPC. AUSÊNCIA DE GARANTIA DO JUÍZO. PRECEDENTES. RECURSO PROVIDO EM PARTE (fl. 40).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação dos arts. 502, 789 e 797 do CPC, no que concerne à impossibilidade de cancelamento da anotação de penhora na matrícula do imóvel antes do trânsito em julgado da decisão que afastou a constrição do bem, sob pena de ocorrência de dano irreparável ou de difícil reparação aos recorrentes, trazendo a seguinte argumentação:
+Entretanto, data máxima vênia, considerando que ainda não houve o trânsito em julgado da decisão que afastou a penhora, o cancelamento definitivo de sua averbação é desarrazoado, pois pode acarretar dano irreparável ou de difícil reparação aos Recorrentes.
+ ..
+Sob este prisma, é totalmente contraproducente, sob a ótica de agilizar a satisfação do crédito, autorizar o CRI à cancelar a anotação de penhora na matrícula do Imóvel enquanto não ocorrer o trânsito em julgado da decisão que afastou a constrição sobre o bem.
+Em outras palavras, a liberação do Imóvel sem ter ocorrido o trânsito em julgado do processo supramencionado coloca em risco o recebimento da dívida perseguida pelos Recorrentes a quem deveria, na realidade, ser assegurada a forma mais efetiva de satisfação do crédito, nos exatos termos do Art. 797 do Código de Processo Civil.
+A corroborar a assertiva acima, importa destacar que o Art. 789 do Código de Processo Civil preconiza que todos os bens do devedor respondem pela satisfação do débito, de modo que, enquanto não for indiscutível a condição de bem de família do Imóvel, o mesmo deve permanecer com averbação em sua matrícula para garantia da dívida.
+Com efeito, o v. acórdão que reconheceu a impenhorabilidade do Imóvel pende de recurso sendo, portanto, passível de modificação, de modo que, ao ser autorizado o cancelamento da constrição, fora concedido o status de coisa julgada à decisão que não a possui, o que não se pode admitir.
+A despeito dos contundentes argumentos supra expostos, em violação ao ordenamento jurídico pátrio, o v. acórdão recorrido, houve por bem privilegiar os interesses do Recorrido em detrimento do direito de crédito dos Recorrentes, além de desvirtuar o instituto da coisa julgada preconizado no Art. 502 do Código de Processo Civil (fls. 87/88).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
