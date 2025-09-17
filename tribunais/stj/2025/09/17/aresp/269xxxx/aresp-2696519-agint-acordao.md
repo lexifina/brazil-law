@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR DANO DECORRENTE DE MORTE CAUSADA POR DISPARO DE ARMA DE FOGO ORIUNDA DE TROCA DE TIROS ENTRE POLICIAIS E SUSPEITOS. REVISÃO DO VALOR DOS DANOS MORAIS FIXADOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de agravo interno interposto contra decisão por meio da qual o agravo foi conhecido para não conhecer do recurso especial .
+2. O Superior Tribunal de Justiça firmou orientação de que a revisão do valor arbitrado a título de danos morais só pode ocorrer em hipóteses excepcionais, quando demon strada a manifesta desproporcionalidade. Isso não se verifica no caso em exame, porquanto o Tribunal a quo, que fixou o montante em R$ 150.000,00 (cento e cinquenta mil reais), ante o quadro fático que deflui dos autos, observou os princípios da proporcionalidade e da razoabilidade, não se mostrando a quantia irrisória ou exacerbada. Nesse contexto, a revisão desse entendimento e a análise do pleito recursal de ambas as partes agravantes também demandam novo exame do espectro fático-probatório dos autos, o que não se admite, consoante a Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PAULO SERGIO DOS SANTOS contra decisão por mim proferida, por meio da qual conheci do respectivo agravo para não conhecer do recurso especial (fls. 740-743).
+Pondera a parte agravante que a Súmula n. 7/STJ é inaplicável.
+Não foi apresentada resposta ao agravo interno (fl. 768).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR DANO DECORRENTE DE MORTE CAUSADA POR DISPARO DE ARMA DE FOGO ORIUNDA DE TROCA DE TIROS ENTRE POLICIAIS E SUSPEITOS. REVISÃO DO VALOR DOS DANOS MORAIS FIXADOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Trata-se de agravo interno interposto contra decisão por meio da qual o agravo foi conhecido para não conhecer do recurso especial .
+2. O Superior Tribunal de Justiça firmou orientação de que a revisão do valor arbitrado a título de danos morais só pode ocorrer em hipóteses excepcionais, quando demon strada a manifesta desproporcionalidade. Isso não se verifica no caso em exame, porquanto o Tribunal a quo, que fixou o montante em R$ 150.000,00 (cento e cinquenta mil reais), ante o quadro fático que deflui dos autos, observou os princípios da proporcionalidade e da razoabilidade, não se mostrando a quantia irrisória ou exacerbada. Nesse contexto, a revisão desse entendimento e a análise do pleito recursal de ambas as partes agravantes também demandam novo exame do espectro fático-probatório dos autos, o que não se admite, consoante a Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+Sobre o montante fixado a título de danos morais, o tribunal de origem, considerando o contexto fático-probatório, assim se pronunciou (fl. 456):
+O valor correspondente à perda de uma vida é inestimável. Portanto, prevalece o bom senso, o princípio equitativo, a cautela, tudo para adotar critério proporcional ao fato. Assim, quanto à indenização por dano moral, fixada no valor de R$ 150.000,00 (equivalente a 190 salários mínimos), demonstra-se coerente ante ao valor postulado inicialmente (500 salários mínimos  petição inicial).
+Tal circunstância decorreu de conduta de despreparo de agente da requerida, a ponto de resultar dano de morte de pessoa, a qual tinha vida produtiva e de maneira ausente de cautela disparou arma de fogo contra a vítima. A conduta do agente público é de gravidade, seja pela sua função, que exige preparo para situação assemelhada, seja pelo resultado que ensejou.
+A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a revisão do valor arbitrado a título de danos morais só pod e ocorrer em hipóteses excepcionais, quando demonstrada a manifesta desproporcionalidade. Isso não se verifica no caso em exame, porque o Tribunal a quo, que fixou o montante em R$ 150.000,00 (cento e cinquenta mil reais), ante o quadro fático que deflui dos autos, observou os princípios da proporcionalidade e da razoabilidade, não se mostrando a quantia irrisória ou exacerbada.
+Dessa forma, a revisão dessa orientação e a análise do pleito recursal da parte agravante também demandam novo exame do espectro fático-probatório dos autos, o que não se admite, consoante a Súmula n. 7/STJ. Nesse norte reitero os precedentes citados na decisão agravada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DA INDENIZAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, cuida-se de ação indenizatória proposta em face do Município de Sumaré, decorrente de falha no atendimento médico em unidade de pronto atendimento municipal.
+2. O Tribunal local concluiu que o valor indenizatório fixado atendeu os princípios da razoabilidade, proporcionalidade e vedação ao enriquecimento ilícito, com base no conjunto fático probatório dos autos nas particularidades do caso concreto. Com efeito, a revisão de tais fundamentos demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial em razão da Súmula 7/STJ.
+3. O Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie.
+4. Agravo interno não provido.
+(AgInt no R Esp n. 2.099.575/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, D Je de 7/3/2024; sem grifos no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DANO MORAL. REVISÃO DO VALOR ARBITRADO. IMPOSSIBILIDADE. SÚMULA 07/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte admite a revisão do quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisório ou exorbitante o valor arbitrado.
+III - Caso em que o tribunal de origem considerou razoável e proporcional o valor fixado. O reexame de tal entendimento demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+IV - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no AR Esp n. 2.373.863/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, D Je de 21/12/2023; sem grifos no original.)
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICO. ACIDENTE DE TRÂNSITO. ACIDENTE DE TRÂNSITO - COLISÃO OCORRIDA EM RODOVIA ADMINISTRADA PELA CONCESSIONÁRIA RÉ, ENTRE MOTOCICLETA CONDUZIDA PELO AUTOR E VEÍCULO DE EMPRESA CONTRATADA PELA PRESTADORA DE SERVIÇO PÚBLICO PARA REALIZAR LIMPEZA/MANUTENÇÃO NA PISTA DE ROLAMENTO. VALOR DOS DANOS MORAIS, MATERIAIS E ESTÉTICOS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de Ação Ordinária de Indenização por Danos Morais, Materiais e Estético. A sentença julgou parcialmente procedente o pedido O tribunal a quo manteve a sentença.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+(AgInt no AR Esp n. 2.358.837/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/10/2023, D Je de 25/10/2023.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
