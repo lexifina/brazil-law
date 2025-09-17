@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CONTINUIDADE DELITIVA. DESÍGNIOS AUTÔNOMOS. REEXAME FÁTCIO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consta expressamente do acórdão impugnado que os delitos foram cometidos com desígnios autônomos, afastando a incidência da ficção jurídica da continuidade delitiva. A reforma da decisão impugnada, com vistas à aplicação do art. 71 do CP, exigiria o reexame do conjunto fático-probatório, providência inviável na via do recurso especial. Incidência da Súmula n. 7 do STJ.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 439/443, de minha relatoria, em que conheci do agravo para não conhecer do recurso especial pela incidência do óbice da Súmula n. 7 do STJ.
+A defesa se insurge contra essa decisão alegando que os próprios elementos descritos no acórdão recorrido revelam identidade de circunstâncias e ausência de fundamentação idônea para afastar a continuidade, sendo inaplicável o óbice da Súmula n. 7 do STJ.
+Requer a reconsideração do decisum ou o julgamento do recurso pelo órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CONTINUIDADE DELITIVA. DESÍGNIOS AUTÔNOMOS. REEXAME FÁTCIO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consta expressamente do acórdão impugnado que os delitos foram cometidos com desígnios autônomos, afastando a incidência da ficção jurídica da continuidade delitiva. A reforma da decisão impugnada, com vistas à aplicação do art. 71 do CP, exigiria o reexame do conjunto fático-probatório, providência inviável na via do recurso especial. Incidência da Súmula n. 7 do STJ.
+2. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos, in verbis (e-STJ fls. 439/443):
+Os elementos existentes nos autos informam que o Tribunal de Justiça de Sergipe julgou improcedente o pedido revisional, mantendo na íntegra o acórdão que confirmou a condenação do recorrente pela prática do crime do art. 121, §2º, II e IV, CP, em concurso material (art. 69, CP).
+A defesa pede o reconhecimento da continuidade delitiva, alegando a presença de duas ações correspondentes a dois crimes de mesma espécie, com o lapso temporal de poucos dias, além do motivo do segundo homicídio está relacionado ao primeiro, sendo elemento subjetivo extraído pela forma que se repetiu a conduta criminosa, tarefas semelhantes e modo agir igual ao anterior. Sobre o tema, o TJSE assim se pronunciou:
+Os fatos consignados na origem consistem em dois homicídios praticados pelo revisionante, o primeiro no dia 14 de fevereiro de 2016, que vitimou Ailton Santos de Jesus (processo n. 201688500450); e o segundo em face de Marcos Santos de Jesus, ocorrido em 29 de fevereiro do mesmo ano (processo n. 201688500450).
+
+Como se pode perceber dos fatos narrados nas denúncias acima transcritas, ambos os homicídios guardam uma certa relação, porquanto as vítimas Ailton e Marcos são irmãos.
+Contudo, restou indene de dúvidas que os crimes foram cometidos em contextos fáticos distintos, com motivações diversas, evidenciando a ausência de unidade de desígnios, o que inviabiliza o reconhecimento da continuidade delitiva.
+ ..
+Tais requisitos de ordem objetiva devem estar conjugados com a unidade de desígnios na prática criminosa, ou seja, a motivação e preparação dos diversos crimes precisam ser conjugados, sem que possam ser destacadas/individualizadas.
+
+Transpondo à questão fática, o que motivou o primeiro crime foi ciúmes pelo envolvimento amoroso da vítima Ailton com a ex namorada do revisionante; já o segundo delito, decorreu do receio que o autor tinha de que a família de Ailton vingasse sua morte, de modo que existem dolos diversos nos homicídios consumados. Mesmo que os crimes tenham sido praticados em idêntica forma e meio, não há a subjetividade necessária para caracterizar as diversas condutas como uma única ação. (e-STJ fls. 319/320)
+Conforme jurisprudência consolidada, a caracterização da continuidade delitiva demanda a verificação dos requisitos objetivos e subjetivos previstos no art. 71 do Código Penal, especialmente a unidade de desígnios entre os crimes, cuja ausência foi reconhecida pelas instâncias ordinárias.
+No caso, o acórdão impugnado consignou de forma expressa que os delitos foram cometidos com desígnios autônomos, afastando a incidência da ficção jurídica da continuidade delitiva.
+A reforma da decisão impugnada, com vistas à aplicação do art. 71 do CP, exigiria o reexame do conjunto fático-probatório, providência inviável na via do recurso especial. Incidência da Súmula n. 7 do STJ. Nessa linha:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRÁFICO DE DROGAS. PORTE DE ARMA. VIOLAÇÃO AO ART. 478, II, DO CÓDIGO DE PROCESSO PENAL - CPP. REFERÊNCIA AO SILÊNCIO. AUSÊNCIA DE PREJUÍZO. VIOLAÇÃO AO ART. 490 DO CPP. CONTRADIÇÃO NA RESPOSTA AOS QUESITOS. INOCORRÊNCIA. DELITOS DIVERSOS. VIOLAÇÃO AO ART. 593, III, "D", DO CPP. DECISÃO DOS JURADOS MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. ACOLHIDA TESE DA ACUSAÇÃO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. EXASPERAÇÃO DA PENA-BASE. PROPORCIONALIDADE. VIOLAÇÃO AO ART. 71 DO CP. RECONHECIMENTO DE CONTINUIDADE DELITIVA. DESÍGNIOS AUTÔNOMOS. ÓBICE DA SÚMULA N. 7 DO STJ. VIOLAÇÃO AO ART. 492, I, "E", DO CPP. PENA SUPERIOR A 15 ANOS. EXECUÇÃO PROVISÓRIA QUE TAMBÉM FICOU JUSTIFICADA NA HIPÓTESE DO ART. 312 DO CPP. AGRAVO REGIMENTAL DESPROVIDO.
+1. A referência do órgão ministerial ao silêncio dos agravantes na delegacia não trouxe prejuízo para a defesa, pois decorreu de mera narrativa dos acontecimentos, sem juízo de valor condenatório, razão pela qual inexistente nulidade.
+2. A inocorrência de contradição no caso concreto se mostra justificada, porquanto o Tribunal de origem destacou que o delito de porte de arma de fogo objeto da denúncia não coincide exatamente com o contexto fático da tentativa de homicídio.
+3. Inocorrente decisão dos jurados manifestamente contrária à prova dos autos, sobretudo em razão dos depoimentos dos policiais no sentido dos acusados terem utilizado arma de fogo, atentando contra a vida deles durante perseguição, segundo a versão acolhida pelo Conselho de sentença. Nesse contexto, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, procedimento vedado conforme Súmula n. 7 do STJ.
+4. Ausente ilegalidade a ser reconhecida na exasperação da pena-base, pois utilizado critério que ensejou acréscimo aquém dos critérios de 1/6 da pena mínima ou de 1/8 entre o intervalo da pena mínima e máxima.
+5. No tocante à continuidade delitiva, para se concluir de modo diverso a respeito dos desígnios autônomos, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do STJ.
+6. Além do fundamentando do art. 492, inciso I, alínea "e", do Código de Processo Penal, que estabelece a execução provisória das sentenças proferida pelo Tribunal do Júri, com pena superior a 15 anos, o acórdão consignou que presentes os elementos a ensejar a custódia preventiva, a teor do art. 312 do CPP, impondo-se a manutenção da segregação dos sentenciados.
+7. Agravo regimental desprovido. (AgRg no REsp n. 2.046.402/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. ART. 1º, INCISO II, DO DL 201/1967. VIOLAÇÃO DO ART. 619 DO CPP. NÃO CONFIGURADO. DOLO. OCORRÊNCIA. ALTERAÇÃO DO JULGADO. INVIABILIDADE. SÚMULA 7/STJ. CRIME INSTANTÂNEO DE EFEITOS PERMANENTES E ERRO DE PROIBIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CONFISSÃO. PENA FIXADO NO MÍNIMO LEGAL. SÚMULA 231/STJ. CONTINUIDADE DELITIVA. UNIDADE DE DESÍGNIOS. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se vislumbra ofensa ao art. 619 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+2. Sobre a ausência de dolo, a Corte de origem concluiu que o recorrente deliberadamente empregou os guardas municipais, de forma consciente e voluntária, para desempenharem atividades de segurança pessoal e proteção de sua propriedade rural por meio de um esquema de escalas na sua residência. Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+3. Constata-se a falta de prequestionamento quanto aos temas relacionados ao crime instantânea de efeitos permanentes e ao erro de proibição sobre a consciência da ilicitude, pois as matérias não foram objeto de exame pelo acórdão recorrido. Tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre os temas. Destarte, a incidência das Súmulas 282 e 356/STF impede o conhecimento do recurso especial no ponto.
+4. A confissão não produziu efeitos sobre a pena, porque a reprimenda básica fora fixada no mínimo legal, consoante a Súmula 231/STJ.
+5. Acerca da continuidade delitiva, a aferição da presença (ou não) da unidade de desígnios e dos elementos objetivos do art. 71 do CP demandaria evidente reexame dos fatos e provas da causa, vedado nesta instância especial pela Súmula 7/STJ.
+6. Agravo regimental desprovido. (AgRg no REsp n. 2.049.512/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/2/2024, DJe de 27/2/2024.)
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
