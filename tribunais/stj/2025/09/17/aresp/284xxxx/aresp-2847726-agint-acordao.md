@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015; 884 DO CC; E 59 DA LEI 8.666/1993 . FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+1.  Com efeito, "a alegação de afronta aos arts. 489 e 1.022 do CPC de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+2.  Cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+3. Nas razões do recurso especial, de fato, a parte recorrente deixou de se pronunciar especificamente sobre os motivos que a levou a impugnar os arts. 884 do CC; e 59 da Lei 8.666/1993, caracterizando deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+4. Agravo  interno  im provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por L.L.A.L. ZAPAROLI - DOCUMENTAÇÃO IMOBILIÁRIA LTDA. contra  a  decisão  que  não conheceu do recurso especial , em razão da aplicação da Súmula 284 do STF.
+A parte agravante afirma que demonstrou, nas razões do recurso especial, como os arts. 489 e 1.022, II, do CPC foram violados (fl. 1.696).
+Defende que "indicou, de forma precisa, como houve a violação ao disposto no artigo 59 da Lei n.º 8.666/1993 e, artigo 884 do CC" (fl. 1.700).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015; 884 DO CC; E 59 DA LEI 8.666/1993 . FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+1.  Com efeito, "a alegação de afronta aos arts. 489 e 1.022 do CPC de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+2.  Cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+3. Nas razões do recurso especial, de fato, a parte recorrente deixou de se pronunciar especificamente sobre os motivos que a levou a impugnar os arts. 884 do CC; e 59 da Lei 8.666/1993, caracterizando deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+4. Agravo  interno  im provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+A agravante, nas razões do recurso especial, reservou apenas um parágrafo para suscitar a ofensa aos arts. 489 e 1.022, II, do CPC, sem especificar como teria se dado essa violação (fl. 1.613):
+Desta forma, caso Vossas Excelências sigam pela caminho de que no presente caso inexiste qualquer omissão quanto aos aspectos relevantes para o deslinde do feito, tendo havido violação aos dispositivos 489, II e §1º, II e artigo 1022, incisos I a III, verificamos que toda a prova colhida demonstrou que houve a prestação de serviços objetos dos contratos sub judicie, cujos valores foram efetivamente pagos à segunda requerida, tendo sido validada a necessidade de pagamento do valor devido (artigo 149 da Lei 14.133/2021), o que afasta a incidência do disposto na Súmula 7 do C. Superior Tribunal de Justiça.
+Com efeito, "a alegação de afronta aos arts. 489 e 1.022 do CPC de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+No mais, cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+Nas razões do recurso especial, de fato, a parte recorrente deixou de se pronunciar especificamente sobre os motivos que a levou a impugnar os arts. 884 do CC; e 59 da Lei 8.666/1993, caracterizando deficiência na fundamentação recursal, o que impede a análise da controvérsia. Nesse sentido :
+O recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão (AgInt no AREsp n. 2.372.506/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Isso posto, nego provimento ao recurso.
