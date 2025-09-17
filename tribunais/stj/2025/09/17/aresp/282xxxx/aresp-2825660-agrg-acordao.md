@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. ART. 306 DO CTB. TESE DE INSUFICIÊNCIA PROBATÓRIA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem quanto à existência de provas suficientes da alteração da capacidade psicomotora para a condenação pelo crime de embriaguez ao volante demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo regimental improvido.
+RELATÓRIO
+Fabio Ristow interpõe agravo regimental contra a decisão, de minha lavra, cuja ementa transcrevo (fl. 450):
+AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. PROVA DA ALTERAÇÃO DA CAPACIDADE PSICOMOTORA. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. FUNDAMENTOS INDEPENDENTES QUE DEMANDAM REVOLVIMENTO DO CONJUNTO PROBATÓRIO. SÚMULA 7 /STJ. DEVER DE FUNDAMENTAÇÃO. NECESSIDADE DE ANÁLISE PORMENORIZADA DE TODOS OS ARGUMENTOS DEFENSIVOS. INEXISTÊNCIA.
+Agravo conhecido para negar provimento ao recurso especial.
+Sustenta a defesa, em suma, que  n ão há necessidade de revolvimento de fatos e provas para acolher as teses absolutórias (violação aos arts. 186, parágrafo único, 155, caput, e 386, inc. VII, todos do CPP e aos arts. 306, § 1º, inc. II, do CTB) - fl. 459.
+Alega que o Tribunal de origem valorou apenas as provas que corroboram a hipótese acusatória (depoimento de policiais e laudo por eles elaborado) e nem sequer valorou as provas produzidas em contraditório que apontam para a ausência de embriaguez (declaração da vítima, depoimento de testemunha ocular e documento) - fls. 459/460.
+Argumenta que o Tribunal de origem praticou cherry picking: atribuiu às provas da acusação (testemunho dos policiais e laudo por eles elaborado) o caráter de fiel reflexo da verdade dos fatos e não valorou - nem sequer mencionou na fundamentação - as provas que apontam para a ausência de embriaguez (declaração da vítima, depoimento de testemunha ocular e documento) - fl. 461.
+Insiste que o Tribunal de origem deixou de apreciar as provas que apontam para a ausência de embriaguez, criando hipótese de tarifação sem previsão legal e infringiu uma das decorrências do sistema de persuasão racional da prova: o dever de valorar todas as provas, ainda que para refutá-las (fl. 462), e que a tese relacionada aos arts. 306, § 1º, II, do Código de Trânsito Brasileiro e do art. 386, VII, do Código de Processo Penal é estritamente jurídica (fls. 462/463).
+Requer, ao final, a reconsideração da decisão agravada ou o provimento do presente recurso para que o recurso especial seja provido e o agravante absolvido.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. ART. 306 DO CTB. TESE DE INSUFICIÊNCIA PROBATÓRIA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem quanto à existência de provas suficientes da alteração da capacidade psicomotora para a condenação pelo crime de embriaguez ao volante demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo regimental improvido.
+VOTO
+Não merece acolhida a pretensão do agravante.
+Não obstante os esforços perpetrados pela defesa, não verifico fundamentos suficientes para infirmar a decisão agravada.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Isso porque não há dúvidas de que a pretensão de absolvição demandaria o reexame dos fatos e provas constantes dos autos, o que é inviável na instância especial.
+Na espécie, o Tribunal de origem, após ampla análise do contexto fático e probatório existente nos autos, concluiu que a condenação deveria ser mantida, fundamentando sua decisão especialmente no auto de constatação de sinais de alteração da capacidade psicomotora e nos depoimentos dos policiais militares que atenderam a ocorrência. Ressaltou , inclusive, a versão do réu, que admitiu ter invadido a pista contrária mas negou a ingestão de álcool, e o depoimento de sua testemunha, que disse não ter notado a embriaguez, mas que pela dinâmica do acidente o acusado ingressou um pouco na contramão de direção, colidindo com o outro carro que vinha em sentido contrário (fl. 317).
+A análise do acórdão evidencia que a condenação não foi fundamentada em uma única prova inequívoca, mas resultou da apreciação de um conjunto probatório com elementos conflitantes. O Tribunal a quo exerceu juízo de valor para determinar qual versão dos fatos apresentava maior cr edibilidade.
+Certamente que a pretensão da parte agravante de desconstituir a validade de tais provas e atribuir maior peso probatório aos testemunhos da defesa não é de revaloração, mas de análise do conteúdo probatório, sendo correta a aplicação da Súmula 7/STJ.
+Em reforço aos precedentes anteriormente citados, veja-se o AgRg no AREsp n. 2.808.614/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025.
+Imperioso destacar a compreensão desta Corte Superior, no sentido de que, Nos crimes de embriaguez ao volante praticados após a vigência da Lei n. 12.760/2012, não é obrigatória a realização do teste de etilômetro para comprovar a materialidade do crime de embriaguez ao volante - basta que outros meios de prova atestem a alteração da capacidade psicomotora pela influência de álcool ou de outra substância psicoativa. 2. Não há violação do art. 155 do CPP quando a comprovação da materialidade do art. 306 do CTB é fundada em laudo de constatação de alteração da capacidade psicomotora, elaborado na fase investigativa, uma vez que o documento tem caráter de prova, devido à sua natureza cautelar e irrepetível (AgRg no AgRg no AREsp n. 2.621.565/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/2/2025, DJEN de 24/2/2025).
+Diante da inexistência de elementos que possam modificar os fundamentos estabelecidos na decisão agravada, permanece íntegro o entendimento nela exposto, não se mostrando cabível o acolhimento do presente recurso.
+À vista do exposto, nego provimento ao agravo regimental.
