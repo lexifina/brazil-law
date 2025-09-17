@@ -1,0 +1,36 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo de fls. 870-878 e-STJ, reconsidero a decisão de fls. 860-861 e-STJ, proferida pela Presidência do STJ, e passo a novo exame do agravo em recurso especial interposto por BANCO DO NORDESTE DO BRASIL S/A contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/5/2025.
+Concluso ao gabinete em: 5/9/2025.
+Ação: enriquecimento sem causa, ajuizada por BANCO DO NORDESTE DO BRASIL S/A em face de COMPANHIA AÇUCAREIRA USINA JOÃO DE DEUS.
+Sentença: julgou extinto o processo sem resolução do mérito (fls. 499-507 e-STJ).
+Acórdão: negou provimento à apelação interposta por Banco do Nordeste do Brasil S/A, e deu parcial provimento à apelação interposta por José Pessoa de Queiroz Bisneto, nos termos da seguinte ementa (fl. 620 e-STJ):
+DIREITO CIVIL. APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA DE ENRIQUECIMENTO ILÍCITO. SENTENÇA QUE EXTINGUIU O FEITO, EM RAZÃO DA PRESCRIÇÃO, EM RELAÇÃO A UM DOS DEMANDADOS E JULGOU IMPROCEDENTE A DEMANDA EM RELAÇÃO A OUTRA RÉ. PRELIMINAR DE INTEMPESTIVIDADE DO APELO INTERPOSTO PELO BANCO DO NORDESTE DO BRASIL S/A. SUSCITADA EM CONTRARRAZÕES PELA COMPANHIA AÇUCAREIRA USINA JOÃO DE DEUS. NÃO ACOLHIMENTO. CARÁTER INTEGRATIVO. INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE RECURSOS POR AMBAS AS PARTES EM RAZÃO DA OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS OPOSTOS POR LITISCONSORTE. INCIDÊNCIA DO ART. 1.026, CAPUT, PARTE FINAL, DO CPC. JURISPRUDÊNCIA DO STJ. APELO DO BANCO DO NORDESTE DO BRASIL S/A. ALEGAÇÃO DE NÃO OCORRÊNCIA DA PRESCRIÇÃO. PEDIDO DE APLICAÇÃO DA SUSPENSÃO PREVISTA NO ART. 200, DO CÓDIGO CIVIL. NÃO ACOLHIMENTO. NECESSIDADE DE INSTAURAÇÃO DE INQUÉRITO POLICIAL OU DE AÇÃO PENAL QUE NÃO RESTOU DEMONSTRADA NO CASO DESTES AUTOS. INCIDÊNCIA DO PRAZO PRESCRICIONAL DE TRÊS ANOS. APELO DE JOSÉ PESSOA DE QUEIROZ BISNETO. BANCO AUTOR NÃO CONDENADO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO APELANTE COM BASE NO PRINCÍPIO DA CAUSALIDADE. PEDIDO DE EXCLUSÃO DA MOTIVAÇÃO UTILIZADA PELO MAGISTRADO. NÃO ACOLHIMENTO. RECONHECIMENTO DE PRESCRIÇÃO. SUPERVENIÊNCIA DA LEI Nº 14.195/2021. ALTERAÇÃO LEGAL. MARCO TEMPORAL. SENTENÇA PROFERIDA ANTES DA PUBLICAÇÃO DA NOVA REDAÇÃO DO ART. 921, §5º, DO CPC. PEDIDO DE AFASTAMENTO DA MULTA IMPOSTA EM RAZÃO DA OPOSIÇÃO DE EMBARGOS SUPOSTAMENTE PROTELATÓRIOS. ACOLHIMENTO. INOBSERVÂNCIA DE MÁ-FÉ. AUSÊNCIA DE CARÁTER PROTELATÓRIO. MULTA. DESCABIMENTO. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. MEDIDA QUE NÃO IMPORTA EM OFENSA AO ART. 93, IX DA CF. PRECEDENTES DO STF E STJ. RECURSOS CONHECIDOS. RECURSO DO BANCO DO NORDESTE DO BRASIL S/A NÃO PROVIDO. RECURSO DE JOSÉ PESSOA DE QUEIROZ BISNETO PARCIALMENTE PROVIDO. UNANIMIDADE.
+Recurso especial: alega violação dos arts. 489, § 1º, e 1026, § 2º, do CPC e art. 200 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, questiona o reconhecimento da prescrição, tendo em vista a existência de prejudicial externa, consistente em apuração dos mesmos fatos no âmbito criminal.
+Ressalta, ainda, que, em todo caso, o lustro prescricional não teria sido ultrapassado, obstando-se o reconhecimento da prejudicial respectiva.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pressupostos para o reconhecimento da prescrição (fls. 626-630 e-STJ), o que prejudica a análise do mérito, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da Súmula 568/STJ
+Na hipótese, verifica-se que o 2º Grau de Jurisdição decidiu que não seria aplicável a causa impeditiva de prescrição a que se refere o art. 200 do CC, tendo em vista a inexistência de inquérito ou ação penal em andamento (fl. 628 e-STJ).
+A orientação adotada não destoa da jurisprudência desta Corte, segundo a qual: " ..  a suspensão da prescrição prevista no art. 200 do CC/2002 tem incidência quando o fato que deu origem ao dano deva ser apurado, também, no juízo criminal (tendo ocorrido a instauração de ação penal ou, pelo menos, de inquérito policial (AgInt no REsp n. 1.887.913/SP, Terceira Turma, DJe de 13/9/2023.
+Nesse mesmo sentido: AgInt no AREsp n. 2.487.034/SP, Quarta Turma, DJe de 29/8/2024; AgInt no AgInt no AREsp n. 1.601.150/SC, Terceira Turma, DJe de 19/11/2021.
+Aplica-se, quanto ao ponto, o óbice da Súmula 568/STJ.
+- Do reexame de fatos e provas
+Na hipótese, verifica-se que o 2º Grau de Jurisdição afastou a aplicação da multa prevista no art. 1026, § 2º, do CPC, por não estar evidenciada a má-fé em sua oposição (fl. 631 e-STJ).
+Alterar o decidido no acórdão impugnado, no que se refere aos pressupostos para aplicação da multa por oposição de embargos de declaração, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ENRIQUECIMENTO SEM CAUSA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. ART. 200 DO CPC. PRESCRIÇÃO. INQUÉRITO OU AÇÃO PENAL EM ANDAMENTO. AUSENTE. CAUSA IMPEDITITIVA. IMPERTINÊNCIA. SÚMULA 568/STJ. EMBARGOS DE DECLARAÇÃO. MÁ-FÉ. INEXISTÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de enriquecimento sem causa.
+2. Ausentes os vícios d o art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A suspensão da prescrição prevista no art. 200 do CC/2002 tem incidência quando o fato que deu origem ao dano deva ser apurado, também, no juízo criminal (tendo ocorrido a instauração de ação penal ou, pelo menos, de inquérito policial.
+5. o reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
