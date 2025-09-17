@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROBERTO PEREIRA DOS SANTOS DUTRA contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Revisão Criminal n. 0046208-50.2025.8.16.0000).
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 às penas de 7 anos de reclusão, em regime inicial fechado, e 700 dias-multa.
+Em sede de revisão criminal, o Tribunal de Justiça do Paraná reconheceu o indevido bis in idem e readequou a pena para 6 anos e 5 meses de reclusão e 642 dias-multa, afastando a valoração negativa dos antecedentes. Contudo, manteve a impossibilidade de aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, sob o fundamento de que o paciente é reincidente, o que impede o reconhecimento do tráfico privilegiado.
+No presente mandamus, o impetrante alega que o paciente sofre constrangimento ilegal em razão da negativa de aplicação do direito ao esquecimento, ao argumento de que a condenação utilizada para justificar a reincidência e os maus antecedentes é muito antiga, tendo transitado em julgado em 2004 e sido extinta em 2010. Sustenta que, à luz do princípio da razoabilidade e da teoria do direito ao esquecimento, não se pode perpetuar os efeitos de condenações tão remotas, devendo ser reconhecido o tráfico privilegiado.
+Ao final, requer a concessão da ordem para que seja reconhecido o direito ao esquecimento, afastando-se a reincidência e aplicando-se a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+É o relatório. Decido.
+Na o obstante as razo es constantes da petic a o inicial, o impetrante, advogada constitui"da, na o instruiu o instrumento com os documentos imprescindi"veis a" ana"lise de eventual ilegalidade, ante a ause ncia nos autos do inteiro teor do aco"rda o proferido no julgamento da Apelac a o Criminal ajuizada pela defesa do paciente. Ante a ause ncia da referida pec a, na o e" possi"vel verificar o alegado constrangimento ilegal.
+Ressalta-se que o rito do habeas corpus pressupo e prova pre"-constitui"da do direito alegado, devendo a parte demonstrar, de maneira inequi"voca, por meio de documentos, a existe ncia de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprude ncia desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICI"DIO QUALIFICADO TENTADO. PRISA O PREVENTIVA MANTIDA EM PRONU"NCIA. INSTRUC A O DEFICIENTE. PRETENSA O DE SIMPLES REFORMA. DECISA O MANTIDA POR SEUS PRO"PRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisa o agravada, porquanto na o infirmados por razo es eficientes, e" de ser negada simples pretensa o de reforma. (Su"mula n.o 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordina"rio dele originado, indicando, por meio de prova pre"- constitui"da, o constrangimento ilegal alegado.
+3. E" invia"vel divisar, de forma meridiana, a alegac a o de constrangimento, diante da instruc a o deficiente dos autos, no qual se deixou de coligir co"pia da decisa o que decretou a prisa o preventiva do acusado, documento imprescindi"vel a" plena compreensa o dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAC A O RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSE NCIA DE PEC A ESSENCIAL A" COMPREENSA O DA CONTROVE"RSIA. DEFICIE NCIA NA INSTRUC A O QUE IMPOSSIBILITA A ANA"LISE DO PEDIDO. AGRAVO REGIMENTAL NA O PROVIDO.
+1. E" possi"vel receber o pedido de reconsiderac a o como agravo regimental, dada a identidade do prazo recursal e a inexiste ncia de erro grosseiro.
+2. Ac a o constitucional de natureza mandamental, o habeas corpus tem como escopo preci"puo afastar eventual ameac a ao direito de ir e vir, cuja natureza urgente exige prova pre"-constitui"da das alegac o es e na o comporta dilac a o probato"ria.
+3. Ausente co"pia da decisa o que decretou a prisa o preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao re"u o direito de recorrer em liberdade, mostra-se invia"vel o exame do alegado constrangimento ilegal.
+4. Pedido de reconsiderac a o recebido como agravo regimental, na o provido. (RCD no RHC 54.626/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 2/3/2015).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA IMPETRAC A O. ART. 210 DO REGIMENTO INTERNO DESTA CORTE. IMPETRAC A O CONTRA DECISA O DE DESEMBARGADOR QUE INDEFERIU O PEDIDO DE LIMINAR NO WRIT ORIGINA"RIO. INCIDE NCIA DA SU"MULA 691 DO STF. EXCEPCIONALIDADE NA O EVIDENCIADA. SUPERVENIE NCIA DE JULGAMENTO DO ME"RITO PELO TRIBUNAL DE ORIGEM. NOVO TI"TULO. SUPRESSA O DE INSTA NCIA. APRESENTAC A O POSTERIOR DE DOCUMENTAC A O. IMPOSSIBILIDADE. NECESSIDADE DE PROV A PRE"-CONSTITUI"DA E VEDAC A O DE DILAC A O PROBATO"RIA. MANUTENC A O DA DECISA O.
+I - Nos termos do art. 210, do Regimento Interno desta Corte, o Relator esta" autorizado a indeferir liminarmente pedido manifestamente incabi"vel, quando manifesta a incompete ncia do Tribunal para dele conhecer originariamente, ou for reiterac a o de outro com os mesmos fundamentos.
+ ..
+III - A expedic a o de novo provimento judicial, de cognic a o exauriente, prejudica os fundamentos invocados pelo Paciente, visto que na o foram objeto de insurge ncia na presente ac a o mandamental impetrada contra o indeferimento do pedido de liminar. Precedentes.
+IV. O conhecimento do writ pressupo e prova pre"-constitui"da do direito pleiteado, revelando-se impossibilitada a dilac a o probato"ria. Precedentes.
+V - A decisa o agravada na o merece reparos, porquanto proferida em consona ncia com a jurisprude ncia desta Corte Superior.
+VI - Agravo Regimental improvido (AgRg no HC 291.856/SP, Rel. Ministra REGINA HELENA COSTA, Quinta Turma, DJe 12/5/2014).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, na o conhec o li minarmente do habeas corpus.
+Intime-se.
+EMENTA
