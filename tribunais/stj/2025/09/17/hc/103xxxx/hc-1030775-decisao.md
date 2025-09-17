@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEONARDO DAVIS BRANDAO DO VALE no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ no julgamento do HC n. 0756058-33.2025.8.18.0000.
+Consta que o paciente foi preso preventivamente em 25/10/2024 e denunciado pela suposta prática dos ilícitos tipificados no art. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, e no art. 16 da Lei n. 10.826/2003.
+A Defesa, pugnando pela revogação da prisão preventiva, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 195-203.
+Neste writ, a parte impetrante sustenta, em suma, que: (i) a imposição de medidas cautelares alternativas é suficiente à preservação da ordem pública; (ii) o paciente faz jus à extensão dos benefícios concedidos à corré Andrezza Rodrigues Lobo, a quem foi garantida a liberdade provisória, nos termos do art. 580 do Código de Processo Penal; e (iii) ocorre excesso de prazo para a formação da culpa.
+Requer, assim, em medida e no mérito, a revogação da prisão preventiva e, subsidiariamente, a sua substituição por cautelares alternativas.
+É o relatório.
+Decido.
+Inicialmente, ressalto que, conforme o entendimen to consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Portanto, passo a analisar diretamente o mérito do writ.
+Preliminarmente, pontuo que, sob pena de incorrer em indevida supressão de instância, esta Corte não pode conhecer da tese que sustenta eventual ilegitimidade da prisão preventiva nem do pedido de extensão dos efeitos de decisão que beneficiou corré, nos termos do art. 580 do Código de Processo Penal.
+Explico. O Tribunal estadual, conforme se observa não emitiu juízo de valor sobre essas teses no acórdão impugnado (fl. 199; grifamos):
+Inicialmente, não conheço (novamente!) do pedido de inidoneidade do decreto prisional, face notória litispendência com o HC nº 0765093-51.2024.8.18.0000, anteriormente impetrado neste Egrégio e de minha relatoria, na qual foi analisada a prisão do paciente e reconhecida pelo Colegiado a sua legalidade.
+Alerto o causídico do paciente que o excesso de pedidos impertinentes (já foram 04 HCS em nome do ora paciente, sendo 02 extintos por litispendência) e já avaliados somente tumultuam o andamento processual dos Tribunais, sendo totalmente contraproducente, e, a sua insistência nesta conduta será oficiada a entidade de classe a qual pertence para providências cabíveis.
+No que tange ao pedido de extensão de soltura dos corréus JOCÉLIO MENDES DE OLIVEIRA FILHO e ANDREZZA RODRIGUES LOBO, ambos concedidas pela autoridade coatora, igualmente impossível de analisar por falece de competência este relator.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+(..)
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+Para sanar eventual omissão, a Defesa deveria ter se incumbido de opor embargos de declaração ao acórdão impugnado, o que não foi noticiado.
+Nesse sentido, mutatis mutandis:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. CRIME DE FALSO TESTEMUNHO. AUSÊNCIA DE REINQUIRIÇÃO. TEMA NÃO ANALISADO PELA CORTE LOCAL. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SUPRESSÃO DE INSTÂNCIA. 2. CONCURSO DE AGENTES. ADVOGADO DENUNCIADO COMO PARTÍCIPE. POSSIBILIDADE. PRECEDENTES. 3. RECURSO EM HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+1. O Tribunal de origem não apreciou o fato de que não houve a reinquirição das testemunhas. O instrumento processual correto para se sanar eventual omissão são os embargos de declaração, os quais não foram opostos pelo recorrente. Assim, não tendo a Corte local se manifestado sobre o tema, tem-se supressão de instância, o que inviabiliza o exame do tema pelo Superior Tribunal de Justiça.
+(..)
+3. Recurso em habeas corpus parcialmente conhecido e, nessa parte, desprovido. (RHC n. 106.395/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/03/2019, DJe 16/04/2019; grifamos).
+Por fim, no  tocante  ao  alegado  excesso  de  prazo  para  a formação da culpa,  importante  registrar  que
+ ..  a  aferição  do  excesso  de  prazo  reclama  a  observância  da  garantia  da  duração  razoável  do  processo,  prevista  no  art.  5º,  LXXVIII,  da  Constituição  Federal.  Tal  verificação,  contudo,  não  se  realiza  de  forma  puramente  matemática.  Demanda,  ao  contrário,  um  juízo  de  razoabilidade,  no  qual  devem  ser  sopesadas  as  peculiaridades  da  causa  ou  quaisquer  fatores  que  possam  influir  na  tramitação  (HC  n.  541.104/SP,  rel.  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  18/02/2020,  DJe  de 27/02/2020).
+O Tribunal estadual registrou o seguinte sobre a tese que defende a desídia estatal (fl. 201; grifamos):
+ ..  No caso em apreço, o que se colhe do caderno processual é que o paciente se encontra preso, de fato, há aproximadamente 09 (nove) meses de forma que se olhar apenas para quantidade aritmética, pode-se ter a ideia de ultrapassagem dos prazos processuais previstos na legislação para o término da instrução criminal.
+Ocorre que já é pacífico na doutrina e jurisprudência de que os prazos processuais não podem ser avaliados apenas em sua quantidade numérica, mas deve ser aferido e analisado em consonância com as nuances do caso posto, de modo a poder atribuir maior elasticidade e assim atender as peculiaridades intrínsecas de cada processo nos limites da razoabilidade e proporcionalidade.
+Na hipótese, não se pode falar em excesso de prazo abusivo.
+Isto porque estamos diante de ação penal com inúmeros réus (mais de 20), o que, obviamente, acarretará um atraso para conclusão da instrução.
+No entanto, conforme informações da autoridade coatora, e, após consulta ao Sistema PJe-1º grau pude verificar que o processo está sendo devidamente impulsionado, com audiência de instrução marcada para o início do mês de novembro deste ano, portanto, próximo do encerramento da instrução.
+Portanto, indiscutivelmente, o processo originário está sendo devidamente impulsionado, estando o trâmite do processo originário ocorrendo dentro dos limites da razoabilidade, não havendo que se falar em excesso de prazo na formação da culpa.
+No caso, em que pese o substancial tempo de prisão cautelar, entendo que não há razão para reconhecer o alegado excesso de prazo pois  reputo  plausíveis  as  razões  consignadas  pela  instância  ordinária  para  afastar  a  tese  de  ocorrência  de  desídia  estatal,  até  porque  não  é  constatável  ofensa  ao  princípio  da  razoabilidade  na  formação  da  culpa,  mormente  se  considerado  o  tempo  concreto  de  prisão  preventiva  diante da  pena  abstrata  dos  delitos  pelos  quais  o paciente foi denunciado  (fls. 171-207) -  no  caso: art. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, e no art. 16 da Lei n. 10.826/2003.
+Há de se considerar as peculiaridades do caso, como foi destacado pelo Desembargador relator que salientou que o feito conta com uma pluralidade de réus - mais de 20 -, o que, por si só, acaba por exigir um interregno maior para o julgamento.
+Em sentido correlato:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. LAVAGEM DE DINHEIRO.  .. . EXCESSO DE PRAZO. COMPLEXIDADE DA CAUSA. PLURALIDADE DE RÉUS E IMPUTAÇÕES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+5. Inexiste constrangimento ilegal por excesso de prazo quando a instrução processual apresenta regular andamento, em ação penal complexa, com pluralidade de réus e de fatos delitivos, e ausente desídia do Judiciário.
+6. Agravo regimental não provido. (AgRg no RHC n. 210.209/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025; grifamos).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. EXCESSO DE PRAZO NÃO CONFIGURADO. COMPLEXIDADE DO FEITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso em exame, as peculiaridades do caso demonstram a complexidade do processo, tendo em vista o vulto da organização criminosa investigada, a pluralidade de réus (17) com representantes distintos e a necessidade de realização de inúmeras diligências.
+Além disso, as instâncias de origem assinalaram que eventual atraso para o encerramento do feito em relação ao agravante decorreu de sua própria inércia, o que atrai a incidência da Súmula n. 64/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no RHC n. 182.357/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023; grifamos).
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
