@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A. da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na apelação no Processo n. 0002719-88.2021.8.08.0011, assim ementado (fl. 260 ):
+DIREITO CONSTITUCIONAL E DO CONSUMIDOR. APELAÇÃO CÍVEL. ASSISTÊNCIA JUDICIÁRIA. DEFERIMENTO. OBRIGAÇÃO DE FAZER. ESTABELECIMENTO DE ENERGIA EM PROPRIEDADE RURAL. EXIGÊNCIA DE APRESENTAÇÃO DE DOCUMENTO QUE NÃO CONSTA NO ROL DE EXIGÊNCIAS NA RESOLUÇÃO 1.000/2021. VIZINHOS USUFRUEM O BENEFÍCIO. PRINCÍPIOS DA DIGNIDADE DA PESSOA HUMANA E ISONOMIA. SERVIÇO ESSENCIAL. DANO MORAL. CABIMENTO. RECURSO DA PARTE AUTORA CONHECIDO E PROVIDO. RECURSO DA RÉ CONHECIDO E DESPROVIDO.
+I. Uma vez comprovada a situação de precariedade, deve ser deferida a assistência judiciária recursal ao autor.
+II. In casu, verifica-se que a Empresa Recorrente não deu prosseguimento no processo de ligação de energia elétrica na propriedade por julgar indispensável a apresentação da documentação não prevista na legislação que regulamenta a matéria.
+III. O artigo 67, da Resolução n. 1.000/2021, da ANEEL, não ostenta prescrição de de outros documentos além daqueles fornecidos pelo Recorrido.
+IV. A jurisprudência pátria perfilha no sentido de que o fornecimento de energia elétrica constitui serviço essencial e vinculado à dignidade da pessoa humana e ao direito à saúde. Precedentes.
+V. Não constitui ônus desproporcional à extensão da rede à propriedade do Autor, porquanto a Concessionária não realizará obras de investimentos para tal, haja vista que se limitará à extensão da rede já existente no local para atingir a unidade consumidora deste.
+VI. Cabível indenização por danos morais em decorrência da negativa e delonga na extensão da rede de energia até a residência do autor. VII. Recursos conhecidos com provimento apenas do recurso da parte autora.
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: (a) impossibilidade de análise de vulneração de dispositivos constitucionais; (b) impossibilidade de análise de vulneração de Resolução; (c) incidência das Súmulas n. 282 e 356/STF com relação aos arts. 2º da Lei n. 9.427/1996; 128, 129, 130, 172, da Resolução n. 414/2010, da ANEEL; 188, 884, 886, 994 do Código Civil e art. 7 do Código de Defesa do Consumidor e (d) incidência da Súmula n. 284/STF com relação ao art. 101, inciso I, do Código de Defesa do Consumidor.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à (a) impossibilidade de análise de vulneração de dispositivos constitucionais; (b) impossibilidade de análise de vulneração de Resolução e (d) incidência da Súmula n. 284/STF com relação ao art. 101, inciso I, do Código de Defesa do Consumidor.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE ALGUNS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
