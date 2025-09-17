@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual MILTON CARDOSO DOS SANTOS FILHO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 690/697):
+EXECUÇÃO FISCAL  Dívida tributária  Responsabilidade patrimonial do sócio de pessoa jurídica  Debate sobre prescrição do direito de redirecionamento da cobrança contra o co-obrigado tributário  Hipótese de dissolução irregular da sociedade  Exegese do artigo 135, inciso 111, do Código Tributário Nacional  Precedentes doutrinários e jurisprudenciais  Prescrição não reconhecida no caso concreto  Recurso não provido.
+Os embargos de declaração foram rejeitados (fls. 711/717).
+Nas razões de seu recurso especial, a parte requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 749/758).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nos termos do que foi decidido pelo Plenário do Superior Tribunal de Justiça (STJ), "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Em seu recurso, a parte aponta como contrariados os arts. 174 e 185-A do Código Tributário Nacional (CTN) e o art. 620 do Código de Processo Civil (CPC) de 1973. Alega a ocorrência de prescrição intercorrente - a qual, todavia, fora afastada pelo Tribunal de origem.
+O acórdão recorrido, entretanto, não decidiu à questão à luz dos dispositivos indicados pela parte recorrente e, portanto, não tratou da tese judicial a eles vinculada. A demanda foi solucionada com fundamento no art. 135, III, do CTN, no art. 4º, V, da Lei 6.830/1980, no art. 585, V, do CPC/1973 e no art. 202 do Código Civil, nos seguintes termos (fl.696):
+ ..
+No que se refere ao tema da prescrição tributária, vale ressaltar orientação que vem tomando corpo tanto no Egrégio Superior Tribunal de Justiça quanto nesta Corte Paulista, no sentido de que o seu regime obedece ao principio da actio nata. Ou seja, o qüinqüênio prescricional há de ser contado a partir do momento em que surgiu a pretensão fazendária para o redirecionamento da execução contra os sócios da empresa devedora. Exegese de todo razoável, seja no plano jurídico-formal, seja pelos princípios determinantes no aspecto ético-político. Concluir pela prescrição tão só em face do decurso automático de prazo superior a cinco anos entre a data da citação da pessoa jurídica e o pedido de redirecionamento aos sócios, viria premiar o sonegador. Punir-se-ia a Fazenda, não raro, por culpa da eficiência dos estratagemas do devedor de má fé, a manobrar co"a morosidade judiciária.
+ ..
+Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do Tribunal estadual sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 535 do CPC/1973, relativamente à questão controvertida, o que não foi feito no caso dos autos.
+Ademais, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
