@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VASNI BARBOSA DE OLIVEIRA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de indicação clara e precisa do artigo violado; na incidência das Súmulas n. 284 do STF e 83 e 7 do STJ; e na ausência de demonstração de ofensa aos arts. 364, 365 e 366 do CPC e 887 do CC.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não merece prosperar.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo em apelação nos autos de ação de desfazimento de negócio jurídico.
+O julgado foi assim ementado (fls. 458-470):
+APELAÇÃO CÍVEL - DIREITO CIVIL - CONTRATOS - AÇÃO DESCONSTITUTIVA - DESFAZIMENTO DE NEGÓCIO JURÍDICO - ALEGAÇÕES FINAIS - PRAZO - DEVIDO PROCESSO LEGAL - PRECLUSÃO TEMPORAL - NULIDADE DA SENTENÇA NÃO RECONHECIDA - CONTRATO INADIMPLEMENTO - PROVA NOS AUTOS - PROCURAÇÃO EM CAUSA PRÓPRIA - VALIDADE DEPENDENTE DE PAGAMENTO - RECIBOS PASSADOS EM DATA PRETÉRITA - PROVA HÁBIL A INFIRMAR A ALEGAÇÃO DE QUITAÇÃO - RECIBOS ASSINADOS POR TERCEIROS - AUSÊNCIA DE PROVA DA CAPACIDADE DE QUITAÇÃO - INVALIDADE - TESES DISTORCIDAS QUANTO AO CONTEXTO FÁTICO DE PAGAMENTO - NOTA PROMISSÓRIA - TÍTULO NÃO RESGATADO PELO DEVEDOR - PRESUNÇÃO DE NAO PAGAMENTO - ÔNUS DA PROVA DO FATO IMPEDITIVO - REGRA DO ART. 373 DO CPC - RECURSO CONHECIDO E IMPROVIDO.
+1. Descabe afirmar que há nulidade pela violação do devido processo legal quando a parte deixa de apresentar as alegações finais no prazo assinalado pelo CPC. Preclusão temporal constatada.
+2. A Procuração em causa própria quanto ao adimplemento das obrigações nela assinaladas, trazem ao contexto a presunção iuris tantum da quitação;
+3. Conforme restou apurado, pelo conjunto probatório arquitetado nos autos, a procuração em causa própria foi formulada antes do início dos pagamentos demonstrando a boa-fé do vendedor;
+4.Os recibos fornecidos com datas posteriores à outorga da procuração demonstram o comportamento contraditório do adquirente quanto à alegação de pagamento;
+5. As provas testemunhais infirmam a alegação de pagamento integral da avença, bem como corroboram a existência da dívida quanto ao negócio jurídico formulado materializada pela Nota Promissória em poder do vendedor;
+6. Segundo a regra de distribuição do ônus da prova, nos termos do art. 373 do CPC, compete ao réu a demonstração do fato impeditivo, modificativo ou extintivo do direito do autor;
+7. Recurso conhecido e improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 496-503).
+No recurso especial, o agravante aponta violação do art. 887 do Código Civil, visto que a ausência da nota promissória original impede a comprovação do direito de crédito, sendo a cópia insuficiente para tal finalidade.
+Afirma que a prolação da sentença antes do prazo para apresentação das alegações finais ou antes de sua juntada aos autos fere o princípio do devido processo legal.
+Sustenta que o Tribunal de origem divergiu do entendimento do STJ, especialmente no que tange à necessidade de apresentação do título original para comprovação do crédito, conforme precedentes como no REsp n. 1.277.394/SC e no AgInt no REsp n. 1.333.724/SC.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo-se a nulidade da sentença e a improcedência da ação.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento.
+É o relatório. Decido.
+Na origem, trata-se de ação de desfazimento de negócio jurídico ajuizada por Marcelo de Souza Moreira, ora gravado, contra Vasni Barbosa de Oliveira, ora agravante, na qual se discute a resolução de um contrato de compra e venda de imóvel.
+A sentença julgou procedente o pedido, reconhecendo o inadimplemento do comprador e determinando a resolução do contrato com a reintegração do vendedor na posse do imóvel, a qual se baseou na ausência de comprovação de pagamento integral por parte do comprador. Destacou que os recibos apresentados eram insuficientes e que a nota promissória vinculada ao negócio não fora quitada. Também considerou que a procuração em causa própria outorgada ao comprador não era suficiente para comprovar a quitação do negócio.
+Na apelação, o Tribunal de origem manteve a sentença, entendendo que não houve nulidade processual pela ausência de apreciação das alegações finais do recorrente, uma vez que estas foram apresentadas fora do prazo legal.
+Reconheceu que a prova documental e a testemunhal corroboravam o inadimplemento do comprador, sendo este responsável pelo ônus de demonstrar o pagamento integral, o que não foi feito. Entendeu que os recibos apresentados não comprovavam a quitação integral, pois foram assinados por terceiros sem autorização do credor, e que a nota promissória em posse do autor reforçava a presunção de inadimplemento.
+Ainda considerou que a procuração em causa própria fora outorgada com base na boa-fé do vendedor e não configurava prova de quitação.
+No recurso especial, o ora agravante alega violação art. 887 do Código Civil em razão da ausência da nota promissória original que impeça a comprovação do direito de crédito, sendo a cópia insuficiente para tal finalidade.
+Contudo, o acórdão recorrido destacou que uma das características dos títulos cambiários é sua autonomia, conforme estipulado no art. 887 do Código Civil, que vincula o direito literal e autônomo à cartularidade, ou seja, o pagamento do título está vinculado à sua devolução ao devedor como forma de impedir a transmissão a terceiros.
+Nesse sentido, o Tribunal de origem afirmou que, diante da alegação de não pagamento por parte do autor, ora agravado, caberia ao recorrente, por força do art. 373 do Código de Processo Civil, juntar aos autos a prova da quitação, demonstrando a posse do título original, o que não fez, de modo que a ausência dessa prova reforçou a presunção de inadimplemento.
+Ademais, concluiu que a apresentação de uma cópia da nota promissória não éra suficiente para comprovar a posse do título original, sendo necessário o documento original para que a parte pudesse exercer o direito literal e autônomo nele contido, conforme o art. 887 do Código Civil.
+Nesse contexto, a alteração das conclusões adotadas pela instância de origem a respeito da apresentação de cópia do título de crédito demanda a revisão de fatos e provas, além da interpretação do dispositivo legal, o que atrai a aplicação da Súmula n. 7 do ST J.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO CAMBIAL. DISCUSSÃO DA "CAUSA DEBENDI". POSSIBILIDADE EXCEPCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte "presume-se a autonomia e independência do cheque frente à relação jurídica na qual teve origem, sendo possível, excepcionalmente, a investigação da causa debendi e o afastamento da cobrança quando verificado que a obrigação subjacente claramente se ressente de embasamento legal" (AgRg no Ag n. 1.254.086/PR, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 20/4/2010, DJe 7/5/2010).
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto à exigibilidade do título de crédito, demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.333.118/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/5/2020, DJe de 6/5/2020.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
