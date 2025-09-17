@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. Decadência do direito de representação. Inépcia da denúncia. Ausência de justa causa. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, visando ao trancamento da ação penal por alegada decadência do direito de representação da vítima, inépcia da denúncia e ausência de justa causa.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve decadência do direito de representação da vítima, considerando a manifestação inequívoca do interesse em prosseguir com a persecução penal.
+3. Além disso, alega-se que a denúncia é inepta por não descrever de forma individualizada a conduta do agravante, violando o artigo 41 do Código de Processo Penal.
+4. Sustenta-se, também, ausência de justa causa para a ação penal, justificando seu trancamento.
+III. Razões de decidir
+5. A manifestação inequívoca da vítima em registrar boletim de ocorrência e prestar declarações perante o Ministério Público satisfaz a condição de procedibilidade, afastando a alegação de decadência.
+6. A denúncia descreve adequadamente os fatos criminosos, conforme o artigo 41 do Código de Processo Penal, não sendo inepta.
+7. A existência de elementos suficientes para o prosseguimento da ação penal, com indícios de materialidade e autoria, afasta a alegação de ausência de justa causa.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A manifestação inequívoca da vítima em registrar boletim de ocorrência e prestar declarações satisfaz a condição de procedibilidade. 2. A denúncia que descreve adequadamente os fatos criminosos não é inepta. 3. A existência de indícios de materialidade e autoria justifica o prosseguimento da ação penal.".
+Dispositivos relevantes citados: CP, art. 171, § 5º; CPP, art. 41.
+Jurisprudência relevante citada: STF, HC 208.817 AgRg, Min. Cármen Lúcia, Tribunal Pleno, julgado em 13.04.2023; STJ, AgRg no HC 846.046/PE, Min. Ribeiro Dantas, Quinta Turma, julgado em 30.10.2023; STJ, AgRg no AgRg no AgRg no REsp 2.083.182/SP, Quinta Turma, julgado em 07.11.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MANOEL JOSÉ LINO DO RÊGO contra decisão de minha lavra, acostada às fls. 428-435, na qual neguei provimento ao presente recurso ordinário em habeas corpus.
+Neste regimental, a Defesa reitera a argumentação de que a Lei n. 13.964/2019 exige representação formal da vítima como condição de procedibilidade e de que o Supremo Tribunal Federal - STF já decidiu que tal norma retroage para beneficiar o réu em processos em curso, desde que não haja trânsito em julgado (fls. 442).
+Aduz que a representação deve ser inequívoca, não sendo suficiente o boletim de ocorrência ou depoimento sem manifestação expressa de desejo de processar, bem como que a vítima não se enquadra na exceção de idade prevista no § 5º do artigo 171 do Código Penal - CP, e o prazo decadencial de 6 (seis) meses para representação já teria transcorrido (fls. 442).
+Sustenta, ainda, que a denúncia é considerada inepta por não descrever de forma individualizada a conduta do agravante, limitando-se a ilações genéricas sem demonstrar participação dolosa na fraude, violando o artigo 41 do Código de Processo Penal - CPP e cerceando o direito à ampla defesa (fls. 442).
+Requer, assim, a reforma da decisão monocrática para trancar a Ação Penal n. 0700295-27.2022.8.02.0023, devido à decadência do direito de representação e à ausência de justa causa, com extinção da punibilidade do agravante (fls. 442).
+Subsidiariamente, pede seja suspenso o processo penal até que a vítima seja intimada para oferecer representação formal, sob pena de extinção da punibilidade (fls. 442).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. Decadência do direito de representação. Inépcia da denúncia. Ausência de justa causa. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, visando ao trancamento da ação penal por alegada decadência do direito de representação da vítima, inépcia da denúncia e ausência de justa causa.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve decadência do direito de representação da vítima, considerando a manifestação inequívoca do interesse em prosseguir com a persecução penal.
+3. Além disso, alega-se que a denúncia é inepta por não descrever de forma individualizada a conduta do agravante, violando o artigo 41 do Código de Processo Penal.
+4. Sustenta-se, também, ausência de justa causa para a ação penal, justificando seu trancamento.
+III. Razões de decidir
+5. A manifestação inequívoca da vítima em registrar boletim de ocorrência e prestar declarações perante o Ministério Público satisfaz a condição de procedibilidade, afastando a alegação de decadência.
+6. A denúncia descreve adequadamente os fatos criminosos, conforme o artigo 41 do Código de Processo Penal, não sendo inepta.
+7. A existência de elementos suficientes para o prosseguimento da ação penal, com indícios de materialidade e autoria, afasta a alegação de ausência de justa causa.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A manifestação inequívoca da vítima em registrar boletim de ocorrência e prestar declarações satisfaz a condição de procedibilidade. 2. A denúncia que descreve adequadamente os fatos criminosos não é inepta. 3. A existência de indícios de materialidade e autoria justifica o prosseguimento da ação penal.".
+Dispositivos relevantes citados: CP, art. 171, § 5º; CPP, art. 41.
+Jurisprudência relevante citada: STF, HC 208.817 AgRg, Min. Cármen Lúcia, Tribunal Pleno, julgado em 13.04.2023; STJ, AgRg no HC 846.046/PE, Min. Ribeiro Dantas, Quinta Turma, julgado em 30.10.2023; STJ, AgRg no AgRg no AgRg no REsp 2.083.182/SP, Quinta Turma, julgado em 07.11.2023.
+VOTO
+A controvérsia consiste na verificação da decadência do direito de representação da vítima e da alegada inépcia da denúncia e ausência de justa causa, com o consequente trancamento da ação penal.
+A decisão impugnada, entretanto, analisou todos os pontos apresentados de forma devidamente fundamentada, devendo ser mantida.
+Primeiramente, no que tange à sustentada decadência do direito de representação, conforme entendimento que prevalece na Quinta Turma deste Superior Tribunal de Justiça acerca da questão da condição de procedibilidade no delito de estelionato, prevista no § 5º do artigo 171 do Código Penal, é suficiente a manifestação inequívoca do interesse da vítima em dar prosseguimento à persecução penal, sendo desnecessárias maiores formalidades:
+" ..
+2. O Supremo Tribunal Federal pacificou a divergência até então existente entre suas Turmas e, por maioria, proclamou a retroatividade da lei nova, mesmo após o recebimento da denúncia anterior à Lei n. 13.964/2019. Precedente: HC 208.817 AgRg, Relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023. Neste precedente restou assentado que a retroatividade da lei deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal. Ainda assim, se inexistentes elementos indicativos da vontade da vítima na persecução penal, deve o magistrado proceder à respectiva intimação dos ofendidos para que apresentem eventual representação.
+ ..
+4. Agravo regimental desprovido." (AgRg no HC n. 846.046/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023, grifei)
+" ..
+VI - De mais a mais, conforme registrado pelo acórdão recorrido, constatado que a vítima, inequivocamente, levou ao conhecimento da autoridade policial o fato criminoso, manifestando evidente interesse na persecução penal, resta plenamente satisfeito o requisito relativo à condição de procedibilidade da ação penal, porquanto a representação do ofendido, nas ações penais públicas condicionadas à representação, prescinde de formalidade, de modo que entendo cumpridas as exigências legais. De fato, não há necessidade de que exista nos autos peça processual com esse título, sendo suficiente que a vítima ou seu representante legal leve ao conhecimento das autoridades o ocorrido, como ocorreu na presente hipótese. Precedentes.
+ ..
+Agravo regimental desprovido." (AgRg no AgRg no AgRg no REsp n. 2.083.182/SP, minha relatoria, Quinta Turma, julgado em 7/11/2023, DJe de 13/11/2023, grifei)
+Na hipótese dos autos, de acordo com o que asseverou o Tribunal a quo, a vítima, "à época dos fatos, procurou espontaneamente as autoridades policiais, ocasião em que registrou boletim de ocorrência e prestou declarações perante o Ministério Público na Delegacia de Polícia" (fl. 387), tendo manifestado, portanto, inequívoca e expressamente o seu interesse na apuração dos fatos.
+Dessa forma, a conclusão alcançada pela instância ordinária está em sintonia com o entendimento jurisprudencial desta Corte Superior sobre o tema, sendo inviável sua alteração, no que concerne à eventual divergência de datas, tendo em vista a necessidade de incursão no acervo fático-probatório dos autos de origem, procedimento impróprio na via do habeas corpus, ou de seu recurso ordinário, conforme iterativa jurisprudência deste Superior Tribunal de Justiça.
+A propósito: AgRg no AREsp n. 1.642.513/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/3/2023, DJe de 28/3/2023; AgRg nos EDcl no AREsp n. 1.988.069/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/2/2023, DJe de 3/3/2023.
+De mais a mais, conforme amplamente consabido, o trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+Nesse sentido, como anteriormente consignado, não se observa mácula no acórdão proferido pelo Tribunal a quo, que não reconheceu a inépcia da denúncia e a falta de justa causa para a ação penal. A leitura do aludido julgado revela a existência de fundamentação pertinente ao caso concreto e ao momento processual, no qual, evidentemente, não há uma profunda análise probatória. De fato, verifica-se que o Ministério Público Estadual descreveu adequadamente os fatos criminosos, nos termos do artigo 41 do Código de Processo Penal - CPP.
+Confiram-se os termos da peça inaugural, no que interessa (fls. 20-22 - grifei):
+"Emana do caderno investigativo em arrimo que aos 23 dias do mês de março de 2016, por volta das 17h 34min, no Conjunto Ernesto Maranhão, Povoado Campanha, no município de Matriz de Camaragibe/AL, o acusado obteve para si vantagem ilícita, em prejuízo alheio, induzindo o idoso Antônio Venâncio da Silva, à época com 69 (sessenta e nove) anos de idade, valendo-se de meio fraudulento e ardil para tanto.
+Conforme restou apurado, a vítima relata que é beneficiário de uma aposentadoria, e que teve ajuda de Jackson Henrique Burgos Gomes e Manoel José Lins Rêgo para o gozo do referido benefício.
+Ocorre que após o trâmite do procedimento para conseguir sua aposentadoria, a vítima fora surpreendida em 2016 por uma proposta do denunciado, que o convidou para o seu escritório, com fito em lhe assegurar um saque na importância de R$ 14.000,00 (catorze mil reais), valor que seria de seu FGTS, ora não resgatado. Chegando lá, o denunciado disse ao Sr. Antônio que não poderia acompanha-lo na Caixa Econômica Federal, mas que Júnior, Fábio Roseno dos Santos, seu motorista, estaria presente para auxiliá-lo, considerando que como coligido, a vítima não sabe ler, nem escrever.
+Já no dia 31/03/2016, Júnior entregou um papel, mandado por Manoel José Lino do Rêgo, ao funcionário, que após o referido funcionário pegar os documentos da vítima, foi feito um depósito de R$ 14.032,70 (catorze mil, trinta e dois reais e setenta centavos) na conta da vítima, e deste valor fora realizada uma transferência de R$ 5.000,00 (cinco mil reais) para a conta de Manoel José Lino do Rêgo, como combinado, referente aos serviços prestados.
+Segundo o depoimento da vítima, ela soube através do denunciado que se tratava de um resto de FGTS, mas que se soubesse que era empréstimo nunca teria pego.
+No entanto, dias depois, quando a vítima foi sacar o pagamento de sua aposentadoria e percebeu um desconto de R$ 411,00 (quatrocentos e onze reais), de modo que procurou o Manoel José Lino do Rêgo para saber o porquê daquele desconto, sendo informado pelo denunciado que olhasse sua conta no dia seguinte, que no outro dia o valor descontado estava ressarcido. Desde então, não existiram mais desconto. Porém, em maio/2021 os descontos retornaram no valor de R$ 412,00 (quatrocentos e doze reais), e em agosto/2021, a vítima retirou um extrato do benefício e verificou que havia um contrato de empréstimo com o Banco Paraná, a ser pago em 71 (setenta e uma) parcelas, alcançando o saldo devedor de R$ 29.251,99 (vinte e nove mil, duzentos e cinquenta e um reais e noventa e nove centavos).
+Ato contínuo, a vítima pediu auxílio a sua filha, que conseguiu uma cópia do mencionado contrato, chegando a descobrir que o referido empréstimo teria sido feito através de link do celular (82) 99354-6061, celular este de propriedade do motorista de Manoel José Lino do Rego, conhecido por Júnior, o qual teria ido com a vítima para a Caixa econômica Federal de Porto Calvo-AL.
+A autoria e a materialidade dos fatos acima descritos restara comprovada diante dos depoimentos testemunhais, contrato juntado às fls. 09/12, termo de declaração de fls. 29/30, em harmonia com o conjunto probatório carreado aos autos.
+II- DA CAPITULAÇÃO JURÍDICA DO FATO
+Por tais razões, inarredável o entendimento que o denunciado MANOEL JOSÉ LINO RÊGO incorreu no tipo penal citado pelo art. 171, § 4º, do Código Penal, tendo como vítima Antônio Venâncio da Silva. Vistos os autos, encontram-se preenchidos os requisitos para justa ação penal."
+Certamente, a avaliação mais aprofundada acerca da imputação formulada ao agravante deverá ser implementada no processo de conhecimento e não por meio do habeas corpus, ou seu recurso ordinário, no qual não é possível o cotejo fático-probatório.
+No caso concreto, consignou-se no acórdão combatido que existem elementos suficientes para o prosseguimento da ação penal, salientando a presença, ao menos em tese, da materialidade e da autoria delitivas, bem como ausentes quaisquer causas que justificassem o trancamento da ação penal pela via mandamental.
+De fato, no que tange à apreciação da justa causa, a liquidez do pleito formulado constitui requisito inafastável pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, uma vez que seu manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano, o que não se deu no caso em análise.
+Nesse sentido: AgRg no RHC n. 178.583/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, julgado em 22/5/2023, D Je de 24/5/2023; RHC n. 155.784/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, julgado em 9/5/2023, D Je de 19/5/2023; AgRg no HC n. 776.399/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, julgado em 9/5/2023, D Je de 15/5/2023; AgRg no RHC n. 174.523/BA, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), julgado em 24/4/2023, D Je de 27/4/2023.
+Dessarte, no presente agravo regimental não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantido o ato judicial por seus próprios fundamentos. Acerca do tema:
+" ..
+1. É assente nesta Corte que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.  .. " (AgRg no HC n. 659.003/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023 ).
+Ante todo o exposto, nego provimento ao agravo regimental.
+É o voto.
