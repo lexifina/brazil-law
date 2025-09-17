@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por SIDIANGELO MATEUS, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o ora recorrente foi condenado, pelo Tribunal de origem, à pena de 5 anos e 10 meses de reclusão, no regime inicial fechado, pela prática do crime previsto no art. 33 da Lei de Drogas.
+No presente recurso especial, interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, a defesa alega violação ao artigo art. 65, III, d, Código Penal. Requer, assim, o provimento do apelo especial a fim de que seja reconhecida a atenuante da confissão espontânea, com a consequente compensação com a agravante da reincidência.
+O Tribunal de origem procedeu ao juízo de admissibilidade positivo do recurso especial.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+É o relatório. DECIDO.
+Como é cediço, "o réu fará jus à atenuante do art. 65, III, "d", do Código Penal sempre que houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada. (REsp n. 1.972.098/SC, Relator Ministro RIBEIRO DANTAS, D Je de 20/6/2022).
+O Tribunal de origem, ao enfrentar a matéria, afirmou que "percebe-se que o acusado, durante toda a persecução penal, optou pelo silêncio, não podendo, agora, requerer benefício com base em mera confissão informal realizada durante o flagrante, que fora trazida ao feito pelos agentes público, e não por ele em colaboração com a Justiça." (fl. 430).
+Como bem salientado pelo Ministério Público Federal, "a Corte de origem consignou que o réu manteve-se em silêncio durante toda a instrução processual. Desse modo, afigura-se incabível o reconhecimento da atenuante da confissão espontânea, uma vez que o recorrente não admitiu a prática do delito."
+A propósito, "o Tribunal de origem foi expresso ao consignar que os agravantes permaneceram em silêncio na fase inquisitorial e, em juízo, tiveram a revelia declarada, inexistindo confissão formal apta a ensejar a aplicação da referida atenuante."(AgRg no HC n. 1.005.088/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Igualmente, "quanto à dosimetria da pena, não há evidência de constrangimento ilegal, pois o paciente não confessou o delito, não sendo aplicável a atenuante da confissão espontânea." (AgRg no HC n. 931.012/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.)
+Desta forma, não merece acolhida o pleito de revisão da dosimetria da pena, tendo em vista que "a dosimetr ia da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
