@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO ADMINISTRATIVO. PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE DE RESÍDUOS. MUNICÍPIO. AUSÊNCIA DE PAGAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O agravante insurge-se contra a decisão por meio da qual foi reconsiderada decisão anterior a fim de conhecer, em parte, do agravo interno, para conhecer do recurso especial e negar-lhe provimento.
+2. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+3. A pretensão de reforma demanda o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que não se admite, conforme enuncia as Súmulas 5 e 7 do STJ.
+4. Agravo interno des provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por I R NOVATEC SERVIÇOS E CONSULTORIA AMBIENTAL EIRELI contra a decisão de fls. 613-616, por meio da qual foi reconsiderada decisão anterior a fim de conhecer, em parte, do agravo interno, para conhecer do recurso especial e negar-lhe provimento.
+A agravante sustenta, em síntese, que a matéria ventilada no recurso especial é exclusivamente de direito, sendo desnecessária a interpretação de cláusulas contratuais ou de reexame fático-probatório dos autos.
+Reitera o argumento de violação ao art. 1.022, II, do CPC, dizendo que o Tribunal de origem: (a) deixou de analisar o material que comprova a efetiva prestação e fiscalização dos serviços entre os meses de novembro de 2016 e fevereiro de 2017; (b) deixou de considerar os Certificados de Destinação Final juntados pela IR NOVATEC; (c) omitiu-se quanto a concordância da Diretora de Meio Ambiente com o requerimento da recorrente para a solução do débito e sobre o conteúdo dos instrumentos que atestam que o agravado não efetuou qualquer pagamento à empresa contratada no período de 2017.
+Insiste na tese de violação aos arts. 139, I; 371 e 373, I e II, do CPC; e 884 do CC, e, ao final, pede o provimento do recurso.
+Intimado, o agravado deixou de responder ao recurso (fl. 666).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO ADMINISTRATIVO. PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE DE RESÍDUOS. MUNICÍPIO. AUSÊNCIA DE PAGAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O agravante insurge-se contra a decisão por meio da qual foi reconsiderada decisão anterior a fim de conhecer, em parte, do agravo interno, para conhecer do recurso especial e negar-lhe provimento.
+2. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+3. A pretensão de reforma demanda o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, o que não se admite, conforme enuncia as Súmulas 5 e 7 do STJ.
+4. Agravo interno des provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, presentes os seus pressupostos de admissibilidade.
+O agravante insurge-se contra a decisão por meio da qual foi reconsiderada decisão anterior a fim de conhecer, em parte, do agravo interno, para conhecer do recurso especial e negar-lhe provimento.
+Sem razão, todavia.
+Os pontos indicados como omissos pelo agravante referem-se à análise e interpretação do material probatório, os quais foram efetivamente considerados pelo Tribunal originário, consignando (fls. 358-360):
+No caso sob exame, é a cláusula sexta do instrumento contratual celebrado entre os litigantes (ind. 000016) que define a documentação necessária para que a contratada promova a cobrança pelos serviços prestados.
+Entretanto, a autora, ora apelada, não demonstrou a existência desses documentos, não tendo apresentado nota fiscal devidamente atestada por setor pertinente da Secretaria Municipal de Meio Ambiente, nem o "atestado em impresso apropriado".
+Mesmo diante da possibilidade de exarar a pretensão de cobrança com base no princípio da vedação ao enriquecimento sem causa, ela somente poderia ser acolhida, se tivesse sido demonstrada a efetiva prestação dos serviços de coleta e transporte de resíduos pela autora, ora apelada, ao réu, ora apelante, no período compreendido entre 07 de novembro de 2016 e 06 de fevereiro de 2017, e a sua quantidade, por meio de medições, uma vez que a autora e réu firmaram o Contrato sub judice sob regime de empreitada por preço unitário.
+Não se pode perder de vista que o pagamento de qualquer quantia, pela Fazenda Pública, se sujeita a um procedimento de controle, que se destina à proteção do erário, no qual, dentre outras coisas, é verificada a veracidade dos dados apresentados, para a liquidação da despesa.
+Por isso, os Boletins de Medição dos serviços a que se refere a cobrança, que foram elaborados unilateralmente (fls. 41/47 - ind. 000040, fls. 64/70 - ind. 000063) e subscritos apenas pelo representante da autora, ora apelada, não podem ser considerados úteis para esse fim.
+Os Certificados de Destinação Final (fls. 48/53 - ind. 000040, fls. 71/77 - ind. 000063, ind. 000054, 000078 e 000091), emitidos por terceiro (Central de Tratamento de Resíduos de Nova Iguaçu S. A.) que não possui qualquer relação com o contrato, apenas podem atestar o seu destino, e não a sua origem, não bastando para justificar a contraprestação almejada pela autora em face do Município apelante.
+Muito embora o parecer técnico acostado referente ao Processo Administrativo nº 1885/2017 (fls. 62), no qual a autora requereu a pactuação de débito e apresentação de cronograma de pagamento de valores devidos, reconhecidos e não liquidados por parte da Prefeitura Municipal de Magé, não contenha oposição ao pedido formulado pela contratada, sua conclusão está baseada unicamente nas "informações prestadas pela Contratada" de que os boletins de medição mensal referentes ao período de 07/11/16 a 06/01/2017 foram atestados pelo responsável de fiscalização do Contrato (item 2) e no já mencionado Certificado de Destinação Final, emitido pelo Centro de Tratamento de Resíduos Nova Iguaçu.
+O mesmo pode ser dito com relação aos documentos relativos ao Processo Administrativo nº 3518/2017, no qual foi solicitada "atestação dos serviços de operação da Estação de Transferência de Resíduos - ITR Bongaba, referente ao período de 07/01/2017 a 06/02/2017.
+Os documentos acostados ao ind. 000237, por sua vez, também não são suficientes para confirmar o fato constitutivo do direito invocado pela parte autora, uma vez que não deixam claro sequer o objeto do Processo Administrativo nº 9.150/2018.
+Conforme descrito, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, inexistindo no aresto nulidade por omissão, tampouco negativa de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Quanto à alegação de violação aos arts. 139, I; 371 e 373, I e II, do CPC; e 884 do CC, examinar as teses suscitadas pelos recorrentes demandaria o reexame do material probatório, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ.
+Ademais, a análise da documentação contratualmente exigida para a cobrança, mencionada no acórdão (fl. 354), bem como da cláusula sexta do instrumento contratual, que define a documentação, atrai também a incidência da Súmula 5 do STJ: "A simples interpretação de cláusula contratual não enseja recurso especial".
+A alegação de que se busca apenas a revaloração jurídica da prova não se sustenta, pois o que se pretende é, na essência, uma nova análise dos fatos e das provas para se alcançar conclusão diversa daquela firmada pelo Tribunal de origem, o qual já procedeu à valoração do conjunto probatório e concluiu pela sua insuficiência.
+Este Tribunal Superior tem jurisprudência consolidada no sentido de que, se a análise da pretensão recursal demanda o reexame de matéria fático-probatória e a interpretação de cláusulas contratuais, incidem os óbices das Súmulas 5 e 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, nego provimento ao agravo interno.
