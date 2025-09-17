@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSO PENAL. ESTELIONATO. INDULTO PRESIDENCIAL. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. REPRESENTAÇÃO DA VÍTIMA. PRESCINDIBILIDADE DE FORMALIDADES. PLEITO DE ABSOLVIÇÃO E DE RECONHECIMENTO DA FORMA PRIVILEGIADA. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que a análise acerca do preenchimento dos requisitos para a concessão do indulto presidencial é de competência do Juízo da Execução, não cabendo a este Tribunal se manifestar originariamente sobre o tema, sob pena de indevida supressão de instância.
+2. O entendimento do Tribunal de origem, que reconheceu como válida a representação da vítima manifestada perante a autoridade policial, ainda que sem formalidades, alinha-se à jurisprudência pacífica do Superior Tribunal de Justiça.
+3. A pretensão de absolvição por atipicidade da conduta, fundada na ausência de dolo ou de dano, bem como de reconhecimento do estelionato privilegiado, quando o acórdão recorrido, soberano na análise das provas, concluiu pela existência de prévio intuito fraudulento e de elevado prejuízo patrimonial, encontra óbice no enunciado da Súmula n. 7 do STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MILTON RODRIGUES JUNIOR contra decisão monocrática de minha relatoria (e-STJ fls. 2018-2022), que, ao acolher embargos de declaração com efeitos infringentes para sanar omissão, não conheceu do recurso especial interposto às e-STJ fls. 1819-1849.
+A parte agravante requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do seu recurso especial (e-STJ fls. 2029-2057). Sustenta, em síntese, que o Tribunal de Justiça era competente para analisar o pleito de indulto, pois não há execução penal em curso, não houve representação válida das vítimas, o que acarretaria a extinção da punibilidade, sendo inaplicável o precedente utilizado na decisão agravada e as teses de atipicidade da conduta e de cabimento do estelionato privilegiado não demandam reexame de provas, mas apenas a revaloração jurídica de fatos incontroversos, não incidindo, portanto, o óbice da Súmula n. 7/STJ.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSO PENAL. ESTELIONATO. INDULTO PRESIDENCIAL. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. REPRESENTAÇÃO DA VÍTIMA. PRESCINDIBILIDADE DE FORMALIDADES. PLEITO DE ABSOLVIÇÃO E DE RECONHECIMENTO DA FORMA PRIVILEGIADA. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que a análise acerca do preenchimento dos requisitos para a concessão do indulto presidencial é de competência do Juízo da Execução, não cabendo a este Tribunal se manifestar originariamente sobre o tema, sob pena de indevida supressão de instância.
+2. O entendimento do Tribunal de origem, que reconheceu como válida a representação da vítima manifestada perante a autoridade policial, ainda que sem formalidades, alinha-se à jurisprudência pacífica do Superior Tribunal de Justiça.
+3. A pretensão de absolvição por atipicidade da conduta, fundada na ausência de dolo ou de dano, bem como de reconhecimento do estelionato privilegiado, quando o acórdão recorrido, soberano na análise das provas, concluiu pela existência de prévio intuito fraudulento e de elevado prejuízo patrimonial, encontra óbice no enunciado da Súmula n. 7 do STJ.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Conforme assentei na decisão impugnada, as teses veiculadas no recurso especial de e-STJ fls. 1819-1849 encontram óbice na jurisprudência desta Corte e na Súmula n. 7/STJ. Reitero os fundamentos ali expostos (e-STJ fls. 2018-2022):
+Quanto à alegação de direito ao indulto, o Tribunal de origem consignou que "a questão deverá ser dirimida, inicialmente, perante o Juízo das Execuções Penais competente, notadamente por não possuir o apelante foro por prerrogativa de função que desloque a competência para apreciação de seus pleitos diretamente por esta Corte, o que implicaria, ademais, em inaceitável supressão de instância" (e-STJ fl. 1770). Tal entendimento está em perfeita harmonia com a jurisprudência deste Superior Tribunal, que atribui ao Juízo da Execução a competência para analisar o preenchimento dos requisitos para a concessão da benesse. Nesse sentido:
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DIVERGÊNCIA. INADIMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. INCIDÊNCIA DAS SÚMULAS N. 315/STJ E 168/STJ. CISÃO DE JULGAMENTO. DESNECESSIDADE. PRECEDENTES. INDULTO NATALINO. DECRETO N. 11.302/2022. EXTINÇÃO DA PUNIBILIDADE. COMPETÊNCIA. INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. MANUTENÇÃO DA DECISÃO RECORRIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+III - Não cabe a esta Corte se manifestar sobre a possibilidade de concessão do indulto antes que as instâncias ordinárias o tenham feito, sob pena de indevida e ilegal supressão de instância.
+Precedentes.
+IV - Agravo regimental improvido.
+(AgRg nos EREsp n. 1.922.866/PR, relator Ministro Francisco Falcão, Corte Especial, julgado em 25/2/2025, DJEN de 28/2/2025.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE RELATOR QUE INDEFERIU LIMINARMENTE HABEAS CORPUS IMPETRADO NO TRIBUNAL DE JUSTIÇA. DECISÃO COATORA IMPUGNADA, NA SEGUNDA INSTÂNCIA, POR AGRAVO REGIMENTAL AINDA PENDENTE DE JULGAMENTO. PLEITO DE CONCESSÃO DE INDULTO NÃO FORMULADO PERANTE O JUÍZO DE EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. PEDIDO ALTERNATIVO DE CONCESSÃO DE PRISÃO DOMICILIAR QUE DEPENDE DO EXAME DE OUTRO ATO COATOR. IMPOSSIBILIDADE DE IMPETRAÇÃO DE UM ÚNICO WRIT PARA IMPUGNAR DOIS ATOS COATORES DISTINTOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Uma vez que o pleito de concessão de indulto não foi submetido à prévia apreciação do Juízo de Execução, tampouco tendo o Tribunal de Justiça se manifestado sobre o tema, é inviável o exame da questão por esta Corte, nesta fase do processo, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 821.253/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+No que tange à violação ao art. 171, § 5º, do Código Penal, o acórdão recorrido rechaçou a tese com a seguinte fundamentação (e-STJ fl. 1662):
+Ainda em preâmbulo, no que tange à necessidade de representação dos ofendidos, tal tese, igualmente, não comporta acolhimento.
+A uma, porque os fatos se deram antes da alteração legislativa (§ 5º do art. 171 do CP - acrescentado pela Lei n. 13.964/2019 - Pacote Anticrime). A duas, pois as vítimas, tão logo tomaram conhecimento da conduta praticada, compareceram, de forma espontânea, e representadas por advogados, perante a Autoridade Policial, ocasião na qual requereram a abertura de inquérito policial (fls 9/13, 49/51 e 495), mostrando-se irrelevante posterior retratação, a teor do que determinam os artigos 102 do Código Penal c. c. 25 do Código de Processo Penal1.
+Tendo em vista que a representação dos ofendidos não exige formalidades, considera-se representação a notícia do suposto crime pela vítima em boletim de ocorrência e termo de suas declarações na fase policial, em que se nota inequívoco interesse na persecução penal.
+A decisão recorrida, portanto, alinha-se ao entendimento pacificado nesta Corte Superior. Conforme precedente desta Corte:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. ESTELIONATO. RETROATIVIDADE DA LEI. REPRESENTAÇÃO DA VÍTIMA. INEXIGÊNCIA DE MAIORES FORMALIDADES. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto contra decisão que denegou habeas corpus no qual se discute a retroatividade do art. 171, § 5º, do Código Penal, incluído pela Lei n. 13.964/2019, que condiciona a ação penal por estelionato à representação da vítima.
+2. O Tribunal de origem determinou a retomada do trâmite processual, considerando que a denúncia foi oferecida antes da vigência da nova lei e que as vítimas demonstraram interesse na persecução penal.
+3. A jurisprudência do STJ e do STF estabelece que a retroatividade da norma que condiciona a ação penal à representação da vítima não se aplica quando haja demonstração inequívoca do interesse da vítima na persecução penal.
+4. No caso concreto, as vítimas registraram boletim de ocorrência e prestaram declarações perante a autoridade policial, demonstrando claramente o interesse na responsabilização penal do acusado, o que torna desnecessária a intimação formal para representação.
+5. Agravo regimental improvido.
+(AgRg no HC n. 873.107/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025.)
+Por fim, as teses de atipicidade da conduta por ausência de dolo e de dano, bem como de cabimento do estelionato privilegiado, não podem ser conhecidas. O Tribunal a quo, soberano na análise das provas, concluiu pela robustez do conjunto probatório para a condenação, assentando que "em restando comprovado ter o sentenciado, agindo com dolo prévio, empregado expediente fraudulento, com o intuito de obter vantagem ilícita, em prejuízo alheio, como no presente caso, caracterizados estão os delitos de estelionato" (e-STJ fl. 1670). Afirmou, ainda, o "elevado prejuízo patrimonial às vítimas" (e-STJ fl. 1673) , o que afasta, por si só, a tese de privilégio, especialmente diante dos valores descritos na denúncia, de R$ 1.700.000,00 e R$ 437.844,19 (e-STJ fls. 1663-1664).
+Nesse contexto, a reversão do julgado para acolher as alegações da defesa demandaria, inevitavelmente, o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, a teor do enunciado da Súmula n. 7 do STJ. Esta Corte tem decidido que o pleito de absolvição por insuficiência de provas ou de desclassificação da conduta para forma privilegiada, quando amparado em teses que contradizem as premissas fáticas firmadas pelas instâncias ordinárias, encontra óbice no referido verbete sumular. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO E APROPRIAÇÃO INDÉBITA. CONEXÃO. REUNIÃO DE PROCESSOS. FACULDADE DO JULGADOR. REPRESENTAÇÃO DA VÍTIMA. INEXIGÊNCIA DE FORMALIDADES. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A representação da vítima, nos crimes cuja ação penal é condicionada, não exige maiores formalidades, basta a demonstração inequívoca do interesse na persecução penal.
+3. O Tribunal de origem, ao manter a condenação do réu pela prática dos crimes de estelionato e apropriação indébita, assentou a tipicidade das condutas, de modo que para decidir pela absolvição, seria necessária a incursão no conjunto fático-probatório, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.334.663/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2025, DJEN de 25/6/2025.)
+Com efeito, as razões do agravo regimental apenas reiteram os argumentos já enfrentados, sem demonstrar erro ou teratologia na decisão agravada. A alegação de que o Tribunal de origem seria competente para analisar o indulto não afasta a consolidada orientação de que a esta Corte Superior é vedado examinar a matéria de forma originária, sob pena de supressão de instância.
+Da mesma forma, a conclusão do acórdão recorrido sobre a suficiência da representação das vítimas está em consonância com o entendimento deste Tribunal, e a verificação das particularidades do caso concreto para afastar tal premissa implicaria incursão fática.
+Finalmente, a aplicação da Súmula n. 7/STJ é inafastável, uma vez que o Tribunal de origem, com base nas provas dos autos, firmou a existência de dolo e de relevante dano patrimonial, elementos que o agravante busca desconstituir com base em uma reinterpretação dos fatos e de documentos, o que é vedado na via especial.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
