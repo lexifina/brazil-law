@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA NO MÍNIMO LEGAL. DISCRICIONARIEDADE DO JULGADOR. CONSIDERAÇÃO DAS PARTICULARIDADES FÁTICAS E CONCRETAS DOS AUTOS. LEGALIDADE E PROPORCIONALIDADE OBSERVADAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte Superior, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada violação à lei, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+2. No caso dos autos, não vislumbro, no procedimento dosimétrico adotado pelo Tribunal de origem, nenhuma ofensa a legislação federal apta a ensejar o redimensionamento da pena por esta instância extraordinária.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por WILMAR CRISTOVAO DE MATTOS contra a decisão de e-STJ fls. 284/289, por meio da qual neguei provimento ao seu recurso especial.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 276/282, in verbis:
+Trata-se de recurso especial interposto por WILMAR CRISTOVAO DE MATTOS contra acórdão proferido pela 7ª Turma do Tribunal Regional Federal da 4ª Região que, por maioria, deu parcial provimento ao apelo defensivo nº 5015123-20.2023.4.04.7009, onde se requeria a absolvição por ausência de materialidade delitiva, ou aplicação do princípio da insignificância ou, subsidiariamente, fixação da pena-base no mínimo legal, restando assim ementado (fl. 216):
+"EMENTA PROCESSUAL PENAL. DESCAMINHO. ART. 334 DO CÓDIGO PENAL. LAUDO MERCEOLÓGICO DESNECESSIDADE. PRINCIPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. MATERIALIDADE AUTORIA E DOLO COMPROVADOS. SENTENÇA CONDENATÓRIA MANTIDA. DOSIMETRIA DA PENA. VETORIAL CIRCUNSTÂNCIAS DO CRIME. FRAÇÃO DE AUMENTO. REDUÇÃO. PENA PRIVATIVA DE LIBERDADE REDUZIDA. REGIME ABERTO. SUBSTITUIÇÃO POR DUAS PENAS RESTRITIVAS DE DIREITOS. PRESTAÇÃO DE SERVIÇOS A COMUNIDADE E PRESTAÇÃO PECUNIÁRIA. GRATUIDADE DA JUSTIÇA. JUÍZO DA EXECUÇÃO. PENAL. NÃO CONHECIMENTO.
+1. Sendo a Receita Federal do Brasil órgão responsável pelo controle e repressão do ingresso irregular de mercadorias estrangeiras no território brasileiro, gozam seus agentes de aptidão técnica para diagnosticar a origem estrangeira e a mensuração do seu valor, sendo desnecessária a elaboração de laudo merceológico para constatação da materialidade do crime de contrabando ou descaminho.
+2. Comprovada nos autos a habitualidade delitiva tem-se caracterizada a reprovabilidade da conduta de modo a afastar a aplicação do princípio da insignificância.
+3. Comprovadas a materialidade e autoria delitiva, bem assim o dolo do acusado, sendo o fato típico, antijurídico e culpável, e inexistindo causas excludentes, mantém-se a condenação do réu pela prática do crime de descaminho.
+4. O uso de veículos com compartimentos preparados para dificultar a fiscalização é fundamento que se encaixa na negativação da vetorial das circunstâncias do crime.
+5. O ordenamento jurídico não estabeleceu um critério fixo de aumento para cada circunstância judicial, deixando a critério do magistrado, que deve obedecer os limites mínimos e máximos da pena prevista para o delito cometido pelo réu e apresentar fundamentação seguindo a razoabilidade e proporcionalidade.
+6. Pena privativa de liberdade reduzida em face da diminuição do quantum de aumento da vetorial circunstâncias do crime.
+7. Mantido o regime aberto, em virtude da quantidade da pena imposta, inferior a 4 (quatro) anos, nos termos do artigo 33, § 2º, alínea c, do Código Penal.
+8. Aplicada pena que não supera 4 (quatro) anos de reclusão e atendidos os demais requisitos previstos no artigo 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritivas de direitos, as quais proporcionam meio menos gravoso de cumprimento da pena.
+9. A alegada situação de insuficiência de recursos por parte do réu não impede a sua condenação nas custas e despesas processuais, cabendo ao juízo da execução penal a apreciação do pedido da gratuidade da justiça".
+Opostos embargos infringentes, foram desprovidos com a seguinte ementa (fl. 238):
+"EMENTA EMBARGOS INFRINGENTES E DE NULIDADE. DOSIMETRIA DA PENA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. ATENUANTE. CONFISSÃO ESPONTÂNEA. FRAÇÃO DE 1/6. JURISPRUDÊNCIA.
+1. Esta Corte adota o critério utilizado pelo Superior Tribunal de Justiça de aplicar 1/6 (um sexto) sobre a pena-base, tanto para acréscimo quanto redução da pena decorrente do reconhecimento de agravantes ou atenuantes, de modo que o emprego de fração diversa, por consistir exceção, reclama situação excepcional.
+2. Tratando-se de hipótese que não destoa dos casos ordinariamente trazidos a julgamento, deve ser empregada a fração de 1/6 na segunda fase da dosagem da pena, consoante assentado na jurisprudência pátria".
+Em seu recurso especial a defesa sustenta que o v. Acórdão recorrido violou os artigos 45; 59; 65, III, d, todos do Código Penal ao manter a negativação negativa das circunstâncias do crime, com fundamentação genérica e em fração diversa de 1/6 (fls. 241/258).
+Requer o afastamento da negativação das circunstâncias do crime ou, subsidiariamente, redução do aumento da pena-base para 2 meses na primeira fase da dosimetria, reconhecimento de fração superior à 1/6 da atenuante da confissão espontânea, com redimensionamento da pena.
+Contrarrazões apresentadas às fls. 259/267.
+Decisão admissibilidade inserta às fls. 268/269.
+Vieram os autos para manifestação.
+É o breve relatório.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+Neste agravo regimental, a defesa repisa os argumentos deduzidos anteriormente, requerendo, desse modo, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. DOSIMETRIA DA PENA. REPRIMENDA BÁSICA NO MÍNIMO LEGAL. DISCRICIONARIEDADE DO JULGADOR. CONSIDERAÇÃO DAS PARTICULARIDADES FÁTICAS E CONCRETAS DOS AUTOS. LEGALIDADE E PROPORCIONALIDADE OBSERVADAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte Superior, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada violação à lei, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+2. No caso dos autos, não vislumbro, no procedimento dosimétrico adotado pelo Tribunal de origem, nenhuma ofensa a legislação federal apta a ensejar o redimensionamento da pena por esta instância extraordinária.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, que deve ser integralmente mantida, in verbis (e-STJ fls. 286/289):
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Acerca da controvérsia, o Tribunal de origem assim consignou (e-STJ fl. 214):
+Ao crime de descaminho aplica-se a pena de 1 (um) a 4 (quatro) anos de reclusão.
+Na primeira fase, o juízo de primeiro grau examinou as circunstâncias judiciais do art. 59 do Código Penal, considerando negativa a vetorial circunstâncias do crime. Diante disso, fixou a pena- base em 1 (um) ano 4 (quatro) meses e 15 (quinze) dias de reclusão.
+Quanto às circunstâncias do crime, o magistrado de primeiro grau considerou negativa porque o réu ocultou conscientemente a mercadoria, a fim de impedir a atuação policial.
+Consta do Auto de Infração (processo 5015123-20.2023.4.04.7009/PR, evento 1, DOC2 fl. 12) que as mercadorias foram encontradas ocultas no automóvel FORD/FIESTA 1.6 FLEX de placas AWX0D27, dentro do painel de instrumentos e no interior dos bancos, em compartimentos adrede preparados para o transporte de ilícitos.
+ ..
+No que diz respeito à fração de aumento, mesmo não havendo um critério matemático impositivo quanto ao patamar de valoração de cada vetorial, entendo que o acréscimo de 4 (quatro) meses e 15 (quinze) dias para a negativada (circunstâncias do crime) mostra-se exacerbado. Desse modo, reduzo a elevação da pena relativa à vetorial ao patamar de 3 (três) meses e fixo a pena- base em 1 (um) ano e 3 (três) meses.
+N a segunda fase, ausentes agravantes, e reconhecida corretamente a atenuante de confissão espontânea, reduzo a pena em 1/6 (um sexto), fixando a pena provisória em 1 (um) ano e 15 (quinze) dias de reclusão.
+N a terceira fase, inexistentes causas de aumento e diminuição, resta fixada a pena definitiva em 1 (um) ano e 15 (quinze) dias de reclusão.
+Da análise do trecho transcrito, não vislumbro a existência de ilegalidade quanto ao aumento da pena-base, já que feita referência, no cálculo dosimétrico, à gravidade concreta do delito praticado, traduzida no fato de o réu ter ocultado conscientemente a mercadoria, a fim de impedir a atuação policial.
+De fato, da leitura da sentença condenatória, verifica-se que a dinâmica delitiva revelou a existência de circunstâncias que denotaram a gravidade da ação, com a presença de elementos mais gravosos do que aqueles ínsitos aos tipos penais em comento.
+Ademais, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou, ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas, neste último caso, que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+Digno de nota, ainda, que, na linha da jurisprudência do STJ, apenas a "utilização de fração superior a 1/6, para reduzir a pena-base pela confissão espontânea, deve ser acrescida de motivação idônea" (AgRg no AgRg no AREsp n. 1.520.256/SC, relator Ministro Jorge Mussi, Quinta Turma, julgado em 17/10/2019, DJe 28/10/2019).
+Nesse mesmo sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. HOMICÍDIO QUALIFICADO. CONFISSÃO ESPONTÂNEA QUALIFICADA. REDUÇÃO DA PENA INFERIOR A 1/6. MOTIVAÇÃO IDÔNEA DECLINADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+3. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+4. No caso, o Colegiado de origem limitou-se a reduzir a reprimenda na fração de 1/12 pela incidência da atenuante do art. 65, III, "d", do CP, pois o réu afirmou ter agido em legítima defesa, bem como em razão da existência de um vasto conjunto probatório a respaldar a condenação do réu, notadamente declarações de testemunhas presenciais do fato, não havendo, portanto, ilegalidade na segunda fase da dosimetria a justificar a concessão da ordem de ofício, porquanto restou declinada motivação idônea para a redução inferior a 1/6.
+5. Writ não conhecido. (HC 449.831/SC, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/6/2018, DJe 20/6/2018, grifei.)
+Não vislumbro, portanto, a existência das ilegalidades apontadas pela defesa.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
