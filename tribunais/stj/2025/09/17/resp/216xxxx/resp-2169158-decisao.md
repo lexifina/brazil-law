@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto por BARBARA BEATRIZ DIAS RODRIGUES e OUTROS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado, por seu caput:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CNEN. PARÂMETRO DE CÁLCULO. LIMITES DE HORAS EXTRAS. GRATIFICAÇÃO POR RAIO X E IRRADIAÇÃO IONIZANTE NA BASE DE CÁLCULO. AUSÊNCIA DE PREVISÃO NO TÍTULO TRANSITADO EM JULGADO. RECURSO PARCIALMENTE PROVIDO (fl. 49).
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial interposto com fulcro no art. 105, III, a, da Constituição Federal, os recorrentes apontam violação dos arts. 141, 492, 502, 503, 505 e 1.022, II, do CPC; e 41 da Lei 8.112/1990. Alegam, em síntese, ocorrência de reformatio in pejus, pois o acórdão recorrido "determinou que a base de cálculo das horas extras deveria ser apenas o vencimento básico das Recorrentes, ao invés de sua remuneração" (fl. 142).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Inicialmente, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, os recorrentes não demonstram, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+De acordo com a jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+Com efeito, os arts. 41 da Lei 8.112/1990, 141, 492, 502, 503 e 505 do CPC não foram objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Ademais, a alteração das conclusões do Tribunal a quo, sobre os limites e o alcance da coisa julgada, bem como acerca da impossibilidade de se discutir na execução a incidência das horas extras sobre a gratificação de raio-X e o adicional de irradiação ionizante, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
