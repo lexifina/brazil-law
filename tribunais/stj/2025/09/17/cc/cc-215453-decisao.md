@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara do Juizado Especial de Dourados - MS, suscitante, e o Juízo Federal da 15ª Vara do Juizado Especial Cível de Goiânia - GO, suscitado, nos autos da ação ajuizada por TCHARLES ALBERTO BORGES KADAR, em que se pretende a concessão de benefício assistencial à pessoa com deficiência, em face do INSS (fls. 05-10 e-STJ).
+Originariamente a ação foi proposta perante a Justiça Federal de Dourados - SJ/MS e os autos distribuídos ao Juízo da 1ª Vara do Juizado Especial Federal - SJ/MS e, posteriormente redistribuídos, por sorteio, a esta 15ª Vara/JEF/GO, por força da decisão declinatória de competência em razão de o Autor ter alterado o seu domicílio para Goiânia/GO para tratamento psiquiátrico.
+Contudo, o Juízo Federal da 15ª Vara do Juizado Especial Cível de Goiânia - GO declinou da competência (fls. 281-283 e-STJ), ao fundamento:
+Para a concessão do benefício assistencial previsto no art. 203, V, da Constituição da República, no valor de um salário mínimo por mês, a Lei 8.742/1993 impõe a necessidade da satisfação de dois requisitos. O primeiro se traduz na presença de impedimento de longo prazo, de natureza física, mental, intelectual ou sensorial, o qual, em interação com diversas barreiras, possa obstruir a participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, ou idoso com 65 anos ou mais (art. 34 da Lei 10.741/2003 - Estatuto do Idoso).
+O segundo requisito impõe a prova de impossibilidade da parte prover sua própria manutenção ou de tê-la provida por sua família, ou nos termos legais, à pessoa em condição de miserabilidade.
+In casu, o documento encaminhado pelo nosocômio a este juízo com data em 30/04/2025 (id 2184373014), presta informação atualizada de que o autor ainda se encontra ali internado e sem previsão de alta.
+Desse modo, faz-se essencial a realização da perícia médica in loco para aferir o quadro clínico do demandante, de modo a comprovar irrefutavelmente a debilidade apontada.
+Assim, encaminhem-se os autos ao NUCOD/GO para nomear perito médico, a fim de realizar Perícia Médica in loco (PSIQUIATRA) no prazo de 15 (quinze) dias. Fica expressamente vedada a realização de entrevistas por qualquer meio que não seja contato pessoal, sob pena de responsabilização pela prática de crime de falsa perícia (art. 342 do CP).
+Os quesitos a serem respondidos, além dos eventualmente apresentados pelas partes, são os contidos nos anexos da Portaria n. 0001, NUCOD-GO, de 07 de janeiro de 2015.
+Quanto a realização do estudo socioeconômico (ESE), é imperativo tecer alguns esclarecimentos.
+Conforme se infere da peça inaugural, o autor é residente e domiciliado na cidade de Dourados/MS, mais especificamente na Rua Eloisa de Matos Stein, n. 1562, Jardim Novo Horizonte, endereço este constante inclusive no instrumento procuratório anexado.
+Como é sabido, o domicílio é o local onde a pessoa estabelece sua residência com ânimo de ali permanecer em definitivo (art. 70, CC), ou seja, é onde a pessoa se considera estabelecida para efeitos jurídicos.
+Por outro lado, a permanência num hospital, por motivos de tratamento, é normalmente por um período limitado, de curta duração, insuficiente para configurar a intenção de ali fixar-se, portanto não é considerada domicílio.
+Neste sentido, após a juntada do laudo médico pericial, DETERMINO a devolução dos autos ao Juízo da 1ª Vara do Juizado Especial Federal de Dourados (MS), para a continuidade do processamento do feito, com a realização do estudo socioeconômico e posterior julgamento.
+O Juízo Federal da 1ª Vara do Juizado Especial de Dourados -SJ/MS (fls. 295-296 e-STJ), por sua vez, suscitou o conflito negativo de competência, por entender, em síntese, que a competência territorial nos Juizados Especiais Federais (JEFs) é absoluta, o que significa que o autor deve propor a ação no local onde reside, conforme estabelecido no § 3º do artigo 3º da Lei nº 10.259/2001 e por isso o Juizado Especial Cível é absolutamente competente para processar e julgar causas afetas à Justiça Federal.
+O Ministério Público Federal manifestou-se pelo conhecimento e a declaração de competência do Juízo Federal da 1ª Vara do Juizado Especial de Dourados - MS, o suscitante.
+É o relatório. Passo a decidir.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, "d", da Magna Carta.
+A competência territorial é relativa, sendo defeso ao órgão julgador declarar sua incompetência de ofício, que só poderá ser reconhecida por meio de exceção oposta pelo réu, a teor do que preceitua o enunciado da Súmula 33/STJ.
+Ademais, nos termos do art. 43 do CPC/2015, a competência é determinada no momento do registro ou da distribuição da petição inicial, não havendo qualquer relevância nas modificações supervenientes do estado de fato ou de direito, salvo quando houver supressão de órgão judiciário ou alteração da competência absoluta.
+Trata-se da regra da perpetuatio jurisdictionis, que impõe a estabilização da competência.
+Com efeito "a competência territorial, via de regra, é relativa, não podendo ser modificada de ofício pelo magistrado. Em tal caso, prevalece o foro eleito pelas partes, em detrimento da delimitação contida nas leis processuais. Dessa feita, não poderia o juízo suscitado ter reconhecido ex officio a incompetência para processar e julgar a demanda. Incidência da Súmula 33/STJ: "A competência relativa não pode ser declarada de ofício". (CC 113.079/DF, rel. Min. CASTRO MEIRA, PRIMEIRA SEÇÃO, DJe 11/5/2011)
+A propósito, em situações análogas, confira-se:
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA TERRITORIAL. ALTERAÇÃO DE ENDEREÇO APÓS DISTRIBUIÇÃO DE DEMANDA. PERPETUATIO JURISDICTIONIS. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 1ª Vara Cível e Empresarial de Bragança/PA, tendo por suscitado o Juízo de Direito da 2ª Vara Cível de Concórdia-SC, em ação de ressarcimento por danos morais e materiais, ajuizada no foro do domicílio do autor, Concórdia/SC.
+2. Após a distribuição da ação, o autor informou mudança de domicílio, levando à redistribuição dos autos para a Comarca de Bragança, sob o argumento de alteração da competência territorial.
+II. Questão em discussão 3. A questão em discussão consiste em saber se a mudança de domicílio do autor após a distribuição da ação pode alterar a competência territorial inicialmente fixada.
+4. Há também a questão de saber se a escolha do foro pelo autor foi aleatória, contrariando o princípio do juízo natural.
+III. Razões de decidir 5. A competência é determinada no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, conforme o art. 43 do Código de Processo Civil.
+6. A escolha do foro pelo autor, no momento da propositura da ação, não foi aleatória, pois o foro escolhido era o de seu domicílio à época, respeitando a regra do Código de Defesa do Consumidor.
+7. O princípio da perpetuatio jurisdictionis impede a alteração da competência em razão de mudança de domicílio do autor após a distribuição da ação.
+IV. Dispositivo 8. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Cível de Concórdia-SC.
+(CC n. 210.431/PA, rel. Min. Daniela Teixeira, Segunda Seção, DJEN de 24/6/2025.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ELEIÇÃO DO FORO. COMPETÊNCIA TERRITORIAL. COMPETÊNCIA RELATIVA. DECLÍNIO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33 DO STJ. CONFLITO CONHECIDO PARA DECLARAR O JUIZ DE DIREITO SUSCITADO COMPETENTE PARA O PROCESSAMENTO DO FEITO.
+1. A jurisprudência deste Superior Tribunal de Justiça pacificou no sentido de que a competência territorial é relativa, sendo restrito às partes a possibilidade de questionamento acerca da (in)competência do juízo onde for proposta a ação, descabendo ser declarada de ofício.
+2. Ainda que assim não o fosse, o autor da ação tem a discricionariedadede eleger, dentro das limitações legais, o foro que melhor atender seus interesses, motivo pelo qual, no caso dos autos, tendo a parte escolhido a sede da pessoa jurídica demandada como foro para o ajuizamento da ação - art. 53, III, a, do Código de Processo Civil - não há que falar em escolha aleatória de foro que justifique o declínio de ofício pelo magistrado, cabendo ao réu, caso entenda ser o caso, apresentar exceção de incompetência.
+3. Conflito conhecido para declarar o Juiz de Direito da 3ª Vara Cível deBrasília - DF, ora suscitado, competente para o processamento do feito
+(CC n. 194.898/TO, rel. Min. Afrânio Vilela, Primeira Seção, DJe de 26/4/2024.)
+CONFLITO DE COMPETÊNCIA. JUIZADO ESPECIAL FEDERAL. PERPETUATIO IURISDICTIONIS.
+1. A regra da perpetuatio iurisdictionis, prevista no CPC, orienta o processo civil em geral, exatamente porque preserva o princípio do juízo natural, que tem sede constitucional.
+2. Nas ações em trâmite nos Juizados Especiais Federais, a mudança de domicílio do autor não determina alteração de competência do juízo onde proposta a demanda.
+(CC n. 80.210/SP, relator Ministro Humberto Gomes de Barros, Segunda Seção, julgado em 12/9/2007, DJ de 24/9/2007.)
+Assim, a mudança de domicílio do autor não implica alteração de competência do juízo onde proposta a demanda.
+Ante o exposto, conheço do conflito negativo e declaro a competência do Juízo Federal da 1ª Vara do Juizado Especial de Dourados - MS, o suscitante.
+Dê-se ciência aos Juízos envolvidos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. BENEFÍCIO ASSISTENCIAL. JUSTIÇA FEDERAL DE DOURADOS - SJ/MS E JUSTIÇA FEDERAL DE GOIAS - SJ/GO. BENEFÍCIO ASSISTENCIAL. COMPETÊNCIA FIXADA NO MOMENTO DO AJUIZAMENTO DA AÇÃO. DOMICÍLIO DO POSTULANTE. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO FEDERAL SUSCITANTE.
