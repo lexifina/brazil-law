@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ARTHUR RAYNER DIAS COSTA E JOÃO VITOR VILAS FOGAÇA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Narra a defesa que os pacientes foram presos em flagrante pela suposta prática dos crimes previstos nos artigos 33 e 34, caput, da Lei n. 11.343/2006, em razão da apreensão de aproximadamente 1,056 kg (um quilo e cinquenta e seis gramas) de substância análoga à cocaína e 17,954 kg (dezessete quilos, novecentos e cinquenta e quatro gramas) de substância análoga à maconha.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 11-18.
+No presente writ, a defesa sustenta que a decisão que decretou a prisão preventiva dos pacientes carece de fundamentação concreta, tendo se baseado apenas na gravidade abstrata dos crimes e na quantidade de drogas apreendidas, sem demonstrar elementos concretos que justifiquem o periculum libertatis.
+Alega que os pacientes são primários, possuem bons antecedentes, endereço fixo e ocupação lícita, sendo Arthur Rayner proprietário de uma lanchonete e João Vitor proprietário de uma loja virtual de roupas e sócio em uma conveniência.
+Afirma que não há elementos que indiquem o envolvimento dos pacientes com organizações criminosas ou que demonstrem risco à instrução criminal ou à ordem pública, sendo suficientes, no caso, a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a substituição por medidas cautelares diversas da prisão.
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva permite a conclusão de que as prisões cautelares impostas aos Pacientes encontram-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade e variedade de droga apreendida - Apreensão de 18,100 kg (dezoito quilos e cem gramas) de substância identificada como maconha e 1,100 kg (um quilo e cem gramas) de substância identificada como cloridrato de cocaína- fl. 15.
+A propósito:
+"A gravidade concreta dos delitos e a periculosidade do agente, evidenciadas pela quantidade e variedade de entorpecentes apreendidos, justificam a manutenção da prisão preventiva para garantir a ordem pública." (AgRg no HC n. 870.947/ES,Minha relatoria, Quinta Turma, julgado em 27/11/2024, DJe de 6/12/2024.)
+A prisão preventiva está fundamentada na gravidade concreta da conduta, evidenciada pela apreensão de variedade e quantidade de entorpecentes, a bem da ordem pública."(AgRg no RHC n. 204.354/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: (AgRg no HC n. 946.193/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem aos pacientes a revogação das prisões preventivas se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
