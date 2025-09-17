@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/09/2025 a 17/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. BUSCA DOMICILIAR E PESSOAL. ALEGAÇÃO DE NULIDADE. FUNDADAS RAZÕES E FUNDADA SUSPEITA CONFIGURADAS. ATENDIMENTO À OCORRÊNCIA DE PERTURBAÇÃO DO SOSSEGO. EVASÃO DOS INDIVÍDUOS PARA O INTERIOR DO IMÓVEL. DECLARAÇÃO ESPONTÂNEA DO ABORDADO SOBRE PORTE DE ARMA. LEGALIDADE DAS DILIGÊNCIAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+RELATÓRIO
+Jeferson Valdir Rodrigues de Souza interpõe agravo regimental contra a decisão monocrática, de minha lavra, assim ementada (fls. 481):
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. BUSCA DOMICILIAR E PESSOAL. ALEGAÇÃO DE NULIDADE. FUNDADAS RAZÕES E FUNDADA SUSPEITA CONFIGURADAS. ATENDIMENTO À OCORRÊNCIA DE PERTURBAÇÃO DO SOSSEGO. EVASÃO DOS INDIVÍDUOS PARA O INTERIOR DO IMÓVEL. DECLARAÇÃO ESPONTÂNEA DO ABORDADO SOBRE PORTE DE ARMA. LEGALIDADE DAS DILIGÊNCIAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
+A defesa sustenta, em síntese, a inaplicabilidade da Súmula 7/STJ, uma vez que as nulidades afastam a necessidade de revaloração da prova; a busca pessoal e domiciliar realizada pelos policiais foi ilegal, pois não havia fundada suspeita que justificasse tais ações (fls. 492/493); a chamada em ocorrência por perturbação do sossego não autoriza o ingresso de policiais militares na propriedade alheia (fl. 493); e inexistência de fundada suspeita que autorizasse a abordagem do agravante e dos demais, ensejando a declaração de nulidade do flagrante e de todo o processo, tendo em vista os atos posteriores estarem contaminados pelas provas ilícitas (fl. 496).
+Por fim, requer a reconsideração da decisão agravada ou a submissão do presente recurso a julgamento pelo órgão colegiado, para que ao fim seja reconhecida a nulidade das provas ilícitas (fl. 496).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. BUSCA DOMICILIAR E PESSOAL. ALEGAÇÃO DE NULIDADE. FUNDADAS RAZÕES E FUNDADA SUSPEITA CONFIGURADAS. ATENDIMENTO À OCORRÊNCIA DE PERTURBAÇÃO DO SOSSEGO. EVASÃO DOS INDIVÍDUOS PARA O INTERIOR DO IMÓVEL. DECLARAÇÃO ESPONTÂNEA DO ABORDADO SOBRE PORTE DE ARMA. LEGALIDADE DAS DILIGÊNCIAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade. No mérito, todavia, não deve ser provido, devendo ser mantida a decisão por seus próprios fundamentos.
+Conforme destaquei na decisão agravada, o quadro fático estabelecido pelo acórdão recorrido indica que os agentes foram acionados para atender ocorrência de possível perturbação do sossego, decorrente do som elevado de uma festa que estaria prejudicando a realização de provas de concurso público. Durante a abordagem, os frequentadores evadiram-se para o interior do imóvel e telhados de residências vizinhas. Ressaltou-se que o local adentrado pelos policiais, onde se realizava o evento, não correspondia ao domicílio do agravante. E, quanto à busca pessoal, que o próprio agravante, ao ser abordado, declarou portar uma arma na cintura, antes mesmo de qualquer revista, circunstância que configurou fundada suspeita e legitimou a atuação dos policiais.
+Diante desse cenário, a moldura fática delineada pela instância ordinária demonstra que a atuação policial se amparou em elementos concretos que justificaram tanto a entrada no imóvel quanto a busca pessoal. A diligência foi iniciada em razão de uma denúncia de perturbação do sossego, e a evasão dos indivíduos para dentro da casa configurou fundada suspeita da ocorrência de outras práticas ilícitas. A posterior confissão espontânea do agravante sobre o porte da arma apenas reforçou a legalidade da abordagem, nos termos do art. 244 do Código de Processo Penal.
+Tais elementos, em conjunto, configuram a justa causa necessária para a realização das diligências, as quais foram posteriormente validadas pela apreensão do material ilícito.
+Desse modo, é evidente que a análise da tese defensiva, no sentido de que o quadro fático não seria suficiente para legitimar a ação policial, demandaria o revolvimento do con junto probatório dos autos, procedimento vedado nesta via extraordinária, a teor da Súmula 7/STJ.
+Na mesma linha: AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.410.757/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/2/2025, DJEN de 10/2/2025; AgRg no AgRg no AREsp n. 2.678.660/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/11/2024, DJe de 7/11/2024, e AgRg no AgRg no AREsp n. 2.666.567/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/9/2024, DJe de 17/9/2024.
+Não vislumbro, assim, razões para alterar a decisão agravada.
+Ante o exposto, ne g o provimento ao agravo regimental.
