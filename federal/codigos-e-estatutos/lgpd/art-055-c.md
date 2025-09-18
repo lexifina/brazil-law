@@ -4,4 +4,6 @@ II - Conselho Nacional de Proteção de Dados Pessoais e da Privacidade;
 III - Corregedoria;
 IV - Ouvidoria;
 V - (revogado);
+V-A - Procuradoria;
+V-B - Auditoria; e
 VI - unidades administrativas e unidades especializadas.

@@ -42,8 +42,6 @@ CAPÍTULO IX
 DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE'
 Seção I
 Da Agência Nacional de Proteção de Dados
-V-A - Procuradoria;
-V-B - Auditoria; e
 Seção II
 Do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade
 CAPÍTULO X
