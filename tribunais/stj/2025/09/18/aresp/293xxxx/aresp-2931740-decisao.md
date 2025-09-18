@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por Município de São Jose de Caiana contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba , assim ementado (fl. 322):
+AÇÃO CIVIL PÚBLICA. DIREITO AMBIENTAL. PROCEDÊNCIA PARCIAL NA ORIGEM. IRRESIGNAÇÃO DO RÉU. IRREGULARIDADE NO MANEJO E NA DESTINAÇÃO DOS RESÍDUOS SÓLIDOS NO ÂMBITO DA EDILIDADE. CONDENAÇÃO DO ENTE MUNICIPAL À RECOMPOR A ÁREA DEGRADADA, CONFORME PLANO DE RECUPERAÇÃO (PRAD), OU A INDENIZAR O DANO CAUSADO NA IMPOSSIBILIDADE. AUSÊNCIA DE PROVA DA RECOMPOSIÇÃO INTEGRAL DAS CONDIÇÕES AMBIENTAIS PRETÉRITAS. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 2º, II e XIV, da Lei n. 9.985/2000, sustentando que "as medidas cabíveis para a preservação do local e a devida primazia de recuperação foram todas executadas pelo município, o que refletiu na recomposição da área anteriormente utilizada como lixão." (fl. 380). Aduz que "não há fundamentação na continuidade de condenação no que tange a recomposição da área, sendo que, na prática, já se observa a sua restauração e, portanto, recomposição, assim como não cabe indenização visto que não existe impossibilidade ou insuficiência de recuperação, a área foi devidamente recomposta." (fl. 381)
+Foram ofertadas contrarrazões às fls. 383/389.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo desprovimento do agravo em recurso especial (fls. 430/435).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, ao tratar do tema, o Tribunal de origem destacou (fl. 337):
+Da análise do Relatório de Fiscalização da SUDEMA, pode-se verificar que o Município de São José de Caiana não possui processo relacionado ao gerenciamento de resíduos sólidos e não apresentou o Plano de Recuperação de Áreas Degradadas - PRAD, ao contrário do que sustentou o recorrente, mas de forma alguma se pode concluir que tenha promovido a integral recomposição das áreas degradadas, inclusive com a elaboração de plano para tal finalidade, com o objetivo de restaurar os danos ambientais causados à área afetada.
+Ademais, não existem nos autos elementos probatórios a evidenciar que o solo, a fauna e a flora da área utilizada para o antigo lixão foram integralmente restaurados, com a plena recomposição das condições ambientais pretéritas
+No caso, restou demonstrado que a edilidade demandada, apesar de ciente das condições inadequadas da área afetada, não adotou as medidas necessárias para sanar a omissão noticiada nos autos, olvidando-se em agir de forma satisfatória no sentido de fazer cumprir, tempestiva e adequadamente, a restauração ao status quo ante do bem lesado.
+Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Neste sentido:
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE MATÉRIA DE FATO. CARACTERIZAÇÃO DO DANO. INEXISTÊNCIA DE NEXO CAUSAL. FUNDAMENTAÇÃO DEFICIENTE. DECISÃO MANTIDA. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. NÃO CABIMENTO. AGRAVO INTERNO PROVIDO EM PARTE.
+1. Inadmissível o recurso especial cujo debate envolva dilação probatória fundamentada no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido para o reconhecimento do dever de indenizar em virtude da caracterização do dano ambiental, em razão da incidência do enunciado da Súmula 7 do STJ.
+2. Impossibilidade de conhecimento do recurso especial em relação à alegada inexistência de nexo causal para caracterização do dano, formulada de forma genérica, sem indicação de dispositivos legais a fundamentar a pretensão. Dessa forma, em razão da deficiente fundamentação recursal no ponto, incide a Súmula 284 do STF.
+3. Merece provimento em parte o agravo interno para afastar a condenação em honorários, porque, na linha da iterativa jurisprudência desta Corte, em razão da aplicação do princípio da simetria, não é cabível a condenação do réu da ação civil pública ao pagamento de honorários advocatícios. Precedentes.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.048.954/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/9/2023, DJe de 2 1/9/2023 - g.n.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
