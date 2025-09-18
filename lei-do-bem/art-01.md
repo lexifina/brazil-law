@@ -1,2 +1,2 @@
-Art. 1º Fica instituído o Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia da Informação - Repes, nos termos desta Lei.
-Parágrafo único. O Poder Executivo disciplinará, em regulamento, as condições necessárias para a habilitação ao Repes.
+Art. 1º Ficam instituídos o Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia da Informação - REPES e o Regime Especial de Tributação para Serviços de Datacenter - REDATA, nos termos do disposto nesta Lei.
+Parágrafo único. O Poder Executivo federal disciplinará, em regulamento, as condições necessárias para a habilitação ao REPES e a habilitação e a coabilitação ao REDATA.
