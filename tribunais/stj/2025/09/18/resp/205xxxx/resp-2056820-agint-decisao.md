@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interno interposto por Marco Geraldo Abrahão Schorr e outros contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 915):
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. HONORÁRIOS EXECUTIVOS. PRECLUSÃO. FUNDAMENTO INATACADO. SÚMULA 283/STF. 3. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+Nas razões do agravo interno, os recorrentes sustentam que: (i) seria omissa a decisão ora agravada; (ij) o Tribunal de origem, apesar de instado, não examinou as questões suscitadas nos embargos de declaração; e (iii) o recurso especial teria sido adequadamente fundamentado, não incidindo a Súmula 283/STF.
+Impugnação às fls. 962-966 (e-STJ).
+Brevemente relatado, decido.
+Diante dos fundamentos trazidos no presente recurso, nos termos do § 2º do art. 1.021 do CPC/2015, reconsidero parcialmente a decisão de fls. 915-920 (e-STJ), apenas no tocante aos honorários executivos relativos ao crédito a ser adimplido por precatório, e passo a um novo exame do recurso especial.
+Nos termos da jurisprudência desta Casa, é cabível o arbitramento de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação, excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, §7º DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO APENAS SOBRE A PARCELA CONTROVERTIDA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do CPC, é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.008.021/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. IMPUGNAÇÃO. PRECATÓRIO. HONORÁRIOS. CABIMENTO.
+1. A dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que o cumprimento de sentença não tenha sido impugnado e cujo pagamento ocorra por precatório.
+2. A contrario sensu, oferecida resistência ao cumprimento de sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.157.365/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/12/2024, DJEN de 11/12/2024.)
+No caso em análise, contudo, verifica-se que o Tribunal de origem, ao examinar a controvérsia, consignou que não seria cabível a fixação de honorários na execução por precatório em virtude da mera apresentação de impugnação ao cumprimento de sentença.
+Confira-se (e-STJ, fls. 253-254):
+Da mesma forma, foi embasada a impossibilidade de fixação de honorários advocatícios quanto ao crédito cujo valor se enquadra no pagamento por precatório.
+Foi esclarecido, ainda, que a parte fez confusão ao postular a fixação de verba honorária para a fase de cumprimento de sentença com base no artigo 85, § 7º, do CPC. Isso porque essa verba é sucumbencial, decorre do decaimento na impugnação e não se confunde com a verba fixada para a nova fase processual.
+O arti go 85 do CPC disciplina a respeito da fixação de honorários advocatícios de sucumbência. O § 1º deste artigo especifica os casos em que são devidos honorários de sucumbência além da sentença condenatória proferida no processo de conhecimento, situação inserida no próprio caput.
+Assim determina o referido dispositivo legal:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1º São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+Os demais parágrafos tratam da base de cálculo e percentuais aplicáveis. Já o § 7º excepciona fixação de verba sucumbencial para a situação específica de se tratar de cumprimento de sentença contra a Fazenda Pública, cujo pagamento dar-se-á por precatório, salvo se impugnado:
+§ 7º Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada.
+O contexto analisado, partindo da premissa de que se trata de verba sucumbencial leva a entender que, de acordo com este § 7º, a verba será aplicada na própria impugnação (ou, anteriormente ao novo Código, nos embargos à execução), em decorrência desta, diante do decaimento daquele que for vencido.
+Assim, não se confunde com a verba fixada para a nova fase processual que continua não aplicável quando o pagamento deve ser feito por precatório.
+Não é possível, diante disso, ampliar o entendimento de que, uma vez impugnado o cumprimento de sentença, haverá aplicação, não apenas para cumprir a regra de arbitrar honorários sucumbenciais em razão do decaimento no incidente, mas também honorários para nova fase processual, cuja base legal e base de cálculo são distintas.
+O fato de terem sido apresentados embargos à execução ou impugnação não autoriza o arbitramento de verba honorária para a nova fase processual, até porque, se assim o fosse, ainda que vencedor na impugnação, o devedor seria "penalizado" apenas por ter utilizado um meio de defesa.
+Tal circunstância levaria a beneficiar com honorários para a fase da execução, incabíveis, de regra, na execução por precatório, pelo simples fato de ter sido ela impugnada, ainda que com razão o Ente Público impugnante. E não se pode desconsiderar que a verba sucumbencial é aplicada de acordo com o proveito econômico obtido com a impugnação, enquanto os honorários fixados para o cumprimento de sentença têm base de cálculo maior, qual seja o valor da própria execução. A constatação leva a reconhecer a desigualdade, a desproporcionalidade no tratamento dado às partes, em prejuízo ao Ente Público que não pode dispor do dinheiro, não pode abdicar de impugnar valor cobrado a maior pelo credor. E, sendo assim, poderia tornar-se vantajoso ao credor exigir mais do que o devido para provocar uma impugnação e por consequência, ser beneficiado com fixação de honorários na execução cujo rito, por precatório, não comporta esta verba.
+Como explicitado, a situação aqui é distinta, não se tratando apenas de interpretação literal do parágrafo 7º do artigo 85 do CPC, mas análise diferenciada dos honorários considerados devidos conforme dispõe o artigo 85 caput do mesmo diploma legal e dos honorários sucumbenciais, decorrentes de o devedor restar vencido na impugnação ao cumprimento de sentença.
+Dessa forma, por estar o acórdão estadual em dissonância ao entendimento jurisprudencial desta Corte , de rigor a sua reforma no ponto.
+Ante o exposto, em juízo parcial de reconsideração, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para determinar o retorno dos autos à origem para arbitramento da verba honorária correspondente ao cumprimento de sentença do crédito a ser adimplido por precatório.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. RECONSIDERAÇÃO PARCIAL DA DECISÃO AGRAVADA. CUMPRIMENTO DE SENTENÇA. CRÉDITO A SER ADIMPLIDO POR PRECATÓRIO. APRESENTAÇÃO DE IMPUGNAÇÃO PELA FAZENDA PÚBLICA. CABIMENTO DOS HONORÁRIOS ADVOCATÍCIOS. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, EM JUÍZO PARCIAL DE RETRATAÇÃO, E, NESSA EXTENSÃO, PROVIDO.
