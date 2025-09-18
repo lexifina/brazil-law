@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por LIDOMAR DE SOUSA MOREIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que inadmitiu recurso especial manejado contra acórdão proferido na Apelação Criminal n. 0001177-18.2007.8.06.0064.
+O agravante sustenta em suas razões que não incide o óbice da Súmula n. 7 do STJ, asseverando que o conhecimento das questões de mérito não pressupõe o revolvimento do acervo probatório, mas apenas a análise de deslizes judiciais de cunho estritamente jurídico, os quais, através do simples cotejo entre o acórdão objurgado e as razões recursais, são imediatamente percebidos pelo julgador (fl. 743).
+Contrarrazões às fls. 751-759.
+A Procuradoria-Geral da República manifestou-se pelo não conhecimento do agravo ou pelo não conhecimento do recurso especial subjacente (fls. 778-783).
+É o relatório.
+DECIDO.
+O agravo não pode ser conhecido.
+Na origem o recurso especial foi inadmitido em virtude da incidência do óbice veiculado na Súmula n. 7 desta Corte Superior (fls. 725-731). As razões do respectivo agravo, contudo, não impugnam adequadamente o entrave em questão.
+No que diz respeito à impugnação ao verbete sumular nº 7 do STJ, observa-se que o agravante não demonstrou, mediante o confronto entre as teses recursais e os fundamentos do acórdão recorrido, de que modo o exame da insurgência prescindiria do revolvimento probatório. Não houve nem mesmo a preocupação em contextualizar os elementos fáticos registrados no acórdão impugnado.
+É iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de que "a impugnação genérica à aplicação da Súmula 7/STJ, sem o devido cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, não atende ao requisito de impugnação específica" (AgRg no AREsp 2183499/MG, Rel. Ministro Carlos Cini Marchionatti, Desembargador Convocado do TJRS, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025 - grifamos).
+Sob a mesma perspectiva:
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. CONCESSÃO DA ORDEM DE HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 2º, INCISO II, DA LEI N. 8.137/1990. FALTA DE RECOLHIMENTO DO ICMS. DOLO DE APROPRIAÇÃO NÃO COMPROVADO. ABSOLVIÇÃO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Da análise das razões do agravo interposto (e-STJ fls. 1168/1183), se extrai que a parte agravante deixou de infirmar, de forma específica e pormenorizada, a incidência de óbice ventilado pela Corte de origem para inadmitir o recurso especial, no caso, a Súmula n. 7/STJ (e-STJ fls. 1140/1157).
+2. Nos termos da orientação jurisprudencial deste Superior Tribunal, "para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgRg no AREsp n. 2.060.997/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe 10/8/2022).
+3. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior. (AREsp 2548204/RN, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05/08/2025, DJEN de 22/08/2025 - grifamos)
+Destarte, conclui-se que o agravo não atende aos requisitos de admissibilidade, porquanto deixou de impugnar, de maneira dialética, todos os fundamentos da decisão que, na origem, motivaram a inadmissão do recurso especial. Incide, portanto, a Súmula nº 182 do STJ, bem como a regra do art. 932, inciso III, do Código de Processo Civil, aplicável ao processo penal por força do art. 3º do Código de Processo Penal.
+Sobre a matéria:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182 DO STJ. ÓBICE DA SÚMULA N. 7 DO STJ NÃO INFIRMADO PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. "O momento processual adequado para a impugnação completa dos termos da decisão de inadmissibilidade é o agravo em recurso especial, e não o agravo regimental oposto contra a decisão que aplicou o mencionado óbice sumular" (AgRg no REsp n. 1.991.029/PR, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+3 . Agravo regimental improvido. (AgRg no AREsp 2400759/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT, Sexta Turma, julgado em 05/03/2024, DJe de 11/03/2024 - grifamos)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
