@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de h abeas corpus impetrado em favor de ADILSON DA SILVA ROCHA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo no julgamento do Habeas Corpus n. 2187825-82.2025.8.26.0000, cujo acórdão ficou assim ementado (e-STJ fl. 12):
+HABEAS CORPUS Sentença condenatória transitada em julgado. Roubo (artigo 157, "caput", do Código Penal). Inexistência da demonstração de ilegalidade manifesta. Via eleita inadequada. O habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório. Ordem não conhecida.
+Alega a defesa, na presente impetração (e-STJ fl. 10):
+1. A concessão da ordem de Habeas Corpus, com o objetivo de retificar a pena imposta ao réu pelo magistrado na primeira fase da dosimetria, observando a ausência de fundamentação adequada quanto à aplicação da fração de aumento da pena e recusando a consideração de circunstâncias judiciais negativamente avaliadas de forma injusta e desproporcional.
+2. Que seja realização nova dosimetria da pena, assegurando a transparência e a legalidade do processo, garantindo que a imposição da pena leve em consideração os princípios da individualização da pena, livre de bis in idem, e atenda adequadamente às circunstâncias e condições específicas do caso do réu.
+3. Que na nova dosimetria, seja assegurado ao réu, na nova dosimetria, o devido reconhecimento de sua situação de vulnerabilidade social, para que essa perspectiva seja devidamente considerada, garantindo assim que a decisão final observe princípios humanistas e de dignidade humana.
+É, em síntese, o relatório.
+De início, verifico que o Tribunal de origem não conheceu do habeas corpus lá impetrado, deixando de apreciar o mérito do writ ao fundamento de que "não se admite o habeas corpus como substitutivo de revisão criminal, salvante manifesta ilegalidade, que não se apresenta, notados os termos da impetração" (e-STJ fl. 15).
+Diante desse cenário, ante a falta de manifestação do colegiado local no acórdão ora juntado acerca das matérias objeto deste habeas corpus, evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+Todavia, no caso, verifico flagrante ilegalidade na primeira fase dosimétrica, quanto ao desfavorecimento dos vetores relativos à personalidade e à conduta social do paciente, a atrair a concessão da ordem de ofício. Senão vejamos.
+Quanto à negativação da personalidade do acusado, verifica-se ser inidôneo o fundamento de que ele é propenso à prática de crimes, pois, nos termos do entendimento firmado nesta Corte, mesmo "as diversas condenações pretéritas devem ser atreladas apenas aos maus antecedentes, afastando a valoração negativa da conduta social e da personalidade do réu, na primeira fase da dosimetria da pena" (AgRg no HC n. 377.016/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2018, DJe 14/12/2018, grifei), de modo que tal vetor deve ser afastado.
+Ainda, para avaliação da conduta social, "devem ser valorados o relacionamento familiar, a integração comunitária e a responsabilidade funcional do agente. Serve para aferir sua relação de afetividade com os membros da família, o grau de importância na estrutura familiar, o conceito existente perante as pessoas que residem em sua rua, em seu bairro, o relacionamento pessoal com a vizinhança, a vocação existente para o trabalho, para a ociosidade e para a execução de tarefas laborais" (SCHMITT, Ricardo Augusto. Sentença Penal Condenatória - Teoria e Prática. 8. ed. Salvador: Juspodivm, 2013. p. 128-129, grifei).
+No ponto, "a jurisprudência do Superior Tribunal de Justiça, no entanto, é firme no sentido de que o alcoolismo do agente ou a sua condição de usuário de drogas não é motivação idônea para o desfavorecimento de sua personalidade ou conduta social, de modo que se impõe o decote deste vetor." (AgRg no HC n. 524.573/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/5/2020.)
+Assim, diante de tais considerações, necessário o redimensionamento da reprimenda, para afastar tais vetores, ao qual ora procedo.
+A pena-base vai fixada acima do mínimo legal, em 4 anos e 9 meses de reclusão, pelos antecedentes, e torna-se definitiva nesse patamar, em virtude da compensação da confissão e reincidência e da ausência de outras causas modificativas de pena na etapa seguinte.
+Mantida, no mais, a condenação.
+Tal o contexto, indefiro liminarmente o presente habeas corpus, mas concedo a ordem de ofício, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
