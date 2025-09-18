@@ -1,6 +1,6 @@
 Art. 56. O disposto no art. 2º da Lei nº 9.007, de 17 de março de 1995, aplica-se aos servidores, aos militares e aos empregados requisitados para:
 I - o Conselho de Controle de Atividades Financeiras;
-II - até 31 de dezembro de 2026, a Autoridade Nacional de Proteção de Dados;
+II - até 31 de dezembro de 2028, a Agência Nacional de Proteção de Dados;
 III - até 30 de junho de 2023, os seguintes Ministérios:
 a) da Fazenda;
 b) das Cidades;

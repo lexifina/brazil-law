@@ -10,4 +10,5 @@ VIII - a Agência Nacional de Transportes Terrestres (ANTT);
 IX - a Agência Nacional do Cinema (Ancine);
 X - a Agência Nacional de Aviação Civil (Anac);
 XI - a Agência Nacional de Mineração (ANM).
+XII - a Agência Nacional de Proteção de Dados (ANPD).
 Parágrafo único. Ressalvado o que dispuser a legislação específica, aplica-se o disposto nesta Lei às autarquias especiais caracterizadas, nos termos desta Lei, como agências reguladoras e criadas a partir de sua vigência.
