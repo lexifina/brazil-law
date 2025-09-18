@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, embargos de declaração opostos por CAMARA DE COMERCIALIZACAO DE ENERGIA ELETRICA - CCEE contra decisão que não conheceu do recurso especial, em razão da incidência do óbice da Súmula 182/STJ.
+A parte embargante alega, em síntese, que a decisão embargada não enfrentou de forma específica as razões apresentadas pela embargante, que demonstrariam que as Súmulas 5 e 7 não se aplicam ao caso concreto (fls. 5711-5712).
+Acrescenta que a decisão embargada se limitou a invocar precedentes e súmulas de forma genérica, sem demonstrar a sua aplicação ao caso concreto, em violação ao art. 489, §1º, IV e V, do CPC (fls. 5711-5712).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+No caso, a decisão embargada, fundamentadamente, consignou que as alegações deduzidas pela agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência da Súmula 5 e 7 deste STJ.
+Com efeito, a decisão do Tribunal Regional Federal da 3ª Região que inadmitiu recurso especial, sob os seguintes fundamentos: i) ausência de cabimento para análise de normas infralegais, com base no art. 105, III, "a", da Constituição Federal; ii) revolvimento de matéria fático-probatória, nos termos da Súmula 7/STJ; e iii) interpretação de cláusulas contratuais, conforme Súmula 5/STJ (fls. 5571-5574).
+Contudo, a parte agravante limitou-se a defender, em síntese, que i) o recurso especial é cabível, pois a controvérsia envolve interpretação de lei federal, e não de atos normativos infralegais (fl. 5.590); e ii) a decisão recorrida não exige reexame de provas, mas apenas a correta aplicação do direito aos fatos incontroversos (fl. 5581).
+Segundo a jurisprudência desta Corte, "inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão" (AgInt no AREsp n. 1.991.801/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/3/2023).
+Ademais, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
