@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de WALACE DA CONCEIÇÃO NEVES - condenado como incurso no crime de tráfico de drogas (Apelação Criminal n. 0801757-95.2023.8.19.0030) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, não comporta processamento.
+Com efeito, busca a impetração a desclassificação do crime de tráfico de drogas para a conduta de posse de drogas destinada a consumo pessoal, ao fundamento de que a quantidade de droga apreendida (4 g de cocaína) seria ínfima e destinada ao consumo pessoal, não havendo provas concretas de mercancia.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência de ilegal constrangimento, pois as circunstâncias da apreensão da droga, em contexto que demonstra a destinação ao comércio espúrio, afastam qualquer dúvida razoável.
+Conforme consta dos autos, os policiais militares, em diligência motivada por denúncia anônima, abordaram o paciente e o corréu, encontrando com este último 15 pinos de cocaína e 2 pedras de crack, além de 2 pinos de cocaína que o acusado tentou descartar ao perceber a aproximação da guarnição. Ademais, os depoimentos dos agentes públicos, corroborados por outros elementos probatórios, indicam que os réus arrecadaram dinheiro de terceiros para adquirir entorpecentes, reforçando a destinação mercantil da droga.
+A narrativa apresentada pela defesa, de que a droga seria para consumo pessoal, não encontra respaldo no conjunto probatório, que demonstra, de forma clara e coesa, a prática do tráfico de drogas. A condenação foi devidamente fundamentada, com base em elementos concretos, e não há qualquer ilegalidade ou constrangimento a ser sanado.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. INVIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
