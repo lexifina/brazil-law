@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ANHANGUERA EDUCACIONAL PARTICIPAÇÕES S/A. se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 1.203):
+- APELAÇÃO CÍVEL - AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO, CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS - PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - CONTRATO DE FINANCIAMENTO ESTUDANTIL (FIES) - COBERTURA DE 97,11% DOS ENCARGOS EDUCACIONAIS - COBRANÇA DA DIFERENÇA REMANESCENTE ENTRE O MONTANTE FINANCIADO PELO CITADO FUNDO - COBRANÇA INDEVIDA - LIMITAÇÃO DE FINANCIAMENTO ESTUDANTIL QUE NÃO SE APLICA AO CASO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 1.253/1.256).
+Nas razões de seu recurso especial, a parte agravante alega, além de divergência jurisprudencial, violação dos arts. 421 e 422 do Código Civil; 1º da Lei 9.870/1999; 4º e 4º-B da Lei 10.260/2001; e 4º da Lei 13.366/2016. Sustenta, em síntese, a licitude das cobranças realizadas de residual não coberto pelo FIES.
+A parte adversa apresentou contrarrazões às fls. 1.323/1.331.
+O recurso não foi admitido, o que ensejou a interposição de agravo.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de ação ajuizada por CAMILLA ALVES VIDAL LIMA, por meio da qual pleiteia a declaração de inexistência de todo e qualquer débito oriundo de diferença do valor da mensalidade do curso realizado junto à instituição ré, ora agravante, que exceda o que é coberto pelo FIES. A sentença julgou procedente em parte o pedido, afastando os danos morais. No Tribunal a quo, a sentença foi mantida.
+O Tribunal de origem assim se manifestou sobre a cobrança indevida feita pela instituição recorrente:
+Como se vê, somente nos contratos firmados a partir do 1.º semestre de 2017, o que não é o caso dos autos, poderia a instituição de ensino cobrar valores não abarcados pelo limite máximo do financiamento estudantil.
+Não fosse isto, a cobrança de valor correspondente à diferença entre o valor da semestralidade cobrada pela instituição e aquele financiado pelo FIES viola o disposto nas Portarias nº 10 de 30.4.2010 e 270 de 29.3.2012, expedidas pelo Ministério da Educação MEC, que vedam a cobrança de qualquer valor adicional do aluno, quando o universitário obteve financiamento do curso pelo FIES:
+ ..
+Do acima disposto, tem-se que, nos casos de financiamento pelo FIES, é vedada a cobrança de qualquer taxa adicional, sendo considerada indevida a exigência de qualquer diferença entre o valor financiado pelo FIES e a mensalidade cobrada pela instituição financeira.
+Veja-se que no "Documentos de Regularidade de Matrícula - DRM" (f. 786-818), consta os dados pessoais da aluna/apelada, do curso e do FIES, notadamente dos valores dos custos de cada semestralidade: Semestre 1º/2017 (f. 786-8); Semestre 2º/2017 (f. 789-91); Semestre 1º/2018 (f. 792-4); Semestre 2º/2018 (f. 795-7); Semestre 1º/2019 (f. 798-800); Semestre 2º/2019 (f. 801-3); Semestre 1º/2020 (f. 804-6); Semestre 2º/2020 (f. 807-9); Semestre 1º/2021 (f. 810-2); Semestre 2º/2021 (f. 813-5); Semestre 1º/2022 (f. 816-8).
+E, em todos os semestres foram concedidos descontos à parte, conforme colacionado na sentença à f. 1101/1102.
+Ao analisar a referida documentação, com acerto, o magistrado de origem chegou a seguinte conclusão: "O valor de cada semestre do curso fora adimplido quase que na integralidade, por meio do FIES, conforme informações das tabelas dos Documentos de Regularidade de Matrícula - DRM, e a parte requerente pagou, com recurso próprio e por semestre (f. 82-4 e 819-30), o saldo residual referente ao percentual de 2,89% (diferença de semestralidade), que não fora incluído pelo financiamento, pois, como visto, o FIES cobriu 97,11% da totalidade das despesas dos doze semestres do curso". f. 1102.
+Destarte, pelos documentos colacionados nos autos percebe-se que no ato da renovação semestral dos aditamentos e matrícula não existia saldo devedor a ser quitado com recursos próprios.
+Assim, a cobrança por quantias abatidas a título de "Descontos" trata- se de imposição abusiva e não pode ser exigida da autora/apelada após a conclusão do curso, sob pena de violação da boa-fé contratual e ao ato jurídico perfeito.
+Sobre o tema, veja-se julgado semelhante deste E. TJMS:
+ ..
+Trata-se, portanto, de evidente falha na prestação do serviço da instituição apelante, pois o autora-apelada foi cobrado indevidamente por dívida inexistente (fls. 1.209/1.211).
+Entendimento diverso acerca da responsabilidade pelo pagamento das diferenças de valores, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e a reinterpretação de cláusula contratual, circunstâncias que redundariam na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incidem no presente caso as Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ) segundo as quais, respectivamente, "a simples interpretação de cláusula contratual não enseja recurso especial" e "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FINANCIAMENTO ESTUDANTIL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. VIOLAÇÃO DOS ARTS. 489, § 1º, IV E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. FIES. DIFERENÇA RESIDUAL. COBRANÇA INDEVIDA. DANO MORAL INDENIZÁVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+4. A revisão da conclusão a que chegou o Tribunal de origem a respeito da ilegitimidade da cobrança do aluno da diferença entre o valor da semestralidade e da parte financiada pelo FIES, bem como da ocorrência de dano moral indenizável decorrente da referida cobrança indevida, demanda o reexame dos fatos e provas constantes nos autos, além de cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.061.124/MT, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024 - sem destaques no original.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FIES. DIFERENÇA RESIDUAL. REVISÃO DO ACERVO PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. PORTARIA. VIOLAÇÃO. EXAME. INVIABILIDADE.
+ ..
+2. Acolher as razões recursais para concluir que é legitima a cobrança do aluno da diferença entre o valor da semestralidade e da parte financiada pelo FIES, impõe o reexame do acervo probatório e nova interpretação das cláusulas contratuais do financiamento estudantil concedido à estudante, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 desta Corte.
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal. Precedentes.
+4. Hipótese em que o exame da apontada violação do art. 53, VIII e IX, da Lei n. 9.394/1996, do art. 1º, §§ 1º, 2º, 3º, 4º e 5º da Lei n. 9.870/1999 e dos arts. 4º e 4º-B da Lei n. 10.260/2001 perpassa necessariamente pela interpretação da Portaria n. 638/2017 do MEC, sendo meramente reflexa a vulneração dos dispositivos legais indicados pelo agravante.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.056.874/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022 - sem destaques no original.)
+Confiram-se, ainda, as decisões monocráticas acerca desta matéria: AREsp 2.714.041/MS, relator Ministro Marco Aurélio Bellizze, DJEN 11/6/2025; AREsp 2.865.846/MS, relator Ministro Raul Araújo, DJEN 11/6/2025; AREsp 2.765.928/MS, relator Ministro Afrânio Vilela, DJEN 24/2/2025; AREsp 2.638.217/MS, relator Ministro Teodoro Silva Santos, DJEN 3/9/2024; AREsp 2.661.755/MS, relator Ministro Benedito Gonçalves, DJEN 8/8/2024; AREsp 2.167.417/MS, relator Ministro Humberto Martins, DJEN 27/4/2023.
+Ante o exposto, conheço do agravo para não conhecer d o recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
