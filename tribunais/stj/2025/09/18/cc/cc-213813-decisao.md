@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DA 5ª VARA DO TRABALHO DE VITÓRIA - ES (JUÍZO TRABALHISTA) e o JUÍZO DE DIREITO DA 7ª VARA CÍVEL DE VITÓRIA - ES (JUÍZO ESTADUAL) envolvendo execução de título extrajudicial ajuizada por KEILA PEREIRA RODRIGUES contra ISABELA ALMEIDA PEREIRA GUSMÃO.
+A demanda foi distribuída perante o JUÍZO ESTADUAL que declinou da competência por entender que o título extrajudicial objeto da execução decorre diretamente da relação de trabalho havida entre as partes, atraindo a competência absoluta da Justiça do Trabalho (e-STJ, fl. 15).
+Recebidos os autos, o Juízo laboral suscitou o conflito sob o fundamento de que guarda correspondência com o contrato de trabalho, tratando-se de litígio de natureza cível, o que atrai a competência da Justiça Comum Estadual (e-STJ, fls. 1.535/1.538).
+Ouvido o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. ANTONIO CARLOS ALPINO BIGONHA, manifestou-se pela competência do JUÍZO TRABALHISTA (e-STJ, fls. 1.548/1.550).
+É o relatório.
+DECIDO.
+Com base no art. 105, I, d, da Constituição Federal, conheço do incidente instaurado entre juízes vinculados a tribunais diversos.
+A controvérsia gira em torno de se definir qual o juízo competente para processar e julgar execução de título extrajudicial ajuizada por empregadora contra empregada - e respectivos embargos -, decorrente de instrumento de confissão de dívida alegadamente firmado no âmbito da relação empregatícia.
+A competência ratione materiae, via de regra, é questão anterior a qualquer outro juízo sobre outras espécies de competência, sendo determinada em função da natureza jurídica da pretensão deduzida, decorrente diretamente do pedido e da causa de pedir deduzidos em juízo.
+A competência da Justiça do Trabalho não se restringe apenas às relações de emprego singularmente consideradas, mas também à análise de todos os conflitos derivados do vínculo trabalhista, nos termos do art. 114, IX, da CF.
+Na hipótese dos autos, a empregada ISABELA ajuizou reclamação trabalhista (processo n. 0000576-42.2024.5.17.0005) alegando, dentre outras situações, fraude na constituição da confissão de dívida, em razão de sua condição de vulnerabilidade relativamente à empregadora, abuso de confiança de suposta amizade existente entre as partes, bem como indevidos descontos e retenções salariais (e-STJ, fls. 53/123).
+A análise de eventuais vícios do instrumento de confissão de dívida não foi apreciada, em razão da declinação da competência pelo JUÍZO TRABALHISTA, por considerar que o negócio jurídico se tratou de empréstimo de dinheiro entre amigas, consistindo em um mútuo informal, do qual não se interpôs recurso (e-STJ, fl. 1.537).
+Muito bem.
+Verifica-se que KEILA ajuizou execução de título extrajudicial contra ISABELA (processo n. 5016794-71.2022.8.08.0024) perante o JUÍZO CÍVEL, visando a satisfação do aludido instrumento de confissão de dívida firmado entre elas (e-STJ, fls. 238/243).
+ISABELA opôs embargos à execução (processo n. 5016794-71.2022.8.08.0024), reiterando as alegações de que o valor emprestado decorreu da relação empregatícia, com descontos/retenção salarial indevida, fraude, abuso de confiança e pedido de nulidade do título (e-STJ, fls. 137/180).
+E observa-se que a matéria relativa aos alegados vícios no instrumento de confissão de dívida devem ser objeto de apreciação sobre o enfoque da existência do vínculo empregatício entre as partes, notadamente diante causa de pedir consistente nos descontos e em retenções indevidas de salários pela empregadora e demais atos praticados no âmbito da relação patronal.
+Saliente-se que a ausência de interposição de recurso contra a declinação da competência pela Justiça especializada, na reclamação trabalhista, para análise de vícios relativos ao título extrajudicial, não desautoriza a apreciação dos aspectos que norteiam a sua nulidade através dos embargos à execução.
+Isso porque a sentença que extingue o feito, sem análise do mérito, com fundamento na incompetência do juízo, faz coisa julgada formal, não impedindo a rediscussão dos pleitos autorais em outro processo (CC n. 134.392/MG, relator Ministro RICARDO VILLAS BOAS CUEVA, Segunda Seção, julgado em 9/9/2015, DJe de 15/9/2015).
+Vale ressaltar, ainda, os autos indicam que, se houve relação de amizade entre as partes, esta derivou de anterior vínculo empregatício.
+Conforme se extrai tanto da inicial da reclamação trabalhista como dos embargos à execução, o contrato de emprego se iniciou em 2015 e os alegados "empréstimos" foram realizados a partir de 2017, com a emissão do título executivo extrajudicial em 2021, ainda no curso da relação empregatícia (e-STJ, fls. 56, 141, 145, 158/159), a atrair, portanto, a competência da Justiça especializada para tais demandas.
+Sobre o tema, vale resgatar os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO NEGATIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS PROPOSTA POR EX-EMPREGADORAS. RESSARCIMENTO DE VALORES DESVIADOS POR EX-EMPREGADOS NO CURSO DA RELAÇÃO DE TRABALHO. FRAUDE NA COMPENSAÇÃO BANCÁRIA DE RECEBÍVEIS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. A ação de indenização por danos patrimoniais, por meio da qual as ex-empregadoras objetivam o ressarcimento de valores desviados por ex-empregado - atos ilícitos que somente puderam ser praticados em função da relação de emprego - insere-se na competência da Justiça do Trabalho (Constituição Federal, art. 114, incisos I e VI), inclusive no tocante aos litisconsortes que não mantinham relação de emprego com as autoras. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no CC n. 157.060/DF, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 27/6/2018, DJe de 29/6/2018 - sem destaque no original)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. EXECUÇÃO. CONTRATO DE MÚTUO. AQUISIÇÃO DE VEÍCULO NECESSÁRIO À ATIVIDADE LABORAL. PACTO ACESSÓRIO AO CONTRATO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA LABORAL.
+1. Na hipótese dos autos, a empresa empregadora pretende cobrar de seu ex-empregado empréstimo para a aquisição de veículo automotor utilizado no exercício das atividades laborais de "vendedor técnico jr.".
+2. Compete à Justiça do Trabalho processar e julgar ação relativa a pacto acessório ao contrato de trabalho.
+3. Conflito conhecido para declarar competente o Juízo Trabalhista.
+(CC n. 124.894/SP, relator Ministro RAUL ARAÚJO, Segunda Seção, julgado em 10/4/2013, DJe de 19/4/2013 - sem destaque no original)
+Nessas condições, CONHEÇO do conflito para declarar a competência do JUÍZO DA 5ª VARA DO TRABALHO DE VITÓRIA - ES, suscitante.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS TRABALHISTA E CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL E EMBARGOS À EXECUÇÃO. INSTRUMENTO DE CONFISSÃO DE DÍVIDA. ALEGAÇÃO DE EMPRÉSTIMOS FIRMADOS POR EMPREGADORA A EMPREGADA NO ÂMBITO DA RELAÇÃO DE TRABALHO COM RETENÇÃO E DESCONTOS INDEVIDOS DE SALÁRIO. COMPETÊNCIA DA JUSTIÇA TRABALHISTA. ART. 114, IX, DA CF. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO TRABALHISTA.
