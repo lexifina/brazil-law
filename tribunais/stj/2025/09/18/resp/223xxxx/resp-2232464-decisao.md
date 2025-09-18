@@ -1,0 +1,60 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 327/328, in verbis:
+Trata-se de recurso especial interposto por WESLEY DE ALMEIDA DIOGO contra v. Acórdão proferido pela 7ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao apelo defensivo nº 1507337- 24.2024.8.26.0228, fixando a pena do réu em 5 anos de reclusão e impondo o regime fechado, restando assim ementado (fls. 250/252):
+"DIREITO PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. PENA E REGIME PRISIONAL. PROVIMENTO PARCIAL.
+I. Caso em Exame Recursos de apelação interpostos pela defesa e pelo Ministério Público contra sentença que condenou Wesley de Almeida Diogo por tráfico de drogas, com pena de um ano, dez meses e quinze dias de reclusão em regime aberto. A defesa pleiteia absolvição por insuficiência probatória ou substituição da pena por restritivas de direitos. O Ministério Público busca aumento da pena e fixação de regime fechado.
+II. Questão em Discussão 2. A questão em discussão consiste em determinar a adequação da pena e do regime prisional, considerando os antecedentes do réu e a quantidade de drogas apreendidas.
+III. Razões de Decidir 3. A condenação é mantida, pois há provas suficientes da autoria e materialidade do crime, incluindo depoimentos de policiais e confissão extrajudicial do réu.
+4. A pena é ajustada para cinco anos de reclusão, em regime fechado, devido aos maus antecedentes, não sendo aplicável a causa de diminuição do artigo 33, §4º, da Lei de Drogas.
+IV. Dispositivo e Tese 5. Dou parcial provimento aos recursos, fixando a pena em cinco anos de reclusão, em regime inicial fechado, e pagamento de quinhentos dias-multa. Tese de julgamento: 1. A confissão extrajudicial, corroborada por provas, é válida para fundamentar a condenação. 2. O regime fechado é adequado para crimes de tráfico de drogas, considerando a gravidade e os antecedentes do réu.
+Legislação Citada: Lei nº 11.343/06, art. 33, caput e §4º. Código Penal, arts.
+59, 65, III, "d", 44. Código de Processo Penal, art. 33, §3º.
+Jurisprudência Citada: STF, HC nº 74.608-0, Rel. Min. Celso de Mello. STJ, AgRg no Agravo de Instrumento nº 1.158.921/SP, Rel. Min. Maria Thereza de Assis Moura. STF, RECURSO ORDINÁRIO EM HABEAS CORPUS 106814, Rel. Min. Ricardo Lewandowski".
+No presente recurso especial a defesa sustenta que o v. Acórdão recorrido violou os artigos 59, caput, do Código Penal, ao reconhecer a existência de maus antecedentes; 1º, do Código Penal, e artigo 33, §4º, da Lei 11.343/06, ao utilizar condenações muito antigas e a quantidade e variedade das drogas para afastar a redutora do tráfico privilegiado; e artigo 33, §2º e §3º, do Código Penal, ao estabelecer o regime fechado, tendo em vista a quantidade de drogas (menos de 57g de cocaína e maconha) e os antecedentes, apesar de antigos, além da gravidade(fls. 283/295). Requer a incidência do tráfico privilegiado, na fração máxima, imposição de regime aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+Contrarrazões apresentadas às fls. 302/313.
+Decisão de admissibilidade parcial acostada às fls. 314/315.
+Ao final, o Parquet opinou pelo não provimento do recurso especial (e-STJ fls. 327/335).
+É o relatório.
+Decido.
+A irresignação recursal não ultrapassa o juízo de admissibilidade.
+Na espécie, observa-se que a Corte estadual considerou, para aumento da pena-base, a existência de maus antecedentes, in verbis (e-STJ fls. 262/268):
+A pena-base restou fixada acima de seu patamar mínimo legal, vez que o acusado ostenta maus antecedentes (fls. 89/90).
+Note-se que ao revés do pontuado pela combativa defesa, o limite temporal de cinco anos é utilizado para fins de caracterização de reincidência, podendo, entretanto, decisão cuja punibilidade foi extinta há mais de cinco anos caracterizar maus antecedentes.
+Neste sentido é a decisão do Supremo Tribunal Federal:
+ ..
+Inclusive, este entendimento restou pacificado pelo Supremo Tribunal Federal, através do tema 150 da Gestão por Temas da Repercussão Geral do Supremo Tribunal Federal, tendo o julgamento do mesmo sido finalizado em 18 de agosto de 2020, acatando o entendimento de que: "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal".
+Ademais, no que tange ao aumento da pena pelos maus antecedentes, levando-se em conta condenações antigas, acrescenta-se que não se está diante de qualquer irregularidade.
+Pelo contrário, a referida circunstância encontra amparo na própria Constituição Federal, diante da interpretação dos princípios da isonomia, proporcionalidade e razoabilidade, bem como na individualização da pena.
+Tem-se, dessa forma, que tal acréscimo decorre da necessária distinção que se há de fazer entre os agentes, após análise da personalidade de cada um, tendo em vista atos pregressos de seu comportamento social, sendo clara a injustiça, caso contrário, em que aquele que insiste na prática de crimes receba o mesmo tratamento dado a um condenado primário.
+Ora, voltar a cometer um crime revela maior reprovabilidade no fato concreto em julgamento e merece uma resposta penal mais severa, justificando a imposição dos maus antecedentes.
+Por isso, justificável a exacerbação da pena, sendo certo que o réu não tem direito subjetivo à estipulação da sanção no mínimo legal, podendo a mesma ser majorada a fim de alcançar os objetivos da pena (JCAT, 81-82/666).
+Contudo, entendo que, presente uma única circunstância judicial desfavorável, é de se considerar suficiente o aumento de 1/8. Assim, com o devido respeito à argumentação oferecida pela Douta Representante do Ministério Público, pode-se concluir que a referida pena-base no presente caso se revela adequada e suficiente a atender plenamente a toda as suas finalidades, não havendo necessidade de maiores aumentos.
+ ..
+Ato contínuo, a M.M. Magistrada a quo aplicou a redução prevista no artigo 33, §4º, do Código Penal, sendo certo que, com o devido respeito ao entendimento adotado pela douta Juíza sentenciante, esta redução mostra-se incabível.
+Atende razão ao parquet no que diz respeito à aplicação da causa de diminuição prevista no parágrafo quarto, do artigo 33, da Lei 11.343/06, pois não parece correto que o réu seja beneficiado com esta redução, tendo em vista que no caso em tela estão presentes circunstâncias que não recomendam tal benesse.
+Uma vez que, restou comprovado nos autos que o réu perpetuou na vida criminosa, ostentando condenações anteriores, o que evidencia a sua estreita ligação com o submundo do crime.
+Ainda, como elencado acima, o réu foi detido em poder de considerável quantidade e diversidade de drogas, nada menos que 149 porções de cocaína e 18 porções de maconha, entorpecentes que seriam colocados à disposição dos consumidores da cidade, além de quantia em espécie não desprezível, o que revela a dedicação habitual do recorrente ao tráfico, não se tratando de mero traficante eventual, que, por descuido, envolveu-se com a traficância momentaneamente.
+Ora, tal quantidade e diversidade de narcóticos indicam que o réu possui fortes e duradouras ligações com o narcotráfico, pois certamente que traficante iniciante não teria acesso a tal montante.
+Não se tratando, assim de traficante iniciante o qual a Lei buscou beneficiar.
+Sendo certo que a conduta social do réu, a natureza dos entorpecentes e as circunstâncias em que as drogas foram apreendidas podem constituir o amparo probatório para o magistrado reconhecer a dedicação do mesmo à atividade criminosa.
+Precedentes: RHC 94.806/PR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 16/04/2010; HC 116.541/ES, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 6/6/2013; HC 98.366/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 5/2/2010.  ..  (STF HC 121.057/SP Rel. Min. Luiz Fux j. 25.02.14 DJU 18.03.14).
+É certo que a referida causa especial de diminuição de pena somente deve ser concedida em prol daqueles que, a despeito de condenados pela prática do crime de tráfico ilícito de drogas, estão se iniciando no mundo do crime, tendo, por isso, maior chance de serem recuperados e reintegrados ao convívio social, mediante a imposição de sanções penais menos rigorosas.
+Assim, sua aplicação só se justifica em hipóteses bastante reduzidas, pela necessidade de estarem presentes todos os requisitos enumerados no § 4º, do artigo 33, da lei em comento, o que não se verifica no caso dos autos.
+Dessa forma, impossível a aplicação da causa de diminuição de pena prevista no artigo 33, §4º, da Lei 11.343/06.
+A sanção totaliza, assim, cinco anos de reclusão e pagamento de quinhentos dias-multa, pena esta que se torna concreta, ante a ausência de outras circunstâncias modificadoras.
+O recorrente, no entanto, argumenta que as condenações excessivamente antigas, relativas a fatos ocorridos em 2013.
+Não se desconhece o entendimento desta Egrégia Corte de que condenações pretéritas cuja extinção da pena tenha ocorrido mais de 10 anos anteriormente à prática do delito superveniente não podem ser utilizadas para fins de valoração negativa dos maus antecedentes.
+No entanto, observo que a Corte de origem, conforme acórdão acima transcrito, limitou-se a afirmar que o período depurador de cinco anos pertinente à agravante da reincidência não alcança os antecedentes criminais na qualidade de circunstâncias judiciais.
+Entendo que, nesses termos, não houve manifestação daquele Tribunal acerca de eventual período depurador decenal para os antecedentes criminais, de forma que não se tem claro se os antecedentes efetivamente considerados para a fixação das penas-base se referem a condenações criminais cujos efeitos se extinguiram dez anos antes da ocorrência fatos ora julgados ou não.
+Verifica-se que a tese deduzida no recurso especial não foi debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto, tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 9/3/2017, DJe 17/3/2017.)
+Destaque-se, ainda, que " é  indispensável a oposição de embargos de declaração para o efetivo exame da questão surgida no julgamento pelo Tribunal de origem, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento da questão federal de modo a se evitar a supressão de instância" (REsp n. 1.525.437/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 3/3/2016, DJe de 10/3/2016).
+Ademais, não foi especificado quais condenações anteriores haveriam sido utilizadas na primeira fase da dosimetria da pena, e, mais relevante, as respectivas datas de extinção da punibilidade de tais condenações. Essa informação em específico, destaco, também não foi suscitada pelo ora agravante em seu recurso especial.
+Nesses termos, para que fosse possível apreciar a eventual caducidade de condenações pretéritas que tornasse desproporcional seu emprego como circunstâncias judiciais na dosimetria da pena, seria imprescindível o revolvimento do acervo fático-probatório, o que não se coaduna com a via eleita, conforme prescreve a Súmula n. 7 desta Corte.
+Ante o exposto, não conheço do recurso especial .
+Publique-se. Intimem-se.
+EMENTA
