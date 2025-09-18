@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ana Laura Silveira de Lara, apontando como ato coator Acórdão do Tribunal de Justiça do Estado de São Paulo que, nos autos nº 1500078-41.2023.8.26.0574, negou provimento à apelação interposta.
+Em síntese, a impetrante alega a existência de constrangimento ilegal, sustentando que foi indevidamente afastada a causa de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/06, apesar da primariedade e dos bons antecedentes da paciente, bem como da inexistência de provas concretas quanto à sua dedicação a atividades criminosas ou à participação em organização com essa finalidade.
+Com isso, pugna pela concessão da ordem para fixar regime de cumprimento de pena mais brando, bem como para substituir a pena privativa de liberdade por restritiva de direito.
+Liminar indeferida (e-STJ fls. 166/167).
+Informações prestadas pelas instâncias ordinárias (e-STJ fls. 174/177 e 181/182).
+Manifestação do Ministério Público pelo não conhecimento do writ (e-STJ fls. 211/215).
+É o relatório.
+Decido.
+A análise da presente impetração exige rigorosa observância aos limites constitucionais do habeas corpus, remédio constitucional de natureza específica destinado exclusivamente à proteção do direito fundamental de locomoção, nos termos do art. 5º, LXVIII, da Constituição Federal.
+O desvirtuamento funcional do instituto tem sido objeto de constante preocupação desta Corte Superior. Conforme destacado pelo Ministro Rogério Schietti Cruz no AgRg no HC n. 959.440/RO, o Superior Tribunal de Justiça "não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal", ressalvadas situações excepcionais de flagrante ilegalidade. O precedente enfatiza que a utilização inadequada do writ implica "subversão da essência do remédio heroico e alargamento inconstitucional de sua competência".
+No mesmo sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INADMISSIBILIDADE. TRÁFICO DE DROGAS. TEMA N. 506 DO STF. CONDENAÇÃO FUNDADA EM CONJUNTO PROBATÓRIO IDÔNEO. IMPOSSIBILIDADE DE AMPLO REVOLVIMENTO FÁTICO-PROBATÓRIO EM HABEAS CORPUS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não se presta à impugnação de decisão que desafia recurso próprio, salvo em hipóteses excepcionais, nas quais se verifica flagrante ilegalidade ou teratologia do ato judicial, o que não se evidencia no caso concreto. Precedentes.
+2. Não há na hipótese ilegalidade flagrante que justifique a concessão da ordem de habeas corpus de ofício, nos termos do art. 647-A do Código de Processo Penal.
+3. Afastada na origem a tese jurídica fixada pelo Supremo Tribunal Federal no Tema n. 506, com base em elementos fáticos-probatórios concretos e idôneos que evidenciam a materialidade e indicam a destinação comercial da droga, legitimando a condenação pelo art. 33, caput, da Lei n. 11.343/2006, não obstante se tratar de menos de 40 g de maconha.
+4. Para se entender de modo diverso das instâncias ordinárias e acolher a tese de desclassificação para o art. 28 da Lei n. 11.343/2006, ou mesmo para ausência de crime, seria imprescindível amplo revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+5. Agravo regimental improvido.
+(AgRg no HC n. 991.206/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025; grifamos).
+De qualquer modo, verifica-se que não há, na hipótese, manifesta ilegalidade a reclamar a concessão da ordem de ofício.
+No caso dos autos, a impetrante alega que estão presentes os requisitos do § 4º do art. 33 da Lei 11.343/06, pois a paciente é primária, não possui antecedentes e não participa de organização criminosa. Dessa forma, requer seja reconhecida a causa de diminuição referente ao tráfico privilegiado, com consequente redução da pena, fixação de regime mais brando e substituição da pena privativa de liberdade por restritivas de direitos.
+De fato, as pessoas condenadas pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primárias, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+Para este caso, a Corte de origem afastou a aplicação da causa de diminuição em acórdão que foi assim ementado (e-STJ fl. 85):
+APELAÇÃO CRIMINAL Tráfico de drogas Recurso defensivo Autoria e materialidade delitivas comprovadas Confissão corroborada pelos depoimentos dos policiais militares e pela prova pericial Condenação mantida Penas adequadamente fixadas e bem fundamentadas Redutor do artigo 33, § 4º, da Lei de 11.343/06 corretamente afastado - Regime semiaberto Incabível a substituição da pena privativa de liberdade por restritivas de direitos, por expressa vedação legal - Recurso desprovido.
+Em seus fundamentos, o Tribunal a quo consignou (e-STJ fls. 91/92) que "as circunstâncias em que se deram a prisão em flagrante, a afirmação da ré no sentido de que já praticava a mercancia ilícita há seis meses e o depoimento dos policiais militares, que relataram que a acusada assumiu o posto de seu marido na venda de entorpecentes após a prisão deste, demonstram a prática do crime de forma habitual, fator impeditivo da aplicação do referido benefício. "
+Esse entendimento reflete as decisões que há muito tem sido proferidas por este Tribunal Superior, segundo as quais "a habitualidade no tráfico de entorpecentes confessada pelo réu implica em dedicação à atividade criminosa e impede a consideração do tráfico privilegiado, nos termos do § 4º do art. 33, da Lei nº 11.343/2006, para o fim de reduzir a pena aplicada, na terceira fase da dosimetria. Precedentes: (STJ - AREsp: 2776762, Relator.: Ministro REYNALDO SOARES DA FONSECA, Data de Publicação: Data da Publicação DJ 17/12/2024).
+Certamente, desconstituir as premissas firmadas nas instâncias ordinárias demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+Assim, considerando que as pretensões formuladas pela impetrante encontram óbice na jurisprudência consolidada do Superior Tribunal de Justiça, não se vislumbra constrangimento ilegal apto a justificar a atuação desta Corte de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Intime-se.
+Cientifique-se o Ministério Público Federal.
+EMENTA
