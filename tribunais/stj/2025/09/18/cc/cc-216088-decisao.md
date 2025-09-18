@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se conflito negativo de competência entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL, DE FAMÍLIA, SUCESSÕES, INFÂNCIA E JUVENTUDE E JUIZADO ESPECIAL CÍVEL DE CAMPOS BELOS - GO, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA DE NOVA XAVANTINA - MT, suscitado.
+Ação: monitória ajuizada por MARCOS ANTÔNIO APARECIDO DE ARAÚJO REZENDE em desfavor de MARIA DA CONCEIÇÃO OLIVEIRA DOS SANTOS, fundada em cheques prescritos.
+Manifestação do Juízo de Nova Xavantina - MT: afirmou que a ação foi ajuizada em juízo aleatório, porquanto sem qualquer vinculação com o domicílio das partes ou com o local da obrigação, e declinou da competência em favor do foro de domicílio da requerida, nos termos do art. 63, §5º, do CPC, com a alteração dada pela Lei 14.879/2024.
+Manifestação do Juízo de Campos Belos - GO: suscitou o presente conflito de competência, argumentando que o fato do autor alegar que o endereço atual da requerida é em Campos Belos - GO não afasta a competência originária do foro de Nova Xavantina - MT, fixada à luz da situação existente à época da celebração do negócio jurídico, além de afirmar a impossibilidade de reconhecimento da incompetência relativa de ofício.
+Parecer do MPF: deixou de opinar.
+RELATADO O PROCESSO, DECIDO.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Consoante assentado no julgamento do CC 206.933/SP (Segunda Seção, DJe 13/2/2025), aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024 (art. 2º).
+A fixação desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial.
+Na hipótese, a ação que deu azo ao presente conflito foi ajuizada em 23/7/2020 (e-STJ fl. 11), portanto, previamente à entrada em vigor da Lei 14.879/2024, de modo que se mostra descabida a declinação, de ofício, da competência pelo juízo suscitado, com fundamento na nova redação do art. 63 do CPC, porque inaplicável à espécie. Assim, impõe-se o reconhecimento da competência do juízo a quem foi distribuída originariamente a ação, qual seja, o juízo suscitado.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 2ª VARA DE NOVA XAVANTINA - MT.
+Publique-se. Intime-se. Oficiem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA NEGATIVO. AÇÃO MONITÓRIA. ART. 63, §5º do CPC. LEI 14.879/2024. FORO ALEATÓRIO. PRÁTICA ABUSIVA. DEMANDA AJUIZADA ANTES VIGÊNCIA DA NOVA LEI. IMPOSSIBILIDADE DE INCIDÊNCIA. ARTS. 14 E 43 DO CPC. APLICAÇÃO. DECLÍNIO DE OFÍCIO DA COMPETÊNCIA. INVIABILIDADE.
+1. Consoante a jurisprudência da Segunda Seção do STJ, aplica-se a nova redação do art. 63, §5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024. A fixação desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial. (CC 206.933/SP, DJe 13/2/2025)
+2. A ação que deu azo ao conflito foi ajuizada previamente à entrada em vigor da Lei 14.879/2024, circunstância que invalida o declínio de ofício da competência, pelo juízo suscitado, com fundamento na nova redação do art. 63 do CPC, tendo em vista que inaplicável à espécie.
+3. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 2ª VARA DE NOVA XAVANTINA - MT.
