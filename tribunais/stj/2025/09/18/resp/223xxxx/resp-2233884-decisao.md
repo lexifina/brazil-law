@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por 99 TECNOLOGIA LTDA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"Apelação. Ação indenizatória. Viagem contratado em plataforma de transporte de passageiro (segunda ré - "99"). Motorista que, a pretexto de cobrar pela corrida, invadiu a residência, agrediu a autora, destruiu um aparelho televisor, filmou os atos de violência e compartilhou o vídeo no "Facebook" (primeira ré). Agressor que não atuou em nome próprio, mas na qualidade de profissional indicado pela plataforma de transportes, que atua como prestadora do serviço e responde pelos danos causados. Reparação moral adequadamente fixada na quantia de R$ 50.000,00 (cinquenta mil reais), em atenção à gravidade da lesão. Fato ocorrido quando já em vigor o Marco Civil da internet, que somente admite a responsabilização da rede social se houver descumprimento de ordem judicial de exclusão do conteúdo. Precedente do Superior Tribunal de Justiça. Recurso da "99 Tecnologia" desprovido. Apelo do Facebook provido." (e-STJ fl. 114).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 429-430).
+No recurso especial, a recorrente aponta violação dos artigos 186, 393 e 927 do Código Civil e 14, § 3º, II, do Código de Defesa do Consumidor.
+Sustenta, essencialmente, que, como o incidente ocorreu após o encerramento da corrida e fora do contexto de transporte, sendo impossível prever ou evitar a conduta do motorista autônomo, ele deve ser considerado um caso fortuito externo com culpa exclusiva de terceiro , sem nexo de causalidade com a atividade por ela desempenhada.
+Sem contrarrazões (e-STJ, fl. 462), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+Presentes os pressupostos de admissibilidade do agravo em recurso especial, por entender que a matéria merece melhor exame, determino sua conversão em recurso especial.
+EMENTA
