@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANTONIO DAVID PINHEIRO LOPES apontando como autoridade coatora o Tribunal de Justiça do Estado do Maranhão (HC n. 0813271-19.2025.8.10.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 15/5/2025, pela suposta prática dos crimes previstos no art. 33 da Lei n. 11.343/2006, art. 330 do Código Penal e art. 311 do Código de Trânsito Brasileiro, sendo a prisão convertida em preventiva.
+A defesa impetrou habeas corpus perante a Corte estadual, que indeferiu o pleito liminar (e-STJ fls. 50/53).
+Alega a impetração que o decreto preventivo ultrapassa os limites da representação, adotando fundamentos genéricos previstos no art. 312 do Código de Processo Penal, sem motivação concreta e contemporânea, em afronta à Lei n. 13.964/2019. Afirma que o paciente foi preso com pequena quantidade de droga (cerca de 30 gramas), sem elementos que indicassem tráfico, tratando-se, no máximo, de uso pessoal. Sustenta que a abordagem policial foi motivada por discriminação racial, em razão de o paciente ser negro e estar utilizando tornozeleira eletrônica decorrente de processo anterior, no qual foi absolvido da acusação de organização criminosa.
+Ressalta que o parecer ministerial de origem teria inserido narrativas estranhas ao processo, supostamente oriundas de outro feito, o que configuraria flagrante ilegalidade. Aduz que o paciente é primário nesta acusação, que o crime imputado não envolve violência ou grave ameaça, e que não houve apreensão de armas de fogo. Aponta excesso de prazo na apreciação do mérito do habeas corpus pelo Tribunal estadual, uma vez que, desde o indeferimento da liminar em 17/ 5/2025, não houve julgamento colegiado, mesmo após a emissão de parecer ministerial.
+Afirma ser incabível a utilização de processos em andamento para justificar a prisão preventiva ou caracterizar maus antecedentes, citando a Súmula 444 do Superior Tribunal de Justiça e precedentes do Supremo Tribunal Federal. Argumenta que não há periculum libertatis, que as circunstâncias do caso não indicam risco de reiteração delitiva e que medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal, ou prisão domiciliar, nos termos do art. 318-A do mesmo diploma, seriam suficientes.
+Diante disso, requer, liminarmente, a revogação da prisão preventiva ou, alternativamente, sua substituição por medidas cautelares diversas ou prisão domiciliar com monitoração eletrônica. No mérito, pleiteia a concessão da ordem para revogar a prisão preventiva, aplicando-se, se necessário, as medidas previstas nos arts. 319 e 318-A do Código de Processo Penal, com expedição de alvará de soltura.
+Indeferida a liminar (e-STJ fls. 74/76) e prestadas as informações (e-STJ fls. 79/82 e 88/108), o Ministério Público Federal manifestou-se pela prejudicialidade do mandamus (e-STJ fls. 109/111).
+É o relatório. Decido.
+Busca-se, no presente recurso, a revogação da prisão preventiva do paciente ou a sua colocação no regime domiciliar.
+Ocorre que, conforme informações prestadas pelo Juízo processante, em 14/8/2025, a prisão cautelar do paciente foi relaxada , momento em que foi expedido o alvará de soltura em seu favor.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
