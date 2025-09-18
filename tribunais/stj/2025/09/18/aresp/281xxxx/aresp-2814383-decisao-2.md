@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra a decisão do Tribunal local que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0100363-91.2014.8.20.0124.
+Consta dos autos que o réu foi condenado às penas de 6 anos, 11 meses e 18 dias de reclusão, em regime inicial fechado, além de 33 dias-multa, pela prática de dois crimes de corrupção passiva (art. 317 do CP), em concurso material.
+Nas razões do especial, alega o recorrente que houve violação do art. 59 do Código Penal, pois o Tribunal local reduziu excessivamente a pena, ao analisar o recurso defensivo. Refere que a fração de 1/8 sobre a pena mínima, para cada circunstância judicial negativa, revela-se desproporcional, porque, mesmo que todas as circunstâncias judiciais fossem negativas, a pena-base não chegaria sequer à metade da pena máxima abstratamente prevista no tipo penal. Requer, assim, a reforma do acórdão, para que se restabeleça o critério adotado na sentença de primeiro grau (1/8 entre o mínimo e o máximo da pena, para cada circunstância judicial valorada negativamente - fls. 1.240/1.251).
+O recurso não foi admitido, com base na Súmula 83/STJ (fls. 1.343/1.348).
+Daí o presente agravo (fls. 1.366/1.371).
+O processo foi a mim distribuído por prevenção do AREsp n. 2.060.992.
+O Ministério Público Fe deral apresentou parecer opinando pelo conhecimento do agravo para que não se conheça do recurso especial (fls. 1.465/1.474).
+É o relatório.
+O agravo é admissível e deve ser conhecido, porquanto impugna adequadamente os fundamentos da decisão recorrida.
+Todavia, o recurso especial não deve ser conhecido.
+Quanto às frações de exasperação no arbitramento da pena-base, observo que não há violação do art. 59 do Código Penal, como sustentado pelo recorrente.
+É certo que há relativa margem de discricionariedade do juiz na fixação da pena-base, mediante fundamentação que exige análise das circunstâncias fáticas do caso concreto e observância dos princípios da razoabilidade e da proporcionalidade (HC n. 364.893/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/12/2017).
+Não há impedimento a que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto (AgRg no REsp n. 1.499.293/RJ, Ministro Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/12/2017). Por idênticos fundamentos, nada impede que as circunstâncias judiciais negativas sejam avaliadas de forma branda.
+Estando devidamente fundamentada a dosimetria da pena-base, é incabível a sua revisão pelo Superior Tribunal de Justiça. A dosimetria constitui operação lógica que envolve profundo exame de circunstâncias fáticas, em regra inviável na via de habeas corpus e de recurso especial, conforme a jurisprudência do STJ (HC n. 240.514/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/4/2014).
+Com efeito, na esteira do entendimento do STJ, não se mostra possível mensurar matematicamente o aumento da pena-base, de forma a se atribuir igual acréscimo de pena para cada circunstância judicial considerada negativa. A lei confere ao julgador certo grau de discricionariedade na análise das circunstâncias judiciais, sendo assim, o que deve ser avaliado é se a fundamentação exposta é proporcional e autoriza a fixação da pena-base no patamar escolhido, sendo vedada a revisão aprofundada em recurso especial sem demonstração de ilegalidade manifesta (AgRg no REsp n. 2.191.838/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/4/2025).
+Ainda, a destacar a inexistência de critério matemático rígido, tem-se decidido que faz parte do juízo discricionário do julgador indicar o aumento da pena em razão da existência de circunstância judicial desfavorável, não estando obrigado a seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1 /6 sobre a pena-base, de 1/8 do intervalo entre as penas mínima e máxima, ou, até mesmo, outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório (AgRg no AREsp n. 2.578.562/SE, de minha relatoria, Sexta Turma, DJEN 29/4/2025).
+Dessa forma, incide ao caso o óbice da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial (art. 253, parágrafo único, II, a, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. RECURSO DO MINISTÉRIO PÚBLICO. PRETENSÃO À MAJORAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. INEXISTÊNCIA DE CRITÉRIO MATEMÁTICO.
+Agravo conhecido para não conhecer do recurso especial.
