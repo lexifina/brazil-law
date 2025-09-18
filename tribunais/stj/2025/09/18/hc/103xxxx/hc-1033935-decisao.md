@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DIEGO FERNANDO GONZAGA, condenado pela prática do crime de posse irregular de munição de uso permitido, previsto no art. 12 da Lei n. 10.826/03, à pena de 1 ano e 2 meses de detenção, em regime inicial semiaberto, além do pagamento de 11 dias-multa, (Processo n. 1501641-08.2025.8.26.0378, da 2ª Vara Criminal da c omarca de Itapetininga/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 8/9/2025, negou provimento à apelação defensiva.
+Sustenta, inicialmente, a atipicidade material da conduta imputada ao paciente, argumentando que a apreensão de pequena quantidade de munição (1 pistola de fabricação caseira; 6 munições calibre 380, sendo 5 com ponta ogival e uma com ponta oca) desacompanhada de arma de fogo apta a dispará-la não configura perigo concreto. Aduz que a ausência de demonstração de potencialidade lesiva torna a conduta materialmente atípica.
+Menciona que a condenação do paciente configura constrangimento ilegal, uma vez que não houve apreensão de arma de fogo nem demonstração de qualquer contexto de perigo concreto à coletividade, sendo a conduta destituída de ofensividade.
+Requer, em caráter liminar, a suspensão da execução da pena, com a imediata expedição de alvará de soltura em favor do paciente. No mérito, pleiteia a concessão da ordem para absolver o paciente, reconhecendo a atipicidade material da conduta por ausência de periculosidade concreta. Subsidiariamente, pede a aplicação do princípio da insignificância ou a substituição da condenação por medida menos gravosa.
+Estes autos foram a mim distribuídos por prevenção.
+É o relatório.
+Segundo entendimento desta Corte Superior, não é admissível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem.
+Ademais, não se verifica a ocorrência do ilegal constrangimento, pois para a aplicação do princípio da insignificância ao crime de porte ilegal de munição, este Superior Tribunal não se limita apenas à análise da quantidade de munição encontrada sem a localização do respectivo artefato bélico eficaz, mas ao contexto-fático da apreensão e as condições pessoais do imputado (EREsp 1.856.980/SC, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 30/9/2021).
+No caso, a apreensão da munição encontrada com o paciente decorreu de diligência destinada a apurar os crimes de tráfico de drogas e organização criminosa, além do que se trata acusado com pluralidade de condenações, duas delas definitivas, uma caracterizadora dos maus antecedentes e a outra da reincidência (fl. 286).
+Por fim, incensurável a conclusão do Tribunal estadual de ser incabível a substituição da pena privativa de liberdade por restritivas de direitos, uma vez que sequer contemplados os requisitos objetivos que autorizariam a aplicação dessa benesse (cf. incisos do artigo 44 do Código Penal), fl. 16.
+Assim, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. WRIT IMPETRADO PARA REVISAR CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. AINDA EM CURSO O PRAZO PARA A INTERPOSIÇÃO DO RECURSO ADEQUADO NA ORIGEM. IMPROPRIEDADE DA VIA ELEITA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. SUBSTITU IÇÃO DA PENA. FALTA DOS PRESSUPOSTOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
