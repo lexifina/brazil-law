@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de KHEZIA KHEREN CAMILO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Agravo em Execução n. 4000332-44.2025.8.16.0019).
+Os autos dão conta de que o Juízo da Vara de Execução Criminal de Ponta Grossa/PR indeferiu o pedido de prisão domiciliar (e-STJ fls. 63/64).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, o qual negou provimento ao recurso nos termos da seguinte ementa (e-STJ fl. 73/74):
+EMENTA:DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. PEDIDO DE PRISÃO DOMICILIAR. MÃE DE FILHOS MENORES. REGIME FECHADO. ART. 117 DA LEP. AUSÊNCIA DE DEMONSTRAÇÃO DA IMPRESCINDIBILIDADE. EXISTÊNCIA DE REDE DE APOIO FAMILIAR. MEDIDA EXCEPCIONAL. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em Execução Penal interposto contra decisão da Vara de Execuções Penais que negou o pedido de prisão domiciliar, fundamentado na condição de mãe de duas crianças menores, sendo uma delas portadora de condição de saúde que requer acompanhamento médico. A agravante alega a necessidade de sua presença para o cuidado dos filhos, uma vez que o companheiro enfrenta dificuldades para trabalhar devido às demandas de cuidados da filha menor.
+II. QUESTÃO EM DISCUSSÃO
+2. Saber se é cabível a concessão do benefício da prisão domiciliar a uma condenada que alega ser mãe de filhos menores, considerando a ausência de comprovação da imprescindibilidade de sua presença para os cuidados das crianças e a existência de rede de apoio familiar
+III. RAZÕES DE DECIDIR
+3. A agravante não demonstrou a imprescindibilidade de sua presença para os cuidados dos filhos menores, que estão sob a responsabilidade do genitor e avós, com apoio da rede de proteção social.
+4. A prisão domiciliar é uma medida excepcional, admitida apenas quando há evidência concreta da vulnerabilidade dos filhos ou impossibilidade de cuidados por terceiros, o que não se verifica no caso.
+5. A legislação prevê que a prisão domiciliar é um benefício destinado a condenados em regime aberto, e a agravante cumpre pena em regime fechado, não se enquadrando nas hipóteses legais para concessão do benefício. IV. DISPOSITIVO E TESE 6. Agravo em Execução desprovido.
+No presente writ, o impetrante afirma, em suma, que a paciente é mãe de dois filhos menores, um de 10 anos e a mais nova de apenas 1 ano, que nasceu prematura e requer cuidados médicos constantes. Por esse motivo, faria jus à prisão domiciliar.
+Requer, assim, em liminar e no mérito, a concessão de prisão domiciliar.
+É o relatório.
+Decido.
+Com efeito, "a jurisprudência desta Corte tem orientado que não cabe a concessão de prisão domiciliar com fulcro no art. 318 do CPP e no entendimento firmado pela Suprema Corte no HC n. 146.641/SP, quando se tratar de condenação definitiva (AgRg no HC n. 589.442/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2020).  ..  Em circunstâncias excepcionais, é possível a concessão da prisão domiciliar - fundada no art. 117, III, da LEP - aos presos que cumprem pena em regime prisional diverso do aberto, desde que devidamente comprovado que o menor se encontra em situação de vulnerabilidade. Matéria essa de competência do Juízo da execução, que deverá avaliar a possibilidade de concessão excepcional da benesse mediante ponderação de circunstâncias e elementos de prova concretos" (AgRg no RHC n. 133.483/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/10/2020, DJe 19/10/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. NÃO DEMONSTRADA A IMPRESCINDIBILIDADE DO AGRAVANTE PARA OS CUIDADOS DE SUA MÃE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem entendimento no sentido de que embora o art. 117 da Lei de Execuções Penais estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos Condenados recolhidos no regime fechado ou semiaberto desde que demonstrada a excepcionalidade do caso concreto que demonstre a imprescindibilidade da medida, situação afastada pelas instâncias ordinárias, no caso em exame. (AgRg no HC n.º 592.361/DF, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 1/3/2021)
+2. Neste caso, o Tribunal de origem apresentou fundamentos suficientes para obstar o acesso ao benefício pleiteado, não sendo possível desconstituir tais conclusões sem novo e aprofundado exame do conjunto probatório, providência inviável em sede de habeas corpus, cujo escopo se limita à apreciação de provas pré-constituídas, sem necessidade de dilação probatória.
+3. Agravo regimental improvido. (AgRg no HC 648.472/DF, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021.)
+No caso, a negativa do pedido de prisão domiciliar foi devidamente fundamentada com base no fato de que a paciente não comprovou a condição de única provedora das crianças, inexistindo excepcionalidade a justificar o benefício.
+Destaco o seguinte trecho do aresto combatido (e-STJ fl. 76, grifei):
+Muito embora seja incontroverso o vínculo materno, não restou demonstrada a imprescindibilidade da presença da sentenciada junto aos menores, especialmente considerando os elementos constantes dos autos.
+Conforme apurado no estudo social determinado pelo Juízo a quo, os filhos da agravante encontram-se sob os cuidados do genitor e dos avós paternos, com apoio da rede de proteção local, inclusive com encaminhamento da menor para creche. O relatório técnico apontou que os infantes estão com suas necessidades básicas de alimentação, higiene e segurança devidamente atendidas, inexistindo qualquer indício de desamparo ou situação de risco iminente.
+No que tange à alegação de que o filho menor H. C. L. estaria sozinho após o período escolar, foi expressamente constatado que este participa de atividades esportivas no contraturno e permanece sob a supervisão de familiar próxima à residência da avó, não havendo respaldo nos autos para a afirmação de abandono ou ausência de suporte.
+Ressalte-se que a concessão da prisão domiciliar em fase de execução penal, notadamente em regime fechado, constitui medida de caráter excepcional, admitida apenas quando evidenciada de forma concreta a vulnerabilidade dos filhos menores ou a impossibilidade absoluta de recebimento de cuidados por terceiros, o que não se verifica no presente caso.
+Feitas essas considerações, não vislumbro nenhum constrangimento ilegal a ser sanado.
+Ante o exposto, indefiro liminarmente a presente ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
