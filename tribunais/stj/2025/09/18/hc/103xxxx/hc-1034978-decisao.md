@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WESLEY DA COSTA ORGUIN em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi pronunciado pela suposta prática da conduta descrita no art. 121, § 2º, I e IV, do Código Penal.
+A defesa sustenta que a decisão de pronúncia teria violado os arts. 155 e 414, ambos do Código de Processo Penal, porquanto teria se baseado exclusivamente em elementos colhidos na fase inquisitorial, sem prova judicializada que demonstrasse indícios suficientes de autoria delitiva.
+Requer, liminarmente, a suspensão dos efeitos do acórdão que pronunciou o paciente. No mérito, pugna pela sua despronúncia.
+É o relatório.
+O Superior Tribunal de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observam-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+O Tribunal de origem ressaltou, no acórdão impugnado, que a pronúncia não se baseou somente na prova obtida na fase inquisitorial, mas também nas provas produzidas judicialmente, sobretudo na prova oral e nas imagens colhidas. Verifica-se (fls. 1.274-1.275 - destaquei):
+No caso concreto, verifica-se que CHRISTOPHER teria ido até um endereço no Passo Dorneles onde faria uma corrida para GILMAR, o qual estava vendendo o seu veículo e iria entregá-lo. Na sequência, chegando no local, GILMAR e CHRISTOPHER teriam sido abordados e a vítima teria sido levada pelos indivíduos tripulando o veículo Kadett/Ipanema, cor bordô, vindo a ser executada (evento 3, VÍDEO2).
+GILMAR JÚNIOR SILVA DE FREITAS reconheceu ALEQUISSANDRO CORREA DE OLIVEIRA como uma das pessoas que o abordou no Passo Dorneles, no dia do fato (evento 4, VÍDEO5), assim como MARCELO BRANDÃO, em sede policial, reconheceu WESLEY DA COSTA ORGUIN como o condutor do veículo (evento 4, VÍDEO1).
+O réu MATHEUS TRAJANO PAIVA confirmou, em sede policial, ter dirigido o veículo Kadett, cor bordô, corroborando as imagens encontradas no celular de LUANN RODRIGO SIVINSKI RABAH (evento 1, OUT2 e evento 1, OUT5), bem como o réu, WESLEY DA COSTA ORGUIN , em sede policial, confessou a autoria e reconheceu os corréus ANDREW DOS SANTOS RIBEIRO e WILLIAN KALÉU DE OLIVEIRA MUNHOZ (evento 8, VÍDEO14 e evento 8, VÍDEO13), relatando a dinâmica do fato.
+As testemunhas Roselaine da Veiga dos Santos e Ana Cristina Rosa da Silva, em sede policial e em juízo, reconheceram WILLIAN KALÉU DE OLIVEIRA MUNHOZ nas imagens referentes à prática do fato, corroborando a dinâmica que e o reconhecimento feito anteriormente por WESLEY DA COSTA ORGUIN.
+Dito isso, não há falar em ausência de prova judicializada, uma vez que, assim fosse, os réus seriam beneficiados pela negativa de autoria, mesmo havendo confissão extrajudicial ou até mesmo em situação de flagrância.
+ ..
+No caso concreto, a pronúncia foi proferida considerando: a) o reconhecimento feito em sede policial pelas testemunhas GILMAR e MARCELO, em relação aos acusados ALEQUISSANDRO CORREA DE OLIVEIRA e WESLEY DA COSTA ORGUIN ; b) imagens da motocicleta da vítima sendo retirada da oficina mecânica de propriedade de ALEQUISSANDRO CORREA DE OLIVEIRA, no dia seguinte à prática do fato (evento 3, OUT15), por PAULO, confirmado em sede policial; c) a imagem no Kadett, cor bordô, foi encontrada na galeria de fotos do aparelho de telefone celular do acusado LUANN RODRIGO SIVINSKI RABAH (evento 1, OUT2, p. 7); d) a confissão extrajudicial de MATHEUS TRAJANO PAIVA como o condutor do veículo corroborando a imagem encontrada no celular de LUAN em que aparece a tatuagem da mão (evento 1, OUT5 e evento 1, OUT2, p. 8); e) o reconhecimento de ANDREW DOS SANTOS RIBEIRO e de WILLIAN KALÉU DE OLIVEIRA MUNHOZ como as pessoas que descem do veículo no momento do fato, conforme referido por WESLEY DA COSTA ORGUIN (evento 3, VÍDEO2 e evento 8, VÍDEO13) e, em relação ao segundo, pelas testemunhas Roselaine da Veiga dos Santos e Ana Cristina Rosa da Silva ; f) a confissão extrajudicial de WESLEY DA COSTA ORGUIN (evento 8, VÍDEO14), inclusive quanto ao fato da vítima ter "esperneado" dentro do carro, situação que é possível visualizar quando WILLIAN KALÉU DE OLIVEIRA MUNHOZ é atingido e se afasta um pouco, indo próximo da camionete branca estacionada.
+ ..
+De qualquer modo, note-se que não há falar em decisão exclusivamente baseada em prova produzida no inquérito. O relato das testemunhas em juízo convergem com as provas colhidas, imagens e a confissão extrajudicial dos réus MATHEUS e WESLEY.
+O entendimento do Tribunal de Justiça está em consonância com a jurisprudência desta Corte Superior que se firmou no sentido de que a pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria, não demandando juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas serão dirimidas durante a segunda fase do procedimento do Júri.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, RESISTÊNCIA, DESOBEDIÊNCIA E DESACATO. DECISÃO DE PRONÚNCIA BASEADA EM ELEMENTOS COLHIDOS NA FASE INQUISITORIAL E NA FASE JUDICIAL. INDÍCIOS MÍNIMOS DE AUTORIA. REVISÃO DO ACÓRDÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se tão somente pelo exame da ocorrência do crime e de indícios de sua autoria.
+2. No caso, a pronúncia não se baseou somente na prova obtida na fase inquisitorial, mas também nas provas produzidas judicialmente, sobretudo na prova oral, inclusive no que diz respeito aos crimes conexos.
+3. A alteração do entendimento das instâncias ordinárias, de modo a despronunciar o acusado, demandaria ampla dilação probatória, incabível na via estreita do habeas corpus.
+4. Agravo regimental improvido.
+(AgRg no HC n. 848.629/RS, Sexta Turma, de minha relatoria, DJe de 3/10/2024 - destaquei.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. LEGÍTIMA DEFESA . IMPOSSIBILIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+ ..
+5. A decisão de pronúncia é um juízo de admissibilidade, cabendo ao Tribunal do Júri a análise aprofundada das provas.
+6. A exclusão de qualificadoras só é possível se manifestamente improcedentes, o que não se verifica no caso.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 2.143.622/AL, Quinta Turma Turma, relatora Ministra Daniela Teixeira, DJe de 2/10/2024 - destaquei.)
+Acrescente-se, por fim, que a revisão das premissas fáticas consideradas pelas instâncias antecedentes na formulação do juízo de admissibilidade da acusação demandaria reexame probatório incompatível com a estreita via cognitiva do habeas corpus.
+Diante de tais considerações, portanto, não se observa a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
