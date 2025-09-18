@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado por FAZENDA DO ESTADO DE SÃO PAULO com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 1.757):
+APELAÇÃO - Ação anulatória de débito fiscal ajuizada pelos sócios de pessoa jurídica já extinta quando da autuação pelo não pagamento de crédito tributário relativo a ICMS-DIFAL - Sentença de procedência - Apelo fazendário - Descabimento - Autores que comprovaram documentalmente o pagamento contemporâneo dos tributos, efetuado pela empresa antes de sua extinção - Desnecessidade de produção de prova técnica contábil - Ademais, restou comprovado que o AIIM foi lavrado contra sociedade comercial já dissolvida, sem notificar os sócios e sem franquear acesso aos autos do processo administrativo, impossibilitando defesa pelos sócios - Caracterizado o cerceamento de defesa no âmbito administrativo - Nulidade do AIIM - Sentença mantida - Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.774/1.777).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 1.102 e seguintes do CC; 134 e 135 do CTN.
+Sustenta, em resumo, "A dissolução irregular de sociedade comercial, sem observância do procedimento de liquidação disciplinado pelos artigos 1.102 e seguintes do Código Civil e pendentes débitos fiscais, configura infração a lei, o que respalda a responsabilização solidária dos sócios administradores, nos termos dos artigos 134 e 135 do Código Tributário Nacional" (fl. 1.786).
+Contrarrazões apresentadas às fls. 1.797/1.808.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt nos EDcl no AgInt no REsp n. 1.456.230/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
