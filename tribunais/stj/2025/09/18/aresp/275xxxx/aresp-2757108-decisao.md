@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por PECUARISTA DO RIO FONTOURA LTDA - MICROEMPRESA, com fundamento em óbices relacionados à Súmula 83/STJ e à ausência de violação do art. 1.022 do CPC.
+A agravante sustenta, em suma, que a decisão de inadmissibilidade incorreu em erro ao aplicar o prazo prescricional quinquenal, pois se trata de ação de indenização por desapropriação indireta, cujo prazo de prescrição seria decenário.
+Alega violação aos arts. 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC, por negativa de prestação jurisdicional e falta de fundamentação, pois o acórdão recorrido foi omisso quanto ao termo inicial da contagem do prazo prescricional, diante da pendência de debate sobre a validade do termo de homologação da desistência da desapropriação. Afirma ainda que o acórdão não se manifestou sobre a apontada turbação de sua posse e da incidência da prescrição decenal.
+Aduz que não se aplica a Súmula 83/STJ, pois o acórdão estadual "encerrou error in judicando sob dois aspectos: a definição do termo inicial da contagem do prazo prescricional e, sucessivamente, a ocorrência de prescrição DECENAL no caso concreto, e não QUINQUENAL, como se entendeu" (fl. 2.190).
+Contraminuta apresentada às fls. 2.194-2.199.
+O Ministério Público Federal opina pelo conhecimento do agravo, para não conhecer do recurso especial. (fls. 2.214-2.219)
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Quanto à apontada violação aos arts. 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta, expondo as razões do seu entendimento, mesmo que contrárias aos interesses da parte, como observado no caso em análise.
+De acordo com a jurisprudência consolidada desta Corte e corroborada pelo art. 489 do CPC, o julgador não necessita responder a todas as questões levantadas pelas partes se já existir fundamento suficiente para a decisão.
+Assim, inexiste violação aos arts. 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fls. 2.096-2.097):
+Portanto, entendo correta a conclusão do relator de que o termo inicial da prescrição iniciou-se com a homologação da desistência da desapropriação, sendo o prazo regido pelo Decreto 20.910/32, por se tratar de caráter pessoal, uma vez que com a desistência da desapropriação, não mais seria possível o ajuizamento de ação de desapropriação indireta, tendo em vista que não houve a imissão provisória do INCRA na posse do imóvel, razão pela qual não se aplica a prescrição decenal.
+Aliás, o Superior Tribunal de Justiça, no julgamento dos embargos declaratórios no REsp 722.386/MT, assentou que "que o Incra não se imitiu na posse do imóvel em discussão, fato afirmado não só na sentença como também pelo Tribunal Regional Federal e que não pode ser rediscutido em sede de recurso especial" (EDcl no REsp 722.386/MT, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 04/02/2010).
+Logo, a ciência inequívoca da lesão ao direito dos expropriados ocorreu com a homologação da desistência, quando se constatou que a desapropriação não mais ocorreria e, em consequência, não haveria mais indenização a ser paga.
+ ..
+Diante desse quadro fático, é de se reconhecer a ocorrência da prescrição quinquenal, porquanto a homologação da desistência se deu em 2001 e a ação indenizatória somente foi ajuizada no ano de 2010.
+Verifica-se que o Tribunal de origem considerou que o termo inicial da prescrição se iniciou com a homologação da desistência da desapropriação, sendo o prazo regido pelo Decreto 20.910/1932, por se tratar de caráter pessoal, uma vez que, com a desistência da desapropriação, não mais seria possível o ajuizamento de ação de desapropriação indireta, tendo em vista que não houve a imissão provisória do INCRA na posse do imóvel, razão pela qual não se aplica a prescrição decenal.
+No mesmo sentido:
+PROCESSUAL CIVIL. DESISTÊNCIA DE DESAPROPRIAÇÃO. AÇÃO DE INDENIZAÇÃO. OMISSÃO. INEXISTÊNCIA. PRESCRIÇÃO. ACTIO NATA. MOMENTO DA OCORRÊNCIA DA LESÃO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, não se configurou a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara quanto ao termo inicial do prazo prescricional e esclarecendo que a lesão do direito da parte agravada se efetivou na oportunidade da publicação dos Embargos de Declaração.
+2. Não há vícios de omissão ou contradição. A Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+3. Nota-se que o entendimento do Tribunal de origem está em conformidade com a orientação do STJ no sentido de que, tratando-se de pedido de indenização por desistência de desapropriação pelo Poder Público, o princípio da "actio nata" aplica-se ao direito de pedir indenização, que exsurge no momento em que verificada a lesão e suas consequências.
+4. Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático- probatório, especialmente para reexaminar o momento em que foi tomada ciência inequívoca da lesão ao direito, o que atrai o óbice da Súmula 7/ STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.127.736/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2022, DJe de 24/11/202).
+Portanto, incide a Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável também para interposição de recurso pela alínea a do permissivo constitucional, nos termos da jurisprudência desta Corte.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
