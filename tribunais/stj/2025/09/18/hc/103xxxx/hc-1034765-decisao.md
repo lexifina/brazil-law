@@ -1,0 +1,14 @@
+DECISÃO
+CLAUDEMIR CARDOSO DE OLIVEIRA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa sustenta que o pedido do paciente, de progressão de regime, foi indeferido sob o argumento de não implementação do requisito objetivo, que seria atingido apenas em 27/11/2025. Aduz que houve erro material nos cálculos da liquidação das penas. Ademais, a gravidade abstrata do delito e a longevidade da pena não são motivos suficientes para negar o benefício.
+Requer seja cassado o acórdão recorrido e determinada a imediata progressão do paciente ao regime semiaberto.
+Decido.
+O Juiz da VEC indeferiu a progressão de regime por falta de implementação de seus requisitos, objetivo e subjetivo. Quanto ao mérito do condenado, salientou que o reeducando voltou a delinquir durante o regime aberto. Confira-se: "a expectativa mais provável é da reinserção no crime, fato já constatado entre o cumprimento de um período de pena e o seguinte, decorrentes de novos delitos, retornando ao cárcere após o cumprimento de pena em regime aberto" (fls. 26-27).
+Segundo o acórdão recorrido, é desnecessário discutir a implementação, ou não, do requisito subjetivo, uma vez que o reeducando "ainda não cumpriu lapso temporal suficiente para o benefício" e "terá direito à progressão ao regime semiaberto tão somente em 27/11/2025" (fl. 11). Essa é a informação que consta do cálculo da pena (fls. 13-23).
+A defesa deixou de opor embargos de declaração contra o julgado e a alegação de erro no cálculo de liquidação das penas não foi apreciada pelo Juiz da VEC nem pelo acórdão apontado como coator. Inexiste pronunciamento do Tribunal de Justiça sobre a controvérsia, e não está inaugurada a competência desta Corte para seu inédito exame, nos termos do art. 105 da Constituição Federal.
+Deveras, não compete a este Superior Tribunal "conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância". (AgRg no HC n. 764.710/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+Ilustrativamente: "Não tendo o Tribunal a quo se pronunciado acerca da tese apresentada,  .. , não cabe a esta Corte Superior decidir por primeiro, sob pena de indevida supressão de instância" (AgRg no HC n. 747.282/AC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª REGIÃO), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022).
+Ressalte-se que o impetrante não teceu considerações sobre a aventada reiteração delitiva durante a execução das penas. Ademais, quanto ao requisito objetivo, nem sequer é possível identificar flagrante ilegalidade no acórdão estadual, passível de correção de ofício, pois o tribunal não se manifestou sobre a matéria.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
