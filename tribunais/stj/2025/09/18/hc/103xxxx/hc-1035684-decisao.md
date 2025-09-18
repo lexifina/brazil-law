@@ -1,0 +1,28 @@
+DECISÃO
+LUCAS LIMAS RAPOSO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro nos Embargos de Declaração na Apelação Criminal n. 0146786-39.2022.8.19.0001.
+Consta dos autos que o paciente foi condenado a 1 ano e 8 meses de reclusão, em regime aberto, mais multa, pela prática do delito previsto no art. 33, caput, e § 4º, da Lei de Drogas.
+A defesa pleiteia, por meio deste writ, seja determinado "o retorno dos autos ao primeiro grau para que as partes se manifestem a respeito da possibilidade de oferecimento do Acordo de Não Persecução Penal" (fl. 18). Pleiteia, liminarmente, seja suspenso o trâmite do feito originário.
+O caso comporta o julgamento antecipado, visto que se adequa a pacífica orientação desta Corte para hipóteses similares.
+O Tribunal de origem rejeitou a pretensão defensiva pelos seguintes fundamentos (fls. 23-24):
+Dessarte, pontua-se que, não acolhidas pelo órgão colegiado os termos das razões recursais defensivas, torna-se desnecessário o enfrentamento de todos os argumentos deduzidos pelas partes, podendo apenas apreciar aqueles capazes de infirmar, concretamente, a conclusão adotada pelo julgador.
+Além disso, ressalta-se inexistir qualquer omissão sobre a alegada violação ao direito do recorrente (remessa ao Ministério Público para oferecimento de ANPP), uma vez que a referida tese não foi suscitada no recurso, tratando-se de verdadeira inovação defensiva, ventilada extemporaneamente, o que é vedado em sede de embargos de declaração, conforme a jurisprudência consolidada do STJ:
+ ..
+Merece registro, ainda, que, para aplicação do benefício almejado, faz-se necessário o cumprimento dos seguintes requisitos:
+I) confissão formal e circunstancial da prática da infração penal; II) infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos; e III) necessidade e suficiência da medida para reprovação e prevenção do crime.
+Nesse particular, embora tenha o embargante, segundo os policiais que realizaram a prisão, informalmente admitido a posse da droga, posteriormente, em juízo, negou terminantemente que estivesse vendendo os entorpecentes, inclusive atribuindo aos agentes do Estado um flagrante forjado e agressões físicas, fundamentando o pedido absolutório por insuficiência probatória.
+Tal conduta processual, por si só, afasta qualquer possibilidade de oferecimento de ANPP, conforme o posicionamento do STJ sobre o tema, a saber:
+ ..
+Ademais, a Procuradoria de Justiça, em seu parecer, id. 397, acerca da viabilidade de oferecimento do ANPP, destacou "que, in casu, não se mostra necessário e suficiente para a reprovação e prevenção do crime".
+No caso, verifica-se que a recusa da o Ministério Público estadual em denúncia se fundou na "falta de preenchimento de um dos requisitos exigidos para a propositura do acordo. Isto porque, embora o delito de tráfico de drogas seja daqueles cometidos sem violência ou grave ameaça à pessoa, conta com uma pena mínima de cinco anos de reclusão" (fl. 90).
+Todavia, diante da superveniência do julgamento, em que a instância de origem reconheceu a minorante do tráfico privilegiado na fração máxima, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Ademais, noto que, ao ofertar parecer sobre o tema, a Procuradoria de Justiça se limitou a afirmar, de modo genérico, que a medida não seria suficiente para a reprovação e prevenção do crime, sem indicar nenhum dado concreto dos autos que lastreasse sua conclusão.
+Em razão da recente orientação firmada pelo STF (HC n. 185.913/DF), que pacificou o tema controvertido quanto a retroatividade da Lei n. 13.964/2019 - na direção de que mesmo ausente a confissão do réu até o momento de análise sobre a incidência do instituto da ANPP e desde que o pedido haja sido feito antes do trânsito em julgado, é possível a incidência da referida norma - deve ser concedida a ordem.
+Deveras, segundo ficou consignado no acórdão proferido no HC n. 185.913/DF, da relatoria do Ministro Gilmar Mendes, " é  cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado".
+E ainda: "Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo".
+No presente caso, observa-se que o pleito de oferecimento de ANPP foi formulado em embargos de declaração, de modo que a condenação não havia transitado em julgado. Assim, verificada a possibilidade de aplicação do instituto, em conformidade com o que foi decidido pelo Supremo Tribunal Federal, cabível o acolhimento do pleito defensivo.
+À vista do exposto, concedo a ordem, in limine, para determinar o retorno dos autos ao Tribunal de Justiça de origem a fim de que intime o Ministério Público estadual, para avaliação oportuna sobre a possibilidade de oferecimento do
+ANPP, devendo eventual recusa ser devidamente fundamentada.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Em tempo, corrija-se a autoridade impetrada na autuação deste feito.
+Publique-se e intimem-se.
+EMENTA
