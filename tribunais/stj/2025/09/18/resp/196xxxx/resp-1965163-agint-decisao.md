@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interno interposto por TDC Distribuidora de Combustíveis S.A. contra a decisão de fls. 727-736 (e-STJ), da lavra deste signatário, que negou provimento ao recurso especial, assim ementada:
+RECURSO ESPECIAL. TRIBUTÁRIO. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR MEIO DE RECURSO ESPECIAL. CREDITAMENTO. PIS/COFINS. COMÉRCIO VAREJISTA DE COMBUSTÍVEIS. TRIBUTAÇÃO MONOFÁSICA. IMPOSSIBILIDADE DE CREDITAMENTO. TEMA REPETITIVO N. 1.093. RECURSO ESPECIAL DESPROVIDO.
+No presente agravo interno (e-STJ, fls. 743-754), a insurgente alega que a decisão monocrática não considerou adequadamente a especificidade do álcool hidratado que possui incidência bifásica (e não monofásica, como a gasolina e o diesel).
+Afirma que, ao contrário da gasolina e do diesel - que estão sujeitos ao regime monofásico de tributação, em que apenas o produtor ou importador recolhe PIS e COFINS -, o álcool hidratado está submetido a uma incidência bifásica, ou seja, tanto o produtor/importador quanto o distribuidor são obrigados a recolher essas contribuições.
+Por isso, argumenta que, como distribuidora que também recolhe PIS e COFINS na venda do etanol, tem direito ao aproveitamento de créditos tributários, com base no princípio da não cumulatividade, não se aplicando, portanto, o Tema 1.093/STJ (relacionado a bens sujeitos à tributação monofásica).
+Assim, postula a reforma da decisão e o conhecimento do agravo para que seja provido o recurso especial.
+Impugnação às fls. 760-766 (e-STJ).
+É o relatório.
+Da análise das razões recursais, tem-se guardar relevância a argumentação expendida pela recorrente, segundo a qual o Tema 1.093/STJ (in verbis: é vedada a constituição de crédito da contribuição para o PIS e da COFINS sobre os componentes de aquisição de bens sujeitos à tributação monofásica - arts. 3, I, "b", da Lei n. 10.637/2002 e da Lei n. 10.833/2003) não se aplicaria, ao menos integralmente, à hipótese dos autos, a considerar que, após a edição dos Decretos n. 9.101/17 e 9.112/2017, que determinaram a majoração das alíquotas das referidas contribuições para o PIS e COFINS, antes zerada, para as Distribuidoras, não se estaria mais diante de um regime monofásico, mas, sim, bifásico, já que, tanto o produtor/importador, como o distribuidor, na saída da mercadoria de seus esta belecimentos, passaram a ser onerados pelos tributos em comento.
+Considerando os fundamentos trazidos no recurso e atendidos os pressupostos de admissibilidade, dou provimento ao presente agravo interno para reconsiderar a decisão ora impugnada, a fim de que a matéria seja melhor examinada pelo Colegiado da Segunda Turma.
+A esse fim, dê-se ciência às partes acerca da inclusão do Recurso Especial n. 1.965.163/PE na pauta de julgamento da Segunda Turma Turma desta Corte de Justiça, do dia 14.10.2025, sem prejuízo da correspondente disponibilização e publicação, feitas ordinariamente.
+Publique-se.
+EMENTA
