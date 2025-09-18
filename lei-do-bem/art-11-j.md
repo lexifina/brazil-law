@@ -1,0 +1,2 @@
+Art. 11-J. Os benefícios e os incentivos previstos no art. 11-C terão prazo de vigência de cinco anos, na forma do disposto no art. 139 da Lei nº 15.080, de 30 de dezembro de 2024.
+Parágrafo único. Os benefícios fiscais relativos aos tributos previstos no art. 11-C, caput, incisos I, II e III, produzirão efeitos até 31 de dezembro de 2026, observado o disposto na Emenda à Constituição nº 132, de 20 de dezembro de 2023, e na Lei Complementar nº 214, de 16 de janeiro de 2025.

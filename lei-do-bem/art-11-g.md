@@ -1,0 +1,1 @@
+Art. 11-G. Na hipótese de não ser efetuado o recolhimento na forma do disposto no art. 11-D, no art. 11-E ou no art. 11-F, caberá lançamento de ofício, com aplicação de juros e da multa de que trata o art. 44 da Lei nº 9.430, de 27 de dezembro de 1996.

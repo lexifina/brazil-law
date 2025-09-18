@@ -1,0 +1,1 @@
+Art. 11-E. A pessoa jurídica coabilitada que não cumprir as condições de que trata o art. 11-C, § 9º, fica obrigada a recolher os tributos suspensos, acrescidos de juros e multa de mora, calculados a partir da data de ocorrência dos respectivos fatos geradores.
