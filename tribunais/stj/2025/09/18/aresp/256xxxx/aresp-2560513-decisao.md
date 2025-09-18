@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por PRESTES CONSTRUTORA E INCORPORADORA LTDA contra decisão que negou seguimento a recurso especial manejado, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, em face de acórdão assim ementado (fl. 978):
+INCORPORAÇÃO IMOBILIÁRIA. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA NÃO VERIFICADA. DANOS MATERIAIS ORIUNDOS DOS VÍCIOS DE CONSTRUÇÃO CONSTATADOS EM PERÍCIA. RESPONSABILIDADE DA CONSTRUTORA. FRUSTRAÇÃO DA EXPECTATIVA DA AQUISIÇÃO DE IMÓVEL EM BOAS CONDIÇÕES. INDENIZAÇÃO POR DANO MORAL DEVIDA. ADEQUAÇÃO DO QUANTUM ARBITRADO AOS PARÂMETROS DA CÂMARA. TERMO INICIAL DOS JUROS DE MORA. RELAÇÃO CONTRATUAL. DATA DA CITAÇÃO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. APELAÇÃO DOS AUTORES PARCIALMENTE PROVIDA. APELAÇÃO DA RÉ NÃO PROVIDA.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o artigo 186 do Código Civil. Quanto à suposta ofensa ao artigo 186 do Código Civil, sustenta que não houve comprovação de dano moral indenizável, que o Tribunal de origem concluiu que os danos morais decorrem dos vícios apurados em perícia técnica, bem como os presumiu como in re ipsa. Sustenta também dissídio jurisprudencial neste sentido.
+Pretende a exclusão da condenação a título de dano moral.
+Contrarrazões ao recurso especial às fls. 1209-1227.
+O recurso especial não foi admitido, com fundamento na Súmula 7 do STJ, que impede o reexame de matéria fático-probatória e no tocante ao dissídio sob o fundamento que a incidência do óbice da súmula 7 impede o exame do dissídio (fls. 1230-1235 e- STJ).
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, alegando que o recurso especial não demanda reexame de provas, mas sim revaloração jurídica, e que o dissídio jurisprudencial foi devidamente demonstrado. Acrescenta, ainda, violação ao art.944 do Código Civil e divergência jurisprudencial no tocante a inclusão do BDI na indenização material, como dano material presumido.
+Foi apresentada contraminuta às fls. 1250-1257, na qual a parte agravada alega que o recurso especial não preenche os requisitos de admissibilidade, sendo uma tentativa de reexame de provas, o que é vedado pela Súmula 7 do STJ. Sustenta que a decisão recorrida está fundamentada e que o valor dos danos morais foi fixado de acordo com as peculiaridades do caso.
+Assim delimitada a controvérsia, conheço do agravo e passo ao julgamento do recurso especial.
+O recurso merece provimento.
+Trata-se de ação de indenização por danos materiais e morais proposta por MARIA EVA DE ASSUNÇÃO GOMES e SEBASTIÃO GOMES SOBRINHO contra PRESTES CONSTRUTORA E INCORPORADORA LTDA, alegando vícios de construção em imóvel adquirido. Os autores pleitearam indenização por danos materiais e morais, além de outras condenações.
+A sentença julgou procedentes os pedidos, condenando a requerida ao pagamento de indenização por danos materiais e morais, entendo que estes eram presumidos (fls. 800-801 e-STJ):
+Quanto aos danos morais, procedente a pretensão da parte autora.
+Pois bem, acerca do dano moral, tenho que o dano arguido pelo autor se trata de dano puro, pelo que não é necessária investigação de culpa, sendo suficiente a existência do ilícito e o nexo de causalidade.
+Logo, o dano moral puro independe de provas do prejuízo sofrido, pois o fato ofensivo pressupõe o dano à intimidade e dignidade da pessoa. É evidente que os vícios de construção do imóvel causaram frustração e desconforto aos autores, caracterizando-se danos imateriais. Não se trata de mero aborrecimento.
+(..)
+Deste modo, o dano moral pretendido há que ser acolhido, pois não restam dúvidas quanto a ilicitude praticada pela requerida, pelo que o dano é presumível e, portanto, inevitável a obrigação de indenizar os prejuízos causados.
+O Tribunal de origem manteve a condenação, reconhecendo a responsabilidade da construtora pelos vícios de construção e a frustração da expectativa dos autores, majorando o valor dos danos morais e dos honorários advocatícios, sem qualquer cotejo com o quadro fático probatório.
+Quanto à a condenação a título de dano moral por vícios de construção verifica-se que o Tribunal local decidiu a questão em desacordo com o entendimento consolidado na jurisprudência do Superior Tribunal de Justiça. Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE INDENIZAÇÃO. IMÓVEL. VÍCIOS DE CONSTRUÇÃO. DANO MORAL. CARACTERIZAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O dano moral, na ocorrência de vícios de construção, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação de direito da personalidade dos proprietários do imóvel. Na hipótese, a conduta da construtora extrapolou o simples aborrecimento ou dissabor, causando séria angústia e sofrimento íntimo aos autores e sua família, não se caracterizando como mero inadimplemento contratual.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.288.145/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/11/2018, DJe de 16/11/2018.)
+CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS NO IMÓVEL. DANO MORAL. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência desta Corte, "o dano moral, na ocorrência de vícios de construção, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação de direito da personalidade dos proprietários do imóvel" (AgInt no AREsp 1.288.145/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe de 16/11/2018).
+2. No caso, a Corte de origem não apontou nenhuma circunstância excepcional, apta a gerar a responsabilidade por compensar danos morais. Em verdade, a condenação considerou a existência de danos morais presumíveis, afastando-se, portanto, dos critérios estabelecidos por esta Corte Superior, em casos de vícios construtivos em imóvel.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.553.997/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. VÍCIOS CONSTRUTIVOS. DANO MORAL. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Consoante a jurisprudência desta Corte, "o dano moral, na ocorrência de vícios de construção, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação de direito da personalidade dos proprietários do imóvel" (AgInt no AREsp 1.288.145/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe de 16/11/2018).
+2. No caso, a fundamentação para a condenação em danos morais teve como justificativa somente a existência de vícios de construção no imóvel, sem motivação adicional, a justificar a angústia ou abalo psicológico configuradores de dano moral.
+3. Deve, pois, o presente recurso especial ser provido, ante a ausência de referência a circunstância especial que extrapole o mero aborrecimento decorrente do atraso na entrega do imóvel.
+4. Agravo interno provido para dar provimento ao recurso especial, a fim de afastar a condenação por danos morais.
+(AgInt no REsp n. 1.955.291/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 2/3/2022.)
+No que concerne ao pleito de exclusão da BDI dos danos materiais não se admite o conhecimento de matéria que foi suscitada apenas em agravo interno, haja vista a ocorrência da preclusão consumativa.
+Em face do exposto, conheço do agravo para, de logo, conhecer em parte e, nessa extensão, dar parcial provimento ao recurso especial, para excluir a condenação por danos morais.
+Intimem-se.
+EMENTA
