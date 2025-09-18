@@ -1,0 +1,15 @@
+DECISÃO
+DÉCIO RODRIGUES DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+Na peça, a defesa informa que o Juiz da VEC deferiu o livramento condicional ao paciente. Contudo, o Ministério Público interpôs agravo em execução, alegando ausência do requisito subjetivo devido a histórico de sete faltas disciplinares graves, já reabilitadas, e o benefício foi revogado.
+Para a defesa, o acórdão não está idoneamente fundamentada, pois não há registro de faltas graves nos últimos 12 meses e existe exame criminológico favorável. Argumenta que a revogação do benefício viola o princípio da legalidade e os direitos constitucionais da individualização da pena, ressocialização e dignidade da pessoa humana.
+Requer, por isso, o restabelecimento da decisão do juízo da execução penal, com a concessão do benefício ao paciente.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, pois existe precedente vinculante sobre a matéria.
+A prática de falta disciplinar grave, muito embora não interrompa a contagem do prazo para fins de livramento condicional, impede a concessão do benefício por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do que exigia o art. 83, inciso III, do Código Penal.
+O "citado dispositivo legal não determina um período específico de aferição do requisito subjetivo, de modo que o bom comportamento carcerário deve ser analisado em todo o tempo de execução da pena" (REsp n. 1.744.684/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/8/2018, DJe de 24/8/2018).
+Mesmo com as alterações promovidas pela Lei n. 13.964/2019, prevalece a mesma compreensão, conforme a tese jurídica fixada no Tema Repetitivo n. 1.161, uma vez que "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+Além da previsão objetiva de não cometimento de falta grave nos últimos 12 meses, a legislação também estabelece requisito subjetivo mais rigoroso para o livramento condicional, fase mais benéfica da execução e que não pressupõe a passagem pelos regimes semiaberto e aberto. A exigência é proporcional à amplitude do benefício. Para alcançar a liberdade antecipada é imprescindível cumprir determinadas exigências, uma delas o bom comportamento durante toda a execução da pena.
+Seria inconsistente permitir que um reeducando do regime fechado ou semiaberto, com histórico de mau comportamento, obtenha a antecipação de liberdade quando nem sequer preenche os requisitos para ser transferido aos regimes mais brandos, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
