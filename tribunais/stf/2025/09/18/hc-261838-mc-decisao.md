@@ -1,0 +1,33 @@
+DECISÃO
+
+    1. A defesa de Marcos Robisom Soares impetrou habeas corpus, com pedido de medida liminar, contra decisão monocrática proferida por ministro do Superior Tribunal de Justiça.
+
+    Conforme se depreende dos autos, o Juízo de origem indeferiu a concessão do indulto previsto no artigo 1º, inciso I, do Decreto Presidencial nº. 11.846/2023, com base na classificação dos crimes como hediondos pela Lei n. 13.964/2019.
+
+    O impetrante, em síntese, pretende a ”COMUTAÇÃO DE 1/5 de sua pena, por preencher integralmente os requisitos previstos no Decreto Presidencial nº 11.846/2023, afastando-se qualquer interpretação que implique aplicação retroativa de norma penal mais gravosa”.
+
+    É o relatório. Decido.
+
+    2. O processo está em condições de ser julgado, nos termos do art. 52, parágrafo único, do Regimento Interno. Dispenso a remessa ao Ministério Público Federal.
+
+    Reputo inadmissível o habeas corpus.
+
+    Como se sabe, o Supremo consolidou jurisprudência no sentido de não se conhecer de habeas corpus impetrado em face de decisão monocrática de ministro de tribunal superior, por caracterizar supressão de instância (HC 244.655 AgR, ministro Edson Fachin; HC 248.694 AgR, ministro Alexandre de Moraes; HC 246.682 AgR, ministro Gilmar Mendes; HC 243.889 AgR, ministro Dias Toffoli; HC 248.658 AgR, ministro Cristiano Zanin, HC 248.674 AgR, Flávio Dino; e HC 246.390 AgR, da minha relatoria).
+
+    Não obstante a jurisprudência desta Corte estabeleça a inadmissibilidade da impetração contra pronunciamento individual de membro de tribunal superior, a constatação de evidente ilegalidade enseja a concessão do habeas corpus de ofício, conforme disposto nos arts. 647-A, caput e parágrafo único, e 654, § 2º, ambos do Código de Processo Penal, e no art. 193, II, do Regimento Interno do Supremo, observada a orientação jurisprudencial desta Casa. Menciono, entre outros, o HC 244.274 AgR, da minha relatoria; e o HC 243.077, ministro Edson Fachin.
+
+    Ocorre que, segundo penso, tal situação não foi verificada no caso em exame, eis que, conforme consignou o ato coator, “o entendimento adotado pela instâncias ordinárias está em consonância com a jurisprudência desta Corte Superior, no sentido de que, para fins de aplicação do referido benefício, a natureza da infração penal deve ser aferida na data da edição do decreto presidencial respectivo e não da data de cometimento do delito”.
+
+    Em síntese, não vislumbro situação de flagrante ilegalidade para superar a inviabilidade do conhecimento do habeas corpus impetrado contra decisão monocrática de ministro de Tribunal Superior, nos termos da pacífica orientação jurisprudencial desta Suprema Corte.
+
+    3. Do exposto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º).
+
+    4. Intime-se. Publique-se.
+
+Brasília, 18 de setembro de 2025.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
