@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de DEYVID JOSE DE FRANCA SILVA - condenado pelos crimes de tráfico de drogas e associação para o tráfico -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente na ação penal que
+tramitou perante o Juízo de Direito da Vara Única da comarca de São Joaquim do Monte/PE (Ação Penal n. 0000379-13.2018.8.17.1310), ao argumento de nulidades na busca domiciliar e no reconhecimento pessoal. Subsidiariamente, pede a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, como destacado pela Corte estadual, a diligência policial decorreu de fundadas suspeitas, lastreadas em investigação prévia que já apurava a atuação do grupo criminoso.  ..  Nesse sentido, as fundadas razões para a entrada na residência restaram evidenciadas: a) pela prévia investigação policial em curso; b) pela informação precisa sobre o local onde se abrigavam os comparsas; e c) pela própria dinâmica dos fatos, com trocas de tiros no local e fuga do apelante (fl. 38).
+De igual maneira, não há falar em constrangimento ilegal decorrente do reconhecimento pessoal, pois o reconhecimento (fotográfico e pessoal), ainda que, por ventura, contenha algum vício, não se afigura como um único elemento probatório que lastreia a denúncia, que se encontra amparada em outras provas independentes (independent source), reclamando-se, assim, a aplicação da ressalva contida no próprio leading case da Sexta Turma desta Corte, firmado no julgamento do HC n. 598.886/SC (AgRg no HC 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022). No caso, a cédula de identidade do apelante foi encontrada no local dos fatos (fl. 42).
+Tal o contexto, não há como abraçar as teses absolutórias defensiva, sem o efetivo revolvimento do acervo fático-probatório, providência vedada na via estreita do habeas corpus.
+Por fim, não foi demonstrado constrangimento ilegal relacionado à revisão da dosimetria, pois os fundamentos em que se sustenta o acórdão a quo se encontram em harmonia com a jurisprudência atual do Superior Tribunal de Justiça.
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. DOSIMETRIA. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem denegada.
