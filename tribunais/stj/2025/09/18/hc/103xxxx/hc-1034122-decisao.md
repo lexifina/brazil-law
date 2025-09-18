@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de THIAGO DE LIMA PESSOA - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 0001640-57.2019.8.17.1090), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 1ª Vara Criminal da comarca de Paulista/PE, ao argumento de ser ilegal a incidência de duas majorantes previstas na parte especial do Código Penal sem a respectiva fundamentação.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal de origem logrou fundamentar a incidência concomitante das duas majorantes da parte especial, ao sustentar os elementos constantes dos autos fazem referência acerca do modus operandi do delito, praticado com especial gravidade e maior grau de reprovação na conduta, com o emprego de extrema violência durante o iter criminis. Segundo o depoimento da testemunha presencial Camila Karolina Campos dos Santos, ela e a vítima Ubiraci foram subjugadas, forçadas a deitar-se ao solo e, em posição de total vulnerabilidade, foi Ubiraci roubado e em seguida alvejado por múltiplos disparos na cabeça, extrapolando, sem sombra de dúvidas, a normalidade do delito (fl. 49).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. EXISTÊNCIA DE DUAS MAJORANTES DA PARTE ESPECIAL (EMPREGO DE ARMA E CONCURSO DE AGENTES). INCIDÊNCIA SIMULTÂNEA COM FUNDAMENTAÇÃO. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Inicial indeferida liminarmente.
