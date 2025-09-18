@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Município de São Paulo desafiando decisão da Presidência do Superior Tribunal de Justiça (fls. 886/889), que conheceu do agravo para não conhecer do recurso especial, sob os fundamentos de que: (I) incide a Súmula 283/STF, pois o acórdão recorrido contém fundamento não atacado no recurso especial; (II) o acórdão recorrido está ancorado na interpretação de lei local, razão pela qual a insurgência encontra óbice na Súmula 280/STF.
+No presente agravo interno, a parte agravante sustenta que: (I) deve ser afastada a Súmula 280/STF, pois "o Acórdão Recorrido não tem como fundamento lei local, apenas se refere a esclarecimento do Perito judicial que, em certo ponto, discorre brevemente sobre uma lei municipal." (fl. 896); e (II) o fundamento do decisum proferido proferido pela instância de origem apontado como não impugnado foi objeto de ataque nas razões do apelo nobre, de modo que não se aplica a Súmula 283/STF.
+Pugna, portanto, pela reconsideração do decisório agravado ou pela submissão do agravo interno ao julgamento colegiado.
+Transcorreu, in albis, o prazo para impugnação, conforme certificado às fls. 903/914.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo conhecimento do agravo e pelo não conhecimento do apelo especial, nos termos assim resumidos (fl. 930):
+ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. VALOR DA INDENIZAÇÃO. MODIFICAÇÃO DO JULGADO QUE DESAFIA O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 07 DO STJ. PARECER DO MPF PELO CONHECIMENTO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+É o breve relatório.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada de fls. 886/889, tornando-a sem efeito, passando novamente à análise do recurso, como se segue:
+Trata-se de agravo manejado pelo Município de São Paulo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 819):
+DESAPROPRIAÇÃO - IMPLANTAÇÃO DO MELHORAMENTO "PARQUE LINEAR DO RIBEIRÃO COCAIA" - INDENIZAÇÃO - Prevalência do valor da indenização apurado pelo perito judicial, equidistante das partes e de confiança do Juízo, consoante especificidades do caso concreto - Método de avaliação justificado e informação de que a aplicação exclusiva de elementos de redução de valores geraria uma indevida redução da indenização ofertada ao expropriado - Sentença mantida, nesse tocante.
+JUROS COMPENSATÓRIOS - Não incidência - Ausência de comprovação de efetiva perda de renda Inteligência do artigo 15-A, § 1º, do Decreto-Lei nº 3.365/1941, cuja constitucionalidade foi reconhecida pelo A. STF, na ADI nº 2.332/DF - Reforma.
+JUROS MORATÓRIOS - Incidentes a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deve ser feito, nos termos do art. 100 da Constituição Federal (art. 15-B do Decreto-lei 3.365/1941), com aplicação da taxa SELIC (EC nº 113/2021) - Sentença reformada, no aspecto.
+HONORÁRIOS - Fixação em 5% sobre a diferença entre a oferta inicial e a indenização - Cabimento - Inteligência do art. 27, § 1, do Decreto-lei nº 3.365/41 - Manutenção. Apelo e reexame necessário parcialmente providos, com observação.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 27, caput, do Decreto-Lei n. 3.365/41. Sustenta que a instância a quo fixou a indenização sem levar em consideração que o imóvel se localiza na Zona Especial de Proteção Ambiental (ZEPAM), circunstância que autoriza a redução do "valor do bem expropriado para R$381.451,40 (trezentos e oitenta e um mil, quatrocentos e cinquenta e um reais, quarenta centavos), válido para JANEIRO/2014" (fl. 843).
+Parecer do Ministério Público Federal às fls. 930/937.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao dirimir a controvérsia, a Corte Estadual asseverou (fls. 823/827):
+No tocante ao valor da indenização, o laudo pericial apurou o valor pela instituição da área desapropriada de R$ 981.925,45 (janeiro/2014 fl.617).
+E, em que pese a irresignação do Município de São Paulo, o valor apurado pelo perito judicial, equidistante das partes e de confiança de Juízo, deve ser mantido. Isso porque, na espécie, o profissional justificou o método utilizado, nos seguintes termos:
+ ..
+No mais, quanto ao fator redutor que a Municipalidade entende ser devido em lotes supostamente situados em área de ZEPAM, discorreu o expert:
+ ..
+Como se vê, o perito judicial justificou, diante das especificidades do caso, o método aplicado, bem como esclareceu o afastamento da aplicação de critérios de redução de valores elencados pela Municipalidade.
+Daí, em não havendo prova técnica capaz de infirmar, com a necessária segurança, a conclusão do laudo pericial definitivo, impõe-se, na espécie, a manutenção do valor total da indenização de R$ 981.925,45 (novecentos e oitenta e um mil novecentos e vinte e cinco Reais e quarenta e cinco centavos) para janeiro de 2014, sendo R$ 930.051,48 como valor do terreno e R$ 51.873,97 para benfeitorias, apurado pelo perito judicial, destaque-se, equidistante das partes e de confiança do Juízo, conforme especificidades do caso concreto, tal como decidido em Primeiro Grau:
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se o laudo pericial reflete ou não a justa indenização, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito do tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. FUNDO DE COMÉRCIO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. ART. 932, III, DO CPC/2015. PERDA DO FUNDO DE COMÉRCIO. INDENIZAÇÃO DEVIDA. JURISPRUDÊNCIA PACÍFICA DO STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. O Relator está autorizado a decidir singularmente o Recurso (art.
+932 do Código de Processo Civil de 2015). Ainda que assim não fosse, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado competente, em Agravo Interno.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+3. O STJ entende que a desapropriação de imóvel pode gerar, em favor do locatário, direito indenizatório atinente ao fundo de comércio.
+4. A Corte de origem, ao fixar os valores devidos a título de indenização, consignou: "(..) o perito judicial se orientou pelo método de Fluxo de Caixa Descontado, pelo qual o valor do fundo de comércio é obtido através do desconto do fluxo de rendimentos futuros de uma empresa, a uma determinada taxa de juros, que variará em função do risco, isto é, do grau de incerteza futuro desse fluxo, consoante se infere às fls. 484 e 528.Com efeito, para se apurar o valor do fundo do comércio indenizável de ambas empresas aplicando-se a metodologia de fluxo de caixa descontado, baseou-se a expert no lucro líquido apurado a partir dos Demonstrativos de Resultados dos anos de 2004 a 2008 da empresa Magalhães Lanches e da Flash Lotérica. Não infirmado, portanto, o trabalho pericial este prevalece como justa indenização pela perda do fundo de comércio".
+Extrai-se do acórdão recorrido e das razões do Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+5. O mesmo se diga em relação aos valores fixados a título de indenização (art. 944 do CC). É inviável analisar a tese defendida no Recurso Especial, pois inarredável rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas no decisum.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.214.147/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
