@@ -1,0 +1,13 @@
+DECISÃO
+GILVAN VALENTIM DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa requer, em liminar e no mérito, a expedição de contramandado de prisão, para que seja observada a Resolução n. 474 do Conselho Nacional de Justiça.
+Decido.
+Sobre o tema, a instância ordinária consignou que:
+Ao examinar os autos, verifica-se que o réu está em prisão domiciliar desde o ano de 2017. A prisão preventiva decretada contra ele foi convertida em domiciliar devido à necessidade de tratamento de câncer de próstata, o que impossibilitou sua permanência no presídio, na época em que tal prisão foi deferida. No entanto, desde maio de 2018, não foi apresentado nenhum documento médico que comprove a necessidade de manutenção da medida em razão de tratamento hospitalar. Ademais, a prisão provisória não mais subsiste, em razão da sentença transitada em julgado e exequível. Além disso, o artigo 105 da Lei de Execução Penal e o artigo 674 do Código de Processo Penal estabelecem que a expedição da Guia de Execução.
+definitiva e o início da competência do Juízo da Execução estão condicionados ao prévio cumprimento do mandado de prisão para os condenados ao regime inicial fechado. Assim, diante do certificado em evento último, considerando a necessidade de cumprimento de mandado de prisão para expedição da guia definitiva no regime fechado, com o início efetivo do cumprimento de pena, deve se expedido o competente mandado de prisão e, uma vez efetuada esta, seja procedido o registro da prisão no BNMP, com a consequente expedição da guia de execução nos termos determinados. Nestes termos, tratando-se de prisão definitiva cujo regime inicial fixado foi o fechado, determino a expedição de mandado de prisão em desfavor do réu. Cumprido o referido mandado, expeça-se a guia definitiva e cumpra-se com as demais diligências determinadas na sentença e no acórdão prolatados nos autos.
+O Conselho Nacional de Justiça estabeleceu, no art. 23 da Resolução n. 417/2021 que, uma vez transitada em julgado a condenação em regime semiaberto ou aberto, o sentenciado será intimado para recolhimento espontâneo, previamente à expedição de mandado de prisão, sem prejuízo, em caso de falta de vagas, da observância das providências estabelecidas no RE 641.320/RS.
+Na situação em apreço, todavia, o recorrente foi condenado ao cumprimento de pena em regime inicialmente fechado, motivo pelo qual não há que se falar em prévia intimação do apenado; o mandado de prisão pode ser expedido imediatamente.
+Não há, portanto, ilegalidade a ser sanada.
+À vista do exposto, nego provimento ao recurso em habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
