@@ -1,0 +1,4 @@
+Art. 54-I. O reconhecimento por ato de bravura é conferido ao policial civil pela conduta que resultar na prática de ato não comum de coragem e audácia que, ultrapassando os limites normais do cumprimento do dever funcional, represente feitos úteis à sociedade na manutenção da segurança pública, pelos resultados alcançados ou pelo exemplo positivo deles emanados.
+§ 1º Na promoção por ato de bravura não é exigido o atendimento dos requisitos previstos no art. 54-B desta Lei Complementar, salvo para ascensão à classe "Especial" que dependerá da conclusão do curso previsto no inciso IV do caput do art. 54-E desta Lei Complementar.
+§ 2º Os requisitos para caracterização do ato de bravura serão regulamentados por Resolução do Conselho Superior de Polícia.
+§ 3º Os efeitos da promoção por ato de bravura serão devidos a partir do protocolo do requerimento administrativo.

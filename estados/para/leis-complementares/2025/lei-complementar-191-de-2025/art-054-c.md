@@ -1,0 +1,1 @@
+Art. 54-C. O processo de promoção, bem como a avaliação de desempenho que o integra, serão regulamentados por Resolução do Conselho Superior da Polícia Civil, a ser homologada por Decreto, observados os critérios previstos nesta Lei Complementar.

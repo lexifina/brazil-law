@@ -1,0 +1,6 @@
+Art. 54-E. O curso de aperfeiçoamento a que se refere o inciso III do caput do art. 54-B desta Lei Complementar, deverá guardar correlação com as atribuições da carreira da Polícia Civil, princípios, diretrizes ou funções institucionais, além de atender aos seguintes requisitos:
+I - para ascensão à classe "B" serão admitidos cursos de prática operacional policial e/ou cursos de extensão na área policial, com carga horária mínima de 60 (sessenta) horas-aula cada, totalizando 180 (cento e oitenta) horas-aula;
+II - para ascensão à classe "C" serão admitidos cursos de pós-graduação afetos à área policial, com carga horária mínima de 360 (trezentas e sessenta) horas-aula;
+III - para ascensão à classe "D" serão admitidos cursos de pós-graduação afetos à gestão pública para os Delegados de Polícia e cursos de pós-graduação afetos à área policial para os demais cargos, com carga horária mínima de 360 (trezentas e sessenta) horas-aula; e
+IV - a promoção à classe "Especial" far-se-á por meio da realização de Curso Superior de Polícia de instituição oficial do país para o cargo de Delegado de Polícia e curso específico de pós-graduação para os demais cargos.
+Parágrafo único. Os cursos de aperfeiçoamento serão válidos para a classe específica a que se destinam, não podendo ser aproveitados para promoção referente à classe subsequente.
