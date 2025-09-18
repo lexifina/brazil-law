@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo em recurso especial no qual se discute a extensão da responsabilidade civil da imobiliária em relação a danos decorrentes do atraso na entrega de empreendimento imobiliário.
+Os autos do Recurso Especial n. 2.008.545/DF foram afetados ao rito do recurso especial repetitivo, cuja tese representativa da controvérsia foi delimitada nos seguintes termos: Definir os limites da responsabilidade do corretor de imóveis ou da sociedade intermediadora da compra e venda por danos causados ao consumidor, em razão do descumprimento, pela construtora/incorporadora, de obrigação relativa à entrega de empreendimento imobiliário, prevista no contrato de promessa de compra e venda, Tema 1.173 - STJ.
+Segue a ementa do julgado:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. CONTRATO DE PROMESSA COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO CONTRATUAL DA CONSTRUTORA/INCORPORADORA. ENTREGA DO EMPREENDIMENTO IMOBILIÁRIO. RESPONSABILIDADE SOLIDÁRIA. DEFINIÇÃO DOS LIMITES DA RESPONSABILIDADE DA SOCIEDADE INTERMEDIADORA. NECESSIDADE DE FIXAÇÃO DE TESE CONCENTRADA E VINCULANTE.
+1. Delimitação da controvérsia: Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação da tese relativa à:
+1.1. Definir os limites da responsabilidade do corretor de imóveis ou da sociedade intermediadora da compra e venda por danos causados ao consumidor, em razão do descumprimento, pela construtora/incorporadora, de obrigação relativa à entrega de empreendimento imobiliário, prevista no contrato de promessa de compra e venda.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015
+(ProAfR no Recurso Especial 2.008.545/DF, rel. Min. Raul Araújo, Segunda Seção, DJe de 1/12/2022.)
+Como se vê, a questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 1.173), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ. Por fim, consoante orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de se exercitar o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Tema 1.173 pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+ EMENTA
