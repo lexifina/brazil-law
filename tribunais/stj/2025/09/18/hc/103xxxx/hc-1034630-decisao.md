@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de KLEYTON SABINO DE FARIAS e TIAGO DOMINGOS DA SILVA - condenados como incursos no crime de roubo majorado (por quatro vezes) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 0001736-70.2021.8.17.0001), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta aos pacientes pelo Juízo de Direito da 9ª Vara Criminal da comarca de Recife/PE, aos argumentos de que: a) inexiste fundamentação para a exasperação em percentual superior a 1/6 na primeira fase; b) o Tribunal afastou uma circunstância judicial e procedeu à diminuição da pena, mas não de forma proporcional; e c) estão presentes os requisitos da continuidade delitiva entre os crimes atribuídos aos pacientes .
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois:
+a) a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade (EDcl no AgRg no HC 964972/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 24/4/2025);
+b) o Tribunal realizou a diminuição da pena em razão do afastamento da circunstância judicial do comportamento da vítima; e
+c) alcançar conclusão inversa das instâncias ordinárias, a respeito da existência dos requisitos da continuidade delitiva, demandaria reexame de provas, inviável na via eleita.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBOS MAJORADOS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. PERCENTUAL DE AUMENTO DA PENA-BASE, REDUÇÃO PROPORCIONAL DA PENA-BASE EM RAZÃO DO AFASTAMENTO DE CIRCUNSTÂNCIA JUDICIAL E AFASTAMENTO DO CONCURSO MATERIAL DE CRIMES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
