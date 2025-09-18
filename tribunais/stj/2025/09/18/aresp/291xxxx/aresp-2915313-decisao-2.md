@@ -1,0 +1,42 @@
+DECISÃO
+LIDIANE TEIXEIRA DA CONCEIÇÃO agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0000.24.190670-0/001.
+A agravante foi condenada a 9 anos de reclusão mais multa, no regime fechado, pelos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 2º, §§ 2º e 4º, I, da Lei n. 12.850/2013.
+Nas razões do recurso especial, a defesa alega violação dos arts. 158 e 386, do Código de Processo Penal e 50, § 1º, da Lei de Drogas.
+Requer a absolvição da ré ante a ausência de provas da materialidade do delito de tráfico de drogas.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O Tribunal de origem manteve a condenação da ré pelos seguintes fundamentos (fls. 3.881-3.883, grifei):
+A materialidade delitiva restou demonstrada do Autos de Apreensão (ordem 30 e 38), Comunicação de Serviço (ordem 30 a 33), Termo de Juntada (ordem 19), Autos Circunstanciados de Cumprimento de Mandado de Busca e Apreensão (ordem 23, 24, 27, 28 e 39), Relatório Técnico nº 087/2023 (ordem 381/395).
+A autoria, por outro lado, restou demonstrada quanto a ambos os delitos.
+Os depoimentos policiais são claros em narrar a prática delitiva por parte de Lidiane.
+Apesar de uma inicial desconfiança de ser ela apenas usuária de drogas, os policiais ao realizarem maiores pesquisas a respeito dela, chegaram à conclusão de que ela também era vendedora de entorpecentes.
+Notório estabelecer que em sua casa foi apreendida droga tanto em seu guarda-roupa quanto escondido no fogão de sua casa, precisando do auxílio de um cão farejador para se chegar à essa segunda substância.
+O Policial Militar CARLOS ALBERTO NUNES RIBEIRO narra em seu depoimento que "Lidiane, mãe de R.T.A., também era envolvida com o Tráfico de Drogas. Que realizaram campana em local escondido com vista da casa de Lidiane e observaram sujeitos indo à sua casa e ela os entregando algo, não sabe dizer se é dinheiro ou droga, por causa da distância, mas a atuação era típica de tráfico".
+Já o LUÍS BERNARDO RODRIGUES DE MORAES NETO, Delegado da Polícia Civil, quanto a Lidiane, cita que "no dia das buscas e apreensões foi colhida droga na casa de Lidiane e tem uma conversa que ela pede droga a Adriano "ou traz para mim ai, que a minha acabou e depois eu te dou", que "estou precisando aqui". As investigações indicaram a participação de Lidiane também. Tem fotografias de Lidiane no bairro Santa Helena fazendo o sinal do TCP.
+Que os bairros são muito próximos. Que Lidiane é muito próxima de Andreína, que é investigada no bairro Santa Helena. Há relatos também que o amásio de Andreína foi assassinado, antes do início da operação, se não se engana em setembro, ele era membro do TCP do Santa Helena e ele foi vingado, matando um rapaz. Que Lidiane deu abrigo para os executores do crime, segundo informantes anônimos.
+Que na casa de Lidiane foi encontrada droga dentro do forno. Que só com o auxílio de cão farejador que encontraram a droga". Em outro momento de seu depoimento, cita "que nesse grupo tinha mensagens de droga também, Lidiane pediu droga por lá e Vinícius ficou de entregar".
+JOÃO GILVAN ÍNDIO MARTINS, Policial Militar que participou das buscas e apreensões na casa de Lidiane e de seu filho R.T.A., narrou que cumpriram o MBA e foi encontrado no guarda roupa da Lidiane umas buchas de Maconha e com a ajuda do cão farejador, também foi encontrado umas pedras de Crack, no fogão da cozinha".
+O Policial Civil CHAUME DOS SANTOS FRANÇA é também bastante latente ao determinar a participação de Lidiane no Tráfico de drogas, ao afirmar "que Lidiane pediu certa droga nessas conversas.
+Tiveram também acesso a uma fotografia dela, em um grupo de pessoas, e nessa foto estava a pessoa de Andreína, pessoa envolvida no homicídio de Rafael, e todos estavam fazendo o símbolo do TCP.
+Que Lidiane guardou a arma deste crime na casa dela, recebendo a arma das mãos de Andreína". Em outro trecho categoricamente afirma que "Lidiane participava da comercialização e também guardou essa arma para a organização criminosa".
+Além desses, outros policiais ouvidos em juízo também narraram a participação de Lidiane no Tráfico de Drogas. Para não me alongar e repetir indevidamente depoimentos já transcritos, faço referência a eles, que já estão acostados nestes autos no momento de transcrição da Audiência de Instrução e Julgamento.
+A participação de Lidiane restou bastante clara, pois foi apreendida droga em sua residência, em ambientes comuns do imóvel e, inclusive, dentro de seu guarda roupa que, aliado a firme narrativa policial, corroborada por diversos agentes da lei, dão o necessário grau de certeza à autoria delitiva por parte desta Apelante.
+Necessário ressaltar, ainda, que há mensagem de Lidiane para Adriano em que ela requisita a entrega de drogas, evidenciando, mais uma vez, sua participação no Tráfico de Drogas.
+A palavra das testemunhas de defesa e da própria Apelante, uma das únicas que não exerceu o direito constitucional ao silêncio, não é capaz de suplantar a forte prova produzida em juízo em sentido contrário.
+A Comunicação de Serviço (ordem 30/33) conclui, em corroboração das demais provas que Lidiane é pessoa envolvida com o Tráfico de Drogas no bairro 7 de Setembro, afirmando, ainda, que sua casa é utilizada como depósito de drogas e armas de fogo. Apesar de não terem sido encontradas armas em sua residência, drogas foram apreendidas lá.
+Tenho, portanto, em análise do vasto acervo probatório dos autos, que existem provas suficientes para determinar a participação de Lidiane Teixeira da Conceição como uma das vendedoras de droga do bairro, participando efetivamente do Tráfico de Drogas no local.
+Dito isso, necessária sua CONDENAÇÃO como incurso no delito descrito no art. 33 da Lei 11.343/06.
+Em que pesem os argumentos da defesa, observo que o Tribunal de origem não apreciou, nem sequer implicitamente, o pleito de violação dos arts. 50, § 1º, da Lei n. 11.343/2006 e 158 do Código de Processo Penal.
+Ademais, a defesa, quando intimada do julgamento da apelação, não opôs embargos declaratórios para provocar a manifestação do órgão colegiado sobre o ponto. Interpôs, diretamente, o recurso que ora se analisa.
+Assim, constato a ausência de prequestionamento da matéria, a atrair a incidência das Súmulas n. 282 e 356 do STF, o que impede o conhecimento dos aludidos pedidos.
+Em relação à ofensa ao art. 386 do CPP, verifico que, pelo trecho anteriormente transcrito, as instâncias ordinárias, depois de toda a análise do conjunto fático-probatório produzido nos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação da acusada.
+Extrai-se do aresto que "a participação de Lidiane restou bastante clara, pois foi apreendida droga em sua residência, em ambientes comuns do imóvel e, inclusive, dentro de seu guarda roupa que, aliado a firme narrativa policial, corroborada por diversos agentes da lei, dão o necessário grau de certeza à autoria delitiva por parte desta Apelante" (fl. 3.883).
+Constou do julgado que "há mensagem de Lidiane para Adriano em que ela requisita a entrega de drogas, evidenciando, mais uma vez, sua participação no Tráfico de Drogas" (fl. 3.883).
+Por essas razões, é inviável a absolvição da ré, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Ademais, para desconstituir a conclusão alcançada pelo Tribuna local - como pretende a defesa - seria necessário, nesta oportunidade, realizar aprofundado reexame de provas, o que, no entanto, é inviável em recurso especial, nos termos da Súmula n. 7 do STJ.
+Assim, diante de todas essas considerações, mostra-se irretocável a conclusão do acórdão recorrido de que não houve nenhuma ilegalidade manifesta no ponto em que houve a condenação da agravante.
+À vista do exposto, conheço do a gravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
