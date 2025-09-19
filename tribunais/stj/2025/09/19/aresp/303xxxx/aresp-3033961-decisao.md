@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por MICHEL SANTANA OLIVEIRA contra decisão que inadmitiu o seu recurso especial manejado em oposição a acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+EMENTA: APELAÇÃO CRIMINAL - CRIME DE FURTO - ART. 155 DO CÓDIGO PENAL - SENTENÇA CONDENATÓRIA - RECURSO DA DEFESA - PRINCÍPIO DA INSIGNIFICÂNCIA - INAPLICABILIDADE - REINCIDÊNCIA - DESCLASSIFICAÇÃO PARA A MODALIDADE TENTADA - IMPOSSIBILIDADE - INVERSÃO DA RES FURTIVA - SENTENÇA MANTIDA. -Para a configuração do indiferente penal, é preciso verificar "a mínima ofensividade da conduta do agente, a nenhuma periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada." (STF, HC 84412, Relator Min. CELSO DE MELLO). -Não constatados todos os vetores simultaneamente, mormente em face da reincidência do acusado, inaplicável a princípio da insignificância. -A retirada da res furtiva da esfera de disponibilidade da vítima e o percurso de todo o caminho do delito patrimonial violado, provocando o resultado, configura a sua consumação.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento do recurso especial e seu provimento (e-STJ fls. 653-662).
+Contraminuta apresentada (e-STJ fls. 666-669).
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ fls. 688-696).
+É o relatório.
+Decido.
+Não merece prosperar a irresignação recursal, uma vez que o entendimento adotado pelo Tribunal de origem harmoniza-se com a jurisprudência consolidada no âmbito desta Corte, que já fixou as seguintes teses de julgamento: "1. A aplicação do princípio da insignificância exige a presença cumulativa de requisitos objetivos e subjetivos, cuja ausência impede o reconhecimento da atipicidade material da conduta. 2. A reincidência específica e a prática habitual de crimes patrimoniais afastam a possibilidade de aplicação do princípio da bagatela. 3. A jurisprudência consolidada do STJ admite o afastamento do princípio da insignificância quando o valor da res furtiva supera 10% do salário mínimo vigente à época dos fatos. 4. A incidência da Súmula 83/STJ é cabível mesmo em recurso fundado na alínea "a" do inciso III do art. 105 da CF, quando a decisão recorrida está em conformidade com jurisprudência consolidada do STJ" (AgRg no AREsp n. 2.870.451/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 20/8/2025).
+Sendo assim, a pretensão de revisão do julgado esbarra no óbice da Súmula n. 83 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
