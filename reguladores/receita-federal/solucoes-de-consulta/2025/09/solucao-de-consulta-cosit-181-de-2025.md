@@ -1,0 +1,8 @@
+Solução de Consulta Cosit nº 181, de 17 de setembro de 2025
+Assunto: Imposto sobre a Renda de Pessoa Física - IRPF
+EXAMES DE APTIDÃO FÍSICA E MENTAL. AVALIAÇÃO PSICOLÓGICA. OBTENÇÃO E RENOVAÇÃO DE ACC E CNH. CLÍNICA E PROFISSIONAIS MÉDICOS E PSICÓLOGOS CREDENCIADOS. INDEDUTIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL.
+Por absoluta falta de amparo legal, são indedutíveis na apuração do Imposto sobre a Renda das Pessoas Físicas - IRPF, a título de despesas médicas, visto que não se referem a tratamento de doenças ou recuperação da saúde física e mental das pessoas, e a qualquer outro título, os valores pagos pelos candidatos à obtenção da Autorização para Conduzir Ciclomotor e da Carteira Nacional de Habilitação, bem como nos processos de renovação, adição e mudança de categoria, em razão da realização de exames de aptidão física e mental e de avaliação psicológica aplicados por entidades públicas ou privadas e por profissionais médicos e psicólogos credenciados pelo órgão ou entidade executivos de trânsito dos estados e do Distrito Federal.
+Dispositivos legais: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, art. 111, inciso II; Lei nº 9.250, de 26 de dezembro de 1995, art. 8º; Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, art. 147, inciso I e §§ 1º a 4º, e art. 148; Resolução Contran nº 927, de 28 de março de 2022; Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza - RIR/2018, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018, art. 73; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 94; Parecer Normativo CST nº 36, de 30 de maio de 1977.
+[arquivo anexo: SC Cosit nº 181-2025.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
