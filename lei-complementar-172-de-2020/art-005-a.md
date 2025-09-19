@@ -1,0 +1,3 @@
+Art. 5º-A. Os Estados, o Distrito Federal e os Municípios devem informar ao Ministério da Saúde, conforme normas deste Ministério, a nova destinação e a posterior execução orçamentária e financeira.
+§ 1º O descumprimento do dever de informar a nova destinação e a posterior execução orçamentária e financeira prevista no caput deste artigo torna inaplicável os benefícios de transposição e transferência previstos no art. 1º desta Lei Complementar.
+§ 2º O Ministério da Saúde deve atualizar seus dados de despesas com saúde, com a finalidade de garantir a transparência e a fidelidade das informações de aplicações de recursos da União repassados aos entes federativos.
