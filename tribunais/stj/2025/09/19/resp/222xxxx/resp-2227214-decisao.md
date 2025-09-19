@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo Município do Rio de Janeiro, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 28):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. JUROS DE MORA. COISA JULGADA. JURISPRUDÊNCIA CONSOLIDADA DOS TRIBUNAIS SUPERIORES.
+1. Recurso interposto contra decisão proferida em execução de título extrajudicial determinando que os cálculos sejam realizados na forma decidida na sentença prolatada em embargos à execução.
+2. Segunda Turma do Superior Tribunal de Justiça que adotou a orientação no sentido de que não há ofensa à coisa julgada na aplicação imediata dos índices previstos na Lei 11.960/09, de modo que a incidência dos referidos índices deve ocorrer inclusive nas execuções em curso.
+3. No tocante à correção monetária, por se estar diante de processo de execução onde o requisitório ainda não foi expedido, aplica-se o IPCA-E, conforme decidido pelo STF no RE 870.947/SE (tema 810).
+4. Preservação pelo STF da eficácia retroativa da declaração de inconstitucionalidade do art. 1º-F da Lei 9.494/1997, com a redação da Lei 11.960/2009, no julgamento dos embargos de declaração opostos no RE 870.947/SE.
+5. Jurisprudência pacífica do STJ de que o IPCA-E deve ser utilizado como indexador com a extinção da UFIR, pela Medida Provisória nº 1.973-67/2000, conforme mencionado na fundamentação do acórdão proferido no REsp 1.495.144/RS.
+6. Cálculos que devem observar os consectários legais estabelecidos no título judicial constituído, desde que não divergentes do entendimento consolidado dos Tribunais Superiores.
+7. Recurso que se conhece e se dá provimento.
+Embargos de Declaração não acolhidos.
+No recurso especial, o recorrente alega: (a) violação ao dever de fundamentação das decisões judiciais pela decisão recorrida, com afronta aos arts. 11, 489, §1º, incisos I a IV, e 1.022, inciso II, do CPC, uma vez que o Tribunal local deixou de reconhecer a sucumbência e não fixou os honorários devidos à Municipalidade, além de não ter feito constar, no dispositivo, a incidência unicamente da taxa SELIC após promulgação da EC 113/2021; (b) violação ao art. 85, §1º, do CPC; (c) violação ao art. 927, inciso III, e 1.013, §1º e §3º, (por analogia), bem como afronta aos Temas 409 e 410 do STJ.
+Com contrarrazões.
+Juízo positiva de admissibilidade à fl. 149.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recorrente pretende a anulação, em sede de embargos de declaração, sob o argumento de que houve omissão e negativa de prestação jurisdicional da Corte de origem ao deixar de reconhecer a sucumbência e não fixar os honorários devidos à Municipalidade, além de não ter feito constar, no dispositivo, unicamente a incidência da taxa SELIC após promulgação da Emenda Constitucional n. 113/2021.
+Ocorre que, ao julgar o recurso integrativo, a Corte regional, de fato, não apreciou a tese da sucumbência e não fixou os honorários devidos à Municipalidade.
+Diante disso, a pretensão recursal merece acolhida em relação às omissões apontadas do acórdão recorrido, pois a parte recorrente, nas razões deduzidas nos embargos declaratórios (fl. 43), bem assim nos argumentos apresentados no presente apelo especial (fls. 67-80), pugnou expressamente acerca da questão indicada como omissa.
+Observa-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional. Assim, a falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016; AgInt no AREsp 612.758/MG, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministra Regina Helena Costa, Primeira Turma, DJe 18/12/2020.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVA. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FAZENDA PÚBLICA. FIXAÇÃO DE HONORÁRIOS. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO CARACTERIZADA. MATÉRIA NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO PROVIDO.
