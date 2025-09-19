@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AQUA GERACAO DE ENERGIA LTDA e HITECH ETIQUETAS LTDA., contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/06/2025.
+Concluso ao gabinete em: 16/09/2025.
+Ação: tutela cautelar antecedente, ajuizada pelas agravantes, em face de OLIMPIO KREUSCH e OUTROS, na qual objetiva a instituição de servidão de aqueduto e/ou de passagem por meio de imóvel de propriedade dos agravados.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pelas agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. TUTELA CAUTELAR ANTECEDENTE. PEDIDOS PRINCIPAIS POSTERIORMENTE VOLTADOS À NULIDADE DE CONTRATO FIRMADO ENTRE OS RÉUS E CONVALIDAÇÃO DE PACTO PRELIMINAR. SENTENÇA DE IMPROCEDÊNCIA.
+RECURSO DA PARTE AUTORA. "CONTRATO DE CESSÃO DE SERVIDÃO DE PASSAGEM" TRAVADO ENTRE OS RÉUS DESPROVIDO DE QUALQUER DAS CAUSAS DE NULIFICAÇÃO PREVISTAS NOS ARTIGOS 166 E 167 DO CÓDIGO CIVIL, INCONFUNDÍVEIS COM PRESENÇA DE "MALÍCIA" , "MALIGNIDADE" , "RAZÃO CÍNICA" OU "MÁ-FÉ" . NULIDADE INEXISTENTE.
+DOCUMENTO APRESENTADO COMO CONTRATO PRELIMINAR QUE NÃO CONTÉM TODOS OS REQUISITOS ESSENCIAIS DO PRINCIPAL A SER CELEBRADO. AUSÊNCIA DE INDICAÇÃO DA LOCALIZAÇÃO EXATA DA SERVIDÃO QUE SE PRETENDIA VER ESTABELECIDA NO TERRENO DE PROPRIEDADE DOS RÉUS. PACTO "DEFINITIVO" FUTURO SEQUER MENCIONADO. ARTIGOS 462 E 463 DO CÓDIGO CIVIL. CIÊNCIA POR PARTE DE UM DOS PROPRIETÁRIOS DO IMÓVEL QUANTO ÀS TRATATIVAS E DETALHES DA NEGOCIAÇÃO, OUTROSSIM, NÃO DEMONSTRADA. INEXIGIBILIDADE DE CELEBRAÇÃO DO NEGÓCIO PERENE. PEDIDO DE "CONSTITUIÇÃO DA SERVIDÃO DE AQUEDUTO" , BASEADO NO ARTIGO 1.293 DO CÓDIGO CIVIL E 117 DO CÓDIGO DE ÁGUAS, APRESENTADO APENAS NAS RAZÕES RECURSAIS. AUSÊNCIA DE PLEITO ESPECÍFICO CORRESPONDENTE, A TEMPO E MODO OPORTUNOS, NA ORIGEM. NÃO CONHECIMENTO.
+RECURSO CONHECIDO EM PARTE E, NA EXTENSÃO, DESPROVIDO.
+Embargos de Declaração: opostos pelas agravantes, foram rejeitados, com aplicação de multa.
+Recurso especial: alegam violação dos arts. 322, 324 e 1.022, II, do CPC. Além de negativa de prestação jurisdicional, sustentam que o pedido deduzido na inicial de constituição de servidão na matrícula do imóvel é certo e determinado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+O TJ/SC foi claro ao concluir que: i) os pedidos iniciais principais não incluíram pretensão declaratória de nulidade; ii) a adição de novos pedidos viola os ditames do art. 329 do CPC, porquanto já ocorrida a citação dos até então réus e deles não se colheu consentimento quanto àquela alteração; iii) o modus operandi, ainda que considerado contratualmente ilícito, não serviria, de si, para configurar causa de nulificação do negócio posteriormente levado a efeito pelos réus; iv) o pacto preliminar existente entre as partes esteve mais para um "termo de ciência" do que "promessa de constituição de servidão", não havendo nele menção sequer à exata localização desta, somente informação de sua área total, o que de si já tornaria inexigível a formalização do contrato definitivo; v) o pedido para "constituição da servidão de aqueduto pelo imóvel dos réus mediante suprimento da sua vontade" só e tão somente veio aos autos em sede recursal, não tendo sido apresentado a tempo e modo oportunos na origem, de forma certa e determinada; vi) os fundamentos atinentes ao art. 1.286 do CC também não foram objeto de debate em 1º grau de jurisdição oportunamente, não cabendo deles tão somente aqui e agora tratar.
+No julgamento dos embargos de declaração, o TJ/SC também foi claro ao concluir que: i) o acórdão tratou de ausência de pedido e não de causa de pedir; ii) as ideias de função social do contrato e boa-fé objetiva são incapazes de justificar a procedência do pedido na forma e principalmente nos limties apresentados; iii) quanto à alegada "questão nova surgida com o acórdão", tratou-se da ausência de pedido em tempo e modo adequados, não se direcionando à ausência de suscitação oportuna de "questão jurídica" ou "de fato".
+Dessa maneira, no acórdão recorrido não há omissão, contradição, obscuridade ou erro material.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte (AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 322 e 324 do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Ressalto, por oportuno, que referidos artigos sequer foram mencionados nos próprios embargos de declaração.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 17,5% sobre o valor atualizado da causa (e-STJ fl. 931) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA CAUTELAR ANTECEDENTE. SERVIDÃO DE AQUEDUTO E/OU DE PASSAGEM EM IMÓVEL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Tutela cautelar antecedente que objetiva a instituição de servidão de aqueduto e/ou de passagem por meio de imóvel.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
