@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ FLÁVIO BRAGA NASCIMENTO FILHO contra a decisão de fls. 167-170, que negou provimento ao agravo em recurso especial, fundamentando-se na incidência da Súmula n. 7 do STJ, ao considerar que a análise das alegações do recorrente demandaria o reexame de provas.
+Em suas razões, o embargante sustenta violação do art. 805 da Lei n. 13.105/2015, pois a execução deve ser promovida pelo meio menos gravoso ao devedor, e a penhora de 100% do imóvel, cujo valor de mercado supera o crédito exequendo, viola o princípio do favor debitoris (fls. 173-183).
+Aduz que houve omissão quanto à análise do art. 831 da Lei n. 13.105/2015, visto que a constrição realizada demonstra desproporcionalidade, considerando que o valor do imóvel penhorado é consideravelmente superior ao débito (fls. 173-183).
+Afirma que a decisão embargada incorreu em omissão ao não considerar a aplicação do art. 874, I, da Lei n. 13.105/2015, que prevê a possibilidade de redução da penhora ou transferência para outros bens, diante da evidente desproporcionalidade entre o valor do imóvel e o crédito exequendo (fls. 173-183).
+Sustenta que a questão tratada no recurso especial não demanda reexame de provas, mas apenas o enquadramento jurídico dos fatos incontroversos, o que afastaria a incidência da Súmula n. 7 do STJ (fls. 173-183).
+A parte embargada, JOSÉ MARCELO BRAGA NASCIMENTO e DANIEL ORFALE GIACOMINI, apresentou impugnação às fls. 191-195, alegando que os embargos de declaração opostos pelo embargante são manifestamente protelatórios, pois a decisão embargada não padece de omissão, contradição ou obscuridade. Argumentam que a decisão embargada analisou de forma clara e fundamentada todas as questões suscitadas, destacando que a manutenção da penhora de 100% do imóvel decorreu da ausência de indicação de outros bens passíveis de constrição. Requerem a rejeição dos embargos de declaração e a aplicação de multa por embargos protelatórios, nos termos do art. 1.026, § 2º, do CPC.
+Requer o embargante o acolhimento dos embargos de declaração, com efeitos infringentes, para que seja admitido o recurso especial interposto, permitindo seu destrancamento e análise de mérito.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+A análise dos autos revela que a decisão embargada enfrentou de forma clara e fundamentada todas as questões suscitadas, não havendo omissão, contradição, obscuridade ou erro material a ser sanado.
+A alegação de desproporcionalidade da penhora foi devidamente analisada, com a conclusão de que o executado não indicou outros bens passíveis de constrição, o que justifica a manutenção da penhora sobre o imóvel.
+Ademais, a pretensão do embargante de rediscutir o mérito da decisão não se coaduna com a finalidade dos embargos de declaração, que não se prestam à revisão do julgado.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Neste ponto, o recurso merece prosperar.
+Por fim, quanto ao pedido de aplicação da multa do art. 1.026, § 2º, do CPC, formulado na impugnação aos embargos de declaração, registre-se que a simples oposição de embargos, ainda que não configurada nenhuma das hipóteses de cabimento, não enseja a incidência da penalidade quando há a intenção de prequestionamento. Nesse sentido, a Súmula n. 98 do STJ, in verbis : "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
