@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2281, de 15 de setembro de 2025
+Altera a Instrução Normativa RFB nº 1.700, de 14 de março de 2017, para dispor sobre o tratamento tributário aplicável às perdas no recebimento de créditos decorrentes das atividades das instituições financeiras e das demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei nº 14.467, de 16 de novembro de 2022, resolve:
