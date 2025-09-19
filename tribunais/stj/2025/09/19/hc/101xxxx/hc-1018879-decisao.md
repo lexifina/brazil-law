@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KLEMER DA SILVA SANTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Na peça, a defesa informa que o paciente foi denunciado e condenado pela prática dos delitos descritos nos arts. 33 e 35 da Lei n. 11.343/2006, após a realização de audiência de instrução e julgamento (AIJ). Posteriormente, no HC 747.170/STJ, foi concedida ordem para anular as provas obtidas no cumprimento irregular de mandado de busca e apreensão domiciliar, bem como todas as que dela decorreram, cassando a sentença condenatória e determinando que nova sentença fosse proferida, desconsiderando as provas invalidadas (fl. 3).
+Alega a defesa que, em desobediência à decisão do STJ, o magistrado de primeiro grau abriu prazo para manifestação das partes, designou nova AIJ e permitiu o arrolamento de novas testemunhas pelo Ministério Público, o que, segundo o impetrante, configura nulidade absoluta (fls. 3-5). Afirma que o Tribunal de Justiça do Espírito Santo, ao denegar a ordem em habeas corpus, manteve a decisão do magistrado, sob o argumento de que a reabertura da fase de instrução processual e a oitiva de novas testemunhas não configurariam nulidade, desde que respeitados o contraditório e a ampla defesa (fl. 4).
+A defesa sustenta que a decisão do magistrado viola o art. 400, § 1º, do Código de Processo Penal, que prevê que as provas devem ser produzidas em uma única audiência, e que a decisão do STJ não anulou a AIJ anteriormente realizada, mas apenas cassou a sentença e determinou que nova fosse proferida, desconsiderando as provas invalidadas (fls. 4-5). Argumenta, ainda, que o arrolamento de novas testemunhas pelo Ministério Público, após o oferecimento da denúncia, é vedado pelo art. 41 do Código de Processo Penal, configurando flagrante nulidade (fls. 5-6).
+No mérito, a defesa requer: (a) o reconhecimento da nulidade absoluta da decisão que designou nova AIJ e permitiu o arrolamento de novas testemunhas, determinando que o magistrado apenas profira nova sentença; (b) subsidiariamente, o reconhecimento da nulidade da oitiva de novas testemunhas não arroladas na denúncia (fl. 7).
+Liminarmente, a defesa requer o cancelamento da audiência designada para o dia 04/08/2025 e/ou a suspensão do processo até o julgamento do mérito deste habeas corpus, alegando a presença do fumus boni iuris e do periculum in mora (fls. 6-7).
+Liminar indeferida (e-STJ, fls. 32-33).
+Informações prestadas (e-STJ, fls. 40-122).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 124-126).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Do que se depreende da petição apresentada, o impetrante alega ter havido descumprimento da decisão proferida por este Tribunal Superior nos autos do HC n. 747.170/ES, de minha relatoria.
+Ocorre que o questionamento acerca do alegado desrespeito à autoridade da decisão desta Corte não pode ser feito nesta sede, pois, regimentalmente, a competência é da Terceira Seção para julgar tais postulações, que devem ser formuladas no âmbito de reclamação constitucional.
+Portanto, com base nesses singelos, mas objetivos, fundamentos, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
