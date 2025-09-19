@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de HUDSON TAVARES SOUZA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o paciente foi condenado às penas de 2 anos de reclusão e 2 meses e 10 dias de detenção no regime inicial aberto, como incurso nas sanções dos arts. 129, § 13, e 147 do Código Penal.
+A defesa sustenta a atipicidade da conduta, alegando que a expressão "merecia morrer", utilizada pelo paciente, seria vaga e insuficiente para configurar o crime de ameaça, uma vez que não conteria uma declaração concreta de causar mal injusto e grave à vítima.
+Requer, assim, a absolvição do paciente.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 382-389).
+É o relatório.
+Esta Corte de Justiça já firmou a compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Citam-se, a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.
+Registrada a impossibilidade de conhecimento do habeas corpus, passo à análise da possível ocorrência de ilegalidade sob a ótica da concessão ofício.
+Ao examinar o conjunto probatório construído nos autos da ação penal de origem, o Tribunal de Justiça estadual considerou demonstradas a materialidade e a autoria delitiva, bem como o elemento subjetivo exigido pelo tipo penal imputado ao paciente.
+A propósito, o acórdão impugnado amparou-se nos seguintes fundamentos para manter a condenação do réu (fl. 47, grifo próprio):
+Em relação ao crime de ameaça, o artigo 147, caput, do Código Penal, assim dispõe:
+Art. 147 - Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave: Pena - detenção, de um a seis meses, ou multa.
+Cuida-se de crime formal, que se consuma no instante em que o agente expõe a sua intenção de causar mal injusto e grave à vítima, suficiente para lhe acarretar fundado temor, e que a motive a buscar a tutela protetiva do Estado.
+Assim, a norma penal visa tutelar a tranquilidade de espírito, a sensação de segurança e a liberdade da vítima, direitos que podem ser atingidos por mal injusto, grave, sério e verossímil.
+No caso, a ameaça de morte, realizada de forma clara, contundente e agressiva pelo acusado, foi suficiente para incutir na vítima o fundado temor de injusto mal e grave, tanto que ela requereu medidas protetivas e registrou ocorrência policial (IDs 68471550 e 68474693, págs. 2/7).
+Logo, ao contrário do que alega a Defesa, as elementares do tipo penal estão suficientemente caracterizadas.
+Como visto, a responsabilidade criminal do paciente em relação aos fatos imputados decorre das conclusões alcançadas pelas instâncias antecedentes a partir dos elementos de convicção extraídos da prova oral produzida ao longo da instrução criminal.
+Nesse contexto, mostra-se inviável o acolhimento da pretensão de absolvição, por atipicidade da conduta praticada, haja vista a inviabilidade de amplo revolvimento de matéria fático-probatória nesta estreita via processual.
+A esse respeito, "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+Observam -se, na mesma linha, os seguintes julgados: AgRg no HC n. 839.334/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/9/2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 780.022/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 21/8/2023; AgRg no HC 812.438/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, relator Ministro Rogerio Schietti Cruz, DJe de 22/6/2023; AgRg no HC n. 822.563/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16/8/2023; AgRg no HC n. 770.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/4/2023; AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/2/2023.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
