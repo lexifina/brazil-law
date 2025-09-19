@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (fls. 141-145).
+O acórdão recorrido encontra-se assim ementado (fls. 57-58):
+AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. EXECUÇÃO PROVISÓRIA DE SENTENÇA. IMPUGNAÇÃO. COBERTURA DO TRATAMENTO EM SISTEMA DE HOME CARE COM ADEQUAÇÃO A NOVA PRESCRIÇÃO MÉDICA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO, DETERMINOU O PAGAMENTO DA MULTA PELO DESCUMPRIMENTO, BEM COMO DETERMINOU O CUMPRIMENTO DA DECISÃO QUE ADEQUOU O JULGADO AO NOVO RELATÓRIO MÉDICO APRESENTADO. RECURSO DA EXECUTADA PELO AFASTAMENTO DA MULTA COMINATÓRIA APLICADA, OU, NA EVENTUALIDADE, QUE SEJA REDUZIDA. RECURSO QUE NÃO MERECE PROSPERAR.
+DEMANDA ORIGINÁRIA QUE VERSA SOBRE CUMPRIMENTO PROVISÓRIO DA SENTENÇA PROFERIDA NOS AUTOS DO PROCESSO Nº 0016890-29.2021.8.19.0210 (AÇÃO DE OBRIGAÇÃO DE FORNECIMENTO DE SERVIÇO DE HOME CARE), EM QUE A AGRAVANTE FOI CONDENADA A PRESTAR ATENDIMENTO DOMICILIAR DE FISIOTERAPIA, FONOAUDIOLOGIA, NUTRIÇÃO E ENFERMAGEM, OBSERVADA A PERIODICIDADE PREVISTA NO LAUDO MÉDICO. O PLANO DE SAÚDE ALEGA QUE O NOVO PEDIDO MÉDICO, COM NOVAS NECESSIDADES, ULTRAPASSA AS OBRIGAÇÕES DEFERIDAS EM SENTENÇA. SOBRE O TEMA, É IMPRESCINDÍVEL ELUCIDAR QUE A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA, BEM COMO DESTE TRIBUNAL ESTADUAL, JÁ SEDIMENTOU O ENTENDIMENTO DE QUE A REIVINDICAÇÃO RELACIONADA À PRESTAÇÃO DE SERVIÇOS DE SAÚDE POSSUI NATUREZA GENÉRICA. ASSIM, EM VIRTUDE DA GRAVIDADE INERENTE AO BEM JURÍDICO EM QUESTÃO, A SAÚDE E A VIDA DA PARTE, ADMITE-SE A FLEXIBILIZAÇÃO DO PRINCÍPIO DA CONGRUÊNCIA, DE MODO A AUTORIZAR A INCLUSÃO DE TRATAMENTOS OU MEDICAMENTOS ACESSÓRIOS NECESSÁRIOS. MULTA COERCITIVA ARBITRADA PARA O CASO DE DESCUMPRIMENTO DA OBRIGAÇÃO QUE TEM POR ESCOPO DAR EFETIVIDADE AO COMANDO JUDICIAL, A FIM DE QUE A MEDIDA IMPOSTA SEJA DEVIDAMENTE CUMPRIDA. NO CASO, O EXECUTADO FOI INTIMADO PARA CUMPRIR A OBRIGAÇÃO DE FAZER EM 02/05/2023, NÃO HAVENDO NOTÍCIA DO INTEGRAL CUMPRIMENTO. ASSIM, NÃO PODE SER ADMITIDA A PRETENSÃO DO RÉU DE AFASTAR A INCIDÊNCIA DA MULTA PELO DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER. QUANTUM ARBITRADO QUE NÃO DESTOA DOS CRITÉRIOS DA RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO QUE SE MANTÉM. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (fls. 96-101).
+Nas razões do recurso especial (fls. 109-122), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, sob o argumento de que, "A fim de afastar omissões existentes no julgamento de seu agravo de instrumento, a agora recorrente opôs embargos de declaração suscitando tema que não foi apreciado pelo v. acórdão regional, qual seja, a exorbitância das astreintes. Não obstante a oposição dos aclaratórios, a Corte a quo valeu-se de argumentos genéricos para rejeitá-los" (fl. 114);
+(ii) arts. 537, § 1º, I e II, do CPC/2015 e 884 do CC/2002, uma vez que "fere o princípio da razoabilidade e da proporcionalidade a execução de astreintes no patamar exorbitante de R$ 79.000,00 (setenta e nove mil reais)" (fl. 120).
+No agravo (fls. 148-156), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 160-165).
+Houve manifestação do MPF, sob a seguinte ementa (fl. 193):
+AGRAVO EM RECURSO ESPECIAL. Civil. Consumidor. Plano de Saúde. Assistência médica. Home Care. Negativa de cobertura. Multa cominatória. Subsistência de fundamento não impugna- do de modo peremptório. Inteligência da Súmula 283/STF. Parecer pelo improvimento do presente Agravo.
+É o relatório.
+Decido.
+(I) Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação ao valor das astreintes , o Tribunal de origem assim se manifestou (fls. 63-64):
+O agravante afirma, ainda, que há flagrante desproporção da astreinte.
+Pois bem. Na fixação do valor da multa deve ser observado que esta tem caráter coercitivo e não compensatório, indenizatório ou sancionatório, tendo por única finalidade tornar eficaz a medida.
+Assim, o valor das astreintes deve ser elevado o bastante a inibir o devedor que intenciona descumprir a obrigação e sensibilizá-lo de que é muito mais vantajoso financeiramente seu integral cumprimento. De outro lado, é consenso que seu valor não pode implicar enriquecimento injusto.
+ ..
+No presente caso, a multa pelo descumprimento da obrigação, fixada em R$ 500,00 (quinhentos reais) por dia, alcançou o montante de R$ 79.000,00 (setenta e nove mil reais), até a data da decisão recorrida.
+Frise-se que a obrigação ainda não foi integralmente cumprida, razão pela qual a multa pode alcançar quantia ainda maior, por culpa exclusiva do plano de saúde, que insiste em não cumprir a determinação judicial.
+Nessa esteira, considerando o contexto fático probatório dos autos, a natureza da obrigação de fazer estipulada, qual seja, a manutenção da saúde da autora através de fornecimento de atendimento domiciliar adequado, tem-se que o valor total da multa não merece ser reduzido.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+(II) A parte alega genericamente exorbitância do valor acumulado das astreintes e enriquecimento sem causa do demandante, apontando violação dos arts. 537, § 1º, I e II, do CPC/2015 e 884 do CC/2002, sem, contudo, proceder à necessária subsunção desses dispositivos legais às particularidades do caso concreto.
+De fato, as razões do recurso sequer indicam qual obrigação a operadora foi condenada a cumprir, qu al valor foi fixado a título de multa diária, quantos dias de atraso lhe foram imputados e qual parcela da obrigação foi cumprida.
+Com efeito, diante d a deficiente fundamentação recursal que impede a exata compreensão da controvérsia, é inafastável a incidência da Súmula n. 284/STF.
+Ante o exposto, CONHEÇO do agravo para CONHECER, EM PARTE, do recurso especial e, nesta parte, NEGAR-LHE provimento.
+Deixo de majorar honorários advocatícios porque não houve seu arbitramento na origem.
+Publique-se e intimem-se.
+EMENTA
