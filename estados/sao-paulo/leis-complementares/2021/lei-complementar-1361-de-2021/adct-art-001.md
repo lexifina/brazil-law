@@ -1,0 +1,4 @@
+## DISPOSIÇÕES TRANSITÓRIAS
+Artigo 1° - Fica assegurada, em caráter excepcional e pelo prazo máximo de 3 (três) anos, a contar da publicação desta lei complementar, a percepção do Prêmio de Incentivo à Qualidade - PIQ, instituído pela Lei Complementar n° 804, de 21 de dezembro de 1995, recebido pelos servidores do Quadro da Secretaria da Fazenda e Planejamento que forem afastados ou transferidos para a Secretaria de Orçamento e Gestão.
+§ 1° - As disposições relativas ao processo avaliatório específico de que trata o parágrafo único do artigo 4° da Lei Complementar n° 804, de 21 de dezembro de 1995, a ser aplicado aos servidores abrangidos por este artigo, serão disciplinadas em decreto.
+§ 2° - Excepcionalmente, o resultado do processo avaliatório específico para fins de atribuição do Prêmio de Incentivo à Qualidade - PIQ, a que se refere o "caput" deste artigo, realizado em 2020, produzirá efeito nos exercícios de 2021 e 2022.

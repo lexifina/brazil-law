@@ -1,0 +1,1 @@
+Artigo 2° - Ao servidor que, até a data de entrada em vigor da Lei Complementar n° 1.354, de 6 março de 2020, havia completado os requisitos para aposentadoria voluntária, fica assegurado o direito ao abono de permanência, nos termos do artigo 11 da Lei complementar n° 1.012, de 5 de julho de 2007, até completar as exigências para a aposentadoria compulsória.
