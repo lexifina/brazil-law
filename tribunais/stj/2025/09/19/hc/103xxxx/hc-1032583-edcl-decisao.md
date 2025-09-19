@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RODRIGO PALHANO em face da decisão monocrática proferida, às fls. 2107-2113, que não conheceu do habeas corpus.
+Nos presentes aclaratórios, o embargante sustenta a ocorrência de omissão, na medida em que, no seu entender, houve diversas violações, não só à cadeia de custódia, mas especialmente porque se mostrou inconteste que o aparelho foi analisado antes mesmo da autorização judicial.
+Alega que "a defesa, através da análise da extração de dados fornecida pela autoridade policial, que o telefone celular objeto da extração foi acessado de forma reiterada antes da devida autorização judicial" (fl. 2118).
+Aduz que foi demonstrado que houve uma série de inconsistências e irregularidades no manuseio do celular apreendido com o corréu, demonstrando que o equipamento permaneceu ativo e foi operado manualmente após a sua apreensão e antes da autorização judicial para a extração de dados.
+Afirma que "há registros apontados pelo próprio software cellebrite de que o telefone foi desbloqueado, que mensagens foram encaminhadas e aplicativos foram acessados (principalmente as conversas de whatsapp e a galeria de fotos), dias após o telefone celular ter sido apreendido (e na posse da polícia civil)  .. " (fl. 2120).
+Requer, ao final, o conhecimento e acolhimento dos presentes embargos de declaração, para que seja sanado o alegado vício apontado e, concedida a ordem de habeas corpus nos termos como requerido na inicial.
+É o relatório. DECIDO.
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, o embargante aponta que houve omissão na decisão embargada.
+Contudo, tem-se que a decisão monocrática analisou de forma devidamente fundamentada os pontos apresentados e, quanto aos presentes embargos, buscam tão somente o reexame da matéria anteriormente julgada.
+Na decisão ora embargada, foi ressaltado, às fls. 2109-2113, que:
+A questão controversa nestes autos é hoje expressamente tratada nos arts. 158-A a 158-F do Código de Processo Penal, os quais trazem determinações extremamente detalhadas de como se deveria preservar a prova desde o encontro até o ulterior armazenamento.
+Deixa-se, contudo, a cargo do julgador, em cada caso, definir as consequências jurídicas do eventual descumprimento dos dispositivos legais.
+Nesse passo:  ..
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que a cadeia de custódia consiste no caminho idôneo a ser percorrido pela prova até, especialmente, a sua análise pelo expert, de modo que a ocorrência de qualquer interferência indevida durante a tramitação pode resultar, mas não necessariamente, em imprestabilidade para o processo de referência.
+Sobre o assunto:  ..
+No caso concreto, o Tribunal de origem afastou as alegadas nulidades mediante a seguinte fundamentação (fls. 41-47):
+ ..  No caso, a ordem de habeas corpus foi impetrada objetivando a reforma da decisão que indeferiu o pleito defensivo de desentranhamento da prova obtida a partir do aparelho celular apreendido com o corréu Osoni da Conceição, ou, subsidiariamente, a submissão do material extraído à perícia oficial pelo IGP.  ..
+ ..  No caso dos autos, não há flagrante ilegalidade na obtenção da prova, a fim de justificar o conhecimento deste habeas corpus.  ..
+Também não se pode deixar passar desapercebido o fato de que o profissional firmatário do referido parecer (Gregory Silveira Lagranha - Engenheiro de software) possuí o mesmo sobrenome do impetrante e advogado do paciente (José Gabriel Silveira Lagranha), sobrenome esse que não é tão comum ou popular.
+Ademais, também não fora juntado aos autos nenhum documento comprobatório acerca da aptidão técnica do referido profissional firmatário do parecer em questão, já que em buscas na internet se pode verificar que a atividade principal cadastrada em seu nome refere-se a "reparação e manutenção de computadores e de equipamentos periféricos".  ..
+Nestes termos, não há nos autos indicativos de ilegalidade flagrante no que se refere a extração dos dados digitais a justificar, ainda que de forma excepcional, o conhecimento da presente ação constitucional.
+Ante o exposto, voto por não conhecer o habeas corpus. (grifei)
+Portanto, é de destaque que a prova infirmada seria de celular alheio, aquele apreendido com o corréu, Osoni da Conceição.
+Esta prova está sendo objeto de apreciação no AREsp n. 2.981.387/RS do próprio corréu, que se insurge contra um acórdão bem mais apropriado ao debate (CORREIÇÃO PARCIAL Nº 5257444-72.2024.8.21.7000/RS).
+In verbis, sua ementa:
+ ..  CORREIÇÃO PARCIAL JULGADA IMPROCEDENTE.
+Em apenas complemento, em uma observação, a origem constatou que a alegação da defesa se baseia apenas em laudo unilateral e que o seu profissional firmatário (Gregory Silveira Lagranha - Engenheiro de software) possui o mesmo sobrenome do impetrante e advogado do paciente (José Gabriel Silveira Lagranha).
+Mas ela não se atém a um nome, mas também à qualificação profissional do subscritor, pois, em buscas na internet, pôde verificar que a atividade principal cadastrada em seu nome refere-se à "reparação e manutenção de computadores e de equipamentos periféricos".
+Como assentado pelas instâncias ordinárias em relação às provas aqui questionadas, não houve comprovação mínima pela defesa de qualquer circunstância capaz de sugerir adulteração, ou mesmo mera interferência indevida, capaz de invalidá-las ao ponto de ensejar a nulidade, ainda que parcial.
+Nesse contexto e na via eleita, estreita, não se poderia concluir por qualquer prejuízo à defesa além de uma mera ilação sua, diante da necessidade de um revolvimento de fatos e provas que sequer foi realizado pela origem ou que aqui seria possível.
+Assim, tem-se que as instâncias ordinárias já afastaram prima facie a possibilidade de qualquer tipo de contaminação e/ou adulteração da prova colhida, realizando, satisfatoriamente, a avaliação da capacidade comprobatória em face das circunstâncias fáticas e concluindo, ao final, que a prova seria íntegra.
+Este Superior Tribunal de Justiça entende que, para se alterar a conclusão a que chegou a origem, soberana em matéria de fatos e provas, seria necessária uma incursão aprofundada no caderno processual principal - o que não se mostra nem mesmo permitido na presente via:  ..
+Diante disso, não se constatou, de plano, a flagrante ilegalidade apontada sob nenhuma das vertentes.
+Ante o exposto, não conheço do habeas corpus. (grifei)
+Consoante consta, a matéria já foi devidamente analisada, claro, nos limites em que aqui apresentada e nas balizas da via eleita, não havendo falar em vícios.
+Acerca do ponto invocado, sobre o "suposto" acesso prévio ao aparelho, reitera-se que a origem se limitou a comentar que (fls. 45-46):
+ ..  Isso porque, conforme destacou a decisão impugnada, de lavra da Juíza de Direito TAISE VELASQUEZ LOPES, "os supostos acessos  e diga-se supostos porque, reitero, não se reveste o documento defensivo da força probante de um laudo pericial  que precedem a autorização judicial de extração de dados do aparelho (datada de 23/01/2024) referem-se à interação com dados que não ensejam percepção de enxerto ou adulteração de informações referentes aos diálogos extraídos do aparelho celular pela DPHPP, os quais ampararam a formação da opinio delicti."
+A decisão aidna prossegue afirmando que "se foi determinada a quebra de sigilo e foram encontrados dados espúrios que denotem a possibilidade de manuseio do aparelho precedentemente à autorização judicial, poderia, eventualmente, ocorrer a responsabilização do servidor responsável, mas isso não acarreta, necessariamente, à nulidade dos demais dados obtidos por meio de autorização judicial."
+No mais, tem-se que o parecer técnico juntado pela defesa do paciente (769.2), foi produzido de forma unilateral, não sendo capaz de macular a extração dos dados do aparelho celular, que, ao que consta dos autos, foi devidamente documentada e seguiu os protocolos técnicos exigidos, assegurando a autenticidade e integridade da prova.
+O referido documento não apresenta provas, tampouco afirma que houve violação ou manuseio ilegal do aparelho, limitando-se a fazer suposições (769.2).
+Veja-se o último parágrafo da conclusão apresentada pelo parecer, onde o firmatário do documento apenas pontua que pode ter havido manipulação indevida do celular, sem, contudo, apresentar ou afirmar a ilegalidade das provas:
+Dessa forma, os elementos levantados comprometem a confiabilidade da prova digital extraída, uma vez que não há garantias de que os dados analisados refletem fielmente o estado do dispositivo no momento de sua apreensão. A ausência de um isolamento adequado e os registros de movimentações posteriores à apreensão e anteriores a autorização judicial para a análise e extração dos dados afetam a integridade da prova e podem impactar sua validade como elemento probatório.
+Também não se pode deixar passar desapercebido o fato de que o profissional firmatário do referido parecer (Gregory Silveira Lagranha - Engenheiro de software) possuí o mesmo sobrenome do impetrante e advogado do paciente (José Gabriel Silveira Lagranha), sobrenome esse que não é tão comum ou popular.
+Ademais, também não fora juntado aos autos nenhum documento comprobatório acerca da aptidão técnica do referido profissional firmatário do parecer em questão, já que em buscas na internet se pode verificar que a atividade principal cadastrada em seu nome refere-se a "reparação e manutenção de computadores e de equipamentos periféricos".
+Ao fim, portanto, repita-se que (fl. 2122):
+Nesse contexto e na via eleita, estreita, não se poderia concluir por qualquer prejuízo à defesa além de uma mera ilação sua, diante da necessidade de um revolvimento de fatos e provas que sequer foi realizado pela origem ou que aqui seria possível.
+Assim, tem-se que as instâncias ordinárias já afastaram prima facie a possibilidade de qualquer tipo de contaminação e/ou adulteração da prova colhida, realizando, satisfatoriamente, a avaliação da capacidade comprobatória em face das circunstâncias fáticas e concluindo, ao final, que a prova seria íntegra.
+O que pretende o embargante, na verdade, é o reexame da matéria de mérito já julgada, situação que não se coaduna com a via dos embargos de declaração.
+Corroborando: EDcl no AgRg no REsp n. 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira, Des. Convocado do TRF1, DJe de 27/6/2023; EDcl no AgRg no AREsp n. 1.681.479/RN, Quinta Turma, de minha relatoria, DJe de 23/3/2023; e AgRg no REsp n. 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023.
+Assim, o julgado embargado não padece de qualquer vício.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
