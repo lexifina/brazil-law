@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) aplicação da Súmula n. 7/STJ e (b) ausência de demonstração de comprovação do dissídio jurisprudencial, por falta de similitude fática (fls. 112-115).
+O acórdão do TJSP traz a seguinte ementa (fl. 57):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - INSURGÊNCIA CONTRA DECISÃO QUE ACOLHEU PARCIALMENTE A IMPUGNAÇÃO E DETERMINOU O PAGAMENTO DA MULTA RELATIVA A UM DIA DE DESCUMPRIMENTO - PRETENSÃO À EXCLUSÃO OU REDUÇÃO DA MULTA - DESCABIMENTO - RECESSO FORENSE QUE NÃO SUSPENDE O PRAZO PARA CUMPRIMENTO DA OBRIGAÇÃO - AUSÊNCIA DE COMPROVAÇÃO EFETIVA DE CUMPRIMENTO DA ORDEM JUDICIAL, NO PRAZO DETERMINADO - VALOR DA MULTA QUE NÃO SE MOSTRA EXCESSIVO - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+No recurso especial (fls. 64-83), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aduziu dissídio jurisprudencial e contrariedade aos arts. 537, § 1º, do CPC/2015 e 884 do CC/2002, pois "a manutenção da multa astreinte mesmo quando resta demonstrado o cumprimento tempestivo e integral da obrigação de fazer, implica na violação ao devido processo legal, na ausência de segurança jurídica e, principalmente, no enriquecimento ilícito, eis que à seguradora disponibilizou o medicamento requerido dentro do prazo estabelecido, cuja liberação ocorreu na dosagem preestabelecida na prescrição médica" (fl. 73).
+No agravo (fls. 118-131), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, requerendo a condenação da agravante ao pagamento de multa por litigância de má-fé (fls. 135-139).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto aos arts. 537, § 1º, do CPC/2015 e 884 do CC/2002 sob o ponto de vista da recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Corte local, soberana na análise do conjunto fático-probatório dos autos, assentou que a s circunstâncias do caso concreto, consideradas por ocasião do julgamento, não permitiam a exclusão das astreintes, visto que a empresa cumpriu a ordem judicial fora do prazo, tampouco justificavam a redução do montante do encargo, pois a quantia executada não seria desproporcional. Confira-se (fls. 59-61):
+A alegação de que deu cumprimento à ordem judicial, em 24/01/2022, não afasta a aplicação da multa. Isso porque a agravante foi intimada em 19/01/2022 (fls. 67 dos autos de origem), para cumprimento da obrigação, no prazo de 48 horas, o qual se iniciou em 20/01/2022 e se encerrou em21/01/2022.
+Ressalte-se que o fato de haver recesso forense não suspende a contagem do prazo para cumprimento da obrigação, eis que se trata de direito material.
+ ..
+No caso, o valor fixado não se mostra excessivo ou desproporcional, atingindo a finalidade do instituto, se mostrando satisfatório e dentro dos parâmetros de razoabilidade, principalmente diante da gravidade do quadro do agravado, que necessitava do procedimento cirúrgico de forma urgente.
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Por fim, rejeito o pedido de condenação da agravante à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
