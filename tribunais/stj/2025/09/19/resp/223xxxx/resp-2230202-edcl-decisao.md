@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GIULIANO GONÇALVES DOS SANTOS (e-STJ fls. 535/539) contra decisão que deu provimento ao recurso especial do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, para restabelecer a decisão de pronúncia, determinando o retorno dos autos ao Tribunal de origem, para que prossiga no julgamento das demais teses suscitadas no recurso manejado pela defesa (e-STJ fls. 514/530).
+Sustenta a ocorrência de omissão e obscuridade ao deixar de considerar que o julgamento do recurso especial implicou no reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ. Aduz o prequestionamento do art. 5º, incisos LIV, LV, LVII e XXXV da Constituição Federal, do Art. 121, §2º, IV, c/c art. 70 do CP e dos artigos 386 e 619 do CPP.
+É o relatório. Decido.
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir: (i) que o conhecimento do recurso especial, no ponto, prescinde de reexame de fatos e provas, na medida em que a questão suscitada demanda tão somente a revaloração jurídica da moldura fática já expressamente delineada no acórdão proferido pela Corte a quo, não incidindo, portanto, o óbice da Súmula n. 7/STJ; (ii) que se extraem da sentença e do acórdão recorrido elementos indiciários aptos a subsidiar, com razoabilidade, as versões conflitantes acerca da existência de dolo eventual, o que constitui justa causa para a pronúncia, a fim de que a divergência seja deslindada pelo veredicto dos jurados.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Ademais, esta Corte Superior possui entendimento pacificado no sentido da impossibilidade de oposição de embargos de declaração para fins de prequestionamento quando não evidenciados os referidos vícios no julgado (EDcl no AgRg no HC n. 719.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Com essas considerações, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
