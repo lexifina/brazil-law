@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLA FERREIRA TOME, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que a paciente teve a prisão preventiva decretada, encontrando-se denunciada pela suposta prática do delito previsto no art. 171, caput, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante a Corte local. A ordem foi denegada pelo Tribunal de origem, em acórdão, fls. 15-26.
+No presente writ, a defesa alega a existência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor da paciente, apontando ausência de fundamentação para a segregação cautelar.
+Sustenta a desproporcionalidade da prisão preventiva , bem como a possibilidade de imposição de medidas cautelares alternativas à prisão.
+Aduz que a medida constritiva de liberdade é extemporânea.
+Defende a possibilidade de acordo de não persecução penal.
+Requer a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão.
+Memoriais, às fls. 44-47.
+Liminar indeferida às fls. 48-49.
+Informações prestadas às fls. 52-54.
+O Ministério Público Federal em parecer, às fls. 61-69, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, seja para a garantia da ordem pública, diante do risco de reiteração criminosa, na medida em que o delito, em exame, não é fato isolado na vida da paciente; seja para assegurar a aplicação da lei penal, tendo em vista que ela teria se evadido do distrito da culpa.
+Nesse sentido, o Juízo de primeiro grau destacou que "Há informações de que os imputados figura em mais de 137 processos vinculados ao TJSP e não há informações sobre seus paradeiros, de forma a demonstrar tanto o fumus comissi delicti, corroborado também pela documentação juntada aos autos, pelas declarações e representação da vítima deste processo, além da existência de um grande número de outras vítimas e inquéritos policiais em andamento; quanto o periculum libertatis, requisitos necessários à decretação da custódia cautelar" (fls. 31-32).
+Tais circunstâncias demonstram a periculosidade da paciente, justificando a segregação cautelar em seu desfavor.
+Sobre o tema:
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024.)
+"2. A prisão preventiva foi devidamente decretada para garantia da aplicação da lei penal, considerando que o agravante não foi encontrado no endereço fornecido na fase policial, permanecendo foragido por quase 6 anos" (AgRg no HC n. 931.185/MA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+"No caso, a prisão preventiva foi mantida pelo Tribunal estadual por entender ser necessária a medida para garantir a ordem pública, para conveniência da instrução processual e assegurar a aplicação da lei penal, enfatizando que o acusado encontra-se foragido" (AgRg no HC n. 971.169/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025.)
+"A condição de foragido do paciente no presente caso, justifica a manutenção da prisão preventiva, conforme entendimento consolidado na jurisprudência, que considera a fuga como fundamento suficiente para a cautelaridade" (AgRg no HC n. 856.769/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+Outrossim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+No mais, no que toca à aventada ausência de contemporaneidade da medida constritiva de liberdade, tenho que a prisão foi determinada, considerando a necessidade de sua imposição no momento da decretação, havendo que ressaltar que a paciente teria se evadido do distrito da culpa; restando afastada, portanto, a alegação de extemporaneidade da medida.
+Nesse sentido:
+"a contemporaneidade não está restrita à época da prática do delito, e sim da verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado" (AgRg no HC n. 716.043/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+"Contemporaneidade. O decreto é de 2014 mas o recorrente permaneceu foragido. Não há que se falar, nesse contexto, em ausência de contemporaneidade. "A fuga constitui o fundamento do juízo de cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória". (AgRg no RHC n. 133.180/SP, Relatora Ministra LAURITA VAZ, Sexta Turma, DJe 24/8/2021)" (AgRg no RHC n. 194.446/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Quanto à alegação de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados. A jurisprudência desta Corte se firmou no sentido de que:
+"O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual" (AgRg no HC n. 779.709/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022.)
+Por fim, no que tange à tese acerca da possibilidade de oferta de acordo de não persecução penal; verifico que a quaestio não foi objeto de deliberação pelo Tribunal local no acórdão impugnado, e tal fato impossibilita o exame desta Corte, sob pena de indevida supressão de instância:
+"A alegação de nulidade pelo não oferecimento do ANPP e ausência de representação da vítima não foi apreciada pelo Tribunal a quo, inviabilizando a análise por esta Corte, sob pena de supressão de instância" (AgRg no HC n. 988.687/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/5/2025, DJEN de 4/6/2025.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
