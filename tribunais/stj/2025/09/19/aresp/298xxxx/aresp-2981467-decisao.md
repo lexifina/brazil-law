@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULA FERNANDA COSTA DE OLIVEIRA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração de ofensa aos arts. 98, 99, 421, 422, 476, 1.219 do Código Civil e 51, 53 do Código de Defesa do Consumidor, e pela incidência da Súmula n. 7 do STJ (fls. 618-619).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de rescisão de contrato de promessa de compra e venda cumulada com reintegração de posse.
+O julgado foi assim ementado (fl. 532):
+APELAÇÃO. RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. Imóvel de propriedade da CDHU. Insurgência da atual ocupante, que adquiriu o bem de terceiro por sucessão irregular. Ausência de pagamento das parcelas do financiamento. Usucapião em defesa. Ausência dos requisitos à declaração da aquisição da propriedade. Posse exercida em função de contrato de promessa de compra e venda inadimplido. Imóvel, ademais, que tem natureza de bem público (art. 183, § 3º, e 191, parágrafo único, ambos da CF). Renegociação da dívida e função social da propriedade. Assegurados com a destinação do imóvel a outras pessoas carentes. Aplicação do art. 252 do Regimento Interno do Tribunal de Justiça de São Paulo. Sentença mantida. Recurso não provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 98 e 99 do Código Civil, pois sustenta que o imóvel em questão não possui natureza de bem público, sendo passível de usucapião, visto que a recorrente exerce posse mansa, pacífica e ininterrupta há mais de cinco anos, utilizando-o para moradia própria;
+b) 421 e 422 do Código Civil, porque a decisão recorrida desconsiderou a função social do contrato e a boa-fé da recorrente, que tentou regularizar a situação do imóvel junto à CDHU;
+c) 476 do Código Civil, porquanto a decisão permitiu a retenção integral das parcelas pagas pela recorrente, em afronta ao princípio da exceção do contrato não cumprido;
+d) 1.219 do Código Civil, pois a recorrente tem direito à indenização pelas benfeitorias realizadas no imóvel, bem como ao direito de retenção até que seja devidamente indenizada;
+e) 51 e 53 do Código de Defesa do Consumidor, porque a decisão violou normas que vedam a perda total das prestações pagas e garantem o direito de indenização por benfeitorias necessárias e úteis.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, reconhecendo-se o direito de usucapião da recorrente ou, subsidiariamente, a devolução das parcelas pagas e a indenização pelas benfeitorias realizadas.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem reconheceu que o imóvel objeto da lide possui destinação pública, razão pela qual é insuscetível de usucapião, conforme o art. 183, § 3º, da Constituição Federal, e que agravante não comprovou o preenchimento dos requisitos legais para a aquisição da propriedade por usucapião, em conformidade com o entendimento já consolidado no Superior Tribunal de Justiça.
+Confiram-se trechos do acórdão (fls. 536-537):
+Vale dizer que, em que pese o inconformismo da parte apelante, o imóvel cuja posse é discutida nos autos ostenta natureza de bem público, ainda que a apelada CDHU apresente personalidade jurídica de direito privado. Assim, como já discutido por esta C. Câmara, "a CDHU é sociedade de economia mista, integrante da administração indireta de São Paulo, tendo, em conformidade com o seu Estatuto Social, dentre os principais objetivos o de elaborar moradias com o objetivo de reduzir o déficit habitacional brasileiro. Assim, está relacionada com os direitos sociais previsto no art. 6º da CF.  ..  O longo período de inadimplência traz prejuízos não somente a CDHU, mas também aos demais mutuários e àqueles que poderiam ser beneficiados com programas de moradia destinados aos menos favorecidos economicamente. E repise-se mesmo notificados extrajudicialmente em qualquer momento buscaram regularizar a sua situação". (TJSP; Apelação Cível 1001073- 94.2020.8.26.0452; Relator (a): Enio Zuliani).
+Portanto, quanto à tese de usucapião, além de o ocupante não ter se desincumbido do ônus que lhes competia, isto é, de comprovar o preenchimento de todos os requisitos necessários para a aquisição do direito de propriedade sobre o imóvel sub judice, o bem em comento tem destinação pública, sendo, portanto, considerado público e, consequentemente, insuscetível de usucapião, conforme dispõe o art. 183, §3º, da Constituição Federal.
+No caso, a Corte de origem fundamentou seu entendimento no princípio da inafastabilidade da jurisdição, insculpido no art. 183, § 3º, da Constituição Federal, que garante o acesso à Justiça, para afastar a exigência de prévio requerimento administrativo.
+Contudo, a ausência de interposição de recurso extraordinário, que seria o meio adequado para questionar a matéria constitucional, impede a análise do recurso especial.
+Nesse contexto, aplicável ao caso a Súmula n. 126 do STJ quando há, no acórdão recorrido, fundamento constitucional não atacado por recurso extraordinário.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. ALEGAÇÃO DE NEGATIVA DE ENTREGA DA PLENA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONVENCIMENTO MOTIVADO DO JULGADOR. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. ACÓRDÃO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA N. 126/STJ. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS PARA ALTERAÇÃO DO JULGADO.
+1. Não se conhece do recurso especial quando, para alterar as premissas fáticas fixadas no acórdão recorrido, é necessário o reexame do conjunto probatório dos autos. Incidência da Súmula n. 7 do STJ.
+2. A não impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso.
+Incidência da Súmula n. 283 do STF.
+3. Aplica-se a Súmula n. 126 do STJ quando o acórdão assenta-se em fundamentos constitucional e infraconstitucional, qualquer um deles suficiente por si só para manter o julgado, e a parte recorrente não interpõe recurso extraordinário.
+4. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+5. Agravo regimental desprovido. (AgRg no REsp n. 1.258.314/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 3/2/2015, DJe de 12/2/2015.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, de 12% para 14% sobre o valor atualizado atribuído à causa, o s honorários advocatícios em desfavor da parte ora recorrente, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
