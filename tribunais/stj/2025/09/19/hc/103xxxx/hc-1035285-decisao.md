@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL ALEXANDRE PEREIRA contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, Relator do HC n. 2286720-78.2025.8.26.0000, que indeferiu a tutela de urgência lá impetrada e manteve a prisão cautelar da paciente pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Nesta Corte, o impetrante alega, em suma, a ausência de demonstração do periculum libertatis. Destaca que o paciente não foi surpreendido na posse de qualquer entorpecente, o que afasta, inclusive, a configuração típica do crime do art. 33 da Lei n. 11.343/2006.
+Sustenta que o paciente é primário, não possui antecedentes criminais, tem residência fixa e ocupação lícita. Ademais, o corréu assumiu integralmente a propriedade das drogas apreendidas, de modo que se mostra indevida a manutenção da prisão cautelar, sendo o caso de superação do enunciado sumular n. 691/STF.
+Requer a concessão da ordem a fim de que seja revogada a prisão preventiva ou que seja substituída por medida cautelar diversa.
+É o relatório.
+Decido.
+Nos termos d a Súmula 691/STF, não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (AgRg no HC n. 1.012.404/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025).
+Na hipótese, a Corte de origem indeferiu o pleito liminar por não verificar os requisitos autorizadores da medida de urgência, nos seguintes termos:
+"Exsurge dos autos (fls. 45/51) que o paciente foi preso em flagrante, como incurso no art. 33, caput, da Lei nº. 11.343/2006, pois, em 31 de agosto de 2025, na Avenida Maria Eutália Colani da Silva, nº. 90, cidade de Ituverava, após o cumprimento de mandado de busca e apreensão expedido nos autos nº. 1507552-53.2025.8.26.0393, foi surpreendido, na companhia de Fernando Henrique Sampaio, com uma porção de crack, uma porção de cocaína e uma porção de maconha, totalizando 741,59 gramas de entorpecentes (cf. laudos periciais de fls. 82/87, 89/94 e 96/101), para fins de comercialização, além de petrechos do tráfico, tais como: uma balança de precisão, uma lâmina e dois pratos com resquícios aparentes de entorpecentes, 2 rolos de plástico filme, 3 aparelhos celulares, além de documentos pessoais.
+ ..
+Diante do panorama evidenciado nos autos, não se verifica, por ora, qualquer ilegalidade na manutenção da segregação provisória do paciente, porquanto presentes seus requisitos autorizadores.
+Demais disso, deve-se aguardar a vinda das informações a serem prestadas pela autoridade impetrada como forma de viabilizar entendimento coeso e fundamentando acerca do mérito do presente writ." (e-STJ, fls. 18-19)
+Da leitura atenta da decisão impugnada, observa-se que a prisão foi mantida em razão do paciente e um comparsa serem surpreendidos, durante a diligência de mandado de busca e apreensão no local, com 741,59g de variadas drogas , para fins de comercialização, além de petrechos do tráfico (balança de precisão, rolos de papel filme, lâmina e pratos com resquícios de e ntorpecentes) e 3 aparelhos celulares. Assim, por ora, não se verifica a ocorrência de flagrante ilegalidade, de modo a justificar o processamento da presente ordem.
+Ante o exposto, nos termos do art. 210 do STJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
