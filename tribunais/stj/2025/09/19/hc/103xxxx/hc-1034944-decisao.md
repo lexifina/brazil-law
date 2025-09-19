@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JADSON ROBERTO STIPP DE ALMENAU, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, em virtude do julgamento da revisão criminal n. 5075790-22.2024.8.24.0000.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara da Comarca de Guaramirim, na ação penal n. 50044769-10.2021.8.24.0026, à pena de 23 anos e 4 meses de reclusão, 2.334 dias-multa e 6 meses e 15 dias de detenção, pela prática dos delitos previstos no art. 273, § 1º-A c.c. § 1º-B, por quatro vezes, c.c. art. 307, por três vezes, todos do Código Penal (fls. 64-66).
+A defesa interpôs apelação criminal ao Tribunal de Justiça do Estado de Santa Catarina, que deu provimento parcial ao recurso para reduzir a pena para 4 anos e 8 meses de reclusão e 46 dias-multa, mantidos os demais termos da condenação (fls. 67-95).
+Após o trânsito em julgado, foi proposta a revisão criminal n. 5075790-22.2024.8.24.0000 perante o Tribunal de Justiça do Estado de Santa Catarina, que não foi conhecida por força de decisão monocrática do relator (fls. 165-169). Interposto agravo interno, este não foi provido (fls. 48-52 e 170-171).
+Na presente impetração, alega-se flagrante ilegalidade na dosimetria da pena, especialmente no reconhecimento do concurso material em detrimento da continuidade delitiva, na fixação do regime inicial fechado e na manutenção do caráter hediondo do delito (fls. 8-9). Afirma-se que o afastamento da continuidade delitiva com base exclusivamente no lapso temporal de 30 dias entre as condutas contraria a jurisprudência do Superior Tribunal de Justiça, que admite flexibilização desse intervalo quando presentes unidade de desígnios e modus operandi semelhantes (fls. 12-18). Argumenta-se que a fixação do regime inicial fechado desconsiderou a primariedade, os bons antecedentes e as circunstâncias judiciais majoritariamente favoráveis do paciente, em violação aos arts. 33, §§ 2º e 3º, e 59 do Código Penal (fls. 19-25).
+Defende-se que o caráter hediondo do crime previsto no art. 273, § 1º-B, I, do Código Penal deve ser afastado, em razão da declaração de inconstitucionalidade do preceito secundário da norma pelo Supremo Tribunal Federal no RE 979.962/RS, por afronta aos princípios da proporcionalidade e razoabilidade (fls. 28-43).
+No pedido liminar, requer-se a suspensão imediata dos efeitos do acórdão impugnado, com o reconhecimento provisório da continuidade delitiva, a readequação aritmética cautelar da pena, a alteração do regime prisional para um mais brando e o afastamento provisório da natureza hedionda do delito, com todas as consequências executórias (fls. 46-47).
+Ao final, pleiteia-se a convolação da medida liminar em provimento definitivo, com a consequente soltura do paciente (fl. 47).
+É o relatório. DECIDO.
+A controvérsia consiste em definir se há constrangimento ilegal decorrente dos critérios empregados na individualização da pena e para o estabelecimento do regime inicial prisional.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Além disso, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se ad mite habeas corpus quando as teses apresentadas não foram previamente apreciadas pelo Tribunal apontado como coator, como se verifica no caso concreto. Esse entendimento é aplicado inclusive em casos de revisão criminal não conhecida, como forma de preservar a competência das instâncias ordinárias para a análise inicial da matéria.
+A esse respeito, destaco o seguinte julgado:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REVISÃO CRIMINAL NÃO CONHECIDA. PROVA NOVA. JUSTIFICAÇÃO CRIMINAL NÃO REALIZADA. ABSOLVIÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. A falta de conhecimento das questões de mérito pelo Tribunal de origem impede o conhecimento dos tópicos por este Tribunal Superior, sob pena de indevida supressão de instância.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+(AgRg no HC n. 970.783/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+De toda sorte, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
