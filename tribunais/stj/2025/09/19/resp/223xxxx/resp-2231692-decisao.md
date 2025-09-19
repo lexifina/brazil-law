@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/PB, assim ementado (fl. 491):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO CAUTELAR. PROCEDÊNCIA DO PEDIDO. PRELIMINAR. REJEIÇÃO. MÉRITO. PRESTAÇÃO DE CAUÇÃO PARA EXPEDIÇÃO DE CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA. OFERECIMENTO DE SEGURO GARANTIA. MEIO IDÔNEO. DESPROVIMENTO AO AGRAVO INTERNO.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa ao artigo 85 do CPC/15, ao argumento de que a condenação do Estado ao pagamento de honorários sucumbenciais em ação cautelar de antecipação de garantia viola o princípio da causalidade, uma vez que o Fisco possui o prazo de cinco anos para ajuizar a execução fiscal, conforme o art. 174 do CTN.
+Alega ainda violação ao Tema 237/STJ, sob o argumento de que "só faz sentido ajuizar e prosseguir a demanda cautelar enquanto não ajuizada a execução ("antes da execução") e que, ao contrário do acórdão, a garantia do juízo está interligada à certidão positiva com efeitos de negativa, sendo esta, na verdade, consequência lógica daquela." (fl. 541)
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 568/571.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial tem origem em ação cautelar ajuizada pela Embratel TVSat Telecomunicações S/A, com o objetivo de antecipar a garantia de débito tributário para viabilizar a expedição de certidão positiva com efeitos de negativa. O Tribunal de Justiça da Paraíba manteve a sentença que julgou procedente o pedido, reconhecendo a idoneidade do seguro garantia ofertado e condenando o Estado da Paraíba ao pagamento de honorários sucumbenciais.
+No que diz respeito ao artigo 85 do CPC/15, e sua respectiva tese de afronta ao princípio da causalidade, assim como a tese de que a garantia do juízo está interligada à certidão positiva com efeitos de negativa, sendo esta, na verdade, consequência lógica daquela, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+Ressalte-se que, nos termos da jurisprudência consolidada desta Corte, a admissibilidade do prequestionamento ficto (art. 1.025 do CPC) exige a indicação de violação ao art. 1.022 do CPC, o que não ocorreu na hipótese dos autos.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. PENSÃO POR MORTE. TEMA N. 396 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. TEMA N. 692 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO NÃO CONHECIDO.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou as teses de violação dos arts. 141, 492 e 1.041, § 1º, todos do CPC/2015, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+2. O recurso especial não trouxe a alegação de violação do art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1.025 do Estatuto Processual.
+3. Conforme jurisprudência desta Corte Superior, a existência de óbice processual, impedindo o conhecimento de questão suscitada com base na alínea a do permissivo constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do mesmo tema.
+4. Ademais, não se conhece de recurso especial em que se alega violação ou interpretação divergente de Tema Repetitivo, na medida em que, nos termos do art. 105, inciso III, alíneas a e c, da Constituição Federal, o recorrente deve demonstrar contrariedade, negativa de vigência ou interpretação divergente a artigo de lei federal.
+5. Recurso Especial não conhecido.
+(REsp n. 1.804.562/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+PROCESSUAL CIVIL. DEFICIÊNCIA NAS RAZÕES RECURSAIS. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. PREQUESTIONAMENTO. INEXISTÊNCIA. REEXAME. DIREITO LOCAL. MATÉRIA FÁTICA. INVIABILIDADE.
+1. A deficiência nas razões de recurso especial enseja a aplicação da Súmula 284 do STF, pois "a indicação genérica do artigo de lei que teria sido contrariado induz a compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos ou nas alíneas" (AgInt no AREsp 1.833.676/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2021, DJe de 22/9/2021.).
+2. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.3. Hipótese em que a parte recorrente, no que concerne ao tópico da decisão agravada que afastou a ocorrência de vício de integração no julgado de origem, não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+4. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, de acordo com a Súmula 211 do STJ.
+5. Segundo o entendimento desta Corte de Justiça, para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+6. Ainda que fosse possível a superação das questões processuais elencadas acima, as Súmulas 7 do STJ e 280 do STF impediriam a análise do pleito recursal na forma pretendida nas razões recursais.
+7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 2.178.881/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/6/2025, DJEN de 25/6/2025.)
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
