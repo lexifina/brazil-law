@@ -1,0 +1,13 @@
+DECISÃO
+Este recurso em habeas corpus, que buscava a liberdade dos ora recorrentes, não deve ser conhecido.
+Com relação ao recorrente WILLIAM PEREIRA DA SILVA, em consulta ao andamento processual, verifica-se a informação no sentido de que, no dia 27/8/2025, nos Autos n. 1511510-57.2025.8.26.0228, em trâmite na 10ª Vara Criminal da comarca de Barra Funda/SP, foi proferida sentença condenando-o pela prática do crime de furto qualificado, às penas de 2 anos, 8 meses e 20 dias de reclusão, em regime inicialmente fechado, mais pagamento de 12 dias-multa, tendo sido negado o direito de recorrer em liberdade, considerando a sua reincidência (trecho retirado da sentença).
+Quanto aos motivos da manutenção da custódia , a defesa não se desincumbiu do ônus de instruir adequadamente o presente recurso com a cópia do decreto prisional originário, peça essencial para a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado.
+Nesse sentido: AgRg no RHC n. 216.241/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 4/7/2025; AgRg no HC n. 970.516/BA, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025; e RCD no HC n. 954.142/PR, Ministro Og Fernandes, Sexta Turma, DJEN 2/12/2024.
+No tocante ao recorrente GUSTAVO SOUZA DE LIMA, note-se que ele foi absolvido, com a revogação da prisão preventiva e expedição de alvará de soltura em seu favor.
+Por fim, a superveniência de sentença penal implica a falta de interesse recursal em relação à alegação de excesso de prazo para a formação da culpa (AgRg no HC n. 922.391/SP, Ministro Og Fernandes, Sexta Turma, DJEN 2/12/2024).
+Tais as circunstâncias, não conheço do presente recurso em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA QUANTO A UM DOS RECORRENTES. NEGADO O DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. SENTENÇA ABSOLUTÓRIA EM RELAÇÃO AO OUTRO RECORRENTE. REVOGADA A CUSTÓDIA. EXPEDIDO ALVARÁ DE SOLTURA. PERDA DO OBJETO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPERVENIÊNCIA DE SENTENÇA.
+Recurso em habeas corpus não conhecido.
