@@ -1,0 +1,15 @@
+DECISÃO
+APOLO SISTEMAS GRÁFICOS, INDÚSTRIA, COMÉRCIO, SERVIÇOS, IMPORTAÇÃO E EXPORTAÇÃO LTDA. opõe embargos de declaração à decisão de fls. 274-276, que não conheceu do agravo em recurso especial em razão da aplicação da Súmula n. 182 do STJ.
+Em suas razões, a parte embargante sustenta erro material e omissão na decisão embargada, pois esta concluiu que o agravo em recurso especial não teria impugnado especificamente a aplicação da Súmula n. 83 do STJ, quando, na realidade, no tópico "V - Da Impugnação Específica dos Fundamentos que Negaram Seguimento ao Recurso Especial", foi expressamente afastada a aplicabilidade da referida súmula, porquanto o caso envolve nulidade absoluta decorrente de descumprimento do art. 272, § 5º, do CPC.
+Aduz que a decisão embargada ignorou a demonstração de divergência jurisprudencial entre o entendimento da Corte Especializada do STJ e a decisão do Tribunal de origem, evidenciada por quadro comparativo que aponta a nulidade absoluta reconhecida no paradigma e a exigência de comprovação de prejuízo na decisão recorrida.
+Afirma que a decisão embargada incorreu em erro material ao concluir inexistente a demonstração de dissídio e devida a impugnação à Súmula n. 83 do STJ, quando houve expressa comparação entre decisão paradigma e acórdão recorrido, impugnando a inadmissibilidade do recurso especial com base nesse preceito.
+Requer o acolhimento dos embargos com efeitos infringentes.
+As contrarrazões não foram apresentadas, conforme a certidão de fl. 287.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+A decisão embargada analisou de forma clara e fundamentada os pressupostos de admissibilidade do agravo em recurso especial, concluindo pela ausência de impugnação específica à aplicação da Súmula n. 83 do STJ. A alegação de erro material e omissão não procede, pois a decisão embargada considerou que a parte agravante não demonstrou a inaplicabilidade do julgado apontado na decisão de inadmissão ou a existência de distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula.
+Reitera-se que, para impugnar de forma específica a Súmula n. 83 do STJ, faz-se necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula, o que não foi feito pela parte agravante.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
