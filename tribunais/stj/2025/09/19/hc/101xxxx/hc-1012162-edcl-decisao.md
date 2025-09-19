@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em favor de ERITON RODRIGUES DA SILVA (e-STJ, fls. 189-191) contra decisão, por mim proferida, em que concedi a ordem, de ofício, para reconhecer o indulto natalino ao paciente em relação à pena do delito previsto no artigo 1º, inciso V, do Decreto Lei 201/67, com a consequente extinção da punibilidade (e-STJ, fls. 177-184).
+Sustenta o embargante, em verdade, que a premissa fática que embasou a concessão da ordem de ofício foi equivocada, uma vez que a condenação do paciente não se deu no artigo 1º, inciso V, do Decreto-Lei nº 201/67, como inicialmente arguido pela própria defesa na impetração do habeas corpus (e-STJ, fls. 1-8).
+A defesa esclarece que a correta capitulação penal da condenação, referente a este ponto específico, é a do artigo 1º, inciso I, do Decreto-Lei nº 201/67.
+Diante dessa retificação, o embargante reconhece que a pena máxima em abstrato do delito corretamente imputado não se enquadra nos requisitos do indulto natalino concedido pelo Decreto 11.302/2022 e, por essa razão, requer a denegação da ordem quanto a este particular.
+É o relatório.
+Decido.
+Os embargos merecem ser acolhidos.
+Como bem ponderou a própria Defesa, a decisão embargada baseou-se em uma capitulação penal que, conforme confissão ulterior da própria Defesa, foi equivocadamente informada por ela mesma nos autos do Habeas Corpus (HC 1012162/SP).
+A decisão do Superior Tribunal de Justiça, ao analisar o agravo em execução penal anteriormente interposto pelo paciente (processo 0003595-10.2025.8.26.0041) perante o Tribunal de Justiça de São Paulo, havia compreendido que a controvérsia levantada pela defesa no habeas corpus residia na possibilidade de indulto para o artigo 1º, inciso V, do Decreto-Lei nº 201/67, cuja pena abstrata (três meses a três anos de detenção) seria compatível com o artigo 5º do Decreto 11.302/2022.
+Foi nesse contexto que, interpretando as alegações da defesa de forma benéfica ao paciente e buscando sanar o que parecia uma ilegalidade na negativa do indulto pelo Tribunal de Justiça de São Paulo, a ordem foi concedida de ofício.
+Dessa forma, o equívoco na capitulação penal (inciso V em vez de inciso I) foi uma alegação trazida pela defesa na petição inicial do habeas corpus perante o STJ.
+Entretanto, a própria defesa veio informar, mediante a petição de embargos, que a condenação real do paciente, referente a este ponto, é a do artigo 1º, inciso I, do Decreto-Lei nº 201/67.
+Este inciso prevê uma pena máxima em abstrato de dois a doze anos de reclusão (e-STJ, fls. 4, 103), o que, de fato, não se coaduna com o limite de cinco anos de pena em abstrato exigido pelo artigo 5º do Decreto 11.302/2022 para a concessão do indulto natalino.
+A retificação processual é de suma importância, pois o reconhecimento do equívoco por parte da Defesa descaracteriza completamente a premissa que levou à concessão da ordem, de ofício, para o indulto relativo ao artigo 1º, inciso V, do Decreto-Lei nº 201/67.
+Conforme o próprio embargante reconheceu, o delito efetivamente imputado e condenado sob o inciso I não preenche o requisito objetivo temporal para o benefício, afastando a possibilidade de indulto para esta condenação específica.
+Assim, diante da admissão de erro pela própria parte e da evidente inaplicabilidade do benefício para a verdadeira capitulação penal, torna-se imperiosa a correção da decisão anterior.
+O princípio da boa-fé processual e a busca pela verdade real impõem que a ordem de habeas corpus seja reformada para denegar o indulto referente a este delito específico, em conformidade com a solicitação da própria defesa, que agora busca adequar o processo à realidade dos fatos.
+Ante o exposto, acolho os embargos de declaração para sanar o equívoco fático que motivou a concessão da ordem de ofício e, em consequência, revogar o indulto natalino concedido anteriormente ao paciente ERITON RODRIGUES DA SILVA em relação à pena do delito previsto no artigo 1º, inciso V, do Decreto Lei 201/67. Por consequência, denego a ordem quanto a este ponto, considerando que a condenação real se deu no artigo 1º, inciso I, do Decreto-Lei nº 201/67, que não atende aos requisitos do Decreto 11.302/2022.
+Publique-se. Intimem-se.
+ EMENTA
