@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TERCON TERRAPLENAGEM E CONSTRUCOES LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88 visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. AÇÃO DE COBRANÇA JULGADA IMPROCEDENTE. DECISÃO QUE INDEFERE A GRATUIDADE DA EMPRESA AUTORA APELANTE. INCONFORMISMO. DESACOLHIMENTO. DOCUMENTOS QUE DEMONSTRAM A EXISTÊNCIA DE CRÉDITOS E IMPOSTOS A RECUPERAR, ALÉM DE INVESTIMENTOS EM EMPRESAS TERCEIRAS, IMOBILIZADO DE GRANDE VALOR E CRÉDITOS DE SÓCIOS. HIPOSSUFICIÊNCIA AFASTADA. RECURSO IMPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 98, § 6º e 1.007, § 6º, do CPC, no que concerne à ausência de decisão a respeito do parcelamento das custas processuais, bem como a abertura de prazo para recolhimento do preparo , trazendo a seguinte argumentação:
+Vistos todos os elementos acima, vê-se que na decisão recorrida:
+a) Fez aplicar a hipótese de deserção sem que houvesse a negativa ou inação de efetuar o preparo, ou o preparo a destempo, ou mesmo o preparo de forma irregular; isso é clara afronta à determinação da lei federal, do microssistema do art. 1007 e parágrafos, com destaque ao §6º;
+b) As hipóteses de deserção não ocorreram pela causa de justo impedimento, ou seja a justa petição com pedido de parcelamento e não houve juízo, positivo ou negativo, não houve decisão sobre o parcelamento; não há como se proceder ao recolhimento integral - caso houvesse decisão negativa -, ou o recolhimento parcelar - caso houvesse decisão positiva; portanto, a decisão contraria a lei federal naquilo que o art. 1007, §6º dispõe sobre o justo impedimento ao recolhimento e a cinquena para o recolhimento; o art. 98, §6º impõe o dever de decidir pelo Juízo e a decisão recorrida não o fez, violando a lei federal;
+c) Além disso, como dito, não houve a cinquena após a comunicação do Juízo de Recurso, pois não houve a decisão do Juízo de Recurso sobre a matéria do pedido de parcelamento; nisso também ocorre a violação do art. 1007, §6º pela decisão recorrida;
+d) O peticionamento com pedido de parcelamento não pode resultar em compreensão de desídia, negligência, omissão da parte; nesse caso, a não produção de decisão sobre o parcelamento viola o art. 98, §6º, na combinação com o mesmo art. 1007, §6º;
+e) O pedido de parcelamento é razão suficiente para gerar o impedimento de recolhimento imediato do preparo; portanto, a decisão carrega invalidez por violar a disposição do art. 1007, §6º.
+Conclusivamente, há ofensa aos sentidos dos §§ 6º, quer do art. 98, quer do art.
+1007, CPC, pois, como detalhado na argumentação acima, hipótese normativa da lei federal não foi respeitada, já que o sentido, a situação fática albergada nos dispositivos da lei federal, o resultado finalístico, teleológico, de comando normativo da lei federal é o de:
+a) Obrigação do Juízo de produção de decisão fundamentando a negativa, ou deferimento, do parcelamento; tal não houve e, portanto, contraria a disposição legislativa do CPC, do art. 98, do § 6º;
+b) O fato de ocorrer peticionamento com pedido de parcelamento, e a ausência de decisão sobre o pedido de parcelamento, a inexistência de quinquidio para o recolhimento integral, ou parcelar, mostram a frustração da norma processual federal, CPC, que é a de sancionar somente o Recorrente desidioso; portanto, a decisão contraria a lei federal, art. 1007, §6º, ao não conceder o quinquídio, ao não relevar com base no justo motivo da existência de peticionamento o recolhimento que deveria ser posterior à decisão (fl. 1228).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestio namento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-s e ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
