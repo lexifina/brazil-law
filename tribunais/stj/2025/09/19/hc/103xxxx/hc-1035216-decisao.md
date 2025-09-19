@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em favor de ROBSON OSVALDO DE SOUSA - condenado à pena alternativa de 4 m eses de prestação de serviços à comunidade, pela prática do delito de porte de droga para consumo pessoal -, no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2209678-50.2025.8.26.0000), não comporta conhecimento.
+Consta dos autos que o Juízo de Direito da Vara do Juizado Especial Cível e Criminal da comarca de Olímpia/SP absolveu o paciente da imputação de porte de drogas para consumo pessoal, aplicando o princípio da insignificância, pois foi apreendido 0,01 g de cocaína.
+O Tribunal de origem deu provimento ao apelo do Ministério Público estadual para condenar o paciente como incurso no art. 28, caput, da Lei n. 11.343/2006 à prestação de serviços à comunidade (fls. 21/27). Após o trânsito em julgado do acórdão condenatório, a defesa impetrou habeas corpus substitutivo de revisão criminal não conhecido (fls. 9/12).
+Busca-se, na presente impetração, liminarmente, a suspensão da execução da pena e, no mérito, a absolvição do paciente, argumentando que a condenação pela prática do crime previsto no art. 28 da Lei n. 11.343/2006 viola os princípios da intervenção mínima e da insignificância, considerando a ínfima quantidade de droga apreendida, insuficiente para causar qualquer lesão ao bem jurídico tutelado (saúde pública).
+É o relatório.
+Verifico que o pedido de absolvição não foi examinado pelo Tribunal de origem no acórdão impugnado, que decidiu pela impossibilidade de impetração de habeas corpus substitutivo de revisão criminal, o que obsta a análise por esta Corte Superior, pois é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Ademais, esta Corte Superior de Justiça pacificou o entendimento da tipicidade da conduta de porte de entorpecentes e da inaplicabilidade do princípio da insignificância, por se tratar de crime de perigo abstrato ou presumido, não exigindo a efetiva lesão do bem jurídico tutelado - a saúde pública.
+Nesse sentido: AgRg no HC 567.737/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/5/2020; AgRg no AREsp n. 2.627.526/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.8.2024; e AgRg no HC n. 861.764/PR, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 20.6.2024.
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-s e.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. PORTE DE DROGAS PARA CONSUMO PESSOAL. ABSOLVIÇÃO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. PEDIDO NÃO ANALISADO PELO TRIBUNAL DE ORIGEM, QUE NÃO ADMITIU A IMPETRAÇÃO DE WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE. AUSÊNCIA.
+Habeas corpus não conhecido.
