@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra a decisão proferida pelo TERCEIRO VICE-PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado, em primeira instância, como incurso nas sanções do art. 305 e art. 306, § 1º, II, c/c o art. 298, III, todos da Lei n. 9.503/1997, à pena de 1 ano e 2 meses de detenção e 11 dias-multa, além da suspensão de se obter a habilitação para dirigir veículo automotor por 2 meses e 10 dias, a ser cumprida no regime inicial aberto.
+A apelação defensiva foi provida pelo Tribunal de origem, que reconheceu o concurso formal entre os crimes e reduziu a pena para 8 meses e 5 dias de detenção, além de alterar a pena corporal para uma restritiva de direitos consistente na prestação de serviços à comunidade.
+Irresignado, o Ministério Público interpôs recurso especial no qual requereu a aplicação do concurso material entre os crimes previstos nos arts. 305 e 306 do Código de Trânsito Brasileiro, com fundamento no art. 69 do Código Penal, alegando que as condutas foram autônomas e consumadas em momentos distintos (e-STJ fls. 349/359).
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso (e-STJ fls. 425/428).
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da controvérsia, o Tribunal de origem assim consignou (e-STJ fl. 301):
+Pugna aqui a Douta Defesa pelo afastamento do concurso material de crimes, aplicando-se ao caso o concurso formal de crimes ex vi do artigo 70 do CP.
+Entendo que cabível o atendimento do referido pleito, pois o agente praticou os crimes, utilizando-se de um único impulso delituoso.
+Da análise do trecho transcrito, observo que, de fato, não há como conhecer do recurso especial. Isso, porque a Corte estadual, a partir dos elementos fáticos e probatórios existentes nos autos, entendeu preenchidos os requisitos necessários para o reconhecimento do concurso formal de crimes. A inversão do julgado, de maneira a reconhecer concurso material, no caso, demandaria nova incursão nas provas e fatos que instruem o caderno processual, o que é inviável na via eleita.
+Ademais, a despeito da oposição de embargos declaratórios, verifico que as tese constantes do apelo nobre, da forma como deduzidas pela defesa, não foram objeto de debate pelo Tribunal de origem.
+Sendo assim, aplicável o disposto no enunciado 211 da Súmula desta Casa, segundo o qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. NOVAS TESES TRAZIDAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Este Tribunal Superior possui entendimento pacificado no sentido de que a alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 6/5/2014).
+2. Os embargos de declaração interpostos após a formação do acórdão, com o escopo de prequestionar tema não veiculado anteriormente no processo, não caracterizam prequestionamento, mas pós-questionamento. Incidência da Súmula nº 211 do STJ. (AgRg no Ag n. 705.169/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 21/09/2009).
+3. Agravo regimental improvido. (AgRg no AREsp 982.366/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018.)
+É digno de nota que, "se a parte entende não sanado o vício a despeito da oposição de embargos de declaração, deve indicar, no recurso especial, afronta ao art. 619 do CPP e demonstrar de que maneira o vício afetou o julgamento da controvérsia, ônus do qual não se desincumbiu o recorrente" (AgRg no AREsp n. 2.600.172/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/8/2024, DJe de 28/8/2024).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
