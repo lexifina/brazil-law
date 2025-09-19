@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FERNANDO FABRIEL SOBREIRA DE BARROS contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial.
+A parte agravante foi condenada como incursa no art. 288, caput, do Código Penal ao cumprimento de 2 anos e 6 meses de reclusão, no regime inicial semiaberto (fl. 1057). A defesa dela apelou alegando que era o caso de absolvição por insuficiência probatória, especialmente do vínculo permanente da parte agravante com os demais condenados pelo mesmo crime (fls. 1183-1189).
+O Tribunal local negou provimento ao recurso (fls. 1231-1260).
+A defesa interpôs recurso especial (fls. 1271-1277), que não foi admitido, com base na Súmula 7 do STJ (fls. 1319-1320).
+É o relatório. DECIDO.
+A questão em discussão consiste em saber se depende de reexame de prova a definição acerca da correção da fixação da primeira fase da pena, nos termos do art. 59 do Código Penal, o que, por conseguinte, ensejou a fixação de regime inicial de cumprimento de pena diverso do que, a rigor, seria cabível, em atenção aos ditames do art. 33 do Código Penal.
+Não se trata de análise meramente jurídica a que recai sobre a correção da elevação da pena-base, nos termos do art. 59 do Código Penal, eis que fundamentada tanto na sentença quanto no acórdão contra o qual interposto o recurso especial. Destaco trecho do acórdão em que se trata do tema:
+"Contrariamente ao que alegam os apelos, assim procedeu fundamentadamente a r. sentença, ante às circunstâncias gravosas do crime e suas graves consequências, nos moldes do artigo 59 do Código Penal. As circunstâncias do delito são fortemente reprováveis, à luz do modus operandi usado pelos agentes, valendo-se, de um lado, do nome e da imagem de empresa legítima para praticar golpes, com vistas a atribuir certo verniz de confiabilidade às negociações criminosas, e, de outro, de numerosos agentes cinco criminosos, isto é, número superior ao mínimo indicado pelo tipo penal , em atuação danosa a um número indeterminado de consumidores e que coloca em xeque a confiança na idoneidade do sistema de compras online." (fl. 1256)
+Tendo em vista que a fixação do regime inicial semiaberto se baseou nas circunstâncias judiciais supracitadas (fl. 1259), o mesmo raciocínio indicado no item anterior pode ser adotado quanto à suposta negativa de vigência do art. 33 do Código Penal.
+Em suma, a reanálise das circunstâncias que levaram à fixação da pena e à consequente definição do regime inicial de cumprimento da pena demandaria o revolvimento do acervo fático-probatório, o que é vedado nesta instância especial, conforme a Súmula n. 7 do STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
