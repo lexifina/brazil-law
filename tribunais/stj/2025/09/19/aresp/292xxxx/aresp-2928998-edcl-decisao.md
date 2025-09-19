@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por GILVANE DE FATIMA BUENO contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fl. 929):
+Com a inadmissão do recurso especial, apresentou-se agravo em recurso especial, que não foi conhecido.
+Entretanto, ao não conhecer do agravo, não houve pronunciamento acerca do pedido de gratuidade de justiça formulado ao Ínclito Superior Tribunal de Justiça.
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+É despiciendo eventual deferimento do benefício da justiça gratuita neste momento processual, pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte peticionante das custas processuais referentes aos atos anteriores. Isso porque, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, 5ª Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 29.5.2012).
+Sendo a interposição do recurso especial o último ato oneroso praticado pela parte no processo, não há que se cogitar a concessão da gratuidade neste momento, pois não há mais custas a serem recolhidas depois disso, e a condenação em honorários advocatícios não pode mais ser elidida (mutatis mutandis, AgRg na PET no Ag 1136278/RJ, Rel. Min. Ari Pargendler, Corte Especial, DJe 16.08.2010).
+Ademais, consoante jurisprudência do STJ, o beneficiário da justiça gratuita não faz jus à isenção da condenação nas verbas de sucumbência, mas tão somente a suspensão do seu pagamento pelo período de cinco anos se persistir a situação de pobreza. Precedente: AgRg no REsp 1.456.184/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27.11.2015.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
