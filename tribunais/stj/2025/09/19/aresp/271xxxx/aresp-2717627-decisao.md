@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por EVERTON BRAZ PEREIRA contra decisão da Presidência do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS que inadmitiu recurso especial, com fundamento na Súmula n. 7, STJ (fls. 309-311).
+O agravante foi condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos, além de 166 (cento e sessenta e seis) dias-multa. A 1ª Turma Criminal do TJDFT, ao julgar a apelação defensiva, manteve integralmente a condenação (fls. 254-274).
+No recurso especial, com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal, o agravante sustentou violação aos arts. 157, 240, 244, 245 e 386, inciso VII, do Código de Processo Penal, alegando nulidade das provas obtidas em busca pessoal, veicular e domiciliar realizadas sem justa causa ou autorização válida (fls. 279-295).
+A decisão agravada inadmitiu o recurso especial ao fundamento de que "a análise da tese recursal demandaria o revolvimento do conjunto fático-probatório dos autos, procedimento vedado pela Súmula 7 desta Corte Superior" (fl. 310).
+Em suas razões, o agravante argumenta que a questão posta não demanda reexame de provas, mas sim revaloração jurídica dos fatos já delimitados pelas instâncias ordinárias (fls. 315-323).
+O Ministério Público Federal opinou pelo conhecimento e provimento do agravo (fls. 342-345).
+É o relatório. DECIDO.
+Conheço do agravo, contudo não conheço do recurso especial.
+A decisão agravada aplicou corretamente a Súmula n. 7, STJ, pois a análise da tese recursal efetivamente demanda o reexame do conjunto fático-probatório dos autos.
+Conforme consignado pelo acórdão recorrido, a denúncia anônima recebida pelo COPOM não foi genérica, mas continha elementos específicos e concretos: indicação de veículo com características determinadas estacionado em local conhecido pela prática de tráfico de drogas. Os policiais, ao chegarem ao local indicado, identificaram o veículo correspondente às características descritas e, durante a abordagem, encontraram entorpecentes em seu interior. Posteriormente, com autorização dos pais do agravante, realizaram busca domiciliar que resultou na apreensão de balança de precisão (fls. 257-259).
+O Tribunal de origem assentou expressamente que "as buscas foram realizadas com base em fundada suspeita e autorização válida, não configurando ilegalidade" (fl. 258). Destacou ainda que "os depoimentos de policiais e usuários de drogas, aliados aos laudos periciais, são suficientes para comprovar o tráfico de drogas" (fl. 261).
+Esta Corte possui entendimento consolidado de que a denúncia anônima específica, contendo elementos concretos e verificáveis, quando confirmada por diligências policiais, configura fundadas razões para a abordagem e busca.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. AGRAVO IMPROVIDO.
+1. O Supremo Tribunal Federal, no Tema n. 280 da repercussão geral, estabeleceu que a entrada forçada em domicílio sem mandado é lícita quando amparada em fundadas razões, devidamente justificadas, indicando flagrante delito.
+2. No caso concreto, com base em denúncias anônimas sobre tráfico de drogas em um ponto conhecido pela prática dessa atividade, policiais militares localizaram o agravante, que correspondia às características descritas na denúncia e portava uma sacola. Ao notar a presença policial, ele tentou fugir e descartou a sacola, na qual foram encontradas porções de maconha.
+3. Presentes, portanto, as fundadas razões que amparam a atuação policial, conforme precedentes do Superior Tribunal de Justiça.
+4. Para afastar o consignado pelo Tribunal de origem, seria necessário o revolvimento fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+5. Agravo regimental improvido.
+(AgRg no REsp n. 2.058.493/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025.)
+No mesmo sentido, precedente desta relatoria:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO DO WRIT. TRÁFICO DE ENTORPECENTES. BUSCA VEICULAR. DENÚNCIA ANÔNIMA ESPECIFICADA. FUNDADAS RAZÕES. NULIDADE NÃO EVIDENCIADA. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE CONFISSÃO. REVOLVIMENTO PROBATÓRIO VEDADO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - O writ foi impetrado contra acórdão do Tribunal local, já transitado em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+II - No presente caso, a busca veicular foi motiva por denúncia anônima especificada, a qual apontou as características do veículo, de mesmo marca, modelo e cor do automóvel do paciente, trafegando na mesma região indicada, no qual estaria sendo transportada arma de fogo. Assim, entendo que não há que se falar em ilegalidade na busca veicular, devidamente motivada a abordagem policial, a qual culminou na apreensão de 28 kg de maconha, acondicionados no porta-malas do automóvel.
+III - No que toca à confissão espontânea, não deve ser reconhecida, porquanto restou consignado no acórdão impugnado que o paciente se calou tanto em solo policial, como ao ser interrogado em juízo.
+Nesse contexto, para que a pretensão deduzida na presente impetração pudesse ser acolhida, seria imprescindível o revolvimento de todo o conjunto fático-probatório, cujo rito do habeas corpus e a jurisprudência do Superior Tribunal de Justiça não admitem.
+Agravo regimental desprovido.
+(AgRg no HC n. 895.138/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+Ainda sobre o tema, esta Quinta Turma já decidiu que não configura violação de domicílio, pela existência de fundadas razões, evidenciadas com "A entrada autorizada e presente fundada suspeita de crime no local" (AgRg no HC 1.004.818/SP, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe 14/08/2025).
+No caso dos autos, as instâncias ordinárias fixaram que: (i) a denúncia anônima continha elementos específicos sobre o veículo e o local; (ii) os policiais confirmaram a informação ao encontrar o veículo com as características descritas; (iii) drogas foram efetivamente encontradas no automóvel; (iv) os pais do agravante autorizaram o ingresso na residência; e (v) material relacionado ao tráfico foi apreendido no domicílio.
+Desse modo, para acolher a tese defensiva de ausência de justa causa ou de consentimento inválido, seria necessário reexaminar todo o conjunto probatório e desconstituir as premissas fáticas estabelecidas pelas instâncias ordinárias, procedimento vedado em recurso especial.
+A questão não se limita à valoração jurídica de fatos incontroversos, mas demanda efetiva incursão no acervo fático-probatório para verificar se a denúncia anônima continha ou não elementos específicos, se houve ou não autorização válida dos moradores, e se existiam ou não fundadas razões para a atuação policial.
+Como bem observado pela decisão agravada, "as provas foram consideradas válidas pelas instâncias ordinárias, com base em depoimentos de policiais e usuários de drogas, e não há elementos para afastar a condenação" (fl. 310). Logo, a alteração de tal conclusão exigiria o reexame de provas, atraindo o óbice da Súmula n. 7, STJ.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO. IMPOSSIBILIDADE. PROVAS DE AUTORIA E MATERIALIDADE SUFICIENTES. REVOLVIMENTO PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias consideraram que o acervo probatório é firme para subsidiar a condenação do agravante pelos delitos de tráfico de drogas e de associação para tal fim, pela análise pormenorizada de variados elementos probatórios, além dos depoimentos dos policiais, sobretudo de mensagens de celular do adolescente e da expressiva quantidade das drogas apreendidas.
+2. A mudança da conclusão alcançada no acórdão impugnado, de sorte a absolver o agravante, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, conforme o disposto na Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 1.014.519/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do artigo 253, parágrafo único, inciso II, alínea "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
