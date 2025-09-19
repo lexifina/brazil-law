@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por PAULO SERGIO DOS SANTOS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE DA PRISÃO AFASTADA EM JULGAMENTO DE HABEAS CORPUS CONEXO. MANUTENÇÃO DA PRISÃO PREVENTIVA. FUMUS COMMISSI DELICT PRESENTE. PERICULUM IN LIBERTATIS. DEMONSTRADO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INCABÍVEIS. EXCESSO DE PRAZO. INOCORRÊNCIA. ORDEM DENEGADA. I. CASO EM EXAME
+1. O paciente foi preso pelo suposto cometimento do crime de tráfico de drogas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste, na possibilidade ou não de revogação da segregação preventiva ou substituição por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. Estão presentes os requisitos autorizadores da prisão preventiva no delito em tela, bem como indicadores da necessidade da manutenção da segregação do paciente.
+4. O paciente é reincidente, conforme consta nos autos.
+5. A simples ultrapassagem dos prazos legais não é suficiente para caracterizar a ilegalidade da prisão. Excesso de prazo não verificado.
+6. A prisão preventiva do paciente foi decretada no dia 27/02/2025, ou seja, perdura por um período de aproximadamente seis meses, não havendo, ao menos por ora, excesso de prazo com a aplicação da medida.
+7. Ausência de flagrante ilegalidade capaz de ensejar a concessão da ordem de habeas corpus.
+8. Impossibilidade de substituição da prisão por medidas cautelares diversas, por não se mostrarem adequadas ou suficientes para o caso.
+IV. DISPOSITIVO
+9. DENEGADA A ORDEM DE HABEAS CORPUS." (e-STJ, fl. 42)
+Segundo se infere dos autos, o recorrente teve a prisão preventiva decretada em 27/2/2025 e foi denunciado pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06.
+Nesta Corte, a defesa alega, em suma, excesso de prazo para a formação de culpa, agumentando que o recorrente se encontra preso há mais de 6 meses, sem que tenha ainda se realizado o julgamento. Afirma que houve erro do Judiciário, uma vez que a primeira tentativa de realização de audiência não se consumou em razão de não ter sido corretamente intimada a penitenciária onde o recorrente está.
+Sustenta que o corréu, que foi preso nas mesmas condições que o recorrente, foi colocado em liberdade e que o único processo anterior pelo qual o recorrente respondeu foi há mais de 8 anos, não sendo a reincidência fundamento suficiente para a manutenção da prisão cautelar, a qual está se configurando como verdadeira antecipação de pena.
+Afirma que o recorrente não é pessoa perigosa e que se mostra desproporcional a prisão cautelar pela suposta prática de crime cometido sem violência ou grave ameaça e com pouca quantidade de droga.
+Requer a o provimento do recurso com a revogação da prisão preventiva ou substituição por medida cautelar diversa.
+É o relatório.
+O recurso não comporta provimento.
+Acerca do excesso de prazo, extrai-se o seguinte do acórdão impugnado:
+"No que tange ao excesso de prazo na formação da culpa, tenho que a simples ultrapassagem dos prazos legais não é suficiente para caracterizar a ilegalidade da prisão.
+O prolongamento na duração da prisão não é suficiente para justificar a revogação da prisão preventiva do paciente, havendo elementos que indicam o perigo no seu estado de liberdade.
+Ainda, a prisão preventiva é medida de natureza cautelar cuja função visa assegurar as finalidades do processo para melhor aplicação da lei penal. Portanto, não havendo prazo determinado previsto em lei para sua duração, a manutenção da prisão preventiva justifica-se enquanto for necessária para o cumprimento da função cautelar.
+Compulsando os autos, verifico que, não obstante a realização da audiência ter sido frustrada, o feito está em seu regular deslinde, tendo o juízo a quo, esclarecido que o cancelamento da solenidade ocorreu em decorrência de portaria expedida pelo Juiz Diretor do Fórum de Capão da Canoa (processo 5005219- 38.2025.8.21.0141/RS, evento 156, DESPADEC1).
+Por conseguinte, consta no feito de origem informações esclarecendo o retorno do expediente na referida Comarca, bem como a redesignação do ato para a data de 23/10/2025 (processo 5005219- 38.2025.8.21.0141/RS, evento 173, DESPADEC1).
+Ainda, a prisão preventiva do paciente foi decretada no dia 27/02/2025, ou seja, perdura por um período de aproximadamente seis meses, não havendo, ao menos por ora, excesso de prazo com a aplicação da medida (processo 5003662-16.2025.8.21.0141/RS, evento 24, DESPADEC1)." (e-STJ, fl. 40)
+Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. É certo que a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado (RHC 58.140/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/9/2015, DJe 30/9/2015; RHC 58.854/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015).
+No caso, verifica-se que, embora evidenciado algum atraso na realização dos atos processuais, não se pode extrair dos autos qualquer indício de desídia ou negligência do julgador. Destacou-se que a audiência de instrução e julgamento está marcada para o dia 23/10/2025, não havendo como se acolher a tese defensiva de que a ação tramita sem a observância do princípio da razoável duração do processo.
+Confiram-se os precedentes desta Corte nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. ILEGALIDADE NÃO EVIDENCIADA. MATÉRIA JÁ APRECIADA EM HABEAS CORPUS ANTERIOR. LITISPENDÊNCIA. EXCESSO DE PRAZO NÃO EVIDENCIADO. PERICULOSIDADE DO AGENTE DEMONSTRADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. AGRAVO NÃO PROVIDO.
+1. Inviabilidade de reexame da tese de ilegitimidade da prisão preventiva, que deixou de ser conhecida no ato apontado coator por ter sido analisada em outro habeas corpus , caracterizando litispendência e a impossibilidade de apreciação imediata pela instância superior, sob pena de supressão de instância.
+2. Não há constrangimento ilegal por excesso de prazo quando demonstrada a regularidade da marcha processual, a adoção de diligências para conclusão de laudos e a proximidade da prolação de sentença, evidenciando ausência de mora injustificada.
+3. Evidenciando a proporcionalidade da manutenção da medida cautelar extrema, destacam-se a gravidade concreta dos fatos, a apreensão de 2 kg de cocaína e arma de fogo municiada, bem como a regularidade da instrução, com diligências em curso e esforços para conclusão das provas periciais.
+4. Agravo regimental não provido. (AgRg no RHC n. 214.283/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA POR EXCESSO DE PRAZO. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+2. Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+3. No caso, a prisão preventiva foi reavaliada e mantida em decisão proferida em 1º /10/2024, e não houve desídia por parte do juízo, uma vez que a instrução criminal foi encerrada e o prazo para alegações finais foi oportunamente aberto.
+4. Ademais, conforme consta dos autos, o agravante responde por dois crimes graves, homicídio qualificado e tráfico de drogas, cujas penas somadas podem ultrapassar 30 anos de reclusão, estando sujeito ao procedimento especial do Tribunal do Júri.
+5. No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há falar em ilegalidade por excesso de prazo.
+6. Agravo regimental improvido. (AgRg no RHC n. 212.393/ES, relator Ministro Og Fernandes, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025.)
+Prosseguindo-se, a prisão preventiva do recorrente foi mantida no acórdão impugnado sob os seguintes fundamentos:
+"A decisão que decretou a prisão preventiva do paciente não careceu de argumentação, estando devidamente fundamentada indicando as circunstâncias específicas do caso concreto, apontando a necessidade da prisão preventiva para garantia da ordem pública.
+Nesse ínterim, examinando mais detalhadamente o presente caso, para análise do mérito, verifico que estão presentes os requisitos autorizadores da prisão preventiva no delito em tela, bem como indicadores da necessidade da manutenção da segregação do paciente.
+O paciente foi preso pelo suposto cometimento do crime de tráfico de drogas. Houve a apreensão de 19 gramas de cocaína, 206 gramas de maconha, um simulacro de arma de fogo, uma balança e um colete balístico, conforme se verifica nos autos (processo 5003662-16.2025.8.21.0141/RS, evento 1, REGOP3).
+Em decorrência dos fatos, o paciente restou denunciado, conforme consta na inicial acusatória (processo 5005219-38.2025.8.21.0141/RS, evento 1, DENUNCIA1). Ademais, refiro que o paciente ostenta condenação pelo Art. 16, § único, inc. IV, do Estatuto do Desarmamento, com transito em julgado na data de 03/07/2017 - 0045222-55.2012.8.21.0019, conforme se verifica na certidão de antecedentes criminais acostada aos autos (processo 5003662-16.2025.8.21.0141/RS, evento 6, CERTANTCRIM2). Desta feita, a denúncia referiu a reincidência do paciente, conforme consta na ação penal originária (processo 5005219-38.2025.8.21.0141/RS, evento 1, DENUNCIA1)." (e-STJ, fls. 39-40)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+Como se vê, o decreto prisional fundamentou-se no risco concreto de reiteração delitiva do agente, uma vez que o recorrente é reincdiente.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (AgRg no HC n. 984.921/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025).
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus substitutivo de recurso ordinário, em que se alegava a ilegalidade das provas colhidas mediante violação de domicílio e a ausência de elementos concretos para a custódia cautelar.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva está devidamente fundamentada na garantia da ordem pública e no risco de reiteração delitiva, considerando a apreensão de mais de 130 kg de maconha e a existência de outro processo em curso por tráfico de entorpecentes.
+3. Outra questão em discussão é a alegação de ilegalidade das provas colhidas mediante violação de domicílio sem justa causa ou autorização judicial, e se tal alegação poderia ensejar o trancamento da ação penal ou a revogação da prisão preventiva.
+III. Razões de decidir
+4. O trancamento de ação penal por meio de habeas corpus é medida excepcional, cabível apenas quando há inequívoca comprovação de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria ou materialidade do delito.
+5. A alegação de nulidade pela busca domiciliar deve ser analisada pelas instâncias ordinárias, sob o crivo do contraditório, para que se possa delinear o quadro fático e verificar a legalidade das provas colhidas.
+6. O trancamento prematuro da ação penal pode cercear a acusação, impedindo o Ministério Público de demonstrar a legalidade da prova colhida durante a instrução processual.
+7. A prisão preventiva foi mantida com base na garantia da ordem pública e no risco de reiteração delitiva, considerando a quantidade significativa de drogas apreendidas e o fato do agravante responder a outra ação penal.
+8. A jurisprudência consolidada estabelece que a preservação da ordem pública justifica a prisão preventiva quando há indícios de contumácia delitiva e periculosidade do agente, não sendo suficientes medidas cautelares alternativas.
+IV. Dispositivo e tese
+9. Agravo improvido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida para garantir a ordem pública e prevenir a reiteração delitiva quando há indícios concretos de periculosidade do agente. 2. A análise de nulidade de provas colhidas mediante violação de domicílio deve ser feita pelas instâncias ordinárias sob o crivo do contraditório, para que se possa delinear o quadro fático e verificar a legalidade das provas colhidas."
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 282, § 6º.Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10/6/2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27/3/2020.
+(AgRg no HC n. 997.960/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Pelos mesmos motivos acima delineados, é inviável a aplicação de medidas cautelares diversas da prisão, pois a reiterada conduta delitiva do agente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: AgRg no HC n. 978.980/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; AgRg no HC n. 878.550/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 20/2/2024, DJe de 26/2/2024.
+Por fim, no que toca ao pedido de extensão dos efeitos da decisão que concedeu a liberdade provisória ao corréu, constata-se que já foi analisado no bojo do RHC n. 214.320/RS, sendo indeferido.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
