@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCILENE RAMOS DA CRUZ contra decisão da 1ª Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal (fls. 4.359-4.363).
+O Tribunal de origem inadmitiu o recurso especial com base nas Súmulas n. 7, STJ, 284, STF e 283, STF, fundamentando que: (i) seria necessária a revisão do conjunto probatório para afastar a condenação por associação ao tráfico; (ii) houve deficiência de fundamentação recursal quanto à indicação dos dispositivos legais violados; e (iii) ausência de impugnação específica aos fundamentos do acórdão recorrido.
+Em suas razões (fls. 4.376-4.383), a agravante sustenta de forma genérica que os óbices não deveriam incidir, pleiteando o processamento do recurso.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 4.636-4.647).
+É o relatório. DECIDO.
+O agravo em recurso especial não deve ser conhecido.
+A agravante, em sua minuta, limita-se a afirmar de modo genérico que os fundamentos da decisão de inadmissibilidade seriam equivocados, sem, contudo, desenvolver argumentação que os infirme de maneira específica.
+O princípio da dialeticidade recursal exige que o recorrente demonstre as razões de seu inconformismo, impugnando especificamente os fundamentos da decisão recorrida. No caso, a decisão de inadmissibilidade aplicou três óbices sumulares distintos - Súmulas n. 7, STJ, 284, STF e 283, STF -, e nenhum deles foi objeto de refutação específica e pormenorizada pela agravante.
+A jurisprudência desta Corte é uníssona: "É inviável o agravo (..) que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182, STJ).
+Nesse mesmo sentido:
+DIREITO PROCESSUAL PENAL. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ MANTIDA. SÚMULAS DO STF APLICÁVEIS NO STJ. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM
+EXAME 1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão agravada, conforme exigido pelo art. 932, inciso III, do CPC e pela Súmula n. 182 do STJ.
+2. O TJ não admitiu o recurso especial, e a Presidência do STJ não conheceu do agravo em recurso especial, aplicando a Súmula n. 182 do STJ.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o agravo em recurso especial pode ser conhecido quando não há impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial. Consiste também em estabelecer se as Súmulas do Supremo Tribunal Federal podem ser aplicadas no âmbito do Superior Tribunal de Justiça.
+III. RAZÕES DE DECIDIR
+4. A ausência de impugnação específica de todos os fundamentos de inadmissibilidade do recurso especial impede o conhecimento do recurso, ante o óbice da Súmula n. 182 do STJ.
+5. O recurso especial é espécie do gênero "recurso extraordinário", o que torna perfeitamente possível o emprego, por analogia, de Súmulas do Supremo Tribunal Federal pelo Superior Tribunal de Justiça.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Teses de julgamento: "1. A ausência de impugnação específica de todos os fundamentos de inadmissibilidade do recurso especial impede o conhecimento do recurso, ante o óbice da Súmula 182 do STJ. 2. É perfeitamente possível o emprego, por analogia, de súmulas do Supremo Tribunal Federal pelo Superior Tribunal de Justiça.
+Dispositivos relevantes citados: CPC, art. 932, III; Código Penal, art. 334-A; Decreto- Lei n. 399/1968, art. 3º.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no AREsp n. 977.386/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de , STJ, AgRg no AREsp n. 1/2/2019 . 2.857.704/MS, Rel. Min. Messod Azulay Neto, Quinta Turma, DJEN de 13/5/2025
+(AgRg no REsp n. 2.210.635/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Como bem observou o Ministério Público Federal em seu parecer, "a agravante não enfrentou nenhum dos fundamentos utilizados pela decisão agravada para inadmitir o recurso especial" (fl. 4.641).
+Ainda que superado tal óbice, o que se admite apenas para argumentar, a pretensão de reforma das condenações por associação ao tráfico e favorecimento real demandaria o reexame do conjunto fático-probatório, pois o Tribunal de origem concluiu, com base nas provas, que "restou demonstrada a participação da ré na organização criminosa, com papel definido na estrutura delitiva" ( fl. 4.361), entendimento que não pode ser revisto em recurso especial (Súmula n. 7, STJ).
+Por fim, quanto ao pedido de concessão de habeas corpus de ofício, verifico não haver ilegalidade flagrante que justifique a medida, uma vez que o acórdão recorrido está fundamentado em provas produzidas em juízo, afastando-se a alegação de condenação baseada exclusivamente em elementos inquisitoriais.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
