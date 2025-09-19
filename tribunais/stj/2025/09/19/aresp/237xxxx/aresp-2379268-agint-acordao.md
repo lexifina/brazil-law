@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, após o voto do relator negando provimento ao agravo interno, e o voto parcialmente divergente da Ministra Maria Isabel Gallotti dando parcial provimento ao agravo interno, por maioria, negar provimento ao agravo interno, nos termos do voto do relator.
+Votou vencida a Sra. Ministra Maria Isabel Gallotti.
+Votaram com o Sr. Ministro JOÃO OTÁVIO DE NORONHA os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. ATRASO NA ENTREGA DE IMÓVEL. DANOS MORAIS E LUCROS CESSANTES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, fundamentando-se na incidência das Súmulas n. 83 e 7 do STJ, em ação indenizatória por atraso na entrega de imóvel.
+2. O Tribunal de origem manteve a sentença de primeira instância que condenou a construtora ao pagamento de danos morais e lucros cessantes, reconhecendo que o atraso na entrega do imóvel causou angústia e ansiedade aos consumidores, configurando dano moral indenizável.
+3. A decisão monocrática destacou que o acórdão do Tribunal estadual está em conformidade com a jurisprudência do STJ, que reconhece o atraso excessivo na entrega de imóvel como causa legítima para indenização por danos morais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o atraso na entrega de imóvel, sem comprovação concreta de abalo psíquico, pode configurar dano moral presumido e se a fixação de lucros cessantes em 0,5% do valor do contrato é automática e adequada.
+III. Razões de decidir
+5. O Tribunal de origem concluiu que o atraso gerou angústia e ansiedade nos consumidores, caracterizando dano moral indenizável, em razão das circunstâncias do caso, em conformidade com a jurisprudência do STJ. Rever a convicção formada pelo tribunal de origem acerca da ocorrência de dano moral demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+6. A decisão monocrática esclareceu que a indenização por lucros cessantes, fixada em 0,5% ao mês sobre o valor do contrato, está amparada na jurisprudência do STJ, sendo considerada razoável e adequada.
+7. A aplicação da Súmula n. 83 do STJ foi correta, uma vez que o acórdão do Tribunal de Justiça da Bahia está em consonância com o entendimento consolidado do STJ.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. O dano moral é caracterizado, com base nas circunstâncias do caso, quando o atraso excessivo na entrega de imóvel gera sentimentos de angústia, apreensão e ansiedade nos consumidores. 2. Rever a convicção formada pelo tribunal de origem acerca da ocorrência de dano moral demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ. 3. A fixação de lucros cessantes em 0,5% do valor do contrato é considerada razoável e adequada em casos de atraso na entrega de imóvel".
+Dispositivos relevantes citados: CPC, art. 1.021, § 4º; STJ, Súmula n. 83, Súmula n. 7.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no AREsp n. 2.427.529/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024; STJ, AgInt no REsp n. 2.106.446/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024.
+RELATÓRIO
+Trata-se de agravo interno interposto por JHSF SALVADOR EMPREENDIMENTOS E INCORPORAÇÕES LTDA. contra a decisão de fls. 2.714-2.719, que negou provimento ao agravo em recurso especial, fundamentando-se na incidência das Súmulas n. 83 e 7 do STJ.
+A parte agravante sustenta que a decisão agravada afastou o conhecimento do recurso especial com base na Súmula n. 83 do STJ, mas a jurisprudência citada não se amolda integralmente à hipótese dos autos, em que diversas peculiaridades fáticas e jurídicas demandam apreciação distinta, especialmente quanto à configuração de dano moral presumido e à fixação automática de lucros cessantes em 0,5% do valor do contrato.
+Afirma que o acórdão recorrido reconheceu dano moral em razão de atraso na entrega de imóvel, sem qualquer comprovação concreta de abalo psíquico ou violação à dignidade da parte autora, mas apenas com base em alegações genéricas de "angústia e apreensão", contrariando a jurisprudência recente do STJ, que tem afastado a presunção de dano moral em casos de inadimplemento contratual, exigindo prova efetiva da ofensa extrapatrimonial.
+Requer a reconsideração da decisão que monocraticamente negou provimento ao recurso especial, ou então que coloque o feito em pauta para julgamento colegiado, ao tempo que espera seja conhecido e provido o presente recurso para afastar as condenações.
+Nas contrarrazões, a parte agravada aduz que a decisão proferida pelo Ministro Relator do Superior Tribunal de Justiça, que negou provimento ao agravo em recurso especial interposto pela recorrente, procedeu de forma estritamente correta, posto que, se o acórdão vergastado está em consonância com a jurisprudência do STJ, não tem como se acolher o recurso especial, incidindo a Súmula n. 83 do STJ, razão pela qual mister se faz o não provimento do presente agravo interno. Requer a manutenção da decisão do Ministro relator da Quarta Turma do Superior Tribunal de Justiça, com a consequente rejeição do recurso especial, e a condenação da agravante ao pagamento da multa prevista no art. 1.021, § 4º, do CPC (fls. 2.732-2.738).
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. ATRASO NA ENTREGA DE IMÓVEL. DANOS MORAIS E LUCROS CESSANTES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, fundamentando-se na incidência das Súmulas n. 83 e 7 do STJ, em ação indenizatória por atraso na entrega de imóvel.
+2. O Tribunal de origem manteve a sentença de primeira instância que condenou a construtora ao pagamento de danos morais e lucros cessantes, reconhecendo que o atraso na entrega do imóvel causou angústia e ansiedade aos consumidores, configurando dano moral indenizável.
+3. A decisão monocrática destacou que o acórdão do Tribunal estadual está em conformidade com a jurisprudência do STJ, que reconhece o atraso excessivo na entrega de imóvel como causa legítima para indenização por danos morais.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o atraso na entrega de imóvel, sem comprovação concreta de abalo psíquico, pode configurar dano moral presumido e se a fixação de lucros cessantes em 0,5% do valor do contrato é automática e adequada.
+III. Razões de decidir
+5. O Tribunal de origem concluiu que o atraso gerou angústia e ansiedade nos consumidores, caracterizando dano moral indenizável, em razão das circunstâncias do caso, em conformidade com a jurisprudência do STJ. Rever a convicção formada pelo tribunal de origem acerca da ocorrência de dano moral demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+6. A decisão monocrática esclareceu que a indenização por lucros cessantes, fixada em 0,5% ao mês sobre o valor do contrato, está amparada na jurisprudência do STJ, sendo considerada razoável e adequada.
+7. A aplicação da Súmula n. 83 do STJ foi correta, uma vez que o acórdão do Tribunal de Justiça da Bahia está em consonância com o entendimento consolidado do STJ.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. O dano moral é caracterizado, com base nas circunstâncias do caso, quando o atraso excessivo na entrega de imóvel gera sentimentos de angústia, apreensão e ansiedade nos consumidores. 2. Rever a convicção formada pelo tribunal de origem acerca da ocorrência de dano moral demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ. 3. A fixação de lucros cessantes em 0,5% do valor do contrato é considerada razoável e adequada em casos de atraso na entrega de imóvel".
+Dispositivos relevantes citados: CPC, art. 1.021, § 4º; STJ, Súmula n. 83, Súmula n. 7.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no AREsp n. 2.427.529/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024; STJ, AgInt no REsp n. 2.106.446/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024.
+VOTO
+O agravo interno não deve prosperar.
+Na origem, trata-se de ação indenizatória movida por Mario José Suzart Falcão e outros contra JHSF Salvador Empreendimentos e Incorporações S.A., devido ao atraso na entrega de um imóvel.
+O Tribunal de origem, ao analisar o recurso de apelação interposto pela construtora, manteve a sentença de primeira instância que condenou a construtora ao pagamento de danos morais e lucros cessantes.
+No caso, o Tribunal a quo reconheceu que foi constatado que a construtora não conseguiu justificar o atraso na entrega do imóvel muito além do prazo de tolerância, em razão de caso fortuito e força maior.
+Ademais, a instância de origem reconheceu que o atraso na entrega do imóvel causou angústia, apreensão e ansiedade aos consumidores, configurando verdadeiro dano moral indenizável.
+Registre-se ainda que o Tribunal estadual considerou cabível a reparação dos lucros cessantes, pois os consumidores deixaram de auferir valores em decorrência da mora na entrega do imóvel e o entendimento do Superior Tribunal de Justiça foi utilizado como base para a decisão, porquanto o prejuízo do comprador em casos de atraso na entrega de unidades imobiliárias é presumível. Assim, o valor dos lucros cessantes foi fixado em 0,5% sobre o valor do contrato por mês de atraso.
+No que se refere à configuração do dano moral, a decisão monocrática (fl. 2.717) destacou que o acórdão do Tribunal estadual está em conformidade com a jurisprudência consolidada do STJ, que reconhece o atraso excessivo na entrega de imóvel como causa legítima para indenização por danos morais.
+Conforme registrado na decisão monocrática (fl. 2.716), o Tribunal de origem, ao analisar o caso concreto, concluiu que o atraso gerou angústia, apreensão e ansiedade nos consumidores, caracterizando dano moral indenizável.
+A decisão também citou precedentes recentes desta Corte (fls. 2.717-2.718), reforçando que esse entendimento está alinhado com a jurisprudência do STJ, que considera que o atraso excessivo extrapola o mero inadimplemento contratual.
+A propósito, cito os seguintes julgados: AgInt nos EDcl no AREsp n. 2.427.529/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024 e AgInt no REsp n. 2.106.446/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.
+Assim, a alegação da agravante de que não houve comprovação concreta de abalo psíquico não se sustenta, pois o próprio atraso, com seus efeitos emocionais, é suficiente para configurar o dano moral, conforme reconhecido pela instância de origem.
+Quanto aos lucros cessantes, a decisão monocrática (fl. 2.716) esclareceu que o Tribunal estadual entendeu ser devida a indenização, com base na presunção de prejuízo do comprador em razão da mora na entrega do imóvel, entendimento já pacificado no STJ.
+Aliás, a decisão também confirmou (fl. 2718) que a fixação da indenização em 0,5% ao mês sobre o valor do contrato está amparada na jurisprudência desta Corte, sendo esse percentual considerado razoável e adequado em casos semelhantes (fls. 2.718-2.719).
+Nesse contexto, rever o entendimento da Corte de origem quanto ao abalo psíquico causado pelo atraso excessivo na entrega do imóvel encontra óbice na Súmula n. 7 do STJ.
+Registre-se os seguintes julgados: AgInt no AREsp n. 2.525.987/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024 e AgInt no AREsp n. 2.592.602/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/8/2024, DJe de 30/8/2024.
+Portanto, a aplicação da Súmula n. 83 do STJ foi correta, uma vez que o acórdão do Tribunal de Justiça da Bahia está em plena consonância com o entendimento consolidado desta Corte, tanto no que diz respeito à caracterização do dano moral quanto à presunção e ao percentual dos lucros cessantes.
+A parte agravante não apresentou argumentos novos ou relevantes que pudessem alterar o entendimento já firmado, limitando-se a repetir fundamentos já analisados e rejeitados na decisão monocrática, devidamente fundamentada na jurisprudência pacífica do STJ.
+Ante o exposto , nego provimento ao agravo interno.
+É o voto.
+EMENTA
+VOTO VENCIDO
+A SRA. MINISTRA ISABEL GALLOTTI: Com a devida vênia do eminente Relator, entendo que o atraso na entrega de imóvel em prazo inferior a um ano, em regra, por si só, não gera danos morais. O atraso dá direito ao prejudicado de receber a compensação pelo período em que ficou privado de usar ou de usufruir do imóvel durante o período da demora, mas não indenização por dano moral, a qual deve ser deferida apenas nos casos em que esteja demonstrado que o atraso na entrega do bem causou alguma lesão outra que não se confunda com o atraso no retorno do investimento. Quanto maior o atraso, maior será a indenização por lucros cessantes, porque maior será o prejuízo material.
+Mas para o deferimento de dano moral, é necessário, além do atraso gerador de lucros cessantes proporcionais ao tempo de atraso, que haja algum dano anormal à personalidade que não seja recomposto com essa taxa de fruição.
+No caso, para justificar o deferimento de danos morais, o acórdão recorrido deu a seguinte fundamentação genérica:
+"A construtora apelante não logrou êxito em justificar o atraso na entrega do imóvel, além do prazo de tolerância. Desse modo, configurando-se a ilegalidade na conduta da construtora recorrente, a parte prejudicada terá direito à indenização, posto que tal ação fere sua esfera íntima.
+A aquisição de um imóvel envolve planejamento e sacrifício, tratando-se de negócio permeado por forte carga emocional. Com efeito, a angústia, a apreensão e a ansiedade, decorrentes do inadimplemento da construtora que não cumpriu os prazos fixados no contrato e atrasou, por meses, a conclusão da obra, configuram verdadeiro dano moral indenizável."
+Penso que esses fundamentos não revelam nenhuma circunstância diferente de todos os atrasos em entrega de imóvel, que pudesse caracterizar dano à esfera da personalidade da autora. Trata-se de fundação genérica, padronizada, que caberia em qualquer processo análogo.
+Portanto, com a devida vênia ao eminente Relator e aos Colegas que o acompanham, entendo, em primeiro lugar, que não incide o óbice da Súmula n. 7, porque basta a leitura do acórdão para se considerar que não houve circunstância caracterizadora de dano moral, vale dizer, dano que não fosse composto com a indenização por lucros cessantes.
+Penso que o ônus em demonstrar esse dano deve ser da parte autora e que as instâncias ordinárias têm o dever de especificar, em cada caso concreto, qual foi o dano psíquico - distinto do dano material e do aborrecimento inerente à qualquer dano patrimonial - não compensado pela taxa de fruição, decorrente de ter sido privado da disponibilidade do imóvel na data aprazada.
+Com a devida vênia do eminente Relator, dou provimento ao agravo interno para, de logo, dar provimento ao recurso especial para excluir os danos morais.
