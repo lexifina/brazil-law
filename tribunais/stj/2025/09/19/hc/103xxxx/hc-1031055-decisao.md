@@ -1,0 +1,18 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de BERNARDO ARAUJO FERREIRA - condenado por tráfico de drogas (183 g de maconha e 13 g de cocaína), associação para o tráfico e posse ilegal de munições a 9 anos de reclusão e 1.210 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio Grande do Norte (fls. 23/30), não comporta processamento.
+Com efeito, a impetração pretende a nulidade das buscas pessoal e domiciliar e a absolvição pelo crime de associação para o tráfico - na condenação proferida na Ação Penal n. 0803833-05.2024.8.20.5600 (fls. 125/144, da Vara Única da comarca de Monte Alegre/RN) -, sob os seguintes argumentos:
+a) a busca pessoal foi realizada sem fundada suspeita, sustentando que os depoimentos dos policiais militares são contraditórios e refutados por imagens de câmeras de segurança (fls. 10/11);
+b) a busca domiciliar foi realizada sem justa causa, aduzindo que fundada apenas em denúncia anônima, sem prévia investigação ou diligências que justificassem o ingresso no domicílio (fls. 12/13); e
+c) ausência de provas concretas de vínculo estável e permanente entre o paciente e outros agentes, o que afastaria a configuração do crime de associação para o tráfico (fls. 20/21).
+Sem pedido liminar.
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois:
+a) a pretensão de nulidade da busca pessoal foi corretamente afastada pelo Tribunal local, que considerou que a abordagem foi justificada por fundada suspeita, com base em investigação policial após denúncias anônimas (fl. 25):
+ ..  encontraram os acusados saindo da residência e visualizaram BERNARDO repassando para JORGE INÁCIO um conteúdo, ensejando a busca pessoal, diante da fundada suspeita, e, ato contínuo, ante a apreensão de entorpecentes com JORGE INÁCIO e da informação deste de que teria recebido a droga de BERNARDO  ..
+b) evidenciada a justa causa para a busca domiciliar, com fundamento na existência de elementos concretos que caracterizaram o flagrante delito, uma vez que a medida não decorreu de mera denúncia anônima, mas de investigação policial que envolveu situação de flagrância, tendo sido o paciente abordado no momento em que saía da casa, na posse de entorpecentes (fl. 25):
+ ..  ante a apreensão de entorpecentes com JORGE INÁCIO e da informação deste de que teria recebido a droga de BERNARDO, em atividade típica de traficância, os policiais ingressaram na residência, onde encontraram os diversos apetrechos usualmente empregados no comércio ilícito de drogas, além dos entorpecentes e das munições  ..
+c) rever a conclusão das instâncias ordinárias acerca do ânimo associativo para configuração da associação para o tráfico, com indicação de provas da estabilidade e permanência, tanto no interrogatório do paciente - prática de narcotraficância há 3 meses, em comunhão de desígnios com outro indivíduo não identificado (fl. 28) - quanto em inquirição de testemunha (fl. 29), demandaria reexame probatório, inviável na via eleita.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE MUNIÇÕES. ABSOLVIÇÃO E NULIDADE. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
