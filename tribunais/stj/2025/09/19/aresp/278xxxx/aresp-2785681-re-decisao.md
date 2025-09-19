@@ -1,0 +1,47 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 565):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. FALTA DE COTEJO ANALÍTICO. DISPOSITIVOS LEGAIS NÃO INDICADOS. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e dar-lhe parcial provimento, excluindo a indenização fixada a título de danos morais e materiais.
+2. O recurso especial não foi conhecido por falta de cotejo analítico entre os julgados, conforme exigido pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, e pela ausência de indicação dos dispositivos legais violados, conforme Súmula n. 284 do STF.
+3. O agravo regimental reiterou argumentos já analisados na decisão agravada, sem apresentar fundamento novo apto a alterar a decisão.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental pode alterar a decisão que não conheceu do recurso especial por falta de cotejo analítico e ausência de indicação dos dispositivos legais violados.
+III. Razões de decidir
+5. O agravo regimental não apresentou novos fundamentos que pudessem alterar a decisão anterior, que já havia analisado a falta de cotejo analítico e a ausência de indicação dos dispositivos legais violados.
+6. A jurisprudência do STJ exige a indicação de valor mínimo para fixação de indenização a título de danos materiais e morais, o que não ocorreu no caso dos autos.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 588-600).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, pois o órgão julgador no âmbito do STJ não conheceu de parte da matéria invocada nas razões de recurso especial, sem apresentar fundamentação para tanto.
+Descreve que não foi examinada pelo órgão julgador a ausência de conduta ilícita, uma vez que a parte recorrente agiu sob coação ao dirigir o veículo.
+Salienta que houve omissão quanto à individualização de suas condutas que seriam aptas a atrair a incidência da teoria da amotio ou aprehensio.
+Sublinha que demonstrou o dissídio jurisprudencial, que o acórdão proferido pelo Tribunal de origem divergiu da posição majoritária na jurisprudência do STJ quanto a aplicação da teoria da amotio ou aprehensio.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+As contrarrazões foram apresentadas às fls. 621-635.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 568-573):
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos:
+"Desde logo, verifica-se ser inviável o conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, uma vez que a defesa do recorrente não procedeu ao necessário confronto analítico entre os julgados, com a devida demonstração da similitude fática entre eles e da aplicação de distinta solução jurídica, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Com efeito, não se considera comprovado o dissídio jurisprudencial com mera transcrição de ementa ou trecho esparso do acórdão paradigma, que não permite a constatação da alegada semelhança entre os julgados. Nesse sentido, citam-se precedentes:
+(..)
+Na hipótese, não foi feito o cotejo entre o acórdão objurgado e o paradigma acerca das questões envolvendo a teoria da Amotio ou Aprehensio, deixando a recorrente de evidenciar a identidade fática dos casos analisados nos julgados confrontados e a solução jurídica divergente dada pelas Cortes Regionais. Além disso, a peça recursal também não pode ser conhecida em razão da falta de indicação dos correspondentes dispositivos legais objeto da tese de não apreciação de questões essenciais. Com efeito, quanto à alegada omissão, a recorrente alega ocorrência de "vício de negativa de prestação jurisdicional", mas não aponta o dispositivo legal violado. Assim, a defesa não se desincumbiu de apontar, a contento, os dispositivos de lei federal que supostamente teriam sido contrariados pelo acórdão recorrido, sendo certo que o art. 619 do CPP não tem comando normativo suficiente para amparar a tese recursal, a respeito da qual seria imprescindível, ainda, a indicação do artigo que fundamentasse a excludente de culpabilidade diante da alegada coação. Nesse sentido: (..)
+O mesmo se diga quanto pleito de abolitio criminis pela aplicação da Lei n. 13.654/22018. O recorrente não indica qual artigo de lei teria sido violado, nem mesmo qual artigo da referida lei deveria ter incidido no caso. De qualquer modo, conforme consta do acórdão recorrido, " n o tocante ao peito subsidiário de aplicação da Lei 13.654/2018 c/c súmula 443 STJ, sob o fundamento de que houve revogação do disposto no art. 157, §2º, I, do Código Penal, como bem salientou o membro do Ministério Público, "Trata-se, com efeito, de norma penal mais benéfica, que retroagiu para atingir todos os roubos praticados, mediante uso de arma branca, antes da referida lei, em conformidade com o disposto no art. 5º, XL, da Constituição Federal, assim redigido (..). Todavia, quanto à arma de fogo, não houve em momento algum abolitio criminis, mas sim continuidade normativo-típica, considerando que a majorante do emprego de arma de fogo foi apenas realocada do §2º para o §2º-A, cuja fração de aumento de pena é maior (2/3) que aquele. Logo, não há que se falar em aplicação da Lei nº 13.654/2018, porque, no caso da apelante, essa lei é mais gravosa, já que o crime foi praticado com emprego de arma de fogo e não de arma branca."" (fl. 427). Esse é o entendimento do STJ: (..)
+Portanto, o entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte Superior, o que faz com que a pretensão recu rsal esbarre na Súmula n. 83 do STJ.
+(..)
+Assim, se verifica que, no presente caso, o recurso especial não foi conhecido por falta de cotejo analítico entre os julgados, conforme exigido pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Além disso, a defesa não indicou os dispositivos legais violados, o que impede o conhecimento do recurso, conforme Súmula n. 284 do STF. Com efeito, a defesa não indicou qual artigo da lei n. 13.654/2018 teria sido violado, nem qual artigo deveria ter incidido no caso. A decisão destacou que a majorante do emprego de arma de fogo foi apenas realocada, não havendo abolitio criminis. Não obstante, o agravo foi conhecido, e o recurso especial foi parcialmente provido para excluir a indenização por danos morais e materiais por falta de indicação de valor mínimo na denúncia, conforme jurisprudência do STJ.
+Ademais, no presente caso, se verifica que o agravo regimental é mera reiteração de argumentos já analisados na decisão agravada, sem qualquer fundamento novo apto a alterar a decisão do agravo em Recurso Especial.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
