@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALISSON LUIZ BARBOSA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS.
+Na peça, a defesa informa que o paciente foi preso preventivamente em 24/08/2023, no contexto de investigação que apura os crimes de associação criminosa, roubo majorado, extorsão qualificada e receptação.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 22-39.
+No presente writ, alega a defesa que a prisão preventiva foi mantida sem fundamentação concreta e contemporânea, baseando-se exclusivamente na gravidade abstrata do delito e na complexidade do feito, contrariando os princípios constitucionais e legais que regem a liberdade individual.
+Sustenta que há excesso de prazo na formação da culpa, uma vez que o paciente está preso há quase dois anos, sem que tenha sido encerrada a fase de instrução processual, e que a demora decorre de ineficiências atribuíveis ao próprio Estado, não podendo ser imputada à defesa.
+Afirma que a decisão que manteve a prisão preventiva carece de fundamentação idônea, limitando-se a reproduzir argumentos genéricos e a gravidade abstrata do delito, sem demonstrar concretamente a necessidade da medida extrema, em afronta ao art. 93, IX, da Constituição Federal e aos arts. 312 e 315 do Código de Processo Penal.
+A defesa destaca que o paciente é primário, possui bons antecedentes, residência fixa e trabalho lícito, condições pessoais favoráveis que deveriam ser consideradas na análise da necessidade da prisão preventiva.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a sua revogação com a aplicação de medidas cautelares alternativas.
+Pedido de sustentação oral à fl. 21.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não estão suficientemente instruídos. D essa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há, sequer, cópia do inteiro teor da decisão que decretou a prisão preventiva .
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE EXAME. RECURSO NÃO PROVIDO. 1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante. 2. De acordo com a orientação jurisprudencial emanada por esta Corte, "não se coaduna com o remédio heroico o propósito de "busca" de informações a respeito da situação do réu, quando não fornecidos sequer elementos mínimos que possam demonstrar a plausibilidade das razões suscitadas. " (AgRg no HC 289.502/MA, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 01/04/2014, DJe de 07/04/2014). 3. Agravo regimental não provido. (AgRg no HC n. 783.393/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 10/4/2024.)
+Ante o exposto, com fulcro no art . 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
