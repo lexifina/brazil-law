@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão proferida pelo Tribunal de Justiça do referido Estado, que inadmitiu o Recurso Especial manejado contra acórdão da Primeira Câm ara Criminal do mesmo Tribunal, que, à unanimidade, deu provimento ao Recurso em Sentido Estrito defensivo, para o fim de despronunciar o réu, acusado da prática de crime de homicídio qualificado previsto no art. 121, § 2º, incisos I e IV, do Código Penal.
+Inicialmente, o Juízo da 1ª Vara Criminal da Comarca de Rio Grande/RS, em sentença datada de 28 de fevereiro de 2020, pronunciou o réu para ser submetido a julgamento perante o Tribunal do Júri, reconhecendo a presença dos requisitos necessários para tal decisão - indícios suficientes de autoria e materialidade do delito.
+Contra essa decisão, a defesa interpôs Recurso em Sentido Estrito, sustentando a ausência de elementos suficientes para a pronúncia do acusado. A Primeira Câmara Criminal do Tribunal de Justiça gaúcho acolheu a tese defensiva, despronunciando o réu.
+Irresignado, o Ministério Público interpôs Recurso Especial, defendendo, em síntese, a existência de elementos suficientes para a pronúncia, enfatizando o princípio do "in dubio pro societate".
+A Segunda Vice-Presidência do TJRS negou seguimento ao Recurso Especial, por considerar que a decisão recorrida estaria em consonância com a Súmula 83 do STJ e por entender que sua apreciação demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7 da mesma Corte.
+Contra essa inadmissão, foi interposto o presente Agravo em Recurso Especial pelo Ministério Público Estadual, reiterando suas teses anteriores e pleiteando o provimento do Recurso Especial para que seja restabelecida a decisão de pronúncia, sob a alegação de que houve negativa de vigência ao art. 121, § 2º, incisos I e IV, do Código Penal, além de violação a dispositivos processuais penais relativos à fase de pronúncia (arts. 413, 414, 422 e 473 do CPP).
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do agravo e, no mérito, pelo provimento do Recurso Especial.
+É o relatório. DECIDO.
+Trata-se de agravo interposto pelo MPRS contra decisão que negou seguimento ao recurso especial manejado contra acórdão que, acolhendo recurso em sentido estrito da defesa, impronunciou o réu Pablo Rithiele Horner da Rosa.
+O agravo preenche os requisitos de admissibilidade, portanto, passo à análise das teses do recurso especial.
+Em análise detida dos autos, verifica-se que o Tribunal de Justiça do Rio Grande do Sul impronunciou o acusado ao fundamento de insuficiência probatória, assentando que a sentença de pronúncia teria se baseado exclusivamente em elementos inquisitoriais e testemunhos indiretos, não corroborados suficientemente em Juízo.
+O testemunho ocular prestado por Allan Rodrigues Pinto foi colhido apenas na fase inquisitorial, e há depoimentos da mãe da vítima e do policial civil Roger da Rosa Micol de "ouvir dizer".
+A jurisprudência do Superior Tribunal de Justiça se firmou em sentido contrário ao quanto alega a parte recorrente sobre a suficiência do "ouvir dizer" para embasar a pronúncia:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. NOTÍCIA DE DESPRONÚNCIA NA ORIGEM. ALTERAÇÃO DO TÍTULO RECORRIDO. HABEAS CORPUS PREJUDICADO.
+Concedida a ordem de ofício para anular o processo, vez que o réu foi pronunciado tendo como suporte o testemunho de "ouvir dizer" ou hearsay testimony, que segundo posicionamento firme desta Corte, não é suficiente para fundamentar a pronúncia, não podendo esta, também, encontrar-se baseada exclusivamente em elementos colhidos durante o inquérito policial.
+Diante da informação de que o juízo de primeiro grau despronunciou o requerente entendendo, desta vez, que não havia elementos suficientes para submetê-lo a julgamento pelo Tribunal do Júri, o presente habeas corpus está prejudicado por absoluta perda de objeto, dada a alteração do título recorrido e, portanto, da situação de fato e de direito.
+(AgRg no HC n. 786.993/CE, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2025, DJEN de 7/7/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRONÚNCIA. INDÍCIOS DE AUTORIA FUNDADOS EXCLUSIVAMENTE EM DEPOIMENTOS DE POLICIAIS. INSUFICIÊNCIA. DESPRONÚNCIA. REAFIRMAÇÃO DO ENTENDIMENTO DO STJ SOBRE STANDARD PROBATÓRIO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que, em habeas corpus, despronunciou o recorrente José Carlos Borges, inicialmente pronunciado pela prática do crime de homicídio qualificado (art.
+121, § 2º, IV, do Código Penal), em virtude da insuficiência de indícios de autoria baseados exclusivamente em depoimentos de policiais. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em avaliar se os depoimentos prestados por policiais, que atuaram diretamente na investigação, são suficientes para fundamentar a decisão de pronúncia, à luz do standard probatório exigido pelo artigo 413 do Código de Processo Penal. III. RAZÕES DE DECIDIR
+3. A pronúncia exige prova da materialidade e indícios suficientes de autoria ou participação, sendo vedado seu fundamento exclusivo em testemunhos indiretos ou de "ouvir dizer" colhidos de agentes policiais que participaram da investigação.
+4. O Superior Tribunal de Justiça reafirma que o standard probatório para pronúncia deve ser superior ao exigido para o recebimento da denúncia, não admitindo o in dubio pro societate nessa fase processual.
+5. Depoimentos de policiais que investigaram o caso são considerados elementos de prova frágeis, especialmente quando contaminados pela natural tentativa de justificar a investigação e sem a confirmação das declarações por outras testemunhas ou pelo próprio acusado em Juízo.
+6. Na ausência de outros elementos probatórios ou testemunhos diretos submetidos ao contraditório judicial, não se verifica a preponderância de provas exigida para a pronúncia, conforme jurisprudência consolidada do STJ. IV. DISPOSITIVO
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.584.325/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/6/2025, DJEN de 3/7/2025.)
+Destaco que esta Corte vem afastando a aplicação do princípio in dubio pro societate nessa fase processual, necessária a existência de um standard probatório mínimo para a decisão de pronúncia.
+A decisão do Tribunal Estadual que impronunciou o acusado encontra amparo na jurisprudência consolidada deste Superior Tribunal de Justiça.
+Chegar em conclusão diversa a que alcançou o Tribunal de origem envolveria a necessidade de revolvimento de fatos e provas, o que é vedado conforme o enunciado da Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
