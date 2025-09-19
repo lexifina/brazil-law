@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BENEDITO DE ASSUNCAO FREIRE RODRIGUES e outros contra decisão que não conheceu do recurso especial, pela incidência das Súmulas ns. 7 e 83 do STJ, e em razão da inocorrência de afronta ao art. 1.022 do CPC/2015.
+Nos declaratórios, a parte embargante alega haver omissões na decisão, quais sejam: (a) "à circunstância de que a presente execução individual de título coletivo, dependente que era do fornecimento das fichas financeiras por parte do IBGE, subsume-se ao Tema n. 880 dos recursos repetitivos, em que o STJ, após modulação de efeitos", estabeleceu que o prazo prescricional de cinco anos para propositura da execução ou cumprimento de sentença, em casos como dos autos, conta-se a partir de 30/06/2017. Assim, a execução proposta em 12/02/2020 não estaria prescrita; e, (b) a ausência de análise sobre o argumento de que, mesmo que houvesse prescrição, esta não poderia ser proclamada, pois a Administração, em parecer formal, indicou que a pretensão só estaria prescrita após 12/02/2020, o que deveria ser analisado sob a ótica da teoria dos atos próprios, boa-fé objetiva e confiança legítima.
+Sem impugnação (fl. 1.512).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada foi clara ao decidir o recurso especial, não o conhecendo ante a ausência de afronta ao art. 1.022 do CPC/2015, e em razão da incidência da Súmula n. 7/STJ, quanto à ocorrência de prescrição no caso concreto, e da Súmula n. 83/STJ, em relação à suposta renúncia tácita da prescrição pela Administração, seja pelo óbice expresso na Tese repetitiva n. 1.109/STJ, seja pela jurisprudência específica em matéria afeta à prescrição da pretensão executiva.
+Apenas para fins de evitar a postergação de recursos manifestamente protelatórios, anote-se que, no que se refere à alegação quanto à incidência do Tema n. 880/STJ, após modulação de efeitos, ao caso dos autos, não há falar em omissão, porquanto evidentemente inovada, neste momento, tal pretensão, que, sabidamente, é vedado.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
