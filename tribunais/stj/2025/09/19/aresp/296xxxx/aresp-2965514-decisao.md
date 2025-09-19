@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIEGO PASQUALOTTO contra decisão da Vice-Presidência do TRIBUNAL DE JUSTIÇA DE SANTA CATARINA que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal.
+O agravante foi pronunciado pelo Juízo da 1ª Vara Criminal da Comarca de Capinzal/SC pela suposta prática de tentativa de homicídio qualificado em três oportunidades distintas, nos termos do art. 121, § 2º, c/c art. 14, II, do Código Penal.
+Interposto recurso em sentido estrito, a 4ª Câmara Criminal do TJSC manteve integralmente a decisão de pronúncia (fls. 114-134).
+No recurso especial inadmitido (fls. 141-149), o agravante sustentou violação aos arts. 14, II; 15; 20, § 1º, do Código Penal e aos arts. 415 e 419 do Código de Processo Penal, argumentando, em síntese: (i) quanto ao primeiro fato, ausência de animus necandi (intenção de matar), configurando desistência voluntária; (ii) quanto ao segundo fato, legítima defesa putativa; (iii) quanto ao terceiro fato, inexistência de início de execução do crime.
+A decisão agravada inadmitiu o recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ, consignando que a pretensão recursal demandaria reexame do conjunto fático-probatório e que o acórdão recorrido está em consonância com a jurisprudência desta Corte (fls. 166-167).
+No presente agravo (fls. 174-181), o recorrente busca afastar os óbices apontados, alegando que não pretende o reexame de provas, mas sim a revaloração jurídica de fatos incontroversos constantes do acórdão recorrido.
+Sustenta ainda que a Súmula n. 83, STJ não se aplicaria ao caso, pois a decisão de pronúncia exigiria padrão probatório intermediário, superior à mera fumaça da prática do delito.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 217-225).
+É o relatório. DECIDO.
+O agravo não merece prosperar.
+Inicialmente, verifico que o agravante impugnou especificamente todos os fundamentos da decisão agravada, afastando a incidência da Súmula n. 182, STJ.
+Passo, portanto, ao exame dos óbices apontados pela Presidência do Tribunal de origem.
+No que tange à aplicação da Súmula n. 7, STJ, razão assiste à decisão agravada.
+Com efeito, as teses defensiva s articuladas no recurso especial - desistência voluntária, legítima defesa putativa e inexistência de início de execução - demandam necessariamente o revolvimento do contexto fático-probatório dos autos.
+O Tribunal de origem, ao manter a pronúncia, assentou que há indícios suficientes de autoria e materialidade delitiva, sendo as questões suscitadas pela defesa matéria a ser dirimida pelo Tribunal do Júri.
+Alterar tal entendimento para acolher as teses defensivas exigiria nova análise dos elementos probatórios colhidos, providência vedada em sede de recurso especial.
+A jurisprudência desta Corte é firme no sentido de que a decisão de pronúncia constitui mero juízo de admissibilidade da acusação, exigindo-se apenas indícios suficientes de autoria e prova da materialidade do crime, nos termos do art. 413 do CPP.
+As dúvidas sobre o elemento subjetivo do tipo, a configuração de excludentes de ilicitude ou mesmo sobre a própria consumação delitiva devem ser resolvidas pelo Conselho de Sentença, juiz natural da causa.
+Nesse sentido, colho da jurisprudência recente desta Quinta Turma:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. CÁRCERE PRIVADO. SUPOSTA VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DECOTE DE QUALIFICADORA. ASSEGURAR A OCULTAÇÃO DE OUTRO CRIME. ENTENDIMENTO DE QUE SOMENTE QUALIFICADORAS MANIFESTAMENTE IMPROCEDENTES PODEM SER AFASTADAS NA FASE DA PRONÚNCIA. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO PROBATÓRIO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. RECURSO NÃO PROVIDO.
+1. A questão relativa à ausência de correlação entre a denúncia e a pronúncia não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento, nos moldes da Súmula 211/STJ.
+2. O Tribunal a quo a partir da análise do acervo fático probatório dos autos concluiu que não se mostra manifestamente improcedente a qualificadora do homicídio para assegurar a ocultação de outro crime, sendo inviável o seu decote da pronúncia. Assim sendo, a revisão do julgado, no ponto, encontra óbice na Súmula 7/STJ.
+3. A exclusão de qualificadora constante na pronúncia somente pode ocorrer quando manifestamente improcedente, sob pena de usurpação da competência do tribunal do júri, juiz natural para julgar os crimes dolosos contra a vida.
+4. Não foi comprovada a divergência jurisprudencial, pois não podem ser apontados como paradigmas acórdãos proferidos em sede de habeas corpus, mandado de segurança, recurso ordinário, conflito de competência ou ação rescisória, por não apresentarem o mesmo grau de cognição do recurso especial. Além disso, a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o(s) paradigma(s) indicado(s), não bastando, portanto, a mera transcrição de ementas ou votos.
+5. Agravo regimental não provido (AgRg no AREsp n. 2.450.023/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+Ademais, a Sexta Turma deste Superior Tribunal recentemente estabeleceu que "a imputação de dolo, essencial para levar o réu ao tribunal do júri, não pode ser baseada em meras presunções" (HC 891.584, Rel. Min. Sebastião Reis Júnior, j. 17/01/2025).
+Tal orientação reforça a necessidade de indícios concretos para a pronúncia, padrão que, conforme se extrai do acórdão recorrido, foi devidamente observado no caso concreto, havendo relatos de vítimas e testemunhas que sustentam a decisão de submeter o agravante ao Tribunal do Júri.
+Quanto ao segundo fato especificamente, o resultado gravíssimo produzido - perda de um olho da vítima - constitui elemento objetivo que, por si só, justifica a manutenção da pronúncia com as qualificadoras imputadas, cabendo ao Conselho de Sentença avaliar a eventual configuração de legítima defesa putativa alegada pela defesa.
+No tocante à Súmula n. 83, STJ, igualmente não merece reforma a decisão agravada.
+O entendimento adotado pelo Tribunal de origem está em perfeita sintonia com a jurisprudência consolidada desta Corte, segundo a qual a fase de pronúncia não comporta análise aprofundada das teses defensivas, devendo estas ser submetidas ao Tribunal do Júri quando não evidentemente demonstradas.
+Como bem destacou o parecer ministerial, as qualificadoras não são manifestamente improcedentes, razão pela qual devem ser mantidas para apreciação pelo júri popular.
+A pretensão do agravante de obter a impronúncia com fundamento no art. 414 do CPP encontra óbice intransponível na necessidade de reexame do conjunto fático-probatório.
+Os elementos constantes dos autos, conforme delineado pelo acórdão recorrido, indicam a presença de indícios suficientes de autoria e materialidade delitiva, não se vislumbrando a ausência absoluta de lastro probatório que autorizaria a impronúncia.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO NA FORMA TENTADA. PRONÚNCIA. REVALORAÇÃO DE PROVAS. INDÍCIOS DE AUTORIA. VÍTIMA. FALECIMENTO.
+1. A mera revaloração dos fatos delineados no acórdão, por não se confundir com o vedado reexame de provas, não esbarra no óbice imposto pela Súmula n. 7 desta Corte.
+2. No procedimento de competência do Tribunal do Júri, a pronúncia encerra o juízo de admissibilidade da inicial acusatória, dispondo o art. 413 do Código de Processo Penal que o juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação.
+3. No caso, verifica-se a presença de indícios de autoria, notadamente em razão da prova testemunhal produzida em juízo, consubstanciada no depoimento prestado por policial que afirmou ter ouvido da vítima, que se encontrava hospitalizada e faleceu logo após, quem seriam os autores da tentativa de homicídio.
+4. Agravo regimental desprovido (AgRg no AREsp n. 2.373.963/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.)
+Por fim, registro que esta Corte vem adotando entendimento mais rigoroso quanto ao padrão probatório exigido para a pronúncia, afastando o uso indiscriminado do princípio in dubio pro societate para suprir deficiências probatórias.
+Contudo, no caso em análise, o acórdão recorrido deixa claro que há elementos probatórios concretos - depoimentos de vítimas e testemunhas - que sustentam a decisão de pronúncia, não se tratando de mera presunção ou suposição.
+Ante o exposto, nego provimento ao agravo em recurso especial, mantendo a decisão que inadmitiu o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
