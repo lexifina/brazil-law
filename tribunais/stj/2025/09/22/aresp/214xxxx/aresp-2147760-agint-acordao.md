@@ -1,0 +1,131 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. AÇÃO MONITÓRIA. REQUISITOS NÃO PREENCHIDOS. VALOR. CONFISSÃO. ACOLHIMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. RECURSO COM CARÁTER MANIFESTAMENTE PROTELATÓRIO. ART. 1.026, § 2º, DO CPC. MULTA. CABIMENTO.
+1. Na hipótese, a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo tribunal de origem, apresentando fundamentação deficiente, a atrair, por analogia, a Súmula nº 284/STF.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. Encontrando-se a s razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284/STF.
+4. A revisão do entendimento firmado pelas instâncias ordinárias, a partir das teses de que não foram preenchidos os requisitos da ação monitória e de que não houve confissão em relação a valor nenhum, demandaria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+5. Evidenciado o caráter manifestamente protelatório, ante a alegação de questões já apreciadas, impõe-se a aplicação da multa prevista no § 2º do art. 1.026 do Código de Processo Civil.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por MGCF ENGENHARIA LTDA. contra a decisão proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial devido à ausência de impugnação dos fundamentos da decisão agravada (e-STJ fls. 1475/1478).
+Nas presentes razões, a agravante alega que o agravo em recurso especial deve ser conhecido porque impugnou especificamente a Súmula nº 7/STJ.
+Impugnação às e-STJ fls. 1543/1572.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. AÇÃO MONITÓRIA. REQUISITOS NÃO PREENCHIDOS. VALOR. CONFISSÃO. ACOLHIMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. RECURSO COM CARÁTER MANIFESTAMENTE PROTELATÓRIO. ART. 1.026, § 2º, DO CPC. MULTA. CABIMENTO.
+1. Na hipótese, a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo tribunal de origem, apresentando fundamentação deficiente, a atrair, por analogia, a Súmula nº 284/STF.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. Encontrando-se a s razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284/STF.
+4. A revisão do entendimento firmado pelas instâncias ordinárias, a partir das teses de que não foram preenchidos os requisitos da ação monitória e de que não houve confissão em relação a valor nenhum, demandaria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+5. Evidenciado o caráter manifestamente protelatório, ante a alegação de questões já apreciadas, impõe-se a aplicação da multa prevista no § 2º do art. 1.026 do Código de Processo Civil.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+VOTO
+O agravo interno merece prosperar.
+Em virtude dos argumentos da parte agravante, reconsidera-se a decisão de e-STJ fls. 1475/1478 e passa-se a julgar o agravo em recurso especial.
+Trata-se de agravo interposto contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no art. 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Processual. Monitória. Prestação de serviços advocatícios. Cobrança de honorários contratuais. Embargos ao mandado parciais, com impugnação de apenas parte do objeto da demanda. Formação desde logo, de pleno direito, de título executivo judicial quanto à parcela não impugnada, nos termos do art. 701, § 2º, do CPC. Sentença dos embargos que, entendendo insuficiente a prova documental e inadequado o processo monitório no caso concreto, extinguiu-o como um todo. Inadmissibilidade. Parcela não impugnada que sequer era objeto dos embargos e em relação à qual, como dito, já formado anteriormente título executivo judicial, independentemente de qualquer formalidade. Decisão, nessa parte, ultra petita. Cassação de ofício. Sentença parcialmente anulada.
+Monitória. Crédito por honorários advocatícios. Diversos contratos genéricos, firmados ao longo dos anos, apenas indicando valores-base a serem cobrados pela atuação das sociedades de advogados integrantes do grupo em demandas ali não discriminadas. Autora que, tampouco, esclareceu adequadamente na causa de pedir a composição do débito e como chegou ao valor final pleiteado. Processo viciado, pois, desde a causa de pedir. Prova documental igualmente insuficiente. Autora que sequer apresentou faturas de prestação de serviços, mas relações unilaterais de processos e planilhas com faturas supostamente em aberto, sem qualquer esclarecimento quanto aos valores a elas associados. Apresentação, também, de dois instrumentos de confissão de dívida não assinados pela devedora. Falta de interesse de agir para a ação monitória efetivamente caracterizada. Hipótese que era de acolhimento dos embargos e extinção do processo monitório nessa parte, sem lugar para a concessão à parte autora de oportunidade para regularização ou pedido de conversão processual. Cenário que não se confunde com o do art. 700, § 5º, do CPC, que trata da correção por inadequação logo ao início do processo monitório. Ré que foi citada e ofereceu resistência. Inevitabilidade do acolhimento da ação incidental de embargos com julgamento do respectivo mérito. Sentença, nessa parte, confirmada. Apelação da autora-embargada desprovida" (e-STJ fls. 1089/1090).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1130/1135).
+No recurso especial, a parte recorrente alega violação dos seguintes dispositivos com as respectivas teses:
+(1) arts. 489 e 1.022 do Código de Processo Civil, aduzindo que teria havido negativa de prestação jurisdicional porque o Tribunal de origem deixou de se pronunciar sobre vários dispositivos legais e constitucionais apontados;
+(2) art. 1.026, § 2º, do CPC, defendendo a inaplicabilidade da multa imposta pela oposição de embargos para fins de prequestionamento;
+(3) arts. 701, § 2º, e 702, §§ 4º e 8º, do CPC, sustentando que a oposição dos embargos monitórios tem como efeito automático a suspensão da eficácia do mandado de pagamento, e que não se convalidou o título executivo judicial nos moldes preconizados;
+(4) arts. 336 e 341 do CPC, defendendo que a impugnação apresentada rogou pela aplicação do princípio da eventualidade, inexistindo confissão com relação ao montante de R$ 317.714,20;
+(5) arts. 342, caput e III, 485, VI e § 3º, do CPC, alegando a prevalência da matéria de ordem pública arguida sobre a constituição de pleno direito do título executivo judicial concernente ao valor indicado como não impugnado, e
+(6) arts. 330, III, 485, VI, 700 e 701, do CPC, sustentando que não foram preenchidos os requisitos legais previstos para o ajuizamento da ação monitória, configurando-se a falta do interesse processual (na modalidade adequação).
+Após as contrarrazões (e-STJ fls. 1315/1337), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem a especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem.
+De fato, a mera alegação de que o Tribunal local não teria analisado o recurso sob o enfoque das alegações formuladas nos embargos declaratórios opostos ao acórdão recorrido não é suficiente para demonstrar a negativa de prestação jurisdicional ventilada.
+Assim, não tendo os recorrentes demonstrado o ponto acerca do qual o acórdão recorrido deveria ter se pronunciado, e não o fez, é manifesta a deficiência da fundamentação recursal nesse particular, o que atrai a incidência, por analogia, da Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATENDIMENTO DE EMERGÊNCIA. PERÍODO DE CARÊNCIA. LIMITAÇÃO DE COBERTURA. RECUSA INJUSTICADA. AGRAVAMENTO DA SITUAÇÃO DE AFLIÇÃO PSICOLÓGICA E ANGÚSTIA DO BENEFICIÁRIO. CIRCUNSTÂNCIAS DELIMITADAS NO JULGADO ESTADUAL. DANO MORAL. CARACTERIZAÇÃO. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Conforme a jurisprudência desta Corte, afigura-se abusiva a negativa, pelo plano de saúde, de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência com base na cláusula de carência, caracterizando a indevida recusa de cobertura.
+3. Outrossim, a recusa injustificada, pela operadora de plano de saúde, em autorizar tratamento médico emergencial enseja reparação a título de danos morais, porque agrava a situação de sofrimento psíquico do usuário, já abalado ante o estado debilitado da sua saúde.
+4. Estando o acórdão recorrido em consonância com a jurisprudência pacífica do Superior Tribunal de Justiça, tem incidência a Súmula n. 83/STJ, aplicável por ambas as alíneas autorizadoras.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 2.174.617/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Consoante a jurisprudência firmada nesta Corte, a legislação vigente (art. 932 do CPC/15 c/c Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. Nos termos da jurisprudência desta Corte Superior, a viabilidade da ação rescisória por ofensa à disposição de lei pressupõe violação direta da literalidade da norma jurídica. Ademais, o erro de fato que enseja a propositura da ação rescisória não é aquele que resulta de eventual má apreciação da prova, mas, sim, o que decorre da ignorância de determinada prova, diante da desatenção do julgador na apreciação dos autos. Incidência da Súmula 83/STJ.
+3.1. Outrossim, rever a conclusão do Tribunal a quo acerca da ausência dos requisitos legais para a procedência da ação rescisória, no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+5. Agravo interno desprovido."
+(AgInt no AgInt no AREsp 2.006.960/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+No que tange aos arts. 330, III, 336, 341, 342, caput e III, 485, VI e § 3º, 700, 701, § 2º, e 702, §§ 4º e 8º, do CPC, a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, apesar de indicar os arts. 4º, 8º, 9º, 277, 283 e 700, § 5º, do CPC como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+Ademais, encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DINAMIZAÇÃO. ÔNUS DA PROVA. REGRA. INSTRUÇÃO. HIPÓTESE. FUNDAMENTO. ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. RAZÕES DISSOCIADAS. SÚMULAS NºS 283 E 284/STF.
+1. A inversão do ônus da prova não é regra estática de julgamento, mas regra dinâmica de procedimento/instrução. Precedente.
+2. Na hipótese, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. Encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, aplica-se, por analogia, o óbice previsto na Súmula nº 284/STF.
+4. Agravo interno não provido."
+(AgInt no AREsp 2.130.305/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO NÃO VERIFICADA. SESSÃO DE PSICOTERAPIA. COPARTICIPAÇÃO. RECUSA DE COBERTURA. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. LIMITAÇÃO DO NÚMERO DE SESSÕES. APLICAÇÃO DO ÓBICE DA SÚMULA 83/STJ. REEMBOLSO. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULA 283 E 284/STF. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022, II, do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos.
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 2.008.429/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023)
+Quanto aos arts. 330, III, 336, 341, 485, VI, 700 e 701, do CPC, a revisão do entendimento firmado pelas instâncias ordinárias, a partir das teses de que não foram preenchidos os requisitos da ação monitória e de que não houve confissão em relação a valor nenhum, demandaria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+Nesse sentido:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROVAS ESCRITAS HÁBEIS A INSTRUIR A AÇÃO. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. SÚMULA N. 83/STJ. REVISÃO. SÚMULA N. 7/STJ.
+1. Na ação monitória, a prova escrita hábil a instruí-la não precisa ser absoluta e incontestável, mas sim idônea o suficiente a fim de permitir um juízo de probabilidade acerca da existência da obrigação (AgInt no AREsp n. 2.556.722/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/12/2024, DJEN de 12/12/2024).
+2. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional - Súmula n. 83/STJ.
+3. Rever o entendimento do Tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ.
+Agravo interno improvido."
+(AgInt no AREsp 2.710.049/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTOS SOB A ÉGIDE DO NCPC. NULIDADE DO JULGAMENTO MONOCRÁTICO. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. AÇÃO MONITÓRIA. EFICÁCIA DA PROVA ESCRITA APRESENTADA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ÓBICE DA SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO-PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Verificada a manifesta inadmissão do agravo em recurso especial, com a incidência de óbices processuais, é permitido ao relator proferir decisão monocrática, inexistindo previsão legal para a realização de sustentação oral.
+3. Desconstituir a conclusão proferida no acórdão recorrido quanto a inaptidão do documento apresentado para a comprovação do serviço realizado, exigiria o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula nº 7 do STJ.
+4. Não é possível o conhecimento de recurso especial na hipótese em que os dispositivos apontados como violados no apelo nobre não foram objeto de debate no acórdão recorrido, mesmo após a oposição de embargos de declaração, visto que não houve o prequestionamento da matéria federal suscitada no apelo especial, sem o que impossível o conhecimento do recurso, conforme dispõe a Súmula 211 do STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.599.625/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/9/2020, DJe de 24/9/2020)
+Finalmente, não merece acolhida a pretensão de afastamento da multa imposta com esteio no art. 1.026 do CPC/2015.
+De fato, o que se pode extrair dos autos é que a recorrente não buscava, na origem, a correção de nenhum dos vícios ensejadores dos aclaratórios, mas sim a alteração do julgado embargado, a partir da reapreciação de questões já rechaçadas pela Corte local. Também não se depreende daqueles embargos que tivesse a embargante o propósito de prequestionar matéria federal eventualmente omitida, motivo pelo qual não se aplica à hipótese vertente a inteligência da Súmula nº 98/STJ.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INTIMAÇÃO. CONTRARRAZÕES À APELAÇÃO. AUSÊNCIA. NULIDADE. MANIFESTAÇÃO POSTERIOR À PRIMEIRA OPORTUNIDADE. PRECLUSÃO. ART. 245 DO CPC/73. MULTA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. PRETENSÃO DE REDISCUSSÃO. NÃO PROVIMENTO.
+1. (..)
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. A tentativa de alterar os fundamentos da decisão embargada, com vistas a obter decisão mais favorável aos seus interesses, demonstra o intuito procrastinatório da parte, o que enseja a multa prevista no art. 1.026, § 2º, do Código de Processo Civil. Jurisprudência do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl nos EDcl no REsp 1.430.981/BA, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2017, DJe 3/10/2017)
+"PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. FASE DE CONHECIMENTO. REVISÃO DO BENEFÍCIO. CRITÉRIOS DE ATUALIZAÇÃO. PERÍCIA ATUARIAL. NECESSIDADE. VIABILIZAÇÃO DA MANUTENÇÃO DO PLANO DE BENEFÍCIOS. PRECEDENTES. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+(..)
+2. Verificado o caráter protelatório dos embargos de declaração, impõe-se a aplicação da multa prevista no art. 1.026, § 2º, do NCPC.
+(..)
+5. Agravo interno não provido, com imposição de multa."
+(AgInt nos EDcl no REsp 1.593.633/SE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/3/2017, DJe 18/4/2017)
+Ante o exposto, dou provimento ao agravo interno para, reconsiderando a decisão de e-STJ fls. 1475/1478, conhecer do agravo e não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do art. 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem em desfavor da recorrente.
+É o voto.
