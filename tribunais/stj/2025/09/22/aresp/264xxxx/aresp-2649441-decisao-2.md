@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CIRO JOSÉ ALONSO contra a decisão que inadmitiu o recurso especial com fundamento na ausência da comprovação exigida no art. 1.003, § 6º, do CPC (fls. 1.398-1.400).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação revocatória. Valor da causa: R$300.000,00.
+O julgado foi assim ementado (fl. 1.034):
+ASSISTÊNCIA JUDICIÁRIA - INEXISTÊNCIA DE PROVAS DE QUE A MASSA FALIDA DESFRUTE DE CONFORTO FINANCEIRO PARA FAZER FRENTE ÀS CUSTAS DO PROCESSO - BENEFÍCIO MANTIDO.
+AÇÃO REVOCATÓRIA - PRETENSÃO DA REQUERENTE DE ANULAR A ALIENAÇÃO DE IMÓVEIS QUE SE OPEROU DURANTE O PERÍODO SUSPEITO - OS ELEMENTOS COLIGIDOS AOS AUTOS FAZEM PROVA DE QUE NÃO FORAM OBSERVADOS OS REQUISITOS OBJETIVOS DE VALIDADE DO NEGÓCIO - VENDA DE BENS REALIZADA À ÉPOCA EM QUE A EMPRESA ESTAVA EM CONCORDATA E SEM AUTORIZAÇÃO JUDICIAL - VIOLAÇÃO AO DISPOSTO NOS ARTS. 52 E 149 DO DECRETO-LEI 7.661/45 - NEGÓCIO JURÍDICO ANULADO BEM COMO TODOS OS DEMAIS DELE DECORRENTES - DECADÊNCIA - QUESTÃO DE ORDEM PÚBLICA - POSTO QUE NÃO TENHA SIDO OBJETO DE RECURSO, FOI AMPLAMENTE DISCUTIDA NOS AUTOS - PARECER DA D. PROCURADORIA DE JUSTIÇA CÍVEL ABORDA A QUESTÃO - EXTENSÃO DO EFEITO DEVOLUTIVO DA APELAÇÃO E RESPECTIVA PROFUNDIDADE VERTICAL, QUE É INTEGRAL (CPC, ART. 1.013, § 2º) - CIRCUNSTÂNCIAS QUE JUSTIFICAM O CONHECIMENTO DA QUESTÃO - INOCORRÊNCIA DA DECADÊNCIA - COINCIDÊNCIA DO TERMO "A QUO" DO PRAZO COM A PUBLICAÇÃO DO AVISO A QUE ALUDE O ART. 114 DO DECRETO-LEI 7.661/1945 - AVISO QUE, NA HIPÓTESE, NÃO FOI PUBLICADO - REJEIÇÃO - SENTENÇA MODIFICADA - APELO DA AUTORA PROVIDO - APELO DO RÉU DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 1.070-1.073, 1.212-1.215).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 99, § 3º, do CPC, porquanto houve indevida concessão de gratuidade de justiça à Massa Falida, visto que não houve comprovação de hipossuficiência financeira.
+Sustenta que o Tribunal de origem, ao não reconhecer a boa-fé do terceiro adquirente, divergiu do entendimento firmado no REsp n. 1.567.492-RJ, do Superior Tribunal de Justiça, e na Apelação n. 9084535-88.2009.8.26.0000, do Tribunal de Justiça do Estado de São Paulo.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, reconhecendo-se a boa-fé oportuna e legítima do recorrente e afastando-se a presunção de hipossuficiência da recorrida.
+Nas contrarrazões, a parte recorrida aduz que não houve prequestionamento da matéria em debate, que incidem as Súmulas n. 5 e 7 do STJ e que houve preclusão da matéria apresentada no recurso especial, razão pela qual requer o não conhecimento do apelo extremo e, subsidiariamente, o seu desprovimento (fls. 1.378-1.385).
+Parecer do Ministério Público do Estado de São Paulo pelo não seguimento do recurso especial (fls. 1.389-1.396).
+É o relatório. Decido.
+I - Da tempestividade
+No que tange à tempestividade do apelo extremo, consabido que a superveniência da Lei n. 14.939/2024 caracteriza fato novo aplicável às situações não transitadas em julgado que discutam a tempestividade recursal (Questão de Ordem no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgada em 5/2/2025, DJEN de 27/3/2025).
+No presente caso, verifico que, a despeito da ausência de intimação da parte recorrente para que comprovasse a existência de feriado local, referida providência é desnecessária no presente caso, à luz da nova redação dada ao art. 1.003, § 6º, do CPC, porquanto consta dos autos eletrônicos documentos que comprovam a existência de feriado local (fls. 1.111-1.117).
+A propósito, assim dispõe o art. 1.003, § 6º, do CPC (destaquei):
+O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico.
+Desse modo, considerando a existência de documentos que comprovam a existência de feriado local nos presentes autos, entendo que o requisito do dispositivo legal supracitado foi atendido, sendo o recurso especial tempestivo.
+II - Da violação do art. 99, § 3º, do CPC
+De início, cumpre asseverar que a questão referente à violação do artigo acima não foi objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração - caso de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Ressalte-se, nessa hipótese, que, para viabilizar eventual conhecimento do recurso especial, caberia à parte recorrente alegar ofensa ao art. 1.022 do CPC.
+III - Do dissídio jurisprudencial
+No que tange ao suposto dissídio jurisprudencial, a parte limitou-se a defender que a boa-fé do recorrente (terceiro adquirente) jamais poderia ser taxada de inoportuna e que deveria ser preservada.
+Aduz que o Tribunal a quo, ao não reconhecer a boa-fé do recorrente, divergiu do entendimento do Superior Tribunal de Justiça no REsp n. 1.567.492-RJ e do entendimento do Tribunal de Justiça do Estado de São Paulo na Apelação n. 9084535-88.2009.8.26.0000.
+Pois bem. No que tange à suposta divergência jurisprudencial entre o acórdão recorrido e o acórdão do TJSP na Apelação n. 9084535-88.2009.8.26.0000, é caso de incidência da Súmula n. 13 do STJ, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+Ademais, verifico que o recorrente não indicou quais os dispositivos legais que tiveram interpretação divergente nos arestos comparados, o que caracteriza deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão" (AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022).
+Desse modo, a ausência de indicação do(s) dispositivo(s) que teria(m) sido objeto de eventual divergência jurisprudencial (alínea c) inviabiliza o conhecimento do recurso especial, não bastando a mera alegação de que o acórdão recorrido não está em consonância com a jurisprudência de outros tribunais.
+A propósito, confira-se o seguinte precedente:
+DIREITO IMOBILIÁRIO. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. INDICAÇÃO DA NORMA FEDERAL VIOLADA. AUSENTE. SÚMULA 284 DO STF. APLICAÇÃO POR ANALOGIA. CASO CONCRETO. CASOS PARADIGMA. AUSÊNCIA DE SIMILITUDE FÁTICA. PROXIMIDADE FÁTICA E CONTEXTUAL. NÃO DEMONSTRADA. FUNDAMENTO AUTÔNOMO E SUFICINENTE. NÃO IMPUGNAÇÃO. SÚMULA 283 DO STF. APLICAÇÃO POR ANALOGIA. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação do dispositivo de lei com interpretação divergente por outros tribunais inviabiliza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal. Incidência da Súmula 284 do STF, por analogia.
+2. Para a caracterização do dissídio jurisprudencial, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Caso concreto em que a proximidade fática e contextual entre os arrestos paradigma e a decisão impugnada não restou demonstrada.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamentos autônomos e suficientes à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. Recurso especial não conhecido. (REsp n. 1.880.850/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/4/2025, DJEN de 6/5/2025, destaquei.)
+Portanto, é caso de aplicação, por analogia, da Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
