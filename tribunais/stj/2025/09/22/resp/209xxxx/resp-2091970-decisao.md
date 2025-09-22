@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO na Apelação Criminal n. 0814028-10.2020.4.05.8100, o qual, por maioria, deu provimento ao apelo defensivo para absolver o acusado da acusação de apropriação indébita (fls. 450/472).
+Foram opostos embargos de declaração, rejeitados pelo Tribunal a quo (fls. 512/516).
+No recurso especial, o recorrente aponta violação do art. 619 do Código de Processo Penal, em virtude de não ter o Tribunal recorrido suprido as omissões apontadas nos embargos de declaração. De outar parte, também alega violação do art. 168, § 1º, I, do Código Penal, em virtude da decisão absolutória. Ao final, requer o provimento do recurso para determinar que novo julgamento se profira quanto aos embargos de declaração; ou que se reconheça a procedência da acusação para ser o réu condenado na forma do art. 168, § 1º, I, do CP (fl. 561).
+Oferecidas contrarrazões (fls. 565/578), o recurso especial foi admitido na origem (fl. 580).
+O Ministério Público Federal opina pelo conhecimento parcial e provimento do recurso (fls. 593/598).
+É o relatório.
+O recurso não é cabível em relação à alegada violação do art. 619 do Código de Processo Penal, tendo em vista que, como referiu o Tribunal a quo, os embargos foram opostos com a finalidade de rediscutir a análise sobre as provas dos autos, o que é inadmissível (fl. 523). Assim, não há ofensa ao art. 619 do CPP se a Corte de origem aprecia os aspectos fundamentais ao deslinde da controvérsia, mesmo que não enfrente, um a um, todos os argumentos apresentados pelas partes (AgRg no AREsp n. 1.500.725/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/6/2021, DJe de 28/6/2021).
+Relativamente à alegada violação do art. 168, § 1º, I, do Código Penal, a pretensão recursal pressupõe necessário o reexame do acervo probatório, o que é inviável em sede de recurso especial. Observe-se que o Tribunal recorrido, após amplo exame da prova dos autos, concluiu, por maioria, pela absolvição do recorrido. O voto condutor do acórdão concluiu pela insuficiência de provas, em síntese, pelas seguintes razões (fl. 428):
+ ..
+Diante de tal divergência de valores, partiu-se do pressuposto de que o acusado havia, de fato, recolhido as quantias informadas (R$ 150.000,00 e R$ 175.000,00) mas, de forma ilícita e dolosa, havia repassado apenas parte irrisória delas (R$ 5.500,00 e R$ 3.300,00), apropriando-se, pois, da diferença.
+Com a devida vênia, o fato é que em momento nenhum se comprovou que houve, efetivamente, o recolhimento das duas quantias informadas pelo acusado.
+Ao reverso, como consignado pelo próprio magistrado, " Não houve, seja pela Agência Del Paseo, seja pela superintendência da CEF, a instauração de um procedimento administrativo destinado à apuração do ocorrido".
+Por outro lado, o réu sustenta a tese de que apenas - e informou com base em estimativa porque tinha - à CAIXA que recolheria as aludidas quantias, mas, ao final do dia,horário estipulado para informar não as recolhera, senão apenas as que efetivamente repassou.
+Em suma, a CAIXA não comprovou que o réu recolheu os valores e o réu afirmou que não comprovou não os recolheu efetivamente, apenas os informou que recolheria pelos motivos já expostos.
+Aliás, competia à acusação comprovar o efetivo recolhimento e, como dito, em momento nenhum ele foi devidamente comprovado.
+Sobre o tema, vê-se que o próprio juízo afirmar que chegou à conclusão sobre o efetivo recolhimento com base em "tabela" que apontava os valores que a loteria costumava recolher. Tal presunção, todavia, não serve para demonstrar o efetivo recolhimento, ainda mais porque não houve a merecida instauração de procedimento administrativo, como já destacado.
+ ..
+Embora as razões recursais afirmem que o recurso pretende a revaloração, e não o reexame das provas, o certo é que a revaloração que é admitida na análise do recurso especial parte de fatos que não mais se discutem, debate ndo-se apenas as regras jurídicas que sobre eles incidem, ou, em algumas hipóteses, as regras legais que incidem sobre a eficácia de determinadas provas. Não é isso o que ocorre no caso dos autos, em que o acolhimento da pretensão recursal, com vistas à condenação do réu, dependeria de se concluir de forma distinta sobre os fatos efetivamente comprovados (o que, repita-se, gerou controvérsia entre os próprios julgadores do Tribunal a quo).
+Assim, inviável o recurso, por incidir o óbice da Súmula 7/STJ (AgRg no (AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+Ante o exposto, não conheço do recurso especial (RISTJ, art. 34, XVIII, a).
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO PENAL. APROPRIAÇÃO INDÉBITA. RECURSO DO MINISTÉRIO PÚBLICO. ALEGADA VIOLAÇÃO DO ART. 619 DO CPP. INOCORRÊNCIA. INSURGÊNCIA CONTRA A ABSOLVIÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ.
+Recurso especial não conhecido.
