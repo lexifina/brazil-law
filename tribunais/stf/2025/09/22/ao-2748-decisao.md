@@ -1,0 +1,193 @@
+DECISÃO
+
+    Ementa: Direito constitucional e administrativo. Ação originária. Controle judicial de ato do Conselho Nacional do Ministério Público. Processo administrativo disciplinar. Limites da atuação jurisdicional. Improcedência do pedido.
+
+    I. Caso em exame
+
+    1. Ação originária ajuizada por membro do Ministério Público Federal contra ato do Conselho Nacional do Ministério Público (CNMP), por meio da qual se questiona a validade de decisão proferida em Processo Administrativo Disciplinar (PAD nº 1.00154/2022-79), que culminou na aplicação da sanção de censura. O autor alega nulidade do acórdão condenatório, por suposta utilização de fatos prescritos e não incluídos na portaria inaugural do PAD, além de sustentar ofensa à independência funcional e violação ao contraditório e à ampla defesa.
+
+    II. Questão em discussão
+
+    2. Há duas questões em discussão: (i) definir se o CNMP, ao aplicar sanção disciplinar ao autor, utilizou fundamentos relacionados a fatos prescritos ou não abarcados pela portaria inaugural do PAD, violando o devido processo legal; e (ii) estabelecer se houve desvio de finalidade ou irrazoabilidade no ato administrativo disciplinar que justifique o controle jurisdicional excepcional pelo STF.
+
+    III. Razões de decidir
+
+    3. Compete ao CNMP, nos termos do art. 130-A, § 2º, incs. II e III, da Constituição da República, o controle da atuação administrativa e funcional dos membros do Ministério Público, inclusive para aplicação de sanções disciplinares, devendo o controle judicial ser reservado a hipóteses excepcionais de flagrante ilegalidade ou teratologia.
+
+    4. Na jurisprudência do STF se estabelece que a revisão de atos do CNMP é cabível apenas quando constatada (i) inobservância do devido processo legal, (ii) exorbitância de competência ou (iii) manifesta irrazoabilidade ou injuridicidade do ato.
+
+    5. Não se constata, no caso concreto, violação ao devido processo legal, uma vez que o voto condutor da condenação afastou expressamente os fatos prescritos e delimitou a responsabilização apenas aos fatos expressamente previstos na portaria inaugural do PAD, permitindo o pleno exercício da ampla defesa.
+
+    6. A atuação do autor, conforme reconhecido pelo CNMP, consistiu no ajuizamento de ações judiciais motivadas por posicionamentos ideológicos e políticos, revelando desvio de finalidade funcional e afronta aos princípios da impessoalidade e do interesse público, caracterizando infrações disciplinares nos termos dos arts. 236, incs. IX e X, e 240, inc. II, da LC nº 75 de 1993.
+
+    7. Não se verificam elementos que justifiquem a intervenção jurisdicional, pois a decisão do CNMP se fundamenta em elementos probatórios suficientes, com motivação adequada e respeito às garantias processuais.
+
+    IV. Dispositivo
+
+    8. Pedido improcedente.
+
+    Dispositivos relevantes citados: CRFB, arts. 127, § 1º, e 130-A, § 2º, incs. II e III; LC nº 75, de 1993, arts. 236, incs. IX e X, 239, inc. II, e 240, inc. II; CPC, art. 487, inc. I; RISTF, art. 21, § 1º.
+
+    Jurisprudência relevante citada: STF, Rcl nº 33.459-AgR/PE, Rel. Min. Rosa Weber, Red. p/ Acórdão Min. Gilmar Mendes, Tribunal Pleno, j. 18/11/2020; STF, MS nº 36.716/DF, Rel. Min. Luiz Fux, Primeira Turma, j. 16/06/2020; STF, MS nº 37.927-AgR/DF, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 03/04/2023.
+
+Relatório
+
+    1. Trata-se de ação originária proposta por Emanuel de Melo Ferreira contra a União por meio da qual foi questionado ato praticado pelo Conselho Nacional do Ministério Público no julgamento do Processo Administrativo Disciplinar (PAD) nº 1.00154/2022-79.
+
+    2. A parte autora narra ter tramitado no CNMP, em seu desfavor, o PAD acima referido, o qual, após a instrução, foi “levado a julgamento na 19ª Ordinária de 2022, realizada em 19.12.2022”. Nessa sessão “o Relator votou pelo acolhimento da preliminar de prescrição parcial e, quanto às imputações não prescritas, pela improcedência da pretensão disciplinar“. Acrescenta que “o Conselheiro Rinaldo Reis Lima, que à época da instauração do PAD exercia a função de Corregedor e defendeu, com notáveis rapidez e afinco, a instauração do processo, divergiu parcialmente do entendimento do Relator, votando pelo reconhecimento da prescrição parcial, mas pela improcedência das demais imputações relacionadas às publicações em redes sociais não abrangidas pela prescrição e pela procedência da pretensão disciplinar para aplicar ao membro a pena de censura, nos termos dos arts. 239, II, e 240, II, da LC nº 75/93, no que foi acompanhado pela maioria dos conselheiros”.
+
+    3. Segundo referido na petição inicial, ficou “expressamente consignado pelos que acompanharam a divergência inaugurada que assim procediam desde que os fatos não abarcados pela Portaria de Instauração do PAD e os fatos prescritos não fossem utilizados como fundamento para a procedência parcial do PAD, vencidos o Relator e o Conselheiro Antônio Edílio que votavam pela improcedência das imputações não prescritas tratadas no âmbito do PAD”. O autor acrescenta que, no entanto, “para a surpresa do demandante, quando da publicação do acórdão foi possível perceber que voto-divergente, e vencedor, não excluiu a referência e a valoração de fatos não abarcados pela Portaria Inaugural e também aos fatos já prescritos (doc. 7), com o claro propósito de agravar a situação do processado, valorando-os negativamente”.
+
+    4. Esse proceder do CNMP, segundo alega, conduz à nulidade do acórdão condenatório proferido, pois foram utilizados fatos não abrangidos pela portaria inaugural do PAD e reconhecidamente prescritos para fins de aferição das condutas imputadas ao autor, implicando ofensa à ampla defesa e ao contraditório. Ainda segundo relatado na petição inicial, a condenação impingida ao autor viola a independência funcional do membro do Ministério Público, prevista no art. 127, § 1º, da CRFB.
+
+    5. O autor prossegue defendendo a higidez da sua conduta, aduzindo que todas as ações por ele propostas e que foram tidas como abusivas ou equivocadas pelo CNMP “buscavam conter o avanço de um processo de erosão constitucional, que culminou com a tentativa de golpe de estado em 08/01/2023”. Tratava-se, segundo alega, de atuação lastreada em farta pesquisa doutrinária, fontes normativas e em precedentes do próprio STF, sendo que a “defesa da democracia não é ‘ideologia político-partidária’ como, erroneamente, sustentou a Corregedoria do CNMP”. Cita, nesse sentido, que “todas as ações ajuizadas e as postagens efetivadas em redes sociais tiveram por objetivo demonstrar como o autoritarismo avançava no Brasil a partir da atuação de diversos agentes que: a) promoviam intimidação à comunidade acadêmica, em detrimento da gestão democrática do ensino constitucionalmente prevista; b) conforme reconhecido por esse col. STF, teriam atuado com parcialidade; c) buscavam a comemoração do golpe militar de 1964, tido como ‘revolução’”.
+
+    6. Postula a “concessão de liminar para garantir a suspensão imediata dos efeitos do acórdão proferido pelo CNMP nos autos do PAD nº 1.00154/2022-79, abrangendo, sobretudo, a suspensão da sanção disciplinar aplicada ao autor, tudo até o julgamento definitivo do mérito da presente ação”.
+
+    7. Como pedido de tutela jurisdicional final, requer “que a presente ação seja julgada procedente, para que sejam reconhecidas as nulidades expostas na presente ação, decretando-se a nulidade do PAD nº 1.00154/2022-79 desde a sua origem e, consequentemente, à punição aplicada ao autor”.
+
+    8. Com a petição inicial foram juntados documentos e comprovado o recolhimento das custas.
+
+    9. Proferi decisão por meio da qual reconheci a competência desta Suprema Corte para processar e julgar o feito e indeferi o pedido de tutela de urgência formulado (e-doc. 27).
+
+    10. Contra essa decisão, o autor interpôs agravo regimental (e-doc. 35).
+
+    11. A União apresentou contestação (e-doc. 37) e juntou documentos (e-doc. 38 e e-doc. 39). Teceu considerações sobre os limites para revisão de decisões proferidas pelo CNMP. Em continuidade, referiu que “a pretensão autoral não reúne condições de prevalecer, tendo em vista inexistir, na espécie, qualquer teratologia na decisão do CNMP a ser sanada ou corrigida por essa Corte Suprema”. Pediu o julgamento de improcedência do pedido.
+
+    12. O prazo para réplica transcorreu in albis (e-doc. 43). Vieram-me os autos, então, conclusos para exame.
+
+    É o relatório.
+
+Análise
+
+    13. Registro, de início, que, na decisão de 30/01/2025 (e-doc. 27), reconheci a competência desta Suprema Corte para processar e julgar a presente ação, por entender presente a hipótese prevista no art. 102, inc. I, al. “r”, da CRFB, consoante a jurisprudência do STF, da qual colhi o seguinte precedente:
+
+    “Agravo interno em Reclamação. 2. Competência para processar e julgar ação ordinária em face da União, independentemente de constar, no polo passivo, outro ente federativo, em que se discute ato praticado pelo Conselho Nacional do Ministério Público (CNMP) relacionado às diretrizes constitucional-administrativas, previstas no § 2º do art. 130 da CF. Art. 102, I, “r”, da Constituição Federal. 3. Mudança de jurisprudência da Corte firmada nesta demanda, na ADI 4.412, de minha relatoria e na Pet 4.770 AgR, Rel. Min. Barroso, julgadas na mesma data. 4. Reconhecimento da competência do Supremo Tribunal Federal para julgar atos praticados pelos Conselhos Nacional de Justiça e do Ministério Público quando correlatos a atividades finalísticas previstas constitucionalmente. 5. Agravo provido, para determinar a subida dos autos, em trâmite nas instâncias inferiores, a esta Corte.”
+
+    (Rcl nº 33.459-AgR/PE, Rel. Ministra Rosa Weber, Red. do Acórdão Ministro Gilmar Mendes, Tribunal Pleno, j. 18/11/2020, p. 23/03/2021; grifos acrescidos).
+
+    14. Por esses fundamentos, reafirmo a compreensão sobre a competência desta Corte para processar e julgar esta ação.
+
+    15. Passo ao exame do seu mérito.
+
+    16. Nesse sentido, reitero que, conforme estabelecido no art. 130-A, § 2º, incs. II e III, da Constituição da República, compete ao CNMP o controle da atuação administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais dos seus membros, competindo-lhe “zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Ministério Público da União e dos Estados, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência dos Tribunais de Contas”, bem como “receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso, determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas, assegurada ampla defesa” (grifos nossos).
+
+    17. Tratando-se de órgão de natureza técnica, com atribuições estabelecidas constitucionalmente, devem ser evitadas interferências antecipadas ou indevidas sobre a atuação desse Conselho, pelo que eventual revisão judicial de seus atos deve estar reservada a situações excepcionalíssimas.
+
+    18. Ao assim agir, a meu ver, o Poder Judiciário, presentado por esta Suprema Corte, assegura a devida deferência às avaliações realizadas por esse órgão, prestigiando a missão constitucional a ele confiada e sua maior capacidade institucional para o tratamento da matéria.
+
+    19. A jurisprudência deste Supremo Tribunal Federal caminha nesse sentido, da preservação dos atos do CNJ e do CNMP, indicando a excepcionalidade do controle pelo Poder Judiciário sobre os atos desses Conselhos Constitucionais da Magistratura e do Ministério Público. A propósito do tema, trago à colação o seguinte precedente:
+
+    “Ementa: MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. DIREITO CONSTITUCIONAL. CONSELHO NACIONAL DE JUSTIÇA. PROCEDIMENTO DE CONTROLE ADMINISTRATIVO. RESOLUÇÃO 13, DE 29 DE JULHO DE 2019, DO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA. DESATIVAÇÃO DE COMARCAS. IMPETRAÇÃO CONTRA DECISÃO LIMINAR DE CONSELHEIRA DO CNJ. DECISÃO LIMINAR CONCEDIDA E POSTERIORMENTE AVALIADA PELO PLENÁRIO DO CNJ. PERDA SUPERVENIENTE DO OBJETO. ATO CONJUNTO 21/2019 TJ/BA. MANDADO DE SEGURANÇA EXTINTO SEM RESOLUÇÃO DO MÉRITO. 1. Descabe transformar este Supremo Tribunal Federal em instância recursal, geral e irrestrita, das decisões administrativas tomadas pelo CNJ no regular exercício das atribuições constitucionalmente estabelecidas, de sorte que, ressalvadas as hipóteses de flagrante ilegalidade ou teratologia, impõe-se ao Poder Judiciário a autocontenção (judicial self-restraint) e deferência às valorações realizadas pelos órgãos especializados, dada sua maior capacidade institucional para o tratamento da matéria e suas funções constitucionais previstas. Precedentes. 2. In casu, o cerne da controvérsia consiste em saber se a decisão liminar proferida nos autos do PCA 0006443-30.2019.2.00.0000, que determinou a suspensão da eficácia da Resolução 13/2019 do TJBA, dessa forma, desautorizando a desativação das dezoito comarcas abrangidas pela Resolução, teria violado direito líquido e certo do impetrante mediante ato ilegal ou abusivo. 3. Deveras, conforme bem apontado pelo Ministério Público Federal em seu parecer (eDoc 139), todavia, a apreciação do presente mandado de segurança resvala na perda superveniente de seu objeto, mercê de a decisão liminar apontada como coatora neste writ já ter sido posteriormente analisada e julgada, de forma unânime, pelo Plenário do Conselho Nacional de Justiça, na data de 29/11/2019. 4. Ademais, o próprio Tribunal de Justiça do Estado da Bahia editou o Ato Conjunto 21, de 12 de dezembro de 2019, determinando a “reversão da desativação das comarcas constantes no anexo I, da Resolução nº 13/2019”. 5. Ex positis, julgo PREJUDICADO o presente mandamus, mercê da perda superveniente de seu objeto. Consectariamente, EXTINGO o writ, sem resolução de mérito.”
+
+    (MS nº 36.716/DF, Rel. Min. Luiz Fux, Primeira Turma, j. 16/06/2020, p. 14/07/2020; grifos nossos).
+
+    20. Assim, o excepcional controle jurisdicional somente se justifica em hipóteses de flagrante ilegalidade ou teratologia, entre as quais: (i) a inobservância ao devido processo legal; (ii) a exorbitância de suas atribuições e (iii) a injuridicidade ou manifesta falta de razoabilidade de seus atos. Essas hipóteses são as únicas que admitem o controle judicial sobre os atos do Conselho Nacional do Ministério Público e do Conselho Nacional de Justiça. Nesse sentido cito, exemplificativamente, o seguinte precedente:
+
+    “Ementa: AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. WRIT IMPETRADO CONTRA ATO DO CNJ EM PEDIDO DE PROVIDÊNCIAS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA E OFENSA AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A decisão ora atacada não merece reforma, visto que o recorrente não aduz argumentos capazes de afastar as razões nela expendidas. II - A jurisprudência desta Suprema Corte se firmou no sentido de que a possibilidade de revisão de atos emitidos pelos órgãos de controle - CNJ e CNMP - só se verifica, “como regra geral, [...] nas hipóteses de (i) inobservância do devido processo legal; (ii) exorbitância das competências do Conselho; e (iii) injuridicidade ou manifesta irrazoabilidade do ato impugnado”. (MS 33.690-AgR/DF, relator Ministro Roberto Barroso). III - No caso concreto, inexiste prova documental pré-constituída de ocorrência das hipóteses supracitadas, relembrando que o rito sumaríssimo, próprio do writ, não permite qualquer dilação probatória. IV – Agravo regimental a que se nega provimento.”
+
+    (MS nº 37.927-AgR/DF, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 03/04/2023, p. 11/04/2023; grifos nossos).
+
+    21. Postas essas questões e premissas, e não obstante o teor da argumentação trazida pela parte autora, ratifico a compreensão externada na decisão pela qual indeferi o pedido liminar, por verificar que o Conselho Nacional do Ministério Público, na hipótese, não incorreu nos vícios acima nomeados. Improcede, por isso, o pedido deduzido nesta ação.
+
+    22. No caso, o processo administrativo disciplinar instalado contra o autor derivou de “Reclamação Disciplinar instaurada em face de Membro do Ministério Público Federal lotado no Estado do Rio Grande do Norte que, no período entre os anos 2019 e 2021, teria, de forma livre e consciente, instrumentalizado a sua atuação funcional para atender a motivos político-ideológicos, desviando-se do interesse público” (e-doc. 6, p. 37-38). Nos termos da decisão na qual se referendou a instauração do processo administrativo disciplinar, estas foram as imputações atribuídas ao autor:
+
+    “(...) 2. O membro teria realizado postagens em seus perfis das redes sociais Facebook e Twitter, exteriorizando posições político-partidárias, ironizando pessoas por ele investigadas e processadas e menoscabando colegas de instituição e integrantes do Poder Judiciário.
+
+    3. O membro teria violado o princípio do promotor natural, ao ter proposto ação civil pública decorrente de apuração materializada dos autos de inquérito civil.
+
+    4. Promovido, de maneira anômala, o arquivamento de inquérito policial instaurado em face de reitora da Universidade Federal Rural do Semi-Árido (UFERSA), ao ter requisitado a remessa dos autos à autoridade policial e promovido seu arquivamento antes de sua conclusão, encerrando-o abruptamente, ocasião na qual, concomitantemente, apresentou denúncia em face da referida reitora pela prática de suposto crime de denunciação caluniosa, mesmo antes da homologação do arquivamento referido;
+
+    5. O membro teria atuado com violação ao princípio da impessoalidade na promoção de ações penais e cíveis em face de reitora da Universidade Federal Rural do Semi-Árido (UFERSA).
+
+    6. A apuração da Reclamação Disciplinar indicou a possível atuação do requerido motivada por razões político-ideológicas, inclusive no manejo de ações judiciais cíveis e penais com a finalidade de promover patrulhamento ideológico, fato detectado nas peças judiciais e nas decisões judiciais subsequentes.
+
+    7. O Procurador da República requerido teria, em tese, praticado infrações disciplinares por violação aos deveres legais de desempenhar com zelo e probidade as suas funções e de guardar decoro pessoal, previstos no artigo 236, IX e X da Lei Complementar Federal nº 75/1.993 (Lei Orgânica do Ministério Público da União), que ensejaria, à luz dos artigos 239, II e 240, II, segunda parte, do mesmo diploma legal, a aplicação da sanção de censura no respectivo Processo Administrativo Disciplinar.”
+
+    23. Ora, a apuração de infrações eventualmente praticadas por membros do Ministério Público, inclusive a revisão de processos disciplinares, insere-se no rol das competências precípuas do CNMP, fixado pela Constituição (art. 130-A, § 2º, incs. II, III e IV). Por isso não há que se falar, na espécie, em exorbitância das atribuições ou competências do Conselho.
+
+    24. De igual modo, não se vislumbra violação ao devido processo legal. Com efeito, sustenta o autor que, “considerando que v. acórdão que julgou procedente o PAD se valeu de fatos prescritos e de fatos que sequer estavam abrangidos pelo objeto do PAD para inculpar o processado, não há dúvidas de que o voto-condutor deu causa a uma indiscutível NULIDADE de julgamento, em nítida afronta às mais basilares garantias constitucionais e processuais”.
+
+    25. Não obstante o teor dos argumentos deduzidos na petição inicial, uma análise acurada do voto condutor do acórdão conduz a conclusão diversa. Primeiro porque esse voto expressamente afastou a condenação em relação aos fatos prescritos, bem como reconheceu que as postagens do autor em rede social “não implicam necessariamente prática de infração funcional e sequer são objeto de apuração nos presentes autos, pois foram publicadas posteriormente à instauração do presente e feito” (e-doc. 11, p. 2-23). Logo, não houve condenação do autor por fatos ocorridos posteriormente ao início do processo administrativo sancionador.
+
+    26. Em segundo lugar, a condenação impingida ao autor envolveu unicamente “as medidas judiciais propostas contra a União/Operação Lava Jato/Sérgio Moro e, ainda, as ações propostas em desfavor da Sra. Ludimilla de Oliveira, nomeada pelo Presidente Bolsonaro dentre os integrantes da lista tríplice para a reitoria da UFERSA” (e-doc. 11, p. 2-23), fatos esses que constaram expressamente da portaria de instauração de processo administrativo disciplinar contra o autor (e-doc. 6, p. 2-12). Ou seja, o decreto condenatório levou em consideração fatos apontados na portaria de instauração do PAD, em relação aos quais o autor pôde exercer o seu direito de defesa.
+
+    27. Não ignoro, aqui, a alegação do autor, nem o que expressamente constou do voto condutor da sua condenação, no sentido de que “a postura assumida pelo processado em suas redes sociais põe em dúvida a impessoalidade e a imparcialidade dos atos funcionais praticados pelo processado no exercício da função ministerial”, postura essa que, ao que parece, envolveria fatos anteriores e posteriores à instauração do PAD. No entanto, pelo que apreendo do julgado do CNMP, combatido por meio desta ação, tais referências, ainda que lançadas pelo relator para o acórdão em seu voto, não foram fundamentos para a condenação, se apresentando como obter dictum, sem vincular-se à justificativa da procedência da ação disciplinar.
+
+    28. Diante desse quadro, em que a condenação do autor observou fatos descritos na portaria de instauração do PAD, não vislumbro, neste juízo exauriente de cognição, a ocorrência das alegadas violações processuais.
+
+    29. Avanço no exame dos demais argumentos autorais, notadamente em relação aos fatos que justificaram sua condenação.
+
+    30. No voto condutor, o eminente Redator para o acórdão assim ponderou (e-doc. 11, p. 18 e seguintes):
+
+    “No tocante aos fatos não alcançados pela prescrição, destacam-se as medidas judiciais propostas contra a União/Operação Lava Jato/Sérgio Moro e, ainda, as ações propostas em desfavor da Sra. Ludimilla de Oliveira, nomeada pelo Presidente Bolsonaro dentre os integrantes da lista tríplice para a reitoria da UFERSA.
+
+    Quanto a esses pontos, a Portaria de Instauração do presente PAD dispôs do seguinte modo:
+
+    3) DA ATUAÇÃO NA AÇÃO CIVIL PÚBLICA Nº 0801513- 73.2021.4.05.8401, QUE TRAMITOU PERANTE A 10ª VARA FEDERAL EM MOSSORÓ/RN
+
+    (...) no dia 31 de agosto de 2021, propôs a ação civil pública nº 0801513-73.2021.4.05.8401, perante a Subseção Judiciária de Mossoró/RN, a qual restou distribuída para a 10ª Vara Federal. Referida ação foi promovida em face da União Federal e teve por objeto “a reparação aos danos morais coletivos causados aos cidadãos brasileiros pela Força Tarefa a Lava Jato em Curitiba e, especialmente, pelo então Juiz Federal Sérgio Fenando Moro em face da ofensa reiterada e sistemática por eles praticados contra o regime democrático (art. 1º, caput, da Constituição e art. 23, 1, “b” da Convenção Interamericana de Direitos Humanos) ao atuar em ofensa do devido processo legal e de modo inquisitivo no âmbito da denominada Operação Lava Jato, demonstrando interesse político em: a) influenciar indevidamente as eleições presidenciais de 2018, como já reconhecido pelo próprio Supremo Tribunal Federal (STF) no HC 163.9432; b) proceder, reiterada e sistematicamente, de modo parcial na condução processual, como também reconhecido pelo STF no HC 164.493 3 ; c) divulgar conversas capturadas ilicitamente entre a Presidenta Dilma Rousseff e o ex Presidente Luiz Inácio Lula da Silva, como também reconhecido pelo STF na Reclamação nº 23.457 4; d) aceitar, posteriormente, o convite do Presidente Jair Bolsonaro em ocupar o Ministério da Justiça, compondo fato público e notório amplamente publicizado”.
+
+    Assim, buscou-se, com o manejo da ação, “a imposição judicial de obrigação de fazer à União para que promova adequada educação cívica para a democracia no âmbitos da Escola Nacional de Formação e Aperfeiçoamento de Magistrados (ENFAM) e da Escola Nacional do Ministério Público (ESMPU), a partir da realização de cursos, pesquisas, congressos, conferências, seminários, palestras, encontros e outros eventos técnicos, científicos e culturais periódicos com magistrados e procuradores da República abordando os temas da democracia militante e das novas formas de autoritarismo que erodem a democracia e a constituição brasileira, em parte causados pela Operação Lava Jato, a fim de qualificar os respectivos profissionais nas novas tarefas a serem desempenhadas em prol da proteção do regime democrático, concretizando o art. 1º, 37, caput, 105, § único, I, 127 da Constituição, bem como os artigos pertinentes do regimento interno da ENFAM e da ESMPU, adiante elencados”.
+
+    (...)
+
+    4) DA ATUAÇÃO COM VIOLAÇÃO AO PRINCÍPIO CONSTITUCIONAL DA IMPESSOALIDADE NA PROMOÇÃO DE AÇÕES PENAIS E CÍVEIS EM FACE DE LUDIMILLA CARVALHO SERAFIM DE OLIVEIRA, REITORA DA UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO (UFERSA)
+
+    (...) em decorrência de apurações levadas a cabo pelo próprio processado, o procurador da república Emanuel de Melo Ferreira ajuizou, em 09 de fevereiro de 2021, a ação penal nº 0800170-42.2021.4.05.8401, imputando a prática dos crimes de ameaça e de prevaricação em face da reitora Ludimilla de Oliveira, bem como aforou a ação de improbidade administrativa nº 0800169-57.2021.4.05.8401 em face da mesma servidora pública federal, atribuindo-lhe violação de princípios constitucionais em decorrência, em síntese, de tentativa de criminalizar, reiteradamente, manifestações estudantis; de ameaçar aluna que exerceu crítica dentro dos limites constitucionais; de silenciar e intimidar estudantes contrários à sua nomeação; de editar atos cerceadores da liberdade de expressão; de não realizar a colação de grau no dia inicialmente previsto, retardando unicamente para atender a interesse pessoal e; de veicular informações falsas sobre a atuação do MPF.
+
+    Verifica-se que na denúncia formulada, o processado requereu a suspensão do exercício da função pública da reitora Ludimilla de Oliveira, ao passo que, na ação de improbidade administrativa, postulou o afastamento da agente pública de suas funções.
+
+    Conforme o que restou consignado na decisão monocrática de instauração do PAD, lavrada por mim enquanto Corregedor Nacional do Ministério Público, a ação penal nº. 0800170-42.2021.4.05.8401 foi proposta com evidente conotação de imposição ideológica, haja vista que pretendia instrumentalizar a formação de juízes e procuradores através de marcos teóricos de referência ao processado, objetivando pautar o conteúdo programático da Escola Nacional de Formação e Aperfeiçoamento de Magistrados (ENFAM) e da Escola Superior do Ministério Público da União (ESMPU).
+
+    Vale acrescentar que a petição inicial foi indeferida pelo magistrado competente, o qual extinguiu o feito sem resolução de mérito. Destaco os seguintes trechos da decisão judicial acerca dos pedidos formulados pelo processado:
+
+    “Como se pode observar, o pedido formulado nesta ação não busca qualquer indenização, reparação ou restauração efetiva da pretensa ordem jurídica violada; o escopo é outro, qual seja, o de instrumentar intelectualmente juízes e procuradores com temas que parecem caro ao proponente da ação e que, sob sua ótica, serviriam para prevenir a prática de novas posturas ministeriais e judiciais atentatórias ao regime democrático. Na realidade, a pretensão ministerial é no sentido de ditar o conteúdo programático a ser observado pelas escolas de formação (ENFAM e ESMPU), com a finalidade de promover a melhor qualificação profissional de juízes e promotores para a salvaguarda da democracia, intuito esse um tanto quanto pretensioso, pois parte do pressuposto de que magistrados e procuradores, de modo geral, não teriam formação cívica suficiente ou capacidade profissional suficiente para bem desempenhar suas funções e atuar em defesa do regime democrático.
+
+    No que diz respeito às ações judiciais propostas pelo processado em desfavor da Sr. Ludimilla de Oliveira, Reitora da UFERSA, extrai-se dos autos que o processado instrumentalizou sua atuação funcional, motivando-a por fundamentos ideológicos e desviando-se do atendimento ao interesse público, com evidente afronta ao princípio constitucional da impessoalidade.
+
+    Para fins de contextualização, a cruzada ideológica do membro do MPF contra a Sra. Ludmila teve início com a discordância do processado em relação à escolha, pelo Presidente da República, da terceira colocada na lista tríplice para exercer o cargo de reitora da instituição de ensino (UFERSA), para ao mandato de 2020/2024.
+
+    A partir de sua nomeação para o exercício do cargo, ocorrida no dia 21 de agosto de 2020, a reitora Ludimilla de Oliveira passou a ser alvo de críticas por parte de integrantes da comunidade estudantil, em especial da aluna Ana Flávia Oliveira Barbosa Lira, coordenadora do Diretório Central de Estudantes da UFERSA.
+
+    Diante dos fatos, a professora Ludimilla de Oliveira representou perante a Delegacia da Polícia Federal em Mossoró/RN, a qual instaurou o inquérito policial nº 2020.0088008 com o escopo de apurar os fatos supostamente criminosos imputados à estudante Ana Flávia.
+
+    No dia 21 de setembro de 2020, o membro processado promoveu o arquivamento do inquérito policial instaurado em desfavor da estudante (nº 2020.0088008), antes mesmo da a autoridade policial confeccionar o relatório conclusivo da investigação.
+
+    Na mesma data, 21 de setembro de 2020, o processado ofertou denúncia em face da reitora Ludimilla de Oliveira, atribuindo-lhe a prática do crime de denunciação caluniosa (ação penal nº 0801241-16.2020.4.05.8401).
+
+    Esclareça-se, nesse ponto, que as condutas do processado praticadas no dia 21/09/2020 são aqui mencionadas apenas para fins de contextualização, uma vez que prescreveram em 21/09/2021.
+
+    Além disso, em 09 de fevereiro de 2021, o processado ajuizou a ação penal nº. 0800170-42.2021.4.05.8401, imputando a prática dos crimes de ameaça e de prevaricação em face da reitora, assim como a ação de improbidade administrativa nº 0800169-57.2021.4.05.8401, também em face da reitora da UFERSA.
+
+    Conforme o divulgado na página do MPF no Rio Grande do Norte , a reitora foi absolvida em sentença proferida pela 8ª Vara da Justiça Federal no Rio Grande do Norte nos autos da ação penal nº 0800170-42.2021.4.05.8401, a qual foi objeto de recurso de apelação junto ao Tribunal Regional Federal da 5ª Região (TRF5). Em grau recursal, a Justiça Federal manteve a decisão absolutória proferida pelo juízo a quo.
+
+    Dessa maneira, é forçoso reconhecer que, tanto no caso das medidas judiciais propostas contra a União em relação à operação Lava Jato (ação civil pública nº 0801513-73.2021.4.05.8401), quanto nas ações propostas contra a reitora da UFERSA (ação penal nº 0800170-42.2021.4.05.8401 e ação de improbidade administrativa nº 0800169-57.2021.4.05.8401), o membro processado se utilizou de pronunciamentos ministeriais com a finalidade de instrumentalizar seus posicionamentos de ordem política e ideológica.
+
+    Ao agir dessa maneira, o processado desviou-se da finalidade precípua do atendimento ao interesse público e praticou infrações disciplinares consistentes em violação aos deveres legais de desempenhar com zelo e probidade as suas funções e de guardar decoro pessoal, previstos no artigo 236, IX e X da LC nº 75/1.99310, que ensejam, à luz dos artigos 239, II e 240, II, segunda parte, do mesmo diploma legal, a aplicação da sanção de CENSURA.“
+
+    31. Como se depreende desses fundamentos, o CNMP, com base nos elementos de prova constantes do processo sancionador aqui sindicado, notadamente no desfecho de ações ajuizadas pelo autor, vislumbrou a existência de sua atuação com finalidade de instrumentalizar ou manifestar suas posições de ordem política ou ideológica, o que implica desvio da finalidade de atendimento ao interesse público e prática de infrações disciplinares consistentes em violação aos deveres legais de desempenhar com zelo e probidade suas funções e de guardar decoro pessoal como membro do Ministério Público Federal.
+
+    32. Conforme justificado pelo CNMP, com esse proceder, o autor desviou-se da finalidade precípua do atendimento ao interesse público e praticou infrações disciplinares capituladas no art. 236, incs. IX e X, da LC nº 75, de 1993.
+
+    33. Com relação a esse aspecto, confirma-se o quanto externando em juízo preambular, por ocasião da análise do pedido de liminar, no sentido de que o exame do ato sindicado não revela a ocorrência de flagrante injuridicidade ou manifesta falta de razoabilidade na conduta do CNMP, uma vez que, com base nos elementos de prova colhidos, se apurou a ocorrência de uma atuação, por parte do autor, com desvio de finalidade e com viés relacionado com os posicionamentos de ordem política e ideológica por ele manifestados. Esse comportamento, como pontuou o CNMP, deixa de atender ao interesse público, proceder esse que se amolda às infrações apontadas. O reconhecimento da prática dessas infrações, nos termos do art. 240, inc. II, da LC nº 75, de 1993, traz como consequência, justamente, a aplicabilidade da sanção de censura.
+
+    34. Nota-se, portanto, que, diante das características e da gravidade das infrações praticadas pelo autor, o CNMP, com o fundamento legal acima identificado, entendeu como proporcional a sanção a ele impingida (censura), não se vislumbrando, nesse proceder do Conselho, manifesta ilegalidade, injuridicidade ou irrazoabilidade que autorize a ingerência e revisão, por esta Corte, da penalidade aplicada ao autor. Esse aspecto não é refutado pelas alegações autorais e pelas provas carreadas aos autos.
+
+    35. A conclusão, portanto, é pela improcedência do pedido.
+
+Dispositivo
+
+    36. Ante o exposto, nos termos do § 1º do art. 21 do RISTF, julgo improcedente o pedido formulado nesta ação, extinguindo o processo com resolução do mérito, na forma do art. 487, inc. I, do CPC, ficando prejudicado o agravo regimental interposto contra a decisão de indeferimento do pedido de tutela de urgência.
+
+    37. Custas na forma da Lei.
+
+    38. Condeno a parte autora ao pagamento de honorários advocatícios em favor da União, os quais arbitro em R$ 5.000,00 (cinco mil reais).
+
+    Publique-se e intimem-se.
+
+    Brasília, 22 de setembro de 2025.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
