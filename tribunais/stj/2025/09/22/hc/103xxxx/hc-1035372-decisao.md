@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de ARIEL MIRANDA DA SILVA - condenado por roubo circunstanciado a 6 anos, 2 meses e 20 dias de reclusão, e 14 dias-multa -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (fls. 245/252), não comporta processamento.
+Com efeito, a impetração busca a absolvição do paciente - referente à condenação proferida na Ação Penal n. 0132019-21.2024.8.13.0024 (fls. 178/187, da 9ª Vara Criminal da comarca de Belo Horizonte/MG) -, por insuficiência de provas para a condenação, sustentando ilegalidade do reconhecimento pessoal, porque não teria observado as formalidades previstas no art. 226 do Código de Processo Penal, o que comprometeria a validade da prova (fls. 5/6).
+Sem pedido liminar.
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias destacaram que a condenação não se baseou exclusivamente no reconhecimento pessoal, mas também em elementos como a palavra da vítima e depoimentos dos guardas municipais, sob o crivo do contraditório - as declarações da vítima, ressalte-se, não constituíram elemento único de prova, estando sustentadas pelos depoimentos dos guardas municipais ouvidos em juízo, em especial Leandro Brito de Araújo, condutor do flagrante (fl. 250) -, em consonância com o entendimento desta Corte Superior (AgRg no REsp n. 2.158.910/SP, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 20/8/2025, DJEN de 28/8/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique- se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. NULIDADE. RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DO ART. 226 DO CPP. EXISTÊNCIA DE OUTRAS PROVAS QUE SUBSIDIAM A CONDENAÇÃO. PRETENSÃO DE ABSOLVIÇÃO. INVIABILIDADE. UTILIZAÇÃO INDEVIDA DO WRIT. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
