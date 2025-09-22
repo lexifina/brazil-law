@@ -1,0 +1,32 @@
+DECISÃO
+LIVALDO JOSÉ DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Revisão Criminal n. 0025432-79.2024.8.19.0000).
+Consta dos autos que o paciente foi condenado a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 35, caput, c/c 40, VI, ambos da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, a fixação da pena-base no mínimo legal, afastando-se os maus antecedentes e a personalidade, e a redução da fração de aumento pelo art. 40, VI, da Lei n. 11.343/2006.
+Decido.
+I. Pena-base
+No que tange à pretendida diminuição da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+O Juiz sentenciante, por ocasião da dosimetria da pena, elevou a pena-base acima do mínimo legal, conforme abaixo (fls. 270-271, grifei):
+O réu não deve ter sua pena arbitrada no mínimo legal pela aplicação do artigo 59 do Código Penal, que tem péssimos antecedentes, personalidade nitidamente deturpada, voltada ao mundo do crime, sem que demonstre qualquer tipo de intenção em viver sob o comando da lei.
+Levando-se em conta que o mínimo cominado ao delito é de três anos de reclusão e setecentos dias-multa, diante do que ora foi exposto, em cinco anos de reclusão e novecentos dias multa.
+O Tribunal de origem, no julgamento da revisão criminal, manteve a pena-base, nos mesmos termos do Juízo de primeiro grau.
+Verifico, assim, que a instância de origem entendeu pela imposição da pena-base acima do mínimo legal (5 anos de reclusão), em razão dos antecedentes e da personalidade do agente.
+No tocante aos antecedentes, verifico da folha de antecedentes do réu (fls. 334-342) que consta alguns processos com trânsito em julgado, todavia, as anotações dizem respeito a condenações muito antigas (trânsito em julgado em 1983 e 1984), motivo pelo qual, dada tal peculiaridade, não há como reconhecer a existência de maus antecedentes em desfavor do paciente.
+Saliento - frise-se - que não estou afirmando que o mero decurso do período depurador da reincidência seja suficiente para, por si só, impedir toda e qualquer valoração sobre os antecedentes, até porque a hipótese prevista no art. 64, I, do Código Penal trata tão somente da reincidência. Da mesma forma, não estou, simplesmente, descuidando de observar o entendimento do Supremo Tribunal Federal (RE n. 593.818/SC) de que condenações prévias, com trânsito em julgado há mais de 5 anos, apesar de não ensejarem reincidência, podem servir de alicerce para valoração desfavorável dos antecedentes.
+Contudo, considero que eternizar a valoração negativa dos antecedentes para ensejar o aumento da pena-base, sem nenhuma ponderação sobre as circunstâncias do caso concreto, não se coaduna com os fins do Direito Penal.
+Assim, embora, em regra, o decurso do período de 5 anos previsto no inciso I do art. 64 do CP não afaste a valoração negativa da condenação anterior a título de maus antecedentes, entendo que, dadas as peculiaridades do caso analisado, não há como se valorar desfavoravelmente a circunstância judicial mencionada, em decorrência de fatos praticados há tanto tempo.
+Diante de tais considerações, deve ser afastada a desfavorabilidade dos antecedentes.
+Quanto à personalidade do agente, destacou o Magistrado que é "nitidamente deturpada, voltada ao mundo do crime, sem que demonstre qualquer tipo de intenção em viver sob o comando da lei" (fl. 271, grifei).
+Observo, todavia, que a instância de origem mencionou elementos genéricos e inidôneos, inerentes ao delito de associação para o tráfico de entorpecentes para justificar o aumento. Assim, também deve ser afastada a análise desfavorável dessa vetorial, e, por conseguinte, ser reduzida a pena-base imposta ao réu para o mínimo legalmente previsto (3 anos de reclusão e pagamento de 700 dias-multa).
+II. Fração da majorante do art. 40, VI, da Lei n. 11.343/2006
+Em relação ao pedido de fixação da fração de 1/6 para a majorante do art. 40, VI, da Lei n. 11.343/2006, noto que a questão esbarra na falta de interesse de agir, uma vez que a Corte de origem, no julgamento da revisão criminal, reduziu o percentual para 1/6, conforme fl. 71.
+III. Nova dosimetria
+Na primeira fase, a pena-base foi fixada em 3 anos de reclusão e 700 dias-multa, conforme acima analisado. Na segunda etapa, presente a agravante do art. 62, I, do CP, elevo a reprimenda em 1/6.
+Na terceira fase, presente a majorante do art. 40, VI, da Lei de Drogas aumento reprimenda em 1/6, portanto, fica a sanção do réu definitivamente estabelecida em 4 anos e 1 mês de reclusão e pagamento de 932 dias-multa.
+Fixo o regime inicial semiaberto de cumprimento de pena, tendo em vista o quantum de pena estabelecido.
+IV. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, concedo a ordem, a fim de redimensionar a pena-base e, por conseguinte, reduzir a reprimenda do réu para 4 anos e 1 mês de reclusão e pagamento de 932 dias-multa e fixar o regime semiaberto de cumprimento de pena.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
