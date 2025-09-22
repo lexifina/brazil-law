@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. FUNDAMENTAÇÃO SUFICIENTE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo de CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI contra decisão que inadmitiu seu recurso especial. O apelo extremo, fundamentado no art. 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AÇÃO ORDINÁRIA. CUMPRIMENTO DE SENTENÇA. PREVIDÊNCIA PRIVADA. SENTENÇA QUE HOMOLOGOU O CÁLCULO DA PERÍCIA E EXTINGUIU O FEITO. DESCONSTITUIÇÃO. NÃO OBSERVÂNCIA DA SISTEMÁTICA DE CÁLCULO DETERMINADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO TEMA 677.
+I. TRATA-SE DE AÇÃO ORDINÁRIA EM FASE DE CUMPRIMENTO DE SENTENÇA NA QUAL A FUNDAÇÃO REQUERIDA FOI CONDENADA A PAGAR A AUTORA OS VALORES REFERENTES ÀS SUAS CONTRIBUIÇÕES AO PLANO DE BENEFÍCIOS. APÓS O TRÂNSITO EM JULGADO DA SENTENÇA DA FASE DE CONHECIMENTO, A AUTORA AJUIZOU O CUMPRIMENTO DE SENTENÇA E A REQUERIDA OPÔS IMPUGNAÇÃO, A QUAL FOI JULGADA PARCIALMENTE PROCEDENTE, TENDO O FEITO SIDO ENCAMINHADO À PERÍCIA PARA ELABORAÇÃO DO CÁLCULO DA VALOR DEVIDO, CONSIDERANDO QUE A RÉ REALIZOU DEPÓSITO PARA GARANTIA DO JUÍZO. SOBREVEIO A SENTENÇA QUE HOMOLOGOU OS CÁLCULOS DA PERITA, DETERMINANDO O LEVANTAMENTO DOS VALORES DEPOSITADOS E EXTINGUINDO A EXECUÇÃO. AMBAS AS PARTES SE INSURGIRAM, A RÉ DISCORDANDO DO CÁLCULO ELABORADO POR SUPOSTAMENTE NÃO TER RESPEITADO AS DECISÕES TRANSITADAS EM JULGADO NO FEITO, ENQUANTO QUE A AUTORA EMBORA CONCORDE COM O CÁLCULO SE INSURGE CONTRA A NÃO UTILIZAÇÃO DO SISTEMÁTICA DE CÁLCULO DEFINIDA PELO STJ NO JULGAMENTO DO TEMA 677.
+II. O EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA REVISOU O POSICIONAMENTO ENTÃO ADOTADO QUANTO À COBRANÇA DOS ENCARGOS MORATÓRIOS APÓS O DEPÓSITO JUDICIAL REALIZADO PELO EXECUTADO, ATRAVÉS DO JULGAMENTO DO RESP Nº 1.820.963/SP, TEMA 677, PASSANDO A ENTENDER QUE, "NA EXECUÇÃO, O DEPÓSITO EFETUADO A TÍTULO DE GARANTIA DO JUÍZO OU DECORRENTE DA PENHORA DE ATIVOS FINANCEIROS NÃO ISENTA O DEVEDOR DO PAGAMENTO DOS CONSECTÁRIOS DE SUA MORA, CONFORME PREVISTOS NO TÍTULO EXECUTIVO, DEVENDO-SE, QUANDO DA EFETIVA ENTREGA DO DINHEIRO AO CREDOR, DEDUZIR DO MONTANTE FINAL DEVIDO O SALDO DA CONTA JUDICIAL".
+III. NESSA LINHA, A PARTIR DA TESE FIRMADA PELO EGRÉGIO STJ, QUE NÃO SOFREU A MODULAÇÃO DE EFEITOS, O NOVO ENTENDIMENTO ACERCA DO TEMA 677 PASSA A SER APLICADO DE FORMA IMEDIATA A TODOS OS PROCESSOS EM TRÂMITE, INDEPENDENTEMENTE DO TRÂNSITO EM JULGADO. PRECEDENTES DESTA CORTE.
+IV. NO CASO EM TELA, O CÁLCULO REALIZADO PELA PERÍCIA JUDICIAL FOI REALIZADO UTILIZANDO A SISTEMA DE CÁLCULO ANTERIOR, APURANDO O VALOR DA DÍVIDA ATÉ A DATA DO DEPÓSITO SOMENTE, E NÃO ATÉ O PRESENTE MOMENTO, MOTIVO PELO QUAL SE ENCONTRA TOTALMENTE EQUIVOCADO, DEVENDO SER DESCONSTITUÍDA A SENTENÇA PARA ELABORAÇÃO DE NOVO CÁLCULO, LEVANDO EM CONSIDERAÇÃO TODAS AS DECISÕES TRANSITADAS EM JULGADO NA FASE DE CONHECIMENTO E NA FASE DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.
+APELAÇÃO DA AUTORA PARCIALMENTE PROVIDA.
+APELAÇÃO DA RÉ PREJUDICADA" (e-STJ fls. 1.352/1.353).
+Os embargos de declaração opostos foram desacolhidos (e-STJ fls. 1.373/1.376).
+Nas razões do especial, a recorrente aponta a violação do art. 1.022, II, do Código de Processo Civil, sob a tese de negativa de prestação jurisdicional acerca do marco temporal do Tema nº 667/STJ.
+Após a apresentação das contrarrazões (e-STJ fls. 1.405/1.408), o recurso foi inadmitido, sobrevindo o presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. FUNDAMENTAÇÃO SUFICIENTE.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto ao fato de o depósito ter sido realizado anteriormente ao julgamento do recurso que gerou o Tema nº 667/STJ, conforme se verifica do seguinte trecho do acórdão:
+" Como mencionado na referida decisão, a colenda Corte Superior revisou o posicionamento então adotado, através do julgamento do REsp nº 1.820.963/SP, Tema 677, passando a interpretar de forma diversa, ao entender que "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial".
+Da mesma forma, restou esclarecido que, no caso em tela, como o cálculo realizado pela perícia judicial foi realizado utilizando a sistema de cálculo anterior, apurando o valor da dívida até a data do depósito somente, e não até o presente momento, está totalmente equivocado, devendo ser desconstituída a sentença para elaboração de novo cálculo, levando em consideração todas as decisões transitadas em julgado na fase de conhecimento e na fase de impugnação ao cumprimento de sentença e o entendimento vigente do E. STJ.
+Ademais, descabe a reapreciação da matéria ou a rediscussão da prova em sede de embargos declaratórios" (e-STJ fl. 1.373).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do art. 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
