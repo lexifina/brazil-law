@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional, (b) inexistência de demonstração da ofensa aos artigos de lei indicados, (c) aplicação das Súmulas n. 7 e 83 do STJ e 284 do STF e (d) falta de similitude fática para comprovar o dissídio jurisprudencial (fls. 670-676).
+O acórdão do TJSP traz a seguinte ementa (fl. 546):
+APELAÇÃO. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER C. Inconformismo contra sentença que julgou procedente o pedido, apenas para compelir a operadora do plano de saúde a fornecer o tratamento prescrito ao autor (Terapia Celular CAR-T, com medicamento YESCARTA) para combater o mal que o acomete (Linfoma não Hodgking difuso de grandes células B estágio IV). Pleito de reforma. Não acolhimento. Cerceamento de defesa não configurado. Segurado acometido de mal raro. Lei nº 14.454/2022, segundo a qual o rol da ANS representa referência básica de cobertura. Medicamento com registro na ANVISA, prescrito por médico especialista. Laudo médico baseado em evidências. Negativa de cobertura em extrema desvantagem ao consumidor. Art. 51, "caput", IV, e §1º, II, do CDC. Precedentes. Sentença mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados (fls. 572-574).
+No recurso especial (fls. 577-608), fundamentado no art. 105, III, alíneas "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação:
+(i) dos arts. 489 e 1.022 do CPC/2015, afirmando haver negativa de prestação jurisdicional, "na medida em que o acórdão não enfrentou de maneira adequada a impugnação apresentada pela recorrente sobre a suposta venda de imóveis realizada pelo recorrido para custear o tratamento. A recorrente demonstrou que as vendas ocorreram antes da prescrição médica do tratamento, o que invalida a alegação de que os valores obtidos foram destinados ao pagamento do tratamento médico. No entanto, o tribunal deixou de analisar esse ponto, que era essencial para a correta avaliação do pedido de indenização por danos materiais" (fl. 606),
+(ii) dos arts. 156 e 369 do CPC/2015, argumentando que a falta da prova técnica implicaria cerceamento de defesa, e
+(iii) dos arts. 10, I, §§ 4º e 13, I, da Lei n. 9.656/1998, sustentando ser possível limitar a cobertura do remédio integrante do tratamento do câncer da parte recorrida, pois o mencionado custeio não constaria do rol - de natureza taxativa - de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS, além de que seria artigo experimental.
+Sem contrarrazões (fl. 651).
+No agravo (fls. 679-702), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 707-714).
+Decido.
+Apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente, oportunamente suscitada pela parte, qual seja, a impugnação ao pedido de reembolso das despesas médicas da contraparte, porque a venda dos imóveis supostamente realizada para custear o tratamento seria anterior à prescrição médica, motivo pelo qual seria descabido cogitar do uso do produto da alienação na cobertura do remédio mencionado na inicial e, por conseguinte, condenar a empresa, ora recorrente, ao reembolso dos valores.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente julgado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo nos próprios autos para DAR PROVIMENTO ao recurso especial , a fim de determinar o retorno dos autos ao Tribunal de origem para exame do vício apontado, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
