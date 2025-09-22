@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ALUGUÉIS E ACESSÓRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ALEGAÇÃO DE NULIDADE DA GARANTIA. AUSÊNCIA DE DUPLICIDADE. CAUÇÃO NÃO AVERBADA . REEXAME FÁTICO PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O Tribunal de origem, com base no lastro probatório colacionado aos autos e nas cláusulas contratuais, compreendeu que não houve nulidade na cláusula 20 do contrato, referente à alegada duplicidade de garantia, pois a caução não chegou nem mesmo a ser averbada. A modificação de tal entendimento demandaria o reexame de fatos, provas e de cláusulas do contrato, o que é vedado pelas Súmulas nºs 5 e 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por ARIOVALDO DA SILVA ROCHA FILHO contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE ALUGUÉIS E ACESSÓRIOS AJUIZADA POR JOSÉ CLAUDINO FERNANDES TEIXEIRA EM FACE DE BREANT - SOM PARA AUTOMÓVEIS LTDA, ARIOVALDO DA SILVA ROCHA FILHO E REGINA CELIA MARTINS ROCHA. ALEGA O AUTOR/LOCADOR QUE CELEBROU CONTRATO DE LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL COM A 1ª RÉ (BREANT - SOM), SOB A FIANÇA DO SEGUNDO (ARIOVALDO) E DA TERCEIRA RÉ (REGINA).
+ADUZ QUE O CONTRATO INICIOU EM 10/05/2008, ESTANDO OS RÉUS INAIMPLENTES COM OS ALUGUÉIS DE MARÇO, ABRIL E NOVEMBRO DE 2012, JANEIRO E SETEMBRO DE 2013, ALÉM DOS ENCARGOS E MULTA. REQUER A CONDENAÇÃO SOLIDÁRIA DOS RÉUS AO PAGAMENTO DE R$ 353.613,73.
+SENTENÇA JULGANDO PARCIALMENTE PROCEDENTE O PEDIDO . CONDENAÇÃO SOLIDÁRIA DOS RÉUS AO PAGAMENTO DOS MESES DE MARÇO, ABRIL E NOVEMBRO DE 2012, JANEIRO A JULHO DE 2013, COM MULTA DE 10%, ALÉM DOS ACRÉSCIMOS DA LOCAÇÃO (IPTU, ENERGIA ELÉTRICA E ÁGUA), TUDO COM CORREÇÃO A PARTIR DO AJUIZAMENTO DA AÇÃO E JUROS A CONTAR DA CITAÇÃO. IMPROCEDÊNCIA DO PEDIDO DE PAGAMENTO DE TAXA DE INCÊNDIO, DE IMPOSTO DE RENDA SOBRE O VALOR DO ALUGUEL E DE MULTA DE TRÊS VEZES O VALOR DO ALUGUEL.
+CONDENAÇÃO DOS RÉUS AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS, ESTES FIXADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO, COM FULCRO NO ART. 85, § 2º, DO CPC.
+APELAÇÃO DO RÉU/FIADOR ARIOVALDO DA SILVA ROCHA FILHO.
+REQUER QUE SEJA DECLARADA NULA A CLÁUSULA DO CONTRATO QUE PREVÊ FIANÇA E CAUÇÃO COMO GARANTIA LOCATÍCIA, COM A CONSEQUENTE EXCLUSÃO DOS FIADORES DO POLO PASSIVO DA DEMANDA. REQUER, AINDA, QUE SEJA APLICADO O ART.
+86 DO CPC COM RELAÇÃO ÀS DESPESAS PROCESSUAIS.
+SENTENÇA QUE NÃO MERECE REFORMA.
+INEXISTÊNCIA DE DUPLICIDADE DE GARANTIA, A TEOR DO ART. 37, § 1º, DA LEI 8.245/91. CAUÇÃO DO IMÓVEL QUE NÃO FOI REGISTRADA, NOS TERMOS DO ART. 38, § 1º, DA LEI 8.245/91.
+NULIDADE DA CAUÇÃO QUE NÃO SE ESTENDE PARA A FIANÇA, GARANTIA PRESTADA EM PRIMEIRO LUGAR. LEGITIMIDADE PASSIVA CONFIGURADA.
+AUTOR QUE SUCUMBIU EM PARTE MÍNIMA DO PEDIDO. DESPESAS E HONORÁRIOS SUCUMBENCIAIS QUE OBSERVARAM ESTRITAMENTE A EXEGESE DO ART. 85, § 2º, C/C 86, § ÚNICO, DO CPC. PRECEDENTES JURISPRUDENCIAIS DESTA CORTE. NÃO PROVIMENTO DA APELAÇÃO" (e-STJ fl. 450).
+Os embargos de declaração opostos foram parcialmente acolhidos, conforme se demonstra com a seguinte ementa:
+"1. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO RÉU EM FACE DO ACÓRDÃO QUE NEGOU PROVIMENTO À SUA APELAÇÃO CONTRA A SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO.
+2. EMBARGOS DE DECLARAÇÃO PRETENDENDO O PROVIMENTO PARA SUPRIR SUPOSTA OMISSÃO, O QUE NÃO SE VERIFICOU, EIS QUE AS QUESTÕES ENFRENTADAS FORAM SUFICIENTES PARA EMBASAR A DECISÃO, BEM COMO DE ERRO MATERIAL NA EMENTA, ALÉM DO PREQUESTIONAMENTO PARA LEVAR A MATÉRIA ÀS INSTÂNCIAS SUPERIORES.
+3. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE, VEZ QUE O EMBARGANTE PRETENDE, EM VERDADE, A REFORMA DA DECISÃO.
+4. PROVIMENTO PARCIAL DOS EMBARGOS TÃO SOMENTE PARA SUPRIR O ERRO MATERIAL CONSTANTE APENAS NA EMENTA DO ACÓRDÃO, MANTENDO OS DEMAIS TERMOS PELOS SEUS PRÓPRIOS FUNDAMENTOS" (e-STJ fl. 471).
+No recurso especial, o recorrente aduz, além de divergência jurisprudencial, violação dos seguintes dispositivos legais, com as respectivas teses:
+(i) arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação e negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios; e
+(ii) arts. 37, parágrafo único, 43, II, da Lei 8.245/1991 - pois o julgador deve auferir qual garantia deve subsistir, sendo indispensável que se declare a invalidade da que foi instituída em excesso.
+Apresentadas as contrarrazões (e-STJ fls. 510/515), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ALUGUÉIS E ACESSÓRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ALEGAÇÃO DE NULIDADE DA GARANTIA. AUSÊNCIA DE DUPLICIDADE. CAUÇÃO NÃO AVERBADA . REEXAME FÁTICO PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O Tribunal de origem, com base no lastro probatório colacionado aos autos e nas cláusulas contratuais, compreendeu que não houve nulidade na cláusula 20 do contrato, referente à alegada duplicidade de garantia, pois a caução não chegou nem mesmo a ser averbada. A modificação de tal entendimento demandaria o reexame de fatos, provas e de cláusulas do contrato, o que é vedado pelas Súmulas nºs 5 e 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à nulidade da garantia, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+O acórdão atacado traz consigo todos os elementos indispensáveis à sua perfeita inteligência, sendo certo que a questão referente à pretensa nulidade da caução prestada no contrato de locação foi expressamente analisada com base na legislação pertinente e em cotejo com o conjunto probatório , conforme se depreende da leitura dos seguintes trechos:
+(..)
+Portanto, o simples fato de não aderir às teses esposadas pela parte não equivale, por óbvio, a tornar contraditória, omissa ou obscura a decisão.
+Importa observar que, mesmo após o advento no novo Código de Processo Civil, prevalece no Superior Tribunal de Justiça o entendimento de que "o julgador não é obrigado a rebater cada um dos argumentos aventados pela defesa ao proferir decisão no processo, bastando que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões da parte" (AgRg no AREsp 1009720/SP, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 25/04/2017, DJe 05/05/2017)" (e-STJ fl. 475).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+No que diz respeito à alegada nulidade da cláusula 20 do contrato de locação, as conclusões do Colegiado local decorreram inquestionavelmente da análise da interpretação de cláusulas contratuais e do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"(..)
+A cláusula 20 do Contrato de locação que deu origem ao débito objeto da ação de cobrança previa o seguinte:
+"DA GARANTIA - Como FIADOR (A)(ES)(AS) e principal (is) pagador (a)(es)(as), solidariamente responsável(is) com o (a)(s) LOCATÁRIO(A)(S) por todas as cláusulas e condições do presente contrato, nos termos do Código Civil e das demais disposições legais aplicáveis, assina(m) o presente a(s) pessoa (s) qualificada (s) na alínea (d) da cláusula primeira, obrigação essa que assume (m) até a efetiva entrega das chaves, declarando ele (a) expressamente que desistem das faculdades estabelecidas nos artigos 835 e 838 do Código Civil, e declaram expressamente que possuem a propriedade do apartamento 305 do Bloco 02 do "Condomínio Residencial Caminho Del Mar" situado na Av. das Américas, 13.550, devidamente registrado na matrícula nº226.077, junto ao 9º ofício de Registro de Imóveis, que ora fica em garantia ao cumprimento de todas as cláusulas do presente contrato."
+Há que se observar que a caução do imóvel prevista no contrato de locação não chegou sequer a ser averbada, nos termos do art. 38, § 1º, da Lei 8245/91, s endo certo que, em havendo duas garantias previstas no contrato de locação, deve ser tida como nula apenas aquela excedente, qual seja, a caução do imóvel, nulidade essa que não se estende para a fiança, como pretende o apelante, eis que se trata de garantia prestada em primeiro lugar pelo apelante e sua mulher.
+(..)
+No mérito, verifica-se que o bem imóvel foi restituído ao locador em julho de 2013, não tendo o autor controvertido essa afirmação. Em vista disso, não se torna viável nenhuma cobrança posterior a essa data.
+Evidente, ainda, o "bis in idem" relativo à multa contratual de três alugueres, prevista na cláusula 14 do contrato, tendo em vista que ela não pode ser aplicada quando a infração contratual for o atraso no pagamento dos alugueres e encargos, quando então se impõe a multa de 10% sobre o valor do débito, como previsto na cláusula 13" (e-STJ fls. 455/456).
+Nesse contexto, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal para aferir se a nulidade da caução se estende para a fiança demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Em reforço:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. FIANÇA ORIGINALMENTE PRESTADA POR FIADOR SOLTEIRO, PORÉM CASADO AO TEMPO DA PRORROGAÇÃO DO CONTRATO. AUSÊNCIA DE OUTORGA UXÓRIA. MÁ-FÉ NÃO RECONHECIDA PELO TRIBUNAL A QUO. SÚMULAS 5 E 7/STJ. NULIDADE DA GARANTIA. RECURSO DESPROVIDO.
+1. A fiança prestada sem autorização de um dos cônjuges implica a ineficácia total da garantia (Súmula 332/STJ), salvo se o fiador emitir declaração falsa, ocultando seu estado civil.
+2. Nos termos do consignado no acórdão recorrido, o fiador seria solteiro quando da celebração do contrato de locação, mas já se encontrava casado ao tempo da prorrogação do ajuste, quando prestou nova fiança sem a anuência do cônjuge. O Tribunal de origem, no entanto, examinando o contexto fático-probatório dos autos e as cláusulas do contrato de locação, concluiu que não haveria base para reconhecer que o fiador ocultou maliciosamente o fato de ser casado quando do aditamento à locação. Nesses termos, a revisão do julgado, a fim de reconhecer a má-fé do fiador, demandaria, necessariamente, o reexame do acervo fático-probatório dos autos e interpretação de cláusulas contratuais, inviável em sede de recurso especial (Súmulas 5 e 7 do STJ).
+3. Agravo interno não provido."
+(AgInt no AREsp 1.566.302/SP, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 21/6/2021, DJe de 1º/7/2021)
+Anota-se, ainda, que a aplicação das Súmulas nºs 5 e 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
