@@ -1,0 +1,109 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ABUSO DE DIREITO NA COBRANÇA DE DÍVIDA. DANOS MORAIS CONFIGURADOS. REEXAME DE PROVAS. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. REVISÃO VEDADA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do recurso especial manejado por sociedade de advocacia condenada ao pagamento de indenização por danos morais, em razão da prática de abuso de direito na cobrança de dívida de terceiro, consistente na realização de inúmeras ligações telefônicas ao autor. O Tribunal de origem fixou a reparação em R$ 6.000,00 (seis mil reais), entendendo configurado o ilícito e observados os critérios de proporcionalidade e razoabilidade.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível, em recurso especial, reexaminar a prova para afastar a configuração do dano moral; (ii) verificar se o valor fixado a título de indenização por danos morais pode ser revisto pela instância superior.
+III. RAZÕES DE DECIDIR
+3. A revisão da conclusão da Corte estadual acerca da configuração do dano moral demanda reexame do acervo fático-probatório, providência vedada pela Súmula 7/STJ.
+4. A jurisprudência do STJ admite a revisão do quantum indenizatório apenas em hipóteses excepcionais, quando fixado em valores irrisórios ou exorbitantes, o que não se verificou, tendo em vista a indenização arbitrada em R$ 6.000,00.
+IV. DISPOSITIVO
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Ministro Marco Aurélio Bellizze, que conheceu do agravo para não conhecer do recurso especial.
+A parte agravante sustenta que a decisão deve ser reformada, uma vez que não há que se falar em dano moral in re ipsa em razão de mera cobrança indevida, quando ausente ato restritivo de crédito ou inscrição do consumidor em cadastros de inadimplentes, conforme entendimento consolidado pelo Superior Tribunal de Justiça.
+Alega, ainda, a banalização do instituto do dano moral no Brasil, argumentando que equívocos sem dolo vêm sendo automaticamente considerados como ensejadores de indenização, em desacordo com a finalidade do instituto. Defende, portanto, que o acórdão deve afastar a condenação por danos morais.
+Subsidiariamente, caso mantida a condenação, a peticionária requer a adequação do quantum indenizatório, de modo que observe os princípios da razoabilidade e proporcionalidade, além dos parâmetros usualmente fixados pelo STJ em casos análogos.
+Argumenta também que não há óbice da Súmula 7/STJ, uma vez que a controvérsia não envolve reexame do conjunto fático-probatório, mas apenas a correta aplicação dos critérios jurídicos de valoração da prova e formação da convicção.
+Requer o conhecimento e provimento do Agravo Interno, a fim de viabilizar a análise do Recurso Especial e reformar a decisão monocrática impugnada.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ABUSO DE DIREITO NA COBRANÇA DE DÍVIDA. DANOS MORAIS CONFIGURADOS. REEXAME DE PROVAS. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. REVISÃO VEDADA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do recurso especial manejado por sociedade de advocacia condenada ao pagamento de indenização por danos morais, em razão da prática de abuso de direito na cobrança de dívida de terceiro, consistente na realização de inúmeras ligações telefônicas ao autor. O Tribunal de origem fixou a reparação em R$ 6.000,00 (seis mil reais), entendendo configurado o ilícito e observados os critérios de proporcionalidade e razoabilidade.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível, em recurso especial, reexaminar a prova para afastar a configuração do dano moral; (ii) verificar se o valor fixado a título de indenização por danos morais pode ser revisto pela instância superior.
+III. RAZÕES DE DECIDIR
+3. A revisão da conclusão da Corte estadual acerca da configuração do dano moral demanda reexame do acervo fático-probatório, providência vedada pela Súmula 7/STJ.
+4. A jurisprudência do STJ admite a revisão do quantum indenizatório apenas em hipóteses excepcionais, quando fixado em valores irrisórios ou exorbitantes, o que não se verificou, tendo em vista a indenização arbitrada em R$ 6.000,00.
+IV. DISPOSITIVO
+5. Agravo interno desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 406-410):
+Ao julgar a apelação, a Corte estadual destacou que houve manifesto abuso do direito de cobrança de crédito, diante do número excessivo de ligações diárias que a agravante passou a realizar, ponderando as seguintes particularidades do caso concreto (e-STJ, fls.249-253; sem destaques no original):
+Trata-se de recurso de apelação interposto pela ré Advocacia Bellinati e Perez contra a sentença que reconheceu a conduta abusiva da parte ao realizar reiteradas ligações de cobrança de dívida de terceiro ao autor, causando-lhe dano moral.
+Pois bem.
+Em que pese alegue o requerente que não haveriam provas nos autos de que as ligações recebidas pelo autor seriam provenientes de telefones de sua propriedade, tal fundamentação não se sustenta.
+Isto porque, analisando o conteúdo probatório carreado aos autos, em especial o histórico de ligações do autor (mov. 5.5) e os ramais de propriedade do réu (movs. 92.2 e 92.4), é possível se verificar que as ligações recebidas, de fato, foram efetuadas pela requerida.
+Veja-se, a título exemplificativo, que somente dos números de tronco 412102 e 412102 foram recebidas 27 (vinte e sete) ligações comprovadas nos autos (mov. 5.5) em período inferior a 2 (dois) meses, sendo que o número pertence a ré, conforme se observa nas linhas 15 e 17 da tabela de mov. 92.4. Sem contar diversas ligações com a alcunha "Procura Sidney", nos mais variados horários, em todos os períodos do dia.
+Ademais, das informações prestadas pelas operadoras de telefonia (movs. 92.2 a 92.4), a requerida possui 3350 (três mil trezentos e cinquenta) ramais telefônicos junto a Embratel e 1650 (mil seiscentos e cinquenta) junto a OI - sem contar as possivelmente oriundas de demais operadoras - o que corrobora a afirmação do autor de que diversos números distintos realizam as ligações com o mesmo intuito.
+Assim, restam cabalmente demonstrados os inúmeros contatos realizados pela ré ao autor efetuando cobrança de dívida de terceiro.
+No tocante ao ato ilícito, sustenta a ré que as ligações dirigidas ao autor não teriam o intuito de lhe dirigir pessoalmente cobranças e que, por já ter atuado como procurador de pessoa chamada "Sidney", teria poderes para representa-lo em juízo e fora dele. Ainda, aduziu que as ligações não expuseram o requerente a situação vexatória.
+Sem razão.
+Conforme exposto, a quantidade e continuidade das ligações dirigidas ao autor ultrapassa o limite do regular exercício do direito, com a insistência configurando prática abusiva. Ademais, as ligações eram dirigidas a terceiro e, mesmo sendo devidamente informada deste fato, a ré não se absteve de efetuar as excessivas ligações ao autor, que não tem relação pessoal com a dívida cobrada. Ressalte-se que nem mesmo a determinação liminar realizada nestes autos foi capaz de conter a conduta da requerida.
+É fato incontroverso nos autos que as dívidas não eram de responsabilidade do autor e que a manutenção das ligações se deu mesmo com a ré ciente de que o telefone não pertencia ao devedor.
+In casu, em que pese a alegação da apelante, os danos morais são evidentes.
+Este C. Tribunal de Justiça já possui jurisprudência consolidada que a abusividade de contatos telefônicos ultrapassa o mero dissabor, atingindo o direito da personalidade do autor por gerar constrangimento e interferir na sua tranquilidade.
+ ..
+Ainda, deve se levar em consideração que não resta ao requerente a possibilidade de simplesmente recusar as ligações ou bloquear os números, uma vez que a ré possui uma gama extremamente vasta de ramais, inviabilizando a identificação do chamador, e que o autor exerce a advocacia, estando sempre sujeito a ligações de eventuais clientes.
+Portanto, resta configurado o dano moral, pelo qual emerge o dever de indenizar.
+No tocante ao quantum debeatur, deve-se esclarecer que, para a fixação é preciso levar em conta critérios de razoabilidade e proporcionalidade, considerando as peculiaridades do caso concreto, a situação econômica do ofendido e do ofensor, o intuito punitivo-pedagógico e inibitório da reprimenda, de modo que tenha força para coibir a repetição da conduta reprovável. Não pode, contudo, ensejar o enriquecimento ilícito daquele que se beneficia da indenização, sendo apenas uma compensação pelos abalos morais gerados pelo ilícito cometido; com o cuidado, é claro, de que não se transforme em uma importância ínfima, que desvalorize o instituto do dano moral.
+Em outras palavras, é preciso prezar pelo equilíbrio entre a punição do ofensor e a indenização do ofendido.
+Em casos semelhantes, esta C. Câmara Cível tem aplicado indenizações em valores entre R$ 4.000,00 (quatro mil reais) e R$ 8.000,00 (oito mil reais), conforme se observa nos seguintes precedentes:
+ ..
+Ademais, da análise da exordial, se denota que o valor pleiteado pelo autor a título de indenização por danos morais é de R$ 6.000,00, de modo que é vedado ao juízo proferir decisão condenando a parte oposta em quantidade superior a demandada, configurando sentença , nos termos do art. 492. ultrapetita Sopesados os critérios acima expostos e em observância a norma citada, vislumbro que o quantum indenizatório pelos danos morais arbitrado em sentença deve ser minorado para R$ 6.000,00 (seis mil , valor que se mostra em maior consonância com os fatos narrados e o entendimento jurisprudencial. reais)
+Do trecho acima destacado, constata-se que o TJPR descreveu a prática de ato ilícito pela parte agravante, em razão do abuso do direito de cobrança, ato que feriu direitos da personalidade da parte recorrida. Ademais, a Corte de origem realizou uma análise de proporcionalidade e razoabilidade para definir a quantia a ser fixada para a recomposição financeira dos danos morais.
+Nesse contexto, não cabe a este Tribunal Superior, em recurso especial, novo julgamento do caso concreto, pois, para isso, é imprescindível a reanálise do acervo fático-probatório dos autos, o que não é admissível, tendo em vista o óbice previsto na Súmula 7/STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. ABUSO DE DIREITO. DANO MORAL. CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça de Roraima decidiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A alteração das conclusões do acórdão recorrido no sentido de ficou configurado o dano moral pelo abuso de direito e de que o valor fixado como indenização por danos morais é adequado e compatível com critérios de razoabilidade e de proporcionalidade e com a repercussão dos fatos em discussão exigem reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.574.672/RR, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. ABUSO DO DIREITO DE COBRANÇA PELO COMPRADOR. EXPOSIÇÃO DA VENDEDORA A SITUAÇÃO VEXATÓRIA. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REEXAME DE PROVA.
+1. Inviável a análise do recurso especial quando dependente de reexame de matéria fática da lide (Súmula 7 do STJ).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 811.240/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/12/2015, DJe de 18/12/2015.)
+Destaque-se que a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Acerca do termo inicial dos juros de mora e correção monetária, constata-se que a parte não indicou o dispositivo de lei federal objeto do dissídio interpretativo.
+Por conseguinte, não é possível verificar se a legislação federal infraconstitucional foi, ou não, malferida, sendo de rigor a incidência da Súmula n. 284 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+De fato, para conhecer da controvérsia apresentada neste recurso, no sentido de afastar o dever de reparação do dano extrapatrimonial, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula 7 deste Superior Tribunal de Justiça, que estabelece que "A pretensão de simples reexame de prova não enseja recurso especial."
+Com efeito, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. RESPONSABILIDADE DA TRANSPORTADORA PELOS DANOS CAUSADOS A PARTE AUTORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. ALEGAÇÃO. AFASTAMENTO. 4. DANO MORAL E ESTÉTICO. REVISÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. DANOS MORAIS E ESTÉTICOS. CUMULAÇÃO. POSSIBILIDADE. SÚMULA 387/STJ. 6. TERMO INICIAL. CORREÇÃO MONETÁRIA. DATA DO ARBITRAMENTO. 7. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Esta Corte Superior entende que "o destinatário final da prova é o juiz, a quem cabe avaliar quanto a sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015" (AgInt no REsp n. 1.931.678/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 21/11/2023, DJe de 23/11/2023).
+2.1. A revisão da conclusão da instância originária acerca da não ocorrência de cerceamento de defesa esbarra na Súmula 7/STJ.
+3. A desconstituição da convicção estadual, para concluir que não estariam presentes os elementos configuradores do dever de indenizar, demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência da Súmula n. 7/STJ, não sendo caso de revaloração de prova.
+4. Relativamente ao valor arbitrado por danos morais e estéticos, dispõe a jurisprudência do Superior Tribunal de Justiça que a alteração do valor estabelecido pelas instâncias ordinárias só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo, o que não se constatou no caso em análise.
+5. Ressalte-se que, a jurisprudência do Superior Tribunal de Justiça é enfática em permitir a cumulação das indenizações de dano moral com o estético, entendimento este consolidado, inclusive, na Súmula 387/STJ.
+6. A correção monetária das importâncias fixadas a título de danos morais incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+7. Agravo interno improvido.
+(AgInt no REsp n. 2.036.463/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL OBJETIVA DA CONCESSIONÁRIA. NEXO DE CAUSALIDADE. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. REDUÇÃO DO QUANTUM DEVIDO A TÍTULO DE REPARAÇÃO DO DANO MORAL. IMPOSSIBILIDADE. ARBITRAMENTO RAZOÁVEL E PROPORCIONAL. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7 DESTA CORTE.
+1. Observa-se da leitura do Voto condutor que as conclusões nele registradas foram obtidas com base no acervo de fatos e provas dos autos. A partir desses elementos, a Corte estadual confirmou a responsabilidade civil da parte Agravante atribuindo-lhe o dever de indenizar e de reparar o dano acometido às partes Agravadas.
+2. A tentativa de modificar o quadro fático para alterar o resultado do julgamento, conforme estabelecido pelo Tribunal a quo - senhor da análise probatória -, perpassa pela necessidade de fixar premissa diversa da que consta do aresto impugnado.
+3. Nessa linha, para aferir se a concessionária é ou não responsável pelo dano material e moral em questão, necessário seria revolver o acervo fático-probatório dos autos, o que é inviável diante da incidência do Enunciado da Súmula 7 desta Corte.
+4. Do mesmo modo, verifica-se que a busca pela revisão do quantum devido à título de reparação de dano moral, decorrente do óbito da vítima, não comporta, via de regra, redução ou majoração do valor nesta esfera judicial.
+5. A utilização da excepcionalidade, que confere o afastamento do óbice sumular 7 do STJ, não se enquadra no caso dos autos, uma vez que a Corte de origem com base nas circunstâncias fáticas apuradas em juízo, reduziu o montante arbitrado na sentença de R$ 200.000,00 (duzentos mil reais) para R$ 100.000,00 (cem mil reais), a ser dividido entre a viúva e seus três filhos.
+6. Nessa esteira, não se reconhece desproporcionalidade nem irrazoabilidade no valor devido. Portanto, igualmente, inviável o apelo nobre, na medida em que alterar os fundamentos do acórdão recorrido exige reexame do conjunto fático-probatório dos autos.
+Novamente, aplica-se a Súmula 7/STJ.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.208.522/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/3/2023, DJe de 27/3/2023.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Relativamente ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Superior Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto apenas nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade.
+Na hipótese em exame, levando-se em consideração as particularidades do caso concreto consignadas pelo acórdão recorrido, verifica-se que a quantia indenizatória fixada pelo Tribunal de origem em R$ 6.000,00 (seis mil reais), não se mostra exorbitante, tendo sido observados os princípios da proporcionalidade e da razoabilidade, motivo pelo qual sua revisão é obstada pela Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
