@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. OFENSA AO ART. 4º, V, DA LEI 4.595/64. DISPOSITIVO DISSOCIADO DA TESE RECURSAL. SÚMULA 284/STF. VIOLAÇÃO DO ART. 3º DA RESOLUÇÃO 3.695/2009 DO CMN E DO ART. 6º DA RESOLUÇÃO 4.790/2020 DO BANCO CENTRAL. NÃO CABIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Incide a Súmula 284 do STF quando, na fundamentação recursal, se alega violação de dispositivo legal, cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+2. O STJ consolidou o entendimento de que é incabível a análise de recurso especial que tenha por fundamento violação a resoluções, instruções normativas, portarias, circulares, regulamentos ou regimentos internos dos Tribunais, por não estarem tais atos normativos compreendidos na expressão "Lei Federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por RICARDO CONDE TEIXEIRA, fundamentado no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), assim ementado:
+"DIREITO CIVIL E DO CONSUMIDOR. APELAÇÃO CÍVEL. MÚTUO BANCÁRIO. AUTORIZAÇÃO DE DÉBITO EM CONTA CORRENTE. CLÁUSULA DE IRREVOGABILIDADE. LEGALIDADE. BOA-FÉ OBJETIVA E FORÇA OBRIGATÓRIA DOS CONTRATOS. CANCELAMENTO UNILATERAL SEM RECONHECIMENTO DE IRREGULARIDADE. IMPOSSIBILIDADE. REFORMA DA SENTENÇA. RECURSO DO BANCO PROVIDO. RECURSO DO AUTOR PREJUDICADO.
+I. CASO EM EXAME
+1. Apelações cíveis interpostas contra sentença que, em ação de obrigação de fazer, julgou parcialmente procedente o pedido inicial, determinando ao banco a abstenção de descontos referentes ao contrato de empréstimo, sob pena de multa equivalente ao valor do débito. O banco apelante pleiteia, preliminarmente, o efeito suspensivo e, no mérito, a manutenção da cláusula de desconto automático em conta corrente. O autor requer a restituição dos valores descontados e a fixação dos honorários advocatícios com base na tabela da OAB/DF.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) avaliar o cabimento do efeito suspensivo à apelação do banco; (ii) definir se é válida a cláusula de irrevogabilidade da autorização de desconto em conta corrente em contrato de mútuo bancário; (iii) examinar a possibilidade de majoração dos honorários advocatícios com base na tabela da OAB/DF.
+III. RAZÕES DE DECIDIR
+3. O pedido de efeito suspensivo deve ser formulado por petição autônoma, nos termos do art. 1.012, § 3º, do CPC. Como não observada essa exigência, o pleito do banco, nesse ponto, deve ser rejeitado.
+4. A relação jurídica entre as partes está submetida às normas do Código de Defesa do Consumidor, conforme os arts. 2º e 3º, dada a condição de pessoa física do autor e sua qualidade de destinatário final dos serviços bancários.
+5. A Resolução nº 4.790/2020 do Conselho Monetário Nacional prevê o direito ao cancelamento da autorização de débito apenas nas hipóteses em que o titular da conta declare que não a reconhece. No caso, não houve essa declaração, sendo inaplicável a previsão normativa para fins de cancelamento unilateral.
+6. Conforme o Tema Repetitivo nº 1.085/STJ (REsp 1.863.973/SP), é lícito o desconto em conta corrente de parcelas de empréstimos bancários comuns, desde que autorizado pelo mutuário e enquanto persistir tal autorização. A cláusula de irrevogabilidade é válida e não abusiva, especialmente quando configurada como condição essencial para a concessão do crédito.
+7. A cláusula de irrevogabilidade, expressamente pactuada no contrato (cláusula 18ª), constitui exercício regular da autonomia da vontade, em conformidade com os princípios da força obrigatória dos contratos e da boa-fé objetiva (arts. 421 e 422 do CC), não havendo desequilíbrio contratual ou onerosidade excessiva a justificar intervenção judicial.
+8. A revogação da autorização de débito sem o reconhecimento de irregularidade viola a expectativa legítima da instituição financeira, além de configurar comportamento contraditório por parte do mutuário.
+9. A tabela da OAB/DF é ato infralegal e não vincula o julgador. A fixação de honorários por equidade, nos termos do art. 85, § 8º, do CPC, é admitida em causas de valor inestimável, como no presente caso.
+IV. DISPOSITIVO E TESE
+10. Recurso do banco provido. Recurso do autor prejudicado.
+Tese de julgamento: 1. O pedido de efeito suspensivo à apelação, nas hipóteses do art. 1.012, § 1º, do CPC, deve ser formulado por petição autônoma, sendo inviável sua análise em sede de contrarrazões. 2. A cláusula de irrevogabilidade da autorização de débito em conta corrente, quando previamente pactuada como condição essencial do contrato de mútuo, é válida, legal e eficaz, não configurando prática abusiva. 3. O cancelamento unilateral da autorização de débito automático somente é admissível se houver declaração de não reconhecimento da autorização, nos termos da Resolução nº 4.790/2020 do CMN. 4. A tabela da OAB/DF não vincula o magistrado, sendo legítima a fixação de honorários por equidade, nos moldes do art. 85, § 8º, do CPC." (e-STJ, fls. 318-319)
+Em suas razões recursais (e-STJ, fls. 316-333), a parte alega violação dos arts. 4º, V, da Lei 4.595/64; 3º, § 2º, da Resolução CMN 3.695/2009, com redação dada pela Resolução 4.480/2016; e 6º da Resolução 4.790/2020 do Banco Central, sustentando, em síntese, que:
+(a) A decisão recorrida teria desconsiderado o direito do titular da conta de cancelar a autorização de débitos, conforme previsto nas normas mencionadas, alegando que a cláusula de irrevogabilidade é válida, e não abusiva, o que contraria a legislação que assegura tal direito;
+(b) A Resolução 4.790/2020 do Banco Central não limita o cancelamento da autorização de débitos apenas aos casos de não reconhecimento da autorização, permitindo que o titular solicite o cancelamento por meio da instituição destinatária.
+Foram apresentadas contrarrazões (e-STJ, fls. 403-407).
+O recurso recebeu crivo positivo de admissibilidade na origem.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. OFENSA AO ART. 4º, V, DA LEI 4.595/64. DISPOSITIVO DISSOCIADO DA TESE RECURSAL. SÚMULA 284/STF. VIOLAÇÃO DO ART. 3º DA RESOLUÇÃO 3.695/2009 DO CMN E DO ART. 6º DA RESOLUÇÃO 4.790/2020 DO BANCO CENTRAL. NÃO CABIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Incide a Súmula 284 do STF quando, na fundamentação recursal, se alega violação de dispositivo legal, cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+2. O STJ consolidou o entendimento de que é incabível a análise de recurso especial que tenha por fundamento violação a resoluções, instruções normativas, portarias, circulares, regulamentos ou regimentos internos dos Tribunais, por não estarem tais atos normativos compreendidos na expressão "Lei Federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. Recurso especial não conhecido.
+VOTO
+Inicialmente, verifica-se a deficiência na fundamentação recursal, tendo em vista que a alegação de ofensa ao art. 4º, V, da Lei 4.595/64 não tem força normativa suficiente para reformar o acórdão impugnado.
+Isso, porque tal dispositivo, contido nas razões do recurso especial, engloba normatividade que não possui relação com a fundamentação exposta nas razões de decidir do acórdão recorrido.
+Portanto, não há pertinência entre os dispositivos legais e a temática discutida nos autos, não tendo, assim, os artigos apontados como violados força normativa suficiente para reformar o acórdão impugnado, razão pela qual se aplica o óbice previsto na Súmula 284/STF. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. RESCISÃO CONTRATUAL E REINTEGRAÇÃO DE POSSE. (1) FUNDAMENTOS DO ACÓRDÃO ESTADUAL QUANTO AO NÃO CABIMENTO DA VIA RESCISÓRIA. NÃO IMPUGNAÇÃO. SÚMULA N.º 283 DO STF. (2) PERTINÊNCIA TEMÁTICA. NÃO OBSERVÂNCIA. SÚMULA N.º 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Persiste a deficiência impugnativa quanto ao acórdão criticado que afirmou não ser cabível ação rescisória por ofensa a literal disposição de lei (jus rescindens), e, no entanto, a parte recorrente insiste apenas em defender teses do juízo rescisório (jus rescissorium).
+2. Os Tribunais são uníssonos em reprovar conduta do mandatário que excede poderes quando tal circunstância é incontroversa, o que não ocorre na presente hipótese, a atrair para o ponto os óbices das Sumulas n.os 5 e 7 do STF.
+3. Quando o fundamento do recurso traz dispositivos legais com conteúdo normativo sem alcance para a tese defendida, fica atraída a Súmula n.º 284 do STF, como óbice ao recurso especial, por analogia.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.986.450/MT, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REGISTRO DE IMÓVEIS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INEXISTÊNCIA DE EXECUÇÃO OU AÇÃO REAL OU PESSEOAL REIPERSECUTÓRIA. DISPOSITIVOS LEGAIS. PERTINÊNCIA TEMÁTICA AUSÊNCIA. SÚMULA N. 284/STF. AGRAVO E RECURSO ESPECIAL. JULGAMENTO CONJUNTO. POSSIBILIDADE. ART. 1.042, § 5º, DO CPC. NÃO PROVIMENTO.
+1. A ausência de pertinência temática entre o conteúdo normativo dos dispositivos legais e tese sustentada pelo recorrente atrai as disposições do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. "Mediante a interpretação sistemática dos artigos 932, inciso IV, e 1.042, § 5º, do CPC/2015, depreende-se não existirem óbices para que o relator julgue conjuntamente, de forma monocrática, o agravo e o recurso especial quando esses sejam contrários a jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. 1.1. Não se pode perder de vista, ainda, que essa orientação não ocasiona prejuízo às partes, porquanto resguardada a possibilidade de interposição do agravo interno objetivando forçar o exame da matéria pelo Colegiado competente". (AgInt no AREsp 767.850/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+3. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp n. 2.426.943/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/8/2024, DJe de 14/8/2024, g.n.)
+Ademais, o que a parte recorrente pretende, de fato, é discutir o conteúdo normativo do artigo 3º da Resolução CMN 3.695/2009, com redação dada pela Resolução 4.480/2016, e do artigo 6º da Resolução 4.790/2020 do Banco Central.
+Contudo, o recurso especial não é a via adequada para análise de ofensa a portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas, por não se enquadrarem no conceito de lei federal. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. LEILOEIRO OFICIAL. REMISSÃO DA DÍVIDA POSTERIOR À ARREMATAÇÃO. REMUNERAÇÃO. CRITÉRIOS DE FIXAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OFENSA A RESOLUÇÃO. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. ASPECTOS FÁTICOS DA LIDE. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTOS SUFICIENTES. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível ao caso, apenas não no sentido pretendido pela parte.
+2. É inviável a análise de violação de portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas, por não estarem inseridas no conceito de lei federal previsto no art. 105, II, "a", da Constituição Federal.
+3. Eventual conclusão em sentido contrário ao que decidiu o tribunal de origem, no tocante à concordância do próprio leiloeiro quanto aos critérios de fixação da remuneração a ele devida, dependeria do reexame de aspectos eminentemente fáticos da demanda, o que é vedado pela Súmula nº 7/STJ.
+4. A ausência de impugnação de fundamentos suficientes do acórdão recorrido atrai a aplicação da Súmula nº 283/STF.
+5. Hipótese em que o edital foi elaborado pelo próprio leiloeiro público e em desacordo com os critérios de remuneração previamente estabelecidos pelo juízo, não merecendo acolhida a alegação de que a disposição editalícia deve ser respeitada.
+6. Agravo interno não provido."
+(AgInt no REsp n. 2.079.128/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. AFRONTA À RESOLUÇÃO. INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. PREVIDÊNCIA PRIVADA. REAJUSTE CONCEDIDO AOS EMPREGADOS EM ATIVIDADE. NÃO ESTENSÍVEIS AOS APOSENTADOS.
+1. É incabível a pretensão de que esta Corte de Justiça delibere sobre a suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. O recurso especial não é via adequada para análise de ofensa a portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas, por não se enquadrarem no conceito de lei federal.
+3. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+4. É inviável estender aos benefícios de participantes de plano de previdência privada aposentados os mesmos reajustes estabelecidos por acordos coletivos de trabalho para os empregados em atividade.
+(AgInt no REsp n. 1.879.924/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 10/6/2024, DJe de 12/6/2024, g.n.)
+Com ess as considerações, conclui-se que o apelo nobre não merece ser conhecido.
+Ante o exposto, não conheço do recurso especial.
+É como voto.
