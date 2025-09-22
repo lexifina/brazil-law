@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. TRANSPORTE METROPOLITANO. LICITAÇÃO. AGRAVO NÃO PROVIDO.
+1. O acórdão embargado apreciou devidamente a matéria em debate, analisando de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia, inexistindo omissão, contradição, obscuridade ou erro material.
+2. A alteração das premissas adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+3. Agravo não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Consórcio Metropolitano de Transportes desafiando a decisão de fls. 780/783, que negou provimento ao agravo, sob os seguintes fundamentos: (I) inexistem omissão, contradição, obscuridade ou erro material, uma vez que o acórdão embargado apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia; (II) a alteração das premissas adotadas pela Corte a quo demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o obstáculo previsto na Súmula n. 7/STJ.
+A parte agravante, em suas razões, sustenta, em resumo, que: (I) há vício de fundamentação no acórdão recorrido, com ofensa aos arts. 489, § 1º, e 1.022 do CPC, pois o Tribunal de origem não considerou a natureza complementar do serviço prestado pelo agravado e a ausência de prejuízo à população, limitando-se a afirmar que estariam ausentes as hipóteses de cabimento do art. 1.022 do CPC; (II) não há óbice do susodito enunciado sumular do STJ, pois o recurso versa sobre matéria de estrito direito, não sendo hipótese de reexame de matéria fática ou probatória, mas sim de cumprimento do Tema de Repercussão Geral n. 854 do eg. STF.
+A parte agravada apresentou impugnação às fls. 801/811.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. TRANSPORTE METROPOLITANO. LICITAÇÃO. AGRAVO NÃO PROVIDO.
+1. O acórdão embargado apreciou devidamente a matéria em debate, analisando de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia, inexistindo omissão, contradição, obscuridade ou erro material.
+2. A alteração das premissas adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+3. Agravo não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não pode ser acolhida.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, VI, 926, 927, e 1.022, I, do CPC. Sustenta, em resumo, que: (I) o acórdão que julgou os embargos de declaração é nulo por não ter enfrentado a questão suscitada nos embargos, configurando negativa de prestação jurisdicional; e (II) o aresto recorrido contraria o entendimento do STF refletido no julgamento do Tema n. 854, na medida em que reconheceu o direito líquido e certo do recorrido a exercer o serviço público de transporte metropolitano em São Paulo, em que pese à declaração de inconstitucionalidade das normas estaduais que regulamentam esse serviço complementar por não preceder de licitação.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Ademais, ao reconhecer a afronta a direito líquido e certo, o Tribunal a quo consignou que (fls. 617/618):
+Contudo, examinado o conjunto probatório contido nos autos, divisa-se que os serviços prestados pela impetrante não se dão por vínculo com as empresas integrantes do Consórcio Metropolitano de Transportes, mas por contrato direto com a EMTU, subsidiária da Secretaria dos Transportes Metropolitanos, nos termos da cláusula 1.1 do Contrato de Reserva Técnica Operacional do Poder Concedente (fls. 15/24), senão vejamos:
+"1.1. O presente Contrato tem por objeto a contratação do OPERADOR para a inserção na Reserva Técnica Operacional do Poder Concedente na ÁREA 2 RMSP, para operar o serviço regular intermunicipal de transporte coletivo de passageiros, nos termos do Anexo X do Contrato de Concessão nº. 033/2006, e de acordo com o Anexo I deste Contrato" (fl. 15).
+Ademais, o Consórcio Metropolitano de Transportes é pessoa jurídica de direito privado, e embora exerça serviço público, não detém poderes para obstar o funcionamento dos serviços prestados pela impetrante, ainda que sob o fundamento de que o julgamento do Recurso Extraordinário nº. 1.001.104 (Tema 854) determina a anulação dos contratos firmados entre a Administração Pública e as empresas da Reserva Técnica Operacional.
+Em outras palavras, somente a EMTU, na qualidade de poder concedente, detém legitimidade para determinar o desligamento dos validadores dos veículos de empresas diretamente contratadas, em pleno exercício da autotutela frente à ilegalidade ou à irregularidade de determinado ato (Súmula 473, do STF).
+Não é permitido que um consórcio de empresas, em assunção de papel conferido apenas à Administração Pública, inviabilize a execução de serviço público objeto de contrato firmado entre a impetrante e a EMTU, sob pena de flagrante violação a direito líquido e certo.
+Dessa forma, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA PREVENTIVO. INEXISTÊNCIA DE REQUISITOS ESTABELECIDOS EM LEI. REEXAME DE PROVAS. SÚMULA 7 DO STJ. NORMA JURÍDICA LOCAL. SÚMULA 280/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DO STF.
+1. Consta dos autos que o Mandado de Segurança preventivo foi impetrado com o escopo de ver reconhecido o direito de não se sujeitar ao recolhimento do ITCMD - Impostos Sobre a Transmissão de Bens Causa Mortis e Doação, incidente sobre a percepção, a título gratuito, de numerário, a que o impetrante alude ter sido contemplado a título de herança, de quotas societárias de empresa localizada no exterior.
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que é incabível, em Recurso Especial, o exame acerca da presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame da eventual desnecessidade de realização de dilação probatória. Incide, na espécie, a Súmula 7 deste Tribunal.
+3. Verifica-se que a questão em debate envolve, na realidade, análise da Lei estadual 10.705/2000, que foi utilizada pelo Tribunal local para solucionar a lide. A apreciação da questão por esta Corte encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário").
+4. É importante registrar a inviabilidade de o STJ apreciar ofensa aos artigos da Carta Magna, uma vez que compete exclusivamente ao Supremo Tribunal Federal o exame de violação a dispositivo da Constituição da República, nos termos do seu art. 102, III, "a".
+5. Recurso Especial não conhecido.
+(REsp n. 1.660.683/SP, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2017, DJe de 20/6/2017.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+É como voto.
