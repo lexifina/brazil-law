@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA RECONSIDERADA. JUSTIÇA GRATUITA. INDEFERIMENTO. REVISÃO. SÚMULA Nº 7/STJ.
+1.  É inviável no recurso especial rever as conclusões do Tribunal de origem que, a partir das circunstâncias fático-probatórias dos autos, indeferiu o pedido de justiça gratuita, pelo óbice da Súmula nº 7/STJ.
+2. Agravo interno provido para, reconsiderando a decisão de e-STJ fls. 138/139, conhecer do agravo e não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA WALDETE OLIVEIRA PALADINO contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial pela ausência de impugnação de todos os fundamentos da decisão agravada (e-STJ fls. 138/139).
+Nas presentes razões (e-STJ fls. 142/154), a agravante sustenta que impugnou todos os fundamentos da decisão agravada.
+Pleiteia pela reconsideração da decisão e que seja deferido o pedido de justiça gratuita.
+Devidamente intimada, a parte contrária não ofereceu impugnação (e-STJ fl. 155).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA RECONSIDERADA. JUSTIÇA GRATUITA. INDEFERIMENTO. REVISÃO. SÚMULA Nº 7/STJ.
+1.  É inviável no recurso especial rever as conclusões do Tribunal de origem que, a partir das circunstâncias fático-probatórias dos autos, indeferiu o pedido de justiça gratuita, pelo óbice da Súmula nº 7/STJ.
+2. Agravo interno provido para, reconsiderando a decisão de e-STJ fls. 138/139, conhecer do agravo e não conhecer do recurso especial.
+VOTO
+Em virtude dos argumentos expostos pela agravante, reconsidera-se a decisão de e-STJ fls. 138/139 e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de agravo interposto por MARIA WALDETE OLIVEIRA PALADINO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"GRATUIDADE DE JUSTIÇA Pedido formulado em petição inicial Existindo prova em sentido contrário a infirmar a presunção de pobreza, na acepção jurídica do termo, decorrente da declaração prestada pela parte agravante, impõe-se o indeferimento dos benefícios da gratuidade de justiça Manutenção da r. decisão agravada que indeferiu o pedido de concessão dos benefícios da gratuidade de justiça à parte agravante Revogação do efeito suspensivo concedido.
+Recurso desprovido" (e-STJ fl. 79).
+Nas razões do recurso especial, a recorrente sustenta, além de divergência jurisprudencial, violação dos artigos 98 e 99 do Código de Processo Civil.
+Pleiteia pelo deferimento da justiça gratuita.
+Aduz que "não demonstrada a hiper suficiência da parte recorrente, deve-se então presumir, sua hipossuficiência, quando não ilidida por outros elementos dos autos" (e-STJ fl. 90).
+Sem as contrarrazões (certidão de e-STJ fl. 111), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Observa-se dos autos que o Tribunal de origem indeferiu o pedido de assistência judiciária gratuita, nos seguintes termos:
+"(..)
+Verifica-se, assim, que, para a concessão dos benefícios da gratuidade de justiça, para pessoas naturais, basta a declaração de pobreza, na acepção jurídica do termo, mediante simples afirmação, em petição, ante a presunção iuris tantum, elidível mediante prova em sentido contrário, mas nada impede que o MM Juízo da causa, quando tiver fundadas e motivadas razões para isso, indeferir ou realizar diligências para verificação ao alegado estado de miserabilidade.
+4.2. A declaração da parte agravante de "ser pessoa hipossuficiente na acepção jurídica do termo, sem condições de arcar com as custas processuais e honorários de advogado sem prejuízo de meu próprio sustento ou de minha família" (fls. 20 dos autos de origem) restou infirmada pela prova constante dos autos.
+Na espécie, a parte agravante: (a) formulou pedido de concessão dos benefícios da gratuidade de justiça em petição inicial de ação nominada de "produção antecipada de provas", cujo valor atribuído à causa é de R$2.000,00, para agosto de 2024, sendo certo que as custas processuais incidentes não se revelam de elevada monta; (b) não comprovou possuir despesas extraordinárias com seu sustento e de seus familiares, ainda mais em situação em que percebe remuneração fixa a título de aposentadoria por tempo de contribuição (fls. 35/52 dos autos de origem) e (c) da cópia de seus extratos bancários, verifica-se que possui outras contas bancárias e fontes de renda que não foram informadas nos autos de origem (fls. 53/66).
+Destarte, existindo prova em sentido contrário a infirmar a presunção de pobreza, na acepção jurídica do termo, decorrente da declaração prestada pela parte agravante, impõe-se o indeferimento dos benefícios da gratuidade de justiça" (e-STJ fls. 81/82 - grifou-se).
+Com efeito, rever tais conclusões, da forma pretendida pela recorrente, demandaria o reexame de matéria fático-probatória, o que é inviável em recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+"RECURSOS ESPECIAIS. GRATUIDADE DE JUSTIÇA. ATENDIMENTO DOS PRESSUPOSTOS. MULTA POR AGRAVO INTERNO. PRIMEIRO RECURSO DESPROVIDO. SEGUNDO RECURSO PARCIALMENTE PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que deferiu o benefício da gratuidade de justiça à parte autora em ação de reparação de danos, e confirmou a negativa de concessão do benefício da gratuidade de justiça ao réu, aplicando multa pelo desprovimento do agravo interno. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão no primeiro recurso: (i) definir se a concessão do benefício da gratuidade de justiça à parte autora foi devidamente fundamentada; (ii) saber se houve negativa de prestação jurisdicional quanto às teses apresentadas.
+3. Há duas questões em discussão no segundo recurso: (i) definir se o indeferimento da concessão do benefício da gratuidade de justiça à parte recorrente foi devidamente fundamentado; (ii) saber se foi devida a aplicação da multa prevista no art. 1.021, § 4º, do CPC em decorrência do desprovimento de agravo interno na origem. III. RAZÕES DE DECIDIR
+4. A Corte de origem examinou e decidiu, de modo claro e fundamentado, as questões que delimitam a controvérsia, afastando a alegada negativa de prestação jurisdicional.
+5. O acórdão recorrido está em consonância com a jurisprudência do STJ, que estabelece que o critério jurídico para avaliação de concessão do benefício da gratuidade de justiça se perfaz com a análise de elementos dos autos, considerando a real condição econômico-financeira do requerente, e que a declaração de pobreza objeto do pedido de assistência judiciária implica presunção relativa de veracidade que pode ser afastada se o magistrado entender que há fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado. Incidência da Súmula n. 83 do STJ.
+6. A revisão das conclusões do Tribunal de origem sobre a condição econômico-financeira das partes demandaria reexame de provas, o que é vedado em recurso especial. Incidência da Súmula n. 7 do STJ.
+7. Descabe a aplicação da multa prevista no art. 1.021, § 4º, do CPC em decorrência do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência qualificada do recurso, o que não ocorreu no caso, posto que a sua interposição foi necessária para suprir a falta constatada. IV. DISPOSITIVO E TESE
+10. Primeiro recurso especial, interposto por FABIO ALCADES THEODORO, parcialmente conhecido e desprovido.
+11. Segundo recurso especial, interposto por MURILO EDUARDO SCARAPICCHIA, parcialmente conhecido e provido.
+Tese de julgamento: 1. Inexiste negativa de prestação jurisdicional quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido. 2. Não se conhece do recurso especial quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida (Súmula n. 83 do STJ). 3. A pretensão de reexame de prova não enseja recurso especial (Súmula n. 7 do STJ). 4. A multa do art. 1.021, § 4º, do CPC não se aplica quando a interposição do recurso foi necessária" (REsp 2.199.805/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/5/2025, DJEN de 22/5/2025 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. EMBARGOS À EXECUÇÃO. ASSISTÊNCIA JURIDIÁRIA GRATUITA INDEFERIDA. ACÓRDÃO ESTADUAL EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que "(..) o agravante não muniu os autos com dados concretos acerca da privação de condições de recolher custas processuais, ao contrário, os documentos apresentados não dão alicerce à alegação de insuficiência de recursos". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 2.760.376/SP, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025).
+Além disso, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de e-STJ fls. 138/139, para conhecer do agravo e não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
