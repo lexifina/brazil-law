@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, sem pedido liminar, impetrado em favor de EDUARDO ANTÔNIO AZEVEDO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento do Agravo em Execução n. 9000016-97.2023.8.26.0451.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 6 anos de reclusão, em regime inicial fechado, e 580 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Neste writ (e-STJ, fls. 2/10 e 18/20), a impetrante vindica a progressão do regime prisional do paciente, de fechado para o semiaberto.
+Suficientemente instruídos os autos, dispenso o envio de informações.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pela impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste mandamus.
+Isso porque, ao compulsar os autos e os dados processuais desta Corte Superior, verifico que em recurso anterior, interposto pela defesa do paciente, nos autos do HC n. 951.502/SP, de minha Relatoria, era vindicado o livramento condicional do paciente ou, ao menos, a progressão de seu regime prisional de fechado, para o semiaberto.
+Na oportunidade, asseverei que as instâncias ordinárias fundamentaram suas decisões com base em exame psiquiátrico desfavorável e a falta grave recente cometida pelo paciente (e-STJ, fl. 61, daqueles autos).
+Ademais, analisando o Boletim Informativo de execução de pena datado de 4/4/2024, consta que o paciente possui uma falta grave cometida em 25/5/2021 pelo não retorno da saída temporárias (e-STJ, fl. 61, daqueles autos); assim, como a a legislação penal exige o bom comportamento carcerário durante o cumprimento da pena como condição subjetiva para o livramento condicional, dentre outros requisitos, não estava preenchido o requisito subjetivo previsto no art. 83, III, "a" e parágrafo único para a concessão do benefício, o que justificava, efetivamente, o indeferimento da benesse.
+Em complemento, como destacado pela Corte estadual, o exame criminológico realizado para tal fim apresentou aspectos negativos em relação ao paciente, o que impossibilitava, também por esse prisma, a concessão das benesses.
+Por fim, o exame criminológico realizado no paciente, atestou que ele apresenta um histórico extremamente conturbado durante o cumprimento de sua pena, tendo abandonado o sistema penitenciário por diversas vezes, mostrando ser prematura uma decisão sem a emissão de um parecer técnico, mormente considerando-se que ele praticou três faltas disciplinares de natureza grave, todas consistentes em fuga, datadas de 4/11/2008, 14/10/2011 e 24/5/2021, sendo que nesta última, somente foi recapturado após cinco meses.
+Desse modo, por se tratar de reiteração de matéria já analisada e decidida por esta Corte de Justiça, fica prejudicada nova avaliação dessa insurgência, não havendo também ilegalidade a ser sanada, na realização de novo exame criminológico para averiguar a possibilidade de progressão do regime prisional do paciente. .
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
