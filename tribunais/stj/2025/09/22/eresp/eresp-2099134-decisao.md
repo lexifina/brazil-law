@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por DANIEL TOLINE contra o acórdão proferido pela Quarta Turma do Superior Tribunal de Justiça, relatado pelo Ministro João Otávio de Noronha, assim ementado (fls. 198/204):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+2. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+3. A segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o Dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+4. Agravo interno desprovido.
+Após o julgamento do agravo interno, foram opostos embargos de declaração. Em acórdão de fls. 229/234, o órgão fracionário rejeitou os aclaratórios por ausência dos vícios previstos nos art. 1.022 do CPC.
+Aponta o embargante (fls. 240/244) divergência jurisprudencial indicando como paradigma o acórdão proferido pela Sexta Turma do STJ, no AgRg no AREsp n. 2.360.292/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 4/3/2024.
+Aduz que tanto no acórdão embargado quanto no paradigma é discutida matéria de cunho processual, qual seja, se as datas constantes em normativo do Superior Tribunal de Justiça são consideradas feriados nacionais para fins de comprovação da tempestividade recursal.
+Sustenta que a data controvertida (20/2/2023), inserida na Portaria STJ/GP n. 1, de 2/1/2023, era feriado nacional. Contudo, concluiu a Quarta Turma que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o Dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+Assevera que, ao contrário do sedimentado no acórdão embargado, a decisão paradigma concluiu que: conforme Portaria STJ/GP n. 1, de 2 de janeiro de 2023, foi determinado feriado nacional (semana santa) de 5 a 9 de abril de 2023.
+Em decisão de fls. 260/261 admiti o processamento dos embargos de divergência.
+A parte embargada afirma que não houve comprovação de feriado local no momento da interposição do recurso, como exige o § 6º do art. 1.003 do CPC, assim como que a portaria mencionada pelo embargante não se aplica ao caso, pois o recurso foi interposto perante o Tribunal de Justiça do Estado de São Paulo, e não diretamente no STJ. Por tal motivo, requer que seja negado provimento ao recurso.
+O MPF apresentou parecer pelo não conhecimento dos embargos de divergência ante a incidência da Súmula 168/STJ (fls. 284/290).
+Em despacho de fl. 293, determinei a intimação das partes para se manifestarem acerca do resolvido pelo STJ na QO no AREsp n. 2.638.376/MG. Petição da parte embargante e embargada às fls. 302/304 e 299/301, respectivamente.
+É o relatório.
+O acórdão embargado é da Quarta Turma e o paradigma é da Sexta Turma.
+A decisão recorrida do órgão fracionário desta Corte foi clara ao estabelecer que: a) Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente; e b) A segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o Dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+Por outro lado, o acórdão paradigma (AgRg no AREsp n. 2.360.292/GO), leva em consideração a Portaria STJ/GP n. 1, de 2/1/2023 para considerar data nela inserida como feriado nacional.
+Aponta a embargante que a controvérsia seria dirimir se 20 de fevereiro de 2023 é feriado local (como no acórdão recorrido) ou nacional (nos termos do art. 1º, I da Portaria STJ/GP n. 1, de 2/1/2023).
+Ocorre que a discussão não possui mais relevo após o advento da Lei n. 14.939/2024 que, para dar efetividade aos princípios da primazia da decisão de mérito (art. 4º, do CPC) e cooperação (art. 6º, do CPC), estabeleceu ser passível de correção a demonstração do feriado local.
+Além disso, a Corte Especial do STJ estabeleceu que:
+PROCESSUAL CIVIL. QUESTÃO DE ORDEM NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. LEI N. 14.939/2024. ALTERAÇÃO DO § 6º DO ART. 1.003 DO CPC/2015. APLICAÇÃO A RECURSOS ANTERIORES À VIGÊNCIA DO NOVO DIPLOMA LEGISLATIVO.
+1. A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+3. Questão de ordem acolhida pela Corte Especial.
+(QO no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 5/2/2025, DJEN de 27/3/2025 - grifo nosso)
+No caso, observo que a parte embargante acostou aos autos provimento do TJSP que comprova o feriado no dia 20 de fevereiro de 2023 (fl. 303). Assim, existe informação idônea de que o recurso interposto é tempestivo.
+Por fim, registro a possibilidade de decidir monocraticamente o presente recurso, nos termos da Súmula 568 do STJ: O relator, monocraticamente e no Superior Tribunal de Jus tiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, dou provimento aos embargos de divergência para, nos termos do decidido na QO no AREsp n. 2.638.376/MG, reconhecer a tempestividade do recurso especial e determinar o retorno dos autos à Quarta Turma desta Corte para prosseguir no julgamento do feito.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPROVAÇÃO DE FERIADO LOCAL. LEI N. 14.939/2024. ALTERAÇÃO DO § 6º DO ART. 1.003 DO CPC/2015. APLICAÇÃO A RECURSOS ANTERIORES À VIGÊNCIA DO NOVO DIPLOMA LEGISLATIVO. PRECEDENTE.
+Embargos de divergência providos.
