@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração (Petição n. 858.509/2025) opostos por ALAN ANASTACIO PINATI e VALDEIR ANASTACIO DE SOUZA à decisão da lavra deste Relator (fls. 996/997), em que foi indeferida liminarmente a inicial, a seguir ementada:
+PENAL. HABEAS CORPUS. LATROCÍNIO TENTADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
+Sustenta a parte embargante omissão da decisão de indeferimento, que não teria enfrentado os argumentos essenciais da impetração - especialmente no tocante à indevida subsunção da conduta ao art. 157, § 3º, I, do Código Penal, e à desproporcionalidade da fração redutora da tentativa - cujo objeto difere dos habeas corpus anteriores, apontando outro ato coator (Revisão Criminal n. 2244600-59.2021.8.26.0000). Requer, portanto, o pronunciamento sobre os pontos omitidos, aptos a alterar o resultado do julgamento (fl. 1.003).
+É o relatório.
+Os presentes embargos não comportam acolhimento.
+Primeiro, porque o embargante não apresenta omissão, contradição, obscuridade ou ambiguidade na decisão embargada.
+Segundo, pois as alegações do embargante - de que a decisão embargada não teria analisado a especificidade do ato coator atual e os argumentos essenciais da impetração (fls. 1.002/1.003) - não podem ser acolhidas. Isso porque a decisão embargada fundamentou-se na inadmissibilidade de reiteração de pedidos já analisados em habeas corpus anteriores (HC n. 897.088/SP, HC n. 897.089/SP e HC n. 977.065/SP), conforme destacado às fls. 996/997.
+Registre-se que o acórdão da apelação (ato coator dos HC n. 897.088/SP, HC n. 897.089/SP e HC n. 977.065/SP) afastou a pretensão de reclassificação da conduta delitiva de latrocínio tentado para roubo seguido de lesão corporal, fundamentando-se no dolo eventual e na ausência de contradições nos depoimentos (fls. 47/51). Também rejeitou o redimensionamento da pena, com aplicação do redutor da tentativa em grau intermediário, considerando o iter criminis (fl. 55). O acórdão da revisão criminal entendeu que a ação revisional não seria cabível para reexame de fatos e provas já analisados em sede de apelação (fls. 20/21), calcando o indeferimento nos mesmos fundamentos: dolo eventual, ausência de contradições nos depoimentos (fls. 22/25) e iter criminis percorrido (fls. 26/27).
+Nesse sentido: os embargos de declaração não se prestam à rediscussão de matéria já decidida, salvo em casos de omissão, contradição, obscuridade ou erro material, o que não se verifica no caso concreto (RCD no HC n. 963.130/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Em razão disso, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS . LATROCÍNIO TENTADO. INSURGÊNCIA CONTRA A DECISÃO QUE INDEFERIU A IMPETRAÇÃO. ALEGAÇÃO DE OMISSÃO QUANTO À ESPECIFICIDADE DO ATO COATOR. UTILIZAÇÃO DOS EMBARGOS COMO FORMA DE REDISCUTIR OS FUNDAMENTOS DA DECISÃO EMBARGADA. IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE.
+Embargos de declaração rejeitados.
