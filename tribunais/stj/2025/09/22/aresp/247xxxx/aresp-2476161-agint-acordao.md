@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. MATÉRIA AINDA NÃO AFETADA AO RITO DOS RECURSOS REPETITIVOS. DESNECESSIDADE DE SUSPENSÃO/SOBRESTAMENTO. ATIPICIDADE DA CONDUTA. EVIDENTE AUSÊNCIA DE DOLO ESPECÍFICO. PROVIMENTO NEGADO.
+1. Não obstante a indicação de recursos pela Comissão Gestora de Precedentes como representativos da controvérsia, ainda não houve deliberação pelo órgão julgador competente no sentido da afetação, não se podendo falar em suspensão do processo.
+2. Decisão agravada que, ademais, é consentânea com a orientação adotada pelos julgadores integrantes da Primeira e Segunda Turmas desta Corte no tocante à aplicação retroativa das normas trazidas pela Lei 14.230/2021 com o potencial de abolir a tipicidade da conduta .
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Ministério Público Federal da decisão de fls. 408/409 em que foi negado provimento ao seu recurso especial diante da aplicação da Lei 14.230/2021 e da exigência do dolo específico para a configuração do ato de improbidade administrativa.
+A parte agravante alega que a necessidade de comprovar dolo específico nos casos de improbidade administrativa que já estavam em andamento quando a nova lei entrou em vigor foi selecionada pela comissão gestora de precedentes do STJ para ser julgada sob o rito dos recursos repetitivos, citando o REsp 2.183.843/MG.
+Argumenta que a decisão agravada é prematura, portanto, devendo-se suspender o julgamento deste caso individual até que o STJ estabeleça uma tese vinculante e definitiva sobre o tema para todos os processos semelhantes no país.
+Não foi apresentada impugnação (fl. 461).
+É o relatório.
+EMENTA
+PROCESSUAL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. MATÉRIA AINDA NÃO AFETADA AO RITO DOS RECURSOS REPETITIVOS. DESNECESSIDADE DE SUSPENSÃO/SOBRESTAMENTO. ATIPICIDADE DA CONDUTA. EVIDENTE AUSÊNCIA DE DOLO ESPECÍFICO. PROVIMENTO NEGADO.
+1. Não obstante a indicação de recursos pela Comissão Gestora de Precedentes como representativos da controvérsia, ainda não houve deliberação pelo órgão julgador competente no sentido da afetação, não se podendo falar em suspensão do processo.
+2. Decisão agravada que, ademais, é consentânea com a orientação adotada pelos julgadores integrantes da Primeira e Segunda Turmas desta Corte no tocante à aplicação retroativa das normas trazidas pela Lei 14.230/2021 com o potencial de abolir a tipicidade da conduta .
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Relembro que o MINISTÉRIO PÚBLICO FEDERAL ajuizou ação civil pública por atos de improbidade administrativa contra Aminadab Meira de Santana, Prefeito do Município de Novo Aripuanã/AM, por não ter prestado contas dos recursos federais recebidos do FNDE para o Programa Nacional de Transporte Escolar (PNATE) nos anos de 2011 e 2012.
+O Juízo de primeiro grau julgou improcedente o pedido condenatório com base no art. 11, VI, da Lei 8.249/1992, alterado pela Lei 14.230/2021, pois ausente o especial fim de agir do agente público, consistente na vontade de ocultar irregularidades.
+O Tribunal de origem, por sua vez, negou provimento à apelação do autor, reiterando a ausência de comprovação do elemento subjetivo doloso necessário para a condenação.
+Com base na jurisprudência pacífica desta Corte e do Supremo Tribunal Federal, reconheci que a pretensão do autor de ver julgado procedente o pedido condenatório com base na versão original do inciso VI do art. 11 da LIA, vigente à época dos fatos, não se sustenta considerada a aplicação das normas constantes na Lei 14.230/2021 que resultem na abolição da tipicidade subjetiva ou objetiva da conduta.
+Na espécie, o ato ímprobo imputado a parte agravada restringe-se à violação dos princípios administrativos haja vista a não prestação de contas, sem que se impute na inicial ou mesmo se reconheça no acórdão recorrido o dolo específico por parte do agente público atualmente exigido na lei.
+A alegação de que este julgador não poderia ter levado a efeito o julgamento do recurso por haver proposta de afetação ao rito dos recursos repetitivos a definição da possibilidade de se exigir, a partir da Lei 14.230/2021, a comprovação do dolo específico para a configuração dos atos de improbidade, em relação aos casos em andamento não se sustenta.
+Deixo claro que o citado REsp 2.183.843/MG teve a qualidade de representativo da controvérsia rejeitada em razão do disposto no art. 256-E, I, do RISTJ, tendo em vista a ausência dos pressupostos recursais, mas foi incluído o REsp 2.148.056/SP como representativo da presente controvérsia em substituição.
+A par disso, não pode esta Corte Superior paralisar a sua atividade jurisdicional por uma potencial afetação ao rito dos recursos repetitivos de determinada controvérsia, sendo que sequer se tem como antecipar se a controvérsia será afetada ou mesmo se haverá determinação de suspensão/sobrestamento dos recursos especiais.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. USO INDEVIDO DE IMAGEM. MATÉRIA DISCUTIDA NOS AUTOS AINDA NÃO AFETADA AO RITO DOS RECURSOS REPETITIVOS. DESNECESSIDADE DE SUSPENSÃO DO FEITO. EXISTÊNCIA DE ATO ILÍCITO ENSEJADOR DE REPARAÇÃO PELOS DANOS MORAIS SOFRIDOS. CONCLUSÃO DA CORTE ESTADUAL PAUTADA EM FATOS E PROVAS. REDUÇÃO DO VALOR INDENIZATÓRIO. REVISÃO DO JULGADO. INVIABILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não obstante a indicação dos Recursos Especiais n. 2.011.252/SP e 2.011.265/SP, como representativos da controvérsia, a matéria neles veiculada, objeto da presente insurgência, ainda não tramita no rito dos recursos repetitivos, razão pela qual não há falar em suspensão deste processo.
+2. É assente o entendimento de que descabe ao Superior Tribunal de Justiça rever o entendimento alcançado pela Corte originária no tocante à existência de ato ilícito ensejador de reparação pelos danos morais, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa, providência vedada pela Súmula n. 7/STJ, no âmbito do recurso especial.
+3. A revisão da indenização por dano moral apenas é possível na hipótese de o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas situações, inviável reexaminar o valor fixado, uma vez que tal análise demanda incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.053.402/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DE IMAGEM. ÁLBUM DE FIGURINHAS. QUESTÃO NÃO AFETADA AO RITO DOS RECURSOS REPETITIVOS. SUSPENSÃO DO FEITO. NÃO CABIMENTO. USO DE IMAGEM. AUSÊNCIA DE AUTORIZAÇÃO. SÚMULA N. 403 DO STJ. INDENIZAÇÃO DEVIDA. ENTENDIMENTO DA CORTE LOCAL EM CONSONÂNCIA COM A JURISPRUDENCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. REVISÃO. INVIABILIDADE. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Quando um recurso especial for selecionado como representativo de controvérsia, sendo candidato à afetação à sistemática dos repetitivos, mas ainda não estiver tramitando sob esse rito, não há fundamento jurídico para suspender processo.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 2.057.304/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. MATÉRIA DISCUTIDA NOS AUTOS AINDA NÃO AFETADA AO RITO DOS RECURSOS REPETITIVOS. DESNECESSIDADE DE SUSPENSÃO DO FEITO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. DEVER DE INFORMAÇÃO QUANTO ÀS CONDIÇÕES DA APÓLICE QUE DEVEM SER OBSERVADAS PELA ESTIPULANTE. ENTENDIMENTO RECENTE DA TERCEIRA TURMA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não obstante a indicação dos REsps n. 1.894.813/SC, 1.895.598/SC e 1.894.449/SC como representativos da controvérsia, a matéria neles veiculada, objeto da presente insurgência, ainda não tramita sob o rito dos recursos repetitivos, razão pela qual não há falar em suspensão deste processo. Precedente.
+3. A Terceira Turma desta Corte, no julgamento do REsp nº 1.825.716/SC, sob a relatoria do em. Ministro MARCO AURÉLIO BELLIZE, firmou entendimento no sentido de que, em contrato de seguro de vida coletivo, compete à estipulante o dever de informar aos segurados os limites e as condições da apólice do seguro de vida.
+4. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 1.892.855/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/4/2021, DJe de 28/4/2021.)
+A decisão agravada, ademais, no tocante à aplicação retroativa em bonam partem das normas trazidas pela Lei 14.230/2021 com o potencial de abolir a tipicidade da conduta é expressão do entendimento da Primeira Seção e dos órgãos fracionários que a integram, ou seja, na eventualidade de uma futura afetação dessa questão, pende maior probabilidade de a orientação a sagrar-se vencedora ser aquela defendida por todos os Ministros integrantes da Primeira e Segunda Turmas.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
