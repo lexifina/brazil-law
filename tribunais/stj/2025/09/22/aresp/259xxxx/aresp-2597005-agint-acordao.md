@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. VIOLAÇÃO DO ART. 932, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. CERTIDÃO JUDICIAL. VIABILIDADE ECONÔMICA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ.
+1.  Ausente o debate no Tribunal de origem da tese alegada nas razões do recurso especial, não é possível o seu conhecimento por ausência de prequestionamento.
+2. Nos termos da jurisprudência desta Corte, a "exigência de apresentação de certidão negativa de recuperação judicial deve ser relativizada a fim de possibilitar à empresa em recuperação judicial participar do certame, desde que demonstre, na fase de habilitação, a sua viabilidade econômica" (AREsp n. 309.867/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/6/2018, DJe de 8/8/2018).
+Agravo  interno  improvido.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo  interno  interposto  por  MACNARIUM ENGENHARIA LTDA. - EM RECUPERAÇÃO JUDICIAL e BK INFRAESTRUTURA LTDA. EM RECUPERAÇÃO JUDICIAL  contra  decisão  monocrática  de  minha  relatoria , por meio da qual  conheci  do  agravo  para  não conhecer do recurso especial  (fls.  516-523).
+Extrai-se  dos  autos  que  o  recurso  especial  foi  interposto,  com  fundamento  no  art.  105,  inciso  III,  "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 136):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. LICITAÇÃO. PARTICIPAÇÃO. NECESSIDADE DE COMPROVAÇÃO DA VIABILIDADE ECONÔMICO FINANCEIRA DA EMPRESA EM RECUPERAÇÃO JUDICIAL. CERTIDÕES DE REGULARIDADE FISCAL. DESNECESSIDADE. I - De acordo com o entendimento do Tribunal de Contas da União, é possível a participação em licitações de empresas em recuperação judicial, desde que amparadas em certidão emitida pela instância judicial competente, que certifique que a interessada está apta econômica e financeiramente a participar de procedimento licitatório. II - O Superior Tribunal de Justiça já reputou inexigível a apresentação de certidões negativas de débitos tributários para que empresas em recuperação judicial participem de procedimentos licitatórios. AGRAVO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO REFORMADA EM PARTE.
+Os embargos de declaração opostos pela parte recorrente foram rejeitados (fls. 190-202).
+Sustenta  a  partes  agravante  que  (fls. 542-543):
+O intuito do especial foi discutir a inexistência de necessidade das Agravantes em recuperação judicial demonstrarem sua capacidade financeira para fins de habilitação no certame licitatório; pois a documentação emitida pela própria GOINFRA e devidamente juntada nestes autos atestaram a viabilidade e a aptidão financeira, dispensando assim apresentação de certidão.
+Ou seja, não se trata de pretensão que visa o simples reexame de provas. A questão deriva puramente da lei, sendo o STJ o tribunal competente para apreciar, em sede de recurso especial, violação de lei federal, consoante art. 105, III, "a", da CF/88, tal como ocorre no presente recurso especial.
+As referidas premissas estão expressamente consignadas no acórdão proferido pelo TJGO que ensejou a interposição do Recurso Especial, não havendo que se falar na incidência da Súmula 7 do STJ.
+Vê-se, pois, que todas as premissas que apoiam a fundamentação do Recurso Especial encontram-se registradas no acórdão proferido, sendo que para esta C. Corte julgar o mérito do especial depende tão somente de averiguar o julgamento do feito perante o Tribunal Estadual, dispensando-se qualquer análise dos fatos ou das provas carreadas aos autos.
+A AGRAVANTE, DESTE MODO, COMPROVOU NO RECURSO ESPECIAL QUE HOUVE A DEMONSTRAÇÃO DE VIABILIDADE E A APTIDÃO FINANCEIRA ANTE A APROVAÇÃO O PLANO DE RECUPERAÇÃO PELOS CREDORES, QUE SÃO OS ÚNICOS COMPETENTES PARA TANTO, SENDO PRESUMIDA TAL CONDIÇÃO QUE EXIGIDA PELO PODER PÚBLICO EM PROCESSOS LICITATÓRIOS.
+Pugna, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A  parte  agravada,  instada  a  manifestar-se,  apresentou contrarrazões, requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC  (fls.  576-582).
+É,  no  essencial,  o  relatório.
+EMENTA
+CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. VIOLAÇÃO DO ART. 932, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. CERTIDÃO JUDICIAL. VIABILIDADE ECONÔMICA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ.
+1.  Ausente o debate no Tribunal de origem da tese alegada nas razões do recurso especial, não é possível o seu conhecimento por ausência de prequestionamento.
+2. Nos termos da jurisprudência desta Corte, a "exigência de apresentação de certidão negativa de recuperação judicial deve ser relativizada a fim de possibilitar à empresa em recuperação judicial participar do certame, desde que demonstre, na fase de habilitação, a sua viabilidade econômica" (AREsp n. 309.867/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/6/2018, DJe de 8/8/2018).
+Agravo  interno  improvido.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+A  irresignação  recursal,  de  fato,  não  merece  prosperar.
+De início, segundo bem se observa, o conteúdo normativo contido no art. 932, inciso III, do Código de Processo Civil, no que se refere à suposta perda do objeto recursal, não foi objeto de exame pela Câmara Julgadora, embora opostos embargos de declaração pela parte recorrente, deixando, portanto, de servir de fundamento à conclusão adotada no acórdão hostilizado.
+Desatendido, portanto, o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, o que atrai o óbice constante na Súmula n. 211 do Superior Tribunal de Justiça.
+Cumpre destacar que a Corte Especial do STJ firmou o entendimento no sentido de que, "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no acórdão impugnado, para que se configure o prequestionamento" (AgInt nos EDcl no AREsp 746.371/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 9/3/2018).
+Por sua vez, quanto à suposta violação do art. 5º do Código de Processo Civil e dos arts. 35, inciso I, alínea a, e 47 da Lei n. 11.101/2005, observa-se que a reforma do acórdão recorrido encontra óbice na Súmula n. 83/STJ.
+Conforme destacado na decisão agravada, o Tribunal de origem decidiu em consonância com a jurisprudência desta Corte, segundo a qual a empresa recuperanda deve comprovar que possui capacidade econômico-financeira para honrar o contrato.
+Vejamos trechos do acórdão recorrido (fls. 131-134):
+Adentrando ao mérito, inicialmente, vislumbro que o edital de Concorrência CO nº 051/2022 não veda a participação de empresas em recuperação judicial, mas condiciona a participação dessas empresas à comprovação, por meio de certidão emitida pelo judiciário, estar apta econômica e financeiramente para a execução do objeto licitado, senão vejamos:
+"03.02- É expressamente vedada nesta licitação:
+a) Em processo de falência, sob concurso de credores ou dissolução ou em liquidação. É possível a participação de empresa em recuperação judicial, desde que amparada em certidão emitida pela instância judicial competente, que certifique que a interessada está apta econômica e financeiramente a participar de procedimento licitatório nos termos da Lei 8.666/1993."
+Acerca da matéria, importa ressaltar que, a Primeira Turma do STJ, mediante a ponderação equilibrada dos princípios encartados nas Leis n. 8.666/1993 e 11.101/2005, entendeu possível relativizar a exigência de apresentação de certidão negativa de recuperação judicial, a fim de possibilitar à empresa em recuperação judicial participar de certame licitatório, desde que demonstrada, na fase de habilitação, a sua viabilidade econômica (AREsp 309.867/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 08/08/2018).
+Logo, em vista do princípio da preservação da empresa, é razoável relativizar a obrigatoriedade de apresentação de certidões negativas e de recuperação judicial para possibilitar que a empresa em recuperação judicial participe do procedimento licitatório. Não obstante, na fase de habilitação, a viabilidade econômica da empresa deve ser demonstrada.
+ ..
+Com efeito, a habilitação econômico-financeira objetiva aferir a capacidade e/ou aptidão econômica do licitante frente aos compromissos assumidos com a execução do objeto contratado.
+Ao contrário do que entendeu a magistrada de piso, somente a homologação do plano de recuperação judicial não comprova a aptidão econômica e financeira da empresa para participar da licitação.
+ ..
+De acordo com o Relator Ministro Vital do Rêgo, é possível a participação de empresa em recuperação judicial, desde que amparada em certidão emitida pela instância judicial competente, que certifique que a interessada está apta econômica e financeiramente a participar de procedimento licitatório nos termos da Lei 8.666/1993. Conforme o Relator, esse assunto encontra-se pacificado na jurisprudência daquela Corte.
+Logo, não basta somente a presunção de viabilidade econômico-financeira em decorrência da homologação do plano de recuperação judicial, uma vez que, conforme dito alhures, a comprovação dá-se por meio de certidão, emitida pela instância judicial competente, indicando que a interessada possui aptidão econômica e financeira para executar o objeto contratual.
+Desde modo, não há ilegalidade no edital do Pregão quanto à necessidade de comprovação de viabilidade econômico-financeira da interessada através de certidão, merecendo reforma a decisão fustigada neste ponto.
+Importa ressaltar que, diferente do alegado pela agravada em suas contrarrazões, a GOINFRA não atestou sua viabilidade econômica, mas procedeu a análise da habilitação em cumprimento à decisão que foi objeto deste recurso.
+No tocante à apresentação de certidões, o Superior Tribunal de Justiça já reputou inexigível a apresentação de certidões negativas de débitos tributários para que empresas em recuperação judicial participem de procedimentos licitatórios.
+ ..
+Assim, deve ser mantida a dispensa de apresentação das certidões de regularidade fiscal.
+Observa-se que a Corte a quo reafirmou a dispensa de apresentação das certidões de regularidade fiscal, nos termos da cláusula do edital de licitação, mas destacou a necessidade de que as empresas em recuperação judicial apresentem certidão emitida pela instância judicial competente que ateste sua aptidão econômica e financeira, o que encontra amparo na jurisprudência desta Corte.
+Cumpre destacar que a mera homologação do plano de recuperação judicial não é suficiente para comprovar a viabilidade econômico-financeira da empresa para executar o objeto contratual.
+A propósito, confira-se precedente:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. LICITAÇÃO. CONSTRUÇÃO DE CAMPUS UNIVERSITÁRIO. EMPRESA EM RECUPERAÇÃO JUDICIAL. PARTICIPAÇÃO EM CERTAME LICITATÓRIO. EXIGÊNCIA EDITALÍCIA DE APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE RECUPERAÇÃO JUDICIAL. VIABILIDADE FINANCEIRA DA EMPRESA. COMPROVAÇÃO. POSSIBILIDADE. PRECEDENTES.
+ ..
+III - Sem negar prima facie a participação de empresa em processo de licitação pela exigência e apresentação de Certidão Negativa de Débitos (CND), aplica-se a vontade expressa pelo legislador da Lei de Recuperação Judicial, viabilizando, de forma efetiva, à sociedade empresária a superação da crise econômico-financeira" (AgInt no REsp n. 1.841.307/AM, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/12/2020).
+IV - Na hipótese dos autos, o Tribunal de origem registrou a presença de situação fática peculiar de que a empresa comprovou possuir capacidade econômico-financeira para honrar o contrato, concedendo a ordem pleiteada.
+V - Recurso especial improvido.
+(REsp n. 1.826.299/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/8/2022, DJe de 5/12/2022.)
+Assim, diante  da  ausência  de  argumentos  suficientes  para  a  reforma  do  julgado,  prevalece  o  entendimento  firmado  na  decisão  agravada.
+Por fim, sem amparo a pretensão da parte agravada de aplicação da multa prevista no art. 1.021, § 4º, do CPC, visto que o mero manejo do agravo interno não enseja a aplicação automática da referida sanção processual, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Nesse sentido, cito:
+4. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 31/8/2020, DJe de 8/9/2020).
+(AgInt no AREsp n. 2.326.538/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/9/2023.)
+3. Esta Corte Superior tem entendido que o não conhecimento ou a improcedência do pedido não enseja, necessariamente, a imposição da multa disciplinada pelo art. 1.021, § 4º, do CPC/2015, tornando-se imprescindível para tal que seja nítido o descabimento do pedido, o que não se afigura no caso concreto, em que foi necessária a análise de amplo arcabouço probatório para se chegar à improcedência do pleito inicial.
+(AgInt no AREsp n. 2.102.809/PR, relator Ministro Humberto Martins, Terceira Turma, DJe de 13/9/2023.)
+No entanto, desde já se adverte que a utilização de expedientes voltados meramente para a rediscussão do acerto do julgado poderá caracterizar o aludido caráter manifestamente procrastinatório, ensejando a aplicação de penalidades legais.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  como  penso.  É  como  voto.
