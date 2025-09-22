@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JAIR HEITOR DUARTE e OUTROS contra o acórdão da PRIMEIRA TURMA assim ementado (fl. 2.455):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Agravo interno a que se nega provimento.
+A parte recorrente alega, em síntese, que (fl. 2.474)
+ ..  o Tribunal a quo violou o artigo 1.022, inciso II, do Código de Processo Civil e o artigo 489, § 1º, inciso IV, do Código de Processo Civil, porque o acórdão recorrido, não analisou a controvérsia instaurada, apenas reiterou os argumentos anteriores, não foram analisados os argumentos dos ora recorrentes, violando expressamente as disposições dos artigos supracitados.
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+A parte adversa não apresentou impugnação (fl. 2.490).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No acórdão embargado, a controvérsia foi decidida nestes termos (fls. 2.458/2.461):
+Não prospera a alegação de violação aos arts. 489 e 1.022 do Código de Processo Civil porque, da leitura do acórdão, vê-se que a prestação jurisdicional foi dada na medida da pretensão apresentada. O TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO resolveu a controvérsia de forma fundamentada, não havendo que se falar em omissão, contradição, obscuridade ou erro material.
+A parte ora agravante apresentou a seguinte argumentação nos embargos de declaração opostos na origem (fls. 2.263/2.271):
+Nada obstante a diligência empreendida no julgado acima transcrito, há que reconhecer, no entanto, que incorre em manifesta omissão quanto aos índices de produtividade do imóvel expropriado, bem como sobre a comprovada perda de renda por parte dos expropriados, ora embargantes, evidenciada no próprio laudo pericial elaborado na desapropriação e acolhido no julgamento da apelação, além do termo final de incidência dos juros, qual seja, o efetivo pagamento, conforme jurisprudência consolidada deste E. Tribunal e do C. Superior Tribunal de Justiça.
+Assim, conforme será a seguir devidamente fundamentado, merece reforma o v. acórdão ora embargado, para que, sanando as omissões apontadas, seja mantida a incidência dos juros compensatórios de 12% (doze por cento) ao ano, adequando-se, em seguida, ao percentual dos TD As da oferta, em virtude da Lei 13.465/2017 e ao julgamento da ADI 2332 pelo Supremo Tribunal Federal, que declarou a constitucionalidade do artigo 15-A do Decreto-Lei 3.365/1941, a partir de maio de 2018 - data da publicação do acórdão.
+ ..
+Conforme acima narrado, o v. acórdão ora recorrido, proferido em sede de juízo de retratação, excluiu a incidência dos juros compensatórios desde a imissão na posse, em 05 de janeiro de 2005, até a entrada em vigor da Lei 13.465/2017, momento em que passarão a incidir no mesmo percentual fixado para os Títulos da Dívida Agrária - TD As da oferta inicial. O entendimento pautou-se na Tese Repetitiva 282, firmada pelo Superior Tribunal de Justiça no julgamento da Pet. 12.344/DF, que revisou teses repetitivas sobre a incidência dos juros compensatórios. Vejamos o entendimento aplicado:
+ ..
+Denota-se que a exclusão dos juros compensatórios no presente caso, pelo entendimento exarado no v. acórdão ora embargado, se deu, de um lado, em razão da suposta ausência de comprovação de perda de renda por parte dos expropriados, e de outro, pelos índices de produtividade do imóvel desapropriado.
+Todavia, nota-se que o entendimento firmado é o de não incidência dos juros compensatórios em imóveis com índice de produtividade igual a zero, o que não é o presente caso, posto que ainda que se considere os dados da vistoria preliminar realizada pela autarquia, os índices de GUT e GEE foram SUPERIORES A ZERO (fls. 43/ID 132798540 - Pág. 44):
+ ..
+Assim, ainda que, logicamente, o imóvel não atingisse os índices de produtividade ideais, estes, conforme a própria documentação que instrui o procedimento administrativo expropriatório, são INCONTESTÁVELMENTE SUPERIORES A ZERO, não havendo que aplicar ao presente caso, portanto, o artigo 15-A, § 2º.
+Por outro lado, também incorre em omissão o v. acórdão embargado quanto a suposta ausência de comprovação da perda de renda por parte dos expropriados, aplicando-se equivocadamente a Tese Repetitiva 282, e lição do § 1º do artigo 15-A do Decreto-Lei 3.365/1941. Explica-se.
+A princípio, consoante o laudo administrativo de vistoria e avaliação elaborado pelo INCRA, referindo-se às benfeitorias úteis constatadas no imóvel, avaliadas pela própria autarquia, é apurado como valor devido a quantia de R$ 310.856,35 (trezentos e dez mil, oitocentos e cinquenta e seis reais e trinta e cinco centavos) - em abril de 2004, isto é, valor significativo, que demonstra a produtividade do imóvel, apesar de não alcançar os graus exigidos.
+Em citado documento, o ente expropriante discorre por 3 (três) laudas sobre as benfeitorias avaliadas (item 4.1), dentre elas, quatro casas edificadas, sendo uma delas a casa sede com oito cômodos, aprisco para ovinos, depósito de madeira, galpão para máquinas, pastagens, currais, cochos, rede elétrica, caixa d"água, represa, cercas, mata burro e porteiras.
+O laudo pericial (fls. 919/1.006 - ID 132798544), por seu turno, em seu item 9.0, apurou como devido para as benfeitorias o montante de R$ 832.548,19 (oitocentos e trinta e dois mil, quinhentos e quarenta e oito reais e dezenove centavos), tendo por referência a data da imissão na posse, em janeiro de 2005.
+Dada a vultuosidade das benfeitorias, o laudo as descreve e avalia em 5 (cinco) laudas, apontando somente para as pastagens o montante de R$ 487.953,11 (quatrocentos e oitenta e sete mil, novecentos e cinquenta e três reais e onze centavos).
+O que se pretende aqui demonstrar é que, evidentemente, o proprietário rural que investe em pastagens, quatro casas, depósito de madeira e galpão para máquinas, cochos e currais, além de estradas e represa, o faz, logicamente, para produzir no imóvel e dele retirar algum proveito econômico!
+ ..
+Dessa forma, está demonstrado, que não existe nenhuma comprovação de que o imóvel expropriado possuía graus de utilização da terra e de eficiência na exploração iguais a zero, muito pelo contrário, a perícia judicial e o laudo administrativo do INCRA atestaram a existência de estradas internas, melhoramentos, pastagens e outras benfeitorias, inclusive sem o questionamento desses aspectos pela autarquia, afastando o argumento de produtividade zero bem como ausência de comprovação da perda de renda pelos expropriados.
+ ..
+A omissão em que incorre o v. acórdão, portanto, versa justamente sobre os dois pontos acima elucidados, posto que o entendimento exarado, com o máximo respeito, não atentou para as benfeitorias edificadas, cuja avaliação remonta inequivocamente para a atividade produtiva e econômica ali desenvolvida, ainda que em índices abaixo daqueles exigidos para classificação do imóvel como grande propriedade produtiva.
+ ..
+Assim, requerem à Vossa Excelência, considerando-se os argumentos acima, sejam CONHECIDOS E PROVIDOS os presentes embargos, sanando as omissões apontadas, porquanto os índices de produtividade do imóvel SÃO SUPERIORES A ZERO, conforme a própria avaliação administrativa realizada pelo expropriante, bem como, resta COMPROVADA A PERDA DE RENDA, evidenciada pela avaliação das próprias benfeitorias, tanto no procedimento administrativo expropriatório, pelo INCRA, quanto no laudo pericial elaborado.
+Isto posto, requerem a MANUTENÇÃO DA INCIDÊNCIA DOS JUROS COMPENSATÓRIOS à razão de 12% (doze por cento) ao ano, a contar da data da imissão na posse, adequando-os a partir de 2017 à lei 13.465/2017 e a partir de maio de 2018 ao julgamento da ADI 2332 pelo Supremo Tribunal Federal, considerando- se, sobretudo, a Tese Repetitiva firmada no julgamento da Pet. 12.344/DF pelo STJ, que dispõe, in verbis, "Os juros compensatórios observam o percentual vigente no momento de sua incidência".
+ ..
+Por fim, incorre em omissão o v. acórdão quanto ao entendimento consolidado deste E. Tribunal Regional Federal da 1ª Região, bem como do C. Superior Tribunal de Justiça quanto ao termo final de incidência dos juros compensatórios, ao dispor que:
+ ..
+Todavia, os juros compensatórios devem incidir até o efetivo pagamento da indenização complementar, leia-se a data da escrituração dos TD As para pagamento da terra nua e deita da requisição da pagamento para indenizar as benfeitorias.
+É entendimento pacificado deste E. Tribunal que o efetivo pagamento somente ocorre com o lançamento dos títulos e formalização da requisição de pagamento das benfeitorias, e a partir de então é que, verificada a defasagem, torna-se possível a perseguição da devida complementação. Nesse sentido, denota-se:
+ ..
+Outrossim, há disposição expressa pelas Súmulas 67 e 113 do STJ - sobre cuja aplicação ao presente caso também é omisso o v. acórdão recorrido - no sentido de que são devidos os juros compensatórios ATÉ O EFETIVO PAGAMENTO:
+ ..
+Assim, manifesto que, ao contrário do entendimento firmado no v. acórdão embargado, os juros compensatórios incidem desde a imissão na posse, ATÉ O EFETIVO PAGAMENTO, que conforme exposto acima, se dá somente com o lançamento dos TD As ou formalização do precatório, e portanto, requerem seja sanada a omissão apontada, reformando-se o julgado para fazer assim constar.
+Quando do julgamento dos embargos de declaração, a Corte regional expressamente consignou o seguinte (fls. 2.301/2.302):
+Com relação à omissão apontada, o julgado embargado decidiu a questão no sentido de que o imóvel se tratava "de grande propriedade improdutiva, como não deixaria de ser, dado ser esta a condição para a desapropriação para reforma agrária que, inobstante o GEE ser de 100% e o GUT de 28% (id 132798540), não há demonstração por parte dos expropriados de que houve perda de renda em razão da imissão na posse do expropriante, ao contrário, consta nos autos que o bem desapropriado era palco de tensões sociais pelo uso da terra com trabalhadores rurais sem terras". Não cabe, portanto, nos embargos de declaração rediscussão a respeito da matéria.
+A verba, como expressamente determinado no acórdão embargado, deve operar até a data da primeira conta, que liquida a sentença e que efetivamente origina o precatório. Ou seja, o termo ad quem dos juros compensatórios deve ser a data da conta de liquidação, que dá origem ao precatório original, nos termos do disposto no art. 100, § 12 da CF/88, não operando no precatório complementar (cf. voto - id 212674549, pág. 4).
+O acórdão não ostenta o vício que lhes foi imputado. Omissão existiria se o julgado tivesse deixado de se manifestar sobre algum ponto onde a sua manifestação se fizesse necessária, dentro da discussão do recurso, o que não ocorre.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ressalto que o contraponto aos argumentos das partes não demanda citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos). É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos, não fazendo sentido, assim, que se exija a pormenorização de cada tese jurídica ou precedente trazido à baila, à guisa de quesitos, como se laudo pericial fosse.
+Está correta a decisão que afastou a alegada violação.
+A respeito da questão apontada no recurso ora examinado, a PRIMEIRA TURMA resolveu que estaria correta a decisão então agravada ao concluir pela ausência de violação aos arts. 489 e 1.022 do CPC.
+Isso porque, cotejando-se as alegações apresentadas nos embargos de declaração opostos na origem e a decisão proferida pela Corte regional, a PRIMEIRA TURMA verificou que a prestação jurisdicional fora dada na medida da pretensão apresentada ao TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, o qual resolvera a controvérsia de forma fundamentada, não havendo que se falar em omissão, contradição, obscuridade ou erro material.
+Ao contrário do alegado pela parte recorrente, a decisão embargada não padece de vício algum. Não há a necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante não passa de mero inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021, sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
