@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PENHORA DE COTAS SOCIAIS. EXCESSO DE PENHORA. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a penhora de cotas sociais sem prévia avaliação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve excesso de penhora das cotas sociais, violando os princípios da execução menos gravosa e da redução da penhora aos bens suficientes para garantir o crédito exequendo.
+III. Razões de decidir
+3. No caso, o Tribunal de origem concluiu não ser possível o reconhecimento do alegado excesso de penhora enquanto não realizada a avaliação das cotas sociais, uma vez que o valor do capital social da empresa que consta dos autos é menor do que o valor da execução e o laudo apresentado pelos recorrentes foi produzido unilateralmente.
+4. Nesse contexto, a análise do excesso de penhora requer reexame do conjunto probatório, o que é vedado pela Súmula 7 do STJ.
+IV. Dispositivo
+5. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CLAUDIO LUIZ DE MORAES SANDRINI e ADRIANO DE MORAES SANDRINI contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EXECUÇÃO Penhora de cotas sociais Pretensão à redução Necessidade de prévia avaliação, mediante balanço especial (CPC, art. 861, I), a fim de verificar o alegado excesso Art. 874, I, do CPC Decisão mantida Recurso desprovido." (e-STJ, fl. 48)
+Os embargos de declaração opostos por ADRIANO DE MORAES SANDRINI e CLAUDIO LUIZ DE MORAES SANDRINI foram rejeitados à fl. 71 (e-STJ).
+Em seu recurso especial, os recorrentes alegam violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(I) art. 805 do CPC, pois teria ocorrido a violação ao princípio da execução menos gravosa para o executado, uma vez que a penhora teria sido determinada sobre todas as cotas sociais dos recorrentes, excedendo o valor necessário para satisfazer a execução, o que seria contrário ao dispositivo que orienta a execução pelo modo menos oneroso;
+(II) art. 874, I, do CPC, pois a decisão recorrida teria desconsiderado a possibilidade de redução da penhora aos bens suficientes para garantir o crédito exequendo, já que a penhora integral das cotas sociais dos recorrentes seria consideravelmente superior ao valor da dívida, contrariando o dispositivo que permite a redução da penhora quando o valor dos bens penhorados excede o crédito do exequente.
+Não foram apresentadas contrarrazões (e-STJ, fl. 76).
+O recurso especial foi inadmitido na origem, sob os seguintes fundamentos: (a) as questões suscitadas no recurso impõem a necessidade de exame dos elementos probatórios coligidos nos autos, o que é descabido na instância especial, incidindo a Súmula 7 do STJ; (b) o dissenso jurisprudencial deve ser comprovado por certidão, cópia, ou citação do repositório de jurisprudência, devendo ser demonstrado de forma analítica, mediante o confronto das partes idênticas ou semelhantes do acórdão recorrido e daqueles trazidos à colação, conforme exigido pelo art. 1.029, § 1º, do CPC, o que não foi realizado adequadamente (e-STJ, fls. 77-79).
+Contra essa decisão, interpuseram o presente agravo. No agravo em recurso especial (e-STJ, fls. 82-94), sustentaram os agravantes CLAUDIO LUIZ DE MORAES SANDRINI e ADRIANO DE MORAES SANDRINI que a decisão de inadmissibilidade do recurso especial invadiu a competência do Superior Tribunal de Justiça ao julgar o mérito, afirmando que a inaplicabilidade da Súmula 7 do STJ absorve todos os óbices apontados. Argumentaram também que a premissa de que a penhora deve recair sobre todas as cotas sociais não se aplica, pois a penhora integral ocorreu sem justificativa, contrariando os arts. 805 e 874, I, do CPC. O agravado BANCO SAFRA S/A apresentou contraminuta ao agravo em recurso especial (e-STJ, fls. 97-102).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PENHORA DE COTAS SOCIAIS. EXCESSO DE PENHORA. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a penhora de cotas sociais sem prévia avaliação.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve excesso de penhora das cotas sociais, violando os princípios da execução menos gravosa e da redução da penhora aos bens suficientes para garantir o crédito exequendo.
+III. Razões de decidir
+3. No caso, o Tribunal de origem concluiu não ser possível o reconhecimento do alegado excesso de penhora enquanto não realizada a avaliação das cotas sociais, uma vez que o valor do capital social da empresa que consta dos autos é menor do que o valor da execução e o laudo apresentado pelos recorrentes foi produzido unilateralmente.
+4. Nesse contexto, a análise do excesso de penhora requer reexame do conjunto probatório, o que é vedado pela Súmula 7 do STJ.
+IV. Dispositivo
+5. Recurso especial não conhecido.
+VOTO
+O agravo em recurso especial não encontra em seu caminho nenhum dos óbices do art. 253, parágrafo único, I, do RISTJ. É dizer, o recurso de agravo atende aos requisitos de admissibilidade, não se acha prejudicado e impugnou especificamente todos os fundamentos da decisão de inadmissibilidade do especial.
+Assim, autorizado pelo art. 1.042, § 5º, do CPC, promovo o julgamento do agravo conjuntamente com o recurso especial, passando a analisar, doravante, os fundamentos do especial.
+Em seu recurso especial, os recorrentes CLAUDIO LUIZ DE MORAES SANDRINI e ADRIANO DE MORAES SANDRINI alegam violação aos arts. 805 e 874, I, do Código de Processo Civil, pois teria ocorrido penhora excessiva das cotas sociais sem observância dos princípios da execução menos gravosa e da redução da penhora aos bens suficientes, resultando em constrição desproporcional ao valor da dívida.
+Ao abordar a questão, o acórdão recorrido concluiu não ser possível o reconhecimento do alegado excesso de penhora e a análise do pedido de redução da penhora enquanto não realizada a avaliação das cotas sociais, uma vez que o valor do capital social da empresa Grangold Granitos Ltda. apontado nos documentos constantes dos autos é menor do que o valor da execução e o laudo apresentado pelos recorrentes foi produzido unilateralmente. É o que se extrai do seguinte trecho do v. acórdão:
+"Recurso infundado. De fato, não há que se falar, por ora, em excesso de penhora. Isso porque o valor atualizado da execução é de R$ 88.924,92 (fl. 303) e foram penhoradas 12.5000 cotas sociais de cada um dos agravantes (fls. 253 e 267), sendo que o valor do capital social da empresa Grangold Granitos Ltda. é de R$ 50.000,00 (vide fl. 253). Assim, embora o laudo de avaliação apresentado pelos executados indique que as 12.500 cotas representem o patrimônio líquido de R$ 12.081.354,04 (vide fls. 275/277), é fato que se trata de documento produzido unilateralmente e que levou em consideração "Metodologia do Valor Justo dos Ativos e Passivos Divisíveis" (vide fl. 275, item "1"), enquanto a legislação processual exige a realização de balanço especial (CPC, art. 861, I). Portanto, até que seja realizada avaliação das cotas sociais na forma da legislação processual, não há como reconhecer o alegado excesso de penhora. Somente após tal providência é que poderá o juiz, com maior convicção, aferir da necessidade de eventual reforço ou redução. Lembre-se que, na forma do artigo 874, I, do Código de Processo Civil, a redução da penhora somente é possível após a avaliação dos bens."
+Como se nota, houve análise cuidadosa das circunstâncias fáticas para justificar a penhora das cotas sociais, não havendo como redimensionar o valor da penhora, segundo pretendido pelos recorrentes, sem revisitar o conjunto probatório.
+Em outras palavras, a identificação da inexistência de excesso de penhora, tendo-se em vista o valor das cotas sociais e o montante da dívida, não é possível sem o reexame da extensão da execução, o que demandaria nova incursão nos fatos e nas provas, vedada pela Súmula 7 deste Pretório.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MATÉRIAS DE ORDEM PÚBLICA. DECISÃO. PRECLUSÃO. POSSIBILIDADE. DEDUTÍVEL E DEDUZIDO. COISA JULGADA. EXCESSO DE PENHORA. MENOR ONEROSIDADE. VERIFICAÇÃO. REEXAME DE FATOS E DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Não há falar em negativa de prestação jurisdicional quando a Corte local pronuncia-se de forma expressa sobre o argumento deduzido pela parte, concluindo tratar-se de matéria preclusa.
+1.1. A Corte local não examinou a tese de incidência da "Taxa Selic" porque afirmou que houve preclusão sobre o tema, eis que objeto de diversas manifestações nos autos, com a apresentação de cálculos pelo credor sem a impugnação do devedor nesse ponto, e que não foi oportunamente suscitada nos embargos à execução opostos.
+2. É firme a jurisprudência do STJ no sentido de que mesmo as matérias de ordem pública sujeitam-se à preclusão e não podem ser reexaminadas se já tiverem sido objeto de anterior manifestação judicial em face da qual não caiba mais recurso. Precedentes.
+3. O art. 508 do CPC/2015 positiva a eficácia preclusiva da coisa julgada e o princípio do dedutível e do deduzido, enunciando que " t ransitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido".
+3.1. Consta dos autos que o agravante opôs embargos à execução ajuizada pelo agora agravado, e nada referiu para questionar o índice de atualização do valor da dívida. O julgamento dos embargos, dessarte, fez precluir as questões relacionadas ao suposto excesso de execução, que não podem ser agitadas em momento ulterior, ao fundamento de que se tratam de matéria de ordem pública.
+4. O recurso especial não comporta a análise de teses jurídicas cujo exame pressuponha o revolvimento do acervo fático-probatório dos autos.
+4.1. A avaliação sobre o cogitado excesso de execução e sobre a aplicação do princípio da menor onerosidade ao devedor esbarra no óbice previsto na Súmula n. 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.643.940/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/2/2025, DJEN de 14/2/2025.)
+No mais, a aplicação da Súmula 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial (REsp 2.196.064/BA, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025, DJEN de 4/4/2025).
+Com esses fundamentos, conheço do agravo para não conhecer do recurso especial.
+É como voto.
