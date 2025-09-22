@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por ITAU ADMINISTRADORA DE CONSORCIOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl.277):
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. CONSÓRCIO. DEVOLUÇÃO DE VALORES. FUNDO DE RESERVA. IMPOSSIBILIDADE DE RETENÇÃO. CLÁUSULA PENAL. INAPLICABILIDADE AO CASO. INDENIZAÇÃO POR D A N O S M O R A I S . C O I S A J U L G A D A . S E N T E N Ç A PARCIALMENTE MODIFICADA.
+I. CASO EM EXAME.
+1. Apelação cível interposta contra sentença que julgou parcialmente procedentes os pedidos formulados em ação para (i) condenar a administradora de consórcio à devolução das parcelas pagas, deduzindo taxas de administração e seguro, e (ii) indenizar o consumidor por danos morais. A sentença fixou correção monetária pelo INPC desde o desembolso, juros de mora de 1% ao mês a partir da contemplação, além de honorários advocatícios sobre o valor da condenação.
+II. QUESTÃO EM DISCUSSÃO.
+2. Há quatro questões em discussão: (i) saber se a sentença é nula por ausência de fundamentação; (ii) saber se é válida a retenção de valores direcionados ao Fundo de Reserva; (iii) saber se a aplicação de cláusula penal é cabível; (iv) saber se é devida a indenização por danos morais.
+III. RAZÕES DE DECIDIR. 3. A presente causa foi decidida nos limites do objeto da demanda, com fundamentação adequada e suficiente à resolução da lide, inexistindo deficiência de fundamentação. 4. Mostra-se devido o afastamento da retenção dos valores inerentes ao Fundo de Reserva, tal como exposto em sentença, porquanto não ficou demonstrado o efetivo prejuízo suportado pelo grupo de consorciados após o seu encerramento. 5. A cláusula penal é aplicável aos consorciados excluídos ou desistentes, o que não se enquadra ao presente caso, motivo pelo qual não há que se falar em sua incidência. 6. O pedido de indenização por danos morais deve ser julgado extinto sem resolução do mérito, porquanto há identidade entre a causa de pedir desta ação e outra anteriormente julgada improcedente, configurando coisa julgada. 7. Os consectários da devolução do crédito foram corretamente fixados, observando índices legais aplicáveis.
+IV. DISPOSITIVO E TESE.
+8. Recurso conhecido e extinto sem resolução do mérito em relação ao pedido de indenização por danos morais, ficando desprovido nos demais pontos. Tese de julgamento: 1. A ausência de comprovação de prejuízo ao grupo de consorciados impede a retenção de valores do Fundo de Reserva. 2. A cláusula penal não se aplica a consorciados que mantêm adimplência e contemplação. 3. A identidade da causa de pedir com ação anteriormente transitada em julgado impede nova indenização por danos morais. 4. O INPC é o índice aplicável à correção monetária de valores devidos em consórcios." Dispositivos relevantes citados: Lei nº 11.795/2008, art. 27; CC/2002, arts. 397, 485, V; CPC/2015, art. 489, § 1º. Jurisprudência relevante citada: R Esp 1363781/SP; Súmulas 35 e 43/STJ.
+Rejeitados os embargos de declaração opostos (fls.300-311).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 e 1.025, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial ao não analisar questões fundamentais, como a cláusula contratual (26.5) e os critérios de restituição previstos no art. 30 da Lei nº 11.795/2008 e enriquecimento ilícito.
+Aduz, no mérito, violação dos arts. 1.026, §2º, 30 da Lei n 11.795/2008, 884 do Código Civil e Súmula 35 do STJ.
+Sustenta, em síntese, que a restituição dos valores pagos ao consorciado deve ser calculada com base no percentual amortizado do valor do bem vigente na data da assembleia de contemplação e nos rendimentos das aplicações financeiras do grupo, conforme previsto em lei e contrato.
+Contesta, ainda, a aplicação do INPC como índice de correção monetária, argumentando que tal critério viola a legislação específica e a lógica econômico-financeira do consórcio.
+Requer, por fim, o afastamento da multa por embargos declaratórios, pois foram opostos com o objetivo legítimo de prequestionar a matéria.
+Foram oferecidas contrarrazões ao recurso especial (fls.339-343).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls.346-351), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 374-377).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem ao dar parcial provimento à apelação, solucionou a lide em conformidade ao que foi apresentado em juízo, sobretudo porque destacou que i) a cláusula penal foi afastada, pois o autor não se enquadra como consorciado desistente ou excluído, mas sim como consorciado ativo que continuou adimplindo as parcelas até o encerramento do grupo, bem como alegou que ii) a cláusula penal é aplicável apenas a consorciados desistentes ou excluídos. Além disso, a administradora não demonstrou prejuízo, requisito essencial para a aplicação da penalidade (fls. 284).
+Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+Em relação à apontada ofensa aos arts. 1.026, §2º, 30 da Lei n 11.795/2008, 884 do Código Civil, o recurso especial não merece prosperar porquanto en contra óbices nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. A proposito, cito o seguinte precedente:
+CIVIL. CONSÓRCIO. DESISTÊNCIA. DEVOLUÇÃO DE VALORES PAGOS. CABIMENTO, NO ENCERRAMENTO DO GRUPO. CORREÇÃO MONETÁRIA. CABIMENTO. RESTITUIÇÃO DO FUNDO DE RESERVA. CABIMENTO. DISPOSITIVOS LEGAIS ANALISADOS: ARTS. 25, 27, § 2º, 30 E 32 DA LEI Nº 11.795/08; E 14 E 26, I, DA CIRCULAR Nº 3.432/09.
+1. Ação ajuizada em 12.07.2002. Recurso especial concluso ao gabinete da Relatora em 19.02.2013.
+2. Recurso especial em que se discute se o consorciado que se retira antecipadamente do grupo de consórcio faz jus à devolução do montante pago a título de fundo de reserva, bem como se os valores devolvidos estão sujeitos a correção monetária.
+3. O pedido deve ser extraído da interpretação lógico-sistemática da petição inicial, a partir da análise de todo o seu conteúdo.
+4. Conforme decidido pela 2ª Seção do STJ no julgamento de recurso afetado como representativo de controvérsia repetitiva nos termos do art. 543-C do CPC, é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano.
+5. Nos termos do enunciado nº 35 da Súmula/STJ, incide correção monetária sobre as prestações pagas em virtude da retirada ou exclusão do participante de plano de consórcio.
+6. O fundo de reserva visa a conferir maior segurança ao grupo de consórcio, assegurando o seu perfeito equilíbrio e regular funcionamento, resguardando o fundo comum contra imprevistos como a inadimplência.
+7. Por se tratar de uma verba com destinação específica, uma vez encerrado o grupo, eventual saldo positivo da conta deverá ser rateado entre todos os consorciados, inclusive os desistentes, na proporção de sua contribuição.
+8. Considerando que o consorciado desistente somente ira receber seus haveres ao final, após o encerramento contábil do grupo - quando todos os participantes já terão sido contemplados e todas as despesas e encargos do grupo, inclusive os decorrentes de inadimplência e retirada antecipada, já estarão pagos - não há motivo para excluí-lo da devolução de eventual saldo do fundo de reserva.
+9. Agravo do CONSÓRCIO NACIONAL FORD LTDA. conhecido para negar provimento ao recurso especial. Recurso especial de OLGA SOUZA XAVIER DA ROSA e outro provido.
+(REsp n. 1.363.781/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/3/2014, DJe de 26/3/2014.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO SUFICIENTE DA DECISÃO. INEXISTÊNCIA DE OFENSA AOS ARTS. 489 E 1.022 DO CPC. CONSÓRCIO. CONSORCIADO EXCLUÍDO. CORREÇÃO MONETÁRIA. SÚMULA Nº 35 DO STJ. APLICAÇÃO DO ÍNDICE QUE MELHOR REFLITA A DESVALORIZAÇÃO DA MOEDA. JUROS DE MORA. APLICAÇÃO A PARTIR DO TRIGÉSIMO PRIMEIRO DIA DO ENCERRAMENTO DO GRUPO CONSORCIAL. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito e fundamentada corretamente a decisão recorrida, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts.
+489 e 1.022 do CPC.
+2. A correção monetária dos valores a serem restituídos ao consorciado excluído está prevista na Súmula nº 35 do STJ, segundo a qual incide correção monetária sobre as prestações pagas, quando de sua restituição, em virtude da retirada ou exclusão do participante de plano de consórcio.
+3. A correção monetária das parcelas a serem devolvidas deve seguir o índice que reflita de forma mais adequada a desvalorização da moeda, e não a variação do preço do bem que era objeto do consórcio.
+4. A aplicação dos juros de mora após o vencimento do prazo para restituição se dá a partir do trigésimo primeiro dia do encerramento do grupo consorcial.
+5. Agravo conhecido. Recurso especial não provido.
+(AREsp n. 2.745.718/CE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão de que a administradora não comprovou a utilização do fundo para cobrir despesas do grupo, o que justificou o afastamento da retenção, bem como a alegação de que os embargos de declaração foram protelatórios, exigem o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. MULTA EM RAZÃO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO TIDOS POR PROTELATÓRIOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. SITUAÇÃO EXCEPCIONAL NÃO CONSTATADA. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+2. Reverter a conclusão do acórdão recorrido no que tange ao caráter protelatório dos embargos declaratórios opostos ensejaria o revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.563.689/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
