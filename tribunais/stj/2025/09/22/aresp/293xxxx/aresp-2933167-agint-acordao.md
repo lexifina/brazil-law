@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INTEMPESTIVIDADE. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DO EXPEDIENTE FORENSE, POR DOCUMENTO IDÔNEO, APÓS INTIMAÇÃO PARA FAZÊ-LO.
+1. É intem pestivo o recurso especial em que a parte, após ser intimada para comprovar ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense (art. 1.030, §6º, do CPC), deixa de demonstrar por meio de documento oficial ou certidão expedida pelo Tribunal de origem o alegado, não bastando a mera menção à suspensão de prazos nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ANTONIA DO ROSARIO OLIVEIRA SANTOS contra decisão monocrática da Presidência que não conheceu do agravo em recurso especial em razão da intempestividade do recurso especial (fls. 927-928).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 209):
+APELAÇÃO Ação declaratória c/c indenização por danos morais e materiais Sentença de improcedência - Alegada falha na prestação de serviços por parte do recorrido ante o oferecimento de empréstimo não solicitado Existência de duas faturas seguidas do cartão de crédito que não foram pagas integralmente Parcelamento compulsório ante a Resolução 4549/2017 do Bacen Abusividade não evidenciada na hipótese Sentença de improcedência confirmada Recurso desprovido.
+Sem embargos de declaração.
+Alega a agravante que:
+O presente Agravo Interno merece ser acolhido, pois a decisão que não conheceu do Agravo em Recurso Especial por suposta intempestividade encontra-se eivada de nulidade, tendo em vista que houve menção expressa à ocorrência de feriado local (Data Magna de São Paulo - 9 de julho) e juntada de petição demonstrando a suspensão do expediente forense.
+Embora se alegue ausência de comprovação idônea, é pacífico no âmbito desta Corte que, não havendo má-fé, deve-se privilegiar o princípio da primazia do julgamento do mérito, permitindo-se a posterior juntada da certidão comprobatória, ou mesmo a aplicação do art. 932, parágrafo único, do CPC. (fl. 343).
+Colaciona print do calendário do Tribunal de origem sem qualquer indicação para validação da fonte.
+Conclui que (fl. 935):
+Com efeito, conforme certificado à fl. 903 dos autos, o v. acórdão recorrido foi considerado publicado em 24 de outubro de 2023, o prazo de quinze dias úteis para a interposição do recurso especial decorreu no dia 17 de novembro de 2023, tendo o recurso especial sido interposto no dia 17 de novembro de 2023, sendo certo que a petição recursal se mostrou desacompanhada de atos normativos de comprovação da suspensão da contagem do prazo recursal.
+Sustenta, outrossim, que:
+A decisão agravada sustentou a intempestividade do Recurso Especial afirmando que a "petição de fls. 314/315 veio desacompanhada de documento idôneo". Contudo, a Agravante, na referida petição (fls. 314/315 dos autos originários, equivalente às fontes a neste compilado), afirmou expressamente que "apresenta nesta oportunidade a íntegra do ato normativo suspensivo para comprovar a suspensão do expediente nos dias supracitados", citando o Provimento CSM nº 2.728/2024 e a Data Magna do Estado de São Paulo como feriados. Essa afirmação da Agravante está em direta contradição com o fundamento da decisão agravada.
+Se a "íntegra do ato normativo suspensivo" foi efetivamente apresentada, conforme alegado pela própria parte, tal documento, por sua natureza oficial, é considerado idôneo para a comprovação de feriados locais, em conformidade com a própria jurisprudência do Superior Tribunal de Justiça (que exige "documento oficial ou certidão expedida pelo tribunal de origem", e não meros "print de tela" ou "imagem de página extraída da internet"). (fl. 936).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada apresentou contrarrazões (fls. 354-367).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INTEMPESTIVIDADE. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DO EXPEDIENTE FORENSE, POR DOCUMENTO IDÔNEO, APÓS INTIMAÇÃO PARA FAZÊ-LO.
+1. É intem pestivo o recurso especial em que a parte, após ser intimada para comprovar ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense (art. 1.030, §6º, do CPC), deixa de demonstrar por meio de documento oficial ou certidão expedida pelo Tribunal de origem o alegado, não bastando a mera menção à suspensão de prazos nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, pois a agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Da detida análise dos autos, observa-se que a parte recorrente foi intimada do acórdão recorrido em 17.6.2024, sendo o recurso especial interposto somente em 10.7.2024. Desse modo, o recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042 e 219, caput, todos do Código de Processo Civil.
+Ressalta-se que é sedimentado nesta Corte o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido.
+A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem , enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+Com efeito, o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei n. 14.939/2024, aplicar-se-á a todos os processos em curso, devendo o recorrente comprovar a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o Tribunal determinará, a qualquer momento enquanto não encerrada a sua competência, a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico.
+No presente caso, a parte agravante foi intimada para comprovar a tempestividade do recurso, porém apenas citou as datas que supostamente eram feriados locais.
+É intempestivo o recurso especial em que a parte, após ser intimada para comprovar ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense (art. 1.030, §6º, do CPC), deixa de demonstrar por meio de documento oficial ou certidão expedida pelo Tribunal de origem o alegado, não bastando a mera menção à suspensão de prazos nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Portanto, não é possível afastar a intempestividade do recurso.
+Neste sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL OU SUSPENSÃO DO EXPEDIENTE FORENSE, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO CPC. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo em recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do CPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+2. Esta Corte firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção à suspensão de prazos nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+3. A jurisprudência do STJ entende que a segunda-feira de carnaval, quarta-feira de cinzas, dias da semana santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para demonstração da tempestividade recursal e devem ser comprovados pela parte recorrente, por meio de documentação idônea, no ato de interposição do recurso perante a Corte de origem, sendo inviável a regularização posterior.
+4. A alteração da redação do art. 1.003, § 6º, do CPC pela Lei nº 14.939/2024, em 30/07/2024, não afeta o caso em análise.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.656.600/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/2/2025, DJEN de 19/2/2025.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
