@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FELIPE FERNANDO QUEIROZ e OUTROS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 2º, 3º, § 2º, 6º, VIII, 14, 18 e 20 da Lei n. 8.078/1990 e pela incidência da Súmula n. 7 do STJ (fls. 894-895).
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que do agravo não se deve cpnhecer em razão da ausência de impugnação específica dos fundamentos da decisão agravada e, caso dele se conheça, deve ser desprovido, pois o recurso especial não atende aos requisitos legais, sendo protelatório, e requer a condenação dos agravantes ao pagamento de honorários advocatícios recursais (fls. 927-938).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de indenização por danos morais.
+O julgado foi assim ementado (fl. 848):
+APELAÇÃO CÍVEL Interposição contra sentença que julgou improcedente ação de indenização por danos morais. Alegação dos ex-alunos, recém-formados, em linhas gerais, de falta de organização, atraso no início da cerimônia, sofrimento, tumulto e transtornos em colação de grau. Autores que não se desvencilharam em produzir provas do fato constitutivo do direito alegado. Dano moral não configurado. Improcedência que se faz de rigor. Honorários advocatícios majorados nos termos do artigo 85, § 11º, do Código de Processo Civil de 2015. Sentença mantida. Apelação não provida.
+Não foram opostos embargos de declaração.
+No recurso especial, os recorrentes apontam violação dos seguintes artigos:
+a) 2º, 3º, caput e § 2º, 6º, VIII, 14, caput, 18 e 20 da Lei n. 8.078/1990, pois sustentam que a relação entre as partes é de consumo, sendo aplicável a inversão do ônus da prova, e que a má prestação de serviços pelas recorridas causou danos morais indenizáveis. Alega que o caso em tela trata-se de responsabilidade civil objetiva, em que basta a caracterização do nexo causal. Afirma que era ônus exclusivo das recorridas demonstrarem que a formatura dos seus alunos transcorreu normalmente, sem fatos extraordinários que se imputa e se prova que não foi feito;
+b) 186 e 927 do Código Civil, porque afirmam que a conduta das recorridas foi ilícita e gerou prejuízos aos recorrentes, configurando responsabilidade civil.
+Requerem o provimento do recurso para reformar o acórdão recorrido, reconhecendo a responsabilidade das recorridas e condenando-as ao pagamento de indenização por danos morais.
+Nas contrarrazões, a parte recorrida aduz que do recurso especial não se deve conhecer em razão da incidência da Súmula n. 7 do STJ e da ausência de demonstração de violação de lei federal, e, caso dele se conheça, deve ser desprovido, com a condenação dos recorrentes ao pagamento de honorários advocatícios recursais (fls. 885-893; 871-882).
+É o relatório. Decido.
+A controvérsia diz respeito a ação de indenização por danos morais em que a parte autora pleiteou a condenação das rés ao pagamento de indenização por danos morais em razão de má prestação de serviços durante a cerimônia de colação de grau.
+Na sentença, o Juízo de primeiro grau julgou improcedente a ação, condenando os autores ao pagamento de custas e honorários advocatícios fixados em R$ 6.000,00, condicionados à possibilidade dos beneficiários da gratuidade de justiça.
+A Corte estadual manteve integralmente a sentença.
+I - Arts. 2º, 3º, caput e § 2º, 6º, VIII, 14, caput, 18 e 20 da Lei n. 8.078/1990
+No recurso especial, os recorrentes alegam que a relação entre as partes é de consumo, sendo aplicável a inversão do ônus da prova, e que a má prestação de serviços pelas recorridas causou danos morais indenizáveis.
+O acórdão recorrido concluiu que, embora reconhecido o atraso na solenidade, os autores não se desvencilharam do ônus de provar os fatos constitutivos de seu direito, e que os dissabores enfrentados não configuram danos morais indenizáveis.
+Confira-se trecho do acórdão recorrido (fls. 851-853):
+Especificamente em relação à legislação consumerista e à inversão do ônus probatória dela constante, a falta de êxito dos autores decorre do quanto foi possível elucidar a partir das provas até por eles produzidas.
+De todo modo, sequer a incidência da inversão do ônus da prova, nos termos do artigo 6º, VIII, do Código de Defesa do Consumidor leva automaticamente ao êxito da pretensão formulada pela parte em todo e qualquer caso.  Ora, ainda que se possa cogitar que os autores tenham passado por aborrecimentos e dissabores com a alegada má prestação dos serviços, com eventual ausência de uma melhor organização, não conseguiram reunir provas dos danos morais sustentados.
+Com efeito, segundo as regras ordinárias acerca da distribuição do ônus da prova, conforme disposto no art. 373 do CPC, cabe ao autor provar o fato constitutivo do seu direito e ao réu a existência de fato impeditivo, modificativo ou extintivo do direito do autor (AgInt no AREsp n. 2.457.480/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024).
+Em se tratando de relação consumerista, esta Corte já decidiu que a inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor (AgInt no AREsp n. 2.604.539/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024).
+No caso, considerando que o Tribunal de origem, amparado no acervo fático-probatório dos autos, concluiu que a parte recorrente, na condição de autora, não logrou comprovar a verossimilhança das suas alegações e a existência de dano moral indenizável, rever as suas conclusões implicaria o necessário reexame do acervo fático-porbatório dos autos, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+II - Arts. 186 e 927 do Código Civil
+A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+III- Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
