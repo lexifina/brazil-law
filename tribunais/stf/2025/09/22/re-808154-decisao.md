@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pela União, em face do acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+
+    “TRIBUTÁRIO. IRPF. MULTA MORATÓRIA APLICADA NO PERCENTUAL DE 75%. ARTIGO 44, INCISO I, DA LEI Nº 9.430/96. CARÁTER CONFISCATÓRIO. REDUÇÃO. PRECEDENTES. 1. O cerne da discussão envolve a aplicação da multa no percentual de 75% sobre o montante a ser pago, previsto pelo art. 44, da Lei nº 9.430/96. 2. A aplicação da multa no percentual de 75% (setenta e cinco por cento) do montante a ser pago é exorbitante e violador do princípio da vedação do confisco inserido no art. 150, IV, da Constituição Federal, o qual também se aplica às infrações fiscais. A atuação do Fisco deve se pautar por critérios rígidos, mas que não atentem contra a propriedade do contribuinte a título de tributação. Precedente do STF. 3. Razoável a fixação da multa aplicada ao contribuinte em 20% (vinte por cento). 4. Precedentes deste egrégio Tribunal. 5. Remessa oficial e apelação improvidas.” (Apelação cível nº 416264 RN, 1ª Turma do Tribunal Regional Federal da 5ª Região, Juiz Francisco Cavalcanti, j. 13.7.2007)
+
+    Determinada a devolução dos autos à origem para a aplicação da sistemática de repercussão geral, considerado o Tema 863, retornam os autos à esta Suprema Corte por determinação da Vice-Presidente do Tribunal Regional Federal da 5ª Região que, em novo juízo de admissibilidade, apontou distinção com o paradigma indicado.
+
+    Na minuta, sustenta-se violação dos arts. 93, IX, 97 e 150, IV,da Constituição da República. Alega-se que o princípio da vedação do confisco é inaplicável no caso de não recolhimento do tributo. Afirma-se que o Tribunal declarou a inconstitucionalidade da multa de 75% sem observar a cláusula de reserva de plenário.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, não se vislumbra a alegada violação do art. 93, IX, da Carta da República. O dispositivo exige que sejam fundamentadas, ainda que sucintamente, todas as decisões dos órgãos do Poder Judiciário, sem determinar, contudo, o exame pormenorizado de todas as alegações das partes. No presente caso, o órgão julgador enfrentou as causas de pedir veiculadas pela parte, bem como motivou adequadamente sua decisão e solucionou a controvérsia aplicando o direito que entendeu pertinente na hipótese. Nesse sentido:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+
+    Da análise dos autos, verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de que “As multas moratórias instituídas pela União, Estados, Distrito Federal e municípios devem observar o teto de 20% do débito tributário” (Tese 816 da repercussão geral), razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “Recurso extraordinário. Repercussão geral. Tema nº 816. Direito tributário. ISS. Subitem 14.05 da lista anexa à LC nº 116/03. Incidência do imposto na industrialização por encomenda. Materiais fornecidos pelo contratante. Etapa intermediária de ciclo produtivo de mercadoria. Impossibilidade. Fixação do limite de 20% do valor do débito tributário como teto da multa moratória. 1. A solução da controvérsia quanto à incidência do ISS, nos termos do subitem 14.05 da lista anexa à LC nº 116/03, na industrialização por encomenda realizada em materiais fornecidos pelo contratante, passa pela identificação do papel que essa atividade tem na cadeia econômica. Se o objeto retorna à circulação ou à industrialização após a industrialização por encomenda, essa atividade representa apenas uma fase do ciclo econômico da encomendante, não estando, portanto, sujeita ao ISS. 2. As multas tributárias moratórias decorrem do simples atraso no pagamento do tributo. À luz dos princípios da proporcionalidade e da razoabilidade, adota-se o patamar de 20% do valor do débito tributário como teto da multa moratória. 3. Foram fixadas as seguintes teses para o Tema nº 816: “1. É inconstitucional a incidência do ISS a que se refere o subitem 14.05 da lista anexa à LC nº 116/03 se o objeto é destinado à industrialização ou à comercialização; 2. As multas moratórias instituídas pela União, pelos estados, pelo Distrito Federal e pelos municípios devem observar o teto de 20% do débito tributário”. 4. Recurso extraordinário provido. 5. Modulação dos efeitos da decisão nos termos da ata de julgamento.” (RE 882461, Relator(a): Dias Toffoli, Tribunal Pleno, Repercussão Geral - Mérito DJe 30-04-2025)
+
+    Havendo pronunciamento do Supremo Tribunal Federal sobre a matéria, dispensável a submissão da arguição de inconstitucionalidade ao plenário ou ao órgão especial do Tribunal de origem, razão pela qual não há falar em ofensa ao art. 97 da Carta Magna ou em contrariedade à Súmula Vinculante 10/STF. Nesse sentido: RE 593.948-AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 09.5.2011; RE 440.458-AgR/RS, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 06.5.2005; RE 594.515-AgR/RN, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 22.5.2012; e ARE 914.045-RG, Rel. Min. Edson Fachin, Pleno, DJe 19.11.2015, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO TRIBUTÁRIO E DIREITO PROCESSUAL CIVIL. CLÁUSULA DA RESERVA DE PLENÁRIO. ART. 97 DA CONSTITUIÇÃO FEDERAL. JURISPRUDÊNCIA DO TRIBUNAL PLENO DO STF. RESTRIÇÕES IMPOSTAS PELO ESTADO. LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA OU PROFISSIONAL. MEIO DE COBRANÇA INDIRETA DE TRIBUTOS. 1. A jurisprudência pacífica desta Corte, agora reafirmada em sede de repercussão geral, entende que é desnecessária a submissão de demanda judicial à regra da reserva de plenário na hipótese em que a decisão judicial estiver fundada em jurisprudência do Plenário do Supremo Tribunal Federal ou em Súmula deste Tribunal, nos termos dos arts. 97 da Constituição Federal, e 481, parágrafo único, do CPC. 2. O Supremo Tribunal Federal tem reiteradamente entendido que é inconstitucional restrição imposta pelo Estado ao livre exercício de atividade econômica ou profissional, quanto aquelas forem utilizadas como meio de cobrança indireta de tributos. 3. Agravo nos próprios autos conhecido para negar seguimento ao recurso extraordinário, reconhecida a inconstitucionalidade, incidental e com os efeitos da repercussão geral, do inciso III do §1º do artigo 219 da Lei 6.763/75 do Estado de Minas Gerais.”
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 22 de setembro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
