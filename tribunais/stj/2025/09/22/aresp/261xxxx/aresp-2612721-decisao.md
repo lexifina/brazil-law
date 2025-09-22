@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PARANÁ CURVOS INDÚSTRIA E COMÉRCIO DE VIDROS LTDA. contra decisão singular da lavra da Desembargadora Joeci Machado Camargo, 1ª Vice-Presidente do Tribunal de Justiça do Estado do Paraná, que não admitiu o recurso especial pelos seguintes fundamentos:
+a) Incidência da Súmula 7/STJ, em razão da necessidade de reexame de matéria fático-probatória para análise da alegada violação do art. 373, incisos I e II, do Código de Processo Civil;
+b) Ausência de prequestionamento quanto à alegada violação do art. 489, § 1º, IV, do Código de Processo Civil, atraindo a incidência das Súmulas 282 e 356/STF.
+Nas razões do presente agravo, a parte agravante alega, em síntese, que a decisão agravada incorreu em error in judicando ao aplicar a Súmula 7/STJ, pois a controvérsia não demanda reexame de provas, mas apenas a revaloração de fatos incontroversos. Sustenta, ainda, que houve prequestionamento implícito quanto à alegada violação do art. 489, § 1º, IV, do Código de Processo Civil, razão pela qual não se aplicam as Súmulas 282 e 356/STF.
+Impugnação ao agravo interno às fls. 514-522, na qual a parte agravada, INDÚSTRIA E COMÉRCIO DE VIDROS NERI LTDA., defende a manutenção da decisão agravada, reiterando os fundamentos nela expostos.
+Assim delimitada a controvérsia, passo a me manifestar.
+O recurso não merece prosperar.
+Originariamente, INDÚSTRIA E COMÉRCIO DE VIDROS NERI LTDA. ajuizou ação de reparação por danos materiais e morais contra PARANÁ CURVOS INDÚSTRIA E COMÉRCIO DE VIDROS LTDA., alegando que celebrou contrato verbal com a ré para intermediação na aquisição de 20 contêineres de vidro flotado, importados da empresa turca SISECAM DIS TICARET A.S. Sustentou que efetuou o pagamento de R$ 381.377,12 à ré, que deveria repassar os valores à exportadora, o que não ocorreu, obrigando a autora a pagar novamente pela mercadoria, em razão de confissão de dívida firmada com a empresa turca.
+A sentença julgou parcialmente procedentes os pedidos iniciais, condenando a ré à devolução dos valores pagos pela autora, devidamente corrigidos, e ao pagamento de encargos decorrentes da confissão de dívida.
+O Tribunal de origem, ao julgar a apelação interposta pela ré, manteve a sentença, destacando que os valores pagos pela autora à ré correspondiam ao preço da mercadoria adquirida, e que não foram comprovados outros serviços prestados pela ré que justificassem o pagamento. Concluiu, ainda, que a ré não repassou os valores à exportadora, ensejando o pagamento em duplicidade pela autora.
+Como constou na decisão agravada, a análise da controvérsia destacada no artigo 373 do CPC demanda necessariamente o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. A pretensão da agravante de rediscutir a destinação dos valores pagos pela autora e a existência de serviços de intermediação prestados pela ré encontra óbice na referida súmula.
+Ademais, quanto à alegada violação do art. 489, § 1º, IV, do Código de Processo Civil, verifica-se que a questão não foi objeto de debate prévio pelo Tribunal de origem, atraindo a incidência das Súmulas 282 e 356/STF.
+Vale dizer que a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exigiria que no mesmo recurso fosse indicada violação do art. 1.022 do CPC, para que se possibilite a verificação da existência de negativa de prestação jurisdicional, que, uma vez constatada, poderia dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+Na espécie, porém, o agravante sequer manejou embargos de declaração, não havendo falar em prequestionamento ficto.
+Vide, nesse sentido, o AgInt no REsp n. 1.884.543/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.
+Nesse contexto, não havendo arg umentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
