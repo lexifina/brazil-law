@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. O art. 1.022 do Código de Processo Civil é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão, hipóteses não verificadas no caso em comento.
+2. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que não é cabível recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão, a não ser nas hipóteses de ofensa direta à legislação federal que regulamenta tal medida. Incidência, por analogia, da Súmula 735 do Supremo Tribunal Federal (STF).
+3. Extrai-se do art. 105, incis o III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por BSB ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA - ME da decisão em que conheci em parte do recurso especial e, nessa parte, a ele neguei provimento (fls. 586/590).
+A parte agravante insiste no argumento de violação aos arts. 489 e 1.022 do Código de Processo Civil (CPC), afirmando que a aplicação da Súmula 735/STF deve ser mitigada e que a reforma do acórdão recorrido proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO não depende da revisão de fatos e provas presentes nos autos (fls. 596/613). Sustenta que "o procedimento que resultou na decisão final de baixa do CNPJ da Agravante, também, se desenvolveu de forma irregular, sem se amoldar ao regramento contido no referido Decreto nº 70.235/72" (fl. 610).
+Requer a reconsideração da decisão agravada ou o julgamento deste recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 619).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVIMENTO NEGADO.
+1. O art. 1.022 do Código de Processo Civil é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão, hipóteses não verificadas no caso em comento.
+2. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que não é cabível recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão, a não ser nas hipóteses de ofensa direta à legislação federal que regulamenta tal medida. Incidência, por analogia, da Súmula 735 do Supremo Tribunal Federal (STF).
+3. Extrai-se do art. 105, incis o III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+VOTO
+Como exposto na decisão agravada, a parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 486/487):
+Verifica-se, no presente caso, com as mais alargadas vênias, a existência de relevante omissão, da qual decorreu erro material, haja vista que Vossa Excelência não sopesou, na articulação da fundamentação da decisão, ora recorrida, acerca do acórdão proferido nos autos do Agravo de Instrumento nº 0033315-29.2015.4.01.0000, o qual em prestígio às garantias constitucionais do Devido Processo Legal e da Ampla Verdade e ao princípio da Busca da Verdade Real, decretou-se a imprescindibilidade da prova pericial para apuração da imputação de "fantasma" feita à outra empresa integrante do "Grupo OK", mas alcançada pelo mesmo ato fiscal impugnado nesta ação.
+Ao apreciar o recurso integrativo e convertê-lo em agravo interno, o Tribunal de origem decidiu o seguinte (fls. 517/518):
+O presente agravo interno não trouxe novos elementos a invalidar ou sequer afastar a decisão ora atacada, a qual deve ser mantida e cujo teor segue abaixo transcrito:
+ ..
+Ademais, não há pedido para a realização de prova pericial, mas tão somente que a autoridade fazendária tome em consideração as alegações de defesa, a desconstituir o ato administrativo impugnado.
+Foi verificado que, embora houvesse indicação de omissão, não foi requerida a prova pericial supostamente necessária. Também entendeu o órgão julgador que a matéria trazida pela parte recorrente não trouxe elementos para modificar a decisão recorrida.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+A despeito do que é argumentado no recurso ora examinado, a parte recorrente, em seu recurso especial, visa impugnar acórdão proferido em agravo de instrumento, recurso esse interposto em razão de decisão interlocutória proferida pelo Juízo de primeiro grau por meio da qual havia sido deferido o requerimento de tutela de urgência para fornecimento de medicamento. O questionamento referente a uma suposta violação ao art. 300 do CPC para indeferir a liminar é, essencialmente, o mesmo que questionar os fundamentos em si.
+Para o Superior Tribunal de Justiça, não é cabível recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão, a não ser nas hipóteses de ofensa direta à legislação federal que regulamenta tal medida.
+Não é possível conhecer do recurso quanto ao ponto em razão da natureza precária da decisão impugnada. Incide no presente caso, por analogia, o óbice da Súmula 735 do Supremo Tribunal Federal.
+Nesse sentido, assim se pronunciou a Primeira Turma deste Tribunal:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA QUE INDEFERIU A TUTELA DE URGÊNCIA. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. INCIDÊNCIA DA SÚMULA 735/STF. PROVIMENTO NEGADO.
+1. Nos termos da Súmula 735 do Supremo Tribunal Federal, "não cabe recurso extraordinário contra acórdão que defere medida liminar", orientação que se estende às decisões que apreciam pedido de antecipação de tutela, aplicando-se, por analogia, ao recurso especial.
+2. A análise realizada em liminar ou antecipatória de tutela, na mera aferição dos requisitos de perigo da demora e de relevância jurídica, ou de verossimilhança e fundado receio de dano, respectivamente, não acarreta, por si só, o esgotamento das instâncias ordinárias, requisito indispensável à inauguração da instância especial conforme a previsão constitucional.
+3. Este Tribunal Superior admite o afastamento do enunciado sumular em questão nas hipóteses em que a concessão, ou não, da medida liminar e o deferimento, ou não, da antecipação de tutela caracterizar ofensa direta à lei federal que regulamenta esses institutos, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa, o que não é o caso dos autos.
+4. O presente caso trata do efetivo debate acerca da interpretação dos arts. 44 e 61, § 3º, da Lei 9.430/1996, o que evidencia a incidência do óbice da Súmula 735/STF, uma vez que, enquanto não advier sentença de mérito, não se consideram exauridas as instâncias ordinárias.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.894.762/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023 , DJe de 20/9/2023 .)
+Está correta a decisão que não conheceu do recurso especial devido à incidência, por analogia, da Súmula 735 do Supremo Tribunal Federal.
+Conforme consignado na decisão agravada, a decisão do Tribunal de origem se baseou em fatos e provas constantes dos autos.
+O argumento da parte agravante de mera questão de direito não prospera visto que o debate - sobre a necessidade de reativação do seu CNPJ e deferimento em outro processo em vista de procedimento de baixa supostamente irregular - constitui justamente o ponto controvertido que foi decidido por meio do amplo exame dos autos, sem mencionar as demais nuances inerentes ao processo, não havendo que se falar, assim, em existência de circunstância ou fato incontroverso, o qual a parte omitiu-se de apontar.
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso com fundamento na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
