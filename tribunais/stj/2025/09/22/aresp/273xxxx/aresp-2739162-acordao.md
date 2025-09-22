@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COBRANÇA DE FATURAS DE ENERGIA ELÉTRICA. CITAÇÃO TARDIA. NÃO INTERRUPÇÃO DA PRESCRIÇÃO. CITAÇÃO VÁLIDA. PRAZO PRESCRICIONAL ULTRAPASSADO. AGRAVO CONHECIDO E RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. A citação tardia por fato não imputável a administração da justiça tem impacto direto na prescrição da pretensão de cobrança, pois o art. 240 do CPC estabelece que a interrupção da prescrição ocorre com o despacho que ordena a citação, retroagindo à data da propositura da ação, desde que a citação seja efetuada dentro de 10 (dez) dias, o que não ocorreu.
+2. A citação válida, ocorrida em 2021, ultrapassou o prazo prescricional de 10 anos para a cobrança das faturas de energia elétrica.
+3. Agravo conhecido. Recurso especial provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MARIA ESPERANÇA DOS SANTOS VIANA (MARIA) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 343-347).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O recurso especial, amparado no art. 105, III, a, da CF, foi interposto contra acórdão do Tribunal estadual assim ementado:
+DIREITO PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO MONITORIA - COBRANÇA DE FATURAS DE ENERGIA ELÉTRICA - PRESCRIÇÃO DECENAL - ENTENDIMENTO DO STJ - CITAÇÃO PESSOAL NÃO EFETIVADA DENTRO DO PRAZO LEGALMENTE ESTABELECIDO - CITAÇÃO POR EDITAL EFETIVADA APÓS O DECURSO DO PRAZO PRESCRICIONAL - NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL - RECONHECIMENTO DE PRESCRIÇÃO DAS FATURAS ANTERIORES À CITAÇÃO EDITALÍCIA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO - SENTENÇA REFORMADA (e-STJ, fl. 272).
+Nas razões do seu inconformismo, MARIA alegou ofensa aos arts. 205 do CC/2002 e 240, caput, §§ 1º e 2º, do CPC. Sustentou que (1) deve ser declarada a ocorrência de prescrição de todas as faturas de energia elétrica cobradas, referentes a setembro de 2006 a janeiro de 2010; (2) a pretensão de cobrança de faturas de energia elétrica deve ser exercida no prazo de 10 anos; (3) na hipótese, as faturas de energia venceram faz mais de 10 anos, considerando que o edital de citação foi publicado aos 19/10/2021 (e-STJ, fls. 199/200); e (4) o Tribunal estadual, de forma equivocada, preconizou que a ora agravante foi citada aos 19/10/2019.
+Foram apresentadas contrarrazões (e-STJ, fls. 306-318).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COBRANÇA DE FATURAS DE ENERGIA ELÉTRICA. CITAÇÃO TARDIA. NÃO INTERRUPÇÃO DA PRESCRIÇÃO. CITAÇÃO VÁLIDA. PRAZO PRESCRICIONAL ULTRAPASSADO. AGRAVO CONHECIDO E RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. A citação tardia por fato não imputável a administração da justiça tem impacto direto na prescrição da pretensão de cobrança, pois o art. 240 do CPC estabelece que a interrupção da prescrição ocorre com o despacho que ordena a citação, retroagindo à data da propositura da ação, desde que a citação seja efetuada dentro de 10 (dez) dias, o que não ocorreu.
+2. A citação válida, ocorrida em 2021, ultrapassou o prazo prescricional de 10 anos para a cobrança das faturas de energia elétrica.
+3. Agravo conhecido. Recurso especial provido.
+VOTO
+O inconformismo merece prosperar.
+Quanto à assertiva de que transcorreu o prazo prescricional para a cobrança de todas as faturas de energia elétrica cobradas
+MARIA alegou ofensa aos arts. 205 do CC/2002 e 240, caput, §§ 1º e 2º, do NCPC. Sustentou que (1) deve ser declarada a ocorrência de prescrição de todas as faturas de energia elétrica cobradas, referentes a setembro de 2006 a janeiro de 2010; (2) a pretensão de cobrança de faturas de energia elétrica deve ser exercida no prazo de 10 anos; (3) na hipótese, as faturas de energia venceram faz mais de 10 anos, considerando que o edital de citação foi publicado aos 19/10/2021 (e-STJ, fls. 199/200); e (4) o Tribunal estadual, de forma equivocada, preconizou que a ora agravante foi citada aos 19/10/2019.
+A esse respeito, a Corte local assim consignou que a demora na citação não pode ser atribuída aos trâmites da própria Justiça, nos seguintes termos:
+Dos autos, denota-se que o cerne da presente discussão é a ocorrência ou não da prescrição de faturas de energia elétrica em razão do lapso temporal decorrido até a citação editalícia da devedora. De início, devemos destacar que a pretensão de cobrança de fatura de energia elétrica deve ser exercida no prazo de 10 (dez) anos (prescrição decenal), consoante artigo 205 do Código Civil.
+Logo, quanto ao prazo prescricional decenal, nada há que se falar, estando já pacífico esse entendimento, motivo pelo qual passamos aos fatos narrados na exordial, conjuntamente com a decisão recorrida.
+Pretende a parte autora por meio da ação monitoria reaver os valores devidos pela parte Apelante correspondente às faturas de energia elétrica do período compreendido entre setembro/2006 a janeiro/2010, tendo a demanda sido ajuizada em outubro de 2012.
+Analisando o caderno processual, verifico que a demanda foi ajuizada ainda dentro do prazo prescricional. Todavia, a parte autora não logrou êxito em encontrar a devedora para que fosse citada pessoalmente, motivo pelo qual foi efetuada sua citação por edital publicado em 19/10/2019 (fls. 200).
+Assim, embora a época da propositura da ação ainda não tivesse se operado o instituto da prescrição, o fato é que, durante a instrução processual, ela ocorreu, uma vez que o ato citatório somente foi efetuado em 19/10/2019, 07 (sete) anos após a propositura da ação. De acordo com o artigo 240 do CPC, verifica-se que compete à parte requerente promover a citação da parte contrária dentro do prazo de 10 (dez) dias:
+ ..
+Ressalto, por conseguinte, que a não localização do devedor não pode ser atribuída ao Poder Judiciário, pois cabia à Apelada efetivar as diligências extrajudiciais para tentar localizar a devedora, bem como todos pedidos formulados pelo apelante foram apreciados a tempo e modo razoável pelo Magistrado de origem, razão pela qual não se aplica o enunciado n. 106 da Súmula do Superior Tribunal de Justiça. Apesar de a Apelada ter manifestado-se nos autos requerendo diligências, a mesma insistiu em endereços que já haviam sido infrutíferos e requerimentos que não surtiram o devido efeito positivo.
+Nos termos da legislação citada, o prazo será interrompido pelo despacho do juiz que ordenar a citação, desde que a citação seja efetuada dentro do prazo de 10 (dez) dias, hipóteses em que retroagirá à data da propositura da ação (art. 240, § 2.º do CPC). Dessa forma, se a citação não for efetuada no prazo disciplinado no § 2º do artigo 240, a interrupção da prescrição não retroagirá à data da propositura da ação, passando a valer, como interrupção da prescrição, a data da citação válida.
+Não obstante tenha ocorrido a citação por edital da requerida, tal ato processual foi efetivado após o transcurso do prazo legal, devendo ser decretada a prescrição das faturas de energia anteriores a outubro de 2009, considerando que o edital de citação somente foi publicado em 19/10/2019 (fls. 200).
+ ..
+Diante de todo o exposto, conheço do recurso e, no mérito, dou-lhe parcial provimento, para reformar a sentença de fls. 224/227, no sentido de reconhecer a prescrição da cobrança relativa às faturas de energia elétrica anteriores a 19/10/2009 (e-STJ, fls. 273/276).
+Nesse sentido, o acórdão proferido pelo Tribunal de Justiça do Amazonas assentou que a citação por edital foi realizada em 2019 (e-STJ, fl. 274).
+No entanto, conforme consta das razões do recurso especial, a citação por edital foi efetivada em 2021, conforme se verifica do caderno processual (e-STJ, fls. 199/200).
+Dessa forma, a citação tardia tem impacto direto na prescrição das faturas de energia elétrica, pois o art. 240 do CPC estabelece que a interrupção da prescrição ocorre com o despacho que ordena a citação, retroagindo à data da propositura da ação, desde que a citação seja efetuada dentro de 10 dias, o que não ocorreu.
+De fato, a citação válida, ocorrida em 2021, ultrapassou o prazo prescricional de 10 anos para a cobrança das faturas de energia elétrica.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ERRO MATERIAL DO ACÓRDÃO. INEXISTÊNCIA. DEMORA NA PROMOÇÃO DA CITAÇÃO DO RÉU. DECURSO DO PRAZO PRESCRICIONAL. SÚMULA 83/STJ. CULPA PELA DEMORA. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição, obscuridade ou erro material no aresto recorrido, não se vislumbra a ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015.
+2. Nos termos da jurisprudência do STJ, " é  consequência inarredável das normas de regência que não há interrupção da prescrição (i) se a citação ocorre depois da implementação do prazo prescricional, salvo demora imputável à administração judiciária (§ 3.º do art. 240 do CPC/2015); ou, mesmo antes, (ii) se a citação não obedece a forma da lei processual" (EAREsp 1.294.919/PR, Relatora Ministra LAURITA VAZ, Corte Especial, julgado em 5/12/2018, DJe de 13/12/2018).
+3. Concluindo o Tribunal de origem pela falha exclusiva do autor da ação e inexistência de demora inerente ao Poder Judiciário, a modificação desse entendimento exige o reexame de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ).4. Agravo interno improvido.
+(AgInt no AREsp n. 1.756.465/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO EXEQUENTE.
+1. Segundo a jurisprudência do STJ, a citação válida retroage à data da propositura da ação para efeitos de interrupção da prescrição, conforme o art. 219, § 1º, do CPC/1973 (art. 240, § 1º, do CPC/2015). Por sua vez, o § 4º daquele dispositivo prevê que, se a citação não for efetivada nos prazos legais, não se reputará interrompida a prescrição, salvo nos casos em que o atraso não puder ser imputado ao autor da ação (Súmula 106/STJ). Precedentes.
+1.1. Hipótese em que a Corte local, à luz das particularidades da causa, consignou a ocorrência de desídia por parte do exequente.
+Incidência das Súmulas 7 e 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.756.759/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025 - sem destaque no original)
+Nessa linha, diante da citação válida ocorrida em 2021, todas as faturas de energia elétrica do período de 2006 a 2010 estão prescritas, tendo o aresto recorrido incidido em erro ao reconhecer a prescrição apenas das faturas anteriores a outubro de 2009, quando, na verdade, a prescrição deveria abranger todas as faturas do período mencionado, conforme requerido pela parte agravante.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, de modo a reformar o acórdão recorrido para acolher os embargos à monitória e extinguir o processo com base no reconhecimento da prescrição das faturas de energia elétrica do período de setembro de 2006 a janeiro de 2010.
+Em razão da sucumbência, CONDENO a AMAZONAS ENERGIA S.A. ao pagamento das custas e dos honorários advocatícios sucumbenciais, que fixo em 10% sobre o valor da causa.
+É o voto.
