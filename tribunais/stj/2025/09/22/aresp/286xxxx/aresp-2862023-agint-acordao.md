@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COPARTICIPAÇÃO. LIMITAÇÃO. POSSIBILIDADE. SÚULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É reconhecido que a cláusula de coparticipação, quando acordada e restrita proporcionalmente ao valor da mensalidade, é legítima e não caracteriza índole abusiva, conforme entendimento consolidado por este Tribunal Superior.
+2. Não há afronta legal no decisum que limitou os valores a serem pagos a título de coparticipação a duas vezes o valor da mensalidade, especificamente quanto às terapias para tratamento de paciente diagnosticado com TEA, com vistas a impedir o custeio integral do tratamento pelo paciente e a viabilizar seu acesso à saúde. Precedentes. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO contra decisão monocrática proferida por esta Relatoria (e-STJ, fls. 785/788), que conheceu do agravo para negar provimento ao recurso especial.
+A parte agravante, em suas razões recursais, sustenta, em síntese, que a decisão merece reconsideração, alegando, para tanto, que não se aplica ao caso a Súmula 83/STJ, haja vista que "Fora interposto Agravo em Recurso Especial da decisão demonstrando amplamente a inaplicabilidade da Súmula 83/STJ no caso em tela, tendo em vista que apesar desta Corte limitar a cobrança de coparticipação foi autorizado cobrança do saldo remanescente nas faturas futuras, o que não ocorreu na decisão do tribunal a quo" (e-STJ, fl. 795).
+Defende, ainda, que "O entendimento do STJ é em sentido contrário, inclusive o recurso Especial apresenta dissídio jurisprudencial apontado a legalidade na cobrança de coparticipação" e que "O caso em análise deverá ser julgado única e exclusivamente acerca da autorização de cobrança do saldo remanescente da limitação da coparticipação imposta na sentença/acórdão" (e-STJ, fl. 795).
+Requer a reconsideração da decisão ou sua reforma pela Turma julgadora.
+Devidamente intimada, a parte agravada deixou de apresentar impugnação (e-STJ, fl. 805).
+O Ministério Público Federal, em parecer, pugnou pelo não provimento do recurso.
+É o relatório.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COPARTICIPAÇÃO. LIMITAÇÃO. POSSIBILIDADE. SÚULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É reconhecido que a cláusula de coparticipação, quando acordada e restrita proporcionalmente ao valor da mensalidade, é legítima e não caracteriza índole abusiva, conforme entendimento consolidado por este Tribunal Superior.
+2. Não há afronta legal no decisum que limitou os valores a serem pagos a título de coparticipação a duas vezes o valor da mensalidade, especificamente quanto às terapias para tratamento de paciente diagnosticado com TEA, com vistas a impedir o custeio integral do tratamento pelo paciente e a viabilizar seu acesso à saúde. Precedentes. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece acolhimento.
+Pois bem, consoante consignado na decisão ora recorrida, em suas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação do art. 16, VIII, da Lei 9.656/98, sustentando, em síntese, que a cobrança de coparticipação deve ser realizada conforme o contrato, sem limitação imposta pelo Judiciário, sob pena de causar desequilíbrio contratual e financeiro. Por fim, defendeu seja declarada a validade da cláusula que impõe a coparticipação no percentual de 30%.
+Cinge-se a controvérsia, portanto, em definir se, no caso dos autos, deve-se limitar a coparticipação a ser paga, relativamente às terapias realizadas para o tratamento de menor diagnosticado com TEA.
+É reconhecido que a cláusula de coparticipação, quando acordada e restrita proporcionalmente ao valor da mensalidade, é legítima e não caracteriza índole abusiva, conforme entendimento consolidado por este Tribunal Superior.
+Assim, tem-se que andou bem o Tribunal Estadual ao consignar que, apesar de tratar-se de cobrança lícita, o montante exigido não pode restringir o acesso do paciente segurado ao tratamento prescrito. De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido, litteris (e-STJ, fls. 653/655):
+"Sobre o tema, o e. Superior Tribunal de Justiça já se pronunciou sobre o tema recursal - legalidade da cobrança de coparticipação - e em julgamento de recursos especiais repetitivos, a Segunda Seção do STJ, fixou a tese de(TEMA 1.032) que, nos contratos de plano de saúde, não é abusiva a cláusula de coparticipação expressamente ajustada e informada ao consumidor, in verbis:
+(..)
+Assim, não há ilegalidade ou abusividade na contratação de plano de saúde em regime de coparticipação, expressamente contratada e informada ao consumidor.
+Todavia, o percentual cobrado sobre cada sessão das terapias realizadas pela parte autora não pode dificultar a continuidade do tratamento, pois restringe o acesso às terapias indicadas para desenvolvimento social do menor.
+Dessa forma, este e. Tribunal de Justiça, quando do julgamento do RAC n. 1033144-07.2021.8.11.0041, sob a técnica de julgamento ampliado (art. 942 do CPC) decidiu pela legalidade da cobrança da coparticipação nas sessões de terapias para os portadores de transtorno de espectro autista, mas impôs um teto de cobrança pelas operadoras, de modo a não inviabilizar o tratamento, e por outro lado manter o equilíbrio atuarial, senão vejamos:
+(..)
+Com efeito, o direito da parte agravada ao tratamento deve ser assegurado sob pena de prejudicar o seu desenvolvimento, no entanto, deve ser garantido, também, o equilíbrio contratual, sob pena de ocasionar prejuízos irreparáveis à agravante na hipótese de ter que custear integralmente o tratamento indicado quando há expressa previsão contratual prevendo esta modalidade de cobrança.
+Logo, a cobrança da coparticipação deve se limitar, em relação às terapias realizadas para tratamento do TEA, em até 2 (duas) vezes o valor da mensalidade, conforme bem determinado na sentença."  g.n
+É nesse mesmo sentido a jurisprudência deste Tribunal Superior, não havendo afronta legal no decisum que limitou os valores a serem pagos a título de coparticipação a duas vezes o valor da mensalidade, especificamente quanto às terapias para tratamento do paciente com TEA, com vistas a impedir o custeio integral do tratamento pelo paciente e a viabilizar seu acesso à saúde. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. TRANSTORNO DO ESPECTRO AUTISTA. TRATAMENTO MULTIDISCIPLINAR. COPARTICIPAÇÃO. RESTRIÇÃO DE ACESSO À SAÚDE. VEDAÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal de origem entendeu que o percentual de coparticipação, adicionado a cada sessão das terapias realizadas pelo autor para o tratamento do Transtorno do Espectro Autista (TEA), indubitavelmente, inviabilizaria a continuidade da terapêutica, constituindo, assim, um fator restritivo de acesso ao serviço de saúde.
+2. Esta Corte de Justiça pacificou o entendimento de que não é abusiva cláusula contratual de plano privado de assistência à saúde que estabeleça a coparticipação do usuário nas despesas médico-hospitalares, desde que não inviabilize o acesso à saúde.
+Incidência da Súmula 83/STJ.
+3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetem, de maneira significativa, a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares, prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes, como é o caso dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.085.472/MT, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/11/2023, DJe de 23/11/2023.)
+RECURSO ESPECIAL. CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. COPARTICIPAÇÃO DO USUÁRIO EM VALORES PERCENTUAIS. PREVISÃO CONTRATUAL CLARA E EXPRESSA. TRATAMENTO SEM INTERNAÇÃO. LEGALIDADE. FATOR DE RESTRIÇÃO SEVERA AOS SERVIÇOS. INEXISTÊNCIA. ABUSIVIDADE. AFASTAMENTO.
+1. Cinge-se a controvérsia a saber se é abusiva cláusula contratual de plano de saúde que prevê a coparticipação do usuário nas despesas médico-hospitalares em percentual sobre o custo do tratamento.
+2. Os planos de saúde, instituídos com o objetivo de melhor gerir os custos da assistência privada à saúde, podem ser integrais (completos) ou coparticipativos.
+3. O art. 16, VIII, da Lei nº 9.656/1998 permitiu a inclusão de fatores moderadores, paralelos às mensalidades, no custeio dos planos de saúde, como a coparticipação, a franquia e os limites financeiros, que devem estar devidamente previstos no contrato, de forma clara e legível, desde que também não acarretem o desvirtuamento da livre escolha do consumidor. Precedente.
+4. A adoção da coparticipação no plano de saúde implica diminuição do risco assumido pela operadora, o que provoca redução do valor da mensalidade a ser paga pelo usuário, que, por sua vez, caso utilize determinada cobertura, arcará com valor adicional apenas quanto a tal evento.
+5. Os fatores moderadores de custeio, além de proporcionar mensalidades mais módicas, são medidas inibitórias de condutas descuidadas e pródigas do usuário, visto que o uso indiscriminado de procedimentos, consultas e exames afetará negativamente o seu patrimônio. A prudência, portanto, figura como importante instrumento de regulação do seu comportamento.
+6. Não há falar em ilegalidade na contratação de plano de saúde em regime de coparticipação, seja em percentual sobre o custo do tratamento seja em montante fixo, até mesmo porque "percentual de co-participação do consumidor ou beneficiário" (art. 16, VIII, da Lei nº 9.656/1998) é expressão da lei. Vedação, todavia, da instituição de fator que limite seriamente o acesso aos serviços de assistência à saúde, a exemplo de financiamentos quase integrais do procedimento pelo próprio usuário, a evidenciar comportamento abusivo da operadora.
+7. A coparticipação em percentual sobre o custo do tratamento é proibida apenas nos casos de internação, e somente para os eventos que não tenham relação com a saúde mental, devendo, no lugar, ser os valores prefixados (arts. 2º, VII e VIII, e 4º, VII, da Resolução CONSU nº 8/1998).
+8. O afastamento da cláusula de coparticipação equivaleria a admitir-se a mudança do plano de saúde para que o usuário arcasse com valores reduzidos de mensalidade sem a necessária contrapartida, o que causaria grave desequilíbrio contratual por comprometer a atuária e por onerar, de forma desproporcional, a operadora, a qual teria que custear a integralidade do tratamento.
+9. Recurso especial provido.
+(REsp n. 1.566.062/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 21/6/2016, DJe de 1/7/2016.)
+Acrescente-se que, por decorrência lógica da limitação do valor da coparticipação das terapias em questão, como pontuado pelo Tribunal local, não há que se falar em saldo remanescente a ser cobrado em faturas futuras (e-STJ, fl. 656).
+Observa-se, portanto, que o acórdão recorrido está em consonância com o entendimento jurisprudencial desta Corte Superior. Logo, a manutenção do referido acórdão, no ponto objeto do recurso, é medida que se impõe, mormente ante a incidência da Súmula 83/STJ.
+Isso posto, em razão da incidência do enunciado da Súmula supramencionada, na análise das mesmas matérias postas, obsta-se o exame do recurso pela alínea "c" do art. 105, III, da Constituição Federal, ficando prejudicada a verificação do dissídio jurisprudencial:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO DANOS MATERIAIS E MORAIS. ATO ILÍCITO ADMINISTRATIVO. LAVRATURA DE PROCURAÇÃO PÚBLICA. TABELIÃO DE NOTAS. PRAZO PRESCRICIONAL. ART. 206, §3º, V, DO CÓDIGO CIVIL. PRAZO TRIENAL. JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO ANULATÓRIA. AGRAVO NÃO PROVIDO.
+(..)
+5. A incidência do enunciado da Súmula 83/STJ obsta a análise do recurso pela alínea "c", ficando prejudicado o exame do dissídio jurisprudencial, conforme sinaliza a jurisprudência do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.156.511/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Nesse diapasão, com fulcro nos fundamentos em epígrafe, não merece reforma a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
