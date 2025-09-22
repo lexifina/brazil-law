@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto por MARISA BESSA DE OLIVEIRA com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo TJRJ, assim ementado (fl. 76):
+PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA. INTELIGÊNCIA DO ARTIGO 85 § 7º do CÓDIGO DE PROCESSO CIVIL. PRESCRIÇÃO. ILIQUIDEZ DO TÍTULO EXECUTIVO.
+Agravo interno interposto pela exequente contra decisão que afastou a incidência de honorários advocatícios no cumprimento de sentença individual advindo de mandado de segurança coletivo.
+Na forma do artigo 85 § 7º do Código de Processo Civil "Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada".
+Não incidência do Enunciado 345 da Súmula do STJ e do Tema 973. Agravo interno interposto pelo Estado contra decisão que afastou a prescrição.
+Na esteira da tese adotada no Tema nº 877 do E. Superior Tribunal de Justiça, o prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n. 8.078/90.
+A definição do crédito exequendo dependia de informações do próprio devedor. Demora no fornecimento de informações a serem prestadas pelo Estado do Rio de Janeiro para elaboração da planilha de cálculos. Recursos Desprovidos.
+Nas razões do recurso especial, a recorrente defende a incidência de honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrentes de ação coletiva, ainda que não impugnados, e aponta violação dos arts. 489, § 1º e 85, § 1º, do CPC.
+Proferido juízo positivo de admissibilidade pelo TJRJ, os autos foram remetidos ao STJ.
+É o relatório.
+Passo a decidir.
+A Corte de origem negou provimento ao recurso da recorrente nos seguintes termos:
+Quanto ao agravo interno interposto pela exequente, o Estado do Rio de Janeiro concordou com o valor apresentado pela Agravante, deixando de apresentar impugnação ao cumprimento de sentença, razão pela qual prevalece a não incidência de honorários sucumbenciais, na forma do artigo 85 § 7º do CPC.
+Não pode o Agravado ser condenado em honorários de sucumbência nas execuções em que expressamente concordou com os cálculos apresentados pela Agravante, sem ocasionar mora ou inadimplência da Fazenda Pública. Decidir em sentido contrário importa com todas as vênias, em deixar de aplicar a norma processual antes mencionada.
+A condenação em honorários na execução não impugnada pela Fazenda Pública implica, em última análise, violação ao princípio da isonomia, na medida em que aos particulares não há que se falar em tal condenação na hipótese de cumprimento de sentença ao qual não se oferece resistência (fl. 77).
+O referido entendimento não destoa da jurisprudência do STJ, segundo a qual, é cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao art. 85, § 7º, do CPC/2015.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, §7º DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO APENAS SOBRE A PARCELA CONTROVERTIDA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do CPC, é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação excetuada da base de cálculo apenas eventual parcela incontroversa do crédito.
+2. Agravo interno não provido (AgInt nos EDcl no REsp 2.008.021/RS, sw minha relatoria, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024, grifos acrescidos).
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PAGAMENTO POR MEIO DE PRECATÓRIO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. FIXAÇÃO. NECESSIDADE DE RETORNO AO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+1. Este Superior Tribunal firmou a compreensão no sentido de que "é cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao art. 85, § 7º, do CPC/2015" (AgInt no REsp n. 1.881.747/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/11/2021).
+2. Uma vez afastada a premissa jurídica contida no acórdão recorrido, e tendo em vista que a fixação dos honorários advocatícios envolve o exame de circunstâncias de natureza fática, na forma prevista no art. 85, § 2º, I a IV, c/c o § 3º, caput, do CPC, faz-se necessário o retorno dos autos ao Tribunal de origem, para que este arbitre a verba honorária a que se refere o art. 85, § 7º, do CPC.
+3. A questão concernente aos critérios para fixação dos honorários advocatícios a que se refere o art. 85, § 7º, do CPC deverá ser oportunamente examinada pela Corte de origem, sendo certo que eventual pronunciamento deste Superior Tribunal, no presente momento processual, importaria em supressão de instância.
+4. Agravo interno não provido (AgInt nos EDcl no REsp 2.087.528/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024, grifos acrescidos).
+Isso posto, nego provimento ao recurso especial. Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
