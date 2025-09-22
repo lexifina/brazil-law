@@ -1,0 +1,18 @@
+DECISÃO
+FELIPE DE OLIVEIRA SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0803258-39.2024.8.19.0066).
+Consta dos autos que o paciente foi condenado a 1 ano, 11 meses e 10 dias de reclusão mais multa, no regime aberto, pela prática do crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, "para que seja determinada a remessa dos autos à Procuradoria-Geral de Justiça do Ministério Público para oferecimento de Acordo de Não Persecução Penal" (fl. 15).
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem para que seja intimado o Parquet a fim de se manifestar sobre a viabilidade de acordo de não persecução penal.
+Decido.
+Consta dos autos que o réu foi denunciado pela prática do crime de tráfico de drogas. Contudo, diante da superveniência do julgamento, a instância de origem reconheceu a minorante do tráfico privilegiado na fração máxima, motivo pelo qual reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+Em razão da recente orientação firmada pelo STF (HC n. 185.913/DF), que pacificou o tema controvertido quanto a retroatividade da Lei n. 13.964/2019 - na direção de que mesmo ausente a confissão do réu até o momento de análise sobre a incidência do instituto da ANPP e desde que o pedido haja sido feito antes do trânsito em julgado, é possível a incidência da referida norma - deve ser concedida a ordem.
+Deveras, segundo ficou consignado no acórdão proferido no HC n. 185.913/DF, da relatoria do Ministro Gilmar Mendes, " é  cabível a celebração de Acordo de Não Persecução Penal em casos de processos em andamento quando da entrada em vigência da Lei nº 13.964, de 2019, mesmo se ausente confissão do réu até aquele momento, desde que o pedido tenha sido feito antes do trânsito em julgado".
+E ainda: "Nos processos penais em andamento na data da proclamação do resultado deste julgamento, nos quais, em tese, seja cabível a negociação de ANPP, se este ainda não foi oferecido ou não houve motivação para o seu não oferecimento, o Ministério Público, agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa, deverá, na primeira oportunidade em que falar nos autos, após a publicação da ata deste julgamento, manifestar-se motivadamente acerca do cabimento ou não do acordo".
+No presente caso, observa-se que o pleito de oferecimento de ANPP foi formulado em embargos de declaração, de modo que a condenação não havia transitado em julgado. Assim, verificada a possibilidade de aplicação do instituto, em conformidade com o que foi decidido pelo Supremo Tribunal Federal, cabível o acolhimento do pleito defensivo.
+Nesse mesmo sentido, veja-se a manifestação do Subprocurador-Geral da República Mario Luiz Gonsaglia (fls. 142-143):
+Esclareça-se que o paciente foi inicialmente denunciado por tráfico de drogas (art. 33, caput). A sentença aplicou a minorante do tráfico privilegiado, reduzindo a pena corporal abaixo de 4 anos de reclusão, o que permite a análise da possibilidade de oferecimento de ANPP, conforme o art. 28-A do CPP.
+Na hipótese como a presente, a jurisprudência tem reconhecido a necessidade de retorno dos autos à origem para oportunizar a proposta de ANPP.
+À vista do exposto, concedo a ordem para determinar o retorno dos autos ao Tribunal de Justiça a fim de que intime o Ministério Público estadual, para avaliação oportuna sobre a possibilidade de oferecimento do ANPP, devendo eventual recusa ser devidamente fundamentada.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
