@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. CADEIA RECURSAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO RECURSAL NÃO RECOLHIDO NO PRAZO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A não comprovação do recolhimento das custas, após a intimação da parte para regularização do preparo, leva à deserção do recurso, com incidência da Súmula 187 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência, a qual não conheceu do agravo em recurso especial em razão da deserção.
+O agravante alega que "Nos termos do art. 23-B da Lei nº 8.429/1992, a chamada Lei de Improbidade Administrativa, em todas as ações e acordos regidos pela lei não haverá adiantamento de custas, preparo, de emolumentos, de honorários periciais e de quaisquer outras despesas, não se fazendo separação ou opção legislativa para que a isenção inicial se referia a uma ou outra parte do polo da ação" (fl. 4804).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CADEIA RECURSAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO RECURSAL NÃO RECOLHIDO NO PRAZO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A não comprovação do recolhimento das custas, após a intimação da parte para regularização do preparo, leva à deserção do recurso, com incidência da Súmula 187 do STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+Isso porque, mesmo feita a intimação para realização do recolhimento em dobro das custas processuais, a parte agravante deixou transcorrer o prazo sem manifestação.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é no sentido de que "é deserto o recurso especial, na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC/2015), não havendo se falar, ainda, em aproveitamento dos atos realizados, porquanto não atendidos sequer os pressupostos processuais do apelo extremo" (STJ, AgInt no REsp 1.694.039/MG, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 18/05/2018).
+No mesmo sentido: AgInt no AREsp 1.147.348/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, DJe de 17/05/2018; AgInt no AREsp n. 2.233.608/PA, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 23/5/2023, DJe de 26/5/2023.
+Ademais, conforme asseverado na decisão recorrida, o entendimento jurisprudencial desta Corte, na Ação Civil Pública apenas o autor da ação possui a isenção de custas prevista no art. 18 da Lei 7.347/85, não se estendendo tal benefício ao réu da demanda. No caso, aplica-se por analogia esse mesmo entendimento à Ação de Improbidade quanto à isenção prevista no art. 23-B da Lei 8.429/92. Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. RECONHECIMENTO DA PRATICA DOS ATOS DE IMPROPRIEDADE. FALTA DE PREPARO. DESERÇÃO. NA AÇÃO CIVIL PÚBLICA APENAS O AUTOR DA AÇÃO POSSUI A ISENÇÃO DE CUSTAS PREVISTA NO ART. 18 DA LEI N. 7.347/85, NÃO SE ESTENDENDO TAL BENEFÍCIO AO RÉU DA DEMANDA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação civil pública por ato de improbidade administrativa, objetivando pleiteia o reconhecimento da prática dos atos de impropriedade administrativa prevista nos arts. 10 e 11 da lei de improbidade e aplicação da sanção prevista do art. 12 da referida lei. Na sentença, o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - Por meio da análise do recurso, verifica-se que o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, com base no art. 23-B da Lei n. 8429/92.
+III - Ademais, percebeu-se, no Tribunal de Justiça do Estado do Rio de Janeiro, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, opôs embargos declaratórios contra a decisão que determinou o recolhimento de custas e, diante do seu não conhecimento, interpôs agravo interno, que também não foi conhecido, sendo devido o preparo do recurso. Intimada para realizar o recolhimento, a parte deixou o prazo transcorrer in albis. Ressalte-se que, conforme entendimento jurisprudencial desta Corte, na Ação Civil Pública, apenas o autor da ação possui a isenção de custas prevista no art. 18 da Lei n. 7.347/85, não se estendendo tal benefício ao réu da demanda. Nesse sentido: AgInt no AREsp n. 1.465.539/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.8.2019. No caso, aplica-se, por analogia, esse mesmo entendimento à Ação de Improbidade quanto à isenção prevista no art. 23-B da Lei n. 8.429/92. Dessa forma, o recurso especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+IV - Além disso, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 27.4.2023, sendo o recurso especial interposto somente em 25.5.2023. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+V - Agravo interno improvido. (AgInt no AREsp n. 2.746.481/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
