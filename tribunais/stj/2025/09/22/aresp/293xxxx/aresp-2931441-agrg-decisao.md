@@ -1,0 +1,35 @@
+DECISÃO
+PAULO MÁRCIO TAVARES interpõe agravo regimental contra a decisão de fls. 2.424-2.425, em que a Presidência desta Corte não conheceu do agravo em recurso especial em virtude da incidência da Súmula n. 7 do STJ e da ausência de cotejo analítico.
+O recorrente postula, em síntese, o afastamento do efeito secundário da condenação relacionado à perda do cargo público.
+Requer a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora, ao reiterar que impugnou os fundamentos da decisão atacada nas razões do agravo.
+Decido.
+I. Pressupostos de admissibilidade do AREsp - reconsideração
+Reconsidero a decisão impugnada. O agravo é tempestivo e preencheu os demais requisitos de admissibilidade, razões pela s quais comporta conhecimento.
+II. Pressupostos de admissibilidade do REsp
+O especial também satisfaz os requisitos de admissibilidade, fundamento pelo qual conheço do recurso e passo à análise da impugnação.
+III. Contextualização
+O agravante, policial militar, foi condenado à pena de 6 anos de reclusão pela prática do crime de homicídio.
+Inconformado, o Ministério Público interpôs recurso de apelação perante o Tribunal de origem, que deu parcial provimento ao apelo para majorar a reprimenda para 8 anos de reclusão e para decretar a perda do cargo público. Transcrevo, no que interessa (fls. 2.329-2.330, grifei):
+Do pedido da perda do cargo público.
+Em relação ao segundo pedido do Ministério Público sobre a perda do cargo público, igualmente compreendo que razão assiste a postulação.
+Para incidência do referido efeito secundário da condenação é necessário o atendimento ao requisito objetivo que é a aplicação de pena privativa de liberdade por tempo superior a 4 (quatro) anos no crime de homicídio, nos termos do artigo 92, inciso I, alínea "b", do Código Penal, o que se faz presente. Já o critério subjetivo exigido pela lei é a necessidade de fundamentação específica.
+Nesse ponto, entendo que seria contraditório condenar o policial por um crime contra vida e permitir que ele continue a agir em nome da Administração Pública em defesa da sociedade e proteção dos direitos constitucionais básicos.
+A gravidade da conduta praticada revela e a forma como ocorreu é evidência suficiente de que o apelado não está apto para exercer função pública escolhida por ele próprio, a qual demanda integridades emocional e psicológica, as quais não demonstrou possuir, diante da violação dos deveres inerentes às suas funções. Outrossim, consoante precedentes do STJ, o reconhecimento de que o réu praticou ato incompatível com o cargo por ele ocupado é fundamento suficiente para a decretação do efeito extrapenal de perda do cargo público (AgRg no R Esp n. 1.613.927/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, D Je 30/9/2016).
+Ademais, a conduta narrada e provada nos autos compromete a legitimidade e a confiança da sociedade na corporação militar. Assim, a aplicação da perda do cargo preserva a função preventiva da pena e torna exemplo aos demais integrantes da corporação que devem ver a hipótese como um estímulo à capacitação e treinamentos continuados para que possam cada vez mais exercerem suas funções com excelência, em compatibilidade com elementos éticos e legais.
+Assim, condeno o réu PAULO MÁRCIO TAVARES à perda do cargo de Policial Militar do Estado de Goiás, nos termos do artigo 92, inciso I, alínea "b", do Código Penal.
+IV. Perda do cargo público
+A jurisprudência desta Corte está firmada no sentido de a sanção de perda de cargo público não se tratar de efeito automático da condenação, havendo necessidade, portanto, de motivação expressa na decisão condenatória.
+Além disso, exige-se, para a sua aplicação, o preenchimento de requisitos objetivos, previstos no art. 92, I, do Código Penal, quais sejam: a fixação de pena privativa de liberdade igual ou superior a 1 ano, nos casos de crimes praticados com abuso de poder ou violação de dever para com a administração pública, ou pena privativa de liberdade igual ou superior a 4 (quatro) anos, nos demais crimes.
+No caso, o réu foi condenado à pena de 8 anos de reclusão pela prática do crime de homicídio, o que preenche o requisito objetivo descrito no art. 92, I, do Código Penal.
+Com efeito, o Tribunal estadual também apresentou fundamentação idônea ao consignar que "a gravidade da conduta praticada revela e a forma como ocorreu é evidência suficiente de que o apelado não está apto para exercer função pública escolhida por ele próprio, a qual demanda integridades emocional e psicológica, as quais não demonstrou possuir, diante da violação dos deveres inerentes às suas funções". Acrescentou, ainda, que "o reconhecimento de que o réu praticou ato incompatível com o cargo por ele ocupado é fundamento suficiente para a decretação do efeito extrapenal de perda do cargo público", o que está em consonância com o entendimento do Superior Tribunal de Justiça.
+Exemplificativamente:
+ ..
+As instâncias ordinárias apresentaram fundamentação válida para a aplicação do art. 92, I, a, do Código Penal, asseverando que, no caso, houve clara violação de dever para com a Administração Pública por parte do paciente, que restou condenado por corromper testemunha que iria depor em processo penal no qual figurava como réu, ato que de fato é incompatível com o cargo de policial militar, não havendo assim qualquer ilegalidade a ser sanada na estreita via do habeas corpus.
+(HC n. 710.966/SE, Rel. Ministro Sebastião Reis Júnior, 6ªT., DJe 28/3/2022)
+ ..
+O reconhecimento de que o réu praticou ato incompatível com o cargo por ele ocupado é fundamento suficiente para a decretação do efeito extrapenal de perda do cargo público.
+(AgRg no REsp n. 1.613.927/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 20/09/2016, DJe 30/09/2016)
+V. Dispositivo
+À vista do exposto, reconsidero a decisão de fls. 2.424-2.425, a fim de conhecer do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
