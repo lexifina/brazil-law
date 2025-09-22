@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão da Vice-Presidência do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que inadmitiu o recurso especial interposto pelo órgão ministerial em face do acórdão exarado no julgamento do Recurso em Sentido Estrito n. 0000633-93.2016.4.01.3101/AP.
+No recurso especial, o Parquet apontou como violado o art. 1º, § 2º, do Decreto-Lei n. 201/67 (fls. 627/644).
+Inadmitido o recurso na origem (fls. 675/676), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 679/689).
+O Ministério Público Federal opinou pelo provimento do agravo para que seja conhecido e provido o recurso especial (fls. 703/707).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Quanto ao recurso especial em si, observo que a pretensão não merece prosperar.
+E assim o afirmo desde já, por observar que a conclusão alcançada no acórdão recorrido, de fato, encontra amparo no entendimento jurisprudencial desta Corte Superior, para a qual a pena de inabilitação, pelo prazo de 5 anos, para o exercício de cargo ou função pública, eletivo ou de nomeação, pressupõe condenação definitiva por crime previsto no Decreto-Lei 201/67, a teor do seu art. 1º, § 2º, não subsistindo, de forma autônoma, em relação à pena privativa de liberdade fulminada pela pretensão punitiva do Estado (EDcl no AgInt no REsp n. 1.628.741/CE, Ministro Nefi Cordeiro, Sexta Turma, DJe de 4/10/2018 - grifo nosso).
+Com efeito, desde o julgamento do REsp n. 1.326.452/PR, da relatoria do Ministro Jorge Mussi, ambas as Turmas deste Tribunal passaram a entender pela ausência de autonomia das penas de perda do cargo ou inabilitação para cargo público, previstas no art. 1º, § 2º, do Decreto-Lei n. 201/1967.
+Assim, o entendimento desta Corte é no sentido de que as penas de perda do cargo e inabilitação, pelo prazo de 5 anos, para o exercício de cargo ou função pública, eletivo ou de nomeação, têm a sua incidência condicionada à condenação definitiva pela prática dos crimes previstos no Decreto-Lei n. 201/1967, circunstância que revela a natureza acessória de tais sanções (accessio cedit principali).
+No caso, o acórdão a quo confirmou o decreto de extinção da pretensão punitiva estatal quanto à possibilidade de aplicação da sanção privativa de liberdade ao ora agravado (fls. 594/599 e 547/554); logo, o mesmo destino deve ser dado às penas previstas no art. 1º, § 2º do Decreto-Lei n. 201/1967, cuja incidência está expressamente condicionada à condenação definitiva pela prática de crimes ali previstos, a qual se revela insustentável em razão do reconhecimento da prescrição.
+A corroborar:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENA DE INABILITAÇÃO PARA O EXERCÍCIO DE CARGO OU FUNÇÃO PÚBLICA, ELETIVO OU DE NOMEAÇÃO. ART. 1º, § 2º, DO DECRETO-LEI N. 201/1967. CARÁTER ACESSÓRIO. JURISPRUDÊNCIA DOMINANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A 3ª Seção do Superior Tribunal de Justiça assentou que a pena de inabilitação para o exercício de cargo ou função pública "tem a sua incidência condicionada à condenação definitiva pela prática dos crimes previstos no Decreto-Lei n. 201/1967, circunstância que revela a natureza acessória de tais sanções (accessio cedit principali). Assim, extinta a pretensão punitiva estatal com relação à possibilidade de aplicação da sanção privativa de liberdade, o mesmo destino deve ser dado às penas previstas no § 2º do art. 1º do Decreto-Lei n. 201/1967, cuja incidência está expressamente condicionada à condenação definitiva pela prática de crimes ali previstos, a qual se revela insustentável em razão do reconhecimento da prescrição" (EAREsp n. 128.599/PR, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 22/8/2014).
+2. Estando, pois, o acórdão recorrido em plena harmonia com a jurisprudência dominante do Superior Tribunal de Justiça, não há razões para modificá-lo.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.373.085/TO, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 13/6/2017 - grifo nosso).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. VIOLAÇÃO DO ART. 1º, § 2º, DO DECRETO-LEI N. 201/1967. EXTINÇÃO DA PRETENSÃO PUNITIVA PELA PRESCRIÇÃO DA PENA PRIVATIVA DE LIBERDADE. PENA DE INABILITA ÇÃO PARA O EXERCÍCIO DE CARGO OU FUNÇÃO PÚBLICA. NATUREZA ACESSÓRIA. JURISPRUDÊNCIA DOMINANTE DO STJ.
+Agravo conhecido para negar provimento ao recurso especial.
