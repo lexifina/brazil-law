@@ -1,0 +1,45 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo Instituto de Previdência do Estado do Rio Grande do Sul e IPESaúde (IPE-SAÚDE - Instituto de Assistência à Saúde dos Servidores Públicos do Rio Grande do Sul), no qual se insurge contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. IPE-SAÚDE. RESTABELECIMENTO DE VALOR SALARIAL EM PENSÃO. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. INOCORRÊNCIA. ARBITRAMENTO DOS ÔNUS SUCUMBENCIAIS PROPORCIONAL AO DECAIMENTO DAS PARTES. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO DO PERCENTUAL FIXADO PARA 10%. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 75-75).
+Em suas razões recursais, a parte recorrente alega violação do art. 1.022, do CPC, por omissão relevante e negativa de prestação jurisdicional, ao não considerar a prescrição intercorrente.
+Aponta, ainda, a violação aos arts. 485, §1º, do CPC; 3º do Decreto-Lei 4.597/1942 e 1º e 9º do Decreto 20.910/1932, argumentando que a prescrição intercorrente ocorreu devido à inércia do exequente por mais de cinco anos.
+Não foram apresentadas contrarrazões.
+O recurso foi inadmitido na origem, daí a interposição do presente agravo em recurso especial (fls. 124-128).
+Contraminuta apresentada às fls. 141-143.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+Quanto à apontada violação ao art. 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+No caso em análise, conforme já demonstrado, o trânsito em julgado ocorreu em 03/04/2000, e a execução fiscal foi ajuizada em 27/08/2001, ou seja, um ano e quatro meses depois. Em 27/05/2019, a agravada foi intimada a promover o cumprimento de sentença (evento 13, OUT4, fl. 107). Finalmente, em 01/06/2023, retomou-se o cumprimento de sentença originário.
+Acerca do tema, o artigo 9º do Decreto 20.910/1932 estabelece:
+Art. 9º A prescrição interrompida recomeça a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo."
+Contudo, a Súmula 383 do Supremo Tribunal Federal dispõe que "A prescrição em favor da Fazenda Pública recomeça a correr, por dois anos e meio, a partir do ato interruptivo, mas não fica reduzida aquém de cinco anos, embora o titular do direito a interrompa durante a primeira metade do prazo."
+Portanto, antes de transcorrida a metade do prazo prescricional de cinco anos, os Agravados requereram a execução da sentença, interrompendo, assim, o curso da prescrição.
+ ..
+Corrobora o entendimento adotado o parecer ministerial:
+"Pois bem, ao que se recolhe do instrumento, o trânsito em julgado ocorreu em 03.04.2000 (ev.13, OUT3, fl.122), ao passo que a execução foi ajuizada em 27.08.01 (ev.13, OUT3, fl.172) em nome das autoras Wildete e Thaís. Assim, explica o agravante que transcorreu um ano e quatro meses. Em 27.05.19 (ev.13, OUT5, fl.106), a parte foi intimada para retomar o prosseguimento da execução. Já o cumprimento de sentença somente foi retomado pela autora THAÍS em 01.06.2023 (evento 01). Portanto, aduz que transcorreram mais quatro anos. Somados os dois períodos, tem-se o prazo superior a cinco anos. Todavia, o prosseguimento como cumprimento de sentença foi determinado em junho de 2019 (ev. 13, OUT4, fl.106), tendo sido o cumprimento ajuizado já em junho de 2023 (ev. 01). Portanto, ao revés do afirmado, não transcorreram os cinco anos previstos em lei para operar a prescrição.
+De mais a mais, inova o agravante no que concerne à alegação de a soma de dois períodos, já que dito argumento sequer fora debatido entre as partes ou analisado pela decisão de primeira instância."
+Isto posto, é caso de manutenção da decisão agravada.
+Dessa forma, verifica-se que entre 2019 e 2023, não se verificou o decurso do prazo prescricional quinquenal (fls. 49-50).
+Da leitura do trecho acima transcrito, constato que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões, não havendo que se falar em omissão.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nessa, ainda mais considerando que esta Corte possui o entendimento de que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, sobretudo nos casos em que já tenha encontrado motivo suficiente para proferir a decisão.
+No mais, a alteração da conclusão da Corte de origem, para afastar a inércia da parte recorrida e entender pela ocorrência da prescrição, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 deste STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DA PARTE. REVISÃO. REEXAME DE ELEMENTOS FÁTICO- PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. DEMORA PROCESSUAL POR MOTIVOS INERENTES AO MECANISMO DA JUSTIÇA. NÃO CONFIGURAÇÃO DA PRESCRIÇÃO INTERCORRENTE. SÚMULA N. 106 DO STJ. ALEGAÇÕES RECURSAIS DEFICIENTES. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO. 1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial  prescrição intercorrente decorrente da inércia da parte  reclama a análise dos elementos probatórios produzidos na demanda.
+3. "Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência" (Súmula n. 106 do STJ).
+4. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações recursais deficientes que não guardam correlação como decidido nos autos.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.325.078/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+No mais, o recurso especial não pode ser conhecido com fundamento em divergência jurisprudencial. Com efeito, o óbice que impede a análise do recurso pela alínea a prejudica o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. TRIBUTAÇÃO MONOFÁSICA. CONSTITUIÇÃO DE CRÉDITOS. IMPOSSIBILIDADE. REGIME DA NÃO-CUMULATIVIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NS. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - É vedada a constituição de créditos da contribuição para o PIS/PASEP e da COFINS sobre os componentes do custo de aquisição de bens sujeitos à tributação monofásica.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas ns. 283 e 284/STF III - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido (AgInt no REsp n. 2.160.118/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJEN de 6/12/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+EMENTA
