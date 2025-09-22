@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. BÔNUS DE EFICIÊNCIA E PRODUTIVIDADE NA ATIVIDADE AUDITORIA-FISCAL DO TRABALHO. PARIDADE ENTRE ATIVOS E INATIVOS. ACÓRDÃO COM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL.
+1. Verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pela União contra decisão que não conheceu do recurso especial, em razão de o Tribunal de origem ter decidido a controvérsia com base em fundamentos eminentemente constitucionais (fls. 462/466).
+Em suas razões, a parte agravante defende, em síntese, que "a questão do caráter genérico ou não da gratificação, bem como sua extensão aos inativos, se resolve no plano legal, a saber, pelo exame dos arts. 6º, 7º, 11, 16, 17, §§ 2º e 3º, 24 e 27 da Medida Provisória nº 765, convertida na Lei nº 13.464/2017" (fl. 476).
+Assevera que "a Lei nº 13.464/2017 prevê expressamente percentuais distintos para cada um desses agentes, não possuindo a Administração Pública competência para modificar qualquer dispositivo desse normativo, sendo responsável, apenas, como órgão de execução, pelo seu fiel cumprimento, sobretudo porque não houve a declaração de inconstitucionalidade da lei. A união requer, portanto, o julgamento do seu recurso especial por violação dos arts. 6º, 7º, 11, 16, 17, §§ 2º e 3º, 24 e 27 da Medida Provisória nº 765, convertida na Lei nº 13.464/2017, matéria infraconstitucional" (fl. 478).
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 483).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. BÔNUS DE EFICIÊNCIA E PRODUTIVIDADE NA ATIVIDADE AUDITORIA-FISCAL DO TRABALHO. PARIDADE ENTRE ATIVOS E INATIVOS. ACÓRDÃO COM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL.
+1. Verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, o decisório agravado não merece reparos.
+Consoante mencionado, extrai-se do aresto recorrido a seguinte fundamentação (fls. 292 /294):
+1. A sentença apelada julgou procedente o pedido para condenar a ré: a implantar em favor da autora o a) bônus de eficiência e produtividade na atividade tributária e aduaneira em valor idêntico ao percebido pelos servidores da ativa, nos termos do art. 7º, § 1º, da Lei nº 13.464/2017, enquanto perdurar o caráter genérico deste bônus; a pagar as parcelas atrasadas das diferenças do bônus, apuradas desde dezembrob) de 2016, descontados os valores recebidos no âmbito administrativo. Os valores atrasados devem ser atualizados monetariamente e acrescidos dos juros legais, na forma do Manual de Cálculos da Justiça Federal, observada a aplicação da taxa SELIC a partir da vigência da Emenda Constitucional n. 113/2021, bem como a prescrição quinquenal.
+2. No caso em análise, a autora pretende obter o direito à revisão de seus proventos de aposentadoria, de acordo com os vencimentos, gratificações e especialmente Bônus de Eficiência e Produtividade na Atividade de Auditoria- Fiscal do Trabalho recebidos pelos servidores da ativa do cargo de Auditor do Trabalho (Lei nº 13.464/2017), tendo por fundamento a PARIDADE, prevista na redação originária do artigo 40, §§ 4º e 5º, da Constituição Federal de 1988 ("CF/1988") e as regras de transição constantes nas EC 41 e 47, percebendo a totalidade do referido bônus (100%).
+3. Compulsando os autos, verifica-se que a autora se aposentou em , 27/02/2009 com a garantia das regras do art. 6º da EC n.º 41/2003, fazendo jus, assim, à paridade no recebimento de seu benefício.
+4. Por outro lado, o bônus de eficiência e produtividade na atividade tributária e aduaneira, instituído pela Medida Provisória n. 765/2016, convertida da Lei n.
+13.464/2017, é pago em razão do efetivo exercício das atribuições dos cargos de Auditor Fiscal da Receita Federal do Brasil e de Analista Tributário da Receita Federal do Brasil (art. 6º).
+5. Nesse contexto, verifica-se que a referida Lei cuidou em seu art. 7º de estabelecer percentuais diferenciados para ativos e inativos.
+6. Entretanto, considerando a omissão do Poder Executivo, sem regulamentar a matéria ao longo dos anos e o pagamento do percentual máximo aos servidores ativos, independentemente da avaliação, deve ser reconhecido aos inativos a almejada paridade, enquanto não realizada a avaliação prevista no Decreto nº 11.545/2023, a ser executada, tão somente no exercício de 2024.
+7. A propósito do tema da paridade entre ativos e inativos enquanto não realizada a primeira avaliação, trago à colação a ementa de julgado da Quarta Turma deste TRF5, in verbis:
+ ..
+8. Assim, considerando a natureza genérica da gratificação denominada Bônus de Eficiência e Produtividade na Atividade de Auditoria-Fiscal do Trabalho, pelo menos até a sua regulamentação pelo Decreto nº 11.545/2023, com previsão do primeiro ciclo de avaliação a ser executada, tão somente no exercício de 2024, assim como o pagamento uniforme aos servidores em atividade desde a sua instituição. É devida aos aposentados que fazem jus à garantia da paridade no mesmo patamar conferido aos servidores ativos.
+9. Ademais, por se tratar de matéria relacionada ao princípio da legalidade, justifica a intervenção do Poder Judiciário na presente demanda, sem que isso importe em violação à separação dos poderes.
+10. Destarte, deve ser reconhecida a procedência do pedido para condenar a UNIÃO a implantar em favor da autora o bônus de eficiência e produtividade na atividade tributária e aduaneira em valor idêntico ao percebido pelos servidores da ativa, nos termos do art.7º, § 1º, da Lei nº 13.464/2017, enquanto perdurar o caráter genérico deste bônus (até a implantação do primeiro ciclo de avaliação, previsto para 2024), observada a prescrição quinquenal. Os valores atrasados devem ser atualizados monetariamente e acrescidos dos juros legais, na forma do Manual de Cálculos da Justiça Federal, observada a aplicação da taxa SELIC a partir da vigência da Emenda Constitucional n. 113/2021.
+Assim, reitera-se que o Tribunal de origem decidiu a controvérsia à luz de alicerces e minentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+A propósito, confiram-se as seguintes decisões monocráticas proferidas em hipótese semelhante: REsp n. 217.514, Relatora Ministra Maria Thereza de Assis Moura, DJe de 14/3/2025; AREsp n. 218.371, Relator Ministro Afrânio Vilela, DJe de 2/10/2024; REsp n. 212.791, Relator Ministro Benedito Gonçalves, DJe de 28/5/2024; AREsp n. 253.330, Relator Ministro Herman Benjamin, DJe de 15/4/2024.
+Deve, portanto, ser mantido o decisum agravado, por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
