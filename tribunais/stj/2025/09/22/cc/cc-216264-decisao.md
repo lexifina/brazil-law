@@ -1,0 +1,14 @@
+DECISÃO
+O JUÍZO FEDERAL DA 1ª VARA DE GUAÍRA - SJ/PR suscita conflito de competência, em execução penal, diante do JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE JOINVILLE - SC.
+A controvérsia estabelecida neste incidente processual cinge-se a definir qual o juízo competente para a execução da pena imposta a condenado pela Justiça Federal, em regime fechado, atualmente recolhido em estabelecimento prisional estadual.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara de Execuções Penais de Joinville - SC, ora suscitado (fls. 55-58).
+Decido.
+De início, observa-se que o Juízo das Execuções Penais de Joinville -SC determinou a devolução dos autos ao Juízo Federal, ao fundamento de que a condenada foi sentenciada pela Justiça Federal do Paraná e de que o recolhimento em estabelecimento prisional localizado em Santa Catarina não alteraria a competência para a execução da pena. Alegou, ademais, a superlotação carcerária e a inexistência de vínculo da sentenciada com a comarca.
+Entretanto, estou de acordo com o Juízo suscitante e com o Ministério Público Federal. A teor da Súmula n. 192 do STJ, compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, quando recolhidos a estabelecimentos sujeitos a administração estadual.
+Aliás, é até mesmo descabida a "a exigência de que seja segregada em estabelecimento prisional estadual como condição para aplicação da orientação estabelecida na Súmula 192/STJ, notadamente porque apenas o Juízo estadual pode aferir a existência de vaga em estabelecimento prisional adequado para o cumprimento da pena em regime semiaberto e, em caso negativo, adotar as medidas preconizadas na Súmula Vinculante n. 56/STJ" (CC n. 197.304/PR, relator Ministro Sebastião Reis Júnior, DJe 8/8/2023).
+Assim, ainda que o apenado não se encontre recolhido a estabelecimento prisional sujeito à administração estadual, estando ele à disposição da Justiça para iniciar o cumprimento da pena, cabe ao Juízo Estadual proceder à execução da pena no regime fechado.
+Vale dizer, mutatis mutandis, que "nos casos de condenação ao cumprimento de pena privativa de liberdade em regime inicial semiaberto imposta pela Justiça Federal, mostra-se desnecessária a exig ência de que o apenado já esteja segregado em estabelecimento prisional estadual como condição para aplicação da inteligência contida na Súmula 192/STJ" (fl. 48).
+Com ainda maior razão, a execução deve permanecer sob a competência do Juízo suscitado, tendo em vista que o condenado, em regime fechado, já se encontra recolhido em estabelecimento prisional estadual.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais de Joinville - SC, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
