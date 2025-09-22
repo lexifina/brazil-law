@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ANÁLISE PELO STJ. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. Se o Tribunal de origem decidir a controvérsia com fundamento eminentemente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça (STJ) via recurso especial porque esse recurso se destina à uniformização da interpretação do direito federal infraconstitucional e por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO da decisão em que não conheci de seu recurso (fls. 871/879).
+A parte agravante sustenta que o acórdão proferido pelo Tribunal de origem possui dupla fundamentação, constitucional e infraconstitucional, e, por isso, interpôs recurso extraordinário ao Supremo Tribunal Federal e recurso especial. Nesse sentido, é necessário o exame da suscitada violação do art. 229, § 1º, da Lei 8.112/19 90.
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 891/905).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ANÁLISE PELO STJ. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. Se o Tribunal de origem decidir a controvérsia com fundamento eminentemente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça (STJ) via recurso especial porque esse recurso se destina à uniformização da interpretação do direito federal infraconstitucional e por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento.
+VOTO
+A decisão agravada não conheceu do recurso porque a controvérsia havia sido decidida com fundamento eminentemente constitucional.
+Em nova análise do presente caso, vê-se que, quanto ao ponto controvertido - ação de cobrança correspondente à diferença entre os valores de remuneração devidos e aqueles pagos pelo ente público, no período de 20/11/2019 a 2/2/2022 -, objeto do recurso especial, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO realmente decidiu com fundamento unicamente constitucional (fls. 707/708):
+No que pertine à ação nº 0801040-64.2019.4.05.8205, houve prolação de sentença condenatória em 29/03/2023, por meio da qual foi aplicada ao servidor a pena de 04 anos e 06 meses de reclusão, cumulada com perda de cargo público e inabilitação pelo prazo de 05 anos para o exercício de cargo ou função pública, eletivo ou de nomeação.
+Em relação à ação penal nº 0800197-65.2020.4.05.8205, verificou-se que a denúncia foi recebida em 02/11/2021, mas o processo continua em fase de instrução.
+Diante da ausência de trânsito em julgado das ações penais que deram causa às prisões cautelares já cumpridas, o TRT indeferiu o pedido de integralização da remuneração formulado pelo servidor com base no disposto no § 1º do art. 229 da Lei nº 8.112/1990, considerando ainda que esse mesmo dispositivo legal não foi objeto de declaração de inconstitucionalidade pelo STF, razão pela qual não poderia ser acolhida a alegação de malferimento aos princípios da presunção de inocência e da irredutibilidade de vencimentos.
+Ocorre que o Supremo Tribunal Federal vem decidindo reiteradamente que a postura da Administração Pública de proceder aos descontos nos vencimentos de servidor público preso preventivamente viola o princípio da presunção de inocência, previsto pelo art. 5º, inciso LVII, da CF/88, assim como o da irredutibilidade de vencimentos, com previsão no art. 37, inciso XV, do texto constitucional, tendo em vista que a Administração Pública antecipa uma severa consequência em desfavor do agente público sem que o juízo penal tenha aferido a sua culpabilidade de forma definitiva, o que não se pode admitir.
+No julgamento da ADI nº 4.736, o Plenário do STF declarou a inconstitucionalidade de norma do Estado do Pará que prevê o desconto de vencimentos de servidores públicos que se encontram efetivamente afastados de suas funções em virtude de processos criminais não transitados em julgado.
+Em seu voto, o Ministro Luis Roberto Barroso, relator, apontou que a jurisprudência do STF é pacífica no sentido de que é incompatível com a Constituição Federal de 1988 norma que estabeleça a redução de vencimentos de servidores públicos que respondam a processo criminal.
+Esclareceu ainda o ministro que, se no processo penal o acusado é presumidamente inocente, não lhe pode ser aplicada administrativamente nenhuma sanção jurídica automática pelo simples fato de ter sido preso preventivamente. Segue o aresto correspondente:
+"DIREITO CONSTITUCIONAL. LEI ESTADUAL Nº 5.810/1994 DO ESTADO DO PARÁ AUTORIZANDO A REDUÇÃO DE VENCIMENTOS DE SERVIDORES PÚBLICOS PROCESSADOS CRIMINALMENTE. AFRONTA AOS PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA, AMPLA DEFESA E IRREDUTIBILIDADE DE VENCIMENTOS. INCONSTITUCIONALIDADE RECONHECIDA.
+1. A jurisprudência dessa Corte é pacífica no sentido de que não é recepcionada pela Constituição Federal norma legal que consigna a redução de vencimentos de servidores públicos que respondam a processo criminal.
+2. Ofensa aos arts. 5º, LIV, LV e LVII, e 37, XV, da Constituição Federal, os quais abarcam os Princípios da Presunção da Inocência, da Ampla Defesa e da Irredutibilidade de Vencimentos. Precedentes: RE 482.006, Rel. Min. Ricardo Lewandowski; ARE-AgR 776.213, Rel. Min. Gilmar Mendes; ARE 1.084.386/SP, Rel. Min. Luiz Fux; ARE 1.063.064/SP, Rel. Min. Marco Aurélio; ARE 1.017.991/SP, Rel. Min. Ricardo Lewandowski; ARE 1.089.248/SP, de minha relatoria.
+3. Ação Direta de Inconstitucionalidade procedente."
+(STF, ADI 4736, Tribunal Pleno, Relator Min. Roberto Barroso, Julgamento 05/11/2019; Publicação: 26/11/2019)
+Como se pode notar, a ratio decidendi ali lançada serve para a solução da controvérsia envolvendo também os servidores públicos federais, na medida em que não é possível reputar inconstitucional apenas a norma proveniente do Poder Legislativo Estadual quando a mesma situação é também abarcada pela Lei Federal, com a mesma consequência jurídica, como ocorre com a Lei nº 8.112/90 - sem destaques no original.
+Na hipótese de o Tribunal de origem decidir a controvérsia com fundamento eminentemente constitucional, como na espécie, em que a pretensão autoral foi acolhida com base na interpretação dos arts. 5º, LVII, e 37, XV, da Constituição Federal (CF), é inviável a revisão do acórdão pelo Superior Tribunal de Justiça via recurso especial, a uma, porque esse recurso se destina a uniformizar a interpretação do direito federal infraconstitucional e, a duas, porque implicaria a usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+Está correta a decisão que não conheceu do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
