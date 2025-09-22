@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284 DO STF. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA 518/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão de irregularidade na representação processual. Reconsideração.
+2. A falta de indicação do dispositivo de lei federal supostamente violado, pertinente à temática abordada no recurso especial, e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do STF.
+3. Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula. Incidência da Súmula 518/STJ.
+4.  Agravo  interno  provido para  reconsiderar  a  decisão  agravada  e,  em  nova  análise,  conhecer do agravo para não conhecer do  recurso  especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por SIQUEIRA CASTRO - ADVOGADOS contra decisão da Presidência do Superior Tribunal de Justiça (fls. 704-705), que  não conheceu do agravo em recurso especial,  em razão de irregularidade na representação processual.
+Em  suas  razões  (fls.  709-713),  a  parte  agravante afirma  que  "o recurso não foi conhecido porque o recorrente não procedeu a juntada da procuração ou cadeia completa de substabelecimento, conferindo poderes ao su bscritor do agravo e do recurso especial. Ocorre que, a bem da verdade, após intimada nos termos do artigo 76, do CPC, a recorrente regularizou a representação processual, conforme fls. 628" (fl. 711).
+Requer,  assim,  a  reconsideração  da  decisão  agravada  ou  sua  reforma  pela  Turma  Julgadora.
+Apresentada  impugnação  às  fls.  715-719.
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284 DO STF. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA 518/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão de irregularidade na representação processual. Reconsideração.
+2. A falta de indicação do dispositivo de lei federal supostamente violado, pertinente à temática abordada no recurso especial, e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do STF.
+3. Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula. Incidência da Súmula 518/STJ.
+4.  Agravo  interno  provido para  reconsiderar  a  decisão  agravada  e,  em  nova  análise,  conhecer do agravo para não conhecer do  recurso  especial.
+VOTO
+A decisão agravada merece ser reconsiderada, diante do entendimento da Quarta Turma desta Corte, firmada no sentido de que o instrumento de procuração juntado aos autos com o propósito de sanar vício de representação recursal, ainda que com data posterior à do protocolo do recurso, configura-se como instrumento confirmatório dos atos praticados pelo outorgado. Nessa lógica:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL POSTERIOR À INTERPOSIÇÃO DOS APELOS. ART. 662 DO CPC. ATO INEQUÍVOCO. AFASTAMENTO DA SÚMULA N. 115 DO STJ. RECONSIDERAÇÃO DE DECISÃO. NOVA ANÁLISE. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL. ROL TAXATIVO DO ART. 1.015 DO CPC. PRODUÇÃO DE PROVA PERICIAL. URGÊNCIA NÃO COMPROVADA. SÚMULA N. 83 DO STJ. VERIFICAÇÃO URGÊNCIA. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO DESPROVIDO.
+1. O instrumento de procuração e/ou substabelecimento juntado aos autos pelo outorgante com o propósito de sanar vício de representação recursal, ainda que com data posterior à do protocolo do recurso ou mesmo sem a declaração expressa de que consista em ratificação dos atos pretéritos, configura-se como instrumento confirmatório dos atos praticados pelo outorgado.
+2. A insurgência acerca da necessidade de produção de prova pericial, não se revestindo de urgência, não enseja a mitigação da taxatividade do rol do art. 1.015 do CPC.
+3. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.593.022/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024, g.n.)
+Passa-se a novo exame do recurso.
+Trata-se de agravo de SIQUEIRA CASTRO - ADVOGADOS contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), assim ementado (fls. 576-577):
+"CIVIL E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. PENHORA DE IMÓVEL EM CUMPRIMENTO DE SENTENÇA QUE CONDENOU A DEVEDORA AO PAGAMENTO DE QUANTIA CERTA. ALEGAÇÕES DE INEXISTÊNCIA DE PENHORA E DE AQUISIÇÃO DE BOA-FÉ. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. APELAÇÃO DA EMBARGANTE. 1. EMBARGANTE QUE PATROCINOU A DEVEDORA NO FEITO EM QUE ESTA FOI CONDENADA A PAGAR QUANTIAS AO EMBARGADO, AINDA NA FASE DE CONHECIMENTO, TENDO RECEBIDO O IMÓVEL NO CURSO DA LIDE, POR DAÇÃO EM PAGAMENTO DE DÍVIDA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. 2. DEVEDORA QUE NÃO PAGOU A CONDENAÇÃO E RESISTIU AO CUMPRIMENTO DEFINITIVO DA SENTENÇA, DEIXANDO DE INDICAR BENS À PENHORA. CARACTERIZAÇÃO DA INSOLVÊNCIA PELA IMPOSSIBILIDADE DE LOCALIZAÇÃO DE BENS PELO CREDOR. 3. EMBARGANTE QUE, NO PATROCÍNIO DA DEVEDORA DO EMBARGADO, TEVE AMPLO CONHECIMENTO DA SUA SITUAÇÃO ECONÔMICA. CIRCUNSTÂNCIAS QUE AFASTAM A ALEGAÇÃO DE BOA-FÉ NA AQUISIÇÃO. 4. A PRÉVIA PENHORA DO BEM ALIENADO OU ONERADO NÃO É REQUISITO PARA CONFIGURAÇÃO DE FRAUDE À EXECUÇÃO, MAS APENAS FAZ SURGIR PRESUNÇÃO NESSE SENTIDO, NA FORMA DO ART. 828, §4º, DO CPC. 5. CASO NÃO HAJA PENHORA PRÉVIA DO IMÓVEL, APLICA-SE A TESE FIRMADA PELO STJ NO TEMA N.º 290 DOS RECURSOS REPETITIVOS, NO SENTIDO DE QUE CABE AO CREDOR O ÔNUS DA PROVA DE QUE O ADQUIRENTE TINHA CONHECIMENTO DE DEMANDA CAPAZ DE LEVAR O ALIENANTE À INSOLVÊNCIA, O QUE SE VERIFICOU NOS AUTOS. LEGITIMIDADE DA PENHORA DO IMÓVEL. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. 6. DESPROVIMENTO DO APELO, MAJORANDO- SE OS HONORÁRIOS A 12% DO VALOR ATUALIZADO DA CAUSA, COM FULCRO NO ART. 85, §11, DO CPC."
+Os embargos de declaração opostos pelo recorrente foram rejeitados (fls. 600-607).
+Nas razões do recurso especial (fls. 609-618), a parte alega que a penhora de imóvel de sua propriedade, efetuada em ação movida contra a empresa Performance CG Empreendimentos Imobiliários S/A, é indevida, pois o bem em questão foi adquirido de boa-fé por meio de dação em pagamento, antes de qualquer registro de penhora, nos termos da Súmula 375/STJ. Assim, argumenta que não houve fraude à execução.
+Contrarrazões apresentadas às fls. 633-637.
+Em juízo prévio de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre (decisão às fls. 639-648), dando ensejo ao manejo do presente agravo (fls. 652-669).
+Contraminuta oferecida às fls. 682-686
+Decido.
+Inexistem razões que justifiquem o acolhimento da pretensão recursal.
+Nas razões do recurso especial, a parte recorrente não indicou quais teriam sido os dispositivos legais porventura violados pelo Tribunal a quo.
+O apelo nobre, fundado na alínea "a" do permissivo constitucional, requer, obrigatoriamente, que o recorrente particularize, de forma inequívoca, os dispositivos legais que entenda tenham sido contrariados pelo Tribunal de origem, sob pena de se configurar fundamentação deficiente, inviabilizando a abertura da via especial.
+O mero inconformismo, caso dos autos, sem a demonstração do dispositivo legal supostamente violado, e a impossibilidade de compreensão da controvérsia constituem argumentação deficiente, impedindo, por conseguinte, a exata compreensão da lide a ser dirimida, apta a atrair, por analogia, o teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A título demonstrativo, citam-se os seguintes precedentes, na parte que interessa:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPREENDIMENTO IMOBILIÁRIO. ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284 DO STF. RELAÇÃO DE CONSUMO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. ILEGITIMIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação do dispositivo de lei federal supostamente violado, pertinente à temática abordada no recurso especial, e a impossibilidade de compreensão da controvérsia impedem a abertura da instância especial, nos termos da Súmula 284 do STF.
+2. A decisão do Tribunal de origem está em consonância com a jurisprudência do STJ, que admite a aplicação do CDC em contratos de incorporação imobiliária quando demonstrada a vulnerabilidade do adquirente. Incidência da Súmula 83/STJ.
+3. O eg. Tribunal estadual destacou que as recorrentes não atuam apenas como uma construtora contratada por um condomínio de compradores para realizar serviços de construção, mas também como incorporadora e construtora, desempenhando claramente o papel de administradoras de todo o empreendimento comercial, sendo inclusive responsáveis por receber os pagamentos efetuados pelos autores.
+4. A reforma do v. acórdão recorrido, quanto à legitimidade passiva, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.848.000/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 23/6/2025, DJEN de 1/7/2025, g.n.)
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOAÇÃO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DAS FORMALIDADES LEGAIS. EMPRÉSTIMO VERBAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIADE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial.
+II. Razões de decidir 2. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).  ..
+7. Agravo interno desprovido."
+(AgInt no AREsp 2.568.839/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 24/02/2025, DJe de 28/02/2025, g.n.)
+"RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA Nº 284/STF. DESCARACTERIZAÇÃO DA MORA. OFENSA AO ARTIGO 300 DO CÓDIGO DE PROCESSO CIVIL. COMANDO NORMATIVO. AUSÊNCIA. SÚMULA Nº 284/STF. DEVOLUÇÃO EM DOBRO. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7 DO STJ.
+1. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal violado. Súmula nº 284 do Supremo Tribunal Federal.
+2. Se o artigo apontado como violado não apresenta conteúdo normativo suficiente para fundamentar a tese desenvolvida no recurso especial, incide, por analogia, a Súmula nº 284/STF.
+3. Na hipótese, alterar a conclusão do Tribunal de origem acerca da ausência de abusividade na contratação e não cabimento da devolução em dobro, exigiria a reanálise do contrato e do conjunto fático-probatório dos autos, o que esbarra nas Súmulas nºs 5 e 7 do STJ. Prejudicialidade das teses fundamentadas nas alíneas "a" e "c" do permissivo constitucional.
+4. Recurso especial não conhecido."
+(REsp n. 2.208.666/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025, g.n.)
+Outrossim, ressalta-se que, consoante a jurisprudência desta Corte, "o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige, além de demonstração e comprovação do dissídio jurisprudencial, a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF" (AgInt no AgInt no AREsp 2.028.632/RJ, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 30/5/2022, DJe de 1º/6/2022).
+Finalmente, cumpre pontuar que o único preceito utilizado para embasar a argumentação desenvolvida no apelo é a Súmula 375/STJ.
+No entanto, nos termos da jurisprudência desta Corte Superior, não é possível a abertura da instância especial por suposta violação a súmula, por não se enquadrar no conceito de lei federal, previsto no art. 105, III, "a", da Constituição Federal.
+Esse é o entendimento consolidado na Súmula 518/STJ ("Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula").
+A propósito, importa conferir os precedentes a seguir:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. EXIBIÇÃO DE GRAVAÇÃO. REEXAME DE PROVAS. SÚMULA 7. ENUNCIADO DE SÚMULA. VIOLAÇÃO. SÚMULA N. 518/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula 518).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.768.981/SC, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025, g.n..)
+"PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADAS. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA N. 518 DO STJ. INDENIZAÇÃO. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. RECURSO ESPECIAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Nos termos da Súmula n. 518 do STJ, é inviável o conhecimento de eventual contrariedade a súmula, que, para os fins do art. 105, III, "a", da CF, por não se enquadrar no conceito de lei federal.
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+5. A não observância aos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+6. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão negar-lhe provimento."
+(AREsp n. 2.832.464/RJ, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 16/6/2025, DJEN de 24/6/2025, g.n.)
+Ante  o  exposto,  dou  provimento  ao  agravo  interno  para  reconsiderar  a  decisão  agravada  e,  em  nova  análise,  conhecer do agravo para não conhecer do  recurso  especial.
+Por fim, com fundamento no art. 85, § 11, do Código de Processo Civil, majoro de 12% (doze por cento) para 13% (treze por cento) os honorários sucumbenciais fixados na origem.
+É  como  voto.
