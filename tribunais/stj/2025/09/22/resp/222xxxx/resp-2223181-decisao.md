@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se recurso especial interposto pela WWS SERVICES PRESTADORA DE SERVIÇOS LTDA. - EM RECUPERAÇÃO JUDICIAL e WORLDWIDE SEGURANÇA EIRELI, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: recuperação judicial das recorrentes.
+Decisão: deferiu a liminar para que as recorrentes fossem dispensadas de apresentarem CNDs na participação de licitação e em renovação de contratos.
+Acórdão: deu provimento ao agravo de instrumento interposto pela FAZENDA NACIONAL, nos termos da seguinte ementa:
+RECUPERAÇÃO JUDICIAL - Decisão judicial que deferiu liminar para que as agravadas fossem dispensadas de apresentarem CNDs na participação em licitação e em renovação de contratos sob o fundamento de que a demora poderia resultar risco de grave prejuízo ou difícil recuperação às empresas cuja atividade se visa preservar - Alegação de incompetência absoluta do Juízo a quo para decidir sobre procedimentos licitatórios, e subsidiariamente, no mérito, que a dispensa de regularidade fiscal para a habilitação técnica na licitação e para o empenho das parcelas do contrato traz consigo a possibilidade de redução anticoncorrencial do preço e a transmissão do encargo tributário à Administração Pública, sem a quitação dos mesmos tributos - Cabimento - A dispensa de certidões no juízo recuperatório somente pode referir-se ao processo de recuperação (LREF, art. 57) e não a matéria de Direito Público, relativamente a contratos de natureza administrativa, sob pena de privilegiar a recuperanda em relação a todas as demais concorrentes que, não estando em regime recuperatório, participem de contratações com o poder público e seus agentes - A empresa que pretende participar de certame licitatório sujeita-se às exigências legais e àquelas previstas no edital e o mesmo deve ser observado em relação aos contratos que permitem a renovação ou encerramento conforme disposição nos instrumentos e edital - O simples fato de encontrar-se em recuperação judicial não lhe confere benefícios que não podem ser estendidos aos demais participantes do certame Hipótese na qual, a análise deve ser feita pela Administração Pública (via administrativa) - Ademais, a própria Lei de Recuperações e Falências ressalva que a dispensa da apresentação de certidões negativas, mas ao contrário do que querem fazer crer as agravadas, não se aplica em contratações com o Poder Público (art. 52, II) - Competência do Juízo Recuperacional ausente - Decisão revogada - Agravo de instrumento provido. Dispositivo: Dão provimento ao recurso para revogar a decisão combatida. (e-STJ fls. 82)
+Embargos de declaração: opostos pelas recorrentes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 47, 52, II, e 57 da Lei 11.101/2005, além de dissídio jurisprudencial. Defendem, em suma, a inexigibilidade de apresentação de certidões negativas de débitos tributários por empresas em processo de recuperação judicial para a participação em processos licitatórios.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de impugnação
+Verifica-se que não foi impugnado o fundamento utilizado pelo TJ/SP, no sentido da incompetência do juízo recuperacional para decidir acerca dos requisitos necessários para a participação em licitação ou renovação de contratos licitatórios . A ausência de impugnação a fundamentos do acórdão recorrido atrai o óbice da Súmula 283/STF.
+- Da divergência jurisprudencial
+Ademais, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Recuperação judicial.
+2. A ausên cia de impugnação específica aos fundamentos do acórdão recorrido impede o exame do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido.
