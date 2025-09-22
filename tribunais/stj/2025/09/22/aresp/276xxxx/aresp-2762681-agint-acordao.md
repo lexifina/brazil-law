@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932negou , III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que não admitiu o recurso especial, sob pena de não conhecimento do agravo em recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 479):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O agravante sustenta, em síntese (fls. 511/514):
+"Sobrevém que, a fundamentação detida na r. decisão agravada não merece prosperar, considerando que, diferentemente do quanto alegado na r. decisão agravada, a decisão de admissibilidade do Recurso Especial interposto foi proferida com três fundamentos distintos e totalmente autônomos, (i) a aplicabilidade do Tema de nº 939 do E. STF, (ii) a aplicabilidade da multa nos Embargos de Declaração opostos, e (iii) violação ao artigo 1.022, do CPC.
+ ..
+Vejam, Nobres Ministros, na decisão de admissibilidade do Recurso Especial interposto, a fundamentação que lhe fora utilizada obtinham três vertentes autônomas - o mérito em si, no qual restou dirimida por meio do Tema de nº 939 do E. STF, bem como, da violação ao artigo 1.022 do CPC, e a multa que fora aplicada aos Embargos de Declaração opostos, isto é, questão meramente processual, de modo que, a ora Agravante optou por impugnar APENAS os dois últimos pedidos, o que, no presente caso, possui cunho meramente processual, e, portanto, não traz vinculação quanto à ausência de êxito na ação relativo a matéria de fundo."
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932negou , III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que não admitiu o recurso especial, sob pena de não conhecimento do agravo em recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, o fundamento da decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada no seguinte fundamento: Impossibilidade de interpor recurso especial quando a tese recursal é eminentemente constitucional.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Destaca-se que, conforme exposto no julgamento dos aclaratórios, às fls. 497/499, é entendimento pacificado nesta Corte Superior que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que não admitiu o recurso especial, sob pena de não conhecimento do agravo em recurso especial.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. DECISÃO MONOCRÁTICA MANTIDA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO COM FULCRO NO ART. 20, § 4º, DO CPC/1973. VALORES IRRISÓRIOS. REVISÃO. POSSIBILIDADE. INAPLICABILIDADE DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil (CPC).
+3. A afirmação de que o caso não demanda o reexame de fatos e provas, ou a menção às razões expostas no recurso especial, não é suficiente para infirmar a incidência da Súmula 7/STJ. O entendimento deste Tribunal é o de que, para comprovar a inaplicabilidade do enunciado sumular em questão, a parte recorrente deve realizar o cotejo entre o acórdão recorrido e a tese recursal.
+4. Relativamente ao provimento do recurso especial da parte adversa, a decisão agravada seguiu a orientação desta Corte Superior de que não é possível a revisão do valor arbitrado por equidade a título de verba honorária, por demandar o reexame do conjunto fático-probatório dos autos, vedado nos termos da Súmula 7/STJ. No entanto, admite-se o afastamento desse óbice processual nas hipóteses em que for verificada, de forma flagrante, a irrisoriedade ou a exorbitância da verba fixada, como no caso dos autos em que o Tribunal de origem arbitrou honorários sucumbenciais em percentual inferior a 1% do proveito econômico, com base no art. 20, § 4º, do CPC/1973.
+5. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.978.317/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/6/2025, DJEN de 3/7/2025.) (grifo meu)
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. CONDENAÇÃO TRANSITADA EM JULGADO ANTES DA VIGÊNCIA DA LEI N. 14.230/2021. IRRETROATIVIDADE. INCIDÊNCIA DO TEMA 1.199/STF. AGRAVO INTERNO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+I. O recorrente pugnou pela aplicação imediata da Lei n. 14.230/2021 ao caso em tela, visando o reconhecimento da prescrição intercorrente.
+II. Considerando que a formação da coisa julgada na presente demanda ocorreu antes mesmo da publicação da Lei n. 14.230/2021, não é possível a sua aplicação retroativa, conforme estabelecido no Tema n. 1.199/STF.
+III. Ainda que assim não fosse, o regime prescricional estabelecido pela Lei n. 14.230/2021 não se aplica retroativamente, conforme decisão do STF no Tema 1199.
+IV. A ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo em recurso especial, nos termos da Súmula 284 do STF.
+V. É entendimento pacificado nesta Corte Superior que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que não admitiu o recurso especial, sob pena de não conhecimento do agravo em recurso especial. Incidência da Súmula 182/STJ.
+VI. A impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa.
+VII. Agravo interno conhecido e desprovido. (AgInt no AREsp n. 2.402.916/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/5/2025, DJEN de 26/5/2025.) (grifo meu)
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
