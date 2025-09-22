@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de ALCINDO ALVES DE SOUSA -condenado pelos crimes de tráfico de drogas privilegiado e porte ilegal de arma de fogo de uso permitido -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, não comporta acolhimento.
+Com efeito, busca a impetração a revisão da condenação do paciente na ação penal que tramitou perante o Juízo de Direito da 7ª Vara Criminal da comarca de Teresina/PI (Ação Penal n. 0000144-42.2015.8.18.0140), ao argumento de que houve a extinção da punibilidade do delito de porte ilegal de arma de fogo de uso permitido, pela ocorrência da prescrição da pretensão punitiva do Estado, bem como entende aplicável a fração máxima do redutor do tráfico privilegiado.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, em especial como uma "segunda apelação criminal", o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a questão referente a ocorrência de prescrição nem sequer foi debatida pela Corte estadual, o que incide em indesejável supressão de instância.
+Ademais, em relação ao pleito dosimétrico, não merece reparo o acórdão a quo, em especial porque a jurisprudência permite a modulação da fração de redução da minorante com base na quantidade e natureza das drogas, de modo razoável e proporcional (AgRg no HC n. 879.646/RS, Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2025, DJEN 16/9/2025).
+Em face do exposto, denego a ordem .
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. DEBATE DA QUESTÃO PELA CORTE ESTADUAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. MINORANTE. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
