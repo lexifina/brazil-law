@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO. INEXISTÊNCIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA (ART. 43, § 2º, DO CDC) E ANOTAÇÕES PREEXISTENTES (SÚMULA N. 385/STJ). REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, concluiu que a notificação ao consumidor foi postada em data posterior à efetivação da negativação e que não existiam anotações preexistentes em seu nome. A reforma dessas conclusões encontra óbice na Súmula n. 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO. INEXISTÊNCIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA (ART. 43, § 2º, DO CDC) E ANOTAÇÕES PREEXISTENTES (SÚMULA N. 385/STJ). REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, concluiu que a notificação ao consumidor foi postada em data posterior à efetivação da negativação e que não existiam anotações preexistentes em seu nome. A reforma dessas conclusões encontra óbice na Súmula n. 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELA TÓRIO
+Trata-se de agravo interposto por BOA VISTA SERVIÇOS S.A contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL INDENIZAÇÃO DANOS MORAIS NEGATIVAÇÃO INDEVIDA - AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA SÚMULA 385 DO STJ - INAPLICABILIDADE - A ausência de prova acerca da regularidade da prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43, § 2º, do CDC, enseja o direito à compensação por danos morais. Deve ser afastada a Súmula 385 do STJ se não há anotação preexistente àquela impugnada nesta ação. O quantum indenizatório deve ser fixado de maneira a suavizar o dano, bem como evitar reiteração, em caráter pedagógico, sem se constituir valor exagerado que consolide enriquecimento sem causa. Tratando-se de relação extracontratual, aplica-se o disposto na Súmula 54 do Superior Tribunal de Justiça, ou seja, os juros são contados a partir do evento danoso. Já a correção monetária incide desde a data de sua fixação, conforme a Súmula 362, do Superior Tribunal de Justiça." (e-STJ fl. 398)
+Embargos de declaração rejeitados (e-STJ fls. 464/469).
+Nas razões do apelo nobre, a recorrente aponta violação aos artigos 489 e 1022 do Código de Processo Civil e ao artigo 43, § 2º, do Código de Defesa do Consumidor.
+Suscita, preliminarmente, a nulidade do acórdão por negativa de prestação jurisdicional. Alega que o Tribunal de origem, mesmo após a oposição de embargos de declaração, teria se omitido sobre pontos cruciais para o deslinde da causa, notadamente a análise da prova que, segundo a recorrente, demonstra o envio da comunicação prévia, e a ausência de manifestação sobre a aplicabilidade das Súmulas 359 e 385 desta Corte, teses expressamente invocadas em sua defesa.
+No mérito, sustenta que o acórdão recorrido violou o artigo 43, § 2º, do Código de Defesa do Consumidor e divergiu do entendimento pacificado neste Superior Tribunal de Justiça. Argumenta ter cumprido integralmente sua obrigação legal ao enviar a notificação ao endereço fornecido pelo credor, sendo a postagem da correspondência a única exigência para a validade do ato, conforme a Súmula 359/STJ, não se exigindo aviso de recebimento.
+Defende, por último, que o julgado contraria a Súmula 385/STJ. Para a recorrente, ainda que se considerasse irregular a inscrição, a existência de outros apontamentos legítimos e preexistentes em nome do consumidor afastaria a configuração do dano moral indenizável, tese que, segundo afirma, foi indevidamente rechaçada pela Corte estadual.
+Contrarrazões às fls. 569/584, do e-STJ.
+O recurso especial foi obstado na origem, o que deu ensejo à interposição deste agravo.
+É o relatório.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+A recorrente alega a omissão do Tribunal de origem sobre duas teses: a de que provou suficientemente a existência de notificação do consumidor, antes de proceder à inclusão do seu nome em cadastro de inadimplentes, e a de que não há dano moral pela negativação indevida, se o consumidor já possuía anotações regulares anteriores (Súmula n. 385/STJ).
+No caso dos autos, o Tribunal de origem, ao analisar o conjunto probatório, concluiu que a recorrente não logrou demonstrar a prévia notificação do consumidor, uma vez que a correspondência apresentada teria sido postada em data posterior à efetivação do registro restritivo.
+Ao assentar sua conclusão em tal premissa - a ausência de prova do cumprimento do requisito temporal da notificação -, a Corte estadual resolveu a questão central posta a seu exame. Tal fundamentação, por si só, mostra-se suficiente para amparar o julgado e, por via de consequência, afasta a pertinência das teses que pressupunham a regularidade da comunicação.
+Acerca da aplicação da Súmula n. 385/STJ, o Tribunal de origem concluiu:
+"Dessa forma, resta caracterizado o dever de indenizar, sendo inclusive, inaplicável, no caso dos autos, o teor da Súmula 385 do STJ, pois não restaram demonstrados anotações preexistentes às discutidas no presente feito." (e-STJ fl. 403)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte. A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+No mérito, ambas as teses defendidas pela recorrente  a de que teria comprovado a notificação prévia e a de que incidiria a Súmula n. 385/STJ  encontram óbice intransponível na Súmula n. 7 desta Corte.
+O Tribunal de origem, soberano na análise do acervo fático-probatório, foi categórico ao assentar que a comunicação ao consumidor ocorreu em data posterior à efetivação da negativação. Consta do acórdão, de forma clara, que o registro do débito se deu em 25/06/2021, ao passo que a correspondência apenas foi postada em 06/07/2021 (e-STJ fl. 401).
+Da mesma forma, a Corte estadual rechaçou a aplicação da Súmula n. 385/STJ por uma razão puramente fática: a de que "não restaram demonstrados anotações preexistentes às discutidas no presente feito" (e-STJ fl. 403).
+Alterar as premissas sobre as quais o acórdão recorrido foi edificado  a extemporaneidade da notificação e a inexistência de negativações prévias  demandaria uma incursão no conjunto probatório que a jurisprudência desta Casa há muito não admite.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+É o voto.
