@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DECISÃO AGRAVADA. TERMINATIVA. REVISÃO. SÚMULA Nº 7/STJ.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. A revisão do entendimento firmado pelas instâncias ordinárias, a partir da tese de que a decisão agravada é terminativa do processo, demandaria o reexame de fatos de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por PAIVA COMÉRCIO DE CHAPAS E ALUMÍNIOS LTDA., ODMIR PAIVA e OSVALDO PAIVA FILHO contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"INCIDENTE DE CUMPRIMENTO DE SENTENÇA. Ação monitória. Acolhimento parcial da impugnação. 1. Compensação. Existência de ação revisional de contratos bancários conexa. Hipótese que as sentenças proferidas nas ações monitória e revisional autorizaram expressamente a compensação dos créditos. Circunstância, ademais, de que o próprio banco, ora agravante, invocou a compensação para impugnar a base de cálculo dos honorários postulados pelo patrono dos agravados no cumprimento de sentença por este instaurado. Excesso de execução reconhecido. Prosseguimento deste incidente tão somente em relação à verba honorária a que foram condenados os ora agravados na ação monitória. Decisão mantida neste aspecto. 2. Multa por litigância de má-fé. Cabimento. Alteração da verdade dos fatos e dedução de pretensão contra fato incontroverso (Artigo 80, I e II, do CPC. 3. Repetição em dobro, nos termos do artigo 940, do Código Civil. Inadmissibilidade. Cumprimento de sentença que se consubstancia em incidente processual de acertamento de contas, em que, verificado o excesso de execução ou o adimplemento do débito, resultará no decote do excesso ou na extinção do processo pelo pagamento. Hipótese em que não houve pagamento do valor perseguido indevidamente pelo exequente. Descabimento do pleito, sob pena de enriquecimento ilícito. Recurso provido neste tema. 4. Fixação de honorários advocatícios de sucumbência. Admissibilidade na hipótese de acolhimento parcial da impugnação. Entendimento consolidado pelo Colendo Superior Tribunal de Justiça. 5. Pretensão ao arbitramento da verba honorária por apreciação equitativa, nos termos do § 8º, do artigo 85 do CPC. Descabimento. Inexistência de previsão legal. Fixação dos honorários advocatícios em 10% sobre o valor do débito recalculado, nos termos do § 2º, do artigo 85, do CPC, com distribuição proporcional. Sentença parcialmente reformada apenas para afastar a condenação do banco à devolução em dobro. Recurso provido em parte, com observação."
+Os embargos de declaração foram acolhidos, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. Preliminar arguida na contraminuta não analisada no aresto objurgado. Vício sanado com intervenção corretiva do acórdão. Inexistência dos demais vícios apontados, porquanto não configuradas a contradição e a obscuridade alegadas. Caráter infringente do recurso e propósito de prequestionamento. Embargos declaratórios acolhidos em parte, sem efeito modificativo" (e-STJ fl. 1034).
+No recurso especial, a parte recorrente alega violação dos artigos 203, 316, 924, 925, 487, I, e 490 do Código de Processo Civil.
+Sustenta que a decisão agravada é terminativa do processo, caracterizando sentença, espécie processual deliberativa que tem o efeito de dar fim à causa. Afirma, ainda, que "a decisão contra a qual foi interposto o agravo é sentença, e sob nenhum prisma pode ser considerada deliberação interlocutória" (e-STJ fl. 986).
+Após as contrarrazões (e-STJ fl. 1045/1060), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DECISÃO AGRAVADA. TERMINATIVA. REVISÃO. SÚMULA Nº 7/STJ.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. A revisão do entendimento firmado pelas instâncias ordinárias, a partir da tese de que a decisão agravada é terminativa do processo, demandaria o reexame de fatos de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso, o Tribunal de origem entendeu que
+"(..) a exceção de preexecutividade oposta pelos embargantes, apenas afastou a admissibilidade da cobrança do valor postulado pela instituição financeira, determinando o prosseguimento do incidente de cumprimento de sentença em relação aos honorários advocatícios sucumbenciais, não se materializando, portanto, decisão com caráter terminativo do incidente.
+(..)" (e-STJ fl. 1035).
+De fato, a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, apesar de indicar os artigos 203, 316, 924, 925, 487, I, e 490 do CPC como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM R ECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+De toda sorte, a revisão do entendimento firmado pelas instâncias ordinárias, a partir da tese de que a decisão agravada é terminativa do processo, demandaria o reexame de fatos de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor do débito recalculado, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
