@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALLINK TRANSPORTES INTERNACIONAIS LTDA da decisão que não conheceu de seu agravo em recurso especial porque não foram impugnados todos os fundamentos de inadmissão do recurso especial.
+Nas razões de seu recurso, a parte recorrente requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 411).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil (CPC). Incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. Para refutar a incidência da Súmula 182/STJ, deve-se demonstrar, no agravo interno, que nas razões do agravo em recurso especial foram impugnados todos os fundamentos da decisão de admissibilidade do recurso especial.
+3. Agravo interno de que não se conhece.
+VOTO
+Na origem, cuida-se de recurso especial interposto do acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 221/222):
+TRIBUTÁRIO. ADUANEIRO. APELAÇÃO. NÃO INSERÇÃO DE DADOS NO SISCOMEX. MULTA. DECRETO-LEI N.º 37/66. LEGALIDADE. DENÚNCIA ESPONTÂNEA. NÃO CARACTERIZADA. RETIFICAÇÃO NÃO COMPROVADA. RECURSO DESPROVIDOS.
+- A sentença recorrida foi proferida em antes da vigência da Lei n.º 13.105/2015 (NCPC), razão pela qual, aplicada a regra do tempus regit actum, segundo a qual os atos jurídicos se regem pela lei vigente à época em que ocorreram, o recurso será analisado à luz do Diploma Processual Civil de 1973 (Enunciados Administrativo n.º 01 e 03/2016, do STJ).
+- As informações sobre as cargas foram lançadas no sistema após a atracação da embarcação, apesar de a previsão do artigo 50, parágrafo único, inciso II, da IN RFB n.º 800/2007 de que deveriam ser prestadas anteriormente, independentemente dos prazos estabelecidos no artigo 22, que passaram a viger após 01.04.2009.
+- O artigo 23, inciso III, vigente à época da lavratura do auto de infração, estabelecia a possibilidade de retificação das informações prestadas, com vista a alterar ou excluir o conhecimento de embarque após o registro da atracação.
+- Previa o artigo 45, §1º, da IN RFB n.º 800/2007, que estavam sujeitas às penalidades do artigo 107, inciso IV, alínea "e", do Decreto-Lei n.º 37/66, as alterações efetuadas entre o prazo mínimo estabelecido pela mesma norma e a atracação da embarcação. Contudo, tal dispositivo foi revogado pela Instrução Normativa n.º 1.473/2014, aplicada ao caso, nos termos do artigo 106, inciso II, do Código Tributário Nacional.
+- A Receita Federal do Brasil, por meio da Solução de Consulta Interna COSIT n.º 02, de 04.02.2016, estabeleceu que a penalidade exigida estava excluída nos casos de alteração e retificação quando as informações prestadas anteriormente fossem tempestivas.
+- Não há nos autos comprovação de que as informações foram prestadas tempestivamente, de modo que a simples alegação de retificação não afasta a penalidade imposta, de modo que a recorrente não se desincumbiu do ônus da prova do seu direito, na forma do artigo 333, inciso I, do CPC/73.
+- Relativamente à denúncia espontânea, prevista nos artigos 102, §2º, do Decreto-Lei n. º 37/66 e 138 do Código Tributário Nacional, observa-se que é descabida a sua aplicação às obrigações acessórias autônomas de caráter administrativo, uma vez que elas se consumam com a simples inobservância do prazo definido em lei. Tal entendimento se mantém mesmo após a alteração do artigo 102, §2º, do Decreto-Lei n.º 37/66 pela Lei n.º 12.305/2010, dado o caráter formal e autônomo da obrigação descumprida.
+- De acordo com a Lei n.º 10.833/2003, que alterou a redação do artigo 37 do Decreto-Lei n.º 37/66, o agente de cargas também é responsável pelo cumprimento da obrigação de prestação de informações sobre as cargas transportadas
+- Apelação desprovida.
+Na decisão recorrida, não se conheceu do agravo em recurso especial por deixar a parte agravante de impugnar a decisão de admissibilidade relativamente às Súmulas 83/STJ e 7/STJ.
+Em seu agravo interno, a parte recorrente alega que "(i) impugnou, de forma específica, todos os fundamentos do juízo negativo de admissibilidade, (ii) de forma adequada - pois demonstrou que o caso dos autos é distinto daqueles veiculados na decisão agravada, o que afasta a incidência da Súmula 83 do STJ -, e (iii) apresentou razões concretas e específicas sobre a não incidência da Súmula 7 do STJ ao caso, principalmente por demonstrar que o E. Tribunal a quo já registrou em seu acórdão as informações necessárias à análise do recurso especial, sendo desnecessária a análise de fatos e o reexame de provas" (fl. 398).
+Como se vê, a parte agravante, no recurso ora examinado, igualmente não refuta as razões expostas na decisão que visa impugnar, repetindo o vício anteriormente detectado, isso porque, especificamente no que se refere à Súmula 7, entende que não há necessidade de nova análise das provas pois o acórdão do Tribunal de origem teria descrito esses pontos. Entretanto, é evidente, pela leitura do acórdão, que não se tratou apenas da apresentação dos pontos probatórios, como também de sua análise, como, por exemplo (fl. 231):
+Da análise do auto de infração (Id 160044500) constata-se que a inclusão dos dados no SISCOMEX foi realizada após a atracação da embarcação, ocorrida entre abril de 2008 e janeiro de 2011, em contrariedade ao disposto no artigo 22 da IN RFB n.º 800/2007. Ressalte-se que, apesar da previsão do artigo 50, parágrafo único, inciso II, da IN RFB n.º 800/2007 sobre a vigência dos prazos estabelecidos pelo artigo 22 após 01.04.2009, permanecia a determinação de que as informações deveriam ser prestadas antecipadamente.
+É devida a aplicação ao caso em questão da Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A fim de rebater a decisão que não conheceu de seu recurso porque não rebatidos todos os fundamentos da decisão de admissibilidade, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que no agravo em recurso especial ela impugnou toda a decisão que não havia admitido seu recurso especial, proferida pelo Tribunal de origem - o que não ocorreu.
+É importante registrar, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
