@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Jeniffer Caroline Gomes Albano, apontando-se como autoridade coatora a Terceira Câmara Criminal de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou a ordem no Habeas Corpus criminal n. 2290073-29.2025.8.26.0000 e manteve a prisão preventiva da paciente imposta pelo Juízo da Vara Única da comarca de Paulo de Faria/SP, pela suposta prática do crime de tráfico de drogas.
+Neste writ, a defesa sustenta a ilegalidade da custódia, por ausência de fundamentação idônea e de elementos concretos que evidenciem o periculum libertatis. Aduz, ainda, que a paciente é mãe de criança de 9 anos, o que autorizaria a substituição da preventiva por prisão domiciliar (art. 318, IV e V, do CPP), ou, subsidiariamente, a aplicação de medidas cautelares diversas (art. 319 do CPP).
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva, ou a substituição por outras medidas cautelares.
+É o relatório.
+A prisão preventiva foi decretada a requerimento do Ministério Público, em razão da gravidade concreta dos fatos e do risco de reiteração delitiva. A paciente foi denunciada por adquirir, transportar e ocultar 100 papelotes de cocaína (86 g), utilizando-se do endereço de uma vizinha idosa e da própria filha, menor de idade, para receber a droga, além de empreender fuga no momento da abordagem, deixando a criança do lado de fora da residência.
+O Tribunal de Justiça de São Paulo, ao apreciar o habeas corpus, denegou a ordem, entendendo que a decisão constritiva se encontra devidamente fundamentada, porquanto demonstrados o fumus comissi delicti e o periculum libertatis. Ressaltou que o modus operandi - utilização de idosa e criança, bem como a tentativa de fuga - evidencia a periculosidade da paciente e justifica a adoção da medida extrema, não se mostrando adequadas as cautelares alternativas.
+Nesse cenário, verifica-se que a manutenção da prisão preventiva está amparada em elementos concretos, valorados pelas instâncias ordinárias, que ressaltaram a gravidade da conduta e as circunstâncias fáticas do caso.
+A corroborar: AgRg no HC n. 1.006.401/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.
+Quanto ao pleito de prisão domiciliar, o Tribunal entendeu não ser cabível a concessão da medida, pois a paciente, reincidente, foi presa na posse de 100 porções de cocaína, utilizando a filha de apenas 9 anos para receber a droga. Tal circunstância, que expôs a menor a risco concreto, afasta a proteção prevista no art. 318 do Código de Processo Penal (fls. 66/67) e inviabiliza a substituição da prisão preventiva pela domiciliar.
+Nesse sentido: AgRg no RHC n. 213.685/RJ, relator Ministro Og Fernandes, Sexta Turma, julgado em 28/5/2025, DJEN de 4/6/2025.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO PARA DOMICILIAR. SITUAÇÃO DE PERIGO PARA O MENOR. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
