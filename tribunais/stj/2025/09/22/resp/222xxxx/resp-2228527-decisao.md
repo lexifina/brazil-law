@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, no qual alega violação do art. 39, § 4º, da Lei n. 9.250/1995 e discute a inclusão de juros de mora em precatório judicial.
+Com contrarrazões da parte recorrida, o recurso foi admitido.
+É o relatório. Decido.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 217/228):
+Conforme destacado pelo eminente Relator do REsp 1.711.375/MG, "a parte recorrente, por meio de embargos de declaração, requereu expressamente que a Corte de origem se manifestasse quanto ao fato de que: a) o litígio instaurado nos autos não diz respeito à incidência de juros de mora entre a primeira parcela do precatório quitada e as parcelas subsequentes, no caso de precatórios parcelados; b) quanto aos índices de correção monetária que deverão incidir a partir de 1996. No entanto, mesmo após instado a se manifestar sobre a questão, por meio de recurso integrativo, o Tribunal a quo manteve-se silente, limitando-se a se manifestar genericamente" (fl. 172).
+A primeira omissão diz respeito à especificação do litígio instaurado nos autos, uma vez que o acórdão embargado não considerou a circunstância de que, conforme explicitado pela agravada, ora embargante, "embora o pagamento do precatório tenha ocorrido dentro do prazo estipulado no art. 100 da CF/88, ele foi realizado em valor inferior ao que a Embargante tinha direito" (fl. 74) (original grifado e destacado).
+A segunda omissão apontada pela embargante é acerca dos índices de correção monetária que deverão incidir, na hipótese dos autos, a partir de 1996:
+ ..
+Na hipótese dos autos, a UNIÃO (FN) não infirma o fato de ter sido inferior à devida a quantia paga por meio do precatório expedido e liquidado no longínquo ano de 1996.
+Limita-se a requerer que "os embargos de declaração não sejam admitidos.
+Contudo, caso a Turma decida apreciar os embargos, então a Fazenda Nacional pede que os mesmos não sejam acolhidos por não haver contradição, omissão ou obscuridade no julgado, ao menos no que se refere às apontadas pela parte adversa" (fl. 82).
+Sobre o cumprimento do prazo para o pagamento da obrigação, a Divisão de Cálculos Judiciais deste Tribunal esclarece que "o precatório nº 94.01.34336-5, com processo de origem nº 146366, foi apresentado em julho/95 e a transferência da verba para a instituição financeira ocorreu em 24/06/96. Portanto, o pagamento do precatório foi realizado dentro do prazo constitucional estabelecido no art. 100 da Constituição Federal. Informamos que não consta em nosso sistema o ofício de depósito e o processo físico foi eliminado" (fl. 52).
+Diante disso, entendo, data venta, que, se a diferença reclamada não integrou o valor do precatório inicial, não há como se falar que "a União Federal descumpriu o prazo previsto na Constituição Federal a partir do momento em que pagou "a menor" o débito representado pela sentença em execução" (fl. 35).
+De outro lado, "se a sistemática de pagamento de débitos da Fazenda Pública (CF/1988, art. 100) implica no pagamento a menor, em virtude da defasagem do tempo e do fenômeno inflacionário, não deve o credor responder pelo prejuízo decorrente dessa diferença" (AI 0024132-93.1999.4.01.0000/GO, TRF1, Quarta Turma, Rel. Des. Fed. Mário César Ribeiro, unânime, DJ 15/10/2003).
+De se destacar, ainda, que, efetuada a transferência da verba para a instituição financeira em 24/06/1996, indiscutível a aplicação da Taxa Sistema Especial de Liquidação e Custódia  SELIC.
+ ..
+Ante o exposto, acolho os embargos de declaração, atribuindo-lhes efeitos infringentes, para sanar as omissões e declarar que a controvérsia decorre de pagamento a menor do valor de precatório, sendo necessária a apuração da diferença devida pela Fazenda Pública, sobre a qual incidirá a taxa Selic, nos termos do art. 39, § 4º, da Lei 9.250/1995, a partir de 1º/01/1996, afastando-se, contudo, sua cumulação com outros índices de correção monetária, e negar provimento ao agravo de instrumento.
+Pois bem.
+A questão decidida pelo Tribunal Regional Federal da 1ª Região não se relaciona com eventuais juros de mora incidentes no período entre realização dos cálculos e a da expedição do precatório. E, nesse cenário, o conhecimento do recurso especial encontra óbice nas Súmulas 283 e 284 do STF, pois a petição recursal é genérica e não veicula impugnação específica ao fundamento de que o primeiro precatório não englobou todos os valores devidos ao contribuinte, o que ensejou a expedição do segundo precatório para o pagamento do que lhe era devido com a correção devida.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO ESPECIAL NÃO CONHECIDO.
