@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE COMPROVAÇÃO DE FATO EXTINTIVO, IMPEDITIVO OU MODIFICATIVO DO DIREITO. CULPA EXCLUSIVA NÃO DEMONSTRADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 211/STJ.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, uma vez que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. Não merece conhecimento o recurso especial acerca da suscitada violação dos arts. 374, III, do CPC e 945 do Código Civil, uma vez que alterar as conclusões do Tribunal de origem acerca da ausência de comprovação do acordo extrajudicial e da causa excludente de responsabilidade demandaria reexame de fatos e provas, esbarrando-se no óbice da Súmula n. 7/STJ.
+3. Quanto à apontada violação do art. 406 do Código Civil, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem. Incidência do óbice da Súmula n. 211/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por EMILIA RITA PEREIRA contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 678):
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE COMPROVAÇÃO DE FATO EXTINTIVO, IMPEDITIVO OU MODIFICATIVO DO DIREITO. CULPA EXCLUSIVA NÃO DEMONSTRADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 211/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 278-283):
+APELAÇÃO CÍVEL - AÇÃO DE REGRESSO - ASSOCIAÇÃO DE PROTEÇÃO VEICULAR - ACIDENTE DE TRÂNSITO - COLISÃO - PROVA DA CULPA - RESSARCIMENTO DEVIDO. Às associações de proteção veicular é assegurado o direito de regresso em face do causador do dano, para ressarcimento do valor comprovadamente gasto. Comprovada a culpa do réu pelo acidente de trânsito, é devido o ressarcimento dos valores despendidos pela associação de proteção veicular para o conserto do veículo associado.
+Rejeitados os embargos de declaração opostos (fls. 301-305).
+A agravante alega, nas razões do agravo interno, que a decisão agravada não controverteu os fatos apresentados em Contestação, razão pela qual desnecessária a produção de prova por parte de Emilia Rita Pereira.
+Aduz que, "Na hipótese de serem incontroversos, nos termos do art. 374, III, do CPC, não há que se falar em necessidade de produção de provas" (fl. 692).
+Sustenta violação do art. 1.022, II, do CPC, visto que o acórdão teria sido omisso quanto à ausência de contestação, tornando os fatos incontroversos.
+Ressalta, ainda, a não incidência da Súmula n. 7/STJ no presente caso, haja vista que a configuração da violação dos arts. 374, III, do CPC e 945 do Código Civil relaciona-se unicamente com matéria de direito.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada não apresentou contraminuta.
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE COMPROVAÇÃO DE FATO EXTINTIVO, IMPEDITIVO OU MODIFICATIVO DO DIREITO. CULPA EXCLUSIVA NÃO DEMONSTRADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 211/STJ.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, uma vez que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+2. Não merece conhecimento o recurso especial acerca da suscitada violação dos arts. 374, III, do CPC e 945 do Código Civil, uma vez que alterar as conclusões do Tribunal de origem acerca da ausência de comprovação do acordo extrajudicial e da causa excludente de responsabilidade demandaria reexame de fatos e provas, esbarrando-se no óbice da Súmula n. 7/STJ.
+3. Quanto à apontada violação do art. 406 do Código Civil, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem. Incidência do óbice da Súmula n. 211/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Consoante aludido na decisão agravada, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, demonstrou a ausência de omissão e de fundamentação no acórdão recorrido, apontando suas razões de decidir e demonstrando que a recorrente não se desincumbiu de seu ônus de comprovar o fato extintivo, impeditivo ou modificativo de seu direito. Também atestou a ausência de comprovação de culpa concorrente.
+A propósito, destaco trechos do acórdão que denotam tal entendimento (fls. 303-304).
+Com efeito, não há omissão a respeito da alegada ausência de controvérsia sobre os fatos alegados na contestação. Ao contrário, o acórdão expressamente pontua que, por se tratar de fato impeditivo, modificativo ou extintivo, caberia à ré prová-los, não havendo presunção de veracidade:
+Da mesma forma, apesar de alegar ter realizado acordo extrajudicial para quitação do débito, a ré não produziu qualquer prova a esse respeito.
+Vale dizer que, por força do art. 373, II, do CPC, competia à ré a prova da existência de fato impeditivo, modificativo ou extintivo do direito da autora, sendo insuficiente, para tanto, a mera alegação em contestação, que não é capaz de refutar as provas produzidas pela autora. Destaca-se que as teses de defesa levantadas pela ré não são incontroversas, ainda que a autora não tenha apresentado impugnação à contestação, uma vez que estão em contrariedade com as alegações iniciais. Assim, caberia à ré a comprovação do suposto acordo extrajudicial e da causa excludente de responsabilidade, o que não ocorreu nos autos.
+Ora, somente seria possível reconhecer a existência de pagamento caso a ré tivesse comprovado sua ocorrência, o que não se verifica nos autos.
+Também não há omissão quanto à alegação de culpa concorrente, tendo o julgado decidido pela culpa exclusiva da ré pelo evento danoso, destacando a inexistência de prova acerca do suposto excesso de velocidade:
+O acidente de trânsito ocorreu em 21/05/2013, com a seguinte dinâmica, narrada pelos condutores envolvidos no fato (Boletim de Ocorrência de ordem 81):
+"Segundo o sr. Rafael, condutor do veiculo VW/Gol, ele trafegava pela rua rio pomba quando nesse momento o veiculo GM/Corsa avançou a parada obrigatória existente na rua Francisco Bicalho e veio abalroá-lo. A sra. Emília, condutora do veiculo GM/Corsa, alega que trafegava pela rua Francisco Bicalho sentido av. Padre Eustáquio e a sua frente seguia um veiculo que passou no cruzamento com a rua Rio Pomba, então a sra. Emília achou que seria possível passar pelo cruzamento e acompanhou esse veiculo, contudo veio a abalroar o veiculo VW/Gol que trafegava pela rua Rio Pomba."
+Observa-se que a ré confessa ter "acompanhado" o veículo à sua frente, indicando que não observou a parada obrigatória existente no cruzamento. Não há nenhum indicativo de que o condutor do veículo associado estivesse em alta velocidade, mas tão somente que a ré ingressou no cruzamento de forma imprudente, sendo a única culpada pela ocorrência do evento danoso.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+No mesmo sentido, também não merece conhecimento o recurso especial acerca da suscitada violação dos arts. 374, III, do CPC e 945 do Código Civil, uma vez que alterar as conclusões do Tribunal de origem acerca da ausência de comprovação do acordo extrajudicial e da causa excludente de responsabilidade demandaria reexame de fatos e provas, esbarrando-se no óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO FUNDAMENTADO. DESCARGA ELÉTRICA QUE LEVOU A ÓBITO O FILHO DA AGRAVADA. CULPA CONCORRENTE RECONHECIDA PELO TRIBUNAL ESTADUAL. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. PRETENSÃO DE REDUZIR O VALOR DA INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem se manifestou de forma expressa e coerente acerca de todos os argumentos relevantes para fundamentar sua decisão, ainda que tenha concluído em sentido diametralmente oposto ao sustentado pela ora agravante, situação que afasta o argumento de violação dos arts. 489 e 1.022 do CPC.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu pela ocorrência de culpa concorrente no acidente - descarga elétrica que levou a óbito o filho da ora agravada -, assentando que a "(..) ré  ora agravante  não produziu prova a demonstrar a alegada culpa exclusiva da vítima ou de 3º, tampouco da existência de fato impeditivo, modificativo ou extintivo do direito autoral, a afastar a responsabilidade pelos danos decorrentes do acidente", arbitrando a indenização a título de danos morais no valor de R$ 25.000,00 (vinte e cinco mil reais).
+3. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.429.200/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/11/2024, DJEN de 29/11/2024.)
+Por fim, o acórdão recorrido não se manifestou acerca do art. 406 do Código Civil, indicado como violado. Nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem. Incidência do óbice da Súmula 211/STJ.
+Ressalta-se que na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento (AgInt nos EAREsp n. 1.327.393/MA, relator Ministro Felix Fischer, Corte Especial, julgado em 16/12/2020, DJe de 18/12/2020).
+Assim, em que pese o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
