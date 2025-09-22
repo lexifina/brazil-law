@@ -1,0 +1,20 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de DANIEL JONAS DENDENA - condenado por homicídios qualificados consumado e tentado a 21 anos de reclusão -, atacando-se o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 12/15 - Revisão Criminal n. 51155310-85.2025.8.21.7000), comporta pronto acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - na condenação proferida na Ação Penal n. 0000305-28.2012.8.21.0058 (fls. 29/57, da 1ª Vara Judicial da comarca de Nova Prata/RS), alterada em grau de apelação (fls. 58/86) -, com a alteração da fração de:
+a) aumento pela continuidade delitiva de 1/2 para 1/6, ou, subsidiariamente, que o acréscimo seja fixado em fração inferior à metade, sustentando que, se em caso de três homicídios qualificados e com maior gravidade o aumento foi limitado a 2/3, não é razoável que, em situação de apenas dois delitos e com menor reprovabilidade das circunstâncias, se imponha a fração de 1/2 (fl. 8); e
+b) incidência da atenuante da menoridade relativa, aduzindo que a atenuante foi considerada em patamar inferior a 1/6, de forma meramente simbólica e sem qualquer fundamentação idônea (fl. 8).
+Sem pedido liminar.
+Embora o writ tenha sido apresentado com o objetivo de reexaminar condenação imposta e mantida pelas instâncias ordinárias - o que, em regra, é inadmissível -, do atento exame dos autos verifica-se a ocorrência de constrangimento ilegal na dosimetria, a justificar a superação do referido óbice, pois:
+a) quanto à fração de aumento pela continuidade delitiva, o acórdão recorrido fundamentou a aplicação da fração de 1/2 para a prática de dois delitos - considerando a gravidade concreta dos crimes dolosos contra vítimas distintas, cometidos com violência, e que a Súmula 659/STJ, publicada em 8/9/2023, não pode ser aplicada retroativamente para desconstituir a coisa julgada (fls. 20/22) - em desacordo com o entendimento desta Corte Superior, para o qual deveria ser aumentada a pena em 1/6 (Súmula 659/STJ); e
+b) quanto à atenuante da menoridade relativa, tem-se que foi aplicada a fração de 1/15 (fl. 55) sem fundamentação concreta específica para utilização de fração diversa de 1/6, em dissonância com a jurisprudência desta Corte Superior.
+Necessário, então, redimensionar a pena imposta:
+a) homicídio consumado: mantida a pena-base em 15 anos de reclusão (fl. 55), aplica-se a atenuante da menoridade relativa, na segunda fase, em 1/6, passando a reprimenda para 12 anos e 6 meses de reclusão. Sem alterações na última fase, resultando a pena em 12 anos e 6 meses de reclusão;
+b) homicídio simples tentado: mantida a pena-base em 15 anos de reclusão (fl. 55), aplica-se a atenuante da menoridade relativa, na segunda fase, em 1/6, passando a reprimenda para 12 anos e 6 meses de reclusão. Na terceira fase, mantida a incidência da redução pela tentativa em 1/3 (fl. 55), resultando a pena em 8 anos e 4 meses de reclusão; e
+c) considerando a continuidade delitiva (fl. 84), aplica-se a fração de 1/6 ao delito mais grave (12 anos e 6 meses de reclusão), resultando a pena definitiva em 14 anos e 7 meses de reclusão.
+Finalmente, considerando a pena fixada, tem-se que não há ilegalidade na fixação do regime inicial fechado.
+Em razão disso, concedo liminarmente a ordem impetrada para redimensionar a pena imposta ao paciente para 14 anos e 7 meses de reclusão, mantido o regime inicial fechado, referente à condenação proferida na Ação Penal n. 0000305-28.2012.8.21.0058, da 1ª Vara Judicial da comarca de Nova Prata/RS.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. DOSIMETRIA. ILEGALIDADE NA SEGUNDA FASE. ATENUANTE DA MENORIDADE. FRAÇÃO DE 1/15. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA ESPECÍFICA. CONTINUIDADE DELITIVA. FRAÇÃO DE 1/2. DOIS DELITOS. SÚMULA 659/STJ. INCIDÊNCIA. NECESSIDADE DE REDIMENSIONAMENTO DA PENA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
