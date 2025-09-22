@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça (STJ), não se conhece do agravo interno que não rebate os fundamentos da decisão que, nesta instância, examinou recurso.
+2. Agravo interno de que não se conhece.
+RELATÓRIO
+Trata-se de agravo interno interposto por FLASHMED COMERCIO DE PRODUTOS MEDICOS LTDA da decisão de minha relatoria de fls. 405/407.
+Nas razões recursais, a parte agravante requer a reconsideração da decisão agravada ou a apreciação do processo pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. Nos termos da Súmula 182 do Superior Tribunal de Justiça (STJ), não se conhece do agravo interno que não rebate os fundamentos da decisão que, nesta instância, examinou recurso.
+2. Agravo interno de que não se conhece.
+VOTO
+Na origem, cuida-se de recurso especial interposto do acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 309):
+APELAÇÃO. AÇÃO DECLARATÓRIA. PRETENSÃO DE RECONHECIMENTO DA INEXIGIBILIDADE DE DÉBITO TRIBUTÁRIO, CONSISTENTE EM ICMS E MULTA, DECORRENTE DO AUTO DE INFRAÇÃO Nº 03.005325, LAVRADO, AOS 24/10/2002, POR NÃO EMISSÃO DE DOCUMENTO FISCAL RELATIVO A SAÍDA DE MERCADORIA TRIBUTADA. PROCEDÊNCIA DO PEDIDO. IRRESIGNAÇÃO. CONTRIBUINTE ENQUADRADA NO REGIME SIMPLIFICADO. APURAÇÃO DE IRREGULARIDADE VERIFICADA EM LEVANTAMENTO FISCAL REALIZADO EM INFORMAÇÕES OBTIDAS DA MAIOR FORNECEDORA DA EMPRESA AUTORA (NOTAS FISCAIS), TENDO EM VISTA A SUCESSIVA RECUSA DA APRESENTAÇÃO DA DOCUMENTAÇÃO EXIGIDA PELA FISCALIZAÇÃO. CONSTATAÇÃO DA OMISSÃO DE ENTRADAS DE MERCADORIAS. LIMITE DE RECEITA BRUTA ANUAL, REFERENTE À FAIXA EM QUE SE ENCONTRAVA DELIMITADA (ART. 3º, DA LEI ESTADUAL Nº 2.414/95, E RESOLUÇÃO Nº 2.775/97), QUE TERIA SIDO ULTRAPASSADO, DANDO ENSEJO À COBRANÇA DO IMPOSTO PELO REGIME DE APURAÇÃO NORMAL (ART. 7º, §2º, 2, DA LEI ESTADUAL Nº 2.414/95). DISPENSA DA ESCRITURAÇÃO DE LIVROS FISCAIS, QUE NÃO AFASTA A OBRIGAÇÃO DE GUARDA, EM ORDEM CRONOLÓGICA, DOS DOCUMENTOS DE ENTRADA E SAÍDA DE PRODUTOS, PELO PRAZO DE 05 (CINCO) ANOS, A TEOR DO DISPOSTO NO ART. 10, II, DA LEI ESTADUAL 2.414/95, E NO ART. 17, §2º, DA RESOLUÇÃO SEFCON Nº 3.566, DE 27/01/2000. ALEGAÇÃO, NÃO COMPROVADA, DE QUE AS MERCADORIAS AUTUADAS ESTARIAM SUJEITAS AO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA, RESTANDO, PORTANTO, OS VALORES PERTINENTES EXCLUÍDOS DO LIMITE APLICÁVEL ÀS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE. ARGUMENTO, ADEMAIS, QUE NÃO SE SUSTENTA, TENDO EM VISTA A NÃO DISPENSA DO RECOLHIMENTO DO IMPOSTO CUJA RETENÇÃO NÃO HAJA SIDO EFETUADA ANTERIORMENTE (ART. 16, DA RESOLUÇÃO SEFCON Nº 3.566, DE 27/01/2000). RESPONSABILIDADE SOLIDÁRIA DA DESTINATÁRIA SUBSTITUÍDA ESTABELECIDA PELOS ARTS. 121 E 124, II, DO CTN, COMBINADO COM O ART. 25, DA LEI ESTADUAL Nº 2.657/96. CONSTITUIÇÃO DO DÉBITO QUE OCORREU APÓS AUTUAÇÃO FISCAL E PROCESSO ADMINISTRATIVO, ATOS QUE GOZAM DE PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE, POSSUINDO COMO CARACTERÍSTICAS A IMPERATIVIDADE, A AUTOEXECUTORIEDADE E A INVERSÃO DO ÔNUS DA PROVA, ESSA ÚLTIMA A CARGO DO ADMINISTRADO. INEXISTÊNCIA, NA HIPÓTESE, DE PROVA CAPAZ DE INVALIDAR O ATO IMPUGNADO. PRECEDENTE DO C. STJ. SENTENÇA REFORMADA. PRIMEIRO RECURSO CONHECIDO E PROVIDO. SEGUNDO APELO NÃO CONHECIDO, POIS PREJUDICADO.
+Na decisão agravada (fls. 405/407), não conheci do agravo em recurso especial com base na aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF), em razão do agravo em recurso especial de fls. 381/385 encontrar-se deficientemente elaborado, contendo diversos erros de formatação que prejudicavam a compreensão do conteúdo da peça recursal e dos argumentos apresentados pela parte.
+Em seu agravo interno, a parte combate a decisão de fls. 363/370 nestes termos:
+A decisão de fls. 363/370, inadmitiu o recurso especial de fls. 347/351, ao argumento de as alegações nele trazidas para fundamentar as pretensas violações possuem caráter genérico, dificultando a inteligência do recurso, já que não indicam quais seriam especificamente as reais violações a normas legais, o que atrairia a aplicação, por analogia, do verbete nº 284 da Súmula do E. STF (fl. 414).
+(..)
+Posto isso, requer: (..) b) seja processado e julgado o presente agravo, para que seja cassada a decisão de fls. 363/370, que inadmitiu o recurso especial, para que o mesmo seja destrancado e apreciado por este E. STJ.
+Como se vê, a parte agravante, no recurso ora examinado, não rebate as razões expostas, na decisão que visa impugnar, para a aplicação da Súmula 284 do STF. Por esse motivo, aplico ao presente caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil (CPC) como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos da decisão que examinou o recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
