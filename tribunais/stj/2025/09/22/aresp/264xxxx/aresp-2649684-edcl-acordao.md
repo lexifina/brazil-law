@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. CONTRADIÇÃO EXTERNA QUE NÃO AUTORIZA A OPOSIÇÃO DOS EMBARGOS. INTEGRATIVO REJEITADO.
+1. O acórdão embargado não contém erro de fato, contradição, tampouco foi omisso e, com clareza e coerência, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugnou os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n. 7 e 83, ambas do STJ).
+2. Inexistentes as hipóteses do art. 1.022 do CPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+3. A contradição que autoriza os aclaratórios é a inerente ao próprio acórdão.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ZELAR IMOVEIS LTDA. (ZELAR) contra acórdão de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n. 7 e 83, ambas do STJ).
+2. Agravo interno não provido (e-STJ, fl. 1.142).
+Nas razões do presente inconformismo, ZELAR defendeu que é
+ ..  evidente contradição/obscuridade contidas no julgado, pois, a r. decisão ora embargada incidiu no mesmo equívoco na valoração da prova dos autos com relação à divergência de entendimentos oriundos jurisprudenciais. Vale reiterar que há nos autos farta prova no sentido do direito pleiteado pela Embargante, em especial quanto a inocorrência da prescrição intercorrente, com a análise minuciosa das peculiaridades e preciosismos pertinentes. Não obstante, a r.
+decisão aqui combatida, assim como o v. acórdão atacado pelo apelo especial, partiu da premissa de que não há prescrição intercorrente, posto que, não houve qualquer desídia da parte exequente, sendo necessário inclusive a análise robusta do caso em específico.
+Ora, sabe-se que somente ocorre a prescrição intercorrente se a ação de execução ficar paralisada por desídia do exequente que não diligenciar o andamento do feito, o que, no caso concreto, não ocorreu.
+Portanto, DIVERGÊNCIAS foram suscitadas, e não havendo orientação firmada do Tribunal no sentido da decisão a quo recorrida, a esta Corte Superior clamou-se (sic., e-STJ, fls. 1.153/1.1689).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. CONTRADIÇÃO EXTERNA QUE NÃO AUTORIZA A OPOSIÇÃO DOS EMBARGOS. INTEGRATIVO REJEITADO.
+1. O acórdão embargado não contém erro de fato, contradição, tampouco foi omisso e, com clareza e coerência, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugnou os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n. 7 e 83, ambas do STJ).
+2. Inexistentes as hipóteses do art. 1.022 do CPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+3. A contradição que autoriza os aclaratórios é a inerente ao próprio acórdão.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração devem ser rejeitados.
+Da alegada contradição
+O acórdão embargado não foi omisso ou contraditório e, com clareza e coerência, concluiu fundamentadamente que não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n. 7 e 83, ambas do STJ).
+Na espécie, em que pese o reforço de argumentação apresentado nas razões do agravo interno e aqui, no recurso integrativo, da análise do agravo em recurso especial se verifica que, conforme já consignado no acórdão impugnado, o inconformismo não se dirigiu, de forma específica, contra todos os fundamentos da decisão agravada, na medida em que ZELAR não refutou, de forma arrazoada, a incidência das Súmulas n. 7 e 83, ambas do STJ, ao caso.
+Isso porque, conforme já salientado no acórdão impugnado, ZELAR limitou-se a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Conforme foi registrado no acórdão embargado, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula n. 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que não ocorreu.
+Além disso, foi destacado no acórdão impugnado, não basta, para afastar o óbice da Súmula n.º 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+Contudo, no caso, reitere-se, ZELAR deixou de demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada.
+Em resumo, nas razões do agravo em recurso especial, ZELAR se limitou a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Nesse sentido, a Corte Especial, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão Min. LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula n. 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo Min. LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EAREsp 746.775/PR).
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, repita-se, foi o caso de incidir o art. 932, III, do CPC.
+Como consequência, afasta-se a existência dos vícios referidos no julgado aqui embargado, não havendo que se falar, portanto, em erro material.
+Nos termos do art. 1.022 do CPC, os embargos de declaração se destinam a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material existente no julgado, podendo-lhes ser atribuídos, excepcionalmente, efeitos infringentes, quando algum desses vícios for reconhecido.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devido à desarmonia entre a fundamentação e as conclusões da própria decisão. Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais, o que não se vislumbra no presente caso.
+Na hipótese, o julgado abordou os temas questionados e, em nenhum deles, houve a contradição que ZELAR gostaria de ver presente, de modo que os embargos devem ser rejeitados por ausência de afronta aos requisitos do art. 1.022 do CPC.
+O importante é que o acórdão tenha decidido topicamente os pontos principais da controvérsia, o que efetivamente foi feito, não se podendo admitir que os embargos de declaração tomem curso diverso daquele a que são destinados.
+Se ZELAR não se conforma com a fundamentação do julgado, não há que ser por meio de embargos de declaração que lograrão obter a sua reforma.
+Ademais, como ressaltado pelo em. Ministro MARCO AURÉLIO BELLIZZE, no julgamento do EDcl no AgRg no AREsp nº 468.212/SC,
+ ..  não cabe a este Superior Tribunal, que não é órgão de consulta, responder a "questionários", tendo em vista que os aclaratórios não apontam de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas buscam, isto sim, esclarecimentos sobre situação que os embargantes consideram injusta em razão do julgado (sem destaque no original).
+No restante, é bom destacar que os embargos de declaração não devem se revestir de caráter infringente, pois a
+ ..  maior elasticidade que se lhes reconhece, excepcionalmente, em casos de erro material evidente ou de manifesta nulidade do acórdão (RTJ 89/548, 94/1.167, 103/1.210, 114/351), não justifica, sob pena de grave disfunção jurídico-processual dessa modalidade de recurso, a sua inadequada utilização com o propósito de questionar a correção do julgado e obter, em consequência, a desconstituição do ato decisório (RTJ 154/223, 155/964, 158/264, 158/689, 158/993, 159/638), consoante a anotação de Theotônio Negrão, na obra CPC e Legislação Processual em Vigor, Saraiva, 37ª ed., 2005, p. 623.
+Além disso, cumpre ressaltar que o col. Superior Tribunal de Justiça já firmou orientação de que a contradição que autoriza os embargos de declaração é do julgado com ele mesmo, jamais a contradição com a lei ou com o entendimento da parte (REsp n. 218.528/SP, Rel. Min. Cesar Asfor Rocha, j. 7/2/2002).
+Assim, a contradição que autoriza o manejo dos embargos de declaração é a interna, ou seja, aquela contradição entre proposições do próprio julgado. Contradição externa não abre a possibilidade de oposição de embargos declaratórios.
+Confiram-se os seguintes precedentes nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. SIMPLES REITERAÇÃO DE ARGUMENTOS. NÃO-CABIMENTO. CONTRADIÇÃO INTERNA DO JULGADO. AUSÊNCIA. EMBARGOS REJEITADOS.
+ ..
+4. Finalmente, o vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ.
+5 Embargos de declaração rejeitados.
+(EDcl no RMS nº 46.618/MG, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 16/3/2015 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. NÃO CONFIGURAÇÃO. EMBARGOS REJEITADOS.
+1. A contradição que enseja o acolhimento dos embargos declaratórios é aquela interna no julgado embargado, e não entre a decisão recorrida e a tese defendida na instância ordinária.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp nº 579.516/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 6/3/2015 - sem destaque no original)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ISS. LEASING. MUNICÍPIO COMPETENTE. APLICAÇÃO IMEDIATA DO ENTENDIMENTO FIRMADO NO RESP 1.060.210/SC, JULGADO SOB O RITO DO ART. 543-C DO CPC. POSSIBILIDADE. CONTRADIÇÃO INEXISTENTE. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+ ..
+II. A alegação de contradição, invocada pelo embargante, refere-se ao acórdão firmado no REsp 1.060.210/SC, julgado pelo rito do art. 543-C do CPC, no qual se firmou tese relativa à incidência do ISS sobre as operações de leasing financeiro, bem como se definiu qual é o sujeito ativo da relação jurídico-tributária. No entanto, consoante restou decidido pela Primeira Turma do STJ, nos EDcl no AgRg no REsp 639.348/DF (Rel. Ministra DENISE ARRUDA, DJU de 12/03/2007), a contradição que autoriza os embargos de declaração é aquela interna do julgado, caracterizada por proposições inconciliáveis entre si, que dificultam ou impedem a sua compreensão, não interessando "para fins de embargos de declaração, contradição entre a decisão e outros elementos constantes do processo (p. ex., provas carreadas aos autos), entre a decisão e outro ato decisório constante do mesmo processo, entre a decisão e julgamentos realizados noutros processos, entre a decisão e a lei" (Embargos de Declaração, Coleção Theotônio Negrão / coordenação José Roberto Ferreira Gouvêa, São Paulo: Saraiva, 2005, p. 108)". Portanto, são incabíveis os Aclaratórios, nesse ponto.
+ ..
+(EDcl no AgRg no AgRg no REsp nº 1.139.725/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 4/3/2015 - sem destaque no original)
+Portanto, o que se verifica é o mero inconformismo da parte.
+Dessa forma, mantém-se o aresto embargado, porque não há motivos para a sua alteração.
+Por ora, deixo de aplicar a multa do art. 1.026, § 2º, do CPC.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
