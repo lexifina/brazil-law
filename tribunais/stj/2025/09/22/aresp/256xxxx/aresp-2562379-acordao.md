@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. BARRAGEM CÓRREGO DO FEIJÃO. ROMPIMENTO. ACORDO. COISA JULGADA. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ.
+1. A revisão do entendimento firmado pelas instâncias ordinárias de que se operou a coisa julgada em relação ao acordo homologado demandaria o reexame de fatos, de provas e de cláusulas contratuais, providência vedada no recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por DOMINGOS MACEDO DA SILVA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no art. 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ROMPIMENTO DA BARRAGEM DA MINA DO CÓRREGO DO FEIJÃO EM BRUMADINHO - ACORDO EXTRAJUDICIAL - HOMOLOGAÇÃO JUDICIAL - QUITAÇÃO PLENA SOBRE O OBJETO DA CONDENAÇÃO - DANO JÁ CONHECIDO À ÉPOCA DO ACORDO - COISA JULGADA - NOVA INDENIZAÇÃO - IMPOSSIBILIDADE - EXTINÇÃO DO PROCESSO - RECURSO NÃO PROVIDO. I- À luz do art.337, §§1º e 2º do Código de Processo Civil de 2015, há coisa julgada quando a parte intenta nova ação com as mesmas partes, pedido e causa de pedir de outra demanda anteriormente por ela ajuizada e já julgada, cuja decisão não é mais passível de recurso. II - O autor já tinha ciência do suposto dano à saúde quando firmou o acordo extrajudicial, o que afasta de plano qualquer alegação de eventuais "danos a posteriori". III - A transação, homologada por sentença, tem força para impedir que as partes renovem a discussão da lide em outros processos, visto que são imutáveis os efeitos do ajuste realizado, sendo defeso ao autor propor outra ação para discutir direito à nova indenização pelos danos a sua saúde mental, se restou expressamente pactuado que ele outorgou quitação plena para mais nada reclamar ou receber a esse título. IV - O acordo realizado exauriu as pendências existentes entre as partes após o evento narrado nos autos, sendo que, ao ser homologado, criou uma garantia de estabilidade para ambos os transigentes, encerrando definitivamente a discussão sobre os danos morais e materiais causados ao autor, não permitindo, assim, a perpetuação de qualquer litígio sob este fundamento" (e-STJ fl. 898).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 950/957).
+No recurso especial, o recorrente alega violação do art. 504, II, do Código de Processo Civil, defendendo que
+"(..) inexiste coisa julgada a prejudicar o pleito jungido nestes autos, uma vez que ao tempo do suposto acordo, firmado em 30 de outubro de 2019, o Agravante não tinha conhecimento do seu abalo psicológico e sua relação de causalidade com o evento danoso, dado que seu diagnóstico somente fora conhecido em 27 de fevereiro de 2020, conforme consta no Laudo Médico inserido no ID nº 119668820, com o ajuizamento da presente demanda em 11 de junho de 2020" (e-STJ fl. 977).
+Após as contrarrazões (e-STJ fls. 1.045/1.062), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. BARRAGEM CÓRREGO DO FEIJÃO. ROMPIMENTO. ACORDO. COISA JULGADA. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ.
+1. A revisão do entendimento firmado pelas instâncias ordinárias de que se operou a coisa julgada em relação ao acordo homologado demandaria o reexame de fatos, de provas e de cláusulas contratuais, providência vedada no recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso dos autos, o Tribunal de origem entendeu que operou-se a coisa julgada em relação ao acordo homologado, nos seguintes termos:
+"(..)
+Tem-se, assim, que o acordo realizado exauriu as pendências existentes entre as partes após o evento narrado nos autos, sendo que, ao ser homologado, criou uma garantia de estabilidade para ambos os transigentes, encerrando definitivamente a discussão sobre os danos psicológicos causados ao autor, não permitindo, assim, a perpetuação de qualquer litígio sob este fundamento.
+Trata-se de ato jurídico perfeito e acabado, obrigando definitivamente os contraentes, não havendo que se falar em arrependimento unilateral, de sorte que a rescisão somente é possível, nos termos do artigo 171, II do Código Civil, por vício resultante de erro, dolo, coação, estado de perigo, lesão ou fraude contra credores, hipóteses estas não comprovadas nestes autos.
+Nesse sentido, a transação, homologada por sentença, tem força para impedir que as partes renovem a discussão da lide em outros processos, visto que são imutáveis os efeitos do ajuste realizado, sendo defeso ao autor propor outra ação para discutir direito à nova indenização pelos danos a sua saúde mental, se restou expressamente pactuado que ele outorgou quitação plena para mais nada reclamar ou receber a esse título.
+(..)
+Desse modo, uma vez homologado o acordo de ordem nº 70, descabe o prosseguimento de nova ação para se discutir supostos danos já conhecidos à época da transação, firmada pelas mesmas partes litigantes, sob pena de flagrante ofensa à coisa julgada.
+Assim, o acordo homologado por sentença, atingido pelos efeitos da coisa julgada formal e material, tornou-se imutável, não podendo o autor renovar o pedido indenizatório de danos morais, devendo, portanto, ser mantida a sentença que julgou extinto o processo, sem julgamento do mérito pela coisa julgada (art.485, V, CPC).
+(..)" (e-STJ fls. 905/907).
+Com efeito, a revisão do entendimento firmado pelas instâncias ordinárias de que se operou a coisa julgada em relação ao acordo homologado demandaria o reexame de fatos, de provas e de cláusulas contratuais, providência vedada no recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ROMPIMENTO DA BARRAGEM EM BRUMADINHO. ACORDO EXTRAJUDICIAL. DANOS CONHECIDOS À ÉPOCA DO ACORDO. QUITAÇÃO SOBRE O OBJETO DA DEMANDA. COISA JULGADA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A Corte de origem concluiu que a exceção prevista no termo de acordo, relacionada aos "danos não descritos, danos supervenientes ou desconhecidos", refere-se aos danos sobre os quais o autor não tinha ciência até a celebração do termo e que os danos mencionados na inicial já eram conhecidos pelo autor quando da assinatura do acordo, razão pela qual, diante da quitação lá outorgada, aplicam-se ao caso os efeitos da coisa julgada.
+3. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria a interpretação das cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial" (AgInt no AREsp 2.725.160/MG, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 5/5/2025, DJEN de 12/5/2025).
+"DIREITO PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUXÍLIO EMERGENCIAL. ROMPIMENTO DA BARRAGEM EM BRUMADINHO. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. COISA JULGADA. REEXAME DE PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo para dar parcial provimento ao recurso especial, afastando a multa imposta pelo acórdão que julgou os embargos de declaração. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o recurso especial pode promover a revisão do quadro fático-probatório estabelecido na instância de origem, considerando a aplicação da Súmula 7 do STJ.
+3. A alegação de prestação jurisdicional incompleta, com violação aos artigos 489 e 1.022 do CPC, em razão da não análise da tese de coisa julgada pelo Tribunal estadual. III. RAZÕES DE DECIDIR
+4. A revisão do quadro fático-probatório é inviável em sede de recurso especial, conforme estabelecido pela Súmula 7 do STJ, que veda o reexame de provas.
+5. A decisão do Tribunal de origem foi fundamentada, não havendo omissão apenas pelo fato de ter decidido em sentido contrário à pretensão da parte.
+6. A aplicação da Súmula 98 do STJ afasta a multa imposta, pois os embargos de declaração foram opostos com notório propósito de prequestionamento.
+IV. AGRAVO INTERNO NÃO PROVIDO" (AgInt no AREsp 2.739.684/MG, Relatora Ministra DANIELA TEIXEIRA, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça.
+É o voto.
