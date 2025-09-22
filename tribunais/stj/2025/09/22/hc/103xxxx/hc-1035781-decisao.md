@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LILIANE BASILIO DANTAS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2264712-10.2025.8.26.0000).
+Consta dos autos que o Magistrado de primeiro grau determinou a realização de exame criminológico para posterior análise do pedido de progressão de regime formulado pela paciente (e-STJ fls. 52/53).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, tendo a ordem sido denegada nos termos do acórdão assim ementado (e-STJ fl. 20):
+"Habeas Corpus". Pretendida cassação da decisão que determinou a realização de exame criminológico para fins de progressão de regime. Inviabilidade de exame da pretensão em via estreita de "Habeas Corpus", que não permite exame aprofundado de provas. Ordem denegada.
+Daí o presente writ, no qual a defesa assevera que o constrangimento ilegal é evidente, uma vez que a paciente preenche os requisitos para a concessão da progressão ao regime semiaberto e que a determinação de realização de exame criminológico carece de fundamentação idônea.
+Sustenta, ainda, que o Tribunal estadual incorreu em negativa de prestação jurisdicional ao deixar de apreciar as teses aventadas pela defesa.
+Requer, assim, em liminar, seja determinada a análise do mérito do habeas corpus originário pelo Tribunal paulista; e, no mérito, seja afastada a necessidade de realização do exame criminológico.
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem denegou a impetração, consignando, para tanto, que (e-STJ fls. 21/22):
+Sem razão a impetração.
+Que busca, por via imprópria, nulificar decisão que determinou a realização de exame criminológico para fins de análise de pedido de progressão de regime.
+Imprópria porque nos estreitos limites da ordem de "habeas corpus" não é possível aferir-se de aspectos meritórios, na espécie de extrema relevância para se avaliar o eventual direito da sentenciada.
+Nulificação de decisão que determina a realização de exame criminológico demanda aprofundado exame da situação prisional e dos requisitos objetivos e subjetivos para tanto, o que resta impedido nos limites da impetração.
+ .. .
+O caminho que poderia ter sido buscado era o de agravo, que não consta dos autos ter sido usado (f. 52/58).
+Afinal, volta-se o mandamus contra uma decisão legitimada da origem, que se combateria, torne-se a dizer, por agravo.
+Em suma, não é o presente mandamus a via adequada a analisar pedido de cassação de decisão que determinou a realização de exame criminológico para fins de progressão de regime.
+Nessas circunstâncias, a ausência de manifestação do Tribunal de Justiça do Estado de São Paulo acerca do mérito do pedido formulado na impetração antecedente configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não demanda aprofundado exame de matéria probatória.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO CABÍVEL. IMPOSSIBILIDADE. NÃO CONHECIMENTO. EXECUÇÃO PENAL. INDULTO. PREENCHIMENTO DOS REQUISITOS SUBJETIVOS. SUPRESSÃO DE INSTÂNCIA. RECUSA DO TRIBUNAL A QUO. EXISTÊNCIA DE RECURSO PRÓPRIO. MATÉRIA DE DIREITO. NECESSIDADE DE ANÁLISE DA ILEGALIDADE APONTADA. ORDEM CONCEDIDA.
+1. Esta Corte não deve continuar a admitir a impetração de habeas corpus (originário) como substitutivo de recurso, dada a clareza do texto constitucional, que prevê expressamente a via recursal própria ao enfrentamento de insurgências voltadas contra acórdãos que não atendam às pretensões veiculadas por meio do writ nas instâncias ordinárias.
+2. Verificada hipótese de dedução de habeas corpus em lugar do recurso cabível, impõe-se o não conhecimento da impetração, nada impedindo, contudo, que se corrija de ofício eventual ilegalidade flagrante, como forma de coarctar o constrangimento ilegal.
+3. No vertente caso, sustenta-se a impossibilidade de negar ao paciente o indulto, porque entende presentes os requisitos subjetivos elencados no Decreto Presidencial n. 7.049/2009.
+4. A questão deduzida não foi examinada pelo Tribunal de Justiça estadual, o qual julgou que o habeas corpus não seria a via adequada ao exame da postulação, nada dizendo quanto ao mérito. Tal circunstância impede a análise pelo Superior Tribunal de Justiça, sob pena de incorrer na indevida supressão de instância.
+5. Tratando-se de matéria de direito, a despeito da existência de via processual própria, o Tribunal a quo deve proceder ao exame da flagrante ilegalidade apontada, se existente ou não.
+6. Impetração não conhecida. Ordem de habeas corpus concedida, de ofício, a fim de determinar ao Tribunal a quo que examine o pedido deduzido no mandamus originário, decidindo como entender de direito. (HC 264.046/SP, relator Ministro OG FERNANDES, SEXTA TURMA, julgado em 5/9/2013, DJe 23/9/2013, grifei.)
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TEMA NÃO ANALISADO PELO TRIBUNAL DE ORIGEM EM RAZÃO DE SER CABÍVEL AGRAVO EM EXECUÇÃO. QUESTÃO DE DIREITO. CONSTRANGIMENTO ILEGAL EVIDENTE. 3. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A jurisprudência do Superior Tribunal de Justiça, buscando a racionalidade do ordenamento jurídico e a funcionalidade do sistema recursal, vinha se firmando, mais recentemente, no sentido de ser imperiosa a restrição do cabimento do remédio constitucional às hipóteses previstas na Constituição Federal e no Código de Processo Penal. Nessa linha de evolução hermenêutica, o Supremo Tribunal Federal passou a não mais admitir habeas corpus que tenha por objetivo substituir o recurso ordinariamente cabível para a espécie.
+Precedentes. Contudo, devem ser analisadas as questões suscitadas na inicial no intuito de verificar a existência de constrangimento ilegal evidente - a ser sanado mediante a concessão de habeas corpus de ofício -, evitando-se prejuízos à ampla defesa e ao devido processo legal.
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, a despeito de existir recurso próprio e adequado para questionar as decisões proferidas em tema de Execução Penal, a ação de habeas corpus substitutiva de agravo em execução deve ser analisada pela Corte de origem com o intuito de verificar a existência de flagrante ilegalidade, desde que não seja necessário o reexame de fatos e provas, como na espécie, em que se discute o preenchimento dos requisitos objetivos e subjetivos à progressão de regime. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício para determinar que o Tribunal de Justiça de São Paulo examine o mérito do Habeas Corpus n. 0160802-21.2013.8.26.0000 como entender de direito. (HC 282.251/SP, relator Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 11/3/2014, DJe 19/ 3/2014, grifei.)
+Nesse contexto, em se tratando de relevante questão de direito, deve a Corte estadual analisar a matéria suscitada no habeas corpus precedente.
+Ante o exposto, concedo parcialmente a ordem para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do Habeas Corpus n. 2264712-10.2025.8.26.0000 , como entender de direito.
+Publique-se. Intimem-se.
+ EMENTA
