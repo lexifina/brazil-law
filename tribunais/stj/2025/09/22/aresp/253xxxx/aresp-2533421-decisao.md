@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação dos arts. 489, § 1º, e 1.022, II, do CPC e pela incidência da Súmula n. 83/STJ (fls. 115/119).
+O acórdão recorrido encontra-se assim ementado (fl. 31):
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXIGÊNCIA DE PROCURAÇÃO ATUALIZADA PARA LEVANTAMENTO DE ALVARÁ. RECURSO DA AUTORA EXEQUENTE. (1) PRECLUSÃO. INEXISTÊNCIA. (2) DETERMINAÇÃO DE JUNTADA DE PROCURAÇÃO ATUALIZADA PARA LEVANTAMENTO DE VALORES. POSSIBILIDADE. DILIGÊNCIA FACULTADA AO MAGISTRADO DE ACORDO COM SEU PODER GERAL DE CAUTELA. PRECEDENTES DO STJ. CASO CONCRETO EM QUE O INSTRUMENTO FOI CARREADO AOS AUTOS JÁ CONTANDO COM CERCA DE 3 ANOS. (3) DECISÃO RECORRIDA MANTIDA. RECURSO NÃO PROVIDO. "O magistrado, seja em razão do poder geral de cautela, seja em função do poder de direção formal e material do processo que lhe é conferido, pode exigir a apresentação de instrumento de procuração mais recente, sobretudo quando se trata do levantamento de numerário, pois, assim agindo, estará salvaguardando os interesses da parte representada (AgRg no Ag 1.222.338/DF, Rel. Min. Eliana Calmon, DJe 8.4.2010). Precedentes: AgRg no REsp. 1.189.411/PR, Rel. Min. BENEDITO GONÇALVES, DJe 17.11.2010; AgRg no Ag. 1.222.338/DF, Rel. Min. ELIANA CALMON, DJe 8.4.2010" (AgRg no RMS 51.374/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/10/2016, DJe 26/10/2016).
+Os embargos de declaração foram rejeitados (fls. 53/56).
+Nas razões do recurso especial (fls. 60/80), fundamentado no art. 105, III, "a" e "c", da Constituição Federal, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+i. arts. 489, § 1º, 1.022, II, do CPC e art. 93, X, da CF, ante a existência de omissão no acórdão recorrido, por não ter havido pronunciamento sobre a juntada de procuração atualizada, já que esta foi assinada onze meses antes da determinação judicial agravada e acostada no mandado de segurança vinculado ao feito, o qual foi julgado prejudicado;
+ii. art. 105, § 4º, do CPC e arts. 5º, § 2º, 7º, I, da Lei n. 8.906/1994, bem como dos arts. 5º, XIII, e 133 da CF, uma vez que ausente previsão legal que obrigue a renovação de procuração assinada há mais de três anos, sendo esta eficaz em todas as etapas do processo e até ulterior revogação pelo mandante ou renúncia do mandatário, além de ressaltar que na procuração impugnada constava poderes específicos para receber e dar quitação e que a exigência feita pela decisão recorrida ultrapassa o poder geral de cautela conferido aos magistrados.
+Contrarrazões (fls. 109/113).
+No agravo (fls. 122/133), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 145/151).
+É o relatório.
+Decido.
+Primeiramente, registro a incognoscibilidade do recurso especial quanto à alegação de violação dos arts. 5º, XIII, 93, X, e 133 da CF, uma vez que não cabe a este Superior Tribunal de Justiça manifestar-se acerca de suposta ofensa a dispositivos constitucionais, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Ademais, inexiste afronta aos arts. 489, § 1º, e 1.022, II, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, com relação à alegada existência de omissão no acórdão impugnado quanto à juntada de procuração atualizada, o Tribunal de origem assim se manifestou (fl. 33):
+Entretanto, pela decisão de mov. 152.1, a insigne magistrada consignou que "ao invés de juntar a respectiva procuração atualizada com poderes para levantamento de alvará judicial, maneja sucessivos recursos para evitar que se leve a efeito a decisão emanada por este Juízo e confirmada pelo Eg. Tribunal de Justiça do Estado do Paraná" e determinou o cumprimento da decisão de mov. 142.1, aquela que determinou a juntada de procuração atualizada.
+Pois bem. Ficou claro que a nova procuração, juntada somente após o substabelecimento, ou seja, após uma nova causídica assumir a representação da autora agravante e, ainda, somente após indeferimento pelo juízo, embora confira o poder de "inclusive receber créditos", é datada de 12/09/2019, quase 3 anos após a sua juntada, em 06/05/2022 (mov. 145.2) e mais de 3 anos após o julgamento que agora ocorre, em 2023.
+Ou seja, ainda que sob pena de ser repetitivo, frise-se: quando carreada nova procuração, tratou-se de instrumento assinado cerca de 3 anos antes da juntada.
+Desse modo, não assiste razão à recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC.
+No que se refere à alegada violação, pelo acórdão recorrido, dos arts.105, § 4º, do CPC e arts. 5º, § 2º, 7º, I, da Lei n. 8.906/1994, tem-se que o Tribunal de origem reconheceu cabível a exigência de juntada de procuração atualizada adotando, para tanto, a seguinte fundamentação (fls. 32/34):
+No mérito, a pretensão da agravante é mera resistência contra a decisão de mov. 99.1, de 07/08/2020, que exigiu da exequente recorrente "a juntada do bastante instrumento de procuração devidamente atualizado, conferindo poderes suficientes à representante legal para proceder o levantamento da quantia", sendo confirmada no julgamento do AI 0047493-54.2020.8.16.0000, logo era, de fato, caso de negativa da antecipação de tutela recursal, como ocorreu.
+Nota-se que a recorrente traz a ordem dos fatos de forma a fazer crer que o juízo de origem simplesmente não aceitou a procuração juntada nos autos, mas, antes da interposição deste décimo recurso, no mov. 133.1, na sequência do agravo de instrumento supracitado, a Juíza da causa determinou a "a juntada do bastante instrumento de procuração devidamente atualizado, conferindo poderes suficientes à representante legal para proceder o levantamento da quantia depositada nos autos".
+(..)
+A exigência de procuração atualizada, pelo Juiz da causa, é perfeitamente cabível, já tendo a questão apreciada nesta Colenda Câmara.
+( )
+Cite-se ainda, do STJ:
+  AgRg no RMS 20.819/SP, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, julgado em 24/04/2012, DJe 10/05/2012;
+  AgRg no Ag 1222338/DF, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 23/03/2010, DJe 08/04/2010
+Posteriormente, em razão da oposição de embargos declaratórios, a fundamentação foi complementada nos seguintes termos (fls. 54/56):
+Quanto aos demais vícios aludidos, em que a embargante cumula várias citações legais, verifica-se que nenhuma prevê a hipótese de ser vedado determinar que se atualize procuração de 3 anos.
+( )
+O referido dispositivo não tem um §7º, tão pouco incisos em seus parágrafos, nem menciona a impossibilidade de se exigir nova procuração quando uma foi coligid com menos de 3 anos, ao contrário do que diz a embargante, aludindo a dispositivo e previsão legal inexistente.
+O art. 105, §4º do CPC apenas prevê a validade de procuração para todas as fases do processo, não tendo, também, a referida estatuição de vedar a exigência de nova procuração quando uma foi carreada aos autos com menos de 3 anos.
+( )
+Não se ignora o fato de, em regra, as procurações valerem sem termo final de vigência, mas como constou do acórdão, é perfeitamente cabível que o Juiz da causa, em situações específicas e fundamentadas, dentro do poder geral de cautela, possa exigir a sua atualização, conforme iterativa jurisprudência do STJ e desta Corte, fartamente mencionadas.
+Esse entendimento está em conformidade com a jurisprudência do STJ, que estabelece que é possível a exigência de procuração atualizada para levantamento de valores, seja por força do poder geral de cautela do magistrado, seja em função do poder de direção formal e material do processo, em observância às circunstâncias do caso concreto.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE PROCURAÇÃO ATUALIZADA PARA EXPEDIÇÃO DE ALVARÁ EM FAVOR DO ADVOGADO DA PARTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. PODER GERAL DE CAUTELA QUE, EM TESE, JUSTIFICA A EXIGÊNCIA ASSINALADA. ESPECIFICIDADES DO CASO CONCRETO QUE PRECISAM SER SOPESADAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. Na hipótese dos autos, o Tribunal Estadual indicou motivos suficientes para reputar necessária a exibição de procuração atualizada, não havendo que se falar, por conseguinte, em negativa de prestação jurisdicional com relação ao ponto.
+2. Seja com base no poder geral de cautela, seja com base no poder discricionário de direção formal e material do processo, admite-se que o juiz, considerando as peculiaridades do caso concreto, solicite a apresentação de instrumento de mandato atualizado com a finalidade precípua de proteger os interesses das partes e zelar pela regularidade do processo.
+3. Impossível superar as conclusões fixadas pelas instâncias de origem com relação à conveniência de se exigir uma procuração atualizada, sem esbarrar na Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.302.887/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Tendo em vista a consonância do acórdão recorrido com a jurisprudência desta Corte Superior, aplica-se a Súmula n. 83/STJ, tanto em relação aos recursos interpostos com base na alínea "c" quanto àqueles fundados na alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Incabível a aplicação do art. 85, § 11, do CPC/2015, por se cuidar, na origem, de agravo de instrumento.
+Publique-se e intimem-se.
+EMENTA
