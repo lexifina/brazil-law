@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara Judicial de Panorama/SP (Juízo Suscitante) em desfavor do Juízo da Vara do Trabalho de Dracena/SP (Juízo Suscitado), nos autos da ação trabalhista ajuizada por Luzia de Souza Tavares contra o Município de Panorama, com o objetivo de obter diferenças de adicional de insalubridade e reflexos, bem como diferenças de férias e de adicional de sexta-parte.
+A inicial foi distribuída ao Juízo Trabalhista, que declinou da competência para processar e julgar parte da causa, ao fundamento de que, nos termos do Tema 1.143 da Repercussão Geral do STF, a Justiça do Trabalho é incompetente para julgar pedidos relacionados a parcelas de natureza administrativa, como o adicional de sexta-parte.
+Nessa esteira, o Juízo declarou a incompetência material para julgar o pedido de diferenças de adicional de sexta-parte e julgou parcialmente procedentes os demais pedidos, condenando o reclamado ao pagamento de adicional de insalubridade, reflexos e diferenças de férias  1/3.
+Por sua vez, o Juízo de Direito suscitou o presente conflito, por entender ser absolutamente competente para julgar toda a demanda, e não apenas a matéria remanescente, conforme o mesmo precedente vinculador do STF (Tema 1.143). Além disso, requereu a anulação da sentença proferida pela Justiça Trabalhista.
+O Ministério Público Federal opinou pelo não conhecimento do conflito, nos termos da seguinte ementa (fls. 168-170):
+Conflito de competência em ação trabalhista. Reclamação trabalhista. Sentença definitiva da Justiça laboral sobre parte da demanda. Declínio de competência apenas da matéria remanescente. Juízo estadual que pretende julgar integralmente a causa.
+Inviabilidade do incidente processual: 1 - não cabe ao STJ, em conflito de competência, rever decisões acerca da correta estruturação da causa examinada, cuja revisão deve ocorrer nas vias normais do processo e do sistema de recursos; e 2 - a Súmula 59 do STJ veda a possibilidade de conflito, quando existente sentença transitada em julgado, como no caso.
+Parecer pelo não conhecimento do conflito.
+É o relatório. Passo a decidir.
+Como visto, a controvérsia versa sobre a competência jurisdicional para julgar demanda envolvendo servidor celetista e o Poder Público, especialmente em relação a parcelas de natureza administrativa.
+Nos termos do art. 66 do CPC, para que o conflito de competência esteja caracterizado, é necessário que haja a manifestação de dois juízes, ambos declarando-se competentes ou incompetentes a respeito da mesma causa
+No caso dos autos, o Juízo suscitado reconheceu sua incompetência parcial (limitando-se a julgar o mérito das verbas trabalhistas), enquanto o Juízo suscitante declara-se competente para julgar toda a demanda, suscitando o conflito de competência ao STJ para dirimir a questão.
+Todavia, consoante certidão de fls. 156, a sentença proferida pelo Juízo Trabalhista já transitou em julgado, permanecendo em trâmite apenas parte da demanda, relacionada ao pleito de natureza administrativa, remetidas à Justiça Comum Estadual.
+Nesse panorama, não se verifica a ocorrência do apontado conflito de competência, tendo em vista que não existem, atualmente, dois órgãos jurisdicionais afirmando-se simultaneamente competentes ou incompetentes para o julgamento da mesma lide ou controvérsia sobre a reunião ou separação de processos.
+Nesse contexto, a hipótese presente atrai a incidência da Súmula n. 59 do STJ, segundo a qual "não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+Confiram-se, a propósito, os seguintes julgados:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO ESTADUAL. SERVIDOR PÚBLICO MUNICIPAL. PARCELAS EM QUE SUJEITO AO REGIME TANTO CELETISTA QUANTO ESTATUTÁRIO. JUÍZO EM QUE PROPOSTA A AÇÃO. SÚMULA 170/STJ. JULGADAS PRESCRITAS AS PARCELAS DE CUNHO TRABALHISTA. TRÂNSITO EM JULGADO. INEXISTÊNCIA DE CONFLITO. SÚMULA 59/STJ.
+I. Se a ação envolve obtenção de verbas decorrentes de regimes distintos, celetista e estatutário, deve-se aplicar o entendimento das Súmulas 97 e 170 desta Corte.
+2. No caso, a lide foi proposta na Justiça Trabalhista, que julgou o pedido no limite da sua jurisdição ao considerar prescritas as parcelas sujeitas ao regime celetista. Houve o trânsito em julgado dessa decisão.
+3. Inexiste conflito a ser dirimido, segundo dispõe a Súmula 59 desta Corte: "Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+4. Conflito de competência não conhecido.
+(CC n. 97.406/RS, relator Ministro Celso Limongi (Desembargador Convocado do TJ/SP), Terceira Seção, julgado em 25/3/2009, DJe de 7/4/2009.)
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO ARBITRAL E JUÍZO ESTATAL. CUMPRIMENTO DE SENTENÇA. SÚMULA 59/STJ. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. RECURSO NÃO PROVIDO.
+1. Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes (Súmula 59/STJ).
+2. O conflito de competência não pode ser utilizado como sucedâneo recursal.
+3. Agravo interno não provido. (AgInt no CC n. 198.948/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 6/2/2025, DJEN de 17/2/2025.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZOS ESTADUAL E TRABALHISTA. PROLAÇÃO DE DECISÃO DEFINITIVA PELA VARA DA FAZENDA PÚBLICA. COISA JULGADA MATERIAL. COMPETÊNCIA DO MESMO JUÍZO QUE DECIDIU A CAUSA ORIGINÁRIA (JUSTIÇA COMUM ESTADUAL). APLICAÇÃO DA SÚMULA N. 59 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, trata-se de demanda que foi originariamente distribuída à Justiça Comum Estadual, que declinou de sua competência e enviou os autos à Justiça Trabalhista, ao fundamento de que o autor - servidor público estadual - foi contratado sob o regime da CLT.
+2. O Juízo trabalhista entendeu que, em se tratando de ação coletiva, o cumprimento individual da sentença deve observar o mesmo critério de jurisdição, pois a Justiça Especializada não possui competência para executar título formado em outro órgão jurisdicional.
+3. No caso, a parte autora ajuizou a demanda por entender que, por ocasião do pagamento administrativo das diferenças relativas à conversão dos valores dos pagamentos com base na URV, reconhecida nos autos da ação coletiva n. 001/1. 05.0269892-0, "o Estado deixou de praticar o índice correto de juros para correção deste, tendo ele praticado, para cálculo das diferenças, quando do pagamento administrativo, o índice de 6% (seis por cento) ao ano, por sua conta e risco, quando a decisão proferida no feito referido, conforme se verifica pelo documento que vai em anexo, determinou que esta se desse pelo índice de 12% (doze por cento) ao ano, oficialmente declarado em sentença".
+4. A teor da Súmula n. 59 do STJ, o presente conflito não merece ser conhecido, por já existir sentença transitada em julgado em fase de execução, proferida por um dos Juízos em conflito.
+5. Nos termos da jurisprudência desta Corte, tratando-se de execução de sentença proferida pela Justiça Comum, esta detém a competência para analisar a eventual execução de seus julgados, diante do que preceitua o art. 516, inciso II, do CPC/2015.
+6. Agravo interno não provido. (AgInt no CC n. 174.161/RS, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 18/6/2024, DJe de 20/6/2024.)
+Nessa mesma linha são as seguintes decisões: CC 213.791/SC, Min. Teodoro Silva Santos, DJEN 25.07.2025; e CC 213.138/CE, Min. João Otávio de Noronha, DJEN 14.05.2025.
+Ante o exposto, não conheço do conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA ESTUDUAL. RECLAMAÇÃO TRABALHISTA. SENTENÇA TRANSITADA EM JULGADO. APLICAÇÃO DA SÚMULA 59 DO STJ. CONFLITO NÃO CONHECIDO.
