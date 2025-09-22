@@ -1,0 +1,42 @@
+DECISÃO
+ROBSON ISAIAS DA SILVA agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1523663-64.2021.8.26.0228.
+Nas razões do especial, a defesa apontou violação dos arts. 155, caput, 156, do Código Penal, e 397, III, do Código de Processo Penal, por considerar que é cabível a aplicação do princípio da insignificância, com o consequente reconhecimento da atipicidade da conduta.
+Asseverou que, a despeito do valor dos bens subtraídos (R$ 300,00), não se justificaria a intervenção penal, especialmente diante da restituição dos objetos e da primariedade do postulante.
+Requereu o restabelecimento da sentença de absolvição sumária.
+O Tribunal de origem não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal apresentou parecer pelo conhecimento e provimento do recurso.
+Decido.
+O agravo é tempestivo e preencheu os requisitos de admissibilidade. Passo ao exame do recurso especial.
+Extrai-se dos autos que o agravante foi denunciado pela incursão no art. 155, § 1º, do Código Penal, sob a acusação de que, "no dia 28 de setembro de 2021, por volta das 22:43 horas,  ..  subtraiu, para si, durante o período de repouso noturno, 2 (duas) câmeras de segurança, de cor branca, pertencentes ao condomínio onde ocorreram os fatos, avaliadas globalmente em R$ 300,00 (trezentos reais)" (fl. 78).
+O Juízo singular absolveu sumariamente o réu, pelos seguintes motivos (fls. 117-119):
+Este juízo firmou convencimento de que a ofensividade a um bem jurídico integra o tipo penal, de modo que, além da previsão abstrata, da conduta, da causa, do resultado, o tipo se perfectibiliza na vida dos fatos se houver ofensa relevante a um bem jurídico.
+Assim, aplica-se o princípio da insignificância às hipóteses em que o valor da res furtivae não configurar prejuízo de relevância econômica para o ofendido, como no caso dos autos.
+Note-se que o réu foi surpreendido ao subtrair duas câmeras de segurança do condomínio que residia e que a res furtiva foi avaliada em R$ 300,00.
+Logo, estão presentes no caso concreto os vetores que legitimam o reconhecimento do princípio da insignificância, quais sejam, a mínima ofensividade da conduta do agente; a nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada (HC nº 84.412 - Rel. Min. CELSO DE MELLO, DJ de 19.11.2004).
+Como ressaltado no acórdão supracitado, é de se acolher in casu o princípio minimis, non curat praetor, através do qual o sistema jurídico deve considerar a relevante circunstância de que a privação da liberdade e a restrição de direitos do indivíduo somente se justificam quando estritamente necessárias à própria proteção das pessoas, da sociedade e de outros bens jurídicos que lhes sejam essenciais, notadamente naqueles casos em que os valores penalmente tutelados se exponham a dano, efetivo ou potencial, impregnado de significativa lesividade.
+O direito penal não deve se ocupar de condutas que produzam resultado cujo desvalor, por não importar em lesão significativa a bens jurídicos relevantes, não represente prejuízo importante, seja ao titular do bem jurídico tutelado, seja à integridade da própria ordem social.
+Tem-se, ainda, que para a incidência do princípio da insignificância só se consideram aspectos objetivos e referentes à infração praticada, não se admitindo considerações de ordem subjetiva (HC 93.393-9/RS - Rel. Min. CEZAR PELUSO, de 14/04/2009).
+Decidiu-se que "não cabem, para averiguação da tipicidade da conduta, ponderações sobre as circunstâncias pessoais do agente. Se determinado fato não é típico, passa a ser irrelevante se foi praticado por reincidente contumaz ou por alguém que não tenha antecedentes criminais, pois não há crime!"
+Por ser essa a hipótese dos autos, a absolvição é de rigor.
+Irresignado, o Ministério Público recorreu. O Tribunal de origem deu provimento ao apelo para afastar a absolvição sumária do réu e determinar o prosseguimento da ação penal. Confira-se (fl. 165, grifei):
+Não há que se cogitar em atipicidade material da conduta descrita na denúncia, ante o princípio da insignificância, porquanto dotada de grau de reprovabilidade, a tornar indispensável o avanço da persecução penal.
+A respeito do princípio da insignificância (bagatela), o Supremo Tribunal Federal definiu que sua aplicação é possível no sistema penal brasileiro desde que preenchidos, cumulativamente, quatro vetores: I) a mínima ofensividade da conduta do agente; II) nenhuma periculosidade social da ação; III) o reduzidíssimo grau de reprovabilidade do comportamento e; IV) a inexpressividade a lesão jurídica (STF RHC nº 198.550-AgR/SC, Rel. Min. Nunes Marques, Segunda Turma, j. 04/10/2021; STF HC 84.412-0/SP, Rel. Ministro Celso de Mello, DJe de 02/08/2004).
+In casu, a res furtiva, avaliadas em R$ 300,00 (trezentos reais), possui relevante valor econômico, superior ao percentual de 10% do salário-mínimo vigente, com repercussão concreta na esfera do bem jurídico tutelado pela norma penal.
+Nesse sentido:
+ ..
+Imputa-se furto praticado durante repouso noturno, em condomínio onde residiria o denunciado, a evidenciar maior grau de reprovabilidade em sua conduta.
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento do REsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitiva e dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, o diálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Na espécie, o Tribunal a quo concluiu não ser viável a incidência do princípio da insignificância diante do valor dos bens subtraídos, que não poderia ser considerado irrisório, pois equivalente a 27% do salário mínimo vigente à época dos fatos.
+Inicialmente, recordo o posicionamento consolidado no julgamento do Recurso Especial n. 2.062.375/AL, sob o rito dos recursos repetitivos (Tema 1205), de que "a restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância" (REsp n. 2.062.375/AL, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 25/10/2023, DJe de 30/10/2023, grifei).
+Ademais, o valor da res furtiva supera o parâmetro de 10% do salário mínimo vigente à época dos fatos, fixado nos precedentes desta Corte Superior, o que afasta o reconhecimento da atipicidade da conduta e demonstra que o acórdão recorrido está em consonância com a jurisprudência do STJ. Nesse sentido:
+ ..
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de ser incabível a aplicação do princípio da insignificância quando o valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos.
+3. "A restituição imediata e integral do bem furtado não constitui, por si só, motivo suficiente para a incidência do princípio da insignificância" (Tema n. 1205, DJe 30/10/2023).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.707.405/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024, destaquei)
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
