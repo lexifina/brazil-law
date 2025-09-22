@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus , impetrado em favor de Gabriel Martins Teixeira - condenado por furto qualificado à pena de 2 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, e 12 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento à Apelação Criminal n. 1502441-69.2023.8.26.0616, mantendo o regime inicial fechado.
+Busca a impetração a fixação do regime aberto para o início do cumprimento da reprimenda, argumentando que o paciente é primário e que as circunstâncias judiciais são favoráveis, o que justificaria a aplicação do regime menos gravoso, nos termos do art. 33, § 2º, c, do Código Penal.
+Alega, ainda, que a decisão que fixou o regime fechado carece de fundamentação idônea, violando o art. 93, IX, da Constituição Federal, e que a gravidade abstrata do delito não pode ser utilizada como justificativa para a imposição de regime mais severo, conforme as Súmulas 718 e 719 do Supremo Tribunal Federal.
+Ocorre que, além de a via eleita ter sido indevidamente utilizada para revisar condenação transitada em julgado, não há flagrante ilegalidade a ser sanada. Com efeito, o acórdão atacado encontra-se em consonância com a jurisprudência desta Corte, firmada no sentido de que a despeito do quantum de pena definitivamente imposta ao réu, a reincidência e a circunstância judicial negativa justificam a fixação do modo fechado para o início do seu cumprimento. Súmula n. 269 do STJ (AgRg no HC n. 874.006/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe 18/4/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. DOSIMETRIA DA PENA. REGIME INICIAL FECHADO. CORRETA FIXAÇÃO EM RAZÃO DA EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA E DA REINCIDÊNCIA. ACÓRDÃO ATACADO ALINHADO À JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ indeferido liminarmente.
