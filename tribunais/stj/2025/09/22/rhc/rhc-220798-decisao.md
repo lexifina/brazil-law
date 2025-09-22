@@ -1,0 +1,13 @@
+DECISÃO
+CARLOS ROBERIO VIEIRA PEREIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas no HC n. 0013321-09.2025.8.04.9001.
+A defesa considera ser cabível a impetração de habeas corpus na hipótese, tendo em vista que a "demora inerente à tramitação de um Agravo em Execução, em comparação com a celeridade que se espera de um Habeas Corpus, agrava o constrangimento ilegal, prolongando indevidamente a privação de liberdade do Recorrente" (fl. 70). Entende, então, que "a decisão recorrida, ao denegar o habeas corpus sem adentrar na análise do mérito, incorreu em erro de julgamento, violando o devido processo legal e a efetiva prestação jurisdicional" (fl. 72).
+Sustenta que o paciente está submetido a constrangimento ilegal, pois, "ao desconsiderar ou aplicar de forma incorreta a detração penal, o Juízo da Execução e o Tribunal de origem impediram a correta análise do direito do Paciente à progressão de regime" (fl. 73).
+Pede, neste recurso ordinário, que o STJ exerça a "retratação da decisão anterior e a reconsideração do pedido, para que seja analisado o mérito do habeas corpus e, consequentemente, deferida a imediata progressão de regime do paciente" (fl. 82).
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Decido.
+Constata-se que o presente recurso ordinário se insurge contra decisão monocrática não impugnada por meio do recurso próprio (agravo regimental). Dessa forma, tem-se que não foi exaurida a instância ordinária, motivo pelo qual os temas trazidos na presente impetração não podem ser analisados, sob pena de indevida supressão de instância
+Nesse aspecto, " é  incabível o recurso ordinário interposto contra decisão monocrática de Desembargador de Tribunal Estadual, que denegou a ordem visada na impetração originária, uma vez que tal hipótese foge ao disposto no art. 105, inciso II, da Constituição Federal - CF, bem como nos arts. 30 e 33, ambos da Lei n. 8.038/90" (AgRg no RHC n. 202.993/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.)
+No mesmo sentido: " ademais, a defesa se insurge contra decisão monocrática proferida pelo Desembargador relator na origem contra a qual não foi interposto agravo regimental, circunstância essa que inviabiliza o processamento do recurso em habeas corpus, já que não se está diante de decisão colegiada" (AgRg no RHC n. 194.675/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+À vista do exposto, com fundamento nos arts. 34, XX c/c 246, ambos do TISTJ, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
