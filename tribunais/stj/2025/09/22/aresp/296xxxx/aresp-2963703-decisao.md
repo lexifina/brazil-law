@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (fls. 578/581).
+O acórdão recorrido encontra-se assim ementado (fl. 422):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. PRAZO QUINQUENAL. INÉRCIA DA CREDORA INEXISTENTE. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DA NOVA REDAÇÃO DO ARTIGO 921, § 4º, DO CÓDIGO DE PROCESSO CIVIL. I. DESÍDIA DA PARTE EXEQUENTE INEXISTENTE. Tendo em vista a necessidade de desídia da exequente para configuração da prescrição intercorrente, observa-se que a credora não deixou de diligenciar e realizar requerimentos de penhora de bens, afastando a suscitada negligência processual. Demora na realização das medidas executivas imputável exclusivamente ao serviço judiciário. II. IRRETROATIVIDADE DOS EFEITOS DE DISPOSITIVO LEGAL. A partir da alteração do artigo 921, § 4º, do Código de Processo Civil, por força da Lei nº 14.195/2021, ficou estabelecido que o termo inicial da prescrição intercorrente será a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis. A exigência de que as diligências sejam frutíferas não pode ser aplicada de forma retroativa, sob pena de prejudicar indevidamente a credora, em afronta à boa-fé, que é um dos pilares do modelo colaborativo de processo. Sentença desconstituída. APELO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 435/450), interposto com fundamento apenas no art. 105, III, "c", da CF, a parte recorrente alegou dissídio jurisprudencial.
+No agravo (fls. 590/594), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 599/623).
+É o relatório.
+Decido.
+Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Além disso, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, a parte não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Incide, portanto, a Súmula n. 284/STF.
+Ainda que assim não fosse, consta nos autos que o Tribunal de origem decidiu a causa afirmando que "não houve negligência da parte exequente pelo prazo necessário de cinco anos, sendo descabido reconhecer a prescrição intercorrent e pela simples longevidade da execução" (fl. 420).
+Modificar o entendimento do acórdão impugnado quanto à inocorrência de inércia do exequente, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ, e, "nos termos da jurisprudência desta Corte, " a  incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido, uma vez que a similitude fática entre os julgados confrontados deve ser aferível de plano, a fim de propiciar o confronto entre os precedentes" (AgInt no REsp 2.023.562/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/6/2023, DJe de 9/6/2023)"(AgInt no AREsp n. 2.838.674/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/6/2025, DJEN de 1/7/2025.).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
