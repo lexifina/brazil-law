@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. LITIGÂNCIA DE MÁ-FÉ. OBRIGAÇÃO DE FAZER. EMISSÃO DE NOTA FISCAL. PRETENSÃO RECURSAL QUE ENVOLV E O REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CARLOS AURELIO DE SOUZA PINHEIRO (CARLOS) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS EM FASE DE CUMPRIMENTO DE SENTENÇA. VALOR DEPOSITADO REFERENTE À CONDENAÇÃO NA SEARA TRABALHISTA REPASSADO A MENOR AO AUTOR DA AÇÃO PELO ESCRITÓRIO DE ADVOCACIA. OBRIGAÇÃO DE FAZER REFERENTE À EMISSÃO DE NOTA FISCAL DOS SERVIÇOS ADVOCATÍCIOS PRESTADOS, AJUSTADOS CONTRATUALMENTE. CUMPRIMENTO PELO DEVEDOR. PROVIMENTO DO RECURSO. - Analisando-se o feito principal, o contrato previa honorários no montante de 20% do valor bruto e incontroverso da condenação, qual seja, R$ 2.909.943,60 (dois milhões, novecentos e nove mil, novecentos e quarenta e três reais e sessenta centavos), de forma que o escritório agravante deveria reter somente o valor de R$ 581.988,72. - Com efeito, a pretensão do agravado é a emissão de nota fiscal e segundo sua causa de pedir, em 2019 "solicitou à agravante a emissão da Nota Fiscal referente aos serviços advocatícios, no valor retido pelo escritório a fim de que pudesse fazer a sua declaração". - Ocorre que a decisão proferida pelo Juízo foi clara ao mencionar que a obrigação de fazer é emitir a nota sobre o serviço prestado. Em sendo assim, conforme se vê do comprovante trazido ao processo pelo próprio agravado, foi levantado na ação trabalhista o valor de R$ 2.909.943,60. - Dessa forma, considerando o previsto no contrato de prestação de serviços jurídicos, ao agravante seria devido, a título de honorários contratuais, o valor de R$ 581.988,72, sendo exatamente o valor da Nota Fiscal. - Releva salientar, ainda, que a lide gira em torno do valor indevidamente retido pelo escritório de advocacia, a título de pagamento pelos serviços prestados, vale dizer, valor correspondente ao percentual ajustado no contrato de honorários e consequentemente o valor correto que deveria ter sido repassado ao agravado, referente à indenização trabalhista. Tanto é assim, que no Acórdão restou consignado pelo em. Relator que a parcela retida era claramente superior ao pactuado. - O fato de estar escrito na discriminação dos serviços "honorários advocatícios conforme decisão judicial processo nº 0189916-84.2019 não altera em nada a natureza da obrigação existente no contrato de honorários, sendo irrelevante para a prestação de declaração de renda pelo agravado. - Portanto, é de clareza solar que o agravado tentar deturpar o sentido de "serviços do escritório de advocacia", único objeto de emissão de nota fiscal, os quais somente se restringem ao contrato de honorários, com o valor que efetivamente deveria ter sido repassado pelo escritório agravante, referente à condenação na seara trabalhista, o que a toda evidência não tem cabimento. PROVIMENTO DO RECURSO. (e-STJ, fls. 52/53)
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. LITIGÂNCIA DE MÁ-FÉ. OBRIGAÇÃO DE FAZER. EMISSÃO DE NOTA FISCAL. PRETENSÃO RECURSAL QUE ENVOLV E O REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Agravo desprovido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, CARLOS alegou a violação dos arts. 77, I e II, 80, II e II, 81, caput, e 461 do CPC, ao sustentar que (1) houve condenação por litigância de má-fé de forma indevida, uma vez que não houve comportamento que pudesse atrapalhar ou fraudar o processo. Argumenta que buscou apenas o cumprimento correto da obrigação de fazer, sem dolo ou culpa, e que a condenação por litigância de má-fé foi equivocada. (2) Sustenta, ainda, que a obrigação de fazer imposta ao recorrido não foi cumprida corretamente, pois a nota fiscal emitida não corresponde ao valor efetivamente recebido pelo escritório recorrido. Busca a emissão da nota fiscal no valor correto, conforme determinado na sentença já transitada em julgado.
+(1) Da má-fé
+A questão foi assim esclarecida pela Turma julgadora:
+Ora, a obrigação de fazer, repise-se, era emitir a nota fiscal pelo valor dos honorários contratuais, ou seja, os serviços de advocacia prestados pelo escritório, de forma que o embargante busca agora trazer, sob a roupagem da obscuridade, questão estranha à lide, alegando que o valor da nota, tal como determinado na obrigação, enseja prejuízo ao Fisco por força de suposta obrigação tributária que sequer é de sua responsabilidade.
+ ..
+Nesse diapasão, configura-se ato de deslealdade processual o descumprimento de deveres legais da parte  ..
+Pertinente, pois, a condenação da apelada à pena por litigância de má-fé, haja vista a configuração cabal e inequívoca das hipóteses previstas nos artigos 77, I e II e 80, I e II, do CPC/2015, capazes de atrair a incidência do disposto no artigo 81, caput, do CPC/2015 (e-STJ, fls. 116/117).
+Assim, rever as conclusões quanto à existência dos fundamentos necessários para a litigância de má-fé demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+(2) Da obrigação de fazer
+O tema foi assim esclarecido pelos julgadores:
+Com efeito, a pretensão do agravado é a emissão de nota fiscal no valor cobrado no feito principal e não relativo ao montante histórico, já que, segundo sua causa de pedir, em 2019 "solicitou à agravante a emissão da Nota Fiscal referente aos serviços advocatícios, no valor retido pelo escritório a fim de que pudesse fazer a sua declaração".
+Ocorre que a decisão proferida pelo Juízo foi clara ao mencionar que a obrigação de fazer é emitir a nota sobre o serviço prestado.
+ ..
+Dessa forma, considerando o previsto no contrato de prestação de serviços jurídicos, ao agravante seria devido, a título de honorários contratuais, o valor de R$ 581.988,72, sendo exatamente o valor da Nota Fiscal de fls. 1577.
+ ..
+Daí e sem mais delongas, dou provimento ao recurso para reconhecer cumprida a obrigação de fazer com a emissão da nota fiscal de fls. 1577 (e-STJ, fls. 56-58).
+Dessa forma, tendo a Turma julgadora embasado sua decisão nos elementos de fato existentes nos autos, considerar, de forma diversa, demandaria o seu reexame, o que é inviável nesta esfera recursal, nos termos da Súmula n. 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
