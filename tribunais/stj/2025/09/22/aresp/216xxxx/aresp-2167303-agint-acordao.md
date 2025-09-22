@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impug nação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Luiz Eduardo Pinheiro Correa contra decisão assim ementada (fl. 7.619):
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO INTERCORRENTE. MARCO TEMPORAL. INICÍCIO DA VIGÊNCIA DA LEI. N. 14.230/2021. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 83/STJ. ENRIQUECIMENTO ILÍCITO. RECONHECIMENTO DA PRESENÇA DO ELEMENTO SUBJETIVO DOLOSO. IMPOSSIBILIDADE DE REVISÃO. NECESSIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO- PROBATÓRIO DA CAUSA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante sustenta aduz o seguinte: (a) é necessária uma nova dosimetria das penas, mesmo que tenha ocorrido condenação no artigo 9º, inciso I, da Lei 8.429/1992; (b) há nulidade do acórdão por ter se fundamentado em medida cautelar de interceptação telefônica que não foi integralmente juntada aos autos, violando os artigos da Lei 9.296/1996 , já que tanto o juízo de primeiro grau quanto o Tribunal Regional Federal da 1ª Região decidiram sem acesso à íntegra da interceptação telefônica, que é o principal elemento da condenação; (c) houve omissão na análise das teses defensivas que poderiam alterar o resultado do julgamento, especialmente quanto à ausência de comprovação do dolo e da caracterização do dano; (d) há necessidade de análise das teses defensivas relacionadas à violação dos artigos 2º e 3º da Lei de Improbidade Administrativa, que não foram devidamente decididas, especialmente após a mudança legislativa introduzida pela Lei 14.230/2021.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impug nação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não comporta conhecimento.
+Nesse caso, registra-se que a decisão vergastada encontra-se amparada na seguinte fundamentação: (a) incidência do óbice da Súmula n. 83/STJ acerca da alegada prescrição intercorrente, a partir dos novos marcos fixados na Lei n. 14.230/2021; (b) incidência da Súmula n. 7 do STJ, pois a Corte de origem demonstrou o elemento subjetivo específico do tipo necessário à configuração do ato ímprobo praticado pelo ora agravante, a saber: o art. 9º, inciso I, c/c art. 3º, da Lei n. 8.429/92, bem como a sanção imposta nos termos do art. 12, inciso I, da mesma lei.
+Contudo, a parte agravante não impugnou de forma específica nenhum dos fundamentos utilizados na decisão agravada quanto aos óbices processuais aplicados, o que afronta o princípio da dialeticidade. Dessa forma, considerando que o capítulo autônomo da decisão recorrida não foi combatido, impõe-se a incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt nos EDcl no REsp 1.708.729/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 21/2/2019; AgInt no AREsp 1.354.331/PB, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 19/2/2019; AgInt no AREsp 739.429/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 12/2/2019; AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016.
+Por fim, insta ainda frisar que caberia a parte agravante apresentar alegação efetiva e voltada a afastar as conclusões da decisão combatida, demonstrando que houve cotejo entre a decisão impugnada e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual, o que efetivamente não ocorreu. Nesse sentido, confira o seguinte precedente da Corte Especial: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018; AgInt no AREsp 1.042.970/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/06/2020; e AgInt no AREsp 1.763.906/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 25/03/2021.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
