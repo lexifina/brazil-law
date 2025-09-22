@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/09/2025 a 22/09/2025, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Gurgel de Faria, Paulo Sérgio Domingues, Benedito Gonçalves e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROVA DE TÍTULOS. ERRO MATERIAL. RAZÕES RECURSAIS INSUFICENTES Á DESCONSTITUIÇÃO DO ACÓRDÃO. SÚMULA 283/STF. PRETENSÃO DE REDISCUTIR A MATÉRIA JÁ APRECIADA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+I. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+II - Faz-se necessária a correção de erro material quanto aos fundamentos de negativa da segurança na Corte de origem.
+III - Sanado o erro material, remanesce a conclusão de que o argumentação do recurso não é suficiente para a desconstituição do acórdão recorrido, atraindo, por analogia a aplicação da Súmula 283/STF.
+IV. Embargos de declaração parcialmente acolhidos, tão somente para sanar erro material, sem efeito infringentes.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos em face ao acórdão assim ementado (fls. 2.469/2.474e):
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROVA DE TÍTULOS. DESCUMPRIMENTO DE REGRA EDITALÍCIA. EXCLUSÃO DO CANDIDATO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO RECURSOORDINÁRIO. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 283/STF. ARGUMENTOSINSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DEMULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - O recurso ordinário afronta o princípio da dialeticidade e ao disposto no art. 932, III,do Código de Processo Civil pela ausência de impugnação do fundamento de que oedital do certame fixou regras específicas que vedam o reconhecimento da atividadeconciliador como atividade privatida de bacharel em Direito (Item 8.2, I, do Edital nº 01/2018), ademais, o estágio de pós-gradução não foi computado por não atingir os 3anos exigidos nas cláusulas editalícias.
+II - Nas razões do Recurso Ordinário, tal fundamentação não foi especificamenterefutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firmeposicionamento, segundo o qual a falta de combate a fundamento suficiente paramanter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 doColendo Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código deProcesso Civil, em razão do mero improvimento do Agravo Interno em votaçãounânime, sendo necessária a configuração da manifesta inadmissibilidade ouimprocedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+A embargante aponta, inicialmente, erro material no acórdão porquanto o processo não foi extinto sem julgamento de mérito.
+Pondera haver obscuridade no julgado, porquanto o edital do certame não trazia previsão de quais seriam as atividades privativas de bacharel de direito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROVA DE TÍTULOS. ERRO MATERIAL. RAZÕES RECURSAIS INSUFICENTES Á DESCONSTITUIÇÃO DO ACÓRDÃO. SÚMULA 283/STF. PRETENSÃO DE REDISCUTIR A MATÉRIA JÁ APRECIADA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+I. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+II - Faz-se necessária a correção de erro material quanto aos fundamentos de negativa da segurança na Corte de origem.
+III - Sanado o erro material, remanesce a conclusão de que o argumentação do recurso não é suficiente para a desconstituição do acórdão recorrido, atraindo, por analogia a aplicação da Súmula 283/STF.
+IV. Embargos de declaração parcialmente acolhidos, tão somente para sanar erro material, sem efeito infringentes.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+No tocante ao erro material apontado, com razão a embargante.
+Desse modo, onde se lê:
+Como já delineado na decisão agravada, ao contrário do que faz crer na razões de agravo interno, o tribunal de origem extinguiu o feito sem julgamento de mérito, aos seguintes fundamentos: (i) expressa vedação editalícia em reconhecer a atividade de conciliação como privativa de bacharel em Direito (Item 8.2, I, do Edital nº 01/2018); (ii) estágio de pós-gradução no período de 18.8.2014 a 15.8.2016, totalizando, assim, apenas dois anos e não os três exigidos no edital.
+Passa-se a ler:
+Como já delineado na decisão agravada, ao contrário do que fazem crer as razões de agravo interno, o tribunal de origem denegou a segurança, sob os seguintes fundamentos: (i) a atividade de conciliador não pode ser reconhecida como privativa de bacharel em Direito, à luz do item 8.2, I, do Edital nº 01/2018, bem como do art. 17 do Regulamento das Ações de Capacitação e do Banco de Dados da Política de Tratamento Adequado de Conflitos do CNJ, que admite a participação de estudantes de Direito no curso de formação de conciliadores, não sendo, portanto, atividade exclusiva de graduados; e (ii) o estágio de pós-graduação não se equipara ao efetivo exercício da advocacia ou ao desempenho de cargo, emprego ou função pública privativa de bacharel em Direito, razão pela qual não gera a pontuação correspondente para fins de comprovação da atividade jurídica exigida pelo edital.
+Nas razões do Recurso Ordinário, tais fundamentos não foram refutados, a agravante limita-se a afirmar que o edital não especificava quais seriam as atividades privativas de bacharel de direito, sugerindo que a Corte de origem poderia ter se valido de atos correlatos, sem tecer consideração sobre a ausência do cumprimento do prazo trienal, implicando a inadmissibilidade do recurso, uma vez que a falta de impugnação a fundamento suficiente à manutenção do acórdão recorrido, além de ofensa ao princípio da dialeticidade, atrai a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Desse modo, sanado o erro material, impõe-se reconher que o acórdão embargado consignou expressamente a deficiência da fundamentação recursal, porquanto os argumentos lançados não foram suficientes para desconstituir todos os fundamentos do acórdão do Tribunal de origem, aplicando, por analogia, a Súmula n. 283 do Colendo Supremo Tribunal Federal.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado, esclarecer obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do CPC de 2015, não se prestando para rediscutir a lide.
+2. Não são cabíveis embargos de declaração, quando a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e sim rediscutir o que ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+3. Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1.805.918/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/09/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONFLITO DE COMPETÊNCIA. DIREITO À SAÚDE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Na espécie, o acórdão embargado foi expresso quanto ao exame da controvérsia, adotando o posicionamento então dominante nesta Primeira Seção segundo o qual se deve conhecer do conflito e reconhecer a competência da Justiça estadual para o processamento e julgamento da controvérsia.
+3. Constata-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando. 5. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no CC n. 186.983/SC, Rel. Min. Paulo Sérgio Domingues, Primeira Seção, DJe de 2/3/2023.)
+Pelo exposto, ACOLHO PARCIALMENTE os embargos de declaração para sanar o erro material, sem efeitos infringentes.
+É como voto.
