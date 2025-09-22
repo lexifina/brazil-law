@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação dos arts. 489, § 1º, IV, do CPC e incidência da Súmula n. 7 do STJ (fls. 98-102) .
+O acórdão recorrido está assim ementado (fl. 55):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PRESCRIÇÃO INTERCORRENTE.
+Colhe-se dos autos que a parte credora promoveu todos os atos e diligências que lhe cabiam para fins de satisfação do crédito, não se encontrando configurada, portanto, a inércia e a desídia do exequente no andamento do processo.
+A propósito, o feito não permaneceu paralisado por mais de um quinquênio. Destarte, não há que se falar no implemento da prescrição intercorrente na situação sub judice, não se vislumbrando inércia da exequente, ora agravada, em dar andamento ao feito executivo pelo prazo previsto para a prescrição propriamente dita, que, no caso concreto, é quinquenal, consoante disposição do artigo 206, § 5º, inciso I, do Código Civil; o que, como corolário, desautoriza a alegação da agravante, de abandono da causa pela credora.
+AGRAVO DE INSTRUMENTO DESPROVIDO
+Os embargos de declaração foram rejeitados (fls. 63-66).
+No recurso especial (fls. 68-82), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 206, §5º, I, do Código Civil e 489, § 1º, IV, do CPC.
+Suscita, em síntese, falta de fundamentação, pois o Tribunal de origem teria deixado de apreciar questões imprescindíveis ao deslinde da controvérsia, relativamente à arguição de prescrição e no contexto de diligências infrutíferas.
+Requer o conhecimento e provimento do recurso para seja reconhecida a omissão do Tribunal a quo para se manifestar acerca da ocorrência ou não da prática de diligências infrutíferas pelo exequente. Sucessivamente, pede que seja decretada a prescrição intercorrente.
+Foram apresentadas contrarrazões (fls. 85-97).
+No agravo (fls. 105-124), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta, pugnando pela majoração dos honorários (fls. 126-134).
+É o relatório.
+Decido.
+A insurgência merece prosperar.
+Com efeito, o Tribunal de origem não se pronunciou acerca da não incidência de prescrição intercorrente no contexto de diligências infrutíferas. É pacífico nesta Corte o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão para que o recurso seja novamente analisado. Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. AÇÃO DE RESOLUÇÃO DE COMPROMISSO DE COMPRA E VENDA. AÇÃO FUNDADA EM DIREITO PESSOAL. COMPETÊNCIA NÃO ANALISADA CORRETAMENTE. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022, II, DO CPC/15. OMISSÃO VERIFICADA. 1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada. 2. Se a Corte de origem deixou de examinar alegação do agravado que pode alterar substancialmente o resultado do julgamento, evidencia-se a violação ao art. 1.022 do Código de Processo Civil, sendo necessário o retorno do autos para que o Tribunal estadual supra a omissão. 3. Agravo interno a que se nega provimento. (AgInt no AgInt nos EDcl no AREsp 1512050/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ANTERIOR. TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. INOVAÇÃO RECURSAL. NÃO CABIMENTO. DECISÃO MANTIDA. 1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício. 2. Incabível o exame de tese não exposta nas contrarrazões do recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal. 3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1818817/RS, de minha relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021.)
+Ante o exposto, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar o retorno dos autos ao Tribunal de origem para exame do vício apontado .
+Publique-se e intimem-se.
+EMENTA
