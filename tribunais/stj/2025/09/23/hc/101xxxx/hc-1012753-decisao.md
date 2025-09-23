@@ -1,0 +1,14 @@
+DECISÃO
+LEANDRO MATHEUS ALVES NEGRETTI pede a reconsideração da decisão monocrática de minha lavra, datada de 2 de julho de 2025, que julgou prejudicado o presente habeas corpus pela perda superveniente de seu objeto (fls. 50-51).
+O writ originário foi impetrado contra a alegada mora da 3ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina (TJSC) em julgar o Agravo em Execução n. 8000261-40.2025.8.24.0022, no qual se buscava a reforma da decisão do juízo da execução que indeferiu o pedido de progressão para o regime semiaberto harmonizado.
+A decisão ora impugnada se fundamentou na informação, obtida em consulta ao sítio eletrônico do TJSC, de que o referido agravo fora incluído na pauta de julgamento do dia 8 de julho de 2025, o que, em tese, faria cessar o alegado constrangimento ilegal.
+No presente pedido de reconsideração, o impetrante informa que o Agravo em Execução foi, de fato, julgado na data aprazada, mas o Colegiado de origem negou-lhe provimento, mantendo a decisão do juízo de primeiro grau. Sustenta o nobre causídico que, por essa razão, a ilegalidade persiste, uma vez que o excesso de prazo já se havia consumado à época da impetração, gerando prejuízo ao paciente. Argumenta, ainda, que o desprovimento do recurso confirma a continuidade do constrangimento ilegal, razão pela qual pugna pela análise do mérito do habeas corpus.
+Decido.
+Em que pese a prática reiterada de pedidos de reconsideração, não há previsão legal expressa a permitir o uso do referido instituto e, no presente caso, nada há a prover quanto ao pleito.
+Com efeito, cessada a mora jurisdicional que motivou a impetração, com a decisão proferida pelo Tribunal de origem, o habeas corpus que visava ao julgamento do recurso perdeu o seu objeto.
+O objetivo do writ impetrado por excesso de prazo é, precisamente, compelir a autoridade coatora a praticar o ato processual pendente. Uma vez realizado o ato  no caso, o julgamento do Agravo em Execução  , exaure-se a finalidade do remédio constitucional, independentemente do resultado. A prestação jurisdicional foi efetivada, sanando a inércia que configurava a alegada coação ilegal.
+A irresignação da defesa quanto ao mérito da decisão do Tribunal de origem  que manteve o indeferimento da progressão ao regime semiaberto com fundamento na gravidade concreta do delito, na periculosidade do apenado e na ausência de parecer técnico favorável  constitui matéria estranha ao objeto deste writ. Eventual ilegalidade no referido acórdão deve ser arguida na via processual adequada.
+É inviável, portanto, alterar o objeto do presente habeas corpus  que buscava sanar a mora judiciária  para analisar, de forma superveniente, o mérito da decisão proferida pela autoridade coatora.
+Ante o exposto, indefiro o pedido de reconsideração.
+Publique-se e intimem-se.
+EMENTA
