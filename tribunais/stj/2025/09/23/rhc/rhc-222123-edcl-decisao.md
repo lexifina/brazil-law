@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em favor de HELIO NUNES RUIZ em face da decisão monocrática proferida, às fls. 140-143, que negou provimento ao recurso ordinário em habeas corpus.
+Nos presentes aclaratórios, o embargante alega que houve contradição, na decisão embargada.
+Invoca que a questão versa sobre a suposta nulidade da decisão que deixou de remeter à conclusão os autos originários para apreciação da resposta à acusação.
+Aduz que o recurso ordinário constitucional é destinado a corrigir uma eventual inversão procedimental.
+Assere que "A inversão dessa etapa  substituída por uma avaliação sobre acordo processual  representa evidente contradição em face do devido processo legal" (fl. 148).
+Requer, ao final, o acolhimento dos presentes embargos de declaração, para que sejam sanadas as alegadas contradições apontadas.
+O Ministério Público Federal declarou ciência da decisão, à fl. 147, e manifestou-se pela rejeição dos Embargos de Declaração sob exame, no parecer às fls. 159-163.
+É o relatório. DECIDO.
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, o embargante aponta que houve contradição na decisão embargada.
+Contudo, tem-se que a decisão monocrática analisou de forma devidamente fundamentada os pontos apresentados e, quanto aos presentes embargos, buscam tão somente o reexame da matéria anteriormente julgada.
+Na decisão ora embargada, foi ressaltado, às fls. 141-143, que:
+Ressalto que o trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+A liquidez dos fatos, assim, constitui requisito inafastável na apreciação da justa causa, pois o exame aprofundado de provas é inadmissível no espectro processual do habeas corpus ou de seu recurso ordinário, uma vez que seu manejo pressupõe ilegalidade ou abuso de poder flagrante a ponto de ser demonstrada de plano (AgRg no HC n. 881.836/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/4/2024).  ..
+Com efeito, segundo pacífica jurisprudência desta Corte Superior, a propositura da ação penal exige tão somente a presença de indícios mínimos de autoria, não sendo exigida a certeza, que a toda evidência somente será comprovada ou afastada após a instrução probatória, prevalecendo, na fase de oferecimento da denúncia, o princípio da busca pela verdade real.  ..
+Nos termos do art. 41 do Código de Processo Penal, a denúncia deve descrever o fato criminoso, com todas as suas circunstâncias, bem como a qualificação do acusado e a classificação do crime, in verbis: "Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas".
+Além disso, o recebimento da denúncia (ou a sua ratificação) prescindem de fundamentação exauriente, sob pena de indevida antecipação do juízo de mérito, bastando que as decisões analisem as hipóteses de sua rejeição e de absolvição sumária.  ..
+Confirmando tal entendimento: AgRg no RHC n. 195.553/AC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/6/2024; e AgRg no RHC n. 185.615/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 18/4/2024).
+De qualquer forma, como dito, as questões apresentadas pela defesa em sua amplitude dizem respeito diretamente ao mérito da ação penal e serão analisadas em seu tempo, após exame do acervo probatório durante a instrução ou, ainda como explicado no próprio acórdão, após a proposta de acordo de não persecução penal (fl. 113):
+ ..  Ainda que assim não fosse, da análise das informações prestadas pela autoridade apontada como coatora (fls. 65/66 - doc. único), infere-se que o Magistrado de origem irá apreciar todas as teses levantadas pela Defesa na resposta à acusação após a resposta do acusado a respeito da proposta de ANPP. (grifei)
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus ou do seu recurso ordinário para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Consoante consta, a matéria já foi devidamente analisada, claro, nos limites em que aqui apresentada e nas balizas da via eleita, não havendo falar em vícios.
+Há de se destacar o pertinente parecer do MPF nestes autos, que analisou muito precisamente a matéria (fls. 159-163):
+ ..  Não obstante, a decisão embargada, ainda que de forma sucinta, e ressaltando ter o acórdão recorrido explicado a matéria, pontuou que as teses defensivas serão analisadas após a proposta de Acordo de Não Persecução Penal (ANPP).  ..
+Ora, da análise dos autos, verifica-se de fato que ainda não houve análise das teses defensivas, não se manifestando o Juízo, portanto, acerca da ausência das hipóteses de absolvição sumária ou rejeição da denúncia.
+Todavia, o juiz singular acertadamente encaminhou os autos ao Ministério Público para análise da possibilidade de apresentação de ANPP pois, após o recebimento da denúncia e citação do réu para oferecimento de resposta à acusação, a Lei nº 13.964/2019, que incluiu o art. 28-A no Código de Processo Penal, entrou em vigor.
+Em análise da controvérsia apresentada sobre a aplicação do novel art. 28-A do CPP, na redação conferida pela Lei nº 13.964/2019, a processos referentes a fatos anteriores à entrada em vigor da norma, a 3ª Seção do STJ, ao analisar o Tema 1.098 dos recursos repetitivos, e seguindo o entendimento firmado pelo STF, fixou as seguintes teses:  ..
+Veja que o Ministério Público, nas ações penais já em andamento quando da entrada em vigor da referida lei, deve se manifestar na primeira oportunidade em que falar nos autos, seja agindo de ofício, a pedido da defesa ou mediante provocação do magistrado da causa.
+E ainda conforme item 4 da tese, nas investigações ou ações penais iniciadas a partir de 18/09/2024, será admissível a celebração de ANPP antes do recebimento da denúncia.
+Não há, portanto, qualquer ilegalidade no envio dos autos ao Ministério Público para posterior análise das teses defensivas.
+Ao fim, o que pretende o embargante, na verdade, é o reexame da matéria de mérito já julgada, situação que não se coaduna com a via dos embargos de declaração.
+Corroborando: EDcl no AgRg no REsp n. 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira, Des. Convocado do TRF1, DJe de 27/6/2023; EDcl no AgRg no AREsp n. 1.681.479/RN, Quinta Turma, de minha relatoria, DJe de 23/3/2023; e AgRg no REsp n. 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023.
+Assim, o julgado embargado não padece de qualquer vício.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
