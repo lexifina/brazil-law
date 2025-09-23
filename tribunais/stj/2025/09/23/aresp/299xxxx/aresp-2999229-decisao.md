@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIÃO NACIONAL DOS CONSUMIDORES E PROPRIETÁRIOS DE VEÍCULOS (UNICOON) contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 1.022, II, do Código de Processo Civil e 421, parágrafo único, do Código Civil; na incidência das Súmulas n. 5 e 7 do STJ; e na falta de demonstração da divergência jurisprudencial.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não houve contraminuta.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação cível nos autos de ação de cobrança c/c danos morais.
+O julgado foi assim ementado (fls. 701-702):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. CONSUMIDOR. PROTEÇÃO DE VEÍCULO POR ASSOCIAÇÃO. TOMBAMENTO DE CAMINHÃO EM RODOVIA. AÇÃO DE COBRANÇA C/C DANOS MORAIS. SENTENÇA DE PARCIALMENTE PROCEDÊNCIA, COM CONDENAÇÃO DA RÉ AO PAGAMENTO DO RESSARCIMENTO DAS AVARIAS DO VEÍCULO SEGURADO. AUSÊNCIA DE ENTREGA DO DISCO DO TACÓGRAFO POR MOTIVO JUSTIFICÁVEL - RECUSA ILEGÍTIMA DA INDENIZAÇÃO SECURITÁRIA. RESSARCIMENTO DEVIDO COM BASE NAS NOTAS FISCAIS APRESENTADAS PELO ASSOCIADO. COTA DE PARTICIPAÇÃO DE 4% (QUATRO POR CENTO) PREVISTA NA PROPOSTA DE FILIAÇÃO. SENTENÇA MANTIDA. APELAÇÃO CÍVEL DESPROVIDA.
+1. Boletim de acidente de trânsito apontou que após tombamento do veículo segurado em rodovia, o disco do tacógrafo ficou inacessível - cabia à requerida, diante da inversão do ônus da prova, comprovar que a falta de entrega do tacógrafo se deu de forma injustificada e assim não fez - indenização securitária mantida.
+2. Pretensão de limitação do ressarcimento ao valor do orçamento de menor valor apresentado pelo associado - descabimento - comprovação dos gastos despendidos para o conserto do veículo segurado, por meio de notas fiscais - redução indenizatória indevida.
+3. Na proposta de filiação consta por escrito "a mão" que a cota de participação é de 6% (seis por cento) sobre o valor do veículo segurado, como também, prevê nas informações importantes ao associado, que a cota de participação é de 4% (quatro por cento) sobre o veículo pesado - Existindo divergência sobre os valores da cota participação, deve ser considerado o de menor percentual, em observância ao previsto no Código de Defesa do Consumidor no sentido de que prevalece a interpretação de cláusula de contrato mais favorável ao consumidor, nos termos do artigo 47 do CDC.
+4. Sentença de parcial procedência mantida.
+5. Apelação Cível desprovida.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 754):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. PROGRAMA DE PROTEÇÃO VEICULAR. AÇÃO DE COBRANÇA. NEGATIVA DE COBERTURA SECURITÁRIA ANTE A AUSÊNCIA DE APRESENTAÇÃO DE TACÓGRAFO. SENTENÇA DE PROCEDÊNCIA DA AÇÃO PRINCIPAL E IMPROCEDÊNCIA DA RECONVENÇÃO. INSURGÊNCIA DO RÉU. CLÁUSULA DE FIDELIDADE JÁ RECONHECIDA EM EMBARGOS DE DECLARAÇÃO. ELEMENTOS PROBATÓRIOS QUE PERMITEM APURAR SUFICIENTEMENTE AS CAUSAS DO ACIDENTE. AUSÊNCIA DE INDÍCIOS DE AGRAVAMENTO DO RISCO. TACÓGRAFO EXTRAVIADO. EXIGÊNCIA QUE SE MOSTRA DESARRAZOADA E INEFICAZ NO CASO EM TELA. DEVER DE COBERTURA RECONHECIDO. RECONVENÇÃO. PEDIDO DE CONDENAÇÃO AO PAGAMENTO EM DOBRO DOS VALORES INDEVIDAMENTE COBRADOS EM JUÍZO. AUTORA QUE PRONTAMENTE INDICOU TER RECEBIDO OS VALORES EXTRAJUDICIALMENTE. AUSÊNCIA DE MÁ-FÉ. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Alegação de omissão no acórdão, pois conforme Regulamento Interno da Embargante não há cobertura para os casos em que o associado deixa de enviar os documentos necessários para a análise do evento danoso, dentre eles, os discos do tacógrafo - não acolhimento - tentativa de rediscussão do mérito que é incabível em embargos de declaração - vício inexistente.
+2. Questões debatidas na apelação cível devidamente analisadas - matérias Prequestionadas.
+3. Pretensão do embargado de aplicação de multa por litigância de má-fé - inexistência de configuração de uma das hipóteses do artigo 80 do Código de Processo Civil.
+4. Recurso Desprovido.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022, II, do Código de Processo Civil, porque o Tribunal de origem não se manifestou sobre a omissão apontada nos embargos de declaração quanto à necessidade de apresentação dos discos do tacógrafo para análise do evento danoso;
+b) 421, parágrafo único, do Código Civil, pois a decisão do Tribunal de origem violou o princípio da intervenção mínima ao impor à UNICOON a obrigação de indenizar sem a apresentação dos documentos exigidos no regulamento interno da associação.
+Requer o provimento do recurso para que seja reconhecida a violação dos dispositivos legais indicados, reformando-se o acórdão recorrido para afastar a condenação imposta à UNICOON.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Trata-se, na origem, de ação ajuizada para cobrança de indenização por danos materiais e morais decorrentes da negativa de cobertura de sinistro (tombamento de caminhão) pela associação de proteção veicular, ora agravante, ante a recusa administrativa, que se baseou na não apresentação pelo associado dos discos do tacógrafo do dia do acidente, tal como exigido pelo regulamento da associação.
+O pedido foi julgado parcialmente procedente em primeira instância, para condenar a associação ao pagamento dos danos materiais.
+O Tribunal de origem manteve a sentença.
+I - Art. 1.022, II, do CPC
+Afasta-se a alegada ofensa 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Nesse sentido: REsp n. 2.166.999/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2025, DJEN de 26/3/2025; EDcl no AgInt no REsp n. 1.925.562/SP, relator Ministro Marco Buzzi, Quarta Turma, julgados em 17/3/2025, DJEN de 24/3/2025; AgInt no REsp n. 2.152.327/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.
+II - Art. 421 do CC
+O Tribunal local, baseando-se na análise de prova (danificação do tacógrafo) e nas cláusulas contratuais do regulamento da seguradora (que previa que a não apresentação do tacógrafo configuraria causa de exclusão do direito do segurado), considerou ilegítima a recusa de cobertura securitária pela falta de apresentação do disco de tacógrafo para fins de recebimento da indenização decorrente de sinistro.
+Concluiu que a não apresentação do disco do tacógrafo pelo associado ocorrera por razão justificada.
+Confira-se trecho do acórdão recorrido (fls. 706-707):
+No tocante ao sinistro, denota-se do boletim de acidente de trânsito que no dia 05/10/2022, às 02h10min, no km 144 da BR 116 sentido Mandirituba, o veículo segurado, FORD/Cargo 1726, perdeu o controle de direção, adentrando a faixa de grame onde havia uma barranco, tombou, após atingir algumas árvores. A cabine da frente ficou deteriorada, o exame de etilômetro com resultado negativo e disco de cronotacógrafo inacessível,
+ ..
+A requerida negou a indenização securitária à autora (mov. 55.13 - autos originários), sob a justificativa de evento não coberto, conforme cláusula 4.2 alínea XLVII, em razão da falta de entrega do disco do tacógrafo da data do sinistro.
+Entretanto, o apelado comprovou que a não apresentação dos registros do tacógrafo do caminhão acidentado deu-se por razão justificada, por estar inacessível (mov. 1.4 - autos originários).
+Assim, não há que se falar em contrato não cumprido pelo associado.
+Além disso, com a inversão do ônus da prova, determinada na decisão de mov. 67.1 - cumpria a requerida/apelante comprovar da ocorrência de causa de exclusão de risco, pela falta de entrega de tacógrafo de forma injustificada, mas assim não o fez.
+Como se vê, a conclusão do julgado decorreu da interpretação de cláusula contratual presente no regulamento da associação seguradora e das circunstâncias fáticas específicas do sinistro.
+Para se chegar a conclusão diversa, ou seja, para afirmar que a não entrega foi injustificada ou que o documento era, de fato, acessível, seria indispensável reexaminar as provas dos autos. Tal procedimento é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Não se trata de violação do art. 421 do Código Civil, mas de diferente capitulação jurídica decorrente da prova dos autos. No caso, a agravante discorda da análise fática estabelecida no julgamento.
+A propósito, confira-se o seguinte prece dente:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELO RELATOR. CONFIRMAÇÃO PELO COLEGIADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SEGURO. ACIDENTE DE VEÍCULO. LUCROS CESSANTES. CLÁUSULA EXCLUDENTE DE COBERTURA. VALIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DEMORA EXCESSIVA NO REPARO. AUSÊNCIA DE RESPONSABILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a agravo em recurso especial.
+II. Razões de decidir
+2. A decisão monocrática que nega seguimento a recurso especial, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts. 932, IV, do CPC/2015 e 255, § 4º, II, do RISTJ, não havendo falar, pois, em nulidade por ofensa à nova sistemática do Código de Processo Civil. Ademais, a interposição do agravo interno, e seu consequente julgamento pelo órgão colegiado, sana eventual nulidade.
+3. Considera-se deficiente a fundamentação de recurso especial que alega violação dos arts. 489 e 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+4. Segundo a jurisprudência deste Tribunal Superior, "é legítima a negativa da seguradora à cobertura na hipótese de exclusão ou limitação expressa de cobertura, porquanto as cláusulas do contrato de seguro devem ter interpretação restritiva" (AgInt no AREsp n. 2.104.851/SC, Relator Ministro Raul Araújo, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023). Aplicação da Súmula n. 83 do STJ.
+5. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+6. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu.
+III. Dispositivo 7. Agravo interno desprovido. (AgInt no AREsp n. 2.672.507/ES, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
