@@ -1,0 +1,61 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 2.786-2.787):
+Direito processual civil. Agravo interno NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. Nulidade de decisão monocrática. Documentos extemporâneos. Ônus da prova. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022, II, do CPC. NÃO OCORRÊNCIA. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. Agravo INTERNO desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra a decisão monocrática que negou provimento ao agravo em recurso especial, alegando nulidade por não enfrentar a tese recursal sobre a utilização de documentos extemporâneos como fundamento de condenação, além de contradição interna e omissão na deliberação sobre o ônus da prova.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a decisão monocrática incorreu em nulidade por não enfrentar a tese recursal sobre a utilização de documentos extemporâneos e se houve contradição interna e omissão na deliberação sobre o ônus da prova.
+III. Razões de decidir
+3. O Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo vício que possa nulificar o acórdão recorrido.
+4. A alegação de nulidade por utilização de documentos extemporâneos não procede, pois o Tribunal a quo decidiu as questões de forma clara e objetiva.
+5. A distribuição do ônus da prova seguiu a regra legal ordinária, não havendo ce rceamento de defesa ou necessidade de redistribuição.
+6. A adoção de desfecho diverso implicaria reexame de elementos fático-probatórios, o que encontra óbice na Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+A parte recorrente sustenta a ocorrência de violação dos arts. 5º, XXXV, LIV, LV, e 93, IX, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que o acórdão recorrido violou o dever de motivação ao não deliberar de forma explícita e contextualizada sobre o pedido de redistribuição dinâmica do ônus da prova, formulado desde a fase de saneamento do processo, em prejuízo à inafastabilidade de jurisdição, ao contraditório, à ampla defesa e ao devido processo legal.
+Defende que a ausência de deliberação concreta sobre o pedido de redistribuição do ônus da prova, somada à fundamentação genérica do acórdão, resultou na blindagem de um vício formal que deveria ter sido sanado, frustrando o direito de acesso à jurisdição plena e efetiva.
+Requer, assim, a admissão e o provimento do recurso.
+Não foram apresentadas contrarrazões (fl. 2.820).
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 2.791-2.792):
+A controvérsia diz respeito à alegação de nulidade da decisão monocrática por não enfrentar a tese recursal sobre a utilização de documentos extemporâneos como fundamento de condenação, além das alegações de contradição interna e de omissão na deliberação sobre o ônus da prova.
+A decisão agravada deve ser mantida por seus próprios fundamentos, assim expressos (fls. 2.717-2.718):
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, III, do Código de Processo Civil, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito, das supostas omissões alegadas, assim entendeu o acórdão recorrido:
+i) Com relação à alegada violação do art. 313,V, a, do CPC (fl. 2.487):
+Em consulta ao andamento processual da Ação de Arbitramento de Honorários nº 0736576-44.2021.8.07.0001, verifica-se que essa, de fato, ainda não transitou em julgado, tendo sido publicado o acórdão que julgou as Apelações em 5/4/2024. Entretanto, a pendência de decisão definitiva quanto à existência de honorários advocatícios em favor do ora Apelante não configura, por si só, prejudicial externa capaz de fundamentar a suspensão da presente Ação de Cobrança referente a despesas do escritório de advocacia, pois se trata de feitos autônomos e independentes.
+ii) No que se refere à suscitada violação dos arts. 373 e 357, III, do CPC, pela distribuição inadequada do ônus da prova, concluiu que (fl. 2.489):
+No caso, não se observa o alegado cerceamento de defesa, tendo em vista que a distribuição do ônus da prova seguiu a regra legal ordinária disciplinada no art. 373 do CPC/15, que dispõe que cabe ao Autor provar fato constitutivo de seu direito e ao Réu a existência de fato impeditivo, modificativo ou extintivo do direito daquele. Somente nos casos previstos em lei ou diante de peculiaridades da causa, o juiz poderá atribuir o ônus da prova de modo diverso, por decisão fundamentada, o que não é a hipótese dos autos.
+iii) No que pertine à suposta vulneração do art. 320 do CPC, na omissão da análise da inépcia da Inicial por falta de contrato social atualizado, entendeu (fl. 2.494):
+No caso concreto, além dos documentos relacionados à admissibilidade da petição inicial, a parte Autora apresentou diversos comprovantes de despesas dos quais busca ressarcimento, demonstrando a existência da relação jurídica alegada, o que não enseja o indeferimento da petição inicial. Nessa circunstância, impõe-se concluir que a inicial reúne os elementos necessários ao processamento da ação e não incorre nas hipóteses de inépcia elencadas no art. 330, § 1º, do CPC/15.
+Conforme pontuado na decisão agravada, a alegação de nulidade por utilização de documentos extemporâneos não procede, pois o Tribunal a quo examinou e decidiu as questões de forma clara e objetiva, não ocorrendo vício que possa nulificar o acórdão recorrido. Assim, não obstante as alegações apresentadas neste agravo interno em relação à utilização de documentos extemporâneos, não há como afastar o fundamento da decisão sobre essa alegação.
+De igual modo, não prospera o recurso no que se refere à alegação de contradição interna acerca da legitimidade ativa, pois o acórdão recorrido verificou que a legitimidade ativa da pessoa jurídica fora devidamente reconhecida, considerando a parceria existente entre as partes e a divisão das despesas. Nesse contexto, a decisão monocrática reafirma que a distribuição do ônus da prova seguiu a regra legal ordinária, não havendo cerceamento de defesa.
+Com relação à omissão na deliberação sobre o pedido de redistribuição do ônus da prova, a decisão monocrática concluiu que a regra do ônus da prova fora corretamente aplicada, não havendo necessidade de redistribuição, conforme previsto no art. 373 do CPC.
+Nesse contexto, a adoção de desfecho diverso do assentado pelo Tribunal de origem e o acolhimento das teses defendidas no recurso especial implicariam, necessariamente, reexame de elementos fático-probatórios dos autos, medida que encontra óbice na Súmula n. 7 do STJ.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660 do STF, fixou-se a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+Na hipótese, o exame do alegado desrespeito do art. 5º, LIV e LV, da CF dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+4. Ademais, no julgamento do RE n. 956.302-RG, a Suprema Corte firmou o entendimento de que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+A referida orientação foi consolidada no Tema n. 895 do STF, nos seguintes termos:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso dos autos, a apreciação da apontada ofensa ao art. 5º, XXXV, da CF demandaria o exame de normas infraconstitucionais e a apreciação de matéria fática, motivo pelo qual se aplica a conclusão do STF no Tema n. 895.
+Do mesmo modo, trata-se de entendimento firmado na sistemática da repercussão geral e, portanto, de observância cogente (art. 1.030, I, a, do CPC).
+5. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
