@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Município de Bom Jesus do Itabapoana contra decisão assim ementada (fl. 187):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DOS ARTIGOS 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RI /STJ (REDAÇÃO DADA PELA EMENDA REGIMENTAL N. 22, 2016). AGRAVO NÃO CONHECIDO.
+O embargante sustenta que houve a impugnação específica dos fundamentos da decisão recorrida, bem como omissão do julgado, na medida em que a decisão de inadmissibilidade do recurso especial negou seguimento do recurso quanto aos Temas 407 a 410 do STJ e, em seguida, após fazer um distinguishing necessário ao caso, aplicou a Súmula n. 83/STJ, o que a todo modo constitui um equívoco, eis que impugnado especificamente todos os fundamentos da decisão recorrida, inclusive quanto aos Temas referidos.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na hipótese dos autos, como bem analisado no decisum de fls. 187-189, após fazer um distinguishing necessário ao caso, aplicou a Súmula n. 83/STJ, pelas alíneas "a" e "c" do art. 105, III, da Constituição Federal, acerca do cabimento de honorários advocatícios em fase de cumprimento de sentença. Contudo, ao contrário do alegado, os argumentos lançados no agravo contra a decisão que inadmitiu o recurso especial não foram suficientes para impugnar o mencionado óbice processual.
+Assim, não há irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o decisum embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OMISSÃO DA DECISÃO EMBARGADA. VÍCIO NÃO CONFIGURADO. EMBARGOS REJEITADOS.
