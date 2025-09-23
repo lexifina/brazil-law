@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interno interposto por Raimundo Longo Tavares dos Santos contra a decisão monocrática de fls. 1096-1098, que conhecera do seu agravo para não conhecer do recurso especial, aplicando o óbice da Súmula 7 deste STJ.
+A parte agravante alega, em síntese, o seguinte (fls. 1102-1109):
+10. Data maxima venia, a decisão atacada merece reforma pois considera como incidência da Súmula 7/STJ, REsp que se baseia em tema já exaustivamente debatido por esta corte. Tanto que já foi firmado entendimento em regime de Recursos Repetitivos gerando o tema n. 1.076/STJ.
+11. O QUE SE DISCUTE COM O RECURSO ESPECIAL DE Nº134 NÃO É FIXAÇÃO DE HONORÁRIOS É A APLICAÇÃO CORRETA DO ART. 85, §2º DA LEI FEDERAL 13.105/2015!! NÃO HÁ NECESSIDADE DE REEXAME DE PROVAS OU FATOS PARA APLICAR A LETRA FRIA DA LEI!!
+12. SE HOUVESSE NECESSIDADE DE ANALISAR FATOS OU PROVAS EM RECURSOS COMO O PRESENTE RESP, HAVERIA APLICAÇÃO DA SÚMULA 7 EM TODOS OS RECURSOS QUE GERARAM O TEMA 1.076/STJ, QUE FOI DECIDIDO EM REGIME DE RECURSOS REPETITIVOS.
+13. Relembremos, eminentes ministros, o que diz o tema nº 1.076 deste egrégio Tribunal Superior:
+(..)
+15. Eméritos Ministros, com as mais respeitosas vênias, não há incidência da Súmula 7/STJ no presente caso. Isso porque o valor da causa é razoável e é perfeitamente mensurável. PARA ANÁLISE DO PRESENTE RESP É NECESSÁRIO TÃO SOMENTE VER O VALOR DA CAUSA (R$ 199.623,49) E O QUE DIZ O ART. 85, §2º, CPC, BEM COMO, FIXAR HONORÁRIOS DE SUCUMBÊNCIA ENTRE 10 E 20% NA FORMA DO CITADO DISPOSITIVO DE LEI.
+16. O que se pede com o presente recurso é a reforma da decisão do eminente ministro presidente para conhecer e dar provimento ao R Esp para que se aplique o entendimento já firmado em regime de recursos repetitivos por este r. tribunal Superior. Buscamos apenas que sejam respeitadas as decisões colegiadas deste Superior Tribunal de Justiça.
+É o relatório. Decido.
+Analisando detidamente os autos, verifica-se que há pertinência nas alegações da parte agravante, motivo pelo qual, em juízo de retratação, torno sem efeito a decisão que não conheceu do recurso especial da agravante (fls. 1096-1098) e passo à nova análise do apelo nobre.
+De início, conheço do agravo, passando, desde já, a analisar o apelo nobre.
+Na origem, trata-se de ação monitória ajuizada por Neoenergia Distribuição Brasília S.A. em face de Raimundo Longo Tavares dos Santos, visando à cobrança de valores relativos a faturas de energia elétrica supostamente inadimplidas.
+A sentença extinguiu o processo sem resolução do mérito e condenou a autora ao pagamento de honorários advocatícios fixados em 10% sobre o valor da causa. O Tribunal de Justiça do Distrito Federal e Territórios, em sede de apelação interposta pela Neoenergia, deu parcial provimento ao recurso, reduzindo os honorários advocatícios de R$19.962,35 (dezenove mil, novecentos e sessenta e dois reais e trinta e cinco centavos) para R$ 2.000,00, com base no critério de equidade previsto no art. 85, §8º, do CPC, nos termos da seguinte ementa (fls. 882-896):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO MONITÓRIA. QUESTÃO DE FUNDO APRECIADA EM OUTRA DEMANDA. COISA JULGADA. RECONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS. BAIXA COMPLEXIDADE JURÍDICA. CRITÉRIO PROPORCIONALIDADE. RAZOABILIDADE. APLICAÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+1. A causa posta para julgamento no pleito monitório já havia sido decidida por sentença transitada em julgado, vindo a impedir novo julgamento acerca da mesma questão, entendendo-se pelo reconhecimento da coisa julgada.
+2. A jurisprudência desta Corte, alinhada à do Colendo STF, tem admitido relativizar eventual discrepância decorrente da literal interpretação do parágrafo 2º, do art. 85 do CPC/2015, para fixar a verba honorária, arbitrando-a mediante critério de razoabilidade e proporcionalidade (art. 85, §8º).
+3. Deu-se parcial provimento ao apelo.
+Os embargos de declaração opostos foram rejeitados (fls. 988-993).
+Na sequência, o particular interpôs recurso especial alegando violação ao art. 85, §2º, do CPC e sustentando, para tanto, que os honorários advocatícios deveriam ser fixados no percentual determinado pelo mencionado dispositivo processual, conforme entendimento firmado no Tema 1.076/STJ, não sendo cabível a aplicação do critério de equidade previsto no §8º do art. 85 do CPC (fls. 1011-1017). Ainda, alegou que:
+12. Eméritos Ministros, com as mais respeitosas vênias, não há margem para aplicar o §8º do art.85 do CPC. Isso porque o valor da causa é razoável e é perfeitamente mensurável. Aplicá-lo no presente caso é uma violação frontal ao §2º do diploma processual civil. A própria fundamentação do v. acórdão proferido pela Turma nos mostra a impossibilidade de aplicação do §8º no presente caso.
+13. O eminente Desembargador relator mencionou em seu voto o julgamento do Tema Repetitivo n. 1.076/STJ, verbis:
+(..)
+14. A respeito dos temas julgados no regime dos recursos repetitivos o Código de Processo Civil prevê sua força vinculante e em seu artigo 1.040, II e III, CPC, determina providências ao tribunal de origem para se adequar ao julgamento do tema e aos tribunais que possuem processos suspensos:
+(..)
+15. Em que pese a vigência do tema 1.076 do e. STJ, o eminente relator fundamentou sua decisão contrária ao tema com base no julgamento do tema 1.255 do Supremo Tribunal Federal que ainda está em trâmite e que por maioria admitiu a repercussão geral e a constitucionalidade do tema para serem analisados pelo pretório excelso.
+16. Com relação a fundamentação do v. Acórdão que menciona o RE 1.415.786/PE e o tema 1.255/STF é importante destacar que tais fundamentações, data venia, não se aplicam ao presente litígio. Isso porque os dois precedentes mencionam situações que preenchem dois requisitos: 1º) honorários exorbitantes; 2º) arbitrados contra a Fazenda Pública, o que não é o caso dos autos de preenchimento de nenhum dos dois requisitos.
+17. Quanto ao tema 1.255/STF é importante destacar o trecho do pedido da União feito no caso paradigma nº RE1412069 RG/PR:
+(..)
+18. A Ministra Rosa Weber destacou em seu voto que a tese debatida se aplicará aos casos de honorários exorbitantes: "Em análise no presente caso a possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes."
+19. Quanto a decisão monocrática do Min. Roberto Barroso no RE1415786, esta também evidencia a análise de honorários exorbitantes fixados. Destaca-se que os honorários exorbitantes para fins deste julgamento são aqueles que se baseiam em uma causa no valor de R$ 15 milhões de reais. Ou seja, "exorbitantes" seriam os honorários milionários.
+(..)
+20. Quanto ao segundo critério, o Ministro Barroso destaca que além dos honorários milionários, a controvérsia também envolve dinheiro público:
+(..)
+21. Situação idêntica encontramos no julgamento da Constitucionalidade e Repercussão Geral do tema 1.255/STF, onde o Ministro Alexandre de Moraes destaca inúmeras vezes em seu voto a natureza milionária da controvérsia e o claro envolvimento da Fazenda Pública na tese levada a debate pela Suprema Corte:
+(..)
+22. Também o voto do Ministro Edson Facchin deixa clara a situação de fixação de honorários milionários e a presença da União no polo passivo:
+(..)
+23. Como se pode observar, a fundamentação aplicada no v. acórdão não se aplica ao presente caso em razão de não se tratar a questão debatida nestes autos de honorários exorbitantes (ou seja, milionários), tampouco de caso em que a Fazenda Pública figura no polo passivo da ação.
+24. Demonstrada a contradição existente entre a fundamentação que embasou a aplicação do art. 85, §8º, CPC, fica claro que no presente caso aplica-se o tema 1.076 do STJ que foi julgado no regime dos recursos repetitivos e já gerou um tema decidido e que determina a aplicação do art. 85, §2º, nos casos de fixação de honorários como o discutido nestes autos. Lei esta que, tendo em vista sua vigência, presume sua constitucionalidade conforme destaca o voto do Min. Facchin no tema já citado tema 1.255/STF:
+(..)
+25. Tendo em vista a violação apontada, com as mais respeitosas vênias requer seja o presente recurso conhecido e provido para fins de fixar os honorários com base no art. 85, §2º, CPC no presente caso conforme prevê o tema n. 1.076/STJ.
+O recurso especial foi inadmitido, sob o fundamento de que a análise da controvérsia demandaria o reexame de fatos e provas, o que encontra óbice na Súmula 7 do STJ (fls. 1048-1050). Contra essa decisão, foi interposto o agravo em recurso especial, ora em análise (fls. 1056-1065).
+Com efeito, para a certeza das coisas, é esta a letra do acórdão recorrido, transcrita no que interessa à espécie (fls. 889-895):
+Dos honorários advocatícios.
+Nos termos do art. 85, §6º do Código de Processo Civil, os honorários advocatícios são devidos independentemente de qual seja o conteúdo da decisão, inclusive nos casos de improcedência ou de sentença sem resolução do mérito.
+Entretanto, na hipótese, entendo que a fixação no percentual mínimo de 10% (dez por cento) sobre o valor da causa representa quantia excessiva.
+Os honorários advocatícios foram fixados pelo Juízo Singular "em 10% (dez por cento) do valor da causa, na forma do art. 85, §2º, do Código de Processo Civil e ordem de (ID 58754203,vocação prevista no REsp n.º 1.746.072/PR do Superior Tribunal de Justiça." Pág. 3).
+O valor da causa é de R$199.623,49 (cento e noventa e nove mil, seiscentos e vinte e três reais e quarenta e nove centavos) - ID 58752956, Pág. 8.
+Sobre o ponto em análise, a Corte Especial do STJ, ao julgar o Tema Repetitivo 1076 (REsp 1.850.512/SP, REsp 1.877.883/SP, R Esp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), firmou as seguintes teses jurídicas:
+(..)
+Com efeito, entendo que a solução do caso em análise deve ter por base os princípios da proporcionalidade e da razoabilidade que regem o processo civil, conforme disciplina o art. 8º do CPC, verbis: "Art. 8º Ao aplicar o ordenamento jurídico, o juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência."
+Acerca do tema, e. Segunda Câmara Civil deste Tribunal apresentou uma reflexão amadurecida entre a harmonia dos precedentes judiciais e os princípios balizadores de interpretação das normas do CPC. Observe-se:
+(..)
+Nesse mesmo sentido, reconhecendo a ocorrência de discrepâncias, o próprio STJ, entendeu que existem situações excepcionais em que devemapós a edição do Tema 1076, ser observados os princípios da razoabilidade e da proporcionalidade na fixação dos honorários sucumbenciais. Observe-se:
+(..)
+O pretório excelso também adotou o critério da proporcionalidade e razoabilidade em casos da espécie, verbis:
+(..)
+Por raciocínio semelhante, o ilustre Min. Roberto Barroso, julgou procedente Recurso Extraordinário para aplicar o critério de razoabilidade e proporcionalidade, reformando acórdão proferido pelo TRF-5 que, em cumprimento a determinação do c. STJ, havia aplicado o tema 1076 (RE nº 1.415.786).
+Assim, apresentando o valor da causa a quantia de R$ 199.623,49 (cento e noventa e nove mil, seiscentos e vinte e três reais e quarenta e nove centavos), entendo que a fixação dos honorários em 10% (dez por cento) sobre o respectivo valor viola referidos princípios, pois acarreta a quantia de R$19.962,35 (dezenove mil, novecentos e sessenta e dois reais e trinta e cinco centavos), a qual considero desproporcional.
+No caso em exame, observados os parâmetros do art. 85, §2º, do CPC, no caso, o grau de zelo profissional, a curta duração do processo (um ano e um mês), com tramitação exclusivamente de forma eletrônica (PJE), ausência de audiência e extinção do feito sem resolução de mérito, reputo adequado ao contexto e aos princípios supramencionados, a quantia de R$ 2.000,00 (dois mil reais), os quais arbitro.
+De fato, consoante se depreende do acórdão recorrido, ao fixar os honorários advocatícios por apreciação equitativa, o julgado merece reforma, por se encontrar em dissonância com o entendimento firmado por esta Corte Superior no Tema n. 1.076 nos seguintes termos:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Vale ressaltar, por oportuno, que os entendimentos manifestados nos acórdãos deste STJ e do STF mencionados pelo Tribunal de origem não se aplicam ao presente caso, seja porque analisaram a questão sobre outra perspectiva peculiar - tal como, a título exemplificativo, o AgInt no AgInt no AREsp n. 1.967.127/RJ que abordou a questão na perspectiva do art. 26 da Lei nº 6.830/80 -, seja porque foram casos isolados que não possuem caráter vinculante como o Tema n. 1.076/STJ.
+Além disso, além da ausência de identidade fática, os julgados do Supremo sobre o assunto não impede que este STJ proceda à análise da aplicação da norma processual atinente a os honorários advocatícios, pois se trata de matéria dirimida à luz de legislação infraconstitucional, estando, portanto, inserida no âmbito de atuação desta Corte de Justiça.
+Ante o exposto, em juízo de retratação, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo e dou provimento ao recurso espec ial para reestabelecer os honorários advocatícios fixados pela sentença, em respeito ao entendimento manifestado no Tema n. 1.076/STJ.
+Publique-se. Intimem-se.
+EMENTA
