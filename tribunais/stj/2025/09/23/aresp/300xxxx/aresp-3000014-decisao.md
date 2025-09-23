@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICÍPIO DE MATINHAS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+AGRAVO INTERNO EM REMESSA NECESSÁRIA. RECURSO CONTRA DECISÃO MONOCRÁTICA QUE JULGOU IMPROCEDENTE A REMESSA E MANTEVE A SENTENÇA CONDENATÓRIA. AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL C/C PEDIDO LIMINAR E PERDAS E DANOS. PROMOÇÃO DE SHOWS E FESTIVAIS PELO MUNICÍPIO. PROPAGAÇÃO DE OBRAS MUSICAIS SEM PAGAMENTO DE DIREITOS AUTORAIS. PRESCRIÇÃO TRIENAL. NÃO APLICAÇÃO DO RESP REPETITIVO  1.251.993/PR AO CASO CONCRETO. PRECEDENTE DO STJ NO RESP 1912542/PR. REFORMA PARCIAL DA SENTENÇA PARA DECLARAR A PRESCRIÇÃO DE PARTE DA PRETENSÃO VEICULADA. PROVIMENTO PARCIAL DA SUPLICA REGIMENTAL.
+Quanto à controvérsia, a parte recorrente alega que o prazo prescrição para a cobrança de direito autoral é de 3 (três) anos, trazendo a seguinte argumentação:
+A respeitável decisão guerreada deve ser reformada/anulada, pois, com a detida análise dos autos, vê-se que é evidente a prescrição e decadência na totalidade da pretensão da parte Recorrida.
+Leciona STOLZE e PAMPLONA (2017, p. 188) que "a prescrição é a perda da pretensão de reparação do direito violado, em virtude da inércia do seu titular, no prazo previsto em lei". É a causa extintiva da pretensão sobre o direito subjetivo em virtude da inércia de seu titular, no prazo previsto em lei.
+O instituto da prescrição é amplamente reconhecido no ordenamento jurídico pátrio, o qual caminha juntamente com a decadência, embora não se confundam entre si. O Código Civil, em seu artigo 192, disciplina o instituto da prescrição, preceituando que os prazos prescricionais não podem ser alterados, nem mesmo por vontade das partes.
+Vale ressaltar que a alegação da prescrição pode ser realizada em qualquer fase processual e em qualquer grau de jurisdição, como assim dispõe o artigo 193 do Código Civil. A respeito do caso em questão, por se tratar de uma pretensão de reparação civil, o código supracitado indica um prazo prescricional específico. Vejamos:
+ ..
+Com a devida vênia, forçoso reconhecer a ocorrência de prescrição no caso em tela, haja vista que, a pretensão da parte Autora gira em torno dos eventos da Festa da Laranja e do São João de 2009, sendo que a demanda só foi proposta em 11 de abril de 2013, ou seja, quase 4 (quatro) anos após o evento. Vale consignar que o entendimento consolidado ao Colendo Superior Tribunal de Justiça (STJ), acompanha o dispositivo no art. 206, § 3º, V, do Código Civil, que prescreve em três anos a pretensão de reparação civil.
+Em processo semelhante, o Colendo Superior Tribunal de Justiça acompanha o disposto no art. 206, § 3º, V, Do Código Civil, que prescreve em 03 (três) anos a pretensão de reparação por direitos autorais. Vejamos os julgados:
+ ..
+A hipótese dos autos é de ação de cobrança de direitos autorais, aplica-se a prescrição trienal ao tempo do ingresso da ação, isto é, o prazo prescricional a ser aplicado é de 03 (três) anos.
+In casu, constata-se que a demanda versa da cobrança de direitos autorais referentes aos eventos da Festa da Laranja e do São João de 2009, sendo que a demanda só foi proposta em 11 de abril de 2013, quase 4 (quatro) anos após o evento, encontrando-se, portanto, prescrito, considerando a legislação pátria e, inclusive, a jurisprudência.
+Deste modo, considerando que o prazo para ingresso de ação de cobrança de direitos autorias prescreve em três anos e a parte Autora, ora Recorrida, só interpôs a presente demanda quatro ano após os supracitados eventos, outra sorte não possui, senão o reconhecimento da prescrição.
+Assim sendo, a reforma do Acórdão ora combatido é medida que se impõe, com o fim de, reconhecendo a aplicação da prescrição trienal à ação de cobrança inicialmente proposta pela recorrida, dar integral provimento ao presente Recurso Especial (fls. 768-771).
+É o relatório.
+Decido.
+Quanto à controvérsia, verifica-se que o acórdão recorrido decidiu a controvérsia nos termos em que postulado pela parte recorrente. Portanto, a insurgência não merece prosperar ante a evidente ausência de interesse recursal, mostrando-se inadmissível a interposição de recurso visando resultado já alcançado.
+Nesse sentido: "Configurada a ausência de interesse de agir do ente público, no caso, porquanto o resultado pretendido já foi alcançado no acórdão impugnado". (REsp n. 1.335.172/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/10/2018, DJe de 27/11/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.820.624/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.318.218/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 23/5/2019; AgRg no REsp 1.374.090/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2018; AgInt no AREsp 717.203/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 19/11/2018; AgInt no AREsp 1.320.424/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
