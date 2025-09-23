@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto pela DEFENSORIA PÚBLICA DA UNIÃO, na condição de curadora especial de IVAN PASTRELLI KAMADA, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, no qual discute a impenhorabilidade de valores depositados na conta da parte executada até 40 salários-mínimos, conforme previsão do art. 833, inc. X, do Código de Processo Civil - CPC/2015.
+Dito isso, a questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.285), e foi assim delimitada: "Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos." (ProAfR no REsp n. 2.020.425/RS, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 17/9/2024, DJe de 7/10/2024.)
+Nesse contexto, os autos devem retornar ao Tribunal Regional Federal para o sobrestamento do recurso especial até o exercício do juízo de conformação pelo órgão julgador com a tese a ser definida pela Corte Especial.
+Ante o exposto, determino a devolução dos autos ao Tribunal de Origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Superior Tribunal de Justiça (Tema 1.285/STJ), em observância aos artigos 1.039, 1.040, I e II, e 1.041 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação exarada pelo STJ; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Fica prejudicado o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
