@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOAO VICTOR IRINEU, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1503248-65.2022.8.26.0506 , assim ementado (fl. 156):
+DESOBEDIÊNCIA Infração penal de menor potencial ofensivo. Recurso de apelação interposto pela Defesa contra a r. sentença condenatória. Competência do E. Colégio Recursal para apreciação. Inteligência dos artigos 98, I, da Constituição Federal; c. c. 394, § 1º, III, do Código de Processo Penal; c. c. 61 e 82 da Lei nº 9.099/95. Precedentes deste E. TJSP Apelo não conhecido, com determinação.
+Foram opostos embargos de declaração, rejeitados pelo Tribunal a quo (fls. 175/178).
+No recurso especial, a defesa aponta violação do art. 564, I, do Código de Processo Penal e do art. 60 da Lei n. 9.099/1995, pois o acórdão recorrido não reconheceu a incompetência absoluta do Juízo de primeiro grau para julgar a ação penal. Afirma que, uma vez que o juízo de primeiro grau concluiu pela absolvição do recorrente pelo delito de receptação, deveria ter remetido os autos para julgamento da infração de menor potencial ofensivo pelo juízo do juizado especial criminal, donde decorre a nulidade da sentença de primeiro grau (fl. 169). Dessa forma, requer o provimento do recurso, para que se declare a nulidade da sentença condenatória e se determine a remessa dos autos ao Juizado Especial Criminal (fls. 168/171).
+Oferecidas contrarrazões (fls. 191/195), o recurso especial foi admitido na origem (fl. 196).
+O Ministério Público Federal opina pelo desprovimento do recurso (fls. 205/209).
+É o relatório.
+O recurso deve ser conhecido, pois estão presentes os requisitos gerais e específicos de admissibilidade.
+A questão em debate no recurso centra-se na competência do juízo criminal comum para julgar crime de menor potencial ofensivo, após ter decidido pela absolvição do crime de sua competência, que atraíra, por conexão, a competência para o julgamento do delito menos grave. A defesa alega que, ao absolver o acusado pelo crime de receptação, o Magistrado de primeiro grau deveria ter declinado da competência ao juizado especial criminal, e não prosseguir no julgamento do crime de desobediência, como fez.
+Quanto ao ponto, esta Corte Superior tem decidido que a absolvição em relação ao delito de competência da Justiça Comum não retira a sua competência quanto ao crime de menor potencial ofensivo, em razão da aplicação da regra da perpetuatio jurisdictionis (HC n. 82.258/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 1/6/2010, DJe de 23/8/2010).
+Da mesma forma, a absolvição em relação a um ou a alguns dos crimes, a desclassificação ou mesmo a não-incidência de causa de aumento de pena por ocasião da sentença não afastam a competência da Justiça comum delineada pela pretensão, mesmo subsistindo a condenação por crime abrangido pelo conceito de menor potencial ofensivo (CC n. 63.547/RS, relator Ministro Arnaldo Esteves Lima, Terceira Seção, julgado em 27/9/2006, DJ de 16/10/2006, p. 290).
+Assim, o acórdão recorrido deve ser mantido.
+Ante o exposto, nego provimento ao recurso especial (art. 34, XVIII, b, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO PENAL. COMPETÊNCIA. CONCURSO DE CRIMES. CRIME DE COMPETÊNCIA DO JUÍZO COMUM (RECEPTAÇÃO) E CRIME DE COMPETÊNCIA DO JUIZADO ESPECIAL CRIMINAL (DESOBEDIÊNCIA). ABSOLVIÇÃO EM RELAÇÃO AO CRIME DE RECEPTAÇÃO. COMPETÊNCIA DO JUÍZO COMUM PARA PROSSEGUIR NO JULGAMENTO DO CRIME DE MENOR POTENCIAL OFENSIVO. PERPETUAÇÃO DA JURISDIÇÃO.
+Recurso especial improvido.
