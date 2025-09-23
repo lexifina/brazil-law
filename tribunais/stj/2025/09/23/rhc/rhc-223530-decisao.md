@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por LUCIELY OLIVEIRA POLIDORO contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no julgamento do HC n. 5172537-33.2025.8.21.7000.
+A recorrente foi denunciada pelo crime previsto no art. 121, § 2º, incisos IV e VIII, do Código Penal. C ontra a decisão que recebeu a denúncia, a defesa impetrou habeas corpus na origem, postulando o trancamento da ação penal. O Tribunal de Justiça denegou a ordem (e-STJ, fls. 39-43).
+Nas razões deste recurso, a defesa alega inexistir justa causa para a continuidade dos atos persecutórios. A defesa também se insurge contra a suposta falta de fundamentação da decisão que confirmou a decisão de recebimento da peça acusatória, pois não teriam sido analisadas as alegações apresentadas pelas partes nem apresentada fundamentação idônea para justificar o prosseguimento da ação penal.
+Diante disso, requer o provimento do recurso para que se determine o trancamento da ação penal.
+É o relatório. Decido.
+Este recurso é manifestamente inadmissível, porquanto ausente requisito formal de admissibilidade, qual seja, a tempestividade. O prazo legal para interposição de recurso ordinário é de cinco dias, nos termos do art. 30 da Lei n. 8.038/1990, contados na forma do art. 798 do Código de Processo Penal. O acórdão que denegou a ordem de habeas corpus foi publicado em 30 de julho de 2025, iniciando-se a contagem do prazo em 4 de agosto. O recurso somente foi apresentado em 18 de agosto, sendo, pois, manifesta sua intempestividade.
+Ainda que se supere esse vício formal, não é possível a análise da insurgência.
+Verifico que recurso não está adequadamente instruído, de maneira que não há nos autos documentação suficiente para demonstrar a viabilidade das pretensões do recorrente. Estão ausentes diversas peças imprescindíveis para o exame das pretensões formuladas.
+Como se sabe, o rito do habeas corpus, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+Diante disso, a parte interessada deve demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto, situação que não ocorre na espécie, ensejando o não conhecimento deste recurso.
+Nesse sentido, confiram-se os precedentes desta Corte:
+ ..  4. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa.  ..  (HC 355.769/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 4/8/2016, DJe 9/8/2016) ..  3. Não tendo sido juntado aos autos o decreto preventivo, fica inviável a comprovação da alegada ausência de fundamentos. 4. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto. 5. Agravo regimental desprovido. (AgRg no HC 359.225/SP, de minha relatoria, Quinta Turma, DJe 1/8/2016).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+Diante do exposto, com fundamento no art. 34, inciso XVIII, alínea "a" do Regimento Interno do Superior Tribunal de Justiça, não conheço deste recurso ordinário.
+Publique-se.
+EMENTA
