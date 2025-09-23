@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por AYRTON GUIMARAES contra o acórdão n. 1.0000.25.202335-3/000 do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta que o recorrente foi preso preventivamente, denunciado e pronunciado pela suposta prática dos ilícitos tipificados no art. 121, § 2º, incisos I, III e IV, c.c. o art. 29, art. 211, todos do Código Penal e no art. 12.850/2013.
+A Defesa, pugnando pelo relaxamento da prisão preventiva, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 209-215.
+Em suas razões, o recorrente sustenta, em suma, que ocorre excesso de prazo para a formação da culpa.
+Aduz, também, que o decreto prisional não apresentou fundamentação idônea uma vez não estão presentes na hipótese os requisitos legais autorizadores da prisão preventiva.
+Requer, em medida liminar e no mérito, a revogação (ou o relaxamento) da prisão preventiva e, subsidiariamente, a sua substituição por cautelares alternativas.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023 e AgRg no HC 530.261/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/09/2019).
+Considerando que a presente impetração versa sobre matéria pacificada nesta Corte Superior, passo à análise do mérito da pretensão.
+Inicialmente, pontuo que, sob pena de incorrer em indevida supressão de instância, esta Corte não pode conhecer da tese que sustenta eventual ilegitimidade da prisão preventiva do recorrente, uma vez que o tema não foi debatido pelo Tribunal de origem.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. NULIDADE NA PRODUÇÃO DA PROVA. NÃO VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+ ..
+(AgRg no RHC n. 182.899/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+Nesses casos, para sanar eventual omissão, a Defesa deveria ter se incumbido de opor embargos de declaração ao acórdão impugnado, o que não foi noticiado.
+A propósito:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. CRIME DE FALSO TESTEMUNHO. AUSÊNCIA DE REINQUIRIÇÃO. TEMA NÃO ANALISADO PELA CORTE LOCAL. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SUPRESSÃO DE INSTÂNCIA. 2. CONCURSO DE AGENTES. ADVOGADO DENUNCIADO COMO PARTÍCIPE. POSSIBILIDADE. PRECEDENTES. 3. RECURSO EM HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+1. O Tribunal de origem não apreciou o fato de que não houve a reinquirição das testemunhas. O instrumento processual correto para se sanar eventual omissão são os embargos de declaração, os quais não foram opostos pelo recorrente. Assim, não tendo a Corte local se manifestado sobre o tema, tem-se supressão de instância, o que inviabiliza o exame do tema pelo Superior Tribunal de Justiça.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido e, nessa parte, desprovido. (RHC n. 106.395/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/03/2019, DJe 16/04/2019; grifamos).
+Por derradeiro, anoto que a aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo a qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, o Tribunal de origem, ao analisar a questão, apresentou fundamentação idônea para afastar, por ora, a alegação de mora processual injustificada. Confira-se o seguinte trecho do acórdão impugnado (fls. 211-213):
+A decisão de primeira instância encontra-se devidamente fundamentada (doc. ordem nº 2 - f. 2/3), sendo que, na oportunidade, a douta Juíza a quo ressaltou que a sessão do Tribunal do Júri já deveria ter sido realizada, o que não ocorreu em razão de pedido formulado pelas defesas, que requereram o desmembramento do feito em relação ao réu.
+Destacou ainda que, após a designação de nova data, a própria defesa do requerente novamente solicitou o adiamento da sessão, alegando a existência de viagem previamente agendada. Dessa forma, segundo fundamenta, o atraso na tramitação do feito decorre exclusivamente de sucessivos pedidos da defesa, que reiteradamente requer a redesignação do julgamento.
+Por fim, consignou que o juízo não dispõe de pauta disponível para agendar ou reagendar audiências conforme conveniências pessoais das partes ou compromissos particulares de seus patronos.
+Assim, nas informações prestadas, a autoridade apontada como coatora justificou-se que, devido ao significativo número de audiências realizadas pelo juízo e falta de espaço em pauta de audiências, a sessão do júri foi reagendada para o dia 04/11/2025 (doc. ordem nº 07).
+Salientou ainda, na oportunidade, que o atraso na realização do ato deve ser atribuída tão somente à defesa do paciente, que solicitou a redesignação do júri em duas ocasiões.
+Por fim, cumpre registrar ainda que, estando encerrada a fase probatória e proferida a decisão de pronúncia (conforme id 10457891520), afasta-se a alegação de excesso de prazo, por força da Súmula 21 do STJ e 18 do TJMG.
+Assim, não há desídia do Poder Judiciário na tramitação do feito, pois conforme entendimento do STJ, encerrada a fase de pronúncia não subsistem as alegações de excesso de prazo, nos termos da Súmula 21, do STJ, in verbis:
+"Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo da instrução. Portanto, inexiste ilegalidade na manutenção da prisão preventiva do paciente, uma vez que reconhecida sua necessidade para garantia da ordem pública e constatado regular andamento do processo".
+Do excerto transcrito, verifica-se que a tramitação processual, embora se prolongue no tempo, tem seu ritmo justificado pela complexidade inerente ao feito. Não se vislumbra, a partir dos elementos constantes dos autos, um cenário de inércia, desídia ou paralisação indevida da máquina judiciária. Pelo contrário, o processo segue seu curso regular, com a prática dos atos necessários à elucidação dos fatos.
+Ausente, portanto, a flagrante ilegalidade que autorizaria a concessão da ordem de ofício, a pretensão defensiva não encontra amparo na via excepcional do habeas corpus impetrado nesta Corte.
+Este entendimento está em conformidade com a jurisprudência consolidada deste Tribunal:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. TRÁFICO DE DROGAS HABEAS CORPUS SUBSTITUTIVO DE RECURSO. EXCESSO DE PRAZO. INOCORRÊNCIA. INSTRUÇÃO ENCERRADA QUANDO DEFESA TRAZ NOVAS PROVAS AOS AUTOS. NOVAS DILIGÊNCIAS REALIZADAS EM RAZÃO DE AÇÃO DA PRÓPRIA DEFESA. INCIDÊNCIA DO ENUNCIADO DE SÚMULA N. 64 DO STJ. PRISÃO PREVENTIVA FUNDAMENTADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO IMPROVIDO. I. CASO EM EXAME
+ ..
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o habeas corpus é admissível como substitutivo de recurso próprio para questionar a prisão preventiva; (ii) se há flagrante ilegalidade ou excesso de prazo que justifique a concessão da ordem.
+III. RAZÕES DE DECIDIR
+ ..
+5. A análise do excesso de prazo deve considerar as particularidades do processo, sendo que, no caso em apreço, o prolongamento da instrução criminal decorreu de diligências provocadas pela defesa, não havendo inércia judicial a configurar constrangimento ilegal.
+6. Ademais, conforme se verifica dos autos, a instrução do feito já encontrava-se encerrada quando a defesa dos réus juntou aos filmagens, sendo inequívoco que a defesa deu causa às novas diligências determinadas pela autoridade judiciária. Clara, portanto, a aplicação da súmula n. 64/STJ que deter, ina que estabelece que " n ão constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa".
+6. A reavaliação da prisão preventiva demandaria o reexame de provas e fatos, o que não se coaduna com a via estreita do habeas corpus, configurando-se, assim, indevida supressão de instância. IV. DISPOSITIVO
+7. Recurso desprovido. (EDcl no HC n. 947.275/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024).
+Não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, sem indícios de desídia ou paralisação imputável aos órgãos estatais responsáveis (AgRg no HC n. 880.474/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/04/2024, DJe de 03/05/2024).
+No mesmo sentido: AgRg no HC 980999/SP, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 01/07/2025, DJEN de 04/07/2025; AgRg no RHC 202231/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/06/2025, DJEN de 26/06/2025; AgRg no RHC 202354/BA, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 09/04/2025, DJEN de 15/04/2025 .
+Ante o exposto, com base no art. 34, inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça, conheço parcialmente o recurso ordinário em habeas corpus e, nessa extensão, nego-lhe provimento .
+Publique-se. Intimem-se.
+EMENTA
