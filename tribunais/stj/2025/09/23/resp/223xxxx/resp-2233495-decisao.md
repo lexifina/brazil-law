@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por Dirce Maria Alves Santos, com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, assim ementado (fls. 468/476e):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - SUPOSTA DEMORA NO ATENDIMENTO EMERGENCIAL PELO SAMU - ÓBITO - RESPONSABILIDADE SUBJETIVA DO ESTADO - ART. 37, §6º, DA CF/88 - OMISSÃO - NEXO DE CAUSALIDADE NÃO COMPROVADO. A responsabilidade do Município pelos prejuízos causados por seus agentes a terceiros, em regra, é objetiva, à luz da teoria do risco administrativo, exigindo apenas que a vítima comprove o dano sofrido, a ação praticada pela Administração e o nexo causal entre a conduta e a lesão, o que caracteriza a responsabilidade objetiva, preceituada no artigo 37, § 6º, da Constituição Federal. Contudo, na hipótese de danos causados pela omissão do Município ou do Estado, a responsabilidade do poder público será verificada com base na teoria subjetiva. Ausente a comprovação de atuação negligente por parte do serviço de atendimento emergencial, bem como, restando inexistente o nexo de causalidade entre tal atuação e o óbito da paciente, tem-se por afastada a responsabilidade dos entes da Administração Pública pela reparação dos danos experimentados pelo munícipe paciente.
+Embargos de declaração rejeitados (fls. 501/506e).
+No recurso especial, a recorrente alega violação ao art. 1.022 do CPC/2015, ao argumento de que a Corte local deixou de se manifestar sobre pontos relevantes para o deslinde da controvérsia, em especial quanto à aplicação da teoria da perda de uma chance.
+Aduz, ainda, ofensa ao art. 182 do Código Civil, sustentando que o acórdão recorrido deixou de aplicar corretamente a referida teoria.
+Com contrarrazões (fls. 527/533e).
+Juízo positivo de admissibilidade (fls. 539/541e).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Ademais, quanto à suposta violação ao art. 182 do Código Civil, verifica-se a deficiência da fundamentação recursal, pois a parte recorrente não desenvolveu argumentação suficiente para demonstrar em que consistiria a alegada ofensa ao dispositivo legal mencionado. Além disso, no caso dos autos, o referido artigo não contém comando normativo apto a infirmar o juízo formulado no acórdão recorrido. Aplica-se, portanto, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO NÃO CONFIGURADA. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO APONTADO. FALTA DE PARTICULARIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
