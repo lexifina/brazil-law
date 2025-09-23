@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por Oirisson Moreira Carrico, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais na Revisão Criminal n. 1.0000.22.290100-1/000 (fls. 1.298/1.309).
+Apontou a defesa que o recorrente sofreu condenação pela prática dos crimes descrito no art. 157, § 2º, I e II, e art. 157, § 2º, I, ambos do Código Penal, à pena de 21 anos e 4 meses de reclusão, em regime inicial fechado. No entanto, a decisão condenatória incorreu em violação do art. 226 do Código de Processo Penal, ao admitir como prova reconhecimento do acusado realizado em desacordo com o procedimento legalmente estabelecido.
+Ao final da peça recursal, requereu o provimento do recurso, com a anulação da sentença condenatória e consequente absolvição pelos delitos de roubo (fl. 1.328).
+Oferecidas contrarrazões (fls. 1.353/1.362), o recurso especial foi admitido na origem (fls. 1.366/1.368).
+A Procuradoria-Geral da República opinou pelo desprovimento do recurso especial (fls. 1.383/1.388):
+É o relatório.
+A despeito dos argumentos invocados pela defesa, não se cogita de absolvição do acusado pela nulidade do reconhecimento operado em suposta inobservância ao art. 226 do Código de Processo Penal.
+Sobre o ponto, cediço que a jurisprudência desta Corte Superior consolidou o entendimento de que o art. 226 do Código de Processo Penal não consiste em mera recomendação, devendo o procedimento ser observado para fins de que seja reputado como válido. Nesse sentido, inclusive, a Terceira Seção fixou a seguinte tese em sede de recursos repetitivos (Tema n. 1258), no julgamento do Recurso Especial n. 1.987.651/RS:
+1 - As regras postas no art. 226 do CPP são de observância obrigatória tanto em sede inquisitorial quanto em juízo, sob pena de invalidade da prova destinada a demonstrar a autoria delitiva, em alinhamento com as normas do Conselho Nacional de Justiça sobre o tema. O reconhecimento fotográfico e/ou pessoal inválido não poderá servir de lastro nem a condenação nem a decisões que exijam menor rigor
+quanto ao standard probatório, tais como a decretação de prisão preventiva, o recebimento de denúncia ou a pronúncia.
+2 - Deverão ser alinhadas pessoas semelhantes ao lado do suspeito para a realização do reconhecimento pessoal. Ainda que a regra do inciso II do art. 226 do CPP admita a mitigação da semelhança entre os suspeitos alinhados quando, justificadamente, não puderem ser encontradas pessoas com o mesmo fenótipo, eventual discrepância acentuada entre as pessoas comparadas poderá esvaziar a confiabilidade probatória do reconhecimento feito nessas condições.
+3 - O reconhecimento de pessoas é prova irrepetível, na medida em que um reconhecimento inicialmente falho ou viciado tem o potencial de contaminar a memória do reconhecedor, esvaziando de certeza o procedimento realizado posteriormente com o intuito de demonstrar a autoria delitiva, ainda que o novo procedimento atenda os ditames do art. 226 do CPP.
+4 - Poderá o magistrado se convencer da autoria delitiva a partir do exame de provas ou evidências independentes que não guardem relação de causa e efeito com o ato viciado de reconhecimento.
+5 - Mesmo o reconhecimento pessoal válido deve guardar congruência com as demais provas existentes nos autos.
+6 - Desnecessário realizar o procedimento formal de reconhecimento de pessoas, previsto no art. 226 do CPP, quando não se tratar de apontamento de indivíduo desconhecido com base na memória visual de suas características físicas percebidas no momento do crime, mas, sim, de mera identificação de pessoa que o depoente já conhecia anteriormente.
+No caso sob análise, contudo, observo que incidente a inteligência contida no item 4 da tese colacionada, uma vez que a conclusão pela autoria delitiva se deu a partir do exame de provas e evidências independentes, que não guardem relação de causa e efeito com o reconhecimento realizado.
+Nessa linha, destaco excerto do acórdão proferido pelo Tribunal de origem (fls. 1.303/1.306):
+ ..
+A menção acerca do tipo físico do réu, bem como de sinal característico, no caso, tatuagem no dorso da mão, trouxe certeza à identificação realizada.
+Em nenhum momento, durante o inquérito, foi requerida a realização de diligência para reconhecimento de pessoas, procedimento este que, ademais, se revelou despiciendo, diante do restante dos elementos reunidos no caderno investigativo, notadamente a confirmação de sinal físico característico do autor do crime.
+O reconhecimento de pessoas previsto no art. 226 do Código de Processo Penal constitui diligência a ser praticada quando houver dúvida acerca da identidade do acusado, ausente no presente caso, não havendo falar, assim, em ofensa ao mencionado dispositivo legal.
+Saliento, por oportuno, que o reconhecimento fotográfico se traduz em meio de investigação legítimo e lícito, sendo apto a deflagrar investigações acerca da autoria delitiva, inexistindo qualquer irregularidade quanto ao mesmo.
+Ademais, conforme já mencionado, o acórdão rescindendo extraiu a conclusão da autoria de várias provas afora o reconhecimento fotográfico, oportuna a transcrição:
+"Extrai-se das declarações ofertadas por Rodrigo Gamarano Gomes nítida convicção de que o autor do roubo, de fato se trata do apelante. Sem muito esforço, é possível constatar que Rodrigo narrou com objetividade o modus operandi empregado pelo réu, que após declarar que se tratava de um roubo, com segurança conduziu o veículo Tempra até ingressar em uma estrada de terra e determinar que Rodrigo saísse do veículo, tudo com a arma de fogo em sua direção.
+Ao descrever as características físicas do autor do crime, antes mesmo de reconhecê-lo por fotografia, Rodrigou apontou uma tatuagem na mão do agente, tatuagem esta existente no dorso da mão do réu conforme se pode notar dos depoimentos da sogra do increpado, a saber, a testemunha Margareth de Paula Barbalho, bem como das informações prestadas por Leidiane, a qual estava no sítio durante a preparação do bando para os roubos às agências bancárias.
+Isto evidenciado, a meu ver, improcede a alegação defensiva no sentido de que a prova judicial é fraca e que a condenação baseou-se unicamente em elementos colhidos na fase policial.
+Repiso que o depoimento prestado na fase inquisitorial pela testemunha Margareth de Paula Barbalho, nesta parte fora devidamente confirmado em juízo às fls. 194/196.
+Idêntica é a ratificação das informações prestadas por Leidiane Martins Pires, que sob o crivo do contraditório judicial, às fls. 199/201 confirmou integralmente às informações ofertadas na Delegacia de Polícia.
+Em que pese Rodrigo Gamarano Gomes ter sido dispensado pelas partes em juízo, tem-se que as suas declarações anunciadas perante a Autoridade Policial foram sobejamente corroboradas pela prova judicial, o que desautoriza o acolhimento do pleito absolutório com base na insuficiência probatória.
+Forte nisso, a mantença da condenação pelo cometimento do crime de roubo majorado pelo emprego de arma em face da Rotacar Estacionamento é medida que se impõe.
+ ..
+Entendeu o acórdão que a conclusão da autoria quanto aos três crimes não decorreu apenas do reconhecimento fotográfico, mas, isto sim, do restante da prova, confirmada em juízo, que descreveu com riqueza de detalhes o envolvimento do réu e de outros indivíduos na prática dos ilícitos.
+O que se tem, portanto, é que o acórdão rescindendo justificou o entendimento adotado com base no livre convencimento do julgador, amparado nos elementos probatórios existentes nos autos, fundamentando de forma adequada a condenação.
+ ..
+A partir do excerto colacionado, desponta evidente que a autoria não decorreu exclusivamente do reconhecimento realizado, mas de outras circunstâncias independentes.
+Nesse sentido, as vítimas e testemunhas esclareceram a dinâmica dos fatos, apontando o recorrente como autor do delito. Além disso, Oirisson foi identificado por uma característica bastante específica, uma tatuagem no dorso da mão.
+Desse modo, não há como acolher a alegação de que a condenação foi derivada direta ou indiretamente da inobservância do art. 226 do Código de Processo Penal.
+A corroborar, destaco o AgRg no AREsp n. 2.818.372/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/8/2025, DJEN de 27/8/2025.
+Logo, independentemente de eventual inobservância ao art. 226 do Código de Processo Penal, não verifico ilegalidade na conclusão alcançada pelo Tribunal de origem, tendo em vista que a solução condenatória também restou alicerçada em elementos de prova independentes ao reconhecimento realizado. Daí que não há se falar em absolvição do recorrente, soçobrando o argumento defensivo no ponto.
+Ressalto que para desconstituir essas premissas fáticas e cogitar de eventual violação de preceito federal, seria necessário o revolvimento do conjunto probatório, o que não se admite na via eleita, nos termos da Súmula 7 do STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se .
+EMENTA
+RECURSO ESPECIAL. ROUBO. VIOLAÇÃO DO ART. 226 DO CPP. PLEITO ABSOLUTÓRIO CALCADO NA ILICITUDE DA PROVA OBTIDA EM RECONHECIMENTO PESSOAL. IMPROCEDÊNCIA. PROVA INDEPENDENTE APTA A RESPALDAR A CONDENAÇÃO. PRECEDENTES DESTA CORTE.
+Recurso especial improvido.
