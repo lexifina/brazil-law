@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO TENTADO. LIGAÇÃO CLANDESTINA DE ENERGIA ELÉTRICA. TESE DE DESISTÊNCIA VOLUNTÁRIA. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, cabível apenas para sanar ambiguidade, obscuridade, contradição ou omissão no julgado, nos termos do art. 619 do Código de Processo Penal, admitindo-se, ainda, sua utilização para corrigir erro material. É insuficiente, todavia, a mera irresignação com a conclusão adotada no acórdão, sendo inviável seu uso como meio de rediscutir a matéria já decidida.
+2. No caso, o acórdão embargado examinou de forma clara e suficiente a tese defensiva relativa à desistência voluntária, concluindo que a interrupção da conduta se deu em virtude de intervenção policial, afastando, assim, a voluntariedade exigida pelo art. 15 do Código Penal.
+3. A defesa almeja exame aprofundado de provas, providência incompatível com a estreita via do habeas corpus, conforme devidamente ressaltado no acórdão. Não há, portanto, omissão a ser sanada.
+4. Ademais, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pela defesa de JEFFERSON DA SILVA MACHADO contra acórdão que negou provimento ao agravo regimental interposto contra decisão que não conheceu do habeas corpus, assim ementado (e-STJ fl. 526):
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. LIGAÇÃO CLANDESTINA DE ENERGIA ELÉTRICA. TESE DE DESISTÊNCIA VOLUNTÁRIA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO NÃO PROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Na hipótese, a Corte local afastou a tese de desistência voluntária, reconhecendo que os atos praticados (posicionamento de escada, isolamento do local, uso de equipamentos de segurança) superaram a fase preparatória e caracterizaram início de execução. A retirada dos materiais ocorreu em razão da intervenção policial, afastando a voluntariedade necessária.
+3. O reexame da prova para análise de tese defensiva é incabível na via do habeas corpus.
+4. Agravo regimental não provido.
+Sustenta a defesa a ocorrência de omissão e contradição no julgado embargado. Alega, em síntese, que a decisão afastou a tese de desistência voluntária sob o fundamento de que o agravante e o corréu apenas cessaram a conduta criminosa em razão da intervenção policial, sem, contudo, indicar de qual depoimento testemunhal teria extraído tal conclusão, o que configuraria violação aos princípios da publicidade e da transparência.
+Argumenta, ainda, que foram suscitadas contradições relevantes entre os depoimentos prestados na fase policial e aqueles colhidos em juízo pelas testemunhas de acusação, circunstância não enfrentada no acórdão embargado. Defende que tal contradição compromete a credibilidade da prova utilizada como base da condenação e da rejeição da tese defensiva.
+Requer, ao final, o acolhimento dos embargos de declaração, com atribuição de efeito modificativo, a fim de que seja reconhecida a nulidade do acórdão proferido pela Corte local ou, subsidiariamente, concedida a ordem de habeas corpus para trancar a ação penal ou determinar a prolação de novo acórdão com apreciação expressa das teses defensivas.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO TENTADO. LIGAÇÃO CLANDESTINA DE ENERGIA ELÉTRICA. TESE DE DESISTÊNCIA VOLUNTÁRIA. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, cabível apenas para sanar ambiguidade, obscuridade, contradição ou omissão no julgado, nos termos do art. 619 do Código de Processo Penal, admitindo-se, ainda, sua utilização para corrigir erro material. É insuficiente, todavia, a mera irresignação com a conclusão adotada no acórdão, sendo inviável seu uso como meio de rediscutir a matéria já decidida.
+2. No caso, o acórdão embargado examinou de forma clara e suficiente a tese defensiva relativa à desistência voluntária, concluindo que a interrupção da conduta se deu em virtude de intervenção policial, afastando, assim, a voluntariedade exigida pelo art. 15 do Código Penal.
+3. A defesa almeja exame aprofundado de provas, providência incompatível com a estreita via do habeas corpus, conforme devidamente ressaltado no acórdão. Não há, portanto, omissão a ser sanada.
+4. Ademais, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se verifica a existência de qualquer dos vícios aptos a ensejar o manejo da presente via recursal. O acórdão embargado enfrentou, de maneira suficiente e clara, as teses deduzidas pela defesa, notadamente quanto à impossibilidade de reconhecimento da desistência voluntária. Restou expressamente consignado que o agravante e o corréu somente cessaram a conduta criminosa em virtude da intervenção policial, afastando, assim, a voluntariedade exigida pelo art. 15 do Código Penal.
+A defesa almeja exame aprofundado de provas, providência incompatível com a estreita via do habeas corpus, conforme devidamente ressaltado no acórdão. Não há, portanto, omissão a ser sanada.
+Ademais, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
