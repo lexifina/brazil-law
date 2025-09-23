@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Companhia Energética do Ceará, desafiando decisão da Vice Presidência do Tribunal de Justiça do Estado do Ceará, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) há aplicação da Súmula 283 ante a falta de refutação específica a fundamento basilar que ampara o acórdão recorrido; (II) ausência de prequestionamento em relação aos arts. 476, 113 e 422 do Código Civil, incidindo a Súmulas 282 e 356/STF; e (III) "o acórdão se fundamentou nas disposições do contrato firmado entre os litigantes, de modo que a pretensão recursal encontra óbice nas Súmulas 5 e 7 do STJ" (fl. 500).
+A parte agravante, em suas razões, sustenta, em síntese: (i) inaplicabilidade da Súmula 283/STF "uma vez que não há deficiência na fundamentação, nem mesmo esta é genérica, pois possuem completa relação com os fundamentos do recurso especial, sendo este devidamente fundamentado" (fl. 508); (II) "o argumento de ausência de prequestionamento, pois como reconhece a jurisprudência do Superior Tribunal de Justiça, não se exige a menção expressa ao artigo de lei tido por violado, bastando que a matéria tenha sido debatida do acórdão recorrido; e (III) "a insurgência recursal não se funda na reanálise provas ou na interpretação de cláusulas contratuais, mas sim na correta aplicação dos princípios da boa fé objetiva e na função social do contrato, expressamente previstos nos artigos 476, 113 e 422 do Código Civil" (fl. 513).
+Impugnação apresentada às fls. 519/528.
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar um dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
