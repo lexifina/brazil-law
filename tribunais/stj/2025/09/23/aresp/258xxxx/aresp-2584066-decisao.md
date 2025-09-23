@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA BIOENERGÉTICA BRASILEIRA S.A. (em recuperação judicial) contra a decisão que inadmitiu o recurso especial com fundamento na ausência de prequestionamento, na incidência da Súmula n. 282 do STF e no art. 1.030, V, do CPC.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso especial é manifestamente protelatório; que não foram preenchidos os requisitos de admissibilidade; que não houve demonstração da relevância da questão de direito federal infraconstitucional; que a agravante não impugnou especificamente os fundamentos da decisão recorrida, atraindo a incidência da Súmula n. 283 do STF; e que a pretensão recursal demanda reexame de provas, o que é vedado pela Súmula n. 7 do STJ. Requer, ao final, o não conhecimento do recurso.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 659):
+EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. penhora. alegação de que o imóvel penhorado não mais pertence à executada, porque foi dado em alienação fiduciária a terceiro. hipótese em que postula a recorrente direito alheio em nome próprio. descabimento. recurso não conhecido.
+Os embargos de declaração opostos foram rejeitados (fls. 796-799).
+No recurso especial, a parte aponta violação dos arts. 831, 832 e 833 do Código de Processo Civil, porque o imóvel penhorado não lhe pertence, sendo inviável a penhora de bem de terceiro.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando-se a desconstituição da penhora do imóvel de matrícula n. 36.306 do Cartório de Registro de Imóveis da Comarca de Formosa (GO).
+Nas contrarrazões, a parte recorrida aduz que o recurso especial é manifestamente protelatório; que não foram preenchidos os requisitos de admissibilidade; que não houve demonstração da relevância da questão de direito federal infraconstitucional; que a agravante não impugnou especificamente os fundamentos da decisão recorrida, atraindo a incidência da Súmula n. 283 do STF; e que a pretensão recursal demanda reexame de provas, o que é vedado pela Súmula n. 7 do STJ. Requer, ao final, o não conhecimento do recurso.
+É o relatório. Decido.
+Na origem, trata-se de agravo de instrumento interposto contra decisão que manteve a penhora de imóvel em execução de título extrajudicial.
+A Corte estadual não conheceu do agravo de instrumento sob o fundamento de que a agravante não possui legitimidade para postular direito alheio em nome próprio.
+A agravante alega a violação dos arts. 831, 832 e 833 do CPC sob o fundamento de que o imóvel penhorado não lhe pertence, sendo inviável a penhora de bem de terceiro.
+O acórdão recorrido concluiu que a recorrente não possui legitimidade para impugnar a penhora do imóvel de matrícula n. 36.306 do Cartório de Registro de Imóveis de Formosa, pois o bem não mais lhe pertence, pois foi dado em alienação fiduciária a terceiro.
+O Tribunal de origem destacou que, nos termos do art. 18 do Código de Processo Civil, é vedado à parte postular direito alheio em nome próprio, sendo necessário que eventuais terceiros interessados utilizem os meios processuais adequados para a defesa de seus direitos.
+Observa-se que as matérias relacionadas aos arts. 831, 832 e 833 do CPC não foram objeto de debate no acórdão recorrido, o que configura ausência de prequestionamento.
+Registre-se que o prequestionamento exige que a matéria controvertida tenha sido efetivamente debatida e apreciada no Tribunal de origem, o que não ocorreu na espécie, razão pela qual é caso de aplicação da Súmula n. 282 do STF.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE QUE HÁ CONTINUIDADE TÍPICO-NORMATIVA DAS CONDUTAS IMPUTADAS APÓS A EDIÇÃO DA LEI N. 14.230/2021. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 356/STF. RETROATIVIDADE DA LEI N. 14.230/2021. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL. TEMA DE REPERCUSSÃO GERAL N. 1.199/STF. ELEMENTOS SUBJETIVOS (DOLO OU CULPA) NÃO RECONHECIDOS PELO TRIBUNAL DE ORIGEM. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7/STJ. ART. 11 DA LEI DE IMBROBIDADE ADMINISTRATIVA. TAXATIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem não apreciou, sob o enfoque trazido no recurso especial, a tese segundo a qual as condutas imputadas aos ora Agravados têm continuidade típico-normativa após a edição da Lei n. 14.230/2021, pois permanecem previstas no inciso V do art. 10 da Lei n. 8.429/92, sem que a parte agravante tenha oposto embargos de declaração. Ausente o necessário prequestionamento. Incidência das Súmulas n. 282 e 356, ambas do STF.
+2. Nos termos dos arts. 9º, 10 e 11, da Lei n. 8.4298/92, com a redação dada pela Lei n. 14.230/2021, bem como considerando-se o entendimento fixado pelo Supremo Tribunal Federal no Tema de Repercussão Geral n. 1.199/STF, para a tipificação do ato de improbidade administrativa, é necessário comprovar que a conduta do agente caracteriza-se pelo dolo específico.
+3. In casu, como é possível se depreender dos excertos do acórdão recorrido antes transcritos, o Tribunal de origem, soberano quanto ao exame do acervo fático-probatório acostado aos autos, concluiu pelo afastamento, na hipótese, de dolo ou culpa nas condutas dos ora Agravados, afastando, dessa forma, a aplicação da Lei n. 8.429/92.
+A inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+4. O Tribunal de origem adotou entendimento que não destoa da jurisprudência desta Corte Superior de Justiça, segundo o qual é taxativo o rol de condutas preconizadas no art. 11 da Lei n. 8.429, com a redação dada pela Lei n. 14.230/2021.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.708.114/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
