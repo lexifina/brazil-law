@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 17/09/2025 a 23/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FALTA DE IDENTIDADE OU SEMELHANÇA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CUMPRIMENTO DO QUE DISPÕEM OS ARTS. 1.043, § 4º, DO CPC E 266, § 4º, DO RISTJ.
+1. O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+2. Não há identidade ou semelhança entre os acórdãos apresentados a confronto analítico, razão por que a não admissão do recurso de divergência deve ser mantida ante a falta de cumprimento do que dispõem os artigos 1.043, § 4º, do CPC e 266, § 4º, do RI/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Construtora Canada Ltda. contra decisão, assim ementada (fl. 548):
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRETENSÃO QUE BUSCA A DEMOSTRAÇÃO DE QUE NÃO É APLICÁVEL AO CASO DOS AUTOS A SÚMULA 182/STJ. FALTA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. REGRA TÉCNICA DE ADMISSIBILIDADE DO APELO NOBRE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 315/STJ. RECURSO INDEFERIDO LIMINARMENTE.
+O agravante sustenta que " ..  no ato de interposição dos Embargos de Divergência a Agravante observou a legislação pertinente ao recurso, amparando-o de forma escorreita e criteriosa, não havendo o que se falar em insubsistência dos requisitos de admissibilidade (fl. 565)". Assim, compreende que deve ser afastada a incidência da Súmula 315/STJ, pois enquanto o acórdão recorrido aplicou a Súmula 182/STJ o paradigma apresentado afastou-a para conhecer do recurso.
+Ao final, faz o seguinte pedido (fl. 571):
+Conheça e dê provimento ao recurso, para afastar a decisão que não admitiu os Embargos de Divergência, porquanto não se faz aplicável ao presente caso a Súmula 315/STJ, dado que o Agravante cumpriu com todos os requisitos legais necessários do recurso, com a apresentação de toda a documentação pertinente, assim como por via da apresentação de um acórdão que não conheceu do especial, embora tenha tratado da controvérsia, e, de outro lado, um acórdão paradigma de caso similar que conheceu e julgou o especial, pelo que persiste a divergência de entendimentos quanto à mesma matéria, atinente ao afastamento da sumula 182 do STJ, uma vez houve a impugnação de todos os fundamentos que assentaram a decisão recorrida pelo que deve ser admitido os Embargos, com o intuito de uniformização da jurisprudência deste Excelso Tribunal Superior, devendo ser afastada a aplicação da Súmula 315/STJ.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FALTA DE IDENTIDADE OU SEMELHANÇA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CUMPRIMENTO DO QUE DISPÕEM OS ARTS. 1.043, § 4º, DO CPC E 266, § 4º, DO RISTJ.
+1. O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+2. Não há identidade ou semelhança entre os acórdãos apresentados a confronto analítico, razão por que a não admissão do recurso de divergência deve ser mantida ante a falta de cumprimento do que dispõem os artigos 1.043, § 4º, do CPC e 266, § 4º, do RI/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+A não admissão dos embargos de divergência deve ser mantida.
+Com efeito, colhe-se dos autos que o agravo em recurso especial interposto pelo ora recorrente não foi conhecido por meio de decisão. Segundo consta nessa decisão o agravante não impugnou, especificamente, todos os fundamentos da decisão da Corte de origem que não admitiu o recurso especial.
+O acórdão ora embargado de divergência, por sua vez, negou provimento ao agravo interno interposto contra a referida decisão. O colegiado compreendeu que ela está correta e devidamente fundamentada, porque o agravante não impugnou a aplicação da Súmula 282/STF, que foi utilizada para inadmitir o apelo especial na origem.
+É dizer, na decisão foram aplicados o artigo 932, III, do CPC e o artigo 253, parágrafo único, I, do Regimento Interno, bem como a Súmula 182/STJ, por analogia, pois não foram impugnados especificamente os fundamentos da decisão proferida pelo Tribunal de origem que inadmitiu o apelo especial. Já o acórdão ora embargado de divergência negou provimento ao agravo interno contra a referida decisão ao fundamento de que as alegações do recorrente são incapazes de alterar os fundamentos da decisão agravada.
+Por sua vez, o acórdão apresentado como paradigma tratou de situação diversa. Informa que a Súmula 182/STJ deve ser superada porque o agravante impugnou adequadamente a decisão agravada.
+Desse modo, não se evidencia similitude fático-jurídica a ensejar o processamento dos embargos de divergência quando o acórdão impugnado pela via do recurso de divergência mantém decisão que não conheceu do agravo em recurso especial e foi fundamentada nos artigos 932, III, do CPC e 253, parágrafo único, I, do RISTJ e na Súmula 182/STJ, e acórdão paradigma que reforma a decisão agravada sob a compreensão de que ocorreu a impugnação específica contra a decisão que não admitiu o apelo especial na Corte de origem.
+Portanto, não foi cumprido o que determinam os artigos 1.043, § 4º, do CPC e 266, § 4º, do RI/STJ.
+O que o agravante pretende, em verdade, é rediscutir regra técnica de admissão de recurso dirigido a esta Corte Superior, o que não é cabível em sede embargos de divergência.
+A propósito:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. APLICAÇÃO DE REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O art. 1.043, III, do CPC estabelece caberem embargos de divergência quando um acórdão é de mérito e o outro não. Exige, contudo, que, neste último, tenha sido apreciada a controvérsia. No caso em julgamento, o acórdão embargado não conheceu do recurso especial, em razão do óbice da Súmula 7/STJ. Não houve apreciação da controvérsia propriamente dita; e nem do mérito recursal.
+2. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência de óbices.
+3. Na aplicação do art. 1.022 do CPC, a constatação de ter, ou não, havido omissão ou deficiência na fundamentação do acórdão proferido na origem, em regra, demanda o exame das peculiaridades de cada caso concreto, não existindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+4. Agravo interno ao qual se nega provimento.
+(AgInt nos EAREsp n. 2.526.154/RS, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 18/6/2025, DJEN de 26/6/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISSÍDIO SOBRE FALTA DE FUNDAMENTAÇÃO DO JULGADO. INEXISTÊNCIA. INVERSÃO DO ÔNUS DA PROVA. SÚMULA Nº 7/STJ. DISCUSSÃO SOBRE APLICAÇÃO DE REGRA TÉCNICA. REJULGAMENTO DO APELO ESPECIAL. IMPOSSIBILIDADE. CISÃO DE JULGAMENTO. DESNECESSIDADE. RECURSO NÃO PROVIDO.
+1. A verificação da ocorrência ou não de falta de fundamentação no julgado se dá conforme as peculiaridades da demanda, não ensejando, pois, dissenso pretoriano a ser dirimido em sede embargos de divergência.
+2. Os embargos de divergência não se prestam a discutir o erro ou o acerto do decisum quanto à incidência ou não de regra técnica de conhecimento de recurso especial, como no caso em que o acórdão embargado concluiu pela incidência da súmula nº 7/STJ no tocante à questão relativa à inversão do ônus da prova.
+3. Em homenagem ao princípio da razoável duração do processo e da celeridade processual, é desnecessária a cisão do julgamento dos embargos de divergência com remessa dos autos à Seção especializada se a questão de mérito não vai ser enfrentada porque o recurso uniformizador não ultrapassou o conhecimento.
+4. Agravo interno não provido.
+(AgInt nos EREsp n. 1.918.204/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/2/2025, DJEN de 5/3/2025.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
