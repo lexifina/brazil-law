@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto por FERNANDO CELSO GRASSI FERREIRA XAVIER contra decisão do Tribunal Regional Federal da 6ª Região que inadmitiu o recurso especial (e-STJ fls. 321/323), manejado com fundamento no art. 105, III, alíneas a e c, da Constituição Federal.
+Consta dos autos que o agravante foi denunciado pela prática dos crimes previstos no art. 20 da Lei 4.947/1966 e no art. 48 da Lei 9.605/1998, em razão de intervenção em área de preservação permanente situada às margens do Rio Grande, no Município de Capitólio/MG.
+A princípio, o Juízo da 1ª Vara Federal de Passos/MG reconheceu a prescrição quanto ao art. 20 da Lei 4.947/1966 e entendeu absorvido o art. 48 pelo art. 64 da Lei 9.605/1998. O Tribunal Regional Federal da 1ª Região, em recurso ministerial, afastou a absorção e a prescrição, determinando o prosseguimento da ação penal.
+Posteriormente, o Juízo Federal absolveu sumariamente o réu em relação ao art. 20 da Lei 4.947/1966 e declinou da competência para a Justiça Estadual quanto ao delito do art. 48 da Lei 9.605/1998, por não vislumbrar interesse federal envolvido. (fls. 11/20)
+O Tribunal Regional confirmou a decisão de declínio de competência, e na sequência, rejeitou embargos de declaração manejados pelo agravante. (fls. 153/161 e 192/204)
+A defesa interpôs Recurso Especial (e-STJ fls. 207/231), alegando negativa de prestação jurisdicional e defendendo a consunção entre os arts. 48 e 64 da Lei 9.605/1998, com consequente prescrição.
+O recurso foi inadmitido na o (e-STJ fls. 321/323), afirmando que não houve negativa de prestação jurisdicional e que o acórdão recorrido decidiu corretamente pela competência da Justiça Estadual, afastando a aplicação da consunção e não configurando divergência jurisprudencial.
+Contra esta decisão, a defesa interpôs o presente agravo (e-STJ fls. 327/329).
+O Ministério Público Federal opinou pelo não conhecimento e, subsidiariamente, pelo desprovimento do agravo.
+É o relatório. DECIDO.
+A decisão de inadmissibilidade do Recurso Especial encontra-se devidamente fundamentada. Não há violação ao art. 489, §1º, IV, do CPC, porquanto o Tribunal enfrentou expressamente as teses recursais.
+O ponto central do acórdão recorrido foi o declínio da competência para a Justiça Estadual, sob o argumento de inexistência de interesse federal na persecução do crime ambiental imputado. Tal fundamento é autônomo e suficiente para a manutenção da decisão e não foi devidamente impugnado pela defesa no recurso especial, incidindo a Súmula 283/STF.
+Consta expressamente da decisão : "Registra-se, ademais, que ainda que diferente fosse, houve o declínio da competência da justiça federal quanto à análise do delito ambiental, matéria esta não objeto do presente recurso." (fls. 323)
+Cumpre ressaltar que, a partir do momento em que o Tribunal Regional declarou a competência da Justiça Estadual, eventual exame sobre a subsunção do delito previsto no art. 48 da Lei 9.605/1998 ao art. 64 da mesma lei passa a ser matéria reservada ao juízo competente.
+A apreciação desta Corte, em sede de recurso especial, sobre a consunção pretendida pela defesa importaria em indevida supressão de instância, porquanto a competência para o julgamento do mérito da imputação deslocou-se para a Justiça Estadual - que ainda não recebeu o processo para conhecimento.
+De fato, ainda que haja precedentes desta Corte reconhecendo, em hipóteses específicas, a consunção do art. 48 pelo art. 64 da Lei 9.605/1998 (RHC 130.332/DF, Rel. Min. Nefi Cordeiro, Sexta Turma, DJe 23/09/2020; REsp 1.925.717/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 28/05/2021), a análise concreta sobre a existência de crime autônomo ou de pós-fato impunível somente pode ser realizada pela jurisdição competente, após regular instrução e apreciação em primeiro grau.
+Assim, a atuação do STJ, neste recurso deve se limitar a verificação da correção da decisão que inadmitiu o recurso especial, pela ausência de impugnação específica com relação a competência, sem poder adentrar em questões que, após o declínio, competem exclusivamente à J ustiça Estadual.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial, devendo o processo ser remetido a Justiça Estadual como determinado.
+Publique-se. Intimem-se.
+EMENTA
