@@ -1,0 +1,71 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de JOZUEY SILVA MOURÃO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão proferido no Agravo em Execução n. 0014963-61.2025.8.26.0996.
+Consta dos autos que o paciente foi condenado à pena de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, atualmente em regime fechado, pela prática de crime de tráfico de drogas.
+Neste writ, a impetrante aponta a ocorrência de constrangimento ilegal, porquanto a gravidade abstrata do crime e a longa pena a cumprir não constituem fundamentos idôneos para negar benefícios da execução penal, como o livramento condicional ou progressão de regime.
+Aduz que a decisão judicial deve ser pautada em elementos concretos e particularizados, e não em justificativas genéricas ou abstratas.
+Defende que a Lei n. 10.792/2003 eliminou a obrigatoriedade do exame criminológico para progressão de regime, cabendo ao juiz da execução decidir sobre sua necessidade com base em fundamentação concreta.
+Argumenta que a imposição do exame criminológico sem motivação idônea viola as Súmula n. 439 do STJ e Súmula Vinculante n. 26 do STF.
+Alega que o apenado já cumpriu o lapso temporal necessário e apresenta bom comportamento carcerário, conforme atestado, o que o torna merecedor do benefício pleiteado.
+Sustenta que a negativa do benefício com base em faltas disciplinares antigas ou na gravidade abstrata do delito contraria a legislação e a jurisprudência.
+Requer, liminarmente e no mérito, a concessão da ordem para cassar o referido acórdão e restabelecer a decisão que concedeu o livramento condicional ao paciente.
+Liminar indeferida e requisitada informações (fls. 76/78).
+Manifestação do Ministério Público Federal pelo não conhecimento do writ ou, no mérito, pela denegação d a ordem.
+É o relatório.
+Decido.
+Esta Corte, no julgamento do HC n. 535.063/SP, pela Terceira Seção, sob a relatoria do Ministro Sebastião Reis Junior, em 10 de junho de 2020 (DJe de 25/8/2020), e o Supremo Tribunal Federal, nos precedentes AgRg no HC n. 180.365/PB, da Primeira Turma, relatoria da Ministra Rosa Weber, julgado em 27 de março de 2020 (DJe de 02/04/2020), e AgRg no HC n. 147.210/SP, da Segunda Turma, relatoria do Ministro Edson Fachin, julgado em 30 de outubro de 2018 (DJe de 20/02/2020), consolidaram o entendimento de que não é cabível a utilização do habeas corpus como substitutivo de recurso previsto em lei para a hipótese, salvo em situações excepcionais em que se verifique flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Consta dos autos que o Juízo das Execuções Penais deferiu pedido do sentenciado de livramento condicional sem a necessidade do exame criminológico (fls. 43/45).
+O Tribunal a quo, por sua vez, deu provimento ao recurso ministerial, tecendo as seguintes considerações (fls. 25/29 - negritamos):
+Emerge patente o desacerto da decisão monocrática, posto que o benefício concedido é de maior amplitude e não se afigura razoável que o cativo alcance a liberdade condicional antes de demonstrar sinais de ressocialização, revelando-se imprescindível a verificação do seu comportamento em sistema intermediário para, então, alcançar a almejada liberdade.
+No caso dos autos, o agravado insiste em cometer delitos, ou seja, todas as vezes em que teve oportunidade tornou a delinquir e não demonstrou ter assimilado a terapêutica penal de maneira satisfatória, pois possui histórico prisional desfavorável, maculado pelo fato de ele ser reincidente doloso e ter sido condenado pela prática de delito equiparado a hediondo (fls. 14/15), ou seja, pertinente o temor do Representante do Ministério Público, pois trata-se de indivíduo que retornou ao convívio social, sem que esteja preparado, de modo que razão assiste ao Parquet quando pugna pela realização de exame criminológico, a fim de se avaliar de forma segura e eficaz a condição pessoal do sentenciado.
+Até porque, a recalcitrância revela a necessidade de maior rigor na concessão de benefícios.
+(..)
+Assim, a r. decisão não pode prevalecer, vez que não há nos autos prova cabal que demonstre que o recorrido se revela apto para o abrandamento do regime prisional, de modo a usufruir plenamente deste processo reeducacional, ao reverso, as peculiaridades do caso em exame exigem a submissão do sentenciado ao exame criminológico, vez que o singelo atestado de boa conduta carcerária alcançado pelo cativo não confere garantia de que a sociedade não será alvo de nova investida criminosa, até porque o bom comportamento é simplesmente o mínimo que se pode esperar de alguém que se encontra segregado por ter cometido um crime.
+Ora, diante desse quadro, forçoso convir que a inserção do sentenciado em regime desvigiado é medida temerária, sem que haja elementos suficientes para afastar o perigo que causará à sociedade em liberdade.
+Por tais razões, deve o agravado retornar ao regime fechado até que seja realizado exame criminológico, presidido por comissão multidisciplinar, para que se possa constatar inequivocamente a capacidade do acusado de ser reintegrado à sociedade.
+Ante o exposto, pelo meu voto, DOU PROVIMENTO ao agravo para cassar a decisão recorrida e determinar que o sentenciado JOZUEY SILVA MOURAO retorne ao regime fechado, com a determinação de que seja realizado exame criminológico presidido por comissão multidisciplinar.
+Segundo o art. 112 da Lei de Execução Penal, cuja regra se aplica para fins de livramento condicional por força de seu § 2º, para que o reeducando faça jus a tal benefício, é necessário o preenchimento de requisitos objetivo e subjetivo.
+No que tange ao requisito subjetivo, de acordo com o aludido dispositivo legal, é aferido por meio de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+No entanto, não é vedado ao magistrado o indeferimento do benefício quando, a despeito de o reeducando apresentar atestado de bom comportamento carcerário, entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado. Nesse sentido: AgRg no HC n. 703.499/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/11/2021, DJe de 1º/12/2021, e AgRg no HC n. 514.373/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/9/2019, DJe de 26/9/2019.
+Outrossim, nos termos da jurisprudência desta Corte,
+ a  circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, relator Ministro Felix Fischer, julgado em 28/6/2016).
+No Tema repetitivo n. 1.161, a Terceira Seção desta Corte Superior, por maioria, fixou a seguinte tese:
+a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+É o que consta na ementa:
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.
+1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ.
+2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso).
+3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+4. No caso concreto, o recorrido não preenche os requisitos para a obtenção do livramento condicional, diante da prática de falta grave, considerada pelo juízo da execução como demonstrativa de irresponsabilidade e indisciplina no cumprimento de pena.
+5. Recurso especial provido.
+(REsp n. 1.970.217/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023)
+Observa-se que o Tribunal de origem condicionou o deferimento do pedido de livramento condicional após a realização do exame criminológico, ao concluir que o paciente não preencheu o requisito subjetivo necessário, pois na última vez em que concedido o livramento condicional, o apenado reincidiu na prática de crime grave. Dessa forma, não se identifica constrangimento ilegal que possa ser sanado por essa via.
+A propósito:
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. VIOLAÇÃO DO ART. 619 DO CPP. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 83 DO CP E 131 DA LEP. AFERIÇÃO DO REQUISITO SUBJETIVO CALCADA NO HISTÓRICO PRISIONAL, LEGALIDADE. TEMA N. 1.161/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra os acórdãos do Tribunal de Justiça do Tocantins que reformaram decisão concessiva de livramento condicional ante a ausência de preenchimento do requisito subjetivo.
+2. O Tribunal de origem considerou o histórico prisional do recorrente, incluindo a prática de novo crime e violações durante o regime semiaberto, para indeferir o benefício.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que indeferiu o livramento condicional por comportamento insatisfatório durante a execução da pena, considerando todo o histórico prisional, está em conformidade com o art. 83 do Código Penal e a jurisprudência do STJ.
+4. Outra questão é a alegada violação do art. 619 do CPP, referente à suposta omissão do Tribunal de origem em enfrentar questões levantadas nos embargos de declaração.
+III. Razões de decidir
+5. A fundamentação do recurso especial - no tópico em que foi alegada violação do art. 619 do CPP - foi considerada deficiente, pois o recorrente não indicou, de forma clara e específica, o vício no provimento jurisdicional atacado, incidindo a Súmula 284/STF.
+6. Ainda que fosse possível superar o vício de fundamentação do reclamo, verifica-se que o Tribunal de origem não foi omisso, pois apresentou fundamentação suficiente para manter a decisão que indeferiu o livramento condicional, considerando o histórico prisional do recorrente.
+7. A jurisprudência do STJ, conforme o Tema 1.161, permite a consideração de todo o histórico prisional para a valoração do requisito subjetivo para concessão do livramento condicional.
+IV. Dispositivo e tese
+8. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+Tese de julgamento: "1. A fundamentação deficiente do recurso especial impede o seu conhecimento (Súmula 284/STF). 2. A consideração de todo o histórico prisional é válida para a valoração do requisito subjetivo para concessão do livramento condicional, conforme a jurisprudência do STJ".
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 83; LEP, art. 131.Jurisprudência relevante citada: STJ, REsp 1.970.217/MG, Tema 1161; AgRg no HC 612.296/MG, Rel. Min. Laurita Vaz, Sexta Turma, DJe 26/10/2020; AgRg no HC 624.403/RS, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/12/2020.
+(REsp n. 2.185.614/TO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO PELO TRIBUNAL DE ORIGEM. REQUISITO SUBJETIVO NÃO DEMONSTRADO. HISTÓRICO PRISIONAL COM REGISTRO DE FALTAS GRAVES. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo entendimento firmado pela Terceira Seção no julgamento do Tema Repetitivo n. 1.161, o requisito objetivo previsto no art. 83, III, "b", do Código Penal, na redação dada pela Lei n. 13.964/2019, não limita a análise do requisito subjetivo relativo ao bom comportamento durante a execução da pena ao período de doze meses de referido dispositivo legal, devendo ser considerado para tal fim todo o histórico prisional, inclusive quanto aos fatos anteriores à vigência do Pacote Anticrime. Precedentes.
+2. No caso concreto, o indeferimento do livramento condicional baseou-se na prática de duas faltas graves pelo sentenciado, sendo uma por evasão e outra por novo crime, o que demonstra a instabilidade no comportamento do sentenciado durante a execução da pena e respalda a conclusão pela ausência do requisito subjetivo.
+Decisão de origem em conformidade com a orientação do STJ.
+3. Agravo regimental não provido.
+(AgRg no HC n. 981.254/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+Cabe ressaltar, ainda, que o atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena (AgRg no HC n. 572.409/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/6/2020, DJe de 10/6/2020).
+Nesse contexto, não observo a ocorrência de flagrante ilegalidade na decisão impugnada.
+Ante exposto, não conheço do habeas corpus.
+Comunique-se o teor desta decisão tanto ao Juízo das Execuções quanto ao Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
