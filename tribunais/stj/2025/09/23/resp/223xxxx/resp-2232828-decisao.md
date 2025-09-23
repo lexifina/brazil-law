@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO - OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - CUSTEIO DE TERAPIA COMPORTAMENTAL - CERCEAMENTO DE DEFESA AFASTADO - BENEFICIÁRIO PORTADOR DE TRANSTORNO DE ESPECTRO AUTISTA (TEA) - DOENÇA CRÔNICA QUE NECESSITA DE TRATAMENTO MULTIDISCIPLINAR CONTÍNUO - ENFERMIDADE CLASSIFICADA NO CATÁLOGO INTERNACIONAL DA ORGANIZAÇÃO MUNDIAL DE SAÚDE - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - NEGATIVA INJUSTIFICADA - PSICOMOTRICIDADE - TÉCNICA REALIZADA POR PSICÓLOGOS, TERAPEUTAS OCUPACIONAIS OU FISIOTERAPEUTAS QUE DEVE SER COBERTA PELO PLANO DE SAÚDE - REEMBOLSO INTEGRAL NO CASO DE INEXISTIR PROFISSIONAIS APTOS NA REDE CREDENCIADA - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO" (e-STJ fls. 711/723).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 369 do Código de Processo Civil, em razão do indeferimento da diligência pleiteada, consubstanciada na remessa dos autos ao Nat Jus para emissão de parecer;
+(ii) artigo 10, I e IX, e § 4º, da Lei nº 9.656/1998, tendo em vista que as terapias pleiteadas nos presentes autos não estão descritas no rol da ANS, situação a afastar a obrigatoriedade de custeio; e
+(iii) art. 12, VI, da Lei nº 9.656/1998, ao determinar o reembolso das despesas realizadas em rede não credenciada por mera liberalidade do paciente.
+O prazo para contrarrazões transcorreu in albis (e-STJ fls. 810).
+É o relatório.
+DECIDO.
+A questão de direito tratada no presente recurso especial foi afetada pela Segunda Seção do Superior Tribunal de Justiça como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos - Tema 1.295 -, conforme previsão dos arts. 1.036 e 1.037 do Código de Processo Civil.
+Com efeito, a decisão de afetação conjunta foi proferida nos REsp 2153672/SP e REsp 2167050/SP, de relatoria do Ministro Antônio Carlos Ferreira, na assentada de 26/11/2024, nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO. RITO DOS RECURSO ESPECIAIS REPETITIVOS. DIREITO DO CONSUMIDOR E DIREITO À SAÚDE. PROCESSUAL CIVIL. TRANSTORNOS GLOBAIS DO DESENVOLVIMENTO - TGD. TERAPIA MULTIDISCIPLINAR. LIMITAÇÃO OU RECUSA DA OPERADORA DE PLANO DE SAÚDE - MULTIPLICIDADE DE RECURSOS. ALTA RECORRIBILIDADE. DISPERSÃO JURISPRUDENCIAL NAS INSTÂNCIAS ORDINÁRIAS. SISTEMA DE PRECEDENTES. GESTÃO PROCESSUAL. RECURSO AFETADO.
+1. Controvérsia relativa à possibilidade de o plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar prescrita ao paciente com transtorno global do desenvolvimento.
+2. A jurisprudência do STJ orientou-se no sentido de que se revela abusiva a recusa ou limitação de cobertura de tratamento multidisciplinar prescrito para paciente com transtorno global do desenvolvimento. Profusão de precedentes.
+3. No entanto, malgrado o STJ tenha fixado orientação jurisprudencial uniforme, tem-se verificado significativa dispersão jurisprudencial acerca da matéria, com altíssimo índice de recorribilidade, o que tem conduzido à multiplicidade de recursos nesta Corte Superior
+4. Além dos fundamentos usualmente apontados como justificadores da adoção do sistema de precedentes pela legislação brasileira - estabilidade e previsibilidade decisórias, unidade e coerência sistêmicas, segurança jurídica, isonomia e celeridade - também a racionalização da gestão processual, notadamente diante da massificação da litigiosidade, se revela como significativo alicerce da mudança de paradigma.
+5. Caso concreto em que o Tribunal reconheceu a impossibilidade de limitação do número de sessões anuais de terapia multidisciplinar ao paciente com transtorno global do desenvolvimento, na hipótese, transtorno do espectro autista - TEA.
+6. Questão federal afetada: possibilidade ou não de o plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar prescrita ao paciente com transtorno global do desenvolvimento.
+7. Recurso especial afetado ao rito dos recursos repetitivos, com determinação de sobrestamento de recursos especiais e agravos nos próprios autos, nos termos do art. 1.037, II, do CPC/2015."
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental nº 24/2016, devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Logo, imperativa a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local em relação ao que vier a ser decidido pelo Superior Tribunal de Justiça sobre o Tema 1.295.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
