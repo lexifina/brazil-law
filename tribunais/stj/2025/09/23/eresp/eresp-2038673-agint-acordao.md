@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 17/09/2025 a 23/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. REEXAME NECESSÁRIO. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e o paradigma, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ, o que não se verifica nestes autos com relação ao paradigma decorrente do julgamento do EREsp n. 600.596/RS, CORTE ESPECIAL, que cuida de diploma legal diverso do que foi apreciado no acórdão embargado.
+2. Os paradigmas, segundo a orientação desta Corte Superior, devem ser atuais.
+3. Agra vo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão desta relatoria, que indeferiu liminarmente embargos de divergência.
+Os embargos de declaração foram rejeitados (e-STJ fls. 3.071/3.072)
+Em suas razões, a parte agravante sustenta que (e-STJ fls. 3.079/3.085):
+Com efeito, esse primeiro motivo utilizado para rejeitar liminarmente os embargos de divergência não é procedente, o que justifica o provimento do presente agravo interno para que sejam conhecidos os embargos de divergência sobre o art. 496, § 3º do CPC.
+ ..
+Com todo respeito, Excelência, os embargos de divergência se basearam em dois paradigmas: o primeiro e principal, que é o Recurso Especial nº 927.624 -SP, e o segundo e subsidiário, que é o EREsp n. 600.596/RS.
+ ..
+A similitude fática entre o acórdão recorrido e o acórdão do REsp 927.627/SP é inquestionável, pois enquanto o primeiro diz que é cabível reexame necessária contra sentença que extingue o processo sem resolução de mérito, o segundo diz que não é cabível.
+ ..
+O acórdão recorrido, claramente, disse que cabe. Já o acórdão paradigma (o REsp 927.624/SP), disse que não. E é justamente essa divergência que se pede que, através dos embargos de divergência interpostos, seja sanada, pois é de suma importância que a jurisprudência do STJ a respeito do assunto, consolidada há mais de 20 anos, prevaleça.
+ ..
+O último fundamento utilizada para indeferir liminarmente os embargos de divergência, no tocante à matéria do reexame necessário, foi a suposta ausência de atualidade da divergência, pelo fato do precedente citado ser de 2009.
+Data venia, esse raciocínio não procede.
+Isto porque foi exposto nos embargos de divergência que além dos paradigmas citados, que claramente discrepam sobre a temática debatida - cabimento ou não de remessa necessária contra sentença que extingue o processo sem resolução de mérito - existem inúmeros outros julgados que ainda discutem o assunto, o que demonstra a atualidade do tema.
+Por fim, requer o provimento do recurso (e-STJ fl. 3.087).
+Foi apresentada impugnação às fls. 3.098/3.101 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. REEXAME NECESSÁRIO. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e o paradigma, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ, o que não se verifica nestes autos com relação ao paradigma decorrente do julgamento do EREsp n. 600.596/RS, CORTE ESPECIAL, que cuida de diploma legal diverso do que foi apreciado no acórdão embargado.
+2. Os paradigmas, segundo a orientação desta Corte Superior, devem ser atuais.
+3. Agra vo interno a que se nega provimento.
+VOTO
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos, os quais devem ser mantidos (e-STJ fls. 3.050/3.053):
+Trata-se de embargos de divergência em recurso especial interpostos contra acórdão da SEGUNDA TURMA, Relator Ministro FRANCISCO FALCÃO, assim ementado (e-STJ fls. 2.933/2.934):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. SENTENÇA QUE EXTINGUE A DEMANDA SEM EXAME DE MÉRITO. REEXAME NECESSÁRIO. CABIMENTO. ESTABILIZAÇÃO DA TUTELA ANTECIPADA CONCEDIDA EM CARÁTER ANTECEDENTE. APRESENTAÇÃO DA CONTESTAÇÃO PELO RÉU, A DESPEITO DA AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. AFASTADA A ESTABILIZAÇÃO DA TUTELA ANTECIPADA.
+I - Na origem, a parte autora ajuizou tutela antecipada em caráter antecedente em desfavor do Estado de Minas Gerais objetivando a concessão de decisão antecipatória da tutela para anular ato que a excluiu de concurso para admissão no Curso de Formação de Soldados da Polícia Militar do Estado de Minas Gerais.
+II - O recurso especial não foi conhecido. O agravo interno foi desprovido, mantidos os fundamentos da decisão monocrática. Verificado que a matéria posta em discussão merece maior aprofundamento, especialmente no que concerne à direta análise das razões dispendidas nas razões do recurso especial e, ainda, nas razões de agravo interno, as quais não foram diretamente examinadas por este colegiado, devem ser acolhidos os embargos para sanar as omissões apontadas.
+III - A sentença extintiva do processo, ainda que sem julgamento de mérito, deve se sujeitar ao duplo grau de jurisdição, nos termos do art. 496 do CPC, especialmente quando a demanda não tem valor econômico aferível. Assim, cabível o reexame necessário, ainda que não haja apelo voluntário da Fazenda Pública.
+IV - A estabilização da demanda, trazida pelo CPC, é uma providência que traduz o princípio da economia processual. A intenção é de se abreviar uma demanda desnecessária, muitas vezes exaurida pela própria satisfação da tutela eventualmente deferida.
+V - Um dos requisitos para a estabilização da demanda é a ausência de oposição da parte contrária, traduzida pela ausência de interposição de recurso, no sentido literal, ou, ainda, de defesa no processo principal, após o aditamento da inicial, nos termos do art. 303, § 1º, I e III, do CPC.
+VI - Não se mostra razoável restringir a interpretação do caput do art. 304 do CPC de modo a somente evitar a estabilização da demanda pela interposição de recurso, no sentido estrito do termo, o qual in casu será o agravo de instrumento. A discussão, tanto na contestação quanto no agravo de instrumento, tenderá a se repetir, de modo a criar uma insegurança jurídica pelo fato de a mesma matéria estar sendo discutida simultaneamente em duas instâncias distintas. Sendo que, em agravo de instrumento, o julgador somente possuirá uma visão superficial de sua discussão, enquanto o juiz que aprecia a demanda analisará o feito em toda sua completude, podendo, ao final, manter ou revogar a tutela outrora deferida. Assim, possibilitar que a contestação também evite a estabilização da demanda, bem como seu desejo em prosseguir no debate sobre a pretensão autoral, mostra-se medida mais acertada.
+VII - Manutenção, por outros fundamentos, dos julgados embargados.
+VIII - Embargos de declaração acolhidos, sem efeitos modificativos, para sanar as omissões apontadas.
+A parte embargante defende que o acórdão recorrido contrariou os seguintes julgados:
+(a) REsp n. 927.624/SP, PRIMEIRA TURMA, Relator Ministro LUIZ FUX, DJe de 20/10/2008.
+(b) EREsp n. 600.596/RS, CORTE ESPECIAL, Relator Ministro TEORI ALBINO ZAVASCKI, DJe de 23/11/2009. Defende que "não cabe remessa necessária em face de sentença que extingue o processo sem resolução de mérito" (e-STJ fl. 2.953);
+(c) AgInt no REsp n. 2.040.096/MG, PRIMEIRA TURMA, Relator Ministro PAULO SÉRGIO DOMINGUES, julgado em 13/05/2024;
+(d) AgInt no AREsp n. 906.674/SP, SEGUNDA TURMA, Relator Ministro FRANCISCO FALCÃO, DJe de 26/02/2018; e
+(e) AgInt no AgRg no REsp n. 1.349.876/PE, PRIMEIRA TURMA, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 09/03/2020.
+Pede a reforma do acórdão embargado (e-STJ fl. 2.987).
+É o relatório.
+Decido.
+Inicialmente, compete à CORTE ESPECIAL o exame dos embargos de divergência somente em relação aos paradigmas de Turmas que compõem Seção diferente daquela integrada pelo órgão prolator do acórdão embargado.
+Nesse contexto, com o término da jurisdição da CORTE ESPECIAL, os autos devem ser remetidos à PRIMEIRA SEÇÃO, para que enfrente, como entender de direito, a divergência relativa aos paradigmas da PRIMEIRA TURMA e da SEGUNDA TURMA (nesse sentido: EDcl no AgRg nos EDcl nos EREsp n. 1.796.941/PR, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 22/11/2022, DJe de 25/11/2022).
+Dessa forma, passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da SEGUNDA TURMA, e o EREsp n. 600.596/RS, CORTE ESPECIAL, Relator Ministro TEORI ALBINO ZAVASCKI, DJe de 23/11/2009.
+O acórdão recorrido apreciou a controvérsia sobre o cabimento ou não de remessa necessária tendo em vista o art. 496, § 3º, do CPC/2015. Por outro lado, o paradigma da CORTE ESPECIAL, à luz do CPC/1973, considerou que, nos termos "do art. 475, § 2º, do CPC, a sentença não está sujeita a reexame necessário quando "a condenação, ou o direito o direito controvertido, for de valor certo não excedente a 60 (sessenta) salários mínimos"" (e-STJ fl. 2.997).
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ressalte-se, ainda, que o precedente apontado pela parte embargante, de 2009, não serve como paradigma, nos termos dos arts. 1.043 do CPC/2015 e 266 do RISTJ. Nesse contexto, a jurisprudência desta Corte sedimentou o entendimento de que, considerada a finalidade precípua do recurso uniformizador, a admissão dos embargos de divergência exige que o dissenso interpretativo seja atual, isto é, contemporâneo ou superveniente à publicação do acórdão embargado, cuja demonstração dessa atualidade configura pressuposto para seu conhecimento.
+Nesse sentido: AgInt nos EREsp n. 2.017.003/PA, relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 8/8/2023, DJe de 14/8/2023, EDcl no AgInt nos EAREsp n. 1.610.769/ES, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 27/6/2023, DJe de 3/7/2023, AgInt nos EAREsp n. 1.746.965/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 25/4/2023, DJe de 16/6/2023, AgInt nos EREsp n. 1.758.376/RS, de minha relatoria, CORTE ESPECIAL, julgado em 25/4/2023, DJe de 2/5/2023.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência, no que se refere ao paradigma da CORTE ESPECIAL.
+Publique-se e intimem-se.
+Redistribuam-se os embargos à PRIMEIRA SEÇÃO.
+Como aludido, quanto ao EREsp n. 600.596/RS, CORTE ESPECIAL, Relator Ministro TEORI ALBINO ZAVASCKI, DJe de 23/11/2009, "o acórdão recorrido apreciou a controvérsia sobre o cabimento ou não de remessa necessária tendo em vista o art. 496, § 3º, do CPC/2015. Por outro lado, o paradigma da CORTE ESPECIAL, à luz do CPC/1973, considerou que, nos termos "do art. 475, § 2º, do CPC, a sentença não está sujeita a reexame necessário quando "a condenação, ou o direito o direito controvertido, for de valor certo não excedente a 60 (sessenta) salários mínimos"". Incabíveis portanto os embargos, conforme dispõem os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, sendo certo que, cuidando de diplomas legais diversos, não há como reconhecer a similitude entre os acórdãos confrontados.
+Ademais, o paradigma foi publicado em 2009. Seguindo a premissa fixada no art. 1.043 do CPC, o Regimento Interno do Superior Tribunal de Justiça estabelece, em seu art. 266, que "cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal". Diante do texto legal, esta Corte Superior consolidou o entendimento de que a admissão dos embargos de divergência exige que o dissenso interpretativo seja atual, isto é, contemporâneo ou superveniente à publicação do acórdão embargado, atualidade cuja demonstração configura pressuposto para seu conhecimento.
+Nesse sentido: AgInt nos EREsp n. 2.017.003/PA, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 8/8/2023, DJe de 14/8/2023, EDcl no AgInt nos EAREsp n. 1.610.769/ES, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 27/6/2023, DJe de 3/7/2023, AgInt nos EAREsp n. 1.746.965/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 25/4/2023, DJe de 16/6/2023, AgInt nos EREsp n. 1.758.376/RS, de minha relatoria, CORTE ESPECIAL, julgado em 25/4/2023, DJe de 2/5/2023.
+Com referência à alegada divergência com o REsp n. 927.624/SP, PRIMEIRA TURMA, Relator Ministro LUIZ FUX, DJe de 20/10/2008, como já foi esclarecido nos embargos de declaração, "suposta divergência  ..  tendo como paradigmas os acórdãos da PRIMEIRA e da SEGUNDA TURMAS, será avaliada pela PRIMEIRA SEÇÃO, como determinado" (e-STJ fl. 3.072).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+EMENTA
+VOTO-VISTA
+Trata-se de agravo interno interposto por NAYARA FREITAS DOS REIS ao acórdão da Segunda Turma do Superior Tribunal de Justiça, relatado pelo Ministro Francisco Falcão, em sede de embargos de declaração em agravo interno em recurso especial (fls. 2.933/2.947).
+A parte embargante (fls. 2.953/2.987) aduz que há divergência em duas matérias, quais sejam: a) cabimento (ou não) de remessa necessária contra sentença que extingue o processo sem resolução de mérito; e b) adequação apenas do agravo de instrumento como meio apto a afastar a estabilização da tutela antecipada concedida em caráter antecedente ou permissão de outras impugnações para afastar a estabilização.
+Elenca diversos precedentes com o condão de robustecer sua tese, mas aponta como paradigmas do primeiro ponto o REsp n. 927.624/SP, Primeira Turma, Ministro Luiz Fux, DJe 20/10/2008; e o EREsp n. 600.596/RS, Corte Especial, Ministro Teo ri Albino Zavascki, DJe 23/11/2009. Já com relação ao segundo tema indica o AgInt no REsp n. 2.040.096/MG, Primeira Turma, Ministro Paulo Sérgio Domingues, DJe 20/5/2024.
+Em decisão de fls. 3.050/3.053, o relator não conheceu do recurso quanto ao acórdão da Corte Especial e determinou a remessa do feito para a Primeira Seção para análise quanto aos paradigmas da Primeira Turma.
+Embargos de declaração rejeitados por ausência de vícios (fls. 3.071/3.072).
+Na sessão virtual de 2/4/2025 a 8/4/2025, o Relator apresentou voto no sentido de negar provimento ao agravo interno.
+Registro, desde logo, que acompanho o voto de sua excelência.
+A distribuição do presente recurso à Corte Especial deu-se em razão do EREsp n. 600.596/RS, indicado como paradigma. Por tal motivo, inicio a análise da admissibilidade recursal pelo precedente deste órgão colegiado.
+O acórdão embargado indicou as matérias tratadas no recurso especial, quais sejam: a possibilidade de sujeição a reexame necessário da sentença que extingue o processo sem exame de mérito na hipótese do art. 304, § 1º, do CPC; e, ainda, a possibilidade de se estabilizar a tutela após o recebimento da contestação pela outra parte, nos casos em que não foi interposto agravo de instrumento contra a decisão que deferiu o pedido de tutela antecedente (fl. 2.940).
+O paradigma da Corte Especial foi indicado com o escopo de contrastar com o decidido quanto ao primeiro tema em debate (reexame necessário de demanda extinta sem resolução de mérito).
+Ocorre que, conforme salientado pelo Relator do presente recurso, as demandas comparadas não possuem similitude fática apta a ultrapassar o juízo de admissibilidade dos embargos de divergência.
+O presente feito cuida, na origem, de tutela antecipada em caráter antecedente, cuja liminar fora deferida e não houve interposição de recurso. Após apresentação de contestação e de aditamento à inicial, o feito foi extinto com a estabilização dos efeitos da tutela antecipada.
+De outro norte, o acórdão paradigma tratou da expressão "valor certo" no contexto da norma que dispensava o reexame necessário nos casos de condenação "de valor certo não excedente a 60 salários mínimos".
+Além disso, a discussão travada no presente feito gira em torno do instituto da tutela antecipada antecedente, cuja disciplina ocorreu com o advento do CPC/2015. Contudo, o debate travado no aresto paradigma teve como base o CPC/1973.
+Ademais, o acórdão paradigma é datado de 2009, sendo que o julgado de referência foi prolatado antes da vigência do atual Código de Processo Civil. Patente, pois, a ausência do requisito da atualidade do dissídio. Nesse sentido: AgInt nos EREsp n. 1.672.832/RJ, Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 4/12/2020.
+Assim, a parte embargante não se desincumbiu do ônus de demonstrar o alegado dissídio jurisprudencial por meio da identidade fático-processual entre os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa.
+Desse modo, é inviável o manejo de embargos de divergência quando os acórdãos confrontados não apresentam identidade de circunstâncias fáticas que permitam a contraposição de teses jurídicas consideradas abstratamente (AgInt no AgInt nos EDcl nos EAREsp n. 2.046.368/SC, Ministro Og Fernandes, Corte Especial, DJe 26/10/2023).
+No que atine aos acórdãos da Primeira Turma, componente da mesma Seção do acórdão embargado, a alegada divergência apontada deverá ser analisada pela Primeira Seção, por força do art. 12, parágrafo único, I, do RISTJ. Ilustrativamente: AgInt nos EREsp n. 1.755.379/RJ, Ministro Raul Araújo, Corte Especial, DJe 2/12/2022.
+Ante o exposto, nego provimento ao agravo interno.
