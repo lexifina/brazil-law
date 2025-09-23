@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e não conhecer do recurso especial.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. FRAÇÃO. DISCRICIONARIEDADE DO JULGADOR. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O § 4º do art. 33 da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas e não integre organização criminosa.
+2. No caso concreto, foi reconhecido o privilégio e aplicada a fração de redução no patamar de 1/6, considerando a quantidade, a variedade e a nocividade das drogas apreendidas (maconha, cocaína e crack).
+3. Não pode esta Corte Superior, que não constitui instância revisora, proceder à alteração da fração aplicada a título de causa de diminuição de pena, nos termos do artigo 33, § 4º, da Lei nº 11.343/2006, nem da causa de aumento prevista no artigo 40, inciso I, do mesmo diploma normativo, seja para majorá-las, seja para reduzí-las, sem revolver o acervo fático-probatório. Incidência da Súmula 7/STJ (ut, AgRg no REsp 1371371/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 25/9/2013).
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Guilherme de Oliveira Abreu agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL - OMISSÃO NO ARESTO EM RELAÇÃO AO PEDIDO DEFENSIVO DE ALTERAÇÃO DA FRAÇÃO DE DIMINUIÇÃO PREVISTA NO ART. 33, §4º, DA LEI Nº 11.343/06 - PROCEDÊNCIA - OMISSÃO SANADA - PENA MANTIDA - EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+- Tendo ocorrido omissão no aresto em relação ao pedido defensivo de alteração da fração de diminuição prevista no art. 33, §4º, da Lei nº 11.343/06, o vício apontado deve ser sanado, contudo, sem efeitos infringentes, já que a pena fixada em primeira instância fora mantida por ser justa e adequada ao caso concreto. (e-STJ fl. 575)
+A defesa aponta a violação do art. 33, § 4º da Lei n. 11.343/2006, alegando, em síntese, que a quantidade e a natureza das drogas apreendidas (3,3g de cocaína, 502,50g de maconha e 08 pedras de "crack"), não podem ser consideradas tão nocivas e expressivas assim, a ponto de ensejar a redução da pena intermediária na fração mínima de 1/6.
+Contrarrazões às e-STJ fls. 598/600.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 667/672.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REDUTOR DO § 4º DO ART. 33 DA LEI N. 11.343/2006. FRAÇÃO. DISCRICIONARIEDADE DO JULGADOR. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O § 4º do art. 33 da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas e não integre organização criminosa.
+2. No caso concreto, foi reconhecido o privilégio e aplicada a fração de redução no patamar de 1/6, considerando a quantidade, a variedade e a nocividade das drogas apreendidas (maconha, cocaína e crack).
+3. Não pode esta Corte Superior, que não constitui instância revisora, proceder à alteração da fração aplicada a título de causa de diminuição de pena, nos termos do artigo 33, § 4º, da Lei nº 11.343/2006, nem da causa de aumento prevista no artigo 40, inciso I, do mesmo diploma normativo, seja para majorá-las, seja para reduzí-las, sem revolver o acervo fático-probatório. Incidência da Súmula 7/STJ (ut, AgRg no REsp 1371371/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 25/9/2013).
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O recurso não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 4 anos e 2 meses de reclusão, pelo cometimento do crime do art. 33, § 4º da Lei nº 11.343/06.
+A defesa alega que a quantidade e a natureza das drogas apreendidas (3,3g de cocaína, 502,50g de maconha e 08 pedras de "crack"), não podem ser consideradas tão nocivas e expressivas assim, a ponto de ensejar a redução da pena intermediária na fração mínima de 1/6. Sobre o tema, o TJMG assim se pronunciou:
+Portanto, a consideração da natureza e da quantidade de droga apreendida para a escolha da fração redutora do § 4º do art. 33 da Lei n. 11.343/06 não decorre somente do art. 42 da mesma Lei, mas da própria Teoria Geral da Pena, devendo tais circunstâncias ser sopesadas como elementos integrantes do caso concreto, em observância ao princípio da individualização da pena e aos fins de prevenção e repressão desta, devendo o Magistrado decidir, motivadamente, qual a melhor fração de redução a ser aplicada ao réu.
+Pois bem. No caso em apreço, o douto Juiz singular aplicou a fração mínima de redução de 1/6 (um sexto), em razão da quantidade e variedade de entorpecentes. Eis a fundamentação exarada pelo douto sentenciante:
+"Considerando as circunstâncias da prisão, notadamente, a vasta quantidade e variedade de entorpecentes, a diminuição se dará em seu importe mínimo." (doc. 81 dos autos de sequencial 001).
+De fato, entendemos que o mais adequado ao caso é a manutenção da fração mínima de redução de pena (1/6), considerando a significativa quantidade de drogas de três espécies distintas, já que fora apreendida uma barra de maconha com peso aproximado de meio quilo, mais 03 (três) buchas desta mesma substância entorpecente, além de 08 (oito) pedras de crack e 01 (um) pino de cocaína, conforme atestado nos exames preliminares juntados no doc. 11 dos autos de sequencial 001.
+Além disso, vale frisar que a cocaína e o crack possuem altíssimo poder viciante e destrutivo, de modo também a influir na dosagem da fração de diminuição. (e-STJ fls. 578/579)
+Assinala-se que o § 4º do art. 33 da Lei n. 11.343/2006 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas e não integre organização criminosa.
+No caso concreto, foi reconhecido o privilégio e aplicada a fração de redução no patamar de 1/6, considerando a quantidade, a variedade e a nocividade das drogas apreendidas (maconha, cocaína e crack).
+Não há que se falar em inidoneidade do fundamento, isso porque o julgador ao reconhecer a presença dos requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso.
+Ademais, não pode esta Corte Superior, que não constitui instância revisora, proceder à alteração da fração aplicada a título de causa de diminuição de pena, nos termos do artigo 33, § 4º, da Lei n. 11.343/2006, nem da causa de aumento prevista no artigo 40, inciso I, do mesmo diploma normativo, seja para majorá-las, seja para reduzi-las, sem revolver o acervo fático-probatório. Incidência da Súmula 7/STJ" (ut, AgRg no REsp n. 1.371.371/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 25/9/2013).
+Ainda nessa mesma linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. MODIFICAÇÃO DA FRAÇÃO REDUTORA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. FUNDAMENTAÇÃO IDÔNEA. ATENUANTE DA CONFISSÃO. SÚMULA 630/STJ. RECURSO DESPROVIDO.
+1. "Não pode esta Corte Superior, que não constitui instância revisora, proceder à alteração da fração aplicada a título de causa de diminuição de pena, nos termos do artigo 33, § 4º, da Lei nº 11.343/2006, nem da causa de aumento prevista no artigo 40, inciso I, do mesmo diploma normativo, seja para majorá-las, seja para reduzí-las, sem revolver o acervo fático-probatório. Incidência da Súmula 7/STJ" (ut, AgRg no REsp 1371371/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 25/9/2013).
+2. O legislador não delimitou parâmetros para a redução da pena pela causa de diminuição prevista na Lei de Drogas, de forma que o quantum de diminuição fica adstrito ao prudente arbítrio do julgador, que deve observar o princípio do livre convencimento motivado, como in casu.
+3. "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio"(Súmula 630/STJ).
+4. Agravo regimental improvido. (AgRg no REsp n. 1.977.901/SC, desta Relatoria, DJe de 21/2/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO ATACADA. AGRAVO QUE DEVE SER CONHECIDO. ART. 33, § 4º, DA LEI 11.343/2006. QUANTIDADE DE ENTORPECENTES. REDUTOR FIXADO EM 1/6. ALTERAÇÃO DO PATAMAR. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO E NEGAR-LHE PROVIMENTO.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial, deve ser conhecido o agravo.
+2. A reversão do julgado, para fins de alterar a fração da redutora do tráfico privilegiado aplicada em 1/6 em razão da quantidade de drogas apreendidas, demandaria o revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ.
+3. Agravo regimental provido para conhecer do agravo em recurso especial, mas lhe negar provimento. (AgRg no AREsp n. 1.683.013/ES, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/8/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+É o voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relato
