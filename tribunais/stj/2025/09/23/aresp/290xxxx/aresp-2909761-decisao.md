@@ -1,0 +1,91 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELAINE FREIRE DE MORAES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o recurso especial.
+Consta dos autos que a agravante foi condenada em primeira instância pela prática do delito tipificado no artigo 155, caput, do Código Penal, à pena de 1 ano, 7 meses e 7 dias de reclusão, em regime semiaberto, e pagamento de 61 dias-multa, no valor mínimo legal (fls. 390-392). A sentença foi confirmada pelo Tribunal de Justiça de Minas Gerais.
+No recurso especial, a defesa alegou violação aos artigos 1º e 155 do Código Penal, sustentando a necessidade de aplicação do princípio da insignificância, diante do reduzido valor do bem subtraído e da alegada ausência de periculosidade social da ação.
+Argumentou, ainda, que a reincidência, por si só, não impediria o reconhecimento da atipicidade material, apresentando precedentes que admitem a incidência do princípio da insignificância em casos semelhantes, inclusive envolvendo réus reincidentes.
+O Tribunal de origem inadmitiu o recurso especial sob o argumento de que a decisão recorrida está em conformidade com a jurisprudência consolidada do Superior Tribunal de Justiça, que entende pela inaplicabilidade do princípio da insignificância em situações de reincidência específica em crimes patrimoniais. Ressaltou, ainda, que eventual revisão demandaria reexame do conjunto fático-probatório, providência vedada em recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+No presente agravo, a recorrente repisa as teses anteriormente apresentadas, afirmando que não pretende o reexame de provas, mas a revaloração jurídica dos fatos.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+No recurso especial, a Defesa pretende a absolvição do ora recorrente com base na aplicação do princípio da insignificância, ante alegada atipicidade material da conduta que lhe foi imputada.
+O Tribunal a quo, ao apreciar as provas dos autos, consignou que (fls. 397-398, grifei):
+"Postas as premissas, analisando a conduta da ora apelante, entendo que esta não se encontra tutelada pelo princípio supracitado.
+No caso em questão, consoante se infere da CAC de documento de ordem nº 10 (fls. 03/11), a acusada é reincidente específica em crimes contra o patrimônio.
+Sendo assim, não se aplica no caso em apreço o princípio da insignificância, cuja aplicabilidade não visa estimular aqueles que são useiros e vezeiros na prática de crimes, fazendo do crime uma profissão. A concessão de tal benefício geraria na apelante o sentimento de impunidade, deixando toda a sociedade ainda mais desprotegida."
+Colaciono, ademais, segmento da sentença que apreciou o pedido de aplicação do princípio da insignificância (fls. 301-302):
+"Assim, analisando os autos, observa-se que se encontra acostada a Certidão de Antecedentes Criminais da acusada, que aponta ser a mesma contumaz na prática de crimes contra o patrimônio, sendo certo que é multirreincidente, possuindo mais de uma condenação definitiva por crime de furto em seu desfavor, o que torna a conduta reprovável e impede a aplicação do princípio da insignificância por não preencher a acusada os requisitos subjetivos.
+ ..
+CONCLUSÃO:
+Ante o exposto e nos termos do artigo 387 do Código de Processo Penal, JULGO PROCEDENTE a denúncia para CONDENAR a ré Elaine Freire de Moraes, qualificada nos autos, como incursa nas sanções do art. 155, caput, do Código Penal Brasileiro.
+Passo a fixar-lhe a reprimenda, atento às diretrizes do art. 68 do Código Penal Brasileiro, observando as circunstâncias judiciais insertas no artigo 59, do mesmo Codex.
+ ..
+A acusada ostenta maus antecedentes criminais, possuindo mais de uma condenação transitada em julgado, consoante revelam as certidões cartorárias judiciais acostada aos autos, razão pela qual uma delas será valorada nesta fase (autos do processo nº 0842574-47.2010.8.13.0024), e as outras na próxima fase de individualização da pena, a fim de evitar a ocorrência de bis in idem.
+ ..
+Na fase intermediária da aplicação da pena, compenso a circunstância atenuante da confissão espontânea (art. 65, III, "d", CPB) com a circunstância agravante da reincidência (art. 61, I, CPB - condenação definitiva nos autos do processo nº 2237764-68.2015.8.13.0024). Contudo, por se tratar de ré multirreincidente, utilizo das condenações nos autos dos processos nº 1926428-77.2014.8.13.0024 e 1276721-73.2006.8.13.0024 para aumentar a reprimenda em 1/6 (um sexto), ficando a pena intermediária dosada em 01 (um) ano, 07 (sete) meses e 07 (sete) dias de reclusão.
+Inexistindo causas de diminuição ou aumento de pena, mantenho o quantum da pena no patamar anteriormente fixado, tornando-a definitiva e concreta em 01 (um) ano, 07 (sete) meses e 07 (sete) dias de reclusão.
+Em observância aos critérios previstos no art. 59 do Código Penal Brasileiro e diante das disposições do art. 33, § 2º, "b" do mesmo Códex, o regime inicial de cumprimento da pena será o semiaberto, por se tratar de ré reincidente, conforme autorizado pela Súmula 269 do STJ."
+A jurisprudência do Superior Tribunal de Justiça encontra-se consolidada no sentido de que a aplicação do princípio da insignificância, como causa de atipicidade material do delito, exige o preenchimento cumulativo de requisitos objetivos: mínima ofensividade da conduta do agente, ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada.
+Trata-se de construção doutrinária e jurisprudencial orientada pela racionalidade do direito penal mínimo, voltada à contenção do uso excessivo do poder punitivo do Estado, em casos nos quais a intervenção penal não se justifica diante da irrelevância concreta do fato.
+Ocorre, contudo, que esta mesma Corte tem reiteradamente assentado que a reincidência, sobretudo quando específica e relacionada à mesma natureza do delito ora apurado, constitui fator preponderante para o afastamento do princípio da insignificância.
+Não se trata de penalizar, em abstrato, a condição pessoal do agente, mas de aferir, diante do histórico de reiteração, a real reprovabilidade da conduta e o impacto da atuação do Judiciário na repressão e prevenção de práticas lesivas ao bem jurídico tutelado. A habitualidade delitiva demonstra não apenas maior censurabilidade, mas também ineficácia das respostas meramente simbólicas, justificando, portanto, a incidência do direito penal em sua plenitude.
+Nesse sentido:
+"DIREITO PENAL. AGRAVO REGIMENTAL. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA ESPECÍFICA. HABITUALIDADE DELITIVA EM CRIMES CONTRA O PATRIMÔNIO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se pleiteava o reconhecimento da atipicidade material da conduta pela aplicação do princípio da insignificância, visando à absolvição do agravante.
+2. O agravante foi condenado à pena de 1 ano de reclusão, em regime inicial semiaberto, pela prática do delito previsto no art. 155, caput, do Código Penal. O Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso de apelação interposto pela defesa, que buscava a aplicação do princípio da insignificância.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se é aplicável o princípio da insignificância em caso de furto de valor ínfimo, considerando a reincidência específica do agravante em crimes contra o patrimônio.
+III. Razões de decidir
+4. A Corte estadual considerou que a aplicação do princípio da insignificância não é cabível, pois o agravante é reincidente específico em crimes contra o patrimônio, ostentando diversas condenações transitadas em julgado, o que demonstra habitualidade delitiva e afasta o reduzido grau de reprovabilidade da conduta.
+5. A jurisprudência desta Corte Superior de Justiça estabelece que a reincidência e os maus antecedentes afastam a incidência do princípio da insignificância, mesmo em casos de valor ínfimo da res furtiva.
+6. O princípio da insignificância não se aplica a condutas habituais juridicamente desvirtuadas, pois comportamentos contrários à lei, quando transformados em meio de vida, perdem a característica de bagatela.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A reincidência e os maus antecedentes, indicando a habitualidade delitiva, afastam a aplicação do princípio da insignificância. 2. O princípio da insignificância não se aplica a condutas que se tornaram meio de vida, mesmo que o valor da res furtiva seja ínfimo."
+Dispositivos relevantes citados: Código Penal, art. 155.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.407.959/MG, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 06.08.2024;STJ, AgRg no AREsp 2.008.827/MG, Quinta Turma, julgado em 28.11.2023."
+(AgRg no HC n. 980.532/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONTUMÁCIA. REINCIDENTE EM CRIMES CONTRA O PATRIMÔNIO. HABITUALIDADE DELITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Esta Corte tem entendimento pacificado no sentido de que não há que se falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e (d) inexpressividade da lesão jurídica provocada. É assente, ainda, o entendimento deste Superior Tribunal de Justiça no sentido de que a reincidência e os maus antecedentes, via de regra, afastam a incidência do princípio da bagatela.
+II - No caso, afasta-se a incidência do princípio da bagatela pois, embora de valor inexpressivo a res furtiva, não está presente o reduzido grau de reprovabilidade da conduta em face do histórico criminal do agravante.
+III - Cuida-se, pois, de situação que não atrai a incidência excepcional do princípio da insignificância, uma vez que, apesar do valor da res furtiva não ser tão elevado, por se tratar o agravante de "reincidente em crimes contra o patrimônio. Assim, considerando os maus antecedentes e a reincidência do réu Marcos Gabriel Modesto, denotando que o mesmo vem se especializando na prática de crimes patrimoniais" (fl. 115), resta afastado o reduzido grau de reprovabilidade da conduta, não sendo possível a aplicação do princípio da bagatela.
+IV - Não tendo a parte agravante trazido qualquer inovação de fundamento apta a desconstituir os termos da decisão agravada, deve esta ser mantida.
+Agravo regimental desprovido" (AgRg no AREsp n. 2.008.827/MG, Quinta Turma, Rel. Min. Messod Azulay Neto, DJe de 28/11/2023, grifei).
+Fixadas as premissas acima, verifico que, na espécie, trata-se de situação que não atrai a incidência excepcional do princípio da insignificância, uma vez que, apesar de o bem subtraído não deter valor expressivo, a recorrente é contumaz na prática de delitos contra o patrimônio, ostentando contra si 4 (quatro) condenações transitadas em julgado, as quais acarretaram a configuração de maus antecedentes e de multirreincidência, sendo uma delas reincidência específica em crimes patrimoniais, elementos que afastam o reduzido grau de reprovabilidade da conduta e obstam, portanto, o reconhecimento do crime de bagatela.
+Assim, a decisão agravada está amparada também na Súmula 83 desta Corte, a qual prevê o não conhecimento do recurso especial quando a orientação do Tribunal se firmou no mesmo sentido do acórdão recorrido. É esse, precisamente, o caso dos autos: o acórdão estadual, ao rechaçar a tese defensiva, seguiu rigorosamente o entendimento predominante e atual do Superior Tribunal de Justiça, de que a reiteração delitiva e a reincidência afastam, como regra, o reconhecimento da insignificância penal.
+Ilustrativamente:
+"DIREITO PENAL. AGRAVO REGIMENTAL. PRINCÍPIO DA INSIGNIFICÂNCIA. MULTIRREINCIDÊNCIA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, no qual se pleiteava a aplicação do princípio da insignificância.
+2. O agravante foi inicialmente absolvido com base no princípio da insignificância, mas, em sede de apelação, o Tribunal de Justiça do Estado do Tocantins deu provimento ao recurso do Ministério Público, afastando a aplicação do princípio devido à multirreincidência do agravante em crimes contra o patrimônio.
+3. O recurso especial foi inadmitido com base na Súmula n. 83 do STJ, considerando a conformidade do acórdão recorrido com o entendimento firmado sobre o tema recursal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o princípio da insignificância é aplicável em caso de furto de bens avaliados em 16,9% do salário mínimo vigente, considerando a reincidência do agravante em crimes contra o patrimônio.
+III. Razões de decidir
+5. O princípio da insignificância não se aplica quando o valor dos bens subtraídos ultrapassa o parâmetro de 10% do salário mínimo vigente, conforme jurisprudência do Superior Tribunal de Justiça.
+6. A multirreincidência do agravante afasta a aplicação do princípio da insignificância, pois indica periculosidade social e elevado grau de reprovabilidade da conduta.
+7. A restituição dos bens à vítima não afasta a tipicidade do delito nem justifica a aplicação do princípio da insignificância.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. O princípio da insignificância não se aplica quando o valor dos bens subtraídos ultrapassa 10% do salário mínimo vigente. 2. A multirreincidência afasta a aplicação do princípio da insignificância, indicando periculosidade social e elevado grau de reprovabilidade da conduta. 3. A restituição dos bens à vítima não afasta a tipicidade do delito nem justifica a aplicação do princípio da insignificância".
+Dispositivos relevantes citados: CP, art. 155; CPP, art. 316.
+Jurisprudência relevante citada: STF, HC 84.412-0/SP, Rel. Min. Celso de Mello, DJU 19.11.2004; STJ, AgRg no HC 881.822/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 1/7/2024; STJ, AgRg no HC 913.440/GO, de minha relatoria, Quinta Turma, julgado em 18/6/2024.
+(AgRg no AREsp n. 2.862.303/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. PRETENSÃO DE ABSOLVIÇÃO COM FUNDAMENTO NO PRINCÍPIO DA INSIGNIFICÂNCIA. MULTIRREINCIDÊNCIA DO AGENTE. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial, mantendo a condenação do recorrente pelo crime de furto (art. 155, caput, do CP), em razão da inaplicabilidade do princípio da insignificância diante da multirreincidência do agente. A defesa sustentava a atipicidade da conduta, com fundamento no art. 386, III, do CPP. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível aplicar o princípio da insignificância à conduta de furto simples praticada por agente multirreincidente, ainda que a res furtiva (2 kg de carne) possua valor reduzido ou não comprovadamente elevado. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ é pacífica no sentido de que a reiteração delitiva, especialmente em casos de multirreincidência, afasta a aplicação do princípio da insignificância, por demonstrar elevada reprovabilidade da conduta e risco à ordem pública.
+4. A ausência de comprovação do valor exato da res furtiva não afasta, por si só, a tipicidade material, sobretudo quando as circunstâncias subjetivas do agente evidenciam habitualidade criminosa.
+5. A aplicação do princípio da insignificância pressupõe a presença cumulativa de requisitos objetivos e subjetivos, como a mínima ofensividade da conduta, ausência de periculosidade social, reduzido grau de reprovabilidade e inexpressividade da lesão jurídica, o que não se verifica na hipótese dos autos.
+6. Precedentes desta Corte reafirmam que o ínfimo valor do bem subtraído não justifica, por si só, o afastamento da tutela penal, quando há reincidência ou maus antecedentes relevantes. IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+1. A reiteração delitiva, especialmente a multirreincidência, impede a aplicação do princípio da insignificância, ainda que a res furtiva possua valor reduzido ou inexpressivo.
+2. A análise da tipicidade material exige a consideração conjunta de aspectos objetivos e subjetivos da conduta, não se limitando ao valor do bem subtraído.
+(AgRg no AREsp n. 2.569.847/TO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 28/8/2025.)
+O argumento defensivo, no sentido de que seria possível, em caráter excepcional, reconhecer a insignificância mesmo na presença de reincidência, não se mostra suficiente, pois, conforme salientado, inexistem nos autos elementos concretos, identificados pelas instâncias ordinárias, aptos a justificar o afastamento da orientação jurisprudencial consolidada. A excepcionalidade, quando reconhecida por esta Corte, decorre sempre de situações rigorosamente singulares, nas quais a resposta penal se revela desproporcional à luz do conjunto probatório e das condições do agente, o que não se observa no presente feito.
+Em suma, o acórdão recorrido decidiu a controvérsia em estrita observância à orientação dominante do Superior Tribunal de Justiça, não havendo margem para conhecimento do agravo em recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
