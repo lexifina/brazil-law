@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por GERALDO DONI JUNIOR, nos autos de cumprimento de sentença promovido em face de UNIBANCO - UNIÃO DE BANCOS BRASILEIROS S/A e outros.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+"EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. ART. 1.022 DO CPC. ALEGAÇÃO DE OBSCURIDADE E OMISSÃO. NÃO CONFIGURAÇÃO. MERA IRRESIGNAÇÃO PELA ADOÇÃO DE SOLUÇÃO DIVERSA. INCONFORMISMO QUE NÃO SE TRADUZ EM VÍCIO. REANÁLISE DE ARGUMENTOS. VIA INADEQUADA. - O que se verifica dos argumentos trazidos pelo embargante é que a insurgência não se dirige propriamente à indicação de obscuridade, omissão ou contradição, revestindo-se, na realidade, em inconformismo com o raciocínio tecido no acórdão recorrido. - No que respeita à inaplicabilidade do Tema 677 do STJ a fundamentação apresentada no acórdão embargado não tratou da ineficácia da tese fixada pelo STJ, mas sim da ausência de efeito rescisório sobre questão já preclusa. (..) Embargos de declaração rejeitados."
+Em suas razões de recurso especial, o recorrente apontou violação aos artigos 1.022, II, 927, III, § 3º, 1.036, 1.039, 1.040, 494, I, II, IV e VI, 489, § 1º, IV, todos do CPC, bem como aos artigos 354, 389, 394, 395, 401, I, e 944, todos do CC.
+Levantou, em resumo, as seguintes teses: a) omissão quanto ao enfrentamento do "princípio da fidelidade" e necessidade de observar a base de cálculo fixada no título exequendo; b) aplicação obrigatória da nova redação do Tema 677/STJ; c) possibilidade de correção de erros materiais de cálculo sem sujeição à preclusão; d) afastamento da litigância de má-fé; e) necessidade de nova perícia diante da imprestabilidade do laudo.
+Houve contrarrazões e o recurso foi admitido no juízo de origem.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Não há violação ao art. 1.022, II, do CPC.
+Consoante relatado, o insurgente sustenta omissão do acórdão por não ter analisado o "princípio da fidelidade" e a base de cálculo do título exequendo.
+No particular, verifica-se que o Tribunal a quo enfrentou adequadamente a questão central dos autos, qual seja, a inaplicabilidade da nova redação do Tema 677/STJ a questões já preclusas.
+O acórdão fundamentou suficientemente sua decisão ao constatar:
+"a incidência de encargos sobre o valor objeto de execução transitou em julgado antes da nova redação do tema 677/STJ"
+ ..
+"estando-se diante de questão sobre a qual já se operou a preclusão consumativa, a superveniente tese fixada sob a sistemática dos recursos repetitivos não autoriza a imediata e automática revisão da matéria, sob pena de afronta ao art. 507, do CPC".
+Nesse quadro, observa-se que a questão posta em discussão foi dirimida pelo Tribunal de origem de forma suficientemente ampla e fundamentada, não se divisando a alegada omissão. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. CONCORRÊNCIA DESLEAL COMPROVADA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente." (AgInt no AREsp 1560925/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2020, DJe 02/02/2021).
+2. No que tange às alegadas violações aos arts. 927, III, § 3º, 1.036, 1.039, 1.040, 494, todos do CPC, bem como às teses sobre aplicação do Tema 677/STJ, correção de erros materiais, tais questões não guardam conexão com os fundamentos centrais que sustentam o acórdão recorrido.
+No caso presente, o Tribunal de origem proferiu acórdão fundamentado em premissas suficientes para sustentar a conclusão adotada, quais sejam: a preclusão consumativa da matéria e a impossibilidade de efeito rescisório automático de precedentes vinculantes sobre questões já decididas definitivamente.
+Deveras, o acórdão recorrido foi claro ao assentar que "a questão, como visto, já foi objeto de apreciação por esta Corte, decisão que transitou em julgado em 04/07/2022, data anterior da revisão do tema 677 do STJ (19/10/2022)" e que "não se deve confundir aplicação imediata de tese vinculante aos processos em curso com eventual rescindibilidade automática de questão já decidida no processo em caráter definitivo".
+A análise das razões recursais revela, todavia, que o recorrente não impugnou especificamente todos os fundamentos autônomos e suficientes do acórdão recorrido, atraindo a incidência das Súmulas 283 e 284/STF, aplicáveis por analogia aos recursos especiais.
+A Súmula 283/STF dispõe que "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A Súmula 284/STF estabelece que "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com efeito, o acórdão recorrido fundamentou-se em múltiplos fundamentos autônomos e suficientes, quais sejam:
+a) a preclusão consumativa da questão, operada pelo art. 507 do CPC;
+b) a ausência de efeito rescisório automático de teses vinculantes sobre matérias já decididas;
+c) o trânsito em julgado anterior à revisão do Tema 677/STJ (04/07/2022 vs. 19/10/2022);
+d) a diferenciação entre cálculo imprestável e cálculo complementar válido.
+Porém, o recorrente limitou-se a impugnar questões sobre aplicação do Tema 677/STJ e correção de erros materiais, deixando de enfrentar especificamente os fundamentos centrais da preclusão consumativa e da impossibilidade de rescisão automática de questão preclusa.
+Não houve impugnação específica quanto: a) à preclusão operada pelo art. 507 do CPC; b) à diferenciação entre aplicação prospectiva e efeito rescisório de precedentes vinculantes; c) ao trânsito em julgado anterior à revisão do tema.
+A manutenção de qualquer dos fundamentos acima demonstrados é suficiente, individualmente, para sustentar a conclusão do acórdão recorrido, independentemente do acolhimento ou rejeição das teses sobre aplicação do Tema 677/STJ.
+Nesse sentido, é consolidado o entendimento desta Corte:
+"A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal" (AgInt no AREsp 1791138/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 24/5/2021).
+A existência de fundamentos autônomos não impugnados revela, ainda, deficiência na fundamentação recursal que impede a exata compreensão da controvérsia, na medida em que não permite identificar quais aspectos específicos do julgado estariam sendo efetivamente questionados.
+Conforme precedente desta Corte:
+"A ausência de impugnação específica, nas razões do recurso especial, de fundamentos do acórdão recorrido atrai o óbice da Súmula 283 do STF" (AgInt no AREsp 1517980/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 12/5/2021).
+2.1. Ademais, o recorrente não alegou violação aos dispositivos legais pertinentes ao fundamento central do acórdão recorrido, qual seja, a aplicação da preclusão consumativa prevista no art. 507 do CPC.
+O acórdão fundamentou-se na impossibilidade de rediscussão de questão já preclusa, matéria que demandaria a alegação de infringência a dispositivos específicos sobre preclusão e coisa julgada (como os arts. 502, 503, 505 e 507 do CPC), o que não ocorreu de forma adequada na espécie.
+Nos casos em que a arguição é genérica e não são devidamente apontados os dispositivos violados, não se conhece do recurso especial. Incide, na hipótese, o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. A pretensão recursal também esbarra no óbice da Súmula 7/STJ, em especial a pretensão para afastamento da sanção por litigância de má-fé.
+Não bastasse a incidência das Súmulas 283 e 284/STF, também se verifica que a análise da pretensão deduzida nas razões recursais sobre correção de erros materiais e nova perícia exigiria o revolvimento das premissas fático-probatórias delineadas pela Câmara sobre as circunstâncias que levaram à declaração de imprestabilidade do laudo inicial e à validade do cálculo complementar.
+Para desconstituir a convicção formada pelo Tribunal a quo seria necessário o amplo revolvimento do arcabouço fático-probatório dos autos, especialmente quanto à diferenciação entre o cálculo imprestável (mov. 1.93), o cálculo complementar válido (movs. 1.109 e 1.115) e a conduta abusiva de reiterar matéria já multiplamente decidida, que ensejou a sanção por litigância de má-fé, circunstância vedada em sede de recurso especial.
+Incide, no ponto, o óbice da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Por fim, registre-se que, em face da deficiência de fundamentação ora verificada, o recurso também não pode ser conhecido pela divergência jurisprudencial (alínea "c" do permissivo constitucional), porquanto a ausência de impugnação específica de fundamentos autônomos impede a exata compreensão da controvérsia e a adequada realização do cotejo analítico entre os julgados, nos termos da Súmula 284/STF.
+5. Do exposto, conheço em parte e nego provimento ao recurso especial.
+Majoro os honorários advocatícios já fixad os em desfavor do ora recorrente na origem no patamar de 10%, por força do art. 85, § 11º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
