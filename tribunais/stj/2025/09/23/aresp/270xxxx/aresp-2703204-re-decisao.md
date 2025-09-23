@@ -1,0 +1,64 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 1.630-1.631):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. NULIDADE PROCESSUAL. PROVAS INQUISITORIAIS. DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que deu parcial provimento ao recurso especial, excluindo a indenização à vítima fixada no acórdão condenatório, com base na ausência de pedido expresso na denúncia, e mantendo a condenação.
+2. O recorrente alega nulidade processual devido à ausência de oitiva da vítima e fundamentação inadequada na dosimetria da pena, além de condenação baseada em elementos inquisitoriais.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a ausência de oitiva da vítima e a alegação de condenação baseada exclusivamente em elementos inquisitoriais configuram nulidade processual.
+4. Outra questão em discussão é se a dosimetria da pena foi realizada sem fundamentação suficiente, justificando a revisão da pena-base.
+III. RAZÕES DE DECIDIR
+5. A ausência de oitiva da vítima, devidamente justificada, não enseja nulidade processual, especialmente quando a instrução foi conduzida com observância das garantias constitucionais e o conjunto probatório é robusto.
+6. A condenação não se baseou exclusivamente em elementos inquisitoriais, mas em provas judicializadas, como depoimentos de vítimas e testemunhas, além de documentos corroborados pelo contraditório judicial.
+7. A dosimetria da pena foi fundamentada em dados concretos dos autos, não havendo ausência de fundamentação idônea.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de oitiva da vítima, quando justificada, não configura nulidade processual. 2. A condenação baseada em provas judicializadas não se sustenta em elementos exclusivamente inquisitoriais. 3. A dosimetria da pena deve ser fundamentada em dados concretos dos autos."
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que o acórdão combatido carece de fundamentação idônea, especialmente no que tange à condenação e à dosimetria da pena. Argumenta-se que a condenação foi baseada em elementos exclusivamente inquisitoriais, sem a devida individualização das provas judicializadas ou identificação das testemunhas e seus relatos.
+Sustenta que houve cerceamento de defesa e violação ao devido processo legal, em razão da não disponibilização da mídia referente ao depoimento da suposta vítima, Sr. Jheam Claudio. Afirma que tal diligência era imprescindível para o esclarecimento dos fatos e que sua ausência maculou o contraditório e a ampla defesa
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 1.677-1.685).
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 1.635-1.637):
+A controvérsia consiste na alegação de nulidade processual por parte da defesa, que sustenta que a condenação foi baseada exclusivamente em elementos inquisitoriais, sem provas judicializadas suficientes, e que a ausência de oitiva da vítima comprometeu a ampla defesa e o contraditório.
+A decisão agravada está assim fundamentada (e-STJ fls. 1533-1541):
+A ausência de oitiva da vítima nos autos, quando devidamente justificada por circunstâncias que inviabilizam seu comparecimento ou a tomada de seu depoimento, não enseja nulidade do processo. No caso em apreço, a vítima encontrava-se em condição de fragilidade extrema (e-STJ fl. 1093). Após realizadas três tentativas de oitiva de Jeam Claudio de Oliveira Jahel, houve desistência da oitiva desse. Por ocasião da audiência, não houve irresignação da Defesa, motivo pelo qual preclusa a discussão da matéria.
+Conforme entendimento consolidado, o depoimento da vítima é relevante como elemento probatório, pois, sendo o ofendido quem sofreu diretamente os efeitos do delito, é a principal fonte de informações sobre a dinâmica do crime. Contudo, a ausência de sua oitiva não configura, por si só, nulidade processual, especialmente quando a instrução foi conduzida com observância das garantias constitucionais e o conjunto probatório restou suficientemente robusto para embasar a condenação.
+"Consoante a jurisprudência desta Corte Superior, a nulidade suscitada deve ser arguida na primeira oportunidade em que a Defesa tomar ciência do fato, levando-se ao conhecimento do juízo ou da Corte local, por meio do recurso cabível, a ocorrência do vício e o efetivo prejuízo, sob pena de preclusão" (STJ, AgRg no HC n. 763.712/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 25/10/2022, DJe de 14/11/2022).
+Como se observa do trecho acima transcrito, a vítima não foi ouvida porque houve a desistência de sua oitiva, de modo que a ausência de seu depoimento não configura violação a qualquer direito do acusado.
+(..)
+Em relação às demais insurgências do recorrente, sustenta que a dosimetria das circunstâncias do crime foi realizada sem fundamentação suficiente e pleiteia a absolvição por ausência de provas, alegando que a condenação se fundamentou apenas em elementos do inquérito (e-STJ fls. 1336-1379).
+Já a decisão recorrida pelo recurso especial assentou que a materialidade e autoria dos crimes de estelionato e apropriação indébita foram comprovadas por documentos e depoimentos judiciais, que detalharam o modus operandi do acusado, corroborados por testemunhas e pela quebra do sigilo bancário, evidenciando o ganho patrimonial ilícito (e- STJ fls. 1290-1298)
+(..)
+O pleito de absolvição por ausência de provas e uso apenas de elementos do inquérito ignora que o acórdão recorrido destacou a existência de provas judicializadas, como depoimentos de vítimas e testemunhas, além de documentos que corroboram a prática delitiva, todos submetidos ao contraditório judicial. Portanto, a tentativa de afastar a condenação com base na alegação de que somente foram usados elementos inquisitoriais não guarda suporte nas premissas fáticas assentadas na decisão recorrida.
+Da mesma maneira, a alegação de ausência de fundamentação idônea na dosimetria relativa à apropriação indébita deve ser rejeitada. Isso porque a análise do vetor circunstâncias do crime foi amparado em dado concreto dos autos, conforme verifica-se do acórdão recorrido.
+(..)
+Ao julgar a apelação, houve reforma do ponto para afastar todas as circunstâncias judiciais aplicadas em primeiro grau; exceto as circunstâncias do crime
+(..)
+Isto é, o Tribunal a quo, efetivamente justificou, com base em dado concreto do caso, a manutenção do incremento da pena-base quanto a tal vetor, ao contrário do alegado pelo recorrente.
+Por fim, o pedido constante para a ser decotada a condenação a indenização à vítima deve ser provido. Conforme jurisprudência desta Corte, "a fixação do valor mínimo para reparação de danos causados pela infração penal, prevista no art. 387, inciso IV, do Código de Processo Penal, exige pedido expresso formulado na denúncia, com a indicação do montante pretendido, e realização de instrução específica sobre o tema, garantindo o contraditório e a ampla defesa" (AgRg no AR Esp n. 2.263.753/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+(..)
+Consoante entendimento pacificado nesta Corte Superior, consubstanciado na Súmula n. 568 do STJ, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema". Assim, evidenciado que a matéria devolvida já se encontra pacificada no âmbito do Superior Tribunal de Justiça, é legítimo o exame e julgamento do recurso especial em sede monocrática, conforme art. 34, XVIII, do Regimento Interno do STJ.
+Na denúncia apresentada contra o recorrente, não houve pedido expresso de indenização para reparação mínima dos danos causados pelo fato delituoso. A ausência desse elemento na peça acusatória viola o princípio do contraditório, conforme jurisprudência consolidada desta Corte, que exige a formulação do pedido na denúncia, com a indicação do montante pretendido, para que se possa garantir ao réu o direito de defesa e a ampla discussão sobre o tema. Dessa forma, a fixação do valor indenizatório mínimo deve ser excluída, em conformidade com o entendimento pacificado no Superior Tribunal de Justiça.
+Vislumbra-se, portanto, que, além de não ter sido demonstrado prejuízo ao direito de defesa, foram observados o contraditório e a ampla defesa, de modo que não há de se reconhecer qualquer nulidade na espécie.
+Por isso, conclui-se que o recurso deixa de apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado. Em suma, a decisão agravada deve ser mantida por seus próprios fundamentos, razão pela qual nego provimento ao agravo regimental.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
