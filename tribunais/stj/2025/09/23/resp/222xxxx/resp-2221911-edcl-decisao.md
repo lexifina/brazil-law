@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por POSTO AVENIDA LTDA contra decisão que, ao conhecer em parte do recurso especial, negou-lhe provimento.
+A parte embargante alega, em síntese (fls. 295/296):
+Trata-se de decisão que conheceu em parte do recurso especial interposto pela embargante e, nessa extensão, negou-lhe provimento. A decisão embargada, contudo, padece dos vícios de obscuridade e omissão. O primeiro deles (obscuridade) se deve ao fato de que a decisão embargada não indicou especificamente quais seriam os supostos dispositivos legais apontados como violados que não foram objeto de prequestionamento. Vale destacar que os arts. 146 do CTN e 24 da LINDB foram objeto de prequestionamento via embargos de declaração opostos contra o acórdão recorrido  ..  de outra parte, padece de omissão em relação à tese recursal veiculada no item 4 e 4.1 do recurso especial interposto, em que se alegou a existência de divergência jurisprudencial em relação aos arts. 3º da Lei Complementar nº 70/1991, 5º da Lei nº 9.715/1998, 62 da Lei nº 11.196/2005 e 29 da Lei nº 10.865/2004. No referido item houve impugnação específica ao fundamento de que no caso dos cigarros e cigarrilhas supostamente não haveria base de cálculo presumida, mas pré-determinada.
+Sem impugnação pela parte embargada.
+É o relatório. Decido.
+Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, está expressamente consignado na decisão agravada (fls. 288/291):
+A parte recorrente alega, em síntese (fls. 218/238):  ..  violação ao art. 1.022, inciso II, do CPC. Assim, não tendo o TRF4 apreciado as razões e os pedidos formulados pela recorrente, deve este STJ cassar o acórdão recorrido e determinar o retorno ao tribunal de origem para que indique o período de vigência da Nota Cosit/Sutri/RFB nº 446/2020 e o Parecer SEI nº 16182/2021/ME  ..  Adotou-se no acórdão recorrido o entendimento de que não teria a ora recorrente direito à restituição das contribuições PIS/COFINS-ST incidentes sobre cigarros e cigarrilhas por ser inaplicável ao caso a tese fixada no Tema 228/STF, uma vez que o preço de venda no varejo é tabelado, de modo que os arts. 3º da Lei Complementar nº 70/1991, 5º da Lei nº 9.715/1998, 62 da Lei nº 11.196/2005 e 29 da Lei nº 10.865/2004 não se prestariam a presumir a base de cálculo futura. O acórdão recorrido conferiu aos arts. 3º da Lei Complementar nº 70/1991, 5º da Lei nº 9.715/1998, 62 da Lei nº 11.196/2005 e 29 da Lei nº 10.865/2004 interpretação divergente da que lhes foi atribuída pelo TRF2 no julgamento da Apelação Cível/Remessa Necessária nº 5087256-86.2021.4.02.5101"
+ ..
+Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+ ..
+De outro lado, o conhecimento do recurso encontra óbice nas súmulas 282 e 283 do STF, pois, além de não prequestionados os artigos de lei tidos por violados, o cotejo das razões recursais com o acórdão recorrido revela a ausência de impugnação específica ao fundamento de que, no caso dos cigarros e cigarrilhas, não há base de cálculo inferior a presumida, mas base de cálculo pré-definida, razão pela qual não há semelhança entre as situações tratada nos autos e aquela analisada para a definição da tese firmada no RE 596.832/RJ. Observância da súmula 283 do STF.
+ ..
+Cumpre anotar o posicionamento deste Tribunal Superior, pela natureza constitucional da controvérsia, na medida em que o Tribunal Regional Federal da 4ª Região decide a questão com base em interpretação de tese definida pelo Supremo Tribunal Federal.
+No contexto, não há vício de integração a ser sanado.
+Ante o exposto, rejeito os embargos de declaração rejeitados.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS.
