@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno interposto pela COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SAO PAULO - CDHU da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu recurso por ausência de impugnação específica ao seguinte fundamento da decisão de inadmissibilidade do recurso especial: ausência de afronta a dispositivo legal (fl. 221).
+A parte agravante afirma que, em sua petição de agravo em recurso especial, reafirmou que houve expressa indicação do art. 50 do Código Civil e do art. 136 do Código de Processo Civil (CPC) como violados, de maneira que não procederia a fundamentação de ausência de afronta a dispositivo legal.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte agravada não apresentou impugnação (fls. 260/266).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso.
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo (CDHU) se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo (TJSP) assim ementado (fl. 102):
+PROCESSUAL CIVIL E CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO JUDICIAL. AÇÃO DE COBRANÇA. PESSOAS JURÍDICAS. ALEGAÇÃO DE DISSOLUÇÃO IRREGULAR E CONFUSÃO PATRIMONIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DE CONCORRÊNCIA DOS REQUISITOS LEGAIS.
+1. A desconsideração da personalidade jurídica está prevista no art. 50 do Código Civil e é medida excepcional condicionada à prova de desvio de finalidade ou confusão patrimonial. Ausência de comprovação do preenchimento dos requisitos legais.
+2. O juízo da falência é indivisível e competente para todas as ações e reclamações sobre bens, interesses e negócios da massa falida. Caso que não se insere nas exceções legais.
+Decisão mantida. Recurso desprovido.
+Os embargos de declaração opostos pela CDHU foram rejeitados (fls. 160/162).
+A parte recorrente alega violação dos arts. 489, § 1º, IV, 1.022 do CPC, argumentando que o acórdão recorrido apresenta vícios de obscuridade e omissão, pois: (a) não enfrentou a alegação de cerceamento de defesa, especialmente quanto à ausência de oportunidade para produção de provas no incidente de desconsideração da personalidade jurídica; (b) adotou a premissa equivocada de que o processo falimentar da recorrida ainda estaria em curso, quando, na realidade, já havia sido encerrado; (c) limitou-se a proferir decisão-padrão, sem sanar os vícios apontados nos embargos de declaração.
+Aponta que houve ofensa ao art. 136 do CPC, alegando cerceamento de defesa em razão do julgamento antecipado do mérito do incidente de desconsideração da personalidade jurídica, sem a devida instrução probatória. Afirma que as provas necessárias, como a quebra de sigilos bancário e fiscal e a exibição de livros contábeis, não poderiam ser produzidas sem intervenção judicial.
+Sustenta que ocorreu afronta ao art. 50 do Código Civil, afirmando que o acórdão ignorou os indícios de abuso da personalidade jurídica, como o encerramento irregular das atividades da recorrida, a ausência de patrimônio, a confusão patrimonial e a fraude na integralização do capital social.
+Contrarrazões apresentadas às fls. 167/185, 175/177 e 179/185.
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise (fls. 187/188).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de incidente de desconsideração da personalidade jurídica instaurado pela CDHU em cumprimento de sentença, no qual se alegou abuso da personalidade jurídica por parte da recorrida, com base em indícios de confusão patrimonial, encerramento irregular das atividades e ausência de patrimônio. O pedido foi indeferido em primeiro grau, decisão mantida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que entendeu pela ausência de comprovação dos requisitos legais para a desconsideração.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre o impedimento de produção de provas por parte da CDHU e a alegação de que o processo falimentar já estaria encerrado, de acordo com os seguintes argumentos (fl. 157):
+Assim, merece esclarecimento a alegação retro destacada de que "em momento algum a suscitante do incidente protestou ou requereu a produção de provas", já em sequer foi dada a oportunidade para a Agravante especificar as provas que pretendia produzir.
+Em passo seguinte, também merece esclarecimento a conclusão no sentido de que "No caso vertente, a ação foi ajuizada posteriormente à decretação de falência da agravada, daí porque não se enquadra nas exceções legais à atratividade do juízo universal de falência".
+Isto porque, da leitura do teor desta conclusão, se observa que a decisão adota a premissa de que o processo falimentar ainda está em curso (o que, evidentemente, atrairia o juízo universal da falência), mas, como foi noticiado pela Agravante, o processo da falência já foi há muito encerrado.
+Com isso, também merece ser esclarecida a conclusão acerca da competência jurisdicional com relação à Agravada MTC, sob a ótica da premissa de que o processo falimentar já está encerrado e não em andamento, como foi aparentemente considerado.
+Constato que, apesar de provocado em duas oportunidades, por meio do agravo de instrumento às fls. 1/17 e dos embargos de declaração às fls. 156/158, o Tribunal de origem manteve-se silente sobre essa matéria.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, reconsidero a decisão de fls. 221/223; conheço do agravo para conhecer do recurso especial e a ele dar provimento a fim de reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
