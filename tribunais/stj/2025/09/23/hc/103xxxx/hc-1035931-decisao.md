@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Lucas Mateus Matias de Paula, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de Mato Grosso, que denegou o Habeas Corpus n. 1027528-38.2025.8.11.0000, mantendo a prisão preventiva imposta pelo Juízo da Vara Única da comarca de Alto Garças/MT, pela suposta prática do crime de associação para o tráfico de drogas.
+Neste writ, a defesa alega, em síntese, que a prisão preventiva carece de fundamentação idônea, não havendo elementos concretos que justifiquem a medida extrema, especialmente diante da primariedade, residência fixa e vínculo empregatício do paciente.
+Sustenta, ainda, que o paciente é o único provedor de sua família, composta por uma companheira com limitações físicas temporárias e uma criança menor de 12 anos, o que justificaria a substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso V, do Código de Processo Penal, ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do mesmo diploma legal (fls. 2/13).
+É o relatório.
+Consta dos autos que o paciente foi preso preventivamente em 25/6/2025, no curso de investigação sobre organização criminosa voltada ao tráfico de drogas e à lavagem de capitais. Apurou-se a existência de esquema sofisticado de transporte e ocultação de entorpecentes, com uso de empresas de fachada e compartimentos ocultos em caminhões frigoríficos, sendo o réu apontado como intermediário e batedor nas operações.
+A Corte estadual, em consonância com o Juízo de origem, destacou que a medida cautelar está devidamente fundamentada na gravidade concreta da conduta, evidenciada pelo modus operandi complexo e pela estrutura organizada do grupo criminoso.
+Assim, entendo que a prisão preventiva se justifica para garantia da ordem pública, diante da gravidade do delito e da participação do paciente em esquema estruturado de transporte e distribuição de drogas. Nesse sentido: AgRg no RHC n. 219.052/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2025, DJEN de 15/9/2025.
+Quanto ao pedido de substituição por prisão domiciliar, o art. 318 do CPP exige prova inequívoca da imprescindibilidade do agente aos cuidados de menor de 12 anos. No caso, não há demonstração da inexistência de familiares ou rede de apoio capazes de prestar a assistência necessária à criança e à companheira do paciente, conforme consignado pelo juízo de origem e confirmado pelo Tribunal estadual.
+Nesse mesmo sentido: AgRg no HC n. 1.012.089/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. TRANSPORTE E OCULTAÇÃO DE DROGAS. ORGANIZAÇÃO CRIMINOSA COM ESTRUTURA COMPLEXA. GARANTIA DA ORDEM PÚBLICA. PEDIDO DE SUBSTITUIÇÃO POR DOMICILIAR. INEXISTÊNCIA DE PROVA DA IMPRESCINDIBILIDADE DOS CUIDADOS PATERNO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Inicial indeferida liminarmente.
