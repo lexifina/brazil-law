@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de CLEYDSON HENRIQUE MORAIS MONTEIRO, no qual se aponta como autoridade coatora o Desembargador Relator da Apelação Criminal n. 289-27.2010.8.17.0100, do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, não comporta acolhimento.
+Busca a impetração o reconhecimento do excesso de prazo, uma vez que não há data e nem previsão para o julgamento do apelo recursal interposto pela defesa, o que configuraria constrangimento ilegal.
+Extrai-se dos autos que o paciente foi condenado por homicídio qualificado, em junho de 2022, à pena de 16 anos e 4 meses de reclusão, em regime fechado, sendo-lhe permitido recorrer em liberdade (fls. 5/7). A defesa interpôs apelação e apresentou as razões recursais em novembro de 2023 (fl. 2). O Ministério Público também apelou, e o paciente apresentou contrarrazões ao recurso ministerial (fl. 2).
+O impetrante alega que, em 20/6/2024, foi determinada a remessa dos autos ao Juízo de primeiro grau para que o Ministério Público apresentasse contrarrazões ao apelo defensivo, o que seria desnecessário, pois elas já haviam sido protocoladas em 22/7/2022. Além disso, aponta erro no despacho, que menciona outro acusado, Raimundo Avelar Dias, em vez do paciente, bem como aduz que a apelação, distribuída em 7/12/2022, permanece sem julgamento, o que viola o princípio da razoável duração do processo.
+Requer, desse modo, a concessão da ordem para que seja determinada a inclusão em pauta para julgamento do apelo no prazo de duas sessões, a contar da notificação do Superior Tribunal de Justiça (fl. 4).
+Pois bem. A irresignação não merece prosperar.
+Não diviso ilegalidade flagrante quanto ao excesso de prazo no julgamento do recurso defensivo, pois, embora haja atraso na apreciação da apelação pelo Tribunal a quo, da leitura dos autos e, de acordo com as informações prestadas pelo Juízo singular, o paciente está solto, tendo em vista que, embora condenado à pena de 16 anos e 4 meses de reclusão, em regime inicial fechado, foi-lhe concedido o direito ao apelo em liberdade.
+Segundo pacífico entendimento doutrinário e jurisprudencial, a configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida conforme os critérios de razoabilidade, tendo em vista as peculiaridades da espécie (HC n. 564.267/RJ, Ministro Ribeiro Santas, Quinta Turma, DJe 14/12/2020 - grifo nosso).
+Assim, diante das especificidades do caso, em que o paciente responde livre ao recurso, não está configurado o constrangimento ilegal apontado.
+Ante o exposto, denego a ordem . No entanto, recomendo ao Tribunal de Justiça de Pernambuco que dê celeridade ao julgamento da Apelação Criminal n. 289-27.2010.8.17.0100.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO CRIMINAL. APENADO CONDENADO À PENA DE 16 ANOS E 4 MESES DE RECLUSÃO, EM REGIME INICIAL FECHADO, FACULTADO O APELO EM LIBERDADE. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+Ordem denegada, com recomendação, nos termos do dispositivo.
