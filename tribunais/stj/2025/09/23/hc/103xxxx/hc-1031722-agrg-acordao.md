@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE NÃO SE TRATAVA DE TRAFICANTE EVENTUAL. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NA VIA ELEITA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. A incidência da minorante do tráfico privilegiado foi rechaçada, porque as instâncias de origem reconheceram expressamente que o paciente se dedicava à atividade criminosa, haja vista a apreensão do entorpecente e de petrechos de mercancia, tais como - uma balança de precisão, centenas de pinos vazios e diversos sacos plásticos do tipo "sacolé", normalmente utilizados para fracionamento e acondicionamento de entorpecentes -, além de R$ 617,00 em notas pequenas. Acrescente-se a isso o fato de ele haver confessado que já havia pego drogas para vender por três vezes, e de haver sido visto durante a campana policial, na companhia de outros vendedores de drogas; sendo pouco crível supor que ele se tratasse de traficante esporádico.
+3. Nesse contexto, desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+4. Agravo regimental não provido.
+RELATÓRIO
+WESLLEY RICARDO BUENO agrava regimentalmente contra decisão de minha Relatoria, na qual não conheci do writ porque substitutivo de recurso próprio. Não obstante isso, ao analisar os autos, concluí que a pretensão formulada pelo impetrante encontrava óbice na jurisprudência desta Corte de Justiça sendo, portanto, manifestamente improcedente.
+Afirma a defesa do agravante, contudo, reiterando todas as razões já aduzidas na inicial, que ele não possuía grande envolvimento com o tráfico de drogas, pois a ausência de dedicação criminosa e profissionalismo no comércio ilícito podem sim ser facilmente colhidas da simples leitura das decisões proferidas pela origem (ambas à e-STJ, fl. 63).
+Pugna, por isso, pela reconsideração do decisum ou pela submissão do feito ao órgão Colegiado, para que seja reformada a decisão recorrida e reconhecida a minorante do tráfico privilegiado ao agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE NÃO SE TRATAVA DE TRAFICANTE EVENTUAL. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NA VIA ELEITA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. A incidência da minorante do tráfico privilegiado foi rechaçada, porque as instâncias de origem reconheceram expressamente que o paciente se dedicava à atividade criminosa, haja vista a apreensão do entorpecente e de petrechos de mercancia, tais como - uma balança de precisão, centenas de pinos vazios e diversos sacos plásticos do tipo "sacolé", normalmente utilizados para fracionamento e acondicionamento de entorpecentes -, além de R$ 617,00 em notas pequenas. Acrescente-se a isso o fato de ele haver confessado que já havia pego drogas para vender por três vezes, e de haver sido visto durante a campana policial, na companhia de outros vendedores de drogas; sendo pouco crível supor que ele se tratasse de traficante esporádico.
+3. Nesse contexto, desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os esforços da agravante, não constato elementos suficientes para reconsiderar minha decisão, cuja conclusão mantenho por seus próprios fundamentos.
+Conforme relatado, buscava-se o redimensionamento das sanções do paciente, ante a aplicação da redutora do tráfico privilegiado.
+Preliminarmente asseverei que nos termos do art. 33, § 4º da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas teriam a pena reduzida, de um sexto a dois terços, quando fossem reconhecidamente primários, possuíssem bons antecedentes e não se dedicassem a atividades criminosas ou integrassem organização criminosa.
+Sob essas diretrizes, ao julgar os recursos de apelação, o Relator do voto condutor do acórdão consignou que (e-STJ, fls. 14/22, grifei):
+ ..
+O réu, em Juízo, admitiu a propriedade das drogas e a prática da mercancia ilícita, informando que pegou entorpecentes fiado por três vezes para vender e o dinheiro encontrado em sua residência era proveniente do tráfico.
+A confissão do acusado encontra amparo nos depoimentos das testemunhas policiais, responsáveis por realizar campana na residência de Weslley e, posteriormente, acompanhar o cumprimento do mandado de busca e apreensão no local.
+ ..
+Na terceira fase, não era mesmo o caso de a incidência do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06. Isso porque, embora primário o réu, as circunstâncias da prisão demonstram a prática do tráfico de drogas com rotina de proceder, fato este impeditivo da aplicação do referido benefício, por não se tratar de traficante eventual, mormente por ter sido surpreendido com drogas já fracionadas e parte ainda a fracionar, com apreensão de R$ 617,00 em notas pequenas, uma balança, centenas de pinos vazios, diversos sacos plásticos do tipo "sacolé" utilizados para fracionamento e acondicionamento de entorpecentes. Ainda, durante a campana realizada, os policiais constataram o encontro do réu com outros dois homens, tidos como vendedores de drogas, em frente à casa do primeiro, circunstâncias que denotam sobremaneira o envolvimento contumaz do acusado com o tráfico ilícito de entorpecentes.
+ ..
+Quanto ao regime para início de cumprimento da pena, o fechado é o único que se mostra adequado diante das peculiaridades do caso concreto, notadamente a apreensão de considerável quantidade de droga, nos termos do art. 33, § 3º, do Código Penal.
+Pela leitura do recorte acima, verifiquei que a incidência da referida minorante foi rechaçada, porque as instâncias de origem reconheceram expressamente que o paciente se dedicava à atividade criminosa, haja vista a apreensão do entorpecente e de petrechos de mercancia, tais como - uma balança de precisão, centenas de pinos vazios e diversos sacos plásticos do tipo "sacolé", normalmente utilizados para fracionamento e acondicionamento de entorpecentes -, além de R$ 617,00 em notas pequenas. Acrescente-se a isso o fato de ele haver confessado que já havia pego drogas para vender por três vezes, e de haver sido visto durante a campana policial, na companhia de outros vendedores de drogas; sendo pouco crível supor que ele se tratasse de traficante esporádico.
+Nesse contexto, asseverei que desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Ao ensejo:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE. REVISÃO FÁTICO-PROBATÓRIA. ELEMENTOS DE PROVA A DEMONSTRAR A NÃO EVENTUALIDADE DO CRIME. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DESCONSTITUIÇÃO DAS CONCLUSÕES DAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. REEXAME PROVAS. WRIT NÃO CONHECIDO.
+ ..
+3. Os fundamentos utilizados pelas instâncias ordinárias para não aplicar a minorante do § 4º do art. 33 da Lei de Drogas ao caso concreto, em razão da dedicação dos pacientes à atividade criminosa, evidenciada sobretudo pela quantidade de drogas apreendida - 61kg de maconha -,aliada às circunstâncias do delito, está em consonância com o entendimento desta Corte Superior de Justiça. Ademais, acolher a tese de que os pacientes não se dedicam à atividade criminosa, é necessário o reexame aprofundado das provas, providência inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido (HC n. 508.559/RJ, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 6/8/2019, DJe 19/8/2019, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPRESSIVA QUANTIDADE DE DROGAS. DEDICAÇÃO ÀATIVIDADE CRIMINOSA. TRÁFICO PRIVILEGIADO AFASTADO. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O modus operandi do delito, em especial o transporte interestadual de aproximadamente 12 kg de maconha, denota a dedicação à atividade criminosa.
+2. A desconstituição das premissas fáticas do acórdão demanda o reexame de fatos e provas dos autos, o que é vedado pela Súmula 7/STJ.3. Agravo regimental improvido (AgRg no AREsp n. 1.280.063/MS, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 19/3/2019, DJe 25/3/2019, grifei).
+Nesses termos, concluí que a pretensão formulada pelo impetrante encontrava óbice na jurisprudência desta Corte de Justiça sendo, portanto, manifestamente improcedente .
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
