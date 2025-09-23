@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial manejado por Severino Manoel da Silva com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fls. 370/371):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL DE PEQUENO VALOR. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. RESOLUÇÃO CNJ Nº 547/2024. TEMA 1184 DE REPERCUSSÃO GERAL. PRINCÍPIO DA CAUSALIDADE. INADIMPLEMENTO DO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA INDEVIDOS. MANUTENÇÃO DA SENTENÇA.
+I. CASO EM EXAME
+1. Apelação interposta contra sentença que extinguiu execução fiscal de pequeno valor, sem resolução do mérito, com fundamento no artigo 485, VI, do Código de Processo Civil (CPC) e na Resolução nº 547 de 22/02/2024 do Conselho Nacional de Justiça (CNJ). O apelante pleiteava a condenação do Estado ao pagamento de honorários advocatícios, conforme artigo 85, § 10, do CPC. A parte apelada sustentou que, em casos de extinção do processo sem resolução de mérito, não são devidos honorários advocatícios ou custas processuais.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se é cabível a condenação do exequente ao pagamento de honorários advocatícios de sucumbência em uma execução fiscal de pequeno valor, extinta sem resolução de mérito. A extinção foi baseada na Resolução CNJ nº 547/2024, a qual foi criada a partir do Tema 1184 de Repercussão Geral, fixado pelo Supremo Tribunal Federal (STF) no RE 1355208. Tal resolução prevê a extinção de execuções fiscais de baixo valor por ausência de interesse de agir, com o objetivo de otimizar a eficiência administrativa e respeitar os princípios constitucionais que regem a administração pública. O apelante sustenta que, apesar da extinção, seriam devidos os honorários de sucumbência conforme o princípio da causalidade e o artigo 85, § 10, do CPC.
+III. RAZÕES DE DECIDIR
+3. O recurso preenche os requisitos de admissibilidade e, nos termos do artigo 1.010 do CPC, foi devidamente conhecido.
+4. A extinção da execução fiscal sem resolução do mérito ocorreu com base na Resolução CNJ n.º 547/2024, fundamentada no Tema 1184 de Repercussão Geral (RE 1355208), que autoriza a extinção de execuções fiscais de pequeno valor pela ausência de interesse de agir, em consonância com o princípio da eficiência administrativa.
+5. O pedido de condenação em honorários advocatícios foi analisado à luz do princípio da causalidade, o qual estabelece que a parte que deu causa à propositura da ação deve arcar com as despesas processuais. No presente caso, a propositura da execução fiscal decorreu do inadimplemento do devedor, que não satisfez a obrigação espontaneamente. Assim, não há fundamento para impor ao exequente a condenação ao pagamento de honorários advocatícios, especialmente em ações de pequeno valor extintas sem resolução de mérito.
+6. A jurisprudência do Superior Tribunal de Justiça (STJ) sustenta que em casos em que a ação é extinta sem resolução de mérito, os honorários advocatícios são indevidos quando a causa da ação foi o inadimplemento do devedor, reforçando o entendimento de que a condenação ao pagamento de honorários deve observar quem deu causa à demanda.
+IV. DISPOSITIVO E TESE
+7. Recurso desprovido. Sentença mantida. Tese de julgamento: 1. A extinção de execução fiscal de pequeno valor, sem resolução de mérito, com base na Resolução CNJ nº 547/2024 e no Tema 1184 de Repercussão Geral, não gera direito à condenação do exequente ao pagamento de honorários advocatícios de sucumbência. 2. O devedor inadimplente, que deu causa à propositura da execução, não pode transferir ao exequente a obrigação de pagar honorários sucumbenciais, especialmente em ações de pequeno valor extintas sem julgamento do mérito.
+Opostos embargos declaratórios, foram conhecidos e desprovidos (fls. 391/392).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 85, § 10, e 485, VI, do Código de Processo Civil, ao argumento de que a extinção da execução fiscal, ainda que sem resolução de mérito, não afasta a aplicação do princípio da causalidade, devendo o exequente ser condenado ao pagamento de honorários advocatícios.
+Foram ofertadas contrarrazões às fls. 510/514.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta provimento.
+O entendimento desta Corte é firme no sentido de que "Extinto o processo, sem resolução do mérito, ante a perda superveniente do interesse processual, a condenação em honorários de sucumbência há de ser avaliada sob a ótica do princípio da causalidade, nos termos do art. 85, § 10, do CPC/15." (AREsp n. 2.784.944/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ACORDO EXTRAJUDICIAL. RENEGOCIAÇÃO DA DÍVIDA. PERDA DE OBJETO. ONÛS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE.
+1. Nas hipóteses de extinção do processo sem resolução do mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+2. No caso, a demanda foi extinta em virtude da ocorrência de perda superveniente de objeto, tendo em vista a realização de acordo extrajudicial, com a renegociação da dívida, após a propositura da ação. Portanto, no momento do ajuizamento da ação estava presente o interesse processual da parte autora/recorrida.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.775.290/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+No caso dos autos, o Tribunal de origem manteve a decisão que deixou de condenar a Fazenda Pública ao pagamento de honorários advocatícios, em razão da aplicação do princípio da causalidade, pois o processo de execução foi ajuizado porque o executado deixou de satisfazer espontaneamente o débito, dando causa à instauração do processo, além de que só houve a extinção por força do cumprimento de resolução do CNJ.
+A propósito, confira-se os trechos do acórdão (fls. 367 e 371):
+ ..
+mostra-se injusto condenar o credor/apelado ao pagamento de honorários ao advogado do devedor/apelante, se a causa da propositura da ação executiva foi seu inadimplemento e a permanência do trâmite se dá por não terem sido identificados bens passíveis de constrição e satisfação do crédito. Ou seja, como bem mencionou a Ministra Nancy Andrighi (STJ - AgInt nos E Dcl no AR Esp: 2180877 MG 2022/0237333-9), a causalidade diz respeito a quem deu causa ao ajuizamento da execução, no caso, o devedor que deixou de satisfazer espontaneamente a obrigação, não tendo relação direta com quem deu causa à sua extinção.
+ ..
+O devedor inadimplente, que deu causa à propositura da execução, não pode transferir ao exequente a obrigação de pagar honorários sucumbenciais, especialmente em ações de pequeno valor extintas sem julgamento do mérito.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
