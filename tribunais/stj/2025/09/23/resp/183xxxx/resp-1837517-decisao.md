@@ -1,0 +1,17 @@
+DECISÃO
+JOSÉ LINO DA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região na Apelação Criminal n. 0001189-13.2007.4.05.8400.
+O Juízo de origem condenou o recorrente pela prática dos crimes previstos no art. 299 do Código Penal (falsidade ideológica) e art. 90 da Lei n. 8.666/93 (fraude à licitação), por supostamente constituir empresa com "laranjas" e participar com duas empresas vinculadas (Parnamirim e Cactus) de certame licitatório promovido pela Universidade Federal do Rio Grande do Norte.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa e deu parcial provimento ao recurso do Ministério Público Federal para aumentar as penas impostas.
+Nas razões do recurso especial, o recorrente aponta violação dos arts. 299 e 61, II, "b", do Código Penal e art. 90 da Lei n. 8.666/93. Em síntese, sustenta: 1) a consunção entre os delitos, devendo o crime de falsidade ser absorvido pelo crime de fraude à licitação; 2) a atipicidade da conduta quanto ao crime de fraude à licitação, considerando que o certame contou com a participação de mais de 20 empresas e o vencedor foi declarado por decisão judicial; 3) vícios na dosimetria da pena, especialmente quanto à valoração negativa da culpabilidade com base apenas na condição de advogado.
+O recorrente requer seja reconhecida a consunção entre os delitos, com absolvição pelo crime de falsidade ideológica, ou a atipicidade da conduta quanto ao crime de fraude à licitação, ou, subsidiariamente, a redução das penas ao mínimo legal.
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls. 5.222-5.240).
+Decido.
+Verifico que a Pet 13506/RN trata de homologação de acordo de colaboração premiada firmado entre o Ministério Público Federal e o recorrente José Lino da Silva, com intervenção da Procuradoria da Fazenda Nacional, nos termos da Lei n. 12.850/2013.
+O acordo foi celebrado em 20/02/2020, em razão das condenações sofridas pelo recorrente em diversas ações, entre elas a Ação Penal n. 0001189-13.2007.4.05.8400, objeto do presente recurso especial.
+Conforme consta da petição, o colaborador comprometeu-se a: (1) prestar depoimento revelando toda a trama criminosa da "Operação União"; e (2) entregar valores e imóveis componentes de seu patrimônio no montante equivalente a R$ 7.770.008,74 para garantir por penhora ou forma antecipada os créditos da União/Fazenda Nacional/INSS contra empresas vinculadas ao colaborador, avaliados em R$ 7.221.549,03.
+Em contrapartida, o Ministério Público Federal requereu, entre outros benefícios, a redução pela metade das penas aplicadas ao recorrente na Ação Penal n. 0001189-13.2007.4.05.8400 e sua substituição por pena(s) restritiva(s) de direitos.
+O MPF considerou o acordo mais vantajoso para a sociedade do que a execução integral das sanções originalmente impostas, tendo em vista a perspectiva real de reparação imediata e substancial ao erário lesado, a economia de custos e esforços para o Estado, bem como a finalização de processos judiciais (penais, civis e execuções fiscais) em trâmite há tempos.
+Considerando que o acordo de colaboração premiada foi celebrado em 20/02/2020, data posterior à interposição do presente recurso especial, e que seu objeto interfere diretamente nas penas aplicadas na condenação ora recorrida, o recurso especial encontra-se prejudicado.
+À vista do exposto, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
