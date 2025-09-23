@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por Claudemiro Geraldo Blini e Maria Ângela Flores Blini contra decisão que não admitiu recurso especial manejado, com base na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fl. 39-43):
+AGRAVO DE INSTRUMENTO - INCIDENTE DE CUMPRIMENTO DE SENTENÇA - REDUÇÃO DE PENHORA DE BEM IMÓVEL - DESCABIMENTO - PENDÊNCIA DE OUTRA DEMANDA, POSSIVELMENTE COM CRÉDITO PREFERENCIAL - DEVEDORES NÃO APONTARAM OUTRO BEM COMO GARANTIA DO CRÉDITO PERSEGUIDO - PENHORA INTEGRAL MANTIDA - RECURSO PROVIDO.
+1. Considerando o princípio da maior efetividade na execução e de modo a resguardar a satisfação do crédito do exequente, não deve ser reduzida a penhora se recaem sobre o imóvel outros gravames, referentes a credores com possível direito preferencial.
+2. Ademais, a alegação de excesso de penhora somente pode ser acolhida, com a imediata redução da constrição, caso o executado faça a indicação de outros bens compatíveis com a satisfação da dívida (art. 847, CPC), circunstâncias essas que sequer foram cogitadas na decisão recorrida.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 874, inciso I, do Código de Processo Civil.
+Quanto à suposta ofensa ao art. 874, inciso I, do Código de Processo Civil, sustenta que a redução da penhora, quando o valor do bem for consideravelmente superior ao crédito do exequente e dos acessórios, não está sujeita à indicação de outro bem pelo devedor. Argumenta que o imóvel penhorado é mais do que suficiente para garantir a satisfação do crédito da exequente, sendo desnecessária a imposição de tal ônus aos recorrentes.
+Alega, ainda, que o acórdão recorrido interpretou equivocadamente o art. 874, inciso I, do Código de Processo Civil, ao exigir a indicação de outros bens para a redução da penhora, contrariando o dispositivo legal que prevê a redução da penhora quando o valor do bem penhorado for consideravelmente superior ao crédito do exequente.
+Além disso, aponta que o crédito perseguido pela recorrida já está garantido por força de decisão judicial, não havendo risco de prejuízo à exequente, mesmo que os recorrentes percam a demanda que envolve a prescrição do crédito hipotecário.
+O recurso também aponta divergência jurisprudencial em torno da interpretação do art. 874, inciso I, do Código de Processo Civil, citando precedentes que corroboram a tese de que a redução da penhora não exige a indicação de outros bens pelo devedor.
+Contrarrazões às fls. 121-132, nas quais a parte recorrida alega que o acórdão recorrido está em conformidade com a legislação e jurisprudência aplicáveis, defendendo a manutenção da penhora integral sobre o imóvel.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Impugnação foi apresentada (fls. 170-176).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não merece prosperar.
+Originariamente, trata-se de incidente de cumprimento de sentença, no qual a recorrida, Rafaela Conte, requereu a manutenção da penhora integral sobre 45% da área da Fazenda Sinuelo, avaliada em R$ 12.887.914,05, para garantia de crédito no valor de R$ 601.477,12. A decisão de primeiro grau homologou o laudo de avaliação do imóvel, porém determinou a redução da penhora para 2,1001% da área ideal.
+O Tribunal de origem deu provimento ao agravo de instrumento interposto pela recorrida, mantendo a penhora integral sobre o imóvel, sob o fundamento de que a redução da penhora somente seria possível mediante a indicação de outros bens compatíveis com a satisfação da dívida, o que não foi feito pelos recorrentes.
+De pronto, diga-se que inviável conhecer da irresignação quanto à ofensa ao art. 874, I, do CPC, pois referido dispositivo legal não foi analisado pela instância de origem.
+Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Aliás, sequer foram opostos embargos de declaração contra o acórdão recorrido.
+Lembre-se de que a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência de negativa de prestação jurisdicional, que, uma vez constatada, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei. Na espécie, porém, a parte agravante não alegou violação ao art. 1.022 do CPC. Vide, nesse sentido, AgInt no REsp n. 1.884.543/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.
+Corroborando, tem-se que, às fls. 145-165, a parte agravante limitou-se a retratar o longo quadro fático-processual e a reprisar, ainda que com outros termos, os argumentos do recurso especial. Deixou de impugnar especificamente os fundamentos da decisão atacada.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, DJe 22/8/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Ainda que assim não fosse, o recurso especial em destaque também encontraria obstáculo na Súmula 7/STJ. Afinal, impossível nesta via reanalisar a ampla matéria fática noticiada (redução de penhora, nova avaliação em virtude de erro, excesso, créditos preferenciais, necessidade de indicação de outros bens, etc.).
+Veja-se, a tal título:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. REDUÇÃO. INDEFERIMENTO. IMÓVEL. NOVA AVALIAÇÃO. INVIABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. NÃO PROVIMENTO DO RECURSO.
+1. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelo enunciado n. 7 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.010.213/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/5/2017, DJe de 22/5/2017.)
+Em face do exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
