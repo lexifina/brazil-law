@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo manejado por Instituto Nacional do Seguro Social - INSS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 502):
+PREVIDENCIÁRIO. AGRAVO INTERNO. DECISÃO MONOCRÁTICA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE RURAL RECONHECIDA. SUMULA TCU Nº 96. TEMPO COMO ALUNO-APRENDIZ RECONHECIDO. TEMPO DE TÉCNICO AGRÍCOLA COMO SERVIDOR TEMPORÁRIO TRABALHADO PARA O GOVERNO DO ESTADO DE SÃO PAULO RECONHECIDO.
+- O tempo de serviço rural entre 24/11/1968 e 30/11/1974 foi devidamente comprovado com início de prova material, corroborado pelos depoimentos testemunhais, sendo reconhecido para fins previdenciários, exceto para efeito de carência.
+- O tempo de aluno-aprendiz, em escola técnica profissional, remunerado à conta de dotações da União, mediante auxílios financeiros que se revertiam em forma de alimentação, fardamento e material escolar, é de ser computado, para fins previdenciários, como tempo de serviço público, de acordo com enunciado da Súmula TCU nº 96.
+- Reconhecido o tempo de serviço como aluno-aprendiz em escola técnica no período de 13/12/1974 a 21/12/1977.
+- À contagem recíproca é um direito do segurado tanto para integrar o tempo de serviço exercido exclusivamente em atividade celetista, amparada pelo RGPS, quanto para somá-lo ao tempo de serviço prestado em serviço público, amparado por RPPS.
+- Assim sendo, a responsabilidade pela indenização das contribuições deve ser assumida pelo regime próprio do servidor (RPPS), não devendo o segurado ser responsabilizado por eventuais falhas na compensação entre os regimes ou por formalidades legais e regulamentares não observadas.
+- Portanto, uma vez emitida a CTC pela entidade competente, não é cabível atribuir ao autor a responsabilidade pela compensação entre regimes ou pela observância de formalidades legais e regulamentares.
+- À contagem recíproca do tempo de serviço público, referente ao exercício de função de Técnico Agrícola para o Estado de São Paulo, de 22/04/1980 a 16/10/1985, foi devidamente comprovada por Certidão de Tempo de Serviço.
+- Somado os períodos ora reconhecidos aos introversos, o autor acumulou até a DER (14/12/2015) tempo suficiente para concessão de aposentadoria integral por tempo de contribuição.
+- O benefício deve ser concedido desde a DER, pois todos os documentos necessários foram apresentados administrativamente naquela data em que o INSS tomou ciência da pretensão do autor.
+- Agravo interno do INSS não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 522/530).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos:
+I - art. 1.022, II, do Código de Processo Civil, ao argumento de que o Tribunal de origem deixou de se manifestar sobre a impossibilidade de reconhecimento do tempo de contribuição de aluno-aprendiz sem a comprovação de contraprestação pecuniária direta ou indireta às custas do orçamento da União e sem a devida comprovação do vínculo empregatício. Para tanto, aduz que "o acórdão é omisso por não ter se pronunciado expressamente sobre a impossibilidade de reconhecimento do tempo de contribuição de aluno aprendiz sem a contraprestação pecuniária direta ou indireta às custas do orçamento da União e sem a devida comprovação do vínculo empregatício" (fl. 532);
+II - arts. 11, I, a, e 55, caput e § 3º, da Lei n. 8.213/1991, e art. 60, XXII, do Decreto n. 3.048/1999, sustentando que o reconhecimento do tempo de contribuição como aluno-aprendiz exige a comprovação de vínculo empregatício e de remuneração, mesmo que indireta, à conta do orçamento público. Aduz, ainda, que a jurisprudência do STJ e do STF exige a demonstração de que o aluno-aprendiz tenha efetivamente executado serviços para terceiros, mediante contraprestação pecuniária. Em relação a isso, sustenta que "a simples menção à existência de benefícios não pecuniários, como fardamento, alimentação, material escolar ou outros, não é suficiente para comprovar a efetiva realização de trabalho pelo estudante ou o vínculo empregatício" (fl. 535).
+Foram ofertadas contrarrazões às fls. 554/559.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Inicialmente, verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido, integrada em sede de embargos declaratórios, que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+No caso dos autos, o Tribunal a quo, ao analisar a controvérsia trazida no bojo do recurso especial, de posse do conjunto fático/probatório trazido aos autos, concluiu que o recorrido faz jus à contagem do tempo como aluno-aprendiz.
+Eis os fundamentos do acórdão recorrido:
+DO TEMPO COMO ALUNO-APRENDIZ
+Busca o autor o reconhecimento de tempo comum no período de 13/12/1974 a 21/12/1977 em que foi aluno-aprendiz da Unidade Escolar Centro Paula Souza, em regime de internato integral, com o fornecimento de alimentação e alojamento.
+Para comprovar o alegado, juntou aos autos a Certidão 03/2004, na qual consta que o autor foi matriculado em 13/12/1974 no curso Habilitação (2º grau) Técnico Agropecuária, nos anos letivos de 1975, 1976 e 1977, totalizando o tempo de estudo de 02 anos, 10 meses e 14 dias (..)
+Também juntou aos autos Declaração Complementar a referida Certidão na qual consta que o autor foi aluno da Etec Prof. Carmelino Corrêa Jr. Franca - Centro Paulo Souza, nos períodos de 13/12/1974 a 21/12/1977, em regime de internato integral, com direito à alojamento e alimentação gratuitos (..)
+Nesse ponto, destaco que o tempo de aluno-aprendiz, em escola técnica profissional, remunerado à conta de dotações da União, mediante auxílios financeiros que se revertiam em forma de alimentação, fardamento e material escolar, é de ser computado, para fins previdenciários, como tempo de serviço público, de acordo com enunciado da Súmula TCU nº 96:
+"Conta-se para todos os efeitos, como tempo de serviço público, o período de trabalho prestado na qualidade de aluno - aprendiz, em Escola Pública Profissional, desde que comprovada retribuição pecuniária à conta do Orçamento, admitindo-se, como tal, o recebimento de alimentação, fardamento, material escolar e parcela de renda auferida como execução de encomenda para terceiros." (DOU, 03.01.95).
+(..)
+Possível, portanto, o reconhecimento do trabalho realizado como aluno-aprendiz.
+(..)
+Em suma, é devido o reconhecimento do tempo de trabalho rural compreendido entre 24/11/1968 a 30/11/1974, exceto para fins de carência e de contagem recíproca; do período como aluno-aprendiz compreendido entre 13/12/1974 a 21/12/1977; e do tempo de serviço para fins de contagem recíproca do período trabalhado para o Governo do Estado de São Paulo, de 22/04/1980 a 16/10/1985. (fls. 498/501)
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, acerca da comprovação dos requisitos previstos na Súmula 96/TCU, para fins de averbação do tempo de serviço como aluno-aprendiz, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, o que esbarra no óbice previsto na Súmula 7/STJ .
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INOCORRÊNCIA. ALUNO-APRENDIZ. TEMPO DE SERVIÇO. REQUISITOS. REEXAME. IMPOSSIBILIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. Consoante o entendimento desta Corte, é possível o cômputo do tempo de estudante como aluno-aprendiz de escola pública profissional para complementação de tempo de serviço, que objetiva fins previdenciários, desde que preenchidos os requisitos da comprovação do vínculo empregatício e da remuneração à conta do orçamento da União.
+3. Hipótese em que a apreciação da irresignação recursal esbarra no óbice das Súmulas 7 e 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.630.637/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe 22/9/2020).
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
