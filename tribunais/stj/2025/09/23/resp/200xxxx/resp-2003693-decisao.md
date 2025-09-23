@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, recurso especial interposto pelo Estado de Pernambuco contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fl. 79):
+PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO ERIVEDGE (VISMODEGIBE). PACIENTE PORTADOR DE CARCINOMA BASOCELULAR METASTÁTICO. STF. APRECIAÇÃO DO CASO À LUZ DOS PARÂMETROS FIXADOS NO AGRAVO REGIMENTAL NA STA 175/CE. REGISTRO NA ANVISA. HIPOSSUFICIÊNCIA FINANCEIRA. NECESSIDADE COMPROVADA. MULTA SEMANAL. FIXAÇÃO CONTRA A FAZENDA PÚBLICA. DESCABIMENTO. AGRAVO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 109-111).
+Sustenta o Estado de Pernambuco, em síntese, violação aos arts. 3º da Lei 8.666/1993 e 3º da Lei 9.787/1999, por afronta os princípios da isonomia, legalidade, impessoalidade e moralidade, ao impor a obrigação de fornecimento de medicamentos vinculados a marcas específicas.
+Sem contrarrazões.
+É o relatório.
+No caso, o Tribunal de origem destacou que o direito à saúde é um dever do Estado, vinculado ao direito à vida e à dignidade da pessoa humana, devendo ser assegurado por políticas públicas e ações concretas. Assim, concluiu que o autor demonstrou a necessidade do medicamento Erivedge (Vismodegibe), que possui registro na ANVISA e indicação expressa para a patologia, além de não haver alternativas terapêuticas eficazes.
+Desse modo, quanto à análise dos arts. 3º da Lei 8.666/1993 e 3º da Lei 9.787/1999, a matéria não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+Assim, em razão da falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 deste STJ: "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Quanto ao prequestionamento ficto, a jurisprudência desta Corte firmou-se no sentido de que "o  art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria (AgInt no AREsp n. 2.528.396/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Além disso, as razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, de modo que a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
