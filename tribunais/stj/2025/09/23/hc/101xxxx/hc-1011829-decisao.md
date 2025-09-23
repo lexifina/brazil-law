@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LAYS FRANCO DO NASCIMENTO CORREA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 30/4/2025, denegou a ordem (Habeas Corpus n. 2056114-51.2025.8.26.0000 - fls. 17/27).
+Sustenta que, no bojo do Pedido de Busca e Apreensão n. 1500733-27.2025.8.26.0385, da Vara Regional das Garantias da 7ª Região, comarca de Santos/SP, a paciente teve sua residência confundida com a de seu ex-companheiro, este, sim, investigado pelo crime de tráfico de drogas, e que, apesar de não figurar como investigada nos autos, foi expedido mandado de busca e apreensão em sua residência, o que configuraria ilegalidade e afronta ao princípio da inviolabilidade de domicílio (fls. 4/5).
+Aduz que a inclusão da paciente como investigada ocorreu apenas após a execução do mandado de busca e apreensão, em uma tentativa de justificar a medida, e que a investigação policial não apresentou elementos que vinculassem a ré aos crimes investigados, sendo a busca e apreensão realizada sem justa causa e em desacordo com os requisitos legais (fls. 4/5).
+Menciona que a apreensão de aparelhos celulares da paciente, durante a diligência, violou seu direito à intimidade, uma vez que não havia qualquer indício de sua participação nos crimes investigados, e que a perícia nos aparelhos configuraria nova afronta a direitos fundamentais (fls. 5/7).
+Alega que o mandado de busca e apreensão foi expedido com base em investigação falha, sem a devida comprovação de que o investigado residia no local, o que contraria o art. 243, inciso I, do Código de Processo Penal, e que a medida foi utilizada como uma "pesca probatória", prática rechaçada pela jurisprudência e doutrina (fls. 7/10).
+Afirma que a decisão que autorizou a busca e apreensão carece de fundamentação adequada, violando o art. 564, incisos IV e V, do Código de Processo Penal, e que a manutenção do inquérito policial em face da paciente é insustentável, pois se baseia em elementos obtidos de forma ilícita (fls. 10/14).
+Requer, liminarmente, a anulação da busca e apreensão realizada na residência da paciente, a devolução dos aparelhos celulares apreendidos e o trancamento do inquérito policial em que figura como investigada. No mérito, pleiteia a confirmação da liminar, com a cassação da busca e apreensão e o trancamento definitivo do inquérito policial (fls. 15/16).
+Liminar indeferida às fls. 107/108.
+Informações prestadas às fls. 128/131 e 195/200.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 167/183).
+É o relatório.
+Conforme anteriormente relatado, a paciente alega constrangimento ilegal em decorrência de uma busca e apreensão realizada em seu endereço mas direcionada a terceiro, G B dos S, que seria seu ex-companheiro, mas que deixou de residir no referido imóvel.
+Todavia, a diligência foi judicialmente autorizada, com fundamentação idônea, a partir de informações obtidas, à época, na investigação, que indicavam que G B dos S ainda residia no local.
+Destacou-se, ainda, que os investigados participavam ativamente da venda de drogas no conjunto habitacional BNH, localizado na comarca de Santos-SP (fl. 195) e que existe uma grande dificuldade no acesso ao local, haja vista a vigilância constante dos criminosos que atuam como "funcionários da biqueira", ocorre que apesar disto foi realizado diligências com drones, captaram imagens aéreas sem que pudessem ser percebidos pelos criminosos que ali atuam, momento que identificaram dois indivíduos, que se encontram foragidos, porém em suas residências foi encontrado um caderno descrevendo os três investigados nos presentes autos como participantes da operação criminosa (fls. 195/196).
+Constata-se, portanto, a existência de justa causa para o prosseguimento das investigações, bem como a imprescindibilidade da medida, evidenciadas por meio de investigações prévias robustas. Esses elementos fundamentam a entrada no domicílio da paciente e a apreensão dos bens, mostrando-se adequados para embasar a continuidade da apuração, ainda que em estágio inicial.
+Ademais, diante do fato relatado pelos policiais, no sentido de que a paciente tentou ocultar dois aparelhos celulares no momento em que os policiais chegaram à sua casa (fls. 196/197) entendo justificado o cumprimento do mandado de busca e apreensão. Ressaltando que a ré não era terceira totalmente estranha aos fatos, mas ex-companheira do investigado e mãe do filho dele, podendo ainda existir elementos de prova na residência, antes habitada por G B dos S, inclusive quanto ao real endereço do mesmo.
+A propósito, os seguintes precedentes que consideraram válido o cumprimento de mandado de busca e apreensão realizado em endereço de terceiro:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. BUSCA E APREENSÃO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental no recurso ordinário em habeas corpus interposto contra decisão que negou provimento ao recurso, mantendo a legalidade de busca e apreensão realizada em endereço de terceiro, não diretamente investigado.
+2. A busca e apreensão foi autorizada judicialmente com base em informações de que o local era utilizado pela organização criminosa Primeiro Comando da Capital (PCC) para armazenar armas, no contexto de investigação de homicídio.
+II. Questão em discussão
+3. A discussão consiste em saber se a busca e apreensão em imóvel de terceiro, não diretamente envolvido no crime investigado, pode ser considerada legal quando fundamentada em indícios de que o local é utilizado para fins ilícitos.
+4. Outro ponto é verificar se a apreensão de celular de terceiro, não mencionado no mandado, é válida no contexto de busca autorizada judicialmente.
+III. Razões de decidir
+5. A decisão que autorizou a busca e apreensão foi devidamente fundamentada, com base em indícios razoáveis de que o local poderia conter elementos de prova relativos à organização criminosa PCC.
+6. A jurisprudência permite a busca e apreensão em imóveis de terceiros não diretamente investigados, desde que existam fundadas razões para acreditar que o local possa conter provas de atividades ilícitas.
+7. A apreensão do celular ocorreu no contexto de uma busca legítima e regularmente ordenada, não havendo ilicitude ou contaminação das provas obtidas.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: 1. A busca e apreensão em imóvel de terceiro não diretamente investigado é válida quando fundamentada em indícios de uso do local para fins ilícitos. 2. A apreensão de objetos durante busca autorizada judicialmente é legítima, mesmo que o terceiro não seja mencionado no mandado, desde que haja contexto probatório suficiente.
+Dispositivos relevantes citados: CPP, art. 240, § 1º; CPP, arts. 245 e 246. Jurisprudência relevante citada: STJ, HC 624608/CE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02.02.2021; STJ, AgRg no RHC n. 137.379/MG, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 19.04.2022.
+(AgRg no RHC n. 203.817/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. LEGALIDADE DO CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. ENCONTRO FORTUITO DE PROVAS. NULIDADE INEXISTENTE. ORDEM DENEGADA.
+I. CASO EM EXAME 1. Habeas corpus impetrado contra acórdão do TJSC que manteve a prisão preventiva do paciente, investigado por tráfico de drogas e associação para o tráfico, após prisão em flagrante no cumprimento de mandado de busca e apreensão.
+2. A defesa alega constrangimento ilegal, sustentando que a diligência que resultou no flagrante era direcionada a terceiro e referente a crime estranho ao paciente.
+II. QUESTÃO EM DISCUSSÃO 3. A questão em discussão consiste em saber se a prisão preventiva do paciente, decorrente de flagrante em cumprimento de mandado de busca e apreensão, é ilegal, considerando que a diligência era direcionada a terceiro.
+III. RAZÕES DE DECIDIR 4. A legalidade do ingresso policial no domicílio foi constatada, uma vez que o mandado de busca e apreensão abrangia o imóvel e as pessoas presentes no local, conforme previsão do art. 244 do CPP.
+5. A jurisprudência admite a validade de provas encontradas fortuitamente, desde que não haja desvio de finalidade na execução do mandado.6. O habeas corpus não é substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não se verifica na espécie.
+IV. HABEAS CORPUS DENEGADO.(HC n. 880.253/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJEN de 4/12/2024).
+Por fim, verifico que não há como conhecer do pedido de trancamento do inquérito policial com relação à ora paciente, uma vez que inexiste constrangimento ilegal, já que ela não consta como investigada no referido inquérito.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. MEDIDA CAUTELAR DE BUSCA E APREENSÃO. ORDEM CUMPRIDA EM ENDEREÇO CONSTANTE DO MANDADO MAS PERTENCENTE A TERCEIRO. RESIDÊNCIA DA EX-COMPANHEIRA DO INVESTIGADO. ALEGAÇÃO DE NULIDADE NO CUMPRIMENTO DO MANDADO DE BUSCA E APREENSÃO. JUSTA CAUSA DEMONSTRADA PARA EXPEDIÇÃO E CUMPRIMENTO DO MANDADO. PLEITO DE TRANCAMENTO DO INQUÉRITO POLICIAL. PEDIDO NÃO CONHECIDO. PACIENTE QUE NÃO É INVESTIGADA NO REFERIDO INQUÉRITO.
+Ordem denegada.
