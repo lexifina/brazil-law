@@ -1,0 +1,14 @@
+DECISÃO
+EVERTON GRILLI agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, na Apelação Criminal n. 5001693-91.2018.8.21.0017.
+Consta dos autos que o agravante foi condenado à pena de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa aponta violação dos arts. 244, caput, e 158-A, do CPP, e 33, caput e § 4º, da Lei 11.343/06. Aduz que a) a busca pessoal foi realizada sem fundada suspeita, baseando-se apenas em denúncia anônima; b) houve quebra da cadeia de custódia das provas extraídas dos aparelhos celulares apreendidos; c) não há provas suficientes que comprovem a intenção do acusado de praticar qualquer dos verbos do art. 33 da Lei de Drogas; d) cabível a aplicação da minorante, pois não restou demonstrada a dedicação a atividades criminosas. Requer absolvição ou, subsidiariamente, aplicação da minorante e alteração do regime inicial.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal de orige m, o que motivou a interposição deste agravo.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (fls. 846-850).
+Decido.
+O agravo não comporta conhecimento, visto que a parte agravante deixou de rebater todos os fundamentos da decisão agravada.
+O recurso especial foi inadmitido em razão dos seguintes óbices: Súmula n. 126 do STJ, Súmula n. 83 do STJ e Súmula n. 7 do STJ.
+Em relação à Súmula n. 7 do STJ, noto que ela serviu de óbice ao conhecimento do recurso especial tanto em relação à aplicabilidade da minorante do § 4º do art. 33 da Lei de Drogas, quanto em relação à tese de violação da cadeia de custódia. O agravante só refutou a incidência do óbice em relação à aplicabilidade da minorante, ao passo que permaneceu silente quanto à aplicação do mesmo óbice sumular à alegação de quebra da cadeia de custódia das provas digitais extraídas dos aparelhos celulares. A decisão agravada expressamente fundamentou a inadmissão desta tese na Súmula n. 7 do STJ, óbice que não foi especificamente enfrentado pelo agravante no tocante a esta questão.
+Portanto, verifica-se que o agravante não rebateu, com particularidade, todos os óbices de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
