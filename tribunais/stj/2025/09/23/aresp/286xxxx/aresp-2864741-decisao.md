@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo CONSORCIO METROPOLITANO DE TRANSPORTES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu o recurso especial, em razão da inexistência de ofensa aos artigos 489 e 1.022 do Código de Processo Civil (CPC/2015) e da incidência das Súmulas n. 5 e 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 602):
+CONSTITUCIONAL E ADMINISTRATIVO MANDADO DE SEGURANÇA CONTRATO ADMINISTRATIVO TRANSPORTE PÚBLICO RESERVA TÉCNICA OPERACIONAL DESATIVAÇÃO DE VALIDADOR PELO CONSÓRCIO METROPOLITAN O DE TRANSPORTES INADMISSIBILIDADE AUSÊNCIA DE COMPETÊNCIA ADMINISTRATIVA - ILEGALIDADE OU ABUSO DE PODER E OFENSA A DIREITO LÍQUIDO E CERTO EXISTÊNCIA.
+1. O mandado de segurança se destina à correção de ato ou omissão de autoridade, desde que ilegal e ofensivo a direito individual ou coletivo, líquido e certo do impetrante (art. 5º, LXIX, CF).
+2. Direito líquido e certo é o que se apresenta manifesto na sua existência, incontestável, pré-constituído, delimitado na sua extensão e apto a ser exercitado no momento da impetração.
+3. O Consórcio Metropolitano de Transportes, pessoa jurídica de direito privado contratada pera gestão de bilhetagem, não tem competência para rescindir, na prática, contrato administrativo do qual não é parte. Precedentes. Ilegalidade configurada. Segurança concedida. Sentença mantida. Reexame necessário e recurso providos, em parte.
+Embargos de declaração rejeitados (fls. 667/670).
+No recurso especial, a parte recorrente alega violação dos artigos 1.022 e 489, § 1º, IV, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito das seguintes questões: (a) o fato de que o desligamento dos validadores dos operadores da Reserva Técnica Operacional (RTO), realizado pelo recorrente, não possui o condão de paralisar as atividades desempenhadas pelo Recorrido, tratando-se de conduta adotada para cumprir decisão do STF no Tema 854; e (b) a ausência de análise sobre a natureza complementar do serviço de transporte público prestado pelo Recorrido, que opera sem a devida licença prévia, e sobre o atestado emitido pela EMTU, que confirma a inexistência de impacto relevante no transporte público da Região Metropolitana de São Paulo (RMSP) em decorrência do ato praticado pelo Recorrente.
+Quanto à questão de fundo, sustenta ofensa aos artigos 489, §1º, VI, 926 e 927 do CPC/2015, sob o argumento de que o acórdão recorrido deixou de observar o precedente vinculante firmado pelo Supremo Tribunal Federal no julgamento do Tema 854 da Repercussão Geral, que determinou a paralisação imediata das atividades dos operadores da Reserva Técnica Operacional (RTO), configurando violação ao princípio da segurança jurídica.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Sem contraminuta.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De início, afasta-se a alegada violação do artigo 1.022 e 489, IV, do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito aos artigos 489, VI, 926 e 927 do CPC e à tese a eles vinculada, verifico não ter sido apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Além disso, convém ressaltar que o voto condutor do acórdão recorrido consignou o seguinte:
+ainda que haja decisão do STF pela impossibilidade da prestação de serviço de transporte coletivo por simples credenciamento, as decisões referentes ao Contrato nº 3-120/2011, assinado entre o impetrante e a Empresa Metropolitana de Transportes Urbanos EMTU, não se inserem na competência da CMT
+(fl. 604 - grifei)
+Ocorre que a parte recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula n. 283/STF.
+Ante o exposto, conheço do agravo, para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TRANSPORTE PÚBLICO. RESERVA TÉCNICA OPERACIONAL (RTO). DESLIGAMENTO DE VALIDADORES. VIOLAÇÃO DO ART. 1.022 e 489, IV, DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
