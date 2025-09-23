@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto por ELEKTRO REDES S.A. contra a decisão de fl. 697 da Presidência do Superior Tribunal de Justiça, em que não conheceu do agravo em recurso especial, sob a motivação de intempestividade do recurso especial.
+A parte agravante defende a tempestividade do recurso especial, razão pela qual pugna pela reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+É o relatório.
+Decido.
+Mostra-se  equívoca  a decisão agravada, porquanto tempestivo o recurso especial.
+Como cediço, a comprovação da existência de feriado local para fins de contagem do prazo recursal constitui requisito processual de tempestividade.
+A este respeito, o CPC/1973 permitia a comprovação do feriado local e da suspensão do expediente posteriormente à interposição, porquanto vício sanável.
+Já o CPC/2015 alterou essa disposição e passou a considerar a ausência de comprovação do feriado local no ato da interposição como vício grave e, portanto, insanável.
+Contudo, com o advento da Lei n. 14.939/2024, a sistemática do CPC/1973 foi restaurada, com a alteração da redação do art. 1.003, § 6º, do CPC que dispõe que: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+Na sequência, nos autos do AREsp n. 2.638.376/MG, a Corte Especial acolheu, por maioria, em 5/2/2025, que "a questão de ordem proposta no sentido de aplicar os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense".
+Fixou-se, assim, o entendimento acerca da natureza de vício formal sanável a ausência de comprovação do feriado local na interposição do recurso, providência que o Tribunal determinará ao recorrente, caso não tenha feito, ou mesmo poderá desconsiderar referida eiva se a informação constar do processo eletrônico.
+Ressaltada a hipótese de coisa julgada formal sobre a intempestividade do recurso, "a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício" (QO no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 27/3/2025, DJEN de 5/2/2025):
+PROCESSUAL CIVIL. QUESTÃO DE ORGEM NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. LEI N. 14.939/2024. ALTERAÇÃO DO § 6º DO ART. 1.003 DO CPC/2015. APLICAÇÃO A RECURSOS ANTERIORES À VIGÊNCIA DO NOVO DIPLOMA LEGISLATIVO.
+1. A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+3. Questão de ordem acolhida pela Corte Especial.
+(QO no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 5/2/2025, DJEN de 27/3/2025.)
+Assim, no caso, o ora agravante comprovou nos autos a existência de feriado ao interpor o agravo interno, consoante se denota das fls. 712-714, de modo que, considerando a publicação do acórdão recorrido em 2/2/2024 (fl. 480), é tempestivo o recurso especial interposto em 27/2/2027.
+No que concerne ao agravo em recurso especial, esse não comporta conhecimento.
+O recurso especial foi inadmitido pelo Tribunal de origem com espeque nos seguintes esteios: (a) insuficiência das razões recursais acerca da alegada ofensa à legislação federal; (b) incidência da Súmula n. 7 do STJ; e (c) impropriedade da via eleita para veicular ofensa a Resolução da ANEEL pelo não enquadramento no conceito de lei federal (fls. 589-591).
+No agravo em recurso especial, a parte agravante deixou de refutar os itens "a" e "c", limitando-se a impugnar, de modo genérico, a incidência da Súmula n. 7 do STJ.
+No caso, para refutar a inadmissão do recurso especial quanto à Súmula n. 7/STJ, cabe ao agravante demonstrar, à luz da análise fático-probatória pelo Tribunal de origem, a desnecessidade de reexame factual para deslinde da controvérsia delineada no recurso especial. Ilustrativamente:
+ ..
+X. Com efeito, no "recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (STJ, AgInt no AREsp 2.009.427/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/06/2022). Em igual sentido: "A impugnação do óbice da súmula 7/STJ exige do recorrente o cotejo analítico entre a decisão e suas razões recursais, a fim de demonstrar a ausência de necessidade de reexame de fatos e provas. A simples alegação de se tratar de revaloração probatória é insuficiente para a impugnação do referido óbice" (STJ, AgInt no AREsp 1.788.623/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/08/2022). Adotando igual orientação: STJ, AgInt no AREsp 1.891.981/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/08/2022.
+XI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 1.816.305/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2023, DJe de 28/6/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ. Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, reconsiderada a decisão de fl. 697, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 479), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
