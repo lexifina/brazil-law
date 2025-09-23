@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WELLINGTON JARDIM DE SOUZA à decisão de minha lavra assim ementada (fl. 458):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO POR INCAPACIDADE. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+O embargante alega ocorrência de vício de obscuridade, aduzindo que a decisão impugnada não conheceu do agravo em recurso especial "com fundamento no fato de que o Recurso cabível seria o Agravo Interno por conta da incidência do Tema n. 1.220 do STJ" (fl. 474), mas que o assunto tratado nesse tema não é objeto do apelo nobre e do agravo em recurso especial.
+Assinala, ainda, que não houve manifestação sobre a alegação de que, no recurso especial e no agravo em recurso especial, foi sustentada a inaplicabilidade da Súmula n. 7 do STJ (fl. 475).
+É o relatório. Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+De início, não há falar em ausência de pronunciamento quanto à irresignação concernente à Súmula n. 7 do STJ. A decisão embargada não conheceu do agravo em recurso especial por não ter o recorrente se insurgido contra a aplicação desse óbice sumular e o descabimento do apelo nobre para impugnar suposta ofensa a dispositivos constitucionais, fundamentos da decisão que inadmitiu o apelo nobre, o que ensejou a aplicação da Súmula n. 182 do STJ.
+Quanto ao mais, os presentes embargos de declaração devem ser acolhidos, contudo, sem atribuição de efeitos infringentes.
+De fato, constou da decisão embargada que "O Tribunal de origem negou seguimento ao recurso especial com base no art. 1.030, inciso I, alínea b, do CPC, quanto à questão decidida em recurso especial representativo da controvérsia (Tema n. 1.220 do STJ)  .. " (fl. 459). Impõe-se esclarecer que o Tribunal a quo inadmitiu o apelo nobre com base no referido dispositivo processual tendo em vista o julgamento do Tema Repetitivo n. 1.246 do STJ (fls. 424-425).
+Ante o exposto, A COLHO PARCIALMENTE os embargos de declaração, sem atribuição de efeitos infringentes, apenas para esclarecer que a inadmissibilidade do apelo nobre na origem, com base no art. 1.030, inciso I, alínea b, do CPC, decorreu do julgamento do Tema Repetitivo n. 1.246 do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. OBSCURIDADE. VÍCIO SANADO. EMBARGOS DECLARATÓRIOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES .
