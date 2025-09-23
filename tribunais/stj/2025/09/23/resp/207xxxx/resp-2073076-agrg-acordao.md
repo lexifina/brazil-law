@@ -1,0 +1,114 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Marluce Caldas, Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Violação de Domicílio. Fundadas Razões. denúncia anônima. diligências. Consentimento. reconhecimento pelas instâncias ordinárias. Dosimetria da Pena. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo acórdão do Tribunal de Justiça do Estado do Pará que redimensionou a pena-base ao mínimo legal, mas preservou a condenação do agravante pelo crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006), com pena definitiva de 6 anos de reclusão.
+2. A defesa alegou nulidade da prova por violação de domicílio, ausência de fundadas razões e inexistência de consentimento válido, além de desproporcionalidade na exasperação da pena-base.
+3. A decisão agravada rejeitou a insurgência, fundamentando-se em: (i) denúncia prévia corroborada por informações colhidas no local e autorização de ingresso concedida pela esposa do réu; (ii) confissão judicial do agravante; (iii) quantidade e diversidade de drogas apreendidas (403 g de maconha e 275 g de cocaína), legitimando a valoração negativa; e (iv) óbice da Súmula 7, STJ para revisão de premissas fáticas.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se o ingresso domiciliar sem mandado judicial foi amparado por fundadas razões devidamente justificadas e consentimento válido; e (ii) verificar se a dosimetria da pena foi fundamentada em elementos concretos e idôneos.
+III. Razões de decidir
+5. A jurisprudência do STF e do STJ admite o ingresso em domicílio sem mandado judicial quando há fundadas razões, devidamente justificadas, que indiquem a ocorrência de crime permanente, como tráfico de drogas.
+6. No caso, o ingresso foi motivado por denúncia prévia corroborada por informações colhidas no local e consentimento da esposa do agravante, além da confissão judicial do réu sobre a posse e destinação mercantil dos entorpecentes.
+7. A quantidade e diversidade das drogas apreendidas foram consideradas para a valoração negativa das circunstâncias judiciais, em conformidade com o art. 59 do CP e o art. 42 da Lei 11.343/2006.
+8. A revisão das premissas fáticas encontra óbice na Súmula 7, STJ, sendo inviável em sede de recurso especial.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo não provido.
+Tese de julgamento:
+1. O ingresso em domicílio sem mandado judicial é legítimo quando amparado por fundadas razões devidamente justificadas, que indiquem a ocorrência de crime permanente.
+2. A autorização de um familiar para o ingresso dos policiais na residência do acusado é válida se comprovada por depoimentos consistentes.
+3. A valoração negativa das circunstâncias judiciais deve ser fundamentada em elementos concretos dos autos.
+Dispositivos relevantes citados: CRFB, art. 5º, XI; CPP, arts. 240, § 2º, e 244; CP, art. 59; Lei 11.343/2006, art. 42.
+Jurisprudência relevante citada: STF, RE 603.616, Rel. Min. Gilmar Mendes, Plenário, julgado em 05.11.2015; STJ, HC 598.051/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 02.03.2021; STJ, AgRg no HC 734.423/GO, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 24.05.2022.
+RELATÓRIO
+Trata-se de AGRAVO REGIMENTAL interposto por JOÃO FELIPE DA SILVA RODRIGUES OLIVEIRA contra decisão monocrática que negou provimento ao Recurso Especial, mantendo acórdão do Tribunal de Justiça do Estado do Pará que, embora tenha redimensionado a pena-base ao mínimo legal, preservou a condenação do agravante pelo crime do art. 33, caput, da Lei 11.343/2006, fixando a reprimenda definitiva em 6 (seis) anos de reclusão, em regime semiaberto, e o pagamento de 600 (seiscentos) dias-multa.
+Na origem do especial, a Defesa sustentou nulidade da prova por violação de domicílio, ausência de fundadas razões e inexistência de consentimento válido, bem como desproporcionalidade na exasperação da pena-base. A decisão agravada rejeitou a insurgência, assentando, em síntese: (a) a atuação policial foi motivada por denúncia prévia corroborada por informações colhidas in loco, com autorização de ingresso concedida pela esposa do réu; (b) o agravante confessou a prática delitiva em juízo; (c) a quantidade e diversidade de droga apreendida  aproximadamente 403 g de maconha e 275 g de cocaína  legitima a valoração negativa, na linha do art. 59 do CP e do art. 42 da Lei 11.343/06; e (d) a revisão das premissas fáticas encontra óbice na Súmula 7/STJ.
+No agravo, a Defensoria Pública do Estado do Pará sustenta que o ingresso domiciliar teria se apoiado exclusivamente em denúncia anônima, sem diligências pretéritas idôneas, e que inexiste prova válida de consentimento da companheira; invoca, ainda, parecer ministerial pelo provimento do especial, além de precedentes sobre a necessidade de "fundadas razões" objetivas e de comprovação da anuência por meio idôneo, e requer o reconhecimento da ilicitude das provas e a absolvição nos termos do art. 386, VII, do CPP.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Violação de Domicílio. Fundadas Razões. denúncia anônima. diligências. Consentimento. reconhecimento pelas instâncias ordinárias. Dosimetria da Pena. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo acórdão do Tribunal de Justiça do Estado do Pará que redimensionou a pena-base ao mínimo legal, mas preservou a condenação do agravante pelo crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006), com pena definitiva de 6 anos de reclusão.
+2. A defesa alegou nulidade da prova por violação de domicílio, ausência de fundadas razões e inexistência de consentimento válido, além de desproporcionalidade na exasperação da pena-base.
+3. A decisão agravada rejeitou a insurgência, fundamentando-se em: (i) denúncia prévia corroborada por informações colhidas no local e autorização de ingresso concedida pela esposa do réu; (ii) confissão judicial do agravante; (iii) quantidade e diversidade de drogas apreendidas (403 g de maconha e 275 g de cocaína), legitimando a valoração negativa; e (iv) óbice da Súmula 7, STJ para revisão de premissas fáticas.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se o ingresso domiciliar sem mandado judicial foi amparado por fundadas razões devidamente justificadas e consentimento válido; e (ii) verificar se a dosimetria da pena foi fundamentada em elementos concretos e idôneos.
+III. Razões de decidir
+5. A jurisprudência do STF e do STJ admite o ingresso em domicílio sem mandado judicial quando há fundadas razões, devidamente justificadas, que indiquem a ocorrência de crime permanente, como tráfico de drogas.
+6. No caso, o ingresso foi motivado por denúncia prévia corroborada por informações colhidas no local e consentimento da esposa do agravante, além da confissão judicial do réu sobre a posse e destinação mercantil dos entorpecentes.
+7. A quantidade e diversidade das drogas apreendidas foram consideradas para a valoração negativa das circunstâncias judiciais, em conformidade com o art. 59 do CP e o art. 42 da Lei 11.343/2006.
+8. A revisão das premissas fáticas encontra óbice na Súmula 7, STJ, sendo inviável em sede de recurso especial.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo não provido.
+Tese de julgamento:
+1. O ingresso em domicílio sem mandado judicial é legítimo quando amparado por fundadas razões devidamente justificadas, que indiquem a ocorrência de crime permanente.
+2. A autorização de um familiar para o ingresso dos policiais na residência do acusado é válida se comprovada por depoimentos consistentes.
+3. A valoração negativa das circunstâncias judiciais deve ser fundamentada em elementos concretos dos autos.
+Dispositivos relevantes citados: CRFB, art. 5º, XI; CPP, arts. 240, § 2º, e 244; CP, art. 59; Lei 11.343/2006, art. 42.
+Jurisprudência relevante citada: STF, RE 603.616, Rel. Min. Gilmar Mendes, Plenário, julgado em 05.11.2015; STJ, HC 598.051/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 02.03.2021; STJ, AgRg no HC 734.423/GO, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 24.05.2022.
+VOTO
+A decisão monocrática merece ser mantida por seus próprios e jurídicos fundamentos.
+O Supremo Tribunal Federal, no RE 603.616 (Tema 280), firmou orientação de que é lícita a entrada em domicílio, sem mandado judicial, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem a ocorrência de flagrante delito no interior da residência. A Sexta Turma deste Superior Tribunal tem, por sua vez, densificado o standard probatório exigível, repelindo o ingresso fundado apenas em denúncia anônima desacompanhada de diligências mínimas e recomendando a documentação idônea do consentimento, e nisso vem sofrendo reformas nas decisões.
+Nada obstante, o caso concreto  tal como fotografado na decisão agravada  não se subsome à hipótese de nulidade automática pretendida pela Defesa.
+Com efeito, o decisum singular, apoiado no acórdão estadual e nas peças processuais, expressamente registrou: (i) notícia prévia de tráfico no imóvel, corroborada por informações colhidas junto a transeuntes, no local dos fatos; (ii) autorização para o ingresso, conferida pela esposa do agravante; e (iii) confissão judicial do réu quanto à posse e à destinação mercantil dos entorpecentes. A partir dessas premissas, a decisão concluiu pela licitude da diligência, afastando a tese de violação de domicílio e, por consequência, a ilicitude derivada, e, quanto à dosimetria, afirmou a correção da valoração negativa calcada na quantidade e natureza das drogas apreendidas, à luz do art. 42 da Lei de Drogas.
+A pretensão recursal  que nega a existência de anuência e sustenta que não houve diligência prévia  implica reabrir o cenário fático delineado, afirmado pelo Tribunal local, é providência sabidamente incompatível com a via do especial, incidindo a Súmula 7, STJ.
+A invocação de julgados que rechaçam o ingresso baseado apenas em denúncia apócrifa não socorre à tese defensiva, porque, no contexto dos autos, a decisão agravada destacou elementos adicionais que, conjugados, satisfazem o parâmetro de fundadas razões, particularmente a diligência na vizinhança antes da solicitação de ingresso na residência; de igual modo, a discussão sobre a prova do consentimento não pode, nesta sede, transmutar-se em juízo substitutivo da cognição das instâncias ordinárias quanto à credibilidade dos relatos e à suficiência da documentação existente. A propósito, o voto singular também ressaltou que o agravante foi beneficiado com a atenuante da confissão, o que robustece a higidez do iter persecutório e fragiliza a narrativa de "nulidade total" do material probatório.
+A decisão segue a jurisprudência do Supremo Tribunal Federal:
+EMENTA AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ALEGADA VIOLAÇÃO DE DOMICÍLIO. TEMA N. 280 DA REPERCUSSÃO GERAL. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM DESCONFORMIDADE COM O DECIDIDO NO RE 603.616. RECURSO EXTRAORDINÁRIO PROVIDO.
+1. Nos crimes de natureza permanente - tráfico de entorpecentes, na espécie -, cuja situação de flagrância se protrai no tempo, é dispensável a apresentação de mandado judicial para o ingresso forçado na residência do acusado desde que a medida esteja amparada em fundadas razões (Tema n. 280/RG). 2. Considerando o reconhecimento de autorização da moradora para o ingresso em domicílio, o acórdão do Superior Tribunal de Justiça divergiu do entendimento firmado no Tema n. 280 da repercussão geral. 3. Agravo interno desprovido.
+(RE 1358185 AgR, Relator(a): NUNES MARQUES, Segunda Turma, julgado em 16-05-2022, PROCESSO ELETRÔNICO DJe-107 DIVULG 01-06-2022 PUBLIC 02-06-2022)
+EMENTA: DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INVIOLABILIDADE DE DOMICÍLIO. FUNDADAS RAZÕES PARA O INGRESSO NO IMÓVEL DEVIDAMENTE COMPROVADAS A POSTERIORI. ACÓRDÃO RECORRIDO EM DIVERGÊNCIA COM A JURISPRUDÊNCIA DO STF. JUSTA CAUSA CONFIGURADA. INTERPRETAÇÃO DO TEMA Nº 280 DA REPERCUSSÃO GERAL. PROVIMENTO DO RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL CONHECIDO E NÃO PROVIDO.
+1. O entendimento adotado no acórdão impugnado não está alinhado à orientação do Plenário desta Suprema Corte, firmada no julgamento do RE 603.616-RG (Tema nº 280 da repercussão geral), na qual fixada a tese de que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados". 2. Na hipótese, a atuação policial foi lícita, pois os policiais estavam em patrulhamento quando receberam a informação de que um indivíduo estaria guardando drogas em sua residência. Ato contínuo, se deslocaram até o local e tiveram a entrada franqueada pela genitora do agravante, tendo sido encontradas 55 porções de maconha, 21 pinos plásticos contendo cocaína e R$24,00 em espécie. 3. Assim, a entrada na residência pelos agentes policiais se deu mediante justa causa, com amparo em elementos que indicavam a suspeita de situação autorizadora do ingresso no domicílio sem mandado judicial, bem como mediante autorização da genitora do agravante, razão pela qual se verifica divergência entre o acórdão recorrido e a tese firmada no referido Tema 280. Precedentes. 4. Agravo regimental conhecido e não provido.
+(RE 1547737 AgR, Relator(a): FLÁVIO DINO, Primeira Turma, julgado em 16-06-2025, PROCESSO ELETRÔNICO DJe-s/n DIVULG 18-06-2025 PUBLIC 23-06-2025)
+No mesmo sentido é a jurisprudência desta Turma:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ABORDAGEM EM VIA PÚBLICA. DESCARTE DE DROGA VISUALIZADO PELA POLÍCIA. BUSCA DOMICILIAR SEM MANDADO. CIRCUNSTÂNCIAS OBJETIVAS DE FLAGRANTE DELITO. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que denegou a ordem em habeas corpus impetrado por condenado por tráfico de drogas. A defesa alegou ausência de fundadas razões para a busca domiciliar sem mandado judicial, sustentando que o paciente estava no interior de sua residência e que a versão policial sobre o descarte da droga carece de precisão. Requereu o provimento do agravo com a concessão da ordem ou, subsidiariamente, a submissão ao colegiado.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se a abordagem do paciente em via pública, seguida do ingresso em sua residência, foi amparada por fundada suspeita que legitime a diligência policial sem prévia autorização judicial; (ii) estabelecer se a suposta ausência de consentimento para a entrada no domicílio e a divergência sobre a dinâmica dos fatos afasta a validade das provas obtidas.
+III. RAZÕES DE DECIDIR
+3. A abordagem policial em via pública está legitimada quando baseada em denúncia específica e observação direta de conduta suspeita, como o descarte de objeto posteriormente identificado como droga, conforme previsão do art. 244 do CPP.
+4. A entrada na residência do paciente foi precedida da apreensão de um tijolo de maconha em sua posse e de indicação, pelo próprio acusado, de que havia mais entorpecentes no interior do imóvel, o que configurou flagrante delito e autorizou a busca domiciliar sem mandado, nos termos do art. 240, § 1º, do CPP.
+5. O STF, no julgamento do Tema 280 da repercussão geral, fixou que a entrada forçada em domicílio sem mandado judicial exige fundadas razões, posteriormente justificadas, que indiquem a ocorrência de flagrante delito, entendimento adotado de forma reiterada pelo STJ.
+6. A alegação de que o genitor do paciente não autorizou a entrada da polícia no imóvel foi afastada pelas instâncias ordinárias com base em prova colhida nos autos, sendo inviável a rediscussão da matéria em sede de habeas corpus por demandar revolvimento fático-probatório.
+7. O conjunto probatório é harmônico e suficiente para corroborar a tese acusatória, inexistindo ilegalidade flagrante que autorize a concessão da ordem.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 981.863/RS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA VIOLAÇÃO DE DOMICÍLIO. FUNDADA SUSPEITA. LEGALIDADE DA ABORDAGEM POLICIAL. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que deu parcial provimento ao recurso especial, apenas para aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, redimensionando a pena privativa de liberdade.
+2. A defesa alega nulidade na busca domiciliar, sustentando ausência de justa causa para a diligência, em violação aos artigos 240, § 2º, c/c 244, ambos do Código de Processo Penal, e que a entrada dos policiais na residência ocorreu sem prévia autorização judicial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a entrada dos policiais na residência sem mandado judicial foi amparada por fundadas razões que justificassem a diligência, conforme exigido pelo Supremo Tribunal Federal.
+III. Razões de decidir
+4. A decisão agravada foi mantida, pois a parte agravante não apresentou argumentos suficientes para sua alteração, considerando que havia fundada suspeita do cometimento de crime de tráfico de drogas no local, com base em informações do serviço de inteligência policial.
+5. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal admite o ingresso em domicílio sem mandado judicial quando há fundadas razões, devidamente justificadas, que indiquem a ocorrência de crime permanente no interior da residência.
+6. No caso, existiam prévias informações do serviço de inteligência policial acerca da prática delitiva por parte dos réus, o que levou à apreensão de 125 gramas de substância semelhante à maconha, além de 31 porções fracionadas do mesmo entorpecente, uma balança de precisão e papel filme na residência.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. O ingresso em domicílio sem mandado judicial é legítimo quando amparado por fundadas razões que indiquem a ocorrência de crime permanente. 2. A existência de informações prévias do serviço de inteligência policial pode justificar a diligência policial sem mandado judicial".
+Dispositivos relevantes citados: CRFB, art. 5º, XI; CPP, arts. 240, § 2º, e 244.Jurisprudência relevante citada: STJ, HC 598.051/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021; STJ, AgRg no HC 734.423/GO, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022; STJ, AgRg no HC 688.825/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 17/5/2022.
+(AgRg no REsp n. 2.168.760/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. NULIDADE DE PROVA. RECONHECIMENTO DE PESSOA. DOSIMETRIA DA PENA. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, o qual alegava nulidade de provas por violação de domicílio, ilegalidade no reconhecimento dos acusados e questionava a dosimetria da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve nulidade das provas obtidas por violação de domicílio sem mandado judicial e se o reconhecimento pessoal realizado em desacordo com o art. 226 do Código de Processo Penal é válido.
+3. A questão também envolve a análise da dosimetria da pena, questionando se a valoração negativa das circunstâncias judiciais foi fundamentada em elementos concretos e idôneos.
+III. Razões de decidir
+4. A Corte de origem concluiu que havia fundadas razões para o ingresso sem mandado judicial, com autorização do genitor do agravante, o que foi corroborado por depoimentos consistentes.
+5. O reconhecimento pessoal, ainda que não realizado nos moldes do art. 226 do CPP, não foi o único elemento a amparar a autoria delitiva, a qual foi devidamente corroborada por outras provas produzidas em juízo.
+6. A dosimetria da pena foi mantida, pois as instâncias ordinárias valoraram negativamente as circunstâncias judiciais com base em elementos concretos dos autos.
+IV. Dispositivo e tese
+7. Agravo não provido.
+Tese de julgamento: "1. A autorização de um familiar para o ingresso dos policiais na residência do acusado é válida se comprovada por depoimentos consistentes. 2. O reconhecimento pessoal realizado em desacordo com o art. 226 do CPP não gera nulidade se a autoria for comprovada por outros meios de prova. 3. A valoração negativa das circunstâncias judiciais deve ser fundamentada em elementos concretos dos autos".
+Dispositivos relevantes citados: CPP, art. 226; CP, art. 59.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.613.601/SP, Rel. Min. Carlos Cini Marchionatti, Quinta Turma, julgado em 20.05.2025; STJ, REsp 1.986.619/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11.06.2025.
+(AgRg no AREsp n. 2.691.869/PB, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+No tocante à dosimetria, prevalece a diretriz de autocontenção: a reprimenda foi fixada, ao final, em 6 (seis) anos de reclusão, após a redução da pena-base ao mínimo legal pelo Tribunal de origem; a decisão agravada tão somente consignou que a exasperação mínima se apoiou em critérios concretos  a quantidade e diversidade de drogas  , em conformidade com o art. 59 do CP e o art. 42 da Lei 11.343/06, o que afasta alegação de desproporcionalidade e obsta, uma vez mais, o reexame de matéria fática.
+Registre-se, por derradeiro, que o parecer do Ministério Público Federal, embora digno de respeito, não vincula o julgamento jurisdicional, sobretudo quando a solução assentada na decisão agravada se mantém congruente com o quadro probatório reconhecido e com a jurisprudência desta Corte quanto aos limites cognitivos do especial.
+Nessas condições, ausente qualquer vício de legalidade e presente o óbice sumular, impõe-se prestigiar a decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental, mantendo integralmente a decisão monocrática que negou provimento ao recurso especial, por seus próprios fundamentos.
+É como voto.
