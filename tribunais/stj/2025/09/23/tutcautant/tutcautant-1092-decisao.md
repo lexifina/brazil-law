@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido cautelar contra ato praticado pelo órgão colegiado da Sexta Turma do Tribunal Regional Federal da 3ª Região, decorrente do acórdão proferido no agravo de instrumento n. 5006841-27.2025.4.03.0000, que ofenderia os Temas 269 e 270 do Superior Tribunal de Justiça, bem como atentaria contra a coisa julgada e provocaria instabilidade institucional.
+Relatam os requerentes: i) são réus em sede de medida cautelar fiscal, sendo que os bens da pessoa jurídica estão bloqueados em razão de decisão judicial proferida naqueles autos; ii) Filipe Augusto Casonato Martins estaria doente, submetendo-se a tratamento de alto custo, de modo que o desbloqueio seria relevante para o pagamento dos respectivos gastos; iii) o Juízo de origem teria autorizado o desbloqueio, entretanto, o novo magistrado passou a impor restrições para tanto, sendo sua decisão mantida pelo Tribunal Regional Federal da 3ª Região; e iv) na seara administrativa, a discussão está parada, sem previsão de conclusão.
+Em síntese, requerem seja concedida medida liminar de tutela de urgência para ordenar a imediata observância dos limites da coisa julgada, bem como a desconstituição do bloqueio que atinge os bens da empresa requerente.
+É o relatório. Decido.
+O art. 105 da Constituição Federal não prevê dentre as competências do Superior Tribunal de Justiça a apreciação de pedido cautelar impetrado contra o ato mencionado pelos requerentes. Ressalto, por oportuno, que o presente pedido sequer estaria atrelado a um recurso especial eventualmente interposto pelos requerentes, justificando o pedido a esta Corte.
+Ainda que o pedido cautelar pudesse ser interpretado como reclamação, a Corte Especial do Superior Tribunal de Justiça possui entendimento pacífico de que é inadmissível a reclamação para se realizar o controle de adequação do entendimento das instâncias ordinárias com as teses fixadas pela Corte Cidadã. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXAME DE ADEQUAÇÃO DE ENTENDIMENTO SEDIMENTADO EM RECURSO ESPECIAL REPETITIVO. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte de Uniformização compreende que, sendo "o recurso inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria" (EDcl no AgInt no AR Esp n. 1.451.503/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/12/2019, DJe de 19/12/2019).
+2. A reclamação é via processual específica e não pode ser utilizada como sucedâneo recursal, como pretende a parte ao buscar o reconhecimento de omissão na decisão que negou seguimento ao recurso especial.
+3. De acordo com o posicionamento adotado pela Corte Especial do STJ, é inadmissível a reclamação para se realizar o controle de adequação do entendimento das instâncias ordinárias com as teses fixadas por este Tribunal em recurso especial repetitivo.
+4. Agravo interno desprovido.
+(AgInt nos EDcl na Rcl n. 47.309/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 3/9/2024, DJe de 5/9/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ. AUSÊNCIA. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ. DESCABIMENTO. RECLAMAÇÃO AJUIZADA NA ORIGEM CONTRA ACÓRDÃO DE TURMA RECURSAL. ACÓRDÃO DA TURMA UNIFORMIZADORA QUE INADMITIU A RECLAMAÇÃO. NOVA RECLAMAÇÃO AJUIZADA NO STJ. SUCEDÂNEO RECURSAL. REDISCUSSÃO DE CRITÉRIOS DE ADMISSIBILIDADE DAS RECLAMAÇÕES PERANTE TURMA DE UNIFORMIZAÇÃO. IMPOSSIBILIDADE.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a pacífica jurisprudência desta Corte, é incabível o ajuizamento de reclamação com o objetivo de adequar o julgado impugnado à jurisprudência do STJ.
+3. Nos termos da Resolução STJ nº 3/2016, compete às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a apreciação das Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do STJ.
+4. O insucesso da reclamação anterior, proposta no Tribunal competente, não dá ensejo à propositura de uma nova reclamação com os mesmos fundamentos à esta Corte, devendo-se coibir sua utilização como sucedâneo recursal. Precedente.
+5. É inviável ao STJ interferir nos critérios de admissibilidade das reclamações propostas perante as Turmas Uniformizadoras locais. Precedentes.
+6. Agravo interno não provido.
+(AgInt na Rcl n. 47.533/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 20/8/2024, DJe de 22/8/2024)
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
+EMENTA
