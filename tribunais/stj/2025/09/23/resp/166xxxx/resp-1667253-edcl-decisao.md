@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Braulio Cesar da Rocha Barbosa contra decisão de fls. 465/469, em que se determinou a devolução dos autos ao Tribunal de origem para, nos termos dos arts. 1.040 e 1.041 do CPC, realização do juízo de conformação ou manutenção do acórdão local frente ao quanto decidido pela Excelsa Corte no Tema 214.
+A parte embargante, em suas razões, sustenta que "a r. decisão recorrida limitou-se à análise do pedido subsidiário de redução da multa moratória, deixando de se manifestar sobre a questão central relativa à prescrição do crédito tributário inscrito na CDA nº 91.1.10.000533-34" (fl. 476).
+Aberta vista à parte embargada, decorreu in albis o prazo para impugnação (fl. 490).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não pode ser acolhida.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+De fato , reconheceu o decisum embargado que, em relação à questão referente ao valor da multa moratória, ressalta-se a existência de repercussão geral reconhecida pelo Supremo Tribunal Federal, no RE 582.461 RG/SP - Tema 214. Dessa forma, considerou-se prejudicada a análise do recurso especial e determinou-se a devolução dos autos ao Tribunal de origem para realização do juízo de conformação ou manutenção do acórdão local frente ao quanto decidido pela Excelsa Corte no aludido precedente vinculante, nos termos dos arts. 1.040 e 1.041 do CPC.
+Ainda, consignou-se que, caso remanesçam questões impugnadas no recurso especial distintas daquela objeto da afetação pelo STF, aplicável se mostra, mutatis mutandis, o comando previsto no art. 1.037, § 7º, do CPC, que determina que seja julgada em primeiro lugar a matéria afetada, para apenas depois se prosseguir na resolução do resíduo não alcançado pela afetação.
+Com efeito, no julgamento da Questão de Ordem no REsp 1.653.884/PR, pela Primeira Turma deste Superior Tribunal de Justiça, ficou assentado que, nos casos de devolução do recurso especial ao Tribunal de origem para se aguardar o desfecho do recurso repetitivo, a Corte recorrida, caso verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, deverá determinar o retorno dos autos a este STJ somente após ter exercido o juízo de conformação ao que decidido pelo Tribunal Superior no julgamento do representativo da controvérsia respectiva (QO no REsp 1.653.884/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/11/2017).
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material na decisão embargada, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DEDECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC.OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIALAUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO.EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminara obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.,
+(EDcl no REsp n. 1.978.532/S relator Ministro Afrânio Vilela, Segunda, DJe de 15/3/2024).
+ANTE O EXPOSTO rejeito os presentes embargos.
+Publique-se.
+EMENTA
