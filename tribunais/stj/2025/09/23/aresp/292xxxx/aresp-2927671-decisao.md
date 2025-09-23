@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto por MTEX INDÚSTRIA E COMÉRCIO DE MALHAS LTDA E OUTRA em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+DIREITO CIVIL. APELAÇÃO CÍVEL. REPRESENTAÇÃO COMERCIAL. ALEGAÇÃO DE JUSTA CAUSA PARA A RESCISÃO DO CONTRATO. AUSÊNCIA DE PROVA NESSE SENTIDO. CORRETA CONDENAÇÃO DA INDENIZAÇÃO PREVISTA NO ART. 27 DA LEI N.º 4.886/65. PRECEDENTES JURISPRUDENCIAIS. SENTENÇA CONFIRMADA. APELOS CONHECIDOS E DESPROVIDOS.
+No recurso especial, alegam as agravantes que o acórdão violou os arts. 28 e 35, alíneas "a" e "c", da Lei Federal 4.886/1965, visto que a agravada teria "deix ado  de angariar novos clientes, não promoveu a manutenção daqueles já existentes, eis que várias cidades ficaram descobertas, além de vários clientes ativos que deixaram de efetuar pedidos, além de não expandir os negócios das representadas, incorrendo na desídia" (fl. 909).
+Aponta que "as provas produzidas comprovam justamente a queda das vendas em determinado período, comparada a outras coleções e outros representantes, chegando a apurar diferença de mais de 50% de um ano para outro nas vendas  .. " (fl. 915).
+Aduz dissídio jurisprudencial quanto ao tema.
+Contrarrazões às fls. 924-933.
+Assim, delimitada a controvérsia, passo a decidir.
+No presente caso, o TJRN negou provimento à apelação interposta pelas agravantes, mantendo a sentença que julgou parcialmente procedente os pedidos formulados pela agravada, condenando as rés/agravantes, solidariamente, a pagarem à autora/agravada "a indenização correspondente a 1/12 das comissões ar feridas no período de 21/5/2009 até abril de 2019, a ser apurado em sede de cumprimento de sentença" (fl. 826).
+Verifico que, tanto o Juízo de primeira instância quanto o Tribunal, com base nas provas dos autos, entenderam que a agravada não agiu com desídia, o que não justificaria a rescisão do contrato por justa causa (fl. 895):
+Analisando a documentação acostada, observa-se que há uma oscilação entre 2016 a 2018 na relação contratual entre as partes. Nada obstante, como bem consignado na sentença, "ao analisar os extratos de faturamentos de outros representantes, apresentados pela ré, para o mesmo período, também é possível notar uma oscilação considerável nos valores das vendas entre os anos de 2017 a 2018".
+Desta feita, a alegação genérica de desídia e de quedas nas vendas não encontra respaldo na prova documental, bem como nas provas testemunhais colhidas, na medida em que os depoimentos não demonstram a desídia da parte apela no cumprimento de suas obrigações.
+A revisão das premissas adotadas no acórdão recorrido quanto à suposta desídia da agravada demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Por fim, ressalto que a alegada divergência jurisprudencial não foi demonstrada na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, uma vez que ausente o necessário cotejo analítico entre os julgados comparados, bem como a indispensável demonstração da similitude fática e da divergência na interpretação do direito entre as hipóteses confrontadas.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da agravada , observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
