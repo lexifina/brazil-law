@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROGERIO CHAVES DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente cumpre pena de 9 anos de reclusão, pelos crimes de lesão corporal grave e denunciação caluniosa, e teve indeferido o pedido de livramento condicional formulado perante o Juízo da execução, o que foi mantido pelo Tribunal de origem.
+A impetrante alega que o paciente cumpriu os requisitos objetivos e subjetivos para a concessão do livramento condicional, não havendo fato novo ocorrido durante a execução da pena que impossibilite a obtenção do benefício.
+Argumenta que é ilegal o indeferimento da benesse com base na gravidade do delito, pouco tempo no regime semiaberto e ausência de atividade laborativa, pois não há previsão legal para tais requisitos.
+Afirma que a gravidade abstrata do delito e a pena elevada a cumprir não deveriam ser considerados óbices à concessão do benefício, porquanto já consideradas na dosimetria da pena, configurando bis in idem.
+Sustenta que, em atenção ao princípio da não autoincriminação, o fundamento de ausência de autodisciplina e responsabilidade, destacado no exame criminológico, é ilegal, pois a ausência de confissão não pode ser considerada para impedir a concessão do livramento condicional.
+Defende que a presunção de inocência deve ser respeitada e que a ausência de atividades laborativas não deve ser obstáculo à concessão da benesse, uma vez que o "estado de coisas inconstitucional, que permeia a existência do Sistema Penitenciário Brasileiro, impede que muitos detentos tenham acesso a atividades educacionais ou laborativas" (fl.8).
+Requer, liminarmente e no mérito, o reconhecimento da nulidade do acórdão impugnado e a concessão ao paciente do benefício do livramento condicional.
+O pedido de liminar foi indeferido às fls. 33-34.
+Informações prestadas às fls. 37-39 e 47-62.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 64-69).
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, citam-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+Portanto, da impetração não se pode conhecer.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+A Corte de origem negou provimento ao agravo em execução penal interposto pela defesa, com a seguinte fundamentação (fls. 12-16, grifei):
+Da análise percuciente dos autos e elementos a eles coligidos, extrai-se que não assiste razão ao recorrente.
+É cediço que o livramento condicional, etapa indissociável do processo de ressocialização, exige o preenchimento de requisitos objetivos e subjetivos, previstos no Código Penal, nos seus dispositivos a seguir transcritos:
+ ..
+A douta magistrada a quo, acertadamente, indeferiu o pleito de concessão do livramento condicional, levando em conta a gravidade em concreto do crime praticado e o fato de não estar preenchido o seu requisito subjetivo, uma vez que não há indicativo de que o apenado esteja em condições de retornar com maior frequência ao convívio social:
+.. Com fundamento nos relatórios criminológicos da seq. 103, o apenado ainda não está apto a obter a progressão para o regime aberto ou o livramento condicional neste momento, benefícios que importam ainda maior contato com o meio social, exigindo elevado senso de disciplina e responsabilidade. (..) no presente momento, há elementos impeditivos aos benefícios pleiteados de PR/aberto (PAD) e LC, no que concerne aos requisitos subjetivos. Como já consignado, tais benefícios, tratando-se de crimes de tamanha gravidade, exigem que os relatórios criminológicos evidenciem apurado senso de responsabilidade e comprometimento do apenado com os esperados objetivos ressocializadores da execução, havendo ainda o risco aos bens jurídicos tutelados, caso deferidos ao apenado os benefícios pleiteados, no presente momento. (..) Sobrevieram os aludidos relatórios, os quais não positivam os requisitos subjetivos para a progressão de regime e o livramento condicional, não trazendo indicativos seguros para possível retorno do penitente ao convívio social no presente momento. (..) há cerca de seis meses, o apenado obteve sua progressão do regime fechado para o semiaberto (seq. 55). O término de pena é indicado pelos cálculos atuais, em tese, para 11/06/2031. Desse modo, não vislumbro a possibilidade de conceder-lhe os benefícios ora pleiteados, pois não atende aos requisitos previstos no art. 112, § 1º e 114, inciso II, ambos da Lei de Execução Penal, assim como no art. 83, § único, do Código Penal. (..) O sistema progressivo de cumprimento de pena exige atenção e cautela na concessão de benefícios, mormente quando se trata de apenado condenado pela prática de crime gravíssimo, praticado com extrema violência contra um bebê de dois meses ..
+Na mesma linha de compreensão se manifestou a Procuradoria: .. Além de não haver demonstrado interesse pelo estudo e nem sequer ter desenvolvido qualquer atividade laborativa (TFD em fl. 18), vale observar que também não consta elementos que denotem a possibilidade de trabalho imediato (condição para os dois benefícios). ..
+O agravante cumpre pena de 09 anos de reclusão, pela prática dos delitos de lesão corporal grave e denunciação caluniosa, com término previsto para 11/06/2031, tampouco atingiu o lapso temporal para o benefício do livramento condicional, previsto para 13/06/2025 (fls. 13 - i.e. 02), não resultando preenchido sequer o requisito objetivo.
+Além de n ão ter preenchido o requisito do lapso temporal, o agravado não atende ao requisito subjetivo inserto no artigo 123, inciso III, da Lei de Execuções Penais, porquanto não apresentou alguma proposta de trabalho para sua subsistência, tampouco realizou atividade laborativa ou educacional intramuros, inexistindo nos autos elementos que demonstrem o desenvolvimento de senso crítico e autorreflexão sobre a gravidade da sua conduta, afigurando-se necessário maior tempo para que o Juízo da Execução avalie seu comportamento e conclua se a medida não representa perigo para a sociedade e seja proveitosa para a sua reabilitação, com o retorno gradual ao convívio social.
+O benefício em apreciação não configura direito subjetivo do reeducando, cuja concessão deve ser precedida de avaliação criteriosa e preenchimento dos requisitos elencados no artigo 123 da LEP.
+Em idêntica linha de compreensão decidiu esta Corte de Justiça, como se depreende dos seus julgados abaixo colacionados:
+ ..
+Extrai-se, portanto, que a decisão recorrida deve prevalecer, diante da ausência de requisitos objetivos e subjetivos para o deferimento do pleito e que neste momento não se coaduna com os objetivos da pena.
+Por estes fundamentos, VOTO no sentido de conhecer do recurso e lhe negar provimento, mantida a decisão recorrida na íntegra.
+No caso, verifica-se que as instâncias ordinárias, ao negarem o benefício, levaram em consideração as peculiaridades do caso concreto, destacando o fato de os relatórios criminológicos e psicológicos não apresentarem indicativos seguros para o retorno do apenado ao convívio social.
+"A jurisprudência desta Corte Superior de Justiça admite que o resultado desfavorável de exame criminológico justifica a negativa de progressão de regime ou livramento condicional por falta de requisito subjetivo" (AgRg no HC n. 976.367/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2025, DJEN de 26/6/2025).
+Nesse contexto, o indeferimento do benefício do livramento condicional está devidamente fundamentado, não havendo ilegalidade a ser sanada.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. ASPECTOS DESFAVORÁVEIS EXTRAÍDOS DO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO IDÔNEA. DESCONSTITUIR TAL ENTENDIMENTO IMPLICA REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Com as mudanças da Lei n. 10.792/2023, o exame criminológico, antes obrigatório, deixou de ser imprescindível para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação judicial, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ" (AgRg no HC n. 889.369/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+2. In casu, as instâncias ordinárias extraíram trechos desfavoráveis do exame criminológico para fundamentar o indeferimento da progressão de regime e do livramento condicional por ausência do requisito subjetivo. Tal providência encontra respaldo na jurisprudência desta Corte Superior. Precedentes.
+3. Desconstituir os fundamentos firmados pelas instâncias ordinárias, relativos ao não preenchimento do requisito subjetivo, implica revolvimento fático-probatório, providência vedada na via eleita.
+4. Agravo regimental desprovido, mantida a decisão agravada por seus próprios fundamentos.
+(AgRg no HC n. 850.452/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+Por fim, para "se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo do condenado, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus" (AgRg no HC n. 529.214/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/12/2019, DJe de 16/12/2019).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
