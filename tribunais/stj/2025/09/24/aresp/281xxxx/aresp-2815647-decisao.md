@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CASTHELLA DE CASSIA OLIVA PARRELA PIMENTA, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/11/2024.
+Concluso ao gabinete em: 18/03/2025.
+Ação: anulatória de ato jurídico de consolidação da propriedade e do procedimento extrajudicial de execução e venda de imóvel, ajuizada pela agravante, em face de CAIXA ECONÔMICA FEDERAL, fundada em contrato de financiamento com garantia por alienação fiduciária no âmbito do Sistema Financeiro da Habitação.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+SFH. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. INADIMPLEMENTO. EXECUÇÃO EXTRAJUDICIAL. CONSOLIDAÇÃO DA PROPRIEDADE. LEI Nº 9.514/97 E DECRETO-LEI Nº 70/66. CONSTITUCIONALIDADE. LEI Nº 13.465/17. MARCO TEMPORAL. DATA DE ASSINATURA DO CONTRATO. PROCEDIMENTOS. OBSERVÂNCIA. APELAÇÃO IMPROVIDA.
+1. Na modalidade contratual de financiamento com garantia por alienação fiduciária no âmbito do Sistema Financeiro da Habitação, o devedor/fiduciante transfere a propriedade do imóvel à Caixa Econômica Federal (credora/fiduciária) até que se implemente a condição resolutiva, que é o pagamento total da dívida.
+2. Liquidado o financiamento, o devedor retoma a propriedade plena do imóvel, ao passo que, havendo inadimplemento, a CEF, desde que obedecidos os procedimentos previstos na lei, pode requerer ao Cartório a consolidação da propriedade do imóvel em seu nome, passando a exercer a propriedade plena do bem.
+3. Para a consolidação da propriedade em nome da instituição financeira ser considerada válida, deve-se observar o procedimento especificado na referida norma, em especial a previsão contida no artigo 26, §§ 1º e 3º, que estabelece devam os mutuários ser notificados pessoalmente para purgar a mora no prazo de quinze dias.
+4. Consoante o art. 34 do Decreto-Lei nº 70/66, aplicável ao caso por força do art. 39 da Lei nº 9.514/97, é lícito purgar a mora até a assinatura do auto de arrematação, desde que, no valor, estejam compreendidos, além das parcelas vencidas do contrato de mútuo, os prêmios de seguro, multa contratual e todos os custos advindos da consolidação da propriedade.
+5. A Lei nº 13.465/2017 restringiu a aplicação das disposições dos artigos 29 a 41 do Decreto-Lei nº 70/66, "exclusivamente aos procedimentos de execução de créditos garantidos por hipoteca", não mais se aplicando aos contratos regidos pelo Sistema Financeiro Imobiliário, o qual estabelece a garantia fiduciária, e não a hipotecária, e assegura ao devedor fiduciante o direito de preferência para adquirir o imóvel por preço correspondente ao valor da dívida, nos termos do §2º-B do art. 27 da Lei nº 9.514/97.
+6. Em atenção ao princípio da segurança jurídica e em respeito ao ato jurídico perfeito, não é o registro da consolidação da propriedade na matrícula do imóvel o marco temporal para a aplicação das novas regras implantadas pela Lei nº 13.465, vigente a partir de 12/07/2017, mas, sim, a data em que firmado o contrato de alienação fiduciária.
+7. Encontra-se pacificada na jurisprudência a constitucionalidade do procedimento de execução extrajudicial, previsto no Decreto-lei nº 70/66, bem como do procedimento da alienação fiduciária de coisa imóvel estabelecido na Lei nº 9.514/97.
+8. Não se verifica a alegada irregularidade a tornar inválida a consolidação da propriedade imobiliária efetivada pela instituição financeira credora, averbada na matrícula do imóvel objeto da lide.
+9. O art. 26 da Lei n. 9.514/97 estabelece as formalidades pelas quais se dá a consolidação da propriedade em nome do fiduciário, dentre as quais não se inclui a obrigatoriedade de apresentação de planilha discriminativa.
+10. A plena ciência da parte autora quanto à data do leilão designado comprova que esta teve acesso a todas as informações necessárias e em tempo hábil, ao exercício do seu direito à purgação da mora.
+11. O § 4º do art. 27 da Lei nº 9.514/97 é expresso ao determinar que a restituição da diferença entre o valor da dívida e o valor da arrematação deverá ser realizada pelo credor, apenas, após a venda do imóvel, não havendo notícia, nos autos, de que o segundo leilão sequer tenha sido realizado, ou mesmo, que o bem tenha sido arrematado ou alienado.
+12. Apelação improvida.
+Recurso especial: alega violação dos arts. 26 e §1º e 39, II, da Lei 9.514/97, e 34, I e II, do DL 70/66. Sustenta que: i) é necessária a intimação pessoal referente a todo o procedimento da Lei 9.514/97; ii) é absolutamente possível a purgação da mora até a data da assinatura do auto de arrematação, logo é indispensável a intimação pessoal do devedor também quanto à data dos leilões, bem como que essa intimação contenha a planilha de débito discriminativa dos valores devidos; iii) para o devedor purgar a mora é indispensável que tenha conhecimento do real valor da dívida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante quanto à exigência de planilha de débito na intimação não demonstram como o acórdão recorrido violou os arts. 26 e §1º e 39, II, da Lei 9.514/97, e 34, I e II, do DL 70/66, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à regularidade da intimação concernente à realização do leilão, bem como referente à apresentação de planilha, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Ao concluir pela regularidade da intimação concernente à realização do leilão, o TJ/SP aplicou corretamente a jurisprudência do STJ no sentido de que não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca da parte interessada (AREsp n. 2.860.665/RO, Terceira Turma, DJEN de 23/4/2025; e AgInt no AREsp n. 2.505.040/SP, Quarta Turma, DJe de 22/8/2024).
+Logo, o recurso especial não merece provimento, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa atualizado (e-STJ fls. 323 e 385) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ATO JURÍDICO DE CONSOLIDAÇÃO DA PROPRIEDADE E DO PROCEDIMENTO EXTRAJUDICIAL DE EXECUÇÃO E VENDA DE IMÓVEL. CONTRATO DE FINANCIAMENTO COM GARANTIA POR ALIENAÇÃO FIDUCIÁRIA. SFH. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. INTIMAÇÃO PESSOAL DO DEVEDOR. CIÊNCIA INEQUÍVOCA CONFIGURADA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação anulatória de ato jurídico de consolidação da propriedade e do procedimento extrajudicial de execução e venda de imóvel objeto de contrato de financiamento com garantia por alienação fiduciária no âmbito do Sistema Financeiro da Habitação.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca da parte interessada. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
