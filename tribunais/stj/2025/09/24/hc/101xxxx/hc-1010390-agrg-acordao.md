@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL. RECRUDESCIMENTO. INDEFERIMENTO SUBSTITUIÇÃO DA PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+3. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por RAISSA VITORIA DE LIMA SANTANA contra decisão por meio da qual indeferi liminarmente o presente habeas corpus em virtude de ser usado pela defesa como substitutivo de recurso próprio, mas concedi a minorante do § 4º do art. 33 da Lei n. 11.343/2009 e redimensionei a pena imposta à agravante, pelo cometimento do delito de tráfico de drogas, para 1 ano e 8 meses de reclusão, a ser cumprida em regime inicial semiaberto.
+Tal decisão foi, ainda, integrada pelo julgamento dos embargos de declaração opostos pela defesa e por mim rejeitados, tendo em vista a impossibilidade de abrandamento do regime ou deferimento da substituição da pena, já que houve o reconhecimento, na espécie, de circunstâncias judiciais desfavoráveis na primeira fase da dosimetria, nos termos dos arts. 44 e 59, ambos do Código Penal, bem como da jurisprudência consolidada desta Corte (e-STJ fls. 93/94).
+Neste recurso, a defesa da agravante alega que (e-STJ fls. 100/102):
+ .. a decisão agravada não justificou/fundamentou que a agravante não preencheria os pressupostos legais do art. 44 do CP, mas sim que denegava a substituição apenas pelas circunstâncias judicias desfavoráveis consideradas na origem, todavia, estas servem apenas para fixação do regime (art. 33 § 3º CP) e não para impedir a substituição da pena.
+ ..
+ ..  a paciente é primária, de bons antecedentes, e não integra organização criminosa. A pena imposta é inferior a 4 anos, o que, nos termos do art. 33, § 2º, alínea "c", e § 3º, ambos do Código Penal, admite, como regra, a fixação do regime inicial aberto.
+É entendimento consolidado desta Corte que a fixação de regime mais gravoso que o legalmente cabível deve ser devidamente fundamentada em elementos concretos, não bastando a mera gravidade abstrata do delito ou a quantidade da droga (neste caso, não tão significativa, normal á espécie)
+Requer, assim (e-STJ fl. 105):
+1. O conhecimento e provimento do presente Agravo Regimental para reformar a decisão monocrática;
+2. Que seja concedido regime inicial aberto ao paciente, nos termos do art. 33, §2º, "c", do CP, haja vista que a quantidade de droga, 1.668,09 kg de cannabis sativa, embora não diminuta também não é tão expressiva;
+3. Que seja deferida a substituição da pena privativa de liberdade por penas restritivas de direitos, nos termos do art. 44 do CP.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL. RECRUDESCIMENTO. INDEFERIMENTO SUBSTITUIÇÃO DA PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Todavia, não é essa a situação dos autos.
+3. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Na espécie, verifico que, não obstante as razões defensivas, não há argumentos aptos a ensejar a alteração do entendimento firmado nas decisões agravadas, as quais devem ser mantidas pelos próprios fundamentos (e-STJ fls. 73/78 e 93/94):
+Inicialmente, quanto à incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, prospera a irresignação.
+De fato, conforme consignado na decisão agravada, o Superior Tribunal de Justiça passou a seguir o entendimento externado pelo Supremo Tribunal Federal no julgamento dos Habeas Corpus n. 109.193/MG e 112.776/MS, nos quais o Plenário consagrou a orientação de que a utilização da quantidade e/ou qualidade da droga tanto na fixação da pena-base como na aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 configura dupla valoração inadmissível, situação verificada nos autos.
+Destaco, outrossim, que, em repercussão geral no ARE n. 666.334/AM, de relatoria do Ministro Gilmar Mendes, reafirmou-se que as circunstâncias da natureza e da quantidade de entorpecentes apreendidos deveriam ser levadas em consideração apenas em uma das fases da dosimetria da pena.
+ ..
+Outrossim, os petrechos encontrados são comuns ao tráfico e insuficientes a revelar maior gravidade da conduta e modular a benesse reconhecida.
+Assim passo ao redimensionamento da sanção.
+Mantido o cálculo dosimétrico até a terceira fase, reconhecida a minorante do tráfico privilegiado em 2/3 e a majorante do art. 40, IV, da Lei n. 11.343/2006, a pena alcança o quantum de 1 ano e 8 meses de reclusão, o que torno definitivo, pois ausentes outras causas de aumento ou diminuição de pena.
+No que toca ao regime inicial, entendo não ser caso de reconsiderar a decisão agravada, permanecendo o semiaberto.
+De fato, o entendimento do Tribunal de origem acerca da possibilidade de recrudescimento do regime em virtude da consideração da quantidade de drogas na primeira fase dosimétrica encontra guarida na jurisprudência desta Corte, conforme se observa dos seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME SEMIABERTO. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso.
+2. Nos termos da Súmula Vinculante n. 59 do STF, quando presentes circunstâncias desfavoráveis na primeira fase da dosimetria, ainda que se trate de réu beneficiado pela minorante do tráfico privilegiado, é possível a fixação de regime mais gravoso 3. Na espécie, a imposição do regime inicial semiaberto deve-se à gravidade concreta do delito cometido, pois, conquanto as rés hajam sido condenadas à pena inferior a 4 anos de reclusão, foram surpreendidas com quantidade significativa de drogas.
+4. A desfavorabilidade da circunstância mencionada evidencia que a substituição da pena não se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.736.707/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/5/2025, DJEN de 26/5/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA MINISTERIAL. PENAL. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. NATUREZA E QUANTIDADE DE DROGAS. VALORAÇÃO CONCOMITANTE EM DUAS ETAPAS DA DOSIMETRIA DA PENA. BIS IN IDEM. CONSTATAÇÃO. DEDICAÇÃO HABITUAL EM ATIVIDADES CRIMINOSAS. NÃO PRESUNÇÃO. MODULAÇÃO DO REDUTOR. FRAÇÃO MÁXIMA. REDIMENSIONAMENTO DAS SANÇÕES. REGIME PRISIONAL MAIS GRAVOSO. GRAVIDADE CONCRETA. INAPLICABILIDADE DA SÚMULA VINCULANTE N. 59. REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção do STJ, em interpretação progressiva e sistemática dos arts. 33, § 4º, e 42, ambos da Lei n. 11.343/2006, ao julgar o HC n. 725.534/SP e o REsp n. 1.887.511/SP, assentou - em alinho ao Tema n. 712/STF - que a quantidade, a natureza e eventual diversidade da droga apreendida não autoriza, por si só, alijar (com esteio em mera presunção da dedicação do agente a atividades criminosas) a aplicação da minorante do tráfico privilegiado.
+2. Em observância do sistema trifásico subjacente (art. 68 do CP), preconizado por Nelson Hungria, há a possibilidade de valoração negativa de tais vetores especiais (plasmados no art. 42 da Lei de Drogas), pelo Estado-juiz, para fins incremento da pena-base ou, de forma alternativa, quando da liquidação do patamar aplicável à referida causa especial de diminuição de pena, ainda que estes figurem como únicos elementos justificantes, mas desde que não sopeados na fase anterior, sob pena de (nefasto) bis in idem.
+3. Na ocasião, a pena basilar da sentenciada foi recrudescida diante da quantidade e natureza da substância entorpecente apreendida em seu poder. Todavia, na terceira fase, foi afastada pelo Tribunal local a benesse do tráfico privilegiado, ao argumento de que o fato da recorrente se prestar a transportar mais de trezentos pinos de cocaína sob encomenda, denota que coopera com o tráfico organizado.
+4. Tal panorama, tangenciado pela inadmissível hipótese de bis in idem, ex vi dos arts. 33, § 4º, e 42, ambos da Lei n. 11.343/2006, c/c o art. 68 do CP, não se afigura hábil a negar a aplicação da minorante do tráfico privilegiado, em seu patamar máximo, por se tratar de agente primária, sem antecedentes, não integrante de organização criminosa e sem comprovada dedicação (contumaz) em atividades criminosas.
+5. Aquilatado o apenamento da sentenciada abaixo do patamar de 04 (quatro) anos de reclusão, justifica-se o arrefecimento do regime prisional fechado para o semiaberto (sem correspondência à ordinária inteligência da Súmula Vinculante n. 59/STF), pois, conforme entendimento ecoado pela 3ª Seção deste Sodalício, a presença de circunstância judicial desfavorável - associada às especificidades do caso concreto - autoriza a imposição do regime inicial mais gravoso, em atenção ao disposto no art. 33, § 3º, do CP (EREsp n. 1.970.578/SC, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 02/03/2023, DJe de 06/03/2023,grifamos).
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.676.720/BA, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. REGIME ABERTO. IMPOSSIBILIDADE. VALORAÇÃO DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA NA PRIMEIRA FASE DA DOSIMETRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito da pena ser inferior a quatro anos, a autorizar, em princípio a fixação do aberto, notadamente diante de Súmula Vinculante n. 59 do Pretório Excelso, deve ser mantido o regime semiaberto em virtude da circunstância judicial desfavorável da quantidade e natureza da droga apreendida, nos termos do art. 42 da Lei n. 11.343/2006.
+2. "A Súmula vinculante n. 59 do STF dispõe sobre a fixação de regime menos gravoso ao tráfico privilegiado, desde que não existam circunstâncias judiciais desfavoráveis valoradas na primeira fase" (AgRg nos EDcl no AgRg no AREsp n. 2.411.387/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/12/2023, DJe de 11/12/2023).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 913.641/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+--
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão, inexistentes no caso.
+De fato, conforme relatado na decisão embargada, concedi a ordem de ofício para reduzir a pena imposta à embargante, pela prática do delito de tráfico, para 1 ano e 8 meses de reclusão, mantendo, no mais, a condenação.
+Ora, a concessão, de ofício, apenas da redução da pena, justifica-se por não se verificar flagrante ilegalidade quanto às demais irresignações trazidas no habeas corpus, sendo desnecessário tratar sobre ponto que não seria objeto de concessão e que, por isso, ficaria implicitamente mantido.
+Com efeito, a existência de circunstâncias judiciais desfavoráveis, como no caso, obsta o deferimento da substituição da pena, não havendo, portanto o que modificar no ponto.
+Desse modo, mantenho as decisões agravadas, portanto, por seus próprios fundamentos, e nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
