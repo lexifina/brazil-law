@@ -1,0 +1,33 @@
+DECISÃO
+Em face das razões trazidas no agravo interno, fls. 848-857 e-STJ, reconsidero a decisão de fls. 842-844 e-STJ, tornando-a sem efeito, e passo a novo exame do agravo em recurso especial interposto por LIMPPAR CONSTRUCAO E SERVICOS LTDA, FERNANDO TRABACH GOMES contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/2/2025.
+Concluso ao gabinete em: 10/9/2025.
+Ação: obrigação de fazer c/c reparação por danos morais, ajuizada por LÍBANO SERVIÇOS DE LIMPEZA URBANA, CONSTRUÇÃO CIVIL LTDA - ME - e FERNANDO TRABACH GOMES em face de FACEBOOK SERVIÇOS ONLINE DO BRASIL LTDA e IGOR PATRICK DE SOUSA.
+Sentença: julgou parcialmente procedente o pedido (fls. 391-393 e-STJ)
+Acórdão: negou provimento à apelação interposta por ambas as partes, nos termos da seguinte ementa (fls. 537-538 e-STJ):
+APELAÇÕES. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO INDENIZATÓRIO. PERFIL QUE VEICULOU MATÉRIA DE CUNHO DIFAMATÓRIO EM RELAÇÃO AOS AUTORES EM REDE SOCIAL (FACEBOOK). LIMINAR QUE DETERMINOU A EXCLUSÃO DA URL INDICADA PELOS SUPLICANTES. CUMPRIMENTO PELO PROVEDOR. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO, CONFIRMANDO A TUTELA DE URGÊNCIA, CONDENANDO APENAS O DONO DA PÁGINA (2º RÉU) A PROCEDER À SUBSTITUIÇÃO DA POSTAGEM MENTIROSA E OFENSIVA, BEM COMO AO PAGAMENTO DE DANO MORAL, NO VALOR DE R$50.000,00 (CINQUENTA MIL REAIS). IRRESIGNAÇÃO DO PROVEDOR E DOS AUTORES. FATO OCORRIDO APÓS A PUBLICAÇÃO DO MARCO CIVIL DA INTERNET. PRELIMINAR SUSCITADA PELO RÉU QUE SEAFASTA. RESPONSABILIDADE DO PROVEDOR QUE APENAS SE INICIA APÓS A NOTIFICAÇÃO JUDICIAL. APLICAÇÃO DO ART. 19, DA LEI 12.965/2014. PÁGINA DEVIDAMENTE EXCLUÍDA. AUSÊNCIA DE RESISTÊNCIA DO PROVEDOR EM CUMPRIR A ORDEM JUDICIAL. NÃO VERIFICADO O DEVER DE INDENIZAR DO RÉU FACEBOOK, TAMPOUCO, A POSSIBILIDADE DE APLICAÇÃO DE MULTA. CONTEÚDO RETIRADO ANTES MESMO DA CITAÇÃO/INTIMAÇÃO DO PROVEDOR EM RELAÇÃO À LIMINAR CONCEDIDA. JUÍZO A QUO QUE FOI CLARO EM CONDENAR APENAS O DONO DA PÁGINA PARA SUBSTITUIÇÃO DA MATÉRIA, EM CONSONÂNCIA COM PRECEDENTES DESTE TJERJ. SENTENÇA QUE NÃO CARECE DE QUALQUER REFORMA. NEGADO PROVIMENTO AOS RECURSOS.
+Embargos de Declaração: opostos por ÍBANO SERVIÇOS DE LIMPEZA URBANA, CONSTRUÇÃO CIVIL LTDA - ME - e FERNANDO TRABACH GOMES, foram rejeitados (fls. 565-571 e-STJ).
+Recurso especial: alega violação dos arts. 489, § 1º, IV e 1022, II, do CPC.
+Além de negativa de prestação jurisdicional, argumenta que o provedor de internet deve ser responsabilizado pela manutenção de conteúdo ofensivo à honra dos recorrentes na rede, tendo em vista a demora de cumprimento da decisão judicial que determinou a retirada do conteúdo: onze dias.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da responsabilidade do provedor de internet, que deveria ser afastada, uma vez que a retirada do conteúdo ilícito ocorreu mesmo antes da intimação realizada por oficial de justiça (fls. 547 e-STJ), de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Na hipótese, verifica-se que o 2º Grau de Jurisdição decidiu por afastar a responsabilidade do provedor de internet, porquanto retirado o conteúdo supostamente ofensivo das redes mesmo antes da intimação da decisão judicial respectiva (fl. 547 e-STJ):
+Isto porque o regramento contido no artigo 19, do Marco Civil da Internet exige ordem judicial específica para a remoção do conteúdo, a fim de possibilitar eventual reponsabilidade civil por danos, entretanto, o cumprimento da ordem, apenas poderá ser exigida do provedor, após a intimação deste pelo Órgão que proferiu a respectiva decisão.
+Com efeito, da análise dos autos, não se verifica o alegado dever de indenizar do Facebook, na medida em que este, no dia 01/06/2020, juntou petição afirmando que o conteúdo denunciado se encontrava removido desde o dia 26- 05-2020, frise-se, antes mesmo de efetivada a sua citação/intimação, através do Oficial de Justiça (fls. 312).
+Alterar o decidido no acórdão impugnado, no que se refere ao cumprimento da decisão judicial de retirada de conteúdo ofensivo da internet em tempo oportuno, antes mesmo da intimação formal da decisão judicial, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DANOS MORAIS. REPARAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. MARCO CIVIL DA INTERNET. ART. 19 DA LEI 12.965/14. PROVEDOR. CONTEÚDO OFENSIVO. RETIRADA ANTERIOR À INTIMAÇÃO FORMAL DO JUÍZO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer c/c reparação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
