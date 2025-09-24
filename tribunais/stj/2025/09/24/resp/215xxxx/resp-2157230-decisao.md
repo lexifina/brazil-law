@@ -1,0 +1,53 @@
+DECISÃO
+Em análise, recurso especial interposto por UNIVERSIDADE FEDERAL DA PARAIBA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. SELEÇÃO. RESIDÊNCIA MÉDICA. PONTUAÇÃO ADICIONAL DE 10%. PROGRAMA MAIS MÉDICOS. PARTICIPAÇÃO. PERÍODO MÍNIMO DE 1 ANO. COMPROVAÇÃO. APELAÇÃO E REMESSA NECESSÁRIA DESPROVIDAS.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente alega violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC; 5º, parágrafo único, e 22, § 2º, da Lei 12.871/2013; e 44, II e § 1º, e 53 da Lei 9.394/1996. Sustenta, preliminarmente, negativa de prestação jurisdicional e, no mérito, que "o Programa Mais Médicos é diferente do Programa de Valorização do Profissional da Atenção Básica, cada um com as suas peculiaridades, e, portanto, todas as regras dispostas no Edital seguem as normativas federais" (fl. 308).
+Não foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+Na origem, a controvérsia versa em saber se os médicos têm direito ou não a concessão da bonificação de 10% (dez por cento) por terem participado do Programa Mais Médicos para o Brasil (PMMB).
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fls. 236-237):
+Verifica-se que a lei é nítida ao prever a bonificação de 10% aos participantes das "ações de aperfeiçoamento na área de Atenção Básica", indistintamente, não fazendo qualquer restrição à utilização da referida pontuação adicional de 10%, inclusive quanto aos participantes do Programa Mais Médicos.
+A Lei n.º 12.871/2013, estabeleceu apenas duas condições para que o candidato tenha direito à pontuação adicional de 10% (dez por cento) na nota de todas as fases ou da fase única do processo de seleção pública dos Programas de Residência Médica, quais sejam: a) participação e cumprimento integral das ações de aperfeiçoamento na área de Atenção Básica em saúde em regiões prioritárias para o SUS; e b) realização do programa no prazo de 1 (um) ano, não havendo controvérsia nos autos quanto ao preenchimento de tais requisitos pelo impetrante.
+A previsão do edital não pode contrariar norma legal, ainda que omissa a questão como se apresenta, no caso da previsão de se atribuir o percentual de 10% (dez por cento) àqueles egressos de programas de aperfeiçoamento na área de Atenção Básica em saúde em regiões prioritárias para o SUS, a teor do art. 22, § 2º, da Lei nº 12.871/2013.
+Não merece prosperar o argumento de que a bonificação do PMMB deverá ser implantada até 31/12/2018, consoante o disposto no art. 5º da Lei nº 12.877/2013 - especialmente por ser norma de conteúdo programático, inexistindo previsão de limitação temporal ao requerimento do benefício.
+A alegação de que as normas regentes do PROVAB não se confundem com a lei do Programa Mais Médicos pelo Brasil (PMMB) não repercutem no julgamento do feito especialmente porque os participantes de tais programas detêm o direito a bonificação de 10% e, além do mais, o PROVAB foi incorporado ao PMMB desde 2015.
+A declaração emitida pela Prefeitura Municipal de Curaçá/BA atesta que o impetrante exerceu suas atividades como médico da Estratégia da Saúde da Família, na UBS localizada no endereço Distrito de Poço de Fora - Zona Rural, cidade de Curaçá / BA, cadastrada no CNES nº 2400979, durante o período de 03/12/2018 até 04/09/2022, de forma contínua, ininterrupta e inclusive com frequência regular no serviço e nos cursos e demais atos de aperfeiçoamento.
+No aludido documento, colacionado aos autos sob o id. 4058200.11070364, afirma-se, ainda, que a Unidade Básica de Saúde, encontra-se localizada em setor carente e de alta vulnerabilidade, sendo área prioritária do SUS, estando a cidade prevista no anexo I da Portaria Conjunta Nº 3, de 19 de fevereiro de 2013, assim, nos termos do que dispõe o art. 22, § 2º da lei Nº 12.871, de 22 de outubro de 2013, o(a) profissional, está apto a requerer a utilização da pontuação adicional referente aos participantes de programas e projetos de aperfeiçoamento na área de Atenção Básica em Saúde em regiões prioritárias para o SUS.
+O documento (cf. id. 4058200.11070363) emitido pelo sistema de gestão de programas do Ministério da Saúde comprova a participação do candidato, na condição de bolsista, no Projeto Mais Médicos para o Brasil, instituído pela Lei nº 12.871/2013 e regulamentado pela Portaria Interministerial MS/MEC nº 1.369/2013, desempenhando atividades de integração ensino-serviço no Município de Curaça/BA, com início das atividades em 03/12/2018 e data prevista para encerramento em 04/12/2024.
+Vale ressaltar que o edital nº 001/PRPG/2022 - Processo Seletivo para Admissão de Médicos Residentes - ano 2023 -, no mesmo sentido da Resolução 02/2015 do Conselho Nacional de Residência Médica, também restringiu a atribuição da bonificação em discussão, assim estabelecendo:
+ ..
+Registre-se que não está o Poder Judiciário, ao assegurar ao autor o adicional de 10% (dez por cento) em sua nota, substituindo a banca examinadora, eis que não se buscou avaliar respostas dadas pela candidata/autora/apelante, ou mesmo pontuação a elas atribuídas, mas diante de não observância de normativo legal, cabe a sua interferência visando ao seu cumprimento.
+E ainda, em julgamento de embargos de declaração, a Corte de origem se manifestou no sentido de que os aclaratórios opostos buscam a rediscussão do mérito da demanda (fls. 278-279).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+No mérito, observa-se que a Corte local, com suporte em premissas fáticas e na análise das normas editalícias, concluiu pela possibilidade de atribuição da bonificação ao candidato pela participação do Programa Mais Médicos.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Não bastasse, a certificação da regularidade dos termos do edital do programa de residência médica acarreta, necessariamente, análise do referido documento, providência inviável em recurso especial.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO À LEI. EXAME DE NORMA INFRALEGAL. IMPOSSIBILIDADE. REQUISITOS PARA A MATRÍCULA. CLÁUSULAS DO EDITAL. REANÁLISE FÁTICO-PROBATÓRIA. ÓBICE DAS SÚMULAS 5 E 7/STJ. PLEITO TAMBÉM FULCRADO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. MESMAS RAZÕES PARA O NÃO CONHECIMENTO.
+1. A Corte regional decidiu a controvérsia posta nos autos a partir da análise da Resolução CEPEC nº 53/2010 da UFGD, sendo certo que o exame da insurgência não prescinde da apreciação da referida norma infralegal que foi aplicada pela instância de origem, o que não se afigura cabível no âmbito do apelo nobre, a teor do disposto no art. 105, III, a, da CF, nos termos da jurisprudência deste Sodalício.
+2. A alteração das conclusões adotadas pelo Tribunal recorrido, tal como colocada a questão nas razões recursais, no sentido de asseverar que a agravante faz jus à matrícula na instituição de ensino superior, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, mormente quanto às cláusulas editalícias, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+3. Não sendo conhecido o recurso interposto com fundamento no art. 105, III, a, da Constituição Federal, pelos mesmos motivos segue obstado o pleito fulcrado na alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+4. Agravo interno a que se nega provimento (AgInt no AREsp n. 1.534.447/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/3/2020, DJe de 30/3/2020).
+Ademais, a controvérsia foi dirimida com base na interpretação da Portaria Ministerial MS/MEC n. 1.369/2013 e da Resolução CNRM n. 2/2015, contudo, os referidos atos normativos não se enquadram no conceito de lei federal, sendo meramente reflexa a vulneração do dispositivo legal indicado pela parte recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PORTARIA. EXAME. INVIABILIDADE. QUESTÃO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE.
+ ..
+2. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+3. Hipótese em que a alteração do julgado perpassa pela interpretação da Portaria ME n. 7.163/2021, sendo meramente reflexa a vulneração dos dispositivos legais indicados pela agravante.
+ ..
+5 . Agravo interno desprovido (AgInt no REsp n. 2.088.386/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/4/2024, DJe de 18/4/2024).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO INTERNO. NATUREZA INTEGRATIVA. IMPRESTABILIDADE. RESOLUÇÃO DO CONAMA. LEI FEDERAL. NÃO ENQUADRAMENTO.
+ ..
+3. Inviável a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal.
+4. Hipótese em que o arrazoado tecido no apelo especial remete ao exame das disposições de resoluções do CONAMA, transcritas na peça recursal, sendo meramente reflexa a vulneração dos dispositivos legais indicados pelo agravante.
+5. Agravo interno desprovido (AgInt no REsp 1.635.463/SP, de minha relatoria, Primeira Turma, DJe 26/06/2020).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem, por se tratar de mandado de segurança.
+Intimem-se.
+EMENTA
