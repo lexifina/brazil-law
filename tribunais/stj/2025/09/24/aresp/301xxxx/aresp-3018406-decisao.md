@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por Itajaí Transportes Coletivos Ltda., desafiando decisão da vice-Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) não há violação ao arts. 489 e 1.022 do CPC; e (II) incidência da Súmula 07/STJ, pois "a revisão das conclusões do acórdão recorrido sobre a desconsideração da personalidade jurídica demandaria reexame de fatos e provas, o que é vedado em recurso especial" (fl. 929).
+A parte agravante, em suas razões, sustenta, em síntese, que: (I) houve negativa de prestação jurisdicional, pois "para se observar o dever de fundamentação das decisões judiciais (art. 489, §1º, IV, do CPC), não basta consignar que não houve omissão, é antes necessário especificar e indicar de que maneira o acórdão recorrido teria se pronunciado, no caso concreto" (fl. 937); e (II) "trata-se de questão exclusivamente de direito, sem qualquer necessidade de revolvimento do conjunto fático-probatório da demanda  ..  O que ainda se discute é a suficiência desse acervo fático para a imposição da responsabilidade tributária, com a aplicação normas construídas a partir dos enunciados dos arts. 116 e 124, I e II, do CTN, e do art. 30, IX, da Lei nº 8.212/91" (fl. 940).
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Logo, não tendo havido efetiva impugnação a esse fundamento da decisão denegatória de admissibilidade do recurso especial, é de se manter a monocrática sob crivo.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
