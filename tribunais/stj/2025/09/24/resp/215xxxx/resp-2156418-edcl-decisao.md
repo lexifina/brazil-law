@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ONEIZE AMORAS DE ARAUJO contra decisão que rejeitou os embargos de declaração opostos pelo ente público contra decisão que dera provimento ao seu recurso especial.
+A parte embargante sustenta que (fl. 754):
+É que não é necessária a anulação das decisões anteriores; basta a correção do erro material, explicitando que se trata de REsp interposto pela parte ONEIZE AMORAS DE ARAÚJO, e não pela União.
+Inclusive, a própria Embargada, em seus embargos de e-STJ Fl. 699/704, apontou que se tratava de mero erro material e sequer pediu aplicação de efeito modificativo para anular as decisões proferidas. Permissa venia, esses aspectos não foram observados. É essencial, portanto, que os vícios apontados sejam sanados para que seja plena a prestação jurisdicional.
+Ao final, que se considere a aplicação de efeito modificativo para restabelecer a decisão monocrática de e-STJ Fl. 690/695, apenas sanando o erro material, explicitando que se trata de REsp interposto por ONEIZE AMORAS DE ARAÚJO.
+É o relatório.
+Passo a decidir.
+Com efeito, assiste razão à embargante, pois houve o provimento do seu recurso especial (fls. 690-695), constando no dispositivo que "com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para restabelecer a sentença no que concerne ao ônus sucumbencial", apesar de ter constado a decisão a parte ex adversa como recorrente.
+Dessa forma, a integração da decisão é medida que se impõe.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. PERDA SUPERVENIENTE DE OBJETVO. REVOGAÇÃO DO ATO ATACADO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUTIR A MATÉRIA JÁ APRECIADA. ERRO MATERIAL SANADO. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES. I -
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria. II - Da leitura atenta do voto condutor, nota-se que o acórdão embargado se manifestou de maneira clara e embasada consignando a impossibilidade de conhecer do mérito recursal porquanto o recurso ordinário afrontou o princípio da dialeticidade e ao disposto no art. 932, III, do Código de Processo Civil ante a ausência de impugnação do fundamento suficiente à manutenção do acórdão. III - Embargos de declaração parcialmente acolhidos para correção de erro material (EDcl no AgInt no RMS n. 74.304/BA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/9/2025, DJEN de 11/9/2025).
+Ante o exposto, acolho os embargos de declaração, com efeito integrativo, para a) consignar que o recurso especial julgado foi do particular (fls. 545-563) e para restabelecer, in totum, a decisão de fls. 690-695; e b) reescrever a parte dispositiva dessa decisão (fls. 690-695) nos seguintes termos: "Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial de ONEIZE AMORAS DE ARAÚJO para restabelecer a sentença de fls. 340-343, e 364-367, inclusive no que concerne ao ônus sucumbencial".
+Intimem-se.
+ EMENTA
