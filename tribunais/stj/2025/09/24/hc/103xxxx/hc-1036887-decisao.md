@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS MICAEL DOS SANTOS e CLEBER PEREIRA POLATTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, que denegou a ordem no HC n. 1413527-53.2025.8.12.0000 (fls. 24/28).
+Extrai-se dos autos que os pacientes foram presos em flagrante, em 6/8/2025, convertida a prisão em preventiva, pela suposta prática dos crimes de ameaça, sequestro, cárcere privado e porte ilegal de arma de fogo (Autos n. 0900095-52.2025.8.12.0023, da Vara do Juiz das Garantias, Tribunal do Júri e Execução Penal da comarca de Três Lagoas/MS - fls. 36/37) .
+Sustenta-se, nesta impetração, a ausência de fundamentação concreta para a decretação da prisão preventiva, bem como que que os pacientes possuem residência fixa, vínculos familiares e ocupação lícita, o que possibilita a fixação de medidas cautelares alternativas ao cárcere.
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+No caso, o acórdão impug nado, ao ratificar os termos da decisão do Juízo de primeiro grau, no sentido de preservar a ordem pública, considerou adequada a determinação de prisão preventiva dos pacientes, em decorrência da gravidade concreta dos delitos, revelada pelo modus operandi dos agentes, que restringiram a liberdade da vítima mediante grave ameaça com armas de fogo, em contexto de concurso de pessoas, situação que denota periculosidade concreta e risco de reiteração delitiva (fl. 27 - grifo nosso).
+Nesse sentido, esta Corte Superior já decidiu, em caso semelhante, que Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, tendo em vista a g ravidade da conduta e o modus operandi empregado, pois o paciente teria cometido o delito mediante ameaça e restrição de liberdade da vítima, o que demonstra a periculosidade concreta do acusado (AgRg no HC n. 990.043/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 21/5/2025, DJEN de 27/5/2025).
+A propósito, confira-se o AgRg no HC n. 876.387/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.
+Afora isso, é ente ndimento desta Casa que as condições favoráveis, por si sós, não impedem a ma nutenção da prisão cautelar quando devidamente fundamentada, e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, indefiro liminarmente o writ.
+Pub lique -se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. AMEAÇA. SEQUESTRO. CÁRCERE PRIVADO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS DELITOS. ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DE LIBERDADE DA VÍTIMA. PRESERVAÇÃO DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
