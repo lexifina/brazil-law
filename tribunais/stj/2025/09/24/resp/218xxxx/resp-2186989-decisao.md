@@ -1,0 +1,8 @@
+DECISÃO
+O Supremo Tribunal Federal afetou à sis temática da repercussão geral o Tema 1.276, nos seguintes termos: "P ossibilidade de, em decorrência da autotutela administrativa, efetivar-se a supressão de vantagem pessoal, de trato sucessivo, incorporada por erro da Administração aos proventos de servidora pública há mais de cinco anos."
+Nesse contexto, julgado o tema pela sistemática da repercussão geral, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Somente após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do RE 1.419.890 (Tema 1.276) pelo Supremo Tribunal Federal e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+EMENTA
