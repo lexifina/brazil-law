@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor PAULO RANGEL DO NASCIMENTO contra ato de Desembargador do Tribunal Regional Federal da 3ª Região, que indeferiu pedido de tutela de urgência apresentado pela defesa (fls. 12-13).
+Consta nos autos que foi recebida denúncia em desfavor do paciente pelo Órgão Especial do Tribunal Regional Federal da 3ª Região, pela prática do crime previsto no artigo 333, caput, e parágrafo único, do Código Penal.
+Posteriormente, em razão da perda do cargo de Juiz Federal do corréu L. S. de M., foi determinada a remessa dos autos à Subseção Judiciária de São Paulo, tendo a fase de instrução sido devidamente realizada e a sentença condenatória proferida pelo juízo da 4ª Vara Criminal Federal - SJ/SP.
+Irresignada, a defesa interpôs recurso de apelação, o qual foi recebido.
+Contudo, diante do julgamento proferido pelo Supremo Tribunal Federal no HC n. 232.627/DF, no qual se firmou novo entendimento no sentido de que o foro por prerrogativa de função para julgamento de crimes praticados no cargo ou em razão das funções deve ser mantido mesmo após o afastamento do agente público ou político do cargo, foi proferida decisão monocrática pelo Desembargador Hélio Nogueira determinando a aplicação da nova interpretação e intimando as partes para que procedessem à adequação dos recursos interpostos, a fim de atenderem aos requisitos de admissibilidade das vias recursais destinadas aos Tribunais Superiores (fls. 109-110).
+Irresignada, a defesa interpôs agravo regimental contra a decisão monocrática (fls. 93-100) e requereu a concessão de tutela de urgência incidental visando à atribuição de efeito suspensivo ao agravo regimental (fls. 103-106).
+Em decisão monocrática, o Desembargador indeferiu o pedido de tutela de urgência e determinou o processamento do agravo regimental:
+"Vistos.
+1 - Id 333135717: Paulo Rangel do Nascimento interpôs Agravo Regimental em face da decisão que determinou a adequação do recurso para remessa aos Tribunais Superiores, em decorrência do quanto decidido pelo Supremo Tribunal Federal acerca da competência originária dos Tribunais por prerrogativa de foro.
+Processe-se o agravo, dando-se vista ao órgão ministerial para oferta de resposta.
+2 - Id 335646834: pugna a Defesa de Paulo Rangel do Nascimento a concessão de tutela de urgência para atribuição de efeito suspensivo ao agravo regimental.
+Decido.
+O pedido não comporta acolhimento.
+A alegação no sentido do curso do prazo para adequação do recurso para fins de remessa à instância superior antes da apreciação da impugnação, por si só, não acarreta prejuízo à Defesa.
+Com efeito, a adequação dos recursos não implica prejuízo à Defesa, sendo certo que a decisão agravada não veiculou determinação de imediata remessa dos autos aos Tribunais Superiores, o que somente irá ocorrer, diante da interposição do agravo regimental, após o seu julgamento.
+Desse modo, indefiro o pedido de tutela de urgência"
+A defesa impetrou o presente habeas corpus contra o referido ato, pugnando, liminarmente, pela atribuição de efeito suspensivo ao agravo regimental ou suspensão do prazo até o seu julgamento colegiado. No mérito, requer a concessão da ordem para suspender o prazo recursal da decisão monocrática e, subsidiariamente, que se determine a apreciação das apelações já interpostas (fls. 02-09).
+É o relatório. DECIDO.
+O art. 105 da Constituição não confere competência ao Superior Tribunal de Justiça para processar e julgar, originariamente, habeas corpus contra ato de Desembargador de Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios.
+Não cabe, portanto, em regra, habeas corpus contra decisão monocrática de relator, seja pela literalidade das hipóteses constitucionais de cabimento, seja pela indispensabilidade do esgotamento, no Tribunal de origem, das vias recursais.
+A regra tem por objetivo evitar a supressão de instância e o conhecimento de matérias que, em tese, não estariam, no tempo e no modo, na esfera de competência do Tribunal para o qual se destinou a indevida impetração. O exaurimento da instância antecedente é, pois, pressuposto de competência.
+Nesse sentido:
+" ..  Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado."
+(HC n. 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 1/6/2022)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. MEDIDA CAUTELAR INOMINADA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO EM SENTIDO ESTRITO. DECISÃO MONOCRÁTICA DA VICE-PRESIDÊNCIA DO TRIBUNAL DE JUSTIÇA. COMPETÊNCIA. REGIMENTO INTERNO DA CORTE ESTADUAL. APLICAÇÃO DA SÚMULA N. 691 DO STF. DECRETAÇÃ DE PRISÃO PREVENTIVA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Consoante art. 59, VIII, do Regimento Interno do TJRS, compete ao 2º Vice-Presidente, além de substituir o 1º Vice-Presidente em suas faltas e impedimentos e suceder-lhe nos casos de vaga, decidir os incidentes suscitados nos feitos da Seção Criminal, antes da distribuição ou após a publicação.
+2. Na espécie, aplica-se, mutatis mutandis, o enunciado da Súmula 691 do STF, no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, eis que a matéria não foi examinada pelo colegiado do Tribunal de origem.
+(..)
+5. Agravo regimental desprovido." (AgRg no HC n. 850.055/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2023, DJe de 18/12/2023, grifei)
+O Supremo Tribunal Federal, a partir desse raciocínio, editou o enunciado de súmula n. 691, amplamente aplicado, por analogia, pelo Superior Tribunal de Justiça, nos seguintes termos: "(n)ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar".
+Ao longo dos anos, contudo, o Supremo Tribunal Federal e o Superior Tribunal de Justiça construíram exceções à regra prevista naquela súmula, de modo a admitir o conhecimento precoce do habeas corpus na instância superior. Em resumo, a excepcionalidade é admitida quando a decisão impugnada se mostrar teratológica, flagrantemente ilegal, abusiva ou, ainda, manifestamente contrária à jurisprudência da Corte (STF, HC n. 143.476/RJ, Segunda Turma. Rel. Orig. Min. Gilmar Mendes, Red. p/ o ac. Min. Ricardo Lewandowski, julgado em 6/6/2017).
+Na hipótese, não verifico a ocorrência de flagrante constrangimento ilegal ou teratologia que demande a superação do entendimento consolidado desta Corte, a fim de se conceder, de ofício, a ordem pleiteada.
+Isso porque, conforme constou na decisão impugnada, não foi determinada a remessa imediata dos autos aos Tribunais Superiores, mas tão somente a adequação dos recursos, o que não implica, em primeira análise, prejuízo à defesa.
+Ademais, restou expressamente consignado, ainda, que eventual remessa dos autos aos Tribunais Superior somente ocorrerá após o julgamento do agravo regimental, quando haverá análise do mérito da questão pelo colegiado.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
