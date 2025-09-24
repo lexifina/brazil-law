@@ -1,0 +1,25 @@
+DECISÃO
+CAMILA ALFAMA RIBEIRO agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 0105090-94.2017.8.21.7000.
+Todavia, apesar de a decisão impugnada não ter admitido o recurso especial, com base na incidência da Súmula n. 7 do STJ (além da Súmula n. 83 do STJ), nas razões do agravo, a defesa cingiu-se a "questiona r  se, as duas únicas ligações telefônicas recebidas pela Recorrente, configuram os delitos de tráfico de drogas e associação para o tráfico imputados à Recorrente, ou se configuram apenas atos preparatórios do delito, ou mesmo se não bastam para demonstrar a autoria do delito", in verbis:
+ ..
+Ainda, no que tange aos pedidos de absolvição da Recorrente por ausência de provas, estes não afrontam a sumula 7 do STJ, visto que a Recorrente não pretende o simples reexame das provas, mas em verdade uma nova valoração, o que é possível por meio do recurso especial.
+O que pretende a Recorrente é que o Superior Tribunal de Justiça, caso assim entenda, dê nova definição jurídica aos fatos apresentados e que foram objeto do acórdão recorrido.
+Nesse sentido, questiona a Recorrente se, as duas únicas ligações telefônicas recebidas pela Recorrente, configuram os delitos de tráfico de drogas e associação para o tráfico imputados à Recorrente, ou se configuram apenas atos preparatórios do delito, ou mesmo se não bastam para demonstrar a autoria do delito.
+Vejam que as provas contra a Recorrente são mínimas, limitando-se a duas ligações telefônicas de poucos minutos.
+Daí a necessidade, a fim de se fazer justiça, e assim não se levar um inocente para a prisão, de se ver uma decisão oriunda deste Superior Tribunal de Justiça quanto a caso dos autos.
+Ante o exposto, requer seja conhecido o recurso especial apresentado.  ..  (fl. 2.013)
+Além da petição de agravo em recurso especial não indicar qual informação do acórdão poderia ser revalorada, em nenhum momento foi analisada tese de ausência de consumação do delito. Pelo contrário, o acórdão narra que foi cumprido manado de busca e apreensão na residência de Camila, que Carlos determinava à agravante tarefas (como preparação de drogas para entregas ou ocultação de entorpecentes diante da eventualidade de batida policial). Esses são os elementos de fato constantes do acórdão. Caberia a defesa indicar quais deles que, revalorados, levassem ao afastamento da condenação.
+Portanto, forçoso constatar que, nas razões do agravo, a defesa , ao deixar de apontar qual o substrato fático incontroverso do acórdão permitiria revaloração, não apresentou "impugnação específica, pormenorizada e concreta" quanto ao argumento de incidência da Súmula n. 7 do STJ.
+Com efeito, é insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas, omitindo-se em indicar qual a premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permite o provimento do pedido.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas razões de pedir do agravo em recurso especial, a parte deixou de refutar, especificamente, os fundamentos utilizados da decisão impugnada, o que atraiu a incidência da Súmula n. 182 do STJ.
+2. O acórdão de apelação indicou razões claras e suficientes para afastar a tese de negativa de autoria e a parte não indicou omissão sobre ponto essencial para o julgamento da lide ou redação de difícil compreensão, a justificar a interposição de recurso especial a pretexto de violação do art. 619 do CPP.
+3. Ainda, "para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ" (AgRg no AREsp n. 1823881/PR, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 26/4/2021), o que não ocorreu.
+4. Não é suficiente, para requerer o afastamento do óbice da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. Deixou de ser indicada premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permitisse a pretendida absolvição.
+5. Agravo regimental não provido. (AgRg no AREsp n. 1.827.996/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/8/2021, DJe de 16/8/2021.)
+Assim, observo que não houve fundamentação clara, específica e pormenorizada que contraditasse os fundamentos exarados na decisão combatida.
+Portanto, incide o enunciado na Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+À visto do exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
