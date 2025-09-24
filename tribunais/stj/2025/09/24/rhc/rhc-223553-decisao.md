@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por RAQUEL CRISTINA DOS SANTOS MOREIRA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2231535-55.2025.8.26.0000).
+Depreende-se dos autos que a recorrente encontra-se em custódia preventiva e foi denunciada pela prática, em tese, de tráfico de drogas e associação para o mesmo fim.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 41/48).
+Habeas Corpus. Tráfico ilícito de drogas. Associação para o tráfico. Artigos 33 e 35 da Lei nº 11.343/06. Impetração contra a decretação da prisão preventiva. Denegação do "writ". Decisão de constrição do Juiz Singular bem fundamentada que não se mostrou ilegal ou teratológica. Presença dos requisitos da custódia cautelar. Aferida a materialidade delitiva e indícios de autoria, tendo sido oferecida a denúncia nos autos de origem. Investigações no sentido de que a paciente participava do núcleo financeiro da associação criminosa, recebendo valores por meio de conta bancária e os repassando para o grupo. Não alteração das condições que autorizam a prisão preventiva. Gravidade concreta dos delitos imputados. Inexistência de falta de contemporaneidade. Prisão requerida e decretada após trabalho investigativo policial. Entendimento de que a contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado a lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal. Alegadas condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, que não têm o condão de, por si só, garantir a revogação da prisão preventiva, se há nos autos elementos hábeis a recomendar a manutenção da custódia cautelar, o que ocorre na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, reservado ao Juiz Singular a discricionariedade para tanto, no curso do processo. Constrangimento ilegal não evidenciado. Ordem denegada.
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva, ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Destaca as circunstâncias pessoais favoráveis.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em seu recurso ordinário, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Isso, porque mostra-se imprescindível a análise mais aprofundada dos elementos de convicção constantes dos autos, o que ocorrerá por ocasião do julgamento definitivo.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau - em especial o envio de cópia de eventuais decisões sobre pedidos de revogação/relaxamento da prisão preventiva - e ao Tribunal de segunda instância, ressaltando-se que esta Corte Superior deverá ser noticiada de qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Oportunamente, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
