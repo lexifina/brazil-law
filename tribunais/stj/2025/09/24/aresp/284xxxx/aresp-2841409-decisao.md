@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIAÇÃO JAUÁ LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489, § 1º, IV e 1.022, II, do Código de Processo Civil e na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não merece conhecimento, pois as matérias de admissibilidade foram enfrentadas na decisão anterior, e que o recurso busca apenas o reexame de provas, sendo descabido e protelatório.
+O recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia em apelação nos autos de ação de indenização por danos morais.
+O julgado foi assim ementado (fls. 150-152):
+APELAÇÕES CÍVEIS SIMULTÂNEAS. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DIVULGAÇÃO DE IMAGEM SEM CONSENTIMENTO. ASSOCIAÇÃO DO AUTOR COMO ASSALTANTE DE ÔNIBUS. VIOLAÇÃO A DIREITO PERSONALÍSSIMO. INSTRUÇÃO PROCESSUAL QUE CORROBORA AS ALEGAÇÕES AUTORAIS. EVIDENCIADO DANO À IMAGEM DO AUTOR. PARTE ACIONADA NÃO SE DESINCUMBIU DO ÔNUS QUE LHE COMPETIA. ART. 373, II DO CPC. DANO MORAL. CONFIGURAÇÃO. VALOR DA CONDENAÇÃO. MAJORAÇÃO DO VALOR EM ATENÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. OBSERVÂNCIA DAS CIRCUNSTÂNCIAS DO FATO CONCRETO. APELO DA AUTORA PROVIDO EM PARTE. RECURSO DA RÉ DESPROVIDO. SENTENÇA PARCIALMENTE REFORMADA.
+ ..
+Os embargos de declaração opostos foram decididos nestes termos (fls. 213-214):
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. HIPÓTESES DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO PARA FINS DE PREQUESTIONAMENTO. NÃO APONTADO VÍCIO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. PRETENSÃO DE REFORMA DA DECISÃO. IMPOSSIBILIDADE DE REAPRECIAÇÃO DE QUESTÕES JÁ DISCUTIDAS. EMBARGOS DE DECLARAÇÃO NÃO ACOLHIDOS.
+ ..
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 489, § 1º, IV, e 1.022, II, do CPC, porque o acórdão não enfrentou todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador, bem como porque foi omisso ao não considerar que os guichês dos terminais rodoviários não são administrados pela Viação Jauá, mas pelas respectivas prefeituras ou concessionárias contratadas pela administração pública;
+b) 373, I, do CPC, pois o ônus de provar a responsabilidade civil da empresa pertence exclusivamente ao recorrido, já que se trata de fato constitutivo de seu direito; e
+c) 927 do CC, visto que não há nos autos prova concreta de que a empresa tenha cometido ato ilícito contra o recorrido.
+Requer o provimento do recurso para que se reconheça a ausência de sua responsabilidade civil com a consequente reforma do acórdão para se julgar improcedente a ação.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial é incabível, pois busca apenas o reexame de provas, sendo descabido e protelatório.
+É o relatório. Decido.
+Trata-se, na origem, de ação que condenou a empresa ré ao pagamento de indenização de R$ 10.000,00 a título de danos morais, diante da indevida veiculação da imagem da parte demandante em cartazes que a associavam à prática de roubo a ônibus na região metropolitana de Salvador.
+O Tribunal de origem majorou para R$ 15.000,00 o quantum indenizatório.
+I - Arts. 489, § 1º, IV, e 1.022, II, do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Da leitura do acórdão proferido pelo TJBA, verifica-se que o órgão julgador expôs, de maneira clara e coesa, os fundamentos que o levaram a manter e a majorar a condenação. Reconheceu, diante das provas e alegações, que a empresa de transporte não lograra êxito em afastar sua responsabilidade, pois não se desincumbira do ônus probatório que lhe competia, conforme o art. 373, II, do CPC.
+O fato de o julgado ser contrário aos interesses da recorrente não o torna omisso ou carente de fundamentação. O julgador não está obrigado a rebater, um a um, todos os argumentos levantados pelas partes quando já encontrou motivo suficiente para fundamentar sua decisão, como ocorreu no caso.
+II - Arts. 373, I do CPC e 927 do CC
+A parte recorrente alega que o Tribunal a quo violou as regras de distribuição do ônus da prova e o dispositivo que rege a responsabilidade civil ao condená-la sem prova cabal de sua participação no ato ilícito.
+A análise da alegada violação, no entanto, encontra óbice intransponível na Súmula n. 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A Corte local, soberana na análise das provas, concluiu que a conduta da empresa ocasionara o dano em questão, tendo em vista as evidências dos autos, que apontavam para a divulgação da imagem do autor em seus guichês. Diante desse quadro fático, o TJBA entendeu que caberia à empresa comprovar que não fora a responsável pela divulgação ou que o fato ocorrera por culpa exclusiva de terceiro, ônus do qual não se desincumbiu.
+Confira-se trecho do acórdão recorrido (fl. 151):
+7. No mérito, dos fólios processuais, deflui-se que a Apelante/ Réu não acostou aos autos nenhuma prova em sua defesa (ID. 255290186), como forma de afastar a responsabilidade pela divulgação de fotos apontada pelo autor na inicial, restringindo-se a informar que não retratou o autor como assaltante de ônibus.
+8. Assim, tem-se que a Demandada não se desincumbiu do seu ônus probatório previsto no art. 373, II, do Código de Processo Civil, na medida em que não demonstrou que a divulgação ocorreu fora das dependências de sua empresa, ou do seu guichê, de sorte a excluir a sua responsabilidade civil e, como consequência, o dever de indenizar, nos termos do art. 188, I, do Código Civil.
+9. Em que pese as alegações da requerida de inexistência de prática de ato ilícito, restou evidente que sua conduta de afixar foto do autor em mural associando-o à prática de crimes ensejou mácula em sua esfera subjetiva, ensejando o dever de indenizar.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. PROCEDIMENTO CIRÚRGICO. VITRECTOMIA. FALHA NO DEVER DE INFORMAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA PELO TRIBUNAL ESTADUAL. REEXAME DE PROVAS. SÚMULA 7/STJ. REVISÃO DO QUANTUM INDENIZATÓRIO A TÍTULO DE DANOS MORAIS. VALOR NÃO EXORBITANTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não há que se falar em ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. No caso, o Tribunal de Justiça, com fulcro no acervo fático-probatório carreado aos autos, reconheceu a existência de nexo de causalidade entre a falha no dever de informação pelo médico cirurgião e as complicações apresentadas pelo recorrido, que teve a perda da visão do olho esquerdo, fixando indenização a título de danos morais em R$ 80.000,00.3. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Quanto à pretensão de reduzir o valor da indenização a título de danos morais, a jurisprudência desta Corte assevera que o montante indenizatório arbitrado na instância ordinária pode ser revisto nesta instância extraordinária somente nos casos em que o valor for ínfimo ou exorbitante. Na hipótese, verifica-se que o quantum de R$ 80.000,00 fixado pelos danos morais não se afigura exorbitante.
+5. Agravo conhecido para negar provimento ao recurso especial. (AREsp n. 2.906.395/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/9/2025, DJEN de 15/9/2025.)
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intim em-se.
+EMENTA
