@@ -1,0 +1,34 @@
+DECISÃO
+ROBERTA REIS TEIXEIRA PATRÍCIO alega sofrer de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas no HC n. 0002745-54.2025.8.04.9001.
+Consta dos autos que a paciente foi condenada a 3 anos, 4 meses e 24 dias de detenção, e multa, pela prática do crime previsto no art. 2º, II e IV, da Lei n. 8.137/90.
+A defesa pretende a suspensão dos efeitos da sentença - com a consequente restituição do prazo para a interposição de apelação -, sob o argumento de que a ré não foi intimada pessoalmente da condenação, o que viola os princípios do contraditório e da ampla defesa.
+Denegada a ordem pelo Tribunal a quo, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+O Juízo singular prestou informações quanto ao objeto do habeas corpus, nos seguintes termos (fls. 52-54):
+Sobreveio Sentença Condenatória (fls. 1007/1025), julgando o pleito procedente pedido autoral para, de forma preliminar, afastar preliminar de prescrição e tese de nulidade, e, no mérito, CONDENAR os réus ROBERTA REIS TEIXEIRA PATRÍCIO e MAIKO AMORIM DE SOUZA às penas do art. 2º, incisos II e IV c/c art. 12, I, da Lei 8.137/90, na forma do art. 69 e art. 71 do Código Penal, conforme súmula 659-STJ, penas que ao final restaram dosadas e individual fixadas para ambos em 03 (três) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de detenção, bem como multa definitiva de 90 (noventa) salários mínimos vigentes históricos, em regime aberto, substituída por restritivas de direitos (CP, art. 44), prejudicada suspensão da pena (CP, art. 77, II).
+A Defesa de ambas as partes ROBERTA REIS TEIXEIRA PATRÍCIO e MAIKO AMORIM DE SOUZA foi regularmente intimada, conforme certidão do Diário Eletrônico de fls. 1032, contando com término do prazo de Recurso de Apelação em 27 de janeiro de 2025, já com o cálculo especifico do art. 798-A, do Código de Processo Penal. O réu MAIKO AMORIM DE SOUZA interpôs Recurso de Apelação no prazo legal (fls. 1030/1031), na data de 17 de janeiro, ao passo que a Defesa de ROBERTA REIS TEIXEIRA PATRÍCIO, após regular intimação, deixou transcorrer o prazo recursal, razão pelo qual houve certificação do decurso do trânsito em julgado em 29 de janeiro de 2025 (fls.1033), e, como consequência jurídica, deu início aos procedimentos necessários à execução da Sentença, como a expedição de Guia (fls. 1034/1035), e Informação à Justiça Eleitoral (fls. 1038), independentemente de intimação pessoal da ré ROBERTA REIS TEIXEIRA PATRÍCIO.
+O Tribunal de origem, a seu turno, afastou a nulidade arguída pela defesa, pelos seguintes fundamentos (fls. 86-90):
+Nos termos do art. 392 do Código de Processo Penal:
+Art. 392. A intimação da sentença será feita:
+I - ao réu, pessoalmente, se estiver preso;
+II - ao réu, pessoalmente, ou ao defensor por ele constituído, quando se livrar solto, ou, sendo afiançável a infração, tiver prestado fiança;
+Nota-se que a disposição normativa vale-se da conjunção "ou", com valor alternativo, e não da conjunção "e", aditiva. Assim, estando o réu solto, como in casu, é possível que haja intimação da sentença diretamente a sua pessoa por meio do causídico constituído, o que ocorreu, conforme Certidão do Diário de Justiça Eletrônico de mov. 136.1 dos autos principais, onde consta que a defesa de ambas as partes foi devidamente intimada, tanto que a defesa do réu Maiko Amorim de Souza interpôs recurso de apelação criminal no prazo legal, ao passo que a defesa da paciente Roberta Reis Teixeira Patrício deixou transcorrer o prazo recursal, razão pela qual houve, de forma correta, a certificação do trânsito em julgado em 29 de janeiro de 2025, dando-se início aos procedimentos necessários à execução da Sentença.
+Acerca da alternativa da intimação, o Supremo Tribunal Federal possui o entendimento majoritário de que não constitui nulidade quando apenas uma das figuras contidas no art. 392, II, do CPP, é intimada do teor da sentença.
+Os trechos acima transcritos denotam que a acusada respondeu ao processo em liberdade e a defesa foi regularmente intimada da sentença condenatória "por meio do causídico constituído, o que ocorreu, conforme Certidão do Diário de Justiça Eletrônico de mov. 136.1 dos autos principais" (fl. 89, grifei).
+Sobre o tema, destaco que " n os termos do art. 392, II, do Código de Processo Penal, a intimação acerca da sentença ou acórdão condenatórios, em se tratando de réu solto, será feita ao advogado constituído por meio da publicação no órgão de imprensa oficial, sendo desnecessária a intimação pessoal. Precedentes" (AgRg no RHC n. 205.428/SP, relator Ministro Og Fernandes, Sexta Turma, DJEN de 24/3/2025).
+No mesmo sentido:
+ ..
+1. Consoante o disposto no art. 392, II, do CPP, tratando-se de réu solto, é suficiente a intimação do defensor constituído, através da publicação no órgão de imprensa oficial, acerca da sentença condenatória. Precedentes.
+2. A inércia recursal do advogado constituído não caracteriza, por si só, vício ensejador do reconhecimento de nulidade processual,
+pois vige entre nós o princípio da voluntariedade recursal (art. 574 do Código de Processo Penal) - (AgRg no HC n. 717.898/ES, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/3/2022); de modo que a manifestação da parte externando seu desejo de recorrer às instâncias superiores não tem o condão de desqualificar o trânsito em julgado já operado, muito menos promover a reabertura de prazo recursal.
+3. Ordem denegada.
+(HC n. 748.704/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 29/8/2022, destaquei.)
+ ..
+1. "Nos termos do art. 392, inciso II, do Código de Processo Penal, a intimação acerca da sentença ou acórdão condenatórios, em se tratando de réu solto, será feita ao advogado constituído através da publicação no órgão de imprensa oficial, sendo desnecessária a intimação pessoal" (AgRg no AREsp 1668133 /SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 29/6/2020).
+2. "A ausência de interposição do recurso de apelação pelo advogado anteriormente constituído não enseja o reconhecimento de nulidade. Deve-se observar que, diante do caráter de voluntariedade do recurso, sua não interposição não implica ausência de defesa" (AgRg no RHC 111.241/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 3/6/2019).
+3. Recurso em habeas corpus desprovido.
+(RHC n. 153.032/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 22/4/2022, grifei.)
+Assim, o acórdão estadual está em consonância com a jurisprudência desta Corte Superior sobre a matéria, uma vez que a regular intimação do defensor constituído ou nomeado, que representou a recorrente durante todo o curso processual - situação ocorrida nos autos -, já é o bastante para atender ao que dispõe o art. 392, II, do CPP.
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
