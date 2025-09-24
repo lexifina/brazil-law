@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto por JHONATAN RODRIGUES, MARCOS VINICIUS DOS SANTOS MORAES e CLEISSON BATISTA DE ALMEIDA contra decisão da Presidência da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial por eles manejado.
+O apelo nobre, com fundamento no art. 105, III, alínea "a", da Constituição Federal, foi interposto contra acórdão que, ao dar parcial provimento ao recurso de apelação da defesa, manteve a condenação dos réus pela prática do crime de roubo majorado pelo concurso de agentes (art. 157, § 2º, II, do Código Penal), apenas para adequar o regime inicial de cumprimento de pena de dois dos corréus para o semiaberto.
+Nas razões do Recurso Especial, a defesa sustenta violação aos arts. 59, 155 e 157 do Código Penal, pleiteando, em síntese: a) a desclassificação do crime de roubo para o de furto, por ausência de grave ameaça; e b) o afastamento da valoração negativa dos maus antecedentes para o réu Marcos Vinicius, com a consequente readequação da pena-base e do regime prisional.
+A Corte de origem inadmitiu o recurso com base na Súmula n.º 7 do Superior Tribunal de Justiça (STJ).
+No presente Agravo, a defesa combate o fundamento da decisão de inadmissibilidade.
+Instado a se manifestar, o Ministério Público Federal, em parecer, opinou pelo conhecimento e desprovimento do agravo (e-S TJ fls. 650-657).
+É o relatório.
+Decido.
+Antecipo que a irresignação não merece prosperar. Explico.
+A defesa pugna pela desclassificação da conduta para o crime de furto, ao argumento de que não houve o emprego de grave ameaça contra a vítima. O Tribunal de origem, no entanto, após análise soberana do conjunto fático-probatório, concluiu pela caracterização da elementar do crime de roubo.
+Consta do acórdão recorrido (e-STJ fls. 562-573) que: "o emprego da grave ameaça velada resultou devidamente comprovado. Com efeito, segundo os relatos da vítima roborados pelas testemunhas, os acusados ingressaram no estabelecimento, tendo um deles, em tom intimidador, anunciado que levariam os produtos, além de terem-na encurralado no caixa, enquanto subtraíam as bebidas  .. . Vale dizer, a quantidade de agentes, a postura impositiva deles, a evidenciar o famigerado "arrastão", evidencia a "grave ameaça" exigida na espécie".
+Nesse contexto, para se chegar a uma conclusão diversa e acolher a tese defensiva, seria imprescindível o reexame aprofundado do acervo probatório, notadamente dos depoimentos e das imagens de vídeo, a fim de reavaliar se a conduta dos agentes foi ou não suficiente para intimidar a vítima, sendo que o referido procedimento é vedado na via estreita do recurso especial, nos termos da Súmula n.º 7 do STJ.
+Quanto ao réu Marcos Vinicius, a defesa busca o afastamento da valoração negativa dos maus antecedentes, com base em uma condenação por fatos ocorridos em 2013, argumentando que o lapso temporal seria excessivo.
+A matéria, contudo, já foi objeto de análise pelo Supremo Tribunal Federal em sede de repercussão geral (Tema 150), que fixou a seguinte tese: "Não se aplica ao reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal  .. ".
+O acórdão recorrido, ao considerar a condenação pretérita, ainda que atingida pelo período depurador, para exasperar a pena-base a título de maus antecedentes, alinhou-se à jurisprudência pacífica desta Corte e do Pretório Excelso. Incide, portanto, quanto ao ponto o óbice da Súmula n.º 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ademais, a tese subsidiária do "direito ao esquecimento", como bem apontado pelo MPF, não foi objeto de debate pela Corte de origem, carecendo do indispensável prequestionamento, o que atrai a incidência das Súmulas n.º 282 e 356 do STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para nã o conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
