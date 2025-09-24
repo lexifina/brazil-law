@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 110):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PARCELAMENTO. VALOR DEPOSITADO DECORRENTE DE ADJUDICAÇÃO DE BEM. ABATIMENTO SOBRE O SALDO DO PARCELAMENTO. POSSIBILIDADE. PROVIMENTO.
+1. Trata-se de execução fiscal relativa à CDA 40 6 04 004978-11 (CSLL) e CDA nº 40 2 04 002237-63 (IR), no qual foi indeferido o pedido da parte executada, ora agravante, de utilização do valor depositado decorrente de adjudicação de bem imóvel, para abatimento de prestações de parcelamento de débito, e determinada a imputação do referido montante ao pagamento da primeira CDA, de acordo com seu valor original.
+2. In casu, foi realizada adjudicação de imóvel da executada em 2021, e posteriormente, em 2022, houve adesão da empresa a parcelamento, com desconto legal de valores, concedido pela Lei nº 13.988/2020 e regulamentado pela Portaria PGFN nº 14.402/2020 e Portaria PGFN nº 5.885/2022, contudo, sem que tivesse havido abatimento do valor depositado referente ao bem adjudicado sobre o valor original do débito.
+3. Desta forma, considerando que não foi feita a conversão em pagamento na época própria, restando disponível o montante decorrente da adjudicação em conta judicial, e que se encontra em curso o parcelamento do débito ora executado, diante da inexistência de óbice legal, deve ser deferido o pleito de abatimento sobre o saldo do parcelamento, como pretendido pelo executado, e não sobre o valor bruto da CDA original, como havia sido definido na decisão agravada.
+4. Agravo de Instrumento provido.
+Embargos de declaração rejeitados (e-STJ fls. 174/177).
+Nas razões de seu recurso especial, a Fazenda Nacional aponta a violação do art. 1º, § 3º, II, da Lei n. 9.703/1998, dos arts. 1º, § 1º, 14, 17 e 27 da Lei n. 13.988/2020, do art. 17 do Edital PGDAU n. 2/2023 e dos arts. 155 e 155-A, § 2º, do CTN.
+Sustenta, em resumo, "a impossibilidade da utilização do valor depositado em juízo em decorrência da adjudicação de um imóvel para abatimento das prestações de parcelamento do débito, especificamente o referente à CDA n. 40 6 04 004978-11, pois a utilização do depósito não deve ser feita diretamente na conta de transação, mas na inscrição em Dívida Ativa sem os descontos, tendo em vista que a negociação se realizou após a alienação do bem. Somente depois, a inscrição já abatida será reincluída na conta de transação" (e-STJ fl. 192).
+R equer o provimento de seu recurso especial, com a determinação de que o valor em depósito judicial seja imputado para pagamento da dívida tributária pelo valor em que então estava constituída e não pelo valor consolidado posteriormente, quando da adesão do contribuinte a parcelamento administrativo do débito, ao qual foram aplicadas as reduções previstas na legislação de regência.
+Contrarrazões às e-STJ fls. 214/218.
+Recurso especial especial admitido (e-STJ fls. 190/209).
+Passo a decidir.
+Controverte-se no recurso especial sobre o objeto da imputação de pagamento de depósito judicial: a) se essa imputação se daria sobre o valor da dívida constituída quando da realização do depósito judicial, ou b) se essa imputação se daria sobre o valor da dívida consolidada quando da posterior adesão do contribuinte a parcelamento tributário (portanto, com as reduções previstas na legislação de regência).
+Pois bem.
+Ao afirmar que a imputação deveria ser realizada tendo em vista o valor da dívida ao tempo do parcelamento tributário, com as reduções estabelecidas na lei de regência, o Tribunal de origem asseverou o seguinte (e-STJ fl. 108):
+Se os valores decorrentes de adjudicação de bem imóvel, encontram-se depositados em juízo com finalidade de quitação do débito fiscal, não há qualquer impedimento para sua utilização no adimplemento do saldo do parcelamento.
+Entretanto, em seu recurso especial, a Fazenda Nacional limitou-se a defender que esses valores deveriam ter sido utilizados para abater o valor da dívida então constituída. Nada contrapôs, diretamente, à fundamentação do acórdão recorrido. Fundamentação essa no sentido de que, uma vez não tendo sido realizada a imputação de pagamento no momento devido e encontrando-se os valores ainda em depósito judicial, nada impediria (não haveria lei proibindo) que fossem utilizados para a quitação da dívida em seu valor atual, isto é, no valor consolidado no parcelamento, com as reduções garantidas por lei.
+Não fosse isso suficiente, o órgão fazendário também deixou de indicar clara e especificamente no que o julgado recorrido teria violado os dispositivos de lei citados no recurso especial, não sendo suficiente a mera afirmação genérica do malferimento de uma série de normas legais.
+Aplicáveis, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais, pois se cuida, na origem, de decisão interlocutória.
+Publique-se. Intimem-se.
+EMENTA
