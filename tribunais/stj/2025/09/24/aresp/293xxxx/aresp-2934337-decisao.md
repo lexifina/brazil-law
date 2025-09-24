@@ -1,0 +1,25 @@
+DECISÃO
+JOSÉ RAIMUNDO LIBERINO NASCIMENTO agrava de decisão que inadmitiu o recurso especial interposto, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Sergipe na Apelação Criminal n. 202400343807.
+Consta dos autos que o recorrente foi condenado pela prática dos crimes previstos no art. 33 da Lei n. 11.343/2006, à pena de 6 anos e 8 meses de reclusão, em regime inicial semiaberto, mais multa. Em grau de recurso, a condenação foi mantida, mas reduzida a reprimenda para 5 anos e 10 meses de reclusão.
+No especial, o recorrente indica divergência jurisprudencial no que tange à interpretação dada pelo Tribunal local ao art. 244 do CPP e afirma, em síntese, a nulidade da prova por violação de domicílio.
+O Tribunal a quo inadmitiu o recurso especial na origem, em razão da intempestividade, o que ensejou o presente agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 591-594).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais conheço do recurso e passo à análise da impugnação.
+Tendo em vista tratar-se de advogado dativo, faz jus a defesa à prerrogativa da intimação pessoal, razão pela qual o recurso especial interposto é tempestivo, inclusive como bem ressaltou o Ministério Público estadual em suas contrarrazões (fls. 568-574).
+A despeito da tempestividade, o especial não deve ser conhecido, por não preencher os demais requisitos de admissibilidade, notadamente pela sua fundamentação insuficiente, conforme evidenciado a seguir.
+Em relação à alegada violação do art. 244 do CPP, o Tribunal de origem assim se pronunciou, no que interessa (fls. 433-461):
+ ..
+A casuística posta demonstra que os policiais civis receberam denúncia anônima, com indicação completa do acusado, o modo de operação e a forma como ele distribuição do Nobésio. De posse dessas informações, procederam a averiguações, localizaram o acusado e foram a residência dele, cujo acesso foi devidamente franqueado pela esposa.
+Nesse aspecto, deve ser observado o termo de consentimento juntado à fls. 62, que dá ciência da diligência e autoriza a busca. Ressalte-se que foi feita prova do dissenso.
+No mesmo diapasão, cabe lembrar do tema 1208 do STF, que discute os limites e requisitos da busca domiciliar (tema afeto à repercussão geral, ainda não julgado definitivamente), destacando a inexistência de direito absoluto (inviolabilidade de domicílio), bem como que a medida não pode ser obstada em caso de crime permanente, com exposição das justificativas a posteriori. O que foi feito.
+Vale transcrição, por oportuno, do trecho do parecer ministerial:
+"(..) Ou seja, a busca domiciliar só aconteceu após a identificação da pessoa delatada na denúncia anônima e com sua conivência para entrada na casa. Nesse ponto específico, o Apelante, em juízo, confirmou que "eu estava na churrascaria quando eles chegaram, pediram para falar comigo, para ir em minha casa, "posso entrar ", eu disse "pode entrar", não tem nada de errado, chamei eles para dentro de casa, entraram dentro de casa, revistou e eu falei que era minha". Nas fls. 62, ademais, temos a expressa autorização por escrito da esposa do Apelante para ingresso dos policiais no imóvel do casal. Assim, de posse de uma denúncia anônima, os policiais iniciaram as diligências para apurá-la e, nesse contexto, depois de encontrarem a pessoa indicada, dele obtiveram permissão para prosseguir com as investigações dentro da residência. A cronologia que antecedeu o ingresso em domicílio, portanto, foi composta não somente pela denúncia anônima, como alega a defesa, mas pela 1) identificação da pessoa suspeita no local onde ocorreria o tráfico; e 2) pela expressa autorização para a busca domiciliar, fatores que, em nosso pensar, configuram a "justa causa".
+Desse modo, resta claro que o flagrante fora realizado de forma adequada, não havendo que se falar em ilegalidade na abordagem realizada.
+ ..
+Verifico que o acórdão recorrido destacou a autorização do morador para o ingresso do domicílio do réu.
+A parte, contudo, não atendeu a dialeticidade recursal, pois não impugnou referido fundamento, o qual seria suficiente, por si só, para manter as conclusões do julgado. Aliás, o paradigma indicado nem sequer apresenta essa circunstância . Assim, o recurso especial tem fundamentação insuficiente, por não impugnar todas as razões de decidir do acórdão recorrido, o que enseja a aplicação da Súmula n. 283 do STF.
+Nessa perspectiva: "não tendo sido o único fundamento do acórdão recorrido atacado pela parte recorrente, o qual é apto, por si só, para manter o decisum combatido, aplicam-se na espécie, por analogia, os óbices das Súmulas n. 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo" (AgInt no AREsp n. 2.653.449/SP, relator Ministro Humberto Martins, Terceira Turma, DJe de 5/12/2024, grifei).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
