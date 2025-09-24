@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Busca pessoal e domiciliar. Validade. Agravo provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que conheceu do agravo e negou provimento ao recurso especial manejado em face de acórdão proferido pela 3ª Câmara Criminal do Tribunal de Justiça do Estado do Ceará.
+2. O Tribunal de origem deu provimento ao apelo defensivo, para declarar a nulidade das provas obtidas e absolver o réu, nos termos do art. 386, II, do Código de Processo Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca pessoal e domiciliar realizada pela Guarda Municipal foi válida, considerando as fundadas razões para a abordagem.
+III. Razões de decidir
+4. A busca pessoal, prevista no artigo 244 do Código de Processo Penal, requer fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+5. A entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem flagrante delito, conforme entendimento do STF no RE 603.616/RO.
+6. A atuação da Guarda Municipal como integrante do Sistema de Segurança Pública é legítima, conforme o art. 144, § 8º, da Constituição Federal e o julgamento da ADPF 995.
+7. No caso concreto, havia fundadas razões para a ocorrência do crime permanente imputado ao acusado, aptas ao embasamento da abordagem pessoal e domiciliar.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo provido para dar provimento ao recurso especial e cassar o acórdão proferido pelo Tribunal de Justiça do Estado do Ceará.
+Tese de julgamento:
+1. A busca pessoal e domiciliar realizada pela Guarda Municipal é válida quando há fundadas razões para a abordagem.
+Dispositivos relevantes citados: CPP, art. 240; CPP, art. 244; CF/1988, art. 144, § 8º.
+Jurisprudência relevante citada: STF, RE 603.616/RO; STF, ADPF 995, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe de 09.10.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que conheceu do agravo e negou provimento ao recurso especial manejado em face de acórdão proferido pela 3ª CÂMARA CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta nos autos que o recorrido foi condenado pela infração ao art. 33, caput, da Lei 11.343/06, às penas de 06 (seis) anos e 03 (três) meses de reclusão, em regime semiaberto, e 600 (seiscentos) dias-multa.
+O Tribunal de origem deu provimento ao apelo defensivo, para declarar a nulidade das provas obtidas e absolver o réu, nos termos do art. 386, II, do Código de Processo Penal (fls. 233-242).
+Nas razões do recurso especial (fls. 262-275), o MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ alegou que o acórdão recorrido contrariou o art. 240 do Código de Processo Penal, pois a busca pessoal e domiciliar decorreram de fundadas razões. Aduziu que o nervosismo do réu foi considerado de forma isolada no acórdão recorrido quando presentes outras circunstâncias capazes de autorizar as medidas.
+Negado seguimento ao recurso, por incidir na espécie o óbice do enunciado da Súmula 07/STJ (fls. 286-289).
+Foi interposto, então, agravo em recurso especial (fls. 297-306).
+Contraminuta apresentada às fls. 311-318.
+O Ministério Público Federal se manifestou pelo provimento do agravo e do recurso especial (fls. 332-338).
+Sobreveio decisão conhecendo do agravo e não conhecendo do recurso especial (fls. 340-343).
+Irresignado, o Ministério Público Federal interpôs agravo regimental (fls. 351-359), alegando que a pretensão ministerial prescinde do reexame do conjunto probatório carreado aos autos, pois se limita à revaloração jurídica dos fatos amplamente delineados na sentença e no acórdão recorrido, sem incidência da Súmula 7.
+Aduziu que o nervosismo do réu em local conhecido pela prática do tráfico de drogas pode ser considerado para justificar a busca pessoal, conforme já decidido por essa Egrégia Quinta Turma do Superior Tribunal de Justiça.
+Destacou que guardas municipais são integrantes do sistema de segurança pública previsto no art. 144 da Constituição Federal, conforme julgamento da ADPF n.º 995.
+Afirmou que no caso concreto, a atuação da Guarda Municipal se deu em harmonia com o disposto nos arts. 5º, inciso LXI, 6º, 144, caput e § 8º, todos da Constituição Federal.
+Requer a reforma da decisão monocrática ou a submissão do recurso ao Colegiado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Busca pessoal e domiciliar. Validade. Agravo provido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público Federal contra decisão que conheceu do agravo e negou provimento ao recurso especial manejado em face de acórdão proferido pela 3ª Câmara Criminal do Tribunal de Justiça do Estado do Ceará.
+2. O Tribunal de origem deu provimento ao apelo defensivo, para declarar a nulidade das provas obtidas e absolver o réu, nos termos do art. 386, II, do Código de Processo Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a busca pessoal e domiciliar realizada pela Guarda Municipal foi válida, considerando as fundadas razões para a abordagem.
+III. Razões de decidir
+4. A busca pessoal, prevista no artigo 244 do Código de Processo Penal, requer fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+5. A entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem flagrante delito, conforme entendimento do STF no RE 603.616/RO.
+6. A atuação da Guarda Municipal como integrante do Sistema de Segurança Pública é legítima, conforme o art. 144, § 8º, da Constituição Federal e o julgamento da ADPF 995.
+7. No caso concreto, havia fundadas razões para a ocorrência do crime permanente imputado ao acusado, aptas ao embasamento da abordagem pessoal e domiciliar.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo provido para dar provimento ao recurso especial e cassar o acórdão proferido pelo Tribunal de Justiça do Estado do Ceará.
+Tese de julgamento:
+1. A busca pessoal e domiciliar realizada pela Guarda Municipal é válida quando há fundadas razões para a abordagem.
+Dispositivos relevantes citados: CPP, art. 240; CPP, art. 244; CF/1988, art. 144, § 8º.
+Jurisprudência relevante citada: STF, RE 603.616/RO; STF, ADPF 995, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe de 09.10.2023.
+VOTO
+A controvérsia consiste na análise da validade da busca pessoal e domiciliar efetuada pela Guarda Municipal.
+Ao analisar o recurso, entendo que deve haver o seu provimento.
+Inicialmente, ressalto que há a possibilidade de exame dos temas ora trazidos sem reexame fático-probatório, mas considerando os fatos estabelecidos no acórdão do Tribunal de origem.
+Insta salientar que a busca pessoal, prevista no artigo 244 do Código de Processo Penal, requer a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou seja, em estado flagrante de crime em andamento.
+O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 603.616/RO, no qual se enfrentou o Tema 280 de Repercussão Geral, fixou o entendimento de que:
+"a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados".
+Ademais, no tocante às circunstâncias do flagrante, esta Corte já decidiu que o depoimento dos agentes públicos merece credibilidade em virtude da fé pública inerente ao exercício da função estatal, só podendo ser relativizado diante da existência de indícios que apontem para a incriminação injustificada de investigados por motivos pessoais (AgRg no HC n. 815.812/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/5/2023, DJe de 22/5/2023; AgRg no AREsp n. 2.295.406/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023).
+Quanto à atuação da Guarda Civil Municipal como causa de nulidade absoluta, configurada pela realização de prisão em flagrante, esta Corte, há muito, firmou o entendimento de que, à luz do artigo 301 do Código de Processo Penal, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito" (AgRg no HC n. 748.019/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/08/2022).
+O artigo 144, § 8º, da Constituição Federal prevê a Guarda Municipal, como órgão componente do Sistema de Segurança Pública, verbis:
+"Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos: (..) §8º Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei."
+Aliás, o Supremo Tribunal Federal assentou o entendimento de que as Guardas Municipais integram o Sistema de Segurança Pública, no julgamento da ADPF n. 995, cujo julgado ficou assim ementado:
+"DIREITO CONSTITUCIONAL E SEGURANÇA PÚBLICA. ART. 144, §8º, DA CONSTITUIÇÃO. RECONHECIMENTO DAS GUARDAS MUNICIPAIS COMO ÓRGÃO DE SEGURANÇA PÚBLICA. LEGÍTIMA OPÇÃO DO CONGRESSO NACIONAL AO INSTITUIR O SISTEMA ÚNICO DE SEGURANÇA PÚBLICA (LEI Nº 13.675/18). PRECEDENTES. PROCEDÊNCIA DO PEDIDO.
+1. É evidente a necessidade de união de esforços para o combate à criminalidade organizada e violenta, não se justificando, nos dias atuais da realidade brasileira, a atuação separada e estanque de cada uma das Polícias Federal, Civis e Militares e das Guardas Municipais; pois todas fazem parte do Sistema Único de Segurança Pública.
+2. Essa nova perspectiva de atuação na área de segurança pública, fez com que o Plenário desta Suprema Corte, no julgamento do RE 846.854/SP, reconhecesse que as Guardas Municipais executam atividade de segurança pública (art. 144, § 8º, da CF), essencial ao atendimento de necessidades inadiáveis da comunidade (art. 9º, § 1º, da CF).
+3. O reconhecimento dessa posição institucional das Guardas Municipais possibilitou ao , com CONGRESO NACIONAL, em legítima opção legislativa, no § 7º do artigo 144 da Constituição Federal, editar a Lei nº 13.675, de 11/6/2018, na qual as Guardas Municipais são colocadas como integrantes operacionais do Sistema Único de Segurança Pública (art. 9º, § 1º, inciso VII).
+4. O quadro normativo constitucional e jurisprudencial dessa SUPREMA CORTE em relação às Guardas Municipais permite concluir que se trata de órgão de segurança pública, integrante do Sistema Único de Segurança Pública (SUSP).
+5. Arguição de Descumprimento de Preceito Fundamental conhecida e julgada procedente para, nos termos do artigo 144, §8º da CF, CONCEDER INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO aos artigo 4º da Lei 13.022/14 e artigo 9º da 13.675/18 DECLARANDO INCONSTITUCIONAL todas as interpretações judiciais que excluam as Guardas Municipais, devidamente criadas e instituídas, como integrantes do Sistema de Segurança Pública" (ADPF n. 995, relator Relator Alexandre de Moraes, Tribunal Pleno, DJe de 0910/2023).
+No tema de Repercussão Geral n. 656, a Corte Suprema também assentou:
+É constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional.
+No caso concreto, o Tribunal a quo assim fundamentou (fls. 236-238):
+Na hipótese, os guardas municipais ouvidos em Juízo aduzem que realizavam patrulhamento no Conjunto Palmeiras, em região que já sabiam acontecer tráfico ilícito de entorpecentes, e avistaram o Apelante em atitude suspeita, consistente em nervosismo. Em busca no local, encontraram certa quantidade de droga em frestas externas da parede da casa do Apelante, e, em busca domiciliar, apreenderam outra porção de droga e material para embalagem:
+"Durante patrulhamento de rotina, a gente visualizou o indivíduo na rua e notou que ele estava um pouco nervoso, em atitude suspeita. No momento da abordagem, no local onde ele se encontrava, tinha uns buracos na parede, tipo buracos em tijolos. Quando a gente fez as buscas no local, a gente encontrou uma quantidade de drogas. Ele estava sozinho em casa e autorizou a entrada na casa, quando foi encontrada na casa a mesma embalagem e linhas da droga que foi encontrada na parte de fora da residência. Ele estava na porta da casa.  ..  Tinha cocaína e crack no local, embaladas em saquinhos pequenos, com linha.  .. ." (negritei)
+"Nós estávamos fazendo patrulhamento, na região do Conjunto Palmeiras. Nós já sabíamos que ali havia comércio ilícito de drogas. Abordamos esse suspeito e, em frente a sua residência, em frestas da parede, ele se encontrava sentado, e lá se encontravam os entorpecentes, no caso crack.  ..  Ele levou a gente até dentro da residência, quando a gente encontrou lá, linhas, plásticos e outras substâncias entorpecentes, no caso, cocaína. Os papelotes já estavam embalados, no caso, com o mesmo material que se encontrava sobre a mesa.  ..  A droga estava muito próxima, distância de centímetros dele, em buracos da parede.  .. ."
+Em sede policial, momento em que a situação de flagrante deve ser justificada, os guardas municipais são mais lacônicos e não explicitam a motivação da abordagem específica ao Apelante: " ..  Que o depoente já havia recebido denúncias anônimas de que naquele local havia a prática de comércio ilícito de drogas; Que o depoente decidiu revistar o implicado e fazer buscas nas imediações, inclusive na casa do implicado.  .. ." (fls. 04, 08 e 10)
+O Apelante, em Juízo, confirma, implicitamente, que franqueou a entrada dos guardas municipais em seu domicílio: "Pediram para entrar, eles entraram e acharam a droga."
+Diante da dinâmica dos fatos apresentados no acórdão impugnado, verifica-se que havia fundadas razões da ocorrência do crime permanente imputado ao acusado, aptas ao embasamento da abordagem pessoal e domiciliar. Note-se que os agentes públicos visualizaram o acusado em conhecido ponto de venda de drogas, nervoso, em atitude suspeita. No local, os guardas municipais encontraram drogas em frestas na parede externa da residência. Na sequência, com fundadas razões da existência de entorpecentes no domicílio e autorizados pelo morador, ingressaram na residência.
+Como visto, não se verifica, no caso concreto, qualquer ilegalidade ou abuso de poder na atuação dos guardas municipais, tendo em vista que a prisão teria sido efetuadas em situação de flagrante e mediante abordagem pautada na existência de fundadas suspeitas e razões da ocorrência de crime permanente no local.
+Assim, trouxe o agravante argumentos aptos a reformar a decisão monocrática, pois demonstrada a contrariedade em relação ao artigo 240 do Código de Processo Penal.
+Ante o exposto, dou provimento ao agravo regimental para dar provimento ao recurso especial e cassar o acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, nos autos da apelação criminal n. 0180218-17.2019.8.06.0001, devido à validade busca pessoal e domiciliar efetuada pela Guarda Municipal. Em consequência, determino o retorno dos autos ao Tribunal de origem para que examine as demais teses defensivas alegadas na apelação criminal.
+É o voto.
