@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 666, DE 22 DE SETEMBRO DE 2025
+Disciplina a dispensa da observância do limite de emissão de Transferência Eletrônica Disponível – TED de valor igual ou superior a R$15.000,00 (quinze mil reais) por instituição que se conecta à Rede do Sistema Financeiro Nacional – RSFN por meio de Provedor de Serviços de Tecnologia da Informação – PSTI.
+O Chefe do Departamento de Tecnologia da Informação – Deinf, o Chefe do Departamento de Gestão Estratégica e Supervisão Especializada – Degef e o Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos – Deban, no uso das suas atribuições, tendo em vista o disposto no art. 23, inciso I, alínea “a”, no art. 70, inciso I, alínea “a”, e no art. 112, inciso IV, alíneas “a” e “b”, todos do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e o art. 3º-A, § 3º, inciso II, da Resolução BCB nº 256, de 1º de novembro de 2022,
+R E S O L V E M :
