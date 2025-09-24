@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marluce Caldas, Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+Embargos de Declaração. Omissão. Divergência jurisprudencial. Habeas corpus de ofício. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão proferido em agravo regimental nos embargos de divergência em agravo em recurso especial.
+2. O embargante alega omissão no acórdão quanto à possibilidade de comprovação da divergência jurisprudencial mediante citação de acórdão constante de repositório oficial ou credenciado, nos termos do art. 1.043, § 4º, do CPC, e quanto à possibilidade de concessão de habeas corpus de ofício.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se houve omissão no acórdão embargado quanto à análise da literalidade do art. 1.043, § 4º, do CPC, que admite a citação de acórdão paradigma em repositório oficial ou credenciado como forma autônoma e suficiente de comprovação da divergência; e (ii) saber se é possível a concessão de habeas corpus de ofício em sede de embargos de divergência.
+III. Razões de decidir
+4. Os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão na decisão impugnada, não sendo meio adequado para rediscussão da matéria já decidida.
+5. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a ausência de juntada do inteiro teor dos acórdãos indicados como paradigmas, incluindo a certidão de julgamento, constitui vício substancial insanável dos embargos de divergência, não sendo suficiente a mera transcrição das ementas dos julgados.
+6. Não há omissão no acórdão embargado, pois as alegações do embargante buscam rediscutir matéria já afastada pelos fundamentos apresentados no acórdão recorrido.
+7. A concessão de habeas corpus de ofício em sede de embargos de divergência encontra óbice na ausência de competência constitucional da seção julgadora para conceder habeas corpus contra acórdão de turma do próprio tribunal.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. A ausência de juntada do inteiro teor dos acórdãos indicados como paradigmas, incluindo a certidão de julgamento, constitui vício substancial insanável dos embargos de divergência.
+2. A concessão de habeas corpus de ofício não é viável em sede de embargos de divergência, em razão da ausência de competência constitucional da seção julgadora.
+Dispositivos relevantes citados: CPC/2015, art. 1.043, § 4º; CPP, art. 647-A.
+Jurisprudência relevante citada: STJ, EDcl no AgRg nos EAREsp 2.060.783/RN, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 12.04.2023; STJ, AgRg nos EAREsp 2.785.883/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 08.05.2025.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOHNNY VIANA DOS SANTOS, contra acórdão proferido no agravo regimental nos embargos de divergência em agravo em recurso especial (fls. 1099-1104).
+O embargante sustenta, em síntese, que o acórdão combatido deixou de se manifestar quanto à possibilidade de comprovação da divergência jurisprudencial mediante citação de acórdão constante de repositório oficial ou credenciado na jurisprudência, nos termos do artigo 1.043, §4º, do CPC. Ademais, alega suposta omissão, pois não teria sido verificada a possibilidade de concessão de habeas corpus de ofício (fls. 1.111-1.116).
+É o relatório.
+EMENTA
+Embargos de Declaração. Omissão. Divergência jurisprudencial. Habeas corpus de ofício. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão proferido em agravo regimental nos embargos de divergência em agravo em recurso especial.
+2. O embargante alega omissão no acórdão quanto à possibilidade de comprovação da divergência jurisprudencial mediante citação de acórdão constante de repositório oficial ou credenciado, nos termos do art. 1.043, § 4º, do CPC, e quanto à possibilidade de concessão de habeas corpus de ofício.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se houve omissão no acórdão embargado quanto à análise da literalidade do art. 1.043, § 4º, do CPC, que admite a citação de acórdão paradigma em repositório oficial ou credenciado como forma autônoma e suficiente de comprovação da divergência; e (ii) saber se é possível a concessão de habeas corpus de ofício em sede de embargos de divergência.
+III. Razões de decidir
+4. Os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão na decisão impugnada, não sendo meio adequado para rediscussão da matéria já decidida.
+5. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a ausência de juntada do inteiro teor dos acórdãos indicados como paradigmas, incluindo a certidão de julgamento, constitui vício substancial insanável dos embargos de divergência, não sendo suficiente a mera transcrição das ementas dos julgados.
+6. Não há omissão no acórdão embargado, pois as alegações do embargante buscam rediscutir matéria já afastada pelos fundamentos apresentados no acórdão recorrido.
+7. A concessão de habeas corpus de ofício em sede de embargos de divergência encontra óbice na ausência de competência constitucional da seção julgadora para conceder habeas corpus contra acórdão de turma do próprio tribunal.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. A ausência de juntada do inteiro teor dos acórdãos indicados como paradigmas, incluindo a certidão de julgamento, constitui vício substancial insanável dos embargos de divergência.
+2. A concessão de habeas corpus de ofício não é viável em sede de embargos de divergência, em razão da ausência de competência constitucional da seção julgadora.
+Dispositivos relevantes citados: CPC/2015, art. 1.043, § 4º; CPP, art. 647-A.
+Jurisprudência relevante citada: STJ, EDcl no AgRg nos EAREsp 2.060.783/RN, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 12.04.2023; STJ, AgRg nos EAREsp 2.785.883/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 08.05.2025.
+VOTO
+Conforme relatado, o embargante sustenta, em síntese, que haveria omissão no acórdão (fls. 1099-1104), pois não teria sido analisada a literalidade do artigo 1.043, §4º, do CPC, que admite como forma autônoma e suficiente a citação do acórdão paradigma em repositório oficial ou credenciado de jurisprudência, e nem a possibilidade de concessão de habeas corpus de ofício diante do alegado constrangimento ilegal.
+Da análise dos autos, não entrevejo, todavia, omissão a ser sanada.
+Como se sabe, os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+Conforme consta no acórdão embargado, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a ausência de juntada do inteiro teor dos acórdãos indicados como paradigmas, incluindo a certidão de julgamento, constitui vício substancial insanável dos embargos de divergência.
+A alegação da defesa no sentido de que haveria indicação da citação do acórdão paradigma em repositório oficial ou credenciado de jurisprudência não se sustenta, pois no momento da interposição dos embargos de divergência a parte não indicou repositório oficial ou autorizado em que os arestos teriam sido publicados, tendo apenas transcrito nas suas razões as ementas dos julgados, desacompanhadas das certidões de julgamento.
+Assim, verifico que as alegações do embargante, em verdade, não se relacionam com suposta omissão, mas buscam a rediscussão da matéria por via oblíqua, providência inviável em sede de aclaratórios, porque trazem questões, obviamente, afastadas pelos fundamentos apresentados na acórdão embargado (EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 23/3/2022, DJe de 25/3/2022).
+Por fim, destaco que não é possível cogitar a concessão de ordem de habeas corpus de ofício, conforme pleiteado, pois tal providência não é viável em sede de embargos de divergência, conforme entendimento firmado pela Terceira Seção deste Superior Tribunal de Justiça. Confira-se:
+"AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DEFENSIVA. ARESP NÃO CONHECIDO: AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL VIOLADO QUANDO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 284/STF. DESCABIMENTO DE EMBARGOS DE DIVERGÊNCIA CONTRA JULGADO QUE NÃO EXAMINOU O MÉRITO: SÚMULA 315/STJ. AUSÊNCIA DE JUNTADA DA CERTIDÃO DE JULGAMENTO DO ACÓRDÃO PARADIGMA. AUSÊNCIA DE COTEJO. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO CONTRA ATOS DOS PRÓPRIOS MEMBROS DESTA CORTE. COMPETÊNCIA DO STF (ART. 102, INCISO I, ALÍNEA "I", DA CF). AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. A jurisprudência desta Corte é assente no sentido de que "A observância ao art. 266, § 4º, do RISTJ, com a juntada das certidões (de publicação e de julgamento) e apresentação do inteiro teor dos acórdãos apontados como paradigmas, é requisito formal essencial para o processamento dos embargos de divergência, que não admitem a sua regularização posterior" (AgRg nos EDv nos EAREsp n. 2.331.804/MS, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 27/9/2023, DJe de 3/10/2023). Precedentes. Situação em que, a despeito de terem sido juntados, com as razões dos embargos de divergência, o acórdão, a ementa, relatório e voto do julgado apontado como paradigma, a defesa não cuidou de juntar a certidão . de julgamento. Assim sendo, não foi comprovada a divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+4. A ausência de citação do repositório oficial autorizado de jurisprudência no momento da interposição dos embargos de divergência não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: "Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal."
+Precedentes: AgInt nos EDcl nos EAREsp 503.161/PR, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 16/11/2021, DJe 19/11/2021; AgInt nos EREsp 1.617.799/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 23/8/2022, DJe em 25/8/2022; AgRg nos EAREsp n. 1.908.536/PE, relator Ministro Francisco Falcão, Corte Especial, julgado em 19/4/2023, DJe de 27/4/2023; AgRg nos EREsp n. 1.991.582/MG, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 28/9/2022, DJe de 11/11/2022; AgRg nos EAREsp n. 1.669.710/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 23/6/2021, DJe de 28/6/2021.
+5. Ainda que assim não fosse, a defesa não cuidou de efetuar o necessário cotejo analítico entre as situações fático-jurídicas examinadas no acórdão recorrido e no julgado apontado como paradigma.
+6. A concessão de habeas corpus de ofício, no bojo de embargos de divergência, encontra óbice tanto no fato de que nem o Relator tem autoridade para, em decisão monocrática, conceder ordem que, na prática, desconstituiria o resultado de acórdão proferido por outra Turma julgadora, como tampouco a Seção detém competência constitucional para conceder habeas corpus contra acórdão de Turma do próprio tribunal. Precedentes. Mesmo a recente inclusão do art. 647-A no Código de Processo Penal, pela Lei 14.836/2024, não tem o condão de afastar a necessidade de verificação prévia da competência jurisdicional como pré-requisito indispensável à concessão de habeas corpus de ofício. Tanto é assim que o próprio caput do mencionado art. 647-A do CPP afirma expressamente que "No âmbito de sua competência jurisdicional, qualquer autoridade judicial poderá expedir de ofício ordem de habeas corpus (..)".
+7. Agravo regimental desprovido."
+(AgRg nos EAREsp n. 2.785.883/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 8/5/2025, DJEN de 17/6/2025, grifei.)
+Ante o exposto, não verifico omissão a ser sanada, razão pela qual rejeito os embargos de declaração.
+É como voto.
