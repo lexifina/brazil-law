@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPENSAÇÃO TRIBUTÁRIA. DÉBITOS PARCELADOS. ART. 74, § 3º, INCISO IV, DA LEI N. 9.430/1996. INAPLICABILIDADE. COMPENSAÇÃO DE OFÍCIO. ART. 7º, DO DL N. 2.287/86. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem concluiu que, na hipótese dos autos, não se aplicaria o regramento do art. 74 da Lei n. 9.430/1996, que trata da declaração de compensação por iniciativa do contribuinte, mas sim o art. 7º do DL n. 2.287/86, que trata da compensação de ofício pela Receita Federal do Brasil, não havendo limitação legal de compensação com débitos parcelados.
+2. A parte recorrente não impugnou o fundamento adotado pelo Tribunal de origem, limitando-se a alegar descumprimento do art. 74 da Lei n. 9.430/1996, o que atrai a incidência da Súmula n. 283 do STF.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por União (Fazenda Nacional), contra decisão monocrática por meio da qual não se conheceu do recurso especial, aplicando-se as Súmulas n. 283 e 284 do STF (fls. 455-458).
+Pondera a parte agravante que, quanto à aplicação da Súmula n. 284/STF, há conformidade, mas discorda da aplicação da Súmula n. 283/STF, argumentando que o Tribunal de origem admitiu a compensação de créditos fiscais reconhecidos judicialmente com débitos parcelados ou inscritos em Dívida Ativa da União, contrariando os limites da Lei n. 9.430/1996.
+Alega que a compensação de ofício é ato vinculado da Fazenda Pública Federal e que não pode ser realizada com créditos suspensos por parcelamento ou inscritos em Dívida Ativa, sob pena de ilegalidade.
+Ao final, requer o provimento do agravo interno para que seja reconsiderada a decisão agravada ou, alternativamente, que as razões sejam examinadas em julgamento colegiado, visando à reforma da decisão agravada e ao subsequente conhecimento e provimento do recurso fazendário (fl. 467).
+Não houve resposta ao agravo interno, conforme certidão de decurso de prazo (fl. 473).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPENSAÇÃO TRIBUTÁRIA. DÉBITOS PARCELADOS. ART. 74, § 3º, INCISO IV, DA LEI N. 9.430/1996. INAPLICABILIDADE. COMPENSAÇÃO DE OFÍCIO. ART. 7º, DO DL N. 2.287/86. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem concluiu que, na hipótese dos autos, não se aplicaria o regramento do art. 74 da Lei n. 9.430/1996, que trata da declaração de compensação por iniciativa do contribuinte, mas sim o art. 7º do DL n. 2.287/86, que trata da compensação de ofício pela Receita Federal do Brasil, não havendo limitação legal de compensação com débitos parcelados.
+2. A parte recorrente não impugnou o fundamento adotado pelo Tribunal de origem, limitando-se a alegar descumprimento do art. 74 da Lei n. 9.430/1996, o que atrai a incidência da Súmula n. 283 do STF.
+3. Agravo interno desprovido.
+VOTO
+Conforme asseverado na decisão agravada, o Tribunal de origem assim se manifestou quanto ao mérito recursal (fls. 371-372; sem destaques no original):
+No caso, porém, ao contrário do alegado pela União, saliento que a regra do art. 74, § 3º, IV, da Lei 9.430/1996 não se aplica à impetrante, pois o seu crédito tributário já se encontra devidamente reconhecido na esfera administrativa (Evento 1, EXTR7, p. 3, na origem), não se tratando de compensação "sob condição resolutória de sua ulterior homologação" como dispõe a lei.
+ ..
+Especificamente sobre os débitos parcelados, saliento que apesar da conhecida jurisprudência do STJ (recurso repetitivo Resp 1.213.082/PR) no sentido de que para se promover, de ofício, a compensação, é necessário que o crédito esteja vencido e seja exigível, sendo ilegal a prática quando os débitos estiverem com a exigibilidade suspensa (como no parcelamento), tal ilegalidade somente alcança aquelas situações em que o contribuinte discorde da operação de encontro de contas. Isso porque, ele não pode ser obrigado a utilizar um crédito líquido e exigível para adimplir uma dívida com a exigibilidade suspensa pelo parcelamento.
+Todavia, havendo manifestação de vontade para tanto, não vislumbro qualquer empecilho para que se efetive a compensação dos créditos tributários já reconhecidos administrativamente com os débitos que estejam parcelados. Até porque, há interesse de ambas as partes na efetivação do adimplemento, não sendo razoável a postura da autoridade fiscal de se recusar a aceitar a utilização desses valores (já habilitados) para pagamento de débitos já incluídos em parcelamento.
+ ..
+Em síntese, habilitados os créditos, o contribuinte tem direito à compensação de ofício, fundada no art. 7º, do DL nº 2.287/86, não se aplicando a vedação do art. 74, §3º, III e IV, porque não se trata de declaração de compensação.
+Como se vê, o Tribunal de origem, embora o STJ possua entendimento firmado em recurso repetitivo no sentido de que a compensação de ofício somente poderá ser efetivada com débito vencido e exigível, na hipótese concreta dos autos, em que houve o reconhecimento dos créditos judicialmente, não incidiria a vedação prevista no art. 74, § 3º, incisos III e IV, da Lei n. 9.430/96, pois não se trataria aqui de declaração de compensação, não haveria uma compensação sob condição resolutória, como disposto no art. 74, § 3º, inciso IV, da Lei 9.430/1996.
+O Tribunal concluiu que, por não haver uma declaração de compensação apresentada "sob condição resolutória de sua ulterior homologação", não se aplicaria o regramento legal do art. 74 da Lei n. 9.430/1996, que trata da declaração de compensação por iniciativa do contribuinte, mas sim, o art. 7º, do DL n. 2.287/86, que trata da compensação de ofício levada a cabo pela Receita Federal do Brasil, situação em que não haveria a limitação legal de compensação com débitos parcelados.
+A parte recorrente, no entanto, deixou de impugnar tal fundamento, limitando-se a alegar que a Corte de origem descumpriu o quanto previsto no art. 74 da Lei n. 9.430/1996. Portanto, incide o óbice da Súmula n. 283 do STF. Nessa senda: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
