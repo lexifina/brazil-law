@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO  EM MANDADO DE SEGURANÇA. POLICIAL MILITAR APOSENTADO. EMPRÉSTIMO CONSIGNADO. LIMITAÇÃO DOS DESCONTOS PARA 30% DA REMUNERAÇÃO LÍQUIDA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem denegou a ordem em razão da ausência de direito líquido e certo do impetrante, consignando a inexistência de provas pré-constituídas de que houve ilegalidade na negativa de readequação dos limites dos descontos na remuneração do militar aposentado, nos termos das Leis Estaduais 16.898/2010 e 21.063/2021.
+2. O fato de o Secretário de Administração do Estado de Goiás ter aplicado a atual redação do art. 5º da Lei Estadual 16.898/2010 e negado a readequação do percentual a ser descontado em folha não significa que houve abuso, pois o ato administrativo foi editado nos termos da legislação.
+3. A impetração do mandado de segurança exige a comprovação inequívoca de direito líquido e certo, sendo necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido, o que não se verificou no caso dos autos.
+4. Agravo  interno desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto por JONERINO DIAS DE ARAÚJO contra  a decisão  que negou provimento ao recurso em mandado de segurança.
+A parte agravante argumenta que "a Lei Estadual n. 16.898/10, que teve várias modificações, diverge do entendimento do Superior Tribunal de Justiça, que firmou Jurisprudência, que os empréstimos consignados em folha não podem ultrapassar o percentual máximo de 30% por cento do rendimento líquido do servidor" (fl. 261).
+Alega que, "apesar da legislação estadual de Goiás, ter sido modificada, não há necessidade de realização de cálculos que indique possível abuso da autoridade coatora, pois o cálculo apresentado pelo impetrante/agravante, no requerimento administrativo e no mandamus, é com base na jurisprudência pacífica da própria 2ª Turma do STJ (fl. 261).
+Destaca, por fim, que não é integrante das Forças Armadas, mas sim servidor público militar estadual.
+Pugna, assim, pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado, a fim de que os descontos sejam limitados ao percentual de 30% dos seus rendimentos líquidos
+Foi oferecida impugnação às fls. 281-288.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO  INTERNO  NO RECURSO  EM MANDADO DE SEGURANÇA. POLICIAL MILITAR APOSENTADO. EMPRÉSTIMO CONSIGNADO. LIMITAÇÃO DOS DESCONTOS PARA 30% DA REMUNERAÇÃO LÍQUIDA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem denegou a ordem em razão da ausência de direito líquido e certo do impetrante, consignando a inexistência de provas pré-constituídas de que houve ilegalidade na negativa de readequação dos limites dos descontos na remuneração do militar aposentado, nos termos das Leis Estaduais 16.898/2010 e 21.063/2021.
+2. O fato de o Secretário de Administração do Estado de Goiás ter aplicado a atual redação do art. 5º da Lei Estadual 16.898/2010 e negado a readequação do percentual a ser descontado em folha não significa que houve abuso, pois o ato administrativo foi editado nos termos da legislação.
+3. A impetração do mandado de segurança exige a comprovação inequívoca de direito líquido e certo, sendo necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido, o que não se verificou no caso dos autos.
+4. Agravo  interno desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Conforme anteriormente afirmado, o Tribunal de origem denegou a ordem em razão da ausência de direito líquido e certo do impetrante, consignando a inexistência de provas pré-constituídas de que houve ilegalidade na negativa de readequação dos limites dos descontos na remuneração do militar, nos termos das Leis Estaduais 16.898/2010 e 21.063/2021.
+A impetração do mandado de segurança exige a comprovação inequívoca de direito líquido e certo, sendo necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido, o que não se verificou no caso dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INCORPORAÇÃO DE GRATIFICAÇÃO. "AVALIAÇÃO DE DESEMPENHO". AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. (..).
+2. O Mandado de Segurança é ação constitucionalizada instituída para proteger direito líquido e certo, sempre que alguém sofrer violação ou houver justo receio de sofrê-la por ilegalidade ou abuso de poder, exigindo-se prova pré-constituída como condição essencial à verificação da pretensa ilegalidade, o que não é o caso dos autos, sendo a dilação probatória incompatível com a natureza da ação mandamental.
+3. Recurso Ordinário não provido (RMS 56.374/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/4/2018, DJe de 24/5/2018, grifo nosso).
+Ademais, o fato de o Secretário de Administração do Estado de Goiás ter aplicado a atual redação do art. 5º da Lei Estadual 16.898/2010 e negado a readequação do percentual a ser descontado em folha da remuneração do ora recorrente não significa que houve abuso, pois o ato administrativo foi editado nos termos da legislação.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. PAD. DEMISSÃO DE SERVIDOR PÚBLICO. LISURA DO PROCESSO ADMINISTRATIVO DISCIPLINAR. ATO DE AUTORIDADE ADMINISTRATIVA QUE DÁ FIEL CUMPRIMENTO ÀS DISPOSIÇÕES LEGAIS E NORMATIVAS. ILEGALIDADE OU TERATOLOGIA NÃO VERIFICÁVEL DE PLANO. INEXISTÊNCIA, NA CONSTITUIÇÃO FEDERAL DE 1988, DE GARANTIA AO DUPLO GRAU DE JURISDIÇÃO NA ESFERA ADMINISTRATIVA. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, o mandado de segurança foi impetrado contra decisão proferida pelo Procurador Geral de Justiça do Estado de São Paulo, que deixou de receber recurso interposto, ao Órgão Especial do Colégio de Procuradores, contra decisão punitiva de demissão a bem do serviço público imposta à servidora.
+2. O Tribunal a quo denegou a ordem em razão da ausência de direito líquido e certo, consignando a ausência de irregularidades no processo administrativo disciplinar que culminou na penalidade aplicada, bem como a impossibilidade de aplicação do art. 22 da Lei Orgânica Estadual do Ministério Público, direcionada, exclusivamente, aos membros do Ministério Público, não alcançando os seus servidores.
+3. No agravo interno, a recorrente insiste na aplicação do art. 312, § 1º, do Estatuto dos Funcionários Públicos Civis do Estado de São Paulo. Ocorre que, no Estado de São Paulo, a regulamentação do processo administrativo disciplinar dos servidores do Ministério Público está contida na Lei Estadual 10.261/1968 e no Ato Normativo 1.035/2017- PGJ. No caso, a autoridade tida por coatora se limitou a dar cumprimento às disposições legais e normativas que regem a matéria.
+4. A impetração do mandado de segurança exige a comprovação inequívoca de direito líquido e certo, sendo necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que seja prontamente exercido, o que não se verificou no caso dos autos. 4. Nos termos da jurisprudência do STJ, não há, na Constituição de 1988, garantia de duplo grau de jurisdição administrativa. Precedentes.
+5. Agravo interno desprovido (AgInt nos EDcl no RMS 61.852/SP, de minha relatoria, Segunda Turma, julgado em 19/3/2025, DJEN de 24/3/2025 - grifo nosso).
+Isso posto, nego provimento ao recurso.
