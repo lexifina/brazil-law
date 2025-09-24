@@ -1,0 +1,23 @@
+DECISÃO
+LEANDRO DIAS VIEIRA agrava de decisão que inadmitiu o recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás na Apelação Criminal n. 5616939-38.2020.8.09.0051.
+O agravante foi absolvido em primeira instância, do crime do art. 129, §9º do Código Penal (fls. 250-253). O Tribunal de origem, contudo, reformou a sentença para condená-lo a 3 meses de detenção, em regime aberto, aplicado o sursis da pena (fls. 329-341).
+Nas razões de recurso especial, a defesa alega afronta aos arts. 23, II e 25 do Código Penal e arts. 155, 156, 381, 386, IV e VII, todos do Código de Processo Penal. Pretende, ao final, o provimento do especial, a fim de que seja restabelecida a absolvição do réu.
+O Tribunal estadual inadmitiu o recurso em virtude da incidência da Súmula n. 7 do STJ (fls. 525-527).
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo para não conhecer do recurso especial. (fls. 616-622).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O recurso especial não deve ser conhecido, pois não preenche os requisitos constitucionais, legais e regimentais para o seu processamento.
+A defesa sustenta violação aos arts. 23, II, e 25 do Código Penal e arts. 155, 156, 381, II, e 386, VII, todos do Código de Processo Penal. Argumenta, em síntese, que a condenação teria se baseado no depoimento da vítima, desconsiderando elementos que apontariam para a legítima defesa. Alegou, ainda, que teria ocorrido uma inversão indevida do ônus da prova, além de erro na valoração do conjunto fático-probatório, pleiteando a absolvição do recorrente por insuficiência de provas. (fls. 440-485)
+Para tanto, transcreveu trechos da sentença e do acórdão proferido em apelação, com o intuito de demonstrar que o juízo de origem e o Tribunal de Justiça teriam ignorado aspectos relevantes da prova testemunhal e documental.
+O acórdão estadual concluiu pela comprovação da autoria e materialidade do delito e condenou o réu, nos seguintes termos (fls. 333-334, grifei):
+A materialidade do delito de lesão corporal restou comprovada, pelo Laudo de Exame de Corpo de Delito (mov.1), que atesta a existência das lesões sofridas pela vítima, além de suas declarações na fase do Inquérito Policial e na instrução, que corroboram com a perícia. Ele apresentou "arranhados" que vítima pode ter provocado quando tentava se defender das agressões dele.
+Além das fartas lesões sofridas pela vítima anotadas no laudo do IML: "equimose avermelhada em região carotidiana direita, mediano 1.5 cm; escoriação linear em região mamária esquerda, medindo 10 cm; equimoses violáceas nas faces anterolaterais dos braços, medindo 7.0 cm a direita e 5.0 cm à esquerda; equimoses violáceas na face posterior do terço médio da coxa esquerda, medindo 10,0 cm e na região interglútea, medindo 5.0 cm".
+A autoria é incontroversa, haja vista que as lesões corporais praticadas, ocorreram no âmbito das relações domésticas.
+ ..
+Deste modo, tenho que a materialidade do delito de lesão corporal restou comprovada, através do Laudo de Exame de Corpo de Delito, aliada às declarações da vítima, ao depoimento da testemunha e os demais meios de prova, que permitem concluir que o recorrido ofendeu a integridade física da vítima.
+Especificamente sobre a alegada legítima defesa, o acórdão registrou que "a versão exculpante do apelado não esclarece a origem dos ferimentos causados na vítima, que, por sua extensão, divergem do simples ato de segurar os braços dela para se defender". Concluiu, ainda, ter havido "uma reação imoderada de sua parte, com o emprego desproporcional de força" (fl. 335).
+Assim , para infirmar as conclusões da instância antecedente e acolher a tese defensiva, seria necessário realizar novo juízo de valor sobre o conteúdo dos depoimentos, da prova pericial e das demais circunstâncias dos autos - providência vedada nesta instância especial, conforme entendimento pacificado no âmbito do Superior Tribunal de Justiça, consubstanciado na Súmula 7: "A pretensão de simples reexame de prova não enseja recurso especial."
+Não se trata, no caso, de mera interpretação jurídica de fatos incontroversos, mas da reapreciação do conjunto probatório à luz da tese defensiva, o que ultrapassa os limites do recurso especial. Eventuais alegações de legítima defesa ou insuficiência de provas dependem, necessariamente, da revaloração das circunstâncias do caso concreto.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
