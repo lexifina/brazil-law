@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. AGRAVO INTERNO EXCLUSÃO DE ICMS E ICMS-ST DA BASE DE CÁCULO DO PIS E DA COFINS. ENUNCIADO N. 182 DA SÚMULA DO STJ.
+I - Na origem, trata-se de mandado de segurança visando à exclusão do ICMS e do ICMS-ST da base de cálculo do PIS e da COFINS incidentes sobre as mercadorias adquiridas sob o regime da substituição tributária, com pedido de compensação. concedeu-se parcialmente a segurança. Na sentença, concedeu-se parcialmente a segurança. No Tribunal a quo, a sentença foi reformada para reconhecer a ilegitimidade processual da impetrante. Nesta Corte, trata-se de agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, ante a incidência dos óbices da Súmula n. 284 do STF, da Súmula n. 7 do STJ, das Súmulas n. 283 e 284 do STF, da Súmula n. 211 do STJ e das Súmulas n. 282 e 356 do STF.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+RELATÓRIO
+Na origem, trata-se de mandado de segurança contra Delegado da Receita Federal em Ribeirão Preto/SP, visando à exclusão do ICMS e do ICMS-ST da base de cálculo do PIS e da COFINS incidentes sobre as mercadorias adquiridas sob o regime da substituição tributária, com pedido de compensação. concedeu-se parcialmente a segurança. Na sentença, concedeu-se parcialmente a segurança. No Tribunal a quo, a sentença foi reformada para reconhecer a ilegitimidade processual da impetrante.
+Nesta Corte, trata-se de agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, ante a incidência dos óbices da Súmula n. 284 do STF, da Súmula n. 7 do STJ, das Súmulas n. 283 e 284 do STF, da Súmula n. 211 do STJ e das Súmulas n. 282 e 356 do STF.
+O recurso especial foi interposto contra acórdão com o seguinte resumo da ementa:
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS-ST. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS DEVIDO POR OUTREM (TRIBUTAÇÃO MONOFÁSICA EM ETAPA ANTERIOR DA CADEIA PRODUTIVA). AUSÊNCIA DE LEGITIMIDADE PROCESSUAL. RETENÇÃO, SUBSTITUIÇÃO TRIBUTÁRIA E MONOFASIA. CONCEITOS AUTÔNOMOS. ALCANCE E REPERCUSSÕES DISTINTOS.
+1. Cabível a remessa oficial, que tem por submetida, nos termos do artigo 14, § 1º, da Lei 12.016/2009, preceito de ordem especial que prevalece sobre a legislação geral.
+2. Prejudicado o exame monocrático da pedido de efeito suspensivo pleiteado pelo contribuinte, em virtude do presente julgamento colegiado das apelações. Em se tratando de mandado de segurança, ao contrário do propugnado, não existe inadequação da via eleita para impugnar a validade da tributação e reaver o indébito fiscal, sendo de mérito a definição da viabilidade ou não desta ou daquela forma específica de ressarcimento fiscal.
+3. No caso dos autos, a apelante, comerciante varejista do setor de combustíveis, pretende repetição de valores de ICMS incluídos na base de cálculo do PIS/COFINS devidos por agentes anteriores da cadeia produtiva, na medida em que refletidos no custo dos bens que adquire para comercialização. Sucede que, em tal situação, é entendimento consolidado na jurisprudência pátria de que o legitimado para discutir a formação da base de cálculo de exações tributárias é aquele obrigado diretamente junto ao Fisco, pois este é quem figura no polo passivo da relação tributária, seja originariamente ou por transferência.
+4. A impetrante pode discutir perante as instâncias próprias para cada situação a base de cálculo do PIS/COFINS e ICMS . Contudo, é defeso que conteste apor si devidos apuração (ou reivindique ressarcimento de indébito) de exações em relação às quais figurar na posição de substituída, ou que incidam monofasicamente em etapa anterior da cadeia produtiva. Em casos que tais, a dívida perante o Fisco é do próprio substituto ou do contribuinte que a lei optou por tributar em caráter exclusivo (incidência monofásica).
+5. Não há que se confundir retenção, substituição e monofasia. O retentor caracteriza-se como agente que possui acesso a patrimônio a ser entregue a outrem, e deste decota parte, por obrigação legal, para repassar ao Estado. O sujeito passivo da relação jurídica com a Administração, contudo, é o titular do patrimônio (salvo caso de apropriação indébita pelo retentor), que pode, inclusive, requerer repetição de pagamentos excedentes. O substituto, ao contrário, recebe pagamento, incluindo no preço entabulado o reembolso do valor que por si deve desembolsar como sujeito passivo indireto (porém originário) de relação jurídica tributária, decorrente do fato gerador praticado pelo substituído. Finalmente, no caso da tributação monofásica, por sua vez, sequer há terceiro ("contribuinte de fato") a ser propriamente considerado: há sujeição passiva direta do contribuinte obrigado ao recolhimento (que não é necessariamente majorado, inclusive), não se estabelecendo qualquer liame formal em relação aos agentes anteriores ou posteriores da cadeia produtiva.
+7. Por clareza de demonstração do raciocínio, registra-se, ainda, que, como consequência direta das balizas acima, tampouco é permitido ao contribuinte excluir do PIS/COFINS devidos por si o ICMS direto pago pelos agentes econômicos anteriores da cadeia produtiva (já que representa repercussão financeira indireta da exação estadual, alheia à participação própria e delimitada do interessado no ciclo econômico).
+6. Reconhecimento de ausência de legitimidade processual da recorrente quanto a ambos os pedidos deduzidos, crivo que não motiva reformatio in pejus. Precedentes das Cortes Superiores.
+8. Apelação fazendária e remessa oficial, tida por submetida, providas. Apelação do contribuinte prejudicada.
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+A princípio importante destacarmos que, em maio de 2021, o Supremo Tribunal Federal, com o julgamento dos Embargos de Declaração opostos junto ao RE nº 574.706/PR, firmou a seguinte tese: "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS".
+Isso porque, concluiu-se corretamente, que o imposto de circulação de mercadorias não pode estar embutido na base de cálculo das mencionadas contribuições.
+ ..
+Excelências, se o imposto pela circulação de mercadorias se encontra inserido na base de cálculo das contribuições, deve ser excluído, em qualquer modalidade de destaque por substituição tributária, MESMO NA SISTEMÁTICA DA MONOFASIA.
+ ..
+Ora, não excluir o imposto da base de cálculo das contribuições em comento, apenas por conta do momento de sua incidência na cadeia tributária, seria o mesmo que reconhecer a ilegalidade sob novo pretexto, desautorizando a decisão proferida pela máxima corte.
+ ..
+Por outra banda, apesar do D. Relator fundamentar sua decisão com base em precedentes judiciais, importante destacar que se referem A ENTENDIMENTOS QUE FORAM ALTERADOS, nota-se pela data dos julgados que ocorreram anterior a instauração dos temas repetitivos.
+ ..
+Assim, a tese defendida por esta Agravante, isto é, acerca de sua legitimidade para requerer a exclusão do ICMS-ST da base de cálculo do PIS e COFINS, encontra-se em perfeita consonância ao disposto pela jurisprudência ATUAL desta E. Corte. Pois vejamos, que não é de hoje que esta Casa vem se posicionando pela inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS, inclusive em casos de substituição tributária.
+ ..
+A tese firmada pelo Plenário do Supremo Tribunal Federal no julgamento do Tema 69 de repercussão geral (RE nº 574.706-PR), suscitadas em todos os julgamentos acima colacionados, é cristalina ao afirmar que "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS".
+ ..
+Nobres Desembargadores, o mesmo entendimento é aplicado por Tribunais de todas às regiões, carregando sempre a conclusão logica de que o ICMS, MESMO NA SUBSTITUIÇÃO TRIBUTÁRIA, não pode ser incluso na base de cálculo das Contribuições Sociais, pois, obviamente, não é incorporado ao patrimônio do contribuinte.
+ ..
+Como se vê, Excelências, em que pese a interpretação restritiva, também conferida pela Agravada, o precedente do Supremo Tribunal Federal, no RE 574.706, deve ser aplicado também para excluir o ICMS-ST embutido na base de cálculo das contribuições ao PIS e à COFINS, devidas pelos contribuintes substituídos, uma vez que se trata de receita do Estado e que, portanto, não pode ser tributada a título de receita do vendedor.
+ ..
+É o relatório.
+EMENTA
+DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. AGRAVO INTERNO EXCLUSÃO DE ICMS E ICMS-ST DA BASE DE CÁCULO DO PIS E DA COFINS. ENUNCIADO N. 182 DA SÚMULA DO STJ.
+I - Na origem, trata-se de mandado de segurança visando à exclusão do ICMS e do ICMS-ST da base de cálculo do PIS e da COFINS incidentes sobre as mercadorias adquiridas sob o regime da substituição tributária, com pedido de compensação. concedeu-se parcialmente a segurança. Na sentença, concedeu-se parcialmente a segurança. No Tribunal a quo, a sentença foi reformada para reconhecer a ilegitimidade processual da impetrante. Nesta Corte, trata-se de agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, ante a incidência dos óbices da Súmula n. 284 do STF, da Súmula n. 7 do STJ, das Súmulas n. 283 e 284 do STF, da Súmula n. 211 do STJ e das Súmulas n. 282 e 356 do STF.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+VOTO
+A decisão recorrida conheceu do recurso de agravo para não conhecer do recurso especial interposto pela empresa ora agravante sob o fundamento de que incide a Súmula n. 284 do STF, a Súmula n. 7 do STJ, as Súmulas n. 283 e 284 do STF, bem como as Súmulas n. 211 do STJ e n. 282 e 356 do STF. A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO RECURSO ESPECIAL. IMPUGNAÇÃO PARCIAL. FALTA DE MANIFESTAÇÃO EXPRESSA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Na decisão agravada, a irresignação do Conselho Federal da OAB foi afastada pelas seguintes razões: 1) não há vícios no acórdão recorridos capazes de amparar a tese de ofensa aos arts. 458 e 535 do CPC/1973; 2) contrariar o Tribunal de origem quanto à existência de teratologia na questão da prova implica reexame do conjunto fático-probatório, o que é inviável devido à Súmula 7 desta Corte; e 3) a referida súmula também obsta a análise do recurso pela alínea "c" do permissivo constitucional.
+2. No presente recurso, a parte agravante impugna apenas a incidência da Súmula 7/STJ, deixando de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os outros fundamentos da decisão agravada.
+3. É cediço que "o Agravo Interno parcial é cabível nas hipóteses em que há manifestação expressa de que sua irresignação volta-se somente contra parcela do julgado, havendo concordância com o restante" (AgInt no REsp 1.518.882/SC, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 21.2.2019), o que, entretanto, não foi realizado no caso em tela.
+4. A ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+5. Agravo Interno não conhecido.
+(AgInt no AREsp n. 2.158.581/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. REPRODUÇÃO DOS VÍCIOS PRESENTES NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO.
+1. No caso dos autos, a petição do agravo interno não impugnou o único fundamento da decisão que não conheceu do agravo em recurso especial, limitando-se a reiterar os vícios que levaram ao não conhecimento do agravo em recurso especial.
+2. Não se conhece do agravo interno que não impugna os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+3. Não se embasa o agravo interno com a mera reprodução dos vícios presentes nas razões do agravo em recurso especial, sob pena de não conhecimento.
+Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp n. 2.140.145/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão ora agravada conheceu do Agravo, para não conhecer do Recurso Especial, pela incidência das Súmulas 5/STJ, 7/STJ, 282/STF, 283/STF e 284/STF.
+III. O Agravo interno, porém, não impugna, específica e motivadamente, os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021;
+AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020; AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017;
+AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+IV. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.919.503/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
