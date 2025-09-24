@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FABIANE FERNANDES MARTINS contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ.
+Nas razões do agravo, a defesa argumenta que o recurso especial deveria ter sido admitido, afirmando que "a questão em discussão não se limita à matéria fático-probatória, mas sim à interpretação adequada e aplicação correta da lei federal" (fl. 298).
+A parte recorrente aborda, ainda, aspectos relacionados ao mérito da causa, reiterando questões deduzidas no recurso especial no sentido de reformar o acórdão que reconheceu o cometimento de falta grave em decorrência de violações ocorridas em 9/7/2022 e 14/8/2022.
+Articula, ainda, que, em relação à Súmula n. 284 do Supremo Tribunal Federal, "há fundamentação adequada nas razões do Recurso Especial que delimitam claramente a controvérsia" (fl. 300).
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada pelo Ministério Público do Estado de Minas Gerais (fls. 330-332), que pugnou pelo não provimento do agravo.
+Parecer do Ministério Público Federal opinando pelo desprovimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 353):
+PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL COM FUNDAMENTO NO ARTIGO 105, III, "A" DA CF. REFORMA DE DECISÃO QUE INADMITIU RECURSO ESPECIAL. IMPROCEDÊNCIA. INEXISTÊNCIA DE VIOLAÇÃO À LEI FEDERAL. REGISTRO DE FALTA GRAVE. AFASTAR. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. PRECEDENTES. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+Neste recurso especial, objetiva-se obter a modificação da interpretação da lei federal por parte das instâncias ordinárias, não se prestando ao reexame do conjunto fático-probatório dos autos.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de reavaliar as provas que levaram à conclusão do Tribunal de origem sobre o descumprimento das condições da execução penal e a consequente prática de falta grave.
+Conforme bem destacado na decisão de inadmissibilidade do Tribunal de origem, a pretensão, tal como posta, demandaria necessariamente o reexame do conjunto fático-probatório, providência vedada em recurso especial, consoante a Súmula n. 7 do STJ.
+Vejam-se, a propósito, os seguintes excertos da manifestação do Ministério Público Federal sobre o ponto, aqui acolhidos como razão de decidir:
+No caso em debate a matéria alegada pela recorrente, para ser analisada, demandaria reexame das provas constantes do processo, o que não é possível em sede de recurso especial.
+A súmula nº 7 do Superior Tribunal de Justiça impede o reexame fático-probatório nos recursos especiais: "A PRETENSÃO DE SIMPLES REEXAME DE PROVA NÃO ENSEJA RECURSO ESPECIAL.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Em situação semelhante à do presente feito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. FALTA GRAVE. PRESCRIÇÃO. NÃO OCORRÊNCIA. ABSOLVIÇÃO. PROVA. SÚMULA N. 7/STJ. DATA-BASE PARA NOVOS BENEFÍCIOS. FUGA. DIA DA RECAPTURA. CONSECTÁRIOS LEGAIS. REGRESSÃO DE REGIME.
+1. O posicionamento do Superior Tribunal de Justiça é o de que "a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109, VI, do Código Penal, de 3 (três) anos" (HC n. 682.633/MG, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, DJe 11/10/2021).
+2. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam que o recorrente praticou falta grave.Dessa forma, a alteração do entendimento para proclamar a absolvição - seja por insuficiência probatória, seja por supostamente ter agido em legítima defesa - ou a desclassificação, implica em reexame do material fático-probatório, inviável em recurso especial, conforme a Súmula n. 7/STJ.
+3. A jurisprudência desta Corte já se firmou no sentido de que o termo a quo para aferição dos benefícios, no caso de fuga, é a data em que foi recapturado o apenado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 2.016.844-SP, relator Ministro Antonio Saldanha Palheiro, julgado em 23/10/2023, Sexta Turma, DJe de 26/10/2023.)
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Publique-se. Intimem-se.
+ EMENTA
