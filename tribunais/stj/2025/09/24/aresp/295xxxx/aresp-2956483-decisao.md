@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Golf Condominium, desafiando decisão da Presidência do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial interposto pela parte ora agravante, pelos seguintes fundamentos: (I) ausência de violação do art. 1.022 do CPC "haja vista que as questões trazidas à baila pelo recorrente foram todas apreciadas pelo venerando acórdão atacado, nos limites em que expostas" (fl. 722); (II) incidência da Súmula 283/STF, uma vez que "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo"; (III) o de que não restou "evidenciado o suposto maltrato às normas legais enunciadas", e (IV) necessidade de reexame de fatos e provas do processo (Súmula 7/STJ), pois a agravante "busca (..) o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial" (fl. 724).
+Nas razões de agravo em apelo raro, a parte agravante sustenta, em síntese, que: (i) "ao contrário do quanto nela asseverado, o v. acórdão afrontou a Lei Federal, devendo ser reformado " (fl. 733), e (ii) "a questão discutida no recurso é meramente de Direito, qual seja, a cobrança de Tributo (IPTU); retrocedendo visivelmente a norma, a fim de prejudicar o Contribuinte" (fl. 732), além de ter repisado os mesmos argumentos expend idos em seu recurso especial.
+Contraminuta às fls. 742/756.
+É O NECESSÁRIO RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Realmente, em suas razões de agravo, a insurgente limitou-se a reeditar os mesmos argumentos apresentados no r ecurso inadmitido, deixando, assim de rebater, de modo específico, a incidência das Súmulas 7/STJ e 283/STF.
+Importante frisar que, especificamente no tocante à Súmula 7/STJ, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do referido anteparo sumular.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
