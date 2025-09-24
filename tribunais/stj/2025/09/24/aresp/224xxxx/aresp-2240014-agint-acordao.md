@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. RESPONSABILIDADE SOLIDÁRIA ENTRE O PARTICULAR E O ESTADO DE GOIÁS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+1.  A alegada violação ao art. 1.022 do CPC/2015 deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+2.  A parte agravante alegou ofensa aos arts. 489 e 1.022, II, do CPC, entretanto, apenas teceu comentários subjetivos sobre o acórdão recorrido, deixando de apontar quais questões não teriam sido apreciadas pelo Tribunal de origem.
+3. Cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+4. Agravo  interno  improvido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pelo AGÊNCIA GOIANA DE TRANSPORTES E OBRAS contra  a  decisão  que  não conheceu do recurso especial, em razão da inexistência de violação ao art. 1.022, II,  do  CPC e da aplicação da Súmula 284 do STF.
+Cuida-se, na origem, de demanda proposta com o escopo de condenar a AGÊNCIA GOIANA DE TRANSPORTES E OBRAS - AGETOP "a ressarcir a parte autora (seguradora) o valor pago a terceiro (segurado), a título de indenização prevista em contrato de seguro de veículo, em razão do sinistro noticiado nos autos envolvendo animal e o bem segurado em rodovia estadual" (fl. 513).
+Argumenta  a  parte agravante,  em  síntese,  que descreveu qual teria sido o ponto omisso no acórdão recorrido, visto que "requereu a apreciação do fundamento de que o ingresso do animal na pista por si só não atrai a responsabilidade estatal" (fl. 699).
+Defende, ainda, que analisando conjuntamente os arts. 186, 927 e 936 do CC, "é possível a conclusão de que são suficientes para alcançar a pretensão de excluir a solidariedade e a responsabilidade da AGETOP-GOINFRA" (fl. 700).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. RESPONSABILIDADE SOLIDÁRIA ENTRE O PARTICULAR E O ESTADO DE GOIÁS. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284 DO STF, POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+1.  A alegada violação ao art. 1.022 do CPC/2015 deu-se de forma genérica, circunstância que impede o conhecimento do recurso especial, no ponto, por deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+2.  A parte agravante alegou ofensa aos arts. 489 e 1.022, II, do CPC, entretanto, apenas teceu comentários subjetivos sobre o acórdão recorrido, deixando de apontar quais questões não teriam sido apreciadas pelo Tribunal de origem.
+3. Cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+4. Agravo  interno  improvido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Nas razões do recurso especial, a parte ora agravante alegou ofensa aos arts. 489, §1º, III e IV, e 1.022, II, do CPC, entretanto, apenas teceu comentários subjetivos sobre o acórdão recorrido, deixando de apontar quais questões não teriam sido apreciadas pelo Tribunal de origem (fl. 614):
+Desnecessário dizer que tal decisão é considerada desprovida de fundamentação. É preguiçosa e nada diz. É tautológica. E recai no vício previsto no art. 489, §1º, III e IV, do CPC. Nada de novo nestas terras, infelizmente.
+Violados, então, o dispositivo falado no parágrafo precedente e o art. 1022 do CPC, já que não apreciados de fato os embargos.
+Por fim, também o art. 341 do CPC parece ter sido violado, ao fazer crer o TJ que deveria a Fazenda impugnar certas provas produzidas no processo. Os aclaratórios mencionaram este erro processual crasso e a resposta, mais uma vez, foi o silêncio da Corte a quo.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+No mais, o recorrente apenas suscitou infringência ao art. 936 do CC nas razões do recurso especial, como demonstra o seguinte trecho: "O recurso, então, trata da má aplicação do art. 936 do Código Civil, porquanto inexiste propriamente omissão da GOINFRA no caso concreto, em função de não ser a detentora do animal" (fl. 605).
+Cabe ressaltar que a admissibilidade do recurso especial, tanto pela alínea a quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+Nas razões do recurso especial, de fato, a parte recorrente indicou dispositivo legal ineficiente para alcançar a sua pretensão de excluir a solidariedade e a responsabilidade do órgão estadual no acidente automobilístico, porquanto a norma impugnada (art. 936 do CC) apenas preceitua que "o dono, ou detentor, do animal ressarcirá o dano por este causado, se não provar culpa da vítima ou força maior".
+O Tribunal de Justiça de Goiás, após minucioso exame do contexto fático probatório produzido nos autos, concluiu que a responsabilidade pelo sinistro era da proprietária do animal, tendo sido o referido dispositivo adequadamente aplicado, e do ente público. Quanto a esse ponto, a agravante nada disse, assim ficou caracterizada a deficiência na fundamentação recursal, o que impede a análise da controvérsia.
+Nesse sentido: "O recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão" (AgInt no AREsp 2.372.506/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Isso posto, nego provimento ao recurso.
