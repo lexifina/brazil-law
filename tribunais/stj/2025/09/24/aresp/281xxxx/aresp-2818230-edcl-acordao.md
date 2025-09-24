@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela INDÚSTRIA E COMÉRCIO DE CALÇADOS CORVARI LTDA. contra acórdão de relatoria do Ministro Teodoro Silva Santos, no qual foi negado provimento ao agravo interno interposto pela embargante, conforme ementa a seguir transcrita (fl. 871):
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. SÚMULA N. 7 DO STJ. INSURGÊNCIA GENÉRICA. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+Sustenta a parte embargante a existência de obscuridade, contradição, omissão e erro material, alegando que o acórdão embargado não enfrentou adequadamente os argumentos relativos à aplicação da Súmula n. 509 do STJ e à correta subsunção dos arts. 19 e 20 da Lei Complementar n. 87/96, além de não considerar a presunção de boa-fé do fornecedor nas operações mercantis (fls. 881-884).
+O Estado de São Paulo não apresentou resposta aos embargos de declaração (fl. 896).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+VOTO
+O recurso é manifestamente incognoscível.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+Vale dizer: o recurso integrativo trata-se de espécie recursal de fundamentação vinculada, sendo ônus do Embargante a correta indicação, de forma precisa, de quais seriam os vícios integrativo presentes no decisum embargado (omissão, contradição, obscuridade ou erro material). A existência ou não de tais vícios está ligada ao mérito dos embargos declaratórios, reclamando um juízo de acolhimento ou rejeição do recurso.
+No entanto, a exposição clara e delimitada de eventuais vícios de integração é requisito do próprio conhecimento do recurso integrativo, etapa que antecede, como se sabe, o próprio juízo de mérito.
+Na hipótese, a parte Embargante limita-se a alegar que "o Recurso Especial indicou claramente afronta à Lei Federal 87/96 (Lei Complementar), mais especifico aos artigos 19 e 20 (princípio da não-cumulatividade)" (fl. 883).
+Segundo se vê, a ora Recorrente não aponta a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como já destacado, constitui recurso de fundamentação vinculada. Não se aponta qual seria o argumento da petição de agravo interno não analisado no acórdão embargado. A alegação genérica de que a Súmula n. 7 do STJ foi suficientemente enfrentada é manifestamente insuficiente para superar os requisitos de admissibilidade dos próprios embargos de declaração.
+Seria necessário que a Recorrente delimitasse, ainda que de forma mínima, quais foram os argumentos dos referidos tópicos eventualmente não examinados por este Colegiado, a fim de que, assim, se procedesse ao exame da procedência da alegação, isto é, se houve ou não omissão. Contudo, da forma como exposta a insurgência, nem mesmo é possível se realizar o dito juízo de mérito, pois não há como saber de que omissão a pretensão recursal trata, sendo certo que os embargos declaratórios não podem ser manejados como se segundo agravo interno fossem.
+Assim, não havendo a precisa indicação de quais seriam os vícios do acórdão embargado, e stá ausente o pressuposto de admissibilidade recursal que impede a análise da insurgência, tornando de rigor o não conhecimento do recurso integrativo.
+Ilustrativame nte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação, nas razões dos embargos de declaração, da presença de quaisquer dos vícios enumerados no art. 1.022 do Código de Processo Civil (CPC) implica o não conhecimento do recurso, pois descumpridos os requisitos previstos no art. 1.023 do mesmo diploma legal.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 2.126.595/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+(EDcl no AgInt no AREsp n. 2.358.586/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.023 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de Declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 1.619.349/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL, NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE IMPOSIÇÃO DE MULTA.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 15/03/2017). Em igual sentido: STJ, EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017.
+III. No caso, os Embargos de Declaração não podem ser conhecidos, pois a parte embargante não aponta omissão, contradição, obscuridade ou erro material existentes no acórdão embargado, demonstrando mero inconformismo com as conclusões do decisum.
+ ..
+V. Embargos de Declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de Declaratórios.
+(EDcl no AgInt no REsp n. 2.027.761/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Ante o exposto, NÃO CONHEÇO do s embargos de declaração, ficando a parte Embargante advertida de que a eventual oposição de novos declaratórios, considerados protelatórios, ensejará aplicação de multa.
+É como voto.
