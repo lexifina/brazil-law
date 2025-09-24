@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MATEUS RODRIGUES MELO, contra acórdão que negou provimento ao writ de origem, mantendo a prisão preventiva do recorrente.
+Consta dos autos que o recorrente foi preso em flagrante sob a acusação de tráfico de drogas e posse ilegal de munição de uso restrito, com base no artigo 33, caput, da Lei nº 11.343/2006, e artigo 16 da Lei nº 10.826/2003. Durante a abordagem policial, foram apreendidas 25 porções de cocaína (10,21 gramas), 10 munições calibre 9 mm e R$ 800,00 em espécie.
+A prisão em flagrante foi convertida em prisão preventiva pelo juízo de primeiro grau, que fundamentou a decisão na garantia da ordem pública, considerando a gravidade concreta das condutas e o risco de reiteração delitiva.
+No presente recurso, sustenta a parte recorrente que houve ilegalidade na abordagem policial e na invasão de domicílio, realizada sem autorização judicial ou consentimento válido, com base apenas em denúncia anônima.
+Alega que a quantidade de munições apreendidas é insignificante, não representando risco à ordem pública; e que há excesso de prazo na formação da culpa, considerando que o recorrente está preso desde 27 de dezembro de 2024.
+Argumenta que a prisão preventiva é desnecessária, sendo suficientes as medidas cautelares alternativas previstas no art. 319 do CPP, especialmente considerando as condições pessoais favoráveis do recorrente, como primariedade e residência fixa.
+Requer liminarmente o relaxamento da prisão preventiva ou sua substituição por medidas cautelares alternativas. No mérito, requer o provimento do recurso ordinário para que seja concedida a liberdade provisória, com ou sem medidas cautelares, bem como o reconhecimento da nulidade das provas obtidas em razão da suposta ilegalidade da abordagem e da invasão de domicílio.
+A liminar foi indeferida (fls. 110-111).
+Foram prestadas informações (fls. 117-139 e 144-149).
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso ordinário (fls. 151-154):
+É o relatório.
+DECIDO.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder", sendo que o decreto prisional, transcrito no condutor do acórdão recorrido, possui a seguinte fundamentação (fls. 59-60):
+De antemão, adianto que mantenho a prisão preventiva do réu MATEUS RODRIGUES MELO, decretada em 29/12/2024 (processo 5008533-68.2024.8.21.0030/RS, evento 1, DOC1).
+Com efeito, ao réu é imputada a prática dos delitos de trá co de drogas e posse ilegal de munições de uso restrito, tendo sido preso em  agrante no dia 27/12/2024, quando foi abordado por Policiais Militares, sendo constatado que o réu possuía, no console do veículo, 5 porções de cocaína, R$ 800,00 em espécie, e dois celulares. Além disso, após autorização do réu, foram realizadas buscas na sua residência e encontradas mais 20 porções de cocaína e 10 munições calibre 9 mm, dentre outros objetos apreendidos. Estes fatos são indicativos de que, efetivamente, o acusado estava no local para tra car, inclusive contando com estoque reserva da droga em casa e, possivelmente, utilizando-se de arma de fogo para fazer a segurança do seu negócio espúrio.
+Conforme consignado na decisão do processo 5008533-68.2024.8.21.0030/RS, evento 10, DOC1, em que imposta a prisão cautelar, é inegável a gravidade concreta gerada pela conduta do acusado, não sendo suficiente a aplicação de medidas cautelares para resguardar a ordem pública.
+Assinalo que doutrina e jurisprudência são uníssonas em asseverar que o excesso de prazo deve ser apreciado sob o prisma da razoabilidade, a depender das circunstâncias especí cas de cada processo, tal como a complexidade dos delitos apurados e as diligências e os meios de prova essenciais ao seu deslinde (v.g. STF, HC n. 116029, Min. Rosa Weber, j. 4.2.2014).
+E, conforme se observa dos autos, não houve quaisquer paralisações desnecessárias ou protelatórias a justi car a revogação da cautelar extrema tão somente pelo decurso do tempo.
+Inexiste, portanto, alteração das condições que justi caram a prisão preventiva, não sendo possível, no momento, a sua revogação.
+Por essas razões, MANTENHO A PRISÃO PREVENTIVA DE  MATEUS RODRIGUES MELO .
+Como se observa do excerto acima transcrito, a prisão preventiva foi devidamente fundamentada na garantia da ordem pública, considerando foram apreendidos com o recorrente 25 (vinte e cinco) porções de cocaína, 10 munições calibre 9 mm, R$ 800,00 em espécie, e dois celulares.
+Nesse sentido, entende esta Corte que o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública" (RHC n. 137.054/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/4/2021, DJe 27/4/2021; e AgRg no HC n. 915.358/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+Em relação à alegação de atipicidade material do porte de munições, " a  orientação jurisprudencial deste Superior Tribunal consolidou-se no sentido de não admitir a aplicação do princípio da insignificância quando as munições, apesar de em pequena quantidade, tiverem sido apreendidas em um contexto de outro crime, circunstância que efetivamente demonstra a lesividade da conduta". (AgRg no HC n. 931.783/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Destaque-se, de outro lado, que o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento deste Superior Tribunal de Justiça. Nesse sentido: AgRg no HC n. 865.097/SE, Rel. Min. Ribeiro Dantas, Quinta Turma, j. em 18/12/2023, DJe de 20/12/2023.
+Assim, " h avendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública" (AgRg no HC 955834 / GO, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/02/2025, DJEN 18/02/2025).
+Ademais, conforme informações prestadas pelo Tribunal de origem (fl. 144), o recorrente foi condenado - em momento posterior à interposição do presente recurso -pelos crimes de tráfico de drogas e posse ilegal de munições de uso restrito, aplicada a pena de 9 anos de reclusão e 610 dias-multa, ainda não transitada em julgado, sendo a prisão preventiva mantida nesta decisão.
+Logo, uma vez a prisão do recorrente agora decorre de título judicial condenatório, e não mais da decisão que converteu o flagrante em prisão preventiva, resta prejudicada a tese defensiva quanto ao excesso de prazo na formação da culpa.
+Quanto à alegação de ilegalidade na abordagem policial, consta da sentença condenatória (fl. 144):
+ ..  a ação policial não decorreu de mero arbítrio, mas sim de circunstâncias objetivas que justificaram a intervenção estatal, tais como a denúncia anônima acerca da prática de tráfico no local, o comportamento suspeito do réu ao avistar a guarnição, bem como o fato de tratar-se de ponto já conhecido pelas autoridades por ser vinculado ao comércio de drogas.
+Nesse cenário, o Tribunal de origem concluiu que a abordagem em via pública foi motivada por fundadas suspeitas de que o ora recorrente estaria envolvido na prática de tráfico de drogas na modalidade de tele-entrega, conforme denúncia anterior que incluía a descrição das características do veículo utilizado. Ademais, ressaltou-se que a busca pessoal não exige mandado judicial quando a medida se faz urgente e há indícios razoáveis de que a pessoa esteja portando objetos ilícitos (fl. 60).
+Assim, afastar a conclusão a que chegou o Tribunal Estadual, acerca da existência ou não de fundadas suspeitas que justifiquem a referida abordagem policial, enseja revolvimento fático probatório inviável na via estreita do habeas corpus.
+Tal entendimento está conforme a jurisprudência desta Corte Superior:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA PESSOAL. FUNDADA SUSPEITA. PROVA LÍCITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, no qual se alegava a ilicitude da prova obtida durante busca pessoal realizada sem mandado judicial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a busca pessoal realizada em local conhecido por tráfico de drogas, baseada no nervosismo do abordado e sua tentativa de evasão, configura fundada suspeita apta a validar a prova obtida.
+III. Razões de decidir
+3. A busca pessoal é lícita quando realizada com base em fundada suspeita, conforme previsto no art. 244 do Código de Processo Penal, sendo desnecessário mandado judicial.
+4. A presença de fundada suspeita foi evidenciada pelo comportamento do agravante, que demonstrou nervosismo e tentou se desvencilhar da abordagem policial em local conhecido por tráfico de drogas.
+5. A jurisprudência desta Corte Superior confirma que atitudes suspeitas, como nervosismo e tentativa de fuga, podem justificar a busca pessoal sem mandado judicial.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: "1. A busca pessoal realizada com base em fundada suspeita é lícita, mesmo sem mandado judicial. 2. Atitudes suspeitas, como nervosismo e tentativa de fuga em local conhecido por tráfico de drogas, configuram fundada suspeita apta a validar a busca pessoal".
+Dispositivos relevantes citados: CPP, art. 240, § 2º; CPP, art. 244.Jurisprudência relevante citada: STJ, AgRg no HC 805.897/MS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 18.10.2023; STJ, AgRg nos EDcl no HC 811.043/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 27.06.2023; STJ, AgRg no AREsp 2.457.549/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j.
+12.12.2023.
+(AgRg no REsp n. 2.130.463/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/4/2025, DJEN de 28/4/2025.)
+Por fim, "A alegação de insignificância na posse de pequena quantidade de munições não prospera quando tais artefatos são apreendidos em contexto de outro crime, circunstância que revela a lesividade da conduta" (AgRg no AREsp n. 2.943.819/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/9/2025, DJEN de 10/9/2025.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
