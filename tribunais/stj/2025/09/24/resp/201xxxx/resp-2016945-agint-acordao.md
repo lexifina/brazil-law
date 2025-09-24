@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. LICITAÇÃO. TAXA DE ADMINISTRAÇÃO. TEMA 1038/STJ. DEMONSTRADA A ADEQUAÇÃO DO CASO AO DEFINIDO NO TEMA REPETITIVO POR DELIMITAÇÃO FÁTICA. ALEGAÇÃO DE DISTINÇÃO. NECESSIDADE DE REEXAME DO MATERIAL INSTRUTÓRIO E DO EDITAL DE LICITAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1.  O agravante se insurge contra a decisão por meio da qual o seu recurso especial não foi conhecido. A decisão impugnada registrou que a conclusão alcançada pelo Tribunal de origem está em harmonia com a orientação deste Tribunal e que incidem os óbices das Súmulas 5 e 7/STJ, inviabilizando o conhecimento do recurso especial.
+2. A questão fática delimitada no acórdão recorrido aponta a identidade da matéria com o que foi definido no tema 1038/STJ. Consta no acórdão impugnado que a questão diz respeito à possibilidade de se exigir a Taxa de Administração, cujo objeto é a contratação de empresa para prestação de serviços de mão de obra terceirizada com empregados regidos pela CLT. A tese repetitiva 1038/STJ, por sua vez, enuncia que "Os editais de licitação ou pregão não podem conter cláusula prevendo percentual mínimo referente à taxa de administração, sob pena de ofensa ao artigo 40, inciso X, da Lei nº 8.666/1993".
+3. A alegação de distinção entre a situação dos autos e a tese repetitiva demanda o reexame do edital e dos elementos fáticos colacionados aos autos, o que é inviável nesta via, nos termos das Súmulas 5 e 7/STJ.
+4.  Agravo  interno  des provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto pelo ESTADO DO CEARÁ contra a decisão vista às fls. 256-259, por meio da qual o recurso especial interposto pelo ora agravante não foi conhecido.
+A parte agravante sustenta, em síntese, que a situação dos autos é distinta da tese firmada no tema 1038/STJ, pois o edital impugnado não estabeleceu uma vedação absoluta à apresentação de propostas com taxa de administração inferior a 1%, mas permitiu expressamente que as propostas fossem apresentadas, desde que a licitante demonstrasse sua exequibilidade por meio de contratos similares.
+Prossegue aduzindo que não busca o revolvimento de fatos ou provas, tampouco a reanálise do edital do certame naquilo que se refere à existência ou não de elementos fáticos ou circunstanciais específicos, mas o exame da correta aplicação da legislação federal, especialmente quanto à possibilidade de se fixar critérios objetivos para aferição da exequibilidade da proposta, dizendo que o acórdão viola o disposto no art. 40, X, da Lei 8.666/1993.
+Pede a reconsideração da decisão agravada e o provimento do recurso.
+Intimado, a parte agravada deixou de responder ao recurso (fl. 275).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. LICITAÇÃO. TAXA DE ADMINISTRAÇÃO. TEMA 1038/STJ. DEMONSTRADA A ADEQUAÇÃO DO CASO AO DEFINIDO NO TEMA REPETITIVO POR DELIMITAÇÃO FÁTICA. ALEGAÇÃO DE DISTINÇÃO. NECESSIDADE DE REEXAME DO MATERIAL INSTRUTÓRIO E DO EDITAL DE LICITAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1.  O agravante se insurge contra a decisão por meio da qual o seu recurso especial não foi conhecido. A decisão impugnada registrou que a conclusão alcançada pelo Tribunal de origem está em harmonia com a orientação deste Tribunal e que incidem os óbices das Súmulas 5 e 7/STJ, inviabilizando o conhecimento do recurso especial.
+2. A questão fática delimitada no acórdão recorrido aponta a identidade da matéria com o que foi definido no tema 1038/STJ. Consta no acórdão impugnado que a questão diz respeito à possibilidade de se exigir a Taxa de Administração, cujo objeto é a contratação de empresa para prestação de serviços de mão de obra terceirizada com empregados regidos pela CLT. A tese repetitiva 1038/STJ, por sua vez, enuncia que "Os editais de licitação ou pregão não podem conter cláusula prevendo percentual mínimo referente à taxa de administração, sob pena de ofensa ao artigo 40, inciso X, da Lei nº 8.666/1993".
+3. A alegação de distinção entre a situação dos autos e a tese repetitiva demanda o reexame do edital e dos elementos fáticos colacionados aos autos, o que é inviável nesta via, nos termos das Súmulas 5 e 7/STJ.
+4.  Agravo  interno  des provido.
+VOTO
+MINISTRO AFRÂNIO VILELA: Conheço do recurso, presentes os seus pressupostos de admissibilidade.
+A parte agravante se insurge contra a decisão por meio da qual o seu recurso especial não foi conhecido.
+A decisão impugnada registrou que a conclusão alcançada pelo Tribunal de origem está em harmonia com a orientação deste Tribunal e que incidem os óbices das Súmulas 5 e 7/STJ, inviabilizando o conhecimento do recurso especial.
+Não logra o recorrente fragilizar os fundamentos da decisão agravada, os quais devem prevalecer.
+A questão fática delimitada no acórdão recorrido aponta a identidade da matéria com o que foi definido no tema 1038/STJ. Consta no acórdão recorrido (fl. 184):
+A questão diz respeito à possibilidade de se exigir a Taxa de Administração como assim verificado no item 12.1, alínea "d" do citado Edital, relativo ao Pregão Presencial Nº 20190019/SSPDS, cujo objeto é a contratação de empresa para prestação de serviços de mão de obra terceirizada com empregados regidos pela CLT.
+Enuncia a tese repetitiva 1038/STJ, por sua vez que: "Os editais de licitação ou pregão não podem conter cláusula prevendo percentual mínimo referente à taxa de administração, sob pena de ofensa ao artigo 40, inciso X, da Lei nº 8.666/1993."
+Assim, ao concluir que a exigência contida no edital importa em prejuízo à impetrante, considerando ser fato impeditivo à sua participação no processo licitatório (fl. 185), o acórdão originário vai ao encontro da jurisprudência desta Corte, o que consubstancia o não conhecimento do recurso especial com fundamento na orientação contida na Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+A alegação de distinção entre a situação dos autos e a tese repetitiva demanda o reexame do edital e dos elementos fáticos colacionados aos autos, o que é inviável nesta via, nos termos das Súmulas 5 e 7/STJ.
+Como antes descrito, a delimitação fática contida no acórdão originário evidencia a semelhança da questão posta com o que foi definido no tema repetitivo.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, nego provimento ao recurso.
