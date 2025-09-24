@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VANDERLEI SOARES BARBOSA contra acórdão que negou provimento ao agravo em execução.
+Consta dos autos a determinação para que o paciente seja submetido a exame criminológico, com o objetivo de aferir o cumprimento do requisito subjetivo para fins de progressão para o regime semiaberto.
+Sustenta a defesa a existência de constrangimento ilegal, ao argumento de que "a mera menção à gravidade dos delitos e longa pena a cumprir não justifica a submissão do sentenciado ao exame criminológico. É preciso a indicação de elementos concretos ocorridos ao longo do cumprimento da pena a justificar a realização da perícia." (fl. 5).
+A impetrante aduz que "o MM. juiz não trouxe nenhum fundamento que legitimasse a necessidade da realização da avaliação criminológica, isto é, nenhum dado concreto da personalidade do paciente ou fato que tenha ocorrido no curso da sua execução penal, a não ser que cumpre pena por crime grave e que possui anotação de infração disciplinar (ANTIGA). O Atestado Comprobatório de Comportamento Carcerário é suficiente para comprovar o preenchimento do requisito subjetivo." (fl. 6).
+No ponto, alega-se também que "a decisão requisitando a realização de exame criminológico foi proferida em 06/03/2025, sendo que o paciente foi submetido às avaliações com os técnicos no mês de junho e até a presente data não houve a juntada dos laudos. A unidade prisional juntou ofício nos autos informando que a provável data para juntada do exame criminológico será na segunda quinzena de agosto" (fls. 7/8).
+Requer, ao final, a concessão da ordem, a fim de afastar a exigência de realização de exame criminológico.
+O pedido de liminar foi indeferido (fls. 46-48).
+As informações foram prestadas (fls. 55-67).
+O Ministério Público, às fls. 70-75, manifestou-se pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+O acórdão combatido ficou assim fundamentado (fls. 13-18):
+O agravo não comporta acolhimento.
+Depreende-se dos autos que VANDERLEI cumpre pena privativa de liberdade total de 60 (sessenta) anos e 04 (quatro) dias, em regime fechado, resultante da soma de nove guias de recolhimento todas pela prática de roubos qualificados, cujo TCP, em trinta anos, está previsto para 28/01/2046 (cf. cálculo de fls. 1071/1079); do boletim informativo constam seis faltas disciplinares durante o desconto da pena, cinco graves, dentre elas uma pela qual foi absolvido nesta instância, uma média, todas já reabilitadas (fls. 1044 e 1066/1070, na origem).
+Entendendo preencher todos os requisitos necessários para os fins almejados, postulou a d. Defesa a progressão ao regime mais brando, instruindo o pleito com o atestado de BOM comportamento carcerário e boletim informativo; todavia, o Magistrado a quo converteu o julgamento em diligência, determinando que a Direção da Unidade Penal adotasse as medidas necessárias à submissão do ora agravante à avaliação criminológica para melhor apreciação do pleito (fls. 1056).
+Daí a insurgência defensiva, sem razão.
+É certo que, no cenário da Lei nº 10.792/2003, que alterou a redação do artigo 112 da Lei de Execução Penal, não mais se fazia obrigatória a submissão do sentenciado a exame criminológico para a concessão de benefícios prisionais.
+Contudo, e apesar da entrada em vigor da Lei nº 14.843/2024, referido quadro se mantém para o presente cumprimento de pena, eis que os fatos pinçados foram cometidos entre 2000 e 2016 (fls. 14/16), ou seja, antes de 11 de abril de 2024, data de vigência da alteração legislativa.
+No ponto, em que pese tenha adotado anteriormente marco temporal diverso por entender que a Lei sublinhada possuiria caráter misto, ajusto meu posicionamento à melhor interpretação, a fim de compreender que "as normas relacionadas à execução são de natureza penal e, enquanto tais, somente podem incidir ao tempo do crime, ou seja, no momento em que a ação ou omissão for praticada (art. 4º do CP), salvo se forem mais benéficas ao executando, situação em que terão efeitos retroativos (art. 2º, parágrafo único, do CP)" (STF, HC n. 937.765/SP, relatora Ministra Daniela Teixeira, DJe de 21/8/2024, grifos nossos).
+Inaplicável, portanto, a retroatividade da alteração legislativa, não havendo, in casu, a obrigatoriedade do exame criminológico para concessão de progressão de regime, tal como trazido pela nova redação do §1º do artigo 112 da Lei de Execução Penal.
+ ..
+Na hipótese dos autos, embora sucinto, o provimento judicial questionado contém suficiente e idônea motivação para justificar sua conclusão; de fato, para além da longeva pena e da gravidade dos delitos adrede perpetrados, as peculiaridades do caso concreto evidenciam a necessidade da avaliação criminológica. O agravante possui conturbado histórico prisional, com registro de várias faltas disciplinares, para além de abandono do cumprimento da pena, flagrante, e novo abandono com recaptura após um ano.
+ ..
+Dito isto, pelo meu voto, NEGO PROVIMENTO ao agravo, nos moldes da fundamentação.
+No caso, a exigência do exame criminológico está devidamente fundamentada no histórico prisional do paciente, uma vez que "O agravante possui conturbado histórico prisional, com registro de várias faltas disciplinares, para além de abandono do cumprimento da pena, flagrante, e novo abandono com recaptura após um ano" (fl. 18).
+Nesse sentido, embora haja atestado de bom comportamento carcerário (fl. 20), extrai-se da guia de execução do paciente que a última falta grave - desobediência -, foi praticada em 18/3/2020 e reabilitada em data não muito distante, em 18/4/2021 (fl. 27).
+O entendimento desta Corte Superior é no sentido de que a gravidade abstrata dos delitos praticados e a longevidade da pena a cumprir não podem servir, por si sós, como fundamento para a determinação de prévia submissão do apenado ao exame criminológico. Impõe-se que essa exigência decorra de algum elemento concreto atinente ao período de execução da pena e à conduta carcerária do custodiado, como, por exemplo, a prática de faltas graves ou novo delito no curso da execução da pena.
+Nesse sentido a Súmula 439/STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Desse modo, não se verifica nenhuma ilegalidade a ser sanada pela via do habeas corpus, pois a exigência de realização do exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte Superior.
+Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CASOS COMETIDOS SOB ÉGIDE DA LEI ANTERIOR. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA FINS DE AFERIÇÃO DO REQUISITO SUBJETIVO NECESSÁRIO À PROGRESSÃO DE REGIME. ACÓRDÃO MANTIDO POR ESTA CORTE. FUNDAMENTOS DIVERSOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte possui entendimento no sentido de que "a exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal" (RHC n. 200.670/GO, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024).
+2. Dessa forma, constata-se que a alteração legislativa promovida pela Lei n. 14.843/2024, ao tornar obrigatório o exame criminológico para fins de progressão de regime, não pode ser aplicada retroativamente para atingir fatos praticados sob a égide da legislação anterior, como na hipótese, sob pena de afrontar o disposto nos art. 5º, XL, da Constituição Federal, e art. 2º do Código Penal.
+3. A gravidade abstrata dos crimes praticados, eventual grande quantidade de pena ainda pendente de cumprimento, faltas graves cometidas em período longínquo e já reabilitadas e a reincidência não constituem fundamentos idôneos a justificar a realização de exame criminológico. Precedentes.
+4. Todavia, o histórico conturbado do paciente é fundamento idôneo para a determinação de exame criminológico. De fato, o Boletim Informativo da execução penal do paciente, datado de 14/10/2024, indica que o cometimento de novo delito em 21/12/2020, quando em regime aberto. Esta Corte Superior entende que a falta grave e cometimento de novo delito justificam o indeferimento de progressão de regime e, portanto, a realização de exame criminológico.
+Precedentes.
+5. É permitido à Corte julgadora complementar os fundamentos da decisão ou voto impugnado de outra instância, como também apresentar argumentos totalmente diversos, desde que o faça de forma idônea, tendo em vista o princípio do livre convencimento do Juiz e do duplo grau de jurisdição. O que não se admite é que, em recurso exclusivo da defesa, o resultado se agrave - reformatio in pejus. No caso, não houve agravamento da situação do executado, tendo esta Corte apenas mantido o acórdão impugnado.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 975.514/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. DETERMINAÇÃO DA REALIZAÇÃO DE EXAME CRIMINOLÓGICO PELO TRIBUNAL A QUO. INEXISTÊNCIA DE APLICAÇÃO RETROATIVA DA LEI 14.843/24. NÃO COMPROVAÇÃO REQUISITO SUBJETIVO. REVOGAÇÃO DO PRIMEIRO LIVRAMENTO CONDICIONAL CONCEDIDO. ASSEGURADO AO PACIENTE O DIREITO DE AGUARDAR REALIZAÇÃO DO EXAME SEM REGRESSÃO DE REGIME. AUSÊNCIA DE CONSTRANGIMENTO DIRETO E CONCRETO À LIBERDADE DE LOCOMOÇÃO. USO ABUSIVO DO HABEAS CORPUS PARA IMPEDIR REALIZAÇÃO DA PERÍCIA. RECURSO IMPROVIDO.
+1- O acórdão atacado determinou a realização do exame criminológico por entender que não estava clara a presença do requisito subjetivo destacando que "era bastante recomendável a adoção do exame em comento, eis que se trata de reeducando cumprindo pena por crime equiparado a hediondo, reincidente e com histórico de revogação de livramento condicional anteriormente concedido", inexistindo o constrangimento apontado pela defesa de aplicação retroativa da Lei n. 14.843/2024.
+2- O Tribunal de origem assegurou ao paciente o direito de "aguardar a elaboração do exame criminológico no regime em que se encontra, evitando sucessivas transferências entre estabelecimentos penais" o que afasta qualquer constrangimento ilegal imediato e concreto à liberdade de locomoção, não podendo o habeas corpus ser utilizado com a finalidade tão somente de impedir a realização da aludida perícia.
+3- Agravo Regimental não provido.
+(AgRg no HC n. 975.994/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2025, DJEN de 28/3/2025.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. REQUISITOS SUBJETIVOS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava a concessão de livramento condicional, alegando-se o cumprimento dos requisitos legais para tal benefício.
+2. O Tribunal de origem indeferiu o pedido de livramento condicional com base na existência de falta disciplinar de natureza média, reabilitada recentemente, e em aspectos desfavoráveis do exame criminológico.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a existência de falta disciplinar reabilitada e aspectos desfavoráveis do exame criminológico são fundamentos idôneos para o indeferimento do livramento condicional.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça estabelece que faltas disciplinares antigas e já reabilitadas não devem ser consideradas para indeferir benefícios da execução penal, em respeito ao princípio da razoabilidade e ao caráter ressocializador da pena.
+5. O exame criminológico, embora não obrigatório, pode ser utilizado para fundamentar a decisão sobre o livramento condicional, desde que baseado em dados concretos dos autos.
+6. O princípio do in dubio pro societate prevalece no processo de execução penal, permitindo que, na dúvida sobre a periculosidade do apenado, a decisão seja em favor da sociedade.
+7. O habeas corpus não é o meio adequado para reavaliar questões que demandem exame do conjunto fático-probatório.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+(AgRg no HC n. 960.277/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/2/2025, DJEN de 25/2/2025.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
