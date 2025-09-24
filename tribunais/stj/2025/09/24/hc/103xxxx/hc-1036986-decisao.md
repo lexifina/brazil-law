@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HORUS EMMANUEL WATANABE FANTINI DE MORAIS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2252193-03.2025.8.26.0000).
+Consta dos autos que o paciente foi condenado como incurso no art. 171 do Código Penal, à pena de 2 anos, 8 meses e 20 dias de reclusão, em regime inicial fechado. Irresignada, a defesa impetrou prévio writ, o qual foi julgado nos seguintes termos (e-STJ fls. 38):
+HABEAS CORPUS impetrado em favor de paciente condenado a resgatar reprimenda em regime fechado. Guia de recolhimento ainda não expedida. Suplicante em liberdade. Pleito de concessão de indulto com fulcro no Decreto presidencial nº 11.302/2022. Tema não apresentado ao E. Juízo a quo. Supressão de grau de jurisdição.
+Não conhecimento.
+No presente mandamus, a defesa aduz, em síntese, que o paciente faz jus ao indulto previsto no Decreto Presidencial nº 11.302/22, pois a pena aplicada não supera 5 anos. Sustenta que condicionar a apreciação do pedido ao prévio recolhimento do paciente à prisão configura constrangimento ilegal, em afronta aos princípios da razoabilidade e da economia processual.
+Pugna, liminarmente, pela suspensão da ordem de prisão expedida contra o paciente. No mérito, requer a concessão da ordem para cassar o acórdão do TJSP e determinar que o juízo competente analise o preenchimento dos requisitos para o indulto, independentemente de recolhimento ao cárcere.
+É o relatório. Decido.
+A alegação defensiva não foi previamente examinada pelo Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Nesse sentido, extrai-se do acórdão ora impugnado que O writ não comporta mesmo conhecimento porquanto o paciente não formulou requerimento concernente à concessão de indulto perante o d. Juízo de origem (solicitou, na realidade, "a expedição da competente "guia de recolhimento", endereçada por prevenção do DD. Juízo da 4ª Vara das Execuções Criminais da Comarca da Capital, onde serão formulados os pleitos dos Institutos despenalizadores" - fls. 664 dos autos originários), de modo que, se por aqui fosse apreciado, isso implicaria indevida supressão de um grau de jurisdição (e-STJ fls. 39/40).
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
