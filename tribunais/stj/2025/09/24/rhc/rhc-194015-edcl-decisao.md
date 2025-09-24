@@ -1,0 +1,15 @@
+DECISÃO
+GLEISON CRISTHIAN SOUZA XAVIER opõe embargos contra decisão de fls. 829-832, em que deneguei o habeas corpus.
+Para tanto, aduz que "a omissão da referida decisão adveio da falta do enfrentamento da matéria da DESPRONÚNCIA levantada no RHC, a contradição está nas afirmações levantadas na decisão que encontram-se em dissonância com os autos." (fls. 842-851).
+Requer, assim, o enfrentamento da matéria de despronúncia (fl. 849).
+Decido.
+Trata-se de embargos de declaração opostos pela defesa, que sustenta omissão na decisão embargada, ao argumento de que não houve enfrentamento da matéria relativa à despronúncia, suscitada no RHC.
+A defesa afirma que trouxe ao debate a tese defensiva em quatro tópicos distintos: a) pronúncia baseada em depoimentos indiretos, de informantes que não presenciaram os fatos, limitados a relatos circunstanciais e de "ouvi dizer"; b) utilização do fundamento "in dubio pro societate", em afronta ao princípio da presunção de inocência; c) ausência de fundamentação no caso concreto, mediante emprego de motivação genérica, sem demonstração de indícios concretos de autoria nem individualização da conduta, em violação ao art. 489, II, do CPP; e d) impossibilidade de pronúncia diante da completa ausência de provas produzidas em juízo, porquanto todos os depoimentos colhidos decorreram de fontes indiretas e de pessoas descompromissadas (suspeitas).
+Consoante dispõe o art. 619 do Código de Processo Penal, a oposição de embargos de declaração visa ao aprimoramento da prestação jurisdicional, por meio da integração ou correção de decisão que se apresente omissa, contraditória, ambígua ou com erro material. Não se prestam, contudo, a promover novo julgamento da causa, sob o pretexto de esclarecimento ou complemento do julgado.
+A esse respeito, é imperioso salientar também que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão no v. acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada" (EDcl no AgRg nos E Dcl no AR Esp n. 1.644.500/SP, Rel. Ministro Felix Fischer, 5ª T., Dje 3/6/2020, destaquei).
+Não se pode olvidar que, "sem a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior" (EDcl no AgRg nos EDcl no AREsp n. 1.205.005/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., Dje 24/6/2021, destaquei).
+No caso, não há falar em omissão. Embora a decisão ora impugnada haja tecido considerações sobre o tema da pronúncia, verifica-se que o acórdão estadual não tratou do tema, diante da necessidade de incursão em matéria fático-probatória, o que é inviável em habeas corpus (fl. 140).
+Assim, ainda que a defesa questione a omissão sobre as teses, rememoro que as alegações defensivas nem sequer podem ser conhecidas, sob pena de indevida supressão de instância.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se e intime-se.
+EMENTA
