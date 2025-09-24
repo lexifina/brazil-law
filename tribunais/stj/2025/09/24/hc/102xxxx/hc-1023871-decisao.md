@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de DIOGO FRANCISCO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL proferido no Recurso Em Sentido Estrito - nº 0826649-82.2025.8.12.0001.
+Consta dos autos que o Tribunal de origem deu provimento ao recurso em sentido estrito interposto pelo Ministério Público para decretar a prisão preventiva do paciente, pela suposta prática dos crimes previstos no art. 2º, § 2º, da Lei n. 12.850/2013, art. 58, parágrafo único, do Decreto-Lei n. 3.688/1941, c/c o art. 71 do Código Penal.
+O impetrante sustenta que a decisão da prisão preventiva carece de fundamentação adequada e não apresenta provas concretas da participação do paciente em organização criminosa.
+Destaca o princípio da presunção de inocência, afirmando que a prisão preventiva viola este princípio, uma vez que não há sentença penal condenatória transitada em julgado.
+Aduz que o paciente é réu primário, possui bons antecedentes, residência fixa e é trabalhador, não representando risco à ordem pública.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva do paciente.
+Liminar indeferida às fls. 29/30, por meio de decisão da lavra do Ministro Otávio de Almeida Toledo.
+Informações prestadas às fls. 50/55.
+O Ministério Público Federal manifestou-se às fls. 59/61, opinando pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+O Tribunal de origem decretou a segregação cautelar do acusado, consignando, in verbis (fls. 12/17):
+Há prova da materialidade e indícios suficientes de autoria, evidenciados pela denúncia recebida e encerramento da instrução processual. A liberdade do recorrido representa risco concreto à ordem pública, tendo em vista a atuação continuada em organização criminosa armada, violenta, voltada a atividades ilícitas como jogo do bicho, roubos, corrupção e lavagem de dinheiro, e à aplicação da lei penal, considerando a possibilidade de fuga ou reiteração delitiva. O estado de liberdade do recorrido potencializa conflitos armados e "derramamento de sangue" no contexto da disputa criminosa, conforme apontado pelo Ministério Público.
+Ressalte-se que o fundamento da garantia da ordem pública está presente diante da circunstância de, em tese, se tratar de uma organização criminosa armada, que, por si só, tem o condão de abalar a ordem pública e na necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa.
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pela instância ordinária, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir do seu papel no contexto da organização criminosa que integra, a qual atua em um sofisticado esquema voltado a atividades ilícitas como jogo do bicho, roubos, corrupção e lavagem de dinheiro, justificando-se a sua constrição cautelar como forma de garantir a ordem pública, evitando-se a perpetuação das atividades criminosas desenvolvidas e a reiteração delitiva.
+Nessa esteira, "justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo" (AgRg no HC n. 728.450/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 18/08/2022), não sendo relevante para a desconstituição da medida extrema o fato de o recorrente não ter sido citado na primeira fase da operação.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Quanto à aplicação de medidas cautelares, esta Corte de Justiça possui o entendimento de que, verbis:
+"Em hipótese de graves crimes, praticados com sofisticação e habitualidade, em contexto de organização criminosa ainda não completamente desarticulada, as medidas alternativas à prisão preventiva de que cuida o art. 319 do CPP não são idôneas e suficientes para prover os interesses cautelares descritos no art. 282, I, do mesmo diploma" (HC n. 446.548/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/6/2018, DJe de 1/8/2018).
+Por derradeiro, a tese da negativa de autoria não pode ser avaliada nesta via estreita porque demanda o revolvimento do contexto fático-probatório, providência vedada nesta sede.
+Desse modo, não havendo que se falar em ilegalidade manifesta e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
