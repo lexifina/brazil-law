@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LOJAS QUERO-QUERO S.A. contra a decisão de fls. 966-968 que negou provimento ao agravo em recurso especial.
+Em suas razões, a parte embargante sustenta que houve recolhimento tempestivo das custas quando da interposição do recurso, porquanto a divergência numérica na linha digitável contida no documento bancário não impede a vinculação ao processo, visto que o sistema eProc já exibira ao gabinete a GRU paga e associada ao feito (fls. 971-972).
+Alega que a decisão embargada colide com o art. 1.007, §§ 6º e 7º, do CPC, pois autoriza a correção de vícios formais quando demonstrado adimplemento tempestivo, e ignora o precedente paradigmático da Corte Especial (EAREsp 483.201/DF), que afasta a deserção em hipóteses de erro material sanável (fls. 972-974).
+Afirma que a decisão embargada não descreve o vício de forma suficiente, frustrando o dever constitucional de motivação, porquanto não individualiza qual campo estaria incorreto na linha digitável (fls. 973-974).
+Sustenta que a decisão embargada omitiu-se sobre o princípio da instrumentalidade das formas e a boa-fé objetiva, conformando o art. 1.007, §§ 6º e 7º, do CPC, visto que o objetivo arrecadatório foi plenamente alcançado e inexistiu prejuízo às partes ou ao erário (fls. 974-975).
+Alega que a decisão embargada não enfrentou o precedente EAREsp 483.201/DF, violando o art. 927 do CPC, pois não abordou a aplicabilidade do precedente que afasta a deserção em virtude do pagamento tempestivo já comprovado (fls. 974-975).
+As contrarrazões não foram apresentadas, conforme certidão de fl. 981.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso, a recorrente protocolou o recurso especial desacompanhado do comprovante de pagamento do preparo, "na medida em que os recibos juntados não correspondiam com as guias no que tange à linha digitável do código de barras" (fl. 898).
+Foi concedido prazo de cinco dias para comprovar o recolhimento em dobro, mas a parte apenas juntou o comprovante de pagamento simples, não atendendo à determinação judicial. De acordo com a jurisprudência do Superior Tribunal de Justiça, considera-se deserto o recurso se, após realizada a intimação nos termos do art. 1.007, § 4º, do CPC, a parte recorrente não comprovar o pagamento ou não efetuá-lo em dobro.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PREPARO. RECOLHIMENTO, ATO INCOMPATÍVEL. PRECLUSÃO LÓGICA. COMPORTAMENTO CONTRADITÓRIO. INTIMAÇÃO. RECOLHIMENTO SIMPLES. INSUFICIÊNCIA COMPLEMENTAÇÃO. COMPROVANTE DE PAGAMENTO. PIX. CÓDIGO DE BARRAS. AUSÊNCIA DE NUMERAÇÃO. ART. 1.007 DO CÓDIGO DE PROCESSO CIVIL. DESERÇÃO CARACTERIZADA. SÚMULA Nº 187/STJ.
+1. A parte que, apesar da concessão da gratuidade de justiça, procede ao pagamento das custas processuais, pratica ato incompatível com a pretensão de reconhecimento do mencionado benefício, o que atrai a ocorrência de preclusão lógica e a vedação ao comportamento contraditório.
+2. Não comprovado o recolhimento das custas devidas no momento da interposição do recurso especial, a parte recorrente, após intimação, deve promover o recolhimento em dobro, conforme disciplina o § 4º do artigo 1.007 do Código de . Processo Civil de 2015.
+3. O entendimento desta Corte Superior é no sentido de que a falta de numeração do código de barras no comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o deserto.
+4. Agravo interno não provido. (AgInt no AR Esp n. 2.557.100/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/5/2025, DJEN de 9/5/2025, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NATUREZA JURÍDICA DA MANIFESTAÇÃO DETERMINANDO A REGULARIZAÇÃO DO PREPARO. DESPACHO DE MERO EXPEDIENTE. AUSÊNCIA DE CARÁTER DECISÓRIO, A OCASIONAR A IMPOSSIBILIDADE DE SER ATACADA MEDIANTE RECURSO. CARÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DAS CUSTAS. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, não havendo comprovação do recolhimento do preparo no ato da interposição do recurso, o demandante será intimado para realizá-lo em dobro, sob pena de deserção, conforme disposição do art. 1.007, caput e § 4º, do CPC/2015. No caso, apesar de devidamente intimada para regularizar o preparo, a parte não o fez dentro do prazo estabelecido, o que justifica a deserção do recurso, nos termos do art. 1.007, caput e § 4º, do atual CPC e da Súmula 187/STJ.
+3. Agravo interno desprovido. (AgInt no AR Esp n. 2.090.547/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, D Je de 14/9/2022, destaquei.)
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (ambiguidade, obscuridade, contradição e omissão).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
