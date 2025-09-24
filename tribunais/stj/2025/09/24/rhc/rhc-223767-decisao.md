@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso em habeas corpus substitutivo interposto por LUAN JOSE MOREIRA GOMES em face de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.25.333012-0/000).
+Consta dos autos que o recorrente foi preso em flagrante, com posterior conversão em preventiva, pela suposta prática das condutas previstas nos arts. 33, caput, da Lei n. 11.343/06 e 180 do Código Penal.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada, com a seguinte ementa:
+HABEAS CORPUS - DELITOS DE (1) TRÁFICO DE DROGAS E (2) RECEPTAÇÃO DOLOSA SIMPLES - REVOGAÇÃO DA PRISÃO PREVENTIVA - PRESENÇA DE SEUS REQUISITOS INFORMADORES - DESCABIMENTO - CARÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO QUE DETERMINARA A CUSTÓDIA CAUTELAR - INOCORRÊNCIA - MEDIDAS CAUTELARES ALTERNATIVAS - INSUFICIÊNCIA. 1- Constatada a gravidade dos fatos imputados e presentes os requisitos informadores da custódia cautelar, impõe-se a manutenção da prisão preventiva justificada e motivadamente decretada. 2- Se a adoção de medidas cautelares diversas da prisão não se mostra suficiente para atender os objetivos justificadores da decretação da medida extrema, não se há falar em revogação desta.. (e-STJ, fl. 167)
+Nas razões, alega o recorrente, em síntese, que não existem fundamentos idôneos para a manutenção da prisão preventiva.
+Requer a revogação da custódia cautelar com a aplicação de medidas cautelares.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No caso, o Juízo quo decretou a prisão preventiva do recorrente com os seguintes fundamentos:
+"O CPP, tal como alterado pela Reforma de 2008 e pela Lei nº 13.964/2019 ("Pacote Anticrime"), estabeleceu, como regra, o direito dos investigados e dos acusados de responderem às imputações criminais em liberdade, até a superveniência de decreto condenatório, transitado em julgado.
+O mesmo diploma normativo, porém, estabeleceu a possibilidade de custódia cautelar, em caráter excepcional, sempre que preenchidos os pressupostos discriminados nos arts. 313 e 312 do CPP.
+Diante da análise dos elementos disponíveis nessa fase processual, tenho por presentes os pressupostos estabelecidos nos arts. 312 e 313 do Código de Processo Penal (CPP) para a decretação da prisão preventiva do Autuado.
+O Flagranteado é dado, em tese, como incurso na prática dos delitos dolosos capituladosno(s) artigo(s) art. 180 do Decreto Lei 2848/40, por 1 vez, art. 33 da Lei 11343/06 e por 1 vez.
+Argumentos relacionados à desclassificação para o art. 28 da Lei nº 11.343/06 melhor se oportunizam à instrução a ser realizada no curso do processo penal. Por ora, as circunstâncias da prisão - incluindo a abordagem do Autuado na posse de droga devidamente porcionada e embalada - bastam para não afastar, de plano, a tipificação promovida pelo Bel. Delegado de Polícia.
+Aos delitos imputados ao Flagranteado, promovida a somatória imposta pelo art. 69 do CP, é cominada pena privativa de liberdade máxima superior a 04 (quatro) anos.
+Atendido, portanto, o pressuposto do art. 313, inciso I, do CPP.
+Ainda que aplicada a minorante do § 4º, em sua fração máxima, o teto da reprimenda penal permaneceria dentro dos parâmetros impostos pelo CPP.
+O fumus comissi delicti está presente ante a materialidade do crime - comprovada pelo Auto de Apreensão de ID 10523360321; pelo Boletim de Ocorrência de ID 10523360320; pelo laudo de Exame Preliminar de Drogas de Abuso de ID 10523360334.
+Existem indícios de autoria. Saliente-se que, de acordo com o policial militar condutor do flagrante - cuja palavra, ao menos por ora, não tem porque ser desacreditada -,
+ ..
+Igualmente caracterizado o periculum libertatis.
+A custódia cautelar se faz necessária para a preservação da ordem pública, devido à periculosidade do Representado.
+O crime sob a apuração se reveste de gravidade em concreto.
+A droga apreendida na operação foi a cocaína, entorpecente cuja natureza desperta maior preocupação para a ordem jurídica sancionadora, em virtude da elevada e rápida dependência que é apto a gerar e de seus impactos devastadores sobre a sociedade.
+Em posse do Autuado, foram encontradas 124 (cento e vinte e quatro) porções do entorpecente, número sugestivo de alto potencial de difusão e da amplitude do mercado consumidor atendido pelo Flagranteado.
+Não obstante os respeitáveis argumentos aduzidos pela D. defesa, não se identificam indícios mínimos do flagrante forjado. O que se extrai dos autos é que os policiais militares atuaram amparados por fundada suspeita, após receberem notícia do crime, e empreenderem investigações preliminares que respaldaram as informações veiculadas por populares.
+Saliente-se que, no local identificado, visualizaram intenso movimento de pessoas nos fundos do lote, que entravam e saíam por porta entreaberta, dinâmica compatível com transações de compra e venda de psicotrópicos.
+Além disso, na entrada - reforce-se, desobstruída - do imóvel, identificaram planta de cannabis. Em contato com o Autuado, este demonstrou recalcitrância e receio, além do intuito de evadir, o que justifica as diligências posteriormente empreendidas pelos castrenses, inclusive as buscas pessoal e domiciliar.
+ ..
+A prisão preventiva é igualmente conveniente para assegurar o bom andamento da instrução criminal e a aplicação da lei penal, ao evitar que o Representado possa empreender tentativa de destruição de outras provas materiais relevantes para o processo, inclusive de entorpecentes ou instrumentos preparatórios que eventualmente possam ser identificados em sua residência.
+A primariedade do Agente e a constatação de que tem residência fixa e ocupação lícita não são suficientes para justificar a concessão de liberdade provisória, quando todos os elementos dos autos apontam para a necessidade de preservação da custódia cautelar.
+ ..
+A suspeita de que o Flagranteado trafica drogas em domicílioe o risco não desprezível de que ele continue a fazê-lo tornam insuficiente qualquer das alternativas do art. 319 do CPP, que pressupõem a sua permanência em meio aberto. Ressalte-se que ainda que o Autuado permanecesse adstrito à circunscrição da sua residência, seria perfeitamente possível que estabelecesse seu centro de operações no local.
+Ante todo o exposto, e por tudo o mais que dos autos consta, CONVERTO a prisão em flagrante delito de LUAN JOSE MOREIRA GOMES em prisão preventiva." (e-STJ, fls. 129-136)
+Nos termos do art. 312 do Código de Processo Penal, "A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado".
+Do excerto acima transcrito, constato que os fundamentos lançados afiguram-se genéricos, abstratos e ilações, não indicando concretamente o malferimento à ordem pública. Assim, apesar de a conduta atribuída ao recorrente ser de razoável periculosidade social - o acusado primário foi preso na posse de 151,36g de cocaína (e-STJ, fl. 88) e um pé de maconha (e-STJ, fl. 91), cabível a substituição da prisão preventiva por outras medidas cautelares do art. 319 do Código de Processo Penal, que se mostra suficiente ao acautelamento do meio social, dada a previsão da custódia preventiva como ultima ratio.
+A propósito:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PEQUENA QUANTIDADE DE DROGAS APREENDIDAS. GRAVIDADE CONCRETA NÃO DEMONSTRADA. ORDEM CONCEDIDA. I. CASO EM EXAME
+1.Habeas corpus impetrado com pedido de revogação de prisão preventiva, sustentando ausência de requisitos legais para sua manutenção. O paciente foi acusado de tráfico de drogas, com apreensão de (50,36g de maconha e 4,15g de cocaína), e está em liberdade por força de liminar. Requer-se, no mérito, a concessão da ordem para que o paciente aguarde o julgamento em liberdade. II. QUESTÃO EM DISCUSSÃO
+2.Há duas questões em discussão: (i) analisar a legalidade da prisão preventiva à luz das circunstâncias do caso concreto, incluindo a quantidade de drogas apreendidas; (ii) verificar a possibilidade de substituição da prisão por medidas cautelares alternativas. III. RAZÕES DE DECIDIR
+3.A prisão preventiva deve ser decretada em caráter excepcional, somente quando presentes os requisitos do art. 312 do CPP, que não se mostram preenchidos no caso, considerando a quantidade reduzida de drogas apreendidas.
+4.A fundamentação utilizada para justificar a prisão preventiva, baseada genericamente na gravidade abstrata do crime de tráfico de drogas, sem a demonstração concreta de periculosidade ou de risco à ordem pública, é insuficiente, não havendo elementos que justifiquem a manutenção da prisão.
+5.Conforme jurisprudência pacífica, a apreensão de pequena quantidade de drogas, sem outros fatores que indiquem risco efetivo à ordem pública ou perigo de reiteração delitiva, recomenda a aplicação de medidas cautelares menos gravosas, nos termos do art. 319 do CPP. IV. DISPOSITIVO
+6.Ordem concedida. (HC n. 841.711/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 12/11/2024.)
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO ABSTRATA. NÃO CABIMENTO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. No caso, o Juízo de primeiro grau decretou a prisão preventiva do acusado com base em fundamentação genérica, pois não apontou elementos concretos extraídos dos autos que justificassem a necessidade da custódia, a qual está amparada tão somente na gravidade abstrata do delito de tráfico de drogas, o que não se admite, notadamente diante da pequena quantidade de drogas e da primariedade do réu.
+2. Agravo regimental desprovido. (AgRg no RHC n. 203.890/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/11/2024, DJe de 6/11/2024.)
+Ante o exposto, dou provimento ao recurso para revogar a prisão preventiva do recorrente, mediante imposição de medidas cautelares diversas da prisão, a critério do Juízo de 1ª instância.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
