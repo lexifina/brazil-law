@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. PISO SALARIAL NACIONAL DO MAGISTÉRIO. ACÓRDÃO COM FUNDAMENTO EM MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA. AGRAVO DESPROVIDO.
+1. Eventual violação de lei fe deral seria reflexa, e não direta, porque no deslinde da controvérsia seria imprescindível a interpretação de matéria constitucional, descabendo, portanto, o exame da questão em sede de recurso especial.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por OLGA ROQUE DA SILVA CARVALHO contra decisão monocrática desta relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar provimento, assim ementada (e-STJ, fl. 1.175):
+RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO CARACTERIZADA. PISO SALARIAL NACIONAL DO MAGISTÉRIO. ACÓRDÃO COM FUNDAMENTO EM MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA. ADEMAIS, ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+A agravante, em suas razões (e-STJ, fls. 1.188-1.204), sustenta que, "embora tenha havido a fixação pelo Supremo Tribunal Federal da constitucionalidade do piso salarial profissional nacional para os profissionais do magistério público da educação básica e da possibilidade de reajuste de seus vencimentos, atento às atualizações do piso salarial nacional previsto na Lei Federal n. 11.738/2008, a aplicabilidade direta deste nos casos concretos se dão pela aplicação da Lei Federal n. 11.738/2008, e não dos dispositivos da Constituição Federal que lhe dão supedâneo" (e-STJ, fl. 1.201).
+Busca, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+Não foi apresentada impugnação (e-STJ, fl. 1.213).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. PISO SALARIAL NACIONAL DO MAGISTÉRIO. ACÓRDÃO COM FUNDAMENTO EM MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA. AGRAVO DESPROVIDO.
+1. Eventual violação de lei fe deral seria reflexa, e não direta, porque no deslinde da controvérsia seria imprescindível a interpretação de matéria constitucional, descabendo, portanto, o exame da questão em sede de recurso especial.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos da agravante não são aptos a ilidir os fundamentos da decisão recorrida, a qual, por isso, merece ser mantida.
+De início, ao prolatar o acórdão recorrido, o Tribunal de Justiça do Estado do Piauí enfrentou a controvérsia nos seguintes termos (e-STJ, fls. 998-999 - sem destaque no original):
+Nos termos do voto do relator, a ADI n. 4167, discute dois pontos, sendo o que interessa para a apreciação da presente lide o enumerado na alínea "b": Os requerentes não se opõem à fixação do piso salarial para os professores que atuam nos serviços de educação básica oferecidos pelo Estado.
+Insurgem-se especificamente contra dois aspectos da norma impugnada, que são (i) a fixação da jornada de trabalho em, no máximo, quarenta horas semanais e (ii) a associação dos conceitos de piso salarial e de vencimento inicial, pois piso deve ser definido como parâmetro de remuneração. O Min. Relator reconheceu que a expressão "piso salarial" não foi definida na lei e que, portanto, era possível inferir dois sentidos: I) se se refere a remuneração global, então o objetivo é assegurar uma proteção mínima ao trabalhador; II) se se refere a vencimento básico, resulta em política de incentivo. Assim, entendo que a discussão se restringe a deliberar a abrangência do termo ou significado do vocábulo.
+Não há nenhuma determinação para que se adote uma forma única de pagamento da verba salarial, isto é, a decisão não obriga os entes federativos a manterem, ad perpetum, as gratificações e adicionais que, porventura, estivessem pagando.
+Na verdade, é que nenhum professor pode receber, como vencimento básico, menos que o valor estipulado para o piso nacional, no entanto, nada impede que o Estado exclua gratificações e adicionais, desde que preserve o valor percebido pelo servidor, em observância à irredutibilidade salarial, Constituição Federal, art.37, XV.
+Nos termos da ADI n. 4761 foi discutida competência da União para fixar um piso salarial aplicável a todo ente federativo. Tendo, o STF, concluído pela constitucionalidade da norma que fixa o piso nacional para os profissionais da educação básica. Percebe-se, que o objeto da ADI 4167 não se trata da questão ora discutida na presente demanda.
+Reconhecer a constitucionalidade da Lei n. 11.738 /2008 não implica que a competência dos demais entes para regular a remuneração do servidor tenha sido excluída.
+O que precisa ser observado é o limite de regramento geral e o âmbito pertinente ao regramento suplementar. Deste modo, o precedente invocado não se mostra pertinente ou aplicável ao caso, nos moldes do que aponta a apelante. Entendo, pois, que se trata de outra argumentação distinta do caso em apreciação. Assim, rejeita-se a tese.
+Sendo assim, consoante se depreende do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do 37, XIV, da Constituição da República e ADI n. 4.167.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da CF/1988.
+Por fim, verifica-se que é incabível o recurso especial cuja tese recursal é eminentemente constitucional, ainda que suscitada a violação ou a interpretação divergente de dispositivo de lei federal.
+Nesse sentido (sem destaque no original):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORES DO EXTINTO TERRITÓRIO DE RONDÔNIA. TRANSPOSIÇÃO FUNCIONAL PARA QUADRO EM EXTINÇÃO DA ADMINISTRAÇÃO FEDERAL. ART. 89 DO ADCT. TRIBUNAL DE ORIGEM QUE RECONHECE A POSSIBILIDADE DE PAGAMENTO RETROATIVO DE DIFERENÇAS REMUNERATÓRIAS DIANTE DAS DISPOSIÇÕES DAS EMENDAS CONSTITUCIONAIS N. 60/2009 E 79/2014. ALEGADA OFENSA AO ART. 2º DA LEI 12.800/13. TESE RECURSAL EMINENTEMENTE CONSTITUCIONAL. VIOLAÇÃO REFLEXA DE LEI FEDERAL. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. "O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte". (AgInt no REsp n. 2.126.362/RS, rel. Min. Regina Helena Costa, Primeira Turma, DJe de 5/9/2024)
+2. "Eventual alteração do julgado importaria em evidente interpretação do entendimento proferido pelo Pretório Excelso, o que leva impreterivelmente ao exame de matéria constitucional, cuja competência é do STF (art. 102 da CF), sendo eventual ofensa à legislação federal meramente reflexa ou indireta, não legitimando a interposição de recurso especial". (AgInt no AREsp n. 1.880.784/MS, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 9/12/2021)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.596.253/RO, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
