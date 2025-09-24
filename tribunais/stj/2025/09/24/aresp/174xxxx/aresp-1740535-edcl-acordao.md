@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo MUNICÍPIO DE NITERÓI contra acórdão da Segunda Turma deste STJ, assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO CONHECIDO. 1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "não é admissível o agravo interno em que se apresentam teses não expostas no recurso especial. Inovação recursal que impede o conhecimento do recurso" (AgInt no REsp 1.989.365/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em .20/3/2023, DJe de 23/3/2023).
+2 . Agravo interno não conhecido. (fl. 268).
+A parte embargante sustenta, em síntese, que:
+Em síntese, o MUNICÍPIO, em sede de agravo interno, pretendeu o reexame do julgamento monocrático que negou provimento ao recurso especial ao fundamento de que a jurisprudência pátria firmou-se no sentido de que o valor relativo a material empregado na construção civil seria dedutível da base de cálculo do ISS (fls. 250). O recurso especial primevamente interposto perante o Tribunal a quo descortinou adequadamente sobre a demarcação normativa e aplicação do RE nº 603.497/MG no caso vertente (fls. 278).
+Conclui que:
+5.Diferentemente do consignado pelo Colegiado, não houve inovação recursal, mas tão somente o esclarecimento de matéria eminentemente jurídica e anteriormente apontada pelo MUNICÍPIO. O embargante não pretende o reexame nem a alteração do conjunto fático probatório dos autos, delineado pelo Tribunal a quo. A matéria deduzida nos deslindes desse recurso especial é exclusivamente de direito, razão pela qual merece ser reformada a r. decisão agravada, a fim de que seja provido o recurso especial interposto.
+6. À luz de tais razões e elementos, é impositivo que este juízo supra as omissões indicadas, de cujo enfrentamento certamente resultará a modificação do quanto decidido, ante sua inequívoca relevância (fl. 279).
+Não foi apresentada impugnação aos embargos de declaração (fls. 286).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser desprovido, constando, expressamente, que (fls. 271-273):
+Ao exame da situação posta em debate neste agravo interno, entendo que o recurso não comporta conhecimento.
+No recurso especial, o MUNICÍPIO DE NITERÓI apontou a violação ao art. 7º da Lei 116/2003, uma vez que o Imposto Sobre Serviços - ISS deveria incidir sobre a totalidade do preço do serviço.
+A decisão recorrida negou provimento ao recurso especial interposto pelo MUNICÍPIO DE NITERÓI, registrando a consonância do acórdão da origem com o entendimento consolidado do Superior Tribunal de Justiça acerca da dedutibilidade do material empregado em construção civil da base de cálculo do ISS. Vejamos os seguintes trechos:
+O agravante alega, nas razões do especial, que o art. 7º da Lei Complementar n. 116/2003 foi ofendido, pois o ISS deve incidir sobre a totalidade do preço do serviço.
+A negativa de admissibilidade teve por fundamento a Súmula 7/STJ.
+Impugnados os fundamentos da decisão agravada, passo à análise do recurso especial.
+A jurisprudência pátria se firmou no sentido de que o valor relativo ao material empregado na construção civil é dedutível da base de cálculo do ISS.
+A propósito:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ISSQN. CONSTRUÇÃO CIVIL. BASE DE CÁLCULO. DEDUÇÃO DO VALOR DESPENDIDO COM SUBEMPREITADAS. POSSIBILIDADE. QUESTÃO SUBMETIDA A JULGAMENTO PELO STF, EM REGIME DE REPERCUSSÃO GERAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.1. Na forma da jurisprudência desta Corte, "o Supremo Tribunal Federal, por ocasião do julgamento do RE 603.497/MG, sob a sistemática do art. 543-B do CPC, firmou posicionamento de que, mesmo após a entrada em vigor da Lei Complementar 116/2003, é legítima a dedução da base de cálculo do ISS do material empregado na construção civil, e, no julgamento do RE 599.582/RJ, reconheceu que essa orientação também é aplicável aos materiais utilizados nas subempreitadas" (STJ, REsp 1.678.847/MS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 09/10/2017). No mesmo sentido: STJ, AgRg no REsp 1.425.580/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 20/03/2017.2. Agravo interno não provido.(AgInt no AREsp 1273312/ES, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/9/2018, DJe 26/9/2018).
+Portanto, a decisão recorrida está em consonância com o entendimento desta Corte Superior.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial (fl. 246).
+Contudo, no presente agravo interno, o agravante inova em suas alegações,
+sustentando que "no caso, os materiais cuja dedução foi determinada pelo v. acórdão recorrido não foram produzidos fora do local da prestação dos serviços. Tampouco há indicação de que foram fornecidos pelo próprio prestador, como seria de rigor, à luz da jurisprudência tradicional do e. STJ" (fl. 253) e que "o v. acórdão recorrido firmou-se em premissa equivocada, na medida em que aplicou, sem critério, entendimento jurisprudencial que não tem aplicabilidade ao caso, forçoso seja conhecido e provido o recurso especial interposto pelo Município" (fl. 254).
+Ocorre que, nos termos da jurisprudência do Superior Tribunal de Justiça, "não é admissível o agravo interno em que se apresentam teses não expostas no recurso especial. Inovação recursal que impede o conhecimento do recurso" (AgInt no REsp n. 1.989.365/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023).
+Nesse sentido: AgInt nos EDcl no AgInt no AREsp n. 791.090/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023; AgInt nos EDcl no REsp n. 1.808.708/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/6/2023, DJe de 27/6/2023; e AgInt no REsp n. 2.023.909/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022.
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
