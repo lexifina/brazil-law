@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em benefício de LEVY CONCEIÇÃO CUNHA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Agravo em Execução Penal n. 0007694-16.2025.8.26.0496.
+O juízo das execuções determinou a regressão do paciente, que cumpria pena em regime aberto, diretamente para o fechado, em razão da prática de falta disciplinar de natureza grave, bem como ordenou a elaboração de novo cálculo da pena (fls. 65/71).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que foi desprovido, com base no acórdão que restou assim ementado (fl. 9):
+"AGRAVO EM EXECUÇÃO PENAL - Decisão que revogou o regime aberto concedido ante o descumprimento das condições impostas, determinando a regressão do agravante ao regime fechado Recurso defensivo - Agravante que descumpriu, reiteradamente, as condições do regime aberto - Cometimento de falta de natureza grave, autorizadora da regressão a regime prisional mais gravoso - Agravo desprovido."
+No presente writ, a defesa insurge-se contra a regressão de regime imposta, afirmando que a aplicação do regime fechado foi a opção mais gravosa, especialmente por ter apresentado justificativa verossímil às violações identificadas.
+Aduz que o fato de haver deixado de comparecer em juízo, bem como o de mudar de endereço sem autorização, não se mostram plausíveis para, automaticamente, justificar a regressão ao regime fechado.
+Requer a concessão da ordem para "readequar a regressão do Paciente ao regime semiaberto." (fl. 7)
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 84/90).
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+São estes os pertinentes excertos do aresto combatido (fls. 11/16):
+"O agravante foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial semiaberto, por infração ao art. 157, § 2º, inc. II (por duas vezes), c.c. o art. 71, caput, todos do Código Penal (guia de execução de fls. 8/9).
+A progressão ao regime aberto foi concedida aos 15.6.2020, conforme decisão de fls. 10/11, restando estabelecidas as seguintes condições:
+"a) obter trabalho, no prazo de 90 (noventa) dias;
+b) comparecer perante o juízo da execução da comarca em que residir, a cada três meses, para informar e justificar as suas atividades;
+c) não mudar de endereço sem prévia comunicação ao juízo da execução;
+d) Não se ausentar da Comarca em que reside sem prévia autorização do Juízo, salvo se for a trabalho, desde que não exceda a 08 dias, devendo, se necessário, apresentar comprovação documental;
+e) permanecer na sua residência das 22 horas às 6 horas do dia seguinte (durante o repouso). Nos dias em que não trabalhar (dias de folga), deverá permanecer na sua residência em tempo integral;
+f) caberá ao reeducando, no prazo de 30 dias, apresentação na Vara de Execução Criminal de seu domicílio declarado na audiência de advertência, independentemente de intimação".
+De tais condições, o acusado foi devidamente intimado conforme fl. 13.
+Expedido mandado de intimação ao réu com a finalidade de "no prazo de 05 (cinco) dias comparecer neste ofício judicial para iniciar os comparecimentos do regime aberto, sob pena de regressão de regime e expedição de mandado de prisão" (fl. 15), o acusado deixou de ser intimado, uma vez que "mudou-se, e não souberam informar o seu atual paradeiro" (fl. 17 certidão do oficial de justiça datada de 21.10.2022).
+O regime aberto foi sustado cautelarmente (fl. 18), sendo expedido mandado de prisão em desfavor do agravante (fls. 19/20).
+O mandado de prisão foi devidamente cumprido aos 24.2.2024, em Brasília/DF, conforme certidão de fl. 24.
+Após, foi realizada a oitiva do réu nos termos do art. 118, § 2º, da Lei de Execução Penal (fl. 40).
+Ora, a situação revela a frustração dos fins da execução e demonstra que a autodisciplina e a responsabilidade exigidas no regime aberto não foram atendidas pelo reeducando, inviabilizando até mesmo o reconhecimento do período em que o agravado permaneceu descumprindo as condições do regime aberto como de cumprimento de pena, vez que claramente abandonou tal fim.
+Descumprir, no regime aberto, as condições impostas caracteriza-se falta de natureza grave e permanente (art. 50, inc. V, LEP), ensejadora da revogação da benesse e da transferência do acusado ao regime fechado.
+ ..
+Não obstante a argumentação defensiva de que "os comparecimentos no fórum, para assinatura da carteirinha, bem como para qualquer ação relacionada a execução penal, foram retomados apenas em meados de abril de 2022, sob a condição de prévio agendamento. e ele iniciasse o seu comparecimento junto ao juízo da execução penal. Entretanto, neste ponto, não foram tentadas outras formas de localização do Agravante, sendo de plano, já requerido e deferido a sua regressão a regime semiaberto", tem-se que o réu se mudou para outra cidade sem comunicar o juízo, o que poderia ser realizado por meio de seu defensor ou mesmo por meio da Defensoria Pública do Estado de São Paulo.
+Não bastasse, o acusado apenas foi localizado aos 24.2.2024, por força de cumprimento de mandado de prisão, oportunidade em que, há muito, havia sido superada a situação pandêmica, bem como normalizada a possibilidade de comparecimento em juízo.
+Ou seja, o comportamento adotado pelo réu apenas reflete seu descaso com o Poder Judiciário, não obstante gozar do regime menos gravoso para a expiação de sua pena.
+Assim, a r. Decisão deve ser preservada.
+Ante o exposto, pelo meu voto, NEGA-SE PROVIMENTO AO AGRAVO EM EXECUÇÃO, mantendo-se a r. decisão por seu próprios e jurídicos fundamentos."
+Conforme leitura dos trechos transcritos, verifica-se que as instâncias ordinárias, após a análise das provas dos autos, concluíram que o paciente transgrediu as regras do regime aberto, notadamente porque mudou de endereço, passando a residir em outra cidade, sem comunicar ao juízo, mesmo estando ciente dessa vedação.
+Ademais, colhe-se que o paciente somente foi localizado em 24/2/2024, após o cumprimento do mandado de prisão expedido por força da decisão de regressão cautelar, malgrado as atividades forenses, com a superação do período pandêmico, tenha sido retomadas em meados de 2022, permanecendo indiferente às suas obrigações penais durante todo esse período.
+Tal postura nitidamente revela a ausência de responsabilidade e autodisciplina exigidos para o cumprimento da pena no regime mais brando.
+De mais a mais, eventual discussão para mudança das premissas estabelecidas pelas instâncias de origem demandaria revolvimento fático-probatório dos autos, providência inviável em sede de habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. SUBVERSÃO À ORDEM OU A DISCIPLINA E DESOBEDIÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. FALTA COLETIVA AFASTADA. PERDA DE 1/3 DOS DIAS REMIDOS FUNDAMENTADA. RECURSO NÃO PROVIDO.
+1. Conforme orientação jurisprudencial emanada por esta Corte, afastar o reconhecimento da falta, ou até mesmo a sua desclassificação para falta de natureza média ou leve, demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus
+2. Orienta a jurisprudência deste Tribunal que a identificação individual de cada participante na prática da falta disciplinar afasta a alegação de sanção coletiva.
+3. Não há que se falar em ausência de fundamentação na escolha da fração dos dias perdidos, uma vez que o Tribunal de origem, "em razão da gravidade exacerbada da conduta e da reiteração faltosa" (e-STJ fl. 156), declarou perdidos 1/3 dos dias.
+4. Agravo regimental não provido.
+(AgRg no HC n. 858.064/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REEDUCANDO QUE NÃO RETORNOU DA SAÍDA TEMPORÁRIA NA DATA APRAZADA. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. AGRAVO DESPROVIDO.
+1. O atraso no retorno da saída temporária configura falta grave consistente na execução das ordens recebidas (art. 50, da LEP).
+2. Tendo as instâncias ordinárias concluído, de modo fundamentado e com base em elementos concretos, que restou configurada a falta disciplinar de natureza grave, rever esse entendimento a fim de afastar a falta grave ou desclassificar a conduta para infração de natureza média ou leve demandaria incursão na seara fático-probatória, inviável na estreita via do habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 894.560/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+Outrossim, o acórdão questionado está em consonância com o entendimento jurisprudencial desta Corte, firme no sentido de que "é possível a regressão de regime per saltum, no caso de cometimento de falta grave no curso da execução penal, não havendo que se observar a forma progressiva prevista no art. 112 da Lei de Execução Penal" (AgRg no HC n. 740.078/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+No mesmo sentido, citam-se precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. DESNECESSIDADE DE AUDIÊNCIA DE JUSTIFICAÇÃO PARA HOMOLOGAÇÃO DE FALTA GRAVE E REGRESSÃO CAUTELAR. PRÁTICA DE NOVO DELITO. FALTA DISCIPLINAR GRAVE. REGRESSÃO DE REGIME PER SALTUM. POSSIBILIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+2. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018) 3. A Lei de Execução Penal expressamente qualifica a prática de fato previsto como crime doloso como falta grave e admite a regressão de regime diante de tal conduta. Também a jurisprudência desta Corte entende que ainda que não tenha havido o trânsito em julgado da respectiva ação penal, a prática do delito já é suficiente para configuração da falta disciplinar de natureza grave 4. Ademais, tratando-se de cometimento de falta grave no decorrer do cumprimento da pena em regime semiaberto harmonizado ou aberto, a jurisprudência desta Corte autoriza a regressão cautelar de regime, inclusive sem prévia oitiva judicial.
+3. O § 2º do art. 118 da Lei de Execução Penal determina que o condenado seja ouvido previamente na regressão definitiva de regime prisional. Na regressão cautelar, hipótese dos autos, não há tal exigência. (AgRg no HC 680.027/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 23/11/2021, DJe 26/11/2021).
+4. O Superior Tribunal de Justiça adota o entendimento de que é possível a regressão de regime per saltum, no caso de cometimento de falta grave no curso da execução penal, não havendo que se observar a forma progressiva prevista no art. 112 da Lei de Execução Penal. (AgRg no HC n. 740.078/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+5. Agravo regimental não conhecido."
+(AgRg no HC n. 838.020/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESCUMPRIMENTO DAS CONDIÇÕES FIXADAS PARA O RESGATE DE PENA EM REGIME ABERTO/PRISÃO DOMICILIAR. REGRESSÃO CAUTELAR DE REGIME. OITIVA PRÉVIA DO APENADO. PRESCINDÍVEL. REGRESSÃO PER SALTUM. POSSIBILIDADE. PRECEDENTES. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+I- Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II- No caso concreto, diante do descumprimento reiterado das condições fixadas ao cumprimento de pena do agravante, em regime aberto/prisão domiciliar, o que inclusive constitui falta disciplinar, foi determinada a regressão cautelar do apenado ao regime fechado.
+III- No que concerne à regressão cautelar de regime, forçoso concluir-se que este Superior Tribunal de Justiça já firmou o entendimento de que, quando for praticada a falta grave pelo sentenciado, é cabível a regressão cautelar do regime prisional, inclusive sem a oitiva prévia do condenado, que somente é exigida na regressão definitiva ao regime mais severo. Precedentes.
+IV- No mais, vale mencionar que tal fato (falta grave), por si só, quando praticado no curso da execução da pena, autoriza a regressão de regime prisional (em relação ao que anteriormente se encontrava), inclusive, para qualquer dos regimes, sem que configure qualquer desproporcionalidade, mesmo que em típica regressão per saltum. Precedentes.
+V- No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido.
+(AgRg no HC n. 819.508/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE NOVO DELITO NO CURSO DA EXECUÇÃO (POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO). RECONHECIMENTO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. REGRESSÃO DE REGIME PER SALTUM. POSSIBILIDADE. PRECEDENTES. RECURSO DESPROVIDO.
+I. Na espécie, o Agravante cumpre pena total de 7 (sete) anos, 6 (seis) meses e 15 (quinze) dias de reclusão, atualmente no regime fechado, com término previsto para 03/05/2026. O Juízo das Execuções reconheceu a prática de falta grave, haja vista o cometimento de novo delito, bem como determinou a regressão para o regime fechado.
+II. O Superior Tribunal de Justiça adota o entendimento de que é possível a regressão de regime per saltum, no caso de cometimento de falta grave no curso da execução penal, não havendo que se observar a forma progressiva prevista no art. 112 da Lei de Execução Penal. Precedentes.
+III. Agravo regimental desprovido.
+(AgRg no HC n. 740.078/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022.)
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
