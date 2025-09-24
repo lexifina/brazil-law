@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIFERENCIAL DE ALÍQUOTA. ICMS-DIFAL. BASE DE CÁLCULO DO PIS E DA COFINS. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm por objetivo esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, conforme o art. 1.022 do CPC. No caso, o acórdão embargado examinou adequadamente a controvérsia e as alegações do agravo interno, fundamentando a decisão de forma clara e coerente.
+2. A recente afetação da matéria ao regime de recursos repetitivos pelo STJ justifica o sobrestamento do feito, para aguardar o julgamento do paradigma e a submissão da tese ao juízo de conformidade.
+3. Embargos de declaração acolhidos com efeitos infringentes para tornar sem efeito os julgados anteriores e determinar a devolução dos autos à instância de origem, até o exame do paradigma e submissão da tese ao juízo de conformidade.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por NORTE SUL INDÚSTRIA DE MÓVEIS LTDA, contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no recurso especial.
+Eis a ementa do aresto (fl. 385):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 927, III, E 1.309, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211 DO STJ E 282 DO STF, POR ANALOGIA. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO DOS DEMAIS DISPOSITIVOS INVOCADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF, POR ANALOGIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do recurso especial, sob o fundamento de ausência de prequestionamento das matérias suscitadas e inadmissibilidade de recurso, por não demonstrar de forma clara de que modo as normas invocadas teriam sido violadas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o recurso especial pode ser conhecido na ausência de prequestionamento explícito das normas alegadamente violadas, e se o prequestionamento ficto poderia ser aplicado. Outra questão em discussão é se a recorrente demonstrou de forma clara e direta como as normas legais foram violadas ou mal interpretadas pelo acórdão recorrido.
+III. Razões de decidir
+3. O prequestionamento é requisito indispensável para o conhecimento do recurso especial, e não foi observado no caso, pois o tribunal de origem não emitiu juízo de valor sobre as normas alegadamente violadas. O prequestionamento ficto, previsto no art. 1.025 do CPC, não se aplica, pois o recurso especial não indicou violação ao art. 1.022 do CPC.
+4. Incidência do enunciado 284 da Súmula do Supremo Tribunal Federal, por analogia, quando a parte recorrente, apesar de apontar os dispositivos legais, não indica precisamente as razões jurídicas pelas quais considerou violada a norma.
+IV. Dispositivo e tese
+5. Agravo interno desprovido.
+Em suas razões, a embargante afirma que "em 27/05/2025, foi publicado acórdão no Recurso Especial nº 2133516 - PR (2024/0112272-5), proferido por esta Segunda Turma, que reconheceu o caráter infraconstitucional da controvérsia" (fl. 403).
+Assinala que o Supremo Tribunal Federal tem igualmente se posicionado no sentido da natureza infraconstitucional da matéria.
+Requer o acolhimento dos embargos para que sejam sanados a omissão apontada.
+O prazo para impugnação transcorreu in albis (certidão de fl. 413).
+É o relatório.
+EMENTA
+DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIFERENCIAL DE ALÍQUOTA. ICMS-DIFAL. BASE DE CÁLCULO DO PIS E DA COFINS. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Os embargos de declaração têm por objetivo esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, conforme o art. 1.022 do CPC. No caso, o acórdão embargado examinou adequadamente a controvérsia e as alegações do agravo interno, fundamentando a decisão de forma clara e coerente.
+2. A recente afetação da matéria ao regime de recursos repetitivos pelo STJ justifica o sobrestamento do feito, para aguardar o julgamento do paradigma e a submissão da tese ao juízo de conformidade.
+3. Embargos de declaração acolhidos com efeitos infringentes para tornar sem efeito os julgados anteriores e determinar a devolução dos autos à instância de origem, até o exame do paradigma e submissão da tese ao juízo de conformidade.
+VOTO
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do art. 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão embargado, verifica-se que tanto a controvérsia posta no recurso especial como as alegações apresentadas no agravo interno foram adequadamente examinadas, de maneira fundamentada, explicitando ponto a ponto as razões pelas quais o apelo especial não prosperaria.
+Ocorre, contudo, que a pretensão veiculada no recurso especial, consistente na exclusão do ICMS-DIFAL da base de cálculo das contribuições para PIS e COFINS, foi recentemente submetido à sistemática dos recursos repetitivos.
+O julgado produzido pela Primeira Seção do Superior Tribunal de Justiça, no exame da ProAfR no REsp 2174178/SC, sob a relatoria do Ministro Gurgel de Faria, foi assim resumido:
+TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PIS E COFINS. BASE DE CÁLCULO. ICMS-DIFAL. AFETAÇÃO.
+1. A questão jurídica que o Superior Tribunal de Justiça deve resolver é se o Diferencial de Alíquotas do ICMS (ICMS-DIFAL) deve ser incluído na base de cálculo das contribuições para Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS).
+2. Tese controvertida: definir se a contribuição ao Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS) incidem sobre o ICMS-DIFAL (Diferencial de Alíquotas do Imposto sobre a Circulação de Mercadorias e Serviços).
+3. Afetação do recurso especial como representativo da controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.174.178/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 12/8/2025, DJEN de 19 /8/2025.)
+Na ocasião foi determinado o sobrestamento dos feitos que tratassem da mesma hipótese.
+A possibilidade de que o julgamento do recurso possa impactar a solução deste e de outros casos semelhantes tem levado os Ministros componentes da Primeira Seção a determinar a devolução dos autos à instância de origem para aguardar a solução do caso. Nesse sentido, cito recentes decisões monocráticas de ambas as Turmas: AREsp n. 2.765.369, Ministro Paulo Sérgio Domingues, DJe de 04/11/2024; RCD no REsp n. 2.126.968, Ministro Gurgel de Faria, DJe de 29/10/2024; REsp n. 1.685.300, Ministro Teodoro Silva Santos, DJe de 09/08/2024.
+Ainda sobre a hipótese, veja-se e ementa do acórdão exarado no REsp 729414/CE, sob a relatoria do Ministro Teodoro Silva Santos, in verbis:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. INCIDÊNCIA DA COFINS SOBRE ATOS COOPERATIVOS. JUÍZO DE CONFORMAÇÃO FEITO PELA SEGUNDA TURMA EM RAZÃO DO JULGAMENTO DOS TEMAS 177 E 323 DO STF. ATOS COOPERATIVOS ATÍPICOS, REALIZADOS PELA COOPERATIVA COM TERCEIROS. PENDÊNCIA DE JULGAMENTO PELO STF DO TEMA 536. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR OPORTUNO JUÍZO DE CONFORMAÇÃO.
+1. Está pendente de julgamento perante o Supremo Tribunal Federal a questão acerca da "possibilidade de lei dispor sobre a incidência, ou não, de COFINS, PIS e CSLL sobre o produto de ato cooperado ou cooperativo em face dos conceitos constitucionais relativos ao cooperativismo: "ato cooperativo", "receita da atividade cooperativa" e "cooperado"" (RE 672.215-RG/CE - Tema 536).
+2. Em situações análogas, as Turmas integrantes da Primeira Seção têm adotado a sistemática de devolver os autos à origem, para que lá se faça o juízo de conformação, depois do julgamento do tema afetado em repercussão geral pelo Supremo Tribunal Federal, em especial atenção aos princípios processuais da economia, celeridade e efetividade, evitando, ainda, decisões discrepantes entre a Suprema Corte e este Superior Tribunal de Justiça. Precedentes.
+3. Vale ressaltar que, consoante o disposto no art. 1.041, § 2º, do Código de Processo Civil, ultimadas essas providências, caberá - se for o caso - o reencaminhamento do recurso especial a este Superior Tribunal de Justiça, independentemente de ratificação, para análise de demais questões jurídicas que, eventualmente, não fiquem prejudicadas pelo juízo de conformação do acórdão recorrido com o precedente vinculante a ser exarado pelo Supremo Tribunal Federal no julgamento do tema de repercussão geral ou, ainda, pelo novo pronunciamento do Tribunal de origem.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores e determinar a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no julgamento do Tema 536 do STF, seja observado, ato contínuo, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+(EDcl no REsp n. 729.414/CE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2024, DJe de 3/9/2024.)
+Por considerar que a hipótese se amolda ao caso em exame e que, como dito, o seu debate é prejudicial à análise da insurgência, reputo oportuno determinar o sobrestamento do recurso até o julgamento dos paradigmas e submissão da tese principal ao juízo de conformidade.
+As questões jurídicas que não ficarem prejudicadas pelo novo pronunciamento poderão ser submetidas ao exame do Superior Tribunal de Justiça, consoante dispõem os arts. 1.039, 1.040 e 1.041, § 2º, do Código de Processo Civil.
+Diante do exposto, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito o acórdão embargado e a decisão anterior, produzidos às fls. 356-363 e 385-398, bem como determinar o retorno dos autos ao tribunal de origem, com a devida baixa, a fim de que, após a publicação do acórdão paradigma, realize o juízo de adequação, conforme disposto nos artigos 1.039 a 1.041 do Código de Processo Civil.
+É como voto.
