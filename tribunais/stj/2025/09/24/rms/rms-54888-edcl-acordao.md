@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC vigente, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", vícios não verificados no aresto ora embargado.
+2. Hipótese em que o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIO SERGIO SANT"ANNA GONÇALVES e OUTROS contra acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, que se encontra assim ementado (fls. 776-777):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRETERIÇÃO DE CANDIDATOS. INEXISTÊNCIA. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, mandado de segurança em que os impetrantes pleiteiam o direito a participação no curso de formação e, por conseguinte, o direito à nomeação.
+2. O Tribunal de origem indeferiu a inicial, ao entender que inexiste direito líquido e certo dos impetrantes, ao decidir que " ..  a própria Administração Pública, uma vez constada a irregularidade em relação ao critério de alternância, já tomou as medidas necessárias voltadas à anulação administrativa das nomeações feitas irregularmente, isto é, aquelas realizadas acima do percentual das vagas reservadas aos candidatos deficientes, assegurada a ampla defesa e o contraditório".
+3. Nesta Corte, decisão que negou provimento ao recurso ordinário em mandado de segurança.
+4. In casu, quanto à tese de preterição na nomeação dos candidatos, a parte recorrente deixou de impugnar fundamento do acórdão recorrido suficiente, por si só, para dar suporte à conclusão do Tribunal de origem.
+5. A jurisprudência desta Corte está pacificada no sentido de que não há de se falar em direito líquido e certo à nomeação se ainda houver tempo de validade do concurso (mesmo que o candidato esteja aprovado dentro do número de vagas, como no caso da recorrente), pois, em tais situações, subsiste discricionariedade à Administração Pública para efetivar a nomeação.
+6. Agravo interno desprovido.
+Nas razões do recurso, a parte Embargante alega a inaplicabilidade da Súmula n. 283 do STF, pois " ..  tal conclusão é indevida e contradiz expressamente o conteúdo do recurso apresentado, no qual se impugnou de forma clara, direta e fundamentada a totalidade dos fundamentos adotados no acórdão recorrido, incluindo o trecho específico do item 4.2 do voto anterior, que trata justamente da preterição e da violação aos princípios da Administração Pública. " (fl. 793).
+Afirma ainda que há direito líquido e certo à nomeação, ao aduzir que "o caso em análise não trata de mera expectativa de direito ou de conveniência administrativa, mas sim de flagrante preterição de candidatos aprovados dentro do número de vagas, em violação direta ao edital e aos princípios constitucionais que regem a Administração Pública" (fl. 794).
+Requer, assim, o acolhimento dos declaratórios, com efeitos infringentes.
+Intimada, a parte apresentada deixou de apresentar impugnação (fl. 808 ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC vigente, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", vícios não verificados no aresto ora embargado.
+2. Hipótese em que o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+3. Embargos de declaração rejeitados.
+VOTO
+De início, nos termos do art. 1.022 do CPC vigente, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material". Ocorre que tais vícios não são verificados no aresto ora embargado.
+O acórdão embargado, fundamentadamente, negou provimento ao agravo interno nestes termos, no que interessa (fls. 778-782):
+Conforme disposto na decisão agravada, o acórdão recorrido, quanto à tese de preterição na nomeação dos candidatos, está assentado no seguinte fundamento, suficiente, por si só, para dar suporte à conclusão do Tribunal de origem: " ..  a própria Administração Pública, uma vez constada a irregularidade em relação ao critério de alternância, já tomou as medidas necessárias voltadas à anulação administrativa das nomeações feitas irregularmente, isto é, aquelas realizadas acima do percentual das vagas reservadas aos candidatos deficientes, assegurada a ampla defesa e o contraditório" (fl. 490). A parte recorrente, no entanto, deixou de impugnar o referido fundamento.
+Portanto, incide o óbice da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023 DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+ ..
+Quanto à tese recursal referente à necessidade de nomeação dos candidatos aprovados no número de vagas, conforme destacado na decisão impugnada, "a jurisprudência deste Tribunal Superior está pacificada no sentido de que não há falar em direito líquido e certo à nomeação se ainda houver tempo de validade do concurso (mesmo que o candidato esteja aprovado dentro do número de vagas, como no caso da recorrente), pois, em tais situações, subsiste discricionariedade à Administração Pública para efetivar a nomeação" (RMS n. 61.240/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2019).
+Como se vê, o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Diante desse contexto, observa-se que não há qualquer omissão, contradição, obscuridade ou erro material perpetrado pelo acórdão embargado, revelando-se, assim, o nítido propósito de reexame da matéria, incabível na via dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
