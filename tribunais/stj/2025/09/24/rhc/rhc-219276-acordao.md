@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. HISTÓRICO CRIMINAL DO AGENTE. CONDENAÇÕES PRETÉRITAS POR CRIMES GRAVES. CUMPRIMENTO DE PENA EM REGIME SEMIABERTO QUANDO DA NOVA PRÁTICA DELITIVA. REITERAÇÃO DELITIVA EVIDENCIADA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Diego Ferreira da Silva contra o acórdão proferido pelo Tribunal de Justiça de Alagoas no HC n. 0805472-44.2025.8.02.0000, assim ementado (fl. 90):
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus com pedido de liminar impetrado contra decisão que decretou a prisão preventiva do paciente, pela suposta prática dos crimes previstos no art. 33, caput, da Lei 11.343/2006 (tráfico de drogas) e no art. 14 da Lei 10.826/2003 (porte ilegal de arma de fogo).
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em avaliar a legalidade da prisão preventiva decretada contra o paciente, sob a alegação de ausência de fundamentação concreta quanto aos requisitos dos arts. 312 e 313 do Código de Processo Penal, e a viabilidade da substituição da custódia por medidas cautelares diversas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva possui natureza excepcional e exige, nos termos do art. 312 do CPP, demonstração concreta de sua necessidade, mediante fatos contemporâneos que indiquem risco à ordem pública, à instrução criminal ou à aplicação da lei penal.
+4. A decisão que decretou a prisão preventiva apresenta fundamentação concreta, lastreada na apreensão de entorpecentes (maconha e cocaína), arma de fogo com munições e objetos relacionados ao tráfico, configurando elementos suficientes de materialidade e indícios de autoria.
+5. A segregação cautelar fundamenta-se também na periculosidade do agente, evidenciada por seu histórico de condenações por crimes graves (homicídio e tráfico de drogas) e pelo fato de estar em cumprimento de pena em regime semiaberto, o que indica risco de reiteração delitiva.
+6. A argumentação defensiva quanto à ausência de periculum libertatis e à suficiência de cautelares diversas da prisão não se sustenta diante dos elementos concretos presentes nos autos.
+IV. DISPOSITIVO
+7. Habeas corpus denegado.
+Nas razões recursais, sustenta a defesa, em síntese: (i) inexistência de fundamentação idônea para a manutenção da custódia cautelar; (ii) ausência dos requisitos do art. 312 do CPP; (iii) fundamento baseado na mera gravidade abstrata do delito; e (iv) antecipação indevida da sanção penal; (v) suficiência das medidas cautelares alternativas do art. 319 do CPP.
+Postula a concessão liminar do habeas corpus, com a finalidade de revogar/relaxar a prisão cautelar decretada na origem, expedindo-se o pertinente alvará de soltura em favor do paciente para cumprimento imediato na unidade prisional onde se encontra. Ao final, escoado o prazo com ou sem as informações da autoridade coatora e depois de colhido o parecer da douta Procuradoria da República, requer o provimento do recurso, confirmando-se a medida liminar, com a concessão definitiva da ordem de habeas corpus em favor do paciente, nos termos do art. 5º, incisos LXVIII e LXXVIII, da Constituição Federal (fl. 113).
+Em 15/7/2025, o pedido liminar foi indeferido (fls. 125/126).
+Prestadas as informações (fls. 133/135 e 143/144), o Ministério Público Federal opinou, às fls. 150/163, pelo não provimento do recurso.
+É o relatório.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. HISTÓRICO CRIMINAL DO AGENTE. CONDENAÇÕES PRETÉRITAS POR CRIMES GRAVES. CUMPRIMENTO DE PENA EM REGIME SEMIABERTO QUANDO DA NOVA PRÁTICA DELITIVA. REITERAÇÃO DELITIVA EVIDENCIADA. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
+VOTO
+A insurgência recursal não comporta provimento.
+Pelo que se extrai dos autos, tanto a decisão de primeiro grau quanto o acórdão impugnado encontram-se devidamente fundamentados em dados concretos e contemporâneos, afastando-se a alegada carência de motivação idônea. Conforme ressaltado pelo Tribunal a quo, o histórico criminal do agente, que revela condenações pretéritas por crimes graves, notadamente homicídio e tráfico de drogas, bem como fato de que veio a praticar novo fato delituoso durante o cumprimento de pena em regime semiaberto (progressão concedida em outubro de 2024), configuram indícios relevantes de reiteração delitiva e evidenciam a inadequação das medidas menos gravosas para acautelar a ordem pública.
+Vê-se, portanto, que a prisão preventiva foi decretada para garantia da ordem pública, em virtude da reiteração delitiva constatada, o que está em consonância com os precedentes deste Tribunal. Nesse sentido: AgRg no HC n. 877.528/MS, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 11/6/2024, DJe de 14/6/2024; AgRg no HC n. 841.043/BA, de minha relatoria, Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024; e AgRg no HC n. 786.760/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.
+Com efeito, o fato de o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquérito ou mesmo ações penais em curso constitui fundamento idôneo e suficiente para justificar a prisão preventiva do acusado, por demonstrar sua periculosidade e risco concreto de reiteração delitiva (AgRg no HC n. 971.661/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Ademais, como destacado pelo Ministério Público Federal, a alegação recursal de ausência de fundamentação idônea da decisão que decretou a segregação cautelar e daquela que a manteve não merece prosperar, pois a necessidade da preventiva restou devidamente demonstrada nos autos, tendo entendido as instâncias ordinárias que a custódia se impunha para garantir a ordem pública, ressaltando a existência de indícios suficientes de autoria e prova da materialidade, bem como a gravidade concreta do crime imputado e o risco de reiteração delitiva, evidenciados pela apreensão de arma de fogo, munições e elevada quantidade e variedade de entorpecentes em poder do réu que, mesmo em cumprimento de pena e utilizando tornozeleira eletrônica, voltou a delinquir. Foi salientado, ainda, que o recorrente havia sido beneficiado com progressão de regime executivo em outubro de 2024, mas, ao reincidir no ilícito, revelou ter personalidade voltada para a prática delitiva e a insuficiência das medidas cautelares diversas, de forma que a constrição corporal se encontra bem justificada (fl. 160 - grifo nosso).
+Inexiste, pois, constrangimento ilegal a ser reparado.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
