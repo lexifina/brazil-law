@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO EM RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO. MANIFESTA INTEMPESTIVIDADE.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido. Prejudicada a análise da Petição n. 670.927/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RODRIGO MONTARROYOS PEREIRA contra a decisão da Presidência desta Corte que não conheceu do agravo intempestivo (fls. 736/737).
+A parte agravante alega a tempestividade recursal, argumentando que comprovou oportunamente a suspensão dos prazos por meio da juntada dos Atos Normativos n. 022/2025 e 023/2025, com fé pública e dentro do prazo legal. Ademais, a contagem recursal foi diretamente influenciada por atos normativos, exarados pelo Tribunal de Justiça de origem, de suspensão dos prazos processuais (fl. 744):
+- Recesso forense entre 20/12/2024 a 20/01/2025 (art. 798-A do CPP);
+- Suspensão dos prazos nos dias 29, 30 e 31/01/2025, conforme Atos Normativos nº 022/2025 e 023/2025 do TJES, devidamente juntados aos autos.
+Diz que (fls. 745/746):
+O Ato Normativo nº 022/2025 do TJES suspendeu formalmente os prazos processuais nos dias 29 e 30/01/2025, e o Ato nº 023/2025 estendeu essa suspensão para o dia 31/01/2025, sendo inadmissível desconsiderar tal interrupção sob a justificativa de que não coincidiu com o início ou fim do prazo, como indevidamente aplicou a decisão agravada com base no art. 224 do CPC, o qual trata de indisponibilidades técnicas pontuais  não de suspensões normativas formais.
+No presente caso, todos os documentos comprobatórios da suspensão foram devidamente juntados com o recurso, observando fielmente os requisitos exigidos pela jurisprudência.
+Requer, ainda, concessão de habeas corpus de ofício, nos termos da jurisprudência do STJ e do STF, para:
+I- Reconhecer a aplicação do tráfico privilegiado (art. 33, §4º, da Lei nº 11.343/06), com a consequente redução da pena;
+II - Decretar a absolvição do recorrente pelo crime de desobediência (art. 330 do CP), por ausência de dolo específico e atipicidade da conduta, nos termos da jurisprudência dominante (fl. 750).
+Apresenta na Petição n. 670.927/2025 (fls. 757/771) novo agravo regimental, repisando a mesma argumentação da insurgência anterior (fls. 741/755).
+A Subprocuradoria-Geral da República opinou pela intimação do Ministério Público do Espírito Santo para contrarrazoar o agravo regimental (fl. 786).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO EM RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO. MANIFESTA INTEMPESTIVIDADE.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido. Prejudicada a análise da Petição n. 670.927/2025.
+VOTO
+Inicialmente, não conheço do agravo regimental constante da Petição n. 670.927/2025 (fls. 757/771), em razão da preclusão consumativa que se operou com a interposição do primeiro recurso, constante da Petição n. 670.340/2025 (fls. 741/755), ora em apreciação.
+Ao que se observa, já foi oportunizado ao agravado se manifestar, na origem, quanto ao conteúdo da pretensão deduzida no agravo em recurso especial. Ademais, é assente o entendimento nesta Corte no sentido de inexistência de previsão regimental acerca de intimação da parte contrária para manifestar-se quanto ao conteúdo do agravo regimental (AgRg no HC n. 584.211/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 9/10/2020).
+Assim, a despeito da intimação pessoal do Ministério Público Federal para se manifestar como fiscal da lei, este optou por requerer a intimação do Parquet estadual, ocorrendo a preclusão consumativa com a sua manifestação de fl. 786, ante a necessidade de salvaguardar a celeridade processual, além da falta de utilidade no pronunciamento do órgão acusador no presente caso, em que a decisão será mantida.
+No mais, a decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+O recurso especial é manifestamente intempestivo, uma vez que interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VI, c/c o art. 1.003, § 5º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+No caso, conforme consignado na decisão agravada, a parte agravante foi intimada da decisão em 19/12/2024, sendo o agravo somente interposto em 5/2/2025, quando já havia escoado o prazo para a sua interposição.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Ademais, percebeu-se, no STJ, haver irregularidade quanto à tempestividade do recurso. A parte, embora regularmente intimada para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual, não cumpriu a determinação.
+Nos termos do art. 224 do CPC, a indisponibilidade de comunicação eletrônica e/ou início tardio ou o encerramento antecipado do expediente forense, só influenciará no prazo processual caso coincida com o começo do prazo (art. 231, V do CPC) ou com final deste, não sendo esta a hipótese dos autos.
+De outro lado, a aplicação subsidiária do CPC ao rito criminal ocorre apenas quando há omissão de previsão específica. Assim, a contagem em dias úteis prevista no art. 219 do CPC não se aplica aos processos criminais em razão da disposição específica do art. 798 do CPP, ou seja, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos.
+Portanto, se não há suspensão nos sábados e domingos, muito menos nos casos em que ocorra feriados ou suspensões no meio do prazo recursal, à exceção do art. 798-A do CPP.
+Ainda que assim não fosse, o Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos (fls. 679/682 - grifo nosso):
+- art. 33, § 4º da Lei n. 11.343/2006: Súmulas 7 e 83 do STJ:
+4.  ..  desconstituir as conclusões alcançadas pelo Tribunal de origem, com fundamento em exame exauriente do conjunto fático-probatório carreado aos autos, no intuito de abrigar a pretensão defensiva de incidência da minorante do tráfico privilegiado, com base na alegada não dedicação do recorrente a atividades criminosas, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial.
+Incidência da Súmula n. 7/STJ (AgRg no AREsp n. 1.812.378/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/4/2021).
+5. Agravo regimental desprovido." (STJ, AgRg no AREsp n. 2.007.561/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2024, DJe de 20/5/2024)
+- art. 40, III, da Lei n. 11.343/2006 (dosimetria): Súmulas 7/STJ e acórdão no mesmo sentido do STJ:
+2. A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito (AgRg no AREsp 864.464/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/5/2017).
+ ..
+4. "Inexistente erro ou ilegalidade na dosimetria da pena aplicada ao agravante, a desconstituição do entendimento firmado pelas instâncias ordinárias que, diante das peculiaridades do caso concreto, destacaram fundamentação idônea para majorar a pena-base do recorrente, incide à espécie o enunciado n. 7 da Súmula/STJ, verbis: A pretensão de simples reexame de prova não enseja recurso especial" (AgRg no AREsp 1598714/SE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 29/6/2020).
+6 . Agravo regimental desprovido. (STJ: AgRg no REsp n. 1.985.287/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/4/2022, DJe de 7/4/2022.)
+- Absolvição: Súmula 284/STF (deficiência na fundamentação - sem indicação de dispositivo legal violado ou objeto de divergência interpretativa pelo Aresto hostilizado (fl. 682)).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou especificamente a aplicação da Súmula 83/STJ, limitando-se a argumentar, de maneira genérica, o descabimento dos verbetes sumulares 7/STJ e 284/STF.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Vale lembrar que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+Na espécie, em relação à Súmula 7/STJ, a parte agravante não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria possível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC, c/c o art. 3º do CPP).
+Ilustrativamente: AgRg no AREsp n. 2.364.704/PR, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023; e AgRg no AREsp n. 2.198.230/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/8/2023.
+No tocante à aplicação da Súmula 284/STF, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira suficiente, o referido fundamento, uma vez que não demonstrou em suas razões recursais a inadequação do óbice elencado, deixando de transcrever os trechos do apelo nobre em que indicou a forma que o acórdão atacado violou os dispositivos legais (grifo nosso).
+A despeito do esforço argumentativo do impetrante, é descabido postular a concessão de habeas corpus de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção  ..  (AgRg no REsp n. 2.037.768/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/2/2023 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental. Resta prejudicada a análise da Petição n. 670.927/2025 (fls. 757/771).
