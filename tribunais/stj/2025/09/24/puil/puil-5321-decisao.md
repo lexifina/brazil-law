@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal deduzido por ALESSANDRA CARDOSO CAMARGO, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, impugnando acórdão da 5ª Turma Recursal de Fazenda Pública do Tribunal de Justiça do Estado de São Paulo que, no julgamento do (fl. 549):
+DIREITO ADMINISTRATIVO. RECURSO INOMINADO. INFRAÇÕES DE TRÂNSITO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RECURSO DESPROVIDO.
+I. Caso em Exame
+O autor, ora recorrido, cometeu infrações de trânsito em agosto e dezembro de 2020. Processos administrativos foram instaurados em agosto de 2024 para apurar eventual penalidade de suspensão do direito de dirigir.
+II. Questão em Discussão
+A questão em discussão consiste em determinar se houve prescrição da pretensão punitiva da Administração Pública para aplicar penalidades de trânsito.
+III. Razões de Decidir
+O art. 282, §§ 6º e 7º do Código de Trânsito Brasileiro refere-se à decadência do direito de aplicar penalidades, mas a prescrição da ação punitiva é regida pela Lei 9.873/99, que estabelece prazo de cinco anos.
+No caso em questão, o prazo de cinco anos para a prescrição da pretensão punitiva não foi atingido, considerando as datas das infrações e a instauração dos processos administrativos.
+IV. Dispositivo e Tese
+Recurso desprovido.
+Tese de julgamento:
+1. A prescrição da pretensão punitiva para infrações de trânsito é de cinco anos, conforme Lei 9.873/99.
+2. O prazo não foi atingido no caso em questão, não havendo decadência.
+Alega o requerente violação do art. 282, § 6º, inciso II, do CTB, porque o prazo para expedição da notificação da penalidade de suspensão do direito de dirigir é de 180 dias, ou 360 dias caso haja defesa prévia, contados da conclusão do processo administrativo da infração que deu origem à penalidade. Sustenta que o Detran/SP ultrapassou esse prazo, configurando a decadência do direito de punir da Administração Pública.
+Aponta divergência entre o entendimento do Colégio Recursal de São Paulo, que aplicou o prazo prescricional de 5 anos com base na Lei n. 9.873/1999, e o entendimento do Colégio Recursal do Mato Grosso do Sul, que reconheceu o prazo decadencial de 180 ou 360 dias, conforme previsto no art. 282, § 6º, inciso II, do CTB. Afirma que essa divergência compromete a segurança jurídica e a isonomia.
+O requerente pleiteia o provimento do pedido, para que seja fixada a seguinte tese (fls. 16-17):
+Não havendo a notificação da penalidade nos procedimentos administrativos de suspensão ou cassação do direito de dirigir dentro do prazo de 180 dias, caso não tenha sido apresentada defesa prévia, ou de 360 dias, caso tenha havido a apresentação de defesa prévia, contados da data de encerramento do processo administrativo da penalidade de multa que deu origem ao processo de suspensão ou cassação, impõe-se o reconhecimento da decadência do direito de punir, nos termos do art. 282, § 6º, incisos I e II, e § 7º, do Código de Trânsito Brasileiro.
+Em consequência do posicionamento firmado, seja aplicada a referida tese ao caso concreto aqui discutido, procedendo-se à declaração da decadência de se aplicar a penalidade de suspensão do direito de dirigir a ser instaurada em face da Requerente ante a ocorrência da decadência por não ter sido expedida a notificação de penalidade no prazo máximo de 360 dias.
+Contrarrazões às fls. 571-585.
+É o relatório.
+Decido.
+O pedido não ultrapassa o juízo de admissibilidade, na medida em que a parte requerente não demonstrou a alegada divergência, por meio do indispensável cotejo analítico entre o acórdão impugnado e os paradigmas, limitando-se a transcrever em uma tabela trechos do paradigma com suas considerações, insuficientes para demonstrar as circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa, em desacordo com as normas legais e regimentais de regência.
+Com efeito, compulsando os autos, verifica-se que o requerente não comprovou o alegado dissídio interpretativo consoante o disposto no art. 1.029, § 1º, do Código de Processo Civil e no art. 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça - aplicável ao PUIL, por analogia -, na medida em que não procedeu ao necessário cotejo analítico dos casos comparados.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2 001. AUSÊNCIA DE COTEJO ANALÍTICO. PEDIDO NÃO CONHECIDO.
+1. Nos termos do art. 14, § 4º, da 10.259/2001, o cabimento do incidente perante o STJ se dará nas hipóteses de decisão colegiada que examina questão de direito material, a qual esteja em confronto com súmula ou jurisprudência dominante do STJ. Para tanto, faz-se necessária a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, com a realização do cotejo analítico entre eles (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+2. Na espécie, a requerente não procedeu ao cotejo analítico entre os acórdãos confrontados. Também não fez prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, requisitos indispensáveis para o processamento e conhecimento do referido incidente de uniformização.
+3. Agravo interno não provido.
+(AgInt no PUIL n. 760/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 31/3/2020, DJe de 2/4/2020; sem grifo no original.)
+Cumpre observar que:
+ ..  a ausência de demonstração da divergência alegada no recurso uniformizador constitui claramente vício substancial resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação da fundamentação, possível apenas em relação a vício estritamente formal, nos termos do Enunciado Administrativo 6/STJ (AgRg nos EREsp n. 1.743.945/PR, relator Ministro Herman Benjamin, Corte Especial, DJe de 20/11/2019).
+No mesmo diapasão, ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE DEMONSTRAÇÃO E COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. INOBSERVÂNCIA DOS REQUISITOS LEGAIS E REGIMENTAIS. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão, publicada na vigência do CPC/2015, que não conheceu do Pedido de Uniformização de Interpretação de Lei.
+II. Na forma da jurisprudência do STJ, o Incidente de Uniformização dirigido a esta Corte Superior é cabível contra decisão colegiada da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ, exigindo-se a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelo art. 1.029, § 1º, do CPC/2015 e do 255, § 1º, do RISTJ, aplicáveis, por analogia. Precedentes do STJ.
+III. A Corte Especial desta Corte já decidiu que "a ausência de demonstração da divergência alegada no recurso uniformizador constitui claramente vício substancial resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação da fundamentação, possível apenas em relação a vício estritamente formal, nos termos do Enunciado Administrativo 6/STJ" (STJ, AgRg nos EREsp 1.743.945/PR, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 20/11/2019). Em igual sentido: STJ, AgInt nos EAREsp 419.394/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 14/06/2019; AgInt nos EREsp 1.455.459/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, DJe de 09/12/2019.
+IV. Agravo interno improvido.
+(AgInt no PUIL 889/RS, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 03/11/2022; sem grifo no original.)
+Se não bastasse, a análise das alegações trazidas, referentes a prazos que teriam ou não sido observados no procedimento administrativo, demandaria o reexame de matéria fática, desiderato que não se coaduna com a via eleita.
+Com igual entendimento:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. TESE EMBASADA NA EXISTÊNCIA DE DEPENDÊNCIA ECONÔMICA. CIRCUNSTÂNCIA CUJA VERIFICAÇÃO, NO CASO, DEPENDE DO REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+I. Na origem, trata-se de Ação Ordinária em que a parte autora pleiteia a declaração de dependência de seu ex-companheiro, com sua habilitação no benefício de pensão por óbito e rateio proporcional, além do pagamento retroativo das respectivas parcelas.
+ ..
+V. Como se vê, o exame da tese deduzida pela parte requerente exige o reexame de matéria fático-probatória, o que não se admite no Pedido de Uniformização. Nesse sentido: "o pedido de uniformização de interpretação de lei destina-se a dirimir teses jurídicas de direito material conflitantes, e não a reexaminar as premissas fáticas delineadas no acórdão impugnado para aplicar o melhor direito à espécie" (STJ, AgInt no PUIL 2.768/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 21/11/2022). E ainda: STJ, AgInt no PUIL 929/MA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 06/05/2019.
+VI. Agravo interno improvido.
+(AgInt no PUIL n. 3.516/DF, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 19/9/2023, DJe de 22/9/2023; sem grifos no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 42 DA TNU. SÚMULA N. 7 DO STJ.
+I - Trata-se de mandado de segurança impetrado em desfavor de decisão proferida pelo Presidente da TNU que inadmitiu o pedido de uniformização suscitado pelo impetrante. Na sentença, o pedido foi julgado indeferido. No Tribunal a quo, a sentença foi mantida.
+ ..
+V - Ademais, eventual alteração do julgado representaria reexame do conjunto fático-probatório, o que é vedado no âmbito do Incidente de Uniformização, nos termos da Súmula n. 42 da Turma Nacional de Uniformização ("Não se conhece de incidente de uniformização que implique reexame de matéria de fato."), bem como da Súmula n. 7 do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial.") e da Súmula n. 279 do Supremo Tribunal Federal ("Para simples reexame de prova não cabe recurso extraordinário."), aplicáveis por analogia às Turmas de Uniformização. Para ilustrar: AgInt no PUIL n. 929/MA, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 6/5/2019; AgInt no PUIL n. 546/AC, relator Ministro Sérgio Kukina, Primeira Seção, DJe 1º/4/2019.
+VI - Agravo interno improvido.
+(AgInt no PUIL n. 2.389/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 3/5/2022, DJe de 5/5/2022; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do pedido.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. SUSPENSÃO DO DIREITO DE DIRIGIR. ALEGADA DECADÊNCIA. APONTADO DISSÍDIO COM JULGADO DE TURMA RECURSAL DE OUTRO ESTADO. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. INOBSERVÂNCIA DOS REQUISITOS LEGAIS E REGIMENTAIS. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. QUESTÃO QUE DEMANDA, ADEMAIS, REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. PRECEDENTES DO STJ. PEDIDO NÃO CONHECIDO.
