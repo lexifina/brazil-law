@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ XAVIER DE BARROS e CASSIA ADRIANA DA SILVA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de ofensa aos arts. 28, § 1º, da Lei n. 9.069/1995 e 46, caput, da Lei n. 10.931/2004; na incidência da Súmula n. 7 do STJ; e na falta de demonstração de similitude fática entre o acórdão recorrido e o acórdão paradigma.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação revisional de contrato c/c pedido de tutela de urgência.
+O julgado foi assim ementado (fl. 190):
+AÇÃO REVISIONAL DE CONTRATO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. Preliminar de cerceamento de defesa afastada. Disposição contratual clara ao prever a incidência de correção monetária das parcelas com a aplicação do IGP-M. Ausência de óbice à aplicação do índice com periodicidade mensal. Abusividade inexistente. Demais cláusulas sequer impugnadas de forma específica em sede recursal. Sentença de improcedência mantida. Recurso desprovido.
+Não foram opostos embargos de declaração.
+No recurso especial, os agravantes apontam, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 28, § 1º, da Lei n. 9.069/1995, porque exige que a periodicidade do reajuste decorrente da correção monetária seja anual, sendo nula qualquer estipulação de periodicidade inferior a 1 ano;
+b) 46, caput, da Lei n. 10.931/2004, pois a norma se aplica apenas a contratos celebrados com prazo mínimo de 36 meses, não sendo aplicável ao contrato em questão, que possui prazo superior.
+Sustenta que o Tribunal de origem, ao decidir que, nos contratos com prazo superior a 36 meses, é permitida a correção monetária mensal, divergiu do entendimento consolidado no REsp n. 1.811.170/SP, no AREsp n. 738.840/SC, nos EDcl no AgRg no Ag n. 1.347.640/RS e no AgRg no REsp n. 1.186.761/MS, que vedam a aplicação de correção monetária com periodicidade inferior a 1 ano.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, declarando-se a nulidade da cláusula contratual que prevê a correção monetária mensal, com a consequente aplicação da periodicidade anual, além da restituição dos valores pagos indevidamente.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento, tendo em vista a ausência de demonstração de violação dos arts. 28, § 1º, da Lei n. 9.069/1995 e 46, caput, da Lei n. 10.931/2004; a incidência da Súmula n. 7 do STJ; e a falta de demonstração de dissídio jurisprudencial. Requer o não conhecimento do recurso e, caso dele se conheça, seu desprovimento, com a majoração da verba sucumbencial.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de revisão de contrato c/c pedido de tutela de urgência em que a parte autora pleiteou a declaração de nulidade de cláusulas contratuais, a substituição do índice de correção monetária IGP-M pelo IPCA com periodicidade anual, a readequação do saldo devedor e das parcelas restantes e a devolução em dobro dos valores pagos indevidamente.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, reconhecendo a validade das cláusulas contratuais e condenando os autores ao pagamento das custas processuais e honorários advocatícios de 10% sobre o valor da causa, observada a gratuidade da justiça.
+A Corte estadual manteve integralmente a sentença, entendendo que não houve abusividade na aplicação do índice IGP-M com periodicidade mensal, conforme previsto no contrato, e que não foi demonstrado prejuízo ou vício de consentimento.
+O recurso não merece provimento.
+Com relação ao art. 28, § 1º, da Lei n. 9.069/1995, trata-se de norma não aplicável à espécie, uma vez que o contrato em debate foi celebrado já na vigência da Lei n. 10.931/2004, que permite a periodicidade mensal da correção monetária nos contratos com prazo superior a 36 meses.
+No que se refere ao art. 46, caput, da Lei n. 10.931/2004, a parte agravante faz leitura equivocada da norma, pois o texto legal, ao se referir a contratos "com prazo mínimo de trinta e seis meses", inclui no seu âmbito de incidência justamente os negócios jurídicos de execução diferida cujo parcelamento tenha sido ajustado de 36 meses (mínimo) acima, e não abaixo.
+Com efeito, veja-se o texto da norma em questão:
+Art. 46. Nos contratos de comercialização de imóveis, de financiamento imobiliário em geral e nos de arrendamento mercantil de imóveis, bem como nos títulos e valores mobiliários por eles originados, com prazo mínimo de trinta e seis meses, é admitida estipulação de cláusula de reajuste, com periodicidade mensal, por índices de preços setoriais ou gerais ou pelo índice de remuneração básica dos depósitos de poupança.
+Caso a interpretação correta fosse aquela que a parte dá à norma, o texto legal diria contratos "com prazo máximo de trinta e seis meses", e não mínimo.
+Por fim, uma vez assentado que não ocorreu a violação da norma federal, fica prejudicado o conhecimento do recurso com fundamento na divergência jurisprudencial, conforme o reiterado entendimento desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC NÃO CARACTERIZADA. AÇÃO RESCISÓRIA. ART. 966, V, DO CPC/2015. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. REAFIRMAÇÃO DA DER. VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. INOCORRÊNCIA. SÚMULA 343/STF. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+ ..
+11. Por fim, consigne-se que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+12. Agravo Interno não provido. (AgInt no AREsp n. 2.032.271/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/9/2022, DJe de 23/9/2022, destaquei.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PIS E COFINS. INCLUSÃO DO ICMS NA BASE DE CÁLCULO. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INAPLICABILIDADE DO ART. 1.025 DO CPC/2015. PRETENSÃO DE COLOCAR BALIZAS AO DECIDIDO PELO STF NO RE 574.706 RG/PR. IMPOSSIBILIDADE. TEMA CONSTITUCIONAL. DISSÍDIO PREJUDICADO. MODULAÇÃO. COMPETÊNCIA EXCLUSIVA DO STF (ART. 27 DA LEI 9.868/1999).
+HISTÓRICO DA DEMANDA
+ ..
+9. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional. Nesse sentido: AgInt no AREsp 1.381.105/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 16.4.2019; REsp 1.777.524/MS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2018; AgInt no AREsp 1.336.834/RS, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 17.12.2018; AgInt no AREsp 909.861/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 17.5.2018. REPOSICIONAMENTO EM DECORRÊNCIA DO VOTO-VISTA DO MIN. OG FERNANDES
+ ..
+11. Agravo conhecido para conhecer parcialmente do Recurso Especial e, nessa extensão, dar-lhe provimento, a fim de afastar a modulação determinada pelo Tribunal de origem. (AREsp n. 1.549.639/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/6/2021, DJe de 1º/7/2021, destaquei.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
