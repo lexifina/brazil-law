@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, dar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+RECURSO  EM  HABEAS  CORPUS.  TRÁFICO INTERESTADUAL DE DROGAS (12 KG DE MACONHA). PRISÃO  PREVENTIVA.  FUNDAMENTAÇÃO.  APARENTE CONDIÇÃO DE "MULA". MEDIDAS CAUTELARES DIVERSAS. ADEQUAÇÃO E SUFICIÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. PRECEDENTES. PARECER ACOLHIDO.
+Recurso em habeas corpus provido.
+RELATÓRIO
+Trata-se de recurso em habeas corpus interposto por QUEREN GABRIELE DE LIMA LOPES - presa preventivamente pela prática, em tese, do crime de tráfico interestadual de drogas -, impugnando-se o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (HC n. 0713227-73.2025.8.07.0000 - fls. 151/165).
+Busca a recorrente a revogação da prisão cautelar imposta a ela pelo Juízo da 2ª Vara de Entorpecentes do Distrito Federal, aos argumentos de ausência de fundamentação idônea e dos requisitos necessários para a manutenção da prisão preventiva. Aduz que há desproporcionalidade da medida em caso de eventual condenação. Destaca que é primária, com apenas 19 anos de idade, e que o tráfico de drogas ocorreu dentro de um contexto de "mula". Subsidiariamente, pede a substituição da prisão preventiva por medidas cautelares alternativas.
+O Ministério Público Federal, em seu parecer, opinou pelo provimento do recurso, a fim de substituir a prisão preventiva por medidas cautelares de natureza diversa (fls. 253/255).
+É o relatório.
+EMENTA
+RECURSO  EM  HABEAS  CORPUS.  TRÁFICO INTERESTADUAL DE DROGAS (12 KG DE MACONHA). PRISÃO  PREVENTIVA.  FUNDAMENTAÇÃO.  APARENTE CONDIÇÃO DE "MULA". MEDIDAS CAUTELARES DIVERSAS. ADEQUAÇÃO E SUFICIÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. PRECEDENTES. PARECER ACOLHIDO.
+Recurso em habeas corpus provido.
+VOTO
+De fato, ainda que os autos estejam com a instrução deficiente em razão da ausência do decreto prisional, conforme o parecer ministerial, nota-se que há constrangimento ilegal apto a ensejar o provimento do recurso.
+Confira-se a decisão do Tribunal a quo ao denegar a ordem e convalidar a custódia cautelar (fls. 159/162 - grifo nosso):
+ ..
+A análise do presente e, também, dos autos de writ origem, indica que a decisão apontada como abusiva e ilegal não está a reclamar a proteção almejada, porquanto está suficientemente fundamentada a existência do delito, os indícios de autoria, na necessidade de garantir a ordem pública e na inviabilidade de outras medidas cautelares.
+Com efeito, os autos deste e da ação originária writ (AuPrFl 0717515-61.2025.8.07.0001) evidenciam a existência do delito e os indícios de autoria, consoante se extrai do auto de prisão em flagrante lavrado pela Polícia Federal, termo de depoimento do condutor EMÍLIO, termo de depoimento da testemunha MONICA, termo de qualificação e interrogatório de ERINALDO, termo de qualificação e interrogatório de QUEREN, termo de apreensão, laudos de perícia criminal federal (preliminar), arquivo de mídia do interrogatório de QUEREN, arquivo de mídia do interrogatório de ERINALDO, arquivo de mídia do depoimento do condutor EMILIO e arquivo de mídia do depoimento da testemunha MONICA, todos constantes no ID 231618272 dos autos de origem.
+Consoante se extrai do referido acervo, a paciente juntamente com ERINALDO foram presos em flagrante delito por terem sido surpreendidos na prática do crime previsto no art. 33 da Lei nº 11.343/2006, isto é, por estarem transportando, em voo doméstico proveniente de Manaus/AM com destino a Brasília/DF, substância entorpecente análoga à maconha, em suas respectivas bagagens., A paciente e a outra pessoa presa em flagrante confessaram que se tratava de droga destinada ao tráfico proveniente de Manaus com destino a Brasília.
+Neste contexto, está demonstrada, em tese, a conduta tipificada nos artigos 33, , caput, c/c 40, inciso V, da Lei nº 11.343/2006, porquanto a paciente, durante sua viagem de Manaus/AM para Brasília/DF, transportava em sua bagagem cerca de 12 kg de maconha.
+Constata-se que as garantias preceituadas nos princípios da inocência, da ampla defesa e do contraditório não restaram maculadas, sobretudo considerando que a prisão preventiva é medida cautelar, está amparada no ordenamento legal e, no presente caso, estão demonstrados os requisitos.
+A Defesa Técnica sustenta que a paciente é primária, tem 19 anos, está estudando e possui endereço fixo, acrescentando que já foi obtida vaga em instituições de acolhimento, caso o endereço fornecido fosse insuficiente.
+Vale destacar que, não obstante a vindicada primariedade do paciente, tal circunstância, por si, não afasta a possibilidade da segregação cautelar. Vale dizer, a primariedade se constitui objeto de aferição por ocasião da dosimetria da pena de eventual condenação.
+Todavia, para a prisão cautelar, em face da sua natureza processual, os requisitos a serem considerados são os dos artigos 312 e 313 da Lei Processual Criminal.
+ ..
+A vindicada existência de instituição que poderia abrigar a paciente não se constitui em circunstância apta a afastar a gravidade da conduta, o risco à ordem pública e à garantia do processo penal.
+Vale destacar que a representativa quantidade apreendida e a destinação voltada para o tráfico interestadual evidenciam a gravidade da conduta e o envolvimento com associação ou organização criminosa voltada para o tráfico de drogas.
+Sucede que o contexto fático apresentado aponta no sentido de que a recorrente atuou como uma mera "mula" do tráfico, de modo que, em princípio, não diviso gravidade na conduta apta a justificar a imposição da cautelar extrema.
+Nesse sentido: AgRg no RHC n. 169.281/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/10/2022.
+Ademais, a despeito de a segregação cautelar se encontrar devidamente justificada, pois as instâncias ordinárias destacaram as circunstâncias do flagrante e a quantidade de drogas apreendidas - cerca de 12 kg de maconha -, a recorrente é ré primária e o crime foi perpetrado sem violência, circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+Assim, mesmo que o crime imputado à recorrente seja grave, é desprovido de violência ou grave ameaça.
+Importante salientar, ainda, que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+Nesse sentido, confiram-se: AgRg no HC n. 908.840/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/6/2024; e AgRg no RHC n. 195.867/RN, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 16/5/2024.
+Dessa forma, há evidente constrangimento ilegal a ser sanado, sendo mais razoável e proporcional, nos termos do art. 282, § 6º, do Código de Processo Penal, a substituição da prisão preventiva por medidas cautelares, a fim de resguardar a ordem pública.
+Não foi outra a opinião do Ministério Público Federal, em seu parecer, da lavra do Subprocurador-Geral da República Luciano Mariz Maia, o qual também adoto como razões de decidir (fls. 253/255).
+Ante o exposto, dou provimento ao recurso ordinário em habeas corpus para revogar a prisão cautelar imposta à recorrente, devendo o magistrado aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação da ré, sem prejuízo da decretação da prisão provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou da superveniência de motivos concretos para tanto.
