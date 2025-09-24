@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; e EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL contra acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART.  932,  III , DO CPC/2015; E SÚMULA 182 DO STJ.  DECISÃO  MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1.  Diante  da  ausência  de  impugnação  específica dos  fundamentos  da  decisão  agrava da,  deve  ser  mantida  a  decisão  que  deixou  de  conhecer  do  agravo  em  recurso  especial,  com  fundamento  no  art.  932,  III,  do  CPC/2015; e na Súmula 182 do STJ.
+2.  Agravo  interno  des provido (fl. 562).
+A parte embargante sustenta, em síntese, que:
+Como se vê, a 3ª Câmara Cível exerceu o juízo de retratação para conhecer do recurso de apelação interposto pelo Estado de Mato Grosso do Sul e negar-lhe provimento, para manter sua condenação ao pagamento dos honorários advocatícios recursais a favor da Defensoria Pública Estadual, demonstrando que os Embargos de Declaração opostos pela Defensoria Pública, objetivando o prequestionamento da matéria e apontando superação da Súmula 421/STJ, não se tratava se recurso protelatório.
+Todavia, apesar de ter sido acolhido este pedido contido no recurso especial interposto pela Defensoria Pública, de condenação do Estado de Mato Grosso do Sul ao pagamento dos honorários advocatícios recursais, houve omissão quanto ao necessário afastamento da multa aplicada nos Embargos de Declaração (os quais a retratação do julgado revelou não ter caráter protelatório).
+Portanto, há manifesto contrassenso em atribuir caráter protelatório ao recurso que visava sanar omissão e prequestionar a matéria que posteriormente foi apreciada e acolhida pelo Tribunal (fl. 583).
+Ao final, requer sejam:
+ ..  estes embargos de declaração conhecidos e acolhidos, sanando-se a omissão quanto à ausência de caráter protelatório dos Embargos de Declaração opostos pela Defensoria Pública, a fim de conhecer o Agravo em Recurso Especial de fls. 340-357, dando-lhe provimento, para admitir o Recurso Especial e, por consequência, que este seja conhecido e provido, para reformar o acórdão proferido pela 3ª Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, e afastar a multa aplicada no acórdão (fls. 583-584).
+A parte embargada não apresentou impugnação aos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; e EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+2. No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Os embargos de declaração não merecem conhecimento.
+Nos termos do art. 1.023 do CPC, "os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Interpretando o referido dispositivo legal, o Superior Tribunal de Justiça firmou entendimento no sentido de que:
+ ..  a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017).
+Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; e EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+Isso posto, não conheço dos embargos de declaração.
