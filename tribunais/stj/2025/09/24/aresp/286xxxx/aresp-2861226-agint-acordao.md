@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO DE INADMISSÃO NÃO IMPUGNADO DE FORMA ESPECÍFICA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte recorrente, ao interpor o agravo em recurso especial, deixou de impugnar de maneira específica o fundamento da decisão que inadmitiu o recurso especial na origem, consistente na aplicação da Súmula n. 7 do STJ. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por IRAPURU TRANSPORTES LTDA. contra decisão monocrática de minha relatoria que deixou de conhecer do agravo em recurso especial, ao fundamento de que a parte agravante não impugnou, de forma específica, o óbice de inadmissibilidade relativo à aplicação da Súmula n. 7 do STJ, atraindo, por conseguinte, a incidência da Súmula n. 182 desta Corte. Transcrevo, a propósito, a ementa da decisão (fl. 237):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃOCONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+Nas razões do agravo interno, a parte agravante sustenta, em síntese, que teria impugnado de forma adequada e específica todos os fundamentos da decisão de inadmissibilidade, não se aplicando ao caso a Súmula n. 182 do STJ. Afirma que o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo seria omisso, configurando violação ao art. 1.022 do CPC/2015, e insiste que o reconhecimento da prescrição intercorrente não demanda reexame fático-probatório, mas apenas a correta aplicação do art. 174 do CTN, dos arts. 374 e 803, inciso I, do CPC/2015, sendo matéria de ordem pública que pode ser apreciada a qualquer tempo e grau de jurisdição (fls. 248-255).
+O prazo para contraminuta transcorreu in albis (fl. 263).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO DE INADMISSÃO NÃO IMPUGNADO DE FORMA ESPECÍFICA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte recorrente, ao interpor o agravo em recurso especial, deixou de impugnar de maneira específica o fundamento da decisão que inadmitiu o recurso especial na origem, consistente na aplicação da Súmula n. 7 do STJ. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não prospera.
+A decisão recorrida não conheceu do agravo em recurso especial nestes termos (fls. 237-240; grifos diversos do original):
+O agravo em recurso especial não pode ser conhecido.
+A Corte de origem inadmitiu o recurso especial pelos seguintes fundamentos: ausência de violação dos arts. 489 e 1.022 do CPC/2015 e necessidade de revolvimento de fatos e provas do processo em relação à comprovação de prescrição e inércia do Estado (Súmula n. 7 do STJ). Todavia, nas razões do agravo de recurso especial, a parte agravante não impugnou de maneira apropriada a fundamentação atinente à referida súmula impeditiva.
+Compulsando detidamente os autos, verifico que a agravante restringiu-se a afirmar que "o relator não pode examinar mera questão de fato ou alegação de error facti (julgamento errôneo da prova)", que "o (erro noin judicando error in procedendo proceder, cometido pelo juiz) podem ser objeto de recurso especial", que "a prescrição pode ser arguida e deve ser examinada a qualquer tempo, não estando sujeitas a preclusão", que "o Fisco Agravado reconhece a prescrição", e que "a jurisprudência deste STJ é pacífica no sentido de que é viável, em sede de Recurso Especial, a valoração de fato/prova, sem ofensa à Súmula nº 07) (fls. 214-215), sem contudo demonstrar a realização ou que realizou o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do óbice processual aplicado no caso concreto".
+Assim fazendo, não ficou esclarecido, à luz das teses veiculadas no apelo nobre, especialmente cotejando a fundamentação do acórdão recorrido, de que forma o exame dessas teses prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+ ..
+Destarte, verifica-se que deixou de ser observada a dialeticidade recursal exigida pelo art. 932, inciso III, do CPC/2015. Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte para não a quo admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+ ..
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+Em tempo, a ementa do mencionado julgado:
+ ..
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+A decisão ora agravada concluiu, com acerto, que o agravo em recurso especial interposto pela parte agravante não logrou impugnar, de forma específica, direta e suficientemente fundamentada, o óbice invocado pela Presidência do Tribunal de origem para inadmitir o recurso especial, consubstanciado na incidência das Súmulas n. 7 do Superior Tribunal de Justiça.
+Tal deficiência configura afronta ao princípio da dialeticidade recursal, previsto no art. 932, inciso III, do Código de Processo Civil de 2015, e atrai, por analogia, a aplicação da Súmula n. 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que, para afastar validamente o óbice da Súmula n. 7, não basta a mera alegação de que a controvérsia envolveria apenas matéria de direito. Incumbe à parte demonstrar, com rigor técnico e clareza argumentativa, que a tese recursal pode ser examinada a partir das premissas fáticas já firmadas pelas instâncias ordinárias, sem necessidade de revolvimento probatório.
+No caso concreto, a parte agravante limitou-se a sustentar, de forma genérica, que a prescrição intercorrente constituiria matéria de ordem pública, insuscetível de preclusão, e que poderia ser apreciada a qualquer tempo. Entretanto, não demonstrou em que medida o afastamento da prescrição reconhecida pelas instâncias ordinárias prescindiria da análise do conjunto probatório relativo à marcha processual e à eventual inércia da Fazenda Pública. A propósito:
+ a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.
+ ..
+O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência. (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2 023; sem grifos no original.)
+Diante disso, revela-se inequívoca a inobservância ao princípio da dialeticidade recursal, previsto no art. 932, III, do CPC/2015. Ressalte-se que não se cuida de mero formalismo, mas de exigência processual de natureza substancial, que visa à preservação da efetividade do contraditório e à racionalidade na formação do juízo de admissibilidade dos recursos excepcionais, cuja natureza extraordinária reclama rigor técnico na formulação das razões recursais.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
