@@ -1,0 +1,20 @@
+DECISÃO
+EVANDRO DOS SANTOS FERREIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 0023400-51.2025.8.16.0000.
+A defesa pretende a soltura do paciente - preso preventivamente pela suposta prática do crime previsto no art. 121, § 2º, inciso IV, em concurso material com o crime previsto no art. 121, § 2º, inciso IV, c/c o art. 14, II, todos do Código Penal - sob os argumentos de que não estão presentes os requisitos da prisão preventiva e do excesso de prazo para o término da instrução.
+Indeferida a liminar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Inicialmente, quanto à legalidade dos fundamentos da prisão, verifico que o Tribunal estadual não conheceu do tema, porque julgado em outra oportunidade, o que impede a sua análise, sob pena de indevida supressão de instância.
+Sobre o alegado excesso de prazo para o término da instrução, a Corte estadual refutou as argumentações defensivas, nos seguintes termos (fls. 23-24, grifei):
+No caso em tela, o juízo a quo tem agido de forma célere e diligente.
+Compulsando os autos nº 0001190-87.2023.8.16.0028, nota-se que a denúncia foi oferecida em 07.06.2023 (mov. 21) e recebida em 21.06.2023 (mov. 34). Em 17.09.2024 foi juntada aos autos a certidão de cumprimento do mandado de prisão e, em 01.10.2024 foi realizada a audiência de instrução e julgamento e, neste mesmo ato, proferida a decisão de pronúncia. Em 22.11.2024 a Magistrada da Vara do Plenário do Júri designou a sessão de julgamento para 27.02.2025. Como se vê, desde o cumprimento do mandado de prisão a marcha processual foi célere.
+Todavia, no dia da sessão de julgamento, a Magistrada do Plenário do Júri reconheceu a nulidade da intimação da sentença de pronúncia, tendo o Ministério Público concordado com a providência a fim de evitar futuras arguições de nulidade.
+Ora, em que pese o suposto erro procedimental ocorrido na origem, a princípio, não há significativo atraso no julgamento que, a princípio, estava marcado para 27.02.2025. Tampouco pode se dizer que há atraso injustificado, pois a nulidade foi reconhecida de maneira fundamentada e a fim de proteger o fundamental direito do réu ao contraditório e à ampla defesa.
+Como se vê, o trabalho desenvolvido no juízo a quo tem se revelado célere e zeloso.
+Registre-se, ainda, que o trâmite processual tem seguido seu curso regular e não houve qualquer paralisação injustificada que configure constrangimento ilegal por excesso de prazo.
+Saliente-se, por fim, que o réu estava respondendo em liberdade, todavia, em razão de fundado risco de fuga e ameaças dirigidas às testemunhas, foi determinada sua prisão preventiva, a qual foi efetivada em 01.10.2024, ou seja; há pouco mais de 6 meses, inexistindo desproporcionalidade ou falta de razoabilidade neste prazo.
+No que se refere ao excesso de prazo, cumpre registrar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), ao se considerar individualmente os casos sub judice e suas particularidades.
+A Corte antecedente esclareceu que o réu já foi pronunciado, em 1º/10/2024 e a Sessão de Julgamento do Júri, designada para 27/2/2025, precisou ser remarcada, diante da nulidade na intimação da sentença. Portanto, pelas informações contidas no acórdão estadual, verifica-se que, desde a sua prisão (em 1º/10/2024) o processo tramita sem delongas.
+Diante do cenário descrito, não observo excesso de prazo a consubstanciar flagrante ilegalidade que justifique a intervenção desta Corte Superior, sobretudo diante da informação de que o réu respondia solto ao processo e teve a sua prisão preventiva decretada em 1º/10/2024 - por ocasião da pronúncia - "em razão de fundado risco de fuga e ameaças dirigidas às testemunhas" (fl. 24).
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
