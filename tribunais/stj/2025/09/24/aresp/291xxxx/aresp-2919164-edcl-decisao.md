@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de novos Embargos de Declaração opostos por RHAFAEL AUGUSTO CAMPANIA e JACQUELINE RIBEIRO DA SILVA CAMPANIA à decisão de fls. 290/291, que rejeitou Embargos de Declaração anteriores, protocolizados às fls. 276/282.
+Em suas razões, a parte repete os argumentos dos Embargos de Declaração anteriores e, ao final, requer:
+ ..  ao menos, sirva para aclarar as omissões, contradições e obscuridades da R. Decisão Monocrática, fundamentando as razões pelas quais não se arbitra honorários sucumbenciais em processo de cumprimento provisório de sentença que foi impugnado e a impugnação restou vitoriosa o exequente impugnado sucumbente, ainda que haja expressa impugnação, estas não se prestam ao fim à que se destinou ou se tentou destinar, em que artigo código, lei que a "por ora deixa de arbitrar honorário de sucumbência" quando a ação de cumprimento provisório de sentença, teve perda de objeto após a impugnação do executado, por não haver antecipação de tutela deferida, e o processo sem objeto ficar à mercê e espera de futura imprevisível rejeição dos recursos em tramitação (fls. 298/299).
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A parte embargante, mais uma vez, repisa todos os argumentos antes utilizados, insistindo na mesma tese e se valendo das mesmas conclusões apresentadas nos Aclaratórios anteriores, não demonstrando efetivamente que a decisão ora embargada incorreu nos vícios autorizadores do recurso.
+A decisão que rejeitou os Embargos anteriores deixou expressamente consignado que: a parte agravante deixou de impugnar especificamente a Súmula 7 /STJ, mencionada como fundamento da decisão agravada; o exame de mérito do Recurso Especial ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do Agravo em Recurso Especial, que obstou a abertura desta instância superior e a produção do efeito translativo do recurso.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os novos Embargos de Declaração e, diante do caráter manifestamente protelatório, APLICO a multa de 2% sobre o valor da causa, nos termos do art.1.026, § 2º, do Código de Processo Civil. Fica advertida a parte de que novos Embargos manifestamente protelatórios estarão sujeitos à majoração da multa ora aplicada a até dez por cento sobre o valor atualizado da causa, ficando inclusive a interposição de qualquer recurso condicionada ao seu depósito prévio.
+Publique-se.
+Intimem-se.
+ EMENTA
