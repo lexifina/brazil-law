@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno interposto por THAÍS CRISTINE DE LACERDA contra decisão proferida pela Presidência desta Corte Superior, constante às e-STJ fls. 1028/1029, em que não conheceu do agravo recurso especial em razão da sua intempestividade.
+Sustenta, em resumo, que a Lei n. 14.939/2024 alterou o art. 1.003, § 6º, do CPC/2015, impondo ao Poder Judiciário a intimação do recorrente para comprovação da ocorrência de feriado local não realizada no ato de interposição do recurso, sendo certo que a Corte Especial, na Questão de Ordem no AREsp 2.638.376/MG, firmou entendimento a respeito da aplicação do referido diploma legal aos recursos interpostos antes de sua vigência.
+Sem impugnação.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo interno. (e-STJ fls. 1097/1100).
+Passo a decidir.
+Registro, inicialmente, que a decisão recorrida merece reconsideração.
+É que a Corte Especial do STJ, no julgamento da QO no AREsp n. 2.638.376/MG, entendeu pela aplicação dos efeitos da Lei n. 14.939/2024 também aos recursos interpostos antes de sua vigência, diploma que deve ser observado, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense.
+No caso dos autos, mostra-se suficiente a comprovação de ausência de expediente nos dias 30 e 31 de maio de 2024 por meio do Provimento CSM n. 2.728/2023, do Tribunal de Justiça do Estado de São Paulo.
+Nesse passo, considerando que a parte recorrente foi intimada do acórdão recorrido em 29/05/2024 (quarta-feira), o prazo recursal iniciou-se em 03/06/2024 (segunda-feira) e findou-se em 21/06/2024 (sexta-feira), sendo o recurso especial interposto nessa data, portanto, dentro do prazo legal.
+Assim, reconsidero a decisão anteriormente proferida e passo a nova análise do agravo em recurso especial.
+Trata-se de agravo interposto por THAIS CRISTINE DE LACERDA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado no permissivo constitucional, que desafia acórdão assim ementado:
+Apelação Cível Improbidade Administrativa Criação de cargo em comissão em afronta à lei e cuja ilegalidade já havia sido reconhecida perante o Poder Judiciário Intenção deliberada de violar a lei e causar danos ao erário Ato de improbidade administrativa configurado Imposição das sanções previstas no artigo 12, II da Lei de Improbidade Administrativa Sentença de improcedência - Sentença parcialmente reformada para reconhecimento da ocorrência de ato de improbidade administrativa Artigo 10, I, da LIA Recurso do Ministério Público provido. (fl. 886)
+No especial obstaculizado, a ora agravante apontou violação dos seguintes dispositivos: arts. 350, 369, 373, inc. I, 489, § 1º, inc. V, 926, 927, inc. III e 1.013, § 3º, do Código de Processo Civil, art. 17, § 6º , inc. I, § 10º-F, inc. II, art. 17-C, inc. IV, e art. 18, § 3º, da Lei n. 8.429/1992, com redação dada pela Lei n. 14.230/2021.
+Passo a decidir.
+Inicialmente, consigno que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+De outro lado, mediante análise dos autos, verifico que a inadmissão do recurso se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a recorrente impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento à vista da necessidade do exame das provas que repousam nos autos.
+É que, tendo o Tribunal de origem reconhecido que o conjunto probatório foi hábil a demonstrar a prática do ato ímprobo pela agravante, com a indicação do dolo específico e o dano efetivo, a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que seria inviável em sede de recurso especial. Igual se diga no tocante à dosimetria das penas.
+Registro, por oportuno, que o marco inicial de aplicação do CPC de 2015 é a intimação do decisum recorrido, que, no presente caso, foi realizada sob a égide do atual Codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista.
+Ante o exposto, reconsidero a decisão atacada e, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
