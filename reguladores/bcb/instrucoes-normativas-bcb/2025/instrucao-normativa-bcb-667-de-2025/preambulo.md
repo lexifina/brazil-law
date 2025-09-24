@@ -1,0 +1,4 @@
+​INSTRUÇÃO NORMATIVA BCB Nº 667, DE 22 DE SETEMBRO DE 2025
+Disciplina a dispensa da observância do limite de emissão de Pix de valor superior a R$15.000,00 (quinze mil reais) por instituição que se conecta à Rede do Sistema Financeiro Nacional – RSFN por meio de Provedor de Serviços de Tecnologia da Informação – PSTI.
+O Chefe do Departamento de Tecnologia da Informação – Deinf, o Chefe do Departamento de Gestão Estratégica e Supervisão Especializada – Degef e o Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos – Deban, no uso das suas atribuições, tendo em vista o disposto no art. 23, inciso I, alínea “a”, no art. 70, inciso I, alínea “a”, e no art. 112, inciso IV, alíneas “a” e “b”, todos do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e considerando a previsão do art. 37, § 6º, inciso II, do Regulamento Anexo à Resolução BCB nº 1, de 12 de agosto de 2020,
+R E S O L V E M :
