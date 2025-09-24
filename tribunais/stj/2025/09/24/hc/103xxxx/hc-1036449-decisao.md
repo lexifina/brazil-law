@@ -1,0 +1,40 @@
+DECISÃO
+O presente writ, com pedido liminar, impetrado em benefício de ELTON ALEX DE SOUZA ABREU - condenado à pena de 8 anos e 10 meses de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas e posse ilegal de munições de uso proibido -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500292-74.2023.8.26.0560), não comporta processamento.
+Busca-se, na presente impetração, inclusive em caráter liminar, a absolvição do paciente (Autos n. 1500292-74.2023.8.26.0560 - 2ª Vara Criminal e da Infância e Juventude da comarca de Votuporanga) argumentando: (i) a ilicitude de provas obtidas mediante buscas pessoal e domiciliar ilegais; (ii) a nulidade do interrogatório policial disfarçado de entrevista informal, sem a devida comunicação do direito ao silêncio e à assistência de advogado; e (iii) a insuficiência probatória, pois o réu não tinha relação com as drogas apreendidas.
+Subsidiariamente, requer-se o recon hecimento do tráfico privilegiado e a imposição do regime aberto para o início do cumprimento da pena.
+Foram apreendidos no total 466,7 g de crack; 645,4 g de cocaína; 22.000 g de maconha; e 16 cartuchos de marca Aguila, calibre 9mm (fl. 55).
+É o relatório.
+Com efeito, em consulta ao ARESp n. 2.760.707/SP, verificou-se que a condenação transitou em julgado em 5/11/2024, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Registre-se, ainda, que a presente via não se mostra adequada para o amplo reexame de fatos e provas, notadamente no que se refere à análise da dosimetria da pena.
+Ademais, não se constata qualquer ilegalidade manifesta que justifique a concessão de habeas corpus de ofício, conforme o voto condutor do acórdão que ratificou a condenação do réu, nos seguintes termos (fls. 48/71 - grifo nosso):
+ ..
+ELTON trafegava como passageiro de um moto taxista, quando foi avistado por policiais militares em patrulhamento de rotina que já dispunham de informações sobre o envolvimento dele com o tráfico. Segundo narraram os policiais militares, assim que visualizou a viatura, ELTON desceu da motocicleta e escondeu porção de maconha dentro da bermuda, comportamento a ensejar a abordagem.
+Ressaltaram os policiais que, imediatamente, informaram o réu sobre seus direitos constitucionais, dentre eles o de permanecer em silêncio.
+(..) impondo realçar que os policiais militares advertiram o acusado sobre as garantias constitucionais (incluídos aí o direito ao silêncio, à assistência de advogado e familiares, etc.), observando-se do termo de interrogatório a fls. 11/12 que a Delegada de Polícia também tomou a mesma cautela.
+ ..
+A seguir, os policiais militares efetuaram a revista pessoal, localizando com ELTON meio tijolo de maconha dentro de sua bermuda. Novamente indagado sobre o material espúrio, o réu admitiu guardar mais drogas em seu apartamento "a mando" de indivíduo cuja identidade não quis revelar, sem se denotar qualquer irregularidade capaz de prejudicar as diligências.
+ ..
+Na sequência, os policiais acompanharam ELTON à residência, tendo ele autorizado a entrada dos agentes públicos no imóvel (conforme assinatura no BOPM a fls. 178), onde se localizaram 26 tijolos inteiros e 6 fracionados de maconha, 1 saco plástico com vários pedaços da mesma substância, meio tijolo de crack, meio tijolo de cocaína, 1 invólucro plástico contendo diversas porções menores de crack, 3 balanças de precisão, 16 munições calibre 9mm íntegras, martelo com resquícios de crack, 1 faca de cozinha e 1 cédula de vinte reais aparentemente falsa, tudo guardado dentro de uma caixa de papelão encontrada no guarda-roupas do apelante.
+ ..
+Em juízo, "confessou a posse do entorpecente, entretanto, afirmou que apenas o guardava para um terceiro indivíduo. Estava guardando há cerca de 30 ou 60 dias antes de sua prisão. Recebia R$ 1.000,00, para pagar seu aluguel. Quando foi abordado pelos Policiais Militares não trazia droga consigo. Não entregava entorpecente. Quanto às munições, tinha conhecimento disso, também estava guardando para essa mesma pessoa"
+ ..
+Nítido, portanto, o vínculo entre os tóxicos e o apelante diante das firmes palavras dos policiais militares dando conta da apreensão de drogas em seu poder e em sua casa, ficando clara a autoria dos crimes, consoante quadro probatório que, ao contrário do sustentado pela Defesa, afigura-se robusto.
+ ..
+Saliente-se que a enorme quantidade, a variedade e a forma de acondicionamento das drogas apreendidas (crack: 1 porção - 466,7g; cocaína: 1 porção - 645,4g; maconha: 34 tijolos e algumas porções soltas - 22.000g), a par das circunstâncias da abordagem, em especial a fuga encenada pelo réu diante da aproximação dos policiais, além da apreensão de balanças de precisão, instrumentos usados para a separação dos tóxicos, nota de R$ 20,00 (aparentemente falsa) e celular contendo conversas nitidamente ligadas ao tráfico (laudo a fls. 344/386), reforçam a espúria atividade desempenhada por ele e a consciência e voluntariedade de sua conduta, daí porque despropositado o pedido de absolvição por ausência de dolo.
+ ..
+Da mesma foram, patente o fato de o denunciado possuir e manter, sob sua guarda, dezesseis (16) munições calibre 9mm de uso restrito, sendo certo que o exame pericial noticiado a fls. 121/125 permitiu apurar a eficácia dos artefatos íntegros, algo a evidenciar a materialidade da infração penal prevista no artigo 16, caput, da Lei nº. 10.826/03.
+ ..
+Assim, demonstrada a materialidade pelo auto de prisão em flagrante delito (fls. 05/06), boletim de ocorrência (fls. 14/18), auto de exibição/apreensão (fls. 21/22) e dos laudos de constatação provisória (fls. 35/38), de exame químico toxicológico (fls. 190/192), das munições (fls. 121/125), dos petrechos (fls. 156/160), do local do crime (fls. 132/135) e do celular (fls. 344/386), a par de apurada a autoria do crime à exaustão, a condenação do apelante é a providência que se impõe (..)
+ ..
+Ausentes outras causas modificadoras, diante do cúmulo material reconhecido, as penas somaram oito (8) anos e dez (10) meses de reclusão, mais quinhentos e noventa e dois (592) diasmulta, unidade no piso, realçando-se o descabimento da minorante prevista no artigo 33, § 4º, da Lei nº. 11.343/06.
+ ..
+Discussão aprofundada da matéria, aliás, afigura-se sem sentido, porquanto ELTON foi flagrado na posse de mais de 23kg (!) de drogas variadas, além de munições de uso restrito, algo a indicar inegável dedicação às atividades criminosas e profundo envolvimento com organização criminosa, dispondo de logística bem engendrada sem a qual jamais conseguiria obter tamanho volume de entorpecentes, algo ínsito à perene traficância.
+Também não se pode ignorar que, como disse, o réu mantinha os tóxicos e munição em sua residência a mando de terceira pessoa cuja identidade não quis informar, recebendo, para tanto, certa quantia destinada ao pagamento do aluguel do espaço, situação a reforçar a habitualidade igualmente inconciliável com o benefício.
+ ..
+Reafirmo que, para reconhecer que não houve a dinâmica dos fatos descrita no acórdão impugnado, imprescindível seria o revolvimento fático-probatório dos autos, providência inviável de se promover no rito célere e estreito do habeas corpus ou do recurso que lhe faz as vezes.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÕES DE USO RESTRITO. PLEITO DE ABSOLVIÇÃO. PEDIDO SUBSIDIÁRIO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS E IMPOSIÇÃO DE REGIME INICIAL ABERTO. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
