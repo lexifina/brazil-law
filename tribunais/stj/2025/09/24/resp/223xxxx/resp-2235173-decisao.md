@@ -1,0 +1,17 @@
+DECISÃO
+Cuida- se de agravo interposto por IVAN ANTONIO BARICHELLO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 155):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO INDUSTRIAL. DECISÃO HOSTILIZADA QUE ACOLHEU EM PARTE A EXCEÇÃO DE PRÉ- EXECUTIVIDADE, A FIM DE RECONHECER A OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO EM RELAÇÃO AO ESPÓLIO DO EXECUTADO. INSURGÊNCIA DO EXEQUENTE. ALEGADA INOCORRÊNCIA DA PRESCRIÇÃO ANTE A CIÊNCIA DO ESPÓLIO ACERCA DO FEITO. TESE SUBSISTENTE. EXECUTADA QUE ALÉM DE FIGURAR COMO INVENTARIANTE NA DEMANDA, COMPARECEU ESPONTANEAMENTE, SUPRINDO A NECESSIDADE DE CITAÇÃO DO ESPÓLIO, EIS QUE REPRESENTANTE LEGAL PARA TAL DESIDERATO. INTELIGÊNCIA DO ARTIGO 239, §1º, DO CÓDIGO DE PROCESSO CIVIL. ADEMAIS, APLICABILIDADE DO PRAZO PRESCRICIONAL TRIENAL, A TEOR DA NORMA INSERTA NO ART. 52 DO DECRETO-LEI N. 413/1969 E ART. 70 DA LEI UNIFORME DE GENEBRA. TERMO INICIAL A PARTIR DA DATA DO VENCIMENTO DA ÚLTIMA PARCELA INDICADA NO CONTRATO. SUSPENSÃO DO REFERIDO LAPSO TEMPORAL. PRESCRIÇÃO NÃO CONSUMADA. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 184-189).
+No recurso especial, a parte agravante alega que o acórdão recorrido contrariou as disposições contidas nos arts. 110, 239, caput e §1º, 485, IV, e 487, II, do CPC; 12, V, e 568, II, do CPC de 1973; e 6º do Código Civil, sustentando: i) a necessidade da citação especificamente do espólio na pessoa da inventariante quando esta figura como codevedora em litisconsórcio passivo, ou seja "para a validade da citação de um devedor falecido no curso da execução, faz-se necessária a habilitação do espólio, com a citação expressa do espólio na pessoa do inventariante. Não basta ser o inventariante, na condição de codevedor, ser citado, para suprir a falta de citação do espólio da pessoa falecida. Nada obstante, o Tribunal de Justiça não levou em consideração tais fatos, conforme acima narrado, limitando-se a decidir no sentido de que a citação do espólio teria se dado na pessoa da inventariante, ainda que não houvesse tal informação no mandado de citação" (fl. 209).
+Requer a "reforma/cassação do acórdão que deu o recorrente por citado e afastou a prescrição direta (..) tudo com o fim de reconhecer que não houve a citação do Espólio de Ivan dentro do prazo legal, reconhecendo-se inclusive a prescrição direta" (fls. 214-220).
+Aponta divergência jurisprudencial com arestos de outros Tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 240-248).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 251-252), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 280-284).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade e diante das circunstâncias que envolvem a lide, inclusive o valor elevado da causa, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, conheço do agravo para determinar a sua conversão em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
