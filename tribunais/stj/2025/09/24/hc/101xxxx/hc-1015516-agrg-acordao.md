@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do Código de Processo Civil e 259, § 2º, do Regimento Interno do STJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve como fundamento o entendimento desta Corte Superior de que é inadmissível a utilização do habeas corpus como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+3. Nas razões do agravo regimental, porém, a agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula n. 182 do STJ, aplicável por analogia.
+4. Inexistente flagrante ilegalidade que autorize a concessão da ordem de ofício.
+5. O Tribunal estadual afastou a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, mediante fundamentação idônea, considerando as circunstâncias do caso concreto, as quais evidenciam a dedicação da agravante a atividades criminosas.
+6. A desconstituição do julgado impugnado demandaria o reexame fático-probatório, providência inadmissível na via estreita do habeas corpus.
+7. "A presença de circunstância judicial desfavorável justifica a imposição do regime inicial mais gravoso do que o recomendado pelo quantum de pena, em atenção ao disposto no art. 33, § 3º, do CP. Precedentes" (AgRg no REsp n. 2.122.268/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+8. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EDUARDA VITÓRIA NASCIMENTO FEITOSA contra a decisão que não conheceu do habeas corpus por ter sido utilizado como substitutivo de revisão criminal.
+A agravante aborda questões relativas ao mérito da causa, pertinentes à aplicação do direito material, reiterando as alegações formuladas no writ.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do Código de Processo Civil e 259, § 2º, do Regimento Interno do STJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve como fundamento o entendimento desta Corte Superior de que é inadmissível a utilização do habeas corpus como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+3. Nas razões do agravo regimental, porém, a agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula n. 182 do STJ, aplicável por analogia.
+4. Inexistente flagrante ilegalidade que autorize a concessão da ordem de ofício.
+5. O Tribunal estadual afastou a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, mediante fundamentação idônea, considerando as circunstâncias do caso concreto, as quais evidenciam a dedicação da agravante a atividades criminosas.
+6. A desconstituição do julgado impugnado demandaria o reexame fático-probatório, providência inadmissível na via estreita do habeas corpus.
+7. "A presença de circunstância judicial desfavorável justifica a imposição do regime inicial mais gravoso do que o recomendado pelo quantum de pena, em atenção ao disposto no art. 33, § 3º, do CP. Precedentes" (AgRg no REsp n. 2.122.268/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+8. Agravo regimental não conhecido.
+VOTO
+A decisão que não conheceu do habeas corpus foi assim fundamentada (fls. 859-860):
+O presente writ foi impetrado em 30/6/2025 com o objetivo de impugnar o acórdão que julgou a apelação criminal, com trânsito em julgado em 5/8/2024 (fl. 780).
+Nesse contexto, a utilização do habeas corpus assume o caráter de substitutivo da revisão criminal, instrumento que não pode ser manejado no caso, uma vez que a legislação processual exige a prévia submissão do pedido por meio de impugnação específica, sob pena de usurpação da competência da instância originária.
+Vale anotar que, consoante dispõe o art. 105, I, e, da Constituição Federal, a competência do Superior Tribunal de Justiça para julgar pretensão típica de revisão criminal é limitada aos seus próprios julgados, o que não é o caso dos autos.
+Contudo, as razões do agravo regimental não se voltam contra o motivo de não conhecimento da impetração, o que inviabiliza a apreciação do recurso, devido à não impugnação especificada dos fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do Código de Processo Civil e, por analogia, de acordo com a conclusão sedimentada na Súmula n. 182 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DE DROGA APREENDIDA. ANTECEDENTES. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CONDENAÇÃO CONCOMITANTE POR POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDO. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, CONFORME PARECER MINISTERIAL. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus por ser substitutivo de recurso próprio e não concedeu a ordem de ofício uma vez que não identificada qualquer ilegalidade na fixação da pena-base e diante da impossibilidade de reconhecimento da minorante do tráfico privilegiado ao paciente condenado por crime de tráfico em concurso com o de posse de arma de fogo com numeração suprimida. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+(AgRg no HC n. 870.658/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024 - grifo próprio.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. "WRIT" CONTRA DECISÃO MONOCRÁTICA EM ANÁLISE LIMINAR. SÚMULA N. 691 DO STF. AUSENTE TERATOLOGIA OU EVIDENTE ILEGALIDADE. TRÁFICO. REGIME INICIAL MAIS GRAVOSO. FUNDAMENTAÇÃO ADEQUADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula n. 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC n. 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 2/8/2022, DJe de 10/8/2022).
+ ..
+3. Ao agravante se impõe o ônus de demonstrar o desacerto da decisão agravada. Neste agravo regimental, não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, o que atrai ao caso o disposto no enunciado n. 182 da Súmula desta Corte e inviabiliza o conhecimento do agravo. Precedentes.
+4. Agravo regimental não conhecido.
+(AgRg no HC n. 878.605/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 13/5/2024, DJe de 16/5/2024 - grifo próprio.)
+Não há, ademais, teratologia ou manifesta ilegalidade para justificar a concessão da ordem de ofício.
+Extrai-se dos autos que a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi afastada consoante a seguinte fundamentação (fl. 36):
+Em relação ao tráfico privilegiado, o Juízo não o reconheceu por entender que a apelante "se dedicava a atividade criminosa e como já dito, fazia do comércio ilícito de drogas um meio de vida".
+Observa-se que a apelante negociava drogas por aplicativo, possuía diversas fotografias com entorpecentes  pasta-base de cocaína, cloridrato de cocaína e maconha , buscava drogas em outro município  Cuiabá  e outro país  Paraguai , bem como possuía envolvimento com a organização criminosa do "Comando Vermelho", consoante Relatório Policial n. 2022.9.30474, realizado a partir da extração de dados do aparelho celular da apelante  Redmi, azul, modelo Redmi Note 8, IME Is 862628050514186/98 e 862628051444185/98 - ID 203460178 .
+O "envolvimento do agente com organização criminosa, evidenciado pelos elementos produzidos na instrução processual, afasta a possibilidade de reconhecimento da minorante do tráfico privilegiado  .. ." (TJMT, AP n. 1002953-14.2022.8.11.0018 - relator: Des. Orlando de Almeida Perri - Primeira Câmara Criminal - 26.9.2023).
+Nesse quadro, o tráfico privilegiado (Lei n. 11.343/2006, art. 33, § 4º) se apresenta inaplicável (grifo próprio).
+O Tribunal estadual afastou a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, mediante fundamentação idônea, considerando as circunstâncias do caso concreto, as quais evidenciam a dedicação da agravante a atividades criminosas.
+Confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE SE DEDICA AO TRÁFICO DE DROGAS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NA VIA ELEITA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. A incidência da minorante do tráfico privilegiado foi rechaçada porque a Corte carioca reconheceu expressamente que o paciente não se tratava de traficante eventual, haja vista não apenas a quantidade e natureza dos entorpecentes apreendidos - 121 pinos de cocaína, pesando 84,7 g (e-STJ, fl. 49) -, mas principalmente devido ao fato de ele já ser conhecido da polícia, como um traficante da região, e de haver sido preso em flagrante em local conhecido como ponto de venda de drogas, dominado pela facção criminosa Comando Vermelho; tudo isso a denotar que ele não se tratava de traficante esporádico.
+3. Ademais, desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 892.146/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)
+Ademais, a desconstituição do julgado impugnado demandaria o reexame fático-probatório dos elementos constantes dos autos, providência inadmissível nesta via estreita, mormente por ter sido observado, no caso em testilha, o princípio do livre convencimento motivado, conforme delineado anteriormente.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI. PACIENTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. As instâncias de origem, com base nas provas dos autos, entenderam que não foram atendidas as diretrizes previstas para o reconhecimento do privilégio, por entender que o paciente se dedicava ao tráfico de forma habitual, não apenas em razão da quantidade de droga apreendida, mas tendo em vista as circunstâncias e o modus operandi do delito - quantidade de droga (mais de sessenta pedras de crack) e dinheiro (três mil, cento e cinquenta reais), nem mesmo são encontrados com duas balanças de precisão e arma de fogo (e-STJ fl. 22). Dessa forma, a Corte de origem se convenceu de que a paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Desconstituir tais assertivas demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC n. 892.794/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Por fim, a agravante foi condenada à pena superior a 4 anos de reclusão, havendo elemento válido para a imposição de regime mais severo, em especial a valoração negativa de circunstância judicial (art. 33, § 3º, do Código Penal). A propósito, citam-se os seguintes precedentes: AgRg no REsp n. 2.122.268/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024; e AgRg no HC n. 836.416/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3/5/ 2024.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
