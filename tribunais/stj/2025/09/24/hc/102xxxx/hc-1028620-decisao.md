@@ -1,0 +1,14 @@
+DECISÃO
+GUSTAVO ARAÚJO DE PAULA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo no processo n. 0000445-64.2024.8.08.0006.
+A defesa pretende a soltura ou a aplicação do art. 319 do CPP em favor do paciente - preso preventivamente pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 - sob os argumentos de que: a) há excesso de prazo de subsistência da prisão preventiva, que já dura mais de um ano sem que tenha sido prolatada sentença; b) a segregação cautelar carece de fundamentação idônea; c) o paciente tem bons predicados pessoais.
+O Parquet Federal opinou pelo não conhecimento do writ (fls. 476-483).
+Decido.
+No que tange ao pleito de revogação da custódia cautelar, em consulta aos assentamentos eletrônicos desta Corte Superior, verificou-se a anterior impetração do HC n. 993.454/ES em favor do ora paciente, no qual foi analisada a legalidade do seu encarceramento, cuja ordem foi denegada. Nessa impetração, esta Corte Superior salientou que o Juízo singular fundamentou a decretação da prisão preventiva na constatação de que com o réu foram apreendidos 375 papelotes de substância análoga à cocaína, totalizando aproximadamente 600g, 1 pedaço de substância análoga à maconha, totalizando aproximadamente 10g, 1 um pequeno frasco contendo substância análoga à cocaína, totalizando aproximadamente 10g" (fl. 68).
+Portanto, inviável o conhecimento da tese ante a reiteração de pedido.
+De início, cumpre registrar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Embora o paciente esteja preso há mais de um ano, "a audiência de instrução  foi  realizada no dia 07/04/2025, ocasião na qual foram ouvidas duas testemunhas e interrogado o paciente, bem como foram apresentadas Alegações Finais orais pelas partes" (fl. 472).
+Como visto, o acórdão está em consonância com o entendimento desta Corte Superior, segundo o qual, verificadas a compatibilidade da duração do processo com as particularidades do caso concreto, a complexidade da ação penal e a diligência do Estado no processamento do feito, fica afastada, ao menos por ora, a alegação de excesso de prazo.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
