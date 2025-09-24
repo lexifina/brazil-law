@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE OMISSÃO NA DECISÃO EMBARGADA. INEXISTÊNCIA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE VÍCIOS PREVISTOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUIS CARLOS CAVALCANTI ANDRADE à decisão por mim proferida por meio da qual conheci do respectivo agravo, para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 2.242/2.246).
+Sustenta a parte embargante, nos aclaratórios, que a decisão embargada se revelou parcialmente omissa, na medida em que não se manifestou sobre o pedido de nulidade por ausência de fundamentação da decisão que deferiu a interceptação telefônica, a nulidade per relationem sem argumentos próprios e a nulidade por denúncia apócrifa (fls. 2.266/2.287).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE OMISSÃO NA DECISÃO EMBARGADA. INEXISTÊNCIA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE VÍCIOS PREVISTOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL.
+Embargos de declaração rejeitados.
+VOTO
+A pretensão não merece acolhida.
+Os embargos declaratórios, mesmo que para fins de prequestionamento, têm como requisito a ocorrência dos pressupostos do art. 619 do CPP. Note-se que inexiste no acórdão atacado qualquer omissão, contradição, obscuridade ou ambiguidade.
+Consta na decisão embargada expressamente a posição acerca da legalidade da prova baseada na interceptação telefônica no sentido da suficiência de fundamento para a autorização de quebra, bem como das suas prorrogações, sendo, inclusive, autorizadas por fundamentação exaustiva necessária. Consta também da decisão embargada que as questões todas suscitadas pelo agravante foram devidamente analisadas quando da prolação do acórdão pelo Tribunal de origem, não merecendo nenhum reparo, não havendo nenhuma contradição relevante que, de fato, enseja no reconhecimento de nulidade da prova baseada na interceptação telefônica e consequente, autorizar a absolvição do embargante.
+Observa-se que foram feitas referências aos trechos colacionados à decisão embargada para fundamentar a decisão que negou provimento ao recurso especial na parte conhecida, no sentido que havia fundamentos suficientes para a autorização de quebra, bem como das suas prorrogações. Cito: a polícia civil, por intermédio das investigações realizadas pela Delegacia de Investigações sobre Entorpecentes DISE, após autorização judicial, passou a monitorar os diálogos claramente relativos ao tráfico de drogas. Assim, a realização de diligências preliminares, atestou a verossimilhança das informações anônimas, possibilitando, inclusive, a identificação do ora apelantes (fl. 2.244).
+Frise-se que a interceptação telefônica é mero meio de obtenção de prova, contando dos autos que a condenação teve lastro em diversos elementos de prova, incluindo depoimentos, autos de prisão em flagrante, laudos toxicológicos, entre outros, sendo bastante suficiente para a condenação do embargante; sendo claramente inócuo, por consequência, alegar a nulidade por denúncia apócrifa, quando reconhecidos os elementos essenciais para a respectiva condenação.
+Não se constata, portanto, a presença de vícios que justifiquem a oposição dos embargos de declaração. Em verdade, pela argumentação apresentada, observa-se que a parte busca, de maneira indireta, rediscutir o mérito da decisão embargada, conduta incompatível com a finalidade dos embargos de declaração, que possuem caráter unicamente integrativo ou aclaratório, não sendo instrumento destinado à modificação ou substituição do julgamento (EDcl nos EREsp n. 1.434.604/PR, Ministro Raul Araújo, Corte Especial, DJe 1º/2/2022).
+Dessa forma, não se verifica a existência de omissão, contradição ou obscuridade na decisão proferida, sendo os embargos de declaração manifestamente improcedentes.
+Ante o exposto, à míngua de seus pressupostos, rejeito os presentes embargos de declaração.
