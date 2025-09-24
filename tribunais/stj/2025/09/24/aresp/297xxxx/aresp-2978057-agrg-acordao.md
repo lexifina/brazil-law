@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/09/2025 a 24/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. TRÁFICO DE DROGAS. PROVA DA MATERIALIDADE. LAUDO TOXICOLÓGICO EM CONSONÂNCIA COM OS DEMAIS ELEMENTOS DE PROVA COLHIDOS NOS AUTOS. SÚMULA 7/STJ. DECISÃO MANTIDA.
+Agravo regimental improvido.
+RELATÓRIO
+Mauricio Alves Moura ingressa com agravo regimental contra a decisão monocrática de fls. 328/331, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL.
+IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. TRÁFICO DE DROGAS. PROVA DA MATERIALIDADE. LAUDO TOXICOLÓGICO EM CONSONÂNCIA COM OS DEMAIS ELEMENTOS DE PROVA COLHIDOS NOS AUTOS. SÚMULA 7/STJ.
+Agravo em recurso especial não conhecido.
+O agravante argumenta que houve impugnação efetiva, concreta e pormenorizada dos fundamentos da decisão agravada, especialmente no que se refere à Súmula 7/STJ.
+Sustenta que a questão controvertida é eminentemente jurídica, relacionada à interpretação dos requisitos para que um laudo preliminar possa suprir a ausência do laudo toxicológico definitivo, conforme jurisprudência do STJ. Cita precedentes que permitem a revaloração de circunstâncias fáticas delimitadas nas instâncias inferiores, sem que isso se confunda com reexame de provas, vedado pela Súmula 7/STJ.
+Contesta, ainda, a aplicação da Súmula 83/STJ, argumentando que a decisão do Tribunal de origem está em dissonância com a jurisprudência do STJ. Destaca que o laudo preliminar nos autos baseou-se apenas em características físicas externas, sem testes químicos confirmatórios, o que não confere a certeza técnica exigida pela jurisprudência consolidada.
+Aponta a ausência ou insuficiência de provas para a configuração do tipo penal de tráfico de drogas. Reitera que a falta de um laudo definitivo da droga compromete a validade da acusação e a persecução penal, sendo imprescindível para a comprovação da materialidade do delito.
+Requer o conhecimento e provimento do agravo regimental para reformar a decisão monocrática e, ao final, conhecer e prover o recurso especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. TRÁFICO DE DROGAS. PROVA DA MATERIALIDADE. LAUDO TOXICOLÓGICO EM CONSONÂNCIA COM OS DEMAIS ELEMENTOS DE PROVA COLHIDOS NOS AUTOS. SÚMULA 7/STJ. DECISÃO MANTIDA.
+Agravo regimental improvido.
+VOTO
+O inconformismo não prospera.
+As razões do agravo regimental não são suficientes para afastar os fundamentos da decisão agravada, no sentido de que não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre, bem como que, em relação a esta Corte Superior, não cuidou de trazer julgado contemporâneo à Sumula 83 ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a jurisprudência atual do Superior Tribunal de Justiça (fls. 329/330):
+O Tribunal de origem não admitiu o apelo nobre, pela necessidade de reexame de provas (Súmula 7/STJ) e porque o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior de Justiça (Súmula 83/STJ).
+Contudo, a parte agravante, nas razões do agravo em recurso especial, no tocante à desta Corte, restringiu-se a afirmar, de maneira genérica, que não Súmula 7 se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166 /SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Em relação à desta Corte Superior, não cuidou de trazer julgado Súmula 83 contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a jurisprudência atual do Superior Tribunal de Justiça. Além disso, não comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. A orientação sedimentada é de que , nas razões do agravo, cabe ao agravante demonstrar que a orientação jurisprudencial desta Corte Superior é diversa daquela referida na decisão agravada ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre. Ilustrativamente: AgRg no AREsp n. 2.253.769/PR, de minha relatoria, Sexta Turma, DJe 18/8/2023; e AgRg no AREsp n. 2.223.178/BA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Reitero, por outro lado, que esta Corte admite, em situações excepcionais, a comprovação por laudo de constatação provisório, desde que elaborado por perito oficial e com grau de certeza idêntico ao do laudo definitivo, situação semelhante a retratada nestes autos. Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS .PROVA DA MATERIALIDADE. LAUDO TOXICOLÓGICO. AGRAVO DESPROVIDO.
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso especial, no qual o recorrente foi condenado por tráfico de drogas, com base no art. 33 da Lei n. 11.343/2006, à pena de 8 anos e 1 mês de reclusão e 826 dias-multa, em regime inicial fechado.
+2. A defesa ajuizou revisão criminal, alegando nulidade da condenação por ausência de prova idônea da materialidade delitiva, que foi julgada improcedente.
+3. A Terceira Seção desta Corte pacificou o entendimento de que o laudo toxicológico definitivo é imprescindível à comprovação da materialidade dos delitos envolvendo entorpecentes, mas admite-se, em situações excepcionais, a comprovação por laudo de constatação provisório, desde que elaborado por perito oficial e com grau de certeza idêntico ao do laudo definitivo.
+4. No caso, consta do acórdão que negou o laudo toxicológico preliminar está em consonância com os demais elementos de prova colhidos nos autos, com especial destaque para a própria confissão do acusado.
+5. Não se constatou a presença de elementos probatórios substancialmente novos que autorizem a ação revisional, nem contrariedade ao texto expresso da lei penal ou à evidência dos autos.
+6. Agravo desprovido.
+(AgRg no REsp n. 2.208.189/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025).
+Nego provimento ao agravo regimental.
