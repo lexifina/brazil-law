@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO PARANÁ contra decisão de fls. 315-318 da minha lavra que conheceu do agravo para conheceu em parte do recurso especial e, na extensão, negou-lhe provimento.
+Na origem, em sede de ação de cumprimento de sentença, foi acolhida, em parte, a impugnação do devedor (fl. 72).
+O Tribunal de origem negou ao agravo de instrumento, em acórdão assim ementado (fl. 79):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM AÇÃO INDENIZATÓRIA. JUROS COMPENSATÓRIOS. APLICAÇÃO DOS JUROS DE 6% (SEIS POR CENTO) AO ANO, CONFORME NOVO ENTENDIMENTO PROFERIDO NA ADI 2332/DF. IMPOSSIBILIDADE DE ALTERAÇÃO. ÍNDICE DE 12% FIXADO NA SENTENÇA TRANSITADA EM JULGADO. MATÉRIA ACOBERTADA PELO MANTO DA COISA JULGADA MATERIAL. INAPLICABILIDADE DA TESE PROFERIDA NA ADI 2332. RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E NEGADO PROVIMENTO.
+Os embargos declaratórios foram rejeitados (fls. 115).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente alegou violação dos arts. 489, § 1º, incisos IV e VI, 1.022, incisos I, II, e III, 502, 503, 505, inciso I, 507 e 508 do CPC de 2015; e 15-A e 15-B do Decreto-Lei n. 3.365/41, diante da não aplicação do conteúdo normativo dos referidos dispositivos pelo Tribunal de Justiça do Estado do Paraná. A parte recorrente alegou que o Tribunal de origem afastou a incidência do art. 15-A do Decreto-Lei n. 3.365/41, declarado constitucional pelo STF, sem fundamentação adequada, mesmo após a interposição de embargos de declaração que ressaltaram o equívoco.
+Reforçou, ademais, a inobservância da jurisprudência dominante nos Tribunais Superiores, especialmente no que tange à aplicação dos juros compensatórios e moratórios, conforme determinado na ADI n. 2.332/DF, que estabelece a taxa de 6% (seis por cento) ao ano.
+Entendeu, ainda, pela ocorrência de vício quanto à ausência de manifestação sobre os pedidos formulados nos embargos de declaração, que buscavam sanar omissões e contradições na decisão recorrida.
+Pretendeu a reforma do julgado para reconhecimento da afronta aos dispositivos legais mencionados, com a consequente declaração de nulidade do acórdão, ou, alternativamente, a adequação do julgado em conformidade com os arts. 502, 503, 505, inciso I, 507 e 508 do CPC de 2015; e 15-A e 15-B do Decreto-Lei n. 3.365/41.
+Não admitido o recurso (fls. 191-193), foi interposto o presente agravo em recurso especial (fls. 196-221).
+As contrarrazões foram apresentadas às fls. 225-232.
+Nesta Corte, o agravo foi conhecido para se conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento (fls. 315-318).
+Daí o presente agravo interno, no qual a parte agravante sustenta omissão a respeito dos juros moratórios.
+Ademais, aduz a inaplicabilidade da Súmula n. 83 do STJ, diante do entendimento desta Corte Superior sobre a não ofensa à coisa julgada na correção de erro de cálculo.
+Pretende, pois, a reconsideração ou a submissão do feito ao órgão colegiado.
+É o relatório.
+Decido.
+Tendo em vista as razões recursais, bem como a faculdade prevista nos arts. 1.021, § 2º, do CPC e 259 do RISTJ, reconsidero, em parte, a decisão de fls. 315-318 e passo, a seguir, a um novo exame do recurso interposto, a respeito dos juros moratórios.
+Consoante outrora destacado, o Tribunal de origem assim decidiu (fls. 79-86):
+Isso porque, quanto ao cálculo dos juros compensatórios, consta da decisão (Mov. 1.188.1 - 1º Grau), que estes serão arbitrados no limite de 6% (seis) por cento, ao ano entre a data de 27/05/1999 até 13/09 /2001 e de 12% (doze) por cento, da data de 13/08/2001 em diante, não tendo o Recurso Especial alterado o percentual de 12% (doze por cento).
+Dessa forma, a coisa julgada tem como objetivo proporcionar segurança dos direitos subjetivos, não podendo ser modificada nem mesmo por leis supervenientes. Assim, em respeito à coisa julgada, os juros compensatórios devem ser mantidos no percentual fixados no Acórdão do Recurso Especial (mov. 1.188), que dispôs:
+ ..
+Sendo assim, em observância à coisa julgada, deve prevalecer os percentuais referente a taxa de juros compensatórios fixados nos Acórdãos, conforme exegese do artigo 5º., XXXVI da Constituição Federal e artigos 502, 503, 507 e 508 do diploma processual.
+Em sede de embargos declaratórios, o Tribunal assim dispôs (fls. 115-122):
+Desta forma, ausente qualquer defeito na decisão, para o aperfeiçoamento em sede de Embargos de Declaração.
+ ..
+A oposição de embargos de declaração, somente se justifica nos limites do artigo 1.022 do CPC/2015, ou seja, a omissão a dar ensejo aos embargos de declaração deve ocorrer no âmbito do próprio julgado, quando, por exemplo, deixa-se deliberadamente de analisar determinado pedido ou causa de pedir. Quanto a contradição somente resta caracterizada quando a decisão judicial apresenta proposições inconciliáveis entre si, quando, por exemplo, parte de uma premissa na fundamentação e, em seguida, desdiz a asserção anterior. E, por fim, a obscuridade se traduz na falta de clareza ou sentido, que possa macular a decisão.
+ ..
+O julgador não está adstrito a rebater todos os argumentos apresentados pela parte, mas sim analisar as questões essenciais à solução da demanda. O Acórdão tratou do tema na exata medida das razões recursais.
+ ..
+E mais, a embargante discordando dos fundamentos utilizados pelo Acórdão deve interpor a via adequada no sentido de manifestar seu inconformismo, visto que os Embargos Declaratórios não se prestam para o reexame da causa ou modificação da decisão, devendo suas alegações ser invocadas através do recurso próprio.
+Nesta esteira, a razão teleológica dos Embargos Declaratórios é esclarecer o julgado, complementando-o quanto a eventuais pontos omissos, contraditórios ou obscuros. E, no caso, inexiste pelo embargante o intuito de sanar qualquer omissão, obscuridade ou contradição.
+Portanto, verifica-se que a questão suscitada pelo embargante não constitui ponto omisso, contraditório ou obscuro, mas mero inconformismo com os fundamentos jurídicos expostos no acórdão embargado.
+Pois bem, a parte recorrente sustenta negativa de prestação jurisdicional, pois, não obstante a oposição de embargos de declaração com o objetivo de sanar o vício de omissão, a Corte a quo rejeitou o recurso integrativo sem sanar o aduzido defeito quanto à incidência ou não de juros moratórios e seu percentual.
+Nos embargos de declaração opostos ao acórdão de origem, alegou-se o seguinte (fls. 90-96):
+ ..
+1. Da omissão do acórdão em apreciar as razões e os fundamentos presentes nas razões do agravo de instrumento
+1.1. Consta nas razões de agravo de instrumento como pedidos expressos no movimento 1.01:
+"c) seja dado provimento ao presente agravo de instrumento promovendose a reforma da decisão agravada para 1) extirpar os juros de mora do cálculo (só são devidos juros de mora caso o Precatório não seja pago no prazo Constitucional); 2) alterar a forma de incidência dos juros compensatórios: 6% a. a. e somente no período entre 27/05/1999 e 13/09/2001, conforme determinou o STJ (mov. 1.188, autos de origem)".
+Como pedido expresso do recurso consta:
+"Assim, a decisão agravada deve ser reformada, pois, em relação aos juros de mora desconsiderou o acórdão proferido na Ação Rescisória nº 824236. Quanto aos juros compensatórios, a decisão não observou a limitação temporal estabelecida na decisão do STJ (entre 27/05/1999 e 13/09/2001) e não observou que a taxa estipulada pelo STJ é de 6% (e não 12%)".
+Ademais, na fundamentação do recurso do ente estatal destaca-se:
+"Logo, a decisão agravada deve ser alterada, pois desconsiderou o acórdão do TJPR proferido na ação rescisória. Portanto, não deve haver cômputos de juros moratórios no cálculo. Estes somente incidirão se o Precatório expedido não for pago no prazo constitucional. Caso isso ocorra (ausência de pagamento) eles incidirão na taxa de 6% a. a. Isso foi determinado pelo TJPR na ação rescisória, porém não foi observado pelo Douto Juízo". A decisão proferida pelo TJPR assim se pronunciou: "O agravante se opõe a decisão proferida no cumprimento de sentença (mov. 182.1), que determina a remessa do feito a contadoria judicial, para a retificação de cálculos, (Precatório), a fim, de que os juros compensatórios sejam arbitrados no limite de 6 % (seis) por cento ao ano entre a data de 27/05/1999 até 13/09/2001 e de 12% da data de 13/08/2001 em diante, bem como a inclusão dos juros moratórios a partir de janeiro de 2010 (mov. 182.1 1º Grau). A controvérsia recursal cinge-se sobre aplicação dos juros compensatórios no percentual de 6% ao ano, tendo em vista a superveniência do entendimento firmado pelo STF no julgamento da ADI 2332. Razão não lhe assiste".
+Observa-se que em momento algum o acórdão se pronunciou sobre o conteúdo da ação rescisória já ajuizada com declaração de procedência dos pedidos formulados pelo Estado do Paraná tratando apenas dos juros compensatórios de acordo com o julgamento do recurso especial.
+De fato, verifico que o Tribunal a quo não se manifestou sobre a incidência ou não dos juros moratórios e seu percentual, ponto essencial à solução da controvérsia.
+Assim, tendo o Tribunal a quo se recusado a emitir pronunciamento sobre o aludido ponto controvertido, oportunamente trazido pelo ora recorrente nos embargos de declaração (fls. 90-96), ocorreu negativa de prestação jurisdicional e a consequente violação do art. 1.022 do CPC.
+Vale destacar que, na forma da jurisprudência dominante do STJ, ocorre negativa da devida prestação jurisdicional na hipótese em que o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente, tal como ocorreu, na espécie, porquanto impedira o posterior reexame no julgamento do recurso especial.
+A título ilustrativo, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.
+1. Caracteriza-se a violação dos arts. 489 e 1.022 do CPC/2015 quando, por deficiência de fundamentação no acórdão ou por omissão da Corte a quo quanto aos temas relevantes no recurso, o órgão julgador deixa de apresentar, de forma clara e coerente, fundamentação adequada e suficiente à conclusão do acórdão embargado.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.623.348/RO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/4/2021, DJe de 12/5/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. NOVO EXAME DO FEITO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA O DESLINDE DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+2. Fica configurada ofensa ao art. 1.022 do do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado em sede de embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.443.637/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/9/2019, DJe de 11/10/2019.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E RECONVENÇÃO. HONORÁRIOS SUCUMBENCIAIS. DISTRIBUIÇÃO. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022, I E II, DO CPC/2015. QUESTÕES RELEVANTES, EM TESE, À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE SUSCITADA NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO E RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência desta Corte, ocorre violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015 quando o Tribunal de origem deixa de enfrentar questões relevantes ao julgamento da causa, suscitadas pela parte recorrente. Adotando tal orientação: STJ, AgInt no AREsp 1.377.683/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 01/10/2020; REsp 1.915.277/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 27/04/2021.
+III. No caso, embora o Tribunal a quo tenha sido instado no Apelo, inclusive mediante Embargos de Declaração, a se pronunciar sobre questões relevantes ao deslinde da controvérsia, quedou-se silente aquele Sodalício sobre tais matérias, que se revelam relevantes e podem conduzir à modificação do entendimento perfilhado pela Corte de origem.
+IV. Nesse contexto, impõe-se a confirmação da decisão que, em face da reconhecida violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, conheceu do Agravo em Recurso Especial e deu provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se as omissões indicadas.
+V. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 1.810.873/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/12/2023, DJe de 20/1 2/2023.)
+Ante o exposto, reconsiderada em parte a decisão de fls. 315-318, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e DAR-LHE PARCIAL PROVIMENTO para anular o acórdão proferido no julgamento dos embargos de declaração e, como corolário, devolver os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento com a análise da questão omissa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. CUMPRIMENTO DE SENTENÇA EM AÇÃO INDENIZATÓRIA. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CPC. OMISSÃO CARACTERIZADA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO, COM RETORNO DOS AUTOS À ORIGEM PARA REJULGAMENTO. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
