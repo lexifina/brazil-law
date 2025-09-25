@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUICAO ADVENTISTA SUL BRASILEIRA DE EDUCACAO da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu recurso especial dirigido contra o acórdão prolatado em Agravo de instrumento no processo 0050247-27.2024.8.16.0000, assim ementado (fls. 81-87):
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. IMUNIDADE TRIBUTÁRIA. DECISÃO QUE INDEFERIU O PEDIDO DE INVERSÃO DO ÔNUS DA PROVA. INSURGÊNCIA DA AUTORA. ENTIDADE DE EDUCAÇÃO E ASSISTÊNCIA SOCIAL. PRESUNÇÃO DE PREENCHIMENTO DOS REQUISITOS DO ART. 14, DO CTN. IRRELEVÂNCIA. PRESUNÇÃO QUE FAZ RECAIR SOBRE O FISCO O ÔNUS DE COMPROVAR FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR. NECESSIDADE DE A AGRAVANTE DEMONSTRAR O PREENCHIMENTO DOS REQUISITOS PARA FAZER JUS À BENESSE PRETENDIDA, CONFORME A REGRA GERAL DO CPC. INVERSÃO DO ÔNUS DA PROVA QUE TEM LUGAR EM HIPÓTESES EXCEPCIONAIS. ART. 373, § 1º, DO CPC. DECISÃO AGRAVADA MANTIDA. RECURSO DE AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO.
+Houve a oposição de embargos de declaração, os quais foram rejeitados consoante acórdão de fls. 164-169.
+No recurso especial (fls. 176-188), fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, o recorrente alega ofensa aos arts. 374, inciso IV, 926, 927, inciso III, e § 4º do Código de Processo Civil, bem como ao art. 8º do Decreto n. 8.242/2014, bem como dissídio jurisprudencial.
+O Tribunal a quo não admitiu o recurso especial (fls. 346-350), ensejando a interposição do presente agravo (fls. 568-578).
+Contrarrazões ao agravo às fls. 583-592.
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos (fls. 346-350): (i) não é cabível a análise de matéria constitucional na via do recurso especial; (ii) falta de prequestionamento (Súmula n. 282 do STF); (iii) ausência de impugnação de fundamento autônomo (Súmula n. 283 do STF); (iv) necessidade de reexame de provas (Súmula n. 7 do STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, nenhum dos fundamentos.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA (INVIABILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL NO RESP; SÚMULAS N. 282 E 283 DO STF; E SÚMULA N. 7 DO STJ). SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
