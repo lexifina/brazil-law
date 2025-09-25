@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SEVERINO RANGEL FERREIRA contra decisão singular de minha lavra, na qual foi dado provimento ao recurso especial interposto pelo GRUPO HOSPITALAR DO RIO DE JANEIRO LTDA, para julgar improcedentes os pedidos da inicial, com a condenação do autor ao pagamento das custas processuais e honorários advocatícios, fixados em 10% (dez por cento) sobre o proveito econômico pretendido, nos moldes do art. 85, §§ 2º, I a IV, do Código de Processo Civil, com ônus suspensos no caso de beneficiário da justiça gratuita (fl. 1273).
+Nas razões do seu recurso, a parte embargante alega, em síntese, que a decisão embargada incorreu em omissão ao não considerar a prova pericial produzida nos autos, que seria categórica em afirmar a necessidade do autor de atendimento home care no regime de internação domiciliar, com condições especiais, como fornecimento de cama pneumática e assistência de técnico de enfermagem por 12 horas diárias. Sustenta, ainda, que a decisão embargada desconsiderou as Súmulas 5, 7 e 83 do Superior Tribunal de Justiça, bem como a jurisprudência consolidada desta Corte sobre a matéria (fls. 1276-1287).
+Como se vê dos argumentos tecidos pela embargante, longe de buscar suprir omissão, contradição ou obscuridade, a pretensão aduzida é meramente infringente, objetivo que escapa à finalidade dos embargos de declaração. Fundamentos voltados à reforma do mérito da decisão devem ser deduzidos no remédio processual adequado.
+Em face do exposto, rejeito os embargos declaratórios.
+Intimem-se.
+EMENTA
