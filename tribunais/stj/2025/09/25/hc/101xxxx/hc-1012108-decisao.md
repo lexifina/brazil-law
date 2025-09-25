@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado em favor de Jaime Prates de Abreu, contra decisão de liminar do Tribunal de Justiça do Estado do Espírito Santo que denegou a ordem no HC n. 5004745-65.2025.8.08.0000.
+O paciente encontra-se preso preventivamente desde 6 de janeiro de 2025, no âmbito de ação penal na qual é acusado da suposta prática de homicídio qualificado, fato ocorrido, em tese, em 24 de julho de 2003.
+A defesa sustenta, em síntese, a ocorrência de constrangimento ilegal, alegando: (I) - Ausência de contemporaneidade, pois a prisão foi decretada em agosto de 2015, mais de 12 anos após o suposto crime; (II) - Nulidade da decisão, por ter sido proferida de ofício pelo magistrado, sem requerimento do Ministério Público ou da autoridade policial, em violação ao artigo 311 do Código de Processo Penal; (III) - Falta de fundamentação concreta para a manutenção da custódia, ressaltando que o paciente se apresentou espontaneamente, possui endereço fixo e trabalho lícito e (IV) - Condição pessoal do paciente, que é idoso, com 63 anos de idade, o que demandaria a aplicação do Estatuto do Idoso.
+A liminar foi indeferida.
+O Ministério Público Federal, em parecer, opinou pelo não conhecimento do writ.
+É o relatório. DECIDO.
+Inicialmente, cumpre registrar que a presente impetração volta-se contra decisão que indeferiu a liminar em habeas corpus no Tribunal de origem. A regra geral, consolidada na Súmula n. 691 do Supremo Tribunal Federal, veda o conhecimento de habeas corpus em tal situação, sob pena de indevida supressão de instância.
+A superação de tal enunciado é medida excepcional, reservada a casos de manifesta e incontestável ilegalidade, teratologia ou abuso de poder. Não é o que se observa no presente caso, conforme passo a explicar.
+Como mencionado pelo MPF (fl. 71):
+Além do que, conforme consta das informações prestadas, o mérito do HC n. 5004745-65.2025.8.08.0000 foi julgado, sendo a ordem denegada.
+De toda forma, vejo que o fundamento para a prisão não foi o crime em si, mas a conduta processual do paciente. Após o recebimento da denúncia, ele não foi encontrado para a citação pessoal, o que levou à sua citação por edital e, consequentemente, à suspensão do processo e do prazo prescricional, conforme o artigo 366 do Código de Processo Penal.
+A decisão que decretou a prisão em 25 de agosto de 2015 foi expressa ao indicar que "o acusado encontra-se foragido, denotando sua intenção em frustrar a aplicação da lei penal".
+O estado de fuga do paciente foi uma circunstância contínua, que perdurou até sua captura em janeiro de 2025.
+Portanto, o perigo para a aplicação da lei penal, fundamento da prisão, permaneceu atual e contemporâneo durante todo o período em que ele se manteve foragido.
+Assim, a medida cautelar, decretada em 2015, era contemporânea à constatação da fuga, e sua efetivação em 2025 foi contemporânea à captura, momento em que o Estado pôde, finalmente, fazer valer a ordem judicial para garantir o curso do processo.
+A alegação de que a prisão foi decretada de ofício, violando o sistema acusatório, deve ser analisada à luz do contexto legal da época.
+Trata-se de uma hipótese legal específica, na qual a própria inércia e fuga do réu provocam a atuação judicial para evitar a impunidade. A decisão não foi um ato arbitrário e desvinculado dos autos, mas uma consequência direta da conduta do acusado, que, ao não ser encontrado, deu causa à aplicação do referido dispositivo legal.
+Ademais, a alegação de nulidade ampara-se em jurisprudência consolidada após as alterações promovidas pela Lei n. 13.964/2019 ("Pacote Anticrime"), que restringiu de forma mais explícita a atuação de ofício do juiz.
+A aplicação retroativa dessa nova orientação para anular um ato praticado em 2015, que encontrava amparo na legislação e na jurisprudência da época, não se mostra cabível, especialmente na via estreita do habeas corpus, que exige prova de ilegalidade flagrante.
+A defesa sustenta que não há fundamentação concreta para a prisão. Melhor sorte não assiste a defesa quanto também quanto ao ponto. Explico. O fundamento é extremamente concreto: o paciente permaneceu foragido por anos a fio. Conforme já mencionado, o mandado de prisão, expedido em 2015, só foi cumprido em janeiro de 2025, o que demonstra, de forma inequívoca, sua intenção de se furtar à responsabilidade penal. Essa conduta, por si só, coloca em risco a aplicação da lei penal e justifica a medida extrema.
+A alegação de que o paciente "apresentou-se espontaneamente" não se sustenta diante dos fatos narrados. Os autos indicam que ele foi "preso preventivamente desde 06/01/2025" e que o mandado de prisão foi "cumprido".
+A captura do réu após longa fuga não pode ser equiparada a uma apresentação voluntária. Ainda que ele tenha constituído advogado após a prisão, tal ato não tem o condão de apagar o comportamento evasivo anterior, que é o verdadeiro fundamento da custódia.
+Ademais, as condições pessoais favoráveis, como a idade de 63 anos, a primariedade e a ocupação lícita, não são, isoladamente, suficientes para garantir a revogação da prisão preventiva.
+Ainda, a jurisprudência consolidada neste Superior Tribunal de Justiça que, quando presentes os requisitos do art. 312 do CPP, as condições pessoais favoráveis do agente não obstam a d ecretação da custódia cautelar. No presente caso, o risco concreto à aplicação da lei penal, evidenciado pela fuga que perdurou por quase uma década, é um fator preponderante que supera as condições subjetivas do paciente, havendo assim a necessidade de garantir que o processo penal atinja sua finalidade justifica a manutenção da medida.
+Por fim, no caso em tela não vislumbro a aplicação da regra do artigo 647-A do CPP, diante da ausência de flagrante ilegalidade na decisão impugnada.
+Ante o exposto, não conheço do presente Habeas Corpus.
+Publique-se. Intimem-se.
+EMENTA
