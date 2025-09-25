@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 226):
+AGRAVO DE INSTRUMENTO. Plano de saúde. Insurgência contra decisão que deferiu a tutela provisória para determinar o custeio de clínica em que se encontra o autor internado involuntariamente, em decorrência de comportamento psicótico e esquizofrenia, em razão de dependência química até o 30º dia, se houver cláusula de coparticipação, ou que seja disponibilizada a transferência para clínica credenciada apta ao atendimento, a partir do 31º dia, observada também a cláusula antes mencionada, sob pena de multa diária. Pleito de revogação da decisão que fica afastado, tendo em vista que preenchidos os requisitos do artigo 300 do CPC. Demais questões não enfrentadas na r. decisão agravada, dizendo respeito ao mérito da demanda, o que impede seu enfrentamento imediato, sob pena de supressão de instância. Recurso a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a agravante aponta violação dos artigos 300, 421, 422 e 1022, II, do Código de Processo Civil, 112 do Código Civil.
+Sustenta que "o atendimento deve ser realizado preferencialmente em estabelecimentos pertencentes à rede credenciada do plano de saúde, salvo impossibilidade devidamente justificada. Ao postergar a análise sobre a existência de clínica credenciada apta a prestar o tratamento necessário, o acórdão acaba por impor à operadora de saúde a obrigação de custear o tratamento em instituição particular sem que se tenha verificado, de forma adequada e tempestiva, a viabilidade de atendimento dentro da rede conveniada" (fl. 240).
+Defende que a obrigatoriedade de cobertura para tratamento realizado por profissional fora da rede credenciada ocorre apenas em situações específicas, condição que não se verifica, uma vez que há disponibilidade de prestadores na rede credenciada local capazes de atender às necessidades assistenciais do beneficiário.
+Contrarrazões não foram apresentadas.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 277/ 279, contra a qual foi interposto o presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, destaco que o provimento judicial que analisa o pedido de concessão de tutela provisória (tutela de urgência), por possuir caráter precário (pois, em geral, resulta de cognição sumária e sem contraditório), é passível de alteração no curso do processo principal, não sendo considerado de última instância para efeito de interposição de recurso especial. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TUTELA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO. ART. 919, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 735 STF POR ANALOGIA. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. REQUISITOS NÃO PREENCHIDOS. SÚMULA 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento dessa Corte é de que as decisões que concedem ou indeferem liminares, bem como efeito suspensivo a embargos do devedor (cf. STJ, Segunda Turma, RESp n. 1.676.515/DF, Rel. Ministro Herman Benjamin, DJe de 3.8.2021), ainda são passíveis de alteração no curso do processo principal, não podendo, por isso, ser consideradas de única ou última instância a ensejar a interposição dos recursos constitucionais. Precedentes.
+2. Aplicação, por analogia, do óbice da Súmula 735 do STF, no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+3. Tribunal de origem reputou que não houve o preenchimento dos requisitos para tutela de urgência. Ausência da probabilidade do direito invocado.
+4. Rever as conclusões adotadas pelo Tribunal de origem quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame de provas, o que é vedado em razão da incidência da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.130.128/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA PROVISÓRIA. SENTENÇA SUPERVENIENTE. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. PRECEDENTES. REQUISITOS DA ANTECIPAÇÃO DE TUTELA. SÚMULA N. 735/STF. PRETENSÃO DE REEXAME DA MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+ .. .
+2. Ademais, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula n. 735 do STF. Precedentes.
+3. Rever a conclusão a respeito do preenchimento dos requisitos da tutela de urgência demandaria revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.232.728/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023.)
+No caso, o agravo de instrumento, não provido pela Corte estadual, desafiou decisão "que deferiu a tutela pleiteada pelo autor para determinar que a ré custeie as despesas do tratamento do requerente, em especial internação psiquiátrica já em curso e tudo o quanto for necessário ao tratamento, arcando com o pagamento respectivo diretamente junto à instituição, de forma integral, até o 30º dia de internação, caso haja cláusula de coparticipação em contrato" (fl. 226).
+Nesse aspecto, entendo que o recurso especial esbarra na orientação cristalizada na Súmula 735 do Supremo Tribunal Federal (STF).
+Além do mais,  para  a  análise  da  admissibilidade  do  especial  pela  alínea  "a"  do  inciso  III  do  art.  105  da  Constituição  Federal,  é  imprescindível  que  a  argumentação  erigida  no  recurso demonstre  de  plano,  mediante  uma  concatenação  lógica,  a  ofensa  aos  artigos  indicados.
+No  caso  em  apreço,  a  parte  recorrente  limita-se  a  apontar  a  violação  dos  artigos 300, 421, 422 e 1022, II, do Código de Processo Civil, 112 do Código Civil,  deixando  de  realizar  a  demonstração  inequívoca  da  ofensa  a  eles,  a  fim  de  possibilitar  o  seu  exame  em  conjunto  com  o  decidido  nos  autos.
+Em  verdade,  a  alegação  de  afronta  aos  artigos  mencionados  é  aposta  de  forma  extremamente  sucinta,  genérica,  e  desacompanhada  de  fundamentos  que  a  embasem.
+Nesse  contexto,  é  nítida  a  deficiência  de  fundamentação  no  recurso  da  parte,  razão  pela  qual  impõe-se  a  aplicação  da  Súmula  284/STF.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
