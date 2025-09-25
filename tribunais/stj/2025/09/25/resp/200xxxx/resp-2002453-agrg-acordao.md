@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Marluce Caldas, Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+Direito Penal. Agravo Regimental. Evasão de divisas e lavagem de dinheiro. Autonomia dos delitos. Dosimetria da pena. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu parcialmente de recurso especial e, na parte conhecida, negou-lhe provimento, mantendo a condenação dos agravantes pelos crimes de evasão de divisas (art. 22, parágrafo único, da Lei n. 7.492/1986) e lavagem de dinheiro (art. 1º, caput e § 4º, da Lei n. 9.613/1998).
+2. Os agravantes reiteraram as teses de: (i) prescrição da pretensão punitiva; (ii) ocorrência de bis in idem entre os crimes de evasão de divisas e lavagem de dinheiro; (iii) redimensionamento da pena-base ao mínimo legal; (iv) aplicação da atenuante da confissão espontânea; e (v) substituição da causa de aumento do art. 1º, § 4º, da Lei n. 9.613/1998 pela continuidade delitiva.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se as teses apresentadas pelos agravantes são aptas a reformar a decisão monocrática que manteve a condenação pelos crimes de evasão de divisas e lavagem de dinheiro, bem como os critérios utilizados na dosimetria da pena.
+III. Razões de decidir
+4. A tese de prescrição da pretensão punitiva não foi conhecida por ausência de prequestionamento, conforme entendimento consolidado na Súmula n. 211/STJ.
+5. Os crimes de evasão de divisas e lavagem de dinheiro são autônomos, tutelam bens jurídicos distintos e admitem concurso material, conforme jurisprudência pacífica do STJ.
+6. O redimensionamento da pena-base ao mínimo legal foi afastado, pois o Tribunal de origem fundamentou o aumento da pena em elementos concretos extraídos dos autos, sendo vedado o reexame do conjunto fático-probatório em recurso especial, nos termos da Súmula n. 7/STJ.
+7. A aplicação da atenuante da confissão espontânea foi rejeitada, pois os réus negaram os fatos em juízo, não havendo confissão utilizada para fundamentar a condenação, conforme Súmula n. 545/STJ.
+8. A substituição da causa de aumento do art. 1º, § 4º, da Lei n. 9.613/1998 pela continuidade delitiva foi afastada, prevalecendo a causa de aumento prevista na lei especial, em observância ao princípio da especialidade.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Os crimes de evasão de divisas e lavagem de dinheiro são autônomos, tutelam bens jurídicos distintos e admitem concurso material.
+2. A causa de aumento prevista no art. 1º, § 4º, da Lei n. 9.613/1998 prevalece sobre a regra geral do art. 71 do Código Penal, em observância ao princípio da especialidade.
+3. A atenuante da confissão espontânea somente incide quando a confissão, ainda que parcial, é utilizada para fundamentar a condenação.
+Dispositivos relevantes citados: Lei n. 7.492/1986, art. 22, parágrafo único; Lei n. 9.613/1998, art. 1º, caput e § 4º; Código Penal, art. 71; Código Penal, art. 65, III, "d".
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, Súmula n. 211; STJ, Súmula n. 545; STJ, AgRg no RHC 131.089/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 09.02.2021; STJ, APn 970/DF, Rel. Min. Maria Isabel Gallotti, Corte Especial, julgado em 04.05.2022; STJ, AgRg nos EDcl no REsp 1.667.301/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 05.09.2019.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FABIANO ALEXANDRE DE PONTES E SILVA E FLÁVIO ALEXANDRE DE PONTES E SILVA contra decisão monocrática de minha lavra que conheceu parcialmente do recurso especial e, na parte conhecida, negou-lhe provimento (fls. 2486-2490).
+O recurso especial havia sido interposto contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO que manteve a condenação dos recorrentes pelos crimes previstos no art. 22, parágrafo único, da Lei n. 7.492/1986 (evasão de divisas) e art. 1º, caput e § 4º, da Lei n. 9.613/1998 (lavagem de dinheiro).
+Na decisão agravada, não conheci das alegações de prescrição da pretensão punitiva e de violação na dosimetria da pena por ausência de prequestionamento e incidência da Súmula n. 7/STJ, respectivamente. Quanto às demais teses, conheci parcialmente do recurso e neguei-lhe provimento, mantendo a autonomia entre os crimes de evasão de divisas e lavagem de dinheiro, bem como a aplicação da causa de aumento prevista no art. 1º, § 4º, da Lei n. 9.613/1998.
+No presente agravo regimental (fls. 2494-2542), os agravantes reiteram as teses já deduzidas no recurso especial, sustentando, em síntese: (i) a prescrição da pretensão punitiva de ambos os delitos; (ii) o bis in idem entre os crimes de evasão de divisas e lavagem de dinheiro; (iii) o redimensionamento da pena-base ao mínimo legal; (iv) a aplicação da atenuante da confissão espontânea; e (v) a aplicação da continuidade delitiva em substituição à causa de aumento do art. 1º, § 4º, da Lei n. 9.613/1998.
+Intimado, o Ministério Público Federal manifestou ciência da decisão (fl. 2493).
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental. Evasão de divisas e lavagem de dinheiro. Autonomia dos delitos. Dosimetria da pena. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu parcialmente de recurso especial e, na parte conhecida, negou-lhe provimento, mantendo a condenação dos agravantes pelos crimes de evasão de divisas (art. 22, parágrafo único, da Lei n. 7.492/1986) e lavagem de dinheiro (art. 1º, caput e § 4º, da Lei n. 9.613/1998).
+2. Os agravantes reiteraram as teses de: (i) prescrição da pretensão punitiva; (ii) ocorrência de bis in idem entre os crimes de evasão de divisas e lavagem de dinheiro; (iii) redimensionamento da pena-base ao mínimo legal; (iv) aplicação da atenuante da confissão espontânea; e (v) substituição da causa de aumento do art. 1º, § 4º, da Lei n. 9.613/1998 pela continuidade delitiva.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se as teses apresentadas pelos agravantes são aptas a reformar a decisão monocrática que manteve a condenação pelos crimes de evasão de divisas e lavagem de dinheiro, bem como os critérios utilizados na dosimetria da pena.
+III. Razões de decidir
+4. A tese de prescrição da pretensão punitiva não foi conhecida por ausência de prequestionamento, conforme entendimento consolidado na Súmula n. 211/STJ.
+5. Os crimes de evasão de divisas e lavagem de dinheiro são autônomos, tutelam bens jurídicos distintos e admitem concurso material, conforme jurisprudência pacífica do STJ.
+6. O redimensionamento da pena-base ao mínimo legal foi afastado, pois o Tribunal de origem fundamentou o aumento da pena em elementos concretos extraídos dos autos, sendo vedado o reexame do conjunto fático-probatório em recurso especial, nos termos da Súmula n. 7/STJ.
+7. A aplicação da atenuante da confissão espontânea foi rejeitada, pois os réus negaram os fatos em juízo, não havendo confissão utilizada para fundamentar a condenação, conforme Súmula n. 545/STJ.
+8. A substituição da causa de aumento do art. 1º, § 4º, da Lei n. 9.613/1998 pela continuidade delitiva foi afastada, prevalecendo a causa de aumento prevista na lei especial, em observância ao princípio da especialidade.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Os crimes de evasão de divisas e lavagem de dinheiro são autônomos, tutelam bens jurídicos distintos e admitem concurso material.
+2. A causa de aumento prevista no art. 1º, § 4º, da Lei n. 9.613/1998 prevalece sobre a regra geral do art. 71 do Código Penal, em observância ao princípio da especialidade.
+3. A atenuante da confissão espontânea somente incide quando a confissão, ainda que parcial, é utilizada para fundamentar a condenação.
+Dispositivos relevantes citados: Lei n. 7.492/1986, art. 22, parágrafo único; Lei n. 9.613/1998, art. 1º, caput e § 4º; Código Penal, art. 71; Código Penal, art. 65, III, "d".
+Jurisprudência relevante citada: STJ, Súmula n. 7; STJ, Súmula n. 211; STJ, Súmula n. 545; STJ, AgRg no RHC 131.089/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 09.02.2021; STJ, APn 970/DF, Rel. Min. Maria Isabel Gallotti, Corte Especial, julgado em 04.05.2022; STJ, AgRg nos EDcl no REsp 1.667.301/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 05.09.2019.
+VOTO
+O agravo regimental não merece prosperar.
+Verifico que os agravantes impugnaram todos os fundamentos da decisão agravada, não incidindo o óbice da Súmula n. 182/STJ. Passo, portanto, ao exame das teses recursais.
+Quanto à alegada prescrição da pretensão punitiva, mantenho o não conhecimento desta tese por ausência de prequestionamento.
+Com efeito, embora os recorrentes tenham suscitado a matéria em sede de embargos de declaração, o Tribunal de origem não se pronunciou sobre o tema, limitando-se a afirmar que inexistia omissão no julgado. A mera oposição de embargos declaratórios não supre a ausência de pronunciamento judicial sobre a questão, conforme entendimento consolidado na Súmula n. 211 desta Corte: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Ainda que se conhecesse do tema, cumpre ressaltar o entendimento da Sexta turma sobre a prescrição no crime de lavagem de dinheiro:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. LAVAGEM DE DINHEIRO. TRANCAMENTO DA AÇÃO PENAL POR INÉPCIA OU AUSÊNCIA DE JUSTA CAUSA. NÃO ACOLHIMENTO. DESCRIÇÃO PORMENORIZADA DA CONDUTA. LASTRO PROBATÓRIO MÍNIMO. PRECEDENTES DO STJ. ATIPICIDADE DA CONDUTA. QUESTÃO NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO. SUPRESSÃO DE INSTÂNCIA. PRESCRIÇÃO. CRIME PERMANENTE. NÃO OCORRÊNCIA. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O trancamento da ação penal em habeas corpus, por falta de justa causa ou por inépcia, situa-se no campo da excepcionalidade, somente cabível quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta supostamente praticada pelo acusado, seja da ausência de indícios de autoria e materialidade delitiva, ou ainda da incidência de causa de extinção da punibilidade.
+3. A denúncia, à luz do disposto no art. 41 do Código de Processo Penal, deve conter a descrição do fato criminoso, com todas as suas circunstâncias, a definição da conduta do autor, sua qualificação ou esclarecimentos capazes de identifica-lo, bem como, quando necessário, o rol de testemunhas, não se podendo falar, se preenchido tais requisitos, em inépcia.
+4. Não há falar em inépcia da denúncia que particulariza detalhadamente a conduta do ora recorrente, destinada à ocultação e lavagem dos valores provenientes, direta ou indiretamente, dos crimes contra a Administração Pública cometidos por organização criminosa, cujos principais integrantes foram denunciados em processo que tramitou na Vara de origem, indicando os indícios de autoria e materialidade, e, assim, permitindo o pleno exercício da ampla defesa e do contraditório, em conformidade com o art. 41 do Código de Processo Penal.
+5. Existindo lastro probatório para a propositura da ação penal, incabível a alegação de falta de justa causa para a propositura da ação penal.
+6. "Nos termos da jurisprudência firmada nesta Corte e no Supremo Tribunal Federal, o crime de lavagem de bens, direitos ou valores, quando praticado na modalidade típica de "ocultar" ou "dissimular", é permanente, protraindo-se sua execução até que os objetos materiais do branqueamento se tornem conhecidos" (AgRg no AREsp 1523057/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/06/2020, DJe 15/06/2020), de modo que se afasta a apontada prescrição.
+7. Não tendo sido apreciada a tese de atipicidade da conduta, incabível sua apreciação pelo Superior Tribunal de Justiça, porque tal proceder implicaria indevida supressão de instância.
+8. Agravo regimental improvido.
+(AgRg no RHC n. 131.089/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 9/2/2021, DJe de 17/2/2021.)
+No que tange ao alegado bis in idem entre os crimes de evasão de divisas e lavagem de dinheiro, a jurisprudência do STJ é pacífica no sentido de que se trata de delitos autônomos, que tutelam bens jurídicos distintos e admitem concurso material.
+O crime previsto no art. 22, parágrafo único, da Lei n. 7.492/1986 visa proteger o Sistema Financeiro Nacional e as reservas cambiais do país, enquanto a lavagem de dinheiro tutela a administração da justiça e a ordem econômica.
+Nesse sentido, já decidiu a a Corte Especial:
+AÇÃO PENAL PROPOSTA CONTRA MAGISTRADO. EMBARGOS DE DECLARAÇÃO QUE VISAM AO REEXAME DO ATO JUDICIAL EMBARGADO. INADMISSIBILIDADE. RECEBIMENTO DE DENÚNCIA CONTRA MAGISTRADO. CORRUPÇÃO PASSIVA, EVASÃO DE DIVISAS, LAVAGEM DE CAPITAIS. AFASTAMENTO CAUTELAR. LEGITIMIDADE. LOMAN, ART. 29. ALEGAÇÕES DE INOCÊNCIA E DE AUSÊNCIA DE ELEMENTO SUBJETIVO. INADMISSIBILIDADE, NESTA FASE PROCEDIMENTAL. EMBARGOS DE DECLARAÇÃO REJEITADOS. DENÚNCIA RECEBIDA.
+1. Embargos de declaração opostos pelo denunciado ao acórdão no qual esta Corte Especial referendou o afastamento de desembargador das funções judicantes, bem como fixou outras medidas cautelares.
+Ausência de vícios no acórdão embargado. Embargos que visam ao reexame do decidido. Inadmissibilidade.
+2. Denúncia que atende ao disposto no art. 41 do CPP, descrevendo os fatos atribuídos ao acusado e apresentando elementos probatórios mínimos, suficientes para essa fase processual, a propósito da materialidade do fato delituoso e da autoria do crime. A alegação de ausência de justa causa e falta de elemento subjetivo demanda o exame de provas, providência inadmissível na fase de recebimento da denúncia. Não se acham presentes, de plano, quaisquer das hipóteses que acarretam a rejeição dela (CPP, art. 395).
+3. A mera afirmação de que o denunciado ocupa o cargo de desembargador é insuficiente para a incidência da causa de aumento de pena prevista no art. 327, § 2º, do Código Penal.
+4. Comete o delito tipificado no art. 22, parágrafo único, primeira parte, da Lei n. 7.492/1986, aquele que efetua operações de câmbio não autorizadas e promove, sem autorização legal, a evasão de divisas do País, independentemente do valor, dado não carecer o referido tipo penal de complementação por ato regulamentar.
+Configura a referida conduta típica a remessa de quantias, ao exterior, por meio de operações dólar-cabo, com a entrega de valores em moeda estrangeira fora do território nacional, mediante a compensação com importância paga em moeda nacional no Brasil.
+Precedentes.
+5. Recebimento da denúncia quanto aos crimes de corrupção passiva, em concurso de pessoas (CP, art. 317, caput, § 1º, conjugado com os arts. 29 e 30 do CP); de evasão de divisas, em concurso de pessoas e em continuidade delitiva (Lei 7.492, de 1986, art. 22, parágrafo único, primeira parte, conjugado com os arts. 29 e 71 do CP) e de "lavagem" ou ocultação de bens, direitos e valores, em concurso de pessoas (Lei 9.613, de 1998, art. 1º, § 4º, conjugado com o art. 29 do CP).
+(APn n. 970/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 4/5/2022, DJe de 20/6/2022.)
+A revisão da dosimetria da pena também não comporta acolhimento. O Tribunal de origem fundamentou o aumento da pena-base em elementos concretos extraídos dos autos, notadamente o elevado montante evadido e ocultado, o modus operandi sofisticado e as graves consequências dos delitos. Para infirmar tais conclusões, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Igualmente não prospera a pretensão de aplicação da atenuante da confissão espontânea. O acórdão recorrido foi expresso ao afirmar que os réus não confessaram a prática delitiva, tendo negado os fatos em juízo. A atenuante prevista no art. 65, III, "d", do Código Penal, conforme a Súmula n. 545/STJ, somente incide quando a confissão, ainda que parcial, é utilizada para fundamentar a condenação, o que não ocorreu no caso concreto.
+Por fim, quanto à causa de aumento do art. 1º, § 4º, da Lei n. 9.613/1998, o acórdão recorrido assim justificou a dosimetria da pena (fl. 1980):
+Na terceira fase, aplicável a causa de aumento do art. 1º, § 4º, da Lei nº 9.613/98, uma vez que o crime foi cometido de forma habitual e foi perpetrado por uma ampla estruturação de atos, de forma que a pena deve ser exasperada em 1/6 (um sexto), conduzindo ao valor de 04 (quatro) anos e 01 (um) mês de reclusão , nos termos da sentença, tornada definitiva, devendo ser cumprida, nos termos do art. 33, §2º, alínea "b", e §3º, do Código Penal, e art. 59, caput , do Código Penal, em regime inicialmente semiaberto e em estabelecimento penal a ser definido pelo Juízo das Execuções Penais.
+Como se vê, o Tribunal de origem entendeu presentes os requisitos para o reconhecimento da habitualidade delitiva, apta a fazer incidir a causa de aumento do art. 1º, § 4º, da Lei n. 9.613/98. Para afastar o delineamento fático realizado pelo Tribunal de origem e entender que a reiteração das condutas caracteriza continuidade, seria necessário o reexame dos fatos, providência vedada nesta instância, conforme óbice da Súmula n. 7, STJ.
+Ademais, a decisão está em consonância com a jurisprudência desta Corte, que considera legítima a incidência da majorante em questão quando se constata a habitualidade da conduta do agente, por longo período de tempo e com a execução de inúmeros atos (AgRg no AREsp n. 2.324.431/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/8/2023, DJe de 21/8/2023.).
+Por fim, o precedente citado pela parte - a AP n. 470, STF - somente fundamenta o afastamento da causa de aumento pela habitualidade, como pleiteado pela parte, caso haja aplicação cumulativa com a continuidade delitiva, o que não ocorreu no caso concreto.
+Destarte, a decisão monocr ática encontra-se devidamente fundamentada e em harmonia com a jurisprudência dominante desta Corte, não havendo razões para sua reforma.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
