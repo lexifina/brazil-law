@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de PAMELA RIBEIRO COSTA - condenada como incursa no crime de tráfico de drogas, majorado pela interestadualidade (Ação Penal n. 1500495-13.2025.8.26.0545) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, comporta pronto acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 1ª Vara Criminal da comarca de Bragança Paulista/SP, e mantida pelo Tribunal, ao argumento de que a minorante do tráfico privilegiado foi afastada com fundamento, apenas, na quantidade de drogas apreendida em poder da paciente e no fato de o transporte da substância entorpecente ter se realizado entre dois Estados da Federação (fl. 3).
+Em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, percebo a ocorrência do ilegal constrangimento.
+Do atento exame dos autos observa-se que nem a sentença, nem o acórdão hostilizados lograram demonstrar, com fundamento em elementos concretos dos autos, a dedicação da paciente a atividades criminosas, tendo a sentença se limitado a afirmar que a acusada incorreu no tráfico interestadual. Saiu de Belo Horizonte, em um ônibus, pegou a droga em Curitiba/PR, sendo sua intenção o retorno a Belo Horizonte/MG, quando detida em São Paulo. Da mesma forma, a exorbitante quantidade de droga por ela transportada está a indicar que ela integrava uma organização maior voltada para a prática do crime (fl. 31), e o acórdão feito menção, apenas, à quantidade de droga apreendida (quase 20 kg de maconha - fls. 19/20).
+Redimensionando-se a reprimenda imposta, temos:
+Mantenho a fixação da pena em 5 anos de reclusão e 500 dias-multa, conforme realizado pelas instâncias ordinárias na primeira e segunda fases. Na terceira etapa, aplico a minorante do tráfico privilegiado em 1/6 (quase 20 kg de maconha), resultando a reprimenda em 4 anos e 2 meses de reclusão, e 416 dias-multa. Aplico, ainda, a majorante da interestadualidade em 1/6, resultando a pena em 4 anos, 10 meses e 10 dias de reclusão, e 485 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+O regime inicial deverá ser o semiaberto.
+Em face do exposto, concedo liminarmente a ordem impetrada para reconhecer a minorante do tráfico privilegiado, resultando a reprimenda da paciente em 4 anos, 10 meses e 10 dias de reclusão, e 485 dias-multa, no regime inicial semiaberto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS (QUASE 20 KG DE MACONHA). REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO SEM FUNDAMENTAÇÃO. IMPOSSIBILIDADE. PRIMARIEDADE E FALTA DE INDICAÇÃO DE CIRCUNSTÂNCIAS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO EVIDENCIADO.
+Ordem liminarmente concedida.
