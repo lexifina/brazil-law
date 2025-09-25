@@ -1,0 +1,73 @@
+DECISÃO
+Em análise, recurso especial interposto por COMPANHIA SIDERURGICA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado (fls. 756-767):
+AGRAVO DE INSTRUMENTO. LEVANTAMENTO DE DEPÓSITO RECONSIDERADO PELO JUÍZO A QUO. INEXISTÊNCIA DE PRECLUSÃO. OBEDIÊNCIA A COISA JULGADA.
+1- A decisão agravada reconsiderou decisão anteriormente proferida, que havia determinado o levantamento integral da quantia depositada pela agravante.
+Nesse caso, não há que se falar em preclusão, uma vez que a preclusão pro judicato tem limites, e um deles é o respeito à coisa julgada.
+É óbvio que o peso desta é maior do que o da preclusão, fenômeno estritamente processual.
+2- A pretensão da agravante, de levantamento dos depósitos por ela realizado ação cautelar, deve respeitar os limites da decisão proferida na ação ordinária já transitada em julgada.
+3- Agravo de instrumento improvido.
+Os embargos de declaração foram rejeitados (fls. 789-798 e 808-824).
+Nas razões recursais, a Companhia Siderurgica Nacional - CSN sustenta, em síntese, violação aos arts. 245, 468, 471, 473, 474 e 535 do CPC/1973, alegando negativa de prestação jurisdicional, bem como negativa de "vigência às normas que tutelam a autoridade da coisa julgada material sobre as questões decididas na sentença transitada em julgado" e violação do instituto da preclusão. Defende:
+- a correta interpretação da coisa julgada material dada pela decisão preclusa;
+- a limitação do alcance da coisa julgada material aos valores depositados judicialmente;
+- o apontamento de que a decisão recorrida não teria mencionado as parcelas pagas antes dos depósitos judiciais;
+Alega ainda, ofensa aos princípios constitucionais da segurança jurídica e da coisa julgada material, bem como pacífica jurisprudência quanto à matéria, imperiosa a interposição do presente recurso especial. Prossegue:
+Isso porque a sentença transitada em julgado delimitou precisamente o objeto da lide, dispondo que a ora Recorrente "(..) aduz que já quitou 42 parcelas, tendo pleiteado na medida cautelar em apenso o depósito das cotas restantes, ressalvando que essas 6 parcelas, além de parte da 42ª, são indevidas, pois resultaram da majoração do percentual da multa imposta pelo INSS.".
+E foi justamente em razão da quitação integral do crédito tributário desde o pagamento da 42ª parcela, que a Recorrente pleiteou a
+(i) a restituição do valor de 1.222.659,48 UFIR (mar/ 94); e
+(ii) o levantamento dos depósitos judiciais efetivados na ação cautelar.
+Delimitados o objeto e os pedidos da ação judicial, a sentença transitada em julgado, em sua parte dispositiva, julgou totalmente procedente o pedido no sentido de determinar "(..) que seja aplicado o percentual de 30% de multa nos débitos de contribuição referentes aos meses de janeiro de 1989 a julho deste mesmo ano (..)", condicionando o levantamento dos depósitos judiciais e o ressarcimento dos valores pagos a maior ao trânsito em julgado da ação
+Sendo assim, resta sepultada pela coisa julgada material toda e qualquer discussão acerca do direito ao levantamento dos depósitos judiciais efetivados pela Recorrente em ação cautelar, pois o crédito tributário já encontrava-se liquidado/extinto na data em que eles foram realizados.
+Não foi por outra razão que a preclusa decisão judicial de fl. 249 determinou "(..) o levantamento de todo o valor depositado judicialmente na conta (..) em favor do autor, pois, repise-se, houve decisão definitiva reconhecendo o pedido autoral, inclusive, a existência de um crédito em seu favor que será objeto de compensação.".
+Ocorre que o E. Tribunal a quo, ao invés de prestigiar a coisa julgada material corretamente aplicada pela preclusa decisão judicial, permitiu a sua odiosa vulneração através da manutenção da, data máxima venia, teratológica decisão recorrida.
+Requereu a reforma do Acórdão no sentido de:
+i) reconhecer a violação do instituto da coisa julgada material a fim de que seja assegurado à Recorrente o direito em reaver a totalidade dos valores depositados judicialmente - conforme item (4.1);
+ii) reconhecer a violação do instituto da preclusão a fim de que seja assegurado à Recorrente o direito em reaver a totalidade dos valores depositados judicialmente - conforme item (4.2);
+Pela eventualidade, pugna, ao menos, pela anulação do v. Acórdão recorrido a fim de que seja determinando o retorno dos autos para que o Tribunal a quo aprecie a vulneração da coisa julgada material à luz da preclusão decisão de fl. 249 e julgue conclusivamente os embargos de declaração tempestivamente protocolados, conforme item (4.3).
+Por dever de informação, destaco que no recurso especial 1.640.443/RJ, deu-se provimento ao recurso especial da COMPANHIA SIDERÚRGICA NACIONAL, para exclui-la do polo passivo da ação rescisória. Também foi julgada prejudicada a medida cautelar 25.159/RJ. Em 23 de abril de 2025, o agravo em recurso especial 1.655.550/RJ, com as mesmas partes, foi convertido no REsp 2.210.020/RJ.
+Contrarrazões apresentadas às fls. 912-931.
+É o relatório.
+Passo a decidir.
+Com relação à alegada violação ao art. 535 do CPC/1973, constou dos acórdãos de fls. 756-767, 789-798 e 808-824:
+A agravante alega, em síntese, que:
+a) ajuizou ação cautelar com o objetivo de suspender a exigibilidade de suposto crédito tributário alusivo às parcelas 43 a 48 de parcelamento celebrado junto ao INSS, mediante depósito judicial, uma vez que a totalidade do débito já se encontrava quitada na data da propositura da ação;
+b) na ação principal, buscava não só sustar/levantar as parcelas 43 a 48, como também reaver o que pagou a maior nas 42 parcelas quitadas, ou seja, buscou o reconhecimento  da ilegalidade  da multa aplicada pelo INSS, viabilizando, assim, a repetição do indébito tributário no valor originário de 1.222.659,48 UFIR"s, ocorrido após o pagamento da 42ª parcela;
+c) através de seus cálculos, ficou comprovado que o valor total indevidamente cobrado pela agravada, perfazia a quantia correspondente a 8.394.017,06 UFIR"s, equivalente a 7,03 parcelas de um total de 48;
+d) o Juízo de origem julgou totalmente procedente o pedido, reconhecendo, assim, o seu direito à restituição do indébito tributário no valor originário de 1.222.659.49 UFIR"s, assim como ao levantamento dos valores depositados judicialmente na ação cautelar, condicionando a eficácia da decisão ao trânsito em julgado da ação;
+e) após o trânsito em julgado do título judicial e o início da execução requereu a restituição dos valores depositados e o levantamento dos depósitos judiciais oportunidade na qual a agravada se insurgiu contra o levantamento dos valores depositados judicialmente, sob a alegação de que somente faria jus aos valores cobrados a maior nas parcelas 42-48, desconsiderando a coisa julgada material;
+f) o Juízo acolheu os seus argumentos e determinou o levantamento total dos valores depositados;
+g) após equivocada informação do cartório ao magistrado, este proferiu decisão no sentido de que a decisão se deu de forma indevida, pois nos autos não houve condenação do ente público a levantar qualquer quantia em dinheiro;
+h) houve preclusão da decisão que deferiu o levantamento da integralidade dos valores depositados judicialmente;
+i) há incompatibilidade entre a decisão agravada e a coisa julgada material consolidada no título judicial.
+ ..
+No entanto, o que se extrai dos autos, pela leitura dos documentos a ele acostados é que o magistrado de origem dá cumprimento ao dispositivo da sentença proferida nos autos principais (apenso à medida cautelar), confirmada em grau de recurso.
+O que pretende o contribuinte, na verdade, é o levantamento integral dos depósitos judiciais relativos às parcelas vincendas, bem como a execução por quantia certa.
+Porém, no dispositivo constante nos autos principais vigora o mandamento de procedência do pedido para que se aplique a multa no percentual de 30% nos débitos contribuição referentes aos meses de janeiro de 1989 a julho deste mesmo ano, de modo que, à evidência, como o contribuinte efetuou o depósito do valor integral correspondente às cotas restantes (43 a 48) do parcelamento efetuado com imposição de multa superior ao efetivamente devido, o levantamento a ser efetuado ocorrerá somente quanto ao equivalente excesso do que lhe estava sendo cobrado.
+ ..
+Portanto, a pretensão da agravante, de levantamento dos depósitos por ela realizados na ação cautelar, deve respeitar os limites da decisão proferida na ação ordinária, já transitada em julgada.
+Fls. 789-798:
+Observo que a matéria trazida nos embargos em nada demonstra a omissão, obscuridade ou contradição, tratando-se de mera rediscussão da matéria já esgotada quando do julgamento do apelo.
+ ..
+O acórdão embargado encontra-se no sentido da decisão agravada, que não fez qualquer menção às 42 (quarenta e duas) parcelas quitadas anteriormente aos depósitos judiciais, uma vez que a sentença transitada em julgado apenas determinou a aplicação do percentual de 30% de multa nos débitos de contribuição referentes aos meses de janeiro de 1989 a julho deste mesmo ano. Não se pode, assim, ser conhecido o pedido, sob pena de supressão de instância.
+Fls. 808-824:
+No caso, o acórdão que julgou este agravo de instrumento e foi objeto dos primeiros embargos de declaração analisou devidamente a questão, senão vejamos:
+Cuida a hipótese de situação em que a agravante pleiteia o levantamento de depósitos judiciais efetuados nos autos originários, cuja matéria debatida cingiu-se na irresignação do contribuinte quanto à multa de 60% (sessenta por cento) que incidia sobre o valor devido, por entender que a multa deveria ser de 30% (trinta por cento).
+Nesse contexto, argumenta que efetuou os pagamentos regularmente até a 42ª cota, quando já era credora da agravada, tendo em vista que em todas as parcelas incidiu a multa a maior.
+Por essa razão, ajuizou ação cautelar como objetivo de efetuar o depósito judicial das parcelas 43 a 48.
+Sustenta, enfim, que, tanto a medida cautelar quanto a ação ordinária transitada em julgado concedem ao recorrente o direito ao levantamento de todo o valor depositado, já que, a partir da apuração do valor indevidamente cobrado em razão do cálculo errôneo, tal implicou um valor a restituir em favor da agravante equivalente a 7,3 quotas da dívida parcelada.
+No entanto, o que se extrai dos autos, pela leitura dos documentos a ele acostados é que o magistrado de origem dá cumprimento ao dispositivo da sentença proferida nos autos principais (apenso à medida cautelar), confirmada em grau de recurso.
+O que pretende o contribuinte, na verdade, é o levantamento integral dos depósitos judiciais relativos às parcelas vincendas, bem como a execução por quantia certa.
+Porém, no dispositivo constante nos autos principais vigora o mandamento de procedência do pedido para que se aplique a multa no percentual de 30% nos débitos de contribuição referentes aos meses de janeiro de 1989 a julho deste mesmo ano, de modo que, à evidência, como o contribuinte efetuou o depósito do valor integral correspondente às cotas restantes (43 a 48) do parcelamento efetuado com imposição de multa superior ao efetivamente devido, o levantamento a ser efetuado ocorrerá somente quanto ao equivalente excesso do que lhe estava sendo cobrado.
+Por ocasião do julgamento dos primeiros embargos de declaração, cujo acórdão é objeto destes embargos, houve, de fato, equívoco quando da transcrição da decisão agravada. Entretanto, o aludido equívoco não influenciou no resultado do julgamento dos embargos de declaração, uma vez que a decisão agravada, a seguir transcrita, também não fez qualquer menção às 42 (quarenta e duas) parcelas quitadas anteriormente aos depósitos judiciais.
+Considerando que os depósitos efetuados no presente feito tiveram por escopo a suspensão da exigibilidade de créditos previdenciários, cuja destinação dependia do deslinde da demanda principal, em apenso, entendo que a requerente não faz jus ao levantamento integral da quantia depositada, conforme determinado a fl. 253/254, pelo que reconsidero, desde já, a ordem de expedição de alvará, nos termos delineados na decisão mencionada.
+Isso porque, conforme restou decidido nos autos do processo 94.0021929-6, o pedido foi julgado procedente para determinar a aplicação do percentual de 30%, a título de multa, sobre os débitos de contribuição referentes aos meses de janeiro de 1989 a julho de 1989, e não de 60%, conforme aplicado em sede administrativa.
+Outrossim, tendo a requerente depositado o valor integral correspondente às seis cotas restantes do parcelamento efetuado, com imposição de multa superior ao efetivamente devido, o levantamento a ser efetuado deve se dar apenas em montante equivalente ao excesso do que lhe estava sendo cobrado.
+Portanto, tendo em vista que, nos autos principais, fora deflagrada, indevidamente, a execução da quantia de R$ 6.258.060,58 (seis milhões, duzentos e cinquenta e oito mil, sessenta reais e cinquenta oito centavos), com a qual a União concordou expressamente, entendo que essa é a quantia que deve ser levantada pela CSN (fls. 405/406), a ser atualizada a partir de dezembro de 2008.
+Assim, a Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+O pedido primordial do agravo de instrumento foi no sentido do imediato levantamento da totalidade dos valores depositados judicialmente na ação cautelar - Conta n. 0625.280.00000084-0. Assim, o acórdão informa que a ação cautelar tinha como objetivo efetuar o depósito judicial das parcelas 43 a 48, e a pretensão da agravante, de levantamento dos depósitos por ela realizados na ação cautelar, deveria respeitar os limites da decisão proferida na ação ordinária.
+Rever os limites em que se deu a determinação do levantamento requer a revisão dos aspectos fáticos-probatórios da causa, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, nego provimento ao recurso.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial se origina de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
