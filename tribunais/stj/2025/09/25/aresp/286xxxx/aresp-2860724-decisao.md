@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ANHANGUERA EDUCACIONAL PARTICIPAÇÕES S/A. se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 863):
+EMENTA - APELAÇÃO CÍVEL DA PARTE AUTORA - OBRIGAÇÃO DE FAZER - MÉRITO - CURSO DE MEDICINA FINANCIADO PELO FIES - AUMENTO SÚBITO DA MENSALIDADE - IRREGULARIDADE NO VALOR COBRADO CONSTATADA - SENTENÇA DE IMPROCEDÊNCIA REFORMADA - RECURSO CONHECIDO E PROVIDO.
+I - Diferentemente do que concluiu o julgador na origem, a insurgência da autora não está na obrigação de pagamento da diferença entre o valor da semestralidade ou anuidade proposto pela IES e aquele financiado pelo FIES, mas na majoração exacerbada e sem justificativa imposta pela instituição de ensino no 2º semestre do ano de 2021 para a coparticipação da aluna.
+II- Caso em que a documentação que instrui a inicial aponta uma majoração desarrazoada do valor da coparticipação cobrada da acadêmica no aditamento do seu contrato FIES e, ainda, para a existência de uma irregularidade no cálculo para apuração de tais valores, a evidenciar o direito alegado na inicial.
+Os embargos de declaração foram rejeitados (fls. 916/922).
+Nas razões de seu recurso especial, a parte agravante alega, além de divergência jurisprudencial, violação dos arts. 421 e 422 do Código Civil; 1º da Lei 9.870/1999; 4º e 4º-B da Lei 10.260/2001; e 4º da Lei 13.366/2016. Sustenta, em síntese, a licitude das cobranças realizadas de residual não coberto pelo FIES.
+A parte adversa não apresentou contrarrazões (fl. 1.002).
+O recurso não foi admitido, o que ensejou a interposição de agravo.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de ação ajuizada por ANNE CAROLINE ALENCAR ALVES GARCIA, por meio da qual pleiteia a declaração da ilegalidade do aumento das mensalidades pela instituição ré no segundo semestre de 2021, devendo ser mantidos para o 2º semestre de 2021 os mesmos valores cobrados no 1º semestre de 2021, ou seja, R$ 13.256,18 (treze mil, duzentos e cinquenta e seis reais e dezoito centavos) e a mensalidade referente à sua coparticipação no valor de R$ 2.209,36 (dois mil, duzentos e nove reais e trinta e seis centavos). A sentença julgou o pedido improcedente.
+No Tribunal a quo, a sentença foi reformada, estando assim estabelecida no que se refere à cobrança indevida feita pela instituição recorrente:
+Mediante simples cálculo aritmético, é possível constatar onde reside o equívoco na cobrança realizada à parte autora, referente ao segundo semestre/2021.
+Explico. Ao subtrair o valor da mensalidade para o FIES (R$ 57.743,94) do valor a ser financiado no semestre com os recursos do FIES (42.983,70), obtém-se um resultado de R$ 14.760,24 (quatorze mil, setecentos e sessenta reais e vinte e quatro centavos), que, divido pelo número de mensalidades do semestre se obtém o resultado de R$ 2.460,04 (dois mil quatrocentos e sessenta reais e quatro centavos).
+Reproduzo o cálculo:  R$ 57.743,94 - R$ 42.983,70 = R$ 14.760,24 / 6 = R$ 2.460,04
+Esse seria o correto valor da coparticipação da aluna naquele semestre, R$ 2.460,04 (dois mil quatrocentos e sessenta reais e quatro centavos).
+Nota-se que o erro na cobrança de valores não está na trava financeira imposta pelo FIES, como alegado pela ré, tampouco na obrigação de coparticipação da acadêmica, mas no resultado apurado pela instituição de ensino, que cobrou da autora o montante de R$ 26.812,01 (vinte e seis mil, oitocentos e doze reais e um centavo), que corresponde ao produto da subtração do valor da semestralidade com desconto (R$ 69.795,71) e do valor a ser financiado com recursos do FIES (R$ 42.983,70). Desse resultado, divido pelo número de mensalidades do semestre se obtém a questionada quantia de R$ 4.468,66 (quatro mil, quatrocentos e sessenta e oito reais e sessenta e seis centavos), que correspondeu ao dobro das mensalidades dos semestres anteriores.
+Reproduzo novamente o cálculo: R$ 69.795,71 - R$ 42.983,70 = R$ 26.812,01 / 6 = R$ 4.468,66
+ ..
+No caso, o reajuste nas mensalidades cobradas da autora decorrem de erro nos valores apontados no documento de f. 42, como acima fundamentado, o que acarretou numa mensalidade equivalente ao dobro do que lhe estava sendo cobrado nos semestres anteriores, atingindo valor excessivamente oneroso à consumidora e em manifesto confronto com a cláusula geral da boa-fé objetiva, pelo que deve ser rechaçado.
+Não se pode ainda esquecer que os estudantes beneficiados pelo financiamento estudantil (FIES), possuem baixa renda, qual seja, renda bruta per capita de 3 (três) salários mínios, e a oneração do valor da contrapartida no percentual aqui verificado coloca em risco até mesmo a possibilidade da acadêmica continuar os estudos.
+ ..
+Nesse contexto, o aumento do valor do semestre aqui verificado extrapola a legalidade e a razoabilidade e deve ser afastado, razão pela qual a sentença deve ser reformada (fls. 869/874).
+Entendimento diverso acerca da obrigatoriedade do pagamento das diferenças de valores, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e a reinterpretação de cláusula contratual, circunstâncias que redundariam na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incidem no presente caso as Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ) segundo as quais, respectivamente, "a simples interpretação de cláusula contratual não enseja recurso especial" e "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FINANCIAMENTO ESTUDANTIL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. VIOLAÇÃO DOS ARTS. 489, § 1º, IV E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. FIES. DIFERENÇA RESIDUAL. COBRANÇA INDEVIDA. DANO MORAL INDENIZÁVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+4. A revisão da conclusão a que chegou o Tribunal de origem a respeito da ilegitimidade da cobrança do aluno da diferença entre o valor da semestralidade e da parte financiada pelo FIES, bem como da ocorrência de dano moral indenizável decorrente da referida cobrança indevida, demanda o reexame dos fatos e provas constantes nos autos, além de cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.061.124/MT, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024 - sem destaques no original.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FIES. DIFERENÇA RESIDUAL. REVISÃO DO ACERVO PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. PORTARIA. VIOLAÇÃO. EXAME. INVIABILIDADE.
+ ..
+2. Acolher as razões recursais para concluir que é legitima a cobrança do aluno da diferença entre o valor da semestralidade e da parte financiada pelo FIES, impõe o reexame do acervo probatório e nova interpretação das cláusulas contratuais do financiamento estudantil concedido à estudante, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 desta Corte.
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal. Precedentes.
+4. Hipótese em que o exame da apontada violação do art. 53, VIII e IX, da Lei n. 9.394/1996, do art. 1º, §§ 1º, 2º, 3º, 4º e 5º da Lei n. 9.870/1999 e dos arts. 4º e 4º-B da Lei n. 10.260/2001 perpassa necessariamente pela interpretação da Portaria n. 638/2017 do MEC, sendo meramente reflexa a vulneração dos dispositivos legais indicados pelo agravante.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.056.874/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022 - sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer d o recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+ EMENTA
