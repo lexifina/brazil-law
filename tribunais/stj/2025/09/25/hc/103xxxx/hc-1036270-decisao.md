@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARIO MARQUES PEREIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5720211-31.2025.8.09.0000).
+Depreende-se dos autos que o paciente foi condenado à pena de 6 anos e 9 meses de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 2º, caput, da Lei 12.850/2013, sendo-lhe negado o direito de recorrer em liberdade.
+Impetrado habeas corpus com pedido liminar na origem, o desembargador relator não conheceu da ordem.
+Neste writ, a defesa alega, primeiramente, ser o caso de superação da Súmula n. 691 do STF, tendo em vista a flagrante ilegalidade na manutenção da prisão imposta ao acusado quando da prolação da sentença condenatória, sendo-lhe negado o direito de recorrer em liberdade.
+Sustenta ausência de fundamentação idônea das decisões originárias que mantiveram a custódia imposta ao paciente, já que pautadas em argumentos genéricos.
+Ressalta que, "além de não ser possível provar se o paciente teve alguma vantagem, é bom rememorar que este não foi acusado e nem condenado por lavagem de capitais e de que sua reprimenda ficou abaixo de 08 (oito) anos, sendo réu primário e portador de bons antecedentes" (e-STJ fl. 17).
+Assere que, "por estar em condição de similitude fática- processual com os pacientes do habeas corpus n. 818-801 GO, Mario Marques também deve ter direito a extensão dos benefícios concedidos para que seja deferida ordem liminar de habeas corpus em observância ao binômio proporcionalidade e adequação impondo-se a substituição da custodia por medidas cautelares diversas da prisão para que seja concedido ao paciente o direito de recorrer em liberdade" (e-STJ fl. 24).
+Aduz, ainda, que "não é razoável que corréus condenados respondem livremente pelos mesmos fatos no âmbito da mesma investigação, com penas duas, três, quatro ou cinco vezes maiores do que a reprimenda imposta ao paciente que teve seu direito de recorrer em liberdade negado, sem direito a liberdade provisória além de servir de morte a garantia ao tratamento isonômico a todos aqueles que são as partes em processo judicial" (e-STJ fl. 26).
+Dessa forma, requer, liminarmente e no mérito, a revogação da prisão preventiva, a fim de que o paciente possa responder ao processo em liberdade, mediante a aplicação de outras medidas cautelares.
+É o relatório.
+Decido.
+No caso, vê-se que as teses ora apresentadas não foram apreciadas pelo Tribunal de origem, visto que o desembargador relator não conheceu da ordem lá impetrada.
+Logo, o Superior Tribunal de Justiça não pode delas conhecer, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO doutrina, com clareza, que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de Processo Penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Portanto, ante a falta de manifestação do Tribunal a quo, inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, c, da Constituição Federal, bem como do art. 13, I, b, do Regimento Interno desta Corte Superior.
+Confiram-se:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..  3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/5/2016, DJe de 25/5/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. MODUS OPERANDI. ORGANIZAÇÃO CRIMINOSA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONVERSÃO DO FLAGRANTE EM PREVENTIVA. INEXISTÊNCIA DE PREJUÍZO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+6. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+7. Agravo regimental desprovido . (AgRg no HC n. 745.943/SE, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. PACIENTE APONTADO COMO INTEGRANTE DE CÉLULA ATIVA DE GRUPO CRIMINOSO DE ATUAÇÃO NO LITORAL PARANAENSE NECESSIDADE DE INTERROMPER A ATIVIDADE DO GRUPO. RÉU REINCIDENTE. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA PARA A GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONTEMPORANEIDADE DA PRISÃO E EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+ ..  verifica-se que os temas não foram analisados pela Corte local no ato apontado coator, situação esta que inviabiliza o exame das matérias diretamente neste Tribunal Superior, sob pena de se incorrer em indevida supressão de instância. Precedentes.
+ ..
+8. Agravo regimental a que se nega provimento. (AgRg no HC n. 843.157/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023.)
+Ante todo o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
