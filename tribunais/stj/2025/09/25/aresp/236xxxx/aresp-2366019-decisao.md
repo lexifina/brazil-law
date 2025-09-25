@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da impossibilidade de conhecimento, em sede de recurso especial, de matéria de ordem constitucional, ausência de omissão ou deficiência na prestação jurisdicional e incidência da Súmula n. 7/STJ (fls. 716-718).
+O acórdão recorrido encontra-se assim ementado (fl. 588):
+AÇÃO CIVIL PÚBLICA. SENTENÇA QUE EXTINGUIU O FEITO SEM RESOLUÇÃO DE MÉRITO, CONCLUINDO PELA ILEGITIMIDADE ATIVA DA ASSOCIAÇÃO DE MORADORES DO LOTEAMENTO SANTA MARTA, LOCALIZADO NO MUNICÍPIO DE RIBEIRÃO PRETO/SP, PARA PLEITEAR, MEDIANTE A PROPOSITURA DE AÇÃO CIVIL PÚBLICA, A REGULARIZAÇÃO DA INFRAESTRUTURA DO LOTEAMENTO. HIPÓTESE CONCRETA EM QUE, COM EFEITO, A AUTORA AGE COM FUNDAMENTO NO ART. 2º DE SEU ESTATUTO SOCIAL, BUSCANDO A TUTELA DE INTERESSES PARTICULARES DOS MORADORES DO LOTEAMENTO, NÃO SE PODENDO VALER DO PROCEDIMENTO DA DEMANDA COLETIVA PREVISTA PELA LEI N. 7.347/1985. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 652-655).
+Nas razões do recurso especial (fls. 620-645), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+i) arts. 489, §1º, IV, e 1.022, II, do CPC e 5º, LV, e 93, IX, da CF, porque não analisou questão levantada em sede de embargos de declaração capaz de, em tese, infirmar a conclusão adotada.
+ii) art. 937, I, do CPC, porque impediu a realização de sustentação oral pela recorrente;
+iii) arts. 1º, I, IV e VI, e 5º, V, "a" e "b", da Lei n. 7.347/1985, porque impediu a promoção de ação civil pública por ente legitimado para a defesa do meio ambiente e da ordem urbanística e social.
+No agravo (fls. 721-744), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminutas apresentadas (fls. 747-751 e 753-757).
+Decisão de não conhecimento do agravo (fls. 770-771) tornada sem efeito por decisão da Presidência (fl. 831).
+Parecer do Ministério Público Federal pelo conhecimento do agravo e não conhecimento do recurso especial (fls. 847-852).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, §1º, IV e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+A questão supostamente objeto de omissão por parte do Tribunal foi delineada pelo recorrente da seguinte forma (fl 632):
+Alegou-se nos aclaratórios que o acórdão então embargado não enfrentou o argumento de que a tutela jurisdicional vindicada (retificação da infraestrutura do loteamento) busca a correção de vícios urbanísticos e também relacionados ao meio ambiente, que decorreram de irregularidades na implantação do loteamento pelas empresas que figuram no polo passivo, de modo a resguardar direitos e interesses metaindividuais, e não interesses particulares dos moradores do loteamento.
+A questão, contudo, configura o cerne da decisão de ilegitimidade. De fato, em relação à tese, o Tribunal de origem assim se manifestou (fl. 590):
+Na tentativa de justificar sua legitimação à propositura da presente ação civil pública, narra a autora haver sido constituída regularmente, há mais de um ano, tendo por finalidade institucional a proteção da ordem urbanística e do meio ambiente, mediante a defesa da regularidade do loteamento em apreço, nos termos do artigo 2º de estatuto social. Diz preencher, assim, de maneira objetiva, os requisitos do artigo 5º, inciso V, alíneas "a" e "b", da Lei da Ação Civil Pública (Lei n.º 7.347/1985). Todavia, muito embora o aparente preenchimento de tais precondições possibilitasse mesmo, à apelante, o manejo da ação civil pública, quando se lê o artigo 2º de seu estatuto social, infere-se que a sua finalidade é, basicamente, "a defesa e a representação dos interesses (de seus associados) perante os poderes públicos competentes (e perante as rés)", sobretudo no que concerne "à manutenção, conservação e melhoria de toda a infraestrutura do loteamento." (fl. 40).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Quanto à suposta nulidade do julgamento virtual por ausência de autorização para sustentação oral (art. 937, I, do CPC). O julgamento eletrônico deu-se em contexto excepcional de pandemia, com respaldo em normativos do CNJ que impuseram o trabalho remoto, sem prejuízo demonstrado. A mera oposição à sessão virtual não obsta a realização do julgamento, sendo indispensável a comprovação concreta de prejuízo  o que não ocorreu.
+Cito o acórdão da Quarta Turma, de minha relatoria, trazido no parecer do ilustre representante do Ministério Público Federal:
+DIREITO CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO FORA DA REDE CREDENCIADA. AUSÊNCIA DE COBERTURA. INEXISTÊNCIA DE URGÊNCIA/EMERGÊNCIA. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. JULGAMENTO VIRTUAL NA ORIGEM. FALTA DE DEMONSTRAÇÃO DE PREJUÍZO. NULIDADE. INEXISTÊNCIA. DECISÃO MANTIDA.
+(..)
+5. Ademais, inexistente a suposta nulidade em razão do julgamento virtual do feito na origem, pois a mera oposição da parte não é suficiente para impedir essa forma de sessão, devendo ser demonstrado o prejuízo, o que, segundo afirmado pela Corte de origem, não ocorreu.
+6. Nesse sentido, o entendimento da Justiça local concorda com a orientação desta Corte Superior, segundo a qual, " ..  é necessário que a justificativa para a retirada do processo do ambiente virtual seja contundente, demonstrando a existência de prejuízo" (EDcl nos EDcl na Rcl 34.880/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 22/09/2021, DJe 21/10/2021).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.826.593/SP, de minha relatoria, Quarta Turma, DJe de 06/05/2022)
+3. Quanto à violação dos arts. 1º, I, IV e VI, e 5º, V, "a" e "b", da Lei n. 7.347/85, a pretensão de afastar a ilegitimidade ativa e de qualificar os interesses discutidos (difusos/coletivos/urbanísticos), tal como posta, demanda reexame do acervo fático-probatório  p. ex., finalidades estatutárias, tempo de funcionamento e efetiva extensão coletiva do dano  providência vedada na via especial (Súmula n. 7/STJ). Incidência do óbice sumular.
+O Tribunal de origem entendeu pela ilegitimidade da associação demandante ao argumento de incompatibilidade da ação com os seus objetivos estatutários.
+Dessa forma, verifica-se que o Tribunal a quo julgou a lide com respaldo em ampla análise documental, cujo reexame é vedado em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+De fato, para afastar o entendimento da Corte estadual seria necessário estudar o estatuto em sua integralidade. Imprescindível, portanto, interpretar todas cláusulas, a ordem em que se encontram, as obrigações previstas e as concessões mútuas.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
