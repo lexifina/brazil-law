@@ -1,0 +1,11 @@
+DECISÃO
+RONE SARAIVA DE CARVALHO, acusado por porte ilegal de arma de fogo, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado liminarmente nesta oportunidade.
+O caso comporta o julgamento antecipado, visto que se adequa a pacífica orientação desta Corte em casos similares, todos contrários à pretensão defensiva. De fato, infere-se dos autos que o insurgente foi preso em flagrante pela suposta prática de porte ilegal de arma de fogo, nestes termos, no que interessa (fl. 76, destaquei):
+ ..  Cabe, portanto, averiguar a existência de periculum libertatis e da proporcionalidade. No ponto, destaco que o flagranteado é reincidente, já tem condenação transitada em julgado. Com efeito, os elementos dos autos indicam a concreta reiteração delitiva, o que leva à necessidade da prisão preventiva para garantia da ordem pública.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, ficou devidamente explicitada na decisão constritiva a existência de reincidência. Tal fundamentação, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva e, também, afasta a possibilidade de concessão de medidas cautelares alternativas.
+Nessa direção, é firme a orientação deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento no art. 34, XX, c/c art. 246 do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
