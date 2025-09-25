@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JACQUELINE DE OLIVEIRA MARTINS RODRIGUES em face de decisão desta relatoria, que conheceu do agravo para dar provimento ao recurso especial de PROJETO SITIO SOLO SAGRADO EMPREENDIMENTOS IMOBILIÁRIOS LTDA, a fim de determinar o retorno dos autos à origem, para que julgue a demanda à luz da jurisprudência do STJ.
+Nas razões dos embargos, a parte embargante defende que existe contradição, erro material e omissão, uma vez que "O tribunal de origem enfrentou a questão sob a ótica do Código de Defesa do Consumidor, afastando a Lei 9.514/97 justamente porque não havia registro e tampouco mora. A decisão embargada, ao invocar a eficácia inter partes do contrato sem registro para prestigiar a legislação especial, silenciou sobre o requisito da mora, elemento condicionante para qualquer avanço ao rito de notificação, consolidação e leilão previstos na Lei 9.514/97. No caso concreto não houve mora. A ação foi ajuizada em 06 de setembro de 2022, sendo que a última parcela foi paga em 10 de agosto de 2022, e os embargantes sempre pagaram em dia, inexistindo qualquer notificação do cartório de registro de imóveis apta a constituir mora na forma do artigo 26. Trata-se de ponto decisivo e não enfrentado na decisão monocrática.".
+Aduz, ainda, que "O tribunal de origem aplicou o Código de Defesa do Consumidor e a Súmula 543, fixando retenção de 15% por proporcionalidade e razoabilidade, justamente porque não havia registro nem constituição de mora. A decisão embargada, ao prestigiar a Lei 9.514/97 sem condicionar sua incidência à existência de mora, deixa obscuro se pretende afastar o Código de Defesa do Consumidor e a Súmula 543 mesmo na ausência de mora, o que não decorre da jurisprudência desta Corte. " (fl. ).
+Argumenta que " A decisão embargada cita a linha da eficácia inter partes sem registro, mas não esclarece que sem mora não há falar em aplicação dos artigos 26 e 27. É imprescindível que o decisum consigne expressamente essa condicionante, até para evitar supressão de instância na instrução probatória sobre a existência ou não de mora."
+Sustenta que "ao não enfrentar nem a inexistência de mora nem a ausência de registro, a decisão embargada mostra-se contraditória com a orientação consolidada desta Corte Superior, devendo o vício ser corrigido nos presentes aclaratórios."
+Impugnação apresentada às fls. 604-609, e-STJ.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Sem razão à embargante.
+A decisão embargada esclareceu que o Tribunal de origem, analisando as circunstâncias do caso, afastou a incidência dos arts. 26 e 27 da Lei n. 9514/97, em razão da ausência de registro do contrato, motivando a regulação da rescisão contratual pelas normas consumerista, ocorre que, nos termos da jurisprudência desta Corte, a ausência do registro do contrato de alienação fiduciária no competente Registro de Imóveis não lhe retira a eficácia, ao menos entre os contratantes, servindo tal providência apenas para que a avença produza efeitos perante terceiros.
+A propósito:
+A irresignação comporta provimento. Na hipótese, o Tribunal de origem, analisando as circunstâncias do caso, afastou a incidência dos arts. 26 e 27 da Lei n. 9514/97, em razão da ausência de registro do contrato, motivando a regulação da rescisão contratual pelas normas consumeristas. A título elucidativo, confira-se trecho do v. acórdão estadual:
+(..)
+Ocorre que, nos termos da jurisprudência desta Corte, "A ausência do registro do contrato de alienação fiduciária no competente Registro de Imóveis não lhe retira a eficácia, ao menos entre os contratantes, servindo tal providência apenas para que a avença produza efeitos perante terceiros" (ER Esp n. 1.866.844/SP, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/9/2023 , D Je de 9/10/2023). Nesse sentido:
+(..)
+Sendo assim, estando a decisão em sentido contrário ao da jurisprudência desta Corte, o recurso especial comporta provimento." (grifou-se)
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
