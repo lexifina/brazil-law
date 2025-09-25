@@ -1,0 +1,32 @@
+DECISÃO
+Na origem, cuida-se de agravo de instrumento contra decisão que rejeitou a exceção de pré-executividade, na qual se apontava a ocorrência da prescrição intercorrente.
+O Tribunal local negou provimento ao recurso, o acórdão foi assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE NÃO CARACTERIZADA. SOBRE A POSSIBILIDADE DE TRANSCURSO DA PRESCRIÇÃO NO ÂMAGO DA EXECUÇÃO, DISPÕE O ART. 921, III, §§1º, 2º, 3º E 4º DO CÓDIGO DE PROCESSO CIVIL QUE, NÃO ENCONTRADOS BENS OU O PRÓPRIO DEVEDOR, O PROCESSO PODE SER SUSPENSO PELO PRAZO DE ATÉ UM ANO, FINDO O QUAL O PRAZO PRESCRICIONAL RECOMEÇA A CONTAR DESDE O MOMENTO EM QUE PARALISADO. NÃO É NECESSÁRIO QUE SE AGUARDE ESTE PRAZO, CONTUDO, QUANDO NÃO FIXADO, MAS DESDE QUE O PROCESSO TENHA FICADO SUSPENSO POR TEMPO SUFICIENTE AO DA PRESCRIÇÃO DO DIREITO MATERIAL, CONFORME O TEMA IRDR N. 6 JULGADO POR ESTE TRIBUNAL. O REQUISITO PRIMORDIAL PARA QUE SE EXTINGA O PROCESSO COM ESTE FUNDAMENTO É QUE TENHA O PROCEDIMENTO EXECUTIVO ESTADO PARALISADO POR TEMPO SUFICIENTE AO DA PERDA DA PRETENSÃO. NESTE CASO, O EXEQUENTE NÃO ABANDONOU O PROCESSO POR PRAZO SUPERIOR AO DISPOSTO NO ART. 206, §3º, VIII, DO CÓDIGO CIVIL. O MERO TRANSCURSO DA AÇÃO NÃO PODE SER JUSTIFICADO PARA JULGAR-SE EXTINTA A DEMANDA, PORQUE SE INTERROMPEU A PRESCRIÇÃO COM A CITAÇÃO E O DIREITO NÃO FOI ABANDONADO PELO CREDOR NO CURSO DA LIDE. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente, em suas razões de recurso, alegou violação aos artigos 921, III, e § 1º, 1.056 do Código de Processo Civil; 40, § 2º, da Lei n. 6.830/80 (LEF); 206-A do Código Civil; 18 da Lei n. 5.475/68.
+Em síntese, sustentou que se impõe a declaração da prescrição intercorrente da ação executiva, destacando, no ponto, que "o processo teve penhora parcial de bens em 13/12/2017, com suspensão automática de 1 ano e mais 3 anos do prazo prescricional do título extrajudicial, ou seja, prazo prescricional com término em 13/12/2021, violando os dispositivos legais do art. 921 do CPC e art. 40, §2º da Lei 6830/80 e art. 18 da Lei 5.475/68, onde o prazo máximo suspensivo é de 1 ano nas ações executivas", com o que "as manifestações no processo sem efetivação de penhora não interrompem a prescrição, ficando o recorrido inerte nos atos expropriatórios, onde outra determinação vem dar perpetuação das ações".
+Sem c  ontrarrazões.
+Juízo negativo de admissibilidade proferido às fls. 74/79 e-STJ.
+Agravo em recurso especial às fls. 86/96 e-STJ.
+Sem contraminuta.
+Assim delimitada a controvérsia, passo a decidir.
+Este Superior Tribunal de Justiça firmou compreensão no sentido de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia exequente na busca por bens do devedor.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. ORDEM DE PREFERÊNCIA LEGAL. BENS PENHORÁVEIS. MITIGAÇÃO. BAIXA LIQUIDEZ. DIFICULDADE NA EXPLORAÇÃO COMERCIAL DO IMÓVEL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO EXEQUENTE NÃO VERIFICADA. SÚMULA N. 7 DO STJ. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. O órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+3. A ordem de preferência de penhora estabelecida no art. 835 do CPC não é absoluta, podendo ser mitigada à luz das circunstâncias do caso concreto.
+4. É lícita a recusa de credor fundamentada na baixa liquidez e na dificuldade de exploração comercial dos bens imóveis oferecidos à penhora.
+5. Alterar o entendimento do tribunal de origem para reconhecer o possível desrespeito à ordem legal de preferência de penhora demanda o revolvimento das provas produzidas nos autos, o que é inviável em recurso especial, nos termos da Súmula n. 7 do STJ.
+6. O reconhecimento da prescrição intercorrente pressupõe a inércia do exequente por prazo superior ao da prescrição do direito material vindicado.
+7. Para rever a conclusão do tribunal a quo acerca da não incidência da prescrição intercorrente, é necessário revolvimento do acervo fático-probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+8. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial.
+Incidência da Súmula n. 182 do STJ.
+9. A impugnação específica da aplicação da Súmula n. 83 do STJ exige a efetiva demonstração de que os julgados apontados na decisão de inadmissão do recurso especial foram superados pela jurisprudência do Superior Tribunal de Justiça ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula.
+10. Agravo interno parcialmente conhecido e desprovido" (AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, QUARTA TURMA, DJe de 16/2/2023.)
+No caso, o Tribunal de origem, ao apreciar a controvérsia, com base no acervo probatório dos autos, concluiu que não houve desídia do exequente na perseguição de seu crédito, consignando expressamente que a parte foi diligente na busca de bens dos devedores, e que não houve sequer início da contagem do prazo de um ano, previsto no art. 921, § 1º, do CPC, uma vez que, expressamente asseverou que as diligências efetivadas foram consideradas úteis, tendo, inclusive, ocorrido a penhora de bens e mais de uma oportunidade.
+Assim, considerada a ausência de comprovação da morosidade do credor, correto o afastamento da prescrição nos termos da jurisprudência desta Corte. Incide, ao ponto, a Súmula 83/STJ.
+Ademais, para alterar-se a conclusão adotada no acórdão recorrido seria necessário o reexame do contexto probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
