@@ -1,0 +1,92 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ALEXANDRE GRIGGI MACIEL DA SILVA e DIOJENES MICHAEL FRANCO DA SILVA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO em julgamento da Apelação Criminal n. 1029793-80.2020.8.11.0002.
+Consta dos autos que, após a absolvição em primeiro grau ( fl s. 275/282), os recorrentes foram condenados, em sede recursal, à pena de 6 anos de reclusão, no regime inicial semiaberto, pela prática do crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES (ARTIGO 33, CAPUT, DA LEI Nº 11.343/2006) - SENTENÇA ABSOLUTÓRIA POR NULIDADE DAS PROVAS - RECURSO MINISTERIAL - 1) PRELIMINAR: LEGALIDADE DA BUSCA PESSOAL E DOMICILIAR - DENÚNCIA ANÔNIMA CORROBORADA POR FUNDADA SUSPEITA - COMPORTAMENTO EVASIVO DO ACUSADO AO AVISTAR A VIATURA - ELEMENTOS CONCRETOS QUE JUSTIFICARAM A ABORDAGEM - APREENSÃO DE DROGAS EM PODER DOS ACUSADOS QUE LEGITIMOU AS BUSCAS SUBSEQUENTES - CRIME PERMANENTE - FLAGRANTE DELITO - PROVAS LÍCITAS - 2) : MATERIALIDADE E AUTORIA MÉRITO SUFICIENTEMENTE DEMONSTRADAS - APREENSÃO DE SIGNIFICATIVA QUANTIDADE DE MACONHA (93,82g) E COCAÍNA (4,41g) - DEPOIMENTOS POLICIAIS HARMÔNICOS E COERENTES COM AS DEMAIS PROVAS - FINALIDADE MERCANTIL EVIDENCIADA - CONDIÇÃO DE USUÁRIO QUE NÃO AFASTA A CARACTERIZAÇÃO DO TRÁFICO - ENUNCIADO Nº 3 DA TCCR-TJMT - CONDENAÇÃO QUE SE IMPÕE - PENAS FIXADAS EM 6 ANOS DE RECLUSÃO E 600 DIAS-MULTA - REGIME INICIAL SEMIABERTO - RECURSO PROVIDO.
+1. A jurisprudência dos Tribunais Superiores tem se orientado no sentido de que, se a abordagem policial é amparada não apenas em denúncia anônima, mas também em elementos concretos verificados pelos agentes da lei no local, como comportamento evasivo do suspeito ao avistar a viatura policial, há fundada suspeita para legitimar a busca pessoal, nos termos do art. 244 do CPP.
+2. No crime permanente de tráfico de drogas, na modalidade "ter em depósito", o estado de flagrância se protrai no tempo, autorizando o ingresso em domicílio independentemente de mandado judicial, nos termos do art. 5º, XI, da Constituição Federal, desde que presentes elementos concretos que indiquem a prática criminosa, como ocorre quando são encontradas drogas em poder do acusado durante abordagem lícita.
+3. Existindo prova robusta da materialidade e autoria do crime de tráfico de drogas, consistente na apreensão de significativa quantidade e variedade de entorpecentes (maconha e cocaína), corroborada pelos depoimentos consistentes e harmônicos dos policiais responsáveis pela prisão em flagrante, a condenação é medida que se impõe.
+4. "A condição de usuário de drogas não elide a responsabilização do agente pelo delito tipificado (Enunciado nº 3 da Turma de Câmaras Criminais Reunidas dono art. 33, caput, da Lei n. 11.343/2006" TJMT).
+5. "O delito de tráfico de drogas, previsto no art. 33 da Lei n. 11.343/2006, é classificado como de ação múltipla ou misto alternativo e, portanto, consuma-se com a prática de qualquer das condutas nele descritas (Enunciado n. 7 da Turma de Câmaras Criminais Reunidas do TJMT)" (fls. 356/357).
+Em sede de recurso especial (fls. 372/390), a defesa apontou violação aos arts. 240, § 2º; 244; 157, caput e § 1º; e 386, II, do Código de Processo Penal, sustentando, em síntese, a ilicitude das provas que fundamentaram a condenação, haja vista a realização de buscas pessoal e domiciliar sem justa causa.
+Requer o provimento do recurso nesse sentido.
+Contrarrazões (fls. 393/401).
+Admitido o recurso no TJ (fls. 402/403), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do recurso e, se conhecido, pelo seu desprovimento (fls. 415/422).
+É o relatório.
+Decido.
+Acerca da pretensão recursal, confira-se a fundamentação apresentada pelo Tribunal a quo:
+" ..
+A jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça tem entendimento no sentido de que a mera denúncia anônima, sem prévia realização de diligências confirmatórias mínimas, não configura, por si só, justa causa para a efetivação de medida invasiva como busca pessoal ou domiciliar.
+Todavia, no caso em análise, verifica-se que a abordagem policial não se fundou exclusivamente na denúncia anônima inicial, mas também em elementos concretos verificados pelos policiais quando chegaram ao local indicado.
+Conforme demonstram os depoimentos dos policiais, tanto na fase investigativa
+quanto em juízo, além da denúncia anônima que indicava o local e as características do suspeito, outros elementos corroboraram a fundada suspeita, notadamente o comportamento do acusado ALEXANDRE ao avistar a viatura policial.
+O policial Ricardo do Nascimento Dias relatou em juízo que já havia recebido informações, dias antes, de que ALEXANDRE realizava tráfico de drogas no local, destacando que próximo à residência do acusado havia uma escola. Afirmou ainda que, no dia dos fatos, quando a viatura passou, o acusado tentou entrar em sua casa e imediatamente gritou para as pessoas que estavam dentro da residência, avisando sobre a chegada da polícia, comportamento esse que reforçou a fundada suspeita para a abordagem.
+Nesse contexto, não se pode afirmar que a abordagem policial se baseou exclusivamente em denúncia anônima. Ao contrário, houve um conjunto de circunstâncias que justificaram a suspeita fundada para a abordagem, incluindo o comportamento evasivo do acusado ALEXANDRE ao avistar os policiais, comportamento este que, por si só, já configuraria justa causa para a busca pessoal, nos termos do art. 244 do CPP.
+A partir da busca pessoal em ALEXANDRE, que resultou na apreensão de drogas, formou-se uma cadeia de eventos em que cada elemento probatório obtido legitimamente serviu de fundamento para as diligências subsequentes: a apreensão de drogas em poder de ALEXANDRE justificou a busca em sua residência; as informações por ele prestadas sobre a participação de DIOJENES na traficância justificaram a abordagem deste; a apreensão de drogas com DIOJENES justificou a busca em sua residência.
+Importante ressaltar que, tratando-se de crime permanente como o tráfico de drogas na modalidade "ter em depósito", a situação de flagrância se protrai no tempo, autorizando, na forma do art. 5º, XI, da Constituição Federal, o ingresso em domicílio independentemente de mandado judicial, desde que presentes elementos concretos que indiquem a prática criminosa, como ocorreu no caso em análise" (fls. 363/364).
+No caso, policiais militares receberam informações acerca da prática de tráfico de drogas pelo recorrente Alexandre, com isso, foram verificar a procedência e perceberam que, ao notar a presença dos agentes estatais, ele tentou correr para dentro da residência e gritou para comunicar a presença dos militares para as pessoas que estavam dentro. Ato contínuo, houve a sua abordagem, que resultou na apreensão de drogas consigo, com o recorrente Diojenes e dentro da residência.
+Desse modo, não há falar em ilicitude de provas, devendo ser mantido o aresto estadual, o qual não confronta a jurisprudência desta Corte que, em casos semelhantes, validou a busca policial decorrente da fuga do agente para dentro de residência.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que não conheceu do habeas corpus em que se alegava nulidade da busca domiciliar e pleiteava a aplicação da minorante do tráfico, com alteração do regime inicial e substituição da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a busca domiciliar realizada sem mandado judicial, mas com base em fundadas razões, é válida e se a reincidência do réu impede a aplicação da minorante do tráfico prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. Razões de decidir
+3. A jurisprudência do Supremo Tribunal Federal estabelece que a entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas posteriormente, que indiquem flagrante delito.
+4. A fuga do réu para o interior do imóvel ao perceber a aproximação dos policiais configura fundadas razões para a busca domiciliar, conforme precedente do STF.
+5. A desconstituição da conclusão exarada pelo Tribunal local que manteve a condenação implicaria revolvimento de matéria fático-probatória, o que não se coaduna com o rito sumário do habeas corpus.
+6. A reincidência do réu impede a aplicação da minorante do tráfico, pois não se encontra preenchido o requisito da primariedade exigido pelo art. 33, § 4º, da Lei n. 11.343/2006, bem como justifica a fixação do regime imediatamente mais gravoso, de acordo com a quantidade de pena aplicada.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões que indiquem flagrante delito. 2. A reincidência do réu impede a aplicação da minorante do tráfico prevista no art. 33, § 4º, da Lei n. 11.343/2006."
+Dispositivos relevantes citados: CF/1988, art. 5º, XI; Lei n. 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STF, RE n. 603.616/RO, relator Ministro Gilmar Mendes, Tribunal Pleno, DJe de 10/5/2016; RE n. 1.492.256-AgR-EDv-AgR, relator Ministro Edson Fachin, relator para o acórdão Ministro Alexandre de Moraes, Tribunal Pleno, DJe de 6/3/2025; STJ, AgRg no HC n. 910.729/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/8/2024.
+(AgRg no HC n. 872.060/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 24/6/2025, DJEN de 1/7/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FUGA DO RÉU. HABEAS CORPUS NÃO CONHECIDO.
+I. Caso em exame
+1. Habeas corpus substitutivo de revisão criminal no qual se busca a nulidade da condenação do paciente pelo delito de tráfico de drogas, em razão da ilicitude da prova.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a entrada em domicílio sem mandado judicial é válida e se as provas obtidas dessa forma podem ser utilizadas no processo judicial.
+III. Razões de decidir
+3. A fuga do réu para o interior do imóvel, ao avistar a aproximação da polícia, constitui justa causa para a busca domiciliar sem mandado judicial.
+4. A jurisprudência do Supremo Tribunal Federal, no Tema 280 da repercussão geral, autoriza a entrada em domicílio sem mandado judicial quando há fundadas razões de flagrante delito.
+IV. Dispositivo e tese
+5. Habeas corpus não conhecido.
+Tese de julgamento: "A fuga para o interior do imóvel ao perceber a aproximação policial constitui fundadas razões para busca domiciliar sem mandado judicial".
+Dispositivos relevantes citados: CR/1988, art. 5º, XI; CPP, art. 301; CPP, art. 303.Jurisprudência relevante citada: STF, RE 603.616, Rel. Min. Gilmar Mendes, Plenário, DJe 10.05.2016; STF, RE 1.491.517, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 28.11.2024;
+STF, RE 1.492.256, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 06.03.2025.
+(HC n. 985.433/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA DOMICILIAR SEM MANDADO. TRÁFICO DE DROGAS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial, mantendo a licitude da ação policial com entrada forçada em domicílio, amparada em fundada razão de crime permanente.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se houve fundadas razões para o ingresso forçado no domicílio sem mandado judicial.
+3. A controvérsia também envolve o exame do preenchimento dos requisitos para a incidência da causa especial de diminuição de pena prevista no §4º do art. 33 da Lei 11.343/2006.
+III. Razões de decidir
+4. A entrada em domicílio sem mandado judicial é lícita quando há fundadas razões, devidamente justificadas a posteriori, que indiquem situação de flagrante delito.
+5. A fuga do acusado para o interior da residência ao avistar a viatura policial e o lançamento de sacola contendo drogas configuram justa causa para a busca domiciliar, legitimando a apreensão de entorpecentes e demais provas.
+6. A presença de 69 porções de maconha (767,4g), dinheiro em espécie e materiais típicos da traficância indicam dedicação à atividade criminosa, sendo suficiente para afastar a aplicação do redutor do tráfico privilegiado.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A entrada em domicílio sem mandado judicial é lícita quando há fundadas razões, devidamente justificadas a posteriori, que indiquem situação de flagrante delito. 2. A fuga do acusado para dentro do imóvel ao perceber a aproximação dos policiais configura justa causa para busca domiciliar sem mandado.
+3. O afastamento do tráfico privilegiado é admissível quando a quantidade e forma de acondicionamento da droga, somadas à presença de dinheiro e petrechos para o tráfico, indicam dedicação a atividades criminosas. ".
+Dispositivos relevantes citados: CF/1988, art. 5º, XI; Lei 11.343/2006, art. 33, § 4º.Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, DJe 10.05.2016; STF, RE 1.491.517, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 14.10.2024; STJ, AgRg no AREsp 2.772.659/RS, rel. Min. Ribeiro Dantas, Quinta Turma, DJe 30.04.2025; STJ, AgRg no AREsp 2.424.997/SC, rel. Min. Ribeiro Dantas, DJe 01.03.2024.
+(AgRg no AREsp n. 2.940.472/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+No mesmo sentido, o recente julgado do Supremo Tribunal Federal:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). INGRESSO DOMICILIAR. FUNDADAS RAZÕES PARA O INGRESSO NO IMÓVEL DEVIDAMENTE JUSTIFICADAS A POSTERIORI. OBSERVÂNCIA DAS DIRETRIZES FIXADAS POR ESTA SUPREMA CORTE NO JULGAMENTO DO TEMA N. 280 DA REPERCUSSÃO GERAL. ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. DIVERGÊNCIA DEMONSTRADA.
+I. CASO EM EXAME
+1. Agravo Regimental interposto pelo Ministério Público contra decisão que não conheceu dos Embargos de Divergência opostos contra acórdão proferido pela Segunda Turma desta CORTE.
+II. QUESTÃO EM DISCUSSÃO
+2. Existência de fundadas razões o ingresso em domicílio, com a consequente validade das provas delas obtidas. III. RAZÕES DE DECIDIR
+3. Nos termos do art. 330 do RISTF cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+4. Demonstrada a existência de divergência jurisprudencial nesta CORTE sobre o tema em análise nos autos através da indicação de paradigma que comprove eventual dissenso interpretativo com o acórdão impugnado, está atendido o pressuposto básico para o conhecimento dos Embargos de Divergência.
+5. O alcance interpretativo do inciso XI, do artigo 5º da Constituição Federal foi definido pelo SUPREMO TRIBUNAL FEDERAL, na análise do RE 603.616/RO (rel. Min. GILMAR MENDES, DJe de 10/5/2016, Tema 280 de Repercussão Geral), a partir, exatamente, das premissas da excepcionalidade e necessidade de eficácia total da garantia fundamental; tendo sido estabelecida a seguinte TESE: A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.
+6. O entendimento adotado pelo SUPREMO TRIBUNAL FEDERAL impõe que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito. Precedentes.
+7. A fuga para o interior do imóvel ao perceber a aproximação dos policiais militares, que realizavam patrulhamento de rotina na região, evidencia a existência de fundadas razões para a busca domiciliar, que resultou na apreensão de  1362 (mil, trezentos e sessenta e duas) pedras de substância análoga ao crack, pesando 478 g (quatrocentos e setenta e oito gramas), 450 (quatrocentos e cinquenta) gramas de substância análoga à maconha e 1212 (mil duzentos e doze) pinos de substância popularmente conhecida como cocaína, pesando aproximadamente 788g (setecentos e oitenta e oito gramas), gramas) , conforme descrito na denúncia.
+8. Em se tratando de delito de tráfico de drogas praticado, em tese, nas modalidades "guardar" ou  ter em depósito  a consumação se prolonga no tempo e, enquanto configurada essa situação, a flagrância permite a busca domiciliar, independentemente da expedição de mandado judicial, desde que presentes fundadas razões de que em seu interior ocorre a prática de crime, como consignado no indigitado RE 603.616, portador do Tema 280 da sistemática da Repercussão Geral do STF. IV. DISPOSITIVO
+9. Agravo Regimental provido para julgar PROCEDENTES os Embargos de Divergência.
+Atos normativos citados: Constituição Federal, art. 5º, XI. Jurisprudência citada: RE 1.468.558 AgR, rel. Min. ALEXANDRE DE MORAES, Dje de 3/12/2024; RE 1.491.517, rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, Dje de 28/11/2024; RE 1466339 AgR, rel. Min ALEXANDRE DE MORAES, Dje de 8/1/2024; RHC n. 181.563/BA, rel. Min. CÁRMEN LÚCIA, DJe de 24/03/2020; RE 603.616/RO, rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 10/5/2016; HC n. 95.015/SP, rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 24/4/2009.
+(RE n. 1.492.256-AgR-EDv-AgR, relator Ministro Edson Fachin, relator para o acórdão Ministro Alexandre de Moraes, Tribunal Pleno, julgado em 17/2/2025, DJe de 6/3/2025.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
