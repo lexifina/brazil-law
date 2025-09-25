@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto por BARI SECURITIZADORA S/A em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO DE COMPRA E VENDA DE IMÓVEL - CESSÃO DE CRÉDITOS - RESPONSABILIDADE DO CESSIONÁRIO - SOLIDARIEDADE - TARIFA DE ANÁLISE DE GARANTIA - ONEROSIDADE EXCESSIVA - LIMITAÇÃO - NECESSIDADE - TAXA DE JUROS REMUNERATÓRIOS - PRIMEIRO MÊS - PREVISÃO CONTRATUAL DESPROPORCIONAL - REVISÃO. Em se tratando de relação consumerista, a responsabilidade do cessionário é solidária. Havendo onerosidade excessiva na cobrança da Tarifa de Análise de Garantia, há que se limitar o valor pactuado entre as partes. A despeito da possibilidade de as partes avençarem as taxas de juros remuneratórios incidentes no contrato, há que se observar a proporcionalidade entre elas, sob pena de se configurar abusividade.
+Opostos embargos de declaração, estes foram rejeitados às fls. 609-613.
+No recurso especial, alega a agravante que o acórdão teria violado os arts. 926 e 927, incisos III e V, do Código de Processo Civil, ao argumento de que o Tribunal local não observou a jurisprudência deste Superior Tribunal de Justiça. Aponta dissídio jurisprudencial quanto ao tema.
+Contrarrazões às fls. 648 -653.
+Assim, delimitada a controvérsia, passo a decidir.
+Verifico que, no caso, ao contrário do alegado pela agravante, o TJMG observou efetivamente a jurisprudência deste STJ quanto à possibilidade de se declarar a abusividade dos juros remuneratórios diante do caso concreto, razão pela qual não houve violação aos arts. 926 e 927, incisos III e V, do CPC.
+No caso, entendeu o Tribunal, mantendo a sentença proferida pelo Juízo de primeira instância, que os juros remuneratórios fixados no primeiro mês foi quase 11 vezes superior ao fixado nos outros meses, razão pela qual deveriam ser limitados. Transcrevo (fls. 578-579):
+A despeito da possibilidade de as partes avençarem as taxas de juros, conforme já restou consignado, em se tratando de relação consumerista, cabe a revisão de eventual previsão contratual abusiva.
+Do exame do contrato de ordens nº 7/8, verifica-se das condições financeiras, que as partes estabeleceram como taxa mensal de juros nominal no primeiro mês o percentual de 11,98%, enquanto nos demais meses essa foi fixada em 1,096078%.
+Ou seja, foi previsto um percentual, na primeira parcela, quase 11 (onze) vezes maior do que o das outras. Desta feita, tal como reconhecido pelo Juízo a quo, verifico restar desproporcional tal disposição contratual.
+O acórdão está em consonância com o entendimento desta Corte. Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. NECESSIDADE DE COMPROVAÇÃO. APLICAÇÃO DAS SÚMULAS 5, 7 E 83 DO STJ. RECURSO NÃO PROVIDO.
+1. Consoante jurisprudência desta Corte Superior, não implica cerceamento de defesa o julgamento antecipado da lide, sem a dilação probatória requerida pela parte, notadamente quando as provas já produzidas são suficientes para a resolução da lide. Incidência da Súmula 83 do STJ.
+1.1. Rever o entendimento do Tribunal local acerca da suficiência das provas produzidas demandaria o reexame do contexto fático e probatório dos autos, providencia que encontra óbice na Súmula 7 do STJ.
+2. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando ficar caracterizada a relação de consumo e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto. Precedentes.
+2.1. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor. Precedentes.
+2.2. A alteração do decidido no acórdão impugnado, no que se refere à conclusão acerca da abusividade dos juros remuneratórios, exige o reexame de fatos e a interpretação de cláusulas contratuais, providências vedadas na via eleita, a teor do óbice das Súmulas 5 e 7 do STJ.
+3. Recurso não provido.
+(AREsp n. 2.912.412/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, a despeito da oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Incidência da Súmula 211 do STJ.
+2. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando ficar caracterizada a relação de consumo e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto. Precedentes.
+2.1. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+2.2. A alteração do decidido no acórdão impugnado, no que se refere à conclusão acerca da abusividade dos juros remuneratórios, exige o reexame de fatos e a interpretação de cláusulas contratuais, providências vedadas na via eleita, a teor do óbice das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão singular da Presidência desta Corte e, de plano, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 2.704.943/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor do agravado, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
