@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, no julgamento da apelação no Processo n. 0021224-60.2013.8.15.2001.
+Na origem, cuida-se de ação de execução forçada em que a parte autora, ora recorrente, requer "satisfação de débito decorrente de multa/débito imposto a gestor municipal em virtude de danos causados ao erário municipal" (fl. 159).
+Foi proferida sentença que extinguiu o processo sem resolução de mérito (fl. 164).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, no julgamento da apelação, a desproveu, em acórdão cuja ementa é a seguir transcrita (fl. 190):
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO FORÇADA. COBRANÇA DE MULTA APLICADA PELO TCE AO AGENTE PÚBLICO MUNICIPAL. ILEGITIMIDADE. TEMA 642. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. CONDENAÇÃO DO ESTADO AOS HONORÁRIOS DE SUCUMBÊNCIA. OBSERVÂNCIA AO PRINCÍPIO DA CAUSALIDADE. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+- Quanto aos honorários, a jurisprudência entende que, em caso de extinção do feito, arcará com a verba do advogado aquele que deu causa à ação, segundo o princípio da causalidade.
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente aponta afronta ao art. 85, §10º do Código de Processo Civil, trazendo os seguintes argumentos: (a) conforme o princípio da casualidade, não pode ser condenada em honorários uma vez que, à época do ajuizamento da ação, a legitimidade ativa do Estado era consolidada, tendo a situação sido alterada após mudança posterior de entendimento jurisprudencial (Tema n. 642/STF); (b) escoado o prazo para pagamento voluntário, era sua obrigação legal o ajuizamento da execução, extinguido-se a mesma por causa superveniente; e (c) foi o executado que deu início à ação executiva ao não pagar a dívida no tempo e modo devidos.
+Ao final, requer "seja dado provimento ao recurso especial, de sorte a reconhecer a violação ao § 10 do art. 85 do CPC e reformar o acórdão recorrido, afastando-se a condenação da Fazenda Pública em honorários de sucumbência" (fl. 210).
+Sem Contrarrazões.
+Recurso especial admitido às fls. 219-220.
+É o relatório.
+Decido.
+A Corte de origem assim decidiu sobre o princípio da casualidade, com base no acervo fático-probatório dos autos (fls. 191-192):
+Compulsando os autos, verifico que o magistrado a quo extinguiu a demanda declarando a ilegitimidade ativa do Estado da Paraíba em promover a execução de dívidas ou multas impostas pelo Tribunal de Contas contra agentes públicos municipais, Tema 642 - STF. Ademais, condenou o promovido aos ônus da sucumbência, sendo desta parte da decisão a irresignação recursal.
+Na presente hipótese, a jurisprudência entende que, em caso de extinção do feito arcará com a verba do advogado aquele que deu causa à ação, segundo o princípio da causalidade, ou seja, a parte que ocasionou à instauração da lide. No caso, o Estado deu causa ao cobrar a execução de dívidas ou multas impostas pelo Tribunal de Contas aos agentes municipais, devendo ser mantida a sua condenação em honorários.
+Assim, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente - no sentido de que foi o executado quem deu causa ao ajuizamento da ação - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatório. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). JUROS DE MORA. NÃO INCIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1- Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+2. Quanto à condenação em honorário, o reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.946.109/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/10/2021, DJe de 12/11/2021.)
+Ante o exposto, NÃO CONHEÇO do recurso especial. Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 194), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
