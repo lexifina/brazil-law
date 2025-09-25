@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Ceará, assim ementado:
+"DIREITO CIVIL E PROCESSUAL CIVIL - AGRAVO INTERNO EM EMBARGOS NÃO CONHECIDOS - EXPURGOS INFLACIONÁRIOS - AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC - AGRAVO INTERNO QUE DEFENDE DE FORMA GENÉRICA OS EFEITOS TRANSLATIVOS, SEM APONTAR AS MATÉRIAS DE ORDEM PÚBLICAS - IMPOSSIBILIDADE DE INCIDÊNCIA DE PENALIDADE E INAPLICABILIDADE DO ART. 523, § 1º DO CPC E CONDENAÇÃO EM HONORÁRIOS, SÚMULA 519 DO STJ - MATÉRIA DE DEFESA QUE NÃO FEZ PARTE DO ACÓRDÃO EMBARGADO - IMPOSSIBILIDADE DE APRECIAÇÃO SOB PENA DE SUPRESSÃO DE INSTÂNCIA - AFRONTA AO PRINCIPIO DA DIALETICIDADE - RECURSO NÃO CONHECIDO" (fls. 607-608).
+Nas razões do recurso especial, a parte alega violação aos arts. 3º, 489, §1º, inciso IV, 337, §4º, e 1.022, incisos I e II, do Código de Processo Civil, sustentando, em síntese, que:
+(a) o acórdão recorrido não enfrentou de forma adequada e fundamentada as questões suscitadas nos embargos de declaração, configurando negativa de prestação jurisdicional e omissão quanto a matérias relevantes para o deslinde da controvérsia;
+(b) o acórdão permitiu a indevida inclusão de juros remuneratórios na fase de cumprimento de sentença, mesmo sem previsão expressa na sentença coletiva que fundamenta a execução, o que viola a coisa julgada.
+Foram apresentadas contrarrazões (fls. 694-700).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+De início, no que toca à alegada ofensa aos arts. 3º, 489, §1º, inciso IV, e 1.022, incisos I e II, do Código de Processo Civil, não assiste razão à recorrente, pois ao apontar violação dos dispositivos acima, limitou-se alegar genericamente que o acórdão recorrido possui vícios de fundamentação, sem apontar em relação a qual ponto houve omissão ou a referida carência de fundamentação.
+Tal situação atrai a incidência da Súmula n. 284/STF, segundo a qual é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Neste sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. JUROS REMUNERATÓRIOS. LIMITAÇÃO. POSSIBILIDADE. COMPORTAMENTO CONTRADITÓRIO. VEDAÇÃO LEGAL. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos nos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência, por analogia, da Súmula 284 do STF.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+3. As cédulas de crédito rural, comercial e industrial, quanto aos juros remuneratórios, estão regidas por normas específicas que outorgam ao Conselho Monetário Nacional (CMN) a função de estabelecer a taxa de juros a ser praticada nestas espécies de crédito bancário. Todavia, não havendo deliberação do CMN, incide a limitação de 12% ao ano, conforme previsão do Decreto nº 22.626/33.
+Precedentes.
+4. "É firme, no âmbito do STJ, a compreensão de que é vedado o comportamento contraditório (venire contra factum proprium), a impedir que a parte, após praticar ato em determinado sentido, venha a adotar comportamento posterior contraditório" (AgInt nos EDcl no REsp 1.759.517/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/9/2022, DJe de 12/9/2022).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.624.542/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/3/2024, DJe de 11/3/2024.)
+Já no que diz respeito à alegação de que o acórdão permitiu a indevida inclusão de juros remuneratórios na fase de cumprimento de sentença, mesmo sem previsão expressa na sentença coletiva que fundamenta a execução, o que viola a coisa julgada, verifica-se que a matéria encontra-se dissociada do que fora decidido no acórdão recorrido.
+Ao julgar o agravo interno interposto nos autos do agravo de instrumento, a Corte de origem assim consignou:
+"Avaliadas as exposições acima, observo a existência de óbice intransponível ao conhecimento do presente recurso, tendo em vista que, em requerimento recursal, o agravante, em momento algum, rebate os argumentos utilizados no acórdão de fls. 503/520, muito menos da decisão dos embargos de fls.
+33/36. Ao contrário, tenta a aplicabilidade dos fundamentos do agravo no qual o juízo sequer teve conhecimento do mérito.
+Depreende-se, pois, que o recorrente, ao levantar alegações totalmente dissociadas do decidido e não combater diretamente os fundamentos elencados na decisão a quo, agiu em total desrespeito ao princípio da dialeticidade." (e-STJ flls. 614)
+Como visto, não houve, no acórdão recorrido, qualquer discussão acerca da (b) o inclusão de juros remuneratórios na fase de cumprimento de sentença e eventual violação à coisa julgada, de modo que as razões expostas no agravo regimental encontravam-se dissociadas do que fora decidido monocraticamente.
+É assente nesta Corte que é inadmissível o recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem, incidindo na espécie as Súmulas n. 282 e 356/STF.
+Ademais, no presente caso, incide também a Súmula n. 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ". Neste sentido:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE FRANQUIA. CUMULAÇÃO DE CLÁUSULAS PENAIS. POSSIBILIDADE. CLÁUSULAS COM NATUREZAS DISTINTAS. DESCUMPRIMENTO DO CONTRATO E CULPA PELA RESCISÃO, ROYALTIES, E DESCUMPRIMENTO DA CLÁUSULA DE NÃO-CONCORRÊNCIA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. TAXA SELIC PARA JUROS DE MORA AFASTADA. CONVENÇÃO EXPRESSA EM SENTIDO CONTRÁRIO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, somente na ausência de convenção em sentido contrário, a partir da vigência do Código Civil de 2002, os juros moratórios devem incidir segundo a variação da Taxa Selic. Precedentes.
+4. No caso, a Taxa SELIC não foi aplicada como índice de correção monetária e juros de mora, pois o contrato de franquia previa expressamente outros índices.
+5. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.722.569/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE DO APELO EXTREMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A atual jurisprudência do STJ é no sentido de que no processo eletrônico, o início do prazo para a interposição de recurso é o primeiro dia útil seguinte à data em que a intimação eletrônica foi efetivada.
+2. Ausente o prequestionamento dos dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282 do Supremo Tribunal Federal, por analogia. Precedente.
+3. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado, bem como a apresentação de razões recursais dissociadas do que ficou decidido pelo Tribunal de origem, impõe o desprovimento do apelo, a teor do entendimento disposto nas Súmulas 283 e 284 do STF, aplicáveis por analogia. Precedentes.
+4. O quantum arbitrado a título de danos morais - R$ 15.000,00 (quinze mil reais) não se revela exorbitante para reparar o dano moral decorrente da recusa indevida de cobertura de cirurgia.
+Precedentes. Incidência da Súmula 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão da Presidência e, de plano, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.701.859/PE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2025, DJEN de 2/7/2025.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
