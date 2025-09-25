@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual FREE WAY REVENDEDORA E TRANSPORTADORA DE GLP LTDA e OUTRO se insurgiram, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 94/95):
+DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IMUNIDADE TRIBUTÁRIA EM OPERAÇÕES INTERESTADUAIS. RECURSO DESPROVIDO.
+I. CASO EM EXAME 1. Agravo de instrumento interposto contra decisão que rejeitou exceção de pré-executividade apresentada em execução fiscal movida pelo Estado de Goiás para cobrança de ICMS sobre operações interestaduais de venda de Gás Liquefeito de Petróleo (GLP).
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em determinar a aplicabilidade da imunidade tributária prevista no art. 155, § 2º, X, b, da Constituição Federal, às operações interestaduais de venda de GLP destinadas à comercialização.
+III. RAZÕES DE DECIDIR 3. A imunidade tributária prevista no art. 155, § 2º, X, b, da Constituição Federal, não se aplica a toda a cadeia de operações de compra e venda de produtos derivados de petróleo, mas apenas à parte da aquisição final no regime de substituição tributária.
+4. A autuação fiscal se deu pela ausência de recolhimento do ICMS sobre as operações posteriores de remessa de GLP ao Estado de Goiás, configurando a responsabilidade da recorrente como substituto tributário.
+IV. DISPOSITIVO E TESE 5. Recurso conhecido e desprovido.
+Tese de julgamento: "1. A imunidade tributária prevista no art. 155, § 2º, X, b, da Constituição Federal, é restrita às operações de aquisição de derivados de petróleo, não abrangendo as operações subsequentes de comercialização."
+Os embargos de declaração foram rejeitados (fls. 131/135).
+A parte recorrente alega violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC), padecendo do vício de omissão, por não ter se manifestado acerca da necessidade de interpretação literal das normas de isenção tributária, conforme estabelecido no art. 111, II, do Código Tributário Nacional (CTN).
+Na sequência, sustenta violação dos arts. 3º, III, da Lei Complementar 89/1996 e 111, II, do CTN. Defende que a norma tributária que dispõe sobre isenção deve ser interpretada literalmente, não sendo possível restringir a imunidade tributária às operações realizadas no Estado de origem, considerando indevida a cobrança do Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) nas operações de compra/venda de Gás Liquefeito de Petróleo (GLP).
+A parte adversa apresentou contrarrazões (fls. 183/189).
+O recurso não foi admitido, o que ensejou a interposição de agravo.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Trata-se, na origem, de agravo de instrumento contra decisão que rejeitou a exceção de pré-executividade contra a cobrança de ICMS na operação interestadual de venda de combustível derivado de petróleo - GLP destinada à revenda.
+Ao solucionar a controvérsia, o Tribunal de origem concluiu que as recorrentes não fazem jus à imunidade tributária pretendida porquanto em conformidade com a orientação do Supremo Tribunal Federal (STF) , nesses termos:
+Decidiu-se que em relação ao petróleo e seus derivados, a regra seria oposta: nas operações interestaduais, o produto da arrecadação caberia ao Estado em que ocorresse o consumo.
+A operacionalização técnica dessa decisão política se concretizou mediante a criação da regra imunizante prevista no art. 155, § 2º, X, b, da Constituição Federal, segundo o qual o ICMS ".. não incidirá  ..  sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica.."
+(..)
+Visando a evitar distorções na interpretação da regra constitucional, que estava sendo usada para frustrar a incidência do imposto, foi criado um aparato normativo composto por convênios e normas, em especial pela Lei Complementar n. 87/1996 (Lei Kandir), que estabelece a incidência do ICMS ".. sobre a entrada, no território do Estado destinatário, de petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, e de energia elétrica, quando não destinados à comercialização ou à industrialização, decorrentes de operações interestaduais, cabendo o imposto ao Estado onde estiver localizado o adquirente.." (art. 2º, § 1º, III).
+(..)
+Em suma, na cadeia de produção/circulação de GLP, ocorre novo fato gerador no Estado destinatário nos casos em que figure como adquirente da operação interestadual um distribuidor, que poderá revender tal produto adquirido em uma operação interna (tributada).
+As operações com combustíveis derivados de petróleo estão sujeitas ao recolhimento do ICMS devido por substituição tributária ("ICMS-ST"), seja em operações internas, seja em operações interestaduais.
+No regime plurifásico de tributação - ao qual se sujeitava o ICMS até a publicação da Lei Complementar n. 192/2022 -, é possível que a legislação determine a aplicação da sistemática da substituição tributária, com o recolhimento antecipado por contribuinte situado em etapa anterior da cadeia de incidência do imposto que seria devido nas etapas seguintes (substituição tributária "para frente").
+Desse modo, primeiro há o recolhimento do imposto e em um momento posterior, ocorre o fato gerador. Diz-se então que o fato gerador é presumido porque haverá o pagamento do tributo sem se ter certeza de que ele, de fato, ocorrerá.
+A esse regime se aplicavam as operações com GLP, nos termos do Convênio ICMS n. 110, de 28 de setembro de 2007:
+(..)
+As entradas dos produtos estão sujeitas ao recolhimento do ICMS devido por substituição tributária ("ICMS-ST"), seja em operações internas, seja em operações interestaduais. Assim, é possível que o responsável tributário figure no polo passivo da relação jurídica, quando escolhido por lei para pagar o tributo, sem que tenha realizado o fato gerador (art. 121, parágrafo único, II, do CTN).
+A própria Constituição Federal, em seu art. 150, § 7º, admite o fenômeno da responsabilidade atinente ao ICMS, no contexto da substituição tributária progressiva ou "para frente", quando há a escolha de terceira pessoa para recolher o tributo antes da ocorrência do fato gerador, em uma nítida antecipação de recolhimento perante um fato gerador presumido.
+No caso, a Free Way Revendedora e Transportadora de Gás LTDA., estabelecida em Brasília/DF, foi considerada sujeito passivo por substituição tributária (ICMS ST); enquanto a cliente e destinatária das mercadorias, Hexagas Revendedora e Transportadora de G. L. P. Ltda., estabelecida em Novo Gama/GO, foi considerada a contribuinte/substituída tributária, razão pela qual foi incluída como responsável solidária.
+(..)
+Nesse contexto, a autuação realizada pelo Fisco não apresenta ilegalidade, senão o oposto, pois está de acordo com o entendimento do Supremo Tribunal Federal, segundo o qual a imunidade prevista no art. 155, § 2º, X, b, da Constituição Federal é restrita, e não alcança o Estado destinatário da mercadoria, que pode tributar as operações subsequentes, inclusive, por substituição tributária (fls. 97/100, sem destaques no original).
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ademais, no caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto de acórdão com fundamento eminentemente constitucional.
+O exame do alcance e dos limites de tese jurídica fixada pelo STF demanda a interpretação de preceitos e dispositivos constitucionais, providência essa de competência exclusiva da Suprema Corte.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO. PIS E COFINS. NÃO INCIDÊNCIA. FORMA DE CÁLCULO. ICMS DESTACADO NAS NOTAS FISCAIS VERSUS ICMS A RECOLHER NA COMPETÊNCIA. ACÓRDÃO RECORRIDO FUNDADO EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Tribunal de origem apenas interpretou o precedente do Supremo Tribunal Federal em repercussão geral para aplicá-lo ao caso concreto, razão pela qual não cabe ao Superior Tribunal de Justiça dirimir a controvérsia em sede de Recurso Especial no pertinente à interpretação constitucional do referido RE 574.706 RG/PR, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da Constituição Federal.
+3. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp n. 1.578.077/SP, Ministro Manoel Erhardt - Desembargador Convocado do TRF da 5ª Região, Primeira Turma, julgado em 19/4/2021, DJe de 29/4/2021, sem destaque no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaque no original.)
+Por fim, quanto ao alcance extensivo da norma isentiva, nos termos do art. 111 do CTN, constato que o mérito recursal foi decidido à luz da interpretação de legislação local, Convênio ICMS 110/2007, de modo que a alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+Confira-se:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE.
+ ..
+3. A análise das teses apresentadas depende do exame de legislação local, o que não é viável no âmbito do recurso especial, nos termos da Súmula 280 do STJ (Leis Complementares Municipais n. 01/2012 e 02/2000).
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.092.887/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+EMENTA
