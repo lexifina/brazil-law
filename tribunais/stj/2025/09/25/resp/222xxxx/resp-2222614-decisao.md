@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOÃO ALVES FERREIRA E OUTROS, fundamentado nas alíneas "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim ementado (fls. 523-529, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO. EMPRÉSTIMO CONTRAÍDO JUNTO AO BANCO DO NORDESTE DO BRASIL S.A. TERMO ADITIVO À CÉDULA RURAL PIGNORATÍCIA. AVAL. ANULABILIDADE. ALEGAÇÃO DE ERRO. VÍCIO DE CONSENTIMENTO. OUTORGA UXÓRIA. DECADÊNCIA. PRAZO DE 04 (QUATRO) ANOS, CONTADOS DA DATA DO NEGÓCIO JURÍDICO. PREJUDICIAL CONFIGURADA. SENTENÇA MANTIDA. APELAÇÃO DESPROVIDA.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 523-529, e-STJ.
+Nas razões de recurso especial (fls. 540-546, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 157, § 2º, e art. 1.647, III, do Código Civil.
+Sustenta, em síntese: (i) a nulidade do aval por ausência de outorga uxória; (ii) a inexistência de decadência, considerando que o negócio jurídico seria nulo; e (iii) a ocorrência de erro substancial, caracterizando vício de consentimento.
+Contrarrazões apresentadas às fls. 548-557, e-STJ.
+Em juízo de admissibilidade (fls. 565-566, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Os recorrentes alegam violação aos artigos 157, § 2º, e 1.647, III, do Código Civil, sustentando que o aval firmado no Termo Aditivo à Cédula Rural Pignoratícia é nulo, devido à ausência de outorga uxória, e que houve erro substancial, caracterizando vício de consentimento.
+Todavia, o recurso especial não merece conhecimento, pois verifica-se que a tese de nulidade do negócio jurídico por ausência de outorga uxória não foi efetivamente debatida pelo Tribunal de origem. O acórdão recorrido limitou-se a reconhecer o decurso do prazo decadencial para pleitear a anulação do negócio jurídico, nos termos do art. 178, II, do Código Civil, julgando prejudicada a análise da referida tese.
+Confira-se:
+Destarte, a prejudicial encontra-se configurada, o que também alcança a alegação de nulidade em razão da apontada ausência de outorga uxória (fl. 533, e-STJ).
+Conforme entendimento consolidado, o prequestionamento é requisito indispensável para a admissibilidade do recurso especial. Contra a decisão que não enfrentou a tese de nulidade por ausência de outorga uxória, caberia aos recorrentes a oposição de embargos de declaração, com o objetivo de provocar o pronunciamento do Tribunal de origem sobre a matéria. Contudo, os recorrentes não adotaram tal medida, o que atrai a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Ainda que superado o óbice do prequestionamento, o recurso não poderia ser conhecido, pois a instância ordinária utilizou-se de fundamento autônomo e suficiente para manter a improcedência da demanda, qual seja, a existência de outorga uxória no último aditivo firmado em 18/05/2004, o que atenderia ao disposto no art. 1.647, III, do Código Civil.
+Consta do acórdão recorrido:
+Além disso, Sua Excelência consignou que o último termo aditivo foi firmado em 18/05/2004 e constou a outorga uxória, o que atende ao disposto no art. 1.647, III, do CC, sendo despiciendo enfrentar a validade dos aditivos formalizados em datas pretéritas, pois no último houve o reconhecimento da dívida e a sua repactuação, substituindo os anteriores (fl. 524, e-STJ).
+Aliás, o próprio recorrente afirmou em suas razões do apelo extremo que "o Magistrado de Primeiro Grau jugou improcedente a ação de nulidade de negócio jurídico, tendo o acórdão transigido com alegações do julgador de primeira instancia, por entenderem que umas das motivações para o ajuizamento da ação estaria prescrita (erro substancial) e quanto a segunda hipótese (nulidade do contrato de aval por ausência de outorga uxória) julgaram improcedente o pedido por entender que o mesmo estaria válido." (fl. 542, e-STJ).  grifou-se
+Portanto, verifica-se que a instância ordinária utilizou-se de fundamento autônomo e suficiente para manter a decisão de improcedência, qual seja, a existência de outorga uxória no último aditivo. Tal fundamento não foi atacado pelos recorrentes, o que atrai a incidência da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. De toda forma, a análise da alegação de violação ao art. 157, § 2º, do Código Civil, como pretendem os recorrentes, mostra-se inviável, uma vez que demandaria o reexame de fatos e provas para constatar a ocorrência de lesão no caso concreto, o que é vedado pela Súmula 7 do STJ. Além disso, ainda que tal análise fosse admissível, destaca-se que o tribunal de origem não enfrentou a questão relativa ao vício da lesão, limitando-se a reconhecer a prejudicial de mérito da decadência, o que impede sua apreciação neste recurso.
+4. Diante do exposto, não conheço do recurso especial.
+Por fim, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
