@@ -1,0 +1,10 @@
+DECISÃO
+WALTER GOMIDES FILHO, condenado por homicídio qualificado tentado, alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que determinou a execução imedidata de sua condenação, a despeito da sentença condenatória haver facultado o recurso de apelação em liberdade.
+O caso comporta o julgamento antecipado, visto que se adequa a orientação firmada pelo STF em repercussão geral sobre o tema, a qual é contrária a pretensão defensiva.
+Deveras, aplica-se ao caso o entendimento do Supremo Tribunal Federal, que assinalou, em julgamento realizado em 12/9/2024 e em Repercussão Geral (Tema n. 1.068), que pessoas condenadas pelo Júri devem começar a cumprir pena imediatamente, mesmo que o réu ainda possa recorrer a outras instâncias na Justiça. Realço, por oportuno, que o precedente qualificado, construído a partir de repercussão geral, possui natureza vinculante.
+Aliás, no caso, extrai-se que o julgamento ocorrido na origem encontra-se em harmonia com a orientação desta Corte e do STF, notadamente quando pontuou: " ..  a questão teve a repercussão geral reconhecida perante o Colendo Supremo Tribunal Federal (Tema 1.068). Em 12 de setembro de 2024, a Corte Superior fixou a seguinte tese de julgamento: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada"" (fls. 51-52, destaquei).
+Nesse sentido, deste Superior Tribunal, o seguinte aresto: "O Supremo Tribunal Federal, no julgamento do RE n. 1.235.340, com repercussão geral (Tema 1068), firmou a tese de que "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada"" (AgRg no RHC n. 202.283/BA, relator Ministro Rogerio Schietti, DJe 7/11/2024).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine o habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
