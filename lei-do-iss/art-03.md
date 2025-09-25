@@ -1,7 +1,7 @@
 Art. 3º O serviço considera-se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local:
 I - do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado, na hipótese do § 1º do art. 1º desta Lei Complementar;
 II - da instalação dos andaimes, palcos, coberturas e outras estruturas, no caso dos serviços descritos no subitem 3.05 da lista anexa;
-III - da execução da obra, no caso dos serviços descritos no subitem 7.02 e 7.19 da lista anexa;
+III - da execução da obra, no caso dos serviços descritos nos subitens 7.02, 7.19 e 14.14 da lista anexa;
 IV - da demolição, no caso dos serviços descritos no subitem 7.04 da lista anexa;
 V - das edificações em geral, estradas, pontes, portos e congêneres, no caso dos serviços descritos no subitem 7.05 da lista anexa;
 VI - da execução da varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer, no caso dos serviços descritos no subitem 7.09 da lista anexa;
