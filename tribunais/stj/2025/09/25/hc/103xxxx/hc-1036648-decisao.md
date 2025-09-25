@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de AILSON DANILO SILVA FREITAS - na execução de pena de reclusão de 10 anos, 11 meses e 6 dias, em razão da condenação por roubo circunstanciado -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais (fls. 8/17 - Agravo de Execução Penal n. 1.0000.25.173671-6/001), comporta pronto acolhimento.
+Com efeito, a impetração b usca extinguir a punibilidade do paciente com a concessão de indulto com base no art. 2º, XIV, do Decreto n. 11.846/2023 - na Execução da Pena n. 4400213-85.2019.8.13.0027 (fls. 28/29, da Vara de Execução Penal em Meio Aberto da comarca de Nova Lima/MG) -, aos seguintes argumentos:
+a) inexistência de reincidência porque o crime de 22/9/2017 foi praticado antes do trânsito em julgado da condenação anterior, sustentando que o marco deve ser o trânsito em julgado para ambas as partes à luz da presunção de inocência e do ARE n. 848.107/STF (fls. 5/6); e
+b) cumprimento dos requisitos objetivos e subjetivos do art. 2º, XIV, do Decreto n. 11.846/2023: em livramento condicional em 25/12/2023; ausência de faltas graves nos 12 meses anteriores; lapso mínimo de 1/4; pena remanescente não superior a 8 anos para não reincidente (fl. 6).
+Sem pedido liminar.
+Embora o writ tenha sido apresentado indevidamente como substitutivo de recurso próprio - o que, em regra, é inadmissível -, do atento exame dos autos verifica-se a ocorrência de constrangimento ilegal, o que justifica a superação do referido óbice, pois o acórdão hostilizado:
+a) afirmou que o indulto do Decreto n. 11.846/2023 exige crimes sem violência ou grave ameaça (art. 2º, incisos I a XI), sendo o art. 157, § 2º, do CP incompatível, razão suficiente para negar (fls. 12/15), entretanto os crimes impeditivos se limitam aos delitos hediondos e não a todos os crimes violentos. Nesse sentido: AgRg no HC n. 955.700/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025; e
+b) o paciente não pode ser considerado reincidente, uma vez que a fundamentação da Corte estadual - de que o crime de 22/9/2017 ocorreu após o trânsito em julgado para o Ministério Público no feito anterior em 21/8/2017 (fl. 16) - está em desacordo com o entendimento deste Superior Tribunal, para o qual a reincidência deve ser aferida após o trânsito em julgado para ambas as partes.
+Em razão disso, concedo liminarmente a ordem para determinar ao Juízo de Direito da Vara de Execução Penal em Meio Aberto da comarca de Nova Lima/MG que reanalise o pedido de indulto na Execução da Pena n. 4400213-85.2019.8.13.0027, com base no Decreto n. 11.846/2023, afastando a reincidência do paciente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. INDULTO. DECRETO N. 11.846/2023. CRIME VIOLENTO. INTERPRETAÇÃO DO ART. 2º DO DECRETO LIMITADA A DELITOS HEDIONDOS. REINCIDÊNCIA. NECESSIDADE DE TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem liminarmente concedida nos termos do dispositivo.
