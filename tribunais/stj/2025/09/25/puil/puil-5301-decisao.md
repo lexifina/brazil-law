@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal, com invocado fundamento no disposto pelo art. 18, § 3º, da Lei 12.153/2009, requerido pelo Município de São Domingos, com o manifesto objetivo de reformar o acórdão de fls. 826/829, proferido à unanimidade pela 3.ª Turma Recursal do Estado de Santa Catarina, decisão que se apresenta guarnecido pela ementa que se segue:
+AGRAVO INTERNO EM RECURSO CÍVEL. JUIZADO ESPECIAL CÍVEL. DECISÃO UNIPESSOAL DO RELATOR QUE NÃO CONHECEU DO RECURSO CÍVEL PELA INTEMPESTIVIDADE. INSURGÊNCIA DA PARTE RECORRENTE. ALEGADO ERRO MATERIAL NA SENTENÇA E CONSEQUENTE EQUÍVOCO NA EXPEDIÇÃO DA CERTIDÃO CARTORÁRIA. NÃO ACOLHIMENTO. CIÊNCIA INEQUÍVOCA SOBRE O RITO PROCESSUAL APLICÁVEL À CAUSA. OBSERVÂNCIA DO PRAZO RECURSAL PREVISTO NA LEGISLAÇÃO QUE INCUMBE À PARTE RECORRENTE. DECISÕES PROFERIDAS NO CURSO DO PROCESSO QUE CONSIGNARAM TAXATIVAMENTE A APLICAÇÃO DO RITO INSTITUÍDO PELAS LEIS NS. 9.099/1995 E 12.153/2009. DECISÃO MONOCRÁTICA QUE NÃO COMPORTA REPARO. RECURSO CONHECIDO E NÃO PROVIDO.
+No pedido dirigido a esta Corte, fls. 831/842, o município requerente alega divergência jurisprudencial em relação a entendimento da Primeira Turma Recursal dos Juizados Especiais da Fazenda Pública do Estado do Mato Grosso quanto ao disposto no art. 223, § 1º, do CPC, ao argumento de que "enquanto o julgado guerreado não admite a ocorrência da justa causa, em caso de erro no lançamento de informação no sistema que registra o prazo para recorrer, o julgado paradigma  decidiu de forma diametralmente oposta, reconhecendo a justa causa e a tempestividade do Recurso Inominado" (fl. 835), razão pela qual pede a reforma do julgado catarinense.
+Pedido sem contrarrazões.
+Feito isento de custas, conforme prevê o art. 3º, IV, da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017.
+Representação regular (fl. 345).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O pedido de uniformização de interpretação de lei federal um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial, além, por óbvio, daqueles especificamente exigidos na lei de regência (Lei 12.153/2009.
+Fixadas estas premissas, passo ao exame do pedido dirigido a esta Corte Superior.
+Na presente hipótese, como relatado, busca o município obter a reforma do acórdão em ordem a possibilitar admissão de recurso tido por intempestivo.
+Todavia, à luz desta peculiar moldura fático-jurídica que dos autos emerge, não há como dar prosseguimento ao pedido porque, nos termos do art. 18, caput, da Lei n. 12.153/2009, o pedido dirigido a esta Corte superior somente é cabível "quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material", o que, à toda vista, não é o caso, em que o intento do ente estatal é, repita-se, discutir requisito de admissibilidade recursal. Cuida-se, portanto, de aspecto essencialmente processual e nada mais.
+Assim examinada, a admissibilidade do pedido revela-se impedida por obstáculo legal intransponível.
+ANTE O EXPOSTO, porque incabível o presente pedido de uniformização de interpretação de lei federal, dele não conheço , com fundamento no disposto no art. 34, XVIII, "a", do RISTJ.
+Publique-se.
+EMENTA
