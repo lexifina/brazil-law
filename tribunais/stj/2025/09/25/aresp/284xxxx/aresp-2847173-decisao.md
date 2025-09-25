@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por Roan Varela Paixão Henriques contra decisão que não admitiu recurso especial manejado, com base na alínea "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fls. 725-726):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE ANTECIPAÇÃO DE TUTELA ESPECÍFICA. REALIZAÇÃO DE CIRURGIA DE CITORREDUÇÃO MÁXIMA COM USO DE QUIMIOTERAPIA HIPERTÉRMICA INTRAOPERATÓRIA APÓS DETERMINAÇÃO JUDICIAL. RECURSO DO AUTOR. PLEITO DE CONDENAÇÃO DO RÉU AO REEMBOLSO INTEGRAL DO VALOR PAGO PELO CONSUMIDOR COM EQUIPE MÉDICA E ANESTESISTA. REEMBOLSO QUE DEVE SER LIMITADO AO PREVISTO NA TABELA DE REFERÊNCIA DA OPERADORA RÉ. PRECEDENTES DO STJ. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E IMPROVIDO.
+Contra o referido acórdão, a parte recorrente opôs embargos de declaração, afirmando que a Corte de origem deixou de se pronunciar acerca da ausência de profissionais credenciados para realizar a cirurgia - fato que teria ficado patente ante a ausência de resposta da operadora do plano de saúde, após devido questionamento. Dessa forma, se a parte autora não teve alternativa além de contratar equipe médica fora da rede credenciada, o reembolso deverá ser realizado de forma integral, conforme jurisprudência do STJ.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 1.022 do Código de Processo Civil.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
+EMENTA
