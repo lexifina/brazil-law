@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Jean Carlos Teixeira da Silva, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus n. 2242016-77.2025.8.26.0000, mantendo a prisão preventiva do paciente, imposta pelo Juízo da 1ª Vara Criminal da comarca de Rio Claro/SP, pela suposta prática dos crimes de tráfico de drogas e porte ilegal de munições de uso restrito.
+A defesa alega constrangimento ilegal decorrente de perseguição policial motivada por animosidade prévia, resultando em abordagens reiteradas e ilegais.
+Aponta cerceamento de defesa pela negativa de diligências essenciais, como acesso a imagens de câmeras de segurança e registros de viaturas.
+Sustenta que a prisão preventiva foi decretada sem fatos contemporâneos e em desconsideração às medidas cautelares alternativas.
+Ressalta as condições pessoais favoráveis do paciente - primário, emprego lícito e fixo, filho menor e companheira grávida.
+Requer, assim, em síntese, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório.
+Consta dos autos que o paciente foi preso em flagrante em 7/5/2025, pela suposta prática de tráfico de drogas e porte ilegal de munições de uso restrito, com apreensão de entorpecentes, munições de diversos calibres e valores em dinheiro.
+Embora inicialmente beneficiado com liberdade provisória, sua prisão preventiva foi decretada em 19/5/2025, a pedido do Ministério Público, em razão da gravidade concreta dos fatos e de indícios de envolvimento com facções criminosas.
+O Tribunal de Justiça manteve a decisão, reconhecendo a presença do fumus comissi delicti e do periculum libertatis, ressaltando a gravidade concreta da conduta imputada.
+Daí o presente writ, no qual se alega perseguição policial e animosidade prévia, tese afastada pela Corte estadual por exigir reexame do conjunto probatório. Diante da ausência de manifestação clara, é inviável sua análise nesta instância.
+No que se refere à negativa de diligências pelo Magistrado de primeiro grau, o Tribunal de Justiça entendeu que o indeferimento foi devidamente fundamentado, uma vez que os elementos pretendidos pela defesa não eram imprescindíveis ao exercício do contraditório e da ampla defesa, podendo ser supridos por outros meios de prova (fls. 37/38). Rever tal conclusão demandaria o reexame de matéria fático-probatória, providência inviável na via estreita do habeas corpus.
+Nesse sentido: AgRg no HC n. 899.943/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.
+Quanto à alegação de ilegalidade na abordagem policial, o Tribunal de Justiça corretamente afastou a tese de fishing expedition, destacando que a ação policial foi motivada por denúncias recebidas e fundada suspeita, em conformidade com o art. 240 do Código de Processo Penal (fls. 38/39).
+A apreensão de drogas e munições no veículo do paciente reforça a regularidade da diligência e a existência de indícios suficientes de autoria e materialidade.
+A corroborar: AgRg no HC n. 999.168/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2025, DJEN de 15/9/2025.
+Por fim, a decisão que decretou a prisão preventiva está devidamente fundamentada em elementos concretos que evidenciam a necessidade da medida para a garantia da ordem pública, diante da apreensão de 4 "tijolos" de maconha, 1 tijolo de cocaína, 20 munições de fuzil, 5 munições de calibre 762 e 15 de calibre 556, além de R$ 600,00 (seiscentos reais) em notas diversas e U$ 11,00 (onze dólares) - fl. 39.
+Em resumo, a prisão preventiva é compatível com a presunção de inocência desde que não se converta em antecipação de pena nem seja imposta de forma automática em razão da gravidade abstrata do crime ou do ato processual praticado (art. 313, § 2º, do CPP). Exige-se, ainda, que a decisão esteja amparada em fundamentos concretos, relacionados a fatos novos ou contemporâneos, que demonstrem o risco que a liberdade do investigado ou réu representa para a regularidade e os fins do processo penal (arts. 312 e 315 do CPP) - (AgRg no RHC n. 217.242/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2025, DJEN de 15/9/2025).
+Assim, as instâncias de origem apontaram dados objetivos dos autos que evidenciam a gravidade concreta da conduta e justificam a necessidade da segregação cautelar.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE ILEGAL DE MUNIÇÕES DE USO RESTRITO. ALEGAÇÃO DE PERSEGUIÇÃO POLICIAL. TESE NÃO DEBATIDA PELA INSTÂNCIA ORDINÁRIA. CERCEAMENTO PELO INDEFERIMENTO DE DILIGÊNCIAS SOLICITADAS PELA DEFESA. REVOLVIMENTO DE MATÉRIA PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. BUSCA PESSOAL. AUSÊNCIA DE JUSTA CAUSA. NÃO OCORRÊNCIA. LEGALIDADE. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. APREENSÃO DE DROGAS E MUNIÇÕES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Inicial indeferida liminarmente.
