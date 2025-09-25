@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE CURITIBA da decisão em que conheci de seu agravo para não conhecer do recurso especial (fls. 132/134).
+A parte agravante afirma que não há afronta à Súmula 283 do STJ, porquanto todos os argumentos do acórdão recorrido foram atacados em argumentos do recurso especial. E prossegue: "a decisão aqui agravada, deve ser alterada, para permitir conhecimento ao recurso especial, porque não é verdadeira, a alegação, de que o Município deixou de atacar o argumento do acórdão, recorrido, de que deve ser provado quem pagou o tributo administrativamente, para só então, poder - se comprovado que foi o próprio executado quem pagou administrativamente, a dívida fiscal - poder ser afastadas as custas, impostas, ao exequente, na extinção da execução fiscal, judicial, em razão de tal pagamento" (fl. 144).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte agravada não apresentou impugnação (fl. 150).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso.
+O recurso especial foi interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF/1988), no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 28):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO PELO PAGAMENTO EXTRAJUDICIAL ANTES DA CITAÇÃO DA PARTE DEVEDORA. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DAS CUSTAS PROCESSUAIS. POSSIBILIDADE. AUSÊNCIA DE TRIANGULARIZAÇÃO DA DEMANDA. INTELIGÊNCIA DO ART. 238 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE DO PRINCÍPIO DA CAUSALIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DO EFETIVO RECONHECIMENTO DO DÉBITO APÓS O AJUIZAMENTO DA EXECUÇÃO FISCAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+a. A quitação do débito tributário após o ajuizamento da execução fiscal e antes da citação da parte devedora dá ensejo à condenação do exequente ao pagamento das custas, nos termos do art. 238 do Código de Processo Civil.
+b. Não há falar em condenação do devedor ao pagamento das custas processuais com base no princípio da causalidade, porquanto ausente comprovação do reconhecimento extrajudicial do débito.
+c. Há precedentes do Superior Tribunal de Justiça no sentido da manutenção, por impossibilidade de revolvimento do conjunto fático-probatório, da sucumbência imposta em acórdão que "condenou o exequente ao pagamento das custas processuais, pois, além da inexistência de triangularização da relação processual (sequer foi expedida a citação do executado), houve a " (STJ. "mera alegação de quitação administrativa" do débito tributário (fl. 21) RESP 2009106/PR, Min. Sergio Kukina, julgado em 25.6.2022, publicado em 29.6.2022).
+Nas razões do seu recurso especial, a parte recorrente aponta violação do art. 90 do Código de Processo Civil (CPC). Alega, para tanto, que a quitação administrativa dos débitos fiscais não exime o contribuinte de arcar com as custas processuais referentes à execução fiscal anteriormente ajuizada, ainda que não tenha havido sua citação.
+Não houve apresentação de contrarrazões, conforme certificado (fl. 100).
+Ao solucionar a controvérsia, o acórdão recorrido ratificou a condenação do ente municipal ao pagamento de custas processuais, sob os seguintes fundamentos:
+Ao pedir o arquivamento da execução (mov. 9.1) antes da citação da parte devedora, o exequente praticou, na verdade, ato unilateral de desistência.
+É que, se a extinção ocorre antes da citação da parte executada, como acontece na espécie, diante da ausência de triangularização da relação processual, as despesas devem ser pagas pelo exequente ante o disposto no art. 238 do Código de Processo Civil: "citação é o ato pelo qual são convocados o réu, o executado ou o interessado para integrar a relação processual". Assim, antes da citação, não há falar em parte executada, o que impede a condenação ao pagamento das custas na forma pretendida pelo recorrente.
+Essa conclusão é reforçada pelo art. 90 do Código de Processo Civil, que impõe o ônus da sucumbência àquele que desiste:
+ ..
+Assim, a quitação do débito tributário após o ajuizamento da execução fiscal, mas antes da citação do devedor, dá ensejo à condenação da parte exequente ao pagamento das custas.
+Nesse sentido:
+ ..
+E nem se alegue que, diante do reconhecimento extrajudicial do débito após o ajuizamento da execução, deve a parte executada arcar com o ônus sucumbencial.
+Isto porque não há nada nos autos que comprove que houve o pagamento do débito pelo próprio devedor.
+Não há falar, então, em condenação da parte executada ao pagamento das custas processuais com base no princípio da causalidade (fl. 29/31).
+Verifico que o entendimento proferido pelo acórdão recorrido diverge da orientação do Superior Tribunal de Justiça (STJ), que possui entendimento de que, em observância ao princípio da causalidade, o pagamento do débito na esfera administrativa realizado posteriormente ao ajuizamento da execução fiscal, ainda que antes da citação, impõe ao executado, não ao exequente, o pagamento dos ônus sucumbenciais, entre eles as custas judiciais, porquanto a sua inadimplência deu causa à instauração do processo (REsp 1.854.592/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2020, DJ e 31/8/2020).
+Cito, ainda, em casos semelhantes, as seguintes decisões monocráticas da Primeira e Segunda Turmas do STJ: REsp 1.971.812, Ministro Gurgel de Faria, DJe de 1º/2/2022; REsp 2.101.464, Ministro Sérgio Kukina, DJe de 9/10/2023; REsp 2.137.541, Ministra Regina Helena Costa, DJe de 25/4/2024; REsp 2.133.170, Ministro Sérgio Kukina, DJe de 11/4/2024; REsp 2.110.213, Ministro Mauro Campbell Marques, DJe de 24/11/2023; REsp 2.101.472, Ministra Assusete Magalhães, DJe de 11/10/2023.
+Ante o exposto, reconsidero a decisão agravada para conhecer do agravo e dar provimento ao recurso especial a fim de afastar a condenação do ente municipal ao pagamento de custas processuais.
+Publique-se. Intimem-se.
+EMENTA
