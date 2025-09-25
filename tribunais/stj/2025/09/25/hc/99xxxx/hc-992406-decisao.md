@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  em  favor  de  LUCAS BARDILHO ÁLVARES,  contra  o  acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  no  Habeas Corpus  n.  2058168-87.2025.8.26.0000.
+O  impetrante  alega  haver  constrangimento  ilegal  proveniente do excesso de prazo para realização do exame criminológico.
+Requer, liminarmente e no mérito, seja concedida progressão ao regime semiaberto sem a realização do exame criminológico.
+Decisão indeferindo o pedido liminar (fls. 30-31).
+As informações foram prestadas (fls. 36-39).
+O impetrante reiterou o pedido de expedição de ofício para o Juízo de primeiro grau "conceder a ordem sem a necessidade de exame" (fls. 43-54).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, e, se conhecido, pela denegação da ordem (fls. 55-60).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a parte impetrante não tenha adotado a via processual adequada, cumpre analisar as razões da impetração, de forma a verificar a ocorrência de eventual ilegalidade manifesta a justificar a concessão do habeas corpus, de ofício.
+No caso em análise, o acórdão impugnado faz referência à existência de elementos concretos que justificam a necessidade de realização do exame criminológico, não havendo desídia do Juízo ou demora exacerbada. Observe-se (fls. 5-8, grifamos):
+De acordo com o boletim informativo (fls. 11-15), Lucas cumpre pena de doze (12) anos e oito (8) meses de reclusão, em regime fechado, por condenação por crimes de tráfico, furto e roubo, com fim de cumprimento de pena previsto para 24/03/2028.
+Mais recentemente, formulado pedido de progressão ao regime semiaberto, foi determinada a colheita de parecer da Comissão Técnica de Classificação (fls. 4-5). Veja-se que a decisão do juízo de origem a esse respeito está formalmente fundamentada e apresentou razões especificas para assim proceder, quais sejam a prática de falta disciplinar de natureza grave, consistente em anterior abandono do regime intermediário, bem como o cometimento de novo delito na anterior oportunidade em que foi beneficiado com o livramento condicional. Verifica-se, portanto, a motivação exigida pela Súmula Vinculante nº 26, com as reais preocupações concernentes com a colocação de Lucas no regime intermediário.
+Por outro lado, não se vislumbra a ocorrência de excesso de prazo por desídia do Juízo, o qual determinou a realização do parecer em 04/02/2025, aguardando-se sua juntada aos autos.
+Inexiste sequer a demora exagerada apontada pela impetrante, cabendo aguardar a realização da diligência para decisão sobre o pedido.
+Registro, por oportuno, que, conforme informações prestadas pelo Juízo de primeiro grau (fls. 36-39, grifamos), o exame criminológico foi determinado em razão do "histórico carcerário conturbado" do paciente.
+Dentro desse cenário, verifico que o Tribunal local seguiu o entendimento desta Corte de Justiça, considerando haver elementos concretos a justificar a necessidade de realização do exame criminológico.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA FINS DE AFERIÇÃO DO REQUISITO SUBJETIVO NECESSÁRIO À PROGRESSÃO DE REGIME. ACÓRDÃO MANTIDO POR ESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A gravidade abstrata dos crimes praticados, eventual grande quantidade de pena ainda pendente de cumprimento, faltas graves cometidas em período longínquo e já reabilitadas e a reincidência não constituem fundamentos idôneos a justificar a realização de exame criminológico. Precedentes.
+2. Todavia, o histórico conturbado do paciente e prática de faltas graves é fundamento idôneo para a determinação de exame criminológico. De fato, o acórdão impugnado está em conformidade com essa orientação, uma vez que a determinação de realização do exame criminológico tem por base fundamentação idônea, pois relacionada ao comportamento do apenado durante a execução da pena, concernente no fato de que "O histórico prisional do recorrido é conturbado, já que registra duas passagens pelo sistema penitenciário pelo crime de tráfico ilícito de drogas, tendo cometido falta disciplinar de natureza grave, exatamente pela posse de entorpecente" (fl. 12).
+3. Agravo regimental desprovido. (AgRg no HC n. 1011446/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025, grifamos).
+Ante o exposto, não conheço do habeas corpus, registrando, ademais, a inviabilidade da concessão da ordem de ofício, já que não há, in casu, nenhuma ilegalidade manifesta a ser corrigida, recomendando-se ao Juízo de primeiro grau, entretanto, que empreenda diligências junto ao órgão competente para que seja, se já não foi, encaminhado, com celeridade, o exame criminológico.
+Publique-se e intimem-se.
+EMENTA
