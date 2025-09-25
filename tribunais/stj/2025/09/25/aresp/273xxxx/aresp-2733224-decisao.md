@@ -1,0 +1,98 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual TRADITIO COMPANHIA DE SEGUROS se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 595):
+Agravo de instrumento. Ação de indenização de danos decorrentes de imóvel, em fase de cumprimento de sentença. Impugnação ao cumprimento de sentença interposto por SUL AMÉRICA COMPANHIA DE SEGUROS na qual alega que há interesse da Caixa Econômica Federal para a lide, como administradora da sua conta FCVS, bem como a necessidade de nova prova pericial. A alegada incompetência da Justiça Estadual e legitimidade da Caixa Econômica Federal trata-se de matéria preclusa. A perícia já foi concluída na fase de conhecimento, sendo descabida novas discussões, exceto para que o perito informe o valor dos danos nos imóveis, com base na conclusão do laudo proferido. Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 671/675).
+Nas razões de seu recurso especial, a parte recorrente aponta a violação ao art. 109, I, da Constituição Federal, ao art. 1º-A da Lei 12.409/2011, ao art. 3º da Lei 13.000/2014 e ao art. 480 do Código de Processo Civil.
+Alega haver violação aos dispositivos legais mencionados, uma vez que foi reconhecido o interesse jurídico da Caixa Econômica Federal (CEF) nas demandas relacionadas ao Seguro Habitacional do Sistema Financeiro de Habitação (SH/SFH), especialmente em apólices públicas (ramo 66).
+Sustenta que a competência para processar e julgar a presente ação é da Justiça Federal, devido ao interesse da CEF como administradora do Fundo de Compensação por Variação Salarial (FCVS), segundo o julgamento do Tema 1.011 do Supremo Tribunal Federal.
+Argumenta que o julgamento do Tema 1.011 do STF seria fato novo de aplicação obrigatória, que firmou entendimento sobre o competência da Justiça Federal para demandas envolvendo apólices públicas do STF.
+Destaca que foi indeferida a realização de prova pericial para apuração dos danos nos imóveis, bem como que a perícia realizada na fase de conhecimento não especificou valores nem esclareceu suficientemente a matéria, sendo indispensável nova prova pericial para garantir o contraditório e a ampla defesa.
+Requer o provimento do recurso, para que seja reconhecido o interesse da CEF e determinada a remessa dos autos à Justiça Federal, assim como a realização de nova perícia para apuração dos danos nos imóveis.
+A parte adversa não apresentou contrarrazões (fl. 678).
+O recurso não foi admitido (fls. 679/680), razão pela qual foi interposto o agravo em recurso especial ora em análise (fls. 683/709).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Trata-se de impugnação ao cumprimento de sentença apresentado pela companhia seguradora recorrente, objetivando a reforma de decisão que rejeitou a incompetência da Justiça estadual e a realização de nova prova pericial, determinando o prosseguimento do cumprimento de sentença.
+Interposto agravo de instrumento, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO negou provimento ao recurso.
+Quanto à alegada afronta ao art. art. 109, I, da Constituição Federal (CF), é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF).
+Nessa mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe de 14/8/2020, sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe de 26/4/2017, sem destaques no original.)
+Em relação à alegação de interesse da Caixa Econômica Federal para a lide, como administradora da sua conta FCVS, e o reconhecimento da incompetência da Justiça estadual, o Tribunal de origem assim decidiu (fl. 596):
+Conforme decidido, a alegada incompetência da Justiça Estadual e legitimidade da Caixa Econômica Federal trata-se de matéria preclusa.
+A Caixa Econômica Federal já se manifestou nos autos, conforme sentença, informando que os contratos dos autores não são vinculados ao FCVS, logo, descabe qualquer rediscussão acerca da competência da Justiça Estadual em sede de cumprimento de sentença, sem notícias de alteração do que restou decidido.
+Portanto, a CEF manifestou-se pela falta de interesse na controvérsia, porque os contratos não estariam vinculados ao FCVS. O Tribunal de origem, no processo de conhecimento, concluiu pela ausência de interesse jurídico da CEF, operou-se, assim, a preclusão consumativa sobre a questão, não se podendo rediscuti-la.
+A propósito:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS. SISTEMA FINANCEIRO DE HABITAÇÃO. FCVS. INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. QUESTÃO JÁ DECIDIDA NO CURSO DO PROCEDIMENTO. PRECLUSÃO CONSUMATIVA. TEMA 1.011/STF.
+1. Ação de responsabilidade securitária.
+2. O propósito recursal consiste em definir (I) se houve negativa de prestação jurisdicional e (II) se, à luz do Tema 1.011/STF, está caracterizada a incompetência absoluta da Justiça Estadual, diante da alegação de que a Caixa Econômica Federal possui interesse jurídico na demanda.
+3. Não há ofensa ao artigo 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. Conforme fixado pelo STF no RE 827.996/PR (DJe 21/8/2020, Tema 1.011), a MP 513/2010, por prever a CEF como administradora do FCVS, modificou a competência para processar e julgar os processos em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS. Assim, a partir da entrada em vigor da referida MP (26/11/2010), a competência passou a ser da Justiça Federal, desde que realmente se trate da apólice pública e haja manifestação de interesse pela CEF ou pela União.
+5. Sob a ótica do direito intertemporal, o STF fixou a data da prolação da sentença de mérito como marco temporal limite para a incidência da alteração legislativa promovida pela MP 513/2010, nos processos em trâmite na data de sua entrada em vigor.
+6. Na hipótese em que ainda não foi proferida sentença de mérito, a competência deverá ser apreciada à luz da MP 513/2010 e das teses fixadas pelo STF no RE 827.996/PR, quando (I) ainda não houve decisão sobre a competência; (II) houve decisão sobre a competência antes da data de entrada em vigor da MP 513/2010; ou (III) houve decisão sobre a competência após a data de entrada em vigor da MP 513/2010, mas pende de julgamento eventual recurso interposto.
+7. Por outro lado, se houve decisão sobre a competência após a alteração legislativa e já foram esgotados ou não interpostos os recursos cabíveis, operou-se a preclusão consumativa, não podendo haver a rediscussão da matéria, nos termos dos artigos 505 e 507 do CPC.
+8. Hipótese em que a questão referente à competência já havia sido decidida por acórdão proferido pelo TJ/PR, que, em sede de agravo de instrumento, fixou a competência da Justiça Estadual para processar e julgar o presente processo. Já houve, portanto, decisão sobre a competência, com trânsito em julgado após a entrada em vigor da MP 513/2010, razão pela qual se operou a preclusão consumativa sobre a questão, não se podendo rediscuti-la.
+9. Recurso especial não provido.
+(REsp n. 2.189.811/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025, sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INCOMPETÊNCIA ABSOLUTA E PRECLUSÃO. PREQUESTIONAMENTO. NECESSIDADE, AINDA QUE RELATIVO À MATÉRIA DE ORDEM PÚBLICA. COMPETÊNCIA. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. DISSÍDIO NÃO CONFIGURADO. AUSÊNCIA DE SIMILITUDE FÁTICA E COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação aos artigos 489, parágrafo 1º, 1022 e 1023 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. É firme no Superior Tribunal de Justiça o entendimento quanto à necessidade de prequestionamento da matéria trazida a exame, ainda que vinculada a tema de ordem pública (AgInt no AREsp 928.071/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016).
+3. Quanto à alegada violação ao artigo 505 do CPC, o dissídio jurisprudencial não foi demonstrado, uma vez que a recorrente se limitou a citar acórdãos trazidos como paradigma, sem realizar o necessário cotejo analítico, em desatenção ao disposto na legislação processual pátria e no Regimento Interno do Superior, não evidenciado, ainda, a indispensável similitude fática.
+4. É cediço que as matérias de ordem pública, como a questão envolvendo a competência do juízo, embora não estejam sujeitas, em princípio, à preclusão, se já decididas não podem ser reexaminadas pelo mesmo juiz, pois configurada a preclusão pro judicato, segundo a qual nenhum juiz decidirá novamente as questões já decididas, relativas à mesma lide (art. 505 CPC).
+5. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.768.396/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+No acórdão recorrido, o Tribunal de origem decidiu que o interesse da CEF e a alegada incompetência da Justiça estadual estariam preclusos consoante trecho do acórdão acima transcrito (fl. 596).
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que a competência para processar e julgar a presente ação é da Justiça Federal, devido ao interesse da CEF como administradora do Fundo de Compensação por Variação Salarial (FCVS), segundo o julgamento do Tema 1.011 do Supremo Tribunal Federal, bem como que o julgamento do Tema 1.011 do STF seria fato novo de aplicação obrigatória.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Além disso, a parte recorrente alegou violação ao art. 1º-A da Lei 12.409/2011 e ao art. 3º da Lei 13.000/2014, uma vez que estariam presentes o interesse da CEF e a incompetência da Justiça estadual.
+Os dispositivos em questão possuem a seguinte redação:
+Art. 1º-A. Compete à Caixa Econômica Federal - CEF representar judicial e extrajudicialmente os interesses do FCVS. (Incluído pela Lei nº 13.000, de 2014)
+ ..
+Art. 3º A Lei nº 12.409, de 25 de maio de 2011, passa a vigorar com as seguintes alterações:
+"Art. 1º-A. Compete à Caixa Econômica Federal - CEF representar judicial e extrajudicialmente os interesses do FCVS.
+§ 1º A. CEF intervirá, em face do interesse jurídico, nas ações judiciais que representem risco ou impacto jurídico ou econômico ao FCVS ou às suas subcontas, na forma definida pelo Conselho Curador do FCVS.
+§ 2º Para fins do disposto no § 1º , deve ser considerada a totalidade das ações com fundamento em idêntica questão de direito que possam repercutir no FCVS ou em suas subcontas.
+§ 3º Fica a CEF autorizada a realizar acordos nas ações judiciais, conforme parâmetros aprovados pelo CCFCVS e pela Advocacia-Geral da União.
+§ 4º Todos os atos processuais realizados na Justiça Estadual ou na do Distrito Federal devem ser aproveitados na Justiça Federal, na forma da lei.
+§ 5º As ações em que a CEF intervir terão prioridade de tramitação na Justiça Federal nos casos em que figure como parte ou interessado pessoa com idade igual ou superior a 60 (sessenta) anos, pessoa portadora de deficiência física ou mental ou pessoa portadora de doença grave, nos termos da Lei nº 12.008, de 29 de julho de 2009.
+§ 6º A CEF deverá ser intimada nos processos que tramitam na Justiça Comum Estadual que tenham por objeto a extinta apólice pública do Seguro Habitacional do Sistema Financeiro de Habitação - SH/SFH, para que manifeste o seu interesse em intervir no feito.
+§ 7º Nos processos em que a apólice de seguro não é coberta pelo FCVS, a causa deverá ser processada na Justiça Comum Estadual.
+§ 8º Caso o processo trate de apólices públicas e privadas, deverá ocorrer o desmembramento do processo, com a remessa à Justiça Federal apenas dos pleitos fundados em apólices do ramo público, mantendo-se na Justiça Comum Estadual as demandas referentes às demais apólices.
+§ 9º (VETADO).
+§ 10. Os depósitos judiciais já realizados por determinação da Justiça Estadual permanecerão no âmbito estadual até sua liberação ou a decisão final do processo."
+Não é possível conhecer do recurso quanto ao ponto porque os dispositivos legais em questão, que versam sobre a atribuição da CEF para representar o FCVS, não contêm comando normativo capaz de sustentar a tese recursal e infirmar os fundamentos do acórdão recorrido.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Por outro lado, nos exatos termos do acórdão recorrido, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim se manifestou (fl. 596):
+A perícia já foi concluída na fase de conhecimento, sendo descabida novas discussões, exceto para que o perito informe o valor dos danos nos imóveis, com base na conclusão do laudo proferido.
+O Tribunal de origem reconheceu a desnecessidade de nova produção de prova pericial, em cumprimento de sentença.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. 1. DETERMINAÇÃO DE NOVA PERÍCIA PELO TRIBUNAL ESTADUAL. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO- PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 2. DECISÃO ULTRA PETITA OU EXTRA PETITA. NÃO OCORRÊNCIA. DETERMINAÇÃO DE RECÁLCULO DE OFÍCIO. POSSIBILIDADE. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever as conclusões quanto à determinação de nova perícia demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+2. A incorreção do cálculo não precisa, necessariamente, ser aduzida pela parte, na medida em que o juiz pode realizar, de ofício, o controle jurisdicional da memória de cálculo.
+3. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei, por incidir também a Súmula n. 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.681.519/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. AGRAVO DE INSTRUMENTO. FASE DE CUMPRIMENTO DE SENTENÇA. REALIZAÇÃO DE NOVA PERÍCIA E NOMEAÇÃO DE NOVO PERITO. POSSIBILIDADE. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR PARA EXAMINAR AS PROVAS DOS AUTOS. O JUIZ NÃO ESTÁ VINCULADO ÀS CONCLUSÕES DO LAUDO PERICIAL. REVISÃO DAS CONCLUSÕES. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Segundo entendimento desta Corte, "O magistrado é o destinatário das provas, cabendo-lhe apreciar livremente aquelas que lhe foram apresentadas, sem estar adstrito a qualquer laudo pericial, devendo apenas fundamentar os motivos que formaram seu convencimento.
+Precedentes".
+3. Também, "consoante entendimento desta egrégia Corte Superior, a apuração da necessidade de produção de prova pericial demanda reexame de aspectos fático- probatórios, o que encontra óbice na Súmula 7/STJ".
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.996.096/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+Por fim, é importante registrar que o " ..  juiz é o destinatário da prova e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, a teor do princípio do livre convencimento motivado" (AgRg no AREsp 342.927/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe 12/9/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
