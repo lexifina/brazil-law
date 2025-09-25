@@ -1,0 +1,63 @@
+DECISÃO
+
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa possui o seguinte cabeçalho (Doc. 14, fl. 10):
+
+    “TRIBUTÁRIO. IPTU. IMUNIDADE. ART. 150, VI, A, E PARÁGRAFO SEGUNDO, DA CF. EMPRESA PÚBLICA PRESTADORA EXCLUSIVA DE SERVIÇO PÚBLICO ESSENCIAL. IMÓVEL OCUPADO POR TERCEIROS. EXTENSÃO DA IMUNIDADE. PRESUNÇÃO DE DESTINAÇÃO DO PATRIMÔNIO, DA RENDA E DOS SERVIÇOS ÀS FINALIDADES ESSENCIAIS DAS ENTIDADES IMUNES. FISCO NÃO PROVOU EVENTUAL DESVIO DE FINALIDADE. APELAÇÃO IMPROVIDA.”
+
+    Opostos Embargos de Declaração (Doc. 17), foram rejeitados (Doc. 20).
+
+    No Recurso Extraordinário (Doc. 20), interposto com fundamento no art. 102, III, “a”, da Constituição, MUNICÍPIO DE JABOATÃO DOS GUARARAPES aponta violação ao art. 150, VI, "a", e § 2º, da CF/1988, na medida em que o acórdão recorrido entendeu que a CBTU tem direito à imunidade tributária relativamente ao IPTU de todos os bens imóveis de sua propriedade, independentemente da comprovação da destinação desses à atividade-fim da empresa.
+
+    Aduz que a imunidade tributária não é absoluta e demanda a comprovação de que o bem imóvel esteja vinculado às suas finalidades essenciais.
+
+    Requer, ao final, o provimento do presente recurso reformando-se o acórdão recorrido para reconhecer que a imunidade tributária da CBTU, para fins de incidência do IPTU, somente alcança os bens que estejam comprovadamente vinculados ao serviço público desempenhado pela empresa.
+
+    Em exame de admissibilidade (Doc. 28), o juízo de origem inadmitiu o RE aplicando as Súmulas 279/STF e 280/STF.
+
+    No Agravo (Doc. 31), a parte agravante defende a inaplicabilidade dos referidos óbices sumulares.
+
+    É o relatório. Decido.
+
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgRsegundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+
+    Além disso, o Tribunal de origem decidiu, com base nas peculiaridades do caso concreto, que a Companhia Brasileira de Trens Urbanos tem direito à imunidade tributária em relação ao IPTU. Vejam-se os seguintes trechos do voto condutor do acórdão recorrido (Doc. 14, fl. 9):
+
+    “Como consta dos autos, foram opostos embargos à execução fiscal opostos pela Companhia Brasileira de Trens Urbanos em face do Município de Jaboatão dos Guararapes/PE, distribuídos por dependência à execução fiscal nº 0805072-45.2024.4.05.8300, por meio da qual se exige crédito oriundo de Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU e Taxas Imobiliárias, relativos aos exercícios de 2015 e 2016. O particular embargante/apelado, alegou a existência de imunidade recíproca em relação ao IPTU, a qual foi reconhecida pelo juízo sentenciante. Todavia, o Município apelante afirma não estar o imóvel em comento abarcado por tal Imunidade, posto que ele não está afetado à finalidade pública.
+
+    Nos termos do enunciado da Súmula Vinculante nº 52 do Supremo Tribunal Federal, os imóveis de entidades referidas no artigo 150, VI, "c", da Constituição Federal permanecem imunes ao IPTU, mesmo quando alugados a terceiros, sendo tal imunidade válida desde que o valor dos aluguéis seja aplicado nas atividades para as quais as entidades foram constituídas. Conforme o entendimento deste TRF5, presume-se a destinação de suas rendas aos seus fins sociais, somente elidida mediante prova em contrário, o que não se observa no caso dos autos. Colaciono (PROCESSO Nº: 0806534-08.2024.4.05.0000 - AGRAVO DE INSTRUMENTO - DES. FEDERAL LEONARDO AUGUSTO NUNES COUTINHO - 7ª TURMA - JULGAMENTO: 31/07/2024).”
+
+    Sobre a matéria, a jurisprudência desta CORTE é firme no sentido de que a imunidade tributária prevista no art. 150, VI, “a”, da Constituição da República, se estende à empresa pública prestadora de serviço público essencial, exclusivo e não concorrencial.
+
+    Nesse sentido:
+
+    “Ementa: DIREITO TRIBUTÁRIO. IPTU. IMUNIDADE RECÍPROCA. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO ESSENCIAL. BENS AFETADOS À PRESTAÇÃO DE SERVIÇOS DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA. EXTENSÃO. PRECEDENTES. CONSONÂNCIA DA DECISÃO AGRAVADA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO NÃO PROVIDO. I. Caso em exame 1. Recurso extraordinário interposto por sociedade de economia mista (CEMIG) contra acórdão do Tribunal de Justiça estadual que negou a imunidade tributária em relação ao IPTU incidente sobre imóvel utilizado na prestação de serviço público de transmissão de energia elétrica. 2. A recorrente alega violação dos arts. 5º, LIV, LV, 21, XII, ‘b’, 22, XII, 37, caput e XXI, 93, IX, 150, VI, ‘a’ e § 3º, 173, § 1º, II e § 2º, e 183, da Constituição Federal, sustentando a inexigibilidade do IPTU com base na imunidade recíproca. II. Questão em discussão 3. A questão em discussão consiste em definir se, no caso concreto, a sociedade de economia mista, concessionária de serviço público, detém imunidade tributária recíproca em relação ao IPTU incidente sobre imóvel utilizado na prestação do serviço público de transmissão de energia elétrica, considerando a jurisprudência do STF e o Tema 508 de repercussão geral. III. Razões de decidir 4. O recurso extraordinário foi provido, reconhecendo a imunidade tributária da recorrente com base no RE 1.391.460-AGR, Rel. Min. Luiz Fux, DJe 26.3.2024, que estabelece que a exigência de IPTU sobre patrimônio imobiliário afetado à prestação de serviço público, ainda que concedido à empresa privada, não encontra respaldo na Constituição. 5. O julgamento levou em consideração o distinguishing em relação ao Tema 508 de repercussão geral, analisando a vinculação direta do imóvel ao serviço público e a ineficácia da tributação sobre o bem para o interesse público. 6. O entendimento assinalado na decisão agravada está alinhado com a jurisprudência desta Suprema Corte, no sentido de que a imunidade tributária prevista na alínea ‘a’ do art. 150, VI, da Constituição Federal alcança a sociedade de economia mista prestadora de serviço público essencial, sem caráter concorrencial. Precedentes. 7. Em face da vinculação direta do imóvel a um serviço público essencial, há que se observar o julgamento do RE 1.391.460-AGR, Rel. Min. Luiz Fux, DJe 26.3.2024, no qual a Primeira Turma desta Suprema Corte, por unanimidade, deu provimento ao agravo interno e ao recurso extraordinário, para extinguir a execução fiscal em relação ao IPTU cobrado em face da CEMIG Geração e Transmissão S.A., ora agravante. IV. Dispositivo 8. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte agravante, nos termos do art. 85, § 11, do CPC, observados os limites dos §§ 2º a 9º do referido artigo e a eventual concessão de justiça gratuita. 9. Agravo interno conhecido e não provido.” (RE 630742 AgR/MG, Relator(a): Min. FLÁVIO DINO, Primeira Turma, DJe de 7/5/2025)
+
+    “AÇÃO CÍVEL ORDINÁRIA – IMUNIDADE TRIBUTÁRIA RECÍPROCA – ARTIGO 150, INCISO VI, ALÍNEA “A”, DA CONSTITUIÇÃO FEDERAL – EMPRESA DE TECNOLOGIA E INFORMAÇÕES DA PREVIDÊNCIA SOCIAL – DATAPREV – EMPRESA PÚBLICA – PREENCHIMENTO DE REQUISITOS – PRECEDENTES. AÇÃO PROCEDENTE.REFERENDO. 1. Nos termos do entendimento jurisprudencial do Supremo Tribunal Federal, a imunidade tributária prevista na alínea a do inc. VI do art. 150, da Constituição da República, se estende à empresa pública prestadora de serviço público essencial, exclusivo e não concorrencial. 2. In casu, restou comprovado que a DATAPREV atua oferecendo um serviço eminentemente público, essencial e exclusivo, em caráter não concorrencial, bem como que eventuais lucros recebidos por trabalhos prestados à entidades privadas são revertidos ao financiamento de políticas públicas e serviços públicos federais. 3. Desse modo, a Empresa de Tecnologia e Informações da Previdência Social - DATAPREV, faz jus à imunidade tributária recíproca em relação ao seu patrimônio, renda e serviços. 4. Ação julgada procedente para reconhecer a imunidade tributária da DATAPREV. Referendo.” (ACO 3667 Ref, Relator(a): Min. EDSON FACHIN, Tribunal Pleno, DJe de 5/11/2024)
+
+    Seguindo a mesma linha, vejam-se os seguintes precedentes monocráticos: ARE 1562860 / PE, Relator(a): Min. FLÁVIO DINO, DJe de 20/8/2025; RE 1543923/PE, Relator(a): Min. LUIZ FUX, DJe de 14/4/2025; ARE 1523080/RJ, Relator(a): Min. CÁRMEN LÚCIA, DJe de 18/11/2024; RE 1446296/SP, Relator(a): Min. CRISTIANO ZANIN, DJe de 3/11/2023; ARE 1308894/SP, Relator(a): Min. EDSON FACHIN, DJe de 1º/3/2021.
+
+    O acórdão recorrido está em consonância com a jurisprudência desta CORTE.
+
+    Por fim, no que diz respeito à comprovação da vinculação do bem imóvel às suas finalidades essenciais, a análise de tal questão demanda o reexame das provas dos autos, providência vedada na via extraordinária em face do óbice da Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+
+    Vejam-se os seguintes precedentes:
+
+    “EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. ART. 150, VI, “a”, E §2º, DA CONSTITUIÇÃO FEDERAL. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279/STF. 1. e 2 (...) 3. O Tribunal de origem entendeu que o recorrente não tem direito à imunidade tributária, pois considerou que não foi comprovado que o imóvel objeto da execução fiscal é utilizado para fins de cumprimento das finalidades essenciais da autarquia, nos termos do art. 150, VI, “a”, c/c §2º, da Constituição Federal. 4. A revisão desse entendimento exigiria o exame do conteúdo probatório dos autos, providência vedada nesta sede recursal em face do óbice previsto na Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 5. Agravo interno a que se nega provimento.” (ARE 1522391 AgR-segundo / RS, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 22/4/2025)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ISS. IMUNIDADE. ALCANCE. FINALIDADES ESSENCIAIS. 1. A discussão acerca do alcance da imunidade tributária para fins de incidência de ISS cinge-se ao âmbito infraconstitucional e depende do reexame de fatos e provas para se determinar quais serviços relacionam-se com as atividades essenciais da Agravante. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC.” (ARE 976060 AgR/SP, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe de 26/5/2017)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDIINÁRIO COM AGRAVO.
+
+    Publique-se.
+
+    Brasília, 25 de setembro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
