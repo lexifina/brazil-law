@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - PEDIDO DE HABILITAÇÃO DE CRÉDITO - INTIMAÇÃO DA ADMINISTRAÇÃO JUDICIAL PARA MANIFESTAÇÃO - ACERTO PROCEDIMENTAL DO JUÍZO A QUO - PRETENSÃO DE INTIMAÇÃO DO DEVEDOR FALIDO - DESCABIMENTO.
+Após a decretação da falência, o falido perde o direito de administrar os seus bens ou deles dispor, sendo dessa forma, inválida a intimação do devedor falido e a necessária intervenção do Administrador Judicial nas ações propostas contra o devedor falido.
+Alegou-se, no especial, violação dos artigos 489 e 1.022 do Código de Processo Civil e 11 e 12 da Lei 11.101/05 sob os argumentos de que o acórdão local é omisso e de que é nulo o processo desde o pedido de habilitação de crédito por ausência de intimação do falido para se manifestar a respeito.
+Preenchidos os requisitos de admissibilidade, passo ao exame do recurso especial.
+Colhe-se dos autos que o Tribunal local se deparou com agravo de instrumento interposto para discutir a ausência de intimação do falido acerca da habilitação de crédito pretendida pelo agravado.
+O Tribunal local, entendendo que, "uma vez que a administração dos ativos da massa falida passa a ser do administrador judicial nomeado, é correta a sua intimação (exclusivamente sua) para manifestação no incidente de habilitação de crédito" (e-STJ, fl. 131), sendo dispensável a intimação do falido.
+Esta Corte Superior, todavia, tem entendimento de que o falido tem interesse em discutir a habilitação de crédito, sendo devida a sua intimação, cujo vício ou ausência somente pode ser superada caso não se identifique prejuízo, seja nos termos do artigo 36 da revogada Lei de Falências, seja nos do artigo 7º-A, § 3º, I, e 103, parágrafo único, da Lei 11.101/05.
+Vejam-se:
+RECURSO ESPECIAL. FALÊNCIA. PROCESSUAL CIVIL. HABILITAÇÃO DE CRÉDITO RETARDATÁRIA. DEFERIMENTO NA SENTENÇA. APELAÇÃO INTERPOSTA PELA SOCIEDADE FALIDA (DL 7661/45, ART. 36). RECURSO APELATÓRIO NÃO CONHECIDO. LEGITIMIDADE RECURSAL DO FALIDO EM FEITOS EM QUE FIGURE COMO PARTE A MASSA FALIDA. ASSISTÊNCIA SIMPLES (CPC, ART. 50). CONSERVAÇÃO DE DIREITOS E FISCALIZAÇÃO DA MASSA. RECURSO PARCIALMENTE PROVIDO.
+1. O falido tem interesse em intervir na lide, questionando o valor do crédito habilitado, que entende exagerado, a fim de preservar os interesses e patrimônio da Massa.
+2. De acordo com a parte final do caput do art. 36 do DL 7661/45, a intervenção do falido se dará na forma de assistência simples, podendo interpor os recursos cabíveis.
+3. Na hipótese, a recorrente admite ter sido intimada para o incidente de habilitação retardatária do crédito, não havendo, portanto, discussão acerca de supostos vícios na intimação. Ocorre que, diferente do que afirma o v. aresto recorrido, a falida, apesar de ter ficado inerte até a prolação da sentença, interpôs, tempestivamente, o recurso de apelação na condição de assistente, como lhe facultavam, tanto o art. 36 do DL 7661/45, como o art. 50 do Código de Processo Civil.
+4. Negar à falida a possibilidade de recorrer, neste caso, seria furtar-lhe o acesso à jurisdição, em total contradição com o que explicitamente lhe assegura o caput do mencionado art. 36 da antiga Lei falimentar.
+5. Os atos e diligências a respeito dos quais não poderá o falido reclamar, em tempo algum, após devidamente intimado, são aqueles em relação aos quais operou-se a preclusão, por não ter havido, acerca deles, oportuna manifestação.
+6. Recurso especial parcialmente provido, com o retorno dos autos à Corte de origem para julgamento da apelação, como entender de direito.
+(REsp n. 706.401/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/4/2014, DJe de 4/8/2014.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. FALÊNCIA. MESMA HABILITAÇÃO. MAIS DE UM CREDOR. INTIMAÇÃO PESSOAL. SÍNDICO E FALIDO. PREJUÍZO. AUSÊNCIA. CLASSIFICAÇÃO. CLÁUSULA PENAL. PREQUESTIONAMENTO. SÚMULAS N. 282 E 356-STF. SUCUMBÊNCIA. ART. 208 DA LEI N. 7.661/45. PROCESSOS DISTINTOS DA FALÊNCIA. INAPLICABILIDADE. JUROS DE MORA. TERMO FINAL. REEXAME. SÚMULA N. 7-STJ. CORREÇÃO MONETÁRIA. INCIDÊNCIA. NÃO PROVIMENTO.
+1. No caso dos autos, credores trabalhistas habilitaram conjuntamente seus créditos na massa falida de Sul Fabril S/A, além dos honorários advocatícios em que fora condenada a sociedade no processo trabalhista, sem que o síndico e o falido fossem pessoalmente intimados. O Tribunal estadual concluiu pela ausência de prejuízo, seja no que concerne à habilitação conjunta, seja no que toca à falta de intimação pessoal, haja vista que "todos aqueles que detinham interesse no processo se manifestaram perfeitamente" e que "tanto o falido quanto o síndico puderam atuar no feito sem quaisquer problemas". Tem lugar, assim, o princípio segundo o qual não se declara eventual nulidade sem que haja prejuízo.
+2. Não houve manifestação pelo Tribunal local quanto à classe em que os créditos, embora retardatários, foram recebidos em e nem acerca de alegada cláusula penal, pelo que incidem os enunciados n. 282 e 356, da Súmula do STF.
+3. O artigo 208, do Decreto-Lei 7.661/45, aplica-se exclusivamente ao processo de falência, de sorte que os ônus de sucumbência fixados em outro processo são devidos pela massa. Precedentes.
+4. O reexame da conclusão alcançada pelo Tribunal estadual no sentido de que os juros incidiram somente até a quebra encontra o óbice de que trata o verbete n. 7, da Súmula.
+5. A correção monetária, por não importar em acréscimo da dívida, incide sobre os créditos habilitados.
+6. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 919.017/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/8/2012, DJe de 24/8/2012.)
+Não há no acórdão local conclusão de que ausência de intimação não gerou prejuízo ou de que o falido tenha atuado tempestivamente no feito.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para declarar nulo o processo, determinando a intimação do falido quanto ao pedido de habilitação de crédito pretendida.
+Intimem-se.
+EMENTA
