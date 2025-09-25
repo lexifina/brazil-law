@@ -1,0 +1,17 @@
+DECISÃO
+O presente habeas corpus , impetrado em nome de RODRIGO OLIVEIRA DE MOURA - condenado por homicídio qualificado e porte de arma de fogo de uso restrito a 17 anos, 7 meses e 15 dias de reclusão, e 13 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 20/34), não comporta processamento.
+Com efeito, a impetração busca a desclassificação do crime de homicídio doloso para homicídio culposo, o afastamento da qualificadora do perigo comum e, subsidiariamente, o redimensionamento das penas para o mínimo legal - na condenação proferida na Ação Penal n. 0004047-42.2014.8.26.0223 (fls. 62/66, da 3ª Vara Criminal da comarca de Guarujá/SP) -, aos seguintes argumentos:
+a) ausência de dolo, sustentando que o disparo foi acidental e que o paciente não agiu com animus necandi, conforme depoimentos e filmagens (fls. 5/11);
+b) não configuração do perigo comum, aduzindo que o local estava vazio e que todos os presentes anuíram aos disparos (fls. 12/17); e
+c) que a pena-base teria sido fixada acima do mínimo legal com base em fundamentos inidôneos, como sofrimento presumível da família da vítima e alegada periculosidade do paciente, sem comprovação nos autos (fls. 13/17).
+Sem pedido liminar.
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica ilegal constrangimento, pois:
+a) tendo o Tribunal estadual concluído que o paciente agiu com dolo eventual, assumindo o risco ao manusear uma arma de alto poder lesivo em local público, conforme depoimentos e provas periciais (fls. 21/24 e 29/30), rever tal entendimento demandaria reexame probatório (AgRg no REsp n. 2.132.640/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/5/2025, DJEN de 9/5/2025), inviável na via eleita;
+b) acolher a pretensão de afastamento da qualificadora do perigo comum - rejeitada no acórdão da apelação com fundamento de que o uso de uma submetralhadora em local público, com disparos em rajada, configurou perigo comum (fls. 32/33) - representaria usurpação da competência do Tribunal do Júri e demandaria o inviável reexame de fatos e de provas, inviável na estreita via do writ, de cognição sumária e rito célere (HC n. 809.301/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 11/11/2024); e
+c) a exasperação da pena-base está devidamente fundamentada em elementos concretos dos autos, evidenciando circunstâncias que extrapolam os elementos do tipo penal imputado (fl. 33):
+ ..  agiu o acusado, que ostentou e promoveu disparos em rajada em local público com arma de fogo de elevado poder ofensivo, repita-se, uma submetralhadora de calibre 9mrn, com silenciador, com a qual ainda atingiu fatalmente o ofendido, resultando seu modo de agir em prejuízos inclusive de ordem financeira para a família da vítima, que do réu não recebeu qualquer tipo de auxílio após sua morte.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E PORTE DE ARMA DE FOGO DE USO RESTRITO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
