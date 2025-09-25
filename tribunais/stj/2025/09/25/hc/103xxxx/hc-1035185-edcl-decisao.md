@@ -1,0 +1,17 @@
+DECISÃO
+RENAN CUNHA JORGE opõe embargos de declaração à decisão de fls. 556-559, em que, liminarmente, deneguei a ordem no habeas corpus impetrado em seu favor.
+A defesa sustenta a ocorrência de omissão, pois não há comprovação do perigo real decorrente da liberdade do paciente, observado que ele não está propenso à reiteração delitiva, inclusive, em relação a um de seus processos, houve a extinção de sua punibilidade.
+Requer que seja suprida a i mperfeição acima apontada.
+Decido.
+O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento, objetiva nova avaliação do caso.
+Na espécie, apesar dos esforços do embargante, não identifico razão para o acolhimento dos aclaratórios.
+No que interessa, eis os fundamentos do ato embargado (fl. 558, grifos no original):
+Para a garantia da ordem pública, a prisão preventiva está amparada em dados concretos, reveladores de periculosidade social. O Juízo processante não determinou a medida como antecipação de pena ou como consequência automática da imputação delitiva. Evidenciou a gravidade concreta da conduta ao consignar, além da abundância, nocividade e variedade dos entorpecentes apreendidos - 500 g de haxixe, 415 g de maconha, 23 comprimidos de ecstasy e 340 g de cocaína -, a apreensão de petrechos, balança de precisão e materiais para acondicionamento dos entorpecentes. Ademais, há sinais de habitualidade do comércio espúrio, pois o acusado foi condenado, com trânsito em julgado, por dois crimes de tráfico de drogas e um delito violento - roubo -, o que denota o risco concreto de reiteração delitiva.
+De fato, "a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública" (AgRg no RHC n. 193.038/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024).
+Ademais, " ..  maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Por fim, a gravidade dos fatos e a reiteração delitiva do ora paciente denotam que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes (art. 282, § 6º, c/c o art. 319 do CPP).
+Não vejo necessidade de complementação ou de esclarecimento a respeito da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o embargante trata como omissão o seu inconformismo com o resultado da solução prévia.
+Ressalto, por oportuno, que a recente extinção da punibilidade em relação a um dos processos do embargante não apaga a reincidência e os maus antecedentes, porquanto não depurada pelo decurso do tempo. O fato de ele haver cometido o crime ora apurado prestes a ter sua punibilidade extinta em um dos feitos em seu desfavor só reforça a evidência de seu descompromisso com o sistema de justiça.
+À vi sta do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
