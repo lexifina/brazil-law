@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Responsabilidade civil. Ação de indenização, decorrente de incêndio em galpão, conexa a outras três demandas. A fundamentação concisa, caso da decisão agravada, não se confunde com ausência de fundamentação. Preliminar afastada. É prematura a extinção da presente demanda neste momento, sendo imprescindível a realização da perícia e a análise das demandas em conjunto, a fim de que sejam dadas soluções coerentes entre si para todos os litígios. Recurso improvido, rejeitada a preliminar.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 370, 485, 493, 489, 1022 e 1025 do Código de Processo Civil.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+Quanto ao mais, verifico que o recurso especial não dispensa o reexame de prova. A agravante sustenta ser o caso de extinção do processo, em razão da perda de objeto. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 377):
+Cuida-se de ação indenizatória fundada em um incêndio de grandes proporções ocorrido em 07.04.2018, em galpão localizado na cidade de Serra/ES, processo n. 1063341-47.2018.8.26.0100. Há outras 3 ações conexas a ela, processos nos 1103411-09.2018.8.26.0100, 1058796-34.2018.8.26.0002 e 0055842- 92.2019.8.26.0100.
+As agravantes pretendem a extinção da presente demanda sob o argumento de que a agravada Elegância, autora, já recebeu montante superior aos prejuízos alegados na exordial.
+No entanto, é prematura a extinção da presente demanda neste momento. É imprescindível a realização da perícia e a análise das demandas em conjunto, a fim de que sejam dadas soluções coerentes entre si para todos os litígios.
+Por fim, é oportuno observar que a fundamentação concisa, caso da decisão agravada, não se confunde com ausência de fundamentação.
+Verifica-se, portanto, que ainda haverá instrução processual a fim de sejam apuradas as alegações das partes, inclusive a da agravante, que afirma já não haver o que indenizar à parte adversa. O acolhimento do recurso especial, nesse contexto, seria medida prematura, pois encerraria necessária atividade probatória, além do mais não escapa à incidência da Súmula 7 do STJ, pois dependeria de admitir a premissa de que já houve indenização suficiente.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
