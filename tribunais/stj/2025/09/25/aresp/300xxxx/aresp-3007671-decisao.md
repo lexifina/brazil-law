@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CIZESKI CONSTRUÇÕES LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+DIREITO CIVIL. APELAÇÃO CÍVEL. AÇAO DE RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA C/C REINTEGRAÇÃO DE POSSE E PERDAS E DANOS. SENTENÇA DE IMPROCEDÉNCIA. MANUTENÇÃO. RECURSO DA PARTE AUTORA DESPROVIDO (fl. 899).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 475 do CC, no que concerne ao reconhecimento do direito à rescisão contratual e ao afastamento da exceptio non adimplenti contractus, trazendo a seguinte argumentação:
+Diga-se que o direito à rescisão contratual foi violado, uma vez que amplamente comprovado que o empreendimento foi transferido à Associação de Promitentes Compradores de Unidades Autônomas do Condomínio Garden Ville II ante o processamento da recuperação judicial da recorrente e da impossibilidade da conclusão da pavimentação do empreendimento.
+Da mesma forma, comprovado que os créditos recebíveis em relação ao contrato originário ficaram reservados em favor da vendedora/recorrente, lhe dando o direito ao ajuizamento de ação de rescisão em caso de inadimplemento, com base no art. 475 do CC, o que fez.
+ ..
+Portanto, o fato de que a recorrente não concluiu a pavimentação do condomínio horizontal, mas entregou toda a infraestrutura essencial, ensejando na celebração da cessão, não possui o condão de afastar a responsabilidade do recorrido ao pagamento do preço acordado no contrato primitivo.
+ ..
+E como até aqui comprovado, o recorrido optou deliberadamente por aderir à Associação para finalização do empreendimento, mesmo sabendo que teria que pagar o valor do contrato primitivo à recorrente, como consta do termo, todavia, se manteve inerte, e agora é premiado pelo Poder Judiciário, com a manutenção indevida da avença.
+ ..
+Ocorre que mantendo-se hígida a obrigação do recorrido Rubens ao pagamento dos valores devidos em relação ao contrato de compra e venda, como previsto na cessão operada entre construtora e associação.
+Ora, a alegação de "exceptio" exige simultaneidade no cumprimento da obrigação contratual, e destaca-se que a obrigação de fazer (entrega do lote) e a obrigação de pagar (pagamento do preço), possuem natureza diversa, razão pela qual a exceção não socorre à lide.
+Destaca-se, ainda, que a obrigação de pavimentação não possui natureza infungível, podendo ser realizada por outra empresa (e assim foi feito), com base no termo de cessão firmado. Logo, ainda que de forma transversa o recorrido recebeu o lote adquirido, ao passo que deixou de pagar a contraprestação, devendo, assim, ser provido o recurso com a declaração de rescisão da avença (fls. 938/941).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Nos termos do § 2º da cláusula III do contrato de promessa de compra e venda (evento 1, CONTR24), o prazo para entrega da obra (36 meses), contados a partir da emissão do alvará de construção do condomínio Garden Ville II, iniciou-se somente após homologação e o início da construção propriamente dito, sendo que a apelante firmou contrato de cessão com a Associação já em 12/112014.
+Tem-se, ainda, que ao tempo da cessão a apelante já se encontrava em dificuldades financeiras, não tendo concluído as obras de infraestrutura do empreendimento prometido aos compradores dos lotes, inclusive a pavimentação da via. Comprova-se tal situação com o registro tardio da incorporação em 25/02/2016 pela associação (evento 166, MATRIMÓVEL4 - R7).
+Desta forma, ainda que a apelante tenha cedido seus direitos e obrigações, o descumprimento contratual quanto à conclusão do empreendimento precedeu à cessão.
+É cediço que nos contratos bilaterais, ou seja, aqueles que geram obrigações recíprocas para os contratantes, uma das partes somente poderá exigir o cumprimento da obrigação da outra se tiver adimplido a sua (artigo 476 do Código Civil).
+No caso em apreço, a ausência da conclusão da obra da infraestrutura do condomínio, no prazo ajustado em contrato, retirou da Cizeski o direito de exigir o adimplemento contratual pelos promitentes compradores (réus), ou seja, de exigir dos mesmos os pagamentos faltantes.
+Ressalta-se, ademais, que o contrato com a Associação dos Moradores abrange a integralidade do empreendimento, sem especificar em relação a quais adquirentes. Portanto, tal argumento recursal se mostra insuficiente à reforma da sentença.
+Logo, concluiu com acerto o magistrado sentenciante no sentido de que é "notório no processo que é a parte autora quem primeiro ficou inadimplente ao contrato objeto do processo, ao não implementar o condomínio indicado no prazo contratual".
+Válido, citar, em relação ao empreendimento em questão (Garden Ville II) que este Tribunal de Justiça já reconheceu o inadimplemento contratual da empresa apelante em razão da mora na entrega do empreendimento (fl. 897).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do Superior Tribunal de Justiça)" (AgInt no AREsp n. 2.243.705/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/10/2023).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.446.415/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.106.567/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.572.293/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJEN de 13/12/2024; AgInt no AgInt no AREsp n. 2.560.748/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/11/2024; REsp n. 1.851.431/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024; REsp n. 1.954.604/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/3/2024; AgInt no REsp n. 1.995.864/PB, relator Ministro Raul Araújo, Quarta Turma, DJe de 20/10/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
