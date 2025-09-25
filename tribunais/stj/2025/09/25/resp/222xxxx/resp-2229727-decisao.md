@@ -1,0 +1,91 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMANDA DE SOUZA PINHEIRO DOS SANTOS e GELSON DE OLIVEIRA, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5003981-27.2024.8.24.0014).
+Consta dos autos que a recorrente AMANDA DE SOUZA PINHEIRO DOS SANTOS foi condenada à pena de 11 anos e 8 meses de reclusão, em regime inicial fechado, além do pagamento de 521 dias-multa, e o recorrente GELSON DE OLIVEIRA, por sua vez, foi condenado à pena de 14 anos e 7 meses de reclusão, em regime inicial fechado, mais o pagamento de 651 dias-multa, pela prática dos crimes de tráfico de drogas e organização criminosa, tipificados no art. 33, da Lei n. 11.343/2006 e no art. 2º, caput e §§ 2º e 4º, I, da Lei n. 12.850/2013.
+O Tribunal deu provimento ao recurso da acusação, por unanimidade, em acórdão assim ementado (e-STJ fls. 367/370):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÕES CRIMINAIS. ORGANIZAÇÃO CRIMINOSA, ASSOCIAÇÃO PARA O TRÁFICO E TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA EM RELAÇÃO AO PRIMEIRO DELITO E ABSOLUTÓRIA QUANTO AOS DEMAIS. RECURSO DA ACUSAÇÃO PARCIALMENTE PROVIDO E DA DEFESA DESPROVIDO.
+1. Existindo provas suficientes da configuração da conduta atrelada ao crime de organização criminosa e o envolvimento direto da ré, na medida em que, atuando no comércio de entorpecentes, favorece o financiamento e fortalecimento do grupo criminoso Primeiro Grupo Catarinense (PGC), é incabível a absolvição.
+2. É legítimo o reconhecimento das causas de aumento previstas no § 2º e inciso I do § 4º do art. 2º da Lei n. 12.850/13, dada as circunstâncias do caso concreto, tendo em vista a relevância da mão de obra de inimputáveis na estrutura do grupo criminoso para as mais diversas funções ilícitas, bem como a utilização de armamentos bélicos no cotidiano da facção para garantir maior intimidação e concretizar seus crimes.
+3. A demonstração da materialidade do crime de tráfico de drogas, em casos excepcionais, ante a ausência da apreensão de substância ilícita, pode se dar por outros elementos probatórios. Na hipótese, apesar de não haver efetiva apreensão de drogas com os acusados, tem-se que as interceptações telefônicas demonstram, de forma clara, que as negociações se tratavam de comércio ilícito de entorpecentes.
+Neste recurso especial, a defesa dos recorrentes alega violação aos arts. 33 da Lei n. 11.343/2006, 158 e 386, II, do Código de Processo Penal.
+Requer, assim, a absolvição dos recorrentes da imputação da prática do crime previsto no art. 33 da Lei n. 11.343/2006, por ausência de materialidade delitiva, com fundamento no art. 386, II ou, subsidiariamente, VII, do Código de Processo Penal (e-STJ fls. 355/356).
+Foram apresentadas contrarrazões (e-STJ fls. 357/366).
+O recurso foi admitido (e-STJ fls. 367/370).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 377/383).
+É o relatório.
+Decido.
+O recurso reúne as condições de admissibilidade, razão por que dele se deve conhecer.
+O Tribunal de origem ao analisar a questão consignou (e-STJ fls. 337/346):
+2.2 Do crime previsto no art. 33, caput, da Lei n. 11.343/06
+Já com relação à pretendida condenação dos acusados pelo crime de tráfico de drogas, razão socorre ao Ministério Público,
+Denota-se dos autos que o magistrado sentenciante absolveu os acusados por entender que não havia prova da materialidade, pois nenhum entorpecente foi efetivamente apreendido.
+Em que pese a posição adotada, prevalece na jurisprudência que a ausência de apreensão do entorpecente, por si só, não é capaz de descaracterizar o crime de tráfico, sobretudo em casos como o dos autos, em que as condutas típicas foram comprovadas por outros meios de prova.
+Nessa linha, colhe-se precedente desta Corte:
+APELAÇÕES CRIMINAIS. CRIMES CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ARTS. 33, CAPUT, E 35, DA LEI 11.343/06). SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIAS DEFENSIVAS. (..) 1. ALEGAÇÃO DE AUSÊNCIA DE MATERIALIDADE DELITIVA DIANTE DA INEXISTÊNCIA DE APREENSÃO DE DROGAS EM PODER DOS RECORRENTES. (APELANTES EDUARDO, WILLIAN, MATHEUS, JOHNY E ALEX). INACOLHIMENTO. PRECEDENTES DO STF, STJ E DESTA CORTE DE JUSTIÇA NO SENTIDO DE QUE A AUSÊNCIA DE APREENSÃO DE ENTORPECENTES EM PODER DOS ACUSADOS NÃO AFASTA A MATERIALIDADE DO CRIME DE TRÁFICO DE DROGAS, A QUAL PODE SER AFERIDA POR OUTROS ELEMENTOS DE PROVAS ANGARIADOS NO PROCESSO. LONGA INVESTIGAÇÃO PROMOVIDA PELA POLÍCIA QUE REVELOU A ASSOCIAÇÃO CRIMINOSA ESTABELECIDA PELOS RECORRENTES WILLIAN, MATHEUS E JOHNY, JUNTAMENTE COM ANA CLÁUDIA E MARIA, COM AS QUAIS FORAM APREENDIDAS CERTAS QUANTIDADES DE MACONHA E COCAÍNA, ALÉM DE ECSTASY. AINDA, CIRCUNSTÂNCIAS DOS AUTOS QUE ATESTAM QUE EDUARDO E ALEX TAMBÉM POSSUÍAM RELAÇÃO INTRÍNSECA COM O TRÁFICO DE DROGAS PERPETRADO PELO GRUPO. ADEMAIS, CONVERSAS EXTRAÍDAS DOS APARELHOS CELULARES APREENDIDOS DURANTE A INVESTIGAÇÃO QUE, ALIADO AOS DEPOIMENTOS PRESTADOS PELAS TESTEMUNHAS, DEMONSTRARAM QUE TODOS OS RECORRENTES PROMOVERAM A MERCANCIA ESPÚRIA, ENCONTRANDO-SE A MATERIALIDADE DELITIVA SATISFATORIAMENTE CONFIGURADA PELO ELENCO PROBATÓRIO LEVANTADO. ALEGAÇÕES DEFENSIVAS DESAMPARADAS DE QUALQUER SUBSTRATO PROBATÓRIO. (..) (TJSC, Apelação Criminal n. 5002764-89.2021.8.24.0066, do Tribunal de Justiça de Santa Catarina, rel. Ana Lia Moura Lisboa Carneiro, Primeira Câmara Criminal, j. 11-05-2023).
+Na hipótese, apesar de não haver efetiva apreensão de drogas com os acusados, tem-se que as interceptações telefônicas demonstram, de forma clara, que as negociações se tratavam de comércio ilícito de entorpecentes.
+Conforme relatórios de análise de interceptação telefônica (evento 1, INQ1, p. 234- 400, evento 1, INQ2, p. 1-73), cujos diálogos encontram-se destacados na denúncia do evento 1.1, no dia 1º de dezembro de 2022, nesta cidade e Comarca de Campos Novos, o apelado Gelson de Oliveira efetuou a venda de droga para Silvana Borges, também integrante do PGC.
+No mesmo dia, por volta das 14h55min, o réu Gelson novamente forneceu drogas para Silvana Borges.
+Já no dia 6 de dezembro de 2022, nesta cidade e Comarca de Campos Novos, o réu Gelson de Oliveira efetuou a venda de droga para pessoa identificada como José Carlos Maciel.
+No dia 7 de dezembro de 2022, nesta cidade e Comarca de Campos Novos, o réu Gelson de Oliveira efetuou ligação para a acusada Amanda de Souza Pinheiro dos Santos e pediu para que ela levasse droga para vender.
+No dia 13 de dezembro de 2022, nesta cidade e Comarca de Campos Novos, a ré Amanda de Souza Pinheiro dos Santos efetuou ligação para Gelson de Oliveira e pediu para que ele levasse droga ("cinco de dura") para vender.
+No dia 26 de abril de 2023, por volta das 15h53min, a ré Amanda de Souza Pinheiro dos Santos possuía e trazia consigo drogas para a venda, conforme interceptação telefônica do seu celular.
+Nesse dia, a acusada somente não efetuou a venda porque estava no Bairro Jardim Bela Vista, longe do local em que a usuária se encontrava, conforme se verifica na transcrição da interceptação telefônica de Amanda.
+Logo, resta evidenciado que os réus Gelson e Amanda venderam e ofereceram drogas, sem autorização e em desacordo com determinação legal ou regulamentar.
+Nesse sentido, a Suprema Corte já decidiu que "A demonstração da materialidade do crime de tráfico de drogas, em casos excepcionais, ante a ausência da apreensão de entorpecentes, pode se dar por outros elementos probatórios." (HC 220281 AgR, Relator André Mendonça, Segunda Turma, julgado em 03-07-2023).
+Da mesma forma, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a materialidade do crime de tráfico de drogas pode ser demonstrada por outros meios de prova, além da apreensão de entorpecentes, desde que suficientemente indicativos da prática delitiva (AgRg no HC n. 911.553/CE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 30/10/2024).
+ssim, tem-se que a apreensão de drogas é prescindível quando há outros elementos de provas que indicam, de forma evidente, a materialidade do delito de tráfico de drogas, como é o caso dos autos.
+Diante do contexto apresentado, a reforma da sentença para que os acusados Gelson e Amanda sejam condenados nas penas do art. 33, caput, da Lei n. 11.343/2006 é medida de rigor.
+A orientação desta Corte é consolidada no sentido de que, em persecução penal pelo crime de tráfico de drogas, mostram-se imprescindíveis a apreensão da substância entorpecente e a consequente elaboração de laudo pericial de constatação, com o objetivo de demonstrar a materialidade delitiva, prescindindo-se, contudo, da necessária apreensão dos entorpecentes na posse direta do agente.
+No caso em tela, todavia, verifica-se que o acórdão recorrido fundamenta o decreto condenatório de maneira exclusiva nas provas oriundas de interceptação telefônica. A despeito de tais registros conterem menções a negociações envolvendo a comercialização de entorpecentes, tais elementos não se prestam, por si sós, a lastrear a condenação pela prática do crime de tráfico de drogas.
+Dessarte, ante a inexistência de apreensão de entorpecentes em poder direto dos recorrentes, bem como a ausência de apreensão com terceiros a eles vinculados, impõe-se a absolvição dos ora recorrentes pela prática do crime tipificado no art. 33 da Lei n. 11.343/2006, em razão da não comprovação da materialidade delitiva.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RESTABELECIMENTO DA CONDENAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DA MATERIALIDADE DELITIVA. AUSÊNCIA DE APREENSÃO DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, embora a acusação aponte que a existência de provas capazes de manter a condenação imposta pela instância ordinária, não houve apreensão de drogas, razão pela qual não há demonstração da materialidade delitiva.
+2. "A Terceira Seção desta Corte Superior reiterou o posicionamento pela impossibilidade de condenação, pelo crime do art. 33, caput, da Lei n. 11.343/2006, quando não há apreensão de droga, ainda que sejam mencionadas outras provas a indicar a dedicação do acusado à venda de entorpecentes. Na oportunidade, concluiu-se que, "embora os depoimentos testemunhais e as provas oriundas das interceptações telefônicas judicialmente autorizadas tenham evidenciado que a paciente e os demais corréus supostamente adquiriam, vendiam e ofereciam "drogas" a terceiros - tais como maconha, cocaína e crack -, não há como subsistir a condenação pela prática do delito descrito no art. 33, caput , da Lei n. 11.343/2006, se, em nenhum momento, houve a apreensão de qualquer substância entorpecente, seja em poder dela, seja em poder dos corréus ou de terceiros não identificados" (HC n. 686.312/MS, Rel. Ministro Sebastião Reis Júnior, Rel. para acórdão Ministro Rogerio Schietti, 3ª S., DJe 19/4/2023)" (AgRg no AREsp n. 2.411.534/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2024, DJe de 2/4/2024).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 787.107/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025, grifei.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE PROVAS ROBUSTAS. PRINCÍPIO DO IN DUBIO PRO REO. AGRAVO IMPROVIDO. I. CASO EM EXAME
+1 - Agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática que concedeu ordem de habeas corpus para restabelecer a sentença absolutória proferida em favor do paciente, denunciado pelos crimes de tráfico de drogas e associação para o tráfico (arts. 33 e 35 da Lei n. 11.343/2006). O Órgão ministerial sustenta a suficiência de provas para condenação, mesmo sem apreensão de drogas ou laudo pericial, destacando o papel de gerência exercido pelo réu em organização criminosa e elementos extraídos de operação policial, interceptações telefônicas e relatos de moradores. II. QUESTÃO EM DISCUSSÃO
+2 - Há duas questões em discussão: (i) definir se é possível a condenação por tráfico de drogas e associação para o tráfico sem a apreensão de drogas e sem laudo pericial, com base exclusivamente em testemunhos indiretos; e (ii) estabelecer se a decisão que absolveu o paciente pode ser revertida nesta instância, à luz da insuficiência de provas reconhecida pelas instâncias ordinárias. III. RAZÕES DE DECIDIR
+3 - A condenação penal exige prova inequívoca da autoria e da materialidade delitiva, o que não se verifica quando os únicos elementos probatórios são testemunhos indiretos desprovidos de corroboração por outras provas materiais.
+4 - O princípio do in dubio pro reo impõe a absolvição quando subsistem dúvidas razoáveis sobre a participação do acusado, sobretudo diante da ausência de apreensão de drogas ou armamentos, e de provas produzidas apenas por delação não confirmada por outros meios.
+5 - A decisão monocrática encontra-se devidamente fundamentada na jurisprudência desta Corte Superior, que veda condenações alicerçadas exclusivamente em elementos indiciários frágeis ou não corroborados. IV. DISPOSITIVO E TESE
+6 - Agravo regimental improvido.
+(AgRg no HC n. 760.954/RJ, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025, grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. AUSÊNCIA DE APREENSÃO DE ENTORPECENTES E RESPECTIVO LAUDO. FALTA DA MATERIALIDADE DELITIVA. ABSOLVIÇÃO.
+AGRAVO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a condenação dos agravantes por tráfico de drogas, sem apreensão de entorpecentes.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de apreensão de drogas e a confecção do respectivo laudo impedem a condenação por tráfico de entorpecentes, mesmo diante de outras provas, como interceptações telefônicas e testemunhos judiciais.
+III. Razões de decidir
+3. A jurisprudência da Terceira Seção do Superior Tribunal de Justiça estabelece que, para a comprovação da materialidade do crime de tráfico de drogas, é imprescindível a apreensão de entorpecentes e a realização do laudo respectivo que ateste a natureza e a quantidade das drogas.
+4. A ausência de apreensão de drogas e, consequentemente, de laudo toxicológico, impede a comprovação da materialidade delitiva, sendo este meio de prova indispensável.
+5. A interceptação telefônica e outros elementos probatórios não são suficientes para suprir a falta de apreensão de drogas e comprovar a materialidade do delito de tráfico de drogas.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo provido para absolver os agravantes pelo delito de tráfico de drogas, diante da ausência da comprovação da materialidade delitiva. Nos termos do art. 580 do CPP, estendo os efeitos dessa decisão ao corréu Marcio Jean Guelere.
+Tese de julgamento:
+1. Para a comprovação da materialidade do crime de tráfico de drogas, é imprescindível a apreensão de entorpecentes e confecção do respectivo laudo.
+2. A ausência de apreensão de drogas e a confecção do respectivo laudo impedem a condenação por tráfico de entorpecentes, mesmo diante de outras provas, dada a fa lta de comprovação da materialidade delitiva.
+Dispositivos relevantes citados:
+Lei n. 11.343/2006, art. 33, caput; CPP, art. 580.
+Jurisprudência relevante citada:STJ, HC n. 686.312/MS, rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023; STJ, AgRg no AREsp n. 2.580.831/MG, rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025.
+(AgRg no HC n. 943.835/SC, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/8/2025, DJEN de 20/8/2025, grifei.)
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. AUSÊNCIA DE APREENSÃO DE ENTORPECENTES. MATERIALIDADE DELITIVA NÃO COMPROVADA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisões que absolveram os agravados da conduta descrita no art. 33, caput, da Lei n. 11.343/06, com fundamento na ausência de materialidade.
+2. A acusação alega que é possível a condenação pelos crimes da Lei n. 11.343/06 sem a apreensão da droga, desde que a materialidade seja comprovada por outros elementos de prova.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de apreensão de drogas impede a condenação por tráfico de entorpecentes, mesmo diante de outras provas, como a interceptação telefônica.
+III. Razões de decidir
+4. A jurisprudência da Terceira Seção do Superior Tribunal de Justiça estabelece que, para a comprovação da materialidade do crime de tráfico de drogas, é imprescindível a apreensão de entorpecentes.
+5. A ausência de apreensão de drogas e, consequentemente, de laudo toxicológico, impede a comprovação da materialidade delitiva, sendo este meio de prova indispensável.
+6. A interceptação telefônica e outros elementos probatórios não são suficientes para suprir a falta de apreensão de drogas e comprovar a materialidade do delito.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. Para a comprovação da materialidade do crime de tráfico de drogas, é imprescindível a apreensão de entorpecentes. 2. A ausência de apreensão de drogas impede a condenação por tráfico, mesmo diante de outras provas".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33; CPP, art. 386, II. Jurisprudência relevante citada: STJ, HC 686.312/MS, Rel. Min. Sebastião Reis Júnior, Rel. para acórdão Min. Rogerio Schietti, Terceira Seção, julgado em 12/04/2023, DJe 19/04/2023;
+STJ, AgRg no REsp 2.095.564/MG, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 01/07/2024, DJe 03/07/2024.
+(AgRg no AREsp n. 2.580.831/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025, grifei.)
+Ante o exposto, dou provimento ao recurso especial para absolver os recorrentes da suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006, por ausência de comprovação da materialidade delitiva, nos termos do art. 386, II, do Código de Processo Penal .
+Publique-se. Intimem-se.
+EMENTA
