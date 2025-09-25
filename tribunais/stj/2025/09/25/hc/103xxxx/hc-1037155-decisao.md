@@ -1,0 +1,16 @@
+DECISÃO
+GUILHERME MIGUEL DE LIMA PEREIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 0094534-41.2025.8.16.0000.
+Nas razões deste writ, a defesa postula, em liminar e no mérito, o reconhecimento do excesso de prazo da prisão preventiva.
+Decido.
+O requerente foi preso em flagrante em 21/11/2024 pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006.
+De acordo com a inicial acusatória, no domicílio do acusado "foi apreendida quantidade de aproximadamente 1.300g (um quilo e trezentos gramas) da substância entorpecente conhecida como "maconha", fracionada, além de balança de precisão".
+Sobre o alegado excesso de prazo da segregação cautelar, o Tribunal de origem assim decidiu:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - ART. 33, CAPUT, ART. 35, C/C ART. 40, VI, TODOS DA LEI Nº 11.343/2006 E NA FORMA DO ART. 69 DO CÓDIGO PENAL. ALEGADO EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO PROCESSUAL- NÃO ACOLHIMENTO - PECULIARIDADES DO CASO CONCRETO QUE JUSTIFICAM O PROLONGAMENTO - PLURALIDADE DE RÉUS E DE FATOS - TRAMITAÇÃO REGULAR SEM DESÍDIA DO PODER JUDICIÁRIO. PLEITO PELA REVOGAÇÃO DA PRISÃO PREVENTIVA OU APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INVIABILIDADE - CUSTÓDIA NECESSÁRIA PARA A GARANTIA DA ORDEM PÚBLICA - ALÉM DA GRAVIDADE CONCRETA DAS CONDUTAS IMPUTADAS, PACIENTE QUE SUPOSTAMENTE ESTAVA VINCULADO A ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A PRÁTICA REITERADA DO TRÁFICO - RISCO DE REITERAÇÃO DELITIVA EVIDENCIADO - PRESENÇA DOS REQUISITOS DOS ARTS. 312 E 313 DO CPP. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE, POR SI SÓ, NÃO AFASTAM A SEGREGAÇÃO CAUTELAR. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM CONHECIDA E DENEGADA.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região -, DJe 11/3/2022).
+Na hipótese, é possível verificar que o acusado está preso há 9 meses pela suposta prática dos crimes de tráfico de drogas e de associação para o tráfico.
+Além disso, o processo é complexo, envolve multiplicidade de réus e, "atualmente, aguarda-se tão somente o cumprimento da diligência referente a extração de arquivos telemáticos, para que então sejam apresentadas as alegações finais e, na sequência, remetidos os autos para prolação de sentença"
+Assim, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+Diante do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
