@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA DE PROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO E EXTINÇÃO DA AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCONFORMISMO DA EXEQUENTE/EMBARGADA. (1) PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA QUE SE CONFUNDE COM O PRÓPRIO MÉRITO RECURSAL. (2) FALECIMENTO DA DEVEDORA NO CURSO DA LIDE. EXEGESE DO ART. 1.792 DO CC. INEXISTÊNCIA DE BENS DO DE CUJUS. CERTIDÃO DE ÓBITO QUE USUFRUI DE PRESUNÇÃO RELATIVA DE VERACIDADE, A TEOR DO ART. 405 DO CPC. CREDORA QUE NÃO LOGROU ÊXITO EM COMPROVAR QUE A FALECIDA DEIXOU BENS PASSÍVEIS DE PENHORA. AUSÊNCIA DE INTERESSE PROCESSUAL CONFIGURADO. SENTENÇA MANTIDA. (3) FIXAÇÃO DE HONORÁRIOS RECURSAIS, COM FULCRO NO ART. 85, § 11 DO CPC. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 9º; 10; 11; 373, II; 921, III, § 4º, do Código de Processo Civil, além de divergência jurisprudencial.
+Assim posta a questão, observo que o recurso especial não dispensa o reexame de prova. A agravante afirma cerceamento de defesa, pois não teria sido dada a oportunidade de produzir provas a respeito da existência de bens a inventariar. A respeito dessa premissa fática, porém, o Tribunal de origem faz expressa menção à prova de que não havia bens a inventariar, de modo que a herdeira não era parte legítima passiva para a execução de título do qual constava a falecida como devedora. Confira-se, a propósito, o seguinte trecho do acórdão recorrido (fl. 160):
+Considerando a ausência de bens a inventariar, conforme se denota da certidão de óbito colacionada ao evento 1, CERTOBT3, não há falar em prosseguimento do feito executivo em relação à LAYZA RAYSA DE LIMA DOS SANTOS, ora Apelada, uma vez que a devedora principal não deixou bens a inventariar.
+(..)
+Registro, por oportuno, que a certidão de óbito é um documento público, possui presunção juris tantum, ou seja, sua veracidade é relativa e admite prova em contrário. Contudo, não trouxe a Apelante prova de que o de cujus deixou aos seus herdeiros, em razão da sua morte, ônus que lhe incumbia.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Ademais, verifica-se que o fundamento do acórdão recorrido é a ilegitimidade passiva da recorrida, assunto sobre o qual não há menção nas razões do recurso especial. Aplica-se ao caso também a Súmula 283 do STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
