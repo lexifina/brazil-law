@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA - CEEE-D contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu recurso especial dirigido ao acórdão prolatado na Apelação Cível n. 5057244-23.2019.4.04.7100/RS.
+Na origem, foi julgado procedente o pedido formulado na ação movida pela Universidade Federal do Rio Grande do Sul - UFRGS para impedir a suspensão do fornecimento de energia elétrica em todos os campi da universidade, sob a alegação de dificuldades orçamentárias que levaram à inadimplência (fls. 598-601).
+O Tribunal de origem deu parcial provimento ao recurso de apelação nos termos do acórdão assim ementado (fl. 670):
+APELAÇÃO. ADMINISTRATIVO. AÇÃO QUE BUSCA IMPEDIR A SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA EM TODOS OS CAMPI DA UFRGS.
+1. Considerando-se que a devedora é universidade pública de elevada importância social, com milhares de alunos, há inegável interesse na coletividade da manutenção regular de suas atividades, de forma que o direito de crédito da ré deve ser buscado pelas vias ordinárias - por exemplo mediante ação judicial de cobrança ou execução -, mas não através do expediente do corte da energia.
+2. Caso em que fica proibido o corte extrajudicial da energia elétrica; mas se eventualmente ficar configurado que a Universidade está abusando de seu direito, negando-se de forma pura e simples a fazer os pagamentos das faturas de energia elétrica, além da cobrança judicial fica resguardado à concessionária que ajuíze demanda judicial para: a) corte da energia, enquanto não regularizados os pagamentos; b) reparação de prejuízos que tenha causado à concessionaria pela sua conduta abusiva; e c) cobrança dos valores que entender devidos.
+3. Condenação em honorários de advogado adequada na forma do disposto no art. 85, § 3º, II, do CPC-15.
+4. Sentença parcialmente reformada. Apelação parcialmente provida.
+Os embargos opostos pela UFRGS foram parcialmente providos apenas para fins de prequestionamento (fls. 714-719).
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a CEEE-D alegou violação dos arts. 6º, § 3º, inciso II, da Lei n. 8.987/1995; 17, § 1º, da Lei n. 9.427/1996; 476 do Código Civil; 22 e 42 do Código de Defesa do Consumidor, sustentando a possibilidade de interrupção do fornecimento de energia elétrica diante do inadimplemento da UFRGS. Apontou dissídio jurisprudencial com decisões do Superior Tribunal de Justiça que autorizam o corte de energia em caso de inadimplência, mesmo para órgãos públicos, desde que haja notificação prévia.
+Não admitido o recurso (fls. 777-779), foi interposto o presente agravo em recurso especial (fls. 790-800).
+As contrarrazões foram apresentadas às fls. 805-810.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão da incidência (a) das Súmulas n. 282 e 356 do STF (quanto aos arts. 17, § 1º, da Lei n. 9.427/1996 e 22 e 42 do CPC); (b) da Súmula n. 7 do STJ; (c) da Súmula n. 83 do STJ; bem como (d) da aplicação dos referidos óbices de súmulas ao dissenso pretoriano.
+Nas razões do agravo em recurso especial, a parte agravante não logrou refutar, de maneira específica e concreta, os fundamentos constantes dos itens a e d, porquanto limitou-se a negar, genericamente, a incidência dos óbices sumulares e, quanto ao item d, sequer o mencionou.
+Contudo, deveria a parte demonstrar, efetivamente, de que forma a matéria no recurso especial teria sido suscitada e debatida pela Corte Estadual, a afastar o óbice das Súmulas n. 282 e 356 do STF.
+Com efeito, " p ara impugnar a falta de prequestionamento, deveria ter se remetido à ratio decidendi a fim de especificar em que trechos haveria debate judicial suficiente acerca do conteúdo de cada um dos dispositivos que o recorrente julga violados" (AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024).
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurs o especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor arbitrado, respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO QUE BUSCA IMPEDIR A SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA EM TODOS OS CAMPI DA UFRGS. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
