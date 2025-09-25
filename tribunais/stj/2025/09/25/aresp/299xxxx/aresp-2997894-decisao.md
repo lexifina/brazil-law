@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por Alimentos Zaeli Ltda e filiais contra decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu recurso especial, sob os seguintes fundamentos: i) ausência de prequestionamento (Súmulas 282 e 356/STF) (fl. 607); ii) necessidade de análise de legislação local (Súmula 280/STF) (fl. 607); iii) pedido de devolução de valores desacompanhado de indicação de dispositivo federal violado (Súmula 284/STF) (fl. 608).
+Argumenta a parte agravante, em síntese, que: i) os óbices das Súmulas 282 e 356 do STF não se aplicam ao caso, pois houve rejeição explícita das teses suscitadas no Recurso Especial (fl. 617); ii) o Tema 1.093 da Repercussão Geral não se aplica ao caso, pois trata de operações interestaduais envolvendo consumidores finais não contribuintes (fl. 624); iii) a Súmula 280 do STF não é aplicável, pois a discussão recursal não envolve análise de legislação local (fl. 625); e iv) houve prequestionamento implícito das matérias suscitadas no Recurso Especial (fl. 622).
+É o relatório.
+Passo a decidir.
+Nos termos do art. 932, III, do CPC e da Súmula 182/STJ, o agravo não merece ser conhecido, uma vez que a parte agravante deixou de impugnar especificamente fundamentos da decisão agravada, notadamente em relação a: i) pedido de devolução de valores desacompanhado de indicação de dispositivo federal violado (Súmula 284/STF).
+Consoante pacífica jurisprudência desta Corte, "incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos" (AgInt no AREsp n. 2.096.513/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+A propósito: AgInt no AREsp n. 2.096.513/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023; AgInt no AREsp n. 2.117.661/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/10/2022, DJe de 26/10/2022; AgInt no AREsp n. 1.996.169/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022; e AgInt no AREsp n. 2.072.889/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.
+Isso posto, não conheço do agravo em recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
