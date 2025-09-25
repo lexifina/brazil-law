@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo interno interposto por S. C. Brandão Bezerra & Cia. Diagnósticos Laboratoriais Ltda. contra decisão singular da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em virtude do óbice da Súmula 182 do STJ (fls. 577/578).
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do recurso.
+Cuida-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 310):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. SEGURO DE VEÍCULO. CONTRATADA APÓLICE APENAS PARA COBERTURA INTEGRAL. SEGURADO REQUER COBERTURA PARCIAL INFERIOR A 50% DO VALOR DO VEÍCULO. SINISTRO NÃO COBERTO. CLÁUSULAS CLARAS. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. MAJORAÇÃO HONORÁRIOS SUCUMBENCIAIS. APELO DESPROVIDO. DECISÃO UNÂNIME.
+1. O Apelante contratou apólice de seguro de indenização integral para roubo, furto ou colisão para seu veículo (moto) sem necessidade de pagamento de franquia (id. Nº 32622039).
+2. Como o próprio nome da cobertura sugestiona, a apólice foi contratada apenas na modalidade indenização integral. Sendo assim, a cláusula 8.2.1 especifica que será considerado apto à cobertura integral quando os prejuízos (reparos) forem superiores à 75% do valor de cotação do veículo.
+3. Dessa forma, verifica-se que não há no caso uma contratação para pequenos sinistros, mas, exclusivamente, para indenização integral do veículo por furto, roubo ou quando colisão em que os prejuízos remontam mais que 75% do preço de mercado do veículo.
+4. Ademais, vale salientar que tais informações constam na apólice e nas condições gerais da contratação que foram devidamente enviadas à Apelante conforme restou comprovado pelo Apelado (id. Nº 32622040, 32622041 e 32622043).
+5. Sentença de improcedência mantida. Majoração dos honorários sucumbenciais para 20% sobre o valor da causa.
+6. Apelação desprovida à unanimidade de votos.
+Opostos os embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 6º, III, IV, 37, §§ 1º, 3º, 46, 47, 51, I, III, 54, §§ 3º, 4º, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Afirma que a seguradora não cumpriu o dever de prestar informações claras e adequadas sobre as limitações da cobertura contratual.
+Alega a existência de divergência jurisprudencial em relação ao dever de informação e a validade de cláusulas limitativas de direitos em contratos de seguro.
+Contrarrazões foram apresentadas.
+Ao analisar o juízo de admissibilidade, o Tribunal de Justiça de Pernambuco não admitiu o recurso em razão de sua intempestividade. A decisão destacou que a parte Recorrente, devidamente intimada para corrigir o vício formal, deixou de comprovar a suspensão do prazo, limitando-se a defender a tempestividade do recurso ao argumento de que seguiu o prazo indicado na aba "expedientes" do Pje. Por essa razão, concluiu pela intempestividade do recurso, uma vez que o prazo sugerido pelo sistema eletrônico do PJe não exime a parte de observar o prazo legal (fls. 486/488).
+A parte recorrente interpôs agravo em recurso especial, argumentando que confiou de boa-fé nas informações disponibilizadas pelo sistema eletrônico do Tribunal de Justiça de Pernambuco, que indicava prazo diverso para a interposição do recurso. Alegou que a penalização pela intempestividade seria incompatível com os princípios da boa-fé objetiva, da confiança legítima e do devido processo legal substancial. Citou precedentes do Superior Tribunal de Justiça que reconhecem a justa causa para afastar a intempestividade em casos de erro induzido por informações equivocadas fornecidas pelo sistema eletrônico do tribunal. Requereu o provimento do agravo para reformar a decisão de inadmissibilidade e admitir o Recurso Especial (fls. 490-508).
+Contraminuta apresentada.
+Assim delimitada a controvérsia, passo a decidir
+No caso, o Tribunal de origem não admitiu o recurso especial tendo em vista a intempestividade do recurso, considerando que o recorrente não juntou aos autos, apesar de intimado para sanar o vício, prova da ocorrência do feriado local. Confira-se (e-STJ, fls. 486/488):
+Trata-se de recurso especial (ID 37026072), interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido em sede de apelação cível com julgamento de embargos de declaração (ID 35616708).
+Contrarrazões apresentadas (ID 37976010).
+Diante da verificação de possível intempestividade do recurso de ID 37026072, esta 1ª Vice-presidência, por meio do despacho de ID 39072174, determinou a intimação da parte Recorrente para sanar o vício apontado.
+Tendo a parte Recorrente juntado aos autos o petitório de ID 39695119.
+É o que havia a relatar, no essencial. Decido.
+Da análise dos requisitos extrínsecos de admissibilidade, observo, de logo, que o presente recurso está intempestivo.
+Isso porque a parte recorrente tomou ciência do acórdão recorrido em 16/05/2024 (quinta-feira), conforme aba expediente, ao passo que o recurso foi interposto apenas no dia 07/06/2024, quando já exaurido o prazo de 15 dias úteis previsto no §5º do art. 1.003 do CPC.
+A comprovação de eventual suspensão/alteração dos prazos processuais deve ser realizada por meio da juntada de documento idôneo (Ato Normativo do Tribunal Estadual) no momento da interposição do recurso. Em assim não ocorrendo, o Tribunal determinará a correção do vício formal, caso tal informação não conste dos autos do processo eletrônico.
+Confira-se nova redação dada ao art. 1.003 do CPC:
+(..)
+No caso sob análise, a parte Recorrente, devidamente intimada para corrigir o vício formal apontado no despacho de ID 39072174, por meio do petitório de ID 39695119, defendeu a tempestividade do recurso especial interposto ao argumento, tão-somente, de que seguiu o prazo indicado na aba "expedientes" do Pje.
+Entretanto, consoante jurisprudência do Superior Tribunal de Justiça, o prazo sugerido pelo sistema do PJe não tem o condão de eximir o interessado de interpor o recurso no prazo legal e de comprovar a tempestividade, inclusive a existência de feriado local e suspensão de expediente.
+No sentido aqui firmado, verifico recentes julgados:
+(..)
+Sendo assim, tendo em vista a intempestividade constatada, INADMITO o recurso ID 37026072, com fundamento no art. 1.030, V do CPC.
+Em suas razões de agravo em recurso especial, alega a recorrente que "baseou-se, com total boa-fé, nas informações oficiais divulgadas no site do Tribunal de Justiça de Pernambuco" (fl. 496).
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o erro de indicação do prazo para recorrer no sistema eletrônico do Tribunal de origem deve ser devidamente comprovado pela parte recorrente de forma a configurar a justa causa para afastar a intempestividade do recurso.
+No caso, a parte agravante não trouxe nenhum documento apto a comprovar o equívoco alegado. Apenas o que consta nas razões do agravo é um print da tela, o qual não configura documento hábil à demonstração da justa causa. A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DE FERIADO LOCAL. INTEMPESTIVIDADE DE RECURSO ESPECIAL. QUESTÃO DE ORDEM NO ARESP N. 2.638.376/MG. CORTE ESPECIAL. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI N. 14.939/2024. POSSIBILIDADE DE REGULARIZAÇÃO. INTIMAÇÃO DA PARTE RECORRENTE PARA SANAR VÍCIO. AUSÊNCIA DE COMPROVAÇÃO. PRECLUSÃO. CONTAGEM DE PRAZO PELO SISTEMA DO TRIBUNAL DE ORIGEM. ÔNUS DA PARTE DE DEMONSTRAR POR DOCUMENTAÇÃO IDÔNEA. PRINT DO SISTEMA. INSUFICIÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que não conheceu do agravo em recurso especial, em razão da intempestividade do recurso especial, por falta de comprovação de feriado local no ato de interposição do recurso. A parte agravante alegou que o recurso teria sido tempestivo conforme informações do sistema de peticionamento eletrônico do Tribunal de origem, com base em suposta suspensão de expediente forense. Intimada nos termos entendimento firmado pela Corte Especial no julgamento da QO no AREsp n. 2.638.376/MG acerca da aplicação do art. 1.003, § 6º, do CPC, a fim de para comprovar documentalmente a suspensão de expediente perante o Tribunal de origem, a parte agravante permaneceu inerte.
+II. Questão em discussão
+2. A questão em discussão consiste em estabelecer se houve comprovação idônea da suspensão do expediente forense ou feriado local no ato de interposição do recurso, nos moldes definidos pela Corte Especial no julgamento da QO no AREsp 2.638.376/MG, bem como determinar se a intempestividade do recurso especial pode ser afastada com base em informação do sistema eletrônico do Tribunal de origem.
+III. Razões de decidir
+3. A parte recorrente não comprovou, no ato da interposição do recurso, a ocorrência de feriado local ou suspensão do expediente forense, conforme exigido pelo art. 1.003, § 6º, do Código de Processo Civil.
+4. No julgamento da Questão de Ordem no AREsp 2.638.376/MG, a Corte Especial do STJ firmou entendimento no sentido de que, enquanto não exaurida a competência do Tribunal de origem ou do STJ, inclusive em sede de agravo interno, cabe ao julgador determinar à parte a regularização do vício relacionado à ausência de comprovação do feriado local ou da suspensão do expediente forense.
+5. Em cumprimento ao precedente qualificado, foi oportunizada à parte a possibilidade de comprovação por meio de documento idôneo a suspensão do expediente forense no Tribunal de origem, mas esta permaneceu inerte, deixando transcorrer o prazo, o que configura preclusão para a prática do ato.
+6. "A atual jurisprudência da Corte Especial do Superior Tribunal de Justiça orienta no sentido de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, relatora Ministra LAURITA VAZ, julgado aos 16/3/2022, DJe de 21/3/2022).  ..  Todavia, cabe à parte comprovar a situação que o induziu a erro, a fim de configurar justa causa capaz de afastar a intempestividade do recurso, não servindo a esse fim apenas a apresentação de print de tela ou a imagem de página extraída da internet e inserida na petição do recurso" (AgInt no AREsp n. 2.744.511/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+7. Apenas o "print" do sistema não é servil à efetiva demonstração da justa causa. Precedentes. (AgInt nos EDcl no AREsp n. 2.590.049/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+8. A ausência de comprovação adequada da suspensão do prazo processual ou de erro no sistema eletrônico do Tribunal de origem mantém a intempestividade do recurso especial.
+9. A aplicação da multa prevista no art. 1.021, § 4º, do CPC, não é automática e depende da demonstração de manifesta inadmissibilidade do recurso ou de seu caráter protelatório, o que não foi evidenciado no caso.
+IV. Dispositivo 10. Agravo interno desprovido.
+(AgInt no AREsp n. 2.625.971/GO, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015. INTEMPESTIVIDADE.
+1. Ação declaratória c/c obrigação de fazer e indenizatória, ajuizada em razão de propaganda enganosa.
+2. O artigo 1003, §6º, do CPC, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. Precedentes.
+3. O dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido. Precedentes.
+4. O erro de indicação do prazo recursal no sistema eletrônico do tribunal de origem deve ser devidamente comprovado para que configure justa causa capaz de afastar a intempestividade do recurso. Precedentes.
+5. Apenas o "print" do sistema não é servil à efetiva demonstração da justa causa. Precedentes.
+6. A afirmação de que a tempestividade do agravo em recurso especial foi baseada no sistema PROJUDI não tem o condão de isentar a parte de seu ônus processual para se afastar a intempestividade do recurso. Precedentes.
+7. Considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência de feriado local ou a suspensão do expediente forense quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+8. Agravo interno no agravo em recuso especial não provido.
+(AgInt nos EDcl no AREsp n. 2.590.049/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVOCATÓRIA. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Em síntese, cuida-se de ação revocatória em decorrência da alienação de imóvel em razão de alegada fraude.
+2. Hipótese em que o agravo em recurso especial não foi conhecido em razão da intempestividade.
+3. "O erro de indicação do prazo recursal no sistema eletrônico do tribunal de origem deve ser devidamente comprovado para que configure justa causa capaz de afastar a intempestividade do recurso, o que não ocorreu no caso dos autos" (AgInt nos EDcl no AREsp n. 2.034.914/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022), o que não ocorreu no caso.
+4. A " ..  mera alegação nas razões recursais ou o print de tela ou imagem de página extraída da internet ou ainda a juntada de relação de feriados, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal  .. " (AgInt no AREsp 2.140.372/SP, Quarta Turma, DJe de 16/02/2023).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.624.077/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Em face d o exposto, conheço do agravo para não conhecer do recurso especial ante a sua intempestividade.
+Deixo de arbitrar honorários de recurso, pois a condenação a respeito já alcança o teto legal (fl. 309), vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do art. 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
