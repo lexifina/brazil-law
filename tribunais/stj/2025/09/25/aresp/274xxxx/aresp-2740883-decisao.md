@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual JOÃO VICTORELLI e OUTRO se insurgiram, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 866):
+RECÁLCULO DE PROVENTOS DE APOSENTADORIA - Servidores públicos municipais aposentados visando ao reenquadramento de seus proventos de aposentadoria nos termos da Lei Complementar Municipal nº 230/2010 - A presente lide reproduz ação que já teve decisão transitada em julgado - V. Acórdão proferido por esta C. 9ª Câmara de Direito Público, na Apelação Cível nº 1007317- 97.2013.8.26.0609, o qual transitou em julgado em 9.5.2017 - Extinção do processo de ofício, sem resolução de mérito, nos termos do artigo 485, inciso V, do Código de Processo Civil - R. Sentença reformada. Recurso improvido, com observação.
+Os embargos de declaração foram rejeitados.
+Houve determinação de retorno dos autos pelo STJ para novo julgamento dos embargos de declaração opostos pelos ora agravantes, que ficaram assim ementados (fl. 1.012):
+EMBARGOS DE DECLARAÇÃO - Retorno dos autos do C. STJ determinando a anulação do V. Acórdão de fls. 883/888, visando a prolação de novo julgado capaz de sanar os pontos omissos reconhecidos pela Corte Superior - Recurso, todavia, que não aponta omissão, contradição, obscuridade ou erro material aptos a autorizar o seu acolhimento ou modificar o quanto decidido no V. Acórdão de fls. 865/874, que negou provimento ao recurso de apelação.
+Embargos de declaração rejeitados.
+Nas razões de seu recurso especial, a parte alega violação dos arts. 9º, 10, 141, 337, VIII, §§ 1º, 2º e 4º, 371, 489, I, § 1º, I, II, III, IV, e 493, 503 e 504 do CPC.
+Neste segundo recurso especial, interposto após o novo julgamento dos embargos de declaração, a parte agravante insiste na não ocorrência de coisa julgada ao argumento de que os pedidos das ações são distintos. Afirma que a causa de pedir e o pedido formulados naquele processo dizem respeito aos aumentos concedidos aos professores ativos pelas leis complementares 147/2007, 159/2007, 215/2011 e 265/2011. Já a presente ação tem como objeto os reajustes concedidos aos professores ativos, com a edição da Lei Complementar 230. A pretensão é ser enquadrado corretamente na tabela salarial prevista na Lei Complementar 230 (fl. 981).
+A parte adversa apresentou contrarrazões (fls. 1.059/1.062).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nos exatos termos do acórdão recorrido, o Tribunal a quo assim se manifestou (fls. 1.013/1.015):
+Como visto, trata-se de ação proposta por servidores públicos municipais aposentados visando, em apertada síntese, à recomposição dos proventos de aposentadoria conforme critérios estabelecidos pela Lei Complementar Municipal nº 230/2010.
+Esta C. 9ª Câmara de Direito Público negou provimento ao recurso reconhecendo a ocorrência de coisa julgada nos termos do V. Acórdão de fls. 865/874. Houve oposição de embargos de declaração, cuja decisão fora anulada nos termos da r. decisão de fls. 958/965, proferida pelo Ministro Paulo Sérgio Domingues no ARESP nº 1.812.555/SP interposto pelos embargantes.
+Passo, assim, à análise da aventada omissão reconhecida pelo C. STJ.
+Com relação à legislação invocada como fundamento da ação, o V. Acórdão é cristalino em sua análise trazendo à baila o V. Acórdão proferido no processo nº 1007317-97.2013.8.26.0609.
+Reitero, como outrora, que a alegação de que aquela demanda trata apenas das Leis Complementares 251/2011 e 265/2011 e não da Lei Complementar Municipal nº 230/2010 beira a má-fé, especialmente porque as Leis 251 e 265 são alterações posteriores da Lei nº 230/2010. Relembre-se a citação feita no V. Acórdão embargado:
+" ".. Observo que após a inativação dos autores, sobreveio a Lei Complementar 230/2010, que instituiu o Plano de Cargos, Carreiras e Vencimentos do Magistério do Município de Taboão da Serra (fls. 155/160) e, no Anexo I, estabelece uma Tabela de Vencimento para os cargos por ela estabelecidos (fls. 159).
+A Lei Complementar 251/2011, invocada pelos servidores para embasar a pretensão de aumento salarial, nada mais fez além de alterar a Tabela de Vencimentos estabelecida pelo novo Estatuto do Magistério (fls. 177/178).
+Na sequência, a LC 251/2011 foi tacitamente revogada pela Lei Complementar 265/2011, quando esta instituiu nova alteração no Anexo I que trata da Tabela de vencimentos (fls. 179/180).
+Assim, os servidores em atividade foram enquadrados no novo Plano de Carreira do Magistério (LC 230/2010) e alterações subsequentes (LC 251 e 265/2011).
+Já quanto aos servidores inativos não foi transmitida a possibilidade de evolução funcional e de progressão de vencimentos estabelecida pelo novo estatuto, na medida em que esses benefícios exigem avaliação contínua de desempenho profissional e o reenchimento de vários requisitos estabelecidos pela nova lei.
+Importante registrar que a Corte Suprema consolidou a orientação no sentido de que nas hipóteses de reestruturação da carreira não há direito à isonomia remuneratória frente aos cargos resultantes de lei superveniente à aposentadoria.."
+(..)
+Evidenciada a similaridade das partes, causa de pedir e do pedido, relacionado ao reconhecimento da revisão de aposentadoria visando à paridade com os servidores da ativa tendo como pano de fundo a Lei Complementar Municipal º 230/2010, a teor do disposto no artigo 337, inciso VII, parágrafos 1º, 2º e 4º, do Estatuto Processual Civil, de rigor impor a extinção da ação sem resolução do mérito, nos termos do artigo 485, inciso V, do CPC." (fls. 869/870) g. n.
+Assim, repise-se, não haveria como apreciar os pedidos relativos às Leis Municipais 251/2011 e 265/2011, ignorando-se serem elas alterações da Lei Municipal Complementar 230/2010 que dispõe sobre a reestruturação das carreiras.
+Quanto à alegação de violação ao disposto nos arts. 9º, 10, 141, 371, 493, parágrafo único, do CPC registro que o reconhecimento de coisa julgada é questão aventada nos autos desde o protocolo da Contestação a fls. 319/323, não havendo que se falar em decisão surpresa ou proferida sem que houvesse a manifestação da parte adversa, especialmente porque os embargantes tiveram a oportunidade de se pronunciar a respeito de tais alegações em diversos momentos posteriores à Contestação, a saber: fls. 422/433, 456, 468/476, 480/486, 493/497.
+A alegada violação dos referidos dispositivos processuais é esvaziada pelos elementos contidos nos próprios autos, não subsistindo qualquer sombra de nulidade a ser reconhecida por esta C. Corte de Justiça.
+Também não subsiste a alegação de ausência de fundamentação das decisões judiciais, visto que tanto a r. sentença quanto o V. Acórdão embargado esmiuçaram os argumentos colacionados pelas partes selecionando aqueles que, corroborados pelas provas produzidas, formam o convencimento do Magistrado. Inexistente, assim a violação ao disposto no art. 371 do CPC.
+Finalmente, infundada a alegação de violação ao disposto no art. 493, parágrafo único do CPC, pois, não se há que falar em advento de fato novo, visto que o tema referente à existência de coisa julgada fora suscitado já em sede de Contestação.
+Como se vê, o Tribunal confirma que existe a coisa julgada em relação à causa ajuizada anteriormente, esmiuçando as teses e os argumentos apresentados pela parte agravante.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL.  ..  IMPOSSIBILIDADE DE REVISÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+3. Esta Corte Superior consolidou o entendimento de ser inviável conhecer das alegações veiculadas em embargos à execução quando já definitivamente resolvidas, inclusive no que se refere às matérias de ordem pública, diante da ocorrência de preclusão consumativa e em observância à coisa julgada.
+4. O Tribunal de origem reconheceu que todas as questões foram devidamente resolvidas em recurso anteriormente julgado. Entendimento divers o, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência no presente caso da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.730.816/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  PRECLUSÃO CONSUMATIVA. CABIMENTO. COISA JULGADA. REEXAME. SÚMULA 7/STJ.  ..  AGRAVO INTERNO DESPROVIDO.
+ ..
+4. É inviável a este Tribunal Superior modificar o posicionamento adotado pela instância originária quanto à ocorrência ou não da preclusão e da coisa julgada, visto que tal apreciação exigiria o revolvimento fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.643.039/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor das partes recorrentes, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
