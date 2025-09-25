@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIANA DA SILVA TESTI contra acórdão da 15ª Câmara Criminal do Tribunal de Justiça de São Paulo, no HC n. 2261473-95.2025.8.26.0000, assim ementado:
+HABEAS CORPUS. LAVAGEM DE CAPITAIS (ARTIGO 1º, CAPUT E § 4º, DA LEI Nº 9.613/98. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DERIVADO DA NULIDADE DA PROVA PRODUZIDA, COM O CONSEQUENTE TRANCAMENTO DA AÇÃO PENAL, POR AUSÊNCIA DE JUSTA CAUSA E VIOLAÇÃO DOS DIREITOS E GARANTIAS FUNDAMENTAIS DA PACIENTE. NÃO CONHECIMENTO. MATÉRIA NÃO APRECIADA PELO JUÍZO A QUO, QUE POSTERGOU A ANÁLISE PARA O MOMENTO DA PROLAÇÃO DA R. SENTENÇA. IMPOSSIBILIDADE DE ANÁLISE INAUGURAL DA MATÉRIA POR ESTE COLEGIADO, SOB PENA DE INADMISSÍVEL SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA.
+Em seu arrazoado, a parte impetrante aponta, preliminarmente, a necessidade de análise do mérito da controvérsia pelo Tribunal a quo, que entendeu que a apreciação da matéria implicaria em supressão de instância, já que não foi examinada pelo juízo singular.
+Aponta a nulidade dos Relatórios de Inteligência Financeira obtidos diretamente pela autoridade policial sem autorização judicial.
+Requer, liminarmente, a suspensão da ação penal em curso até o julgamento definitivo do presente habeas corpus.
+Pugna pelo retorno dos autos ao Tribunal de Justiça de São Paulo para que aprecie o mérito do habeas corpus originário, ou pelo reconhecimento da nulidade do Relatório de Inteligência Financeira (COAF) obtido sem prévia autorização judicial, bem como a nulidade de todos os atos processuais dele derivados, por força da teoria dos frutos da árvore envenenada (fruits of the poisonous tree).
+Em consequência, pugna pelo trancamento da ação penal no que se refere ao crime de lavagem de dinheiro, diante da ausência de justa causa e da violação grave aos direitos e garantias fundamentais da acusada, configurada pela obtenção direta, pela autoridade policial, de dados bancários e financeiros sem autorização judicial.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De antemão, conforme esclarecido pelo próprio impetrante, o Tribunal de Justiça não conheceu da impetração porque a apontada ilicitude dos relatórios de inteligência financeira não foi alvo de apreciação pelo juízo de origem.
+De fato, o magistrado singular compreendeu que "alegação de nulidade referente à requisição e à utilização do Relatório de Inteligência Financeira (RIF) será objeto de análise por ocasião da prolação da sentença" (e-STJ, fl. 40). Diante disso, o Tribunal de Justiça decidiu que tal situação "afasta, por consequência, a possibilidade de conhecimento da pretensão deduzida inicialmente por este Colegiado, sob pena de inadmissível supressão de instância" (e-STJ, fl. 17).
+Dentro desse contexto, o exame da presente impetração diretamente por este Superior Tribunal de Justiça também fica obstado, sob pena de indevida supressão de instância.
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
