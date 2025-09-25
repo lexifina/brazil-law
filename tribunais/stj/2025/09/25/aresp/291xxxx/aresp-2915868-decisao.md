@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto contra acórdão proferido pelo Tribunal de origem assim ementado (fl. 389):
+"DIREITO DE VIZINHANÇA. AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZATÓRIA JULGADA PROCEDENTE. NECESSIDADE. CONJUNTO PROBATÓRIO INDICANDO AUSÊNCIA DE MANUTENÇÃO PERIÓDICA NO TERRENO, BEM COMO DA ADOÇÃO DE MEDIDAS QUE INIBAM TERCEIROS DE JOGAR LIXO E ENTULHO NO LOCAL, DEVERES QUE SE IMPÕEM A QUALQUER PROPRIETÁRIO DE IMÓVEL. VERIFICAÇÃO DE QUE A DIUTURNA PREOCUPAÇÃO COM A SAÚDE, O TEMOR DE CONTRAIR DOENÇAS (INCLUSIVE A DENGUE) E O CONVÍVIO DIÁRIO COM O LIXO E ENTULHO POR LONGO PERÍODO NÃO PODEM SER RELEGADOS A MEROS ABORRECIMENTOS OU SIMPLES DESCONFORTO. DANOS MORAIS CONFIGURADOS. VALOR CONDENAÇÃO MANTIDO. INVIABILIDADE DE INSERIR A RÉ, SOCIEDADE DE ECONOMIA MISTA, NO CONCEITO DE FAZENDA PÚBLICA, NÃO HAVENDO EVIDÊNCIAS DE QUE PRESTE SOMENTE SERVIÇOS TÍPICOS DE ESTADO (CONFORME SE VERIFICA DO ART. 3º DA LEI MUNICIPAL 10.176/2020), RESTANDO EVIDENTE QUE DETÉM FINALIDADE ECONÔMICA, NÃO SENDO O CASO DE APLICAÇÃO DO ART. 1º-F DA LEI Nº 9.494/97 EM RELAÇÃO AOS JUROS LEGAIS DE MORA. PRECEDENTES. VERBA HONORÁRIA SUCUMBENCIAL FIXADA 10% SOBRE O VALOR DA CAUSA, APESAR DE SE TRATAR DE CONDENAÇÃO LÍQUIDA. INVIABILIDADE. HIPÓTESE EM QUE O PROVEITO ECONÔMICO NÃO É IRRISÓRIO. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM 20% SOBRE O VALOR DA CONDENAÇÃO, NOS TERMOS DO ART. 85, § 2º, DO CPC. SENTENÇA REFORMADA EM PARTE. Recurso de apelação da ré parcialmente provido e improvido o recurso de apelação do autor."
+No recurso especial, a recorrente aponta violação ao art. 927 do Código Civil.
+Sustenta a ausencia da sua responsabilidade civil a título de dano moral, visto que não houve comprovação do aludido dano pela parte recorrida.
+Foram apresentadas contrarrazões às fls. 417-426.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+A respeito da contenda, verifico que o Tribunal de origem concluiu pelo dever de indenizar da agravante a título de dano moral, conforme se depreende da leitura do seguinte excerto do acórdão recorrido (fls. 392-393):
+" "No caso concreto, entendo que a inércia da requerida ao permitir o acúmulo de lixo e entulho em seu terreno expôs a parte autora e sua família a inúmeras situações aviltantes, como a convivência com insetos, animais peçonhentos como cobras e escorpiões, além de roedores.
+Além disso, é cediço que o acúmulo de entulho e lixo propicia a formação de criadouros de mosquitos vetores de doenças graves como a dengue e a leishmaniose.
+Toda essa situação gera um desconforto excessivo que transcende a barreira do mero dissabor cotidiano. Desse modo, a condenação em danos morais em casos como o dos autos, além de punir o ofensor, também serve para inibir a continuidade da prática do ato ilícito."
+ ..
+Não se mostra razoável admitir-se que o convívio constante com tal situação seja relegada a meros dissabores, especialmente quando se considera o potencial risco à saúde de quem vive nos imóveis vizinhos.
+O fato de o imóvel situar-se na periferia da cidade e de haver outros terrenos sem edificação no bairro, não justifica o fato de a ré-apelante deixar de cumprir suas obrigações de zelar pelo bem estar e saúde dos vizinhos, mantendo o imóvel limpo e cercado.
+Ao contrário, sabedora de tal situação e em se tratando de sociedade de economia mista, prestadora de serviços públicos, mostra-se redobrado seu dever manutenção periódica do imóvel (obrigação de todo e qualquer munícipe- proprietário e que deve ser objeto de constante fiscalização por parte da Municipalidade), a fim de evitar que a causa da proliferação de insetos e animais peçonhentos fosse potencializada pelo descumprimento de sua obrigação.
+A diuturna preocupação com a saúde, o temor de contrair doenças (inclusive a dengue) e o convívio diário com o lixo e entulho por longo período não podem ser tratados como meros aborrecimentos ou simples desconforto.
+Muito embora a vida em sociedade requeira tolerância, o conjunto probatório indica que o descaso da ré causou evidente desequilíbrio emocional no autor e abalos em seu estado de espírito, restando configurado o dano moral.
+Assim sendo, nos termos do art. 927 do Código Civil, os danos causados requerem a necessária reparação."
+Dessa forma, a alteração do entendimento exposto no acórdão recorrido, como ora pretendido, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 desta Corte.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
