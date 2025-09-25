@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZATÓRIA. DECISÃO PROFERIDA PELO JUÍZO A QUO QUE APLICOU À HIPÓTESE O CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE. AUSÊNCIA DE RELAÇÃO DE CONSUMO. PARTE AUTORA QUE NÃO SE ENQUADRA NO CONCEITO DE DESTINATÁRIO FINAL. APLICAÇÃO DA TEORIA FINALISTA DO STJ. PRODUÇÃO DE PROVA PERICIAL. NÃO CONHECIMENTO NESSA PARTE. RECURSO PARCIALMENTE PROVIDO, NA PARTE CONHECIDA.
+1. Agravo de instrumento interposto contra decisão que reconheceu a aplicação do Código de Defesa do Consumidor à hipótese, afastando, por consequência, o pleito de chamamento ao processo da montadora de veículos, bem como a preliminar de incompetência territorial arguida e a produção de prova pericial.
+2. Capítulo da decisão que indefere o pedido de produção de prova pericial, não elencado no rol do art. 1.015 do CPC.
+3. Mitigação da taxatividade em caso de urgência, a que se refere o REsp 1704520/MT, julgado pela sistemática dos recursos repetitivos, que não se amolda à hipótese dos autos.
+4. Indeferimento do pedido de produção de prova pericial que não resulta em risco ao perecimento do direito do agravante. Precedentes.
+5. Ausência de relação de consumo. Contratação do serviço de assistência técnica veicular (mecânica) que não caracteriza relação de consumo tutelável pelo Código de Defesa do Consumidor, pois o referido serviço compõe a cadeia produtiva da empresa, sendo essencial à consecução do negócio da parte autora.
+6. Ausência de hipossuficiência técnica, como bem destacado pelo juízo a quo.
+7. Impossibilidade de chamamento ao processo quando se pretende, pura e simplesmente, transferir responsabilidade pelo evento danoso. Hipótese que não se amolda às permissões legais contidas no art. 130 do CPC.
+8. Declaração de incompetência que não foi objeto de análise da decisão agravada, que se limitou a aplicar a Lei Consumerista, não podendo ser examinada por este órgão revisor, sob pena de caracterização de supressão de instância e violação ao princípio do devido processo legal.
+9. Parcial provimento ao recurso, na parte conhecida.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 4º; 8º; 489, § 1º, IV e VI; 1015; 1022, II; do Código de Processo Civil, além de divergência jurisprudencial. Sustenta que o acórdão, além de deficiente de fundamentos e negar de prestação jurisdicional, é citra petita, pois não apreciou o pedido de anulação da decisão que indeferiu a produção de provas. Afirma a urgência do exame da questão, razão pela qual é cabível o agravo de instrumento.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+Quanto ao mais, também não prospera o recurso. A agravante afirma que o acórdão é citra petita, todavia a respeito do pedido que não teria sido apreciado, houve, sim, pronunciamento do Tribunal (fl. 65):
+Inicialmente, deixo de conhecer do recurso quanto à insurgência acerca do indeferimento do pedido de produção de prova pericial de engenharia mecânica, já que nenhum dos incisos do artigo 1015 do Código de Processo Civil prevê a possibilidade de interposição de agravo de instrumento quando o juízo determina a produção ou perda de determinada prova.
+Tampouco se observa a urgência de tal questão, a ensejar a inutilidade do provimento judicial, caso posteriormente analisada, o que poderia justificar a mitigação da taxatividade do supracitado artigo, na forma da jurisprudência do Superior Tribunal de Justiça.
+Outrossim, a discussão da urgência para fins de admissibilidade do agravo de instrumento não enseja recurso especial, dada a necessidade de reexame de prova para tanto. Aplica-se ao caso a Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
