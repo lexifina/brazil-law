@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RONALD AILTON DOS SANTOS e WILLIAN GONCALVES DA SILVA ROSA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0836291-29.2022.8.19.0021, Desembargador o revisor Flávio Marcelo de Azevedo Horta Fernandes).
+Depreende-se dos autos que os pacientes foram condenados, como incursos no art. 157, §§ 2º, II e V, e 2º-A, I do Código Penal, por duas vezes, na forma do art. 70, do mesmo diploma legal, às penas de 13 (treze) anos, 07 (sete) meses e 10 (dez) dias de reclusão e 130 (cento e trinta) dias-multa.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa e deu provimento ao recurso do Ministério Público para estabelecer a reprimenda final dos réus em 18 anos e 01 mês de reclusão e pagamento de 72 dias-multa (e-STJ fls. 19/26).
+Daí o presente habeas corpus, na qual a impetrante alega nulidade dos reconhecimentos pessoais, em razão da não observância das formalidades do art. 226 do Código de Processo Penal.
+Sustenta, subsidiariamente, a ausência de fundamentação idônea para a exasperação da pena na primeira fase da dosimetria, uma vez que "as penas-bases dos crimes de roubo foram aumentadas em 3/4, o que corresponde a um aumento de mais da  (metade) e mais de 1/6 para cada circunstância judicial negativa, em razão do reconhecimento de 4 (quatro) circunstâncias judiciais desfavoráveis: culpabilidade e antecedentes, bem como as majorantes do concurso de agentes e a restrição de liberdade do lesado" (e-STJ fl. 16).
+Complementa que "o mais razoável seria utilizar a fração da  (metade), conforme estabelecido na sentença e no voto vencido, ou ao menos 1/6 (um sexto) para cada circunstância, nos termos da jurisprudência do Egrégio STJ" (e-STJ fl. 16).
+Assere que o aumento de 1/3 realizado na segunda fase é desproporcional, porquanto os pacientes não são multirreincidentes.
+Requer, ao final, o reconhecimento da nulidade dos reconhecimentos pessoais e, por consequência, a absolvição dos pacientes. Subsidiariamente, pleiteia o redimensionamento das penas.
+Decido.
+Não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+A jurisprudência desta Corte é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, seja por ter sido impetrado concomitantemente, seja por estar ainda escoando o prazo para a interposição de recurso previsto em regramentos legal e regimental, mormente quando não se verifica flagrante ilegalidade apta a atrair a concessão da ordem de ofício, como na espécie.
+Nesse mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça (RISTJ), indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
