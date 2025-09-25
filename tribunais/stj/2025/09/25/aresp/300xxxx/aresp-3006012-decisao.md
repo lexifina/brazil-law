@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por SELMO JOSÉ INÁCIO, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado (fls. 427-428, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO. SENTENÇA DE IMPROCEDÊNCIA. CONTRARRAZÕES DA PARTE RÉ.
+TESES DE ILEGITIMIDADE PASSIVA E PRESCRIÇÃO. NÃO CONHECIMENTO. DECISÃO DE MÉRITO QUE SERÁ FAVORÁVEL À PARTE RECORRIDA. APLICAÇÃO DO PRINCÍPIO DE PRIMAZIA DE MÉRITO. INTELIGÊNCIA DO ART. 488 DO CÓDIGO DE PROCESSO CIVIL.
+INSURGÊNCIA DA PARTE AUTORA.
+CONTRATO DE SEGURO DE VIDA EM GRUPO. PLEITO EXORDIAL DE INDENIZAÇÃO POR DOENÇA.
+PRETENDIDA A CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO SECURITÁRIA. INSUBSISTÊNCIA. LAUDO PERICIAL QUE ATESTOU A INEXISTÊNCIA DE INVALIDEZ PERMANENTE. DEMANDANTE QUE POSSUI INCAPACIDADE TEMPORÁRIA. RISCO EXCLUÍDO DO CONTRATO. DEVER DE INDENIZAR NÃO CARACTERIZADO.
+RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 442-446, e-STJ.
+Nas razões de recurso especial (fls. 448-461, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 1.022, II, 371 e 479 do CPC.
+Sustenta, em síntese: (i) negativa de prestação jurisdicional, por ausência de análise de provas relevantes; (ii) desconsideração de elementos probatórios que demonstrariam a invalidez permanente; e (iii) ausência de fundamentação adequada para acolhimento do laudo pericial.
+Contrarrazões apresentadas às fls. 463-471, e-STJ.
+Em juízo de admissibilidade (fls. 474-475, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 478-482, e-STJ).
+Contraminuta apresentada às fls. 484-489, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Alega o recorrente violação aos arts. 1.022 do CPC, ao argumento de deficiência na fundamentação em razão de omissão e obscuridade no acórdão recorrido, não sanadas quando do julgamento dos embargos de declaração.
+Sustenta que o acórdão fora omisso sobre a análise de provas relevantes que demonstrariam a gravidade da doença e a necessidade de assistência de terceiros.
+Razão não lhe assiste, no ponto.
+Não se vislumbram os alegados vícios, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, conforme se infere às fls. 424-425, e-STJ:
+No laudo pericial confeccionado no evento 67, LAUDO1, dos autos originários, constata-se que o expert atestou a inexistência de invalidez permanente:
+ ..
+5. Informe se a sequela pode ser curada ou minorada com tratamento adequado ou se é de caráter permanente. R: O transtorno bipolar tem tratamento.
+
+9. Existindo invalidez permanente, quanto à extensão, essa invalidez é parcial ou total  R: Provavelmente não existe invalidez permanente e o benefício foi concedido antes se tentar medicações mais adequadas ao caso
+ ..
+Nesse cenário, inexistindo cobertura contratual para a incapacidade temporária, não há possibilidade de condenar a seguradora ré ao pagamento de indenização.
+E, ainda, no acórdão integrativo (fls. 443-444, e-STJ):
+Isso porque o acórdão atacado foi claro ao explicitar os fundamentos que levaram ao desprovimento do reclamo do autor, manifestando-se, inclusive, em relação às conclusões do laudo pericial produzido em juízo e acerca da inexistência de incapacidade permanente.
+De fato, inexistem omissões no acórdão objurgado, porquanto restou consignado que a doença com a qual foi diagnosticado o segurado (transtorno bipolar atualmente em remissão parcial - CID 10 F31.7), conforme esclarecido no laudo pericial produzido, "não se enquadra como alienação mental incurável, não estando presente na tabela da SUSEP".
+Foram feitas expressas menções à análise das condições do recorrente, fundando-se o Tribunal de origem nas conclusões do laudo pericial.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese. Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. NOVAÇÃO RECUPERACIONAL. EFEITOS. INAPLICABILIDADE AOS GARANTIDORES. MANUTENÇÃO DAS GARANTIAS E DOS PRIVILÉGIOS. AGRAVO INTERNO DESPROVIDO. 1. No caso, não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio. 2. "A jurisprudência do Superior Tribunal de Justiça preleciona que o plano de recuperação judicial opera novação das dívidas a ele submetidas, sendo que, em regra, as garantias reais ou fidejussórias são preservadas, podendo o credor exercer seus direitos contra terceiros garantidores, e impõe a manutenção das ações e execuções contra fiadores, avalistas ou coobrigados em geral." (AgInt no AREsp 2.087.415/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023). 3. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.556.614/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. PCAC E RMNR. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. PRECEDENTES. SÚMULA N. 83/STJ. DECISÃO MANTIDA. 1. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. 2. O recurso especial não comporta exame de questões que impliquem interpretação de contrato ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ. 3. É inviável a extensão aos proventos de complementação de aposentadoria dos mesmos índices de reajuste referentes às verbas denominadas Plano de Classificação e Avaliação de Cargos - PCAC e Remuneração Mínima por Nível e Regime - RMNR -, concedidas aos empregados em atividade por acordo coletivo de trabalho, em razão da ausência de prévia formação da reserva matemática. Precedentes. 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.602.044/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2020, DJe de 14/12/2020.)
+Como se vê, não se vislumbra omissão ou obscuridade, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação aos artigos 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Alega a parte recorrente violação aos arts. 1.022, II, 371 e 479 do CPC, sustentando, em síntese, insuficiência na análise das provas que demonstrariam a invalidez permanente do segurado, bem como a desconsideração de elementos probatórios que corroborariam a tese recursal.
+Conforme trechos retrocolacionados do acórdão recorrido (fls. 424-425, e-STJ) e do acórdão integrativo (fls. 443-444, e-STJ), o Tribunal local, diante das peculiaridades do caso concreto e a partir da análise do conteúdo fático-probatório dos autos, concluiu que o laudo pericial foi suficiente para afastar a alegação de invalidez permanente, não havendo elementos que justificassem a procedência do pleito indenizatório.
+Derruir as conclusões contidas no decisum e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Nesse sentido:
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. DEVER DE INFORMAÇÃO. ESTIPULANTE. INVALIDEZ TOTAL OU PARCIAL POR ACIDENTE (IPA). PERDA TOTAL OU PARCIAL DA FUNÇÃO DO MEMBRO AFASTADA PELO LAUDO PERICIAL. INDENIZAÇÃO SECURITÁRIA. NÃO CABIMENTO. REVISÃO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos da tese firmada pela Segunda Seção do STJ no julgamento do Tema Repetitivo n. 1.112, "na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre".
+2. "A cobertura de Invalidez Permanente por Acidente (IPA) garante o pagamento de uma indenização relativa à perda, à redução ou à impotência funcional definitiva, total ou parcial, de um membro ou órgão por lesão física, causada por acidente pessoal coberto (art.
+11 da Circular/Susep nº 302/2005; Resolução/CNSP nº 117/2004 e art. 2º, I, da Resolução/CNSP nº 439/2022)" (AgInt no AREsp 2.564.992/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/8/2024, DJe de 14/8/2024).
+3. No caso, o laudo pericial afastou a hipótese de invalidez total ou parcial do segurado, concluindo que as lesões sofridas em razão do acidente - fratura da ulna esquerda com implantação de placas e parafusos - não deixaram sequelas que resultem no acometimento total ou parcial do membro e não se enquadram em nenhuma das hipóteses constantes da Tabela para Cálculo da Indenização em Caso de Invalidez Permanente Total ou Parcial por acidente da SUSEP, desautorizando, portanto, o auferimento da indenização securitária por Invalidez Permanente por Acidente (IPA).
+4. A revisão de tais conclusões demandaria a análise de circunstâncias fático-probatórias dos autos e de cláusulas contratuais, providência inviável em sede de recurso especial, devido aos óbices das Súmulas 5 e 7/STJ.
+5. Agravo interno provido para, em novo exame, negar provimento ao recurso especial do segurado.
+(AgInt no REsp n. 1.874.791/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/10/2024, DJe de 21/10/2024.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. SEGURO. INVALIDEZ FUNCIONAL PERMANENTE. COBERTURA DA APÓLICE. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E CLÁUSULAS CONTRATUAIS. ÓBICE DAS SÚMULAS NS. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Rever as conclusões do Tribunal de origem quanto à cobertura contratual securitária, a caracterização de invalidez permanente e se é devida a indenização demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas n. 5 e 7 do STJ. Precedentes.
+2. Fica prejudicado o exame da divergência jurisprudencial quando a tese recursal já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência do óbice da Súmula n. 7/STJ.
+Recurso especial não conhecido.
+(REsp n. 1.888.682/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)  grifou-se
+Inafastável, nesse ponto, o óbice da Súmula 7/STJ.
+3. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
