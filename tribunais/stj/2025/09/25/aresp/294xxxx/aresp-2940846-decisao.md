@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 151):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Associação - Decisão que indeferiu o pedido de homologação do laudo pericial e deixou de se manifestação sobre a digitalização dos autos - Insurgência da Exequente - Existência de laudo pericial idôneo e bem fundamentado em relação às questões guerreadas - Intimação regular da Executada, que pediu esclarecimentos sobre o laudo - Esclarecimentos prestados nos autos pela perita - Contraditório garantido no curso da ação - Digitalização dos autos - Autos digitalizados após a interposição do recurso - Perda de objeto - RECURSO CONHECIDO EM PARTE e, na parte conhecida, PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos artigos 477, §§ 1º a 3º, 489, 1.022, do Código de Processo Civil.
+Sustenta que houve negativa de prestação jurisdicional, pois o acórdão foi omisso quanto às questões cruciais levantadas pelo recorrente, como a afronta ao artigo 477, §§ 1º a 3º, do CPC.
+Aduz que houve a violação de seu "direito ao exercício do contraditório e ampla defesa, uma vez que o Tribunal a quo homologou o laudo pericial, impossibilitando a Recorrente de ter todos os fundamentos devidamente apreciados na origem. Por todo o ora demonstrado, verifica-se que deve ser reformado o acórdão pois não há fundamentos que permitam a rejeição do bem imóvel indicado, principalmente porque se encontra desonerado, sendo de propriedade da Recorrente, bem como porque sua avaliação revelará ser suficiente para a satisfação do cumprimento de sentença" (fl. 161).
+Contrarrazões apresentadas.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 180/182, contra a qual foi interposto o presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, assim dispôs o Tribunal de origem acerca da controvérsia (fls. 152/154):
+Primeiramente, compulsando os autos originais, verifico que a versão digital do processo foi disponibilizada no sistema após a interposição do presente recurso. Desse modo, considero que o pedido referente à digitalização dos autos perdeu o objeto, de modo que não será conhecido.
+Passo à análise do pedido de homologação do laudo pericial.
+Sabe-se que, nos termos do art. 477, §§ 1º, e 3º, do CPC, para a garantia do contraditório, as partes podem solicitar esclarecimentos do perito quanto ao laudo pericial.
+Da análise atenta dos autos, verifico que as partes foram intimadas, conforme certidão de e-fls. 2.305 dos autos digitalizados, a se manifestar sobre o laudo pericial de e-fls. 2.218/2.278 dos autos digitalizados. Ato contínuo, o Exequente concordou com os valores do laudo (e- fls. 2.308/2.313 dos autos digitalizados) e a Executada pediu esclarecimentos sobre a metodologia e os documentos utilizados na avaliação (e-fls. 2.317/2.328 dos autos digitalizados). Sobreveio resposta aos questionamentos feitos pela Agravada (e-fls. 2.354/2.355), na qual a perita demonstrou que o trabalho foi realizado nos termos da ABNT NBR 14653-2. Não houve novos questionamentos após a resposta.
+Desse modo, ante a inexistência de novas indagações pela parte executada, considera-se que o laudo cumpriu com as determinações do art. 473 do CPC, já que trouxe análise conclusiva sobre o objeto avaliado, bem como a metodologia e as fontes utilizados no trabalho.
+Após o pedido de homologação do laudo feito pela Exequente (e-fls. 2.336/2.338 e 2.481/2.482 dos autos digitalizados), o Juízo entendeu por bem o diferimento do requerimento para momento posterior, sob a justificativa de que o acolhimento do pleito dependia da manifestação da executada (e-fls. 2.492):
+"(..) Indefiro neste momento a homologação do laudo de avaliação, uma vez que esta deve ocorrer após a intimação do executado.
+Por ora, tratando-se de execução em fase de constrição de bens, prudente o diferimento do requerimento para momento posterior. (..)" (Grifos nossos)
+Acontece que, conforme demonstrado anteriormente, a Executada não só havia sido intimada, como também pediu esclarecimentos da perita acerca das conclusões periciais, que foram prontamente esclarecidas. Desse modo, o laudo se contra apto para ser homologado, considerando a existência de trabalho idôneo, sobre o qual a Executada pode se manifestar.
+Portanto, a r. decisão agravada deve ser reformada para homologar o laudo pericial de e-fls. 2.218/2.273 dos autos digitalizados, mantidas as demais disposições.
+No caso, a instância ordinária apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes à solução da controvérsia. Se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Verifica-se, portanto, que não estão configurados os vícios de omissão, contradição ou obscuridade, razão pela qual não há que falar em violação dos artigos 489 e 1.022 do CPC.
+Outrossim, nota-se que, para afastar as conclusões contidas no acórdão recorrido quanto às referidas questões, segundo as razões vertidas no presente recurso, seria imprescindível nova análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 desta Corte.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
