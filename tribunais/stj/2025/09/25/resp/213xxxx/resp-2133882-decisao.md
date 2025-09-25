@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por RIVERTON MUSSI RAMOS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 186):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL AJUIZADA PELO ESTADO. MULTA APLICADA PELO TCE EM FACE DO EX- PREFEITO. EXTINÇÃO DO PROCESSO. LEGITIMIDADE DO ESTADO. MULTA QUE NÃO CUIDA DE DANO AO ERÁRIO. REFORMA DA SENTENÇA. Controvérsia recursal que se cinge a legitimidade ativa do Estado do Rio de Janeiro para executar multa administrativa, aplicada pelo TCE-RJ, em razão do exercício do seu dever de fiscalizar. Multa aplicada com fundamento no art. 63, inciso IV, da Lei Complementar nº. 63/90, segundo o qual o Tribunal de Contas poderá aplicar multa de até cem vezes o maior piso salarial estadual aos responsáveis por, "não atendimento, no prazo fixado, sem causa justificada, a diligência ou a decisão do Tribunal. Multa que não foi aplicada em razão de dano causado ao erário municipal, hipótese que excepciona o disposto no Tema nº 642 do STF. Estado que é competente para promover execução de crédito decorrente de multa de seu órgão de contas, nas hipóteses em que se excepciona o dano direto ao erário municipal. CDA que goza de presunção de legitimidade e veracidade dos elementos nela contidos e que não restou ilidida pelo executado. Conhecimento e provimento do recurso.
+Os embargos de declaração opostos foram rejeitados (fl. 235):
+EMBARGOS DE DECLARAÇÃO. NÃO EXISTINDO OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO NO ACÓRDÃO, OS EMBARGOS DEVEM SER REJEITADOS, EIS QUE NÃO SE PRESTAM AO REEXAME DA MATÉRIA QUE FOI OBJETO DO RECURSO PRÓPRIO. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. A MULTA NÃO FOI APLICADA EM RAZÃO DE DANO CAUSADO AO ERÁRIO MUNICIPAL, MAS PELO DESATENDIMENTO DE PRAZO, DILIGÊNCIA OU DECISÃO DO TRIBUNAL DE CONTAS, HIPÓTESE QUE EXCEPCIONA O DISPOSTO NO TEMA Nº 642 DO STF. Conhecimento e desprovimento dos embargos.
+Nas razões de seu recurso, a parte recorrente alega violação ao art. 489, § 1º, VI, do CPC. Argumenta que o acórdão recorrido não enfrentou adequadamente a tese de que o Tema 642 do Supremo Tribunal Federal (STF) não faz distinção entre a natureza das multas aplicadas pelo TCE-RJ, sendo o Município sempre o legitimado para a execução. Assevera que o Tribunal de origem limitou-se a reproduzir dispositivos legais e conceitos jurídicos indeterminados, sem demonstrar concretamente a relação entre a multa aplicada e a legitimidade do Estado para sua execução (fls. 244/246).
+Assevera contrariedade ao art. 92 do Código Civil (CC). Sustenta que o acórdão recorrido contraria o princípio segundo o qual o acessório segue a sorte do principal (accessio cedit principali), uma vez que a multa aplicada pelo TCE-RJ decorre de atos praticados no exercício de função municipal e, portanto, está vinculada ao patrimônio do Município, que seria o único legitimado para a ex ecução (fls. 244/246).
+Aduz que a tese firmada no Tema 642/STF não faz distinção entre multas sancionatórias e ressarcitórias, sendo irrelevante a natureza da multa para fins de definição da legitimidade ativa. Argumenta que o acórdão recorrido diverge da tese vinculante, que estabelece que o Município prejudicado é o legitimado para a execução de crédito decorrente de multa aplicada por Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal (fls. 244/248).
+Aponta a existência de divergência jurisprudencial entre o entendimento adotado pelo Tribunal de origem e precedentes do Superior Tribunal de Justiça (STJ) e do próprio Tribunal de Justiça do Estado do Rio de Janeiro, que, em casos semelhantes, reconheceram a ilegitimidade do Estado para a execução de multas aplicadas pelo TCE-RJ a agentes municipais, com base no Tema 642 do STF (fls. 248/256).
+Requer o conhecimento e o provimento do recurso especial.
+A parte adversa apresentou contrarrazões (fls. 301/314).
+O recurso foi admitido (fls. 316/320).
+É o relatório.
+Passo ao exame do recurso especial.
+Na origem, cuida-se de ação de execução fiscal ajuizada pelo ESTADO DO RIO DE JANEIRO em desfavor de RIVERTON MUSSI RAMOS, com base em Certidão de Dívida Ativa (CDA) emitida em razão de multa administrativa aplicada pelo Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ).
+Quanto à alegada violação aos arts. 489, § 1º, VI, do Código de Processo Civil e 92 do Código Civil, o recurso especial não merece conhecimento.
+O recurso especial tem como uma de suas características a fundamentação vinculada, sendo imprescindível que em suas razões sejam apontados os dispositivos de lei que teriam sido violados pelo acórdão recorrido, com a indicação, de forma clara e direta, da interpretação que se entende deva ser dada à norma, não bastando a mera citação dos dispositivos de lei.
+No caso dos autos, a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como foram violados os dispositivos legais, assim, há deficiência de fundamentação, razão pela qual incide no ponto, por analogia, o enunciado 284 da Súmula de Jurisprudência do STF e dessa parte do recurso não é possível conhecer.
+A propósito:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. REPETIÇÃO DE INDÉBITO. DEVOLUÇÃO DOS VALORES DESCONTADOS A PARTIR DA CITAÇÃO. POSSIBILIDADE. VIOLAÇÃO AO ART. 1º, § 1º, DA LEI Nº 6899/81. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. OFENSA AO ART. 149, § 1º, DA CONSTITUIÇÃO FEDERAL. ANÁLISE DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A ausência de impugnação dos fundamentos utilizados pelo acórdão recorrido, aliada à apresentação de fundamentação deficiente, atrai a aplicação, por analogia, do enunciado n.º 284 da Súmula do Supremo Tribunal Federal.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.658.542/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+TRIBUTÁRIO. PROCESSO CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO ESTATUTO PROCESSUAL. INEXISTÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. LEI COMPLEMENTAR N. 116/2003. ISSQN. LABORATÓRIO DE ANÁLISES CLÍNICAS. SUJEIÇÃO ATIVA TRIBUTÁRIA. TEMA N. 355 DOS RECURSOS ESPECIAIS REPETITIVOS. NECESSIDADE DE DISTINGUISHING.
+ ..
+III - Em relação aos arts. 3º, 4º, 6º, 7º, 8º, 506 e 1.039 do CPC/2015, a par da ausência de comando normativo suficiente para alterar a conclusão alcançada pelo tribunal a quo, a Recorrente não demonstrou, de maneira precisa, como tais violações teriam ocorrido, limitando-se a apontá-las de forma vaga, circunstâncias que atraem, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VI - Recurso Especial parcialmente conhecido e, nessa extensão, improvido.
+(REsp n. 2.030.087/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 20/8/2024, DJe de 28/8/2024.)
+No que tange ao dissídio jurisprudencial, melhor sorte não assiste ao recorrente.
+Consoante a jurisprudência do Superior Tribunal de Justiça, não se conhece do recurso com fundamento em divergência jurisprudencial quando o acórdão indicado como paradigma foi proferido pelo mesmo tribunal prolator do acórdão impugnado, situação que atrai a incidência do enunciado 13 da Súmula de Jurisprudência do STJ.
+A propósito:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DISPOSITIVO LEGAL VIOLADO. FALTA DE INDICAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. INCIDÊNCIA. DIVERGÊNCIA ENTRE JULGADOS DE TRIBUNAIS NÃO VINCULADOS AO STJ. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃO PARADIGMA DO PRÓPRIO TRIBUNAL DE ORIGEM. SÚMULA 13/STJ. PROVIMENTO NEGADO.
+1. A falta de indicação precisa e específica do dispositivo de lei federal violado no acórdão recorrido, assim como ao qual se tenha dado interpretação divergente daquela que a ele houver dado outro tribunal, impede o conhecimento do recurso especial por deficiência na fundamentação recursal. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+2. Descabe a interposição de recurso especial com fulcro no dissídio jurisprudencial de julgados proferidos por tribunais não vinculados ao Superior Tribunal de Justiça (STJ).
+3. Não se conhece do recurso com fundamento em divergência jurisprudencial quando o acórdão indicado como paradigma foi proferido pelo mesmo tribunal prolator do acórdão impugnado, situação que atrai a incidência da Súmula 13 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.696.515/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+Ademais, na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a apontada divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos do Enunciado 284/STF.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO INDENIZATÓRIA. TRANSPORTE COLETIVO. MORTE. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DOS ARTS. 489, § 1º e 1.022, II, DO CPC. DISSÍDIO PRETORIANO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DO ENUNCIADO 284/STF. JUÍZO DE ADMISSIBILIDADE. USURPAÇÃO. SÚMULA 123/STJ.
+ ..
+2. Na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a apontada divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos do Enunciado 284/STF.
+ ..
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.647.925/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
