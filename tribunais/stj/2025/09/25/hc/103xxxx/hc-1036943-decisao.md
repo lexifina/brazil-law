@@ -1,0 +1,15 @@
+DECISÃO
+Neste writ, impugna-se a decisão monocrática do Desembargador Relator da Correição Parcial Criminal n. 2289996-20.2025.8.26.0000, em curso no Tribunal de Justiça de São Paulo, que indeferiu o pedido de suspensão da Ação Penal n. 1507107-15.2023.8.26.0584, em tramitação na 2ª Vara da comarca de São Pedro/SP.
+No processo de origem, DANIELLE FORTUNATO está sendo acusada como incursa no art. 147, caput, art. 163, parágrafo único, I, ambos do Código Penal, art. 15 da Lei n. 10.826/2003 e art. 1º, I, a, da Lei n. 9.455/1998.
+Aqui, alega-se que o Magistrado de primeiro grau indeferiu, de forma genérica, a oitiva das testemunhas defensivas, substituindo a prova oral por declarações escritas, em afronta à legislação processual e constitucional. Sustenta-se que, embora tenham sido manejados diversos meios impugnativos no Tribunal estadual, as liminares foram indeferidas ou não apreciadas. Argumenta-se que a audiência sem a produção da prova requerida compromete a confiabilidade da instrução e viola os princípios da oralidade, imediação e contraditório, o que autoriza a superação da Súmula 691 do Supremo Tribunal Federal diante da flagrante ilegalidade apontada.
+Requer-se, em liminar, a suspensão da ação penal até o julgamento final do presente habeas corpus. No mérito, busca-se a anulação do indeferimento genérico do rol de testemunhas da defesa, com a consequente oitiva integral delas, a redesignação da audiência e as intimações de estilo, bem como o reconhecimento da regra da oralidade - vedada a substituição por declarações escritas sem anuência expressa da defesa - e a fixação de que eventual indeferimento futuro de provas defensivas exija fundamentação concreta e individualizada.
+Estes autos foram a mim distribuídos por prevenção (RHC n. 210.460/SP).
+É o relatório.
+Este habeas corpus foi impetrado contra decisão liminar. A questão de mérito relativa ao indeferimento do rol de testemunhas indicadas exclusivamente pela defesa, ainda não foi apreciada pelo Colegiado competente na instância antecedente, em sede de correição parcial ou de outros feitos em tramitação na Corte paulista.
+Não cabe, portanto, a análise da controvérsia por esta Corte Superior de forma antecipada neste habeas corpus substitutivo.
+De todo modo, convém destacar que, ao Magistrado não é imposta a obrigação de deferir todas as diligências requeridas pela parte, devendo ele analisar a conveniência e necessidade do deferimento de cada pedido.  ..  Além disso, não se pode também reavaliar, em sede de habeas corpus, a respeito do livre convencimento do magistrado (HC n. 355.085/SP, de minha relatoria, Sexta Turma, julgado em 13/12/2016, DJe de 19/12/2016).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA EM CORREIÇÃO PARCIAL. DESCABIMENTO. ANÁLISE ANTECIPADA DO MÉRITO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INADMISSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
