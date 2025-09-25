@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por LAMBETH DO BRASIL PARTICIPAÇÕES LTDA. contra decisão que não admitiu recurso especial manejado, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fl. 50):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. DECISÃO AGRAVADA QUE REJEITOU A IMPUGNAÇÃO OPOSTA PELA AGRAVANTE. MANUTENÇÃO. TENTATIVA DE REDISCUTIR MÁTERIAS ACOBERTADAS PELA COISA JULGADA MATERIAL. DECISÃO PROFERIDA NO AGRAVO DE INSTRUMENTO DE Nº0046943-51.2015.8.19.0000 JÁ TRANSITADA EM JULGADO, INTERPOSTO PELA PRÓPRIA AGRAVANTE ANTERIORMENTE, QUE JÁ DECIDIU SOBRE AS QUESTÕES LEVANTADAS NOVAMENTE NO PRESENTE RECURSO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. INTELIGÊNCIA DO ARTIGO 508 NCPC. GARANTIA FUNDAMENTAL. SEGURANÇA JURÍDICA. EFETIVIDADE DO PROCESSO JUDICIAL. IMPOSSIBILIDADE DE MERA REPETIÇÃO DO RECURSO. DESPROVIMENTO DO RECURSO DE AGRAVO INTERNO.
+Os embargos de declaração opostos foram rejeitados (fls. 69-71).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 489, § 1º, I, II, III, IV e V, e 1.022 do Código de Processo Civil; e os arts. 213, 219 e 234 do Código de Processo Civil de 1973.
+Quanto à suposta ofensa ao art. 489, § 1º, I, II, III, IV e V, do Código de Processo Civil, sustenta que o acórdão recorrido não enfrentou os argumentos deduzidos no processo capazes de infirmar a conclusão adotada, limitando-se a invocar conceitos genéricos e a reproduzir fundamentos de decisões anteriores, sem analisar a questão específica da ausência de intimação pessoal para cumprimento da obrigação de fazer.
+Argumenta, também, que houve violação ao art. 1.022 do Código de Processo Civil, uma vez que os embargos de declaração opostos não foram adequadamente analisados, persistindo omissões relevantes, especialmente no que tange à ausência de intimação pessoal da parte para cumprimento da obrigação imposta.
+Além disso, teria violado os arts. 213, 219 e 234 do CPC/1973, ao não reconhecer a nulidade processual decorrente da ausência de intimação pessoal da recorrente para cumprimento da obrigação de fazer, conforme exigido pela legislação vigente à época e pela Súmula 410 do STJ.
+Alega que a ausência de intimação pessoal para cumprimento da obrigação de fazer imposta em sentença configura nulidade insanável, sendo imprescindível para a validade do ato processual, conforme entendimento consolidado na jurisprudência do Superior Tribunal de Justiça.
+O recurso também aponta divergência jurisprudencial em torno da necessidade de intimação pessoal para cumprimento de obrigação de fazer, citando precedentes do Superior Tribunal de Justiça que reforçam a imprescindibilidade desse ato processual.
+Decorreu o prazo sem apresentação de contrarrazões (fl. 95).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Decorreu o prazo sem apresentação de impugnação (fl. 112).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso merece prosperar.
+Originariamente, trata-se de ação de obrigação de fazer ajuizada pelo CONDOMÍNIO DO EDIFÍCIO SAINT GEORGE em face de LAMBETH DO BRASIL PARTICIPAÇÕES LTDA., na qual foi deferido o pedido de antecipação da tutela para a retirada de cadeado colocado pela ré em porta de acesso a área comum do condomínio.
+Na fase de cumprimento de sentença, a parte ora recorrente alegou a nulidade da cobrança da multa diante da ausência de intimação pessoal do seu representante legal.
+O Juiz de primeira instância rejeitou a impugnação consignando que: a) as matérias atacadas em sede de impugnação ao cumprimento de sentença não admitem mais discussões e não se prestam para descaracterizar o título judicial; b) a alegação de nulidade de citação/intimação já foi objeto de impugnação e agravo de instrumento, apresentados pela executada; e c) a multa, já foi objeto da impugnação apresentada, concluindo que todas as decisões estão abrangidas pelo manto da coisa julgada.
+O Tribunal de origem negou provimento ao agravo interposto pela recorrente, sob o fundamento de que as questões suscitadas estavam acobertadas pela coisa julgada, destacando a eficácia preclusiva prevista no art. 508 do Código de Processo Civil e a impossibilidade de rediscutir matérias já decididas em agravo de instrumento anterior.
+No presente recurso, a parte recorrente alega a ofensa aos arts. 489, § 1º, I, II, III, IV e V, 1.022, ambos do Código de Processo Civil, sob o fundamento que o acórdão recorrido não analisou a questão específica da ausência de intimação pessoal para cumprimento da obrigação de fazer.
+Com razão.
+De fato, em seus embargos de declaração, a parte recorrente requereu a manifestação do Tribunal de origem quanto a ausência de intimação para agir no sentido de cumprir a ordem que contra si lhe fora proferida e não sobre eventual nulidade da citação.
+Da acurada análise do acórdão que julgou os aclaratórios, verifica-se que o Tribunal de origem não tratou sobre o tema, visto que apenas consignou que "observa-se que o V. Acórdão foi preciso sobre as razões que levaram ao julgamento, ressaltando que a Agravante interpôs anteriormente o Agravo de Instrumento de nº 0046943-51.2015.8.19.0000, da relatoria do Ilustre Des. Agostinho Neto, que foi desprovido. Portanto, tais questões, cobertas pelo manto da coisa julgada, não podem ser discutidas. Dessa forma, deve ser mantida a Decisão agravada" (fl. 70).
+O tema também não foi tratado no acórdão de, e-STJ, fls. 50-54, tendo o Tribunal de origem se manifestado apenas em relação à ausência de nulidade da citação e à coisa julgada sobre o tema. Confira-se:
+Compulsando os autos, nota-se que a Agravante interpôs anteriormente o Agravo de Instrumento de nº 0046943- 51.2015.8.19.0000, da relatoria do Des. Agostinho Neto, que foi desprovido, em também a parte executada, ora Agravante, alega, também, a nulidade da citação.
+ ..
+Expedido mandado de citação para o domicílio de Lúcia Caldas, referente ao processo de conhecimento, ela se recusou a receber a contrafé e exarar o ciente, pois segundo alegou: "foi procuradora da ré muitos anos atrás e não aceitava ser citada" (fl. 101, anexo 1).
+Todavia, iniciada a execução, nova citação foi dirigida para a mesma pessoa, que recebeu sem qualquer ressalva (fls. 124/125, anexo 1).
+O agravado demonstrou que no processo n 0032779-93.2006.8.19.0001, em trâmite na 9 Vara Cível da Capital, a Sra. Lúcia Caldas recebeu as intimações direcionadas à agravante (fl. 29).
+Nesse contexto, se o próprio contado da agravante dou quem indicou Lúcia Caldas, como representante da sociedade empresária, e ela tem recebido as citações e intimações, concluo, com base na teoria da aparência, que a diligência foi válida  ..  (fl. 53).
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão atac ado.
+Assim, recusando-se o Tribunal de origem a se manifestar sobre a questão federal, no que se refere à nulidade da intimação para cumprimento da tutela antecipada, terminou por negar prestação jurisdicional.
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial.
+Intimem-se.
+EMENTA
