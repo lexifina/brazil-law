@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pela Companhia Paulista de Trens Metropolitanos (CPTM), no qual se insurge contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO RESPONSABILIDADE CIVIL Pretensão dos Autores ao recebimento de indenização por danos morais e pensionamento em razão de falecimento de familiar em acidente ferroviário Possibilidade Culpa concorrente afirmada pelo C. Superior Tribunal de Justiça no REsp nº 2.088.651/SP Indenização por danos morais fixados de modo razoável e levando em consideração a culpa concorrente da vítima Juros de mora incidentes a partir do evento danoso Súmula nº 54/STJ Pensionamento Necessidade de redução do valor em razão da culpa concorrente Sentença de parcial procedência parcialmente reformada Apelações dos Autores e da Requerida parcialmente providas.
+Não foram opostos embargos de declaração.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 944, parágrafo único, e 945 do Código Civil, argumentando que a fixação do valor do pensionamento mensal deve ser reduzida pela metade devido ao reconhecimento da culpa concorrente da vítima.
+Sustenta ofensa ao entendimento jurisprudencial do Superior Tribunal de Justiça, que fixa o valor do pensionamento em 1/3 do salário mínimo em casos de culpa concorrente
+Contrarrazões apresentadas às fls. 926-930.
+O recurso foi inadmitido na origem (fls. 946-948), daí a interposição do presente agravo em recurso especial (fls. 970-978).
+Contraminuta apresentada às fls. 982-986.
+É o relatório.
+Passo a decidir.
+O recurso especial tem origem em ação de indenização por danos morais e materiais promovida por Silvandira Souza Oliveira e seus filhos contra a Companhia Paulista de Trens Metropolitanos (CPTM), em razão da morte do companheiro e pai dos autores, vítima de atropelamento por composição férrea da ré. A sentença de primeira instância foi parcialmente procedente, fixando indenização por danos morais em R$ 50.000,00 e pensionamento mensal em 2/3 do salário mínimo.
+O tribunal local, ao julgar o recurso de ap elação da recorrente, deu parcial provimento ao apelo para reduzir o pensionamento mensal a 1/2 do salário mínimo vigente à época, sob os seguintes fundamentos:
+Por sua vez, no que toca ao pensionamento mensal, deve-se acolher a pedido da Requerida CPTM.
+A r. sentença condenou a Requerida ao pagamento de pensionamento mensal no valor de 2/3 do salário mínimo vigente à época dos fatos aos familiares da vítima, como se extrai do excerto abaixo transcrito:
+"Os danos materiais decorrem do fato de a vítima fatal apresentar ganhos que revertiam para os autores, esposa e filos menores, sendo presumida a dependência econômica
+Não me parece desproporcional tomar em consideração o salário mínimo como referência na fixação da pensão mensal, até porque é o mínimo necessário e previsto na Constituição Federal para a existência digna e agiu a vítima em concorrência de culpas.
+Aqui, porém, uma consideração deve ser feita. Se considerarmos a quantia equivalente a um salário mínimo como a remuneração mensal da vítima, temos que a pensão aos familiares deve ser estabelecida no importe de 2/3 dessa quantia. Explico.
+Considerando que a pensão mensal deve buscar recompor a condição econômica da família antes do acidente, há que se descontar do salário mínimo a parte da vítima, gasta em vida com seus cuidados pessoais. Assim, se em vida a vítima consumia parte de seus rendimentos, a pensão a que fazem jus seus filhos e esposa deve sofrer o desconto, sob pena de caracterizar proveito econômico indevido.
+Com isto, estabeleço a pensão mensal pretendida no montante de 2/3 do salário mínimo vigente ao tempo do pagamento, sendo certo que tal quantia será dividida igualmente entre a esposa e filhos, com direito de acrescer.
+O limite para o pagamento a ser considerado é a estimativa de vida da vítima admitida na jurisprudência como o de 70 anos de idade. Assim, a família receberá a título de pensão, 2/3 do salário mínimo, até a data na qual a vítima completaria 70 anos.
+Os filhos, porém, receberão suas partes até a data em que completarem 25 anos, quando se presume terem adquirido independência financeira, salvo prova em contrário. Na medida em que completarem a idade limite, sua parte será acrescida aos demais.
+Como forma de garantir o pagamento da pensão mensal, a ré deverá constituir, ainda, capital idôneo em favor das vítimas."
+No entanto, como corretamente apontado pela Requerida CPTM, a fixação do valor do pensionamento mensal deve levar em consideração a culpa concorrente da vítima, tal como realizado quando da fixação do valor da indenização por danos morais.
+Deste modo, considerando-se a culpa corrente da vítima, que, como já afirmado, foi atingida por composição ao trafegar indevidamente na linha férrea, mostra-se proporcional e razoável a fixação do pensionamento em 1/2 do salário mínimo vigente à época.
+De rigor, portanto, a parcial reforma da r. sentença (fls. 849-850).
+Dessa forma, a alteração da conclusão do Tribunal local ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 deste STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No mais, o recurso especial não pode ser conhecido com fundamento em divergência jurisprudencial. Com efeito, o óbice que impede a análise do recurso pela alínea a prejudica o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. TRIBUTAÇÃO MONOFÁSICA. CONSTITUIÇÃO DE CRÉDITOS. IMPOSSIBILIDADE. REGIME DA NÃO-CUMULATIVIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NS. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - É vedada a constituição de créditos da contribuição para o PIS /PASEP e da COFINS sobre os componentes do custo de aquisição de bens sujeitos à tributação monofásica.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas ns. 283 e 284/STF
+III - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria. III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido (AgInt no REsp n. 2.160.118/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024 DJe de 6/12/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
