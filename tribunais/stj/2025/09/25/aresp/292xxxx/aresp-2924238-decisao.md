@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 189/190):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. LEGITIMIDADE PASSIVA DO AVALISTA. PROSSEGUIMENTO DA EXECUÇÃO.
+I. Caso em exame: Apelação interposta contra sentença que julgou improcedentes os embargos à execução, reconhecendo a responsabilidade do apelante como avalista do título executado e determinando o prosseguimento da execução.
+II. Questão em discussão: A questão em discussão consiste em saber se o apelante, na condição de avalista, possui legitimidade para figurar no polo passivo da execução e se há excesso de execução quanto aos juros de mora e correção monetária.
+III. Razões de decidir: O avalista responde solidariamente pela obrigação representada no título executivo, sendo devedor principal independentemente da existência ou validade da obrigação do emitente, conforme previsto nos arts. 897 e 899 do Código Civil e na legislação aplicável a títulos de crédito.
+Os juros de mora e a correção monetária incidem a partir do vencimento do título, nos termos do art. 397 do Código Civil, não havendo excesso de execução quando calculados a partir desse termo inicial.
+IV. Dispositivo e tese: Recurso desprovido. Sentença mantida. "1. O avalista possui legitimidade para figurar no polo passivo da execução e responde solidariamente pela dívida, conforme previsão legal. 2. Os juros de mora e a correção monetária incidem a partir do vencimento do título, não havendo excesso de execução." Dispositivos relevantes citados: Código Civil, arts. 897 e 899; Código de Processo Civil, art. 485, I. Jurisprudência relevante citada: TJGO, Apelação Cível 5259413- 79.2018.8.09.0174, Rel. Des. Gilberto Marques Filho, 3ª Câmara Cível, julgado em 19/03/2024. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Nas razões do recurso especial, a agravante aponta violação dos artigos 662 e 803 do Código de Processo Civil.
+Sustenta que: "nos autos da execução, não restou provado a responsabilidade do Recorrente, e, ao mesmo tempo, em razão da ausência de responsabilidade da emitente do título, este é um título nulo, completamente inexigível" (fl. 203).
+Alega que "não basta a condição de mero gestor para que o Recorrente seja imediatamente responsabilizado pelo débito perseguido através da execução, porquanto que é necessário a comprovação de que o Recorrente tenha agido com dolo ou culpa na execução do mandado, devendo ainda ser discutido sobre as condições de existência e validade do negócio subjacente, bem como se o Recorrido foi negligente ao celebrar negócio de valor expressivo sem tomar as devidas cautelas, o que não é possível em sede de execução" (fl. 205).
+Aduz que "a nota promissória, objeto dessa ação é nula em razão  da  impossibilidade de sua emitente responder legalmente pela mesma, em sendo assim, é nula também a execução" (fl. 207).
+Contrarrazões apresentadas.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 228/231, contra a qual foi interposto o presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, verifica-se que a tese do recurso referente à violação do artigo 662 do CPC não foi enfrentada pelo Tribunal de origem sob a ótica pretendida em suas razões.
+Assim, a simples indicação de dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula 282 do Supremo Tribunal Federal. Era imprescindível que houvesse, no mínimo, a emissão do juízo de valor sobre os artigos em referência, o que, contudo, não ocorreu.
+Ressalte-se ainda que o prequestionamento ficto é admitido somente nas hipóteses em que, não sanada a omissão no julgamento dos embargos de declaração, a parte suscita a ofensa ao art. 1.022 do CPC no recurso especial, o que não ocorreu no caso dos autos, em que não houve sequer a oposição do recurso integrativo.
+Quanto ao mais, o Tribunal estadual, ao reexaminar a questão tratada nos autos, assim se manifestou (fls. 191/193):
+O cerne da questão diz respeito à responsabilidade do apelante sobre a dívida representada pelo título executado, na condição de avalista.
+Cediço que os avalistas são os garantidores da Nota Promissória assumindo obrigação pessoal, como devedores solidários, principalmente quando não ocorreu qualquer alteração das garantias constituídas no título.
+Cumpre destacar que o aval é forma de garantia vinculada a título de crédito, pelo qual o avalista responde pela dívida, pelo que ressai do disposto no art. 897, Código Civil, e disposições da Lei Uniforme de Genebra, artigos 75 a 78, bem como do Decreto nº 2044, artigos 54 a 56, no sentido de que aquele que apõe sua assinatura no título na condição de subscritor, assume, nessa qualidade, a obrigação pelo adimplemento do débito nele representado.
+O aval é caracterizado pela autonomia e equivalência, de forma que a sua existência, validade e eficácia não estão condicionadas à da obrigação principal, bem como define que o avalista é devedor do título da mesma forma que a pessoa, física ou jurídica, por ele avalizada, razão pela qual o aval não comporta benefício de ordem.
+Desse modo, inegável que pode o credor cobrar a dívida tanto do emitente do título executivo, como do avalista, pois todos respondem solidariamente, conforme dispõe o artigo 899 do CPC:
+(..)
+Nesse caso, o avalista responde solidariamente pela integralidade do débito, conforme previsão na Nota Promissória, possuindo legitimidade para figurar no polo passivo da execução de título extrajudicial.
+(..)
+Convém ainda destacar que no julgamento da apelação cível nº 340489.50.2009.8.09.0006, o acórdão reconheceu que embora a Lenir de Souza Carneiro, mãe do executado/apelante, não fosse responsável pelo pagamento da dívida, a execução deveria persistir em relação "ao mero gestor de negócios", que no caso é o embargante, que também é o avalista. Confira-se:
+"Por conseguinte, não havendo a embargante/apelante conferido ao Sr. Vicking José Carneiro poderes para emitir a nota promissória, não subsiste contra si a execução, devendo ser redirecionada ao mero gestor de negócios."
+Portanto, a execução deve prosseguir contra o executado/embargante que é ao mesmo tempo gestor do negócio da mãe e avalista do título de crédito.
+Do que se observa, para afastar as referidas conclusões contidas no julgado, no sentido de revisar o entendimento proferido pelo Colegiado local no presente caso, segundo as razões vertidas neste recurso, seria imprescindível nova análise dos elementos fático-probatórios dos autos, providência que esbarra no óbice da Súmula 7 desta Corte.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da Justiça gratuita.
+Intimem-se.
+EMENTA
