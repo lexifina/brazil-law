@@ -1,0 +1,46 @@
+DECISÃO
+Tratam-se de embargos de declaração opostos por CÉLIO PACHECO contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, alega omissão quanto à violação do art. 386, inciso VII, do Código de Processo Penal, que trata da inexistência de provas suficientes para a condenação, afirmando que a decisão embargada se limitou a aplicar a Súmula n. 7, STJ sem demonstrar a necessidade de revolvimento probatório. Além disso, aponta contradição na análise da nulidade da decisão de recebimento da denúncia, uma vez que a decisão embargada contradiz o acórdão do Tribunal local que rejeitou a preliminar de nulidade. O embargante requer o conhecimento e provimento dos embargos para corrigir as omissões e contradições, e, caso os vícios influenciem na resolução da controvérsia, solicita efeito modificativo e análise de eventuais efeitos infringentes.
+É o relatório. DECIDO.
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Pretende o embargante que sejam supridas omissões e sanadas contradições, a fim de dar efeitos infringentes aos aclaratórios para que seja revista a decisão que não conheceu do recurso especial.
+Destaque-se, inicialmente, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação da decisão embargada.
+Ao analisar os autos, verifica-se que a parte embargante afirma a existência de omissões e contradições.
+No caso concreto, o que se vislumbra é sua irresignação com o resultado do julgamento, haja vista não ter apontado nenhum vício concreto viável na decisão ora recorrida.
+Verifico que os argumentos apresentados não demonstram a busca por qualquer saneamento, mas, sim, a revisão do mérito - o que não é permitido nesta via.
+Com efeito, não ficou demonstrado qualquer vício processual no julgado questionado. A decisão impugnada analisou de forma devidamente fundamentada os pontos relevantes apresentados e concluiu pela legalidade da decisão do Tribunal de origem, não havendo que se falar em reconhecimento dos vícios mencionados.
+Reitero que não há espaço para acolhimento da tese que busca a nulidade da decisão de recebimento da denúncia, na medida em que a decisão embargada demonstrou que as instâncias ordinárias já se manifestaram de maneira satisfatoriamente fundamentada no sentido de afastá-la à luz do acervo probatório contido nos autos (fls. 91-92, 203 e 294).
+Desse modo, reconhecida está a existência de fundamentação concreta e idônea, com menção à presença de subsídios suficientes para autorizar a deflagração da ação penal, reveladores de justa causa, bem como a ausência de hipóteses de absolvição sumária do art. 397 do Código de Processo Penal.
+Ressalto, ainda, que a existência de sentença condenatória proferida nos autos da ação penal esvazia a análise sobre eventual nulidade da decisão de recebimento da denúncia, nos termos da jurisprudência consolidada do Superior Tribunal de Justiça. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. TESE DE NULIDADE. RECEBIMENTO DA DENÚNCIA. PREJUÍZO NÃO DEMONSTRADO. FUNDAMENTAÇÃO SUCINTA QUE NÃO SE CONFUNDE COM AUSÊNCIA DE FUNDAMENTAÇÃO. SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior possui entendimento no sentido de que eventual alegação de nulidade, ainda que absoluta, deve vir acompanhada da demonstração do efetivo prejuízo à parte, o qual não pode ser presumido em razão apenas da prolação de sentença condenatória.
+2. Conforme jurisprudência deste Superior Tribunal de Justiça, "a decisão que recebe a denúncia ou rejeita as hipóteses de absolvição sumária não demanda motivação profunda ou exauriente, sob pena de indevida antecipação do juízo de mérito. A fundamentação sucinta não se confunde com ausência de fundamentação" (HC n. 410.747/SC, Relator Ministro FELIX FISCHER, Quinta Turma, DJe de 19/12/2017).
+3. A superveniência da sentença condenatória prejudica a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+Precedentes.
+4. Na hipótese dos autos, não ficou demonstrado prejuízo concreto à parte, uma vez que o recebimento da denúncia foi efetivamente ratificado pelo Juízo de primeiro grau e as preliminares suscitadas pela defesa foram analisadas, ainda que de forma sucinta, pelo Magistrado, sem perder de vista que a dinâmica dos fatos seria melhor esclarecida com o prosseguimento da instrução criminal. Além disso, a alegação de nulidade fica superada diante da prolação da sentença condenatória, sede em que houve o exame exauriente das provas contidas nos autos.
+5. Agravo regimental a que se nega provimento."
+(AgRg no RHC n. 191.804/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+Por sua vez, igualmente inexiste vício decisório no que tange à alegada violação do art. 386, inciso VII, do Código de Processo Penal, uma vez que a decisão embargada foi clara ao indicar a impossibilidade de se alterar o entendimento das instâncias ordinárias para absolvição do réu por suposta insuficiência de provas, uma vez que seria imprescindível a reanálise do acervo fático-probatório, vedado pela Súmula n. 7, STJ.
+Reafirmo que embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador. Nesse sentido, cito precedentes desta Corte:
+" ..  3. A defesa alega que não busca reexame de provas, mas a revisão dos fundamentos da condenação, sustentando a insuficiência de provas para a condenação do agravante.
+ ..
+6. O pleito de absolvição por insuficiência de provas demanda o reexame do conjunto fático-probatório, procedimento vedado em sede de recurso especial, conforme Súmula n. 7 do STJ
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. Estando a condenação amparada em provas suficientes de materialidade e autoria em relação ao crime imputado, o pleito absolutório defensivo encontra óbice no enunciado da Súmula n. 7 do STJ, a qual veda o reexame fático-probatório via recurso especial.  .. "
+(AgRg no AREsp n. 2.586.207/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.);
+" ..  5. A desconstituição da conclusão das instâncias ordinárias e o acolhimento da tese de absolvição por excludente de culpabilidade ou por insuficiência probatória exigiriam reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. A revaloração de prova, quando exige juízo de novo convencimento a partir de elementos instrutórios, encontra os mesmos limites do reexame fático, sendo igualmente obstada pela jurisprudência consolidada desta Corte. IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Tese de julgamento:
+A alegação de coação moral irresistível como excludente de culpabilidade exige prova inequívoca, cujo exame e valoração competem às instâncias ordinárias.
+O afastamento das teses de excludente de culpabilidade ou de insuficiência de provas pelas instâncias ordinárias impede sua rediscussão em recurso especial, por demandar reexame fático-probatório, vedado pela Súmula 7 do STJ.
+A revaloração de provas, quando implica novo juízo de convencimento sobre os fatos, também encontra limite na vedação do reexame de provas em recurso especial."
+(AgRg no AREsp n. 2.776.014/CE, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 20/5/2025, DJEN de 27/5/2025).
+Concluo, portanto, que a matéria restou devidamente debatida na decisão recorrida, nos limites da via eleita, de forma que não há falar em omissão ou contradição do julgado.
+Ademais, conforme entendimento desta Corte, a contradição que autoriza a oposição de embargos de declaração é a verificada entre os elementos que compõe a decisão judicial, e não a divergência entre o resultado pretendido pela parte e o efetivamente alcançado (EDcl no AgRg no REsp 1427222/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/06/2017, DJe 02/08/2017).
+Assim, extrai-se da argumentação apresentada pelo recorrente, a par da alegada contradição, o desejo de ver modificado o resultado do julgamento.
+Os embar gos de declaração, contudo, não se prestam à tal finalidade, uma vez que consubstanciam recurso destinado ao esclarecimento da decisão embargada (EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 23/3/2022, DJe de 25/3/2022).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
