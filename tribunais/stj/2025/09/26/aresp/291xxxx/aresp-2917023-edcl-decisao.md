@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se embargos de declaração opostos por JOÃO ERNESTO MAGRI e ONEIDE COSTENARO MAGRI, contra decisão que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nesta extensão, negou-lhe provimento (e-STJ, fls. 674-677), nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE EM TESE REPETITIVA. AGRAVO INTERNO JULGADO IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. ÚNICO RECURSO CABÍVEL POR PREVISÃO LEGAL EXPRESSA. PRECLUSÃO DA CONTROVÉRSIA REFERENTE AO TEMA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 141, 489, 1.013, I, II, DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação indenizatória por danos materiais e compensação por danos morais.
+2. Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 141, 489, 1.013, I, II, do CPC.
+5. Modificar a conclusão do Tribunal de origem no sentido de que a responsabilidade da instituição financeira implica reexame de fatos e provas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido. (e-STJ, fl. 674)
+Em suas razões, a parte embargante alega que a decisão monocrática incorre em omissão e/ou erro material ao afirmar "Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem" (e-STJ, fl. 677), pois os honorários sucumbenciais foram fixados nas instâncias ordinárias: na apelação, o TJ/RS redistribuiu a sucumbência e fixou honorários em favor do procurador dos autores em 15% sobre o valor da condenação (R$ 22.000,00), nos termos do art. 85, § 2º, do CPC, além de custas e honorários devidos pela parte ré (e-STJ, fl. 678-679). Requer, assim, o saneamento da omissão para a devida majoração dos honorários de sucumbência recursal, com base no art. 85, § 11, do CPC.
+É o relatório.
+De fato, a decisão embargada contém vício na análise da existência de honorários sucumbenciais fixados nas instâncias ordinárias, circunstância que autoriza a avaliação da majoração de honorários na esfera recursal (art. 85, § 11, do CPC), em contraste com a afirmação de inexistência de arbitramento na origem (e-STJ, fl. 677), conforme demonstrado pelo acórdão do TJ/RS que redistribuiu a sucumbência e fixou honorários em favor do procurador dos autores, ora embargantes, em 15% sobre o valor da condenação (e-STJ, fls. 678-679).
+Forte nessas razões, ACOLHO os embargos de declaração para, sanando o vício da decisão de fls. 674-677 (e-STJ), majorar em mais 3% os honorários advocatícios arbitrados anteriormente em desfavor da parte embargada pelo TJ/RS à e-STJ Fl. 679, nos termos do § 11 do art. 85 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ACOLHIMENTO.
+1. A existência de omissão na decisão embargada conduz ao acolhimento da pretensão.
+2. Embargos de declaração acolhidos para, sanando omissão, majorar os honorários recursais.
