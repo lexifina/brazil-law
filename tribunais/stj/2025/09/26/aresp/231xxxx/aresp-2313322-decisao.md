@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ - CAGECE se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 102):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO DE COBRANÇA DE SERVIÇO DE ÁGUA TRATADA E COLETA DE ESGOTO. SENTENÇA DE PARCIAL PROCEDÊNCIA. CONDENAÇÃO DO USUÁRIO AO PAGAMENTO DA DÍVIDA EM RELAÇÃO AOS SERVIÇOS JÁ PRESTADOS. PRETENSÃO RECURSAL DE CONDENAÇÃO NAS PARCELAS VINCENDAS. AFASTAMENTO. NECESSIDADE DE COMPROVAÇÃO E UTILIZAÇÃO DOS SERVIÇOS CONTRATADOS. PRECEDENTES. RECURSO CONHECIDO E DESPROVIDO.
+1. Infere-se do caderno processual que a apelante ingressou com a ação ordinária de cobrança pretendendo o recebimento dos débitos inadimplidos nos período de outubro/2003 a agosto/2011, perfazendo o total de R$ 7.307,03 (sete mil trezentos e sete reais e três centavos), além do pagamento das demais parcelas que se vencerem no curso da demanda.
+2. Malgrado a pretensão recursal, não há o que dissentir da conclusão a que chegou a autoridade sentenciante uma vez que a cobrança em apreço refere-se a serviço de água, não autorizando a incidência da regra processual prevista no art. 290 do CPC/1973, correspondente ao artigo 323 do CPC/2015.
+3. Não se pode comparar a relação jurídica em comento com outras cuja parcela tem valor pré-determinado, em que cabível a condenação de parcelas futuras independentemente da prévia certeza de seus respectivos valores. Nesse compasso, diferentemente do que sustenta a recorrente, não se tem in casu prestação sucessiva, mas prestação de serviço mensal a ser adimplida na proporção do consumo, constituindo-se uma relação nova a cada mês.
+4. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 128/132).
+Nas razões do recurso especial (fls. 135/151), a recorrente alega violação do art. 323 do Código de Processo Civil (CPC) e do art. 29 da Lei 11.445/2007, ao sustentar que as parcelas vencidas no decorrer do processo devem integrar a condenação, por se tratar de obrigação de trato sucessivo.
+Requer, ao final, o provimento do recurso especial para que seja reformado o acórdão recorrido e determinada a inclusão das parcelas vencidas no curso do processo na condenação.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido (fls. 156/159), razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação de cobrança ajuizada pela COMPANHIA DE ÁGUA E ESGOTO DO CEARÁ CAGECE contra FRANCISCO JOSE OLIVEIRA DA COSTA, com o objetivo de receber o montante de R$ 7.307,03 (sete mil, trezentos e sete reais e três centavos), referente a tarifas de fornecimento de água tratada e coleta de esgoto não quitadas entre outubro de 2003 e agosto de 2011, além das parcelas que viessem a vencer no curso da demanda.
+O Juízo de primeiro grau julgou parcialmente procedente o pedido, condenando o réu ao pagamento do débito principal com acréscimos legais, mas afastou a inclusão das parcelas vincendas. Em grau recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ manteve a sentença ao fundamento de que a cobrança em questão não se caracterizava como obrigação de trato sucessivo, mas sim como prestações mensais vinculadas ao efetivo consumo, que deviam ser individualmente comprovadas.
+Para o Superior Tribunal de Justiça, embora o art. 323 do CPC permita a inclusão na condenação das parcelas vincendas no cumprimento da obrigação , faz-se necessário que a parte autora comprove a consistência da pretensão.
+No caso concreto, a Corte de origem, acompanhando a fundamentação da sentença, registrou que as parcelas vincendas decorriam de fatos jurídicos distintos e, por isso, deviam ser individualmente comprovadas (fl. 104). Acrescentou, ainda, que o serviço de fornecimento de água e esgoto não possuía valor fixo, sendo cobrado de acordo com o consumo mensal. Logo, a conclusão que se extrai é a de que a pretensão da ora recorrente carece de consistência.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. TARIFA DE ÁGUA E ESGOTO. NATUREZA DAS PRESTAÇÕES. INTELIGÊNCIA DO ART. 323 DO CPC/2015. NECESSIDADE DE REVOLVIMENTO DO CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior de Justiça firmou o entendimento de que, embora o art. 290 do CPC/1973, atual art. 323 do CPC/2015, permitisse a inclusão das parcelas vincendas no cumprimento da obrigação na condenação, fazia-se necessário que a parte autora comprovasse a consistência da pretensão.
+2. Segundo o aresto impugnado, de tal ônus não se desincumbiu a recorrente, o que inviabiliza a análise da questão na via especial em razão do óbice da Súmula 7/STJ.
+3. Agravo Interno a que se nega provimento.
+(AgInt no REsp n. 1.972.718/CE, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022, sem destaques no original.)
+No mesmo sentido são as seguintes decisões monocráticas em situação análoga a dos autos: REsp 1.974.923, Ministro Gurgel de Faria, DJe de 2/8/2022; e REsp 1.942.867, Ministro Benedito Gonçalves, DJe de 8/10/2021.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
