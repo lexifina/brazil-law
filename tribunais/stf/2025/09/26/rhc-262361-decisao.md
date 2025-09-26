@@ -1,0 +1,107 @@
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI Nº 11.343/2006. REDISCUSSÃO DE CRITÉRIOS DE DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. ALEGADA NULIDADE. INVIABILIDADE DO WRIT PARA REANALISAR PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS E AÇÕES DA COMPETÊNCIA DE OUTROS TRIBUNAIS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º do RISTF. Prejudicado o exame do pedido liminar.
+
+    Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão do Superior Tribunal de Justiça no HC nº 1.005.220, assim ementado:
+
+    “PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA DA PENA. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. FLAGRANTE ILEGALIDADE VERIFICADA APENAS NO RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. CONCESSÃO DE OFÍCIO LIMITADA A TAL QUESTÃO. AGRAVO REGIMENTAL DESPROVIDO.
+
+    1. A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+
+    2. Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+
+    3. E, no caso, verificou-se a ocorrência de flagrante ilegalidade na dosimetria apenas no ponto referente ao não reconhecimento da atenuante da confissão espontânea, de modo que a concessão de ofício limitou-se a tal questão.
+
+    4. Agravo regimental desprovido.”
+
+    Colhe-se dos autos que o paciente foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, bem como ao 666 (seiscentos e sessenta e seis) dias-multa, pela prática do crime previsto no artigo 33, caput, da Lei nº 11.343/2006.
+
+    Em sede de apelação, o Tribunal de origem negou provimento ao recurso.
+
+    Irresignada, a defesa impetrou writ perante o Superior Tribunal de Justiça, o qual foi julgado nos termos da ementa acima transcrita.
+
+    Neste recurso ordinário, a defesa sustenta a existência de constrangimento ilegal consubstanciado em suposta nulidade no Tribunal a quo.
+
+    Aponta ilegalidade decorrente do indeferimento liminar do writ no Tribunal a quo, ao argumento de que “dois pontos centrais do habeas corpus não foram analisados - ou, se foram, sobre eles não houve manifestação - porque o writ ataca condenação transitada em julgado, tendo sido impetrado, no entendimento do Min., ‘como sucedâneo de recurso próprio ou de revisão criminal’”. Ressalta “que, caso o habeas corpus seja liminarmente indeferido sem que haja manifestação acerca dos pontos sobre os quais não se manifestou o Min., o sistema judicial vai optar de forma absolutamente ilegítima manter viva uma ilegalidade, e, consequentemente, a violação injusta à liberdade de um cidadão”. Alega que “o indeferimento liminar do mandamus sem análise do que nele é ventilado está sendo justificado em limitações que não estão previstas em nenhum texto legal, ou seja, que não existem”. Pondera que “a análise seletiva ou restritiva dos pedidos realizados em habeas corpus com base em formalismos processuais como o trânsito em julgado contradiz a própria essência do remédio constitucional”. Aduz ser “necessário que o habeas corpus, ainda que sucedâneo de medida própria, como a revisão criminal, seja ao menos analisado, mesmo que não conhecido ou liminarmente indeferido, com vistas a se verificar se há ilegalidade flagrante que enseje a concessão da ordem de ofício”. Pugna para que o Tribuna a quo “realize uma análise mínima dos argumentos não analisados, referentes à pena-base e ao regime prisional, com vistas à manifestação sobre a existência ou não de ilegalidade flagrante, mediante devida fundamentação”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Ante o exposto, a Defensoria Pública da União – Categoria Especial pugna pelo conhecimento do presente recurso ordinário em recurso em habeas corpus a fim de que, examinada a documentação que o instrui, seja concedido, de plano, o pedido liminar - caracterizado no fumus boni iuris e no periculum in mora, a fim de obstar o acórdão proferido pela C. 6ª Turma do eg. Superior Tribunal de Justiça e, no mérito, a concessão da ordem pleiteada para fins de que, conforme acima exposto, seja reformado o acórdão ora impugnado, fazendo cessar o constrangimento ilegal sofrido pelo ora recorrente, para fins de seja conhecido o writ em questão e concedida a ordem.
+
+    Por oportuno, requer-se a concessão do benefício da assistência jurídica gratuita, com a consequente isenção do recolhimento de custas, haja vista que o ora recorrente se encontra assistido pela Defensoria Pública da União.
+
+    Outrossim, requer que a Defensoria Pública da União seja intimada pessoalmente de todos os atos processuais na pessoa do Defensor Público-Geral Federal, com a prerrogativa do prazo em dobro, conforme estabelece o art. 44, I da LC nº 80/94.”
+
+    É o relatório, DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “Na espécie, verifico que, não obstante as razões defensivas, não há argumentos aptos a ensejar a alteração do entendimento firmado na decisão agravada, a qual deve ser mantida pelos próprios fundamentos (e-STJ fls. 364/368):
+
+    A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção. [...]
+
+    Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+
+    No caso dos autos, verifico flagrante ilegalidade na dosimetria, a atrair a concessão da ordem de ofício. Senão vejamos.
+
+    De fato, quanto à confissão do crime de tráfico de drogas, o Tribunal de origem deixou de aplicar a atenuante ao argumento de que a confissão teria sido parcial.
+
+    Ora, não há empecilho à aplicação da atenuante prevista no art. 65, III, "d", do Código Penal, no percentual de 1/6, considerando que esta Corte Superior assentou a orientação de que mesmo a confissão qualificada permite a sua incidência. Nesse sentido: [...]
+
+    Quanto aos delitos de associação e de resistência, todavia, não há falar na aplicação da benesse em referência, pois os autos evidenciam que o paciente negou a prática de tais crimes (e-STJ fls. 21/25).
+
+    Ainda, no julgamento do REsp n. 1.341.370/MT, da relatoria do Ministro Sebastião Reis Júnior, proferido sob o rito dos recursos repetitivos, a Terceira Seção desta Corte pacificou o entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência". [...]
+
+    Assim, faz-se necessária a readequação das penas dos delitos de tráfico de drogas e posse ilegal de arma de fogo e munições.
+
+    TRÁFICO DE DROGAS
+
+    Mantida a pena-base em 1/3 acima do mínimo legal, e reduzida em 1/6, na segunda fase, pela atenuante da confissão espontânea, a sanção alcança o patamar definitivo de 5 anos, 6 meses e 20 dias de reclusão, ante a ausência de outras causas modificativas da pena.
+
+    Mantido, no mais, o acórdão impetrado.
+
+    Este o quadro, indefiro liminarmente o presente habeas corpus. Concedo, todavia, a ordem de ofício, nos termos ora delineados.
+
+    Ora, como se vê da decisão objurgada, in casu, verifiquei a ocorrência de flagrante ilegalidade na dosimetria apenas no ponto referente ao não reconhecimento da atenuante da confissão espontânea, razão pela qual a concessão da ordem de ofício limitou-se a tal questão. [...]”
+
+    Na espécie, em relação à alegada “ilegalidade consubstanciada na dosimetria da pena e no regime prisional impostos”, verifico a ausência de manifestação do Tribunal a quo sobre esse aspecto do mérito.
+
+    Nesse contexto, o conhecimento deste ponto da impetração sem que a instância precedente tenha examinado a matéria levada a seu conhecimento consubstancia indevida supressão de instância e, por conseguinte, violação das regras constitucionais definidoras da competência dos Tribunais Superiores, valendo conferir os seguintes precedentes desta Corte:
+
+    Direito processual penal. Agravo regimental em habeas corpus. Crimes de tortura, roubo majorado e corrupção de menores. Pedido de prisão domiciliar. Inadequação da via eleita. Supressão de instâncias. Jurisprudência do Supremo Tribunal Federal. 1. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux). 2. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça (STJ), não compete ao STF examinar a questão de direito implicada na impetração. Precedentes. 3. As alegações da defesa não foram sequer analisadas pelas instâncias de origem (Tribunal de Justiça do Estado de São Paulo e STJ). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias. 4. A Segunda Turma do STF, no julgamento do HC 143.641, Rel. Min. Ricardo Lewandowski, decidiu pela “substituição da prisão preventiva pela domiciliar – sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP – de todas as mulheres presas, gestantes, puérperas ou mães de crianças e deficientes, nos termos do art. 2º do ECA e da Convenção sobre Direitos das Pessoas com Deficiências (Decreto Legislativo 186/2008 e Lei 13.146/2015), relacionadas neste processo pelo DEPEN e outras autoridades estaduais, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício” (grifos acrescentados). Na sequência, determinou a “extensão da ordem de ofício a todas as demais mulheres presas, gestantes, puérperas ou mães de crianças e de pessoas com deficiência, bem assim às adolescentes sujeitas a medidas socioeducativas em idêntica situação no território nacional, observadas as restrições acima” (grifos acrescentados). 5. Trata-se de paciente presa preventivamente pela suposta prática dos crimes de tortura, roubo majorado e corrupção de menores. De modo que, tendo os crimes sido praticados com violência, não é possível estender à acionante os efeitos da decisão proferida pela Segunda Turma do STF. Precedente: o HC 156.026-AgR, Rel. Min. Edson Fachin. 6. Agravo regimental a que se nega provimento. (HC 216.782-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 31/8/2022)
+
+    AGRAVO INTERNO EM HABEAS CORPUS. DECISÃO CONDENATÓRIA TRANSITADA EM JULGADO. HABEAS CORPUS UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE EVIDENTE. HABEAS CORPUS NÃO CONHECIDO. 1. É inviável a utilização do habeas corpus como sucedâneo de revisão criminal. 2. Não se admite o habeas corpus, por caracterizar supressão de instância, quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator. 3. A revisão da fração aplicada na dosimetria da pena é inadmissível na via estreita do habeas corpus, que não comporta dilação probatória. 4. Ausentes ilegalidade ou vício de fundamentação, não cabe refazer a dosimetria da pena em habeas corpus. 5. Agravo interno desprovido. (HC 217.613-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 6/10/2022)
+
+    Demais disso, no tocante à alegada “ilegalidade decorrente do indeferimento liminar do writ no Tribunal a quo”, observo que o exame da pretensão defensiva tem por objeto a análise em torno da admissibilidade, do espectro de cognoscibilidade e do procedimento referente a ações da competência de outros tribunais.
+
+    Nessa perspectiva, esclareço que o objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, art. 5º, LXVIII), não cabendo sua utilização para reexaminar pressupostos de admissibilidade de recursos ou, mutatis mutandis, ações da competência de outros tribunais, conforme entendimento pacificado neste Tribunal:
+
+    Direito processual penal. Agravo regimental em habeas corpus. Frustração do caráter competitivo de licitação. Análise de pressupostos de admissibilidade de recurso interposto perante outro Tribunal. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal. 1. O entendimento do Supremo Tribunal Federal (STF) é no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). 2. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence). 3. A moldura factual retratada no acórdão impugnado revela que o Superior Tribunal de Justiça não precisou revolver fatos e provas para concluir pela valoração negativa da culpabilidade do paciente. As peças que instruem este processo sinalizam, ao contrário, que a autoridade impetrada tão somente aplicou o direito infraconstitucional à espécie, considerada a moldura fática delineada pelas instâncias de origem. 4. Agravo regimental a que se nega provimento. (HC 216.683-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 31/8/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO. TRÁFICO DE DROGAS. EXAME DE PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DE OUTROS TRIBUNAIS. INVIABILIDADE. DOSIMETRIA DA PENA. INOVAÇÃO RECURSAL. INVIABILIDADE. I. CASO EM EXAME 1. Paciente condenado a 10 anos de reclusão, em regime fechado, pela prática do crime de tráfico de drogas. II. QUESTÃO EM DISCUSSÃO 2. Recurso Ordinário no qual se buscou o rejulgamento da causa no âmbito do Superior Tribunal de Justiça. E, neste Agravo Interno, a insurgência se volta também contra a dosimetria da pena. III. RAZÕES DE DECIDIR 3. Esta CORTE já decidiu que "O objeto da tutela em habeas corpus é a liberdade de locomoção quando ameaçada por ilegalidade ou abuso de poder (CF, art. 5º, LXVIII)”, descabendo sua utilização para reexaminar pressupostos de admissibilidade de demandas postas em outros tribunais (HC 149.831-AgR/PR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 15/3/2018). 4. O pedido relacionado à dosimetria da pena não foi apresentado na petição inicial. Veiculado apenas no Agravo Interno, constitui indevida inovação recursal. IV. DISPOSITIVO 5. Agravo Regimental a que se nega provimento. (RHC 243.544-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 2/9/2024)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. INVIABILIDADE DO WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DA ANÁLISE DOS FUNDAMENTOS CONSTANTES DO ATO COATOR POR COLEGIADO DAQUELE SUPERIOR TRIBUNAL. REEXAME DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO ESPECIAL INCABÍVEL EM HABEAS CORPUS. AGRAVO AO QUAL SE NEGA PROVIMENTO. I - O art. 102, I, i, da Constituição Federal estabelece que a competência deste Supremo Tribunal Federal – STF para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do STF, ou se trate de crime sujeito à mesma jurisdição em uma única instância. A ausência da análise dos fundamentos constantes do ato coator por colegiado do Superior Tribunal de Justiça impede o prosseguimento deste writ. II - A jurisprudência deste Supremo Tribunal Federal é firme no sentido de não ser o habeas corpus meio hábil para discutir questões alheias à liberdade de locomoção, tais como tempestividade ou ausência dos pressupostos de admissibilidade recursal de outro tribunal. III - Agravo ao qual se nega provimento. (HC 232.464-AgR, Primeira Turma, Rel. Min. Cristiano Zanin, DJe de 2/2/2024)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA. AUSÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. A jurisprudência desta Corte é firme no sentido do não cabimento de habeas corpus destinado ao reexame dos pressupostos de admissibilidade de recurso interposto no Superior Tribunal de Justiça. Precedentes. 3. Agravo regimental desprovido. HC 211.364-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 24/8/2022)
+
+    Outrossim, eventual exame da pretensão defensiva demandaria uma indevida incursão na moldura fática delineada nos autos. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CRFB/88, ART. 102, I, D E I. HIPÓTESE QUE NÃO SE AMOLDA AO ROL TAXATIVO DE COMPETÊNCIA DESTA SUPREMA CORTE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. INÉPCIA DA DENÚNCIA. NÃO CARACTERIZADA. CUSTÓDIA PREVENTIVA DEVIDAMENTE FUNDAMENTADA. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. ALEGADO EXCESSO DE PRAZO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (HC 130.439, Primeira Turma, Rel. Min. Luiz Fux, DJe de 12/5/2016)
+
+    Ainda, não cabe a rediscussão da matéria perante esta Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217.371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+    Ex positis, NEGO SEGUIMENTO ao recurso ordinário em habeas corpus, com fundamento no artigo 21, § 1º do RISTF. Prejudicado o exame da medida liminar.
+
+    Publique-se.
+
+    Brasília, 26 de setembro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
