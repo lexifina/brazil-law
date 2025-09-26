@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ANA LUCIA RIBEIRO MATOS e OUTRO se insurgiram, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 854/855):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ADSTRIÇÃO AO PEDIDO. COISA JULGADA. INOCORRÊNCIA. LITISCONSORTE PASSIVO NECESSÁRIA. INEXISTÊNCIA. PRESCRIÇÃO NÃO CONFIGURADA. DESVIO DE FUNÇÃO NÃO COMPROVADO. ÔNUS DA PROVA. ART. 373, I DO CPC. REMESSA NECESSÁRIA E APELAÇÃO PROVIDAS.
+1. Trata-se de remessa necessária, tida por interposta, e apelação proposta em face de sentença que julgou parcialmente procedente a pretensão autoral, declarando a ocorrência de desvio de função e condenando ao pagamento da diferença salarial das remunerações, gratificações e demais vantagens inerentes ao cargo de Fiscal de Contribuições Previdenciárias (atualmente denominado Auditor Fiscal da Receita Federal do Brasil).
+2. O juiz está limitado a proferir seu voto nos termos do pedido realizado judicialmente, em consonância com o art. 492 CPC/15.
+3. Não há que se falar em coisa julgada, eis que se discute nos presentes autos alegado desvio de função. Ou seja, não se trata de objeto da demanda o reenquadramento das partes em razão da Lei 7.293/84, matéria esta objeto de coisa julgada nas ações 0017698-06.2007.4.02.5101 e 0013452- 93.2009.4.02.5101.
+4. Quanto ao litisconsorte passivo necessário, o Juízo singular promoveu análise dos autos de forma diligente, dentro da razoabilidade jurídica, ao afirmar que "o presente feito não tem por escopo o reenquadramento dos autores no novo cargo vinculado à Receita Federal e sim o reconhecimento da ocorrência de desvio de função promovido pela Autarquia demandada, com os seus consectários".
+5. Afasta-se a alegação de prescrição do próprio fundo do direito, pois eventual pagamento em razão de desvio de função é relação de trato sucessivo, que se renova mês a mês, portanto, atual, não sendo plausível a perpetuação da ilegalidade constatada pelo Poder Público.
+6. Não restou demonstrado nos autos que os servidores exerceram atribuições do cargo de oficial de Previdência.
+7. Compete à parte autora demonstrar os fatos constitutivos de seu direito, nos moldes do art. 373, I do CPC/15, sendo que o conjunto probatório inserto aos autos não demonstra ser patente para concluir pelo desvio de função, impondo-se a improcedência da demanda.
+8. Remessa necessária e apelação providas.
+Os embargos de declaração opostos foram negados (fls. 903/905).
+Nas razões de seu recurso especial, a parte recorrente alega violação aos arts. 1.022, II e parágrafo único, 489, § 1º, IV, 373, I, do Código de Processo Civil (CPC).
+Argumenta que:
+(1) O Tribunal de origem foi omisso quanto à matéria discutida;
+(2) O acórdão recorrido desconsiderou a comprovação do desvio de função, ignorando a prova documental apresentada; e
+(3) "constata-se que a documentação referente ao processo administrativo nº 52.184/74, que se encontra acostada à peça inaugural (evento 1 - OUT5), não foi refutada pela autarquia demandada, à qual incumbia o ônus da prova quanto ao fato impeditivo, modificativo ou extintivo do direito dos autores, a teor do art. 373, inciso II do CPC/2015, restando, portanto, incontroverso o reconhecimento pela Administração Previdenciária do desvio de função dos autores, pois, ao exercerem a função de Diligentes Externos de Arrecadação, passaram a exercer, na realidade, a função de Fiscais de Contribuições Previdenciárias, em virtude do desempenho comprovado das mesmas atividades de fiscalização e arrecadação dos fiscais previdenciários" (fls. 926/927).
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 984/988).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, "trata-se de ação ordinária, ajuizada por LEA PINTO CORDEIRO, ADELSON REBELO DA SILVA, CARLOS ALBERTO FERREIRA DE SOUZA, ANA LÚCIA RIBEIRO MATOS e NORMA IAVECHIA GOMES em face do INSS - Instituto Nacional do Seguro Social, objetivando que seja declarado "o desvio de função dos autores, em respeito ao comando da Súmula 378 do Eg. STJ c/c o disposto no art. 1º Lei nº 7.293/84, que determinou o enquadramento dos demandantes, então agentes administrativos, como "Oficiais de Previdência", por terem exercido a função de "Diligentes Externos de Arrecadação", ou seja, "Fiscais de Contribuições Previdenciárias", em razão do desempenho comprovado das mesmas atividades de fiscalização e arrecadação desta última categoria" (fl. 759).
+A sentença julgou parcialmente procedentes os pedidos para condenar "o INSS  a  pagar os atrasados, acrescidos de juros legais desde a citação, e correção monetária, nos termos do Manual de Cálculos da Justiça Federal, desde a data em que cada parcela seria devida" (fl. 779).
+O Tribunal de origem reformou a sentença e julgou improcedente a pretensão autoral.
+Nas razões do recurso especial, relativamente ao art. 1.022 do Código de Processo Civil, a parte recorrente alegou somente o seguinte (fl. 919):
+a) DA CONTRARIEDADE DE LEI FEDERAL, EM FLAGRANTE VIOLAÇÃO AOS ARTIGOS 1.022, INCISO II E PARÁGRAFO ÚNICO, INCISO II c/c ARTIGO 489, §1º, INCISO IV, DO CPC/2015 EM RELAÇÃO AO ARTIGO 373, I DO MESMO DIPLOMA ADJETIVO CIVIL
+Dessa parte do recurso não é possível conhecer porque não foram indicados os pontos sobre os quais o julgador deveria ter se manifestado, restringindo-se parte a alegações genéricas. As razões recursais são deficientes, o que inviabiliza a compreensão da controvérsia.
+No presente caso, por analogia, incide a Súmula 284 do Supremo Tribunal Federal (STF).
+Nas razões de seu recurso especial, a parte ora recorrente sustenta que "os demandantes recorrentes comprovaram o desvio de função ocorrido, demonstrando, à saciedade, o fato constitutivo do seu direito, tendo o v. aresto ignorado a robusta prova documental existente no processo" (fl. 924) e que competiria à parte contrária refutar a documentação acostada aos autos.
+Quanto ao ponto, no acórdão recorrido, o Tribunal de origem decidiu nestes termos (fls. 852/853):
+Quanto ao mérito recursal, em que pese a pretensão autoral contrariar o espírito constitucional, os princípios da escolaridade e do interesse público, com regência da Administração Pública, que instituiu o concurso público como meio de acesso aos cargos públicos, com vistas a evitar defraudações sobre a coisa pública, por meio de relações pessoais que venham ferir a probidade administrativa, não restou comprovado nos autos o alegado desvio de função.
+A banalização do instituto dá margem a esquemas e partidarismos, dos quais servidores e chefias podem se aproveitar a fim de, realizando atividades supostamente além dos limites de seus cargos, virem a receber retribuição financeira a maior do que lhes é devida.
+ .. .
+Em suma, no caso dos autos não restou demonstrado que os servidores exerceram atribuições do cargo de oficial de Previdência.
+Destaco que compete à parte autora demonstrar os fatos constitutivos de seu direito, nos moldes do art. 373, I do CPC/15, sendo que o conjunto probatório inserto aos autos não demonstra ser patente para concluir pelo desvio de função, impondo-se a improcedência da demanda.
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, concluiu que não restou demonstrado que os servidores exerceram atribuições do cargo de oficial de Previdência.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
