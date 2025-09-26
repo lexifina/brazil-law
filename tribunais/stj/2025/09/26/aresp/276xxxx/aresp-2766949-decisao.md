@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual FRANCISCA ALVES GUERREIRO se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 113):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADORA RURAL. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. NÃO PREENCHIMENTO DOS REQUISITOS DA LEI 8.213/91. APELAÇÃO DESPROVIDA.
+1. A concessão do benefício especial de aposentadoria rural exige idade completa de 55 anos, se mulher, e 60 anos, se homem (art. 48, § 1º da Lei 8.213/91); o cumprimento da carência prevista no art. 142 da mesma Lei, mediante a existência de prova documental plena ou início de prova material da atividade rural exercida corroborada por robusta prova testemunhal, não sendo admissível a prova meramente testemunhal para o deferimento do benefício. (Súmula 149 do STJ).
+2. No presente caso, os documentos apresentados não são considerados hábeis a comprovar o exercício da atividade alegada por tempo suficiente a cumprir a carência exigida em lei, visto que são extemporâneos ao período de carência necessário que se quer comprovar, e/ou se baseiam em declarações unilaterais não submetidas a um controle mais rígido no momento de sua emissão, como é o caso da Certidão Eleitoral.
+3. A parte autora não logrou êxito em comprovar a sua condição de trabalhadora rural na qualidade de segurada especial, porquanto não apresentou início de prova material capaz de comprovar o exercício de atividade rural, por tempo suficiente à carência e, ausente o início de prova material, a prova testemunhal produzida não pode ser exclusivamente admitida para reconhecer o tempo de exercício de atividade rural (STJ, Súmula 149 e TRF1, Súmula 27).
+4. Apelação da parte autora desprovida.
+Os embargos de declaração opostos foram rejeitados (fls. 130/142).
+Nas razões de seu recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 55, § 3º, da Lei 8.213/1991.
+Defende que documentos como a certidão de nascimento dos filhos, documentos expedidos pelo INCRA e a certidão eleitoral devem ser aceitos como início de prova material da condição de trabalhadora rural.
+Requer o provimento do recurso.
+A parte adversa não apresentou contrarrazões (fl. 195).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nas razões de seu recurso especial, relativamente à aposentadoria por idade como trabalhadora rural, a parte recorrente sustenta que o acórdão foi excessivamente rígido ao analisar as provas, ignorando a jurisprudência que flexibiliza a exigência de início de prova material para trabalhadores ribeirinhos da Amazônia.
+Quanto ao ponto, no acórdão recorrido, o Tribunal de origem decidiu nestes termos (fl. 112, destaquei):
+No caso dos autos, a parte autora completou 55 anos em 02/12/2009, correspondendo o período de carência, portanto, a 172 meses, a contar de 1996.
+Em que pese o cumprimento do requisito etário, não há como reconhecer o direito pleiteado.
+Para comprovar a qualidade de segurada especial a autora apresentou os seguintes documentos: certidão de casamento (1979); certidão de nascimento da filha (1994), sem qualificação dos pais e certidão eleitoral (2010), constando endereço rural (ID 71794519 - fls. 18/21).
+Contudo, os documentos apresentados não são considerados hábeis a comprovar o exercício da atividade alegada, por tempo suficiente a cumprir a carência exigida em lei, visto que são extemporâneos ao período de carência necessário que se quer comprovar, nos termos da Súmula 149 do STJ.
+Além disso, verifica-se que são particulares, sem fé pública, desprovidas de qualquer cunho oficial e/ou se baseiam em declarações unilaterais não submetidas a um controle mais rígido no momento de sua emissão, como é o caso da Certidão Eleitoral.
+Dessa forma, não merece prosperar o pedido de concessão de aposentadoria por idade rural, requerido pela parte autora, pois embora tenha completado a idade para aposentadoria, não apresentou início de prova material capaz de comprovar o exercício de atividade rural, por tempo suficiente à carência e, ausente o início de prova material, a prova testemunhal produzida não pode ser exclusivamente admitida para reconhecer o tempo de exercício de atividade urbana e rural (STJ, Súmula 149 e TRF1, Súmula 27).
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, concluiu que não foi comprovado o exercício de atividade rural suficiente para atender à carência exigida e que, sem início de prova material, a prova testemunhal não pode ser admitida para comprovar o tempo de atividade rural .
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. TRABALHADOR RURAL. SEGURADO ESPECIAL. NÃO CARACTERIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que, conquanto seja possível a extensão da eficácia probatória da prova material tanto para o período anterior quanto para o período posterior à data dos documentos apresentados, é necessário robusto e convincente conteúdo testemunhal para tal reconhecimento.
+III - In casu, rever o entendimento do Tribunal de origem, o qual concluiu pela insuficiência das provas e testemunhos para a comprovação da atividade rural por todo o período alegado, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.122.927/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
