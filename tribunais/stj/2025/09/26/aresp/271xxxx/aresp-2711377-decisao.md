@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual EVA ANSELMO BERTO WESTPHAL se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 97):
+PREVIDENCIÁRIO. APELAÇÃO INSS. APOSENTADORIA POR IDADE RURAL. SEGURADO ESPECIAL. REGIME DE ECONOMIA FAMILIAR NÃO COMPROVADO. INSUFICIENTE O INÍCIO DE PROVA MATERIAL. POSSIBILIDADE DE NOVO AJUIZAMENTO. ENTENDIMENTO DO STJ. PROCESSO EXTINTO. EXAME DA APELAÇÃO PREJUDICADO.
+1. São requisitos para aposentadoria do trabalhador rural: contar 55 (cinquenta e cinco) anos de idade, se mulher, e 60 (sessenta) anos de idade, se homem, e comprovação de efetivo exercício de atividade rural, ainda que de forma descontínua, por tempo igual ao número de meses de contribuição (180 contribuições mensais) correspondentes à carência do benefício pretendido a teor do art. 48, §§ 1º e 2º, c/c art. 142 da Lei 8.213/91.
+2. O trabalho rural, observado o período de carência, deve estar demonstrado por início razoável de prova material, corroborada por prova testemunhal, ou prova documental plena.
+3. Considerando a dificuldade do trabalhador rural em comprovar o exercício da atividade no campo, vez que não possui vínculo empregatício e trabalha, na maioria das vezes, na informalidade, admite-se como início de prova material, outros documentos além daqueles constantes do art. 106 da Lei 8.213/91 (rol meramente exemplificativo).
+4. Ressalte-se, ainda, que ".. para efeito de reconhecimento do labor agrícola, mostra-se desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido, desde que a eficácia daquele seja ampliada por prova testemunhal idônea.". (AgInt no AREsp n. 852.494/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 16/11/2021, DJe de 9/12/2021.).5
+5. No presente caso, para fins de comprovação da atividade rural, a parte autora juntou aos autos certidão de casamento em que consta a profissão do cônjuge como lavrador (1971). Assim, não há nos autos início de prova material suficiente para a comprovação do exercício da atividade rural pela parte autora, não restando configurado o direito ao benefício pleiteado.
+6. O STJ, em sede de recurso repetitivo no julgamento do REsp 1352721/SP, decidiu que, nas ações previdenciárias, em vista da natureza das normas de proteção social, a ausência de prova a instruir a inicial implica no reconhecimento de ausência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem a apreciação do mérito, sendo possível que o autor ajuíze novamente a ação desde que reunidos novos elementos probatórios.
+7. Processo julgado extinto. Exame da apelação da parte autora prejudicado.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente aponta violação dos arts. 39, inciso I, 55, § 3º, e 106 da Lei 8.213/1991.
+Defende seu direito à aposentadoria por idade rural e que o início de prova material pode ser qualquer documento escrito que demonstre inequivocamente o exercício dessa atividade, ainda que não corresponda integralmente ao período exigido pela Lei, desde que completado por qualquer outro meio de prova, como os depoimentos testemunhais (fl. 120).
+Requer o provimento do recurso.
+A parte adversa não apresentou contrarrazões (fl. 161).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nas razões de seu recurso especial, relativamente à aposentadoria por idade rural, a parte recorrente sustenta a necessidade de nova valoração das provas, uma vez que a certidão de casamento apresentada deveria ser considerada como início de prova material (fl. 116).
+Quanto ao ponto, no acórdão recorrido, o Tribunal de origem decidiu nestes termos (fls. 101/102, destaquei):
+Considera ndo a dificuldade do trabalhador rural em comprovar o exercício da atividade no campo, vez que não possui vínculo empregatício e trabalha, na maioria das vezes, na informalidade, admite-se como início de prova material outros documentos além daqueles da Lei 8.213/91 (rol meramente exemplificativo).
+No presente caso, para fins de comprovação da atividade rural, a parte autora juntou aos autos certidão de casamento em que consta a profissão do cônjuge como lavrador (1971).
+Considerando que o requisito etário foi preenchido em 2010, a documentação apresentada não é capaz de demonstrar o labor rural, tampouco o cumprimento do período de carência, sendo insuficiente para amparar a concessão do benefício, haja vista a impossibilidade de fazê-lo com base em prova exclusivamente testemunhal.
+Assim, a hipótese é de, na linha do entendimento firmado pelo STJ quando do julgamento do REsp 1352721/SP, extinguir o feito, a fim de possibilitar à parte autora, na hipótese de obter outras provas, promover novo ajuizamento.
+Como se observa, o Tribunal de origem, após a análise das circunstâncias fáticas da causa, concluiu pela insuficiência de início de prova material para comprovar o exercício de atividade rural, bem como a impossibilidade de concessão do benefício, com base exclusivamente em prova testemunhal.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. TRABALHADOR RURAL. SEGURADO ESPECIAL. NÃO CARACTERIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que, conquanto seja possível a extensão da eficácia probatória da prova material tanto para o período anterior quanto para o período posterior à data dos documentos apresentados, é necessário robusto e convincente conteúdo testemunhal para tal reconhecimento.
+III - In casu, rever o entendimento do Tribunal de origem, o qual concluiu pela insuficiência das provas e testemunhos para a comprovação da atividade rural por todo o período alegado, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.122.927/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
