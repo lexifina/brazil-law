@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por Espólio de Francisco Simões de Melo e Odimilson Francisco Simões contra decisão que não admitiu recurso especial manejado, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, em face de acórdão assim ementado (fl. 254):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO POR DANOS AMBIENTAIS EM PROPRIEDADE RURAL - PRESCRIÇÃO - CONHECIMENTO DOS FATOS OCORRIDO APENAS COM A RETOMADA DO IMÓVEL - NÃO TRANSCURSO DO PRAZO PRESCRICIONAL - DECISÃO MANTIDA - AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO.
+1. Discute-se no presente recurso a ocorrência ou não prescrição.
+2. Segundo a pacífica jurisprudência do Superior Tribunal de Justiça, "com base na teoria da actio nata, o termo inicial da prescrição é contado a partir do momento em que o titular do direito subjetivo violado obtém plena ciência da lesão e de toda sua extensão" (AgInt no AREsp 1079876/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/03/2020, DJe 01/04/2020).
+3. Considerando-se que somente com a imissão na posse a parte autora tomou conhecimento dos alegados danos na propriedade objeto da ação indenizatória, é esse o termo inicial para a contagem do prazo prescricional; se entre a data do conhecimento dos fatos e o ajuizamento da ação não transcorreram 03 anos, correta a decisão que rejeita a alegação de prescrição.
+5. Agravo de Instrumento conhecido e não provido.
+Os embargos de declaração opostos pelo Espólio de Francisco Simões de Melo e Odimilson Francisco Simões foram rejeitados (fls. 295-306).
+Nas razões do recurso especial (fls. 309-330), a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 489 e 1.022 do Código de Processo Civil, bem como os arts. 189 e 206, § 3º, V, do Código Civil. Além disso, aponta divergência jurisprudencial quanto à questão da prescrição.
+Sustenta que o termo inicial da prescrição deveria ser fixado em 13/8/2013, data em que o recorrido teria tomado posse da propriedade rural, ou, subsidiariamente, em 2015, quando o recorrido teria ciência dos danos por meio de laudo técnico. Argumenta que, considerando o prazo prescricional de três anos previsto no art. 206, § 3º, V, do Código Civil, a ação ajuizada em 2020 estaria prescrita.
+Contrarrazões às fls. 348-373.
+A não admissão do recurso na origem (fls. 379-393) ensejou a interposição do presente agravo (fls. 395-416).
+Contraminuta às fls. 422-430.
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não merece prosperar.
+Originariamente, trata-se de ação de indenização por danos materiais ajuizada por Francisco Simões de Mello Neto em face do Espólio de Francisco Simões de Melo e Odimilson Francisco Simões, visando à reparação de danos supostamente causados à propriedade rural denominada Fazenda Santa Juliana.
+A decisão de saneamento rejeitou a alegação de prescrição, entendendo que o prazo prescricional teve início em 07/11/2017, data em que o autor foi imitido na posse do imóvel (fls. 182-186).
+O Tribunal de origem manteve a decisão, fundamentando que, com base na teoria da actio nata, o termo inicial da prescrição é contado a partir do momento em que o titular do direito subjetivo violado obtém plena ciência da lesão e de toda sua extensão. Assim, considerando que a ação foi ajuizada em 13/10/2020, não teria ocorrido o transcurso do prazo trienal (fls. 295-303).
+Feito esse breve retrospecto, examino cada uma das teses desenvolvidas pelos recorrentes.
+Inicialmente, quanto à alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, não assiste razão aos recorrentes. O Tribunal de origem enfrentou, de forma clara e suficiente, todas as questões relevantes para a solução da controvérsia, especialmente no que se refere ao termo inicial da prescrição. A Corte local consignou, de maneira fundamentada, que a ciência inequívoca dos danos somente ocorreu com a imissão do recorrido na posse do imóvel, em 07/11/2017, afastando, portanto, a alegação de prescrição (fls. 258-259):
+Portanto, o período existente entre a data da concessão de liminar reintegratória em favor dos requeridos-agravantes (19/09/2013) e a retomada do bem pelo autor-agravado (07/11/2017), implica na existência de um lapso temporal em que a Fazenda Santa Juliana ficou sob os cuidados dos requeridos-agravantes, e, após a imissão na posse (07/11/2017), é que o autor-agravado tomou conhecimento dos danos que alega terem sido causados pelos requeridos-agravantes.
+Essa narrativa fática revela que somente a partir de 07/11/2017 o autor-agravado tomou conhecimento dos fatos que ensejaram o ajuizamento da presente ação.
+Como esta ação foi ajuizada em 13/10/2020 e o conhecimento dos fatos deu-se em 07/11/2017, não houve o transcurso do prazo trienal previsto no art. art. 206, § 3º, V, do Código Civil de 2002., e, consequentemente não ocorreu a prescrição alegada pelos agravantes.
+Recurso não provido, portanto.
+Assim, não há falar em negativa de prestação jurisdicional ou em decisão carente de fundamentação, pois o acórdão recorrido apreciou a matéria de forma adequada, ainda que em sentido contrário ao pretendido pela parte recorrente. Nesse ponto, portanto, não se verifica a alegada ofensa aos dispositivos processuais invocados.
+No que concerne à suposta afronta aos arts. 189 e 206, § 3º, V, do Código Civil, igualmente não prospera a insurgência, não podendo ser conhecido, no ponto, o recurso. O que se observa é que os recorrentes apenas divergem quanto ao marco temporal a ser considerado para a contagem do prazo prescricional, sustentando que este deveria ser fixado em 2013, por ocasião da posse do recorrido, ou, subsidiariamente, em 2015, com a elaboração de laudo técnico.
+Todavia, a definição do momento em que a parte autora obteve plena ciência dos danos causados à propriedade rural constitui questão eminentemente fático-probatória, já examinada pelas instâncias ordinárias. O Tribunal de origem, com base nas provas dos autos, concluiu que a ciência inequívoca somente se deu em 2017, quando o recorrido foi imitido na posse do imóvel.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7/STJ.
+Em face do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Deixo de majorar os honorários, haja vista se cuidar, na origem, de agravo de instrumento em que não se arbitraram honorários.
+Intimem-se.
+EMENTA
