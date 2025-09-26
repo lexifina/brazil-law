@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WELISSON HENRIQUE FAGUNDES DOMINGUES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do Agravo em Execução Penal n. 4000062-82.2025.8.16.0160.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal homologou falta grave por violações às condições do monitoramento eletrônico, determinando a regressão para o regime fechado e expedindo mandado de prisão em desfavor do paciente.
+O Tribunal de origem não conheceu do agravo em execução penal interposto pelo paciente, nos termos do acórdão que restou assim ementado (fl. 20):
+"DIREITO PENAL E DIREITO PROCESSUAL PENAL. RECURSO DE AGRAVO EM EXECUÇÃO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso de Agravo em Execução interposto em face de decisão que homologou falta grave e determinou a regressão do apenado do regime semiaberto harmonizado para o regime fechado.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão consistem em saber se 2.1) o recurso deve ser conhecido, considerando a sugestão do Ministério Público de primeiro grau e da Procuradoria de Justiça de não conhecimento do agravo; 2.2) se a prisão preventiva pode ser revogada; e 2.3) se é possível a concessão do regime semiaberto harmonizado ao apenado.
+III. RAZÕES DE DECIDIR
+3. O recurso não pode ser conhecido, em razão da violação ao princípio da dialeticidade e da impossibilidade de supressão de instância.
+4. O pedido de revogação da prisão preventiva é desconexo da decisão combatida, eis que o pronunciamento judicial não ordenou o cárcere cautelar do reeducando.
+5. O pleito de concessão do regime semiaberto harmonizado, por sua vez, não foi formulado perante o Magistrado da Execução, impossibilitando sua apreciação por esta Corte.
+IV. DISPOSITIVO
+6. Agravo em Execução não conhecido."
+No presente writ, a defesa alega que não há embasamento legal para a manutenção da prisão ou do regime fechado imposto em decorrência da falta grave, porquanto a prisão cautelar é medida excepcional e os requisitos do art. 312 do Código de Processo Penal - CPP não estão presentes. Sustenta, com fundamento constitucional, que "CF - art. 5º LXVI - ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança" (fl. 4), reforçando o direito de continuidade no regime semiaberto para assegurar trabalho e convivência familiar.
+Aduz que as medidas cautelares diversas da prisão são suficientes no caso concreto, afirmando que a regressão ao regime fechado afronta a proporcionalidade e a presunção de inocência, apontando a inexistência de contemporaneidade e de elementos concretos para segregação, bem como as circunstâncias pessoais favoráveis (trabalho fixo, residência, arrimo de família), e que o fato não envolveu violência ou grave ameaça.
+Argui, ainda, a aplicabilidade da Súmula Vinculante 56 do STF para vedar a permanência em regime mais gravoso por ausência de vagas ou condições adequadas, defendendo o regime semiaberto harmonizado com monitoração eletrônica.
+Requer, em liminar, a suspensão dos efeitos da decisão que impôs regime fechado/regressão por suposta quebra da tornozeleira eletrônica, restabelecendo regime menos gravoso ou a execução em meio compatível com o semiaberto até o julgamento final e, no mérito, requer a concessão da ordem para anular a decisão que reconheceu a falta grave, afastar a sanção de regime fechado e determinar o retorno ao regime semiaberto harmonizado com monitoramento eletrônico ou, subsidiariamente, substituir a prisão por medidas cautelares previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem, de ofício, não se mostra adequada ao presente caso.
+Da atenta leitura do acórdão impugnado verifica-se que o Tribunal de origem não conheceu do agravo em execução ao entendimento de que as razões do recurso "são desconexas da decisão atacada, eis que o não decisum determinou a prisão preventiva do apenado", bem como que "o pleito atinente à concessão do regime semiaberto harmonizado também não merece conhecimento, uma vez que não foi formulado perante o Magistrado da Execução" (fls. 22/23).
+Desse modo, vê-se que a irresignação do presente mandamus não foi objeto de análise pela Corte de origem, de modo que obsta diretamente seu exame por este Tribunal Superior de Justiça, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
