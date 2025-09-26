@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 157):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. RECÁLCULO DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. PRECATÓRIO COMPLEMENTAR. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+- Discute-se a decisão que determinou a apuração de diferenças à titulo de precatório complementar, com a incidência de juros de mora e correção monetária, de acordo com a Lei n. 11.960/09.
+- O título executivo consignou que a correção monetária dos valores atrasados deverá ser feita em consonância com a Resolução n. 134/2010 do Conselho da Justiça Federal - matéria controversa - o que atrai a aplicação da Lei n. 11.960, a qual deu nova redação ao artigo 1º-F da Lei n. 9.494/97, com aplicabilidade desde a data de 1º/7/2009.
+- Não há como dar guarida à pretensão do agravante, pois na data dos cálculos impugnados neste recurso - os quais já foram objeto de homologação judicial - e até mesmo no momento da expedição do precatório/rpv (junho de 2013), a Resolução 267 do e. CJF, de , nem mesmo existia, de sorte que não se poderá2/12/2013 dar a ela efeitos pretéritos, norteando a correção monetária dos valores atrasados em data a ela anterior; bem por isso, o cálculo elaborado empregou a correção monetária prevista na Resolução n. 134/2010 do e. CJF, única vigente na data da conta acolhida.
+- Agravo de Instrumento desprovido. Decisão agravada mantida.
+Os embargos de declaração opostos foram rejeitados (fls. 175/176).
+Nas razões de seu recurso, com relação à interpretação do art. 1º-F da Lei 9.494/1997, a parte recorrente alega que há "dissonância entre o acórdão recorrido e a tese firmada no Tema 905 dos Recursos Repetitivos e no Tema 810 da Repercussão Geral" (fl. 183).
+Requer o provimento de seu recurso, "determinando o afastamento da aplicação da TR prevista pelo art. 1º-F da Lei 9.494/97, com redação pela Lei 11.960/09, cessando, assim, o dissenso jurisprudencial, determinando ainda a aplicação do INPC ou, subsidiariamente, o IPCA-E" (fl. 194).
+A parte adversa não apresentou contrarrazões.
+Submetido a juízo de retratação considerando o entendimento firmado quanto ao Tema 810 do Supremo Tribunal Federal (STF), o acórdão recorrido foi parcialmente reformado nos termos da seguinte ementa (fl. 245):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL. ARTIGO 1.040, II DO CPC. RE 870.947. CORREÇÃO MONETÁRIA. JUÍZO DE RETRATAÇÃO NEGATIVO.
+- O Plenário do Supremo Tribunal Federal (STF), em sede de repercussão geral, consolidou o entendimento pela impossibilidade jurídica da utilização do índice de remuneração da caderneta de poupança (Taxa Referencial - TR) como critério de atualização monetária das condenações impostas à Fazenda Pública (RE n. 870.947, ementa publicada em 20/11/2017).
+- O acórdão recorrido está em consonância com o entendimento firmado em sede de repercussão pelo Supremo Tribunal Federal no RE n. 870.947. Incabível a retratação.
+- Juízo de retração negativo. Mantido o julgamento que negou provimento ao agravo de instrumento.
+O recurso especial não foi admitido (fls. 250/251).
+Por força do agravo em recurso especial interposto (fls. 254/260), os autos foram remetidos para o Superior Tribunal de Justiça (STJ).
+Neste Tribunal, proferi decisão determinando a devolução dos autos à origem para aguardar o julgamento do Tema 1.170 da Suprema Corte (fls. 280/281).
+Em juízo de conformidade, o Tribunal de origem manteve o julgado anterior nos termos da seguinte ementa (fl. 314):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RETRATAÇÃO (ARTIGO N. 1.040, II, DO CPC) INCABÍVEL. TEMAS N. 810, 1.170 e 1.361 DO STF. NÃO APLICÁVEIS. PRECATÓRIO COMPLEMENTAR.
+- À luz dos Temas n. 1.170 e 1.361 da repercussão geral, independentemente de previsão diversa em título executivo judicial transitado em julgado, os juros de mora e a correção monetária nas condenações impostas à Fazenda Pública devem observar a tese jurídica firmada no Tema n. 810 da repercussão geral.
+- O Tema n. 810 do STF trata especificamente das condenações impostas à Fazenda Pública. O debate, portanto, sobre sua incidência ocorre unicamente no momento de apresentação e acolhimento das contas de liquidação do julgado - é aqui que, de fato, estão sendo apurados os valores da condenação.
+- Depois do pronunciamento judicial definitivo sobre a conta acolhida, não cabe mais cogitar de critérios da condenação e possível incidência do Tema n. 810 do STJ.
+- O debate, a partir de então, limita-se aos critérios de atualização do precatório / RPV e, quanto a esse ponto, há pronunciamento vinculante específico do STF nas AD Is n. 4.357 e 4.425, inclusive com modulação dos efeitos, o qual deve ser observado.
+- Como o debate dos autos refere-se a precatório complementar, não cabe cogitar de incidência do Tema n. 1.170 do STF.
+- Juízo de retratação negativo. Acórdão recorrido mantido.
+Realizado novo juízo de admissibilidade, o recurso especial foi admitido (fls. 322/327).
+É o relatório.
+Conforme determinam o art. 1.029, § 1º, do Código de Processo Civil e o art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial invocada com base na alínea c do permissivo constitucional exige, para que se ultrapasse o juízo de conhecimento, a comprovação do cumprimento dos seguintes requisitos:
+(1) juntada de cópia dos acórdãos paradigma ou a citação do repositório oficial ou autorizado em que publicados;
+(2) demonstração da divergência com a transcrição dos trechos dos acórdãos recorrido e paradigma, esclarecendo as circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos confrontados;
+(3) a indicação do(s) dispositivo(s) de lei sobre o qual recai a divergência de entendimento.
+É cediço que a mera transcrição de ementa não tem o condão de satisfazer as exigência para a comprovação do dissídio jurisprudencial. Para o conhecimento do recurso especial fundado na alínea c do permissivo constitucional, é dever da parte recorrente a demonstração analítica da divergência jurisprudencial invocada, com a indicação das circunstâncias fáticas e jurídicas que identificam ou assemelham os casos confrontados, o que não ocorreu no caso.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. LEGISLAÇÃO LOCAL. EXAME. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes para a solução do litígio.
+2. Ainda que apontada suposta violação de dispositivo de lei federal, a argumentação do apelo nobre centra-se na necessidade de apreciação da legislação local, providência vedada nos termos da Súmula 280 do STF.
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+4. Nos termos do art. 85, § 11, do CPC/2015, o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+5. Hipótese em que a majoração dos honorários na origem para 12% sobre o valor da causa não se mostra desarrazoada.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+7. Ausente o cotejo analítico, não há o cumprimento dos pressupostos específicos para a configuração do dissenso jurisprudencial, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do RISTJ.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 1.902.013/AP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/9/2022, DJe de 15/9/2022, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Com efeito, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, a divergência jurisprudencial exige comprovação - mediante a juntada de cópia dos acórdãos paradigma ou a citação do repositório oficial ou autorizado em que publicados - e demonstração, desta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, esclarecendo as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2. No caso concreto, verifica-se que os acórdãos indicados como paradigma sequer foram juntados aos autos, violando-se, assim, o art. 1.043, § 4º, do CPC/2015.
+3. Ademais, o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional requisita a demonstração analítica da divergência jurisprudencial invocada, não apenas por intermédio da transcrição dos trechos dos acórdãos do Superior Tribunal de Justiça que configuram o dissídio, mas também da indicação das circunstâncias que identificam ou assemelham os casos confrontados, o que não ocorreu in casu.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.318.991/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023, sem destaque no original.)
+Ainda que fosse possível superar o óbice de ausência de demonstração do alegado dissídio jurisprudencial, verifico que, no acórdão integrativo, o Tribunal de origem decidiu com este fundamento (fls. 178/179, sem destaques no original):
+ ..  o cálculo homologado foi atualizado de acordo com a Resolução 134/2010, por ser a única vigente na data da conta acolhida, não havendo que se falar na aplicação da Resolução 267/2013, por força do decidido no RE 870.947, porque, no caso, se discute diferenças para pagamento de precatório complementar, como dito pelo próprio embargante.
+Nesse caso, cabe aos Tribunais a responsabilidade de atualizar, segundo os índices cabíveis e legais, os valores consignados nas requisições a eles dirigidas, em dois momentos, vale dizer, quando de sua inclusão na proposta orçamentária e por ocasião do efetivo pagamento.
+E, como é sabido, o precatório complementar tem forma de atualização própria, consoante as Resoluções deste Tribunal e as LDO"s (Leis de Direitrizes Orçamentárias), diferente da conta de liquidação. Nesse sentido, a complementação realizada pelo Tribunal nos autos da ação subjacente, referente as diferenças de TR/IPCA-e, se deu em atendimento a LDO n. 12.919/2013.
+Em juízo de retratação, o Tribunal de origem ainda consignou (fls. 242/243, sem destaque no original):
+ ..  o Colendo Supremo Tribunal Federal consolidou o entendimento pela impossibilidade jurídica de utilização do índice de remuneração da caderneta de poupança (Taxa Referencial - TR) como critério de atualização monetária das condenações imposta à Fazenda Pública.
+No caso, entretanto, o acórdão da Nona Turma desta Corte não destoa do referido julgado, pois a requisição de pagamento foi devidamente atualizada de acordo com a legislação em vigor à época, a qual foi validada pelo Supremo Tribunal Federal (STF) até 25/3/2015.
+Com efeito, esta Nona Turma considerou que o cálculo homologado e pago - expedido precatório/rpv em junho de 2013 -, foi atualizado de acordo com a Resolução 134/2010 (TR), por ser a única vigente na data da conta (março/2013) e eleita pelo decisum.
+Esta sistemática de pagamento se coaduna com o entendimento da Suprema Corte, que concluiu, em 25/3/2015, o exame da questão de ordem nas ADIS 4.357 e 4.425, fixando, em definitivo, os efeitos da declaração de inconstitucionalidade do artigo 1º-F da Lei 9.494/1997, com modulação nos seguintes termos (g. n.):
+ ..
+Por esse motivo, não remanesce nenhuma diferença de correção monetária, porque o débito foi consolidado na data de inscrição do precatório, mediante a aplicação do índice vigente à época, tendo o STF confirmado os índices de correção utilizados nos precatórios/RPV até 25/3/2015.
+Nessa esteira, irretorquível é o acórdão desta Nona Turma.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aqueles fundamentos, limitando-se a afirmar, em síntese, que o acórdão recorrido contrariou teses fixadas em repercussão geral e em recursos repetitivos (Temas 810/STF e 905/STJ), mantendo a Taxa Referencial (TR) em hipótese de precatório complementar, quando deveria incidir o Índice Nacional de Preços ao Consumidor (INPC) ou, subsidiariamente, o Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E). Essa atitude ensejaria a incidência no presente caso, por analogia, da Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
