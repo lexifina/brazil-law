@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto por FABIANE FERREIRA COSTA FRANCA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A recorrente foi inicialmente condenada pelo Juízo de primeiro grau às penas de 6 (seis) anos e 6 (seis) meses de reclusão, em regime fechado, e 650 (seiscentos e cinquenta) dias-multa, pela prática do crime de tráfico de drogas, sendo absolvida do crime de associação para o tráfico (fls. 456-471).
+Em sede de apelação, o Tribunal de Justiça local manteve a condenação pelo crime de tráfico de drogas, negando provimento ao recurso defensivo e dando parcial provimento ao recurso do Ministério Público para majorar a pena-base do corréu Alyson e reduzir a fração do privilégio concedido a ele (fls. 723-742).
+A recorrente opôs embargos de declaração, alegando omissão na valoração negativa das consequências do crime e na fixação do regime fechado, os quais foram rejeitados pela Corte de origem (fls. 770-775).
+O recurso especial foi interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando negativa de vigência aos artigos 33, 59 e 68 do Código Penal e ao artigo 42 da Lei n. 11.343/06, em razão da manutenção da pena-base acima do mínimo legal e do regime fechado (fls. 778-801).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do recurso especial, afirmando que a discussão dos temas subjacentes implica o revolvimento do conjunto fático-probatório dos autos, providência inadmissível na via estreita do apelo nobre, conforme Súmula n. 7, STJ (fl. 870).
+É o relatório. DECIDO.
+A controvérsia se restringe à manutenção da pena-base acima do mínimo legal e à fixação do regime fechado para o cumprimento da pena imposta à recorrente pelo crime de tráfico de drogas.
+Nas razões do recurso especial, a recorrente pleiteia a redução da pena-base para o mínimo legal e a alteração do regime inicial de cumprimento de pena para o semiaberto, alegando que a valoração negativa das consequências do crime e da natureza e quantidade da droga foi indevida, pois são inerentes ao tipo penal de tráfico de drogas.
+Entretanto, a despeito dos argumentos apresentados pela recorrente, tenho que o recurso especial não ultrapassa a barreira do conhecimento.
+Colaciono os fundamentos utilizados pelo Tribunal de origem para manter a pena-base acima do mínimo legal e o regime inicial fechado (fl. 737):
+" ..  Por sua vez, a pena de Fabiane, a pena-base foi estipulada em 6 (seis) anos de reclusão e 600 dias-multa, diante da análise desfavorável as consequências do crime e a natureza e quantidade de drogas.
+Apesar de não coadunar com o exame das consequências do crime, por entender que são inerentes ao delito em apreço, a pena aplicada não merece retoque, levando-se em conta a quantidade e variedade dos entorpecentes apreendidos, a maioria crack, droga de alto poder viciante e lesivo ao organismo, justiçando uma punição acima do mínimo legal, estando sua pena em patamar justo e razoável.
+Na segunda fase, ausentes atenuantes, e, diante da agravante da reincidência, sua pena foi benevolamente acrescida em apenas 6 (seis) meses de reclusão e 50 dias-multa, passando para 6 (seis) anos e 6 (seis) meses de reclusão e 650 dias-multa, quantum em que restou concretizada na ausência de causas de aumento ou diminuição depena.
+Como dito alhures, incabível o privilégio diante da reincidência da acusada.
+Impossível o abrandamento do regime inicial para o cumprimento de pena, conforme requerido pela Defesa, devido ao quantum da pena e da reincidência da apelante, devendo, portanto, ser mantido o regime fechado.
+Incabível qualquer beneficio legal, diante do quantum da pena imposto  .. ".
+Conforme se depreende do excerto acima colacionado, o Tribunal de origem declinou por meio de fundamentação adequada as razões pelas quais concluiu que a pena-base acima do mínimo legal e o regime inicial fechado eram adequados, considerando a quantidade e a variedade da droga apreendida, bem como a reincidência da recorrente.
+A revisão dos fundamentos acima elencados, para se alterar a dosimetria e o regime inicial, como pretende a recorrente, demandaria revolvimento do material fático-probatório dos autos, procedimento inviável na via eleita pelo insurgente, pois é assente nesta Corte Superior de Justiça que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do recurso especial, nos termos da Súmula n. 7, STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial."
+No tocante ao patamar de exasperação da pena-base, considerando o silêncio do legislador, a doutrina, bem como este Superior Tribunal de Justiça, passaram a reconhecer como critérios ideais para individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador, ou de 1/6, a incidir sobre a pena mínima (AgRg no HC n. 800.983/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/5/2023).
+Ressalto, quanto ao ponto, que:
+"não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo supracitado ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional o critério utilizado pelas instâncias ordinárias" (AgRg no HC n. 803.187/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 2/6/2023).
+Outrossim, a jurisprudência do STJ é pacífica no sentido de que a valoração negativa da quantidade e natureza dos entorpecentes constitui fundamento idôneo para justificar a exasperação da pena-base, não havendo desproporcionalidade manifesta.
+Concluo, portanto, que a exasperação da pena-base foi devidamente fundamentada na quantidade e na natureza dos entorpecentes apreendidos, em conformidade com o art. 42 da Lei n. 11.343/2006, sendo proporcional ao caso concreto.
+No mais, considero também correta a fixação do regime inicial fechado, eis que justificada notadamente na agravante da reincidência em parte desfavorável das circunstâncias judiciais, entendimento que se apresenta em consonância com a jurisprudência desta Corte Superior, atraindo a incidência também do óbice da Súmula n. 83, STJ. Nesse sentido:
+"DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. REINCIDÊNCIA. TRÁFICO PRIVILEGIADO AFASTADO. RECURSO ESPECIAL PROVIDO PARA AFASTAR A CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, §4º, DA LEI N. 11.343/2006 E, POR CONSEQUÊNCIA, REDIMENSIONAR A PENA DO RECORRIDO.
+I. Caso em exame
+1. Recurso especial interposto pelo Ministério Público do Estado de São Paulo contra acórdão do Tribunal de Justiça do Estado de São Paulo que aplicou a causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006 em favor de réu reincidente.
+2. O acórdão recorrido aplicou a redução da pena com base no princípio da proporcionalidade, tendo em vista que a reincidência ocorreu por crime anterior de menor potencial ofensivo.
+II. Questão em discussão
+3. A discussão consiste em saber se a reincidência do réu por crime de menor potencial ofensivo impede a aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006.
+III. Razões de decidir
+4. A reincidência do réu, mesmo que por crime de menor potencial ofensivo, impede a aplicação da causa de diminuição de pena do art. 33, §4º, da Lei n. 11.343/2006, conforme a literalidade do dispositivo legal e a jurisprudência consolidada.
+5. A fixação do regime inicial fechado é justificada pela reincidência e pelas circunstâncias desfavoráveis valoradas na primeira fase da dosimetria da pena.
+6. Notadamente pela quantidade, a substituição da pena privativa de liberdade por restritivas de direitos é incabível.
+IV. Dispositivo e tese
+7. Recurso especial provido para afastar a causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006 e, por consequência, redimensionar as penas do recorrido para 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 680 (seiscentos e oitenta) dias-multa.
+Tese de julgamento: 1. A reincidência impede a aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006.
+2. A fixação do regime inicial fechado é justificada pela reincidência e pelas circunstâncias desfavoráveis valoradas na primeira fase da dosimetria da pena.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, §4º;
+Código Penal, art. 33, §§ 2º e 3º.Jurisprudência relevante citada:
+STJ, AgRg no REsp 2.116.867/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 12/8/2024, DJe de 14/8/2024; STJ, AgRg no HC 883.601/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025."
+(REsp n. 2.140.562/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/6/2025, DJEN de 11/6/2025.);
+"DIREITO PROCESSUAL PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. DOSIMETRIA DA PENA. REINCIDÊNCIA. AUSÊNCIA DE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. O Supremo Tribunal Federal, no Tema n. 280, de repercussão geral, estabeleceu que a entrada forçada em domicílio sem mandado é lícita quando amparada em fundadas razões, devidamente justificadas, indicando flagrante delito.
+2. No caso concreto, a polícia recebeu denúncia de tráfico de drogas e realizou diligências, confirmando a notícia de que havia plantação de maconha destinada ao tráfico no local.
+3. Presentes as fundadas razões que amparam a atuação policial, conforme precedentes do Superior Tribunal de Justiça.
+4. A dosimetria da pena foi realizada com acuidade pelas instâncias ordinárias, justificando o aumento da pena-base diante da quantidade e natureza da droga. Além disso, foi reconhecida a reincidência não obstante tenha havido prescrição da pretensão executória sobre a condenação.
+5. A reincidência impede o reconhecimento do tráfico privilegiado e justifica a fixação do regime inicial fechado para a pena que foi estabelecida entre 4 e 8 anos de reclusão.
+6. Agravo regimental improvido."
+(AgRg no HC n. 881.620/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025);
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. INSURGÊNCIA CONTRA A DOSIMETRIA DA PENA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. RÉU REINCIDENTE. REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
+1. O decisum agravado indeferiu liminarmente o mandamus por entender que não deve ser conhecido o habeas corpus impetrado como substitutivo de revisão criminal em hipótese na qual não houve inauguração da competência desta Corte Superior. Todavia, a defesa nas razões do presente pleito reitera as teses deduzidas na inicial do habeas corpus, sem infirmar em momento algum os fundamentos da decisão agravada, a atrair a incidência da Súmula n. 182 desta Corte Superior.
+2. Tratando-se de paciente reincidente, inexiste ilegalidade na negativa de aplicação da causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+3. Embora o quantum de pena aplicado, superior a 4 e inferior a 8 anos, permite, em tese, a fixação do regime semiaberto, os fundamentos apresentados, como a reincidência do agravante e a presença de circunstância judicial desfavorável (quantidade e variedade de droga apreendida - 4 "tijolos" com 4kg de maconha e 1 "pedra" com 533,91g de crack), justificam a imposição de regime prisional mais gravoso, que no caso é o fechado.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 986.021/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025).
+Ante o exposto, não conheço do recurso especial, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
