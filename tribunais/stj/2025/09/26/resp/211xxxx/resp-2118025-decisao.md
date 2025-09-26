@@ -1,0 +1,39 @@
+DECISÃO
+1. Trata-se de agravo de decisão que inadmitiu recurso especial interposto por WANDERLEY NORBERTO FERRAZ fundado no art. 105, III, "a" e "c", da Constituição Federal contra v. acórdão do TJ, assim ementado:
+AGRAVO DE INSTRUMENTO Cumprimento de sentença Execução autônoma de verba honorária fixada em embargos à execução Impugnação Rejeição Insurgência do executado que defende a necessidade de que a verba sucumbencial constituída nos embargos seja executada juntamente com o débito principal na execução Inadmissibilidade - Art. 85, § 13, do CPC Dispositivo que não proíbe a execução autônoma - Honorários advocatícios sucumbenciais que pertencem ao advogado, tendo este inclusive direito autônomo para executar a sentença nessa parte Decisão mantida Recurso desprovido.
+(fls. 31-35)
+Em suas razões recursais, o recorrente alega violação aos arts. 85, § 13, do CPC, e dispositivos da Lei nº 8.906/1994.
+Sustenta que:
+i) a execução autônoma de honorários de sucumbência fixados em embargos à execução julgados improcedentes seria incompatível com a determinação legal de que tais verbas deveriam ser acrescidas ao débito principal, conforme previsto no Código de Processo Civil. A norma teria como objetivo evitar a multiplicidade de procedimentos e a concorrência de interesses entre o exequente e o advogado, priorizando a economia processual.
+ii) A manutenção do cumprimento de sentença autônomo para a cobrança de honorários de sucumbência fixados em embargos à execução julgados improcedentes teria violado o princípio da preferência alimentar dos honorários advocatícios, ao permitir que o crédito do advogado concorresse com o crédito principal do exequente, em prejuízo deste último.
+iii) O acórdão recorrido teria divergido de entendimentos jurisprudenciais de outros tribunais, que reconhecem a necessidade de inclusão dos honorários de sucumbência no débito principal, em cumprimento ao disposto no Código de Processo Civil, para evitar atos processuais desnecessários e privilegiar a celeridade e a economia processual.
+No agravo, afirma a presença dos requisitos de admissibilidade do especial.
+Contrarrazões foram apresentadas.
+É o relatório.
+2. O Tribunal de origem decidiu que:
+Trata-se, na origem, de cumprimento de sentença extraído dos autos dos embargos à execução, por meio do qual objetiva a Associação de Advogados, ora agravada, receber a quantia de R$ 55.543,15, a título de honorários de sucumbência (conf. fls. 4 autos originais).
+A decisão recorrida foi proferida nos seguintes termos:
+"Vistos. I) Fls. 76/87. Defiro a penhora sobre os direitos em relação ao imóvel, expedindo-se o necessário com o recolhimento das custas. II) Indefiro o pedido de fls. 88/93, pois como bem salientou a parte exequente, os honorários advocatícios são verbas autônomas em relação ao principal, podendo ser cobradas separadamente, principalmente porque possuem credores diferentes. E o disposto no art. 85. §13º, do CPC, permite a acumulação das verbas, mas não exige a cobrança em conjunto. Intime-se. Bragança Paulista, 03 de março de 2022" - grifei
+O recurso não comporta provimento.
+Conquanto o §13, do art. 85, do CPC, estabeleça que "As verbas de sucumbência arbitradas em embargos à execução rejeitados ou julgados improcedentes e em fase de cumprimento de sentença serão acrescidas no valor do débito principal, para todos os efeitos legais", o §14, do mesmo artigo, prescreve que "os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial".
+Assim sendo, nada impede que os honorários, de titularidade do advogado, sejam cobrados autonomamente.
+Em suma, embora o valor de sucumbência oriundo dos embargos à execução possa ser executado em conjunto com o débito principal da ação executiva, conforme dispõe o §13, do art. 85, do CPC, não há óbice de que seja cobrado em incidente autônomo de cumprimento de sentença, visto que o crédito pertence ao advogado.
+Nesse sentido citam-se julgados deste Tribunal, inclusive desta C. 19ª Câmara:
+ ..
+Portanto, de rigor a manutenção da r. decisão agravada.
+Posto isto, NEGA-SE PROVIMENTO ao recurso.
+Dessarte, verifica-se que o entendimento do acórdão recorrido está em sintonia com a jurisprudência do STJ, no sentido de que "a interpretação do art. 85, § 13º, do CPC deve ser harmonizada com os demais dispositivos do ordenamento jurídico, os quais preveem que os honorários constituem direito do advogado e apresentam autonomia em relação ao valor do principal (art. 23 Lei do Estatuto da OAB e art. 85, § 14º, do CPC). Ademais, o art. 24, § 1º, do Estatuto da OAB dispõe que "a execução dos honorários pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, se assim lhe convier". Em síntese, a norma prevista no art. 85, § 13º, do CPC corresponde à faculdade do advogado, sendo-lhe conferido o direito de executar em conjunto ou separadamente as verbas de sucumbência arbitradas em embargos à execução rejeitados ou julgados improcedentes e em fase de cumprimento de sentença" (REsp n. 2.092.835/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024.).
+E ainda:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGAÇÃO DE QUE HOUVE OMISSÃO QUANTO AO VALOR DA VERBA SUCUMBENCIAL PLEITEADA NA ORIGEM. AUSÊNCIA DE DEVOLUÇÃO NAS RAZÕES DO RECURSO ESPECIAL. OMISSÃO INEXISTENTE. AGRAVO INTERNO DESPROVIDO.
+1. O ponto referente ao valor pleiteado pela parte recorrida a título de honorários sucumbenciais não foi devolvido expressamente pelos recorrentes em suas razões do recurso especial, de forma que a sua apreciação por esta Corte de Justiça seria extravasar o âmbito da devolutividade.
+2. Não se pode olvidar que, tendo o colegiado local deixado de emitir qualquer juízo de valor acerca do tema, incumbia à parte recorrente alegar eventual violação ao art. 1.022 do CPC/2015, o que não ocorreu, razão pela qual lhe faltaria o devido prequestionamento.
+3. A jurisprudência do Superior Tribunal de Justiça é firme ao proclamar que a norma prevista no art. 85, § 13, do CPC/2015 confere uma faculdade ao advogado, o qual tem "o direito de executar em conjunto ou separadamente as verbas de sucumbência arbitradas em embargos à execução rejeitados ou julgados improcedentes e em fase de cumprimento de sentença" (REsp n. 2.092.835/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024), razão pela qual a orientação adotada pela Corte local está em consonância com a jurisprudência desta Corte Superior, o que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.124.612/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+Deveras, o próprio §14 do art. 85 do CPC estabelece que "os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial". Por conseguinte, nada impede que os honorários, de titularidade do advogado, sejam cobrados autonomamente.
+Em síntese, ainda que os honorários sucumbenciais decorrentes da improcedência dos embargos à execução possa ser executado conjuntamente com o débito principal da ação executiva (§ 13 do art. 85 do CPC), não há impedimento para que seja exigido em cumprimento de sentença autônomo, considerando que o crédito é de titularidade do advogado.
+Incidência da Súm 83 do STJ.
+3. Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Publique-se.
+EMENTA
