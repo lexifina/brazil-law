@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ERILSON CLÁUDIO RODRIGUES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+PROCESSUAL CIVIL - Apelação - Embargos à execução - Cálculos pela Contadoria Judicial - Concordância das partes - Cabimento da fixação de honorários advocatícios - Cálculo que deve ser feito sobre o proveito econômico obtido, consistente na diferença entre o valor apresentado pelo exequente e o valor efetivamente devido - Art. 85, §1º do CPC - Aplicação - Provimento.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 85, § 2º, do CPC, no que concerne à necessidade de fixação dos honorários advocatícios de sucumbência sobre o proveito econômico obtido pelo exequente, que consiste na diferença entre o valor apresentado pelo executado e o homologado pelo juízo, sendo que a diferença entre o valor apresentado pelo exequente e o homologado significa a parte em que este sucumbiu e não o seu proveito econômico, trazendo a seguinte argumentação:
+15. Nesse sentido, observe-se que o Tribunal de origem condenou o executado, ora recorrido, ao pagamento de honorários advocatícios no percentual de 10% (dez por cento) sobre o proveito econômico obtido.
+16. Entretanto, a contrario sensu, entendeu que o esse mesmo proveito consiste na diferença entre o valor apresentado pelo exequente e aquele homologado pelo juízo a quo:  ..
+17. Ressoa nítido que tal entendimento mostra-se equivocado, afinal o resultado daquela diferença consiste justamente na parte em que o exequente sucumbiu e não no seu proveito econômico. Ora, sendo a quantia indicada pelo executado inferior ao valor homologado pela contadoria judicial, é evidente que a diferença entre tais valores é que configura o proveito econômico do exequente (fl. 248).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente no sentido de que a diferença entre o valor apresentado pelo exequente e o homologado significa a parte em que este sucumbiu e não o seu proveito econômico.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
