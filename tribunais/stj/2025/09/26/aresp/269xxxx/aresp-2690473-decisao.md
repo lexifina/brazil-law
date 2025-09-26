@@ -1,0 +1,6 @@
+DECISÃO
+A matéria objeto dos presentes autos encontra-se afetada à Corte Especial do Superior Tribunal de Justiça, sob o rito dos recursos repetitivos (Tema 1368), aguardando julgamento dos Recursos Especiais n. 2.199.164/PR e 2.070.882/RS, ambos de relatoria do Ministro Ricardo Villas Bôas Cueva. Discute-se nesses recursos a seguinte tese: "Definir se a Taxa Referencial do Sistema Especial de Liquidação e Custódia (SELIC) deve ser considerada para a fixação dos juros moratórios a que se referia o art. 406 do Código Civil, antes da entrada em vigor da Lei n.º 14.905/2024".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
