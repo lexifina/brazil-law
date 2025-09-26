@@ -1,0 +1,55 @@
+DECISÃO
+Em análise, recurso especial interposto por PLENO CONSULTORIA E SERVIÇOS LTDA, com fulcro no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 11.317-11.318):
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL. DÉBITO DECLARADO PELA CONTRIBUINTE. PERÍCIA. INDEFERIMENTO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. Apelação interposta por PLENO CONSULTORIA E SERVIÇOS LTDA - EPP contra sentença prolatada pelo Juízo da 5ª Vara Federal da Seção Judiciária da Paraíba que, nos autos dos embargos à execução fiscal nº 0810967-98.2021.4.05.8200, indeferiu o pleito de produção de prova pericial formulado pela parte autora/embargante.
+2. Em suas razões recursais, alega a apelante que há necessidade de realização de perícia para apuração do valor pago pela agravante a título de contribuições federais incidentes indevidamente sobre a remuneração de seus empregados segurados sobre verbas de natureza indenizatória ( 1/3 de férias, férias, aviso prévio indenizado, auxílio doença, auxílio acidente, horas extras, salário maternidade, vale transporte, plano de saúde e vale alimentação), excluindo-se as rubricas questionadas, o que levará à conclusão de que, na verdade, a agravante é credora e não devedora.
+3. Entendeu o juízo recorrido que não há utilidade/necessidade na realização de perícia contábil solicitada ao deslinde da causa.
+4. Como se depreende dos autos, o débito cobrado foi declarado pela própria devedora por meio de GFIP.
+5. Conforme disposto no art. 917, III, § 3º, do CPC, nos embargos à execução fundados na alegação de excesso, o embargante deverá informar na petição inicial o valor que entende correto, apresentando, ainda, planilha discriminada com os cálculos.
+6. É ônus da parte embargante comprovar em relação a qual empregado e sobre qual o valor teria incidido a exação indevida, ou seja, sobre qual verba não integraria a sua base de cálculo, para demonstrar que declarou o débito utilizando base de cálculo equivocada.
+7. No caso concreto, a autora, ora agravante, não apresentou memória de cálculo do excesso de execução, apta a demonstrar a natureza indenizatória das verbas sobre as quais incidiram tais contribuições.
+8. Daí a impossibilidade de deferimento da realização de perícia contábil, tendo em vista que a embargante não cumpriu com o ônus da prova de apresentar a memória a ser confrontada com a conta da credora.
+9. Nesse sentido, a título de ilustração, segue precedente deste Tribunal: PROCESSO: 08000613620184058109, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL PAULO MACHADO CORDEIRO, 2ª TURMA, JULGAMENTO: 19/04/2022.
+10. Agravo de instrumento improvido.
+Os embargos de declaração foram rejeitados (fls. 11.360-11.361).
+Nas razões recursais, a parte recorrente alega violação dos arts. 1.022, II, e 370 do CPC/2015.
+Argumenta que o Tribunal de origem não apreciou todos os argumentos deduzidos no agravo de instrumento interposto na origem. Afirma que a não realização de perícia na planilha de cálculos juntada afastou a comprovação de que a empresa é credora e não devedora da Fazenda Nacional. Assevera que "a prova pericial é imprescindível para à comprovação de que os valores cobrados pelo recorrido são indevidos" (fl. 11.399).
+Contrarrazões apresentadas (fls. 11.413-11.419).
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fl. 11.314):
+1. Entendeu o juízo recorrido que não há utilidade/necessidade na realização de perícia contábil solicitada ao deslinde da causa.
+2. Como se depreende dos autos, o débito cobrado foi declarado pela própria devedora por meio de GFIP.
+3. Conforme disposto no art. 917, III, § 3º, do CPC, nos embargos à execução fundados na alegação de excesso, o embargante deverá informar na petição inicial o valor que entende correto, apresentando, ainda, planilha discriminada com os cálculos.
+4. É ônus da parte embargante comprovar em relação a qual empregado e sobre qual o valor teria incidido a exação indevida, ou seja, sobre qual verba não integraria a sua base de cálculo, para demonstrar que declarou o débito utilizando base de cálculo equivocada.
+5. No caso concreto, a autora, ora agravante, não apresentou memória de cálculo do excesso de execução, apta a demonstrar a natureza indenizatória das verbas sobre as quais incidiram tais contribuições.
+6. Daí a impossibilidade de deferimento da realização de perícia contábil, tendo em vista que a embargante não cumpriu com o ônus da prova de apresentar a memória a ser confrontada com a conta da credora.
+Como se vê, a negativa de prestação jurisdicional não resultou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022 do CPC.
+Ademais, ainda que assim não fosse, a pretensão da parte recorrente relativa à violação ao art. 370 do CPC, ao argumento de cerceamento de defesa, diante da ausência de determinação de realização de perícia pela Corte local, encontra óbice na Súmula 7 do STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente (fl. 11.314):
+5. No caso concreto, a autora, ora agravante, não apresentou memória de cálculo do excesso de execução, apta a demonstrar a natureza indenizatória das verbas sobre as quais incidiram tais contribuições.
+6. Daí a impossibilidade de deferimento da realização de perícia contábil, tendo em vista que a embargante não cumpriu com o ônus da prova de apresentar a memória a ser confrontada com a conta da credora.
+Para rever essa conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em recurso especial, nos termos da Súmulas 7 do STJ.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO RECONHECIDO. ISS. SERVIÇOS BANCÁRIOS CONGÊNERES. LISTA ANEXA AO DECRETO-LEI N. 406/1968 E À LEI COMPLEMENTAR N. 56/1987. ACÓRDÃO RECORRIDO EMBASADO NO EXAME DE ELEMENTOS FÁTICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento. Precedentes.
+IV - É legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL n. 406/1968 e à LC n. 56/1987. Precedentes.
+V - A Corte a qua afastou o cerceamento de defesa, na medida em que inexiste nos autos divergência acerca da atividade tributada, sendo desnecessárias outras provas, inclusive a pericial, uma vez que as partes não controvertem a respeito do tipo de atividade apontada pelo Fisco nas contas COSIF, não se tratando de mera atividade-meio como quer a embargante, mas sim de atividade inserida dentro da "operação de crédito", a qual integra a operação principal.
+VI - Rever o posicionamento do tribunal de origem, com o objetivo de acolher a pretensão recursal de reconhecer o cerceamento de defesa bem como afastar a tributação questionada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido (AgInt no REsp n. 2.099.577/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489 E 1.022, II, DO CPC. NÃO OCORRÊNCIA. SERVIÇOS. VERIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7 /STJ. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. NECESSIDADE. VERIFICAÇÃO. MATÉRIA FÁTICA. SÚMULA 7/STJ. INEXISTÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Não ocorre ofensa ao art. 1.022, II, do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. A estreita via recursal não se presta a reformar a conclusão do Tribunal de origem a respeito da natureza do serviço prestado pela empresa, por demandar reexame de matéria fático-probatória e dos contratos sociais acostados aos autos. Incidência das Súmulas 5 e 7 /STJ.
+3. Não se vislumbra julgamento extra petita quando o provimento jurisdicional atacado está circunscrito aos limites da postulação veiculada na petição inicial.
+4. Sobre o alegado cerceamento de defesa, a desconstituição da conclusão da Corte de origem pela desnecessidade de produção de provas demandaria tanto o revolvimento do conjunto fático-probatório dos autos, procedimento obstado pela Súmula 7/STJ, como ensejaria a aplicação da Súmula 283/STF, pois não houve impugnação a fundamento basilar que amparou o aresto recorrido, uma vez que a própria empresa agravante dispensou a produção de outras provas quando instada a se manifestar.
+5. Agravo interno não provido (AgInt no REsp n. 1.548.835/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
