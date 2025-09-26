@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que deu parcial provimento ao recurso defensivo para aplicar a causa de diminuição do tráfico privilegiado na fração de 1/2 (metade) à ré ANNE CAROLINE DALL ONGARO VARGAS.
+A recorrida ANNE CAROLINE DALL ONGARO VARGAS foi condenada pela prática do delito previsto no art. 33, caput, c/c art. 40, inciso I, ambos da Lei nº 11.343/06, à pena de 5 (cinco) anos, 4 (quatro) meses e 25 (vinte e cinco) dias de reclusão, e pagamento de 539 (quinhentos e trinta e nove) dias-multa, por transportar aproximadamente 2 kg de cocaína oculta em fundo falso de bagagem em viagem internacional.
+O TRF/3ª Região fixou a pena definitiva em 2 (dois) anos e 11 (onze) meses de reclusão, em regime inicial aberto, com substituição por penas restritivas de direitos, aplicando a minorante do §4º do art. 33 na fração de 1/2.
+O recorrente sustenta violação ao art. 33, §4º, da Lei n. 11.343/06, argumentando que a fração aplicada é excessivamente elevada considerando as circunstâncias do tráfico transnacional praticado pela ré ANNE CAROLINE DALL ONGARO VARGAS (fls. 1742/1765).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 1868/1880).
+É o relatório. DECIDO.
+O recurso merece prosperar.
+O art. 33, § 4º, da Lei nº 11.343/2006 estabelece causa de diminuição de pena de um sexto a dois terços para agentes primários, de bons antecedentes, que não se dediquem às atividades criminosas nem integrem organização criminosa.
+A jurisprudência desta Corte Superior consolidou entendimento de que a simples função de "mula" não caracteriza, por si só, integração em organização criminosa. Contudo, tal circunstância constitui elemento relevante para valoração na definição do índice de redução, conforme precedente da desta Corte:
+DIREITO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. CONDIÇÃO DE MULA. TRÁFICO PRIVILEGIADO. REDUÇÃO DE PENA. PATAMAR MÍNIMO DE 1/6. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial por estar o acórdão do Tribunal de origem em consonância com a jurisprudência desta Corte.
+2. A decisão agravada considerou a condição de mula do agravante, que transportava quase 1 kg de cocaína em voo internacional, justificando a aplicação da redução de pena no patamar mínimo, de 1/6 (um sexto), devido à gravidade concreta dos fatos e à atuação em favor de organização criminosa internacional.
+II. Questão em discussão
+3. A discussão consiste em saber se a condição de mula e o transporte de drogas, sem comprovação de dedicação habitual a atividades criminosas, justificam a aplicação da redução de pena do tráfico privilegiado no patamar mínimo.
+III. Razões de decidir
+4. A gravidade concreta da conduta delitiva e a atuação do agravante como mula, ciente de estar a serviço de grupo criminoso, justificam a aplicação da redução de pena no coeficiente mínimo, de 1/6 (um sexto).
+5. A jurisprudência do Superior Tribunal de Justiça sustenta que a quantidade e a natureza da droga, por si sós, não afastam a aplicação do redutor do tráfico privilegiado, mas a atuação como mula em favor de organização criminosa autoriza a modulação no patamar mínimo.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: 1. A (expressiva) quantidade de drogas apreendidas, já valorada negativamente no incremento da pena-base, e a atuação do agente na condição de mula são insuficientes para afastar a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006. 2. Ainda que já utilizada a expressiva quantidade de estupefacientes na exasperação da sanção basilar, a atuação do agente na condição de mula, ciente de estar a serviço de organizado grupo criminoso voltado ao narcotráfico de entorpecentes, autoriza a modulação da minorante do tráfico privilegiado no coeficiente mínimo, de 1/6 (um sexto).
+Dispositivos relevantes citados: CP, arts. 59, 64, I, 65, III, "d";
+Lei n. 11.343/2006, arts. 33, § 4º, 42; CPP, arts. 155, caput, 202, 654, caput; CPC, 926.Jurisprudência relevante citada: STF, RE n. 593.818/SC, Rel. Min. Roberto Barroso, Tribunal Pleno - Sessão Virtual, julgado em 18/8/2020; STF, RE n. 1.254.144/SP, AgR-EDv, Rel. Min. Alexandre de Moraes, Tribunal Pleno - Sessão Virtual de 14/04/2023 a 24.04.2023; STF, RE n. 1.010.606/RJ, Tribunal Pleno - Sessão Virtual, julgado em 11/2/2021; STJ, AgRg no AREsp n. 2.379.392/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe de 14/8/2023; STJ, AREsp n. 2.609.326/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.
+(AgRg no AREsp n. 2.836.918/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO PRIVILEGIADO DE DROGAS. APLICAÇÃO DA CAUSA REDUTORA NA FRAÇÃO MÍNIMO DE 1/6. CONDIÇÃO DE "MULA" DO TRÁFICO INTERNACIONAL DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, mantendo a aplicação da fração de 1/6 para a redução de pena por tráfico privilegiado, em razão da atuação da agravante como "mula" do tráfico internacional de drogas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a condição de "mula" no tráfico internacional de drogas justifica a aplicação da fração mínima de 1/6 para a redução de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+III. Razões de decidir
+3. A jurisprudência do STJ reconhece que a condição de "mula" não afasta o direito à redução de pena, mas justifica a aplicação da fração mínima de 1/6, devido à relevante colaboração com organização criminosa.
+4. A modulação da fração de redução de pena encontra amparo na gravidade da conduta e na colaboração prestada à organização criminosa de atuação internacional.
+5. A decisão do Tribunal a quo está em consonância com a jurisprudência do STJ, que admite a aplicação da fração mínima de 1/6 em casos semelhantes.
+IV. Dispositivo e tese
+6. Agravo desprovido.
+Teses de julgamento: "1. A condição de "mula" no tráfico internacional de drogas justifica a aplicação da fração mínima de 1/6 para a redução de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006. 2. A modulação da fração de redução de pena deve considerar a gravidade da conduta e a colaboração prestada à organização criminosa".
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.353.155/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/2/2024; STJ, AgRg no AREsp 2.375.011/MS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/2/2024; STJ, AgRg no AREsp 2.295.006/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 6/2/2024.
+(AgRg no AgRg no AREsp n. 2.644.586/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.)
+No presente caso, as circunstâncias demonstram elevado grau de estruturação e profissionalismo na empreitada criminosa: a) Tráfico transnacional com destino ao exterior; b) Ocultação sofisticada da droga em fundo falso de bagagem; c) Custeio integral da viagem por terceiros; d) Promessa de recompensa financeira; e) Quantidade significativa de entorpecente (aproximadamente 2 kg de cocaína); f) Organização logística por terceiros para hospedagem no país de destino.
+Tais elementos revelam que, embora a recorrida tenha atuado como "mula", sua participação inseriu-se em esquema criminoso de considerável complexidade e alcance internacional, o que justifica a aplicação da fração mínima de redução.
+O legislador, ao instituir a causa de diminuição do §4º do art. 33, objetivou conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando aqueles cuja conduta revele maior grau de reprovabilidade ou envolvimento com o crime organizado.
+A aplicação de fração elevada deve ficar restrita a casos excepcionais de menor gravidade, envolvendo pequenos traficantes atuantes no mercado doméstico, com entorpecentes de menor potencial lesivo, e não a traficantes internacionais que se lançam em empreitadas elaboradas de transporte transnacional.
+O acórdão recorrido diverge da orientação desta Corte Superior ao aplicar fração de 1/2 em caso de tráfico internacional com as características presentes nos autos. A jurisprudência consolidada indica que tais circunstâncias justificam a aplicação da fração mínima de 1/6.
+Considerando as premissas do acórdão recorrido, a pena intermediária foi fixada em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na terceira fase, reconhecida a incidência da causa de aumento da pena do artigo 40, inciso I, da Lei de Drogas, à razão de 1/6 (um sexto), a pena resulta em 5 (cinco) anos e 10 (dez) meses de reclusão, e pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Todavia, com a aplicação da minorante do tráfico privilegiado (art. 33, § 4º, da lei 11.343/06), na fração de 1/6, a pena definitiva fica fixada em 4 anos, 10 meses e 10 dias de reclusão, e pagamento de 485 (quatrocentos e oitenta e cinco) dias-multa, mantido o regime inicial semiaberto, sem possibilidade de substituição por penas restritivas de direitos em razão do quantum da pena privativa de liberdade, em relação à ré ANNE CAROLINE DALL ONGARO VARGAS.
+Ante o exposto, com fundamento no art. 255, parágrafo 4º, inciso III, do RISTJ, dou provimento ao recurso especial, para reformar o acórdão recorrido e aplicar da causa de diminuição prevista no art. 33, §4º, da Lei nº 11.343/06 na fração mínima de 1/6 (um sexto), resultando na pena definitiva de 4 anos, 10 meses e 10 dias, de reclusão, e pagamento de 485 (quatrocentos e oitenta e cinco) dias-multa, mantido o regime inicial semiaberto, sem possibilidade de substituição por penas restritivas de direitos em razão do quantum da pena privativa de liberdade, em relação à ré ANNE CAROLINE DALL ONGARO VARGAS.
+Publique-se. Intimem-se.
+ EMENTA
