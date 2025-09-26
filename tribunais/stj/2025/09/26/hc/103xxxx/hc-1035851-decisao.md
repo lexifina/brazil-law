@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PEDRO JUNIOR VALERIANO DA SILVA (condenado às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, pelo delito de tráfico de drogas - fl. 602), apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2199266-60.2025.8.26.0000).
+Na presente impetração, a defesa alega as seguintes questões: a) nulidade da busca pessoal (fls. 4/7); b) acesso indevido ao celular do paciente, sem autorização judicial (fls. 7/13); c) insuficiência de provas para a condenação (fls. 13/18); d) aplicação do Tema 506/STF (fls. 41/44); e e) abrandamento do regime prisional (fls. 24/25).
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para declarar a nulidade da condenação e, por conseguinte, a absolvição do paciente ou, subsidiariamente, a desclassificação da conduta (tráfico de drogas) para o delito previsto no art. 28 da Lei n. 11.343/2006 ou o abrandamento do regime prisional.
+É o relatório.
+Inicialmente, do atento exame dos autos, constata-se que a busca pessoal nem sequer ocorreu. Segundo consignado no acórdão impugnado, o paciente fugiu saltando um muro. A droga foi dispensada e ele deixou cair seu aparelho celular durante a fuga, tendo ambos sido apreendidos pelos policiais, que não lograram êxito em efetuar a prisão em flagrante (fl. 603).
+Em relação à alegação de acesso indevido ao telefone celular do paciente, sem autorização judicial, não há constrangimento ilegal demonstrado nos autos. A mera apreensão do aparelho celular, nos termos do art. 6º do Código de Processo Penal ou em flagrante delito, não está sujeita à reserva de jurisdição (Tema 977/STF).
+A revisão das conclusões da Corte local, nos pontos, implicaria reexame de matéria fático-probatória, inviável na via do habeas corpus.
+De outra parte, o Tribunal de Justiça, a despeito da pequena quantidade de drogas apreendidas (13 tubos de cocaína - 2 g), consignou que foi realizado levantamento de informações no celular, contendo histórico de conversas na s quais o ora paciente estaria comercializando entorpecentes (fl. 608).
+Ademais, consoante a tese firmada no Tema 506 do Supremo Tribunal Federal, nos termos do § 2º do artigo 28 da Lei n. 11.343/2006, será presumido usuário quem, para consumo próprio, adquirir, guardar, tiver emdepósito, transportar ou trouxer consigo até 40 gramas de cannabis sativa ou seis plantas fêmeas, até que o Congresso Nacional venha a legislar a respeito.
+Com efeito, além de o precedente ser restrito à cannabis sativa, afasta-se também a presunção relativa de porte para consumo pessoal diante da comprovada autoria de tráfico de drogas no caso concreto.
+Nesse contexto, não é possível desconstituir a conclusão da Jurisdição ordinária sobre a condenação do paciente por tráfico de drogas, notadamente por ser vedado, na via do habeas corpus, revolver o contexto fático-probatório dos autos.
+Quanto ao regime prisional, considerando o montante da sanção - 5 anos e 10 meses de reclusão -, e a reincidência específica do paciente (fl. 253), o regime inicial fechado se impõe por expressa determinação legal, nos termos do art. 33, § 2º, b, do Código Penal.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADES. BUSCA PESSOAL. NÃO OCORRÊNCIA. ACESSO AO CELULAR DO PACIENTE, SEM AUTORIZAÇÃO JUDICIAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO. INCIDÊNCIA DO TEMA 506/STF. NÃO APLICAÇÃO. DESCLASSIFICAÇÃO. REEXAME FÁTICO-PROBATÓRIO. REGIME PRISIONAL FECHADO. REINCIDÊNCIA. POSSIBILIDADE.
+Petição inicial indeferida liminarmente.
