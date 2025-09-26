@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE BARREIRA DE MAIA FILHO, para impugnar a decisão proferida TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, que não admitiu o recurso especial.
+Em primeiro grau (fls. 980-1000) , o agravante foi condenado às penas privativas de liberdade de 13 (treze) anos, 7 (sete) meses e 10 (dez) dias de reclusão, como incurso no art. 1º, I, c/c art. 12, I, da Lei nº 8.137/1997, c/c art. 71, do Código Penal, e nos arts. 299 e 304 c/c arts. 69 (quatro vezes) e 71 (uma vez), todos do CP, em regime inicial fechado, e de 112 (cento e doze) dias-multa, o que foi mantido pelo Tribunal de origem (fls. 1090-1111).
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, por alegada violação ao artigo 65, inciso III, alínea "d" do Código Penal (fls. 117-1126).
+Não admitido o recurso especial (fls. 1149-1154), a defesa interpôs o presente agravo em recurso especial (fls. 1159-1172).
+Sobreveio contraminuta (fls. 1174-1177).
+O Ministério Público Federal opinou pelo conhecimento do agravo em recurso especial (fls. 1190-1201).
+É o relatório. DECIDO.
+Presentes os requisitos de admissibilidade, conheço do agravo em recurso especial.
+No caso vertente, a defesa objetiva "seja excluído os dois últimos crimes de falsidade ideológica, artigo 299 CP pela absoluta falta de prova, e no segundo momento seja aplicado o princípio da consunção absolvendo os crimes meios, pelos crimes fins, subsidiariamente, caso entenda vossa excelência que apenas um dos delitos seja absolvido pelo crime fim, no que tange o crime contra ordem tributaria este deve estabelecer o mínimo legal, tendo em vista a confissão espontânea e a continuidade delitiva já reconhecida em sede de sentença (fl. 1125).
+Verifico que o presente caso esbarra em diversos óbices sumulares, a iniciar pelo óbice da Súmula 284, do STF, pois o recorrente alega ofensa ao artigo 65, inciso III, alínea d, do Código Penal. Porém, não verifico o cotejo quanto às contrariedades invocadas, deixando de atender ao que dispõe o artigo 1.029 do CPC, o qual dispõe que o recurso especial conterá: "I - a exposição do fato e do direito; II - a demonstração do cabimento do recurso interposto; III - as razões do pedido de reforma ou de invalidação da decisão recorrida".
+Do mesmo modo, quanto ao alegado malferimento ao artigo de lei, verifica-se correta a decisão de inadmissibilidade no ponto, quanto à ausência de prequestionamento no Tribunal de origem, o que atrai a incidência do óbice da Súmula 211, do STJ.
+Ainda, quanto à aplicação do princípio da consunção, adoto o bem lançado parecer do Ministério Público (fls.1192-1201):
+"Nesse contexto, vê-se que o acórdão do Tribunal a quo, ao julgar o apelo defensivo, apresentou fundamentos idôneos, em fiel observância à legislação de regência e ao entendimento jurisprudencial, a fim de afastar a pretendida absolvição (art. 1º, I, c/c art. 12, I, da Lei nº 8.137/1997) e a consunção (do crime de falsidade ideológica pelo de uso de documento falso e ambos pelo delito tributário), bem como para manter a dosimetria da pena.
+ ..
+Assim, "rever tal entendimento, para decidir pela absolvição, desclassificação, ou pela imposição do princípio da consunção, tal como pugna o especial, importaria em reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, por força do Enunciado Sumular n. 7 do Superior Tribunal de Justiça." (AgRg nos E Dcl no AR Esp 1.328.083/MS, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 15/3/2022, D Je de 22/3/2022).
+ ..
+Portanto, de rigor a incidência da Súmula 7/STJ.
+Demais disso, vale frisar que o Tribunal a quo decidiu por não aplicar o princípio da consunção ao caso concreto, afastando a tese de absorção do crime do art. 299 pelo do art. 304, ambos do Código Penal, e destes pelo delito do art. 1º, I, da Lei nº 8.137/1990, pois entendeu que, o contexto fático-probatório construído nos autos, em especial a distância temporal entre as falsificações dos CPF, sua utilização para constituir empresas mediante documentos materialmente falsificados e posterior omissão das informações à autoridade fazendária, revela a autonomia subjetiva na prática dos crimes em comento.
+As pretensões de absolvição e da aplicação do princípio da consunção esbarram no óbice da súmula n. 7, STJ, por demandarem aprofundado reexame fático-probatório, incabível nesta sede.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
