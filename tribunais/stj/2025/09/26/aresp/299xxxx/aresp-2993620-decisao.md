@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO CHESF DE ASSISTÊNCIA E SEGURIDADE SOCIAL FACHESF contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado:
+"DIREITO DO CONSUMIDOR. AGRAVO INTERNO. PLANO DE SAÚDE COLETIVO. EX-EMPREGADO APOSENTADO. CUSTEIO INTEGRAL PELO USUÁRIO. VALOR DA MENSALIDADE. IGUALDADE COM OS ATIVOS. APLICAÇÃO DO TEMA 1034 DO STJ . RECURSO CONHECIDO E DESPROVIDO." (fl. 983)
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 808-823.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 489 e 1.022 do CPC/2015 e 31 da Lei n. 9656/98. Sustenta, em síntese, que: a) mesmo a recorrente trazendo nos seus embargos de declaração o expresso mandamento sobre a necessidade de que o aposentado assuma a integralidade do pagamento para manutenção do seu plano de saúde, notadamente porque, no caso sub judice, havia participação substancial da Chesf no custeio das mensalidades dos funcionários ativos, o e. Tribunal de Justiça ignorou a argumentação, sem sequer fazer menção a justificativa expressa para as questões. Como restou provado nos autos, é plenamente possível que sejam ofertados preços diferenciados para ex-empregados e ativos, uma vez que o preço diferenciado provém de um acordo coletivo, do qual a parte recorrida não pode usufruir porque não faz mais jus, por não ser alcançada pelo ACT; e b) "consoante provado nos autos, é plenamente possível que sejam ofertados preços diferenciados para ex-empregados e ativos, uma vez que o preço diferenciado provém de um acordo coletivo, do qual a apelante não pode usufruir porque não faz mais jus. Ora, considerando que o PAP não possui contraprestação/mensalidade, não se pode falar em sua manutenção após encerrado o vínculo trabalhista do recorrido, pois o art. 31 da Lei no 9.656/98 apenas respalda a manutenção de produtos (planos de saúde e não planos assistenciais de natureza trabalhista) para os quais houve contribuição (mensalidades) por pelo menos dez anos, o que, definitivamente, não é o caso do PAP" (fls. 837-838).
+Contrarrazões às fls. 848-851, e-STJ.
+Sobreveio decisão de admissibilidade que negou seguimento, em relação ao custeio do plano de saúde do ex-empregado, por conformidade com os Tema 1034 do STJ. No mais, inadmitiu o recurso especial, por ausência de violação dos arts. 489 e 1022 do CPC/2015.
+Interpostos simultaneamente o presente agravo em recurso especial e agravo interno, o qual fora negado provimento, em razão da conformidade com julgado e o Tema 1034/STJ (fls. 983-990)
+É o relatório. Decido.
+A irresignação não merece prosperar.
+De início, não se conhece a alegada ofensa ao art. 31 da Lei n. 9656/98, em relação ao custeio do plano de saúde do ex-empregado. Na hipótese, observa-se que a questão foi dirimida com juízo de conformidade ao Tema n. 1034/STJ, em sede de agravo interno na Corte de origem (e-STJ, fls. 983-990).
+Com efeito, nos termos da jurisprudência do STJ, "É incabível qualquer recurso contra o acórdão proferido no agravo interno pela corte de justiça que refuta a decisão de admissibilidade do recurso especial, isto porque foi uma opção política do legislador dar a máxima efetividade à sistemática dos recursos repetitivos, atribuindo exclusivamente, aos tribunais ordinários, a competência, em caráter definitivo, de proferir juízo de adequação da hipótese concreta ao precedente proferido em recurso repetitivo" (AgInt na Pet 11.939/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/06/2017, DJe de 19/06/2017).
+Por outro lado, rejeita-se a alegada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. TJ-BA analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE ATIVA DO CONDOMÍNIO. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e sufici ente, sobre a controvérsia estabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço parcialmente do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 12% para 13% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
