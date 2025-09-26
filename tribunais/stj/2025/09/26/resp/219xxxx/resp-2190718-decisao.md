@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por Filippe Silva dos Santos, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 1502410-92.2023.8.26.0537 (fls. 329/347).
+Postulou a defesa o redimensionamento da pena, porque reconhecidas duas majorantes na terceira etapa da dosimetria, mais especificamente o concurso de agentes e o emprego de arma de fogo, sem fundamentação idônea para tanto.
+Ao final da peça, requereu o provimento do recurso, com a redução da fração de aumento na terceira fase para o mínimo (1/3) ou até mesmo metade. Subsidiariamente, a aplicação do regime inicial semiaberto (fl. 361).
+Oferecidas contrarrazões (fls. 367/371), o recurso especial foi parcialmente admitido na origem (fls. 374/375).
+A Procuradoria-Geral da República opinou pelo não conhecimento do recurso especial e, caso conhecido, pelo desprovimento (fls. 385/390).
+É o relatório.
+Na dosimetria da pena, assim dispôs a Corte de origem (fls. 343/345 - grifo nosso):
+ ..
+Na derradeira etapa, as penas foram aumentadas em 1/3 (um terço) pelo concurso de agentes e, na sequência, em 2/3 (dois terços) pelo emprego de arma de fogo, resultando em 8 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e 21 (vinte e um) dias-multa, fixados no valor unitário mínimo legal, o que não comporta reforma.
+Ressalta-se que no caso de concurso de majorantes, a limitação à aplicação da maior delas, conforme dispõe o artigo 68, parágrafo único, do Código Penal, possui caráter facultativo
+ ..
+Justifica-se o aumento uma vez que o crime praticado com a incidência de mais de uma majorante é evidentemente mais grave do que aquele cometido mediante uma destas causas de aumento de pena, pois decerto que o agente que age em comparsaria e utilizando-se de arma de fogo possui maiores chances de êxito que o agente que age sozinho e desarmado.
+ ..
+Com efeito, a jurisprudência desta Corte Superior admite que a fração de aumento da pena do concurso de pessoas, incidente na terceira fase da dosimetria, seja absorvida pela fração de 2/3 concernente ao emprego de arma de fogo (art. 157, § 2º-A, inciso I, do Código Penal, com redação dada pela Lei n. 13.654/2018), considerando a proporcionalidade na fixação da reprimenda e, ainda, a não indicação de elementos concretos que demonstrem a maior gravidade do delito de forma a justificar a aplicação cumulada das frações de aumento do roubo, com base nas alterações provenientes da Lei n. 13.654/2018.
+Nesse sentido: respeitada a proporcionalidade da pena no caso concreto, e a intenção da Lei n. 13.654/2018, afasta-se a majorante do art. 157, § 2º, inciso II ("Apena aumenta-se de 1/3 (um terço) até metade se há o concurso de duas ou mais pessoas"), aplicando-se apenas a do art. 157, § 2.º-A, inciso I ("A pena aumenta-se de 2/3 (dois terços)" se a violência ou ameaça é exercida com emprego de arma de fogo"), ambas do Código Penal (HC n. 472.771/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/12/2018 - grifo nosso).
+A propósito:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. TERCEIRA ETAPA. MAJORANTES DO CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. CÁLCULO CUMULATIVO. AUSÊNCIA DE FUNDAMENTAÇÃO. ILEGALIDADE. INCIDÊNCIA APENAS DA MAJORANTE QUE MAIS AUMENTA A PENA. AUMENTO DE 2/3. NOVO CÁLCULO DA REPRIMENDA.
+1. Deve ser mantida, por seus próprios e jurídicos fundamentos, a decisão monocrática que concedeu a ordem.
+2. Segundo a jurisprudência desta Corte, optando o magistrado sentenciante pela incidência cumulativa de causas de aumento da parte especial, a escolha deverá ser devidamente fundamentada, lastreada em elementos concretos dos autos, a evidenciar o maior grau de reprovação da conduta e, portanto, a necessidade de sanção mais rigorosa (HC n. 501.063/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 4/9/2020).
+3. Na hipótese, o Magistrado de primeiro grau, corroborado pelo Tribunal a quo, não fundamentou idoneamente a aplicação cumulada das duas majorantes, pois não foram apresentados elementos concretos extraídos dos autos que evidenciassem a maior reprovabilidade da conduta, havendo apenas menção genérica de que a presença da cada uma das majorantes implica necessariamente em situação mais gravosa, o que caracteriza ilegalidade flagrante.
+4. Agravo regimental improvido.
+(AgRg no HC n. 652.610/SC, de minha relatoria, Sexta Turma, DJe 7/6/2021 - grifo nosso).
+Diante do quanto provido, preservados os demais termos da dosimetria da pena, redimensionam-se as penas do recorrente, com extensão de efeitos ao corréu Venicius de Jesus Barreto, a 7 anos, 9 meses e 10 dias de reclusão, mais pagamento de 36 dias-multa.
+Levando em consideração a primariedade dos agentes, bem como a ausência de circunstâncias judiciais desfavoráveis, fixo, em conformidade com o art. 33, § 2º, b, do Código Penal, o regime prisional semiaberto.
+Ante o exposto, dou parcial provimento ao recurso especial para redimensionar as penas privativa de liberdade e pecuniária do recorrente, bem como para abrandar o regime prisional, com extensão de efeitos ao corréu Venicius de Jesus Barreto.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. ROUBOS MAJORADOS EM CONTINUIDADE DELITIVA. CONCURSO DE DOIS AGENTES E EMPREGO DE ARMA DE FOGO. TESE DE DESPROPORCIONALIDADE NA SOBREPOSIÇÃO DAS CAUSAS DE AUMENTO. OCORRÊNCIA. CARÊNCIA DE INDICAÇÃO, NA DOSIMETRIA DA PENA, PELAS INSTÂNCIAS ORDINÁRIAS, DE ELEMENTOS CONCRETOS QUE DEMONSTREM A MAIOR GRAVIDADE DO DELITO. APLICAÇÃO DO ACRÉSCIMO DE 2/3. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ. PENAS REDIMENSIONADAS. PLEITO DE ALTERAÇÃO DO REGIME INICIAL. PROVIMENTO. CÁRCERE CALCULADO NO PATAMAR ENTRE 4 E 8 ANOS DE RECLUSÃO, PRIMARIEDADE E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. SÚMULA 440/STJ. EXTENSÃO DOS EFEITOS DA DECISÃO AO CORRÉU QUE SE IMPÕE. APLICAÇÃO DO ART. 580 DO CPP.
+Recurso especial parcialmente provido, com extensão de efeitos ao corréu Venicius de Jesus Barreto.
