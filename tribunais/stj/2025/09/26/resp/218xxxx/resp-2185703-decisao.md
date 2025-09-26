@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por Jeferson Paulo Rodrigues Fagundes, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais na Apelação Criminal n. 1.0000.24.191734-3/001 (fls. 391/428).
+Apontou a defesa que o acórdão incorreu em violação dos arts. 387, § 2º, do CPP e 59 do CP, uma vez que, a despeito da imposição de medida cautelar diversa da prisão de recolhimento domiciliar noturno durante a instrução do processo, não houve a detração do período pelo qual a cautelar vigeu no momento da fixação do regime inicial de cumprimento de pena.
+Sustentou que o entendimento adotado pelas instâncias ordinárias foi de encontro à tese fixada por esta Corte Superior no Tema n. 1.155.
+Ao final da peça recursal, requereu o provimento do recurso, com a reforma do acórdão (fl. 453).
+Oferecidas contrarrazões (fls. 457/459), o recurso especial foi admitido na origem (fls. 463/465).
+A Procuradoria-Geral da República opinou pelo provimento do recurso especial (fls. 475/480).
+É o relatório.
+Assiste razão à defesa.
+Sobre a detração, cumpre ressaltar que o § 2º do art. 387 do Código de Processo Penal, acrescentado pela Lei n. 12.736/2012, dispõe que o tempo de prisão cautelar deve ser considerado para a determinação do regime inicial de cumprimento de pena. Ou seja, a detração do período de segregação cautelar relativa ao delito em julgamento deve influenciar já no estabelecimento do regime inicial pela decisão condenatória. Destarte, forçoso reconhecer que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado (AgRg no HC n. 778.674/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 2/12/2022).
+Na espécie, constato que o Tribunal a quo não analisou possível detração, sob o argumento de que tal operação seria de competência do Juízo da Execução Criminal. Entretanto, a detração prevista no art. 387, §2º, do CPP é, sim, de competência do Juiz sentenciante, cabendo a ele, no momento da prolação do édito condenatório, considerar o tempo de prisão provisória do réu, naquele mesmo processo, para a definição do regime prisional (AgRg no AREsp n. 1.869.444/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/8/2021).
+Quanto à possibilidade de que a cautelar diversa da prisão sirva à detração, a Terceira Seção do Superior Tribunal de Justiça, na apreciação do REsp n. 1.977.135/SC, de relatoria do Ministro Joel Ilan Paciornik, sob a sistemática dos recursos repetitivos (Tema n. 1155), consolidou o entendimento de que o período de recolhimento obrigatório noturno e nos dias de folga, com ou sem monitoramento eletrônico, por comprometer o status libertatis do acusado, deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem .
+Logo, estando o acórdão atacado em desconformidade com a jurisprudência dominante desta Corte Superior, o recurso deve ser provido.
+Ante o exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que considere o tempo de recolhimento domiciliar noturno para fins de detração da pena.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. ROUBO. USO DE DOCUMENTO FALSO. CORRUPÇÃO DE MENORES. DETRAÇÃO DE TEMPO EM MEDIDA CAUTELAR DE RECOLHIMENTO DOMICILIAR NOTURNO. POSSIBILIDADE. TEMA 1.155/STJ.
+Recurso especial provido, nos termos do dispositivo.
