@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WALMIR DIAS NOVAES contra decisão que não admitiu o recurso especial interposto com base na alínea "a" do art. 105, III, da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (fls. 255/256):
+APELAÇÃO CÍVEL. CIVIL. AÇÃO DECLARATÓRIA DE PRESCRIÇÃO DE DÉBITO CUMULADA COM USUCAPIÃO DE BEM MÓVEL. VEÍCULO. PRESCRIÇÃO SOMENTE DA PRETENSÃO DE EXIGIR O DÉBITO JUDICIALMENTE. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. COBRANÇA EXTRAJUDICIAL. POSSIBILIDADE. POSSE DO VEÍCULO SUPERIOR A 5 (CINCO) ANOS APÓS A PRESCRIÇÃO. INE XISTÊNCIA. LAPSO TEMPORAL NECESSÁRIO. USUCAPIÃO DO BEM MÓVEL. NÃO RECONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. SENTENÇA PARCIALMENTE REFORMADA.
+1. Prescreve em 5 (cinco) anos a "pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular", nos termos do art. 206, § 5º, I, do CC.
+2. O vencimento antecipado da dívida, previsto no contrato, não altera o termo inicial do prazo prescricional de cobrança, que permanece a data contratualmente estabelecida, no caso, o dia em que venceu a última parcela.
+3. "O reconhecimento da prescrição afasta apenas a pretensão do credor de exigir o débito judicialmente, mas não extingue o débito ou o direito subjetivo da cobrança na via extrajudicial" (AgInt no AREsp 1592662/SP). 4. A usucapião de bem móvel (veículo) na modalidade extraordinária, dispensa título ou boa-fé e tem como requisitos (i) a posse contínua e incontestada, ou seja, sem interrupções, mansa e pacífica, e (ii) o decurso do prazo de 5 (cinco) anos, conforme art. 1.261 do CC.
+5. Durante o período em que a dívida pode ser exigida, o devedor tem apenas a posse direta do bem, permanecendo a posse indireta com o credor.
+6. Considerando que a prescrição fulmina somente o direito de ação do credor, o débito continua a existir, tendo em vista a ausência de seu pagamento pelo devedor; o credor apenas deixa de ter a possibilidade de cobrá-lo por meio de ação judicial, não estando impedidos, entretanto, a cobrança extrajudicial ou o pagamento espontâneo pelo devedor.
+7. Diante da possibilidade de cobrança da dívida na via extrajudicial, incabível o reconhecimento da prescrição aquisitiva em favor do Autor.
+8. No caso concreto, embora tenha transcorrido o prazo quinquenal do vencimento da dívida e configurada a prescrição do débito em 14/5/2019, o autor não permaneceu na posse do caminhão por mais de cinco anos a partir dessa data, período de tempo que seria necessário para ensejar a usucapião do bem.
+9. Considerando que a parte Autora propôs a ação motivada pela comodidade de ter uma declaração de prescrição da dívida e aquisição do veículo, mas não por alguma conduta indevida imputável à parte Ré, não se afigura razoável nem justo atribuir os ônus da sucumbência ao Banco. Portanto, pelo princípio da causalidade, os ônus devem ser integralmente atribuídos ao Autor.
+10. Apelação conhecida e parcialmente provida.
+Os embargos de declaração interpostos foram rejeitados.
+Nas razões do recurso especial (fls. 353/357), a parte recorrente alega violação aos artigos art. 85 e 86, parágrafo único, do Código de Processo Civil, sustentando que o acórdão recorrido não se atentou a esses dispositivos ao dividir o ônus de sucumbência.
+Contrarrazões foram apresentadas.
+A não admissão do recurso na origem (fls. 377/378) ensejou a interposição do presente agravo às fls. 399/405.
+A parte agravada não apresentou contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se de agravo interposto contra decisão que não admitiu recurso especial interposto, com fundamento no óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Presentes os pressupostos de admissibilidade recursal - tempestividade, preparo regular e impugnação específica dos fundamentos da decisão agravada - conheço do agravo, nos termos do art. 1.042 do Código de Processo Civil de 2015.
+Os vícios falados na decisão do Tribunal de origem, que impediram a subida do recurso, estão presentes.
+Cuida-se, neste caso, de ação declaratória de inexistência de débito c/c obrigação de fazer ajuizada pelo recorrente, Walmir Dias Novaes, sendo que, em primeira instância, a dívida foi declarada prescrita e a aquisição por usucapião do caminhão objeto do financiamento.
+O Tribunal de origem, por sua vez, deu provimento parcial ao recurso de apelação interposto pelo BB LEASING S.A ARRENDAMENTO MERCANTIL, tendo em vista que, "embora tenha transcorrido o prazo quinquenal do vencimento da dívida e configurada a prescrição do débito em 14/5/2019, o autor não permaneceu na posse do caminhão por mais de cinco anos a partir dessa data, período de tempo que seria necessário para ensejar a usucapião do bem."
+A discussão no presente recurso diz respeito à distribuição do ônus de sucumbência, já que o Acórdão recorrido atribuiu-o integralmente ao Autor, ora recorrente, "Considerando que a parte Autora propôs a ação motivada pela comodidade de ter uma declaração de prescrição da dívida e aquisição do veículo, mas não por alguma conduta indevida imputável à parte Ré, não se afigura razoável nem justo atribuir os ônus da sucumbência ao Banco. Portanto, pelo princípio da causalidade, os ônus devem ser integralmente atribuídos ao Autor."
+Modificar tal conclusão implicaria reavaliar o peso de cada pedido na demanda, o que, em última análise, encontra óbice na Súmula 7/STJ.
+Com efeito, segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em sede de recurso especial, por envolver aspectos fáticos e probatórios.
+Incide sobre o tema, assim, a Súmula 7 do STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PLATAFORMA DE VENDAS ON-LINE E SERVIÇO NOTARIAL. FRAUDE EM CRV. RECONHECIMENTO DE CULPA CONCORRENTE ENTRE AUTOR E SEGUNDO RÉU. JUROS MORATÓRIOS. ART. 406 DO CC. SELIC. DÍVIDAS DE NATUREZA CIVIL. HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. CABIMENTO. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RETORNO DOS AUTOS.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que, a partir da vigência do Código Civil de 2002, os juros moratórios deverão observar a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional (art. 406). Atualmente, a taxa dos juros moratórios a que se refere o dispositivo vigente é a Taxa SELIC.
+2. Esta Corte já assentou entendimento no sentido de que o critério norteador da distribuição das verbas de sucumbência é o número de pedidos formulados e atendidos. Configurada a sucumbência recíproca, as custas processuais e os honorários advocatícios serão suportados na proporção do decaimento de cada um dos litigantes, de acordo com art. 86, caput, do CPC.
+3. Não compete a esta Corte redimensionar os honorários fixados na origem, sob pena de nova análise de aspectos fáticos, o que esbarraria na Súmula 7/STJ. Assim, cabe a devolução dos autos ao Tribunal a quo para que aplique o comando normativo do art. 86, caput, do CPC ao caso dos autos.
+Recurso especial provido.
+(REsp n. 2.135.889/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+Mantenho, portanto, o óbice aplicado na origem.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC de 2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo .
+EMENTA
