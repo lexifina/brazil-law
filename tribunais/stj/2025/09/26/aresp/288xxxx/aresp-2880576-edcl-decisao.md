@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se embargos de declaração opostos por ANTONIO OSÓRIO RIBEIRO LOPES DA COSTA, contra decisão que determinou a devolução dos autos ao Tribunal de origem, para que permaneça suspenso até a publicação do acórdão paradigma, em razão da afetação do Tema 1.368 do STJ: "Definir se a taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC) deve ser considerada para a fixação dos juros moratórios a que se referia o art. 406 do Código Civil antes da entrada em vigor da Lei nº 14.905/2024".
+Em suas razões recursais, a parte embargante alega haver omissão quanto aos argumentos apresentados em contrarrazões, no sentido de que existe previsão contratual estipulando juros moratórios de 1% ao mês e adoção do INCC como índice de correção monetária (e-STJ fls. 2809-2838).
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+A decisão embargada apreciou a questão posta de forma clara e precisa, destacando, que o recurso especial interposto discute, dentre outras matérias, se a taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC) deve ser considerada para a fixação dos juros moratórios a que se referia o art. 406 do Código Civil antes da entrada em vigor da Lei nº 14.905/2024, nos seguintes termos:
+Examinam-se recursos especiais interpostos por ERBE INCORPORADORA 001 S /A (e-STJ fls. 2443-2453) e por LOTEUM INCORPORAÇÕES S/A (e-STJ fls. 2512-2534), fundamentados na alínea "a" do permissivo constitucional, nos quais se discutem, dentre outras questões, se a taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC) deve ser considerada para a fixação dos juros moratórios a que se referia o art. 406 do Código Civil antes da entrada em vigor da Lei nº 14.905/2024.
+A questão de direito foi afetada para julgamento sob o rito dos recursos repetitivos (Tema 1.368), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental nº 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deverá ser a nalisado na forma prevista nos arts. 1.040 e 1.041 do CPC.
+Forte nessas razões, DETERMINO a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC. (e-STJ fls. 2805-2806)
+As questões suscitadas pela parte embargante, apesar de por ela classificadas como omissão, não constituem ponto omisso, contraditório ou obscuro do julgado, mas mero inconformismo com os fundamentos adotados pela decisão recorrida, diante do qual pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema.
+Assim, ao contrário do alegado pela embargante, a decisão embargada não apresenta qualquer omissão, eis que analisadas todas as questões colocadas. Os fundamentos de seus aclaratórios revelam apenas inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Conclui-se, portanto, que o presente recurso não reúne os pressupostos específicos para o seu acolhimento.
+Forte nessas razões, REJEITO os embargos de declaração no agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
