@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interno interposto pela UNIÃO da decisão de relatoria do Ministro Napoleão Nunes Maia Filho de fls. 438/442.
+Nas razões recursais, a parte recorrente alega não ser devida a aplicação da Súmula 283 do Supremo Tribunal Federal (STF) ao presente caso, afirmando que os fundamentos do acórdão recorrido foram devidamente atacados (não incidência da multa prevista no art. 3º, § 5º, do Decreto-Lei 2.398/87, por considerar que sucessão causa mortis não caracterizaria aquisição onerosa).
+Defende que a interpretação restritiva afronta o espírito da norma, pois o § 4º do mesmo dispositivo impõe a atualização cadastral, inclusive em hipóteses de transmissão hereditária, sob pena de perpetuar registros desatualizados e inviabilizar a cobrança das receitas patrimoniais (fls. 444/448).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 452/470).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do Tribunal Regional Federal da 2ª Região assim ementado (fl. 307):
+APELAÇÃO CÍVEL. ADMINISTRATIVO. TERRENO DE MARINHA. TRANSMISSÃO HEREDITÁRIA. TRANSFERÊNCIA DE TITULARIDADE CAUSA MORTIS. IMPOSIÇÃO DE MULTA POR ATRASO DE COMUNICAÇÃO DO ATO À SPU. DESCABIMENTO. ART. 116 DO DECRETO-LEI Nº 9.760/46. RECURSO NÃO PROVIDO.
+1. Apelação contra a sentença que julgou procedente o pedido para desconstituir o débito existente na Secretaria de Patrimônio da União (SPU/ES), referente à multa por atraso na comunicação da transferência dos imóveis objeto de sucessão causa mortis.
+2. Rejeita-se o pedido de retirada de pauta por simples oposição ao julgamento virtual, pois nenhum ato ou requerimento judicial pode ser imotivado, e a única razão para a retirada do feito de pauta virtual seria a pretensão à realização de sustentação oral. Desse modo, não tendo o agravado apresentado interesse em realizar sustentação oral, deve ser mantido o feito na pauta virtual. Exegese dos arts. 149-A e 149-B do Regimento Interno do TRF2, e do art. 3º, § 2º, da Resolução n o TRF2-RSP- 2021/00058, de 20.7.2021.
+3. Art. 116, § 2º, do Decreto-Lei nº 9.760/46 e art. 3º do Decreto-Lei nº 2.398/87. Dever legal de comunicação da transmissão de imóvel objeto de ocupação, pelo adquirente à Secretaria do Patrimônio da União (SPU), no prazo legal.
+4. Art. 3º, § 5º, do Decreto-Lei nº 2.398/87. Adquirente. Sujeição à multa, em caso de não comunicação da transferência do imóvel à SPU, no prazo de 60 dias. Norma que deve ser interpretada de forma restritiva, uma vez que possui caráter punitivo.
+5. No caso, a aquisição do imóvel deu-se por meio de sucessão hereditária e, por corolário, de forma não onerosa. Apelados. Condição de sucessores, e não de adquirentes. Sucessor por transferência hereditária, causa mortis, não está sujeito à cominação da aludida multa.
+6. Multa aplicada indevidamente.
+7. Apelação não provida.
+Não foram opostos embargos de declaração.
+A parte recorrente alega a ocorrência de violação ao art. 116, caput e § 2º, do Decreto-lei 9.760/1946 e ao art. 3º, § 4º, do Decreto-Lei 2.398/1987, em razão de a Corte regional ter afastado a multa aplicada pela Secretaria do Patrimônio da União (SPU) com o argumento de que a transmissão causa mortis não configuraria aquisição onerosa, inexistindo dever de comunicação sujeito à penalidade.
+A União afirma que a decisão incorreu em interpretação equivocada, confundindo o instituto do laudêmio, vinculado a transmissões onerosas entre vivos, com a multa administrativa por atraso no requerimento de transferência de registros cadastrais, de natureza autônoma e aplicável também às transmissões não onerosas, como sucessões, doações ou cisões, sob pena de desatualização do cadastro e inviabilidade da cobrança de receitas patrimoniais (fls. 316/324).
+A parte adversa apresentou contrarrazões (fls. 332/370).
+O cerne da presente controvérsia consiste em definir se a transmissão de imóveis de terreno de marinha por sucessão causa mortis se enquadra no dever legal de comunicação previsto no art. 116 do Decreto-Lei 9.760/1946 e no art. 3º do Decreto-Lei 2.398/1987, sujeitando os sucessores ao pagamento da multa por atraso.
+O Tribunal de origem solucionou a controvérsia entendendo que a multa prevista no art. 3º, § 5º, do Decreto-Lei 2.398/1987, aplicável em caso de não comunicação da transferência do imóvel à Secretaria de Patrimônio da União, somente incidia nas hipóteses de aquisição onerosa, entre vivos, e não alcançava a transmissão hereditária (fls. 301/305).
+Reconheceu, ainda, que os herdeiros, na condição de sucessores causa mortis, não se enquadravam no conceito de adquirentes, razão pela qual não poderiam ser penalizados pela ausência de comunicação no prazo legal, declarando, assim, ser indevida a aplicação da multa pela administração.
+Nos exatos termos do acórdão recorrido (fl. 301):
+A controvérsia foi corretamente solucionada pelo Juiz a quo. Assim, reporto-me, adotando como razões de decidir aos fundamentos da sentença.
+Além disso, não se discute que, à luz do disposto no art. 116, § 2º, do Decreto-Lei nº 9.760/46 e art. 3º do Decreto-Lei nº 2.398/87, se tem o adquirente o dever legal de comunicar à Secretaria do Patrimônio da União (SPU), no prazo legal, a transmissão de imóvel objeto de ocupação. Contudo, a norma contida no art. 3º, § 5º, do referido decreto, que sujeita o adquirente à multa, em razão de deixar de comunicar a transferência do imóvel à SPU, no prazo de 60 dias, deve ser interpretada de forma restritiva, uma vez que possui caráter punitivo.
+A irresignação não merece prosperar por fundamento diverso do adotado pelo Tribunal de origem.
+Inicialmente, vejamos o delineamento fático do presente caso (fl. 215):
+Trata-se de Ação Ordinária proposta por JOÃO PAULO CASTIGLIONI HELAL, CONSTANTEEN HELAL NETO e PAULA CASTIGLIONI HELAL em face de UNIAO FEDERAL, objetivando desconstituir o débito existente na SPU/ES, que aplicou multa por ausência de informação de transferência no prazo legal, referente aos imóveis inscritos nos RIPs 5705.0002020-80 e 5705.00010824-53. Subsidiariamente, requerem a redução da alíquota e da base de cálculo que serviram para a apuração do valor da multa.
+Os autores afirmam que protocolaram na SPU/ES, em 12/12/2018, dois requerimentos de comunicação de transferência da titularidade de 50% sobre dois imóveis situados em terreno de marinha, recebidos por sucessão causa mortis, conforme formal de partilha, concluído em 26/02/2018.
+Alegam que a SPU/ES está cobrando multa por atraso na comunicação da transferência, nos valores de R$567,03 (vencimento em 06.02.2019) e R$ 31.464,30 (vencimento em 31.01.2019), totalizando o montante de R$ 32.031,33(trinta e dois mil, trinta e um reais, e trinta e três centavos), com base no artigo 3º, §§ 4º e 5º do Decreto-Lei nº. 2.398/1987 e no artigo 116 do Decreto-Lei nº. 9.760/1946, referente aos dois imóveis recebidos de herança.
+Sendo esse o quadro, verifico que a jurisprudência da Primeira Turma do Superior Tribunal de Justiça se formou no sentido da irretroatividade da Lei 14.474/2022, que alterou o § 4º do art. 3º do Decreto-Lei 2.398/1987, passando a partir de então a exigir a comunicação das transmissões não onerosas no prazo legal.
+A propósito:
+ADMINISTRATIVO. TERRENO DE MARINHA. TRANSMISSÃO NÃO ONEROSA ANTERIOR À LEI N. 14.474/2022. COMUNICAÇÃO EM 60 DIAS À SPU. AUSÊNCIA. MULTA. IMPOSSIBILIDADE.
+1. As normas administrativas de caráter sancionador devem ser interpretadas de forma restritiva.
+2. Apenas com a alteração da redação do § 4º do art. 3º, do Decreto-lei n. 2.398/1987, promovida pela Lei n. 14.474/2022, passou a ser exigida a comunicação das transmissões não onerosas no prazo legal sob pena de multa.
+3. Hipótese em que a transmissão da titularidade, em decorrência de sucessão hereditária, ocorreu em 2008, sendo inviável a imposição de multa por ausência de comunicação à SPU em 60 dias da transferência.
+4. Recurso especial desprovido.
+(REsp n. 2.149.911/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/8/2025, DJEN de 29/8/2025 - sem destaque no original.)
+Na espécie, extrai-se da fl. 215 que a transferência da titularidade, em razão de sucessão causa mortis, deu-se no ano de 2018, não sendo possível a aplicação de multa pela falta de comunicação do ato à SPU, no prazo de 60 dias.
+Isso porque "apenas com a edição da Lei n. 14.474/2022 surgiu a obrigatoriedade de comunicação das transmissões não onerosas à SPU no prazo legal sob pena de sanção" (REsp 2.149.911/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/8/2025, DJEN de 29/8/2025).
+Ante o exposto, reconsiderando a decisão recorrida, conheço do agravo para negar provimento ao recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
