@@ -1,0 +1,22 @@
+DECISÃO
+Walter Armando Del Ducca opõe novos embargos de declaração à decisão de fls. 597/599, de minha lavra, que rejeitou os primeiros aclaratórios, mantendo a decisão que conheceu do agravo para não conhecer do recurso especial (fls. 585/587).
+Em suas razões, a Defensoria Pública da União aponta a existência de omissão na decisão impugnada, em relação ao art. 61 do Código de Processo Penal (fl. 608). Argumenta que esta Corte não se manifestou sobre a ocorrência da prescrição da pretensão punitiva estatal. Sustenta que o réu, por ter mais de 70 anos na data da sentença condenatória, faz jus à redução do prazo prescricional pela metade, lapso que já teria transcorrido desde o último marco interruptivo (fl. 608).
+Pugna, ao final, pelo conhecimento e provimento dos embargos, para que seja sanada a omissão e declarada a extinção da punibilidade.
+Instado a se manifestar, o Ministério Público Federal opina pela rejeição dos embargos (fls. 621/630).
+É o relatório.
+Estou de acordo com o nobre parecerista: a pretensão não merece acolhida.
+A decisão embargada não padece de nenhum dos vícios preconizados no art. 619 do Código de Processo Penal.
+A tese de prescrição da pretensão punitiva, ora suscitada, não foi ventilada em nenhuma das peças recursais anteriores - nem no recurso especial (fls. 433/449), nem no agravo (fls. 479/493), tampouco nos primeiros embargos de declaração (fls. 592/593). Trata-se, portanto, de matéria não submetida à apreciação desta Corte em momento oportuno, o que configura manifesta e indevida inovação recursal.
+Com efeito, os embargos de declaração não constituem a via processual adequada para que a parte suscite teses novas, não arguidas anteriormente, com o objetivo de ampliar o objeto do debate já encerrado. A omissão que autoriza o acolhimento do recurso integrativo é aquela existente no julgado sobre ponto que deveria ter sido apreciado, e não sobre questão trazida ao processo de forma extemporânea. A propósito: EDcl nos EDcl no AgRg no AREsp n. 2.828.508/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025 e EDcl no AgInt no AREsp n. 2.694.405/ES, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 30/6/2025, DJEN de 3/7/2025.
+Contudo, por se tratar de matéria de ordem pública, passo à sua análise, apenas a título de esclarecimento, para consignar a não ocorrência da prescrição.
+Com efeito, a pena aplicada ao réu foi redimensionada de ofício pelo Tribunal Regional, no julgamento da apelação, para 2 anos de reclusão (fls. 332/352). Nos termos do art. 109, V, do Código Penal, o prazo prescricional para essa pena é de 4 anos. Considerando que o réu contava com mais de 70 anos na data da prolação da sentença condenatória (16/4/2021 - fls. 233/246), o prazo prescricional é reduzido pela metade, para 2 anos, conforme o art. 115 do Código Penal.
+O último marco interruptivo da prescrição foi a publicação do acórdão confirmatório da condenação, ocorrida em 9/8/2022 (fls. 351/352).
+Ressalte-se que esta Corte já fixou no Tema Repetitivo 1100/STJ a tese de que o acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta. No caso, o marco anterior foi a publicação da sentença condenatória, em 16/4/2021 (fl. 247).
+Verifica-se, assim, que entre os marcos interruptivos não transcorreu o lapso prescricional de 2 anos.
+Ademais, a decisão de inadmissibilidade do recurso especial, confirmada por esta Corte, faz com que o trânsito em julgado retroaja à data do esgotamento do prazo para a interposição do último recurso cabível na instância ordinária, o que igualmente afasta a tese de prescrição (AgRg no AgRg no AREsp n. 2.374.965/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Portanto, inexistindo omissão no julgado e não se verificando a ocorrência da prescrição, a rejeição dos presentes aclaratórios é medida que se impõe.
+À míngua de seus pressupostos, rejeito os presentes embargos de declaração.
+Publique-se.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO. PRESCRIÇÃO. INOVAÇÃO RECURSAL. VÍCIO INEXISTENTE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA.
+Embargos de declaração rejeitados.
