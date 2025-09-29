@@ -1,0 +1,34 @@
+DECISÃO
+A controvérsia foi devidamente sintetizada no parecer ministerial acostado às e-STJ fls. 492/493, cujo relatório ora transcrevo:
+Trata-se de recurso especial (e-STJ, fls. 453/461) à base da alínea a da norma constitucional contra aresto do Tribunal de Justiça do Estado de Minas Gerais (e-STJ, fls. 435/441) que desprovera agravo em execução penal mantendo concessão de indulto à base no Decreto Presidencial nº 11.846/23, com esta ementa (e-STJ, fl. 435):
+"AGRAVO EM EXECUÇÃO PENAL - INDULTO - DECRETO PRESIDENCIAL Nº 11.846/2023 - CONCESSÃO - MANUTENÇÃO - SUPOSTA FALTA GRAVE - AUSÊNCIA DE HOMOLOGAÇÃO PELO JUÍZO DA EXECUÇÃO - RECURSO DESPROVIDO. A prática de falta grave no período de doze meses anteriores à publicação do Decreto Presidencial resulta na impossibilidade de concessão da benesse de comutação de pena e do indulto. No entanto, enquanto a falta grave não for homologada pelo Juízo competente, a mera informação sobre a suposta infração não pode servir como impedimento para a concessão do benefício, conforme estabelece o art. 6º, caput, do Decreto Presidencial nº 11.846/2023."
+Em recurso especial o diligente Parquet estadual reputa violado o artigo 6º, caput, do Decreto Presidencial nº 11.846/23, pleiteando cassação do indevido indulto (e-STJ, fls. 453/461). Houve contrarrazões (e-STJ, fls. 465/470).
+Ao final do parecer , o Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Cinge-se a controvérsia a saber se é possível a concessão do indulto previsto no Decreto n. 11.846/2023, cujo art. 6º assim prevê:
+Art. 6º A declaração do indulto e da comutação de penas prevista neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei nº 7.210, de 1984 - Lei de Execução Penal, cometida nos doze meses de cumprimento da pena contados retroativamente a 25 de dezembro de 2023.
+No caso dos autos, o Tribunal de origem expôs os seguintes fundamentos para negar provimento ao recurso interposto pela defesa e manter a comutação da pena concedida ao sentenciado pelo Juízo da execução (e-STJ fl. 439):
+No presente caso, verifica-se que o agravado foi condenado ao cumprimento de pena privativa de liberdade, em relação à qual se encontrava em prisão domiciliar. Ocorre que desde a concessão da domiciliar, o agravado nunca compareceu em juízo, estando, pois, em descumprimento das condições outrora estabelecidas, conforme certidão de seq. 100.1 - SEEU.
+Apesar da possível falta pendente, o Magistrado de primeira instância destacou que "mesmo que fosse homologada, e fosse classificada como de natureza grave, não seria capaz de retroagir a ponto de impedir a benesse pleiteada, sob pena de ataque ao princípio da Presunção de Inocência, configurando, ainda, analogia extensivain malam partem, considerando o texto expresso do decreto, que prevê como requisito a ausência de falta nos últimos 12 meses retroativos a 25/12/2023, apuradas sob o pálio do contraditório e da ampla defesa".
+Dito isso e apesar das pertinente considerações do Órgão de Execução do Ministério Público, verifica-se que na hipótese em análise não há a instauração do incidente de apuração de falta grave que, consequentemente, não foi homologa, de forma que não há óbice a concessão do indulto.
+Portanto, considerando que não houve a homologação de falta grave e que os requisitos foram cumpridos, a manutenção da decisão é medida que se impõe.
+Nesse sentido, já decidiu este egrégio Tribunal de Justiça do Estado de Minas Gerais:
+ ..
+Verifica-se que, não obstante a prática de falta disciplinar de natureza grave pelo ora recorrido no curso da execução, não houve a sua devida homologação no período de doze meses anteriores ao dia 25/12/2023, o que impede que se negue o benefício da comutação pleiteado, conforme interpretação do requisito previsto no art. 6º do Decreto n. 11.846/2023.
+Nesse sentido, cito precedentes análogos em decretos de indulto com redação idêntica:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO, NÃO HOMOLOGADA ATÉ A DECISÃO QUE EXAMINOU O PEDIDO DE CONCESSÃO DO BENEFÍCIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 5º do Decreto n. 8.615/2015, "a declaração do indulto e da comutação de penas previstos neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei de Execução Penal, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2015".
+2. Na hipótese, não obstante a prática de novo crime pelo agravado no curso da execução, não houve a homologação da falta grave até a decisão que indeferiu o benefício do indulto, o que impede a negativa do benefício, pela utilização de requisito não constante do Decreto n. 8.615/2015 para indeferir a benesse requerida. Precedente.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 465.446/PR, de minha relatoria, unânime, Sexta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL 8.380/2014. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO PREVISTO NA NORMA (12 MESES ANTERIORES Á PUBLICAÇÃO DO DECRETO). INFRAÇÃO NÃO HOMOLOGADA ATÉ A DECISÃO QUE EXAMINOU O PEDIDO DE CONCESSÃO DO BENEFÍCIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A falta grave não impede a obtenção do indulto, consoante disposto no art. 52 da LEP, exceto se praticada no período previsto no decreto presidencial e homologada até a decisão que examina o pedido de concessão do benefício.
+2. Embora se admita, em algumas hipóteses, que a homologação da falta grave se dê após a publicação do Decreto Presidencial, desde que aquela tenha sido praticada durante o período que antecede os 12 meses da sua publicação, em qualquer situação referida homologação deve ocorrer antes da decisão denegatória do benefício, o que, ao que tudo indica, não se efetivou no caso em apreço.
+3. Agravo Regimental improvido.
+(AgRg no HC 342.454/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/03/2017, DJe 13/03/2017, grifei.)
+Com efeito, a falta grave não impede o deferimento do indulto ou da comutação, exceto se praticada e homologada, com a imposição de sanção, no período previsto no decreto presidencial, o que não ocorreu no caso concreto.
+Portanto, a Corte estadual interpretou corretamente o referido dispositivo, de maneira que não prospera a insurgência ministerial.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
