@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. AÇÃO DESCONSTITUTIVA. NEGÓCIO JURÍDICO. DESERÇÃO. INEXISTÊNCIA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA POR ANALOGIA DA SÚMULA N.º 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. Recurso a que se nega provimento.
+RELATÓRIO
+Trata-se de recurso especial interposto por MASSA FALIDA DO GRUPO LAGINHA AGRO INDUSTRIAL S.A. (GRUPO LAGINHA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul, assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DESCONSTITUTIVA DE NEGÓCIO JURÍDICO E ANULATÓRIA DE TÍTULOS DE CRÉDITO. SENTENÇA DE IMPROCEDÊNCIA. DETERMINAÇÃO DE COMPLEMENTAÇÃO DAS CUSTAS RECURSAIS COM BASE NO VALOR DA CAUSA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO. VALOR DA CAUSA EXORBITANTE. IMPOSSIBILIDADE DE FIXAÇÃO DA VERBA SUCUMBENCIAL POR APRECIAÇÃO EQUITATIVA, CONFORME ENTENDIMENTO DO STJ, FIXADO NO TEMA 1.076. CONDENAÇÃO QUE DEVE OBSERVAR OS PARÂMETROS ESTIPULADOS NO ART. 85, § 2º, DO CPC. VERBA HONORÁRIA FIXADA NO PERCENTUAL MÍNIMO LEGAL. RECURSO CONHECIDO E PROVIDO. 1. Recurso conhecido com a determinação de complementação do pagamento das custas recursais recolhidas a menor, devendo a parte recorrente fazê-lo com base no valor da causa, consoante decidido no Agravo de Instrumento de nº 0002155-04.2007.8.02.0000. 2. A fixação da verba honorária por equidade é admitida excepcionalmente quando o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou o valor da causa for muito baixo, não sendo aplicável em causas de valor elevado. 3. O Superior Tribunal de Justiça firmou entendimento no sentido de vedar a fixação equitativa dos honorários advocatícios quando os valores da causa, da condenação ou do proveito econômico forem altos, devendo ser observados os percentuais legais. 4. Em causas de valor exorbitante, os honorários sucumbenciais devem ser fixados com base nos percentuais mínimos estabelecidos no art. 85, § 2º, do CPC, calculados sobre o valor atualizado da causa, da condenação ou do proveito econômico obtido. 5. A sentença que arbitra honorários advocatícios por equidade em demanda que envolva elevado valor econômico viola o entendimento consolidado pelo STJ no Tema Repetitivo no 1.076 e merece reforma. 6. Recurso conhecido e provido para fixar os honorários sucumbenciais no percentual mínimo de 10% (dez por cento) previsto no art. 85, § 2º, do CPC, sobre o valor atualizado da causa, em consonância com o entendimento prevalente do Superior Tribunal de Justiça. Decisão Unânime. (e-STJ, fl. 533/534).
+Em seu recurso especial, GRUPO LAGINHA alega violação do art. 1.007, § 2º, do Código de Processo Civil, pois foi determinado, pela segunda vez, a intimação da parte embargada para complementar o pagamento do preparo recursal, mesmo após o prazo de 5 dias previsto no art. 1.007, §2º, do CPC, já ter transcorrido. A norma estabelece que, caso o recorrente não supra a insuficiência do preparo no prazo legal, o recurso será considerado deserto.
+Houve contrarrazões.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. AÇÃO DESCONSTITUTIVA. NEGÓCIO JURÍDICO. DESERÇÃO. INEXISTÊNCIA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA POR ANALOGIA DA SÚMULA N.º 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. Recurso a que se nega provimento.
+VOTO
+O recursal é cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do recurso especial e passo ao exame, que não merece prosperar.
+Da deserção
+Verifica-se que, no presente caso, o Tribunal recorrido consignou que:
+Primeiramente impede registrar que não obstante a Embargada tenha suscitado que não pode ser prejudicada pelo erro inicial da Embargante quanto a incorreção inicial do valor originalmente atribuído à causa, no momento do recolhimento do preparo da Apelação, a ora Embargada efetuou o recolhimento do preparo de forma equivocada, sem considerar o julgamento do Agravo de Instrumento de nº 0002155-04.2007.8.02.0000, a 1ª Câmara Cível do TJAL.
+Nessa vereda, como se infere do excerto do Acórdão supra transcrito, o recurso foi conhecido, entretanto, determinou-se a ora embargada efetue o complemento do preparo recursal, com base no correto valor da causa.
+Contudo, de fato, o Acórdão olvidou-se de fixar o prazo para referida complementação, dessarte, impõe-se reconhecer a omissão e assim, determinar que a embargada efetue o recolhimento no prazo de 5(cinco) dias, nos moldes do art. 1.007 do Código de Processo Civil, a fluir da publicação do Acórdão destes embargos de declaração.
+De fato, reconhecer desde já a deserção do recurso de apelação, a pretexto de observância aos princípios da economia e celeridade processuais, como pretende a Embargante, implicaria em violação ao devido processo legal, razão porque o saneamento da omissão e a oportunização de prazo para recolhimento do preparo corretamente, revelam-se as medidas mais adequadas. (e-STJ, fls. 634 ).
+Como se observa, o acórdão estadual esclareceu que não foi dada oporunidade para a parte interessada complementar o preparo, razão pela qual o fez no acórdão. Assim, não há falar em intimação para a complementação do preparo pela segunda vez, conforme insiste a parte recorrente.
+Ademais, da análise das razões do presente recurso verifica-se que não foi impugnado o fundamento de violação ao devido processo legal, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Assim, o recurso não merece que dele se conheça quanto ao ponto.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
