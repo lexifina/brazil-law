@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF da 1ª região, assim ementado (fls. 868/869e):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. INDEFERIMENTO DA INICIAL. ART. 321 DO CÓDIGO DE PROCESSO CIVIL. INÉRCIA DA PARTE AUTORA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+1. Apelação contra sentença que indeferiu a inicial, com fundamento nos artigos 330, IV, c/c 321 do CPC, julgando extinto o processo, sem resolução do mérito.
+2. Diante do despacho do Juízo de origem solicitando providências para o impulso processual, o autor da ação quedou-se inerte, vindo a se manifestar apenas após a prolação de decisão terminativa exarada pelo magistrado a quo.
+3. Nos termos dos artigos 320 e 321, parágrafo único, da Legislação Processual Civil, é possível a rejeição da inicial, tendo em vista a ausência de emenda, mesmo após despacho fixando o prazo de 15 (quinze) dias para tal.
+4. Sentença mantida. Recurso não provido.
+Embargos de declaração rejeitados (fls. 905/917e).
+No recurso especial, o recorrente alega violação ao art. 320 do CPC/2015 e ao art. 17, § 6º, da Lei 8.429/1992 (redação anterior à Lei 14.230/2021), bem como ao art. 17, § 6º, II, da Lei 8.429/1992 (com redação dada pela Lei 14.230/2021), sob o argumento de que os documentos exigidos pelo juízo de origem não eram indispensáveis ao prosseguimento da ação e poderiam ser apresentados em momento posterior. Sustenta que a petição inicial já estava instruída com elementos suficientes para o regular processamento da demanda.
+Com contrarrazões (fls. 947/954e e 939/945e).
+Juízo positivo de admissibilidade (fls. 958/960e).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial e, caso conhecido, pelo seu não provimento (fls. 972/975e).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que se refere ao art. 17 da Lei 8.429/1992 e à tese a ele vinculada, verifica-se que não houve apreciação pela Corte de origem, mesmo após a oposição de embargos de declaração, o que acarreta o não conhecimento do recurso especial por ausência de prequestionamento. Aplica-se, na espécie, a Súmula 211/STJ.
+Acrescente-se que, caso a parte recorrente entendesse persistir algum vício no acórdão impugnado, seria imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do recurso especial, sob pena de incidir no óbice intransponível da ausência de prequestionamento. Assim, mostra-se inviável a apreciação das teses recursais.
+No presente caso, o Tribunal de origem, ao apreciar apelação cível interposta pelo Ministério Público Federal contra sentença que indeferiu a petição inicial, concluiu pela preclusão do direito de impugnar a decisão que determinou a emenda da inicial. A Corte registrou que, intimado para complementar a petição inicial no prazo de 15 dias, o MPF permaneceu inerte, vindo a se manifestar contrariamente a tal determinação apenas após a prolação da sentença, configurando a preclusão temporal (fls. 847/848e).
+Com efeito, verifica-se que a fundamentação adotada não foi especificamente impugnada nas razões do recurso especial, o que caracteriza deficiência da argumentação recursal. Diante da ausência de impugnação específica, mantêm-se inalterados os fundamentos da decisão, suficientes, por si sós, para sustentar o resultado do julgamento proferido pela Corte de origem, tornando inadmissível o recurso que não os combateu. Incidem, na espécie, as Súmulas 283 e 284 do STF.
+Ademais, quanto à suposta violação ao art. 320 do CPC/2015, verifica-se a deficiência da fundamentação recursal, pois a parte recorrente não desenvolveu argumentação suficiente para demonstrar em que consistiria a alegada ofensa ao dispositivo legal mencionado. Além disso, no caso dos autos, o referido artigo não contém comando normativo apto a infirmar o juízo formulado no acórdão recorrido. Aplica-se, portanto, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO APONTADO COMO VIOLADO. SÚMULA 211/STJ. RAZÕES RECURSAIS DISSOCIADAS. NÃO IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INVOCADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
