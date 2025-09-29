@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ÓRTESES E PRÓTESES. COBERTURA. NECESSIDADE DE PREVISÃO CONTRATUAL ESPECÍFICA.
+1. Somente é obrigatório o custeio de órteses, próteses e acessórios, tais como andador, talas extensoras e cadeiras de roda, pela operadora de plano de saúde quando indispensáveis ou substitutivas a ato cirúrgico.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por HERYCK HENRIQUE REZENDE DA SILVA em face da decisão de fls. 1.361-1.364, em que neguei provimento a agravo em recurso especial por meio do qual objetivava reformar acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO LIMINAR. PLANO DE SAÚDE. CRIANÇA. PORTADORA DE Encefalopatia Crônica com Disparesia Espática (CID 10 G 80.1), Hipertonia (CID 10 P94.1), Hiperreflexia (CID 10 R29.2) e Clônus. TERAPIA INTENSIVA MÉTODO PEDIASUIT. ROL DA ANS. NATUREZA NÃO TAXATIVA. OVERRULING NÃO VINCULATIVO (R Esp. Nº 1.733.013) ATENDIMENTO DEVIDO. NÚMERO DE CONSULTAS/SESSÕES. NÃO LIMITAÇÃO. CONTRATO SEM COPARTICIPAÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS LEGALMENTE ARBITRADOS. MAJORAÇÃO RECURSAL DEVIDA. SENTENÇA REFORMADA EM PARTE. RECURSO ADESIVO. AUSÊNCIA DE REALIZAÇÃO DO PREPARO. INÉRCIA DA PARTE RECORRENTE. DESERÇÃO CONFIGURADA. RECURSO NÃO CONHECIDO.
+1. Na hipótese, não pode a requerida negar a cobertura dos tratamentos. Tratando- se de doença incurável e progressiva relacionada ao Sistema Nervoso Central, a falta/interrupção/suspensão do procedimento fisioterapêutico com órteses não cirúrgicas implicaria em estagnação ou retrocesso irreparáveis na condição clínica da criança, especialmente porque se encontra em idade de pleno desenvolvimento neurológico e motor.
+2. O procedimento com Pediasuit possui registro na Anvisa sob o n. 81265770001, razão pela qual não pode ser considerado como pouco efetivo ou experimental. A melhor interpretação à espécie é no sentido de que o rol de procedimentos disposto no anexo da Resolução da ANS é de ordem exemplificativa, não exauriente, portanto, e, por isso, não pode ser fundamento para a exclusão de tratamento indicado pelo médico que acompanha a criança.
+3. Prevalece no STJ a compreensão de ser permitido às operadoras de plano de saúde limitar a cobertura de determinadas doenças, de custeio não obrigatório, sendo-lhes vedado, contudo, limitar o procedimento e insumos médico-terapêuticos indicados por profissional habilitado na busca da cura.
+4. O "overruling" no REsp 1.733.013 abrindo divergência entre as Turmas de Direito Privado reflete entendimento minoritário no âmbito do STJ e não possui força vinculante.
+5. A proibição de limitação de consulta/sessões no caso acompanha a mesma ratio decidendi desenvolvida para o tratamento do Transtorno do Espectro Autista (Ação Civil Pública nº n. 1005197-60.2019.4.01.3500), dada a natureza e consequências da doença (R Esp nº 1.679.190/SP não vinculativo). Expedida recomendação da Agência Nacional de Saúde (ANS), por meio do Comunicado nº 84/2020, tornando inaplicável a Resolução nº 428/2017, não há mais que se falar, ao menos por ora, em limitação das sessões de psicoterapia, fonoaudiologia, terapia ocupacional e, tampouco, fisioterapia conforme previsto no contrato, dada a ausência do regime de coparticipação.
+6. Honorários advocatícios sucumbenciais arbitrados conforme o disposto no artigo 85, §2º do CPC. Honorários elevados em R$ 500,00 em virtude do desprovimento do apelo, totalizando R$ 2.500,00. Reputa-se deserto o recurso quando a parte recorrente, intimada para recolher o preparo em dobro, não se manifesta no prazo assinalado. Inteligência do art. 1.007 do CPC. RECURSO ADESIVO NÃO CONHECIDO. APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Alega a parte agravante que a decisão impugnada deve ser reformada, pois a recusa em fornecer cobertura para os tratamentos terapêuticos indicados por profissional de saúde fere os arts. 10, VII, e 35-C da Lei n. 9.656/1998.
+Sustenta que os equipamentos "são intrinsecamente ligados ao tratamento multidisciplinar prescrito, funcionam como extensões vitais das terapias e são fundamentais para a efetiva reabilitação do menor" (fl. 1.369).
+Reitera a existência de dissídio jurisprudencial.
+Impugnação apresentada às fls. 1.384-1.388.
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ÓRTESES E PRÓTESES. COBERTURA. NECESSIDADE DE PREVISÃO CONTRATUAL ESPECÍFICA.
+1. Somente é obrigatório o custeio de órteses, próteses e acessórios, tais como andador, talas extensoras e cadeiras de roda, pela operadora de plano de saúde quando indispensáveis ou substitutivas a ato cirúrgico.
+2. Agravo interno a que se nega provimento.
+VOTO
+Cuida-se, neste caso, de ação ajuizada por Heryck Henrique Rezende da Silva contra UNIMED Vale do Corumbá Cooperativa de Trabalho Médico, visando a que lhe seja concedido tratamento médico adequado à sua condição clínica, incluindo terapias e fornecimento de equipamentos terapêuticos, por ser portador de encefalopatia crônica com diparesia espástica e outras condições neurológicas e motoras graves.
+Em primeira instância, o Juízo deferiu parcialmente a tutela de urgência, e, ao final, julgou parcialmente procedente os pedidos, "para determinar que a ré custeie o tratamento do autor com profissionais especialistas no protocolo PediaSuit, incluindo todas as terapias previstas de reabilitação, como fonoaudiologia, terapia ocupacional, terapia intensiva, hidroterapia e equoterapia, observando o número máximo fixado no anexo 02 do Rol de Procedimentos e Eventos em Saúde da ANS, sendo que as sessões que ultrapassarem o limite deverão ser arcadas por ambas as partes em regime de coparticipação" (fl. 938). Foi afastada, porém, a obrigatoriedade de fornecimento dos equipamentos e materiais terapêuticos prescritos, como órteses, cadeira de rodas adaptada e andador terapêutico, sob o fundamento de que tais itens não estavam vinculados a ato cirúrgico, conforme o art. 10, VII, da Lei n. 9.656/1998.
+Interposta apelação, o Tribunal de Justiça do Estado de Goiás deu provimento parcial ao recurso da parte autora, apenas para afastar a limitação do número de sessões terapêuticas, mantendo, todavia, a exclusão do fornecimento dos equipamentos terapêuticos.
+Irresignada, a parte autora interpôs recurso especial, o qual não foi admitido pelo TJGO.
+Na decisão singular agravada, neguei provimento ao agravo em recurso especial, em virtude da incidência do óbice da Súmula n. 83 desta Corte.
+Isso, por que, neste caso, o Tribunal de origem não se distanciou da orientação jurisprudencial do STJ, segundo o qual somente é obrigatório o custeio, por operadora de plano de saúde, de órteses e próteses diretamente ligadas a procedimento cirúrgico ou substitutivas de ato cirúrgico. A saber:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. PLANO DE SAÚDE. ÓRTESE NÃO LIGADA A PROCEDIMENTO CIRÚRGICO. NEGATIVA DE COBERTURA. SUBSTITUIÇÃO DE INTERVENÇÃO CIRÚRGICA. FALTA DE COMPROVAÇÃO. REEXAME. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça assentou-se no sentido de ser lícita a negativa de custeio, pela operadora de plano de saúde, de órteses não ligadas a ato cirúrgico, consoante o disposto no art. 10, I e VII, da Lei nº 9.656/1998. Todavia, os planos de saúde devem custear órteses substitutivas de ato cirúrgico.
+2. Hipótese em que o acórdão afirma não ter sido comprovada a função substitutiva da órtese ao ato cirúrgico. Revisão que demandaria o reexame de provas (Súmula nº 7/STJ).3. Recurso especial não conhecido.
+(REsp n. 2.190.611/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ÓRTESE. INDICAÇÃO MÉDICA. ESSENCIAL À EFICÁCIA DO ATO CIRÚRGICO. CUSTEIO DEVIDO. PRECEDENTES. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. A jurisprudência desta Corte firmou-se no sentido da obrigatoriedade do custeio, pela operadora de plano de saúde, de próteses e órteses ligadas ao ato cirúrgico. Com efeito, "é nula a cláusula contratual que exclua da cobertura órteses, próteses e materiais, desde que diretamente ligados ao procedimento cirúrgico a que se submete o consumidor" (AgInt no AgInt no REsp 1.919.376/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/5/2021, DJe de 28/5/2021).
+2. O Tribunal de origem concluiu, mediante a análise das provas dos autos, que a prótese pleiteada é essencial à eficácia do tratamento da doença que acomete o beneficiário. Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas. Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.585.557/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO DOMICILIAR. ÓRTESES E PRÓTESES. NECESSIDADE DE PREVISÃO CONTRATUAL ESPECÍFICA. RECURSO ESPECIAL PROVIDO. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. POSSIBILIDADE.
+1. Os serviços de home care consistem em uma alternativa à internação hospitalar, nos casos em que o conjunto de atividades prestadas em domicílio é caracterizado pela atenção em tempo integral ao paciente com quadro clínico mais complexo e com necessidade de tecnologia especializada. Nos casos em que a atenção domiciliar não se der em substituição à internação hospitalar, a jurisprudência deste Superior Tribunal de Justiça reconhece a necessidade de observância da previsão contratual ou negociação entre as partes.
+2. "A atenção domiciliar depende de cobertura contratual e indicação clínica, podendo ser prestada nas modalidades de assistência domiciliar e internação domiciliar. A atenção domiciliar não supre a participação da família, responsável também pelo trabalho do cuidador, salvo cobertura contratual quanto a este último" (Enunciado n. 64 das Jornadas de Direito da Saúde do CNJ; redação dada na III Jornada de Direito da Saúde - 18/3/2019).
+3. Somente é obrigatório o custeio de órteses, próteses e acessórios, tais como andador, talas extensoras e cadeiras de roda, pela operadora de plano de saúde quando indispensáveis a ato cirúrgico.
+4. A redistribuição dos ônus sucumbenciais, com a alteração dos honorários advocatícios fixados na origem, trata de mera consequência lógica do provimento do recurso do agravado, não se caracterizando julgamento extra petita.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.097.702/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+DIREITO CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE APARELHO AUDITIVO. EXCLUSÃO CONTRATUAL. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que determinou o custeio de aparelho auditivo por plano de saúde, apesar de exclusão contratual.
+2. A sentença de primeiro grau julgou improcedente o pedido autoral, considerando lícita a exclusão contratual de cobertura do aparelho auditivo, por não estar ligado a ato cirúrgico, conforme a Lei n. 9.656/1998 e as Resoluções Normativas da ANS.
+3. O Tribunal de Justiça reformou a sentença, determinando o custeio do aparelho auditivo, com base em relatórios médicos que comprovam a necessidade do aparelho devido à deficiência auditiva bilateral e a cobertura contratual para a doença.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a operadora de plano de saúde é obrigada a custear aparelho auditivo não ligado a ato cirúrgico, diante da exclusão contratual e da ausência de previsão de obrigatoriedade de cobertura na Lei n. 9.656/1998.
+III. Razões de decidir
+5. A jurisprudência do STJ estabelece que as operadoras de plano de saúde não são obrigadas a fornecer próteses, órteses e seus acessórios não ligados a ato cirúrgico, conforme o art. 10, VII, da Lei n. 9.656/1998.
+IV. Dispositivo e tese
+8. Recurso provido para afastar a obrigatoriedade de custeio pelo plano de saúde do aparelho auditivo.
+Tese de julgamento: "1. As operadoras de plano de saúde não são obrigadas a fornecer próteses, órteses e seus acessórios não ligados a ato cirúrgico."
+Dispositivos relevantes citados: Lei n. 9.656/1998, art. 10, VII;
+CPC, art. 98, § 3º.Jurisprudência relevante citada: STJ, REsp n. 1.915.528/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/9/2021.
+(REsp n. 2.030.772/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/4/2025, DJEN de 10/4/2025.)
+Desse modo, considerando que a parte agravante não logrou demonstrar que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido ou que o caso em exame apresentaria alguma distinção em relação aos precedentes invocados, entendo que deve ser mantida a decisão agravada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
