@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA E COMPENSAÇÃO DE VALORES. REVISÃO DE CONTRATO BANCÁRIO. PARCELA PRESCRITA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE NORMA FEDERAL. INADMISSÃO DE RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso, III, alíneas "a" e "c", da Constituição Federal.
+II Questão em discussão
+2. A questão em discussão consiste em saber (i) Se o Recurso especial pode ser conhecido considerando a alegação de violação aos artigos 368 e 369 do Código Civil; (ii), Se o dissídio jurisprudencial foi devidamente comprovado.
+II- Razões de decidir
+3. A decisão recorrida analisou detidamente todas as questões jurídicas postas, sustentando-se em fundamento fático ou jurídico suficiente para manter o resultado impugnado.
+4. A parte recorrente limitou-se à menção dos preceitos legais que considera violados, sem apresentar argumentação objetiva e convincente sobre a contrariedade ou negativa de vigência pelo Tribunal de origem.
+5. A ausência de impugnação específica e suficiente atrai a incidência das Súmulas 283 e 284 do STF, que impedem o conhecimento do recurso.
+IV. Dispositivo
+6. Agravo não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+No Recurso Especial, o agravante sustenta (i) infringência ao artigo 368 e 369 do Código Civil, argumentando que "a decisão proferida pelo Egrégio Tribunal de Justiça afronta as disposições previstas no Código Civil, ao autorizar a compensação do crédito do recorrente com uma dívida prescrita; (ii) a existência de dissídio jurisprudencial.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, ante a existência de óbices das súmulas 284 e 283 do STJ.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA E COMPENSAÇÃO DE VALORES. REVISÃO DE CONTRATO BANCÁRIO. PARCELA PRESCRITA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE NORMA FEDERAL. INADMISSÃO DE RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso, III, alíneas "a" e "c", da Constituição Federal.
+II Questão em discussão
+2. A questão em discussão consiste em saber (i) Se o Recurso especial pode ser conhecido considerando a alegação de violação aos artigos 368 e 369 do Código Civil; (ii), Se o dissídio jurisprudencial foi devidamente comprovado.
+II- Razões de decidir
+3. A decisão recorrida analisou detidamente todas as questões jurídicas postas, sustentando-se em fundamento fático ou jurídico suficiente para manter o resultado impugnado.
+4. A parte recorrente limitou-se à menção dos preceitos legais que considera violados, sem apresentar argumentação objetiva e convincente sobre a contrariedade ou negativa de vigência pelo Tribunal de origem.
+5. A ausência de impugnação específica e suficiente atrai a incidência das Súmulas 283 e 284 do STF, que impedem o conhecimento do recurso.
+IV. Dispositivo
+6. Agravo não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+ALEXANDRE AGUILAR NUNES COM. E IND. E IMP. E EXP. DE MOVEIS interpôs tempestivo recurso especial com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pela Décima Quarta Câmara Cível deste Tribunal de Justiça, acostados ao mov. 13.1 do recurso de Embargos de Declaração Cível.
+Sustentou a Recorrente, além de dissídio jurisprudencial, infringência ao artigo 368 e 369 do Código Civil, argumentando que "a decisão proferida pelo Egrégio Tribunal de Justiça afronta as disposições previstas no Código Civil, pois autorizou a compensação do crédito do recorrente com uma dívida prescrita." (mov. 1.1).
+Pois bem.
+Ao julgar o Agravo de instrumento Cível, a Câmara Julgadora decidiu por "A prescrição é in casu, e de toda maneira, mero argumento a subsidiar o pedido recursal, não alterando o resultado do agravo, como acima explicitado, o vislumbre da extinção da pretensão de cobrança. No mais, para finalizar, rememore-se o interesse na execução do crédito de sucumbência .
+(..)
+Ocorre que a recorrente não rebateu de forma específica e suficiente a fundamentação envolvendo a reclassificação do saldo devedor que, por consequência também é objeto da revisão e não o dividendo de forma isolada, o que atrai, na hipótese, a incidência, por analogia, das Súmulas nº 283 e 284 do Supremo Tribunal Federal. Confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS O ACÓRDÃO HOSTILIZADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO REGIMENTAL NÃO PROVIDO.1.. A falta de impugnação objetiva e direta aos fundamentos do acórdão recorrido, denota a deficiência da fundamentação recursal que apegou-se a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF. (..)" (AgRg no AREsp 69.414/SP, Rel. Ministro LUIS FELIPE SALOMÃO , QUARTA TURMA, julgado em 02/10 /2014, DJe 16 /10/2014) "CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESCONSTITUIÇÃO DE REGISTRO CIVIL CUMULADA COM NEGATÓRIA DE PATERNIDADE E MATERNIDADE. IMPROCEDÊNCIA DOS PEDIDOS. FILIAÇÃO SOCIOAFETIVA. RECONHECIMENTO, PELO TRIBUNAL DE ORIGEM, DA CONSOLIDAÇÃO DOS LAÇOS FAMILIARES. INCONFORMISMO DOS AUTORES. RECURSO ESPECIAL NÃO CONHECIDO. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO DESPROVIDO.1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido impede o conhecimento do apelo extremo. Nos termos da jurisprudência desta Corte, "Estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, tem incidência as Súmulas 283 e 284 do STF" (AgRg no AREsp 699.369/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe de 13/11/2015). (..)" (AgInt no REsp n. 1.526.268/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+Diante do exposto, inadmito o recurso especial interposto.
+Intimem-se.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso, ante a violação dos arts. 202, 368 e 369, do Código Civil.
+Argumenta que o recurso especial foi direcionado contra toda a decisão que rejeitou a tese de prescrição do valor transferido para a Conta de Liquidação - CL, para tanto, destaca que o acórdão recorrido afastou a análise da prescrição sob o fundamento de que a ação revisional teria caráter dúplice, entendimento que, não se sustenta, sobretudo porque o recorrido formulou pedido de compensação apenas na fase de liquidação de sentença.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Conforme se extrai do acórdão recorrido (e-STJ Fl.165), a Câmara Julgadora expressamente consignou que a prescrição, no caso, foi considerada apenas como argumento subsidiário, sem capacidade de alterar o resultado do julgamento do agravo de instrumento, que repousou em outros fundamentos.
+Ademais, consignou-se que a recorrente não rebateu de forma específica e suficiente a fundamentação relativa à reclassificação do saldo devedor, questão que, por consequência, é também objeto da revisão e não pode ser examinada de forma isolada, atraindo a aplicação, por analogia, das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+Dito isto, há muito se firmou o entendimento no sentido de que: "A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso." (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Com efeito, presente na decisão recorrida fundamento fático ou jurídico que sustente, por si, o resultado impugnado, mostra-se destituído de utilidade o exame das teses recursais relativas aos demais aspectos, já que, mesmo que acolhidas, não alterarão o que decidido.
+Cuida-se de entendimento consagrado desde a edição da Súmula 283 pelo Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nestes autos, observa-se ainda que a questão discutida, qual seja, a possibilidade de, em ação de revisão de contrato bancário, haver a compensação de crédito envolvendo parcela já prescrita, a indicar que a decisão recorrida remanescerá hígida mesmo que afastados os aspectos salientados no recurso, de modo que o recurso não pode ser conhecido.
+A análise das razões recursais indica que a parte recorrente limitou-se à menção dos preceitos legais que considera violados ou desconsiderados, sem deixar claro, de maneira argumentativa objetiva e convincente, a forma como ocorreu a efetiva contrariedade ou negativa de vigência, pelo Tribunal de origem.
+A hipótese atrai, portanto, a incidência do entendimento exposto pela súmula 284 do STF, na medida em que: "A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema." (AgInt no AREsp n. 2.444.719/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Com efeito, "As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum." (AgInt no AREsp n. 2.562.537/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+No presente feito, percebe-se das razões recursais que a parte recorrente limitou-se a revolver as alegações de sua apelação, sem, contudo, indicar de forma clara qual dispositivo de lei a interpretação do Tribunal de origem vilipendiou.
+Assim, não se mostra viável o conhecimento do recurso no aspecto.
+Quanto ao apontamento da existência de dissenso jurisprudencial, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Com efeito, a interposição do recurso especial por tal alínea exige do recorrente - além da comprovação da alegada divergência jurisprudencial, por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial -, a comparação analítica dos acórdãos confrontados, nos termos dos artigos 1029, §§1º e 2º, do Código de Processo Civil, e 255, §1º, do Regimento Interno do STJ, o que não foi feito.
+Neste ponto, o recorrente limitou-se a discorrer de forma genérica "decisão que inadmitiu o Recurso Especial da ora agravante, eis que não considerara a interposição do apelo extremo, com base na violação dos artigos 202, 368 e 369, do Código Civil e com base no dissídio jurisprudencial".
+Ocorre que, quanto a comprovação da alegada divergência jurisprudencial, "A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional." (AgInt no AREsp n. 2.662.008/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+A análise das alegações recursais, no ponto, indica mera transcrição das decisões sem a apresentação de quadro analítico ou instrumento que o valha apto a clarificar os pontos de dissonância existentes entre o paradigma e o acórdão recorrido.
+Assim, não se mostra viável o conhecimento do recurso no aspecto.
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro o percentual de honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, § 11, do CPC.
+É o voto.
