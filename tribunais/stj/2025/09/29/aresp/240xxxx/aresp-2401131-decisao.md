@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 11, 489, § 1º, III e IV, 1.022, II e parágrafo único, 5º, 6º, 373, II, 774, V, e 1.025 do CPC; na incidência da Súmula n. 7 do STJ; e na falta de demonstração da divergência jurisprudencial.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não merece conhecimento, pois a agravante não impugnou especificamente os fundamentos da decisão agravada, bem como que o recurso especial não comporta conhecimento diante do óbice da Súmula n. 7 do STJ. Requer a manutenção da decisão agravada.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de execução por quantia certa.
+O julgado foi assim ementado (fl. 202):
+AGRAVO DE INSTRUMENTO. Execução por quantia certa. Título extrajudicial (contrato de arrendamento mercantil). Executada, em regime de recuperação judicial. Aplicação de multa por ato atentatório à dignidade da justiça (não indicação de bens sujeitos à penhora), tomando a figura do artigo 774, inciso V, parágrafo único, do Código de Processo Civil. Recurso da executada. Provimento.
+Os embargos de declaração opostos foram rejeitados nestes termos (fl. 226):
+EMBARGOS DECLARATÓRIOS. Inexistência de omissão, obscuridade ou contradição. Abordagem modificativa. Embargos rejeitados.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 11 do CPC, porque todas as decisões judiciais devem ser fundamentadas, sob pena de nulidade, mas o acórdão recorrido não apresentou fundamentação suficiente;
+b) 489, § 1º, III e IV, e 1.022, II e parágrafo único, do CPC, pois o Tribunal de origem não supriu as omissões apontadas nos embargos de declaração, especialmente quanto à prática de ato comissivo pela recorrida e à demonstração do pleno funcionamento da empresa devedora;
+c) 774, V, do CPC, visto que a multa por ato atentatório à dignidade da Justiça deve ser aplicada também ao caso de conduta comissiva, como a da recorrida, que não deu efetividade à ordem judicial;
+d) 5º e 6º do CPC, uma vez que a recorrida não agiu de boa-fé nem cooperou para a efetividade da tutela jurisdicional ao não comprovar a inexistência de bens penhoráveis;
+e) 373, II, do CPC, já que cabia à recorrida o ônus de provar a inexistência de bens penhoráveis, o que não fez.
+Sustenta que o Tribunal de origem divergiu do entendimento do STJ ao afastar a aplicação da multa prevista no art. 774, V, do CPC, mesmo diante da ausência de comprovação pela recorrida da inexistência de bens penhoráveis. Cita como paradigma o REsp n. 1.815.527/PR.
+Requer o provimento do recurso para que seja mantida a decisão de primeira instância em relação à aplicação de multa à recorrida.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento por encontrar óbice na Súmula n. 7 do STJ e por não demonstrar a divergência jurisprudencial. Requer a manutenção da decisão agravada.
+É o relatório. Decido.
+I - Arts. 489, § 1º, III e IV, e 1.022, II e parágrafo único, e 11 do CPC
+O recorrente sustenta que houve omissão do Tribunal de origem, pois não supriu as omissões apontadas nos embargos de declaração, especialmente quanto à prática de ato comissivo pela recorrida, que informara que não teria nenhum bem penhorável a indicar; e à possível existência desses bens penhoráveis e ao indício de que a devedora os sonegara de forma dolosa.
+Destaca que, em sua contraminuta, relatou que a própria embargada reconhecera expressamente, no processo de recuperação judicial (fls. 4.307-4.313 daqueles autos), que apresentava um crescimento expressivo do faturamento nos últimos anos, aliado à melhoria operacional.
+Argumenta que todas as decisões judiciais devem ser fundamentadas, sob pena de nulidade, e que o acórdão recorrido não apresentou fundamentação suficiente.
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No caso, o Tribunal a quo enfrentou, embora de forma sucinta, o tema quanto à aplicação da multa por ato atentatório no caso concreto.
+Confira-se trecho do acórdão (fl. 203):
+Negando disponha de bens passíveis de penhora, nessa circunstância, à executada não cabe disciplinar reprimenda, tomando a figura do artigo 774, V, do Código de Processo Civil, não lhe sendo exigível prova negativa. Noutra perspectiva, sobrevindo prova da existência de bens penhoráveis, com eventual sonegação dolosa, bastante para caracterizar ato atentatório à dignidade da justiça, há que cumprir limites de aludido dispositivo legal, com prévia intimação de representante legal da executada.
+Entendeu o colegiado que não se pode exigir a prova negativa de não possuir bens penhoráveis, tendo a executada respondido negativamente à determinação de indicação de bens à penhora, negando sua existência. Ademais, ressalvou que, na hipótese de posterior descoberta de bens, com prova da sonegação dolosa, haveria de se aplicar a sanção pecuniária.
+Assim, não há falar em violação do art. 1.022 do CPC, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, uma vez que os votos condutores do acórdão recorrido e do aresto dos embargos de declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pelo agravante.
+II - Arts. 5º e 6º, 373, II, e 774, V, do CPC
+Nesse ponto, a agravante argumenta que houve violação dos mencionados dispositivos, pois a recorrida não agiu de boa-fé nem cooperou para a efetividade da tutela jurisdicional ao não comprovar a inexistência de bens penhoráveis. Defende que a multa por ato atentatório à dignidade da Justiça deve ser aplicada também ao caso de conduta comissiva, como a da recorrida, que não deu efetividade à ordem judicial.
+Não obstante as alegações do recorrente, o Tribunal reconheceu não haver provas de ocultação dolosa de bens, tendo a agravada respondido não ter bens a indicar.
+Nesse contexto, para se chegar à conclusão de que a agravada está ocultando bens com a finalidade de frustrar o processo de execução, seria necessário reexaminar o conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, nos termos da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE BENS PELO DEVEDOR. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. NÃO OCORRÊNCIA.
+1. O col. Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, tendo como base o acervo fático-probatório dos autos, afastou a imposição da multa em face da ausência de provas de que o agravado tenha ocultado ou tentado ocultar bens passíveis de penhora.
+2. Nesse contexto, para se chegar à conclusão de que o agravado está ocultando bens com o escopo de frustrar o processo de execução, seria necessário se proceder ao reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento. (AgRg no AREsp n. 636.696/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2016, DJe de 27/6/2016, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PELO DEVEDOR DE BENS A SEREM PENHORADOS. CONFIGURAÇÃO DE ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o credor esgotou os meios de localização de bens penhoráveis do devedor e apresentou demonstrativo atualizado do débito, o que autoriza a intimação do devedor para indicar bens à penhora, sob pena de incidência na penalidade prevista pelo art. 774, parágrafo único, do CPC/2015.
+2. A modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. A incidência da multa no caso concreto, vale frisar, não é objeto de discussão no presente recurso, uma vez que, para sua aplicação, será necessário verificar o elemento subjetivo, consistente no dolo ou culpa grave do devedor, que deve ser reconhecido pelas instâncias ordinárias.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.559.242/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/5/2020, DJe de 18/5/2020, destaquei.)
+III - Dissídio jurisprudencial
+No tocante ao apontado dissídio, ressalte-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+I V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
