@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JPJ ASSESSORIA EMPRESARIAL LTDA contra o acórdão da PRIMEIRA TURMA assim ementado (fl. 526):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. ANÁLISE PELO STJ. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. Se o Tribunal de origem decidir a controvérsia com fundamento exclusivamente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça (STJ) via recurso especial porque esse recurso se destina à uniformização da interpretação do direito federal infraconstitucional e por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+2. Agravo interno a que se nega provimento.
+A parte recorrente aponta omissão com as seguintes alegações:
+(1) " ..  já que não enfrentou, especificamente, os argumentos suscitados pela Embargante, que, em tese, seriam aptos a infirmar o julgado, incorrendo, assim, em clara violação ao artigo 93, IX, da CRFB/1988" (fl. 536);
+(2) " ..  quanto à aplicação do artigo 1.032 do CPC, arguida no Agravo Interno, que trata da fungibilidade entre os Recurso Especial e Extraordinário" (fl. 537);
+(3) " ..  o decisum se limitou a reconhecer que o Tribunal de origem fundamentou sua decisão exclusivamente em matéria constitucional, deixando, contudo, de analisar  ou ao menos mencionar  o pedido de conversão do Recurso Especial em Recurso Extraordinário" (fl. 538); e
+(4) " ..  não enfrentou o pedido da Embargante para que, na forma do artigo 1.032 do CPC, seja intimada a fim de levar a matéria relacionada ao artigo 128 do CTN ao conhecimento do SUPREMO TRIBUNAL FEDERAL" (fl. 541).
+Requer que os embargos sejam acolhidos.
+A parte adversa não apresentou impugnação (fl. 551).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No acórdão embargado, a controvérsia foi decidida nestes termos (fls. 528/529):
+A decisão agravada não conheceu do recurso porque a controvérsia havia sido decidida com fundamento exclusivamente constitucional.
+Em nova análise do presente caso, vê-se que, quanto ao ponto controvertido - responsabilização de terceiros ao fato gerador da obrigação tributária de PIS e COFINS sobre combustíveis -, objeto do recurso especial, o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO realmente decidiu com fundamento unicamente (fl. 234/237 - destaquei):
+Compulsando os autos, verifica-se que o cerne da controvérsia veiculado na presente ação, cinge-se em verificar se as disposições constantes dos artigos 4º, 5º e 6º, da Lei nº 9.718/98 se compadecem, ou não, com as matizes constitucionais.
+Neste diapasão, observa-se que os apelantes pretendem a reforma da sentença monocrática, visando afastar a exigibilidade do recolhimento da contribuição ao PIS e COFINS, incidente sobre o faturamento advindo da venda de combustível, sob o fundamento de serem imunes face da disposição contida no artigo 155, § 3º da Constituição Federal, bem como por entenderem ser inconstitucional a substituição tributária, prevista nos artigos 4º, 5º e 6º da Lei nº9.718/98.
+A substituição tributária para frente, é discutida em nossos Tribunais, tendo a Emenda Constitucional nº 03/93 procurado encerrar discussões quanto a sua adequação ao nosso ordenamento jurídico, ao ter acrescentado o § 7º ao artigo 150 da Constituição Federal. Registre-se que o Colendo Pleno do Eg. STF posicionou-se sobre a matéria no julgamento do RE 213.396-5/SP, relatado pelo Min. limar Galvão, examinando hipótese concreta relacionado com montadoras de automóveis, entendeu constitucional o regime de substituição tributária "para frente".
+No que se refere ao instituto da substituição tributária para frente, prevista no artigo 150, § 7º da Constituição Federal, o Texto Constitucional apenas condiciona a possibilidade da debatida substituição à existência de autorização legal, sendo certo que, para sua implementação, torna- se necessário estabelecer parâmetro para mensuração do tributo que será efetivamente devido por ocasião da finura ocorrência do "fato gerador presumido", parâmetro este que deverá refletir, por algum meio, o aspecto quantitativo do referido fato gerador.
+No caso em tela, pelas disposições contidas nos artigos 4 0 , 5º e 6º da Lei nº 9.718/98, verifica-se que as distribuidoras e refinarias de petróleo deverão efetuar a retenção do valor correspondente à contribuição ao PIS devida pelos varejistas, montante esse calculado com base no "quantum" das vendas efetuadas a estes últimos.
+Saliente-se que o disposto pelo artigo 4º, da Lei nº 9.718/98 não encerra qualquer alteração da hipótese de incidência dos tributos em tela. É que há, aqui, incidência da norma secundária  a que estabelece substituição tributária para frente  e não da primária. A venda pela refinaria e o momento da incidência da lei que estabelece a cobrança (a secundária) e não o momento da ocorrência do fato gerador, este é futuro.
+Quanto à base de cálculo, também não restou alterada para "preço", como aduz a impetrante. Este é apenas a quantificação da base de cálculo, simples referência ao aspecto econômico, uma vez que o faturamento é proveniente da venda de mercadorias, de mercadorias e serviços e de serviço de qualquer natureza. Tais bens/serviços são dimensionados em preços, de forma que não se está, com isso, instituindo nova base de cálculo. Portanto, afasta-se, também, a alegação de afronta ao artigo 195, inciso I e § 4 0 da Constituição Federal.
+Anote-se, outrossim, inexistiu afronta ao disposto pelo artigo 146, inciso III, da Constituição Federal, porquanto os artigos 121 e 128 referem-se à Lei, e não a Lei Complementar.
+Também não há violação ao artigo 154, inciso I, da Constituição Federal, uma vez que a Lei, ao estabelecer o regime em questão, não está exercendo sua competência residual.
+Registre-se que o Egrégio STF, no julgamento do RE 202.715, Min. Relator Limar Galvão, afastou, em caso similar, alegações de afronta à capacidade, contudo, à não-cumulatividade e à segurança jurídica.
+Saliente-se, por fim, que tal sistemática não afro princípio constitucional da isonomia, pois, nos termos da Lei, a própria Constituição Federal permite a aplicação do regime, devendo a utilizar critérios isonômicos, nos casos em que for utilizá-lo.
+No caso em tela, preserva-se o principio constitucional da isonomia, na medida em que se tem como destinatários do regime todas as distribuidoras, refinarias e varejistas de produtos derivados de petróleo e álcoois carburantes.
+Conclui-se dessa forma, que a substituição tributária 410 sobre fatos futuros está expressamente prevista no artigo 150, § 7º, da Constituição Federal de 1988, com redação dada pela Emenda Constitucional nº 03/93, sendo válida a introdução do referido regime de substituição pela Lei nº 9.718 /98, nos artigos 4º, 5º e 6º, em relação à contribuição ao PIS e COFINS incidente sobre combustíveis, elegendo como substitutos tributários as refinarias de petróleo (artigo 4º), os demais produtos e importadores dos produtos mencionados nesse dispositivo legal (artigo 6º), bem como as distribuidoras de álcool para fins carburantes (artigo 5º).
+Na hipótese de o Tribunal de origem decidir a controvérsia com fundamento eminentemente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça via recurso especial, a uma, porque esse recurso se destina a uniformizar a interpretação do direito federal infraconstitucional e, a duas, porque implicaria a usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+A respeito da qu estão apontada no recurso ora examinado, a PRIMEIRA TURMA resolveu que é inviável a revisão do acórdão pelo Superior Tribunal de Justiça via recurso especial, a uma, porque esse recurso se destina a uniformizar a interpretação do direito federal infraconstitucional e, a duas, porque implicaria a usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal (fl. 529 ).
+Ao contrário do alegado pela parte recorrente, o acórdão embargado não padece de vício algum. Não há a necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante não passa de mero inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021, sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
