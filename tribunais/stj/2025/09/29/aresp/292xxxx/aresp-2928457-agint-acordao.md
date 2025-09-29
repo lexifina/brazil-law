@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL OBJETIVA. TRANSPORTE FERROVIÁRIO. DANO MORAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao agravo, mantendo a exclusão da responsabilidade da concessionária de transporte ferroviário pelo dano moral decorrente de acidente ocorrido em suas dependências.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se há responsabilidade civil objetiva da concessionária de transporte ferroviário pelo acidente ocorrido nas suas dependências, mesmo na ausência de nexo causal entre a conduta da concessionária e o dano sofrido pelo passageiro.
+III. RAZÕES DE DECIDIR
+3. A responsabilidade civil objetiva do transportador exige a demonstração do nexo causal entre o dano e a prestação do serviço, conforme jurisprudência do STJ.
+4. A Corte estadual concluiu pela inexistência de nexo causal entre a queda do passageiro e a conduta da concessionária, afastando o dever de indenizar.
+5. Decidir pela responsabilidade objetiva do recorrido implicaria no reexame do acervo fático-probatório dos autos, atraindo a incidência da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+6. Agravo interno desprovido.
+Tese de julgamento: 1. A responsabilidade civil objetiva do transportador exige a demonstração do nexo causal entre o dano e a prestação do serviço. 2. A ausência de nexo causal entre a conduta da concessionária e o dano afasta o dever de indenizar.
+Dispositivos relevantes citados: CC, arts. 186, 187 e 927; CDC, arts. 6º e 14; Decreto-Lei n. 2.681/1912, arts. 17, 19 e 26.
+Jurisprudência relevante citada: STJ, REsp n. 1.833.722/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 3/12/2020; STJ, REsp n. 1615971/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/9/2016.
+RELATÓRIO
+Trata-se de agravo interno interposto por MAYCON DE JESUS MENDES contra a decisão de fls. 579-586, que negou provimento ao agravo.
+A parte agravante alega que a decisão monocrática não observou os dispositivos legais aplicáveis, especialmente os arts. 186, 187 e 927 do Código Civil, c/c 6º e 14 do Código de Defesa do Consumidor, c/c 5º, caput, V e X, da Constituição Federal, c/c Decreto-Lei n. 2.681/1912, 17, 19 e 26, c/c Súmula n. 187 do STF, porquanto o acórdão recorrido negou vigência a essas normas ao excluir a responsabilidade da recorrida pelo dano moral em razão do acidente e da omissão de socorro após queda sofrida por passageiro em estação ferroviária pela concessionária de transporte ferroviário.
+Afirma que não há controvérsia quanto à ocorrência do acidente dentro das dependências da recorrida, o que implica a responsabilidade civil do tipo objetiva, sendo irrelevante a discussão sobre culpa.
+Argumenta que o Decreto-Lei n. 2.681/1912 impõe obrigações específicas às concessionárias de transporte ferroviário quanto à segurança e assistência aos passageiros.
+Alega que o entendimento adotado na decisão monocrática também contraria a jurisprudência dominante do STJ, em especial no que diz respeito à responsabilidade das concessionárias por danos causados a passageiros em suas dependências, mesmo nas áreas de embarque e desembarque.
+Requer o provimento do agravo interno para que seja reconsiderada a decisão monocrática e processado o recurso especial interposto, com a restituição do dano moral.
+Nas contrarrazões, a parte agravada aduz que o recurso não deve ser admitido por ausência de impugnação específica aos fundamentos da decisão agravada e pela aplicação da Súmula n. 182 do STJ, além de requerer a aplicação de multa nos termos do art. 1.021, § 4º, do CPC (fls. 673-678).
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL OBJETIVA. TRANSPORTE FERROVIÁRIO. DANO MORAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao agravo, mantendo a exclusão da responsabilidade da concessionária de transporte ferroviário pelo dano moral decorrente de acidente ocorrido em suas dependências.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se há responsabilidade civil objetiva da concessionária de transporte ferroviário pelo acidente ocorrido nas suas dependências, mesmo na ausência de nexo causal entre a conduta da concessionária e o dano sofrido pelo passageiro.
+III. RAZÕES DE DECIDIR
+3. A responsabilidade civil objetiva do transportador exige a demonstração do nexo causal entre o dano e a prestação do serviço, conforme jurisprudência do STJ.
+4. A Corte estadual concluiu pela inexistência de nexo causal entre a queda do passageiro e a conduta da concessionária, afastando o dever de indenizar.
+5. Decidir pela responsabilidade objetiva do recorrido implicaria no reexame do acervo fático-probatório dos autos, atraindo a incidência da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+6. Agravo interno desprovido.
+Tese de julgamento: 1. A responsabilidade civil objetiva do transportador exige a demonstração do nexo causal entre o dano e a prestação do serviço. 2. A ausência de nexo causal entre a conduta da concessionária e o dano afasta o dever de indenizar.
+Dispositivos relevantes citados: CC, arts. 186, 187 e 927; CDC, arts. 6º e 14; Decreto-Lei n. 2.681/1912, arts. 17, 19 e 26.
+Jurisprudência relevante citada: STJ, REsp n. 1.833.722/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 3/12/2020; STJ, REsp n. 1615971/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/9/2016.
+VOTO
+O recurso não merece prosperar, devendo a decisão agravada ser mantida pelos seus próprios fundamentos.
+Inicialmente, quanto à alegada violação do art. 5º, caput, V e X, da Constituição Federal, destaque-se que reforge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+Quanto à alegada ofensa à Súmula n. 187 do STF, observe-se que o recurso especial não é a via adequada para apreciar ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, da Constituição Federal, nos termos da Súmula n. 518 do STJ.
+No mérito, não merece acolhimento a tese recursal, não havendo como afastar, na hipótese dos autos, a incidência da Súmula n. 7 do STJ.
+No recurso, a parte recorrente alega que o acórdão recorrido negou vigência aos artigos arts. 186, 187 e 927 do CC, c/c 6º e 14 do CDC, c/c Decreto-Lei n. 2.681/1912, arts. 17, 19 e 26, ao excluir a responsabilidade da recorrida pelo dano moral.
+Esclarece que não resta controvérsia quanto à ocorrência do acidente dentro das dependências da recorrida, o que implica a responsabilidade civil do tipo objetiva, destacando, ainda a existência de obrigações específicas às concessionárias de transporte ferroviário quanto à segurança e assistência aos passageiros.
+Contudo, a Corte estadual concluiu que não há nexo causal entre a conduta da ré e o dano sofrido pelo autor, afastando o dever de indenizar.
+A propósito, confira-se o seguinte trecho do acórdão recorrido (fls. 365- 367):
+Narra o autor que, no dia , por volta das sete horas da manhã,11/02/2017 horário de grande movimento, se encontrava a caminho de seu trabalho, e já dentro da estação de Comendador Soares, diante do grande número de transeuntes, foi albaroado pela multidão descendo as escadas, se desequilibrando e caindo ao solo, tendo com isso fraturado o seu pé esquerdo. Afirma que não foi prestado os primeiros socorros e que recebeu atendimento médico somente quatro horas após o incidente.
+A ré, a seu turno, não nega a ocorrência do evento, no entanto, impugna a dinâmica do evento ao afirmar que o fato se deu por culpa exclusiva da vítima, eis que não houve qualquer falha na prestação do serviço. Afirma que não havia nenhuma anomalia na escada e ou plataforma da estação, que se encontrava em perfeito estado. Afirma que inexiste prova da superlotação na data do evento sendo certo que a queda se deu pelo próprio descuido do autor. Pugna pela inexistência do dever de indenizar.
+Restou incontroverso que a autor sofreu o acidente no interior da Estação de Comendador Soares pertencente a ré, conforme narrado em sua exordial. No entanto, a controvérsia persiste quanto a dinâmica do evento.
+Cabia, assim, ao autor comprovar necessariamente o dano e o nexo de causalidade entre este e a conduta da concessionária.
+A única prova testemunhal acostada que vem a ser a mãe do autor ouvida como informante, em nada contribuiu para a solução da demanda, eis que não presenciou o fato ocorrido com o autor chegando ao local aproximadamente 40 minutos após o acidente.
+Ademais, verifica-se que a referida testemunha confirma que a estação estava vazia, ou seja, indo de encontro à tese alegada pelo autor de que teria se desequilibrado e caído por conta de uma multidão presente no local. De ressaltar que, como muito bem colocado pela ré, o fato ocorreu em um sábado, dia, que sabidamente não há muitos passageiros circulando pelas estações em comparação aos dias de semana.
+ ..
+Ademais, demonstrado nos autos, ainda, pelo BAM que o autor suportou queda de própria altura, não havendo comprovação de que teria sido empurrado por um terceiro ou multidão, o que por si só não implicaria em falha na prestação do serviço da empresa ré, já que a concessionária não pode ser responsabilizada pelo comportamento individual inadequado de um determinado usuário, que configura fortuito externo.
+Assim, ausente qualquer conduta ilícita ou abusiva da concessionária ré que implicasse em violação ao dever de incolumidade a que se obrigara, resta afastado o nexo causal e, em consequência o dever de indenizar, devendo ser reformada a r. sentença.
+Sobre o tema, convém mencionar que o Superior Tribunal de Justiça já decidiu no sentido de que a responsabilidade decorrente do contrato de transporte de pessoas é objetiva, sendo obrigação do transportador a reparação de dano causado ao passageiro quando demonstrado o nexo causal entre a lesão e a prestação do serviço, pois o contrato de transporte acarreta para o transportador a assunção de obrigação de resultado, impondo ao prestador do serviço público de transporte o ônus de levar o passageiro com segurança ao ao seu destino.
+Nesse sentido, confira-se:
+CIVIL E CONSUMIDOR. RESPONSABILIDADE CIVIL DO TRANSPORTADOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ATO LIBIDINOSO PRATICADO POR USUÁRIO CONTRA PASSAGEIRA NO INTERIOR DE ESTAÇÃO DE TREM METROPOLITANO. AUSÊNCIA DE RESPONSABILIDADE DO TRANSPORTADOR. FATO EXCLUSIVO DE TERCEIRO E ESTRANHO AO CONTRATO DE TRANSPORTE. FORTUITO EXTERNO. NEGADO PROVIMENTO AO RECURSO ESPECIAL.
+1. A responsabilidade decorrente do contrato de transporte de pessoas é objetiva (CC, arts. 734 e 735), sendo obrigação do transportador a reparação do dano causado ao passageiro quando demonstrado o nexo causal entre a lesão e a prestação do serviço, pois o contrato de transporte acarreta para o transportador a assunção de obrigação de resultado, impondo ao concessionário ou permissionário do serviço público o ônus de levar o passageiro incólume ao seu destino. É a chamada cláusula de incolumidade, que garante que o transportador irá empregar todos os expedientes que são próprios da atividade para preservar a integridade física do passageiro contra os riscos inerentes ao negócio, durante todo o trajeto, até o destino final da viagem. Essa responsabilidade, entretanto, não é por risco integral.
+2. A teor da Súmula 187 do Supremo Tribunal Federal: "a responsabilidade contratual do transportador, pelo acidente com o passageiro, não é elidida por culpa de terceiro, contra o qual tem ação regressiva". Compreende-se na responsabilidade objetiva do transportador "pelo acidente com o passageiro", qualquer acontecimento casual, fortuito, inesperado inerente à prestação do serviço de transporte de pessoas, ou seja, acidente que tenha nexo causal com o serviço prestado, ainda que causado por terceiro, desde que caracterize o denominado fortuito interno. A expressão "acidente com o passageiro" não atrai a responsabilidade do transportador quanto a eventos, causados por terceiro, sem que tenham mínima relação direta com os serviços de transporte, isto é, por ocorrências estranhas ao serviço de transporte, provocadas por terceiro, as quais fujam completamente ao alcance preventivo do transportador, pois caracterizam o chamado fortuito externo.
+3. O Código de Defesa do Consumidor, por sua vez, estatui: "o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços", não sendo responsabilizado quando provar "a culpa exclusiva do consumidor ou de terceiro" (art. 14, caput e § 3º).
+4. Portanto, o ato, doloso ou culposo, estranho à prestação do serviço de transporte, causado por terceiro, não guarda nexo de causalidade com o serviço prestado e, por isso, exonera a responsabilidade objetiva do transportador, caracterizando fortuito externo. Noutro giro, o ato, doloso ou culposo de terceiro, conexo com a atividade do transportador e relacionado com os riscos próprios da atividade econômica explorada, caracteriza o chamado fortuito interno, atraindo a responsabilidade do transportador.
+5. Assim, nos contratos onerosos de transporte de pessoas, desempenhados no âmbito de uma relação de consumo, o fornecedor de serviços não será responsabilizado por assédio sexual ou ato libidinoso praticado por usuário do serviço de transporte contra passageira, por caracterizar fortuito externo, afastando o nexo de causalidade.
+6. Recurso especial a que se nega provimento. (REsp n. 1.833.722/SP, relator Ministro Raul Araújo, Segunda Seção, julgado em 3/12/2020, DJe de 15/3/2021.)
+Por sua vez, a legislação específica que regula o transporte nas estradas de ferro (Decreto-Lei n. 2.681/1912) estabelece expressamente no seu art. 17 a responsabilidade objetiva do transportador pelos desastres (acidentes) que sucederem aos viajantes e dos quais resultem morte, ferimento ou lesão corpórea.
+Destaca ainda que a culpa do transportador, nessas hipóteses, será presumida, somente sendo excluída nas hipóteses de "caso fortuito ou força maior" e "culpa do viajante".
+A propósito, confira-se, in verbis:
+Art. 17 - As estradas de ferro responderão pelos desastres que nas suas linhas sucederem aos viajantes e de que resulte a morte, ferimento ou lesão corpórea.
+A culpa será sempre presumida, só se admitindo em contrário alguma das seguintes provas:
+1ª - Caso fortuito ou força maior;
+2ª - Culpa do viajante, não concorrendo culpa da estrada.
+Ademais, é importante pontuar que, para a caracterização da responsabilidade civil, antes de tudo, há de existir e estar comprovado o nexo de causalidade entre o evento danoso e a conduta comissiva ou omissiva do agente e afastada qualquer das causas excludentes do nexo causal, tais como a culpa exclusiva da vítima ou de terceiro, o caso fortuito ou a força maior, por exemplo. (REsp n. 1615971/DF, relator Ministro Marco Aurélio Bellizze, terceira turma, julgado em 27/9/2016, DJe de 27/10/2016).
+Assim, diante da jurisprudência do STJ e tendo o Tribunal a quo concluído, pelas provas dos autos, pela inexistência de nexo de causalidade entre a queda do passageiro na estação e eventual conduta da concessionária, decidir pela responsabilidade objetiva do recorrido implicaria no necessário reexame do acervo fático-probatório dos autos, o que atrai a incidência da Súmula n. 7 do STJ.
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
