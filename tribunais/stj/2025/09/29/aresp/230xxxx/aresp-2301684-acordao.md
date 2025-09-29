@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANO MORAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DISSIDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA Nº 13/STJ.
+1. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal com alegada interpretação divergente. Súmula nº 284 do STF.
+2. Na hipótese, a divergência jurisprudencial não foi devidamente demonstrada, porque ausente o cotejo analítico entre os casos confrontados, violando os arts. 1.029, §1º, do CPC/2015 e 255, §1º, do RISTJ.
+3. Não se conhece do recurso especial diante do óbice contido na Súmula nº 13/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por OAS EMPREENDIMENTOS S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "c" Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE INDENIZAÇÃO EM DANOS MORAIS. SENTENÇA QUE JULGOU PROCEDENTE OS PEDIDOS. DEMORA PARA FINALIZAÇÃO DA AVENÇA. VERIFICADA DESÍDIA DA CONSTRUTORA. NÃO APRESENTAÇÃO DA DOCUMENTAÇÃO PERTINENTE PARA CONCRETIZAÇÃO DO FINANCIAMENTO BANCÁRIO. ÚNICA PENDÊNCIA. ENCARGOS COBRADOS EM RAZÃO DA DEMORA. IMPERTINÊNCIA. REPETIÇÃO DO INDEBITO. DANO MORAL VERIFICADO. APELO CONHECIDO E IMPROVIDO.
+Foi devidamente demonstrado nos autos que a demora para a entrega do bem e concretização do financiamento, decorreu da conduta da Construtora, que não foi diligente quanto à apresentação da documentação necessária para elaboração do financiamento bancário, sendo esta a única pendência evidenciada. Logo, é impertinente a cobrança de saldo devedor referente ao período de maio de 2010 até a entrega do imóvel e, por isso, a devolução do valor pago deve ser realizado na forma dobrada, em aplicação ao art. 42 do CDC. Da mesma forma, restou evidente o dano moral sofrido que, no caso, não decorreu unicamente da conclusão da obra, mas sim da desídia da Construtora apelante. RECURSO CONHECIDO. APELO IMPROVIDO" (e-STJ fl. 553).
+No recurso especial, o recorrente alega divergência jurisprudencial em relação aos seguintes pontos: (i) suposta inexistência de cobrança indevida, já que o valor cobrado foi a simples correção monetária e (ii) a condenação do ora agravante ao pagamento de indenização a título de compensação por danos morais.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANO MORAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DISSIDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA Nº 13/STJ.
+1. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal com alegada interpretação divergente. Súmula nº 284 do STF.
+2. Na hipótese, a divergência jurisprudencial não foi devidamente demonstrada, porque ausente o cotejo analítico entre os casos confrontados, violando os arts. 1.029, §1º, do CPC/2015 e 255, §1º, do RISTJ.
+3. Não se conhece do recurso especial diante do óbice contido na Súmula nº 13/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+A questão devolvida a esta Corte Superior restringe-se à divergência jurisprudencial acerca da atualização do saldo devedor, da consequente cobrança realizada pelo agravante e do reconhecimento de dano moral.
+Ao fundamentar sua conclusão, cita-se o seguinte trecho do acórdão recorrido:
+"(..)
+Colhe-se dos documentos de fls. 45-51, dos autos digitais que o autor começou a solicitar a documentação a apelante, para concretizar o financiamento do imóvel a partir de maio de 2010 e o procedimento só foi concluído em dezembro de 2010. De fato, restou comprovado dos autos que a demora decorreu da desídia da apelante quanto à remessa da documentação correta e necessária para a efetivação do financiamento, que possuía como única pendência para concretização, a mencionada documentação. Nesta via, a falta decorreu do comportamento da apelante e, portanto, foi verificada cristalinamente sua culpa quanto a demora da entrega do bem. Repise-se, como alertado na sentença, que a ré/apelante não comprovou que a demora para o financiamento (dentre os meses de maio e dezembro de 2010) decorreu estar ato do autor/apelado, com a demonstração de algum fato impeditivo, modificativo ou extintivo do seu direito, nos termos do art. 373, inc. Il do CPC. Por seu turno, o autor demonstrou sua diligência em providenciar o financiamento, o que de sua parte já estava aprovado desde maio de 2010. Vale destacar da sentença a motivação apresentada pelo juiz a quo: " No caso em análise, cabível a repetição de indébito em dobro, em razão da parte ré não ter evidenciado hipótese de engano justificável na cobrança de encargos, no período em que se encontrava em mora no que concerne ao fornecimento de documentação necessária à obtenção do financiamento" Logo, aferida a culpa da apelante, não há como se impor a cobrança ao autor/consumidor dos encargos verificados no período da mora da
+fornecedora, sob pena de a mesma se beneficiar com a própria torpeza. Assim, correta a determinação da devolução dos valores, na forma dobrada, como estampa o art. 42 do CDC. De referência ao dano moral, a sentença também não merece reformas. certo que nos termos do entendimento do STJ, o mero descumprimento contratual, evidenciando-se a demora da entrega do bem em razão da conclusão da obra, não conduz à indenização por danos morais.
+(..)
+Ocorre, entretanto, como evidenciado que a demora foi no fornecimento da documentação para o financiamento, o que resultou em danos patrimoniais ao apelado que começou a pagar as taxas condominiais desde maio de 2010, fl. 52, além de alugueis e taxa de condomínio do imóvel alugado e, após a finalização do procedimento com a celebração do contrato junto ao Banco, em dezembro de 2010, começou a pagar as parcelas do financiamento do imóvel, embora só tenha recebido as chaves após quitado o mencionado saldo remanescente, apurado pela apelante. Vê-se, portanto, que a conduta da
+apelante gerou preocupações e transtornos de monta ao autor/recorrido. Nesta via, demonstrado o dano sofrido pelo consumidor, necessária a condenação em indenização por danos morais. Assim, a sentença questionada não merece qualquer reparo " (e-STJ fls. 554/556).
+Na situação dos autos, no que tange a suposta inexistência de cobrança indevida, já que o valor cobrado foi a simples correção monetária, a deficiência na fundamentação recursal ficou evidenciada, visto que o recorrente não indicou especificamente quais os artigos de lei federal teriam sido interpretados de maneira divergente pelo aresto recorrido, embora tenha se insurgido quanto à motivação da decisão, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Confiram-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA - DANOS MORAIS. PLANO DE SAÚDE. CARÊNCIA DE APONTAMENTO CLARO DO DISPOSITIVO DE LEI FEDERAL QUE TERIA SIDO MACULADO NO ACÓRDÃO ESTADUAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior Tribunal de Justiça, o conhecimento de recurso especial exige a indicação dos dispositivos de lei federal supostamente violados. Ausente tal requisito, "incide a Súmula n.284/STF" (AgInt no AREsp n. 2.108.361/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/9/2022, DJe de 23/9/2022).
+2. (..).
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.175.300/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA CUMULATIVA DE CLÁUSULA PENAL E DE JUROS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que os agravados foram expostos ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Divergência jurisprudencial, não demonstrada ante a incidência das Súmulas n. 284 do STF e 7 e 83 do STJ. Além disso, "decisão monocrática não serve para comprovação de divergência jurisprudencial" (AgInt no AREsp n. 1.180.952/RJ, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 17/5/2018, DJe 24/5/2018).
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.141.911/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022 - grifou-se).
+Ainda, no tocante ao dissenso jurisprudencial entre julgados do próprio Tribunal de Justiça do Estado da Bahia, inadmissível o conhecimento do recurso especial em virtude do óbice contido na Súmula nº 13/STJ: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+Em relação à alegação de divergência jurisprudencial no que tange ao pagamento de dano moral, na espécie, é importante destacar que o recurso especial interposto pela alínea "c" do permissivo constitucional, nos termos dos artigos 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, exige que a divergência jurisprudencial seja comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+No caso dos autos, verifica-se ser manifestamente ausente a similitude fática entre os arestos confrontados.
+Logo, a ausência de similitude fática entre os acórdãos confrontados impede a comprovação do dissídio jurisprudencial.
+Nesse sentido:
+"DIREITO IMOBILIÁRIO. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. INDICAÇÃO DA NORMA FEDERAL VIOLADA. AUSENTE. SÚMULA 284 DO STF. APLICAÇÃO POR ANALOGIA. CASO CONCRETO. CASOS PARADIGMA. AUSÊNCIA DE SIMILITUDE FÁTICA. PROXIMIDADE FÁTICA E CONTEXTUAL. NÃO DEMONSTRADA. FUNDAMENTO AUTÔNOMO E SUFICINENTE. NÃO IMPUGNAÇÃO. SÚMULA 283 DO STF. APLICAÇÃO POR ANALOGIA. RECURSO NÃO CONHECIDO.
+(..)
+2. Para a caracterização do dissídio jurisprudencial, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Caso concreto em que a proximidade fática e contextual entre os arrestos paradigma e a decisão impugnada não restou demonstrada.
+(..)
+4. Recurso especial não conhecido."
+(REsp n. 1.880.850/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado
+em 28/4/2025, DJEN de 6/5/2025 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 17% (dezessete por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
