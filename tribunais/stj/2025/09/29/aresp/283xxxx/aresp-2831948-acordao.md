@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DÉBITO COMPROVADO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. REVISÃO DE QUADRO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ . AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial . O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, concluiu que a inscrição do nome do devedor em cadastros de proteção ao crédito foi regular, em razão da comprovação do inadimplemento das faturas do cartão de crédito.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a revisão da conclusão do tribunal de origem quanto à legitimidade da inscrição do nome do recorrente em cadastros de inadimplentes, em sede de recurso especial.
+III. Razões de decidir
+3. O tribunal de origem concluiu que a negativação baseia-se em inadimplência comprovada de faturas de cartão de crédito. A modificação desse cenário demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 do STJ.
+IV. Dispositivo
+4. Agravo não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial (e-STJ fls. 401-424) interposto contra decisão que inadmitiu o recurso especial (e-STJ fls. 396-398).
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ fls. 427-438).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DÉBITO COMPROVADO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. REVISÃO DE QUADRO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ . AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial . O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, concluiu que a inscrição do nome do devedor em cadastros de proteção ao crédito foi regular, em razão da comprovação do inadimplemento das faturas do cartão de crédito.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a revisão da conclusão do tribunal de origem quanto à legitimidade da inscrição do nome do recorrente em cadastros de inadimplentes, em sede de recurso especial.
+III. Razões de decidir
+3. O tribunal de origem concluiu que a negativação baseia-se em inadimplência comprovada de faturas de cartão de crédito. A modificação desse cenário demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 do STJ.
+IV. Dispositivo
+4. Agravo não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+APELAÇÃO. Ação declaratória de inexigibilidade de débito cumulada com pedido de indenização por danos morais. Negativação. Comprovação da existência de relação jurídica entre as partes e da contratação e utilização do cartão de crédito pelo consumidor. Gravações de diálogos mantidos entre o autor e preposta da ré, em que ele confessa a sua inadimplência. Inquestionável exigibilidade do débito. Ilícito não verificado. Sentença confirmada por seus próprios fundamentos, nos termos do art. 252, do RITJSP. Recurso desprovido. (e-STJ fl. 298)
+A questão central da demanda é a análise quanto à legitimidade da inscrição do nome do agravante em cadastros de inadimplentes. O tribunal de origem concluiu que a negativação baseia-se em inadimplência comprovada de faturas de cartão de crédito.
+A parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso, com fundamento no art. 105, III, "a", da Constituição Federal.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+De saída, no que tange a alegação de afronta aos artigos 1.022 e 489 do Código de Processo Civil, certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Confira-se trecho do acórdão recorrido (e- STJ fls. 298-299, 301-302):
+"Consigna-se apenas que a r. sentença assentou corretamente a regularidade da indicação do nome do autor, ora apelante, aos cadastros de inadimplentes, tendo em vista o fato de haver deixado de adimplir faturas do cartão de crédito contratado com a ré em 2018 (fls. 109/113).
+Neste sentido, as faturas do cartão contratado e efetivamente utilizado pelo autor em transações comerciais (fls. 109 e 110); a cópia do Aviso de Recebimento (A. R.) assinado por ele em 19/09/2019, demonstrando o recebimento do plástico no mesmo endereço informado na petição inicial (fl. 112); e os "links" com as gravações dos diálogos mantidos pelo autor com preposta da ré, em que ele confessa a sua inadimplência (fl. 113).
+Evidente, portanto, a legalidade da inscrição de seu nome em róis de maus pagadores." (e-STJ. fls. 301)
+A corte de origem analisou as provas dos autos e concluiu pela legalidade da inscrição do nome do autor nos orgãos de proteção ao crédito, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+A análise das razões recursais indica que a parte recorrente limitou-se à menção dos preceitos legais que considera violados ou desconsiderados, sem deixar claro, de maneira argumentativa objetiva e convincente, a forma como ocorreu a efetiva contrariedade ou negativa de vigência, pelo Tribunal de origem.
+A hipótese atrai, portanto, a incidência do entendimento exposto pela súmula 284 do STF, na medida em que: "A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema." (AgInt no AREsp n. 2.444.719/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Com efeito, "As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum." (AgInt no AREsp n. 2.562.537/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a ausência de ilícito civil pela devida negativação do nome do requerente, uma vez que foi comprovada a falta de pagamento das faturas do cartão de crédito que embasa o apontamento, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANO MORAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DÉBITO COMPROVADO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, concluiu que a inscrição do nome do devedor em cadastros de proteção ao crédito foi regular, em razão da comprovação do inadimplemento das faturas do cartão de crédito.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.626.319/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/5/2020, DJe de 18/5/2020.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. CONTRATO BANCÁRIO. CARTÃO DE CRÉDITO. CAPITALIZAÇÃO MENSAL DE JUROS. POSSIBILIDADE PARA CONTRATOS CELEBRADOS APÓS MEDIDA PROVISÓRIA N. 1.963-17/2000. PACTUAÇÃO EXPRESSA. TAXA DE SERVIÇOS DE TERCEIROS. REVISÃO DE OFÍCIO DE CLÁUSULA. IMPOSSIBILIDADE. SÚMULA 381/STJ. ERRO NA VALORAÇÃO DA PROVA. REVISÃO DAS CONCLUSÕES CONTIDAS NO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. SUCUMBÊNCIA RECÍPROCA. CONFIGURAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou entendimento de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada" (REsp 973.827/RS, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+2. "Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas" (Súmula 381/STJ).
+3. O Tribunal de origem, examinando as circunstâncias da causa, considerou regular a inscrição da autora no cadastro de proteção ao crédito, em razão da ausência de pagamento das faturas e da realização de prévia notificação. A revisão dessas conclusões exigiria o reexame de matéria probatória, inviável em sede de recurso especial (Súmula 7/STJ).
+4. Consoante a jurisprudência do STJ, a distribuição dos ônus sucumbenciais deve observar a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito. O acolhimento de três entre sete pedidos realizados, na hipótese, implica sucumbência recíproca.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 947.366/BA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/11/2019, DJe 19/12/2019 )
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso espec ial.
+Majoro o percentual de honorários sucumbenciais para 17% (dezessete por cento), sobre o valor da causa, nos termos do art. 85, § 11, do CPC.
+É o voto.
