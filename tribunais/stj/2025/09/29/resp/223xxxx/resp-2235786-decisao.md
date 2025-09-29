@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por GRAN VILLE IGARAPÉ EMPREENDIMENTOS IMOBILIÁRIOS S/A e GRAN VIVER URBANISMO S/A contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 529):
+"EMENTA: APELAÇÃO CÍVEL - IMÓVEL - ALIENAÇÃO FIDUCIÁRIA - APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR - CAPITALIZAÇÃO MENSAL DE JUROS - ILEGALIDADE - LEGITIMIDADE PASSIVA - RÉS PERTENCENTES AO MESMO GRUPO ECONÔMICO - MAJORAÇÃO DOS HONORÁRIOS. A sistemática do Código de Defesa do Consumidor prevê a responsabilidade solidária de todos os integrantes da cadeia de fornecimento pelos danos causados ao consumidor. No caso em exame, verifico que restou caracterizada a relação de consumo, tendo em vista a amplitude dos conceitos legais de consumidor, fornecedor e produto, trazidos pelos artigos 2º e 3º do CDC. No julgamento do IRDR n. 1.0301.16.045958-0/002 (tema 56), este Tribunal de Justiça fixou a tese de que: "Nos contratos de financiamento firmados por construtoras e/ou incorporadoras de imóveis - fora do Sistema Financeiro Imobiliário - admite- se a cobrança de juros capitalizados com periodicidade anual, nos termos do que estabelece o artigo 5.º, inciso III, §2.º, da Lei n.º 9.514/97, c/c artigo 4.º, do Decreto n.º 22.626/33, e artigo 591 do Código Civil, e desde que esteja expressamente ajustada entre os contratantes". O art. 85, §11º dispõe que o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal."
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos artigos:
+i) 421, 422, 475 e 884 do Código Civil, porquanto, ao manter a nulidade parcial da cláusula de capitalização de juros, desconsiderou a autonomia da vontade, a função social do contrato e a boa-fé objetiva, violando o princípio do pacta sunt servanda e ocasionando enriquecimento sem causa da parte autora, ao determinar a restituição de valores pagos em decorrência da capitalização mensal livremente pactuada; e
+ii) 5º, § 2º, da Lei n. 9.514/1997 e 35-A, VII, da Lei n. 4.591/1964, ao argumento de que tais dispositivos autorizam expressamente a estipulação de capitalização de juros nas operações de comercialização e financiamento de imóveis, inclusive com periodicidade mensal, desde que ajustada entre as partes, de modo que a cláusula contratual impugnada seria plenamente válida e eficaz, não podendo ser afastada sob a alegação de abusividade.
+Defende, ainda, a inaplicabilidade do Código de Defesa do Consumidor aos contratos de compra e venda de imóvel com cláusula de alienação fiduciária, porquanto regidos por legislação especial, de modo que não poderia o Tribunal de origem reconhecer a relação de consumo nem estender responsabilidade solidária às recorrentes.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Não foram oferecidas contrarrazões ao recurso especial (fls. 564-565).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 566-568), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo (fl. 587).
+Em decisão da Presidência desta Corte, o agravo em recurso especial não foi conhecido em razão do óbice da Súmula n. 182/STJ (fls. 593-594).
+Dessa maneira, o recorrente interpôs agravo interno, sustentando que todos os fundamentos foram impugnados e requerendo reconsideração da decisão agravada.
+Em decisão de minha relatoria (fls. 615-616), verificou-se que os fundamentos da decisão de inadmissibilidade do Tribunal de origem foram devidamente impugnados, sendo o agravo interno provido, e a decisão da Presidência reconsiderada para uma nova análise do agravo em recurso especial.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, verifico que as razões veiculadas pela parte agravante mostram-se relevantes, razão pela qual o presente agravo deve ser convertido em recurso especial, a fim de possibilitar um melhor exame da controvérsia.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
