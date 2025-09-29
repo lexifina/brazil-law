@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. TEMA 1132/STJ. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Ação de busca e apreensão, em virtude de inadimplemento de contrato de financiamento para aquisição de veículo automotor, com garantia de alienação fiduciária.
+2. Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Aplicação do Tema 1132/STJ.
+3. Agravo conhecido. Recurso especial provido.
+RELATÓRIO
+Examina-se agravo em recurso especial interposto por BANCO ITAUCARD S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em recurso especial interposto em: 30/8/2024.
+Concluso ao gabinete em: 12/6/2025.
+Ação: ação de busca e apreensão proposta por BANCO ITAUCARD S.A. contra JOSEANE CRISTINA DE LIMA MACHADO
+Sentença: julgou extintos os pedidos da inicial. (e-STJ Fls. 76)
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+EMENTA. CIVIL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. PEDIDO DE EFEITO SUSPENSIVO ATIVO AO RECURSO. NÃO CONHECIDO. INOBSERVÂNCIA AO DISPOSTO NO ART. 1.012, §3º, DO CPC. SENTENÇA QUE INDEFERIU A PETIÇÃO INICIAL, EXTINGUINDO O FEITO SEM RESOLUÇÃO DE MÉRITO, COM FUNDAMENTO NO ARTIGO 485, INCISO I, C/C ART. 321, PARÁGRAFO ÚNICO, CPC/2015. DETERMINAÇÃO DE EMENDA À INICIAL VISANDO QUE FOSSE COLACIONADO AOS AUTOS COMPROVANTE DE NOTIFICAÇÃO EXTRAJUDICIAL VÁLIDO. DESCUMPRIMENTO POR PARTE DA INSTITUIÇÃO FINANCEIRA. DEVEDORA QUE NÃO FOI DEVIDAMENTE CONSTITUÍDA EM MORA, POIS OS CORREIOS DEVOLVERAM A NOTIFICAÇÃO PELO MOTIVO "NÃO PROCURADO". CONSTITUIÇÃO EM MORA QUE DEVE OCORRER PREVIAMENTE À PROPOSITURA DA DEMANDA APREENSÓRIA. INCIDÊNCIA DA SÚMULA 72 DO STJ. JURISPRUDÊNCIA DESTA CORTE DE JUSTIÇA QUE TRILHA O MESMO ENTENDIMENTO. SENTENÇA MANTIDA. REJEIÇÃO DO PEDIDO FORMULADO PELA APELADA DE CONDENAÇÃO DO APELANTE AO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. CONDENAÇÃO, DE OFÍCIO, DO APELANTE AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS, ESTES FIXADOS EM 10% (DEZ POR CENTO) DO VALOR ATUALIZADO DA CAUSA, COM FULCRO NO ART. 85, §2º, DO CPC. OBSERVÂNCIA AO PRINCÍPIO DA NÃO SURPRESA, POSITIVADO NO ART. 10 DO CPC. SEM HONORÁRIOS RECURSAIS, EM OBSERVÂNCIA À ORIENTAÇÃO FIRMADA PELO STJ NO RESP N.º 1.573.573/RJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO. UNANIMIDADE. (e-STJ Fls. 116)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados. (e-STJ Fls. 134)
+Recurso especial: alega violação dos arts. 2º, § 2º, e 3º, do DL 911/69. A parte agravante sustenta em seu recurso especial que a notificação extrajudicial enviada ao endereço constante do contrato deve ser considerada válida para fins de constituição em mora do devedor, mesmo que devolvida com a informação "não procurado". (e-STJ Fls. 134-140)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. TEMA 1132/STJ. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Ação de busca e apreensão, em virtude de inadimplemento de contrato de financiamento para aquisição de veículo automotor, com garantia de alienação fiduciária.
+2. Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Aplicação do Tema 1132/STJ.
+3. Agravo conhecido. Recurso especial provido.
+VOTO
+- Do Tema 1132/STJ
+A Segunda Seção deste STJ fixou recentemente a seguinte tese ao julgar o Tema 1132 (DJe 20/10/2023):
+Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+Na hipótese dos autos, o TJ/AL entendeu pela ausência de constituição em mora do agravado, tendo em vista que "a notificação apresentada pelo banco não é capaz de comprovar a constituição da devedora em mora, já que a correspondência não chegou sequer a ser recebida no endereço informado no contrato, uma vez que houve devolução da notificação pelo motivo "não procurado" (e-STJ fl. 124).
+Desse modo, tem-se que o Tribunal local dissentiu da recente jurisprudência deste STJ no sentido de que o prévio encaminhamento da notificação extrajudicial ao endereço informado no contrato é suficiente para a comprovação da mora, tornando-se desnecessário ao ajuizamento da ação de busca e apreensão que o credor fiduciário demonstre o efetivo recebimento da correspondência pela pessoa do devedor ou por terceiro no endereço indicado.
+Salienta-se, ainda, como mesmo destacado no voto vencedor dos recursos julgados sob o rito dos recursos repetitivos - REsp 1.951.662/RS e REsp 1.951.888/RS - que essa conclusão abarca como consectário lógico situações em que a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato.
+Logo o presente recurso especial comporta acolhimento.
+DISPOSITIVO
+Forte em tais razões, CONHEÇO do agravo para CONHECER e DAR PROVIMENTO ao recurso especial, para reconhecer a constituição em mora da agravada e determinar o regular prosseguimento da ação de busca e apreensão ajuizada pela agravante.
