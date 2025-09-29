@@ -1,0 +1,2 @@
+Dispõe sobre as políticas públicas para a primeira infância e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 11.770, de 9 de setembro de 2008, e a Lei nº 12.662, de 5 de junho de 2012.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
