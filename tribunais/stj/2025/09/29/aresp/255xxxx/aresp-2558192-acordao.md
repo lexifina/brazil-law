@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. INVERSÃO DO ÕNUS DA PROVA. HIPOSSUFICIÊNCIA. REEXAME DE PROVA. SÚMULAS NºS 5 E 7 DO STJ.
+1. Apesar de opostos embargos de declaração com a finalidade de sanar omissão, a parte recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil nas razões do especial, atraindo a incidência da Súmula nº 211/STJ.
+2. O dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+3. A revisão das matérias referentes à necessidade de inversão do ônus da prova demandam a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por MARIA LUIZA DE PAULA contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C IMISSÃO DE POSSE C/C PERDAS DE VALORES C/C COMPENSAÇÃO DE VALORES PAGOS C/C TUTELA DE URGÊNCIA. CERCEAMENTO DE DEFESA. NÃO COMPROVADO. INVERSÃO DO ÔNUS. INDEVIDA. INADIMPLÊNCIA CONTRATUAL. RESCISÃO DEVIDA. 1. Não há falar em cerceamento de defesa, nem mesmo em ofensa aos comandos insculpidos nos incisos XXXV e LV do artigo 5º da CF/88, e, assim, em nulidade do julgado a quo, uma vez que a MM. Juíza a quo, longe de ferir a lei, esteve, absolutamente, adstrita a ela. 2. Apesar de serem aplicáveis ao caso as disposições do Código de Defesa do Consumidor, isso não significa que seja automática a inversão do ônus da prova: é necessário que estejam presentes os pressupostos elencados no art. 6º, VIII do mesmo diploma legal. 3. No caso, a Apelante não logrou êxito em comprovar o pagamento dos débitos lhe imputado, mesmo após notificação para pagamento, mov. 01, limitando - se a alegar que as despesas descritas na inicial são indevidas. Assim, diante dos fatos expostos, a r. sentença deve ser mantida por seus próprios e jurídicos fundamentos. 4. Em função do não provimento do apelo, necessária se mostra a majoração dos honorários sucumbenciais no presente caso (CPC, art. 85, § 11). APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA." (e-STJ fls. 496/510)
+Os embargos de declaração foram rejeitados (e-STJ fls. 552/563).
+Nas razões recursais, a recorrente aduz, além do dissídio jurisprudencial, violação dos seguintes dispositivos com suas teses:
+(i) artigo 7º do Código de Processo Civil, porquanto sustenta que a notificação extrajudicial recebida e que deu ensejo à ação de imissão de posse não foi instruída com a Ata da Diretoria Executiva e isso configuraria cerceamento de defesa;
+(ii) artigo 19 da Lei 5.764 de 1971, porquanto alega que a juntada da Ata de Reunião da Diretoria no momento da autuação e distribuição da inicial consistia em elemento ou documento indispensável e se referido documento não foi juntado pela parte recorrida, restaria ofendido o direito ao contraditório a à ampla defesa; e
+(iii) artigos 6º, inciso VIII da Lei 8.078 de 1990 (Código de Defesa do Consumidor) e 373, inciso I e §1º, do Código de Processo Civil, aduzindo que deveria ter sido invertido o ônus da prova em favor da ora recorrente em virtude de sua condição de consumidora, por conta da hipossuficiência.
+Não foram apresentadas contrarrazões (e-STJ fls. 606), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. INVERSÃO DO ÕNUS DA PROVA. HIPOSSUFICIÊNCIA. REEXAME DE PROVA. SÚMULAS NºS 5 E 7 DO STJ.
+1. Apesar de opostos embargos de declaração com a finalidade de sanar omissão, a parte recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil nas razões do especial, atraindo a incidência da Súmula nº 211/STJ.
+2. O dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+3. A revisão das matérias referentes à necessidade de inversão do ônus da prova demandam a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No que concerne à alegada violação dos artigos 7º do Código de Processo Civil e 19 da Lei 5.764 de 1971, em nenhum momento o acórdão recorrido (e-STJ fls. 496/510) mencionou e examinou os fatos à luz da alegação da parte no recurso especial.
+A recorrente insistiu acerca do cerceamento de defesa nos embargos de declaração (e-STJ fls. 514/524), os quais foram rejeitados. Nas presentes razões, porém, a parte não indicou como violados os artigos 489 e 1.022 do Código de Processo Civil.
+Assim, no que se refere à ofensa aos artigos 19 da Lei 5.764 de 1971 e 7º do Código de Processo Civil, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+A despeito disso, não foi alegada a violação dos artigos 489 e 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"(..)
+A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp n. 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Portanto, tem-se que os referidos artigos de lei federal não foram devidamente prequestionados, pelo que nesse ponto o recurso extremo não deve ser conhecido.
+Ademais, no que tange à violação do artigo 7º do Código de Processo Civil, a parte recorrente sustenta que foi malferido o direito de ampla defesa, insistindo que isso se deu pela ausência de envio, pela recorrida, com a notificação extrajudicial que indicou o inadimplemento, da "Ata da Diretoria Executiva".
+Portanto, para além da falta de prequestionamento, também incide quanto a esse dispositivo (artigo 7º do Código de Processo Civil), a Súmula nº 284/STF por fundamentação deficiente. Veja-se que o artigo 7º do Código de Processo Civil diz respeito ao direito adjetivo (processual), não se aplicando à análise de direito material, como alega a parte recorrente.
+Assim, incide , por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+No que concerne à alegada violação dos artigos 6º, inciso VIII, da Lei nº 8.078 de 1990 (Código de Defesa do Consumidor) e 373, inciso I e §1º, do Código de Processo Civil, o seu exame demandaria revolver elementos fáticos-probatórios, o que faz incidir as Súmulas nºs 5 e 7 do STJ.
+Com efeito, a inversão do ônus da prova não se dá, direta e automaticamente, devido a uma previsão legal, dependendo de comprovação da necessidade.
+O consumidor é presumivelmente vulnerável. Entretanto, a hipossuficiência que autoriza eventual inversão do ônus probatório deve ser comprovada. Logo, para exame, em recurso extremo, da necessidade de inversão do ônus da prova seria necessário revolver o acervo probatório, o que é inviável por força do enunciado das Súmulas nº 5 e 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE FATOS E DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALORES ACRESCIDOS ENCARGOS DE MORA. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. A jurisprudência desta Corte firmou-se no sentido de que a análise acerca da existência ou não de circunstâncias que ensejam a inversão do ônus da prova é feita no caso concreto, o que não pode ser revisto nesta instância em virtude do óbice da Súmula 7/STJ.
+3. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre cláusulas contratuais, fatos e provas dos autos. Incidência das Súmulas 5 e 7 deste Tribunal.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.286.106/SP, relator Ministro PAULO SÉRGIO DOMINGUES, Primeira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+A modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Quanto ao dissídio jurisprudencial, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alíne a "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, cabendo a majoração prevista no artigo 85, §11, do Código de Processo Civil para 15% (quinze por cento) sobre o valor da condenação.
+É o voto.
