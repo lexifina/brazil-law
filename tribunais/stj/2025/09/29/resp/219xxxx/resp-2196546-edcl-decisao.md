@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos, às fls. 2.808-2.814, contra decisão, assim ementada (fl. 2.795):
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. OFENSA AOS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. CONTINUIDADE TÍPICO-NORMATIVA. TESE ADOTADA PELO STJ. RECURSO ESPECIAL PROVIDO.
+A parte embargante sustenta, em síntese, que o decisum embargado restou omisso na medida em que não explicitadas as razões pelas quais entende que seria possível, ainda que em tese, a modificação do resultado do julgamento proferido pelo TJMG, mesmo diante da inexistência dos requisitos para a configuração do ato ímprobo, quais sejam: o dolo específico e qualificado e a lesividade relevante decorrente do ato praticado pela ora embargante.
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O decisum embargado decidiu a controvérsia ao assentar: (i) a inexistência de ofensa ao art. 1.022 do CPC/2015; e (ii) a dissonância do Tribunal de origem com a orientação firmada pelo Superior Tribunal de Justiça, ao interpretar o Tema n. 1.199/STF, no sentido de continuidade típico-normativa do art. 11 quando, dentre os incisos inseridos pela Lei n. 14.230/2021 neste dispositivo legal, remanescer típica a conduta considerada no acórdão como violadora dos princípios da Administração Pública, tendo em vista que a conduta descrita pela inicial enquadra-se, em tese, ao disposto art. 11, XII, da NLIA. Diante disso, determinou-se a devolução dos autos ao Tribunal de origem para que, à luz do conjunto fático-probatório, reaprecie o caso vertente considerando a orientação jurisprudencial do STJ firmada no REsp n. 2.107.601/MG, rel. Min. Gurgel de Faria, Primeira Turma, DJe 7/6/2024, de atipicidade superveniente da conduta ímproba embasada no dolo genérico, sendo necessário o dolo específico para a sua configuração.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
