@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO SENTENÇA POR ARBITRAMENTO. DECISÃO QUE HOMOLOGA O LAUDO PERICIAL. TAXA MÉDIA DE MERCADO. PESSOA JURÍDICA. CHEQUE ESPECIAL. PERÍODO DE REVISÃO ANTERIOR A MARÇO DE 2011. AUSÊNCIA DE DIVULGAÇÃO DA TAXA MÉDIA DE MERCADO À ÉPOCA. UTILIZAÇÃO DA SÉRIE REFERENTE À OPERAÇÃO CONTA GARANTIDA. SÚMULA N. 7/STJ.
+1. Não cabe no recurso especial a discussão de eventual ofensa a decreto regulamentar, resoluções, portarias ou instruções normativas, por não se enquadrarem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+2. No caso dos autos, o perito calculou as diferenças devidas com base em nota do próprio BACEN, em que informa que, anteriormente a março de 2011, a taxa média de juros para a operação "Cheque Especial - Pessoa Jurídica" era divulgada na modalidade Conta Garantida. Reexame que encontra óbice na Súmula n. 7/STJ.
+Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por ITAU UNIBANCO S.A contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Foram acolhidos os embargos de declaração para correção de erro material (fls. 73 - 91), em razão de inserção de julgado equivocado no Sistema Projudi, e substituição da ementa e dos fundamentos do voto, guardando a ementa adotada os seguintes termos (fl. 75-76):
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO SENTENÇA POR ARBITRAMENTO. DECISÃO QUE HOMOLOGA O LAUDO PERICIAL. NULIDADE DA DECISÃO RECORRIDA POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO DEMONSTRADA. DECISÃO SUCINTA, PORÉM, FUNDAMENTADA. TAXA MÉDIA DE MERCADO. CONTA CORRENTE. PESSOA JURÍDICA. CHEQUE ESPECIAL. PERÍODO DE REVISÃO ANTERIOR A MARÇO DE 2011. AUSÊNCIA DE DIVULGAÇÃO DA TAXA MÉDIA DE MERCADO À ÉPOCA. CORRETA UTILIZAÇÃO DA SÉRIE 3943, REFERENTE À OPERAÇÃO CONTA GARANTIDA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. LIQUIDAÇÃO DE SENTENÇA QUE ADMITE FIXAÇÃO DE HONORÁRIOS EXCEPCIONALMENTE QUANDO CONFIGURADA LITIGIOSIDADE EXCESSIVA. NÃO CONFIGURAÇÃO. CÁLCULOS PERICIAIS RESPEITARAM OS PARÂMETROS JUDICIAIS ESTABELECIDOS NO PROCESSO. RECURSO CONHECIDO E NÃO PROVIDO.
+No recurso especial, o recorrente alega que o julgado recorrido violou os arts. 1º e 48, IX, da Lei 4.595/64 e da Resolução n. 1.064/85 do BACEN, que tratam da competência do Conselho Monetário Nacional e do Banco Central do Brasil para regulamentar as taxas de juros.
+Insurge-se contra a limitação dos juros remuneratórios em contratos de cheque especial de pessoa jurídica às taxas médias de conta garantida, devido à ausência de divulgação pelo BACEN de uma taxa média oficial antes de março de 2011
+Sem contrarrazões ao recurso especial, sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 119 - 121), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO SENTENÇA POR ARBITRAMENTO. DECISÃO QUE HOMOLOGA O LAUDO PERICIAL. TAXA MÉDIA DE MERCADO. PESSOA JURÍDICA. CHEQUE ESPECIAL. PERÍODO DE REVISÃO ANTERIOR A MARÇO DE 2011. AUSÊNCIA DE DIVULGAÇÃO DA TAXA MÉDIA DE MERCADO À ÉPOCA. UTILIZAÇÃO DA SÉRIE REFERENTE À OPERAÇÃO CONTA GARANTIDA. SÚMULA N. 7/STJ.
+1. Não cabe no recurso especial a discussão de eventual ofensa a decreto regulamentar, resoluções, portarias ou instruções normativas, por não se enquadrarem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+2. No caso dos autos, o perito calculou as diferenças devidas com base em nota do próprio BACEN, em que informa que, anteriormente a março de 2011, a taxa média de juros para a operação "Cheque Especial - Pessoa Jurídica" era divulgada na modalidade Conta Garantida. Reexame que encontra óbice na Súmula n. 7/STJ.
+Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, impossível conhecer do recurso especial em relação à alegada violação da Resolução n. 1.064/85 do BACEN, pois não cabe no recurso especial a discussão de eventual ofensa a decreto regulamentar, resoluções, portarias ou instruções normativas, por não se enquadrarem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+Conforme o quanto consignado no acórdão recorrido, o perito calculou as diferenças devidas com base em nota do próprio BACEN, em que informa que, anteriormente a março de 2011, a taxa média de juros para a operação "Cheque Especial - Pessoa Jurídica" era divulgada na modalidade Conta Garantida, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 83-86):
+Com relação a taxa de juros remuneratórios, o Sr. Perito esclareceu que (mov. 228.2):
+"(..) É importante esclarecer, que o BACEN divulga as taxas médias de juros praticadas pelas instituições financeiras desde julho de 1994. As séries são agrupadas por "pessoa jurídica" e "pessoa física". Para Pessoa Jurídica, o BACEN começou a divulgar a taxa média de juros de (Cheque Especial - Pessoa Jurídica) sob o código "20727" a partir 01/03/2011. O período de incidência de juros na conta corrente analisada é anterior a esta data. O Bacen, de forma expressa, informa que tal operação (Cheque Especial - Pessoa Jurídica), na estrutura anterior à mar/2011, era divulgada na modalidade Conta Garantida, Conforme "Nota Para A Imprensa De Política Monetária E Operações De Crédito - Nova Estrutura De Dados De Crédito - Nota Metodológica", no subtópico 10.1 "Recursos livres - pessoas jurídicas", item Cheque Especial - Pessoas Jurídicas, disponibilizada pelo Bacen através do link: https://www.bcb.gov.br/content /estatisticas/Documents/notas_metodologicas/emprestimos-sfn/notaempr.pdf, conforme demonstra-se:
+ ..
+Assim, em relação à adoção da taxa média de mercado, divulgada pelo Bacen e adotada pelo perito em seus cálculos, conforme fundamentação acima apresentada, nega- se provimento ao recurso. Portanto, o cálculo apresentado pelo perito obedece os termos da r. sentença, com relação a série utilizada para aplicação da taxa de juros remuneratórios, e desta forma, a decisão que homologou referidos cálculos não comporta reforma, devendo ser mantida, nos termos em que foi apresentada.
+Afastar o referido entendimento para concluir no sentido de que a série histórica utilizada pelo perito na liquidação não trata de operação da mesma espécie, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. JULGAMENTO EXTRA PETITA. NÃO CONFIGURAÇÃO. PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. PROCEDÊNCIA DA PARCIAL DA DEMANDA. POSSIBILIDADE. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA PETIÇÃO INICIAL. LIQUIDEZ DA OBRIGAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. SÚMULA Nº 318/STJ.
+1. Não configura julgamento ultra petita ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial. Precedentes.
+2. Na hipótese, o próprio pedido feito na petição inicial - de cobrança de valores previstos em contrato - permite ao julgador o reconhecimento do direito ao adimplemento da obrigação (an debeatur), que, no caso, foi parcial, e à determinação de apuração da quantia efetivamente devida pela parte demandada (quantum debeatur) em liquidação, sem que disso resulte decisão que possa ser considerada extra ou ultra petita.
+3. É inviável rever, na via do recurso especial, conclusões das instâncias de cognição plena que estejam adstritas ao reexame do acervo fático-probatório carreado nos autos e à interpretação de cláusulas contratuais (Súmulas nº 5 e 7 do STJ).
+4. Formulado pedido certo e determinado, somente o autor tem interesse recursal em arguir o vício da sentença ilíquida (Súmula nº 318/STJ).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.309.145/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+É como penso. É como voto.
