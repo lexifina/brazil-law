@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO DE POSSE. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. PURGAÇÃO DA MORA. INTIMAÇÃO POR EDITAL. REQUISITOS. REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. verifica-se que a revisão da conclusão do julgado - no sentido de anular a consolidação da propriedade do imóvel em virtude de irregularidade da intimação por edital para constituição da mora dos devedores - exigiria o reexame dos elementos fáticos da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+3. Agravo conhecido para conhecer, em parte, do recurso especial, negando-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por BANCO DO ESTADO DE SERGIPE S.A. (BANCO) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE IMISSÃO NA POSSE COM PEDIDO LIMINAR DE DESOCUPAÇÃO. DEMONSTRAÇÃO DE ILEGALIDADE NA CONSOLIDAÇÃO DA PROPRIEDADE. AUSÊNCIA DE ESGOTAMENTO DE TODOS OS MEIOS PARA A INTIMAÇÃO PESSOAL. INVALIDADE DA CONSOLIDAÇÃO DA PROPRIEDADE DO IMÓVEL E DO PROCEDIMENTO EXPROPRIATÓRIO. REFORMA DA SENTENÇA. RECURSO CONHECIDO E PROVIDO. À UNANIMIDADE (e-STJ, fl. 282).
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ, fls. 292-303).
+Nas razões do presente agravo, BANCO alegou (1) negativa da prestação jurisdicional; (2) o prequestionamento da questão controvertida; e (3) a não incidência da Súmula nº 7 desta Corte.
+Foi apresentada contraminuta (e-STJ, fls. 385-402).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO DE POSSE. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. PURGAÇÃO DA MORA. INTIMAÇÃO POR EDITAL. REQUISITOS. REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. verifica-se que a revisão da conclusão do julgado - no sentido de anular a consolidação da propriedade do imóvel em virtude de irregularidade da intimação por edital para constituição da mora dos devedores - exigiria o reexame dos elementos fáticos da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+3. Agravo conhecido para conhecer, em parte, do recurso especial, negando-lhe provimento.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Trata-se de ação de imissão de posse ajuizada por BANCO contra EDIVAN MURILO SANTOS SANTANA e MAGNA ELISIA DOS SANTOS SANTANA (EDIVAN e MAGNA), fundada no inadimplemento do contrato de financiamento imobiliário firmado entre as partes, com cláusula de alienação fiduciária em garantia.
+Em primeira instância, o pedido foi julgado procedente, para imitir o autor, em definitivo, na posse do imóvel, determinando a expedição de mandado para esse fim. Para cumprimento, estando o bem ainda ocupado, o oficial de justiça deverá dar ciência ao(s) réu(s) da presente sentença e do prazo de 10 dias para desocupação do bem. Transcorridos os 10 dias sem desocupação voluntária, o oficial de justiça, ainda de posse do mandado de imissão, deverá efetivar a imissão, utilizando-se da força policial, se necessário e com as cautelas de praxe. Por fim, condeno o(s) réu(s) ao pagamento das custas processuais e honorários advocatícios, estes que fixo em 10% sobre o valor atualizado da causa, com base no art. 85, caput, §§ 1º e 2º, do CPC, observada a gratuidade concedida (e-STJ, fl. 195).
+Irresignados, os requeridos apelaram, tendo sido o recurso provido pelo TJSE, para anular a consolidação da propriedade do imóvel discutido nos autos, ante o reconhecimento de irregularidade na constituição da mora, invertidos os ônus sucumbenciais (e-STJ, fls. 281-287).
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, BANCO alegou, a par de divergência jurisprudencial, a violação dos arts. 1.022, II, do CPC, e 26, § 4º, da Lei n. 9.514/97, ao sustentar (1) omissão do acórdão recorrido acerca da higidez da citação por edital, nos termos do que dispõe a Lei de Alienação Fiduciária; e (2) a regularidade da citação por edital, após a realização infrutífera de 6 (seis) tentativas de citação pessoal dos devedores para purgação da mora.
+(1) Da violação do art. 1.022, II, do CPC
+Sobre o tema controvertido, ao julgar o recurso de apelação interposto por EDIVAN e MAGNA, dando-lhe provimento, o TJSE assim se pronunciou:
+Na situação dos autos, observa-se que o credor fiduciário sequer tentou promover a intimação pessoal da recorrida por meio dos correios, com aviso de recebimento, passando diretamente, após três tentativas de intimação pessoal pelo oficial cartorário, a promover a intimação por edital dos devedores.
+Então, a intimação por edital para fins de purgação da mora no procedimento de alienação fiduciária de coisa imóvel pressupõe o esgotamento de todas as possibilidades de localização do devedor, o que não ocorreu nos autos.
+Os documentos acostados na inicial do processo demonstram a realização, apenas, da intimação pelo Oficial de Registro de Imóveis o que não é suficiente para o esgotamento das diligências.
+ ..
+Na hipótese dos autos, restou consignado que a certidão do registro de imóveis não comprova mudança de endereço. Todavia, o demandante comprovou residir no citado endereço, motivo pelo qual, em virtude da extrema gravidade das consequências (a consolidação da propriedade do imóvel em favor do credor), deveria ter havido o exaurimento da tentativa de notificar pessoalmente o devedor. A demandada, após o resultado infrutífero da notificação cartorária do autor, promoveu, de logo, a notificação por edital, sem diligenciar outros meios de busca, como intimação pelos correios com aviso de recebimento etc. Desta forma, não comprovado o esgotamento das tentativas prévias de localização do fiduciante, deve ser reconhecida a irregularidade da sua constituição em mora, nos termos da Lei nº 9.514/97 (e-STJ, fls. 285-287).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do CPC, o que busca o BANCO é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados nos referidos dispositivos da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugna do, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada negativa da prestação jurisdicional.
+(2) Da intimação por edital
+Por sua vez, da leitura dos fundamentos transcritos no tópico anterior, verifica-se que a revisão da conclusão do julgado - no sentido de anular a consolidação da propriedade do imóvel em virtude de irregularidade da intimação por edital para constituição da mora dos devedores - exigiria o reexame dos elementos fáticos da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A títulos ilustrativo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATOS JURÍDICOS C/C PEDIDO DE CANCELAMENTO DE REGISTRO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Conformidade do acórdão impugnado à jurisprudência desta Corte no sentido de que, para a consolidação da propriedade do imóvel em nome do credor fiduciário, somente admite-se a constituição em mora do devedor por edital quando esgotadas as possibilidades de intimação pessoal.
+1.1. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a irregularidade da intimação por edital no caso concreto. Incidência da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.281.959/MG, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 25/6/2019, DJe de 28/6/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO POR EDITAL. ESGOTAMENTO DAS DILIGÊNCIAS. NECESSIDADE. ALTERAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o tribunal local concluiu que as diligências para localizar o devedor não foram esgotadas. Rever tal entendimento atrai a incidência da Súmula nº 7/STJ.
+3. A notificação por edital para constituição do devedor em mora é permitida apenas quando esgotadas todas as possibilidades de sua localização.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.332.202/ES, relator Ministro RICARDO VILLAS BOAS CUEVA, Terceira Turma, julgado em 27/5/2019, DJe de 29/5/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. MORA. COMPROVAÇÃO. PROTESTO DO TÍTULO. INTIMAÇÃO POR EDITAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS DE LOCALIZAÇÃO DO DEVEDOR. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. SÚMULA 83/STJ. MATÉRIA EXAMINADA SOMENTE NO VOTO VENCIDO. SÚMULA 320/STJ.AGRAVO INTERNO IMPROVIDO.
+1. É assente o entendimento do Superior Tribunal de Justiça de que a comprovação da mora pode ser efetuada pelo protesto do título por edital, desde que, à evidência, sejam esgotados todos os meios de localização do devedor.
+2. O Tribunal de origem registrou expressamente não haver comprovação válida de notificação por Cartório de Títulos e Documentos, não sendo cabível intimação do protesto por edital sem que sequer tenham sido esgotadas as possibilidades de intimação pessoal do ora agravado. Dessa forma, para afastar as conclusões adotadas, seria necessário o reexame do conjunto fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula deste Tribunal.
+3. A tese exclusivamente tratada no voto vencido não logra conhecimento no âmbito do recurso especial, tendo em vista o contido na Súmula n. 320 do STJ: "A questão federal somente ventilada no voto vencido não atende ao requisito do prequestionamento."
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 877.490/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 23/6/2016, DJe de 1º/7/2016 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, NEGANDO-LHE PROVIMENTO.
+É o voto.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
