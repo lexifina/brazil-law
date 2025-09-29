@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ORSEGUPS PARTICIPAÇÕES S.A., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 312-326):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. PRESTAÇÃO DE SERVIÇOS DE MONITORAMENTO SE ALARME. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS INDENIZATÓRIOS DA AUTORA. INSURGÊNCIA RECURSAL. PEDIDO DE CONDENAÇÃO DA RÉ PELOS DANOS MATERIAIS DECORRENTES DO FURTO OCORRIDO EM SEU ESTABELECIMENTO. ACOLHIMENTO. FALHA NA PRESTAÇÃO DO SERVIÇO CONSTATADA. SANEADOR QUE RECONHECEU A APLICAÇÃO DO CDC. REQUERIDA QUE AGIU COM NEGLIGÊNCIA. EMPRESA RÉ QUE FALHOU NA PRESTAÇÃO DE SERVIÇOS DE VISTORIAR O IMÓVEL APÓS OS DISPAROS DO SENSOR DE ALARME, NÃO COMUNICOU O AUTOR E NEM A EMPRESA QUE NÃO REALIZOUAUTORIDADE POLICIAL. QUALQUER DILIGÊNCIA EM TEMPO HÁBIL APÓS O DISPARO DO ALARME. RESPONSABILIDADE OBJETIVA PREVISTA NO ARTIGO 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR. CONDENAÇÃO DA RÉ AO PAGAMENTO DOS PREJUÍZOS MATERIAIS. POSSIBILIDADE. AUTOR QUE COMPROVOU O FURTO DE BENS EM SEU ESTABELECIMENTO COMERCIAL. DOCUMENTOS JUNTADOS QUE COMPROVAM A PROPRIEDADE E O VALOR DOS OBJETOS. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. RECURSO CONHECIDO E PROVIDO.
+Rejeitados os embargos de declaração (fls. 337-343).
+Sustentou a recorrente, em suas razões recursais, ter havido, além de divergência jurisprudencial, ofensa ao art. 406 do Código Civil, pretendendo a aplicação da Taxa SELIC em substituição à correção monetária pela média do INPC/IGP-DI e aos juros de mora de 1% ao mês na atualização da condenação imposta em favor das recorridas.
+É, no essencial, o relatório.
+A questão central em discussão no presente recurso especial é a alegada ofensa ao art. 406 do Código Civil em razão da não aplicação da taxa Selic.
+Ocorre que a Corte Especial afetou essa questão no Tema repetitivo n. 1.368:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. ARTIGO 406 DO CÓDIGO CIVIL. TAXA SELIC. APLICAÇÃO ANTES DA ENTRADA EM VIGOR DA LEI Nº 14.905/2024.
+1. Delimitação da controvérsia: "definir se a taxa referencial do Sistema Especial de Liquidação e Custódia (SELIC) deve ser considerada para a fixação dos juros moratórios a que se referia o art. 406 do Código Civil antes da entrada em vigor da Lei nº 14.905/2024".
+2. Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC.
+(ProAfR no REsp n. 2.070.882/RS, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 24/6/2025, DJEN de 5/8/2025.)
+No julgamento, foi determinada a suspensão dos recursos especiais e agravos em recurso especial em trâmite nos Tribunais de Justiça e Tribunais Regionais Federais de todo o País que discorram sobre idêntica questão jurídica.
+Ante o exposto, em cumprimento ao disposto no art. 256-L, I, do RISTJ ("Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator"), determino o retorno dos autos ao Tribunal de origem, onde deverão permanecer suspensos até decisão da Corte Especial quanto ao T ema 1.368.
+Intimem-se.
+EMENTA
