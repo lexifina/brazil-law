@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE BOA FÉ. INEXISTÊNCIA DO DEVER DE INDENIZAR. BENFEITORIAS. PRESSUPOSTOS. FUNDAMENTAÇÃO DEFICIÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS NºS 7/STJ E 284/STF.
+1 É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indica r especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. No caso concreto, rever o entendimento firmado pelo Tribunal de origem quanto as premissas fáticas estabelecidas, como a caracterização da posse, a natureza das benfeitorias e avaliação dos danos, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por ALEXANDRE DALL"ONDER contra a decisão que inadmitiu seu recurso especial.
+O apelo nobre, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMODATO FIRMADO ENTRE O APELANTE E SEU IRMÃO (EXECUTADO EM AUTOS DE EXECUÇÃO FISCAL). AUSÊNCIA DE RELAÇÃO PRÓPRIA ENTRE O APELANTE (POSSUIDOR) E O APELADO (ARREMATANTE DO BEM IMÓVEL). PLEITO PRINCIPAL JULGADO IMPROCEDENTE. RECONVENÇÃO JULGADA PARCIALMENTE PROCEDENTE. APELANTE (POSSUIDOR) QUE ERA SABEDOR DAS CONDIÇÕES DO BEM IMÓVEL. AUSÊNCIA DE BOA FÉ. INEXISTÊNCIA DO DEVER DE INDENIZAR. BENFEITORIAS REALIZADAS NO BEM IMÓVEL QUE NÃO SE CARACTERIZAM COMO NECESSÁRIAS. ESTABILIDADE DO PEDIDO RECONVENCIONAL. APELANTE QUE DESPIU O BEM IMÓVEL. APELADO QUE TEVE QUE RESTABELECER O BEM IMÓVEL QUANDO DA IMISSÃO NA POSSE DO BEM. DANOS MATERIAIS E MORAIS DEVIDOS. MANUTENÇÃO DA DECISÃO JUDICIAL NOS MOLDES PROPOSTOS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, EM SEDE RECURSAL. MAJORAÇÃO QUANTITATIVA. APLICABILIDADE DO § 11 DO ART. 85 DA LEI N. 13.105/2015 (CÓDIGO DE PROCESSO CIVIL).
+1. Dos Autos se extrai, que o contrato de comodato foi firmado entre o Apelante e seu irmão (Executado), enquanto pendia ação de execução fiscal em relação ao bem imóvel. Assim, o Apelante, enquanto possuidor do bem imóvel, tinha plena e total ciência da condição do bem imóvel, fato que impediu o reconhecimento da posse de boa fé e eventual Direito a indenização.
+2. Ao contrário da defesa formulada pelo Apelante, restou comprovado nos Autos, por meio da produção de prova oral e documental, que a arrematação do bem imóvel, perfeita e acabada, constituiu-se em título aquisitivo que rompeu qualquer vínculo com o antigo proprietário.
+3. Das provas colacionadas aos Autos, verifica-se o Direito do Apelado em ser indenizado pelas benfeitorias realizadas no bem imóvel quando do momento da imissão na posse do bem. Isso porque, no momento da desocupação do bem imóvel, o Apelante despiu o bem imóvel deixando-o aquém do descrito nos Autos de Arrematação.
+4. O reconhecimento jurídico legal da ocorrência/existência de dano moral, por certo, requer que o abalo experimentado pelo lesionado supere o mero dissabor a ser legitimamente suportado na vida cotidiana que se desenvolve em uma sociedade ocidental caracteristicamente de risco.
+5. Dos Autos se denota que o Apelado, após o válido e regular procedimento de arrematação (no ano de 2003), somente pode ser imitido na posse do bem imóvel no ano de 2015. Aliado a isso, o Apelado encontrou o bem imóvel em condições diversas daquela aposta no Autos de Arrematação, o que, certamente, ultrapassa o mero dissabor.
+6. "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento" (§ 11 do art. 85 da Lei n. 13.105/2015).
+7. Recurso de apelação cível conhecido, e, no mérito, não provido." (e-STJ, fls. 1208/1209)
+Em suas razões (e-STJ, fls. 1225/1242), o recorrente sustenta, em síntese, que o acórdão recorrido violou o art. 1.219 do Código Civil, ao afastar a sua boa-fé e o direito à indenização pelas benfeitorias realizadas no imóvel.
+Após a juntada das contrarrazões (e-STJ, fls. 1256/1272), o recurso especial não foi admitido na origem (e-STJ fls. 1273/1279), ensejando a interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE BOA FÉ. INEXISTÊNCIA DO DEVER DE INDENIZAR. BENFEITORIAS. PRESSUPOSTOS. FUNDAMENTAÇÃO DEFICIÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS NºS 7/STJ E 284/STF.
+1 É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indica r especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. No caso concreto, rever o entendimento firmado pelo Tribunal de origem quanto as premissas fáticas estabelecidas, como a caracterização da posse, a natureza das benfeitorias e avaliação dos danos, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+A irresignação não merece acolhida.
+Inicialmente, a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, apesar de indicar o art. 1.219 do CC como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Nesse contexto, as alegações de nulidade no procedimento da arrematação e parcelamento da dívida são genéricas e não estabelecem um nexo de causalidade direto com a violação do dispositivo legal invocado no contexto da posse de boa-fé.
+Além disso, quanto à divergência jurisprudencial, verifica-se que as razões de recurso especial não trouxeram a indicação precisa dos dispositivos legais que supostamente foram alvo de interpretação dissonante.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+Por fim , rever o entendimento firmado pelo Tribunal de origem quanto às premissas fáticas estabelecidas, como a caracterização da posse, a natureza das benfeitorias e avaliação dos danos, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Sem majoração dos honorários de sucumbência recursais porque já arbitrados em 20% sobre o valor atualizado da causa para a lide principal e 20% sobre o valor do proveito econômico para a reconvenção (e-STJ fl. 1.220).
+É o voto.
