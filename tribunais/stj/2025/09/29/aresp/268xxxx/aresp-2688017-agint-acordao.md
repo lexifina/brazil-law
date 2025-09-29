@@ -1,0 +1,115 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE. AGRAVO DO ART. 1.042 DO CPC. COMPROVAÇÃO DA SUSPENSÃO DO PRAZO. RECURSO TEMPESTIVO. DECISÃO DE INADMISSIBILIDADE REFORMADA. MÉRITO DO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE NORMA CONSTITUCIONAL. IMPOSSIBILIDADE DE CONTROLE VIA RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO RELATIVA. HIPOSSUFICIÊNCIA AFASTADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E, NO MÉRITO, NEGAR-LHE PROVIMENTO.
+1. A parte comprovou a tempestividade do recurso. Suspensão dos prazos processuais por força do art. 220 do CPC. Agravo conhecido, com afastamento da intempestividade fundamentada na decisão monocrática.
+2. A jurisprudência pacífica desta Corte é no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+3. A presunção de que a pessoa física que pleiteia o benefício da assistência judiciária gratuita não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família é relativa e pode ser afastada pelo magistrado quando encontrar, nos autos, elementos que evidenciem a ausência dos pressupostos para a concessão do benefício. Precedentes. Súmula n. 568 do STJ.
+4. Modificar as conclusões do Tribunal de origem, acerca da concessão do benefício da justiça gratuita, requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+5. Dissídio jurisprudencial não demonstrado. Ausência de cotejo analítico dos julgados e mera transcrição de ementas.
+6. Agravo interno provido para, em novo julgamento, conhecer do agravo em recurso especial e negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIUSE BUCZAK ROTHENBURG (MARIUSE) contra decisão monocrática da Presidência deste STJ que decidiu pelo não conhecimento do recurso especial, em razão de sua intempestividade.
+Nas razões do recurso, MARIUSE apontou (1) a tempestividade do recurso especial, argumentando que o prazo de 15 dias úteis se encerraria em 22/1/2024, conforme o sistema PROJUDI, e que a suspensão dos prazos processuais entre 20 de dezembro e 20 de janeiro deveria ser considerada (e-STJ, fls. 198-202); (2) a violação de normas federais, alegando que os critérios utilizados para negar a gratuidade de justiça são extralegais e inconstitucionais, não previstos em lei (e-STJ, fls. 204-206); (3) a necessidade de reforma da decisão que inadmitiu o recurso especial, pois não implicaria na reanálise de provas, mas sim na aplicação correta da Lei Federal (e-STJ, fls. 207-209).
+Houve apresentação de contraminuta por EMBRACON ADMINISTRADORA DE CONSÓRCIO LTDA (EMBRACON), defendendo que o recurso é tempestivo e deve ser admitido (e-STJ, fls. 232-233).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE. AGRAVO DO ART. 1.042 DO CPC. COMPROVAÇÃO DA SUSPENSÃO DO PRAZO. RECURSO TEMPESTIVO. DECISÃO DE INADMISSIBILIDADE REFORMADA. MÉRITO DO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE NORMA CONSTITUCIONAL. IMPOSSIBILIDADE DE CONTROLE VIA RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO RELATIVA. HIPOSSUFICIÊNCIA AFASTADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E, NO MÉRITO, NEGAR-LHE PROVIMENTO.
+1. A parte comprovou a tempestividade do recurso. Suspensão dos prazos processuais por força do art. 220 do CPC. Agravo conhecido, com afastamento da intempestividade fundamentada na decisão monocrática.
+2. A jurisprudência pacífica desta Corte é no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+3. A presunção de que a pessoa física que pleiteia o benefício da assistência judiciária gratuita não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família é relativa e pode ser afastada pelo magistrado quando encontrar, nos autos, elementos que evidenciem a ausência dos pressupostos para a concessão do benefício. Precedentes. Súmula n. 568 do STJ.
+4. Modificar as conclusões do Tribunal de origem, acerca da concessão do benefício da justiça gratuita, requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+5. Dissídio jurisprudencial não demonstrado. Ausência de cotejo analítico dos julgados e mera transcrição de ementas.
+6. Agravo interno provido para, em novo julgamento, conhecer do agravo em recurso especial e negar-lhe provimento.
+VOTO
+De acordo com a moldura fática dos autos, na origem o caso cuida de um recurso especial interposto por MARIUSE, que busca a concessão do benefício da justiça gratuita, indeferido por decisão interlocutória de primeiro grau.
+O Juízo de primeira instância entendeu que a recorrente possui condições financeiras para arcar com as custas processuais, considerando sua renda e patrimônio. O Tribunal de segunda instância manteve a decisão e fundamentou que a presunção de hipossuficiência não se aplica no caso de renda mensal superior a três salários mínimos.
+Em seu apelo nobre, MARIUSE alegou violação dos arts. 5º, inciso LXXIV, da Constituição da República, 2º, parágrafo único, da Lei n. 1.060/50, e 99, § 3º, do Código de Processo Civil, argumentando que os critérios utilizados para negar a gratuidade de justiça são extralegais e inconstitucionais.
+A decisão monocrática da Presidência do STJ não conheceu do recurso especial por considerá-lo intempestivo, levando a parte a interpor agravo interno para obter pronunciamento colegiado.
+O objetivo recursal é decidir se (i) o recurso especial interposto por MARIUSE é tempestivo, considerando a suspensão dos prazos processuais; (ii) os critérios utilizados para negar a gratuidade de justiça são extralegais e inconstitucionais; (iii) a decisão que inadmitiu o recurso especial deve ser reformada para permitir a concessão do benefício da justiça gratuita.
+(1) Da análise do agravo interno
+O presente agravo interno merece ser provido.
+A decisão monocrática da Presidência desta Corte inadmitiu o agravo em recurso especial, fundamentando que a parte recorrente foi intimada da decisão em 27/11/2023, sendo o agravo somente interposto em 22/1/2024.
+Ocorre que MARIUSE já havia citado e comprovado em seu recurso os atos do TJPR que suspenderam os prazos durante os dias 8/12/2023, 16/11/2023, 18/11/2023 e 19/11/2023, de modo que, levando em consideração o recesso forense e a suspensão dos prazos processuais por força do art. 220 do CPC, é de se considerar como último dia do protocolo 22/1/2024, data em que foi o recurso foi interposto.
+Portanto, a decisão da Presidência, ao não conhecer do agravo em recurso especial em razão da intempestividade, incorreu em erro, devendo ser reformada para que se prossiga na análise do recurso.
+(2) Da análise do mérito do agravo em recurso especial
+Superada a questão que obstou o conhecimento do agravo em recurso especial, passo a analisar o mérito deste recurso, que se volta contra a decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial.
+Em seu apelo nobre, MARIUSE alegou violação dos arts. 5º, inciso LXXIV, da Constituição da República, 2º, parágrafo único, da Lei n. 1.060/50, e 99, § 3º, do Código de Processo Civil, sob o argumento de que o Juízo a quo teria exorbitado de sua função ao impor critérios extralegais para concessão da justiça gratuita, apontando que a declaração assinada para aferir a condição de hipossuficiente de próprio punho, tem presunção de veracidade. Além disso, sustentou também a existência de dissídio jurisprudencial acerca da matéria.
+(2.1) Da impossibilidade de análise de violação dos preceitos constitucionais
+MARIUSE sustenta, em seu recurso especial, violação do art. 5º, LXXIV, da Constituição da República.
+A jurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF (AREsp n. 2.944.770/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgInt no AREsp n. 2.845.441/CE, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025).
+Dessa forma, quanto ao ponto, não se pode conhecer do recurso.
+(2.2) Da incidência das Súmulas n. 568 e 7 do STJ
+Nas razões do presente recurso, MARIUSE afirmou a violação dos arts. 2º, parágrafo único, da Lei n. 1.060/50, e 99, § 3º, do Código de Processo Civil, sob o argumento de que o Juízo a quo teria exorbitado de sua função ao impor critérios extralegais para concessão da justiça gratuita, apontando que a declaração assinada para aferir a condição de hipossuficiente de próprio punho tem presunção de veracidade
+Sobre o tema, o TJPR consignou que não houve ilegalidade por parte do magistrado.
+Confira-se a ementa do julgado:
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. DECISÃO QUE DEFERIU APENAS EM PARTE O BENEFÍCIO DA GRATUIDADE DE JUSTIÇA, ADMITINDO A POSSIBILIDADE DE PARCELAMENTO DAS CUSTAS. INDÍCIOS DE CONDIÇÃO FINANCEIRA DA AUTORA A SUPORTAR AS CUSTAS DEVIDAS, DE FORMA PARCELADA. EXAME QUE DEVE SE PAUTAR NO ARCABOUÇO PROBATÓRIO COMO UM TODO. INVIABILIDADE DA CONCESSÃO DA GRATUIDADE JUDICIAL, EM SUA INTEGRALIDADE. ACERTADA CONCESSÃO PARCIAL DO BENEFÍCIO, COM POSSIBILIDADE DE PARCELAMENTO DAS CUSTAS DEVIDAS, EM ATENÇÃO AO DISPOSTO NO ART. 98, §§ 5º E 6º DO CPC/2015. DECISÃO DE DEFERIMENTO PARCIAL DO BENEFÍCIO DA GRATUIDADE COM POSSIBILIDADE DE PARCELAMENTO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. Recurso não provido.
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que a presunção contida na declaração de hipossuficiência subscrita pela parte é relativa, podendo ser analisada pelo magistrado no contexto das provas e demais elementos constantes nos autos.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO RELATIVA. HIPOSSUFICIÊNCIA AFASTADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. NULIDADE DA INTIMAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+1. Nos termos da jurisprudência pacífica do STJ, há presunção juris tantum de que a pessoa física que pleiteia o benefício da assistência judiciária gratuita não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção relativa pode ser afastada pelo magistrado quando encontrar, nos autos, elementos que evidenciem a ausência dos pressupostos para a concessão do benefício. Precedentes.
+2. Modificar as conclusões do Tribunal de origem, acerca da concessão do benefício da justiça gratuita, requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+3. A ausência de prequestionamento dos dispositivos legais invocados impede sua análise em recurso especial. Incidência da Súmula n. 211/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.768.917/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025)
+AGRAVO INTERNO NO AGRVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DORECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Violação ao artigo 1.022 do CPC/15 não configurada. Acórdão estadual que enfrentou os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissões.
+Precedentes.
+2. O benefício da assistência judiciária consagra a presunção juris tantum de que a pessoa física, que pleiteia o benefício, não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Por isso, em princípio, basta o simples requerimento, sem nenhuma comprovação prévia, para que lhe seja concedida a assistência judiciária gratuita.
+2.1 Não obstante, tal presunção é relativa, podendo a parte contrária demonstrar a inexistência do estado de miserabilidade ou o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente.
+2.2 Incide no óbice contido na Súmula 7/STJ a pretensão voltada para infirmar a conclusão firmada pela Corte de origem quanto à ausência de comprovação do estado de miserabilidade alegado pela parte, necessário para a concessão dos benefícios da assistência judiciária gratuita.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.705.723/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2025, DJEN de 2/7/2025)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula n. 568 do STJ.
+Ademais, rever as conclusões quanto aos pressupostos fáticos para concessão da justiça gratuita demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA INDEFERIDA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA 7. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob o argumento de que a análise do mérito demandaria reexame de prova, o que é vedado pela Súmula 7 do STJ.
+II. Questão em discussão
+2. Consiste em saber se a análise da decisão do Tribunal que concluiu pela não comprovação da hipossuficiência, para fins de benefício da justiça gratuita, demandaria o reexame de prova.
+III. Razões de decidir
+3. A declaração de hipossuficiência deduzida por pessoa física possui presunção de veracidade, mas, verificando o julgador a presença de elementos que evidenciem a falta de requisitos para concessão do benefício, ele pode indeferi-lo.
+4. Rever a conclusão do Tribunal pela negativa do benefício demandaria incursão nos elementos probatórios, sendo que o recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo 5. Agravo não conhecido.
+(AREsp n. 2.859.076/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CAPÍTULO AUTÔNOMO NÃO IMPUGNADO. PRECLUSÃO. GRATUIDADE DE JUSTIÇA. PRESUNÇÃO RELATIVA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. SÚMULAS N. 83/STJ E 7/STJ. INCIDÊNCIA.
+1. No âmbito do agravo interno, a ausência de impugnação específica de capítulo autônomo impõe o reconhecimento da preclusão da matéria não impugnada (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial do Superior Tribunal de Justiça, DJe 17/11/2021). Precluso, portanto, o fundamento da decisão agravada de que não ocorrera afronta aos arts. 489 e 1.022 do CPC.
+2. Há presunção relativa de que aquele que requer o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família, podendo o magistrado indeferir o pedido de justiça gratuita, se encontrar elementos que infirmem a hipossuficiência do requerente. Incidência da Súmula n. 83/STJ.
+3. Para superar as premissas sobre as quais se apoiou a Corte estadual quanto à capacidade econômica da agravante para arcar com as despesas processuais e assim deferir o pedido de assistência judiciária seria necessário o revolvimento dos elementos de prova constantes dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+4. Observa-se, ainda, que o acórdão recorrido abriga fundamento de índole constitucional relativo à comprovação da hipossuficiência ("Frisa-se que a concessão das benesses encontra-se adstrita à comprovação da real necessidade, não bastando a simples afirmação, a teor do art. 5º, LXXIV, da CF"). A agravante não cuidou de interpor recurso extraordinário ao STF, o que atrai a incidência da Súmula n. 126/STJ.
+5. Não é caso de sobrestamento do presente feito em virtude da afetação do Tema Repetitivo n. 1.178/STJ, por versar questão distinta daquela discutida nos autos do recurso representativo de controvérsia.
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.709.117/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/5/2025, DJEN de 22/5/2025)
+Assim, o recurso não merece que dele se conheça quanto ao ponto.
+(2.3) Da não demonstração de dissídio jurisprudencial
+Cumpre registrar que, na hipótese em que se pretende impugnar, em agravo no recurso especial, a não demonstração do dissídio jurisprudencial, cumpre à parte demonstrar que realizou o cotejo analítico demonstrando as circunstâncias que identifiquem ou assemelhem os casos confrontados, nos moldes exigidos pelos arts. 1.029, § 1º, do CPC, e 255, §§ 1º e 2º, do RISTJ, o que não se verificou no caso concreto.
+Isso porque, em suas razões recursais, MARIUSE se limitou a transcrever a ementa de julgados, mas sem informar todas as nuances fáticas, pedidos e circunstâncias dos casos concretos que indiquem a similitude entre os fatos e, consequentemente, a eventual divergência entre os Tribunais na aplicação da lei federal.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+No mesmo sentido, seguem os precedentes:
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE COBRANÇA. BLOQUEIO DE VALOR DEPOSITADO EM CONTA CORRENTE. IMPENHORABILIDADE AFASTADA. NATUREZA SALARIAL NÃO COMPROVADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O acórdão recorrido está em consonância com a jurisprudência desta Corte firmada no sentido de que a garantia da impenhorabilidade somente pode ser aplicável, automaticamente, no patamar de até 40 (quarenta) salários mínimos, ao valor depositado exclusivamente em caderneta de poupança. No entanto, essa garantia pode ser relativizada quando a medida de penhora judicial atingir dinheiro mantido em conta-corrente ou quaisquer outras aplicações financeiras, desde que comprovado que o referido montante constitui reserva de patrimônio destinada a assegurar o mínimo existencial.
+2. A revisão da conclusão do Tribunal de origem, que afastou a impenhorabilidade alegada diante da ausência de demonstração nos autos de que o bloqueio do numerário afetará a subsistência da executada e de sua família, demandaria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+4. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.853.114/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025 - sem destaque no original)
+DIREITO PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. CONTROLE DE PROVAS. AGRAVO INTERNO. SÚMULA 182/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou conhecimento ao agravo em recurso especial com fundamento no fato de que o recurso não impugnou especificamente os fundamentos da decisão agravada.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo interno impugnou adequadamente a decisão que negou conhecimento ao agravo em recurso especial, especialmente no que tange ao não cabimento de recurso especial por ofensa a dispositivo constitucional e não comprovação do dissídio jurisprudencial.
+III. Razões de decidir
+3. A mera transcrição de ementas e excertos em quadro comparativo, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional, precipitando a incidência da Súmula 284/STF no ponto.
+4. A jurisprudência desta Corte é no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade ou não de dilação probatória, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em recurso especial, a teor da Súmula nº 7/STJ.
+5. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+IV. Dispositivo 6. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.711.348/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025 - sem destaque no original)
+Também não se pode conhecer do apelo nobre por esse fundamento.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para reformar a decisão de fls. 193-194 e, em novo julgamento, CONHECER do agravo em recurso especial para NEGAR-LHE PROVIMENTO.
+Como não foram fixados honorários na origem, não há que se falar em honorários recursais.
+É como voto.
