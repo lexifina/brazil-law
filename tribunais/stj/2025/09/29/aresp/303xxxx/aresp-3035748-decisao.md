@@ -1,0 +1,45 @@
+DECISÃO
+BRUNO BERNARDINO MAIA DE MORAIS agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte na Apelação Criminal n. 0104762-37.2020.8.20.0001.
+O agravante, acusado da prática do crime de furto, foi absolvido impropriamente com aplicação da medida de segurança consistente em tratamento ambulatorial.
+O Tribunal de origem negou provimento à apelação defensiva e, na sequência, acolheu parcialmente os embargos declaração opostos, mas sem efeitos modificativos.
+Nas razões do recurso especial, a defesa indicou dissídio jurisprudencial e violação dos arts. 26 e 97 do Código Penal, com o objetivo de reconhecer "a atipicidade material da conduta com base no princípio da insignificância; e, subsidiariamente, a desnecessidade da medida de segurança, por ausência de fundamentação sobre a periculosidade atual" (fl. 593).
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, e o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Carlos Frederico Santos, manifest ou-se pelo conhecimento do agravo para não conhecer do recurso especial (fls. 695-701).
+Decido.
+O agravo é tempestivo, atacou os fundamentos da decisão agravada e, por isso, deve ser conhecido.
+O especial, por sua vez, não preenche os requisitos de admissibilidade, haja vista a incidência das Súmulas n. 7 e 83 do STJ.
+I. Tipicidade material
+No caso, o Tribunal de origem afastou a aplicação do princípio da insignificância, sob os seguintes fundamentos (fl. 561, grifei):
+No caso em exame registre-se que o réu é contumaz na prática de crimes contra o patrimônio, conforme se vê nos documentos de ID 28520978, págs. 4-23).
+Há de se observar, ainda, que o acusado é reincidente específico no crime de furto, achava-se fazendo uso de tornozeleira eletrônica em cumprimento de pena quando da prática delitiva.
+Lado outro, fora a condenação que gerou a reincidência detém duas outras condenações com trânsito em julgado ensejadoras de maus antecedentes. Esta reiteração delitiva é apta a afastar a aplicação do princípio da insignificância. Nítido que não se aplica o princípio quando se trate de ação criminosa que aponta para a periculosidade social da ação e reprovabilidade do comportamento.
+Ora, o recorrente é reincidente específico, que se achava em cumprimento de pena e fazendo uso de tornozeleira eletrônica, portador de maus antecedentes, a reprovabilidade do comportamento é intensa
+Por sua vez, diferentemente do arguido pela defesa, não se trata de hipótese de aplicação do princípio da insignificância no caso em análise.
+Não é possível acolher o pedido da defesa. Isso porque o réu tem extenso histórico criminal - uma reincidência específica e dois maus antecedentes, além do fato de que estava usando tornozeleira eletrônica, em cumprimento de pena, na ocasião em que praticou o furto ora discutido.
+De acordo com os critérios objetivos estabelecidos pela jurisprudência desta Corte, embora o valor do bens subtraídos não seja relevante, a reiteração delitiva - demonstrada pela reincidência, pelos maus antecedentes, por inquéritos policiais ou por ações penais em curso - denota a tipicidade material da conduta criminosa e afasta a aplicação do princípio da insignificância, como na hipótese dos autos.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE DE RECONHECIMENTO. AUSÊNCIA DE AVALIAÇÃO DOS BENS SUBTRAÍDOS. EXTENSO HISTÓRICO CRIMINAL DO RECORRENTE, INCLUSIVE POR CRIMES PATRIMONIAIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+2. No caso, não é possível o reconhecimento da atipia material da conduta, seja em razão da ausência de avaliação dos bens subtraídos, seja em vista do extenso histórico criminal do recorrente, já preso em flagrante por crimes patrimoniais e tráfico de drogas e condenado por crimes de roubo e roubo tentado.
+3. " A  reincidência ou reiteração delitiva é elemento histórico objetivo, e não subjetivo, ao contrário do que o vocábulo possa sugerir. Isso porque não se avalia o agente (o que poderia resvalar em um direito penal do autor), mas, diferentemente, analisa-se, de maneira objetiva, o histórico penal do indivíduo, que poderá indicar aspecto impeditivo da incidência da referida exclusão da punibilidade. Essa análise, portanto, não se traduz no exame do indivíduo em si ou no que ele representa para a sociedade como pessoa, mas nas consequências reais, concretas e objetivas, extraídas de seu comportamento histórico avesso ao direito e na perspectiva, apoiada em tais evidências, de recidiva de tal comportamento. Sob pena de violação do princípio da isonomia, o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade" (AgRg no HC n. 583.008/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/5/2021, DJe de 14/5/2021).
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 216.959/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2025, DJEN de 2/9/2025, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. INSIGNIFICÂNCIA. VALOR SUPERIOR A 10% DO SALÁRIO-MÍNIMO. HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior tem seguido, na última década, o entendimento de que para a aplicação do princípio da insignificância deverão ser observados os seguintes vetores: a) mínima ofensividade da conduta do agente; b) ausência periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente e d) inexpressividade da lesão jurídica. Tais vetores interpretativos encontram-se expostos de forma analítica no HC 84.412, Rel. Min. CELSO DE MELLO, SEGUNDA TURMA, julgado em 19/10/2004, DJ 19/11/2004.
+É certo, ainda, que a jurisprudência consolidada do Superior Tribunal de Justiça, para aferir a relevância do dano patrimonial, leva em consideração o salário mínimo vigente à época dos fatos, considerando irrisório o valor inferior a 10% do salário mínimo, independentemente da condição financeira da vítima.
+2. No caso em análise, o furto teria sido praticado no dia 4/8/2018, quando o salário mínimo estava fixado em R$ 954,00 (novecentos e cinquenta e quatro reais). Nesse contexto, seguindo a orientação jurisprudencial desta Corte, a res furtiva avaliada em R$ 114,50 (cento e quatorze reais e cinquenta centavos) não pode ser considerada de valor ínfimo, por superar 10% do salário mínimo vigente à época dos fatos.
+3. Para reconhecimento da habitualidade delitiva em crimes patrimoniais cujo valor da res é de pequena monta, diferentemente do que acontece com a reincidência, não há a necessidade de que o paciente ostente condenações transitadas em julgado.
+4. Agravo Regimental no habeas corpus desprovido.
+(AgRg no HC n. 625.422/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/9/2021, DJe de 24/9/2021, destaquei )
+Não desconhece que, em hipóteses excepcionais, o STJ admite a aplicação do mencionado princípio quando há reiteração delitiva, o que certamente não se aplica a acusados com extenso histórico criminal, como na espécie.
+II. Aplicação da medida de segurança
+Com base nas provas dos autos, o Juízo sentenciante absolveu impropriamente o réu e lhe aplicou medida de segurança, de acordo com "o Laudo Pericial que reconheceu a inimputabilidade do acusado e recomendou o tratamento ambulatorial, fazendo-o pelo prazo mínimo de 01 (um) ano" (fl. 505).
+A Corte local assim confirmou esse entendimento (fl. 561):
+A sentença absolutória imprópria foi corretamente fundamentada na inimputabilidade do réu, devidamente atestada por laudo pericial (ID 28520977, págs. 44-48), o qual evidenciou sua incapacidade mental em decorrência do consumo de múltiplas substâncias psicoativas  .. .
+Alterar a conclusão das instâncias antecedentes demandaria reexame de fatos e provas, notadamente do teor do laudo técnico, o que encontra óbice na Súmula n. 7 do STJ.
+III. Dissídio jurisprudencial
+Segundo entendimento desta Corte, a inadmissão ou o não provimento do especial interposto com fundamento no art. 105, III, "a", da Constituição Federal prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou à mesma tese jurídica, como na espécie.
+IV. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
