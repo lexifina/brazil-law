@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. SUCUMBÊNCIA. EMBARGOS DE TERCEIRO. RESPONSABILIDADE DAQUELE QUE DEU CAUSA À DEMANDA. RECURSO NÃO PROVIDO.
+1. Conforme a Súmula n. 303 do STJ, em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios, responsabilizando-se o embargante que não promoveu a devida atualização dos dados cadastrais após a aquisição.
+2. Na forma do que dispõe o Tema n. 872 do STJ, os encargos de sucumbência serão suportados pela parte embargada quando esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro.
+3. Agravo conhecido e recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interposto em recurso especial apresentado por EDGAR MENDES DE MORAES DUVIVIER (EDGAR) contra decisão que não admitiu seu inconformismo. Desafia acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+AGRAVO INTERNO em Apelação. Embargos de terceiro. Sentença que desconstitui a penhora efetivada nos autos principais e condena o embargado nas verbas de sucumbência. Apelo do embargado pugnando pela inversão da sucumbência. Tema nº 872 do STJ: "Nos Embargos de Terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais. Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro." Embargos opostos em face do exequente no feito principal. Imóvel penhorado de propriedade de terceiro de acordo com a certidão de RGI. Direitos aquisitivos adquiridos pelo embargante através de contrato promessa de compra e venda firmado. Ausência de regularização da situação cadastral do imóvel junto ao cartório registral por falta de cautela. Responde pela sucumbência o embargante que não atualiza o registro do imóvel, ao menos quando não há resistência ao pedido de cancelamento da penhora quando ajuizada a oposição do terceiro. Sentença parcialmente reformada. Mantida a decisão monocrática. NEGADO PROVIMENTO AO AGRAVO INTERNO. (e-STJ, 312-315)
+O acórdão foi aclarado após decisão desta Corte para retorno dos autos e reapreciação de embargos (e-STJ, fls. 437-439), sobrevindo novo voto (e-STJ, fls. 451-455).
+Seguiu-se apresentação de recurso especial e decisão de inadmissibilidade, cujo agravo ora se analisa. Constam contraminutas de NELSON LUIS DA CUNHA TELLES CAVALCANTE ao recurso especial (e-STJ, fls. 478-490) e ao agravo (e-STJ, fls. 523-537).
+É o relatório.
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. SUCUMBÊNCIA. EMBARGOS DE TERCEIRO. RESPONSABILIDADE DAQUELE QUE DEU CAUSA À DEMANDA. RECURSO NÃO PROVIDO.
+1. Conforme a Súmula n. 303 do STJ, em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios, responsabilizando-se o embargante que não promoveu a devida atualização dos dados cadastrais após a aquisição.
+2. Na forma do que dispõe o Tema n. 872 do STJ, os encargos de sucumbência serão suportados pela parte embargada quando esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro.
+3. Agravo conhecido e recurso especial desprovido.
+VOTO
+O agravo é tempestivo e impugna de maneira adequada os fundamentos da decisão recorrida. Portanto, dele conheço, passando ao exame do recurso especial.
+Aduz o recorrente EDGAR, com esteio no art. 105, III, alínea a, da CF, para argumentar: (1) violação da Súmula 303 do STJ e do art. 85 do CPC; (2) inaplicabilidade do Tema n. 872 do STJ à figura do possuidor de imóvel.
+Em que pese o respeitável articulado, não lhe assiste razão.
+(1) Da alegada violação da Súmula n. 303 do STJ e do art. 85 do CPC
+Argumenta o recorrente EDGAR que o exequente teria especulado sobre o pertencimento de determinado imóvel ao executado, postulando indevidamente a penhora sobre o bem.
+Ocorre que o embargante, terceiro possuidor, acenou aquisição dos direitos sobre o imóvel penhorado por meio de instrumento particular de cessão, não levado a registro. Desse modo, não havia qualquer possibilidade de atribuir desídia ao embargado, uma vez que simplesmente desconhecia a transação particular.
+Não aproveita ao recorrente EDGAR aduzir que a matrícula do imóvel indicava como proprietário outra pessoa que não o executado, pois isso apenas ocorreu em virtude de sua leniência na regularização sobre a aquisição do bem. Vale dizer, a sequência registrária não espelhava a realidade dos fatos por sua omissão.
+Outrossim, pouco importa a alegação de que o embargante não seria proprietário do bem, tendo apenas adquirido dos direitos. Como dito, a transferência formal não se operou por sua própria conta.
+Por tais motivos, não há como atribuir ao embargado responsabilidade pela sucumbência, como vem sendo decidido nesta Corte acerca da Súmula n. 303:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE TERCEIRO. ÔNUS SUCUMBENCIAIS. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SÚMULA 303/STJ. TEMA REPETITIVO Nº 872 DO STJ.
+1. Ação de embargos de terceiro.
+2. Conforme a Súmula nº 303 do STJ, "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios". Sobre o tema, no julgamento do Tema Repetitivo nº 872, o STJ fixou a tese de que, "nos Embargos de Terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais. Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro".
+3. O Tribunal de origem concluiu, conforme circunstâncias fático-probatórias do processo, que a parte embargada deu causa à necessidade de ajuizamento dos embargos de terceiro, atraindo o ônus de arcar com as verbas sucumbenciais, conforme o princípio da causalidade.
+4. O reexame de fatos e provas é vedado em recurso especial por força da Súmula 7/STJ.
+5. Agravo interno conhecido e não provido.
+(AgInt no REsp n. 2.106.822/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025, DJEN de 14/2/2025)
+(2) Da alegada inaplicabilidade do Tema n. 872 do STJ
+Conforme dispõe a tese firmada por ocasião do julgamento do Tema citado, nos embargos de terceiro, cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante) se este não atualizou os dados cadastrais.
+Porém, a tese tam bém estabelece que os encargos de sucumbência só serão suportados pela parte embargada quando esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro.
+Todavia, no caso concreto, tão logo apresentada a resistência com base em instrumento particular de cessão de direitos, o embargado não opôs resistência (e-STJ, fls. 125-130.) Note-se, ademais, que o acórdão recorrido tomou como base a análise fática sobre quem teria dado causa à demanda, atraindo o óbice da Súmula n. 7 do STJ para reanálise daquela circunstância.
+Sobre o tema, abor dando as duas questões:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. EMBARGOS DE TERCEIROS. CONDENAÇÃO AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 303 DO STJ. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. "Nos Embargos de Terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais. Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro" (REsp 1.452.840/SP, repetitivo, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 14/9/2016, DJe 05/10/2016). Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.143.355/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023 -destaques não constantes do original)
+Não fundamento, por conseguinte, para acolhimento do recurso especial.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Ainda que a hipótese, neste momento processual, não comporte a aplicação de multa, observo que todos os temas abordados foram detidamente analisados, um a um. Previno, portanto, que a interposição de recurso contra esta decisão com nítido intuito de buscar revisão do julgamento, invocando omissão ou contradição inexistente, acarretará condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
+É o voto.
