@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CPC/2015. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ÚNICO RECURSO CABÍVEL. AGRAVO INTERNO PREVISTO NO ART. 1.030, § 2º, DO CPC. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme consolidada jurisprudência desta Corte, não cabe agravo em recurso especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão.
+3. No presente caso, houve a interposição de agravo interno na origem, suscitando equívoco na aplicação do recurso repetitivo, que teve seu provimento negado, inexistindo matéria remanescente passível de agravo em recurso especial.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da inviabilidade do seu cabimento.
+A agravante alega, às fls. 581-584, que: a r. decisão trasladada às e-STJ Fls. 485/486, proferida pelo tribunal de origem em sede de exame prévio de admissibilidade, negou seguimento ao recurso especial dos autores quanto a uma parte, e o inadmitiu quanto a outra parte; a parcela do recurso especial que teve o seguimento denegado se refere aos índices dos consectários legais (juros e correção monetária - em razão da aplicação do Tema 905/STJ), bem como referente ao direito à cessação dos descontos (Tema 588/STJ) - este o qual, por sua vez, não se confunde com o TERMO INICIAL da cessação dos descontos; no tocante ao TERMO INICIAL da cessação dos descontos, parece claro que o tribunal de origem realmente inadmitiu o recurso especial, por entender que supostamente não teria havido ofensa a lei federal, bem como, por entender que o exame de tal questão supostamente acabaria demandando o reexame de questões táticas e esbarrando na Súmula 7/STJ (o que, conforme já aduzido no agravo em recurso especial, não guarda melhor razão jurídica); bem se vê que há, sim, matéria remanescente pendente de apreciação por este C. STJ, razão pela qual o agravo em recurso especial merece ser conhecido e provido, para que haja o conhecimento e o provimento do recurso especial quanto à matéria remanescente (a saber, TERMO INICIAL da cessação dos descontos, que não se confunde com o direito ã cessação dos descontos).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CPC/2015. DECISÃO DE NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. ÚNICO RECURSO CABÍVEL. AGRAVO INTERNO PREVISTO NO ART. 1.030, § 2º, DO CPC. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme consolidada jurisprudência desta Corte, não cabe agravo em recurso especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão.
+3. No presente caso, houve a interposição de agravo interno na origem, suscitando equívoco na aplicação do recurso repetitivo, que teve seu provimento negado, inexistindo matéria remanescente passível de agravo em recurso especial.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, conforme consolidada jurisprudência desta Corte, não cabe agravo em recurso especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão, como ocorreu no presente caso.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. ALIENAÇÃO DE BEM IMÓVEL SEM O DEVIDO REGISTRO IMOBILIÁRIO. ACÓRDÃO RECORRIDO PELA RESPONSABILIDADE TRIBUTÁRIA SOLIDÁRIA. REVISÃO. EXAME DE PROVA E LEI LOCAL. AUSÊNCIA DE PREQUESTIONAMENTO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não cabe Agravo em Recurso Especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão.
+Precedentes.
+3. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+4. "Nas hipóteses em que verificada a contemporaneidade do exercício da posse direta e da propriedade (e não a efetiva sucessão do direito real de propriedade, tendo em vista a inexistência de registro do compromisso de compra e venda no cartório competente), o imposto sobre o patrimônio poderá ser exigido de qualquer um dos sujeitos passivos coexistentes" (REsp n. 1.073.846/SP, relator Ministro Luiz Fux, Primeira Seção, julgado em 25/11/2009, DJe de 18/12/2009).
+5. No caso dos autos, o delineamento fático descrito pelo órgão julgador a quo revela a conformidade do acórdão recorrido com a pacífica jurisprudência deste Tribunal Superior; a necessidade de exame de prova e da legislação local para eventual alteração do que foi decidido; e a ausência de prequestionamento do art. 27, § 8º, da Lei n. 9.514/1997.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.481.909/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/6/2024, DJe de 6/6/2024.)
+Quanto à alegada matéria remanescente, conforme exposto na decisão agravada, ela inexiste.
+No que diz respeito ao "termo inicial", apontado como matéria remanescente, verifica-se que a questão está, na realidade, vinculada ao Tema 588/STJ, conforme se observa da simples leitura do agravo interno interposto pela agravante, contra a negativa de seguimento do recurso especial, bem como do acórdão que o apreciou.
+Das razões do agravo interno, extrai-se (fl 475; grifos nossos):
+Como se nota, neste ponto, o v. acórdão proferido nos autos deste processo está em conformidade o entendimento do STJ no julgamento do Tema nº 588 de recurso especial repetitivo, na medida em que assegurou a cessação do desconto compulsório.
+No entanto, há um ponto no v. acórdão proferido nos autos deste processo que não está em conformidade com o decidido pelo STJ no Tema nº 588 de Recursos Repetitivos, como adiante será demonstrado.
+A desconformidade reside no ponto relativo ao termo inicial da restituição dos valores descontados.
+Quanto ao alegado, assim se pronunciou o Tribunal de origem (fls. 522-523):
+Observe-se que os próprios recorrentes sabem que a questão "termo inicial" está contida na análise das demais questões, na medida em que requerem uma interpretação mais extensa da tese, verbis: "deve-se aplicar ao presente feito a tese jurídica firmada no tema nº 588 do STJ. E a forma mais adequada de fazê-lo é adequar o decidido nos autos deste processo de modo a condenar o Réu à restituição dos valores indevidamente descontados desde os cinco anos que antecederam o ajuizamento da ação" (fls. 477/478 do recurso).
+A proposito, veja-se trecho do v. Acórdão da Col. Turma Julgadora que demonstra a subjunção da matéria em análise ao tema indicado pelo E. STF, verbis:
+O desconto mensal das contribuições, sem oposição do servidor, significou aceitação tácita de pagar prelos serviços de saúde disponíveis prestados pela Cruz Azul de São Paulo; só é devida a restituição a partir do momento da expressa manifestação em contrário, o que somente ocorreu quando do ajuizamento da ação,
+a ausência de manifestação do embargantes antes do ajuizamento da ação implicou em aceitação tácita em relação ao pagamento e conseqüente possibilidade de uso do serviço de assistência à saúde; repetição devida a partir da citação, quando houve inequívoca manifestação de vontade de se desvincular do sistema de saúde.
+O acórdão não conflita com o REsp nº 1.348.679/MG, STJ (Tema nº 588), logo não há o que ser objeto de revisão, (fls. 366/367).
+Assim, não há como proceder à modificação do decidido, pois está em perfeita harmonia com o paradigma julgado pela Corte Superior.
+No mínimo, é contraditória as razões ora apresentadas, com as razões contidas no agravo interno interposto na origem.
+Com efeito, não obstante a decisão de admissibilidade não ter admitido o recurso por incidência da Súmula n. 7/STJ, verifica-se que, de fato, a questão posta como remanescente alegada pela parte agravante (termo inicial) efetivamente está vinculada ao Tema 588/STJ, como acima exposto.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
