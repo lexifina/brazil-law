@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ACORDO. PRAZO. DECADENCIAL. 4 ANOS. ART. 178 DO CÓDIGO CIVIL. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Ação anulatória de acordo.
+2. Segundo a jurisprudência desta Corte, na hipótese de vícios de vontade que possam anular os negócios jurídicos celebrados, observa-se o prazo decadencial de 4 (quatro) anos, em atenção à disposição expressa do art. 178 do CC/2002. Precedentes.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, o que não foi demonstrado no recurso sob julgamento.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL (sucessora de TELEMAR NORTE LESTE S/A) contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera e, nessa extensão, negou-lhe provimento.
+Ação: "anulatória de acordo judicial c/c ressarcimento por enriquecimento sem causa", ajuizada por TELEMAR NORTE LESTE S/A em face de MARIA BEATRIZ FERREIRA MALVACCINI.
+Sentença: julgou extinto o processo, com resolução de mérito, em razão da decadência do direito (e-STJ fl. 860-867).
+Acórdão: negou provimento à apelação interposta por TELEMAR NORTE LESTE S/A, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO - AÇÃO ANULATÓRIA DE ACORDO HOMOLOGADO POR SENTENÇA - DIALETICIDADE - INOVAÇÂO RECURSAL - ATO JUDICIAL - ERRO - DECADÊNCIA. Os recursos devem ser claros e objetivos para demonstrar a irresignação do recorrente com relação ao trabalho decisório, sendo inviável o exame e decisão de agravo que não apresenta argumentos jurídicos pertinentes para enfrentá-lo, por ofensa ao princípio da dialeticidade. A lide é delimitada pelos argumentos e pedidos formulados na inicial e na contestação, não cabendo às partes inovar em outra oportunidade, sob pena de se ferir os princípios constitucionais do contraditório e da ampla defesa . De conformidade com o art. 486, CPC/73, "os atos judiciais, que não dependem de sentença, ou em que esta for meramente homologatória, podem ser rescindidos, como os atos jurídicos em geral, nos termos da lei civil." O art. 178, inciso II, do Código Civil, estabelece que é de quatro anos o prazo de decadência para pleitear -se a anulação do negócio jurídico, contado, no caso de erro, do dia em que se realizou o negócio jurídico. (e-STJ fl. 985)
+Embargos de declaração: opostos, foram rejeitados.
+Recurso especial: alega a existência de dissídio jurisprudencial, bem como a violação dos arts. (i) 1.022, II, do CPC, uma vez que não foram apreciados aspectos relevantes do direito sustentado pela parte recorrente, mesmo após a oposição de embargos de declaração (fls. 1021-1022); (ii) 489, §1º, IV, CPC, pois o TJ/MG não sanou as omissões apontadas nos embargos de declaração, configurando uma negativa de prestação jurisdicional (fls. 1021); e (iii) 178, II, do CC e 487, III, "b", do CPC, tendo em vista que o acórdão recorrido adotou como termo inicial para a contagem do prazo de decadência a data da celebração do negócio jurídico, sem considerar que se tratava de um acordo judicial cuja eficácia dependia de homologação, devendo ser este o marco inicial para o cômputo do prazo decadencial (fls. 1022-1023). A parte recorrente busca, em síntese, a anulação do acórdão recorrido ou a reforma da decisão para afastar o reconhecimento da decadência (e-STJ fls. 1023-1024).
+Juízo prévio de admissibilidade: o TJ/MG admitiu o recurso especial.
+Decisão unipessoal: conheceu parcialmente do recurso especial e negou-lhe provimento.
+Agravo interno: reitera os fundamentos anteriormente apresentados e pugna pela reforma da decisão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ACORDO. PRAZO. DECADENCIAL. 4 ANOS. ART. 178 DO CÓDIGO CIVIL. ACÓRDÃO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Ação anulatória de acordo.
+2. Segundo a jurisprudência desta Corte, na hipótese de vícios de vontade que possam anular os negócios jurídicos celebrados, observa-se o prazo decadencial de 4 (quatro) anos, em atenção à disposição expressa do art. 178 do CC/2002. Precedentes.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, o que não foi demonstrado no recurso sob julgamento.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Da ausência de negativa de prestação jurisdicional
+Conforme mencionado na decisão unipessoal, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe 31/8/2020 e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe 16/3/2020.
+No mais, é pacífico nesta Corte que o julgador não está obrigado a responder a todos os fundamentos apresentados pela parte quando houver motivo suficiente para proferir a decisão (AgInt no REsp 1920967/SP, Terceira Turma, julgado em 3/5/2021 e AgInt no AREsp 1382885/SP, Quarta Turma, julgado em 26/4/2021).
+Outrossim, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há violação do art. 489 do CPC.
+- Da conformidade do acórdão estadual com a jurisprudência do Superior Tribunal de Justiça
+Ratifica-se que o acórdão estadual decidiu em conformidade com a jurisprudência desta Corte, segundo a qual, na hipótese de vícios de vontade que possam anular os negócios jurídicos celebrados, observa-se o prazo decadencial de 4 (quatro) anos, em atenção à disposição expressa do art. 178 do CC/2002 (REsp 1.668.587/MG, Terceira Turma, DJe 5/9/2019).
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. NEGÓCIO JURÍDICO COM VÍCIO DE VONTADE. DECADÊNCIA. SÚMULAS 5, 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. "De acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, à anulação de negócio jurídico aplica-se o prazo decadencial de 4 (quatro) anos, contado a partir da celebração do ato."(AgInt no AREsp 1634177/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/08/2020, DJe 01/09/2020) 2. Rever o acórdão recorrido e acolher a pretensão recursal demandaria incursão no acervo fático-probatório dos autos e interpretação do contrato, providências vedadas nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.824.512/SP, Quarta Turma, julgado em 23/8/2021, DJe de 26/8/2021.)
+Quanto à discussão acerca do início do cômputo do prazo prescricional, recorda-se que "em antigo precedente, o Supremo Tribunal Federal enfrentando a controvérsia sobre o cabimento da ação anulatória ou da ação rescisória para fins de anulação de transação homologada judicialmente pronunciou-se no sentido de que a ação que objetiva a anulação de transação "não é contra a sentença, que se restringe a homologar ato de vontade das partes, em que não há um conteúdo decisório do Juiz", ou seja, a ação é "contra o que foi objeto da manifestação de vontade das partes, a própria transação". Nesta hipótese, "o que se objetiva rescindir, ou melhor, anular, não é a sentença homologatória, que não faz coisa julgada material, mas a transação celebrada pelos litigantes, a relação jurídico-material efetuada pelas partes", sendo que "apenas para efeito processual é que a homologação judicial se torna indispensável" (RE 100.466/SP, 2ª Turma, Rel. Min. Djaci Falcão, DJ de 28.2.1986). Desse modo, se durante o trâmite de um processo judicial os litigantes decidem transacionar sobre o objeto da lide e inserem nos autos o termo no qual constaram as declarações de vontade, a necessidade de manifestação judicial refere-se tão somente ao encerramento do processo, ou seja, a homologação judicial tem apenas o efeito de declarar extinto o processo, sem produzir nenhuma repercussão sobre as concessões mútuas efetuadas pelos litigantes. Nessa situação, o prazo decadencial para se anular a transação deve ser contado da data em que se aperfeiçoou a avença" (REsp 866.197/RS, Segunda Turma, DJe 13/4/2016) (grifou-se).
+No particular, conforme decidido pelo acórdão estadual, operou-se a decadência do direito do autor, em conformidade com o previsto no art. 178, II, do CC.
+Veja-se, por oportuno, o seguinte trecho do acórdão recorrido:
+"O termo inicial do prazo decadencial examinado é a data em que se conclui o ato, já que a sentença que reconheceu o acordo como válido é meramente homologatória. Ora, se o acordo foi realizado em 26 de agosto de 2014, houve a decadência do direito em agosto de 2018. Ressalte-se que ação foi proposta em 06 de outubro de 2018. Sendo assim, deve ser mantida a decisão recorrida, que julgou extinto o processo, com resolução de mérito, em razão da decadência" (e-STJ fl. 989).
+Por tais razões, o recurso especial foi desprovido.
+- Da divergência jurisprudencial
+Igualmente, reitera-se que a parte agravante não apresentou adequadamente o dissídio jurisprudencial, devido à ausência de cotejo analítico entre os julgados, sendo certo que para a demonstração da divergência não basta apenas a transcrição de ementas. A propósito, confira-se: AgInt nos EDcl no REsp 1.978.728/SP, Terceira Turma, DJe 5/10/2022 e AgInt no REsp 1.972.586/PA, Quarta Turma, DJe 25/8/2022.
+Desse modo, não deve ser conhecido o recurso especial, uma vez que a falta de cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+A decisão monocrática, portanto, não merece reforma.
+Por fim, frisa-se que o mero não conhecimento, improcedência ou rejeição do agravo interno e dos embargos de declaração não enseja a necessária imposição das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC. Rejeita-se, portanto, o requerimento de aplicação da multa processual (e-STJ fl. 1088).
+Do mesmo modo, afasta-se a pretensão de majoração dos honorários recursais nesse momento processual, com fundamento no AgInt nos EREsp 1.539.725/DF, Segunda Seção, DJe 19/10/2017 (e-STJ fl. 1088).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
