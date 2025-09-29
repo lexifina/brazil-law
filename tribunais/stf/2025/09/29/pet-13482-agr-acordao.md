@@ -1,0 +1,3568 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 76
+
+29/09/2025
+
+SEGUNDA TURMA
+
+AG.REG. NA PETIÇÃO 13.482 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: JOAO CARLOS MARIZ NOGUEIRA
+: GEORGES ABBOUD
+EMENTA
+
+Agravo regimental em petição. Pedido de extensão. Ação civil de
+improbidade administrativa. Pedido de arquivamento. Deferimento.
+Conduta idêntica à de ação penal em que, diante do mesmo acervo
+probatório, ficou absolvido o requerente por ausência de prova da
+existência do fato (CPP, art. 386, inciso II) e por atipicidade da conduta.
+Autonomia das instâncias administrativa e penal. Não aplicabilidade.
+Elementos probatórios autônomos, suficientes, mínimos e válidos.
+Ausência. Exclusão dos autos de elementos de prova declarados
+imprestáveis pelo Supremo Tribunal Federal na Pet nº 12.357 e na Rcl
+nº 43.007. Remanescência apenas de declarações de agente colaborador.
+Vedação legal de juízo condenatório (Lei nº 12.850/13, art. 4º, § 16º, e
+Tema nº 1.043 da Sistemática da Repercussão Geral). Caráter
+sancionador do regime de responsabilização por atos de improbidade
+administrativa. Precedentes. Manutenção da decisão por seus próprios
+fundamentos. Agravo regimental ao qual se nega provimento.
+1. O juízo penal absolutório, diante dos mesmos fatos e do mesmo
+acervo probatório, que reconhece a ausência de comprovação do fato,
+bem como a atipicidade da conduta imputada ao requerente, repercute
+no âmbito da ação civil por ato de improbidade administrativa.
+2. É firme a orientação da Suprema Corte de que as instâncias penal
+e administrativa são autônomas, só repercutindo a primeira na segunda
+quando assentada a inexistência material do fato ou a negativa de sua
+autoria.
+3. Verifica-se a ausência de elementos de provas autônomos e
+suficientes para o prosseguimento da ação civil de improbidade
+administrativa quando reconhecida, em juízo penal, a ausência de
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 56E3-A82B-D4AA-D449 e senha A332-14B6-2938-69EE
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 76
+
+PET 13482 AGR / DF
+materialidade e de suporte probatório autônomo diante de denúncia de
+teor idêntico ao da ação de improbidade, pautada unicamente em
+depoimentos de colaboradores, quando excluídos elementos probatórios
+declarados imprestáveis pelo Supremo Tribunal em decisão com efeitos
+erga omnes (Rcl nº 43.007).
+4. O regime de responsabilização por atos de improbidade
+administrativa ostenta caráter nitidamente sancionador. Precedentes.
+5. A decisão atacada não merece reforma, uma vez que seus
+fundamentos se harmonizam estritamente com o entendimento
+consolidado pela Suprema Corte.
+6. O recurso mostra-se inviável, na medida em que contém
+argumentos de ordem processual, que não se revelam capazes de afastar
+as razões expressas na decisão agravada, a qual deve ser mantida por
+seus próprios fundamentos.
+7. Agravo ao qual se nega provimento.
+ACÓRDÃO
+A Turma, por maioria, negou provimento ao agravo regimental,
+nos termos do voto do Relator, Ministro Dias Toffoli, vencidos os
+Ministros André Mendonça e Edson Fachin.
+Brasília, 29 de setembro de 2025.
+Ministro DIAS TOFFOLI
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 56E3-A82B-D4AA-D449 e senha A332-14B6-2938-69EE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 76
+
+AG.REG. NA PETIÇÃO 13.482 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: JOAO CARLOS MARIZ NOGUEIRA
+: GEORGES ABBOUD
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Trata-se de agravo regimental interposto pelo Procurador-Geral da
+República contra decisão monocrática mediante a qual julguei procedente
+o pedido formulado pelo requerente para determinar o arquivamento da
+Ação de Improbidade Administrativa nº 1008682-48.2017.4.01.3400.
+Argumenta o PGR, em síntese, que “o reconhecimento da
+insuficiência das provas e da atipicidade das condutas em sentença penal
+absolutória não atende[ria] ao requisito da aderência estrita”, uma vez
+que “cabe[ria] ao Juízo natural apreciar a diferenciação entre os padrões
+probatórios aplicáveis nas esferas cível e penal”.
+Assim, requer o agravante, ao final, a reconsideração da decisão ou o
+provimento do recurso, “para [se] determinar a retomada do trâmite da
+Ação de Improbidade Administrativa n. 1008682-48.2017.4.01.3400”.
+É o breve relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0F6F-C90A-F77A-72A5 e senha 4E04-91F0-B883-3E37
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 4 de 76
+
+AG.REG. NA PETIÇÃO 13.482 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: JOAO CARLOS MARIZ NOGUEIRA
+: GEORGES ABBOUD
+VOTO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+A irresignação não merece prosperar, porquanto o agravante não
+apresentou fundamentos aptos a modificar o entendimento
+anteriormente adotado.
+Com efeito, a decisão ora atacada não merece reforma, uma vez que
+seus fundamentos se harmonizam estritamente com o entendimento
+consolidado pela Suprema Corte.
+Ademais, o presente recurso mostra-se inviável, na medida em que
+contém apenas argumentos de ordem processual, que não são capazes de
+afastar as razões expressas na decisão agravada, a qual deve ser mantida
+por seus próprios fundamentos.
+Nesse sentido, transcrevo a decisão questionada:
+“Vistos,
+Trata-se de Petição apresentada pelo requerente com o
+objetivo de arquivamento de ação civil pública por ato de
+improbidade administrativa.
+Nesse sentido, assevera, inicialmente, que:
+‘1.) O presente pedido de extensão tem um único
+objeto: que este STF determine o ARQUIVAMENTO da
+Ação Civil Pública por Ato de Improbidade
+Administrativa nº 1008682-48.2017.4.01.3400 (‘Ação de
+Improbidade’) proposta contra o Requerente e outros,
+tendo por base provas já declaradas nulas por este STF,
+seja na Rcl 43.007/DF, seja nas PETs 12.357/DF e 11.972/DF.
+2.) Como se sabe, a Rcl 43.007/DF foi ajuizada contra
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 5 de 76
+
+PET 13482 AGR / DF
+
+diversas decisões exaradas pela 13ª Vara Federal Criminal
+da Subseção Judiciária de Curitiba/PR que, na Ação Penal
+nº 5063130-17.2016.4.04.7000 e do Acordo de Leniência nº
+5020175- 34.2017.4.04.7000, cercearam o acesso da defesa
+ao conteúdo dos autos, em desrespeito ao quanto decidido
+na Rcl 33.543/PR-AgR-AgR-ED-AgR e à Súmula
+Vinculante nº 14.
+3.) Em 6.9.2023, Vossa Excelência concedeu pedido
+de extensão ‘em definitivo e com efeitos erga omnes, para
+declarar a imprestabilidade dos elementos de prova
+obtidos a partir do Acordo de Leniência 502017534.2017.4.04.7000, celebrado pela
+Odebrecht, e dos
+sistemas Drousys e My Web Day B, bem assim de todos os
+demais elementos que dele decorrem, em qualquer âmbito
+ou grau de jurisdição.’
+4.) Posteriormente, em 21.5.2024, Vossa Excelência
+emitiu decisão em favor de Marcelo Odebrecht na PET
+12.357/DF na qual declarou a ‘nulidade absoluta de todos
+os atos praticados em desfavor do requerente no âmbito
+dos procedimentos vinculados à Operação Lava Jato,
+pelos integrantes da referida operação e pelo ex-juiz
+Sérgio Moro no desempenho de suas atividades perante o
+Juízo da 13ª Vara Federal de Curitiba, ainda que na fase
+pré-processual, determinando, em consequência, o
+trancamento das persecuções penais instauradas em
+desfavor do requerente no que atine à mencionada
+operação.’
+5.) Como se verá adiante, a Ação de Improbidade
+que da qual o Requerente é réu deriva do mesmo
+arcabouço probatório declarado nulo por esta Corte, além
+de a conduta a ele atribuída depender intrinsecamente
+daquela atribuída ao corréu Marcelo Odebrecht, razão
+pela qual não há possibilidade de condenação do
+Requerente sem a condenação do corréu Marcelo
+Odebrecht, o que seria obstado, entre outros, pelo uso de
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 6 de 76
+
+PET 13482 AGR / DF
+
+provas viciadas pelo MPF.
+6.) Não fosse o suficiente, a Ação de Improbidade
+baseia-se inteira e expressamente nos mesmos fatos que
+ensejaram, também, Ação Penal da qual o Requerente foi
+absolvido por ausência de prova da existência do fato (art.
+386, II, CPP) e quanto sob o fundamento de que haveria
+atipicidade das condutas a ele imputadas, o que é uma
+razão adicional para que a referida ACP seja trancada, na
+linha da jurisprudência pacífica do STF.
+7.) É o próprio Ministério Público Federal a
+confessar, na petição inicial da Ação de Improbidade, que
+se trata dos mesmos fatos:
+(...)
+8.) Vejamos em maiores detalhes os fatos que
+embasam o presente pedido de extensão.’
+Prossegue, aduzindo que:
+‘9.) Em julho de 2017, o Ministério Público Federal
+propôs a Ação de Improbidade nº 100868248.2017.4.01.3400, inteiramente baseada na Ação Penal nº
+843, em face de Construtora Norberto Odebrecht S/A,
+Fernando Damata Pimentel, Eduardo Lucas
+Silva
+Serrado, Benedito Rodrigues de Oliveira Neto, Pedro
+Augusto de Medeiros, Marcelo Bahia Odebrecht e João
+Carlos Mariz Nogueira (ora Requerente).
+10.) A Ação Penal nº 843 foi fruto da ‘Operação
+Acrônimo’, que investigava supostos delitos cometidos
+quando
+Fernando
+Pimentel
+era
+ministro
+do
+Desenvolvimento, Indústria e Comércio Exterior (de
+janeiro de 2011 a fevereiro de 2014) e, nessa condição,
+presidiu a Câmara de Comércio Exterior (Camex) da
+Presidência da República. Os supostos crimes apurados
+na ação penal estavam relacionados à atuação da Camex
+em processos de interesse da Odebrecht.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 7 de 76
+
+PET 13482 AGR / DF
+
+11.) Originariamente, a Ação Penal nº 843 havia sido
+proposta em novembro de 2016 perante o Superior
+Tribunal de Justiça, visto que o réu Fernando Damata
+Pimental era, à época, Governador do Estado de Minas
+Gerais, o que implicava o foro por prerrogativa de função.
+Todavia, em 21/06/2018, o STJ declinou da competência
+para processar e julgar o caso, pois os fatos imputados ao
+Governador não teriam sido praticados durante aquele
+mandato, sendo os autos remetidos à primeira instância
+(Seção Judiciária do Distrito Federal).
+12.) Além disso, a Ação Penal nº 843 tratou dos
+mesmos fatos que embasam a Ação de Improbidade, os
+quais caracterizavam, segundo a denúncia do Ministério
+Público Federal, delitos de corrupção passiva e ativa,
+consubstanciados no suposto oferecimento/recebimento
+de recursos indevidos no exercício da função de
+presidência da Camex em relação a projetos de interesse
+da
+Odebrecht.
+Corrupção
+passiva,
+portanto,
+supostamente praticada por Fernando Damata Pimentel,
+com o auxílio de Eduardo Lucas Silva Serrado, Benedito
+Rodrigues de Oliveira Neto e Pedro Augusto de
+Medeiros; e corrupção ativa, supostamente praticada por
+Marcelo Bahia Odrebrecht, com o auxílio de João Carlos
+Nogueira (Requerente), sendo que tais fatos foram
+investigados no âmbito da mencionada ‘Operação
+Acrônimo’.
+13.) Elemento relevante para compreensão do caso
+refere-se ao fato de que a solicitação de recursos, objeto da
+investigação, foi feita à título de contribuição eleitoral, e
+não em contrapartida a qualquer aprovação de mérito dos
+projetos na CAMEX. O que o Ministério Público omite em
+sua petição inicial é o fato de que tais contribuições sequer
+poderiam ser uma contrapartida à atuação de Fernando
+Pimentel, uma vez que todas as decisões tomadas pela
+CAMEX são colegiadas e por consenso.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 8 de 76
+
+PET 13482 AGR / DF
+
+14.) Conforme será explorado ao longo desta petição,
+a
+‘Operação
+Acrônimo’
+desenvolveu-se,
+impreterivelmente, a partir do compartilhamento de
+provas da operação lava jato, com destaque para o
+telefone celular de Marcelo Odebrecht e do computador
+da secretária de Marcelo Odebrecht, ambos apreendidos
+no contexto da força tarefa da lava jato, por ordem do
+juízo da 13ª Vara Federal de Curitiba/PR, servindo como
+acervo probatório para a Ação Penal nº 843 e,
+consequentemente, para a Ação de Improbidade. Na
+sentença da Ação Penal juntada aos autos da Ação de
+Improbidade, vale destacar, o juízo da 12ª Vara da Seção
+Judiciária do Distrito Federal concluiu que as provas
+coligidas nos autos não corroboraram a imputação,
+afirmando, ainda, que ‘o Ministério Público Federal não
+trouxe aos autos prova alguma dos fatos que alegou’, e
+que ‘é de se reconhecer a atipicidade da conduta imputada
+a título de corrupção passiva’ (doc. 03, p. 9). Assim, pela
+inexistência de provas aptas a comprovar as imputações
+feitas pelo MPF e/ou pela atipicidade constatada pelo
+juízo, a Ação Penal nº 843 foi julgada improcedente para
+absolver os réus.
+15.) A Ação de Improbidade, por sua vez, ajuizada
+com base na Ação Penal nº 843 contra os mesmos réus,
+tem por objeto a imposição de sanções previstas na Lei nº
+8.429/92, em razão da suposta prática de ato de
+improbidade administrativa. Segundo o Ministério
+Público Federal, os corréus ‘Marcelo Odebrecht e João
+Carlos Mariz Nogueira tinham interesses que poderiam
+ser amparados pela ação do então Ministro de Estado
+Fernando da Mata Pimentel, em razão de suas atribuições
+como presidente da Câmara de Comércio Exterior –
+CAMEX, tendo concorrido para a prática do ato ímprobo
+por meio do pagamento de vantagem patrimonial
+indevida a Fernando’ (doc. 06, p. 6), sendo que este teria
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 9 de 76
+
+PET 13482 AGR / DF
+
+contado com o auxílio de Eduardo Serrado, Benedito de
+Oliveira Neto e Pedro Augusto.
+16.) Conforme narrado na petição inicial da Ação de
+Improbidade, entre 2011 e 2014, Fernando Pimentel
+ocupou o cargo de Ministro de Estado do Ministério do
+Desenvolvimento, Indústria e Comércio Exterior – MDIC
+e, nessa condição, presidiu a Câmara de Comércio
+Exterior – CAMEX, da Presidência da República. Entre as
+competências da citada Câmara havia a fixação das
+diretrizes para a política de
+financiamento das
+exportações de bens e de serviços, bem como para a
+cobertura dos riscos de operações a prazo, inclusive as
+relativas ao seguro de crédito às exportações – cujo
+acompanhamento era feito pelo Comitê de Financiamento
+e Garantia de Exportações – COFIG.
+17.) Vale destacar que, embora o Ministério Público
+Federal tenha afirmado que as deliberações desse comitê
+dependiam da chancela da CAMEX, que era presidida
+pelo então Ministro Fernando Pimentel, não se pode
+perder de vista que o órgão é colegiado e suas decisões são
+tomadas por consenso. Assim, quando se fala em
+‘chancela da CAMEX’, fala-se em uma decisão colegiada,
+e não uma decisão monocrática de seu (então) presidente.
+18.) Segundo o Ministério Público Federal, havia, à
+época, em trâmite na CAMEX dois processos de interesse
+da Construtora Norberto Odebrecht S/A, os quais eram
+acompanhados pelo Requerente, João Nogueira, Diretor
+de Crédito à Exportação da companhia, que auxiliava
+Marcelo Odebrecht (corréu), presidente da holding, a
+quem competiam as decisões.
+19.) Os mencionados processos eram referentes a um
+Projeto de Soterramento da Linha Ferroviária de
+Sarmiento, localizada em Buenos Aires, República
+Argentina, e a uma garantia do Seguro de Crédito à
+Exportação, ao amparo do Fundo de Garantia à
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 10 de 76
+
+PET 13482 AGR / DF
+
+Exportação e Equalização de Taxas de Juros do Programa
+de Financiamento às Exportações - Proex, para exportação
+de bens e serviços destinados à execução do corredor
+interurbano de transporte público da cidade de Maputo,
+República de Moçambique.
+20.) Ocorre que os projetos nunca foram realizados.
+Isso porque, não obstante terem os seus respectivos
+méritos reconhecidos na CAMEX, os projetos não
+chegaram a ser submetidos ao COFIG, visto que os
+tomadores dos financiamentos desistiram de apresentar as
+garantias demandadas e/ou conseguiram alternativas mais
+competitivas do que o financiamento brasileiro. Tais
+financiamentos, portanto, nunca sequer foram aprovados
+e operacionalizados.
+21.) Apesar disso, o MPF afirma, em sua petição
+inicial, que Fernando Pimentel, com o auxílio de Eduardo
+Serrano e Benedito Rodrigues, solicitou e efetivamente
+recebeu vantagem patrimonial indevida (dinheiro) dos
+corréus Marcelo Odebrecht e João Nogueira. Em seguida,
+passa a descrever uma sequência de episódios em que
+Fernando Pimental, Eduardo Serrano ou Benedito
+Rodrigues teriam encontrado Marcelo Odebrecht ou João
+Nogueira, baseando-se em anotações gravadas nos
+celulares de 11 Marcelo Odebrecht e João Nogueira
+apreendidos por ordem judicial, isto é, o mesmo acervo
+probatório utilizado na Ação Penal nº 843.
+22.) Narra-se, por exemplo, que: ‘A partir das
+indicações de Eduardo Serrano, e agindo em unidade de
+desígnios com ele e Fernando Pimentel, Benedito realizou
+uma série de
+encontros com João Nogueira em
+restaurantes localizados em Brasília DF, quando foram
+apontados os interesses da construtora na CAMEX,
+relacionados aos seguros dos financiamentos de obras a
+serem executadas pela empresa na Argentina e em
+Moçambique. Por volta de setembro de 2012, na cidade de
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 11 de 76
+
+PET 13482 AGR / DF
+
+Brasília-DF, depois de receber instruções específicas de
+Fernando Pimentel, o requerido Benedito solicitou
+vantagem patrimonial indevida de R$ 20.000.000,00 (vinte
+milhões de reais) de Marcelo Odebrecht e João Nogueira,
+para acolher as demandas da Construtora Norberto
+Odebrecht S/A na CAMEX. Nessa oportunidade, João
+Nogueira, atendendo aos desígnios de
+Marcelo
+Odebrecht, aceitou em nome deste a solicitação e
+prometeu R$ 15.000.000,00 (quinze milhões de reais)
+como vantagem indevida para determinar a aprovação
+dos pedidos e facilitar o trâmite das demandas da
+empresa na Câmara de Comércio Exterior.’ (doc. 06, p. 12)
+23.) Em outro momento, o MPF afirma, com base nas
+conversas obtidas através dos celulares apreendidos, que
+‘[e]ntre 1º/4/13 e 3/4/13, os requeridos Benedito e João
+Nogueira, representando os interesses de Fernando
+Pimentel e Marcelo Odebrecht, respectivamente, trocaram
+novas mensagens para ajustar outra entrega de valores
+(APN 843 a.3, fls. 79/80)’. Como se observa, toda a
+narrativa dos fatos feita pelo Ministério Público traz
+referências à APN 843, pois os elementos fáticoprobatórios
+que sustentam ambas as ações são
+rigorosamente os mesmos.
+24.) Desse modo, prosseguindo a descrição dos fatos,
+a partir das mesmas provas colhidas na APN 843, o MPF
+afirma, ainda, que ‘[a]inda no dia 17/7/13, João Nogueira e
+Marcelo Odebrecht encontraram-se com Fernando
+Pimentel em Brasília-DF, como anunciado anteriormente
+em mensagens trocadas entre eles: Marcelo e eu vamos ver
+o nosso amigo agora, antes de viajar (APN 843 a.3, fl. 85)’.
+25.) Ainda, a petição inicial da Ação de Improbidade
+registra que: ‘Dados gravados nas mídias apreendidas por
+ordem judicial, compartilhados pelo Juízo da 13ª Vara
+Federal de Curitiba-PR, confirmam que Marcelo
+Odebrecht encontrava-se na cidade de Brasília/DF nessa
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 12 de 76
+
+PET 13482 AGR / DF
+
+data para uma reunião do Conselho de Desenvolvimento
+Econômico e Social, vinculado à Secretaria de Assuntos
+Estratégicos da Presidência da República (APN 843 a.1,
+fls. 64/73). [...] Ademais, outros dados encontrados no
+telefone de Marcelo Odebrecht, como a cópia de um email enviado por João Nogueira na data de 15/7/2013,
+cujo assunto foi denominado de ‘FP’ e resumido como:
+‘FP. Estará no CDES, mas penso ser importante uma
+conversa separada por conta da Argentina (Sarmiento)
+vis-à-vis Mercosul. Posso sugerir almoço?’, indicam que
+Marcelo Odebrecht se encontrou com o então Ministro
+Fernando Pimentel para tratar da obra de soterramento
+da ferrovia de Sarmiento (APN 843 a.1, fl. 66). [...] Em
+30/9/13, João Nogueira encaminhou mensagens a Benedito
+dizendo Quero fazer um encontro entre o Chefe e o meu.
+Semana que vem (APN 843 a.3, fl. 89). Cumprindo o
+ajuste, Fernando Pimentel e Marcelo Odebrecht
+encontraram-se na residência de João Nogueira em
+Brasília/DF no dia 9/10/13, como comprovam os registros
+eletrônicos encontrados no aparelho
+telefônico de
+Marcelo e em equipamentos apreendidos em suas
+empresas (APN 843 a.1, fls. 91/92).’
+26.) Destaca-se que o telefone celular do corréu
+Marcelo Odebrecht, bem como o computador de sua
+secretária foram apreendidos no âmbito da operação lava
+jato, sendo que os dados encontrados foram objeto de
+compartilhamento com a investigação que originou a
+Ação Penal 843 (‘Operação Acrônimo’).
+27.) Novamente, é o próprio MPF a confessar o uso
+de material apreendido pela lava jato para formular as
+acusações de improbidade contra todos os corréus.
+Vejamos (doc. 06, p. 18):
+(...)
+28.) Ao final, com base nos fatos narrados, o MPF
+conclui que os requeridos Construtora Norberto
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 13 de 76
+
+PET 13482 AGR / DF
+
+Odebrecht S/A, Fernando Damata Pimentel, Eduardo
+Lucas Silva Serrano, Benedito Rodrigues de Oliveira Neto,
+Pedro Augusto de Medeiros, Marcelo Bahia Odebrecht e
+João Carlos Mariz Nogueira, de forma deliberada e
+plenamente consciente,
+praticaram os atos de
+improbidade administrativa capitulados nos artigos 9º,
+caput e inciso I, e II, caput, da Lei 8.429/1992, requerendo
+o recebimento e a autuação da demanda acompanhada
+dos autos da APN 843, e a condenação dos requeridos às
+sanções constantes no art. 12, da Lei nº 8.429/92, pela
+prática dos atos de improbidade administrativa previstos
+nos artigos 9º, caput, e 11, caput, do mesmo diploma
+normativo.
+29.) Como fora antecipado, a Ação Penal nº 843 foi
+julgada improcedente, haja vista que, conforme registrado
+na sentença, os fatos narrados pelo Ministério Público
+Federal – que consistem nos mesmos fatos e provas que
+sustentam a Ação de
+Improbidade – não ficaram
+comprovados, absolvendo-se todos os réus.
+30.) O que se destaca, portanto, é que a petição inicial
+da Ação de Improbidade, fundada inteiramente na Ação
+Penal nº 843, a fim de corroborar suas alegações, lança
+mão de elementos de prova obtidos a partir das
+investigações realizadas no âmbito das Operações
+Acrônimo e lava jato, em sede de compartilhamento.
+31.) Tais provas dizem respeito especialmente ao
+corréu Marcelo Odebrecht,
+todas já declaradas
+imprestáveis pelo STF na PET 12.357/DF; nada obstante, as
+condutas atribuídas ao Requerente são a de um agente
+ancilar, um auxiliar operacional que, nessa condição,
+dependeria da atuação do agente principal e que,
+portanto, não poderia ser, evidentemente, condenado
+sozinho.
+32.) Ainda que assim não fosse, a ausência de prova e
+a atipicidade das condutas atribuídas ao Requerente,
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 14 de 76
+
+PET 13482 AGR / DF
+
+ambas reconhecidas na APN n° 843, devem produzir
+reflexos na Ação de Improbidade, não podendo ser o Sr.
+João Nogueira
+condenado por uma instância mais
+“branda” dos ramos sancionatórios do Estado (cível),
+quando foi, pelas mesmas condutas, absolvido naquela
+que é a última ratio estatal (penal), ao menos não sem
+grave violação da presunção de inocência, do princípio do
+in dubio pro reo e, enfim, da própria jurisprudência deste
+STF.’
+Nesse sentido, ressalta, ainda, que:
+‘34.) Passados mais de dez anos do início da
+operação lava jato, as evidências trazidas à luz,
+especialmente pela Operação Spoofing, demonstram a
+gravidade do modus operandi da força tarefa, que, além
+de ser incompatível com o Estado de Direito pela
+deliberada violação de garantias e direitos fundamentais
+dos investigados, consubstanciou-se em um projeto
+degenerado de poder, cuja consequência foi a fragilização
+da própria democracia constitucional brasileira.
+35.) Não há nessa afirmação qualquer exagero
+apoteótico. Pelo contrário, o Supremo Tribunal Federal, no
+âmbito da Reclamação nº 43.007/DF, já reconheceu isso de
+modo ainda mais incisivo.
+36.) Nesse sentido, vale lembrar a decisão proferida
+no dia 06 de setembro de 2023 pelo Ministro Relator da
+referida Reclamação, Dias Toffoli, na qual se registra
+cirurgicamente o que, de fato, foi a Operação lava jato:
+‘Tratou-se de uma armação fruto de um projeto de poder
+de determinados agentes públicos em seu objetivo de
+conquista do Estado por meios aparentemente legais, mas
+com métodos e ações contra legem. Digo sem medo de
+errar, foi o verdadeiro ovo da serpente dos ataques à
+democracia e às instituições que já se prenunciavam em
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 15 de 76
+
+PET 13482 AGR / DF
+
+ações e vozes desses agentes contra as instituições e ao
+próprio STF. Ovo esse chocado por autoridades que
+fizeram desvio de função, agindo em conluio para atingir
+instituições, autoridades, empresas e alvos específicos. Sob
+objetivos aparentemente corretos e necessários, mas sem
+respeito à verdade factual, esses agentes desrespeitaram o
+devido processo legal, descumpriram decisões judiciais
+superiores, subverteram provas, agiram com parcialidade
+(vide citada decisão do STF) e fora de sua esfera de
+competência. Enfim, em última análise, não distinguiram,
+propositadamente, inocentes de criminosos. Valeram-se,
+como já disse em julgamento da Segunda Turma, de uma
+verdadeira tortura psicológica, UM PAU DE ARARA DO
+SÉCULO XXI, para obter ‘provas’ contra inocentes. Para
+além, por meios heterodoxos e ilegais atingiram pessoas
+naturais e jurídicas, independentemente de sua
+culpabilidade ou não. E pior, destruíram tecnologias
+nacionais, empresas, empregos e patrimônios públicos e
+privados. Atingiram vidas, ceifadas por tumores
+adquiridos, acidentes vascular cerebral e ataques
+cardíacos, um deles em plena audiência, entre outras
+consequências físicas e mentais. Aqui não se está a dizer
+que no bojo da mencionada operação não tenha havido
+investigação de ilícitos verdadeiramente cometidos,
+apurados e sancionados, mas, ao fim e ao cabo, o que esta
+Reclamação deixa evidente é que SE UTILIZOU UM
+COVER-UP DE COMBATE À CORRUPÇÃO, COM O
+INTUITO DE
+LEVAR UM LÍDER POLÍTICO ÀS
+GRADES, COM PARCIALIDADE E, EM CONLUIO,
+FORJANDO-SE “PROVAS”. Centenas de acordos de
+leniências e de delações premiadas foram celebrados
+como meios ilegítimos de levar INOCENTES à prisão.
+DELAÇÕES ESSAS QUE CAEM POR TERRA, DIA APÓS
+DIA, ALIÁS. Tal conluio e parcialidade demonstram, a
+não mais poder, que houve uma verdadeira conspiração
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 16 de 76
+
+PET 13482 AGR / DF
+
+com o objetivo de colocar um inocente como tendo
+cometido crimes jamais por ele praticados. Esse vasto
+apanhado indica que a parcialidade do juízo da 13ª Vara
+Federal de Curitiba extrapolou todos os limites, e com
+certeza contamina diversos outros procedimentos;
+porquanto os constantes ajustes e combinações realizados
+entre o magistrado e o Parquet e apontados acima
+representam verdadeiro conluio a inviabilizar o exercício
+do contraditório e da ampla defesa.’
+37.) Para além da constatação geral de que, com as
+evidências que se tem hoje, a operação lava jato pode ser
+considerada um núcleo de exceção instrumentalizado para
+fins inadmissíveis num Estado Democrático de Direito, o
+Supremo Tribunal Federal já reconheceu que as mesmas
+abusividades, ilegalidades e inconstitucionalidades
+praticadas contra o Reclamante Luiz Inácio Lula da Silva
+(Rcl.
+43.007/DF),
+foram
+também
+operadas
+sistematicamente contra os corréus Odebrecht S/A (Pet
+11.972/DF) e Marcelo Bahia Odebrecht (Pet 12.357/DF) –
+decisões paradigmas neste pedido de extensão.
+38.) Como foi apresentado inicialmente na
+introdução dos fatos, a Ação de Improbidade movida
+contra o Requerente e outros utiliza de provas produzidas
+no âmbito da operação lava jato e compartilhadas com a
+‘Operação Acrônimo’.
+39.) Aliás, vale destacar que os fatos tratados na Ação
+Penal nº 843 e na Ação de Improbidade não são alheios ao
+contexto da famigerada lava jato. Pelo contrário: conforme
+o Requerente cuidadosamente demonstrou em sua Defesa
+Preliminar à Ação de Improbidade (doc. 07), os fatos
+discutidos nessa ação estão integralmente abarcados pelo
+acordo de leniência celebrado pelo Grupo Odebrecht, por
+meio de sua holding, Odebrecht S.A.
+40.) Ora, à época dos fatos narrados, o Requerente
+ocupava a função de Diretor de Crédito à Exportação da
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 17 de 76
+
+PET 13482 AGR / DF
+
+CNO, empresa do grupo econômico Odebrecht,
+enquadrando-se, assim, na condição de preposto daquela
+pessoa jurídica, e sendo, portanto, parte integrante do
+referido acordo de leniência.
+41.) Por tal razão, o Requerente fez detalhado cotejo
+entre os fatos narrados na petição inicial da Ação de
+Improbidade e o depoimento prestado e constante no
+Anexo 8 do Acordo de Leniência da Odebrecht celebrado
+com o MPF, demonstrando-se, com isso, a aderência entre
+os fatos. Argumentou, nesse sentido, que, por decorrência
+lógica, de ordem geral, a conclusão de que quando
+celebrado acordo de leniência de aspecto amplo, a abarcar
+o mesmo objeto de ação de improbidade, não haveria
+legitimidade no agir estatal para reprimir os mesmos
+fatos.
+42.) Além do acordo de leniência, o Requerente
+também celebrou acordo de colaboração com o MPF,
+materializado no ‘Termo de Acordo de Colaboração
+Premiada’, no curso da operação lava jato.
+43.) O ponto central, portanto, é o de que os fatos
+apurados pela ‘Operação Acrônimo’ que ensejaram a
+Ação Penal nº 843 e a Ação de Improbidade também eram
+objeto de interesse da força tarefa da lava jato. Vale dizer,
+embora a Ação de Improbidade não tenha tramitado
+perante a 13ª Vara Federal de Curitiba/PR, o inquérito
+originário insere-se num contexto mais amplo da lava jato
+– cujo modus operandi, já se sabe, extrapolava os limites
+geográficos, e isso foi cabalmente reconhecido pelo
+material colhido na Operação Spoofing.’
+Aduz, outrossim, que:
+‘44.) Como se sabe, em decisão proferida em 6 de
+setembro de 2023 nos autos da Rcl. 43.007/DF, o Ministro
+Relator Dias Toffoli, após reconhecer as incontáveis
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 18 de 76
+
+PET 13482 AGR / DF
+
+abusividades cometidas pela força tarefa da lava jato,
+concedeu, de ofício, ordem incidental de habeas corpus,
+‘em definitivo e com efeitos erga omnes’, para (dentre
+outras providências): 1. ‘declarar a imprestabilidade dos
+elementos de prova obtidos a partir do Acordo de
+Leniência 5020175-34.2017.4.04.7000, celebrado pela
+Odebrecht, e dos sistemas Drousys e My Web Day B, bem
+assim de todos os demais elementos que dele decorrem,
+em qualquer âmbito ou grau de jurisdição’; e 2. ‘que se
+conceda acesso à íntegra do material apreendido na
+‘Operação Spoofing’ a todos os investigados e réus
+processados com base em elementos de
+prova
+contaminados, em qualquer âmbito ou grau de jurisdição,
+assegurando-se, com o apoio dos Peritos da Polícia
+Federal, o acesso integral às mensagens contidas no bojo
+dos autos nº 1055018-03.2023.4.01.3400, com a devida
+preservação do conteúdo dos documentos de caráter
+sigiloso.’ (‘Decisão Rcl. 43.007/DF’)
+45.) No que diz respeito às provas obtidas por meio
+do acordo de Leniência Novonor MPF, portanto, a
+ampliação erga omnes e definitiva, segundo o decisum
+singular, deveu-se ao fato de que ‘[a]s causas que levaram
+à declaração de imprestabilidade dos referidos elementos
+de prova são objetivas, não se restringindo ao universo
+subjetivo do reclamante, razão pela qual o reconhecimento
+da referida imprestabilidade deve ser estendido a todos
+os feitos que tenham se utilizado de tais elementos, seja
+na esfera criminal, seja na esfera eleitoral, seja em
+processos
+envolvendo
+ato
+de
+improbidade
+administrativa, seja, ainda, na esfera cível’.
+46.) O que se infere, portanto, é que na Rcl.
+43.007/DF, por ordem do Supremo Tribunal Federal, foi
+declarada, em caráter erga omnes, a imprestabilidade dos
+elementos de prova obtidos a partir do Acordo de
+Leniência da Odebrecht com o MPF, e dos sistemas
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 19 de 76
+
+PET 13482 AGR / DF
+
+Drousys e My Web Day B, bem assim de todos os demais
+elementos que deles decorrem, em qualquer âmbito ou
+grau de jurisdição.
+47.) E o que se discute no presente pedido de
+extensão, em caráter objetivo, é precisamente o
+reconhecimento de que a Ação de Improbidade está
+lastreada em
+elementos de prova já declarados
+imprestáveis pelo Supremo Tribunal Federal, sobretudo,
+especificamente, a Marcelo Odebrecht e à própria
+Odebrecht (Novonor), os quais, ao lado do Requerente
+João Nogueira, são corréus na Ação de Improbidade. A
+decisão proferida pelo Ministro Dias Toffoli na Pet
+12.357/DF.
+48.) A Pet 12.357/DF trata de pedido formulado por
+Marcelo Odebrecht (corréu na Ação de Improbidade)
+requerendo a extensão das decisões proferidas na Rcl. n.
+43.0007/DF – a qual concedeu acesso aos materiais
+produzidos na Operação Spoofing e reconheceu o conluio
+entre juízo e acusação - e na Pet n. 11.438/DF – que
+declarou a nulidade de todos os atos praticados pelos
+integrantes da lava-jato e pelo ex-juiz Sérgio Moro.
+49.) Nesse caso, o Min. Dias Toffoli reconheceu que
+os argumentos constantes na inicial estavam lastreados no
+conteúdo dos diálogos revelados pela Operação Spoofing
+e na dinâmica de atos processuais envolvendo o então
+requerente na 13ª Vara Federal de Curitiba, os quais
+representavam ‘um complexo sistema de captura do
+Poder
+Judiciário e do Ministério Público para o
+desenvolvimento de projetos pessoais e políticos’ à
+margem da legalidade.
+50.)
+Foram
+demonstrados
+e
+devidamente
+reconhecidos nos autos: as violações a
+direitos
+fundamentais do requerente Marcelo Odebrecht; a
+utilização de denúncias e prisões cautelares para obter um
+acordo de colaboração forçado; as estratégias combinadas
+
+16
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 20 de 76
+
+PET 13482 AGR / DF
+
+entre juiz e procurador; a imparcialidade do ex-juiz Sérgio
+Moro; o modus operandi observado na 13ª Vara Federal
+de Curitiba; a pressão sofrida de membros do MPF para
+que renunciasse direitos, bem como a violação ao
+princípio acusatório.
+51.) Conforme identificado pelo Min. Dias Toffoli, ‘o
+mesmo método adotado em relação ao Presidente Lula foi
+aplicado ao requerente, até porque seria ele um dos
+vetores das acusações posteriormente dirigidas ao
+Presidente da República’ e, analisando os diálogos
+travados entre os representantes do Ministério Público,
+afirmou que ‘fica ainda mais evidente o bastidor da
+estratégia de utilização de prisões alongadas, além de
+ameaças a parentes, sem contar a exigência para a
+renúncia ao direito de defesa como condição para celebrar
+a colaboração premiada’.
+52.) As conclusões explicitadas pelo Ministro em sua
+fundamentação – e que podem ser entendidas como as
+suas razões de decidir – podem ser assim sintetizadas: I.
+Que, pela gravidade das situações reveladas pelos
+diálogos obtidas por meio da
+Operação Spoofing,
+somadas a outras tantas decisões exaradas pelo STF e
+tornadas públicas e notórias, seria possível concluir que a
+prisão de Marcelo Odebrecht foi arbitrária, assim como
+todos os atos dela decorrentes; II. Que magistrado e
+procuradores de Curitiba desrespeitaram o devido
+processo legal e agiram com parcialidade e fora de sua
+esfera de competência; III. Que, por meios heterodoxos e
+ilegais, atingiram pessoas naturais e jurídicas,
+independentemente de sua culpabilidade ou não; IV. Que
+os constantes ajustes e combinações realizados entre o
+magistrado e o promotor representam verdadeiro conluio
+a inviabilizar o exercício do contraditório e da ampla
+defesa pelo requerente; e V. Que procuradores integrantes
+da Força Tarefa da Lava Jato, bem como alguns
+
+17
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 21 de 76
+
+PET 13482 AGR / DF
+
+magistrados, ignoraram o devido processo legal, o
+contraditório, a ampla defesa e a
+própria
+institucionalidade para garantir seus objetivos - pessoais e
+políticos.
+53.) Desse modo, o Min. Dias Toffoli entendeu que os
+documentos juntados pelo então requerente, além de
+suficientes para demonstrar as teses levantadas,
+indicavam identidade ou semelhança com as premissas
+adotas em decisões proferidas pela Suprema Corte. E por
+tal razão, como registrado na decisão, haveria necessidade
+de se avançar em relação ao já decidido e determinar o
+trancamento das investigações e processos em curso
+contra Marcelo Odebrecht na 13ª Vara Federal de Curitiba.
+54.) No dispositivo da decisão, registrou-se o que
+segue: ‘Em face do exposto, defiro o pedido constante
+desta petição e declaro a nulidade absoluta de todos os
+atos praticados em desfavor do requerente no âmbito dos
+procedimentos vinculados à Operação Lava Jato, pelos
+integrantes da referida operação e pelo ex-juiz Sérgio
+Moro no desempenho de suas atividades perante o Juízo
+da 13ª Vara Federal de Curitiba, ainda que na fase pré
+processual,
+determinando,
+em
+consequência,
+o
+trancamento das persecuções penais instauradas em
+desfavor do requerente no que atine à mencionada
+operação. Por fim, ressalto que a declaração de nulidade
+dos atos praticados na 13ª Vara Federal de Curitiba não
+implica a nulidade do acordo de colaboração firmado
+pelo requerente - revisto nesta Suprema Corte -, que
+sequer é objeto da presente demanda.’
+55.) Houve, portanto, na Pet 12.357/DF, a declaração
+de nulidade absoluta de todos os atos praticados em
+desfavor de Marcelo Odebrecht no âmbito dos
+procedimentos vinculados à operação lava jato.
+56.) Ainda, no dia 09 de setembro de 2024, a Segunda
+Turma do Supremo Tribunal Federal, por maioria, deu
+
+18
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 22 de 76
+
+PET 13482 AGR / DF
+
+parcial provimento ao agravo regimental, para manter a
+nulidade de todos os atos praticados pelo juízo da 13ª
+Vara Federal de Curitiba contra Marcelo Bahia Odebrecht
+em procedimentos vinculados à operação lava jato,
+confirmando, nesse ponto, a decisão que havia sido
+proferida no dia 1º de fevereiro pelo Min. Dias Toffoli.
+57.) No âmbito da Pet. n. 11.972/DF, apresentada
+inicialmente em 07 de novembro de 2023 pela J&F
+Investimentos, a Novonor S.A. formulou, em 08 de janeiro
+de 2024,
+pedido de extensão para que lhe fosse
+franqueado o acesso a todo material colhido na Operação
+Spoofing e para que fosse determinada a suspensão das
+obrigações pecuniárias decorrentes do acordo de leniência
+entabulado com o Ministério Público Federal até que fosse
+possível analisar os documentos da referida operação,
+bem como promover, perante as instituições competentes,
+a reavaliação dos termos dos Acordos de Leniência.
+58.) Nessa petição, demonstrou-se amplamente o
+contexto de ilegalidades que redundou na celebração dos
+acordos de leniência da Novonor, inclusive relembrando
+diversos fatos, como, por exemplo, o de que a própria
+decisão proferida naqueles autos em benefício da J&F
+Investimentos já houvera reconhecido que a Novonor era
+a vítima central das ilegalidades praticadas pela força
+tarefa lava jato.
+59.) Em especial, relembrou-se que o Acordo de
+Confidencialidade firmado com o MPF, em um contexto
+de flagrante exceção, estabeleceu, em sua cláusula 6ª, que
+a Companhia deveria fornecer, como requisito para o
+acordo de leniência, o sistema de informática Drousys.
+Tal fato se deu a partir de junho de 2016, período em que a
+Novonor passou a colaborar diretamente com a força
+tarefa para o fornecimento de acesso e esclarecimentos a
+respeito da extração dos dados do referido sistema.
+60.) À época em que formulou seu pedido, a
+
+19
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 23 de 76
+
+PET 13482 AGR / DF
+
+Novonor não tinha ainda acesso integral ao material da
+Operação Spoofing, mas o pouco que tinham já era
+suficiente para demonstrar que os integrantes da força
+tarefa já tinham acesso ao Drousys (e o utilizavam para
+prejudicar
+as
+investigadas)
+muito
+antes
+da
+disponibilização dessas informações pelos meios oficiais.
+61.) As conversas obtidas a partir do sistema, na
+oportunidade, foram demonstradas à exaustão. Elas
+comprovaram a ocorrência de numerosas ilegalidades
+cometidas pela Força Tarefa na obtenção de provas contra
+a Odebrecht/Novonor, inclusive, mediante cooperações
+internacionais informais (cuja abusividade já havia sido
+reconhecida nos autos da Reclamação).
+62.)
+Ao
+final
+de
+sua
+manifestação,
+a
+Odebrecht/Novonor pleiteou: (i) que lhe fosse franqueado
+o acesso integral ao material colhido na Operação
+Spoofing; (ii) a suspensão
+de todas as obrigações
+pecuniárias decorrentes do Acordo de Leniência
+entabulado entre a Requerente e o MPF até que a
+Novonor pudesse analisar todo o material relacionado à
+Operação Spoofing, de modo que possam ser empregadas
+as providências devidas frente às fundadas suspeitas de
+vício na celebração das referidas avenças, decorrente de
+atos praticados por autoridades envolvidas na sua
+negociação e execução; e (iii) que fosse autorizada a
+reavaliação dos acordos de leniência junto à
+Procuradoria-Geral da República, a Controladoria-Geral
+da União e a Advocacia-Geral da União, com a correção
+das ilicitudes e abusos identificados.
+63.) Assim, na Pet n. 11.972/DF, por meio de decisão
+proferida em 1º de fevereiro de 2024, o Ministro Relator
+deferiu o compartilhamento buscado pela Novonor, com o
+escopo de confirmar, por meio do material obtido a partir
+da Operação Spoofing, se os
+excessos e violações
+cometidos contra a Novonor pelos membros da força
+
+20
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 24 de 76
+
+PET 13482 AGR / DF
+
+tarefa da operação lava jato visaram coagi-la para a
+celebração de um acordo, tendo em vista os sinais de que
+o requisito da voluntariedade não foi respeitado na
+celebração de seu acordo de leniência (‘Decisão Pet.
+11.972/DF’).
+64.) No mesmo sentido, também ao apreciar o
+pedido de suspensão de todas as obrigações pecuniárias
+decorrentes do acordo de leniência até que fosse possível
+analisar os documentos compartilhados e promover sua
+revisão nas instâncias adequadas, o Ministro Relator
+destacou que ‘a declaração de vontade no acordo de
+leniência deve ser produto de uma escolha com liberdade’,
+e que, no caso concreto da Novonor, os abusos praticados
+levaram a um resultado inconstitucional na pactuação.
+65.) Isso porque o acordo somente seria válido se: ‘i)
+a declaração de vontade do colaborador for a) resultante
+de um processo volitivo; b) querida com plena consciência
+da realidade; c) escolhida com liberdade e d) deliberada
+sem má-fé; e ii) o seu objeto for lícito, possível e
+determinado ou determinável’, e, diante das informações
+obtidas por meio da Operação Spoofing no sentido de que
+teria havido conluio entre o juízo processante e o órgão de
+acusação “para elaboração de cenário jurídico-processual
+investigativo que conduzisse os investigados à adoção de
+medidas que melhor conviesse a tais órgãos, e não à
+defesa em si”, entendeu o Ministro Relator que haveria, no
+mínimo, dúvida razoável sobre o requisito da
+voluntariedade da requerente ao firmar o acordo de
+leniência, a justificar a suspensão dos pagamentos.
+66.) Ainda, observa-se que essa mesma Decisão
+proferida na Pet. 11.972/DF reconheceu expressamente
+que o quadro revelado na inicial, além de conferir
+plausibilidade suficiente às teses levantadas, indicava
+identidade ou semelhança entre as premissas adotadas na
+Decisão Rcl. 43.007/DF, e as que se verificam no caso da
+
+21
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 25 de 76
+
+PET 13482 AGR / DF
+
+Novonor, notadamente para fins de aplicação do poder
+geral de cautela.
+67.) Diante disso, seguindo a mesma linha das
+decisões anteriormente proferidas nos autos da Rcl.
+43.007/DF, e nos autos da Pet n. 11.972/DF, além de outros
+precedentes citados, o Ministro Relator deferiu os pedidos
+formulados pela requerente.
+68.) Observe-se: a Decisão Rcl. 43.007/DF já havia
+declarado, em caráter erga omnes, a imprestabilidade dos
+elementos de prova obtidos a partir da Leniência
+Novonor, e dos sistemas Drousys e My Web Day B, assim
+como de todos os demais elementos que dele decorrem,
+em qualquer âmbito ou grau de jurisdição.
+69.) Todavia, o que se extrai da Decisão Pet n.
+11.972/DF, de fevereiro de 2024, é que o STF declarou
+expressamente que as premissas adotadas naquele âmbito,
+em relação ao então Reclamante Luiz Inácio Lula da Silva,
+são idênticas ou semelhantes às que foram adotadas em
+relação à Novonor para autorizar o seu acesso à íntegra do
+material proveniente da Operação Spoofing e suspender
+os pagamentos referentes ao seu acordo de leniência.
+70.) Desse modo, para além do fato de a Decisão do
+dia 06 de setembro de 2023 na Rcl. 43.007/DF ter caráter
+erga omnes, a decisão de fevereiro de 2024 na Pet n.
+11.972/DF é específica ao reconhecer a identidade ou
+semelhança de premissas que sustentaram ambas as
+decisões, o que torna ainda mais crítica a situação de que a
+declarada imprestabilidade dos elementos de prova
+obtidos a partir da Leniência celebrada pela Odebrecht
+com o MPF, e dos sistemas Drousys e My Web Day B, bem
+assim de todos os demais elementos que dele decorrem,
+estende-se aos processos movidos contra a própria
+Novonor.
+5. DA AÇÃO PENAL À AÇÃO DE IMPROBIDADE,
+A IMPRESTABILIDADE DOS ELEMENTOS DE PROVA
+
+22
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 26 de 76
+
+PET 13482 AGR / DF
+
+E A INSEPARABILIDADE ENTRE AS CONDUTAS DO
+REQUERENTE E AS DO CORRÉU MARCELO
+ODEBRECHT.
+71.) Conforme narrado inicialmente, a Ação de
+Improbidade é integralmente baseada nos autos da AP
+843, que por sua vez, é instruída com elementos de prova
+obtidos a partir das investigações realizadas nas
+‘Operações Acrônimo’ e lava jato em caráter de
+compartilhamento. Ambas as circunstâncias foram
+confessadas pelo próprio MPF.
+72.) Sabe-se que a ‘Operação Acrônimo’ investigou
+supostos delitos cometidos no período em que Fernando
+Pimentel era ministro do Desenvolvimento, Indústria e
+Comércio Exterior (de janeiro de 2011 a fevereiro de 2014)
+e, nessa condição, presidiu a Câmara de Comércio Exterior
+(Camex) da Presidência da República. Os crimes apurados
+na ação penal estão relacionados à atuação da Camex em
+processos de interesse da construtora Odebrecht.
+73.) O que se, observa, no entanto, é que a ‘Operação
+Acrônimo’ – que ocorreu no contexto mais amplo da
+operação lava jato –, valeu-se de provas declaradas
+imprestáveis pelas decisões paradigma, o que se passa a
+demonstrar.
+74.) Analisando-se os documentos constantes nos
+autos da AP 843, que
+fundamentam a Ação de
+Improbidade, vê-se que o principal relatório de análise de
+material apreendido (RMA 071-16SET2016/OPAC – IPL –
+213/2016-4-DPF/DF) (Documento id 2326857) (doc. 08),
+tinha por objetivo complementar a contextualização inicial
+relativa aos interesses do grupo ODEBRECHT tratados
+com FERNANDO PIMENTEL por intermédio de
+BENEDITO RODRIGUES DE OLIVEIRA, a partir de
+extratos telefônicos obtidos mediante autorização judicial
+e documentos apreendidos na 5ª Fase da ‘Operação
+Acrônimo’.
+
+23
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 27 de 76
+
+PET 13482 AGR / DF
+
+75.) Entre os documentos listados no Relatório de
+Material Apreendido na Operação Acrômio (AP 843 fls.
+49-77), encontram-se: (i) ‘Telefone celular iPhone, modelo
+A1457, nº de série DX3NXCBKFFG8, IMEI nº
+352049064551592 de
+propriedade de Marcelo Bahia
+Odebrecht (Compartilhamento – Operação Lava Jato)’; e
+(ii) ‘Computador do Secretário de Marcelo Bahia
+Odebrecht – Memo 6650-15-SP05 (Compartilhamento –
+Operação Lava Jato)’.
+76.) Embora sejam ‘apenas’ dois elementos em uma
+lista de materiais analisados, uma simples leitura da
+análise realizada pela Polícia Federal neste relatório
+evidencia a absoluta centralidade das informações
+extraídas do telefone celular de Marcelo Odebrecht e do
+computador de sua secretária, Darci Luz, para as
+conclusões constantes no relatório.
+77.) Ilustrativamente, passa-se a transcrever algumas
+das menções registradas no Relatório em questão aos
+materiais compartilhados pela operação lava jato,
+ressalvando-se que a partir da leitura do relatório, vê-se
+com ainda mais clareza o destaque dado às informações
+obtidas pelo telefone celular de Marcelo Odebrecht e do
+computador de sua secretária (apreendidos no âmbito da
+operação lava jato), em relação aos demais materiais
+constantes na lista.
+78.) Em relação à ‘Identificação dos interesses da
+ODEBRECHT
+relativos
+ao
+financiamento
+para
+empreendimentos na Argentina’ (item 1 do Relatório),
+destaca se as seguintes menções aos materiais
+compartilhados da Operação Lava Jato (grifamos): 1.
+Documento id 2326857 - Documentos Diversos (APN 843
+a.1-fls. 49-77): ‘dados constantes no telefone de Marcelo
+Bahia Odebrecht, apreendido na Operação Lava Jato, e
+objeto de compartilhamento de provas com esta
+investigação, permitiu a identificação das pessoas que
+
+24
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 28 de 76
+
+PET 13482 AGR / DF
+
+participaram do referido encontro’ (16 de julho de 2023);
+27 2. Documento id 2326857 - Documentos Diversos (APN
+843 a.1-fls. 49-77): ‘No calendário do telefone celular de
+MARCELO ODEBRECHT há vários dados que
+confirmam que o mesmo esteve na cidade de Brasília/DF
+na data de 17 de julho de 2013 e que se encontrou com o
+então Ministro do MDIC FERNANDO DAMATA
+PIMENTEL com o objetivo de tratar sobre o assunto do
+financiamento da obra de soterramento da ferrovia de
+Sarmiento na Argentina’; 3. No mesmo contexto acima
+referido, cita-se, ainda, que: ‘no celular de MARCELO
+ODEBRECHT há um lembrete relativo a um voo
+(17/07/2013) [...]’; ‘Os dados constantes no celular indicam
+que MARCELO ODEBRECHT [...]’; ‘em outro lembrete
+identificado no telefone celular de MARCELO
+ODEBRECHT [...]’;
+4. Documento id 2326857 Documentos Diversos (APN 843 a.1-fls. 49-77): ‘Outros
+dois documentos que confirmam o encontro de
+MARCELO ODEBRECHT com FERNANDO PIMENTEL
+no dia 15 de julho de 2013 foram dois e-mails encontrados
+no
+computador apreendido na sede da empresa
+Odebrecht pertencente à secretária de MARCELO
+ODEBRECHT’; 5. Documento id 2326857 - Documentos
+Diversos (APN 843 a.1-fls. 49-77): ‘Além do encontro
+ocorrido em 17 de julho de 2013, a análise dos dados
+constante no celular de MARCELO ODEBRECHT e do
+computador de sua secretária apreendido na sede da
+ODEBRECHT permitiu identificar a existência de outro
+encontro ocorrido no dia 20 ou 21 de maio de 2013
+também na cidade de Brasília/DF. No celular de
+MARCELO ODEBRECHT há um lembrete para o dia
+21/05/2013 designado ‘Jantar Ministro
+Pimentel’,
+localização ‘Casa JCN – BSB’. Cabe esclarecer o a sigla
+‘JCN’ é utilizada por MARCELO ODEBRECHT para
+designar a pessoa de JOÃO CARLOS NOGUEIRA’; 6.
+
+25
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 29 de 76
+
+PET 13482 AGR / DF
+
+Documento id 2326857 - Documentos Diversos (APN 843
+a.1-fls. 49-77): ‘No celular há ainda dados sobre o voo
+utilizado por MARCELO ODEBRECHT para retornar da
+cidade de Brasília/DF e a reserva no hotel Meliá 21 na
+referida cidade’; 7. Documento id 2326857 - Documentos
+Diversos (APN 843 a.1-fls. 49-77): ‘A análise dos dados
+constante no computador pertencente a secretária de
+MARCELO ODEBRECHT permite confirmar que as
+informações constantes em seu celular são decorrentes de
+trocas de e-mail entre os funcionários da empresa e o
+próprio 28 MARCELO. No dia 30 de abril de 2013,
+MARCELO ODEBRECHT envia um e-mail para DARCI
+LUZ informando que possivelmente JOÃO CARLOS iria
+marcar um jantar com FERNANDO PIMENTEL em
+Brasília. [...] ‘Em outro e-mail, JOÃO CARLOS avisa que
+FERNANDO PIMENTEL (FP) teria sugerido a data de
+09/05/13 para o jantar, mas que por conta de uma viagem
+para a Angola teria que ser em outra data. Em seguida
+DARCI LUZ enviou um e-mail para MARCELO
+ODEBRECHT com cópia para outras pessoas avisando
+que JOÃO CARLOS tinha sinalizado que o jantar teria que
+ser no dia 20 ou 21/05/13’; 8. Documento id 2326857 Documentos Diversos (APN 843 a.1-fls. 49-77): ‘No
+telefone de MARCELO ODEBRECHT foi identificada uma
+anotação referente a vários assuntos dentre eles há
+palavras que fazem referência ao empreendimento
+ferroviário de Sarmiento na Argentina. Especificamente
+num trecho há a seguinte anotação: ‘FP vs Arg. Prov FP
+p/2014. FP vs Arg e Sarmiento (ver nota)’. 9. Documento
+id 2326857 - Documentos Diversos (APN 843 a.1-fls. 4977): ‘Por fim, no computador apreendido pertencente a
+Secretária DARCI LUZ e compartilhado
+com esta
+investigação foram identificadas trocas de e-mails entre
+MARCELO ODEBRECHT e o então Presidente do BNDS
+LUCIANO COUTINHO’ – segue, após essa menção, uma
+
+26
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 30 de 76
+
+PET 13482 AGR / DF
+
+série de descrições de e-mails.
+79.) Em relação à ‘Identificação dos interesses da
+ODEBRECHT
+relativos
+ao
+financiamento
+para
+empreendimentos em Moçambique’ (item 2 do Relatório),
+destaca-se as seguintes menções aos materiais
+compartilhados da Operação Lava Jato (grifamos): 10.
+Documento id 2326877 - Documentos Diversos (APN 843
+a.1-fls. 78-110): ‘Os
+dados obtidos por meio das
+informações compartilhadas pela operação Lava Jato,
+juntamente com os extratos telefônicos de FERNANDO
+PIMENTEL permitiram a esta equipe de análise confirmar
+os reais beneficiários do esquema criminoso ora
+investigado’; 11. Documento id 2326877 - Documentos
+Diversos (APN 843 a.1-fls. 78-110): No telefone celular de
+MARCELO BAHIA ODEBRECHT há um lembrete para a
+data de 29 09/10/2013 para início por volta das 20h30min
+(UTC – 2), com o assunto denominado ‘jantar FP’,
+localização ‘BSB – Casa JCN’. Além disso, há dados sobre
+o voo possivelmente utilizado por MARCELO
+ODEBRECHT para se deslocar até Brasilia/DF e um
+lembrete denominado ‘alinhamento com JCN’;
+12.
+Documento id 2326877 - Documentos Diversos (APN 843
+a.1-fls. 78-110): ‘Além disso, dados relativos a trocas de emails identificados no computador da secretária de
+MARCELO ODEBRECHT ratificam que o encontro foi
+realizado no dia 09/10/2013 na casa de JOÃO CARLOS
+NOGUEIRA em Brasília/DF. No dia 07 de outubro de
+2013, MARCELO ODEBRECHT enviou um e-mail para
+sua secretária DARCI LUZ, pedindo que ela confirmasse
+com JOÃO CARLOS NOGUEIRA (JCN) o jantar e o
+horário na quarta (dia 09/10/2013)’; 13. Documento id
+2326877 - Documentos Diversos (APN 843 a.1-fls. 78-110):
+‘No dia 08/10/13, DARCI LUZ enviou um e-mail para
+MARCELO ODEBRECHT afirmando que JOÃO CARLOS
+tinha avisado que ‘FP’ queria antecipar o jantar para às
+
+27
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 31 de 76
+
+PET 13482 AGR / DF
+
+19h30. Em outro e-mail, MARCELO respondeu que daria
+sim para o jantar ser antecipado’; 14. Documento id
+2326877 - Documentos Diversos (APN 843 a.1-fls. 78-110):
+‘A análise das mensagens trocadas juntamente com os
+dados obtidos por meio do compartilhamento de provas e
+extrato telefônico confirma que, ao utilizarem o termo
+‘chefe’, BENEDITO e JOÃO CARLOS NOGUEIRA se
+referiam as pessoas de FERNANDO DAMATA
+PIMENTEL e MARCELO BAHIA ODEBRECHT.’
+80.) Em relação à ‘Identificação de outros encontros
+entre FERNANDO
+PIMENTEL e MARCELO
+ODEBRECHT’ (item 3 do Relatório), destaca-se as
+seguintes menções aos materiais compartilhados da
+operação lava jato (grifamos): ‘A análise dos materiais
+fornecidos pela Operação Lava Jato em compartilhamento
+de provas permitiu a identificação de outros encontros,
+além dos já citados, entre FERNANDO PIMENTEL e o
+empresário MARCELO ODEBRECHT no período
+compreendido entre os anos de 2012 e 2015.’
+16.
+Documento id 2326877 - Documentos Diversos (APN 843
+a.1-fls. 78-110): ‘No
+telefone celular de MARCELO
+ODEBRECHT foi identificado um lembrete de 06/02/2012,
+tendo como assunto ‘Jantar Ministro Pimentel’ [...]’; 17.
+Documento id 2326877 - Documentos Diversos (APN 843
+a.1-fls. 78-110): ‘No
+telefone celular de MARCELO
+ODEBRECHT foi identificado outro lembrete para o dia
+06 de setembro de 2012, tendo como assunto ‘Almoço FP’
+e localização novamente na casa de JOÃO CARLOS
+NOGUEIRA.’; 18. Documento id 2326877 - Documentos
+Diversos (APN 843 a.1-fls. 78-110): ‘Sobre o mesmo
+encontro,
+também
+foram
+identificados
+e-mails
+armazenados no computador da secretária de MARCELO
+DEOBRECHT [...]’;
+19. Documento id 2326877 Documentos Diversos (APN 843 a.1-fls. 78-110): ‘Ainda
+no ano de 2012, dados constantes no telefone celular de
+
+28
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 32 de 76
+
+PET 13482 AGR / DF
+
+MARCELO ODEBRECHT e no computador de DARCI
+LUZ, sua secretária, revelam a ocorrência de um novo
+encontro na data de 13/11/2012’; 20. Documento id
+2326877 - Documentos Diversos (APN 843 a.1-fls. 78-110):
+‘No computador de DARCI LUZ foram identificados
+vários e-mails [...]. No mesmo dia,
+FERNANDO
+PIMNETEL respondeu o e-mail dizendo para MARCELO
+não se preocupar que justificaria sua ausência e afirmou
+que precisariam conversar, sobre ‘muitos
+assuntos
+novos...’’; 21. Documento id 2326877 - Documentos
+Diversos (APN 843 a.1-fls. 78-110): ‘No computador da
+secretária de MARCELO ODEBRECHT foi identificado
+um e-mail enviado por JOÃO CARLOS NOGUEIRA para
+DARCI LUZ em que aquele confirma o encontro entre
+FERNANDO PIMENTEL e MARCELO ODEBRECHT na
+data de 17/12/2014 na residência do próprio FERNANDO
+PIMENTEL [...]’;
+81.) Em relação à ‘Tratativas entre Marcelo
+Odebrecht e Guido Mantega sobre interesses na Argentina
+e Moçambique’ (item 5 do Relatório), destaca-se as
+seguintes menções aos materiais compartilhados da
+operação lava jato (grifamos): 22. Documento id 2326894 Documentos Diversos (APN 843 a.1-fls. 111-137):
+‘Analisando ainda tratativas relativas aos interesses da
+empresa Odebrecht em Moçambique e na Argentina, no
+computado apreendido utilizado pela secretária de
+Marcelo Odebrecht, foram identificadas trocas de e-mails
+em agosto de 2014 que indicam a atuação de MARCELO
+ODEBRECHT no Ministério da Fazenda, perante o então
+Ministro Guido Mantega, para os pleitos da empresa
+fossem atendidos a contento’; 23. Documento id 2326894
+- Documentos Diversos (APN 843 a.1-fls. 111-137): ‘Após
+confirmar o encontro, Marcelo Odebrecht enviou um email para vários diretores da empresa, dentre eles João
+Carlos Nogueira e Luiz Antonio Mameri solicitando uma
+
+29
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 33 de 76
+
+PET 13482 AGR / DF
+
+atualização até 6ª feira sobre ‘se anou algo Camex/Cofig
+dos últimos pedidos’’; 24. Documento id 2326894 Documentos Diversos (APN 843 a.1-fls. 111-137): No dia
+22/08/2014, João Carlos Nogueira respondeu a solicitação
+abordando três temas. UM relativo a Argentina, outros
+sobre equalização e interesses em Gana. Especificamente
+sobre a Argentina, João Carlos afirmou que a CAMEX
+ratificou que não haveria agravamento de risco para
+operações com promessa de garantias, dentre elas a de
+Sarmiento, possivelmente se referindo a situação de
+default perante credores externos. [...] No mesmo dia,
+Marcelo Odebrecht enviou outro e-mail perguntando de
+haveria algo que dependesse do ‘MF’, se referindo
+possivelmente ao Ministério/Ministro da Fazenda, e que
+‘não estava andado’ especificamente sobre Moçambique,
+Angola e Venezuela.’ 25. Documento id 2326894 Documentos Diversos (APN 843 a.1-fls. 111-137): ‘Em
+resposta, João Carlos enviou outro e-mail afirmando que
+especificamente ao tema ‘Moçambique’ haveria uma
+discussão sobre o aumento do limite de garantia soberana
+que iria chegar ao gabinete do MF, se referindo
+possivelmente ao Ministro da Fazenda’.
+82.) Portanto, com exaustiva utilização dos dados
+compartilhados da Operação
+lava jato, o Relatório
+apresenta inicia sua ‘Conclusão’ destacando que ‘Os
+dados obtidos do telefone celular de MARCELO
+ODEBRECHT, do computador de sua secretária DARCI
+LUZ, juntamente com os documentos apreendidos na sede
+da empresa Odebrecht em Brasília/DF permitiram uma
+complementação e ratificação das informações firmadas
+no RMA 057/2016’.
+83.) Confirmando o fato de que o compartilhamento
+de dados da operação lava jato foi decisivo para a
+investigação da ‘Operação Acrônimo’, o relatório final
+apresentado pela Polícia Federal (Documento id 2327031 -
+
+30
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 34 de 76
+
+PET 13482 AGR / DF
+
+Documentos Diversos (APN 843 a.1-fls. 280-323) cita
+novamente as informações obtidas do telefone celular de
+Marcelo Odebrecht, do computador de sua secretária e
+documentos apreendidos na sede da empresa Odebrecht,
+inclusive transcrevendo uma série de mensagens e e-mails
+deles extraídos.
+84.) Vale destacar que a solicitação de ofício (Doc. 09)
+para compartilhamento de provas da Operação lava jato
+consta às fls. 899 do doc. 10, em que Denisse Dias Rosas
+Ribeiro, Chefe do Núcleo de Inteligência Policial
+SR/DPF/DF, encaminhara expediente
+nos seguintes
+termos, com destaques nossos: ‘Comunico a Vossa
+Excelência por meio deste expediente que existem
+informações de relevo para a Operação Acrômio no bojo
+da investigação da Operação Lava Jato, diante desse
+cenário, informo que Representarei ao Juízo da 13ª Vara
+Federal da Subseção Judiciária de Curitiba/PR pela
+autorização de compartilhamento de provas existentes
+relativas à empresa ODEBRECHT que guardem vínculo
+com as hipóteses criminais apontadas no bojo do IPL
+213/2016 – SR/PF/DF (INQ 1105 – STJ), bem como de
+eventual(is) colaboração(ões) premiada(s) firmada(s) por
+pessoas ligadas a tal empresa ou com menção a fatos
+vinculados às mesmas hipóteses, obtidas na Operação
+LAVA
+JATO, para utilização do IPL n. 213/2016SR/DPF;DF (INQ 1105-STJ).’ (Documento id 2328535 Documentos Diversos) (APN 843 a.4-fls. 268-293)
+85.) O compartilhamento, como se sabe, foi
+autorizado pelo Juízo da 13ª Vara Federal da Subseção
+Judiciária de Curitiba/PR, registrando-se que a as provas
+compartilhadas estariam inseridas no contexto de
+‘diversas buscas e apreensões relacionadas à apuração de
+supostos crimes praticados através do Setor de Operações
+Estruturadas da Odebrecht’ (doc. 09).
+86.) Em outro ponto do inquérito acostado aos autos
+
+31
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 35 de 76
+
+PET 13482 AGR / DF
+
+da Ação de Improbidade, na representação por busca e
+apreensão temporária remetida ao STJ, há a indicação de
+análise de ‘fatos noticiados em fontes abertas’,
+especificamente relacionados ‘a apreensão de materiais
+durante a deflagração da 23ª Fase da OPERAÇÃO LAVA
+JATO (ACARAJÉ), que corroboram a existência de uma
+contabilidade paralela no âmbito da ODEBRECHT – cujo
+departamento era denominado Setor de Operações
+Estruturadas – que demonstram pagamento de propina no
+âmbito do grupo ODEBRECHT em contrapartida a
+obtenção de vantagens obtidas, relacionadas a obras e
+investimentos
+aplicação dentro do Brasil, junto ao
+Governo Brasileiro.’ (ID. n. 2327131, p. 32).
+87.) E a partir do compartilhamento, como se viu, as
+informações obtidas através dos aparelhos e documentos
+apreendidos na operação lava jato serviram como amplo
+acervo probatório para o desenvolvimento da ‘Operação
+Acrônimo’, Investigação que originou a Ação Penal nº 843
+– esta que, por sua vez, é o fundamento para a Ação de
+Improbidade em questão.
+88.) A evidência mais inequívoca da relação entre o
+compartilhamento de prova das operações lava jato e
+Acrônimo e a Ação de Improbidade consta na própria
+petição inicial desta ação, que, como descrita na síntese
+dos fatos, faz expressa menção a ‘dados gravados nas
+mídias apreendidas por ordem judicial, compartilhados
+pelo Juízo da 13ª Vara Federal de Curitiba-PR’. (doc. 06,
+p. 18). Ou seja, além de formar o acervo probatório da
+APN 843, as informações obtidas pelas mídias
+apreendidas na
+operação lava jato são citadas
+expressamente na apresentação dos fatos que constituem
+a causa de pedir da Ação de Improbidade.
+89.) E qual é o busílis? O busílis é que tais elementos
+de prova foram declarados nulos pelo Supremo Tribunal
+Federal!
+
+32
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 36 de 76
+
+PET 13482 AGR / DF
+
+90.) Trata-se, precisamente, do fato de que a decisão
+proferida pelo Ministro Dias Toffoli na Pet 12.357/DF
+declarou a nulidade absoluta de todos os atos praticados
+em desfavor de Marcelo Odebrecht no âmbito dos
+procedimentos vinculados à Operação Lava Jato.
+91.) Ora, se todos os atos praticados em desfavor de
+Marcelo Odebrecht no âmbito dos procedimentos
+vinculados à operação lava jato são nulos – e em relação a
+isso não há qualquer discussão –, não há dúvida de que as
+provas compartilhadas da operação lava jato com a
+‘Operação Acrônimo’ passaram a ser ilícitas por derivação
+inequívoca. Até mesmo porque os principais elementos de
+prova em discussão são o telefone celular do próprio
+Marcelo Odebrecht e o computador de sua secretária,
+Darci Luz. Trata-se de simples decorrência lógica da
+decisão judicial em questão.
+92.) Além disso, já se evidenciou também que, por
+meio da decisão proferida pelo Min. Dias Toffoli na Pet n.
+11.972/DF, em fevereiro de 2024, o STF declarou
+expressamente que as premissas adotadas em relação ao
+então Reclamante Luiz Inácio Lula da Silva, são idênticas
+ou semelhantes às que foram adotadas em relação à
+Odebrecht para autorizar o seu acesso à íntegra do
+material proveniente da Operação Spoofing e suspender
+os pagamentos referentes ao seu acordo de leniência.
+93.) Isso porque o Supremo Tribunal Federal
+reconheceu que a Novonor/Odebrecht era a vítima central
+das ilegalidades praticadas pela força tarefa lava jato, de
+modo que os atos contra ela praticados ocorreram em um
+contexto de conluio entre juiz e procuradores e supressão
+de garantias processuais
+penais, que configuravam
+flagrante exceção. Daí a imprestabilidade dos elementos
+de
+prova, não apenas decorrentes do Acordo de
+Leniência, como também dos atos praticados para coagir
+a empresa a celebrar os acordos com Ministério Público
+
+33
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 37 de 76
+
+PET 13482 AGR / DF
+
+Federal, tais como: prisões preventivas infundadas,
+mandatos de busca e apreensão e cooperações
+internacionais informais que ocorriam à margem de
+qualquer legalidade.
+94.) Vale dizer: se são imprestáveis as provas
+decorrentes do Acordo de Leniência, porque, nos termos
+da decisão do Min. Dias Toffoli, teria sido celebrado com
+quebra de voluntariedade e num contexto de flagrante
+ilegalidade, sobretudo no que tange à parcialidade do
+juízo da 13ª Vara Federal da Seção Judiciária de
+Curitiba/PR, a imprestabilidade deve ser estendida
+também aos atos que foram praticados antes da celebração
+do Acordo de Leniência, pois eivados das mesmas
+ilegalidades.
+95.) Ainda, rememora-se, neste ponto, que a Ação de
+Improbidade foi ajuizada contra sete réus: (i) Fernando
+Damata Pimentel, (ii) Eduardo Lucas Silva Serrado, (iii)
+Benedito Rodrigues de Oliveira Neto, (iv) Pedro Augusto
+de Medeiros, (v) Construtora Norberto Odebrecht S/A, (vi)
+Marcelo Bahia Odebrecht e (vii) João Carlos Mariz
+Nogueira (ora Requerente).
+96.) No caso dos últimos três citados, o réu João
+Carlos Mariz Nogueira (ora Requerente) não apenas
+compartilha em relação à Odebrecht S/A e a Marcelo
+Odebrecht a condição de corréu, como também, pela
+narrativa dos fatos que consta na petição inicial da Ação
+de Improbidade e pelo conteúdo constante na APN 843,
+não há dúvidas de que as condutas atribuídas a João
+Carlos Nogueira são inteiramente dependentes dos outros
+dois.
+97.) Ora, se João Nogueira agiu no contexto narrado,
+é evidente que o fazia em nome dos outros dois, o que
+torna suas condutas inseparáveis. E por uma questão de
+isonomia, conforme será abordado adiante, se as provas
+utilizadas no âmbito da Ação de Improbidade originadas
+
+34
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 38 de 76
+
+PET 13482 AGR / DF
+
+do compartilhamento com a Operação Lava Jato são
+nulas/imprestáveis em relação aos corréus Marcelo
+Odebrecht e Odebrecht S/A por força de decisão judicial
+proferida por este Supremo Tribunal Federal, não
+poderiam deixar de ser em relação ao Requerente, João
+Carlos Nogueira, até mesmo porque o que os vincula são
+circunstâncias
+de
+natureza
+objetiva,
+e
+não
+pessoal/subjetiva.’
+
+No que diz respeito à extensão da eficácia da decisão em
+favor do requerente, sustenta, ainda, que:
+‘98.) Há uma circunstância que merece destaque, que
+é a de que ao Requerente João Nogueira é atribuída
+posição ancilar em relação às condutas do corréu Marcelo
+Odebrecht, razão pela qual a ilegalidade de provas que
+conduz ao trancamento das 36 ações em relação a um não
+pode produzir nada que não o trancamento da Ação de
+Improbidade em relação ao outro.
+99.) A petição inicial do Ministério Público Federal
+não deixa dúvidas quanto à posição auxiliar de João
+Nogueira. Vejamos: ‘Nessa oportunidade, João Nogueira,
+atendendo aos desígnios de Marcelo Odebrecht, aceitou
+em nome deste a solicitação e prometeu R$ 15.000.000,00
+(quinze milhões de reais) como vantagem indevida’ (doc.
+06, p. 12 – destaques nossos). ‘Entre 1º/4/13 e 3/4/13, os
+requeridos Benedito e João Nogueira, representando os
+interesses de Fernando Pimentel e Marcelo Odebrecht,
+respectivamente, trocaram novas mensagens para ajustar
+outra entrega de valores (APN 843 a.3, fls. 79/80).’ (doc.
+06, p. 16 – destaques nossos) ‘No dia 12/11/13, nova
+remessa de valores da Odebrecht a Fernando Pimentel foi
+entregue a Pedro Augusto em procedimento gerenciado
+por Benedito e João Nogueira.’ (doc. 06, p. 22 – destaques
+nossos)
+
+35
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 39 de 76
+
+PET 13482 AGR / DF
+
+100.) Foi essa também a conclusão a que chegou a
+sentença absolutória: ‘Atribui a PEDRO AUGUSTO DE
+MEDEIROS e JOÃO CARLOS MARIZ NOGUEIRA a
+conduta de auxiliar os demais Acusados no recebimento
+da vantagem indevida.’ (doc. 05, p. 6 – destaques nossos)
+101.) Como se sabe, de há muito a jurisprudência do
+STF, interpretando o art. 580 do Código de Processo
+Penal, consolidou-se no sentido de permitir (inclusive em
+outros meios de impugnação que não o recurso stricto
+sensu) a extensão de efeitos de decisão anterior quando o
+pedido estiver embasado em circunstâncias objetivas, isto
+é, aquelas 37 que não são ‘de caráter exclusivamente
+pessoal’, precisamente porque, se assim não fizer, negará
+concretude ao princípio constitucional da isonomia.
+102.) Tais pedidos de extensão, vale destacar, não são
+permitidos apenas em sede de recurso ou de habeas
+corpus: qualquer ação de impugnação os bem receberia, e
+a reclamação tem se mostrado o espaço mais frutífero
+para tanto. A esse respeito, confira se a lição de Aury
+Lopes Júnior: ‘Por fim, a regra da extensão subjetiva dos
+efeitos dos recursos também pode ser aplicada nas ações
+autônomas de impugnação, sendo costumeira sua
+invocação em sede de habeas corpus, mandado de
+segurança e mesmo na revisão criminal. Importa é manter
+a isonomia de tratamento jurídico para réus que estejam
+na mesma situação jurídico--processual, evitando decisões
+conflitantes e tutela injustamente diferenciada.’
+103.) Aliás, na própria decisão de 6.9.2023, emitida
+nos autos da Rcl 43.007, o Exmo. Relator fez constar
+precisamente a possibilidade de extensão quando não
+existirem óbices de natureza subjetiva: ‘Diante desse
+cenário, é preciso reconhecer que as causas que levaram à
+declaração de imprestabilidade dos referidos elementos de
+prova são objetivas, não se restringindo ao universo
+subjetivo do reclamante, razão pela qual o reconhecimento
+
+36
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 40 de 76
+
+PET 13482 AGR / DF
+
+da referida imprestabilidade deve ser estendido a todos
+os feitos que tenham se utilizado de tais elementos, seja na
+esfera criminal, seja na esfera eleitoral, seja em processos
+envolvendo ato de improbidade administrativa, seja,
+ainda, na esfera cível.’ (p. 85/135 da decisão de 06/09/2023
+– destaques nossos).
+104.) Isso significa, portanto, que a invalidação de
+ação contra o corréu Marcelo Odebrecht por uso de provas
+declaradas imprestáveis pelo STF nas decisões ora
+apontadas como paradigmas deve, necessariamente,
+conduzir ao trancamento da Ação de Improbidade com
+relação ao Requerente João Nogueira.’
+
+Quanto à ausência de prova da existência do fato e à
+atipicidade das condutas dos réus reconhecidas na ação penal e
+seus reflexos na ação de improbidade, assevera o seguinte:
+‘105.) Demonstramos acima que: (i) a ‘Operação
+Acrônimo’ se valeu de provas (ilegais) produzidas no
+âmbito da lava jato, declaradas nulas e imprestáveis pelo
+STF; (ii) o Requerente figurou tanto na AP n° 843 como na
+Ação de Improbidade como uma espécie de ‘auxiliar’ do
+corréu Marcelo Odebrecht, de modo que sua condenação
+solitária seria logicamente impossível; e (iii) por uma
+questão de isonomia, a ilegalidade das provas contra o
+corréu Marcelo Odebrecht deve beneficiar, também, o
+Requerente João Nogueira, até mesmo porque o vínculo
+que os une é de natureza objetiva, sem quaisquer
+distinções subjetivas que pudessem impedir a extensão da
+invalidade das provas.
+106.) Concentremo-nos, agora, no fato de que a Ação
+de Improbidade parte dos exatos mesmos fatos e se vale
+das exatas mesmas provas (ilegais) que as da AP n° 843.
+Como visto acima, ambas as circunstâncias foram
+confessadas pelo MPF.
+
+37
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 41 de 76
+
+PET 13482 AGR / DF
+
+107.) A referida Ação Penal, contudo, ABSOLVEU o
+Requerente com base em ausência de prova do fato (art.
+386, II, CPP) e, também, sob o fundamento de que haveria
+atipicidade das condutas imputadas aos réus. O decisum
+não poderia ter sido mais claro com relação a ambos os
+pontos. Vejamos: ‘As provas coligidas nos autos não
+corroboram a imputação. (...) Declarações prestadas por
+corréus colaboradores e mensagem eletrônica trocada por
+um deles com um dos acusados, ao contrário do que
+sustenta o Parquet, não demonstram o cometimento dos
+crimes contra a administração pública referidos na inicial
+acusatória. (...) Em verdade, o Ministério Público Federal
+não trouxe aos autos prova alguma dos fatos que alegou.
+Firma-se em relatos prestados por réus colaboradores, os
+quais sequer permitem a inauguração da instância penal
+(Lei nº 12.850/2013, art. 4º, § 16, II), dando, ao final, como
+provada a hipótese acusatória. (...) Por todo o exposto,
+JULGO IMPROCEDENTE a ação para o fim de
+ABSOLVER os réus FERNANDO DAMATA PIMENTEL,
+EDUARDO LUCAS SILVA SERRANO, BENEDITO
+RODRIGUES DE OLIVEIRA NETO, PEDRO AUGUSTO
+DE MEDEIROS, JOÃO CARLOS MARIZ NOGUEIRA e
+MARCELO BAHIA ODEBRECHT, por isso que não há
+prova da existência do fato (CPP art. 386, II).’ (doc. 05, p. 8,
+9 e 11 – destaques nossos).
+108.) Além disso, afirmou que ‘[e]m assim sendo,
+mesmo que se superasse a completa ausência de
+demonstração dos fatos alegados pelo Acusador, é de se
+reconhecer a atipicidade da conduta imputada a título de
+corrupção passiva.’ (doc. 05, p. 10 – destaques nossos).
+109.) Está demonstrado, portanto, que o Requerente
+foi absolvido por ausência de prova dos fatos alegados e
+por atipicidade da conduta. Tais reconhecimentos não
+podem deixar de produzir efeitos na Ação de
+Improbidade, porque, uma vez mais, esta se baseia nos
+
+38
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 42 de 76
+
+PET 13482 AGR / DF
+
+exatos mesmos fatos da Ação Penal.
+110.) Gustavo Henrique Badaró pontua que a
+‘dúvida sobre a existência material do fato’ remete a
+sentença absolutória ao princípio do in dubio pro reo.
+Pierpaolo Cruz Bottini, por sua vez, analisando a ideia
+corrente – e já relativizada pelo STF na tese de
+repercussão geral n° 1.238 – de que existiria uma
+independência plena entre as esferas
+penal, cível,
+administrativa etc, observou, de modo muito arguto, que
+‘os valores protegidos pelo Direito Penal são os mais
+relevantes e importantes para o funcionamento de
+determinada sociedade. A lógica do princípio da
+fragmentariedade impõe que a norma penal declare
+injusto apenas aquele comportamento absolutamente
+inaceitável, insuportável para o convívio em sociedade, e
+rechaçado pelo ordenamento jurídico como um todo’.
+111.) Ora, se o Requerente foi absolvido em ação
+penal, vale dizer, na seara mais rigorosa da repressão
+estatal, não há como se justificar, ao menos não sem grave
+violação da unicidade estatal, que os mesmos fatos podem
+ser ocasião para a
+persecução por improbidade
+administrativa.
+112.) Não será despropositado mencionar, aqui, que
+este STF, ao analisar o Tema RG 1.199, explicitou, quanto
+à exigência de dolo, que a nova LIA não permite ‘qualquer
+hipótese em que o autor da ação aponte genericamente
+condutas de agente público ou dos demais réus sem a
+imputação do necessário elemento subjetivo do tipo e sem
+qualquer indicação que evidenciasse a intenção de praticar
+ato de corrupção, caracterizando a acusação tão somente
+responsabilidade objetiva do réu, por exercer
+determinado cargo ou função pública’. Assim, deixou-se
+claro que ‘as normas aumentaram o nível de exigência
+para caracterização dos atos de improbidade, não
+admitindo a modalidade culposa, nem mesmo quando
+
+39
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 43 de 76
+
+PET 13482 AGR / DF
+
+caracterizada culpa grave do agente. Ampliou-se o ônus
+probatório do órgão autor da denúncia da prática.’
+(destaques nossos).
+113.) É uma inconsistência lógica a persecução do
+Requerente por ato de improbidade administrativa
+(necessariamente doloso) com base em fatos já
+reconhecidos na instância penal como atípicos.
+114.) Como bem lecionou Juarez Tavares, ‘o dolo será
+a consciência e vontade de realizar os elementos objetivos
+do tipo, tendo como objetivo final a lesão ou o perigo
+concreto de lesão do bem jurídico.’ E, adiante, que ‘o dolo
+deve estar presente’.
+Pierpaolo Cruz Bottini.
+‘Independência das esferas administrativa e penal é mito’.
+In: Consultor Jurídico, 21.5.2013. Disponível em:
+https://www.conjur.com.br/2013-mai-21’.
+115.) No mesmo sentido são as valiosas lições de
+Juarez Cirino dos Santos, para quem o dolo é composto de
+um elemento volitivo e um elemento intelectual,
+consistindo na ‘vontade consciente de realizar um crime
+ou - mais tecnicamente - a vontade consciente de realizar
+o tipo objetivo de um crime, também definível como saber
+e querer em relação às circunstâncias de fato do tipo
+legal.’
+116.) Dito de outra forma: se não há tipicidade,
+evidentemente não pode haver dolo. E se não há dolo,
+não
+pode
+evidentemente
+existir
+improbidade
+administrativa. Trata-se de um efeito da absolvição penal
+nas ações de caráter cível, como é o caso da Ação de
+Improbidade em questão.
+117.) Vale mencionar que é esta a posição do STF:
+Reclamação constitucional. 2. Direito Administrativo
+Sancionador. Ação civil pública por ato de improbidade
+administrativa. 3. Possibilidade de se realizar, em sede de
+reclamação, um cotejo analítico entre acervos probatórios
+de procedimentos distintos. Caracterizada a relação de
+
+40
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 44 de 76
+
+PET 13482 AGR / DF
+
+aderência temática entre a decisão reclamada e a decisão
+precedente. 4. Identidade entre os acervos
+fáticoprobatórios da ação de improbidade e da ação penal
+trancada pelo STF nos autos do HC 158.319/SP. Negativa
+de autoria como razão determinante do trancamento do
+processo penal. Obstáculo ao reconhecimento da autoria
+na ação civil de improbidade. Independência mitigada
+entre diferentes esferas sancionadoras. Vedação ao bis in
+idem. 6. Liminar confirmada. Reclamação procedente.
+Determinado o trancamento da ação civil pública de
+improbidade em relação ao reclamante, com sua exclusão
+do polo passivo. Desconstituição definitiva da ordem de
+indisponibilidade de bens.
+118.) Destacamos do acórdão acima ementado o
+trecho abaixo, por ser particularmente elucidativo: ‘Tal
+independência, contudo, é complexa e deve ser
+interpretada como uma independência mitigada, sem
+ignorar a máxima do ne bis in idem. Explica-se: o
+subsistema do direito penal comina, de modo geral,
+sanções mais graves do que o direito administrativo
+sancionador. Isso significa que mesmo que se venha a
+aplicar princípios penais no âmbito do direito
+administrativo sancionador – premissa com a qual
+estamos totalmente de acordo, o escrutínio do processo
+penal será sempre mais rigoroso. A consequência disso é
+que a compreensão acerca de fatos fixada definitivamente
+pelo Poder Judiciário no espaço do subsistema do direito
+penal não pode ser revista no âmbito do subsistema do
+direito administrativo sancionador. (...) A adoção de uma
+noção de independência mitigada entre as esferas penal e
+administrativa – esta parece ser a posição mais acertada
+diante dos princípios constitucionais reitores do sistema
+penal, principalmente da proporcionalidade, da
+subsidiariedade e da
+necessidade (...) nos leva ao
+entendimento de que a mesma narrativa fático probatório
+
+41
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 45 de 76
+
+PET 13482 AGR / DF
+
+que deu ensejo a uma decisão de mérito definitiva na
+esfera penal, que fixa uma tese de inexistência do fato ou
+de negativa de autoria, não pode provocar novo processo
+no âmbito do direito administrativo sancionador –
+círculos concêntricos de ilicitude não podem levar a uma
+dupla persecução e, consequentemente, a uma dupla
+punição, devendo ser o bis in idem vedado no que diz
+respeito à persecução penal e ao direito administrativo
+sancionador pelos mesmos fatos.’ (STF, 2ª T., Rcl 41557,
+rel. Min. Gilmar Mendes, j. 15.12.2020, DJUe 10.3.2021.
+Destaques nossos. STF, 2ª T., Rcl 41.557, rel. Min. Gilmar
+Mendes, j. 15.12.2020, DJUe 10.3.2021, p. 19 e 21/31 do
+acórdão).
+119.) O caso do Requerente é, vis-à-vis, idêntico.
+Reconheceu-se na esfera penal a atipicidade da conduta,
+que, como visto, é condição de existência do dolo,
+condição de possibilidade, por sua vez, da persecução por
+improbidade administrativa.
+120.) No caso acima, houve, portanto, mitigação da
+independência entre as esferas administrativa e
+jurisdicional-penal em razão de tratarem ambas dos
+mesmos fatos, reconhecendo-se, portanto, os reflexos civis
+da absolvição penal, e a mesma solução deve ser aplicada
+ao presente caso.
+121.) A necessidade de trancamento da Ação de
+Improbidade movida contra o Requerente é ainda mais
+evidente quando consideramos o quanto decidido pelo
+eminente Min. Dias Toffoli nos autos da Rcl 71.505, na
+qual trancou-se ação de improbidade movida contra o
+atual Vice-Presidente da República Geraldo Alckmin
+porque a referida ação baseava-se em provas declaradas
+ilícitas pelo STF, mais especificamente aquelas obtidas
+com base nos sistemas Drousys e My Web Day B da
+Odebrecht, tal como ocorreu no presente caso.
+122.) Além disso, reconheceu-se, também, o seguinte:
+
+42
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 46 de 76
+
+PET 13482 AGR / DF
+
+‘Assentadas essas premissas, que me parecem
+fundamentais, mostra-se necessário o arquivamento da
+ação de improbidade objeto destes autos, em que se
+controverte sobre os mesmos fatos abarcados por juízo
+negativo na esfera criminal em favor do reclamante e de
+todos os demais corréus - ausência de elementos
+probatórios mínimos -, ainda que tal providência se faça
+de ofício. (...) Ora, tendo em consideração que os
+elementos probatórios da ação de improbidade são
+decorrentes do material probatório arrecada na ação
+penal cujo trancamento foi determinado por esta Suprema
+Corte, fica devidamente assentada a hipótese de juízo
+negativo na seara criminal a afastar, definitivamente, o
+prosseguimento da ação de improbidade administrativa,
+considerada especialmente a hipótese dos autos.
+123.) Mais não precisa ser dito. O caso dos autos é
+rigorosamente idêntico àquele transcrito acima, razão
+pela qual merece a aplicação da mesma solução jurídica, a
+saber, o trancamento da Ação de Improbidade.’
+Ao final, requer o seguinte:
+‘I.
+LIMINARMENTE,
+seja
+determinada
+a
+SUSPENSÃO da Ação Civil Pública por Ato de
+Improbidade Administrativa nº 1008682-48.2017.4.01.3400
+em relação ao Requerente; e
+II. NO MÉRITO, o TRANCAMENTO DEFINITIVO
+da referida Ação de Improbidade, em
+relação ao
+Requerente.’
+
+É o relatório. Fundamento e decido.
+Bem examinados os autos, inicialmente, deve-se tecer
+algumas considerações acerca do instituto da probidade
+administrativa para melhor identificarmos a sua essência.
+A palavra probidade, que provém do vocábulo latino
+
+43
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 47 de 76
+
+PET 13482 AGR / DF
+
+probitas , significa retidão, honestidade, pudor, honradez. Seu
+antônimo, improbidade, significa a inobservância desses
+valores. Em latim, improbitate ou improbitas significa
+desonestidade, falsidade, imoralidade, deslealdade, corrupção.
+Ímprobo é aquele que não procede bem ou procede com
+malícia. E, como alerta José dos Santos Carvalho Filho,
+‘[n]ão há propriamente graus de improbidade; a
+avaliação desta é feita mais em razão dos efeitos que
+produz. Contudo, é indiscutível a gravidade da
+improbidade administrativa: de uma lado, atinge a
+sociedade,
+cujos
+interesses
+são
+geridos
+pela
+Administração, de outro, sua execução é imputada, na
+maioria das vezes, ao próprio administrador público (…).
+Pelos reflexos danosos que provoca na Administração
+Pública, a improbidade administrativa é regulada por um
+microssistema normativo no qual também se inclui a
+Constituição, a esta somada legislação específica
+disciplinadora’. (Improbidade administrativa: prescrição
+e outros prazos extintivos. São Paulo: Atlas, 2012. p. 98).
+
+Sob o aspecto histórico, o ordenamento jurídico brasileiro
+preocupou-se em reprimir condutas ímprobas desde o ano de
+1941, por meio do DL nº 3.240/41, o qual sujeitava a sequestro
+os bens de pessoas indicadas por crimes de que resultassem
+prejuízos para a Fazenda Pública.
+O tema ganhou fisionomia constitucional em 1946,
+quando a Constituição de então tratou de proteger a
+moralidade administrativa em seu art. 141, § 31, 2ª parte, que
+dispunha o seguinte:
+‘A lei disporá sobre o sequestro e o perdimento de
+bens, no caso de enriquecimento ilícito, por influência ou
+com abuso de cargo ou função pública, ou emprego em
+entidade autárquica.’
+
+44
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 48 de 76
+
+PET 13482 AGR / DF
+No âmbito infraconstitucional, ainda que de forma tímida,
+alguns diplomas legais trataram a matéria. A Lei Pitombo
+Godói Ilha (Lei nº 3.164/57), em seu art. 1º, especificou que
+‘[s]ão sujeitos a sequestro e à sua perda em favor da
+Fazenda Pública os bens adquiridos pelo servidor público,
+por influência ou abuso de cargo ou função pública, ou
+emprêgo em entidade autárquica, sem prejuízo da
+responsabilidade criminal em que tenha aquêle incorrido.’
+Em 1958, a Lei Bilac Pinto (Lei nº 3.502/58), em seu art. 1º,
+veio a tratar de forma similar que
+‘o servidor público, ou o dirigente, ou o empregado
+de autarquia que, por influência ou abuso de cargo ou
+função, se beneficiar de enriquecimento ilícito, ficará
+sujeito ao sequestro e perda dos respectivos bens ou
+valores.’
+Avançando para a Constituição Federal de 1988, registrese, desde logo, que nela estão previstas sanções severas ‒
+contudo, necessárias ‒ àqueles que tenham violado esse bem
+jurídico, consoante dispõe o art. 37, § 4º, da nossa Carta Magna,
+in verbis :
+‘Art. 37. A administração pública direta e indireta de
+qualquer dos Poderes da União, dos Estados, do Distrito
+Federal e dos Municípios obedecerá aos princípios de
+legalidade, impessoalidade, moralidade, publicidade e
+eficiência e, também, ao seguinte: (Redação dada pela
+Emenda Constitucional nº 19, de 1998)
+(...)
+§ 4º - Os atos de improbidade administrativa
+importarão a suspensão dos direitos políticos, a perda da
+
+45
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 49 de 76
+
+PET 13482 AGR / DF
+
+função pública, a indisponibilidade dos bens e o
+ressarcimento ao erário, na forma e gradação previstas em
+lei, sem prejuízo da ação penal cabível.’
+
+Nesse panorama, insere-se a Lei nº 8.429/92, a qual versa
+sobre a improbidade administrativa e que foi recentemente
+modificada pela Lei nº 14.230/21.
+Analisadas as premissas do caso concreto, anoto que não
+vislumbro a existência de elementos probatórios mínimos que
+justifiquem o prosseguimento da ação de improbidade em face
+do ora requerente.
+Com efeito, conforme se nota da sentença absolutória
+proferida pelo Juízo da 12ª Vara Federal do Distrito Federal na
+Ação Penal nº 1021991-05.2018.4.01.3400 (e-Doc. 6, fls. 6), que
+tramitou originariamente perante o Superior Tribunal de Justiça
+como Ação Penal nº 843/DF:
+‘A denúncia atribui a FERNANDO DAMATA
+PIMENTEL, EDUARDO LUCAS SILVA SERRANO,
+BENEDITO RODRIGUES DE OLIVEIRA NETO, PEDRO
+AUGUSTO DE MEDEIROS, JOÃO CARLOS MARIZ
+NOGUEIRA e MARCELO BAHIA ODEBRECHT o
+cometimento dos delitos de corrupção passiva e corrupção
+ativa. Afirma que FERNANDO DA MATA PIMENTEL,
+entre 1º de janeiro de 2011 e 12 de fevereiro de 2014, na
+qualidade de Presidente da Câmara de Comércio Exterior
+(CAMEX), valendo-se do ‘... auxílio de EDUARDO
+SERRANO e BENEDITO, solicitou vantagem indevida a
+MARCELO ODEBRECHT e JOÃO NOGUEIRA, que
+aceitaram a solicitação e prometeram uma determinada
+quantia, paga em espécie, num procedimento
+dissimulatório estruturado pela empresa’ (ID 13046495,
+pp. 05-06).
+Atribui a PEDRO AUGUSTO DE MEDEIROS e
+JOÃO CARLOS MARIZ NOGUEIRA a conduta de
+
+46
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 50 de 76
+
+PET 13482 AGR / DF
+
+auxiliar os demais Acusados no recebimento da vantagem
+indevida.
+11. As provas coligidas nos autos não corroboram a
+imputação.’
+
+A exordial da ação de improbidade, por sua vez, consigna
+o seguinte:
+‘Figuram como requeridos, na presente ação, a
+empresa Construtora Norberto Odebrecht S/A, Fernando
+Damata Pimentel, Eduardo Lucas Silva Serrano, Benedito
+Rodrigues de Oliveira Neto, Pedro Augusto de Medeiros,
+Marcelo Bahia Odebrecht e João Carlos Mariz Nogueira. O
+primeiro, então Ministro de Estado do Ministério do
+Desenvolvimento, Indústria e Comércio Exterior – MDIC
+e, nessa condição, presidente da Câmara de Comércio
+Exterior – CAMEX, da Presidência da República, cometeu
+ato de improbidade administrativa que importa
+enriquecimento ilícito e violação a princípios ao solicitar e
+receber vantagem patrimonial indevida em razão do cargo
+que exercia. Para tanto, contou com o auxílio do chefe de
+seu gabinete Eduardo Serrano, do empresário Benedito
+Rodrigues de Oliveira Neto e de Pedro Augusto, os quais
+também incorreram na prática de atos ímprobos previstos
+na Lei nº 8.429/92.
+Já os requeridos Marcelo Odebrecht e João Carlos
+Mariz Nogueira tinham interesses que poderiam ser
+amparados pela ação do então Ministro de Estado
+Fernando da Mata Pimentel, em razão de suas atribuições
+como presidente da Câmara de Comércio Exterior –
+CAMEX, tendo concorrido para a prática do ato ímprobo
+por meio do pagamento de vantagem patrimonial
+indevida a Fernando.’ (e-Doc. 7, fls. 6).
+Nota-se, desse modo, que a ação penal e a ação de
+
+47
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 51 de 76
+
+PET 13482 AGR / DF
+
+improbidade administrativa têm por objeto a mesma conduta,
+devendo-se destacar o que foi consignado pelo juízo penal
+absolutório:
+‘Em suas alegações finais, oportunidade em que
+ratificou tão somente as imputações dirigidas a
+FERNANDO
+DAMATA
+PIMENTEL,
+BENEDITO
+RODRIGUES DE OLIVEIRA NETO e JOÃO CARLOS
+MARIZ NOGUEIRA, diz o Ministério Público Federal ‘...
+que a denúncia está arrimada nas seguintes provas
+principais: as colaborações premiadas de BENEDITO
+RODRIGUES, MARCELO ODEBRECHT e JOÃO
+NOGUEIRA; nas mensagens telefônicas trocadas entre
+BENEDITO e JOÃO NOGUEIRA’ (ID 1096033795, p. 05,
+início).
+Após afirmar que as mensagens trocadas entre
+BENEDITO e JOÃO ‘... efetivamente provam que houve o
+repasse de dinheiro em espécie por parte de JOÃO
+NOGUEIRA a BENEDITO’ (ID 1096033795, p. 05),
+arremata, verbis:
+‘É dizer, não se afigura crível imaginar que
+JOÃO NOGUEIRA, diretor experiente e acostumado
+a tratar com o meio político - conforme se pode
+depreender de suas declarações no Acordo de
+Colaboração Premiada -, teria pago vultosas quantias
+em dinheiro a BENEDITO se não tivesse plena
+convicção de que este agia em nome de FERNANDO
+PIMENTEL’ (ID 1096033795, p. 05).
+Declarações prestadas por corréus colaboradores e
+mensagem eletrônica trocada por um deles com um dos
+acusados, ao contrário do que sustenta o Parquet, não
+demonstram o cometimento dos crimes contra a
+
+48
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 52 de 76
+
+PET 13482 AGR / DF
+
+administração pública referidos na inicial acusatória.
+Em verdade, o Ministério Público Federal não trouxe
+aos autos prova alguma dos fatos que alegou. Firma-se em
+relatos prestados por réus colaboradores, os quais sequer
+permitem a inauguração da instância penal (Lei nº
+12.850/2013, art. 4º, § 16, II), dando, ao final, como provada
+a hipótese acusatória.
+13. Como se isso não bastasse, ainda que se tenha
+como demonstrada a existência da suposta solicitação de
+vantagem indevida por parte de FERNANDO DAMATA
+PIMENTEL, o que se admite ad argumentandum tantum,
+é de se reconhecer, tal como sustentou a Defesa
+(memoriais escritos, ID 1157393257, p. 07), que a conduta
+descrita na inicial acusatória ‘... não reúne as elementares
+do crime de corrupção passiva! A começar pelo núcleo do
+tipo: vantagem indevida. O que se está a dizer é que a
+doação eleitoral, permitida às pessoas jurídicas á época,
+seria indevida em razão de se encontra vinculada ao poder
+e prestígio de que gozava o então Ministro de Estado’
+(grifos do original).
+Daí porque acertadamente concluiu, in verbis:
+‘28. Dando-se de barato que houvesse mesmo a
+solicitação – que comprovadamente NÃO HOUVE! –
+ainda assim não se teria por indevida a doação
+futura, dado não se poder afirmar sequer a existência
+de candidatura àquele tempo!
+29. Mais. Se o próprio MP reconhece que a
+doação teria sido feita para a cooptação de simpatia e
+atenção do então Ministro de Estado, e essa teria sido
+a intenção dos doadores, constata-se, mais uma vez,
+que nada se fez em razão da função. É claro que o
+crime de corrupção não exige a prática de ato de
+ofício, mas exige que a solicitação ou aceitação se dê
+em razão dela.
+
+49
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 53 de 76
+
+PET 13482 AGR / DF
+
+30. A acusação quer alterar a inicial, para
+trasmudar a corrupção que buscava amparo na
+prática real de ato de ofício, para concluir que
+prestígio e poder substituiriam a elementar ‘em
+razão da função’, exigida pelo tipo penal. Confundese, à evidência, as possibilidades de influência futura
+da autoridade com o exercício efetivo ou possível da
+função. A posição de Ministro de Estado pode
+angariar simpatia, mas é o exercício dessa função
+executiva que deve ser o objeto da solicitação ou
+aceitação’ (grifos do original – memoriais escritos,
+ID1157393257, p. 07).
+
+Em assim sendo, mesmo que se superasse a completa
+ausência de demonstração dos fatos alegados pelo
+Acusador, é de se reconhecer a atipicidade da conduta
+imputada a título de corrupção passiva.’ (e-Doc. 6, fls. 7/8).
+Houve, portanto, em sede penal, o reconhecimento da
+ausência de comprovação do fato, bem como da tipicidade da
+conduta imputada ao requerente.
+No âmbito da inicial da ação de improbidade
+administrativa, o Parquet afirma que o requerente incorreu nas
+condutas descritas no art. 11, caput, da Lei nº 8.429/92, na
+redação anterior à Lei nº 14.231/21, referindo acervo probatório
+relacionado aos autos da Ação Penal nº 843/DF, que tramitou
+perante o STJ e teve a competência declinada para a 10ª Vara
+Federal/DF:
+‘Segundo o material probatório colhido durante a
+investigação, no dia 6/2/12, Fernando Pimentel encontrouse com Marcelo Odebrecht na residência de João Nogueira
+localizada na SHIS QI 9, conjunto 10, casa 13, Brasília-DF,
+conforme anotações gravadas no celular do empresário
+apreendido por ordem judicial (APN 843 a.1, fls. 100/101).
+
+50
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 54 de 76
+
+PET 13482 AGR / DF
+
+Nessa oportunidade, o requerido Fernando Pimentel
+efetuou uma ligação telefônica de celular, o que permitiu a
+identificação de seu aparelho pela antena da operadora
+que atende a área da residência do diretor da Odebrecht,
+revelando sua posição. (mídia em anexo, pasta Apensos,
+APN 843 a.1, fls. 106/107).
+Por volta desse período, Eduardo Serrano, então
+chefe de gabinete de Fernando Pimentel no Ministério do
+Desenvolvimento, Indústria e Comércio Exterior,
+plenamente ciente das demandas da Construtora Norberto
+Odebrecht S/A na CAMEX e do propósito de solicitação
+de vantagem patrimonial indevida, agindo por
+determinação do então Ministro, contatou o requerido
+Benedito para que ele intermediasse valores com o
+representante da empresa, correspondente aos interesses
+da companhia na administração pública federal.
+Nessa oportunidade, o requerido Eduardo Serrano
+forneceu a Benedito o contato telefônico de João Nogueira,
+então Diretor de Crédito à Exportação da empresa, para o
+desenvolvimento da negociata.
+A partir das indicações de Eduardo Serrano, e
+agindo em unidade de desígnios com ele e Fernando
+Pimentel, Benedito realizou uma série de encontros com
+João Nogueira em restaurantes localizados em Brasília/DF,
+quando foram apontados os interesses da construtora na
+CAMEX, relacionados aos seguros dos financiamentos de
+obras a serem executadas pela empresa na Argentina e em
+Moçambique.
+Por volta de setembro de 2012, na cidade de BrasíliaDF, depois de receber instruções específicas de Fernando
+Pimentel, o requerido Benedito solicitou vantagem
+patrimonial indevida de R$ 20.000.000,00 (vinte milhões
+de reais) de Marcelo Odebrecht e João Nogueira, para
+acolher as demandas da Construtora Norberto Odebrecht
+S/A na CAMEX.
+
+51
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 55 de 76
+
+PET 13482 AGR / DF
+
+Nessa oportunidade, João Nogueira, atendendo aos
+desígnios de Marcelo Odebrecht, aceitou em nome deste a
+solicitação e prometeu R$ 15.000.000,00 (quinze milhões
+de reais) como vantagem indevida para determinar a
+aprovação dos pedidos e facilitar o trâmite das demandas
+da empresa na Câmara de Comércio Exterior.
+Os requeridos João Nogueira e Benedito Rodrigues
+ajustaram o pagamento dos valores em espécie, seguindo
+um cronograma e logística estruturada pela empresa, que
+consistia na entrega de pacotes de dinheiro em hotéis de
+São Paulo-SP, mediante a apresentação de uma senha ao
+emissário da quantia.
+A partir desse acerto, Benedito, munido de
+informações repassadas por Fernando Pimentel e Eduardo
+Serrano sobre a tramitação dos feitos de interesse da
+Construtora Norberto Odebrecht S/A na CAMEX,
+manteve diversos contatos pessoais e telefônicos com João
+Nogueira.
+Em 12/9/12 e 17/9/12, Benedito e João Nogueira
+realizaram encontros em Brasília-DF destinados a ajustar a
+entrega de parte da propina, conforme mensagens
+telefônicas trocadas entre eles (APN 843 a.3, fls. 69/70).
+Para essa finalidade específica, Benedito contou com
+o auxílio de Pedro Augusto, que, livre e consciente do
+acerto ilícito ajustado, deslocou-se diversas vezes para São
+Paulo-SP para recolher as parcelas do ajuste.
+Assim, em 18/9/12, Pedro Augusto hospedou-se no
+quarto 239 de um hotel na capital paulista e informou sua
+localização para Benedito, conforme mensagens
+encaminhadas naquele dia: Acabei de chegar...O elevador
+só sobe se colocar cartão...239 (APN 843 a.3, fl. 70).
+Ao receber a informação de Pedro Augusto, o
+requerido Benedito encaminhou uma mensagem
+telefônica simples a João Nogueira contendo apenas o
+número 239, correspondente ao quarto onde deveria ser
+
+52
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 56 de 76
+
+PET 13482 AGR / DF
+
+entregue a propina (APN 843 a.3, fl. 70).
+Em 19/9/12, o requerido João Nogueira enviou
+mensagem a Benedito indagando-o se estava Tudo ok com
+a reunião de hoje? Benedito respondeu confirmando o
+encontro e acionou Pedro Augusto com a mesma
+indagação: Tudo ok hoje? (APN 843 a.3, fl. 71).
+Nesse dia, Pedro Augusto retornou a mensagem
+confirmando estar disponível e Benedito imediatamente
+avisou a João Nogueira: Tudo ok (APN 843 a.3, fl. 71).
+Esse foi o expediente adotado pelos envolvidos para
+o recolhimento de uma das parcelas de dinheiro em
+espécie, ajustadas em contrapartida à atuação de Fernando
+Pimentel em favor da Construtora Norberto Odebrecht
+S/A.
+Na sequência, em 18/1/13, Benedito e João Nogueira
+reuniram-se no Marieta Café da SHIS QI 8, em Brasília-DF,
+conforme mensagens eletrônicas gravadas num dos
+celulares apreendidos durante a investigação (APN 843
+a.3, fls. 71/72).
+Após encontrar-se com João Nogueira, Benedito
+reuniu-se em 20/1/2013 com Fernando Pimentel em
+Brasília-DF (APN 843 a.3, fls. 72/73).
+Foi também em janeiro de 2013 que a Construtora
+Norberto Odebrecht S/A submeteu consulta ao BNDES,
+solicitando financiamento à exportação de bens e serviços
+para transformação da linha ferroviária argentina de
+Sarmiento em subterrânea, conforme informação prestada
+pelo banco (APN 843 a.1, fl. 58).
+Depois de alcançar esse financiamento, o processo foi
+submetido à CAMEX para aprovação da cobertura de
+Seguro de Crédito à Exportação, solicitação a que
+Fernando Pimentel, na condição de presidente do
+colegiado, havia se comprometido a aprovar mediante
+vantagem patrimonial indevida.
+Assim, em 11/3/13 e 25/3/13, Benedito e João
+
+53
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 57 de 76
+
+PET 13482 AGR / DF
+
+Nogueira encontraram-se em Brasília-DF, a fim de tratar
+sobre a remessa de novas parcelas do ajuste financeiro
+ilícito firmado entre Fernando Pimentel e Marcelo
+Odebrecht (mídia em anexo, pasta Apensos, APN 843 a.3,
+fls. 73/74).
+Nesse contexto, em 25/3/13, o requerido Benedito
+acionou Pedro Augusto por mensagens telefônicas para
+que ele comparecesse ao seu escritório (APN 843 a.3, fl. 74)
+e ajustou com João Nogueira os horários para as entregas
+das quantias.
+No diálogo, Benedito indagou João Nogueira sobre
+se ele poderia […] programar para as 12 hs os dois dias, ao
+que ele respondeu Vou tentar, mas em geral é entre 14 e 15
+hs. Te aviso (APN 843 a.3, fls. 74/75).
+No dia seguinte (26/3/13), João Nogueira avisou a
+Benedito que O intervalo será mesmo de 11hs as 13hs nos
+dois dias. Pedi que tentassem entre 11:30 as 12 (APN 843
+a.3, fl. 75).
+Depois de receber a resposta de Benedito, João
+Nogueira questionou sobre o número do quarto do hotel
+onde o dinheiro seria entregue: Numero o quanto antes,
+por favor (APN 843 a.3, fl. 82).
+Em seguida, o requerido Benedito encaminhou
+mensagem a Pedro Augusto com determinação para que
+ele se dirigisse imediatamente ao local do encontro com o
+emissário da construtora: Preciso q você va o quanto antes
+(APN 843 a.3, fl. 76).
+Pedro Augusto informou o número do quarto 1304,
+correspondente a uma reserva feita em seu nome no Hotel
+Quality Moema, na cidade de São Paulo-SP (APN 843 a.3,
+fls. 77 e 116).
+Em 27/3/13, Benedito encaminhou mensagem a João
+Nogueira dizendo que estava Tudo ok hoje. João, então,
+encaminhou nova mensagem a Benedito indicando que
+Amanha sabão serah as 10h, ok? (APN 843 a.3, fl. 78).
+
+54
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 58 de 76
+
+PET 13482 AGR / DF
+
+No dia seguinte, Pedro Augusto informou a Benedito
+que Deu certo. Tudo ok, referindo-se à entrega de mais
+um pacote de dinheiro em espécie providenciado pela
+construtora (APN 843 a.3, fl. 78).
+Entre 1º/4/13 e 3/4/13, os requeridos Benedito e João
+Nogueira, representando os interesses de Fernando
+Pimentel e Marcelo Odebrecht, respectivamente, trocaram
+novas mensagens para ajustar outra entrega de valores
+(APN 843 a.3, fls. 79/80).
+Nessa oportunidade, João Nogueira passou a
+Benedito a senha 4-Branco 5-Pimenta, para que fosse
+utilizada junto ao emissário dos valores ilícitos, como
+contraprova de que estavam tratando da entrega da
+quantia destinada a Fernando Pimentel (APN 843 a.3, fl.
+79).
+No dia 3/4/13, Benedito encaminhou mensagem a
+João Nogueira informando o número 1405 (APN 843 a.3,
+fls. 88/89), correspondente ao quarto do Hotel Quality
+Moema, localizado em São Paulo-SP, onde Pedro Augusto
+estava hospedado, conforme documentos encaminhados
+pela empresa hoteleira (APN 843 a.3, fl. 116).
+Em 4/4/13, João Nogueira indagou por mensagem a
+Benedito Ok? e ele respondeu Opa Tudo ok. No dia
+seguinte (5/4/13), João Nogueira novamente perguntou a
+Benedito se estava Tudo ok? e Benedito disse Desde
+ontem!! Valeu. Essa troca de mensagens confirma que a
+entrega da quantia ajustada havia sido realizada (APN 843
+a.3, fl. 82).
+A partir de julho de 2013, ambos passaram a tratar
+da tramitação do processo para a concessão da garantia ao
+financiamento da obra de interesse da construtora. Nesse
+sentido, em 15/7/13, João Nogueira avisou Amigo, o tema
+dos Hermanos é fundamental amanha e Benedito
+respondeu ok (APN 843 a.3, fl. 84).
+No outro dia, em 16/7/13, a operação de cobertura do
+
+55
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 59 de 76
+
+PET 13482 AGR / DF
+
+financiamento pelo Seguro de Crédito à Exportação foi
+aprovada pela CAMEX, na 96ª reunião do Conselho de
+Ministros da Câmara de Comércio Exterior, realizada sob
+a presidência do então Ministro Fernando Pimentel (APN
+843 a.1, fls. 191/195).
+Após, em 17/7/13, Benedito encaminhou mensagem
+ao interlocutor de Marcelo Odebrecht dizendo Deu certo
+ne!!! Nosso amigo acabou de me falar, referindo-se à
+informação passada por Fernando Pimentel (APN 843 a.3,
+fl. 84).
+João Nogueira respondeu Sim deu certo. Viajo ainda
+hoje. Nos vemos na segunda? Benedito afirmou em
+resposta que Vc não pede camarada. Você manda!!! Falei
+que a nossa turma é comprometida!!! Abs e parabéns!!!
+João Nogueira finalizou dizendo Seguimos juntos! (APN
+843 a.3, fls. 84/85).
+Ainda no dia 17/7/13, João Nogueira e Marcelo
+Odebrecht encontraram-se com Fernando Pimentel em
+Brasília-DF,
+como
+anunciado
+anteriormente
+em
+mensagens trocadas entre eles: Marcelo e eu vamos ver o
+nosso amigo agora, antes de viajar (APN 843 a.3, fl. 85).
+Dados gravados nas mídias apreendidas por ordem
+judicial, compartilhados pelo Juízo da 13ª Vara Federal de
+Curitiba-PR, confirmam que Marcelo Odebrecht
+encontrava-se na cidade de Brasília/DF nessa data para
+uma reunião do Conselho de Desenvolvimento
+Econômico e Social, vinculado à Secretaria de Assuntos
+Estratégicos da Presidência da República (APN 843 a.1, fls.
+64/73).
+Contudo, esse não era o único compromisso do
+empresário na Capital Federal. No seu telefone celular6
+foi identificado um lembrete com o assunto ‘FP’ e a
+localização ‘MDIC’, com horário para às 16h, o qual
+coincide com o horário de envio da mensagem de João
+Nogueira a Benedito informando do encontro com o
+
+56
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 60 de 76
+
+PET 13482 AGR / DF
+
+‘amigo’ (APN 843 a.1, fl. 66).
+Ademais, outros dados encontrados no telefone de
+Marcelo Odebrecht, como a cópia de um e-mail enviado
+por João Nogueira na data de 15/7/2013, cujo assunto foi
+denominado de ‘FP’ e resumido como: ‘FP. Estará no
+CDES, mas penso ser importante uma conversa separada
+por conta da Argentina (Sarmiento) vis-à-vis Mercosul.
+Posso sugerir almoço?’, indicam que Marcelo Odebrecht
+se encontrou com o então Ministro Fernando Pimentel
+para tratar da obra de soterramento da ferrovia de
+Sarmiento (APN 843 a.1, fl. 66).
+Em que pese o esquema articulado pelos ora
+requeridos ter se desenvolvido conforme planejado,
+inclusive com o repasse da vantagem patrimonial
+indevida e a aprovação pela CAMEX, o Contrato de
+Colaboração Financeira relacionado a essa operação não
+chegou a ser assinado com a República Argentina, em
+razão de divergências relacionadas a cláusulas contratuais
+entre o BNDES e o governo argentino, e, também, de uma
+maior exposição do país a riscos de crédito provocados
+pela interrupção do pagamento de dívidas com credores
+internacionais (APN 843 a.1, fls. 60/63).
+Assim, importante frisar que o não atingimento final
+do objetivo da Construtora Norberto Odebrecht S/A, qual
+seja, a assinatura do Contrato de Colaboração Financeira,
+não afasta a conduta ímproba dos requeridos desta ação,
+uma vez que ofereceram e auferiram vantagem
+patrimonial indevida em razão do cargo exercido por
+Fernando Pimentel, bem como atentaram contra
+princípios da administração pública, notadamente os da
+honestidade, da imparcialidade, da legalidade, da
+moralidade e da lealdade às instituições.
+A partir de agosto de 2013, Benedito e João Nogueira
+passaram a tratar do segundo processo de garantia a
+financiamento de exportação de serviços de interesse da
+
+57
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 61 de 76
+
+PET 13482 AGR / DF
+
+Construtora Norberto Odebrecht S/A na CAMEX.
+Tratava-se do Seguro de Crédito à Exportação, ao
+amparo do Fundo de Garantia à Exportação e Equalização
+de Taxas de Juros do Proex, para execução do projeto
+corredor interurbano de transporte público da cidade de
+Maputo, República de Moçambique.
+A fim de iniciar as tratativas acerca desse segundo
+processo, João Nogueira marcou uma reunião com
+Benedito no dia 30/8/13, no restaurante New Koto,
+localizado na SQS 212, em Brasília-DF (APN 843 a.3, fl.
+86).
+O processo referente à chancela da CAMEX para a
+cobertura do financiamento da obra de Moçambique seria
+apreciado na 97ª reunião do Conselho de Ministros da
+Câmara de Comércio Exterior, em 9/9/13, contudo foi
+retirado da pauta (APN 843 a.1, fl. 79).
+Em razão disso, no mesmo dia (9/9/13), João
+Nogueira encaminhou mensagem a Benedito dizendo Deu
+errado Moçambique. Estou na Colômbia. Podemos falar
+na quinta? (APN 843 a.3, fl. 87).
+Em resposta, Benedito confirmou Podemos sim e, em
+seguida, João Nogueira alertou Moçambique precisa dar
+certo. Benedito então justificou Ele tem limite, referindo-se
+aos parâmetros que Fernando Pimentel precisaria
+respeitar (APN 843 a.3, fl. 87).
+Ainda nesse contato, João Nogueira afirmou A
+aprovação era condicionada ao aumento do FMI e
+Benedito encerrou dizendo Fica tranquilo que o q der pra
+fazer sera feito (APN 843 a.3, fl. 87).
+A questão envolvendo esse processo dizia respeito
+ao limite de risco do crédito para países como a República
+de Moçambique, considerando a sustentabilidade da
+dívida externa do país, que era monitorada pelo Fundo
+Monetário Internacional.
+Para viabilizar novas operações de seguro e crédito à
+
+58
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 62 de 76
+
+PET 13482 AGR / DF
+
+exportação para os países africanos, foi necessário aprovar
+uma alteração dos limites de exposição do Fundo de
+Garantia à Exportação – FGE para esses países, conforme
+96ª reunião do Conselho de Ministros da CAMEX,
+realizada em 16/7/13, sob a presidência de Fernando
+Pimentel (APN 843 a.1, fls. 191/195).
+Contudo, a situação da República de Moçambique
+era ainda mais complexa, uma vez que possuía restrições
+pelo nível de sua dívida externa, tendo exigido maiores
+deliberações da CAMEX para a cobertura do seguro
+pretendida pela Construtora Norberto Odebrecht.
+Em 30/9/13, João Nogueira encaminhou mensagens a
+Benedito dizendo Quero fazer um encontro entre o Chefe
+e o meu. Semana que vem (APN 843 a.3, fl. 89).
+Cumprindo o ajuste, Fernando Pimentel e Marcelo
+Odebrecht encontraram-se na residência de João Nogueira
+em Brasília/DF no dia 9/10/13, como comprovam os
+registros eletrônicos encontrados no aparelho telefônico
+de Marcelo e em equipamentos apreendidos em suas
+empresas (APN 843 a.1, fls. 91/92).
+Na referida ocasião, Fernando Pimentel efetuou duas
+ligações telefônicas pelo celular, a primeira às 20h49 e a
+última às 21h23, as quais utilizaram a antena da
+companhia telefônica instalada nas proximidades da
+residência do diretor da Odebrecht, revelando a posição
+do ministro onde ocorreu o encontro (APN 843 a.1, fls.
+93/96).
+Nessa época, a CAMEX, sob a presidência de
+Fernando Pimentel, havia aprovado a concessão da
+garantia do Seguro de Crédito à Exportação para o projeto
+de Maputo, Moçambique, mas condicionada ao aumento,
+pelo FMI, do limite de financiamentos não concessionais,
+conforme 98ª reunião do colegiado realizada em 3/10/13
+(APN 843 a.1, fls. 216/219).
+Depois daquela reunião, Fernando Pimentel
+
+59
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 63 de 76
+
+PET 13482 AGR / DF
+
+convocou Benedito para um encontro, como é possível
+verificar nas mensagens que este enviou a João Nogueira
+em 10/10/13: Amigo. Imprevisto!!! Ele me chamou, não seu
+se libero até as 15 hs
+Em resposta, João Nogueira avisou: […] Diga que vai
+estar comigo de tarde para fazer o debriefing. Posso te
+encontrar um pouco depois das 15 hs, sem problemas.
+Prefiro te atualizar para você atualiza-lo também. Pois o
+tema evoluiu de ontem para hoje (APN 843 a.3, fl. 91).
+Ambos reuniram-se logo após essa troca de
+mensagens, ainda no dia 10/10/13 (APN 843 a.3, fls. 91/92),
+e passaram a ajustar os detalhes das entregas de novas
+remessas de dinheiro em espécie.
+No dia 5/11/13, João Nogueira trocou mensagens
+com Benedito e este com Pedro Augusto sobre os
+procedimentos
+para
+recolhimento
+do
+dinheiro
+encaminhado pela construtora a Fernando Pimentel (APN
+843 a.3, fls. 92/93).
+Nessa oportunidade, Pedro informou a Benedito o
+número 1605, correspondente ao quarto do hotel Quality
+Moema em São Paulo-SP, onde estava hospedado (APN
+843 a.3, fls. 93 e 116).
+Na sequência, Benedito repassou a João Nogueira a
+referência 1605 e recebeu dele a senha manteiga, para ser
+informada ao emissário da construtora que portava a
+quantia em dinheiro (APN 843 a.3, fl. 93).
+Em 6/11/13, Pedro Augusto informou a Benedito que
+o procedimento de entrega dos valores havia sido
+Concluído (APN 843 a.3, fl. 94).
+No dia 12/11/13, nova remessa de valores da
+Odebrecht a Fernando Pimentel foi entregue a Pedro
+Augusto em procedimento gerenciado por Benedito e João
+Nogueira.
+Nessa oportunidade, Pedro informou a Benedito o
+número 107 do quarto do hotel, dado que foi transmitido a
+
+60
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 64 de 76
+
+PET 13482 AGR / DF
+
+João Nogueira, que repassou a senha manga para ser
+repassada ao portador do pacote de dinheiro (APN 843
+a.3, fls. 95/96).
+A mesma dinâmica ocorreu em 20/11/13, quando
+Pedro Augusto informou a Benedito o número 710,
+correspondente ao quarto do hotel. Informado, João
+Nogueira encaminhou a senha alface para recebimento de
+nova remessa da vantagem indevida ajustada entre
+Fernando e Marcelo (APN 843 a.3, fls. 100/101 e 116).
+Em 26/11/13, o número do quarto do hotel informado
+por Pedro Augusto foi o 1306 e a palavra utilizada como
+senha foi escada, conforme mensagens trocadas entre
+Benedito e João Nogueira, na articulação para a entrega da
+vantagem indevida (APN 843 a.3, fls. 95/96).
+Outra remessa de valores ocorreu em 4/2/14, quando
+Pedro Augusto informou a Benedito o número do quarto
+1605 do hotel localizado na cidade paulista. A informação
+foi transmitida ao diretor João Nogueira, que indicou a
+senha algodão para recebimento de novo pacote de
+dinheiro (APN 843 a.3, fl. 102).
+Cada entrega correspondeu à quantia de pelo menos
+R$ 500.000,00 (quinhentos mil reais) em espécie, dinheiro
+que foi transportado por Pedro Augusto para Brasília-DF
+e estocado por Benedito, atendendo às determinações de
+Fernando Pimentel. Na sequência, as quantias foram
+utilizadas para pagamento de despesas não declaradas da
+campanha eleitoral ao governo de Minas Gerais, inclusive
+pessoais.
+A partir da aprovação condicional da CAMEX ao
+seguro-garantia do financiamento contratado pela
+Construtora Norberto Odebrecht S/A para construção da
+via em Maputo, Moçambique, as demandas da empresa
+foram direcionadas ao Ministério da Fazenda, em
+circunstâncias que envolvem outras pessoas e que não
+interferem nos eventos tratados nesta ação.
+
+61
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 65 de 76
+
+PET 13482 AGR / DF
+
+Assim, por esses fatos, verifica-se que os requeridos
+incorreram em atos de improbidade administrativa que
+importam em enriquecimento ilícito e atentam contra
+princípios da Administração Pública, sendo irrelevante
+para a configuração de tais condutas que a Construtora
+Norberto Odebrecht tenha efetivamente conseguido a
+garantia do Seguro de Crédito à Exportação, uma vez que
+dependia, também, de deliberação de outros setores e/ou
+órgãos.’ (e-Doc 7, fls. 11/24).
+
+Diante de tais fatos, o Parquet assim enquadrou
+juridicamente a suposta conduta do Requerente :
+‘Vislumbra-se, também, na conduta do requerido
+Fernando Damata Pimentel, em conjunto com os demais
+requeridos, a violação a princípios da administração
+pública, notadamente os princípios da honestidade, da
+imparcialidade, da legalidade e da lealdade às instituições,
+uma vez que se utilizou do cargo de Ministro de Estado
+do Ministério do Desenvolvimento, Indústria e Comércio
+Exterior – MDIC e, nessa condição, de presidente da
+Câmara de Comércio Exterior - CAMEX para atender
+interesses pessoais.
+Assim agindo, os requeridos incorreram na hipótese
+do caput do art. 11 da Lei nº 8.429/92, a seguir transcrito:
+(...)
+O dolo, decorrente da vontade livre e da ciência da
+ilegalidade, mostra-se evidente, principalmente, pelos
+registros eletrônicos encontrados nos aparelhos telefônicos
+e em equipamentos apreendidos pela Polícia Federal, que
+revelam o esquema articulado pelos requeridos para o
+repasse dos valores indevidos, bem como pelas
+informações fornecidas pelos hotéis utilizados como local
+de entrega da propina.
+Ademais, no Termo de Colaboração – Evento III
+
+62
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 66 de 76
+
+PET 13482 AGR / DF
+
+(APN 843 a.4, fls. 380/384), o requerido Benedito
+Rodrigues descreve como se deram as tratativas do
+esquema articulado por Fernando Pimentel e Marcelo
+Odebrecht, sendo a narrativa absolutamente condizente
+com as demais provas que embasaram esta demanda.
+Em declarações posteriormente prestadas, em 7/7/16
+(APN 843 a.1, fls. 27/28), Benedito afirmou que nas
+mensagens de texto trocadas via celular com João
+Nogueira, utilizava o codinome ‘CHEFE’ para se reportar
+a Fernando Pimentel e que João também utilizava o
+mesmo codinome para se referir a Marcelo Odebrecht, o
+que confirma o conluio e o dolo dos ora requeridos.
+Ressalta-se, ainda, que a configuração do ato de
+improbidade que importa enriquecimento ilícito não
+requer lesão aos cofres públicos, de forma que é
+dispensável o dano ao erário para a caracterização de tal
+modalidade.
+Assim, forçoso reconhecer que as condutas dos
+requeridos Construtora Norberto Odebrecht S/A,
+Fernando Damata Pimentel, Eduardo Lucas Silva Serrano,
+Benedito Rodrigues de Oliveira Neto, Pedro Augusto de
+Medeiros, Marcelo Bahia Odebrecht e João Carlos Mariz
+Nogueira, seja na qualidade de agente público, seja na
+condição de particular (pessoa jurídica ou física) que
+induza ou concorra para a prática do ato ou dele se
+beneficie, configuram os atos de improbidade
+administrativa previstos nos artigos 9º, caput e inciso I, e
+11, caput, da Lei 8.429/1992, razão pela qual se impõe a
+todos a condenação nas sanções previstas no art. 12 do
+referido diploma legal.’ (e-Doc 7, fls. 25/27).
+
+Relembro, como antes referido, que o juízo penal
+absolutório, diante dos mesmos fatos e do mesmo acervo
+probatório, reconheceu a ausência de comprovação do fato,
+bem como a atipicidade da conduta imputada ao requerente.
+
+63
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 67 de 76
+
+PET 13482 AGR / DF
+
+Como se sabe, é firme a orientação desta Corte no sentido
+de que as instâncias penal e administrativa são autônomas, só
+repercutindo aquela nesta quando assentada a inexistência
+material do fato ou pela negativa de sua autoria, o que ocorreu
+na espécie. Vide os seguintes precedentes: MS 22.438/SP, Rel.
+Min. Moreira Alves, Pleno, DJ 6.2.1998; MS 21.708/DF, Redator
+para o acórdão Min. Maurício Corrêa, Pleno, DJ 18.5.2001; MS
+22.155/GO, Rel. Min. Celso de Mello, Pleno, DJ 24.11.2006.
+Ademais, registro que o Plenário desta Suprema Corte, ao
+apreciar o Tema nº 1.043 da sistemática de Repercussão Geral
+(ARE nº 1.175.650/PR, Relator o Ministro Alexandre de Moraes,
+DJe de 5/10/23), firmou tese da qual extraio, ante a extrema
+pertinência, o seguinte trecho:
+‘TESE DE REPERCUSÃO GERAL: É constitucional a
+utilização da colaboração premiada, nos termos da Lei
+12.850/2013, no âmbito civil, em ação civil pública por ato
+de improbidade administrativa movida pelo Ministério
+Público, observando-se as seguintes diretrizes:
+(...)
+(2) As declarações do agente colaborador,
+desacompanhadas de outros elementos de prova, são
+insuficientes para o início da ação civil por ato de
+improbidade;’
+Rememoro
+que
+a
+expressamente consignou:
+
+sentença
+
+penal
+
+absolutória
+
+‘12. Declarações prestadas por corréus colaboradores
+e mensagem eletrônica trocada por um deles com um dos
+acusados, ao contrário do que sustenta o Parquet, não
+demonstram o cometimento dos crimes contra a
+administração pública referidos na inicial acusatória.
+Em verdade, o Ministério Público Federal não trouxe
+aos autos prova alguma dos fatos que alegou. Firma-se em
+
+64
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 68 de 76
+
+PET 13482 AGR / DF
+
+relatos prestados por réus colaboradores, os quais sequer
+permitem a inauguração da instância penal (Lei nº
+12.850/2013, art. 4º, § 16, II), dando, ao final, como provada
+a hipótese acusatória.’ (e-Doc. 6, fls. 7).
+
+Note-se, portanto, a ausência de elementos de provas
+autônomos e suficientes para o prosseguimento da ação de
+improbidade em face do requerente, nos termos do
+entendimento desta Suprema Corte.
+Isso porque reconhecida, em juízo penal, a ausência de
+materialidade e de suporte probatório autônomo (denúncia - de
+teor idêntico ao da ação de improbidade - pautada unicamente
+em depoimentos de colaboradores).
+Nesse diapasão, relembro que o regime de
+responsabilização por atos de improbidade administrativa
+ostenta caráter nitidamente sancionador, tal como reconhecido
+no julgamento da Pet nº 3.240/DF, ocasião em que o querido e
+saudoso Ministro Teori Zavascki asseverou o seguinte:
+‘(...) embora as sanções aplicáveis aos atos de
+improbidade não tenham natureza penal, há profundos
+laços de identidade entre as duas espécies.’
+De fato, penso que o direito penal e o direito
+administrativo sancionador, que ganha contornos nítidos na Lei
+de Probidade Administrativa, se correlacionam por ambos
+exteriorizarem a manifestação penalizadora do Estado,
+subtraindo do cidadão direitos públicos individuais.
+Assentadas essas premissas, que me parecem
+fundamentais, mostra-se necessário o arquivamento da ação de
+improbidade objeto destes autos, em que se controverte sobre
+os mesmos fatos abarcados por juízo negativo de
+materialidade na esfera criminal em favor do reclamante e de
+todos os demais corréus - ausência de elementos probatórios
+mínimos -.
+
+65
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 69 de 76
+
+PET 13482 AGR / DF
+
+Nesse sentido, cito a Rcl nº 55.458/PR, de relatoria do
+Ministro Gilmar Mendes:
+‘Não há dúvidas de que a instrução criminal
+usualmente conduz a um exaustivo exame dos fatos
+debatidos na causa, propiciando busca mais ampla e mais
+intensa da verdade processual. Até por não se contentar
+com a certeza obtida por presunções ou pela simples
+ausência de impugnação dos fatos narrados pelo autor, o
+processo penal, diferentemente da jurisdição cível, exige
+maior rigor e precisão na reconstrução dos fatos apurados
+na demanda. Por essa razão, juízos de certeza negativos
+proferidos na esfera criminal devem obrigatoriamente
+repercutir na esfera cível, sob pena de ruptura da
+coerência do sistema de Justiça.’
+Na mesma direção, decisão monocrática por mim
+proferida no ARE 1.359.880/SP, com trânsito em julgado.
+Retornando-se ao caso sub judice, deve-se levar em
+consideração que os elementos probatórios da ação de
+improbidade são decorrentes do material arrecadado na ação
+penal, cuja improcedência foi reconhecida por ausência de
+materialidade, ficando, portanto, devidamente assentada a
+hipótese de juízo negativo na seara criminal a afastar,
+definitivamente, o prosseguimento da ação de improbidade
+administrativa.
+Como se não bastasse, deve-se relembrar que parte do
+material arrecadado decorre de compartilhamento oriundo da
+13ª Vara Federal de Curitiba em ações envolvendo Marcelo
+Odebrecht e declaradas nulas por esta Suprema Corte (Pet.
+12.357).
+De fato, a ação de improbidade administrativa ajuizada
+contra o reclamante está embasada no mesmo suporte
+probatório, cuja ilicitude foi reconhecida nos paradigmas
+invocados, isto é, nas planilhas de controle, documentos e
+
+66
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 70 de 76
+
+PET 13482 AGR / DF
+
+informações obtidas a partir dos Sistemas utilizados pelo
+‘Departamento de Operações Estruturadas’ da Odebrecht,
+estendendo-se o reconhecimento da ilicitude aos elementos de
+convicção derivados dessas provas.
+Desse modo, o prosseguimento da ação de improbidade
+em relação ao requerente e aos demais corréus representa
+flagrante ilegalidade que requer a atuação deste Supremo
+Tribunal, para o fim de evitar o constrangimento ilegal de
+submetê-los a responder novamente por condutas em relação às
+quais já foi determinado o trancamento de ação penal.
+Nesse sentido, vide, em especial, o quanto decidido pela
+Segunda Turma desta Suprema Corte na Rcl. 71.505, em
+julgamento colegiado que em tudo se assemelha à hipóteses
+destes autos.
+Por fim, ressalto que a colheita dos mesmos elementos de
+prova ou de outros deles derivados em sede de inquérito civil
+para propositura de ação de improbidade administrativa não
+tem o condão de afastar a imprestabilidade reconhecida e
+declarada por esta Suprema Corte, sob pena de se admitir este
+estratagema como válido para ressuscitar provas nulas, obtidas
+à margem do sistema legal.
+Ante o exposto, julgo procedente o pedido e determino o
+arquivamento da ação civil de improbidade administrativa
+(processo nº 1008682-48.2017.4.01.3400, em curso perante a 8ª
+Vara Federal/DF), em relação ao ora requerente e a todos os
+demais corréus, pelos fundamentos acima expostos.
+Publique-se. Comunique-se.”
+
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+67
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0B40-59EB-9F73-D384 e senha 5D15-ECEB-A76B-1027
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 71 de 76
+
+AG.REG. NA PETIÇÃO 13.482 DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+: JOAO CARLOS MARIZ NOGUEIRA
+: GEORGES ABBOUD
+
+VOTO:
+O SENHOR MINISTRO ANDRÉ MENDONÇA:
+1. Trata-se de Agravo Regimental interposto pela ProcuradoriaGeral da República em face de decisão monocrática que julgou
+procedente pedido de extensão dos efeitos de decisão absolutória de João
+Carlos Mariz Nogueira na Ação Penal 843 para determinar o
+arquivamento da Ação de Improbidade Administrativa nº 100868248.2017.4.01.3400, ainda em trâmite perante a 8ª Vara Federal Cível do
+Distrito Federal.
+2. Aduziu o autor, invocando a Rcl 43.007 e as PETs 12.357 e 11.972,
+que a Ação de Improbidade foi baseada fundamentalmente na Ação
+Penal 843, na qual foi absolvido por insuficiência de provas, e que, por
+seu turno, derivava ela própria do compartilhamento de elementos de
+provas considerados nulos pelo STF, produzidos na Operação Lava Jato,
+em razão do reconhecimento de imprestabilidade das provas obtidas a
+partir dos sistemas Drousys e My Web Day B, do Acordo de Leniência da
+Odebrecht, tendo em vista as informações reveladas na Operação
+Spoofing.
+3. Alega a Procuradoria-Geral da República, em suma, que “o
+pedido de trancamento da ação de improbidade administrativa extrapola
+os limites das decisões paradigmas”, e que, além disso, conforme
+decidido na Rcl 43.007, “compete ao juízo de primeira instância decidir
+sobre a continuidade das investigações ou ações” (e-doc. 42).
+4. Dispensadas as contrarrazões da parte agravada, o e. Relator
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 38D5-4503-3AE6-18B2 e senha 2844-8B04-A181-E5D2
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 72 de 76
+
+PET 13482 AGR / DF
+apresentou voto em Plenário Virtual propondo o desprovimento do
+recurso.
+5. Feito este breve apanhado quanto ao essencial, passo ao voto
+propriamente.
+6. De início, conforme apontado pela Procuradoria-Geral da
+República, destaco que, na própria Rcl 43.007, o e. Ministro Dias Toffoli
+concluiu que as causas que levaram à imprestabilidade dos elementos de
+prova obtidos a partir do Acordo de Leniência n. 502017534.2017.4.04.7000, celebrado pela Odebrecht, eram objetivas, de forma que
+na ocasião ressaltou “que nos feitos, seja de que natureza for, em que
+houve a utilização destes elementos de prova, o exame a respeito do
+contágio de outras provas, bem como sobre a necessidade de se arquivar
+inquéritos ou ações judiciais deverá ser realizado pelo juízo natural do
+feito, consideradas as balizas aqui fixadas e as peculiaridades do caso
+concreto.”
+7. Logo, de plano, há que se apontar que o fato de o Supremo
+Tribunal Federal ter declarado a imprestabilidade dos elementos de
+provas obtidos a partir do acordo de leniência não obsta a tramitação da
+Ação de Improbidade, em razão da possibilidade de existência de outros
+elementos probatórios e tendo em vista, ainda, o sistema do livre
+convencimento motivado para valoração das provas, o qual norteia o
+processo civil.
+8. Tenho me manifestado em diversos feitos, a exemplo da PET
+11.823, da PET 12.357 e da PET 12.432, sobre os limites rigorosos a serem
+observados em quaisquer situações envolvendo pedidos de extensão,
+exigindo-se aderência estrita.
+
+2
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 38D5-4503-3AE6-18B2 e senha 2844-8B04-A181-E5D2
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 73 de 76
+
+PET 13482 AGR / DF
+9. Como afirmado pelo e. Ministro Edson Fachin na PET 12.357, “não
+se pode, a pretexto de pedidos de extensão, examinar pedidos amplos e
+genéricos sobre as mais variadas investigações decorrentes da operação
+Lava Jato (...), sob pena de violação ao juiz natural e as regras de
+competência, transformando-se este Supremo Tribunal Federal em juízo
+universal de conhecimento”.
+10. Na essência de um Estado de Direito, no qual os agentes que
+exercem o poder de império inerente à soberania estatal estão limitados
+pela lei, residem as ideias de (i) repartição de atribuições entre várias
+autoridades públicas e (ii) estabelecimento de formas e ritos para o
+exercício das atribuições confiadas a qualquer autoridade.
+11. É pelo respeito à forma, ou, mais especificamente, ao devido
+processo legal, que se dá real eficácia ao princípio da separação dos
+poderes. Quando se renuncia à sua fiel observância, o que se verifica, na
+prática, não é uma limitação de poderes por meio de sua repartição, mas
+a multiplicação de poderes ilimitadamente exercidos por vários agentes
+estatais. Se a exigência da forma limita, a sua desconsideração é a porta
+de entrada do poder incontido.
+12. Do respeito estrito à forma prevista em lei, aos ritos e
+procedimentos legalmente estabelecidos, é que vem a garantia de um
+espaço de atuação verdadeiramente livre pelo indivíduo. E desse respeito
+à forma e ao devido processo legal é que advém, igualmente, a noção de
+segurança jurídica.
+13. Como já afirmado pela Procuradoria-Geral da República,
+estender “uma decisão significa repetir a decisão para outra pessoa.
+Decerto que não se repete decisão para casos que não sejam iguais. Se
+fosse de outro modo, o pedido de extensão se tornaria instrumento de
+supressão de instância e de concentração no Tribunal, com prevenção de
+3
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 38D5-4503-3AE6-18B2 e senha 2844-8B04-A181-E5D2
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 74 de 76
+
+PET 13482 AGR / DF
+relatoria, das mais variadas causas que se pudessem relacionar
+indiretamente com aquela específica em que a Suprema Corte já proferiu
+ordem”.
+14. Nesse sentido é que o esta Corte possui sólido entendimento no
+sentido de exigir efetivamente aderência estrita da situação do
+peticionário de qualquer extensão ao quadro definido pela decisão
+paradigma.
+15. Assim é que, na própria decisão de 06/09/2023 nos autos da RcL
+43.007, que reconheceu a imprestabilidade dos elementos obtidos a partir
+do Acordo de Leniência da Odebrecht, ressaltou-se no dispositivo,
+expressamente, que nos feitos em que tivesse havido a utilização de tais
+elementos, o exame a respeito do contágio a outras provas e também a
+decisão sobre se arquivar inquéritos ou ações deveriam ser realizados
+pelo juiz natural do feito, observando-se as peculiaridades de cada caso
+concreto:
+“Ressalto, outrossim, que nos feitos, seja de que
+natureza for, em que houve a utilização destes elementos
+de prova, o exame a respeito do contágio de outras provas,
+bem como sobre a necessidade de se arquivar inquéritos
+ou ações judiciais deverá ser realizado pelo juízo natural
+do feito, consideradas as balizas aqui fixadas e as
+peculiaridades do caso concreto.”
+16. Em verdade, o “reconhecimento, em pedido de extensão, da
+imprestabilidade dos elementos de prova obtidos a partir dos sistemas
+Drousys e My Web Day B, não resulta na atração da competência do STF
+para análise, em cognição perfunctória, de eventual contaminação dos
+demais elementos de provas reunidos em feito de instância diversa e
+menos ainda para avaliar se, excluídas as provas contaminadas,
+remanesce suporte probatório mínimo para processamento da acusação”,
+conforme já asseverado pelo Parquet em outros feitos análogos, de forma
+
+4
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 38D5-4503-3AE6-18B2 e senha 2844-8B04-A181-E5D2
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 75 de 76
+
+PET 13482 AGR / DF
+que é “o juízo de primeira instância que deverá analisar se, descartadas as
+provas relacionadas ao Acordo de Leniência da Odebrecht, existem
+elementos probatórios suficientes para dar continuidade à Ação de
+Improbidade Administrativa”.
+17. Acrescenta-se, no presente caso, a problemática derivada do fato
+de a absolvição na esfera penal ter sido prolatada por insuficiência de
+provas, e não, por exemplo, por reconhecimento expresso da inexistência
+do fato imputado, nos termos do art. 386, I, do Código de Processo Penal.
+18. As esferas Penal e Cível são independentes, com princípios
+próprios. A exigência probatória para a condenação criminal é mais
+rigorosa, dada a própria natureza do Direito Penal como ultima ratio e
+instrumento mais invasivo estatal na esfera da liberdade dos indivíduos.
+A dúvida, que no Processo Penal, via de regra, é solucionada em favor
+dos acusados (conforme tradicional adágio latino “in dubio pro reo”), não
+milita nos mesmos moldes em favor dos requeridos, no âmbito de uma
+Ação de Improbidade.
+19. Ante o exposto, com as devidas vênias, dou provimento ao
+Agravo Regimental, nos termos propostos pela Procuradoria-Geral da
+República.
+É como voto.
+
+5
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 38D5-4503-3AE6-18B2 e senha 2844-8B04-A181-E5D2
+
+Supremo Tribunal Federal
+Extrato de Ata - 29/09/2025
+
+Inteiro Teor do Acórdão - Página 76 de 76
+
+SEGUNDA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NA PETIÇÃO 13.482 DISTRITO FEDERAL
+PROCED. : DISTRITO FEDERAL/DF
+RELATOR(A): MIN. DIAS TOFFOLI
+AGTE.(S): MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES): PROCURADOR-GERAL DA REPÚBLICA
+AGDO.(A/S): JOAO CARLOS MARIZ NOGUEIRA
+ADV.(A/S): GEORGES ABBOUD (30970/DF, 290069/SP)
+Decisão:
+A Turma, por maioria, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Dias Toffoli,
+vencidos os Ministros André Mendonça e Edson Fachin. Segunda Turma,
+Sessão Virtual de 19.9.2025 a 26.9.2025.
+Composição: Ministros Gilmar Mendes (Presidente), Dias Toffoli,
+Edson Fachin, Nunes Marques e André Mendonça.
+Maria Clara Viotti Beck
+Secretária da Segunda Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código ED26-C669-DC09-B181 e senha F8F2-2BD3-489F-5737
