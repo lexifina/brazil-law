@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Agravo interno. Efeito devolutivo da apelação. Inexistência de inovação recursal. Ausência de cotejo analítico para comprovação de dissídio jurisprudencial. Agravo interno DESprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial.
+2. A parte agravante alegou inovação recursal na apelação apresentada pela Associação Apoio Mineiro de Proteção aos Proprietários de Veículos, em violação do art. 1.013, § 1º, do Código de Processo Civil, além de ofensa ao art. 489, § 1º, IV, e ao art. 1.022 do Código de Processo Civil, por ausência de enfrentamento de todos os argumentos capazes de infirmar a conclusão adotada.
+3. A decisão agravada foi fundamentada na inexistência de inovação recursal, considerando que a matéria suscitada em apelação está no âmbito do efeito devolutivo do recurso, e na ausência de cotejo analítico necessário para comprovar o dissídio jurisprudencial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve inovação recursal na apelação apresentada pela Associação Apoio Mineiro de Proteção aos Proprietários de Veículos e se o dissídio jurisprudencial foi devidamente comprovado por meio de cotejo analítico.
+III. Razões de decidir
+5. O efeito devolutivo da apelação é amplo, permitindo ao recorrente discutir as consequências jurídicas atribuídas pelo juízo de primeiro grau, inclusive por réu revel, conforme o art. 1.013, caput e § 1º, do Código de Processo Civil.
+6. A revelia não impede o réu de discutir as consequências jurídicas dos fatos presumidos verdadeiros, sendo legítimo o exercício do direito de defesa na apelação.
+7. Para a comprovação de dissídio jurisprudencial, é indispensável o cotejo analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: 1. O efeito devolutivo da apelação permite ao recorrente discutir as consequências jurídicas atribuídas pelo juízo de primeiro grau, inclusive por réu revel. 2. A comprovação de dissídio jurisprudencial exige cotejo analítico demonstrando a similitude fática entre os julgados.
+Dispositivos relevantes citados: CPC/2015, arts. 1.013, 1.022, 489 e 345; CC, art. 768.
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.848.104/SP, relator Ministro Luis Felipe Salomão, rel. p/ Acórdão Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20.4.2021.
+RELATÓRIO
+ELIAS DE ARAÚJO BRAGA interpõe agravo interno contra a decisão de fl. 711, que negou provimento ao agravo em recurso especial, mantendo a inadmissibilidade do recurso especial por ausência de ofensa aos arts. 1.022, § 1º, IV, 489 e 1.013, § 1º, do Código de Processo Civil, e ao art. 768 do Código Civil, além de não ter sido comprovado o dissídio jurisprudencial por ausência de cotejo analítico.
+A parte agravante reafirma que houve inovação recursal na apelação apresentada pela Associação Apoio Mineiro de Proteção aos Proprietários de Veículos, em violação do art. 1.013, § 1º, do Código de Processo Civil, pois a tese de exclusão de responsabilidade por cláusula contratual não foi debatida em primeira instância. Alega que a decisão impugnada desconsiderou o princípio da preclusão, permitindo a introdução de novos argumentos após a sentença, o que compromete a lógica processual.
+Alega ainda ofensa ao art. 489, § 1º, IV, e ao art. 1.022 do Código de Processo Civil, porquanto o Tribunal de origem não enfrentou todos os argumentos capazes de infirmar a conclusão adotada, especialmente no que tange à inovação recursal. Argumenta que a ausência de análise de tais pontos prejudica o prequestionamento necessário para a interposição de recursos.
+Afirma que apresentou o cotejo analítico necessário para demonstrar o dissídio jurisprudencial quanto à interpretação do art. 768 do Código Civil, destacando decisões conflitantes entre os Tribunais de Minas Gerais e Paraná sobre a caracterização do agravamento intencional do risco em casos de infração de trânsito.
+Requer o provimento do agravo interno para que seja reconsiderada a decisão monocrática ou, subsidiariamente, a submissão do recurso ao colegiado, com o consequente provimento do recurso especial.
+Nas contrarrazões, a ASSOCIAÇÃO APOIO MINEIRO DE PROTEÇÃO AOS PROPRIETÁRIOS DE VEÍCULOS aduz que a decisão agravada deve ser mantida, pois o Tribunal de origem analisou todas as questões necessárias, afastando a alegação de inovação recursal, já que a matéria suscitada em apelação está no âmbito do efeito devolutivo do recurso. Argumenta que a reforma da decisão demandaria reexame de cláusulas contratuais e de elementos fáticos-probatórios, o que é vedado pelas Súmulas n. 5 e 7 do STJ. Sustenta ainda que o agravante não apresentou o confronto analítico exigido para comprovar o dissídio jurisprudencial, além de não haver prequestionamento dos dispositivos legais indicados, atraindo a aplicação das Súmulas n. 282 e 356 do STF. Requer o não provimento do agravo interno, com a majoração dos honorários advocatícios nos termos do art. 85, § 11, do Código de Processo Civil.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno. Efeito devolutivo da apelação. Inexistência de inovação recursal. Ausência de cotejo analítico para comprovação de dissídio jurisprudencial. Agravo interno DESprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial.
+2. A parte agravante alegou inovação recursal na apelação apresentada pela Associação Apoio Mineiro de Proteção aos Proprietários de Veículos, em violação do art. 1.013, § 1º, do Código de Processo Civil, além de ofensa ao art. 489, § 1º, IV, e ao art. 1.022 do Código de Processo Civil, por ausência de enfrentamento de todos os argumentos capazes de infirmar a conclusão adotada.
+3. A decisão agravada foi fundamentada na inexistência de inovação recursal, considerando que a matéria suscitada em apelação está no âmbito do efeito devolutivo do recurso, e na ausência de cotejo analítico necessário para comprovar o dissídio jurisprudencial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve inovação recursal na apelação apresentada pela Associação Apoio Mineiro de Proteção aos Proprietários de Veículos e se o dissídio jurisprudencial foi devidamente comprovado por meio de cotejo analítico.
+III. Razões de decidir
+5. O efeito devolutivo da apelação é amplo, permitindo ao recorrente discutir as consequências jurídicas atribuídas pelo juízo de primeiro grau, inclusive por réu revel, conforme o art. 1.013, caput e § 1º, do Código de Processo Civil.
+6. A revelia não impede o réu de discutir as consequências jurídicas dos fatos presumidos verdadeiros, sendo legítimo o exercício do direito de defesa na apelação.
+7. Para a comprovação de dissídio jurisprudencial, é indispensável o cotejo analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: 1. O efeito devolutivo da apelação permite ao recorrente discutir as consequências jurídicas atribuídas pelo juízo de primeiro grau, inclusive por réu revel. 2. A comprovação de dissídio jurisprudencial exige cotejo analítico demonstrando a similitude fática entre os julgados.
+Dispositivos relevantes citados: CPC/2015, arts. 1.013, 1.022, 489 e 345; CC, art. 768.
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.848.104/SP, relator Ministro Luis Felipe Salomão, rel. p/ Acórdão Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20.4.2021.
+VOTO
+A decisão deve ser mantida por seus próprios fundamentos, pois a alegação de que a apelação da Associação Apoio constituiu inovação recursal não procede.
+No caso, o juiz de primeiro grau condenou a Associação Apoio de forma solidária com o ora recorrente a reparar os danos materiais sofridos pela autora. Entretanto, na apelação, a Associação Apoio argumentou que o contrato firmado com o recorrente prevê a exclusão da responsabilidade por reparação dos danos decorrentes de infração de trânsito cometida pelo associado, tal qual ocorreu no caso.
+Não há falar, pois, em inovação, uma vez que a matéria relativa à responsabilidade da Associação havia sido decidida em primeira instância. O fato de a mencionada associação ter sido revel em primeiro grau de jurisdição não restringe as matérias que pode alegar na apelação, podendo contrapor-se à solução jurídica conferida pelo magistrado de primeiro grau. Esse é o entendimento do Superior Tribunal de Justiça, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM RESCISÃO CONTRATUAL. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS ALEGADOS NA PETIÇÃO INICIAL. TESES JURÍDICAS DEDUZIDAS EM APELAÇÃO. EXAME. NECESSIDADE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO PROVIDO.
+1. (..)
+2. Embora a revelia implique presumir verdadeiros os fatos alegados na petição inicial, disso não resulta a automática e inevitável procedência dos pedidos formulados pela parte autora, tampouco limite ao exercício da dialética jurídica, pelo réu revel, visando à defesa técnica de seus interesses.
+3. A presunção de veracidade sobre os fatos não subtrai do revel a possibilidade de discutir suas consequências jurídicas. Trata-se, ademais, de presunção relativa, pois é certo que ao Magistrado compete o exame conjunto das alegações e das provas produzidas pelas partes (inclusive o réu, se comparecer aos autos antes de ultimada a fase probatória), conforme dispõe o art. 345, IV, do CPC/2015.
+4. Na apelação, o efeito devolutivo é amplo e não encontra restrição no campo da profundidade, estando apenas balizado pelos limites da impugnação deduzida pelo recorrente (extensão), conforme disciplina o art. 1.013, caput e § 1º, do CPC/2015. Logo, a devolutividade da apelação não está adstrita à revisão dos fatos e das provas dos autos, mas, especialmente, sobre as consequências jurídicas que lhes atribuiu o juízo a quo. Portanto, não apenas as matérias de ordem pública podem ser agitadas pelo réu revel em sua apelação, mas todo e qualquer argumento jurídico que possa alterar o resultado do julgamento.
+5. No caso concreto, as teses deduzidas na apelação traduzem o legítimo exercício do direito de defesa, sobretudo quando a impugnação volta-se contra a fundamentação explicitada pelo Julgador, que teria invocado os princípios da boa-fé, da função social do contrato e da equivalência para, em interpretação extensiva, condenar a recorrente no pagamento de multa contratual que se afirma inaplicável à espécie. Trata-se, portanto, de argumentação técnica que se contrapõe à solução jurídica conferida à lide pelo juiz de primeiro grau, longe de configurar inovação.
+6. A possibilidade de revisão judicial e de mitigação da força obrigatória dos pactos, em casos excepcionais, não permite ao Judiciário criar obrigação contratual não avençada entre as partes, sobretudo no âmbito de uma avença para a qual não se invoca a incidência de lei protetiva.
+7. Agravo interno provido para dar provimento ao recurso especial. (AgInt no REsp n. 1.848.104/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/4/2021, DJe de 11/5/2021.)
+Por fim, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julg ados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
