@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SAMPEL INDÚSTRIA E COMÉRCIO DE PEÇAS AUTOMOTIVAS LTDA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fl. 618):
+TRIBUTÁRIO. AGRAVO INTERNO. PIS E COFINS. INSUMOS. DESPESAS SUPORTADAS COM COMISSÕES DE REPRESENTANTES, INFORMÁTICA, MARKETING/PUBLICIDADE E PROPAGANDA. CREDITAMENTO. NÃO RECONHECIMENTO. AGRAVO DESPROVIDO.
+I. O julgamento monocrático se deu segundo as atribuições conferidas pelo artigo 932, IV, "b", do CPC/2015.
+II. Por ocasião do julgamento do recurso observar-se-á o disposto no artigo 1.021 do Código de Processo Civil de 2015.
+III. Conforme se constata, a r. decisão apresentou de maneira clara e suficiente as razões que nortearam a convicção esposada. Na realidade, a parte agravante não concorda com as premissas e fundamentos adotados na decisão, buscando, em verdade, externar seu inconformismo com a solução adotada que lhe foi desfavorável, pretendendo vê-la alterada.
+IV. Como é cediço, o magistrado não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+V. Quanto à hipótese contida no § 3º do artigo 1.021 do CPC de 2015, entendo que a vedação só se justifica na hipótese de o agravo interno interposto não se limitar à mera reiteração das razões de apelação, o que não é o caso do presente agravo, como se observa do relatório.
+VI. Agravo Interno desprovido.
+Houve oposição de embargos declaratórios, os quais foram rejeitados, em ementa assim sumariada (fl. 670):
+EMBARGOS DE DECLARAÇÃO. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+1. Os embargos de declaração são cabíveis nas hipóteses de omissão, contradição ou obscuridade, bem como para correção de erro material, nos termos do art. 1.022 do CPC, não sendo o meio adequado para modificação ou reexame de matéria analisada pelo órgão julgador.
+2. O v. acórdão apresentou de maneira clara e suficiente as razões que nortearam a convicção do colegiado. Na realidade, a embargante não concorda com as premissas e fundamentos adotados na decisão e pretende sua reforma, o que não é admissível por meio de embargos de declaração.
+3. O magistrado não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas, ou a responder, um a um, a todos os seus argumentos quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+4. Desnecessária a referência expressa aos dispositivos legais e constitucionais tidos por violados para fins de prequestionamento, haja vista que os embargos de declaração não se prestam a tal finalidade se neles não se evidencia a ocorrência de omissão, contradição, obscuridade ou erro material.
+5. Embargos declaratórios rejeitados.
+Em seu recurso especial de fls. 679-712, a parte recorrente alega violação aos artigos 7º, 11, 1022 e 489, § 1º, incisos IV e V, ambos do Código de Processo Civil (CPC), sob o fundamento de que o acórdão recorrido não teria apresentado a devida motivação, na medida em que não enfrentou todos os argumentos apresentados pela empresa, especialmente a aplicação do conceito de insumo definido pelo Superior Tribunal de Justiça (STJ).
+Além disso, a parte recorrente suscita ofensa aos artigos 3º das Leis nº 10.637/02 e nº 10.833/03, com a alegação de que a interpretação restritiva do conceito de insumo por parte do Tribunal de origem é indevida. Acrescenta que, para fins de creditamento de PIS e COFINS, o conceito de insumo deve ser amplo, seguindo a jurisprudência do STJ firmada no Recurso Especial nº 1.221.170 (Tema nº 779).
+O Tribunal de origem, às fls. 776-782, não admitiu o recurso especial sob os seguintes fundamentos:
+A ventilada nulidade por violação aos arts. 7º, 11, 489 e 1.022, do CPC, não tem condições de prosperar, porquanto o acórdão recorrido enfrentou de forma fundamentada o cerne da controvérsia submetida ao Poder Judiciário.
+Nesse sentido, o "julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (STJ, EDcl no MS n.º 21.315/DF, Rel. Min. DIVA MALERBI (Desembargadora Convocada do TRF da 3.ª Região), Primeira Seção, DJe 15/6/2016).
+Ademais, os fundamentos e teses pertinentes para a decisão da questão jurídica foram analisados, sem embargo de que "Entendimento contrário ao interesse da parte e omissão no julgado são conceitos que não se confundem" (STJ, EDcl no RMS n.º 45.556/RO, Rel. Min. Humberto Martins, Segunda Turma, DJe 25/08/2016).
+(..)
+Quanto à alegada violação aos arts. 3º, das Leis n.º 10.632/02 e n.º 10.833/03, pontuo que o Superior Tribunal de Justiça, no julgamento do REsp 1.221.170 (Temas 779, 780), sob o regime de repetitividade, decidiu que "o conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, ou seja, considerando-se a imprescindibilidade ou a importância de terminado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo Contribuinte".
+(..)
+No caso dos autos, ao analisar a pretensão sob o critério de essencialidade e relevância das despesas citadas, o acórdão atuou em consonância com a orientação firmada no precedente paradigmático.
+Ademais, não obstante a fundamentação adotada pela recorrente, verifico que a Relatora, atenta às peculiaridades dos autos, concluiu que "as despesas indicadas não se qualificam como insumos".
+Considerando que os fundamentos decisórios dependeram da análise das circunstâncias fáticas do caso concreto, revisitar aludidas conclusões, seja para confirmá-las, seja para infirmá-las, demandaria o reexame do acervo probatório dos autos, providência que esbarra no entendimento consolidado na Súmula n.º 7 do STJ, a qual preconiza que "a pretensão de simples reexame de prova não enseja recurso especial".
+(..)
+Em face do exposto, não admito o Recurso Especial.
+Em seu agravo, às fls. 786-825, a parte agravante aduz que a decisão agravada, ao adentrar no mérito da controvérsia, usurpou a competência do STJ.
+Além disso, reitera a argumentação acerca da violação aos artigos 7º, 11, 489, § 1º, e 1.022, ambos do CPC, defendendo que a falta de fundamentação específica sobre a essencialidade das despesas para a atividade da empresa configuraria omissão e nulidade do acórdão recorrido.
+Por fim, renova sua alegação sobre a ofensa aos dema is dispositivos legais já suscitados em seu recurso especial.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não contestou especificamente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se: a) na premissa de que o acórdão recorrido enfrentou o cerne da controvérsia de forma fundamentada e que o julgador não é obrigado a responder a todos os argumentos se já encontrou motivo suficiente para fundamentar sua decisão; e b) na incidência da Súmula nº 7/STJ, haja vista que a pretensão de rever as conclusões do acórdão de origem sobre a qualificação das despesas como insumos exigiria o revolvimento de matéria fática.
+Todavia, no seu agravo, a parte agravante não refutou suficientemente os referidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do STJ , não conheço do agravo em rec urso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
