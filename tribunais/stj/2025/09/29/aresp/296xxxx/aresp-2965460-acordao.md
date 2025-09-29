@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. CARTÃO DE CRÉDITO CONSIGNADO. AÇÃO REVISIONAL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR) TEMA 73 DO TJMG. PEDIDO DE SUSPENSÃO E INCIDÊNCIA DO IRDR. RAZÕES RECURSAIS TOTALMENTE DESCONEXAS COM A MATÉRIA DOS AUTOS. INADMISSIBILIDADE. DEFICIÊNCIA DA FUNDAMENTAÇÃO. RECONHECIMENTO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. ACÓRDÃO, ADEMAIS, QUE APLICOU O TEMA, APENAS ESTANDO EM DESACORDO COM A PRETENSÃO DA PARTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Os argumentos do recorrente relativos à necessidade de "suspensão" e "aplicação" do IRDR estão totalmente desconexos com a matéria dos autos, o que torna totalmente deficiente sua fundamentação, atraindo a incidência da Súmula n. 284 do STF.
+2. Ademais, não há como ignorar que, ao contrário do que afirmou a parte, o Tribunal estadual aplicou o Tema n. 73 nos autos do IRDR n. 1.0000.20.602263-4/001.
+3. E o fato de a interpretação dada ao IRDR no caso concreto estar divorciada da pretensão do autor é insuficiente para reformar o entendimento do Tribunal estadual.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por SEBASTIÃO FERREIRA DIAS (SEBASTIÃO) contra decisão que não admitiu seu apelo nobre manejado, por sua vez, com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO - AUSÊNCIA DE PROVA DA OCORRÊNCIA DE VÍCIO DE CONSENTIMENTO - TEMA Nº 73 IRDR - TJMG - IMPROCEDÊNCIA DO PEDIDO DE REVISÃO DA TAXA DE JUROS PACTUADA - CONTRATAÇÃO DE SEGURO PRESTAMISTA - CONFIGURAÇÃO DE VENDA CASADA - RESP Nº 1.639.320/SP (TEMA Nº 972) - REPETIÇÃO EM DOBRO - PARÁGRAFO ÚNICO DO ART. 42 DO CDC - AUSÊNCIA DE DEMONSTRAÇÃO DA MÁ-FÉ DO BANCO - NÃO CABIMENTO - DANO MORAL NÃO CONFIGURADO.
+- Nos termos do art. 373, inciso I, do CPC, não havendo nos autos prova suficiente da ocorrência do vício de consentimento alegado pela parte autora na peça exordial, há de se julgar improcedente o pedido de revisão da taxa de juros pactuada.
+- A partir do julgamento do tema nº 972 nos autos do Recurso Especial nº 1.639.320/SP, o STJ passou a entender que a exigência de prévia contratação do seguro prestamista configura venda casada, vez que não é assegurada ao consumidor a liberdade de escolha quanto à seguradora a ser contratada.
+- A demonstração da má-fé do credor constitui requisito imprescindível para o deferimento do pedido de restituição em dobro do indébito em dobro, prevista no art. 42, parágrafo único, do CDC, e do art. 940 do CCB/02. A existência de previsão contratual acerca das cobranças promovidas pela instituição financeira afasta a presença de tal requisito.
+- Os fundamentos da pretensão inicial se resumem à mera inadequação de cláusulas contratuais, o que, por si só, não configura dano moral indenizável." (e-STJ, fls. 286-293).
+Os embargos de declaração de BANCO BMG S.A. (BMG) E SEBASTIÃO foram rejeitados (e-STJ, fls. 309-314 e 335-341).
+Nas razões do agravo, SEBASTIÃO apontou (1) que a decisão de inadmissibilidade do recurso especial desconsiderou o prequestionamento da matéria, que foi devidamente suscitado em todas as fases processuais, inclusive em embargos de declaração; (2) que não há óbice da Súmula n. 7 do STJ, pois o recurso especial não busca reexame de provas, mas sim a correta aplicação do art. 985, I, do CPC, em relação ao Incidente de Resolução de Demandas Repetitivas (IRDR) Tema n. 73 do TJMG.
+Não foi apresentada contraminuta.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, SEBASTIÃO apontou (1) violação do art. 985, I, do CPC, sob o argumento de que o Tribunal de origem não aplicou corretamente o precedente vinculante do IRDR Tema n. 73 do TJMG, que trata da validade de contratos de cartão de crédito consignado e da possibilidade de conversão em contrato de empréstimo consignado em caso de erro substancial; (2) descumprimento do art. 313, IV, do CPC, pela ausência de suspensão do processo após a admissão do IRDR; (3) afronta ao art. 987, § 1º, do CPC, ao não reconhecer o efeito vinculante e suspensivo do julgamento do IRDR; (4) violação ao Código de Defesa do Consumidor (arts. 6º, IV, e 51, IV), ao não reconhecer a abusividade das cláusulas contratuais e a ausência de transparência na contratação; (5) descumprimento da Resolução n. 4.549/2017 do Banco Central, que proíbe o refinanciamento mensal em cartão de crédito consignado com desconto em folha de pagamento.
+Foram apresentadas contrarrazões (e-STJ, fls. 357-365).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. CARTÃO DE CRÉDITO CONSIGNADO. AÇÃO REVISIONAL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR) TEMA 73 DO TJMG. PEDIDO DE SUSPENSÃO E INCIDÊNCIA DO IRDR. RAZÕES RECURSAIS TOTALMENTE DESCONEXAS COM A MATÉRIA DOS AUTOS. INADMISSIBILIDADE. DEFICIÊNCIA DA FUNDAMENTAÇÃO. RECONHECIMENTO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. ACÓRDÃO, ADEMAIS, QUE APLICOU O TEMA, APENAS ESTANDO EM DESACORDO COM A PRETENSÃO DA PARTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Os argumentos do recorrente relativos à necessidade de "suspensão" e "aplicação" do IRDR estão totalmente desconexos com a matéria dos autos, o que torna totalmente deficiente sua fundamentação, atraindo a incidência da Súmula n. 284 do STF.
+2. Ademais, não há como ignorar que, ao contrário do que afirmou a parte, o Tribunal estadual aplicou o Tema n. 73 nos autos do IRDR n. 1.0000.20.602263-4/001.
+3. E o fato de a interpretação dada ao IRDR no caso concreto estar divorciada da pretensão do autor é insuficiente para reformar o entendimento do Tribunal estadual.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Da contextualização fática
+Como emana dos autos, SEBASTIÃO propôs ação revisional de contrato cumulada com pedido de indenização por danos materiais e morais em face do Banco BMG S.A., em razão de contrato de cartão de crédito consignado. Sebastião alegou que foi induzido a erro ao contratar o referido cartão, acreditando tratar-se de um empréstimo consignado, e que a operação resultou em uma dívida crescente devido ao refinanciamento mensal do saldo devedor.
+O Juízo de primeira instância julgou parcialmente procedentes os pedidos, determinando a conversão do contrato em empréstimo consignado e a restituição de valores cobrados indevidamente, mas afastou a condenação por danos morais.
+O Tribunal de Justiça de Minas Gerais reformou parcialmente a sentença, afastando a conversão do contrato e a restituição de valores relacionados à taxa de juros, mas reconhecendo a abusividade da cobrança de seguro prestamista, determinando sua exclusão e a devolução dos valores pagos a esse título.
+O acórdão fundamentou-se na ausência de prova de erro substancial e na aplicação do IRDR Tema n. 73, que exige a comprovação de indução ao erro para a conversão do contrato.
+Da aplicação do IRDR
+Em suas razões recursais, SEBASTIÃO alegou que não houve a suspensão do processo em razão da admissão do IRDR, ferindo o princípio da isonomia.
+Assim, ficando comprovado nos autos que SEBASTIÃO não utilizou o cartão de crédito, o precedente se amolda perfeitamente ao caso concreto, sendo de rigor sua incidência ao caso concreto.
+Sobre o tema, o Tribunal de Justiça de Minas Gerais se manifestou nos seguintes termos:
+O termo de adesão de doc. 26 identifica expressamente a modalidade de crédito pactuada, denominada "cartão de crédito consignado", além de especificar o valor destinado ao pagamento mínimo das faturas, não havendo margem para dúvida por parte da cliente.
+O referido instrumento contratual veio acompanhado do "Termo de consentimento esclarecido do cartão de crédito consignado" subscrito pelo segundo apelante, por meio do qual este declara estar ciente de que: a) contratou um cartão de crédito consignado; b) a realização de saque mediante a utilização do cartão de crédito ensejará a incidência de encargos e que o valor do saque, acrescido destes encargos, constará da próxima fatura do cartão; c) a diferença entre o valor pago mediante consignação e o total da fatura poderá ser paga por meio da fatura mensal, o que é recomendado pelo BANCO BMG S/A; d) caso a fatura não seja integralmente paga até a data de vencimento, incidirão encargos sobre o valor devido; e) existem outras modalidades de crédito, a exemplo do empréstimo consignado, que possuem juros mensais em percentuais menores.
+Como se não bastasse, a fatura vencida em 10/05/2023 indica que o autor efetivamente utilizou o cartão de crédito disponibilizado pelo réu para realizar um saque complementar no valor de R$ 1.449,61, tendo efetuado apenas o pagamento mínimo de todas as faturas (f. 33 do doc. 27).
+Tal situação evidencia que o segundo apelante tinha plena ciência dos serviços por ele contratados.
+Assim, conclui-se que a parte autora não logrou êxito em comprovar que sua manifestação de vontade, no momento da celebração do contrato de cartão de crédito consignado, se deu sob a influência de erro.
+Também deixou de trazer aos autos qualquer elemento de prova que aponte que houve violação aos deveres de informação e transparência por parte da instituição financeira.
+Tal entendimento encontra-se em perfeita consonância com as teses jurídicas fixadas pela 2ª Seção Cível deste egrégio Tribunal, por ocasião do julgamento do Tema nº 73 nos autos do IRDR nº 1.0000.20.602263-4/001.
+Portanto, urge a reforma da r. sentença nesse ponto, julgando- se improcedente o pedido de revisão da taxa de juros pactuada entre as partes. (e-STJ, fls. 289-291).
+Em um primeiro momento SEBASTIÃO postulou a "suspensão do processo" diante da admissão do IRDR (e-STJ, fls. 347), mas depois afirmou ser necessário "aplicar o precedente transitado em julgado" (e-STJ, fls. 349).
+Diante desse cenário, não há como ignorar que os argumentos de SEBASTIÃO estão totalmente desconexos com a matéria dos autos, o que torna totalmente deficiente sua fundamentação, atraindo, também, a incidência da Súmula 284 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, a jurisprudência dessa Corte Superior é tranquila ao considerar deficiente a fundamentação que não guarda qualquer relação com as questões tratadas nos autos.
+Vejam-se:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LEILÃO DE IMÓVEL. PREÇO VIL. RECURSO NÃO CONHECIDO.
+ ..
+5. A recorrente apresentou argumentos desconexos da decisão recorrida, incorrendo em vício insanável, atraindo a incidência da Súmula n. 284 do STF, que impede a análise do recurso pelo tribunal superior.
+ ..
+Tese de julgamento: "1. É deficiente o recurso especial quando suas razões estão dissociadas dos fundamentos do acórdão impugnado, o que atrai, por analogia, a incidência da Súmula n. 284 do STF. 2. A arrematação de imóvel em leilão por valor correspondente a 60% do valor de avaliação não configura preço vil. 2. A fixação de lance mínimo em 60% do valor da avaliação está em conformidade com os arts. 891 e 843 do CPC, que estabelecem que o preço mínimo não pode ser inferior a 50% do valor da avaliação".
+ ..
+(REsp n. 1.884.369/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 20/5/2025, DJEN de 23/5/2025)
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO. PROMESSA DE COMPRA E VENDA IMOBILIÁRIA. LEI Nº 4.591/1964. CÓDIGO DE DEFESA DO CONSUMIDOR. FUNDAMENTOS LEGAIS DA LIDE. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. REGISTRO. INEXISTENTE. TEMA Nº 1.095/STJ. INAPLICÁVEL. ILEGITIMIDADE PASSIVA AD CAUSAM. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. ARTIGOS APONTADOS COMO VIOLADOS. PREQUESIONAMENTO. AUSÊNCIA. RESTITUIÇÃO PARCIAL DOS VALORES PAGOS. DESISTÊNCIA DO COMPRADOR. POSSIBILIDADE. LEILÃO EXTRAJUDICIAL. IRRELEVÂNCIA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. INVIÁVEL. DESPESAS COM SEGURO, RATEIO E REALIZAÇÃO DO LEILÃO. DISPOSITIVOS LEGAIS VIOLADOS OU INTERPRETADOS DE FORMA DIVERGENTE. INDICAÇÃO. AUSENTE. SÚMULA N 284/STF. CORREÇÃO MONETÁRIA. INCIDÊNCIA. A PARTIR DE CADA DESEMBOLSO.
+ ..
+2. Encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+(REsp n. 2.179.100/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 19/5/2025, DJEN de 23/5/2025)
+Ademais, não há como ignorar que, ao contrário do que afirmou SEBASTIÃO, o Tribunal de Justiça de Minas Gerais aplicou o Tema nº 73 nos autos do IRDR nº 1.0000.20.602263-4/001 (e-STJ, fls. 291).
+E o fato de a interpretação dada ao IRDR no caso concreto estar divorciada da pretensão do autor é insuficiente para reformar o entendimento do Tribunal estadual.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em R$ 1.000,00 (mil reais) o valor dos honorários advocatícios anteriormente fixados em favor do BMG, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
+É o voto.
