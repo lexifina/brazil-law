@@ -1,0 +1,70 @@
+DECISÃO
+EVANDRO LEITE FURINO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça de São Paulo no Habeas Corpus Criminal n. 2262877-84.2025.8.26.0000.
+Consta dos autos que o paciente foi condenado à pena de 12 anos de reclusão, pela prática do crime previsto no art. 121, § 2º, II, IV, do Código Penal. Em fase de execução penal, formulou pedido de progressão para o regime semiaberto após atingir o lapso temporal para o benefício. O Juízo da Execução, em 14/10/2024, deferiu o pedido de progressão
+Posteriormente, a Corte local deu provimento ao agravo ministerial (fls. 26-32), a fim de cassar a decisão proferida pelo Juízo das execuções, a fim de regredir o paciente ao regime fechado e determinar a realização de exame criminológico.
+Em face da delonga na realização do referido exame, a defesa impetrou este habeas corpus.
+A defesa aduz, em síntese, que: a) há excesso de prazo, pois o paciente aguarda a realização do exame há cinco meses, sem previsão de conclusão, por falha do aparato estatal; b) a Lei n. 14.843/2024, que tornou o exame obrigatório, é mais gravosa e não pode retroagir para alcançar delito praticado em 2019; c) a decisão que exigiu a perícia carece de fundamentação concreta, pois o paciente é primário, não possui registro de faltas disciplinares, exerce atividade laboral e já usufruiu de saídas temporárias com êxito.
+Requer, assim, a concessão da ordem para afastar a exigência do exame criminológico e determinar a imediata análise do pedido de progressão de regime.
+Decido.
+I. Contextualização
+A controvérsia cinge-se a definir a legalidade da exigência de exame criminológico como condição para a análise do pedido de progressão ao regime aberto.
+O Juízo da Execução deferiu a progressão ao regime semiaberto, nos seguintes termos:
+Inicialmente, em que pese o posicionamento sustentando pelo D. Representante do Parquet, este magistrado entende incidentalmente inconstitucional a nova redação conferida ao artigo 112, §1º, da Lei de Execução Penal, acrescentado pela Lei nº 14.843/2024, tendo em vista que fere o princípio constitucional da individualização da pena, na medida em que impõe genérica e indistintamente a realização do exame criminológico a todos os reeducandos, em flagrante desprezo à análise individual e concreta de cada caso de acordo com a natureza do crime, e, especialmente, o histórico carcerário do indivíduo durante o cumprimento da pena.
+O Colendo Superior Tribunal de Justiça, em sessão realizada em 23/08/2024, por ocasião do julgamento do Recurso em Habeas Corpus nº 200670-GO, decidiu pela inconstitucionalidade da Lei nº 14.843/2024, estabelecendo o julgado na seguinte ementa:
+ ..
+Em decisões anteriores, o C. STJ também havia afastado o caráter obrigatório da realização de exame criminológico para progressão de regime:
+ ..
+Acrescente-se ainda que diante do quadro reduzido e deficitário de expertos nos estabelecimentos prisionais, submeter todos os apenados que alcançaram o lapso temporal a exames criminológicos, resultaria em enormes atrasos processuais e superlotação, violando o princípio da duração razoável do processo e da dignidade da pessoa humana, bem como a observância estrita do dispositivo penal importará, na prática, em violação ao princípio da individualização da pena expresso no art. 5º, inciso XLVI, da Constituição Federal, subtraindo de um grande número de apenados o direito a alcançar a progressão de regime quando preenchidos os requisitos legais.
+Outrossim, no caso em análise, considerando o período de cumprimento de pena e comportamento do executado no cárcere, entendo absolutamente desnecessária a diligência solicitada pelo Ministério Público, uma vez que não existe nos autos informação que torne essa medida imprescindível ao julgamento do pedido, sendo insuficientes, para tanto, a mera alusão à gravidade abstrata do delito (que constitui característica intrínseca ao tipo penal violado e que já fora considerada na dosimetria da reprimenda), ou eventual longa pena ainda por cumprir - porquanto seja exigido pela lei o cumprimento proporcional desse montante e não a sua integralidade.
+Por oportuno, observo que o Ministério Público teve vista dos autos sobre o pedido ajuizado e restringiu-se a requerer a realização de exame criminológico, embora pudesse, na mesma oportunidade, posicionar-se sobre o mérito da benesse. Houve, portanto, a prévia audiência do Ministério Público, a satisfazer a exigência do artigo 67 da Lei de Execução Penal (fls. 20-22, grifei).
+O Tribunal de Justiça, ao cassar o decisum ponderou o seguinte:
+ ..
+Temos que a nova Lei nº 10.792/03, que alterou o artigo 112 da LEP, não impediu que tal exame, para a verificação da cessação de periculosidade do agente ou para comprovar sua capacidade de readaptação social, fosse solicitado pelo juiz, quando julgasse necessário.
+Isso porque, de fato, o atestado de boa conduta carcerária, em casos como é o presente, não se mostra suficiente para que se afiram tais questões, eis que não descreve meticulosamente a conduta do reeducando, nem sequer faz referência ao que sobre ele ponderam os agentes penitenciários que fiscalizaram o cumprimento de sua pena, sendo por demais superficial em seu conteúdo.
+ ..
+Com efeito, o atestado de boa conduta carcerária não é suficiente para se aferir o preenchimento do requisito subjetivo pelo sentenciado, eis que o diretor da penitenciária não descreve a conduta do agravado considerada "boa" e não menciona o quão ressocializado já está, conforme nos ensina Manoel Pedro Pimentel, bem citado por Renato Marcão:
+ ..
+Aliás, o trabalho e a boa conduta carcerária são comportamentos que devem ostentar todos os reeducandos, sem que isso represente qualquer favor ou até mesmo mérito; é pura obrigação.
+Também não podemos resumir a atividade jurisdicional como sendo de chancelaria, de modo a ser o Poder Judiciário mero burocrático ratificador de documentos emitidos pela direção da unidade prisional.
+ ..
+Ademais, de acordo com a Súmula nº 439, do Superior Tribunal de Justiça, "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". No mesmo sentido a Súmula Vinculante nº 26.
+Por tudo isto, a realização do exame criminológico é recomendável antes da concessão da progressão, devendo o sentenciado retornar ao regime no qual se encontrava, onde deverá aguardar a realização do laudo pericial, uma vez que a progressão se deu sem a verificação do requisito subjetivo, o que não poderia ocorrer, observando a gravidade do delito praticado pelo sentenciado, hediondo, cometido com violência contra a pessoa, aliado à longa pena a cumprir, com término de pena para 18/03/2033 (fls. 133/137 dos autos de execução).
+Necessário consignar que os princípios garantidos constitucionalmente, do contraditório e da ampla defesa, devem ser observados após a elaboração do laudo, sendo necessária a abertura de vista às partes para manifestação sobre o conteúdo do que ali consignado antes de se proferir a decisão (fls. 29-33, grifei).
+No julgamento do habeas corpus, o Tribunal local denegou a ordem, pois:
+Nesse diapasão, há de se reconhecer a incompetência desta Corte para o exame da presente impetração, uma vez que não cabe o conhecimento de irresignação contra suposta ilegalidade advinda desta C. Câmara, sendo certo que os atos praticados pelos Tribunais dos Estados e por seus Desembargadores estão sujeitos à apreciação do Superior Tribunal de Justiça.
+Destarte, impossível, neste ponto, o conhecimento da impetração.
+Em relação à alegação de excesso de prazo para a realização do referido exame, não se vislumbra qualquer irregularidade.
+Com efeito, conforme se depreende das informações prestadas pela autoridade coatora, bem como da análise dos autos, não se nota desídia por parte do Juízo de origem, que tem realizado, devidamente, os atos que lhe competem dentro de um prazo razoável, não havendo que se falar, portanto, em constrangimento ilegal.
+Ressalta-se que as delongas capazes de evidenciar excesso de prazo devem ser injustificadas, a denotar protelação por parte do Estado-juiz ou do Ministério Público, o que, frise-se, não ocorre no caso aqui em análise.
+ ..
+Assim, certo é que, em breve, haverá a realização do respectivo exame e a prolação da decisão a respeito do pedido de livramento condicional.
+Anota-se, por fim - a par do desvirtuamento da finalidade precípua do habeas corpus, uma vez que este não se presta a apressar incidentes em sede de execução -, a impossibilidade deste E. Tribunal de proceder à análise do benefício, sem qualquer decisão em primeiro grau a respeito, o que caracterizaria inegável supressão de instância.
+Destarte, não se vislumbra, ao menos por ora e nos estreitos limites do writ, patente constrangimento ilegal que autorize a concessão excepcional da medida pretendida (fls. 61-63, grifei).
+II. Exame criminológico e irretroatividade da Lei n. 14.843/2024
+Para os crimes praticados antes da vigência da Lei n. 14.843/2024, que passou a exigir o exame criminológico como regra, esta Corte Superior firmou o entendimento de que a nova norma, por ter natureza material e ser mais gravosa, não pode retroagir para prejudicar o apenado, em observância ao princípio da irretroatividade da lei penal mais severa, previsto no art. 5º, XL, da Constituição Federal.
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CASOS COMETIDOS SOB ÉGIDE DA LEI ANTERIOR. PRECEDENTES.
+1. A exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.
+2. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+3. No caso, todas as condenações do paciente são anteriores à Lei n. 14.843/2024, não sendo aplicável a disposição legal em comento de forma retroativa.
+4. Recurso em habeas corpus provido para afastar a aplicação do § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, determinando o retorno dos autos ao Juízo da execução para que prossiga na análise do pedido de progressão de regime. (RHC n. 200.670/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 23/8/2024.)
+Dessa forma, para os fatos anteriores à referida lei, permanece aplicável o entendimento consolidado na Súmula n. 439 desta Corte, segundo a qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". No mesmo sentido, a Súmula Vinculante n. 26 do Supremo Tribunal Federal faculta ao juízo da execução a determinação do exame, "de modo fundamentado".
+A jurisprudência deste Tribunal é firme em assinalar que a exigência da perícia não pode estar fundada apenas em elementos genéricos, como a gravidade abstrata do delito ou a longa pena a cumprir. A decisão deve apontar elementos concretos da execução da pena que indiquem a necessidade da medida para aferir o mérito do reeducando.
+É o que ilustra a seguinte decisão:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO AO REGIME ABERTO DEFERIDA PELO JUÍZO DAS EXECUÇÕES PENAIS. CASSAÇÃO PELA CORTE DE ORIGEM COM BASE, TÃO SOMENTE, NA GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL CONFIGURADO. RECURSO NÃO PROVIDO.
+1. Na espécie, a progressão do reeducando ao regime aberto foi cassada pelo Tribunal de origem com fundamento, tão somente, na gravidade abstrata do delito pelo qual foi condenado o paciente e na longa pena a cumprir.
+2. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+3. Impende ressaltar que, recentemente, no julgamento do Ag Rg no HC n. 519301/SP, afetado à Terceira Seção desta Corte, por unanimidade, manteve-se entendimento de que ""a gravidade abstrata do crime praticado não justifica diferenciado tratamento para a progressão prisional"" (julgamento concluído em 27/11/2019).
+4. Agravo regimental não provido.
+(AgRg no HC n. 554.365/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., julgado em 3/3/2020, DJe de 9/3/2020)
+III. O caso dos autos
+O delito pelo qual o paciente cumpre pena foi praticado em 7/11/2015, antes da vigência da Lei n. 14.843/2024. Desse modo, a exigência do exame criminológico demanda fundamentação concreta que demonstre sua efetiva necessidade.
+O julgado do TJSP, embora mencione a gravidade da conduta e a longa pena a cumprir, são elementos que, por si sós, motivação idônea para a medida excepcional, conforme a jurisprudência desta Corte.
+Acrescente-se que os documentos dos autos indicam que o paciente ostenta bom comportamento carcerário, conforme bem pontuado pelo Juízo das execuções. Tais fatores, que refletem a conduta do apenado durante a execução, são indicativos do preenchimento do requisito subjetivo e não foram devidamente sopesados pela autoridade judicial.
+A situação é agravada pelo fato de o paciente aguardar a realização do exame há cinco meses, sem apresentar previsão para a regularização.
+Portanto, a decisão que determinou a realização do exame criminológico carece de fundamentação concreta.
+IV. Dispositivo
+À vista do exposto, concedo a ordem, in limine, para afastar a exigência de realização de exame criminológico e restabelecer a decisão do Juízo das execuções, que deferiu a progressão do paciente ao regime semiaberto.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de Justiça do Estado de São Paulo, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
