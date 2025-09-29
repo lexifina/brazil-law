@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANTÔNIO MIKAIL (ESPÓLIO) e OUTROS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 1.200, 1.208, 1.228 e 1.240 do Código Civil, pela incidência da Súmula n. 7 do STJ e pela ausência de argumentação suficiente para demonstrar a ofensa ao art. 489 do Código de Processo Civil (fls. 642-644).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que decorreu o prazo legal sem apresentação de resposta ao agravo, conforme certidão de decurso de prazo à fl. 668.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação reivindicatória.
+O julgado foi assim ementado (fl. 590):
+EMENTA: AÇÃO REIVINDICATÓRIA - EMBORA OS AUTORES TENHAM DEMONSTRADO A TITULARIDADE DO DOMÍNIO DO IMÓVEL, OS RÉUS COMPROVARAM OS REQUISITOS DA USUCAPIÃO, NOS TERMOS DO ART. 1.240 DO CC, O QUE IMPEDE O ÊXITO DO PLEITO DEDUZIDO NA INICIAL - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 636-637):
+EMENTA: EMBARGOS DE DECLARAÇÃO - PRETENSÃO DOS RECORRENTES DE SANAR OMISSÕES DO JULGADO - ACÓRDÃO DEVIDAMENTE FUNDAMENTADO - NECESSIDADE DE ENQUADRAMENTO NAS HIPÓTESES DO ART. 1.022 DO CPC - EMBARGOS REJEITADOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, § 1º, IV, do Código de Processo Civil, porque o acórdão recorrido não enfrentou todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada pelo julgador;
+b) 1.200 do Código Civil, porque a posse dos recorridos é precária, clandestina e sem anuência da legítima proprietária, não podendo ser invocada para fins de usucapião;
+c) 1.208 do Código Civil, porque atos de invasão não podem gerar aquisição de posse, sendo impossível invocar usucapião com base em posse clandestina;
+d) 1.228 do Código Civil, porque o proprietário tem o direito de reaver o bem do poder de quem injustamente o possua ou detenha;
+e) 1.240 do Código Civil, porque os recorridos não comprovaram o exercício de posse por cinco anos ininterruptos, nem que o imóvel possua metragem inferior a 250 m , além de não haver justo título ou boa-fé.
+Sustenta que o Tribunal de origem, ao decidir que os recorridos comprovaram os requisitos da usucapião, divergiu do entendimento firmado em precedentes do STJ, como o REsp 1403493/DF e o REsp 1605871/SC, que exigem a comprovação cumulativa de todos os requisitos legais para a configuração da usucapião.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, julgando procedente a ação reivindicatória.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 668.
+É o relatório. Decido.
+A controvérsia diz respeito a ação reivindicatória em que a parte autora pleiteou a desocupação do imóvel, a condenação dos réus ao pagamento de indenização pelo uso e fruição do bem e o ressarcimento de tributos incidentes sobre o imóvel.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido inicial, reconhecendo a prescrição aquisitiva do bem em favor dos réus, e condenou os autores ao pagamento de custas, despesas processuais e honorários advocatícios fixados em 10% sobre o valor da causa.
+A Corte estadual manteve integ ralmente a sentença, reconhecendo que os réus comprovaram os requisitos da usucapião, nos termos do art. 1.240 do Códig o Civil.
+I - Art. 489, § 1º, IV, do CPC
+Afasta-se a alegada ofensa ao art. 489, § 1º, IV, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, quais sejam, a ação reivindicatória e o reconhecimento, em defesa, da usucapião especial urbana, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja concordâncias das partes.
+II - Arts. 1.200, 1. 208, 1228 e 1.240 do Código Civil
+Verifica-se que o conteúdo normativo dos art. 1.200, 1.208 1.228 do Código Civil não foram examinados pelo Tribunal de origem, apesar da oposição de embargos de declaração.
+Com efeito, é de rigor a oposição de embargos de declaração e se, mesmo após o respectivo julgamento, o Tribunal a quo permanecer omisso quanto às matérias que se pretendia prequestionar, é dever da parte recorrente, no apelo nobre, apontar violação do art. 1.022 do CPC/2015, o que não ocorreu no caso em exame. Nesse panorama, o recurso especial, no ponto, esbarra no óbice da Súmula n. 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO CONHECIDO. FALTA DE PREQUESTIONAMENTO. ART. 1.022 DO CPC. SÚMULAS N. 211 DO STJ E 282 DO STF. NOVAÇÃO DA DÍVIDA. DEVEDOR SOLIDÁRIO QUE NÃO PARTICIPOU DA NOVA AVENÇA. ART. 365 DO CÓDIGO CIVIL. INEXISTÊNCIA DE QUITAÇÃO PARCIAL VÁLIDA. REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. RECURSO DESPROVIDO.
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento quanto à questão da novação, já que o Tribunal de origem não se manifestou sobre a participação ou exoneração do agravante, e os embargos de declaração interpostos não foram suficientes para sanar a omissão. A falta de menção à violação do art. 1.022 do CPC impede a aplicação do prequestionamento ficto, nos termos do art. 1.025 do CPC, incidindo, assim, as Súmulas n. 211 do STJ e 282 do STF.
+2. No que tange à alegação de quitação parcial da dívida, o acolhimento da tese recursal demandaria o reexame de fatos e provas, procedimento vedado pelas Súmulas n. 5 e 7 do STJ. O Tribunal a quo baseou sua decisão em um conjunto probatório sólido, que indicou a ausência de comprovação válida dos pagamentos alegados, inclusive apontando inconsistências nos documentos apresentados pelo recorrente.
+3. O Tribunal de origem também rejeitou a argumentação sobre novação, afirmando que o agravante, embora não tenha participado do termo de confissão de dívida, continuaria responsável pelas obrigações em razão de sua condição de devedor solidário, nos termos do art. 202, VI, do Código Civil.
+4. Recurso desprovido. (AgInt no REsp n. 1.762.874/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Assim, o recurso especial não merece ser conhecido quanto aos citados dispositivos legais.
+No que se refere ao artigo 1.240. do Código Civil, o TJSP, com base no conjunto probatório, concluiu que os recorridos estavam na posse do imóvel desde 2010, que o imóvel possuía área inferior a 250 m  e que a posse era exercida para fins de moradia, atendendo aos requisitos do referido dispositivo legal.
+Assim, a análise de violação deste dispositivo legal encontra óbice na Súmula n. 7 do STJ, uma vez que para infirmar a conclusão do Tribunal a quo seria necessário novo exame do conjunto fático-probatório, o que não se admite em recurso especial. A esse respeito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO. SÚMULA 7/STJ.
+1. Rever o entendimento do Tribunal de origem quanto à ocorrência da usucapião implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. Agravo interno a que se nega provimento. (STJ - AgInt no AREsp: 957403 SP 2016/0196006-4, Relator.: Ministro OG FERNANDES, Data de Julgamento: 16/05/2017, T2 - SEGUNDA TURMA, Data de Publicação: DJe 19/05/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO . REIVINDICATÓRIA. POSSE INJUSTA NÃO CONFIGURADA. PRESCRIÇÃO AQUISITIVA. SÚMULA 7/STJ . SÚMULA 284/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg . Instância a quo. Novo exame do feito.
+2. Demonstrada a posse mansa, pacífica e ininterrupta do imóvel objeto do litígio, por mais de 10 anos, pelos requeridos, que detêm justo título e comprovaram sua boa-fé, a usucapião, como matéria de defesa, merece ser reconhecida, e, consequentemente, julgada improcedente a ação reivindicatória proposta na origem .
+3. No caso, o Tribunal a quo considerou cabalmente demonstrada a prescrição aquisitiva de posse mansa, pacífica e com animus do mini, além da boa-fé e justo título.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial. (STJ - AgInt no AREsp: 2203089 SC 2022/0279597-8, Relator.: Ministro RAUL ARAÚJO, Data de Julgamento: 13/03/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 30/03/2023.)
+Antes o exposto, conheço do agravo para conhecer em parte o recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
