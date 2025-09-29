@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUIZ FELIPE MAMEDE BORGES DE SOUZA - condenado como incurso no crime de homicídio qualificado (Ação Penal n. 0019172-21.2020.8.19.0066 ) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 1ª Vara da comarca de Angra dos Reis/RJ, ao argumento de que configura bis in idem a utilização da violência excessiva contra a vítima ter sido valorada negativamente na pena-base, a título de circunstâncias do crime, uma vez que se trata do homicídio qualificado pela condição do gênero feminino (feminicídio).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, além de inexistir duplicidade de circunstâncias valoradas negativamente, desferir 18 golpes de faca contra a vítima nada tem a ver com a qualificadora do crime praticado pela condição do gênero feminino.
+Ademais, tendo em vista a quantidade de processos em trâmite neste Superior Tribunal carecendo de análise e solução definitiva, recomenda-se que, em observância ao princípio da cooperação processual, a Defensoria Pública se abstenha de formular pretensões destituídas de fundamento legal e jurisprudencial.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO PELA CONDIÇÃO DE GÊNERO FEMININO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. PENA-BASE. ALEGAÇÃO DE BIS IN IDEM. QUALIFICADORA DO FEMINICÍDIO E CIRCUNSTÂNCIAS DO CRIME (VIOLÊNCIA EXCESSIVA CONTRA A VÍTIMA - 18 GOLPES DE FACA). PRETENSÃO DESTITUÍDA DE FUNDAMENTO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
