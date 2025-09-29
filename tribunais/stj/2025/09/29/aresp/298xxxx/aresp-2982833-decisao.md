@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AGRÍCOLA ALVORADA S. A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação do art. 1.022 do CPC, prejudicado o pedido de efeito suspensivo (fls. 312-315).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso em agravo de instrumento nos autos de recuperação judicial.
+O julgado foi assim ementado (fl. 159):
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - COMPENSAÇÃO ENTRE CRÉDITOS E DÉBITOS - IMPOSSIBILIDADE - CRÉDITO ORIUNDO DE OBRIGAÇÃO ANTECEDENTE AO PEDIDO DE RECUPERAÇÃO JUDICIAL NECESSIDADE DE SUBMISSÃO DO CRÉDITO AOS EFEITOS DA RJ - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+O Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.843.332/RS em sede de recurso repetitivo, fixou a tese no sentido de que "para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em ocorreu o seu fato gerador".
+Os embargos de declaração opostos foram rejeitados (fls. 199-206).
+No recurso especial, a parte aponta violação do art. 1.022, II e III, do CPC, porquanto o Tribunal a quo incorreu em erro material ao extrapolar os limites dos pedidos formulados no agravo de instrumento, decidindo sobre a concursalidade do crédito, incorrendo, ainda, em negativa de prestação jurisdicional ao rejeitar os embargos de declaração sem enfrentar a alegação de julgamento extra petita.
+Requer o provimento do recurso para que seja reconhecida a violação do art. 1.022 do CPC, anulado o acórdão dos embargos de declaração e determinado o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos, além da concessão de efeito suspensivo ao recurso especial (fls. 225-236).
+Nas contrarrazões, a parte recorrida aduz que o recurso especial é inadmissível por pretender reexame de prova, por ausência de prequestionamento e por não impugnar fundamentos autônomos do acórdão, e requer o não conhecimento ou o desprovimento do recurso especial, a rejeição do efeito suspensivo e a condenação da recorrente em custas e honorários (fls. 287-301).
+É o relatório. Decido.
+Afasta-se a alegada ofensa ao art. 1.022, II e III, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No caso, o Tribunal a quo expôs, de forma explícita, que a irresignação da parte recorrente, no que tange à suposta configuração do decisum embargado como decisão extra petita - sob o argumento de que o recurso de agravo de instrumento buscava tão somente a suspensão da decisão que determinou a liberação do valor depositado e a colegiado local analisou a sujeição de seu crédito ao processo de recuperação judicial -, não merecia prosperar e que seria inviável a modificação do julgado na ausência de vício sanável.
+A propósito, confira-se trecho dos aclaratórios (fls. 209-212):
+Nas razões do recurso, a parte embargante aduz a decisão é extra petita, forte no argumento de que o presente recurso buscava tão somente a suspensão da decisão que determinou a liberação do valor depositado, porém, analisou a sujeição de seu crédito ao processo de recuperação judicial.
+Todavia, a irresignação não procede.
+Confiram-se os trechos pertinentes:
+" ..
+Tem-se que a interpretação do artigo 49, caput, da Lei nº 11.101/2005 é clara: "Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", e o crédito objeto da presente demanda se sujeita a recuperação judicial.
+Lado outro, após detida análise do feito de origem, verifico que o Administrador Judicial assim se manifestou, quanto ao crédito, vejamos:
+"Na primeira petição a Agrícola Alvorada reconhece haver o saldo de R$ 78.874,48, alegando ser este o único valor em aberto junto a mesma, e fez o deposito deste valor em conta judicial vinculado aos autos.
+Não trouxe naquele momento que os Recuperandos tinham outros créditos, como as faz saber pela autorização de transferência de soja n. º 18/2024, que está no id. 169468647, firmado em 01/03/2024, e assinado pelas partes na mesma data, ou seja, antes da propositura da ação de recuperação judicial, transcrito abaixo:  ..
+Tal documento comprova de forma inequívoca que o Sr. Andreo Tombini transferiu 200.634 kg de soja, correspondentes a 3.343,9 sacas de 60kg, ao Sr. Gustavo José Huter, e é de conhecimento da Agrícola Alvorada, pois estão depositados em seu armazém.
+Não há nos autos, nos peticionamentos feitos pela Agrícola Alvorada, prova inequívoca de que estes grãos foram dados em pagamento, seja por áudios e telas de mensageiro whatsapp ou seja por documento formal de entrega destes grãos.
+Nem mesmo no documento denominado Instrumento Particular de Confissão de Dívida n.º 465/2023, no id. 169468649, não há qualquer menção em dação em pagamento utilizando-se o crédito em soja recebido pelo Recuperando, de id. 169468647.
+As atas notariais juntadas pela Agrícola Alvorada (ids. 168530771, 168530776 e 168530777) não conseguem provar que houve a transação alegada, nem mesmo os áudios que acompanham a petição de id. 167042266.
+Diante disto, conclui-se que a Agrícola Alvorada não transferiu aos autos os valores realmente devidos aos Recuperandos, sendo certo que restam conforme cotação da soja, cerca de R$ 600.274,80."
+Com efeito, não obstante os judiciosos argumentos expendidos pela parte agravante, inexiste prova indene de dúvidas quanto a autorização do recuperando Gustavo para a realização da compensação entre a dívida existente e a soja entregue por terceiro.
+Dito isso, o fato gerador do crédito objeto da alegada compensação, ocorreu antes do pedido de recuperação judicial, em 25.04.2024, sendo que, os recuperandos, ora agravados tiveram seu pedido deferido em 27.05.2024, ou seja, todos os créditos anteriores a essa data, se submeterão aos efeitos do plano de recuperação judicial, nas formas e moldes de pagamentos lá expostos.
+O art. 49 da Lei 11.101/2005 estabelece que apenas os créditos existentes na data do pedido estão sujeitos à recuperação judicial.
+Com base no referido dispositivo, o Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.843.332/RS, em sede de recurso repetitivo, fixou a tese no sentido de que "para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador".
+Com efeito, e na esteira do entendimento já manifestado pelo mesmo Tribunal Superior, a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais) constitui-se como o ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios (EAR Esp n. 1.255.986/PR, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/3/2019, D Je de 6/5/2019.).
+Portanto, o direito de crédito, ou seja, fato gerador decorrente da relação negocial entre agravante e agravados, ocorreu quando do vencimento da dívida sem o efetivo pagamento, o que aconteceu em 30.04.2024.
+Assim, o crédito exequendo, constituído antes do pedido e deferimento da recuperação judicial, qualifica-se como concursal, se sujeitando ao plano de soerguimento da devedora.
+A propósito, assim já decidiu este e. sodalício:  ..
+Desta feita, a decisão proferida pelo juízo de primeiro grau deve ser mantida, a fim de compelir a agravante ao pagamento dos valores devidos aos recuperandos, vez que o crédito da agravante objeto da compensação, se sujeita ao plano de soerguimento da devedora."
+Inviável, portanto, a modificação do julgado na ausência de vício sanável.
+Assim, "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Diante do que foi acima decidido, o pedido de atribuição de efeito suspensivo, formulado nas razões do recurso especial, fica prejudicado.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
