@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+Direito Processual Civil. Recurso Especial. Cumprimento de Sentença. DESCUMPRIMENTO DE Obrigação de Fazer. Astreintes. REEXAME DE FATOS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. Recurso não conhecido .
+I. Caso em exame
+1. Recurso especial decorrente de agravo em cumprimento de sentença que condenou a parte ré a excluir de suas páginas na rede mundial de computadores reportagens acerca da autora. No cumprimento de sentença, a autora sustentava ter a ré mantido no ar as páginas, descumprindo a obrigação de fazer, pelo que requereu o pagamento de astreintes.
+2. O Juízo de primeiro grau acolheu a impugnação ao cumprimento da obrigação de fazer apresentada pela parte executada, sob o fundamento de que não houve descumprimento da obrigação de fazer e, portanto, não haveria incidência de astreintes. Contra tal decisão foi interposto agravo, ao qual o tribunal negou provimento.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a juntada de capturas de tela da internet, sem a lavratura de ata notarial, é suficiente para comprovar o descumprimento da obrigação de excluir postagens, ensejando a incidência de astreintes.
+III. Razões de decidir
+4. O Tribunal de origem afastou a incidência das astreintes considerando que as provas existentes nos autos eram insuficientes para demonstrar que os links na página da ré continuavam ativos, sendo necessária a juntada de atas notariais para comprovar a autenticidade e veracidade.
+5. A alegação de violação dos arts. 77, inc. I e 422, caput e §1º, do CPC não pode ser conhecida, por não terem sido analisada pelo Tribunal de origem, já que somente suscitada em embargos de declaração, não atendendo assim o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, atraindo o óbice constante na Súmula 211 do STJ.
+6. A incidência das Súmulas n. 7 e 211 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre as mesmas questões.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por JOICE CRISTINA HASSELMANN, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fls. 173-185):
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. ASTREINTES. ÔNUS PROBATÓRIO. I - As capturas de tela da internet sem a respectiva ata notarial para comprovar a veracidade e autenticidade do conteúdo e a data em que ocorreu o acesso ao sítio eletrônico não comprovam a permanência na internet das postagens a respeito da agravante-autora após o trânsito em julgado da r. sentença exequenda. Arts. 439 e 441. Ambos do CPC. II - A credora não demonstrou o descumprimento da obrigação de excluir as postagens por parte dos devedores, de modo que é inexigível o valor relativo à multa postulada no cumprimento de sentença. III - Agravo de instrumento desprovido."
+Rejeitados os embargos de declaração opostos (fls. 195-206).
+A parte recorrente alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, sustenta que o acórdão recorrido contrariou as disposições contidas nos artigos 77, inciso I, 422, caput e §1º, e 439 do Código de Processo Civil, ao passo que aponta divergência jurisprudencial com arestos de outros tribunais, especialmente com decisão do Tribunal de Justiça de São Paulo.
+Afirma, em síntese, que "é pacífico na jurisprudência que prints de telas eletrônicas são válidos como prova, independentemente de ata notarial" (fls. 220-221). Defende a possibilidade se utilizar prints de tela como meio probatório, bastando que seja possível verificar-se a autenticidade destes, o que era plenamente possível quando da apresentação do cumprimento de sentença, pois do mero acesso aos links, seria possível confirmar, com ampla certeza, a inexistência de exclusão das postagens ofensivas efetuadas pelos recorridos. Acrescenta que os recorridos faltaram com a boa-fé processual ao consignar que cumpriram a decisão conforme determinado.
+Apresentadas as contrarrazões (fls. 277-288), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 291-292).
+É, no essencial, o relatório.
+EMENTA
+Direito Processual Civil. Recurso Especial. Cumprimento de Sentença. DESCUMPRIMENTO DE Obrigação de Fazer. Astreintes. REEXAME DE FATOS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. Recurso não conhecido .
+I. Caso em exame
+1. Recurso especial decorrente de agravo em cumprimento de sentença que condenou a parte ré a excluir de suas páginas na rede mundial de computadores reportagens acerca da autora. No cumprimento de sentença, a autora sustentava ter a ré mantido no ar as páginas, descumprindo a obrigação de fazer, pelo que requereu o pagamento de astreintes.
+2. O Juízo de primeiro grau acolheu a impugnação ao cumprimento da obrigação de fazer apresentada pela parte executada, sob o fundamento de que não houve descumprimento da obrigação de fazer e, portanto, não haveria incidência de astreintes. Contra tal decisão foi interposto agravo, ao qual o tribunal negou provimento.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a juntada de capturas de tela da internet, sem a lavratura de ata notarial, é suficiente para comprovar o descumprimento da obrigação de excluir postagens, ensejando a incidência de astreintes.
+III. Razões de decidir
+4. O Tribunal de origem afastou a incidência das astreintes considerando que as provas existentes nos autos eram insuficientes para demonstrar que os links na página da ré continuavam ativos, sendo necessária a juntada de atas notariais para comprovar a autenticidade e veracidade.
+5. A alegação de violação dos arts. 77, inc. I e 422, caput e §1º, do CPC não pode ser conhecida, por não terem sido analisada pelo Tribunal de origem, já que somente suscitada em embargos de declaração, não atendendo assim o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, atraindo o óbice constante na Súmula 211 do STJ.
+6. A incidência das Súmulas n. 7 e 211 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre as mesmas questões.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Recurso especial decorrente de agravo em cumprimento de sentença que condenou a parte ré a excluir de suas páginas na rede mundial de computadores reportagens acerca da autora. No cumprimento de sentença, a autora sustentava ter a ré mantido no ar as páginas, descumprindo a obrigação de fazer, pelo que requereu o pagamento de astreintes.
+O Juízo de primeiro grau acolheu a impugnação ao cumprimento da obrigação de fazer apresentada pela parte executada, sob o fundamento de que não houve descumprimento da obrigação de fazer e, portanto, não haveria incidência de astreintes. Contra tal decisão foi interposto interposto o agravo, ao qual o Tribunal negou provimento.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento ao agravo, analisou de forma clara e expressa a alegação de descumprimento e apontou a razão pela qual entendeu inexistir o razão para a incidência de astreintes, qual seja, a inexistência de provas de que as publicações ainda estivessem no ar após a exigibilidade da obrigação de fazer. Nesse sentido,
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL C/C DANOS MATERIAIS C/C DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de responsabilidade civil c/c danos materiais c/c danos morais.
+2. Não se caracteriza ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que que em sentido contrário aos interesses da parte. 3. O
+reexame de fatos e provas em recurso especial é inadmissível. 4. A
+jurisprudência desta Corte vem se manifestando no sentido de que, "o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, não estando adstrito ao laudo pericial." Precedentes.
+5. A pretensão de modificar o entendimento da Corte de origem é inviável em sede de recurso especial, por extrapolar o campo da mera revaloração e implicar, necessariamente, reexame do conjunto fático-probatório.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.778.583/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+Quanto ao mérito, cumpre notar que o acórdão dos embargos de declaração ressaltou que "Quanto aos arts. 77, inc. I e 422, caput e §1º, do CPC, a embargante-agravante está inovando nestes declaratórios, o que é vedado, pois tais dispositivos não foram suscitados na petição do agravo de instrumento." (fls.204), de modo que, a rigor, não houve prequestionamento de tais matérias.
+De fato, a jurisprudência do STJ tem entendido que quando a alegação de violação dos dispositivos legais somente é suscitada em embargos de declaração, o caso é de p ós-questionamento, que não enseja o conhecimento do recurso especial. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE PATENTE. DECADÊNCIA. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. SÚMULA N.º 7 DO STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 56, § 1º, DA LPI. MATÉRIA AVENTADA APENAS EM EMBARGOS DE DECLARAÇÃO OPOSTOS APÓS O JULGAMENTO DA APELAÇÃO. PÓS-QUESTIONAMENTO. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. INCIDÊNCIA DA SÚMULA N.º 211 DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido quanto a ocorrência de decadência exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. º 7 do STJ.
+2. Esta Corte de Justiça compreende que é imprescindível que o Tribunal de origem tenha emitido juízo de valor sobre os preceitos indicados como violados no apelo nobre, o que não ocorreu na hipótese examinada, mesmo tendo sido opostos embargos de declaração.
+Aplicável, assim, a Súmula n.º 211 do STJ.
+3. Na hipótese, a alegada violação do § 1º do art. 56 da LPI - possibilidade de arguir nulidade de patente em matéria de defesa - foi aventada somente após o julgamento da apelação, o que, consoante pacífica jurisprudência desta Corte Superior, caracteriza pós-questionamento.
+4. Ademais, conforme constou em obiter dictum no julgado recorrido, o ajuizamento de ação anulatória de patente, tal como se deu neste caso, não se confunde com a possibilidade de arguição de nulidade, a qualquer tempo, como matéria de defesa.
+4. Não sendo a linha argumentativa apresentada capaz de e videnciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.784.732/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+Assim, a alegação de violação dos arts. 77, inc. I e 422, caput e §1º, do CPC não pode ser conhecida, por não ter sido atendido o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, o que atrai o óbice constante na Súmula 211 do Superior Tribunal de Justiça.
+Nessa ótica, a Corte Especial do STJ firmou o entendimento no sentido de que "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no acórdão impugnado, para que se configure o prequestionamento". (AgInt nos EDcl no AREsp 746.371/RS, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 9/3/2018).
+A ausência de prequestionamento é também óbice intransponível para o exame da questão mencionada, ainda que sob o pálio da divergência jurisprudência.
+Cabe salientar, por oportuno, que o Superior Tribunal de Justiça já se manifestou no sentido de que "não há contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado." (AgInt no AREsp 1251735/MS, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 14/06/2018)
+Seguindo o mesmo raciocínio: "não há contradição em afastar a alegada negativa de prestação jurisdicional e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado." (AgInt no REsp 1312129/PR, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 23/02/2018)
+Por fim, no que toca à alegação de que o acórdão recorrido teria violado o artigo 439 do CPC, o caso é de reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+É que o Tribunal de origem afastou a incidência das astreintes considerando que as provas existentes nos autos eram insuficientes para demonstrar que os links na página da ré continuavam ativos, tendo considerado que, para tanto, seria necessária a juntadas de atas notarias para demonstrar a autenticidade e veracidade (fls. 183):
+A agravante-credora defende a aplicação das astreintes fixadas em razão do alegado descumprimento pelos agravados-devedores da determinação judicial de remover as reportagens a seu respeito do sítio eletrônico Catraca Livre, sob o fundamento de que comprovou que os respectivos links de acesso permaneciam ativos até a data de 07/10/20, mediante a juntada de capturas de tela da internet (id. 75302503, págs. 3/4) que indicam essa data no seu rodapé.
+No entanto, a juntada das referidas capturas de tela da internet sem a lavratura de ata notarial para comprovar a veracidade e autenticidade do conteúdo e a data em que ocorreu o acesso ao sítio eletrônico não configuram elemento probatório a ensejar a conclusão de que houve o alegado descumprimento, consoante disposto nos arts. 439 e 441, ambos do CPC, in verbis:
+"Art. 439. A utilização de documentos eletrônicos no processo convencional dependerá de sua conversão à forma impressa e da verificação de sua autenticidade, na forma da lei."
+"Art. 441. Serão admitidos documentos eletrônicos produzidos e conservados com a observância da legislação específica."
+Frise-se que é improcedente a alegação da agravante-credora de que era atribuição do Magistrado acessar os referidos links, na data do protocolo da petição do cumprimento de sentença, em 22/10/20, para verificar que as três postagens estavam disponíveis no site Catraca Livre em data anterior, 07/10/20, porquanto não se pode transferir ao Juiz a produção de prova em favor da parte.
+Em tais condições, evidencia-se que o ponto central da decisão é a consideração de que inexistem provas de que os links ainda estivessem ativos, pelo que a tese sustentada pelo recorrente esbarra na S úmula 7 do STJ.
+A incidência das Súmula n. 7 e 211 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre as mesmas questões.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+É como penso. É como voto.
