@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA NEIDE PEREIRA LIMA DE SOUZA TOLEDO GUSMÃO OLIVEIRA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação do art. 1.022, II, do CPC e na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios em apelação nos autos de ação de repactuação de dívidas.
+O julgado foi assim ementado (fls. 1.026-1.027):
+APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DE REPACTUAÇÃO DE DÍVIDAS. LEI N. 14.181/2021. PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO OCORRÊNCIA. SITUAÇÃO DE SUPERENDIVIDAMENTO NÃO CARACTERIZADO. SOMA DAS DÍVIDAS. GARANTIA DO MÍNIMO EXISTENCIAL. DECRETO N. 11.567/23. PRESUNÇÃO DE CONSTITUCIONALIDADE. SENTENÇA MANTIDA.
+1. Inexiste ofensa ao princípio da dialeticidade quando, da leitura das razões recursais podem ser extraídos os fundamentos por que se pretende a revisão da sentença, contrastando-os com os nela motivados, o que possibilita, inclusive, o pleno contraditório.
+2. A Lei n. 14.181/2021 foi instituída para aperfeiçoar a disciplina do crédito ao consumidor e estabeleceu a garantia de práticas de crédito responsável, de educação financeira e de prevenção e de tratamento de situações de superendividamento, preservado o mínimo existencial, nos termos da regulamentação, por meio da revisão e da repactuação da dívida.
+3. Para que seja instaurado o procedimento de repactuação das dívidas, deve estar evidenciada a situação de superendividamento do consumidor, com a impossibilidade de arcar com todas as dívidas que contraiu sem comprometer o mínimo para a sua sobrevivência.
+4. De acordo com o Decreto n. 11.567/23, considera-se mínimo existencial do consumidor a renda mensal correspondente R$ 600,00 (seiscentos reais). A apuração da situação de superendividamento deve ser obtida considerando-se a renda total mensal do consumidor em conjunto com as dívidas vencidas e vincendas dos meses correspondentes.
+5. Não demonstrada a situação de superendividamento constante do art. 54-A do CDC, é correto o processamento sob o procedimento comum.
+6. É inviável a declaração de inconstitucionalidade de forma incidental quando não se verifica uma violação frontal à Constituição. A presunção de constitucionalidade das normas assegura que apenas violações evidentes e graves à Constituição resultem na declaração de inconstitucionalidade.
+7. Recurso conhecido e não provido.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte aponta violação dos arts. 1.022, II do CPC e 104-B do CDC.
+Alega que o Tribunal estadual teria deixado de analisar o pedido subsidiário de repactuação dos contratos por meio do plano judicial compulsório, nos termos do art. 104-B do Código de Defesa do Consumidor, garantindo-se o mínimo existencial da parte autora.
+Sustenta que a Corte de origem teria desconsiderado a situação de superendividamento da recorrente, comprometendo o mínimo existencial, e afastado a aplicação da Lei n. 14.181/2021.
+Requer o provimento do recurso para reformar os acórdãos recorridos e determinar a instauração do processo de repactuação de dívidas, conforme o art. 104-B do Código de Defesa do Consumidor.
+Contrarrazões apresentadas às fls. 1.192-1.197; 1.201-1.210 e 1.214-1.218.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de repactuação de dívidas em que a parte autora pleiteou a instauração de processo de repactuação de dívidas, com base na Lei n. 14.181/2021, para garantir o mínimo existencial.
+Na sentença, o Juízo de primeiro grau julgou improcedentes os pedidos, sob o fundamento de que não foi demonstrada a situação de superendividamento, condenando a autora ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça concedida.
+A Corte estadual manteve integralmente a sentença, concluindo que não houve comprovação de superendividamento e que o mínimo existencial foi preservado.
+I - Art. 1.022, II, do CPC
+No recurso especial, a recorrente alega que o Tribunal de origem deixou de analisar o pedido subsidiário de repactuação dos contratos por meio do plano judicial compulsório, nos termos do art. 104-B do Código de Defesa do Consumidor, garantindo-se o mínimo existencial da parte autora.
+O acórdão recorrido concluiu que não houve omissão, pois a questão foi devidamente analisada e rejeitada, considerando que a recorrente não preencheu os requisitos para a repactuação compulsória.
+Confira-se trecho do acórdão recorrido (fls. 1.124-1.125):
+Não obstante a argumentação da embargante, verifica-se do acórdão que houve análise expressa sobre a condição de superendividada da autora, ocasião em que foi constatado o não preenchimento dos requisitos previstos no Decreto n. , 11.567/23 in verbis:
+"( ) A autora/apelante juntou aos autos contracheque, no qual consta que é servidora pública aposentada (professora), cuja remuneração líquida é de R$ 3.051,09, após subtraídos os descontos legais e os empréstimos consignados (ID 59727596). De acordo com o plano de pagamento da dívida, elaborado pela própria apelante (ID 59728613), a soma de todas as parcelas referentes às dívidas contraídas chega ao importe de R$ 3.031.23 e no mesmo documento há a descrição do salário líquido recebido pela autora, no valor de R$ 4.818,73. Ou seja, após a subtração de todas as dívidas, resta à autora/apelante o valor de R$ 1.787,50. Assim, verifica-se que não resta caracterizado o superendividamento, tendo em vista que, após o débito das dívidas, resta à apelante o importe superior aos R$ 600,00 (seiscentos reais) previstos na legislação como mínimo existencial. Além disso, a apelante não juntou aos autos qualquer documento que comprove gastos extraordinários ou inesperados. ( )"
+Portanto, por não se enquadrar como superendividada, em razão do não preenchimento dos requisitos previstos no Decreto supracitado, mostra-se inviável a repactuação por meio do plano judicial compulsório.
+Portanto, não se verifica o alegado vício no acórdão embargado, visto que as alegações da embargante foram fundamentadamente rejeitadas.
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Art. 104-B do CDC
+A recorrente afirma que o Tribunal de origem desconsiderou a situação de superendividamento da recorrente, comprometendo o mínimo existencial, e afastou a aplicação da Lei n. 14.181/2021.
+O Tribunal de origem analisando o acervo probatório dos autos concluiu que não houve comprovação de superendividamento, pois a recorrente possuía renda líquida suficiente para garantir o mínimo existencial, conforme os parâmetros legais. Veja (fls. 1.030-1.031, destaquei):
+Verifica-se que, de acordo com o referido Decreto, considera-se mínimo existencial do consumidor a renda mensal correspondente a R$600,00 (seiscentos reais). Embora a apelante argumente que o referido Decreto é inconstitucional, não há pronunciamento dos Tribunais Superiores sobre a incompatibilidade da norma com a Constituição Federal.
+Ressalte-se que a apuração da situação de superendividamento deve ser obtida levando-se em consideração a renda total mensal do consumidor em conjunto com as dívidas vencidas e vincendas dos meses correspondentes.
+ ..
+A autora/apelante juntou aos autos contracheque, no qual consta que é servidora pública aposentada (professora), cuja remuneração líquida é de R$ 3.051,09, após subtraídos os descontos legais e os empréstimos consignados (ID 59727596).
+De acordo com o plano de pagamento da dívida, elaborado pela própria apelante (ID 59728613), a soma de todas as parcelas referentes às dívidas contraídas chega ao importe de R$ 3.031.23 e no mesmo documento há a descrição do salário líquido recebido pela autora, no valor de R$ 4.818,73. Ou seja, após a subtração de todas as dívidas, resta à autora/apelante o valor de R$ 1.787,50.
+Assim, verifica-se que não resta caracterizado o superendividamento, tendo em vista que, após o débito das dívidas, resta à apelante o importe superior aos R$ 600,00 (seiscentos reais) previstos na legislação como mínimo existencial. Além disso, a apelante não juntou aos autos qualquer documento que comprove gastos extraordinários ou inesperados.
+Por fim, impende ressaltar que é inviável a declaração de inconstitucionalidade incidental aventada pela apelante, sob o fundamento de que o decreto que regulamenta o mínimo existencial viola o princípio da dignidade da pessoa, porquanto o valor estabelecido estaria aquém de uma vida digna. Isso porque para que uma norma seja declarada inconstitucional, de forma incidental, é necessária a demonstração de clara violação a um princípio constitucional, ou seja, a norma deve ser incompatível de maneira evidente com a Constituição.
+Como visto, o Tribunal a quo analisou a controvérsia fundamentando-se nos elementos probatórios dos autos. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RELAÇÃO DE CONSUMO. EMPRÉSTIMO BANCÁRIO PRETENSÃO DE LIMITAÇÃO DOS DESCONTOS DAS PARCELAS DE EMPRÉSTIMO COMUM EM CONTA-CORRENTE. APLICAÇÃO ANALÓGICA DA DISCIPLINA DOS EMPRÉSTIMOS CONSIGNADOS EM FOLHA DE PAGAMENTO. IMPOSSIBILIDADE. ABUSIVIDADE NÃO CONSTATADA. REEXAME. NÃO CABIMENTO. SÚMULAS N. 5, 7 E 83 DO STJ. SUPERENDIVIDAMENTO E PRESERVAÇÃO DO MÍNIMO EXISTENCIAL. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+ ..
+6. Agravo interno desprovido. (AgInt no AREsp n. 2.103.485/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
