@@ -1,0 +1,13 @@
+DECISÃO
+Examina-se conflito positivo de competência em que são suscitantes SEMEATO S/A INDUSTRIA E COMERCIO - EM RECUPERAÇÃO JUDICIAL, ROSSATO ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL, METALURGICA SEMEATO LTDA. - EM RECUPERAÇÃO JUDICIAL e CIA SEMEATO DE AÇOS CSA - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE PASSO FUNDO - RS e o JUÍZO DA VARA DO TRABALHO DE CARAZINHO - RS.
+Ação em trâmite no juízo cível: recuperação judicial das suscitantes.
+Ação em trâmite no juízo trabalhista: execução proposta por CLEBER WILSON MACHADO e OUTROS. (Processo n. 0020286-70.2016.5.04.0561)
+Conflito de competência: alegam a caracterização do conflito de competência, na medida em que o Juízo Trabalhista ignorou "os efeitos da novação dos créditos sujeitos à recuperação judicial e a expressa determinação do Juízo Recuperacional de que a extinção das demandas contra as devedoras em Recuperação Judicial, trata-se de efeito decorrente da concessão do regime recuperacional, a teor do art. 59, da LRF" (e-STJ fl. 22). Pugnam, assim, que seja determinado ao Juízo Trabalhista que observe os efeitos da novação dos créditos abrangidos pela execução reunida n. 0020286-70.2016.5.04.0561, com a consequente extinção da demanda.
+Parecer do MPF: opina pelo não conhecimento do conflito de competência.
+RELATADO O PROCESSO, DECIDE-SE.
+Conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados (AgInt no CC 170.346/GO, DJe 25/8/2020).
+Na hipótese, observa-se dos autos que a decisão do juízo recuperacional (e-STJ fls. 224-228), apontada pelas suscitantes como objeto de descumprimento pelo Juízo Laboral, apenas tratou dos efeitos da novação dos créditos sujeitos ao plano. Assim, não se verifica o alegado dissenso - acerca da extinção da execução trabalhista de que tratam os autos - entre os juízos apontados como suscitados.
+Ademais, é importante ressaltar que o conflito de competência, incidente de cognição restrito à definição do juízo competente para exercer a jurisdição em determinado processo, não pode ser utilizado para exigir pronunciamento acerca de matérias impugnáveis por recurso próprio, tais como a repercussão da novação dos créditos sujeitos à recuperação judicial sobre as ações instauradas na Justiça do Trabalho, como ocorre na hipótese. Logo, o presente incidente não comporta acolhida.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem. Oficie-se.
+EMENTA
