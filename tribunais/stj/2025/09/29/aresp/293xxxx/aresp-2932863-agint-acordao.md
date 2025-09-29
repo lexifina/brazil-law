@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO E RESTITUIÇÃO DE VALORES C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSÉ ROBERTO DE MELO LIMA contra decisão singular da lavra do Ministro Presidente do STJ na qual o agravo em recurso especial não foi conhecido em virtude da deficiência na fundamentação do recurso especial, nos termos da Súmula 284/STF, por não indicar precisamente os dispositivos legais federais violados ou objeto de dissídio interpretativo (fls. 264-265).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada desconsidera que a peça do recurso apresentou de forma clara e objetiva os dispositivos de lei violados, bem como a existência de dissídio jurisprudencial.
+Argumenta que o não conhecimento do recurso por suposta deficiência formal afronta o princípio da primazia do julgamento de mérito e impede o enfrentamento de matéria de direito federal relevante (fls. 269-272).
+Decorreu o prazo sem apresentação de impugnação (fl. 278).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO E RESTITUIÇÃO DE VALORES C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início destaco que a decisão que não admitiu o recurso especial consignou: a) a pretensão do recurso demandaria o reexame de matéria fático-probatória, esbarrando na Súmula 7 do Superior Tribunal de Justiça (STJ); b) não teria sido comprovada divergência jurisprudencial nos moldes exigidos, atraindo quanto ao tema o óbice da Súmula 284 do STF (fls. 233-238).
+Nas razões do seu agravo em recurso especial a parte agravante apenas afirmou que o Recurso Especial preenche todos os pressupostos de admissibilidade e não demanda reexame de provas, mas sim a reanálise da correta aplicação do direito à luz do art. 6º, III, do Código de Defesa do Consumidor (fls. 239-247).
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice sumular apontado.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, nas razões do seu recurso especial a parte pretende a reforma do acórdão para determinar a nulidade da sentença de primeiro grau, alegando violação ao artigo 6º, III, do Código de Defesa do Consumidor, quanto ao dever de informação por parte da empresa recorrida (fls. 209-223).
+No caso dos autos, o Tribunal de origem entendeu que, inexiste ilícito praticado pela parte recorrida em face da parte recorrente, eis que o instrumento de contrato em tela expressamente indica tratar-se a avença de um consórcio, e não de um financiamento de veículo, estando devidamente assinado pela parte sobre a qualificação de consorciado pelo menos quatro vezes na mesma via do instrumento de contrato. Confira-se:
+Feitas essas considerações, da atenta leitura do processo verifica-se que inexiste ilícito praticado pela parte Apelada em face da parte Apelante, eis que o instrumento de contrato em tela expressamente indica tratar-se a avença de um consórcio e não de um financiamento de veículo, estando devidamente assinado pela parte Apelada sobre a qualificação de consorciado pelo menos quatro vezes na mesma via do instrumento de contrato.
+Outrossim, o áudio de Id 26166395 e sua transcrição (Id 26166396) demonstram contato telefônico entre as partes no qual a parte Apelante confirma de maneira convicta estar ciente de que o contrato se trata de um consórcio e que "não recebeu qualquer promessa de contemplação imediata ou com data pré-fixada e que o crédito será liberado para a compra do bem após a sua devida contemplação. " Inclusive confirmando sua participação em assembléia.
+Contradizendo as razões recursais ora apresentadas e tomando desconexos com a realidade fática evidenciada, os áudios e diálogos de WhatsApp apresentados pela parte Apelante junto com a petição inicial, não prosperando, portanto, suas alegações de fraude em face da parte Apelada.
+Dessa forma, vislumbra-se que a parte Autora deixou de comprovar satisfatoriamente os fatos constitutivos do direito pleiteado, não atendendo aos pressupostos do art. 373, 1, do CPC, revelando-se inviável atribuir a parte Apelada conduta ilícita ensejadora de reparação civil, tampouco que tenha experimentado algum dano em razão de conduta por esta praticada  ..  (fls. 204-208).
+Assim, como consignado na decisão que não admitiu o recurso especial, a pretensão do recurso demandaria o reexame de matéria fático-probatória, esbarrando na Súmula 7 do Superior Tribunal de Justiça, o que impede, ainda, a análise da divergência jurisprudencial.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
