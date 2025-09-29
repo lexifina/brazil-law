@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito civil. Recurso especial. Responsabilidade civil. Indenização por lucros cessantes. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA SENTENÇA. PRINCÍPIO DA DIALETICIDADE. VIOLAÇÃO. SÚMULAS 283 e 284 DO STF. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que afastou a condenação por lucros cessantes, considerando bis in idem com o pensionamento vitalício concedido.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a indenização por lucros cessantes pode ser cumulada com o pensionamento vitalício, considerando que ambos têm finalidades distintas.
+III. Razões de decidir
+3. O recurso especial não foi conhecido devido à falta de impugnação de todos os fundamentos do acórdão recorrido, atraindo a incidência das Súmulas 283 e 284 do STF.
+4. A recorrente não apresentou razões suficientes para demonstrar a divergência jurisprudencial, limitando-se a citar ementas sem o devido cotejamento analítico.
+IV. Dispositivo e tese
+5. Resultado do Julgamento: Recurso não conhecido.
+Tese de julgamento:
+1. A não impugnação de todos os fundamentos do acórdão recorrido impede o conhecimento do recurso especial.
+2. A apresentação de razões dissociadas dos fundamentos do acórdão recorrido atrai a incidência das Súmulas 283 e 284 do STF.
+Dispositivos relevantes citados:CC, art. 950; CPC, art. 85, § 11.
+Jurisprudência relevante citada:STF, Súmula 283; STF, Súmula 284.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por MARIA SERENITA MAIA CANDIDO, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls.95-110):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. QUEDA EM ESTABELECIMENTO COMERCIAL. FATO DO SERVIÇO. CONFIGURADO O DEVER DE INDENIZAR. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO. MANUTENÇÃO. PENSIONAMENTO E LUCROS CESSANTES. BIS IN IDEM. AFASTAMENTO. VERBA HONORÁRIA. MAJORAÇÃO. LIDE SECUNDÁRIA. PRESCRIÇÃO NÃO CONFIGURADA. DANOS MORAIS. CLÁUSULA EXPRESSA DE EXCLUSÃO. RESSARCIMENTO INDEVIDO. 1. FIGURA A AUTORA COMO CONSUMIDORA POR EQUIPARAÇÃO EM RELAÇÃO AO DEFEITO NA PRESTAÇÃO DO SERVIÇO, DENOMINADO DE BYSTANDER, NA FORMA DO ARTIGO 17 DO CDC. ASSIM, TRATANDO-SE DE PRETENSÃO INDENIZATÓRIA EMBASADA EM ALEGADO FATO DO SERVIÇO, A RESPONSABILIDADE DO FORNECEDOR PERANTE O CONSUMIDOR É OBJETIVA, NOS TERMOS DO ART. 14 DO CDC. 2. PROVA DOS AUTOS QUE DEMONSTRA A FALHA NO DEVER DE SEGURANÇA DA LOJA COMERCIAL DEMANDADA, UMA VEZ QUE NÃO ADOTOU MEDIDAS PROTETIVAS EFICIENTES PARA EVITAR A QUEDA DA PARTE AUTORA, OCORRIDA EM DECORRÊNCIA DA COLOCAÇÃO DE PÉTALAS DE ROSAS EM HOMENAGEM AO DIA DAS MÃES, QUE ACABOU DEIXANDO O PISO ESCORREGADIO. 3. SITUAÇÃO RETRATADA NOS AUTOS, CONSUBSTANCIADA NA QUEDA DA AUTORA NO INTERIOR DO ESTABELECIMENTO DEMANDADO, DO QUAL RESULTOU COM LESÕES NO SEU JOELHO, ENSEJANDO ATENDIMENTO MÉDICO, QUE Processo 5000038-30.2014.8.21.0048/TJRS, Evento 16, ACOR2, Página 1 (e-STJ Fl.108) Documento recebido eletronicamente da origem CONFIGURA DANOS MORAIS IN RE IPSA, INERENTES AO PRÓPRIO EVENTO DANOSO. 4. VALOR DA INDENIZAÇÃO ARBITRADO EM R$ 8.000,00 (OITO MIL REAIS), DIANTE DAS PECULIARIDADES DO CASO CONCRETO, ASSIM COMO OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE, BEM COMO DA NATUREZA JURÍDICA DA INDENIZAÇÃO. 5. HAVENDO NEXO CAUSAL DIRETO E IMEDIATO ENTRE A PERDA DA CAPACIDADE PARCIAL E PERMANENTE PARA O EXERCÍCIO DA ATIVIDADE LABORAL, EM CONFORMIDADE COM O PRINCÍPIO DA REPARAÇÃO INTEGRAL, QUE DEVA SER CONCEDIDA A INDENIZAÇÃO A TÍTULO DE PENSIONAMENTO MENSAL E VITALÍCIO TENDO COMO BASE A REMUNERAÇÃO MENSAL DA AUTORA, OBSERVADO O GRAU DE INCAPACIDADE IDENTIFICADO NA PERÍCIA JUDICIAL APÓS A CONSOLIDAÇÃO DAS LESÕES, AFASTADA, NO ENTANTO, A CONDENAÇÃO A TÍTULO DE LUCROS CESSANTES, POR CONFIGURAR BIS IN IDEM. 6. HONORÁRIOS DO PROCURADOR DA PARTE AUTORA MAJORADOS PARA 15% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO, DE ACORDO COM OS VETORES DO ART. 85, §2º, DO CPC. 7. O SEGURADO SE VALEU DO INSTITUTO DA DENUNCIAÇÃO À LIDE, TENDO O PRAZO PRESCRICIONAL SE INTERROMPIDO COM O DESPACHO QUE DETERMINOU A CITAÇÃO DA LITISDENUNCIADA, RETROAGINDO À DATA DA DENUNCIAÇÃO, EM CONFORMIDADE COM O DISPOSTO NO ARTIGO 202, INCISO I, DO CÓDIGO CIVIL E ARTIGO 240, § 1º, DO CPC, SENDO DESPICIENDA QUALQUER OUTRA CONDUTA DO SEGURADO EXTRAJUDICIALMENTE PARA ASSEGURAR O SEU CRÉDITO, UMA VEZ QUE INEXISTE PREVISÃO LEGAL NESSE SENTIDO. 8. NO QUE DIZ RESPEITO AOS DANOS MORAIS, SEGUNDO O ENUNCIADO DA SÚMULA N. 402 DO SUPERIOR TRIBUNAL DE JUSTIÇA, O CONTRATO DE SEGURO POR DANOS PESSOAIS COMPREENDE DANOS MORAIS, SALVO CLÁUSULA EXPRESSA DE EXCLUSÃO. NO CASO EM EXAME, HÁ CLÁUSULA EXPRESSA AFASTANDO OS DANOS MORAIS DA CONDENAÇÃO SECURITÁRIA. RECURSOS DA AUTORA E DA RÉ PARCIALMENTE PROVIDOS. RECURSO DA SEGURADORA DESPROVIDO.
+Sem embargos de declaração.
+O réu ELMIR COMÉRCIO DE CALÇADOS E VESTUÁRIO LTDA. havia interposto recurso especial que, não tendo sido admitido pela corte de origem, deu azo à interposição de agravo em recurso especial que, por seu turno, não foi conhecido em virtude de irregularidade na representação processual não sanada em tempo hábil (fls. 272/273).
+Após o trânsito em julgado de tal decisão (fl. 276), o Tribunal de origem enviou a esta Corte Superior as peças de fls. 278/995, relativas ao presente recurso especial, que por equívoco não haviam sido enviadas anteriormente (fl. 278).
+No recurso especial por ela interposto (fls. 980/981), a autora MARIA SERENITA MAIA CANDIDO alega ter havido violação à legislação federal porque o acórdão recorrido "afastou o direito da recorrente aos lucros cessantes, por entender que faz parte da indenização já fixada a título de pensionamento vitalício."
+Alega, em suma, ser "cabível a indenização de lucros cessantes e a fixação de pensão mensal, pois cada uma têm finalidades distintas, destinadas a reparar diferentes ordens de danos", bem como que "os recorridos não se desincumbiram do ônus de comprovar que os lucros cessantes alegados pela recorrida não teriam sido verificados ou que teriam ocorrido em percentuais distintos do por ele suscitados."
+Apresentadas as contrarrazões (fls. 170-203), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 227-231).
+É, no essencial, o relatório.
+EMENTA
+Direito civil. Recurso especial. Responsabilidade civil. Indenização por lucros cessantes. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA SENTENÇA. PRINCÍPIO DA DIALETICIDADE. VIOLAÇÃO. SÚMULAS 283 e 284 DO STF. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que afastou a condenação por lucros cessantes, considerando bis in idem com o pensionamento vitalício concedido.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a indenização por lucros cessantes pode ser cumulada com o pensionamento vitalício, considerando que ambos têm finalidades distintas.
+III. Razões de decidir
+3. O recurso especial não foi conhecido devido à falta de impugnação de todos os fundamentos do acórdão recorrido, atraindo a incidência das Súmulas 283 e 284 do STF.
+4. A recorrente não apresentou razões suficientes para demonstrar a divergência jurisprudencial, limitando-se a citar ementas sem o devido cotejamento analítico.
+IV. Dispositivo e tese
+5. Resultado do Julgamento: Recurso não conhecido.
+Tese de julgamento:
+1. A não impugnação de todos os fundamentos do acórdão recorrido impede o conhecimento do recurso especial.
+2. A apresentação de razões dissociadas dos fundamentos do acórdão recorrido atrai a incidência das Súmulas 283 e 284 do STF.
+Dispositivos relevantes citados:CC, art. 950; CPC, art. 85, § 11.
+Jurisprudência relevante citada:STF, Súmula 283; STF, Súmula 284.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O presente recurso não comporta conhecimento, visto que a recorrente, nas razões do recurso especial, limitou-se a apontar uma incorreta aplicação do instituto dos lucros cessantes de forma genérica e abstrata, sem entretanto impugnar todos os fundamentos utilizados no acórdão recorrido, deixando de desincumbir-se do ônus da dialeticidade.
+De fato, verifica-se que o acórdão recorrido afirma:
+Com relação aos lucros cessantes, ressalto, ainda, que o artigo 950 do Código Civil trata da reparação de danos consistentes na inabilitação ou redução da capacidade laborativa da vítima.
+Prevê o precitado dispositivo que, além das despesas de tratamento e do que o ofendido houver deixado de auferir até o final da convalescença (lucros cessantes), a indenização compreenderá uma pensão atinente à importância do trabalho ao qual está inabilitada a vítima ou em razão do qual teve sua capacidade depreciada.
+Cumpre aduzir que a indenização oriunda da responsabilidade civil por ato ilícito, na forma de pensão, em nada está atrelada ao sistema da Previdência Social ou ao Regime Próprio de Previdência do Estado ou do Município. Assim é, porquanto a concessão de benefício previdenciário, tal como a aposentadoria, possui causa jurídica distinta da reparação decorrente do instituto da responsabilidade civil, como também os princípios informadores de um e de outro são diversos.
+Nesse diapasão, a existência de benefício previdenciário não exonera o causador do dano de suas responsabilidades quando da ocorrência de acidente de consumo.
+Modo igual, a existência de diferença entre o auxílio concedido pela Previdência Social e a anterior remuneração também não configura lucros cessantes autônomos a serem somados com o pensionamento, visto que o valor auferido a título de auxílio-doença ou aposentadoria por invalidez é calculado em conformidade com as contribuições realizadas pelo segurado ao longo de sua atividade laborativa. E o pensionamento já configura espécie de lucros cessantes.  ..
+Diante disso, penso que assiste razão, parcialmente, a ambas as partes. Segundo a perícia médica oficial realizada pelo Departamento Médico Judiciário, a autora possui uma incapacidade parcial e permanente na ordem de 12,5%, sendo as lesões irreversíveis  Evento 2, OUT - INST PROC6 - fls. 43/44 . Então, não há dúvidas de que a autora faça jus ao pensionamento na ordem de 12,5% dos rendimentos que percebia, e não integral como pleiteia, visto que se trata de incapacidade parcial. Faz jus, porém, ao pensionamento de forma vitalício, já que as lesões são permanentes e irreversíveis conforme o laudo realizado pelo perito oficial nesta demanda, até porque, ainda que haja cirurgia, dada a idade da autora (atualmente com 64 anos), provavelmente não conseguirá retornar às suas atividades laborativas.
+O recurso, todavia, nenhuma menção faz ao fato de que a incapacidade é apenas parcial, nem tampouco ao fato de que o acórdão efetivamente afirmou que "além das despesas de tratamento e do que o ofendido houver deixado de auferir até o final da convalescença (lucros cessantes), a indenização compreenderá uma pensão atinente à importância do trabalho ao qual está inabilitada a vítima ou em razão do qual teve sua capacidade depreciada".
+Em tais condições, verifica-se que não é possível conhecer do presente recurso especial, que deixou de se desincumbir do ônus da dialeticidade, por não haver impugnado todos os fundamentos do acórdão recorrido, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 11, 489 E 1.022 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA SENTENÇA. PRINCÍPIO DA DIALETICIDADE. VIOLAÇÃO.
+1. Não há ofensa aos arts. 11, 489 e 1.022 do CPC, uma vez que o acórdão recorrido adotou fundamentação suficiente e em conformidade com a jurisprudência desta Corte para não conhecer do recurso de apelação.
+2. Apesar de a mera reprodução dos argumentos expostos na petição inicial ou na contestação não afrontar, por si só, o princípio da dialeticidade, não há como conhecer da apelação se a parte não impugnar os fundamentos da sentença (AgInt no AREsp n. 1.776.084/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022).
+Recurso especial improvido.
+(REsp n. 2.157.776/SE, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+Desse modo, a não impugnação do fundamento central do acórdão recorrido, bem como a apresentação de razões dissociadas desse fundamento atraem a incidência das Súmulas 283 e 284 do STF.
+Da mesma forma, quanto à divergência jurisprudencial, o apelo nobre tampouco comporta conhecimento, visto que, além da jurisprudência citada ser do próprio TJRS, a recorrente não promoveu o devido cotejamento analítico, limitando-se a promover a citação de ementas de julgados que entendem acolher sua tese recursal.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente no montante de 1% sobre o valor do proveito econômico pretendido no presente recurso (lucros cessantes).
+É como penso. É como voto.
