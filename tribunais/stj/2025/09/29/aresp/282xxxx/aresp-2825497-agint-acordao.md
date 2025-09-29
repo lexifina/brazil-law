@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. MORTE DE ANIMAL DE ESTIMAÇÃO. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Cuida-se na origem de ação de indenização por danos materiais e morais em razão da morte por atropelamento de animal de estimação.
+2. Na hipótese, o Tribunal de origem foi expresso em determinar que houve culpa exclusiva da vítima.
+3. Alterar a conclusão a que chegou o Tribunal de origem requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por DOUGLAS WILLIAN PASSOS e LUCAS WILLIAN PASSOS contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial nos termos da seguinte ementa (fl. 417):
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. MORTE DE ANIMAL. CULPA EXCLUSIVA DA VÍTIMA. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 281):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. MORTE DE ANIMAL. ATROPELAMENTO. RESPONSABILIDADE DE PREPOSTOS DE PRESTADORA DE SERVIÇOS. NÃO CONFIGURAÇÃO. CULPA EXCLUSIVA DA VÍTIMA. CONSTATAÇÃO. EXCLUSÃO DE RESPONSABILIDADE. OCORRÊNCIA. SENTENÇA MANTIDA. I - O reconhecimento da responsabilidade por parte de terceiro fica obstado pela constatação de elementos que permitam chegar à conclusão de culpa exclusiva da vítima pelo ocorrido. II - Não se pode atribuir ao prestador de serviços a culpa pelo atropelamento de animal que veio a ser atropelado após fuga ocorrida durante a prestação de serviços. III - Recurso conhecido e não provido.
+Sem embargos de declaração.
+Nas razões do agravo interno, os agravantes alegam a não incidência da Súmula n. 7/STJ ao caso dos autos. Aduzem que "a controvérsia exige revaloração jurídica de fatos incontroversos e o enfrentamento dos arts. 6º, VIII, e 14, §3º, do CDC e 373, II, do CPC, indevidamente afastados sob o rótulo de vedação ao reexame fático-probatório" (fl. 428).
+Sustenta, outrossim, que o "TJMG não apontou qualquer prova produzida pela ré que afastasse o nexo causal. Ao contrário, a narrativa de "culpa exclusiva" foi construída com base em presunções e juízos hipotéticos ("poderiam ter restringido o animal", "seria mais prudente"), sem respaldo probatório. A decisão monocrática manteve esse raciocínio, invertendo indevidamente o ônus da prova em prejuízo do consumidor, em ofensa direta aos arts. 6º, VIII, e 14, §3º do CDC e 373, II do CPC" (fl. 429).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões às fls. 442-443.
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. MORTE DE ANIMAL DE ESTIMAÇÃO. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Cuida-se na origem de ação de indenização por danos materiais e morais em razão da morte por atropelamento de animal de estimação.
+2. Na hipótese, o Tribunal de origem foi expresso em determinar que houve culpa exclusiva da vítima.
+3. Alterar a conclusão a que chegou o Tribunal de origem requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que a parte agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Cuida-se na origem de ação de indenização por danos materiais e morais em razão da morte por atropelamento de animal de estimação. Alegam os autores que os funcionários da empresa ré, ao prestarem um serviço de internet em sua residência, deixaram o portão aberto o que ocasionou a fuga e o atropelamento do animal de estimação.
+A responsabilidade civil subjetiva tem como pressupostos: i) a conduta culposa do agente; ii) o nexo causal; e iii) o dano. É o que se depreende da redação do art. 186 do CC: aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.
+Incorrendo em ato ilícito que cause dano a outrem (arts. 186 e 187 do CC), o autor dessa conduta fica obrigado a reparar a parte prejudicada, nos termos do art. 927, caput, do CC, por ofensa ao princípio do neminem laedere, segundo o qual o indivíduo deve agir de forma a não lesar o outro.
+A título elucidativo, o art. 927, caput, do CC estabelece que "aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo".
+A propósito, cito:
+RECURSO ESPECIAL. CIVIL. RESPONSABILIDADE CIVIL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO CUMULADA COM INDENIZATÓRIA. FALHA NO DEVER DE INFORMAÇÃO. FATO RELEVANTE SOBRE O NEGÓCIO JURÍDICO QUE NÃO ERA DE CONHECIMENTO DO RECORRENTE/ALIENANTE. AUSÊNCIA DE CULPA E DE VIOLAÇÃO AO DEVER ANEXO DE INFORMAÇÃO DECORRENTE DA BOA-FÉ OBJETIVA. RESPONSABILIDADE CIVIL AFASTADA. IMPROCEDÊNCIA DO PEDIDO INDENIZATÓRIO DE DANOS MATERIAIS QUANTO AO RECORRENTE. RECURSO PROVIDO.
+1. A ausência de debate expresso, no acórdão recorrido, acerca do conteúdo normativo do dispositivo de lei federal apontado como violado evidencia a carência do imprescindível prequestionamento, a atrair a incidência da Súmula 211/STJ.
+2. Nos termos do art. 927, caput, do CC, "aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo".
+3. O art. 186 do CC dispõe acerca da responsabilidade civil subjetiva, que tem como requisitos: i) a conduta culposa do agente;
+ii) o nexo causal; e iii) o dano. A ideia de culpa, segundo a doutrina, está umbilicalmente ligada à responsabilidade, de modo que para se censurar uma pessoa deve-se haver, ao menos, violação ao dever de cuidado que dela se espera, em observância ao princípio do neminem laedere, segundo o qual o indivíduo deve agir de forma a não lesar o outro.
+4. Não incorre em abuso de direito previsto no art. 187 do CC, por violação ao dever anexo de informação ínsito à boa-fé objetiva, quem aliena um bem a outrem, sem repassar informação relevante sobre o negócio jurídico a respeito de fato que ignorava quando da celebração da avença.
+5. A parte alienante, que integra a cadeia de alienação, não responde civilmente (subjetiva ou objetivamente), à luz do Código Civil de 2002, por falha no dever de informação acerca de fato relevante sobre o negócio jurídico que desconhecia no momento da venda (a saber, a existência de sinistro antecedente de perda total sobre o veículo alienado), ante a ausência de ato ilícito, a afastar, em consequência, o dever de indenizar a título de danos materiais.
+6. Subsiste, no entanto, a obrigação do réu/recorrente de restituição à autora/recorrida dos valores recebidos em razão da venda do veículo, ante a anulação do negócio jurídico também por erro (art. 138 do CC), no acórdão recorrido, o que, por decorrência lógica, acarreta o retorno das partes ao status quo ante, não sendo devolvida a questão à apreciação deste Tribunal Superior nas razões do apelo especial em voga.
+7. Recurso especial provido.
+(REsp n. 2.027.841/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2023, DJe de 28/8/2023.)
+Contudo, a legislação brasileira estabelece excludentes de responsabilidade, como culpa exclusiva da vítima (arts. 12, §3º, III, e 14, §2º, II, do Código de Defesa do Consumidor), ou a sua mitigação em razão da culpa concorrente do agente e a vítima.
+Na hipótese dos autos, o Tribunal de origem foi expresso em delimitar que houve culpa exclusiva da vítima. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 285-287):
+Analisando, detidamente, o conjunto probatório dos autos, tenho para mim que o caso é de manutenção da sentença primeva pelos motivos que passo a relatar. Primeiramente, pelo que dispõe o art. 945, do Código Civil, trata da hipótese de concurso da vítima diretamente para a concretização do evento danoso, se não vejamos:
+ ..
+Assim, existindo culpa concorrente ou exclusiva da vítima, a culpa de terceiro será apurada na proporção da intervenção desta.
+Em casos de animais de estimação, é imperioso registrar que a responsabilidade pela guarda e detenção destes compete, exclusivamente, a seus tutores, que devem assegurar ao tutelado a convivência em ambiente propício e seguro.
+Na hipótese em apreço, os autores afirmam que, no momento da visita, encontrava-se no local do atendimento apenas sua avó de 81 (oitenta e um) anos de idade, a quem não seria possível atribuir a responsabilidade pela vigilância do animal.
+Ora, se a um familiar, idoso ou não, era impossível atribuir a responsabilidade pelo animal, como pretendem os apelantes transferir tal responsabilidade aos funcionários da apelada, pessoas completamente estranhas aos apelantes e ao animal
+A meu ver, considerando que a visita dos técnicos ao local era circunstância programada, tendo os recorrentes plena ciência prévia desta, é de se reconhecer que os tutores do animal poderiam se programar para melhor protegê-lo.
+ ..
+É de se considerar, também, que os funcionários da apelada estavam ali para resolver questão relacionada ao sinal de internet, de maneira que exigir-lhes que adaptassem toda a dinâmica de trabalho com a qual já estavam familiarizados à dinâmica adotada na residência dos recorrentes seria desarrazoado.
+Portanto, verificando que o resultado final do ocorrido poderia ter sido evitado pelos apelantes, caso estes tivessem adotado uma conduta mais cautelosa em relação ao animal, mormente por saberem que a prestação de serviços dar-se-ia em tal data e hora, é de se entender como afastada a responsabilidade dos funcionários da recorrida.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+No mesmo sentido, cito os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. TRANSPORTE DE PESSOAS. ART. 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. CULPA EXCLUSIVA DA VÍTIMA E/OU CULPA CONCORRENTE. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N. 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. SEGURO DPVAT. COMPENSAÇÃO COM DANOS MORAIS. NÃO CABIMENTO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA PARTE, NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça do Ceará decidiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A alteração das conclusões do acórdão recorrido no tocante à não configuração de culpa exclusiva da vítima e/ou de culpa concorrente e de fixação razoável e proporcional do montante indenizatório exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. A jurisprudência desta Corte Superior entende ser cabível a compensação do valor recebido a título de indenização do seguro DPVAT com a indenização por danos morais, desde que esta tenha sido arbitrada com fundamento na morte ou na invalidez permanente, o que não ocorreu na hipótese, 4. A não observância aos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.888.955/CE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/6/2025, DJEN de 24/6/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO. ART. 1.022. NÃO CONFIGURADA. DIREITO CIVIL. ALEGADA EXCLUDENTE DE RESPONSABILIDADE. CULPA EXCLUSIVA DA VÍTIMA. DIREITO CONSUMERISTA. INEXISTÊNCIA. RECONHECIMENTO DA CULPA CONCORRENTE. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela agravante.
+2. Para se configurar a responsabilidade, e, assim, responsabilidade de indenizar, deve-se verificar certos pressupostos, como a conduta realizada, o dano, a culpa do agente causador (em casos de responsabilidade subjetiva), e o nexo causal ente eles.
+3. Possibilitam-se excludentes, contudo, como culpa exclusiva da vítima (arts. 12, §3º, III e 14, §2º, II, do Código de Defesa do Consumidor), ou a sua mitigação em razão da culpa concorrente do agente e da vítima 4. Concluir em sentido diverso, verificando se efetivamente houve culpa exclusiva da parte agravada no evento danoso - quando o próprio Tribunal de origem já refutou essa hipótese ao reconhecer a culpa concorrente -, demandaria reexame de matéria fático-probatória, vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.281.338/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023.)
+Assim, não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
