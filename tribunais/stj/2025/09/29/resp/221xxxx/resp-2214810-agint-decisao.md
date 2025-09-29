@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto por GEAP AUTOGESTÃO EM SAÚDE contra decisão (fls. 1.025-1.031) proferida por esta Relatoria, que negou provimento ao recurso especial.
+Nas razões do agravo interno, a parte agravante alega que "durante a tramitação do presente feito restou incontroverso que o fornecimento de home care não encontra previsão no Rol de Procedimentos e eventos em saúde editado pela ANS, razão pela qual a matéria que se pretende discutir na instância superior é justamente se o referido Rol é taxativo ou exemplificativo, de modo que uma vez reconhecia a taxatividade do Rol da ANS restará demonstrado que a negativa não foi abusiva, e sim pautada nos ditames legais" (fl. 1.045).
+Foi apresentada impugnação às fls. 1.052-1.055.
+É o relatório. Decido.
+Observa-se que a questão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsps 2.153.093/SP, 2.171.580/MG e 2.171.577/SP delimitado o Tema 1.340 nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PLANO DE SAÚDE. CLÁUSULA CONTRATUAL. CUSTEIO DE TRATAMENTO DOMICILIAR (HOME CARE). INDICAÇÃO MÉDICA.
+1. Delimitação da controvérsia: Definir se é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar, à luz da Lei n. 9.656/1998.
+2. Afetação do recurso especial ao rito previsto nos arts. 1.036 e 1.037 do CPC de 2015 e 256 ao 256-X do RISTJ."
+(ProAfR no REsp n. 2.153.093/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/4/2025, DJEN de 6/5/2025.)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
