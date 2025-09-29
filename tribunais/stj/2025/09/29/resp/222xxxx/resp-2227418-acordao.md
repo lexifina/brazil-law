@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE FINANCIAMENTO DE VEÍCULO. VENDA CASADA. SEGURO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. COBRANÇA DE SERVIÇOS DE TERCEIROS, TARIFA DE AVALIAÇÃO DE BEM E DE REGISTRO DE CONTRATO. AUSÊNCIA DE PROVA DE QUE O SERVIÇO NÃO FOI EFETIVAMENTE PRESTADO. MATÉRIA DECIDIDA COM BASE EM ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. TEMA N. 958 DO STJ. SÚMULA N. 83 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Rever as conclusões quanto à legalidade na contratação do seguro, verificar se o serviço foi devidamente prestado ou abusiva a sua cobrança demandaria a análise de cláusulas contratuais, dos fatos e das provas dos autos, o que é inviável a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência do Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ.
+3. Recurso especial não provido .
+RELATÓRIO
+Trata-se de recurso especial interposto por CÁSSIO ROBERTO DOS SANTOS TEIXEIRA (CÁSSIO) contra acórdão do Tribunal de Justiça do Estado de São Paulo, relatado pelo Des. Paulo Sérgio Manjerona, assim ementado:
+APELAÇÃO. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO DE VEÍCULO. Sentença de parcial procedência na origem declarando inexigível a cobrança do seguro prestamista. Regularidade da cobrança da tarifa de cadastro, tendo em vista que não havia relacionamento anterior entre as partes. Seguro prestamista. Abusividade inexistente na hipótese. Seguro firmado de forma opcional, em separado, nada indicando a venda casada ou imposição da seguradora. Ação improcedente. RECURSO DO RÉU PROVIDO. RECURSO DO AUTOR DESPROVIDO. (e-STJ, fl. 225)
+Irresignado, CÁSSIO apresentou recurso especial com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 6º, V, 42, 39, I, V, 51, § 1º, I, e III, 36, § 3º, XVIII da Lei n. 12.529/2011. Sustentou, em síntese, que (1) a prática de venda casada é proibida, e a tarifa de seguro é considerada como tal, pois condiciona a aquisição de um produto à compra de outro; (2) a tarifa de cadastro só pode ser cobrada na primeira contratação, o que não foi comprovado pelo banco; e (3) a tarifa de registro de contrato deve ser suportada pelo banco, não podendo ser repassada ao consumidor sem previsão expressa.
+As contrarrazões foram apresentadas.
+O recurso foi admitido pelo TJSP (e-STJ, fls. 266-268).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE FINANCIAMENTO DE VEÍCULO. VENDA CASADA. SEGURO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. COBRANÇA DE SERVIÇOS DE TERCEIROS, TARIFA DE AVALIAÇÃO DE BEM E DE REGISTRO DE CONTRATO. AUSÊNCIA DE PROVA DE QUE O SERVIÇO NÃO FOI EFETIVAMENTE PRESTADO. MATÉRIA DECIDIDA COM BASE EM ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. TEMA N. 958 DO STJ. SÚMULA N. 83 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Rever as conclusões quanto à legalidade na contratação do seguro, verificar se o serviço foi devidamente prestado ou abusiva a sua cobrança demandaria a análise de cláusulas contratuais, dos fatos e das provas dos autos, o que é inviável a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência do Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ.
+3. Recurso especial não provido .
+VOTO
+O recurso não merece prosperar.
+(1) Da venda casada do seguro
+Nesse ponto, o acórdão recorrido concluiu que não houve comprovação da imposição do seguro a CÁSSIO, nos seguintes termos:
+Por sua vez, o contrato de seguro de fls. 127/128 foi celebrado em separado, de forma opcional e sem ressalvas, nada indicando a venda casada.
+ ..
+Não houve comprovação de que o autor foi compelido ou coagido a contratar os seguros e com a seguradora indicada pela instituição financeira.
+Enfim, não se tem no caso mínima prova de imposição da contratação dos seguros como condição para aquisição de empréstimo, além de se cuidar de avenças que implicam beneficiar o próprio consumidor.
+De rigor, portanto, o reconhecimento da regularidade do seguro (e-STJ, fl. 226/227, sem destaque no original).
+Portanto, alterar a conclusão do TJSP, para reconhecer que houve venda casada, ensejaria indevida incursão fático-probatória, em manifesta ofensa ao disposto na Súmula n. 7 do STJ.
+A propósito, vejam-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REPETIÇÃO EM DOBRO. MÁ-FÉ. NÃO OCORRÊNCIA. VENDA CASADA. DANO MORAL. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A devolução em dobro dos valores pagos pelo consumidor pressupõe a existência de pagamento indevido e a má-fé do credor. Precedentes.
+4. Na hipótese, rever o entendimento das instâncias ordinárias, para reconhecer a comprovação da venda casada e do dano moral, demandaria a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial em virtude a incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.483.449/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 16/11/2021, DJe 22/11/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. CERCEAMENTO DE DEFESA. CAPITALIZAÇÃO. CLÁUSULA DE AVALIAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. VENDA CASADA. INTIMAÇÃO. PURGAÇÃO DA MORA. SÚMULAS N. 5 E 7 DO STJ. VALOR DO BEM. ARREMATAÇÃO. PREÇO VIL. SÚMULAS N. 282 DO STF E 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. O acolhimento das teses relacionadas à venda casada e à intimação para purgar a mora demandariam reexame de provas, o que não se admite neste procedimento.
+4. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282 do do STF), tal qual se verifica em relação à tese de ausência de atualização do valor do imóvel.
+5. "A caracterização do preço vil se dá quando o bem penhorado for arrematado por valor inferior a 50% (cinquenta por cento) do valor originariamente atribuído pelo laudo de avaliação" (AgInt no REsp n.
+1.461.951/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/2/2017, DJe 24/2/2017).
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.204.037/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 28/6/2021, DJe 1º7/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO HABITACIONAL. VENDA CASADA NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. CONHECIMENTO DO MUTUÁRIO ACERCA DAS CONDIÇÕES E VANTAGENS CONCEDIDAS PELA INSTITUIÇÃO FINANCEIRA. ANUÊNCIA. REEXAME. SÚMULAS 5 E 7 DO STJ.
+AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp 1.689.486/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 10/5/2021, DJe 13/5/2021)
+(2) (3) Da cobrança da tarifa de cadastro e de registro de contrato
+CÁSSIO alegou que a tarifa de cadastro só pode ser cobrada na primeira contratação, o que não foi comprovado pelo banco e a tarifa de registro de contrato deve ser suportada pelo banco, não podendo ser repassada ao consumidor sem previsão expressa.
+A esse respeito, o Tribunal consignou:
+São regulares, igualmente, a cobrança da tarifa de avaliação do bem dado em garantia e o ressarcimento das despesas com o registro do contrato, desde que os serviços tenham sido efetivamente prestados e não se verifique onerosidade excessiva no caso concreto (Tema 958 do STJ).
+No particular, a tarifa de cadastro é devida em razão do início do relacionamento entre as partes e da não comprovação do pagamento da mesma despesa anteriormente.
+De outro lado, o banco-réu comprovou o registro do contrato (gravame/alienação fiduciária) junto ao DETRAN, como se vê a fls. 124. Assim, comprovada a prestação do serviço, válida se mostra a cobrança da tarifa correlata (e-STJ, fl. 226 - sem destaque no original).
+Quanto à cobrança da tarifa de registro de contrato e da tarifa de cadastro, esta Corte Superior firmou, sob a sistemática dos recursos repetitivos (Tema n. 958), a tese de que é válida, ressalvadas, a abusividade da cobrança por serviço não efetivamente prestado, e a possibilidade de controle da onerosidade excessiva em cada caso concreto.
+Eis a ementa do julgado:
+RECURSO ESPECIAL REPETITIVO. TEMA 958/STJ. DIREITO BANCÁRIO. COBRANÇA POR SERVIÇOS DE TERCEIROS, REGISTRO DO CONTRATO E AVALIAÇÃO DO BEM. PREVALÊNCIA DAS NORMAS DO DIREITO DO CONSUMIDOR SOBRE A REGULAÇÃO BANCÁRIA. EXISTÊNCIA DE NORMA REGULAMENTAR VEDANDO A COBRANÇA A TÍTULO DE COMISSÃO DO CORRESPONDENTE BANCÁRIO. DISTINÇÃO ENTRE O CORRESPONDENTE E O TERCEIRO. DESCABIMENTO DA COBRANÇA POR SERVIÇOS NÃO EFETIVAMENTE PRESTADOS. POSSIBILIDADE DE CONTROLE DA ABUSIVIDADE DE TARIFAS E DESPESAS EM CADA CASO CONCRETO. 1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo. 2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1. Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado; 2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva; 2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto. 3. CASO CONCRETO. 3.1. Aplicação da tese 2.2, declarando-se abusiva, por onerosidade excessiva, a cláusula relativa aos serviços de terceiros ("serviços prestados pela revenda"). 3.2. Aplicação da tese 2.3, mantendo-se hígidas a despesa de registro do contrato e a tarifa de avaliação do bem dado em garantia. 4. RECURSO ESPECIAL PARCIALMENTE PROVIDO. (REsp 1.578.553/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, j. 28.11.2018, DJe 6.12.2018).
+Desse modo, aplicável, à espécie, a Súmula n. 83 do STJ.
+Ademais, reformar o entendimento firmado no Tribunal estadual, no sentido de verificar que o serviço não foi devidamente prestado ou abusiva a sua cobrança, demandaria a análise de cláusulas contratuais, dos fatos e das provas dos autos, o que é inviável a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+A propósito, confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. SUSPENSÃO PELO RITO DOS RECURSOS REPETITIVOS. IMPOSSIBILIDADE. SOBRESTAMENTO. NÃO CABIMENTO. TARIFAS ADMINISTRATIVAS PARA ABERTURA DE CRÉDITO (TAC). EXPRESSA PREVISÃO CONTRATUAL. COBRANÇA. LEGITIMIDADE. MÚTUO ACESSÓRIO PARA PAGAMENTO PARCELADO DO IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS (IOF). POSSIBILIDADE. TARIFA DE REGISTRO DE CONTRATO E DE AVALIAÇÃO DO BEM. PREVISÃO CONTRATUAL. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE ABUSIVIDADE. ALTERAÇÃO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ.
+1. A suspensão dos recursos que tratam de idêntica controvérsia, prevista no art. 543-C do CPC/73, dirige-se aos Tribunais de origem, não atingindo os recursos em trâmite nesta Corte.
+2. É pacífico o entendimento do Superior Tribunal de Justiça, consolidado em julgamento submetido ao rito dos recursos repetitivos - REsp 1.251.331/RS, segundo o qual: - nos contratos bancários celebrados até 30/4/2008 (fim da vigência da Resolução CMN 2.303/96) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto. - Com a vigência da Resolução CMN 3.518/2007, em 30/4/2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carnê (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador. Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira.  .. .
+3. Rever, na via especial, as conclusões da Corte estadual quanto à inexistência de abusividade da cobrança das tarifas de registro de contrato, de avaliação do bem, e da taxa de juros contratada em comparação com a taxa média divulgada pelo Bacen, é obstado pelas Súmulas nºs 5 e 7 do STJ.
+4. A parte não apresentou, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+5. Agravo regimental não provido.
+(AgRg no AREsp 767.870/SP, de minha relatoria, Terceira Turma, j. 1º/12/2016, DJe 15/12/2016).
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+É o voto.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, e 1.026, § 2º, ambos do CPC).
