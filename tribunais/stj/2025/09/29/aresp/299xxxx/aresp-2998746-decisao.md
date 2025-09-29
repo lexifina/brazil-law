@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da deserção.
+Neste agravo, a recorrente afirma que seu recurso especial, além de não ser deserto, satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Sem contrarrazões.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+De fato, o recurso não comporta conhecimento.
+Na hipótese, a recorrente foi intimada para fins de regularização do preparo, em dobro, porque não restou comprovado o recolhimento do valor devido (fl. 584).
+Como destacado pela Corte de origem (fl. 593), como não houve a regularização do preparo, com recolhimento dos valores em dobro, impõe-se a deserção.
+Nesse contexto, a jurisprudência desta Corte Superior firmou-se no sentido de que "a ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidência do § 4º do art. 1.007 do CPC/2015. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º), sofre a pena da deserção (Súmula 187/STJ)" (AgInt no REsp 1.856.622/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe de 24/6/2020).
+À propósito, os seguintes precedentes (com grifos nossos):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE RECOLHIMENTO DE CUSTAS. REGULAR INTIMAÇÃO PARA SANAR O VÍCIO. ART. 1.007, §§ 2º E 4º, DO CPC. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DO DEFERIMENTO DO BENEFÍCIO. SÚMULA 187/STJ. INCIDÊNCIA.
+1. Na hipótese, as razões de recurso especial não vieram instruídas com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento. Apurada a deficiência na instância ordinária, a parte foi intimada para sanar o vício, nos termos do art. 1.007, §§ 2º e 4º, do CPC, ocasião em que se limitou a afirmar ser beneficiária da justiça gratuita.
+2. "A parte que não comprova o preparo no momento da interposição do recurso deve ser intimada, nos termos do art. 1.007, §§ 2º e 4º, do CPC, para a regularização do vício. Intimada, a parte deve demonstrar, no prazo designado: (i) ser beneficiária da gratuidade da justiça ao tempo da interposição, (ii) ter comprovado o preparo no momento do protocolo do recurso, ou (iii) o recolhimento na forma determinada na intimação. Mesmo após a intimação para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo no prazo assinalado, o que atrai a Súmula n. 187 do STJ" (AgInt no REsp n. 1.978.398/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/10/2022, DJe de 3/11/2022).
+3. Independentemente da concessão da benesse na ação principal, é responsabilidade da parte agraciada com a justiça gratuita fazer prova dessa condição nos demais incidentes processuais, sob pena de ter decretada a deserção do recurso. 4. Agravo interno não provido. (AgInt no AREsp 2.286.131/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. IRREGULARIDADE NO RECOLHIMENTO. INTIMAÇÃO PARA SANAR O DEFEITO. FALTA DE REGULARIZAÇÃO. CÓDIGO DE BARRAS. NÚMERO. AUSÊNCIA. MANUTENÇÃO DA DECISÃO PROFERIDA PELA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO IMPROVIDO.
+1. A falta de correspondência entre a sequência da numeração do código de barras constante da guia de recolhimento e do comprovante de pagamento, bem como a não indicação do número do processo a que se refere, impossibilita a aferição do correto recolhimento das custas devidas. Incidência da Súmula n. 187/STJ.
+2. Tendo sido deferido prazo para o recorrente comprovar o correto recolhimento do preparo, à luz do art. 1.007, § 7º, do CPC/2015, e permanecendo algum vício que importe em deserção, não cabe nova oportunidade para regularização, sob pena de incentivo ao abuso processual, devendo a parte agir com diligência no cumprimento de seus deveres (AgInt no AREsp 1.045.105/MS, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF-5ª Região, Quarta Turma, julgado em 14/11/2017, DJe 21/11/2017).
+3. Agravo interno não provido. (AgInt nos EDcl no REsp 2.050.166/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+Sendo assim, é de rigor o reconhecimento da deserção. Incide ao caso a Súmula 187/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. DESERÇÃO. SÚMULA 187/STJ. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
