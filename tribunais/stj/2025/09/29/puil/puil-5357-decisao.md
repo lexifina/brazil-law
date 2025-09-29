@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de incidente de uniformização jurisprudencial apresentado pelo DEPARTAMENTO ESTADUAL DE TRANSITO DO ESTADO DO CEARA - DETRAN/CE, com fundamento no art. 18, § 3º, da Lei 12.153/2009, em razão do acórdão da Terceira Turma Recursal do Estado do Ceará assim ementado (fl. 131):
+RECURSO INOMINADO. JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. ALIENAÇÃO DE VEÍCULO SEM DOCUMENTO FORMAL. AUSÊNCIA DE COMUNICAÇÃO DA TRANSFERÊNCIA DE VEÍCULO AUTOMOTOR AO DETRAN-CE. DEVER CUJO DESCUMPRIMENTO IMPLICA EM SOLIDARIEDADE. BLOQUEIO DO VEÍCULO DETERMINADO EM SENTENÇA. POSSIBILIDADE. MEDIDA ADMINISTRATIVA PREVISTA NO ART. 233 e 270 DO CTB. RESPONSABILIDADE SOLIDÁRIA ATÉ A DATA DA CITAÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas suas razões, a parte requerente afirma que há divergência com precedente da Primeira Turma Recursal do Tribunal de Justiça do Estado do Paraná (TJ/PR), enfatizando que o art. 134 do Código de Trânsito Brasileiro (CTB) impõe ao vendedor o dever de comunicar a venda em até 30 dias, sob pena de permanecer responsável solidariamente até a efetiva comunicação.
+Argumenta que a decisão recorrida gera insegurança jurídica e obrigação inexequível, pois inviabiliza a cobrança de multas, do Imposto sobre a Propriedade de Veículos Automotores (IPVA) e de demais encargos sem a definição de novo proprietário.
+Ao final, requer, liminarmente, a suspensão de processos idênticos e, no mérito, a uniformização da interpretação para estabelecer que o vendedor responde solidariamente até o cumprimento do dever legal de comunicação, reformando-se o acórdão recorrido e julgando-se improcedente os pedidos iniciais.
+É o relatório.
+Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal "quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça", e especificamente no que se refere a questões de direito material, senão vejamos:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+ ..
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Nesse contexto, a divergência jurisprudencial segue o mesmo entendimento firmado por ocasião da análise dos recursos especiais fundamentados na alínea c do permissivo constitucional, devendo a parte requerente, para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles.
+Exige-se, portanto, a realização do cotejo analítico dos julgados confrontados com o caso em apreciação, o que se faz por meio da transcrição dos trechos dos acórdãos paradigma e recorrido que identifiquem a similitude fática e a adoção de posicionamento distinto pelo órgão julgador.
+No presente pedido de uniformização, a parte requerente não se desincumbiu de demonstrar que havia divergência jurisprudencial mediante o efetivo confronto entre os julgados, com o devido detalhamento acerca da semelhança do suporte fático e das diferentes razões de decidir.
+Nesse mesmo sentido, confiram-se estes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. FALTA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA E JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio, sendo insuficiente, para tanto, a mera transcrição das ementas dos acórdãos apresentados como paradigmas. Precedentes.
+2. É entendimento pacífico desta Corte que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido quando não demonstrada a similitude fática e jurídica entre os julgados confrontados.
+3. Agravo interno não provido.
+(AgInt no PUIL n. 1.232/DF, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 2de /4/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas. Precedentes.
+ .. V - Agravo Interno improvido.
+(AgInt no PUIL n. 440/RN, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 28/2/2018.)
+No presente caso, o acórdão impugnado consignou que a responsabilidade solidária do alienante permanecia até a data em que o Detran/CE fosse citado, afastando, a partir desse marco, qualquer vinculação do antigo proprietário em relação a encargos que pudessem advir posteriormente (fl. 134).
+Por outro lado, o acórdão paradigma firmou o entendimento de que não caberia a condenação ao pagamento de indenização por danos morais, tampouco a obrigação de quitar débitos previamente constituídos pela parte adquirente do automóvel em benefício da parte alienante. Isso porque, embora a alienação tivesse ocorrido em 2014, não tinha havido a devida comunicação da transferência ao órgão de trânsito, circunstância que teria ocasionado a imputação das infrações em nome do antigo proprietário, por atrair a sua responsabilidade (fls. 176/179).
+Nesse contexto, verifica-se que ambos os julgados reconheceram a solidariedade do alienante enquanto o Detran não tivesse ciência da transferência do bem. Todavia, a decisão recorrida delimitou expressamente que essa responsabilidade deveria cessar a partir do momento em que o órgão de trânsito tomasse conhecimento da alienação por meio da citação na ação originária, afastando, assim, a imputação de futuras infrações. Tal aspecto, por sua vez, não foi objeto de apreciação no julgado indicado como paradigma.
+Ante o exposto, não conheço do pedido de uniformização.
+Fica prejudicada a análise do pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
