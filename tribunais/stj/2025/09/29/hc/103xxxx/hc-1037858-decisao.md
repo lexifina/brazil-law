@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Jose Cinael Balbino, em que se aponta como autoridade coatora a Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus criminal n. 2277118-63.2025.8.26.0000, mantendo a prisão preventiva imposta pelo Juiz de Direito da 2ª Vara Criminal da comarca de Bragança Paulista/SP, pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, caput, c/c o art. 40, III, da Lei n. 11.343/2006.
+Neste writ, a defesa sustenta a ausência de fundamentos concretos para a prisão preventiva, ressaltando a primazia da liberdade e a suficiência de medidas cautelares diversas (arts. 319 e 321 do CPP).
+Aduz a inidoneidade da genérica "garantia da ordem pública" (art. 312 do CPP e art. 93, IX, da CF), a inexistência de drogas na posse direta do paciente e a ausência de risco à instrução ou à aplicação da lei penal.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura.
+É o relatório.
+Infere-se dos autos que o paciente foi preso em flagrante na Vila Flora, após policiais civis presenciarem duas transações de drogas com corré, resultando na apreensão de 53 pedras de crack (18 g) escondidas em casa abandonada e dinheiro em poder de ambos. A ocorrência foi devidamente documentada (fls. 8/19 e 82/87).
+O flagrante foi homologado e convertido em preventiva, com fundamento nos arts. 312 e 313, I, do CPP, em razão da ordem pública e da reincidência, já reconhecida em condenação definitiva no Processo n. 0002864-10.2020.8.26.0099.
+O Tribunal de Justiça destacou que a custódia se sustenta na existência de prova da materialidade e indícios de autoria (fumus comissi delicti), demonstrados pelas diligências e apreensões, bem como no periculum libertatis revelado pela gravidade concreta da conduta e pelo risco de reiteração, evidenciado pela reincidência, o que torna insuficientes as medidas cautelares alternativas do art. 319 do CPP (fls. 15/21).
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE SOCIAL DO CUSTODIADO. REINCIDÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Inicial indeferida liminarmente.
