@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. RESCISÃO CONTRATUAL. FORÇA MAIOR. DANO MORAL. PUBLICAÇÕES EM REDE SOCIAL. TEMAS QUE DEMANDAM REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SUMULA N. 7 DO STJ. AUSÊNCIA DE OMISSÕES NO JULGADO. RECURSO NÃO PROVIDO.
+1. A reanálise do desequilíbrio contratual ou da eventual imprevisão dos efeitos da pandemia da Covid-19, porquanto afastados pelo tribunal de origem, demandam reexame de matéria fático-probatória em afronta ao disposto na Súmula n. 7 do STJ.
+2. Reconhecida a ausência de elementos que indiquem violação aos direitos da personalidade a partir de publicações em rede social, a pretensão de modificar esse entendimento é inviável em sede de recurso especial, por extrapolar o campo da mera revaloração e implicar, necessariamente, em reexame do conjunto fático-probatório.
+3. Não se caracteriza violação dos arts. 489 e 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+4. Agravo conhecido, com desprovimento do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CAMBUCI S/A contra decisão que não admitiu seu recurso oferecido com fundamento no art. 105, III, alínea a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo, da lavra da Desembargadora CRISTINA ZUCCHI assim ementado:
+AÇÃO DE RESCISÃO CONTRATUAL C. C. COBRANÇA E INDENIZATÓRIA. DECRETO DE PROCEDÊNCIA EM PARTE DA AÇÃO, BEM COMO DA RECONVENÇÃO. NECESSIDADE. INAPLICABILIDADE DA CLÁUSULA XIV DO CONTRATO, A QUAL PREVÊ A POSSIBILIDADE DE RESCISÃO DO CONTRATO, SEM ÔNUS ÀS PARTES. CONJUNTO PROBATÓRIO INDICANDO QUE NÃO HOUVE DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE CUMPRIMENTO DA OBRIGAÇÃO, QUANDO DO ENVIO DA NOTIFICAÇÃO EXTRAJUDICIAL EM 15.04.2020, JÁ QUE, À ÉPOCA, AINDA NÃO SE DETINHA A EXATA DIMENSÃO DOS EFEITOS DA PANDEMIA DA COVID-19, SENDO TOTALMENTE DESCONHECIDOS, NAQUELE MOMENTO, O PRAZO DE DURAÇÃO DOS EFEITOS PREJUDICIAIS À ECONOMIA MUNDIAL, QUANTO TEMPO DURARIAM AS MEDIDAS RESTRITIVAS GOVERNAMENTAIS E EM QUAL INTENSIDADE. INADIMPLÊNCIA DE PARCELA VENCIDA ANTES DA IMPOSIÇÃO DE MEDIDAS GOVERNAMENTAIS RESTRITIVAS. NÃO APLICAÇÃO DO DISPOSTO NO ART. 478 DO CÓDIGO CIVIL. ELEMENTOS DOS AUTOS INDICANDO QUE OS PRODUTOS "FALCÃO 12" PERMENECERAM À VENDA NO SITE DA LOJA OFICIAL, BEM COMO QUE FORAM RELIZADAS VENDAS A OUTROS VAREJISTAS, DEPOIS DA NOTIFICAÇÃO DE RESCISÃO UNILATERAL DO CONTRATO. DECLARAÇÃO DE TER-SE O CONTRATO COMO RESCINDIDO A PARTIR 31.05.2020, POR CULPA DA RÉ. CLÁUSULA PENAL. REDUÇÃO DO VALOR EM CONFORMIDADE COM O ART. 413 DO CÓDIGO CIVIL. HIPÓTESE EM QUE NÃO RESTOU CARACTERIZADA A PRÁTICA DE ILÍCITO POR PARTE DO COAUTOR (FALCÃO), NEM DIVULGAÇÃO DE INFORMAÇÕES CONFIDENCIAIS EM SUAS POSTAGENS NAS REDES SOCIAIS. DANOS MORAIS NÃO CONFIGURADOS. SENTENÇA RATIFICADA NOS TERMOS DO ART. 252 DO REGIMENTO INTERNO DESTA CORTE. Recurso de apelação improvido.(e-STJ, fls. 724-741)
+Embargos rejeitados (e-STJ, fls. 772-783), houve contraminuta de ALESSANDRO ROSA VIEIRA, EGF SPORTS CONSULTORIA E MARKETING LTDA (e-STJ, fls. 809-824), negativa de admissibilidade (e-STJ, fls. 831-833), interposição de agravo por CAMBUCI (e-STJ, fls. 836-861) e nova contraminuta (e-STJ, fls. 873-882).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. RESCISÃO CONTRATUAL. FORÇA MAIOR. DANO MORAL. PUBLICAÇÕES EM REDE SOCIAL. TEMAS QUE DEMANDAM REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SUMULA N. 7 DO STJ. AUSÊNCIA DE OMISSÕES NO JULGADO. RECURSO NÃO PROVIDO.
+1. A reanálise do desequilíbrio contratual ou da eventual imprevisão dos efeitos da pandemia da Covid-19, porquanto afastados pelo tribunal de origem, demandam reexame de matéria fático-probatória em afronta ao disposto na Súmula n. 7 do STJ.
+2. Reconhecida a ausência de elementos que indiquem violação aos direitos da personalidade a partir de publicações em rede social, a pretensão de modificar esse entendimento é inviável em sede de recurso especial, por extrapolar o campo da mera revaloração e implicar, necessariamente, em reexame do conjunto fático-probatório.
+3. Não se caracteriza violação dos arts. 489 e 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+4. Agravo conhecido, com desprovimento do recurso especial.
+VOTO
+O agravo é tempestivo e impugna de maneira adequada os fundamentos da decisão recorrida. Dele conheço, portanto, passando ao exame do recurso especial.
+Em suas razões (e-STJ, fls. 785/803), CAMBUCI aponta esteio no art. 105, III, alínea a, da CF, para aduzir (1) violação dos art.s 393, caput, e 607, ambos do CC; (2) infringência aos arts. 17 e 422 do CC, com exposição pública da recorrente e inobservância à boa-fé processual; omissões no julgamento em afronta aos arts. 489 e 1.022, I e II, ambos do CPC.
+Sem razão, contudo, em que pese o respeitável articulado.
+(1) Violação dos arts. 393, caput, e 607, ambos do CC
+Aduz a recorrente CAMBUCI que o acórdão recorrido não teria reconhecido a circunstância de força maior decorrente da intercorrência de evento pandêmico, por si só constitutiva de motivação para a rescisão contratual sem pagamento de multa.
+Entretanto, a fundamentação foi ratificada no julgamento dos embargos declaratórios sobre a circunstância de que, por ocasião da rescisão, não estavam dimensionados os efeitos da pandemia de molde a justificar a medida unilateral. E como se sabe, a invocação pura e simples daquele evento não legitima, por si só, o reconhecimento de força maior.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS C/C PEDIDO DE OBRIGAÇÃO DE FAZER. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. ATRASO NA ENTREGA DE IMÓVEL. PANDEMIA. COVID-19. FORÇA MAIOR. NÃO DEMONSTRADA. SÚMULA 568/STJ.
+ ..  5. A revisão de contratos paritários, com fulcro nos eventos decorrentes da pandemia, não pode ser concebida de maneira abstrata, mas depende, sempre, da análise da relação contratual estabelecida entre as partes, sendo imprescindível que a pandemia tenha interferido de forma substancial e prejudicial na relação negocial.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.693.566/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/12/2024, DJEN de 19/12/2024)
+Nesse contexto, tendo o Tribunal local afastado os argumentos de que as circunstâncias de fato justificariam o reconhecimento de força maior em razão da pandemia da COVID-19, não há espaço para reexame do tema em função do que disciplina a Súmula n. 7 do STJ.
+Como já decidido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISCUSSÃO SOBRE ALUGUÉIS. PEDIDO DE REDUÇÃO. PRINCÍPIO DA INTANGIBILIDADE CONTRATUAL. REVISÃO EXCEPCIONAL. PANDEMIA DO CORONAVÍRUS. TEORIA DA IMPREVISÃO. ART. 478 DO CÓDIGO CIVIL. REQUISITOS NÃO CONFIGURADOS. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Como reflexo do princípio da força obrigatória existe o da intangibilidade contratual, de acordo com o qual o conteúdo das cláusulas avançadas apenas pode ser afastado pela autoridade judicial em situações excepcionais, observando os contornos assim definidos em lei.
+2. Nos contratos de execução continuada ou diferida, se a prestação de uma das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução do contrato (Art. 478 do Código Civil). Interpretação do dispositivo. Teoria da imprevisão.
+3. Requisitos para aplicação da teoria da imprevisão: i) deve haver contrato de execução continuada ou diferida; ii) existência de acontecimentos supervenientes, isto é, posteriores à celebração do contrato, não importando a razão pela qual aconteceu a distância entre a celebração e a execução, seja por diferimento da prestação, seja pela natureza duradoura do contrato; iii) os acontecimentos supervenientes devem ser extraordinários e imprevisíveis.
+Precedentes.
+4. Não cabe a esta Corte analisar o efetivo desequilíbrio contratual das partes com a eventual onerosidade excessiva ou eventual imprevisão dos efeitos da pandemia da Covid-10, se o próprio Tribunal de origem reconheceu a sua inexistência. Modificar tal conclusão, portanto, demandaria reexame de matéria fático-probatória, o que seria inviável em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.252.394/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023)
+Em virtude dessas considerações, não há espaço para reexaminar a fundamentação do acórdão recorrido quanto ao não reconhecimento de força maior diante da postulação de rescisão contratual, formulada imediatamente após a instituição da "quarentena" no período pandêmico. Tampouco para admitir a justificativa oferecida pela recorrente para inadimplir obrigação vencida anteriormente às medidas restritivas impostas ao comércio. Daí a pertinência da multa contratualmente estabelecida (cláusula VII - e-STJ, fls. 37), frise-se, com redução a levar em conta o período de restrições.
+(2) Infringência aos arts. 17 e 422 do CC
+Igualmente não assiste razão ao inconformismo relacionado às publicações do coautor em rede social.
+Como assinalado com propriedade no acórdão recorrido, o teor das mensagens não revela qualquer intenção de macular a imagem ou a honra objetiva da requerida, tampouco insuflar campanha de ódio contra a marca. Não é esse, absolutamente, o conteúdo das publicações retratadas nos autos.
+De qualquer sorte, a análise desse contexto fático aprofundado pelo tribunal local também não é passível de reexame por esta corte.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO DESPROVIDO. I. CASO EM EXAME
+ ..  6. O acórdão recorrido destacou a ausência de provas nos autos que sustentassem os fatos alegados na petição inicial, relacionados à indevida circulação de postagens ou compartilhamento de vídeos em violação aos direitos da personalidade.
+7. A pretensão de modificar esse entendimento é inviável em sede de recurso especial, por extrapolar o campo da mera revaloração e implicar, necessariamente, reexame do conjunto fático-probatório  .. .
+(AgInt nos EDcl no AREsp n. 2.619.561/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/5/2025, DJEN de 8/5/2025)
+Não se viu caracterizada, pois, violação dos arts. 17 e 422 do CC, uma vez que não demonstrada exposição deletéria ao nome da recorrente ou comportamento que possa ser enquadrado como arredio à boa-fé contratual pelos recorridos.
+(3) Afronta aos arts. 489 e 1.022, I e II, ambos do CPC
+Por fim, também não há omissão no acórdão recorrido quanto aos fundamentos para redução parcial na multa e não reconhecimento de ofensas em rede social. Este tema, aliás, fora satisfatoriamente analisado no tópico anterior, de modo que se cuida de mera repetição de argumentos.
+Acerca da multa, o TJSP considerou que a motivação para a redução utilizada pelo magistrado na sentença foi a mais adequada, qual seja, potencial abalo em razão da pandemia da COVID-19. Desse modo, não prospera o intuito de atribuir omissão na busca por rever aquele fundamento, alegando que deveria haver sido considerado o tempo transcorrido no contrato.
+Vale citar:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INEXISTÊNCIA DE BENS PENHORÁVEIS. SUSPENSÃO DA EXECUÇÃO. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, AMBOS DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. MATÉRIA DECIDIDA. ALEGADA VIOLAÇÃO AOS ARTS. 5º, 9º, 10, 14 E 921, § 4º, TODOS DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação aos arts. 489 e 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.154.123/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/8/2025, DJEN de 18/8/2025)
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Previno que todos os temas abordados foram detidamente analisados, de modo que a interposição de recurso contra esta decisão com nítido intuito de buscar revisão do julgamento, invocando omissão ou contradição inexistente, acarretará condenação às penalidades fixadas no artigo 1.026, § 2º, do CPC.
+É o voto.
