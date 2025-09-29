@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA.
+1. Ação indenizatória.
+2. É inepta a petição de agravo no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com aplicação de multa.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por CEDRO CONSULTORIA IMOBILIÁRIA LTDA e OUTRA, contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial que interpusera, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Ação: indenizatória apresentada por TERCIO BRAGA CORREIA e JOICE GONÇALVES RODRIGUES, em face da agravante e outra, na qual alegam que suas assinaturas foram falsificadas em contrato de compra e venda de imóvel, pedindo a rescisão do contrato, indenização por danos morais, e ressarcimento em dobro dos valores pagos a título de comissão de corretagem e assessoria.
+Agravo interno interposto em: 23/6/2025.
+Concluso ao gabinete em: 29/8/2025.
+Sentença: julgou parcialmente procedente o pedido, condenando as rés a restituírem aos autores os valores pagos a título de comissão de corretagem e serviços de assessoria, além de indenização por danos morais no valor de R$5.000,00.
+Acórdão: deu parcial provimento ao recurso dos autores, determinando a devolução dos valores pagos em dobro e mantendo a indenização por danos morais, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. INSTRUMENTO PARTICULAR DE COMPRA E VENDA. DIVERGÊNCIA NAS ASSINATURAS DOS AUTORES. PROVA PERICIAL GRAFOTÉCNICA. FALSIFICAÇÃO COMPROVADA. DEVOLUÇÃO DA QUANTIA PAGA A TÍTULO DE COMISSÃO DE CORRETAGEM. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DAS PARTES. Cinge-se a controvérsia à análise da existência ou não de falha na prestação dos serviços do réu, decorrente de fraude na assinatura de instrumento particular de compra e venda de imóvel, assim como ao direito de devolução de valores pagos a título de comissão de corretagem. Relação de consumo. Os autores afirmaram na inicial que compareceram no stand da primeira ré, sendo atendidos pela corretora da terceira ré, que solicitou documentação dos autores para verificação de cadastro e possível aprovação da venda de imóvel para os autores. Argumentam que o cadastro teria sido aprovado e que teriam que retornar para assinatura do contrato. Afirmaram que apenas a autora pode retornar para assinar na data estipulada e, no ato, teria assinado a documentação pertinente à compra e venda e teria efetuado o pagamento da comissão de corretagem no valor total de R$ 10.030,00 (dez mil e trinta reais). Após três meses sem qualquer contato por parte das rés, a autora compareceu ao escritório da terceira ré para obter os documentos pertinentes à compra e venda e, para sua surpresa, constatou que os documentos divergiam daqueles que foram assinados pela demandante e que as assinaturas teriam sido falsificadas no instrumento particular de compra e venda, motivo pelo qual solicitaram a rescisão contratual, que foi aceita e a primeira ré teria devolvido apenas a quantia de R$ 1.545,84 (mil, quinhentos e quarenta e cinco reais e oitenta e quatro centavos). O laudo pericial concluiu que nenhuma das assinaturas foram produzidas pelo punho do autor Tércio. Ademais, concluiu que a assinatura da autora Joice nos documentos de instrumento particular de compra e venda, autorização de envio de boleto e declaração de ciência e concordância, não foram produzidas pelo seu punho. Ressaltou que a única assinatura elaborada pelo punho da autora foi a do contrato de prestação de serviços de assessoria. Ainda que a autora tenha assinado o contrato de prestação de serviços e assessoria, foi atestado que a assinatura do autor Tércio foi falsificada, o que macula o negócio jurídico celebrado, conforme artigos 168-169 do CC. Ademais, os demais documentos sequer preencheram o plano da existência (art. 104 do CC), uma vez que ficou comprovado que não houve manifestação de vontade dos autores na sua assinatura, que foi falsificada. Devolução dos valores pagos de forma dobrada. Dano moral in re ipsa. Quantia fixada a título de compensação deve ser mantida. Manutenção da sentença. Hipótese que comporta os honorários recursais. PROVIMENTO PARCIAL DO RECURSO DOS AUTORES. NEGADO PROVIMENTO AOS DEMAIS.
+Embargos de Declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 104, 186, 187, 927, 944 do Código Civil, artigo 1.022, II, do CPC, art. 67-A da Lei, além das Súmulas 362 e 543 do Superior Tribunal de Justiça e do Tema 1002 do STJ. Sustentam que não houve falha na prestação dos serviços e que a devolução em dobro dos valores pagos não é aplicável.
+Decisão unipessoal: não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: nas razões do presente recurso, a parte agravante sustenta que "não poderia a r. decisão agravada se lastrear no teor das Súmulas suscitadas, considerando que o v. acórdão promoveu ofensa direta aos precedentes indicados no recurso, não havendo que se falar que o E. TJRJ se baseou na orientação pacificada pelo Superior Tribunal de Justiça"(e-STJ Fl. 1890).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA.
+1. Ação indenizatória.
+2. É inepta a petição de agravo no recurso especial que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com aplicação de multa.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial interposto pela parte agravante com base na seguinte fundamentação:
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". (e-STJ, fl. 1884)
+Pela análise das razões recursais apresentadas, verifica-se que os agravantes, não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada. Isso porque, nas razões do presente agravo, não teceram quaisquer considerações quanto ao fundamento da decisão agravada, no tocante à incidência da Súmula 7/STJ.
+Ressalte-se que, cabia à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, §1o, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no §4º do art. 1.021 do CPC/15.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno.
