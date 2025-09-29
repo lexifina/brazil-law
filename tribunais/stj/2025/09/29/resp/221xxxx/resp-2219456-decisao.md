@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 149):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO. DECRETAÇÃO DE OFÍCIO. POSSIBILIDADE. NÃO PAGAMENTO DAS CUSTAS DE CUMPORIMENTO DE CARTA PRECATÓRIA NECESSÁRIAS AO PROSSEGUIMENTO DO FEITO. SENTANÇA MANTIDA.
+1. No julgamento de controvérsias análogas, em que fora discutida a possibilidade de extinção do processo em decorrência da inércia do exequente, ainda que não requerida pelo executado, têm decidido, reiteradamente, este Tribunal e o Superior Tribunal de Justiça que na execução fiscal, é cabível a extinção do processo se intimado a dar andamento à execução, a exequente mantém-se inerte. Nesse sentido: R Esp nº 688.681/CE - Rel. Ministro José Delgado - STJ - Primeira Turma - Unânime - D. J. 11/4/2005 - pág. 202.
+4. Apelação a que se nega provimento.
+O recorrente alega violação do artigo 485, III e §1º, do CPC e art. 40 da Lei nº 6.830/1980, ao argumento de que a Corte de origem manteve a sentença que extinguiu o processo por abandono de causa sem requerimento do executado e sem intimação do IBAMA para regularizar os autos. Além disso, aponta que o acórdão desconsiderou o procedimento específico previsto na Lei de Execuções Fiscais, que determina a suspensão do curso da execução por até um ano e arquivamento sem baixa na distribuição, apenas permitindo a extinção definitiva após cinco anos de inércia (fls. 161).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 164-166.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Em relação ao artigo 485, III e §1º, do CPC e a assertiva de ausência de intimação do IBAMA, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou a compreensão de que houve a devida intimação do exequente, que permaneceu inerte.
+Confira-se (fl. 146):
+Verifica-se, pelo exame dos autos, que a exequente foi regularmente intimada para efetuar o recolhimento do valor referente ao recolhimento das custas da carta precatória e não cumpriu o despacho.
+Assim, o ilustre prolator da decisão recorrida julgou, de ofício, extinto o processo sem resolução do mérito, porque embora regularmente intimado, a exequente permaneceu silente.
+Demais, embora a extinção do processo não tenha decorrido de requerimento do executado, entendo, data venia, ser inaplicável à espécie a Súmula nº 240 do Superior Tribunal de Justiça, pois a execução ficaria paralisada e sem solução, não sendo recomendável a eternização de demandas por falta de cumprimento de formalidades que nunca serão satisfeitas pela ausência de manifestação de uma das partes.
+A revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. COBRANÇA DE ASTREINTES. INTIMAÇÃO DO DEVEDOR. INDISPENSABILIDADE. SÚMULA N. 410/STJ. INTIMAÇÃO PARA CUMPRIMENTO DA DECISÃO EXEQUENDA. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É indispensável a prévia intimação do devedor para a cobrança de astreintes, seja a obrigação de fazer anterior ou posterior à edição da Lei n. 11.232/2005, permanecendo válido o enunciado da Súmula n. 410/STJ. Precedente da Corte Especial.
+III - In casu, rever o entendimento do tribunal de origem, o qual consignou que a parte executada foi devidamente intimada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.824.830/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/12/2019, DJe de 18/12/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ABANDONO DE CAUSA. OBRIGATORIEDADE DE INTIMAÇÃO PESSOAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. A intimação pessoal da parte para que o processo seja julgado extinto por abandono é imprescindível, a teor do § 1º do art. 485 do CPC.
+2. Hipótese em que o acórdão recorrido expressamente consigna a ocorrência da intimação pessoal da parte antes da sentença de extinção do feito.
+3. O exame da pretensão recursal de reforma ou invalidação do acórdão recorrido, quanto à alegação de que não houve intimação, exige revolvimento e alteração das premissas fático-probatórias estabelecidas pelo Tribunal a quo, o que é vedado em recurso especial nos termos da Súmula n. 7 do STJ. Agravo interno improvido.
+(AgInt no REsp n. 1.828.186/AC, relator Ministro Humberto Martins, Segunda Turma, DJe de 13/3/2023.)
+(grifei)
+Com relação à tese de ausência de requerimento do executado na extinção da causa, convém ressaltar que o Tribunal de Origem, ao examinar a questão, decidiu ser inaplicável à espécie a Súmula nº 240/STJ (a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu).
+Referido entendimento vai ao encontro da jurisprudência do STJ, para a qual, "nas execuções fiscais não embargadas, após observados os artigos 40 e 25 da Lei n. 6.830/80 e regularmente intimada a exequente para promover o andamento do feito, a inércia desta parte processual interessada impõe a extinção ex officio do executivo fiscal, restando afastada a Súmula 240 do STJ." (REsp n. 1.335.578/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/8/2012, DJe de 22/8/2012.
+A propósito: AgInt no REsp n. 1.957.067/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/11/2021; AgInt no AREsp n. 2.777.249/PB, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 26/5/2025; AgRg no Ag n. 1.236.183/SP, relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 24/3/2011.
+Por fim, no que diz respeito ao artigo art. 40 da Lei nº 6.830/1980 e à tese a ele vinculada, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula n. 282/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO DO FEITO. ABANDONO DA CAUSA. INTIMAÇÃO DO EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REQUERIMENTO DA PARTE EXECUTADA. EXECUÇÃO NÃO EMBARGADA. PRESCINDIBILIDADE. PRECEDENTES. ART. 40 DA LEI DE EXECUÇÃO FISCAIS . AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA N. 282/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
