@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO DE REINTEGRAÇÃO DE POSSE. ILEGITIMIDADE PASSIVA AD CAUSAM. SÚMULA 7 DO STJ. AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1.  Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2.  Agravo  interno  não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AUGUSTO MARTINS DE SOUSA contra decisão singular da lavra do Ministro Presidente do STJ na qual o agravo em recurso especial não foi conhecido pelos seguintes fundamentos: a) a parte agravante deixou de impugnar especificamente o fundamento da Súmula 7/STJ; b) nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida" (fls. 730-731).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que demonstrou a violação aos arts. 155 e 386, VII, do Código de Processo Penal; o art. 489, §1º, IV, do Código de Processo Civil; e do art. 5º, XXXV e LV, 93, IX, da Constituição Federal. Aduz que não há que se falar em alegações genéricas ou mesmo em mérito da controvérsia, que seria o direito de posse, uma vez que busca apenas o reconhecimento da ilegitimidade passiva, matéria unicamente de direito.
+A impugnação não foi apresentada (fl. 746).
+É o relatório.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO DE REINTEGRAÇÃO DE POSSE. ILEGITIMIDADE PASSIVA AD CAUSAM. SÚMULA 7 DO STJ. AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1.  Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2.  Agravo  interno  não conhecido.
+VOTO
+O  recurso  não  merece  prosperar.
+De início destaco que constou na decisão que não admitiu o recurso especial: (i) "a impropriedade da alegação de ofensa a dispositivos da Constituição Federal em sede de recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o artigo 102, inciso III, do permissivo constitucional"; (ii) "a Turma Julgadora resolveu a controvérsia considerando aspectos que são específicos da presente demanda e de seu processado"; e (iii) a incidência da Súmula 7 do Superior Tribunal de Justiça (fls. 686-687).
+Nas razões do seu agravo em recurso especial a parte agravante afirmou que: (i) "se busca é justamente o reconhecimento de decisão contrária às provas e estas são capazes de infirmar o veredito, obstaculizada desde a decisão do juízo de primeiro grau"; (ii) não é parte legítima para figurar na ação; e (iii) a matéria foi devidamente prequestionada e embargada (fls. 703/708).
+Como  se  vê,  a  parte  agravante  deixou  de  impugnar  os  fundamento s da  decisão  agravada, uma vez que apenas reiterou as razões do seu recurso especial,  não  demonstrando  o  seu  desacerto  ou  eventual  possibilidade  de  afastamento  do  óbice  sumular  apontado.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, a jurisprudência desta Corte está consolidada no sentido de que, segundo a teoria da asserção, a legitimidade para a causa é verificada pela pertinência abstrata da pretensão inicial com o direito material controvertido. A saber:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ARBITRAMENTO DE COMISSÃO DE CORRETAGEM. COMPRA E VENDA DE IMÓVEIS. INTERESSE DE AGIR. EXISTÊNCIA. RECURSO ESPECIAL PROVIDO PARA DETERMINAR O PROCESSAMENTO DA DEMANDA EM PRIMEIRO GRAU DE JURISDIÇÃO.
+1. Assim como a legitimidade processual, o interesse de agir também deve ser aferido in status assertionis, ou seja, pelas alegações constantes da inicial da ação, sem inferir sobre a veracidade das alegações ou a probabilidade de êxito da pretensão.  ..
+3. Recurso especial provido para determinar a volta dos autos ao Juízo de primeiro grau para prosseguimento do feito. (REsp n. 2.210.329/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/6/2025, DJEN de 24/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E CONDENATÓRIA. FRAUDE. APROPRIAÇÃO INDEVIDA DE VALORES. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ e 282/STF. LEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. SÚMULA 568/STJ.  ..
+5. Como condição da ação, a legitimidade é sempre aferida in status assertionis. Na espécie, a questão atinente à responsabilidade ou não do recorrente diz respeito ao mérito da demanda. Aplicação da Súmula 568/STJ. Precedentes.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.742.786/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+No caso dos autos, o Tribunal de origem entendeu que: "nota-se que o apelante figura na relação jurídica de direito material exposta na exordial como mandante do serviço, de modo que, pela teoria da asserção, deve ser mantido no polo passivo da demanda" (fl. 640).
+Como se vê, o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte, e a revisão das premissas adotadas no acórdão recorrido para alcançar tal conclusão demandaria, necessariamente, o reexame dos fatos e provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  não conheço do  agravo  interno.
+É  como  voto.
