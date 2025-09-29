@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FAZENDA NACIONAL, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4 ª Região, assim resumido (fl. 342):
+MANDADO DE SEGURANÇA. APELAÇÃO. TRIBUTÁRIO. IRPJ E CSLL. BASE DE CÁLCULO. COMPRA E VENDA DE VEÍCULOS. ALÍQUOTAS APLICÁVEIS. 8% E 12%.
+Não é aplicável às empresas que têm como objeto social a compra e venda de veículos automotores, inclusive venda por consignação, o regime tributário de imposto de renda e contribuição social sobre o lucro líquido próprio da empresa dedicada à prestação de serviços em geral.
+Opostos embargos de declaração, foram rejeitados (fls. 377-381).
+Em suas razões, a recorrente aponta como violados o art. 1.022, II, do CPC; o art. 5º da Lei n.º 9.716/98 c/c o art. 15, § 1º, III, "a", da Lei n.º 9.249/95.
+Afirma que buscou afastar omissão "quanto à natureza jurídica da operação de consignação de veículos usados para fins tributários" e o órgão julgador não se manifestou a respeito do ponto invocado. (fl. 394).
+Assinala que "O art. 5º da Lei nº 9.716/98 permite que pessoas jurídicas que tem como objeto social a compra e venda de veículos automotores equiparem, para efeitos tributários, como operação de consignação, a compra e venda de veículos usados, adquiridos para revenda, como também os assim recebidos como parte do preço de venda de veículos novos e usados" (fl. 399).
+Sustenta que ao optar pela equiparação estabelecida no art. 5º da Lei n.º 9.719/98 o contribuinte deve estar sujeito aos bônus e ônus advindos desse regramento, não podendo apenas se valer das normas que ofertam benefícios fiscais.
+Requer a admissão e provimento do recurso para reformar o acórdão impugnado favoravelmente às suas considerações.
+As contrarrazões foram apresentadas às fls. 409-423.
+O recurso foi admitido à fl. 426.
+É o relatório.
+Decido.
+Inicialmente, constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Colegiado originário julgou integralmente a lide e solucionou a causa em conformidade com o que lhe foi apresentado.
+Da leitura do acórdão recorrido, observa-se que o relator construiu sua fundamentação de modo a afastar a interpretação dada pela Receita Federal ao equiparar operações de compra e venda de veículo mediante consignação com aquela descrita na Lei n.º 9.249/95. Salientou que tal medida extrapolou a equiparação prevista na Lei n.º 9.716/98. Abrangeu, assim, os principais pontos necessários ao deslinde do caso.
+No que interessa, eis os termos do julgado (fl. 339):
+Como se observa, em relação ao IRPJ, a Receita Federal aplica a base de cálculo prevista no art. 15 § 1º III "a" (32%), invocando a IN SRF nº 390/04 e IN RFB 1700/2017 relativamente à CSLL.
+Contudo, não há autorização expressa na legislação para alicerçar a interpretação da Receita Federal, razão pela qual esta não poderia equiparar a compra e venda de veículo mediante consignação com operação genérica de prestação de serviço.
+Isto porque o princípio da legalidade tributária estabelece que é vedado ao ente tributante "exigir ou aumentar tributos sem lei que o estabeleça" (art. 150 I da CRFB e art. 97 IV do CTN). Igualmente, a utilização da analogia entre prestação de serviço com compra e venda de veículo consignado não poderia resultar na exigência de coeficiente diferenciado, nos termos do art. 108 § 1º do CTN.
+Vale dizer, o objeto social da autora não permite enquadrá-la no art. 15 § 1º III da Lei nº 9.249/95, que fixa em 32% o coeficiente da base de cálculo.
+Assim, a interpretação realizada extrapolou a equiparação prevista no art. 5º da Lei 9.716/98, como tem entendido o Tribunal Regional Federal da 4ª Região: (..)
+Como se verifica de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses da recorrente. Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+A esse respeito, colaciono o seguinte precedente desta Corte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. LEI DE IMPROBIDADE ADMINISTRATIVA E LEI ANTICORRUPÇÃO. UTILIZAÇÃO CONJUNTA. POSSIBILIDADE. PRINCÍPIO DO NON BIS IN IDEM. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não há violação ao art. 1.022 do CPC quando o órgão julgador, de forma clara e coerente, fundamenta adequadamente sua decisão, enfrentando as questões essenciais ao deslinde da causa, sendo certo que o mero descontentamento da parte com o julgamento desfavorável não caracteriza ausência de prestação jurisdicional.
+2. A utilização conjunta das Leis n. 8.429/1992 (Lei de Improbidade Administrativa) e n. 12.846/2013 (Lei Anticorrupção) para fundamentar uma mesma ação civil não configura, por si só, violação ao princípio do non bis in idem.
+3. É possível que as duas legislações sejam empregadas concomitantemente para fundamentar uma mesma ação ou diferentes processos, pois o que não é admissível é a imposição de sanções idênticas com base no mesmo fundamento e pelos mesmos fatos. Caso, ao final da demanda, sejam aplicadas as penalidades previstas na Lei Anticorrupção, aí, sim, é que deverá ficar prejudicada a imposição de sanções idênticas estabelecidas na Lei de Improbidade relativas ao mesmo ilícito.
+4. A preocupação com a não sobreposição de penalidades deve ser devidamente examinada no momento da sentença, quando se analisará o mérito e a natureza das infrações, e não na fase preliminar da ação.
+5. O art. 30, inciso I, da Lei n. 12.846/2013 reforça a compatibilidade entre os diplomas, determinando que as sanções da Lei Anticorrupção não excluem aquelas previstas na Lei de Improbidade.
+6. Recurso Especial desprovido.
+(REsp n. 2.107.398/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/2/2025, DJEN de 24/2/2025, destaquei.)
+Quanto ao mérito, este Superior Tribunal de Justiça já firmou entendimento no sentido de que a autorização legal para equiparar as operações de compra e venda à consignação, para fins tributários, não altera a natureza jurídica da atividade, não sendo possível qualificá-la como prestação de serviços para efeito de apuração do IRPJ e da CSLL.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IRPJ E CSLL. BASES DE CÁLCULO. COMPRA DE VEÍCULOS PARA REVENDA. RECEBIMENTO DE AUTOMÓVEL COMO PARTE DE PAGAMENTO DE OUTRO. ALÍQUOTAS APLICÁVEIS: 8% E 12%, RESPECITIVAMENTE. AUSÊNCIA DE PRESTAÇÃO DE SERVIÇO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A compra de veículo para revenda ou o recebimento de automóvel como parte de pagamento de outro não configuram prestações de serviço, e sim operações de compra e venda, aplicando-se, em tais operações, o coeficiente de presunção fiscal de 8% e 12%, respectivamente, na composição das bases de cálculo do IRPJ e CSLL. Precedentes.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+(AgInt no REsp n. 2.170.715/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025, com destaques.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IRPJ E CSLL. LUCRO PRESUMIDO. COMPRA E VENDA DE VEÍCULOS. CONSIGNAÇÃO. AUSÊNCIA DE PRESTAÇÃO DE SERVIÇOS. JURISPRUDÊNCIA DO STJ. CONFORMIDADE.
+1. A Primeira Seção do Superior Tribunal de Justiça entende que a "existência de autorização legal, destinada ao contribuinte, para que equipare as vendas de veículos usados às operações de consignação (art. 5º da Lei n. 9.716/98) não significa que estas atividades devem ser consideradas como prestação de serviço, para fins de definição da alíquota do IRPJ e da CSLL (arts. 15, III, "a" e 20 da Lei n. 9.249/1995)" (AgRg no REsp 1.160.907/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 23/2/2012).
+2. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.165.671/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/12/2024, DJEN de 11/12/2024, com destaques.)
+TRIBUTÁRIO. IRPJ. CSLL. COEFICIENTES PARA COMPOSIÇÃO DA BASE DE CÁLCULO. COMPRA E VENDA DE VEÍCULOS. CONSIGNAÇÃO. OPERAÇÃO MERCANTIL. AUSÊNCIA DE PRESTAÇÃO DE SERVIÇOS. INAPLICABILIDADE DO DISPOSTO NO ART. 15, § 1º, III, DA LEI N. 9.249/95. DA AUSÊNCIA DE AFRONTA AO ARTIGO 97 DA CF.
+1. Discute-se na presente ação mandamental a possibilidade de aplicação, nas operações de compra e venda de veículos, do coeficiente de presunção fiscal de 8% e 12% respectivamente, na composição da base de cálculo do IRPJ e CSLL.
+2. Defende a Fazenda Nacional que o acórdão recorrido malferiu o art. 5º da Lei n. 9.716/98, com o argumento de que a operação de venda de veículos usados mediante consignação configura prestação de serviços, sujeitando a empresa prestadora à respectiva alíquota.
+3. É assente na jurisprudência do Superior Tribunal de Justiça que as empresas concessionárias de veículos, nas vendas a consumidor final, não atuam por consignação, mas realizam negócios em nome e por conta própria, de modo que a Cofins deve ser recolhida sobre a receita bruta, e não sobre a eventual margem de lucro.
+4. As Turmas que compõem a Seção de Direito Público desta Corte já enfrentaram a controvérsia e concluíram que a existência de autorização legal contida no art. 5º da Lei n. 9.716/98, destinada ao contribuinte, para que equipare as vendas de veículos usados às operações de consignação não significa que estas atividades devem ser consideradas como prestação de serviço, para fins de definição da alíquota do IRPJ e da CSLL (arts. 15, III, "a", e 20 da Lei n. 9.249/95).
+5. Não há falar em afronta ao artigo 97 da Constituição Federal, nos termos em que foi editada a Súmula Vinculante 10 do STF. A violação à cláusula de reserva de plenário só ocorre quando a decisão, embora sem explicitar, afasta a incidência da norma ordinária pertinente à lide, para decidi-la sob critérios diversos alegadamente extraídos da Constituição.
+Agravo regimental improvido.
+(AgRg no REsp n. 1.462.321/SC, relator Ministro Humberto Martins, Segunda Turma, julgado em 2/12/2014, DJe de 10/12/2014.)
+Dessa forma, estando o acórdão recorrido em conformidade com a jurisprudência dominante do Superior Tribunal de Justiça acerca do tema, deve ser negado provimento ao recurso especial, nos termos da Súmula 568 deste Sodalício: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, nego provimento ao recurso especial. Não se impõe condenação ao pagamento de honorários recursais, tendo em vista tratar-se de mandado de segurança na origem.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. TRIBUTÁRIO. CONTRARIEDADE AO ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÃO. MERO INCONFORMISMO. IRPJ E CSLL. COMPRA E VENDA DE VEÍCULOS. CONSIGNAÇÃO. IMPOSSIBILIDADE DE EQUIPARAÇÃO À PRESTAÇÃO DE SERVIÇOS. PREDECENTES. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. RECURSO NÃO PROVIDO.
