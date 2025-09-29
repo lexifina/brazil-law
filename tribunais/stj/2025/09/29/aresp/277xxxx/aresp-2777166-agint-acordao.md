@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS EXECUTIVAS. PESQUISA DE BENS POR MEIO DO SNIPER E INSCRIÇÃO NO SERASAJUD. POSSIBILIDADE. SISTEMAS CONVENIADOS. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. TRANSCRIÇÃO DE EMENTAS. SÚMULA 284/STF. REVISÃO. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Para a caracterização do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas. Aplicação analógica da Súmula 284/STF.
+2. Rever as conclusões do acórdão recorrido quanto à necessidade de realização da pesquisa de bens via SNIPER e a inclusão do nome da parte executada no sistema Serasajud ensejaria o reexame de matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JULIANO KIHARA LTDA contra decisão singular da lavra do Ministro Presidente do STJ na qual o agravo em recurso especial foi conhecido para não conhecer do recurso especial sob o fundamento de que não foi comprovado o dissídio jurisprudencial, tendo em vista que a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados, não bastando, portanto, a mera transcrição de ementas ou votos (fls. 170-172).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada não reflete a realidade dos autos, pois houve a devida comprovação dos requisitos necessários para análise do recurso especial.
+Aduz que não incide o enunciado da Súmula nº 7 do STJ, uma vez que a matéria em discussão não requer reexame de matéria fático-probatória, mas apenas a análise de questões jurídicas, nos termos dos arts. 805 e 835 do Código de Processo Civil.
+Defende que a utilização do sistema SNIPER configura uma forma de penhora do faturamento da empresa sem observar os requisitos previstos no art. 835 do CPC/2015, o que não se admite.
+Decorreu o prazo sem apresentação de impugnação (fl. 187).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS EXECUTIVAS. PESQUISA DE BENS POR MEIO DO SNIPER E INSCRIÇÃO NO SERASAJUD. POSSIBILIDADE. SISTEMAS CONVENIADOS. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. TRANSCRIÇÃO DE EMENTAS. SÚMULA 284/STF. REVISÃO. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Para a caracterização do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas. Aplicação analógica da Súmula 284/STF.
+2. Rever as conclusões do acórdão recorrido quanto à necessidade de realização da pesquisa de bens via SNIPER e a inclusão do nome da parte executada no sistema Serasajud ensejaria o reexame de matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece provimento.
+Trata-se de agravo de instrumento interposto por JULIANO KIHARA EIRELI - ME contra decisão interlocutória que deferiu o pedido de pesquisa no sistema SNIPER e de inscrição no sistema SerasaJud.
+O Tribunal de origem conheceu do agravo de instrumento, mas negou-lhe provimento, mantendo a decisão que deferiu a pesquisa de bens via SNIPER e a inclusão do nome da parte no sistema Serasajud, fundamentando que, em que pese a execução deva ocorrer de modo menos gravoso para a parte devedora, deve ser garantido, também, o interesse do exequente, em busca da efetiva e célere satisfação do crédito. Confira-se:
+Neste viés, há que se observar se, para o deferimento das medidas, foram observados os requisitos legais para tanto, e, neste ponto, adianto que o ato merece ser mantido.
+Impende relembrar que a execução deve ocorrer de modo menos gravoso para a parte devedora (artigo 805 do CPC), contudo, há que se sopesar que o feito executivo corre no interesse do exequente (artigo 797 do CPC), em busca da efetiva e célere satisfação do crédito, trata-se, este último, do princípio do resultado.
+Na situação vertente, a pesquisa de bens via sistemas conveniados é um dos meios disponíveis ao exequente e aplicada pelo magistrado com o intuito de localizar bens penhoráveis que possam garantir a satisfação do débito.
+Neste pensar, o CNJ criou o Sistema Nacional de Investigação Patrimonial e Recuperação de Ativos - SNIPER, ferramenta que visa agilizar e simplificar a busca por bens passíveis de constrição, a fim de satisfazer o crédito da parte credora no processo de execução.
+A CGJ desta Corte, através do Ofício Circular nº 286/2022, cientificou a disponibilização do referido sistema através de convênio com o TJGO.
+No caso em epígrafe, já ocorreram tentativas anteriores de constrição de bens da executada/agravante (evento nº 172 da origem), além de não ser necessário o esgotamento das vias extrajudiciais ou judiciais para utilização do sistema SNIPER (convênio entre o CNJ e o TJ/GO), diante dos princípios da efetividade e do dever de cooperação.
+Por outro lado, sobre o pedido de inscrição da parte executada nos cadastros de inadimplentes, o Estatuto Processual Civil, em seu artigo 782, é claro ao dispor sobre a possibilidade do juiz determinar a inscrição.
+Com base no mencionado dispositivo legal, percebe-se que a norma processual possibilita que o juiz determine a inclusão do nome do executado no cadastro de inadimplentes.
+Justamente como forma de instrumentalizar tal possibilidade, o Conselho Nacional de Justiça celebrou com a Serasa Experian o Termo de Cooperação Técnica nº 020/2014, a fim de incentivar a utilização do sistema Serasajud.
+Diante disso, é certo que a referida ferramenta visa facilitar e agilizar a tramitação dos ofícios entre os Tribunais de Justiça e o Serasa, por meio da troca eletrônica de dados, evitando, portanto, solicitações enviadas em papel.
+Ademais, cumpre ressaltar que nosso ordenamento processual vigente atenta pela primazia dos princípios da celeridade e economia processual.
+Assim, levando-se em consideração as exaustivas diligências, sem sucesso, à procura de patrimônio em nome da parte agravante/executada, a aplicação do Serasajud mostra-se uma medida eficaz para reforçar a efetividade da tutela executiva  ..  (fls. 111-112).
+Nas razões do seu recurso especial, a parte agravante afirmou a "violação direta às regras contidas no Artigo 805 do Código de Processo Civil, justificando, assim, a interposição do presente Recurso Especial pelo permissivo contido na alínea "c" do art. 105, III, da Constituição Federal", e defendeu a impossibilidade de deferimento da medid a, sob o fundamento de onerosidade na execução, apresentando apenas a ementa de dois acórdãos paradigmas (fl. 125).
+Por esse motivo, constou na decisão agravada, que não foi comprovado o dissídio jurisprudencial, tendo em vista que a parte recorrente não realizou o indispensável cotejo analítico.
+Quanto ao mais, alterar a conclusão a que chegou o Tribunal de origem, que consignou que "já ocorreram tentativas anteriores de constrição de bens da executada/agravante (evento nº 172 da origem), além de não ser necessário o esgotamento das vias extrajudiciais ou judiciais para utilização do sistema SNIPER (convênio entre o CNJ e o TJ/GO), diante dos princípios da efetividade e do dever de cooperação", demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
