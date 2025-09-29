@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso especial interposto pelo Estado de Roraima contra acórdão do Tribunal de Justiça do Estado de Roraima assim ementado (fl. 32):
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA C/C OBRIGAÇÃO DE FAZER. PROFESSOR. 1º RECURSO: PRESCRIÇÃO. INEXISTÊNCIA. PROCESSO ADMINISTRATIVO NÃO FINDO. SUSPENSÃO. EXEGESE DO ART. 4º DO DECRETO 20.910/1932. PRESCRIÇÃO AFASTADA. RECURSO CONHECIDO E PROVIDO. SENTENÇA PARCIALMENTE REFORMADA. 2º RECURSO: PROGRESSÕES FUNCIONAIS. TESE DE COMPROVAÇÃO DA OPÇÃO PELA CARGA HORÁRIA. IMPERTINÊNCIA COM A MATÉRIA OBJETO DA LIDE. NÃO CONHECIMENTO. OBRIGAÇÃO DE FAZER. DIREITO IMPLEMENTADO POR LEI E RECONHECIDO NA SENTENÇA. CONSONÂNCIA COM O ENTENDIMENTO DESTE TRIBUNAL. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação ao art. 4º do Decreto 20.910/1932, sob a seguinte fundamentação (fl. 45-46):
+O acórdão recorrido afastou a prescrição quinquenal tanto em relação à progressão horizontal quanto vertical por conta da existência de processo administrativo. Contudo, é preciso esclarecer, nos termos do EP. 1.6, que o processo administrativo existente trata exclusivamente de concessão de progressão vertical por graduação.
+Nesse sentido, deve ser afastada a tese da suspensão da prescrição contida no art. 4 do decreto federal em relação à progressão horizontal, diante da inexistência de processo administrativo.
+Por outro lado, mostra-se incontroverso que o Processo Administrativo (EP 1.6) trata exclusivamente de concessão de progressão vertical por graduação sendo insuficiente para suspender o prazo prescricional como decidido no acórdão recorrido.
+Somente requerimento administrativo solicitando o pagamento de verbas retroativas decorrentes de progressão vertical ou horizontal é que suspenderia o prazo prescricional nos termos do art. 4 do decreto federal.
+Nesse contexto, o último pleito de progressão requerido pela recorrida habita a fl. 37. do EP 1.6, em 10 de julho de 2013, que defluiu na concessão através da Portaria nº 1017/2015/SEED/GAB/RR, publicada em 26 de outubro de 2015. Nos autos Administrativos (EP 1.6) não consta nenhum outro pedido de progressões horizontais ou vertical posterior à publicação de 26 de outubro de 2015, que pudessem interromper o prazo prescricional a ponto de atingir verbas de 2011.
+Após essa data, a parte recorrida não formulou qualquer requerimento administrativo alusivo à concessão de progressão vertical por titulação ou ao pagamento de valores retroativos decorrentes da portaria que concedeu a progressão vertical.
+No caso dos autos, os pleitos administrativos da recorrida foram deferidos através da Edição das Portarias citadas pela própria, no entanto com a publicação do "reconhecimento das progressões" novamente começou a fluir o prazo prescricional para o seu pagamento.
+Nesta Corte, o Ministro Presidente da Comissão Gestora de Precedentes concluiu pela necessidade de submissão do recurso à sistemática dos repetitivos, qualificando-o como representativo da controvérsia repetitiva, juntamente com o REsp 2.204.215/SP.
+A controvérsia recebeu a seguinte redação: "Definir se os valores retroativos a título de progressão funcional se submetem ou não ao limite da prescrição quinquenal (Súmula n. 85 do STJ e Decreto Federal nº 20.910/1932), quando não é negado o direito à progressão administrativamente".
+O Ministério Público Federal opinou no sentido da admissão do recurso especial ao rito dos recursos repetitivos.
+Contrarrazões apresentadas.
+A UNIÃO requer seu ingresso na lide como amicus curiae.
+É o relatório.
+Passo a decidir.
+O recurso não pode ser conhecido.
+A Corte de origem consignou (fls. 26-27):
+O recurso merece provimento.
+De fato, a 1ª apelante comprovou a existência de procedimento administrativo ainda não finalizado, pertinente ao pagamento das progressões que são objeto da presente demanda, o qual é suficiente para obstar o decurso do prazo prescricional, conforme dispõe o art. 4º do Decreto n.º 20.910/1932, vazado nos seguintes termos:
+Art. 4º Não corre a prescrição durante a demora que, no estudo, ao reconhecimento ou no pagamento da dívida, considerada líquida, tiverem as repartições ou funcionários encarregados de estudar e apurá-la. Parágrafo único. A suspensão da prescrição, neste caso, verificar-se-á pela entrada do requerimento do titular do direito ou do credor nos livros ou protocolos das repartições públicas, com designação do dia, mês e ano.
+Por outro lado, a pretensão da parte recorrente de que a) "o último pleito de progressão requerido pela recorrida habita a fl. 37. do EP 1.6, em 10 de julho de 2013, que defluiu na concessão através da Portaria nº 1017/2015/SEED/GAB/RR, publicada em 26 de outubro de 2015  .. "; b) "nos autos Administrativos (EP 1.6) não consta nenhum outro pedido de progressões horizontais ou vertical posterior à publicação de 26 de outubro de 2015, que pudessem interromper o prazo prescricional a ponto de atingir verbas de 2011; e c) "após essa data, a parte recorrida não formulou qualquer requerimento administrativo alusivo à concessão de progressão vertical por titulação ou ao pagamento de valores retroativos decorrentes da portaria que concedeu a progressão vertical" (fl. 46) encontra óbice na Súmula 7/STJ.
+Isso porque, para alterar as conclusões do órgão julgador - de eventual data ou até mesmo existência de requerimento administrativo das verbas, - seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial; e declaro prejudicados a) a indicação do presente recurso como representativo de controvérsia; e b) o pedido da UNIÃO de ingresso na lide, na qualidade de amicus curiae.
+Determino que seja comunicada a prejudicialidade da afetação, ante a impossibilidade de conhecimento do recurso, ao Vice-Presidente do Tribunal de Justiça do Estado de Roraima, nos termos do art. 1.037, § 1º, do CPC.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
