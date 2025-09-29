@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO EXTRAORDINÁRIO SOBRESTADO NA ORIGEM. CISÃO DE JULGAMENTO. INVIABILIDADE. PREJUCADA A APRECIAÇÃO DO RECURSO ESPECIAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM.
+1. Prematura a realização do juízo de admissibilidade em relação  ao  recurso  especial ,  considerando  que  o  recurso  extraordinário  interposto  nos  autos  encontra-se  sobrestado  para  realização  de  juízo  de  adequação  com  o  que  ficar  assentado  pela  Corte  Suprema  no  Tema  n. 1.255/STF .
+2. Independentemente de a matéria tratada no recurso extraordinário ser diversa daquela trazida no especial apelo, o exaurimento da instância de origem somente ocorrerá com o juízo de conformidade com a repercussão geral, uma vez que inadmissível, no ordenamento jurídico pátrio, a cisão de julgamento.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Ambev S.A. contra decisão de fls. 1.783/1.785, que julgou prejudicada a apreciação do recurso especial, em razão do sobrestamento do recurso extraordinário, e determinou a devolução dos autos ao Tribunal de origem.
+Opostos embargos de declaração, foram rejeitados (fls. 1.803/1.804).
+Inconformada, sustenta a parte agravante, em resumo, a inviabilidade de se considerar prejudicado o agravo em razão do sobrestamento na origem de recurso extraordinário sobre tema diverso.
+Requer a reconsideração do decisório agravado para que seja determinado o prosseguimento do feito com a regular tramitação e julgamento de mérito.
+Sem impugnação (fl. 1.820).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO EXTRAORDINÁRIO SOBRESTADO NA ORIGEM. CISÃO DE JULGAMENTO. INVIABILIDADE. PREJUCADA A APRECIAÇÃO DO RECURSO ESPECIAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM.
+1. Prematura a realização do juízo de admissibilidade em relação  ao  recurso  especial ,  considerando  que  o  recurso  extraordinário  interposto  nos  autos  encontra-se  sobrestado  para  realização  de  juízo  de  adequação  com  o  que  ficar  assentado  pela  Corte  Suprema  no  Tema  n. 1.255/STF .
+2. Independentemente de a matéria tratada no recurso extraordinário ser diversa daquela trazida no especial apelo, o exaurimento da instância de origem somente ocorrerá com o juízo de conformidade com a repercussão geral, uma vez que inadmissível, no ordenamento jurídico pátrio, a cisão de julgamento.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte recorrente não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pelo decisum recorrido, que ora submeto ao colegiado para serem confirmados:
+Trata-se  de  agravo  manejado  por AMBEV S.A.,  contra  decisão  que  não  admitiu  recurso  especial,  este  interposto  com  fundamento  no  art.  105,  III,  a,  da  CF,  desafiando  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado de São Paulo,  assim  ementado  (fl.  1.054):
+APELAÇÕES CÍVEIS E REEXAME NECESSÁRIO. EMBARGOS À EXECUÇÃO. AIIM. CREDITAMENTO DE ICMS. BENS INTERMEDIÁRIOS DE PRODUÇÃO. RELAÇÃO CONTRATUAL COM EMPRESA OPTANTE DO SIMPLES NACIONAL. MULTA. JUROS. SELIC.
+Recursos tirados contra sentença que, em sede de embargos à execução, julgou parcialmente procedente a ação por entender devido o creditamento de ICMS de bens necessários ao processo de industrialização da embargante e por reconhecer descabida a aplicação da Lei nº 13.918/2009 no cálculo a taxa de juros aplicável. Pretensão ao creditamento do ICMS incidente sobre insumos essenciais ao desenvolvimento da atividade fim das embargantes.
+Possibilidade. Questão jurídica de aproveitamento de créditos de ICMS decorrentes do princípio constitucional da não cumulatividade. Inteligência do art. 20, da LC 87/96.
+Creditamento devido. Créditos oriundos de operações praticadas com empresa optante do Simples nacional.
+Creditamento que, por sua vez, é indevido. Lei Complementar nº 123/06 que, ao tempo das operações, vedava expressamente a transferência de créditos por empresas do Simples nacional. Alegação de boa-fé e desconhecimento da adesão ao regime do Simples Nacional.
+Art. 136 do CTN que estipula que a responsabilidade por infrações da legislação tributária independe da intenção do agente. Incidência de juros moratórios previstos na Lei Estadual nº 6.374/89, com a redação dada pela Lei Estadual nº 13.918/09. Inviabilidade. Inconstitucionalidade declarada pelo Colendo Órgão Especial deste Tribunal. Constitucional a aplicação da taxa SELIC às dívidas tributárias do Estado de São Paulo enquanto limitador. Limitação da multa ao valor do próprio tributo a ser exigido. Precedentes do E.
+STF e deste C. Tribunal. RECURSOS VOLUNTÁRIOS DESPROVIDOS E REMESSA NECESSÁRIA PARCIALMENTE PROVIDA.
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta violação aos arts. 82, § 2º, 803 e1.022, II, do CPC; 202 e 203 do CTN; 20, § 5º da Lei 6.830/80 e 23 e 26 da LC 123/06.
+Contrarrazões apresentadas às fls. 1.650/1.652.
+Recurso  Extraordinário  interposto  às  fls.  2.627/2.639, sobrestado (fls. 2.682/2.683).
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+Conforme  mencionado  no  relatório  alhures,  o  recurso  extraordinário  interposto  nos  autos  restou  sobrestado  em  razão  da  repercussão  geral  reconhecida  no  Tema  1.255/STF.
+Na  sistemática  introduzida  pelos  artigos  543-B  e  543-C  do  CPC/73,  incumbe  ao  Tribunal  de  origem,  com  exclusividade  e  em  caráter  definitivo,  proferir  juízo  de  conformação/adequação  do  caso  concreto  ao  precedente  formado  em  repercussão  geral  ou  repetitivo,  sob  pena  de  tornar-se  ineficaz  o  propósito  racionalizador  implantado  pela  Lei  11.672/2008.
+Esse  mesmo  procedimento  restou  ratificado  pelo  novel  diploma  processual  civil  (cf  art.  1.030,  I,  a,  e  II,  do  CPC/2015).
+O  Plenário  do  Supremo  Tribunal  Federal,  ao  julgar  a  AC  2.177  MC-QO/PE,  Rel.  Ministra  Ellen  Gracie,  asseverou  que  "o  parágrafo  3º  do  art.  543-B,  do  CPC,  estabelece  que,  após  julgamento  de  "mérito  do  recurso  extraordinário,  os  recursos  sobrestados  serão  apreciados  pelos  Tribunais,  Turmas  de  Uniformização  ou  Turma  Recursais,  que  poderão  declará-los  prejudicados  ou  retratar-se"  ..  É  inconteste,  dessa  forma,  que  mesmo  após  o  reconhecimento  da  repercussão  geral,  a  jurisdição  do  Tribunal  a  quo  ainda  não  se  encontrará  esgotada"  e  "A  jurisdição  do  Supremo  Tribunal  Federal  somente  se  inicia  com  a  manutenção,  pela  instância  ordinária,  de  decisão  contrária  ao  entendimento  firmado  nesta  Corte,  em  face  do  disposto  no  §  4  o  do  art.  543-B  do  CPC".  ( AC  2177  MC-QO,  Relator(a):  Min.  ELLEN  GRACIE,  Tribunal  Pleno,  julgado  em  12/11/2008,  DJe-035  DIVULG  19-02-2009  PUBLIC  20-02-2009  EMENT  VOL-02349-  05  PP-00945  RTJ  VOL-00209-03  PP-01021).
+A  partir  desse  julgamento,  pode-se  compreender  que  só  haverá  exaurimento  das  instâncias  ordinárias,  para  fins  de  cabimento  dos  apelos  extraordinários,  após  o  Tribunal  de  origem  realizar  o  juízo  de  conformidade  -  o  qual  consiste  no  rejulgamento  da  apelação  -  à  luz  do  posicionamento  firmado  pelos  Tribunais  Superiores  (STF/STJ).
+Outrossim,  só  caberá  a  subida  do  recurso  especial  ao  STJ,  após  a  realização  do  juízo  de  conformidade  com  repercussão  geral,  se  houver  resíduo  não  alcançado  pela  afetação,  pois  se  a  matéria  discutida  no  apelo  coincidir  integralmente  com  aquela  tratada  na  repercussão  geral,  o  Recurso  Especial  (REsp)  deverá  ser  declarado  prejudicado.
+Nesse  panorama,  considerando  que  o  recurso  extraordinário  interposto  nos  autos  encontra-se  sobrestado  para  realização  de  juízo  de  adequação  com  o  que  restar  assentado  pela  Corte  Suprema  no  Tema  1.255/STF ,  tem-se  por  prematura  a  realização  do  juízo  de  admissibilidade  em  relação  ao  recurso  especial  da  parte  agravante,  bem  como  a  remessa  dos  autos  a  este  Tribunal  Superior.
+ANTE  O  EXPOSTO,  nos  termos  da  fundamentação,  julgo  por  ora  prejudicada a apreciação d o  recurso  e  determino  a  devolução  dos  autos  ao  Tribunal  de  origem,  com  a  respectiva  baixa.
+Publique-se.
+Conforme já consignado nos autos, independente de a matéria tratada no recurso extraordinário ser diversa daquela trazida no especial apelo, o exaurimento da instância de origem somente ocorrerá com o juízo de conformidade com a repercussão geral, uma vez que inadmissível, no ordenamento jurídico pátrio, a cisão de julgamento.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
