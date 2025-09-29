@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. TERMO INICIAL DA PRESCRIÇÃO. DATA DO ÚLTIMO DESCONTO. PRECEDENTES. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, em ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por dano moral, decorrente de empréstimo consignado não contratado. Prescrição reconhecida na origem, pelo decurso do prazo de cinco anos, a fluir a partir da data do último desconto indevido no benefício previdenciário.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a pretensão de reparação de danos decorrente de falha na prestação de serviço bancário está sujeita ao prazo prescricional quinquenal previsto no art. 27 do Código de Defesa do Consumidor.
+III. Razões de decidir
+3. A corte de origem adotou entendimento alinhado à jurisprudência do Superior Tribunal de Justiça, que aplica o prazo prescricional quinquenal para pretensões indenizatórias decorrentes de defeito do serviço bancário.
+4. A parte agravante não apresentou precedentes contemporâneos que contemplem a tese defendida sem necessidade de reanálise fático-probatória, o que atrai a incidência da Súmula 83 do STJ.
+5. A alteração do entendimento sobre a ocorrência da prescrição demandaria reexame do acervo fático-probatório, vedado nesta instância nos termos da Súmula 7 do STJ.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial (e-STJ fls. 151-169) interposto contra decisão que inadmitiu o recurso especial (e-STJ 146-148).
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento. Afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso. Afirma que a decisão que reconheceu a aplicação do lustro prescricional à pretensão viola os artigos 27 do CDC e artigo 205 do Código Civil e confronta a jurisprudência desta Corte, que reconhece o prazo decenal de prescrição.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ fls. 172-179).
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. TERMO INICIAL DA PRESCRIÇÃO. DATA DO ÚLTIMO DESCONTO. PRECEDENTES. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, em ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por dano moral, decorrente de empréstimo consignado não contratado. Prescrição reconhecida na origem, pelo decurso do prazo de cinco anos, a fluir a partir da data do último desconto indevido no benefício previdenciário.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a pretensão de reparação de danos decorrente de falha na prestação de serviço bancário está sujeita ao prazo prescricional quinquenal previsto no art. 27 do Código de Defesa do Consumidor.
+III. Razões de decidir
+3. A corte de origem adotou entendimento alinhado à jurisprudência do Superior Tribunal de Justiça, que aplica o prazo prescricional quinquenal para pretensões indenizatórias decorrentes de defeito do serviço bancário.
+4. A parte agravante não apresentou precedentes contemporâneos que contemplem a tese defendida sem necessidade de reanálise fático-probatória, o que atrai a incidência da Súmula 83 do STJ.
+5. A alteração do entendimento sobre a ocorrência da prescrição demandaria reexame do acervo fático-probatório, vedado nesta instância nos termos da Súmula 7 do STJ.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Agravo não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 109-113):
+DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C. C. REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. Empréstimo consignado. Negativa de contratação do empréstimo com a instituição financeira. Falha da prestação do serviço. Prazo prescricional quinquenal. Artigo 27 do Código de Defesa do Consumidor. Prescrição verificada. Sentença mantida. RECURSO DESPROVIDO.
+A r. sentença de fls. 54/58, de relatório adotado, julgou liminarmente improcedente os pedidos da ação declaratória de inexigibilidade de débito c. c. repetição de indébito e indenização por dano moral movida por CLEUZA MARIA PASSOS ESCORISA em face de BANCO DAYCOVAL S/A com fundamento no artigo 332, § 1º c. c. artigo 487, II, ambos do Código de Processo Civil e condenou a autora ao pagamento das despesas processuais, observada a assistência judiciária concedida. Sem honorários, diante da ausência de citação da parte adversa.
+Apela a autora (fls. 61/69), que sustenta a inocorrência de prescrição, vez que a demanda foi distribuída dentro do prazo prescricional decenal, contado da data do inadimplemento do ajuste. Requer a anulação da sentença.
+Recurso regularmente processado, com apresentação das contrarrazões às fls. 79/82.
+É o relatório.
+O recurso não comporta provimento.
+Trata-se de ação declaratória de inexistência de relação jurídica, cumulada com pedido de restituição de valores, em dobro, além de indenização por dano moral.
+Na inicial, a autora nega a celebração do empréstimo 55-282309514 com o réu e afirma que "jamais realizou a contratação do empréstimo ora impugnado ou se dirigiu a agência bancária para assim o fazer" (fls. 02).
+No caso, incontroversa a relação de consumo, de modo que a pretensão de indenização por dano material e moral, decorrente de ausência de contratação a instituição financeira, representa falha na prestação do serviço bancário e, portanto, submete-se ao prazo prescricional quinquenal, previsto no artigo 27 do Código de Defesa do Consumidor.
+Nesse sentido, o entendimento do C. Superior Tribunal de Justiça:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVO EXAME DO AGRAVO NOS PRÓPRIOS AUTOS. INEXISTÊNCIA DE DÉBITO. REPETIÇÃO DE INDÉBITO. DANOS MORAIS. PRESCRIÇÃO QUINQUENAL. ART. 27 DO CDC. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDEPELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022, I E II, DO CPC/2015. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO NOS PRÓPRIOS AUTOS DESPROVIDO. 1. Inexiste afronta ao art. 1.022, I e II, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. 2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ). 3. Tratando-se de pretensão decorrente de descontos indevidos, por falta de contratação, em decorrência de defeito do serviço, aplica-se o prazo prescricional quinquenal previsto no art. 27 do Código de Defesa do Consumidor ( CDC). Precedentes. 4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos" (AgInt no AR Esp: 1673611 RS 2020/0051389-5, Relator: Ministro ANTONIO CARLOS FERREIRA, Data de Julgamento: 14/09/2020, T4 - QUARTA TURMA, Data de Publicação: D Je 22/09/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRAZO PRESCRICIONAL QUINQUENAL. ART. 27 DO CDC. PRECEDENTES. TERMO INICIAL DA PRESCRIÇÃO. DATA DO ÚLTIMO DESCONTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO. 1. A jurisprudência sedimentada nesta Corte Superior é no sentido de que, fundando-se o pedido na ausência de contratação de empréstimo com instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo quinquenal previsto no art. 27 do Código de Defesa do Consumidor. 2. Em relação ao termo inicial, insta esclarecer que a jurisprudência desta Casa é firme no sentido de que o prazo prescricional para o exercício da referida pretensão flui a partir da data do último desconto no benefício previdenciário. 3. Agravo interno improvido" (AgInt no AR Esp: 1728230 MS 2020/0174210-4, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 08/03/2021, T3 - TERCEIRA TURMA, Data de Publicação: D Je 15/03/2021).
+Considerada que a exclusão do contrato, com o cancelamento dos descontos, ocorreu em 05/2015 (fls. 34) e o ajuizamento da demanda em 23/10/2023, à evidência, restou ultrapassado o prazo prescricional quinquenal.
+Desse modo, consumada a prescrição da pretensão de reparação de danos, o processo deve ser extinto, nos termos do artigo 487, inciso II, do Código de Processo Civil.
+Nesse contexto, deve a r. sentença ser confirmada por seus próprios fundamentos.
+Considerando precedentes dos Tribunais Superiores, que vêm registrando a necessidade do prequestionamento explícito dos dispositivos legais ou constitucionais supostamente violados e, a fim de evitar eventuais embargos de declaração, apenas para tal finalidade, por falta de sua expressa remissão na decisão vergastada, mesmo quando os tenha examinado implicitamente, dou por prequestionados os dispositivos legais e/ou constitucionais apontados pela parte.
+Por isso, NEGO PROVIMENTO ao recurso."
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso. Afirma que a decisão que reconheceu a aplicação do lustro prescricional à pretensão viola os artigos 27 do CDC e artigo 205 do Código Civil e confronta a jurisprudência desta Corte, que reconhece o prazo decenal de prescrição.
+A análise dos autos indica que a corte de origem adotou entendimento alinhado ao perfilhado pela jurisprudência desta corte, o que atrai a incidência do comando da Súmula nº 83 deste Superior Tribunal de Justiça ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+A corte de origem, ao dirimir a controvérsia, concluiu que o prazo prescricional aplicável à pretensão da parte agravante seria o quinquenal, que começou a fluir a partir do último desconto realizado em seu benefício previdenciário.
+Com efeito, em demandas com a mesma causa de pedir, este colegiado vem se manifestando da seguinte forma:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO CUMULADA COM INEXIGIBILIDADE DE DÉBITO. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. PRESCRIÇÃO RECONHECIDA. APLICAÇÃO DO ART. 27 DO CDC. TERMO INICIAL. DATA DO ÚLTIMO DESCONTO EFETUADO NA CONTA. PRECEDENTES. SÚMULA N. 83 DO STJ. AGRAVO PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. As instâncias ordinárias entenderam que a pretensão da recorrente estava prescrita, pois o prazo quinquenal disposto no art. 27 do CDC começou a fluir da data do último desconto efetuado na conta, que ocorreu em 20/12/2002, ou seja, mais de 18 anos antes do ajuizamento da presente ação.
+2. "O termo inicial do prazo prescricional da pretensão de repetição do indébito relativo a desconto de benefício previdenciário é a data do último desconto indevido" (AgInt no AREsp n. 1.720.909/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/10/2020, DJe 24/11/2020). Incidência da Súmula n. 83 do STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.704.048/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/6/2025, DJEN de 24/6/2025.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CIVIL. CONSUMIDOR. NEGÓCIOS JURÍDICOS BANCÁRIOS. INVESTIMENTO FICTÍCIO. ESTELIONATO PRATICADO POR GERENTE DE INSTITUIÇÃO FINANCEIRA. APLICAÇÃO DO CDC. DEFEITO DO SERVIÇO. PRETENSÃO INDENIZATÓRIA. PRESCRIÇÃO QUINQUENAL.
+1. Controvérsia acerca da prescrição da pretensão indenizatória originada de fraude praticada por gerente de instituição financeira contra seus clientes.
+2. "As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno" (REsp 1.197.929/PR, rito do art. 543-C do CPC).
+3. Ocorrência de defeito do serviço, fazendo incidir a prescrição quinquenal do art. 27 do Código de Defesa do Consumidor, quanto à pretensão dirigida contra a instituição financeira. 4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1391627/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/02/2016, DJe 12/02/2016)
+DIREITO DO CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR FATO DO SERVIÇO. PRESCRIÇÃO. CINCO ANOS. ART. 27 DO CDC. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, o prazo de prescrição para o consumidor pleitear reparação por falha na prestação do serviço é de cinco anos, consoante previsto no art. 27 do CDC.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 995.890/RN, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/11/2013, DJe 21/11/2013)
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 83/STJ exige que o recorrente colacione precedentes deste Superior Tribunal de Justiça, contemporâneos ou supervenientes a seu favor, ou demonstre alguma distinção entre os julgados mencionados na decisão agravada e o caso em exame, o que não fez. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, I, do CPC).
+2. Não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 238.064/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/8/2014, DJe de 18/8/2014. Grifo Acrescido)
+A análise das razões recursais indica que, embora afirme o adequado superamento dos óbices apontados, a parte agravante não traz precedente contemporâneo que contemple a tese defendida sem a necessidade de reanálise fático-probatória.
+Ademais, para alterar o entendimento delineado no acórdão hostilizado acerca da ocorrência da prescrição seria imprescindível o reexame do acervo fático-probatório, o que é vedado nesta instância nos termos da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. PRESCRIÇÃO. TERMO INICIAL. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. No presente caso, a Corte local, com base nos elementos probatórios da demanda, consignou que o prazo da prescrição corre a partir do desconto da parcela prevista no contrato, porque o dano e sua autoria se tornaram conhecidos com cada débito no benefício previdenciário da autora. A alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o reexame de matéria fática, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+2. Da mesma forma, inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional, pois a análise do dissenso pretoriano depende do revolvimento de matéria fático-probatória.
+3. Agravo interno não provido.
+(AgInt no AREsp 1046167/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/08/2017, DJe 04/09/2017 - gn)
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
