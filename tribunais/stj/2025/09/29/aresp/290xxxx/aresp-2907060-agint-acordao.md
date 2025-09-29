@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE BEM DE FAMÍLIA. DECISÃO PRETÉRITA SOBRE O TEMA. TRÂNSITO EM JULGADO. PRECLUSÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ (SÚMULA 83/STJ). AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que opera-se a preclusão consumativa quanto à discussão acerca da impenhorabilidade do bem de família, quando houver decisão definitiva anterior acerca do tema, mesmo em se tratando de matéria de ordem pública. Precedentes.
+2. Na hipótese, o Tribunal de Justiça reconheceu a preclusão sobre a matéria, consignando a existência de decisão definitiva anterior, na mesma ação, concluindo sobre a penhorabilidade do imóvel. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por APARECIDO DE PAULA VICENTE contra decisão proferida por esta Relatoria (fls. 785-787, e-STJ), que conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula 7 do STJ.
+Em suas razões recursais, a parte agravante sustenta, em síntese, que "a culta decisão monocrática assentou que a pretensão exige o reexame probatório. Respeitado ao máximo o ponderado posicionamento, não há exigência desta providência, mas apenas da revaloração jurídica dos fatos incontroversos e delineados pelo próprio acórdão hostilizado" (fl. 792, e-STJ).
+Aduz, ainda, que "o debate sobre este direito objetivo não desafia o reexame probatório, justamente porque o v. acórdão hostilizado expressamente delimitou a controvérsia fática e o dizer do melhor direito objetivo ao caso concreto não exige reexame das provas. Em resumo, questionar se uma alegação feita por terceira pessoa em que ocorreu a coisa julgada (primeira decisão) pode ser estendida ao executado não demanda o reexame de provas. Trata-se tão somente de verificar e aplicar o melhor direito objetivo ao caso concreto" (fl. 794, e-STJ).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Impugnação não apresentada, conforme certidão de fl. 801, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE BEM DE FAMÍLIA. DECISÃO PRETÉRITA SOBRE O TEMA. TRÂNSITO EM JULGADO. PRECLUSÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ (SÚMULA 83/STJ). AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que opera-se a preclusão consumativa quanto à discussão acerca da impenhorabilidade do bem de família, quando houver decisão definitiva anterior acerca do tema, mesmo em se tratando de matéria de ordem pública. Precedentes.
+2. Na hipótese, o Tribunal de Justiça reconheceu a preclusão sobre a matéria, consignando a existência de decisão definitiva anterior, na mesma ação, concluindo sobre a penhorabilidade do imóvel. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Historiam os autos que Aparecido de Paula Vicente, ora agravante, nos autos de cumprimento de sentença, alegou que o imóvel penhorado é bem de família e, portanto, impenhorável. Sustentou que a decisão anterior, que indeferiu a impenhorabilidade, não considerou provas suficientes sobre a natureza jurídica do bem., além de ter sido proferida exclusivamente em face de sua esposa Apresentou novos documentos, como comprovantes de endereço e declarações de confrontantes, para reforçar que o imóvel é sua residência há décadas. A pretensão do agravo de instrumento era reformar a decisão que manteve a penhora, reconhecendo a impenhorabilidade do imóvel.
+No acórdão, o Tribunal de Justiça de São Paulo decidiu não conhecer do recurso. A decisão foi fundamentada na preclusão da matéria, uma vez que a alegação de impenhorabilidade já havia sido apreciada e indeferida em decisão anterior, transitada em julgado. O Tribunal destacou que, apesar de a impenhorabilidade ser questão de ordem pública, ela não pode ser discutida após o trânsito em julgado da decisão que a apreciou. A título elucidativo, confira-se trecho do v. acórdão estadual (fls. 728-730, e-STJ):
+"A alegação de impenhorabilidade do bem de família formulada pela mulher do executado foi objeto da decisão de fl. 484/485 do cumprimento de sentença (405/406 do processo físico), que manteve a penhora, por não ter sido demonstrado que se tratava de bem de família, em relação ao executado.
+O agravante interpôs agravo de instrumento contra a referida decisão (fls. 504/514 do cumprimento de sentença), que não foi conhecido, porque o agravante deixou de juntar as peças necessárias para o conhecimento do agravo, apesar da oportunidade a ele concedida (fls. 515/519 do cumprimento de sentença).
+Depois, em 18.8.21, o agravante alegou a impenhorabilidade do imóvel à fls. 482/482 do processo físico (atual 563/564 do cumprimento de sentença), o que não foi apreciado, porque tal pedido já havia sido analisado e indeferido à fl. 405/406, por decisão transitada em julgado (fl. 573 do cumprimento de sentença), publicado em 21.1.22 (fl. 574 do cumprimento de sentença). Não houve interposição de recurso contra referida decisão.
+Além disso, o executado interpôs agravo de instrumento contra a decisão de fl. 504 do processo físico (atual 588 do cumprimento de sentença), alegando a impenhorabilidade do bem penhorado, por se tratar de bem de família, que não foi conhecido, porque a decisão agravada nada decidiu sobre a impenhorabilidade (fls. 601/606 do cumprimento de sentença).
+Então, como se vê a alegação de impenhorabilidade, alegada pelo executado e por sua mulher, já foi antes afastada, mais de uma vez, e o executado, quanto teve seu pedido afastado (fl. 573 do cumprimento de sentença) não recorreu de tal decisão.
+Nem se diga que o executado não teria legitimidade para recorrer da primeira decisão, já que a impugnação foi apresentada por sua ex-mulher, porque a decisão agravada apreciou a impenhorabilidade em relação a ele (fls. 484/485 do cumprimento de sentença).
+Depois, houve outra decisão que apreciou a alegação de impenhorabilidade formulado pelo agravante, repito, a de fls. 573, contra a qual não houve interposição de recurso.
+Questão de ordem pública, como a impenhorabilidade, pode ser arguida a qualquer momento, mas até o trânsito em julgado da decisão que a apreciaria.
+Então, o fato de a impenhorabilidade do imóvel ter natureza de ordem pública não releva, neste caso, porque, como já foi decidido, o tema foi objeto de decisão com trânsito em julgado e não se discute mais, conforme também orienta o Superior Tribunal de Justiça ( 1 ).
+Assim, ocorreu preclusão sobre a pretensão formulada no agravo, razão pela qual ele é inadmissível" (grifou-se)
+Sobre o tema, tem-se que a jurisprudência desta Corte se firmou no sentido de que "opera-se a preclusão consumativa quanto à discussão acerca da penhorabilidade ou impenhorabilidade do bem de família quando houver decisão definitiva anterior acerca do tema, mesmo em se tratando de matéria de ordem pública" (AgInt nos EDcl no AREsp 1.039.028/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/11/2017, DJe de 17/11/2017).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PENHORABILIDADE DE BEM IMÓVEL. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO CONSUMATIVA. COISA JULGADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DA COISA JULGADA. SÚMULA 283/STF.
+1. O Tribunal de origem, ao negar provimento ao agravo de instrumento e condenar os agravantes ao pagamento de multa por litigância de má-fé, concluiu no sentido da ocorrência de preclusão consumativa e coisa julgada.
+2. Segundo a orientação jurisprudencial do STJ, "opera-se a preclusão consumativa quanto à discussão acerca da penhorabilidade ou impenhorabilidade do bem de família quando houver decisão definitiva anterior acerca do tema, mesmo em se tratando de matéria de ordem pública" (AgInt nos EDcl no AREsp n. 1.039.028/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/11/2017, DJe de 17/11/2017).
+3. No caso em julgamento, conforme marcha processual delineada no acórdão recorrido, houve decisão já transitada em julgado afastando a impenhorabilidade no Processo 5060964-59.2022.8.24.0000/TJSC.
+Súmula n. 83/STF.
+4. A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de preclusão, coisa julgada e litigância de má-fé demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+5. Verifica-se das razões recursais que o fundamento da coisa julgada não foi impugnado, o que atrai a incidência da Súmula n. 283/STF.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.843.151/SC, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 16/6/2025, DJEN de 23/6/2025)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. BEM DE FAMÍLIA. IMPENHORABILIDADE. AUSÊNCIA. COISA JULGADA. PRECLUSÃO.
+1. Nos termos da jurisprudência desta Corte, opera-se a preclusão consumativa quanto à impenhorabilidade do bem de família quando houver decisão anterior acerca do tema, mesmo em se tratando de matéria de ordem pública. Precedentes.
+2. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp n. 2.541.147/PR, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/4/2025, DJEN de 11/4/2025.)
+Estando a decisão, portanto, de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Ademais, ainda que superado o referido óbice, tem-se que a pretensão de modificar o entendimento firmado, acerca da existência de decisão anterior sobre a matéria, inclusive em relação ao agravante, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
