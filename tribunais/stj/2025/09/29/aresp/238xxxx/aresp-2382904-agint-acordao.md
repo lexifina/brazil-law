@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. REVISÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. JUROS REMUNERATÓRIOS. ADEQUAÇÃO À TAXA MÉDIA DE MERCADO. REPETIÇÃO DO INDÉBITO EM DOBRO. AUSÊNCIA DE MÁ-FÉ. SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura negativa de prestação jurisdicional quando o acórdão recorrido examina, de forma fundamentada, as questões essenciais ao deslinde da controvérsia.
+2. A revisão das cláusulas contratuais e a verificação de eventual abusividade na cobrança demandam interpretação de contrato e reexame de provas, providências vedadas em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+3. O alegado cerceamento de defesa não se caracteriza quando o julgamento antecipado da lide é suficiente para o deslinde da demanda.
+4. Os juros remuneratórios foram fixados em conformidade com a taxa média de mercado divulgada pelo Banco Central, não havendo ilegalidade a ser reconhecida.
+5. A repetição do indébito em dobro exige demonstração de cobrança indevida com má-fé do credor, hipótese não configurada na espécie. Incidência da Súmula n. 7 do STJ.
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CLESIA GLORIA MORAES ALMEIDA e ORENSTEN SOARES DE ALMEIDA JUNIOR (CLESIA e ORENSTEN) contra decisão monocrática da presidência desta Corte que negou provimento ao agravo em recurso especial interposto nos autos de ação revisional de contrato bancário ajuizada por AMELIA MARIA DE ALMEIDA ALVES (AMELIA), assim ementada:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO. PRELIMINAR RECURSAL DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA AFASTADA. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. ADEQUAÇÃO À TAXA MÉDIA DE MERCADO. COMPENSAÇÃO DE VALORES. REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES. POSSIBILIDADE. DESCARACTERIZAÇÃO DA MORA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. (e-STJ, fls. 670-675)
+Os embargos de declaração opostos por CLESIA e ORENSTEN foram rejeitados (e-STJ, fls. 670-673).
+Nas razões do recurso, CLESIA e ORENSTEN sustentaram (1) nulidade da decisão monocrática por suposta ausência de fundamentação, em violação do art. 93, IX, da Constituição Federal e do art. 489, § 1º, do CPC; (2) inaplicabilidade das Súmulas n. 5 e 7 do STJ, pois a matéria discutida seria exclusivamente de direito, dispensando reexame de provas ou interpretação de cláusulas contratuais; (3) cerceamento de defesa pelo indeferimento de produção de prova pericial, em afronta ao art. 370 do CPC; (4) necessidade de revisão dos juros remuneratórios e reconhecimento da abusividade, com reavaliação contratual ampla; (5) possibilidade de repetição do indébito em dobro, com base no art. 42, parágrafo único, do CDC.
+Não houve apresentação de contraminuta por AMELIA.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. REVISÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. JUROS REMUNERATÓRIOS. ADEQUAÇÃO À TAXA MÉDIA DE MERCADO. REPETIÇÃO DO INDÉBITO EM DOBRO. AUSÊNCIA DE MÁ-FÉ. SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura negativa de prestação jurisdicional quando o acórdão recorrido examina, de forma fundamentada, as questões essenciais ao deslinde da controvérsia.
+2. A revisão das cláusulas contratuais e a verificação de eventual abusividade na cobrança demandam interpretação de contrato e reexame de provas, providências vedadas em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+3. O alegado cerceamento de defesa não se caracteriza quando o julgamento antecipado da lide é suficiente para o deslinde da demanda.
+4. Os juros remuneratórios foram fixados em conformidade com a taxa média de mercado divulgada pelo Banco Central, não havendo ilegalidade a ser reconhecida.
+5. A repetição do indébito em dobro exige demonstração de cobrança indevida com má-fé do credor, hipótese não configurada na espécie. Incidência da Súmula n. 7 do STJ.
+6. Agravo interno não provido.
+VOTO
+CLESIA e ORENSTEN interpuseram agravo interno contra decisão monocrática que negou provimento ao agravo em recurso especial por eles manejado, mantendo o acórdão do Tribunal de Justiça que julgou parcialmente procedente ação revisional proposta por AMELIA.
+Passo a analisar as alegações recursais.
+(1) Negativa de prestação jurisdicional por ausência de fundamentação
+A decisão monocrática encontra-se devidamente fundamentada, com exposição clara dos motivos que levaram ao não provimento do agravo em recurso especial.
+O art. 93, IX, da Constituição Federal e o art. 489, § 1º, do CPC foram integralmente observados, não havendo exigência de que o julgador enfrente todos os argumentos apresentados, desde que apresente fundamentos suficientes para embasar a conclusão adotada. O acórdão recorrido e a decisão impugnada apresentam motivação adequada e capaz de sustentar o resultado do julgamento, razão pela qual não há falar em negativa de prestação jurisdicional.
+(2) Inaplicabilidade das Súmulas n. 5 e 7 do STJ
+A tese não merece acolhida. O Tribunal de origem, ao manter a sentença, examinou cláusulas contratuais e o conjunto fático-probatório dos autos, reconhecendo abusividade apenas em determinados encargos e determinando adequação de juros à taxa média de mercado. A revisão pretendida pelos agravantes exige, necessariamente, interpretação de cláusulas contratuais e reexame de provas, incidindo as Súmulas n. 5 e 7 do STJ, que impedem o conhecimento do recurso especial nessa hipótese.
+(3) Cerceamento de defesa pelo indeferimento de prova pericial
+Não procede a alegação. O magistrado é o destinatário da prova e pode indeferir aquelas consideradas desnecessárias ou protelatórias, nos termos do art. 370 do CPC. O Tribunal estadual consignou expressamente que os elementos já constantes nos autos eram suficientes para o julgamento da demanda, inexistindo cerceamento de defesa. A jurisprudência do STJ é no sentido de que o indeferimento de prova pericial, quando fundamentado, não configura cerceamento:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INDEFERIMENTO DE COMPLEMENTAÇÃO DE PROVA PERICIAL . DISCRICIONARIEDADE DO JUIZ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. 1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de provas . 2. O juiz pode indeferir diligências inúteis ou meramente protelatórias, nos termos do parágrafo único, do art. 370, do CPC.Precedentes . 3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.546.441/MS 2024/0008911-7, Relatora Ministra MARIA ISABEL GALLOTTI, Julgamento em 17/6/2024, QUARTA TURMA, DJe 19/6/2024)
+(4) Revisão dos juros remuneratórios
+A decisão recorrida está alinhada à orientação desta Corte, que admite a revisão dos juros remuneratórios apenas quando demonstrada a discrepância relevante em relação à taxa média de mercado divulgada pelo Banco Central. O Tribunal estadual examinou essa questão e promoveu a adequação, afastando abusividade generalizada. A pretensão recursal exige nova incursão em fatos e provas, o que é vedado nesta instância especial (Súmula n. 7 do STJ).
+(5) Repetição do indébito em dobro
+O pleito de repetição em dobro também não prospera. O art. 42, parágrafo único, do Código de Defesa do Consumidor exige a demonstração de cobrança indevida com má-fé, o que não foi reconhecido pelo Tribunal de origem. A repetição foi corretamente fixada na forma simples, conforme a orientação desta Corte Superior:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA. 1. A alegação de afronta ao art . 1.022 do CPC/15 de forma genérica, sem a efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284/STF. 2 . Segundo a orientação firmada pela Corte Especial deste Superior Tribunal de Justiça, "a repetição em dobro, prevista no parágrafo único do art. 42 do CDC, é cabível quando a cobrança indevida consubstanciar conduta contrária à boa-fé objetiva, ou seja, deve ocorrer independentemente da natureza do elemento volitivo" (EREsp n. 1.413 .542/RS, relatora Ministra Maria Thereza de Assis Moura, relator para acórdão Ministro Herman Benjamin, Corte Especial, julgado em 21/10/2020, DJe de 30/3/2021). Incidência da Súmula 83/STJ. 3. Agravo interno desprovido.
+(AgInt no REsp 1.988.191/TO 2022/0058883-3, Julgamento em 3/10/2022, QUARTA TURMA, DJe 6/10/2022)
+Assim, a pretensão de alterar essa conclusão esbarra, igualmente, no óbice da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno, mantendo a decisão monocrática que negou provimento ao agravo em recurso especial.
+É o voto.
