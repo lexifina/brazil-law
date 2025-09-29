@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICIPIO DE ITABIRINHA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu o recurso especial, em razão da intempestividade.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 177):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - CDA - PRESSUPOSTOS - LEI 6.830/80 - HONORÁRIOS ADVOCATÍCIOS. A finalidade do controle da Administração Pública pelo Poder Judiciário é corrigir os atos abusivos e ilegais, assegurando que a Administração observe a Lei. Nos processos administrativos sancionadores é permitido à administração pública alterar, modificar ou extinguir a penalidade, sem se cogitar violação do princípio da reformatio in pejus, apenas nos casos em que há abusividade ou ilegalidade. Incumbe ao contribuinte, devedor, o ônus de desconstituir a presunção juris tantum de certeza, liquidez e exigibilidade de que goza a CDA. Ausentes os requisitos formais previstos no art. 2º, §§ 5º, da Lei 6.830/80, deve ser decretada a nulidade da CDA. Os honorários advocatícios devem ser arbitrados em quantia condizente com os critérios dos incisos do artigo 85, § 2º e 3º, do CPC.
+Primeiros embargos de declaração acolhidos sem efeitos modificativos (fls. 208-212, e-STJ).
+Segundos embargos de declaração rejeitados (fls. 234-241, e-STJ).
+No recurso especial, o recorrente alega violação dos arts. 17, 18 e 485, IV e VI, do CPC, sob o argumento de que a Fundação Estadual do Meio Ambiente (FEAM) não possuía legitimidade ativa para a cobrança e arrecadação de multas ambientais, pois o Decreto Estadual nº 47.383/2018, que fundamentaria tal legitimidade, não estava vigente à época da autuação; do art. 489, § 1º, IV, do CPC, ao sustentar que a sentença e o acórdão não enfrentaram adequadamente os fundamentos apresentados, especialmente quanto à ilegitimidade ativa, nulidade da CDA e cerceamento de defesa; dos arts. 174 e 204 do CTN, ao afirmar que a Certidão de Dívida Ativa (CDA) não preenchia os requisitos legais, sendo nula, e que, caso reconhecida a nulidade, a prescrição deveria ser declarada, considerando o prazo de cinco anos a partir da constituição definitiva do crédito tributário; e do art. 2º da Lei nº 9.784/99, ao argumentar que houve cerceamento de defesa administrativa.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A decisão de admissibilidade, às fls. 282-284 (e-STJ), não admitiu o recurso especial, em razão de sua intempestividade, na medida em que não foi comprovada a ocorrência de suposto feriado local - 28 de outubro de 2024.
+Conforme entendimento do Superior Tribunal de Justiça, a promulgação da Lei n. 14.939/2024, que alterou o art. 1.003, § 6º, do Código de Processo Civil, introduziu a possibilidade de o Tribunal de origem ordenar a correção do vício de não comprovação de feriado local pelo recorrente, ou ignorar a omissão caso a informação esteja presente no processo eletrônico.
+No caso em exame, o Tribunal local, antes de inadmitir o recurso, intimou a parte, por meio do despacho de fl. 269 (e-STJ), a regularizar a comprovação do feriado local no prazo de cinco dias.
+Em resposta, o recorrente alegou que o recurso especial foi tempestivamente interposto em 19/11/2024, último dia do prazo recursal, considerando a intimação da decisão dos embargos de declaração em 04/10/2024 e a exclusão dos feriados de 28/10/2024 (Dia do Servidor Público) e 15/11/2024 (Proclamação da República), ambos suspensos pela mencionada Portaria Conjunta nº 1.547/PR/2024.
+Com efeito, nos termos da orientação desta Corte, "o dia do servidor público (28 de outubro), a segunda-feira de Carnaval, a quarta-feira de Cinzas, os dias que precedem a Sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem" (AgInt no AREsp n. 2.412.153/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Dentro desse contexto, o recorrente argumenta ter indicado expressamente a Portaria Conjunta nº 1.547/2024 para justificar a suspensão do prazo do dia 28/10/2024.
+Entretanto, para este Superior Tribunal de Justiça, há a necessidade de ser demonstrada a ocorrência de feriado local por meio de documento idôneo (ato normativo do Tribunal de origem ou documento oficial), não sendo suficiente para este fim a mera menção a um ato normativo na petição do recurso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INTEMPESTIVIDADE. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO, POR DOCUMENTO IDÔNEO.
+1. Ação de cobrança.
+2. Sob a égide do CPC/15, a ocorrência local de feriado, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por documento idôneo, não sendo suficiente a mera citação de ato normativo no bojo da petição do recurso.
+3. O STJ possui o entendimento de que o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido. Precedentes.
+4. O juízo de admissibilidade dos recursos extremos é bifásico, de modo que a decisão proferida pelo Tribunal de origem em juízo prévio não vincula esta Corte Superior, destinatário do recurso especial, ao qual compete o juízo definitivo de sua admissibilidade.
+Precedentes.
+5. Consoante entendimento do STJ, a previsão de prazo contida no sistema do processo judicial eletrônico não exime o recorrente de comprovar a tempestividade do recurso.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.169.399/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+Assim, considerando que a parte, mesmo intimada para tal finalidade, deixou de regularizar, em tempo e modo oportunos, a comprovação da tempestividade, impõe-se a manutenção do não conhecimento do recurso especial.
+Ante o exposto, conheço do agravo, para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. DOCUMENTO IDÔNEO. ART. N. 1.003, §6º, DO CPC. INTIMAÇÃO NA ORIGEM. AUSÊNCIA DE REGULARIZAÇÃO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
