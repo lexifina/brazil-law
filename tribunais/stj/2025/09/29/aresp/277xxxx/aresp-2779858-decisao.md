@@ -1,0 +1,31 @@
+DECISÃO
+ADAILTON BUENO BISCAIA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação n. 0003779-92.2024.8.16.0165.
+Em seu especial, a defesa apontou violação dos arts. 386, VI e VII, 619 e 620 do Código de Processo Penal.
+Considerou que, "ao ser instado a se manifestar sobre atecnias contidas no acórdão afeto à apelação criminal, limitou-se a mantê-lo, ignorando suas obscuridades, lacunas, omissões e ambiguidades" (fl. 2.686).
+Entendeu estar "devidamente comprovado nos autos inexistência de substrato probatório suficiente para submeter o ora recorrente a um veredicto condenatório, de forma que a decisão dos r. senhores jurados se mostra manifestamente contrária à prova dos autos" (fl. 2.688).
+Considerou que na "existência de dúvidas existentes nos autos, estas devem ser revertidas em favor do acusado e não contra" (fl. 2.688).
+Pleiteou a decretação de nulidade do acórdão recorrido.
+O especial foi inadmitido, tendo em vista a incidência das Súmula n. 284 do STF e 7 do STJ, a ausência de vícios na decisão vergastada.
+O Ministério Público Federal opinou pelo "desprovimento do agravo em recurso especial ou, subsidiariamente, pelo desprovimento do recurso especial." (fl. 2.772).
+Decido.
+O agravo é tempestivo, mas não merece conhecimento.
+A Corte estadual inadmitiu o especial, porquanto a defesa "se limitou a alegar de forma genérica a existência de violação aos artigos 619 e 620 do Código de Processo Penal, sem, contudo, apontar de maneira precisa quais os pontos que pretensamente teriam sido contrariados pelo Tribunal de origem, impedindo, dessa forma, a exata compreensão da tese e, por conseguinte, atraindo como óbice ao seguimento do recurso, a Súmula 284 do Supremo Tribunal Federal" (fl. 2.710). Considerou que as teses defensivas foram totalmente examinadas e entendeu que "análise se a decisão é contrária às provas dos autos, em contraposição ao decidido, implica em revolvimento do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça" (fl. 2.711).
+Em seu agravo, o insurgente repisa haver omissões e contradições no acórdão proferido em apelação. Assere que "a insurgência recursal visa garantir a aplicabilidade do princípio constitucional in dubio pro reo e presunção de inocência ante a fragilidade probatória, o que foi ignorado pela Colenda 01ª Câmara Criminal do E. Tribunal de Justiça do Estado do Paraná" (fl. 2.725). Assenta que, "o recurso em mesa visa o debate dos dispositivos elencados no acórdão recorrido, eis que na ótica de nossa defesa houve a clara violação de lei federal, não havendo no que se falar no óbice aludido (Súmula nº 7 do STJ)" (fl. 2.726).
+Entretanto, ao assim agir, a defesa não infirmou adequadamente a incidência da Súmula n. 284 do STF, pois deixou de especificar de qual maneira o acórdão recorrido haveria afrontado os arts. 619 e 620 do CPP; em outras palavras, deixou de indicar quais seriam as omissões e as contradições do julgado.
+Além disso, a jurisprudência do STJ considera que, para refutar a razão de inadmissibilidade, consistente na incidência da Súmula n. 7 do STJ, são insuficientes as assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. A parte deve expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos, o que não aconteceu no presente caso.
+Nessa perspectiva:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE ROUBO. DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA SÚMULA N. 182 DO STJ. IMPUGNAÇÃO APRESENTADA EM AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+4. A impugnação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, e não nas razões de agravo regimental, sob pena de preclusão consumativa.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.007.955/PA, Rel. Ministro João Otávio de Noronha, 5ª T. DJe 20/5/2022)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe-se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020)
+Assim, visto que a parte agravante deixou de rebater, de forma pormenorizada, os fundamentos de inadmissão do recurso especial, incide a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
