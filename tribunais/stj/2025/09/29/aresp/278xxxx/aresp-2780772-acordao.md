@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. RECURSO ESPECIAL. PREPARO. COMPROVAÇÃO INADEQUADA. INTIMAÇÃO PARA REGULARIZAÇÃO. PRECLUSÃO CONSUMATIVA. SÚMULA 187/STJ. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO.
+I.CASO EM EXAME.
+1. Agravo em Recurso Especial interposto pela Cooperativa de Crédito de Livre Admissão Centro Brasileira LTDA contra decisão proferida pelo Tribunal de Justiça de Santa Catarina que inadmitiu o recurso especial por deserção. Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento e que o preparo específico para o Colendo STJ e para o Tribunal de Justiça de Santa Catarina acompanham o recurso.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o Superior Tribunal de Justiça deve se imiscuir no exame probatório sobre o devido recolhimento do preparo recursal.
+III. RAZÕES DE DECIDIR
+3. É deserto o recurso especial quando a parte, regularmente intimada para regularizar o preparo nos termos do art. 1.007, § 2º, do CPC/2015, não comprova tempestivamente o recolhimento das custas, conforme jurisprudência pacífica do STJ (AgInt nos EREsp n. 1.848.579/CE, Rel. Min. Benedito Gonçalves, Corte Especial, DJe 3/10/2022).
+4. O Tribunal de origem afirmou que o recolhimento do preparo se deu de forma inadequada, porque foi procedido em guia diversa da exigida, isto é, em depósito judicial vinculado à subconta do processo, circunstância que torna deserto o recurso especial.
+5. A comprovação posterior do pagamento das custas não elide a deserção, em razão da preclusão consumativa, conforme precedentes (AgInt nos EDcl no AREsp n. 2.054.401/GO, Rel. Min. Humberto Martins, Terceira Turma, DJe 18/8/2023; AgInt no AREsp n. 2.069.943/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 30/9/2022).
+6. A ausência de prequestionamento, até mesmo de modo implícito, sobre os dispositivo federais violados impede a apreciação do especial, ante a vedação prevista na súmula 282 do STF.
+6. A consonância entre o acórdão recorrido e a jurisprudência desta Corte dita a inviabilidade do recurso especial, por força do óbice da Súmula 83 do STJ.
+IV DISPOSITIVO
+7. Recurso conhecido para não conhecer do Recurso Especial.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto pela Cooperativa de Crédito de Livre Admissão Centro Brasileira LTDA contra decisão proferida pelo Tribunal de Justiça de Santa Catarina, assim ementado (e-STJ, fl. 472):
+COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO CENTRO BRASILEIRA LTDA. interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra o acórdão proferido pela Câmara de Direito Comercial desta Corte. Cumprida a fase do art. 1.030, caput, do Código de Processo Civil, passo a decidir. A ascensão do recurso especial encontra impedimento na Súmula 187 do Superior Tribunal de Justiça, haja vista a deserção. Na espécie, constatada a insuficiência do preparo recursal (evento 43, DESPADEC1), a parte recorrente foi intimada (evento 45) para proceder à regularização, sob pena de deserção. Do dispositivo: Diante do exposto, INTIME-SE a parte recorrente, com fundamento no art. 1.007, § 2º, do Código de Processo Civil, para, em 5 (cinco) dias, efetuar o recolhimento das custas de admissibilidade (instrução e despacho), no valor de R$ 233,96, comprovando-o nos autos com a juntada da Guia de Recolhimento Judicial (GRJ) e do respectivo comprovante de pagamento dentro do referido prazo, sob pena de deserção. Cumpra-se. (Grifei). No entanto, a parte insurgente não regularizou o preparo da forma adequada, porque o recolhimento foi procedido em Guia diversa da exigida, isto é, em depósito judicial, vinculado à subconta do processo (evento 47, CUSTAS2e evento 48, COM_DEP_SIDEJUD1), diverso da GRJ revertida para os cofres deste Tribunal de Justiça, circunstância que torna deserto o recurso especial. É importante ressaltar que, de acordo com a jurisprudência consolidada do Superior Tribunal de Justiça, a correta formalização do recurso é responsabilidade das partes, sendo o preparo completo e pontual um requisito para a admissibilidade. Da jurisprudência: AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXERCUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA EXEQUENTE. 1. Incide a Súmula 187/STJ, devendo ser decretada a deserção do recurso, quando a parte, mesmo regularmente intimada pela instância ordinária para complementar o preparo, não sana o vício ou o faz intempestivamente. 1.1. No presente caso, mesmo após a intimação da recorrente para sanar o vício apontado, não houve a comprovação da regularidade no recolhimento do preparo, o que impõe a incidência da Súmula 187 do STJ. 2. É inviável a interposição de recurso especial para exame de lei local, nos termos da Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário". 3. Agravo interno desprovido. (STJ, AgInt no R Esp n. 2.001.045/SP, rel. Min. Marco Buzzi, Quarta Turma, j. em 22-8-2022). (Grifei). Diante do exposto, com fulcro no art. 1.030, V, do CPC, NÃO ADMITO o recurso especial do evento 36, RECESPEC1, porquanto deserto.
+O recorrente alega violação à lei federal, sem especificar qual, buscando ver desconstituída a decisão do Tribunal de Origem que julgou extinto o processo sem resolução de mérito, ante a falta de recolhimento de custas, mesmo após intimado para tanto.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento e que o preparo foi feito corretamente.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada requereu fosse negado provimento ao agravo (e-STJ fls. 557-559).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. RECURSO ESPECIAL. PREPARO. COMPROVAÇÃO INADEQUADA. INTIMAÇÃO PARA REGULARIZAÇÃO. PRECLUSÃO CONSUMATIVA. SÚMULA 187/STJ. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO.
+I.CASO EM EXAME.
+1. Agravo em Recurso Especial interposto pela Cooperativa de Crédito de Livre Admissão Centro Brasileira LTDA contra decisão proferida pelo Tribunal de Justiça de Santa Catarina que inadmitiu o recurso especial por deserção. Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento e que o preparo específico para o Colendo STJ e para o Tribunal de Justiça de Santa Catarina acompanham o recurso.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o Superior Tribunal de Justiça deve se imiscuir no exame probatório sobre o devido recolhimento do preparo recursal.
+III. RAZÕES DE DECIDIR
+3. É deserto o recurso especial quando a parte, regularmente intimada para regularizar o preparo nos termos do art. 1.007, § 2º, do CPC/2015, não comprova tempestivamente o recolhimento das custas, conforme jurisprudência pacífica do STJ (AgInt nos EREsp n. 1.848.579/CE, Rel. Min. Benedito Gonçalves, Corte Especial, DJe 3/10/2022).
+4. O Tribunal de origem afirmou que o recolhimento do preparo se deu de forma inadequada, porque foi procedido em guia diversa da exigida, isto é, em depósito judicial vinculado à subconta do processo, circunstância que torna deserto o recurso especial.
+5. A comprovação posterior do pagamento das custas não elide a deserção, em razão da preclusão consumativa, conforme precedentes (AgInt nos EDcl no AREsp n. 2.054.401/GO, Rel. Min. Humberto Martins, Terceira Turma, DJe 18/8/2023; AgInt no AREsp n. 2.069.943/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 30/9/2022).
+6. A ausência de prequestionamento, até mesmo de modo implícito, sobre os dispositivo federais violados impede a apreciação do especial, ante a vedação prevista na súmula 282 do STF.
+6. A consonância entre o acórdão recorrido e a jurisprudência desta Corte dita a inviabilidade do recurso especial, por força do óbice da Súmula 83 do STJ.
+IV DISPOSITIVO
+7. Recurso conhecido para não conhecer do Recurso Especial.
+VOTO
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para fazerem parte da presente decisão:
+No entanto, a parte insurgente não regularizou o preparo da forma adequada, porque o recolhimento foi procedido em Guia diversa da exigida, isto é, em depósito judicial, vinculado à subconta do processo (evento 47, CUSTAS2e evento 48, COM_DEP_SIDEJUD1), diverso da GRJ revertida para os cofres deste Tribunal de Justiça, circunstância que torna deserto o recurso especial.
+Nos termos da jurisprudência pacífica desta Corte, é deserto o recurso se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada na forma do art. 1.007, § 4º, do CPC/2015 (AgInt nos EREsp n. 1.848.579/CE, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022).
+Consta dos autos que houve a intimação da parte recorrente, com fundamento no art. 1.007, § 2º, do Código de Processo Civil, para realizar, no prazo de 5 (cinco) dias, o recolhimento do preparo, sob pena de não conhecimento do recurso.
+No presente feito, conforme fundamentação do Tribunal de origem, o recolhimento do preparo foi procedido em guia diversa da exigida, circunstância que torna o recurso deserto.
+Em que pese a alegação do agravante de que recolheu o preparo corretamente, juntando ao agravo as guias pagas, é da jurisprudência do Superior Tribunal de Justiça que na hipótese de comprovação intempestiva opera-se a preclusão consumativa.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. COMPROVANTE DE AGENDAMENTO BANCÁRIO. INTIMAÇÃO . COMPROVAÇÃO POSTERIOR DE REGULAR RECOLHIMENTO. PRECLUSÃO CONSUMATIVA. DESERÇÃO. SÚMULA N. 187/STJ.
+1. Nos termos da jurisprudência do STJ, é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC).
+2. A mera juntada do comprovante de agendamento de pagamento das custas não constitui meio apto à comprovação de que o preparo do recurso especial foi efetivamente recolhido.
+3. A juntada posterior de comprovante de pagamento de custas não é capaz de superar a deserção em razão da preclusão consumativa.
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.054.401/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PROTESTO. ENDOSSO MANDATO. PREPARO. PAGAMENTO. COMPROVANTE. AGENDAMENTO BANCÁRIO. NÃO ATENDIMENTO À INTIMAÇÃO PARA REGULARIZAÇÃO NO PRAZO ASSINALADO. DESERÇÃO. AUSÊNCIA DE PROCURAÇÃO OUTORGANDO AO SUBSCRITOR DO RECURSO ESPECIAL. ENUNCIADO 115 DA SÚMULA DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. É deserto o recurso especial se, concedida oportunidade (cinco dias) para comprovação da regularidade do preparo efetuado ou, caso necessário, para efetivação de novo recolhimento, na forma do artigo 1.007 do CPC, a parte não o faz tempestivamente.
+2. "A juntada de comprovante de agendamento não é meio apto a comprovar que o preparo foi devidamente recolhido (Súmula n. 187 do Superior Tribunal de Justiça), não sendo possível sua juntada posterior, em decorrência da preclusão consumativa" (AgInt nos EDcl no AREsp 1.424.727/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 17/3/2020).
+3. Na instância extraordinária é inexistente recurso interposto por advogado sem procuração nos autos (Súmula 115/STJ).
+4. Tendo sido oportunizada à parte a juntada da procuração, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil/2015, e não tendo sido cumprida a exigência no prazo determinado, inviável o provimento do recurso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.069.943/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.).
+A Súmula 83 desta Corte estabelece que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Nessa linha, a consonância entre o acórdão recorrido e a jurisprudência desta Corte dita a inviabilidade do recurso especial, por força do óbice da Súmula 83 do STJ.
+Ademais, percebe-se da atenta leitura do recurso que o agravante deixou de apontar quais dispositivos foram violados, sem qualquer menção a eles, ainda que implícita.
+Sem prequestionamento, ainda que implícito, dos dispositivos federais violados, não se admite o recurso especial, conforme dispõe a súmula 282 do STF.
+Nesse sentido colaciona-se o seguinte julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. RECURSO. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. QUESTÃO DE ORDEM. CORTE ESPECIAL. DECISÃO RECONSIDERADADA. RENEGOCIAÇÃO. QUITAÇÃO. DÍVIDA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STFJ. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS NºS 5 E 7/STJ.
+1. A Corte Especial do Superior Tribunal de Justiça, na sessão do dia 5/2/2025, quando do julgamento do AREsp nº 2.638.376/MG e da Questão de Ordem que lhe seguiu, firmou entendimento segundo o qual o art. 1.003, § 6º, do CPC, com as alterações promovidas pela Lei nº 14.939/2024, tem aplicação imediata.
+2. Nos termos do § 6º do art. 1.003 do CPC, com redação dada pela Lei nº 14.939/2024, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico.
+3. Na hipótese, a parte recorrente comprovou a suspensão do expediente forense nos dias 8 e 9 de julho de 2024. Intempestividade afastada.
+4. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+5. Na hipótese, acolher a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+6. Embargos acolhidos com efeitos infringentes para afastar a intempestividade do agravo em recurso especial.
+(EDcl no AgInt nos EDcl no AREsp n. 2.741.598/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025. Grifamos).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro o percentual de honorários sucumbenciais para 20% (vinte por cento) sobre o valor da condenação, nos termos do art. 85, § 11, do CPC.
+É o voto.
