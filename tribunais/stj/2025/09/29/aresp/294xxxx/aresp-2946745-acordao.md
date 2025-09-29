@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO OBRIGACIONAL C/C DECLARATÓRIA C/C INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ASTREINTES. REDIMENSIONAMENTO. IRRISORIEDADE NÃO VERIFICADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. MULTA COMINATÓRIA. COISA JULGADA. INAPLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE DE JUSTIÇA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O Tribunal de origem redimensionou o valor arbitrado a título de astreintes por compreender pela sua exorbitância. A modificação de tal entendimento demandaria o reexame de fatos e provas.
+3. A jurisprudência do Superior Tribunal de Justiça admite que o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC/2015 seja alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada. Precedentes.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por ISABEL MARIA LAMBERT TORRES contra decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO OBRIGACIONAL C/C DECLARATÓRIA C/C INDENIZATÓRIA. GOLPE BANCÁRIO. TUTELAS DE URGÊNCIA CONCEDIDAS E CONFIRMADAS, AO FINAL. EXECUÇÃO DAS ASTREINTES. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.
+1 - Decisão que rejeitou a exceção de pré-executividade e acolheu a quantia indicada pela agravada em R$ 1.260.000,00 (um milhão, duzentos e sessenta mil reais).
+2 - Com efeito, a decisão que fixa a multa cominatória não preclui, não fazendo coisa julgada, podendo ser alterada, posteriormente, a requerimento ou de ofício, caso se torne irrisória ou exorbitante, nos termos do artigo 537, §1º, do CPC.
+3 - Sinaliza na mesma linha de entendimento o Superior Tribunal de Justiça, no sentido de que, sejam vencidas ou vincendas, mesmo após o trânsito em julgado da sentença, é possível discutir as astreintes, não ocorrendo qualquer preclusão ou ofensa à coisa julgada.
+4 - Conforme se observa da instrução processual, uma das tutelas de urgência foi para determinar ao réu que, em até quatro horas, a contar da intimação, desbloqueasse o cartão de crédito da autora, sob pena de multa diária de R$ 3.000,00 (três mil reais). Intimação pessoal operada em 11/05/2022.
+5 - Pretensão da incidência pelo período de 12/05/2022 a 05/07/2023 (encerramento da conta corrente).
+6 - Ausência de comprovação no tocante ao cumprimento adequado da determinação judicial, merecendo a ressalva de que se trataria de conduta simples e inerente aos serviços bancários ofertados pelo banco. Ao contrário, observa-se que, desde o golpe sofrido pela autora, devidamente reconhecido pelo título judicial transitado em julgado, a instituição financeira atua em descompasso com as decisões proferidas nesse feito. Especificamente quanto à matéria em debate, indiscutivelmente, foi ordenado ao Banco do Brasil que restabelecesse a função crédito do plástico de titularidade da autora, obrigação de fazer da qual restou pessoalmente intimado. E, apesar do alarde, não há constatação de que a obrigação foi plenamente atendida.
+7 - No entanto, tendo em vista a possibilidade de redimensionamento, para a apuração da razoabilidade e da proporcionalidade das astreintes, não é recomendável se utilizar apenas do critério comparativo entre o valor da obrigação principal e a soma total obtida com o descumprimento da medida coercitiva, sendo mais adequado, em regra, o cotejamento ponderado entre o valor diário da multa no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante.
+8 - De tal modo, a incidência de forma integral não condiz com os já ressaltados princípios da razoabilidade, da proporcionalidade e com os fins coercitivos. Destarte, com o intuito de adequação aos princípios acima indicados, assim como para se evitar o enriquecimento ilícito da recorrida, arbitra-se a quantia a ser executada a título de multa em R$ 70.000,00 (setenta mil reais).
+9 - Precedentes da Corte Especial.
+RECURSO PARCIALMENTE PROVIDO" (e-STJ fls. 104/105).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 186/191).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos, com as respectivas teses:
+(i) arts. 489 e 1.022 do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação e a negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(ii) art. 537 do Código de Processo Civil - porque a multa não deve ser redimensionada para sua redução, tendo em vista a configuração de coisa julgada.
+Apresentadas as contrarrazões (e-STJ fls. 271/274), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO OBRIGACIONAL C/C DECLARATÓRIA C/C INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ASTREINTES. REDIMENSIONAMENTO. IRRISORIEDADE NÃO VERIFICADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. MULTA COMINATÓRIA. COISA JULGADA. INAPLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE DE JUSTIÇA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O Tribunal de origem redimensionou o valor arbitrado a título de astreintes por compreender pela sua exorbitância. A modificação de tal entendimento demandaria o reexame de fatos e provas.
+3. A jurisprudência do Superior Tribunal de Justiça admite que o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC/2015 seja alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada. Precedentes.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à regularidade do preparo, conforme se verifica do seguinte trecho do acórdão:
+"A despeito da alegação da omissão, o Acórdão alvejado foi cristalino quanto aos motivos que levaram ao conhecimento do recurso e as razões pelas quais se entendeu pela intimação para regularização das despesas processuais para o regular prosseguimento.
+E, assim que intimada, a instituição promoveu o devido preparo" (e-STJ fls. 190/191).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Ademais, no que concerne ao redimensionamento das astreintes, o Tribunal de origem, à luz da prova dos autos, concluiu que a multa se tornou exorbitante, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"Ao contrário do que afirma a instituição financeira, como desdobramentos da concessão da tutela de urgência inaugural, durante a instrução do feito, foram concedidas outras, como a indexada em 000228, quando lhe foi determinado o desbloqueio da função crédito do cartão que a autora mantinha, no prazo de 04 horas, sob pena de multa diária de R$ 3.000,00 (três mil reais).
+De tal ordem judicial, como já mencionado acima, foi a recorrente intimada pessoalmente em 11/05/2022, conforme Mandado juntado em ID 000233.
+E, desde então, não comprovou o cumprimento adequado da determinação judicial, merecendo a ressalva de que se trataria de conduta simples e inerente aos serviços bancários ofertados pelo banco.
+A propósito, observa-se que, desde o golpe sofrido pela autora, devidamente reconhecido pelo título judicial transitado em julgado, a instituição financeira atua em descompasso com as decisões proferidas nesse feito.
+Especificamente quanto à matéria em debate, indiscutivelmente, foi ordenado ao Banco do Brasil que restabelecesse a função crédito do plástico de titularidade da autora, obrigação de fazer da qual restou pessoalmente intimado.
+E, apesar do alarde, não há comprovação de que a obrigação foi plenamente cumprida.
+Consequentemente, a multa aplicável seria aquela no valor original e durante o período compreendido entre 11/05/2022 e 05/07/2023 (solicitação do encerramento da conta corrente), o que alcançaria um montante de R$ 1.260.000,00 (um milhão, duzentos e sessenta mil reais).
+Sem prejuízo do que já foi levantado pela parte autora, no equivalente a 10 dias de descumprimento, deve-se ter em mente que a decisão que fixa a multa cominatória não preclui, não fazendo coisa julgada, podendo ser alterada, posteriormente, a requerimento ou de ofício, caso se torne irrisória ou exorbitante, nos termos do artigo 537, §1.º, do CPC.
+Sinaliza na mesma linha o Superior Tribunal de Justiça, no sentido de que, sejam vencidas ou vincendas, mesmo após o trânsito em julgado da sentença, é possível discutir as astreintes, não ocorrendo qualquer preclusão ou ofensa à coisa julgada.
+(..)
+Observe-se que tal entendimento foi firmado não só com base nos princípios da proporcionalidade e da razoabilidade, mas também na compreensão do dever geral de boa-fé processual e de cooperação entre os agentes no processo.
+Com efeito, a finalidade da multa é dar efetividade a medida judicial, objetivando, portanto, forçar uma imposição de obrigação de fazer, não possuindo caráter ressarcitório, mas sim medida de natureza coercitiva.
+Dessa forma, possui natureza inibitória quanto ao descumprimento da obrigação, e não acessória, não se vinculando ao valor da causa, podendo, inclusive, ultrapassar o montante do pedido inicial, sem que se torne exorbitante, necessitando produzir, contudo, o seu efeito inibitório.
+Assim, para a apuração da razoabilidade e da proporcionalidade das astreintes, não é recomendável se utilizar apenas do critério comparativo entre o valor da obrigação principal e a soma total obtida com o descumprimento da medida coercitiva, sendo mais adequado, em regra, o cotejamento ponderado entre o valor diário da multa no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante.
+No caso, estabeleceu-se a multa diária, inicialmente, em R$ 3.000,00 (três mil reais).
+De tal modo, a incidência de forma integral não condiz com os já ressaltados princípios da razoabilidade, da proporcionalidade e com os fins coercitivos.
+Sendo assim, com o intuito de adequação, assim como para se evitar o enriquecimento ilícito da recorrida, arbitra-se a quantia a ser ora executada a título de multa em R$ 70.000,00 (setenta mil reais)" (e-STJ fls. 113/116).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Ademais, o acórdão recorrido está em consonância com o posicionamento desta Corte de Justiça, a qual interpreta que
+"a decisão que comina as astreintes não preclui nem faz coisa julgada material. Assim, é possível a modificação do valor dessa sanção até mesmo de ofício, a qualquer tempo, inclusive na fase de execução, quando irrisória ou exorbitante" (AgInt no AREsp 2.233.172/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/6/2023, DJe de 21/6/2023).
+Em reforço:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. ASTREINTES. PRETENDIDA MAJORAÇÃO DO VALOR. IMPOSSIBILIDADE. SÚMULA 7/STJ. COISA JULGADA. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULAS 211/STJ E 282/STF. AGRAVO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. A jurisprudência do Superior Tribunal de Justiça admite que o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC/2015 seja alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada.
+4 . Agravo interno desprovido."
+(AgInt no AREsp 2.692.825/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE NULIDADE DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO DE DANOS MORAIS. OPERADORA DE PLANO DE SAÚDE. NÃO CREDENCIAMENTO DE CLÍNICA. ASTREINTES. DESPROPORCIONALIDADE RECONHECIDA. REDUÇÃO DO QUANTUM. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ admite que o valor ou a periodicidade da multa cominatória prevista no art. 537 do NCPC seja alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada.
+2. No caso, não merece reforma o entendimento da Corte de origem, que diminuiu o valor máximo fixado a título de astreintes do montante de R$ 150.000,00 (cento e cinquenta mil reais) para R$50.000,00 (cinquenta mil reais), em razão do não credenciamento da clínica como prestadora de serviço da rede da operadora de planos de saúde, máxime porque as astreintes não devem constituir via geradora de enriquecimento indevido.
+3. Agravo interno desprovido."
+(AgInt no AREsp 2.370.346/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/8/2024, DJe de 16/8/2024)
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Anota-se, ainda, que a aplicação da Súmula nº 568/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
