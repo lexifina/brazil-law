@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por EVIDENCE PREVIDENCIA S.A.. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1106):
+"APELAÇÃO - Previdência privada - Ação ordinária. Revisão ou Resolução de contrato de Fundo Garantidor de Benefício (FGB) por onerosidade excessiva - Sentença de improcedência - Insurgência da instituição financeira - Cerceamento de defesa. Não ocorrência. Alegação de ocorrência de eventos imprevisíveis que levaram ao desequilíbrio econômico-financeiro do contrato ao longo do tempo - Rejeição - Fatores apontados pela instituição que não podem ser reputados como imprevisíveis - Desequilíbrio apontado que decorre da concretização do risco inerente à atividade econômica explorada pela instituição privada - Inaplicabilidade dos artigos 317 e 478 do Código Civil - Majoração dos honorários advocatícios em função da sucumbência recursal - Sentença mantida - Recurso DESPROVIDO"
+Rejeitados os embargos de declaração opostos (fls. 1138-1142).
+Nas razões do recurso especial, a recorrente alega, preliminarmente, ofensa ao art. 1.022, I, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Alega, também, afronta ao art. 373, I, do CPC e a necessidade de prova pericial. Sustenta ofensa aos arts. 317 e 478 do CC, vez que inobservados pressupostos objetivos para reconhecimento da onerosidade do contrato.
+Dessa forma, requer o provimento do recurso especial para (fls. 1199-1218):
+(a) Cumprimento do artigo 1.022, do Código de Processo Civil, com retorno dos autos à origem, a fim de que seja sanado o vício apontado;
+(b) Garantir a vigência à norma do artigo 373, inciso I, do CPC, determinando-se o retorno dos autos à inferior instância a fim de que seja produzida a prova pericial atuarial;
+(c) Garantir a vigência das normas dos artigos 317 e 478, do Código Civil, julgando procedente o pleito inaugural, nos termos veiculados à petição exordial, para fins de (1) deferir a REPACTUAÇÃO do contrato de FGB do réu, para que incidam as condições de rentabilidade da Carteira, eliminada a distribuição do excedente financeiro, no Período de Diferimento, e IPCA  0%, no Período de Concessão ou, sucessivamente, (2) deferir o pedido para RESOLUÇÃO do contrato, a fim de que seja concedida a opção de RESGATAR ou EFETUAR A PORTABILIDADE dos recursos investidos pelo réu, nos termos da legislação;
+Oferecidas contrarrazões (fls. 1180-1193), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1194-1196), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1221-1234).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A preliminar de cerceamento de defesa prospera.
+A origem rejeitou o pedido de perícia, por entendê-la desnecessária:
+"Em primeiro lugar, não é o caso de anulação da sentença por suposto cerceamento de defesa a pretexto de privação das provas pericial atuarial, pois tal prova não se mostrava mesmo indispensáveis para o exame da causa ante a natureza da matéria e a prova constante dos autos.
+Ademais, a questão principal se limita à matéria de direito. O pedido de repactuação do contrato foi consubstanciado na alegação de onerosidade excessiva, decorrente da elevação da taxa de juros e da expectativa de vida dos participantes. A perícia atuarial, nesse cenário, não se mostra necessária, porquanto basta a análise de matéria de direito para que a demanda seja resolvida. Deste modo, a anulação da r. sentença, com a dilação probatória, não levaria a resultado distinto, mas sim, violaria a celeridade e a economia processual.
+Não houve cerceamento de defesa, pois sendo o juiz o destinatário principal e direto das provas, compete-lhe aferir a necessidade da dilação probatória, para formação da sua convicção sobre a matéria debatida, assim sendo, podendo indeferir as provas inúteis ou protelatórias, conforme os artigos 370 e 371, do Código de Processo Civil. (fls. 1108-1009)"
+Ocorre que, baseando-se a pretensão na revisão dos termos do contrato de previdência privada, tendo por alegação a excessiva onerosidade que inviabilizaria o equilíbrio atuarial, "A Segunda Seção desta Corte firmou entendimento de que configura cerceamento de defesa o indeferimento do pedido, na fase de conhecimento, de produção de perícia atuarial em ação revisional de benefício de previdência privada, voltada à demonstração do alegado desequilíbrio atuarial do plano de custeio, não falar em ocorrência de julgamento extra petita" (AgInt no AREsp n. 2.292.969/PR, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 15/5/2024).
+A título de reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ENTIDADE ABERTA. FUNDO GARANTIDOR DE BENEFÍCIO. PREVISÃO CONTRATUAL DE RETORNO FINANCEIRO DE IGP-M E JUROS DE 6% AO ANO. ESTABILIZAÇÃO SUPERVENIENTE DA INFLAÇÃO E REDUÇÃO DA TAXA DE JUROS. ELEVAÇÃO DA EXPECTATIVA DE VIDA. ALEGAÇÃO DE DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. INDEFERIMENTO DA PROVA PERICIAL. CERCEAMENTO DE DEFESA. DECISÃO MANTIDA.
+1. Controvérsia de fundo relativa ao alegado desequilíbrio econômico-financeiro do plano de previdência, em virtude de fatos supervenientes à contratação, dando ensejo ao ajuizamento de demanda revisional pela entidade de previdência, sob o fundamento de onerosidade excessiva.
+2. "Os planos de benefícios de previdência complementar são  ..
+embasados em estudos de natureza atuarial, e, ao final de cada exercício, devem ser reavaliados atuarialmente, de modo a prevenir ou mitigar prejuízos aos participantes e beneficiários do plano" (REsp n. 1.345.326/RS, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/4/2014, DJe de 8/5/2014).
+3. "Deve ser feita perícia técnica nas demandas que envolvam a revisão de pagamento de benefício previdenciário complementar  .. , visto que é necessário verificar a influência dos novos valores no equilíbrio financeiro e atuarial da entidade de previdência privada" (AgInt nos EDcl no REsp n. 1.639.474/SE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/4/2022, DJe de 5/5/2022).
+4. Esse entendimento pela necessidade de perícia também se aplica quando a revisão do benefício é requerida pela entidade de previdência. Analogia com o "caso GEAP".
+5. Acolhimento da alegação de cerceamento de defesa, ante o indeferimento da prova pericial pelo Juízo de origem.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.161.065/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 11/4/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE BENEFÍCIOS. PREVIDÊNCIA PRIVADA. PERÍCIA ATUARIAL. FASE CONHECIMENTO. NECESSIDADE. PRECEDENTES. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A Segunda Seção desta Corte orienta-se no sentido de que o indeferimento de perícia técnica, nos autos da revisional de benefício da previdência complementar, oportunamente requerida na fase de conhecimento, configura indevido cerceamento de defesa.
+Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.278.087/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 17/8/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. PERÍCIA ATUARIAL. INDEFERIMENTO. MATÉRIA FÁTICA.
+LAUDO CONTÁBIL NECESSÁRIO. POSIÇÃO PACÍFICA DAS TURMAS QUE COMPÕEM A SEGUNDA SEÇÃO DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. No termos da jurisprudência do STJ já pacífica sobre o assunto, "deve ser feita perícia técnica nas demandas que envolvam a revisão de pagamento de benefício previdenciário complementar com a aplicação de critérios de cálculo diversos dos estabelecidos no plano de contribuição, visto que é necessário verificar a influência dos novos valores no equilíbrio financeiro e atuarial da entidade de previdência privada" (AgInt nos EDcl no REsp 1.639.474/SE, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/4/2022, DJe de 5/5/2022).
+2. Na espécie, o Tribunal de origem indeferiu o pedido de produção de prova pericial, requerida pela entidade previdenciária, explicando que a discussão dos autos, relativa à ilicitude das sucessivas alterações no Regulamento Reg/Replan, seria estritamente jurídica, não dependendo, portanto, de instrução probatória.
+Justificou-se, assim, a reforma do v. acórdão recorrido, com determinação de retorno dos autos ao Juízo de piso para reabrir a fase instrutória.
+3. Agravo interno improvido.
+(AgInt no REsp n. 1.786.057/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 3/5/2023.)
+Neste contexto, impõe-se o provimento do recurso especial para se acolher a preliminar de cerceamento de defesa de modo a viabilizar a produção da prova atuarial na origem. Ficam prejudicadas as demais questões deduzidas no recurso especial.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para reconhecer o cerceamento de defesa e determinar o retorno dos autos à origem para que seja facultada a produção da prova pericial atuarial e, posteriormente, seja rejulgada a demanda, como se entender de direito.
+Sem honorários recursais ante o provimento do recurso (Tema n. 1.059/STJ) e da necessidade de reabertura das instrução processual.
+Publique-se. Intime-se.
+ EMENTA
