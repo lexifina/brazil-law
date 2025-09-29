@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESPONSABILIDADE CIVIL. TRANSPORTE AÉREO INTERNACIONAL DE CARGA. AVARIAS. INDENIZAÇÃO. LIMITES DA RESPONSABILIDADE CIVIL. CONVENÇÃO DE MONTREAL. REGIME DE INDENIZAÇÃO TARIFADA. INCIDÊNCIA. TESE FIXADA EM REPERCUSSÃO GERAL.
+1. Consoante o entendimento pacífico do STJ, ao efetuar o pagamento da indenização securitária advinda de contrato de seguro de danos, a seguradora sub-roga-se nos direitos que competirem ao segurado contra o causador do dano, nos limites desses direito. Incidência da Súmula nº 188/STF.
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 636.331/RJ, sob o regime da repercussão geral, consolidou o entendimento de que, "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor".
+3. A Suprema Corte já se posicionou, em outros julgados, no sentido de que o Tema nº 210/STF não se restringe ao transporte aéreo internacional de passageiros e bagagens, devendo ser aplicado também ao transporte de cargas.
+4. Agravo conhecido para dar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por PANALPINA WORLD TRANSPORT (PRC) contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"CONTRATO - Transporte aéreo de mercadorias - Ação regressiva de seguradora - Responsabilidade da empresa agente de carga por avarias - Obrigação que subsiste até a efetiva entrega à destinatária - Caso de presunção de culpa e descabimento de tarifação da indenização - Aplicação, nessa parte, do CDC e não do Código Brasileiro de Aeronáutica, da Convenção de Varsóvia ou da Convenção de Montreal - Jurisprudência do STJ - Demonstração satisfatória da existência do contrato de seguro e do pagamento da indenização à segurada - Sentença reformada, em parte Apelação provida" (e-STJ fl. 528).
+A recorrente alega que o acórdão recorrido violou o art. 22 da Lei nº 5.910/2006, ao afastar a limitação de responsabilidade prevista na Convenção de Montreal.
+Sustenta que a Convenção de Montreal não estabeleceu nenhuma exceção ou condição especial para a aplicação da limitação de responsabilidade decorrente de falta ou avaria de carga transportada por via aérea.
+Postula seja aplicada a limitação de responsabilidade nos termos do artigo 22 do Decreto nº 5.910/2006 - Convenção de Montreal.
+Após a apresentação das contrarrazões, o recurso não foi admitido na origem, ensejando a interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESPONSABILIDADE CIVIL. TRANSPORTE AÉREO INTERNACIONAL DE CARGA. AVARIAS. INDENIZAÇÃO. LIMITES DA RESPONSABILIDADE CIVIL. CONVENÇÃO DE MONTREAL. REGIME DE INDENIZAÇÃO TARIFADA. INCIDÊNCIA. TESE FIXADA EM REPERCUSSÃO GERAL.
+1. Consoante o entendimento pacífico do STJ, ao efetuar o pagamento da indenização securitária advinda de contrato de seguro de danos, a seguradora sub-roga-se nos direitos que competirem ao segurado contra o causador do dano, nos limites desses direito. Incidência da Súmula nº 188/STF.
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 636.331/RJ, sob o regime da repercussão geral, consolidou o entendimento de que, "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor".
+3. A Suprema Corte já se posicionou, em outros julgados, no sentido de que o Tema nº 210/STF não se restringe ao transporte aéreo internacional de passageiros e bagagens, devendo ser aplicado também ao transporte de cargas.
+4. Agravo conhecido para dar provimento ao recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+A controvérsia dos autos está em saber se as Convenções de Varsóvia e de Montreal (Decreto nº 5.910/2006) incidem no transporte aéreo internacional de carga, o que atrairia a aplicação de disposições relativas à indenização tarifada.
+Na origem, a seguradora recorrida ajuizou ação regressiva de indenização contra a recorrente objetivando o recebimento de valor pago em indenização securitária em razão do extravio e das avarias em cargas transportadas por meio aéreo internacional.
+De início, vale ressaltar que, ao efetuar o pagamento da indenização securitária advinda de contrato de seguro de danos, a seguradora sub-roga-se nos direitos que competirem ao segurado contra o causador do dano, nos limites desses direitos (art. 786 do Código Civil e Súmula nº 188/STF).
+Assim, no caso, à seguradora sub-rogada devem ser aplicadas todas as limitações que incidiriam no segurado em decorrência dos prejuízos causados pela transportadora.
+Quanto à responsabilidade do transportador aéreo internacional, o Supremo Tribunal Federal, ao julgar o RE nº 636.331/RJ (Rel. Ministro Gilmar Mendes, DJe 13/11/2017), na sistemática da repercussão geral, fixou a seguinte tese:
+"Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (Tema nº 210/STF).
+Desse modo, foi consagrado o entendimento de que os tratados internacionais limitadores da responsabilidade das transportadoras aéreas em voos transnacionais, como as Convenções de Varsóvia e de Montreal, possuem prevalência sobre a legislação interna, diante do princípio da especialidade.
+Ademais, extrai-se dos votos que as disposições previstas nos referidos acordos internacionais são aplicáveis ao transporte aéreo internacional de pessoas, bagagens e carga, já que a expressão "transporte internacional" é assim definida no art. 1º da Convenção para Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional.
+Sendo assim, aplica-se a tese fixada no Tema nº 210/STF também aos casos de ação regressiva de seguradora, na qual se pretende o ressarcimento de valores pagos a segurado.
+A Suprema Corte já se posicionou, em outros julgados, no sentido de que o Tema nº 210/STF não se restringe ao transporte aéreo internacional de passageiros e bagagens, devendo ser aplicado também ao transporte de cargas.
+A propósito:
+"Agravo regimental nos embargos de declaração em recurso extraordinário com agravo. 2. Direito Civil. 3. Transporte aéreo internacional. Perdimento de carga. Aplicação da Convenção de Varsóvia e Montreal. Tema 210, da repercussão geral. 4. Existência de declaração. Matéria infraconstitucional. Necessidade de reexame do acervo probatório. Súmulas 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental. Sem majoração da verba honorária." (ARE nº 1.164.624 ED-AgR, Rel. GILMAR MENDES, Segunda Turma, julgado em 08/6/2020, DJe 17/6/2020)
+"DIREITO CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. TRANSPORTE DE CARGAS. INTERNACIONAL. TEMA 210 RG.
+1. Por força do art. 178 da CF, em caso de conflito, as normas das convenções que regem o transporte aéreo internacional prevalecem sobre a legislação interna (RE 636.331, Rel. Min. Gilmar Mendes, Tema 210/RG).
+2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+3. Agravo interno a que se nega provimento." (ARE nº 1.133.572 AgR, Rel. ROBERTO BARROSO, Primeira Turma, julgado em 30/8/2019, DJe 13/9/2019 - grifou-se).
+A Segunda Seção deste Tribunal Superior passou a adotar o mesmo entendimento, conforme se verifica no seguinte precedente:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO (ARTIGO 1.040, INCISO II, DO CPC). AÇÃO REGRESSIVA DA SEGURADORA CONTRA TRANSPORTADORA AÉREA. EXTRAVIO DE MERCADORIA DURANTE TRANSPORTE AÉREO INTERNACIONAL. FALTA DE ESPECIFICAÇÃO DO VALOR DA MERCADORIA NO CONHECIMENTO DE CARGA. INDENIZAÇÃO TARIFADA PREVISTA NA CONVENÇÃO DE MONTREAL. CABIMENTO.
+1. "Nos termos do artigo 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (RE n. 636.331/RJ, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 25.5.2017, Repercussão Geral-Mérito, DJe 13.11.2017).
+2. A controvérsia em exame, atinente à responsabilidade civil decorrente de extravio de mercadoria importada objeto de contrato de transporte celebrado entre a importadora e a companhia aérea, encontra-se disciplinada pela Convenção de Montreal, por força da regra de sobredireito inserta no artigo 178 da Constituição, que preconiza a prevalência dos acordos internacionais subscritos pelo Brasil sobre transporte internacional. Precedentes do STJ.
+3. Embargos de divergência da transportadora providos." (EREsp nº 1.289.629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 25/5/2022, DJe de 20/6/2022).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, determinando seja aplicada a limitação de responsabilidade nos termos do artigo 22 do Decreto nº 910/2006 - Convenção de Montreal.
+É o voto.
