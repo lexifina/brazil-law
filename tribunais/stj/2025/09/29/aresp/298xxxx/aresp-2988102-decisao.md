@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo de JULIA ELISA DE ALCANTARA ZARAMELLA e TIAGO DA SILVA ZARAMELLA contra decisão que inadmitiu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fl. 453):
+"Apelação cível. Contrato imobiliário. Compra e venda. Ação de indenização por danos morais e materiais. Propaganda enganosa. Sentença de improcedência. Preliminar. Cerceamento de defesa. Não configurado. Julgamento antecipado. Desnecessidade de dilação probatória. Prova documental demonstra a situação fática e a dilação probatória nada acrescentaria. Aplicação dos artigos 370 e 371 do Código de Processo Civil. Mérito. Propaganda enganosa. Supostos vícios descritos na inicial são aparentes. Possibilidade de constatação imediata. Provas dos autos não indicam a prática de propaganda enganosa pela parte ré ou qualquer outro ilícito passível de indenização. Apartamento modelo com finalidade ilustrativa. Honorários recursais. Aplicação do artigo 85, §11 do CPC. Majoração da verba honorária devida para 20% do valor atualizado da causa, observada a concessão da justiça gratuita. Resultado. Recurso não provido."
+Os embargos de declaração foram rejeitados (fls. 498-502).
+Nas razões do recurso especial (fls. 463-481), os recorrentes alegam violação aos artigos 350, 351, 355, inciso I, 357 e 1.022 do Código de Processo Civil, bem como aos artigos 6º, inciso III, 30 e 37 do Código de Defesa do Consumidor.
+Sustentam que o acórdão recorrido incorreu em negativa de prestação jurisdicional ao não enfrentar adequadamente as alegações de cerceamento de defesa.
+Aduzem, outrossim, que houve cerceamento de defesa, pois as instâncias ordinárias impediram a produção de prova oral e pericial, de modo que a lide foi antecipadamente julgada, mesmo diante de controvérsias relevantes sobre a divergência entre o imóvel ofertado e o bem efetivamente entregue.
+Argumentam, por fim, que construtora recorrida veiculou publicidade enganosa, omitindo informações essenciais sobre o imóvel, especialmente quanto à inexistência de quintal privativo, o que configurou prática abusiva e gerou frustração das expectativas dos consumidores.
+Foram apresentadas contrarrazões ao recurso especial (fls. 506-519).
+Em juízo prévio de admissibilidade, o Tribunal de origem inadmitiu o apelo nobre (decisão às fls. 520-522), dando ensejo ao manejo do presente agravo (fls. 525-548).
+Contraminuta oferecida às fls. 557-565.
+É o relatório. Decido.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do CPC/2015, uma vez que, embora rejeitados os embargos de declaração, o Tribunal de Justiça indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta, não sendo possível confundir o julgamento em desconformidade com os interesses da parte com negativa de prestação jurisdicional. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1022, I, II, DO CPC. NÃO OCORRÊNCIA. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. FORMA CONTINUADA. PRAZO PRESCRICIONAL. TERMO A QUO. DATA DA RENÚNCIA DO MANDATO. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação dos arts. 489, § 1º, IV, e 1022, I, II, do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O termo a quo do prazo prescricional de ação de cobrança de prestação de serviços advocatícios, que se deu de forma continuada, será a data da renúncia do mandato. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.055.320/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INADMISSIBILIDADE.
+1. Embargos do devedor.
+2. Agravo interno interposto à decisão unipessoal que não conheceu do recurso especial.
+3. Não se viabiliza o recurso especial pela violação dos arts. 489, § 1º, e 1.022 do CPC, quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. O julgador não é obrigado a discorrer sobre todos os argumentos levantados pelas partes, mas sim decidir a contento, nos limites da lide que lhe foi proposta, fundamentando o seu entendimento de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto. Precedentes.
+4. Conforme jurisprudência desta Corte, evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+5. É inadmissível o recurso especial quando o acórdão recorrido se sustenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+6. Não se conhece de recurso especial quando se faz necessário o reexame das circunstâncias fático-probatórias dos autos (Súmula 7/STJ).
+7. Agravo interno não provido."
+(AgInt no REsp n. 2.175.939/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025, g.n.)
+Melhor sorte assiste aos recorrentes no tocante à aludida violação dos artigos 350, 351, 355, inciso I, e 357, todos do CPC/2015.
+Na hipótese, o Tribunal de Justiça de São Paulo (TJ-SP) afastou a alegação de cerceamento de defesa, nos seguintes termos (fl. 455):
+"CERCEAMENTO DE DEFESA
+A tais razões de decidir, acrescente-se que o cerceamento de defesa não restou configurado, pois a finalidade da prova é formar a convicção do Juiz, seu principal destinatário, quanto à existência dos fatos da causa. Se a causa já se encontrava madura para o julgamento, e o magistrado já dispunha de elementos suficientes para formar a sua convicção, cumpria-lhe julgar o feito, e não prolongar o processo em fase probatória desnecessária. Incidentes à hipótese os preceitos estampados nos artigos 370 e 371 do Código de Processo Civil.
+As provas documentais juntadas nos autos são suficientes para análise da lide." (Fl. 455)
+Com relação ao mérito, o Tribunal a quo manteve a sentença e, assim, entendeu pela improcedência da pretensão autoral, consistente na reparação de danos materiais e morais decorrentes da alegada discrepância das características do imóvel em relação às informações prestadas ao consumidor.
+Com efeito, a Corte local empregou o fundamento de que "as provas dos autos não indicam a prática de propaganda enganosa pela ré ou qualquer outro ilícito passível de indenização".
+Confira-se, por oportuno, trecho do acórdão recorrido (fls. 455-457):
+"Como é de conhecimento genérico e de experiência comum do que ordinariamente acontece, o apartamento decorado é mera sugestão de acabamento disponível à parte adquirente.
+Além dos mais, os defeitos apontados eram passíveis de constatação imediata.
+Os supostos vícios descritos na inicial, como: chanfros nas paredes/teto da cozinha e do banheiro, bem como quintal privativo que não pode ser cercado, nem plenamente utilizado, por se tratar de área comum do condomínio, são aparentes, de fácil averiguação e não afetam a utilização normal do imóvel adquirido.
+Além do mais, a unidade modelo tem apenas finalidade ilustrativa e não obriga o fornecimento de acabamento, sendo apenas mera sugestão para utilização do espaço útil a ser decorado. No caso, não restou comprovada disparidade estrutural ou divergência em relação ao memorial descritivo (fls. 86 e 433).
+Em caso análogo ao dos autos já decidiu esta 9ª Câmara de Direito Privado, no sentido de que:
+(..)
+Desse modo, as provas dos autos não indicam a prática de propaganda enganosa pela ré ou qualquer outro ilícito passível de indenização." (g.n.)
+Da leitura dos trechos ora transcritos, tem-se que o eg. Tribunal Estadual, data venia, não laborou com o costumeiro acerto, restando evidenciado o alegado cerceamento de defesa. Isso porque, o pedido de dilação probatória, mormente produção de prova pericial e oral, foi considerado desnecessário e, posteriormente, o eg. TJ-SP ratificou sentença, a qual assentou que a parte autora não comprovou suas alegações. Tal situação configura hipótese patente de cerceamento de defesa.
+Não se pode perder de vista que o direito de defesa é efetivamente cerceado na hipótese em que o magistrado julga antecipadamente a lide, indeferindo a produção de provas previamente requerida pelas partes, e conclui pela procedência ou improcedência da demanda, com fundamento na falta de comprovação do direito alegado na inicial ou na peça defensiva.
+Sobre o tema, colaciona-se os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE CARREGAMENTO E TRANSPORTE DE CANA-DE-AÇÚCAR. JULGAMENTO ANTECIPADO DA LIDE. FALTA DE DEMONSTRAÇÃO DE PRÁTICA DE ATO ILÍCITO. CERCEAMENTO DE DEFESA CONFIGURADO. PROVIMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. A verificação de cerceamento de defesa com o julgamento antecipado da lide em que se concluiu pela improcedência do pedido por falta de comprovação do fato constitutivo do direito constitui questão de direito que afasta a incidência da Súmula 7 do STJ.
+2. Há cerceamento de defesa quando o juiz indefere a realização de prova oral e pericial, requeridas oportuna e justificadamente pela parte autora, com o fito de comprovar suas alegações, e o pedido é julgado improcedente por falta de provas. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 770.037/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022, g.n)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA. RECONSIDERAÇÃO. JULGAMENTO DE IMPROCEDÊNCIA POR FALTA DE PROVAS. INDEFERIMENTO DE PROVAS REQUERIDAS. CERCEAMENTO DE DEFESA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Caracteriza cerceamento de defesa o indeferimento de produção de prova requerida pela parte e, posteriormente, o julgamento de improcedência do pedido correspondente por falta de prova.
+2. O cerceamento de defesa importa na nulidade da sentença, determinando-se a abertura da necessária instrução probatória.
+3. Agravo interno provido. Agravo conhecido. Recurso especial parcialmente provido."
+(AgInt no AREsp n. 2.348.130/SC, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025, g.n.)
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. INVESTIMENTO EM CRIPTOATIVOS. INVASÃO DE CONTA. PRODUÇÃO DE PROVAS. INDEFERIMENTO. JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA POR FALTA DE PROVAS. CERCEAMENTO DE DEFESA CONFIGURADO.
+1. Há cerceamento de defesa quando o tribunal julga improcedente o pedido por ausência de provas cuja produção foi indeferida no curso do processo. Precedentes.
+2. Agravo conhecido para dar provimento ao recurso especial."
+(AREsp n. 2.857.382/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 26/5/2025, DJEN de 30/5/2025, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DO DEMANDANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. Configura-se cerceamento de defesa quando a decisão conclui pela improcedência do pedido por falta de provas, sem que sua produção tenha sido oportunizada. Precedentes.
+2.1. Na hipótese sub judice, o próprio autor considerou dispensável a produção de novas provas além daquelas existentes nos autos.
+3. Rever as conclusões do acórdão impugnado, referentes a comprovação dos lucros cessantes e o valor devido a esse título, demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.373.276/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 23/10/2023, DJe de 9/11/2023, g.n.)
+Assim, percebe-se, nos julgados supracitados, que é indevido proceder-se ao julgamento antecipado da lide, com o consequente reconhecimento do cerceamento de defesa, quando o pedido é julgado improcedente por falta das provas requeridas oportunamente pelo autor da demanda, como é o caso dos autos.
+Ademais, frise-se que o reconhecimento do cerceamento de defesa, no caso concreto, não depende do revolvimento de matéria fático-probatória dos autos, pois, nos termos dos precedentes acima citados, não se pode confundir a situação em que a Corte de origem entende ser desnecessária a produção da prova, sustentando estar suficientemente instruído o feito, com aquela em que a produção da prova é indeferida para, posteriormente, julgar-se contrariamente a quem pleiteou sua produção.
+Dessa forma, mostra-se caracterizado cerceamento de defesa, merecendo provimento do recurso especial, para reformar o acórdão de origem, em virtude de seu dissenso com o entendimento jurisprudencial do STJ, e, ainda, julgar prejudicada a análise das demais teses expendidas no apelo nobre.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial interposto por JULIA ELISA DE ALCANTARA ZARAMELLA e TIAGO DA SILVA ZARAMELLA, para reconhecer o cerceamento de defesa, reformar o acórdão recorrido e anular a sentença de improcedência, determinando o retorno dos autos ao Juízo singular para que seja reaberta a fase instrutória e retomado o andamento do feito, como entender de direito.
+Publique-se.
+EMENTA
