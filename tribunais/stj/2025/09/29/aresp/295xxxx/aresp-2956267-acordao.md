@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. EMBARGOS À EXECUÇÃO. DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS SEUS FUNDAMENTOS. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+2. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por RUBENS OECHSLER (RUBENS) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CÉDULAS DE CRÉDITO BANCÁRIO. REJEIÇÃO LIMINAR NA ORIGEM. INSURGÊNCIA DA PARTE EXECUTADA/EMBARGANTE.
+PRELIMINARES. INÉPCIA DA INICIAL. INOCORRÊNCIA. EXEGESE DO ART. 798, INCISO I, ALÍNEA "B", DO CPC. DEMONSTRATIVO DO DÉBITO E EXTRATOS DEVIDAMENTE ACOSTADOS NA AÇÃO EXECUTIVA. TESE REJEITADA.
+CARÊNCIA DE AÇÃO POR AUSÊNCIA DE TÍTULO EXECUTIVO. ALEGAÇÃO DE AUSÊNCIA DE ASSINATURA DE DUAS TESTEMUNHAS. TESE INSUBSISTENTE. ASSINATURAS QUE NÃO SÃO REQUISITO ESSENCIAL À EXIGIBILIDADE DO TÍTULO REPRESENTADO POR CÉDULA DE CRÉDITO BANCÁRIO. OBSERVÂNCIA DOS ARTS. 28 E 29, DA LEI N. 10.391/2004. PRECEDENTES. PREFACIAL AFASTADA.
+MÉRITO. AVENTADO O DESCABIMENTO DA REJEIÇÃO LIMINAR DOS EMBARGOS À EXECUÇÃO. TESE NÃO ACOLHIDA. APONTADA A EXISTÊNCIA DE ABUSIVIDADES CONTRATUAIS A SEREM EXPURGADAS DOS CONTRATOS EXECUTADOS. HIPÓTESE QUE SE REVESTE DE EXCESSO DE EXECUÇÃO. DEMONSTRATIVO DE CÁLCULO E VALOR ENTENDIDO COMO DEVIDO NÃO APRESENTADOS. REJEIÇÃO LIMINAR DOS EMBARGOS À EXECUÇÃO ACERTADA. OBSERVÂNCIA DO ART. 917, §4º, I, DO CPC. MANUTENÇÃO DA SENTENÇA.
+SENTENÇA INALTERADA. HONORÁRIOS RECURSAIS DEVIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ).
+RECURSO CONHECIDO E DESPROVIDO. (fls. 261/262).
+Nas razões do agravo, RUBENS apontou (1) a não incidência da Súmula n. 7 do STJ, argumentando que o recurso especial visa à revaloração jurídica dos fatos e provas, não o reexame; (2) a inaplicabilidade da Súmula n. 83 do STJ, sustentando que a matéria discutida não está pacificada; (3) a não incidência das Súmulas n. 283 e 284 do STF, afirmando que todos os fundamentos do acórdão recorrido foram impugnados (fls. 317-330).
+Houve apresentação de contraminuta por COOPERATIVA DE CRÉDITO VALE DO ITAJAÍ VIACREDI (COOPERATIVA) defendendo que o agravo não merece prosperar, pois a decisão denegatória do recurso especial está em consonância com as súmulas mencionadas (fls. 334-336).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. EMBARGOS À EXECUÇÃO. DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS SEUS FUNDAMENTOS. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+2. Agravo não conhecido.
+VOTO
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não se conhecer do agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não se dirigiu, de forma específica, contra todos os fundamentos da decisão agravada, pois RUBENS não infirmou seus esteios, na medida em que não refutou, de forma arrazoada, o óbice pela incidência da Súmula n. 7 do STJ.
+Isso porque, não obstante RUBENS tenha dedicado um tópico específico no agravo em recurso especial para tratar da não incidência da Súmula n. 7 do STJ, limitou-se a alegar genericamente que o pedido formulado em sede de Recurso Especial depende somente da revaloração de fatos incontroversos incorretamente analisados pelo tribunal de origem, com a consequente aplicação da legislação vigente e do direito aplicado à espécie, em observância a matéria discutida no acordo recorrido (e-STJ, fls. 322), o que, por óbvio, não atende aos requisitos de admissibilidade do recurso.
+Importante consignar que a simples indicação dos artigos supostamente violados (84, III, 798, I, b, e 917, inciso VI, § 4º, inciso I, do CPC, e-STJ, fls. 322/323) é insuficiente para impugnar a decisão de inadmissibilidade do apelo nobre, em decorrência do princípio da dialeticidade (e-STJ, fls. 514).
+Assim, não houve a demonstração do a dequado confronto do fundamento da decisão agravada no que tange aos óbices da incidência da Súmula nº 7 do STJ.
+Na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que também não foi feito.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. ADEQUADO. MOMENTO. PRECLUSÃO. SÚMULA Nº 7/STJ HONORÁRIOS. MAJORAÇÃO. IMPOSSIBILIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (artigo 932, inciso III, do Código de Processo Civil).
+2. No que diz respeito à Súmula nº 7/STJ, não basta a parte sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Precedente.
+3. O momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+4. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.189.780/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. MAJORAÇÃO DOS HONORÁRIOS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC.
+4. Agravo interno de fls. 821-828 desprovido. Agravo interno de fls. 812-819 não conhecido.
+(AgInt no AREsp n. 2.277.243/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 17/4/2023, DJe de 19/4/2023 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do CPC, c/c o art. 253 do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Considerando a aplicabilidade das regras do CPC e o não conhecimento do recurso, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da COOPERATIVA, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas no art. 1.026, §2º, do CPC.
+É o voto.
