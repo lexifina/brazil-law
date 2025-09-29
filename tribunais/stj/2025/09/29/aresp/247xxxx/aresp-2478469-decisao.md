@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto por GABRIEL PRADO DE SOUZA ARANHA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 240/247):
+"RECURSO APELAÇÃO CÍVEL DIREITO DE VIZINHANÇA POLUIÇÃO SONORA - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS MORAIS MATÉRIA PRELIMINAR. Cerceamento de defesa. Inocorrência. Existência, outrossim, de elementos de instrução suficientes para solução da controvérsia. Prova pericial que se revela impertinente na hipótese, vez que consoante apontado pelo próprio demandante a suposta perturbação sonora já cessou, vez que encerrada a obra realizada pela requerida no imóvel lindeiro. Matéria preliminar afastada.
+RECURSO APELAÇÃO CÍVEL DIREITO DE VIZINHANÇA POLUIÇÃO SONORA AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS MORAIS MÉRITO. Propriedades vizinhas. Autor que afirma ter a requerida promovido obra irregular em imóvel lindeiro, gerando ruídos excessivos em horários inoportunos. Hipótese, contudo, na qual não configurada qualquer afronta à legislação pertinente ou caracterizada postura indevida da requerida. Registro de ocorrência, outrossim, que reflete narrativa unilateral. Obra que já se encontra finda. Improcedência na origem. Sentença mantida. Recurso de apelação do autor não provido, sem majoração da verba sucumbencial, apontada no máximo legal na origem."
+Rejeitados os embargos de declaração opostos (fls. 255/259).
+No recurso especial, aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 348/365).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 366/368), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 410/418).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Verifica-se que, conforme ressaltado na decisão que inadmitiu o REsp, não houve demonstração da divergência nos moldes legais, tendo em vista que a parte recorrente limitou-se a transcrever as ementas e não realizou o devido cotejo analítico, conforme previsto nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, atraindo o óbice da Súmula n. 284/STF.
+Sobre o tema, observe-se o entendimento jurisprudencial desta Corte de Justiça:
+CIVIL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTENTE. FUNDAMENTAÇÃO ADEQUADA E SUFICIENTE. PRESCRIÇÃO. ATO INEQUÍVOCO. PRECEDENTES. SÚMULA N. 83/STJ. DEFICIÊNCIA NA DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL.
+(..)
+4. a jurisprudência desta Corte superior é firme no sentido de que "a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Agravo conhecido. Recurso especial não conhecido.
+(AREsp n. 2.628.103/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+RECURSO ESPECIAL. CIVIL. LOCAÇÃO. AÇÃO RENOVATÓRIA. CUMPRIMENTO DE SENTENÇA. DIFERENÇAS DE ALUGUÉIS VENCIDOS DESDE FINAL DO CONTRATO ORIGINÁRIO. EXECUÇÃO NOS AUTOS DA AÇÃO RENOVATÓRIA. ART. 73 DA LEI N. 8.245/1991. JULGAMENTO ULTRA PETITA. INEXISTÊNCIA. DIVÊNGÊNCIA JURISPRUDENCIAL NÃO DEMOSNTRADA.
+1. "A sentença de procedência do pedido renovatória produz efeitos ex tunc, isto é, o novo aluguel é devido desde o primeiro dia imediatamente posterior ao fim do contrato primitivo" (REsp n. 1.929.806/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/12/2021, DJe de 13/12/2021).
+2. As diferenças de aluguéis vencidos, decorrentes do novo valor fixado em ação renovatória, são exigíveis desde o término do contrato original, devendo ser executadas nos próprios autos da ação renovatória, conforme o art. 73 da Lei n. 8.245/1991, abrangendo todo o período em que o locador recebeu apenas o valor previsto no contrato primitivo.
+3. Não há julgamento ultra petita quando o provimento jurisdicional é decorrência lógica da pretensão, respeitando o princípio da congruência e os limites objetivos da pretensão inicial, conforme art. 492 do CPC.
+4."A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional. Incidência da Súmula n. 284 do STF" (AREsp n. 2.803.752/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 7/4/2025, DJEN de 10/4/2025).
+Recurso especial conhecido em parte e improvido.
+(REsp n. 1.883.486/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+Ademais, observa-se que, nas razões do recurso especial, a parte recorrente deixou de indicar qual dispositivo legal seria objeto de interpretação divergente para sustentar sua irresignação pela alínea "c" do permissivo constitucional.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (EDcl no AgRg no AREsp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito :
+AGRAVO EM RECURSO ESPECIAL. CITAÇÃO. LITISCONSÓRCIO PASSIVO. IMPUGNAÇÃO. PRIMEIRA OPORTUNIDADE. AUSÊNCIA. NULIDADE DE ALGIBEIRA. PRECLUSÃO RECONHECIDA. DECISÃO FUNDAMENTADA. RECURSO ESPECIAL. ARTIGO DE LEI FEDERAL APONTADO COMO VIOLADO. COMANDO NORMATIVO. FALTA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. REVISÃO DO JULGADO. SÚMULA Nº 7/STJ.
+1. No caso, ao deixar de impugnar na primeira oportunidade a decisão que analisou a citação do litisconsórcio passivo, recorrendo apenas em momento posterior, por ocasião de decisão diversa, a parte recorrente atraiu a incidência da preclusão, não sendo possível alegar nulidade, tendo em vista que o Superior Tribunal de Justiça não admite a chamada nulidade de algibeira.
+2. O dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+3. É inadmissível o inconformismo por deficiência na fundamentação quando o recurso especial deixa de indicar qual dispositivo legal seria objeto de interpretação divergente. Aplicação da Súmula nº 284/STF.
+4. O recurso especial é inviável quando a sua modificação demandar o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+5. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.791.320/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 173).
+Publique-se. Intime-se.
+ EMENTA
