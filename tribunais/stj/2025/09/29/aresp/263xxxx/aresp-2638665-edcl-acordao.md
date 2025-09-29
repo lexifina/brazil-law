@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL . USUCAPIÃO EXTRAORDINÁRIA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DO MÉRITO. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo interno. Os embargos indicam suposta omissão.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a decisão embargada incorreu em omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil, aptos a justificar a oposição de embargos de declaração.
+III. RAZÕES DE DECIDIR
+3. Embargos de declaração possuem natureza integrativa e destinam-se exclusivamente a sanar vícios formais da decisão  omissão, obscuridade, contradição ou erro material  , não sendo meio hábil para reexame do mérito da controvérsia.
+4. A decisão embargada está devidamente fundamentada, com exposição clara e suficiente das razões que levaram ao desprovimento do agravo interno, em razão da necessidade reexame de provas e cláusulas contratuais.
+5. A discordância da parte embargante com o conteúdo do acórdão não configura omissão, tampouco afronta ao dever de fundamentação previsto no art. 93, IX, da CF/1988, uma vez que o julgador não está obrigado a rebater individualmente todos os argumentos apresentados.
+6. A pretensão da parte embargante revela inconformismo com o desfecho do julgamento e tentativa de rediscutir matéria já decidida, o que caracteriza desvio da finalidade dos embargos de declaração.
+IV. DISPOSITIVO
+7. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão de assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. O MAGISTRADO COMO DESTINATÁRIO DAS PROVAS TEM LEGITIMIDADE PARA INDEFERIR PEDIDOS IRRELEVANTES, IMPERTINENTES OU QUE NÃO IRÃO INFLUENCIAR NA SENTENÇA. AUSÊNCIA DE REQUISITOS DO USUCAPIÃO. MODIFICAÇÃO DA CONCLUSÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, em virtude da incidência da Súmula n. 7/STJ. O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão proferido pelo Tribunal de Justiça do Mato Grosso.
+2. O acórdão recorrido tratou de apelação cível em ação de usucapião movida pela ora agravante em desfavor da empresa agravada. A sentença de primeiro grau que julgou improcedente a demanda foi mantida pelo acórdão atacado.
+3. Opostos embargos de declaração, o Tribunal de origem os rejeitou. Nas razões do recurso especial, a agravante alegou violação dos arts. 489, § 1º, IV, e 1.022, ambos do CPC/2015, sustentando nulidade do acórdão que rejeitou os embargos de declaração, por negativa de prestação jurisdicional diante da ausência de análise da tese de cerceamento de defesa por ausência da mídia audiovisual da audiência de instrução.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se houve cerceamento de defesa, diante da análise empreendida pelo Tribunal de origem que, mesmo diante de prova relevante no entendimento da defesa (mídia audiovisual), manteve a sentença de improcedência do pedido de usucapião. 5. Outra questão em discussão é se a revisão do acervo fáticoprobatório, necessária para alterar as conclusões da origem, encontra óbice na Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+6. O Tribunal a quo motivou adequadamente sua decisão a respeito do não preenchimento dos requisitos do usucapião extraordinário, não havendo omissão, contradição ou obscuridade que justifique a modificação do julgado.
+7. A matéria sobre a possibilidade de julgamento do apelo interposto, a despeito da ausência da mídia audiovisual da audiência de instrução e julgamento, foi devidamente justificada pelo Tribunal de origem, que demonstrou de forma idônea a existência de substrato fático-probatório apto a análise de mérito para a manutenção da sentença de improcedência, com a indicação da transcrição dos depoimentos nos autos.
+8. A revisão do acervo fático-probatório necessário para alterar as conclusões da origem encontra óbice na Súmula 7 do STJ, impedindo o conhecimento do recurso especial.
+IV. AGRAVO INTERNO DESPROVIDO.
+Segundo a parte embargante, o julgado padeceria dos vícios apontados no art. 1.022 do Código de Processo Civil, o que autorizaria a oposição de aclaratórios contra decisão judicial obscura, contraditória, omissa ou que contenha erro material.
+Intimada nos termos do art. 1.023, § 2º, do Código de Processo Civil, a parte embargada requereu a rejeição dos presentes embargos.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL . USUCAPIÃO EXTRAORDINÁRIA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DO MÉRITO. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração opostos contra acórdão que negou provimento ao agravo interno. Os embargos indicam suposta omissão.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a decisão embargada incorreu em omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil, aptos a justificar a oposição de embargos de declaração.
+III. RAZÕES DE DECIDIR
+3. Embargos de declaração possuem natureza integrativa e destinam-se exclusivamente a sanar vícios formais da decisão  omissão, obscuridade, contradição ou erro material  , não sendo meio hábil para reexame do mérito da controvérsia.
+4. A decisão embargada está devidamente fundamentada, com exposição clara e suficiente das razões que levaram ao desprovimento do agravo interno, em razão da necessidade reexame de provas e cláusulas contratuais.
+5. A discordância da parte embargante com o conteúdo do acórdão não configura omissão, tampouco afronta ao dever de fundamentação previsto no art. 93, IX, da CF/1988, uma vez que o julgador não está obrigado a rebater individualmente todos os argumentos apresentados.
+6. A pretensão da parte embargante revela inconformismo com o desfecho do julgamento e tentativa de rediscutir matéria já decidida, o que caracteriza desvio da finalidade dos embargos de declaração.
+IV. DISPOSITIVO
+7. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são tempestivos nos termos do art. 1.023 do Código de Processo Civil.
+No entanto, não ficou demonstrado qualquer vício processual no julgado questionado, tendo sido expostas, de forma suficiente e fundamentada, as razões do desprovimento do recurso:
+"Da leitura das razões recursais, constata-se que a agravante não trouxe nenhuma argumentação capaz de ensejar a alteração do entendimento firmado na decisão monocrática já proferida. Sabe-se que o Superior Tribunal de Justiça vem entendendo que pertence ao órgão julgador a decisão acerca da conveniência e oportunidade da produção de determinada prova, inexistindo cerceamento de defesa quando o magistrado, por meio de decisão fundamentada, indefere o pedido de produção da prova pleiteada.
+No caso, a despeito do entendimento contrário da agravante, descaracterizase a alegação de cerceamento ao direito de defesa, uma vez que a Corte de origem, após exauriente exame dos fatos e provas constantes dos autos, entendeu que não resultaram os requisitos para o usucapião extraordinário, sendo que, para a desconstituição de tais conclusões, seria necessário aprofundado revolvimento fático-probatório, providência que esbarra no óbice da Súmula 7/STJ.
+Ademais, da análise do acórdão recorrido, constata-se que o Colegiado a quo concluiu pela suficiência das provas colacionadas aos autos, tendo se manifestado de forma fundamentada e correta à luz do que dispõe o art. 1.238 do CC, asseverando que " e m que pese a ausência da mídia digital, esta não prejudicou a análise dos argumentos vertidos no apelo, conquanto houve a transcrição dos depoimentos colhidos na fase instrutória pela parte recorrente, bem como pelo Magistrado a quo, tendo-os como suficientes para elucidar as questões trazida para esta Corte, mormente a presença ou não dos requisitos exigido no art. 1.238, do Código Civil" (fl. 2.137).
+Quanto ao tema, menciono:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. ARBITRAMENTO JUDICIAL DO PREÇO DOS SERVIÇOS DE PRATICAGEM. CERCEAMENTO DE DEFESA RECONHECIDO PELO TRIBUNAL DE ORIGEM. PROVA PERICIAL CONTÁBIL. NECESSIDADE. MODIFICAÇÃO DE TAL ENTENDIMENTO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. TABELA DE PREÇOS APRESENTADA PELA AUTORIDADE MARÍTIMA. PROVA QUE NÃO É ABSOLUTA.  ..  3. O propósito recursal é dizer acerca da ocorrência de cerceamento de defesa e da necessidade de dilação probatória na presente demanda. 4. Sendo o juiz o destinatário final da prova, cabe a ele, em sintonia com o sistema de persuasão racional adotado pelo CPC, dirigir a instrução probatória e determinar a produção das provas que considerar necessárias à formação do seu convencimento. 5. O exame acerca da necessidade e amplitude da instrução probatória é de competência exclusiva das instâncias ordinárias, a quem incumbe, soberanamente, a apreciação do conjunto fático-probatório da lide. 6. Nessa linha, não cabe ao STJ exercer juízo acerca da suficiência das provas produzidas no processo ou quanto à necessidade de produção de perícia contábil, porquanto, para tanto, seria necessário se debruçar sobre o arcabouço fático-probatório do processo, o que é vedado em sede de recurso especial pela Súmula 7/STJ.  ..  9. Recurso especial não conhecido. (REsp n. 1.643.493/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/9/2020, DJe de 14/10/2020.)
+Assim, em face da ausência de subsídio capaz de alterar a decisão agravada, deve ser ela integralmente mantida. Ante o exposto, nego provimento ao agravo interno. É como voto."
+A natureza dos embargos de declaração é integrativa e aclaratória, sendo cabíveis, nos termos do art. 1.022 do Código de Processo Civil, somente quando houver, na decisão embargada, obscuridade, contradição, omissão ou erro material. Sua finalidade é viabilizar a compreensão exata do pronunciamento judicial, sem, contudo, permitir a rediscussão do mérito da causa ou a modificação do julgado, salvo nas hipóteses legais e apenas para a supressão dos referidos vícios internos da decisão.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VÍCIO INEXISTENTE. SIMPLES REITERAÇÃO DE ARGUMENTOS EM RECURSOS ANTERIORES. CARÁTER MANIFESTAMENTE PROTELATÓRIO. REJEIÇÃO COM APLICAÇÃO DE MULTA. VALOR DA CAUSA BAIXO. FIXAÇÃO EM VALOR CONDIZENTE COM O ESCOPO SANCIONADOR.
+1. Os embargos de declaração, a teor do art. 1022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. A simples reiteração, nos embargos de declaração, dos argumentos contidos em recursos anteriores e que foram devidamente examinados denota manifesto intuito protelatório a ensejar aplicação da multa do art. 1026, § 2º, do CPC. Precedentes.
+3. O percentual de aplicação da multa pela sanção processual na interposição de embargos de declaração manifestamente protelatórios do art. 1026, § 2º, do CPC, pode ser substituído por fixação de valor apto a atingir o escopo sancionador e dissuasório quando constatado valor da causa baixo ou irrisório, segundo permitido pelos arts. 80, VII, e 81, § 2º, do CPC. Precedentes.
+4. Hipótese em que o valor da causa é de R$ 1.000,00 e a multa por embargos de declaração protelatórios é fixada em R$ 2.000,00.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no AREsp n. 2.074.424/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025, DJEN de 13/2/2025.)
+Sendo assim, não há omissão quando a decisão embargada examina todas as questões suscitadas pelas partes, de forma fundamentada, ainda que de modo sucinto e em sentido contrário ao seu interesse. A mera discordância com o entendimento adotado pelo órgão julgador não caracteriza omissão, pois a exigência de fundamentação não impõe o dever de enfrentar individualmente todos os argumentos apresentados, bastando que a decisão demonstre claramente as razões de seu convencimento, em respeito ao art. 93, inc. IX, da Constituição Federal.
+Com efeito, "a jurisprudência desta eg. Corte Superior tem orientação no sentido de que não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia posta, como ocorreu na espécie" (AgInt no AREsp n. 2.263.229/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/5/2024, DJe de 22/5/2024).
+Em outras palavras, "não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas" (AgInt no REsp n. 2.076.914/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+Diante desses conceitos e do trecho acima citado da decisão aqui embargada, observa-se que os presentes aclaratórios refletem mera irresignação da parte com o resultado do julgamento, revelando a necessidade de sua imperiosa rejeição.
+Pelo exposto, manifesto meu voto pela rejeição destes embargos de declaração.
+É como voto.
