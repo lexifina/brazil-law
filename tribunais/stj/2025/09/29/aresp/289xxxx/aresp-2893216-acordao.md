@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. ACIDENTE DE VEÍCULO. RESPONSABILIDADE. INCAPACIDADE PARCIAL.
+1. Ação de reparação por danos materiais e compensação por danos morais.
+2. O art. 950 do Código Civil não exige que tenha havido também a perda do emprego ou a redução dos rendimentos da vítima para que fique configurado o direito ao recebimento da pensão. O dever de indenizar decorre unicamente da perda da capacidade laboral, que, na hipótese foi expressamente reconhecida pelo acórdão recorrido. Precedentes.
+3. Agravo conhecido. Recurso especial conhecido e provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo em recurso especial interposto por ANTONIO SERRA PEREIRA FILHO contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/2/2025.
+Concluso ao gabinete em: 4/8/2025.
+Ação: de reparação por danos materiais e compensação por danos morais, ajuizada pelo recorrente em face de LUIZ CARLOS LAZARINI e SUL AMÉRICA CIA NACIONAL DE SEGUROS (e-STJ fls.1-26).
+Sentença: julgou parcialmente procedente o pedido para a) condenar os recorridos no pagamento, a título de danos materiais, os seguintes valores: (i) lucros cessantes na quantia de R$23.969,89, que deverá ser corrigida, desde as datas que receberia seus vencimentos após o evento danoso, e com juros de 1% ao mês, desde a citação; (ii) ressarcimento dos valores gastos com fisioterapia, a quantia de R$1.134,00, que será corrigida, desde a data do desembolso, e com juros de 1% ao mês, desde a citação; b) a pagar, a título de danos estéticos, a quantia de R$ 10.000,00 (dez mil reais) com correção monetária pelos índices da Tabela Prática do E. TJSP a partir desta data, e juros de mora de 1% ao mês, a partir do evento danoso; c) a pagar, a título de danos morais, a quantia de R$ 50.000,00 (cinquenta mil reais) com correção monetária pelos índices da Tabela Prática do E. TJSP, a partir desta data (Súmula 362, STJ) e juros de mora de 1% ao mês que, tratando-se de responsabilidade extracontratual, incidem a partir do evento danoso. Determinou, ainda, que a seguradora ALLIANZ SEGUROS S/A ficará responsável pelo pagamento diretamente ao recorrido da indenização por danos materiais e morais, excluído o valor da condenação referente aos danos estéticos, em razão da ausência de cobertura contratual, até o limite da Apólice nº 3631289-0/37166085, com as coberturas descritas às folhas 191. O valor que suplantar o limite da apólice, deverá ser arcado solidariamente entre os recorridos LUIZ CARLOS LAZARINI, LCE LAZARINI CONSULTORIA EMPRESARIAL LTDA. Quanto aos ônus de sucumbência, condenou LUIZ CARLOS LAZARINI, LCE LAZARINI CONSULTORIA EMPRESARIAL LTDA e ALLIANZ SEGUROS S/A, solidariamente, ao pagamento das custas e despesas processuais, bem como honorários advocatícios da parte autora, fixados em 15% do valor total da condenação(e-STJ fls. 745-757).
+Embargos de declaração: opostos pelo agravante, foram indeferidos (e-STJ fls. 774-776).
+Acordão: deu parcial provimento ao recurso de apelação interposto pelo agravante e negou provimento ao recurso de apelação dos agravados, nos termos da seguinte ementa:
+Apelação. Acidente de trânsito. Ação indenizatória. Lucros cessantes. Perícia que constata a capacidade laboral do autor, inclusive, para continuar a desempenhar a atividade profissional anterior ao acidente. Pensão vitalícia que somente seria devida em caso de incapacidade total. Lucros cessantes que devem ser estendidos até a data do relatório médico que atesta a incapacidade laboral. Danos estéticos. Vítima que, além de cicatriz, apresenta deformidade em valgo no joelho esquerdo, causando marcha com claudicação. Indenização que deve ser majorada a fim de reparar os danos causados pelas sequelas do acidente. Danos morais que dispensa comprovação. In re ipsa. Vítima que sofreu fraturas graves e teve que se submeter a intervenção cirúrgica e prolongado tratamento de fisioterapia. Indenização fixada em valor razoável a fim de reparar os prejuízos causados, sem lhe ensejar o enriquecimento ilícito. Sucumbência predominante dos réus. Recurso dos réus não provido e recurso do autor parcialmente provido. (e-STJ fls. 911-919).
+Embargos de declaração: opostos pelo agravante, foram rejeitados (e-STJ fls. 939-942).
+Recurso especial: alega a violação dos art. 950 do CC.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS. ACIDENTE DE VEÍCULO. RESPONSABILIDADE. INCAPACIDADE PARCIAL.
+1. Ação de reparação por danos materiais e compensação por danos morais.
+2. O art. 950 do Código Civil não exige que tenha havido também a perda do emprego ou a redução dos rendimentos da vítima para que fique configurado o direito ao recebimento da pensão. O dever de indenizar decorre unicamente da perda da capacidade laboral, que, na hipótese foi expressamente reconhecida pelo acórdão recorrido. Precedentes.
+3. Agravo conhecido. Recurso especial conhecido e provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Do art. 950 do CC
+A orientação jurisprudencial sedimentada no STJ é no sentido de que "a vítima do evento danoso - que sofre redução parcial e permanente da capacidade laborativa - tem direito ao pensionamento previsto no artigo 950 do Código Civil, independentemente da existência de capacidade para o exercício de outras atividades, em virtude de maior sacrifício para a realização do serviço." (REsp 1.292.728/SC, Segunda Turma, DJe 2/10/2013).
+No mesmo sentido: AgInt nos EDcl no AgInt no AREsp 1.807.218/RJ, Terceira Turma, DJe de 10/4/2023; Resp 1.732.398/RJ, Terceira Turma, DJe de 14/6/2018; AgInt no REsp 1641571/SC, Quarta Turma, DJe 03/02/2020; REsp 1.062.692/RJ, Terceira Turma, DJe de 11/10/2011
+No particular, no acórdão recorrido, consignou-se que:
+O laudo da perícia realizada nos autos pelo IMESC concluiu que "capacidade laborativa parcial e permanente prejudicada devendo evitar atividade que demande sobrecarga à coluna lombar e ao joelho esquerdo bem como da hipermobilidade destas regiões. Não há incapacidade para a atividade habitual do Requerente em decorrência das sequelas constatadas embora possa exigir maior esforço" (fl. 620).
+Ao responder os quesitos das partes, o perito esclarece ainda que o periciando se encontra apto para a função de cozinheiro, embora demande maior esforço (quesito 18 - fl. 623).
+ ..
+Verifica-se que o laudo pericial concluiu que o autor ficou com cicatriz na região toracolombar e com deformidade em valgo no joelho esquerdo, o que lhe causou "marcha com ligeira claudicação no membro inferior esquerdo" (fl. 616). No mais, o valgo no joelho já acarreta visível deformidade aparente, sendo a chamada "pernas em tesoura" , prejudicando o alinhamento das pernas, sendo que ele será obrigado a conviver com tal sequela, que não terá melhora, tal como pode ocorrer com a cicatriz. (destaques acrescidos)
+No entanto, ao analisar a questão, o TJ/SP considerou que "não há de se falar em fixação de pensão em decorrência da redução da mobilidade do membro afetado com o acidente, tendo em vista que a perícia foi conclusiva no sentido de que o autor pode continuar a exercer sua atividade profissional. O fato de ter sido constatado que o exercício da profissão exigirá maior esforço de sua parte deve ser considerado quando da fixação dos danos morais", divergindo da jurisprudência desta Corte.
+O acórdão recorrido, portanto, merece reforma.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do agravo para CONHECER DO recurso especial e DAR-LHE PROVIMENTO para determinar o retorno dos autos ao TJ/SP, a fim de que estabeleça o pensionamento, à luz da citada jurisprudência do STJ.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 16% sobre o valor da condenação (e-STJ fls. 919) para 18%.
