@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. ANTERIOR DECISÃO TRANSITADA EM JULGADA RECONHECENDO A LEGITIMIDADE PASSIVA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça consolidou a orientação de que a existência de decisão anterior definitivamente julgada impede novo pronunciamento judicial sobre o mesmo tema, ainda que se trate de questão de ordem pública , em razão da preclusão consumativa.
+2. O reexame do contexto fático-probatório dos autos redunda na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por AGRO INDUSTRIAL SÃO GONÇALO S/A da decisão de fls. 232/237.
+A parte agravante alega que não integra o grupo econômico devedor do tributo, pois sua retirada do quadro societário ocorreu em 22/4/2015.
+Sustenta que não houve preclusão consumativa, pois sua citação na execução fiscal se efetivou em 5/3/2020, após o trânsito em julgado do acórdão proferido nos autos do Agravo de Instrumento 138.804/AL.
+Afirma que, conforme a orientação do Supremo Tribunal Federal no RE 562.276/PR (Tema 13) e a Súmula 430 do Superior Tribunal de Justiça (STJ), o mero inadimplemento do tributo não gera responsabilidade solidária do sócio-gerente.
+Não foi apresentada impugnação pela parte agravada (fl. 267).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. ANTERIOR DECISÃO TRANSITADA EM JULGADA RECONHECENDO A LEGITIMIDADE PASSIVA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça consolidou a orientação de que a existência de decisão anterior definitivamente julgada impede novo pronunciamento judicial sobre o mesmo tema, ainda que se trate de questão de ordem pública , em razão da preclusão consumativa.
+2. O reexame do contexto fático-probatório dos autos redunda na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece prosperar.
+Conforme consta da decisão de fls. 232/237, trata-se, na origem, de agravo de instrumento interposto da decisão que reconheceu a legitimidade de AGRO INDUSTRIAL SÃO GONÇALO S/A para figurar no polo passivo da execução fiscal devido à formação de grupo econômico de fato com a devedora principal, Central Açucareira Santa Maria S/A.
+O TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO manteve a decisão agravada nos seguintes termos (fl. 111):
+A questão relativa à legitimidade da agravante para figurar no polo passivo da execução fiscal ajuizada em desfavor da empresa executada (Central Açucareira Santa Maria S/A), já foi anteriormente apreciada no Agravo de Instrumento 138804-AL, tendo a Primeira Turma desta Corte decidido que: "No caso sub examine , a agravante trouxe aos autos documentos capazes de comprovar, prima facie, indícios de existência de grupo econômico entre a agravada (Central Açucareira usina Santa Maria S/A) e a empresa Agro Industrial São Gonçalo. De acordo com a referida documentação, restou evidenciado que ambas as sociedades estão umbilicalmente ligadas, já que atuam no mesmo ramo de atividade econômica, desenvolvem suas atividades mediante cessão de capital e patrimônio entre si, e são administradas pelas mesmas pessoas (Srs. Márcio de Vasconcelos Silva, Marceal Vasconcelos Silva e Glênio Vasconcelos Cedrin), o que denotam a unicidade no controle das referidas empresas. Tais evidências fáticas autorizam a incidência do disposto no artigo 30, IX, da Lei nº 8.212/91 c/c o art. 124, II, do CTN. Logo, sendo solidariamente obrigadas as pessoas expressamente designadas por lei, imputa-se a responsabilidade tributária à empresa Agro Industrial São Gonçalo pelo pagamento dos débitos em questão."
+Assim, definitivamente resolvida, em anterior agravo de instrumento já baixado à origem (desde 16/01/2015), a questão relativa a legitimidade da ora recorrente para figurar no polo passivo do feito executivo, incabível a sua rediscussão, eis que já alcançada pelo instituto da preclusão consumativa, não se prestando para afastar a responsabilidade solidária anteriormente reconhecida, por formação de grupo econômico de fato, a simples alegação de que, após a decisão proferida no AGTR 138804/AL, a ora agravante se retirou, em 22/04/2015, do quadro de acionistas da empresa executada.
+Ao apreciar o recurso integrativo, a Corte regional decidiu o seguinte (fl. 160):
+Na hipótese, da simples leitura do acórdão embargado, não se verifica a existência do vício apontado, podendo-se observar que as questões trazidas a julgamento foram devidamente analisadas, não tendo o embargante apontado qual a tese adotada no julgado não restou clara ou se mostrou de difícil compreensão. Na verdade, observa-se que o recorrente não pretende o suprimento de qualquer vício, buscando, sob a alegativa de obscuridade, apenas a rediscussão do julgado que lhe foi desfavorável.
+Quanto à alegada nulidade, embora o requerimento de pedido de exclusão, da sessão virtual para julgamento na sessão telepresencial, não tenha sido apreciado, dispõe o art. 137 do Regimento Interno do TRF da 5ª Região que: "Não haverá sustentação no julgamento de: V - agravos de instrumento, salvo os que ataquem decisões interlocutórias que versem sobre tutela provisória de urgência ou de evidência."
+Na hipótese, tratando-se de recurso de agravo de instrumento interposto em face de decisão proferida nos autos de execução fiscal, no qual se discute a ilegitimidade do recorrente para figurar no polo passivo do feito, no seu julgamento não se admite a realização de sustentação oral, razão pela qual o requerimento formulado pelo ora embargante não haveria de ser acolhido.
+Desse modo, não restou evidenciado, em respeito ao princípio "pas nullité sans grief", o prejuízo concreto que a ausência da referida alteração do tipo de sessão de julgamento teria causado à agravante, não se justificando a pretendida nulidade. Na verdade, a parte recorrente apenas pretende rediscutir e reformar julgamento que entende como prejudicial aos seus interesses.
+Observo que o Tribunal de origem apreciou o tema em harmonia com a orientação consolidada nesta Corte Superior no sentido de que a existência de decisão anterior definitivamente julgada impede novo pronunciamento judicial sobre o mesmo tema, ainda que se trate de questão de ordem pública, em razão da preclusão consumativa. A esse respeito, convém a transcrição dos seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELO JUÍZO. AUSÊNCIA DE RECURSO. PRECLUSÃO PRO JUDICATO CARACTERIZADA. IMPOSSIBILIDADE DE MODIFICAÇÃO POSTERIOR DA VERBA HONORÁRIA. PRECEDENTES. ALEGADA NÃO OCORRÊNCIA DA PRECLUSÃO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ.
+1. Mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional. Precedentes.
+ ..
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.070.495/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO CONSUMATIVA. ACIDENTE FERROVIÁRIO. DANO. PONTE HISTÓRICA. RETORNO ÀS CONDIÇÕES ANTERIORES. IMPOSSIBILIDADE. ABALO MORAL COLETIVO. EXISTÊNCIA. INDENIZAÇÃO.
+ ..
+2. A orientação pacífica do STJ é a de que, apesar de as matérias de ordem pública não sofrerem preclusão temporal, porque podem ser alegadas a qualquer tempo, o mesmo não se pode dizer quanto à preclusão consumativa, pois, uma vez decidida determinada questão no processo, e não impugnada pela parte sucumbente, configurada está esta última espécie de preclusão.
+ ..
+8. Recurso parcialmente provido.
+(REsp n. 2.007.264/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/5/2023, DJe de 20/6/2023.)
+Ademais, o Tribunal de origem, ao examinar o processo, resolveu que a questão referente à legitimidade da parte recorrente para integrar a execução fiscal ajuizada em desfavor da Central Açucareira Santa Maria S/A havia sido definitivamente resolvida por decisão transitada em julgado proferida nos autos do Agravo de Instrumento 138.804/AL.
+A parte ora agravante defendeu a sua ilegitimidade argumentando que não fazia parte do quadro de acionistas da executada originária desde 22/4/2015, e que sua citação tinha ocorrido apenas em 5/3/2020, após o trânsito em julgado do Agravo de Instrumento 138.804-AL, razão pela qual não poderia ser responsabilizada solidariamente. O acolhimento dessas alegações dependeria de novo juízo acerca dos fatos e das provas, e não da valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção.
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e de provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso com fundamento na Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
