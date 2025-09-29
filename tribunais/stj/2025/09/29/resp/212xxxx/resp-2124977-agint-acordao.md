@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESPESAS COM FRETE. TRANSFERÊNCIA INTERNA DE MERCADORIAS. CREDITAMENTO. IMPOSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que as despesas com frete decorrente da transferência de produtos entre estabelecimentos da própria empresa não se enquadravam no conceito de insumos, não gerando crédito para abatimento na base de cálculo da contribuição ao PIS e da COFINS. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno contra decisão que negou provimento ao recurso especial, assim ementada (fl. 595):
+TRIBUTÁRIO. RECURSO ESPECIAL. PIS E COFINS. DESPESAS COM FRETE. TRANSFERÊNCIA INTERNA DE MERCADORIAS. CREDITAMENTO. IMPOSSIBILIDADE. RECURSO ESPECIAL DESPROVIDO.
+Nas razões do agravo interno, a recorrente alega, em síntese, que "os bens locados pela Agravante não são meros ativos imobilizados, mas sim insumos essenciais para a consecução da sua atividade-fim, de modo que, uma vez reconhecida a essencialidade pelos vs. acórdãos recorridos, não poderia haver óbice ao aproveitamento de créditos de PIS e Cofins eventualmente acumulados com a transferência dos bens entre os seus estabelecimentos, vez que não há margem para discricionariedade em realizar ou não esse deslocamento para o desenvolvimento da atividade inerente ao seu objeto social" (fl. 610).
+Sem impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESPESAS COM FRETE. TRANSFERÊNCIA INTERNA DE MERCADORIAS. CREDITAMENTO. IMPOSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que as despesas com frete decorrente da transferência de produtos entre estabelecimentos da própria empresa não se enquadravam no conceito de insumos, não gerando crédito para abatimento na base de cálculo da contribuição ao PIS e da COFINS. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida.
+A controvérsia dos autos diz respeito à possibilidade de aproveitamento de crédito da contribuição para o PIS e da COFINS relativamente às despesas com frete dispendido pela recorrente com o deslocamento de bens, para serem locados, entre seus estabelecimentos espalhados pelo país.
+O Tribunal de origem confirmou a sentença que denegou a segurança, tendo por base os seguintes fundamentos (fls. 264/265):
+Ainda, os arts. 3º, inc. I e IX e 15, da Lei nº 10.833/2003, quando interpretados de maneira sistemática, não restringem a possibilidade de desconto quando se trata de frete decorrente de veículo transportado para a concessionária com o fim de ser revendido. Trata-se de operação de venda.
+O que pretende a Empresa impetrante diverge do campo restritivo da operação, pois, além de comparar a prestação do serviço de aluguel qual é responsável, não indica que os fretes são relacionados exclusivamente à própria prestação de serviços, mas à mera logística de estoque própria.
+No caso concreto, porém, não resta caracterizado que o deslocamento seja apenas entre as unidades comerciais espalhadas pelo Brasil, tal qual sustentado no Recurso ora analisado, seja parte da atividade fim da empresa, mas, como já apontado, se trata de mera administração logística com relação ao próprio estoque da Empresa Matriz impetrante.
+Conforme já esclareceu o próprio STJ em outros julgados, o fator decisivo para a verificação de quais são as despesas que se enquadram como insumos é a análise crítica da atividade fim da empresa, isto é, a análise da vocação empresarial que justificou o próprio nascimento da pessoa jurídica (nesse sentido: AgInt no R Esp 1632007/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/03/2018, D Je 12/03/2018).
+Assim, somente despesas relacionadas à aquisição de bens essenciais à atividade da empresa podem ser consideradas insumos.
+Como bem observado pelo Juízo a quo: "o frete só estará efetivamente ligado à prestação de serviço no transporte dos andaimes quando houver entrega ao locatário, pois é nesta circunstância que a impetrante arca com o frete desempenhando sua atividade geradora da respectiva tributação pelas contribuições. Quando é destinado de uma unidade para a outra, não é intuitivo que já esteja diretamente relacionado ao atendimento de uma locação já contratada, como diz a impetrante na inicial".
+Embora se pudesse afirmar que não é possível realizar a atividade econômica da empresa sem a realização de despesas com o frete entre seus estabelecimentos, estas também não podem ser consideradas insumos, pois não estão relacionados diretamente à atividade fim da empresa, mas, antes, representam um custo operacional que atinge, indistintamente, todas as pessoas jurídicas.
+Assim, como a despesa apontada na inicial não está intrinsecamente ligada à atividade de locação de bens móveis, notadamente utilizados na construção civil, sendo perfeitamente possível que esta continue a ser realizada, ainda que deduzidas tais despesas, não há que se falar em direito a creditamento
+Como se percebe, o Tribunal de origem reconheceu que o deslocamento das mercadorias, efetuado pela recorrente entre seus estabelecimento, configura mera administração logística do próprio estoque da Empresa Matriz impetrante, não havendo que se falar em direito a creditamento.
+Nesse contexto, alinha-se com a jurisprudência desta Corte Superior que tem entendimento firme no sentido de que as despesas com frete decorrente da transferência de produtos entre estabelecimentos da própria empresa não se enquadram no conceito de insumos, não gerando crédito para abatimento na base de cálculo da contribuição ao PIS e da COFINS.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESPESAS COM FRETE. TRANSFERÊNCIA INTERNA DE MERCADORIAS. CREDITAMENTO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Em relação à contribuição ao PIS e à COFINS, não originam crédito as despesas realizadas com frete para a transferência das mercadorias entre estabelecimentos da sociedade empresária.
+2. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no AREsp n. 2.081.417/AM, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PIS/COFINS. DESPESAS COM FRETE. TRANSFERÊNCIA INTERNA DE MERCADORIAS. CREDITAMENTO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM TESE JURÍDICA FIXADA EM JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. TEMA 779/STJ. PROVIMENTO NEGADO.
+1. A Primeira Seção do Superior Tribunal de Justiça (STJ), ao apreciar o Recurso Especial 1.221.170/PR (Tema 779/STJ), sob a sistemática do recurso repetitivo, consolidou a orientação de que, para fins do creditamento relativo à contribuição ao PIS e da COFINS, "o conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, ou seja, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo Contribuinte".
+2. O Tribunal de origem reconheceu que as despesas com frete decorrente da transferência de produtos entre estabelecimentos da própria empresa não se enquadravam no conceito de insumos, não gerando crédito para abatimento da base de cálculo da contribuição ao PIS e da COFINS, o que se alinha à orientação consolidada nesta Corte Superior em hipóteses análogas.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.410.624/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. DESPESAS COM FRETE. TRANSFERÊNCIA INTERNA DE MERCADORIAS. CREDITAMENTO. ILEGITIMIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS JULGADOS CONFRONTADOS. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual as despesas de frete somente geram crédito quando suportadas pelo vendedor nas hipóteses de venda ou revenda, revelando-se incabível reconhecer o direito de creditamento de despesas de frete relacionadas às transferências internas das mercadorias para estabelecimentos da mesma empresa.
+IV - Para a comprovação da divergência jurisprudencial, a parte deve proceder ao cotejo analítico entre os julgados confrontados, transcrevendo os trechos dos acórdãos os quais configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.978.258/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
