@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÕES NÃO EXAMINADAS E IMPRESCINDÍVEIS À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta ou manifestação insuficiente a respeito de questões deduzidas a tempo e modo pela embargante e imprescindível à solução do litígio viola o artigo 1.022, II, do CPC/2015.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por AGRAM SERVICOS PRODUCAO E COMERCIO AGRICOLAS LTDA, contra decisão assim ementada (fl. 1550):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGOS 489 E1.022 DO CPC/2015. OFENSAS CARACTERIZADAS. VÍCIOS NÃ SANADOS E IMPRESCINDÍVEIS À SOLUÇÃO DACONTROVÉRSIA. RECURSO ESPECIAL PROVIDO
+A parte agravante alega, buscando a reforma da decisão de fls. 1549-1551, que: denota-se que o Tribunal de Justiça do Estado de Minas Gerais analisou minuciosamente os temas apresentados pelas partes, utilizando-se dos fundamentos que entendeu suficientes a solucionar a controvérsia; o v. aresto expressamente estabeleceu que: matéria afeta a ilegitimidade é de ordem pública e está sujeita a análise a qualquer tempo, desde que ainda não cobertas pela coisa julgada. (..) A ilegitimidade ativa, cuja cognição deve ser exercida pelo magistrado de ofício, a qualquer tempo e grau de jurisdição, vez que capaz de comprometer o alcance do exame meritório. (..) E neste caso específico não se aplica a coisa julgada, eis que, a matéria não foi enfrentada quando posta a análise do então Desembargador Alberto Henrique no agravo de instrumento nº 1.0702.02, que fundamentou como preclusa a matéria sobre a ilegitimidade. Assim, como bem sabemos que a matéria de ordem pública não está coberta pela preclusão, entendemos que não houve coisa julgada em relação a preliminar, portanto podendo ser analisada (e-STJ fls. 1.111-1.112); e, ainda que não houvesse manifestação específica acerca de cada uma das suscitações apresentadas pelo então recorrente e ora agravado - o que não é o caso -, não é demais relembrar que, nos termos da sedimentada jurisprudência do STJ, o julgador não está obrigado a rebater, um a um, todos os pontos arguidos pela parte, quando encontrar motivos suficientes para resolver a controvérsia (AgInt no AREsp 1.708.233/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 28/9/2022), em especial quando irrelevantes ao deslinde do caso, como na espécie.
+No mais, apresenta razões pelas quais entende que o mérito recursal não merece conhecimento (Súmulas n. 7 do STJ e ns. 283 e 284 do STF).
+Com impugnações.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÕES NÃO EXAMINADAS E IMPRESCINDÍVEIS À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta ou manifestação insuficiente a respeito de questões deduzidas a tempo e modo pela embargante e imprescindível à solução do litígio viola o artigo 1.022, II, do CPC/2015.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o agravo interno conhecido não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, a despeito da oposição de embargos de declaração, o Tribunal de origem não se manifestou de forma satisfatória a respeito das seguintes questões, deduzidas nos aclaratórios, que se apresentam indispensáveis à solução da controvérsia: a) sub-rogação não é matéria de ordem pública; b) alcance da preclusão consumativa mesmo quando não enfrentada em gra u recursal; c) pronunciamento de outra forma de preclusão na espécie, qual seja, a preclusão , especialmente à luz da pro judicato interpretação do Superior Tribunal de Justiça sobre o artigo 505 do CPC; d) obscuridade, pois o acórdão embargado fez referência sobre uma exceção de pré-executividade que não encontra correspondência nos autos.
+Com efeito, evidencia-se que as questões suscitadas guardas correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindíveis à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1022, inc. II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+No caso, é essencial o novo pronunciamento da Corte de origem no pertinente aos pontos aduzidos a fim de que a prestação jurisdicional seja integral e efetiva.
+Nesse sentido:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. DEFICIÊNCIA RECURSAL. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. NULIDADE DA SENTENÇA. ERROR IN JUDICANDO. CORREÇÃO PELO TRIBUNAL DE ORIGEM. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. EMBARGOS DE DECLARAÇÃO. NOVO JULGAMENTO. NECESSIDADE. RETORNO DOS AUTOS À ORIGEM.
+ ..
+4. Consoante o princípio da devolutividade dos recursos, incumbe a Corte local manifestar-se acerca das matérias necessárias ao deslinde da controvérsia e que tenham sido submetidas à sua apreciação.
+5. O não enfrentamento, pela Corte de origem, de questões ventiladas nos aclaratórios e imprescindíveis à solução do litígio, implica violação do art. 1.022 do CPC.
+6. Recurso especial provido a fim de determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos declaratórios opostos. (AREsp n. 2.709.022/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
