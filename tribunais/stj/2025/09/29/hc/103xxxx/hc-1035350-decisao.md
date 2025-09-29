@@ -1,0 +1,20 @@
+DECISÃO
+CLAYTON CANDIDO POSSIDONIO e EVERTON NASCIMENTO POSSIDONIO alegam sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5000147-11.2024.8.24.0533).
+Consta dos autos que os pacientes foram condenados pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Neste writ, a defesa pede a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+O Juízo de primeiro grau entendeu pela não aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, nos seguintes termos (fls. 43, grifei):
+Por outro lado, inviável o reconhecimento da causa de diminuição de pena do tráfico privilegiado, uma vez que apesar de os acusados serem primários e não registrarem antecedentes criminais em seus desfavor, suas abordagens decorreram de informações pretéritas de que o veículo em estavam era utilizado para o tráfico de drogas e circulava frequentemente pela cidade de Brusque.
+Além disso, nos aparelhos celulares dos acusados Adriano e Clayton há conversas comercializando drogas, bem como o acusado Everton já foi condenado por tráfico de entorpecentes na cidade de Balneário Piçarras/SC, apesar de absolvido posteriormente pelo STJ em sede de habeas corpus.
+Importante destacar, ainda, que os policiais militares mencionaram que os denunciados Everton e Clayton são figuras conhecidas região onde residem por envolvimento no comércio ilegal de drogas.
+Tais circunstâncias denotam que a apreensão ora apurada não se trata de um caso isolado, mas que o tráfico de drogas vinha sendo realizado de forma habitual e reiterada pelos acusados, os quais faziam da venda espúria suas fontes de renda e sustento.
+O Tribunal de origem, por sua vez, negou provimento ao apelo, para manter a sentença condenatória.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, a instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, salientou que as abordagens dos acusados decorreram de informações pretéritas de que o veículo em que estavam era utilizado para o tráfico de drogas e circulava frequentemente pela cidade de Brusque; que os policiais relataram que eram figuras conhecidas na região onde residem por envolvimento no comércio ilegal de drogas e que nos aparelhos celulares dos acusados Adriano e Clayton há conversas comercializando drogas.
+Assim, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que os pacientes se dedicariam a atividades criminosas e/ou não integrariam organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência inviável em sede de habeas corpus.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
