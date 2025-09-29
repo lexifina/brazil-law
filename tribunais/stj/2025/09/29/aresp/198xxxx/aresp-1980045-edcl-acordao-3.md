@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. LOTEAMENTO. OBRIGAÇÃO DE FAZER. ARTS. 489, § 1º, E 1.022 DO CPC. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. SÚMULA N. 7 DO STJ. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. EMBARGOS REJEITADOS.
+1. Trata-se de embargos de declaração opostos contra acórdão que decidiu pelo não provimento do agravo interno no agravo em recurso especial, em ação civil pública relacionada a loteamento e obrigação de fazer.
+2. O objetivo recursal é decidir se o acórdão embargado contém omissão, contradição ou obscuridade quanto à negativa de prestação jurisdicional e a aplicação do óbice da Súmula n. 7 do STJ.
+3. Os embargos de declaração são cabíveis para sanar obscuridade, contradição, omissão ou erro material, conforme o art. 1.022 do CPC. No caso, não se verifica a presença de tais vícios no acórdão embargado.
+4. A jurisprudência do STJ estabelece que a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado. A omissão consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais.
+5. O acórdão embargado está plenamente fundamentado, não havendo omissão, contradição ou obscuridade. A pretensão do embargante desborda das hipóteses de cabimento dos aclaratórios, configurando mero inconformismo com a decisão.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por NORWAGEN -ADMINISTRACAO DE IMOVEIS LTDA. (NORWAGEN) contra acórdão desta Terceira Turma, que decidiu pelo não provimento do agravo interno no agravo em recurso especial.
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. LOTEAMENTO. OBRIGAÇÃO DE FAZER. ARTS. 489, § 1º, E 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. DENUNCIAÇÃO DA LIDE. REVISÃO. SÚMULA N. 7 DO STJ. RESPONSABILIDADE PELA OBRA DE INFRAESTRUTURA. MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO NÃO PROVIDO. 1. Inexistem os vícios elencados nos arts. 489 e 1022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando a rediscutir matéria que já foi analisada. 2. Aplica-se o óbice da Súmula n. 7 do STJ no que se refere à revisão do acórdão recorrido sobre a denunciação da lide. 3. A revisão das conclusões sobre a responsabilidade da agravante e a necessidade de denunciação da lide contra a HNB exigiria, inevitavelmente, a reavaliação do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado pelos óbices estabelecidos pelas Súmulas n. 5 e 7 do STJ. 4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos. 5. Agravo interno não provido. (e-STJ, fls. 3.495/3.496)
+Nas razões dos presentes aclaratórios, NORWAGEN apontou que o acordão teria omissão, contradição e obscuridade no tocante à negativa de prestação jurisdicional e quanto à afirmação de que se aplica ao caso o óbice da Súmula n. 7 do STJ.
+Houve apresentação de contraminuta por BRASIL DE IMÓVEIS E PARTICIPAÇÕES LTDA. (BRASIL) AGF DO BRASIL LTDA., PAULO MIGUEL MARRCINI e JOÃO CARLOS SANT"ANA (AGF e outros) e MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, pugnando pela rejeição dos embargos de declaração (e-STJ, fls. 3.556-3561, fls. 3.562-3.567 e fls. 3.572-3.583).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. LOTEAMENTO. OBRIGAÇÃO DE FAZER. ARTS. 489, § 1º, E 1.022 DO CPC. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. SÚMULA N. 7 DO STJ. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. EMBARGOS REJEITADOS.
+1. Trata-se de embargos de declaração opostos contra acórdão que decidiu pelo não provimento do agravo interno no agravo em recurso especial, em ação civil pública relacionada a loteamento e obrigação de fazer.
+2. O objetivo recursal é decidir se o acórdão embargado contém omissão, contradição ou obscuridade quanto à negativa de prestação jurisdicional e a aplicação do óbice da Súmula n. 7 do STJ.
+3. Os embargos de declaração são cabíveis para sanar obscuridade, contradição, omissão ou erro material, conforme o art. 1.022 do CPC. No caso, não se verifica a presença de tais vícios no acórdão embargado.
+4. A jurisprudência do STJ estabelece que a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado. A omissão consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais.
+5. O acórdão embargado está plenamente fundamentado, não havendo omissão, contradição ou obscuridade. A pretensão do embargante desborda das hipóteses de cabimento dos aclaratórios, configurando mero inconformismo com a decisão.
+6. Embargos de declaração rejeitados.
+VOTO
+Trata-se de embargos de declaração em que se discute a alegada omissão, contradição e obscuridade do acórdão embargado quanto à negativa de prestação jurisdicional pelo Tribunal estadual e quanto à afirmação de aplicação ao caso do óbice da Súmula n. 7 do STJ.
+Os embargos de declaração são cabíveis quando se afirmar que a decisão contém obscuridade, contradição, omissão ou erro material (art. 1.022, CPC).
+É um recurso de fundamentação vinculada, em que é de rigor que a parte aponte precisamente a existência de tais defeitos, porque é inadmissível recurso rotulado como embargos de declaração, mas com o fim de pedir reconsideração ou simples reexame da matéria decidida.
+No caso em tela, o acórdão embargado não padece de qualquer omissão ou contradição.
+Analisando os embargos de declaração de NORWAGEN, verifica-se que se trata de uma mera repetição dos mesmos argumentos apresentados em seus recursos anteriores, sem uma demonstração clara e precisa do que seria a omissão, a contradição ou mesmo a obscuridade.
+Tanto é assim que, ao alegar os deficiências existentes na decisão embargada, NORWAGEN traz as três possibilidades de vícios em conjunto sem fazer distinção entre elas.
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Há de se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório. Todas as matérias foram exaustivamente analisadas, e a irresignação não cuida, pois, de omissão; antes, refere-se a mero inconformismo com a decisão que chegou a conclusão diversa daquela esperada pelo embargante.
+Portanto, não há omissão, mas sim uma análise desfavorável ao embargante.
+Dessa forma, a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.524.835/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.427.815/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 17/2/2020, DJe 20/2/2020 -sem destaques no original)
+Em suma, o acórdão embargado está plenamente fundamentado e não padece de qualquer vício previsto no art. 1.022 do CPC, e a pretensão do embargante desborda das hipóteses de cabimento dos aclaratórios, sendo forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Nessas condições REJEITO os embargos de declaração de NORWAGEN -ADMINISTRACAO DE IMOVEIS LTDA .
+É o voto.
+Por oportuno, advirto que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação à penalidade prevista no art. 1.026, § 2º, do CPC.
