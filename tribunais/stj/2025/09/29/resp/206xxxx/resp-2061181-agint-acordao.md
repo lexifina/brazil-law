@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. REINTEGRAÇÃO DE POSSE. NULIDADE DE SENTENÇA EM AÇÃO DE USUCAPIÃO. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que não conheceu de recurso especial, em razão da aplicação da Súmula n. 7 do STJ, que veda o reexame de fatos e provas.
+2. A parte agravante sustenta que a decisão agravada incorreu em erro ao aplicar a Súmula n. 7 do STJ, alegando que a análise das questões apresentadas no recurso especial não demandaria reexame de fatos e provas. Argumenta que houve violação a dispositivos do Código de Processo Civil e do Código Civil, além de ausência de fundamentação quanto à análise da prejudicial externa e da nulidade da sentença de usucapião.
+3. Os agravados, em contrarrazões, defendem que a decisão agravada está em consonância com a jurisprudência consolidada do STJ e que o agravo interno possui caráter meramente protelatório.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a aplicação da Súmula n. 7 do STJ foi correta, considerando que a análise das questões apresentadas no recurso especial demandaria reexame de fatos e provas; e (ii) saber se a nulidade da sentença proferida na ação de usucapião, alegada pela agravante, poderia ser analisada neste momento processual, considerando a existência de ação autônoma de querela nullitatis pendente de julgamento.
+III. Razões de decidir
+5. A aplicação da Súmula n. 7 do STJ foi correta, pois a análise das questões apresentadas no recurso especial demandaria reexame de fatos e provas, procedimento vedado em sede de recurso especial.
+6. A Corte estadual, soberana na análise do conjunto fático-probatório, concluiu que os requisitos para a reintegração de posse foram devidamente comprovados pelos autores, sendo a posse anterior o fundamento do julgado.
+7. A alegação de nulidade absoluta da sentença proferida na ação de usucapião não impõe, por si só, a suspensão ou anulação do presente feito, especialmente porque, segundo a Corte de origem a tese de prejudicialidade externa não foi articulada no momento oportuno e que isso representaria indevida supressão de instância e inovação recursal. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+8. A incidência da Súmula n. 7 do STJ também obsta o conhecimento do recurso pela alínea c do permissivo constitucional, pois sem a possibilidade de reexaminar as provas para aferir a similitude fática entre o caso concreto e os paradigmas apresentados, torna-se inviável o cotejo analítico necessário para a demonstração da divergência jurisprudencial.
+IV. Dispositivo e tese
+9. Agravo interno desprovido.
+Tese de julgamento: 1. A aplicação da Súmula n. 7 do STJ veda o reexame de fatos e provas em sede de recurso especial. 2. A alegação de nulidade absoluta da sentença proferida em ação de usucapião não impõe, por si só, a suspensão ou anulação de feito relacionado à reintegração de posse, especialmente quando a tese de prejudicialidade externa não foi articulada no momento oportuno. 3. A incidência da Súmula n. 7 do STJ obsta o conhecimento do recurso especial pela alínea c do permissivo constitucional, quando a análise do dissídio jurisprudencial depende de reexame de fatos e provas.
+Dispositivos relevantes citados: CPC, arts. 313, V, a, 561, 1.022; CC, arts. 548, 549, 1.831; CF/1988, art. 93, IX.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.781.983/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9.6.2025; STJ, AREsp n. 2.758.843/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23.6.2025; STJ, AgInt no AREsp n. 2.383.273/AM, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30.10.2023.
+RELATÓRIO
+Trata-se de agravo interno interposto por ADRIANA NOGUEIRA DOS SANTOS contra a decisão de fls. 1.438-1.443, que não conheceu do recurso especial.
+A parte agravante alega que a decisão agravada incorreu em erro ao aplicar a Súmula n. 7 do STJ, pois a análise das questões apresentadas no recurso especial não demandaria reexame de fatos e provas.
+Sustenta que houve violação dos arts. 6º, 313, V, a, 371, 489, caput, § 1º, III, IV, 561, 1.022, caput, I e II, parágrafo único, do CPC, e aos arts. 548, 549 e 1.831 do Código Civil, argumentando que a decisão se baseou em uma renúncia feita em audiência de instrução e julgamento da ação de usucapião, renúncia esta eivada de nulidade absoluta, pois não estava devidamente representada por advogado.
+Afirma que a sentença da ação de usucapião é nula e que a renúncia comprometeu seus direitos possessórios sobre o imóvel.
+Alega ainda que o Tribunal de origem deixou de analisar matéria de ordem pública, consistente na nulidade absoluta decorrente da renúncia, que pode ser arguida a qualquer tempo.
+Sustenta que a decisão agravada desconsiderou a necessidade de análise da prejudicial externa, prevista no art. 313, V, a, do CPC, uma vez que há ação de querela nullitatis pendente de julgamento, buscando anular a sentença da ação de usucapião.
+Argumenta que a reintegração de posse foi concedida com base em prova de propriedade, o que seria inadequado, pois a discussão deveria se restringir à posse, conforme entendimento do STJ no AgInt no REsp n. 1.588.608/TO.
+Afirma que a decisão agravada violou o art. 93, IX, da Constituição Federal, por ausência de fundamentação quanto à análise da prejudicial externa e da nulidade da sentença de usucapião.
+Requer o provimento do agravo interno para que seja reformada a decisão monocrática, afastando-se a aplicação da Súmula n. 7 do STJ, e determinando-se o regular processamento do recurso especial.
+Nas contrarrazões, os agravados aduzem que a decisão agravada está em consonância com a jurisprudência consolidada do STJ, especialmente no que tange à aplicação da Súmula n. 7 do STJ, que veda o reexame de fatos e provas em sede de recurso especial. Sustentam que a agravante não trouxe elementos novos ou argumentos suficientes para justificar a reforma da decisão monocrática e que o agravo interno possui caráter meramente protelatório (fls. 1.467-1.473).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. REINTEGRAÇÃO DE POSSE. NULIDADE DE SENTENÇA EM AÇÃO DE USUCAPIÃO. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que não conheceu de recurso especial, em razão da aplicação da Súmula n. 7 do STJ, que veda o reexame de fatos e provas.
+2. A parte agravante sustenta que a decisão agravada incorreu em erro ao aplicar a Súmula n. 7 do STJ, alegando que a análise das questões apresentadas no recurso especial não demandaria reexame de fatos e provas. Argumenta que houve violação a dispositivos do Código de Processo Civil e do Código Civil, além de ausência de fundamentação quanto à análise da prejudicial externa e da nulidade da sentença de usucapião.
+3. Os agravados, em contrarrazões, defendem que a decisão agravada está em consonância com a jurisprudência consolidada do STJ e que o agravo interno possui caráter meramente protelatório.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a aplicação da Súmula n. 7 do STJ foi correta, considerando que a análise das questões apresentadas no recurso especial demandaria reexame de fatos e provas; e (ii) saber se a nulidade da sentença proferida na ação de usucapião, alegada pela agravante, poderia ser analisada neste momento processual, considerando a existência de ação autônoma de querela nullitatis pendente de julgamento.
+III. Razões de decidir
+5. A aplicação da Súmula n. 7 do STJ foi correta, pois a análise das questões apresentadas no recurso especial demandaria reexame de fatos e provas, procedimento vedado em sede de recurso especial.
+6. A Corte estadual, soberana na análise do conjunto fático-probatório, concluiu que os requisitos para a reintegração de posse foram devidamente comprovados pelos autores, sendo a posse anterior o fundamento do julgado.
+7. A alegação de nulidade absoluta da sentença proferida na ação de usucapião não impõe, por si só, a suspensão ou anulação do presente feito, especialmente porque, segundo a Corte de origem a tese de prejudicialidade externa não foi articulada no momento oportuno e que isso representaria indevida supressão de instância e inovação recursal. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+8. A incidência da Súmula n. 7 do STJ também obsta o conhecimento do recurso pela alínea c do permissivo constitucional, pois sem a possibilidade de reexaminar as provas para aferir a similitude fática entre o caso concreto e os paradigmas apresentados, torna-se inviável o cotejo analítico necessário para a demonstração da divergência jurisprudencial.
+IV. Dispositivo e tese
+9. Agravo interno desprovido.
+Tese de julgamento: 1. A aplicação da Súmula n. 7 do STJ veda o reexame de fatos e provas em sede de recurso especial. 2. A alegação de nulidade absoluta da sentença proferida em ação de usucapião não impõe, por si só, a suspensão ou anulação de feito relacionado à reintegração de posse, especialmente quando a tese de prejudicialidade externa não foi articulada no momento oportuno. 3. A incidência da Súmula n. 7 do STJ obsta o conhecimento do recurso especial pela alínea c do permissivo constitucional, quando a análise do dissídio jurisprudencial depende de reexame de fatos e provas.
+Dispositivos relevantes citados: CPC, arts. 313, V, a, 561, 1.022; CC, arts. 548, 549, 1.831; CF/1988, art. 93, IX.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.781.983/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9.6.2025; STJ, AREsp n. 2.758.843/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23.6.2025; STJ, AgInt no AREsp n. 2.383.273/AM, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30.10.2023.
+VOTO
+A irresignação não merece prosperar, devendo a decisão monocrática ser mantida por seus próprios fundamentos.
+Registre-se que o ponto central da decisão monocrática recorrida reside na correta aplicação da Súmula n. 7 do STJ, óbice que impede a análise do mérito do recurso especial.
+No caso, a Corte estadual, soberana na análise do conjunto fático-probatório, concluiu que os requisitos para a reintegração de posse foram devidamente comprovados pelos autores, ora agravados.
+Aliás, a decisão agravada destacou que "o Tribunal de Justiça de Minas Gerais concluiu que os embargados, ora recorridos, comprovaram a posse anterior necessária para justificar o pedido de reintegração, e que o esbulho foi comprovado pela negativa de entrega do bem após notificação" (fl. 1.441).
+Desconstituir essa premissa exigiria, inevitavelmente, a reanálise nos elementos de prova dos autos, procedimento vedado em sede de recurso especial.
+O que se observa, portanto, é que a agravante tenta, sem sucesso, qualificar a discussão como sendo de puro direito, ao argumentar que a reintegração de posse teria sido deferida com base exclusiva no domínio, e não na posse.
+Todavia, a análise do acórdão recorrido, conforme bem ressaltado na decisão monocrática, revela que o Tribunal a quo reconheceu a existência de posse anterior, ainda que indireta, derivada dos direitos de propriedade adquiridos por usucapião.
+Infere-se do acórdão do recurso de apelação que o pronunciamento foi explícito ao afirmar que "provada a posse anterior, impõe-se a analise dos demais requisitos do pedido reintegratório" e que "a residência jamais integrou o patrimônio do de cujus" (fl. 1.442), o que demonstra que a questão possessória foi o alicerce do julgado, sendo a sua verificação uma questão de fato, e não de direito,
+Ademais, no tocante à arguição de nulidade absoluta da sentença proferida na ação de usucapião, a qual constituiria matéria de ordem pública, a decisão monocrática também se mostra irretocável.
+Registre-se que a existência de uma ação anulatória autônoma para discutir tal vício não impõe, por si só, a suspensão ou a anulação do presente feito.
+Destaque-se ainda que o acórdão do Tribunal de origem observou que a tese de prejudicialidade externa não fora articulada no momento oportuno, de modo que sua análise, neste momento processual, além de depender de fatos ali discutidos, representaria uma indevida supressão de instância e inovação recursal. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial.
+Mantenho, pois, a aplicação da Súmula n. 7 do STJ.
+Nesse contexto, cito o seguinte julgado: AgInt no AREs p n. 2.781.983/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.
+Por fim, destaque-se que a incidência da Súmula n. 7 do STJ também obsta o conhecimento do recurso pela alínea c do permissivo constitucional. Conforme jurisprudência pacífica desta Corte, a análise do dissídio jurisprudencial fica prejudicada quando a tese jurídica invocada diverge da conclusão do acórdão recorrido, que se baseou em pressupostos fáticos.
+Isso porque, sem a possibilidade de reexaminar as provas para aferir a similitude fática entre o caso concreto e os paradigmas apresentados, torna-se inviável o cotejo analítico necessário para a demonstração da divergência.
+Cito, pois, os seguintes julgados: AREsp n. 2.758.843/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025 e AgInt no AREsp n. 2.383.273/AM, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.
+Mantenho, pois, a decisão monocrática impugnada, porquanto a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada, uma vez que não há argumentos capazes de infirmar a correção da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
