@@ -1,0 +1,17 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao recurso extraordinário, assim ementada (fl. 1.606):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte embargante alega omissão no julgado tendo em conta que não teria analisado o pedido de concessão de gratuidade de justiça em sua integralidade, eis que o deferimento da benesse limitou-se ao preparo do recurso extraordinário.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+É o relatório.
+2. O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, é inviável o acolhimento da pretensão recursal, porquanto constata-se não haver omissão pois devidamente apreciado e deferido o pedido de gratuidade de justiça para isentar a parte das custas referentes à interposição do recurso extraordinário, conforme se depreende da decisão de fls. 1.606-1.609, garantindo, assim, o direito de petição e de ampla defesa.
+Nos termos preceituados pelo art. 98, § 5º, do Código de Processo Civil, a gratuidade da justiça poderá ser concedida para a prática de apenas um determinado ato processual.
+Ademais, esclareço que é pacífico no Superior Tribunal de Justiça o entendimento de que, embora o benefício possa ser pleiteado a qualquer tempo, caso deferido, produz efeitos ex nunc, não retroagindo para alcançar atos pretéritos. Nesse sentido: AREsp n. 2.849.808/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025; REsp n. 2.197.157/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 31/3/2025, DJEN de 3/4/2025. Idêntica orientação é extraída da jurisprudência do Supremo Tribunal Federal: ARE n. 1.479.636 ED-AgR-EDv-AgR, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 14/4/2025, DJe de 25/4/2025; e ARE n. 1.458.615 AgR-ED, relator Ministro Luís Roberto Barroso (Presidente), Tribunal Pleno, julgado em 26/2/2024, DJe de 7/3/2024.
+Assim, conforme consignado na decisão embargada , o deferimento do pedido de gratuidade de justiça abrange apenas as custas para a interposição do recurso extraordinário, não possuindo efeito retroativo, como pretendido.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a questão, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+3. Ante o exposto, com fundamento no art. 22, § 2º, I, a, do Regimento Interno do STJ, rejeito os embargos de declaração.
+Advirto à parte embargante que a reiteração de embargos de declaração dessa natureza pode ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. GRATUIDADE DE JUSTIÇA. DEFERIMENTO. VÍCIO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DA QUESTÃO. INADEQUAÇÃO.
