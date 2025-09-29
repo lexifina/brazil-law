@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito civil. Recurso especial. Prescrição. Seguro habitacional. princípio da dialeticidade recursal. impugnação de todos fundamentos. inocorrência. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 3ª Região que negou provimento à apelação do recorrente, mantendo a sentença que condenou a Caixa Seguradora S.A. a pagar à Caixa Econômica Federal o valor do seguro a que tem direito o recorrente, em decorrência de sua aposentadoria por invalidez, apenas a partir de março de 2010.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o prazo prescricional para a devolução dos valores pagos a título de prêmio do seguro habitacional é de 5 anos, conforme o art. 206, § 5º, inciso I, do Código Civil, ou se aplica o prazo ânuo previsto no art. 206, § 1º, II, "b", do Código Civil.
+III. Razões de decidir
+3. O recorrente não atacou o fundamento do acórdão recorrido que aplicou o prazo ânuo de prescrição para contratos de seguro, conforme o art. 206, § 1º, II, "b", do Código Civil.
+4. A transgressão ao princípio da dialeticidade recursal justifica a aplicação da Súmula n. 283/STF, que impede o recurso extraordinário quando a decisão recorrida se baseia em mais de um fundamento suficiente e o recurso não abrange todos eles.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Recurso especial não conhecido.
+Tese de julgamento:
+1. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283/STF.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por ALTEMAR VINCOLETO, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO nos autos da ação de indenização movida contra CAIXA ECONÔMICA FEDERAL e CAIXA SEGURADORA S.A.
+O acórdão negou provimento à apelação do recorrente, mantendo a sentença que condenou a Caixa Seguradora S.A a pagar à Caixa Econômica Federal o valor do seguro a que tem direito o recorrente, em decorrência de sua aposentadoria por invalidez, apenas a partir de março de 2010 nos termos da seguinte ementa (fls. 583):
+PROCESSO CIVIL. APELAÇÃO. CIVIL. SEGURO PESSOAL. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE TOTAL E PERMANENTE COMPROVADA. APELAÇÕES IMPROVIDAS. I - A concessão do benefício previdenciário aposentadoria por invalidez tem entre seus requisitos precisamente a incapacidade total e permanente do segurado, sua constatação pressupõe a existência de processo administrativo ou judicial nos quais a autarquia previdenciária ou o Poder Judiciário tem a oportunidade de avaliar as provas apresentadas, bem como a oportunidade de determinar a produção de prova pericial, levando em consideração fatores socioeconômicos como o grau de instrução do segurado para fundamentar a decisão que reconhece o direito em questão. Deste modo, o ato que concede o benefício previdenciário é documentado e dotado de fé pública, podendo inclusive ser protegido pelos efeitos da coisa julgada quando reconhecido por via judicial. II - Por esta razão, nestas condições, existindo reconhecimento público da incapacidade total e permanente da parte Autora, é de todo desnecessária a realização de nova prova pericial. Se a hipótese de ocorrência do sinistro tem requisitos coincidentes ao do benefício previdenciário já concedido, sua configuração resta presumida, sendo ônus do interessado, pelas vias adequadas, arguir e provar eventual ilicitude ou nova configuração fática que comine sua validade ou sua eficácia no que diz respeito às hipóteses em questão. III - Com base na prova produzida em ação previdenciária e reproduzida nos presentes autos, o pedido do autor foi acolhido, dando causa à expedição de Carta de Concessão da Aposentadoria por Invalidez (ID 135988830, 100 de 134), o benefício foi requerido em 08/04/2010, concedido com vigência a partir de 20/06/2007, e pagamento a partir de 27/04/2010. III - A despeito da perícia produzida nos autos ter concluído pela existência de incapacidade parcial permanente, apontando ainda a possibilidade de sua readaptação para o exercício de outro tipo de atividade laboral (ID 135988933, 31 de 117), a perícia produzida no âmbito da ação de natureza previdenciária levou em consideração as condições pessoais do autor, mecânico de caminhões com segundo grau completo que à época tinha 40 anos de idade. IV - Cumpre destacar que a própria seguradora fez alusão ao gozo de auxílio doença para negar o pedido do autor na esfera administrativa (ID 135988830, 84 de 134), o que denota seu reconhecimento tácito de que os critérios de concessão da aposentadoria por invalidez coincidem com os critérios para a cobertura securitária requerida. V - Nestas condições, torna-se inquestionável a configuração do sinistro pela incapacidade total e permanente. Não merece reforma a decisão ao determinar a restituição dos valores pagos a título de prêmio desde então, sem prejuízo de que os valores em questão possam ser abatidos de saldo devedor eventualmente subsistente após a cobertura requerida. Eventuais divergências quanto à responsabilidade pela condenação entre as corrés deverá ser objeto de ação própria. VI - Quanto ao pedido da parte Autora, caso fosse reconhecido como termo inicial para a ciência inequívoca da invalidez permanente o ano de 2002 ou de 2007, seu direito restaria prescrito, já que a presente ação só foi ajuizada 03/02/2011. VII - Apelações improvidas.
+Opostos embargos de declaração, foram rejeitados (fls. 613-619).
+No presente recurso especial, o recorrente alega violação ao art. 206, § 5º, inciso I, do Código Civil, sustentando, em síntese, que não houve prescrição do direito à devolução das parcelas pagas desde 2006 (fls. 631-636).
+Postularam o provimento do recurso especial.
+Foram apresentadas contrarrazões (fls. 672-680), sobreveio o juízo de admissibilidade negativo da instância de origem, por ausência de prequestionamento implícito (fls. 685-686).
+Interposto agravo em recurso especial (fls. 702-705).
+Em decisão de fls. 743-744, conheceu-se do agravo para determinar a sua reautuação como recurso especial, para melhor apreciação da controvérsia.
+É, no essencial, o relatório.
+EMENTA
+Direito civil. Recurso especial. Prescrição. Seguro habitacional. princípio da dialeticidade recursal. impugnação de todos fundamentos. inocorrência. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal Regional Federal da 3ª Região que negou provimento à apelação do recorrente, mantendo a sentença que condenou a Caixa Seguradora S.A. a pagar à Caixa Econômica Federal o valor do seguro a que tem direito o recorrente, em decorrência de sua aposentadoria por invalidez, apenas a partir de março de 2010.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o prazo prescricional para a devolução dos valores pagos a título de prêmio do seguro habitacional é de 5 anos, conforme o art. 206, § 5º, inciso I, do Código Civil, ou se aplica o prazo ânuo previsto no art. 206, § 1º, II, "b", do Código Civil.
+III. Razões de decidir
+3. O recorrente não atacou o fundamento do acórdão recorrido que aplicou o prazo ânuo de prescrição para contratos de seguro, conforme o art. 206, § 1º, II, "b", do Código Civil.
+4. A transgressão ao princípio da dialeticidade recursal justifica a aplicação da Súmula n. 283/STF, que impede o recurso extraordinário quando a decisão recorrida se baseia em mais de um fundamento suficiente e o recurso não abrange todos eles.
+IV. Dispositivo e tese
+6. Resultado do Julgamento: Recurso especial não conhecido.
+Tese de julgamento:
+1. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283/STF.
+VOTO
+O EXMO. SR. MINISTRO HUMBERT O MARTINS (relator):
+A tese principal do recorrente centra-se na alegação de que não houve prescrição do direito à devolução dos valores pagos a título de prêmio do seguro habitacional, em razão de sua invalidez permanente.
+Sustenta que, conforme o art. 206, § 5º, inciso I, do Código Civil, o prazo prescricional aplicável ao caso é de 05 anos. Argumenta que, embora a aposentadoria por invalidez tenha sido decretada em 2010, a data de concessão foi fixada em 20 de junho de 2007, e desde então o aposentado passou a receber o benefício previdenciário correspondente. Assim, o termo inicial para a contagem do prazo prescricional deve ser a data de ajuizamento da ação, em 03 de fevereiro de 2011, o que garantiria o direito à devolução dos valores pagos desde fevereiro de 2006, sem que tenha ocorrido prescrição.
+Ao final, postula o provimento do recurso especial para reformar o acórdão de origem e reconhecer que, no período de fevereiro de 2006 a fevereiro de 2011, não há incidência de prescrição, garantindo assim a devolução dos valores pagos durante esse intervalo de tempo.
+Todavia, embora essa matéria tenha sido debatida (prequestionamento), o recorrente, em nenhum momento, atacou o fundamento focal do acórdão recorrido, no sentido de que não se aplica ao caso a prescrição quinquenal prevista no art. 206, § 5º, I do CC, "quando há previsão específica de prazo ânuo que rege os contratos de seguro, nos termos do art. 206, § 1º, II, "b" do CC". (fl. 617).
+Com efeito, em seu recurso especial, o recorrente sequer menciona o prazo ânuo de prescrição de contratos de seguro, preconizado no art. 206, § 1º, inciso II, alínea "b", do Código Civil, tampouco apresenta argumentos para afastar a sua aplicação ao caso em tela.
+À vista disso, incorre o recorrente em transgressão ao princípio da dialeticidade recursal, incidindo ao caso a Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Com efeito, "a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal" (STJ, AgInt no REsp n. 1.912.329/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 17/2/2023).
+Ante o exposto, não conheço do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba pelo juízo de origem.
+É como penso. É como voto.
