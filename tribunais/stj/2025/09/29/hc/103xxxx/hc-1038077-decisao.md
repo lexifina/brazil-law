@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de TATIANA ABRANTES SILVA , em que se aponta como autoridade coatora o Desembargador Relator da Décima Quarta Câmara de Direito Criminal do Tribunal de Justiça de Minas Gerais (HC n. 2306145-91.2025.8.26.0000).
+Na peça, a defesa informa que a paciente foi presa em flagrante em 1º/2/2025, tendo sido homologada a prisão e concedida liberdade provisória com medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal (fls. 25/30). Posteriormente, sobreveio decreto de prisão preventiva, fundamentado em suposta "mudança de endereço sem comunicar ao juízo", com base em certidão de oficial de justiça (imóvel fechado em duas diligências) e em citação por edital (fls. 39/40).
+Alega-se, em síntese: a) ausência de fundamento concreto para a preventiva, porquanto lastreada em presunção de fuga sem dados objetivos de risco ao processo, em afronta ao art. 312 do Código de Processo Penal (fl. 3); b) violação do princípio da subsidiariedade das cautelares penais (arts. 282, § 6º, e 319 do Código de Processo Penal); c) condição materna da paciente, mãe de criança de 10 anos, impondo, como regra, a substituição por prisão domiciliar, ausentes exceções (arts. 318, V, e 318-A do Código de Processo Penal; art. 227 da Constituição Federal (fl. 4); e d) desproporcionalidade da medida extrema, considerando a primariedade e a pequena quantidade de droga (61 g de maconha), com orientação das Cortes Superiores no sentido de vedar decretos genéricos (fl. 4).
+Requer-se, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, restabelecendo ou ajustando as cautelares já fixadas; pugnando-se, ainda, pelo reconhecimento da invalidade do rótulo de "mudança de endereço", com determinação para que futuras intimações observem diligências razoáveis (fl. 4/5).
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração de mandamus contra decisão indeferitória de providência liminar prolatada em feito da mesma natureza.
+Na espécie, não percebo a existência de nenhuma excepcionalidade a justificar a superação desse entendimento. Ao menos em uma análise preliminar - a teor dos elementos de convicção coligidos aos autos -, o decisum atacado não pode ser apontado como teratológico.
+Assim, não tem cabimento a prematura análise da temática suscitada aqui, antes da análise do mérito do habeas corpus pelo Tribunal a quo.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS CONTRA O INDEFERIMENTO DE PEDIDO LIMINAR EM PRÉVIO MANDAMUS. INCIDÊNCIA DA SÚMULA 691/STF. TRÁFICO DE DROGAS. PRISÃO CAUTELAR. AUSENTE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
