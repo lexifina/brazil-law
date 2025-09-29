@@ -1,0 +1,13 @@
+DECISÃO
+Examinam-se recursos especiais interpostos por AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A. e por H L G (MENOR), representado por M A G S, fundamentados -respectivamente - na alínea "a" e nas alíneas "a" e "c" do permissivo constitucional, nos quais se discutem - dentre outras matérias - questões relativas à:
+i) obrigação de cobertura, pela operadora do plano de saúde, de terapias multidisciplinares prescritas para o tratamento do beneficiário, portador de transtorno global de desenvolvimento;
+ii) obrigação de a operadora de plano de saúde custear ou reembolsar despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada e sua respectiva extensão, nas hipóteses de insuficiência da rede credenciada ou de urgência ou emergência; e
+iii) (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto aos pressupostos fáticos que permitem o custeio ou reembolso parcial ou integral, pelo plano de saúde, das despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada.
+As questões de direito foram afetadas para julgamento sob o rito dos recursos repetitivos (respectivamente, Temas 1.295 e 1.375).
+Na ocasião, a Segunda Seção, considerando que a questão jurídica referente ao Tema 1295 envolve o oferecimento de tratamentos reputados necessários a pacientes com transtorno global do desenvolvimento, decidiu não ser recomendável a suspensão dos processos em tramitação nas instâncias ordinárias, senão os recursos especiais e os agravos em recurso especial que discorram sobre idêntica questão jurídica.
+Necessário salientar que, em relação à suspensão dos processos, o mesmo raciocínio fora aplicado para o Tema 1.375 (reembolso).
+Nessa toada, impõe-se a suspensão dos presentes recursos perante o TJ/PB, até a publicação dos acórdãos paradigmas, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental nº 24, de 28/09/2016, sem prejuízo de que o Juízo de segundo grau de jurisdição possa examinar eventual tutela provisória requerida para assegurar o tratamento multidisciplinar pleiteado, enquanto pendente o julgamento destes especiais.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, os recursos especiais deverão ser analisados na forma prevista nos arts. 1.040 e 1.041 do CPC.
+Forte nessas razões, DETERMINO a devolução dos autos ao Juízo de segundo grau de jurisdição, com a devida baixa nesta Corte, para que permaneçam suspensos os recursos até a publicação dos acórdãos paradigmas, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
