@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ARTUR CELSO FONSECA contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 597):
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ESPÓLIO. FIM DO INVENTÁRIO. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE INTERESSE RECURSAL. REEXAME DE FATOS EPROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 494-502):
+AGRAVO DE INSTRUMENTO - EXEÇÃO DE PRÉ- EXECUTIVIDADE - ILEGITIMIDADE PASSIVA - SUBSTITUIÇÃO PROCESSUAL - RECURSO DESTINADO A OBSTAR OS ATOS EXECUTIVOS EM FACE DOS SUBSTITUTOS PROCESSUAIS - IMPOSSIBILIDADE - NÃO CONHECIMENTO. - Consoante disposição contida no art. 6º do Código de Processo Civil/73 (art. 18 do NCPC), ninguém pode, em nome próprio, demandar por direito alheio. - Não há como conhecer do recurso interposto pela parte considerada ilegítima para responder pelo cumprimento de sentença em trâmite na origem, notadamente se sua insurgência recursal visa promover a defesa daqueles que serão chamados a compor a lide por intermédio da substituição processual.
+Rejeitados os embargos de declaração opostos (fls. 518-523).
+Nas razões do agravo interno, alega o agravante que não há deficiência na fundamentação, pois o recurso especial enfrentou diretamente a ratio decidendi do acórdão recorrido, qual seja: (a) a ilegitimidade do espólio após o encerramento do inventário; (b) a substituição processual pelos herdeiros; e (c) o prosseguimento dos atos executivos, pretensamente sem a prévia regularização dos sucessores.
+Aduz que as questões federais foram ventiladas nos embargos de declaração e que o prequestionamento pode ser implícito, mesmo sem menção expressa aos dispositivos, desde que as teses tenham sido debatidas.
+Ressalta que, à luz do artigo 1.022 do CPC/2015, a rejeição de embargos de declaração sem enfrentar pontos relevantes pode configurar negativa de prestação jurisdicional, citando precedentes nos REsp n. 1.862.385/SE (rel. Ministro Mauro Campbell Marques) e REsp n. 1.844.941/SC (rel. Ministro Herman Benjamin), como fundamento para eventual retorno dos autos à origem .
+Afirma, ainda, a inaplicabilidade da Súmula n. 283/STF. Sustenta que o acórdão recorrido não se apoiou em múltiplos fundamentos autônomos, e que há um único eixo decisório - a ilegitimidade do espólio após o encerramento do inventário - do qual decorrem as consequências lógicas: substituição processual pelos herdeiros e prosseguimento dos atos executivos. Afirma que o recurso especial impugnou especificamente esse fundamento nuclear, o que afastaria a incidência do verbete (fls. 616-617).
+Argumenta que o conhecimento por dissídio jurisprudencial (alínea c) é autônomo em relação à alínea a, não devendo ser inviabilizado por arrastamento quando o recorrente cumpre os requisitos próprios: similitude fático-jurídica, oposição de teses sobre a mesma norma federal e cotejo analítico.
+Defende que o debate sobre a multa aplicada por embargos tidos como protelatórios demanda apenas enquadramento jurídico aos critérios do artigo 1.026, § 2º, do CPC/2015, sem revolvimento do conjunto probatório, o que afastaria o óbice da Súmula n. 7/STJ.
+Ao final, requer a reconsideração da decisão monocrática e o provimento integral do agravo em recurso especial.
+A agravada apresentou contraminuta (fls. 626-638).
+É, no essencial, o relatório.
+Após atenta análise dos autos, verifica-se que assiste razão ao agravante quanto à não incidência dos óbices nas Súmulas n. 211 do Superior Tribunal de Justiça e das Súmulas 283 e 284 do Supremo Tribunal Federal.
+Ante o exposto, torno sem efeito a decisão de fls. 597-604 e julgo prejudicado o agravo interno.
+Determino a autuação do agravo como recurso especial, nos termos do art. 34, XVI, do RISTJ, para melhor exame da matéria, sem prejuízo de futuro reexame dos pressupostos de admissibilidade recursal.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
