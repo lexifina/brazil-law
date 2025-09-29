@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO CIVIL E PROCESSUAL CIVIL.  AÇÃO  ORDINÁRIA. PLANO DE SAÚDE.  FORNECIMENTO DE PRÓTESE. MEMBRO AMPUTADO. NEGATIVA. PREQUISITOS CONTRATUAIS. PREENCHIMENTO.  NECESSIDADE.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  Na  hipótese,  acolher  a  tese  pleiteada  pela  parte  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  JOHN EDUARDO PADARATZ  contra  a  decisão  que  inadmitiu  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  art.  105,  III,  alíneas  "a" e "c",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  do Rio Grande do Sul  assim  ementado:
+"APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. PRÓTESE PARA AMPUTAÇÃO DE MEMBRO INFERIOR. NEGATIVA DE COBERTURA. O ARTIGO 10, INCISO VII, DA LEI N.º 9.656/98 É CATEGÓRICO QUANTO À EXCLUSÃO DE COBERTURA DE ÓRTESES, PRÓTESES E ACESSÓRIO QUE NÃO ESTEJAM LIGADOS À ATO CIRÚRGICO, COMO NA HIPÓTESE DA POSTULADA PELA PARTE AUTORA, O QUE TORNA DESCABIDA A PRETENSÃO DE COMPELIR A OPERADORA DE SAÚDE RÉ A CUSTEAR. OBSERVÂNCIA DA RESOLUÇÃO NORMATIVA Nº 465/2021. APELO NÃO PROVIDO."  (e-STJ  fl. 241).
+No  recurso  especial,  o  recorrente  alega, além de divergência jurisprudencial,  violação  do  art. 10, VII, da Lei nº 9.656/1998, pois  "(..)  a amputação de um membro do corpo faz surgir, no consumidor, a necessidade de substituição daquele membro como forma de preservação da saúde e manutenção da qualidade de vida." (e-STJ fl. 251).
+Sustenta, ademais, que,
+"(..) se há laudo que indica o ganho de funcionalidade, este elemento é suficiente para afastar a literalidade da restrição interpretativa do art. 10, VII, da L. 9.656/98.
+21. Afinal, se um médico indicou a necessidade de prótese, não cabe ao plano recusá-lo, sob pena de frustrar os fins do Plano de Saúde, que é dar cobertura a eventos que sejam indispensáveis para a saúde do segurado.
+22. Aqui, cabe a ressalva de que a recusa à cobertura com base em cláusula contratual é meramente um reflexo da incidência da Lei, cuja interpretação não pode ser restritiva quando a finalidade da prótese tem fundamento médico.
+23. É, enfim, o médico quem detém as melhores condições de indicar o melhor tratamento ao paciente, e não a operadora do plano de saúde.
+24. Assim, a intepretação da norma debatida é de ser lida com certa abrangência, porque tal dispositivo não refere que estar ligado ao ato cirúrgico tenha qualquer relação a ser colocado ou não com cirurgia, mas sim que haja uma relação de interdependência entre a prótese a ser custeada e a cirurgia realizada.
+25. Assim, se o plano cobre as doenças e até mesmo a cirurgia de amputação, não se afigura legítimo que recuse a prótese que permitirá ao usuário caminhar novamente, respeitando a anatomia do corpo." (e-STJ fl. 252).
+Com  as  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO CIVIL E PROCESSUAL CIVIL.  AÇÃO  ORDINÁRIA. PLANO DE SAÚDE.  FORNECIMENTO DE PRÓTESE. MEMBRO AMPUTADO. NEGATIVA. PREQUISITOS CONTRATUAIS. PREENCHIMENTO.  NECESSIDADE.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  Na  hipótese,  acolher  a  tese  pleiteada  pela  parte  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+O Tribunal estadual, ao reanalisar a matéria com base na jurisprudência desta Corte, concluiu ficar
+"(..) evidente que a operadora de saúde não possui a obrigação de custear uma prótese que não esteja diretamente relacionada a um ato cirúrgico, como se verifica no presente caso. A legislação aplicável, consubstanciada na Lei nº 9.656/98, estabelece de forma clara que a obrigação de fornecimento de próteses e órteses, por parte das operadoras de saúde, restringe-se àquelas que guardem vínculo direto com um procedimento cirúrgico específico, indispensáveis para a recuperação ou eficácia do ato. Considerando o tempo decorrido desde a cirurgia de amputação, torna-se evidente que a prótese solicitada pelo autor não está ligada à efetividade do ato cirúrgico em si, mas sim à continuidade de uma adaptação pós-traumática ao longo dos anos. Essa adaptação, embora relevante para a qualidade de vida do beneficiário, não se enquadra nas hipóteses de cobertura obrigatória do plano de saúde. A amputação, ocorrida em 1988, descaracteriza a necessidade de fornecimento de prótese como condição para o êxito do procedimento original, especialmente por se tratar de uma prótese externa, de uso prolongado, e não de um dispositivo implantável ou indispensável à reabilitação imediata.
+Não se vislumbra qualquer indício de abusividade na recusa da operadora em fornecer a prótese ao autor. O contrato firmado entre as partes, devidamente regulamentado pela legislação vigente, prevê de forma expressa a exclusão de custeio de próteses não relacionadas a atos cirúrgicos. Essa previsão não configura prática abusiva, mas sim um exercício legítimo da liberdade contratual, respeitando os limites impostos pela norma legal." (e-STJ fl. 240-grifou-se).
+Assim,  verifica-se  a  impossibilidade  de  rever  o  entendimento  firmado  pela  instância  ordinária  porque  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos  e  o  contrato  firmado  pelas  partes,  o  que  é  inviável  no  recurso  especial  pelos  óbices  das  Súmulas  nºs  5  e  7/STJ.
+Vale anotar, ademais, o entendimento sedimentado neste Tribunal Superior acerca do tema:
+"RECURSO ESPECIAL. CIVIL. SAÚDE SUPLEMENTAR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. NECROSE DE EXTREMIDADE DE MEMBRO INFERIOR. AMPUTAÇÃO. PRÓTESE ORTOPÉDICA. CUSTEIO. VINCULAÇÃO A ATO CIRÚRGICO. NECESSIDADE. DISPOSITIVO MÉDICO NÃO IMPLANTÁVEL. EXCLUSÃO ASSISTENCIAL. CDC. APLICAÇÃO SUBSIDIÁRIA. NORMA ESPECÍFICA. PREVALÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a prótese ortopédica indicada para a usuária estava ligada ou não ao ato cirúrgico, o que influirá no dever de custeio pela operadora de plano de saúde.
+3. É lícita a exclusão, na Saúde Suplementar, do fornecimento de órteses e próteses não ligadas ao ato cirúrgico ou aquelas sem fins reparadores, já que as operadoras de planos de assistência à saúde estão obrigadas a custear tão só os dispositivos médicos que possuam relação direta com o procedimento assistencial a ser realizado (art.
+10, II e VII, da Lei nº 9.656/1998).
+4. As normas do Código de Defesa do Consumidor incidem apenas de maneira subsidiária nos planos de saúde, conforme previsão do art. 35-G da Lei nº 9.656/1998. Ademais, em casos de incompatibilidade de normas, pelos critérios da especialidade e da cronologia, prevalece a lei especial nova.
+5. Nos planos de saúde, é obrigatória apenas a cobertura de órteses, próteses e materiais especiais (OPME) sem a finalidade estética e que necessitem de cirurgia para serem colocados ou retirados, ou seja, que se qualifiquem como dispositivos médicos implantáveis, independentemente de se tratar de produto de alto custo ou não.
+6. Para saber se uma prótese ou órtese está ligada ao ato cirúrgico e, portanto, coberta pelo plano de saúde, deve-se indagar se ela possui as seguintes características, inerentes aos dispositivos médicos implantáveis: (i) ser introduzida (total ou parcialmente) no corpo humano; (ii) ser necessário procedimento cirúrgico para essa introdução e (iii) permanecer no local onde foi introduzida, após o procedimento cirúrgico.
+7. As próteses de substituição de membros, a exemplo das endo ou exoesqueléticas para desarticulação de joelho, transfemural ou transtibial, são não implantáveis, o que as tornam objeto de exclusão de cobertura obrigatória pelos planos de saúde, pois não estão ligadas a ato cirúrgico.
+8. Recurso especial provido."
+(REsp n. 1.673.822/RJ, relator Ministro Paulo de Tarso Sanseverino, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/3/2018, DJe de 11/5/2018)
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 16% (dezesseis por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É  o  voto.
