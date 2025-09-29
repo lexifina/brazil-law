@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUSA DE COBERTURA PARA TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. CERCEAMENTO DE DEFESA. INCIDÊNCIA. SÚMULA N. 7 DO STJ. DEVER DE COBERTURA. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A desconstituição do entendimento de que não houve cerceamento de defesa e que as provas constantes dos autos eram suficientes para o julgamento da lide, demandaria o reexame dos elementos fáticos e
+probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+2. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP), firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela existência de excepcional necessidade de cobertura. Aplicação da Súmula n. 7 do STJ.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por UNIMED SANTOS COOPERATIVA DE TRABALHO MÉDICO (UNIMED) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Des. JOÃO PAZINE NETO, assim ementado:
+Ação de obrigação de fazer. Plano de saúde. Cerceamento de defesa. Inocorrência. Negativa de cobertura ao custeio do medicamento "Spravato" (Cloridrato de Escetamina 28mg). Autor que é portador de "Transtorno Depressivo Recorrente" (CID10 F33.2). Relatório médico que afirma a necessidade de realização do tratamento, para controle da doença, ante o quadro de Depressão Resistente ao Tratamento. Medicamento indicado para o caso do Autor.
+Questão que deve ser analisada sob a ótica do Código de Defesa do Consumidor. Incidência da Súmula 608 do STJ, assim como do decidido, por sua Segunda Seção, em sede de Embargos de Divergência em Recurso Especial (EREsp 1889704/SP), bem como na Lei nº 14.454/2022, que alterou o artigo 10, §12, da Lei nº 9.656/98. Relatório médico apresentado indica a probabilidade do direito. Adequação do tratamento que compete ao médico, considerada aqui inclusive a gravidade da doença. Observância ao item 2 do julgamento acima referido, do STF. Recusa injustificada.
+Medicamento que tem registro perante a Anvisa, com indicação para a patologia do Autor (págs. 47/101 - bula).
+Inteligência do Enunciado nº 43 desta 3ª Câmara de Direito Privado. Parecer favorável em Notas Técnicas emitida pelo Nat-Jus, em casos similares (nº 5970/2024) já julgados por essa Câmara. Precedentes. Sentença de procedência mantida. Honorários sucumbenciais majorados para 11% do valor da causa (art. 85, § 11, do CPC). Recurso não provido. (e-STJ, fl. 376)
+Nas razões do presente recurso, UNIMED alegou a violação dos arts. 7º e 369 do CPC; 4º da Lei n. 9.661/00; 10 e 12 da Lei n. 9.656/98, ao sustentar, em síntese, (1) cerceamento de defesa; e (2) que não está obrigada ao custeio de tratamento não previsto no rol taxativo da ANS.
+Foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUSA DE COBERTURA PARA TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. CERCEAMENTO DE DEFESA. INCIDÊNCIA. SÚMULA N. 7 DO STJ. DEVER DE COBERTURA. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A desconstituição do entendimento de que não houve cerceamento de defesa e que as provas constantes dos autos eram suficientes para o julgamento da lide, demandaria o reexame dos elementos fáticos e
+probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+2. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP), firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela existência de excepcional necessidade de cobertura. Aplicação da Súmula n. 7 do STJ.
+3. Recurso especial não conhecido.
+VOTO
+A insurgência não merece prosperar.
+(1) Do cerceamento de defesa
+Sobre o tema, o Tribunal de Justiça de São Paulo se manifestou nos seguintes termos:
+De início, não se deve falar em cerceamento de defesa.
+Segundo já decidido pelo Supremo Tribunal Federal, a necessidade da produção de prova há de ficar evidenciada para que o julgamento antecipado da lide implique em cerceamento de defesa. A antecipação é legítima se os aspectos decisivos estão suficientemente líquidos para embasar o convencimento do Magistrado (STF, RE nº 101.171-8/SP), circunstância efetivamente caracterizada na hipótese, diante dos elementos de prova já existentes no processo.
+No caso em tela, a produção de prova pericial médica seria inócua, uma vez que o que se discute é a obrigação contratual da Ré em fornecer o medicamento prescrito ao Autor pelo médico assistente (matéria de direito) e não a correção e provável eficácia do tratamento para a patologia que acomete o Autor (questão técnica), por se inserir no âmbito técnico-médico (e-STJ, fl. 378).
+Nos termos da jurisprudência desta Corte, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC.
+Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável nesta esfera recursal.
+Nesse sentido, confira-se o precedente :
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE OFENSA AO ART. 330, I, DO CPC. PLEITO DE PRODUÇÃO DE PROVA PERICIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC.
+2. No caso concreto, o Tribunal de origem concluiu que não houve cerceamento de defesa e que as provas constantes dos autos eram suficientes para o julgamento da lide. Alterar esse entendimento demandaria o reexame dos elementos fáticos, o que é vedado em recurso especial (Súmula n. 7 do STJ) .
+ ..
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 527.139/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 10/11/2015, DJe 13/11/2015 - destacou-se)
+Incide, portanto, sobre o tema, a Súmula n. 7 do STJ.
+(2) Do dever de cobertura
+Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o Colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa, concluiu pela abusividade da negativa de cobertura do procedimento, considerando estar comprovado nos autos que os tratamentos em testilha tem eficácia comprovada e foram devidamente prescritos por médico. Tais circunstâncias, aliás, revelam a existência de excepcional necessidade de cobertura do procedimento requerido.
+Assim, para se desconstituir as premissas firmadas no acórdão recorrido, seria necessário perquirir se haveria outro procedimento eficaz para o tratamento da patologia que acomete a recorrida, ponderação que demandaria, inevitavelmente, o reexame do acervo fático-probatório dos autos, o que é obstado, em recurso especial, pelo enunciado da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP) firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade.
+Precedentes. 1.1. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela inexistência de excepcional necessidade de cobertura. Aplicação das Súmulas 7 e 83 do STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.886.532/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/4/2023, DJe de 2/5/2023)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ROL DE PROCEDIMENTOS DA ANS. RECUSA DE COBERTURA DE MEDICAMENTO. ESCLEROSE MÚLTIPLA. MEDICAMENTO QUE NÃO CONSTAVA DO ROL DA ANS. SITUAÇÃO EXCEPCIONAL APTA A AUTORIZAR O CUSTEIO DO TRATAMENTO. AGRAVO DESPROVIDO. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Colegiado estadual julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta negativa de cobertura ao tratamento médico solicitado, eis que o tratamento de saúde não era experimental, tendo sido apurado tecnicamente à luz de evidências científicas constantes do Laudo Médico Pericial que o tratamento era imprescindível e urgente. Portanto, qualquer alteração nesse quadro demandaria o reexame de todo o conjunto probatório, o que é vedado a esta Corte ante o óbice da Súmula n. 7 do STJ.
+2. Conforme entendimento desta Quarta Turma, firmado no julgamento do REsp 1.733.013/PR, o rol de procedimentos mínimos da ANS não pode ser visto como meramente exemplificativo, tampouco a cobertura do plano de saúde como ilimitada, não sendo correto afirmar ser abusiva a exclusão do custeio dos meios e dos materiais necessários ao tratamento indicado pelo médico assistente que não estejam no rol da ANS ou no conteúdo contratual.
+3. No presente caso, a necessidade de se custear medicamento não previsto, à época, no rol da ANS encontra-se justificada, devido ao fato de o beneficiário apresentar esclerose múltipla cujo tratamento com o medicamento Ocrelizumabe era adequado à garantia de sua sobrevivência, conforme apontado pelo Laudo Médico Pericial, devendo ser mantida a determinação das instâncias ordinárias de custeio do procedimento pelo plano de saúde.
+4. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.919.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/6/2021, DJe de 1º/7/2021)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de LUCA, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
