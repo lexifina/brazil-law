@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por CENTRO DE FISIOTERAPIA FORMA E ESTILO LTDA. e VALDEJANE FERREIRA DE MORAES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO cuja ementa guarda os seguintes termos (fls. 246-247):
+AÇÃO RESCISÓRIA. ART. 966, V, DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO DE NORMA JURÍDICA. INEXISTÊNCIA NO CASO CONCRETO. PRETENSÃO DA PARTE AUTORA DE REDISCUTIR MATÉRIA JÁ ENFRENTADA PELO ACORDÃO RESCIDENDO. IMPOSSIBILIDADE. ART. 505 DO CÓDIGO DE PROCESSO CIVIL. (S3) 1. A ação rescisória é o meio processual cabível para rescindir decisões que tenham produzido coisa julgada formal e material, proferindo-se ou não nova decisão de mérito, na forma estabelecida pelo o art. 966 do Código de Processo Civil, dispondo o inciso V, do referido disposto, que a sentença ou o acórdão poderão ser rescindidos quando for a hipótese de manifesta violação de norma jurídica; 2. No caso vertente, a parte autora defende em sua rescisória que a ré, ora locadora, suprimiu, por renúncia tácita, o seu direito aos locativos de 2016, conferindo a premissa induvidosa de deixá-los por não mais exigíveis, ao tempo que passou a receber locativos subsequentes, em face das parcelas de 2017, tem-se, de forma iniludível, operada a supressio; 3. Caso em que pretendem as autoras, por meio da rescisória, o rejulgamento de matéria já apreciada e julgada pelo acórdão rescindendo, não se prestando essa espécie de ação para tal finalidade; 4. Ademais, estabelece o art. 505 do CPC que: "Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, salvo: I - se, tratando-se de relação jurídica de trato continuado, sobreveio modificação no estado de fato ou de direito, caso em que poderá a parte pedir a revisão do que foi estatuído na sentença (..)".; 5. Ação rescisória que se julga improcedente.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos artigos 113, 187, 322 e 422 do Código Civil e 966, V, do CPC.
+Sustenta, em síntese, que os artigos 113, 187, 322 e 422 do Código Civil teriam sido ofendidos pela decisão rescindenda, pois, ao afastar a aplicação do instituto da supressio, a decisão rescindenda adotou interpretação desarrazoável do arcabouço normativo incidente na espécie.
+Foram oferecidas contrarrazões ao recurso especial (fls. 280-296).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 297-299), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 307-312).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem concluiu que não foram demonstradas as violações alegadas pela parte recorrente, e que a parte teria, por meio da rescisória, pretendido um novo julgamento de matéria já apreciada e julgada pelo acórdão rescindendo, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 245):
+Analisando a controvérsia com a atenção que o caso exige, constato que a matéria aqui debatida já foi alvo de análise pelo acórdão rescindendo, que ao se pronunciar sobre a supressão do direito da locadora, ora ré, de reclamar os aluguéis em atraso, assim se manifestou: "A aplicação do princípio da boa-fé objetiva é um imperativo a ser seguido na interpretação e na execução dos negócios jurídicos, nos termos dos arts. 113 e 422 do Código Civil. Ao referido princípio, por sua vez, são reconhecidos alguns aspectos particulares, funções que complementam a sua análise, dentre as quais se encontram a supressio e a surrectio, efeitos jurídicos decorrentes do não exercício de um direito, fazendo com que quem deixou de exercê-lo perca a possibilidade de fazê-lo, criando para o outro a legítima expectativa de não ser cobrado." (grifei)
+Ainda neste particular, sobre a tese da autora de que operada a supressio, concluiu a 5ª Câmara Cível que: "No caso em apreço, entretanto, não vislumbro hipótese de supressão do direito da locadora de reclamar os aluguéis em atraso, tampouco a sua contribuição para o aumento da dívida em violação a uma outra função parcelar da boa-fé objetiva, o duty to mitigate the loss." (grifei)
+Na realidade, a via rescisória é cabível em estritas hipóteses, taxativamente previstas no art. 966 do CPC, não servindo a mesma como sucedâneo recursal, tampouco se presta para rediscutir matéria já analisada e julgada no acórdão rescindendo, tal como pretendem as autoras.
+(..)
+Pelo que observo, pretendem as autoras, por meio da rescisória, o rejulgamento de matéria já apreciada e julgada pelo acórdão rescindendo, não se prestando essa espécie de ação para tal finalidade.
+Afastar o referido entendimento para concluir no sentido de que o acórdão rescindendo teria violado os artigos 113, 187, 322 e 422 do Código Civil, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido, cito:
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEGRADAÇÃO DE ÁREA DE PROTEÇÃO AMBIENTAL. AÇÃO RESCISÓRIA. OFENSA A LITERAL DISPOSITIVO DE LEI. LITISCONSÓRIO PASSIVO NECESSÁRIO. DESNECESSIDADE. NEXO CAUSAL. PRETENSÃO DE MERO REJULGAMENTO DA CAUSA. ILEGITIMIDADE ATIVA AD CAUSAM DA ASSOCIAÇÃO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Ademais, a modificação das conclusões adotadas pelo Tribunal de origem, de que inexiste qualquer violação a literal dispositivo de lei, a justificar a propositura da presente ação rescisória, ensejaria, inevitavelmente, o reexame fático-probatório dos autos, procedimento vedado, pela Súmula n. 7 desta Corte.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.204.892/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CONTRATO. CLÁUSULA CONTRATUAL. NULIDADE. NORMA JURÍDICA. VIOLAÇÃO. ALEGAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. SÚMULA Nº 211/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. INVIABILIDADE. SÚMULAS Nº 5 E Nº 7/STJ.
+(..)
+4. A viabilidade da ação rescisória por ofensa à disposição de lei pressupõe violação frontal e direta da literalidade da norma jurídica, não se prestando a via eleita como sucedâneo recursal.
+5. A reforma do julgado demandaria interpretação de cláusulas contratuais e reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nº 5 e nº 7/STJ.
+6. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.753.869/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 247).
+Publique-se. Intime-se.
+ EMENTA
