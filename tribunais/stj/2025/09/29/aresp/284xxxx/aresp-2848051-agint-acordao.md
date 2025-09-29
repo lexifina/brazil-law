@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa ao art. 1022 do CPC , porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. No caso, a alteração do acórdão recorrido nos moldes pretendidos pela agravante, a fim de modificar a base de cálculo dos honorários advocatícios, bem como verificar qual teria sido o suposto proveito econômico, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por IPIRANGA PRODUTOS DE PETRÓLEO S/A em face de decisão monocrática da lavra deste signat ário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado (e-STJ, fl. 1204):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. AUSÊNCIA DE INTERESSE RECURSAL. CLÁUSULA DE GALONAGEM. QUANTIDADE MÍNIMA DE COMBUSTÍVEL. CÓDIGO CIVIL. VALIDADE. HONORÁRIOS SUCUMBENCIAIS. REQUISITOS ARTIGO 85, § 2º, DO CPC. SENTENÇA MANTIDA. 1 - Não merece conhecimento a alegação de cerceamento de defesa por ausência de realização de perícia quando a referida prova foi devidamente produzida nos autos, não havendo falar em interesse recursal nesse ponto. 2 - A relação existente entre distribuidores e revendedores de combustíveis, em regra, não é de consumo, o que afasta a aplicabilidade do Código de Defesa do Consumidor, devendo-se, na hipótese, observância ao princípio do pacta sunt servanda. 3 - A cláusula de galonagem não representa, por si só, abusividade contratual, vez que a relação em epígrafe possui natureza eminentemente empresarial, de modo que não há falar em vulnerabilidade, haja vista a paridade contratual e a regência do negócio jurídico pelo princípio do pacta sunt servanda. Sendo assim, em observância ao princípio da boa-fé contratual prevista no artigo 422 do Código Civil, a manutenção da sentença que julgou improcedente o pedido inicial é medida que impõe. 4 - Não há que falar em alteração da forma de fixação dos honorários sucumbenciais, vez que foram arbitrados em observância aos requisitos do disposto no artigo 85, § 2º, do CPC. 1º apelo conhecido e desprovido. 2º apelo parcialmente conhecido e, nessa parte, desprovido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1246).
+Nas razões do especial (e-STJ, fls. 1266-1279), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado acerca da fixação da base de cálculo dos honorários de sucumbência, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 85, §§ 2º e 8º, e 293 do CPC/15, alegando que os honorários de sucumbência devem ser arbitrados em 10% sobre o valor do proveito econômico obtido, ou, subsidiariamente, devem ser fixados por equidade, porquanto o valor da causa é muito baixo.
+Oferecidas as contrarrazões às fls. 1301-1310 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 1317-1320, e-STJ), o que ensejou o manejo do presente agravo (fls. 1324-1331, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 1378-1382), este signatário negou provimento ao recurso especial em razão da ausência de negativa de prestação jurisdicional e incidência da Súmula 7/STJ.
+No presente agravo interno (e-STJ, fls. 1387-1395), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo no tocante à necessidade de fixação dos honorários pelo critério do proveito econômico ou equitativo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 1414-1424 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa ao art. 1022 do CPC , porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. No caso, a alteração do acórdão recorrido nos moldes pretendidos pela agravante, a fim de modificar a base de cálculo dos honorários advocatícios, bem como verificar qual teria sido o suposto proveito econômico, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura. Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, manifestando-se expressamente acerca da base de cálculo dos honorários, porém, em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 1203, e-STJ):
+Por outro lado, não possui amparo as razões apresentadas no 1º apelo, sobremodo porque o juízo a quo arbitrou os honorários sucumbenciais em observância aos requisitos do disposto no artigo 85, § 2º, do CPC, qual seja, sobre o valor atualizado da causa.
+Esclareça-se, ainda, que a 1ª apelante não apresentou impugnação ao valor da causa, em observância ao disposto no artigo 293 do CPC, devendo-se, assim, ser mantido os honorários sucumbenciais na forma arbitrada na sentença hostilizada.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Outrossim, não merece reparos a decisão agravada que aplicou o óbice da Súmula 7/STJ à pretensão recursal relativa aos arts. 85, §§ 2º e 8º, e 293 do CPC/15.
+Em suas razões, a parte sustentou que os honorários de sucumbência deveriam ser arbitrados em 10% sobre o valor do proveito econômico obtido, ou, subsidiariamente, pelo critério da equidade, porquanto o valor da causa seria muito baixo.
+Todavia, a Corte estadual consignou que a base de cálculo dos honorários deve ser o valor atualizado da causa, nos seguintes termos (e-STJ, fl. 1203):
+Assim, em observância ao princípio da boa-fé contratual prevista no artigo 422 do Código Civil, não há falar em abusividade da cláusula de galonagem entabulado entre as partes.
+Por outro lado, não possui amparo as razões apresentadas no 1º apelo, sobremodo porque o juízo a quo arbitrou os honorários sucumbenciais em observância aos requisitos do disposto no artigo 85, § 2º, do CPC, qual seja, sobre o valor atualizado da causa.
+Dessa forma, a alteração do acórdão recorrido nos moldes pretendidos pela agravante, a fim de modificar as premissas acerca de qual seria a base de cálculo dos honorários advocatícios, bem como verificar qual teria sido o suposto proveito econômico, encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PROCEDENTES. RECURSO ESPECIAL MANEJADO PELA ALÍNEA "C". EQUÍVOCO NA INDICAÇÃO DA ALÍNEA FUNDAMENTADORA DO RECURSO. MITIGAÇÃO. POSSIBILIDADE. HONORÁRIOS SUCUMBENCIAIS. EXTENSÃO DO PROVEITO ECONÔMICO. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Não é obstáculo ao conhecimento do recurso o fato de o recorrente ter interposto o recurso especial com fundamento na alínea "c", e fundamentado a insurgência na ofensa à lei federal, demonstrando ter apenas se equivocado na indicação da alínea fundamentadora do recurso"(REsp 1.661.120/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/05/2017, DJe de 16/05/2017).
+2. Consideradas as peculiaridades do caso concreto, a verificação da extensão do proveito econômico, apontado pelos agravantes como base de cálculo para os honorários sucumbenciais, implicaria desconstituir as conclusões adotadas pelo Tribunal de Justiça, com o reexame de matéria fático-probatória, contrariando o disposto na Súmula 7 do STJ.
+3. Agravo interno provido para, em nova análise, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.844.717/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE ACORDO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. O valor da causa, mesmo nas ações declaratórias, deve corresponder ao proveito econômico almejado pela parte. Precedentes.
+2. A reforma do acórdão recorrido nos moldes pretendidos pela agravante, para modificar as premissas acerca do valor atribuído à causa e do proveito econômico, encontra óbice na Súmula 7 do Superior Tribunal de Justiça. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.977.391/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
