@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 23/09/2025 a 29/09/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO RURAL. PRESCRIÇÃO INTERCORRENTE RECONHECIDA PELO TRIBUNAL DE ORIGEM EM RAZÃO DA INÉRCIA DO EXEQUENTE POR QUASE DUAS DÉCADAS. RECURSO ESPECIAL INADMITIDO POR DEFICIÊNCIA DE FUNDAMENTAÇÃO (SÚMULA 284/STF). DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO TEMPESTIVO, MAS QUE NÃO APRESENTA ARGUMENTOS APTOS A REFORMAR A DECISÃO AGRAVADA. REVERSÃO DO ENTENDIMENTO QUE DEMANDARIA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO NÃO CONHECIDO. MAJORADOS OS HONORÁRIOS SUCUMBENCIAIS PARA 15% (ART. 85, § 11º, DO CPC).
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Maranhão que manteve sentença de extinção de execução por título extrajudicial, em razão da prescrição intercorrente, após 20 anos de trâmite processual.
+2. A agravante alega que a prescrição intercorrente não se aplica, pois a paralisação do processo não decorreu de sua inércia e que sempre buscou efetivar meios para encontrar bens penhoráveis.
+3. O acórdão recorrido concluiu pela inércia do agravante, resultando na prescrição do prazo prescricional.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) definir se a prescrição intercorrente pode ser afastada em razão da alegada diligência do exequente na busca de bens do devedor, mesmo diante de paralisação processual prolongada; e (ii) determinar se é possível o reexame de provas em sede de recurso especial, considerando a alegação de que a paralisação do processo não decorreu da inércia do exequente, ora agravante.
+III. RAZÕES DE DECIDIR
+5. A Corte de origem entendeu que a prescrição intercorrente se inicia automaticamente após um ano da intimação da parte exequente da primeira tentativa de constrição frustrada, ainda que não haja intimação específica.
+6. Constatou-se que a execução permaneceu paralisada por quase duas décadas (de 24/02/2003 a 06/04/2021), sem qualquer diligência frutífera, o que enseja o reconhecimento da prescrição intercorrente.
+7. A argumentação do agravante demanda reexame do conjunto
+fático-probatório, providência vedada pela Súmula 7/STJ.
+IV - DISPOSITIVO
+8. Agravo conhecido para não conhecer do REsp.
+RELATÓRIO
+Trata-se de agravo contra decisão que não conheceu do recurso especial (e-STJ fls. 276-277).
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento (e-STJ fls. 276-277), uma vez que foi claro quanto aos pedidos e artigos violados.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada se manifestou.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO RURAL. PRESCRIÇÃO INTERCORRENTE RECONHECIDA PELO TRIBUNAL DE ORIGEM EM RAZÃO DA INÉRCIA DO EXEQUENTE POR QUASE DUAS DÉCADAS. RECURSO ESPECIAL INADMITIDO POR DEFICIÊNCIA DE FUNDAMENTAÇÃO (SÚMULA 284/STF). DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO TEMPESTIVO, MAS QUE NÃO APRESENTA ARGUMENTOS APTOS A REFORMAR A DECISÃO AGRAVADA. REVERSÃO DO ENTENDIMENTO QUE DEMANDARIA REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO NÃO CONHECIDO. MAJORADOS OS HONORÁRIOS SUCUMBENCIAIS PARA 15% (ART. 85, § 11º, DO CPC).
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Maranhão que manteve sentença de extinção de execução por título extrajudicial, em razão da prescrição intercorrente, após 20 anos de trâmite processual.
+2. A agravante alega que a prescrição intercorrente não se aplica, pois a paralisação do processo não decorreu de sua inércia e que sempre buscou efetivar meios para encontrar bens penhoráveis.
+3. O acórdão recorrido concluiu pela inércia do agravante, resultando na prescrição do prazo prescricional.
+II. QUESTÃO EM DISCUSSÃO
+4. Há duas questões em discussão: (i) definir se a prescrição intercorrente pode ser afastada em razão da alegada diligência do exequente na busca de bens do devedor, mesmo diante de paralisação processual prolongada; e (ii) determinar se é possível o reexame de provas em sede de recurso especial, considerando a alegação de que a paralisação do processo não decorreu da inércia do exequente, ora agravante.
+III. RAZÕES DE DECIDIR
+5. A Corte de origem entendeu que a prescrição intercorrente se inicia automaticamente após um ano da intimação da parte exequente da primeira tentativa de constrição frustrada, ainda que não haja intimação específica.
+6. Constatou-se que a execução permaneceu paralisada por quase duas décadas (de 24/02/2003 a 06/04/2021), sem qualquer diligência frutífera, o que enseja o reconhecimento da prescrição intercorrente.
+7. A argumentação do agravante demanda reexame do conjunto
+fático-probatório, providência vedada pela Súmula 7/STJ.
+IV - DISPOSITIVO
+8. Agravo conhecido para não conhecer do REsp.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. ):
+DECISÃO. O Banco do Nordeste do Brasil S. A. interpõe recurso especial, com fundamento no art. 105, inciso III, "a" e "c" da CF, visando à reforma do acórdão lavrado pela 1ª Câmara de Direito Privado do TJ/MA. Na origem, o recorrente ingressou com execução de título executivo extrajudicial em face dos recorridos, por dívida decorrente de cédula de crédito rural. O processo foi suspenso sucessivas vezes por conta das Leis Federais n. 12.844/2013 e 13.340/2016. Na sequência, o Juízo de primeiro grau extinguiu o processo, por reconhecer a prescrição intercorrente (Id.23502689 - Pág. 35/45). A 1ª Câmara de Direito Privado negou provimento a apelação interposta pelo recorrente, ao fundamento de que " ..  descabe se cogitar a invocação da Lei nº 13.340/2016 in casu, uma vez que não houve a efetiva observância de um processo de renegociação entre o banco e o devedor" (Id.27308634). Os embargos de declaração opostos ao acórdão foram rejeitados (Id.35797374). Nas razões do recurso especial, o recorrente pede a reforma do acórdão, alegando que a prescrição intercorrente não está caracterizada no presente caso (Id. 36212038). Sem contrarrazões, por inércia. É o relatório. Decido. Configurados os pressupostos genéricos extrínsecos e intrínsecos de admissibilidade, passo ao exame dos pressupostos específicos do recurso especial. As razões recursais são vagas, não indicando de forma precisa os dispositivos legais que teriam sido violados pelo acórdão impugnado, o que configura deficiência de fundamentação e impede o prosseguimento do recurso, na forma da Súmula 284 do STF. Assim: "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF" (AgInt no R Esp 2105674, rel. Ministro FRANCISCO FALCÃO, 2ª Turma, j. em 29/04/2024). E mais: ARE 1474732, rel. Ministro LUÍS ROBERTO BARROSO, Tribunal Pleno, j. em 19.3.2024). Fica prejudicada a admissibilidade do recurso pela alínea "c", na medida em que " A  análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice de admissibilidade quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (AgInt no AgInt no AR Esp 2367865 / MA, rel. Ministro GURGEL DE FARIA, 1ª Turma, j. em 22/04/2024). Ante o exposto, inadmito o recurso especial (CPC, art. 1.030, V)
+Da prescrição intercorrente:
+Sobre o tema, o Tribunal de Justiça do Maranhão reconheceu a prescrição intercorrente em razão da inércia evidente da exequente, conforme trecho que ora se transcreve (e-STJ , fl. 231).
+E, na espécie, como bem entendeu a sentença ora apelada, "o exequente utiliza-se de sucessivas suspensões do feito e da pretensa suspensão da prescrição, abdicando de trilhar o caminho da diligência, para obter meios de satisfazer o seu crédito. Ocorre, porém, que esta situação não pode se eternizar, pois o ordenamento jurídico não admite a existência de demandas eternas, porquanto, ou há satisfação do crédito, ou deve haver o reconhecimento da incidência da prescrição intercorrente."
+Decerto, descabe se cogitar a invocação da Lei nº 13.340/2016 in casu, uma vez que não houve a efetiva observância de um processo de renegociação entre o banco e o devedor, restando evidente que o feito, que já dura mais de 2 0 (vinte) anos, desenvolve-se sem os pressupostos de constituição e de desenvolvimento válido e regular, logo, tenho que não merece reparo a sentença que extinguiu o feito.
+No caso em tela, temos que a execução foi ajuizada em 25.07.2002, com despacho inicial de citação do devedor em 06.08.2002; A primeira diligência de localização do executado ou de constrição de bens sem sucesso ocorreu em 24.02.2002, da qual ficou ciente o exequente em 19.11.2003. A partir de então, não houve constrição patrimonial, tendo apenas novas manifestações do exequente, seguidos de diversos pedidos de suspensão, sem qualquer diligência frutífera.
+Portanto, constatada a paralisação da execução em análise por quase 20 anos sem terem sido localizados bens penhoráveis, impõe-se o reconhecimento da prescrição intercorrente, tal como declarada pelo sentenciante. (e-STJ, fls. 161-168.)
+Na espécie, verifica-se que o acórdão estadual afirmou que o prazo prescricional foi ultrapassado, reconhecendo a desídia da exequente, ora agravante, quanto à paralisação do processo durante quase duas décadas. (e-STJ, fls. 226-233)
+Por isso, concluir em sentido diverso, para verificar se efetivamente não houve inércia da agravante em promover o andamento regular do feito, apto a impedir a consumação do prazo prescricional no caso em questão, evidentemente demandaria reexame de matéria fático-probatório, o que é vedado em sede de recurso especial, a teor da Súmula n. 7/STJ. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DESÍDIA DO CREDOR. OCORRÊNCIA. REEXAME DAS CONCLUSÕES FIRMADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULAS 7 E 83 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que "a prescrição intercorrente pressupõe desídia do credor que, intimado a diligenciar, se mantém inerte" (Quarta Turma, AgRg no REsp 1.253.510/MG, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 14.6.2012).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória
+(Súmula n. 7/STJ).
+ ..
+(AgInt no AREsp n. 2.400.200/PR, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 13/5/2024, DJe de 16/5/2024 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. AUSÊNCIA. CITAÇÃO VÁLIDA. PRAZO LEGAL. PRESCRIÇÃO. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PRESCRIÇÃO INTERCORRENTE. VERBA HONORÁRIA. EXECUTADO. NÃO CABIMENTO. PRINCÍPIO DA CAUSALIDADE.
+ .. 2. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, de que a citação válida ocorreu no prazo legal e da ocorrência da prescrição, demandaria a análise de fatos e provas dos autos, providência inviável no recurso especial devido ao óbice da Súmula nº 7/STJ.
+ ..
+(AgInt no REsp n. 2.034.341/MS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023 - sem destaque no original).
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. EMBARGOS À EXECUÇÃO. 1. PRESCRIÇÃO INTERCORRENTE. RECONHECIMENTO PELO TRIBUNAL ESTADUAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. 2. IRRETROATIVIDADE E VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E DA NÃO SURPRESA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA Nº 282 DO STF. 3. VERBAS SUCUMBENCIAIS. PREQUESTIONAMENTO E INTERESSE RECURSAL. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Verificar se efetivamente não houve inércia da empresa em promover o andamento regular do feito, apto a impedir a consumação do prazo prescricional no caso em questão, evidentemente demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula n. 7/STJ.
+2. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei.
+3. No que tange à irretroatividade e violação aos princípios da segurança jurídica e não surpresa, não houve o necessário prequestionamento, pois não foi objeto de debate pelo Tribunal estadual. Súmula nº 282 do STF.
+4. A ausência de prequestionamento e do interesse recursal quanto à condenação nas verbas de sucumbência impede seu conhecimento.
+5. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.775.566/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025. Grifamos.).
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro o percentual de honorários sucumbenciais para 15% (qui nze por cento), nos termos do art. 85, § 11, do CPC.
+É o voto.
