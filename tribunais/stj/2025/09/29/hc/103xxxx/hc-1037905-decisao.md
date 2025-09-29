@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Danilo Vargas Tomaz, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5002281-07.2025.8.24.0523).
+Consta nos autos que o paciente foi condenado pela prática do crime previsto no art. 157, caput, c/c o art. 70, caput, ambos do Código Penal, à pena de 8 (oito) anos e 9 (nove) meses de reclusão, em regime inicial fechado, e ao pagamento de 30 (trinta) dias-multa.
+Inconformada, a Defesa interpôs recurso de apelação, ao qual foi negado provimento, mantendo-se integralmente a sentença condenatória.
+A impetrante sustenta a ocorrência de constrangimento ilegal na segunda fase da dosimetria da pena. Afirma que o critério utilizado pelas instâncias ordinárias para realizar a compensação parcial entre a agravante da multirreincidência (decorrente de quatro condenações) e a atenuante da confissão espontânea se mostra desproporcional.
+Argumenta que a metodologia adotada  compensar a confissão com uma das condenações e aplicar a fração de 1/4 sobre as três restantes  carece de fundamentação válida. Defende que o cálculo adequado seria agravar a pena em 1/3 (pelas quatro reincidências) e, em seguida, atenuá-la em 1/6 (pela confissão), o que resultaria em um aumento líquido de 1/6.
+Requer, liminarmente, a suspensão dos efeitos da condenação no que tange ao excesso impugnado. No mérito, pugna pela concessão da ordem a fim de que se declare a ilegalidade e se aplique a fração de 1/3 pela reincidência e 1/6 pela confissão, totalizando o agravamento da pena na fração de 1/6 na segunda fase da dosimetria
+É o relatório.
+Decido.
+No caso em análise, verifico, por meio de consulta ao sítio eletrônico do Tribunal de origem, que o acórdão impugnado foi disponibilizado para consulta em 18/09/2025. Dessa forma, a presente impetração foi protocolada antes do termo final para a interposição do recurso especial, considerando que a Defensoria Pública, no exercício de suas atribuições constitucionais, possui o benefício da contagem em dobro dos prazos processuais.
+Dessa maneira, revela-se prematura a impetração do presente habeas corpus como substitutivo do recurso cabível, não sendo possível, neste momento, afastar a eventualidade de a matéria ser submetida a esta Corte por meio da via processual adequada, qual seja, o recurso especial. Assim, não compete ao Superior Tribunal de Justiça, de forma antecipada, proceder ao exame da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESVIRTUAMENTO DO HABEAS CORPUS. LAPSO PARA INTERPOSIÇÃO DO RESPECTIVO RECURSO ESPECIAL AINDA EM CURSO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. POSSIBILIDADE DE MANEJO DA VIA ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+(AgRg no HC 733.563/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2022, DJe de 16/05/2022)
+Ademais,  não  constato,  ao menos a princípio,  flagrante  ilegalidade  apta  a  ensejar  a  concessão  de  habeas  corpus  de  ofício, isso porque pelo que se observa das razões da apelação defensiva (fls. 198/209), postulou-se apenas a compensação integral da reincidência com a confissão, de forma que a tese que se pretende seja analisada por esta Corte Superior a respeito da aplicação da fração de 1/4, e não de 1/3 pela reincidência e 1/6 pela confissão, não foi sequer alegada perante as instâncias inferiores, a redundar em inadmissível supressão de instância.
+Ante  o  exposto,  indefiro liminarmente o  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
