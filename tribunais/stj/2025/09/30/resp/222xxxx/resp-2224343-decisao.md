@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por JOSE AILTON CHAVES DOS SANTOS contra  acórdão  prolatado  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que desproveu seu agravo em execução penal.
+Durante o curso da execução, a defesa requereu a aplicação da detração penal relativa ao período em que o apenado permaneceu custodiado cautelarmente (05/06/2002 a 29/06/2004) nos autos da Ação Penal nº 0016635-59.2002.8.26.0625, na qual foi posteriormente absolvido do crime de tráfico de entorpecentes.
+O pedido foi indeferido pelo Juízo das Execuções Penais e a decisão foi mantida pelo Tribunal de Justiça paulista em sede de agravo em execução.
+Irresignado, o recorrente interpôs o presente recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, alegando violação aos arts. 42 do Código Penal e 66, inciso III, alínea "c", e 111, ambos da Lei de Execução Penal.
+Sustenta a defesa que o período de prisão provisória não foi computado em nenhuma outra execução penal, devendo ser abatido da pena atual, para evitar bis in idem negativo (fls. 60/71).
+O Ministério Público Federal apresentou  manifestação  pelo  não conhecimento do  recurso  especial  (fls.  91/94 ).
+É  o  relatório. DECIDO.
+A controvérsia cinge-se à possibilidade de detração penal de período de prisão provisória cumprido em processo diverso, quando o crime objeto da execução atual foi praticado em data posterior ao referido período de custódia.
+O Tribunal de origem, ao desacolher a pretensão defensiva, consignou que "o período de prisão preventiva em questão originou-se de fato distinto e transcorreu anteriormente à prática dos crimes correspondentes à execução de penas em andamento", sendo inviável "pretender redução da pena aplicada em razão desses crimes por meio da detração, visto que posteriores à custódia cautelar".
+A decisão está em perfeita consonância com a jurisprudência sedimentada desta Corte Superior.
+Com efeito, o art. 42 do Código Penal estabelece que se computa na pena privativa de liberdade "o tempo de prisão provisória no Brasil ou no estrangeiro, no curso do processo ou por outro motivo, desde que relacionado ao mesmo fato".
+A expressão "relacionado ao mesmo fato" não se refere apenas à identidade de processos, mas exige, fundamentalmente, conexão temporal e causal entre o período de custódia e o delito objeto da execução.
+Esta Corte já assentou o entendimento de que "o tempo de prisão provisória ocorrida em processo diverso daquele cujo delito ensejou a condenação criminal, somente pode ser considerado para fins de detração da pena, se a data do cometimento do crime a que se refere a execução seja anterior ao período requerido" (HC 175.391/RS, Rel. Ministra Laurita Vaz).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. IMPOSSIBILIDADE. PERÍODO ANTERIOR À DATA DO COMETIMENTO DOS CRIMES PELOS QUAIS O REEDUCANDO CUMPRE PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte delimita "as hipóteses em que cabível a detração do tempo de prisão provisória proveniente de processo diverso daquele cujo delito ensejou a condenação penal: se a data do cometimento do crime a que se refere a execução for anterior ao período requerido ou quando houver absolvição ou declaração de extinção da punibilidade no processo em que cumprido o tempo de prisão provisória" (AgRg no HC n. 709.201/SP, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+2. Hipótese em que, na linha da orientação jurisprudencial, incabível o cômputo do período de prisão provisória do processo em que foi absolvido, para fins de detração penal, pois anterior à data do cometimento dos crimes apurados nos processos pelos quais o reeducando atualmente cumpre pena.
+3. Agravo desprovido.
+(AgRg no AREsp n. 2.232.271/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/3/2023, DJe de 24/3/2023.)
+EXECUÇÃO PENAL. DETRAÇÃO. FATOS DIVERSOS. CRIME POSTERIOR AO CUMPRIMENTO DA PRISÃO CAUTELAR. MUDANÇA DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE NA VIA ELEITA. INDULTO. DECRETO PRESIDENCIAL N. 8.380/2014. NECESSIDADE DE RECONHECIMENTO DA DETRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo entendimento firmado por esta Corte Superior, a detração do tempo de segregação cautelar efetivada em processo diverso somente pode ocorrer se o crime pelo qual se cumpre pena atualmente for anterior ao período pleiteado.
+2. Na espécie, conforme se extrai do acórdão impugnado, inviável, pois, utilizar períodos de cumprimento de prisão de um feito criminal para a obtenção de benefícios em execução penal extraída de feito distinto, relativo a fatos posteriores àqueles que ensejaram a prisão..Assim, o acolhimento do pedido formulado pelo impetrante/paciente, fundado no art. 1º, XIV, do Decreto presidencial de 2014, exigiria o reconhecimento de detração relativa a tempo de prisão cumprida em outro feito, o que não é possível, haja vista que a prisão provisória se deu em data anterior à dos fatos que levaram à sua condenação, ora em execução.
+3. Desse modo, modificar tal premissa fática, como defendeu o recorrente, com o reexame da certidão narratória das condenações impostas ao recorrente, demandaria o revolvimento do material probatório dos autos, o que não é viável na sede mandamental.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 99.269/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma).
+A essência dessa orientação jurisprudencial é impedir a criação de indevido "crédito de pena", que permitiria ao condenado beneficiar-se de período de custódia provisória por crime praticado posteriormente a tal período.
+Admitir-se tal detração, em última análise, seria conceder ao réu uma espécie de "pré-pagamento" de penas futuras, o que contraria os postulados fundamentais do Direito Penal, notadamente os princípios da individualização da pena e da proporcionalidade.
+No caso em tela, restou incontroverso que os fatos que ensejaram a presente execução penal (crimes de roubo majorado e associação criminosa) foram praticados em data posterior ao período de prisão provisória (05/06/2002 a 29/06/2004) pelo qual se pretende a detração.
+Nesse contexto, mostra-se inviável o acolhimento da pretensão defensiva, sob pena de se criar o mencionado crédito de reprimendas, eximindo o agente de sanção proporcional por violações futuras da lei penal.
+Assim, estando o acórdão recorrido em consonância com a jurisprudência consolidada desta Corte Superior, incide o óbice da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, não conheço do recurso especial, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+ EMENTA
