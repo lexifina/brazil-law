@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada contra acórdão da TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO DO CEARÁ , proferido nos seguintes termos (fls. 33-34):
+EMENTA: SÚMULA DE JULGAMENTO. RECURSO INOMINADO. CÓDIGO DE DEFESA DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATO REALIZADO EM TERMINAL ELETRÔNICO. USO DO CARTÃO ORIGINAL E DA SENHA PESSOAL. EXTRATO BANCÁRIO JUNTADO PELO BANCO RECORRIDO COMPROVA A DISPONIBILIZAÇÃO DO VALOR DO MÚTUO EM CONTA BANCÁRIA DE TITULARIDADE DA AUTORA RECORRENTE. RELAÇÃO JURÍDICA ENTRE AS PARTES COMPROVADA. VALIDADE DO CONTRATO. VÍCIO DE CONSENTIMENTO NÃO COMPROVADO. DESCONTOS AUTORIZADOS EM BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL E MATERIAL NÃO CONFIGURADO. RECURSO INOMINADO INTERPOSTO PELA PARTE AUTORA CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS.
+A reclamante sustenta violação dos arts. 6º, III, 14 e 52 do CDC e da Súmula n. 479 do STJ, alegando que (fl. 5):
+O Acórdão recorrido validou a contratação sob o simples argumento de que foi realizada mediante uso de cartão e senha, ignorando por completo a condição de hipervulnerabilidade da Reclamante (consumidora idosa) e a ausência de prova de que o dever de informação, previsto nos arts. 6º, III, e 52 do Código de Defesa do Consumidor, foi devidamente cumprido.
+Este entendimento contraria frontalmente a jurisprudência consolidada do STJ, que reconhece a necessidade de uma proteção qualificada ao consumidor idoso, exigindo da instituição financeira a prova inequívoca de que as informações essenciais do negócio jurídico foram não apenas prestadas, mas efetivamente compreendidas. A simples exibição de dados em uma tela de caixa eletrônico é manifestamente insuficiente para cumprir tal desiderato.
+Aduz que a decisão reclamada, "embora reconheça a aplicação do CDC e a inversão do ônus da prova, atribui expressamente à consumidora o encargo de provar que foi induzida a erro" (fl. 6), desrespeitando o art. 373, § 1º, do CPC/2015.
+É o relatório.
+Decido.
+A decisão reclamada foi publicada na vigência da Resolução n. 3 do STJ, de 8 de abril de 2016, que assim dispõe:
+Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes.
+É patente, pois, a incompetência desta Corte Superior para processar e julgar o presente pedido.
+Portanto, com base no art. 34, XVIII, do RISTJ, NÃO CONHEÇO da reclamação, determinando sua remessa ao Tribunal de Justiça do Estado do Ceará , nos termos do art. 1º da Resolução n. 3/STJ, de 8 de abril de 2016.
+Publique-se e intimem-se.
+EMENTA
