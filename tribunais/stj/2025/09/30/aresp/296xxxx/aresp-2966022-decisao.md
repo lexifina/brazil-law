@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado por Fundação Nacional do Meio Ambiente Dr. Ernesto Pereira Lopes contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 575):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CAUTELAR. IBAMA. BUSCA E APREENSÃO DE AVES. JULGAMENTO DA PRINCIPAL EM DESFAVOR DA REQUERENTE. DEVOLUÇÃO DOS ANIMAIS AOS LOCAIS INDICADOS PELA AUTARQUIA AMBIENTAL.
+I - Reconhecido na ação de conhecimento a legalidade da autuação da apelada pelo IBAMA, deve ser reformada a sentença nesta cautelar, para que os animais retornem aos locais para onde foram quando da fiscalização da autarquia ambiental e que constam do Mandado de Busca e Apreensão acostado nestes autos (ID 90552060, pp. 46/49).
+II - Conforme fundamentado na ação principal, os fiscais do IBAMA constataram que as instalações do criadouro apelado não possuíam instalações adequadas, fato que não foi contraditado de forma inequívoca pelo autuado, que poderia ter juntado aos autos fotos dos locais destinados às aves, ou mesmo solicitado perícia judicial no criadouro, não bastando para tanto laudo veterinário produzido de forma unilateral. Não infirma essa constatação o fato de o apelado ter permanecido como depositário de alguns animais, uma vez que isso só ocorreu em razão de estarem soltas essas aves.
+III - Deixo de condenar a requerente ao pagamento de honorários advocatícios, por já ter sido condenada na ação principal.
+IV - Reexame necessário provido. Recurso de apelação do IBAMA provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 614/629).
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação aos arts.:
+a) 5º, LV, da CF e 247, 272, §2º, e 280, do CPC, afirmando a ocorrência de nulidade, pois "o advogado que a representa nestes autos, não fora sequer intimado, seja para contrarrazoar o recurso apresentado, seja para se manifestar sobre o julgamento virtual do recurso ou até mesmo sobre a própria data de realização do julgamento, vício esse que a impediu de realizar sustentação oral de suas razões recursais, o que nitidamente configura a sua nulidade, ante o claro cerceamento de defesa" (fl. 639);
+b) 93, IX, da, CF e 141 e 492, do CPC, alegando que "a inobservância da publicação em nome do profissional constante do instrumento de procuração juntado aos autos, implica a nulidade de referidos atos processuais" (fl. 643).
+Foram ofertadas contrarrazões às fls. 648/654.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Primeiramente cumpre consignar que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, LV, 93, IX, da Constituição Federal.
+Outrossim, quanto ao tema objeto de discussão, o Tribunal de origem destacou (fls. 622/623):
+A intimação de inclusão dos autos em pauta de julgamento dar-se-á via sistema PJe e não por Diário Eletrônico, nos termos do art. 13, §2º, da RESOLUÇÃO PRES nº 482/2021:
+"Art. 13. Nos processos judiciais em curso perante o Sistema PJe ,as citações e intimações das partes serão feitas nos seguintes termos:
+§ 2. º No Tribunal, nas Turmas Recursais e na Turma Regional de Uniformização, as intimações decorrentes da inclusão de feitos em pauta de julgamento serão realizadas via sistema PJe."
+No caso, a intimação via sistema PJe foi expedida em 22/05/2023.
+Alega, também, a embargante nulidade por ausência de intimação para contrarrazoar o recurso de apelação do IBAMA.
+No entanto, conforme se vê dos autos digitalizados, a r. decisão (fl. 322 - ID 90552039, Vol. 2, pág. 34) que recebeu o recurso de apelação do IBAMA, em ambos efeitos, bem como determinou vistas dos autos ao apelado para reposta, foi disponibilizado no Diário Eletrônico da Justiça em 03/04/2009 (fl. 325).
+Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL, PARA FINS DE REFORMA AGRÁRIA. INTERVENÇÃO ANÔMALA DA UNIÃO NO PROCESSO. INTERESSE ECONÔMICO. INGRESSO ADMITIDO. NULIDADE DO PROCESSO. AUSÊNCIA DE INTIMAÇÃO PESSOAL. FALTA DE PREQUESTIONAMENTO. REVISÃO DE MATÉRIA FÁTICO- PROBATÓRIA. IMPOSSIBILIDADE. PREJUÍZO NÃO DEMONSTRADO.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A intervenção de terceiros prevista no art. 50, parágrafo único, do CPC/1973 não se confunde com aquela de que cuida o art. 5º, parágrafo único, da Lei n. 9.469/1997, visto que, nesta última, a intervenção legitima-se com o desiderato de demonstrar interesse econômico, e não jurídico, como naquela.
+3. As pessoas jurídicas de direito público, ao intervirem no processo com fundamento no parágrafo único do art. 5º da Lei n. 9.469/1997, passam a dispor de limitados poderes, podendo apenas esclarecer questões de fato e de direito, além de juntar documentos e memoriais reputados úteis ao exame da matéria.
+4. No julgamento do recurso especial, reconheceu-se a possibilidade de intervenção anômala da União nos autos do processo de desapropriação movido pelo Incra, ante o seu interesse econômico na lide, por ser credora da expropriada por dívidas oriundas de financiamentos perante o FINOR, não sendo conhecido o pedido de nulidade do processo, desde a sentença, por ausência de intimação pessoal, em face da aplicação das Súmula 211 e 7 do STJ, bem como pela falta de demonstração do prejuízo.
+5. Ao contrário do alegado, o Tribunal a quo não emitiu juízo de valor sobre o art. 38 da Lei Complementar n. 73/1993, embora suscitado nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento, o que atrai a incidência da Súmula 211 do STJ.
+6. Não configurado o prequestionamento implícito defendido nas razões de agravo interno, visto que não se trata de mera ausência de citação do dispositivo de lei federal no acórdão recorrido, mas sim de falta de manifestação sobre a própria tese recursal, tampouco se permite o reconhecimento do prequestionamento ficto previsto no art. 1.025 do CPC/2015, pois não se apontou violação do art. 1.022 do CPC/2015 nas razões do recurso especial, conforme exige a jurisprudência desta Corte de Justiça.
+7. Não bastasse isso, a pretensão de nulidade do processo, por ausência de intimação da União, não depende de simples análise do critério de valoração da prova, mas de nova incursão no acervo fático-probatório que instrui o caderno processual - principalmente porque a matéria não foi debatida nas instâncias ordinárias -, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+8. Não se evidencia o verdadeiro prejuízo amargado pela União, muito menos como a anulação desde o primeiro grau poderia assegurar os interesses econômicos do ente público neste feito.
+9. Agravo interno desprovido.
+(AgInt nos EDcl no AgInt no REsp n. 1.456.230/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024 - g.n.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
