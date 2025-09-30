@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 407):
+PREVIDENCIÁRIO. AGRAVO INTERNO. APELAÇÃO PARCIALMENTE PROVIDA. PERÍODO DE CARÊNCIA. ATIVIDADE RURAL E URBANA.
+1. Agravo interno de decisão monocrática que deu parcial provimento à remessa oficial à apelação do INSS, exclusivamente para fixar o termo inicial do benefício e a incidência dos juros de mora e da correção monetária, mantendo a sentença no que se refere ao reconhecimento de período de atividade rural e concessão do benefício de aposentadoria por tempo de contribuição.
+2. Argumento principal do agravo interno relacionado com a impossibilidade de consideração dos períodos de atividade rural, sem contribuição efetiva para a Previdência Social, como período de carência.
+3. Manutenção da decisão agravada, uma vez que, com os períodos de atividade rural reconhecidos em primeira instância que, somados aos demais períodos rurais previamente reconhecidos pelo próprio INSS no processo administrativo e períodos de contribuição, resultaram em mais de trinta e cinco anos de serviço/contribuição.
+4. Planilha de cálculo de tempo de contribuição realizada pela Autarquia Federal demonstra a existência de 19 anos, 08 meses e 26 dias de atividade rural, assim reconhecidos administrativamente e na decisão agravada, bem como indica a existência de tempo de contribuição reconhecido pelo INSS em atividade urbana, perfazendo o período mínimo de carência exigido, consistente em 15 anos, 08 meses e 22 dias.
+5. Presentes os requisitos necessários para concessão do benefício de aposentadoria reconhecido na decisão agravada, não cabe qualquer reparo ao quanto fora nela fixado.
+6. Agravo Interno a que se nega provimento. Mantida a decisão monocrática.
+Os embargos de declaração opostos pelo INSS foram parcialmente acolhidos, nos seguintes termos (fl. 450):
+PROCESSO CIVIL. PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. TEMPO DE SERVIÇO RURAL POSTERIOR À EDIÇÃO DA LEI Nº 8.213/91. INEXIGÊNCIA DE RECOLHIMENTO DE CONTRIBUIÇÕES APENAS PARA BENEFÍCIO DE VALOR MÍNIMO. APOSENTADORIA POR TEMPO DE SERVIÇO. REQUISITOS PREENCHIDOS. NOVOS FUNDAMENTOS AO ACÓRDÃO EMBARGADO.
+- São cabíveis embargos de declaração quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado. Não servem os embargos de declaração para a rediscussão da causa.
+- O tempo de serviço rural exercido no período posterior ao advento da Lei nº 8.213/91, em se tratando de segurado especial a que se refere o inciso VII do art. 11 da mesma lei, somente poderá ser computado, para fins de aposentadoria por tempo de serviço ou outro benefício de valor superior à renda mínima, mediante o recolhimento das contribuições previdenciárias respectivas.
+- Cumpridos os requisitos legais, o segurado faz jus à concessão da aposentadoria por tempo de serviço, no valor de um salário mínimo.
+- Embargos de declaração parcialmente acolhidos para sanar omissão, sem efeitos infringentes.
+Nas razões recursais, a parte agravante aponta ofensa ao art. 1.022, II, do Código de Processo Civil (CPC), "em razão da Corte de origem ter deixado de asseverar no acórdão regional todas as questões jurídicas e informações fático-probatórias indispensáveis à admissão e julgamento do recurso especial" (fl. 457), bem como aos arts. 39, I, e 55, § 2º, da Lei 8.213/1991, ao fundamento de que, no caso do benefício de aposentadoria por tempo de contribuição mediante o cômputo de tempo de serviço rural, prestado como segurado especial e sem registro em CTPS, "o segurado especial necessita indenizar ou comprovar o recolhimento de contribuições sociais, na forma disciplinada pela Lei 8.212/91, para que o tempo de atividade posterior a 24.07.91 seja reconhecido e computado" (fl. 458), o que não teria ocorrido no caso dos autos.
+Contrarrazões apresentadas às fls. 464/470.
+O recurso não foi admitido (fls. 474/476), razão pela qual foi interposto o agravo ora examinado (fls. 477/482).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, cuida-se de ação previdenciária em que o autor pleiteia a concessão de aposentadoria por tempo de contribuição, mediante o cômputo de tempo de serviço rural exercido como segurado especial, incluindo o período posterior à vigência da Lei 8.213/1991 (1º/11/1991 a 30/12/1992), sem recolhimento de contribuições previdenciárias.
+É firme o entendimento no âmbito desta Corte no sentido de que, para fins de cumprimento dos requisitos necessários à concessão de aposentadoria por tempo de contribuição, mesmo para o trabalhador rural, é exigida a comprovação do recolhimento de contribuições previdenciárias.
+Nesse sentido:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CÔMPUTO DE TEMPO DE SERVIÇO RURAL PARA EFEITO DE CARÊNCIA. AUSÊNCIA DE RECOLHIMENTO DE CONTRIBUIÇÕES. IMPOSSIBILIDADE. SÚMULA N. 83 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Conforme a jurisprudência desta Corte, em se tratando de aposentadoria por tempo de contribuição, é necessário o recolhimento das contribuições previdenciárias legalmente exigidas, sendo vedado o cômputo do tempo de serviço rural para efeito de carência. Desse entendimento não destoou o Tribunal a quo, o que faz incidir na espécie a Súmula n. 83 do STJ.
+2. Recurso especial não conhecido.
+(REsp n. 1.651.035/ES, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025, sem grifos no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE RURAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. NÃO CUMPRIMENTO DOS REQUISITOS NECESSÁRIOS À CONCESSÃO DO BENEFÍCIO PREVIDENCIÁRIO. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte, firmada no sentido de que, para fins de cumprimento dos requisitos necessários à concessão de aposentadoria por tempo de contribuição, mesmo para o trabalhador rural, é exigida a comprovação do recolhimento de contribuições previdenciárias.
+2. Agravo interno improvido.
+(AgInt no AREsp n. 2.720.620/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025, sem grifos no original.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EXERCÍCIO DE ATIVIDADE RURAL POSTERIOR À LEI 8.213/91. NECESSIDADE DE RECOLHIMENTO DE CONTRIBUIÇÕES PREVIDENCIÁRIAS. LABOR RURÍCOLA ANTERIOR AOS 12 (DOZE) ANOS DE IDADE. NÃO COMPROVAÇÃO. SÚMULA 07/STJ.
+1. Segundo consolidada jurisprudência desta Corte, a concessão de aposentadoria por tempo de contribuição, aqui incluído o trabalhador rural, exige a comprovação de recolhimento das contribuições previdenciárias.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.460.773/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/6/2024, DJe de 20/6/2024, sem grifos no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO DO CÔMPUTO DE PERÍODO DE ATIVIDADE RURAL POSTERIOR À LEI N. 8.213/91 SEM O RECOLHIMENTO DE CONTRIBUIÇÕES FACULTATIVAS. IMPOSSIBILIDADE. DECISÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. O artigo 39, I, da Lei 8.213/1991, assegura aos segurados especiais referidos no inciso VII do artigo 11 da mesma Lei, que apenas comprovem atividade rural, os benefícios aposentadoria por idade, aposentadoria por invalidez, auxílio-doença, auxílio-reclusão, ou pensão por morte, no valor de um salário mínimo, e auxílio-acidente, desde que comprovem o exercício de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, igual ao número de meses correspondentes à carência do benefício requerido. Para o benefício aposentadoria por tempo de serviço/contribuição ou demais benefícios aqui elencados em valor superior ao salário mínimo, deve haver contribuição previdenciária na modalidade facultativa prevista no § 1º do artigo 25 da Lei 8.212/1991.
+3. O STJ possui jurisprudência firme e consolidada no sentido de que, para fins de concessão de aposentadoria por tempo de contribuição, com o reconhecimento de atividade rural referente a períodos posteriores à edição da Lei 8.213/1991, faz-se necessário o recolhimento de contribuições previdenciárias.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.991.852/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/8/2022, DJe de 24/8/2022, sem grifos no original.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO RURAL. RECONHECIMENTO. AGROPECUÁRIA. AVERBAÇÃO. 7/STJ. APOSENTADORIA POR TEMPO DE SERVIÇO. PERÍODO POSTERIOR À VIGÊNCIA DA LEI DE BENEFÍCIOS. RECOLHIMENTO. IMPRESCINDIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Consoante os termos da jurisprudência deste STJ, para fins de concessão de aposentadoria por tempo de contribuição, com o reconhecimento de atividade rural referente a períodos posteriores à edição da Lei 8.213/1991, faz-se necessário o recolhimento de contribuições previdenciárias.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.160.526/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023, sem grifos no original.)
+Assim, o Tribunal de origem, ao decidir que, tratando-se de segurado especial, não é exigido o recolhimento de contribuições previdenciárias para a concessão de benefícios de valor mínimo, mesmo após o advento da Lei 8.213/1991, o fez em descompasso com o entendimento dominante firmado no âmbito desta Corte, impondo-se, assim, a sua reforma.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, para fins de aposentadoria por tempo de contribuição e após a edição da Lei 8.213/1991, condicionar o reconhecimento do tempo de serviço rural ao efetivo recolhimento das contribuições previdenciárias.
+Prejudicada a análise da ofensa ao art. 1.022 do Código de Processo Civil (CPC).
+Publique-se. Intimem-se.
+ EMENTA
