@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Agravo apresentado por INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO ESTADO DO ESPIRITO SANTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - CUSTAS REMANESCENTES - EXPEDIÇÃO DE RPV - AUTARQUIA ESTADUAL - SERVENTIA NÃO- OFICIALIZADA - INCONSTITUCIONALIDADE DO ARTIGO 20, §1º, DA LEI ESTADUAL  9.974/13 NÃO CONFIGURADA - AUSÊNCIA DE VIOLAÇÃO AO ART. 31 DO ADCT - DEVIDO PROCESSO LEGAL OBSERVADO - ATOS EXCLUSIVAMENTE PRATICADOS PELA ESCRIVÂ - PERCENTUAL EXPRESSO EM LEI - INVIABILIDADE DE RATEIO - INEXISTÊNCIA DE INDÍCIO DE VIOLAÇÃO DO TETO REMUNERATÓRIO - RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 534 do CPC, no que concerne ao reconhecimento da ilegalidade da expedição de ofício requisitório para pagamento de custas de cartório não oficializado sem qualquer requerimento da parte credora, o que afronta o devido processo legal, trazendo a seguinte argumentação:
+Conforme exposto alhures, o Juízo de origem determinou o pagamento das custas processuais pelo IPAJM, o que ensejou a expedição de RPV em favor da Sra. Escrivã Inês Neves da Silva Santos, haja vista a prática de atos quando a Serventia ainda se tratava de serventia não-oficializada.
+Entretanto, compulsando os autos, verifica-se que NÃO HOUVE REGULAR FORMULAÇÃO DO PEDIDO DE CUMPRIMENTO DE SENTENÇA PELA SRA. ESCRIVÃ, na forma do art.534 do Código de Processo Civil, tendo o ofício requisitório sido expedido de ofício pelo Juízo de Origem, EM VIOLAÇÃO À GARANTIA CONSTITUCIONAL DO DEVIDO PROCESSO LEGAL E SONEGANDO-SE DO IPAJM O DIREITO DE IMPUGNAR A PRESENTE EXECUÇÃO NA FORMA ESTABELECIDA PELO CPC.
+ ..
+Vê-se, assim, que o cumprimento de sentença deverá se dar por iniciativa da credora, não sendo admitida execução de ofício (fl. 117).
+Nesse contexto, diante da impossibilidade de execução e expedição de RPV de ofício, sem a correspondente formulação do pedido de cumprimento de sentença pela pretensa credora, pugna-se seja reconhecida reformado o v. acórdão e determinado ao Juízo de Origem que se abstenha de expedir ofício requisitório expedido para pagamento das custas processuais sem a regular apresentação de cumprimento de sentença e intimação do IPAJM para eventual impugnação após manifestação expressa da suposta credora (fl. 119).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
