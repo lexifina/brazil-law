@@ -1,0 +1,1 @@
+Art. 26. Os prazos de desincompatibilização previstos nesta lei complementar que já estiverem ultrapassados na data de sua vigência considerar-se-ão atendidos desde que a desincompatibilização ocorra até 2 (dois) dias após a publicação desta lei complementar.

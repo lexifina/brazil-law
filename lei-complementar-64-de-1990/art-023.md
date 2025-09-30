@@ -1,0 +1,1 @@
+Art. 23. O Tribunal formará sua convicção pela livre apreciação dos fatos públicos e notórios, dos indícios e presunções e prova produzida, atentando para circunstâncias ou fatos, ainda que não indicados ou alegados pelas partes, mas que preservem o interesse público de lisura eleitoral.
