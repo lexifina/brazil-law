@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MORADDA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso não merece provimento, pois ausente violação de legislação federal.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia em apelação nos autos de embargos à execução.
+O julgado foi assim ementado (fls. 110-111):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PRELIMINAR DE CERCEAMENTO DO DIREITO DE DEFESA REJEITADA. MÉRITO. CHEQUE. TÍTULO REPASSADO AO APELADO. CAMBIARIDADE DO CHEQUE QUE DECORRE DO PREENCHIMENTO DE SEUS REQUISITOS FORMAIS E NÃO DOS TERMOS DO NEGÓCIO SUBJACENTE. TÍTULO QUE CONTÉM OBRIGAÇÃO LÍQUIDA, CERTA E EXIGÍVEL. RECURSO CONHECIDO E NÃO PROVIDO.
+1. O indeferimento de provas impertinentes não afronta o princípio constitucional do contraditório e da ampla defesa, porquanto praticado com observância do princípio constitucional do devido processo legal, que atribui ao juízo da causa o dever de zelar pela rápida solução do litígio e de indeferir diligências inúteis ou meramente protelatórias, como expressamente previsto nos artigos 139, ii, e 370, ambos do cpc/15. como as provas pleiteadas pela apelante não eram realmente necessárias, não deve ser acolhido o argumento de cerceamento do direito de defesa e nulidade da sentença. preliminar rejeitada.
+2. No mérito, tem-se que, diante da literalidade e autonomia do cheque, o portador nada tem que provar a respeito de sua origem. ao devedor é que, suscitada a discussão do negócio subjacente, cumpre o encargo de provar que o título não tem causa ou que sua causa é ilegítima, devendo, outrossim, fazê-lo por meio de prova robusta, cabal e convincente, porquanto, ainda na dúvida, o que prevalece é a presunção legal de legitimidade do título cambiário.
+3. A discussão sobre a causa debendi não repercutirá no direito do apelado. é que o cheque constitui título de crédito que vale por sua literalidade, com abstração da causa que lhe deu origem. vale dizer, é título de crédito que independe de sua origem, não havendo qualquer exigência legal de indicação da causa debendi de emissão para cobrança do valor nele indicado
+4. Da leitura atenta dos autos, tem-se que a apelante não se desincumbiu do ônus de desconstituir o título exequendo, eis que não colacionou ao feito prova cabal e suficiente de que houve vício/irregularidade na emissão do cheque. assim, estando o cheque devidamente assinado e reconhecido pelo devedor, representa título executivo líquido, certo e, portanto, exigível (art. 784 cpc/15).
+5. Recurso conhecido e improvido.
+Os embargos de declaração opostos foram rejeitados nestes termos (fls. 309-310):
+EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CHEQUE. AUSÊNCIA DE VÍCIOS NO JULGADO. DESNECESSIDADE DE MANIFESTAÇÃO SOBRE TODOS OS ARGUMENTOS SUSCITADOS PELAS PARTES. PRECEDENTES DO STJ. APLICAÇÃO DE REGRAS DE EXPERIÊNCIA COMUM PELO MAGISTRADO. POSSIBILIDADE. NULIDADE NÃO VERIFICADA. REEXAME DA CAUSA E PREQUESTIONAMENTO. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão vergastado não incorreu nos vícios de omissão e obscuridade, pois esclareceu de forma completa, clara e objetiva todas as questões relacionadas à regularidade da emissão da cártula, esclarecendo que a cambiaridade do cheque decorre do preenchimento de seus requisitos formais e não dos termos do negócio subjacente.
+2. Conforme a jurisprudência consolidada do stj, o magistrado não é obrigado a se manifestar sobre todos os argumentos e dispositivos legais suscitados pelas partes, quando esses não se revelem capazes de, em tese, infirmar o entendimento adotado, e desde que exponha as razões que levaram à formação de seu convencimento, o que de fato ocorreu.
+3. Não se verifica a alegada nulidade decorrente da utilização, pelo sentenciante, de fundamentos não apresentados por qualquer das partes, pois, nos termos do art. 375 do cpc, é permitido ao julgador aplicar as regras de experiência comum subministradas pela observação do que ordinariamente acontece.
+4. O real escopo da embargante é ver reexaminada a matéria, o que não se admite em sede de embargos declaratórios, por se tratar, como visto, de recurso de fundamentação vinculada às hipóteses taxativamente previstas no art. 1.022 do cpc.
+5. Ainda que para efeitos de prequestionamento, ficam os embargos adstritos à existência de obscuridade, contradição ou omissão, não se prestando ao único e exclusivo fim de prequestionar ou reapreciar a matéria já devidamente analisada no acórdão.
+6. Embargos de declaração rejeitados.
+No recurso especial, a parte aponta a violação dos seguintes artigos:
+a) 5º, LIV, da Constituição Federal, pois houve cerceamento de defesa em razão da não realização de provas requeridas, como o depoimento pessoal do embargado e a oitiva de testemunhas;
+b) 10 do CPC de 2015, porque a sentença foi fundamentada em argumentos não apresentados pelas partes, configurando decisão surpresa;
+c) 302 e 372 do CPC de 1973, pois os documentos apresentados pelo recorrente não foram impugnados pelo recorrido, o que deveria gerar presunção de veracidade;
+d) 784 do CPC de 2015, porque o cheque foi tornado sem efeito em razão de renegociação da dívida, o que descaracterizaria sua exigibilidade.
+Requer o provimento do recurso para que se reconheça a nulidade da sentença e do acórdão recorrido, determinando-se o retorno dos autos à origem para reabertura da instrução probatória.
+Nas contrarrazões, a parte recorrida se manifesta nos termos já mencionados.
+É o relatório. Decido.
+I - Art. 5º, LIV, da CF
+A agravante sustenta violação de dispositivo constitucional sob argumento de que houve cerceamento de defesa em razão da não realização de provas requeridas, como o depoimento pessoal do embargado e a oitiva de testemunhas.
+O Superior Tribunal de Justiça já decidiu ser incabível o recurso especial que visa discutir violação de norma constitucional, porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário, de competência do Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt nos EREsp n. 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 2/6/2020, DJe de 16/6/2020).
+Confiram-se ainda os seguintes precedentes: EDcl nos EDcl no REsp n. 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 23/9/2020, DJe de 28/9/2020; (EDcl no REsp n. 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/12/2019, DJe de 13/12/2019.
+II - Arts. 10 e 784 do CPC de 2015
+A agravante aponta violação do art. 10 do CPC sob argumento de que os fundamentos adotados em sentença fogem da discussão dos autos e dos argumentos apresentados pelas partes.
+Aduz ainda violação do art. 784 do CPC, já que o cheque foi tornado sem efeito em razão de renegociação da dívida, o que descaracterizaria sua exigibilidade.
+Defende que o juízo não poderia ter fundamentado a sentença na possibilidade ou não de renegociação da dívida, pois o argumento não foi invocado pelas partes.
+A pretensão não prospera.
+O cheque é "ordem de pagamento à vista e submete-se aos princípios, caros ao direito cambiário, da literalidade, abstração, autonomia das obrigações cambiais e inoponibilidade das exceções pessoais a terceiros de boa-fé" (REsp n. 884.346/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/10/2011, DJe de 4/11/2011).
+A autonomia e independência do cheque em relação à relação jurídica que o originou é presumida, mas não de forma absoluta, de modo que é possível investigar a causa debendi e afastar a cobrança quando verificado que a obrigação subjacente claramente se ressente de embasamento legal (REsp n. 43.513/SP, relator Ministro Aldir Passarinho Junior, Quarta Turma, julgado em 7/2/2002, DJ de 15/4/2002).
+O princípio da autonomia dos títulos de crédito depende da efetiva circulação, de forma que, estando a cártula com o credor originário, é possível a discussão do negócio subjacente firmado entre as partes.
+No caso em análise, como confirmado pela própria agravante, o cheque que embasa a execução foi repassado ao exequente, tendo, portanto, circulado, não cabendo a esta Corte analisar a apontada má-fé, providência restrita às instâncias ordinárias e independente de eventual regresso da parte prejudicada.
+Logo, não procede a alegada violação dos dispositivos legais indicados, pois, como mencionado, com a circulação do título, não cabe analisar o negócio adjacente, cabendo ao juízo a condução do processo e o indeferimento de provas inúteis ao deslinde do feito, não estando adstrito aos argumentos das partes, sobretudo quanto aos fatos incontroversos, como no presente caso (AgInt nos EDcl no REsp n. 1.575.781/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/2/2020, DJe de 26/2/2020).
+Incide na espécie, portanto, a Súmula n. 83 do STJ.
+III - Arts. 302 e 372 do CPC de 1973
+A agravante argumenta que houve ofensa aos arts. 302 e 372 do CPC de 1973, porquanto os documentos apresentados não foram impugnados pelo recorrido, o que deveria gerar presunção de veracidade.
+A pretensão não prospera.
+Compete à instância ordinária analisar e valorar as provas apresentadas pelas partes.
+Para analisar os efeitos processuais sobre a suposta ausência de impugnação específica dos documentos, com o devido sopesamento entre as outras provas apresentadas e respectivos efeitos, seria necessário o reexame de todo o acervo fático-probatório produzido, o que é vedado a esta Corte.
+Apesar da apontada presunção como efeito da ausência de impugnação específica de determinado documento, há, por outro lado, a presunção conferida aos títulos de crédito, no caso, ao cheque que embasa a execução, tendo a decisão recorrida exposto as razões de convencimento.
+Nesse contexto, rever a conclusão da Corte de origem quanto ao sopesamento das provas apresentadas encontra óbice na Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. CHEQUES. TÍTULO DE CRÉDITO. NÃO CIRCULAÇÃO. DISCUSSÃO A RESPEITO DA CAUSA DEBENDI. ENTREGA DE MERCADORIAS. COMPRADOR. PROVA NEGATIVA. ÔNUS DA PROVA. ATRIBUIÇÃO AO VENDEDOR. POSSIBILIDADE. REEXAME. MÁXIMAS DA EXPERIÊNCIA. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na cobrança de título de crédito causal ou na de título não causal que não circulou - na qual persiste a possibilidade de questionamento da causa debendi - , é possível ao juiz atribuir ao vendedor ou fornecedor o ônus da prova de que as mercadorias foram entregues ou de que os serviços foram prestados, que é perfeitamente viável, notadamente quando a imposição desse ônus ao comprador exigir a produção de prova negativa, o que é avaliado segundo as peculiaridades de cada hipótese concreta em conclusões cuja revisão é inviabilizada no âmbito do recurso especial, ante a incidência do óbice da Súmula 7/STJ.
+2. No caso, o Tribunal de origem concluiu que não é possível impor à compradora a prova de fato negativo, ou seja, de que não recebeu as mercadorias, cuja revisão é inviável, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.368.617/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023, destaquei.)
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
