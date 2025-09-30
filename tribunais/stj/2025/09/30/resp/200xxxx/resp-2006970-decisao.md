@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+RECURSOS DE APELAÇÃO EM AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS - RECUSA DE COBERTURA POR PLANO DE SAÚDE - MATERIAL CIRÚRGICO - CIRURGIA ORTOPÉDICA - JUNTA MÉDICA QUE NÃO PODE SE SOBREPOR À INDICAÇÃO DE MÉDICO ESPECIALISTA QUE ATENDE O USUÁRIO DO PLANO DE SAÚDE - DANO MORAL CONFIGURADO - RECUSA INDEVIDA - ESTADO PSICOLÓGICO FRAGILIZADO - QUANTUM INDENIZATÓRIO RAZOÁVEL E PROPORCIONAL - RECURSO DA RÉ CONHECIDO E NÃO PROVIDO E DO AUTOR CONHECIDO E PROVIDO, EM PARTE COM O PARECER DA PGJ.
+I - Não obstante a tese defensiva, o fato de o procedimento cirúrgico ortopédico da forma como fora prescrito ao autor ter sido desaconselhado por Junta Médica não pode se sobrepor à decisão dos médicos responsáveis pelo tratamento do autor.
+II - A "ponteira de ablação radiofrequência cap st 90 200" é material ligado ao ato cirúrgico, que se mostra importante à cirurgia indicada ao autor, ora apelante, evidente que a cobertura é obrigatória, sobretudo por se tratar de dispositivo relacionado diretamente com o procedimento assistencial a ser realizado, nos termos da cláusula terceira do contrato.
+III - O direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura do plano de saúde é devido, pois o fato agrava a situação de aflição psicológica e de angústia no espírito do usuário do plano de saúde, uma vez que, ao pedir a autorização de cobertura, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+Contra o referido acórdão, a parte recorrente opôs embargos de declaração, afirmando que a Corte de origem não examinou o pedido de aplicação da regra do art. 406 do Código Civil, quanto à atualização de valores por danos morais, a qual deve observar a Taxa Selic, por englobar correção monetária e juros de mora.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 1.022 do Código de Processo Civil.
+Em face do exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
+EMENTA
