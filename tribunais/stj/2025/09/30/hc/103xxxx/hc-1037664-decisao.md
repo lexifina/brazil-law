@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CÁSSIO MARCOS DA SILVA BARRETO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500377-37.2019.8.26.0128).
+Consta nos autos que o paciente foi condenado em primeira instância à pena de 10 (dez) anos e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06) e associação para o tráfico (art. 35, caput, da Lei n. 11.343/06).
+Em grau de apelação, o Tribunal de origem deu parcial provimento ao recurso da Defesa para reajustar a pena para 09 (nove) anos e 04 (quatro) meses de reclusão, mantendo, no mais, a condenação e o regime fechado.
+A impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que a condenação pelo crime de associação para o tráfico é manifestamente ilegal, pois não teria sido demonstrado o elemento subjetivo do tipo, qual seja, o ânimo associativo de caráter estável e permanente.
+Aduz, ainda, a ilegalidade no afastamento da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/06), uma vez que a negativa se baseou na própria condenação por associação e em uma suposta dedicação a atividades criminosas não comprovada por elementos concretos.
+Afirma que o paciente, em consequência das ilegalidades apontadas, cumpre pena desproporcional em regime mais gravoso que o devido.
+Requer, liminarmente e no mérito, a concessão da ordem para: a) afastar a condenação pelo crime de associação para o tráfico; aplicar a minorante do tráfico privilegiado em sua fração máxima e, por conseguinte, readequar a pena, com a fixação de regime inicial mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Decido.
+De plano, verifico que no HC n. 1.005.718/SP foi pleiteada a absolvição pelo crime de associação para o tráfico, pretensão idêntica à veiculada nesta impetração em favor do mesmo paciente, tratando-se, portanto, o presente mandamus, no ponto, mera reiteração.
+Na oportunidade, em 03/09/2025, os Ministros da Sexta Turma, por unanimidade, negaram provimento ao agravo regimental nos termos do voto do relator, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), assim consignando:
+De fato, apontando as instâncias ordinárias elementos concretos à conclusão da estabilidade na associação voltada ao escuso comércio de entorpecentes entre o ora agravante e sua companheira, observados em campanas por policiais após diversas denúncias dando conta da prática conjunta de tráfico de entorpecentes na residência do casal, conforme relatório e depoimentos dos agentes da lei, eivados de fé pública e imparcialidade, não se vislumbra de plano teratologia nos decisuns.
+E conclusão contrária, absolvendo-se o recorrente em consequência da insuficiência do conjunto probatório à certeza da estabilidade e permanência na associação, demandaria revolvimento das provas e fatos, o que inadmitido na estreita via do habeas corpus.
+Lado outro, constato  que  o  presente  habeas  corpus  foi  impetrado  contra  o  acórdão  do  Tribunal  de  origem,  já  transitado  em  julgado.  Diante  dessa  situação,  não  deve  ser  conhecido  o  presente  writ,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+De  fato,  nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados.  Acerca  da  questão,  cito  o  seguinte  precedente  da  Sexta Turma:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. ALEGAÇÕES DE VALORAÇÃO INADEQUADA DA PROVA, ATIPICIDADE DAS CONDUTAS, APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA E INADEQUAÇÃO DO REGIME PRISIONAL. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. A ocorrência do trânsito em julgado do ato objeto da impetração torna inviável a apreciação do pedido nesta instância superior.
+2. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+ ..
+4. Agravo regimental improvido.
+(AgRg no HC n. 1.000.063/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício. Mostra-se inviável a concessão da causa de diminuição de pena do tráfico privilegiado. Esta Corte consolidou entendimento no sentido de que a condenação simultânea por associação para o tráfico constitui elemento suficiente para demonstrar a dedicação habitual do acusado a atividades criminosas, justificando o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. INTERCEPTAÇÕES TELEFÔNICAS. AUSÊNCIA DE NULIDADE. NECESSIDADE DA MEDIDA. INVASÃO DE DOMICÍLIO. SÚMULA N. 283 DO STF. ABSOLVIÇÃO. IMPOSSIBILIDADE. PENA-BASE. SÚMULA N. 284 DO STF. AGRAVANTE. ART. 62, I, DO CP. FUNDAMENTADA. MINORANTE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+7. A Terceira Seção deste Superior Tribunal possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+8. Agravo regimental não provido.
+(AgRg no REsp n. 2.058.367/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2025, DJEN de 27/6/2025.)
+Por fim, tendo sido condenado à pena total de 10 (dez) anos e 08 (oito) meses de reclusão, está devidamente justificada a imposição do regime inicial fechado, em razão do disposto no art. 33, § 2.º, alínea "a", do Código Penal.
+Tal  entendimento  encontra  amparo  na  jurisprudência  desta  Corte  Superior,  segundo  a  qual , estabelecida a pena em patamar superior a 8 anos, o regime inicial fechado é o adequado para o início do cumprimento da pena reclusiva, nos termos do art. 33, § 2º, "a", do Código Penal (AgRg no HC n. 863.123/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se
+EMENTA
