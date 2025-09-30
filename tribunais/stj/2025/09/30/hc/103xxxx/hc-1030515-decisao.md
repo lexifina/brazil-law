@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de DANILO WALLACE GOMES MACEDO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA no julgamento do Habeas Corpus Criminal n. 0805186-11.2025.8.22.0000.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática dos crimes previstos nos arts. 333, caput, e 331, caput, ambos do Código Penal (corrupção ativa e desacato), tendo o Ministério Público deixado de oferecer Acordo de Não Persecução Penal - ANPP.
+Na audiência de instrução e julgamento, o Magistrado a quo negou o pedido da defesa de remessa dos autos ao Ministério Público para revisão interna no órgão ministerial, em virtude de preclusão.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão de fls. 7/16.
+No presente writ, a defesa afirma que possui direito à celebração do acordo, uma vez que um inquérito em andamento não impede a celebração de um ANPP.
+Aduz que a Primeira Turma do Supremo Tribunal Federal (STF) fixou entendimento de que é possível realizar ANPP desde que seja solicitado antes de o juiz decretar a sentença. Ressalta que, o § 3º do novo art. 28-A do CPP criou uma causa extintiva da punibilidade, de modo que o acordo adquiriu natureza mista de norma penal e processual penal, o que o leva a retroagir para beneficiar a todos.
+Portanto, sustenta que o acordo de não persecução penal é cabível não só aos casos em que ainda não houve ajuizamento da ação penal, como também aos processos em andamento. Requer, em liminar, suspensão do curso da Ação Penal n. 7002858- 60.2023.8.22.0010, da 1ª Vara Criminal - Rolim de Moura/RO, vez que já se iniciou o prazo para apresentação de alegações finais, até o julgamento final desde writ. No mérito, a concessão da ordem, a fim de determinar que seja ofertado ao paciente acordo de não persecução penal nos termos do art. 28-A, § 3º, do CPP.
+Medida liminar indeferida, conforme decisão de fls. 33/34.
+Informações prestadas às fls. 40/42, 44/48 e 51/55.
+Parecer do Ministério Público Federal pelo não conhecimento do presente habeas corpus (fls. 59/64).
+É o relatório.
+Decido.
+Conforme relatado, buscava-se, no presente writ, o reconhecimento da possibilidade de oferecimento do ANPP ao paciente.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Observa-se, conforme asseverou o parecer ministerial, que foi manejado, além do presente habeas corpus, Recurso em Sentido Estrito contra a mesma decisão. Segundo consta da informação prestada pelo Juízo a quo, aguarda-se a apresentação de contrarrazões.
+Conforme a jurisprudência deste sodalício, tal situação é inadmissível e se trata de afronta ao princípio da unirrecorribilidade e subversão do sistema recursal, ensejando o não conhecimento da ordem.
+É o que se extrai das seguintes decisões:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FALSIDADE IDEOLÓGICA. DOSIMETRIA. PRECLUSÃO TEMPORAL. WRIT IMPETRADO SEIS ANOS APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO, CONCOMITANTEMENTE À REVISÃO CRIMINAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Como regra, o trânsito em julgado da condenação impede a parte de impetrar habeas corpus perante este Sodalício, porquanto a competência do Superior Tribunal de Justiça, prevista no art. 105, I, "e", da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+III - No presente caso, o trânsito em julgado do acórdão impugnado ocorreu em 15 de maio de 2017, tendo sido impetrado o presente writ somente em 31 de julho de 2023 (fl. 03), isto é, após mais de 6 (seis) anos do trânsito em julgado da condenação, funda mentação apta a ensejar o não conhecimento do habeas corpus, nos moldes da jurisprudência desta Corte Superior, em razão da prevalência, na hipótese, da coisa julgada e da segurança jurídica.
+IV - Aliada à preclusão temporal, verifico que o habeas corpus foi impetrado concomitante à revisão criminal n. 0029255-03.2023.8.26.0000, a qual está pendente de julgamento perante a Corte de origem, corroborando a impossibilidade de conhecimento do writ, em razão da violação ao princípio da unirrecorribilidade das decisões. Assim, entendo que "o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (HC n. 482.549/SP, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 02/04/2020).
+Agravo regimental desprovido.
+(AgRg no HC n. 842.490/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO CONSUMADO E OUTRO TENTADO. CONDENAÇÃO TRANSITADA EM JULGADO. IMPETRAÇÃO CONCOMITANTE COM AJUIZAMENTO DE REVISÃO CRIMINAL. RACIONALIDADE DO SISTEMA RECURSAL. REVISÃO CRIMINAL. EFEITO SUSPENSIVO. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência das Cortes Superiores admite a impetração do remédio constitucional em substituição ao recurso adequado, para correção de flagrante ilegalidade que repercuta no direito de locomoção. Todavia, uma vez transitada em julgado a condenação e aviada revisão criminal, que está em processamento, a impetração simultânea do habeas corpus com o mesmo objetivo de reformar o decreto condenatório fere o princípio da unirrecorribilidade e causa verdadeiro tumulto processual, inclusive com risco de decisões conflitantes e de burla ao critério funcional de fixação de competência entre os diversos órgãos fracionários do Tribunal.
+2. A revisão criminal não é dotada de efeito suspensivo.
+Precedentes.
+3. Agravo regimental não provido.
+(AgRg no HC n. 674.869/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/5/2022, DJe de 30/5/2022.)
+Além disso, não se vislumbra qualquer ilegalidade quanto ao não oferecimento de acordo de não persecução penal. Conforme asseverou o Tribunal de origem:
+"E Quando do oferecimento da denúncia, o Ministério Público deixou de oferecer acordo de não persecução penal sob o argumento de que o paciente ostenta conduta criminal habitual, incidindo, para o órgão ministerial, na proibição da concessão do acordo, prevista no inciso II, segunda parte do art. 28-A.
+ ..
+Com efeito, constam vários registros criminais em desfavor do paciente, evidenciando habitualidade criminosa.
+Não obstante o motivo que levou o Ministério Público a não oferecer o acordo, a impetrante se voltou contra decisão da magistrada que, na audiência de instrução e julgamento, negou o pedido de remessa dos autos ao Ministério Público para revisão interna no órgão ministerial, em virtude de preclusão.
+No entanto, a decisão de primeiro grau foi acertada, pois durante a fase de resposta à acusação - primeira oportunidade da defesa se manifestar nos autos -, já ciente dos motivos que levam ao não oferecimento do acordo, oportunidade em que caberia à defesa insurgir-se contra o ato ministerial, requerendo ao juízo o encaminhamento dos autos ao MP.
+Ressalte-se que a finalidade do Acordo de não persecução penal, como se depreende do próprio nome do instituto, é justamente evitar a deflagração da ação penal, mas a defesa não se manifestou no momento processual adequado, ocorrendo a preclusão temporal." (fls. 10/11)
+A fundamentação utilizada para negativa de oferecimento do acordo é idônea, tendo indicado o paquet a possibilidade de reiteração criminosa e habitualidade delitiva do acusado.
+Além disso, o entendimento desta Corte é no sentido de que não cabe ao Poder Judiciário determinar que o Ministério Público oferte o referido acordo.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP. DENÚNCIA OFERTADA E RECEBIDA. PLEITO DE TRANCAMENTO DA AÇÃO PENAL E REALIZAÇÃO DO ACORDO. NÃO CABIMENTO. FACULDADE DO PARQUET. RECUSA DEVIDAMENTE FUNDAMENTADA. RECURSO NÃO PROVIDO.
+1. O acordo de não persecução penal, previsto no art. 28-A do Código Penal, implementado pela Lei n. 13.964/2019, indica a possibilidade de realização de negócio jurídico pré-processual entre a acusação e o investigado. Trata-se de fase prévia e alternativa à propositura de ação penal, que exige, dentre outros requisitos, aqueles previstos no caput do artigo: 1) delito sem violência ou grave ameaça com pena mínima inferior a 4 anos; 2) ter o investigado confessado formal e circunstancialmente a infração; e 3) suficiência e necessidade da medida para reprovação e prevenção do crime. Além disso, extrai-se do §2º, inciso II, que a reincidência ou a conduta criminal habitual, reiterada ou profissional afasta a possibilidade da proposta.
+2. No caso, o acordo pretendido deixou de ser ofertado ao recorrente em razão do Ministério Público ter considerado estarem ausentes os requisitos objetivos e subjetivos para a proposição do acordo, tendo sido destacado que ele possui contra si condenação pelo crime de estelionato, a qual, embora não tenha transitado em julgado, aponta, no entendimento do titular da ação penal, para uma reiteração de conduta criminosa.
+3. Esta Corte Superior entende que não há ilegalidade na recusa do oferecimento de proposta de acordo de não persecução penal quando o representante do Ministério Público, de forma fundamentada, constata a ausência dos requisitos subjetivos legais necessários à elaboração do acordo, de modo que este não atenderia aos critérios de necessidade e suficiência em face do caso concreto.
+4. De acordo com entendimento já esposado pela Primeira Turma do Supremo Tribunal Federal, a possibilidade de oferecimento do acordo de não persecução penal é conferida exclusivamente ao Ministério Público, não constituindo direito subjetivo do investigado.
+5. Cuidando-se de faculdade do Parquet, a partir da ponderação da discricionariedade da propositura do acordo, mitigada pela devida observância do cumprimento dos requisitos legais, não cabe ao Poder Judiciário determinar ao Ministério Público que oferte o acordo de não persecução penal.
+6. Recurso não provido.
+(RHC n. 159.643/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 26/4/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ANPP. PRECLUSÃO, NO CASO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora a denúncia tenha sido recebida já na vigência da Lei n. 13.964/2019, a defesa não se insurgiu no momento processual correto contra a recusa do Ministério Público em propor o ANPP, descumprindo assim o art. 28-A, § 14, do CPP. Apenas nos embargos de declaração contra o acórdão condenatório é que a questão foi suscitada. Preclusão, conforme precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.599.187/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente mandamus.
+Publique-se.
+Intimem-se.
+EMENTA
