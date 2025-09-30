@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de ALAX ESTEVES VIANA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, na Apelação Criminal n. 0005561-32.2018.8.08.0048.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, pelos crimes dos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, tendo-lhe sido fixadas as seguintes reprimendas: pelo tráfico, 6 anos de reclusão e multa; pelo crime de associação, 3 anos e 7 meses de reclusão e multa. Na sentença, foi afastada a causa de diminuição do § 4º do art. 33, com fundamento na natureza e quantidade da droga e na existência de associação estável, fixando-se o regime inicial fechado (e-STJ fls. 31-92).
+Irresignadas, as partes interpuseram apelações. O Tribunal de origem absolveu o paciente do delito do art. 35 da Lei de Drogas, manteve a condenação pelo art. 33, caput, e fixou a pena definitiva em 6 anos de reclusão, com regime inicial semiaberto (e-STJ fls. 9-21).
+Em consulta ao Sistema Justiça, constato que a defesa do paciente impetrou anterior habeas corpus nesta Corte (HC n. 729.327/ES), o qual não foi conhecido, mas foi concedida ordem, de ofício, para aplicar o redutor do tráfico privilegiado, na fração de 2/3, razão pela qual a pena do paciente foi redimensionada para 2 (dois) anos de reclusão, no regime inicial semiaberto e 200 (duzentos) dias-multa.
+Nesta impetração (e-STJ fls. 2-8), a defesa sustenta constrangimento ilegal decorrente da negativa da causa especial de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, afirmando: a) ocorrência de bis in idem pela utilização da quantidade/natureza da droga para exasperar a pena-base (art. 42 da Lei de Drogas) e, simultaneamente, para afastar a minorante; b) manutenção de fundamento superado (associação) após a absolvição do art. 35 na instância revisora; e c) ausência de elementos individualizados que indiquem dedicação a atividades criminosas ou integração a organização criminosa.
+Em sede liminar, requer a aplicação imediata da minorante do § 4º do art. 33, ou, subsidiariamente, a suspensão dos efeitos da negativa de aplicação do benefício até o julgamento final do writ. No mérito, pede o reconhecimento do tráfico privilegiado, na fração de 2/3.
+É o relatório. Decido.
+As irresignações manifestadas no presente habeas corpus já foram objeto de exame no HC n. 729.327/ES, também impetrado em favor do paciente, oportunidade em que esta Corte aplicou o redutor do tráfico privilegiado, na fração de 2/3.
+Assim, além de constituir mera reiteração de insurgência já submetida ao exame desta Corte, é manifesta a ausência de interesse de agir na espécie.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o habeas corpus.
+Traslade-se, para estes autos, cópia da decisão proferida no HC n. 729.327/ES.
+Intimem-se.
+EMENTA
