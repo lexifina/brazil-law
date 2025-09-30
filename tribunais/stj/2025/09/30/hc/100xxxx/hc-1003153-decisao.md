@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SAIMON COSTA DA CRUZ contra ato proferido pelo Tribunal de Justiça do Estado do Pará no HC nº 0820063-12.2024.8.14.0000 (fls. 11-13).
+Consta nos autos que a prisão preventiva do paciente foi decretada em 27/02/2024, pela suposta prática do crime de organização criminosa (Lei nº 12.850/2013), havendo notícia de mandado pendente de cumprimento (fls. 2-3 e 60).
+Alega a defesa a ausência de fundamentação idônea do decreto preventivo, em violação ao art. 93, inciso IX, da Constituição Federal e ao art. 312 do Código de Processo Penal, além da falta de individualização da conduta e da inexistência de elementos de corroboração, sustentando que a única referência seria uma ficha de cadastro extraída de aparelho celular de terceiro, datada de 2017 (fls. 2-3).
+Invoca, ainda, a necessidade de contemporaneidade dos fundamentos (art. 316, § 1º, do CPP), alega que fará jus ao regime inicial mais brando que o fechado, detém primariedade e condições pessoais favoráveis, e defende a possibilidade de substituição da prisão por medidas cautelares diversas, nos termos do art. 319 do CPP (fls. 3-6).
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas (fls. 6-7).
+O pedido de concessão de medida liminar foi indeferido (fls. 61-62).
+As informações foram prestadas pela autoridade apontada como coatora (fls. 64-68 e 336-344).
+O Ministério Público Federal apresentou parecer pela denegação da ordem (fls. 347-353)
+É o relatório. DECIDO.
+De início, observo que a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Quanto aos requisitos autorizadores da prisão preventiva, tem-se, nos termos do art. 312 do Código de Processo Penal, que ela poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do acusado.
+O Tribunal impetrado apresentou os seguintes fundamentos para justificar a denegação da ordem (fl.15):
+"Compulsando o édito prisional, constata-se que a decisão que decretou a prisão preventiva está devidamente lastreada em indícios concretos de autoria e materialidade, decorrentes de investigação policial que, a partir de elementos de prova coligidos em outra ação penal, de cuja prova houve compartilhamento por decisão judicial, com a extração de dados do telefone de KLACIRLENE VALE DE ARAUJO, que ocupava, à époc a de sua prisão e apreensão do seu aparelho telefônico o cargo de Orientadora-Geral do Estado dentro da organização criminosa "Comando Vermelho", identificou o paciente como membro da mencionada organização criminosa, ocupando posição de liderança ("torre e idealizador de missão")"
+Além disso, consignou-se na decisão que decretou a prisão preventiva a presença de fortes indícios de que o paciente integra organização criminosa e que a sua liberdade seria um risco à segurança pública e à paz social mantendo a organização criminosa e, assim, a reiteração delitiva.
+Como se vê, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois o paciente exerce papel de destaque em estruturada organização criminosa.
+A propósito:
+" ..
+2. No caso, a prisão preventiva está justificada pois, segundo a decisão que a impôs, a ora agravante seria membro de organização criminosa especializada na prática de furtos mediante fraude eletrônica e lavagem de dinheiro. Consta que ela seria companheira do líder do grupo e "peça chave na organização. Segundo a investigação, ela atua como espécie de centralizador de recursos ilícitos recebidos por diversos outros investigados, no mesmo dia ou imediatamente após à ocorrência das fraudes, repassando grande parte dos valores a Samuel". Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública, interrompendo a atuação do grupo criminoso.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 1.003.664/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+Além do mais, a situação de foragido do paciente desde a decretação da sua prisão preventiva corrobora o risco que a sua liberdade representa, pois ao fugir do distrito da culpa frustra a aplicação da lei penal demonstrando, mesmo, ser indispensável a decretação da prisão.
+Não é demais salientar que o paciente é indicado como relevante peça em facção criminosa e a prisão se mostrou como alternativa indispensável para a interrupção da organização criminosa, tipo de crime permanente, evidenciando, por isso, a contemporaneidade da providência determinada pelo juízo singular, não bastasse a já mencionada situação de foragido ostentada pelo pa ciente.
+Nesse sentido:
+ ..
+6. Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de grupo criminoso como forma de interromper suas atividades. Dessa forma, "justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo" (AgRg no HC n. 728.450/SP, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 09/08/2022, DJe 18/08/2022).
+ ..
+9. Agravo regimental desprovido.
+(AgRg no HC n. 1.025.561/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2025, DJEN de 23/9/2025.)
+De mais a mais, não se mostra possível realizar prognose acerca do regime inicial de cumprimento da pena a ser eventualmente imposto ao paciente em futura sentença condenatória, porquanto se trata de matéria sujeita à dilação probatória e à aferição exclusiva do juízo natural da causa, inexistindo, nesta sede processual, qualquer elemento concreto que autorize a antecipação da conclusão a ser alcançada pelo magistrado competente.
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do paciente indica que a ordem pública e a aplicação da lei penal não estariam asseguradas com a sua soltura. Sobre o tema: AgRg no HC n. 1.015.783/AC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025; AgRg no HC n. 1.024.300/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2025, DJEN de 17/9/2025.
+Ante o exposto, inevidente qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
