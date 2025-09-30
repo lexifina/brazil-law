@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ORLANDO DE OLIVEIRA ALVES, IVANNA CORDEIRO DA TRINDADE e KARLUCIA FARIAS DOS PASSOS COSTA, MERCIA SILVA VITAL à decisão de fls. 711/712, que não conheceu do recurso.
+Sustenta a parte embargante:
+O despacho/decisão embargada(o) incorreu em omissão relevante ao não delimitar, de forma precisa, qual a tempestividade que a parte deveria comprovar, até porque nps autos originais não se identifica nenhuma certidão afirmando a perda de prazo nem para o recurso especial, muito menos para o agravo aqui examinado. Para o que foram acostadas todas as certidões a respeito do tema aventado.
+A intimação, ao requerer a comprovação da tempestividade, deixou de especificar se a exigência se referia ao Agravo em Recurso Especial ou ao Recurso Especial, gerando, por conseguinte, insegurança jurídica e dificultando o cumprimento da determinação judicial, o que foi saneado com a argumentação cabível de elidir as suas irreais intempestividades. Vejamos o despacho:
+ ..
+A ausência de clareza na decisão embargada, ao não individualizar o ato processual cujo vício deveria ser comprovado, induziu a parte a uma interpretação ampla e cautelosa da determinação judicial.
+Diante da dúvida razoável, a parte embargante, em observância ao princípio da ampla defesa e da boa-fé processual, bem como ao a princípio da eventualidade, optou por apresentar a comprovação da tempestividade tanto do Agravo em Recurso Especial quanto do Recurso Especial. Essa postura demonstra o esforço da parte em atender ao comando judicial, mesmo diante da imprecisão da decisão (fl. 718/719).
+ ..
+A omissão do despacho e a consequente decisão embargada, ao não especificar a tempestividade a ser comprovada, resultou em um evidente cerceamento do direito à ampla defesa e ao contraditório, que aqui se dá na reapreciação da matéria a nível de instancia superior a luz de importantes temas como o da regularidade documental não impugnada e da presença evidente de erro da administração no trato dos servidores militares.
+ ..
+A falha no despacho e a consequente invalidação do curso processual pela decisão que o embasou, ao não reconhecerem que não houve delimitação do objeto da comprovação, criou uma situação de desequilíbrio processual. A parte embargante, diante da dúvida, buscou cumprir a determinação judicial da forma mais abrangente possível, demonstrando sua boa-fé e diligência. Contudo, a ausência de clareza na decisão a colocou em desvantagem, pois a impossibilitou de direcionar seus esforços de forma precisa.
+ ..
+Ora excelência, dado que a publicação ocorreu no dia seguinte a certificação já trazida aos autos, e que assim recaiu em 27/07/2024, um sábado, a publicação foi prorrogada automaticamente para a segunda-feira, dia 29/07/2024, como já demonstrado, o que elide qualquer controvérsia acerca da tempestividade do presente agravo em recurso especial, cujo prazo houve findo em 19/08/2024. Do que resta evidenciado que, se o prazo iniciou-se em 29/07/2024, o decurso de prazo após a contagem de 15 dias úteis na inteligência artigo 219 e do artigo 1.023 do CPC/2015, terminaria em 19/AGOSTO/2024.
+O presente agravo restou protocolado nesta data mesma, do que não se pode falar em perda de prazo para interposição do recurso pertinente (fls. 721/722).
+ ..
+A determinação genérica, ao não individualizar a qual tempestividade se referia, seja do agravo ou do recurso especial, gerou insegurança jurídica e impossibilitou a parte embargante de cumprir a determinação de forma precisa e inequívoca.
+A omissão na especificação da tempestividade a ser comprovada configura um defeito no próprio despacho que contamina a decisão embargada, pois impede a parte de exercer plenamente seu direito de defesa.
+ ..
+A ausência de clareza sobre qual prazo deveria ser demonstrado, se o do agravo ou o do recurso especial, criou uma situação de incerteza que prejudicou a parte embargante, muito embora houve realizada a prova acerca das duas tempestividades.
+ ..
+A parte embargante, em sua manifestação, apresentou documentos que comprovam a tempestividade tanto do agravo quanto do recurso especial, e que são as certidões de publicação que seguiram tanto em anexo como no como no corpo da própria manifestação realizada. A ausência de qualquer certidão ou documento que ateste a intempestividade de qualquer um dos recursos reforça a necessidade de esclarecimento da decisão embargada (fl. 727).
+ ..
+Diante do exposto, resta evidente a tempestividade do recurso de agravo aqui sustentado pelo fato de que o dia da publicação foi prorrogado para dia útil de 29/07/2024 com prazo fluindo a partir de 30/07/2024, já que a certidão foi prolatada em 27/07/2024, um sábado (fl. 729).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Entretanto, quanto à questão da comprovação de feriado, nos termos do que permite a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), cumpre registrar que em observância ao princípio do tempus regit actum, o entendimento será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na hipótese, como essa intimação ocorreu na vigência da nova redação do referido artigo, a parte foi intimada, nesta Corte, para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual. Porém, não regularizou, limitando-se a alegar que "resta evidente a tempestividade do recurso principal e deste agravo" (fl. 627).
+Cabe ressaltar que a parte foi intimada a comprovar a tempestividade do Agravo, e no caso, argumentou de forma efetiva sobre a tempestividade do Recurso Especial.
+Quanto à publicação da certidão de saneamento, com a intimação da parte para comprovar eventual suspensão, interrupção ou prorrogação do prazo para interposição do agravo em recurso especial (fl. 619), observe que a transcrição da referida certidão foi escrita de forma clara:
+Tempestividade do Agravo em Recurso Especial.
+Com fundamento na RESOLUÇÃO STJ/GP N. 15 DE 26 DE JUNHO DE 2020, INTIME-SE ORLANDO DE OLIVEIRA ALVES e OUTROS a, no prazo de 5 dias, comprovar eventual suspensão, interrupção ou prorrogação do prazo para interposição do agravo em recurso especial, nos termos do art. 1.003, §6º, do Código de Processo Civil.
+Portanto, não resta dúvida que a certidão traz a especificação de que a comprovação da tempestividade seria do Agravo, e não do Recurso Especial. Logo, não procede os argumentos da parte.
+Registre-se que é responsabilidade da parte observar o correto procedimento para apresentação de recursos e petições perante os tribunais. Deveria a parte ter comprovado a tempestividade do Agravo, interposto em 31.01.2025, por ocasião da apresentação do recurso, o que não ocorreu.
+Nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do Agravo em Recurso Especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido Agravo é do Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 29.6.2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
