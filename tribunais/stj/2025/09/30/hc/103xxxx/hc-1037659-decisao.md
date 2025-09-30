@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MAURÍCIO ALVES DA ROSA, apontando como autoridade coatora o desembargador relator da revisão criminal n. 5065616-17.2025.8.24.0000, do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de Criciúma, no âmbito da ação penal n. 0003174-21.2017.8.24.0020, pela prática dos crimes previstos no art. 33, caput, da Lei 11.343/2006 e no art. 12, caput, da Lei 10.826/2003, à pena de 5 (cinco) anos de reclusão, em regime inicialmente fechado, e 1 (um) ano de detenção, em regime inicial semiaberto, bem como ao pagamento de 510 (quinhentos e dez) dias-multa (fls. 16-26).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de Santa Catarina, que negou provimento ao recurso (fls. 27-28 e 34-38).
+Posteriormente ao trânsito em julgado, foi proposta a revisão criminal n. 5065616-17.2025.8.24.0000 perante o Tribunal de Justiça do Estado de Santa Catarina, a qual foi indeferida liminarmente por decisão monocrática do relator (fls. 10-15).
+Na presente impetração, busca-se a concessão da ordem para reconhecer a inviolabilidade domiciliar, declarar a nulidade das provas decorrentes do ingresso ilegal (art. 157, § 1º, do CPP) e absolver o paciente por ausência de prova lícita da materialidade e autoria (fl. 9). Subsidiariamente, requer-se o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006, com aplicação no patamar máximo de 2/3, diante da pequena quantidade de drogas apreendidas e da ausência de elementos concretos indicativos de dedicação a atividades criminosas (fls. 8-9).
+É o relatório. DECIDO.
+A presente impetração investe contra decisão monocrática proferida pelo desembargador relator da revisão criminal n. 5065616-17.2025.8.24.0000 (fls. 10-15), que indeferiu liminarmente o pedido. Não há registro de que a decisão tenha sido submetida ao órgão colegiado do Tribunal de Justiça do Estado de Santa Catarina.
+Segundo o artigo 105, I, "c", e II, da Constituição Federal, o Superior Tribunal de Justiça não possui competência para analisar habeas corpus impetrado contra ato de desembargador. A esse respeito, cito o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016)
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator, em casos de manifesta incompetência, a indeferir liminarmente o habeas corpus, hipótese verificada nos presentes autos.
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
