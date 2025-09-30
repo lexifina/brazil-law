@@ -1,0 +1,22 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção (RHC n. 152.445).
+Trata-se de habeas corpus impetrado em nome de TAILSON MARTINS MONTEIRO, com alegação de constrangimento ilegal em razão do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ na Revisão Criminal n. 0815603-79.2024.8.14.0000.
+Alega-se, em síntese, que a manutenção da condenação do paciente pela prática do crime previsto no art. 157, § 3º, II, do Código Penal é indevida, por estar fundada em reconhecimento fotográfico realizado de forma irregular, em desconformidade com as diretrizes do art. 226 do Código de Processo Penal.
+Requer-se, em liminar, a suspensão dos efeitos da condenação decorrente da Ação Penal n. 0803003-13.2021.8.14.0006, da 5ª Vara Criminal da comarca de Ananindeua/PA, com a consequente expedição de alvará de soltura em favor do paciente.
+No mérito, pede-se a concessão da ordem para absolver o réu, reconhecendo a nulidade das provas e a ausência de elementos válidos para a condenação.
+Pedido liminar indeferido (fls. 1.364/1.365).
+Informações prestadas (fls. 1.389/1.390 e 1.422/1.424).
+O Ministério Público Federal opinou, às fls. 1.451/1.463, pela concessão da ordem para anular o reconhecimento fotográfico, absolvendo o ora paciente da imputação do crime de latrocínio, diante da ausência de prova apta a fundamentar a condenação.
+Em 26/8/2025, a Corte estadual rejeitou os embargos de declaração opostos ao acórdão que julgou a revisão criminal.
+É o relatório.
+Em que pese seja o presente writ substitutivo de recurso especial, vislumbra-se na espécie flagrante ilegalidade apta à superação do óbice.
+Consta do acórdão impugnado que, de fato, o procedimento de reconhecimento dos meliantes na delegacia não observou as formalidades previstas no art. 226 do CPP, visto não constar a prévia descrição da pessoa a ser reconhecida, fazendo-o, tão somente segundo as fotografias que foram apresentadas, no âmbito do procedimento, para se auferir se os nacionais possuíam características similares entre si (fl. 41).
+Além disso, conforme bem ponderou o Subprocurador-Geral da República José Adonis Callou de Araújo Sá, a vítima não trouxe certeza da participação do paciente na empreitada delitiva. Em Juízo, ela afirmou que reconheceu o ora paciente pelas características das roupas que ele estava usando ("estava com chapéu baixinho, camisa manga longa e calça" - fl. 42) e, ao responder o questionamento do Ministério Público, disse "eu não vou dar certeza", demonstrando que não tinha convicção sobre a participação do corréu Tailson. A testemunha Tarcisa Silva Castro, vizinha das vítimas, afirmou, em sede policial, que Clóvis tinha lhe dito o nome dos autores do delito antes de morrer. No entanto, em Juízo, disse que não viu os autores do delito e que Clóvis afirmou para ela que não sabia quem tinha atirado nele. Tal depoimento não é suficiente para justificar a condenação do réu, por não ser admitido no processo penal condenação baseada, exclusivamente, em testemunho indireto ("de ouvir dizer") e em prova produzida, exclusivamente, na fase inquisitiva (fls. 1.460/1.462).
+Com efeito, observa-se que os depoimentos da vítima e da testemunha, em juízo, refletem dúvidas significativas em relação à autoria atribuída ao paciente, evidenciando a inexistência de provas independentes e suficientes, produzidas sob o crivo do contraditório e da ampla defesa, que sustentem o édito condenatório.
+Nesse contexto, uma vez que o reconhecimento do paciente é absolutamente nulo, porque realizado em total desconformidade com o disposto no art. 226 do CPP, deve ser proclamada a sua absolvição, ante a inexistência, como se deflui da sentença condenatória e do acórdão impugnado, de qualquer outra prova independente e idônea a formar o convencimento judicial sobre a autoria do crime que lhe foi imputado (HC n. 700.313/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/6/2022).
+Ante o exposto, acolhendo o parecer, concedo a ordem para absolver o paciente, na forma do art. 386, VII, do Código de Processo Penal.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO QUALIFICADO PELO RESULTADO (LATROCÍNIO). RECONHECIMENTO FOTOGRÁFICO. INOBSERVÂNCIA DAS FORMALIDADES LEGAIS DO ART. 226 DO CPP. INSUFICIÊNCIA DO CONJUNTO PROBATÓRIO PARA SUSTENTAR O DECRETO CONDENATÓRIO. MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
