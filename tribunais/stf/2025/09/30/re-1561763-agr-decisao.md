@@ -1,0 +1,45 @@
+Examinando as razões expostas na petição de agravo regimental interposto pelo Ministério Público (doc. 35), reconsidero a decisão agravada e passo a nova análise do recurso extraordinário.
+
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina - TJSC, assim ementado:
+
+    RECURSO EM SENTIDO ESTRITO. APURAÇÃO DE CRIME AMBIENTAL (ART. 45 C/C O ART. 53, II, "C", DA LEI N. 9.605/1998). DECISÃO QUE RECONHECE A COMPETÊNCIA DA JUSTIÇA FEDERAL. INSURGÊNCIA DO MINISTÉRIO PÚBLICO. PRETENDIDO O TRÂMITE DA AÇÃO NA JUSTIÇA ESTADUAL. NÃO ACOLHIMENTO. ESPÉCIE DA FLORA NACIONAL QUE PERFAZ A LISTA NACIONAL DE ESPÉCIES AMEAÇADAS DE EXTINÇÃO - "OCOTEA POROSA" (PORTARIA MMA N. 443/2014). INTERESSE DA UNIÃO EVIDENCIADO. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS DA DEFENSORA NOMEADA. FIXAÇÃO DIANTE DA APRESENTAÇÃO DAS CONTRARRAZÕES DE RECURSO. VALOR ESTIPULADO, EX OFFICIO, DE ACORDO COM O ART. 85, § 2º E § 8º, DO CÓDIGO DE PROCESSO CIVIL E RESOLUÇÕES N. 5/2019 E N. 1/2020 DO CONSELHO DA MAGISTRATURA DESTA CORTE. RECURSO CONHECIDO E DESPROVIDO (doc. 15, p. 5).
+
+    O recorrente, fundamentado no art. 102, III, a, da Constituição Federal, alegou, em suma, violação dos arts. 23, VI e VII; 24, VI; e 109, IV, da Constituição da República (doc. 22).
+
+    É o relatório. Passo a decidir.
+
+    A pretensão recursal merece acolhida.
+
+    A competência da Justiça Federal, no que se refere às infrações penais, está expressamente prevista no art. 109, IV, da Constituição Federal:
+
+    Art. 109. Aos juízes federais compete processar e julgar:
+
+    [...]
+
+     IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral; (grifei).
+
+    Acerca dos crimes ambientais, não há previsão específica, na Constituição de 1988, sobre qual Justiça — Federal ou Estadual — é competente para o seu julgamento, de modo que o Supremo Tribunal Federal assentou que deve ser observado, para esses crimes, o regime geral de repartição de competências jurisdicionais estabelecido no Texto Constitucional.
+
+    Portanto, compete à Justiça Federal, em relação aos crimes ambientais, julgar as infrações penais “praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas”.
+
+    Nesse contexto, a jurisprudência desta Suprema Corte firmou-se no sentido de que a ausência de interesse direto e específico da União afasta a competência da Justiça Federal para o julgamento de ação penal decorrente da prática de crime ambiental, conforme se observa nos seguintes julgados:
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CRIMINAL. CRIMES COMETIDOS EM ÁREA DE DOMÍNIO DA UNIÃO. ÁREA AMBIENTAL CEDIDA AO ESTADO DE RONDÔNIA HÁ MAIS DE 30 ANOS. ATUAÇÃO ESTADUAL CONTÍNUA NA FISCALIZAÇÃO E PROTEÇÃO DO PARQUE ESTADUAL GUAJARÁ-MIRIM. PROCESSO DE TRANSFERÊNCIA DO TERRITÓRIO AO ESTADO QUASE CONCLUÍDA. INEXISTÊNCIA DE INTERESSE DIRETO E ESPECÍFICO DA UNIÃO FEDERAL. ANÁLISE DO CASO CONCRETO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO A QUE SE NEGA PROVIMENTO. I — A jurisprudência do Supremo Tribunal Federal é consolidada no sentido de que a ausência de interesse direto e específico da União afasta a competência da Justiça Federal para o julgamento de ação penal decorrente da prática de crime ambiental. Precedentes. II — O Supremo Tribunal Federal assentou que a definição da competência, nos casos de crimes que envolvam lesão a bens, serviços ou interesse da União ou suas autarquias, está condicionada ao exame do caso concreto. III — No caso dos autos, a área de proteção ambiental está sob os cuidados dos Estado de Rondônia há 33 anos. Ademais, conforme consignado pelo Tribunal de origem, o Instituto Nacional de Colonização e Reforma Agrária (INCRA) abriu mão do seu interesse na região, justamente com a finalidade de viabilizar a implementação de unidade de conservação do território por parte do referido Estado. IV – Até os dias atuais, nenhum órgão da União se opôs à transferência do referido imóvel para o Estado de Rondônia no processo administrativo inciado para esse fim, o que evidencia a falta de interesse da União na área. O mencionado processo depende apenas de um relatório da FUNAI e um ato legislativo para a concretização da transferência do território. V - No caso ora analisado, não foram demonstrados elementos que justifiquem o interesse direto e específico da União na controvérsia, motivo pelo qual cabe à Justiça Estadual o julgamento dos crimes supostamente cometidos. VI – Agravo regimental a que se nega provimento (RE 1.492.915 AgR/RO, Primeira Turma, da minha relatoria, DJe 2/12/2024 — grifei).
+
+    Agravo regimental em recurso extraordinário. Direito constitucional e processual penal. Crime ambiental. Destruição de vegetação secundária em estágio médio de regeneração do bioma mata atlântica. Espécie ameaçada de extinção. Incompetência da Justiça Federal. Ausência de interesse direto da União. Necessidade de transnacionalidade da conduta. Tema nº 648-RG. Competência da Justiça Estadual. Precedentes. Agravo regimental não provido. 1. Cuida-se de agravo regimental interposto contra decisão mediante a qual dei provimento ao recurso extraordinário do Ministério Público do Estado de Santa Catarina para declarar a competência da Justiça Estadual para julgar o feito. 2. No julgamento do RE nº 835.558 (Tema nº 648-RG), o Plenário do Supremo Tribunal Federal concluiu que “[a] ratio essendi das normas consagradas no direito interno e no direito convencional conduz à conclusão de que a transnacionalidade do crime ambiental, voltado à exportação de animais silvestres, atinge interesse direto, específico e imediato da União, voltado à garantia da segurança ambiental no plano internacional, em atuação conjunta com a Comunidade das Nações”. Na ocasião, a Corte fixou a seguinte tese: Compete à Justiça Federal processar e julgar o crime ambiental de caráter transnacional que envolva animais silvestres, ameaçados de extinção e espécimes exóticas ou protegidas por Tratados e Convenções internacionais”. 3. In casu, diante da ausência de transnacionalidade do delito ou outro fator que revele interesse jurídico específico da União, a competência para julgar o feito é da Justiça Estadual, mesmo se a espécie atingida constar na lista nacional de espécimes ameaçadas de extinção. Precedentes. 4. Agravo regimental não provido (RE 1551.297 AgR/SC, Rel. Min. Dias Toffoli, Segunda Turma, DJe 2/7/2025 — grifei).
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. NULIDADE. CRIME AMBIENTAL. ESPÉCIE AMEAÇADA DE EXTINÇÃO. LISTA ESPECIAL DO IBAMA. COMPETÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. O reconhecimento de nulidade processual pressupõe a sua arguição na primeira oportunidade apresentada à defesa, bem como a demonstração de prejuízo efetivo, o que não se verifica no caso em análise. Precedentes. 2. Como bem ressaltado pelo ministro Gilmar Mendes, “a atividade de fiscalização ambiental exercida pelo IBAMA ainda que relativa ao cumprimento do art. 46 da Lei de Crimes Ambientais, configura interesse genérico, mediato ou indireto da União, para os fins do art. 109, IV, da Constituição” (HC 81.916, Rel. Min. Gilmar Mendes, Segunda Turma, DJ de 11.10.2002). 3. O ministro Luiz Fux, no julgamento do RE 835.558 (Tema 648 da RG), consignou que “em razão da interpretação restritiva que se confere à expressão interesse da união, prevista no art. 109, IV, da CF/88, a participação do IBAMA como órgão fiscalizador não se revela suficiente para firmar, em definitivo, a competência da Justiça Federal” (RE 835.558, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 08.08.2017). 4. Agravo regimental desprovido (RHC 234.768 AgR/SC, Rel. Min. Edson Fachin, Segunda Turma, DJe 13/3/2025 — grifei).
+
+    Sobre a controvérsia ora em análise, oriunda do mesmo ente federativo, aponto ainda decisões nas quais o Supremo Tribunal Federal tem considerado que a mera existência de espécime na Lista Nacional Oficial de Espécies da Flora Ameaçadas de Extinção, sem que haja a transnacionalidade do delito, é insuficiente para o deslocamento da competência para Justiça Federal: RE 1.558.367/SC, Rel. Min. Luiz Fux, DJe 4/8/2025; RE 1.562.822/SC, Rel. Min. Edson Fachin, DJe 26/8/2025; RE 1.563.269/SC, Rel. Min. Alexandre de Moraes, DJe 26/8/2025; RE 1.559.309/SC, Rel. Min. Cármen Lúcia, DJe 31/7/2025; RE 1.551.297/SC, Rel. Min. Dias Toffoli, DJe 29/5/2025; e RE 1.557.185/SC, da minha relatoria, DJe 1°/7/2025.
+
+    Constato, assim, que o acórdão recorrido está em dissonância com a jurisprudência desta Suprema Corte sobre a matéria em apreciação neste recurso.
+
+    Posto isso, dou provimento ao recurso extraordinário (art. 932 do CPC) para reconhecer a contrariedade ao art. 109, IV, da Constituição da República e, como corolário, fixar a competência da Justiça Estadual para o exame deste processo.
+
+    Publique-se.
+
+    Brasília, 30 de setembro de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
