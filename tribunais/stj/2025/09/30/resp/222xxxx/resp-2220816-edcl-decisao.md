@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Cooperativa Agroindustrial Cooperja contra decisum singular, de fls. 512/515, que não conheceu do recurso especial, sob os seguintes fundamentos: i) incidência da súmula 282/STF no tocante ao art. 148 do CTN; ii) em recurso especial não cabe invocar violação a norma constitucional; iii) incidência da súmula 518/STJ, uma vez que não é cabível recurso especial fundado em alegada violação de enunciado de súmula; e iv) quanto ao suposto dissídio entre o acórdão recorrido e a Súmula 431/STJ, firmou-se, no Superior Tribunal de Justiça, o entendimento segundo o qual não se conhece de recurso especial interposto sob alegação de divergência com súmula de Tribunal Superior, pois é imprescindível a realização do cotejo analítico.
+Em suas razões, a parte embargante aduz que houve omissão e contradição "ao afirmar a ausência de prequestionamento do art. 148 do Código Tributário Nacional. Tal dispositivo foi suscitado em todas as instâncias, inclusive em sede de apelação e no próprio recurso especial" (fl. 520).
+Aduz que "do teor do acórdão recorrido, é igualmente evidente que a questão foi analisada em seu mérito, uma vez que se discutiu diretamente o método de lançamento aplicável, distinguindo-se base de cálculo presumida, efetiva ou arbitrada. Ao se afirmar que a tributação decorreria de preços normativos, a Corte enfrentou a tese recursal e, por consequência, debateu o alcance do art. 148 do CTN. Se não houvesse essa análise, sequer teria sido possível emitir decisão de mérito" (fl. 522).
+Sem impugnação.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou demonstrado, na decisão embargada, que a matéria pertinente ao art. 148 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+ EMENTA
