@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO RICARDO MACHADO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo de Execução Penal nº 8000511-70.2025.8.24.0023).
+O juízo de origem rejeitou embargos de declaração que buscavam o reconhecimento da prescrição executória, decisão mantida pelo Tribunal de Justiça de Santa Catarina ao desprover agravo em execução, sob o fundamento de inexistirem equívocos nos cálculos de pena e que o marco prescricional somente se daria em 17/03/2025.
+A impetrante, entretanto, sustenta flagrante ilegalidade, pois, à época da fuga (18/03/2019), restavam apenas 2 anos, 3 meses e 14 dias de pena, o que fixaria prazo prescricional de 4 anos, reduzido pela metade em razão da menoridade do paciente à época dos fatos. Como a recaptura se deu em 09/01/2025, transcorrido lapso superior a 5 anos, estaria caracterizada a prescrição da pretensão executória. Pugna-se, assim, pela concessão da ordem, inclusive em caráter liminar, para declarar extinta a punibilidade.
+As informações foram prestadas às fls. 29/34 e 38/67.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 71/77).
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido." (AgRg no HC n. 738.224/SP Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 12/12/2023.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido." (AgRg no HC n. 857.913/SP, Quinta Turma, Min. Rel. Ribeiro Dantas, DJe de 1/12/2023.)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+O paciente foi condenado em três processos criminais, sendo que duas condenações já tiveram sua punibilidade extinta por prescrição. Remanesce apenas a execução do processo nº 0001310-07.2015.8.24.0023, no qual foi condenado a 6 anos, 2 meses e 20 dias de reclusão por roubo qualificado.
+O paciente evadiu-se em 18/03/2019 durante o livramento condicional e foi recapturado em 09/01/2025. A controvérsia gira em torno do cálculo da pena remanescente na data da fuga.
+Segundo a defesa, na data da fuga restavam 2 (dois) anos, 3 (três) meses e 14 (quatorze) dias; o prazo prescricional seria de 4 (quatro) anos (art. 109, inciso IV c/c art. 115, CP); e teria transcorrido 5 (cinco) anos, 9 (nove) meses e 21 (vinte e um) dias, consumando a prescrição.
+Por sua vez, segundo o TJSC, na data da fuga restavam 4 (quatro) anos, 1 (um) mês e 5 (cinco) dias; o prazo prescricional seria de 6 (seis) anos (12 anos reduzidos pela metade) e a prescrição só se daria em 17/03/2025.
+Analisando detidamente os autos, observo que o Tribunal de origem fundamentou adequadamente sua decisão, destacando que: A questão já foi decidida na Sequência 44.1, com análise pormenorizada das três condenações; Houve readequação das informações do sistema pela magistrada de primeiro grau, que expressamente consignou que "restava 04 (quatro) anos, 01 (um) mês e 05 (cinco) dias de pena a cumprir"; A defesa não demonstrou concretamente os alegados equívocos nos cálculos judiciais, limitando-se a reiterar argumentos já examinados e afastados; e mesmo considerando os dados do sistema SEEU na data da recaptura (4 anos, 3 meses e 12 dias), o prazo prescricional seria de 6 anos, não ultrapassado.
+No caso concreto, não há que se falar em prescrição, as instâncias ordinárias, após análise pormenorizada, concluíram que não se consumou a prescrição executória, conforme demonstrados nos autos.
+Assim, não verifico, no caso vertente, constrangimento ilegal capaz de ensejara concessão da ordem, seja por ilegalidade manifesta, seja por teratologia.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
