@@ -1,0 +1,9 @@
+DECISÃO
+Em petição contida no e-STJ fls. 561/570, a requerente formula pedido de revogação de justiça gratuita concedido à parte contrária pelas instâncias ordinárias, sustentando a alteração superveniente da capacidade financeira da requerida.
+Aduz que "Destarte, a Agravante tomou ciência de que, já há algum tempo, a Agravada voltou a exercer as funções de seu cargo de ANALISTA DE SAUDE - MÉDICO NIVEL I junto à Secretaria de Saúde do Município de São Paulo. 07. Conforme consulta ao Portal da Transparência1, verifica-se que a remuneração líquida percebida pela Agravada no mês de dezembro/2024 (o portal informa sempre a remuneração do mês anterior ao corrente) foi de R$ 7.038,84 (sete mil, trinta e oito e reais e oitenta e quatro centavos). 09. Ainda, impõe-se noticiar que a Agravada ajuizou outra demanda contra a Agravante (autuada sob o nº 5017912-93.2022.8.24.0038 e com trâmite perante a 03ª Vara Cível de Joinville/SC), na qual também apresentou pedido de justiça gratuita. 10. Nos autos acima mencionados, ao ter o pedido de gratuidade indeferido, a Agravada procedeu com o recolhimento das custas no importe de R$ 2.588,96 (dois mil, quinhentos e oitenta e oito reais e noventa e seis centavos) sem sequer interpor recurso do indeferimento, demonstrando de forma incontroversa que, ao fim e ao cabo, nesta época ela já possuía condições de arcar com as despesas processuais.
+É o breve relatório. Decido.
+A jurisprudência pacífica do STJ reconhece a possibilidade de revogação da justiça gratuita quando demonstrada a inexistência dos requisitos legais, no entanto, no caso, a questão não foi submetida às instâncias ordinárias, de forma que, a análise por esta Corte de Justiça acarretaria em indevida supressão de instância.
+Ante o exposto, não conheço do pedido.
+Publique-se.
+Intime-se.
+EMENTA
