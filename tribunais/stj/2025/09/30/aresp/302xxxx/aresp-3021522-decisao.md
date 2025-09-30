@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ALENUSKA ALMEIDA FERNANDES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim resumido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. INDEFERIMENTO DA GRATUIDADE JUDICIÁRIA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. INTIMAÇÃO DA PARTE AGRAVANTEPARA RECOLHIMENTO DAS CUSTAS RECURSAIS. ART. 101, §2º, DO CPC. TRANSCURSO DO PRAZO LEGALSEM O DEVIDO RECOLHIMENTO. NEGATIVA DE SEGUIMENTO AO RECURSO.DECISÃO MANTIDA. CONHECIMENTO E DESPROVIMENTO DO AGRAVO INTERNO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do arts. 98 e 99, § 2º, do CPC, no que concerne à concessão do benefício da gratuidade de justiça, uma vez demonstrada sua hipossuficiência financeira para arcar com as despesas inerentes ao processo, trazendo a seguinte argumentação:
+Infere-se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita. Logo, a Recorrente, pessoa física, também faz jus ao benefício, haja vista não ter condições de arcar com as despesas do processo sem prejuízo de sua manutenção.
+ ..
+Nesta senda, ainda foi colacionado aos autos declaração de hipossuficiência, sendo que esta possui presunção de veracidade, juris tantum, porém esta somente poderá ser negada de plano pelo Juiz, se houver fundadas razões para tanto.
+ ..
+Dessa forma, estando a Recorrente passando por dificuldades financeiras, não reunindo condições para suportar no momento as custas inerentes ao processo de origem, requer a Vossa Excelência, a concessão dos benefícios da justiça gratuita também para o preparo, tendo em vista não poder suportar as despesas referidas, sem prejuízo de sua subsistência (fls. 134-142, grifo meu).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Como dito, a afirmação de pobreza goza de presunção relativa de veracidade, podendo o magistrado, de ofício, indeferir ou revogar o benefício da assistência judiciária gratuita, quando houver fundadas razões acerca da condição econômico-financeira da parte.
+Ao analisar a contenda, constatou-se que a parte, intimada para comprovar sua carência financeira (§2º do art. 99, do CPC), quedou-se totalmente inerte (certidão de ID. 27092328).
+Portanto, infundado o argumento de cerceamento de defesa.
+Com bastante objetividade, restou verificado que o direito perseguido não sobejou demonstrado (indeferimento liminar de ID. 27098190, págs. 90-94).
+Na sequência, sendo novamenteintimada para o recolhimento do preparo recursal(Certidão de Preclusão de Prazo - ID. 27848212), não procedeu com a devida providência (fls. 125-126, grifo meu ).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
