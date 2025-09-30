@@ -1,0 +1,22 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO contra decisão assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PLANO DE SAÚDE. COPARTICIPAÇÃO. LEGALIDADE. JUÍZO DE RAZOABILIDADE.
+1. Ação de obrigação de fazer.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. "Não há falar em ilegalidade na contratação de plano de saúde em regime de coparticipação, seja em percentual sobre o custo do tratamento seja em montante fixo (art. 16, VIII, da Lei nº 9.656/1998), sendo vedada a instituição de fator que limite seriamente o acesso aos serviços de assistência à saúde, a evidenciar comportamento abusivo da operadora" (AgInt no AREsp n. 1.695.118/MG, Terceira Turma, DJe de 13/4/2023).
+4. "Na ausência de indicadores objetivos para o estabelecimento dos mecanismos financeiros de regulação e com o fim de proteger a dignidade do usuário, no que tange à sua exposição financeira, mês a mês, é razoável fixar como parâmetro, para a cobrança da coparticipação, o valor equivalente a uma mensalidade paga, de modo que o desembolso mensal realizado, por força do mecanismo financeiro de regulação, não seja maior que o correspondente à contraprestação paga pelo titular" (REsp n. 2.098.930/RJ, Terceira Turma, DJe de 22/8/2024).
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+Alega a existência de omissão na decisão, argumentando que "consignou que a cobrança da coparticipação é legal; limitou a cobrança ao valor de duas mensalidades; porém não elucidou a possibilidade da Embargante cobrar o montante que excede o valor estipulado em mensalidades futuras, sempre respeitando o patamar máximo definido, mas até que seja quitado o débito total de coparticipação, matéria que foi objeto do Recurso Especial" (e-STJ fl. 1.057).
+Acrescenta que "não se pode, simplesmente, limitar a sua cobrança, e considerar que o excedente não seja mais cobrado, pois isso seria como uma remição de dívida sem qualquer contraprestação" (e-STJ fl. 1.059).
+É O RELATÓRIO. DECIDE-SE.
+Esta Corte já decidiu, como registrado na decisão embargada, que, "na ausência de indicadores objetivos para o estabelecimento dos mecanismos financeiros de regulação e com o fim de proteger a dignidade do usuário, no que tange à sua exposição financeira, mês a mês, é razoável fixar como parâmetro, para a cobrança da coparticipação, o valor equivalente a uma mensalidade paga, de modo que o desembolso mensal realizado, por força do mecanismo financeiro de regulação, não seja maior que o correspondente à contraprestação paga pelo titular" (REsp n. 2.098.930/RJ, Terceira Turma, DJe de 22/8/2024; REsp n. 2.001.108/MT, Terceira Turma, DJe de 9/10/2023).
+Tal parâmetro, consoante decidido nos julgados mencionados, deve ser observado até a completa quitação da obrigação pelo titular do plano de saúde, como pleiteou a embargante em seu recurso especial.
+Nessa toada, devem ser acolhidos os embargos de declaração, com efeitos modificativos, para conhecer em parte do recurso especial interposto pela UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO e, nessa extensão, lhe dar parcial provimento a fim de determinar que, observado o limite mensal estabelecido pelo TJ/MT, a coparticipação seja cobrada até a completa quitação do valor devido à operadora.
+Forte nessas razões, ACOLHO os embargos de declaração, com efeitos infringentes, para conhecer em parte do recurso especial interposto pela UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO e, nessa extensão, lhe dar parcial provimento, a fim de determinar que, observado o limite mensal estabelecido pelo TJ/MT, a coparticipação seja cobrada até a completa quitação do valor devido.
+Fica, em consequência, excluída a majoração dos honorários de sucumbência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. PLANO DE SAÚDE. COBRANÇA DE COPARTICIPAÇÃO PELA OPERADORA. LIMITE MENSAL DO DESEMBOLSO REALIZADO PELO TITULAR. NECESSIDADE DE QUITAÇÃO DO VALOR DEVIDO.
+1. A existência de omissão no acórdão embargado conduz ao acolhimento dos embargos de declaração.
+2. Observado o limite estabelecido pelo Tribunal de origem para o desembolso mensal realizado pelo titular, a coparticipação será cobrada até a completa quitação do valor devido à operadora.
+3. Embargos de declaração acolhidos, com efeitos infringentes.
