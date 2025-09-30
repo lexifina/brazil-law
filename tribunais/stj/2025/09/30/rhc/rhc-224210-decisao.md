@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, em favor de SIVALDO ALVES DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Depreende-se dos autos que o recorrente se encontra preso, cautelarmente, pela suposta prática do delito de tráfico de drogas.
+No presente recurso, a defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório do recorrente.
+Sustenta ilegalidade diante da invasão de domicílio, baseada em denúncia anônima.
+Aduz que "É consabido que o tráfico ilícito de entorpecentes, em que pese ser classificado como crime de natureza permanente, nem sempre autoriza a entrada sem mandado no domicílio onde supostamente se encontra a droga" (fl. 322).
+Pondera que "Assim, de posse dos fatos denunciados anonimamente por moradores da região, conclui-se pela plena possibilidade de as respectivas polícias (militar e civil) terem empregado outras investigações e diligências complementares antes da guarnição responsável pela abordagem optar por ingressar no imóvel, destaca-se ainda, em horário noturno" (fl. 322).
+Requer a revogação da prisão preventiva.
+É o relatório. DECIDO.
+O art. 105 da Constituição não confere competência ao Superior Tribunal de Justiça para processar e julgar, originariamente, habeas corpus contra ato de Desembargador de Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios.
+Não cabe, portanto, em regra, habeas corpus contra decisão monocrática de relator, seja pela literalidade das hipóteses constitucionais de cabimento, seja pela indispensabilidade do esgotamento, no Tribunal de origem, das vias recursais. A regra tem por objetivo evitar a supressão de instância e o conhecimento de matérias que, em tese, não estariam, no tempo e no modo, na esfera de competência do Tribunal para o qual se destinou a indevida impetração. O exaurimento da instância antecedente é, pois, pressuposto de competência.
+Nesse sentido:  ..  Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. (HC n. 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 1/6/2022)
+In casu, o presente recurso foi interposto de decisão monocrática de Desembargador que declarou extinta a ordem de habeas corpus, não havendo, portanto, o exaurimento de instância.
+A propósito:
+"A decisão impugnada no habeas corpus foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, portanto, deliberação colegiada do Tribunal a quo sobre a matéria trazida na impetração. Nesse contexto, não há como conhecer do pedido nesta Corte Superior devido à ausência de exaurimento de instância" (EDcl no AgRg no HC n. 987.021/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025.)
+"Não houve deliberação colegiada sobre a alegada nulidade da prisão e busca e apreensão, inviabilizando o conhecimento por esta Corte Superior devido à ausência de exaurimento de instância" (AgRg no RHC n. 205.979/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+"Não cabe habeas corpus contra decisão monocrática de desembargador relator, porquanto, ausente a manifestação do órgão colegiado, não houve o prévio esgotamento da instância antecedente" (AgRg no HC n. 726.650/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 29/3/2022, DJe de 6/4/2022.)
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
