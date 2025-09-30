@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WALTER DIAS DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que inadmitiu o recurso especial, com fundamento na incidência das Súmulas 7/STJ e 83/STJ (fls. 120-138).
+Na origem, a 3ª Câmara Criminal do TJMS deu provimento ao agravo de execução penal interposto pelo Ministério Público para restabelecer o regime fechado e condicionar a progressão de regime à realização de exame criminológico no apenado, em razão de reconhecer o histórico de quatro evasões e da prática de dois roubos majorados durante período de fuga, como fundamento adequado a exigência de exame, nos termos da Súmula Vinculante 26/STF e a Súmula 439/STJ (fls. 58-62).
+O despacho de admissibilidade do Tribunal a quo assinala que a discussão, se adequa a jurisprudência desta corte, e tal como posta a pretensão no Recurso Especial, demandaria reexame fático-probatório, incidindo o óbice sumular (fls. 107-111).
+Nas razões do agravo em recurso especial, a Defesa impugna a negativa de seguimento, afirmando que o REsp demonstrou violação ao art. 112, § 1º, da LEP, por suposta retroatividade da Lei 14.843/2024, bem como por inexistirem elementos concretos a justificar o exame criminológico (fls. 120-138).
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial, enfatizando que a multirreincidência e quatro evasões justificam maior cautela e a exigência de exame criminológico; pontuou, ainda, que não se cuida de retroação da Lei 14.843/2024, pois a possibilidade do exame já era admitida pela Súmula Vinculante 26/STF e pela Súmula 439/STJ (fl. 177-180).
+É o relatório. DECIDO.
+Em juízo de admissibilidade do REsp, o Tribunal de origem considerou a aderência do acórdão estadual à jurisprudência do STJ quanto à exigência excepcional de exame criminológico, em observância a Súmula Vinculante 26/STF e Súmula 439/STJ, atraindo a incidência da Súmula 83/STJ; e a necessidade de revolvimento do acervo fático-probatório para infirmar as premissas de que o particular histórico do apenado, com múltiplas evasões e prática de novos delitos graves no curso da execução, é justificativa suficiente para a determinação de realização de exame criminológico, incidindo a Súmula 7/STJ .
+No AREsp, a defesa reedita a tese de que o art. 112, § 1º, da LEP, com a redação da Lei 14.843/2024, não retroage para prejudicar o apenado, e que, ausentes peculiaridades, não se poderia exigir o exame criminológico.
+Embora tenha debatido a matéria de fundo, não atacou especificamente, de modo suficiente, todos os fundamentos autônomos da inadmissão, notadamente a Súmula 7/STJ (reexame de fatos) e a Súmula 83/STJ (jurisprudência pacífica), circunstância realçada nas contrarrazões ministeriais apresentada.
+A Súmula 182/STJ, por analogia ao atual art. 1.042 do CPC, veda o conhecimento do agravo quando o recorrente não impugna especificamente todos os fundamentos da decisão agravada. No caso, subsiste fundamento suficiente e autônomo (Súmula 7/STJ) não devidamente afastado. Isso basta para manter a inadmissão.
+Ainda que superado o óbice, o acórdão do Tribunal estadual alinha-se à orientação consolidada desta Corte: a exigência de exame criminológico é excepcional e deve ser motivada pelas peculiaridades do caso, à luz da Súmula 439/STJ, não se admitindo fundamentação na gravidade abstrata do delito ou na longa pena.
+A decisão local, porém, não se valeu de tais motivos genéricos, ao contrário, apoiou-se no histórico prisional concreto do agravante (quatro evasões e novos crimes durante as fugas), reconhecendo a necessidade de avaliação técnica para o requisito subjetivo da progressão.
+Desta forma, a tese de retroatividade da Lei 14.843/2024 não é decisiva neste caso, o próprio acórdão estadual e o parecer ministerial acentuam que a possibilidade do exame já existia antes da inovação legislativa, de modo que não se impõe a aplicação retroativa da lei nova, discussão irrelevante para o desfecho do caso.
+Portanto, o acórdão está consonante com a jurisprudência desta Corte, o que atrai a Súmula 83/STJ, e a revisão das premissas fáticas apresentadas (quais sejam, o histórico criminal do apenado, com evas ões e delinquência durante a fuga) encontra óbice na Súmula 7/STJ .
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público contra decisão que não conheceu do habeas corpus substitutivo, mas concedeu a ordem de ofício para progredir o paciente ao regime semiaberto.
+2. O Juízo da Execução Penal deferiu a progressão de regime ao paciente, declarando a inconstitucionalidade parcial da Lei nº 14.843/2024 quanto à exigência de exame criminológico.
+3. O Tribunal de origem deu provimento ao agravo de execução penal interposto pelo Ministério Público, determinando a realização de exame criminológico e o retorno do agravado ao regime anterior.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a exigência de exame criminológico para progressão de regime, com base na Lei nº 14.843/2024, é aplicável retroativamente e se a decisão do Tribunal de Justiça que determinou o exame criminológico é manifestamente ilegal.
+III. RAZÕES DE DECIDIR
+5. A jurisprudência do STJ e do STF não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.
+6. A exigência de exame criminológico, conforme a Súmula 439 do STJ, só é admitida em casos com peculiaridades que justifiquem, e não pode ser fundamentada apenas na gravidade abstrata do delito ou na longa pena a cumprir.
+7. A Lei nº 14.843/2024, que exige exame criminológico para progressão de regime, não pode retroagir para prejudicar o apenado, conforme o princípio da irretroatividade da lei penal mais gravosa.
+IV. DISPOSITIVO
+8. Agravo regimental desprovido. (AgRg no HC n. 943.230/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/12/2024, DJEN de 9/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. DEMONSTRAÇÃO DE ELEMENTOS CONCRETOS QUE JUSTIFICASSEM A ELABORAÇÃO DA PROVA TÉCNICA. SÚMULA N. 439/STJ E SÚMULA VINCULANTE N. 26. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, os Tribunais Superiores admitem a sua realização para a aferição do mérito do apenado em hipóteses excepcionais. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+2. Na hipótese, as instâncias de origem lograram fundamentar a negativa da progressão de regime, uma vez que não levaram em conta somente a gravidade em abstrato do delito praticado e a longa pena a cumprir, mas também o fato de o agravante ter voltado a "delinquir durante o livramento condicional".
+3. Agravo regimental desprovido. (AgRg no HC n. 876.234/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
