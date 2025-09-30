@@ -1,0 +1,81 @@
+DECISÃO:
+
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário, fundado na letra “a” do permissivo constitucional, em face de acórdão do Tribunal de Justiça do Estado de Pernambuco, que concedeu parcialmente a ordem para declarar a inexigibilidade do DIFAL entre a data da impetração (17/3/2020) e o advento da Lei Complementar 190/2022 (4/2/2022).
+
+    O aresto recebeu a seguinte ementa (e-doc. 5):
+
+    “EMENTA: APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA PREVENTIVO. ICMS-DIFAL. OPERAÇÕES INTERESTADUAIS REALIZADAS A CONSUMIDORES FINAIS NÃO CONTRIBUINTES. TEMA 1093 DA REPERCUSSÃO GERAL. CASO NÃO ABARCADO PELA MODULAÇÃO DE EFEITOS OPERADA PELO STF. VALIDADE DAS COBRANÇAS POSTERIORES AO ADVENTO DA LC 190/2022. NÃO APLICAÇÃO DO PRINCÍPIO DA ANTERIORIDADE. RECURSO PROVIDO EM PARTE. 1. Trata-se, na origem, de mandado de segurança impetrado com o objetivo de afastar o recolhimento do DIFAL de ICMS em operações de circulação de mercadorias realizadas a consumidores finais não contribuintes localizados no Estado de Pernambuco. 2. O Juízo a quo extinguiu o writ, sem resolução do mérito, ao fundamento de que o mesmo teria sido impetrado contra lei em tese. 3. O mandamus, entretanto, não foi impetrado em caráter normativo, mas preventivo. 4. Isso porque a apelante, empresa do ramo de comercialização de medicamentos, comprovou que é sediada no Estado de Santa Catarina, estando, portanto, na iminência de ter que recolher o DIFAL de ICMS nas operações destinadas a consumidores finais não contribuintes domiciliados em Pernambuco, como já vem fazendo em favor de outros estados. 5. Demonstrada a situação concreta pela qual passava a apelante, deve ser afastada a sentença terminativa a quo. 6. O caso, todavia, não é de determinar o retorno dos autos à origem, tendo em vista que a demanda se encontra madura para julgamento diretamente por esta instância revisora. 7. De fato, a hipótese dos autos é de mandado de segurança, em que vedada dilação probatória, tendo o Estado tido a oportunidade de se defender da impetração no bojo das contrarrazões apresentadas perante esta instância ad quem. 8. Nesse contexto, cumpre analisar o mérito, conforme autoriza o art. 1.013, § 3º, I, do CPC/2015. 9. Cinge-se a controvérsia a aferir se é ou não devida a exigência do DIFAL do ICMS nas operações de venda de mercadorias destinadas a consumidores finais pernambucanos não contribuintes do imposto. 10. Antes da EC 87/2015, as operações interestaduais de aquisição de mercadorias realizadas por contribuintes de ICMS, ainda que na condição de consumidores finais, já estavam sujeitas à cobrança do DIFAL em prol do Estado de destino. 11. A EC 87/2015, por seu turno, apenas alterou a situação das vendas realizadas a consumidores finais não contribuintes, para estabelecer que, também nesses casos, seria devido o recolhimento do DIFAL em prol do Estado de destino. 12. Considerando que a EC 87/2015 criou hipótese nova de aplicação de alíquota interestadual – no que se refere às operações de circulação destinadas a consumidores finais não contribuintes de ICMS – era necessária a edição de lei complementar regulamentadora, já que a LC nº 87/96 não contemplava essa hipótese, elaborada que foi à luz do texto anterior do artigo 155 da CF. 13. Contudo, mesmo diante desse panorama, as unidades federativas iniciaram a cobrança do novel DIFAL com esteio no Convênio ICMS nº 93/15 do CONFAZ – Conselho Nacional de Política Fazendária, situação que perdurou entre 2015 e 2021, ocasião em que o STF analisou a questão em sede controle concentrado e em sede de controle difuso, sob a ótica da repercussão geral, nos autos da ADI 5.469/DF e do RE 1287019/DF-RG (Tema 1093), reconhecendo a inconstitucionalidade da cobrança do DIFAL apenas nos casos de venda interestadual a consumidores finais não contribuintes de ICMS. Precedente do STF. 14. Bem se vê que, nos referidos julgados, o STF decidiu por modular os efeitos da tese paradigmática fixada, para que a exigência da lei complementar federal somente passasse a produzir efeitos em 2022, ou seja, no exercício seguinte à data do julgamento. 15. Na ocasião, foram expressamente ressalvadas da modulação as ações judiciais em curso, em relação às quais foram considerados imediatos os efeitos da declaração de inconstitucionalidade das cláusulas do Convênio nº 93/2015 do CONFAZ. 16. Em sede de embargos de declaração, o STF esclareceu que a ressalva da modulação deveria ser aplicada às “ações judiciais então em curso, ou seja, às ações judiciais propostas até a data do referido julgamento”, que se deu em 24.02.2021. 17. Dito isso, observa-se que, no caso, o mandado de segurança de origem foi impetrado em 17.03.2020, antes, portanto, do julgamento da ADI 5.469/DF e do RE 1287019/DF-RG (Tema 1093-RG). 18. Nesse contexto, considerando que a hipótese dos autos não é alcançada pela modulação operada pelo STF, deve ser reconhecido que, ao tempo da impetração, realmente não era possível exigir o DIFAL da empresa apelante, nas operações de venda destinadas a consumidores finais não contribuintes de ICMS domiciliados em Pernambuco. 19. Diz-se “não era” porque, em 04 de fevereiro de 2022, o Congresso Nacional aprovou a Lei Complementar nº 190, regulamentando a cobrança do ICMS-DIFAL na hipótese versada nos autos. 20. Ademais, observa-se que, mesmo antes, em 31.12.2021, o Estado de Pernambuco já havia editado a Lei Estadual nº 17.625/21, adequando a sistemática do DIFAL existente desde 2016 às normas gerais que seriam objeto da lei complementar a ser editada pelo Congresso. 21. Sendo assim, no Estado de Pernambuco, a cobrança do DIFAL passou a ser válida de 05.02.2022 em diante, por força da Lei Complementar nº 190/22 e da Lei Estadual nº 17.625/21. Precedentes deste e. Tribunal. 22. Ao contrário do que se poderia alegar, o princípio da anterioridade não se aplica à LC 190/2022, tendo em vista que a referida lei é de normas gerais, não tendo, portanto, instituído nem majorado tributo. 23. Recurso de apelação parcialmente provido, à unanimidade, para, em momento primeiro, afastar a sentença terminativa a quo e, em sucessivo, mediante a aplicação do direito à espécie (art. 1.013, §3º, I, do CPC/2015), conceder parcialmente a segurança postulada por Genésio A. Mendes & Cia. Ltda, em ordem a declarar inexigibilidade do DIFAL entre a data da impetração (17.03.2020) e o advento da LC 190/2022 (04.02.2022)”
+
+    Opostos embargos de declaração, estes foram rejeitados (e-doc. 8).
+
+    A parte recorrente alega ter havido violação de diversos dispositivos constitucionais (e-doc. 9).
+
+    Insurge-se contra a limitação temporal imposta no acórdão recorrido, uma vez que restou reconhecido o seu direito ao não recolhimento do DIFAL, nas operações interestaduais envolvendo consumidores finais não contribuintes do ICMS, porém limitado ao período compreendido entre a impetração do presente mandamus (17/3/2020) e o advento da Lei Complementar 190/2022 (4/2/2022).
+
+    Assevera que não há motivo para a indevida limitação temporal do período anterior à impetração do Mandado de Segurança.
+
+    Aduz que no Tema nº 1.093 da repercussão geral, o STF reconheceu a necessidade de lei complementar para viabilizar a cobrança do tributo desde a vigência das alterações promovidas pela EC 87/2015, de modo que até a edição da aludida norma complementar, configura-se inconstitucional a exigência da Difal.
+
+    Conclui que
+
+    “O acórdão, na contramão desses dispositivos constitucionais, dispôs que ao caso não se aplicava a modulação de efeitos das ‘ações em curso’, e, por isso, limitou o direito líquido e certo do recorrente para o período em que tramitou o mandado de segurança. O que implica em desvirtuar o julgamento do STF sobre a matéria, pois, permite a cobrança de imposto inconstitucional (antes de edição da Lei Complementar n. 190/22) e, ainda, valida a cobrança após a edição em data que a lei complementar não estava em vigor, haja vista o prazo do art. 3º do referido ato normativo.”
+
+    Nesses termos, requer que seja reformado o acórdão recorrido para afastar a limitação temporal aos efeitos do acórdão recorrido, a fim de preservar a competência do Supremo Tribunal Federal.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Como relatado, a parte recorrente insurge-se contra a limitação temporal estabelecida no aresto impugnado para o reconhecimento do seu direito ao não recolhimento da DIFAL, qual seja, da data da impetração (17/3/2020) e o advento da Lei Complementar 190/2022 (4/2/2022).
+
+    É certo que a Corte de origem decidiu pelo termo inicial dos efeitos da decisão, considerado o momento da impetração do writ, de acordo com a jurisprudência desta Suprema Corte, no sentido de que a ordem judicial proferida em sede de mandado de segurança não alcança pagamentos referentes a parcelas anteriores a sua impetração, possuindo efeitos patrimoniais somente a partir dessa data, nos termos dos enunciados sumulares 269 e 271 do STF:
+
+    “O mandado de segurança não é substitutivo de ação de cobrança” (Súmula nº 269/STF).
+
+    “Concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria” (Súmula nº 271/STF).
+
+    Nesse sentido, colaciono os seguintes precedentes:
+
+    “EMENTA: EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. RESTITUIÇÃO DO INDÉBITO TRIBUTÁRIO RECONHECIDO EM SEDE DE MANDADO DE SEGURANÇA POR MEIO DE PRECATÓRIO. POSSIBILIDADE, UNICAMENTE EM RELAÇÃO AOS VALORES DEVIDOS A CONTAR DA IMPETRAÇÃO. 1. O órgão julgador pode receber, como agravo interno, os embargos de declaração que notoriamente visam a reformar a decisão monocrática do Relator, sendo desnecessária a intimação do embargante para complementar suas razões quando o recurso, desde logo, exibir impugnação específica a todos os pontos da decisão embargada. Inteligência do art. 1.024, § 3º, do Código de Processo Civil de 2015. 2. No Tema 1262 da repercussão geral, o PLENÁRIO do SUPREMO TRIBUNAL FEDERAL fixou a seguinte tese: ‘Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da Constituição Federal’. 3. O ora embargante sustenta que, a partir desse precedente, o SUPREMO passou a admitir a restituição, por precatório, de valores anteriores à impetração do mandado de segurança. 4. No tema 1262, discutiu-se essencialmente a compatibilidade da restituição administrativa com o art. 100 da Constituição, entendendo-se pela inconstitucionalidade de tal modo de adimplemento dos débitos da Fazenda Pública. 5. Em nenhum momento o precedente do Tema 1262 revoga as clássicas orientações das Súmulas 269 e 271 do SUPREMO TRIBUNAL FEDERAL. 6. A restituição por precatório no âmbito de mandado de segurança já foi expressamente admitida por esta CORTE no Tema 831 da repercussão geral, apenas quanto aos valores entre a data da impetração e a efetiva implementação da ordem concessiva. 7. Embargos de Declaração recebidos como Agravo Interno, ao qual se nega provimento” (RE nº 1.480.775/SP-ED, Relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 12/6/24 — grifo nosso).
+
+    “Agravo regimental em embargos de declaração em recurso extraordinário. Constitucional e tributário. Mandado de segurança. Sentença declaratória do direito à compensação de indébito tributário. Valores pretéritos, anteriores à impetração. Impossibilidade. Súmulas nºs 269 e 271 do STF. Vício sanável. Possibilidade de superação. Aplicação do art. 1.029, § 3º, do CPC. 1. De acordo com a pacífica jurisprudência da Suprema Corte, a ordem judicial proferida em sede de mandado de segurança não alcança pagamentos referentes a parcelas anteriores a sua impetração, possuindo efeitos patrimoniais somente a partir dessa data, nos termos dos Enunciados Sumulares nºs 269 e 271 do STF. 2. (...). 4. Agravo regimental não provido” (RE nº 1.516.899/SP-ED-AgR, Segunda Turma, de minha relatoria, DJe de 13/12/24 — grifo nosso).
+
+    Na mesma direção: RE nº 1.498.449/SP, Rel. Min. André Mendonça, DJe de 27/6/24.
+
+    Quanto ao termo final, verifica-se que esta matéria foi objeto de análise nas ADI’s nº 7.066/DF, 7.070/DF e 7.078/CE. Nessas ações diretas foi discutida a possibilidade de cobrança, ainda no ano de 2022, do diferencial de alíquotas do ICMS (ICMS-Difal) nas operações interestaduais, considerando a edição da Lei Complementar nº 190/22 e os prazos correspondentes às anterioridades anual e nonagesimal.
+
+    A Lei Complementar nº 190/22 não deve observância a nenhuma das anterioridades tributárias, na medida em que simplesmente veiculou normas gerais de ICMS e não instituiu ou aumentou o ICMS (em regra, somente lei dos estados-membros ou DF podem instituir ou majorar ICMS).
+
+    O art. 3º da LC nº 190/22 foi aproveitado como cláusula de entrada em vigor de lei (vide art. 1º da LINDB). Nesse sentido, o referido dispositivo foi interpretado como tendo determinado a entrada em vigor da LC em 90 (noventa) dias.
+
+    Quanto ao consumidor final contribuinte do ICMS, o ICMS-Difal já era possível de ser cobrado mesmo antes da edição da LC nº 190/22. A Lei Complementar nº 87/96 previa normas gerais de ICMS suficientes para a cobrança do Difal em relações entre consumidores finais contribuintes do tributo. Senão vejamos:
+
+    Art. 6º. Lei estadual poderá atribuir a contribuinte do imposto ou a depositário a qualquer título a responsabilidade pelo seu pagamento, hipótese em que assumirá a condição de substituto tributário. (Redação dada pela LCP 114, de 16.12.2002)
+
+    § 1º A responsabilidade poderá ser atribuída em relação ao imposto incidente sobre uma ou mais operações ou prestações, sejam antecedentes, concomitantes ou subseqüentes, inclusive ao valor decorrente da diferença entre alíquotas interna e interestadual nas operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado, que seja contribuinte do imposto.
+
+    Entretanto, não havia na LC nº 87/96 normas gerais para a cobrança do ICMS-Difal contra o consumidor final não contribuinte.
+
+    Ante a inexistência de lei complementar federal tratando do ICMS-Difal quanto às operações interestaduais com consumidor final não contribuinte do imposto, adveio o Convênio ICMS nº 93/15, buscando suprir essa lacuna, que teve a inconstitucionalidade reconhecida nesta Corte, tendo em vista ter normatizado matéria própria de lei complementar federal.
+
+    Em sequência, foi editada a já mencionada LC nº 190/22, alterando a Lei Kandir, para regulamentar a cobrança do ICMS nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto. Vale lembrar, aliás, que ela adveio muito por conta de o Supremo Tribunal Federal ter declarado a inconstitucionalidade formal de disposições do Convênio ICMS nº 93/15, por ter ele trazido regras de tal espécie, e que compete aos estados e ao Distrito Federal instituir o ICMS (art. 155, caput e II).
+
+    Conforme já assentado, a LC nº 190/22 trouxe apenas as regras gerais a respeito do ICMS-Difal em questão, sem o instituir.
+
+    Já as leis estaduais ou do Distrito Federal editadas na vigência da EC nº 87/15, antes ou depois da LC nº 190/22, foram as que, de fato, instituíram o ICMS-Difal em debate em face do remetente localizado no estado de origem.
+
+    Levando-se em conta que as anterioridades geral e nonagesimal se aplicam tendo-se como marco a data da publicação da lei que institui ou majora tributo (art. 150, inciso III, alíneas b e c, do texto constitucional), conclui-se que, a rigor, elas devem se aplicar a partir da publicação das citadas leis estaduais ou do Distrito Federal (as quais, insisto, instituíram a tributação questionada), e não da LC nº 190/22, que, reitero, versou apenas sobre as regras gerais da tributação.
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego provimento ao recurso.
+
+    Sem majoração de honorários de sucumbência (Súmula 512/STF).
+
+    Publique-se.
+
+    Brasília, 30 de setembro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
