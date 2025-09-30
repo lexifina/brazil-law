@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para modificar prazos de duração e de fixação dos termos iniciais e finais de contagem de inelegibilidades, e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para prever a criação do Requerimento de Declaração de Elegibilidade (RDE).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
