@@ -1,0 +1,51 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de recurso extraordinário, fundado na letra “a” do permissivo constitucional, interposto contra acórdão com a seguinte ementa (e-doc. n° 57):
+
+    TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÃO. CONTRIBUIÇÃO. PIS. COFINS. CUSTOS COM PLATAFORMAS DIGITAIS DE ENTREGA. DELIVERY. EXCLUSÃO DO CONCEITO DE RECEITA OU FATURAMENTO DA EMPRESA. EXTENSÃO DO TEMA 69 DO STF. IMPOSSIBILIDADE. INSUMO. TEMA 779 DO STJ. NÃO CARACTERIZAÇÃO. MERA DESPESA OPERACIONAL E OPCIONAL. RECURSO IMPROVIDO. 1. Trata-se de apelação interposta pelo particular contra sentença que denegou a segurança que almejava "decisão judicial para que seja determinada a exclusão das taxas cobradas pelas plataformas digitais da base de cálculo do PIS e da COFINS". 2. Em sede recursal, aduz o apelante que "na redação atual das normas infraconstitucionais, tais contribuições incidem sobre a totalidade das receitas auferidas pela pessoa jurídica, sendo evidente que, sobre tal montante, não há de se considerar as quantias retidas pelas plataformas digitais de delivery, nos moldes que tem sido exigido pela Autoridade Coatora", destacando que "ao contrário da receita e do faturamento, o valor destinado à plataforma apenas transita pela contabilidade da empresa na operação de circulação de mercadorias sem, no entanto, integrar seu patrimônio e, por consequência lógica, sua receita ou o faturamento", pelo que invoca a aplicação por analogia do Tema 69 do STF (RE nº 574.706/PR), com a concessão da segurança. 3. Destaque-se, inicialmente, a aplicação de interpretação restritiva no campo do direito tributário quanto a normas e decisões que tenham por consequência a redução da carga tributária, exatamente como almejado neste writ, sendo indevida a extensão de tese firmada referente a outras exações (Tema 69/STF). 4. "5. A utilização das modernas plataformas digitais de delivery configura apenas um instrumento para expandir a divulgação da empresa vendedora e dos seus respectivos produtos, bem como para facilitar as vendas aos consumidores, aumentando com isso o faturamento da pessoa jurídica. 6. Obviamente que a adesão a tais aplicativos tem um custo, adimplido mediante determinada porcentagem das vendas. 7. Trata-se, contudo, de mais um custo operacional da sociedade empresária, esse para fins de facilitação do negócio, mas que não tem relação com o resultado da receita bruta". (PROCESSO: 08158373020234058100, APELAÇÃO CÍVEL, DESEMBARGADORA FEDERAL JOANA CAROLINA LINS PEREIRA, 5ª TURMA, JULGAMENTO: 11/03/2024) 5. In casu , observa-se que o juízo a quo demonstrou, com propriedade, que " No presente caso, ao contrário, trata-se de uma despesa operacional da empresa (opcional, inclusive), que, como tantas outras despesas, compõem o preço do produto, sendo repassada ao consumidor, integrando, assim, o seu faturamento, base de cálculo do PIS e da COFINS". 6. Por fim, não se diga que os valores pagos pela empresa acionante às plataformas digitais de entrega de seus produtos ( delivery) se caracteriza como insumo. Em recente julgamento, o Superior Tribunal de Justiça afirmou (Tema 779): "Sob o rito do art. 543-C do CPC/1973 (arts. 1.036 e seguintes do CPC/2015), assentam-se as seguintes teses: (a) é ilegal a disciplina de creditamento prevista nas Instruções Normativas da SRF ns. 247/2002 e 404/2004, porquanto compromete a eficácia do sistema de não-cumulatividade da contribuição ao PIS e da COFINS, tal como definido nas Leis 10.637/2002 e 10.833/2003; e (b) o conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, ou seja, considerando-se a imprescindibilidade ou a importância de terminado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo Contribuinte. (REsp 1221170/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 24/04/2018) 7. "Permitir que o conceito de insumo seja ampliado irrestritamente, com a inclusão de todos os custos e despesas suportados pela empresa, equivale ao desvirtuamento da base de cálculo das contribuições ora discutida nessa lide e ao esvaziamento da responsabilidade social destas empresas para com a seguridade social, em flagrante afronta aos ditames constitucionais e legais" (PROCESSO: 08048703820194058302, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL FERNANDO BRAGA DAMASCENO, 3ª TURMA, JULGAMENTO: 11/03/2021). 8. Apelação improvida.’’
+
+    Opostos Embargos de Declaração, foram rejeitados (e-doc. n° 88).
+
+    No recurso extraordinário (e-doc. n° 99), a parte recorrente alega violação ao artigo 195, I, 'b' da Constituição Federal, bem como a Lei n. 9.718/1998, e ao Decreto Lei nº 1.598/1977.
+
+    Aduz o direito de recolher o PIS e a COFINS sem a inclusão das taxas cobradas nas plataformas digitais de delivery.
+
+    Defende que os valores pagos pelo consumidor final à plataforma digital de delivery não integram o faturamento ou a receita da Impetrante, mas sim a receita bruta de terceiros, motivo pelo qual, tais quantias não devem compor o conceito de receita ou faturamento da Impetrante.
+
+    Argumenta, ainda, que o Tribunal de origem desconsiderou o conceito constitucional de receita, fixado no RE nº 574.706 (Tema 69, da Repercussão Geral).
+
+    Foram apresentadas contrarrazões (e-doc. n° 104).
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Inicialmente, observo que a matéria, do modo como é trazida na petição de recurso extraordinário, é diversa do citado paradigma (Tema 69), no qual se fixou a tese de que “O ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS", não havendo falar em sua aplicação por analogia.
+
+    Ademais, registro que o Supremo Tribunal Federal, no julgamento do RE 1.049.811 (Tema 1.024), no âmbito da repercussão geral, firmou a tese de que “É constitucional a inclusão dos valores retidos pelas administradoras de cartões na base de cálculo das contribuições ao PIS e da COFINS devidas por empresa que recebe pagamentos por meio de cartões de crédito e débito”. Nessa oportunidade, esta Corte assentou que o faturamento, espécie do gênero receita bruta, engloba a totalidade do valor auferido com a venda de mercadorias e a prestação de serviços, inclusive o quantum devido a terceiros.
+
+    Com efeito, esse entendimento aplica-se ao caso, em que a parte recorrente requer a exclusão das taxas cobradas pelas plataformas digitais de delivery da base de cálculo do PIS e da COFINS.
+
+    No mais, destaco que a jurisprudência desta Corte é no sentido de que a controvérsia acerca do enquadramento de determinada receita obtida no caso concreto no conceito de receita bruta (faturamento), ou não, para fins de incidência do PIS e da COFINS situa-se no âmbito infraconstitucional, de modo que eventual ofensa à Constituição Federal seria apenas indireta. Nesse sentido:
+
+    “Agravo regimental nos embargos de declaração no recurso extraordinário. Tributário. PIS e da COFINS. Ampliação da base de cálculo pelo art. 3º, § 1º, da Lei nº 9.718/98. Inconstitucionalidade. Questionamento acerca do enquadramento ou não de determinada receita no conceito de receita bruta (faturamento) para fins de incidência da exação. Infraconstitucional. 1. É inconstitucional a ampliação da base de cálculo do PIS e da COFINS realizada pelo art. 3º, § 1º, da Lei nº 9.718/98. Nesse sentido: RE nº 585.235/MG-QO-RG, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJe de 28/11/08. 2. A questão relativa ao enquadramento de determinada receita auferida no caso concreto no conceito de receita bruta (faturamento) ou não para fins de incidência do PIS e da COFINS cinge-se à legislação infraconstitucional. Nesse sentido, a ofensa ao texto constitucional seria, caso ocorresse, simplesmente reflexa ou indireta, o que é insuficiente para amparar o recurso extraordinário. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC)”. (RE 406.802 ED-AgR, minha relatoria, Segunda Turma, DJe 22/11/2017)
+
+    ‘’AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. PIS E COFINS. TAXA DE ADMINISTRAÇÃO. CARTÃO DE CRÉDITO. RECEITA BRUTA E FATURAMENTO. BASE DE CÁLCULO. EXCLUSÃO DA RECEITA. 1. A jurisprudência do STF é pacífica no sentido de que a receita bruta e o faturamento, para fins de definição da base de cálculo para a incidência do PIS e da COFINS, são termos sinônimos e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços, referentes ao exercício da atividades empresariais. Precedentes. 2. A análise da questão se a receita obtida com o uso de cartões de crédito deve ser excluída da base de cálculo do PIS/COFINS cinge-se ao âmbito infraconstitucional. 3. Agravo regimental a que se nega provimento.’’ (ARE 936.107 AgR, Rel. Edson Fachin, Primeira Turma, DJe 12.4.2016)
+
+    ‘’AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. COFINS E CONTRIBUÇÃO PARA O PIS. BASE DE CÁLCULO. EXCLUSÃO DE VALORES TRANSFERIDOS A TERCEIROS. ART. 3º, § 2º, III, DA LEI 9.718/98. QUESTÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. INCIDÊNCIA. VALORES DECORRENTES DA VENDA DE IMÓVEIS RECEBIDOS COMO PAGAMENTO. EMPRESA CONSTRUTORA E INCORPORADORA DE IMÓVEIS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A jurisprudência desta Corte firmou-se no sentido de que a questão referente à exclusão de valores transferidos a terceiros das bases de cálculo da contribuição para o PIS e da COFINS, nos termos do art. 3º, § 2º, III, da Lei 9.718/98, possui natureza infraconstitucional. Eventual ofensa à Constituição se daria de forma meramente reflexa. II – Esta Corte também concluiu ser de caráter infraconstitucional a discussão envolvendo a incidência da COFINS e da contribuição para o PIS sobre valores decorrentes da venda de imóveis por empresa construtora e incorporadora de imóveis. III – Agravo regimental a que se nega provimento.’’ (RE 747.929 AgR, Rel. Ricardo Lewandowski , Segunda Turma, DJe 6.3.2014)
+
+    Diante do exposto, nos termos do art. 21, § 1º do RISTF, nego seguimento ao recurso.
+
+    Sem majoração dos honorários de sucumbência (Súmula 512/STF).
+
+    Publique-se.
+
+    Brasília, 30 de setembro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
