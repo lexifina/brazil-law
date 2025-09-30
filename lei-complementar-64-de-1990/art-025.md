@@ -1,0 +1,2 @@
+Art. 25. Constitui crime eleitoral a argüição de inelegibilidade, ou a impugnação de registro de candidato feito por interferência do poder econômico, desvio ou abuso do poder de autoridade, deduzida de forma temerária ou de manifesta má-fé:
+Pena: detenção de 6 (seis) meses a 2 (dois) anos, e multa de 20 (vinte) a 50 (cinqüenta) vezes o valor do Bônus do Tesouro Nacional (BTN) e, no caso de sua extinção, de título público que o substitua.

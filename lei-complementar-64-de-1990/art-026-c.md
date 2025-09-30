@@ -1,0 +1,4 @@
+Art. 26-C. O órgão colegiado do tribunal ao qual couber a apreciação do recurso contra as decisões colegiadas a que se referem as alíneas d, e, h, j, l e n do inciso I do art. 1º poderá, em caráter cautelar, suspender a inelegibilidade sempre que existir plausibilidade da pretensão recursal e desde que a providência tenha sido expressamente requerida, sob pena de preclusão, por ocasião da interposição do recurso.
+§ 1º Conferido efeito suspensivo, o julgamento do recurso terá prioridade sobre todos os demais, à exceção dos de mandado de segurança e de habeas corpus.
+§ 2º Mantida a condenação de que derivou a inelegibilidade ou revogada a suspensão liminar mencionada no caput, serão desconstituídos o registro ou o diploma eventualmente concedidos ao recorrente.
+§ 3º A prática de atos manifestamente protelatórios por parte da defesa, ao longo da tramitação do recurso, acarretará a revogação do efeito suspensivo.
