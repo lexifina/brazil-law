@@ -1,0 +1,15 @@
+DECISÃO
+1. Cuida-se de embargos de divergência interpostos por RONALDO AFONSO DE OLIVEIRA em face de acórdão da Terceira Turma, da relatoria do Ministro Moura Ribeiro, que negou provimento ao agravo interno do ora insurgente, mantida a inadmissão do recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. NECESSIDADE DE ANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. AGRAVO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. No caso concreto, alterar o entendimento do Tribunal estadual a respeito da justiça gratuita exige reapreciação do acervo fático- probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei.
+3. Agravo interno desprovido.
+Em suas razões, o embargante aponta dissídio interpretativo entre a citada decisão e acórdão desta Corte no sentido de que "a declaração de hipossuficiência emitida pela pessoa física para fins de obtenção da assistência judiciária gratuita goza de presunção iuris tantum de veracidade, cabendo à parte adversa a produção de prova em contrário" (REsp n. 1.115.300/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/8/2009, DJe de 19/8/2009). De acordo com o embargante, caso não lhe sejam concedidos os benefícios da justiça gratuita, "a ação interposta será extinta, já que não tem condições de arcar com o pagamento das custas do processo e honorários de advogado, conforme retratado na declaração de pobreza, bem como fartamente comprovado por documentação acostada" .
+É o relatório. Decido.
+2. Os embargos de divergência devem ser liminarmente indeferidos.
+Como se sabe, a admissão dos embargos de divergência reclama a comprovação do dissí dio jurisprudencial na forma prevista nos artigos 1.043 do CPC e 266 do RISTJ. Assim, cabe ao embargante apontar as circunstâncias que identificam ou assemelham os casos confrontados, caracterizando-se a divergência jurisprudencial quando, na realização do cotejo analítico entre os acórdãos paradigma e recorrido, constatar-se a adoção de soluções diversas a litígios com molduras fáticas semelhantes, revelando-se insuficiente a mera transcrição de ementas para tanto.
+No caso, a embargante limitou-se a reproduzir ementas de precedentes que, a seu ver, espelhariam teses jurídicas divergentes daquelas contidas no acórdão embargado.
+Desse modo, afigura-se impositivo o indeferimento liminar do recurso, por falta de cumprimento das exigências técnicas específicas para a sua interposição (artigos 1.043, § 4º, do CPC e 266, § 4º, do RISTJ).
+3. Ante o exposto, indefiro liminarmente os embargos de divergência, determinando a majoração da verba honorária de 17% (dezessete por cento) para 18% (dezoito por cento) sobre o valor da condenação.
+Publique-se. Intimem-se.
+EMENTA
