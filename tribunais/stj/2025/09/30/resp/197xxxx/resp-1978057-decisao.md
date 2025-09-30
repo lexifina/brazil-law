@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial interposto por INDIANA AGRI COMÉRCIO DE EXPORTAÇÃO DE CEREAIS EIRELI, fundamentado no art. 105, III, alínea "a", do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 160-167, e-STJ):
+RECURSO DE AGRAVO DE INSTRUMENTO. TUTELA CAUTELAR ANTECEDENTE. LIMINAR DE ARRESTO DEFERIDA. NÃO CUMPRIMENTO DA MEDIDA. PEDIDO DE CESSAÇÃO DOS EFEITOS DA TUTELA DE URGÊNCIA E A CONSEQUENTE EXTINÇÃO DO FEITO. ARTIGO 309, II DO CPC. NÃO CONFIGURADO. RECURSO DESPROVIDO. Nos termos do artigo 309, II do CPC, cessará a eficácia da tutela concedida em caráter antecedente, se não for efetivada dentro de 30 dias. No caso dos autos, o arresto não foi possível por não serem encontrados grãos nos depósitos da Agravante. Ausência de omissão ou culpa do Agravado. Recurso desprovido.
+Opostos embargos de declaração (fls. 189-194, e-STJ), foram rejeitados nos termos do acórdão de fls. 207-219, e-STJ.
+Nas razões de recurso especial (fls. 221-242, e-STJ), aponta a parte recorrente ofensa aos arts. 308 e 309, II, do Código de Processo Civil.
+Contrarrazões apresentadas às fls. 273, e-STJ.
+Em juízo de admissibilidade (fls. 269-273, e-STJ), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+O reclamo, contudo, não ultrapassa o conhecimento, ante a perda superveniente do objeto.
+1. Não mais subsiste razão para o processamento do presente recurso, em razão da superveniente perda de seu objeto.
+Em 24/08/2023 recebeu-se informação acerca do julgamento da demanda derivada do processo em que pleiteada a Tutela Cautelar em caráter Antecedente (fls. 279-284, e-STJ).
+Por sua vez, a ora recorrente pretende, em seu reclamo, sejam apreciadas questões relacionadas à natureza do prazo de 30 dias para efetivação da tutela cautelar concedida em caráter antecedente, o qual, uma vez olvidado, implica a cessação de eficácia e a extinção do processo cautelar; e em relação à suposta violação da segurança jurídica pelo Tribunal estadual ao permitir a eternização da medida cautelar.
+Ocorre que, sem adentrar ao mérito da questão, o julgamento noticiado às fls. 279-284, e-STJ, torna a matéria não mais passível de discussão, restando, assim, prejudicada a análise do presente feito, que visava ao debate das aludidas matérias.
+Nos termos da jurisprudência deste Superior Tribunal de Justiça, a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento.
+Nesse sentido, precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. DECISÃO MANTIDA. 1. De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto" (REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022, DJe 23/2/2022). 2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.307.797/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL (ART. 544 DO CPC/73) - AÇÃO COMINATÓRIA - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE. 1. Nos termos da reiterada jurisprudência deste Superior Tribunal de Justiça, fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento, na hipótese de já ter sido prolatada a sentença. Precedentes. 2. Agravo interno desprovido. (AgInt no AREsp n. 939.872/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Tendo sido julgados os autos principais, o que denota foram superados as arguições afetas à tutela cautelar em caráter antecedente, tenho que não mais subsiste interesse na análise das matérias suscitadas no presente feito, atinentes ao prazo de validade da tutela e para a distribuição do principal.
+2. Do exposto, com fulcro no art. 34, inciso XI, do RISTJ, julga-se prejudicado o presente recurso, ante a perda superveniente de seu objeto.
+Publique-se.
+Intimem-se.
+EMENTA
