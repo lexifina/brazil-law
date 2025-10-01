@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ANTONIO BERNARDO SCHAUFFERT JUNIOR E EUNICE DOS SANTOS SCHAUFFERT, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal.
+Agravo em recurso especial interposto em: 5/2/2025.
+Concluso ao gabinete em: 4/8/2025.
+Ação: ação demarcatória proposta por PEDRO CIPRIANO contra ANTONIO BERNARDO SCHAUFFERT JUNIOR E EUNICE DOS SANTOS SCHAUFFERT.
+Decisão interlocutória: indeferiu a apresentação de quesitos e fixou honorários periciais. (fls. 179-181)
+Acórdão: conheceu do agravo interno e negou-lhe provimento, interposto pela parte agravante, nos termos da seguinte ementa:
+ADMINISTRATIVO. AÇÃO DEMARCATÓRIA. INCONFORMISMO DOS RÉUS. APRESENTAÇÃO DE QUESITOS PARA A PRODUÇÃO DE PROVA PERICIAL. INVIABILIDADE. AÇÃO QUE POSSUI DUAS FASES DISTINTAS. MINORAÇÃO DOS HONORÁRIOS PERICIAIS. INSURGÊNCIA EM RELAÇÃO AO VALOR FIXADO PELO JUÍZO. INSUBSISTÊNCIA. OBSERVÂNCIA DA RESOLUÇÃO CM N. 5/2023. AGRAVO INTERNO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+1. Na ação de demarcação de terras, o procedimento é realizado em duas etapas diferentes e independentes: a primeira é quando o perito efetua a demarcação e coloca os marcos necessários (art. 582 CPC); a segunda é o momento em que é oportunizado às partes se manifestarem em relação ao relatório do perito (art. 586 CPC).
+2. A discordância com a demarcação realizada - primeira etapa - deverá ser materializada em momento oportuno, após juntada do laudo nos autos, conforme previsão do art. 586 do Código de Processo Civil, de modo que eventual discordância poderá ser arguida após a juntada do laudo pericial no processo.
+3. Os honorários periciais para ação de demarcação de terras serão fixados conforme a Resolução CM n. 5/2023, de maneira que a majoração do valor é arbitrada respeitando os critérios de complexidade do caso concreto e com respaldo no §4º do art. 8º da Resolução.
+4. Recurso conhecido e desprovido. Decisão mantida. Honorários recursais incabíveis.(fls. 183)
+Embargos de Declaração: opostos pela parte agravante, foram conhecidos e rejeitados. (fls. 216-217)
+Recurso especial: alega violação dos arts. 465, § 1º, III, 489, § 1º, IV, do CPC. A parte agravante sustenta em seu recurso especial que: (i) houve violação ao direito de apresentar quesitos, por força do art. 465, § 1º, III, do CPC, porque a perícia demarcatória teria sido simplificada e não se teria aberto novo prazo após a nomeação de novo perito; (ii) ocorreu erro material no acórdão recorrido ao reputar intempestivos os quesitos sem considerar sucessivas desistências de peritos e a necessidade de reabertura do prazo; (iii) a decisão contrariou os arts. 582 e 586 do CPC ao restringir o contraditório à fase posterior à juntada do laudo, quando o contraditório deveria ser assegurado desde o início com quesitos e assistência técnica; (iv) foram fixados honorários periciais em R$ 5.380,00 em desconformidade com a Resolução CM n. 5/2023, sem fundamentação suficiente, violando o art. 489, § 1º, IV, do CPC, pois o teto seria R$ 870,00, admitida majoração até 3 vezes; (v) a simplificação da perícia pela vedação de quesitos impõe readequação dos honorários; e (vi) requer efeito suspensivo para paralisar a perícia até o julgamento definitivo, sob pena de cerceamento de defesa. (fls. 233-251)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Quanto à questão atinente à preliminar de erro material suscitada, observa-se que não houve indicação expressa do dispositivo de lei que teria sido violado pelo acórdão recorrido, sendo insuficiente a mera citação de dispositivos nas razões do recurso a título de fundamentação.
+É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa dos dispositivos de lei federal alegadamente violados implica deficiência na fundamentação do recurso especial. Aplica-se a inteligência Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 465, § 1º, III, do CPC, indicado como violado, sob o viés pretendido pela parte agravante (no sentido de que teria direito a apresentação dos quesitos para atualizar o procedimento, tendo em vista, as alterações legais, havidas para o devido registro da demarcação), apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Mesmo que assim não fosse, quanto à alegação de violação do art. 465, § 1º, III, do CPC, alterar o decidido no acórdão impugnado, no que se refere à cronologia fática da nomeação do perito em 03-12-2021, à aceitação em 11-02-2022 e à apresentação dos quesitos em 06-11-2023, reputada intempestiva (fls. 180), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da violação do art. 489 do CPC e Súmula 280/STF.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Na hipótese, quanto aos valores devidos a título de honorários periciais, o Tribunal de origem teceu fundamentação no sentido de que a Resolução CM n. 5/2023 fixa o valor máximo de R$ 870,00 para laudo pericial em ação demarcatória, admitindo majoração em casos excepcionais, e considerou, no caso concreto, a petição do perito que destacou a complexidade da execução, a dimensão dos trabalhos e a utilização de equipamentos especiais de alta precisão.
+Ademais, se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC não configurada.
+Ademais, qualquer acolhimento da pretensão de violação dos termos das resoluções mencionadas atrairia, por analogia, o óbice contido na Súmula 280/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DEMARCATÓRIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO À LEGISLAÇÃO LOCAL. VIOLAÇÃO REFLEXA DA LEI FEDERAL. SÚMULA 280/STF.
+1. Ação demarcatória.
+2. A ausência de indicação expressa do dispositivo de lei federal alegadamente violado importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Modificar a conclusão do Tribunal de origem no sentido de que a apresentação dos quesitos ocorreu quase dois anos após a nomeação do perito e, portanto, é intempestiva, implica reexame de fatos e provas.
+6. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+7. A violação de lei federal, quando necessária análise da lei local para sua aferição, é reflexa, razão pela qual não cabe recurso especial, por incidência da inteligência da Súmula 280/STF.
+8. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
