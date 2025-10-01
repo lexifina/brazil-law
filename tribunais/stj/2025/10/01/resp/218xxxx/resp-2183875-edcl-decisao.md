@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTÔNIO CARLOS THIESEN contra decisão monocrática que deu provimento ao recurso especial do Ministério Público do Estado de Santa Catarina, afastando o reconhecimento da prescrição quanto aos delitos dos arts. 48 e 64 da Lei 9.605 de 1998 e determinando o prosseguimento da ação penal.
+Nas razões dos embargos, a defesa argumenta que teria havido erro material, contradição e omissões.
+Alega que seria erro material a consideração de que os crimes previstos nos arts. 48 e 64 da Lei 9.605/1998 são crimes permanentes.
+Aponta omissão quanto à tese defensiva de que o recebimento da denúncia deve funcionar como marco para a contagem prescricional, sob pena de imprescritibilidade de fato.
+Pretende obter esclarecimento de "que a decisão não alterou a extinção da punibilidade quanto ao art. 38, que permanece intocada" e postula o prequestionamento dos arts. 111, I e III, 109, V e 117, I, do Código Penal, bem como de princípios constitucionais.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar os supostos vícios apontados, com a correspondente repercussão jurídica.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+A decisão embargada enfrentou a tese central com fundamentação suficiente. Assentou que o art. 48, da Lei n. 9.605 de 1998, descreve crime permanente e que, em consequência, a contagem prescricional se inicia com a cessação da permanência, conforme art. 111, III, do Código Penal.
+Ainda, foi afastada de forma explícita a adoção do recebimento da denúncia como termo inicial em substituição à regra legal, por ausência de amparo normativo, sendo igualmente rechaçada a alegação de que teria sido adotada uma imprescritibilidade de fato, como denota a própria estrutura normativa dos crimes permanentes, que apenas impede o curso da prescrição enquanto persistir a situação típica.
+Quanto ao art. 64 da mesma Lei, a alegação de erro material não procede, pois, ainda que a doutrina e a jurisprudência frequentemente o qualifiquem como crime instantâneo de efeitos permanentes, o ponto não conduz a vício invalidante.
+A ratio decidendi da decisão embargada incidiu sobre a inviabilidade de se reconhecer prescrição com base no recebimento da denúncia como marco substitutivo, premissa que se mantém tanto para o tipo permanente do art. 48 quanto para a hipótese em que se discute o art. 64.
+O embargante busca, na verdade, rediscutir a conclusão jurídica já firmada sobre o termo inicial e sobre a suficiência da motivação para a renovação do processo penal, providência incompatível com a via dos declaratórios.
+Com relação à alegação de que haveria um "marco na denúncia" para evitar imprescritibilidade, não há omissão. A decisão embargada afirmou, de modo claro, que a delimitação fática da denúncia não altera a natureza do delito, nem autoriza o início da contagem prescricional enquanto persistir a situação típica.
+A preocupação do acórdão estadual com eventual imprescritibilidade foi enfrentada e afastada por fundamentação jurídica suficiente, que aplicou literalmente o art. 111, III, do Código Penal e precedentes desta Corte, de modo que a discordância da parte com o desfecho não se confunde com a ausência de enfrentamento.
+No que se refere ao alcance da reforma em relação ao art. 3 8, da lei n. 9.605 de 1998, a decisão deu provimento ao especial para afastar a prescrição quanto aos arts. 48 e 64. O art. 38 não integrou o objeto recursal ministerial.
+Por fim, no que toca ao prequestionamento de normas constitucionais, não cabe "a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl no AgRg no AREsp n. 2.597.307/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024; e EDcl no AgRg no AREsp n. 2.487.334/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024).
+Em suma, os embargos veiculam inconformismo com o mérito. Inexistem omissão, contradição, obscuridade ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Registro que a eventual apresentação de novos embargos que venham a ser reputados protelatórios poderá ensejar o não conhecimento do recurso, com a baixa imediata dos autos.
+Publique-se. Intimem-se.
+ EMENTA
