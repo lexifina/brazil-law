@@ -1,0 +1,17 @@
+DECISÃO
+Em consulta à base de dados do Superior Tribunal de Justiça, verifica-se que, no RHC n. 188.198/RJ (fls. 736-750), que trata de uma ação penal conexa à Ação Penal n. 0506921-16.2018.4.02.5101, que originou o presente recurso, a 3ª Vara Federal Criminal do Rio de Janeiro encaminhou o Ofício n. 510016650298, no qual informou que:
+Seguiu-se, então, a regular tramitação da presente Ação Penal, contudo, por ocasião do julgamento do Habeas Corpus n.º 232.627, o Egrégio Supremo Tribunal Federal revisitou o entendimento anteriormente consolidado, firmando nova orientação acerca da definição da competência em casos que envolvem prerrogativa de foro, inclusive em hipóteses análogas à dos presentes autos.
+Diante dessa nova diretriz jurisprudencial, este Juízo, por meio de decisão juntada aos autos em 09/04/2025 (evento 1076), antes da finalização da instrução probatória, declinou de sua competência para processar e julgar a presente ação penal, bem como os feitos conexos, em favor do Egrégio Superior Tribunal de Justiça , em decisão assim fraseada:
+ ..
+Logo, por tudo quanto exposto, faz-se necessário, por conseguinte, remeter-se os presentes autos ao C. Superior Tribunal de Justiça, para deliberar a respeito de sua competência, para conhecer e julgar esta demanda e as demais correlatas, inclusive medidas cautelares e incidentes processuais vinculados, nos termos do art. 105, I, a, da CF e do art. 79 do CPP.
+Antes, entretanto, de se implementar o quanto cogitado, imperioso é determinar, considerando que o presente caderno processual é vinculado a diversos outros processos, conforme bem detalhado pelo parecer do Ministério Público Federal, quais haverão de acompanhá-los, especificamente os que se segue: 0503012-97.2017.4.02.5101; 0503870-31.2017.4.02.5101; 0507160-20.2018.4.02.5101; 0506921- 16.2018.4.02.5101; 0506899-55.2018.4.02.5101; 0507064-05.2018.4.02.5101 e as medidas cautelares e incidentes processuais correlatos.
+Ante o exposto, acolho o pedido da D. Defesa de JAIR VINNICIUS RAMOS DA VEIGA (evento 1991), bem como o parecer ministerial (evento 2021) e declaro a incompetência deste Juízo para processar e julgar esta ação penal, e seus feitos conexos em favor do E. Superior Tribunal de Justiça, pelos fundamentos acima expostos.
+Remetam-se os autos 0503012-97.2017.4.02.5101; 0503870-31.2017.4.02.5101; 0507160- 20.2018.4.02.5101; 0506921-16.2018.4.02.5101; 0506899- 55.2018.4.02.5101; 0507064-05.2018.4.02.5101, acompanhado das medidas cautelares e incidentes processuais correlatos ao Egrégio Superior Tribunal de Justiça, com as cautelas de praxe.
+ ..
+Assim, conforme se infere do quanto exposto, tanto a ação penal principal quanto os incidentes processuais a ela vinculados deixaram de tramitar perante este Juízo, em razão da declinação de competência anteriormente mencionada, tendo sido os autos remetidos à E. Corte Cidadã em 15/05/2025.
+Pois bem.
+A modificação da competência para processar e julgar a ação penal originária, com a consequente remessa dos autos a outra instância, modifica a competência anteriormente fixada para apreciação de recursos e incidentes.
+Nesse contexto, não mais se configura a competência das Turmas deste Superior Tribunal para apreciar recursos como o presente, do que se extrai a perda do objeto do presente recurso em habeas corpus.
+Ante o exposto, julgo prejudicado o pedido, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
