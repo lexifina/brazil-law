@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de revisão criminal ajuizada por Allan Viana Lemos, inconformado com o v. acórdão da Apelação Criminal n. 5002876-74.2021.8.21.0023 e com a decisão monocrática desta Corte, proferida nos autos do HC 999.186/RS.
+O requerente sustenta que a decisão monocrática proferida no HC n. 999.186/RS, da relatoria do Ministro Ribeiro Dantas, com trânsito em julgado em 24/6/2025, que manteve a validade da abordagem policial e apenas reduziu a pena-base pela ínfima quantidade de entorpecente, diverge da jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal quanto à exigência de fundadas razões para a busca pessoal, o que justificaria a propositura de revisão criminal com base no art. 621, I, do Código de Processo Penal (fls. 2/5).
+No histórico processual, relata que, em primeiro grau, o réu foi condenado por tráfico de drogas (art. 33 da Lei 11.343/2006) à pena de 1 ano e 8 meses, convertida em restritivas de direitos e multa; a pena-base foi majorada em 10 meses pela natureza do crack; na segunda fase, fixada em 5 anos em razão da atenuante da menoridade; e, ao final, aplicada a minorante do § 4º do art. 33, no patamar máximo.
+Em embargos de declaração, reconheceu a agravante da reincidência, fixando-se a penas em 6 anos. Na apelação, houve compensação integral da reincidência com a menoridade, reduzindo-se a reprimenda para 5 anos e 10 meses, em regime inicial fechado. O acórdão do TJRS transitou em julgado em 23/4/2025 (fls. 3/4).
+No HC 999.186/RS, considerou haver fundada suspeita pela "conduta suspeita", "volume anormal na cintura" e "local conhecido de tráfico", mas foi reduzida a pena-base pela pequena quantidade (19 g de crack), fixando a reprimenda em 5 anos de reclusão, em regime fechado (fls. 3/4).
+Insiste na tese de ilegalidade da busca pessoal, por ausência de fundadas razões objetivas, acarreando a nulidade das provas e das delas derivadas, com absolvição. Transcreve precedentes desta Corte e afirma que inexistem, nos autos, fatos objetivos anteriores à diligência que configurassem justa causa para a revista, já que a atuação policial se fundou em contexto genérico de "local de tráfico", em suposto "nervosismo" e "volume na cintura", sem investigação prévia direcionada ao réu, nem descrição concreta de indícios de posse de corpo de delito antes da abordagem (fls. 14/15, 18).
+Requer o recebimento da revisão criminal e o reconhecimento da ilicitude das provas por ausência de fundada suspeita na busca pessoal.
+É o relatório.
+Compete ao Superior Tribunal de Justiça processar e julgar as revisões criminais de seus julgados (art. 105, I, e, da Constituição Federal) nas hipóteses em que a condenação tiver sido decretada ou mantida no julgamento de recurso especial, se o fundamento revisando coincidir com a questão federal apreciada pelo órgão julgador (art. 240 do RISTJ, c/c o art. 621, I, do CPP).
+Assim, não cabe a esta Corte o julgamento de revisão criminal contra o acórdão de apelação prolatada pela Corte estadual. Também não é cabível revisão criminal como sucedâneo do recurso a ser interposto no Tribunal originário.
+Ademais, não é cabível revisão criminal contra decisão monocrática que não conheceu de habeas corpus, porquanto não houve pronunciamento do colegiado sobre o tema em julgamento de recurso especial. A propósito, confira-se o precedente desta Corte:
+AGRAVO REGIMENTAL. REVISÃO CRIMINAL. ART. 621, I, CPP. DECISÃO PROFERIDA MONOCRATICAMENTE EM HABEAS CORPUS. DESCABIMENTO. RECURSO DESPROVIDO.
+1. Compete ao STJ processar e julgar as revisões criminais de seus julgados nas hipóteses em que a condenação tiver sido decretada ou mantida no julgamento colegiado de recurso especial, se o fundamento revisando coincidir com a questão federal apreciada pelo órgão julgador.
+2. Não se conhece de pedido de revisão de decisão monocrática proferida em habeas corpus.
+3. Agravo regimental desprovido.(AgRg na RvCr n. 5.586/BA, Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA SEÇÃO, DJe 16/4/2021).
+Ressalto que contra a decisão monocrática proferida no julgamento do HC 999.186/RS não foi interposto o agravo regimental.
+Ante o exposto, não conheço da revisão criminal.
+Publique-se.
+EMENTA
+REVISÃO CRIMINAL. ART. 621, I, DO CPP. TRÁFICO DE DROGAS. NULIDADE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Compete ao STJ processar e julgar as revisões criminais de seus julgados nas hipóteses em que a condenação tiver sido decretada ou mantida no julgamento de recurso especial, se o fundamento revisando coincidir com a questão federal apreciada pelo órgão julgador.
+2. Revisão criminal não conhecida.
