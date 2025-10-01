@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR, com base na alínea a do permissivo constitucional, em que se impugna acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (fls. 133-138), assim ementado:
+ADMINISTRATIVO. AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS. RESSARCIMENTO AO SUS. JUROS DE MORA. TERMO INICIAL.
+Incabível a incidência de juros de mora antes da decisão final administrativa, já que não há qualquer mora a ser imputada à parte que está exercendo o direito legítimo de discutir a penalidade aplicada.
+Assim, qualquer encargo relativo à mora somente é devido a partir do momento em que a dívida se torna exigível, o que se dá com sua constituição definitiva, com o trânsito em julgado da decisão administrativa, até porque os recursos no âmbito da ANS têm efeito suspensivo e o administrado não pode ser penalizado pelo fato de ter interposto recurso administrativo contra a autuação, que é direito seu.
+Em suas razões recursais, expostas às fls. 168-178, a parte recorrente alega, em síntese:
+1) violação do art. 1022, inciso II, do CPC, sustentando negativa de jurisdição pelo não enfrentamento das questões suscitadas, mesmo após a interposição de embargos de declaração. Afirma que o tribunal de origem não se manifestou sobre a incidência dos dispositivos legais indicados, a saber: art. 37-A da Lei n. 10.522/2002, art. 61 da Lei n. 9.430/1996, arts. 884, 394 e 397 do Código Civil, art. 32 da Lei 9.656/1998 e art. 5º do Decreto-Lei n. 1.736/1979 (fl. 169);
+2) violação de dispositivos da legislação federal, argumentando que o termo inicial dos juros de mora deve ser fixado no primeiro dia do mês subsequente ao vencimento do crédito, conforme previsto no art. 32, § 4º, da Lei n. 9.656/1998, art. 61 da Lei n. 9.430/1996, art. 37-A da Lei n. 10.522/2002 e art. 5º do Decreto-Lei n. 1.736/1979. Alega que o entendimento do tribunal de origem, ao determinar a incidência dos juros apenas após a decisão administrativa definitiva, contraria a legislação aplicável e a jurisprudência do Superior Tribunal de Justiça (f ls. 170-178).
+Contrarrazões às fls. 185-192.
+O recurso especial foi admitido às fls. 195-196.
+É o relatório.
+Decido.
+A Primeira Seção deste Superior Tribunal de Justiça afetou o REsp n. 2.150.622/RS e n. 2.150.617/RS à sistemática dos recursos repetitivos, determinando a suspensão do processamento dos recursos especiais e dos agravos em recursos especiais, tanto os interpostos perante os Tribunais de segunda instância quanto aqueles já em trâmite nesta Corte Superior, que versem sobre a questão jurídica delimitada.
+A controvérsia foi delimitada nos seguintes termos (Tema n. 1359 do STJ):
+À luz do disposto no art. 32, § 4º, I, da Lei n. 9.656/1998, definir o termo inicial da incidência de juros de mora sobre débito a ser pago por operadoras de plano de saúde ao Sistema Único de Saúde (SUS), quando presente a interposição de recurso administrativo.
+Nesse contexto, o Superior Tribunal de Justiça tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo na Corte de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do Código de Processo Civil.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para este Tribunal Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1359 do STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROC ESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. RESSARCIMENTO AO SUS. JUROS DE MORA. TERMO INICIAL. ART. 32, § 4º, INCISO I, DA LEI N. 9.656/1998. AFETAÇÃO AO RITO DOS RECURSOS REPETITIVOS, TEMA N. 1359 DO STJ. ANÁLISE DO RECURSO PREJUDICADA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
