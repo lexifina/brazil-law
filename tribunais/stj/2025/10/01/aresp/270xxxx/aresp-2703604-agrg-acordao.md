@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ERRO DE PROIBIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. REVISÃO DA CONVICÇÃO ESTABELECIDA A PARTIR DO EXAME DAS PROVAS COLIGIDAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PEDRO HENRIQUE MEDRADO DUARTE contra a decisão de minha lavra que conheceu do agravo para não conhecer do recurso especial ante a incidência dos Enunciados Sumulares n. 282 e 356/STF, e 7/STJ.
+A defesa do agravante sustenta, em suma, que não há a necessidade do revolvimento de fatos e provas, vedado pelo enunciado da Súmula 7/STJ, mas a revaloração jurídica dos fatos, respondendo à pergunta "dado que estes fatos ocorreram, a conclusão jurídica adotada pelo Tribunal de origem é legalmente correta ". Aduz que se trata de um controle de legalidade da decisão, essencial para a manutenção da integridade do ordenamento jurídico (fl. 680).
+Afirma que, aplicando-se essa teoria ao caso concreto, observa-se que o v. acórdão do TJDFT firmou sua convicção sobre a existência de dolo com base em um conjunto específico de elementos: a apreensão do Agravante na condução do veículo, o fato de este ostentar placas adulteradas, a ausência de documentação do bem e a versão apresentada pelo Agravante, que foi considerada insuficiente para comprovar a sua boa-fé. A controvérsia, portanto, é de natureza estritamente jurídica e pode ser assim resumida: a soma desses quatro elementos circunstanciais, à luz do Direito Penal e Processual Penal brasileiro, é juridicamente suficiente para se concluir, com a certeza que uma condenação exige, pela existência do elemento subjetivo do tipo (dolo direto), superando o princípio fundamental do in dubio pro reo  (fl. 681).
+Defende, também, que houve o prequestionamento da questão debatida, porquanto o erro de proibição (art. 21 do CP) trata justamente da falta de consciência da ilicitude do fato. Ao analisar e rechaçar a tese defensiva de "ausência de ciência", o Tribunal a quo emitiu um juízo de valor sobre o exato substrato fático-jurídico da norma federal tida por violada. A discussão sobre o "conhecimento da ilicitude" é a própria essência do erro de proibição. Exigir a menção expressa ao dispositivo legal ou ao nomen iuris da tese seria um apego a um formalismo exacerbado, que privilegia a forma em detrimento do direito e ignora a instrumentalidade do processo (fl. 683).
+Requer, assim, a reconsideração da decisão agravada ou, caso contrário, a sua submissão ao órgão colegiado competente, a fim de que seja conhecido e provido o Recurso Especial para, reformando o v. acórdão recorrido, absolver o Agravante com fundamento no art. 386, VII, do Código de Processo Penal, por ausência de prova inequívoca do dolo, conforme a tese da revaloração jurídica da prova (fl. 684).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ERRO DE PROIBIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. REVISÃO DA CONVICÇÃO ESTABELECIDA A PARTIR DO EXAME DAS PROVAS COLIGIDAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seus fundamentos, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Com efeito, conforme asseverei, o Tribunal a quo não debateu a questão suscitada nas razões do recurso especial, qual seja, a violação do art. 21 do Código Penal (erro sobre a ilicitude do fato), motivo pelo qual se verifica que o recurso especial padece de falta de prequestionamento, incidindo, assim, o enunciado das Súmulas 282 e 356/STF.
+Nesse sentido: AgInt no AREsp n. 1.859.677/RS, Ministro Teodoro Silva Santos, Segunda Turma, julgado em 29/4/2024, DJe 7/5/2024.
+Adverti, também, que, para acolher a tese defensiva, seria necessário revolver o conjunto fático-probatório dos autos, o que esbarra no óbice da Súmula n. 7/STJ. Assim, por exemplo: AgRg no REsp n. 1.844.880/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 22/9/2020, DJe 29/9/2020.
+Ante o exposto, nego provimento ao agravo regimental.
