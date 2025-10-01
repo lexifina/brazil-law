@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO DEMONSTRADO. Configura excesso de execução o fato de, não obstante os cálculos do montante executado já contemplarem percentual relativo à verba honorária, a apelante requerer, na petição inicial do feito executivo, a fixação de "honorários advocatícios, à razão de 10% (dez por cento) sobre o valor da causa.", em clara ocorrência de bis in idem, de modo que não merece reparos a sentença que assim dispõe. APELAÇÃO CÍVEL CONHECIDA E NÃO PROVIDA.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 373, 827, 917 e 1022 do Código de Processo Civil. Sustenta não haver excesso de execução.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1022 do CPC.
+Quanto ao mais, verifico que o recurso especial não dispensa o reexame de prova. As razões do recurso partem do pressuposto de que não houve o excesso de execução. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 640):
+A sentença não merece reparos, posto que, de fato, ao que se vê do feito executivo, a apelante incluiu a verba honorária no cálculo do montante devido oferecido na inicial da Execução e requereu, sobre esse montante, a fixação de "honorários advocatícios, à razão de 10% (dez por cento) sobre o valor da causa", em clara configuração de bis in idem, por conseguinte, em enriquecimento sem causa.
+Em casos que tais, não há que se exigir do executado que, ao embargar, instrua a inicial com memória descritiva dos cálculos apontando o valor que entende devido, pois, como é fácil constatar, a parcela impugnada é clara e certa (honorários advocatícios em duplicidade) e sua quantificação (10%, no caso, equivalentes a R$ 192.878,35), ainda que não estivesse expressa, exigiria uma simples conta matemática com não mais que uma mera equação de percentagem.
+Logo, uma vez configurado o excesso de execução, não há que se falar em reforma da sentença impugnada.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
