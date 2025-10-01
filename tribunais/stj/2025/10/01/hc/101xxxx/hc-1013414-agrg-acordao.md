@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DA CONDUTA. PERICULOSIDADE DO ACUSADO. FUGA. CONTEMPORANEIDADE. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato process ual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal.
+2. Segundo a orientação do Superior Tribunal de Justiça, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar.
+3. A fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória.
+4. A presença de condições pessoais favoráveis ao agente, como primariedade e bons antecedentes, não representam óbice, por si sós, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+5. No caso concreto, verifica-se que o recorrente foi denunciado pela prática de homicídio qualificado por motivo fútil, meio cruel e mediante recurso que dificultou a defesa do ofendido, com a presença de materialidade e indícios bastantes de autoria, evidenciando gravidade concreta da conduta e periculosidade do acusado que agiram com peculiar modus operandi. A despeito de o homicídio ter sido em tese praticado em 2019, apenas recentemente foi desvendada a autoria, uma vez que os agentes fugiram do local do crime.
+6. Constata-se que a exigência cautelar justificadora da manutenção da prisão preventiva foi demonstrada, não cabendo relaxar a prisão por falta de prova de autoria, considerando a existência de ao menos duas testemunhas que indicaram o paciente como um dos autores do homicídio.
+7. A adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal), diante da gravidade da conduta perpetrada e do risco de reiteração delitiva.
+8. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JANAILSON PEDRO FIDELES DE SOUSA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n.2120725.13.2025.8.26.0000.
+A defesa pretende a soltura do paciente - preso preventivamente pela suposta prática do crime previsto no art. 121 do Código Penal - sob os argumentos de que: a) a segregação cautelar carece de fundamentação idônea, uma vez que fundamentada na gravidade em abstrato do crime e em genérico acautelamento da lei penal; b) não há contemporaneidade entre a prisão e o suposto crime que a justifica, porque este teria sido cometido em 2019; c) o paciente é primário e tem bons antecedentes; d) é suficiente a imposição de cautelares pessoais diferentes da prisão; e) o paciente não é autor do crime que lhe foi imputado.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 427-432).
+Em decisão monocrática de fls. 437/442, deneguei a ordem.
+Volve o paciente aos autos através do presente agravo regimental no qual impugna mencionada decisão monocrática e requer sua reforma pelo colegiado.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DA CONDUTA. PERICULOSIDADE DO ACUSADO. FUGA. CONTEMPORANEIDADE. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato process ual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal.
+2. Segundo a orientação do Superior Tribunal de Justiça, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar.
+3. A fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória.
+4. A presença de condições pessoais favoráveis ao agente, como primariedade e bons antecedentes, não representam óbice, por si sós, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+5. No caso concreto, verifica-se que o recorrente foi denunciado pela prática de homicídio qualificado por motivo fútil, meio cruel e mediante recurso que dificultou a defesa do ofendido, com a presença de materialidade e indícios bastantes de autoria, evidenciando gravidade concreta da conduta e periculosidade do acusado que agiram com peculiar modus operandi. A despeito de o homicídio ter sido em tese praticado em 2019, apenas recentemente foi desvendada a autoria, uma vez que os agentes fugiram do local do crime.
+6. Constata-se que a exigência cautelar justificadora da manutenção da prisão preventiva foi demonstrada, não cabendo relaxar a prisão por falta de prova de autoria, considerando a existência de ao menos duas testemunhas que indicaram o paciente como um dos autores do homicídio.
+7. A adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal), diante da gravidade da conduta perpetrada e do risco de reiteração delitiva.
+8. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo não merece provimento.
+I. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juízo singular assim fundamentou a decretação da prisão preventiva (fl. 31, grifei):
+ ..
+No tocante ao pedido, formulado pelo Ministério Público, de decretação da Prisão Preventiva do acusado, deve ser ele atendido.
+Os réus foram denunciados pela prática de homicídio qualificado, em decorrência do óbito da vitima Murilo, que foi esfaqueada.
+Conforme consta dos autos contêm prova da materialidade (boletim de ocorrência fls.3/4; exame necroscópico-fls.77/80 e laudo IC-fls.219/225) e indícios bastantes da autoria e participação (notadamente a partir dos depoimentos testemunhas Claudio Henrique Ferreira Moreira -fls.26 e de Carlos Eduardo Ferreira Moreira -fls.53)
+Assim, há veementes indícios de autoria. O caso em tela cuida de delito hediondo, violento e que causa desassossego na sociedade, que demonstra periculosidade por parte dos acusados, que demonstra claro descaso pela vida e integridade física alheios.
+Inegável, pois, em face dos elementos coligidos pela fase inquisitiva, que a custódia cautelar é necessária para a garantia da ordem pública, asseguração da instrução criminal e aplicação da lei penal, considerando a periculosidade de sua conduta e até para se garantir a incolumidade das testemunhas.
+Assim, considerando presentes os requisitos do art. 312 do Código de Processo Penal, para garantia da ordem pública, por conveniência da instrução criminal, assegurando-se a incolumidade física das testemunhas, e para assegurar a aplicação da lei penal, DECRETO A PRISÃO PREVENTIVA DE ADRIELIO DA SILVA ALVES e JANAILSON PEDRO FIDELES DE SOUSA. Expeça-se mandados de prisão.
+O Tribunal de origem, a seu turno, manteve a decisão de primeiro grau nos termos a seguir (fl. 29, destaquei):
+ ..
+Destaca-se a gravidade em concreto das condutas pelas quais o paciente está sendo processado, uma vez que, supostamente, teria concorrido para a prática do crime de homicídio, por motivo fútil, meio cruel e mediante recurso que dificultou a defesa do ofendido.
+Neste aspecto, também não se mostra adequada a aplicação das medidas cautelares previstas no artigo 319 do Código de Processo Penal, com a redação dada pela Lei nº 12.403/11, porquanto insuficientes para assegurar a ordem pública.
+Assim, não há ilegalidade ou abuso na decisão contrariada, estando amparada na justa causa da prisão (materialidade e indícios de autoria), bem como nos fundamentos da custódia cautelar indicados.
+Na hipótese, são idôneos os motivos elencados no decisum combatido, pois evidenciam a gravidade concreta da conduta em tese perpetrada: o paciente teria concorrido para o cometimento de homicídio por meio cruel - facadas em diversas partes do corpo da vítima - e com recurso que dificultou a defesa da vítima - concurso de ao menos quatro agentes.
+Segundo a orientação deste Superior Tribunal, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar.
+A esse respeito, destaco os seguintes precedentes:
+ ..
+2. O decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade dos acusados que agiram com peculiar modus operandi, visto que o crime foi cometido mediante o concurso de pessoas, por motivo fútil e com recurso que dificultou a defesa da vítima, contra quem foram desferidos diversos golpes de facão e barra de ferro em direção à sua cabeça.
+3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Recurso não provido.
+(RHC n. 104.138/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019, grifei)
+ ..
+2. A prisão preventiva está adequadamente fundamentada na espécie, tendo em vista que as circunstâncias concretas do delito evidenciam a necessidade da constrição cautelar para a garantia da ordem pública, pela periculosidade do Recorrente, considerando-se, sobretudo, o modus operandi dos delitos. Precedentes.
+3. No caso, o recorrente é o suposto mandante do homicídio, movido por vingança, por um desentendimento anterior com a vítima, tendo sido efetuados vários disparos sem chance de defesa, por meio de emboscada.
+4. As condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema. 5. Recurso ordinário desprovido. (RHC n. 100.877/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/10/2018, destaquei).
+Não se constata ausência de contemporaneidade porque, a despeito de o homicídio ter sido em tese praticado em 2019, apenas recentemente foi desvendada a autoria, uma vez que os agentes fugiram do local do crime e apenas com a conclusão do inquérito policial e oferecimento da denúncia tiveram a base empírica para afirmação dos respectivos indícios de autoria confirmada.
+Segundo a jurisprudência desta Corte, "a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC n. 133.180/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 24/8/2021).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para manter a prisão preventiva, ao salientar a gravidade concreta do delito e o fato de estar o recorrente foragido. A Corte local, por sua vez, desdobrando o argumento do decreto preventivo, esclarece que "o fato do paciente ter ficado foragido por 11 anos, só tendo sido capturado em 22/07/2024 no Estado do Rio de Janeiro, isto é, dificultado a aplicação da lei penal por mais de uma década, por si só, já é justificativa idônea para manter a prisão cautelar".
+3. A "permanência  do recorrente  em local incerto e não sabido afasta a alegação de ausência de contemporaneidade da medida. Com efeito, "a fuga constitui o fundamento do juízo de cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC 133.180/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 24/8/2021).
+4. O acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC n. 133.180/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 24/8/2021).
+5. Dadas as apontadas circunstâncias do fato e as condições pessoais do acusado, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+6. Agravo regimental não provido.
+(AgRg no RHC n. 213.172/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/5/2025, DJEN de 26/5/2025,m grifei.)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva dos condenados.
+Não cabe relaxar a prisão por falta de prova de autoria porque, conforme consta da decisão de prisão do juízo singular, há ao menos duas testemunhas que indicaram na fase policial o paciente como um dos autores do homicídio, testemunhos que vieram também aos autos do presente habeas corpus (fls. 348-349), de forma que o afastamento de tais conclusões demandaria dilação probatória incompatível com este remédio processual.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+Nesse sentido:
+ ..
+5. Demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n.º 12.403/2011.
+6. Ordem de habeas corpus denegada.
+(HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020)
+Ainda, de acordo com a jurisprudência deste Superior Tribunal, "a presença de condições pessoais favoráveis ao agente, como primariedade e bons antecedentes, não representam óbice, por si sós, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela" (HC n. 571.208/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJ 28/9/2020).
+II. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
