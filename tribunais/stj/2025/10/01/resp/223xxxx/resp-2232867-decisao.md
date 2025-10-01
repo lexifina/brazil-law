@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE JOINVILLE, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 66):
+EXECUÇÃO FISCAL. SUSPENSÃO DO FEITO EM RAZÃO DE AFETAÇÃO DO TEMA AO RITO DE RECURSOS REPETITIVOS PELO STJ. INVIABILIDADE. AUSÊNCIA DE DETERMINAÇÃO EXPRESSA NO CASO PARADIGMA. FALECIMENTO DO DEVEDOR PREVIAMENTE À CITAÇÃO. REDIRECIONAMENTO DO PROCESSO AO RESPECTIVO ESPÓLIO OU AOS HERDEIROS. IMPOSSIBILIDADE. SÚMULA N. 392 DO STJ. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do apelo especial, o recorrente alega violação dos art. 131, III, do Código Tributário Nacional.
+Sustenta, em síntese, a possibilidade de dar prosseguimento à execução em desfavor do espólio, uma vez que, na data de falecimento do devedor, o crédito já estava constituído, sem a necessidade de substituição do título executivo.
+Esclarece que "inexiste ilegitimidade a ser pronunciada, pois, quando da ocorrência do fato gerador da obrigação tributária e constituição do respectivo crédito, o devedor e, deste modo, sujeito passivo, estava vivo, tanto que a levou a efeito" (fl. 77, e-STJ).
+Requer a suspensão do feito tendo em conta tratar de matéria idêntica a recurso especial com potencial admissão como representativo da controvérsia.
+O recurso especial foi admitido na origem (fls. 86-90, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Preliminarmente, impende consignar que, a despeito do argumento recursal no sentido de que a matéria versada no reclamo foi qualificada como representativo de controvérsia pelo Tribunal de origem em outro recurso especial (ainda não analisado por este Superior Tribunal), não existe fundamento para proceder ao sobrestamento perquirido enquanto a questão não for efetivamente submetida ao rito do art. 1.036 e seguintes do CPC/2015.
+Na mesma linha de cognição (sem destaques no original):
+PROCESSUAL. AGRAVO INTERNO QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITE O RECURSO ESPECIAL. NECESSIDADE DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. TUTELA PROVISÓRIA. TEMA AINDA NÃO AFETADO AO RITO DOS REPETITIVOS. IMPOSSIBILIDADE DE SUSPENSÃO DO RECURSO.
+ ..
+4. No presente caso, a matéria versada no Apelo (legitimidade ativa de servidor autárquico para executar a sentença coletiva 0025519- 49.2002.8.26.0602 proferida pela 6ª Vara Cível de Sorocaba/SP, que condenou o Município de Sorocaba a realizar o enquadramento funcional de agentes públicos municipais) está em trâmite no STJ, qualificada como representativa da controvérsia no REsp 1.811.486/SP. No entanto, ainda não foi efetivamente afetada ao rito dos recursos representativos da controvérsia, não subsistindo fundamento para sobrestar o feito. No mesmo sentido: TutPrv no AREsp 1.448.792/SP, Ministro Mauro Campbell Marques, 25/6/2019; TutPrv no AREsp 1.494.014/SP, Ministro Napoleão Nunes Maia Filho, 21/6/2019.
+ ..
+8. Agravo Interno não provido. (AgInt no AREsp n. 1.458.482/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2019, DJe de 11/10/2019.)
+Compulsando os autos, denota-se que o Tribunal local, em apreciação à apelação interposta pelo Município ora recorrente, manteve a sentença de extinção da execução fiscal, sob o fundamento de que só é possível redirecionar a execução fiscal para o espólio do contribuinte quando já concretizada a citação, situação não atestada no caso em exame.
+A propósito, colacionam-se trechos do acórdão recorrido (e-STJ, fls. 63-65):
+No caso, em consulta ao cadastro do CRCJUD, foi localizado registro de óbito da parte executada, ocorrido em 21-10-2016 (evento 29, INF1). Por ter a executada falecido antes da citação, o magistrado singular julgou extinto o feito, sem resolução de mérito.
+Segundo jurisprudência pacífica, é impossível redirecionar a execução fiscal ao espólio ou aos herdeiros do executado no caso de falecimento deste anteriormente à citação  mesmo que o óbito haja ocorrido após a propositura da execução (Súmula 392 do STJ).
+ ..
+Portanto, a manutenção da sentença de extinção deve ser preservada.
+Com efeito, o posicionamento adotado pelo Tribunal de Justiça de Santa Catarina - no sentido de que o redirecionamento da execução fiscal contra o espólio é cabível quando o falecimento do contribuinte ocorre após a sua citação nos autos do feito executivo - está em harmonia com a orientação jurisprudencial do Superior Tribunal de Justiça, conforme se verifica dos seguintes julgados (sem destaques no original):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. EMBARGOS DE TERCEIRO. ARREMATAÇÃO DE IMÓVEL SEM INTIMAÇÃO DOS COPROPRIETÁRIOS. NULIDADE CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 674, § 2º, I, II E IV, DO CPC E 1.667 E 1.829 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Somente se admite o redirecionamento do executivo fiscal contra o espólio quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal. Precedentes.
+III - O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a nulidade da penhora, em razão da ausência de intimação dos coproprietários sobre a realização do leilão. Rever tal entendimento demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - É incabível a majoração dos honorários advocatícios, a título de honorários recursais, previstos no art. 85, § 11, do CPC/2015, no âmbito de agravo interno, porquanto não ocorre a inauguração de instância recursal. Precedentes.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.163.682/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FALECIMENTO DO CONTRIBUINTE ANTERIOR À CITAÇÃO. REDIRECIONAMENTO AO ESPÓLIO. IMPOSSIBILIDADE. SÚMULA 83/STJ.
+1. Como realçado anteriormente, o Tribunal estadual assim decidiu (fls. 253-257, e-STJ, grifei): "(..) A despeito da extensa argumentação do agravante quanto à possibilidade de estabelecimento de analogia entre esses precedentes e a situação dos autos, assim como no que tange às peculiaridades do IPTU, há, aqui, a circunstância do óbito da parte executada antes da citação, o que, como já registrado na decisão recorrida, determina solução jurídica própria, de acordo com firme orientação tanto do STJ quanto deste Sodalício. (..)".
+2. Com efeito, "somente é possível o redirecionamento da execução fiscal em face do espólio quando o falecimento do contribuinte ocorrer após ele ter sido devidamente citado nos autos da execução, o que não ocorreu no caso dos autos" (REsp 1.832.608/PR, rel. Ministro Og Fernandes, Segunda Turma, DJe 24.9.2019). Precedentes do STJ.
+3. Dissídio pretoriano prejudicado.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.999.140/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, DJe de 30/9/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. EXECUÇÃO FISCAL. REDIRECIONAMENTO PARA O ESPÓLIO. FALECIMENTO DO CONTRIBUINTE ANTES DA CITAÇÃO NO FEITO EXECUTIVO. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O redirecionamento da Execução Fiscal contra o espólio é cabível quando o falecimento do contribuinte ocorre após a sua citação nos autos do feito executivo. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 1.955.336/PB, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+Dessa forma, estando o acórdão recorrido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula n. 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO FISCAL. SUSPENSÃO DO PROCESSO. INVIABILIDADE. REDIRECIONAMENTO PARA O ESPÓLIO. FALECIMENTO DO CONTRIBUINTE ANTES DA CITAÇÃO NO FEITO EXECUTIVO. NÃO CABIMENTO. SÚMULA 83/STJ. RECURSO ESPECIAL DESPROVIDO.
