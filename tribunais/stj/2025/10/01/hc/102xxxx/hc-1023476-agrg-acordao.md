@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. AUTORIA E MATERIALIDADE. JUÍZO CAUTELAR. VEROSSIMILHANÇA DAS ALEGAÇÕES. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA.
+1. Nos termos da jurisprudência das Cortes de Vértice, não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+2. A elevada quantidade de drogas evidencia a gravidade concreta da conduta imputada, de modo a justificar a segregação cautelar para garantia da ordem pública.
+3. A necessidade de minorar ou interromper a atuação do agravante em organização criminosa, ainda que de modo emergencial, demonstra o perigo que sua permanência em liberdade representa para a ordem pública.
+4. As condições pessoais favoráveis do agravante, como primariedade e residência fixa, ainda que presentes, não são suficientes para afastar a prisão preventiva, quando presentes os requisitos legais para sua decretação.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUILHERME ROGERIO GONCALVES PROCOPIO contra a decisão, de minha lavra, assim ementada (fls. 74):
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES NA ESPÉCIE.
+Petição inicial liminarmente indeferida.
+Consta dos autos que o agravante foi preso em flagrante pela suposta prática do crime de tráfico de drogas. É atribuída a ele a posse de 420 g de maconha, 270 g de cocaína, 19,6 g de crack e 8 g de dry, considerada a massa líquida (fl. 11). A prisão foi convertida em preventiva (fls. 9/13).
+Neste recurso, a defesa sustenta que a quantidade de drogas, por si só, não autoriza a decretação ou manutenção da prisão preventiva, salvo se devidamente demonstrada a periculosidade concreta do agente (fl. 82).
+Afirma que o fundamento de que o paciente integraria organização criminosa é mera conjectura (fl. 82).
+Pondera que o art. 1º, § 1º, da Lei n. 12.850/2013 exige a associação de quatro ou mais pessoas para a caracterização de organização criminosa. No presente caso, a narrativa aponta, no máximo, três indivíduos, o que afasta a tipicidade penal da conduta (fl. 83).
+Pede a retratação da decisão agravada ou a submissão do feito ao órgão colegiado (fl. 229).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. AUTORIA E MATERIALIDADE. JUÍZO CAUTELAR. VEROSSIMILHANÇA DAS ALEGAÇÕES. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA.
+1. Nos termos da jurisprudência das Cortes de Vértice, não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+2. A elevada quantidade de drogas evidencia a gravidade concreta da conduta imputada, de modo a justificar a segregação cautelar para garantia da ordem pública.
+3. A necessidade de minorar ou interromper a atuação do agravante em organização criminosa, ainda que de modo emergencial, demonstra o perigo que sua permanência em liberdade representa para a ordem pública.
+4. As condições pessoais favoráveis do agravante, como primariedade e residência fixa, ainda que presentes, não são suficientes para afastar a prisão preventiva, quando presentes os requisitos legais para sua decretação.
+5. Agravo regimental improvido.
+VOTO
+Como já dito na decisão agravada, não cabe, em sede de habeas corpus (e seu respectivo recurso ordinário), proceder ao exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória (STF: Segunda Turma, RHC n. 123.812/DF, relator Ministro Teori Zavascki, DJe 17/10/2014) - (RHC n. 161.173/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/5/2022).
+Vale ressaltar que a insuficiência das provas de autoria e materialidade quanto ao tipo penal não encontra espaço de análise na estreita via do habeas corpus (e seu respectivo recurso ordinário), por demandar exame fático-probatório. Ilustrativamente: AgRg no HC n. 777.911/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/11/2022.
+No caso, o Juízo de primeiro grau, no que foi acompanhado pela Corte local, converteu a prisão em flagrante em preventiva nos seguintes termos (fl. 12 - grifo nosso):
+ ..  a expressiva quantidade de entorpecentes apreendida - totalizando 1.045 porções de drogas diversas - demonstra a dimensão da atividade criminosa e o potencial lesivo à coletividade.
+Não bastasse, presente possível organização criminosa evidenciada com divisão de tarefas entre os acusados: GUILHERME ROGERIO GONCALVES PROCOPIO e VITORIA ISABELLE DOS SANTOS atuavam diretamente na comercialização de drogas, enquanto KELLY ADRIANA BRITO DA SILVA realizava a lavagem dos valores obtidos com o tráfico.
+Igualmente, a sofisticação do esquema de lavagem de dinheiro, com movimentação de R$200.000,00, utilização de máquina contadora de cédulas, controle contábil em caderno específico e realização de depósitos bancários fracionados, demonstra a profissionalização da atividade criminosa.
+No âmbito desta Corte Superior, ambas as Turmas da Terceira Seção compartilham a compreensão de que a elevada quantidade de drogas evidencia a gravidade concreta da conduta imputada, de modo a justificar a segregação cautelar para garantia da ordem pública. A propósito: AgRg no HC n. 884.870/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/4/2024; e AgRg no HC n. 892.877/SE, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/4/2024.
+Não bastasse isso, a necessidade de minorar ou interromper a atuação do agravante em organização criminosa, ainda que de modo emergencial, demonstra o perigo que sua permanência em liberdade representa para a ordem pública (ver, nesse sentido, o AgRg na PET no HC n. 809.193/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+As condições pessoais favoráveis do agravante, como primariedade e residência fixa, ainda que presentes, não são suficientes para afastar a prisão preventiva, quando presentes os requisitos legais para sua decretação.
+Nessa conjuntura, mostra-se indevida a aplicação de medidas cautelares diversas da prisão, pois a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+Ante o exposto, nego provimento ao agravo regimental.
