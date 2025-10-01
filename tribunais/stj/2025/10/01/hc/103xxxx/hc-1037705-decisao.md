@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VITÓRIA DUARTE MARTINS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que a paciente foi presa em flagrante em 19/12/2023, posteriormente convertida a custódia em preventiva, pela suposta prática da conduta descrita no art. 33 da Lei n. 11.343/2006.
+O impetrante sustenta que a segregação processual da paciente não apresenta fundamentação idônea e que não estão presentes os requisitos autorizadores da medida extrema.
+Pontua que a quantidade de droga apreendida não é suficiente para justificar a prisão e que o delito imputado não envolve violência ou grave ameaça.
+Afirma que a paciente é mãe de menor impúbere, única responsável por seu sustento, e é imprescindível aos cuidados de sua genitora, portadora de HIV, com quadro neurológico severo e suspeita de linfoma do sistema nervoso central, fazendo jus à concessão da prisão domiciliar.
+Considera adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP, realçando os predicados pessoais favoráveis da paciente.
+Requer, liminarmente, a revogação da prisão preventiva da paciente ou, subsidiariamente, a aplicação de medidas cautelares diversas ou a substituição por prisão domiciliar. No mérito, pugna pela concessão da ordem para substituir a prisão preventiva por domiciliar.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifica-se que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+A prisão cautelar foi assim fundamentada (fl. 305, grifo próprio):
+O crime em análise tem pena cominada superior a 4 anos. A materialidade restou comprovada pelo auto de apreensão e pelo laudo preliminar. Os indícios de autoria decorrem da prisão em flagrante. A necessidade de custódia cautelar se faz presente, antes a gravidade da conduta em concreto, tratando-se de tráfico interestadual e da grande quantidade de entorpecentes, 10 kilos de cocaína, até inusuais na região. Não há nenhuma segurança de que caso permaneça solta não volte à prática de ilícitos.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos, em transporte interestadual, 10 kg de cocaína.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP -, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024, grifo próprio.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+No que diz respeito ao pedido de substituição da prisão preventiva pela prisão domiciliar, o Tribunal de origem assim dispôs (fl. 24):
+No caso, a paciente afirma ser mãe de "menor impúbere". Todavia, pela certidão de nascimento acostada, seu filho nasceu em 14/09/2009, ou seja, conta com 16 anos, o que afasta a invocação trazida.
+Quanto aos cuidados à mãe enferma, a paciente teria sustentado que passaria duas semanas em Passo Fundo. Da mesma forma, os documentos apresentados são de datas mais antigas, sem que se saiba da sua situação atual.
+Verifica-se que a Corte regional entendeu que não ficou demonstrado que a paciente esteja inserida em alguma das hipóteses previstas no art. 318 do Código de Processo Penal.
+Tais fundamentos não autorizam a conversão da prisão preventiva em domiciliar. Ademais, alterar essa conclusão para comprovar os requisitos do art. 318 do CPP demandaria o reexame fático-probatório, o que é vedado em habeas corpus.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
