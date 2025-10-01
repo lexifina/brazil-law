@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CAPITAL SECURITIES INVESTIMENTOS S.A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ e 284 do STF, bem como nego u-lhe seguimento em razão do Tema n. 988 do STJ (taxatividade mitigada do agravo de instrumento).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de embargos à execução.
+O julgado foi assim ementado (fl. 312):
+AGRAVO DE INSTRUMENTO. Interposição contra decisão que deferiu a prova documental suplementar e pericial e rejeitou a impugnação à justiça gratuita. Faculdade do juízo de deferir as provas necessárias para formação de seu convencimento. Deferimento da justiça gratuita. Matéria irrecorrível por meio de agravo de instrumento, pois não inserida nas hipóteses constantes do artigo 1.015 do Código de Processo Civil. De qualquer forma, a agravante pretende inverter o ônus da prova, o que não se admite, uma vez que caberia a ela demonstrar que a parte adversa não seria merecedora dos benefícios da justiça gratuita. Decisão agravada mantida. Agravo de Instrumento não provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de div ergência jurisprudencial, violação dos seguintes artigos:
+a) 355, I, do CPC, pois sustenta que o processo já se encontra suficientemente instruído, sendo desnecessária a produção de provas adicionais, o que compromete a celeridade processual e implica custos desnecessários às partes;
+b) 1.015 do CPC, visto que argumenta que do agravo de instrumento interposto contra a decisão que deferiu a justiça gratuita deveria se conhecer, considerando a urgência da matéria e a possibilidade de lesão grave e de difícil reparação; e
+c) 335, I, do CPC.
+Suste nta que o Tribunal de origem, ao decidir que o agravo de instrumento não seria cabível para impugnar a concessão de justiça gratuita, divergiu do entendimento consolidado no Tema n. 988 do STJ, que admite a taxatividade mitigada do rol do art. 1.015 do CPC.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, determinando-se o julgamento antecipado dos embargos à execução e a revogação da concessão da justiça gratuita à parte recorrida.
+Contrarrazões foram apresentadas.
+É o relatório. Decido.
+A controvérsia diz respeito ao agravo de instrumento interposto contra decisão que deferiu a produção de prova documental suplementar e pericial, assim como rejeitou a impugnação à justiça gratuita.
+A Corte estadual manteve a decisão agravada, entendendo que o juiz possui a faculdade de determinar a produção de provas necessárias à formação de seu convencimento e que a concessão de justiça gratuita não seria passível de impugnação por agravo de instrumento, nos termos do art. 1.015 do CPC.
+Inicialmente, em relação à parte do recurso que teve seguimento negado (taxatividade mitigada do agravo de instrumento), considerando as disposições do art. 1.030, I, b, c/c o § 2º, do CPC, é importante esclarecer que o conhecimento do apelo extremo pelo STJ fica restrito à análise da matéria inadmitida pelo Tribunal de origem.
+Em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+I - Art. 355, I, do CPC
+No recurso especial, o recorrente afirma que o processo já se encontra suficientemente instruído, sendo desnecessária a produção de provas adicionais, o que compromete a celeridade processual e implica custos desnecessários às partes.
+O Tribunal de origem concluiu que a produção de provas suplementares era necessária para a formação do convencimento do magistrado, considerando os argumentos apresentados pela parte embargante.
+Confira-se trecho do acórdão recorrido (fls. 313-314, destaquei):
+Ao Juiz é facultado determinar a produção da prova documental ou pericial, caso entenda que tal prova se faz necessária à formação de seu convencimento e à solução da lide.
+Diante do pedido da agravada, entendeu por bem o Magistrado a quo deferir a prova documental suplementar e a prova pericial, diante dos argumentos desenvolvidos pela parte embargante.
+O artigo 370, caput, do Código de Processo Civil impõe ao juiz (..) de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito.
+Absolutamente legítimo, portanto, o deferimento da prova pelo juízo a quo, tendo em vista ter considerado imperiosa sua produção para formação de seu convencimento.
+Registre-se que, apesar do deferimento da prova documental suplementar, a decisão agravada não determinou, expressamente, à agravante, a apresentação de qualquer documentação complementar, limitando-se ao deferimento da prova documental suplementar e pericial, e nomeou perito judicial (fls. 59/60). Certamente a apresentação e pertinência de tais documentos serão apuradas pelo perito judicial ou em decisão posterior do Magistrado.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente em atenção ao princípio da persuasão racional.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. As conclusões adotadas pelo órgão julgador no sentido de que compete ao juiz decidir sobre a produção de provas necessárias ou indeferir aquelas que tenha como inúteis ou protelatórias, não implicando em cerceamento de defesa o indeferimento da dilação probatória, estão em consonância com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83 do STJ.
+1.1. O Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade da produção da prova testemunhal. O acolhimento da pretensão recursal, no ponto, demandaria revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+2. Consoante a jurisprudência desta Corte Superior, "a cláusula que estipula reserva de poderes inserida em substabelecimento aponta para a circunstância de que os honorários advocatícios são devidos, em regra, ao substabelecente, nos termos do art. 26 da Lei nº 8.906/1994. Qualquer insurgência do substabelecido, em virtude de sua atuação profissional, deve ser solucionada na via própria, diante da natureza pessoal da relação jurídica entre ambos" (REsp n. 1.214.790/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2015, DJe de 23/4/2015.).
+3. A revisão do aresto impugnado para afastar a aplicação de multa por litigância de má-fé exigiria derruir a convicção formada nas instâncias ordinárias sobre a conduta temerária da ora insurgente. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.089.543/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. NEGATIVA DE PRESTAÇÃO JURISIDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. MEDICAMENTO ANTINEOPLÁSICO. TRATAMENTO DE DOENÇA ONCOLÓGICA COBERTA PELO CONTRATO. RECUSA INDEVIDA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022 do CPC/2015.
+2. O princípio da persuasão racional ou da livre convicção motivada do juiz consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+3. Rever a conclusão do Tribunal de origem - acerca da necessidade da prova requerida - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula desta Corte Superior.
+4. Consoante entendimento desta Corte Superior, "a natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa".
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa dos arts. 1.021, § 4º e 1.026, § 2º, do CPC, devendo ser analisado caso a caso.
+6. Agravo interno desprovido. (AgInt no REsp n. 2.148.364/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024.)
+É caso, pois, de aplicação da Súmula n. 83 do STJ.
+Logo, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ acerca do convencimento do magistrado e da suficiência das provas produzidas nos autos, o conhecimento do recurso especial implicaria o reexame de questões fático-probatórias, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte. A propósito: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+II - Art. 335, I, do CPC
+A alegada violação do art. 335, I, do CPC não enseja o êxito do recurso especial, pois a parte recorrente, limitando-se a indicar, de modo genérico, afronta ao sobredito dispositivo legal e não expôs as razões pelas quais o acórdão impugnado o violara.
+Desse modo, ante a impossibilidade de compreender a questão infraconstitucional arguida, aplica-se, ao caso, o disposto na Súmula n. 284 do STF.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
