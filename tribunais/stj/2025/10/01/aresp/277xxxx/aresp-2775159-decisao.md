@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANTÔNIO MORENO NETO contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fl. 166):
+PROCESSO CIVIL - AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DISSOLUÇÃO IRREGULAR - PRESCRIÇÃO INTERCORRENTE: INOCORRÊNCIA.
+1- A teor dos artigos 204, do Código Tributário Nacional, e 3º, da Lei Federal nº 6.830/80, a certidão de dívida ativa tributária goza de presunção de liquidez e certeza. tal presunção é relativa e pode ser ilidida através de exceção de pré-executividade, conforme sedimentado via Súmula nº 393 do Superior Tribunal de Justiça, verbis: "393. A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2- De toda sorte e nos termos da orientação do Órgão Especial desta C. Corte Regional, cumpre verificar, em cada caso concreto, a viabilidade do redirecionamento da execução fiscal, à luz das provas existentes.
+3- Ingressando na análise, anoto que a executada originária possui diversas execuções pendentes, nas quais foi reconhecida a dissolução irregular da empresa e realizada a inclusão do sócio no polo passivo. O contexto probatório robusto permite a verificação, em concreto, da legitimidade processual, de forma que é de rigor a manutenção da r. decisão agravada nesse ponto.
+4- No que diz respeito à prescrição intercorrente para o redirecionamento, assim foi firmado o entendimento vinculante da Corte Superior. Inexistente inércia pela União, não ocorreu a prescrição.
+5- Agravo de instrumento desprovido.
+Houve oposição de embargos declaratórios, os quais foram rejeitados, em ementa assim sumariada (fl. 210):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CARÁTER INFRINGENTE. PREQUESTIONAMENTO. EMBARGOS REJEITADOS.
+1-Nos termos do artigo 1.022, incisos I ao III, do Código de Processo Civil de 2015, cabem embargos de declaração para sanar obscuridade ou contradição, omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento, bem como quando existir erro material.
+2-Nítido caráter infringente do recurso, buscando a substituição da decisão por outra que atenda à interpretação conveniente ao recorrente, o que não se pode admitir.
+3-Os embargos declaratórios opostos com objetivo de prequestionamento não podem ser acolhidos se ausente omissão, contradição ou obscuridade no julgado embargado.
+4-Embargos rejeitados.
+Em seu recurso especial de fls. 214-230, a parte recorrente alega violação aos artigos 489, § 1º, III, 1.022 e 1.025, ambos do Código de Processo Civil (CPC), sob o argumento de que, embora opostos embargos de declaração, o acórdão recorrido não apresentou uma fundamentação legítima e atinente ao caso concreto, permanecendo omisso quanto aos questionamentos da parte.
+Além disso, a parte recorrente suscita ofensa ao artigo 135, III, do Código Tributário Nacional (CTN), com a alegação de que a sua inclusão no polo passivo da execução fiscal se baseou em "premissas hipotéticas sem efetiva demonstração de nexo causal", defendendo que o redirecionamento deveria ser feito apenas para o sócio presente na época da dissolução irregular da empresa.
+Ademais, aduz a ocorrência de prescrição intercorrente no caso, sem, porém, indicar eventual dispositivo legal malferido nesse ponto.
+O Tribunal de origem, às fls. 240-245, não admitiu o recurso especial sob os seguintes fundamentos:
+Inicialmente, o Superior Tribunal de Justiça pacificou sua jurisprudência no sentido de que não se pode conhecer a apontada violação ao artigo 1.022 do CPC, quando o recurso se cinge a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, por analogia.
+(..)
+In casu, o recurso especial não aponta quais teriam sido os argumentos relevantes e pertinentes que não foram apreciados pela Turma julgadora ao analisar os embargos de declaração.
+De outra parte, inexiste ofensa ao art. 489, § 1º, III, do CPC, encontrando-se o acórdão suficientemente fundamentado quanto à legitimidade do recorrente. Destaca-se, por oportuno, que motivação contrária ao interesse da parte não significa ausência de fundamentação.
+A questão já se encontra decidida pelo E. Superior Tribunal de Justiça: AgInt no AREsp n.º 2.159.188/DF, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022 - AgInt no AREsp n.º 2.099.855/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.
+Além do mais, a alteração do julgamento, como pretende a parte recorrente, demanda revolvimento do conjunto fático-probatórios dos autos, situação vedada pela Súmula 7 do C. STJ (a pretensão de simples reexame de prova não enseja recurso especial). (..)
+No que diz respeito à prescrição intercorrente, a leitura do recurso demonstra que não há indicação específica do dispositivo legal que teria sido violado pelo acórdão recorrido.
+O recurso especial tem fundamentação vinculada, de modo que não basta que a parte indique o seu direito sem veicular ofensa a algum dispositivo específico de lei infraconstitucional. No caso, a parte recorrente limitou-se a defender sua tese como se fosse mero recurso ordinário.
+A análise dos autos revela que a Recorrente, apesar de desenvolver teses que entende amparar sua pretensão e mencionar dispositivos legais, não cuidou de indicar, de forma expressa, clara e específica, quais e de que forma os dispositivos de lei federal teriam sido violados no aresto, tendo se limitado, em verdade, a externar o seu inconformismo com o acórdão recorrido, em desatenção ao disposto no art. 1.029 do CPC, do que decorre a deficiência de sua fundamentação.
+(..)
+Ante o exposto, não admito o recurso especial.
+Em seu agravo, às fls. 247-265, a parte agravante aduz que a matéria não demanda reexame de provas, mas sim a análise de questões jurídicas, e que o acórdão recorrido não está em sintonia com a jurisprudência do STJ.
+Por fim, reitera a sua argumentação acerca da ofensa aos dispositivos de lei federal já menciona dos em seu recurso especial, bem como da prescrição intercorrente.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não contestou especificamente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se na: a) Súmula nº 284/STF, ao consignar que não se pode acolher alegações de violação ao artigo 1.022 do CPC quando elas são genéricas e não demonstram de forma clara o ponto omisso, contraditório ou obscuro do acórdão recorrido; b) Súmula nº 7/STJ, uma vez que a alteração do julgamento, conforme pretendido pela parte recorrente, exigiria o reexame do conjunto fático-probatório dos autos; e c) deficiência de fundamentação em relação à alegação de prescrição intercorrente, apontando que o recurso não indicou o dispositivo legal específico que teria sido violado pelo acórdão.
+Todavia, no seu agravo, a parte agravante não refutou suficientemente os referidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do STJ , não conheço do agravo em rec urso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
