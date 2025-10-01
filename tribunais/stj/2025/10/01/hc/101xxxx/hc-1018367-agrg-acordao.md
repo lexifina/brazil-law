@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. AUSÊNCIA DE VAGA EM ESTABELECIMENTO PRISIONAL COMPATÍVEL. CONTROVÉRSIA ACERCA DA APLICAÇÃO DA SÚMULA VINCULANTE N. 56. CONCESSÃO DO REGIME SEMIABERTO HARMONIZADO DEVIDAMENTE JUSTIFICADA. ABSOLUTA AUSÊNCIA DE VAGAS EM ESTABELECIMENTO COMPATÍVEL. DECISÃO AGRAVADA MANTIDA. PARECER ACOLHIDO.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público do Rio Grande do Sul contra a decisão monocrática, de minha lavra, assim ementada (fl. 159):
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. AUSÊNCIA DE VAGA EM ESTABELECIMENTO COMPATÍVEL. DECISÃO DO JUÍZO DA EXECUÇÃO QUE DETERMINOU PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. CASSAÇÃO PELO TRIBUNAL DE ORIGEM. CONSTRANGIMENTO ILEGAL CONFIGURADO. SÚMULA VINCULANTE 56 DO STF. PRECEDENTES DO STJ. PARECER ACOLHIDO.
+Ordem concedida.
+Alega o agravante que, no caso dos autos, não se observa que a realidade vivenciada pelo apenado recomende sua colocação em prisão domiciliar com monitoramento eletrônico (fl. 174).
+Sustenta que, observando-se o conteúdo decisório ora agravado, verifica-se ter sido a prisão domiciliar a primeira alternativa buscada pelo Poder Judiciário gaúcho, especialmente considerando a crise carcerária enfrentada no Estado. Ao assim proceder, desvinculou-se dos parâmetros definidos pelo Supremo Tribunal Federal no RE 641.320-RS, ocasião em que ampliada a aplicação da prisão domiciliar (artigo 117 da Lei de Execuções Penais também aos apenados do regime semiaberto, com fundamento na deficiência de vagas (fls. 175/176).
+Pugna, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. AUSÊNCIA DE VAGA EM ESTABELECIMENTO PRISIONAL COMPATÍVEL. CONTROVÉRSIA ACERCA DA APLICAÇÃO DA SÚMULA VINCULANTE N. 56. CONCESSÃO DO REGIME SEMIABERTO HARMONIZADO DEVIDAMENTE JUSTIFICADA. ABSOLUTA AUSÊNCIA DE VAGAS EM ESTABELECIMENTO COMPATÍVEL. DECISÃO AGRAVADA MANTIDA. PARECER ACOLHIDO.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+Em resposta ao pedido de informações, o Juízo da execução noticiou que foi deferida ao apenado a progressão de regime ao semiaberto, harmonizado com monitoramento eletrônico, visto o descumprimento pela SUSEPE das decisões de progressão de regime em razão de falta de vagas em estabelecimentos prisionais compatíveis com o regime intermediário (fl. 131):
+ ..
+Na data de 07/11/2024 (seq. 187), foi deferida ao apenado a progressão de regime ao semiaberto, harmonizado com monitoramento eletrônico, visto o descumprimento pela SUSEPE das decisões de progressão de regime em razão de falta de vagas em estabelecimentos prisionais compatíveis com o regime intermediário, em decisão com o seguinte teor:
+ ..  Se não há vagas suficientes no regime semiaberto para o cumprimento da pena , o Judiciário não pode permanecer inerte. Além de cobrar do Executivo o cumprimento da lei, o magistrado deve ajustar a execução da pena ao espaço e vagas disponíveis.
+Com efeito, nos termos do art. 66, compete ao juiz da execução zelar pelo correto cumprimento da pena e da medida de segurança (inc. VI) e inspecionar, mensalmente, os estabelecimentos penais, tomando providências para o adequado funcionamento e promovendo, quando for o caso, a apuração de responsabilidade ( inc. VII).
+A propósito, o Supremo Tribunal Federal já decidiu em sede de Recurso Extraordinário (RE n. 641.320) que, na inexistência de casas prisionais compatíveis com o regime de execução da pena, especialmente dos regimes semiaberto e aberto, é cabível o cumprimento em regime menos gravoso.
+ ..
+O Tribunal local, por sua vez, cassou a referida decisão consignando que não observados os parâmetros fixados no RE n. 641.320/RS quando do deferimento da prisão domiciliar, nem justificada a sua impossibilidade, deve ser cassada a decisão no ponto (fl. 13).
+Ocorre que não há como admitir que o agravado seja mantido em regime mais rigoroso em face da deficiência do Estado em proporcionar vaga em estabelecimento adequado, além de que não há óbices à concessão de prisão domiciliar com monitoração eletrônica ao sentenciado em regime semiaberto, quando não há vagas no regime específico ou quando não há estabelecimento prisional adequado ou similar na localidade em que cumpre pena (REsp n. 1.710.674/MG, Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 3/9/2018).
+Reforço. ainda, que o cenário fático retratado pelo Juízo da execução é de absoluta ausência de vagas em estabelecimento destinado ao cumprimento da pena em regime semiaberto, de modo que se afigura devidamente justificada a concessão da benesse, inclusive porque inexiste evidência no sentido da possibilidade de adoção, no caso, de quaisquer das providências anteriores previstas na Súmula Vinculante n. 56.
+Assim, estou de pleno acordo com a manifestação do Subprocurador-Geral da República MARIO FERREIRA LEITE (fls. 153/156):
+ ..
+Como sabido, é dever do Estado assegurar o cumprimento da sanção imposta em estabelecimento prisional adequado ao regime fixado, sob pena de se configurar excesso de execução. Dessa forma, caso não exista vaga no estabelecimento prisional adequado, seja em virtude da superlotação ou da precariedade da situação prisional, deve-se conceder o cumprimento da pena em regime menos gravoso ou até mesmo a prisão domiciliar, em caráter excepcional, até que seja resolvida a pendência.
+Permitir que o apenado seja mantido em regime mais rigoroso, mesmo que por pouco tempo, em razão da inércia do Estado em disponibilizar vagas ou até mesmo estabelecimento adequado ao cumprimento da pena, ofenderia, sem dúvida alguma, o princípio da dignidade da pessoa humana, previsto no art. 1º, III, da CRFB/88.
+A própria Convenção Americana de Direitos Humanos (Pacto de San José da Costa Rica), promulgada pelo Brasil por meio do Decreto 678, de 06 de novembro de 1992, em seu art. 7º (2 e 3), prevê que toda pessoa privada de liberdade deve ser tratada com o respeito devido à dignidade inerente ao ser humano, e que ninguém poderá ser privado de sua liberdade, salvo nas condições previstas pela Constituição ou pela Lei, assim como abomina a detenção arbitrária.
+Diante da situação de falência em que se encontra o sistema prisional brasileiro, a fim de assegurar o mínimo exigido pelas normas em vigor para o respeito à dignidade daqueles que se encontram submetidos ao cumprimento de pena nessas edificações, foi reconhecida a repercussão geral nos autos do RE n. 641.320/RS, de relatoria do Ministro Gilmar Mendes, ocasião em que a Suprema Corte reforçou a impossibilidade de manter o condenado em regime mais gravoso pela inexistência de vagas em estabelecimento adequado, rechaçando "peremptoriamente qualquer possibilidade de ponderar os direitos dos condenados à individualização da pena e à execução da pena de acordo com a lei, com interesses da sociedade na manutenção da segurança pública", vez que "por mais grave que seja o crime, a condenação não retira a humanidade da pessoa condenada".
+Daí, editou-se a Súmula Vinculante n.º 56, dispondo que, in verbis: "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nesta hipótese, os parâmetros fixados no Recurso Extraordinário (RE) 641320".
+In casu, o juízo sentenciante deferiu ao apenado a execução em domicílio da pena, considerando a ausência de vagas no regime intermediário.
+O Tribunal a quo ao prover o recurso acusatório e cassar a decisão proferida pelo Magistrado de origem, assim se manifestou (fls. 13/15):
+ ..
+A argumentação exposta pelo acórdão impugnado se mostra inócua para justificar a preterição do direito do apenado ao regime que lhe fora determinado, não sendo lícito ao Estado exigir que o sentenciado suporte uma situação mais gravosa em razão da sua ineficiência.
+ ..
+Sobre o tema, é pacífico nesse Superior Tribunal de Justiça que se deve conceder ao apenado, em caráter excepcional, o cumprimento da pena em regime aberto ou, na falta de vaga em casa de albergado, em regime domiciliar, até o surgimento de vaga no regime adequado.
+Assim, diante da inexistência de estabelecimento compatível com o cumprimento da pena no regime prisional adequado (semiaberto), deve o paciente aguardar no regime aberto e, na falta de casa de albergado ou similar, deve-se conceder a prisão domiciliar.
+Ante o exposto, o Ministério Público Federal, como custos iuris, postula o não conhecimento do writ e a concessão da ordem, de ofício, para que seja deferida a prisão domiciliar com monitoramento eletrônico.
+Nesse sentido, destaco os seguintes precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL. EXECUÇÃO PENAL. REGIME SEMIABERTO. AUSÊNCIA DE VAGAS EM ESTABELECIMENTO ADEQUADO. PRISÃO DOMICILIAR CONCEDIDA. DESPROVIMENTO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado do Ceará contra decisão que negou provimento ao recurso especial, mantendo a concessão de prisão domiciliar ao apenado em regime semiaberto, com monitoramento eletrônico, devido à ausência de vagas em estabelecimento prisional adequado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a concessão de prisão domiciliar ao apenado em regime semiaberto, devido à falta de vagas em estabelecimento prisional adequado, viola a Súmula Vinculante 56 do STF e o artigo 117 da Lei de Execução Penal.
+III. Razões de decidir
+3. A decisão concessiva de prisão domiciliar está fundamentada nos critérios definidos pelo Supremo Tribunal Federal, que permitem a flexibilização do regime prisional em caso de déficit de vagas, conforme a Súmula Vinculante 56.
+4. A jurisprudência do STF e do STJ autoriza a concessão de prisão domiciliar monitorada quando não há vagas em estabelecimento adequado ao regime semiaberto, sendo mais favorável ao apenado.
+5. Não há prova nos autos de preterição de outros presos que estariam mais próximos de receber a progressão para o regime aberto, cabendo ao agravante o ônus da prova.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Teses de julgamento: "1. A concessão de prisão domiciliar monitorada é permitida em caso de déficit de vagas em estabelecimento prisional adequado ao regime semiaberto, conforme a Súmula Vinculante 56 do STF. 2. O ônus da prova de preterição de outros presos na progressão de regime cabe ao agravante."
+Dispositivos relevantes citados: LEP, art. 117; CNJ, Resolução nº 412, art. 3º; LEP, arts. 146-B, 146-C e 146-D. Jurisprudência relevante citada: STF, RE 641.320, Rel. Min. Gilmar Mendes, julgado em 11.05.2016; STJ, AgRg no HC 817.805/MT, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 31.08.2023; STJ, REsp 1.710.674/MG, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 22.08.2018.
+(AgRg no REsp n. 2.194.223/CE, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. INEXISTÊNCIA DE VAGA EM ESTABELECIMENTO ADEQUADO. APENADO CUMPRINDO PENA EM REGIME MAIS RIGOROSO. VIOLAÇÃO DA SÚMULA VINCULANTE N. 56/STF. PARÂMETROS DO RE 641.320/RS ATENDIDOS PELO JUÍZO DAS EXECUÇÕES PENAIS. PRISÃO DOMICILIAR. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inexistindo vagas em estabelecimento prisional adequado ao regime imposto, deve ser deferido ao apenado, excepcionalmente, o cumprimento da pena em regime menos gravoso - aberto -, ou, ainda, REsp 1840609 Superior Tribunal de Justiça persistindo a falta de vaga, deve lhe ser concedida prisão domiciliar, até o surgimento de vagas no regime prisional apropriado. Precedentes.
+2. De acordo com o decidido pela Corte Suprema ao julgar o RE 641.320/RS, para que, em casos de ausência de vagas no regime prisional determinado para o cumprimento da pena, se defira o benefício da prisão domiciliar, é necessário que se adote, previamente, as seguintes medidas: (I) saída antecipada de outro sentenciado no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de progredir; (II) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; e (III) cumprimento de penas restritivas de direitos e/ou estudo aos sentenciados em regime aberto.
+3. No caso dos autos, considerando que a própria decisão do Juízo das Execuções já trouxe à baila o entendimento exarado pela Suprema Corte no RE 641.320/RS, conforme transcrição anterior, reputa-se devidamente fundamentada a alternativa imposta da prisão domiciliar com monitoramento eletrônico ao executado, diante da concreta ausência de vagas no regime intermediário do sistema prisional gaúcho.
+4. Agravo regimental improvido.
+(AgRg no HC n. 520.482/RS, Ministro Nefi Cordeiro, Sexta Turma, D Je 22/11/2019 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
