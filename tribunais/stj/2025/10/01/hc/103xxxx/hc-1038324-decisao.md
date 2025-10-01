@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ALAFER DE ANDRADE BENOS, condenado por tráfico de drogas (art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006) à pena de 5 anos e 10 meses de reclusão, além de 583 dias-multa, com fixação do regime inicial fechado (Processo n. 1500754-03.2025.8.26.0385, da 1ª Vara Criminal da comarca de Jacupiranga) - (fls. 13/22).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 7/8/2025, indeferiu a liminar no HC 2248352-97.2025.8.26.0000 (fls. 9/11).
+Sustenta constrangimento ilegal na fixação do regime inicial fechado, por ausência de fundamentação concreta e individualizada, afirmando que a imposição do regime mais gravoso apoiou-se apenas no quantum da pena e na quantidade de droga apreendida, em descompasso com o art. 33, § 2º, b, do Código Penal (fls. 4/6).
+Menciona que a primariedade do paciente e a inexistência de outras circunstâncias judiciais desfavoráveis, além da quantidade de droga já considerada na dosimetria, impedem a fixação do regime fechado sem elementos adicionais, sob pena de bis in idem (fls. 4/6).
+Aduz que a via do habeas corpus é adequada para sanar ilegalidade manifesta na individualização do regime prisional, por se tratar de questão estritamente jurídica, que não demanda dilação probatória, bastando o confronto da sentença e do ato coator com a legislação e a jurisprudência sobre a necessidade de fundamentação concreta para regime mais severo (fls. 5/6).
+Sustenta que, à luz do enunciado da Súmula 440/STJ, é vedado estabelecer regime mais gravoso com base apenas na gravidade abstrata do delito e na quantidade de droga, sem outras circunstâncias individualizadas (fl. 5).
+Requer, em caráter liminar, a imediata alteração do regime inicial do paciente do fechado para o semiaberto, até o julgamento definitivo (fls. 7/8). No mérito, pede a concessão da ordem para reconhecimento do constrangimento ilegal e fixação do regime inicial semiaberto, com expedição de alvará de soltura, se por outro motivo não estiver preso (fls. 7/8).
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração de mandamus contra decisão indeferitória de providência liminar prolatada em feito da mesma natureza.
+Na espécie, não percebo a existência de nenhuma excepcionalidade a justificar a superação desse entendimento. Ao menos em uma análise preliminar - a teor dos elementos de convicção coligidos ao autos -, o decisum atacada não pode ser apontado como teratológico.
+Basta uma rápida leitura da decisão proferida pelo Desembargador Relator do prévio writ para constatar que as alegações do ora impetrante foram devidamente rebatidas, dentro do limite de cognição que aquela fase processual autoriza. Constatou a ausência dos pressupostos autorizadores da medida liminar requerida, destacando que o regime prisional mais gravoso estaria justificado ante o quantum da pena e da quantidade de drogas apreendidas (aproximadamente 200,13kg de "maconha"), circunstância judicial negativa devidamente reconhecida (fls. 191/200 dos autos principais) - fl. 10.
+Não tem cabimento, portanto, a prematura análise da temática suscitada aqui, antes da análise do mérito do habeas corpus pelo Tribunal a quo.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS CONTRA O INDEFERIMENTO DE PEDIDO LIMINAR EM PRÉVIO MANDAMUS. INCIDÊNCIA DA SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. TRÁFICO DE DROGAS. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. AUSENTE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
