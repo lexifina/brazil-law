@@ -1,0 +1,15 @@
+DECISÃO
+FABIO ALVES FONSECA, acusado por homicídio qualificado consumado e tentado, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+O caso comporta julgamento antecipado, pois se amolda à pacífica orientação desta Corte em situações análogas, a qual é desfavorável à pretensão defensiva.
+Conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+No caso, depreende-se da decisão constritiva (fls. 23-26) a indicação da gravidade concreta dos crimes supostamente praticados pelo insurgente, a qual se revela indiscutível e resta evidenciada pelo modus operandi empregado na sua execução, nestes termos (fl. 25):
+ ..
+Apesar disso, consta dos autos do inquérito que o crime - duplo homicídio, triplamente qualificado - foi cometido de forma extremamente violenta, a sangue frio. Isso porque o acusado, cansado dos furtos que ocorriam na região e, por não aguentar mais a presença das vítimas em frente à sua residência, resolveu acabar com a vida destas, que eram pessoas em situação de rua e estavam dormindo em barracas. Segundo consta na denúncia, "o denunciado conversa com as vítimas, que clamam por piedade, antes de executá-las", fl. 02.
+O fato de o denunciado não responder por outros delitos, por si só, não justifica a não segregação cautelar, conforme o seguinte entendimento:
+"A forma de execução de delito gravíssimo, revelando, em princípio, periculosidade, serve de fundamento para a prisão ad cautelam, ainda que o agente seja primário, de bons antecedentes, afora outras qualificações normalmente elogiáveis." (S. T. J. 5ª T. - HC n. 8.025/PI - Rel. Min. Felix Fischer - DJU 14/12/98, pág. 262)
+Diante desses elementos e, tratando-se de crime cometido com violência concreta, não resta dúvida que a liberdade do réu coloca em risco toda a sociedade e demonstra a necessidade de se garantir a aplicação da lei penal, sendo certo que as medidas cautelares diversas da prisão, neste momento, não se mostram adequadas.
+No particular, é pacífica a orientação deste Superior Tribunal de que "a gravidade concreta do delito, à luz de seu modus operandi, evidencia a periculosidade do suspeito e o interesse cautelar de evitar a reiteração delitiva" (HC n. 615.256/PR, relator Ministro Rogerio Schietti, DJe 29/3/2021).
+À vista do exposto, com fundamento no art. 34, XX, c/c art. 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se
+EMENTA
