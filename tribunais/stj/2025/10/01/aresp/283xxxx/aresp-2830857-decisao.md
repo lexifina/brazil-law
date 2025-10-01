@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BENSAÚDE PLANO DE ASSISTÊNCIA MÉDICA HOSPITALAR LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de declaratória de inexistência de débito c/c obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais, ajuizada por PATRICIA APARECIDA DA SILVA RAMOS, em face da agravante, em razão de cobrança indevida de serviços prestados na modalidade "home care" (e-STJ fls. 01-21).
+Acórdão: negou provimento à apelação interposta pela parte agravante; deu parcial provimento à apelação adesiva interposta pela parte agravada, para fixar os honorários advocatícios de sucumbência em favor do causídico que a representa de forma equitativa, em R$ 1.000,00 (mil reais), já considerada a verba recursal.
+Nesse sentir, é a ementa dos julgados:
+APELAÇÃO CÍVEL E RECURSO ADESIVO - RECURSO VOLUNTÁRIO DA REQUERIDA - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS - ATENDIMENTO HOME CARE REALIZADO POR DETERMINAÇÃO LIMINAR - REVOGAÇÃO POSTERIOR DA LIMINAR - IMPOSSIBILIDADE DE COBRANÇA DO FATOR DE COPARTICIPAÇÃO - BOA FÉ DO BENEFICIÁRIO - SENTENÇA MANTIDA - RECURSO ADESIVO DA AUTORA - DANO MORAL NÃO CONFIGURADO - COBRANÇAS INDEVIDAS - MERO ABORRECIMENTO - HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA - EQUIDADE - RECURSO VOLUNTÁRIO DESPROVIDO - RECURSO ADESIVO PARCIALMENTE PROVIDO.
+Descabe falar em cobrança do fato participativo no período em que os serviços foram prestados por força de decisão judicial posteriormente revogada, quando constatada a boa-fé da beneficiária no ajuizamento da demanda.
+Nos termos do posicionamento do STJ, a negativa de tratamento por parte do plano de saúde ou mesmo a cobrança de valores baseada em interpretação equivocada do contrato não gera abalo extrapatrimonail (sic), cabendo à parte comprovar a ocorrência de fato extraordinário causador de profundo abalo psicológico. Assim, a cobrança de coparticipação baseada em entendimento equivocado, não gera abalo moral.
+De acordo com o posicionamento da Corte Especial, a fixação dos honorários advocatícios deve respeitar a ordem prevista no §2º, do artigo 85, do CPC. Sendo o valor da condenação irrisório, a verba deve ser fixada de forma equitativa, nos termos do §8º, do art. 85, do CPC. (e-STJ fl. 253)
+Embargos de declaração: opostos pela parte agravante, foram rejeitados (e-STJ fls. 283-292).
+Decisão de admissibilidade do TJ/MS: inadmitiu o recurso especial em razão da incidência da Súmula 83/STJ (e-STJ fls. 328-338).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que "(..) o dispositivo legal invocado foi a negativa de vigência do disposto no artigo 302, inciso I, do CPC, e não os artigos analisados na decisão ora combatida." (e-STJ fl. 343).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 83/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Juízo de segundo grau de jurisdição . Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.000,00 (mil reais) - e-STJ fl. 265 - para R$ 1.200,00 (mil e duzentos reais), observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
