@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. ART. 112, § 3º, DA LEP. APENADA QUE NÃO SE ENQUADRA NA HIPÓTESE DE PROGRESSÃO ESPECIAL DE REGIME. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, no qual se pleiteava a retificação do cálculo das penas para aplicação do art. 112, § 3º, da LEP à apenada, que tem pai de 84 anos. Não houve pedido de prisão domiciliar para assistência ao idoso.
+2. A apenada não se enquadra na hipótese legal de progressão especial de regime após resgate de 1/8 da pena, uma vez que não comprovou ao Juiz da VEC ser mulher gestante, mãe ou responsável por crianças ou pessoas com deficiência.
+3. Agravo regimental não provido.
+RELATÓRIO
+ANA PAULA ZAMAI agrava da decisão de fls. 54-56, denegatória deste habeas corpus.
+A defesa reitera ao colegiado o pedido de retificação de cálculo das penas, pois considerada possível a aplicação do art. 112, § 3º, da LEP e de fração especial de 1/8 para a progressão especial de regime, à reeducanda, que é imprescindível aos cuidados do pai, o qual é enfermo.
+Aduz que "o pai da agravante é um senhor de 84 anos de idade, viúvo e atualmente acometido por diversas comorbidades graves, devidamente comprovadas pelos documentos" (fl. 63). O idoso, desde a prisão da apenada, passou a viver sozinho e sofreu uma queda, fato atestado por fisioterapeuta. Ademais, o irmão da sentenciada não pode cuidar do pai e "todos  ..  os documentos  ..  foram apresentados tanto em primeiro quanto em segundo grau" (fl. 66).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. ART. 112, § 3º, DA LEP. APENADA QUE NÃO SE ENQUADRA NA HIPÓTESE DE PROGRESSÃO ESPECIAL DE REGIME. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão que denegou habeas corpus, no qual se pleiteava a retificação do cálculo das penas para aplicação do art. 112, § 3º, da LEP à apenada, que tem pai de 84 anos. Não houve pedido de prisão domiciliar para assistência ao idoso.
+2. A apenada não se enquadra na hipótese legal de progressão especial de regime após resgate de 1/8 da pena, uma vez que não comprovou ao Juiz da VEC ser mulher gestante, mãe ou responsável por crianças ou pessoas com deficiência.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+A paciente iniciou o cumprimento da pena em 25/10/2024. Conforme as informações prestadas a esta Corte, a previsão para progressão ao regime aberto é 4/12/2025 e para término da execução, 24/6/2031.
+Em homenagem, sobretudo, ao princípio da legalidade, não cabe ao Juiz da VEC deferir ao apenado benefícios não previstos pelo legislador, salvo em situações excepcionais, quando é admissível a interpretação extensiva de normas benéficas ou a aplicação da analogia por questões humanitárias.
+O art. 112, § 3º, da LEP, estabelece que:
+ ..  a pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (..) § 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente: I - não ter cometido crime com violência ou grave ameaça a pessoa; II - não ter cometido o crime contra seu filho ou dependente; III - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior; IV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento; V - não ter integrado organização criminosa.
+No caso, o Juiz da VEC registrou a ausência de "comprovação hábil de  ..  imprescindibilidade  da apenada  nos cuidados do pai desde sua prisão (outubro/2024) que pudesse amparar eventual benefício executório, haja vista a existência de terceiros corresponsáveis" (fl. 18, destaquei).
+O Tribunal também reafirmou que, durante o tempo de encarceramento da sentenciada, "existem "terceiros corresponsáveis" pelos cuidados do idoso" (fl. 23, grifei). Constou do julgado que "há outros familiares que podem auxiliá-lo, afastando-se, assim, o requisito necessário para eventual concessão do benefício" (fl. 24, destaquei).
+Vê-se que foi motivado o indeferimento da progressão especial e que a controvérsia é de natureza fática - não compete a esta Corte, para decidir a questão, reexaminar provas a fim de verificar se a apenada é a única responsável por pessoa com deficiência.
+Os cuidados com os genitores constituem responsabilidade de todos os filhos, não apenas de um deles. Caso houvesse real imprescindibilidade de atenção imediata ao idoso, a providência adequada seria o pleito de regime semiaberto domiciliar. Todavia, a defesa busca a retificação do cálculo das penas, o que não asseguraria o desencarceramento imediato.
+Não é possível a concessão da ordem, pois a "execução penal é regida pelo princípio da legalidade" (AgRg no HC n. 926.734/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025) e a "progressão de regime especial requer a demonstração de situação excepcional" (AgRg no AREsp n. 2.830.185/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 1º/4/2025, DJEN de 7/4/2025), não comprovada pela defesa ao Juiz de primeiro grau.
+Em regra, o "art. 112, § 3º, da LEP, prevê a progressão especial - lapso temporal de 1/8 - à mulher gestante ou que for mãe ou responsável por crianças (pessoa até 12 anos de idade incompletos) ou pessoas com deficiência, desde que preenchidos cumulativamente os requisitos ali previstos" (AgRg no HC n. 823.345/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023, destaquei).
+Ressalto, por oportuno, que a defesa não pediu a prisão domiciliar para assistência a pai idoso e enfermo, e nesta impetração indefere-se apenas a retificação dos cálculos para fins de progressão especial de regime após resgate de 1/8 da pena (art. 112, § 3º, da LEP) .
+À vista do exposto, nego provimento ao agravo regimental.
