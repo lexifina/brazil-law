@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALAN ALBUQUERQUE DA FONSECA contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação do art. 1.022, II, do CPC.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação de execução por quantia certa convertida em ação ordinária de cobrança.
+O julgado foi assim ementado (fl. 318):
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA CONVERTIDA EM AÇÃO ORDINÁRIA DE COBRANÇA. INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA COM GARANTIA DE FIANÇA. TOGADO DE ORIGM QUE JULGA PROCEDENTE A PRETENSÃO INAUGURAL E IMPROCEDENTES OS PEDIDOS FORMULADOS NA RECONVENÇÃO. INCONFORMISMO DOS RÉUS/RECONVINTES.
+PRETENDIDO RECONHECIMENTO DE ERRO MATERIAL QUANTO À NATUREZA DA DEMANDA, CLASSIFICANDO-A CORRETAMENTE COMO AÇÃO DE EXECUÇÃO POR QUANTIA CERTA E DECLARANDO-SE A PRESCRIÇÃO INTERCORRENTE, COM A CONSEQUENTE EXTINÇÃO DO PROCESSO COM RESOLUÇÃO DE MÉRITO, NOS TERMOS DO ART. 487, INCISO II, DO CPC. REJEIÇÃO. PEDIDO DE EMENDA DA INICIAL PARA CONVERSÃO DA EXECUÇÃO POR QUANTIA CERTA EM AÇÃO ORDINÁRIA DE COBRANÇA QUE FOI DEFERIDO AINDA NO ANO DE 2010. REGULAR TRAMITAÇÃO DO PROCESSO SEM QUE HOUVESSE QUALQUER IRRESIGNAÇÃO DAS PARTES A RESPEITO. PRESCRIÇÃO INTERCORRENTE QUE SE DÁ SOMENTE NO CURSO DO PROCESSO DE EXECUÇÃO E, PORTANTO, NÃO SE APLICA A DEMANDAS EM FASE DE CONHECIMENTO. EXEGESE DO ART. 921, § 4º, DO CPC. PRECEDENTES DESTA CORTE DE JUSTIÇA.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte aponta violação do seguinte artigo: 1.022, II, do CPC, porquanto o acórdão recorrido deixou de analisar o conjunto probatório dos autos, especialmente em relação a existência de ação revisional com trânsito em julgado e a ocorrência de prescrição da pretensão de cobrança.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo a violação do art. 1.022, II, do CPC, e determinando-se a remessa dos autos ao Tribunal a quo para que seja proferido novo acórdão, apreciando as matérias trazidas em juízo para apreciação.
+Contrarrazões foram apresentadas (fls. 357-362).
+É o relatório. Decido.
+O recurso não merece prosperar.
+I - Art. 1.022, II, do CPC
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No que tange às alegações de que o Tribunal a quo deixou de analisar o conjunto probatório dos autos, especialmente em relação a existência de ação revisional com trânsito em julgado e a ocorrência de prescrição da pretensão de cobrança, a Corte a quo debateu, de forma explícita, que a alegação de coisa julgado, embora matéria de ordem pública, não foi debatida na apelação, gerando inovação recursal e, quanto à alegação de prescrição da pretensão de cobrança não foi arguida na origem, tendo somente analisado a prescrição intercorrente, porém, esta foi afastada .
+Confira-se trecho do acórdão dos embargos (fls. 349-351 ):
+No caso concreto, a alegação de coisa julgada não foi objeto da Apelação e, embora seja matéria de ordem pública, a jurisprudência do Superior Tribunal de Justiça é pacífica "no sentido de que é vedada a inovação recursal em sede de embargos de declaração, ainda que sobre matéria considerada de ordem pública, haja vista o cabimento restrito dessa espécie recursal às hipóteses em que existente vício no julgado" (E Dcl no R Esp 1.776.418/SP, Rela. Mina. Nancy Andrighi Terceira Turma, j. 9-2-21).
+ ..
+Outrossim, não houve omissão quanto à análise da prescrição da pretensão de cobrança, haja vista que sequer foi especificamente arguida na origem (Evento 229, PET1), tampouco no Apelo (Evento 250, APELAÇÃO1) e, por razões óbvias, não foi objeto de enfoque tanto na sentença quanto no aresto ora atacado.
+Com efeito, a questão recebe as mesma considerações alhures vazadas no sentido de que é vedada a inovação recursal em sede de Aclaratórios, ainda que sobre matéria considerada de ordem pública, haja vista o cabimento restrito dessa espécie recursal às hipóteses em que existente vício no julgado.
+Aliás, a decisão colegiada zurzida limitou-se a analisar a tese de prescrição intercorrente, esta sim suscitada no Apelo, tendo definido pela impossibilidade de reconhecimento da prejudicial de mérito no caso concreto, isto é, na ação ordinária de cobrança.
+Brota nítido das razões recursais que o Embargante confunde a prescrição da pretensão de cobrança com a prescrição intercorrente, institutos diferentes, a fim de tentar viabilizar o debuxe da tese prescricional na via inadequada dos Aclaratórios.
+Desse modo, inocorrente omissão, obscuridade, contradição ou erro material no julgamento guerreado, isto é, ausentes as hipóteses encartadas no art. 1.022 do CPC, os Aclaratórios não merecem acolhida, porquanto não se prestam para a rediscussão do tema ou reforço de argumentação.
+Assim, não há falar em ausência de fundamentação no acórdão recorrido, bem como "não se reconhecem a omissão e negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+II - Conclusão
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
