@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GUSTAVO RODRIGUES DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da apelação criminal n. 1503809-78.2024.8.26.0099.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Bragança Paulista à pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime fechado, e ao pagamento de 13 (treze) dias-multa, no mínimo legal, pela prática do delito previsto no art. 157, § 2º, II, do Código Penal (fls. 23-29).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso (fls. 9-14).
+Na presente impetração, alega-se ilegalidade na imposição do regime inicial fechado, por ausência de fundamentação concreta, não sendo suficiente a gravidade abstrata do delito. Invoca-se, ainda, a fixação da pena-base no mínimo legal e a existência de circunstâncias judiciais favoráveis (fls. 4-5).
+Pede-se a concessão de medida liminar para que o paciente inicie o cumprimento da pena em regime semiaberto.
+Ao final, pugna-se pela concessão da ordem para fixar o regime inicial semiaberto, em razão do quantum de pena ser inferior a 8 anos e das circunstâncias judiciais favoráveis, nos termos do art. 33, § 2º, "b", do Código Penal.
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível constrangimento ilegal, consubstanciado pelos critérios empregados para a fixação do regime inicial fechado.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem ofício, em observância ao disposto no §2º do art. 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos da decisão colegiada impugnada (fls. 9-14 ):
+ ..
+Mantida a condenação, passo à análise da pena e do regime prisional.
+A pena-base foi aplicada no mínimo legal.
+Na segunda fase, o reconhecimento das atenuantes da menoridade relativa e da confissão espontânea não teve efeito prático, porque a presença de circunstância atenuante não pode fazer decrescer a sanção aquém do mínimo legal, por força de entendimento jurisprudencial consubstanciado na Súmula 231, do STJ.
+E na etapa derradeira, como restou comprovado que o Apelante e os comparsas agiram animados do mesmo propósito, cada um aderindo de forma consciente e voluntária às condutas delituosas dos demais, em inequívoco ajuste de vontades, incidiu corretamente a causa de aumento do concurso de agentes, e a pena foi majorada na fração de 1/3.
+O regime prisional fechado fica mantido, porque a despeito da primariedade e menoridade relativa do Apelante, o crime cometido é concretamente grave, acarretou prejuízo patrimonial significativo para a vítima, o Apelante possui condenação definitiva por crime patrimonial (artigo 180, caput, da Lei Penal), com trânsito em julgado posterior ao delito apurado nestes autos, em 22.01.2025 (fls. 161), e ele próprio revelou quando do interrogatório judicial que utilizou a motocicleta roubada (fato apurado nestes autos) para cometer outro crime de roubo. Ou seja, vinha se dedicando com afinco à prática de crimes contra o patrimônio, deixando entrever a indispensabilidade de se adotar maior rigor na retribuição.
+ ..
+Não verifico, de plano, a presença de ilegalidade flagrante no estabelecimento do regime inicial fechado, embora a pena definitiva tenha sido fixada abaixo de 8 (oito) anos de reclusão. Isso porque o Tribunal de Apelação apresentou fundamentação baseada em elementos concretos extraídos dos autos  prejuízo patrimonial significativo à vítima, existência de condenação definitiva por crime patrimonial com trânsito em julgado posterior ao delito ora apurado, e confissão, em sede de interrogatório judicial, de que o paciente utilizou a motocicleta subtraída para a prática de outro roubo.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que assim dispõe:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Portanto, diante da gravidade concreta dos elementos considerados pelo Tribunal de origem, não verifico a presença de constrangimento ilegal, tampouco divergência em relação ao enunciado da Súmula 440 do Superior Tribunal de Justiça, que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
