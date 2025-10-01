@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por CARLOS SOUZA DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no HC nº 8066958-74.2024.8.05.0000.
+Consta nos autos que o recorrente foi sentenciado à pena de seis anos e quatro meses de reclusão como incurso nos crimes capitulados nos arts. 129, § 13º e no art. 147, caput, todos do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça de origem, que negou seguimento à ordem.
+Neste recurso sustenta, em suma, a ausência de fundamentação concreta e idônea para a manutenção da decisão que decretou a prisão cautelar em desfavor do recorrente ponderando suas condições pessoais favoráveis.
+Requer a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medida cautelar diversa.
+Acórdão denegatório da decisão da autoridade impetrada às fls. 371-377.
+Decisão que indeferiu a liminar requerida às fls. 455-456.
+Informações prestadas pelo juízo de primeiro grau às fls. 467-484
+Parecer do MPF às fls. 1093-1097, onde se manifesta pelo provimento parcial do recurso, a fim de que seja determinado que a preventiva do recorrente seja compatibilizada com as regras próprias do regime prisional semiaberto.
+É o relatório. DECIDO.
+Cinge-se a controvérsia à verificação da existência ou não das condições aptas a justificarem a manutenção da prisão preventiva.
+O Tribunal impetrado valeu-se dos seguintes fundamentos para justificar a denegação da ordem:
+"Impetrante se insurge contra o mérito da sentença que condenou o paciente a uma pena de 06 (seis) anos 04 (quatro) meses e 15 dias de reclusão, em razão da prática dos crimes tipificados nos art. 147 e art. 129, § 13º, ambos do Código Penal, cometido contra sua companheira, bem como não lhe permitiu apelar em liberdade, contra a qual há previsão legal de recurso específico, qual seja, apelação, nos termos do art. 593, do Código de Processo Penal Brasileiro, não sendo, portanto, cabível o emprego de habeas corpus como substitutivo recursal, reconhecendo-se, assim, que a presente impetração não constitui meio adequado para a pretensão buscada.  ..  No mesmo sentido do presente voto, transcrevem-se trechos do judicioso parecer Ministerial (ID 73069766): " ..  Assim, visando a necessária racionalização do manejo do Habeas Corpus, não se deve admitir debates desta monta no bojo do remédio heroico, excetuando-se os casos de latente ilegalidade, o que não resta evidenciado no presente feito, vez que a impetração questiona aspecto subjetivo de uma decisão judicial.  ..  Registre-se, por oportuno, que a própria impetração afirma sobre a interposição do Apelo, o que também restou informado pelo Juízo de origem, impondo-se, assim, o não processamento do mandamus.  .. ". Em harmonia com todo o relatado, resta evidenciado, portanto, que a presente impetração não constitui meio adequado para a pretensão buscada, tampouco se trata de hipótese excepcional para concessão da ordem de ofício. Diante do exposto não se conhece, da presente ordem de habeas corpus, nos termos do artigo 259, § 2º do RITJBA, com a consequente extinção sem resolução de mérito, procedendo-se ao arquivamento dos autos, após certificação nos autos de transcurso do prazo recursal sem manifestação das partes."
+Como se percebe, a decisão do Tribunal de origem se limitou a deixar de conhecer da impetração fundado na em sua inadequação, diante da possibilidade de interposição de apelação em face da sentença prolatada.
+A C orte, contudo, olvidou do disposto no art. 654, parágrafo 2º do CPP que permite aos juízes e Tribunais, de ofício, verificarem a existência de coação ou ameaça de coação ilegal proveniente de autoridade estatal, o que impõe uma análise mais acurada por parte do Tribunal de segundo grau.
+Destarte, inviável a esta Corte Superior debruçar-se sobre o tema, sob pena de incorrer em indevida supressão de instância.
+Neste contexto, a manutenção da decisão prolatada implica a indevida negativa de prestação jurisdicional, sem qualquer amparo legal.
+Ante o exposto não conheço do writ, porém concedo, de ofício, a ordem de habeas corpus para determinar ao Tribunal de Justiça do Estado da Bahia que conheça do writ lá impetrado e aprecie o seu mérito.
+Publique-se. Intimem-se.
+EMENTA
