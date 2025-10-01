@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo SUPERMERCADOS FORMENTON S.A. contra decisão, proferida às e-STJ fls. 615/621, que julgou improcedente o pedido formulado na ação rescisória.
+A embargante sustenta contradição, por entender que a decisão embargada "admite a existência do que considera erro de julgamento, mas descreve um evidente erro de fato" (e-STJ fl. 628). Argumenta que, diante da "evidente descrição de erro de fato, ao considerar a matéria do REsp 1.952.896/RS como diversa daquela que realmente é, requer-se se o saneamento da contradição que o considera como erro de julgamento" (e-STJ fl. 631).
+Defende que o Superior Tribunal de Justiça nunca emitiu decisão apta a solucionar o objeto do REsp 1.952.896/RS. A eventual decisão prolatada versava sobre questão diversa, que não foi objeto do processo. Essa situação não permite a aplicação do óbice constante da Súmula 343 do STF" (e-STJ fl. 633).
+Segue asseverando que "a decisão embargada repete o fato inexistente de que a confusão entre as matérias foi refutada por três Embargos de Declaração opostos ao acórdão proferido em sede do REsp 1.952.896/RS, um novo erro de fato que considera existente uma refutação que nunca ocorreu" (e-STJ fl. 634).
+Sem impugnação (certidão e-STJ fl. 645).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC), vícios inexistentes na espécie.
+As razões recursais demonstram que o embargante pretende , na verdade, rediscutir os fundamentos da decisão embargada, o que não se admite na presente via processual.
+No caso, ficou claro o entendimento segundo o qual, na hipótese, verifica-se que a intenção do autor não diz respeito à existência de eventual erro de fato na decisão rescindenda, mas sim a suposto erro de julgamento.
+Além disso, a manifesta violação de norma jurídica, que pressupõe a existência de motivação manifestamente contrária aos princípios e às regras que orientam o ordenamento jurídico, não se constatou no caso em exame, a ensejar o cabimento da ação rescisória com base no art. 966, V, do CPC, consoante atesta o seguinte excerto da decisão embargada (e-STJ fl. 620):
+No caso, o acórdão recorrido, ao entendimento de que a matéria discutida seria relacionada à obtenção de créditos da Contribuição ao PIS e da COFINS sobre os valores de ICMS-ST, deixou de determinar a devolução do feito à origem em decorrência da afetação do Tema 1.125 do STJ, de modo que não há, portanto, manifesta violação das normas contidas nos apontados arts. 1.036 e 1.037, II, do CPC e no art. 256- L do RISTJ, que justifique a rescisão do julgado, mas sim a existência de motivação razoável para apreciar o recurso especial interposto, sendo o caso, portanto, de aplicar a inteligência da Súmula 343 do STF.
+Restou ainda consignado que o autora, ora embargante, "não apontou qual prova judicial em sentido técnico não pôde fazer uso no momento processual oportuno, pretendendo tão somente, em última na análise, a aplicação de jurisprudência posterior e benéfica" (e-STJ fl. 620).
+Desse modo, não há na decisão embargada situação que dê amparo ao recurso integrativo, porquanto os vícios de natureza processual alegados, na realidade, manifestam seu inconformismo com o resultado do julgamento.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que foi desfavorável a ela, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
