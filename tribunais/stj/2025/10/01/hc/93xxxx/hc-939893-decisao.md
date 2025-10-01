@@ -1,0 +1,11 @@
+DECISÃO
+LUIZ CLÁUDIO VIEIRA CABRAL alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Habeas Corpus n. 2774743-29.2024.8.13.0000.
+A defesa busca a rejeição parcial da denúncia oferecida nos autos da Ação Penal n. 1246368-25.2021.8.13.0024, em trâmite perante a 5ª Vara Criminal da Comarca de Belo Horizonte/MG, a fim de que seja afastada a imputação de oito crimes contra a economia popular (art. 2º, IX, da Lei n. 1.521/1951) por ausência de justa causa, nos termos do art. 395, III, do Código de Processo Penal.
+Argumenta, em síntese, que: "a 1ª Câmara Criminal do TJMG denegou habeas corpus impetrado contra ato ilegal do juízo da 5ª Vara Criminal da Comarca de Belo Horizonte/MG, que recebeu a denúncia oferecida nos autos da Ação Penal n. 1246368-25.2021.8.13.0024, a qual imputa ao Paciente 9 (nove) crimes contra a economia popular (art. 2º, inc. IX, da Lei n. 1.521/1951), em concurso material, pelo simples fato de terem sido identificadas 9 (nove) vítimas. Ausência de justa causa: crimes contra a economia popular demandam habitualidade e têm sujeição passiva indeterminada, de modo que imputar 1 (um) delito consumado para cada vítima individualizada configura manifesta ausência de justa causa. Não é atividade epistêmica; é hermenêutica. A ordem deve ser concedida, a fim de que a denúncia seja parcialmente rejeitada, afastando-se 8 (oito) crimes" (fl. 3).
+O Ministério Público Federal opinou pelo não conhecimento ou pela denegação do habeas corpus (fls. 36-41).
+Decido.
+Em consulta realizada pelo gabinete, foi possível verificar que, depois de encerrada a instrução processual, houve a homologação de acordo de não persecução penal na ação penal da qual se origina a impetração.
+Conquanto não seja possível verificar se houve efetivo cumprimento do ANPP, é certo que a pretensão recursal se tornou inócua, pois: a) a fase processual que o paciente pretendia sobrestar (recebimento da denúncia) já foi em muito superada; b) o réu celebrou ANPP, o que representa postura processual incompatível com o interesse de obter a rejeição da peça acusatória.
+À vista do exposto, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
