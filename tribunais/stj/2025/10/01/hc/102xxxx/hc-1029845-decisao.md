@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FATIMA RIBEIRO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo em Execução Penal n. 1.0000.21.039064-7/002).
+Depreende-se dos autos que o Juízo da execução indeferiu o pedido de autorização formulado pela sentenciada para se ausentar do recolhimento domiciliar noturno, a fim de comparecer a culto religioso (e-STJ fl. 17).
+Interposto agravo em execução, o Tribunal de origem negou provimento ao recurso, nos termos de acórdão assim ementado (e-STJ fl. 9):
+AGRAVO EM EXECUÇÃO CRIMINAL - PRETENSÃO DE REFORMA DA DECISÃO QUE INDEFERIU A AUTORIZAÇÃO DE COMPARECIMENTO EM CULTO RELIGIOSO EM PERÍODO DE RECOLHIMENTO DOMICILIAR NOTURNO - INVIABILIDADE - REEDUCANDA EM REGIME ABERTO E PRISÃO DOMICILIAR. O indeferimento da frequência a culto religioso em horário incompatível com o estabelecimento para o cumprimento de pena em regime aberto, com benefício de prisão domiciliar, não configura afronta ao direito constitucional à liberdade religiosa.
+Na presente impetração, a defesa alega que "a paciente busca o reconhecimento do direito de exercício da liberdade de culto, vale dizer, exteriorização da crença" (e-STJ fl. 6). Acrescenta que, "caso estivesse em estabelecimento prisional a paciente teria a possibilidade de, na prisão, exercer sua religiosidade, o que não acontece, necessariamente, em sua residência, considerando a importância, nas diversas religiões, do local do culto coletivo" (e-STJ fl. 6).
+Ao final, requer "seja permitido à paciente o comparecimento a cultos religiosos durante o recolhimento domiciliar noturno" (e-STJ fl. 8).
+O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial pela denegação da ordem.
+É o relatório.
+Decido.
+Adoto, por pertinentes e oportunas, como razões de decidir as argumentações do parecer ministerial, in verbis (e-STJ fls. 203/204, grifei):
+6. Consta dos autos que a paciente cumpre pena total de 11 (onze) anos e 2 (dois) meses de reclusão, pela prática dos delitos previstos no art. 33 e no art. 35, ambos da Lei n. 11.343/06 e se encontra no regime aberto, em prisão domiciliar, com previsão de término em 18/11/2028.
+Ao negar o pedido de flexibilização das condições impostas na prisão domiciliar para que a paciente se ausente do período noturno para comparecimento em culto religioso, o Juízo de execução aduziu que "o pedido não tem como finalidade a flexibilização das condições impostas para a realização de tratamento de saúde ou o exercício de trabalho lícito, por exemplo. O motivo religioso alegado, apesar de importante, pode ser alcançado de qualquer forma com fé e a graça individual até porque Deus e Jesus podem ser encontrados em qualquer lugar, e não apenas em um templo, como ensina a Bíblia Sagrada em Mateus 18:20: "Pois onde se reunirem dois ou três em meu nome, ali eu estou no meio deles". Por fim, a sentenciada pode buscar outros horários para acompanhar o culto e/ou acompanhá-lo de forma on-line. Diante do exposto, indefiro o pedido (mov. 750.1) de autorização da sentenciada para se ausentar do recolhimento domiciliar noturno".
+Ao apreciar o pedido, o Tribunal de origem aduziu que (fls. 11-12):
+Sem embargo, é de se considerar que a agravante está cumprindo pena em regime aberto, em situação de prisão domiciliar. É necessário que ela se adapte às obrigações impostas por ocasião da concessão da benesse, sendo certo que não é facultado à reeducanda a escolha do modo de resgate da sua pena privativa de liberdade.
+O indeferimento da frequência a culto religioso em período noturno pela reeducanda que cumpre pena em regime aberto, com benefício de prisão domiciliar, não configura afronta ao direito constitucional à liberdade religiosa.
+O recolhimento domiciliar, por si só, não impede o exercício da liberdade religiosa, a qual pode ser plenamente exercida pela agravante, seja em sua residência ou em templos religiosos, desde que respeitando as condições estabelecidas.
+É de se observar, neste ponto, que a prisão domiciliar não implica na restrição do direito de a sentenciada praticar sua fé, uma vez que ela tem o direito de participar de cultos religiosos, desde que isso esteja em conformidade com os horários estabelecidos e as demais condições impostas pelo juízo a quo quando do deferimento do benefício.
+7. Conforme bem destacado pelas instâncias ordinárias, a paciente pode exercer sua fé em sua residência ou frequentar cultos religiosos, desde que seja fora dos horários de recolhimento obrigatório. Nos períodos em que deve permanecer em casa, poderá realizar o acompanhamento de eventos religiosos ao vivo e simultaneamente por meio da internet, em conformidade com as condições do regime aberto.
+Por fim, vale destacar que o pedido da paciente é amplo e genérico, sem delimitar os dias, horários e local que pretende frequentar o culto religioso, o que dificulta ainda mais a concessão do pedido.
+Portanto, inexiste constrangimento ilegal a ser coibido na presente impetração.
+Ora, o entendimento do Tribunal de origem coaduna com o adotado no Superior Tribunal de Justiça no sentido de que as condições por ocasião do deferimento da prisão domiciliar são impostas no poder discricionário do Juízo das execuções, em observância à legislação pertinente, bem como à conveniência e razoabilidade da medida.
+Na espécie, tendo em vista as condições fixadas pelo Juízo da e xecução, a apenada tem a possibilidade de frequentar cultos religiosos fora dos horários de recolhimento obrigatório, de modo que não há falar em restrição de sua liberdade religiosa.
+Diante do exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
