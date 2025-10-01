@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por FINQUÍMICA INDÚSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS FINOS LTDA. da decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 1002603-51.2020.8.26.0156/SP.
+Na origem, foi julgado improcedente o pedido formulado na ação proposta para limitação dos juros moratórios à taxa Selic e sustação/cancelamento do protesto da Certidão de Dívida Ativa n. 1.274.438.520, relativa à multa ambiental aplicada pela Companhia Ambiental do Estado de São Paulo (CETESB), com fundamento de que os juros incidem nos termos do art. 2º do Decreto-Lei n. 1.736/1979 e do art. 39 da Lei n. 4.320/1964, com redação dada pelo Decreto-Lei n. 1.735/1979 (fls. 285-292).
+O Tribunal de origem deu parcial provimento à apelação para limitar os juros à taxa Selic apenas a partir da entrada em vigor da Emenda Constitucional n. 113/2021, mantendo, quanto ao período anterior, a incidência dos diplomas federais citados (fls. 361-367), em acórdão assim ementado (fl. 362):
+APELAÇÃO. Ação objetivando a limitação dos juros cobrados pela Fazenda do Estado à taxa SELIC. Sentença de improcedência. Apelo da demandante. Com parcial razão. Débito não tributário que não deve ser limitado à taxa SELIC, aplicando-se o artigo 2º do Decreto-Lei 1.736/79 e o artigo 39 da Lei nº 4.320/64 e Decreto-Lei nº 1.735/79 até a entrada em vigor da EC nº 113/2021. A partir daí, a limitação foi imposta no seu art. 3º, independentemente da natureza do débito. Recurso parcialmente provido.
+Nas razões do recurso especial, a parte recorrente aduziu violação dos arts. 406 do Código Civil; 29 e 30 da Lei n. 10.522/2002, sustentando que o índice de juros moratórios deve ser a taxa Selic mesmo para débitos não tributários inscritos em dívida ativa, e que a legislação estadual aplicável seria inexistente ou incompatível, devendo-se aplicar a regra geral do art. 406 do Código Civil, além dos arts. 29 e 30 da Lei n. 10.522/2002.
+Foram apresentadas contrarrazões pela Fazenda do Estado de São Paulo (fls. 404-408).
+Não admitido o recurso pelo Tribunal de origem (fls. 409-412), seguiu-se o presente agravo em recurso especial (fls. 415-428).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O recurso especial foi inadmitido pelo Tribunal de origem com espeque nos seguintes esteios: (a) insuficiência das razões para infirmar acórdão; (b) inadequação do recurso especial para impugnação de fundamentos de natureza constitucional (fls. 409-412).
+No agravo em recurso especial, a parte agravante deixou de refutar o item "a", restringindo-se a impugnar o esteio "b" e a reiterar as razões do recurso especial.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único.
+Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito, a ementa do mencionado julgado:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fls. 291 e 367), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO OBJETIVANDO A LIMITAÇÃO DOS JUROS COBRADOS PELA FAZENDA DO ESTADO À TAXA SELIC. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
