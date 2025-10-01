@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de reclamação constitucional ajuizada por MARIA APARECIDA PEREIRA DOS SANTOS, com fundamento no art. 105, I, f, da Constituição Federal, nos arts. 988, IV e V, do Código de Processo Civil, em face de acórdão proferido pela Segunda Turma Recursal de Jurisdição Exclusiva - Belo Horizonte, Betim e Contagem/MG.
+A parte reclamante alega que, ao apreciar recurso inominado interposto para rediscutir arbitramento de honorários, a Turma Recursal indeferiu, de plano, o pedido de gratuidade da justiça, sob o fundamento de que a renda bruta mensal ultrapassaria três salários mínimos. Sustenta que tal decisão foi proferida sem oportunizar a comprovação de sua real condição financeira, em afronta ao art. 99, § 2º, do CPC, e desconsiderou a realidade de que, descontadas obrigações pessoais e despesas essenciais, sua renda líquida corresponderia a cerca de dois salários mínimos.
+Afirma que tal postura viola o art. 5º, LXXIV, da Constituição Federal, e destoa da jurisprudência firmada pelo Superior Tribunal de Justiça nos Recursos Especiais 1.988.686, 1.988.687 e 1.988.697. Invoca ainda a Recomendação CNJ n. 159/2024, que reforça a presunção legal de hipossuficiência prevista no art. 99, §§ 2º e 3º, do CPC e no art. 1º da Lei n. 7.115/1983.
+Aduz que o prosseguimento do cumprimento de sentença no processo de origem poderá acarretar bloqueio de valores, inscrição em cadastros de inadimplentes e penhora de bens, configurando periculum in mora, além de demonstrar a plausibilidade do direito invocado.
+Requer, em sede liminar, a suspensão do Recurso Inominado n. 5008370-47.2024.8.13.0245 até decisão final desta reclamação.
+No mérito, pugna pela cassação da decisão reclamada e pela concessão da gratuidade de justiça, ou, subsidiariamente, pelo retorno dos autos à origem para nova análise do pedido.
+É o relatório. Decido.
+A Resolução STJ n. 12/2009, que regulava o cabimento de reclamação ao STJ em relação aos processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pela Emenda Regimental n. 22, de 16/3/2016.
+Na apreciação de questão de ordem suscitada no julgamento do AgRg na Rcl n. 18.506/SP, a Corte Especial do STJ aprovou a Resolução STJ n. 3/2016, a qual prevê que, a partir de 7 de abril de 2016, as Câmaras Reunidas ou a Seção Especializada dos Tribunais de Justiça passam a ser competentes para a apreciação das reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça.
+Assim, não mais subsiste a competência desta Corte para a apreciação da reclamação que, conforme acima destacado, é de incumbência do órgão próprio do Tribunal de origem.
+Ante o exposto, não conheço da reclamação e determino a remessa dos autos ao Tribunal de Justiça do Estado de Minas Gerais, competente para o seu processamento.
+Publique-se. Intimem-se.
+EMENTA
