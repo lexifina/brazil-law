@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de FABRÍCIO ALEF ALVES DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos que o paciente foi preso preventivamente em 9/2/2025, pela suposta prática da conduta descrita nos arts. 2º, §§ 2º e 3º, da Lei n. 12.850/2013; e 33 e 35 da Lei n. 11.343/2006.
+O impetrante sustenta haver excesso de prazo na formação da culpa, afirmando que o paciente está preso há mais de 30 meses sem designação de audiência de instrução e sem nenhuma evolução processual relevante, apesar de recomendação de celeridade em habeas corpus anterior.
+Destaca que não há contemporaneidade entre os fatos investigados e a medida extrema, apontando que os eventos ocorreram há mais de três anos, que a denúncia foi rejeitada quanto ao ponto de organização criminosa e que já houve apresentação de defesa preliminar, sem agendamento de instrução.
+Ressalta que, em vez de interpor o recurso cabível contra a rejeição parcial da denúncia, o Ministério Público teria apresentado emenda à inicial imputando novamente o delito de organização criminosa, com renovação do chamamento da defesa para resposta.
+Pontua que a morosidade não é atribuível à defesa, que teria manejado todos os recursos e requerimentos possíveis, e que a manutenção da prisão configura antecipação de pena, em afronta ao princípio da presunção de inocência e ao direito à razoável duração do processo.
+Afirma que não se encontram presentes os requisitos do art. 312 do CPP e que são cabíveis medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer o relaxamento da prisão preventiva do paciente, com a expedição de alvará de soltura.
+Foram juntadas aos autos as informações prestadas pela origem (fls. 344-347), bem como a manifestação do Ministério Público Federal, opinando pela denegação do habeas corpus (fls. 349-352).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifica-se que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+O Tribunal local examinou a questão nos seguintes termos, conforme se observa do voto condutor do acórdão (fls. 16-18, grifei):
+Em consulta aos autos da ação penal n.º 0041943-49.2023.8.06.0001 no sistema SAJ. PG, foi possível perceber a fidedignidade das informações de fls. 256/259, as quais transcrevo abaixo:
+"(..) Inicialmente, cumpre informar que o paciente teve a prisão preventiva decretada no processo 0277265-83.2022.8.06.0001 em 03/02/2023, sendo efetivamente cumprida em 09/02/2023, nos autos do processo n. 0208294-12.2023.8.06.0001.
+O paciente foi denunciado pelos delitos tipificados no art. 2º da Lei n. 12.850/13 e arts. 33 e 35 da Lei n. 11.343/06, nos termos da denúncia ofertada pelo Ministério Público em 31/03/2023, na ação principal n. 0203224-36.2022.8.06.0296, juntamente a outros 10 (dez) réus.
+Em despacho, datado de 03/04/2023, determinou o aditamento da denuncia para apresentar a qualificação de um réu que não constou na denúncia. Sendo o aditamento à denúncia apresentado em 12/04/2023.
+A denúncia foi recebida parcialmente em 03/05/2023.
+O paciente apresentou defesa em 16/05/2023.
+A denúncia foi ratificada em 14/09/2023.
+A audiência de instrução foi realizada nos dias 07 e 09/11/2023, onde a defesa do paciente arguiu que os crimes a ele imputados não estariam abarcados pela competência do presente juízo, não sendo tal matéria alvo de apreciação quando da ratificação do recebimento da denúncia, não obstante ter sido alegado em sede de resposta à acusação (fls. 779/781). Neste termos a MM Juiza determinou o desmembramento do feito ao referido denunciado, abrindo-se vistas ao Ministério Público para se manifestar acerca da questão levantada pela defesa.
+Foi aberto um novo caderno processual para o paciente, processo n. 0041943-49.2023.8.06.0001.
+Instado a se manifestar acerca da arguição da defesa do ora paciente, o Ministério Público aditou a denúncia 07/02/2024, e além dos crimes já imputados, previstos nos arts. 33 e 35 da Lei n. 11.343/06, incluiu os crimes do art. 2º, §§ 2º e 3º, da Lei nº 12.850/13.
+O aditamento à denúncia foi recebido em 20/02/2024.
+Em petição datada de 02/07/2024, a defesa do ora paciente, vem a este juízo chamar o feito a ordem, informando que sua defesa prévia já fora apresentada.
+No dia 25/07/2024, a defesa do paciente foi intimada para apresentar, dentro do prazo de 5 (cinco) dias, resposta ao aditamento à denúncia, limitando-se tão somente a defesa a informar que a defesa preliminar já fora apresentada (anterior ao aditamento a denúncia que incluiu os §§ 2º e 3º, do art. 2º, da Lei nº 12.850/13).
+Renovada a intimação do ilustre causídico para responder ao aditamento à denúncia com decurso de prazo sem manifestação (fl. 1604), foi determinado a intimação pessoal do paciente para, no prazo de 5 (cinco) dias, constituir novo advogado para patrocinar sua defesa, ficando de logo ciente que, em caso de inércia, os autos serão encaminhados para o representante da Defensoria Pública (fl. 1607).
+O paciente foi intimado no dia 26/08/2024.
+O paciente apresentou resposta acusação no dia 16/09/2024.
+A prisão do réu foi reavaliada e mantida, em decisão datada de 21/03/2025.
+A audiência de instrução iniciou-se no dia 01/04/2025, mas precisou ser determinada a redesignação do ato para data mais próxima desimpedida para ser ouvida uma testemunha de acusação, bem como interrogatório do acusado.
+Atualmente, os autos estão no aguardo da redesignação da data para a continuação da audiência de instrução. (..)"
+Dessa forma, forçoso é concluir que não está havendo negligência/desídia do Juízo singular, visto que vem este conferindo o impulso oficial necessário para que a tramitação do feito se dê de forma mais rápida possível dentro das circunstâncias apresentadas, não se mantendo inerte durante o decorrer da ação penal e realizando todos os devidos atos processuais, como acima registrado.
+Ademais, urge ressaltar que, além do exposto, também se dá às particularidades do caso concreto, uma vez que o caderno processual de n.º 0041943-49.2023.8.06.0001 foi resultado do desmembramento da ação penal de n.º 0203224-36.2022.8.06.0296, que contava com o expressivo número de acusados (dez) e crimes, bem como pela multiplicidade de causídicos. Sendo complexo, é natural e inerente que o caso em apreço demande maiores esforços e tempo para que as suas diligências findem, motivo pelo qual se aplica a tese consagrada no enunciado da Súmula n.º 15 deste Tribunal de Justiça:
+ ..
+Ainda, observa-se o que consta nas informações prestadas pelo Juízo de origem (fls. 344-345):
+Inicialmente, cumpre informar que o paciente teve a prisão preventiva decretada no processo 0277265-83.2022.8.06.0001 em 03/02/2023, sendo efetivamente cumprida em 09/02/2023, nos autos do processo n. 0208294-12.2023.8.06.0001.
+O paciente foi denunciado pelos delitos tipificados no art. 2º da Lei n. 12.850/13 e arts. 33 e 35 da Lei n. 11.343/06, nos termos da denúncia ofertada pelo Ministério Público em 31/03/2023, na ação principal n. 0203224-36.2022.8.06.0296, juntamente a outros 10 (dez) réus.
+Em despacho, datado de 03/04/2023, determinou o aditamento da denúncia para apresentar a qualificação de um réu que não constou na denúncia. Sendo o aditamento à denúncia apresentado em 12/04/2023.
+A denúncia foi recebida parcialmente em 03/05/2023.
+O paciente apresentou defesa em 16/05/2023.
+A denúncia foi ratificada em 14/09/2023.
+A audiência de instrução foi realizada nos dias 07 e 09/11/2023, onde a defesa do paciente arguiu que os crimes a ele imputados não estariam abarcados pela competência do presente juízo, não sendo tal matéria alvo de apreciação quando da ratificação do recebimento da denúncia, não obstante ter sido alegado em sede de resposta à acusação (fls. 779/781). Neste termos a MM Juíza determinou o desmembramento do feito ao referido denunciado, abrindo-se vistas ao Ministério Público para se manifestar acerca da questão levantada pela defesa.
+Foi aberto um novo caderno processual para o paciente, processo n. 0041943-49.2023.8.06.0001.
+Instado a se manifestar acerca da arguição da defesa do ora paciente, o Ministério Público aditou a denúncia 07/02/2024, e além dos crimes já imputados, previstos nos arts. 33 e 35 da Lei n. 11.343/06, incluiu os crimes do art. 2º, 88 2º e 3º, da Lei nº 12.850/13.
+O aditamento à denúncia foi recebido em 20/02/2024.
+O paciente apresentou defesa preliminar no dia 16/09/2024.
+A prisão do paciente foi reavaliada e mantida, em decisão datada de 21/03/2025.
+A audiência de instrução iniciou-se no dia 01/04/2025, tendo sido prejudicada pela ausência de uma das testemunhas, sendo determinado a redesignação do ato ato para data mais próxima. Atualmente, os autos estão no aguardo da redesignação da data para prosseguimento da audiência de instrução.
+Não se verifica, no caso, mora ilegal atribuível ao Poder Judiciário ou aos órgãos encarregados da persecução penal, uma vez que o feito tramita de maneira regular, pois a prisão preventiva do paciente foi decretada em 3/2/2023, tendo sido recolhido à prisão em 9/2/2023. A denúncia foi recebida parcialmente em 3/5/2023, seguida da apresentação de defesa em 16/5/2023 e da ratificação ministerial em 14/9/2023.
+A instrução processual teve início com audiências realizadas em 7 e 9/11/2023, ocasião em que se determinou o desmembramento do feito e a formação de novo caderno processual. Posteriormente, houve aditamento da denúncia pelo Ministério Público em 7/2/2024, recebido em 20/2/2024, e apresentação de defesa preliminar em 16/9/2024.
+A custódia foi reavaliada e mantida em 21/3/2025, e a audiência de instrução foi iniciada em 1º/4/2025, sendo redesignada por ausência de testemunha, aguardando-se atualmente a nova data para prosseguimento.
+Ainda, considerando o número de réus e a complexidade do processo, que envolveu desmembramento (processo originário com 10 réus) e aditamento à denúncia, não se constata uma demora injustificada para o início da instrução.
+No caso, não se verifica desídia ou mora estatal na ação penal quando a sequência dos atos processuais afasta a ideia de paralisação indevida do processo ou de responsabilidade do Estado persecutor, razão pela qual não há que se falar em ilegalidade por excesso de prazo.
+Sobre o tema:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CONSUMADO. ORGANIZAÇÃO CRIMINOSA. MEDIDAS CAUTELARES. FUNDAMENTAÇÃO PER RELATIONEM. IMPRESCINDIBILIDADE DA MEDIDAS DEMONSTRADA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se configura desprovida de fundamentos a decisão que mantém as medidas cautelares impostas pelos mesmos fundamentos quando da sua decretação.
+2. A chamada técnica da fundamentação per relationem (também denominada motivação por referência ou por remissão) é reconhecida pelo Supremo Tribunal Federal como legítima e compatível com o disposto no art. 93, IX, da Constituição Federal.
+3. Diante das circunstâncias concretas do caso e em observância ao binômio proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal.
+4. Inexiste excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022.)
+Por outro lado, quanto à alegação de ausência de contemporaneidade e de ausência dos requisitos autorizadores da prisão preventiva, destaca-se que o Tribunal de origem não as examinou, circunstância que inviabiliza o exame das questões pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Em idêntica direção, destaca-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. NÃO CONFIGURADA. ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTERROMPER OU REDUZIR ATIVIDADE DE GRUPO CRIMINOSO. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A prisão preventiva foi ordenada e mantida pelas instâncias ordinárias, nos termos do art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública.
+2. No caso, a periculosidade da paciente foi revelada em minuciosa investigação levada a efeito no âmbito da Operação ARAITAK, uma vez que integraria associação criminosa estruturalmente ordenada e com emprego de arma de fogo, ligada à facção KATIARA, voltada para a prática de tráfico de drogas e de armas em vários Municípios do Estado da Bahia, desempenhando a função de Olheira/Apoio Operacional, subordinada diretamente a gerente de pista, ficando responsável por informar sobre a movimentação de viaturas policiais e repassar informações sobre membros da facção rival, além de fornecer sua conta bancária para depósitos referentes à venda de drogas.
+2. O alegado excesso de prazo para a formação da culpa não foi sequer apreciado pelo Tribunal estadual, o que impede o exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+3. Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+4. Agravo regimental não provido.
+(AgRg no HC n. 905.056/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/8/2024, DJe de 23/8/2024, grifei.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, com a recomendação de que o Juízo de primeira instância priorize o julgamento do processo.
+Publique-se. Intimem-se.
+ EMENTA
