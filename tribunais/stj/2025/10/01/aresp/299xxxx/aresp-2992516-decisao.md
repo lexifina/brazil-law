@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CLOTILDE GOMES E CUNHA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/06/2025.
+Concluso ao gabinete em: 21/08/2025.
+Ação: de obrigação de fazer c/c com indenização por danos materiais e morais, proposta por CLOTILDE GOMES E CUNHA contra BACOS CONSTRUTORA LTDA., visando à condenação da ré a substituir a rede interna de gás da unidade da autora (Condomínio Praias Oceânicas) e ao pagamento de indenizações, em razão de vazamentos de gás constatados por laudos de vistoria e testes de estanqueidade em parte das unidades do condomínio, bem como de alegado vício oculto e falha do material empregado na tubulação.
+Sentença: reconheceu a relação de consumo, mas entendeu não comprovado vício construtivo na rede secundária, assentando que o material empregado foi adequado, que a perícia não encontrou falhas na execução e que parte dos problemas decorre da necessidade de manutenção pelo condomínio após 13 anos de uso. Concluiu que a autora não comprovou o fato constitutivo de seu direito.
+Acórdão: do TJ/RJ negou provimento ao apelo da autora, ora agravante, nos termos da seguinte ementa (e-STJ fls. 851/852):
+Direito do Consumidor. Apelação cível. Ação de obrigação de fazer c/c indenizatória ajuizada por condômino em face de construtora. Vazamento de gás em alguns apartamentos do condomínio onde reside a autora. Vazamento que ocorreu 13 anos após a construção do empreendimento imobiliário. Alegação de vício construtivo e de vício oculto. Sentença de improcedência. Recurso da autora. Desprovimento. I. CASO EM EXAME 1. Apelação contra sentença que julgou improcedente o pedido autoral para que a ré fosse condenada a proceder as obras de substituição da rede interna/secundária de gás da unidade autônoma da autora e a indenizar os danos materiais e morais sofridos pela autora. II. QUESTÃO EM DISCUSSÃO 2. Falha na prestação do serviço da construtora ré a ensejar o dever de reparar o dano. III. RAZÕES DE DECIDIR 3. A perícia judicial concluiu que a provável causa para o vazamento de gás foi a falha no material empregado na tubulação de gás. No entanto, a perícia também concluiu que o material empregado na tubulação de gás estava de acordo com as normas técnicas da época da construção do empreendimento imobiliário. 4. Não ficou comprovado, portanto, que houve falha na prestação dos serviços da empresa ré. 5. Parte autora que não comprovou o fato constitutivo de seu direito. 6. Sentença de improcedência mantida. IV. DISPOSITIVO 7. Apelação cível conhecida e desprovida.
+Embargos de Declaração: opostos pela agravante foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC; 12, caput e §§ 1º e 3º, II e III, 14, § 3º, 17 e 18 do CDC, bem como dissídio jurisprudencial. Sustenta negativa de prestação jurisdicional por não ter sido enfrentado o argumento de que se deve aplicar ao caso a responsabilidade objetiva e determinar a distribuição do ônus da prova de acordo com o CDC. Argumenta que a conformidade com norma técnica não afasta a responsabilidade em caso de acidente de consumo. Requer a anulação do acórdão ou, sucessivamente, a reforma do decisum recorrido para condenar a recorrida a cumprir a obrigação de refazimento da instalação da rede secundária na unidade autônoma, bem como ao pagamento de indenização por danos materiais e morais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da impossibilidade de responsabilização da recorrida pelos danos alegados na inicial.
+A esse respeito, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 861/862):
+Ante a responsabilidade objetiva do prestador de serviço, o dever de indenizar somente será afastado caso se comprove a ocorrência de uma das excludentes da responsabilidade, quais sejam, que o defeito inexiste ou que decorreu de culpa exclusiva do consumidor ou de terceiro, na forma do art. 14, § 3º, do CDC.
+No caso dos autos, foi realizada perícia judicial, tendo o perito consignado no laudo que a provável causa para o vazamento de gás que ocorreu em 20% das unidades autônomas do condomínio onde reside a autora foi a falha no material empregado na tubulação de gás (..).
+No entanto, a perícia também concluiu que o material empregado na tubulação de gás estava de acordo com as normas técnicas da época da construção do empreendimento imobiliário (..).
+Logo, não ficou comprovado nos autos que houve falha na prestação dos serviços da empresa ré, qual seja, vício oculto no material empregado na construção do imóvel.
+Portanto, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp n. 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp n. 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Do reexame de fatos e provas
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à possibilidade de responsabilização da recorrida pelos danos alegados, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (possibilidade de responsabilização da recorrida pelos danos alegados), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, majoro em 3% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de obrigação de fazer c/c com indenização por danos materiais e morais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
