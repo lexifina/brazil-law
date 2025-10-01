@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FEDERAÇÃO NACIONAL DOS POLICIAIS RODOVIÁRIOS FEDERAIS e OUTROS contra decisão por mim proferida, às e-STJ fls. 609/611, em que, após reconsiderar e tornar sem efeito a anterior decisão, determinei o sobrestamento do recurso especial até a realização do juízo de conformação pela Corte de origem com o acórdão proferido em recurso especial repetitivo (Tema 1.309 - "Saber se os sucessores do servidor falecido antes da propositura da ação coletiva podem executar a sentença condenatória"), bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência fosse efetivada.
+Nas razões, a parte requerente sustenta que a situação dos autos, por envolver substituição processual de pensionistas por entidade sindical, e não sucessão hereditária de crédito, não estaria relacionada ao Tema 1.309 do STJ. Alega que os pensionistas têm titularidade própria de direito reconhecido judicialmente, o que difere da relação jurídica discutida no referido tema. Afirma, ainda, que o Superior Tribunal de Justiça possui entendimento consolidado quanto à legitimidade extraordinária dos sindicatos para representar pensionistas, independentemente do momento do falecimento do servidor.
+Sem impugnação.
+Passo a decidir.
+Inicialmente, embora não seja cabível agravo interno contra decisão do relator que determina a devolução dos autos à origem para fins de realização de juízo de conformidade com precedente repetitivo, sopesando a natureza da pretensão ora deduzida e os princípios da economia e celeridade processuais, entendo por bem receber o presente como o pedido de distinção de que trata o art. 1.037, §§ 9º e 10º, do CPC/2015.
+Feita essa consideração, verifica-se que não assiste razão à requerente, pois entre os exequentes não figuram apenas pensionistas, mas também herdeiros (e-STJ fl. 81, v.g.), motivo pelo qual a resolução da controvérsia pressupõe a aplicação (ou não), ao caso dos autos, do precedente repetitivo firmado n o Tema 1.309 do STF.
+Ante o exposto, RECEBO o agravo interno como pedido de distinção, o qual INDEFIRO.
+CORRI JA-SE a autuação, a fim de que a Petição 00483482/2025 passe a constar como pedido de distinção.
+Publique-se. Intimem-se.
+EMENTA
