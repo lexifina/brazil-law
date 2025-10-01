@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALISON DA COSTA NUNES, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"APELAÇÃO CRIMINAL. FURTO QUALIFICADO. RECURSO DEFENSIVO.
+Impossibilidade de aplicação do artigo 155, § 2º, do Código Penal, diante de conduta social nociva.
+Recurso desprovido." (e-STJ, fl. 264)
+A defesa requer, em síntese, o reconhecimento do furto privilegiado (art. 155, §2º, do CP), por entender presentes os requisitos legais. Salienta que "as condenações mencionadas pelo E. Tribunal transitaram em julgado no curso desta ação. Portanto, para fins de aplicação da pena neste processo, o recorrente é, tecnicamente, considerado primário." (e-STJ, fl. 301)
+O recurso foi admitido na origem (e-STJ, fls. 344-346).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial, consoante parecer assim ementado:
+"RECURSO ESPECIAL. FURTO QUALIFICADO. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 155, § 2º DO CP. RECONHECIMENTO DO FURTO PRIVILEGIADO. DIREITO SUBJETIVO. REQUISITOS OBJETIVOS. PEQUENO VALOR DA RES, PRIMARIEDADE E QUALIFICADORA DE ORDEM OBJETIVA (SÚMULA Nº 511/STJ). POSSIBILIDADE DA PRETENSÃO. PARECER PELO CONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL.
+- É firme a jurisprudência desse Superior Tribunal de Justiça no sentido de que o reconhecimento do privilégio legal é um direito subjetivo do réu, cujo deferimento exige a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada, que deve ter como parâmetro o valor do salário mínimo vigente à época dos fatos (AgRg no REsp n. 1.486.001/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, D Je 13/5/2015).
+- In casu, além de a res furtiva possuir valor inferior a 1 (um) salário mínimo, o acusado não detinha, à época dos fatos, condenação transitada em julgado, uma vez que as condenações definitivas também por furtos qualificados que se deram nos autos dos Processos nºs 0005115-84.2022.8.26.0566 e 1503452-55.2024.8.26.0566, transitaram em julgado em 19.03.2024 e 12.08.2024, respectivamente, de modo que, quando da prática do delito a que se refere o processo em epígrafe (23.12.2023), o Recorrente era tecnicamente primário.
+- Ademais, verifica-se que a qualificadora é de ordem objetiva (arrombamento) - Súmula 511/STJ, motivo pelo qual é de rigor o reconhecimento do furto na forma do art. 155, § 2º do Código Penal.
+- Parecer pelo provimento do recurso especial." (e-STJ, fl. 354)
+É o relatório.
+Decido.
+Conforme se extrai dos autos, o recorrente foi condenado como incurso nos artigos 155, § 4º, inciso I, e 329, caput, ambos do Código Penal, às penas de 2 (dois) anos de reclusão, no regime aberto (com substituição da pena), mais 10 dias-multa pelo furto e 10 dias-multa pela resistência.
+No que se refere à figura do furto privilegiado, o art. 155, § 2º, do Código Penal, impõe a aplicação do benefício penal na hipótese de adimplemento dos requisitos legais da primariedade e do pequeno valor do bem furtado, assim considerado aquele inferior ao salário mínimo vigente ao tempo do fato, tratando-se, pois, de direito subjetivo do réu, embora o dispositivo legal empregue o verbo "poder", não configurando mera faculdade do julgador a sua concessão.
+Na espécie, o acórdão recorrido, não obstante tenha negado provimento ao pedido de reconhecimento do furto privilegiado, atestou a subsunção aos requisitos legais do benefício penal, pois reconheceu ser o réu tecnicamente primária e a res futivae de valor inferior ao salário-mínimo vigente à época dos fatos.
+Para melhor compreensão da controvérsia, transcrevo o seguinte trecho do aresto impugnado:
+"3. Consta da denúncia que "no dia 23 de dezembro de 2023, por volta das 19h25, na Rua Conselheiro Soares Brandão, nesta cidade e comarca de São Carlos, ALISON DA COSTA NUNES, qualificado a fls. 7, subtraiu para si, mediante arrombamento, uma antena parabólica (auto de apreensão de fls. 11), bem avaliando em R$ 40,00 (valor de sucata), pertencentes à vítima Ruy Marcio Quintela.
+Consta, ainda, que no dia 23 de dezembro de 2023, por volta das 19h25, na Rua Conselheiro Soares Brandão, nesta cidade e comarca de São Carlos, ALISON DA COSTA NUNES, qualificado a fls. 7, opôs-se à execução de ato legal, mediante violência empregada ao policial militar Marcos Roberto Ribeiro, que era responsável por executar a sua detenção.
+Segundo apurado, o denunciado invadiu uma clínica desativada, mediante arrombamento do portão metálico da frente e dos fundos, bem como um uma porta social que dava acesso ao interior do imóvel (laudo pericial de fls. 69/71) e subtraiu uma antena parabólica. Além disso desmontou os espelhos metálicos e estrutura do box do banheiro, todavia, deixou estas estruturas no local, com o intuito de buscá-las posteriormente.
+O morador vizinho ao local dos fatos, José Elias Laier, escutou um barulho estranho vindo da clínica que estava fechada e ao analisar as câmeras de monitoramento da sua residência, visualizou um indivíduo deixando o local portando uma antena parabólica.
+Em razão disso acionou a Polícia Militar que após diligências lograram êxito em localizar o denunciado no bairro Vila Pureza, sentado ao lado da res furtiva.
+Alison reagiu a sua abordagem e detenção desferindo chutes que atingiram o policial Marcos Roberto Ribeiro na testa, causando-lhe lesões corporais, conforme laudo médico apresentado a fls. 24.
+Interrogado, o indiciado admitiu ter furtado a antena parabólica e deixado os demais objetos no local dos fatos, para buscá-lo posteriormente, além de admitir que resistiu a sua prisão" (fls. 78/9).
+4. O inconformismo não comporta acatamento.
+A despeito do pequeno valor da res, a regra consubstanciada no artigo 155, § 2º, do Código Penal não poderia mesmo ser aplicada à vista da conduta social deletéria apresentada por Alison (ostenta condenações definitivas também por furtos qualificados nos autos dos Processos nºs 0005115-84.2022.8.26.0566 e 1503452-55.2024.8.26.0566; trânsito em julgado aos 19.03.2024 e 12.08.2024, respectivamente)." (e-STJ, fls. 538-547).
+Desse modo, uma vez que se trata de agente tecnicamente primário e o valor do bem furtado não ultrapassa o salário-mínimo vigente à época dos fatos, imperiosa a aplicação do privilégio previsto no art. 155, § 2º, do Código Penal.
+Assim, passo ao redimensionamento de sua reprimenda.
+Na primeira fase, mantenho a pena-base no mínimo legal
+Na etapa intermediária, a atenuante da confissão não tem o condão de reduzir a pena aquém do mínimo legal.
+Na terceira fase, aplica-se o benefício do §2º do art. 155 do CP, o qual possibilita ao juiz substituir a pena de reclusão pela de detenção, diminui-la de um a dois terços, ou aplicar somente a pena de multa, se o réu for primário e a coisa furtada de pequeno valor.
+Na espécie, conquanto o réu ostente duas condenações transitadas em julgado e passíveis de serem consideradas como maus antecedentes, o bem furtado é imprestável e tem valor irrisório - uma antena parabólica velha avaliada como sucata (valor aproximado de R$ 40,00); assim, considero a diminuição da pena carcerária na fração de 2/3 como suficiente e necessária à reprovação da conduta.
+Desse modo, a sanção do recorrente fica definitivamente estabelecida em 8 meses de reclusão, mantidos os demais termos da condenação, inclusive o regime aberto e a substituição da pena.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para reconhecer a incidência do privilégio previsto no § 2º do art. 155 do Código Penal e redimension ar a pena, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
