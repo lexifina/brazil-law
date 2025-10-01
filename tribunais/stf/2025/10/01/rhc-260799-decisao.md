@@ -1,0 +1,109 @@
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI Nº 11.343/06. ALEGADA NULIDADE DA PROVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. MANTIDA A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF. Prejudicado o exame do pedido liminar.
+
+    Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão do Superior Tribunal de Justiça no HC nº 998.342, in verbis:
+
+    “DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. NULIDADE DE PROVA. ESCUTA AMBIENTAL. AGRAVO IMPROVIDO.
+
+    I. CASO EM EXAME
+
+    1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor da agravante, que pretendia o reconhecimento da nulidade de prova produzida de forma ilegal e sua consequente absolvição.
+
+    2. O Tribunal de origem refutou a alegação de coação por parte dos policiais e afirmou a presunção de legitimidade dos atos praticados por agentes públicos, destacando que a defesa não demonstrou abuso na atuação policial. A decisão também diferenciou interceptação telefônica de escuta e gravação telefônicas, afirmando que estas últimas não estão sujeitas à Lei nº 9.296/1996.
+
+    II. QUESTÃO EM DISCUSSÃO
+
+    3. A questão em discussão consiste em saber se a prova obtida por meio de escuta ambiental, sem autorização judicial, é nula e se a ausência de mandado de busca e apreensão invalida o flagrante em casos de tráfico de drogas.
+
+    III. RAZÕES DE DECIDIR
+
+    4. A escuta ambiental não se confunde com interceptação telefônica e, portanto, não está sujeita à Lei nº 9.296/1996, podendo ser utilizada como prova, desde que não haja induzimento ou intervenção do Estado na conduta do criminoso.
+
+    IV. DISPOSITIVO E TESE
+
+    5. Agravo improvido.
+
+    Tese de julgamento: ‘1. A escuta ambiental não se confunde com interceptação telefônica e não está sujeita à Lei nº 9.296/1996.’”
+
+    Colhe-se dos autos que a recorrente foi condenada à pena de 09 (nove) anos de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 33, c/c art. 40, VI, da Lei nº 11.343/2006. Foram apreendidas 234 porções de cocaína, com peso de 152,8g.
+
+    Em sede de apelação, o Tribunal de origem manteve integralmente a sentença.
+
+    Irresignada, a defesa manejou habeas corpus perante o Superior Tribunal de Justiça, julgado nos termos da ementa acima transcrita.
+
+    No presente recurso, a defesa sustenta a existência de constrangimento ilegal consubstanciado na suposta ilicitude da prova.
+
+    Aduz que “houve a abordagem dos envolvidos sem a fundada suspeita”. Aponta, também, que “os agentes determinaram que o menor atendesse a ligação no modo ‘viva-voz’, possibilitando o acesso imediato ao conteúdo da comunicação com a recorrente”. Argumenta que se trata de “intervenção estatal direta e ativa, não apenas para registrar uma conversa, mas para criar artificialmente a situação de captação da comunicação telefônica — tudo sem qualquer autorização judicial e com violação flagrante ao princípio do nemo tenetur se detegere”. Sustenta que “a escuta telefônica foi forçada, dirigida, sem espontaneidade, e, portanto, revestida de nulidade absoluta”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Diante do exposto, requer seja o presente recurso CONHECIDO e PROVIDO, mediante:
+
+    1- A concessão da ordem LIMINAR inaudita altera parte, a fim de que seja determinada a imediata suspensão da pretensão executória até o julgamento final do presente habeas corpus, eis que a recorrente encontra-se na iminência de ser presa em virtude do mandado de prisão decorrente do trânsito em julgado da sentença penal condenatória;
+
+    2- Seja, ao final, deferida em definitivo a presente ordem de habeas corpus de ofício, com a consequente declaração de NULIDADE da prova produzida em desfavor da recorrente, porquanto teve início com a abordagem realizada ao menor LUIZ HENRIQUE, sem qualquer fundada suspeita, e, ainda, ante a coação ilegal praticada pelos milicianos, ao determinarem o acionamento do comando de viva-voz do aparelho telefônico de LUIZ HENRIQUE a fim de que fosse possível ter conhecimento da conversa travada entre ambos, o que resultou em posterior prisão em flagrante da recorrente, o que configura violação do princípio do “nemo tenetur se detegere”, e, via reflexa, resulta na NULIDADE da prova produzida e dela derivada.”
+
+    Em parecer, a Procuradoria-Geral da República se manifestou nos seguintes termos:
+
+    “Penal e Processual Penal. Recurso ordinário em habeas corpus. Tráfico de drogas. 152,8g de cocaína. Abordagem policial realizada em patrulhamento de rotina. Ausência de demonstração de fundadas suspeitas que justificassem a busca pessoal. Sigilo das comunicações telefônicas. Violação.
+
+    – Requer-se o provimento do recurso, para anular as provas, ante a ilegalidade da abordagem policial, e absolver a recorrente.”
+
+    É o relatório, DECIDO.
+
+      In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] Pretende a agravante seja reformada a decisão agravada, a fim de que seja reconhecida a nulidade da prova produzida, por ter sido colhida de forma ilegal, e sua consequente absolvição.
+
+    Contudo, a ela não assiste razão.
+
+    [...]
+
+    Entendo adequadas as conclusões vertidas pelo Tribunal de origem. Não houve induzimento dos policiais que maculasse a busca pessoal, tendo o telefone tocado espontaneamente, apenas sendo determinado que a ligação fosse atendida no modo viva-voz. Não é hipótese de interceptação telefônica, quando um terceiro grava a conversa sem conhecimento dos interlocutores, mas sim escuta ambiental, o que afasta a incidência da Lei n. 9.296/96.
+
+    Trata-se, pois, de flagrante esperado, que difere do preparado exatamente pela ausência de intervenção do Estado na conduta do criminoso, meramente sendo aguardado que o crime seja cometido. Cito precedente:
+
+    [...]
+
+    Ante o exposto, nego provimento ao agravo regimental.”
+
+    Na espécie, consoante se depreende da fundamentação do Tribunal a quo, “não houve induzimento dos policiais que maculasse a busca pessoal”, sendo certo que “não é hipótese de interceptação telefônica”.
+
+    Com efeito, as instâncias precedentes concluíram que não há prova inequívoca de que o adolescente tenha sido coagido pelos policiais a atender a ligação no modo viva-voz. Nessa linha, o Tribunal de origem destacou que “cumpre refutar a alegação de que os policiais militares atuantes teriam coagido o adolescente. Não há nenhum indicativo que ampare tal versão. Os atos praticados pelos policiais no exercício da função, enquanto agentes públicos, gozam de presunção de legitimidade e legalidade. Cabe à defesa ilidir tal presunção, demonstrando, de forma concreta e objetiva, eventual abuso na atuação, o que não ocorreu até o momento”.
+
+    Destarte, eventual exame da pretensão defensiva para divergir do entendimento fixado nas instâncias precedentes, demandaria uma indevida incursão na moldura fática delineada nos autos. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Assim, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE PROVIMENTO. BUSCA DOMICILIAR. AUTORIZAÇÃO DO MORADOR REGISTRADA POR MEIO DAS CÂMERAS CORPORAIS DOS POLICIAIS. AUSÊNCIA DE ILEGALIDADE. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. A conclusão de que o morador consentiu com o ingresso dos policiais a um só tempo valida a entrada destes em sua residência e tornaa fonte de produção de prova independente em relação à busca pessoal maculada. 3. Conclusão diversa somente poderia ser alcançada mediante reexame das premissas fático-probatórias que lastrearam o entendimento das instâncias antecedentes, providência inviável em sede de habeas corpus. 4. Agravo regimental desprovido. (RHC 246.486-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/11/2024)
+
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPORTAÇÃO E EXPOSIÇÃO À VENDA DE PRODUTO SEM REGISTRO NA ANVISA E DE PROCEDÊNCIA DESCONHECIDA. BUSCA DOMICILIAR AUTORIZADA PELO ACUSADO. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL . 1. A jurisprudência consolidada deste Supremo Tribunal Federal é no sentido de que o art. 5º, XI, da Constituição Federal, a versar a inviolabilidade domiciliar, pressupõe o ingresso indevido ou forçado de terceiros em domicílio alheio, razão pela qual o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência. Precedentes. 2. O acolhimento da pretensão defensiva – vício no consentimento para ingresso dos policiais – exigiria o reexame do conjunto fático-probatório da causa, medida incabível na via processualmente restrita do HC. 3. Inexiste situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem. 4. Agravo regimental a que se nega provimento. (HC 191.508-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 25/11/2020)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. ALEGADA ILICITUDE DAS PROVAS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. VIA INADEQUADA. ALEGAÇÕES FORMULADAS NÃO CONTEMPLADAS NO ATO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO TRANSITADA EM JULGADO. I. CASO EM EXAME 1. Paciente condenado à pena de 5 anos e 10 meses de reclusão, em regime fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006). II. QUESTÃO EM DISCUSSÃO 2. Impetração na qual se pleiteia o reconhecimento da nulidade das provas e, subsidiariamente, a revisão da pena. III. RAZÕES DE DECIDIR 3. A justa causa, em casos de busca pessoal, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito (CPP, art. 244). E, no particular, os questionamentos suscitados foram examinados e refutados pelas instâncias antecedentes com base no contexto fático em que se deu a prisão em flagrante; circunstância, portanto, insindicável nesta via estreita. Precedentes. 4. Conforme já decidiu esta CORTE, “Se um agente do Estado não puder realizar abordagem em via pública a partir de comportamentos suspeitos do alvo, tais como fuga, gesticulações e demais reações típicas, já conhecidas pela ciência aplicada à atividade policial, haverá sério comprometimento do exercício da segurança pública” (RHC 229514 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 23/10/2023). 5. Temas não examinados pela instância antecedente não podem ser conhecidos originariamente por esta SUPREMA CORTE, sob pena de indevida supressão de instância e violação das regras constitucionais de repartição de competências. Precedentes. 6. Além disso, “a verificação sobre a correta análise do conjunto probatório esbarra na inadequação da via eleita, em flagrante transformação do habeas corpus na segunda revisão criminal” (HC 90687, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJ 3/8/2007). IV. DISPOSITIVO 7. Agravo Regimental a que se nega provimento. (HC 258.211-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 3/9/2025)
+
+    A propósito, cumpre apontar que os atos praticados por agentes públicos gozam de presunção de legitimidade, razão pela qual não se admite presumir, sem prova em sentido contrário, a ocorrência de constrangimento ilegal na conduta policial. Nesse sentido:
+
+    Direito processual penal. Agravo regimental no recurso extraordinário com agravo. Busca e apreensão. Ingresso policial. Estabelecimento comercial. Fundadas razões. Flagrante delito. Legalidade das provas. Recurso desprovido. I. Caso em exame 1. Agravo regimental interposto contra decisão que negou seguimento a recurso extraordinário com agravo, insurgindo-se contra a validade da busca pessoal e do ingresso policial em estabelecimento comercial. 2. O recorrente pleiteia a declaração de nulidade da busca e ingresso policial, alegando a ausência de justa causa ou autorização judicial prévia e a inexistência de flagrante delito no momento da entrada, bem como a desnecessidade da apreensão de aparelhos eletrônicos. 3. O Juízo de primeiro grau declarou a nulidade da busca e apreensão e das provas dela derivadas, revogando as prisões temporárias dos investigados. O Tribunal de Justiça de Santa Catarina deu provimento ao recurso em sentido estrito interposto pelo Ministério Público para declarar a licitude da atuação policial e a validade das provas, considerando que o estabelecimento comercial estava em funcionamento e que havia fundadas razões baseadas em denúncias e investigações prévias. II. Questão em discussão 4. A questão em discussão consiste em saber sobre a licitude da busca pessoal e do ingresso policial em estabelecimento comercial, diante da alegação de ausência de justa causa ou autorização judicial prévia. III. Razões de decidir 5. A proteção da inviolabilidade domiciliar, conforme o art. 5º, XI, da Constituição Federal, não se estende de forma automática a estabelecimentos comerciais em funcionamento e acessíveis ao público. 6. A atuação policial se deu mediante justa causa, amparada em denúncias anônimas e prévia investigação sobre a prática de crimes como tráfico de drogas, receptação, contrabando e organização criminosa. 7. A palavra dos policiais é dotada de fé pública e presumidamente legítima, legitimando a abordagem feita pelos agentes públicos e a busca domiciliar. 8. O contrabando constitui crime permanente e autoriza, devido ao estado de flagrância, o ingresso no domicílio independentemente de mandado. Incide, em tal hipótese, uma das exceções à reserva jurisdicional prevista no art. 5º, XI, da Constituição Federal. 9. A revisão das premissas fáticas e probatórias adotadas pelo Tribunal de origem é vedada em recurso extraordinário, conforme Súmula nº 279/STF. IV. Dispositivo e tese 10. Agravo regimental conhecido e não provido. (ARE 1.519.821-AgR, Primeira Turma, Rel. Min. Flávio Dino, DJe de 10/9/2025)
+
+    Sob outra vertente, consoante consignado pela sentença de origem, o acesso ao conteúdo da ligação telefônica não se mostrou determinante para a persecução penal, tendo em vista que “os agentes já tinham localizado um bilhete com o número da conta da acusada e esta, minutos após, chegou ao local da abordagem em posse da quantidade de entorpecentes apreendidas nos autos”.
+
+    Nesse contexto, a hipótese sub examine guarda consonância com a orientação sufragada pelo Supremo Tribunal Federal. A propósito, colaciono o seguinte julgado:
+
+    HABEAS CORPUS. NULIDADES: (1) INÉPCIA DA DENÚNCIA; (2) ILICITUDE DA PROVA PRODUZIDA DURANTE O INQUÉRITO POLICIAL; VIOLAÇÃO DE REGISTROS TELEFÔNICOS DO CORRÉU, EXECUTOR DO CRIME, SEM AUTORIZAÇÃO JUDICIAL; (3) ILICITUDE DA PROVA DAS INTERCEPTAÇÕES TELEFÔNICAS DE CONVERSAS DOS ACUSADOS COM ADVOGADOS, PORQUANTO ESSAS GRAVAÇÕES OFENDERIAM O DISPOSTO NO ART. 7º, II, DA LEI 8.906/96, QUE GARANTE O SIGILO DESSAS CONVERSAS. VÍCIOS NÃO CARACTERIZADOS. ORDEM DENEGADA. 1. Inépcia da denúncia. Improcedência. Preenchimento dos requisitos do art. 41 do CPP. A denúncia narra, de forma pormenorizada, os fatos e as circunstâncias. Pretensas omissões – nomes completos de outras vítimas, relacionadas a fatos que não constituem objeto da imputação –- não importam em prejuízo à defesa. 2. Ilicitude da prova produzida durante o inquérito policial - violação de registros telefônicos de corréu, executor do crime, sem autorização judicial. 2.1 Suposta ilegalidade decorrente do fato de os policiais, após a prisão em flagrante do corréu, terem realizado a análise dos últimos registros telefônicos dos dois aparelhos celulares apreendidos. Não ocorrência. 2.2 Não se confundem comunicação telefônica e registros telefônicos, que recebem, inclusive, proteção jurídica distinta. Não se pode interpretar a cláusula do artigo 5º, XII, da CF, no sentido de proteção aos dados enquanto registro, depósito registral. A proteção constitucional é da comunicação de dados e não dos dados. 2.3 Art. 6º do CPP: dever da autoridade policial de proceder à coleta do material comprobatório da prática da infração penal. Ao proceder à pesquisa na agenda eletrônica dos aparelhos devidamente apreendidos, meio material indireto de prova, a autoridade policial, cumprindo o seu mister, buscou, unicamente, colher elementos de informação hábeis a esclarecer a autoria e a materialidade do delito (dessa análise logrou encontrar ligações entre o executor do homicídio e o ora paciente). Verificação que permitiu a orientação inicial da linha investigatória a ser adotada, bem como possibilitou concluir que os aparelhos seriam relevantes para a investigação. 2.4 À guisa de mera argumentação, mesmo que se pudesse reputar a prova produzida como ilícita e as demais, ilícitas por derivação, nos termos da teoria dos frutos da árvore venenosa (fruit of the poisonous tree), é certo que, ainda assim, melhor sorte não assistiria à defesa. É que, na hipótese, não há que se falar em prova ilícita por derivação. Nos termos da teoria da descoberta inevitável, construída pela Suprema Corte norte-americana no caso Nix x Williams (1984), o curso normal das investigações conduziria a elementos informativos que vinculariam os pacientes ao fato investigado. Bases desse entendimento que parecem ter encontrado guarida no ordenamento jurídico pátrio com o advento da Lei 11.690/2008, que deu nova redação ao art. 157 do CPP, em especial o seu § 2º. 3. Ilicitude da prova das interceptações telefônicas de conversas dos acusados com advogados, ao argumento de que essas gravações ofenderiam o disposto no art. 7º, II, da Lei n. 8.906/96, que garante o sigilo dessas conversas. 3.1 Nos termos do art. 7º, II, da Lei 8.906/94, o Estatuto da Advocacia garante ao advogado a inviolabilidade de seu escritório ou local de trabalho, bem como de seus instrumentos de trabalho, de sua correspondência escrita, eletrônica, telefônica e telemática, desde que relativas ao exercício da advocacia. 3.2 Na hipótese, o magistrado de primeiro grau, por reputar necessária a realização da prova, determinou, de forma fundamentada, a interceptação telefônica direcionada às pessoas investigadas, não tendo, em momento algum, ordenado a devassa das linhas telefônicas dos advogados dos pacientes. Mitigação que pode, eventualmente, burlar a proteção jurídica. 3.3 Sucede que, no curso da execução da medida, os diálogos travados entre o paciente e o advogado do corréu acabaram, de maneira automática, interceptados, aliás, como qualquer outra conversa direcionada ao ramal do paciente. Inexistência, no caso, de relação jurídica cliente-advogado. 3.4 Não cabe aos policiais executores da medida proceder a uma espécie de filtragem das escutas interceptadas. A impossibilidade desse filtro atua, inclusive, como verdadeira garantia ao cidadão, porquanto retira da esfera de arbítrio da polícia escolher o que é ou não conveniente ser interceptado e gravado. Valoração, e eventual exclusão, que cabe ao magistrado a quem a prova é dirigida. 4. Ordem denegada. (HC 91.867, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 20/09/2012)
+
+    Por fim, não cabe a rediscussão da matéria perante esta Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217.371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+    Ex positis, NEGO SEGUIMENTO ao recurso ordinário em habeas corpus, com fundamento no artigo 21, § 1º, do RISTF. Prejudicado o exame do pedido liminar.
+
+    Publique-se.
+
+    Brasília, 25 1º de outubro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
