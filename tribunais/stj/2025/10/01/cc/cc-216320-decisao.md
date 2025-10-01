@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o JUÍZO DE DIREITO DA UNIDADE REGIONAL DE DEPARTAMENTO ESTADUAL DE EXECUÇÃO CRIMINAL DEECRIM 4ª RAJ DE CAMPINAS - SP, suscitante, e o JUÍZO DE DIREITO DA VARA DAS EXECUÇÕES PENAIS DO RIO DE JANEIRO - RJ, suscitado.
+O Juízo de Direito da Vara das Execuções Penais do Rio de Janeiro - RJ declinou de sua competência para dar andamento a execução penal sob o entendimento de que o sentenciado estaria preso em outro Estado (fl. 15).
+O Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal Deecrim 4ª RAJ de Campinas - SP, por sua vez, suscitou o conflito, por entender que o executado não possui vínculos familiares com o Estado de São Paulo, não possui processo criminal ou de execução tramitando contra ele nesta unidade da Federação e por não haver vagas no sistema prisional paulista (fls. 16-18).
+O Ministério Público Federal manifestou-se pela competência do Juízo de Direito da Vara das Execuções Penais do Rio de Janeiro - RJ (fls. 27-29).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+No caso dos autos, o apenado foi capturado no Estado de São Paulo em decorrência de mandado de prisão que havia sido expedido contra ele (fl. 7).
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é o competente para a execução das penas impostas, de modo que o cumprimento do mandado de prisão em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento da competência. Confira-se:
+" ..  Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018." (CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+No mesmo sentido: CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022; AgRg no CC n. 182.840/DF, Terceira Seção, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/11/2021.
+Ressalto, ainda, que a transferência legal da competência para a execução da pena exige consulta prévia ao juízo de destino, sobretudo para verificar a existência de vagas no sistema prisional, o que não ocorreu na hipótese em análise.
+A propósito:
+" ..  A transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local." (AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022)
+No caso dos autos, embora o reeducando tenha sido preso no Estado de São Paulo, em razão do cumprimento de mandado de prisão, tal fato não desloca a competência para a execução penal, que continua sendo do juízo da condenação.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara das Execuções Penais do Rio de Janeiro - RJ, ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
