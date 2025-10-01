@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por BARTOLOMEU MIRANDA COUTINHO E OUTRO contra decisão que inadmitiu o recurso especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, a todos os fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+A respeito da impugnação à decisão de inadmissibilidade, a jurisprudência do STJ é pacífica no sentido de que " a  decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018), de modo que não se conhece do AREsp na falta de impugnação específica de qualquer fundamento da decisão que inadmite o recurso especial.
+Na espécie dos autos, as razões do AREsp, por genéricas e dissociadas, não impugnam especificamente os seguintes fundamentos: (i) óbice da Súmula 7/STJ, considerando a fundamentação do acórdão de que a matéria controversa alegada demanda dilação probatória, sendo inadequada a via da exceção de pré-executividade; (ii) Súmulas 211/STJ e 282/STF, por falta de prequestionamento da alegada violação do § 5º do art. 219 do CPC/2015.
+No caso , a parte agravante alega a não incidência da Súmula 7/STJ, ao argumento de que a questão não exige reexame de provas e que o "acórdão recorrido aplicou equivocadamente o marco prescricional ou computou de forma incorreta o prazo legal,  .. " (fl. 1.297).
+Com efeito, evidencia-se que as razões do AREsp para impugnar a Súmula 7/STJ são dissociadas dos fundamentos adotados na decisão de inadmissibilidade para a aplicação do referido óbice.
+Ocorre que, para impugnar especificamente a Súmula 7/STJ, não basta a mera alegação de que a questão é meramente de interpretação jurídica, a parte agravante deve demonstrar de que maneira a análise da questão jurídica sobre a qual a decisão aplicou o referido óbice sumular não dependeria do reexame de provas, vedada a modificação das premissas fixadas no acórdão - o que não ocorreu.
+Quanto ao óbice de falta de prequestionamento, alega que "a prescrição foi alvo de prequestionamento implícito" (fl. 1.298), incorrendo em argumentação genérica.
+No ponto, a agravante cinge-se a alegar ocorrido o seu prequestionamento implícito, sem, contudo, trazer trechos da fundamentação adotada no acórdão demonstrando que a Corte a quo teria manifestado juízo de valor aos referidos normativos para a solução da controvérsia, mesmo não os havendo expressamente citado.
+Segundo a jurisprudência do STJ:
+Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto (AgRg no Ag n. 1.372.127/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/3/2011, DJe de 4/4/2011).
+Tem-se o prequestionamento implícito quando o órgão julgador, embora não tenha feito menção expressa aos dispositivos legais tidos por violados, emite juízo de valor a respeito da questão jurídica deduzida no recurso especial (AgInt nos EDcl no REsp n. 1.700.117/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/10/2019, DJe de 6/11/2019).
+Assinale-se que não supre o princípio da dialeticidade, cumprindo-se com a impugnação específica, requisito legal de admissibilidade do AREsp, nos termos do disposto nos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ, a falta de confronto direto e pertinente contra o que pontualmente consta na decisão de inadmissibilidade, para fins de demonstrar o seu desacerto.
+Assim, ao agravante impões o ônus de Assim, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando, de forma clara, objetiva e concreta, o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+A propósito, na parte que interessa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DO DEMANDANTE.
+1. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.199.998/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO INATACADO.  ..
+ ..
+5. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+ ..
+(AgInt no AREsp n. 1.715.725/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+ ..
+(AgInt no AREsp 993.261/MS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/8/2017, DJe 30/8/2017)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
