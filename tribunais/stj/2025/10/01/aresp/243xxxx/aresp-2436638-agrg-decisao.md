@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO RIO GRANDE DO NORTE contra decisão monocrática de minha lavra que conheceu do agravo para não conhecer do recurso especial (fls. 666/668).
+Na origem, o Tribunal local deu parcial provimento à apelação da defesa para absolver o réu, OSCAR SILVA LISBOA, do crime de dano qualificado (aplicando o princípio da consunção) e redimensionar a pena pelo crime de furto qualificado, fixando o regime semiaberto (fls. 535/538).
+O Ministério Público interpôs recurso especial (fls. 585/599), que foi inadmitido na origem (fls. 605/617). Seguiu-se a interposição de agravo em recurso especial (fls. 619/632).
+Na decisão ora agravada, conheci do agravo, mas neguei conhecimento ao recurso especial com base na Súmula 7/STJ, no que tange à aplicação do princípio da consunção e à dosimetria; bem assim entendi pela não violação do art. 619 do CPP.
+Nas razões do regimental, o agravante reitera a violação dos arts. 619 do Código de Processo Penal, bem como dos arts. 33, § 3º, 59, 155, § 4º, IV, e 163, parágrafo único, III, todos do Código Penal, sustentando o afastamento da Súmula 7/STJ para reanálise da dosimetria da pena e do regime prisional (fls. 674/683).
+É o relatório.
+O agravo comporta conhecimento, porquanto houve a devida impugnação dos fundamentos da decisão agravada. O recurso especial, no entanto, merece parcial provimento.
+No que tange à alegada ofensa ao art. 619 do Código de Processo Penal e à aplicação do princípio da consunção, mantenho a decisão agravada por seus próprios fundamentos.
+Com efeito, não há violação do art. 619 do Código de Processo Penal, na medida em que o Tribunal de origem apreciou a questão, decidindo, porém, de modo diverso do quanto pretendido pelo agravante.
+A questão foi assim enfrentada na origem (fl. 537 - grifo nosso):
+ ..
+10. Com efeito, vislumbra-se no caso ser o crime de dano um meio necessário para o cometimento do furto, conforme asseverou a douta PJ (ID 18258199):
+".. No caso em concreto, (Id. conforme narrado pela denúncia 18180874 - página 139), o apelante danificou o quadro elétrico da Companhia de Águas e Esgotos do Estado do Rio Grande do Norte - CAERN ara obter êxito na subtração dos bens mencionados no Auto de Exibição e Apreensão de Id. 18180695 - página 13.. De fato, a danificação do quadro elétrico não possui desígnio autônomo ao do crime de furto, razão pela qual possui a natureza de crime-meio necessário à consecução da infração penal final, atraindo, portanto, o princípio da consunção..".
+ ..
+Por outro lado, quanto ao mérito, para afastar a compreensão da Corte local quanto à absorção do crime de dano pelo de furto, por considerá-lo crime meio, demandaria a redefinição da premissa fática adotada no acórdão. Providência vedada pelo enunciado da Súmula 7/STJ. Nesse sentido: AgRg no AgRg no REsp n. 2.105.592/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/3/2025, DJEN de 2/4/2025.
+Contudo, no que se refere à dosimetria da pena, a irresignação prospera em parte.
+O Tribunal de origem afastou a valoração negativa da culpabilidade e das circunstâncias do crime, ao fundamento de que teria havido bis in idem, pois o magistrado sentenciante utilizou elementos inerentes às qualificadoras do furto (rompimento de obstáculo e concurso de agentes).
+Ocorre que o próprio acórdão recorrido, confirmando a sentença, reconheceu a presença de três qualificadoras, conforme se extrai do seguinte trecho (fl. 537 - grifo nosso):
+ ..
+ ..  "Com efeito, no caso dos autos, o acusado acompanhado de comparsa, utilizando uma vara, violou cerca concertina de proteção do muro da Estação Elevatória de Esgotos do Preá da CAERN e realizou escalada para adentrar ao imóvel, circunstância que demonstra a elevada culpabilidade de OSCAR  ..  além de estar acompanhado de comparsa, o acusado rompeu obstáculo a subtração da coisa ao utilizar uma pedra de paralelepípedo e quebrar dois cobogóis para adentrar à sala de máquinas  .. ".
+ ..
+Conforme a pacífica jurisprudência desta Corte Superior, havendo mais de uma qualificadora, é plenamente possível que uma delas seja utilizada para qualificar o delito, enquanto as demais sejam valoradas como circunstâncias judiciais desfavoráveis na primeira fase da dosimetria. Nesse sentido: AgRg no REsp n. 2.153.223/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+No caso, utilizando-se o concurso de agentes para qualificar o delito (art. 155, § 4º, IV, do CP), as qualificadoras de rompimento de obstáculo (inciso I) e escalada (inciso II) podem ser usadas para exasperar a pena-base. Adicionando-se a essas a circunstância judicial das consequências do crime, já admitida pela Corte local em razão do elevado prejuízo (fl. 538), tem-se três vetores negativos.
+Assim, a pena-base deve ser fixada em 4 anos e 3 meses de reclusão e 24 dias-multa, elevando-a em 3/8 sobre o mínimo legal. Na segunda fase, presente a atenuante da confissão espontânea, a pena deve ser reduzida em 1/6, tornando-se definitiva em 3 anos, 6 meses e 15 dias de reclusão, à míngua de outras causas de aumento ou diminuição, e 20 dias-multa. Adotando-se o valor do dia-multa no mínimo legal (art. 49, § 1º, do CP).
+Quanto ao regime prisional, embora a pena seja inferior a 4 anos, a presença de circunstâncias judiciais desfavoráveis impede a fixação do regime aberto, sendo o semiaberto o mais adequado, nos termos do art. 33, §§ 2º e 3º, do Código Penal. A propósito: AgRg no HC n. 445.476/RJ, de minha relatoria, Sexta Turma, julgado em 26/5/2020, DJe de 4/6/2020.
+Em razão do exposto, reconsidero a decisão de fls. 666/668, a fim de conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe parcial provimento para redimensionar a pena de OSCAR SILVA LISBOA para 3 anos, 6 meses e 15 dias de reclusão, mantido o regime inicial semiaberto, além de 20 dias-multa (art. 253, parágrafo único, II, c, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. FURTO QUALIFICADO. DOSIMETRIA. QUALIFICADORAS SOBRESSALENTES. VALORAÇÃO NEGATIVA NA PENA-BASE. POSSIBILIDADE. REGIME PRISIONAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+Decisão reconsiderada. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento.
