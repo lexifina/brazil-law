@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSÉ ROBERTO VENTURINELLI e RITA APARECIDA MARUBIO VENTURINELLI, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de anulação de escritura pública c/c direito de preempção e pedido de adjudicação compulsória, ajuizada por SANDRA MARA ALVES BAUMGARTNER, em face dos agravantes e de RAIMUNDO CÂNDIDO DA SILVA JUNIOR, em razão da violação do direito de preferência na aquisição de imóvel.
+Sentença: julgou extinto o processo, em razão da superveniente falta de interesse de agir (e-STJ fls. 991-996).
+Acórdão: não conheceu da apelação interposta pelos agravantes e deu parcial provimento à apelação interposta por RAIMUNDO, apenas para ajustar a condenação quanto aos honorários sucumbenciais, nos termos da seguinte ementa (e-STJ fls. 1146-1151):
+EMENTA. Apelação. Ação anulatória de escritura pública e adjudicação compulsória. Extinção do processo. Perda superveniente do interesse de agir. Inconformismo dos réus. Descabimento. Acordo homologado no processo relativamente a dois corréus, que resultou na extinção do processo. Corréus que prosseguiram nos atos processuais, contudo, indevidamente. Alegação de arrependimento do acordo homologado ou vício de vontade que deverá ser palco de ação própria. Apelo dos corréus não conhecido. Prosseguimento da ação com relação a apenas um réu. Falta superveniente do interesse de agir. Anterior ação de anulação de escritura de dação em pagamento, sobre os imóveis aqui discutidos, em que foi decidido pela anulação da alienação. Ação que envolveu o réu remanescente desta ação e os outros dois que firmaram acordo com a autora. Perda do objeto. Reconhecimento. apelo do réu remanescente apenas sobre a verba honorária sucumbencial. ônus imposto exclusivamente a ele. Necessidade de reciprocidade nessa condenação, à vista das circunstâncias. Reconhecimento. Apelação parcialmente provida para esse fim e apelação dos corréus não conhecida.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos (e-STJ fls. 1334-1336):
+i) ausência de violação dos arts. 489 e 1.022, do CPC;
+ii) ausência de demonstração da violação do art. 92, §3º, da Lei 4.504/1964, dos arts. 104, II e 884, do CC e do art. 485, VI, do CPC;
+iii) incidência da Súmula 7/STJ (quanto à alegação de violação do art. 92, §3º, da Lei 4.504/1964, dos arts. 104, II e 884, do CC e do art. 485, VI, do CPC); e
+iv) incidência da Súmula 284/STF (quanto à justiça gratuita e diferimento de custas, em razão da ausência de indicação do dispositivo de lei violado).
+Agravo em recurso especial: nas razões do presente recurso, além de apresentar em a síntese dos fatos, os agravantes transcrevem decisão que negou seguimento ao recurso especial e aduzem que o acórdão violou o art. 92, §3º, da Lei 4.504/1964, o art. 104, II, do CC e o art. 485, VI, do CPC (e-STJ fls. 1341-1347).
+RELATADO O PROCESSO, DECIDE-SE.
+Conforme salientado, o TJ/SP inadmitiu o recurso especial dos agravantes na decisão de e-STJ fls. 1334-1336. Entretanto, da análise das razões deduzidas neste agravo em recurso especial, constata-se que os agravantes transcrevem a decisão que inadmitiu o recurso especial de Raimundo Cândido da Silva Junior (e-STJ fls. 1337-1338) e defendem a sua reforma, aduzindo a violação do art. 92, §3º, da Lei 4.504/1964, do art. 104, II, do CC e do art. 485, VI, do CPC.
+Assim, ao analisar o agravo em recurso especial interposto, verifica-se que, além das razões apresentadas estarem nitidamente dissociadas das razões de decidir da decisão que inadmitiu o seu recurso especial, os agravantes não demonstraram, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) ausência de violação dos arts. 489 e 1.022, do CPC;
+ii) ausência de demonstração da violação do art. 884 do CC;
+iii) incidência da Súmula 7/STJ (quanto à alegação de violação do art. 92, §3º, da Lei 4.504/1964, dos arts. 104, II e 884, do CC e do art. 485, VI, do CPC); e
+iv) incidência da Súmula 284/STF (quanto à justiça gratuita e diferimento de custas, em razão da ausência de indicação do dispositivo de lei violado).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
