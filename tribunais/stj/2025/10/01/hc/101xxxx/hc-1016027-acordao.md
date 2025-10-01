@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, conhecer parcialmente do habeas corpus e, nessa parte, denegar a ordem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E EXTORSÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. USO DE INTIMIDAÇÃO E DE VIOLÊNCIA FÍSICA. CRIMES PRATICADOS EM OUTRO ESTADO DA FEDERAÇÃO DIFERENTE DO DOMICÍLIO DOS RÉUS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, vulnerada pela gravidade concreta do crime, haja vista que o paciente, de forma coordenada com os outros réus, realizava cobranças ilegais, utilizando-se de intimidação e de violência física contra as vítimas, havendo, inclusive, vídeos em que ele manuseava um chicote, que era usado nas extorsões.
+2. A conduta do réu em atravessar a fronteira de seu Estado de origem para realizar tais crimes evidencia que apenas a medida cautelar extrema é eficaz para neutralizar o risco de reiteração delitiva.
+3. Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SILVIO FAGUNDES DOMINGOS FILHO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC n. 0049784-51.2025.8.16.0000).
+Narram os autos que o paciente está preso preventivamente por suposta prática dos delitos descritos no art. 2º da Lei n. 12.850/2013 e no art. 158, § 1º e § 3º, do Código Penal.
+Neste mandamus, o impetrante alega, em síntese, ausência de fundamentos concretos para a prisão preventiva, destacando que o paciente possui condições pessoais favoráveis, como primariedade, bons antecedentes, ocupação lícita e residência fixa, além de ter família constituída
+Aduz que não há nos autos qualquer evidência que comprove a alegação de que há investigação por crime de associação ao tráfico de drogas mencionada na decisão recorrida, o que afasta a afirmação de que o paciente teria propensão à prática reiterada de delitos.
+Requer, inclusive liminarmente, a revogação da prisão preventiva, concedendo-se a liberdade provisória ao paciente ou a substituição por medidas cautelares diversas.
+A liminar foi indeferida pelo Ministro Luiz Felipe Salomão, Vice-Presidente desta Corte, no exercício da Presidência.
+Prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Juliano Baiocchi Villa-Verde de Carvalho, pela denegação da ordem (fls. 130/134).
+Em informações recentes, juntadas aos autos, foi noticiado que os autos se encontram com prazo em aberto às partes para eventuais diligências do artigo 402 do CPP (fl. 145).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E EXTORSÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. USO DE INTIMIDAÇÃO E DE VIOLÊNCIA FÍSICA. CRIMES PRATICADOS EM OUTRO ESTADO DA FEDERAÇÃO DIFERENTE DO DOMICÍLIO DOS RÉUS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, vulnerada pela gravidade concreta do crime, haja vista que o paciente, de forma coordenada com os outros réus, realizava cobranças ilegais, utilizando-se de intimidação e de violência física contra as vítimas, havendo, inclusive, vídeos em que ele manuseava um chicote, que era usado nas extorsões.
+2. A conduta do réu em atravessar a fronteira de seu Estado de origem para realizar tais crimes evidencia que apenas a medida cautelar extrema é eficaz para neutralizar o risco de reiteração delitiva.
+3. Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+VOTO
+A ordem não comporta concessão.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Vejamos, nos ponto, o que consta da decisão de prisão preventiva (fls. 30/33 - grifo nosso):
+ ..
+No caso dos autos verifico que, em liberdade, há risco concreto de reiteração delitiva pelos representados, motivo pelo qual a decretação da prisão preventiva objetiva impedir a reiteração das práticas criminosas.
+As informações obtidas pela Polícia Civil do Estado de São Paulo e concatenadas no relatório de investigação policial de mov. 1.31 dão conta de que os representados atuam como uma espécie de cobradores ilegais, valendo-se de ameaças, violência e, inclusive, uso de armas para realização das referidas cobranças. Vejamos os excertos do relatório policial:
+(..) as mensagens analisadas evidenciam uma relação próxima e constante entre SILVIO, UANDERSON E ALEF, demonstrando que os três atuam de forma coordenada na realização de cobranças ilegais, valendo- se de grave ameaça, intimidação e violência física contra as vítimas  .. .
+Foi identificado também que SILVIO é o proprietário do "chicote" utilizado nas extorsões, com vídeos em que o mesmo aparece manuseando o objeto. Informalmente, apurou-se que ele possui duas armas de fogo em sua residência, utilizadas para intimidação e execução das cobranças.
+ ..
+É possível observar ainda das imagens constantes no relatório que em determinados momentos das conversas de WhatsApp entre o representado SILVIO e o corréu ALEF eles tratam com naturalidade a prática da violência e das cobranças ilegais, inclusive um deles se autointitulando como bandido (mov. 1.31 - fls. 11 e 17):
+ ..
+É possível extrair dos autos, ainda, que a conduta dos representados se demonstrou de extrema gravidade, uma vez que as vítimas foram extorquidas, ameaçadas e também agredidas, sendo que Nelson foi privado de sua liberdade pelos representados, que o levaram contra sua vontade para outro local e obrigaram-no a efetuar transferências bancárias, pagamentos e a reconhecer dívidas para com os investigados.
+Percebe-se, então, que modus operandi o utilizado pelos representados Andrey, Uanderson e Silvio demonstra não serem eles neófitos na prática criminosa, uma vez que agiram com organização, estrutura e planejamento, tendo se deslocado do Estado de São Paulo até o Estado do Paraná para a prática delitiva.
+ ..
+A conduta dos representados de ultrapassar a barreira do seu Estado de origem para praticar os crimes demonstra que somente a medida cautelar extrema é capaz de neutralizar o risco de reiteração delitiva.
+Os representados percorreram mais de 600km de distância entre sua cidade (São José do Rio Preto/SP) até esta cidade de Corbélia/PR, conduta que reforça a demonstração de estrutura e planejamento que possuem para a prática de crimes, além de estar demonstrado que inclusive se hospedaram juntos antes de praticar o delito, conforme comprovante de hospedagem de mov. 1.29.
+Todas estas circunstâncias conhecidas nos autos revelam a necessidade de decretação da prisão preventiva dos representados com o fim de evitar que reiterem na prática criminosa, uma vez que demonstraram agir de forma coordenada, organizada e com estrutura e divisão de tarefas que conduz à conclusão de que, soltos, há possibilidade concreta que voltem a praticar crimes.
+Há notícia nos autos (mov. 1.30) de que os representados estão sendo investigados pela prática de outros crimes no Estado de São Paulo, cujas condutas podem envolver o tráfico interestadual de drogas, situação que enfatiza a necessidade da prisão preventiva para o rompimento dos representados com a prática de crimes.
+ ..
+O Tribunal de Justiça, por sua vez, concordando com os fundamentos apresentados pelo Juiz singular, manteve a prisão cautelar do paciente.
+É certo que algumas condutas causam maior repercussão, o que sugere a necessidade da segregação cautelar em prol da garantia da ordem pública.
+No caso dos autos, a custódia preventiva está idoneamente motivada, especialmente para a garantia da ordem pública, vulnerada pela gravidade concreta do crime, haja vista que o paciente, de forma coordenada com os outros réus, realizava cobranças ilegais, utilizando-se de intimidação e de violência física contra as vítimas, havendo, inclusive, vídeos em que ele manuseava um chicote, que era usado nas extorsões.
+E, mais, como destacou o Magistrado de piso, o paciente e demais corréus demonstraram organização, estrutura e planejamento ao se deslocarem do Estado de São Paulo para o Estado do Paraná com o intuito de cometerem delitos. A conduta dos réus em atravessar a fronteira de seu estado de origem para realizar tais crimes evidencia que apenas a medida cautelar extrema é eficaz para neutralizar o risco de reiteração delitiva.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+No mais, com razão o Ministério Público Federal quando deixou consignado, em seu parecer, que há indevida supressão de instância na alegação defensiva de que "não há nos autos de origem qualquer prova acerca da suposta "investigação por crime de associação ao tráfico de droga" apontada na decisão recorrida", pois não submetida à anterior apreciação do Tribunal de Justiça local (fls. 133/134 - grifo nosso).
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
