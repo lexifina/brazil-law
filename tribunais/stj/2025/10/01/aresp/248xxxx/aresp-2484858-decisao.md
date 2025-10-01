@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SIENG COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA. contra decisão que obstou a subida do recurso especial.
+Extrai-se dos autos que foi interposto recurso especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que julgou demanda relativa a ação de cobrança.
+O julgado negou provimento ao recurso de apelação do recorrente nos termos da seguinte ementa (fl. 294):
+RECURSO DE APELAÇÃO - AÇÃO DE COBRANÇA - SENTENÇA QUE JULGOU IMPROCEDENTE OS PEDIDOS INICIAIS - ALEGAÇÃO DA AUSÊNCIA DE ANÁLISE DE DIVERSOS PONTOS TRAZIDOS NOS AUTOS DE ORIGEM - PEDIDO DE REFORMA DA SENTENÇA, A FIM DE CONDENAR A APELADA AO PAGAMENTO DE VALORES A TÍTULO DE ALUGUEL - CONTRATO DE LOCAÇÃO SUPOSTAMENTE REALIZADO DE FORMA VERBAL - MAGISTRADO QUE NÃO ESTÁ VINCULADO A TODOS OS ARGUMENTOS TRAZIDOS PELAS PARTES, DE MODO QUE, DEVE FUNDAMENTAR DE FORMA SUFICIENTE, TRAZENDO OS PONTOS RELEVANTES PARA A FORMAÇÃO DE SUA COGNIÇÃO - ANÁLISE DOS PONTOS INDICADOS PELA RECORRENTE QUE NÃO ALTERAM O ENTENDIMENTO DO JULGADO, TENDO EM VISTA A AUSÊNCIA DE COMPROVAÇÃO DAS ALEGAÇÕES DA PARTE AUTORA - ART. 373, I, DO CPC - PRODUÇÃO DE PROVA TESTEMUNHAL NOS AUTOS DE ORIGEM, QUE APESAR DE TER CARGA PROBATÓRIA, É INSUFICIENTE NO CASO DOS AUTOS - INEGÁVEL QUE A PARTE APELADA RESIDIU NO IMÓVEL POR DETERMINADO TEMPO, TODAVIA, NÃO HÁ DEMONSTRAÇÃO DE QUE EFETIVAMENTE HOUVE RELAÇÃO LOCATÍCIA ENTRE AS PARTES - MAJORAÇÃO DOS HONORÁRIOS RECURSAIS - ART. 85, §11º, DO CPC - RECURSO CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 323-328).
+No presente recurso especial, o recorrente alega que o acórdão estadual contrariou as disposições contidas nos artigos 17, 23, inciso I, e 47 da Lei 8.245/1991, bem como nos artigos 369 do Código de Processo Civil e 422 do Código Civil.
+Apresentadas as contrarrazões (fls. 353-367), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 368-371), o que ensejou a interposição de agravo.
+Apresentada contraminuta do agravo (fls. 387-398).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Em relação aos artigos 17, 23, inciso I, 47 da Lei 8.245/1991 e 422 do Código Civil, não obstante as razões aventadas no recurso especial, é forçoso reconhecer que não houve prequestionamento da matéria.
+Segundo bem se observa, o conteúdo normativo contido nos artigos supramencionados, da forma como trazidos ao debate, não foi objeto de exame pela Câmara Julgadora, embora opostos embargos de declaração pela parte recorrente, deixando, portanto, de servir de fundamento à conclusão adotada no acórdão hostilizado.
+Desatendido, portanto, o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, o que atrai o óbice constante na Súmula 211 do Superior Tribunal de Justiça.
+Nessa ótica, a Corte Especial do STJ firmou o entendimento no sentido de que "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no acórdão impugnado, para que se configure o prequestionamento" (AgInt nos EDcl no AREsp 746.371/RS, rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 9/3/2018).
+De outra banda, a violação do artigo 369 do Código de Processo Civil tampouco pode ser acolhida.
+O Tribunal de origem concluiu no sentido de que não há provas suficientes para demonstrar a relação locatícia, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 326):
+O reconhecimento de que a parte embargada de fato tenha residido no local não significa, por si só, que existe relação locatícia pactuada entre as partes. Há diversos tipos de relações estabelecidas entre as partes, sem necessariamente a configuração de uma relação locatícia, como por exemplo, o comodato verbal. No caso dos autos, apesar de haver a possibilidade de a embargante ter residido no local, não há comprovação contundente de que as partes tinham a intenção de firmar uma , ou seja, aplicação da leirelação locatícia do inquilino, nº 8.245/91, com todos os deveres e obrigações existentes ao locador e locatário.
+Afastar o referido entendimento para concluir no sentido de que há uma relação jurídica de locação, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários, visto que já foram fixados na origem no patamar máximo de 20% (fl. 300).
+Publique-se. Intimem-se.
+EMENTA
