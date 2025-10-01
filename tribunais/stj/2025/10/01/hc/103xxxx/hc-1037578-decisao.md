@@ -1,0 +1,11 @@
+DECISÃO
+GENIVAL GAMA BASÍLIO alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo.
+A defesa informa que o paciente foi condenado por desacato e lesão corporal a 6 meses e 3 meses de detenção, com suspensão condicional da pena por 2 anos. Argumenta que, durante a instrução processual, houve pedido de produção de perícia complementar. Ademais, o Tribunal desconsiderou, na análise das provas, o conteúdo de laudo médico que atesta artrodese do punho direito do réu, o que inviabilizaria o alegado uso de faca. Assim, a seu ver, está caracterizada a nulidade do processo por cerceamento da defesa e é de rigor a absolvição, ante a fragilidade de provas.
+Requer, por isso, a anulação do acórdão recorrido ou a absolvição.
+Decido.
+Inicialmente, " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022)
+A coisa julgada também é garantia constitucional e tem o objetivo de garantir a estabilidade e a segurança jurídica, essenciais à eficácia e à organização do sistema judiciário. Além disso, o princípio do juiz natural prevê que ninguém será julgado senão pela autoridade competente. No caso, a defesa está escolhendo um juízo não pré-constituído na forma da lei (STJ) para julgar o pedido de revisão criminal, o que pode suprimir do paciente, inclusive, uma chance de êxito em segundo grau.
+Não se constata flagrante ilegalidade no acórdão apontado como coator, passível de correção de ofício, uma vez que o Tribunal de origem não examinou a alegação de cerceamento de defesa decorrente do indeferimento de perícia complementar e de falta de consideração do laudo apresentado pela defesa. Ademais, não se configura negativa de prestação jurisdicional, pois os embargos de declaração opostos foram considerados intempestivos e, por isso, não conhecidos.
+À vista do exposto, indefiro liminarmente o processamento desta habeas corpus.
+Publique-se e intimem-se.
+EMENTA
