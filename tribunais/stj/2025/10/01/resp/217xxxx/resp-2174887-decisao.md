@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICIPIO DE PARANAGUA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, no julgamento da Apelação Cível n. 0008759-30.2023.8.16.012, cuja ementa é a seguir transcrita (fl. 105):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. DECISÃO SURPRESA. INOCORRÊNCIA. EXEQUENTE QUE SE MANIFESTOU PREVIAMENTE SOBRE A EXTINÇÃO DO PROCESSO PELA QUITAÇÃO DO TRIBUTO ADMINISTRATIVAMENTE. FIXAÇÃO DO ÔNUS SUCUMBENCIAL QUE É MERA DECORRÊNCIA DA SENTENÇA EXTINTIVA. PAGAMENTO DO DÉBITO NA ESFERA ADMINISTRATIVA APÓS O AJUIZAMENTO DA EXECUÇÃO. DEVEDOR NÃO CITADO. CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DAS CUSTAS PROCESSUAIS. PRETENSÃO DE INVERSÃO DO ÔNUS SUCUMBENCIAL. IMPOSSIBILIDADE. TAXA JUDICIÁRIA. ISENÇÃO PREVISTA NO ART. 3º, ALÍNEA "I", DO DECRETO ESTADUAL N. º 962/1932. ADMISSIBILIDADE NA HIPÓTESE DE O MUNICÍPIO INTENTAR A AÇÃO. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Não foram opostos embargos de declaração.
+Irresignado, o recorrente interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas a e c, da CF, no qual alega que houve, além de divergência jurisprudencial, violação do art. 90 do CPC. Sustenta, em suma, ser "indevido o ônus de sucumbência ao Exequente quando a execução fiscal é extinta pelo pagamento administrativo do tributo" (fl. 122).
+Não foram apresentadas contrarrazões.
+Decisão de admissibilidade às fls. 129-131.
+É o relatório.
+Decido.
+Assiste razão ao insurgente.
+O Tribunal de origem, ao dirimir a controvérsia, consignou (fl. 107):
+ ..
+No caso dos autos ocorreu o pagamento do débito tributário sem que o executado fosse citado, portanto, sem a ciência do devedor acerca da propositura da demanda, não há como lhe imputar o ônus pelas custas processuais e honorários advocatícios, recaindo ao exequente a sucumbência.
+ ..
+Ao assim decidir, o acórdão recorrido divergiu do entendimento do STJ de que são devidos honorários advocatícios à Fazenda Pública quando a execução fiscal é extinta pelo pagamento extrajudicial do débito realizado após o ajuizamento da ação, ainda que antes da citação da parte executada.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. QUITAÇÃO DO DÉBITO TRIBUTÁRIO ANTES DA CITAÇÃO. CONDENAÇÃO DA PARTE EXECUTADA AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. JURISPRUDÊNCIA DO STJ. CONFORMIDADE DO ACÓRDÃO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO PREJUDICADO.
+ ..
+3. No caso, sendo devida a cobrança do débito, a firme jurisprudência do STJ é no sentido de que é cabível a condenação do executado em honorários advocatícios, na hipótese em que a execução fiscal tenha sido extinta em decorrência do pagamento extrajudicial do crédito tributário, ainda que efetuado antes da citação do contribuinte, em atendimento ao princípio da causalidade, e tendo em vista que o pagamento extrajudicial do débito fiscal equivale ao reconhecimento da dívida executada. Dentre outros, citem-se: AgInt no AREsp 2.637.399/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 9/10/2024; AgInt no REsp 2.100.289/PA, Rel. Min. Herman Benjamin, Segunda Turma, DJe 7/5/2024; AgInt no REsp n. 2.028.318/MG, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 1/9/2023; AgInt no REsp n. 2.051.083/PA, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 31/8/2023; AgInt no REsp 2.055.834/PE, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 22/6/2023; REsp 1.820.658/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 19/8/2019.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.700.901/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO. QUITAÇÃO DO DÉBITO EM DATA POSTERIOR AO AJUIZAMENTO DA EXECUÇÃO FISCAL E ANTERIOR À CITAÇÃO. CONDENAÇÃO DA EXECUTADA AO PAGAMENTO DE HONORÁRIOS. POSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência consolidada do Superior Tribunal de Justiça firmou-se no sentido de que são devidos honorários advocatícios à Fazenda Pública quando a execução fiscal é extinta pelo pagamento extrajudicial do débito realizado após o ajuizamento da ação, ainda que antes da citação da parte executada. Precedentes.
+2. Quanto à alegação de divergência jurisprudencial, a parte recorrente não realizou o cotejo analítico nos moldes exigidos pelo artigo 1.029, § 1º, do CPC e pelo art. 255, § 1º, do RISTJ, pois não demonstrou a similitude fática entre os julgados nem explicitou a interpretação divergente do dispositivo legal, limitando-se à transcrição de ementas, o que não atende aos requisitos para o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.702.607/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/4/2025, DJEN de 23/4/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. QUITAÇÃO DO DÉBITO TRIBUTÁRIO ANTES DA CITAÇÃO. CONDENAÇÃO DA PARTE EXECUTADA AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. JURISPRUDÊNCIA DO STJ. CONFORMIDADE DO ACÓRDÃO. ÓBICE DA SÚMULA 83/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Cuida-se de honorários sucumbenciais fixados em execução fiscal extinta em razão do pagamento do débito na via administrativa, após o ajuizamento da execução fiscal, mas antes da citação.
+3. Segundo a jurisprudência do STJ, com base no princípio da causalidade, os honorários advocatícios são devidos pela parte executada na hipótese da extinção da execução fiscal em decorrência do pagamento extrajudicial do quantum devido, após ajuizada a ação, e ainda que não efetivada a citação. Precedentes.
+4. O caso dos autos não se amolda à hipótese do art. 26 da LEF, que diz respeito à execução extinta pelo cancelamento administrativo do débito, após a apresentação de defesa pela parte executada, o que, por força do princípio da causalidade, impõe a condenação da exequente em honorários de sucumbência, fixados pelo critério da equidade, conforme jurisprudência desta Corte Superior. Precedentes.
+5. Esta Corte Superior tem o firme entendimento de que "responde pelo custo do processo aquele que haja dado causa a ele, seja ao propor demanda inadmissível ou sem ter razão, seja obrigando quem tem razão a vir a juízo para obter ou manter aquilo a que já tinha direito" (REsp 1.178.874/PR, Rel. Min. Luiz Fux, Primeira Turma, DJe 27/8/2010).
+6. A conformidade do acórdão com a jurisprudência pacífica do STJ autoriza o não conhecimento do recurso pela aplicação da Súmula 83/STJ.
+7. A alegação genérica de violação configura deficiência da fundamentação recursal. Incidência do óbice da Súmula 284/STF.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.637.399/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PAGAMENTO EXTRAJUDICIAL DA DÍVIDA FISCAL APÓS O AJUIZAMENTO DA AÇÃO, MAS ANTES DA CITAÇÃO. HONORÁRIOS ADVOCATÍCIOS DEVIDOS. PRINCÍPIO DA CAUSALIDADE. JURISPRUDÊNCIA DO STJ. CONFORMIDADE DO ACÓRDÃO RECORRIDO. SÚMULA 83/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência do STJ é pacífica no sentido de que, na hipótese de a execução ser extinta em decorrência de pagamento extrajudicial do crédito tributário realizado posteriormente ao ajuizamento do feito, ainda que antes da citação do contribuinte, são devidos honorários advocatícios em favor da Fazenda Pública, em razão do princípio da causalidade, porquanto, à época do ajuizamento da execução fiscal, era legítima a persecução do crédito, devendo o Tribunal de origem considerar a legislação de regência e as peculiaridades do caso concreto para a fixação dos honorários advocatícios. Precedentes.
+3. A indicação da existência de precedente isolado em sentido contrário ao entendimento adotado nos precedentes que constituem a pacífica orientação jurisprudencial desta Corte Superior não infirma a aplicação do óbice da Súmula 83/STJ. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.118.917/TO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, DOU PROVIMENTO ao recurso especial para, nos termos da fundamentação supra, determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda ao arbitramento dos honorários advocatícios, nos termos do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PAGAMENTO DO DÉBITO NA ESFERA ADMINISTRATIVA APÓS O AJUIZAMENTO DA EXECUÇÃO. DEVEDOR NÃO CITADO. CONDENAÇÃO DA PARTE EXECUTADA AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. JURISPRUDÊNCIA PACÍFICA DO STJ. SÚMULA N. 568/STJ. RECURSO PROVIDO.
