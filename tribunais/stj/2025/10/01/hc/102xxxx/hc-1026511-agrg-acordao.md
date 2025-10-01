@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Nessa linha, "é incognoscível, ordinariamente, o habeas corpus impetrado em substituição à via recursal de impugnação própria" (AgRg no HC n. 716.759/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023), notadamente no caso, em que não se verifica qualquer ilegalidade flagrante a atrair a concessão da ordem de ofício.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental em habeas corpus interposto por DAVID SIQUEIRA CAMPOS contra decisão em que indeferi liminarmente a impetração.
+Depreende-se dos autos que o ora paciente foi condenado às penas de 10 (dez) anos e 06 (seis) meses de reclusão, no regime inicial fechado, e 150 (cento e cinquenta) dias-multa, estes na fração de 1/30 (um trigésimo) do salário mínimo vigente ao tempo dos fatos, pela prática do delito previsto no art. 157, § 2º, I, II e V, do Código Penal.
+Com o trânsito em julgado da condenação, a defesa do acusado ajuizou revisão criminal da qual o Tribunal de origem não conheceu (e-STJ fls. 22/38).
+Nesta impetração, sustentou a defesa nulidade do reconhecimento pessoal, uma vez que não foi observado o regramento contido no art. 226 do Código de Processo Penal.
+Argumentou que "não se pode conferir validade a condenação que se sustenta basicamente na apreensão da suposta res furtiva na posse do Paciente, desacompanhada de outros elementos idôneos e independentes a confirmar a autoria delitiva" (e-STJ fl. 12).
+Alegou, ademais, a existência de prova nova capaz de absolver o paciente. Aduz, nesse sentido, que, "em um processo conexo, uma testemunha declarou que o verdadeiro autor do crime era outra pessoa, evidenciando um equívoco na condenação do Paciente" (e-STJ fl. 14).
+Asseriu, ainda, nulidade por cerceamento de defesa, tendo em vista a deficiência da defesa técnica, que não requereu diligências necessárias.
+Defendeu que os marcos interruptivos demonstram a ocorrência da prescrição punitiva estatal.
+Insurgiu-se, genericamente, contra a dosimetria da pena, que, segundo alega, não considerou a primariedade e ausência de agravantes relevantes.
+Em pedido liminar e no mérito, requereu (e-STJ fls. 15/16):
+1- Condenação baseada em reconhecimento facial ilegal: A sentença condenatória fundamentou-se exclusivamente no reconhecimento pessoal da vítima, realizado em desacordo com as formalidades do art. 226 do Código de Processo Penal, sem a devida corroboração de outras provas robustas. Tal circunstância viola os princípios do devido processo legal e da ampla defesa, conforme jurisprudência consolidada do STJ e STF.
+2- Dosimetria da pena ilegal: A pena-base foi fixada em patamar superior ao máximo legal, desconsiderando os bons antecedentes do Autor e mantendo efeitos de um crime cuja punibilidade já foi declarada extinta (formação de quadrilha). Essa dosimetria viola os princípios da individualização da pena e da proporcionalidade, configurando nulidade parcial da sentença.
+3- Prescrição da pretensão punitiva: O prazo prescricional já foi consumido, considerando o tempo transcorrido desde o recebimento da denúncia até o trânsito em julgado da sentença. A não aplicação da prescrição viola os princípios da segurança jurídica e da dignidade da pessoa humana.
+4- Ineficiência da defesa técnica: A defesa do Autor foi manifestamente deficiente, deixando de impugnar provas ilegais e de requerer diligências essenciais, o que comprometeu o direito à ampla defesa e ao contraditório, conforme previsto no art. 564, IV, do Código de Processo Penal.
+Nas razões do presente agravo regimental, a defesa reitera os termos já trazidos na petição inicial da impetração.
+Assim, pugna pela reconsideração da decisão recorrida ou pela apreciação da matéria pelo colegiado da Sexta Turma.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. Nessa linha, "é incognoscível, ordinariamente, o habeas corpus impetrado em substituição à via recursal de impugnação própria" (AgRg no HC n. 716.759/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023), notadamente no caso, em que não se verifica qualquer ilegalidade flagrante a atrair a concessão da ordem de ofício.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, "é incognoscível, ordinariamente, o habeas corpus impetrado em substituição à via recursal de impugnação própria" (AgRg no HC n. 716.759/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. ART. 71 DO CÓDIGO PENAL. CONTINUIDADE DELITIVA. UNIDADE DE DESÍGNIOS. HABITUALIDADE DELITIVA. NECESSIDADE REVOLVIMENTO DO ACERVO FATICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. AGRAVO NÃO PROVIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O Superior Tribunal de Justiça possui entendimento de que para o reconhecimento da continuidade delitiva, exige-se, além da comprovação dos requisitos objetivos, a unidade de desígnios, ou seja, o liame volitivo entre os delitos, a demonstrar que os atos criminosos se apresentam entrelaçados. Dessa forma, a conduta posterior deve constituir um desdobramento da anterior (Precedentes).
+3. Na espécie, a Corte local concluiu que os crimes perpetrados não possuíam um liame a indicar a unidade de desígnios, verificando-se, assim, a habitualidade e não a continuidade delitiva. Desconstituir tais premissas demandaria o revolvimento do acervo fático-probatório dos autos, inviável na via estreita do habeas corpus.
+4. Agravo regimental não provido. (AgRg no HC n. 853.767/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido. (AgRg no HC n. 819.537/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+No caso, a condenação do paciente transitou em julgado, de maneira que não se pode conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de interpor o competente recurso especial.
+Ademais, não verifico a presença de flagrante ilegalidade apta a atrair a concessão da ordem de ofício, uma vez que ficou consignado no acórdão recorrido que, "entre os marcos interruptivos previstos no art. 117, do Código Penal, a integralização do prazo de 16 (dezesseis anos) para ocorrência da Prescrição da Pretensão Punitiva, razão pela qual rejeita-se a preliminar  ..  não tendo sido comprovada nenhuma irregularidade processual ou prejuízo, e tendo sido o Requerente amparado por Defesa Técnica durante toda a instrução processual, não há se falar em Nulidade do Processo  ..  conclusão absolutória alcançada nos Autos de nº 0355813-44.2001.8.13.0105 não tem o condão de modificar o Édito Condenatório proferido no Processo de nº 0022744- 81.2005.8.13.0549, já que, repita-se, constituem de Ações Penais diversas, que visaram a apuração de Crimes distintos e cujas instruções ocorreram de maneira absolutamente independente  ..  a condenação do Requerente não se lastreou somente no reconhecimento do Ofendido, mas também no fato de David ter sido abordado e preso em posse da carga subtraída  ..  a ausência de Antecedentes Criminais do Réu não obsta a fixação da pena-base em patamar superior ao piso estabelecido para o Tipo Penal, eis que a fixação da reprimenda, na primeira fase de dosimetria, deve observar a análise conjunta de todas as circunstâncias judiciais previstas no artigo 59 do Código Penal. Assim, a valoração negativa da culpabilidade, devidamente fundamentada na gravidade concreta da conduta, justifica o afastamento da pena-base do mínimo legal" (e-STJ fls. 25/35).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
