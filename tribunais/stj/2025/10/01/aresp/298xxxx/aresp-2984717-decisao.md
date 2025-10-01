@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO REJEITADA - SUSPENSÃO DO PROCESSO POR PREJUDICIALIDADE EXTERNA - DECISÃO MANTIDA - RECURSO DESPROVIDO. É legítima a suspensão do cumprimento de sentença, nos termos do art. 313, inciso V, aliena "a" do CPC, quando houver prejudicialidade externa relacionada ao julgamento de ação declaratória que impacta diretamente o mérito da execução.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 55, § 2º; 223; 313; 515, VII; 912; 921; 937, VIII; e 1022 do Código de Processo Civil; 206, § 5º, e 476 do Código Civil, além de dissídio jurisprudencial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1022 do CPC.
+Quanto ao mais, verifico que o recurso especial não dispensa o reexame de prova. O agravante afirma não ser o caso de conexão, de modo que, ausente a prejudicialidade externa, não se justifica a suspensão do feito. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 149):
+No caso, a ação declaratória de nulidade da escritura pública (Processo nº. 1048405-46.2020.8.11.0041) tem com o imóvel objeto do cumprimento de relação direta sentença, podendo impactar diretamente o mérito da execução.
+A suspensão evita decisões contraditórias, resguardando o resultado final das ações judiciais e garantindo a integridade da coisa julgada, pois o prosseguimento do cumprimento de sentença, enquanto há uma questão prejudicial pendente (validade da escritura pública), ao contrário dos argumentos da parte recorrente, pode sim acarretar nulidade futura ou prejuízo às partes.
+Dito de outro modo, a decisão final na ação declaratória poderá impactar diretamente a exigibilidade do título arbitral e os valores objeto da execução, até mesmo porque pode influenciar não apenas os valores, mas também os critérios para encerrar a cláusula penal e determinar a titularidade definitiva do imóvel.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Os temas de que cuidam os arts. 206, § 5º", e 476 do Código Civil não foram objeto de pronunciamento pelo acórdão recorrido, até porque se referem ao mérito da outra ação que ensejou a suspensão do presente feito. Aplica-se ao caso a Súmula 211/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
