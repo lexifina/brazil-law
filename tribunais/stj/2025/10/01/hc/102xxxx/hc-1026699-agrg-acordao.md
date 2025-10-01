@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/09/2025 a 01/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EXECUÇÃO penal. Agravo regimental NO HABEAS CORPPUS. OFENSA AO Princípio da colegialidade. NÃO OCORRÊNCIA. Progressão de regime. Requisito subjetivo não preenchido. recurso IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegou constrangimento ilegal decorrente do retorno do reeducando ao regime fechado, em razão da ausência do requisito subjetivo.
+II. Questão em discussão
+2. Uma questão em discussão consiste em saber se a decisão monocrática que não conheceu do habeas corpus violou o princípio da colegialidade.
+3. Outra questão em discussão consiste em saber se a ausência do requisito subjetivo, evidenciada pelo registro múltiplas faltas disciplinares graves, constitui fundamento idôneo para a negativa da progressão de regime.
+III. Razões de decidir
+4. A decisão monocrática proferida por relator não afronta o princípio da colegialidade, pois permite a interposição de agravo regimental para apreciação pela Turma.
+5. O histórico prisional conturbado, com registro de múltiplas faltas disciplinares graves (26), constitui fundamento idôneo para a negativa da progressão de regime, demonstrando a ausência do requisito subjetivo necessário.
+6. A análise do requisito subjetivo deve considerar todo o histórico prisional, não se limitando a um período específico.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A decisão monocrática proferida por relator não afronta o princípio da colegialidade. 2. A existência de faltas disciplinares graves é fundamento idôneo para indeferimento da progressão de regime. 3. A análise do requisito subjetivo deve considerar todo o histórico prisional, não se limitando a um período específico."
+Dispositivos relevantes citados: LEP, art. 112, § 7º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 485.393/SC, Rel. Min. Felix Fischer, Quinta Turma, DJe de 28/3/2019; STJ, AgRg no HC n. 607.055/SP, Rel. Min. Felix Fischer, Quinta Turma, DJe de 16/12/2020; STJ, AgRg no HC n. 908.050/SP, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 28/10/2024; STJ, AgRg no HC n. 711.863/BA, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe de 14/2/2022; STJ, HC n. 693.424/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 15/12/2021; STJ, AgRg nos EDcl no HC n. 821.450/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/4/2024; STJ, AgRg no HC n. 494.742/SP, Rel. Min. Laurita Vaz, Sexta Turma, DJe de 14/6/2019.
+RELATÓRIO
+Trata-se de agravo regimental interposto MICHEL SILVA contra a decisão que não conheceu do habeas corpus.
+Nas razões recursais, o recorrente alega, preliminarmente, a violação do princípio da colegialidade, considerando que a flagrante ilegalidade deveria ter sido objeto de apreciação pelo colegiado.
+No mérito, assevera que os "parâmetros estabelecidos pela Lei de Execuções Penais não estão sendo cumpridos no quesito do preenchimento do requisito subjetivo" (e-STJ, fl. 73). Sustenta que o art. 112, § 7º da LEP está sendo aplicado incorretamente.
+Requer, ao final, a submissão do feito à análise deste Órgão Colegiado, para que seja "sanada a ilegalidade e mantida a decisão de progressão de regime proferida pelo Juízo de Origem, devendo ser aplicada a legislação nos termos da decisão já juntada aos autos nº 1000252-41.2024.8.26.0520."(e-STJ, fl. 75).
+É o relatório.
+EMENTA
+EXECUÇÃO penal. Agravo regimental NO HABEAS CORPPUS. OFENSA AO Princípio da colegialidade. NÃO OCORRÊNCIA. Progressão de regime. Requisito subjetivo não preenchido. recurso IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegou constrangimento ilegal decorrente do retorno do reeducando ao regime fechado, em razão da ausência do requisito subjetivo.
+II. Questão em discussão
+2. Uma questão em discussão consiste em saber se a decisão monocrática que não conheceu do habeas corpus violou o princípio da colegialidade.
+3. Outra questão em discussão consiste em saber se a ausência do requisito subjetivo, evidenciada pelo registro múltiplas faltas disciplinares graves, constitui fundamento idôneo para a negativa da progressão de regime.
+III. Razões de decidir
+4. A decisão monocrática proferida por relator não afronta o princípio da colegialidade, pois permite a interposição de agravo regimental para apreciação pela Turma.
+5. O histórico prisional conturbado, com registro de múltiplas faltas disciplinares graves (26), constitui fundamento idôneo para a negativa da progressão de regime, demonstrando a ausência do requisito subjetivo necessário.
+6. A análise do requisito subjetivo deve considerar todo o histórico prisional, não se limitando a um período específico.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A decisão monocrática proferida por relator não afronta o princípio da colegialidade. 2. A existência de faltas disciplinares graves é fundamento idôneo para indeferimento da progressão de regime. 3. A análise do requisito subjetivo deve considerar todo o histórico prisional, não se limitando a um período específico."
+Dispositivos relevantes citados: LEP, art. 112, § 7º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 485.393/SC, Rel. Min. Felix Fischer, Quinta Turma, DJe de 28/3/2019; STJ, AgRg no HC n. 607.055/SP, Rel. Min. Felix Fischer, Quinta Turma, DJe de 16/12/2020; STJ, AgRg no HC n. 908.050/SP, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 28/10/2024; STJ, AgRg no HC n. 711.863/BA, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe de 14/2/2022; STJ, HC n. 693.424/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 15/12/2021; STJ, AgRg nos EDcl no HC n. 821.450/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/4/2024; STJ, AgRg no HC n. 494.742/SP, Rel. Min. Laurita Vaz, Sexta Turma, DJe de 14/6/2019.
+VOTO
+A irresignação não merece prosperar.
+Inicialmente, no tocante à alegação de ofensa ao princípio da colegialidade, no julgamento deste habeas corpus, esta Corte Superior consolidou entendimento segundo o qual, " a  decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 21/3/2019, DJe de 28/3/2019).
+É "plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 607.055/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/12/2020, DJe de 16/12/2020).
+No mérito, observa-se que a defesa não trouxe argumentos suficientemente capazes de infirmar a decisão ora agravada.
+Nos termos do art. 112 da Lei de Execuções Penais, para a concessão do benefício da progressão de regime prisional, o apenado deve, em linhas gerais, preencher os requisitos de natureza objetiva (percentual ou fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena).
+Sobre o requisito de cunho subjetivo, esta Corte Superior entende que constitui fundamento idôneo ao indeferimento do benefício a existência de histórico prisional conturbado, notadamente, quando houve a prática de falta disciplinar de natureza grave.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. HISTÓRICO CARCERÁRIO DESFAVORÁVEL. FALTAS GRAVES RECENTES. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foram trazidos argumentos novos para a desconstituição da decisão agravada, limitando-se a parte a reiterar as razões do habeas corpus, já examinadas e rechaçadas pela decisão monocrática, atraindo a Súmula n. 182/STJ devido à violação do princípio da dialeticidade.
+2. O Tribunal de origem negou o pedido de progressão de regime prisional, diante da ausência de cumprimento do requisito subjetivo do reeducando, consubstanciado não apenas na gravidade dos crimes cometidos, mas também no fato de que o paciente ostenta histórico carcerário desfavorável, registrando diversas faltas de natureza grave cometidas em 23/03/2019 (desobediência), 10/04/2019 (desobediência), 19/04/2019 (desobediência), 23/04/2019 (desrespeito), 11/09/2019 (desobediência), 11/10/2019 (desobediência), 04/09/2020 (desobediência) e 06/10/2020 (desobediência), sendo as últimas ocorridas no ano de 2020, portanto, há menos de 05 (cinco) anos, e ainda, com prazo de reabilitação para 23/04/2025 (cf. e-STJ fl. 30), de acordo com a Resolução SAP nº 144/2010, de modo que não se vislumbra constrangimento ilegal a ser encerrado nesta via.
+3. Agravo regimental não provido."
+(AgRg no HC n. 908.050/SP, Rel. Min. Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA DE NOVO CRIME DURANTE A EVASÃO DO SISTEMA PRISIONAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial, quando não evidenciado constrangimento ilegal manifesto à liberdade de locomoção do apenado.
+2. Hipótese em que a progressão de regime prisional foi indeferida não só com base na gravidade abstrata dos crimes pelos quais o apenado cumpre pena nem da longa reprimenda aplicada, mas em razão da notícia da reiteração praticada durante a evasão do sistema prisional.
+3. No caso dos autos, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do requisito subjetivo, em face do histórico prisional conturbado (cometimento de falta disciplinar de natureza grave), de modo que não se verifica constrangimento ilegal no indeferimento do pedido de progressão de regime.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 711.863/BA, de minha relatoria, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022).
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL. FALTAS GRAVES. FUNDAMENTAÇÃO CONCRETA. REANÁLISE FÁTICO-PROBATÓRIA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - Para a progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112, da LEP.
+III - Verifica-se que o v. acórdão considerou que, para além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, não está presente o requisito subjetivo para a progressão de regime, com base em elementos concretos extraídos da execução penal, tendo em vista o histórico prisional do apenado, que ostenta nada menos do que 6 (seis) infrações disciplinares de natureza grave no curso da execução.
+IV - Ademais, é firme o posicionamento desta eg. Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, providência que implicaria o reexame do conjunto fático-probatório dos autos da execução, incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido."
+(HC n. 693.424/SP, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021).
+No caso dos autos, o Tribunal de origem cassou o benefício com base em fundamento idôneo, qual seja a ausência do requisito subjetivo ante o registro de 26 (vinte e seis) faltas disciplinares de natureza grave - "em 31/03/2013, 03/03/2014, 04/03/2014, 11/03/2014, 23/03/2014, 05/09/2014, 13/05/2015, 06/01/2016, 15/01/2016, 01/04/2016, 11/06/2016, 31/08/2016, 12/09/2016, 21/03/2017, 05/04/2017, 12/04/2017, 18/06/2017, 24/08/2017, 09/10/2017, 06/11/2017, 15/11/2017, 21/11/2017, 03/01/2018, 29/01/2018, 07/02/2018 e 06/10/2018  .. " (e-STJ, fls. 15-16), estando o paciente em reabilitação de conduta até 31/3/2038. Tal situação demonstra, por ora, a inaptidão do apenado para o gozo da progressão de regime.
+Por oportuno, destaco que esta Corte Superior já firmou entendimento que a Resolução SAP n. 144/2010 do Regimento Interno Padrão do Estado de São Paulo "encontra-se de acordo com os ditames constitucionais e legais, não havendo que se falar em inconstitucionalidade por afronta aos princípios da reserva legal ou proporcionalidade" (AgRg nos EDcl no HC n. 821.450/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+Ademais, é cediço que, não obstante o paciente tenha cumprido o requisito temporal para progressão do regime, o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, não se verificando, in casu, o alegado constrangimento ilegal.
+Outrossim, o STJ firmou entendimento no sentido de que " não  há limite temporal estabelecido na Lei de Execução Penal para o preenchimento do requisito subjetivo para progressão de regime, devendo ser considerado todo o período de execução da pena, a fim de se aferir o mérito do apenado, ainda que haja atestado de boa conduta carcerária." (AgRg no HC n. 494.742/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/6/2019, DJe de 14/6/2019).
+Por fim, vale acrescentar que o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+Nesse contexto, não se verifica flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
