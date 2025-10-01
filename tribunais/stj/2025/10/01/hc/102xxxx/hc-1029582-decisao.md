@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOVANI MARIA GIL ANDRADE E SILVA contra ato do Tribunal Regional Federal da 3ª Região (APELAÇÃO CRIMINAL N. 0001843-69.2014.4.03.6117).
+No presente writ, o impetrante sustenta que o julgamento do recurso de apelação é nulo em razão de cerceamento de defesa, uma vez que a intimação foi feita por publicação em nome exclusivamente do único advogado constituído pela ré que, há época, já havia falecido.
+Aduz que, mesmo após a morte do único advogado da paciente, ocorrida em 29/9/2024, houve movimentação no recurso de apelação, a retratar que o processo continuou seguindo sua marcha a despeito da total ausência de defesa técnica.
+Ressalta que a paciente somente tomou ciência do falecimento de seu advogado no momento em que lhe foi cumprido o mandado de prisão em 6/8/2025, sendo surpreendida com uma execução penal instaurada com base em ato inexistente, situação que configura flagrante constrangimento ilegal (art. 648, VI, CPP).
+Requer, assim a desconstituição do trânsito em julgado, anulação do julgamento da apelação e a intimação para novo julgamento, com a expedição de salvo conduto ou contramandado de prisão em benefício da paciente.
+A liminar foi indeferida às fls. 146-147.
+Petições da defesa às fls. 150-156, 160-251 e 252-296, reforçando a flagrante ilegalidade noticiada, uma vez que a paciente teve contra si julgada apelação criminal, com a certificação do trânsito em julgado da condenação sem que houvesse defesa técnica constituída nos autos, pois a morte do único advogado que a patrocinava foi anterior aos atos processuais mencionados.
+É o relatório.
+O presente writ foi impetrado em 25/8/2025 com o objetivo de impugnar o acórdão que julgou a apelação criminal, com trânsito em julgado em 17/6/2025, conforme afirmado pela própria defesa (fl. 4).
+Nesse contexto, a utilização do habeas corpus assume o caráter de substitutivo da revisão criminal, uma vez que a legislação processual exige a prévia submissão do pedido por meio de impugnação específica, sob pena de usurpação da competência da instância originária.
+Vale anotar que, consoante dispõe o art. 105, I, e, da Constituição Federal, a competência do Superior Tribunal de Justiça para julgar pretensão típica de revisão criminal é limitada aos seus próprios julgados, o que não é o caso dos autos.
+Todavia, na hipótese dos autos, revela-se cabível a superação do óbice assinalado, diante da flagrante ilegalidade verificada.
+Com efeito, dos autos, constata-se que a intimação da sessão de julgamento da Apelação n. 0001843-69.2014.4.03.6117 foi publicada em 6/5/2025 e exclusivamente em nome do advogado Luiz Celso de Barros.
+O impetrante trouxe aos autos a cópia da certidão de óbito (fl. 152) datada de 29/9/2024.
+Desse modo, não resta qualquer dúvida de que a paciente não possuía defensor constituído desde o falecimento de seu advogado, caracterizando, pois, cerceamento de defesa.
+Nos termos da jurisprudência consolidada nesta Corte Superior, ainda que o falecimento do patrono não tenha sido comunicado ao Tribunal de origem, há evidente prejuízo à defesa por ausência de defesa técnica, corolário fundamental do devido processo legal.
+Nesse sentido, vejam-se (grifo próprio):
+HABEAS CORPUS. NULIDADE DO JULGAMENTO DO RECURSO DE APELAÇÃO. INTIMAÇÃO DO ADVOGADO FALECIDO. NULIDADE RECONHECIDA. PRECEDENTES DESTA CORTE SUPERIOR. ORDEM CONCEDIDA.
+1. "No caso em exame, a intimação do julgamento da apelação em nome do advogado falecido do réu, único causídico constituído nos autos, configura cerceamento de defesa apto a ensejar a nulidade absoluta, já que impossibilitou a interposição de recurso pela defesa.
+Não atingida a finalidade do ato e existente evidente prejuízo à ampla defesa, configura-se o vício na intimação e, em consequência, impõe-se a sua nulidade e daqueles atos processuais a ele subsequentes, de modo a se refazer a intimação de patrono regularmente constituído pelo paciente para a sessão de julgamento da apelação" (HC 381.794/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 09/06/2017).
+2. "Ainda que não comunicado o fato ao Tribunal, o falecimento do único advogado, em momento anterior ao julgamento da apelação, é circunstância geradora de nulidade absoluta, por ausência de defesa técnica. Precedentes. Incidência da Súmula n. 523/STF" (HC n. 279.315/SP, Rel. Min. LAURITA VAZ, Quinta Turma, Dje 7/3/2014).
+Ordem de habeas corpus concedida para desconstituir o trânsito em julgado, anular o julgamento da apelação, determinando a realização de nova intimação da defesa e novo julgamento da causa, e assegurar ao paciente o direito de aguardar o julgamento dos recursos ordinários em liberdade.
+(HC n. 307.461/CE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2018, DJe de 24/8/2018.)
+HABEAS CORPUS. ADVOGADO FALECIDO. CERTIFICADO TRÂNSITO EM JULGADO. PREJUÍZO EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Apesar de o único advogado constituído nos autos ter falecido após o julgamento da apelação, o Tribunal de origem certificou o trânsito em julgado do processo para a defesa, em virtude da ausência de interposição de recurso contra o acórdão da apelação, frustrando-se eventual interposição de recurso.
+2. O fato de o réu não haver comunicado o falecimento do advogado ao Tribunal de origem em nada modifica a ocorrência da nulidade.
+3. Ordem não conhecida. Habeas corpus concedido, de ofício, para: a) desconstituir o trânsito em julgado da condenação imposta ao réu nos autos da Ação Penal n. 0007579-56.2011.8.26.0408 da 1ª Vara Criminal da Comarca de Ourinhos - SP; b) determinar a intimação do paciente a fim de que nomeie novo procurador; c) determinar nova publicação do acórdão da apelação em nome do advogado constituído pelo réu; e d) conceder ao paciente o direito de aguardar em liberdade o exaurimento da instância ordinária.
+(HC n. 332.960/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/6/2016.)
+HABEAS CORPUS. JULGAMENTO DA APELAÇÃO. PUBLICAÇÃO DA ATA DE JULGAMENTO E DO ACÓRDÃO EXCLUSIVAMENTE EM NOME DE ADVOGADO FALECIDO. CERCEAMENTO DE DEFESA. OCORRÊNCIA. NULIDADE. DESCONSTITUIÇÃO DO TRÂNSITO EM JULGADO E RESTABELECIMENTO DA SENTENÇA.
+1. Há nulidade absoluta, por cerceamento de defesa, na hipótese de a intimação da pauta de julgamento da apelação e do acórdão respectivo ter sido efetivada em nome exclusivo do falecido procurador do réu, cujo fato já era conhecido dos autos do processo há mais de 8 (oito) anos.
+2. Ademais, não há falar na existência de outros advogados na causa se a comunicação se deu em diário eletrônico em nome exclusivo do falecido e não constou da intimação qualquer menção a outros patronos.
+3. Habeas corpus concedido para desconstituir o trânsito em julgado da condenação, determinar novo julgamento a partir da devida intimação dos advogados da causa e, ainda, restabelecer a sentença, inclusive no tocante à garantia de apelar em liberdade.
+(HC n. 411.961/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 15/3/2018, DJe de 27/3/2018.)
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem de ofício para desconstituir o trânsito em julgado e anular o julgamento da Apelação Criminal n. 0001843-69.2014.4.03.6117 e os demais atos processuais posteriores, a fim de que outro seja proferido pelo Tribunal de origem, com a prévia e regular intimação do defensor constituído. Expeça-se contramandado de prisão, assegurando-se à paciente o direito de aguardar o julgamento dos recursos ordinários em liberdade.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem -se.
+EMENTA
