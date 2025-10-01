@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo, interposto por BANCO DO BRASIL SA, da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que inadmitiu o recurso especial dirigido contra o acórdão prolatado na apelação cível n. 0027896-18.2024.8.16.0014.
+Na origem, cuida-se de ação indenizatória proposta por HELENA REIKO OGATA NAGAO, na qual afirmou que o BANCO DO BRASIL S/A geriu inadequadamente os valores depositados na conta PASEP da autora, objetivando a condenação do réu ao pagamento de danos morais e materiais (fls. 1-30).
+Foi proferida sentença para extinção do feito com resolução do mérito, para reconhecer a ocorrência da prescrição decenal da pretensão de ressarcimento dos danos (fls. 87-88).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, no julgamento da apelação cível, deu provimento ao recurso da autora, em acórdão cuja ementa é a seguir transcrita (fls. 257-262):
+DIREITO CIVIL E BANCÁRIO. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO DANOS MATERIAIS E MORAIS. PRESCRIÇÃO NÃO EVIDENCIADA. DOCUMENTOS QUE DEMONSTRAM O PROTOCOLO DENTRO DO PRAZO DECENAL. RECURSO CONHECIDO E PROVIDO
+I. CASO EM EXAME
+Trata-se de Apelação Cível contra a decisão que proclamou a prescrição de pretensão autoral, extinguindo o feito.
+II. QUESTÃO EM DISCUSSÃO
+A questão em discussão consiste em verificar em que período iniciou o prazo prescricional da pretensão e se houve o respectivo transcurso no caso concreto.
+III. RAZÕES DE DECIDIR
+Não há elementos que demonstrem o conhecimento do fato anterior a disponibilização do extrato, uma vez que o protocolo da ação ocorreu dentro do prazo decenal, a partir do recebimento do extrato pela instituição financeira, conforme precedente do Superior Tribunal de Justiça. Logo, não há falar em ocorrência de prescrição.
+IV. DISPOSITIVO E TESE
+Recurso conhecido e provido.
+Opostos embargos de declaração, estes foram não acolhidos (fls. 296-301).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente aponta ofensa ao art. 1.022, pois a Corte local não teria se manifestado acerca da ocorrência da prescrição decenal à luz do art. 205 do Código Civil.
+No mérito, aponta afronta ao artigo 205 do Código Civil, trazendo os seguintes argumento:
+(i) o Tema Repetitivo n. 1.150 do STJ fixou o prazo prescricional decenal para a pretensão de ressarcimento de desfalques na conta PASEP e o termo inicial seria o dia em que o titular toma ciência dos desfalques;
+(ii) no caso concreto, a pretensão autoral já estaria fulminada pela prescrição (fls. 304-320). Ao final, requer o provimento do recurso especial para que o acórdão impugnado seja reformado.
+Em contrarrazões, a autora defendeu, preliminarmente, a inadmissão do recurso e, no mérito, o não provimento (fls. 379-394).
+O Tribunal a quo não admitiu o recurso especial, por considerar que:
+(i) quanto à alegação de violação do art. 1.022 do CPC, o acórdão impugnado não apresenta qualquer vício de fundamentação;
+(ii) a pretensão recursal demandaria o reexame do conjunto fático-probatório, o que atrairia a incidência da Súmula n. 7 do STJ (fls. 395-399).
+Nas razões do presente agravo em recurso especial, a parte agravante:
+(i) reafirmou a existência de vícios de fundamentação a serem sanados;
+(ii) a pretensão recursal não demandaria o reexame do conjunto fático-probatório, mas, tão somente, a revaloração jurídica dos elementos acarreados nos autos, não havendo motivo para incidência da Súmula n. 7 do STJ (fls. 402-416).
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+De início, ressalto que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente.
+Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito, " n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+Ao decidir sobre não ocorrência da prescrição decenal no caso concreto, a Corte a quo, com base no acervo fático-probatório dos autos, adotou os seguintes fundamentos (fls. 257-262):
+No mérito, a pronúncia de prescrição efetuada pelo juízo a quo se funda na inércia da parte no momento em que efetuou o saque do saldo em conta no ano de 2013, mais precisamente em 17/10/2013, sendo que o protocolo dos autos se deu em 29/04/2024, ou seja mais de 10 anos após, em tese, a ciência do fato.
+Contudo, não há demonstração suficiente de que o débito na conta é capaz de auferir a possível irregularidade na correção dos valores ali existentes, ao passo que, após o protocolo do pedido de extrato (18/12/2023), a parte submeteu as movimentações à perícia contábil, a qual detém o conhecimento técnico para identificar irregularidades nos fatores de correção.
+Como bem apontado pela decisão em primeiro grau, o Superior Tribunal de Justiça firmou as seguintes teses ao julgar o Tema Repetitivo 1150:
+i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa;
+ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil;
+iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques . realizados na conta individual vinculada ao Pasep
+ ..
+Em que se pese a conclusão do Juízo de origem, no sentido de que há prescrição na pretensão autoral, dos elementos trazidos aos autos, não se pode considerar que o conhecimento que enseja o termo inicial prescritivo se dê no momento do último saque efetuado em conta, de modo que considera-se a data do fornecimento dos extratos requeridos junto a apelada, de forma que não há lapso temporal que demonstre a prescrição pronunciada.
+Assim, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente - no sentido de que a prescrição decenal estaria configurada no caso concreto - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatório.
+Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA.
+RECOMPOSIÇÃO DO SALDO DE CONTA BANCÁRIA VINCULADA AO PASEP. TEMA N. 1.150 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação ordinária objetivando a recomposição do saldo de conta vinculada ao PASEP, em razão da não aplicação dos índices de correção monetária e dos juros devidos e do não recolhimento dos importes que deveriam ter sido efetivamente nela recolhidos. Na sentença, os pedidos foram julgados improcedentes. No Tribunal a quo, a sentença foi mantida.
+II - A Primeira Seção, no julgamento do REsp n. 1.895.936/TO, vinculado ao Tema n. 1.150 dos recursos repetitivos, fixou o seguinte entendimento: "i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto à conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa; ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao Pasep se submete ao prazo prescricional decenal previsto pelo art. 205 do Código Civil; e iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao Pasep." Nesse sentido: REsp n. 1.895.936/TO, relator Ministro Herman Benjamin, Primeira Seção, julgado em 13/9/2023, DJe de 21/9/2023.
+III - Na hipótese dos autos, a Corte de origem, às fls. 620-622, consignou expressamente que a autora, ora agravante, teve ciência do evento danoso na ocasião da retirada dos valores da sua conta PASEP, em razão de sua passagem à aposentadoria, em 31/3/1998, momento em que, nos termos do Tema n. 1.150/STJ, tem início a contagem do prazo prescricional decenal. Assim, reconheceu a ocorrência da prescrição, dado que a ação somente foi ajuizada em 3/11/2021, ou seja, mais de 23 anos após a ciência do evento danoso.
+Neste contexto, observa-se que, para rever as conclusões do acórdão ora recorrido, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 2.184.637/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTA VINCULADA AO PASEP. RESPONSABILIDADE CIVIL POR EVENTUAL MÁ GESTÃO DE SALDO. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PRESCRIÇÃO DECENAL (ART. 205 DO CÓDIGO CIVIL). TEMA REPETITIVO N. 1.150/STJ. TERMO INICIAL NA DATA EM QUE O TITULAR, COMPROVADAMENTE, TOMA CIÊNCIA DOS DESFALQUES. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO PARA AFASTAR A CONCLUSÃO DO TRIBUNAL DE ORIGEM SOBRE O MARCO INICIAL DA PRESCRIÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. O acórdão recorrido enfrentou de modo suficiente a controvérsia, inexistindo omissão relevante.
+2. O Superior Tribunal de Justiça, no Tema n. 1.150 (REsp n. 1.895.936/TO), fixou as seguintes teses: i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto à conta vinculada ao PASEP, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa; ii) a pretensão ao ressarcim ento dos danos havidos em razão dos desfalques em conta individual vinculada ao PASEP se submete ao prazo prescricional decenal previsto pelo art. 205 do Código Civil; e iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao PASEP.
+3. No caso, a Corte de origem concluiu, a partir dos elementos dos autos, que não se comprovou ciência dos desfalques na data do saque, tendo considerado como marco inicial a disponibilização de extratos pela instituição financeira, afastando a prescrição. Alterar esse entendimento demandaria o reexame do conjunto fático-probatório, providência vedada pelo enunciado da Súmula n. 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, desprovido.
