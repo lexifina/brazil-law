@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GUSTAVO HILTON WILD, contra decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina, que não admitiu o recurso especial.
+Consoante se extrai dos autos, a parte agravante foi condenada pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/06.
+O Tribunal de origem, em decisão unânime, negou provimento ao apelo defensivo, mas, de ofício, reduziu a pena de multa para 500 (quinhentos) dias-multa.
+No recurso especial, interposto com fulcro no art. 105, inciso III, alínea "a" da Constituição Federal, o insurgente alega, em suma, violação ao art. 33, § 4º, da Lei n. 11.343/06 e ao art. 93, inciso IX, da Constituição Federal. Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado no disposto no art. 102, inciso III, alínea "a", da Constituição Federal, e na incidência das Súmulas 7 e 83, ambas do STJ.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Foram apresentadas contrarrazões e o Ministério Público Federal apresentou parecer pelo não conhecimento do agravo.
+É o relatório. DECIDO.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em razão do disposto no art. 102, inciso III, alínea "a", da Constituição Federal, por versar sobre suposta violação à dispositivo constitucional, e da incidência das Súmulas 7 e 83, ambas do STJ, ante a necessidade de revolvimento de matéria fático-probatória e a consonância da decisão recorrida com a jurisprudência firmada nesta Corte.
+No agravo em comento, a parte agravante defende o preenchimento dos requisitos necessários à admissão do recurso, buscando o afastamento da incidência das Súmulas 7 e 8, do STJ.
+Entretanto, a parte agravante deixou de versar sobre a não admissão do recurso ante o disposto no art. 102, inciso II, alínea "a", da Constituição Federal.
+Para que se considere adequadamente impugnada a decisão, o agravo precisa empreender um cotejo entre as razões estabelecidas no acórdão e as teses recursais, demonstrando, no caso em apreço, que o recurso especial não trata sobre contrariedade à dispositivo da Constituição Federal.
+Cumpre ressaltar que a Corte Especial desse Tribunal Superior, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. Em reforço: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/10/2022.
+Desse modo, a ausência de impugnação adequada de todos os fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do Código de Processo Civil, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe 23/06/2020.
+Assim, o presente agravo encontra óbice na Súmula 182 desta Corte, não superando o juízo de admissibilidade.
+Diante do exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
