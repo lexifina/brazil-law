@@ -1,0 +1,36 @@
+DECISÃO
+RODRIGO DE SOUZA QUEIROZ alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação Criminal n. 0027006-03.2022.8.12.0001.
+Consta dos autos que o paciente foi condenado à pena de 9 anos, 4 meses e 15 dias de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 16, § 1º, IV, da Lei n. 10.826/2003.
+A defesa aduz que não houve aplicação da atenuante da confissão espontânea, prevista no art. 65, III, "d", do Código Penal, apesar de o réu haver confessado o crime de tráfico de drogas aos policiais, e tal confissão haver sido utilizada para embasar a condenação. Requer o reconhecimento da atenuante da confissão espontânea e a consequente correção da dosimetria.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, subsidiariamente, pela denegação da ordem (fls. 437-444).
+Decido.
+O paciente foi condenado pelos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 16, § 1º, IV, da Lei n. 10.826/2003. A Corte local não reconheceu a atenuante da confissão espontânea porque o acusado permaneceu em silêncio ao ser interrogado pela autoridade policial e não foi ouvido durante a instrução criminal, em virtude de sua revelia.
+O Tribunal estadual registrou que o Juízo sentenciante, para condenar o acusado, valeu-se dos depoimentos policiais prestados em Juízo, não tendo fundamentado sua sentença na suposta confissão do acusado feita informalmente aos policiais no momento da abordagem. Veja-se (fl. 20, grifei):
+ ..
+5. A atenuante da confissão espontânea somente pode ser reconhecida quando a confissão, judicial ou extrajudicial, for efetivamente utilizada para formar o convencimento do julgador, conforme entendimento consolidado na Súmula 545 do STJ.
+6. No caso concreto, o acusado permaneceu em silêncio na fase policial e foi revel na fase judicial, não havendo qualquer confissão formal que tenha embasado a sentença condenatória, a qual se fundamentou exclusivamente nos depoimentos dos policiais.  ..
+Portanto, ao condenar o réu pelo crime de tráfico de drogas, a sentença baseou-se na apreensão de drogas e petrechos com o paciente. Não foi mencionada eventual confissão informal do agente aos policiais que efetuaram o flagrante. Assim, segundo as instâncias de origem, a autoria do delito foi determinada com base em outras provas, e não com lastro nas declarações do réu.
+A Súmula n. 545 do STJ fixou o entendimento de que "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante sob comento".
+Conforme orientação desta Corte Superior e do Supremo Tribunal Federal, a confissão informal não ratificada perante a autoridade policial ou judicial não é considerada para fins de incidência da atenuante se não foi utilizada para a fundamentação da condenação, o que corrobora a Súmula n. 545 do STJ.
+Nessa linha, o entendimento do Superior Tribunal de Justiça:
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. CONFISSÃO INFORMAL. IMPOSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE CONTIDA NO ART. 65, INCISO III, ALÍNEA "D", DO CÓDIGO PENAL. AGRAVO CONHECIDO PARA NEGAR
+PROVIMENTO AO RECURSO ESPECIAL .
+I. Caso em exame
+1. Agravo em recurso especial interposto por condenado por furto qualificado tentado contra acórdão do TJSP que negou o reconhecimento da atenuante da confissão espontânea sob o fundamento de que a confissão informal prestada aos policiais não é apta para reduzir a sanção na segunda etapa da dosimetria.
+II. Questão em discussão
+2. A discussão consiste em saber se a confissão informal, realizada no momento da abordagem policial, pode ser considerada para fins de aplicação da atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal.
+III. Razões de decidir
+3. A confissão propriamente dita se subdivide em: a) confissão judicial: registrada formalmente, em juízo, perante a autoridade judicial e b) confissão extrajudicial: registrada formalmente, em sede policial, perante a autoridade policial (ou perante outras autoridades, a exemplo do Ministério Público, no PIC). Há, ainda, a denominada confissão (nomenclatura imprópria) informal, a qual é realizada sem formalidade, em regra, verbalmente, a agentes policiais responsáveis pela prisão em flagrante, sem a presença de autoridade pública.
+4. Para ter natureza jurídica de confissão, impõe-se que os fatos confessados sejam expostos diretamente pelo réu perante uma autoridade, constando formalmente nos autos (conjugação dos arts. 65, inciso III, alínea "d", do Código Penal e arts. 195 e 199 do Código de Processo Penal). Caso essa informação tenha sido apenas mencionada por pessoa diversa, a qual afirma ter ouvido tal declaração do acusado, não haverá, juridicamente, confissão, em razão da ausência dos requisitos necessários para sua configuração.
+5. Sob essa perspectiva, apenas as confissões judicial e extrajudicial são aptas a ensejar a redução da pena na segunda etapa da dosimetria, sendo vedado atenuar a sanção em caso de confissão informal, independentemente da data em que foi proferida a decisão judicial, porquanto inexistente modulação de efeitos sob essa ótica nos autos do AREsp n. 2.123.334/MG.
+6. Em acórdãos recentes, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça têm se posicionado nesse sentido: AREsp n. 2.313.703/SP, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 04/02/2025, DJEN de 13/03/2025; AgRg no HC n. 944.750/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 08/04/2025, DJEN de 15/04/2025.
+IV. Dispositivo e tese
+7. Agravo conhecido para negar provimento ao recurso especial, mantendo a condenação e a dosimetria da pena fixadas pelas instâncias ordinárias, sem o reconhecimento da atenuante da confissão espontânea.
+Tese de julgamento: 1. Apenas as confissões judicial e extrajudicial são aptas a ensejar a redução da pena na segunda etapa da dosimetria, com fundamento no art. 65, inciso III, alínea "d", do Código Penal, sendo vedado atenuar a sanção em caso de confissão informal.
+Dispositivos relevantes citados: CP, art. 65, III, "d"; CPP, arts.
+195 e 199.Jurisprudência relevante citada: STJ, AREsp 2.123.334/MG, Rel. Min. Ribeiro Dantas, Terceira Seção, julgado em 20/6/2024, DJe de 02/07/2024; STJ, HC 816.595/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 05/11/2024, DJe de 11/11/2024; STJ, AREsp 2.313.703/SP, Min. Daniela Teixeira, relator para acórdão Min, Joel Ilan Paciornik, Quinta Turma, julgado em 04/02/2025, DJEN de 13/03/2025; STJ, AgRg no HC 944.750/SP, relator M. Og Fernandes, Sexta Turma, julgado em 08/04/2025, DJE N de 15/04/2025.
+(AREsp n. 2.915.302/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 20/8/2025, DJEN de 28/8/2025, grifei)
+Diante da fundamentação apresentada pelas instâncias ordinárias, que encontra consonância com o entendimento consolidado nos Tribunais Superiores, não se constata ilegalidade flagrante na dosimetria da pena que justifique a concessão da ordem.
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
