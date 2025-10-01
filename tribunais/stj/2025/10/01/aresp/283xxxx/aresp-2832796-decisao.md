@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+CUMPRIMENTO DE SENTENÇA. Penhoras no rosto dos autos. Transferência dos valores constritos a contas vinculadas aos autos respectivos, sem incidência dos acréscimos legais. Insurgência. Descabimento. Hipótese de incidência dos acréscimos legais sobre os valores penhorados, a contar da data da efetivação do depósito judicial até sua transferência aos autos respectivos. Obrigação que, aliás, cabe ao banco depositário. Decisão reformada. Agravos de instrumento providos e agravos internos prejudicados.
+Nas razões de recurso especial, a parte agravante alega violação do art. 1003, § 5º; 1018, §§ 2 e 3º; e 1022 do Código de Processo Civil. Sustenta que a atualização do débito cobrado pela agravada deve ser feita a partir da efetivação da penhora no rosto dos autos, não da data do depósito judicial.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1022 do CPC.
+O tema da atualização monetária do débito, a seu turno, não guarda relação com o conteúdo normativo dos dispositivos tidos por violados, o que prejudica a compreensão da controvérsia e faz aplicável ao caso a Súmula 284/STF. Aliás, os dispositivos não foram objeto de debate pelo acórdão recorrido e, diante da ausência de prequestionamento, é inviável o recurso especial, de acordo com a Súmula 211/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
