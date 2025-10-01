@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Elesbao Cerqueira Reis contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 395-396):
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. ADMINISTRATIVO. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA AFASTADA. IMPUGNAÇÃO À ASSISTÊNCIA JUDICIÁRIA GRATUITA REJEITADA. POLICIAL MILITAR (SUBTENENTE PM) INATIVO. TRANSFERÊNCIA PARA RESERVA REMUNERADA COM PROVENTOS DE 1.º TENENTE. CÁLCULO DOS PROVENTOS SOBRE O SOLDO DA GRADUAÇÃO IMEDIATAMENTE SUPERIOR (1.º TENENTE) NÃO EQUIVALE A PROMOÇÃO NO MOMENTO DA INATIVIDADE. PRELIMINARES REJEITADAS. SEGURANÇA DENEGADA.
+1. Inicialmente, rejeita-se a preliminar de inadequação da via eleita, uma vez que os pedidos contidos na petição inicial se relacionam ao reajustamento dos proventos de inatividade, a partir da graduação de Capitão PM, não havendo, nesses termos, insurgência específica contra lei em tese.
+2. Afasta-se a impugnação à assistência judiciária gratuita aventada pelo Estado da Bahia uma vez que, apesar de suas alegações, o Ente Público não apresentou elemento capaz de refutar a hipossuficiência econômica alegada pela parte impetrante.
+3. A transferência do militar para a reserva remunerada garante o direito à percepção dos proventos com base no soldo do posto hierarquicamente superior, nos termos do art. 92, incs. III, V, alínea "k" c/c art. 175, inc. I da Lei Estadual n.º 7.990/2001, vigentes à época.
+4. Sob tal panorama, ainda que se considere a reorganização funcional da carreira policial militar baiana instaurada pela Lei n.º 7.145/97, o direito assegurado aos policiais militares de perceberem proventos de inatividade conforme grau hierárquico superior não equivale a promoção no momento da transferência para a reserva remunerada, razão pela qual não se afigura cabível a reclassificação do impetrante ao posto de 1.º Tenente e, por consequência, a modificação no cálculo remuneratório, tendo como paradigma o posto de Capitão PM.
+Em suas razões, o recorrente sustenta, em síntese, que é Policial Militar da reserva remunerada e que, com a extinção da graduação de Subtenente pela Lei 7.145/1997, possui direito líquido e certo a ser reclassificado ao posto de 1º Tenente, com proventos calculados sobre o posto de Capitão.
+Sem contrarrazões (fl. 569).
+O Ministério Público Federal opinou pelo não provimento do recurso ordinário, conforme ementa (fls. 577):
+PROCESSUAL CIVIL E ADMINISTRATIVO. POLICIAL MILITAR INATIVO. PRETENSÃO DE SER ENQUADRADO NO POSTO DE 1º TENENTE, COM PROVENTOS EQUIVALENTES AOS DE CAPITÃO. TRANSFERÊNCIA PARA A RESERVA REMUNERADA NA VIGÊNCIA DA LEI ESTADUAL 11.456/2009, QUE REINCLUIU O SUBTENENTE NA ESCALA HIERÁRQUICA DA POLÍCIA MILITAR. EXTINÇÃO DA GRADUAÇÃO NÃO CONFIGURADA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PELO NÃO PROVIMENTO DO RECURSO.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+A pretensão do recorrente, manifestada via mandado de segurança impetrado contra ato atribuído ao Secretário da Administração do Estado da Bahia - SAEB, cingia-se à condenação do ente público a garantir o direito do impetrante à promoção ao posto de 1º Tenente PM, com os respectivos vencimentos calculados com base no posto de Capitão PM.
+Ao denegar a segurança, o Tribunal de origem registrou que (fls. 413-418):
+Da leitura da petição inicial, depreende-se que a parte impetrante pretendeu sua reclassificação ao posto de 1.º Tenente, com a consequente a revisão dos proventos de inatividade com base no posto de Capitão PM.
+Analisando os autos, vê-se, pelo BGO n.º 163, de 25 de Agosto de 2017 (ID 58246542), que o impetrante fora transferido para a reserva remunerada no posto de 1.º Sargento PM, com proventos relativos à graduação de 1.º Tenente PM, identificando, na espécie, o atendimento nos termos do art. 92, incs. III e V, alínea "k" c/c o art. 175, inc. I da Lei Estadual n.º 7.990/2001, vigentes à época:
+(..)
+No particular, pontue-se que, embora o ato de inativação seja posterior à data de revogação do supra-transcrito dispositivo legal, cabível a aplicação da regra de transição prevista no art. 7.º da Lei Estadual n.º 14.186, de 15 de janeiro de 2020:
+(..)
+Na espécie, importa ressaltar que a transferência do apelado para a inatividade se deu após da edição da Lei n.º 7145/97 que reorganizou a carreira militar do Estado da Bahia, mantendo, tal como se verifica a seguir, o posto de Subtenente:
+(..)
+Atente-se, outrossim que a previsão constante no art. 4.º da referida norma indica:
+(..)
+A esse respeito, registre-se que o direito assegurado aos policiais militares de perceberem proventos de inatividade conforme grau hierárquico superior não equivale a promoção no momento da transferência para a reserva remunerada, razão pela qual não se afigura cabível a reclassificação do impetrante ao posto de 1.º Tenente e, por consequência, a modificação no cálculo remuneratório, tendo como paradigma o posto de Capitão PM.
+O detido exame das razões do recurso ordinário, contudo, evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir tais fundamentos, ou seja, não impugnou especificamente as razões de decidir que, por si só, respaldam o resultado do julgamento proferido pela Corte de origem, o que conduz ao não conhecimento da insurgência recursal face a incidência da Súmula 283/STF.
+A propósito:
+A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido (AgRg no RMS 30.555/MG, Sexta Turma, relator Ministro OG FERNANDES, DJe 1º/8/2012).
+No mesmo sentido aqui exposto há diversas decisões proferidas em casos análogos, dentre as quais citam-se as seguintes: RMS 76.064/BA, Min. Teodoro Silva Santos, DJEN 13/06/2025; RMS 76.790/BA, Min. Francisco Falcão, DJEN 21/08/2025; RMS 75.173/BA, Min. Teodoro Silva Santos, DJEN 18/06/2025; RMS 76.934/BA, Min. Maria Thereza de Assis Moura, DJEN 08/09/2025; RMS 76.498/BA, Min. Regina Helena Costa, DJEN 25/06/2025.
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO. INCIDÊNCIA ANALÓGICA DA SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
