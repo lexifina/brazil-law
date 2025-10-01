@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Alexandre Magalhães contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (fls. 122-123):
+CONSTITUCIONAL, ADMINISTRATIVO e CIVIL
+- Mandado de Segurança - Policial Militar - Correção do ato de promoção de 3º para 2º Sargento-PM - Pretensão de posterior reconhecimento de promoção para graduação de 1º Sargento-PM e transferência para reserva remunerada - Pedido administrativo para correção do ato depois de 5 (cinco) anos - Contagem do prazo para impetração - Prazo de 120 (cento e vinte) dias para impetração a partir do ato administrativo de promoção - Decadência operada - Súmula 430 do STF - Denegação da segurança.
+- O ato supostamente capaz de produzir lesão ao direito do Impetrante, qual seja, ato de promoção para graduação de 2ª Sargento PM e de transferência para reserva remunera, ocorreu em prazo superior a 120 (cento e vinte) dias para a impetração da Ação Mandamental, não se podendo falar que o pedido administrativo de reconsideração reabra lapso temporal, suscetível a impetração do mandamus.
+- Tem-se que a data do ato impugnado e o dia da impetração da presente ação mandamental não corresponde ao prazo previsto no art. 23 da Lei 12.016/2009.
+-"Pedido de reconsideração na via administrativa não Súmula interrompe o prazo para o mandado de segurança". ( 430 do Supremo Tribunal Federal)
+Em suas razões, o recorrente alega, em síntese, que possui direito subjetivo à promoção à graduação de 1º Sargento PM por antiguidade, tendo em vista que preenche os requisitos do Regulamento de Promoções de Praças (Decreto estadual n. 8.463/1980) e a exigência de conclusão de curso específico (Curso de Formação de Sargento - CFS ou Curso de Aperfeiçoamento em Segurança Pública - CASP) não se aplicaria ao caso.
+Com contrarrazões às fls. 154-164.
+O Ministério Público opinou pelo não conhecimento do recurso, nos termos da seguinte ementa (fl. 394):
+RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. POLICIAL MILITAR. PRETENSÃO DE PROMOÇÃO À GRADUAÇÃO DE 1º SARGENTO. PREJUDICIAL DE DECADÊNCIA ACOLHIDA (ART. 23 DA LEI Nº 12.016/2009). FUNDAMENTO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. APLICAÇÃO DO ART. 932, III, IN FINE, DO CÓDIGO DE PROCESSO CIVIL E DA SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL. PRINCÍPIO DA DIALETICIDADE. PARECER NO SENTIDO DO NÃO CONHECIMENTO DO RECURSO ORDINÁRIO.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+A pretensão do recorrente, manifestada via mandado de segurança impetrado contra ato atribuído ao Comandante-Geral da Polícia Militar da Paraíba, cinge-se à promoção do impetrante à graduação de 1º Sargento PM por antiguidade, com afastamento da exigência de curso específico (CFS/CASP), bem como ao reconhecimento dos efeitos correspondentes mesmo após a sua transferência para a reserva remunerada.
+O acórdão recorrido denegou a segurança em razão da inobservância do prazo decadencial, nos seguintes termos (fls. 242-245):
+Conforme visto no relatório, o impetrante manejou o presente mandamus, objetivando sua promoção para o posto de 1º Sargento em virtude de ter atendido aos pressupostos e requisitos previstos no Dec. 23.287/02.
+O prazo para impetração do mandado de segurança é de 120 (cento e vinte) dias, a contar da data em que o interessado tiver conhecimento oficial do ato a ser impugnado, sendo o prazo estipulado como legalmente razoável em relação à dinâmica e celeridade da ação mandamental. Vejamos a redação do art. 23 da Lei nº 12.016/2009:
+(..)
+Do cotejo dos autos, extrai-se que o impetrante vindica, de fato, com o corrigir ato do Comandante Geral, de 4 de novembro de 2015, que deu origem a sua promoção para a graduação de 2º Sargento e transferência para reserva remunerada, consequentemente, galgar o reconhecimento do seu direito a subsequente promoção para 1º Sargento PB em virtude de ter atendido aos pressupostos e requisitos previstos na Lei 4.816/86.
+Diante dos efeitos ocasionados por esse ato administrativo, fora interposto, em 2020, pelo Impetrante pedido administrativo perante o Comandante Geral da Polícia Militar do Estado da Paraíba (Processo Administrativo 2329/2020), que não acatou a alteração por aquele solicitada, indeferindo o pedido.
+Nesse contexto, imprescindível se faz suscitar, de ofício, a prejudicial, no sentido da configuração da decadência para a impetração deste Mandado de Segurança.
+(..)
+É de se ressaltar que o ato de transferência do militar para a reserva remunerada é dito como comissivo, único e de efeitos concretos, motivo pelo qual a partir dele se conta o prazo decadencial para a impetração do mandado de segurança.
+(..)
+Outro ponto a ser consignado é que o pedido formulado na via administrativa não implica na recontagem do prazo decadencial.
+Nesse sentido, convém destacar a Súmula 430 do Supremo Tribunal Federal: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança".
+Com efeito, verifica-se que a pretensão do demandante se volta contra o próprio direito à inatividade, ou mesmo o fundamento legal que embasou o respectivo ato de transferência para a reforma, como também em face do ato de promoção à graduação de 2º sargento.
+Na hipótese, é possível vislumbrar que, consoante Boletim da Polícia Militar juntado aos autos o ato de concessão da promoção à graduação de 2º Sargento-PM do autor ocorreu em 04 DE NOVEMBRO DE 2015 - BOL 206/2015.
+Pelo visto, o termo inicial para contagem do prazo decadencial para a impetração da presente ação mandamental é, justamente, o ato de promoção à graduação de 2º Sargento-PM e a concessão de transferência para a reserva remunerada.
+A partir das datas acima mencionadas e analisando-se o dia da impetração do mandado de segurança em tela (310/03/2021), vislumbra-se que não foi observado o prazo decadencial.
+Vale ressaltar que o fato de o impetrante ter sido designado para ocupar o posto da Guarda Militar da Reserva - GMR não modifica a conclusão, haja vista que a referida designação não interfere no ato concessivo da transferência para reserva remunerada.
+De acordo com o art. 7º da Lei Estadual nº9.353, de 12.04.2011, que criou o Corpo Voluntário de Militares do Estado da Paraíba, denominado de Guarda Militar da Reserva - GMR, "os inscritos no Corpo de Voluntários de Militares do Estado da Paraíba, mesmo quando designados, não sofrerá alteração de sua situação jurídica perante o Órgão Previdenciário, mas, durante a sua permanência na ". ativa, será considerado como enquadrado no posto exercido antes da reserva.
+Além disso, de acordo com regramento expresso na citada lei, o ingresso do inativo na Guarda Militar Remunerada não gera, por si só, direitos além daqueles nela previstos (art. 1º, §º, da Lei Estadual nº9.353/2011).
+Dito isso, outro caminho não resta a trilhar, senão o do reconhecimento da inobservância do lapso temporal da decadência para aviar o presente Mandado de Segurança (art. 23, da Lei nº 12.016/2009), impondo-se, assim, a denegação da ordem mandamental.
+O detido exame das razões do recurso ordinário, contudo, evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir tais fundamentos, ou seja, não impugnou especificamente as razões de decidir no tocante à decadência, que, por si só, respaldam o resultado do julgamento proferido pela Corte de origem. Tal situação conduz ao não conhecimento da insurgência recursal face a incidência da Súmula 283/STF.
+A propósito:
+A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido (AgRg no RMS 30.555/MG, Sexta Turma, relator Ministro OG FERNANDES, DJe 1º/8/2012).
+Nesse mesmo sentido: RMS 72.704/PB, Min. Francisco Falcão, DJe 22/02/2024; RMS 72.714/PB, Min. Regina Helena Costa, DJe 04/03/2024; RMS 76.120/BA, Min. Regina Helena Costa, DJe 24/04/2025.
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA ANALÓGICA DA SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
