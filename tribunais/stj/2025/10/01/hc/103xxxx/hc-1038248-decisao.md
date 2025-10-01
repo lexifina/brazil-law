@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KARIENEN DA SILVA REYNEN no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0043588-81.2025.8.19.0000, de relatoria da Desembargadora Katia Maria Amaral Jangutta).
+Depreende-se dos autos que a paciente encontra-se presa preventivamente pela suposta prática dos delitos tipificados nos arts. 33, caput, da Lei n. 11.343/2006, e 2º, §§ 2º, 3º, 4º, I e II, da Lei n. 12.850/2013, por 22 vezes, na forma do art. 69 do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 32/33):
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. ARTIGOS 2º, §§2º, 3º E 4º, I E II, DA LEI Nº 12.850/13 E 33, DA LEI Nº 11.343/06, 22, NA FORMA DO 69, DO CÓDIGO PENAL.
+I. Caso em exame
+Organização criminosa para a prática do crime de tráfico ilícito de drogas. Prisão preventiva.
+II. Questão em discussão
+Revogação. Prisão domiciliar.
+III. Razões de decidir
+Não se discute que a prisão é medida de exceção, a qual se justifica à vista da presença dos requisitos autorizadores previstos em lei, em especial os do artigo 312, do Código de Processo Penal, ensejando que, aquela decretada por decisão devidamente fundada em elementos e circunstâncias do caso concreto, e com base no citado dispositivo legal, não comporta revogação. No caso, trata-se de delitos de natureza grave, mostrando-se necessária a manutenção da prisão cautelar da ora Paciente, para garantia da ordem pública, conveniência da instrução criminal e aplicação da lei penal e diante da presença dos indícios de materialidade e autoria do crime, valendo ressaltar que, eventuais condições subjetivas a ela favoráveis, no caso dos Autos, não comprovadas, não se mostram suficientes à concessão da pretendida liberdade, à presença dos requisitos autorizadores da prisão preventiva, como reiteradamente vêm decidindo nossos Tribunais. Diante das circunstâncias consideradas, forçoso reconhecer que, a ora Paciente não se enquadra nas hipóteses que autorizam a aplicação de medidas cautelares diversas da prisão. Não obstante a impetração tenha se feito acompanhar de documentação idônea capaz de demonstrar que, ela tem filhos menores de idade e está grávida, sendo hipótese que constitui conflito de interesses entre o Estado - garantia da aplicação da lei penal - e a Ré, a quem são constitucionalmente asseguradas a dignidade humana, a vida, a saúde, e a integridade física, psíquica e moral e interesses de seu filho menor, além de a Lei nº 12.403/2011, que alterou o artigo 318, do Código de Processo Penal tenha passado a prever, em seu inciso V, a possibilidade de substituição da prisão preventiva por prisão domiciliar, à mulher com filho de até 12 anos de idade incompletos, o certo é que o caso concreto revela se estar diante de situação excepcional, conforme admitido pelo E. Supremo Tribunal Federal no julgamento do Habeas Corpus 143.641, e reconhecido pelo E. Superior Tribunal de Justiça em recentes Julgados. No caso há indícios de que a ora Paciente tem participação importante no esquema de tráfico ilícito de drogas, apontando que faz do crime seu meio de vida, e por consequência, da vida de seu filho. Alegações defensivas relativas ao mérito da ação, não comportam análise na via estreita do Writ.
+IV. Dispositivo
+ORDEM DENEGADA
+Neste writ, a defesa alega que o decreto prisional carece de fundamentação idônea, já que pautado, apenas, em argumentos genéricos.
+Pontua que a paciente é mãe de suas crianças, menores de 12 anos de idade, além de estar gestante, sendo a gestação considerada de alto risco, razão pela qual faz jus à concessão da prisão domiciliar, nos termos dos arts. 318-A e 318, IV e V, ambos do Código de Processo Penal.
+Destaca as condições pessoais favoráveis da acusada e afirma ser suficiente, também, a aplicação de outras medidas cautelares, consoante o disposto no art. 319 do citado diploma processual.
+Dessa forma, requer (e-STJ fl. 26):
+ ..  a concessão IMEDIATA E INAUDITA ALTERA PARS da medida liminar, para determinar a imediata substituição da prisão preventiva da Paciente KARIENEN DA SILVA REYNEN por prisão domiciliar, expedindo-se com máxima urgência o competente alvará de soltura clausulado, a ser cumprido por oficial de justiça em regime de plantão, dada a gravidade e a urgência da situação;
+b) Ao final, ainda que não conhecido o presente writ por ser substitutivo de recurso próprio, pugna-se pela CONCESSÃO DA ORDEM DE OFÍCIO, em razão da flagrante e teratológica ilegalidade apontada, para, confirmando a liminar, assegurar em definitivo o direito da Paciente de aguardar o deslinde do processo em prisão domiciliar, nos termos do art. 318-A do CPP.
+c) A devida comunicação da decisão à autoridade coatora e ao juízo de primeira instância para imediato cumprimento.
+É o relatório.
+Decido.
+Depreende-se dos autos que o presente writ é mera reiteração do pedido feito no HC n. 1.031.077/RJ, também de minha relatoria, no qual já proferi decisão denegando a ordem.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração, indefiro-o liminarmente com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
