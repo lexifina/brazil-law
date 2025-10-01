@@ -1,0 +1,34 @@
+DECISÃO
+Em  análise,  mandado de segurança impetrado por RICARDO SIQUEIRA MENDES, contra ato atribuído ao Ministro da Justiça e Segurança Pública, consistente no indeferimento do pedido de revisão do Processo Administrativo Disciplinar n. 08650.002631/2006-1, que culminou na demissão do servidor do cargo de Policial Rodoviário Federal. O ato apontado como coator foi publicado no DOU de 7 de novembro de 2018.
+No writ, o impetrante alega ter sido demitido do cargo de Policial Rodoviário Federal, por incurso nos artigos 117, incisos IX e XII e 132, inciso IV, da Lei n. 8.112/1990.
+Afirma que, em decorrência de fato novo, consistente na atuação do servidor ANTÔNIO RENATO PINTO MARTINEZ - presidente da comissão processante responsável pelo referido PAD - como advogado, oferecendo indiretamente seus serviços profissionais aos servidores investigados, protocolou, no ano de 2018, junto ao Ministério da Justiça, o pedido de revisão do PAD, com a finalidade de que fosse submetido a uma nova comissão processante.
+Esclarece que o indeferimento do pedido de revisão, com base no Parecer n. 81/2018/GCSF/CAD/ASSEJUR/MSP-MJ/CGU/AGU, que concluiu pela ausência de fatos novos ou circunstâncias relevantes para justificar a revisão, deu ensejo à presente impetração, na qual defende seu direito líquido e certo à revisão do referido processo administrativo disciplinar, a fim de que seja determinado que a autoridade coatora assegure, na forma da lei uma nova comissão, com observância do devido processo legal.
+Aduz, por fim, que, "apenas em 17 de fevereiro que a Corregedoria Regional da PRF enviou o e-mail diretamente ao impetrante com a devida ciência e encaminhando juntamente a fundamentação sobre o indeferimento" (fl. 18), iniciando-se, a partir desta data, o prazo para a impetração do mandamus.
+A autoridade coatora prestou informações às fls. 135-164.
+O Ministério Público Federal opinou pela denegação da ordem, em parecer que recebeu a seguinte ementa (fl. 1.401):
+MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. DECADÊNCIA. TERMO A QUO. DATA DA PUBLICAÇÃO NO DIÁRIO OFICIAL. PEDIDO DE REVISÃO DESPROVIDO DE EFEITO SUSPENSIVO. INDEFERIMENTO. ALEGADA FALTA DE IMPARCIALIDADE DO PRESIDENTE DA COMISSÃO PROCESSANTE NÃO COMPROVADA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. PRECEDENTES JURISPRUDENCIAIS.
+É o relatório.
+Passo a decidir.
+A ordem não merece ser concedida.
+Pretende o impetrante a anulação do Despacho 353, de 6 de novembro de 2018, publicado no D.O.U. de 7 de novembro de 2018 (fl. 107), que indeferiu o pedido de revisão do Processo Administrativo Disciplinar n. 08650.002631/2006-14, o qual deu ensejo à Portaria n. 924/MJ, de 14 de maio de 2007, publicada no D.O.U. de 15 de maio de 2007, pela qual o impetrante foi demitido do cargo de Policial Rodoviário Federal. No entanto, o writ foi impetrado no dia 16 de junho de 2021, quando já escoado o prazo legal de 120 previsto no artigo 23 da Lei n. 12.016/2009.
+O prazo de 120 dias para a impetração de mandado de segurança tem início na data em que o impetrante toma ciência do fato impugnado, nos termos do art. 23 da Lei 12.016/2009. Dessa forma, impetrado o presente writ após transcorrido o prazo de 120 dias, de rigor o reconhecimento da decadência para a impetração.
+Ressalte-se que a interposição de eventuais recursos ou pedidos de revisão administrativa não têm o condão de suspender ou interromper o curso da decadência. Nesse sentido, confira-se o enunciado da Súmula 430 do STF: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança".
+Nesse diapasão, destaco os seguintes precedentes, in verbis:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECADÊNCIA PARA A IMPETRAÇÃO DE MANDADO DE SEGURANÇA. TERMO INICIAL. PUBLICAÇÃO DA PORTARIA DEMISSÓRIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que o prazo de 120 dias para impetração do mandado de segurança se inicia com a ciência do interessado do teor ato impugnado, sendo que eventual pedido de revisão administrativa não interrompe a fluência do lapso decadencial. Inteligência da Súmula n. 430/STF.
+III - Na espécie, contudo, o recurso foi recebido com efeito suspensivo, de modo que a portaria demissória somente foi publicada em 15.10.2020.
+IV - Nesse hipótese, aplica-se a orientação desta Corte segundo a qual nos casos de Mandado de Segurança contra sanção disciplinar imposta a servidor público, o termo inicial do prazo decadencial conta-se a partir da publicação da portaria demissória no Diário Oficial.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido (AgInt no RMS n. 71.910/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/9/2024, DJe de 12/9/2024).
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PRETENSÃO DE REVISÃO DE ATO DE DECLARAÇÃO DE ANISTIADO POLÍTICO. PEDIDO DE RECONSIDERAÇÃO NÃO CONHECIDO NA ESFERA ADMINISTRATIVA. SÚMULA 430/STF. DECADÊNCIA. SEGURANÇA DENEGADA.
+1. "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança" (Súmula 430/STF).
+2. No caso, em 27/10/2010, foi publicada portaria na qual a autoridade impetrada não conheceu, por intempestivo, de anterior pedido de reconsideração formulado pela parte impetrante, em que busca a revisão de ato de declaração de anistiado político post mortem. Assim, tendo a impetração ocorrido apenas em 6/6/2018, com reiteração dos pedidos formulados na esfera administrativa, é forçoso o reconhecimento da decadência do direito de pedir segurança.
+3. Segurança denegada (MS n. 24.365/DF, de minha relatoria, Primeira Seção, julgado em 28/2/2024, DJe de 8/3/2024).
+Esclareça-se, por fim, que, ainda que se considerasse como termo inicial do prazo decadencial para a impetração a publicação do Despacho 353 no D.O.U. de 7 de novembro de 2018, a decadência estaria consumada pois, conforme já afirmado o mandado de segurança foi impetrado apenas em 16 de junho de 2021.
+Isso posto, denego a segurança.
+Custas, na forma da lei.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e da Súmula 105/STJ.
+Intimem-se
+EMENTA
