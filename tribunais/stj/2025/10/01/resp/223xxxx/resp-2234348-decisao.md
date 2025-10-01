@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por FIRMIANO ANTUNES CORDEIRO com base na alínea "a" do art. 105, inciso III, da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 253):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - IMPENHORABILIDADE - BEM DE FAMÍLIA - AUSÊNCIA DE COMPROVAÇÃO - CONSTRIÇÃO MANTIDA - RECURSO DESPROVIDO. Incumbe ao devedor/executado comprovar que o bem constrito nos autos se enquadra no conceito de bem de família e, portanto, se reveste pelo manto da impenhorabilidade, nos termos do art. 1º, da Lei nº 8.009/90. Não tendo sido evidenciado nos autos que o imóvel constrito se trata de bem de família deve ser mantida a decisão que afastou a alegada impenhorabilidade. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 296-306).
+Nas razões do recurso especial, o recorrente alega violação aos arts. 371, 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil bem como aos arts. 1º e 5º da Lei n. 8.009/1990.
+Sustenta que o acórdão é omisso, pois não se manifestou sobre documentação que comprovaria a qualidade de bem de família do imóvel, notadamente a) as faturas de água e esgoto, b) a fatura de energia elétrica, c) os comprovantes de que o recorrente não possui outros imóveis e d) a declaração de imposto de renda do recorrente.
+Aduz que, por se tratar de matéria de ordem pública, não há impedimento à juntada dos documentos comprobatórios em grau de recurso .
+Argumenta que, ainda que não se tratasse de matéria de ordem pública, não há impedimento à juntada da documentação em sede de recurso, desde que ausente má-fé e observado o contraditório.
+Informa que, quando o recorrido foi intimado para apresentar contraminuta ao agravo de instrumento, todos os documentos referidos já estavam nos autos, viabilizando o contraditório.
+Aponta que, ao não acolher a alegação de impenhorabilidade do bem de família, foram violados os demais dispositivos indicados, visto que a documentação comprova que o recorrente sempre residiu no imóvel penhorado.
+Contrarrazões juntadas às fls. 378-381, pleiteando a aplicação das Súmulas 7 e 211 do STJ, bem como a manutenção do acórdão.
+Assim delimitada a controvérsia, satisfeitos os requisitos de admissibilidade, passo à análise do recurso especial.
+Trata-se de execução de título extrajudicial em que se discute a impenhorabilidade de imóvel, em razão da alegação do executado, ora recorrente, de que constitui bem de família, nos termos da Lei n. 8.009/1990.
+O Tribunal de origem indeferiu o pedido de impenhorabilidade do imóvel, por ter concluído que não houve a devida comprovação de que o executado reside no imóvel. Veja-se:
+Ora, a simples juntada de escritura não se revela suficiente para tanto, especialmente pelo fato de que além da titularidade, para a caracterização do bem de família, imprescindível se faz a demonstração de nele residir, o que não foi atendido.
+Vale dizer, ainda, que o magistrado sinalizou por meio do despacho de ordem 70 que a prova estava insuficiente, intimando-o para complementá-la, optando o executado por afirmar que os documentos já haviam sido anexados. (fl. 256, grifou-se).
+Diante de tal decisão, foram interpostos embargos de declaração pelo recorrente, suscitando manifestação do Tribunal de origem a respeito do restante da documentação contida nos autos, que não foi considerada, embora pudesse ser apta a comprovar a moradia no imóvel (fls. 266-267).
+Quanto ao tema, assim se posicionou o acórdão que julgou os embargos de declaração:
+Sobre a análise de documentação na seara recursal, inconteste que a conduta do recorrente vai de encontro com os princípios comezinhos da boa-fé, na medida em que busca subverter a ordem processual, ao apresentar documentos perante este órgão revisor, quando a decisão objurgada aponta, especificamente, sua inércia nesse desiderato, motivo que motivou a rejeição de sua pretensão.
+Anoto, por oportuno, que a juntada de documentação no recurso poderá ser admitia, quando surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior, nos termos do art. 435 do CPC, o que não se amolda ao caso concreto. (fls. 301-302, grifou-se).
+Em síntese, verifica-se que a instância de origem se negou a apreciar a documentação sob o fundamento de que não seriam documentos novos.
+Tal posicionamento, contudo, destoa da jurisprudência pacífica do STJ no sentido de que a juntada extemporânea de documentos é admitida, desde que preservado o contraditório e não seja verificada a má-fé do interessado, como se verifica no caso dos autos, que discute o próprio direito à moradia do recorrente, que é assistido pela Defensoria Pública.
+Nesse sentido, transcrevo os julgados abaixo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS. DESABAMENTO DE IMÓVEL CONTÍGUO. LEGITIMIDADE ATIVA. JUNTADA DE DOCUMENTO NAS CONTRARRAZÕES DA APELAÇÃO. POSSIBILIDADE. AUSÊNCIA DE INTIMAÇÃO DA CONTRAPARTE. VIOLAÇÃO DO CONTRADITÓRIO E DA AMPLA DEFESA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Consoante entendimento desta Corte Superior, é possível juntar documento em sede de apelação ou contrarrazões, desde que ausente má-fé e respeitado o contraditório. Precedentes.
+2. A ausência de intimação da contraparte para se manifestar sobre os documentos juntados em contrarrazões de apelação, que foram relevantes para o deslinde da controvérsia, configura ofensa ao princípio do contraditório e da ampla defesa.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, dar parcial provimento ao recurso especial.
+(AgInt no REsp n. 1.805.236/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024, grifou-se.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. EFEITO DEVOLUTIVO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO. POSSIBILIDADE. ENRIQUECIMENTO SEM CAUSA. REEXAME. SÚMULA Nº 7/STJ. DOCUMENTOS. JUNTADA EXTEMPORÂNEA. PRINCÍPIO DO CONTRADITÓRIO RESPEITADO. POSSIBILIDADE. DECISÃO SURPRESA. NÃO OCORRÊNCIA. OPORTUNIDADE DE MANIFESTAÇÃO DA PARTE CONTRÁRIA.
+1. O entendimento do Superior Tribunal de Justiça é firme no sentido de que os pedidos formulados pelas partes devem ser analisados a partir de uma interpretação lógico-sistemática, de forma a extrair da peça processual, inclusive dos recursos, a sua real pretensão.
+Precedentes.
+2. O reconhecimento do enriquecimento sem causa dos recorridos demandaria reexame das circunstâncias fático-probatórias, o que é inviável na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+3. É permitida a juntada extemporânea de documentos, até mesmo na fase recursal, desde que observado o princípio do contraditório e ausente a má-fé da parte. Precedentes.
+4. A vedação à decisão surpresa não significa que o julgador deve consultar as partes antes da cada solução dada às controvérsias apresentadas, especialmente quando já lhes foi dada oportunidade para apresentar manifestação, tendo se estabelecido o contraditório.
+Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.633.597/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024, grifou-se.)
+Assim, ganha relevância a alegação de omissão no julgado, visto que os documentos referidos pelo recorrente (faturas de consumo da residência e declaração de imposto de renda) podem ter aptidão para comprovar que o imóvel penhorado serve à sua moradia, modificando a conclusão do acórdão, o que deve ser avaliado pela instância de origem.
+Nos termos da jurisprudência do STJ, "deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam alterar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022" (AgInt no REsp n. 2.039.148/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Em face do exposto, dou provimento ao recurso especial para cassar o acórdão que julgou os embargos de declaração (fls. 296-306), determinando o retorno dos autos ao Tribunal de origem para que promova novo julgamento do recurso, como entender de direito, manifestando-se expressamente sobre os documentos referidos na terceira página dos embargos de declaração.
+Intimem-se.
+EMENTA
