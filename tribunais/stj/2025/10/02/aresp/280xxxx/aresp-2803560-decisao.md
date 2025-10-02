@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto por FELIPE BANCHIERI FLAUSINO em face da decisão da lavra deste signatário, que negou provimento ao agravo (art. 1.042 do CPC/15), por meio do qual o ora insurgente pretendia ver admitido o recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 288, e-STJ):
+APELAÇÃO. CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. INÉPCIA DA PETIÇÃO INICIAL. PRELIMINAR REJEITADA. CARTÃO DE CRÉDITO. ROTATIVO. FATURAS INADIMPLIDAS. JUROS REMUNERATÓRIOS. TAXA MÉDIA DO MERCADO. CAPITALIZAÇÃO DE JUROS. LEGALIDADE. ABUSIVIDADE NÃO COMPROVADA. RECURSO CONHECIDO E DESPROVIDO.
+1. Para a cobrança de débitos originados de cartões de crédito, a juntada do contrato é dispensável, por ser suficiente a apresentação das faturas mensais e a indicação dos encargos correlatos. Precedentes. Preliminar de inépcia da petição inicial rejeitada.
+2. O Superior Tribunal de Justiça, sob o rito de julgamento de recursos repetitivos, firmou posicionamento de que é possível a limitação dos juros remuneratórios das instituições financeiras, desde que cabalmente comprovada a abusividade de sua cobrança no caso concreto (REsp 1061530/RS). No caso, o apelante não declinou nenhum elemento a indicar a abusividade da taxa de juros cobrada pela instituição financeira e seu patamar não destoa da média praticada no mercado para operações semelhantes.
+3. A capitalização mensal de juros em pactos de crédito bancário, por força da Medida Provisória n. 1963-17/2000, reeditada com o n. 2.170-36/2001, apresenta-se marcada pela legalidade, se expressamente prevista no regulamento aceito pelo devedor, como na exata situação dos autos.
+4. Recurso conhecido e desprovido.
+A parte recorrente apontou violação aos arts. 6º, inciso III, 54-B, 54-G, inciso II, 2º, 3º e 51, § 1º, do Código de Defesa do Consumidor. Sustenta, em síntese: a) a nulidade da decisão recorrida, porquanto a ação não foi instruída com documento indispensável à sua propositura, qual seja, a apresentação do contrato de adesão para comprovar a origem do débito e os encargos aplicáveis; b) que o ônus probatório imposto ao consumidor foi muito superior ao imposto ao recorrido, afrontando o diploma consumeirista; c) que a capitalização de juros não foi expressamente pactuada, tornando sua cobrança abusiva (fls. 323-335, e-STJ).
+Contrarrazões apresentadas às fls. 351-357, e-STJ.
+Em juízo de admissibilidade (fls. 363-365, e-STJ), negou-se o processamento do recurso especial, por incidência das Súmulas 7 do STJ, bem como das Súmulas 282 e 356 do STJ, dando ensejo ao agravo (fls. 371-381, e-STJ).
+Contraminuta apresentada às fls. 389-395, e-STJ.
+Em julgamento monocrático (fls. 417-424, e-STJ), negou-se provimento ao reclamo, por incidência das Súmulas 5 e 7 do STJ.
+Ato contínuo, a parte irresignada opôs embargos declaratórios (fls. 427-429, e-STJ), os quais foram rejeitados às fls. 446-449, e-STJ.
+No presente agravo interno (fls. 453-465, e-STJ), a insurgente sustenta que a decisão agravada incorreu em equívoco ao aplicar as Súmulas 5 e 7 do STJ, argumentando que a controvérsia não demanda reexame de provas ou interpretação de cláusulas contratuais, mas sim a análise de divergência jurisprudencial.
+Contraminuta apresentada às fls. 471-476, e-STJ.
+É o relatório.
+1. Discute-se no apelo nobre acerca da aferição de eventual abusividade dos juros remuneratórios ajustados entre as partes, utilizando-se, por base, os parâmetros referentes à taxa média de mercado praticada pelas instituições financeiras do país e aquela disponibilizada pelo BACEN, além da verificação dos aspectos fáticos da contratação bancária.
+A referida controvérsia foi afetada pela Segunda Seção desta Corte à sistemática de recursos especiais repetitivos, cadastrado como Tema 1378, a saber:
+Questão submetida a julgamento: I) suficiência ou não da adoção das taxas médias de mercado divulgadas pelo Banco Central do Brasil ou de outros critérios previamente definidos como fundamento exclusivo para a aferição da abusividade dos juros remuneratórios em contratos bancários; II) (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto à abusividade ou não das taxas de juros remuneratórios pactuadas, quando baseadas em aspectos fáticos da contratação.
+Ademais, foi determinada a suspensão da tramitação dos recursos especiais e agravos em recurso especial, em trâmite nas instâncias ordinárias ou nesta Corte Superior, que discutam idêntica questão jurídica, nos termos do art. 1.037, II, do CPC/2015.
+Dessa forma, impõe-se a devolução dos autos ao eg. Tribunal de Origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/15, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2. Ante o exposto, determina-se a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte Superior, até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema 1378) e eventual retratação prevista nos arts. 1.040, inc. II, e 1.041, ambos do CPC/15.
+Publique-se.
+Intimem-se.
+Cumpra-se.
+EMENTA
