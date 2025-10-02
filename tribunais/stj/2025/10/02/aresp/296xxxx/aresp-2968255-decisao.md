@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) aplicação da Súmula n. 7/STJ e (b) falta de comprovação do dissídio jurisprudencial, por inexistência de similitude fática (fls. 549-560).
+O acórdão do TJBA traz a seguinte ementa (fl. 383):
+DIREITO PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. PRELIMINAR DE NULIDADE DE CITAÇÃO. REJEITADA. COBERTURA CONTRATUAL A TRATAMENTO MULTIDISCIPLINAR PARA TEA - TRANSTORNO DO ESPECTRO AUTISTA. PACIENTE COM 10 ANOS DE IDADE. PREJUÍZOS AO DESENVOLVIMENTO PSICOMOTOR DA INFANTE CASO O TRATAMENTO NÃO SEJA MANTIDO. PRESCRIÇÃO DE TERAPIA ABA COM PSICÓLOGO, FONOAUDIÓLOGO, TERAPEUTA OCUPACIONAL, PSICOPEDAGOGO. POSSIBILIDADE. RESOLUÇÃO NORMATIVA DA ANS  539/2022. ROL TAXATIVO MITIGADO EM PROL DO TRATAMENTO PRESCRITO PELO MÉDICO ASSISTENTE. PRESCRIÇÃO DE ACOMPANHANTE TERAPÊUTICO EM AMBIENTE ESCOLAR. IMPOSSIBILIDADE. PROFISSIONAL DA ÁREA DE EDUCAÇÃO QUE NÃO TEM COBERTURA PREVISTA NO CONTRATO DE PLANO DE SAÚDE. DANOS MORAIS. OCORRÊNCIA. QUANTUM INDENIZATÓRIO FIXADO EM R$20.000,00. REDUÇÃO PARA R$10.000,00. RECURSO PARCIAMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 449-465).
+No recurso especial (fls. 480-502), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aduziu dissídio jurisprudencial e violação dos arts. 2º, III, e 3º, III, da Lei n. 12.764/2012 , afirmando ser descabido limitar o custeio do acompanhante terapêutico em sala de aula para o tratamento do Transtorno do Espectro Autista, pois a mencionada cobertura teria natureza terapêutica e, por isso, estaria incorporada ao rol da ANS.
+Acrescentou que "o acompanhante terapêutico, requerido pela infante, é realizado por um profissional da área de saúde, com formação específica e atribuição para ministrar tratamentos multidisciplinares no ambiente natural da criança (escola, residência ou clínica). O terapeuta auxilia no que diz respeito aos mecanismos comportamentais e sociais, possibilitando que o educando seja inserido e aceito no âmbito escolar. Em outros termos, o acompanhante terapêutico, na condição de aplicador da ciência ABA, é profissional de saúde, integrante da equipe multiprofissional, responsável pelo acompanhamento diário do tratamento clínico/terapêutico da criança, em todos os ambientes, inclusive, na escola" (fl. 489).
+No agravo (fls. 583-599), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 605-608).
+Parecer do Ministério Público Federal às fls. 639-643.
+É o relatório.
+Decido.
+A fim de sustentar o custeio do acompanhante terapêutico pelo plano de saúde ora recorrido, a parte recorrente apontou violação dos arts. 2º, II I, e 3º, III, da Lei n. 12.764/2012.
+Ocorre que tais dispositivos legais, isoladamente, não possuem o alcance normativo pretendido, porque nada dispõem a respeito da existência da amplitude de cobertura dos planos de saúde, tampouco da natureza jurídica do rol da ANS.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
