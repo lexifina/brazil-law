@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial de JOÃO DE MENEZES ROCHA (Inventariante MARIA MAGDALENA DA SILVA ROCHA) apresentado com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurgira contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 1.451):
+DIREITO ADMINISTRATIVO. APELAÇÃO. CUMPRIMENTO DE SENTENÇA. RECONHECIMENTO DA COISA JULGADA.
+I- Há coisa julgada quando se reproduz ação anteriormente ajuizada e já decidida por decisão preclusa, com coincidência de partes, causa de pedir e pedido, conforme se extrai do artigo 337 do Código de Processo Civil.
+II- Constata-se que as ações têm o mesmo objetivo - percepção de Gratificação de Desempenho de Atividade do Seguro Social - GDASS em paridade com os servidores da ativa, no período assinalado e com o limite de 80 pontos - o que faz incidir a regra do artigo 508 do Código de Processo Civil.
+III- Apelação desprovida.
+Nas razões do seu recurso especial (fls. 1.461/1.471), a parte agravante sustenta, além de divergência jurisprudencial, violação aos arts. 337, §§ 1º, 2º e 3º, do Código de Processo Civil (CPC).
+Argumenta, para tanto, ser "patente que não há litispendência no caso em espeque, pois a presente ação compreende períodos não abarcados pela ação indicada como "litispendente", de modo que o objeto da presente execução não incide a coisa julgada" (fl. 1.470).
+Contrarrazões apresentadas às fls. 1.479/1.483.
+Juízo de admissibilidade negativo à fl. 1.490.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de "execução individual de sentença coletiva proposta pelo ESPÓLIO DE JOÃO DE MENEZES ROCHA, administrado por MARIA MAGDALENA DA SILVA ROCHA, tendo por objeto o título judicial formado na ação coletiva nº 0012866-79.2008.4.01.3400, com vistas ao recebimento de Gratificação de Desempenho das Atividades do Seguro Social - GDASS, em igualdade de condições com os servidores em atividade" (fl. 1.393).
+A tese de coisa julgada foi reconhecida pelo Tribunal de origem sob o fundamento de que "as ações têm o mesmo objetivo - percepção de Gratificação de Desempenho de Atividade do Seguro Social - GDASS em paridade com os servidores da ativa, no período assinalado e com o limite de 80 pontos" (fl. 1.149).
+Confira-se:
+Da leitura atenta dos autos, verifico que o Juízo a quo reconheceu a existência de coisa julgada formada nos autos da Execução Individual nº 0002669-78.2019.4.02.5105, oriunda da ação coletiva nº 0022787-73.2008.4.02.5101.
+Há coisa julgada quando se reproduz ação anteriormente ajuizada e já decidida por decisão preclusa, com coincidência de partes, causa de pedir e pedido, conforme se extrai do artigo 337 do Código de Processo Civil.
+Conforme já exposto na sentença impugnada, na ação nº 0002669-78.2019.4.02.5105, "o Juízo liquidou o valor a ser executado (evento 42)", de acordo com o título judicial formado pelo acórdão proferido pelo Tribunal Regional Federal da 1ª Região, in verbis:
+ ..
+E, ainda consoante constatado pelo juízo a quo, "Satisfeita a obrigação de pagar, o processo foi extinto (evento 71), tendo a respectiva sentença transitado em julgado".
+Assim, ao contrário do que afirma a apelante, no acórdão referenciado, esta Corte Regional reformou parcialmente a sentença para condenar a autarquia previdenciária ao "pagamento das diferenças devidas da seguinte forma: de dezembro de 2003 até março de 2007, no limite de 60 (sessenta) pontos, e de março de 2007 até abril de 2009 no limite de 80 (oitenta) pontos".
+Dessa forma, constata-se que as ações têm o mesmo objetivo - percepção de Gratificação de Desempenho de Atividade do Seguro Social - GDASS em paridade com os servidores da ativa, no período assinalado e com o limite de 80 pontos. Verifica-se, portanto, a ocorrência de coisa julgada, operando-se a eficácia preclusiva a teor do artigo 508 do Código de Processo Civil, in verbis:  ..  (fl. 1.449).
+Entretanto, a tese da parte ora recorrente é de que "não há litispendência no caso em espeque, pois a presente ação compreende períodos não abarcados pela ação indicada como "litispendente", de modo que o objeto da presente execução não incide a coisa julgada" (fl. 1.470).
+Entendimento diverso do que consta no acórdão recorrido, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+No mesmo sentido, confiram-se os seguintes precedentes:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. APOSENTADORIA POR IDADE HÍBRIDA. LEI 11.718/2008. TEMPO DE TRABALHO URBANO E RURAL. ANTERIOR PEDIDO DA PARTE AUTORA, DE APOSENTADORIA POR IDADE COMO RURÍCOLA, JULGADO IMPROCEDENTE. ACÓRDÃO QUE, FUNDAMENTADO NOS ASPECTOS CONCRETOS DA CAUSA, CONCLUIU PELA INEXISTÊNCIA DE COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
+I. Recurso Especial aviado contra acórdão publicado na vigência do CPC/73.
+II. Quanto à alegada negativa de prestação jurisdicional, o recorrente não demonstrou, de forma precisa e adequada, em que ponto o acórdão embargado permaneceu omisso, limitando-se a alegações genéricas, pelo que o recurso esbarra no óbice da Súmula 284/STF. Nesse sentido: STJ, AgRg no AREsp 458.067/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/02/2014; AgRg no AREsp 449.527/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/02/2014.
+III. O Tribunal de origem concluiu pela não ocorrência da coisa julgada, em relação à anterior ação ajuizada pela parte autora - cujo pedido era de concessão de aposentadoria por idade, na condição de rurícola -, por entender, diante do contexto fático dos autos, diversos o pedido e a causa de pedir, deixando consignado, no acórdão recorrido, que, "no caso concreto, procede o argumento da autora no sentido de que a presente demanda está fundada na apreciação de pedido administrativo diverso, e, portanto, não há falar em ofensa à coisa julgada". Registrou, ainda, que, "havendo identidade de partes, mas não de pedido e causa de pedir, deve ser afastada a condenação da autora em litigância de má-fé".
+IV. Considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+V. Recurso Especial não conhecido.
+(REsp n. 1.411.886/PR, relator Ministro Mauro Campbell Marques, relatora para acórdão Ministra Assusete Magalhães, Segunda Turma, julgado em 13/11/2018, DJe de 26/2/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. DNIT. ENQUADRAMENTO. LEI 11.171/2005. PRAZO PRESCRICIONAL. TESE DE RECONHECIMENTO DE LITISPENDÊNCIA E COISA JULGADA REFUTADA PELA CORTE DE ORIGEM, A PARTIR DAS PREMISSAS FÁTICAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A inversão conclusão firmada pela Corte de origem, refutando a configuração de litispendência e coisa julgada - demanda a análise minuciosa dos elementos configuradores da litispendência entre ações (identidade de partes, de causa de pedir e do pedido), o que implica, necessariamente, no reexame do conjunto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+ ..
+3. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp n. 1.505.896/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 12/2/2019, REPDJe de 26/2/2019, DJe de 25/2/2019.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. COISA JULGADA. CARACTERIZAÇÃO. TRÍPLICE IDENTIDADE. AGRAVAMENTO DA DOENÇA TIDO POR NÃO COMPROVADO PELO TRIBUNAL DE ORIGEM. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem acerca da existência de coisa julgada, bem como se houve ou não o agravamento da doença a enseja r a concessão de benefício por incapacidade, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 807.835/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/9/2017, DJe de 17/10/2017.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente , o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
