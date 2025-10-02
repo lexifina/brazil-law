@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, agravo interno interposto por FTL - FERROVIA TRANSNORDESTINA LOGÍSTICA S.A contra decisão que não conheceu o recurso especial por incidência da Súmula 284/STF.
+Argumenta  a  parte agravante,  em  síntese,  que "mesmo que a União afirme não possuir interesse em compor o feito, tal afirmativa não é válida, pois, diante da sucessão legal da extinta RFFSA pela União, inarredável a necessidade de compor as demandas que envolvem seus bens para a esfera federal, nos termos da Súmula 365, do Superior Tribunal de Justiça,  ..  " (fl. 619).
+Destaca, ainda, que "foi precisamente com a intenção de proteger tais direitos e àqueles de pessoas que porventura venham a ter haveres em face da RFFSA, que o legislador federal expressamente dispôs a UNIÃO como sua legítima sucessora" (fl. 620).
+Pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo não provimento do recurso (fls. 632-636).
+É o relatório.
+Decido.
+Considerando a relevância dos argumentos esposados pela parte agravante, reconsidero a decisão agravada e passo a nova análise do recurso.
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso especial em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1384/STJ, cuja questão submetida a julgamento é: "Estabelecer se a União, o DNIT e/ou a ANTT devem obrigatoriamente participar de ações possessórias ajuizadas por concessionárias de serviços públicos federais contra particulares que ocupam faixas de domínio de ferrovias ou rodovias federais, independentemente de sua manifestação de vontade, ou se a declaração de ausência de interesse jurídico por esses entes é suficiente para afastar a competência da Justiça Federal, deslocando o feito para a Justiça estadual".
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, reconsidero a decisão de fls. 608-612 e determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade lim itada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
