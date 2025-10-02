@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela L. A. L. Rios & Cia Ltda contra decisão assim ementada (fl. 453):
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. ATIVIDADE EXECUTADA SEM LICENÇA AMBIENTAL. DEGRADAÇÃO DO MEIO AMBIENTE. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. ARGUMENTAÇÃO DISSOCIADA DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A parte embargante aponta, em síntese, omissão da decisão agravada ao desconsiderar que houve a impugnação da tese principal do recurso especial, já que se defendeu no REsp, com base no art. 14, §1º, da Lei n. 6.938/1981, que a reparação do dano ambiental depende da prova do dano, não sendo possível a condenação com base na mera presunção.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na hipótese dos autos, como bem analisado no decisum de fls. 453-457, as teses jurídicas acerca da existência de responsabilidade civil objetiva pelo dano ambiental, independentemente da verificação de culpa, bem como da existência de prova documental acostada aos autos, elaborada após a visita técnica aos empreendimentos situados na Área de Proteção Ambiental de Pedra do Cavalo, demonstrando que o empreendimento utilizava alumínio em barra para a fabricação de esquadrias de alumínio, que não possuía licença ambiental necessária, não foi combatida nas razões do apelo especial, ao contrário do argumento apresentado.
+Assim, não há irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o decisum embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ATIVIDADE EXECUTADA SEM LICENÇA AMBIENTAL. DEGRADAÇÃO DO MEIO AMBIENTE. ALEGADA OMISSÃO DA DECISÃO EMBARGADA. VÍCIO NÃO CONFIGURADO. EMBARGOS REJEITADOS.
