@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. contra decisão que inadmitiu recurso especial sob o fundamento de aplicaçã o da Súmula n. 7 do STJ (fls. 488-498).
+O acórdão recorrido encontra-se assim ementado (fls. 341-342):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER CC INDENIZAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE - CANCELAMENTO DO PLANO AUTORA- QUE ALEGA TER SIDO VÍTIMA DO CHAMADO GOLPE DO FALSO BOLETO ENVIADO ATRAVÉS DO APLICATIVO WHATSAPP PELA OPERADORA DO PLANO DE SAÚDE - FRAUDE PRATICADA POR TERCEIROS - APLICAÇÃO DA TEORIA DO RISCO DO EMPREENDIMENTO - RESPONSABILIDADE OBJETIVA DA SEGURADORA RÉ - DANO MORAL INEXISTENTE - AUSÊNCIA DE COMPROVAÇÃO DE REPERCUSSÃO NEGATIVA À SAÚDE DO BENEFICIÁRIO- SENTENÇA REFORMADA APENAS PARA AFASTAR O DANO MORAL
+- RECURSO CONHECIDO E PARCIALMENTE PROVIDO. UNANIMIDADE.
+No recurso especial (fls. 374-447), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou divergência jurisprudencial e a violação dos seguintes dispositivos:
+(i) arts. 13, 14 e 18, caput, da Resolução Normativa n. 195/2009 da ANS, 2º da Resolução Normativa n. 196/2009 da ANS e 17 e 485, VI, do CPC, sustentando, em síntese, a sua ilegitimidade passiva para figurar na demanda uma vez que é operadora de plano de saúde e não administradora (fls. 381-382),
+(ii) arts. 186, 187, 188, I, 944 e 946 do CC, informando que não houve ato ilícito por parte da operadora que justifique a sua condenação (fls. 378, 384 e 390),
+(iii) art. 373 do CPC, aduzindo que não foram comprovadas as alegações da parte agravada (fl. 392), e
+(iv) arts. 1º e 13, parágrafo único, da Lei n. 9.656/1998, alegando que o contrato em análise é coletivo por adesão e que não se aplica o citado dispositivo, o qual "veda o cancelamento do contrato individual, salvo devido ao não pagamento da mensalidade por período superior a 60 dias, consecutivos ou não, nos últimos 12 meses, devendo haver a notificação prévia" (fls. 392-393).
+Foram apresentadas contrarrazões (fls. 453-477).
+No agravo (fls. 506-512), afirma a presença dos requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 525-540).
+É o relatório.
+Decido.
+Incialmente, no tocante à violação dos arts. 13, 14 e 18, caput, da Resolução Normativa n. 195/2009 da ANS e 2º da Resolução Normativa n. 196/2009 da ANS, "refoge da esfera de competência do Superior Tribunal de Justiça apreciar, por meio de recurso especial, eventual violação de súmulas, resoluções, portarias, regimentos, instruções normativas e circulares, visto que não se enquadram no conceito de "lei federal" previsto no art. 105, III, a, da Constituição de 1988" (AgInt no AREsp n. 2.320.552/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+Quanto ao mérito, o Tribunal de origem assim se pronunciou (fls. 345-349):
+A operadora defende a sua ilegitimidade passiva ad causam, posto que o contrato da parte autora é de modalidade Coletivo Por Adesão e foi firmado por intermédio de uma ADMINISTRADORA DE BENEFÍCIOS, onde os pagamentos mensais do usuário eram feitos diretamente à Administradora.
+Apesar das assertivas da recorrente, a existência de uma empresa intermediária na relação com o plano de saúde não impede que o beneficiário busque diretamente a tutela jurisdicional visando o restabelecimento do seu vínculo contratual com a operadora, que, em tese, foi rompido ilegalmente.
+Em casos tais, a jurisprudência remansosa segue no sentido de que o usuário pode ajuizar ação direta contra o plano de saúde, mesmo que a contratação tenha sido intermediada por uma administradora ou estipulante, pois a operadora/recorrente faz parte da cadeia de fornecedores, respondendo solidariamente perante o consumidor por eventuais falhas na prestação de serviço.  ..
+Outrossim, vale mencionar os termos do art. 34, do Código de Defesa do Consumidor, in verbis:
+"Art. 34. O fornecedor do produto ou serviço é solidariamente responsável pelos atos de seus prepostos ou representantes autônomos."
+Portanto, rejeito a preliminar suscitada pela operadora e passemos ao exame do mérito.  ..
+Conforme se depreende dos autos, a recorrente justifica a realização do cancelamento do plano de saúde em decorrência da inadimplência superior a 60 dias e que teria enviado a notificação para o endereço informado no contrato.
+Há evidências de que a autora foi vítima do golpe conhecido como phishing, pois, supondo estar negociando com a real credora não percebeu detalhes no boleto falso realizando pagamentos ao fraudador, que teve acesso aos dados das operações entabuladas pelas partes, como nome completo, CPF, número de celular e valor de cada mensalidade, fato que foi fundamental para o sucesso do golpe.
+Desse modo, entendo que está configurada a falha na segurança interna da ré que permitiu que fraudadores obtivessem dados da autora e pudessem manipular o envio e comunicação sobre o pedido de pagamento de mensalidade, recebendo ainda os valores relativos ao mês de novembro de 2022.
+O vazamento das informações caracteriza fortuito interno e não afasta a responsabilidade objetiva da operadora, que deve responder pelos danos causados. A ré não nega a fraude, mas argumenta que não têm relação com o caso e que a autora não foi atenta o suficiente para percebe estar sendo vítima de fraude, porém, não comprovou que adotou todas as medidas necessárias para prevenir a ocorrência do evento, assumindo o risco inerente à sua atividade, conforme o parágrafo único, do artigo 927 do Código Civil.
+Dessa forma, o restabelecimento da vigência do plano nas suas condições originais é consequência do reconhecimento da responsabilidade da apelada, devendo a sentença fustigada manter-se na íntegra neste ponto de insurgência.
+Dessa forma, o entendimento adotado pelo Tribunal de origem em relação à legitimidade passiva solidária da operadora está de acordo com a jurisprudência desta Corte, já que "o fortuito interno, entendido como o fato imprevisível e inevitável ocorrido no momento da prestação do serviço ou da fabricação do produto, não exclui a responsabilidade do fornecedor, pois relaciona-se com a atividade e os riscos inerentes ao empreendimento" (AgInt no AREsp n. 2.057.346/RO, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ADMINISTRADORA DE BENEFÍCIOS. RESPONSABILIDADE SOLIDÁRIA COM A OPERADORA. AGRAVO INTERNO DESPROVIDO.
+1. A argumentação suscitada no recurso especial, de ilegitimidade da administradora do plano de saúde para responder por danos causados a seus usuários pela operadora do benefício, contraria a orientação jurisprudencial deste Tribunal Superior, segundo a qual há responsabilidade solidária na cadeia de consumo dos serviços de plano de saúde. Precedentes.
+2 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.696.436/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/12/2024, DJEN de 19/12/2024.)
+Tendo em vista a consonância do acórdão recorrido com a jurisprudência desta Corte Superior, aplica-se ao caso a Súmula n. 83 do STJ, tanto em relação aos recursos interpostos com base na alínea "c" quanto àqueles fundados na alínea "a" do permissivo constitucional.
+Ademais, modificar o entendimento do acórdão impugnado quanto à comprovação dos fatos alegados pela parte agravada e à configuração da responsabilidade da agravante demandaria reexame do conjunto fático-probatório dos autos, providência não admitida em sede de recurso especial, a teor da Súmula n. 7 do STJ.
+Por fim, o TJSE não se pronunciou sobre o conteúdo normativo dos arts. 1º e 13, parágrafo único, da Lei n. 9.656/1998, circunstância que impede o conhecimento da insurgência por falta de prequestionamento, conforme a Súmula n. 282 do STF, aplicada por analogia.
+Ante o exposto, NEGO P ROV IMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
