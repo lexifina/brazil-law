@@ -1,0 +1,51 @@
+DECISÃO
+Em análise, recurso especial interposto por DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+ADMINISTRATIVO. APELAÇÕES. MULTA. DEPARTAMENTO NACIONAL DE INFRA-ESTRUTURA DE TRANSPORTES - DNIT. NOTIFICAÇÃO. EDITAL. MEIO SUBSIDIÁRIO. MANTIDA A NULIDADE DO AUTO DE INFRAÇÃO. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. MAJORAÇÃO. PROVIDO O APELO DA PARTE AUTORA. IMPROVIDA A APELAÇÃO DA PARTE RÉ.
+1. Correto o raciocínio exposto pelo juízo primevo ao consignar que houve violação ao devido processo legal, na medida em que o reú não comprovou a regular notificação da autora acerca do Auto de Infração, a fim de que apresentasse defesa prévia, tendo em vista que as tentativas de notificação foram infrutíferas e não foram seguidas de notificação por edital.
+2. Frustradas as tentativas de notificação, a publicação da notificação em edital é o meio subsidiário para a cientificação do infrator, nos termos do artigo 13 da Resolução CONTRAN nº 619/2016.
+3. Os honorários advocatícios, quando se tratar de causa em que seu valor é irrisório, deverão ser fixados em observância ao disposto no artigo 85, §§ 2º e 8º, do Código de Processo Civil.
+4. Negado provimento ao apelo do DNIT e dado provimento à apelação da parte autora.
+(fl. 183).
+Os embargos de declaração foram acolhidos para fins de prequestionamento em aresto que recebeu a seguinte ementa:
+PROCESSO CIVIL. EMBARGOS DECLARATÓRIOS. HIPÓTESES. INADMITIDA A MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. PREQUESTIONAMENTO. PARCIAL PROVIMENTO.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+2. A modificação do julgado é admitida apenas excepcionalmente e após o devido contraditório (artigo 1.023, § 2º, do Código de Processo Civil).
+3. Não há necessidade de o julgador mencionar os dispositivos legais e constitucionais em que fundamenta sua decisão, tampouco todos os citados pelas partes.
+4. Embargos acolhidos tão somente para efeitos de prequestionamento.
+(fl. 208).
+Nas razões recursais, a parte recorrente sustenta, em síntese, violação ao art. 1.022, II, do CPC/15 e divergência jurisprudencial quanto à validade da notificação por edital após tentativas frustradas de notificação postal, argumentando que:
+violado também o art. 1022, II, do CPC, razão pela qual impõe seja declarada nula a decisão guerreada, o que se requer para que seja novamente enfrentada a tese de que reconhecendo o acórdão regional de que: No que se refere ao Auto de Infração objeto da celeuma ( E019720706), evidencia-se que foram efetuadas três tentativas de entrega do Aviso de Recebimento Digital (fl. 6 do evento16/PROCADM3), todas infrutíferas. a) a) diante das três tentativas de notificação do infrator pelos correios a autarquia nos termos do art. 26 §3 e §4 da LEI 9784 notificou o autor por edital, não havendo que se falar em violação do devido processo de direito. Está claro no processo administrativo que a parte diante da três tentativas de notificação pelos correios a autarquia notificou o infrator por edital e diante do insucesso da notificação por carta procedeu a notificação por edital publicada no DOU 22/01/2016
+(fl. 220).
+No mérito, a Autarquia recorrente alega, ainda, afronta ao art. 26, §§ 3º e 4º da Lei 9.784/99, tendo em vista a realização de notificação do administrado por edital, na forma do dispositivo citado, bem como divergência jurisprudencial.
+Não foram apresentadas contrarrazões ao recurso.
+O recurso foi admitido na origem (fls. 252-253).
+É o relatório.
+Passo a decidir.
+O recurso especial tem origem em demanda judicial que visa à anulação do auto de infração, sob a alegação de cerceamento de defesa devido à ausência de notificação regular do infrator. A controvérsia central residiu na alegação de que não houve a regular notificação do infrator, o que caracterizaria cerceamento de defesa.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 1.022, II, do CPC, sustentando que o Tribunal de origem deixou de se manifestar sobre a validade da notificação por edital após tentativas frustradas de notificação postal.
+Com relação à alegada violação ao art. 1.022, II, do CPC/15, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+Em suas razões recursais, não foram opostos argumentos idôneos a infirmar o convencimento do julgador. In casu, verifico que foram efetuadas 3 (três) tentativas de entrega do Aviso de Recebimento Digital através dos Correios (conforme folha 6 do processo 5002596-59.2016.4.04.7210/SC, evento 16, PROCADM3), que restaram frustradas, pelo motivo "ausente". Portanto, correto o raciocínio exposto pelo juízo primevo ao consignar que houve violação ao devido processo legal, na medida em que o reú não comprovou a regular notificação da autora acerca do Auto de Infração, a fim de que apresentasse defesa prévia, tendo em vista que as tentativas de notificação foram infrutíferas e não foram seguidas de notificação por edital. Com efeito, a publicação da notificação em edital é o meio subsidiário para a cientificação do infrator, nos termos do artigo 13 da Resolução CONTRAN nº 619/2016 Por conseguinte, não merece reparo a sentença que declarou a nulidade do Auto de Infração nº E019720706.
+(fl. 180).
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos:
+A natureza reparadora dos embargos de declaração só permite a sua oposição contra sentença ou acórdão acoimado de obscuridade, omissão ou contradição, bem como nos casos de erro material do Juiz ou Tribunal, consoante dispõe o artigo 1.022 do Código de Processo Civil. No caso em apreço, examinando a fundamentação invocada no voto condutor do acórdão embargado, não se verifica a existência de obscuridade, contradição, omissão ou erro material a serem supridos. ..
+Em suas razões recursais, não foram opostos argumentos idôneos a infirmar o convencimento do julgador. In casu, verifico que foram efetuadas 3 (três) tentativas de entrega do Aviso de Recebimento Digital através dos Correios (conforme folha 6 do processo 5002596-59.2016.4.04.7210/SC, evento 16, PROCADM3), que restaram frustradas, pelo motivo "ausente". Portanto, correto o raciocínio exposto pelo juízo primevo ao consignar que houve violação ao devido processo legal, na medida em que o reú não comprovou a regular notificação da autora acerca do Auto de Infração, a fim de que apresentasse defesa prévia, tendo em vista que as tentativas de notificação foram infrutíferas e não foram seguidas de notificação por edital. Com efeito, a publicação da notificação em edital é o meio subsidiário para a cientificação do infrator, nos termos do artigo 13 da Resolução CONTRAN nº 619/2016
+(fls. 204-205).
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação ao art. 1.022 do CPC.
+No mérito, o recorrente aponta violação do art. 26, § 3º e § 4º, da Lei 9.784/99, argumentando que a notificação por edital foi realizada conforme a legislação vigente, após três tentativas de notificação postal infrutíferas.
+O Tribunal de origem concluiu que houve violação ao devido processo legal, porquanto, sendo a intimação por edital meio subsidiário, na forma do art. 13 da Resolução Contran 619/16, inexiste prova de tentativa de idônea de intimação regular.
+Por outro lado, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
