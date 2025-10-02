@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDUARDO CARLOS DOURADO DE CASTRO contra decisão do Tribunal de Justiça do Estado do Piauí que inadmitiu o recurso especial (fls. 549-553).
+O agravante foi denunciado e pronunciado pela suposta prática do crime de homicídio qualificado (art. 121, § 2º, I e IV, do Código Penal), com submissão ao Tribunal do Júri (fls. 348-356). O Tribunal de Justiça, em recurso em sentido estrito, manteve integralmente a decisão de pronúncia, negando provimento ao apelo defensivo (fls. 445-460 e 461-479).
+A Defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação aos arts. 23, II, 25, 121, § 2º, I e IV, e 129, todos do Código Penal, bem como ao art. 415, IV, do Código de Processo Penal (fls. 506-518).
+O Tribunal de Justiça inadmitiu o recurso especial por incidência do óbice da Súmula n. 7, STJ (fls. 549-553).
+A Defesa apresentou agravo em recurso especial (fls. 556-561), ao qual o Ministério Público do Estado do Piauí ofereceu contraminuta, pugnando pelo não conhecimento e, no mérito, pelo desprovimento (fls. 565-588).
+O Ministério Público Federal, em parecer, opinou pelo desprovimento do agravo em recurso especial e do próprio recurso especial, assentando a inviabilidade de revolvimento fático-probatório (Súmula 7,STJ) e a conformidade do acórdão recorrido com a jurisprudência desta Corte Superior (Súmula 83/STJ) (fls. 616-620).
+É o relatório. DECIDO.
+O agravo em recurso especial tem por finalidade a demonstração do desacerto da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, de forma a viabilizar o exame do recurso especial por esta Corte de Justiça.
+Assim, o agravante tem o ônus de refutar especificamente cada um dos óbices recursais aplicados pela decisão de inadmissibilidade do recurso especial, em respeito ao princípio da dialeticidade.
+No caso concreto, a decisão agravada não conheceu do recurso especial por aplicação da Súmula n. 7, STJ.
+Quanto à Súmula n. 7, STJ, incumbe ao agravante demonstrar a desnecessidade da análise do conjunto fático-probatório para o exame da excludente de ilicitude da legítima defesa e, ainda, da desclassificação da conduta para o delito de lesão corporal, como também para a afastar as qualificadoras do motivo torpe e da utilização de recurso que dificultou ou impossibilitou a defesa do ofendido, deixando claro que os fatos foram devidamente consignados no acórdão recorrido. Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018.
+Na espécie, o agravante alegou que pretende a apenas a discussão jurídica sobre matérias de direito, sem, contudo, proceder com a devida confrontação entre os fatos incontroversos reconhecidos no acórdão recorrido e as teses veiculadas no recurso especial, de modo a demonstrar, de forma efetiva, que o acolhimento da pretensão recursal prescinde da reanálise da matéria fático-probatória.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do recurso especial, nos termos do art. 932, inciso III, do CPC, e do art. 253, parágrafo único, inciso I, do RISTJ obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. TENTATIVA DE ACRESCER ARGUMENTOS, EM SEDE DE AGRAVO REGIMENTAL, COM VISTAS À IMPUGNAÇÃO DOS FUNDAMENTOS TIDOS COMO INATACADOS. INADMISSIBILIDADE, PRECLUSÃO CONSUMATIVA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive, de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa do agravante não logrou impugnar, de forma efetiva, a íntegra da decisão de inadmissão na origem.
+ ..
+5. Agravo regimental improvido."
+(AgRg no AREsp n. 2.404.539/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
