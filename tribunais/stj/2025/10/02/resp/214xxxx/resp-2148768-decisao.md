@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAFAEL DE JESUS MOREIRA, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"HONORÁRIOS DE ADVOGADO Ação declaratória - Arbitramento em 10% sobre o valor atualizado da causa, que representa o débito declarado inexigível em razão de prescrição - Pedido de majoração com arbitramento por equidade em valor correspondente ao mínimo constante da tabela editada pela Ordem dos Advogados do Brasil - Inadmissibilidade - Matéria a ser solucionada à luz do decidido pelo C. Superior Tribunal de Justiça no recente julgamento do Tema nº 1.076, em recursos repetitivos Inteligência do § 2º do art. 85 do Cód. de Proc. Civil - Sentença mantida Apelação improvida."
+Em suas razões recursais, a parte alega violação ao art. 85, §§ 8º e 8º-A, do Código de Processo Civil, sustentando, em síntese, que, sendo irrisório o valor dos honorários fixados em 10% sobre o valor da causa, o Juízo deveria ter aplicado a equidade e observado os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil, para evitar remuneração ínfima do patrono, majorando a verba sucumbencial.
+Contrarrazões ofertadas às fls. 254-268 (e-STJ).
+É o relatório. Decido.
+A Corte Especial fixou as seguintes teses para o Tema 1.076 dos Recursos Repetitivos:
+"i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."
+(REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, DJe de 31/5/2022)
+Na hipótese dos autos, envolvendo ação declaratória de inexigibilidade de débito proposta em 2022, julgada parcialmente procedente, por sentença prolatada em 4/5/2023, o Tribunal de origem confirmou o arbitramento dos honorários sucumbenciais em 10% sobre o valor atualizado da causa (R$ 7.363,53), com fundamento no art. 85, § 2º, do CPC/2015, à luz da tese firmada para o Tema 1.076 dos Recursos Repetitivos, considerando que o valor do proveito econômico, correspondente ao valor da causa, não seria irrisório ou inestimável.
+Desse modo, constata-se a conformidade do acórdão recorrido com o entendimento desta Corte, porque existindo proveito econômico que realmente não é irrisório, deve ser ele a base de cálculo dos honorários advocatícios sucumbenciais, sem que haja aviltamento da verba sucumbencial.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
