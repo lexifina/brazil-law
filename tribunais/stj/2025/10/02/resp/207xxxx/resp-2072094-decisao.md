@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MUNICÍPIO DE UIRAUNA com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 263):
+TRIBUTÁRIO. PROCESSO CIVIL. APELAÇÃO. EXECUÇÃO FISCAL. EXTINÇÃO DO FEITO EM RAZÃO DA DESISTÊNCIA DA EXEQUENTE. MIGRAÇÃO DOS SISTEMAS DE COBRANÇA DO INSS PARA A RFB. LEI 11.457/2007, EM 16 DE MARÇO DE 2007 NO CURSO DO PARCELAMENTO DE 240 MESES. AVENÇA INICIADA EM 09.06.1993 E FINALIZADA EM 09.06.2013. DÚVIDA QUANDO AOS ARQUIVOS EM RAZÃO DA TRANSFERÊNCIA. PEDIDO EQUIVOCADO DE EXTINÇÃO DA EXECUÇÃO FISCAL. RECONSIDERAÇÃO. POSSIBILIDADE. DIFICULDADES NA LOCALIZAÇÃO DOS DOCUMENTOS. NÃO TRANSCORRIDO O PRAZO PRESCRICIONAL. CRÉDITO PÚBLICO. INDISPONIBILIDADE. ANULAÇÃO DA SENTENÇA. PROSSEGUIMENTO DO FEITO PARA A COBRANÇA DO SALDO.
+Os embargos de declaração na origem foram rejeitados (fls. 310-314).
+A parte recorrente aponta violação ao art. 507 do CPC. Segundo argumenta, em síntese (fls. 327-329):
+Quanto à violação ao art. 507 do CPC, faz-se mister rememorar que ao presente processo fora feito pedido de desistência por parte do exequente, referida atribuição é decorrente do princípio da disponibilidade da execução, princípio este norteador das execuções cíveis. Ele assegura ao exequente o direito de dispor, de desistir voluntariamente da execução ou de algumas de suas medidas executórias, a qualquer tempo sem precisar da autorização do seu executado. Dessarte, tendo o exequente sido intimado a se manifestar quanto ao andamento do processo e tendo este requerido a sua extinção, recai sobre os autos a preclusão consumativa, ou seja, a extinção da faculdade de praticar um determinado ato processual em virtude de já haver ocorrido a oportunidade para tanto. É o que dispõe o art. 507 do nosso Diploma Processual Cível, in verbis: "Art. 507. É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão."
+ ..
+Assim, em razão da preclusão consumativa, operada quando da apresentação do pedido de desistência, incabível a interposição do recurso apelatório, bem como da anulação da sentença, nos termos do artigo 507, do Código de Processo Civil.
+É o relatório.
+Passo a decidir.
+No que diz respeito à alegação de violação ao art. 507 do CPC, o recurso especial não merece prosperar.
+Em que pese a irresignação da parte recorrente, o exame dos autos revela que a matéria contida no referido artigo, apontado como violado , não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial sob o viés pretendido pela parte, inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Súmula 211 do STJ.
+A propósito, no mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA CONTROVERTIDA. INEXISTÊNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+2. O óbice da Súmula 343 do STF deve ser afastado, porquanto, antes do trânsito em julgado da sentença rescindenda, a jurisprudência de ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça já era pacífica quanto ao entendimento de que a CDA não é nula em razão da declaração de inconstitucionalidade do art. 3º, § 1º, da Lei n. 9.718/1998, devendo prosseguir a execução pelo decote do eventual excesso.
+3. Agravo interno desprovido (AgInt no REsp 1.942.612/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
