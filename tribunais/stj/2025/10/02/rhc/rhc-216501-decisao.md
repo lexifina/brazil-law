@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, impetrado em favor de LUCIVANIA DE MOURA SOARES e GIRLERIANE DO NASCIMENTO DE MOURA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte (HC n. 0806414-75.2025.8.20.0000).
+Consta dos autos que as pacientes tiveram a prisão preventiva decretada no dia 16/1/2024, pela suposta prática dos crimes previstos no art. 33 c/c art. 40, inciso IV, no art. 35, todos da Lei n. 11.343/2006, e no art. 180, caput, do Código Penal. Inconformada, a defesa impetrou habeas corpus na Corte estadual. O Tribunal de origem, contudo, denegou a ordem nos termos da seguinte ementa (e-STJ fl. 689):
+HABEAS CORPUS TIVERAM A SUA PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ACUSAÇÃO DE TRÁFICO DE DROGAS MAJORADO (LEI N.º 11.343/06, ART. 33, "CAPUT" E 40, IV), DE ASSOCIAÇÃO PARA O TRÁFICO (LEI N.º 11.343/06, ART. 35, "CAPUT") E DE RECEPTAÇÃO (CP, ART. 180, "CAPUT"). ALEGAÇÃO DE QUE O ACAUTELAMENTO É DESNECESSÁRIO E DE QUE NÃO ESTÃO PRESENTES OS REQUISITOS LEGAIS DA PRISÃO PREVENTIVA. INDÍCIOS SUFICIENTES DE QUE AS PACIENTES ATUAM NO TRÁFICO DE ENTORPECENTES EM TIBAU DO SUL/RN, AO ALUGAR UMA CASA PARA COMERCIALIZAR DROGAS COM UM PRIMO. GRANDE QUANTIDADE DE ENTORPECENTES, APETRECHOS PARA O TRÁFICO, ARMAS E MUNIÇÕES DEPOSITADOS EM UM DOS CÔMODOS DA PEQUENA RESIDÊNCIA. IMPOSSIBILIDADE PRÁTICA DE AS PACIENTES NÃO TEREM CONHECIMENTO DA EXISTÊNCIA DO MATERIAL ENCONTRADO NA PRÓPRIA RESIDÊNCIA. CONTEXTO DA PRISÃO EM FLAGRANTE REVELA, ALÉM DE INDÍCIOS DA PARTICIPAÇÃO DAS PACIENTES NO CRIME, A GRAVIDADE CONCRETA DA CONDUTA. PRISÃO PREVENTIVA JUSTIFICADA. ORDEM CONHECIDA E DENEGADA.
+Na presente oportunidade, a defesa alega que as pacientes sofrem constrangimento ilegal pela ausência dos requisitos fundamentadores da prisão, pois o acórdão presume, sem argumentos, que a existência de material entorpecente em um dos cômodos da residência ocupada pelas acusadas seria suficiente para lhes imputar a autoria dos crimes.
+Argumenta que a decisão carece de fundamentação individualizada, de forma que contraria o art. 93, inciso IX, da Constituição Federal e o art. 315, § 2º, do Código de Processo Penal.
+Aduz que são primárias, possuem residência fixa, com bons antecedentes e são identificadas civilmente, motivo pelo qual reforça a desnecessidade da prisão. Assim, demonstra que a aplicação de medidas cautelares diversas da prisão são suficientes para assegurar o processo penal.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva, com a expedição do alvará de soltura, ou, subsistentemente, a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar (e-STJ fls. 710/712), o Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 725/726).
+É o relatório. Decido.
+Busca-se, no presente recurso, a revogação da prisão preventiva das recorrentes.
+Ocorre que, conforme informações obtidas no endereço eletrônico do Tribunal de origem, em 10/9/2025, foi concedida a liberdade provisória às recorrentes, momento em que foi expedido o alvará de soltura em seu favor.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
