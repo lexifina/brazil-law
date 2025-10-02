@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por MADSON ANDRÉ ESPERANÇA DE FREITAS e ANDERSON PATRÍCIO DE FREITAS, desafiando decisão que inadmitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), assim ementado (e-STJ, fl. 792):
+"AÇÃO DE COBRANÇA - DÉBITO LOCATIVO - ALUGUERES VENCIDOS E MULTA CONTATUAL PROPORCIONAL - RECEBIMENTO CONFESSADO DE "LUVAS" - NATUREZA DE ADIANTAMENTO LOCATIVO - PRAZO CONTRATUAL FALTANTE DE DEZ MESES - REDUÇÃO PROPORCIONAL DA DÍVIDA NO VALOR DE R$33.300,00 - GASTOS COM OBRAS QUE NÃO PODEM SER CONSIDERADOS PARA DEDUÇÃO DADA A AUSÊNCIA DA PROVA PERICIAL, NÃO SENDO DE VALOR SUFICIENTE SÓ O TESTEMUNHO DOS OBREIROS - SUCUMBÊNCIA QUE SE ALTERA DA RECONVENÇÃO, JÁ QUE PARTE DO PEDIDO RESTOU EM JUÍZO RECONHECIDA - CONHECIMENTO E PROVIMENTO APENAS PARCIAL DO RECURSO."
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 834/836).
+Nas razões do recurso especial, os ora agravantes apontam violação dos arts. 7º, 373, I, e 492 do CPC/2015. Alegam que ficou comprovado que os defeitos consertados pelo primeiro recorrente tratam-se de benfeitorias necessárias para a não deterioração do imóvel, bem como para seu uso adequado, portanto, é justo que seja realizado o abatimento de tais valores na dívida cobrada ilicitamente a título de luvas.
+É o relatório. Decido.
+Na hipótese, o Tribunal de origem não reconheceu o direito de compensar os gastos com obras reputadas como benfeitorias necessárias, por entender que isso não seria possível "porque não se realizou a prova pericial, que seria essencial a estabelecer o montante e a natureza dessas obras" (e-STJ, fl. 792). Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No mais, o Tribunal estadual concluiu o seguinte (e-STJ, fl. 793):
+"O depoimento isolado dos obreiros não é suficiente para infirmar os requisitos essenciais à restituição.
+Soma-se a isso a circunstância de terem os locatários aceito o imóvel e o fizeram nas condições que se encontrava. Não há prova de que tenham sido ludibriados. O e-mail trocado com o procurador do locador tem nítido sentido negocial e dele não se pode tirar conclusões definitivas.
+A multa por outro lado é devida e foi corretamente fixada com proporcionalidade ao tempo que restava.
+Sobra a discussão sobre o adiantamento de "luvas", que os Apelantes insistem em deduzir da dívida locativa que acumularam.
+Entendeu o Juízo que a jurisprudência vem admitindo sua cobrança em contratos novos, como no caso dos autos, e nesse aspecto não se faz na sentença retificação.
+Acontece que a natureza das "luvas" é a de (ou deveria ser) antecipação de alugueres e se pagaram R$100.000,00 por três anos de locação, isso importa que lhes deve ser reconhecido um "crédito" proporcional a dez meses que restavam do contrato, ou seja, o importe de R$33.300,00 (trinta e três mil e trezentos reais), com correção monetária do ajuizamento e juros legais da citação.
+Nesse aspecto a Reconvenção haveria de ser acolhida, o que importa também na alteração da sucumbência ali estabelecida, para que cada uma das partes arque com 50% dos honorários do advogado da parte adversa." (grifou-se)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
