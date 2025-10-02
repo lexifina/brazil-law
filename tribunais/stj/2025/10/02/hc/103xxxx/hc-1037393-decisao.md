@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ ROBERTO MENDES SOUZA contra acórdão do Tribunal de Justiça do Estado do Ceará, proferido em Habeas Corpus Criminal n. 0625352-92.2025.8.06.0000, assim ementado (fls. 754-755):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. TESE DE AUSÊNCIA DOS REQUISITOS E SUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. NÃO CONHECIMENTO. FUNDAMENTOS JÁ APRECIADOS EM IMPETRAÇÃO ANTERIOR (15.10.2024). AUSÊNCIA DE INOVAÇÃO. EXISTÊNCIA DE COISA JULGADA. EXCESSO DE PRAZO. NÃO ACOLHIMENTO. PACIENTE PRONUNCIADO. SÚMULA Nº 21 DO STJ. AUSÊNCIA DE REAVALIAÇÃO NONAGESIMAL DA CUSTÓDIA. VERIFICADA. ORDEM PARCIALMENTE CONHECIDA E CONCEDIDA PARCIALMENTE, PARA DETERMINAR AO JUIZ A QUO QUE REAVALIE A PRISÃO DO PACIENTE.
+I. CASO EM EXAME
+1. Habeas corpus impetrado de paciente preso em 27.08.2024, pela prática do crime do art. 121, § 2.º, incisos I, III e IV, e § 4.º, do Código Penal. O impetrante alega constrangimento ilegal em razão do excesso de prazo para o julgamento do paciente, ausência de reavaliação da prisão preventiva, bem como em razão da ausência dos requisitos da prisão preventiva e suficiência das medidas cautelares diversas da prisão, previstas no art. 319, do Código de Processo Penal.
+II. QUESTÃO EM DISCUSSÃO
+2. Questões em discussão: (i) definir se estão presentes os requisitos da prisão preventiva, assim como a possibilidade de substituição da prisão preventiva por medidas cautelares diversas; (ii) determinar se há excesso de prazo para o julgamento do paciente; e, (iii) saber se a prisão preventiva do paciente foi devidamente reavaliada no prazo de 90 (noventa) dias.
+III. RAZÕES DE DECIDIR
+3. As teses aventadas, de ausência dos requisitos da prisão preventiva e de suficiência das medidas cautelares diversas da prisão, não merecem conhecimento. Como é cediço, é inadmissível o conhecimento do habeas corpus que se limita a reproduzir os mesmos fundamentos já expostos e decididos em writ anterior (Habeas Corpus de nº 0634379-36.2024.8.06.0000, julgado em 15.10.2024), sem apresentar qualquer fato novo capaz de modificar a situação do paciente.
+4. Ademais, o paciente já foi devidamente pronunciado em 07.02.2025, tendo o recurso em sentido estrito interposto pela defesa do paciente sido julgado em 22.04.2025, estando os autos aguardando o trânsito em julgado da decisão, datada de 17.06.2025, que rejeitou os embargos de declaração opostos pela defesa do réu. Segundo entendimento da Súmula nº 21 do STJ: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução."
+5. Desse modo, não se vislumbra demonstração concreta de desídia do Poder Judiciário ou de atuação temerária da acusação, que caracterize excesso de prazo na formação da culpa e justifique a concessão da ordem ao paciente.
+6. Considerando a inobservância do prazo nonagesimal, urge a concessão da ordem, para determinar que o magistrado primevo reanalise, como deve e convém, no prazo máximo de 10 (dez) dias, a necessidade da segregação cautelar do paciente, consoante disposto na sobredita norma legal, com informações a esta Corte de Justiça.
+IV. DISPOSITIVO E TESE
+7. Ordem parcialmente conhecida e parcialmente concedida, apenas para determinar que o magistrado primevo reanalise, no prazo máximo de 10 (dez) dias, a necessidade da segregação cautelar do paciente.
+Tese de julgamento: "1. As teses de ausência dos requisitos da prisão preventiva e de suficiência das medidas cautelares diversas da prisão, não devem ser conhecidas, visto que já foram devidamente analisadas e decididas no julgamento do Habeas Corpus anterior. 2. Oexcesso de prazo processual deve ser avaliado à luz dos princípios da razoabilidade e proporcionalidade, não sendo caracterizado quando o processo tramita de forma regular, ematenção ao princípio da razoabilidade. 3. Concessão parcial da ordem, para determinar que o magistrado primevo reanalise, no prazo máximo de 10 (dez) dias, a necessidade da segregação cautelar do paciente.
+Consta dos autos que o acusado foi pronunciado pela suposta prática do delito de homicídio qualificado por motivo torpe, emprego de veneno e recurso que impossibilitou a defesa, com agravante por vítima maior de 60 anos (art. 121, § 2º, incisos I, III e IV, do Código Penal). Impetrado habeas corpus na origem, restou a ordem parcialmente concedida, apenas para determinar ao juiz de primeiro grau a revisão, no prazo de 10 dias, da necessidade de segregação cautelar do paciente, nos termos do que determina o art. 316 do Código de Processo Penal. A custódia foi reavaliada e mantida pelo Juízo de origem em 22/07/2025 (fls. 21-23).
+No presente writ, a defesa sustenta ausência de fundamentação idônea na decisão que manteve a prisão preventiva do paciente, sem avaliar a contemporaneidade da medida e a possibilidade de substituição da prisão pela medidas cautelares mais brandas.
+Argumenta que a decisão "não demonstra, com base em elementos atualizados, que ele representa perigo concreto e atual à ordem pública ou à instrução criminal. A fundamentação é baseada exclusivamente no tipo penal imputado e em alegações genéricas, sem indicar se houve tentativa de coação à vítima, reiteração delitiva, ou outro fato contemporâneo justificável" (fl. 15).
+Ressalta que o acusado ostenta condições pessoais favoráveis e a possibilidade de aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, expedindo-se o competente alvará de soltura, ainda que com a imposição de medidas cautelares alternativas à prisão.
+É o relatório.
+Decido.
+É pacífico o entendimento do Superior Tribunal de Justiça de que o habeas corpus, porquanto vinculado à demonstração de plano da ilegalidade alegada, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+No presente caso, não foi juntada à petição inicial a cópia da decisão que decretou a prisão preventiva, documento de fundamental importância para a compreensão da controvérsia.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRETENDIDA ABSOLVIÇÃO DO DELITO PREVISTO NO ART. 35 DA LAD OU REDUÇÃO DAS BASILARES DOS DELITOS. INVIABILIDADE. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir.
+No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada aos autos a cópia do acórdão de apelação.
+3. É cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 901.381/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - grifos acrescidos.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+2. O rito do habeas corpus, bem como de seu consectário recursal, demanda prova documental pré-constituída do direito alegado.
+3. No caso, a defesa não colacionou aos autos a íntegra do decreto prisional, documento necessário à análise do pleito de revogação da medida extrema. A ausência de peça essencial ao deslinde da controvérsia impede o exame das alegações.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 186.463/MG, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - grifo próprio.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
