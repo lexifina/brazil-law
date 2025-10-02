@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO DA SILVA contra decisão de Desembargador que indeferiu pleito liminar em correição parcial requerida na Corte de origem (e-STJ fls. 65/68).
+Sustenta a defesa, em suma, que o paciente sofre constrangimento ilegal decorrente de manifesta violação ao art. 400 do CPP e ao Tema Repetitivo 1.114 do STJ, pois houve designação de audiência para interrogatório do réu antes da formação de provas já deferidas pelo juízo de primeiro grau.
+Requer, liminarmente, seja suspensa a realização do interrogatório do paciente na audiência aprazada, ou em qualquer outra data anterior ao encerramento da instrução, autorizando-se, contudo, a continuidade do feito com a oitiva das testemunhas de defesa, até o julgamento final deste Habeas Corpus (e-STJ fl. 7). No mérito (e-STJ fl. 8):
+d.1) Anular o despacho que determinou a realização do interrogatório do paciente antes do encerramento da instrução processual;
+d.2) Determinar ao Juízo de Direito da Vara Criminal da Comarca de Camaquã/RS que o interrogatório do paciente seja realizado como último ato da instrução, em estrita observância ao art. 400 do Código de Processo Penal e ao Tema Repetitivo 1.114 deste Superior Tribunal de Justiça.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 67/69):
+ .. .
+Já no que diz respeito ao suposto interrogatório do réu antes de encerrada a fase de produção probatória, a magistrada esclareceu nos seguintes termos (evento 243, DESPADEC1 da ação penal):
+"# Com relação à audiência aprazada para continuidade da instrução processual, o rito ajusta-se ao disposto no art. 400 do CPP. Deste modo, evidentemente o ato é destinado à produção de prova oral com oitiva de testemunhas da acusação, da defesa e, por último, interrogatório do réu.
+No caso, a vítima e testemunhas arroladas na denúncia já foram inquiridas. Para encerramento da produção de prova oral, pendente a oitiva das demais testemunhas arroladas e interrogatório.
+Portanto, inviável antecipar decisão judicial sobre o andamento da audiência, pois há complexidade processual recorrentes pedidos de diligências complementares. No dia aprazado, após oitiva das testemunhas presentes e possibilitado contraditório, será apurado o andamento processual e a viabilidade do encerramento da instrução que inclui o interrogatório. "
+No tocante à petição e áudio juntados no evento 13 desta correição (evento 13, PET1 e evento 13, ÁUDIO3), cumpre destacar que, ao contrário do alegado pelo corrigente, a douta magistrada não afirmou "ter um compromisso de gestão com seus servidores para encerrar as instruções processuais ainda no corrente ano e interrogar o réu na próxima solenidade, mesmo que haja outras provas a produzir por um "acordo" firmado com o cartório judicial sob sua gestão" - grifei.
+O que se depreende é a intenção da juíza em dar racionalidade e celeridade à tramitação processual, evitando a fragmentação excessiva das audiências de instrução.
+É dizer: não se trata de imposição de cronograma incompatível com a garantia da ampla defesa, mas, sim, de gestão processual legítima e voltada à razoável duração do processo.
+Diante desse contexto, não se verifica ilegalidade ou teratologia na decisão questionada. Pelo contrário, a magistrada atuou nos limites da discricionariedade instrutória que lhe é conferida pelo ordenamento, assegurando o contraditório e a ampla defesa, mas também zelando pela eficiência processual.
+É relevante observar que o processo penal pauta-se pelos princípios da utilidade e da necessidade da prova, e que a atividade jurisdicional deve evitar diligências que sirvam apenas para prolongar o feito, sem contribuição efetiva para a formação do convencimento do julgador. Nesse sentido, tem-se a orientação jurisprudencial consolidada de que o juiz atua como destinatário final da prova, competindo-lhe aferir sua indispensabilidade.
+ .. .
+Diante do exposto, não verificada nos autos a inversão tumultuária de atos e fórmulas legais, indefiro o pedido liminar formulado pela defesa.
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal a quo, no momento adequado.
+Portanto, verifica-se não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE DESEMBARGADOR QUE INDEFERE LIMINAR EM CORREIÇÃO PARCIAL. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. IMPOSSIBILIDADE.
+1. Impetrado o habeas corpus contra decisão monocrática de desembargador, constata-se a ausência de deliberação colegiada que pudesse fixar a competência do Superior Tribunal de Justiça.
+2. O não exaurimento da instância de origem, onde apenas se indeferiu o pedido liminar formulado em correição parcial, impõe o não conhecimento da impetração, impossibilitando a análise do pedido por este Tribunal Superior. Aplicação analógica da Súmula n. 691 do STF. Precedentes.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois a decisão impugnada afastou a alegação de nulidade por cerceamento de defesa, considerando suficientemente fundamentada a decisão que negou o pedido defensivo de produção de prova o que, em princípio, não desborda do quanto decidido por esta Corte Superior em casos análogos.
+4. Agravo regimental improvido.
+(AgRg no HC n. 944.469/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 23/10/2024, DJe de 25/10/2024.)
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
