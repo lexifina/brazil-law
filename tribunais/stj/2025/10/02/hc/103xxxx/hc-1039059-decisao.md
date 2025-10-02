@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ARILDO OSVALDO DA CONCEICAO e ANITA CONCEICAO DA SILVA, condenados por tráfico de drogas majorado (art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006) às penas de 7 anos e 7 meses de reclusão (ARILDO, regime fechado) e 5 anos e 10 meses de reclusão (ANITA, regime semiaberto), com multa, no Processo n. 0026882-02.2014.8.11.0042, da 9ª Vara Criminal da comarca de Cuiabá/MT (fls. 23/28).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso, que, em 7/8/2025, julgou improcedente a revisão criminal (acórdão na Revisão Criminal n. 1011991-02.2025.8.11.0000) - fls. 20/35.
+Sustenta violação do art. 157 do Código de Processo Penal, por nulidade da prova decorrente de revista íntima vexatória, afirmando que a apreensão da droga resultou de procedimento invasivo e humilhante, sem justa causa e sem tecnologia não invasiva, contaminando todo o acervo probatório pelos "frutos da árvore envenenada" (fls. 6/7).
+Aduz insuficiência probatória, com aplicação do art. 386, VII, do Código de Processo Penal, ao argumento de ausência de comprovação da destinação mercantil, contradições e lacunas testemunhais, confissões descontextualizadas e falta de elementos externos mínimos de corroboramento (fls. 8/9).
+Menciona indevida interpretação dos arts. 28, § 2º, e 33, § 4º, da Lei n. 11.343/2006, porque o acórdão teria utilizado a quantidade de droga como critério exclusivo para afastar uso pessoal e o tráfico privilegiado, sem examinar de modo completo as condições pessoais da paciente, as circunstâncias da ação e a ausência de indícios de mercancia (fls. 6/9).
+Aduz que a controvérsia é estritamente jurídica, afastando a incidência da Súmula 7 do Superior Tribunal de Justiça, pois se limita à compatibilidade entre fatos já reconhecidos e a legislação de regência, sem revolvimento probatório (fl. 6).
+Menciona dissídio jurisprudencial, apontando divergência quanto: (i) à necessidade de prova concreta da mercancia para a tipificação do art. 33, caput, da Lei n. 11.343/2006 e para o afastamento do § 4º do art. 33 da Lei de Drogas; e (ii) à não consumação do tráfico quando a droga é interceptada antes da entrega em estabelecimento prisional, reputando a conduta como ato preparatório impunível (fls. 10/12 e 14).
+Requer, em caráter liminar, a suspensão dos efeitos do acórdão apontado como coator. No mérito, postula o reconhecimento da nulidade das provas por ofensa ao art. 157 do Código de Processo Penal; e, alternativamente, a absolvição com base no art. 386, VII, do Código de Processo Penal, por atipicidade/insuficiência probatória; bem como (iii) a reforma do acórdão para adequada aplicação dos arts. 33, § 4º, e 28, § 2º, da Lei n. 11.343/2006 (fls. 6/9 e 15).
+É o relatório.
+Ocorre que, em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei a anterior impetração do Habeas Corpus n. 1.030.745/MT, em benefício dos mesmos pacientes, contra o mesmo acórdão do Tribunal de origem e com pretensão idêntica.
+Assim, configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210 do RISTJ.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO CRIMINAL. PEDIDO DE ABSOLVIÇÃO. PRETENSÃO IDÊNTICA À FORMULADA NO HABEAS CORPUS N. 1.030.745/MT. MERA REITERAÇÃO DE PRÉVIO WRIT. INADMISSIBILIDADE.
+Inicial indeferida liminarmente.
