@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial quanto ao reajuste por faixa etária e o inadmitiu com base nas Súmulas n. 5, 7 e 83 do STJ quanto ao reajuste por sinistralidade (fls. 753-755).
+O acórdão recorrido enc ontra-se assim ementado (fl. 495):
+PLANO DE SÁUDE - Reajuste aplicado à mensalidade por mudança de faixa etária - 59 anos - Ilegalidade do reajuste que não se verifica, por si só - Previsão na Lei 9.656/98 - Requisitos do art. 3º da RN nº. 63/03 da ANS atendidos - Percentual que guarda pertinência com o incremento da idade do segurado, que leva ao aumento do risco assistencial acobertado pelo contrato, sem que a seguradora possa usar de outros reajustes como forma de reequilibrar o contrato - Cláusula de barreira não caracterizada - Inexistência de violação ao Estatuto do Idoso ou ao Código de Defesa do Consumidor - Razoabilidade do índice aplicado e proporcionalidade deste em relação ao aumento dos riscos assumidos pela contratada - Reajuste anual das mensalidades que independe de autorização da ANS e não se submete aos percentuais por esta divulgados e autorizados para planos individuais e familiares, podendo seguir o aumento da sinistralidade verificado dentro do grupo segurado, ressalvada eventual abusividade - Clausula válida - Percentuais incidentes entre 2014 e 2016 não abusivos, quando comparados aos dos planos individuais - Ação improcedente - Recurso provido.
+Os embargos de declaração foram rejeitados (fls. 717-719).
+Nas razões do recurso especial (fls. 504-541), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC, pois:
+(a) Após ser proferido o v. acórdão recorrido, a Recorrente opôs embargos de declaração  ..  uma vez que o Tribunal Bandeirante não observou os parâmetros estabelecidos pelo STJ e pelo próprio TJSP  .. . E quando questionado sobre todas estas questões, o Tribunal se quedou omisso, ou seja, não trouxe fundamentação jurídica acerca das questões levadas à sua apreciação (violação das normas consumeristas, abusividade dos reajustes, inobservância ao novo entendimento do STJ e do IRDR do próprio Tribunal Paulista) (fls. 509/510);
+(b) também houve omissão ao não fundamentar os motivos da não aplicação da tese firmada pelo superior tribunal de justiça no julgamento do recurso especial nº 1.56 1.56 1.568.244 - RJ (2015/0297278-0) (tema 952), notadamente quanto à ausência de comprovação da acuidade do reajuste etário que se pretende afastar. (fl. 510);
+(ii) art. 927, III, do CPC, uma vez que "o Tribunal de Justiça deveria julgar o recurso de apelação com base no recurso repetitivo  ..  Resp n.º 1.568.244/RJ, todavia não foi o que ocorreu" (fl. 521);
+(iii) arts. 6º, III e V, 51, IV e X, e 54, § 4º, do CDC e 15, § 3º, do Estatuto do Idoso, "ao permitir a aplicação de reajuste etário desarrazoado, sem qualquer comprovação e em percentual demasiadamente elevado" (fl. 513);
+(iv) arts. 6º, II, III e V, 39, V, 46, 47, 51, IV e X, e 54, § 4º, do CDC, porque:
+(a) as Recorridas se aproveitam de sua situação, e unilateralmente, estabelece cláusulas que possibilitam a incidência de reajuste aleatórios a título de sinistralidade na apólice da Recorrente. Assim, referidas cláusulas autorizativas do reajuste de todo e qualquer percentual a título de sinistralidade são contrárias ao ordenamento jurídico (fl. 514); e
+(b) a decisão, ao não analisar os reajustes futuros, simplesmente desconsiderou toda a discussão judicial até então havida, todos os reajustes que não foram atuarialmente comprovados, determinando que se ingressasse com nova ação posteriormente (fl. 515).
+(v) afronta aos arts. 187 e 422 do CC, visto que "o reajuste por sinistro nada mais é do que repassar os riscos do negócio, que por lei é das Recorridas, a Recorrente, sendo, portanto, ilícito" (fl. 516).
+No agravo (fls. 758-772), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 810-829).
+É o relatório.
+Decido.
+A controvérsia tem origem em reajustes aplicados no plano de saúde coletivo por adesão em decorrência de aumento da sinistralidade e mudança de faixa etária.
+A sentença julgou procedentes os pedidos, revisando ambos os reajustes.
+O Tribunal de origem, contudo, reformou a sentença para julgar improcedentes os pedidos.
+(I a III) A controvérsia atinente aos reajustes por faixa etária exauriu-se no âmbito do Tribunal de origem, uma vez que o recurso especial teve seguimento negado com base nos Temas Repetitivos n. 952 e 1.016/STJ e o agravo interno interposto em sequência foi desprovido (fls. 800-805).
+A alegação de negativa de prestação jurisdicional também ficou abarcada pela negativa de seguimento, pois, segundo a compreensão do Tribunal de origem, "as razões do recurso envolvendo a violação aos arts. 1.022, II, parágrafo único, I e 489, §1º, III e VI, do CPC buscam a prevalência de tese já rejeitada no julgamento do paradigma repetitivo supramencionado" (fl. 804).
+Fica, portanto, prejudicado o recurso, quanto a essas questões.
+(IV e V) No que diz respeito às alegações de ofensa ao principio da boa-fé objetiva e às normas consumeristas, bem como afronta aos arts. 187 e 422 do CC e 6º, II, III e V, 39, V, 46, 47, 51, IV e X, e 54, § 4º, do CDC, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015 especificamente quanto a cada uma dessas questões federais, o que não ocorreu, pois a parte se limitou a formular alegação genérica de negativa de prestação jurisdicional. Dessa forma, à falta do indispensável prequestionamento, incide no caso a Súmula n. 211 do Superior Tribunal de Justiça.
+Cabe acrescentar que "o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação" (AgRg no AREsp n. 583.401/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/3/2015, DJe 25/3/2015).
+Ante o exposto, CONHEÇO do agravo e NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
