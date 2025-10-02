@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por Colorobbia Brasil Produtos para Cerâmica Ltda. contra a decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região que não admitiu seu recurso especial, conforme transcrição a seguir (e-STJ, fls. 1.935-1.951):
+4. RECURSO ESPECIAL (ID n.º 256821101)
+Trata-se de Recurso Especial interposto por COLOROBBIA BRASIL PRODUTOS DE CERÂMICA , contra decisão monocrática proferida por órgão fracionário deste E. Tribunal Regional Federal. LTDA.
+O recurso foi interposto contra decisão monocrática proferida com fundamento no art. 932 do Código de Processo Civil, integrada por Embargos de Declaração.
+A análise da admissibilidade dos recursos excepcionais interpostos foi sobrestada até que o STJ se manifestasse sobre a proposta de afetação formulada por esta Vice-Presidência com relação à incidência de contribuição previdenciária sobre o adicional de insalubridade.
+Peticiona o Contribuinte aduzindo que o STF concluiu o julgamento dos Embargos de Declaração opostos nos autos do RE n.º 1.072.485/PR e requerendo a aplicação da modulação dos efeitos da decisão (ID n.º 303206410).
+É o relato do essencial.
+DECIDO.
+Preambularmente, a pretensão de aplicação da modulação dos efeitos da tese de repercussão geral adotada pelo STF no julgamento dos Embargos de Declaração opostos no RE n.º 1.072.485/PR será analisada em conjunto com a decisão de admissibilidade que se proferirá a seguir, vez que a pretensão recursal e a petição ID n.º 303206410 possuem o mesmo objeto.
+Passo, pois, ao exame do recurso interposto.
+O recurso não comporta admissão.
+O art. 105, III da Constituição Federal exige que o Recurso Especial, para ser admitido, seja interposto em face de ."causas decididas, em única ou última instância"
+Verifico, entretanto, que a presente interposição se deu em face de decisão singular, proferida nos termos do art. 932, III, do CPC, cuja insurgência deve ser veiculada por recurso de agravo previsto no art. 1.021 do mesmo diploma processual. Configurou-se, assim, o não exaurimento da instância ordinária, circunstância a ensejar a inadmissibilidade do recurso excepcional, nos termos do entendimento consolidado na Súmula 281 do STF ("É inadmissível o recurso extraordinário, quando couber na Justiça ). de origem, recurso ordinário da decisão impugnada"
+Nesse sentido, o entendimento do Superior Tribunal de Justiça, aqui aplicável mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. NÃO CABIMENTO.
+I - O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+II - No caso em exame, o recurso ordinário em mandado de segurança aviado ataca decisão monocrática contra a qual caberia agravo interno na origem, nos termos do § 1º do art. 557 do CPC/73, não tendo, por conseguinte, sido exaurida a instância ordinária, a despeito do julgamento dos embargos de declaração perante o Colegiado. Confira-se: AgInt no RMS 32272/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, D Je de 17/05/2017; AgInt no Ag 1433554/RR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, 1.º Turma, D Je de 08/03/2017.
+III - Ausente, portanto, a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal.
+IV - Agravo interno improvido.
+(STJ, AgInt no RMS n.º 56.419/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/08/2018, D Je 17/08/2018)
+Em idêntico sentido: STJ, AgInt no RMS n.º 64.650/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/8/2022, D Je de 29/8/2022 e STJ, AgInt no RMS n.º 48.738/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/4/2019, D Je de 15/5/2019.
+Ante o exposto, não admito o Recurso Especial.
+Nas razões recursais (e-STJ, fls. 2.000-2.012), a agravante alega que seria necessário determinar que o Tribunal a quo exercesse juízo de retratação em relação ao Tema 985/STF. No mérito, sustenta que a decisão que inadmitiu o recurso especial teria invocado precedentes que, ora não dizem respeito à controvérsia tratada nos autos, ora não teriam sido especificados. Além disso, aduz que - à decisão monocrática que exerceu o juízo de retratação - teria oposto embargos de declaração, conversíveis em agravo interno, razão pela qual não seria aplicável ao presente caso o teor da Súmula 281/STF.
+Dessa forma, requer, preliminarmente, a remessa dos autos ao Tribunal de origem para juízo de conformação, na forma do art. 1.040, II, do CPC. De maneira subsidiária, pleiteia o conhecimento do agravo para que seja dado provimento ao recurso especial.
+A União deixou de apresentar contraminuta ao agravo (e-STJ, fl. 2.023).
+Manifestação do Ministério Público Federal pela manutenção da decisão agravada (e-STJ, fl. 2.103).
+É o relatório. Decido.
+O art. 105, III, da Constituição Federal prevê que compete ao Superior Tribunal de Justiça julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Nesse contexto, a Súmula 281/STF, aplicada por analogia por esta Corte Superior, enuncia que "é inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada".
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça é no sentido de que não se conhece do recurso especial interposto de decisão monocrática, sem a interposição de agravo interno, sob pena de violação da citada Súmula 281/STF. Vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ESGOTAMENTO DE INSTÂNCIAS NÃO OBSERVADO. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer do recurso especial interposto contra decisão monocrática do Desembargador relator, porque não esgotada a instância (Súmula n. 281 do STJ).
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.729.911/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/6/2025, DJEN de 12/6/2025.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. NULIDADE DE PAD. RECURSO ESPECIAL DESACOMPANHADO DAS RAZÕES RECURAIS. NECESSIDADE DE ESGOTAMENTO DAS VIAS ORDINÁRIAS PARA A INTERPOSIÇÃO DE RESP. INCIDÊNCIA DA SÚMULA N. 281/STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de nulidade objetivando a anulação de PAD e a reintegração de cargo público, além do pagamento dos valores retroativos e de indenização por danos morais. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial não foi conhecido. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+II - Constata-se que o recurso especial de fls. 1.338-1.339 encontra-se desacompanhado das razões recursais, além de ter sido interposto da decisão monocrática proferida por Desembargadora do Tribunal de Justiça do Estado do Mato Grosso.
+III - Consoante orientação firmada pelo Supremo Tribunal Federal, é necessário que a parte interponha todos os Recursos Ordinários na Corte de origem antes de buscar a instância especial (Súmula n. 281 do STF).
+IV - É, pois, pacífico o entendimento do STJ de que a interposição do recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado do Tribunal de origem (AgInt nos EDcl no AREsp 1.571.531/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 20.5.2020), não se prestando ao esgotamento de instância os embargos de declaração opostos à decisão monocrática, ainda que decididos pelo órgão colegiado do Tribunal a quo (AgInt no AREsp n. 2.049.602/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2.9.2024.)
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.819.754/MT, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DA SÚMULA N. 281 DO STF. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Compete ao Superior Tribunal de Justiça "julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios", nos termos do art. 105, III, da Constituição Federal. Assim, é pressuposto de admissibilidade do apelo excepcional o esgotamento dos recursos cabíveis na instância ordinária (Súmula n. 281 do STF).
+2. Não ocorre o necessário exaurimento de instância ordinária quando os embargos de declaração são apreciados em decisão monocrática.
+3. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.209.753/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+No caso, após determinação da Vice-Presidência do Tribunal Regional Federal da 3ª Região (e-STJ, fls.1.283-1.285), o Desembargador da Turma julgadora, por meio de decisão monocrática (e-STJ, fls.1.286-1.291), exerceu juízo de retratação e deu parcial provimento aos apelos das partes.
+A essa decisão singular a agravante opôs embargos de declaração (e-STJ, fls.1.371-1.376), os quais foram rejeitados por intermédio de decisão monocrática (e-STJ, fls.1.532-1.534), inclusive com menção expressa na fundamentação de que o julgamento ocorreu com base no art. 1.024, § 2º, do CPC/2015, segundo o qual, quando os embargos de declaração forem opostos a decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.
+Após isso, a recorrente opôs novos embargos de declaração (e-STJ, fls. 1.542-1.544), que também foram rejeitados por decisão singular (e-STJ, fls. 1.546-1.548 ).
+Por derradeiro, a agravante interpôs recurso especial dessa decisão singular, com fundamento no art. 105, III, a e c, da CF/1988 (e-STJ, fls.1.554-1.583).
+Com efeito, apesar de a recorrente alegar que seus embargos de declaração - opostos à decisão que exerceu o juízo de retratação - poderiam ser convertidos em agravo interno, fato é que isso não ocorreu e, por essa razão, o recurso especial foi interposto de decisão monocrática, sem possibilitar, assim, o esgotamento da instância ordinária.
+Dessa forma, em consonância com o art. 105, III, da Constituição Federal, com a Súmula 281/STF e com os precedentes do Superior Tribunal de Justiça, revela-se correta a decisão que inadmitiu o recurso especial.
+Por decorrência lógica, não há falar em determinação ao Tribunal a quo para que exerça novo juízo de retratação em relação ao Tema 985/STF, na medida em que a referida controvérsia foi analisada pela primeira decisão em juízo de retratação (e-STJ, fls.1.286-1.291) e, após a rejeição de dois embargos de declaração, também foi mantida pela decisão que inadmitiu o recurso especial (e-STJ, fls.1.935-1.951). Assim, eventual necessidade de alteração do julgado deveria ser demonstrada pelo recurso cabível, o que, segundo mencionado, não foi realizado no caso em tela, razão pela qual não pode ser decidido neste momento processual por esta Corte Superior.
+Agravo conhecido para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. ESGOTAMENTO DE INSTÂNCIAS. NÃO OCORRÊNCIA. ART. 105, III, DA CF/1988. SÚMULA 281/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
