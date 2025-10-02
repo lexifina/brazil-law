@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC e (b) aplicação da Súmula n. 7 do STJ (fls. 667-671).
+O acórdão recorrido está assim ementado (fl. 589):
+APELAÇÃO CÍVEL. PROPRIEDADE INDUSTRIAL E INTELECTUAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS POR VIOLAÇÃO DE DIREITOS AUTORAIS. PLATAFORMA DE STREAMING. REPRODUÇÃO DE MÚSICA SEM ATRIBUIÇÃO DE AUTORIA DA COMPOSIÇÃO DA OBRA. RESPONSABILIDADE DA RÉ PELO EVENTO DANOSO. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO MANTIDO. JUROS E CORREÇÃO MODIFICADOS.
+I. Caso em Exame: Apelação interposta pela parte ré contra sentença que julgou procedente pedido de indenização por danos morais, fundamentada na ausência de indicação de autoria em 31 obras musicais do autor, disponibilizadas na plataforma de streaming Napster. O autor, por sua vez, requereu a majoração do valor indenizatório para R$ 40.000,00.
+II. Questão em Discussão: (i) Definir a responsabilidade da plataforma de streaming pela ausência de crédito autoral; (ii) Avaliar o cabimento de majoração do quantum indenizatório por danos morais.
+III. Razões de Decidir. Comprovada a autoria das composições, conforme relatório emitido pelo ECAD, reconheceu-se que a disponibilização das músicas sem atribuição de autoria constitui violação ao direito moral do autor, nos termos da Lei nº 9.610/98, arts. 24 e 108. A jurisprudência do STJ caracteriza o streaming como execução pública, cabendo às plataformas o dever de indicar o nome dos compositores para evitar a prática de atos ilícitos. Quanto ao quantum indenizatório, optou-se pela manutenção do valor de R$ 15.000,00, considerado adequado às circunstâncias do caso e suficiente para o caráter compensatório e pedagógico da indenização.
+IV. Juros Moratórios e Correção Monetária. O apelo do réu deve ser provido no ponto, a fim de adequar a incidência de juros moratórios e correção monetária às novas disposições do Código Civil, conforme alterações da nova Lei nº 14.905/2024 (em vigor desde 28/08/2024).
+NEGARAM PROVIMENTO AO APELO DO AUTOR E DERAM PARCIAL PROVIMENTO AO APELO DO RÉU.
+Os embargos de declaração foram rejeitados (fls. 606-610).
+Nas razões do recurso especial (fls. 612-627), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC, alegando que, "muito embora tenha sido provado que o autor é seu próprio produtor fonográfico, responsável por criar o fonograma e incluir todos os dados nele, inclusive seu nome como compositor, tal matéria não foi analisada pelo v. acórdão" (fl. 624),
+(ii) arts. 5 º, IX, e 80 da Lei n. 9.610/1998, 1.027 do CPC e 186 do CC, por entender que, "ao manter a condenação do recorrente houve patente desrespeito ais artigos  ..  na medida em que, por ser o recorrido seu próprio Produtor Fonográfico, causou o próprio dano  ..  se a valoração tivesse sido feita na forma legal, certamente não haveria a manutenção da sentença monocrática pelo v. acórdão" (fl. 620-621), e
+(iii) arts. 884, 927 e 944, parágrafo único, do CC, sustentando que "o valor dos danos morais majorados pelo Tribunal de Justiça está em patamar bastante elevado e não levou em consideração que o recorrido contribuiu, e muito, para o dano" (fl. 622).
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (fls. 630-352).
+O agravo (fls. 674-689) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 691-710).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Houve o enfrentamento de toda a questão posta em discussão na instância a quo, desenvolvida e analisada fundamentadamente, ainda que em sentido contrário à pretensão da parte recorrente. Confira-se o seguinte excerto (fls. 586-587 ):
+Sobre o tema, importa destacar que a jurisprudência do STJ tem se posicionado no sentido de que o streaming é uma das modalidades previstas nos artigos 5 º, inciso II, e 68, §§ 2º e 3º, da Lei Autoral, como meios pelos quais as obras musicais e fonogramas são transmitidos e que a internet é local de frequência coletiva, caracterizando-se, desse modo, a execução como pública e que constitui novo fato gerador de cobrança de direitos autorais.
+Ressalto que, em que pese o registro da autoria de músicas seja faculdade do compositor, não está a ré dispensada de adotar as providências cabíveis junto aos órgãos oficiais, a fim de observar os direitos autorais dos compositores.
+Dessa forma, o fato da ré ter disponibilizado em sua plataforma canções sem indicação da correta autoria, auferindo proveito econômico com a reprodução dessas obras, configura o dever de indenizar, eis que preenchidos os pressupostos.
+Ademais, descabe a alegação de que não é a ré quem alimenta e disponibiliza o conteúdo em sua plataforma de streaming.
+Na verdade, não é o Produtor quem disponibiliza/divulga as músicas/vídeos nas plataformas da internet, mas sim a demandada quem se utiliza do serviço de streaming para sua disponibilização e quem tem o dever de indicar o nome do compositor das obras divulgadas, com a atribuição dos créditos das músicas que disponibiliza aos seus usuários.
+ ..
+Assim, correta a fundamentação dada pela sentença a respeito da responsabilidade da ré no evento narrado na inicial.
+No caso concreto, o TJRS consignou que o fato da parte recorrente ter disponibilizado em sua plataforma canções sem indicação da correta autoria, auferindo proveito econômico com a reprodução dessas obras, configura o dever de indenizar, eis que preenchidos os pressupostos e que descabe a alegação de que não é a parte recorrente quem alimenta e disponibiliza o conteúdo em sua plataforma de streaming.
+Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ
+A modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, manteve a indenização dos danos morais conforme lançada na sentença (fl. 586):
+No caso, levando em consideração a quantidade de obras - 31 músicas -, entendo por manter o quantum arbitrado na origem, de R$ 15.000,00, diante das peculiaridades do caso concreto e por estar de acordo com o padrão adotado por esta Câmara
+A quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ. Para alterar a cifra , seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
