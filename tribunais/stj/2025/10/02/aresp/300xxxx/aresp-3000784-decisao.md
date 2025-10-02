@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Agravo apresentado por HÍPICA ALPHA EMPREENDIMENTOS IMOBILIÁRIOS LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+JUSTIÇA GRATUITA - PESSOA JURÍDICA- PROVA DOCUMENTAL DE QUE SOCIEDADE ESTÁ INATIVA E NÃO AUFERE LUCROS NEM REALIZA DESPESAS - HIPOSSUFICIÊNCIA FINANCEIRA DEMONSTRADA - CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA, COM EFEITO EX NUNC INTERESSE RECURSAL - DISSOLUÇÃO PARCIAL DA SOCIEDADE - APURAÇÃO DE HAVERES - FIXAÇÃO DO MÉTODO DO BALANÇO ESPECIAL DE DETERMINAÇÃO - PEDIDO RECURSAL DE APLICAÇÃO DO "CRITÉRIO DO VALOR JUSTO" - INTERESSE RECURSAL AUSENTE, SEJA PORQUE HÁ INOVAÇÃO RECURSAL OU PORQUE A SENTENÇA CONCEDEU EXATAMENTE O QUE FOI PEDIDO NA EXORDIAL - APELAÇÃO NÃO CONHECIDA NESTE PONTO DISSOLUÇÃO PARCIAL DA SOCIEDADE - APURAÇÃO DE HAVERES - PEDIDO DE CONDENAÇÃO DA SOCIEDADE AO PAGAMENTO DE LUCROS RETIDOS - INTERESSE PROCESSUAL PRESENTE - INTELIGÊNCIA DO ART. 608 DO CPC - PROCEDÊNCIA DO PEDIDO - APELAÇÃO PROVIDA PARA ESTE FIM DISPOSITIVO: CONCEDEM OS BENEFÍCIOS DA JUSTIÇA GRATUITA, CONHECEM EM PARTE E, NA PARTE CONHECIDA, DÃO PROVIMENTO AO RECURSO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 421 do CC; 608 do CPC, no que concerne à impossibilidade de cobrança de lucros retidos no bojo da ação de dissolução parcial de sociedade, preservando-se o princípio da autonomia contratual, especificamente em relação ao pacta sunt servanda, trazendo a seguinte argumentação:
+22. Com isso, o Tribunal deixou de observar que a ação de dissolução parcial de sociedade possui rito especial, sendo incompatível com a cumulação de pedido de cobrança de lucros retidos, conforme expressamente decidido na sentença de primeiro grau, que acolheu a necessidade de ação autônoma para tal pleito.
+ ..
+25. Desse modo, resta imprescindível a observância do rito processual adequado e a exclusão do pedido de cobrança de lucros retidos no procedimento de dissolução parcial de sociedade, conforme determinado pela r. sentença. Isso assegura a integridade do processo e o respeito à autonomia contratual das Partes, evitando que se utilizem vias inadequadas para pleitos que demandam ações específicas.
+ ..
+27. Portanto, ao admitir a cobrança de lucros retidos no procedimento de dissolução, o Tribunal desconsiderou a necessidade de ação autônoma para tal, comprometendo a segurança jurídica e a autonomia contratual estabelecida (fls. 755-757).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Mart ins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
