@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial, interposto por ERNY DA SILVA OLIVEIRA - SUCESSÃO, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. FASE DE CUMPRIMENTO DE SENTENÇA. ATUALIZAÇÃO DO CRÉDITO. NOS TERMOS DA TESE FIXADA COM O JULGAMENTO DO RESP. N. 1.843.332/RS-TEMA 1051 DO STJ, CONSIDERA-SE QUE A EXISTÊNCIA DO CRÉDITO É DETERMINADA PELA DATA EM QUE OCORREU O SEU FATO GERADOR. NO CASO, CONSIDERANDO QUE O CRÉDITO EXEQUENDO ERA ANTERIOR AO DEFERIMENTO DA PRIMEIRA RECUPERAÇÃO, E, PORTANTO, CONCURSAL, EMBORA NÃO HABILITADOS, DEVEM SER ATUALIZADOS ATÉ 20/06/2016, DATA DO DEFERIMENTO DA PRIMEIRA RECUPERAÇÃO. DESNECESSÁRIO RETROCEDER À QUANTIA PRETENDIDA EM 06/12/2011, COMO PARÂMETRO PARA A DATA DE INÍCIO DA APLICAÇÃO DA CORREÇÃO MONETÁRIA E JUROS, DEVENDO O TERMO INICIAL PARTIR DA DATA DO CÁLCULO DE 20/06/2016 (FL. 01 DO EVENTO 3, PROCJUDIC27), CONSIDERANDO QUE HOUVE CONCORDÂNCIA EXPRESSA DA PARTE EXEQUENTE. QUANTO À APLICAÇÃO DA MULTA DE 10% SOBRE O VALOR DA EXECUÇÃO, DIVERSAMENTE DO QUE ALEGA A AGRAVANTE, DA ANÁLISE DOS CÁLCULOS APRESENTADOS PELA AGRAVADA ( EVENTO 33, CALC6), PERCEBE-SE QUE FOI OBSERVADA A INCIDÊNCIA TANTO DA MULTA DE 10%, NA FORMA DO § 1º DO ART. 523 DO CPC, COMO FOI CONTEMPLADO NO RESPECTIVO CÁLCULO A INCIDÊNCIA DA MULTA DE 5% APLICADA NA FORMA DO § 2º DO ART. 1.026 DO CPC, NÃO MERECENDO REPAROS A DECISÃO AGRAVADA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Foram opostos embargos de declaração, os quais restaram rejeitados.
+Nas razões do recurso especial (fls. 111/131, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, ao art. 49 da Lei 11.101/2005, sustentando, para tanto, o crédito somente deve sofrer os efeitos da recuperação em que for habilitado (no caso, a segunda recuperção de 2023), de modo que o acórdão recorrido incorreu em erro ao decidir a atualização monetária deve ser limitada até 20/06/2016, ou seja, a data do primeiro pedido de recuperação judicial da OI.
+Contrarrazões (fls. 164/176, e-STJ), e após decisão de admissão do recurso especial (fls. 179/182, e-STJ) , os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. A questão controvertida restou assim delimitada e decidida pela Corte Estadual:
+No caso, considerando que o crédito do agravante já era concursal quando da primeira recuperação judicial, de se ter que o novo pedido de recuperação judicial da recorrida em nada altera a atualização dos créditos já existentes, embora não habilitados, antes do primeiro pedido de recuperação. Assim, como o fato gerador do crédito é anterior ao primeiro pedido de recuperação judicial, deve ser mantida a decisão agravada, ficando, a atualização, limitada a data de 20 de junho de 2016, como bem salientado pelo juízo "a quo".
+(..)
+Assim, vai mantida a decisão agravada, no ponto.
+Observa-se que o acórdão recorrido está sintonia com a jurisprudência do Superior Tribunal de Justiça, porquanto restou firmado o entendimento de que "para manter a paridade com os demais credores submetidos ao primeiro plano de recuperação judicial, o crédito deve ser corrigido até a data do primeiro pedido e, em sequência, sofrer os eventuais deságios e atualizações previstos no primeiro plano" (REsp n. 2.138.916/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/4/2025, DJEN de 15/4/2025.).
+Confira-se, a propósito, a ementado citado julgado:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. FALHA NA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ATUALIZAÇÃO DOS CRÉDITOS. FATO GERADOR. PRIMEIRA RECUPERAÇÃO JUDICIAL. SUJEIÇÃO. ATUALIZAÇÃO. DATA DO PRIMEIRO PEDIDO. INTELIGÊNCIA DO ARTIGO 9º, II, DA LREF.
+1. A controvérsia dos autos resume-se a definir: (i) se houve falha na prestação jurisdicional e (ii) se o crédito que tem como fato gerador data anterior ao primeiro pedido de recuperação judicial deve ser atualizado, para o fim de habilitação, até o ajuizamento do segundo pedido de recuperação judicial.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O artigo 9º, inciso II, da Lei nº 11.101/2005, determina que o crédito a ser habilitado pelo credor deve ser atualizado até a data da decretação da falência ou do pedido de recuperação judicial.
+4. A determinação de atualização do crédito até a data do pedido tem como objetivo equalizar os parâmetros de correção para uniformizar os direitos dos credores no momento da votação do plano de recuperação judicial.
+5. O crédito deve ser corrigido somente até a data do pedido, pois, posteriormente, ele será atualizado na forma que dispuser o plano de recuperação judicial, tratando-se de uma garantia mínima.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, para manter a paridade com os demais credores submetidos ao primeiro plano de recuperação judicial, o crédito deve ser corrigido até a data do primeiro pedido e, em sequência, sofrer os eventuais deságios e atualizações previstos no primeiro plano.
+Ajuizada a segunda recuperação judicial, deverá seguir o mesmo destino que os créditos remanescentes da primeira recuperação, ainda não quitados, terão.
+8. Recurso especial não provido.
+(REsp n. 2.138.916/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
+Incidiência, na hipótese, da Súmula 83 do STJ.
+2. Ante o exposto, nego provimento ao reclamo.
+Publique-se. Intimem-se.
+EMENTA
