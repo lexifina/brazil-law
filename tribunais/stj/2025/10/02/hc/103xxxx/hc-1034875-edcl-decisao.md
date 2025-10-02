@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCOS EDUARDO GONÇALVES JUNIOR, contra decisão monocrática de minha relatoria (e-STJ, fls. 71/73), que indeferiu o pedido liminar e solicitou informações à origem, bem como determinou a abertura de vista para manifestação do Ministério Público Federal.
+O embargante sustenta a ocorrência de omissão na decisão embargada, com o seguinte argumento: " ..  a decisão embargada não se manifestou sobre o excesso de prazo, limitando-se a invocar a gravidade abstrata dos fatos como razão para manutenção da custódia cautelar  o que revela omissão relevante e violação ao art. 489, §1º, IV e VI, do CPC (por analogia), por deixar de enfrentar tese central apta a infirmar a conclusão adotada." (e-STJ, fl. 80).
+É o relatório. Decido.
+Consoante relatado, pretende a parte embargante que haja esclarecimento a respeito da omissão apontada, em relação à ausência de manifestação sobre o excesso de prazo na formação da culp a.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, hipóteses que não se fazem presentes.
+A decisão monocrática embargada foi assim fundamentada (e-STJ, fls. 72/73, grifos):
+A concessão de liminar em habeas corpus somente é cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do artigo 312 do Código de Processo Penal.
+O decreto prisional restou assim fundamentado (e-STJ, fls. 55/56):
+Pelos elementos colacionados ao presente inquérito policial, há prova da materialidade dos crimes de roubo majorado e extorsão qualificada, além de suficientes indícios de autoria em relação aos averiguados.
+ ..
+No caso vertente, o delito imputado aos réus apresenta pena máxima superior a 4 anos, existindo evidências de cometimento com prática de violência e grave ameaça à pessoa, evidenciando possível desajuste social e, por conseguinte, risco contra a ordem pública relembro que o crime envolve violência à pessoa e origina intranquilidade social, de forma que a custódia é imprescindível para resguardar a ordem pública, daí porque absolutamente inadequadas no caso em comento quaisquer outras medidas cautelares (artigos 282, inciso II, 312 e 324, inciso IV, do CPP).
+No mais, não há quaisquer provas de vínculos com o distrito da culpa, especialmente ocupação lícita, não obstante alegações unilaterais do(s) réu(s) em sentido contrário, de modo que facilmente poderá(ão) frustrar os chamamentos judiciais e motivar a aplicação do artigo 366 do CPP. A prisão também é necessária para resguardar a instrução criminal. Poderá(ão), ainda, submeter a principal testemunha a quaisquer constrangimentos, visando impedir seu reconhecimento.
+ ..
+Com efeito, o crime imputado a eles é grave e há indícios de autoria, conforme reconhecimento efetuado pela vítima na Delegacia (fls. 42/45, 196/197 e 295/296), sendo necessária a prisão para a garantia da ordem pública e aplicação da lei penal.
+Verifica-se, ao menos nesse juízo inicial, que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta da conduta imputada  evidências concretas da ocorrência dos crimes de roubo majorado e extorsão qualificada, incluindo fortes indícios de autoria, entre outros, do paciente, além da utilização de violência e grave ameaça  circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta dos agentes, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+Por fim, vale destacar que "A presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.)
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Com relação aos prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal. De efeito, a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Na hipótese, ao menos em cognição sumária, não se detecta manifesta ilegalidade apta a ensejar o deferimento da medida de urgência, pois, se faz necessário o exame circunstancial do prazo de duração do processo.
+Não constatada ilegalidade flagrante que justifique o deferimento da medida de urgência, fica a apreciação detalhada do habeas corpus postergada para o exame de mérito, assim inclusive garantindo-se a necessária segurança jurídica.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, hipóteses que não se fazem presentes.
+No presente caso, não se vislumbra a ocorrência de omissão na decisão embargada, pois a decisão que defere ou indefere liminar é de natureza precária e não definitiva, não tendo ocorrido ainda a análise de mérito do habeas corpus.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. INJÚRIA QUALIFICADA (ART. 140, § 3º, DO CP). PLEITO DE ABSOLVIÇÃO. ALEGADA VIOLAÇÃO DOS ARTS. 619 E 620 DO CPP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. TESE DE INSUFICIÊNCIA PROBATÓRIA. NECESSIDADE DE REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1.Não há falar em violação dos arts. 619 e 620 do Código de Processo Penal quando o Tribunal de origem se manifesta de forma clara e fundamentada sobre as questões essenciais ao deslinde da controvérsia, ainda que de forma contrária aos interesses da parte. A pretensão de rediscussão do mérito, sob o pretexto de omissão, é incabível na via dos embargos de declaração.
+ .. .
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.786.068/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.).
+Outrossim, não há que se falar na ocorrência de vício da decisão embargada, uma vez que a jurisprudência do egrégio Superior Tribunal de Justiça é assente no sentido de que ""o julgador não está obrigado a responder a todas as alegações das partes, a ater-se às razões por elas expostas, tampouco a refutar um a um todos seus argumentos, desde que o fundamento utilizado tenha sido suficiente para embasar a decisão" (AgRg no AREsp 2015094/SP. Quinta Turma. Rel. Ministro Joel Ilan Paciornik. DJe de 18/10/2022)." (AgRg no AREsp n. 2.192.535/GO, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023).
+Observa-se, portanto, que se pretende apenas alterar a decisão que indeferiu o pedido liminar, o que é incabível na via eleita.
+Após o recebimento das informações solicitadas ao Juízo de primeiro grau, os autos deverão ser encaminhados ao Ministério Público Federal para se manifestar sobre o mérito do habeas corpus.
+Aguardem-se, oportunamente, o habeas corpus será decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
