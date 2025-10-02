@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (fl. 1.005):
+Agravo de instrumento. Ação de obrigação de fazer. Evidência de fraude em reembolso. Reembolso assistido. Decisão recorrida deferiu parcialmente a tutela provisória de urgência para obrigar as requeridas a se absterem de solicitar e realizar exames sem a prévia indicação médica e de pleitear o login e senha de acesso dos seus aplicativos para realização de pedidos de reembolso em nome dos beneficiários de plano de saúde da autora. Insurgência da autora pugnando pela concessão integral da tutela de urgência pleiteada. Pretensão de permissão para que o plano de saúde negue o reembolso das despesas com as agravadas apresentadas pelos beneficiários quando constatada fraude e a suspensão das NIP"s abertas e de outras que venham a ser, perante a ANS, em relação a solicitações de reembolsos oriundos de atendimentos realizados pelas rés. Requisitos do art. 300 do CPC ainda não demonstrados. Questões que dependem de análise, caso a caso. Descabimento de ordem genérica. Imprescindibilidade de dilação probatória. Desnecessária autorização para negativa de reembolso de despesas quando constatada fraude, haja vista tratar-se de exercício de direito do agravante. Recurso não provido.
+Os embargos de declaração foram rejeitados (fls. 1.021-1.027).
+Nas razões apresentadas (fls. 1.030-1.045), a recorrente aponta dissídio jurisprudencial e contrariedade:
+(i) aos arts. 489, § 1º, III e IV, e 1.022, II, do CPC/2015, defendendo haver negativa de prestação jurisdicional, porque a Corte local teria se omitido na aplicação do art. 937, VIII, do CPC/2015, e
+(ii) aos arts. 9º, 10 e 937, VIII, do CPC/2015, argumentando que, em se tratando de julgamento do agravo de instrumento interposto contra de decisão interlocutória que deferiu parcialmente a tutela de urgência postulada pela contraparte, haveria nulidade processual advinda da ausência de oportunidade para a empresa apresentar objeção ao julgamento virtual do referido recurso, a fim de realizar sustentação oral.
+O recurso foi admitido na origem (fls. 1.072-1.073).
+É o relatório.
+Decido.
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+A Justiça local deixou claros os motivos pelos quais recusou anular o julgamento do agravo de instrumento, ante a ausência de sustentação oral.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da parte recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco o caso de aclaratórios.
+A Corte local concluiu que a falta de sustentação oral não ensejaria a nulidade automática do acórdão recorrido, a fim de evitar o desrespeito ao princípio da instrumentalidade das formas, previsto nos arts. 277 e 282 do CPC/2015. Confira-se (fls. 1.023-1.027):
+Anote-se que a questão envolvendo julgamento virtual está regulamentada pela Resolução 772/2017 que determina imediata distribuição ao relator do recurso interposto, para preparação de voto e encaminhamento à mesa. O julgamento virtual é a regra. A exceção é o julgamento presencial.
+Ademais, aplica-se o princípio da instrumentalidade das formas, inspirado na expressão "pas de nullit  sans grief", vez que o objetivo da lide é a pacificação social. Regra que vem consagrada nos arts. 277 e 282, §1º, CPC/2015. O processo é meio de atingir a finalidade pretendida pela parte.
+A regra, portanto, é o aproveitamento do ato processual, ainda que praticado fora do modelo legal. Inutilizar o processo tornou-se exceção e somente os vícios que sacrificam os fins da justiça devem ser declarados nulos. Esclarece Cândido Rangel Dinamarco:
+ ..
+Assim, resta nítido o caráter infringente do recurso e a intenção da parte em demonstrar seu inconformismo com a decisão que não converge em direção aos seus próprios interesses. Contudo, essa não é a forma adequada.
+Para infirmar tal entendimento, a parte recorrente apontou violação dos arts. 9º, 10 e 937, VIII, do CPC/2015.
+Ocorre que tais dispositivos legais, isoladamente, não possuem o alcance normativo pretendido para sustentar a alegação, porque nada dispõem a respeito do princípio processual aqui referido.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto aos arts. 9º e 10 do CPC/2015 sob o ponto de vista da parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Incide também no caso a Súmula n. 283/STF, porque a parte recorrente não rechaçou especificamente o fundamento relativo ao princípio da instrumentalidade das formas, que justificou a recusa da decretação de nulidade do julgamento do agravo de instrumento da parte recorrente.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
