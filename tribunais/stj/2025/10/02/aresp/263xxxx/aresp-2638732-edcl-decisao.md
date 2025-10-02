@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão de minha relatoria na qual neguei provimento ao agravo.
+A parte, em suas razões, alega que é a apelação, e não o agravo de instrumento, o recurso cabível para impugnar decisão que julga extinto o pedido de habilitação retardatária de crédito em processo de falência ou recuperação judicial.
+Impugnação às fls. 159/167 e-STJ.
+Ante o nítido caráter infringente da pretensão formulada no recurso ora em análise, em observância ao princípio da fungibilidade recursal e da instrumentalidade das formas, o recebo como agravo interno.
+Posto isto, com razão a agravante.
+Na hipótese dos autos, o TJSP deixou de conhecer d o recurso de apelação interposto pela parte ora recorrente contra decisão que julgou improcedente a habilitação de crédito retardatária, com base no art. 10, § 10, da Lei n. 11.101/2005. Entendeu a Câmara Julgadora que o recurso cabível, na espécie, seria o agravo de instrumento, a teor do disposto no art. 17 da mesma lei.
+Ocorre que a jurisprudência mais recente da Quarta Turma desta Corte Superior tem entendido que a apelação, e não o agravo de instrumento, é o recurso cabível para impugnar decisão que julga extinto o pedido de habilitação retardatária de crédito após a homologação do quadro geral de credores em processo de falência ou recuperação judicial.
+Nesse sentido:
+DIREITO CIVIL E PROCESSO CIVIL. RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HABILITAÇÃO RETARDATÁRIA. HOMOLOGAÇÃO DO QUADRO GERAL DE CREDORES. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. RECURSO CABÍVEL. APELAÇÃO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "O princípio da fungibilidade recursal somente se aplica quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto, b) inexistência de erro grosseiro e c) observância do prazo do recurso cabível" (AgInt no AREsp 1.479.391/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe de 27/11/2019).
+2. Nos termos da jurisprudência desta Corte, a interposição de agravo de instrumento contra decisão que põe fim ao processo configura erro grosseiro, não admitindo a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Na hipótese, o recorrente requereu habilitação retardatária de crédito após a homologação do quadro geral de credores, sendo o pedido extinto, sem julgamento do mérito, por ausência de interesse de agir, diante da necessidade de propositura de ação autônoma, na forma do art. 10, § 6º, da Lei 11.101/2005, de modo que é a apelação, e não o agravo de instrumento, o recurso cabível no caso concreto.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.971.003/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL E FALÊNCIA. AGRAVO DE INSTRUMENTO. HABILITAÇÃO RETARDATÁRIA DE CRÉDITO. HOMOLOGAÇÃO DO QUADRO GERAL DE CREDORES. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. RECURSO CABÍVEL. APELAÇÃO. DESCABIMENTO DA FUNGIBILIDADE RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. "(..) O princípio da fungibilidade recursal somente se aplica quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto; b) inexistência de erro grosseiro; e c) observância do prazo do recurso cabível. Estando o acórdão recorrido em consonância com o entendimento desta Corte, é inafastável a aplicação da Súmula 83/STJ. (AgInt no AREsp 1.479.391/SP, Rel Ministro MARCO BUZZI, Quarta Turma, julgado em 26/11/2019, DJe 27/11/2019)
+2. Hipótese em que o recorrente requereu habilitação retardatária de crédito após a homologação do quadro-geral de credores, sendo o pedido extinto, sem julgamento do mérito, por ausência de interesse de agir, diante da necessidade de propositura de ação autônoma, na forma do art. 10, § 6º, da Lei n. 11.101/2005.
+3. A apelação, e não o agravo de instrumento, é o recurso cabível no caso concreto, devido à extinção do feito.
+4. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp n. 1.887.207/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+Impõe-se, portanto, a reconsideração da decisão de fls. 143/144, para acarretar a reforma do acórdão recorrido.
+Em face do exposto, recebo os embargos de declaração como agravo interno, reconsidero a decisão de fls. 143/144, para conhecer do agravo e dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para novo julgamento da apelação da parte ora recorrente, ultrapassada a questão quanto ao cabimento do recurso na espécie.
+Intimem-se.
+EMENTA
