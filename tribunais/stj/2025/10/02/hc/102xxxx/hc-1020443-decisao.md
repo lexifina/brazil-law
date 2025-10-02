@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RICARDO ALEXANDRE DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no Agravo em Execução n. 0028032-52.2024.8.26.0041.
+O writ é manejado em caráter substitutivo após a inadmissão de Recurso Especial e do agravo do art. 1.042 do Código de Processo Civil, com trânsito em julgado, diante de sanção disciplinar de falta grave por suposto desrespeito a servidor, que acarretou a perda de 1/6 dos dias remidos e o reinício do lapso para benefícios.
+A impetração sustenta a insuficiência probatória, por se apoiar exclusivamente na palavra de dois agentes, sem elementos objetivos (ausência de câmeras no local), bem como violação ao devido processo legal e à presunção de inocência, destacando que o parecer administrativo chegou a rechaçar a absolvição por alegado "precedente muito temerário" para a disciplina prisional.
+Invoca-se o art. 127 da Lei de Execução Penal, com a requerida necessidade de prova concreta para reconhecimento de falta grave, e o art. 5º, LVII, da Constituição, quanto à presunção de inocência.
+Requer, liminarmente e no mérito, a absolvição do paciente da falta disciplinar imposta ou, subsidiariamente, a desclassificação para falta de natureza média.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Passa-se, assim, à análise do writ.
+O Superior Tribunal de Justiça, considerando a necessidade de racionalização do emprego do remédio heroico, que reiteradamente é impetrado de maneira desvirtuada, alheia aos preceitos constitucionais e legais, entende ser incabível a impetração de habeas corpus substitutivo de recurso próprio, sob pena subversão do sistema recursal e indevida supressão de instância.
+Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS. APREENSÃO DE DROGAS E MATERIAL CARACTERÍSTICO DO TRÁFICO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+ .. .
+(AgRg no HC n. 946.588/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024).
+Conforme afirmado pela defesa do impetrante, contra o acórdão do agravo em em execução, a Defesa também interpôs recurso especial, não admitido na origem. Na sequência, interpôs agravo em recurso especial (AREsp n. 2.926.967/SP), não conhecido por esta Corte Superior, com certificação de trânsito em julgado em 04/08/2025.
+Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus, por violação do princípio da unirrecorribilidade, visto que já interposto o recurso cabível, sob pena de se permitir a utilização do habeas corpus como forma de superar, por via transversa, óbice de admissibilidade a recurso interposto.
+Nesse sentido :
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA DOSIMETRIA. CONTINUIDADE DELITIVA. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO DESPROVIDO.
+1. A orientação jurisprudencial deste Tribunal Superior é no sentido de não ser cabível a impetração de habeas corpus concomitantemente com a interposição de recurso próprio contra o mesmo ato judicial, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade, considerando-se a acepção de única impugnação a cada prestação jurisdicional.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 921.673/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DA INADMISSÃO DO RECURSO ESPECIAL NÃO COMBATIDAS NO AGRAVO INTERPOSTO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+ .. .
+5. É inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido à admissibilidade do recurso interposto. Precedentes.
+6. Agravo não conhecido.
+(AgRg no AREsp n. 2.476.861/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Ademais, não se revela possível o conhecimento do writ, utilizado como substitutivo de revisão criminal, em situação na qual não se verificou a inauguração da competência do Superior Tribunal de Justiça (art. 105, inciso I, alínea "e", da Constituição Federal).
+No mesmo sentido: AgRg no HC n. 1.000.063/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025; AgRg no HC n. 931.666/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/8/2025, DJEN de 26/8/2025; e AgRg no HC n. 1.022.818/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025.
+Observa-se, ainda, que o fato mencionado foi objeto de apuração em regular procedimento administrativo, ouvidos os agentes de segurança, que confirmaram os fatos de forma coesa.
+Sendo assim, verifico que para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, para análise de tese de insuficiência probatória, com a consequente absolvição da paciente, ou ainda, para desclassificar a falta grave imputada ao paciente para uma de natureza média, seria necessário amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. OITIVA JUDICIAL. DESNECESSIDADE. ASSEGURADO O CONTRADITÓRIO E AMPLA DEFESA NO PAD. REGRESSÃO DEFINITIVA. INOCORRÊNCIA. SANÇÃO COLETIVA. AFASTADA. ABSOLVIÇÃO. NECESSIDADE DE APROFUNDADO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE NA VIA CÉLERE DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O artigo 118 da LEP exige a oitiva prévia do apenado apenas nos casos de regressão definitiva de regime prisional, o que não é a hipótese dos autos, porquanto não houve regressão do sentenciado a regime mais gravoso (AgRg no HC n. 743.180/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2023, DJe de 23/3/2023).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de ser desnecessária a realização de audiência de justificação para averiguação de falta grave, se ocorrer a apuração de falta disciplinar e regular procedimento administrativo no qual foi assegurado o contraditório e ampla defesa, inclusive com a participação da Defesa técnica, bem como no caso de ausência de regressão de regime.
+3. Não há que se falar em sanção coletiva uma vez que foram ouvidos os presos envolvidos e os agentes penitenciários, sendo apurada a conduta de cada um. Ademais, entende o Superior Tribunal de Justiça, como no caso dos autos, que  N ão se configura sanção coletiva se o executado é descrito pelos agentes penitenciários presentes no momento do evento como um dos participantes da falta e tem sua conduta devidamente individualizada (STJ, Sexta Turma, rel. Min. Jesuíno Rissato, DJe de 30/11/2023).
+4. Quanto à alegação da insuficiência probatória acerca da prática da da falta grave, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a desconstituição ou desclassificação de falta grave implica revolvimento fático-probatório, providência vedada em habeas corpus. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no HC n. 908.631/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 30/10/2024, DJe de 6/11/2024.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FALTA GRAVE. PRAZO PRESCRICIONAL. ART. 109, VI, DO CÓDIGO PENAL. FALTA COLETIVA AFASTADA. ABSOLVIÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. RECURSO NÃO PROVIDO.
+I. Caso em exame Cuida-se de agravo regimental contra decisão desta Relatora que de não conheceu do habeas corpus, impetrado contra decisões prolatadas pelas instâncias ordinárias que reconheceram a prática de falta grave pelo sentenciado.
+II. Questão em discussão Cinge-se a controvérsia em verificar se houve a ocorrência da prescrição para anotação da falta, bem como se houve sanção coletiva.
+III. Razões de decidir 1. De acordo com o entendimento firmado por esta Corte, na apuração de falta disciplinar de natureza grave, em razão da ausência de norma específica, deve ser aplicado o prazo prescricional previsto no art. 109, VI, do Código Penal, ou seja, 3 anos.
+2. Orienta a jurisprudência deste Tribunal que a identificação individual de cada participante na prática da falta disciplinar afasta a alegação de sanção coletiva.
+3. Conforme orientação jurisprudencial emanada por esta Corte, afastar o reconhecimento da falta, ou até mesmo a sua desclassificação para falta de natureza média ou leve, demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus.
+IV. Dispositivo Agravo regimental não provido. Decisão mantida.
+(AgRg no HC n. 903.489/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024.)
+Além disso, de acordo com a jurisprudência desta Corte, os depoimentos dos agentes públicos gozam de presunção de veracidade e legitimidade, inerentes aos atos administrativos em geral.
+Nessa esteira, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. POSSE DE INSTRUMENTO CAPAZ DE OFENDER A INTEGRIDADE FÍSICADE OUTREM - ART. 50, INCISO III, DA LEI 7.210/84. ABSOLVIÇÃO. PRESUNÇÃO DE VERACIDADE DO DEPOIMENTO DOS AGENTES PENITENCIÁRIOS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO DESPROVIDO.
+1. Não há falar-se em absolvição da prática de falta grave, uma vez que as Instâncias Ordinárias, em Procedimento Administrativo Disciplinar, assegurado ao reeducando o contraditório e a ampla defesa, inclusive com a participação de defesa técnica, concluíram que o sentenciado encontrava-se na posse de uma arma artesanal "estoque" - instrumento artesanal pontiagudo, apto a ofender a integridade física de outrem, caracterizando, assim, a infração disciplinar prevista no art. 50, III, da Lei de Execução Penal.
+2. A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave (..). A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral. (HC n. 391170, Rel. Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017). Na mesma linha de entendimento: HC n. 334732, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, julgado em 17/12/2015, publicado em 1º/2/2016.
+3. Outrossim, desconstituir o entendimento firmado pelas instâncias originárias demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes.
+4. Agravo desprovido.
+(AgRg no HC n. 821.526/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Tendo as instâncias de origem concluído, com base nas provas produzidas no procedimento disciplinar interno, especialmente nas declarações dos agentes penitenciários, que o agravante praticou falta grave consistente na subversão da ordem, para se chegar a entendimento diverso, necessário seria o revolvimento do conteúdo fático-probató rio dos autos, incabível nesta via.
+2. Outrossim, "a Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  .
+..  (HC n. 391.170/SP, rel. Min. Nefi Cordeiro, julgado em 1º/8/2017, publicado em 7/8/2017).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 797.089/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT ), Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Ante o exposto, não conheço do habeas corpus.
+Comunique-se o teor desta decisão tanto ao Juízo das Execuções quanto ao Tribunal de Justiça
+Publique-se. Intimem-se.
+ EMENTA
