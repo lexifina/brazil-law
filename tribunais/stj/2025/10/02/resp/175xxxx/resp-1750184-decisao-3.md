@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALICE MUNIZ RETAMAL, com arrimo na alínea "a" do permissivo constitucional, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Maranhão, assim ementado:
+"PROCESSO CIVIL E ADMINISTRATIVO. ENUNCIADO 3 DO STJ. CUMPRIMENTO DE SENTENÇA. SOCIEDADE DE ECONOMIA MISTA. ARTIGO 4º DA LEI 9.256/97. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. VERBA INTEGRANTE DO PATRIMÔNIO PÚBLICO DO BNB. SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. VALORES EXORBITANTES. REDUÇÃO. POSSIBILIDADE. APELAÇÕES PARCIALMENTE PROVIDAS.
+I - "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC." (Enunciado Administrativo nº 3,STJ).
+III -O Código de Processo Civil de 1973 permitia, em seu artigo 267, § 3º, o reconhecimento, de ofício, de quaisquer das condições da ação e a consequente extinção do processo sem julgamento de mérito, independentemente de prévio contraditório.
+IV - O artigo 4º da Lei 9.256/97 traz uma exceção à regra geral do Estatuto da Ordem dos Advogados do Brasil, segundo a qual os honorários de sucumbência pertencem ao advogado, quando a parte vencedora for a "Administração Pública direta da União, dos Estados, do Distrito Federal e dos Municípios, bem como às autarquias, às fundações instituídas pelo Poder Público, às empresas públicas e às sociedades de economia mista".
+V -O Banco do Nordeste do Brasil S. A. é uma instituição financeira estatal, constituída na forma de sociedade de economia mista, de capital aberto, controlada pelo Governo Federal Brasileiro, tendo a União como sua acionista majoritária.
+VI - O Superior Tribunal de Justiça pacificou entendimento no sentido de que a titularidade dos honorários advocatícios de sucumbência, quando vencedora a Administração Pública direta da União, dos Estados, do Distrito Federal e dos Municípios, ou as autarquias, as fundações instituídas pelo Poder Público, ou as empresas públicas, ou as sociedades de economia mista, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público da entidade.
+VII - Impõe-se a alteração do valor fixado a título de honorários advocatícios, caso se mostrem exorbitantes, em clara afronta aos princípios da razoabilidade e da proporcionalidade. Entendimento pacífico do STJ.
+VIII - Apelações parcialmente providas, de acordo, em parte, com o parecer ministerial." (fls. 1111-1112)
+Irresignada, a recorrente aduz que o TJMA malferiu o art. 20, §§ 3º e 4º, do Código de Processo Civil de 1973, uma vez que reduziu a condenação em honorários sucumbenciais de 20% do valor do cumprimento de sentença para R$ 5.000,00 (cinco mil reais), representando valor muito inferior ao valor executado ou, precisamente, apenas 0,034%.
+Contrarrazões às fls. 1539-1560.
+O apelo nobre foi admitido, nos termos da r. decisão de fls. 1631-1633.
+É o relatório. Passo a fundamentar.
+Almeja a parte recorrente a reforma do v. acórdão estadual que, em sede de apelação, reformou parcialmente a sentença extintiva do feito, para reduzir os honorários advocatícios sucumbenciais para R$5.000,00 (cinco mil reais).
+Ocorre que esta relatoria deu provimento aos agravos em recursos especiais manejados por CLÁUDIO ANTÔNIO AMARAL MORAES, CHARLES AUGUSTO DE FARIAS MENDES GILMAR PEREIRA SANTOS, LIVIA KARLA CASTELO BRANCO E OUTROS, ora recorridos, para reformar a r. sentença extintiva, afastando a hipótese de ilegitimidade ativa ad causam acolhida e determinar o regular prosseguimento da execução, esvaziando, port anto, o objeto do recurso especial sob a análise.
+Diante do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o recurso especial de ALICE MUNIZ RETAMAL.
+Publique-se.
+EMENTA
