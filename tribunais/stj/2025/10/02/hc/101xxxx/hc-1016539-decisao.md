@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KETLEN GABRIELLA DOS SANTOS FERREIRA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA (HC 0804860-51.2025.8.22.0000).
+Consta dos autos que a paciente foi condenada por tráfico de drogas à pena de 5 anos em regime semiaberto, negando-lhe o juiz o direito de recorrer em liberdade.
+A defesa alega que a manutenção da prisão preventiva carece de fundamentação idônea, considerando a primariedade, bons antecedentes e condições pessoais favoráveis da paciente.
+Sustenta também a incompatibilidade da negativa do recurso em liberdade com o regime inicial de cumprimento de pena no semiaberto.
+Requer a substituição da prisão preventiva por medidas cautelares diversas.
+A liminar foi indeferida pela Presidência (fls. 68-70).
+As informações foram prestadas (fls.75-85 e 88-107).
+O Ministério Público Federal opinou pelo não conhecimento do writ, em parecer assim sumariado (fl. 112):
+HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. DIREITO DE RECORRER EM LIBERDADE. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PRÁTICA DE CRIME DURANTE O CUMPRIMENTO DE MEDIDAS CAUTELARES. GARANTIA DA ORDEM PÚBLICA.
+- A custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, amparada por decisão devidamente fundamentada com base em elementos concretos, notadamente, o descumprimento de medidas cautelares anteriormente impostas além da reiteração criminosa.
+Pelo não conhecimento do Habeas Corpus.
+É o relatório.
+Decido.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, "a", da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, o que ora passa-se a examinar.
+A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, por força do art. 312 do Código de Processo Penal.
+No caso, afirmou o juiz na sentença (fl. 39):
+Tendo em vista que a condenação encerra tão somente o requisito da instrução criminal, nos termos do art. 312 do CPP, sobrevivendo ainda outros elementos que sustentam a prisão, pois não há garantia que vão cumprir a pena aplicada, mantenho a prisão preventiva. Contudo, a prisão preventiva não pode ser mais onerosa do que a própria condenação, pelo qual determino que sejam colocados no regime ao qual foram condenados. Qual seja SEMIABERTO.
+Por sua vez, o Tribunal de Justiça asseverou (fls. 43-45):
+Conforme se verifica nos autos e nas informações prestadas pela autoridade coatora, a paciente foi inicialmente presa em flagrante em 06/06/2024 pela suposta prática do crime de tráfico de drogas (art. 33, caput, da Lei n.º 11.343/06).
+Em audiência de custódia, realizada na mesma data (06/06/2024), foi concedida à paciente a liberdade provisória, mediante o cumprimento de medidas cautelares, incluindo o uso de tornozeleira eletrônica. Posteriormente, em 30/07/2024, paciente foi novamente presa em flagrante nos autos de outro processo (n.º 7012525-60.2024.8.22.0002) por crime similar (tráfico de drogas), conforme noticiado nos autos de origem.
+Diante desta nova prisão em flagrante, o Ministério Público requereu a revogação das medidas cautelares anteriormente impostas e a decretação da prisão preventiva da paciente. O Juízo a quo, em decisão proferida em 26/08/2024, acolheu o pleito ministerial, revogando as medidas cautelares e decretando a prisão preventiva da paciente, fundamentando a decisão no descumprimento das medidas cautelares anteriormente fixadas e na reiteração criminosa, o que demonstrava a insuficiência das medidas menos gravosas inicialmente aplicadas. Tal descumprimento foi considerado um fundamento concreto, a justificar a custódia cautelar para garantir a ordem pública e assegurar a aplicação da lei penal, diante da reiterada conduta delitiva da paciente, veja-se: (..)
+A superveniente sentença condenatória, que condenou a paciente pela prática do crime de tráfico de drogas, embora tenha se referido à manutenção da prisão de forma mais concisa, mencionando a subsistência de outros elementos que a sustentam e a ausência de garantia de cumprimento da pena, apenas manteve uma custódia que já havia sido decretada anteriormente e fundamentada em elemento concreto e superveniente à concessão da liberdade provisória: o descumprimento das medidas cautelares e a reiteração criminosa. Portanto, a alegada ilegalidade por falta de fundamentação idônea na sentença para negar o direito de recorrer em liberdade não se sustenta, uma vez que a paciente já se encontrava custodiada por força de decisão anterior devidamente fundamentada no descumprimento de medidas cautelares e na reiteração criminosa.
+Embora a defesa argumente a primariedade, bons antecedentes e condições pessoais favoráveis, a jurisprudência majoritária entende que tais condições, por si só, não afastam a necessidade da prisão preventiva quando presentes os seus requisitos e fundamentos concretos, como o risco de reiteração delitiva demonstrado pelo descumprimento das cautelares.
+Ademais, o regime semiaberto fixado na sentença não é incompatível com a manutenção da prisão preventiva, pois a segregação cautelar pode ser adequada ao regime imposto na condenação, como determinado na própria sentença.
+Outrossim, em consulta ao SEEU, verifica-se que a paciente encontra-se recolhida por duas condenações (sem trânsito em julgado), a qual foi determinada a unificação das penas e fixado o regime fechado.
+Inexiste constrangimento ilegal. Como base em descumprimento anterior das medidas cautelares, inclusive houve a prática de novo crime, o juiz manteve a segregação e negou o apelo em liberdade, estando a prisão suficientemente fundamentada na necessidade de garantia da ordem pública.
+O Superior Tribunal de Justiça possui entendimento no sentido de que "a prisão preventiva é compatível com o regime semiaberto quando devidamente fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório. A contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública" (AgRg no HC n. 980.511/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/4/2025, DJEN de 28/4/2025).
+Condições pessoais favoráveis ao agente não impedem a prisão preventiva, caso se verifiquem presentes os requisitos legais para a decretação da custódia cautelar.
+Por fim, a despeito da harmonização da prisão com o regime prisional imposto, o acórdão impugnado dá conta de que a paciente encontra-se recolhida por duas condenações, já determinada a unificação da penas e a fixação do regime fechado.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
