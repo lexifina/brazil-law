@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial interposto por Dielton Elioenai de Oliveira Fontoura contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 809):
+RECURSOS DE APELAÇÃO - RESPONSABILIDADE CIVIL ACIDENTE DE TRÂNSITO
+Colisão entre motocicleta e caminhão em cruzamento que não estava sinalizado após recapeamento da via.
+Preliminar de sentença ultra petita afastada.
+Responsabilidade do ente público não caracterizada. Ausência de responsabilidade de sinalizar todos os cruzamentos. Inteligência do art. 80, do CTB. Improcedência da demanda com relação à Fazenda Municipal.
+Condutor do caminhão que deixou de observar as normas de prudência diante de cruzamento não sinalizado e cuja preferência seria do autor. Inteligência dos arts. 28 e 44, do CTB. Precedentes deste E. TJSP.
+Danos estéticos abrangidos pelos danos morais, não se tratando de indenização autônoma. Reforma da sentença nesse ponto.
+Ação julgada parcialmente procedente. Sentença parcialmente reformada. Provimento da apelação do Município. Provimento parcial da apelação dos demais corréus e desprovimento da apelação do autor.
+Alega a parte recorrente, além do dissídio jurisprudencial, a violação dos arts. 1º, §§ 2º e 3º, 88 e 95, § 2º, da Lei 9.503/1997; arts. 949 e 950 da Lei 10.406/2002; arts. 7º, XXII e XXVIII, 37, § 6º, da Constituição Federal, sustentando, em síntese: i) a responsabilidade objetiva do Município de Valentim Gentil pela omissão na sinalização da via; ii) a manutenção da condenação por danos estéticos, nos termos da Súmula 387/STJ; e iii) a fixação de pensão vitalícia proporcional à invalidez do membro inferior direito.
+Apresentadas contrarrazões (fls. 857-870).
+É o relatório.
+De início, não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+No caso, o Tribunal de origem afastou a responsabilidade do Município, sob o fundamento de que a ausência de sinalização no cruzamento onde ocorreu o acidente não configura omissão estatal. Fundamentou-se no art. 80 do CTB, segundo o qual a sinalização deve ser colocada "sempre que necessário", sendo uma decisão discricionária da Administração Pública. Além disso, a ausência de sinalização decorreu de recapeamento recente da via, o que não caracterizaria culpa do ente público.
+Além disso, rejeitou o pedido de pensão vitalícia, pois o laudo pericial teria concluído que o autor possui apenas incapacidade parcial e não estaria totalmente inválido para o trabalho, destacando que o autor, inclusive, teria participado de atividades como torneios de moto após o acidente, o que reforçaria a ausência de incapacidade total, nos seguintes termos:
+Com relação ao pedido de fixação de pensão vitalícia diante de alegada invalidez, tais alegações não se confirmam, vez que o laudo pericial de fls. 477/485 concluiu pela capacidade laboral do autor, mesmo que parcial, tendo o autor inclusive participado de torneio de moto (enduro ou endurance). Apesar do inconformismo do autor, não foram trazidos aos autos quaisquer elementos que pudessem infirmar o laudo pericial elaborado por profissional imparcial (fl. 829).
+Nesse contexto, a alteração da conclusão do Tribunal a quo, acerca da ausência de configuração de omissão do Município e de que não comprovada a incapacidade total do autor, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Além disso, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Por outro lado, relativamente aos danos estéticos, o Tribunal de origem afastou a indenização, consignando que estes estariam abrangidos pelos danos morais, sob pena de bis in idem.
+Todavia, esta Corte possui o entendimento de que é lícita a cumulação de parcelas indenizatórias por dano moral e estético, quando possível a sua identificação autônoma, nos termos da súmula 387/STJ ("É lícita a cumulação das indenizações de dano estético e dano moral").
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE EM LINHA FÉRREA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. TESE SOBRE A PENSÃO VITALÍCIA E A CAPACIDADE LABORATIVA DA VÍTIMA. AUSÊNCIA DE COMANDO NORMATIVO. DEFICIDÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DANOS MORAIS E ESTÉTICOS. CUMULAÇÃO. SÚMULA 387/STJ. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. Consoante a jurisprudência desta Corte Superior, "é lícita a cumulação de indenização de danos morais e de danos estéticos, conforme disposto na Súmula 387/STJ" (REsp n. 1.722.505/ES, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/3/2018, DJe de 22/11/2018.). Incidência da Súmula 83/STJ.
+5. Agravo interno desprovido (AgInt no AREsp 2.261.051/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/5/2023).
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INCÊNDIO EM CASA DE ESPETÁCULO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. RESPONSABILIDADE CIVIL POR OMISSÃO. CARACTERIZAÇÃO. SÚMULA 7 DO STJ. CUMULAÇAO DE DANOS MORAIS E ESTÉTICOS E REDUÇÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 284/STF.
+ ..
+7. A título de obiter dictum, esta Corte Superior firmou posicionamento consubstanciado na Súmula 387 de que é lícita a cumulação das indenizações de dano estético e dano moral.
+8. De outra parte, a revisão dos valores fixados a título de indenização por danos morais somente é cabível em sede de recurso especial quando exorbitantes ou irrisórios, o que não se verifica no caso vertente, porquanto fixados em R$ 23.250,00 (vinte e três mil e duzentos e cinquenta reais), em atenção aos princípios da proporcionalidade e razoabilidade.
+9. Recurso especial conhecido em parte e, nessa extensão, não provido (REsp 1.281.555/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 12/11/2014.)
+Isso posto, com fundamento no art. 255, § 4º, II e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento para restabelecer a indenização por danos estéticos fixada na sentença.
+Intimem-se.
+EMENTA
