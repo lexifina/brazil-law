@@ -1,0 +1,43 @@
+DECISÃO
+LUIZ FILIPE OLIVEIRA FERREIRA alega sofrer coação ilegal diante de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que denegou a ordem no HC n. 1.0000.25.324760-5/000.
+Neste recurso em habeas corpus, a defesa pede a revogação da prisão preventiva do recorrente, mediante a imposição ou não de medidas cautelares alternativas ao cárcere. Para tanto, argumenta fundamentação inidônea empregada para justificar a segregação cautelar e suficiência e adequação da aplicação das medidas cautelares dispostas no art. 319 do CPP.
+Decido.
+É cabível o avanço para julgamento in limine de questões pacificadas pelo colegiado. Nesse sentido: AgRg no HC n. 894.234/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática de crime de tráfico de drogas. O flagrante foi convertido em prisão preventiva sob a seguinte motivação (fls. 61-62, grifei):
+Ao que consta, o custodiado foi preso durante o cumprimento de mandado de busca e apreensão e ter sido localizada significativa quantidade e variedade de drogas, além de considerável quantia em dinheiro.
+Necessário destacar que a quantia de R$ 2.556,00 foi localizada dentro do guarda-roupas, em notas diversas, junto com drogas e balança de precisão.
+Importante destacar que, embora não conste nos autos cópia da decisão e do mandado de busca e apreensão, do que se extrai, a ordem foi expedida para repressão ao tráfico de drogas.
+Os laudos preliminares juntados autos comprovam a natureza entorpecente do material apreendido.
+Como se vê, existem provas da ocorrência dos crimes e indícios suficientes de autoria.
+Sob tal prisma, observo que, na espécie, a regularidade da prisão em flagrante do custodiado e a lesividade própria das condutas descritas no APF demonstram a adequação da medida de apreensão adotada.
+Ao exame dos autos, verifico que, embora tecnicamente primário, a conversão da prisão em flagrante em preventivas se faz necessária para garantia da ordem pública, visto que, no atual cenário fático, existem indícios de que a liberdade do flagrado gera perigo concreto para a comunidade local.
+O contexto da apreensão e a variedade de drogas apreendidas foge muito da hipótese de posse para uso.
+Além da quantia monetária e notas variadas e a balança de precisão, foram localizados 20 papelotes de cocaína, 01 invólucro maior contendo cocaína, 03 invólucros contendo maconha e 03 pequenas porções de haxixe.
+A meu sentir, o cenário fático (localização de significativa quantidade e variedade de drogas, dinheiro em espécie espalhado perto de drogas e balança de precisão, denúncias de ocorrência de tráfico de drogas no endereço) bem demonstra que o custodiado já se encontra dedicado à conduta criminosa há algum tempo.
+Em tal contexto, ao contrário do que defende a defesa, concluo que resta, pelo menos por ora, demonstrada a necessidade de acautelamento provisório pela gravidade dos fatos e também porque as informações contidas nos autos demonstram, pelo menos nesta fase inicial, a ineficácia de eventuais medidas cautelares, visto que, ao que parece, já inserido no mundo do crime e dedicado ao comércio de drogas.
+A meu sentir, o contexto da prisão demonstra a gravidade concreta porque apreendida variados tipos de drogas em contexto que indica consolidado comércio ilícito.
+Entendo que os fatos constituem fundamentos idôneos para a manutenção da prisão cautelar e demonstra o perigo concreto para a ordem pública decorrente da liberdade do custodiado.
+Sob outra ótica, urge destacar que a excepcionalidade da prisão, acrescida do princípio constitucional da presunção da inocência, não são fatores suficientes que possam ensejar o decreto liberatório, principalmente quando se encontram presentes os requisitos elencados pelo art. 312 do Código de Processo Penal, como é o caso presente.
+Irresignada, a defesa impetrou habeas corpus perante a Corte local. A ordem foi denegada, por maioria. O voto condutor do acórdão consignou que (fls. 148-149, destaquei):
+Peço vênia ao em. Des. Relator para divergir parcialmente de seu judicioso voto condutor.
+Isso porque, após compulsar detidamente os autos, bem como o processo originário no sistema PJe, extrai-se que, em cumprimento a mandado de busca e apreensão na residência do paciente, foi arrecadada significativa quantidade e variedade de drogas, quais sejam:
+- 03 (três) buchas de substância análoga à maconha com massa de 70,13g (setenta gramas e treze centigramas);
+- 20 (vinte) papelotes de substância análoga à cocaína, pesando 23,51 g (vinte e três gramas e cinquenta e um centigramas);
+- 05 (cinco) frascos de substância análoga à lança-perfume;
+- 03 (três) porções de substância análoga à haxixe, com peso total de 3,14g (três gramas e quatorze centigramas); e
+- 01 (um) invólucro de substância análoga à cocaína, com massa de 8,98 g (oito gramas e noventa e oito centigramas).
+Também foram apreendidos 03 (três) aparelhos celulares e a quantia de R$ 2.556,00 (dois mil, quinhentos e cinquenta e seis reais) em cédulas diversas.
+ ..
+Nesse sentido, entendo presentes os pressupostos e requisitos da prisão cautelar, previstos nos art. 312 e art. 313, ambos do Código de Processo Penal, pois o delito em tese cometido é doloso e punível com pena privativa de liberdade máxima superior a 04 (quatro anos), em conformidade com o que prevê o art. 313, inciso I, do CPP, e existem no feito indícios iniciais suficientes de materialidade e autoria delitiva.
+A primariedade do paciente e suas alegadas condições pessoais, isoladamente, não tem o condão de afastar a necessidade de manutenção da custódia cautelar, diante da premência de se garantir a ordem pública.
+Ademais, diante da gravidade concreta do delito e pelas circunstâncias narradas nos autos, entendo como insuficiente, "in casu", a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do mesmo diploma legal.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+A seu turno, a custódia provisória somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Na hipótese, embora haja menção à gravidade da conduta em tese perpetrada, a revelar a necessidade de algum acautelamento da ordem pública, entendo que não se mostram tais razões bastantes, em juízo de proporcionalidade, para manter a ora postulante sob o rigor da cautela pessoal mais extremada.
+Com efeito, apesar da variedade de drogas encontradas, a quantidade não é muito elevada (ao todo, 70,13 g de maconha, 3,14 g de haxixe e 32,49 g de cocaína). Além disso, o acórdão foi claro ao reconhecer a primariedade do acusado.
+Diante desse cenário, à luz do princípio da proporcionalidade e das alternativas fornecidas pela Lei n. 12.403/2011, julgo ser suficiente e adequado, para atender às exigências cautelares do art. 282 do CPP, impor ao paciente - sem prejuízo de mais acurada avaliação do Juízo monocrático - as medidas positivadas no art. 319, I e IV, do CPP. Ilustrativamente: HC n. 639.918/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 15/6/2021; HC n. 533.553/PA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/12/2019.
+À vista do exposto, in limine, dou provimento ao recurso em habeas corpus para substituir a prisão preventiva do acusado pelas seguintes medidas cautelares: a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades e b) proibição de se ausentar da comarca sem prévia autorização judicial, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação da constrição preventiva se efetivamente demonstrada sua concreta necessidade.
+Alerte-se o paciente de que a violação das medidas impostas poderá acarretar o restabelecimento da prisão provisória, a qual também poderá ser novamente aplicada caso sobrevenha situação que configure a exigência da cautelar mais gravosa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias.
+Publique-se e intimem-se.
+EMENTA
