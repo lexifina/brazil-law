@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ROMULO FLORES DEBORTOLI, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento do HC n. 342690-77.2024.8.13.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 3/2/2024, pela suposta prática dos crimes previstos no art. 201, § 1º, I, da Lei n. 14.597/1993 e no art. 129, § 1º, do Código Penal - CP, na forma do art. 69 do CP. Na audiência de custódia, foi concedida liberdade provisória com a aplicação de medidas cautelares alternativas (fls. 176/180).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual concedeu parcialmente a ordem, para adequar o horário de recolhimento domiciliar do paciente, nos termos do acórdão assim ementado:
+"HABEAS CORPUS - PARTICIPAÇÃO EM BRIGA DE TORCIDA - LESÃO CORPORAL GRAVE - ILEGALIDADE NA PRISÃO EM FLAGRANTE - INOCORRÊNCIA - AGENTE ENCONTRADO LOGO APÓS SUPOSTO DELITO - REVOGAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - READEQUAÇÃO - PROPORCIONALIDADE.
+- Permanece o estado flagrancial do agente, quando este é encontrado logo após a prática de suposto delito, por indícios e informações críveis.
+- A notícia de que as vítimas foram espancadas, inclusive quando caídas ao solo, com a necessidade de intervenção médica de urgência, são elementos que evidenciam a necessidade das medidas cautelares impostas.
+- Sendo adequada e proporcional à gravidade dos fatos supostamente cometidos pelo agente, torna-se inviável a revogação das medidas cautelares diversas da prisão impostas, sendo possível tão somente readequá-las" (fl. 232).
+Neste writ, a defesa suscita a nulidade da prisão em flagrante, pois o reconhecimento pessoal teria sido realizado em desconformidade com as disposições do art. 226 do Código de Processo Penal - CPP.
+Aduz a imposição de flagrante constrangimento ilegal ao paciente consistente na manutenção da medida cautelar de recolhimento domiciliar durante os finais de semana e feriados, por ser incompatível com a ocupação exercida pelo agente.
+Requer a revogação das medidas cautelares ou, subsidiariamente, a revogação ou readequação do recolhimento domiciliar.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 656/659).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo a orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Ademais, não se verifica a existência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Consta do voto condutor do julgado atacado:
+"No que tange à alegação de eventual irregularidade na prisão em flagrante, verifica-se pelo APFD colacionado aos autos (seq. 17), que a guarnição policial realizava patrulhamento durante partida de futebol entre os times Atlético e Cruzeiro, no estádio Arena MRV. Em determinado momento, os militares foram acionados por torcedores, informando acerca do espancamento de um torcedor idoso na arquibancada superior leste, em setor próximo ao da torcida organizada "Resistência Alvinegra".
+Segundo consta, os torcedores informaram que membros dessa torcida balançavam "bandeirões", o que dificultava a visualização da partida de futebol, razão pela qual a vitima Gustavo teria solicitado que as bandeiras fossem abaixadas. Ato contínuo, um dos torcedores arremessou um copo com bebida na direção da torcida organizada, o que gerou intensa troca de xingamentos, que teriam se escalonado para agressões às vítimas.
+Desse modo, além da vítima Gustavo, o ofendido Rodrigo também não teria conseguido se desvencilhar dos agressores, caindo entre as cadeiras e, mesmo caídos, foram agredidos pelos torcedores organizados, que somente cessaram após intervenção da guarnição policial.
+Assim, iniciado o rastreamento, as vitimas teriam apontado três indivíduos como autores das agressões, dentre eles, o paciente Rômulo.
+Sobre o estado de flagrância, considera-se em flagrante delito quem: está cometendo a infração penal; acaba de cometê-la; é perseguido, logo após, pela autoridade, pelo ofendido ou por qualquer pessoa, em situação que faça presumir ser autor da infração; e é encontrado, logo após, com instrumentos, armas, objetos ou papéis que façam presumir ser ele autor da infração (art. 302, CPP).
+Nesse sentido, verifica-se que o paciente teria sido reconhecido pela vítima como um dos autores das agressões, inclusive pormenorizando características físicas dos supostos agressores. Tais como barba, tatuagens e tipo de cabelo.
+Desse modo, verifica-se que o paciente teria sido encontrado logo após a suposta agressão cometida sendo realizado rastreamento no estádio por militares, que estavam na posse de informações sobre as características dos supostos autores, razão pela qual não há qualquer ilegalidade na homologação do flagrante.
+ ..
+Prosseguindo, a defesa pugna pela revogação ou adequação do período compreendido de recolhimento domiciliar estabelecido pela juiza de piso, qual seja das 20:00Hs às 06:00Hs. Verifica-se nos autos que, de fato, o paciente exerce atividade laborativa de 10:00Hs às 22:30Hs, restando demonstrado o prejuízo gerado pela referida determinação.
+Contudo, tendo em vista a gravidade dos fatos narrados, é necessária a manutenção de tal medida cautelar, a fim de que se promova a garantia da ordem pública. Nesse sentido, para evitar eventual prejuízo ao laboro do paciente, faz-se possível a readequação do período de recolhimento domiciliar estabelecido pelo magistrado primevo.
+Sendo assim, determino:
+- Recolhimento domiciliar noturno durante os dias úteis. No período compreendido entre 23:00Hs e 06:00Hs do dia seguinte; e, recolhimento domiciliar em período integral aos finais de semana e feriados.
+- Manutenção das demais medidas cautelares em todo o seu teor" (fls. 234/240).
+O Tribunal estadual concluiu pela legalidade da prisão em flagrante, por considerar que o paciente foi encontrado logo após a prática dos fatos, sendo que a perseguição foi continua. A alteração de tal entendimento demanda a análise aprofundada das provas dos autos, inviável na via estreita do mandamus. Confira-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE DO FLAGRANTE. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRANDE QUANTIDADE DE DROGA. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante, acusado de tráfico de drogas, com base na gravidade concreta da conduta e na quantidade de drogas apreendidas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve ilegalidade da prisão em flagrante.
+3. Outra questão é perquirir se a prisão preventiva do agravante está devidamente fundamentada em dados concretos que justifiquem a necessidade de garantia da ordem pública, ou se há possibilidade de aplicação de medidas cautelares diversas.
+III. Razões de decidir
+3. Das investigações constata-se a existência de indícios prévios da prática da traficância, o que autoriza a atuação policial, não havendo falar em nulidade da prisão em flagrante em razão da descoberta de entorpecentes no interior da residência e do veículo do acusado.
+4. Demais disso, desconstituir a conclusão a que chegou o Tribunal Estadual, acerca da existência ou não de fundadas suspeitas que justifiquem a referida abordagem policial, enseja revolvimento fático probatório inviável na via estreita do habeas corpus.
+5. A jurisprudência desta Corte considera idôneos os fundamentos para a decretação da prisão preventiva em casos de tráfico de drogas, quando há quantidade significativa de entorpecentes apreendidos, demonstrando a gravidade concreta do delito.
+IV. Dispositivo e tese
+6. Recurso improvido.
+Tese de julgamento: "1. Afastar a conclusão a que chegou o Tribunal Estadual, acerca da existência ou não de fundadas suspeitas que justifiquem a referida abordagem policial, enseja revolvimento fático probatório inviável na via estreita do habeas corpus. 2. A quantidade e a variedade das drogas apreendidas são fundamentos idôneos para a decretação da prisão preventiva em casos de tráfico de drogas".
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STJ, HC N. 542.637/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 10.12.2019; STJ, AgRg no HC n. 728.199/GO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 07.06.2022; STJ, AgRg no HC n. 990.546/RO, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 10.06.2025; STJ, AgRg no HC n. 982.801/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 11.06.2025.
+(AgRg no HC n. 1.014.865/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Por fim, registra-se que o Tribunal de origem não se manifestou expressamente sobre as assertivas de que houve falha no reconhecimento do paciente e que a manutenção do horário de recolhimento domiciliar durante os finais de semana e feriados configuraria constrangimento ilegal.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento dessas questões, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido, vejam-se os seguintes precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. OMISSÃO DEVE SER QUESTIONADA VIA EMBARGOS DE DECLARAÇÃO. SUPRESSÃO. AINDA QUE NULIDADE ABSOLUTA. DESÍGNIOS AUTONOMOS. ABSORÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA DO WRIT. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Ainda que a Defesa alegue que houve o prequestionamento implícito, porquanto ventilou a questão nas peças de defesa, todavia, ante a não manifestação daquela Corte, caberia o manejo dos embargos de declaração, aptos a prequestionar a matéria.
+III - Ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise de tal matéria, no presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+IV - A instância ordinária, diante do conjunto fático-probatório dos autos, concluiu por provas suficientes à condenação pelos 2 (dois) delitos, como sendo autônomos, bem como a defesa não logrou demonstrar o contrário.
+V - É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória, de negativa de autoria ou até mesmo de desclassificação, em razão da necessidade de incursão no acervo fático-probatório.
+Agravo regimental desprovido.
+(AgRg no HC n. 823.044/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMAS NÃO DEBATIDOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TEMAS DEBATIDOS EM CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/9/2019, DJe de 10/10/2019) - (AgRg no HC n. 726.326/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2022).
+3. Quanto aos temas efetivamente debatidos pela Corte de origem, verifica-se que não há qualquer ilegalidade flagrante a ser sanada, na medida em que o acórdão objurgado se encontra em consonância com a jurisprudência desta Corte, no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base; bem como de que para a incidência da causa de aumento relativa ao emprego de arma de fogo, dispensável a apreensão e perícia da arma, desde que o emprego do artefato fique comprovado por outros meios de prova. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC n. 842.953/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
