@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIANO MARTINS contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Condomínio. Ação de cobrança de taxas condominiais. Sentença que julgou procedente a ação principal, bem como a denunciação da lide. Apelo do réu-denunciado. Nulidade por vício de fundamentação. Inocorrência. Provimento jurisdicional que respeitou os requisitos do art. 489 do CPC. Sentença mantida. Verba honorária aumentada. Apelo desprovido." (fl. 214)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte aponta violação dos arts. 489, incisos III e IV, e 1.022, ambos do Código de Processo Civil, sustentando, em síntese, que:
+(a) o acórdão recorrido, ao manter a sentença que teria fundamentação deficiente, baseada em premissas equivocadas e alheias aos autos, prejudicou o respectivo exercício do direito de defesa; e
+(b) o acórdão recorrido não enfrentou argumentos relevantes apresentados, situação que configura omissão e negativa de prestação jurisdicional.
+Foram apresentadas contrarrazões ao recurso especial (fls. 243/250).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+A pretensão recursal não merece prosperar.
+No caso concreto, no acórdão lavrado em apelação, restou consignado que foram opostos embargos de declaração da sentença e que o vício diretamente apontado foi corrigido. A propósito:
+"Observa-se que o relatório descreve a cronologia dos fatos dos presentes autos, contudo, consta do relatório que "O requerido Luciano ofertou contestação às fls. 120/127. Afirma não ter mais a posse". Com efeito, após o apelante opor os embargos de declaração (fls. 159/165), o MM. Juízo da origem acolheu os embargos para retificar o relatório da sentença, fazendo constar que o denunciado da lide detém a posse do imóvel até os dias atuais. Ademais, constou da fundamentação da r. sentença: "No mérito, procede o pedido, vez que a requerente comprova a existência de débito condominial, exposto de forma pormenorizada e devidamente discriminada, com relação ao imóvel de propriedade da parte requerida." (fls. 148)
+Em contrapartida, o agravante, ao interpor seu recurso especial, assente que o vício foi reconhecido e corrigido pelo Tribunal estadual. Contudo, acrescenta que o acórdão recorrido apenas transcreveu trechos da sentença que lhe convieram, não apontando a premissa equivocada de que teria partido o juízo de primeiro grau. Transcreve-se o teor das razões recursais:
+"Com efeito, o relatório foi aclarado quando da apreciação dos Embargos de Declaração, pois constou nele uma afirmação equivocada, pois, declara a Juíza "a quo" que na contestação de fls. 120/127 oferecida pelo Recorrente, este afirma não ter mais a posse do imóvel, o que na verdade não ocorreu, ao revés, é afirmado pelo Recorrente que desde 15 de setembro de 2008 ele é possuidor do apartamento (fls. 120).
+Quanto à fundamentação, o v. acórdão transcreve trecho da sentença que lhe conveio, omitindo-se quanto a premissa equivocada, ou seja, sobre fatos usados como fundamento para o convencimento do Juízo primevo, que não fazem parte nem da inicial nem da contestação." (fl. 233)
+Não obstante, é possível aferir que a Corte de origem apreciou a matéria em mote.
+Com efeito, observa-se que não se viabiliza o recurso especial pela indicada violação dos arts. 489 e 1.022 do CPC/2015, uma vez que, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido:
+Alega o autor que a parte ré é proprietária da unidade condominial descrita na inicial, e inadimpliu as despesas condominiais no período descrito na inicial. Pleiteia a condenação da parte ré no pagamento do valor principal descrito na inicial, além das prestações vincendas e demais consectários legais. O MM. Juízo da origem condenou solidariamente os réus em face do autor e julgou procedente a denunciação da lide para condenar a denunciada ao pagamento dos valores a cargo da denunciante. Insurge-se o denunciado, alegando a nulidade da r. sentença, tendo em vista que baseada em matéria fática equivocada, cometendo erro material.
+ ..
+Portanto, são elementos essenciais da sentença: o relatório, a fundamentação e o dispositivo. No caso dos autos, o apelante alega que a r. sentença foi fundamentada em premissas fáticas equivocadas, e consequentemente o impossibilitou de exercer o seu direito de defesa.
+ ..
+Ademais, constou da fundamentação da r. sentença: "No mérito, procede o pedido, vez que a requerente comprova a existência de débito condominial, exposto de forma pormenorizada e devidamente discriminada, com relação ao imóvel de propriedade da parte requerida." (fls. 148). De outro giro, em sede de r. decisão aclaratória, fundamentou o MM. Juízo da origem "reconhece-se o possuidor como devedor da taxa condominial em aberto, havendo, naturalmente, direito de regresso do proprietário caso este efetive o pagamento, razão pela qual tanto a demanda principal quanto a denunciação da lide são procedentes" (fls. 171).
+ ..
+Nesse contexto, observa-se que não houve prejuízo ao apelante para exercer o seu direito de defesa, bem como não há que se falar em nulidade da r. sentença, pois os elementos essenciais estão presentes, quais sejam, relatório, fundamentação e dispositivo. Destarte, deve ser mantida a r. sentença, tendo em vista que não houve violação ao art. 489 do Código de Processo Civil. (fls. 215-218)
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta, não sendo possível confundir o julgamento em desconformidade com os interesses da parte com negativa de prestação jurisdicional. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Não se verifica ofensa ao artigo 1.022, II, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.695.384/MT, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 16/6/2025, DJEN de 24/6/2025, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Não se verifica ofensa aos artigos 11, 489 e 1.022, do CPC, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+2. Verifica-se que o entendimento do Tribunal de piso está em consonância com a jurisprudência do STJ, no sentido de que é trienal o prazo prescricional da pretensão indenizatória por danos causados em razão da construção de usina hidrelétrica, tendo como termo a quo a data em que o titular do direito toma conhecimento inequívoco do fato e da extensão de suas consequências, nos termos do princípio da actio nata.
+2.1. Ademais, a pretensão de alterar as conclusões do órgão julgador acerca do momento em que houve o conhecimento inequívoco do fato esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido."
+(AgInt no REsp n. 2.083.325/BA, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 26/5/2025, DJEN de 29/5/2025, g.n.)
+Ademais, impende consignar que para configurar omissão apta a ensejar a nulidade do acórdão estadual, é necessária a presença cumulativa dos seguintes requisitos: (a) o Tribunal de origem não se tenha pronunciado sobre o tema; (b) tenham sido opostos embargos de declaração; (c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e (d) seja relevante para o deslinde da controvérsia. Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OFENSA AO ART. 535 DO CPC. REQUISITOS PARA RECONHECER A OMISSÃO. QUESTÃO NÃO RELEVANTE. AUSÊNCIA DE OMISSÃO. ART.
+485, V, DO CPC/73. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI.
+ARTIGO NÃO INDICADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Para configurar omissão, é necessária a presença cumulativa dos seguintes requisitos: a) o Tribunal de origem não tenha se pronunciado sobre o tema; b) tenham sido opostos embargos de declaração; c) tenha sido a questão levantada nas razões ou contrarrazões do agravo de instrumento ou da apelação; e d) seja relevante para o deslinde da controvérsia.
+2. Ausente relevância, à luz do caso concreto, da matéria tida por não apreciada, afasta-se a alegada omissão.
+3. A suposta violação ao art. 485, V, do CPC/73, por violação a literal dispositivo de lei, exige seja declinado no recurso especial especificamente qual o artigo de lei que supostamente daria azo à rescisória, sob pena de deficiência na fundamentação, a ensejar a incidência da Súmula nº 284/STF.
+4. Agravo interno não provido."
+(AgInt no REsp 1498690/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/03/2017, DJe 20/03/2017, g.n.)
+No presente caso, vale observar alguns trechos do recurso especial do ora agravante:
+"O Recorrente afirmou implicitamente nos Embargos Declaratórios de fls. 159/165 (..)" (fl. 234).
+"Primeiramente não é "requerida", e sim requerido, segundo que na contestação não existe pretensão de "proposta de acordo para pagamento"." (fl. 234)
+"Ora, não houve discussão sobre juros, correção monetária, CDC, nem de juros legais." (fl. 235)
+"Como já dito, em momento algum o Recorrido "pugnou" pela oportunidade de parcelamento, nem alegou o pagamento da dívida, para incidir os artigos 319 e 320 do Código Civil." (fl. 235)
+Hialino está que a questão não possui relevância para o deslinde da controvérsia, uma vez que a utilização de um artigo ou de uma desinência nominal de gênero, o fato de ter ou não pugnado a parte por um acordo ou pelo parcelamento, ou, ainda, se houve ou não discussão acerca de eventuais juros não seriam suficientes para reverter o julgado.
+Assim sendo, ausente a relevância à luz do caso concreto, afasta-se igualmente a alegação de negativa de prestação jurisdicional.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios, devidos ao advogado da parte recorrida, em 1% (um por cento) do valor fixado pela Corte de origem.
+Publique-se.
+EMENTA
