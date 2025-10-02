@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Habeas Corpus impetrado em favor de BRUNO JOSE DOS SANTOS, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento do agravo em execução penal n. 0001345-19.2025.8.26.0521.
+Consta dos autos que o paciente cumpre pena total 7 (sete) anos, 8 (oito) meses e 5 (cinco) dias de reclusão, pela prática dos crimes de tráfico de drogas e furto qualificado, com previsão de término para 21/11/2027, tendo sido deferida, pelo Juízo de primeiro grau, a progressão para o regime semiaberto.
+Tem-se, ainda, que o Tribunal local deu provimento ao agravo em execução interposto pelo Ministério Público, cassando a decisão agravada e determinando a realização de exame criminológico, apurando-se, após, a adequação do paciente ao regime semiaberto.
+Neste writ, sustenta que o paciente cumpriu o lapso temporal necessário e possui bom comportamento nos últimos anos.
+Defende não haver motivos para que o Tribunal de Justiça tenha reformado a decisão de primeiro grau, a qual concedeu a progressão de regime.
+Requer, assim, a concessão da ordem, para que seja restabelecida a decisão proferida pelo Juízo de primeiro grau.
+As informações foram prestadas (fls. 54-71 e 73-82).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 84-87).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a parte impetrante não tenha adotado a via processual adequada, cumpre analisar as razões da impetração, de forma a verificar a ocorrência de eventual ilegalidade manifesta a justificar a concessão do habeas corpus, de ofício.
+No caso em análise, o acórdão impugnado faz referência à existência de elementos concretos que justificam a necessidade de realização do exame criminológico. Observe-se (fls. 5-10, grifamos):
+No caso em tela, verifica-se que o sentenciado foi condenado por crime equiparado a hediondo (tráfico de drogas), além de furto qualificado, bem como possui histórico prisional desfavorável, maculado pelo registro da prática de falta disciplinar grave, consistente em agressão entre presos ocorrida em 28/11/2023 (fl. 17); assim, revela-se temerária a concessão do benefício sem antes verificar com maior profundidade sua aptidão para retornar à realidade externa, sobretudo porque o atestado de boa conduta carcerária, emitido de forma simplificada, não se mostra suficiente para comprovar o mérito do sentenciado para a progressão.
+Dentro desse cenário, verifico que o Tribunal local seguiu o entendimento desta Corte de Justiça, considerando haver elementos concretos a justificar a necessidade de realização do exame criminológico.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA FINS DE AFERIÇÃO DO REQUISITO SUBJETIVO NECESSÁRIO À PROGRESSÃO DE REGIME. ACÓRDÃO MANTIDO POR ESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A gravidade abstrata dos crimes praticados, eventual grande quantidade de pena ainda pendente de cumprimento, faltas graves cometidas em período longínquo e já reabilitadas e a reincidência não constituem fundamentos idôneos a justificar a realização de exame criminológico. Precedentes.
+2. Todavia, o histórico conturbado do paciente e prática de faltas graves é fundamento idôneo p ara a determinação de exame criminológico. De fato, o acórdão impugnado está em conformidade com essa orientação, uma vez que a determinação de realização do exame criminológico tem por base fundamentação idônea, pois relacionada ao comportamento do apenado durante a execução da pena, concernente no fato de que "O histórico prisional do recorrido é conturbado, já que registra duas passagens pelo sistema penitenciário pelo crime de tráfico ilícito de drogas, tendo cometido falta disciplinar de natureza grave, exatamente pela posse de entorpecente" (fl. 12).
+3. Agravo regimental desprovido. (AgRg no HC n. 1011446/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025, grifamos).
+Ante o exposto, não conheço do habeas corpus, registrando, ademais, a inviabilidade da concessão da ordem de ofício, já que não há, in casu, nenhuma ilegalidade manifesta a ser corrigida.
+Publique-se e intimem-se.
+EMENTA
