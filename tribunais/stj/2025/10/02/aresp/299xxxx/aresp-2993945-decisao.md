@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por UP BRASIL ADMINISTRAÇÃO E SERVIÇOS LTDA., contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fls. 1515-1527, e-STJ):
+EMENTA: DIREITO CIVIL E CONSUMIDOR. APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PRELIMINAR DE AUSÊNCIA DE PRESSUPOSTO PROCESSUAL - APLICAÇÃO DO ARTIGO 330, §2º, DO CPC. REJEIÇÃO. MÉRITO. CAPITALIZAÇÃO DE JUROS. AUSÊNCIA DE DEMONSTRAÇÃO DA PACTUAÇÃO EXPRESSA. CONTRATO REALIZADO DE FORMA VERBAL. INSTITUIÇÃO FINANCEIRA QUE NÃO SE DESINCUMBIU DA OBRIGAÇÃO DE APRESENTAR O CONTRATO. INAPLICABILIDADE DO RECÁLCULO PELO MÉTODO GAUSS. ADMISSIBILIDADE DOS JUROS SIMPLES, CONSOANTE DEFINIDO PELO STJ NO RESP 973827/RS. CÁLCULO QUE DEVE ELIMINAR A CAPITALIZAÇÃO DE JUROS SEM, CONTUDO, ONERAR UMA DAS PARTES EM DEMASIA. REPETIÇÃO DO INDÉBITO EM DOBRO. CABIMENTO. MÁ-FÉ VERIFICADA NOS AUTOS. REFORMA PARCIAL DA SENTENÇA QUE SE IMPÕE. HONORÁRIOS ADVOCATÍCIOS. PARTE AUTORA QUE SUCUMBIU MINIMAMENTE. INTELECÇÃO DO ART. 86, PARÁGRAFO ÚNICO DO CPC. HONORÁRIOS SUCUMBENCIAIS QUE DEVEM SER ARCADOS APENAS PELA DEMANDADA. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+Ambas as partes apresentaram embargos de declaração, sendo que apenas o recurso da autora foi acolhido, nos seguintes termos (fls. 1588-1592, e-STJ):
+EMENTA: PROCESSUAL CIVIL. DUPLOS EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DA EXISTÊNCIA DE VÍCIOS NO ACÓRDÃO. CONTRADIÇÃO ALEGADA PELA AUTORA EXISTENTE. ERRO DE FATO SUSCITADO PELA RÉ INEXISTENTE. MATÉRIA EXPRESSAMENTE ABORDADA. QUESTÃO JURÍDICA ENFRENTADA DE MODO CLARO E EXAURIENTE. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA QUE SE DEMONSTRA INADEQUADA NESTA VIA RECURSAL. CONHECIMENTO DOS EMBARGOS. REJEIÇÃO DOS ACLARATÓRIOS DA RÉ. PROVIMENTO DOS EMBARGOS DA AUTORA.
+Nas razões de recurso especial (fls. 1546-1565, e-STJ), aponta a parte recorrente ofensa aos arts. 42, parágrafo único, e 51, § 1º, do Código de Defesa do Consumidor, além de dissídio jurisprudencial. Sustenta, em síntese: (i) ausência de abusividade nas taxas de juros pactuadas; e (ii) impossibilidade de repetição do indébito em dobro, ante a ausência de má-fé.
+Contrarrazões apresentadas às fls. 1596-1603, e-STJ.
+Em juízo de admissibilidade (fls. 1605-1609, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 1648-1657, e-STJ).
+Contraminuta apresentada às fls. 1661-1666, e-STJ.
+É o relatório.
+Decido.
+1. Verifica-se que, nos presentes autos, existe discussão, dentre outras matérias, sobre tema afetado à Segunda Seção desta Corte, nos autos do Recurso Especial representativo da controvérsia n. 1.823.218/AC, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC, a fim de decidir "quanto às hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC" (Tema 929).
+Ademais, foi determinada a suspensão de todos os processos que versem sobre a mesma matéria e tramitem no território nacional, nos termos do art. 1.037, II, do CPC.
+Dessa forma, impõe-se a devolução dos autos ao E. Tribunal de origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Por fim, registre-se que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt no REsp 1140843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1663877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017; AgInt no REsp 1661811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe 29/06/2018.
+2. Do exposto, determina-se a restituição dos autos ao Tribunal de origem, a fim de que fique sobrestado até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema 929) e eventual retratação prevista nos arts. 1.040, II, e 1.041, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
