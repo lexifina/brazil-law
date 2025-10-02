@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por REYC COMÉRCIO E PARTICIPAÇÕES LTDA em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO. INSUFICIÊNCIA DAS RAZÕES. Não é de acolher-se o agravo quando insuficientes as razões apresentadas para modificação da decisão agravada. (fl. 553)
+Opostos embargos de declaração, foram rejeitados (fls. 574/586).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 110 e 111 do CTN.
+Contrarrazões às fls. 773/781.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Na forma da jurisprudência desta Corte, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, a ausência de discussão na instância de origem da matéria tratada no recurso especial, a respeito da qual não foram opostos embargos de declaração, enseja a aplicação das Súmulas n. 282 e 356 do STF.
+Nesse sentido seguem precedentes desta Corte:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. SAT/RAT. MAJORAÇÃO. NÃO RECOLHIMENTO. DENEGAÇÃO DA SEGURANÇA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS N. 283 E 284, AMBAS DO STF. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+ ..
+IX - Não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+ ..
+XII - Agravo interno improvido (AgInt no AREsp n. 2.160.282/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023 - Grifo nosso).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+2. Hipótese em que não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+3. Agravo interno desprovido (AgInt no AREsp n. 1.624.263/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe de 8/9/2020 - Grifo nosso).
+No caso, os conteúdos dispostos nos arts. 110 e 111 do CTN não foram objeto de análise pelo Tribunal de origem sob o viés pretendido pela parte recorrente, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Ademais, observo que a Corte de origem, por ocasião do agravo interno, em sede de apelação - ao fundamentar a incidência do Tema 912/STJ - , assim consignou:
+ ..  conforme se extrai dos autos, o auto de infração foi lavrado contra o estabelecimento matriz da autora (evento nº 01, "OUT5"), caso em que afastado o disposto no inciso II e no § 2º do art. 4º da Lei nº 4.502, de 1964, que se aplica apenas às "filiais e demais estabelecimentos que exercerem o comércio de produtos importados, industrializados ou mandados industrializar por outro estabelecimento do mesmo contribuinte". A autora é importadora, de modo que é equiparada a "estabelecimento produtor" por força do disposto no inciso I do mesmo artigo.
+Daí que é irrelevante o fato de a autora da demanda objeto do EREsp 1.403.532/SC comercializar as suas mercadorias no atacado, enquanto a demandante, ora agravante, comercializa as mercadorias importadas no varejo. O que importa é que ambas são importadoras de mercadorias e, nessa condição, equiparadas a "estabelecimento produtor" por força do disposto no inciso I do art. 4º da Lei nº 4.502, de 1964. (fl. 544 - grifo nosso).
+Nesse sentido, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SENTENÇA QUE DECLAROU A EXTINÇÃO DA EXECUÇÃO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONDENAÇÃO DA UNIÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 85, § 7º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, ao decidir a controvérsia, o Tribunal a quo estabeleceu que "não merece reparo a sentença declaratória de extinção da execução, ora guerreada, não havendo que se falar na alvitrada necessidade de intimação "para comprovar a implantação da revisão objeto do pedido exordial, antes da extinção da execução", por tratar-se de matéria superada pela preclusão consumativa, à míngua de manifestação oportuna da parte interessada a esse respeito, por ocasião do despacho do evento 348, DESPADEC96/JFRJ".
+2. A recorrente, por sua vez, deixou de impugnar tal fundamento, que é apto, por si só, para manter o acórdão recorrido. Aplica-se à espécie, por analogia, o óbice do enunciado n. 283 da Súmula do STF.
+3. Segundo a jurisprudência desta Corte, "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada" (AgInt no REsp n. 2.062.255/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/4/2024, DJe de 26/4/2024).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.132.773/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO ANULATÓRIA DE REGISTRO IMOBILIÁRIO CUMULADA COM PERDAS E DANOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INDEFERIMENTO DE PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRINCÍPIOS DA LIVRE ADMISSIBILIDADE DA PROVA E DA PERSUASÃO RACIONAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. ENUNCIADO 284/STF. INATACADO FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. VERBETE 283/STF.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, "os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp 1.911.181/SP, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/2/2022, DJe de 15/3/2022).
+3. A alteração das premissas adotadas pela Corte de origem quanto à não ocorrência de cerceamento de defensa demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. A jurisprudência deste Tribunal Superior assevera que "não há falar em preclusão pro judicato em matéria de instrução probatória, não havendo preclusão para o Magistrado nos casos em que é indeferida a produção de prova que foi anteriormente autorizada" (AgInt no AREsp 118.934/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/11/2016, DJe de 6/12/2016).
+5. O apelo nobre deixou de impugnar fundamento basilar que ampara o acórdão recorrido e, portanto, a irresignação esbarra no obstáculo do Enunciado 283/STF.
+6. A ausência de indicação do dispositivo legal tido por violado revela a deficiência de fundamentação da insurgência especial, atraindo o impedimento da Súmula 284/STF.
+7. O Tribunal a quo, com arrimo no acervo probatórios dos autos, consignou que "de forma alguma poderia se dizer que existiria a propriedade dos autores sobre o imóvel ou direitos possessórios passíveis de ser indenizados" (fl. 2.939). Nesse contexto, a alteração de tais circunstâncias na atual quadra processual se revela inviável, nos termos do Verbete 7/STJ.
+8. Agravo interno não provido. (AgInt no AREsp n. 1.796.195/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
