@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 282):
+ADMINISTRATIVO. FINANCIAMENTO HABITACIONAL. CONSTRUTORA E AGENTE FINANCEIRO. RESPONSABILIDADE SOLIDÁRIA. ATRASO NA ENTREGA DA OBRA. TERMO INICIAL. CLÁUSULA DE TRANSFERÊNCIA. JUROS DE OBRA. DANOS MATERIAIS. CONDENAÇÃO SOLIDÁRIA. INVERSÃO DA CLÁUSULA PENAL. NÃO CABIMENTO. DANOS MORAIS. CABIMENTO.
+1. Reconhecida a legitimidade da CEF para figurar no polo passivo processual, pois além de ser agente financeiro, é responsável pela fiscalização do empreendimento no prazo contratado, tendo poderes de substituição da interveniente construtora em caso de descumprimento injustificado dos prazos.
+2. A responsabilidade solidária da CEF deve se dar a contar do prazo de entrega do imóvel fixado no contrato de financiamento/mútuo habitacional.
+3. A cobrança dos juros de obra somente se legitima durante a fase de construção do imóvel. Uma vez expirado o aludido prazo, mesmo que a obra ainda se encontre inacabada, deve ser iniciada a fase de amortização do mútuo contratado ou ao menos suspensa a cobrança deste encargo.
+4. Deve ser considerada, para fins fixação do termo inicial do atraso, a cláusula contratual que estabelece 60 dias para a entrega das chaves.
+5. A CEF, além de ser agente financeiro, é responsável pela fiscalização do empreendimento no prazo contratado, tendo poderes de substituição da interveniente construtora em caso de descumprimento injustificado dos prazos, sendo abusiva a cláusula transferência de responsabilidade para os mutuários.
+6. A Cláusula Penal de que trata o art. 408, do CC/02, deve ser expressamente estipulada. Não cabe ao juiz aplicar cláusula penal sem a prévia convenção entre as partes, mas apenas adequá-la proporcionalmente ao prejuízo. Além do mais, a compensação pelo atraso se faz por meio de ressarcimento do dano moral e material, de modo que criar a oneração de uma multa sem previsão contratual pode resultar em dupla penalização da mesma conduta.
+7. Evidenciado o atraso na entrega do imóvel objeto de financiamento, impõe-se a reparação do dano emergente sofrido pelo mutuário. A indenização em virtude do atraso na entrega da obra, corresponde ao percentual de 0,5% (meio por cento) sobre o valor atualizado do imóvel (valor de garantia) por mês de atraso. O valor fixado a título de indenização por dano material deve ter incidência de juros moratórios e correção monetária desde a data do evento danoso.
+8. Configurados os pressupostos, a fixação do dano moral deve observar os princípios de moderação e de razoabilidade, assegurando à parte lesada a justa reparação, sem incorrer em enriquecimento ilícito e não deixando de observar o caráter pedagógico ao agente que cometeu o ato lesivo. O valor fixado a título de indenização do dano moral deve ser atualizado desde a data do arbitramento.
+Os embargos de declaração foram rejeitados (fls. 309-321).
+Em suas razões (fls. 330-337), a parte recorrente aponta violação dos arts. 389 e 405 do Código Civil.
+Sustenta que, "Quando o acórdão não aplica que os juros moratórios incidem desde o evento danoso nem da citação, apresenta clara divergência a Lei, pois está decidindo expurgar a correção e juros do mundo jurídico até o arbitramento. No presente caso, compreende-se que o dano moral possui sua natureza genuinamente extracontratual, ou seja, os juros moratórios, contam-se desde o evento danoso, nos termos do art. 398, CC" (fl. 333).
+Argumenta que "A negativa de existência de juros moratórios e correção monetária anteriores ao arbitramento ofende diretamente a Lei Federal (art. 398 ou, sucessivamente art. 405, CC), assim como entendimentos pátrios sumulados (Súmula 54, STJ)" (fl. 334).
+Ao final, pede que o recurso seja provido para "determinar a aplicação dos juros moratórios de 1% ao mês, a contar do evento danoso (art. 398/CC e Súmula 54/STJ) até o arbitramento e, após, a incidência da taxa SELIC (composta por correção e juros moratórios)" ou, sucessivamente, para "determinar a aplicação dos juros moratórios de 1% ao mês, a contar da citação (art. 405, CC) até o arbitramento e, após, a incidência da taxa SELIC (composta por correção e juros moratórios)" (fl. 337).
+Contrarrazões apresentadas (fls. 346-350).
+O recurso foi admitido na origem (fls. 354-355).
+É o relatório.
+Decido.
+No que diz respeito à alegada necessidade de fixação de juros de mora antes do arbitramento da indenização por danos morais, seja a partir do evento danoso, por se cuidar de responsabilidade extracontratual, seja desde a citação, por se tratar de responsabilidade contratual, bem como à suposta afronta aos arts. 389 e 405 do Código Civil, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide no caso a Súmula n. 211 do Superior Tribunal de Justiça.
+Ante o exposto, NÃO CONHEÇO d o recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
