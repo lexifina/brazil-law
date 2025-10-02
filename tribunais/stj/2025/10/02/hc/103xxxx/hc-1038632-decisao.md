@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de FELIPE EDUARDO DO NASCIMENTO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+DIREITO PENAL. AGRAVO. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. PROVIMENTO.
+I. Caso em Exame
+1. Agravo interposto contra decisão que absolveu o agravado da acusação de prática de falta disciplinar de natureza grave, em processo de execução penal. O agravante alega que o agravado e outros detentos proferiram xingamentos a um servidor, arremessaram objetos e atearam fogo no chão com líquido que aparentava ser cachaça artesanal. Busca o reconhecimento da falta grave, reinício da contagem do prazo para progressão de regime e perda de 1/3 dos dias remidos.
+II. Questão em Discussão
+2. A questão em discussão consiste em determinar se os atos praticados pelo agravado configuram falta disciplinar de natureza grave, justificando a perda de dias remidos e o reinício da contagem para progressão de regime.
+III. Razões de Decidir
+3. Os testemunhos dos agentes de segurança penitenciária foram coerentes e harmônicos, sem indícios de abuso ou prejuízo injusto ao agravado. 4. A conduta do agravado caracteriza infração grave, com desdobramentos prejudiciais à ordem e disciplina na unidade prisional, sendo a versão do sentenciado isolada nos autos.
+IV. Dispositivo
+5. Recurso provido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois não há provas suficientes para o reconhecimento da falta disciplinar de natureza grave.
+Alega que a conclusão se deu em provas frágeis e insuficientes, porquanto fundada exclusivamente em depoimento dos agentes penitenciários, sem outros elementos a corroborar.
+Requer, em suma, a absolvição ou a desclassificação da falta disciplinar.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+No caso dos autos, o sentenciado praticou falta grave, desrespeitando os servidores atuantes na penitenciária e incitando movimento para subverter a ordem ou a disciplina.
+ ..
+No caso dos autos, o sentenciado praticou falta grave, desrespeitando os servidores atuantes na penitenciária e incitando movimento para subverter a ordem ou a disciplina.
+Os relatos dos agentes de segurança penitenciária Adão Benjamin de Souza e Jair Maltezo dão conta de que, na data dos fatos, durante o procedimento de fechamento das celas do Pavilhão Habitacional VIII, os sentenciados Alexssandro Junio dos Santos Silva, Matr. 1.029.350-4; Breno Alves Ananias, matr. 1.195.726-3; FELIPE EDUARDO DO NASCIMENTO (agravado), matr. 1.018.781-3; Jonathan William da Silva, Matr, 1.177.014-6 e Leonardo do Nascimento Alves, matr. 770.775-5, passaram a desrespeitar o agente de segurança penitenciária Jair Maltezo, chamando-o de "filha da puta, pinguço e pilantra" (sic), de maneira repetitiva. Disseram que os sentenciados aparentavam embriaguez atiraram objetos na direção do servidor Jair Maltezo, jogando no chão em frente à cela um líquido que aparentava ser cachaça artesanal, ateando fogo no referido líquido logo em seguida. Relataram que, mesmo após o término do fechamento das celas, continuaram com as atitudes subversivas e incitando os demais sentenciados a participarem. O sentenciado Alexsandro também fez várias ameaças ao corpo funcional (páginas 29/30).
+FELIPE, ao ser ouvido, na companhia de advogada da FUNAP, relatou que, na data dos fatos, habitava o Pavilhão VIII, cela 3. Estava dormindo dentro da cela, tendo acordado somente após um barulho das portas das celas batendo e, então pode presenciar discussões entre os sentenciados e os funcionários. Negou ter participado dos fatos, dizendo que tentou apaziguar a situação. Desconhecia a existência de bebida alcoólica na cela e não soube dizer se havia outros sentenciados alterados em razão da bebida, pois estava dormindo. Não soube precisar quais foram as palavras utilizadas pelos sentenciados. Negou ter participado dos fatos e disse que tudo poderia ser comprovado pelas imagens de monitoramento do pavilhão (página 35).
+Inicialmente, anote-se que os testemunhos das agentes de segurança penitenciária são coerentes e harmônicos e não há nos autos qualquer indício de que tenham agido de forma abusiva ou para consciente e injusto prejuízo de FELIPE.
+ ..
+Na hipótese, restou demonstrado que o agravado e os demais sentenciados desrespeitaram um agente penitenciário. Não satisfeitos, também arremessaram objetos na direção do servidor, derramado no chão um líquido transparente, aparentando cachaça artesanal, e ateando fogo no líquido em seguida (fls. 10-12).
+Nessa linha, para modificar a decisão de origem, a fim de absolver ou desclassificar a falta disciplinar, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.
+Ademais, de acordo com a jurisprudência desta Corte, os depoimentos dos agentes públicos gozam de presunção de veracidade e legitimidade, inerentes aos atos administrativos em geral.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. POSSE DE INSTRUMENTO CAPAZ DE OFENDER A INTEGRIDADE FÍSICADE OUTREM - ART. 50, INCISO III, DA LEI 7.210/84. ABSOLVIÇÃO. PRESUNÇÃO DE VERACIDADE DO DEPOIMENTO DOS AGENTES PENITENCIÁRIOS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO DESPROVIDO.
+ ..
+2. A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave (..). A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral. (HC n. 391170, Rel. Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017). Na mesma linha de entendimento: HC n. 334732, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, julgado em 17/12/2015, publicado em 1º/2/2016.
+3. Outrossim, desconstituir o entendimento firmado pelas instâncias originárias demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes.
+4. Agravo desprovido. (AgRg no HC n. 821.526/PR, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 29.6.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Tendo as instâncias de origem concluído, com base nas provas produzidas no procedimento disciplinar interno, especialmente nas declarações dos agentes penitenciários, que o agravante praticou falta grave consistente na subversão da ordem, para se chegar a entendimento diverso, necessário seria o revolvimento do conteúdo fático-probatório dos autos, incabível nesta via.
+2. Outrossim, "a Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  ..  (HC n. 391.170/SP, rel. Min. Nefi Cordeiro, julgado em 1º/8/2017, publicado em 7/8/2017).
+3. Agravo regimental desprovido. (AgRg no HC n. 797.089/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22.6.2023.)
+De igual sorte: AgRg no HC n. 817.932/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 2.6.2023; AgRg no HC n. 811.101/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 22.5.2023; HC n. 850.327, Rel. Ministro Sebastião Reis Júnior, DJe de 11.10.2023; HC n. 692.749/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 6.10.2021.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
