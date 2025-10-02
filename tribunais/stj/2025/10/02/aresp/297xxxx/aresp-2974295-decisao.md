@@ -1,0 +1,22 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do  Tribunal de Justiça do Estado do Rio Grande do Sul  no Recurso em Sentido Estrito n. 5168279-59.2024.8.21.0001.
+Nas razões do especial, o recorrente apontou a violação dos arts. 74, §1º, 155, caput, 413, caput e §1º e 414, caput, todos do CPP. Requereu o restabelecimento da decisão que pronunciou o réu.
+O Tribunal de origem não conheceu do recurso, em decorrência da Súmula n. 283 do STF.
+Neste agravo, requer o "afastamento da Súmula 283 da Suprema Corte, pois todos os fundamentos empregados no acórdão foram devidamente enfrentados quando do recurso especial ministerial" (fl. 182). Requer a admissão e o provimento do recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do agravo pela incidência da Súmula n. 182 do STJ.
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso em exame, a Corte local não admitiu o recurso pelos seguintes motivos (fl. 168 ):
+3. Não merece trânsito a irresignação, porquanto as razões do recurso não atacam todos os fundamentos do acórdão recorrido.
+De efeito, o Órgão Julgador impronunciou o recorrido "pela extrema fragilidade dos indícios de autoria, bem como pela violação à cadeia de custódia da prova detectada nesta instância", conforme se extrai do voto condutor do acórdão no evento 13, RELVOTO1.
+O recorrente, contudo, deixou de infirmar o fundamento do aresto relativo à quebra da cadeia de custódia da prova.
+Assim, é caso de aplicação da Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A parte, contudo, não rebateu todos os fundamentos da inadmissão do especial, uma vez que se limitou a afirmar, de forma genérica, que somente os fundamentos que por si sós forem aptos à manutenção da decisão recorrida ensejam o óbice em questão e que (fl. 181):
+ ..  no caso dos autos, os fundamentos centrais do aresto combatido foram justamente as matérias atacadas no recurso especial, isto é, a SUFICIÊNCIA DOS INDÍCIOS DE AUTORIA PARA PRONÚNCIA DO ACUSADO, consistentes em "do embate probatório colacionado aos autos, em especial no laudo pericial de confronto papiloscópico nº 138149/2015 (evento 3, INQ1, págs. 14-16, e evento 6, PROCJUDIC1, págs. 43-47) e da prova oral judicializada, notadamente dos depoimentos prestados pelos Policiais Civis Luiz Paulo Bello Chaltein de Almeida e Roberta Vargas Bastos, que existem elementos de prova hábeis para submissão do réu a julgamento perante o Tribunal do Júri  ..
+Assim, não demonstrou a abrangência do fundamento autônomo do acórdão relativo à violação da cadeia de custódia pelo recurso especial . Ao apontar o laudo pericial como parte do acervo que entende suficiente para a pronúncia, o agravante fez o contrário: reforçou a essencialidade da discussão não travada e, consequentemente, a ausência de impugnação adequada ao óbice da Súmula n. 283 do STF, o que atrai a aplicação da Súmula n. 182 do STJ.
+Deveras, o agravante deve expor, com particularidade, a inexistência de óbices para o conhecimento do especial. A alegação genérica de não incidência do óbice, sem a demonstração concreta e particularizada das razões para tanto, é insuficiente para satisfazer o ônus impugnativo que recai sobre o agravante.
+Nessa perspectiva: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada". (AgInt no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2ª T., DJe 10/8/2016, destaquei)
+Portanto, o agravante não se desincumbiu do ônus de expor, integral, específica e detalhadamente, os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada" (destaquei).
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se  e  intimem-se.
+EMENTA
