@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito do Juizado Especial Criminal de Águas Lindas/GO, suscitante, e o Juízo de Direito do Terceiro Juizado Especial Criminal de Brasília/DF , suscitado.
+Consta dos autos que foi lavrado Termo Circunstanciado de Ocorrência em razão da prática, em tese, do delito previsto no art. 310 do Código de Trânsito Brasileiro, entregar a direção de veículo automotor a pessoa não habilitada, consistente no fato de que o investigado Donizeti Marques de Oliveira teria permitido que seu funcionário, Radson Rafael Dutra Santos, não habilitado, conduzisse o veículo de sua propriedade, ocasião em que foram surpreendidos por guarnição da Polícia Militar do Distrito Federal, em Brasília/DF.
+O Juízo de Direito do Terceiro Juizado Especial Criminal de Brasília/DF declinou da competência para Águas Lindas/GO, entendendo que a entrega da direção teria ocorrido desde a residência do investigado, localizada naquela cidade.
+Por sua vez, o Juízo de Direito do Juizado Especial Criminal de Águas Lindas/GO, ao receber os autos, afirmou não haver elementos concretos nos autos que comprovassem que a entrega da direção ocorreu em seu território, destacando que a conduta foi flagrada em Brasília/DF, suscitando, assim, o presente conflito.
+O Ministério Público Federal manifestou-se pela fixação da competência no Juízo de Direito do Terceiro Juizado Especial Criminal de Brasília/DF, suscitado (fls. 65-69).
+É o relatório. Decido.
+Conheço do conflito de competência, porque se trata de incidente processual instaurado entre juízos vinculados a tribunais distintos, e, por isso, o Superior Tribunal de Justiça deve julgá-lo, nos termos do art. 105, I, d, da Constituição da República.
+Como se vê, a controvérsia limita-se a definir o juízo competente para processar o feito instaurado para apurar a prática do crime previsto no art. 310 do CTB.
+Nos termos do art. 70 do Código de Processo Penal, a competência, em regra, firma-se no local da consumação da infração penal. O art. 63 da Lei n. 9.099/95, aplicável aos Juizados Especiais Criminais, segue a mesma lógica, fixando a competência pelo lugar da prática da infração.
+O delito previsto no art. 310 do CTB consuma-se no momento em que o agente permite, confia ou entrega a direção de veículo automotor a pessoa não habilitada, sendo suficiente a efetiva condução do veículo.
+No presente caso, a conduta foi flagrada em Brasília/DF, onde policiais militares do Distrito Federal surpreenderam o investigado juntamente com o condutor não habilitado em via pública, não havendo, contudo, nos autos elementos concretos que comprovem a entrega do veículo em Águas Lindas/GO, razão pela qual não é possível fixar a competência com base em mera presunção.
+Nesse sentido, mutatis mutandis:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. ADULTERAÇÃO DE SINAL DE VEÍCULO AUTOMOTOR (ART. 311 DO CÓDIGO PENAL). PENA MAIS GRAVE. TIPIFICAÇÃO DO DELITO CONEXO (FURTO SIMPLES OU RECEPTAÇÃO SIMPLES). IRRELEVÂNCIA PARA A FIXAÇÃO DA COMPETÊNCIA. LOCAL DA ADULTERAÇÃO NÃO CONHECIDO. RESIDÊNCIA DOS AUTORES DO DELITO. DESCONHECIMENTO. PREVENÇÃO. LOCAL DA DESCOBERTA DO FATO DELITUOSO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O crime do art. 311 do Código Penal, crime instantâneo de efeitos permanentes, possui penas abstratamente cominadas que vão de 3 (três) a 6 (seis) anos de reclusão. É mais grave do que os delitos de receptação simples e de furto simples, cujas reprimendas abstratas, em ambos, são de 1 (um) a 4 (quatro) anos de reclusão.
+Por isso, no caso concreto, atrai a prevenção para o delito conexo, seja ele furto ou receptação, por força do art. 78, inciso II, alínea a, do Código de Processo Penal.
+2. Não há informação sobre o local onde teria sido efetivada a adulteração, se em território paulista ou mineiro. Contudo, a descoberta do referido delito ocorreu na comarca de Uberaba/MG. Assim, a competência é firmada pela prevenção, nos termos do art. 72, § 2.º, do Código de Processo Penal, ou seja, é do Juízo do Estado de Minas Gerais, pois também não há notícia certa sobre o local de residência dos supostos autores do crime, o que afasta a incidência da regra do caput do mesmo artigo.
+3. Conflito conhecido para declarar competente o Juízo de Direito da 3.ª Vara Criminal de Uberaba-MG, o Suscitado.
+(CC n. 181.588/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 13/10/2021, DJe de 19/10/2021.)
+Assim, mostra-se correto fixar a competência no foro em que a infração foi constatada e onde se produziu o flagrante, garantindo maior segurança jurídica e efetividade à persecução penal.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito do Terceiro Juizado Especial Criminal de Brasília/DF, o suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
