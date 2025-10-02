@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SIRLEI BATISTA DA SILVA contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça do Estado do Paraná (TJ-PR), assim ementado:
+"APELAÇÕES CÍVEIS. PRETENSÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. APELANTE (2) QUE CARECE DE INTERESSE RECURSAL QUANTO À PLEITO DE RESSARCIMENTO DE ALUGUERES. NÃO CONHECIMENTO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DENUNCIAÇÃO DA LIDE INDEVIDA. EXISTÊNCIA DE DANOS AO IMÓVEL INCONTROVERSA. LAUDO PERICIAL QUE DEMONSTRA A RESPONSABILIDADE DA LOTEADORA, CONSTRUTORA E RESPONSÁVEL PELO EMPREENDIMENTO VIZINHO. INEXISTÊNCIA DE RESPONSABILIDADE DO ENTE MUNICIPAL. IMPOSSIBILIDADE DE REPAROS NO IMÓVEL. INDENIZAÇÃO POR PERDAS E DANOS. DEVOLUÇÃO DO VALOR PAGO A TÍTULO DE FINANCIAMENTO, COM A BAIXA DO CONTRATO. DANOS MATERIAIS. NÃO COMPROVAÇÃO. DANOS MORAIS CONSTATADOS. QUANTUM INDENIZATÓRIO. CRITÉRIO BIFÁSICO. VALOR REDUZIDO. RECURSO (1) NÃO PROVIDO. RECURSO (2) CONHECIDO EM PARTE E PARCIALMENTE PROVIDO. RECURSO (3) NÃO PROVIDO. RECURSO (4) PROVIDO EM PARTE." (e-STJ, fl. 1829)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1863/1865, 1881/1883 e 1897/1899).
+Nas razões do recurso especial (e-STJ, fls. 2044/2052), a parte recorrente aponta ofensa aos artigos 324, §1º, e 509, inciso II, do Código de Processo Civil de 2015 e aos artigos 186 e 927 do Código Civil de 2002, além de divergência jurisprudencial, sustentando, em síntese, que as recorridas devem ser responsabilizadas pelos danos materiais sofridos, os quais podem ser apurados em liquidação de sentença.
+Foram apresentadas contrarrazões (e-STJ, fls. 2056/2063).
+É o relatório. Decido.
+"Consoante as regras de distribuição do ônus probatório, atribui-se ao autor o ônus de provar os fatos constitutivos de seu direito, e ao réu, os fatos extintivos, modificativos ou impeditivos do direito do autor, nos termos do art. 373, I e II, do CPC/2015 (art. 333, I e II, do CPC/73)" (AgInt no AREsp 1.694.758/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe de 18/06/2021).
+No caso, quanto à ausência de comprovação dos danos materiais, a Corte Estadual assim se manifestou:
+"58. Pretende a autora recorrente a indenização pela mobília da residência que teria sido inutilizada pela falha na prestação de serviços das rés.
+59. Tal pedido foi colocado genericamente na exordial, asserindo a demandante que a quantificação do dano deveria ocorrer em sede de liquidação.
+60. Nada obstante, não há prova mínima do , o que poderia ter sido comprovado an debeatur pela autora mediante fotografias dos bens existentes na residência e indicação das avarias, listagem dos móveis que lá estavam ou até mesmo notas fiscais e comprovantes de compra, ônus que lhe incumbia nos termos do art. 373, I, do CPC.
+61. Destaca-se que os danos materiais não podem ser presumidos, de sorte que, não restando minimamente comprovada a sua ocorrência, indevida a indenização." (e-STJ, fl. 1847)
+Verifica-se, portanto, que o Tribunal de origem indeferiu o pedido de indenização por danos materiais por entender pela não comprovação acerca de fato constitutivo do direito do autor. Assim, a modificação desse entendimento exige o reexame de matéria fática, inviável, em sede de recurso especial, por esbarrar no óbice da Súmula n. 7/STJ. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. SEGURO HABITACIONAL. AUSÊNCIA DE RESPONSABILIDADE. APÓLICE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7/STJ. DISSÍDIO PREJUDICADO. FATOS CONSTITUTIVOS. INVERSÃO DO ÔNUS DA PROVA.
+1. Na hipótese, acolher a pretensão recursal para infirmar a conclusão do tribunal de origem de que os recorrentes não se desincumbiram do ônus de comprovar o fato constitutivo de direito pleiteado demandaria o reexame das provas dos autos, procedimento incompatível com a via eleita. Incidência da Súmula nº 7/STJ.
+2. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. A inversão do ônus da prova não exime a parte autora da prova mínima dos fatos constitutivos do seu direito e do nexo causal entre a atuação da parte ré e os alegados prejuízos.
+4. Agravo interno não provido."
+(AREsp n. 2.693.409/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ÔNUS DA PROVA. FATO CONSTITUTIVO DO DIREITO DO AUTOR. COMPROVAÇÃO. REVISÃO. SÚMULA N. 7/STJ.
+1."Consoante as regras de distribuição do ônus probatório, atribui-se ao autor o ônus de provar os fatos constitutivos de seu direito, e ao réu, os fatos extintivos, modificativos ou impeditivos do direito do autor, nos termos do art. 373, I e II, do CPC/2015 (art. 333, I e II, do CPC/73)" (AgInt no AREsp 1.694.758/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe de 18/06/2021).
+2. Na espécie, concluindo o Tribunal de origem pela comprovação acerca de fato constitutivo do direito do autor, a modificação desse entendimento exige o reexame de matéria fática, inviável, em sede de recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.719.173/RO, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025, g.n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO PELO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 13/STJ. INADMISSIBILIDADE. DECISÃO MANTIDA.
+1. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. No caso concreto, a análise das razões apresentadas pelo parte recorrente, quanto à comprovação dos fatos constitutivos do direito da parte autora e à distribuição e produção probatória, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Esta Corte tem entendimento de que a incidência da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. De acordo com a orientação inserida na Súmula n. 13/STJ, inexiste dissídio jurisprudencial entre julgados prolatados pelo mesmo tribunal.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.617.288/SC, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 21/10/2024, DJe de 29/10/2024, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DECISÃO-SURPRESA. NÃO OCORRÊNCIA. AUSÊNCIA DE INOVAÇÃO NAS RAZÕES FINAIS. DANOS MATERIAIS E MORAIS. AUSÊNCIA DE COMPROVAÇÃO DO FATO CONSTITUTIVO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, a Corte de origem asseverou que, nas razões finais apresentadas pelo recorrido, não houve inovação apta a interferir no contraditório entre as partes. Em verdade, o recorrido limitou-se a realizar uma síntese das teses e provas constantes no processo.
+2. Não ocorre violação do art. 10 do CPC quando a decisão agravada adota fundamentos jurídicos relacionados com a controvérsia instaurada entre as partes.
+3. O Tribunal estadual concluiu, por meio da interpretação de cláusulas contratuais e do conjunto probatório dos autos, que a instituição financeira era apenas a beneficiária do seguro, e não a contratante, de modo que não detinha legitimidade para acionar o seguro-garantia. Aduziu, ainda, que não ficou caracterizado o fato constitutivo do direito do autor, sendo inviável o pleito indenizatório de danos materiais e morais. Incidência das Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.352.298/BA, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/5/2024, DJe de 4/6/2024, g.n.)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RIST, conheço do agravo para não conhecer do recurso especial.
+Publique-se
+EMENTA
