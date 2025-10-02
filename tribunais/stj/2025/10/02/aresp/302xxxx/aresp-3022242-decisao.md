@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por EXTRAÇÃO DE AREIA OUROANA EIRELI, PIRES SILVA MATERIAIS DE CONSTRUÇÃO UNIPESSOAL LTDA e SARICO MATERIAIS PARA CONSTRUÇÃO LTDA contra decisão que inadmitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 932, e-STJ):
+EMENTA: AGRAVO INTERNO NO RECURSO DE APELAÇÃO. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO INTEMPESTIVOS. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. RECURSO DE APELAÇÃO INTEMPESTIVO. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME 1. Trata-se de agravo interno contra decisão que negou trânsito ao recurso de apelação aviado em face de sentença que julgou procedentes os pedidos deduzidos nos autos da ação de rescisão contratual. II. QUESTÃO EM DEBATE 2. A questão em debate reside na tempestividade do recurso de apelação, tendo em vista que os embargos de declaração anteriormente opostos pela parte apelada foram considerados manifestamente intempestivos. III. RAZÕES DE DECIDIR 3. Os embargos de declaração, quando intempestivos, não interrompem o prazo para interposição de recursos, conforme jurisprudência do STJ. 4. No caso em análise, os embargos de declaração foram opostos fora do prazo legal, não tendo o condão de interromper o prazo recursal para a interposição do recurso de apelação. Diante das particularidades do caso concreto, mormente por se tratar de um pressuposto recursal objetivo, facilmente verificável, a ausência de interrupção recursal atingiu ambas as partes e não apenas a parte embargante/agravada. IV. DISPOSITIVO E TESE 5. Recurso de agravo interno desprovido. "1. Os embargos de declaração que não foram conhecidos, diante da intempestividade, não interrompem o prazo para interposição de outros recursos." Dispositivos relevantes citados: CPC, art. 1.026. Jurisprudências relevantes citadas: AgInt no AREsp n. 1.808.001/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023; AgInt no REsp n. 2.014.909/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023.
+Nas razões de recurso especial (fls. 939-946, e-STJ), a parte recorrente sustentou violação aos arts. 1.003, § 5º, 1.023, 1.026, 219, 224, 231 e 272 do Código de Processo Civil, art. 4º da Lei nº 11.419/2006, defendendo que a correta contagem de prazos e a interrupção decorrente de embargos de declaração e o termo inicial de publicação em Diário da Justiça Eletrônico foram desrespeitados no caso concreto. Aduziram que deve prevalecer a data de publicação no Diário da Justiça Eletrônico quando concomitante com intimação eletrônica, com impacto na aferição da tempestividade dos embargos.
+Apontou, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 957-967, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 975-977, e-STJ), o que ensejou o manejo do presente agravo (fls. 982-987, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta apresentadas às fls. 992-998, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Constata-se da leitura do acórdão recorrido que o Tribunal de origem não decidiu acerca dos arts. 1.003, § 5º, 1.023, 1.026, 219, 224, 231 e 272 do CPC e art. 4º da Lei nº 11.419/2006, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Saliente-se, ainda, que a parte não opôs embargos declaratórios contra o acórdão recorrido, a fim de provocar o pronunciamento do Colegiado sobre a tese relativa à concomitância da publicação no Diário com a intimação via portal eletrônico.
+Incidem, portanto, os óbices dispostos nas Súmulas 282 e 356 do STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+(..)
+3. Quanto à alegação de que os honorários advocatícios devem ser fixados por equidade (art. 85, § 8º, do CPC/15), observa-se que tal tese não foi analisada pelo Tribunal local, carecendo de prequestionamento. Ademais, deixou a insurgente de apontar, na petição do recurso especial, eventual violação do artigo 1022 do CPC/15, no ponto, razão pela qual incide, na espécie, as Súmulas 282 e 356 do STF; e 211 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1890401/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2021, DJe 04/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. VIOLAÇÃO DO ART. 6º DA LINDB. INSTITUTO DE NATUREZA CONSTITUCIONAL. 2. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO DEMONSTRANDO FUNDAMENTAÇÃO DEFICIENTE. ARGUMENTO NÃO ATACADO. SÚMULA 182 DO STJ. 3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. APLICAÇÃO DO TETO REGULAMENTAR. NECESSIDADE DE APORTE. CORREÇÃO MONETÁRIA. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULAS 282 E 356 DO STF. 4. FÓRMULA PARA O CÁLCULO DE BENEFÍCIO. CONTROVÉRSIA SOBRE DISPOSIÇÕES DO REGULAMENTO. INTERPRETAÇÃO CONFERIDA PELA CORTE DE ORIGEM. APLICAÇÃO DO ART. 31 DO REGULAMENTO DE BENEFÍCIOS DA PETROS. SÚMULAS 5 E 7 DO STJ. 5. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. As matérias ou as teses relacionadas aos artigos apontados não foram enfrentadas pelo acórdão recorrido, o que obsta o conhecimento do recurso especial. Nesse ponto, incidem as Súmulas n. 282 e 356 do STF.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1250115/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+2. Nesse sentido, também inviável o conhecimento do recurso com fundamento na divergência jurisprudencial, pois mesmo nas hipóteses de recurso especial interposto com fulcro na alínea c do inciso III do art. 105 da Constituição Federal, é imprescindível o prequestionamento da matéria para viabilizar o acesso à instância extraordinária.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE CONTRATO DE LOCAÇÃO. EXECUÇÃO PROVISÓRIA DO JULGADO. 1. ART. 73 DA LEI N. 8.245/1991, FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1.1. DEFICIÊNCIA NAS RAZÕES RECURSAIS. SÚMULA 284/STF.
+2. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 3. ARBITRAMENTO DE HONORÁRIOS. NÃO CABIMENTO. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento. 1.1. Ademais, a falta de pertinência entre o dispositivo legal apontado como violado e as razões recursais atrai a incidência, por analogia, da Súmula n. 284 do Supremo Tribunal Federal.
+2. Outrossim, a ausência de prequestionamento inviabiliza o recurso especial também pela alínea c do permissivo constitucional, estando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. A jurisprudência desta Corte está sedimentada no sentido de não ser cabível, na execução provisória, o arbitramento de honorários advocatícios em favor do exequente.
+4. Agravo interno desprovido.
+(AgInt no REsp 1612607/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/04/2019, DJe 06/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE COBRANÇA. NOVO CPC. PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DISSÍDIO JURISPRUDENCIAL. NECESSIDADE DE PREQUESTIONAMENTO. ALEGAÇÃO DE VIOLAÇÃO A SÚMULA. INCIDÊNCIA DA SÚMULA 518/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta eg. Corte é no sentido de que, à luz do Novo Código de Processo Civil, admite-se o prequestionamento ficto, contudo, é necessário que a parte aponte o vício no acórdão estadual, para que se proceda ao debate acerca das matérias federais indicadas no recurso especial - exegese dos arts. 1.022 e 1.025 do CPC/2015. Precedentes. No caso dos autos, constata-se a ausência de prequestionamento, ante a não indicação de violação ao art 1.022 do CPC/2015, para fins de prequestionamento ficto.
+2. Para que se conheça do apelo nobre pela alínea c do permissivo constitucional, também se faz necessário o prequestionamento dos temas vinculados aos artigos objeto da arguição de divergência jurisprudencial. Precedente.
+3. Enunciados sumulares não se enquadram no conceito de lei federal disposto no art. 105, III, da Carta Magna. Incidência da Súmula 518/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1308881/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+3. Do exposto, com fundamento no art. 932 do Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
