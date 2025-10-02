@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 450):
+OBRIGAÇÃO DE FAZER - MANUTENÇÃO DO CONTRATO DE PLANO DE SAÚDE - DANOS MORAIS - Autor que pleiteia o restabelecimento do plano de saúde rescindido unilateralmente pelas rés, condenadas a pagar indenização por danos morais - Sentença de parcial procedência - Apelam autor e Seguradora-ré - Recurso da ré desprovido, provido o do autor - Rescisão unilateral imotivada - Menor, portador do Transtorno do Espectro Autista (TEA), em tratamento - Vedação de suspensão ou rescisão unilateral do contrato, durante a internação do titular, prevista no inciso III, art. 13 da Lei 9.656/98, aplicada analogicamente para o caso em que o dependente do plano estiver em tratamento de saúde - Aplicação analógica também do Tema 1082 do C. STJ - Descumprimento da Resolução nº 19/99 do CONSU que determina que, no caso de cancelamento de plano coletivo, seja disponibilizado ao beneficiário plano individual ou familiar, sem a necessidade de cumprimento de novos prazos de carência - Manutenção do plano de saúde nos moldes contratados que é de rigor - Danos morais caracterizados - Indenização ora fixada em R$ 10.000,00 que se revela adequada - Sentença parcialmente reformada para tal finalidade -Sucumbência a encargo das rés - RECURSO DA RÉ DESPROVIDO. RECURSO DO AUTOR PROVIDO.
+Em suas razões (fls. 464-480), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) arts. 13, parágrafo único, II e III, da Lei n. 9.656/1998, sob argumento de que "a condição que acomete o autor, por si só, não pode ser confundida com doença que necessite de tratamento para manutenção da vida, o que afasta a subsunção da hipótese ao contido no Tema 1.082 do STJ" (fl. 470);
+(ii) arts. 927, III, e 1.039 do CPC, dado que "a situação albergada pelo repetitivo se assemelha à internação, quando presente risco de morte ou à incolumidade física do beneficiário. Com efeito, essa omissão deve ser devidamente sanada, eis que a mens legislativa quando a implantação do novo CPC, em 2015, foi de que os precedentes dos tribunais superiores fossem adotados pelos tribunais regionais" (fl. 471);
+(iii) arts. 186, 188 e 927 do CC, pois "não há que se falar em dano moral, quiçá presumido, pois, no momento do cancelamento, ao menos, havia legalidade e validade do ato, pois amparado pelo contrato firmado entre as partes" (fl. 477); e
+(iv) art. 478 do CC, uma vez que, "por não comercializar plano de saúde individual ou familiar, a norma antes elencada evidencia a inexistência de ilegalidade na ausência de oferta de migração para plano individual ou familiar" (fl. 476).
+Contrarrazões não apresentadas (fl. 509).
+O recurso foi admitido na origem.
+Houve parecer do MPF, sob a seguinte ementa (fl. 527):
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. BENEFICIÁRIO SUBMETIDO A TRATAMENTO PARA TEA. OPERADORA DEVE ASSEGURAR A CONTINUIDADE DOS TRATAMENTOS. DANO MORAL DEVIDAMENTE CARACTERIZADO. AFASTAMENTO. INVIABILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+- Parecer pelo conhecimento e improvimento do recurso especial.
+É o relatório.
+Decido.
+A controvérsia tem origem na resilição unilateral de contrato de plano de saúde coletivo por adesão do qual era beneficiário menor portador de Transtorno do Espectro Autista - TEA. A resilição se deu sem oferta de migração para plano individual ou familiar.
+A sentença julgou parcialmente procedente os pedidos iniciais, a fim de "manter em vigor o plano de saúde do autor" (fl. 321), julgando improcedente, no entanto, o pedido quanto a condenação em danos morais (fl. 320).
+O Tribunal de origem reformou a sentença para julgar procedente, também, o pedido de indenização por danos morais, fixando-os em R$ 10.000,00 (dez mil reais) (fl. 467).
+(I) O Tribunal de origem concluiu que "não cabe aceitar-se a rescisão unilateral imotivada do contrato, em prejuízo do beneficiário, previsão contratual abusiva, na medida em que restritiva de direito fundamental, inerente à natureza do contrato de seguro, que é a garantia à saúde (artigo 51, IV, parágrafo 1º, II e III do CDC)" (fl. 459 - grifei).
+Contudo, no recurso especial, a parte deixou de impugnou especificamente o fundamento consumerista do acórdão recorrido.
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido. Incide, portanto, no caso a Súmula n. 283 do STF.
+Ainda que assim não fosse, o Tribunal de origem aplicou o Tema Repetitivo n. 1.082/STJ ao caso, "uma vez que a imprescindibilidade do atendimento decorre não só do diagnóstico (fls. 41-42) como do relatório psicológico do profissional que o acompanha" (fl. 455 - grifei).
+Modificar o entendimento do acórdão impugnado nesse ponto demandaria reexame do conjunto fático-probatório dos autos, especificamente do relatório psicológico do paciente, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+(II a IV) Quanto à alegação de ofensa aos arts. 927, III, e 1.039 do CPC e 186, 188, 478 e 927 do CC, não houve pronunciamento do Tribunal a quo sobre essas questões, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
