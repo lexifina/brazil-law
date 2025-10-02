@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DO DISTRITO FEDERAL - DF, suscitante, e o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO FECHADO E SEMIABERTO DE SÃO DOMINGOS - GO, suscitado.
+Consta nos autos que o Juízo de Execução Penal Meio Fechado e Semiaberto da Comarca de São Domingos unificou as reprimendas do reeducando Manoel Messias Alves de Oliveira, resultando em uma pena total de 7 (sete) anos, 5 (cinco) meses e 27 (vinte e sete) dias, sob o regime semiaberto, e estabeleceu as seguintes condições (fls. 277-278):
+I- O reeducando deverá cumprir a pena em local indicado como seu domicílio, devendo apresentar nos autos comprovante de endereço e telefone atualizados no prazo de 10 dias;
+II - apresentar, no prazo de 60 dias, comprovação de trabalho lícito, servindo como prova CTPS devidamente assinada, declaração do empregador com assinatura reconhecida em cartório ou declaração de testemunhas do local em que presta serviço, com reconhecimento de assinatura em cartório, no caso de trabalhador autônomo;
+III- comparecer em juízo, mensalmente, até o 10º (décimo) dias útil, para justificar suas atividades e trabalho que desempenha, e também para opor sua nota de ciente no acompanhamento da pena;
+IV- Recolhimento domiciliar noturno, diariamente, e nos períodos de folga do trabalho, no período compreendido entre as 20h até as 06h do dia seguinte, no local indicado pela reeducando;
+V Não se ausentar desta Comarca sem a devida autorização judicial;
+VI - Manter seu endereço sempre atualizado no processo;
+VII não portar armas, não usar drogas ilícitas, nem frequentar locais de má-fama;
+VIII - Não cometer outras infrações penais;
+IX - Submeter-se ao monitoramento eletrônico, devendo o apenado comparecer ao local indicado para instalação da tornozeleira, imediatamente após sua disponibilização. Para tanto, deverá o reeducando comparecer à Unidade Prisional local para preencher formulário para inclusão no programa de monitoramento eletrônico, no prazo de 10 dias da progressão.
+O Juízo suscitado declinou da competência para a execução da pena, porque o reeducando trabalha e reside em Brasília, e, por isso, determinou a transferência da execução para o Juízo de Direito da Vara de Execuções Penais do Distrito Federal (fls. 281-282).
+O Juízo suscitante, por sua vez, entende quea transferência ocorreu sem a prévia consulta e, ainda, não existe ordem de segregação, execução ou condenação criminal no âmbito da justiça do Distrito Federal e Territórios contra o reeducando (fl. 288-292).
+A manifestação do Ministério Público foi pela competência do JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO FECHADO E SEMIABERTO DE SÃO DOMINGOS - GO, suscitado (fls. 305-312).
+É o relatório. Decido.
+Conheço do conflito de competência, porque se trata de incidente processual instaurado entre juízos vinculados a tribunais distintos, e, por isso, o STJ deve julgá-lo, nos termos do art. 105, I, d, da Constituição da República.
+O art. 65 da Lei de Execuções Penais estabelece expressamente que "a execução penal compete ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença". Assim, a competência para a execução da pena é do Juízo da condenação, ora suscitado, cabendo registrar que o simples fato de o apenado residir ou trabalhar em outra comarca não tem o condão de modificar essa competência, ante a ausência de previsão legal.
+O cumprimento de pena em regime semiaberto ocorre em unidades específicas, devendo o Juízo competente realizar consulta prévia ao Juízo de destino para fins de transferência da execução penal, nos termos do artigo 4º, §2º, da Resolução 404/2021 do CNJ.
+Conforme pacíficos precedentes deste C. STJ, com arrimo no disposto no artigo 65 da Lei de Execuções Penais, "a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência" (CC n. 113.112/SC, relator Ministro Gilson Dipp, Terceira Seção, julgado em 9/11/2011, DJe de 17/11/2011.)
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL.
+EXECUTADO COM DOMICÍLIO EM LOCAL DIVERSO DO JUÍZO DA EXECUÇÃO. REGIME SEMIABERTO HARMONIZADO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. POSSIBILIDADE DE EXPEDIÇÃO DE CARTA PRECATÓRIA PARA O ACOMPANHAMENTO DO CUMPRIMENTO DA PENA SEM DESLOCAMENTO DA COMPETÊNCIA. PRECEDENTES.
+1. A mudança de domicílio do executado não constitui causa legal de deslocamento de competência para execução da pena, sendo indispensável a consulta prévia ao juízo destinatário. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que "a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência" (CC n. 113.112/SC, relator Ministro Gilson Dipp, Terceira Seção, julgado em 9/11/2011, DJe de 17/11/2011.) 3. Hipótese em que o Juízo da execução, considerando que o apenado foi beneficiado com regime semiaberto harmonizado e verificada a mudança de endereço, declinou da competência e determinou a remessa dos autos da própria execução ao Juízo do domicílio do executado, sem consulta prévia.
+4. O fato de o apenado ter sido beneficiado com a prisão domiciliar - regime semiaberto harmonizado - e indicado endereço diverso da comarca em que verificada a condenação não modifica a competência ante a ausência de previsão legal (CC n. 209.437/PR, relator Ministro Sebastião Reis Júnior, DJEN de 5/5/2025) 5. Conflito conhecido para declarar competente o Juízo da Vara de Direito de Cambará - PR, podendo ser deprecado o acompanhamento e fiscalização das penalidades impostas, sem deslocamento da competência.
+(CC n. 209.986/SC, relator Ministro Og Fernandes, Terceira Seção, julgado em 15/4/2025, DJEN de 5/5/2025.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. FIXAÇÃO DA COMPETÊNCIA. JUÍZO DA CONDENAÇÃO. ALTERAÇÃO DE DOMICÍLIO. DESNECESSIDADE DE TRANSFERÊNCIA DA EXECUÇÃO PENAL. DELEGAÇÃO DE MEROS ATOS DE FISCALIZAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Há muito se firmou jurisprudência nesta Corte Superior no sentido de que, nas penas restritivas de direito, bem como nas penas privativas de liberdade, a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado, quando for o caso, somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência.
+ ..  3. Agravo regimental desprovido.
+(AgRg no CC n. 198.927/RS, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 25/10/2023, DJe de 31/10/2023.)
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO FECHADO E SEMIABERTO DE SÃO DOMINGOS - GO, suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
