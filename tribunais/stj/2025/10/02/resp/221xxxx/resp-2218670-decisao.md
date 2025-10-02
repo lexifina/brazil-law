@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ nos termos desta ementa (fls. 791-795):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE INDENIZAÇÃO POR RESPONSABILIDADE OBRIGACIONAL. SISTEMA FINANCEIRO HABITACIONAL. SEGURO. DANOS PROGRESSIVOS. IMPOSSIBILIDADE DE VERIFICAÇÃO DO TERMO INICIAL. PRESCRIÇÃO AFASTADA. RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROCESSAMENTO.
+1. A prescrição da pretensão autoral, nos casos em que se pleiteia indenização securitária decorrente de vícios na estrutura do imóvel, conta-se a partir da ciência inequívoca dos vícios construtivos.
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que, quando se trata de indenização securitária decorrente de vícios na estrutura do imóvel, não havendo meios de saber quando surgiram os defeitos na construção, o termo inicial do prazo prescricional é o momento em que o segurado comunica o fato à seguradora e esta se recusa a indenizar.
+3. Recurso de apelação conhecido e provido. Sentença anulada. Retorno dos autos à origem para regular processamento.
+Rejeitados os embargos de declaração opostos (fls. 868-872).
+No presente recurso especial, a parte recorrente sustenta que deve ser aplicado o prazo prescricional anual previsto no artigo 206, §1º, inciso II, alínea "b", do Código Civil, por se tratar de ação proposta contra seguradora. Aponta ainda a existência de interesse jurídico da Caixa Econômica Federal, em razão do risco de comprometimento do Fundo de Compensação de Variações Salariais, com fundamento na Lei nº 13.000/2014 e em precedentes do STJ. Pleiteia, assim, o reconhecimento da competência da Justiça Federal, com a inclusão da Caixa como litisconsorte passiva necessária. Ao final, requer o reconhecimento da prescrição anual ou, sucessivamente, a remessa dos autos à Justiça Federal.
+Apresentadas contrarrazões ao recurso especial (fls. 994-1.048), sobreveio juízo de admissibilidade positivo da instância de origem (fls. 1.107-1.115).
+É, no essencial, o relatório.
+A controvérsia devolvida ao conhecimento desta Corte Superior, mediante o recurso especial interposto, foi afetada pela Corte Especial ao rito dos arts. 1.036 e ss. do CPC/2015, em decisão proferida no REsp 1799288/PR, rel. Min. Isabel Galotti, DJe de 9/12/2019, com ordem de suspensão, para:
+Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação. (Tema 1.039).
+Assim, imperiosa a devolução dos autos ao Tribunal de origem para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015, conforme previsto no art. 2º da Resolução STJ n. 17, de 4 de setembro de 2013:
+Art. 2º. Verificada a subida de recursos fundados em controvérsia idêntica a controvérsia já submetida ao rito previsto no art. 543-C do Código de Processo Civil, o
+presidente poderá:
+I - determinar a devolução ao tribunal de origem, para nele permanecerem sobrestados os casos em que não tiver havido julgamento do mérito do recurso recebido como representativo de controvérsia;
+II - determinar a devolução dos novos recursos ao tribunal de origem, para os efeitos dos incisos I e II do § 7º do art. 543-C do Código de Processo Civil, ressalvada a hipótese do § 8º do referido artigo, se já proferido julgamento do mérito do recurso representativo da controvérsia.
+Logo, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que versam sobre a mesma controvérsia devem retornar à origem, dando ensejo à aplicação uniforme da tese vinculante.
+Somente depois de realizada tal providência, isto é, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores para análise dos pontos jurídicos neles suscitados, a menos que estejam prejudicados pelo novo pronunciamento do Tribunal local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, devendo-se: i) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceder ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
+EMENTA
