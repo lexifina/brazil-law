@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de ELIAS SAROA THEODORO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500078-70.2023.8.26.0047).
+Consta dos autos que o paciente foi condenado à pena de 50 (cinquenta) anos de reclusão, em regime fechado, pela prática do delito previsto no art. 121, § 2º, incisos I, II, IV, IX, com a incidência da causa de aumento prevista no § 2º-B, inciso II, todos do Código Penal.
+O impetrante sustenta a ocorrência de constrangimento ilegal, alegando ter havido indevida exasperação da pena-base em razão de fundamentação genérica.
+Aduz que a exasperação da pena-base em 2/3 acima do mínimo legal foi fundamentada em elementos já intrinsecamente ligados às qualificadoras do crime (meio cruel e recurso que impossibilitou a defesa da vítima), configurando bis in idem.
+Afirma que a valoração negativa da personalidade e da conduta social do paciente sem eleme ntos concretos, o que seria uma conjectura destituída de valor probatório.
+Assevera que a qualificadora do recurso que dificultou ou impossibilitou a defesa da vítima (art. 121, § 2º, IV, do Código Penal) é incompatível com a natureza do dolo eventual.
+Requer a concessão da ordem para (fl.10) :
+Anular a dosimetria da pena, determinando que seja outra realizada, com a devida fundamentação e observância dos princípios da proporcionalidade, da razoabilidade e da individualização da pena, afastando-se a valoração negativa de circunstâncias judiciais de forma genérica e sem base probatória concreta, bem como o bis in idem na exasperação da pena-base.
+Afastar a qualificadora do recurso que impossibilitou a defesa da vítima, por ser incompatível com a natureza do dolo eventual, redimensionando a pena imposta ao Paciente.
+Subsidiariamente, caso não seja acolhido o pedido de afastamento da qualificadora do recurso que impossibilitou a defesa da vítima, requer-se a esta Corte Superior que determine ao Tribunal de Justiça do Estado de São Paulo que apresente fundamentação idônea e individualizada para a manutenção da referida qualificadora, demonstrando de forma clara e objetiva a sua compatibilidade com o dolo eventual, sob pena de nulidade da decisão.
+Informações foram prestadas às fls. 103-109 e 110-149.
+O Ministério Público Federal manifestou-se às fls. 152-158, opinando pela denegação da ordem.
+É o relatório.
+DECIDO.
+Inicialmente, destaco que o presente habeas corpus foi impetrado contra acórdão do Tribunal de origem já transitado em julgado. Nesse cenário, não se deve conhecer do presente writ, manejado como substitutivo de revisão criminal, em hipótese em que não se inaugurou a competência desta Corte.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. ALEGAÇÕES DE VALORAÇÃO INADEQUADA DA PROVA, ATIPICIDADE DAS CONDUTAS, APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA E INADEQUAÇÃO DO REGIME PRISIONAL. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. A ocorrência do trânsito em julgado do ato objeto da impetração torna inviável a apreciação do pedido nesta instância superior.
+2. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois as alegações de valoração inadequada da prova, atipicidade das condutas por aplicação do princípio da insignificância, desclassificação para vias de fato e inadequação do regime prisional semiaberto demandam revolvimento fático-probatório incompatível com a via eleita, não configurando teratologia manifesta.
+4. Agravo regimental improvido.
+(AgRg no HC n. 1.000.063/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025; grifamos)
+Ademais, na espécie, verifico que não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício.
+No tocante à primeira fase da dosimetria, o Tribunal de origem manteve a valoração negativa referente aos vetores da culpabilidade, personalidade, conduta social e circunstâncias do delito, destacando (fls. 30-34; grifamos):
+DOSIMETRIA
+Elias Saroa Theodoro
+Na primeira fase, a pena-base foi fixada 2/3 acima do mínimo legal, totalizando 20 (vinte) anos de reclusão, com fundamento no art. 59 do Código Penal, diante da valoração negativa de quatro circunstâncias judiciais: culpabilidade, circunstâncias do crime, personalidade e conduta social.
+A culpabilidade apresentou-se acentuada, diante do elevado grau de reprovabilidade da conduta, praticada contra vítima hipervulnerável um recém-nascido, em contexto de reiterados maus-tratos, negligência e violência física.
+As circunstâncias do crime igualmente são extremamente gravosas, pois revelam extrema brutalidade, conforme atestado pelo laudo pericial (fls. 59/66), que apontou como causa da morte traumatismo cranioencefálico, além de múltiplas lesões em diferentes estágios e sinais de desnutrição (fls. 1058), evidenciando um cenário contínuo de sofrimento e desamparo.
+A personalidade do réu também se revelou amplamente negativa. Com efeito, os elementos probatórios colhidos nos autos indicam comportamento agressivo e odioso em relação à vítima, ausência de remorso e frieza incomum, inclusive durante o velório do próprio filho, conforme relatos testemunhais e análise do relatório técnico (fls. 690/1036). Ressalte- se, por exemplo, a sua preocupação com o acesso à plataforma de streaming e com conteúdo pornográfico (fls. 696 e 701), em total contraste com a gravidade da situação vivida pela vítima.
+Por fim, a conduta social do acusado foi igualmente considerada desfavorável. Verificou-se ausência de vínculo positivo nos âmbitos familiar, social e profissional. O réu era inativo laboralmente, fazia uso de entorpecentes, impunha à companheira o sustento do lar, apresentava histórico de agressividade no convívio familiar e comunitário, além de adotar comportamento hostil perante os próprios filhos, conforme relatos de familiares e vizinhos.
+ ..
+Diante da presença de quatro vetores judiciais negativos, mostra-se proporcional e razoável a exasperação da pena-base na fração de 2/3, nos termos da fundamentação exarada pelo douto magistrado sentenciante (fls. 1704).
+Na segunda fase, considerando a presença de três qualificadoras (motivo torpe, meio cruel e recurso que dificultou a defesa da vítima), que foram corretamente valoradas como circunstâncias agravantes, a pena foi exasperada em 1/2, resultando em 30 (trinta) anos de reclusão.
+Destaca-se que o Superior Tribunal de Justiça firmou o entendimento de que a dosimetria da pena é uma decisão discricionária do julgador, levando em consideração as particularidades fáticas do caso e as características subjetivas do agente. Essa decisão somente poderá ser revista por esta Corte em situações de violação dos parâmetros legais ou de manifesta desproporcionalidade.
+A valoração negativa da culpabilidade foi devidamente fundamentada em elementos que extrapolam o tipo penal, devido ao contexto de reiterados maus-tratos, negligência e violência física direcionados à vítima.
+No que tange às circunstâncias do crime,  d evem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso, cujo modus operandi do delito revela gravidade concreta superior à ínsita aos crimes (AgRg no HC n. 902.888/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024, grifamos). No caso em análise, as circunstâncias do crime são especialmente negativas, tendo em vista que a vítima morreu de traumatismo cranioencefálico e apresentava múltiplas lesões e desnutrição.
+No que diz respeito à personalidade do agente, a sua avaliação foi fundamentada em elementos concretos que indicam que ele é uma pessoa agressiva, com insensibilidade acentuada em relação à vítima e ausência de remorso.
+Por sua vez, a conduta social foi negativamente avaliada com base em elementos concretos do seu ambiente familiar, de trabalho e na convivência com os outros.
+Desse modo, observa-se que foi apresentada fundamentação idônea e suficiente para afastar as referidas circunstâncias judiciais, não havendo que se falar em constrangimento ilegal apto a justificar a revisão da exasperação da pena-base em sede de habeas corpus, nem tampouco em bis in idem com as qualificadoras do meio c ruel e do recurso que dificultou a defesa.
+Por fim, a tese de incompatibilidade do dolo eventual com a qualificadora do recurso que dificultou a defesa da vítima não foi apreciada no acórdão impugnado. Dessa forma, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
